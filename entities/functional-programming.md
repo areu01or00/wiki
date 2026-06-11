@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads
+- **2026-06-11** | [Understanding Monads](https://nickx.hu/Monads.pdf) | kw: monads
+- **2026-06-11** | [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: monads
+- **2026-06-11** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: monads
+- **2026-06-11** | [Haskell/Understanding monads - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Understanding_monads) | kw: monads
+
 - **2026-06-11** | [Iterators & Closures: The Functional Powerhouse](https://yafi.hashnode.dev/iterators-closures-the-functional-powerhouse) | kw: monads, Haskell, Rust patterns
 - **2026-06-11** | [What are monads in functional programming and why are they useful?](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful) | kw: monads, Haskell, Rust patterns
 - **2026-06-11** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads, Haskell, Rust patterns

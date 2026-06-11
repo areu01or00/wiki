@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Elixir 1.20 adds type inference, boosts compilation speed, and debuts new compiler options](https://alternativeto.net/news/2026/6/elixir-1-20-adds-type-inference-boosts-compilation-speed-and-debuts-new-compiler-options/) | kw: type inference
+
 - **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing, type inference, dependent types
 - **2026-06-11** | [Efficient Selection of Type Annotations for Performance](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: gradual typing, type inference, dependent types
 - **2026-06-11** | [Gradual Liquid Type Inference - Niki Vazou](https://nikivazou.github.io/static/oopsla18main-p124-p.pdf) | kw: gradual typing, type inference, dependent types
