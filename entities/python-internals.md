@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Python GIL (Global Interpreter Lock) Explained - A Complete Guide](https://codesamplez.com/programming/python-gil) | kw: GIL, python, gil
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Memory Management in Python](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory management, memory, python
+- **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL) Mechanism](https://dev.to/ohdylan/understanding-pythons-global-interpreter-lock-gil-mechanism-benefits-and-limitations-4aha) | kw: GIL, python, gil
+- **2026-06-11** | [Python Multithreading vs. Multiprocessing: A Performance Guide](https://widewiki.com/posts/python/geek-pie/python-multithreading-vs-multiprocessing-a-performance-guide-20250716012746) | kw: python
+- **2026-06-11** | [Python 3.14 Free-Threading - True Parallelism Without the GIL](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: GIL, python, gil
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL, python, internals
+
 - **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Python memory & GIL guide 2026
 - **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL removal & optimization
 - **2026-06-11** | [CPython-Internals memory_management](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: CPython memory management deep dive

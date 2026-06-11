@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing, type, system
+- **2026-06-11** | [Scholarly articles for gradual type inference research papers](https://scholar.google.com/scholar?as_sdt=0&as_vis=1&hl=en&oi=scholart&q=gradual+type+inference+research+papers) | kw: type inference, gradual, inference
+- **2026-06-11** | [Gradual Typing - Glossary - Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/@tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [What are the run-time implications of gradual typing?](https://langdev.stackexchange.com/questions/604/what-are-the-run-time-implications-of-gradual-typing) | kw: gradual typing, gradual, typing
+
 - **2026-06-11** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir 1.20 gradual typing release
 - **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Research paper on gradual typing performance
 - **2026-06-11** | [Elixir 1.20 Gradual Typing: No Annotations, Real Bug Catches](https://byteiota.com/elixir-1-20-gradual-typing-no-annotations/) | kw: Elixir gradual typing approach

@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional, programming
+- **2026-06-11** | [What are monads in functional programming](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful) | kw: monads, functional, programming
+- **2026-06-11** | [What the Heck Are Monads?!](https://www.youtube.com/watch?v=Q0aVbqim5pE) | kw: monads
+- **2026-06-11** | [Monads and Programming](http://www.goodmath.org/blog/2012/08/19/monads-and-programming) | kw: monads, programming
+
 - **2026-06-11** | [Understanding Monads | CodeSignal Learn](https://codesignal.com/learn/courses/advanced-functional-programming-techniques/lessons/understanding-monads) | kw: Monad tutorial with C++
 - **2026-06-11** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell 2026 guide
 - **2026-06-11** | [Monad-based Programming – Lehrstuhl für Informatik 8](https://www.playfulpython.com/introducing-monads-in-functional-programming) | kw: Monads in Python

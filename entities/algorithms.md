@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [LeetCode - The World's Leading Online Programming Learning](https://leetcode.com/) | kw: leetcode
+- **2026-06-11** | [Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: leetcode, algorithms, structures
+- **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms, structures, interview
+- **2026-06-11** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: leetcode
+
 - **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: LeetCode study plan
 - **2026-06-11** | [GitHub - JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: LeetCode solutions repo
 - **2026-06-11** | [Data Structures and Algorithms Interview Questions](https://www.youtube.com/watch?v=ZCnuBl7Sn5U) | kw: Interview questions video

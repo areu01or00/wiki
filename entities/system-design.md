@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, patterns, architecture
+- **2026-06-11** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: design, patterns, architecture
+- **2026-06-11** | [Patterns of Distributed Systems - Research](https://research.tedneward.com/patterns/patterns-of-distributed-systems/index.html) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Top 8 Commonly Used Distributed Systems Patterns](https://edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Microservices Design Patterns for Cloud Architecture](https://ieeechicago.org/microservices-design-patterns-for-cloud-architecture) | kw: design, patterns, architecture
+- **2026-06-11** | [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html) | kw: architecture
+
 - **2026-06-11** | [Ndea](http://ndea.com/) | kw: AI for Scientific Advancement
 - **2026-06-11** | [Designing Distributed Systems Frederik Banke](https://www.frederikbanke.com/designing-distributed-systems) | kw: Book Review
 - **2026-06-11** | [Patterns of Distributed Systems](https://www.cb-india.com/books/computer-science/distributed-computing/patterns-of-distributed-systems) | kw: Book - Common problems and solutions

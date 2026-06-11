@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Building a JIT: Starting out with KaleidoscopeJIT](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT)](https://forum.nim-lang.org/t/9794) | kw: LLVM
+- **2026-06-11** | [I want to understand what is JIT compilers and how do they work](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
+- **2026-06-11** | [HOME](http://peakhillsgroup.com/) | kw: compilers
+- **2026-06-11** | [Just In Time (JIT) Compilers - Computerphile](https://www.reddit.com/r/Compilers/comments/z85hpa/just_in_time_jit_compilers_computerphile) | kw: compilers
+- **2026-06-11** | [PostgreSQL Tutorial: Just-in-Time Compilation (JIT)](https://www.rockdata.net/tutorial/tune-jit-compilation) | kw: compilation
+
 - **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building a JIT with LLVM ORC APIs
 - **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation with LLVM in Rust
 - **2026-06-11** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: LLVM JIT compiler for Java
