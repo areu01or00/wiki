@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, internals, gil
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python, internals, gil
+- **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python, internals, gil
+- **2026-06-11** | [Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: python, internals, gil
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python, internals, gil
+- **2026-06-11** | [Python Memory Management Internals | by Majidbasharat - Medium](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python, internals, gil
+- **2026-06-11** | [Python Memory Management and GIL. Python Untold](https://python.plainenglish.io/python-untold-976da8cf2006) | kw: python, internals, gil
+- **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why I](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python, internals, gil
+
 - **2026-06-11** | [Python-3.12 告别 GIL 锁 & 性能原地飞升！](https://cloud.tencent.com/developer/article/2219746) | kw: python, 3.12, 性能原地飞升！
 - **2026-06-11** | [Python 3.12 - What's New, Support Lifecycle & EOL - VersionLog](https://versionlog.com/python/3.12) | kw: python, 3.12, what's
 - **2026-06-11** | [What is the GIL in Python and Why Should You Care? - DEV Community](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | kw: what, python, should

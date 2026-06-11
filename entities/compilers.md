@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, llvm, jit
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language wit](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers, llvm, jit
+- **2026-06-11** | [JIT compiler for expressions - PostgreSQL](https://www.postgresql.org/message-id/CADviLuNjQTh99o6E0LTi0Ygks%3DnaW8SXHmgn%3D8P%2BaaBXKXa0pA%40mail.gmail.com) | kw: compilers, llvm, jit
+- **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT)](https://forum.nim-lang.org/t/9794) | kw: compilers, llvm, jit
+- **2026-06-11** | [I want to understand what is JIT compilers and...](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers, llvm, jit
+- **2026-06-11** | [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug | Datado](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault) | kw: compilers, llvm, jit
+
 - **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/buildingajit1.rst
 - **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: just, time, (jit)
 - **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: perry, native, typescript

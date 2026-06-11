@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system, design, distributed
+- **2026-06-11** | [Coordination Patterns - Architecture Insights](https://stevenstuartm.com/study-guides/architecture/coordination_patterns.html) | kw: system, design, distributed
+- **2026-06-11** | [Distributed System Design Patterns: A Practitioners ...](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: system, design, distributed
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system, design, distributed
+- **2026-06-11** | [Patterns of Distributed Systems Computer Bookshop India](https://www.cb-india.com/books/computer-science/distributed-computing/patterns-of-distributed-systems) | kw: system, design, distributed
+- **2026-06-11** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system, design, distributed
+
 - **2026-06-11** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: predicting, future, distributed
 - **2026-06-11** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: architecture, styles, distributed
 - **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: modern, distributed, systems
