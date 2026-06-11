@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: GIL
+- **2026-06-11** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: GIL
+
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: GIL, free-threaded Python, memory management
 - **2026-06-11** | [Advanced Python Internals: GIL, Multithreading](https://dev.to/aman_kumar_6d5d23b9b1ed02/advanced-python-internals-gil-multithreading-20mk) | kw: GIL, free-threaded Python, CPython internals
 - **2026-06-11** | [Disabling GIL in Python, How to use Python without GIL, NoGIL](https://hemachandra.hashnode.dev/disabling-gil-nogil-in-python) | kw: GIL, free-threaded Python

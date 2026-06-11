@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [JIT Design and Implementation - The Julia Language](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT compilation
+
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT compilation, LLVM
 - **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: LLVM
 - **2026-06-11** | [Use of JIT compiler infrastructure at Apple and CERN](https://indico.cern.ch/event/1675931/) | kw: JIT compilation
