@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Haskell Advanced monads - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Advanced_monads) | kw: monads
+- **2026-06-11** | [What are monads in functional programming - Quora](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful) | kw: monads
+- **2026-06-11** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: monads
+- **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads
+- **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: functional-programming
+- **2026-06-11** | [Haskell Error Handling with Monads: Maybe and Either](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/error-handling-with-monads-maybe-either) | kw: monads
+- **2026-06-11** | [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: monads
+- **2026-06-11** | [Monads and Programming - Good Math Bad Math](http://www.goodmath.org/blog/2012/08/19/monads-and-programming) | kw: monads
+- **2026-06-11** | [Monad-based Programming](https://www.playfulpython.com/introducing-monads-in-functional-programming) | kw: monads
+- **2026-06-11** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads
+
 - **2026-06-11** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads, Omnipresent
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust
 - **2026-06-11** | [The Practical Value of Functional Programming Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value

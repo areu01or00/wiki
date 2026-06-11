@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM
+- **2026-06-11** | [Mastering Code Generation: Exploring the LLVM Backend](https://www.packtpub.com/en-us/learning/how-to-tutorials/mastering-code-generation-exploring-the-llvm-backend) | kw: LLVM
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: LLVM
+- **2026-06-11** | [compiler-course-2026 BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM
+- **2026-06-11** | [What Is JIT compilation? - PostgreSQL](https://www.postgresql.org/docs/current/jit-reason.html) | kw: JIT compilation
+- **2026-06-11** | [Unraveling a Postgres segfault - Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault) | kw: compilers
+- **2026-06-11** | [The state of GPU codegen with Nim (LLVM JIT)](https://forum.nim-lang.org/t/9794) | kw: LLVM
+- **2026-06-11** | [JIT compilers and how do they work - Reddit](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
+- **2026-06-11** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM
+
 - **2026-06-11** | [Compilers and Modern Language Runtimes LLVM JIT GC V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern
 - **2026-06-11** | [compiler-course-2026 BuildingAJIT1](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, BuildingAJIT1
 - **2026-06-11** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: Resume, Sanjoy
