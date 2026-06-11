@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: distributed systems
+- **2026-06-11** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: design
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: distributed systems
+
 - **2026-06-11** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design
 - **2026-06-11** | [800+ System Architecture Online Courses for 2026 | Explore Free Courses & Certifications | Class Central](https://www.classcentral.com/subject/system-architecture) | kw: system-design
 - **2026-06-11** | [Building Scalable Distributed Systems: Key Principles](https://navalerakesh.github.io/blog/2025/10/02/building-scalable-distributed-systems) | kw: system-design

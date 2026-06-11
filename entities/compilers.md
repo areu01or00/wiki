@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan Maglev Inline Caching Escape Analysis Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM
+- **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilation
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: LLVM
+- **2026-06-11** | [JIT compiler for expressions - PostgreSQL](https://www.postgresql.org/message-id/CADviLuNjQTh99o6E0LTi0Ygks%3DnaW8SXHmgn%3D8P%2BaaBXKXa0pA%40mail.gmail.com) | kw: JIT compilation
+
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-11** | [A Deep Introduction to JIT Compilers: JITs are not very Just ...](https://kipp.ly/p/jits-intro) | kw: compilers
 - **2026-06-11** | [I want to understand what is JIT compilers and ...](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers

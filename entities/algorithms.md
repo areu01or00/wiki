@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: structures
+- **2026-06-11** | [DSA with Python: Master 300+ LeetCode Problems for 2026](https://www.codenova.in/2026/01/dsa-with-python-master-300-leetcode.html) | kw: leetcode
+
 - **2026-06-11** | [Courses | NeetCode](https://neetcode.io/courses) | kw: algorithms
 - **2026-06-11** | [59 Essential Searching Algorithms Interview Questions in 2026](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: algorithms
 - **2026-06-11** | [codingcircle || Excellence in Every Line of Code](http://codingcircle.in/) | kw: algorithms
