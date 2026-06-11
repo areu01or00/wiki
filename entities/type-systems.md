@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: gradual typing, type inference
+- **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, type inference
+- **2026-06-11** | [Evaluating Punctuated Equilibrium & Gradualism within Evolution Practice | Biology Practice Problems | Study.com](https://study.com/skill/practice/evaluating-punctuated-equilibrium-gradualism-within-evolution-questions.html) | kw: gradual typing, type inference
+
 - **2026-06-11** | [Type-checking Erlang and Elixir - Erlang Solutions](https://www.erlang-solutions.com/blog/type-checking-erlang-and-elixir) | kw: type-systems
 - **2026-06-11** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
 - **2026-06-11** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: type-systems

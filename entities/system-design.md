@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, patterns
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns
+- **2026-06-11** | [Distributed System Design Patterns: A Practitioner's Reference | Distributed System Authority](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: distributed systems, patterns
+- **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns Anshad Ameenza](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: distributed systems, patterns
+
 - **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: system-design
 - **2026-06-11** | [Distributed System Design Patterns: A Practitioner's Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: system-design
 - **2026-06-11** | [Patterns of Distributed Systems](https://www.cb-india.com/books/computer-science/distributed-computing/patterns-of-distributed-systems) | kw: system-design

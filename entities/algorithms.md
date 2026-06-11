@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: dynamic programming, DSA
+- **2026-06-11** | [GitHub - JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: dynamic programming, DSA
+
 - **2026-06-11** | [Problem List - LeetCode (Amazon)](http://leetcode.com/company/amazon) | kw: algorithms
 - **2026-06-11** | [10+ Best Automated Interview Software Tools in 2026](https://www.peoplebox.ai/blog/automated-interview-software) | kw: algorithms
 - **2026-06-11** | [Top 100 DSA Interview Questions - LeetCode Discuss](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: algorithms
