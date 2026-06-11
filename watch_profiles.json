@@ -17,10 +17,6 @@
         "microservices"
       ],
       "last_result_hashes": [
-        "f3dfe5c5ac6eeb1f11e399252fd8c596",
-        "9e3a3dd5784956fbd3e190c51f915fab",
-        "c8b5e279eaae51e990168249239c6b2f",
-        "27aae0ec73db3f1c68d8633bae7f1007",
         "10b0912a732db2cbf5e52b13be447b45",
         "9f947e9ab7c9dd4e08a552655763bf79",
         "7ada9c496017a8b9bf8183716cd7e6fd",
@@ -36,9 +32,13 @@
         "2bc8ca4f97c70eb4043d781c567b9f61",
         "e52e225bb2f472f3de1bcef356d2ffe2",
         "64e900ff8986f325e4783fe3286a829d",
-        "aaaf9550e5e27d5469ea0edd84372b77"
+        "aaaf9550e5e27d5469ea0edd84372b77",
+        "928794215d9b3f52e22a0ace1e287d9a",
+        "8282bc38c31cae78de009daeeac96471",
+        "1885661cefe9c39654b0f1458625c8e0",
+        "be6431b62c4b712f6f0fa4fe7d011e37"
       ],
-      "last_run": "2026-06-11T14:47:13"
+      "last_run": "2026-06-11T15:02:08"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -129,8 +129,6 @@
         "Gleam language"
       ],
       "last_result_hashes": [
-        "9c2717e20b19a044f65352924923a492",
-        "0097dba4a85170b298a8c66a69c9781d",
         "e2809728031a0a794b40bbdaef5a85f9",
         "b48df3ecc7197e04cb4515339cfae453",
         "6d3dfde8726e7d53189d96c61d618c19",
@@ -148,9 +146,11 @@
         "59ea58662dd4d2941a6617159e617909",
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "a0bd8e9b787c5e8d97632fcbcd04257a",
-        "c0aca72bb1b690ee8319e895da379cea"
+        "c0aca72bb1b690ee8319e895da379cea",
+        "c233ce094f809bd93c2f4474229feed5",
+        "fdc8e2b82500b598dc73a35e40bb2f1e"
       ],
-      "last_run": "2026-06-11T14:47:13"
+      "last_run": "2026-06-11T15:02:08"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -165,9 +165,6 @@
         "interview"
       ],
       "last_result_hashes": [
-        "60233ba12f224764b5938c3634b02e6a",
-        "e057c6245b7e1b8ab5db96a4e21474c6",
-        "d87d572a0d68a8c44fc6b2f8385ff892",
         "3c87f49e027202384f0351de2daf79e3",
         "9bae7c320eaa49023b76088f638f22f3",
         "da07850fbbddfe59913ecac0b4879947",
@@ -184,9 +181,12 @@
         "4206f0548aa77b69bedc008d791bb11e",
         "1235c5b5d3939bfc1c549f79f64c89ef",
         "2a712c434c6fd9a9d55be0f519274acc",
-        "e1fbdba4d105f06cbfd94169fb762a8c"
+        "e1fbdba4d105f06cbfd94169fb762a8c",
+        "29ea82bbcf096f644d06a5b4f99cee53",
+        "a83bfe7110608affcaafb71f2c3fd2e2",
+        "80f5dbc1ee2a18a8dad03a4b65efec46"
       ],
-      "last_run": "2026-06-11T14:47:13"
+      "last_run": "2026-06-11T15:02:08"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -203,10 +203,6 @@
         "gil"
       ],
       "last_result_hashes": [
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "03e9423b802e0456d3fe98220b76ea3a",
-        "a30de3c9336d9325f362b2a940df7f85",
-        "702e4336b1c768057bdb6d1a5503beb7",
         "993340ba10508d27975679f77e08cd57",
         "4eac42bd38a03d2d4b0b8ce1158a40e7",
         "e5de457dfb901c53485a52be22a77e07",
@@ -222,9 +218,13 @@
         "25cd29ffad1f2c7c36c0ef21c3322d32",
         "b00f4d613ccb6f01c65335797c43440a",
         "7ac99007fc1cf0604636442e40d0cd69",
-        "8a40ada35de9213eddaabbe820934a5c"
+        "8a40ada35de9213eddaabbe820934a5c",
+        "f2ab364408173c64faad9dd017914ab4",
+        "51a323ecbfc30ec8c1f84a7ebb223f85",
+        "349b5bc51f13880d861325cbf51da2ec",
+        "265111ab89ec1e2086cc516865ce3720"
       ],
-      "last_run": "2026-06-11T14:47:13"
+      "last_run": "2026-06-11T15:02:08"
     }
   }
 }

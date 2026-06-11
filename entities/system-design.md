@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions/) | kw: distributed systems, systems, distributed
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, scalability, design
+- **2026-06-11** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: distributed systems, architecture, systems
+
 - **2026-06-11** | [Distributed System Design Patterns: A Practitioner's Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: distributed systems, architecture
 - **2026-06-11** | [The Future of Distributed Systems: Trends and Predictions](https://www.linkedin.com/pulse/future-distributed-systems-trends-predictions-kabir-khalil-7mjqe) | kw: distributed systems, architecture
 - **2026-06-11** | [The Future of Distributed Systems: Trends and Opportunities](https://www.linkedin.com/posts/colinbreck_predicting-the-future-of-distributed-systems-activity-7355339000355737600-1GCT) | kw: distributed systems, architecture

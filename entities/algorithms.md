@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: interview
+- **2026-06-11** | [Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design) | kw: leetcode
+- **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: interview
+
 - **2026-06-11** | [Top Classic Data Structures Problems Codeforces](https://codeforces.com/blog/entry/79755) | kw: DSA, interview prep
 - **2026-06-11** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: DSA, interview prep
 - **2026-06-11** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: DSA, interview prep
