@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Understanding Monads](https://nickx.hu/Monads.pdf) | kw: functional-programming
+- **2026-06-11** | [Monad tutorials timeline - Haskell « HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: functional-programming
+- **2026-06-11** | [Haskell/Understanding monads - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Haskell/Understanding_monads) | kw: functional-programming
+- **2026-06-11** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: functional-programming
+
 - **2026-06-11** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: functional-programming
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional-programming
 - **2026-06-11** | [What are monads in functional programming](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful-Are-they-a-generic-solution-to-the-problem-of-state-in-FP-or-Haskell-specific-Are-they-specific-to-Haskell-or-are-they-encountered-in-other-FP-languages) | kw: functional-programming

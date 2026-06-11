@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: type-systems
+- **2026-06-11** | [Gradual Typing Explained | ITU Online](https://www.ituonline.com/it-glossary/gradual-typing) | kw: type-systems
+
 - **2026-06-11** | [Scholarly articles for gradual type inference research papers](https://scholar.google.com/scholar?as_sdt=0&as_vis=1&hl=en&oi=scholart&q=gradual+type+inference+research+papers) | kw: type-systems
 - **2026-06-11** | [Gradual Typing with Inference (Siek slides)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type-systems
 - **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/%40tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: type-systems

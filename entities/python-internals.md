@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: python-internals
+- **2026-06-11** | [Top 5 Ways to Overcome Python's GIL Limitations in …](https://sqlpey.com/python/top-5-ways-to-overcome-python-gil-limitations) | kw: python-internals
+
 - **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
 - **2026-06-11** | [Understanding the Global Interpreter Lock (GIL) in Python](https://medium.com/%40nishthakukreti.01/understanding-the-global-interpreter-lock-gil-in-python-a-deep-dive-f3ab59089f93) | kw: python-internals
 - **2026-06-11** | [The Evolution of Python's Memory Management](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: python-internals

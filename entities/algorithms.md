@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Master the Coding Interview: Data Structures + Algorithms Udemy, Inc.](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) | kw: algorithms
+- **2026-06-11** | [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial - YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+
 - **2026-06-11** | [Problem List](http://leetcode.com/company/amazon) | kw: algorithms
 - **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: algorithms
 
