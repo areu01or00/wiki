@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Yet Another Haskell Tutorial/Monads - Wikibooks](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial/Monads) | kw: monads, Haskell, haskell
+- **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional, programming
+
 - **2026-06-11** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, functional, programming
 - **2026-06-11** | [What is MONAD? - Reddit](https://www.reddit.com/r/functionalprogramming/comments/13cnx5e/what_is_monad) | kw: monads
 - **2026-06-11** | [The Practical Value of Functional Programming — Monad Guide](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads, functional, programming

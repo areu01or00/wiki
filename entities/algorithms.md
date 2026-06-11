@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Amazon Interview Questions | Interview Solver](https://interviewsolver.com/interview-questions/amazon) | kw: interview, interview questions
+- **2026-06-11** | [Leetcode-Top-Interview](https://github.com/ChunhThanhDe/Leetcode-Top-Interview) | kw: leetcode, interview, LeetCode
+- **2026-06-11** | [leetcode-top-interview-questions](https://github.com/BanAaron/leetcode-top-interview-questions) | kw: leetcode, interview, LeetCode
+- **2026-06-11** | [Interview-Preparation-Notes](https://github.com/shubhanshurav/Interview-Preparation-Notes) | kw: interview
+
 - **2026-06-11** | [Top 100 Data Structures Interview Questions in 2026 - Devinterview](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: structures, interview, data structures
 - **2026-06-11** | [Leetcode-Data-Structures-Algorithms - GitHub](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: leetcode, algorithms, structures
 - **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: interview, interview questions
