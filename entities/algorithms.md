@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [LeetCode Questions Asked in Google 2026](https://papersadda.com/article/leetcode-questions-google-2026) | kw: coding interviews, LeetCode
+- **2026-06-11** | [leetcode-companywise-interview-questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions) | kw: coding interviews
+- **2026-06-11** | [How to prepare for Data Structures and Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: DSA roadmap
+- **2026-06-11** | [Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: DSA roadmap
+- **2026-06-11** | [Meta Coding Interview Questions: E4, E5, E6 Bar (2026)](https://copilotinterview.com/blog/meta-coding-interview-questions) | kw: coding interviews
+- **2026-06-11** | [NeetCode - Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: DSA roadmap
+
 - **2026-06-11** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: DSA roadmap
 - **2026-06-11** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: coding interviews
 - **2026-06-11** | [JimengShi/Leetcode-Data-Structures-Algorithms - GitHub](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: algorithms
