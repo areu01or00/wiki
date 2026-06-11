@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: distributed systems, systems, distributed
+- **2026-06-11** | [The Complete Guide to System Design in 2026 AI-Native and ...](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: design, system
+- **2026-06-11** | [Distributed Cloud Is Becoming the Default Architecture in 2026](https://www.linkedin.com/posts/christophertisenburg_distributed-cloud-is-becoming-the-default-activity-7457774274431410176-dEk9) | kw: architecture, distributed
+- **2026-06-11** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: design, patterns, system
+- **2026-06-11** | [The 7 Architecture Patterns Every IT Head Should Revisit in 2026](https://www.linkedin.com/pulse/7-architecture-patterns-every-head-should-revisit-2026-b5y3f) | kw: patterns, architecture
+- **2026-06-11** | [Distributed Systems - InfoQ](https://www.infoq.com/distributed_systems) | kw: distributed systems, systems, distributed
+- **2026-06-11** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: design, patterns, architecture
+- **2026-06-11** | [Design patterns in distributed system | PDF Slideshare](https://www.slideshare.net/slideshow/design-patterns-in-distributed-system/66719846) | kw: design, patterns, distributed
+
 - **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
 - **2026-06-11** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems](https://www.reddit.com/r/JavaProgramming/comments/1tkmv0v/9_essential_software_architecture_patterns_for) | kw: system-design
 - **2026-06-11** | [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html) | kw: system-design

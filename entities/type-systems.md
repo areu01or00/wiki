@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/%40tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: type inference, gradual, inference
+- **2026-06-11** | [How to Evaluate the Performance of Gradual Type Systems - Jan Vitek](https://janvitek.org/pubs/jfp18.pdf) | kw: gradual, systems, type
+
 - **2026-06-11** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
 - **2026-06-11** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
 - **2026-06-11** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: type-systems

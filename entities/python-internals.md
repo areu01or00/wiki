@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: GIL, python, gil
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL, python, internals
+- **2026-06-11** | [Python Memory Management Internals | by Majidbasharat - Medium](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: memory management, memory, python
+- **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL, python, gil
+- **2026-06-11** | [The 'No-GIL' Transition: NumPy and SciPy Release Official ...](https://tech-champion.com/programming/python-programming/the-no-gil-transition-numpy-and-scipy-release-official-free-threaded-wheels) | kw: GIL, gil
+- **2026-06-11** | [Python 3.14 Free-Threading - True Parallelism Without the GIL](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: GIL, python, gil
+
 - **2026-06-11** | [Python Multithreading vs. Multiprocessing: A Performance Guide](https://widewiki.com/posts/python/geek-pie/python-multithreading-vs-multiprocessing-a-performance-guide-20250716012746) | kw: python-internals
 - **2026-06-11** | [Your guide to reducing Python memory usage](https://www.honeybadger.io/blog/reducing-your-python-apps-memory-footprint) | kw: python-internals
 - **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals

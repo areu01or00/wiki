@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: coding interviews, algorithms, structures
+- **2026-06-11** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: leetcode, interview, LeetCode
+- **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms, structures, interview
+- **2026-06-11** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms, structures, interview
+- **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: interview, DSA
+- **2026-06-11** | [Best Data Structures And Algorithms Practice Tests For 2025](https://gururo.com/best-data-structures-and-algorithms-practice-tests) | kw: algorithms, structures, data structures
+- **2026-06-11** | [Best resources for Data Structures and Algorithms interview prep](https://www.teamblind.com/post/best-resources-for-data-structures-and-algorithms-interview-prep-o2cnrpjw) | kw: algorithms, structures, interview
+- **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms - YouTube](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: algorithms, structures, data structures
+
 - **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: algorithms
 - **2026-06-11** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
 - **2026-06-11** | [LeetCode Questions Asked in Google 2026](https://papersadda.com/article/leetcode-questions-google-2026) | kw: algorithms

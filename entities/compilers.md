@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilation
+- **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT ...](https://forum.nim-lang.org/t/9794) | kw: LLVM, GPU codegen
+- **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: LLVM, TypeScript
+- **2026-06-11** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: optimization
+
 - **2026-06-11** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-11** | [Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0](https://arxiv.org/abs/2407.13712) | kw: compilers
 - **2026-06-11** | [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault) | kw: compilers

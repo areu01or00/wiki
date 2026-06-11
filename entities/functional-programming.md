@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Monad-based Programming – Lehrstuhl für Informatik 8](https://www8.cs.fau.de/teaching/monad-based-programming) | kw: programming
+- **2026-06-11** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell, functional, programming
+- **2026-06-11** | [What are monads in functional programming and why are they useful?](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful-Are-they-a-generic-solution-to-the-problem-of-state-in-FP-or-Haskell-specific-Are-they-specific-to-Haskell-or-are-they-encountered-in-other-FP-languages) | kw: monads, functional, programming
+- **2026-06-11** | [What the Heck Are Monads?! - YouTube](https://www.youtube.com/watch?v=Q0aVbqim5pE) | kw: monads
+- **2026-06-11** | [A gentle introduction to monads - Kristof Slechten - Medium](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: monads
+- **2026-06-11** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, functional, programming
+
 - **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
 - **2026-06-11** | [The Practical Value of Functional Programming](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
 - **2026-06-11** | [monadic - Rust](https://docs.rs/monadic) | kw: functional-programming
