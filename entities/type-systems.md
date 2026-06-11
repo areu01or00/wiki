@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: type-systems
+- **2026-06-11** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-11** | [How to Evaluate the Performance of Gradual Type Systems](https://janvitek.org/pubs/jfp18.pdf) | kw: type-systems
+- **2026-06-11** | [Scholarly articles for gradual typing research open problems](https://scholar.google.com/scholar?as_sdt=0&as_vis=1&hl=en&oi=scholart&q=gradual+typing+research+open+problems) | kw: type-systems
+- **2026-06-11** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: type-systems
+- **2026-06-11** | [Gradual Typing - ANU College of Engineering & Computer Science](https://users.cecs.anu.edu.au/~fabian.muehlboeck/projects/gradual) | kw: type-systems
+- **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: type-systems
+
 - **2026-06-11** | [Efficient Selection of Type Annotations for Performance ...](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: type, performance
 - **2026-06-11** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing, gradual, typing
 - **2026-06-11** | [A Strategic Guide to Gradual Typing in Python - Medium](https://medium.com/%40tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing, gradual, typing

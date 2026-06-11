@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design
+- **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-11** | [Trends in Distributed Systems Overview](https://www.scribd.com/presentation/638622204/Untitled) | kw: system-design
+- **2026-06-11** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
+- **2026-06-11** | [The Future of Large-Scale Distributed Systems: Trends, Challenges, and Opportunities](https://www.researchgate.net/publication/390714723_The_Future_of_Large-Scale_Distributed_Systems_Trends_Challenges_and_Opportunities) | kw: system-design
+- **2026-06-11** | [State of the Art in Parallel and Distributed Systems: Emerging Trends and Challenges](https://www.mdpi.com/2079-9292/14/4/677) | kw: system-design
+- **2026-06-11** | [Coordination Patterns - Architecture Insights](https://stevenstuartm.com/study-guides/architecture/coordination_patterns.html) | kw: system-design
+- **2026-06-11** | [What are the trends in distributed systems?](https://www.quora.com/What-are-the-trends-in-distributed-systems) | kw: system-design
+
 - **2026-06-11** | [SRDS 2026 – SRDS 2026](https://srds-conference.org/) | kw: system-design
 - **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, systems
 - **2026-06-11** | [The Future of Distributed Systems: Trends and Opportunities](https://www.linkedin.com/posts/colinbreck_predicting-the-future-of-distributed-systems-activity-7355339000355737600-1GCT) | kw: distributed systems, systems, distributed

@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
+- **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL) and Its Impact on Concurrency](https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b) | kw: python-internals
+- **2026-06-11** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
+- **2026-06-11** | [Exploring Memory Manager Internals in Python: CPython's](https://www.sparkcodehub.com/python/advanced/memory-manager-internals) | kw: python-internals
+- **2026-06-11** | [What Is Python Memory Management?](https://www.coursera.org/articles/python-memory-management) | kw: python-internals
+- **2026-06-11** | [CPython-Internals/Interpreter/gil/gil.md](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/gil/gil.md) | kw: python-internals
+- **2026-06-11** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: python-internals
+- **2026-06-11** | [Global Interpreter Lock (GIL) in Python – Everything You Need to Know for Interviews](https://dev.to/imsushant12/global-interpreter-lock-gil-in-python-everything-you-need-to-know-for-interviews-5e4g) | kw: python-internals
+
 - **2026-06-11** | [Your guide to reducing Python memory usage - Honeybadger](https://www.honeybadger.io/blog/reducing-your-python-apps-memory-footprint) | kw: memory, python
 - **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
 - **2026-06-11** | [What is the GIL in Python and Why Should You Care?](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | kw: GIL, python, gil

@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: functional-programming
+- **2026-06-11** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional-programming
+- **2026-06-11** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+- **2026-06-11** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad/) | kw: functional-programming
+- **2026-06-11** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
+- **2026-06-11** | [Haskell Guide [2026]: Functional Programming That Changes How](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming
+- **2026-06-11** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: functional-programming
+
 - **2026-06-11** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: monads, Haskell, haskell
 - **2026-06-11** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: monads, Haskell, haskell
 - **2026-06-11** | [Iterators & Closures: The Functional Powerhouse](https://yafi.hashnode.dev/iterators-closures-the-functional-powerhouse) | kw: functional
