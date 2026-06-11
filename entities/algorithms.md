@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Courses | NeetCode](https://neetcode.io/courses) | kw: algorithms
+- **2026-06-11** | [59 Essential Searching Algorithms Interview Questions in 2026](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: algorithms
+- **2026-06-11** | [codingcircle || Excellence in Every Line of Code](http://codingcircle.in/) | kw: algorithms
+- **2026-06-11** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
+- **2026-06-11** | [NeetCode - YouTube](https://www.youtube.com/c/neetcode) | kw: algorithms
+- **2026-06-11** | [How To Master Data Structures & Algorithms in 2026 - NeetCode](https://www.youtube.com/watch?v=7EW5qrEUW9Y) | kw: algorithms
+- **2026-06-11** | [10 Best Resources to Learn Data Structures and Algorithms in 2025](https://javarevisited.substack.com/p/10-best-resources-to-learn-data-structures) | kw: algorithms
+
 - **2026-06-11** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: interview
 - **2026-06-11** | [Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design) | kw: leetcode
 - **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: interview

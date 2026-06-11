@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-06-11** | [A Deep Introduction to JIT Compilers: JITs are not very Just ...](https://kipp.ly/p/jits-intro) | kw: compilers
+- **2026-06-11** | [I want to understand what is JIT compilers and ...](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
+
 - **2026-06-11** | [Sanjoy Das](http://sanjoy.link/) | kw: LLVM, JIT
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, JIT
 - **2026-06-11** | [@noble/hashes - npm](https://www.npmjs.com/package/%40noble/hashes) | kw: LLVM, JIT
