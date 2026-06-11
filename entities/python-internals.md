@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: python
+- **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python
+- **2026-06-11** | [The 'No-GIL' Transition: NumPy and SciPy Release Official ...](https://tech-champion.com/programming/python-programming/the-no-gil-transition-numpy-and-scipy-release-official-free-threaded-wheels) | kw: gil
+
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: new
 - **2026-06-11** | [Python Memory Management Internals](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: new
 - **2026-06-11** | [CPython Memory Allocators: Malloc, Pymalloc, and Mimalloc](https://www.linkedin.com/posts/veldakiara_i-was-reading-about-memory-allocators-in-activity-7435680460913086465-w9XV) | kw: new

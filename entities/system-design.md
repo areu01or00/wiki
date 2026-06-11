@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: system
+- **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: distributed
+- **2026-06-11** | [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: distributed
+
 - **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: new
 - **2026-06-11** | [Distributed System Design](https://www.researchgate.net/publication/327032979_Distributed_System_Design) | kw: new
 

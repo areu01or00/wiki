@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [[PDF] How to Evaluate the Performance of Gradual Type Systems - Jan Vitek](https://janvitek.org/pubs/jfp18.pdf) | kw: system
+
 - **2026-06-11** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: new
 - **2026-06-11** | [Gradual Liquid Type Inference](https://nikivazou.github.io/static/oopsla18main-p124-p.pdf) | kw: new
 
