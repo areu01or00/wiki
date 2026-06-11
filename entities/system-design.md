@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: distributed systems, system, distributed
+- **2026-06-11** | [800+ System Architecture Online Courses for 2026](https://www.classcentral.com/subject/system-architecture) | kw: system, architecture
+- **2026-06-11** | [Design patterns in distributed system](https://www.slideshare.net/slideshow/design-patterns-in-distributed-system/66719846) | kw: patterns, design, distributed systems
+- **2026-06-11** | [The Complete Guide to System Design in 2026](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: design, system
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: patterns, distributed systems, system
+- **2026-06-11** | [The Future of Large-Scale Distributed Systems: Trends, Challenges, and Opportunities](https://www.researchgate.net/publication/390714723_The_Future_of_Large-Scale_Distributed_Systems_Trends_Challenges_and_Opportunities) | kw: distributed systems, system, distributed
+- **2026-06-11** | [System Design Guide 2026](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: design, system
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: patterns, distributed systems, system
+
 - **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: distributed systems
 - **2026-06-11** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: design
 - **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: distributed systems

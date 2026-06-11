@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: JIT compilation, LLVM
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, JIT compilation, LLVM
+- **2026-06-11** | [Python JIT compiler project under threat after steering council](https://article.wn.com/view-lemonde/2026/06/08/Python_JIT_compiler_project_under_threat_after_steering_coun/) | kw: JIT compilation
+- **2026-06-11** | [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault) | kw: JIT compilation
+
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan Maglev Inline Caching Escape Analysis Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM
 - **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilation
 - **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: LLVM
