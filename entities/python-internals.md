@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL
+- **2026-06-11** | [Why Python Multiprocessing Can Be Slower Than Single-Threaded](https://www.w3tutorials.net/blog/python-using-multiprocess-is-slower-than-not-using-it) | kw: GIL
+- **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken and Why It Might Not Matter](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL
+
 - **2026-06-11** | [Memory Management in Python Honeybadger Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory management, memory, python
 - **2026-06-11** | [Advanced Python C API Arena Allocators runebook.dev](https://runebook.dev/en/docs/python/c-api/memory/c.PyObject_GetArenaAllocator) | kw: python
 - **2026-06-11** | [Python Internals Memory Management GIL evidhya.com](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory

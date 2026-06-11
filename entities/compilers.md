@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT compilation
+- **2026-06-11** | [Mastering Code Generation: Exploring the LLVM Backend](https://www.packtpub.com/en-us/learning/how-to-tutorials/mastering-code-generation-exploring-the-llvm-backend) | kw: JIT compilation
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation
+- **2026-06-11** | [Sanjoy Das](http://sanjoy.link/) | kw: JIT compilation
+
 - **2026-06-11** | [FOSDEM 2026 OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: LLVM
 - **2026-06-11** | [Compilers and Modern Language Runtimes LLVM JIT GC V8 2026](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, compilers
 - **2026-06-11** | [JIT compiler for expressions PostgreSQL 2016](https://www.postgresql.org/message-id/CADviLuNjQTh99o6E0LTi0Ygks%3DnaW8SXHmgn%3D8P%2BaaBXKXa0pA%40mail.gmail.com) | kw: general

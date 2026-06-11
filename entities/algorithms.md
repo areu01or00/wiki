@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: dynamic programming
+- **2026-06-11** | [Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: dynamic programming
+
 - **2026-06-11** | [Data Structure I LeetCode study plan](https://leetcode.com/problem-list/m1b6ucdi/) | kw: leetcode, LeetCode
 - **2026-06-11** | [Problem List LeetCode Amazon](http://leetcode.com/company/amazon) | kw: leetcode, LeetCode
 - **2026-06-11** | [Top 100 Data Structure Interview Questions 2026](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: interview, interview questions

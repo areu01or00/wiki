@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Patterns - Architecture Culture](http://patterns.work/) | kw: load balancing
+- **2026-06-11** | [Distributed System Design ResearchGate](https://www.researchgate.net/publication/327032979_Distributed_System_Design) | kw: load balancing
+- **2026-06-11** | [The Future of Distributed Systems: Trends and Predictions](https://www.linkedin.com/pulse/future-distributed-systems-trends-predictions-kabir-khalil-7mjqe) | kw: load balancing
+- **2026-06-11** | [Trends in Distributed Systems Overview | PDF](https://www.scribd.com/presentation/638622204/Untitled) | kw: load balancing
+
 - **2026-06-11** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: design, patterns, system
 - **2026-06-11** | [Distributed Systems Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, patterns, architecture
 - **2026-06-11** | [Patterns of Distributed Systems Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, systems
