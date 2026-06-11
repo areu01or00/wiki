@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Leetcode-Style Interviews - InterviewGuide.dev](https://interviewguide.dev/leetcode) | kw: dynamic programming, DSA roadmap, coding interviews, leetcode, algorithms
+- **2026-06-11** | [Greedy Algorithms interview questions - GitHub](https://github.com/Devinterview-io/greedy-algorithms-interview-questions) | kw: dynamic programming, DSA roadmap, coding interviews, leetcode, algorithms
+- **2026-06-11** | [60 LeetCode problems to solve for coding interview](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e) | kw: dynamic programming, DSA roadmap, coding interviews, leetcode, algorithms
+- **2026-06-11** | [LeetCode - Data Structures](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/703/arraystrings) | kw: dynamic programming, DSA roadmap, coding interviews, leetcode, algorithms
+- **2026-06-11** | [DSA Practice - Interview Questions - workat.tech](https://workat.tech/problem-solving/practice/topics) | kw: dynamic programming, DSA roadmap, coding interviews, leetcode, algorithms
+- **2026-06-11** | [50 DSA + LeetCode problems for interview prep - LinkedIn](https://www.linkedin.com/posts/abhay-singh-a64b89192_dsa-leetcode-interviewprep-activity-7329454179985317888-aaqw) | kw: dynamic programming, DSA roadmap, coding interviews, leetcode, algorithms
+
 - **2026-06-11** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode
 - **2026-06-11** | [GitHub - JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: LeetCode
 

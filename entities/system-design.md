@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: load balancing, caching patterns, distributed systems, scalability, design
+- **2026-06-11** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: load balancing, caching patterns, distributed systems, scalability, design
+- **2026-06-11** | [Beyond the Monolith: A 2026 Strategy for Engineering Distributed Systems](https://medium.com/@snehal_singh/beyond-the-monolith-a-2026-strategy-for-engineering-distributed-systems-bba0d1ef10f3) | kw: load balancing, caching patterns, distributed systems, scalability, design
+- **2026-06-11** | [Distributed Cloud Is Becoming the Default Architecture in 2026](https://www.linkedin.com/posts/christophertisenburg_distributed-cloud-is-becoming-the-default-activity-7457774274431410176-dEk9) | kw: load balancing, caching patterns, distributed systems, scalability, design
+
 - **2026-06-11** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: architecture
 - **2026-06-11** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: distributed systems
 - **2026-06-11** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: distributed systems

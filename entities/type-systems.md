@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing, type inference, dependent types, gradual, typing
+- **2026-06-11** | [Scholarly articles for gradual type inference research papers](https://scholar.google.com/scholar?as_sdt=0&as_vis=1&hl=en&oi=scholart&q=gradual+type+inference+research+papers) | kw: gradual typing, type inference, dependent types, gradual, typing
+- **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/@tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing, type inference, dependent types, gradual, typing
+- **2026-06-11** | [The ins and outs of gradual type inference](https://scholar.google.com/scholar_url?ei=DuYVaunjFrGN6rQPmJLm0Ac&hl=en&oi=scholarr&sa=X&scisig=AFyMTJVxo8xxQ4wNM845D6VdzOlr&url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fpdf%2F10.1145%2F2103621.2103714) | kw: gradual typing, type inference, dependent types, gradual, typing
+
 - **2026-06-11** | [Gradual typing with unification-based inference](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: gradual typing
 
 - **2026-06-11** | [Elixir 1.20 adds type inference, boosts compilation speed, and debuts new compiler options](https://alternativeto.net/news/2026/6/elixir-1-20-adds-type-inference-boosts-compilation-speed-and-debuts-new-compiler-options/) | kw: Elixir 1.20, type inference, gradual typing

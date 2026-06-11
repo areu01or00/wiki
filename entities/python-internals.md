@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, free-threaded Python, CPython internals, memory management, memory
+- **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL, free-threaded Python, CPython internals, memory management, memory
+- **2026-06-11** | [Why Python Multiprocessing Can Be Slower Than Single-Threaded ...](https://www.w3tutorials.net/blog/python-using-multiprocess-is-slower-than-not-using-it) | kw: GIL, free-threaded Python, CPython internals, memory management, memory
+- **2026-06-11** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: GIL, free-threaded Python, CPython internals, memory management, memory
+- **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL) and Its Impact on Concurrency](https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b) | kw: GIL, free-threaded Python, CPython internals, memory management, memory
+- **2026-06-11** | [Python Global Interpreter Lock Tutorial](https://www.datacamp.com/tutorial/python-global-interpreter-lock) | kw: GIL, free-threaded Python, CPython internals, memory management, memory
+- **2026-06-11** | [CPython-Internals/memory_management.md](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: GIL, free-threaded Python, CPython internals, memory management, memory
+
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management
 - **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL
 - **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL

@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT compilation, LLVM, bytecode, optimization, compilers
+- **2026-06-11** | [Mastering Code Generation: Exploring the LLVM Backend](https://www.packtpub.com/en-us/learning/how-to-tutorials/mastering-code-generation-exploring-the-llvm-backend) | kw: JIT compilation, LLVM, bytecode, optimization, compilers
+- **2026-06-11** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: JIT compilation, LLVM, bytecode, optimization, compilers
+
 - **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: TypeScript, LLVM, AOT compilation
 
 - **2026-06-11** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: compilers
