@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: system-design
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: system-design
+- **2026-06-11** | [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=BO761Fj6HH8) | kw: system-design
+
 - **2026-06-11** | [Representative Engagements - Precocity Research](http://precocity.nz/success-stories.html) | kw: load balancing
 - **2026-06-11** | [Cloud-Native Applications - PalC Networks](https://palcnetworks.com/services/cloud-platform-engineering/cloud-native-applications) | kw: load balancing
 - **2026-06-11** | [Understanding Modern System Design: Real-World Patterns in a Cloud-Native Architecture](https://www.reddit.com/r/kubernetes/comments/1dh5wk7/understanding_modern_system_design_realworld) | kw: load balancing
