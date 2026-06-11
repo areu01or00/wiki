@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-11** | [I grinded NeetCode 150 so you don't have to. - Medium](https://medium.com/@codegrey/i-grinded-neetcode-150-so-you-dont-have-to-218cfa405154) | kw: algorithms
+- **2026-06-11** | [NeetCode Review: Pros, Cons & Final Verdict - Lodely](https://www.lodely.com/blog/neetcode-review) | kw: algorithms
+
 - **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: interview, data structures
 - **2026-06-11** | [LeetCode Isn't Dead in 2026 - But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode
 - **2026-06-11** | [Leetcode Interviews Fail to Measure Real Engineering Skills](https://www.linkedin.com/posts/sajjaad-khader_dear-tech-companies-its-2026-leetcode-activity-7452355472281460736-JLik) | kw: interview, LeetCode

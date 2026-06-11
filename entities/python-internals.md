@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-11** | [CPython - Wikipedia](https://en.wikipedia.org/wiki/CPython) | kw: CPython internals
+- **2026-06-11** | [Your Guide to the CPython Source Code - Real Python](https://realpython.com/cpython-source-code-guide/) | kw: CPython internals
+- **2026-06-11** | [CPython | DeepWiki](https://deepwiki.com/python/cpython) | kw: CPython internals
+
 - **2026-06-11** | [Python Free-Threading Guide 2026: No-GIL, Threads, Packages, Benchmarks ...](https://www.toolsmint.com/learn/python-free-threading-gil-guide-2026) | kw: GIL, no-GIL
 - **2026-06-11** | [Python support for free threading - Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: python-internals
 - **2026-06-11** | [Unlocking True Parallelism: A Developer's Guide to Free-Threaded Python ...](https://dev.to/mechcloud_academy/unlocking-true-parallelism-a-developers-guide-to-free-threaded-python-314-175i) | kw: free-threaded

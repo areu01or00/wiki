@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-11** | [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/) | kw: Rust patterns
+- **2026-06-11** | [Project goals update — April 2026 (end of 2025H2) | Rust Blog](https://blog.rust-lang.org/2026/05/18/project-goals-2026-04/) | kw: Rust patterns
+
 - **2026-06-11** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: Haskell, Rust
 - **2026-06-11** | [Community version of Learn You a Haskell (2026 Update)](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Haskell
 - **2026-06-11** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell

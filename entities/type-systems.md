@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-11** | [Announcing TypeScript 6.0 - devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/) | kw: TypeScript
+
 - **2026-06-11** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type inference
 - **2026-06-11** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type-systems
 - **2026-06-11** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: type-systems

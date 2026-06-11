@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-11** | [The LLVM Compiler Infrastructure Project - LLVM.org](https://llvm.org/devmtg/2026-01/) | kw: LLVM
+- **2026-06-11** | [Optimizing Compilers Are Not Any More Likely To Be Error-Free ...](https://www.linkedin.com/pulse/optimizing-compilers-any-more-likely-error-free-than-when-silverman-qvhbe) | kw: compilers
+- **2026-06-11** | [LLVM: The bad parts - nikic's Blog](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html) | kw: LLVM
+- **2026-06-11** | [LLVM Implementation for Java JIT Compilers: A Deep Dive](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: LLVM, JIT compilation, compilers
+- **2026-06-11** | [Easy::jit: A just-in-time compiler for C++ - GitHub](https://github.com/jmmartinez/easy-just-in-time) | kw: JIT compilation
+- **2026-06-11** | [What are the pitfalls of using an existing IR/compiler infrastructure ...](https://langdev.stackexchange.com/questions/1824/what-are-the-pitfalls-of-using-an-existing-ir-compiler-infrastructure-like-llvm) | kw: compilers
+- **2026-06-11** | [Building a JIT Compiler from Scratch: Part 0 - How Computers Run ...](https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-0-how-computers-run-your-code-2bp1) | kw: JIT compilation
+
 - **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: LLVM
 - **2026-06-11** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM
 - **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: LLVM

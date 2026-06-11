@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+
+- **2026-06-11** | [Event-Driven Architecture Patterns for High-Throughput Systems in ...](https://www.landskill.com/blog/event-driven-architecture-patterns/) | kw: patterns, architecture
+- **2026-06-11** | [5 best books on system design in 2026 - Medium](https://medium.com/@systemdesignwithsage/5-best-books-on-system-design-0424287985c0) | kw: system-design
+- **2026-06-11** | [50 System Design Patterns Every Engineer Should Know](https://stackinterview.dev/guides/50-system-design-patterns-2026) | kw: patterns
+
 - **2026-06-11** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: pattern
 - **2026-06-11** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
 - **2026-06-11** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: pattern
