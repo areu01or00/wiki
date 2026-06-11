@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: serverless, FinOps
+- **2026-06-11** | [The 7 Architecture Patterns Every IT Head Should Revisit in 2026](https://www.linkedin.com/pulse/7-architecture-patterns-every-head-should-revisit-2026-b5y3f) | kw: architecture patterns
+- **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, circuit breaker, gossip protocol
+- **2026-06-11** | [Distributed Cloud Is Becoming the Default Architecture in 2026](https://www.linkedin.com/posts/christophertisenburg_distributed-cloud-is-becoming-the-default-activity-7457774274431410176-dEk9) | kw: distributed cloud
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: distributed systems
+- **2026-06-11** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://www.reddit.com/r/JavaProgramming/comments/1tkmv0v/9_essential_software_architecture_patterns_for) | kw: distributed systems, architecture patterns
+
 - **2026-06-11** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems
 - **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems
 - **2026-06-11** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: distributed systems

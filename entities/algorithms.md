@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: LeetCode
+- **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: interview
+- **2026-06-11** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: interview, data structures
+- **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms - YouTube](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: data structures
+- **2026-06-11** | [Top 100 Data Structures Interview Questions in 2026](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: interview, data structures
+
 - **2026-06-11** | [JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: algorithms
 - **2026-06-11** | [What are the top interview questions for data structures and ...](https://www.quora.com/What-are-the-top-interview-questions-for-data-structures-and-algorithms) | kw: interview questions
 - **2026-06-11** | [Data Structures and Algorithms Interview Questions - YouTube](https://www.youtube.com/watch?v=ZCnuBl7Sn5U) | kw: interview questions
