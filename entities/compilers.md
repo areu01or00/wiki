@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: just-in-time, (jit), compiler
+- **2026-06-11** | [Perry - Native TypeScript Compiler via LLVM 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: perry, native, typescript
+- **2026-06-11** | [The state of GPU codegen with Nim (LLVM JIT)](https://forum.nim-lang.org/t/9794) | kw: state, codegen, with
+- **2026-06-11** | [Compiler Course 2026 - Building a JIT with LLVM ORC APIs](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026
+- **2026-06-11** | [ML Compiler Optimization Revolution 2026 - Neural Policies for Inlining/Register](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: compiler, optimization, revolution
+
 - **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM, bytecode
 
 - **2026-06-11** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: JIT compilation

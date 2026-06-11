@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Cloud-native architecture patterns - practical responses to distributed systems ](https://iamachs.com/blog/cloud-design-patterns/introduction-cloud-native-architecture-patterns) | kw: cloud-native, architecture, patterns
+- **2026-06-11** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: future, system, design:
+- **2026-06-11** | [SRDS 2026 - 45th International Symposium on Reliable Distributed Systems](https://srds-conference.org/) | kw: srds, 2026, 45th
+- **2026-06-11** | [Evolving Software Architecture for the Cloud Era](https://medium.com/%40bubu.tripathy/evolving-software-architecture-for-the-cloud-era-331dc2051c14) | kw: evolving, software, architecture
+- **2026-06-11** | [Cloud Architecture Best Practices 2025 - Edge-Native, Serverless, AI/ML](https://fullscale.io/blog/cloud-architecture-best-practices-2025) | kw: cloud, architecture, best
+- **2026-06-11** | [Cloud-Native Applications - Platform-Aware Architecture](https://palcnetworks.com/services/cloud-platform-engineering/cloud-native-applications) | kw: cloud-native, applications, platform-aware
+- **2026-06-11** | [Cloud-Native Architectures in Financial Services with AWS and Kubernetes](https://www.researchgate.net/publication/400839985_Cloud-Native_Architectures_in_Financial_Services_Enhancing_Scalability_and_Security_with_AWS_and_Kubernetes) | kw: cloud-native, architectures, financial
+
 - **2026-06-11** | [Edge Computing in 2026: How Enterprise Data Moved to the Edge](https://www.devx.com/uncategorized/edge-computing-2026-enterprise-data/) | kw: load balancing, caching patterns, distributed systems
 - **2026-06-11** | [SRDS 2026](https://srds-conference.org/) | kw: load balancing, caching patterns, distributed systems
 - **2026-06-11** | [The Complete Guide to System Design in 2026](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: load balancing, caching patterns, distributed systems

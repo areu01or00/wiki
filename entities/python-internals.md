@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Memory Management in Python - Honeybadger](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory, management, python
+- **2026-06-11** | [Working around the Global Interpreter Lock (GIL)](https://dev.tut.github.io/python/working-around-the-global-interpreter-lock-gil.html) | kw: working, around, global
+- **2026-06-11** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: thread, states, global
+- **2026-06-11** | [Understanding Python's GIL and Enhancing Concurrency](https://dev.to/sreeni5018/understanding-pythons-gil-and-enhancing-concurrency-with-multithreading-multiprocessing-and-5g1e) | kw: understanding, python's, enhancing
+- **2026-06-11** | [CPython-Internals: Memory Management](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: cpython-internals:, memory, management
+- **2026-06-11** | [What is the GIL and is it going away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: what, going, away
+- **2026-06-11** | [Understanding Python's GIL: An In-Depth Guide](https://python.plainenglish.io/understanding-pythons-gil-global-interpreter-lock-an-in-depth-guide-f0e4b869fcc2) | kw: understanding, python's, gil:
+- **2026-06-11** | [Memory Management & GIL: Python Guide 2026](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory, management, gil:
+
 - **2026-06-11** | [The GIL and API Performance](https://fosdem.org/2026/events/attachments/ABJMWD-the_gil_and_api_performance_past_present_and_free-threaded_future/slides/266979/the_gil_a_fw7etsx.pdf) | kw: GIL, free-threaded Python, CPython internals
 - **2026-06-11** | [Global Interpreter Lock (GIL) in Python – Everything You Need to Know for Interviews](https://dev.to/imsushant12/global-interpreter-lock-gil-in-python-everything-you-need-to-know-for-interviews-5e4g) | kw: GIL, free-threaded Python, CPython internals
 - **2026-06-11** | [State of Python 3.13 performance: Free-threading](https://news.ycombinator.com/item?id=42051197) | kw: GIL, free-threaded Python, CPython internals
