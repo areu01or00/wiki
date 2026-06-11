@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Memory Management in Python Honeybadger Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory management, memory, python
+- **2026-06-11** | [Advanced Python C API Arena Allocators runebook.dev](https://runebook.dev/en/docs/python/c-api/memory/c.PyObject_GetArenaAllocator) | kw: python
+- **2026-06-11** | [Python Internals Memory Management GIL evidhya.com](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Python Memory Management Internals Medium](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: memory management, memory, python
+- **2026-06-11** | [Future of Python Internals GIL Removal Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL, python, internals
+- **2026-06-11** | [What Is Python Memory Management Coursera](https://www.coursera.org/articles/python-memory-management) | kw: memory management, memory, python
+- **2026-06-11** | [CPython-Internals memory_management.md GitHub](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: memory, python, internals
+- **2026-06-11** | [Memory Management Reference Counting Internals Python CodingConfessions](https://blog.codingconfessions.com/p/cpython-reference-counting-internals) | kw: memory management, memory, python
+- **2026-06-11** | [Evolution of Python Memory Management LinkedIn](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: memory management, memory, python
+- **2026-06-11** | [Memory Management GIL Python Guide 2026 Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, memory management, memory
+
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
 - **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, memory management, memory
 - **2026-06-11** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: GIL, python, gil

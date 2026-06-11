@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance in Gradual Typing arxiv](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance in Gradual Typing confer](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Type system concepts typing.python.org](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing, type, system
+- **2026-06-11** | [Design and Evaluation of Gradual Typing for Python DLS28](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [A Strategic Guide to Gradual Typing in Python Medium](https://medium.com/%40tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Gradual Typing Glossary Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Gradual typing Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Gradual Typing with Inference slides siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Horizon Summary 2026-06-04 Elixir v1.20 gradual typing](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Gradual Liquid Type Inference OOPSLA](https://nikivazou.github.io/static/oopsla18main-p124-p.pdf) | kw: type inference, gradual, inference
+
 - **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/%40tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing, gradual, typing
 - **2026-06-11** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: type inference, gradual, inference
 - **2026-06-11** | [How to Evaluate the Performance of Gradual Type Systems - Jan Vitek](https://janvitek.org/pubs/jfp18.pdf) | kw: gradual, systems, type

@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: design, patterns, system
+- **2026-06-11** | [Distributed Systems Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, patterns, architecture
+- **2026-06-11** | [Patterns of Distributed Systems Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Distributed System Design Patterns Practitioner Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: design, patterns, distributed
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [System Design Guide 2026 Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: design, patterns, architecture
+- **2026-06-11** | [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: distributed systems, systems, distributed
+- **2026-06-11** | [Microservices Design Patterns for Cloud Architecture IEEE Chicago](https://ieeechicago.org/microservices-design-patterns-for-cloud-architecture) | kw: design, patterns, architecture
+- **2026-06-11** | [Pattern Microservice Architecture microservices.io](https://microservices.io/patterns/microservices.html) | kw: architecture, microservices
+
 - **2026-06-11** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: distributed systems, systems, distributed
 - **2026-06-11** | [The Complete Guide to System Design in 2026 AI-Native and ...](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: design, system
 - **2026-06-11** | [Distributed Cloud Is Becoming the Default Architecture in 2026](https://www.linkedin.com/posts/christophertisenburg_distributed-cloud-is-becoming-the-default-activity-7457774274431410176-dEk9) | kw: architecture, distributed

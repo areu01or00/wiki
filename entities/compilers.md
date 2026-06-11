@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [FOSDEM 2026 OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: LLVM
+- **2026-06-11** | [Compilers and Modern Language Runtimes LLVM JIT GC V8 2026](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, compilers
+- **2026-06-11** | [JIT compiler for expressions PostgreSQL 2016](https://www.postgresql.org/message-id/CADviLuNjQTh99o6E0LTi0Ygks%3DnaW8SXHmgn%3D8P%2BaaBXKXa0pA%40mail.gmail.com) | kw: general
+- **2026-06-11** | [Perry Native TypeScript Compiler LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: LLVM, TypeScript
+- **2026-06-11** | [Just-In-Time JIT Compiler with LLVM createlang.rs](https://createlang.rs/01_calculator/jit_intro.html) | kw: LLVM
+- **2026-06-11** | [Resume Sanjoy Das playingwithpointers.com](http://playingwithpointers.com/resume.html) | kw: general
+- **2026-06-11** | [compiler-course-2026 BuildingAJIT1.rst GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: general
+- **2026-06-11** | [I want to understand what is JIT compilers and how do they work Reddit](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
+- **2026-06-11** | [Unraveling a Postgres segfault Arm64 JIT compiler bug Datadog](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault) | kw: general
+
 - **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilation
 - **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT ...](https://forum.nim-lang.org/t/9794) | kw: LLVM, GPU codegen
 - **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: LLVM, TypeScript
