@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: gradual typing
+- **2026-06-11** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: gradual typing
+- **2026-06-11** | [A Strategic Guide to Gradual Typing in Python | by Tihomir Manushev | Dec, 2025 | Medium](https://medium.com/%40tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing
+
 - **2026-06-11** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing
 - **2026-06-11** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
 - **2026-06-11** | [Gradual Typing - Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing

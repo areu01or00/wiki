@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Representative Engagements - Precocity Research](http://precocity.nz/success-stories.html) | kw: load balancing
+- **2026-06-11** | [Cloud-Native Applications - PalC Networks](https://palcnetworks.com/services/cloud-platform-engineering/cloud-native-applications) | kw: load balancing
+- **2026-06-11** | [Understanding Modern System Design: Real-World Patterns in a Cloud-Native Architecture](https://www.reddit.com/r/kubernetes/comments/1dh5wk7/understanding_modern_system_design_realworld) | kw: load balancing
+- **2026-06-11** | [A Strategic Guide for Enterprise Cloud Architecture Best Practices in 2025](https://fullscale.io/blog/cloud-architecture-best-practices-2025) | kw: load balancing
+- **2026-06-11** | [Understanding Modern System Design: Real-World Patterns in a Cloud-Native Architecture | by Renjith Pillai | Medium](https://medium.com/%40renji.bio/understanding-modern-system-design-real-world-patterns-in-a-cloud-native-architecture-2e659306e981) | kw: load balancing
+
 - **2026-06-11** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems
 - **2026-06-11** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: distributed systems
 - **2026-06-11** | [System Design 101 - Distributed Systems](https://dev.to/mukulalpha/system-design-101-everything-to-know-about-distributed-systems-2hd6) | kw: distributed systems

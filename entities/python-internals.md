@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Book Review: CPython Internals - Programming for fun and profit slar.se](https://slar.se/book-review-cpython-internals.html) | kw: GIL
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL
+- **2026-06-11** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: GIL
+- **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL
+
 - **2026-06-11** | [Book Review: CPython Internals](https://slar.se/book-review-cpython-internals.html) | kw: CPython internals
 - **2026-06-11** | [Python Internals: Memory Management & GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL
 - **2026-06-11** | [GlobalInterpreterLock - Python Wiki](https://wiki.python.org/moin/GlobalInterpreterLock) | kw: python-internals

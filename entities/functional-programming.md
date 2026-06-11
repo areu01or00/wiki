@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: monads
+- **2026-06-11** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: monads
+- **2026-06-11** | [Iterators & Closures: The "Functional Powerhouse"](https://yafi.hashnode.dev/iterators-closures-the-functional-powerhouse) | kw: monads
+
 - **2026-06-11** | [Haskell Advanced monads - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Advanced_monads) | kw: monads
 - **2026-06-11** | [What are monads in functional programming - Quora](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful) | kw: monads
 - **2026-06-11** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: monads

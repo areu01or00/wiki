@@ -10,6 +10,11 @@
         "scalability"
       ],
       "last_result_hashes": [
+        "cafa080e0e16cf024144a4adb8d5840a",
+        "02f4119856e2828a7d4f75375dca7701",
+        "683e38dac5442443e887626ea733d4a0",
+        "a1c0d6a24c619a383c01caf6e5633f93",
+        "289265e8e8358de4a380a35a87fbc143",
         "d3099c6517032e4d8a49b61853da6add",
         "3a1f805895177e55d754b267f4b044f7",
         "9ee955eaf1cbe1cdb85edc1616cbe650",
@@ -24,14 +29,9 @@
         "8a954dfa4efb95f9ca2e52dfb3d55dc7",
         "5be977a41617386923b3a8cd882f45f2",
         "2d3339fbcb04e9f626d884e03958e8d3",
-        "41d6174b15f0424c57771a20566b771d",
-        "db4c79ae6fa8d43737e5bb18c28b1f9e",
-        "d7e4053d8359b5818b4128259533ab69",
-        "0c605eccb8fa67b5389714ecb337c17b",
-        "dc769d981b3d8d2679e5ffe5ae716ab4",
-        "197cd92fff8af5e1995cf1fcace07049"
+        "41d6174b15f0424c57771a20566b771d"
       ],
-      "last_run": "2026-06-11T11:32:30.251867+00:00"
+      "last_run": "2026-06-11T11:46:49.561326+00:00"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -43,6 +43,10 @@
         "optimization"
       ],
       "last_result_hashes": [
+        "d0de062ed058a4b7bb87b9c013129190",
+        "0e37ea17fc9a69e116e589e0bc7f8c79",
+        "b86eb07f5a984fccae1bb38c4d48f846",
+        "0a5349e49f5f2ba711665bbaab2d441e",
         "2ff0b8b55879526c08cc0a33e7f7248a",
         "f6a865388e10d644e15e58bc67e9d309",
         "1eeab40e694b32b12c11f7120c3f1ce4",
@@ -58,13 +62,9 @@
         "f24462f636626f7ed98b5c57f52808c6",
         "af906821b5af28695658baff9661080f",
         "882bcb2105b6040d5fcea4850b3f99d7",
-        "fc1ec57249eea7db8e282d766fb67329",
-        "4b616a764efa92d27ad469560f24c012",
-        "76f044c98a62bf5ca0bdd6fafc2a2f93",
-        "44a2812e89a88add3746f95fd6710d43",
-        "525a160983d7b911b472e962fb56cbde"
+        "fc1ec57249eea7db8e282d766fb67329"
       ],
-      "last_run": "2026-06-11T11:32:30.251878+00:00"
+      "last_run": "2026-06-11T11:46:49.561326+00:00"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -75,6 +75,9 @@
         "dependent types"
       ],
       "last_result_hashes": [
+        "281dcc412b25b8e56702cc648bcf9932",
+        "f74dcb0debf2a2cea53db851214ba23e",
+        "b8e3d152fd033a3d3605c533758fd29a",
         "316142506814761ab573bc265d38e756",
         "6c257d065a3041b16049b05a47e582ff",
         "5cc1d4c55fe22c53ab06d0faccb4247c",
@@ -91,12 +94,9 @@
         "4a101114e3b691c4671d64770c39c052",
         "98a25f82aa01c6e3086793f3280a92b9",
         "c506c55cbc19430a36da206e6c57d819",
-        "4a1bf7bf0062edce6ba48dc2be42137f",
-        "5b2a310af3624fe5c8840aaca4c5f195",
-        "5d9dbdf7566f99288e89a92d6e5f9d04",
-        "6b6fd43a1209bb799a3e03160c0c575e"
+        "4a1bf7bf0062edce6ba48dc2be42137f"
       ],
-      "last_run": "2026-06-11T11:32:30.251880+00:00"
+      "last_run": "2026-06-11T11:46:49.561326+00:00"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -108,6 +108,9 @@
         "functional idioms"
       ],
       "last_result_hashes": [
+        "c233ce094f809bd93c2f4474229feed5",
+        "6a3de62750f7cf7e38152c833d7b84a9",
+        "860751959f144fcecd1552a4d6f54c35",
         "3dab99b5330ccd20db91a26c202fbc1e",
         "2c6957e1f1d7ea7d57cfdd721fc5e962",
         "15936d537cbb6bdd3a45752166ac7bea",
@@ -124,12 +127,9 @@
         "e2809728031a0a794b40bbdaef5a85f9",
         "cb3451b58dc0de64c4abaf6248054b44",
         "2afed471200a7aad24d51d7fe1ae4f82",
-        "93c0707eb0933e258fc88852df8ddb50",
-        "f0cb257c377771d3bf2c51a546be5db9",
-        "23de70aea07263b68287f98daf104fab",
-        "84a94a6f557d1cfadfc9f5ce9825b1a5"
+        "93c0707eb0933e258fc88852df8ddb50"
       ],
-      "last_run": "2026-06-11T11:32:30.251883+00:00"
+      "last_run": "2026-06-11T11:46:49.561326+00:00"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -140,6 +140,10 @@
         "coding interviews"
       ],
       "last_result_hashes": [
+        "9bae7c320eaa49023b76088f638f22f3",
+        "da07850fbbddfe59913ecac0b4879947",
+        "27d47f935a44b9765ac562cb7e9795ce",
+        "44c156063d17c0ed4ba28ac716693a25",
         "a97aaa060bf3039beeb41e73ac20d73c",
         "f165d7fe740b5c35dcc862dc5659c988",
         "32db7342efe5e7dcd3ff799e28682634",
@@ -155,13 +159,9 @@
         "f327b4152731591dae64ae9d00491dd2",
         "c4e4411dcef6fba048eeb0713b613c90",
         "0d1927ee8140d4e372ad9ded200b1aec",
-        "219f78dfd5478a5ed5c8281ae3e799f3",
-        "ad3d7902f47bce8a6e68b96b056b1354",
-        "1c10e7c58ac91b8b3959fadb52a3ac5b",
-        "4d4c73358bda0b2ed645faa162d70d22",
-        "e1fbdba4d105f06cbfd94169fb762a8c"
+        "219f78dfd5478a5ed5c8281ae3e799f3"
       ],
-      "last_run": "2026-06-11T11:32:30.251885+00:00"
+      "last_run": "2026-06-11T11:46:49.561326+00:00"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -173,6 +173,11 @@
         "memory management"
       ],
       "last_result_hashes": [
+        "09d5ec4830917251079a8991b1c39790",
+        "7b0c583d3445b91efa0c0453e5a737c4",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "b892d3268af415a5d0c10b3cc6cd89bf",
+        "aff79aed6e34d3f002b7fa14f5978b75",
         "6e4ede96199e88aa8dff4012c8df3e89",
         "f9cfc91df9c90751c36ca713eff981aa",
         "9a16abe455aad8976504790293f8762a",
@@ -187,14 +192,9 @@
         "36e1812585993d5ff363b5613d59e702",
         "5042afda37853877533dd9b7d40d26a0",
         "f7f6243b9d9a4a96b54a33522ed861e0",
-        "349b5bc51f13880d861325cbf51da2ec",
-        "80580a1832b8338a42d9f4b053b25bef",
-        "828c3035c6a4ad3fc42b9c2836fee87b",
-        "628f5a41d32d5b65eea1dcacb61f3acc",
-        "a30de3c9336d9325f362b2a940df7f85",
-        "5a49a58deab273e18c8b15268556d3ab"
+        "349b5bc51f13880d861325cbf51da2ec"
       ],
-      "last_run": "2026-06-11T11:32:30.251887+00:00"
+      "last_run": "2026-06-11T11:46:49.561326+00:00"
     }
   }
 }
