@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: DSA, LeetCode, interview prep
+- **2026-06-11** | [Using Leetcode to master coding interviews - Benjamin Yolken](https://yolken.net/blog/master-coding-interviews) | kw: DSA, LeetCode, interview prep
+
 - **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: leetcode
 - **2026-06-11** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: coding interviews
 - **2026-06-11** | [Most Asked Questions - Interview Questions | DSA](https://workat.tech/problem-solving/lists/most-asked-questions/practice) | kw: interview

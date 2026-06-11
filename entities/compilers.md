@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Building a JIT: Starting out with KaleidoscopeJIT](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM, GPU codegen
+- **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT ...)](https://forum.nim-lang.org/t/9794) | kw: JIT compilation, LLVM, GPU codegen
+
 - **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilation
 - **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: LLVM
 - **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM

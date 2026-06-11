@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: monads, Haskell, Rust patterns
+
 - **2026-06-11** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads
 - **2026-06-11** | [Understanding Monads](https://nickx.hu/Monads.pdf) | kw: monads
 - **2026-06-11** | [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: monads
