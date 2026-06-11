@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing
+- **2026-06-11** | [Type system concepts typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system
+- **2026-06-11** | [Gradual Typing Glossary Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: Gradual, Typing
+- **2026-06-11** | [Gradual Typing for Functional Languages PDF](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual, Typing
+- **2026-06-11** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: Design, Evaluation
+
 - **2026-06-11** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: gradual typing
 - **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/@tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing
 - **2026-06-11** | [Gradual Typing - Glossary - Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing

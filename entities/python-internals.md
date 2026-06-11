@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Book Review CPython Internals](https://slar.se/book-review-cpython-internals.html) | kw: Book, Review
+- **2026-06-11** | [Python Internals Memory Management and the Global Interpreter Lock GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals
+- **2026-06-11** | [Memory Management in Python Honeybadger](https://www.honeybadger.io/blog/memory-management-in-python) | kw: Memory, Management
+- **2026-06-11** | [The Future of Python Internals Exploring GIL Removal](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: Future, Python
+- **2026-06-11** | [Python Memory Management From Stack Frames to Closures](https://blog.stackademic.com/python-memory-management-from-stack-frames-to-closures-f4a306503ecc) | kw: Python, Memory
+
 - **2026-06-11** | [Python Internals: Memory Management and the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management
 - **2026-06-11** | [Memory Management and GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, memory management
 - **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: free-threaded Python
