@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/cscareeradvice/comments/1tzzfwh/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: DSA, LeetCode, interview
+- **2026-06-11** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode, interview
+- **2026-06-11** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026 ... - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: DSA, LeetCode, interview
+- **2026-06-11** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: LeetCode
+
 - **2026-06-11** | [Top 50 Microsoft Array LeetCode Questions (2026)](https://www.hackmnc.com/blogs/microsoft-array-leetcode-questions) | kw: dynamic programming
 - **2026-06-11** | [Top 30 Most Common Coupang LeetCode Interview Questions](https://www.vervecopilot.com/hot-blogs/coupang-leetcode-interview-questions) | kw: dynamic programming
 - **2026-06-11** | [Bloomberg LP Software Engineer Interview Guide 2026](https://www.interviewquery.com/guides/bloomberg-lp-software-engineer) | kw: dynamic programming

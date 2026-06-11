@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [functional - 搜索 词典](https://global.bing.com/dict/search?q=functional&FORM=BDVSP6&cc=cn) | kw: functional
+- **2026-06-11** | [FUNCTIONAL中文 (简体)翻译：剑桥词典](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/functional) | kw: functional
+- **2026-06-11** | [functional_百度百科](https://baike.baidu.com/item/functional/2599905) | kw: functional
+- **2026-06-11** | [functional的解释和发音 「欧路词典」](https://dict.eudic.net/mdicts/en/functional) | kw: functional
+- **2026-06-11** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: functional
+
 - **2026-06-11** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: monads, Rust patterns, functional idioms
 - **2026-06-11** | [Master Monads: Unlock Functional Programming's Secret Weapon](https://notes.suhaib.in/docs/tech/latest/monads-demystified-the-math-driven-superpower-behind-functional-programming/) | kw: monads, functional idioms
 

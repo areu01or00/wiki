@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Thread states and the global interpreter lock — Python 3.14.5 ...](https://docs.python.org/3/c-api/threads.html) | kw: GIL, memory
+- **2026-06-11** | [It's Probably Not a Leak: A Field Guide to Python Memory - LinkedIn](https://www.linkedin.com/pulse/its-probably-leak-field-guide-python-memory-neeraj-koul-ldylc) | kw: GIL, CPython, memory
+
 - **2026-06-11** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: GIL
 - **2026-06-11** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: GIL
 

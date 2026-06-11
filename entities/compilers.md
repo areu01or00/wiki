@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compiler - Wikipedia](https://en.wikipedia.org/wiki/Compiler) | kw: compilers
+- **2026-06-11** | [Introduction To Compilers - GeeksforGeeks](https://www.geeksforgeeks.org/compiler-design/introduction-to-compilers/) | kw: compilers
+- **2026-06-11** | [8 Best Compilers in 2026 (Tested) - BestValued](https://bestvalued.com/best-compilers) | kw: compilers
+- **2026-06-11** | [Top 10 Best Compiler Software | 2026 Verified Picks](https://worldmetrics.org/best/compiler-software/) | kw: compilers
+- **2026-06-11** | [List of Top 10 C/C++ Compilers - Terminal Root](https://terminalroot.com/list-of-top-10-c-cpp-compilers/) | kw: compilers
+
 - **2026-06-11** | [JIT Design and Implementation - The Julia Language](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT compilation
 
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT compilation, LLVM
