@@ -20,14 +20,13 @@
         "trends",
         "backend",
         "conference",
-        "reliability"
+        "reliability",
+        "edge computing",
+        "WebAssembly",
+        "eBPF",
+        "circuit breaker pattern"
       ],
       "last_result_hashes": [
-        "2bc8ca4f97c70eb4043d781c567b9f61",
-        "55aa036466a4352eeab5ebf361d25f98",
-        "2d3339fbcb04e9f626d884e03958e8d3",
-        "b275e4f654fd19baf9a259d7e65f4b51",
-        "d7e4053d8359b5818b4128259533ab69",
         "1d8e4dbff3c1ba964e43ba42c14fd285",
         "36ad9437021fb29d03282722099eb5ea",
         "0c605eccb8fa67b5389714ecb337c17b",
@@ -42,9 +41,14 @@
         "4493db04174fb52c7b4a8bed0a3bc5ca",
         "2ebbe3411f331c326ab1fd19aa4e50c7",
         "697337f881dc40cc977774b3475bbe3d",
-        "8a954dfa4efb95f9ca2e52dfb3d55dc7"
+        "8a954dfa4efb95f9ca2e52dfb3d55dc7",
+        "7cec981e3ec9ecf6d4f19ab2fda7c5db",
+        "7ada9c496017a8b9bf8183716cd7e6fd",
+        "5be977a41617386923b3a8cd882f45f2",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "7182d573a1d6c34ab6ff2fded86e12f9"
       ],
-      "last_run": "2026-06-11T22:32:13"
+      "last_run": "2026-06-11T22:47:07"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -59,13 +63,13 @@
         "GPU codegen",
         "TypeScript",
         "AOT compilation",
-        "Perry TypeScript compiler"
+        "Perry TypeScript compiler",
+        "V8 Turbofan",
+        "V8 Maglev",
+        "inline caching",
+        "ORC JIT"
       ],
       "last_result_hashes": [
-        "baf4358154fcd278b23f35a0c4d0fc30",
-        "a5ef6826de67317cc0c5a53fba480581",
-        "297540bbaec7c42bdb94385bd46f159a",
-        "39c17cdd042b5f648a3c1da568d86a87",
         "b86eb07f5a984fccae1bb38c4d48f846",
         "b5e00710b2943bf7e9fdc22c4a2122a5",
         "54d4017e54664c29e143a57591a6e2ca",
@@ -81,9 +85,13 @@
         "9a6611dbbf99b0d3a53728a8c6b3a9b9",
         "ddc92f85fc2befaa671acda7fc260521",
         "46047667f85453525404b37598767ca8",
-        "e96a5a0b15c49cbffbca1b81f75160f9"
+        "e96a5a0b15c49cbffbca1b81f75160f9",
+        "d0de062ed058a4b7bb87b9c013129190",
+        "af906821b5af28695658baff9661080f",
+        "919c927a76067730bd8f38d73b1e411e",
+        "58df89b33764277cd757c9951d9fc204"
       ],
-      "last_run": "2026-06-11T22:32:13"
+      "last_run": "2026-06-11T22:47:07"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -100,14 +108,12 @@
         "system",
         "Elixir 1.20",
         "performance",
-        "evaluation"
+        "evaluation",
+        "type annotation",
+        "runtime checks",
+        "Reticulated Python"
       ],
       "last_result_hashes": [
-        "98a25f82aa01c6e3086793f3280a92b9",
-        "7abb24654211fd38ddedcd2bff75f513",
-        "4a1bf7bf0062edce6ba48dc2be42137f",
-        "030a1077da877b20fc71fabea3bc9a18",
-        "f74dcb0debf2a2cea53db851214ba23e",
         "5b2a310af3624fe5c8840aaca4c5f195",
         "66df52ccc255f5478685bf9f78c50b04",
         "7b6b7902cf957bdfb1ad6a79f0118f9e",
@@ -122,9 +128,14 @@
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "e20519e8bd47b8bb20b3e874a8c0ede9",
         "4a101114e3b691c4671d64770c39c052",
-        "7d06449a04f4215c903590d9c5f4c874"
+        "7d06449a04f4215c903590d9c5f4c874",
+        "1521aff18941477cf9533b64c1f54b6b",
+        "c3586fcc52bb2708ce1b7c5dd678ba77",
+        "a2cf42a6a2f0795748a38600e9178da7",
+        "ed513f6e12395c8fbbf5e5415449aabd",
+        "c0b8939bb00148936243259369f1f8a3"
       ],
-      "last_run": "2026-06-11T22:32:13"
+      "last_run": "2026-06-11T22:47:07"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -142,13 +153,12 @@
         "category theory",
         "tutorial",
         "advanced",
-        "RustWeek"
+        "RustWeek",
+        "monads in Rust",
+        "effect systems",
+        "monoid"
       ],
       "last_result_hashes": [
-        "2c7be2cab5c65f01d38b186ed1cb4612",
-        "56438f54e1ffea0abfae1e112ceab330",
-        "ab1a401478bf91151df62818473f5ef5",
-        "827f82e9e1a47b7a7ad617629e29c129",
         "62ea2c4db66f0dbfd6bb8ead382dbd01",
         "a637c1b028184eea6b2bb028d9aef416",
         "ce1296b7730544a3db978dc13e7a351f",
@@ -164,9 +174,13 @@
         "93c0707eb0933e258fc88852df8ddb50",
         "e2809728031a0a794b40bbdaef5a85f9",
         "8b392f40f2d9484600edbc6565709ca7",
-        "9d0a225bfde129bbfa085aba60185f02"
+        "9d0a225bfde129bbfa085aba60185f02",
+        "449f1936d11b3408b5111b8fbfc6e205",
+        "33fdffe283704837c6a578b114c82642",
+        "52129677d3fa1db4e79c5f1e3cb65890",
+        "34b17cbf2946d10096a1f5772c39f182"
       ],
-      "last_run": "2026-06-11T22:32:13"
+      "last_run": "2026-06-11T22:47:07"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -184,14 +198,13 @@
         "classic problems",
         "competitive programming",
         "DSA",
-        "interview questions"
+        "interview questions",
+        "NeetCode",
+        "Blind 75",
+        "binary lifting",
+        "tree DP"
       ],
       "last_result_hashes": [
-        "a486186f4e9649b87dcbb9f8d9adb7d0",
-        "0d1927ee8140d4e372ad9ded200b1aec",
-        "94c9f743fe8ce083ddfacd4598f09ad2",
-        "ad3d7902f47bce8a6e68b96b056b1354",
-        "cd7a3fe9cc6777660588b9b7319ed24f",
         "54c274486846d3c7f478f2dd3201c206",
         "c4e4411dcef6fba048eeb0713b613c90",
         "9bae7c320eaa49023b76088f638f22f3",
@@ -206,9 +219,14 @@
         "3f41685fbba7485c01e41863a7086e51",
         "60233ba12f224764b5938c3634b02e6a",
         "425c7b3df72090fd953b1cda95d7377e",
-        "ff0f3b41581efb50757f0baca42cbdac"
+        "ff0f3b41581efb50757f0baca42cbdac",
+        "d87d572a0d68a8c44fc6b2f8385ff892",
+        "80f5dbc1ee2a18a8dad03a4b65efec46",
+        "29ea82bbcf096f644d06a5b4f99cee53",
+        "53afc8b458c8c087f3014abd21812a77",
+        "5552e12f8ab8d9e91fc1c99cec673f34"
       ],
-      "last_run": "2026-06-11T22:32:13"
+      "last_run": "2026-06-11T22:47:07"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -232,13 +250,13 @@
         "Python guide",
         "GIL removal",
         "Faster CPython",
-        "optimization"
+        "optimization",
+        "PyMalloc",
+        "mimalloc",
+        "Python 3.13",
+        "Python 3.14"
       ],
       "last_result_hashes": [
-        "2a37fb2bceb02136862dd1323b7c6926",
-        "087455b373dbe987da5078283f97a4cb",
-        "f7f6243b9d9a4a96b54a33522ed861e0",
-        "349b5bc51f13880d861325cbf51da2ec",
         "e3acc76d29c7d508335c1c933c2cc2cc",
         "44fd81c52a55b419deeaabf02eb44a06",
         "d6b08d59a67d6de170eba48ba0719827",
@@ -254,9 +272,13 @@
         "021d661ccfb318e91be8e75d35f4f43f",
         "02dc8f8f89f95bd8924daee0f6db1dcf",
         "c4e9d8476c1dc4f57bbca910a3631c7c",
-        "ba45ae3ae8ea0241136eb837fc3a51a9"
+        "ba45ae3ae8ea0241136eb837fc3a51a9",
+        "03e9423b802e0456d3fe98220b76ea3a",
+        "3c4514aa68596f412f39504de90fa314",
+        "2d7fccf0afd88e3d8b6fe31898a1c546",
+        "aff79aed6e34d3f002b7fa14f5978b75"
       ],
-      "last_run": "2026-06-11T22:32:13"
+      "last_run": "2026-06-11T22:47:07"
     }
   }
 }

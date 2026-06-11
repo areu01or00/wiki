@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: algorithms, structures, data structures
+- **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: interview, interview questions
+- **2026-06-11** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: leetcode, interview, LeetCode
+- **2026-06-11** | [Google 2026 Interview Preparation - Complete Weekly Roadmap](https://gist.github.com/carefree-ladka/6d1722421f9e1e46bd2dbdb5ea1b4684) | kw: interview
+- **2026-06-11** | [ALGORITHMS AND DATA STRUCTURES INTERVIEW](https://patrimoniohistorico.prefeitura.sp.gov.br/browse/vEpFAW/7FE141/AlgorithmsAndDataStructuresInterviewQuestions.pdf) | kw: algorithms, structures, interview
+
 - **2026-06-11** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150/) | kw: algorithms
 - **2026-06-11** | [Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: algorithms
 

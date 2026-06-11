@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance ...](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: gradual, inference, type
+- **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/%40tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual typing, gradual, typing
+
 - **2026-06-11** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type-systems
 - **2026-06-11** | [Elixir 1.20 adds type inference, boosts compilation speed](https://alternativeto.net/news/2026/6/elixir-1-20-adds-type-inference-boosts-compilation-speed-and-debuts-new-compiler-options/) | kw: type-systems
 

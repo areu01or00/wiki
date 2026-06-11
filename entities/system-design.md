@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: design, patterns, architecture
+- **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, scalability, design
+- **2026-06-11** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: design, patterns, architecture
+- **2026-06-11** | [Distributed System Patterns](https://www.geeksforgeeks.org/system-design/distributed-system-patterns) | kw: patterns, distributed, system
+
 - **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: system-design
 - **2026-06-11** | [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: system-design
 

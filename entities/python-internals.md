@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL, python, internals
+- **2026-06-11** | [CPython Memory Management Internals](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: CPython internals, memory management, memory
+- **2026-06-11** | [CPython Memory Allocators: Malloc, Pymalloc, and Mimalloc](https://www.linkedin.com/posts/veldakiara_i-was-reading-about-memory-allocators-in-activity-7435680460913086465-w9XV) | kw: memory, python, CPython
+- **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL, python, gil
+
 - **2026-06-11** | [How the GIL Affects Real Python Workloads](https://hevalhazalkurt.com/blog/how-the-gil-affects-real-python-workloads) | kw: python-internals
 - **2026-06-11** | [Understanding Python's GIL: Threading and Multiprocessing](https://python.howtos.io/understanding-python-s-gil-threading-and-multiprocessing) | kw: python-internals
 - **2026-06-11** | [Understanding Python's GIL (Global Interpreter Lock)](https://python.plainenglish.io/understanding-pythons-gil-global-interpreter-lock-an-in-depth-guide-f0e4b869fcc2) | kw: python-internals

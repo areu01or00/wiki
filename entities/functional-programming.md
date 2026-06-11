@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: monads, Haskell, functional
+- **2026-06-11** | [monadify — Rust utility](https://lib.rs/crates/monadify) | kw: monads, functional, programming
+- **2026-06-11** | [A Comprehensive Guide to Monads](https://medium.com/codex/a-comprehensive-guide-to-monads-211eb6c71066) | kw: monads
+- **2026-06-11** | [you can and should use monads in your code](https://www.reddit.com/r/programming/comments/64th1/monads_in_python_in_production_code_you_can_and) | kw: monads
+
 - **2026-06-11** | [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: functional-programming
 - **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional-programming
