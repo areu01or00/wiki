@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads, Haskell, haskell
+- **2026-06-11** | [Monad tutorials timeline - Haskell](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Haskell, haskell, tutorial
+
 - **2026-06-11** | [Yet Another Haskell Tutorial/Monads - Wikibooks](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial/Monads) | kw: monads, Haskell, haskell
 - **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional, programming
 

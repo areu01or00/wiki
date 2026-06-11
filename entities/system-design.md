@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: distributed systems, design, patterns
+- **2026-06-11** | [Evolving Software Architecture for the Cloud Era](https://medium.com/@bubu.tripathy/evolving-software-architecture-for-the-cloud-era-331dc2051c14) | kw: architecture
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, patterns, systems
+
 - **2026-06-11** | [Distributed systems architectures - GitHub Notes](https://github.com/eddyerburgh/notes/blob/master/docs/distributed-systems/distributed-systems-architectures.md) | kw: distributed systems, architecture, systems
 - **2026-06-11** | [Designing Distributed Systems Frederik Banke](https://www.frederikbanke.com/designing-distributed-systems) | kw: distributed systems, design, systems
 - **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, patterns, systems

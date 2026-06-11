@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [How to Evaluate the Performance of Gradual Type Systems](https://janvitek.org/pubs/jfp18.pdf) | kw: gradual, systems, type
+
 - **2026-06-11** | [Position Paper: Performance Evaluation for Gradual Typing](http://www.ccs.neu.edu/home/asumu/papers/stop15-tfgnvf.pdf) | kw: gradual typing, gradual, typing
 - **2026-06-11** | [The ins and outs of gradual type inference](https://scholar.google.com/scholar_url?ei=DuYVaunjFrGN6rQPmJLm0Ac&hl=en&oi=scholarr&sa=X&scisig=AFyMTJVxo8xxQ4wNM845D6VdzOlr&url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fpdf%2F10.1145%2F2103621.2103714) | kw: type inference, gradual, inference
 - **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, gradual, typing
