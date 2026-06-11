@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Iterators & Closures: The Functional Powerhouse](https://yafi.hashnode.dev/iterators-closures-the-functional-powerhouse) | kw: monads, Haskell, Rust patterns
+- **2026-06-11** | [What are monads in functional programming and why are they useful?](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful) | kw: monads, Haskell, Rust patterns
+- **2026-06-11** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads, Haskell, Rust patterns
+- **2026-06-11** | [Monad-based Programming](https://www8.cs.fau.de/teaching/monad-based-programming) | kw: monads, Haskell, Rust patterns
+- **2026-06-11** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: monads, Haskell, Rust patterns
+
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional-programming
 - **2026-06-11** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
 - **2026-06-11** | [Monads and Programming | Good Math/Bad Math](http://www.goodmath.org/blog/2012/08/19/monads-and-programming) | kw: functional-programming

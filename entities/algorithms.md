@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [NeetCode | Coding Interview Prep](https://neetcode.io/) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-11** | [Data structures and algorithms study cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-11** | [How to prepare for DS&A interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-11** | [Top 100+ Data Structure Interview Questions (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-11** | [JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-11** | [The Unfair Way I Got Good At DS&A](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-11** | [Devinterview-io/data-structures-interview-questions](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-11** | [Top 30 Data Structures Problems for Technical Interview](https://www.reddit.com/r/programming/comments/62xwba/top_30_data_structures_problems_for_technical) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-11** | [Top 100 DSA Interview Questions - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: dynamic programming, DSA roadmap, coding interviews
+
 - **2026-06-11** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: algorithms
 - **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
 - **2026-06-11** | [GitHub - JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: algorithms

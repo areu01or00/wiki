@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Memory Management in Python - Honeybadger](https://www.honeybadger.io/blog/memory-management-in-python) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [Global Interpreter Lock (GIL) in Python – Everything You Need to Know](https://dev.to/imsushant12/global-interpreter-lock-gil-in-python-everything-you-need-to-know-for-interviews-5e4g) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [Python Memory Management Masterclass: Garbage Collection](https://logicandlegacy.blogspot.com/2026/03/python-memory-management-masterclass.html) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [Python Internals: Memory Management & the GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [Understanding the GIL in Python: A Deep Dive](https://medium.com/@nishthakukreti.01/understanding-the-global-interpreter-lock-gil-in-python-a-deep-dive-f3ab59089f93) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [Exploring Memory Manager Internals in Python](https://www.sparkcodehub.com/python/advanced/memory-manager-internals) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [CPython Memory Management Internals](https://blog.codingconfessions.com/p/cpython-memory-management-internals) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [The Evolution of Pythons Memory Management](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: GIL, free-threaded Python, CPython internals
+
 - **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
 - **2026-06-11** | [The Evolution of Python's Memory Management - LinkedIn](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: python-internals
 - **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals

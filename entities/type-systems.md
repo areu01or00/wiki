@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing, type inference, dependent types
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: gradual typing, type inference, dependent types
+- **2026-06-11** | [Gradual Liquid Type Inference - Niki Vazou](https://nikivazou.github.io/static/oopsla18main-p124-p.pdf) | kw: gradual typing, type inference, dependent types
+- **2026-06-11** | [Gradual typing with unification-based inference](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: gradual typing, type inference, dependent types
+- **2026-06-11** | [Horizon Summary: 2026-06-04](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: gradual typing, type inference, dependent types
+
 - **2026-06-11** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
 - **2026-06-11** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: type-systems
 - **2026-06-11** | [How to Evaluate the Performance of Gradual Type Systems - Jan Vitek](https://janvitek.org/pubs/jfp18.pdf) | kw: type-systems
