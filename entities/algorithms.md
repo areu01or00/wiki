@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-11** | [GitHub - Devinterview-io/searching-algorithms-interview-questions](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: algorithms, interview
+- **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms - YouTube](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: algorithms, structures
+- **2026-06-11** | [Data structures and algorithms study cheatsheets for ...](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms, structures, interview
+- **2026-06-11** | [I need a concise list of data structures and algorithms for LeetCode ...](https://www.reddit.com/r/leetcode/comments/179bg3w/i_need_a_concise_list_of_data_structures_and) | kw: leetcode, algorithms, structures
+- **2026-06-11** | [Reddit - The heart of the internet](https://www.reddit.com/r/programming/comments/62xwba/top_30_data_structures_problems_for_technical) | kw: structures
 - **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: interview
 - **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: interview
 - **2026-06-11** | [Top 100 Data Structures Interview Questions in 2026](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: structures, interview

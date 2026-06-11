@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-11** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, compilers
+- **2026-06-11** | [I want to understand what is JIT compilers and ...](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
+- **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: LLVM
+- **2026-06-11** | [Unlock the Power of LLVM JIT APIs with ORC: A Comprehensive Overview](https://www.toolify.ai/ai-news/unlock-the-power-of-llvm-jit-apis-with-orc-a-comprehensive-overview-691569) | kw: LLVM
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, compilers
 - **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM
 - **2026-06-11** | [Catalyst - PennyLane JIT compilation](http://docs.pennylane.ai/projects/catalyst/en/stable/index.html) | kw: JIT compilation, compilation

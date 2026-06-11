@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+
+- **2026-06-11** | [Emerging Backend Architectures for 2026: Microservices ...](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: architecture, microservices
+- **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions/) | kw: distributed systems, systems, distributed
+- **2026-06-11** | [36 Microservices Patterns & Anti-Patterns: The Definitive ...](https://appscale.blog/en/blog/microservices-patterns-anti-patterns-master-index-2026) | kw: patterns, microservices
+- **2026-06-11** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: design, patterns, architecture
+- **2026-06-11** | [Cloud Native Architecture in 2026: 8 Trends, Tools, and ...](https://www.decipherzone.com/blog-detail/cloud-native-architecture-trends) | kw: architecture
+- **2026-06-11** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: distributed systems, architecture, systems
 - **2026-06-11** | [800+ System Architecture Online Courses for 2026](https://www.classcentral.com/subject/system-architecture) | kw: architecture, system
 - **2026-06-11** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, patterns, architecture
 - **2026-06-11** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: distributed systems, architecture, systems

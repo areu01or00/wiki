@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Understanding Python's GIL and Enhancing Concurrency](https://dev.to/sreeni5018/understanding-pythons-gil-and-enhancing-concurrency-with-multithreading-multiprocessing-and-5g1e) | kw: GIL, python, gil
+- **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL) ...](https://dev.to/ohdylan/understanding-pythons-global-interpreter-lock-gil-mechanism-benefits-and-limitations-4aha) | kw: GIL, python, gil
+- **2026-06-11** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: GIL, python, gil
+- **2026-06-11** | [CPython-Internals/Interpreter/memory_management/memory_management.md](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: memory, python, internals
+- **2026-06-11** | [Understanding the Python GIL (for Beginners)](https://medium.com/%40walczak.coding/understanding-the-python-gil-for-beginners-10fe7b5123ae) | kw: GIL, python, gil
 - **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
 - **2026-06-11** | [Your guide to reducing Python memory usage](https://www.honeybadger.io/blog/reducing-your-python-apps-memory-footprint) | kw: memory, python
 - **2026-06-11** | [What Is Python Memory Management? | Coursera](https://www.coursera.org/articles/python-memory-management) | kw: memory management, memory, python

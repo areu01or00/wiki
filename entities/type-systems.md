@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-11** | [Type system concepts](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing, type, system
+- **2026-06-11** | [type inference for gradual Hindley-Milner typing](https://scholar.google.com/scholar_url?ei=DuYVaunjFrGN6rQPmJLm0Ac&hl=en&oi=scholarr&sa=X&scisig=AFyMTJVKxfmddXeWdoQakqCO-Wio&url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fpdf%2F10.1145%2F3290331) | kw: type inference, gradual, typing
+- **2026-06-11** | [Gradual Typing](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [The ins and outs of gradual type inference](https://dl.acm.org/doi/10.1145/2103656.2103714) | kw: type inference, gradual, inference
 - **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, gradual, typing
 - **2026-06-11** | [An Argument against Gradual Type Systems in Programming](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=2345&context=etd) | kw: gradual, systems, type
 - **2026-06-11** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: gradual typing, gradual, typing
