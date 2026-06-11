@@ -1,0 +1,182 @@
+{
+  "system-design": [
+    {
+      "title": "System Design Patterns: The Complete Guide 2026",
+      "url": "https://www.systemdesignhandbook.com/guides/system-design-patterns/",
+      "description": "System Design Patterns: Practical Architectures ... Distributed systems fundamentals. Real-world case studies.",
+      "hash": "694eafe5ed78cb746d62ba47e0492d7d"
+    },
+    {
+      "title": "The Complete Guide to System Design in 2026 - DEV Community",
+      "url": "https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7",
+      "description": "... distributed systems and the companion guide on design patterns that keep them sane.",
+      "hash": "a4f767c8d886ec8f2fab1999efc97283"
+    },
+    {
+      "title": "50 System Design Patterns Every Engineer Should Know in 90 ...",
+      "url": "https://designgurus.substack.com/p/50-system-design-patterns-every-engineer",
+      "description": "Daily deep dives into system design & modern architecture covering distributed systems, databases, caching, sharding, message queues",
+      "hash": "e386d25ff1816abec2a4433c860ed876"
+    },
+    {
+      "title": "A Guide to Large-Scale Distributed Systems (2026)",
+      "url": "https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/",
+      "description": "Learn how large-scale distributed systems work, why they matter in System Design interviews",
+      "hash": "5e40d84c27922d7191778e20c118b6e9"
+    },
+    {
+      "title": "12 Essential Distributed System Design Patterns Every Architect ...",
+      "url": "https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know",
+      "description": "Use cases: Microservices architectures where multiple services need to be exposed through a unified interface",
+      "hash": "fde2e620a9be8833a9c15bcafc435062"
+    }
+  ],
+  "compilers": [
+    {
+      "title": "The LLVM Compiler Infrastructure Project",
+      "url": "https://llvm.org/OpenProjects.html",
+      "description": "Welcome prospective Google Summer of Code 2026 Students!",
+      "hash": "ac224ecee6fc1b4cc9ba1f13c5b1a941"
+    },
+    {
+      "title": "LLVM Compiler Infrastructure - Google Summer of Code",
+      "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure",
+      "description": "JIT compiles of embedded languages like Lua to compiling Fortran code",
+      "hash": "7d0b717005814217330e578b0fbdc8fb"
+    },
+    {
+      "title": "The LLVM Compiler Infrastructure Project",
+      "url": "https://llvm.org/",
+      "description": "2 June 2026: LLVM 22.1.7 is now available for download!",
+      "hash": "f1925c0af6e39aa520ffa6a282ede525"
+    },
+    {
+      "title": "jank is off to a great start in 2026 - jank programming language",
+      "url": "https://jank-lang.org/blog/2026-03-06-great-start/",
+      "description": "JIT compilation. I've not only optimized our approach, but I've also specifically crafted our codegen to avoid these slower parts of LLVM.",
+      "hash": "3c9718118369d7e2403bff65ca60bf76"
+    }
+  ],
+  "type-systems": [
+    {
+      "title": "Type system - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Type_system",
+      "description": "Contents: Dependent types, Linear types, Intersection types, Union types, Existential types, Gradual typing.",
+      "hash": "0e40ec20e1a733a8136667ee5938762f"
+    },
+    {
+      "title": "Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...",
+      "url": "https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/",
+      "description": "With the rise of sophisticated type inference and the concept of gradual typing, the binary choice between safety and freedom is becoming a spectrum.",
+      "hash": "fc735fa9ff4c8d2d83888648a67a3892"
+    },
+    {
+      "title": "Extending Dylan's type system for better type inference and error...",
+      "url": "https://pure.itu.dk/en/publications/extending-dylans-type-system-for-better-type-inference-and-error-/",
+      "description": "We implemented the type system and unification-based type inference algorithm in the mainstream Dylan compiler.",
+      "hash": "727b38d392528049d7723ef0b5407548"
+    },
+    {
+      "title": "Type-Directed Operational Semantics for Gradual Typing",
+      "url": "https://yewenjia.github.io/papers/ECOOP2021.pdf",
+      "description": "Gradual typing extends the type system of static languages by allowing terms to have a dynamic type.",
+      "hash": "f63a3cd2e3549143a6a4af3e983c65b4"
+    }
+  ],
+  "functional-programming": [
+    {
+      "title": "FP lang for 2026 : r/functionalprogramming - Reddit",
+      "url": "https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/",
+      "description": "monads, which feels like the future of functional programming",
+      "hash": "0a825892b16894ee5479d8cdc9ceb413"
+    },
+    {
+      "title": "Hello, Haskell: Getting Started in 2026 - lukastymo",
+      "url": "https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/",
+      "description": "In the current AI era, Rust and Haskell...",
+      "hash": "14cd387e800b8b80b658ad56297837b3"
+    },
+    {
+      "title": "Co-Creator of Haskell: Functional Programming, Thinking in Types ...",
+      "url": "https://www.developing.dev/p/co-creator-of-haskell-functional",
+      "description": "Haskell's gained sort of monads. OCaml's gained lots of",
+      "hash": "f754971725118e81c5661d4781fdbbfd"
+    },
+    {
+      "title": "Functional Programmers need to take a look at Zig - Lobsters",
+      "url": "https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at",
+      "description": "type-level hackery of the Haskell / Rust variety",
+      "hash": "8c0ea0d18b37f3c9d2facb56f6b40861"
+    },
+    {
+      "title": "Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv",
+      "url": "https://arxiv.org/abs/2604.15290",
+      "description": "Haskell, a purely functional language... Rust-Style Borrowing",
+      "hash": "be9da9017ce6e02348e052f2e7dda252"
+    }
+  ],
+  "algorithms": [
+    {
+      "title": "70 Leetcode problems in 5+ hours (every data structure)... - YouTube",
+      "url": "https://www.youtube.com/watch?v=lvO88XxNAzs",
+      "description": "In this video we go through the solution and problem solving logic",
+      "hash": "4f0510f7ee64c399af68eb6e19a111c1"
+    },
+    {
+      "title": "algorithms-datastructures \u00b7 GitHub Topics \u00b7 GitHub",
+      "url": "https://github.com/topics/algorithms-datastructures",
+      "description": "Algorithms and Data Structures implemented in the Lua programming language",
+      "hash": "b005463dec7c885ce4b60810c609473d"
+    },
+    {
+      "title": "Top 50 Microsoft Array LeetCode Questions (2026) \u2013 Interview Prep",
+      "url": "https://www.hackmnc.com/blogs/microsoft-array-leetcode-questions",
+      "description": "Practicing these problems will help you strengthen your array and data structure skills",
+      "hash": "40637d1bbbc73e2a77b45841d71bc1fa"
+    },
+    {
+      "title": "Golang: Interview Bootcamp on HackerRank, LeetCode Algos",
+      "url": "https://www.udemy.com/course/golang-interview-bootcamp-on-datastructures-leetcode-algos/",
+      "description": "Visual walkthrough of the Data structure and Algorithm",
+      "hash": "2dfc3513c29255105b4629ef7943c549"
+    },
+    {
+      "title": "Top 30 Most Common Coupang LeetCode Interview Questions You...",
+      "url": "https://www.vervecopilot.com/hot-blogs/coupang-leetcode-interview-questions",
+      "description": "LeetCode problems commonly found on the LeetCode platform",
+      "hash": "fc68823fcfced9a848d7baf8cce988f7"
+    }
+  ],
+  "python-internals": [
+    {
+      "title": "Python in 2026: Free-Threading and UV Change Everything - Medium",
+      "url": "https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa",
+      "description": "Python 3.14 lets us turn off the GIL",
+      "hash": "17f40f751da9a1c9558ca7dbf958ae7e"
+    },
+    {
+      "title": "How Python's GIL actually works (and when it bites you)",
+      "url": "https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2",
+      "description": "memory management lead to crashes and corrupted data",
+      "hash": "a1233cdbbbaf5c3624b23b99f9297143"
+    },
+    {
+      "title": "What's new in Python 3.14 \u2014 Python 3.14.6 documentation",
+      "url": "https://docs.python.org/3/whatsnew/3.14.html",
+      "description": "each interpreter uses more memory than necessary",
+      "hash": "b2fbe6454e7c9d604f2d7586a436e138"
+    },
+    {
+      "title": "How Big is the GIL Update? : r/Python - Reddit",
+      "url": "https://www.reddit.com/r/Python/comments/1oqn305/how_big_is_the_gil_update/",
+      "description": "memory managament and internals of python",
+      "hash": "71dbd642c4782f85b7bbc962d5d40eca"
+    },
+    {
+      "title": "The Secret Life of Python: Understanding the GIL | by Aaron Rose",
+      "url": "https://medium.com/@aaron.rose.tx/the-secret-life-of-python-understanding-the-gil-2efacc6e008d",
+      "description": "Because of the way Python handles memory",
+      "hash": "2210c833525fa57f69955b25ee351353"
+    }
+  ]
+}

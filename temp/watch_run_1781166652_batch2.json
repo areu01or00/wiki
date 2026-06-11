@@ -1,0 +1,27 @@
+{
+  "batch": 2,
+  "timestamp": 1781166652,
+  "results": {
+    "functional-programming": [
+      {"title": "FP lang for 2026 : r/functionalprogramming - Reddit", "url": "https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/", "description": "monads, which feels like the future of functional programming"},
+      {"title": "Hello, Haskell: Getting Started in 2026 - lukastymo", "url": "https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/", "description": "In the current AI era, Rust and Haskell..."},
+      {"title": "Co-Creator of Haskell: Functional Programming, Thinking in Types ...", "url": "https://www.developing.dev/p/co-creator-of-haskell-functional", "description": "Haskell's gained sort of monads. OCaml's gained lots of"},
+      {"title": "Functional Programmers need to take a look at Zig - Lobsters", "url": "https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at", "description": "type-level hackery of the Haskell / Rust variety"},
+      {"title": "Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv", "url": "https://arxiv.org/abs/2604.15290", "description": "Haskell, a purely functional language... Rust-Style Borrowing"}
+    ],
+    "algorithms": [
+      {"title": "70 Leetcode problems in 5+ hours (every data structure)... - YouTube", "url": "https://www.youtube.com/watch?v=lvO88XxNAzs", "description": "In this video we go through the solution and problem solving logic"},
+      {"title": "algorithms-datastructures · GitHub Topics · GitHub", "url": "https://github.com/topics/algorithms-datastructures", "description": "Algorithms and Data Structures implemented in the Lua programming language"},
+      {"title": "Top 50 Microsoft Array LeetCode Questions (2026) – Interview Prep", "url": "https://www.hackmnc.com/blogs/microsoft-array-leetcode-questions", "description": "Practicing these problems will help you strengthen your array and data structure skills"},
+      {"title": "Golang: Interview Bootcamp on HackerRank, LeetCode Algos", "url": "https://www.udemy.com/course/golang-interview-bootcamp-on-datastructures-leetcode-algos/", "description": "Visual walkthrough of the Data structure and Algorithm"},
+      {"title": "Top 30 Most Common Coupang LeetCode Interview Questions You...", "url": "https://www.vervecopilot.com/hot-blogs/coupang-leetcode-interview-questions", "description": "LeetCode problems commonly found on the LeetCode platform"}
+    ],
+    "python-internals": [
+      {"title": "Python in 2026: Free-Threading and UV Change Everything - Medium", "url": "https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa", "description": "Python 3.14 lets us turn off the GIL"},
+      {"title": "How Python's GIL actually works (and when it bites you)", "url": "https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2", "description": "memory management lead to crashes and corrupted data"},
+      {"title": "What's new in Python 3.14 — Python 3.14.6 documentation", "url": "https://docs.python.org/3/whatsnew/3.14.html", "description": "each interpreter uses more memory than necessary"},
+      {"title": "How Big is the GIL Update? : r/Python - Reddit", "url": "https://www.reddit.com/r/Python/comments/1oqn305/how_big_is_the_gil_update/", "description": "memory managament and internals of python"},
+      {"title": "The Secret Life of Python: Understanding the GIL | by Aaron Rose", "url": "https://medium.com/@aaron.rose.tx/the-secret-life-of-python-understanding-the-gil-2efacc6e008d", "description": "Because of the way Python handles memory"}
+    ]
+  }
+}

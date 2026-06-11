@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [70 Leetcode problems in 5+ hours (every data structure)... - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: algorithms
+- **2026-06-11** | [algorithms-datastructures · GitHub Topics · GitHub](https://github.com/topics/algorithms-datastructures) | kw: algorithms
+- **2026-06-11** | [Top 50 Microsoft Array LeetCode Questions (2026) – Interview Prep](https://www.hackmnc.com/blogs/microsoft-array-leetcode-questions) | kw: algorithms
+- **2026-06-11** | [Golang: Interview Bootcamp on HackerRank, LeetCode Algos](https://www.udemy.com/course/golang-interview-bootcamp-on-datastructures-leetcode-algos/) | kw: algorithms
+- **2026-06-11** | [Top 30 Most Common Coupang LeetCode Interview Questions You...](https://www.vervecopilot.com/hot-blogs/coupang-leetcode-interview-questions) | kw: algorithms
+
 - **2026-06-11** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: are, big, tech
 - **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: how, to, prepare
 - **2026-06-11** | [I Tried 20+ Python DSA Courses with LeetCode Exercises](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: i, tried, 20+

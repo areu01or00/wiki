@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
+- **2026-06-11** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python-internals
+- **2026-06-11** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: python-internals
+- **2026-06-11** | [How Big is the GIL Update? : r/Python - Reddit](https://www.reddit.com/r/Python/comments/1oqn305/how_big_is_the_gil_update/) | kw: python-internals
+- **2026-06-11** | [The Secret Life of Python: Understanding the GIL | by Aaron Rose](https://medium.com/@aaron.rose.tx/the-secret-life-of-python-understanding-the-gil-2efacc6e008d) | kw: python-internals
+
 - **2026-06-11** | [Python 3.14.2 Release and the Rise of Free-Threaded CPython](https://blog.cubed.run/python-3-14-2-release-and-the-rise-of-free-threaded-cpython-what-developers-must-know-in-2026-61102e66e2e5) | kw: python, 3.14.2, release
 - **2026-06-11** | [Python support for free threading - Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: python, support, for
 - **2026-06-11** | [Python Free-Threading Guide](https://py-free-threading.github.io/) | kw: python, free-threading, guide

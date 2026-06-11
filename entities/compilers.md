@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: compilers
+- **2026-06-11** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compilers
+- **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+- **2026-06-11** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: compilers
+
 - **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: just-in-time, compilation, -
 - **2026-06-11** | [The LLVM Compiler Infrastructure Project - Open Projects](https://llvm.org/OpenProjects.html) | kw: the, llvm, compiler
 - **2026-06-11** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: orcjit, at, scale

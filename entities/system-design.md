@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system-design
+- **2026-06-11** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
+- **2026-06-11** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system-design
+- **2026-06-11** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: system-design
+- **2026-06-11** | [12 Essential Distributed System Design Patterns Every Architect ...](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: system-design
+
 - **2026-06-11** | [Top 7 Most-Used Distributed System Patterns](https://www.youtube.com/watch?v=nH4qjmP2KEE) | kw: top, 7, most-used
 - **2026-06-11** | [Distributed Systems Architecture Patterns for Edge Computing in 2026](https://tianpan.co/forum/t/distributed-systems-architecture-patterns-for-edge-computing-in-2026/1225) | kw: distributed, systems, architecture
 - **2026-06-11** | [Building Distributed Systems Architecture: From Single Server Dreams to Multi-Node Reality](https://hemaks.org/posts/building-distributed-systems-architecture-from-single-server-dreams-to-multi-node-reality/) | kw: building, distributed, systems

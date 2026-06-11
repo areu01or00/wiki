@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type-systems
+- **2026-06-11** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
+- **2026-06-11** | [Extending Dylan's type system for better type inference and error...](https://pure.itu.dk/en/publications/extending-dylans-type-system-for-better-type-inference-and-error-/) | kw: type-systems
+- **2026-06-11** | [Type-Directed Operational Semantics for Gradual Typing](https://yewenjia.github.io/papers/ECOOP2021.pdf) | kw: type-systems
+
 - **2026-06-11** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: luau, (programming, language)
 - **2026-06-11** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type, inference, of
 - **2026-06-11** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: static, vs., dynamic
