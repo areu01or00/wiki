@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
+- **2026-06-11** | [A Strategic Guide to Gradual Typing in Python | by Tihomir Manushev | Dec, 2025 | Medium](https://medium.com/%40tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: type-systems
+- **2026-06-11** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: type-systems
+
 
 - **2026-06-11** | [Type system concepts](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing, type, system
 - **2026-06-11** | [type inference for gradual Hindley-Milner typing](https://scholar.google.com/scholar_url?ei=DuYVaunjFrGN6rQPmJLm0Ac&hl=en&oi=scholarr&sa=X&scisig=AFyMTJVKxfmddXeWdoQakqCO-Wio&url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fpdf%2F10.1145%2F3290331) | kw: type inference, gradual, typing

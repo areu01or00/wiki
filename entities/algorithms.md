@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
+- **2026-06-11** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified | by Katravalli Coding | Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
+
 
 - **2026-06-11** | [GitHub - Devinterview-io/searching-algorithms-interview-questions](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: algorithms, interview
 - **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms - YouTube](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: algorithms, structures

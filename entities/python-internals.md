@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
+- **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter)](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals
+
 
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
 - **2026-06-11** | [Understanding Python's GIL and Enhancing Concurrency](https://dev.to/sreeni5018/understanding-pythons-gil-and-enhancing-concurrency-with-multithreading-multiprocessing-and-5g1e) | kw: GIL, python, gil

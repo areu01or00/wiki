@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design
+- **2026-06-11** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
+- **2026-06-11** | [Software Architecture: Distributed Systems | by Santiago | Apr, 2026 | Medium](https://medium.com/%40barbieri.santiago/software-architecture-distributed-systems-78c87222e4ed) | kw: system-design
+- **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: system-design
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: system-design
+- **2026-06-11** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-11** | [The Future of Large-Scale Distributed Systems: Trends, Challenges, and Opportunities](https://www.researchgate.net/publication/390714723_The_Future_of_Large-Scale_Distributed_Systems_Trends_Challenges_and_Opportunities) | kw: system-design
+- **2026-06-11** | [Design patterns in distributed system](https://www.slideshare.net/slideshow/design-patterns-in-distributed-system/66719846) | kw: system-design
+
 
 - **2026-06-11** | [Emerging Backend Architectures for 2026: Microservices ...](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: architecture, microservices
 - **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions/) | kw: distributed systems, systems, distributed

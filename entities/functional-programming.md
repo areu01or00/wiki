@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Functional Programming: Monad Implementation and Category Theory](https://johal.in/functional-programming-monad-implementation-and-category-theory-2026-3/) | kw: functional-programming
+- **2026-06-11** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
+- **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
+
 
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional, programming, rust
 - **2026-06-11** | [Understanding Monads | CodeSignal Learn](https://codesignal.com/learn/courses/advanced-functional-programming-techniques/lessons/understanding-monads) | kw: monads, functional, programming

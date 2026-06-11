@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+
 
 - **2026-06-11** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, compilers
 - **2026-06-11** | [I want to understand what is JIT compilers and ...](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
