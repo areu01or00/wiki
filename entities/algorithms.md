@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Top Classic Data Structures Problems - Codeforces](https://codeforces.com/blog/entry/79755) | kw: data structures, classic problems, competitive programming
+- **2026-06-11** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: DSA, interview questions, LeetCode
+
 - **2026-06-11** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: leetcode, interview, LeetCode
 - **2026-06-11** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: leetcode, LeetCode
 - **2026-06-11** | [Top Classic Data Structures Problems](https://codeforces.com/blog/entry/79755) | kw: structures

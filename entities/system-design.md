@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, roadmap
+- **2026-06-11** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, architecture, scalability
+- **2026-06-11** | [The Future of Distributed Systems: Trends and Predictions](https://www.linkedin.com/pulse/future-distributed-systems-trends-predictions-kabir-khalil-7mjqe) | kw: distributed systems, future, trends
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: distributed systems, patterns, backend
+- **2026-06-11** | [SRDS 2026 - 45th International Symposium on Reliable Distributed Systems](https://srds-conference.org/) | kw: distributed systems, conference, reliability
+
 - **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: distributed systems, patterns, systems
 - **2026-06-11** | [Making software scale better with modern design patterns](https://upsun.com/blog/software-design-patterns) | kw: design, patterns
 - **2026-06-11** | [Software Architecture: Distributed Systems](https://medium.com/@barbieri.santiago/software-architecture-distributed-systems-78c87222e4ed) | kw: distributed systems, architecture, systems

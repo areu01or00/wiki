@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Elixir 1.20 adds type inference, boosts compilation speed, and debuts new compiler options](https://alternativeto.net/news/2026/6/elixir-1-20-adds-type-inference-boosts-compilation-speed-and-debuts-new-compiler-options/) | kw: Elixir 1.20, type inference, gradual typing
+- **2026-06-11** | [[PDF] How to Evaluate the Performance of Gradual Type Systems - Jan Vitek](https://janvitek.org/pubs/jfp18.pdf) | kw: gradual typing, performance, evaluation
+
 - **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual T](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient, selection, type
 - **2026-06-11** | [Elixir 1.20 adds type inference, boosts compilation speed](https://alternativeto.net/news/2026/6/elixir-1-20-adds-type-inference-boosts-compilation-speed-and-debuts-new-compiler-options/) | kw: elixir, 1.20, adds
 - **2026-06-11** | [Type system concepts - Python typing specification](https://typing.python.org/en/latest/spec/concepts.html) | kw: type, system, concepts
