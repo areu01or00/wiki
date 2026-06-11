@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [What Is Python Memory Management? | Coursera](https://www.coursera.org/articles/python-memory-management) | kw: GIL, memory management, memory
+- **2026-06-11** | [CPython-Internals memory management - GitHub](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: memory management, memory, python
+- **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python, internals, optimization
+- **2026-06-11** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: GIL, memory management, memory
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL, python, internals
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
+
 - **2026-06-11** | [The GIL Is Still Here — Why That Matters in 2026 - Medium](https://medium.com/@backendbyeli/the-gil-is-still-here-why-that-matters-in-2026-88ac86812ec4) | kw: new
 - **2026-06-11** | [How Python's Memory Management Works Medium](https://medium.com/%40AlexanderObregon/how-pythons-memory-management-works-f832405ea3a3) | kw: new
 

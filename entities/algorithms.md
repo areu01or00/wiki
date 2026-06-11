@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Top 100 Data Structures Interview Questions in 2026 - Devinterview](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: structures, interview, data structures
+- **2026-06-11** | [Leetcode-Data-Structures-Algorithms - GitHub](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: leetcode, algorithms, structures
+- **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: interview, interview questions
+- **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms, structures, interview
+- **2026-06-11** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: interview
+- **2026-06-11** | [Top 100 DSA Interview Questions - LeetCode Discuss](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: leetcode, interview, LeetCode
+- **2026-06-11** | [Top Classic Data Structures Problems Codeforces](https://codeforces.com/blog/entry/79755) | kw: structures, data structures
+- **2026-06-11** | [Data Structures & Algorithms in Java - Kunal Kushwaha](https://www.techwithkunal.com/courses/dsa) | kw: leetcode, algorithms, structures
+
 - **2026-06-11** | [Top Coding Interview Courses Online - Updated [June 2026] Udemy](https://www.udemy.com/topic/coding-interview) | kw: new
 
 - **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: DSA, LeetCode, interview prep

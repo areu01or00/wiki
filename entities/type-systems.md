@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Position Paper: Performance Evaluation for Gradual Typing](http://www.ccs.neu.edu/home/asumu/papers/stop15-tfgnvf.pdf) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [The ins and outs of gradual type inference](https://scholar.google.com/scholar_url?ei=DuYVaunjFrGN6rQPmJLm0Ac&hl=en&oi=scholarr&sa=X&scisig=AFyMTJVxo8xxQ4wNM845D6VdzOlr&url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fpdf%2F10.1145%2F2103621.2103714) | kw: type inference, gradual, inference
+- **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Scholarly articles for gradual type inference research papers](https://scholar.google.com/scholar?as_sdt=0&as_vis=1&hl=en&oi=scholart&q=gradual+type+inference+research+papers) | kw: type inference, gradual, inference
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance - arXiv](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: type inference, inference, type
+- **2026-06-11** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing, gradual, typing
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing, gradual, typing
+
 - **2026-06-11** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing, type inference
 - **2026-06-11** | [[PDF] How to Evaluate the Performance of Gradual Type Systems - Jan Vitek](https://janvitek.org/pubs/jfp18.pdf) | kw: gradual typing, type inference
 - **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, type inference

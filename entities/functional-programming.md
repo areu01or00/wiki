@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, functional, programming
+- **2026-06-11** | [What is MONAD? - Reddit](https://www.reddit.com/r/functionalprogramming/comments/13cnx5e/what_is_monad) | kw: monads
+- **2026-06-11** | [The Practical Value of Functional Programming — Monad Guide](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads, functional, programming
+- **2026-06-11** | [Practical uses of monads in Haskell - Reddit](https://www.reddit.com/r/programming/comments/1ts1x2l/practical_uses_of_monads_in_haskell) | kw: monads, Haskell, haskell
+- **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: monads, functional, programming
+- **2026-06-11** | [A gentle introduction to monads - Kristof Slechten](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: monads, tutorial
+- **2026-06-11** | [What the Heck Are Monads?! - YouTube](https://www.youtube.com/watch?v=Q0aVbqim5pE) | kw: monads, functional, programming
+- **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads, Haskell, rust
+
 - **2026-06-11** | [Posts - The Monad Cat](http://monad.cat/pages/posts.html) | kw: new
 - **2026-06-11** | [RustRover at RustWeek 2026 | The RustRover Blog](https://blog.jetbrains.com/rust/2026/06/03/rustrover-at-rustweek-2026/) | kw: new
 - **2026-06-11** | [Rust Roadmap 2026: Monthly Updates, Creative Tools & What ...](https://supercraft.host/article/rust-roadmap-2026/) | kw: new

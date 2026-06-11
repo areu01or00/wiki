@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Building a JIT: Starting out with KaleidoscopeJIT - compiler-course-2026 (chekalexey)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, optimization, compilation
+- **2026-06-11** | [I want to understand what is JIT compilers - Reddit](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
+- **2026-06-11** | [Building a JIT: Starting out with KaleidoscopeJIT - compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, compilation
+- **2026-06-11** | [Sanjoy Das - NVIDIA](http://sanjoy.link/) | kw: compilers
+- **2026-06-11** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: LLVM
+
 - **2026-06-11** | [Building a JIT: Starting out with KaleidoscopeJIT](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM, GPU codegen
 - **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT ...)](https://forum.nim-lang.org/t/9794) | kw: JIT compilation, LLVM, GPU codegen
 
