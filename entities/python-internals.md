@@ -1,6 +1,21 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python Multithreading vs. Multiprocessing: A Performance Guide](https://widewiki.com/posts/python/geek-pie/python-multithreading-vs-multiprocessing-a-performance-guide-20250716012746) | kw: python-internals
+- **2026-06-11** | [Your guide to reducing Python memory usage](https://www.honeybadger.io/blog/reducing-your-python-apps-memory-footprint) | kw: python-internals
+- **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
+- **2026-06-11** | [CPython Memory Management Internals](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: python-internals
+- **2026-06-11** | [Python 3.14 Free-Threading and Experimental JIT: How Python GIL Removal Works](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: python-internals
+- **2026-06-11** | [What is the GIL in Python and Why Should You Care?](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | kw: python-internals
+- **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL)](https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b) | kw: python-internals
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
+- **2026-06-11** | [Global Interpreter Lock (GIL) in Python - Everything for Interviews](https://dev.to/imsushant12/global-interpreter-lock-gil-in-python-everything-you-need-to-know-for-interviews-5e4g) | kw: python-internals
+- **2026-06-11** | [CPython-Internals memory_management.md](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: python-internals
+- **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
+- **2026-06-11** | [What Is Python Memory Management? Coursera](https://www.coursera.org/articles/python-memory-management) | kw: python-internals
+
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, free-threaded Python, CPython internals, memory management, memory
 - **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL, free-threaded Python, CPython internals, memory management, memory
 - **2026-06-11** | [Why Python Multiprocessing Can Be Slower Than Single-Threaded ...](https://www.w3tutorials.net/blog/python-using-multiprocess-is-slower-than-not-using-it) | kw: GIL, free-threaded Python, CPython internals, memory management, memory

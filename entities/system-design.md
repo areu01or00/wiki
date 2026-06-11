@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
+- **2026-06-11** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems](https://www.reddit.com/r/JavaProgramming/comments/1tkmv0v/9_essential_software_architecture_patterns_for) | kw: system-design
+- **2026-06-11** | [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html) | kw: system-design
+- **2026-06-11** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system-design
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: system-design
+- **2026-06-11** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
+- **2026-06-11** | [Microservices Design Patterns for Cloud Architecture - IEEE Chicago](https://ieeechicago.org/microservices-design-patterns-for-cloud-architecture) | kw: system-design
+- **2026-06-11** | [Distributed System Design Patterns: A Practitioners Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: system-design
+- **2026-06-11** | [System Design 101-Everything to know about Distributed Systems](https://dev.to/mukulalpha/system-design-101-everything-to-know-about-distributed-systems-2hd6) | kw: system-design
+
 - **2026-06-11** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: load balancing, caching patterns, distributed systems, scalability, design
 - **2026-06-11** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: load balancing, caching patterns, distributed systems, scalability, design
 - **2026-06-11** | [Beyond the Monolith: A 2026 Strategy for Engineering Distributed Systems](https://medium.com/@snehal_singh/beyond-the-monolith-a-2026-strategy-for-engineering-distributed-systems-bba0d1ef10f3) | kw: load balancing, caching patterns, distributed systems, scalability, design

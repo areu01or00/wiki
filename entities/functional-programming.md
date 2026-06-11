@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
+- **2026-06-11** | [The Practical Value of Functional Programming](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+- **2026-06-11** | [monadic - Rust](https://docs.rs/monadic) | kw: functional-programming
+- **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
+- **2026-06-11** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+
 - **2026-06-11** | [What the Heck Are Monads?! - YouTube](https://www.youtube.com/watch?v=Q0aVbqim5pE) | kw: monads, Haskell, Rust patterns, functional idioms, functional
 - **2026-06-11** | [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: monads, Haskell, Rust patterns, functional idioms, functional
 - **2026-06-11** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: monads, Haskell, Rust patterns, functional idioms, functional

@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
+- **2026-06-11** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
+- **2026-06-11** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: type-systems
+- **2026-06-11** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-11** | [How to Evaluate the Performance of Gradual Type Systems](https://janvitek.org/pubs/jfp18.pdf) | kw: type-systems
+- **2026-06-11** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
+- **2026-06-11** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: type-systems
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: type-systems
+
 - **2026-06-11** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing, type inference, dependent types, gradual, typing
 - **2026-06-11** | [Scholarly articles for gradual type inference research papers](https://scholar.google.com/scholar?as_sdt=0&as_vis=1&hl=en&oi=scholart&q=gradual+type+inference+research+papers) | kw: gradual typing, type inference, dependent types, gradual, typing
 - **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/@tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: gradual typing, type inference, dependent types, gradual, typing

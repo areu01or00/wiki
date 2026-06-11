@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-06-11** | [Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0](https://arxiv.org/abs/2407.13712) | kw: compilers
+- **2026-06-11** | [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault) | kw: compilers
+- **2026-06-11** | [Just-In-Time JIT Compiler with LLVM - Create Your Own Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
+- **2026-06-11** | [Numba NJit Python: LLVM No-Python Mode 2026](https://johal.in/numba-njit-python-llvm-no-python-mode-2026/) | kw: compilers
+- **2026-06-11** | [The state of GPU codegen with Nim LLVM JIT](https://forum.nim-lang.org/t/9794) | kw: compilers
+
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT compilation, LLVM, bytecode, optimization, compilers
 - **2026-06-11** | [Mastering Code Generation: Exploring the LLVM Backend](https://www.packtpub.com/en-us/learning/how-to-tutorials/mastering-code-generation-exploring-the-llvm-backend) | kw: JIT compilation, LLVM, bytecode, optimization, compilers
 - **2026-06-11** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: JIT compilation, LLVM, bytecode, optimization, compilers
