@@ -131,7 +131,6 @@
         "query": "Python GIL bytecode interpreter memory management internals 2026",
         "wiki_page": "entities/python-internals.md",
         "last_result_hashes": [
-          "9c15584c0b3c674e4773a56b267bc71b",
           "3977a42e266cba0d9724f6994662a434",
           "57ad949b13054a49134274f7b5cbab95",
           "2fbba50cea07c75945dd0f2ecbac5fe1",
@@ -150,24 +149,15 @@
           "3f53aaddb3c9ccc1340c0fbf20196bee",
           "5c800256fa4fa85266bb22dda2284b33",
           "db1be0cfcc98844b9e2cb2e406277fd8",
-          "d40943cf2afc06018ce127ebce1db4e4"
+          "d40943cf2afc06018ce127ebce1db4e4",
+          "d312cb77ade078c8f1e9dac2e24a756b"
         ],
-        "last_run": "2026-06-11T07:34:22.676801+00:00"
+        "last_run": "2026-06-11T07:47:52.600967+00:00"
       },
       "algorithms": {
         "query": "algorithms data structures optimization techniques LeetCode 2026",
         "wiki_page": "entities/algorithms.md",
         "last_result_hashes": [
-          "d6d0db7d77347051e0d35038c098f482",
-          "12bb19b6e0bce24d90fb5d0310ab3294",
-          "45db61f37d75ea587749c92b736e2941",
-          "e4821dd1372f8b2dc5ef02a8dd25fb1a",
-          "a0fcd0ac3abc0b497ec1978b677272a9",
-          "11a1b8d4055607620cf51eadd1664e5f",
-          "291cc254b0e1a4fe4502d2ca05fca357",
-          "2366f5d357dd6eaa0053a63071f60f18",
-          "9aec344cb877e63138dd331eede9d5f7",
-          "0029eb9ee9b36ad0a90edaf6b5601138",
           "46ff4b0cb4ba6221a0cb482cf96158a1",
           "8b872e9c4137efc4de77b9e0bf4a2ba1",
           "b374c779c101dd010d1f2ed0450afdee",
@@ -177,18 +167,24 @@
           "5f0d62ae9ef789f81beac41647259a2b",
           "bd9a24755a1e89ce0654d72b557083e9",
           "6c3d81779c383c345f0551939f479e8f",
-          "a857c814273e0c7625339c1a17718eac"
+          "a857c814273e0c7625339c1a17718eac",
+          "f45dc403e860dd7130e7125905fea283",
+          "d186e040e5d2b0265df82adc22e401b3",
+          "c02c50ea344b8035b5ce667030bbe122",
+          "35f3793cac8b78d908e7f2d7bb34859d",
+          "030938db63a0787b296b8ebe5611c7a1",
+          "9a29ca29926837eed57c890160a28b56",
+          "a1b8c7f397279e2ecba74fce23c2e3ce",
+          "6bb5f45745653c7264d8c29607bac581",
+          "bfe9bd3b9720076e01722cde4d9f0bc1",
+          "a9a978485385ce0ca1092c0e5d26bf14"
         ],
-        "last_run": "2026-06-11T07:34:22.676801+00:00"
+        "last_run": "2026-06-11T07:47:52.600967+00:00"
       },
       "functional-programming": {
         "query": "functional programming patterns Haskell Rust idioms monads 2026",
         "wiki_page": "entities/functional-programming.md",
         "last_result_hashes": [
-          "014b2d3ec382a73ffa462df418c38689",
-          "63ab581f0de81f423884509424a91806",
-          "c233ce094f809bd93c2f4474229feed5",
-          "7bc1a26721bf283ca8e6ddeb249403b7",
           "d250aefb29a35210e53228bb1d5cf418",
           "94ac00de77bbbb4714f799cb6f2689f1",
           "343ca1ab962bde0dccd16795322feeec",
@@ -204,23 +200,18 @@
           "8ea7bb993861b6f9ba770725c408a37c",
           "d833da32acaa360ef7d45e8af98e7dff",
           "98e526be52c4f26f6ab112fd904d69d2",
-          "9d5836ba5ec7140a6bc9740045cb686d"
+          "9d5836ba5ec7140a6bc9740045cb686d",
+          "41e62baff4e07be0ab1c4b7518f20158",
+          "28a307af9e2bdf7a78826d0e03ebcd06",
+          "bddbc05658546c41dac2eb2ca0e79dca",
+          "e8762fba53348da0138f9e56844e7c60"
         ],
-        "last_run": "2026-06-11T07:34:22.676801+00:00"
+        "last_run": "2026-06-11T07:47:52.600967+00:00"
       },
       "type-systems": {
         "query": "type systems programming languages type inference gradual typing 2026",
         "wiki_page": "entities/type-systems.md",
         "last_result_hashes": [
-          "227626309a1bac5cbc7f3caa1126ee77",
-          "e071afbdf78e7a5e32a1a11094ffbe49",
-          "81c0a5f88b0bd470a373da57a62af249",
-          "8bf423dcd10dbb8d7cd75651cf25cd3b",
-          "702d73cf5ed45308bd3db10d51360006",
-          "1abe7860e655f7518814975d24590160",
-          "6814fca252d37181d837bdb7f288c9f6",
-          "be04c9a18fe3842d1d98995325a10a26",
-          "e4503e6dee447b9ca3bca754d5413ff1",
           "81f901b5bf0e8c5535c3ce209d33d06f",
           "b4c379849c8f0170513e04c63e98ed54",
           "08183a095f9bb03fe7dd6ce06dfd5115",
@@ -231,18 +222,23 @@
           "98e316b354d9bdf56912c926971e5567",
           "14cb193e7f5597db6c01cb34cb4ee0bd",
           "1ec120c66875bd145a4c2cb480a6221f",
-          "47bd976e53fd477023f19b584e460f09"
+          "47bd976e53fd477023f19b584e460f09",
+          "0e40ec20e1a733a8136667ee5938762f",
+          "1892288ce3bfda31458d852753d72f5f",
+          "6c257d065a3041b16049b05a47e582ff",
+          "d56804b591f67b39c8fc7b7c55dea3b8",
+          "0dc34ee524de9926640b14cae6ad1538",
+          "1a9958a78e7ae39c78870e2584d0687d",
+          "c120a202201b05ec8d4d472f5dc48216",
+          "8c80380e8c6ef45e146ff866360ac45b",
+          "3f0e7d12a06008431c0606107ae9cdb6"
         ],
-        "last_run": "2026-06-11T07:34:22.676801+00:00"
+        "last_run": "2026-06-11T07:47:52.600967+00:00"
       },
       "compilers": {
         "query": "compilers interpreters JIT LLVM optimization bytecode 2026",
         "wiki_page": "entities/compilers.md",
         "last_result_hashes": [
-          "ec0b892486df6b096e05619b62eaf636",
-          "2bd3e99e56438ddf5d59c95438eb3453",
-          "1603283075bbc7acecafaf42d8aa6f3d",
-          "bbf6824e95d4a5c3741ab68b95d677d7",
           "9abe49d114303e239e95258b07e93704",
           "272052674db344025c77fa7d56b06ed6",
           "083c3c0469ed0b0e0912dfd5a8317502",
@@ -258,21 +254,18 @@
           "b7fb7f6500799d0f60cb61fb935e7903",
           "7a92f1c52fb40752998994f704703a1b",
           "95bb9124ed4d9a3cea7ab0eff4121f5b",
-          "ca0f021b21560edda0bda4cd1ff5046d"
+          "ca0f021b21560edda0bda4cd1ff5046d",
+          "912ee99b6933f3e667414dbd1f98a4cf",
+          "bfd4c8699600913a28d737a654f731a4",
+          "a17a961b707964902a968e5dcefc912a",
+          "8ea7b002da226b462d4c775f8ef321f9"
         ],
-        "last_run": "2026-06-11T07:34:22.676801+00:00"
+        "last_run": "2026-06-11T07:47:52.600967+00:00"
       },
       "system-design": {
         "query": "distributed systems architecture load balancing caching patterns 2026",
         "wiki_page": "entities/system-design.md",
         "last_result_hashes": [
-          "50143f9c11ff43bf24ff9b5247846073",
-          "1885661cefe9c39654b0f1458625c8e0",
-          "e0cf6ba4ee92233f35ce0d4c311f33af",
-          "6e6a769d3ef9c98e64b933debc8c7ce3",
-          "c74b750b4c181c28c8a705e275a94a89",
-          "9c4a9aba64cc1ea248a9145c713bee45",
-          "d6cf3470dd81f166faadc8caed91762f",
           "7ea0c376e38d52ebb97fe4c9cf5f5198",
           "267c88652a904f1a4eb1b38eb080dcb9",
           "3986b4f78a29a0d9da6c8816250ef1ee",
@@ -285,12 +278,19 @@
           "a92030946066b012da4066390dd05366",
           "4a75975bbd7ceb861d5fe114d0669e90",
           "9d7366fd58fa9fb3a2f902407f8616b5",
-          "c236fe7f9139ffe5abef3d356641bdd0"
+          "c236fe7f9139ffe5abef3d356641bdd0",
+          "b8308d31fb13dbbe61cf8d6289112a69",
+          "bdd38e8eb5fc11ded5dadd934be11ea6",
+          "c742ff1b25ad274435fff118f143bff1",
+          "b3733d83924b953fc3046b72af811dcf",
+          "a9eb8f16ff8e4bb52ead891ff1cf216e",
+          "4b66021af66d8262634146a91d73d82e",
+          "5d1d4cad2761d4593d2559156d35a931"
         ],
-        "last_run": "2026-06-11T07:34:22.676801+00:00"
+        "last_run": "2026-06-11T07:47:52.600967+00:00"
       }
     },
-    "last_run": "2026-06-11T07:34:22.676801+00:00",
-    "last_updated": "2026-06-11T07:34:22.676801+00:00"
+    "last_run": "2026-06-11T07:47:52.600967+00:00",
+    "last_updated": "2026-06-11T07:47:52.600967+00:00"
   }
 }

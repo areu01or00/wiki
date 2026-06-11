@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Python JIT Tutorial: How to Enable and Optimize the CPython JIT](https://www.linkedin.com/pulse/python-jit-tutorial-how-enable-optimize-xslsc) | kw: python, tutorial:, enable
+- **2026-06-11** | [Adventures in JIT compilation: Part 1 - an interpreter - Eli](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter) | kw: adventures, compilation:, part
+- **2026-06-11** | [JIT compiler and bytecode optimization - High Performance Java](https://noobtomaster.com/high-performance-java/jit-compiler-and-bytecode-optimization/) | kw: compiler, bytecode, optimization
+- **2026-06-11** | [2007-03-12-BossaLLVMIntroRevised.key](https://llvm.org/pubs/2007-03-12-BossaLLVMIntro.pdf) | kw: 2007-03-12-bossallvmintrorevised.key
+
 - **2026-06-11** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: building, jit:, starting
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, modern, language
 - **2026-06-11** | [2026 EuroLLVM Developers Meeting - LLVM.org](https://llvm.org/devmtg/2026-04/) | kw: 2026, eurollvm, developers

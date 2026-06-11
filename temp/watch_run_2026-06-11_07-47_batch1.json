@@ -1,0 +1,110 @@
+{
+  "results": {
+    "python-internals": [
+      {
+        "title": "Global interpreter lock - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Global_interpreter_lock",
+        "hash": "2fbba50cea07c75945dd0f2ecbac5fe1"
+      },
+      {
+        "title": "Understanding the Python Global Interpreter Lock (GIL)",
+        "url": "https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter",
+        "hash": "d312cb77ade078c8f1e9dac2e24a756b"
+      },
+      {
+        "title": "Python's GIL Is Gone \u2014 What That Actually Means for Your Code",
+        "url": "https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879",
+        "hash": "087455b373dbe987da5078283f97a4cb"
+      },
+      {
+        "title": "Inside Python: How your code runs, from source to execution | Medium",
+        "url": "https://medium.com/codetodeploy/inside-python-how-your-code-runs-from-source-to-execution-3511f97a9a95",
+        "hash": "ddead749313fcd1ecd10d1473c8063c7"
+      },
+      {
+        "title": "GlobalInterpreterLock",
+        "url": "https://wiki.python.org/moin/GlobalInterpreterLock",
+        "hash": "52cfa82cbcc479d511c7d6aefb23518f"
+      }
+    ],
+    "algorithms": [
+      {
+        "title": "Is it still worth doing LeetCode in 2026? | by Fahim ul Haq - Medium",
+        "url": "https://medium.com/@fahimulhaq/is-it-still-worth-doing-leetcode-a5ec9944970d",
+        "hash": "f45dc403e860dd7130e7125905fea283"
+      },
+      {
+        "title": "Optimization techniques for improving time complexity in algorithms",
+        "url": "https://leetcode.com/discuss/study-guide/3221866/Optimization-techniques-for-improving-time-complexity-in-algorithms/",
+        "hash": "d186e040e5d2b0265df82adc22e401b3"
+      },
+      {
+        "title": "Data Structures & Algorithms in Java + 150 Leetcode Problems",
+        "url": "https://www.coursera.org/specializations/packt-data-structures-and-algorithms-in-java-150-leetcode-problems",
+        "hash": "c02c50ea344b8035b5ce667030bbe122"
+      },
+      {
+        "title": "Rethinking DSA for 2026 Interview Success - LinkedIn",
+        "url": "https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT",
+        "hash": "35f3793cac8b78d908e7f2d7bb34859d"
+      },
+      {
+        "title": "ATU Scholars Symposium: Data Structures & Algorithms Prep Hub",
+        "url": "https://orc.library.atu.edu/atu_rs/2026/2026/51/",
+        "hash": "030938db63a0787b296b8ebe5611c7a1"
+      },
+      {
+        "title": "Essential Starter Techniques to Conquer Coding Challenges - Discuss",
+        "url": "https://leetcode.com/discuss/study-guide/5450007/LeetCode-Level-Up:-Essential-Starter-Techniques-to-Conquer-Coding-Challenges/",
+        "hash": "9a29ca29926837eed57c890160a28b56"
+      },
+      {
+        "title": "Top 10 Data Structures Courses (2026 Edition) - MentorCruise",
+        "url": "https://mentorcruise.com/courses/datastructures/",
+        "hash": "a1b8c7f397279e2ecba74fce23c2e3ce"
+      },
+      {
+        "title": "How to Pass Leetcode Interviews: The Ritual That Works",
+        "url": "https://proandroiddev.com/how-to-pass-leetcode-interviews-the-ritual-that-works-a788ff2f4f27",
+        "hash": "6bb5f45745653c7264d8c29607bac581"
+      },
+      {
+        "title": "DSA Roadmap 2026: Master Data Structures & Algo - CoderFile.io",
+        "url": "https://coderfile.io/blog/dsa-roadmap-2026",
+        "hash": "bfe9bd3b9720076e01722cde4d9f0bc1"
+      },
+      {
+        "title": "LeetCode Alternatives 2026: Which Platform Fills the Gap?",
+        "url": "https://www.codeintuition.io/blogs/leetcode-alternatives-2026",
+        "hash": "a9a978485385ce0ca1092c0e5d26bf14"
+      }
+    ],
+    "functional-programming": [
+      {
+        "title": "Monads as a Programming Pattern",
+        "url": "https://samgrayson.me/essays/monads-as-a-programming-pattern/",
+        "hash": "d833da32acaa360ef7d45e8af98e7dff"
+      },
+      {
+        "title": "Boilerplate Busting in Functional Languages | Lambda Land",
+        "url": "https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/",
+        "hash": "41e62baff4e07be0ab1c4b7518f20158"
+      },
+      {
+        "title": "Haskell Tutorial - YouTube",
+        "url": "https://www.youtube.com/watch?v=02_H3LjqMr8",
+        "hash": "28a307af9e2bdf7a78826d0e03ebcd06"
+      },
+      {
+        "title": "Monads in Functional Programming: From Theory to Practice | Medium",
+        "url": "https://medium.com/@mo.mirjavadi/monads-in-functional-programming-from-theory-to-practice-9f9f93c0bf51",
+        "hash": "bddbc05658546c41dac2eb2ca0e79dca"
+      },
+      {
+        "title": "Null Object Pattern with Maybe Monad in Haskell",
+        "url": "https://softwarepatternslexicon.com/patterns-haskell/6/12/",
+        "hash": "e8762fba53348da0138f9e56844e7c60"
+      }
+    ]
+  }
+}

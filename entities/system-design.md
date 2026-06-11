@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Memcached Python Client: Distributed Caching Patterns 2026](https://johal.in/memcached-python-client-distributed-caching-patterns-2026/) | kw: memcached, python, client:
+- **2026-06-11** | [Caching Patterns: Cache-Aside, Write-Through | knowledgelib.io](https://knowledgelib.io/software/patterns/caching-patterns/2026) | kw: caching, patterns:, cache-aside,
+- **2026-06-11** | [Distributed Systems 6.2: Raft - YouTube](https://www.youtube.com/watch?v=uXEYuDwm7e4) | kw: distributed, systems, 6.2:
+- **2026-06-11** | [Design Issues of Distributed System (1).pptx](https://www.slideshare.net/slideshow/design-issues-of-distributed-system-1-pptx/272027019) | kw: design, issues, distributed
+- **2026-06-11** | [Caching Patterns for Directories: Freshness vs Cost](https://content.directory/advanced-caching-patterns-2026) | kw: caching, patterns, directories:
+- **2026-06-11** | [Zonal Gateway Load Balancing in Centralized E/E Architectures](https://eureka.patsnap.com/blog/scout-report/zonal-gateway-load-balancing-in-centralized-e-e-architectures-latency-redundancy-and-fault-containment/) | kw: zonal, gateway, load
+- **2026-06-11** | [Distributed System Design Trade-offs: Consistency | LinkedIn](https://www.linkedin.com/posts/javalgo_systemdesign-distributedsystems-architecture-activity-7457754792992624640-rxy3) | kw: distributed, system, design
+
 - **2026-06-11** | [System Design in 2026: The Complete Guide (18500 words)](https://dev.to/yakhilesh/system-design-in-2026-the-complete-guide-18500-words-3nn6) | kw: system, design, 2026:
 - **2026-06-11** | [Load Balancing and Caching: Improving Performance in Large ...](https://medium.com/@kalanamalshan98/load-balancing-and-caching-improving-performance-in-large-systems-8dba10c35d68) | kw: load, balancing, caching:
 - **2026-06-11** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system, design, patterns

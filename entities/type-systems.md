@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type, system, wikipedia
+- **2026-06-11** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir, v1.20, released:
+- **2026-06-11** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type, inference, constructs
+- **2026-06-11** | [From Duck Typing to Strict Types: Python's Evolving Type System](https://leapcell.medium.com/from-duck-typing-to-strict-types-pythons-evolving-type-system-09df4f5205f0) | kw: from, duck, typing
+- **2026-06-11** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/full/10.1145/3632931) | kw: type-based, gradual, typing
+- **2026-06-11** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: what, type, systems
+- **2026-06-11** | [What is a type system, really? - Lambda Land](https://lambdaland.org/posts/2023-01-17_what_is_a_type_system_really/) | kw: what, type, system,
+- **2026-06-11** | [TYPE SYSTEMS - The Consensus](https://theconsensus.dev/t/type-systems.html) | kw: type, systems, consensus
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance - arXiv](https://arxiv.org/pdf/2603.05649) | kw: efficient, selection, type
+
 - **2026-06-11** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual, typing, wikipedia
 - **2026-06-11** | [Type Systems: From Generics to Dependent Types](https://federicocarrone.com/articles/type-systems/) | kw: type, systems:, from
 - **2026-06-11** | [30 Best general-purpose programming languages as of 2026 - Slant](https://www.slant.co/topics/15491/~general-purpose-programming-languages) | kw: best, general-purpose, programming

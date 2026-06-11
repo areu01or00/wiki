@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Boilerplate Busting in Functional Languages | Lambda Land](https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/) | kw: boilerplate, busting, functional
+- **2026-06-11** | [Haskell Tutorial - YouTube](https://www.youtube.com/watch?v=02_H3LjqMr8) | kw: haskell, tutorial, youtube
+- **2026-06-11** | [Monads in Functional Programming: From Theory to Practice | Medium](https://medium.com/@mo.mirjavadi/monads-in-functional-programming-from-theory-to-practice-9f9f93c0bf51) | kw: monads, functional, programming:
+- **2026-06-11** | [Null Object Pattern with Maybe Monad in Haskell](https://softwarepatternslexicon.com/patterns-haskell/6/12/) | kw: null, object, pattern
+
 - **2026-06-11** | [Idiomatic monads in Rust | varkor blog](https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html) | kw: idiomatic, monads, rust
 - **2026-06-11** | [WHAT IS A MONAD? Functional Programming Patterns... - YouTube](https://www.youtube.com/watch?v=8DJtc3zJ5nY) | kw: what, monad?, functional
 - **2026-06-11** | [GitHub - nsu-syspro/haskell-monads-2026: haskell-monads created...](https://github.com/nsu-syspro/haskell-monads-2026) | kw: github, nsu-syspro/haskell-monads-2026:, haskell-monads

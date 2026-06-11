@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Is it still worth doing LeetCode in 2026? | by Fahim ul Haq - Medium](https://medium.com/@fahimulhaq/is-it-still-worth-doing-leetcode-a5ec9944970d) | kw: still, worth, doing
+- **2026-06-11** | [Optimization techniques for improving time complexity in algorithms](https://leetcode.com/discuss/study-guide/3221866/Optimization-techniques-for-improving-time-complexity-in-algorithms/) | kw: optimization, techniques, improving
+- **2026-06-11** | [Data Structures & Algorithms in Java + 150 Leetcode Problems](https://www.coursera.org/specializations/packt-data-structures-and-algorithms-in-java-150-leetcode-problems) | kw: data, structures, algorithms
+- **2026-06-11** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: rethinking, 2026, interview
+- **2026-06-11** | [ATU Scholars Symposium: Data Structures & Algorithms Prep Hub](https://orc.library.atu.edu/atu_rs/2026/2026/51/) | kw: scholars, symposium:, data
+- **2026-06-11** | [Essential Starter Techniques to Conquer Coding Challenges - Discuss](https://leetcode.com/discuss/study-guide/5450007/LeetCode-Level-Up:-Essential-Starter-Techniques-to-Conquer-Coding-Challenges/) | kw: essential, starter, techniques
+- **2026-06-11** | [Top 10 Data Structures Courses (2026 Edition) - MentorCruise](https://mentorcruise.com/courses/datastructures/) | kw: data, structures, courses
+- **2026-06-11** | [How to Pass Leetcode Interviews: The Ritual That Works](https://proandroiddev.com/how-to-pass-leetcode-interviews-the-ritual-that-works-a788ff2f4f27) | kw: pass, leetcode, interviews:
+- **2026-06-11** | [DSA Roadmap 2026: Master Data Structures & Algo - CoderFile.io](https://coderfile.io/blog/dsa-roadmap-2026) | kw: roadmap, 2026:, master
+- **2026-06-11** | [LeetCode Alternatives 2026: Which Platform Fills the Gap?](https://www.codeintuition.io/blogs/leetcode-alternatives-2026) | kw: leetcode, alternatives, 2026:
+
 - **2026-06-11** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: ashishps1/awesome-leetcode-resources, github
 - **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: best, sheet, 2026
 - **2026-06-11** | [Complete Data Structures and Algorithms / Unwired Learning](https://unwiredlearning.com/bundles/complete-data-structures-and-algorithms) | kw: complete, data, structures

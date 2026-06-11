@@ -1,0 +1,110 @@
+{
+  "results": {
+    "type-systems": [
+      {
+        "title": "Type system - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Type_system",
+        "hash": "0e40ec20e1a733a8136667ee5938762f"
+      },
+      {
+        "title": "Elixir v1.20 released: now a gradually typed language",
+        "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+        "hash": "1892288ce3bfda31458d852753d72f5f"
+      },
+      {
+        "title": "Type inference of all constructs and the next 15 months",
+        "url": "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/",
+        "hash": "6c257d065a3041b16049b05a47e582ff"
+      },
+      {
+        "title": "From Duck Typing to Strict Types: Python's Evolving Type System",
+        "url": "https://leapcell.medium.com/from-duck-typing-to-strict-types-pythons-evolving-type-system-09df4f5205f0",
+        "hash": "d56804b591f67b39c8fc7b7c55dea3b8"
+      },
+      {
+        "title": "Type-Based Gradual Typing Performance Optimization",
+        "url": "https://dl.acm.org/doi/full/10.1145/3632931",
+        "hash": "0dc34ee524de9926640b14cae6ad1538"
+      },
+      {
+        "title": "What type systems do you find interesting / useful / underrated?",
+        "url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/",
+        "hash": "1a9958a78e7ae39c78870e2584d0687d"
+      },
+      {
+        "title": "What is a type system, really? - Lambda Land",
+        "url": "https://lambdaland.org/posts/2023-01-17_what_is_a_type_system_really/",
+        "hash": "c120a202201b05ec8d4d472f5dc48216"
+      },
+      {
+        "title": "TYPE SYSTEMS - The Consensus",
+        "url": "https://theconsensus.dev/t/type-systems.html",
+        "hash": "8c80380e8c6ef45e146ff866360ac45b"
+      },
+      {
+        "title": "Efficient Selection of Type Annotations for Performance - arXiv",
+        "url": "https://arxiv.org/pdf/2603.05649",
+        "hash": "3f0e7d12a06008431c0606107ae9cdb6"
+      }
+    ],
+    "compilers": [
+      {
+        "title": "Python JIT Tutorial: How to Enable and Optimize the CPython JIT",
+        "url": "https://www.linkedin.com/pulse/python-jit-tutorial-how-enable-optimize-xslsc",
+        "hash": "912ee99b6933f3e667414dbd1f98a4cf"
+      },
+      {
+        "title": "Adventures in JIT compilation: Part 1 - an interpreter - Eli",
+        "url": "https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter",
+        "hash": "bfd4c8699600913a28d737a654f731a4"
+      },
+      {
+        "title": "JIT compiler and bytecode optimization - High Performance Java",
+        "url": "https://noobtomaster.com/high-performance-java/jit-compiler-and-bytecode-optimization/",
+        "hash": "a17a961b707964902a968e5dcefc912a"
+      },
+      {
+        "title": "2007-03-12-BossaLLVMIntroRevised.key",
+        "url": "https://llvm.org/pubs/2007-03-12-BossaLLVMIntro.pdf",
+        "hash": "8ea7b002da226b462d4c775f8ef321f9"
+      }
+    ],
+    "system-design": [
+      {
+        "title": "Memcached Python Client: Distributed Caching Patterns 2026",
+        "url": "https://johal.in/memcached-python-client-distributed-caching-patterns-2026/",
+        "hash": "b8308d31fb13dbbe61cf8d6289112a69"
+      },
+      {
+        "title": "Caching Patterns: Cache-Aside, Write-Through | knowledgelib.io",
+        "url": "https://knowledgelib.io/software/patterns/caching-patterns/2026",
+        "hash": "bdd38e8eb5fc11ded5dadd934be11ea6"
+      },
+      {
+        "title": "Distributed Systems 6.2: Raft - YouTube",
+        "url": "https://www.youtube.com/watch?v=uXEYuDwm7e4",
+        "hash": "c742ff1b25ad274435fff118f143bff1"
+      },
+      {
+        "title": "Design Issues of Distributed System (1).pptx",
+        "url": "https://www.slideshare.net/slideshow/design-issues-of-distributed-system-1-pptx/272027019",
+        "hash": "b3733d83924b953fc3046b72af811dcf"
+      },
+      {
+        "title": "Caching Patterns for Directories: Freshness vs Cost",
+        "url": "https://content.directory/advanced-caching-patterns-2026",
+        "hash": "a9eb8f16ff8e4bb52ead891ff1cf216e"
+      },
+      {
+        "title": "Zonal Gateway Load Balancing in Centralized E/E Architectures",
+        "url": "https://eureka.patsnap.com/blog/scout-report/zonal-gateway-load-balancing-in-centralized-e-e-architectures-latency-redundancy-and-fault-containment/",
+        "hash": "4b66021af66d8262634146a91d73d82e"
+      },
+      {
+        "title": "Distributed System Design Trade-offs: Consistency | LinkedIn",
+        "url": "https://www.linkedin.com/posts/javalgo_systemdesign-distributedsystems-architecture-activity-7457754792992624640-rxy3",
+        "hash": "5d1d4cad2761d4593d2559156d35a931"
+      }
+    ]
+  }
+}
