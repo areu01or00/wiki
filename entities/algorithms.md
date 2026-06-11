@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: interview, data structures
+- **2026-06-11** | [LeetCode Isn't Dead in 2026 - But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode
+- **2026-06-11** | [Leetcode Interviews Fail to Measure Real Engineering Skills](https://www.linkedin.com/posts/sajjaad-khader_dear-tech-companies-its-2026-leetcode-activity-7452355472281460736-JLik) | kw: interview, LeetCode
+- **2026-06-11** | [LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode
+
 - **2026-06-11** | [How to Start LeetCode as a Complete Beginner (Step-by-Step Guide)](https://leetcopilot.dev/blog/how-to-start-leetcode-beginner-guide) | kw: dynamic programming, DSA roadmap
 
 - **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: dynamic programming, DSA roadmap

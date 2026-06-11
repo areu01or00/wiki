@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: Haskell, Rust
+- **2026-06-11** | [Community version of Learn You a Haskell (2026 Update)](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Haskell
+- **2026-06-11** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell
+- **2026-06-11** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: monads
+- **2026-06-11** | [A Rust Design Pattern for Linear Types - tutorials](https://users.rust-lang.org/t/a-rust-design-pattern-for-linear-types/140567) | kw: Rust
+
 - **2026-06-11** | [Monad (functional programming)](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Monad_(functional_programming).html) | kw: monads, Haskell
 - **2026-06-11** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: monads, Haskell
 - **2026-06-11** | [Monads and Effects | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: monads, Haskell

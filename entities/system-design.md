@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: pattern
+- **2026-06-11** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
+- **2026-06-11** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: pattern
+- **2026-06-11** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: distributed
+- **2026-06-11** | [12 Essential Distributed System Design Patterns Every Architect ...](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: distributed, pattern
+- **2026-06-11** | [From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI) | kw: system-design
+- **2026-06-11** | [System Design & Architecture Knowledge Base (Explained) - Medium](https://medium.com/@shibtasam/system-design-architecture-knowledge-base-explained-766903acfd85) | kw: architecture
+- **2026-06-11** | [Cloud Native Architecture Patterns: 10 Essential Types (2026 Guide)](https://clearfuze.com/blog/cloud-native-architecture-patterns/) | kw: architecture, pattern
+- **2026-06-11** | [If you design distributed systems, you cannot ignore these patterns](https://www.linkedin.com/posts/anton-martyniuk_if-you-design-distributed-systems-you-cannot-activity-7403778215812648960-gDEO) | kw: distributed, pattern
+- **2026-06-11** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: system-design
+
 - **2026-06-11** | [Distributed Systems: Mastering the Art of Complex Computing Networks](https://dev.to/getvm/distributed-systems-mastering-the-art-of-complex-computing-networks-31pc) | kw: distributed systems
 - **2026-06-11** | [Introduction to Distributed Systems - arXiv.org](https://arxiv.org/pdf/0911.4395) | kw: distributed systems
 - **2026-06-11** | [CQRS Pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs) | kw: caching patterns

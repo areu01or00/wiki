@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python Free-Threading Guide 2026: No-GIL, Threads, Packages, Benchmarks ...](https://www.toolsmint.com/learn/python-free-threading-gil-guide-2026) | kw: GIL, no-GIL
+- **2026-06-11** | [Python support for free threading - Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: python-internals
+- **2026-06-11** | [Unlocking True Parallelism: A Developer's Guide to Free-Threaded Python ...](https://dev.to/mechcloud_academy/unlocking-true-parallelism-a-developers-guide-to-free-threaded-python-314-175i) | kw: free-threaded
+- **2026-06-11** | [Python 3.13's Free-Threaded Mode: What No-GIL Actually Means for Your Code](https://www.javacodegeeks.com/2026/06/python-3-13s-free-threaded-mode-what-no-gil-actually-means-for-your-code.html) | kw: GIL, free-threaded, no-GIL
+- **2026-06-11** | [Python Free-Threading Guide](https://py-free-threading.github.io/) | kw: python-internals
+- **2026-06-11** | [Python 3.14 Free-Threading - True Parallelism Without the GIL](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: GIL
+- **2026-06-11** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: GIL, free-threaded
+- **2026-06-11** | [Master Python 3.14 GIL-Free Multithreading in 20 Minutes](https://markaicode.com/python-314-gil-free-multithreading/) | kw: GIL
+- **2026-06-11** | [Free Threading in CPython: What It Means and How to Prepare](https://billypoon.com/insights/free-threading-in-cpython-what-it-means-and-how-to-prepare) | kw: CPython
+
 - **2026-06-11** | [Inside Python: How your code runs, from source to execution | Medium](https://medium.com/codetodeploy/inside-python-how-your-code-runs-from-source-to-execution-3511f97a9a95) | kw: GIL, free-threaded Python
 - **2026-06-11** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: GIL, free-threaded Python
 - **2026-06-11** | [Understanding the Python GIL - YouTube](https://www.youtube.com/watch?v=Obt-vMVdM8s) | kw: GIL, free-threaded Python

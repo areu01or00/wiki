@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type inference
+- **2026-06-11** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type-systems
+- **2026-06-11** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: type-systems
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type annotation
+- **2026-06-11** | [Seeing types where others don't - The Consensus](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html) | kw: type-systems
+- **2026-06-11** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type inference
+- **2026-06-11** | [From Duck Typing to Strict Types: Python's Evolving Type System](https://leapcell.medium.com/from-duck-typing-to-strict-types-pythons-evolving-type-system-09df4f5205f0) | kw: type-systems
+- **2026-06-11** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/full/10.1145/3632931) | kw: gradual typing
+
 - **2026-06-11** | [Gradual Typing & Polymorphism Papers · hazelgrove/hazel Wiki...](https://github.com/hazelgrove/hazel/wiki/Gradual-Typing-&-Polymorphism-Papers) | kw: gradual typing, type inference
 - **2026-06-11** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: gradual typing, type inference
 - **2026-06-11** | [The Dynamic Practice and Static Theory of Gradual Typing](https://cs.pomona.edu/~michael/papers/snapl2019.pdf) | kw: gradual typing, type inference

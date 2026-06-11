@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: LLVM
+- **2026-06-11** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM
+- **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: LLVM
+- **2026-06-11** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: compilers
+- **2026-06-11** | [2026 EuroLLVM Developers' Meeting - Agenda - Announcements](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: LLVM
+- **2026-06-11** | [Unmasking the World of LLVM IR Based JIT Execution](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/) | kw: JIT, LLVM, IR
+- **2026-06-11** | [Validating JIT Compilers via Compilation Space Exploration](https://dl.acm.org/doi/10.1145/3715102) | kw: JIT, compilation
+
 - **2026-06-11** | [Top 10 Best Compiler Software | 2026 Verified Picks](https://worldmetrics.org/best-compiler-software/) | kw: JIT compilation, LLVM
 - **2026-06-11** | [MLIR: Multi-Level Intermediate Representation Intro](https://zhuanlan.zhihu.com/p/615212974) | kw: JIT compilation, LLVM
 - **2026-06-11** | [MLIR-tutorial Study Notes](https://www.cnblogs.com/YuanZiming/p/18956253) | kw: JIT compilation, LLVM
