@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150/) | kw: algorithms
+- **2026-06-11** | [Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: algorithms
+
 - **2026-06-11** | [Leetcode-Style Interviews | InterviewGuide.dev](https://interviewguide.dev/leetcode) | kw: leetcode, interview, LeetCode
 - **2026-06-11** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: interview
 - **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms, structures, interview

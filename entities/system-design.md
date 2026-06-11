@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: system-design
+- **2026-06-11** | [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: system-design
+
 - **2026-06-11** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: distributed systems, design, patterns
 - **2026-06-11** | [Evolving Software Architecture for the Cloud Era](https://medium.com/@bubu.tripathy/evolving-software-architecture-for-the-cloud-era-331dc2051c14) | kw: architecture
 - **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, systems

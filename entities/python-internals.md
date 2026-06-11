@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [How the GIL Affects Real Python Workloads](https://hevalhazalkurt.com/blog/how-the-gil-affects-real-python-workloads) | kw: python-internals
+- **2026-06-11** | [Understanding Python's GIL: Threading and Multiprocessing](https://python.howtos.io/understanding-python-s-gil-threading-and-multiprocessing) | kw: python-internals
+- **2026-06-11** | [Understanding Python's GIL (Global Interpreter Lock)](https://python.plainenglish.io/understanding-pythons-gil-global-interpreter-lock-an-in-depth-guide-f0e4b869fcc2) | kw: python-internals
+- **2026-06-11** | [Unpacking GIL's Impact on FastAPI/Django and the Power of Gunicorn Uvicorn](https://de.leapcell.io/blog/en/unpacking-gil-s-impact-on-fastapi-django-and-the-power-of-gunicorn-uvicorn) | kw: python-internals
+
 - **2026-06-11** | [Memory Management in Python](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory management, memory, python
 - **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python, internals, optimization
 - **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL, python, internals
