@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Top 7 Most-Used Distributed System Patterns](https://www.youtube.com/watch?v=nH4qjmP2KEE) | kw: top, 7, most-used
+- **2026-06-11** | [Distributed Systems Architecture Patterns for Edge Computing in 2026](https://tianpan.co/forum/t/distributed-systems-architecture-patterns-for-edge-computing-in-2026/1225) | kw: distributed, systems, architecture
+- **2026-06-11** | [Building Distributed Systems Architecture: From Single Server Dreams to Multi-Node Reality](https://hemaks.org/posts/building-distributed-systems-architecture-from-single-server-dreams-to-multi-node-reality/) | kw: building, distributed, systems
+- **2026-06-11** | [Event-Driven Architecture: The Architectural Shift That Changed Distributed Systems](https://javascript.plainenglish.io/event-driven-architecture-the-architectural-shift-that-changed-distributed-systems-66f4e9ee14f0) | kw: event-driven, architecture:, the
+- **2026-06-11** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: system, design, roadmap
+- **2026-06-11** | [Centralized vs. Decentralized vs. Distributed Systems](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: centralized, vs., decentralized
+- **2026-06-11** | [Distributed System Design Patterns](https://medium.com/@nishantparmar/distributed-system-design-patterns-2d20908fecfc) | kw: distributed, system, design
+- **2026-06-11** | [Design patterns in distributed system](https://www.slideshare.net/slideshow/design-patterns-in-distributed-system/66719846) | kw: design, patterns, in
+
 - **2026-06-11** | [Memcached Python Client: Distributed Caching Patterns 2026](https://johal.in/memcached-python-client-distributed-caching-patterns-2026/) | kw: memcached, python, client:
 - **2026-06-11** | [Caching Patterns: Cache-Aside, Write-Through | knowledgelib.io](https://knowledgelib.io/software/patterns/caching-patterns/2026) | kw: caching, patterns:, cache-aside,
 - **2026-06-11** | [Distributed Systems 6.2: Raft - YouTube](https://www.youtube.com/watch?v=uXEYuDwm7e4) | kw: distributed, systems, 6.2:

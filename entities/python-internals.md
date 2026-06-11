@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python 3.14.2 Release and the Rise of Free-Threaded CPython](https://blog.cubed.run/python-3-14-2-release-and-the-rise-of-free-threaded-cpython-what-developers-must-know-in-2026-61102e66e2e5) | kw: python, 3.14.2, release
+- **2026-06-11** | [Python support for free threading - Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: python, support, for
+- **2026-06-11** | [Python Free-Threading Guide](https://py-free-threading.github.io/) | kw: python, free-threading, guide
+- **2026-06-11** | [Python 3.15: The GIL is Dead. Now What for AI Performance?](https://shahvatsal.com/blog/python-3-15-gil-free-ai-performance) | kw: python, 3.15:, the
+- **2026-06-11** | [Python in 2026: From Glue Code to the Universal AI Operating System](https://medium.com/@ajay.singh_91430/python-in-2026-from-glue-code-to-the-universal-ai-operating-system-e10a51a6524a) | kw: python, in, 2026:
+- **2026-06-11** | [Python 3.13 GIL: Unlock True Parallelism with the Free-Threaded Build](https://www.stork.ai/blog/youre-using-python-313-wrong) | kw: python, 3.13, gil:
+- **2026-06-11** | [Get started with the free-threaded build of Python 3.13](https://www.infoworld.com/article/3552750/get-started-with-the-free-threaded-build-of-python-3-13.html) | kw: get, started, with
+- **2026-06-11** | [Python Complete Guide | CPython Internals GIL](https://pkglog.com/en/blog/python-complete-guide/) | kw: python, complete, guide
+
 - **2026-06-11** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: understanding, python, global
 
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, python, internals:

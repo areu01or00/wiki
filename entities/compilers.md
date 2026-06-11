@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: just-in-time, compilation, -
+- **2026-06-11** | [The LLVM Compiler Infrastructure Project - Open Projects](https://llvm.org/OpenProjects.html) | kw: the, llvm, compiler
+- **2026-06-11** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: orcjit, at, scale
+- **2026-06-11** | [LLVM Compiler Infrastructure - Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: llvm, compiler, infrastructure
+- **2026-06-11** | [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: retrofitting, jit, compilers
+- **2026-06-11** | [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: jank, is, off
+- **2026-06-11** | [2026 EuroLLVM Developers Meeting](https://llvm.org/devmtg/2026-04/) | kw: 2026, eurollvm, developers
+
 - **2026-06-11** | [Python JIT Tutorial: How to Enable and Optimize the CPython JIT](https://www.linkedin.com/pulse/python-jit-tutorial-how-enable-optimize-xslsc) | kw: python, tutorial:, enable
 - **2026-06-11** | [Adventures in JIT compilation: Part 1 - an interpreter - Eli](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter) | kw: adventures, compilation:, part
 - **2026-06-11** | [JIT compiler and bytecode optimization - High Performance Java](https://noobtomaster.com/high-performance-java/jit-compiler-and-bytecode-optimization/) | kw: compiler, bytecode, optimization

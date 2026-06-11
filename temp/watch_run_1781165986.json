@@ -1,0 +1,248 @@
+{
+  "profiles": [
+    "system-design",
+    "compilers",
+    "type-systems",
+    "functional-programming",
+    "algorithms",
+    "python-internals"
+  ],
+  "results": {
+    "system-design": [
+      {
+        "title": "Top 7 Most-Used Distributed System Patterns",
+        "url": "https://www.youtube.com/watch?v=nH4qjmP2KEE"
+      },
+      {
+        "title": "Distributed Systems Architecture Patterns for Edge Computing in 2026",
+        "url": "https://tianpan.co/forum/t/distributed-systems-architecture-patterns-for-edge-computing-in-2026/1225"
+      },
+      {
+        "title": "Building Distributed Systems Architecture: From Single Server Dreams to Multi-Node Reality",
+        "url": "https://hemaks.org/posts/building-distributed-systems-architecture-from-single-server-dreams-to-multi-node-reality/"
+      },
+      {
+        "title": "Event-Driven Architecture: The Architectural Shift That Changed Distributed Systems",
+        "url": "https://javascript.plainenglish.io/event-driven-architecture-the-architectural-shift-that-changed-distributed-systems-66f4e9ee14f0"
+      },
+      {
+        "title": "System Design Roadmap",
+        "url": "https://roadmap.sh/system-design"
+      },
+      {
+        "title": "Centralized vs. Decentralized vs. Distributed Systems",
+        "url": "https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/"
+      },
+      {
+        "title": "Distributed System Design Patterns",
+        "url": "https://medium.com/@nishantparmar/distributed-system-design-patterns-2d20908fecfc"
+      },
+      {
+        "title": "Design patterns in distributed system",
+        "url": "https://www.slideshare.net/slideshow/design-patterns-in-distributed-system/66719846"
+      }
+    ],
+    "compilers": [
+      {
+        "title": "Just-in-time compilation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Just-in-time_compilation"
+      },
+      {
+        "title": "The LLVM Compiler Infrastructure Project - Open Projects",
+        "url": "https://llvm.org/OpenProjects.html"
+      },
+      {
+        "title": "OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026",
+        "url": "https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/"
+      },
+      {
+        "title": "LLVM Compiler Infrastructure - Google Summer of Code 2026",
+        "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure"
+      },
+      {
+        "title": "Retrofitting JIT Compilers into C Interpreters",
+        "url": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html"
+      },
+      {
+        "title": "jank is off to a great start in 2026",
+        "url": "https://jank-lang.org/blog/2026-03-06-great-start/"
+      },
+      {
+        "title": "2026 EuroLLVM Developers Meeting",
+        "url": "https://llvm.org/devmtg/2026-04/"
+      }
+    ],
+    "type-systems": [
+      {
+        "title": "Luau (programming language) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Luau_(programming_language)"
+      },
+      {
+        "title": "Type inference of all constructs and the next 15 months",
+        "url": "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/"
+      },
+      {
+        "title": "Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026",
+        "url": "https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/"
+      },
+      {
+        "title": "TypeScript Overtakes JavaScript: What JVM Developers Need to Know",
+        "url": "https://www.javacodegeeks.com/2026/03/typescript-overtakes-javascript-what-jvm-developers-need-to-know.html"
+      },
+      {
+        "title": "Understanding Type Systems: Dynamic, Static, Strong and Weak Typing",
+        "url": "https://dev.to/akshatjme/understanding-type-systems-dynamic-static-strong-and-weak-typing-34a2"
+      },
+      {
+        "title": "Pyre Migrate Django: Gradual Typing Adoption 2025",
+        "url": "https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025/"
+      }
+    ],
+    "functional-programming": [
+      {
+        "title": "Monad (functional programming) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monad_(functional_programming)"
+      },
+      {
+        "title": "monads - GitHub Topics",
+        "url": "https://github.com/topics/monads"
+      },
+      {
+        "title": "Rust: Functional Programming & Monads",
+        "url": "https://readmedium.com/functional-programming-with-monads-90230ccccb48"
+      },
+      {
+        "title": "All About Monads - HaskellWiki",
+        "url": "https://wiki.haskell.org/All_About_Monads"
+      },
+      {
+        "title": "Monads (and Functors and Applicatives) explained in Rust",
+        "url": "https://users.rust-lang.org/t/monads-and-functors-and-applicatives-explained-badly-in-rust/15187"
+      },
+      {
+        "title": "monad in Functional programming - DEV Community",
+        "url": "https://dev.to/anusornc/monad-in-functional-programming-2e5e"
+      }
+    ],
+    "algorithms": [
+      {
+        "title": "Are Big Tech interviews still DSA, LeetCode-heavy in 2026?",
+        "url": "https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/"
+      },
+      {
+        "title": "How to prepare for Data Structures & Algorithms interview in 2026",
+        "url": "https://www.youtube.com/watch?v=jKGApDjRT6Y"
+      },
+      {
+        "title": "I Tried 20+ Python DSA Courses with LeetCode Exercises",
+        "url": "https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b"
+      },
+      {
+        "title": "Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)",
+        "url": "https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026"
+      },
+      {
+        "title": "Leetcode Interviews Fail to Measure Real Engineering Skills",
+        "url": "https://www.linkedin.com/posts/sajjaad-khader_dear-tech-companies-its-2026-leetcode-activity-7452355472281460736-JLik"
+      },
+      {
+        "title": "LeetCode vs NeetCode vs PracHub (2026 Interview Guide)",
+        "url": "https://prachub.com/resources/leetcode-vs-neetcode-vs-prachub-2026-interview-guide"
+      },
+      {
+        "title": "Google 2026 Interview Preparation - Complete Weekly Roadmap",
+        "url": "https://gist.github.com/carefree-ladka/6d1722421f9e1e46bd2dbdb5ea1b4684"
+      }
+    ],
+    "python-internals": [
+      {
+        "title": "Python 3.14.2 Release and the Rise of Free-Threaded CPython",
+        "url": "https://blog.cubed.run/python-3-14-2-release-and-the-rise-of-free-threaded-cpython-what-developers-must-know-in-2026-61102e66e2e5"
+      },
+      {
+        "title": "Python support for free threading - Python 3.14.6 documentation",
+        "url": "https://docs.python.org/3/howto/free-threading-python.html"
+      },
+      {
+        "title": "Python Free-Threading Guide",
+        "url": "https://py-free-threading.github.io/"
+      },
+      {
+        "title": "Python 3.15: The GIL is Dead. Now What for AI Performance?",
+        "url": "https://shahvatsal.com/blog/python-3-15-gil-free-ai-performance"
+      },
+      {
+        "title": "Python in 2026: From Glue Code to the Universal AI Operating System",
+        "url": "https://medium.com/@ajay.singh_91430/python-in-2026-from-glue-code-to-the-universal-ai-operating-system-e10a51a6524a"
+      },
+      {
+        "title": "Python 3.13 GIL: Unlock True Parallelism with the Free-Threaded Build",
+        "url": "https://www.stork.ai/blog/youre-using-python-313-wrong"
+      },
+      {
+        "title": "Get started with the free-threaded build of Python 3.13",
+        "url": "https://www.infoworld.com/article/3552750/get-started-with-the-free-threaded-build-of-python-3-13.html"
+      },
+      {
+        "title": "Python Complete Guide | CPython Internals GIL",
+        "url": "https://pkglog.com/en/blog/python-complete-guide/"
+      }
+    ]
+  },
+  "new_entries": {
+    "system-design.md": [
+      "- **2026-06-11** | [Top 7 Most-Used Distributed System Patterns](https://www.youtube.com/watch?v=nH4qjmP2KEE) | kw: top, 7, most-used",
+      "- **2026-06-11** | [Distributed Systems Architecture Patterns for Edge Computing in 2026](https://tianpan.co/forum/t/distributed-systems-architecture-patterns-for-edge-computing-in-2026/1225) | kw: distributed, systems, architecture",
+      "- **2026-06-11** | [Building Distributed Systems Architecture: From Single Server Dreams to Multi-Node Reality](https://hemaks.org/posts/building-distributed-systems-architecture-from-single-server-dreams-to-multi-node-reality/) | kw: building, distributed, systems",
+      "- **2026-06-11** | [Event-Driven Architecture: The Architectural Shift That Changed Distributed Systems](https://javascript.plainenglish.io/event-driven-architecture-the-architectural-shift-that-changed-distributed-systems-66f4e9ee14f0) | kw: event-driven, architecture:, the",
+      "- **2026-06-11** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: system, design, roadmap",
+      "- **2026-06-11** | [Centralized vs. Decentralized vs. Distributed Systems](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: centralized, vs., decentralized",
+      "- **2026-06-11** | [Distributed System Design Patterns](https://medium.com/@nishantparmar/distributed-system-design-patterns-2d20908fecfc) | kw: distributed, system, design",
+      "- **2026-06-11** | [Design patterns in distributed system](https://www.slideshare.net/slideshow/design-patterns-in-distributed-system/66719846) | kw: design, patterns, in"
+    ],
+    "compilers.md": [
+      "- **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: just-in-time, compilation, -",
+      "- **2026-06-11** | [The LLVM Compiler Infrastructure Project - Open Projects](https://llvm.org/OpenProjects.html) | kw: the, llvm, compiler",
+      "- **2026-06-11** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: orcjit, at, scale",
+      "- **2026-06-11** | [LLVM Compiler Infrastructure - Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: llvm, compiler, infrastructure",
+      "- **2026-06-11** | [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: retrofitting, jit, compilers",
+      "- **2026-06-11** | [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: jank, is, off",
+      "- **2026-06-11** | [2026 EuroLLVM Developers Meeting](https://llvm.org/devmtg/2026-04/) | kw: 2026, eurollvm, developers"
+    ],
+    "type-systems.md": [
+      "- **2026-06-11** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: luau, (programming, language)",
+      "- **2026-06-11** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type, inference, of",
+      "- **2026-06-11** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: static, vs., dynamic",
+      "- **2026-06-11** | [TypeScript Overtakes JavaScript: What JVM Developers Need to Know](https://www.javacodegeeks.com/2026/03/typescript-overtakes-javascript-what-jvm-developers-need-to-know.html) | kw: typescript, overtakes, javascript:",
+      "- **2026-06-11** | [Understanding Type Systems: Dynamic, Static, Strong and Weak Typing](https://dev.to/akshatjme/understanding-type-systems-dynamic-static-strong-and-weak-typing-34a2) | kw: understanding, type, systems:",
+      "- **2026-06-11** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025/) | kw: pyre, migrate, django:"
+    ],
+    "functional-programming.md": [
+      "- **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monad, (functional, programming)",
+      "- **2026-06-11** | [monads - GitHub Topics](https://github.com/topics/monads) | kw: monads, -, github",
+      "- **2026-06-11** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: rust:, functional, programming",
+      "- **2026-06-11** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: all, about, monads",
+      "- **2026-06-11** | [Monads (and Functors and Applicatives) explained in Rust](https://users.rust-lang.org/t/monads-and-functors-and-applicatives-explained-badly-in-rust/15187) | kw: monads, (and, functors",
+      "- **2026-06-11** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: monad, in, functional"
+    ],
+    "algorithms.md": [
+      "- **2026-06-11** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: are, big, tech",
+      "- **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: how, to, prepare",
+      "- **2026-06-11** | [I Tried 20+ Python DSA Courses with LeetCode Exercises](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: i, tried, 20+",
+      "- **2026-06-11** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: most, asked, leetcode",
+      "- **2026-06-11** | [Leetcode Interviews Fail to Measure Real Engineering Skills](https://www.linkedin.com/posts/sajjaad-khader_dear-tech-companies-its-2026-leetcode-activity-7452355472281460736-JLik) | kw: leetcode, interviews, fail",
+      "- **2026-06-11** | [LeetCode vs NeetCode vs PracHub (2026 Interview Guide)](https://prachub.com/resources/leetcode-vs-neetcode-vs-prachub-2026-interview-guide) | kw: leetcode, vs, neetcode",
+      "- **2026-06-11** | [Google 2026 Interview Preparation - Complete Weekly Roadmap](https://gist.github.com/carefree-ladka/6d1722421f9e1e46bd2dbdb5ea1b4684) | kw: google, 2026, interview"
+    ],
+    "python-internals.md": [
+      "- **2026-06-11** | [Python 3.14.2 Release and the Rise of Free-Threaded CPython](https://blog.cubed.run/python-3-14-2-release-and-the-rise-of-free-threaded-cpython-what-developers-must-know-in-2026-61102e66e2e5) | kw: python, 3.14.2, release",
+      "- **2026-06-11** | [Python support for free threading - Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: python, support, for",
+      "- **2026-06-11** | [Python Free-Threading Guide](https://py-free-threading.github.io/) | kw: python, free-threading, guide",
+      "- **2026-06-11** | [Python 3.15: The GIL is Dead. Now What for AI Performance?](https://shahvatsal.com/blog/python-3-15-gil-free-ai-performance) | kw: python, 3.15:, the",
+      "- **2026-06-11** | [Python in 2026: From Glue Code to the Universal AI Operating System](https://medium.com/@ajay.singh_91430/python-in-2026-from-glue-code-to-the-universal-ai-operating-system-e10a51a6524a) | kw: python, in, 2026:",
+      "- **2026-06-11** | [Python 3.13 GIL: Unlock True Parallelism with the Free-Threaded Build](https://www.stork.ai/blog/youre-using-python-313-wrong) | kw: python, 3.13, gil:",
+      "- **2026-06-11** | [Get started with the free-threaded build of Python 3.13](https://www.infoworld.com/article/3552750/get-started-with-the-free-threaded-build-of-python-3-13.html) | kw: get, started, with",
+      "- **2026-06-11** | [Python Complete Guide | CPython Internals GIL](https://pkglog.com/en/blog/python-complete-guide/) | kw: python, complete, guide"
+    ]
+  }
+}

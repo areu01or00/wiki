@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: are, big, tech
+- **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: how, to, prepare
+- **2026-06-11** | [I Tried 20+ Python DSA Courses with LeetCode Exercises](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: i, tried, 20+
+- **2026-06-11** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: most, asked, leetcode
+- **2026-06-11** | [Leetcode Interviews Fail to Measure Real Engineering Skills](https://www.linkedin.com/posts/sajjaad-khader_dear-tech-companies-its-2026-leetcode-activity-7452355472281460736-JLik) | kw: leetcode, interviews, fail
+- **2026-06-11** | [LeetCode vs NeetCode vs PracHub (2026 Interview Guide)](https://prachub.com/resources/leetcode-vs-neetcode-vs-prachub-2026-interview-guide) | kw: leetcode, vs, neetcode
+- **2026-06-11** | [Google 2026 Interview Preparation - Complete Weekly Roadmap](https://gist.github.com/carefree-ladka/6d1722421f9e1e46bd2dbdb5ea1b4684) | kw: google, 2026, interview
+
 - **2026-06-11** | [Is it still worth doing LeetCode in 2026? | by Fahim ul Haq - Medium](https://medium.com/@fahimulhaq/is-it-still-worth-doing-leetcode-a5ec9944970d) | kw: still, worth, doing
 - **2026-06-11** | [Optimization techniques for improving time complexity in algorithms](https://leetcode.com/discuss/study-guide/3221866/Optimization-techniques-for-improving-time-complexity-in-algorithms/) | kw: optimization, techniques, improving
 - **2026-06-11** | [Data Structures & Algorithms in Java + 150 Leetcode Problems](https://www.coursera.org/specializations/packt-data-structures-and-algorithms-in-java-150-leetcode-problems) | kw: data, structures, algorithms

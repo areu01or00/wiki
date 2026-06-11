@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: luau, (programming, language)
+- **2026-06-11** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type, inference, of
+- **2026-06-11** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: static, vs., dynamic
+- **2026-06-11** | [TypeScript Overtakes JavaScript: What JVM Developers Need to Know](https://www.javacodegeeks.com/2026/03/typescript-overtakes-javascript-what-jvm-developers-need-to-know.html) | kw: typescript, overtakes, javascript:
+- **2026-06-11** | [Understanding Type Systems: Dynamic, Static, Strong and Weak Typing](https://dev.to/akshatjme/understanding-type-systems-dynamic-static-strong-and-weak-typing-34a2) | kw: understanding, type, systems:
+- **2026-06-11** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025/) | kw: pyre, migrate, django:
+
 - **2026-06-11** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type, system, wikipedia
 - **2026-06-11** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir, v1.20, released:
 - **2026-06-11** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type, inference, constructs

@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monad, (functional, programming)
+- **2026-06-11** | [monads - GitHub Topics](https://github.com/topics/monads) | kw: monads, -, github
+- **2026-06-11** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: rust:, functional, programming
+- **2026-06-11** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: all, about, monads
+- **2026-06-11** | [Monads (and Functors and Applicatives) explained in Rust](https://users.rust-lang.org/t/monads-and-functors-and-applicatives-explained-badly-in-rust/15187) | kw: monads, (and, functors
+- **2026-06-11** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: monad, in, functional
+
 - **2026-06-11** | [Boilerplate Busting in Functional Languages | Lambda Land](https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/) | kw: boilerplate, busting, functional
 - **2026-06-11** | [Haskell Tutorial - YouTube](https://www.youtube.com/watch?v=02_H3LjqMr8) | kw: haskell, tutorial, youtube
 - **2026-06-11** | [Monads in Functional Programming: From Theory to Practice | Medium](https://medium.com/@mo.mirjavadi/monads-in-functional-programming-from-theory-to-practice-9f9f93c0bf51) | kw: monads, functional, programming:

@@ -1,0 +1,122 @@
+{
+  "profiles": {
+    "system-design": {
+      "query": "system design distributed systems architecture patterns 2026",
+      "wiki_page": "system-design.md",
+      "sub_topics": [
+        "load balancing",
+        "caching patterns",
+        "distributed systems",
+        "scalability"
+      ],
+      "last_result_hashes": [
+        "e3e431c7eca6f7914b9c2c4a57f73676",
+        "387530d08d4bb5c351863a5ad2ea6be2",
+        "bb02ac28357876fe12f426b1c2485ed0",
+        "71b886f82a172608fa4aa3736ff57033",
+        "55131e24161bc5b96e889d6a3a8bf3a1",
+        "b5fcb5c5388366927c7b74fd19471850",
+        "3a89a1981f34c8b51c12c499efabaf7b",
+        "61c1a314cbff9bebf48187fe8cfd726c"
+      ],
+      "last_run": "2026-06-11T08:19:46.255361Z"
+    },
+    "compilers": {
+      "query": "compilers LLVM JIT compilation 2026",
+      "wiki_page": "compilers.md",
+      "sub_topics": [
+        "JIT compilation",
+        "LLVM",
+        "bytecode",
+        "optimization"
+      ],
+      "last_result_hashes": [
+        "85875fa4aeb3a7c10187eaf8cc0cac2f",
+        "530555c3fb99b93596836f56af0eda64",
+        "4a875ba6c9df4a6d863a675c9bbe1244",
+        "ac9f7c54df4521ad492be79a4116a983",
+        "63d208cc60cfbb48bcbb5845b1681aac",
+        "248264ec1147eda63f7ec4b4f53a2e9a",
+        "46ec3e2f4aafc0694b8a75198edffad5"
+      ],
+      "last_run": "2026-06-11T08:19:46.255396Z"
+    },
+    "type-systems": {
+      "query": "type systems gradual typing type inference 2026",
+      "wiki_page": "type-systems.md",
+      "sub_topics": [
+        "gradual typing",
+        "type inference",
+        "dependent types"
+      ],
+      "last_result_hashes": [
+        "0f283757319d5365f9f3d2ac8e848912",
+        "6c257d065a3041b16049b05a47e582ff",
+        "88dfcf74de33a1e88c9e9c90d0e55f9b",
+        "c2a7ab4a00dd7b24329f23a54e40afec",
+        "416b5b6cf323f5302c6e8fa1bf3979e0",
+        "a8633a6911326387886440e050747775"
+      ],
+      "last_run": "2026-06-11T08:19:46.255420Z"
+    },
+    "functional-programming": {
+      "query": "functional programming monads haskell rust 2026",
+      "wiki_page": "functional-programming.md",
+      "sub_topics": [
+        "monads",
+        "Haskell",
+        "Rust patterns",
+        "functional idioms"
+      ],
+      "last_result_hashes": [
+        "ab1a401478bf91151df62818473f5ef5",
+        "2afa435e92e47b9f6d00b58b15c79f36",
+        "cc9f3837164b6e0e6edde576a14a1c3f",
+        "c233ce094f809bd93c2f4474229feed5",
+        "6d9876ccd61a858a44583a7ec00596bc",
+        "4785f257c28540b037a1cab665f2ef51"
+      ],
+      "last_run": "2026-06-11T08:19:46.255438Z"
+    },
+    "algorithms": {
+      "query": "algorithms data structures LeetCode interview 2026",
+      "wiki_page": "algorithms.md",
+      "sub_topics": [
+        "dynamic programming",
+        "DSA roadmap",
+        "coding interviews"
+      ],
+      "last_result_hashes": [
+        "92be1fe383d9a95f6fa4bc77f5d26671",
+        "51bdec45c83dc444c8040f8f04671877",
+        "bbb6684bd6a064980bc229015d0652a0",
+        "7827ab24e9d276e3b17d86a148741a99",
+        "54b6cb23828b8bdd89dd9ab70ff41d72",
+        "f848e5b488eb84e7ff84fd15f24cfb40",
+        "53afc8b458c8c087f3014abd21812a77"
+      ],
+      "last_run": "2026-06-11T08:19:46.255458Z"
+    },
+    "python-internals": {
+      "query": "Python internals GIL memory management 2026",
+      "wiki_page": "python-internals.md",
+      "sub_topics": [
+        "GIL",
+        "free-threaded Python",
+        "CPython internals",
+        "memory management"
+      ],
+      "last_result_hashes": [
+        "e23e8a1b77856f368cee21803567fe97",
+        "e895e15a79dbd780537065f7c5e0dba3",
+        "6e4ede96199e88aa8dff4012c8df3e89",
+        "78c9f4986d5e05bf54c8873be85d815f",
+        "94844f90e708f337539aa545fdafd865",
+        "c7ce0e5643fedd88ca055d27d3858019",
+        "51998b574d379b57c8008e90b669a61d",
+        "fbfc4413e05efde57683884807707b15"
+      ],
+      "last_run": "2026-06-11T08:19:46.255486Z"
+    }
+  }
+}
