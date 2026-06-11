@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building a JIT with LLVM ORC APIs
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation with LLVM in Rust
+- **2026-06-11** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: LLVM JIT compiler for Java
+- **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT ...](https://forum.nim-lang.org/t/9794) | kw: GPU codegen with Nim and LLVM JIT
+- **2026-06-11** | [Just-in-time (JIT) compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Wikipedia overview of JIT compilation
+
 - **2026-06-11** | [Just-In-Time JIT Compiler with LLVM - Create Your Own Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: building, compiler, using
 - **2026-06-11** | [Numba NJit Python: LLVM No-Python Mode 2026](https://johal.in/numba-njit-python-llvm-no-python-mode-2026/) | kw: numba, compilation, python
 - **2026-06-11** | [The state of GPU codegen with Nim LLVM JIT](https://forum.nim-lang.org/t/9794) | kw: codegen, using, compilation.

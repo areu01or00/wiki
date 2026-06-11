@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir 1.20 gradual typing release
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Research paper on gradual typing performance
+- **2026-06-11** | [Elixir 1.20 Gradual Typing: No Annotations, Real Bug Catches](https://byteiota.com/elixir-1-20-gradual-typing-no-annotations/) | kw: Elixir gradual typing approach
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Conference paper on gradual typing
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Journal paper on gradual typing
+- **2026-06-11** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: Type system fundamentals
+- **2026-06-11** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python type system concepts
+- **2026-06-11** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation/) | kw: Gradual typing project
+- **2026-06-11** | [Staged Gradual Typing](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: Staged gradual type system research
+
 - **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: research, paper, selecting
 - **2026-06-11** | [How to Evaluate the Performance of Gradual Type Systems](https://janvitek.org/pubs/jfp18.pdf) | kw: paper, methods, evaluating
 - **2026-06-11** | [Gradual typing with unification-based inference](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: paper, combining, gradual

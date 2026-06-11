@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Understanding Monads | CodeSignal Learn](https://codesignal.com/learn/courses/advanced-functional-programming-techniques/lessons/understanding-monads) | kw: Monad tutorial with C++
+- **2026-06-11** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell 2026 guide
+- **2026-06-11** | [Monad-based Programming – Lehrstuhl für Informatik 8](https://www.playfulpython.com/introducing-monads-in-functional-programming) | kw: Monads in Python
+- **2026-06-11** | [Monads · OCaml Documentation](https://ocaml.org/docs/monads) | kw: Monads in OCaml
+- **2026-06-11** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical value of FP
+
 - **2026-06-11** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: guide, haskell, covering
 - **2026-06-11** | [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: gentle, introduction, monads
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: exploring, support, functional

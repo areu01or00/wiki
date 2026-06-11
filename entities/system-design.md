@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Ndea](http://ndea.com/) | kw: AI for Scientific Advancement
+- **2026-06-11** | [Designing Distributed Systems Frederik Banke](https://www.frederikbanke.com/designing-distributed-systems) | kw: Book Review
+- **2026-06-11** | [Patterns of Distributed Systems](https://www.cb-india.com/books/computer-science/distributed-computing/patterns-of-distributed-systems) | kw: Book - Common problems and solutions
+- **2026-06-11** | [Design Patterns for Distributed Systems](https://www.codemag.com/Article/1909071/Design-Patterns-for-Distributed-Systems) | kw: Microservice architecture patterns
+- **2026-06-11** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Critical architectural patterns
+
 - **2026-06-11** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: master, distributed, systems
 - **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: complete, roadmap, distributed
 - **2026-06-11** | [Microservices Design Patterns for Cloud Architecture - IEEE Chicago](https://ieeechicago.org/microservices-design-patterns-for-cloud-architecture) | kw: microservices, design, patterns

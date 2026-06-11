@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Python memory & GIL guide 2026
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL removal & optimization
+- **2026-06-11** | [CPython-Internals memory_management](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: CPython memory management deep dive
+- **2026-06-11** | [Exploring Python Memory Management](https://maxwellforbes.com/garage/python-memory-management) | kw: Python memory allocation layers
+- **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL controversy analysis
+- **2026-06-11** | [The No-GIL Transition: NumPy and SciPy Release Official ...](https://tech-champion.com/programming/python-programming/the-no-gil-transition-numpy-and-scipy-release-official-free-threaded-wheels) | kw: No-GIL wheels for NumPy/SciPy
+
 - **2026-06-11** | [What is the GIL in Python and Why Should You Care?](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | kw: python, impact, concurrency.
 - **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: explanation, python, memory
 - **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL)](https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b) | kw: understanding, python, impact
