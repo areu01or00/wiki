@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Memory Management in Python - Honeybadger](https://www.honeybadger.io/blog/memory-management-in-python) | kw: python-internals
+- **2026-06-11** | [Python Memory Management and GIL - Python Untold](https://python.plainenglish.io/python-untold-976da8cf2006) | kw: python-internals
+- **2026-06-11** | [Python Memory Management Internals - Medium](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
+- **2026-06-11** | [Global Interpreter Lock (GIL) in Python - DEV Community](https://dev.to/imsushant12/global-interpreter-lock-gil-in-python-everything-you-need-to-know-for-interviews-5e4g) | kw: python-internals
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
+- **2026-06-11** | [Python Internals: Memory Management & the GIL | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-11** | [Python In-Depth - Memory Management in Python (GIL and Profiling)](https://medium.com/@arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: python-internals
+- **2026-06-11** | [CPython-Internals memory_management.md - GitHub](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: python-internals
+- **2026-06-11** | [What Is Python Memory Management? - Coursera](https://www.coursera.org/articles/python-memory-management) | kw: python-internals
+
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, internals, gil
 - **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python, internals, gil
 - **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python, internals, gil

@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Type-checking Erlang and Elixir - Erlang Solutions](https://www.erlang-solutions.com/blog/type-checking-erlang-and-elixir) | kw: type-systems
+- **2026-06-11** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-11** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: type-systems
+- **2026-06-11** | [Gradual Typing - Glossary - Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: type-systems
+- **2026-06-11** | [Gradual Typing - ANU College of Engineering & Computer Science](https://users.cecs.anu.edu.au/~fabian.muehlboeck/projects/gradual) | kw: type-systems
+- **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/@tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: type-systems
+- **2026-06-11** | [Set-theoretic types: inference of all language constructs](https://github.com/elixir-lang/elixir/issues/14558) | kw: type-systems
+
 - **2026-06-11** | [Gradual typing with unification-based inference](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: type, systems, gradual
 - **2026-06-11** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type, systems, gradual
 - **2026-06-11** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: type, systems, gradual

@@ -16,16 +16,6 @@
         "system"
       ],
       "last_result_hashes": [
-        "46a56982536c8a4f9801b7d471165b39",
-        "9f7e1fec79e2115cd40e5eb8dfba1415",
-        "42cf55c9cc698cf434d8e7110d7beb46",
-        "8282bc38c31cae78de009daeeac96471",
-        "23922454763b5dfcf23d19a91e27dad2",
-        "1885661cefe9c39654b0f1458625c8e0",
-        "db4c79ae6fa8d43737e5bb18c28b1f9e",
-        "bd203c953ea79db29ce92d6266619899",
-        "a40294688ad70da092e0bc9f34fd505e",
-        "c2d501a71422ea7c7b0a0445421690cb",
         "a1c0d6a24c619a383c01caf6e5633f93",
         "289265e8e8358de4a380a35a87fbc143",
         "d3099c6517032e4d8a49b61853da6add",
@@ -35,9 +25,19 @@
         "55131e24161bc5b96e889d6a3a8bf3a1",
         "5eaf416e7e8e5b8f33febe73efdf5511",
         "872170a28a919ad85b281b812c0451b6",
-        "4493db04174fb52c7b4a8bed0a3bc5ca"
+        "4493db04174fb52c7b4a8bed0a3bc5ca",
+        "7ada9c496017a8b9bf8183716cd7e6fd",
+        "e61061e4c00189833ef99234e250341f",
+        "27aae0ec73db3f1c68d8633bae7f1007",
+        "437d3e48eaea63b6ea4dee10f17fbfc3",
+        "4ab0a2ddf18264d4a022c029d9ec2e59",
+        "32f922c22447829f17e0d646c801cb86",
+        "749d8bd03cb99bf95d2bec292cdebdb5",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "36ad9437021fb29d03282722099eb5ea",
+        "29d9d22375431d934e08fb45f08c851d"
       ],
-      "last_run": "2026-06-11T12:48:02.627364+00:00"
+      "last_run": "2026-06-11T13:04:01.279713+00:00"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -51,15 +51,6 @@
         "compilation"
       ],
       "last_result_hashes": [
-        "46047667f85453525404b37598767ca8",
-        "b86eb07f5a984fccae1bb38c4d48f846",
-        "58df89b33764277cd757c9951d9fc204",
-        "54d4017e54664c29e143a57591a6e2ca",
-        "7c05e3bdd14a3f5eb2b69a912ee86597",
-        "2a2648faa0962b3187008bc9413ec4ec",
-        "85875fa4aeb3a7c10187eaf8cc0cac2f",
-        "0e37ea17fc9a69e116e589e0bc7f8c79",
-        "8eb744ef42c96851849682b2cd8d776c",
         "e9e67be0c6dd6a7cac669500d0f5dad5",
         "b73f61021a3a8ece47ea6a576d429ed6",
         "0a5349e49f5f2ba711665bbaab2d441e",
@@ -70,9 +61,18 @@
         "c6982ba3f2387fa7efa4b53444c6c85e",
         "0b9fdebb91951fec7fc46cd50677c61e",
         "3779681a8c39b9335f139079aacf0b7d",
-        "ec8bcf1589391af5f16bb8240fa2d699"
+        "ec8bcf1589391af5f16bb8240fa2d699",
+        "bbbc8ef4ec78630cae3e49219b742618",
+        "0d5f42cea0bd3526c43c8ca74e739e10",
+        "e96a5a0b15c49cbffbca1b81f75160f9",
+        "9c3d23ead01da5594b699fbf81014987",
+        "a7e361fe8d21f8365bf6c13fe108c139",
+        "e87504e4b6395eb48881ff6a6a847dab",
+        "b6a23b1459900f8d9e8d928a56c0a28b",
+        "4a27394d938e809100125085b9882946",
+        "30733bba28b362420d85f63fcafb3f3d"
       ],
-      "last_run": "2026-06-11T12:48:02.627364+00:00"
+      "last_run": "2026-06-11T13:04:01.279713+00:00"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -87,13 +87,6 @@
         "systems"
       ],
       "last_result_hashes": [
-        "e8d38e2b42efce0ee5cdf9f16cc5f9da",
-        "f74dcb0debf2a2cea53db851214ba23e",
-        "8912fce579f884be7162a1954addc742",
-        "6a2badcfc23428269a6eb007c574b0a1",
-        "c6443d4d2bad9c002c68da64e59ac377",
-        "3b79a0c42a390067d0af7e41d0354072",
-        "5b2a310af3624fe5c8840aaca4c5f195",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6",
         "49fe76dc3ee176252b6656f85aa368fc",
         "316142506814761ab573bc265d38e756",
@@ -106,9 +99,16 @@
         "d56804b591f67b39c8fc7b7c55dea3b8",
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "e3298018c968c62f15f44f3b27511800",
-        "fb0a79f63ee1b5966b0f6fed8a7c6862"
+        "fb0a79f63ee1b5966b0f6fed8a7c6862",
+        "099a222c875864957d1cacc3a819cab9",
+        "98a25f82aa01c6e3086793f3280a92b9",
+        "ed513f6e12395c8fbbf5e5415449aabd",
+        "7abb24654211fd38ddedcd2bff75f513",
+        "afb608ed1ddd2955e9d81232dd8b6383",
+        "4a1bf7bf0062edce6ba48dc2be42137f",
+        "eebfa6654fe0f338a7109606429fee8a"
       ],
-      "last_run": "2026-06-11T12:48:02.627364+00:00"
+      "last_run": "2026-06-11T13:04:01.279713+00:00"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -122,13 +122,6 @@
         "programming"
       ],
       "last_result_hashes": [
-        "4d7c2443268b10a7146160185a1b9a5f",
-        "8b392f40f2d9484600edbc6565709ca7",
-        "321f2afa423bc3fb5f1d07351a30998f",
-        "ab1a401478bf91151df62818473f5ef5",
-        "fdc8e2b82500b598dc73a35e40bb2f1e",
-        "827f82e9e1a47b7a7ad617629e29c129",
-        "15936d537cbb6bdd3a45752166ac7bea",
         "6081ffe1d103b61486717636bbdb15da",
         "87263d948c04f336966f9d643cd0e7be",
         "9d0a225bfde129bbfa085aba60185f02",
@@ -141,9 +134,16 @@
         "7eff5c6a99bf213eccb369082948afb6",
         "59ea58662dd4d2941a6617159e617909",
         "cb3451b58dc0de64c4abaf6248054b44",
-        "2cf26801220d956b3830ede42fee83dc"
+        "2cf26801220d956b3830ede42fee83dc",
+        "c233ce094f809bd93c2f4474229feed5",
+        "d860b9149b7e68d85774f53cf9425591",
+        "56438f54e1ffea0abfae1e112ceab330",
+        "62ea2c4db66f0dbfd6bb8ead382dbd01",
+        "89d87031e449ae356f26865a02b9a13d",
+        "a4d55523d7b414d4e2d8f4e8f32bdde4",
+        "4c0642f869b24a6dd86c8846e6df9fe9"
       ],
-      "last_run": "2026-06-11T12:48:02.627364+00:00"
+      "last_run": "2026-06-11T13:04:01.279713+00:00"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -158,13 +158,6 @@
         "interview"
       ],
       "last_result_hashes": [
-        "9ee0ff0a7989241996d1764d2ecb02ab",
-        "9bae7c320eaa49023b76088f638f22f3",
-        "9130b679ba352f107fe0f2646ccab1f7",
-        "80f5dbc1ee2a18a8dad03a4b65efec46",
-        "da07850fbbddfe59913ecac0b4879947",
-        "d87d572a0d68a8c44fc6b2f8385ff892",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
         "bcbc6e8e6f12ca916d47f5c3c5470b84",
         "e9255a5eedb5fa80b2a31e39dd4170cf",
         "9890660be222e5bab74c4a0bbd1800f7",
@@ -177,9 +170,16 @@
         "f2c206702a186a56852bbd9dd35f6632",
         "51bdec45c83dc444c8040f8f04671877",
         "a8aa637f95e68642739da1bdfed78db6",
-        "54b6cb23828b8bdd89dd9ab70ff41d72"
+        "54b6cb23828b8bdd89dd9ab70ff41d72",
+        "1235c5b5d3939bfc1c549f79f64c89ef",
+        "14746330222a6bf3453f846400cc4a9e",
+        "4b6b6da228e1ba29c80d458ad2fed223",
+        "f0ce87a139995575790805ef09f430e1",
+        "87fdd10f9284c76e890f3862021871c8",
+        "1a32ac8a05f900ddba60cd07aaf833be",
+        "6f6b85e75457a036b6b42456a68971bc"
       ],
-      "last_run": "2026-06-11T12:48:02.627364+00:00"
+      "last_run": "2026-06-11T13:04:01.279713+00:00"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -195,15 +195,6 @@
         "management"
       ],
       "last_result_hashes": [
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "beaef31893811bf93a7c49c5427531ec",
-        "e99ba46e4802467985ff45fdb3856688",
-        "03e9423b802e0456d3fe98220b76ea3a",
-        "559a341af4a3126b2019d5574ab2c524",
-        "96f4728874233918b107c7125f2b30d0",
-        "b3593c9f59eca4f8b6263b3a3f35c76d",
-        "feddcc16ba95e437f298d35363840203",
         "edbe8d53f6ed4174d20b8c4ee8d3dea4",
         "9846b1c6dbe674a599b727652423c56f",
         "343ee2ea3c7bd5c5bb4c13c55f709fcf",
@@ -214,9 +205,18 @@
         "9a16abe455aad8976504790293f8762a",
         "d1d795024c23aeaebc01391f203e46ad",
         "7a22e39edcc1a7f595a2f574a9a641fa",
-        "b48a4a9a405e93c83b84e720f03ef19f"
+        "b48a4a9a405e93c83b84e720f03ef19f",
+        "f7f6243b9d9a4a96b54a33522ed861e0",
+        "1b276ea0849527534b5a795b41f27b34",
+        "3e64084d346c5608cad2311ca2521d13",
+        "0a80a06b5edaef4c1728a9fc3ddf29e6",
+        "cc1169f3086a93320da59573f7fa5861",
+        "283fb39044b34bfe8a95f13934557e72",
+        "40b93289a799f65ad4d949b81e8606fd",
+        "7f95f5726ca21c64f0c4c0e0620eed1a",
+        "933e39fa3cec679e5f8002e7a15014a7"
       ],
-      "last_run": "2026-06-11T12:48:02.627364+00:00"
+      "last_run": "2026-06-11T13:04:01.279713+00:00"
     }
   }
 }

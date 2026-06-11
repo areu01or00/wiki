@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: system-design
+- **2026-06-11** | [Distributed System Design Patterns: A Practitioner's Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: system-design
+- **2026-06-11** | [Patterns of Distributed Systems](https://www.cb-india.com/books/computer-science/distributed-computing/patterns-of-distributed-systems) | kw: system-design
+- **2026-06-11** | [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=BO761Fj6HH8) | kw: system-design
+- **2026-06-11** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: system-design
+- **2026-06-11** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system-design
+- **2026-06-11** | [Distributed Systems Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-11** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: system-design
+- **2026-06-11** | [Distributed architecture patterns | Cloud Architecture Center](https://docs.cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/distributed-patterns) | kw: system-design
+
 - **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system, design, distributed
 - **2026-06-11** | [Coordination Patterns - Architecture Insights](https://stevenstuartm.com/study-guides/architecture/coordination_patterns.html) | kw: system, design, distributed
 - **2026-06-11** | [Distributed System Design Patterns: A Practitioners ...](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: system, design, distributed

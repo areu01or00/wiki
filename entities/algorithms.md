@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Problem List - LeetCode (Amazon)](http://leetcode.com/company/amazon) | kw: algorithms
+- **2026-06-11** | [10+ Best Automated Interview Software Tools in 2026](https://www.peoplebox.ai/blog/automated-interview-software) | kw: algorithms
+- **2026-06-11** | [Top 100 DSA Interview Questions - LeetCode Discuss](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: algorithms
+- **2026-06-11** | [Google LeetCode Interview Questions (2025)](https://www.hackmnc.com/companies/google/leetcode-interview-questions) | kw: algorithms
+- **2026-06-11** | [Leetcode-Data-Structures-Algorithms - GitHub](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: algorithms
+- **2026-06-11** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150) | kw: algorithms
+- **2026-06-11** | [Top 30 Data Structure Interview Questions and Answers for 2026](https://www.datacamp.com/blog/data-structure-interview-questions) | kw: algorithms
+
 - **2026-06-11** | [Top Classic Data Structures Problems Codeforces](https://codeforces.com/blog/entry/79755) | kw: algorithms, data, structures
 - **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: algorithms, data, structures
 - **2026-06-11** | [Data structures and algorithms study cheatsheets for coding interviews | Tech In](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms, data, structures

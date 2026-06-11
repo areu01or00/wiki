@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-11** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-06-11** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: compilers
+- **2026-06-11** | [JIT compiler for expressions - PostgreSQL](https://www.postgresql.org/message-id/CADviLuNjQTh99o6E0LTi0Ygks=naW8SXHmgn=8P+aaBXKXa0pA@mail.gmail.com) | kw: compilers
+- **2026-06-11** | [PEP 774 - Removing the LLVM requirement for JIT builds](https://peps.python.org/pep-0774/) | kw: compilers
+- **2026-06-11** | [Implementing a JIT Compiler with Haskell and LLVM](https://smunix.github.io/www.stephendiehl.com/llvm/index.html) | kw: compilers
+- **2026-06-11** | [Unlock the Power of LLVM JIT APIs with ORC: A Comprehensive Overview](https://www.toolify.ai/ai-news/unlock-the-power-of-llvm-jit-apis-with-orc-a-comprehensive-overview-691569) | kw: compilers
+- **2026-06-11** | [I want to understand what is JIT compilers and how do they work](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
+- **2026-06-11** | [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault) | kw: compilers
+
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, llvm, jit
 - **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language wit](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers, llvm, jit
 - **2026-06-11** | [JIT compiler for expressions - PostgreSQL](https://www.postgresql.org/message-id/CADviLuNjQTh99o6E0LTi0Ygks%3DnaW8SXHmgn%3D8P%2BaaBXKXa0pA%40mail.gmail.com) | kw: compilers, llvm, jit

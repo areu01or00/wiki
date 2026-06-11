@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: functional-programming
+- **2026-06-11** | [Understanding Monads - Nick Hu](https://nickx.hu/Monads.pdf) | kw: functional-programming
+- **2026-06-11** | [Haskell/Understanding monads - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Understanding_monads) | kw: functional-programming
+- **2026-06-11** | [Haskell - Monads - TutorialsPoint](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: functional-programming
+- **2026-06-11** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: functional-programming
+- **2026-06-11** | [All About Monads - HaskellWiki (alt)](https://www.haskell.org/haskellwiki/All_about_monads) | kw: functional-programming
+- **2026-06-11** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+
 - **2026-06-11** | [Monads · OCaml Documentation](https://ocaml.org/docs/monads) | kw: functional, programming, monads
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional, programming, monads
 - **2026-06-11** | [12.3. Monads · Functional Programming in OCaml](https://courses.cs.cornell.edu/cs3110/2021sp/textbook/adv/monads.html) | kw: functional, programming, monads
