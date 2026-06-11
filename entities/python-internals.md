@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: GIL, memory management
+- **2026-06-11** | [What is the GIL in Python and Why Should You Care?](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | kw: GIL, memory management
+- **2026-06-11** | [Python Memory Management Internals](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: GIL, memory management
+- **2026-06-11** | [The Evolution of Python's Memory Management](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: GIL, memory management
+- **2026-06-11** | [Python Global Interpreter Lock Tutorial](https://www.datacamp.com/tutorial/python-global-interpreter-lock) | kw: GIL, memory management
+- **2026-06-11** | [The Python Global Interpreter Lock - Explained](https://www.youtube.com/watch?v=XVcRQ6T9RHo) | kw: GIL, memory management
+
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
 - **2026-06-11** | [Python GIL (Global Interpreter Lock) Explained - A Complete Guide](https://codesamplez.com/programming/python-gil) | kw: GIL, python, gil
 - **2026-06-11** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, memory management, memory

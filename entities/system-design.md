@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Distributed System Design Patterns: A Practitioner's Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: distributed systems, architecture
+- **2026-06-11** | [The Future of Distributed Systems: Trends and Predictions](https://www.linkedin.com/pulse/future-distributed-systems-trends-predictions-kabir-khalil-7mjqe) | kw: distributed systems, architecture
+- **2026-06-11** | [The Future of Distributed Systems: Trends and Opportunities](https://www.linkedin.com/posts/colinbreck_predicting-the-future-of-distributed-systems-activity-7355339000355737600-1GCT) | kw: distributed systems, architecture
+- **2026-06-11** | [Four Distributed Systems Architectural Patterns by Tim Berglund - YouTube](https://www.youtube.com/watch?v=BO761Fj6HH8) | kw: distributed systems, architecture
+- **2026-06-11** | [SRDS 2026](https://srds-conference.org/) | kw: distributed systems, architecture
+- **2026-06-11** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: distributed systems, architecture
+- **2026-06-11** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: distributed systems, architecture
+
 - **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: distributed systems, patterns, systems
 - **2026-06-11** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, patterns, architecture
 - **2026-06-11** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: design, patterns, architecture

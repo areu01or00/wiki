@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Sanjoy Das](http://sanjoy.link/) | kw: LLVM, JIT
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, JIT
+- **2026-06-11** | [@noble/hashes - npm](https://www.npmjs.com/package/%40noble/hashes) | kw: LLVM, JIT
+- **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT ...)](https://forum.nim-lang.org/t/9794) | kw: LLVM, JIT
+- **2026-06-11** | [I want to understand what is JIT compilers and how do they work.](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: LLVM, JIT
+
 - **2026-06-11** | [Building a JIT: Starting out with KaleidoscopeJIT](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
 - **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT)](https://forum.nim-lang.org/t/9794) | kw: LLVM
 - **2026-06-11** | [I want to understand what is JIT compilers and how do they work](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
