@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: monads, Haskell
+- **2026-06-11** | [Monads and Programming | Good Math/Bad Math](http://www.goodmath.org/blog/2012/08/19/monads-and-programming) | kw: monads
+
 - **2026-06-11** | [Learning Monads by Example - Diego Vicente](https://diego.codes/post/learning-monads) | kw: monads, Haskell
 - **2026-06-11** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell, Rust, Gleam
 - **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: monads

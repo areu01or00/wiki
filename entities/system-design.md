@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: distributed systems, architecture, GIL
+- **2026-06-11** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: distributed systems, microservices, architecture
+- **2026-06-11** | [2026 Data Architecture, Data Governance, and AI Trends & Predictions | Cloudera](https://www.cloudera.com/blog/business/2026-predictions-the-architecture-governance-and-ai-trends-every-enterprise-must-prepare-for.html) | kw: architecture
+- **2026-06-11** | [Trends in Distributed Systems Overview | PDF](https://www.scribd.com/presentation/638622204/Untitled) | kw: distributed systems
+- **2026-06-11** | [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html) | kw: microservices, architecture, patterns
+
 - **2026-06-11** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: serverless, FinOps
 - **2026-06-11** | [The 7 Architecture Patterns Every IT Head Should Revisit in 2026](https://www.linkedin.com/pulse/7-architecture-patterns-every-head-should-revisit-2026-b5y3f) | kw: architecture patterns
 - **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, circuit breaker, gossip protocol

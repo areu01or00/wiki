@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python 3.15 JIT Performance and pandas 3.0 Breaking Changes](https://explore.n1n.ai/blog/python-3-15-jit-performance-pandas-3-breaking-changes-2026-02-12) | kw: JIT
+- **2026-06-11** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques/) | kw: memory management
+- **2026-06-11** | [Why Python Multiprocessing Can Be Slower Than Single-Threaded ...](https://www.w3tutorials.net/blog/python-using-multiprocess-is-slower-than-not-using-it) | kw: general
+- **2026-06-11** | [Python Memory Management and GIL. Python Untold](https://python.plainenglish.io/python-untold-976da8cf2006) | kw: GIL, memory management
+
 - **2026-06-11** | [Python Memory Management](https://pythonguides.com/python-object-memory-management/) | kw: memory management, PyMalloc
 - **2026-06-11** | [Python Memory Management Masterclass: Garbage Collection, Slots, and WeakRefs](https://logicandlegacy.blogspot.com/2026/03/python-memory-management-masterclass.html) | kw: CPython, memory management, __slots__
 - **2026-06-11** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: GIL, CPython, Python 3.13
