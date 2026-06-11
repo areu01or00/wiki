@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [An Introduction to Functors and Monads in JavaScript - YouTube](https://www.youtube.com/watch?v=YkQLWAJCmKg) | kw: monads
+- **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads, Haskell, Rust patterns
+- **2026-06-11** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional idioms
+- **2026-06-11** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Rust patterns, functional idioms
+- **2026-06-11** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: monads, Rust patterns
+
 
 - **2026-06-11** | [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/) | kw: Rust patterns
 - **2026-06-11** | [Project goals update — April 2026 (end of 2025H2) | Rust Blog](https://blog.rust-lang.org/2026/05/18/project-goals-2026-04/) | kw: Rust patterns

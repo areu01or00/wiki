@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT compilation, LLVM
+- **2026-06-11** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: compilers
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation, LLVM
+- **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
+
 
 - **2026-06-11** | [The LLVM Compiler Infrastructure Project - LLVM.org](https://llvm.org/devmtg/2026-01/) | kw: LLVM
 - **2026-06-11** | [Optimizing Compilers Are Not Any More Likely To Be Error-Free ...](https://www.linkedin.com/pulse/optimizing-compilers-any-more-likely-error-free-than-when-silverman-qvhbe) | kw: compilers

@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing
+- **2026-06-11** | [How to Evaluate the Performance of Gradual Type Systems - Jan Vitek](https://janvitek.org/pubs/jfp18.pdf) | kw: gradual typing, type inference
+- **2026-06-11** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type inference
+- **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing
+- **2026-06-11** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: gradual typing
+
 
 - **2026-06-11** | [Announcing TypeScript 6.0 - devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/) | kw: TypeScript
 

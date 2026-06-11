@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: DSA roadmap
+- **2026-06-11** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: coding interviews
+- **2026-06-11** | [JimengShi/Leetcode-Data-Structures-Algorithms - GitHub](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: algorithms
+
 
 - **2026-06-11** | [I grinded NeetCode 150 so you don't have to. - Medium](https://medium.com/@codegrey/i-grinded-neetcode-150-so-you-dont-have-to-218cfa405154) | kw: algorithms
 - **2026-06-11** | [NeetCode Review: Pros, Cons & Final Verdict - Lodely](https://www.lodely.com/blog/neetcode-review) | kw: algorithms
