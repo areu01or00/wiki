@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad/) | kw: new
+- **2026-06-11** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: new
+- **2026-06-11** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: new
+
 - **2026-06-11** | [What are monads in functional programming and why are they useful? - Quora](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful-Are-they-a-generic-solution-to-the-problem-of-state-in-FP-or-Haskell-specific-Are-they-specific-to-Haskell-or-are-they-encountered-in-other-FP-languages) | kw: monads, Haskell
 - **2026-06-11** | [Functional programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming) | kw: monads, Haskell
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: monads, Haskell

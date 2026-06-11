@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: new
+- **2026-06-11** | [Distributed System Design](https://www.researchgate.net/publication/327032979_Distributed_System_Design) | kw: new
+
 - **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, patterns
 - **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns
 - **2026-06-11** | [Distributed System Design Patterns: A Practitioner's Reference | Distributed System Authority](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: distributed systems, patterns

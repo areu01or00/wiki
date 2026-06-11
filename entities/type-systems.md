@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: new
+- **2026-06-11** | [Gradual Liquid Type Inference](https://nikivazou.github.io/static/oopsla18main-p124-p.pdf) | kw: new
+
 - **2026-06-11** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: gradual typing, type inference
 - **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, type inference
 - **2026-06-11** | [Evaluating Punctuated Equilibrium & Gradualism within Evolution Practice | Biology Practice Problems | Study.com](https://study.com/skill/practice/evaluating-punctuated-equilibrium-gradualism-within-evolution-questions.html) | kw: gradual typing, type inference
