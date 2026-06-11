@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) | kw: master, coding, interview
+- **2026-06-11** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: ultimate, leetcode, roadmap
+- **2026-06-11** | [Top 100 Data Structures Interview Questions in 2026](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: data, structures, interview
+- **2026-06-11** | [Cracking Data Structures Coding Interview | by Sathish - Medium](https://sathishsuresh.medium.com/cracking-data-structures-coding-interview-abca041dbd59) | kw: cracking, data, structures
+
 - **2026-06-11** | [Master the Coding Interview: Data Structures + Algorithms Udemy, Inc.](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) | kw: algorithms
 - **2026-06-11** | [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial - YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
 

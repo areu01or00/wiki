@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: predicting, future, distributed
+- **2026-06-11** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: architecture, styles, distributed
+- **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: modern, distributed, systems
+- **2026-06-11** | [Distributed Systems Patterns Every Backend Engineer Must Know](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: distributed, systems, patterns
+- **2026-06-11** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: guide, large, scale
+
 - **2026-06-11** | [GitHub - onurkanbakirci/saga-inbox-outbox](https://github.com/onurkanbakirci/saga-inbox-outbox) | kw: system-design
 - **2026-06-11** | [Building Self-Healing Distributed Systems: Advanced Patterns ...](https://www.mytruenerd.com/articles/building-self-healing-distributed-systems-advanced-patterns-and-fault-tolerance-mechanisms) | kw: system-design
 - **2026-06-11** | [Distributed Systems Patterns: Saga, Outbox, Idempotency Keys](https://viprasol.com/blog/distributed-systems-patterns) | kw: system-design

@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [What are monads in functional programming and why are they useful?](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful-Are-they-a-generic-solution-to-the-problem-of-state-in-FP-or-Haskell-specific-Are-they-specific-to-Haskell-or-are-they-encountered-in-other-FP-languages) | kw: what, monads, functional
+- **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: monad, (functional, programming)
+- **2026-06-11** | [Monads and Programming | Good Math/Bad Math](http://www.goodmath.org/blog/2012/08/19/monads-and-programming) | kw: monads, programming, good
+- **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: learned, monads, through
+- **2026-06-11** | [Monad | Institutions](http://monad.xyz/institutions) | kw: monad, institutions
+- **2026-06-11** | [What the Heck Are Monads?! - YouTube](https://www.youtube.com/watch?v=Q0aVbqim5pE) | kw: what, heck, monads?!
+- **2026-06-11** | [Haskell Error Handling with Monads: Mastering Maybe and Either](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/error-handling-with-monads-maybe-either) | kw: haskell, error, handling
+- **2026-06-11** | [What is MONAD? : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/13cnx5e/what_is_monad) | kw: what, monad?, r/functionalprogramming
+- **2026-06-11** | [Monad-based Programming – Lehrstuhl für Informatik 8](https://www.playfulpython.com/introducing-monads-in-functional-programming) | kw: monad, based, programming
+
 - **2026-06-11** | [Understanding Monads](https://nickx.hu/Monads.pdf) | kw: functional-programming
 - **2026-06-11** | [Monad tutorials timeline - Haskell « HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: functional-programming
 - **2026-06-11** | [Haskell/Understanding monads - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Haskell/Understanding_monads) | kw: functional-programming

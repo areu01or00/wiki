@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python-3.12 告别 GIL 锁 & 性能原地飞升！](https://cloud.tencent.com/developer/article/2219746) | kw: python, 3.12, 性能原地飞升！
+- **2026-06-11** | [Python 3.12 - What's New, Support Lifecycle & EOL - VersionLog](https://versionlog.com/python/3.12) | kw: python, 3.12, what's
+- **2026-06-11** | [What is the GIL in Python and Why Should You Care? - DEV Community](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | kw: what, python, should
+- **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL) and Its Impact on Concurrency](https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b) | kw: understanding, python's, global
+- **2026-06-11** | [The Evolution of Python's Memory Management](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: evolution, python's, memory
+
 - **2026-06-11** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: python-internals
 - **2026-06-11** | [Top 5 Ways to Overcome Python's GIL Limitations in …](https://sqlpey.com/python/top-5-ways-to-overcome-python-gil-limitations) | kw: python-internals
 
