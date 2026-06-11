@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [SRDS 2026 – SRDS 2026](https://srds-conference.org/) | kw: system-design
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [The Future of Distributed Systems: Trends and Opportunities](https://www.linkedin.com/posts/colinbreck_predicting-the-future-of-distributed-systems-activity-7355339000355737600-1GCT) | kw: distributed systems, systems, distributed
+- **2026-06-11** | [Distributed System Design Patterns: A Practitioner's Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: design, patterns, distributed
+- **2026-06-11** | [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html) | kw: architecture
+- **2026-06-11** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, patterns, architecture
+- **2026-06-11** | [Microservices Design Patterns for Cloud Architecture](https://ieeechicago.org/microservices-design-patterns-for-cloud-architecture) | kw: design, patterns, architecture
+
 - **2026-06-11** | [Patterns - Architecture Culture](http://patterns.work/) | kw: load balancing
 - **2026-06-11** | [Distributed System Design ResearchGate](https://www.researchgate.net/publication/327032979_Distributed_System_Design) | kw: load balancing
 - **2026-06-11** | [The Future of Distributed Systems: Trends and Predictions](https://www.linkedin.com/pulse/future-distributed-systems-trends-predictions-kabir-khalil-7mjqe) | kw: load balancing

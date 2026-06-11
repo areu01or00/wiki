@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Your guide to reducing Python memory usage - Honeybadger](https://www.honeybadger.io/blog/reducing-your-python-apps-memory-footprint) | kw: memory, python
+- **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [What is the GIL in Python and Why Should You Care?](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | kw: GIL, python, gil
+- **2026-06-11** | [Python Global Interpreter Lock Tutorial](https://www.datacamp.com/tutorial/python-global-interpreter-lock) | kw: python
+- **2026-06-11** | [The Evolution of Python's Memory Management](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: memory management, memory, python
+- **2026-06-11** | [Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory management, memory, python
+- **2026-06-11** | [Python Memory Management and GIL. Python Untold](https://python.plainenglish.io/python-untold-976da8cf2006) | kw: GIL, memory management, memory
+
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL
 - **2026-06-11** | [Why Python Multiprocessing Can Be Slower Than Single-Threaded](https://www.w3tutorials.net/blog/python-using-multiprocess-is-slower-than-not-using-it) | kw: GIL
 - **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken and Why It Might Not Matter](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL

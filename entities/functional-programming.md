@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: monads, Haskell, haskell
+- **2026-06-11** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: monads, Haskell, haskell
+- **2026-06-11** | [Iterators & Closures: The Functional Powerhouse](https://yafi.hashnode.dev/iterators-closures-the-functional-powerhouse) | kw: functional
+- **2026-06-11** | [Iterators & Functional Programming - Rust Course 2026](https://bar9.github.io/rust-course-2026-03-05/day2/11_iterators.html) | kw: functional, programming, rust
+- **2026-06-11** | [Functional Language Features: Iterators and Closures - The Rust Programming Language](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch13-00-functional-features.html) | kw: functional, programming, rust
+- **2026-06-11** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: monads, Haskell, haskell
+- **2026-06-11** | [Functional Programming using Rust | CoderHack.com](https://medium.com/coderhack-com/functional-programming-using-rust-3776c10cfc6) | kw: functional, programming, rust
+- **2026-06-11** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads, Haskell, haskell
+- **2026-06-11** | [Haskell/Advanced monads Wikibooks](https://en.wikibooks.org/wiki/Haskell/Advanced_monads) | kw: monads, Haskell, haskell
+
 - **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads
 - **2026-06-11** | [A gentle introduction to monads. Monads?](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: monads
 - **2026-06-11** | [The Practical Value of Functional Programming — Monad...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads

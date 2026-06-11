@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: leetcode, interview, LeetCode
+- **2026-06-11** | [GitHub - JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: leetcode, algorithms, structures
+- **2026-06-11** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: coding interviews, algorithms, structures
+- **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: algorithms, structures, data structures
+- **2026-06-11** | [GitHub - Devinterview-io/data-structures-interview-questions](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: structures, interview
+- **2026-06-11** | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) | kw: algorithms, structures, interview
+
 - **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: dynamic programming
 - **2026-06-11** | [Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: dynamic programming
 
