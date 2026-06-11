@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode
+- **2026-06-11** | [GitHub - JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: LeetCode
+
 - **2026-06-11** | [Top Classic Data Structures Problems - Codeforces](https://codeforces.com/blog/entry/79755) | kw: data structures, classic problems, competitive programming
 - **2026-06-11** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: DSA, interview questions, LeetCode
 

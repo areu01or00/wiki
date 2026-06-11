@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL
+- **2026-06-11** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL
+
 - **2026-06-11** | [Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory management, CPython, allocation
 - **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, concurrency
 - **2026-06-11** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: GIL-less Python, PEP 703, benchmarks

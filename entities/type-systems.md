@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Gradual typing with unification-based inference](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: gradual typing
+
 - **2026-06-11** | [Elixir 1.20 adds type inference, boosts compilation speed, and debuts new compiler options](https://alternativeto.net/news/2026/6/elixir-1-20-adds-type-inference-boosts-compilation-speed-and-debuts-new-compiler-options/) | kw: Elixir 1.20, type inference, gradual typing
 - **2026-06-11** | [[PDF] How to Evaluate the Performance of Gradual Type Systems - Jan Vitek](https://janvitek.org/pubs/jfp18.pdf) | kw: gradual typing, performance, evaluation
 

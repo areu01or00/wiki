@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads
+- **2026-06-11** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell
+
 - **2026-06-11** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: monads, Haskell, tutorial
 - **2026-06-11** | [Haskell/Advanced monads - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Advanced_monads) | kw: monads, Haskell, advanced
 
