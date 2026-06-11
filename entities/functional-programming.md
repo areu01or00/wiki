@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: functional, programming
+- **2026-06-11** | [What are monads in functional programming?](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful-Are-they-a-generic-solution-to-the-problem-of-state-in-FP-or-Haskell-specific-Are-they-specific-to-Haskell-or-are-they-encountered-in-other-FP-languages) | kw: monads, functional, programming
+
 - **2026-06-11** | [Understanding Monads - CodeSignal Learn](https://codesignal.com/learn/courses/advanced-functional-programming-techniques/lessons/understanding-monads) | kw: understanding, monads, codesignal
 - **2026-06-11** | [Functional Programming in 2026: Haskell vs Gleam vs Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional, programming, 2026:
 - **2026-06-11** | [The Practical Value of Functional Programming - Monad, Haskell, Elixir, Gleam](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: practical, value, functional

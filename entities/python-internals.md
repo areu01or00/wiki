@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Memory Management in Python](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory management, memory, python
+- **2026-06-11** | [Python - Python Internals: Memory Management & the GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL)](https://dev.to/ohdylan/understanding-pythons-global-interpreter-lock-gil-mechanism-benefits-and-limitations-4aha) | kw: GIL, python, gil
+- **2026-06-11** | [CPython-Internals memory management](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: memory management, memory, python
+
 - **2026-06-11** | [Memory Management in Python - Honeybadger](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory, management, python
 - **2026-06-11** | [Working around the Global Interpreter Lock (GIL)](https://dev.tut.github.io/python/working-around-the-global-interpreter-lock-gil.html) | kw: working, around, global
 - **2026-06-11** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: thread, states, global

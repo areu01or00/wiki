@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Making software scale better with modern design patterns](https://upsun.com/blog/software-design-patterns) | kw: design, patterns
+- **2026-06-11** | [Software Architecture: Distributed Systems](https://medium.com/@barbieri.santiago/software-architecture-distributed-systems-78c87222e4ed) | kw: distributed systems, architecture, systems
+- **2026-06-11** | [Distributed System Design Patterns: A Practitioner's Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: design, patterns, distributed
+
 - **2026-06-11** | [Cloud-native architecture patterns - practical responses to distributed systems ](https://iamachs.com/blog/cloud-design-patterns/introduction-cloud-native-architecture-patterns) | kw: cloud-native, architecture, patterns
 - **2026-06-11** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: future, system, design:
 - **2026-06-11** | [SRDS 2026 - 45th International Symposium on Reliable Distributed Systems](https://srds-conference.org/) | kw: srds, 2026, 45th

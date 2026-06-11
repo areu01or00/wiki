@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: compilers
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, compilers
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: LLVM
+
 - **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: just-in-time, (jit), compiler
 - **2026-06-11** | [Perry - Native TypeScript Compiler via LLVM 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: perry, native, typescript
 - **2026-06-11** | [The state of GPU codegen with Nim (LLVM JIT)](https://forum.nim-lang.org/t/9794) | kw: state, codegen, with
