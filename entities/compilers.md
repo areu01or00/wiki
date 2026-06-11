@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, compilers
+- **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM
+- **2026-06-11** | [Catalyst - PennyLane JIT compilation](http://docs.pennylane.ai/projects/catalyst/en/stable/index.html) | kw: JIT compilation, compilation
+- **2026-06-11** | [An Empirical Analysis of Just-in-Time Compilation in Modern Databases](https://arxiv.org/abs/2311.04692) | kw: compilation
+
 - **2026-06-11** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: JIT compilation, LLVM
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, JIT compilation, LLVM
 - **2026-06-11** | [Python JIT compiler project under threat after steering council](https://article.wn.com/view-lemonde/2026/06/08/Python_JIT_compiler_project_under_threat_after_steering_coun/) | kw: JIT compilation

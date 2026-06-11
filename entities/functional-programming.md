@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional, programming
+- **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: functional, programming
+- **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads, Haskell, rust
+- **2026-06-11** | [Monads · Functional Programming in OCaml](https://courses.cs.cornell.edu/cs3110/2021sp/textbook/adv/monads.html) | kw: monads, functional, programming
+- **2026-06-11** | [An Introduction to Functors and Monads in JavaScript](https://www.youtube.com/watch?v=YkQLWAJCmKg) | kw: monads
+- **2026-06-11** | [What is MONAD? : r/functionalprogramming](https://www.reddit.com/r/functionalprogramming/comments/13cnx5e/what_is_monad) | kw: functional, programming
+
 - **2026-06-11** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Haskell, rust, monads
 - **2026-06-11** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: functional idioms, programming, functional
 - **2026-06-11** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional idioms, programming, functional

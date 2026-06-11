@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [800+ System Architecture Online Courses for 2026](https://www.classcentral.com/subject/system-architecture) | kw: architecture, system
+- **2026-06-11** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, patterns, architecture
+- **2026-06-11** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: distributed systems, architecture, systems
+- **2026-06-11** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: distributed systems, patterns, architecture
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=BO761Fj6HH8) | kw: distributed systems, patterns, systems
+- **2026-06-11** | [Distributed architecture patterns | Cloud Architecture Center](https://docs.cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/distributed-patterns) | kw: patterns, architecture, distributed
+
 - **2026-06-11** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: distributed systems, system, distributed
 - **2026-06-11** | [800+ System Architecture Online Courses for 2026](https://www.classcentral.com/subject/system-architecture) | kw: system, architecture
 - **2026-06-11** | [Design patterns in distributed system](https://www.slideshare.net/slideshow/design-patterns-in-distributed-system/66719846) | kw: patterns, design, distributed systems

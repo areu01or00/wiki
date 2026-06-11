@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: interview
+- **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: interview
+- **2026-06-11** | [Top 100 Data Structures Interview Questions in 2026](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: structures, interview
+- **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: algorithms, structures
+- **2026-06-11** | [I need a concise list of data structures and algorithms for LeetCode](https://www.reddit.com/r/leetcode/comments/179bg3w/i_need_a_concise_list_of_data_structures_and) | kw: leetcode, algorithms, structures
+- **2026-06-11** | [Cracking Data Structures Coding Interview](https://sathishsuresh.medium.com/cracking-data-structures-coding-interview-abca041dbd59) | kw: structures, interview
+
 - **2026-06-11** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: coding interviews, interview, leetcode
 - **2026-06-11** | [Leetcode-Style Interviews - InterviewGuide.dev](https://interviewguide.dev/leetcode) | kw: coding interviews, interview, leetcode
 - **2026-06-11** | [25 Leetcode Patterns That Cover Over 80% of Interview Problems](https://www.linkedin.com/posts/aman-kumar-882335194_25-leetcode-patterns-that-cover-over-80-activity-7370673719658086400-aO0q) | kw: interview, leetcode

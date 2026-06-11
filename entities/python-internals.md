@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
+- **2026-06-11** | [Your guide to reducing Python memory usage](https://www.honeybadger.io/blog/reducing-your-python-apps-memory-footprint) | kw: memory, python
+- **2026-06-11** | [What Is Python Memory Management? | Coursera](https://www.coursera.org/articles/python-memory-management) | kw: memory management, memory, python
+- **2026-06-11** | [CPython-Internals/memory_management.md](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: memory, python, internals
+
 - **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python, internals, free-threaded Python
 - **2026-06-11** | [CPython-Internals/Interpreter/memory_management/memory_management.md](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: python, internals, free-threaded Python
 - **2026-06-11** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python, internals, free-threaded Python
