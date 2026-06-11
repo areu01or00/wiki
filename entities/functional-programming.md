@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [What the Heck Are Monads?!](https://www.youtube.com/watch?v=Q0aVbqim5pE) | kw: What the Heck Are Monads?!
+- **2026-06-11** | [What are monads in functional programming](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful) | kw: What are monads in functional programmin
+- **2026-06-11** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell 
+- **2026-06-11** | [What is MONAD? - r/functionalprogramming](https://www.reddit.com/r/functionalprogramming/comments/13cnx5e/what_is_monad) | kw: What is MONAD?
+- **2026-06-11** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Progra
+
 - **2026-06-11** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: monads, Haskell
 - **2026-06-11** | [Monads and Programming | Good Math/Bad Math](http://www.goodmath.org/blog/2012/08/19/monads-and-programming) | kw: monads
 

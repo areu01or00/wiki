@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 Turbofan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes
+- **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry
+- **2026-06-11** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM: The Future of Com
+- **2026-06-11** | [Building a JIT with LLVM ORC APIs](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building a JIT with LLVM ORC APIs
+- **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT)](https://forum.nim-lang.org/t/9794) | kw: The state of GPU codegen with Nim (bonus
+
 - **2026-06-11** | [Announcing an Open Source LLVM toolchain for Snapdragon CPUs and MCUs](https://www.qualcomm.com/developer/blog/2026/04/announcing-an-open-source-llvm-toolchain-for-snapdragon-cpus-mcus) | kw: LLVM
 
 - **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: LLVM

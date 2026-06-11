@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150/) | kw: Top Interview 150
+- **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Alg
+- **2026-06-11** | [LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode Alone Won't Save You in 2026
+- **2026-06-11** | [NeetCode - Coding Interview Prep](https://neetcode.io/) | kw: NeetCode
+- **2026-06-11** | [Most Asked Questions - Interview Questions | DSA](https://workat.tech/problem-solving/lists/most-asked-questions/practice) | kw: Most Asked Questions
+- **2026-06-11** | [Data Structures & Algorithms in Java + 150 Leetcode Problems](https://www.udemy.com/course/mastering-leetcode-in-java-top-100-most-asked-problems) | kw: Data Structures & Algorithms in Java + 1
+- **2026-06-11** | [Leetcode-Data-Structures-Algorithms - GitHub](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: Leetcode-Data-Structures-Algorithms
+
 - **2026-06-11** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: LeetCode
 - **2026-06-11** | [Data structures and algorithms study cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: general
 - **2026-06-11** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: LeetCode

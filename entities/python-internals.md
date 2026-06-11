@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [The Evolution of Python's Memory Management](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: The Evolution of Python's Memory Managem
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: The Future of Python Internals: Explorin
+- **2026-06-11** | [Memory Management in Python](https://www.honeybadger.io/blog/memory-management-in-python) | kw: Memory Management in Python
+- **2026-06-11** | [Bypassing the GIL for Parallel Processing in Python](https://realpython.com/python-parallel-processing) | kw: Bypassing the GIL for Parallel Processin
+- **2026-06-11** | [Python 3.14 Free-Threading - True Parallelism Without the GIL](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: Python 3.14 Free-Threading
+- **2026-06-11** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: Impact of GIL-less Cpython on Performanc
+- **2026-06-11** | [Python Memory Management and GIL - Python Untold](https://python.plainenglish.io/python-untold-976da8cf2006) | kw: Python Memory Management and GIL
+- **2026-06-11** | [Beyond the Script: The Intelligent Evolution of Python Automation in 2026](https://dev.to/codingmavrick/beyond-the-script-the-intelligent-evolution-of-python-automation-in-2026-5b6l) | kw: Beyond the Script: The Intelligent Evolu
+- **2026-06-11** | [Mastering Python Concurrency: The Truth About the GIL](https://www.linkedin.com/pulse/mastering-python-concurrency-truth-gil-farid-el-aouadi-8ewfe) | kw: Mastering Python Concurrency: The Truth 
+- **2026-06-11** | [Python In-Depth - Memory Management in Python (GIL and Profiling)](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Python In-Depth
+
 - **2026-06-11** | [Python 3.15 JIT Performance and pandas 3.0 Breaking Changes](https://explore.n1n.ai/blog/python-3-15-jit-performance-pandas-3-breaking-changes-2026-02-12) | kw: JIT
 - **2026-06-11** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques/) | kw: memory management
 - **2026-06-11** | [Why Python Multiprocessing Can Be Slower Than Single-Threaded ...](https://www.w3tutorials.net/blog/python-using-multiprocess-is-slower-than-not-using-it) | kw: general
