@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Understanding Monads | CodeSignal Learn](https://codesignal.com/learn/courses/advanced-functional-programming-techniques/lessons/understanding-monads) | kw: monads
+- **2026-06-11** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads
+- **2026-06-11** | [What are monads in functional programming and why are they useful?](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful-Are-they-a-generic-solution-to-the-problem-of-state-in-FP-or-Haskell-specific-Are-they-specific-to-Haskell-or-are-they-encountered-in-other-FP-languages) | kw: monads
+- **2026-06-11** | [Comparing Haskell and Rust: which to choose, when?](https://www.reddit.com/r/haskell/comments/47rjr4/comparing_haskell_and_rust_which_to_choose_when) | kw: Haskell
+
 - **2026-06-11** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: monads, Haskell, functional
 - **2026-06-11** | [monadify — Rust utility](https://lib.rs/crates/monadify) | kw: monads, functional, programming
 - **2026-06-11** | [A Comprehensive Guide to Monads](https://medium.com/codex/a-comprehensive-guide-to-monads-211eb6c71066) | kw: monads

@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Python 3.14 Free-Threading - True Parallelism Without the GIL | Edgar Montano](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: Python 3.14
+- **2026-06-11** | [Python In-Depth — Memory Management in Python (GIL and Profiling) | by Arjun Dahal | Medium](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: memory management
+- **2026-06-11** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management
+- **2026-06-11** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory management
+- **2026-06-11** | [Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: memory management
+- **2026-06-11** | [Top 5 Ways to Overcome Python's GIL Limitations in …](https://sqlpey.com/python/top-5-ways-to-overcome-python-gil-limitations) | kw: GIL
+- **2026-06-11** | [Python Memory Management and GIL. Python Untold | by Puneet Gajwal](https://python.plainenglish.io/python-untold-976da8cf2006) | kw: memory management
+
 - **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL, python, internals
 - **2026-06-11** | [CPython Memory Management Internals](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: CPython internals, memory management, memory
 - **2026-06-11** | [CPython Memory Allocators: Malloc, Pymalloc, and Mimalloc](https://www.linkedin.com/posts/veldakiara_i-was-reading-about-memory-allocators-in-activity-7435680460913086465-w9XV) | kw: memory, python, CPython

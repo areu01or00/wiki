@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: algorithms
+- **2026-06-11** | [What are the top interview questions for data structures and ...](https://www.quora.com/What-are-the-top-interview-questions-for-data-structures-and-algorithms) | kw: interview questions
+- **2026-06-11** | [Data Structures and Algorithms Interview Questions - YouTube](https://www.youtube.com/watch?v=ZCnuBl7Sn5U) | kw: interview questions
+- **2026-06-11** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: interview questions
+- **2026-06-11** | [Top 100 Data Structures Interview Questions in 2026 - GitHub](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: interview questions
+
 - **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: algorithms, structures, data structures
 - **2026-06-11** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: interview, interview questions
 - **2026-06-11** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: leetcode, interview, LeetCode
