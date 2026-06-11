@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+- **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
+- **2026-06-11** | [SRDS 2026 – SRDS 2026](https://srds-conference.org/) | kw: system-design
+- **2026-06-11** | [Trends in Distributed Systems Overview | PDF | Computer Network | Internet](https://www.scribd.com/presentation/638622204/Untitled) | kw: system-design
+- **2026-06-11** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-11** | [Microservices Design Patterns for Cloud Architecture – IEEE Chicago Section](https://ieeechicago.org/microservices-design-patterns-for-cloud-architecture) | kw: system-design
+- **2026-06-11** | [Distributed Systems - InfoQ](https://www.infoq.com/distributed_systems) | kw: system-design
+- **2026-06-11** | [What are the trends in distributed systems? - Quora](https://www.quora.com/What-are-the-trends-in-distributed-systems) | kw: system-design
+- **2026-06-11** | [(PDF) The Future of Large-Scale Distributed Systems: Trends, Challenges, and Opportunities](https://www.researchgate.net/publication/390714723_The_Future_of_Large-Scale_Distributed_Systems_Trends_Challenges_and_Opportunities) | kw: system-design
+
 - **2026-06-11** | [Distributed System Design Patterns: A Practitioners Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: system-design
 - **2026-06-11** | [The Future of Distributed Systems: Trends and Opportunities](https://www.linkedin.com/posts/colinbreck_predicting-the-future-of-distributed-systems-activity-7355339000355737600-1GCT) | kw: system-design
 - **2026-06-11** | [Distributed architecture patterns | Google Cloud](https://docs.cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/distributed-patterns) | kw: system-design

@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
+- **2026-06-11** | [The Evolution of Python's Memory Management - LinkedIn](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: python-internals
+- **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
+- **2026-06-11** | [Python Memory Management and GIL. Python Untold](https://python.plainenglish.io/python-untold-976da8cf2006) | kw: python-internals
+- **2026-06-11** | [Python In-Depth — Memory Management in Python (GIL and Profiling)](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: python-internals
+- **2026-06-11** | [Global Interpreter Lock (GIL) in Python – Everything You Need to Know for Interviews](https://dev.to/imsushant12/global-interpreter-lock-gil-in-python-everything-you-need-to-know-for-interviews-5e4g) | kw: python-internals
+- **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL) and Its Impact on Concurrency](https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b) | kw: python-internals
+- **2026-06-11** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python-internals
+
 - **2026-06-11** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
 - **2026-06-11** | [Python Memory Management Internals | Medium](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
 - **2026-06-11** | [Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: python-internals

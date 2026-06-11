@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-06-11** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: compilers
+- **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
+- **2026-06-11** | [Catalyst](http://docs.pennylane.ai/projects/catalyst/en/stable/index.html) | kw: compilers
+- **2026-06-11** | [The state of GPU codegen with Nim (bonus: LLVM JIT ...](https://forum.nim-lang.org/t/9794) | kw: compilers
+- **2026-06-11** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: compilers
+- **2026-06-11** | [Numba: a LLVM-based Python JIT compiler](https://www.researchgate.net/publication/301459041_Numba_a_LLVM-based_Python_JIT_compiler) | kw: compilers
+- **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+
 - **2026-06-11** | [OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: compilers
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-11** | [PostgreSQL Tutorial: Just-in-Time Compilation (JIT)](https://www.rockdata.net/tutorial/tune-jit-compilation) | kw: compilers
