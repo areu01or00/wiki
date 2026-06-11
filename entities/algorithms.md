@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [How to Start LeetCode as a Complete Beginner (Step-by-Step Guide)](https://leetcopilot.dev/blog/how-to-start-leetcode-beginner-guide) | kw: dynamic programming, DSA roadmap
+
 - **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: dynamic programming, DSA roadmap
 - **2026-06-11** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: dynamic programming, DSA roadmap
 - **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: dynamic programming, DSA roadmap

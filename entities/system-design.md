@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Distributed Systems: Mastering the Art of Complex Computing Networks](https://dev.to/getvm/distributed-systems-mastering-the-art-of-complex-computing-networks-31pc) | kw: distributed systems
+- **2026-06-11** | [Introduction to Distributed Systems - arXiv.org](https://arxiv.org/pdf/0911.4395) | kw: distributed systems
+- **2026-06-11** | [CQRS Pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs) | kw: caching patterns
+- **2026-06-11** | [CQRS - Command Query Responsibility Segregation Design Pattern](https://www.geeksforgeeks.org/system-design/cqrs-command-query-responsibility-segregation/) | kw: load balancing, caching patterns
+- **2026-06-11** | [CQRS: A Practical Guide to Command Query Responsibility](https://vinish.dev/cqrs) | kw: load balancing, caching patterns
+- **2026-06-11** | [CQRS - Martin Fowler](https://martinfowler.com/bliki/CQRS.html) | kw: load balancing, caching patterns
+
 - **2026-06-11** | [6 cách mở Computer/System Properties trong Windows 10](https://quantrimang.com/cong-nghe/mo-system-properties-trong-windows-10-172447) | kw: load balancing, caching patterns
 - **2026-06-11** | [SYSTEM | Định nghĩa trong Từ điển tiếng Anh Cambridge](https://dictionary.cambridge.org/vi/dictionary/english/system) | kw: load balancing, caching patterns
 - **2026-06-11** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: load balancing, caching patterns

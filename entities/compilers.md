@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Top 10 Best Compiler Software | 2026 Verified Picks](https://worldmetrics.org/best-compiler-software/) | kw: JIT compilation, LLVM
+- **2026-06-11** | [MLIR: Multi-Level Intermediate Representation Intro](https://zhuanlan.zhihu.com/p/615212974) | kw: JIT compilation, LLVM
+- **2026-06-11** | [MLIR-tutorial Study Notes](https://www.cnblogs.com/YuanZiming/p/18956253) | kw: JIT compilation, LLVM
+
 - **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: JIT compilation, LLVM
 - **2026-06-11** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: JIT compilation, LLVM
 - **2026-06-11** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: JIT compilation, LLVM
