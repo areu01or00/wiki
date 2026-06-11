@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Just-In-Time JIT Compiler with LLVM - Create Your Own Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: building, compiler, using
+- **2026-06-11** | [Numba NJit Python: LLVM No-Python Mode 2026](https://johal.in/numba-njit-python-llvm-no-python-mode-2026/) | kw: numba, compilation, python
+- **2026-06-11** | [The state of GPU codegen with Nim LLVM JIT](https://forum.nim-lang.org/t/9794) | kw: codegen, using, compilation.
+
 - **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: new
 - **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: new
 - **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: new

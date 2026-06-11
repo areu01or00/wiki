@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [What is the GIL in Python and Why Should You Care?](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | kw: python, impact, concurrency.
+- **2026-06-11** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: explanation, python, memory
+- **2026-06-11** | [Understanding Python's Global Interpreter Lock (GIL)](https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b) | kw: understanding, python, impact
+- **2026-06-11** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python, memory, management
+- **2026-06-11** | [Global Interpreter Lock (GIL) in Python - Everything for Interviews](https://dev.to/imsushant12/global-interpreter-lock-gil-in-python-everything-you-need-to-know-for-interviews-5e4g) | kw: comprehensive, interview, preparation
+- **2026-06-11** | [CPython-Internals memory_management.md](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/memory_management/memory_management.md) | kw: detailed, cpython, internals
+- **2026-06-11** | [What Is Python Memory Management? Coursera](https://www.coursera.org/articles/python-memory-management) | kw: overview, python, memory
+
 - **2026-06-11** | [Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python) | kw: python
 - **2026-06-11** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python
 - **2026-06-11** | [The 'No-GIL' Transition: NumPy and SciPy Release Official ...](https://tech-champion.com/programming/python-programming/the-no-gil-transition-numpy-and-scipy-release-official-free-threaded-wheels) | kw: gil
