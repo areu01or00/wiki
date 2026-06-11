@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Distributed System Design Patterns: A Practitioners Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: system-design
+- **2026-06-11** | [The Future of Distributed Systems: Trends and Opportunities](https://www.linkedin.com/posts/colinbreck_predicting-the-future-of-distributed-systems-activity-7355339000355737600-1GCT) | kw: system-design
+- **2026-06-11** | [Distributed architecture patterns | Google Cloud](https://docs.cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/distributed-patterns) | kw: system-design
+- **2026-06-11** | [Scalable System Design for Distributed Enterprise Workloads](https://www.researchgate.net/publication/400869066_Scalable_System_Design_for_Distributed_Enterprise_Workloads) | kw: system-design
+- **2026-06-11** | [SRDS 2026 - 45th International Symposium on Reliable Distributed Systems](https://srds-conference.org/) | kw: system-design
+- **2026-06-11** | [State of the Art in Parallel and Distributed Systems](https://www.mdpi.com/2079-9292/14/4/677) | kw: system-design
+- **2026-06-11** | [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html) | kw: system-design
+
 - **2026-06-11** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design
 - **2026-06-11** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 - **2026-06-11** | [Trends in Distributed Systems Overview](https://www.scribd.com/presentation/638622204/Untitled) | kw: system-design
