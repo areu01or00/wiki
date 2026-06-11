@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Enterprise Platform Architect in Morristown, New Jersey ... - Zelis Jobs](http://careers.zelis.com/us/en/job/ZOBZDHUSJR110852EXTERNALENUS/Enterprise-Platform-Architect) | kw: new
+- **2026-06-11** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: new
+
 - **2026-06-11** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: distributed systems, architecture patterns
 - **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, architecture patterns
 - **2026-06-11** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: distributed systems, architecture patterns

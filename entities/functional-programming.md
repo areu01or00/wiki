@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Posts - The Monad Cat](http://monad.cat/pages/posts.html) | kw: new
+- **2026-06-11** | [RustRover at RustWeek 2026 | The RustRover Blog](https://blog.jetbrains.com/rust/2026/06/03/rustrover-at-rustweek-2026/) | kw: new
+- **2026-06-11** | [Rust Roadmap 2026: Monthly Updates, Creative Tools & What ...](https://supercraft.host/article/rust-roadmap-2026/) | kw: new
+
 - **2026-06-11** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: monads, Haskell, Rust patterns
 
 - **2026-06-11** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads
