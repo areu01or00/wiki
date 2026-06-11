@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM, bytecode
+
 - **2026-06-11** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: JIT compilation
 - **2026-06-11** | [memzero - JIT C in memory using LLVM ORC api](https://blog.memzero.de/llvm-orc-jit) | kw: JIT compilation
 

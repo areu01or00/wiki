@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-11** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: dynamic programming, DSA roadmap, coding interviews
+
 - **2026-06-11** | [Data Structures & Algorithms in Java - Kunal Kushwaha](https://www.techwithkunal.com/courses/dsa) | kw: algorithms
 - **2026-06-11** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
 - **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms - YouTube](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: algorithms

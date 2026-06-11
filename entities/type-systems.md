@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Efficient Selection of Type Annotations for Performance](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: gradual typing, type inference, dependent types
+- **2026-06-11** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: gradual typing, type inference, dependent types
+- **2026-06-11** | [Static vs Dynamic Typing: A Detailed Comparison](https://www.bairesdev.com/blog/static-vs-dynamic-typing) | kw: gradual typing, type inference, dependent types
+
 - **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: type inference
 
 - **2026-06-11** | [Efficient Selection of Type Annotations for Performance ...](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: gradual typing

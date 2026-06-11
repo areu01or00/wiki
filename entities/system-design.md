@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [Edge Computing in 2026: How Enterprise Data Moved to the Edge](https://www.devx.com/uncategorized/edge-computing-2026-enterprise-data/) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-11** | [SRDS 2026](https://srds-conference.org/) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-11** | [The Complete Guide to System Design in 2026](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-11** | [Distributed computing - Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing) | kw: load balancing, caching patterns, distributed systems
+
 - **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: architecture
 - **2026-06-11** | [Predicting the Future of Distributed Systems - Craft Conference - 2025](https://craft-conf.com/2025/talk/colin-breck) | kw: architecture
 - **2026-06-11** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: architecture
