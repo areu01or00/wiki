@@ -1,0 +1,42 @@
+{
+  "timestamp": "1781120784",
+  "batch": 1,
+  "results": {
+    "python-internals": [
+      {"title": "Understanding the Python Global Interpreter Lock (GIL)", "url": "https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter", "date": "2026-01-01"},
+      {"title": "The Secret Life of Python: Understanding the GIL", "url": "https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html", "date": "2026-04-14"},
+      {"title": "Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)", "url": "https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil", "date": ""},
+      {"title": "What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026", "url": "https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10", "date": "2026-02-10"},
+      {"title": "Python's GIL Is Gone — What That Actually Means for Your Code", "url": "https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879", "date": "2026-03-29"},
+      {"title": "The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken", "url": "https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html", "date": "2026-01-22"},
+      {"title": "Understanding Python GIL (Global Interpreter Lock) - w3resource", "url": "https://www.w3resource.com/python/python-global-interpreter-lock-with-examples.php", "date": "2026-04-20"},
+      {"title": "Python Complete Guide | CPython Internals· GIL", "url": "https://pkglog.com/en/blog/python-complete-guide/", "date": "2026-04-07"},
+      {"title": "Taming the GIL: Understanding and Mitigating Python's Global Interpreter Lock", "url": "https://daily.jovis.ai/python-programming/taming-the-gil-understanding-and-mitigating-pythons-global-interpreter-lock/", "date": "2026-03-13"},
+      {"title": "What is the Python Global Interpreter Lock (GIL)", "url": "https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/", "date": "2025-12-09"}
+    ],
+    "algorithms": [
+      {"title": "Data Structure and Algorithm Patterns for LeetCode", "url": "https://www.youtube.com/watch?v=Z_c4byLrNBU", "date": ""},
+      {"title": "How to Know When to Use Leetcode Two Pointer Method", "url": "https://www.tiktok.com/discover/how-to-know-when-to-use-leetcode-two-pointer-method", "date": ""},
+      {"title": "Optimizing LeetCode 438 with Sliding Window Technique", "url": "https://www.linkedin.com/posts/somesh-pandey-536222296_100daysofcode-leetcode-coding-activity-7437883227391913985-zupj", "date": ""},
+      {"title": "Problems - LeetCode", "url": "https://leetcode.com/problemset/", "date": ""},
+      {"title": "Data Structures and Algorithms in Python: DSA Course", "url": "https://www.udemy.com/course/python-data-structures-algorithms/", "date": ""},
+      {"title": "CS50x 2026", "url": "https://cs50.harvard.edu/x/", "date": ""},
+      {"title": "towardsdatascience.com", "url": "https://towardsdatascience.com/", "date": ""},
+      {"title": "Complete Introduction to the 30 Most Essential Data Structures & Algorithms", "url": "https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd", "date": ""},
+      {"title": "Algorithm Patterns from June 2021 | DeepWiki", "url": "https://deepwiki.com/sachuverma/DataStructures-Algorithms/4.3.2-algorithm-patterns-from-june-2021", "date": ""},
+      {"title": "Dynamic Programming or DP - GeeksforGeeks", "url": "https://www.geeksforgeeks.org/dsa/dynamic-programming/", "date": ""}
+    ],
+    "functional-programming": [
+      {"title": "Monads and Monad-Like Patterns in Rust: Exploring Functional Patterns", "url": "https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/", "date": ""},
+      {"title": "Idiomatic monads in Rust | varkor's blog", "url": "https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html", "date": "2019-03-28"},
+      {"title": "Boilerplate Busting in Functional Languages | Lambda Land", "url": "https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/", "date": "2024-05-01"},
+      {"title": "A Gentle Introduction to Haskell: Patterns", "url": "https://www.haskell.org/tutorial/patterns.html", "date": ""},
+      {"title": "Monads (and Functors and Applicatives) explained (badly) in Rust", "url": "https://users.rust-lang.org/t/monads-and-functors-and-applicatives-explained-badly-in-rust/15187", "date": ""},
+      {"title": "Haskell Tutorial - YouTube", "url": "https://www.youtube.com/watch?v=02_H3LjqMr8", "date": ""},
+      {"title": "Using Haskell's Type Classes For Functional Programming Patterns", "url": "https://peerdh.com/blogs/programming-insights/using-haskells-type-classes-for-functional-programming-patterns", "date": ""},
+      {"title": "FUNCTIONAL PEARL: Idioms applicative programming with effects", "url": "http://strictlypositive.org/Idiom.pdf", "date": ""},
+      {"title": "Monads, part one | Fabulous adventures in coding", "url": "https://ericlippert.com/2013/02/21/monads-part-one/", "date": "2013-02-21"},
+      {"title": "Monads and Programming – Good Math Bad Math", "url": "https://goodmath.scientopia.org/2012/08/19/monads-and-programming/", "date": "2012-08-19"}
+    ]
+  }
+}

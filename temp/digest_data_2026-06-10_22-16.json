@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-10",
+  "time": "22:18",
+  "checked": 6,
+  "profiles": {
+    "python-internals": {
+      "new": 1,
+      "sub_topics": [
+        "python-internals"
+      ]
+    },
+    "algorithms": {
+      "new": 0,
+      "sub_topics": []
+    },
+    "functional-programming": {
+      "new": 0,
+      "sub_topics": []
+    },
+    "type-systems": {
+      "new": 7,
+      "sub_topics": [
+        "type-systems"
+      ]
+    },
+    "compilers": {
+      "new": 0,
+      "sub_topics": []
+    },
+    "system-design": {
+      "new": 0,
+      "sub_topics": []
+    }
+  },
+  "new_entries": {
+    "entities/python-internals.md": 1,
+    "entities/type-systems.md": 7
+  }
+}

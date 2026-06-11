@@ -1,0 +1,124 @@
+{
+  "type-systems": [
+    {
+      "title": "Gradual typing - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gradual_typing"
+    },
+    {
+      "title": "Gradual typing: a new perspective | Proceedings of the ACM on...",
+      "url": "https://dl.acm.org/doi/10.1145/3290329?cookieSet=1"
+    },
+    {
+      "title": "Principal Type Schemes for Gradual Programs",
+      "url": "https://www.cs.ubc.ca/~rxg/ptsgp.pdf"
+    },
+    {
+      "title": "A semantic foundation for gradual set-theoretic types",
+      "url": "https://theses.hal.science/tel-03853222/document"
+    },
+    {
+      "title": "Dynamic Type Inference for Gradual Hindley\u2013Milner Typing",
+      "url": "https://arxiv.org/pdf/1810.12619"
+    },
+    {
+      "title": "Higher-rank Polymorphism: Type Inference",
+      "url": "https://xnning.github.io/papers/Thesis.pdf"
+    },
+    {
+      "title": "GitHub - kevle6/Gradual_Typing",
+      "url": "https://github.com/kevle6/Gradual_Typing"
+    },
+    {
+      "title": "Static vs Dynamic Typing: Choosing the Right System for Your Code",
+      "url": "https://jsschools.com/programming/static-vs-dynamic-typing-choosing-the-right-syste/"
+    },
+    {
+      "title": "Gradual Typing and The Gradually Typed Lambda Calculus",
+      "url": "https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf"
+    },
+    {
+      "title": "Languages: Types",
+      "url": "https://ggbaker.selfip.net/prog-langs/content/lang-types.html"
+    }
+  ],
+  "compilers": [
+    {
+      "title": "1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM",
+      "url": "https://llvm.org/docs/tutorial/BuildingAJIT1.html"
+    },
+    {
+      "title": "Compilers and Modern Language Runtimes \u2014 LLVM, JIT, GC, V8 ...",
+      "url": "https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en"
+    },
+    {
+      "title": "Implementing JIT (Just In Time) Compilation - OpenGenus IQ",
+      "url": "https://iq.opengenus.org/implement-jit-compilation/"
+    },
+    {
+      "title": "JIT Design and Implementation \u00b7 The Julia Language",
+      "url": "https://docs.julialang.org/en/v1/devdocs/jit/"
+    },
+    {
+      "title": "PEP 744 \u2013 JIT Compilation | peps.python.org",
+      "url": "https://peps.python.org/pep-0744/"
+    },
+    {
+      "title": "2026 EuroLLVM Developers' Meeting - LLVM.org",
+      "url": "https://llvm.org/devmtg/2026-04/"
+    },
+    {
+      "title": "Understanding and Finding JIT Compiler Performance Bugs - arXiv",
+      "url": "https://arxiv.org/pdf/2603.06551"
+    },
+    {
+      "title": "Deegen: A JIT-Capable VM Generator for Dynamic Languages",
+      "url": "https://fredrikbk.com/publications/deegen.pdf"
+    },
+    {
+      "title": "Clang bytecode interpreter update - Red Hat Developer",
+      "url": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update"
+    },
+    {
+      "title": "2026 EuroLLVM Developers' Meeting - Agenda - Announcements",
+      "url": "https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725"
+    }
+  ],
+  "system-design": [
+    {
+      "title": "System Design Series Part 3: Load Balancing & Caching",
+      "url": "https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html"
+    },
+    {
+      "title": "System Design Guide 2026: Load Balancing, Caching, CDN, Databases ...",
+      "url": "https://onlinetools4free.com/research/system-design-guide-2026"
+    },
+    {
+      "title": "How I Build a Distributed System in 2026: Principles, Patterns, and ...",
+      "url": "https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/"
+    },
+    {
+      "title": "Designing Resilient Distributed Systems: Advanced Caching Strategies ...",
+      "url": "https://martinuke0.github.io/posts/2026-03-21-designing-resilient-distributed-systems-advanced-caching-strategies-for-performance/"
+    },
+    {
+      "title": "Distributed Systems | Architecture Patterns \u00b7 GitScrum Docs",
+      "url": "https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns"
+    },
+    {
+      "title": "Complete Guide to System Design: Scaling, Load Balancing ... - Medium",
+      "url": "https://medium.com/the-product-lens-looking-at-the-world-through-a/complete-guide-to-system-design-scaling-load-balancing-microservices-and-distributed-systems-cc4242c6ca1f"
+    },
+    {
+      "title": "Load Balancing Strategies for Distributed Systems",
+      "url": "https://andrewodendaal.com/articles/distributed-systems-load-balancing/"
+    },
+    {
+      "title": "Load Balancing Algorithms - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/system-design/load-balancing-algorithms/"
+    },
+    {
+      "title": "Mastering Scalability Pattern Implementation | Nerd Level Tech",
+      "url": "https://nerdleveltech.com/mastering-scalability-pattern-implementation"
+    }
+  ]
+}

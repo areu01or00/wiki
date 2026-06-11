@@ -1,0 +1,131 @@
+{
+  "profiles": {
+    "type-systems": [
+      {
+        "title": "Type Systems: From Generics to Dependent Types",
+        "url": "https://federicocarrone.com/articles/type-systems/",
+        "hash": "a5283d79b7723d76d3b23b8a3c14d8c7"
+      },
+      {
+        "title": "30 Best general-purpose programming languages as of 2026",
+        "url": "https://www.slant.co/topics/15491/~general-purpose-programming-languages",
+        "hash": "51eeae41e695847a8f8aa3d43051bbdf"
+      },
+      {
+        "title": "Gradual Typing for Objects",
+        "url": "https://sciweavers.org/publications/gradual-typing-objects",
+        "hash": "30cb2c892c8157c96664c2b2cdd68037"
+      },
+      {
+        "title": "Understanding Type Systems: Dynamic, Static, Strong, and Weak Typing",
+        "url": "https://dev.to/akshatjme/understanding-type-systems-dynamic-static-strong-and-weak-typing-34a2",
+        "hash": "e8e09dff8b1f699a21d30b5f598cb1b3"
+      },
+      {
+        "title": "Type Systems in Programming Languages",
+        "url": "https://www.tektutorialshub.com/programming/type-systems-in-programming-languages/",
+        "hash": "43344b0edb077c1416521a12c374436f"
+      },
+      {
+        "title": "Gradual typing in Python",
+        "url": "https://www.geeksforgeeks.org/python/gradual-typing-in-python/",
+        "hash": "ecfb0640eb0bd1970dd98c0a782a398d"
+      },
+      {
+        "title": "type-inference GitHub Topics",
+        "url": "https://github.com/topics/type-inference?l=ocaml",
+        "hash": "cf213476c7e1acb78125a1a00c5ba5c9"
+      },
+      {
+        "title": "Gradual Typing for Annotated Type Systems",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-642-54833-8_4",
+        "hash": "72ab17ba11e531f940422606c59dce19"
+      },
+      {
+        "title": "POPL 2026 - POPL Research Papers",
+        "url": "https://conf.researchr.org/track/POPL-2026/POPL-2026-popl-research-papers",
+        "hash": "9a1d8d835f039ad6356d4d235f74bf34"
+      }
+    ],
+    "compilers": [
+      {
+        "title": "Compilers and Modern Language Runtimes: LLVM, JIT, GC, V8 TurboFan",
+        "url": "https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en",
+        "hash": "376ff4be45d8c89a41a97e6dd808b613"
+      },
+      {
+        "title": "Building a JIT: Starting out with KaleidoscopeJIT - LLVM",
+        "url": "https://llvm.org/docs/tutorial/BuildingAJIT1.html",
+        "hash": "272052674db344025c77fa7d56b06ed6"
+      },
+      {
+        "title": "Building a JIT Compiler from Scratch: Part 0",
+        "url": "https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-0-how-computers-run-your-code-2bp1",
+        "hash": "2c54cbd1a7c9fcdfe476f04c46419ddc"
+      },
+      {
+        "title": "Implementing JIT (Just In Time) Compilation",
+        "url": "https://iq.opengenus.org/implement-jit-compilation/",
+        "hash": "35d104303d89b3a982274f72d50da569"
+      },
+      {
+        "title": "JIT Design and Implementation - The Julia Language",
+        "url": "https://docs.julialang.org/en/v1/devdocs/jit/",
+        "hash": "d054a5a95d4d641039150c267c28e839"
+      },
+      {
+        "title": "LLVM Bitcode Is Not JVM Bytecode",
+        "url": "https://www.linkedin.com/pulse/llvm-bitcode-jvm-bytecode-what-every-c-programmer-must-ayman-alheraki-u0zdf",
+        "hash": "37ae824bf8d642e4f84009edcfc7749a"
+      },
+      {
+        "title": "How the JIT compiler optimizes code - IBM",
+        "url": "https://www.ibm.com/docs/en/sdk-java-technology/8?topic=compiler-how-jit-optimizes-code",
+        "hash": "e1c02b8b1130eee55fa67ac9657d9613"
+      },
+      {
+        "title": "Compiler vs Interpreter: The Mechanics of Code Execution",
+        "url": "https://toolshelf.tech/blog/compiler-vs-interpreter-aot-jit-performance/",
+        "hash": "85716b6607a0b13821a428aa33ff54dc"
+      }
+    ],
+    "system-design": [
+      {
+        "title": "7 Proven Scalability Patterns in Distributed Systems",
+        "url": "https://medium.com/@careerwithnadeem/7-proven-scalability-patterns-in-distributed-systems-e09112c2ffdb",
+        "hash": "c373e859e536fc374efac5d1b93406a6"
+      },
+      {
+        "title": "Load Balancing in Distributed Systems - A Deep Dive",
+        "url": "https://dev.to/vikram_kumar_2101/-day-4-load-balancing-in-distributed-systems-a-deep-dive-41d5",
+        "hash": "263bd611b9ae1d318b651d7327f99715"
+      },
+      {
+        "title": "Design Issues of Distributed System",
+        "url": "https://www.slideshare.net/slideshow/design-issues-of-distributed-system-1-pptx/272027019",
+        "hash": "5f53596875cd40c719d9797cf9f5eb10"
+      },
+      {
+        "title": "Distributed Systems 6.2: Raft",
+        "url": "https://www.youtube.com/watch?v=uXEYuDwm7e4",
+        "hash": "149f87edd5743783a7cbc451398c3d96"
+      },
+      {
+        "title": "Caching Patterns: Cache-Aside, Write-Through",
+        "url": "https://knowledgelib.io/software/patterns/caching-patterns/2026",
+        "hash": "6837793e7111eb5def862db313c70fbf"
+      },
+      {
+        "title": "Zonal Gateway Load Balancing in Centralized E/E Architectures",
+        "url": "https://eureka.patsnap.com/blog/scout-report/zonal-gateway-load-balancing-in-centralized-e-e-architectures-latency-redundancy-and-fault-containment/",
+        "hash": "4b66021af66d8262634146a91d73d82e"
+      },
+      {
+        "title": "Designing Scalable Distributed Systems with Microservices",
+        "url": "https://www.linkedin.com/posts/derrick-munene-code-pro-001_systemdesign-softwarearchitecture-distributedsystems-activity-7434126985242537984-Rk37",
+        "hash": "e04e2c7a46e4862d2cc2ecc542177a9b"
+      }
+    ]
+  },
+  "timestamp": "2026-06-11T06:30:00+00:00"
+}

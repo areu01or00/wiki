@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-06-11T03:18:00+00:00",
+  "batch": 1,
+  "results": {
+    "python-internals": [
+      {"title": "How Python's GIL actually works (and when it bites you)", "url": "https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2", "date": "2026-05-10"},
+      {"title": "The Secret Life of Python: Understanding the GIL | by Aaron Rose", "url": "https://medium.com/@aaron.rose.tx/the-secret-life-of-python-understanding-the-gil-2efacc6e008d", "date": "2026-04-14"},
+      {"title": "What Is the Python Global Interpreter Lock (GIL)? - Real Python", "url": "https://realpython.com/python-gil/", "date": ""},
+      {"title": "Thread states and the global interpreter lock — Python 3.14.5 documentation", "url": "https://docs.python.org/3/c-api/threads.html", "date": ""},
+      {"title": "Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn", "url": "https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac", "date": "2025-10-22"},
+      {"title": "Understanding the Python Global Interpreter Lock (GIL)", "url": "https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter", "date": "2026-01-01"},
+      {"title": "\"Why Python Is Removing The GIL\" (13.5 minutes by Core Dumped)", "url": "https://www.reddit.com/r/Python/comments/1pxxket/why_python_is_removing_the_gil_135_minutes_by/", "date": "2025-12-28"},
+      {"title": "5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global", "url": "https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide", "date": "2026-01-05"},
+      {"title": "Python's Liberation: The GIL is Finally Optional (And Why ... - Medium", "url": "https://medium.com/@aftab001x/pythons-liberation-the-gil-is-finally-optional-and-why-this-changes-everything-5579b43e969c", "date": "2025-12-11"},
+      {"title": "Why Redis Uses C, Not Python: The GIL Explained", "url": "https://www.crackthat.io/p/why-redis-uses-c-not-python-gil", "date": "2026-03-20"}
+    ],
+    "algorithms": [
+      {"title": "Complete Data Structures and Algorithms / Unwired Learning", "url": "https://unwiredlearning.com/bundles/complete-data-structures-and-algorithms", "date": ""},
+      {"title": "ashishps1/awesome-leetcode-resources - GitHub", "url": "https://github.com/ashishps1/awesome-leetcode-resources", "date": ""},
+      {"title": "Best DSA Sheet 2026 | To Crack Interviews - namastedev.com", "url": "https://namastedev.com/namaste-dsa-sheet", "date": ""},
+      {"title": "The Ultimate Leetcode Roadmap: Data Structures & Algorithms ...", "url": "https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829", "date": "2025-09-09"},
+      {"title": "Algorithm Challenges on LeetCode Guide - AlgoHay", "url": "https://www.algohay.com/blog/algorithm-challenges-on-leetcode-guide/", "date": "2026-04-13"},
+      {"title": "Data Structures & Algorithms Roadmap 2026 - Complete Learning ...", "url": "https://www.thetutorbridge.com/roadmap/dsa", "date": ""},
+      {"title": "Data Structures and Algorithms & LeetCode - CPP & Python - Udemy", "url": "https://www.udemy.com/course/data-structures-and-algorithms-leetcode-cpp-python/", "date": ""},
+      {"title": "Best Way to master DSA in shortest time in 2026 - By SDE ...", "url": "https://m.youtube.com/watch?v=xjd_RgPQBKQ", "date": "2026-03-01"},
+      {"title": "50+ Leetcode Online Courses for 2026 | Explore Free Courses ...", "url": "https://www.classcentral.com/subject/leetcode", "date": ""},
+      {"title": "DSA Tutorial - GeeksforGeeks", "url": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/", "date": "2026-05-20"}
+    ],
+    "functional-programming": [
+      {"title": "Monads and Monad-Like Patterns in Rust: Exploring Functional...", "url": "https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/", "date": ""},
+      {"title": "Idiomatic monads in Rust | varkor's blog", "url": "https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html", "date": "2019-03-28"},
+      {"title": "Idiomatic Monads in Rust | Hacker News", "url": "https://news.ycombinator.com/item?id=19571519", "date": "2019-12-10"},
+      {"title": "functional programming - Haskell pattern matching... - Stack Overflow", "url": "https://stackoverflow.com/questions/2225774/haskell-pattern-matching-what-is-it", "date": ""},
+      {"title": "WHAT IS A MONAD? Functional Programming Patterns... - YouTube", "url": "https://www.youtube.com/watch?v=8DJtc3zJ5nY", "date": ""},
+      {"title": "Monads as a Programming Pattern", "url": "https://samgrayson.me/essays/monads-as-a-programming-pattern/", "date": "2019-08-06"},
+      {"title": "GitHub - nsu-syspro/haskell-monads-2026: haskell-monads created...", "url": "https://github.com/nsu-syspro/haskell-monads-2026", "date": ""},
+      {"title": "Monads in 15 minutes", "url": "https://nikgrozev.com/2013/12/10/monads-in-15-minutes/", "date": "2013-12-10"},
+      {"title": "A Gentle Introduction to Haskell: Patterns", "url": "https://www.haskell.org/tutorial/patterns.html", "date": ""},
+      {"title": "Monads (and Functors and Applicatives) explained (badly) in Rust", "url": "https://users.rust-lang.org/t/monads-and-functors-and-applicatives-explained-badly-in-rust/15187", "date": ""}
+    ]
+  }
+}

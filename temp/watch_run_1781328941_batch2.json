@@ -1,0 +1,23 @@
+{
+  "timestamp": 1781328941,
+  "results": {
+    "compilers": {
+      "web": [
+        {"title": "Just-in-time compilation - Wikipedia", "url": "https://en.wikipedia.org/wiki/Just-in-time_compilation"},
+        {"title": "Interpreters and Compilers — 36-750 Statistical Computing", "url": "https://36-750.github.io/concepts/interpreters-compilers/"},
+        {"title": "LLVM Implementation for Java JIT Compilers: A Deep... | Dev Genius", "url": "https://blog.devgenius.io/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec"},
+        {"title": "4. Kaleidoscope: Adding JIT and... — LLVM 21.0.0git documentation", "url": "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl04.html"},
+        {"title": "java - Does JVM have machine specific optimization... - Stack Overflow", "url": "https://stackoverflow.com/questions/48235961/does-jvm-have-machine-specific-optimization-flags"}
+      ]
+    },
+    "system-design": {
+      "web": [
+        {"title": "7 Proven Scalability Patterns in Distributed Systems | Medium", "url": "https://medium.com/@careerwithnadeem/7-proven-scalability-patterns-in-distributed-systems-e09112c2ffdb"},
+        {"title": "# Day 4: Load Balancing in Distributed Systems... - DEV Community", "url": "https://dev.to/vikram_kumar_2101/-day-4-load-balancing-in-distributed-systems-a-deep-dive-41d5"},
+        {"title": "Memcached Python Client: Distributed Caching Patterns 2026", "url": "https://johal.in/memcached-python-client-distributed-caching-patterns-2026/"},
+        {"title": "Explaining Distributed Systems Like I'm 5 - YouTube", "url": "https://www.youtube.com/watch?v=CESKgdNiKJw"},
+        {"title": "Distributed System Design Trade-offs: Consistency... | LinkedIn", "url": "https://www.linkedin.com/posts/javalgo_systemdesign-distributedsystems-architecture-activity-7457754792992624640-rxy3"}
+      ]
+    }
+  }
+}

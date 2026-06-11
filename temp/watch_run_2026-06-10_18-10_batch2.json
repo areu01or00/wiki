@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-06-10_18-10",
+  "batch": 2,
+  "search_results": {
+    "type-systems": [
+      {"title": "Learn to Type | Type Better | Type Faster - Typing.com", "url": "https://www.typing.com/", "date": ""},
+      {"title": "Learn Touch Typing Free - TypingClub", "url": "https://www.typingclub.com/", "date": ""},
+      {"title": "Monkeytype | A minimalistic, customizable typing test", "url": "https://monkeytype.com/", "date": ""},
+      {"title": "TypingTest.com - Complete a Typing Test in 60 Seconds!", "url": "https://www.typingtest.com/", "date": ""},
+      {"title": "TypeRacer - Play Typing Games and Race Friends", "url": "https://play.typeracer.com/", "date": ""},
+      {"title": "Typing Test - Check Your Typing Speed Online - 10FastFingers.com", "url": "https://10fastfingers.com/typing-test", "date": ""},
+      {"title": "Free Online Typing Test - Results in 60 seconds!", "url": "https://www.speedtypingonline.com/typing-test", "date": ""},
+      {"title": "Nitro Type | Competitive Typing Game | Race Your Friends", "url": "https://www.nitrotype.com/", "date": ""}
+    ],
+    "compilers": [
+      {"title": "Just-in-time compilation - Wikipedia", "url": "https://en.wikipedia.org/wiki/Just-in-time_compilation", "date": ""},
+      {"title": "2026 EuroLLVM Developers' Meeting - LLVM.org", "url": "https://llvm.org/devmtg/2026-04/", "date": "2026-04-15"},
+      {"title": "Understanding and Finding JIT Compiler Performance Bugs - arXiv", "url": "https://arxiv.org/pdf/2603.06551", "date": "2026-03-06"},
+      {"title": "Deegen: A JIT-Capable VM Generator for Dynamic Languages", "url": "https://fredrikbk.com/publications/deegen.pdf", "date": ""},
+      {"title": "Clang bytecode interpreter update - Red Hat Developer", "url": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update", "date": "2025-10-15"},
+      {"title": "2026 EuroLLVM Developers' Meeting - Agenda - Announcements", "url": "https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725", "date": "2026-02-06"},
+      {"title": "A Technical Deep-Dive on the JIT/AOT Compiler for revm of BNB ..", "url": "https://www.bnbchain.org/en/blog/a-technical-deep-dive-on-the-jit-aot-compiler-for-revm-of-bnb-chain", "date": "2025-11-14"},
+      {"title": "Understanding Python's JIT Compiler | by Leslie Townes", "url": "https://python.plainenglish.io/understanding-pythons-jit-compiler-e95f73d40b5e", "date": "2025-10-15"}
+    ],
+    "system-design": [
+      {"title": "Memcached Python Client: Distributed Caching Patterns 2026", "url": "https://johal.in/memcached-python-client-distributed-caching-patterns-2026/", "date": ""},
+      {"title": "7 Proven Scalability Patterns in Distributed Systems | Medium", "url": "https://medium.com/@careerwithnadeem/7-proven-scalability-patterns-in-distributed-systems-e09112c2ffdb", "date": ""},
+      {"title": "Caching patterns - Database Caching Strategies Using Redis", "url": "https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html", "date": ""},
+      {"title": "How I simulated a Distributed System in the Browser - DEV Community", "url": "https://dev.to/code_sherpa/how-i-simulated-a-distributed-system-in-the-browser-40m4", "date": ""},
+      {"title": "System Design Patterns | teivah/algodeck | DeepWiki", "url": "https://deepwiki.com/teivah/algodeck/3.1-system-design-patterns", "date": ""},
+      {"title": "Explaining Distributed Systems Like I'm 5 - YouTube", "url": "https://www.youtube.com/watch?v=CESKgdNiKJw", "date": ""},
+      {"title": "Distributed System Design Trade-offs: Consistency... | LinkedIn", "url": "https://www.linkedin.com/posts/javalgo_systemdesign-distributedsystems-architecture-activity-7457754792992624640-rxy3", "date": ""},
+      {"title": "Micro-Edge Caching for Creator Sites in 2026", "url": "https://frees.pro/microedge-caching-patterns-2026", "date": "2026-01-10"}
+    ]
+  }
+}

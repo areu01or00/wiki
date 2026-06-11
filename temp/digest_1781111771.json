@@ -1,0 +1,79 @@
+{
+  "timestamp": 1781111771,
+  "date_utc": "2026-06-10 17:18 UTC",
+  "checked": 6,
+  "new_count": 7,
+  "by_profile": {
+    "python-internals": 2,
+    "algorithms": 1,
+    "functional-programming": 1,
+    "compilers": 3
+  },
+  "by_page": {
+    "entities/python-internals.md": 2,
+    "entities/algorithms.md": 1,
+    "entities/functional-programming.md": 1,
+    "entities/compilers.md": 3
+  },
+  "sub_topics": {
+    "python-internals": [
+      "taming the gil: understanding",
+      "the python gil controversy:"
+    ],
+    "algorithms": [
+      "[udemy, pratik singhal] data"
+    ],
+    "functional-programming": [
+      "haskell guide [2026]: functional"
+    ],
+    "compilers": [
+      "a deep dive into",
+      "just-in-time (jit) compiler with",
+      "llvm compiler backends for"
+    ]
+  },
+  "new_entries": [
+    {
+      "profile": "python-internals",
+      "title": "The Python GIL Controversy: Why Multi-Core Parallelism ..",
+      "url": "https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html",
+      "wiki_page": "entities/python-internals.md"
+    },
+    {
+      "profile": "python-internals",
+      "title": "Taming the GIL: Understanding and Mitigating Python's Global ..",
+      "url": "https://daily.jovis.ai/python-programming/taming-the-gil-understanding-and-mitigating-pythons-global-interpreter-lock/",
+      "wiki_page": "entities/python-internals.md"
+    },
+    {
+      "profile": "algorithms",
+      "title": "[Udemy, Pratik Singhal] Data Structures & Algorithms in Java + 150...",
+      "url": "https://rutracker.org/forum/viewtopic.php?t=6738509",
+      "wiki_page": "entities/algorithms.md"
+    },
+    {
+      "profile": "functional-programming",
+      "title": "Haskell Guide [2026]: Functional Programming That Changes How ...",
+      "url": "https://precisionaiacademy.com/blog/haskell-guide-2026",
+      "wiki_page": "entities/functional-programming.md"
+    },
+    {
+      "profile": "compilers",
+      "title": "A Deep Dive into Compilers, Interpreters, Bytecode, and JIT ..",
+      "url": "https://teddyaryono.dev/blog/compiler-interpreter/",
+      "wiki_page": "entities/compilers.md"
+    },
+    {
+      "profile": "compilers",
+      "title": "Just-In-Time (JIT) Compiler with LLVM - Create Your Own ..",
+      "url": "https://createlang.rs/01_calculator/jit_intro.html",
+      "wiki_page": "entities/compilers.md"
+    },
+    {
+      "profile": "compilers",
+      "title": "LLVM Compiler Backends for .NET CIL and Java Bytecode ..",
+      "url": "https://www.javaspring.net/blog/llvm-cil-and-java-bytecode-backend/",
+      "wiki_page": "entities/compilers.md"
+    }
+  ]
+}

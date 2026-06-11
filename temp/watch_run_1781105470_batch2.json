@@ -1,0 +1,48 @@
+{
+  "batch": 2,
+  "timestamp": 1781105470,
+  "results": {
+    "type-systems": {
+      "web": [
+        {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing", "position": 1},
+        {"title": "Gradual Typing: A New Perspective", "url": "https://www.irif.fr/~gc/papers/popl19.pdf", "position": 2},
+        {"title": "POPL 2026 - POPL Research Papers - POPL 2026", "url": "https://conf.researchr.org/track/POPL-2026/POPL-2026-popl-research-papers", "position": 3},
+        {"title": "Types and type systems (reading)", "url": "https://research.tedneward.com/langdev/types-and-type-systems/index.html", "position": 4},
+        {"title": "Principal Type Schemes for Gradual Programs | Proceedings of the...", "url": "https://dl.acm.org/doi/10.1145/2676726.2676992?cookieSet=1", "position": 5},
+        {"title": "Gradual Typing for Objects | Sciweavers", "url": "https://sciweavers.org/publications/gradual-typing-objects", "position": 6},
+        {"title": "gradual-typing · GitHub Topics · GitHub", "url": "https://github.com/topics/gradual-typing?o=asc&s=forks", "position": 7},
+        {"title": "The Long-Term Problem With Dynamically Typed Languages", "url": "https://chadaustin.me/2015/04/the-long-term-problem-with-dynamically-typed-languages/", "position": 8},
+        {"title": "compiler - Is there a name for infered strong typing? - Software...", "url": "https://softwareengineering.stackexchange.com/questions/339057/is-there-a-name-for-infered-strong-typing", "position": 9},
+        {"title": "Pyre Migrate Django: Gradual Typing Adoption 2025", "url": "https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/", "position": 10}
+      ]
+    },
+    "compilers": {
+      "web": [
+        {"title": "Just-in-time compilation - Wikipedia", "url": "https://en.wikipedia.org/wiki/Just-in-time_compilation", "position": 1},
+        {"title": "2026 EuroLLVM Developers' Meeting - LLVM.org", "url": "https://llvm.org/devmtg/2026-04/", "position": 2},
+        {"title": "Understanding and Finding JIT Compiler Performance Bugs - arXiv", "url": "https://arxiv.org/pdf/2603.06551", "position": 3},
+        {"title": "Deegen: A JIT-Capable VM Generator for Dynamic Languages", "url": "https://fredrikbk.com/publications/deegen.pdf", "position": 4},
+        {"title": "Clang bytecode interpreter update - Red Hat Developer", "url": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update", "position": 5},
+        {"title": "2026 EuroLLVM Developers' Meeting - Agenda - Announcements", "url": "https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725", "position": 6},
+        {"title": "A Technical Deep-Dive on the JIT/AOT Compiler for revm of BNB ...", "url": "https://www.bnbchain.org/en/blog/a-technical-deep-dive-on-the-jit-aot-compiler-for-revm-of-bnb-chain", "position": 7},
+        {"title": "Understanding Python's JIT Compiler | by Leslie Townes", "url": "https://python.plainenglish.io/understanding-pythons-jit-compiler-e95f73d40b5e", "position": 8},
+        {"title": "Stanford CS343D (Winter 2026) Fred Kjolstad", "url": "https://cs343d.github.io/lectures/lecture10.fast.compilers.pdf", "position": 9},
+        {"title": "The LLVM Compiler Infrastructure Project", "url": "https://llvm.org/", "position": 10}
+      ]
+    },
+    "system-design": {
+      "web": [
+        {"title": "Scalability Patterns: Load Balancer, Caching, Sharding, and Queueing", "url": "https://www.linkedin.com/pulse/scalability-patterns-load-balancer-caching-sharding-queueing-kumar-v5t9c", "position": 1},
+        {"title": "Memcached Python Client: Distributed Caching Patterns 2026", "url": "https://johal.in/memcached-python-client-distributed-caching-patterns-2026/", "position": 2},
+        {"title": "# Day 4: Load Balancing in Distributed Systems... - DEV Community", "url": "https://dev.to/vikram_kumar_2101/-day-4-load-balancing-in-distributed-systems-a-deep-dive-41d5", "position": 3},
+        {"title": "Microservices Architecture Patterns: Building Resilient... | Medium", "url": "https://medium.com/@sanwarhossain/microservices-architecture-patterns-building-resilient-scalable-distributed-systems-d0b8a421ef6b", "position": 4},
+        {"title": "AE2 Quick Tip: Load Balancing Auto-Crafting... - YouTube", "url": "https://www.youtube.com/watch?v=BGI2kxIu5Zw", "position": 5},
+        {"title": "Caching Patterns for Directories: Freshness vs Cost", "url": "https://content.directory/advanced-caching-patterns-2026", "position": 6},
+        {"title": "Zonal Gateway Load Balancing in Centralized E/E Architectures...", "url": "https://eureka.patsnap.com/blog/scout-report/zonal-gateway-load-balancing-in-centralized-e-e-architectures-latency-redundancy-and-fault-containment/", "position": 7},
+        {"title": "HTTP Load Balancing | NGINX Documentation", "url": "https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/", "position": 8},
+        {"title": "Grokking System Design Interview: Original Course", "url": "https://www.designgurus.io/course/grokking-the-system-design-interview", "position": 9},
+        {"title": "Scalability in System Design - GeeksforGeeks", "url": "https://www.geeksforgeeks.org/system-design/what-is-scalability/", "position": 10}
+      ]
+    }
+  }
+}

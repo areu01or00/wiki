@@ -1,0 +1,51 @@
+{
+  "batch": 2,
+  "timestamp": 1781102757,
+  "results": {
+    "type-systems": {
+      "query": "type systems programming languages type inference gradual typing 2026",
+      "web": [
+        {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing"},
+        {"title": "Understanding Type Systems: Dynamic, Static... - DEV Community", "url": "https://dev.to/akshatjme/understanding-type-systems-dynamic-static-strong-and-weak-typing-34a2"},
+        {"title": "Why Do Programming Languages Have Types?", "url": "https://pavelfokin.dev/blog/why-do-programming-languages-have-types/"},
+        {"title": "Principal Type Schemes for Gradual Programs", "url": "https://www.cs.ubc.ca/~rxg/ptsgp.pdf"},
+        {"title": "GitHub - tomprimozic/type-systems: Implementations of various type...", "url": "https://github.com/tomprimozic/type-systems"},
+        {"title": "(PDF) Gradual typing for generic type-and-effect systems", "url": "https://www.academia.edu/79165611/Gradual_typing_for_generic_type_and_effect_systems"},
+        {"title": "Consistent Subtyping for All | Springer Nature Link", "url": "https://link.springer.com/chapter/10.1007/978-3-319-89884-1_1"},
+        {"title": "The ins and outs of gradual type inference | Proceedings of the 39th...", "url": "https://dl.acm.org/doi/10.1145/2103656.2103714?cookieSet=1"},
+        {"title": "Using g raph n eural n etworks", "url": "https://openreview.net/pdf?id=Hkx6hANtwH"},
+        {"title": "Link to reddit.com", "url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1l6uq88/type_inference_for_programming_language/"}
+      ]
+    },
+    "compilers": {
+      "query": "compilers interpreters JIT LLVM optimization bytecode 2026",
+      "web": [
+        {"title": "The LLVM Compiler Infrastructure Project", "url": "https://llvm.org/"},
+        {"title": "A Deep Dive into Compilers, Interpreters, Bytecode, and JIT ...", "url": "https://teddyaryono.dev/blog/compiler-interpreter/"},
+        {"title": "Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...", "url": "https://createlang.rs/01_calculator/jit_intro.html"},
+        {"title": "LLVM Implementation for Java JIT Compilers: A Deep Dive", "url": "https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec"},
+        {"title": "LLVM Compiler Backends for .NET CIL and Java Bytecode ...", "url": "https://www.javaspring.net/blog/llvm-cil-and-java-bytecode-backend/"},
+        {"title": "2026 EuroLLVM Developers' Meeting - LLVM.org", "url": "https://llvm.org/devmtg/2026-04/"},
+        {"title": "Deegen: A JIT-Capable VM Generator for Dynamic Languages", "url": "https://fredrikbk.com/publications/deegen.pdf"},
+        {"title": "Clang bytecode interpreter update - Red Hat Developer", "url": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update"},
+        {"title": "2026 EuroLLVM Developers' Meeting - Agenda - Announcements", "url": "https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725"},
+        {"title": "Understanding and Finding JIT Compiler Performance Bugs - arXiv", "url": "https://arxiv.org/pdf/2603.06551"}
+      ]
+    },
+    "system-design": {
+      "query": "distributed systems architecture load balancing caching patterns 2026",
+      "web": [
+        {"title": "7 Proven Scalability Patterns in Distributed Systems | Medium", "url": "https://medium.com/@careerwithnadeem/7-proven-scalability-patterns-in-distributed-systems-e09112c2ffdb"},
+        {"title": "Explaining Distributed Systems Like I'm 5 - YouTube", "url": "https://www.youtube.com/watch?v=CESKgdNiKJw"},
+        {"title": "Memcached Python Client: Distributed Caching Patterns 2026", "url": "https://johal.in/memcached-python-client-distributed-caching-patterns-2026/"},
+        {"title": "How I simulated a Distributed System in the Browser - DEV Community", "url": "https://dev.to/code_sherpa/how-i-simulated-a-distributed-system-in-the-browser-40m4"},
+        {"title": "Caching patterns - Database Caching Strategies Using Redis", "url": "https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html"},
+        {"title": "Distributed System Design Trade-offs: Consistency... | LinkedIn", "url": "https://www.linkedin.com/posts/javalgo_systemdesign-distributedsystems-architecture-activity-7457754792992624640-rxy3"},
+        {"title": "Micro-Edge Caching for Creator Sites in 2026", "url": "https://frees.pro/microedge-caching-patterns-2026"},
+        {"title": "System Design Patterns | teivah/algodeck | DeepWiki", "url": "https://deepwiki.com/teivah/algodeck/3.1-system-design-patterns"},
+        {"title": "Scalability in System Design - GeeksforGeeks", "url": "https://www.geeksforgeeks.org/system-design/what-is-scalability/"},
+        {"title": "[educative.io] [Design Gurus] Grokking the System Design Interview...", "url": "https://coursehunters.online/t/educative-io-design-gurus-grokking-the-system-design-interview-part-5/584/7"}
+      ]
+    }
+  }
+}

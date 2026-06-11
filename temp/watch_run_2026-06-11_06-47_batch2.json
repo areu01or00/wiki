@@ -1,0 +1,50 @@
+{
+  "type-systems": {
+    "query": "type systems programming languages type inference gradual typing 2026",
+    "wiki_page": "entities/type-systems.md",
+    "results": [
+      {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing"},
+      {"title": "Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...", "url": "https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/"},
+      {"title": "Type Systems: From Generics to Dependent Types", "url": "https://federicocarrone.com/articles/type-systems/"},
+      {"title": "Statically Typed vs Dynamically Typed Languages... | Towards Dev", "url": "https://towardsdev.com/statically-typed-vs-dynamically-typed-languages-a-comprehensive-deep-dive-e30c09ec4439"},
+      {"title": "19 Best compiled programming languages as of 2026 - Slant", "url": "https://www.slant.co/topics/15430/~compiled-programming-languages"},
+      {"title": "TypeScript Gradual Typing | Compile N Run", "url": "https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/"},
+      {"title": "Elixir 1.20 Gradual Typing: No Annotations, Real Bug Catches", "url": "https://byteiota.com/elixir-1-20-gradual-typing-no-annotations/"},
+      {"title": "Gradual typing: a new perspective | Proceedings of the ACM on...", "url": "https://dl.acm.org/doi/10.1145/3290329?cookieSet=1"},
+      {"title": "Gradual Typing Includes Both Fully Static and Fully Dynamic", "url": "https://jsiek.github.io/home/refined-criteria-gradual.pdf"},
+      {"title": "Strong arrows: a new approach to gradual typing - The Elixir...", "url": "https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/"}
+    ]
+  },
+  "compilers": {
+    "query": "compilers interpreters JIT LLVM optimization bytecode 2026",
+    "wiki_page": "entities/compilers.md",
+    "results": [
+      {"title": "LLVM Compiler Optimization", "url": "https://iq.opengenus.org/llvm-compiler-optimization/"},
+      {"title": "A Deep Dive into Compilers, Interpreters, Bytecode, and JIT...", "url": "https://teddyaryono.dev/blog/compiler-interpreter/"},
+      {"title": "java - Does JVM have machine specific optimization... - Stack Overflow", "url": "https://stackoverflow.com/questions/48235961/does-jvm-have-machine-specific-optimization-flags"},
+      {"title": "Interpreters and Compilers - 36-750 Statistical Computing", "url": "https://36-750.github.io/concepts/interpreters-compilers/"},
+      {"title": "4. Kaleidoscope: Adding JIT and... - LLVM 21.0.0git documentation", "url": "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl04.html"},
+      {"title": "How Modern Interpreters Generate Machine Code Faster... | Medium", "url": "https://medium.com/@sohail_saifii/how-modern-interpreters-generate-machine-code-faster-than-compilers-996572f0f1de"},
+      {"title": "Understanding the differences: traditional interpreter, JIT compiler...", "url": "https://softwareengineering.stackexchange.com/questions/246094/understanding-the-differences-traditional-interpreter-jit-compiler-jit-interp"},
+      {"title": "Computer Programming for Beginners | What are Interpreters...", "url": "https://www.youtube.com/watch?v=svJerixawV0"},
+      {"title": "Compiler Design and Interpreters: How... | Computer Science Authority", "url": "https://computerscienceauthority.com/compiler-design-and-interpreters"},
+      {"title": "Why Is Java Called Both a Compiled and Interpreted Language?", "url": "https://www.javaspring.net/blog/why-java-is-both-compiled-and-interpreted-language-when-the-jit-also-compiles-the-bytecode/"}
+    ]
+  },
+  "system-design": {
+    "query": "distributed systems architecture load balancing caching patterns 2026",
+    "wiki_page": "entities/system-design.md",
+    "results": [
+      {"title": "System Design Series Part 3: Load Balancing & Caching", "url": "https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html"},
+      {"title": "System Design Guide 2026: Load Balancing, Caching, CDN ...", "url": "https://onlinetools4free.com/research/system-design-guide-2026"},
+      {"title": "Scheduling and Load Balancing in Distributed Systems ...", "url": "https://thelinuxcode.com/scheduling-and-load-balancing-in-distributed-systems-practical-algorithms-and-2026-patterns/"},
+      {"title": "Distributed Systems | Architecture Patterns | GitScrum Docs", "url": "https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns"},
+      {"title": "Designing Resilient Distributed Systems: Advanced Caching ...", "url": "https://martinuke0.github.io/posts/2026-03-21-designing-resilient-distributed-systems-advanced-caching-strategies-for-performance/"},
+      {"title": "Mastering Distributed Systems - Patterns & Principles (2026)", "url": "https://tutorialq.com/dev/microservices/mastering-distributed-systems"},
+      {"title": "Load Balancing Strategies for Distributed Systems | Andrew ...", "url": "https://andrewodendaal.com/articles/distributed-systems-load-balancing/"},
+      {"title": "7 Proven Scalability Patterns in Distributed Systems | Medium", "url": "https://medium.com/@careerwithnadeem/7-proven-scalability-patterns-in-distributed-systems-e09112c2ffdb"},
+      {"title": "Day 4: Load Balancing in Distributed Systems... - DEV Community", "url": "https://dev.to/vikram_kumar_2101/-day-4-load-balancing-in-distributed-systems-a-deep-dive-41d5"},
+      {"title": "Top 30 System Design Interview Questions (2026)", "url": "https://www.datainterview.com/blog/system-design-interview-questions"}
+    ]
+  }
+}

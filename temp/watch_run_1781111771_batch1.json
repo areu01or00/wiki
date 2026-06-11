@@ -1,0 +1,66 @@
+{
+  "batch": 1,
+  "timestamp": 1781111771,
+  "results": {
+    "python-internals": {
+      "query": "Python GIL bytecode interpreter memory management internals 2026",
+      "web": [
+        {"title": "Understanding the Python Global Interpreter Lock (GIL)", "url": "https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter"},
+        {"title": "The Secret Life of Python: Understanding the GIL", "url": "https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html"},
+        {"title": "Python - Python Internals: Memory Management & the Global ..", "url": "https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil"},
+        {"title": "What is the Global Interpreter Lock (GIL) in Python? Is It ..", "url": "https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10"},
+        {"title": "Python\u2019s GIL Is Gone \u2014 What That Actually Means for Your Code", "url": "https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879"},
+        {"title": "The Python GIL Controversy: Why Multi-Core Parallelism ..", "url": "https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html"},
+        {"title": "Understanding Python GIL (Global Interpreter Lock) - w3resource", "url": "https://www.w3resource.com/python/python-global-interpreter-lock-with-examples.php"},
+        {"title": "Python Complete Guide | CPython Internals\u00b7 GIL", "url": "https://pkglog.com/en/blog/python-complete-guide/"},
+        {"title": "Taming the GIL: Understanding and Mitigating Python's Global ..", "url": "https://daily.jovis.ai/python-programming/taming-the-gil-understanding-and-mitigating-pythons-global-interpreter-lock/"},
+        {"title": "What is the Python Global Interpreter Lock (GIL)", "url": "https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/"}
+      ]
+    },
+    "algorithms": {
+      "query": "algorithms data structures optimization techniques LeetCode 2026",
+      "web": [
+        {"title": "Data Structure and Algorithm Patterns for LeetCode... - YouTube", "url": "https://www.youtube.com/watch?v=Z_c4byLrNBU"},
+        {"title": "Solved LeetCode challenge with Sliding Window and... | LinkedIn", "url": "https://www.linkedin.com/posts/shashank736_leetcode-algorithms-datastructures-activity-7391537963286892544-AFtt"},
+        {"title": "Leetcode Problem Solving Techniques | TikTok", "url": "https://www.tiktok.com/discover/leetcode-problem-solving-techniques"},
+        {"title": "Data Structures and Algorithms in Python: DSA Course", "url": "https://www.udemy.com/course/python-data-structures-algorithms/"},
+        {"title": "Problems - LeetCode", "url": "https://leetcode.com/problemset/"},
+        {"title": "[Udemy, Pratik Singhal] Data Structures & Algorithms in Java + 150...", "url": "https://rutracker.org/forum/viewtopic.php?t=6738509"},
+        {"title": "Complete Introduction to the 30 Most Essential Data Structures...", "url": "https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd"},
+        {"title": "Step by step guide to learn Data Structures and Algorithms in 2026", "url": "https://roadmap.sh/datastructures-and-algorithms"},
+        {"title": "datastructures-algorithms \u00b7 GitHub Topics \u00b7 GitHub", "url": "https://github.com/topics/datastructures-algorithms?l=html&o=desc&s=stars"},
+        {"title": "Algorithms, Part I | Coursera", "url": "https://www.coursera.org/learn/algorithms-part1"}
+      ]
+    },
+    "functional-programming": {
+      "query": "functional programming patterns Haskell Rust idioms monads 2026",
+      "web": [
+        {"title": "Functional Programming in 2026: Haskell vs. Gleam vs. Rust", "url": "https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust"},
+        {"title": "Haskell Guide [2026]: Functional Programming That Changes How ...", "url": "https://precisionaiacademy.com/blog/haskell-guide-2026"},
+        {"title": "Does Rust Support Functional Programming Idioms? Exploring Filter/Map ...", "url": "https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/"},
+        {"title": "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...", "url": "https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en"},
+        {"title": "Functional Programming - Rust Design Patterns", "url": "https://rust-unofficial.github.io/patterns/functional/"},
+        {"title": "How I Learned Monads: Not Through Haskell But Through Rust", "url": "https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7"},
+        {"title": "Hello, Haskell: Getting Started in 2026 \u00b7 lukastymo", "url": "https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/"},
+        {"title": "Functional Programming Practical Guide: Immutability, Pure Functions ...", "url": "https://www.youngju.dev/blog/culture/2026-03-23-functional-programming-backend-developer-guide.en"},
+        {"title": "Monads and Monad-Like Patterns in Rust: Exploring Functional Programming", "url": "https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/"},
+        {"title": "", "url": "/clev?event=StartpageResultClick&sc=5mZRtno4IfMA7Jdp2AtLilnW4oi4lMoEfr0UW1F8BVfSkLN6WFGKC7A2Ob9CV5I3dmwsZ7mEHL3SB"}
+      ]
+    },
+    "type-systems": {
+      "query": "type systems programming languages type inference gradual typing 2026",
+      "web": [
+        {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing"},
+        {"title": "Learn to Type | Type Better | Type Faster - Typing.com", "url": "https://www.typing.com/"},
+        {"title": "Learn Touch Typing Free - TypingClub", "url": "https://www.typingclub.com/"},
+        {"title": "Monkeytype | A minimalistic, customizable typing test", "url": "https://monkeytype.com/"},
+        {"title": "TypingTest.com - Complete a Typing Test in 60 Seconds!", "url": "https://www.typingtest.com/"},
+        {"title": "TypeRacer - Play Typing Games and Race Friends", "url": "https://play.typeracer.com/"},
+        {"title": "Typing Test - Check Your Typing Speed Online - 10FastFingers.com", "url": "https://10fastfingers.com/typing-test"},
+        {"title": "Free Online Typing Tutor - SpeedTypingOnline", "url": "https://www.speedtypingonline.com/typing-tutor"},
+        {"title": "Understanding Type Systems: Dynamic, Static... - DEV Community", "url": "https://dev.to/akshatjme/understanding-type-systems-dynamic-static-strong-and-weak-typing-34a2"},
+        {"title": "Why Do Programming Languages Have Types?", "url": "https://pavelfokin.dev/blog/why-do-programming-languages-have-types/"}
+      ]
+    }
+  }
+}

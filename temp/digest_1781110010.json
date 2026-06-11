@@ -1,0 +1,54 @@
+{
+  "timestamp": 1781110010,
+  "date_utc": "2026-06-10 16:48 UTC",
+  "checked": 6,
+  "new_count": 4,
+  "by_profile": {
+    "python-internals": 1,
+    "type-systems": 1,
+    "system-design": 2
+  },
+  "by_page": {
+    "entities/python-internals.md": 1,
+    "entities/type-systems.md": 1,
+    "entities/system-design.md": 2
+  },
+  "sub_topics": {
+    "python-internals": [
+      "tracemalloc - find out"
+    ],
+    "type-systems": [
+      "a programming language that"
+    ],
+    "system-design": [
+      "how do i properly",
+      "system design: scaling to"
+    ]
+  },
+  "new_entries": [
+    {
+      "profile": "python-internals",
+      "title": "tracemalloc - Find out Python interpreter memory... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/66422886/find-out-python-interpreter-memory-consumption",
+      "wiki_page": "entities/python-internals.md"
+    },
+    {
+      "profile": "type-systems",
+      "title": "A Programming Language That Combines the Benefits of Static and...",
+      "url": "https://www.researchgate.net/publication/282074011_A_Programming_Language_That_Combines_the_Benefits_of_Static_and_Dynamic_Typing",
+      "wiki_page": "entities/type-systems.md"
+    },
+    {
+      "profile": "system-design",
+      "title": "System Design: Scaling to the Edge | by Archana Shukla - Medium",
+      "url": "https://medium.com/@arc.shukla/system-design-scaling-to-the-edge-207644248f25",
+      "wiki_page": "entities/system-design.md"
+    },
+    {
+      "profile": "system-design",
+      "title": "How Do I Properly Learn System Design? Need Guidance ... - Reddit",
+      "url": "https://www.reddit.com/r/softwarearchitecture/comments/1owsg6p/how_do_i_properly_learn_system_design_need/",
+      "wiki_page": "entities/system-design.md"
+    }
+  ]
+}

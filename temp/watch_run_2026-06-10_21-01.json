@@ -1,0 +1,72 @@
+{
+  "timestamp": "2026-06-10T21:01:59Z",
+  "batch": 1,
+  "results": {
+    "python-internals": [
+      {"title": "How Python's GIL actually works (and when it bites you)", "url": "https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2", "date": "2026-05-10"},
+      {"title": "Advanced Python 4— GIL in Python - by Abhishek Jain - Medium", "url": "https://medium.com/@abhishekjainindore24/advanced-python-4-gil-in-python-375321837f3c", "date": "2026-02-04"},
+      {"title": "Thread states and the global interpreter lock — Python 3.14.5 documentation", "url": "https://docs.python.org/3/c-api/threads.html", "date": "2026-06-06"},
+      {"title": "What Is the Python Global Interpreter Lock (GIL)? - Real Python", "url": "https://realpython.com/python-gil/", "date": ""},
+      {"title": "Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn", "url": "https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac", "date": "2025-10-22"},
+      {"title": "Understanding the Python Global Interpreter Lock (GIL)", "url": "https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter", "date": "2026-01-01"},
+      {"title": "Why Python Is Removing The GIL (13.5 minutes by Core Dumped)", "url": "https://www.reddit.com/r/Python/comments/1pxxket/why_python_is_removing_the_gil_135_minutes_by/", "date": "2025-12-28"},
+      {"title": "The Secret Life of Python: Understanding the GIL | by Aaron Rose", "url": "https://medium.com/@aaron.rose.tx/the-secret-life-of-python-understanding-the-gil-2efacc6e008d", "date": "2026-04-14"}
+    ],
+    "algorithms": [
+      {"title": "Data Structure and Algorithm Patterns for LeetCode - YouTube", "url": "https://www.youtube.com/watch?v=Z_c4byLrNBU", "date": ""},
+      {"title": "Solved LeetCode 1526 with Greedy Algorithm | LinkedIn", "url": "https://www.linkedin.com/posts/mimoh-kumar-patel-2986a2226_300daysofcode-datastructures-algorithms-activity-7389700113549406208-LqD9", "date": ""},
+      {"title": "DSA Day 60/250: Find Minimum in Rotated Sorted Array (LeetCode 153)", "url": "https://medium.com/codex/dsa-day-60-250-find-minimum-in-rotated-sorted-array-leetcode-153-dbc1d396d7c9", "date": ""},
+      {"title": "Problems - LeetCode", "url": "https://leetcode.com/problemset/?language=Java", "date": ""},
+      {"title": "How to Know When to Use Leetcode Two Pointer Method | TikTok", "url": "https://www.tiktok.com/discover/how-to-know-when-to-use-leetcode-two-pointer-method", "date": ""},
+      {"title": "Step by step guide to learn Data Structures and Algorithms in 2026", "url": "https://roadmap.sh/datastructures-and-algorithms", "date": ""},
+      {"title": "Two Pointers | LeetCode The Hard Way", "url": "https://leetcodethehardway.com/tutorials/basic-topics/two-pointers", "date": ""},
+      {"title": "CS50x 2026", "url": "https://cs50.harvard.edu/x/", "date": ""}
+    ],
+    "functional-programming": [
+      {"title": "Functional Programming in 2026: Haskell vs. Gleam vs. Rust", "url": "https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust", "date": "2026"},
+      {"title": "Haskell Guide [2026]: Functional Programming That Changes How You Think", "url": "https://precisionaiacademy.com/blog/haskell-guide-2026", "date": "2026"},
+      {"title": "Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar", "url": "https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/", "date": ""},
+      {"title": "The Practical Value of Functional Programming — Monad, Functor, Pure Functions", "url": "https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en", "date": "2026-04-15"},
+      {"title": "Functional Programming - Rust Design Patterns", "url": "https://rust-unofficial.github.io/patterns/functional/", "date": ""},
+      {"title": "How I Learned Monads: Not Through Haskell But Through Rust", "url": "https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7", "date": ""},
+      {"title": "Hello, Haskell: Getting Started in 2026", "url": "https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/", "date": "2026"},
+      {"title": "Functional Programming in Rust: Idioms and Examples | PythonLib", "url": "https://pythonlib.ru/en/post92", "date": ""}
+    ]
+  }
+}
+{
+  "timestamp": "2026-06-10T21:01:59Z",
+  "batch": 2,
+  "results": {
+    "type-systems": [
+      {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing", "date": ""},
+      {"title": "Type system - Wikipedia", "url": "https://en.wikipedia.org/wiki/Type_system", "date": ""},
+      {"title": "Elixir v1.20 released: now a gradually typed language", "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/", "date": "2026-06-03"},
+      {"title": "Type inference of all constructs and the next 15 months", "url": "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/", "date": "2026-01-09"},
+      {"title": "From Duck Typing to Strict Types: Python's Evolving Type System", "url": "https://leapcell.medium.com/from-duck-typing-to-strict-types-pythons-evolving-type-system-09df4f5205f0", "date": "2025-05-30"},
+      {"title": "What is a type system, really? - Lambda Land", "url": "https://lambdaland.org/posts/2023-01-17_what_is_a_type_system_really/", "date": "2023-01-23"},
+      {"title": "Type-Based Gradual Typing Performance Optimization", "url": "https://dl.acm.org/doi/full/10.1145/3632931", "date": ""},
+      {"title": "What type systems do you find interesting / useful / underrated?", "url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/", "date": "2025-10-29"}
+    ],
+    "compilers": [
+      {"title": "Just-in-time compilation - Wikipedia", "url": "https://en.wikipedia.org/wiki/Just-in-time_compilation", "date": ""},
+      {"title": "2026 EuroLLVM Developers' Meeting - LLVM.org", "url": "https://llvm.org/devmtg/2026-04/", "date": "2026-04-15"},
+      {"title": "Understanding and Finding JIT Compiler Performance Bugs - arXiv", "url": "https://arxiv.org/pdf/2603.06551", "date": "2026-03-06"},
+      {"title": "Deegen: A JIT-Capable VM Generator for Dynamic Languages", "url": "https://fredrikbk.com/publications/deegen.pdf", "date": ""},
+      {"title": "Clang bytecode interpreter update - Red Hat Developer", "url": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update", "date": "2025-10-15"},
+      {"title": "2026 EuroLLVM Developers' Meeting - Agenda - Announcements", "url": "https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725", "date": "2026-02-06"},
+      {"title": "A Technical Deep-Dive on the JIT/AOT Compiler for revm of BNB Chain", "url": "https://www.bnbchain.org/en/blog/a-technical-deep-dive-on-the-jit-aot-compiler-for-revm-of-bnb-chain", "date": "2025-11-14"},
+      {"title": "Stanford CS343D (Winter 2026) Fred Kjolstad", "url": "https://cs343d.github.io/lectures/lecture10.fast.compilers.pdf", "date": ""}
+    ],
+    "system-design": [
+      {"title": "System Design in 2026: The Complete Guide (18500 words)", "url": "https://dev.to/yakhilesh/system-design-in-2026-the-complete-guide-18500-words-3nn6", "date": "2026-01-07"},
+      {"title": "System Design Building Blocks: Design Scalable Systems in 2026", "url": "https://www.systemdesignhandbook.com/blog/system-design-building-blocks/", "date": ""},
+      {"title": "50 System Design Patterns Every Engineer Should Know in 90 Days", "url": "https://designgurus.substack.com/p/50-system-design-patterns-every-engineer", "date": "2026-05-11"},
+      {"title": "8 Must-Used Distributed System Patterns | Sina Riyahi - LinkedIn", "url": "https://www.linkedin.com/posts/sina-riyahi_8-must-used-distributed-system-patterns-activity-7398669926544191488-If5F", "date": "2025-11-24"},
+      {"title": "The Complete Guide to System Design in 2026 | InfraSketch Blog", "url": "https://infrasketch.net/blog/complete-guide-system-design", "date": "2026-01-05"},
+      {"title": "Scalability Patterns for Modern Distributed Systems", "url": "https://blog.bytebytego.com/p/scalability-patterns-for-modern-distributed", "date": "2025-11-13"},
+      {"title": "Distributed Cache Invalidation Patterns - Foojay.io", "url": "https://foojay.io/today/distributed-cache-invalidation-patterns/", "date": "2026-04-21"},
+      {"title": "Load Balancing: Designing Scalable, Resilient, and High Performance Distributed Systems", "url": "https://blog.stackademic.com/load-balancing-designing-scalable-resilient-and-high-performance-distributed-systems-9adac09c4ec4", "date": "2026-02-25"}
+    ]
+  }
+}

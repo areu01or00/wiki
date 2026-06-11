@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-06-10T21:01:59Z",
+  "batch": 2,
+  "results": {
+    "type-systems": [
+      {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing", "date": ""},
+      {"title": "Type system - Wikipedia", "url": "https://en.wikipedia.org/wiki/Type_system", "date": ""},
+      {"title": "Elixir v1.20 released: now a gradually typed language", "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/", "date": "2026-06-03"},
+      {"title": "Type inference of all constructs and the next 15 months", "url": "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/", "date": "2026-01-09"},
+      {"title": "From Duck Typing to Strict Types: Python's Evolving Type System", "url": "https://leapcell.medium.com/from-duck-typing-to-strict-types-pythons-evolving-type-system-09df4f5205f0", "date": "2025-05-30"},
+      {"title": "What is a type system, really? - Lambda Land", "url": "https://lambdaland.org/posts/2023-01-17_what_is_a_type_system_really/", "date": "2023-01-23"},
+      {"title": "Type-Based Gradual Typing Performance Optimization", "url": "https://dl.acm.org/doi/full/10.1145/3632931", "date": ""},
+      {"title": "What type systems do you find interesting / useful / underrated?", "url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/", "date": "2025-10-29"}
+    ],
+    "compilers": [
+      {"title": "Just-in-time compilation - Wikipedia", "url": "https://en.wikipedia.org/wiki/Just-in-time_compilation", "date": ""},
+      {"title": "2026 EuroLLVM Developers' Meeting - LLVM.org", "url": "https://llvm.org/devmtg/2026-04/", "date": "2026-04-15"},
+      {"title": "Understanding and Finding JIT Compiler Performance Bugs - arXiv", "url": "https://arxiv.org/pdf/2603.06551", "date": "2026-03-06"},
+      {"title": "Deegen: A JIT-Capable VM Generator for Dynamic Languages", "url": "https://fredrikbk.com/publications/deegen.pdf", "date": ""},
+      {"title": "Clang bytecode interpreter update - Red Hat Developer", "url": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update", "date": "2025-10-15"},
+      {"title": "2026 EuroLLVM Developers' Meeting - Agenda - Announcements", "url": "https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725", "date": "2026-02-06"},
+      {"title": "A Technical Deep-Dive on the JIT/AOT Compiler for revm of BNB Chain", "url": "https://www.bnbchain.org/en/blog/a-technical-deep-dive-on-the-jit-aot-compiler-for-revm-of-bnb-chain", "date": "2025-11-14"},
+      {"title": "Stanford CS343D (Winter 2026) Fred Kjolstad", "url": "https://cs343d.github.io/lectures/lecture10.fast.compilers.pdf", "date": ""}
+    ],
+    "system-design": [
+      {"title": "System Design in 2026: The Complete Guide (18500 words)", "url": "https://dev.to/yakhilesh/system-design-in-2026-the-complete-guide-18500-words-3nn6", "date": "2026-01-07"},
+      {"title": "System Design Building Blocks: Design Scalable Systems in 2026", "url": "https://www.systemdesignhandbook.com/blog/system-design-building-blocks/", "date": ""},
+      {"title": "50 System Design Patterns Every Engineer Should Know in 90 Days", "url": "https://designgurus.substack.com/p/50-system-design-patterns-every-engineer", "date": "2026-05-11"},
+      {"title": "8 Must-Used Distributed System Patterns | Sina Riyahi - LinkedIn", "url": "https://www.linkedin.com/posts/sina-riyahi_8-must-used-distributed-system-patterns-activity-7398669926544191488-If5F", "date": "2025-11-24"},
+      {"title": "The Complete Guide to System Design in 2026 | InfraSketch Blog", "url": "https://infrasketch.net/blog/complete-guide-system-design", "date": "2026-01-05"},
+      {"title": "Scalability Patterns for Modern Distributed Systems", "url": "https://blog.bytebytego.com/p/scalability-patterns-for-modern-distributed", "date": "2025-11-13"},
+      {"title": "Distributed Cache Invalidation Patterns - Foojay.io", "url": "https://foojay.io/today/distributed-cache-invalidation-patterns/", "date": "2026-04-21"},
+      {"title": "Load Balancing: Designing Scalable, Resilient, and High Performance Distributed Systems", "url": "https://blog.stackademic.com/load-balancing-designing-scalable-resilient-and-high-performance-distributed-systems-9adac09c4ec4", "date": "2026-02-25"}
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "batch": 2,
+  "timestamp": 1781110863,
+  "results": {
+    "type-systems": {
+      "query": "type systems programming languages type inference gradual typing 2026",
+      "web": [
+        {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing"},
+        {"title": "19 Best compiled programming languages as of 2026 - Slant", "url": "https://www.slant.co/topics/15430/~compiled-programming-languages"},
+        {"title": "type-inference · GitHub Topics · GitHub", "url": "https://github.com/topics/type-inference?l=ocaml"},
+        {"title": "Gradual typing: a new perspective | Proceedings of the ACM on...", "url": "https://dl.acm.org/doi/10.1145/3290329?cookieSet=1"},
+        {"title": "POPL 2026 - POPL Research Papers - POPL 2026", "url": "https://conf.researchr.org/track/POPL-2026/POPL-2026-popl-research-papers"},
+        {"title": "Gradual Typing: A New Perspective", "url": "https://www.irif.fr/~gc/papers/popl19.pdf"},
+        {"title": "Principal Type Schemes for Gradual Programs", "url": "https://www.cs.ubc.ca/~rxg/ptsgp.pdf"},
+        {"title": "Gradual Typing for Annotated Type Systems | Springer Nature Link", "url": "https://link.springer.com/chapter/10.1007/978-3-642-54833-8_4"},
+        {"title": "Gradual Typing Includes Both Fully Static and Fully Dynamic", "url": "https://jsiek.github.io/home/refined-criteria-gradual.pdf"},
+        {"title": "Types and type systems (reading)", "url": "https://research.tedneward.com/langdev/types-and-type-systems/index.html"}
+      ]
+    },
+    "compilers": {
+      "query": "compilers interpreters JIT LLVM optimization bytecode 2026",
+      "web": [
+        {"title": "LLVM Implementation for Java JIT Compilers: A Deep Dive | Dev Genius", "url": "https://blog.devgenius.io/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec"},
+        {"title": "Interpreters and Compilers — 36-750 Statistical Computing", "url": "https://36-750.github.io/concepts/interpreters-compilers/"},
+        {"title": "java - Does JVM have machine specific optimization - Stack Overflow", "url": "https://stackoverflow.com/questions/48235961/does-jvm-have-machine-specific-optimization-flags"},
+        {"title": "2007-03-12-BossaLLVMIntroRevised.key", "url": "https://llvm.org/pubs/2007-03-12-BossaLLVMIntro.pdf"},
+        {"title": "Building a JIT Compiler from Scratch: Part 1 — Why Build a JIT", "url": "https://medium.com/codejitsu/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-84cf453b1155"},
+        {"title": "Understanding the differences: traditional interpreter, JIT compiler, JIT interp", "url": "https://softwareengineering.stackexchange.com/questions/246094/understanding-the-differences-traditional-interpreter-jit-compiler-jit-interp"},
+        {"title": "Compiler Design and Interpreters - Computer Science Authority", "url": "https://computerscienceauthority.com/compiler-design-and-interpreters"},
+        {"title": "How JavaScript works: Optimizing the V8 compiler for efficiency", "url": "https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/"},
+        {"title": "Recaf 4X: Compile down-sampling - YouTube", "url": "https://www.youtube.com/watch?v=X_2M0X6ETyA"},
+        {"title": "Why Is Java Called Both a Compiled and Interpreted Language?", "url": "https://www.javaspring.net/blog/why-java-is-both-compiled-and-interpreted-language-when-the-jit-also-compiles-the-bytecode/"}
+      ]
+    },
+    "system-design": {
+      "query": "distributed systems architecture load balancing caching patterns 2026",
+      "web": [
+        {"title": "System Design in 2026: The Complete Guide (18500 words)", "url": "https://dev.to/yakhilesh/system-design-in-2026-the-complete-guide-18500-words-3nn6"},
+        {"title": "System Design Building Blocks: Design Scalable Systems in 2026", "url": "https://www.systemdesignhandbook.com/blog/system-design-building-blocks/"},
+        {"title": "Scalability Patterns for Modern Distributed Systems", "url": "https://blog.bytebytego.com/p/scalability-patterns-for-modern-distributed"},
+        {"title": "8 Must-Used Distributed System Patterns | Sina Riyahi - LinkedIn", "url": "https://www.linkedin.com/posts/sina-riyahi_8-must-used-distributed-system-patterns-activity-7398669926544191488-If5F"},
+        {"title": "50 System Design Patterns Every Engineer Should Know in 90 Days", "url": "https://designgurus.substack.com/p/50-system-design-patterns-every-engineer"},
+        {"title": "Distributed Cache Invalidation Patterns - Foojay.io", "url": "https://foojay.io/today/distributed-cache-invalidation-patterns/"},
+        {"title": "The Complete Guide to System Design in 2026 | InfraSketch Blog", "url": "https://infrasketch.net/blog/complete-guide-system-design"},
+        {"title": "Performance Engineering in Distributed Systems: Lessons That Compound", "url": "https://cacm.acm.org/blogcacm/performance-engineering-in-distributed-systems-lessons-that-compound-over-time/"},
+        {"title": "System Design: Scaling to the Edge | by Archana Shukla - Medium", "url": "https://medium.com/@arc.shukla/system-design-scaling-to-the-edge-207644248f25"},
+        {"title": "How Do I Properly Learn System Design? Need Guidance - Reddit", "url": "https://www.reddit.com/r/softwarearchitecture/comments/1owsg6p/how_do_i_properly_learn_system_design_need/"}
+      ]
+    }
+  }
+}

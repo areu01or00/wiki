@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-06-11_07-31",
+  "batch": 1,
+  "results": {
+    "python-internals": [
+      {
+        "title": "Python - Python Internals: Memory Management & the Global ...",
+        "url": "https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil",
+        "description": "This topic explains how Python works behind the scenes to manage memory and execute code efficiently.",
+        "hash": "b52883f4c09c9a3086481dd582e2ea6d"
+      },
+      {
+        "title": "The Secret Life of Python: Understanding the GIL",
+        "url": "https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html",
+        "description": "Apr 14, 2026 \u00b7 Back in the day, to keep Python internal memory management simple and thread-safe.",
+        "hash": "4aa45f88b11be85c9e2609d7545bb7fb"
+      },
+      {
+        "title": "What is the Global Interpreter Lock (GIL) in Python? Is It ...",
+        "url": "https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10",
+        "description": "Feb 10, 2026 \u00b7 Learn what Python Global Interpreter Lock (GIL) is.",
+        "hash": "498edfd974d66c35db81ddcb5eced2f1"
+      },
+      {
+        "title": "Understanding the Python Global Interpreter Lock (GIL)",
+        "url": "https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter",
+        "description": "Jan 1, 2026 \u00b7 The Global Interpreter Lock (GIL) is a mutex in CPython.",
+        "hash": "d312cb77ade078c8f1e9dac2e24a756b"
+      },
+      {
+        "title": "What is the Python Global Interpreter Lock (GIL)",
+        "url": "https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/",
+        "description": "2 days ago \u00b7 Global Interpreter Lock (GIL) is a mutex.",
+        "hash": "3f53aaddb3c9ccc1340c0fbf20196bee"
+      },
+      {
+        "title": "Python GIL Is Gone \u2014 What That Actually Means for Your Code",
+        "url": "https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879",
+        "description": "Mar 29, 2026 \u00b7 The Global Interpreter Lock (GIL) is a mutex that protects Python internal memory management.",
+        "hash": "5c800256fa4fa85266bb22dda2284b33"
+      },
+      {
+        "title": "How Python Works Under the Hood: Memory, GIL, and Bytecode",
+        "url": "https://www.pythoncompiler.io/python/python-internals/",
+        "description": "Python creates an integer object in memory, assigns a reference to it.",
+        "hash": "db1be0cfcc98844b9e2cb2e406277fd8"
+      },
+      {
+        "title": "Inside Python: How your code runs, from source to execution | Medium",
+        "url": "https://medium.com/codetodeploy/inside-python-how-your-code-runs-from-source-to-execution-3511f97a9a95",
+        "description": "Your code goes through parsing, compiling, bytecode generation.",
+        "hash": "ddead749313fcd1ecd10d1473c8063c7"
+      },
+      {
+        "title": "What Is the Python Global Interpreter Lock (GIL)? \u2013 Real Python",
+        "url": "https://realpython.com/python-gil/",
+        "description": "Python Global Interpreter Lock or GIL, in simple words, is a mutex.",
+        "hash": "bbb596c3441904fed7dc7fa5f00eeb00"
+      },
+      {
+        "title": "Chapter 1 \u2014 What is Python? | Udit Jain",
+        "url": "https://jainudi48.github.io/python/software-engineering/learning/2025/05/29/what-is-python-simplied.html",
+        "description": "Memory Management. The GIL. Python Runtimes.",
+        "hash": "d40943cf2afc06018ce127ebce1db4e4"
+      }
+    ],
+    "algorithms": [
+      {
+        "title": "ashishps1/awesome-leetcode-resources - GitHub",
+        "url": "https://github.com/ashishps1/awesome-leetcode-resources",
+        "description": "Awesome LeetCode resources to learn Data Structures and Algorithms.",
+        "hash": "8b872e9c4137efc4de77b9e0bf4a2ba1"
+      },
+      {
+        "title": "Best DSA Sheet 2026 | To Crack Interviews - namastedev.com",
+        "url": "https://namastedev.com/namaste-dsa-sheet",
+        "description": "Master Data Structures and Algorithms with the Namaste DSA Sheet.",
+        "hash": "b374c779c101dd010d1f2ed0450afdee"
+      },
+      {
+        "title": "Complete Data Structures and Algorithms / Unwired Learning",
+        "url": "https://unwiredlearning.com/bundles/complete-data-structures-and-algorithms",
+        "description": "Learn and implement Data Structures and Algorithms with 80+ Leetcode problems.",
+        "hash": "24675d547cfbea09507a39b19072a4c4"
+      },
+      {
+        "title": "abimanyunk/Data-Structures-and-Algorithms - GitHub",
+        "url": "https://github.com/abimanyunk/Data-Structures-and-Algorithms",
+        "description": "A collection of LeetCode problems solved in Java.",
+        "hash": "29d6590408c7e398783e3b32baa246fb"
+      },
+      {
+        "title": "Data Structures & Algorithms Roadmap 2026 - Complete Learning Path",
+        "url": "https://www.thetutorbridge.com/roadmap/dsa",
+        "description": "Master data structures and algorithms with our comprehensive 2026 roadmap.",
+        "hash": "00a02315b04f8e95fb7ced3e13f75bfc"
+      },
+      {
+        "title": "Algorithm Challenges on LeetCode Guide - AlgoHay",
+        "url": "https://www.algohay.com/blog/algorithm-challenges-on-leetcode-guide/",
+        "description": "Space Complexity: Evaluates memory consumption based on data structures.",
+        "hash": "5f0d62ae9ef789f81beac41647259a2b"
+      },
+      {
+        "title": "I Tried 30+ Data Structures and Algorithms Courses: Here are ... - Medium",
+        "url": "https://medium.com/javarevisited/i-tried-30-data-structures-and-algorithms-courses-here-are-my-top-5-recommendations-for-2026-124e64b5cf4c",
+        "description": "If you are preparing for coding interviews in 2026.",
+        "hash": "bd9a24755a1e89ce0654d72b557083e9"
+      },
+      {
+        "title": "LeetCode Python Solutions: Dynamic Programming Optimization Techniques 2026",
+        "url": "https://johal.in/leetcode-python-solutions-dynamic-programming-optimization-techniques-2026/",
+        "description": "Imagine solving the toughest LeetCode Hard problems in under 5 minutes.",
+        "hash": "6c3d81779c383c345f0551939f479e8f"
+      },
+      {
+        "title": "DSA Tutorial - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+        "description": "DSA stands for Data Structures and Algorithms.",
+        "hash": "a857c814273e0c7625339c1a17718eac"
+      }
+    ],
+    "functional-programming": [
+      {
+        "title": "Idiomatic monads in Rust | varkor blog",
+        "url": "https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html",
+        "description": "varkor blog. Idiomatic monads in Rust.",
+        "hash": "86ad9a53fde3ab2522c5b3ae57b3e49e"
+      },
+      {
+        "title": "WHAT IS A MONAD? Functional Programming Patterns... - YouTube",
+        "url": "https://www.youtube.com/watch?v=8DJtc3zJ5nY",
+        "description": "Functional programming has some very nice Design Patterns.",
+        "hash": "7fa191338a78393a1170bf2e8ebd2886"
+      },
+      {
+        "title": "Monads and Monad-Like Patterns in Rust: Exploring Functional...",
+        "url": "https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/",
+        "description": "Visualizing Monadic Operations.",
+        "hash": "bab6dc04368dc487cd403e3a93312b56"
+      },
+      {
+        "title": "All About Monads - HaskellWiki",
+        "url": "https://wiki.haskell.org/All_About_Monads",
+        "description": "All About Monads is a tutorial on monads and monad transformers.",
+        "hash": "c233ce094f809bd93c2f4474229feed5"
+      },
+      {
+        "title": "Monads (and Functors and Applicatives) explained (badly) in Rust",
+        "url": "https://users.rust-lang.org/t/monads-and-functors-and-applicatives-explained-badly-in-rust/15187",
+        "description": "Both Rust and Haskell allow you to have an Incomplete Type.",
+        "hash": "3705fc193c5f78deebdf7b87258a24fc"
+      },
+      {
+        "title": "GitHub - nsu-syspro/haskell-monads-2026: haskell-monads created...",
+        "url": "https://github.com/nsu-syspro/haskell-monads-2026",
+        "description": "nsu-syspro/haskell-monads-2026.",
+        "hash": "4c8430764e226998c046254fd0cf3e74"
+      },
+      {
+        "title": "Monads And Their Use in Modern Programming",
+        "url": "https://www.linkedin.com/pulse/monads-use-modern-programming-enrique-ortu-o-znk9f",
+        "description": "Monads shine in several areas within functional programming.",
+        "hash": "8ea7bb993861b6f9ba770725c408a37c"
+      },
+      {
+        "title": "Monads as a Programming Pattern",
+        "url": "https://samgrayson.me/essays/monads-as-a-programming-pattern/",
+        "description": "Monads as a Programming Pattern.",
+        "hash": "d833da32acaa360ef7d45e8af98e7dff"
+      },
+      {
+        "title": "Haskell Monads \u2014 Monday Morning Haskell",
+        "url": "https://mmhaskell.com/monads",
+        "description": "Our introduction to monads examined the built in types.",
+        "hash": "98e526be52c4f26f6ab112fd904d69d2"
+      },
+      {
+        "title": "Monads in Functional Programming: From Theory to... | Medium",
+        "url": "https://medium.com/@mo.mirjavadi/monads-in-functional-programming-from-theory-to-practice-9f9f93c0bf51",
+        "description": "Be Consistent: Once you introduce monadic patterns, use them consistently.",
+        "hash": "9d5836ba5ec7140a6bc9740045cb686d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "new_entries_by_wiki_page": {
+    "entities/python-internals.md": [
+      "- **2026-06-11** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, python, internals:",
+      "- **2026-06-11** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: secret, life, python:",
+      "- **2026-06-11** | [What is the Global Interpreter Lock (GIL) in Python? Is It ...](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: what, global, interpreter",
+      "- **2026-06-11** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: what, python, global",
+      "- **2026-06-11** | [Python GIL Is Gone \u2014 What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python, gone, what",
+      "- **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under",
+      "- **2026-06-11** | [Chapter 1 \u2014 What is Python? | Udit Jain](https://jainudi48.github.io/python/software-engineering/learning/2025/05/29/what-is-python-simplied.html) | kw: chapter, what, python?"
+    ],
+    "entities/algorithms.md": [
+      "- **2026-06-11** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: ashishps1/awesome-leetcode-resources, github",
+      "- **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: best, sheet, 2026",
+      "- **2026-06-11** | [Complete Data Structures and Algorithms / Unwired Learning](https://unwiredlearning.com/bundles/complete-data-structures-and-algorithms) | kw: complete, data, structures",
+      "- **2026-06-11** | [abimanyunk/Data-Structures-and-Algorithms - GitHub](https://github.com/abimanyunk/Data-Structures-and-Algorithms) | kw: abimanyunk/data-structures-and-algorithms, github",
+      "- **2026-06-11** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: data, structures, algorithms",
+      "- **2026-06-11** | [Algorithm Challenges on LeetCode Guide - AlgoHay](https://www.algohay.com/blog/algorithm-challenges-on-leetcode-guide/) | kw: algorithm, challenges, leetcode",
+      "- **2026-06-11** | [I Tried 30+ Data Structures and Algorithms Courses: Here are ... - Medium](https://medium.com/javarevisited/i-tried-30-data-structures-and-algorithms-courses-here-are-my-top-5-recommendations-for-2026-124e64b5cf4c) | kw: tried, data, structures",
+      "- **2026-06-11** | [LeetCode Python Solutions: Dynamic Programming Optimization Techniques 2026](https://johal.in/leetcode-python-solutions-dynamic-programming-optimization-techniques-2026/) | kw: leetcode, python, solutions:",
+      "- **2026-06-11** | [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: tutorial, geeksforgeeks"
+    ],
+    "entities/functional-programming.md": [
+      "- **2026-06-11** | [Idiomatic monads in Rust | varkor blog](https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html) | kw: idiomatic, monads, rust",
+      "- **2026-06-11** | [WHAT IS A MONAD? Functional Programming Patterns... - YouTube](https://www.youtube.com/watch?v=8DJtc3zJ5nY) | kw: what, monad?, functional",
+      "- **2026-06-11** | [GitHub - nsu-syspro/haskell-monads-2026: haskell-monads created...](https://github.com/nsu-syspro/haskell-monads-2026) | kw: github, nsu-syspro/haskell-monads-2026:, haskell-monads",
+      "- **2026-06-11** | [Monads And Their Use in Modern Programming](https://www.linkedin.com/pulse/monads-use-modern-programming-enrique-ortu-o-znk9f) | kw: monads, their, modern",
+      "- **2026-06-11** | [Monads as a Programming Pattern](https://samgrayson.me/essays/monads-as-a-programming-pattern/) | kw: monads, programming, pattern",
+      "- **2026-06-11** | [Haskell Monads \u2014 Monday Morning Haskell](https://mmhaskell.com/monads) | kw: haskell, monads, monday",
+      "- **2026-06-11** | [Monads in Functional Programming: From Theory to... | Medium](https://medium.com/@mo.mirjavadi/monads-in-functional-programming-from-theory-to-practice-9f9f93c0bf51) | kw: monads, functional, programming:"
+    ],
+    "entities/type-systems.md": [
+      "- **2026-06-11** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual, typing, wikipedia",
+      "- **2026-06-11** | [Type Systems: From Generics to Dependent Types](https://federicocarrone.com/articles/type-systems/) | kw: type, systems:, from",
+      "- **2026-06-11** | [30 Best general-purpose programming languages as of 2026 - Slant](https://www.slant.co/topics/15491/~general-purpose-programming-languages) | kw: best, general-purpose, programming",
+      "- **2026-06-11** | [Gradual typing in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/gradual-typing-in-python/) | kw: gradual, typing, python",
+      "- **2026-06-11** | [Understanding Type Systems: Dynamic, Static... - DEV Community](https://dev.to/akshatjme/understanding-type-systems-dynamic-static-strong-and-weak-typing-34a2) | kw: understanding, type, systems:",
+      "- **2026-06-11** | [type-inference \u00b7 GitHub Topics \u00b7 GitHub](https://github.com/topics/type-inference?l=ocaml) | kw: type-inference, github, topics",
+      "- **2026-06-11** | [Consistent Subtyping for All | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-319-89884-1_1) | kw: consistent, subtyping, springer",
+      "- **2026-06-11** | [Extending Dylan type system for better type inference and error...](https://pure.itu.dk/en/publications/extending-dylans-type-system-for-better-type-inference-and-error-/) | kw: extending, dylan, type",
+      "- **2026-06-11** | [ReasonML vs TypeScript: comparing their type systems | Medium](https://medium.com/free-code-camp/reasonml-typescript-comparing-their-type-systems-620e4343221c) | kw: reasonml, typescript:, comparing"
+    ],
+    "entities/compilers.md": [
+      "- **2026-06-11** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: building, jit:, starting",
+      "- **2026-06-11** | [Compilers and Modern Language Runtimes \u2014 LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, modern, language",
+      "- **2026-06-11** | [2026 EuroLLVM Developers Meeting - LLVM.org](https://llvm.org/devmtg/2026-04/) | kw: 2026, eurollvm, developers",
+      "- **2026-06-11** | [Clang bytecode interpreter update - Red Hat Developer](https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update) | kw: clang, bytecode, interpreter",
+      "- **2026-06-11** | [2026 EuroLLVM Developers Meeting - Agenda - Announcements](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: 2026, eurollvm, developers",
+      "- **2026-06-11** | [Understanding and Finding JIT Compiler Performance Bugs - arXiv](https://arxiv.org/pdf/2603.06551) | kw: understanding, finding, compiler"
+    ],
+    "entities/system-design.md": [
+      "- **2026-06-11** | [System Design in 2026: The Complete Guide (18500 words)](https://dev.to/yakhilesh/system-design-in-2026-the-complete-guide-18500-words-3nn6) | kw: system, design, 2026:",
+      "- **2026-06-11** | [Load Balancing and Caching: Improving Performance in Large ...](https://medium.com/@kalanamalshan98/load-balancing-and-caching-improving-performance-in-large-systems-8dba10c35d68) | kw: load, balancing, caching:",
+      "- **2026-06-11** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system, design, patterns",
+      "- **2026-06-11** | [8 Must-Used Distributed System Patterns | Sina Riyahi - LinkedIn](https://www.linkedin.com/posts/sina-riyahi_8-must-used-distributed-system-patterns-activity-7398669926544191488-If5F) | kw: must-used, distributed, system",
+      "- **2026-06-11** | [Scalability Patterns for Modern Distributed Systems](https://blog.bytebytego.com/p/scalability-patterns-for-modern-distributed) | kw: scalability, patterns, modern",
+      "- **2026-06-11** | [Distributed Cache Invalidation Patterns - Foojay.io](https://foojay.io/today/distributed-cache-invalidation-patterns/) | kw: distributed, cache, invalidation",
+      "- **2026-06-11** | [The Complete Guide to System Design in 2026 | InfraSketch Blog](https://infrasketch.net/blog/complete-guide-system-design) | kw: complete, guide, system",
+      "- **2026-06-11** | [Making software scale better with modern design patterns - Upsun](https://upsun.com/blog/software-design-patterns/) | kw: making, software, scale",
+      "- **2026-06-11** | [How Do I Properly Learn System Design? Need Guidance ... - Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1owsg6p/how_do_i_properly_learn_system_design_need/) | kw: properly, learn, system"
+    ]
+  },
+  "new_hashes_by_profile": {
+    "python-internals": [
+      "b52883f4c09c9a3086481dd582e2ea6d",
+      "4aa45f88b11be85c9e2609d7545bb7fb",
+      "498edfd974d66c35db81ddcb5eced2f1",
+      "3f53aaddb3c9ccc1340c0fbf20196bee",
+      "5c800256fa4fa85266bb22dda2284b33",
+      "db1be0cfcc98844b9e2cb2e406277fd8",
+      "d40943cf2afc06018ce127ebce1db4e4"
+    ],
+    "algorithms": [
+      "8b872e9c4137efc4de77b9e0bf4a2ba1",
+      "b374c779c101dd010d1f2ed0450afdee",
+      "24675d547cfbea09507a39b19072a4c4",
+      "29d6590408c7e398783e3b32baa246fb",
+      "00a02315b04f8e95fb7ced3e13f75bfc",
+      "5f0d62ae9ef789f81beac41647259a2b",
+      "bd9a24755a1e89ce0654d72b557083e9",
+      "6c3d81779c383c345f0551939f479e8f",
+      "a857c814273e0c7625339c1a17718eac"
+    ],
+    "functional-programming": [
+      "86ad9a53fde3ab2522c5b3ae57b3e49e",
+      "7fa191338a78393a1170bf2e8ebd2886",
+      "4c8430764e226998c046254fd0cf3e74",
+      "8ea7bb993861b6f9ba770725c408a37c",
+      "d833da32acaa360ef7d45e8af98e7dff",
+      "98e526be52c4f26f6ab112fd904d69d2",
+      "9d5836ba5ec7140a6bc9740045cb686d"
+    ],
+    "type-systems": [
+      "08183a095f9bb03fe7dd6ce06dfd5115",
+      "a5283d79b7723d76d3b23b8a3c14d8c7",
+      "7306a8436524b132b725c593d3df4577",
+      "7981958bc7ccf67e1ee7b3d27ac6ee66",
+      "5a641532dfc6d9e18737024fc0e104d8",
+      "98e316b354d9bdf56912c926971e5567",
+      "14cb193e7f5597db6c01cb34cb4ee0bd",
+      "1ec120c66875bd145a4c2cb480a6221f",
+      "47bd976e53fd477023f19b584e460f09"
+    ],
+    "compilers": [
+      "df581a22e0cf096e525cbe4716c834a5",
+      "d0de062ed058a4b7bb87b9c013129190",
+      "b7fb7f6500799d0f60cb61fb935e7903",
+      "7a92f1c52fb40752998994f704703a1b",
+      "95bb9124ed4d9a3cea7ab0eff4121f5b",
+      "ca0f021b21560edda0bda4cd1ff5046d"
+    ],
+    "system-design": [
+      "1b2e7dc62e73e99971d348cb9458f073",
+      "5f662ccb65500823c07d0136c7c135c4",
+      "e386d25ff1816abec2a4433c860ed876",
+      "b0c37e76c0abb6b19a0ec03a8522a4f3",
+      "fcf265d0fec3bb95523b5e50ba0a517a",
+      "a92030946066b012da4066390dd05366",
+      "4a75975bbd7ceb861d5fe114d0669e90",
+      "9d7366fd58fa9fb3a2f902407f8616b5",
+      "c236fe7f9139ffe5abef3d356641bdd0"
+    ]
+  },
+  "total_checked": 59,
+  "total_new": 47,
+  "profiles_checked": [
+    "python-internals",
+    "algorithms",
+    "functional-programming",
+    "type-systems",
+    "compilers",
+    "system-design"
+  ],
+  "timestamp": "2026-06-11_07-34"
+}

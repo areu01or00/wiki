@@ -1,0 +1,51 @@
+{
+  "batch": 1,
+  "timestamp": 1781101958,
+  "results": {
+    "python-internals": {
+      "query": "Python GIL bytecode interpreter memory management internals 2026",
+      "web": [
+        {"title": "Advanced Python 4— GIL in Python - by Abhishek Jain - Medium", "url": "https://medium.com/@abhishekjainindore24/advanced-python-4-gil-in-python-375321837f3c"},
+        {"title": "How Python's GIL actually works (and when it bites you)", "url": "https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2"},
+        {"title": "Thread states and the global interpreter lock — Python 3.14.5 ...", "url": "https://docs.python.org/3/c-api/threads.html"},
+        {"title": "What Is the Python Global Interpreter Lock (GIL)? - Real Python", "url": "https://realpython.com/python-gil/"},
+        {"title": "Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn", "url": "https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac"},
+        {"title": "Understanding the Python Global Interpreter Lock (GIL)", "url": "https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter"},
+        {"title": "\"Why Python Is Removing The GIL\" (13.5 minutes by Core Dumped)", "url": "https://www.reddit.com/r/Python/comments/1pxxket/why_python_is_removing_the_gil_135_minutes_by/"},
+        {"title": "The Secret Life of Python: Understanding the GIL | by Aaron Rose", "url": "https://medium.com/@aaron.rose.tx/the-secret-life-of-python-understanding-the-gil-2efacc6e008d"},
+        {"title": "5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global", "url": "https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide"},
+        {"title": "What is the global interpreter lock (GIL) in CPython? - Stack Overflow", "url": "https://stackoverflow.com/questions/1294382/what-is-the-global-interpreter-lock-gil-in-cpython"}
+      ]
+    },
+    "algorithms": {
+      "query": "algorithms data structures optimization techniques LeetCode 2026",
+      "web": [
+        {"title": "Data Structure and Algorithm Patterns for LeetCode... - YouTube", "url": "https://www.youtube.com/watch?v=Z_c4byLrNBU"},
+        {"title": "Solved LeetCode challenge with Sliding Window and... | LinkedIn", "url": "https://www.linkedin.com/posts/shashank736_leetcode-algorithms-datastructures-activity-7391537963286892544-AFtt"},
+        {"title": "Leetcode Problem Solving Techniques | TikTok", "url": "https://www.tiktok.com/discover/leetcode-problem-solving-techniques"},
+        {"title": "Problems - LeetCode", "url": "https://leetcode.com/problemset/"},
+        {"title": "Step by step guide to learn Data Structures and Algorithms in 2026", "url": "https://roadmap.sh/datastructures-and-algorithms"},
+        {"title": "Technical (Leetcode-style) Interview Cheat Sheet... | Level Up Coding", "url": "https://levelup.gitconnected.com/technical-leetcode-style-interview-cheat-sheet-python-0c744398e5e3"},
+        {"title": "CS50x 2026", "url": "https://cs50.harvard.edu/x/"},
+        {"title": "Learn Data Structures and Algorithms", "url": "https://www.programiz.com/dsa"},
+        {"title": "Algorithms and Data Structures", "url": "https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/winter20/algorithms-and-data-structures"},
+        {"title": "towardsdatascience.com", "url": "https://towardsdatascience.com/"}
+      ]
+    },
+    "functional-programming": {
+      "query": "functional programming patterns Haskell Rust idioms monads 2026",
+      "web": [
+        {"title": "Functional Programming in 2026: Haskell vs. Gleam vs. Rust", "url": "https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust"},
+        {"title": "Haskell Guide [2026]: Functional Programming That Changes How ...", "url": "https://precisionaiacademy.com/blog/haskell-guide-2026"},
+        {"title": "Does Rust Support Functional Programming Idioms? Exploring Filter/Map ...", "url": "https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/"},
+        {"title": "The Practical Value of Functional Programming — Monad, Functor, Pure ...", "url": "https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en"},
+        {"title": "Functional Programming - Rust Design Patterns", "url": "https://rust-unofficial.github.io/patterns/functional/"},
+        {"title": "How I Learned Monads: Not Through Haskell But Through Rust", "url": "https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7"},
+        {"title": "Hello, Haskell: Getting Started in 2026 · lukastymo", "url": "https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/"},
+        {"title": "Functional Programming Practical Guide: Immutability, Pure Functions ...", "url": "https://www.youngju.dev/blog/culture/2026-03-23-functional-programming-backend-developer-guide.en"},
+        {"title": "GitHub - rljacobson/rust_patterns: A living collection of advanced and ...", "url": "https://github.com/rljacobson/rust_patterns"},
+        {"title": "", "url": "/clev?event=StartpageResultClick&sc=1tzfoDyGcH0xOPVmgUI6US5WBlo4VNJt3RNnOFqizh8NIsb15qMfu7GsAHdUOCqD1bZTIFIjP938CEln&payload=%7B%22bdsSessionId%22%3A%22d172302682d64512ae417858777c4bb0%22%2C%22cheqId%22%3A%22%22%2C%22countryCode%22%3A%22IN%22%2C%22deviceType%22%3A%22mobile%22%2C%22endpoint%22%3A%22search.serp%22%2C%22hasGoogleAds%22%3Afalse%2C%22page_id%22%3A%221Ei1hjhrGa8BbTSbN%22%2C%22queryCategory%22%3A%22web%22%2C%22segment%22%3A%22startpage.udog%22%2C%22session_id%22%3A%2228WCojTyJ2p1YjKo%22%2C%22surface%22%3A%22serp-web%22%2C%22transport%22%3A%22href-request%22%7D"}
+      ]
+    }
+  }
+}

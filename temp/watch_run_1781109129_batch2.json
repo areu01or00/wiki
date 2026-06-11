@@ -1,0 +1,48 @@
+{
+  "batch": 2,
+  "timestamp": 1781109129,
+  "results": {
+    "type-systems": {
+      "web": [
+        {"title": "Gradual typing - Wikipedia", "url": "https://en.m.wikipedia.org/wiki/Gradual_typing", "position": 1},
+        {"title": "Elixir 1.20 Gradual Typing: No Annotations, Real Bug Catches", "url": "https://byteiota.com/elixir-1-20-gradual-typing-no-annotations/", "position": 2},
+        {"title": "Elixir v1.20 released: now a gradually typed language", "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/", "position": 3},
+        {"title": "[2603.05649] Efficient Selection of Type Annotations for Performance ...", "url": "https://arxiv.org/abs/2603.05649", "position": 4},
+        {"title": "What is Gradual Typing | Jeremy Siek", "url": "https://jsiek.github.io/home/WhatIsGradualTyping.html", "position": 5},
+        {"title": "Efficient Selection of Type Annotations for Performance Improvement in ...", "url": "https://programming-journal.org/2026/11/3/", "position": 6},
+        {"title": "Gradual Typing in Type Theory - numberanalytics.com", "url": "https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory", "position": 7},
+        {"title": "Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026", "url": "https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/", "position": 8},
+        {"title": "Gradual Typing – Programming Research Group", "url": "https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/", "position": 9},
+        {"title": "", "url": "/clev?event=StartpageResultClick&sc=maXqNizpm0FclOu3veZVDJL3ZQbFFeInbBFqtJ4MV7a06fiism1du8ecMhKvownjsqxe3IoPwd7JXD&payload={\"bdsSessionId\":\"29e17a18470943f3843ab3039f1f6b4c\",\"cheqId\":\"\",\"countryCode\":\"IN\",\"deviceType\":\"mobile\",\"endpoint\":\"search.serp\",\"hasGoogleAds\":false,\"page_id\":\"5enpUjU3Y0IYBI22\",\"queryCategory\":\"web\",\"segment\":\"startpage.udog\",\"session_id\":\"rgMvtns204pUXLmb\",\"surface\":\"serp-web\",\"transport\":\"href-request\"}", "position": 10}
+      ]
+    },
+    "compilers": {
+      "web": [
+        {"title": "Just-in-time compilation - Wikipedia", "url": "https://en.wikipedia.org/wiki/Just-in-time_compilation", "position": 1},
+        {"title": "LLVM Compiler Optimization", "url": "https://iq.opengenus.org/llvm-compiler-optimization/", "position": 2},
+        {"title": "Modern JavaScript Engines: Key Optimizations, JIT Compilers...", "url": "https://www.javaspring.net/blog/what-optimizations-do-modern-javascript-engines-perform/", "position": 3},
+        {"title": "Interpreters and Compilers — 36-750 Statistical Computing", "url": "https://36-750.github.io/concepts/interpreters-compilers/", "position": 4},
+        {"title": "4. Kaleidoscope: Adding JIT and... — LLVM 21.0.0git documentation", "url": "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl04.html", "position": 5},
+        {"title": "GitHub - bytecodealliance/wasm-micro-runtime: WebAssembly Micro...", "url": "https://github.com/bytecodealliance/wasm-micro-runtime", "position": 6},
+        {"title": "Building a JIT Compiler from Scratch: Part 1 — Why Build... | Medium", "url": "https://medium.com/codejitsu/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-84cf453b1155", "position": 7},
+        {"title": "JIT compiler and bytecode optimization - High Performance Java", "url": "https://noobtomaster.com/high-performance-java/jit-compiler-and-bytecode-optimization/", "position": 8},
+        {"title": "Just-In-Time (JIT) Compiler with LLVM - Create Your Own...", "url": "https://createlang.rs/01_calculator/jit_intro.html", "position": 9},
+        {"title": "java - Does JVM have machine specific optimization... - Stack Overflow", "url": "https://stackoverflow.com/questions/48235961/does-jvm-have-machine-specific-optimization-flags", "position": 10}
+      ]
+    },
+    "system-design": {
+      "web": [
+        {"title": "7 Proven Scalability Patterns in Distributed Systems | Medium", "url": "https://medium.com/@careerwithnadeem/7-proven-scalability-patterns-in-distributed-systems-e09112c2ffdb", "position": 1},
+        {"title": "# Day 4: Load Balancing in Distributed Systems... - DEV Community", "url": "https://dev.to/vikram_kumar_2101/-day-4-load-balancing-in-distributed-systems-a-deep-dive-41d5", "position": 2},
+        {"title": "Memcached Python Client: Distributed Caching Patterns 2026", "url": "https://johal.in/memcached-python-client-distributed-caching-patterns-2026/", "position": 3},
+        {"title": "Distributed System Design Trade-offs: Consistency... | LinkedIn", "url": "https://www.linkedin.com/posts/javalgo_systemdesign-distributedsystems-architecture-activity-7457754792992624640-rxy3", "position": 4},
+        {"title": "Micro-Edge Caching for Creator Sites in 2026", "url": "https://frees.pro/microedge-caching-patterns-2026", "position": 5},
+        {"title": "Zonal Gateway Load Balancing in Centralized E/E Architectures...", "url": "https://eureka.patsnap.com/blog/scout-report/zonal-gateway-load-balancing-in-centralized-e-e-architectures-latency-redundancy-and-fault-containment/", "position": 6},
+        {"title": "OpenWRT 21.02 - Multi-WAN Load Balancing with mwan3 - YouTube", "url": "https://www.youtube.com/watch?v=phkptBdGScY", "position": 7},
+        {"title": "Scalability in System Design - GeeksforGeeks", "url": "https://www.geeksforgeeks.org/system-design/what-is-scalability/", "position": 8},
+        {"title": "Grokking System Design Interview: Original Course", "url": "https://www.designgurus.io/course/grokking-the-system-design-interview", "position": 9},
+        {"title": "Implementing the Outbox Pattern", "url": "https://www.milanjovanovic.tech/blog/implementing-the-outbox-pattern", "position": 10}
+      ]
+    }
+  }
+}

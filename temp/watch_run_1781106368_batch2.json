@@ -1,0 +1,48 @@
+{
+  "batch": 2,
+  "timestamp": 1781106368,
+  "results": {
+    "type-systems": {
+      "web": [
+        {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing", "position": 1},
+        {"title": "Type system - Wikipedia", "url": "https://en.wikipedia.org/wiki/Type_system", "position": 2},
+        {"title": "Learn to Type | Type Better | Type Faster - Typing.com", "url": "https://www.typing.com/", "position": 3},
+        {"title": "Learn Touch Typing Free - TypingClub", "url": "https://www.typingclub.com/", "position": 4},
+        {"title": "Monkeytype | A minimalistic, customizable typing test", "url": "https://monkeytype.com/", "position": 5},
+        {"title": "TypingTest.com - Complete a Typing Test in 60 Seconds!", "url": "https://www.typingtest.com/", "position": 6},
+        {"title": "TypeRacer - Play Typing Games and Race Friends", "url": "https://play.typeracer.com/", "position": 7},
+        {"title": "Typing Test - Check Your Typing Speed Online - 10FastFingers.com", "url": "https://10fastfingers.com/typing-test", "position": 8},
+        {"title": "Free Online Typing Tutor - SpeedTypingOnline", "url": "https://www.speedtypingonline.com/typing-tutor", "position": 9},
+        {"title": "Elixir v1.20 released: now a gradually typed language", "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/", "position": 10}
+      ]
+    },
+    "compilers": {
+      "web": [
+        {"title": "Just-in-time compilation - Wikipedia", "url": "https://en.wikipedia.org/wiki/Just-in-time_compilation", "position": 1},
+        {"title": "LLVM Compiler Optimization", "url": "https://iq.opengenus.org/llvm-compiler-optimization/", "position": 2},
+        {"title": "Modern JavaScript Engines: Key Optimizations, JIT Compilers...", "url": "https://www.javaspring.net/blog/what-optimizations-do-modern-javascript-engines-perform/", "position": 3},
+        {"title": "Interpreters and Compilers — 36-750 Statistical Computing", "url": "https://36-750.github.io/concepts/interpreters-compilers/", "position": 4},
+        {"title": "LLVM Implementation for Java JIT Compilers: A Deep... | Dev Genius", "url": "https://blog.devgenius.io/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec", "position": 5},
+        {"title": "GitHub - bytecodealliance/wasm-micro-runtime: WebAssembly Micro...", "url": "https://github.com/bytecodealliance/wasm-micro-runtime", "position": 6},
+        {"title": "JIT compiler and bytecode optimization - High Performance Java", "url": "https://noobtomaster.com/high-performance-java/jit-compiler-and-bytecode-optimization/", "position": 7},
+        {"title": "AOT vs. JIT Compilation in Java", "url": "https://www.cesarsotovalero.net/blog/aot-vs-jit-compilation-in-java.html", "position": 8},
+        {"title": "Just-In-Time (JIT) Compiler with LLVM - Create Your Own...", "url": "https://createlang.rs/01_calculator/jit_intro.html", "position": 9},
+        {"title": "java - Does JVM have machine specific optimization... - Stack Overflow", "url": "https://stackoverflow.com/questions/48235961/does-jvm-have-machine-specific-optimization-flags", "position": 10}
+      ]
+    },
+    "system-design": {
+      "web": [
+        {"title": "Cloud Scalability: Design Patterns For Reliable Growth", "url": "https://www.ituonline.com/blogs/cloud-architecture-design-patterns-for-scalability/", "position": 1},
+        {"title": "Architecting Resilient Systems: 20 Essential Concepts... | Medium", "url": "https://mvineetsharma.medium.com/architecting-resilient-systems-20-essential-concepts-through-a-net-lens-part-1-ad29db848116", "position": 2},
+        {"title": "System Design & Architecture Course - Scalable... | Value.Codes", "url": "https://value.codes/system-design/", "position": 3},
+        {"title": "Designing Scalable Systems Architecture Patterns - AST Consulting", "url": "https://astconsulting.in/architecture/scalable-systems-architecture", "position": 4},
+        {"title": "How I simulated a Distributed System in the Browser - DEV Community", "url": "https://dev.to/code_sherpa/how-i-simulated-a-distributed-system-in-the-browser-40m4", "position": 5},
+        {"title": "Distributed Systems", "url": "https://www.hackingnote.com/en/system-design/distributed-systems/", "position": 6},
+        {"title": "Micro-Edge Caching for Creator Sites in 2026", "url": "https://frees.pro/microedge-caching-patterns-2026", "position": 7},
+        {"title": "System Design Patterns | teivah/algodeck | DeepWiki", "url": "https://deepwiki.com/teivah/algodeck/3.1-system-design-patterns", "position": 8},
+        {"title": "Complete System Design Interview Preparation For... | Coding Shuttle", "url": "https://www.codingshuttle.com/blogs/system-design-in-one-shot/", "position": 9},
+        {"title": "25 System Design Concepts Every Developer Must Know | Stackademic", "url": "https://blog.stackademic.com/25-system-design-concepts-every-software-developer-must-know-in-2026-7459a2991fd4", "position": 10}
+      ]
+    }
+  }
+}

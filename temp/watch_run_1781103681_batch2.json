@@ -1,0 +1,51 @@
+{
+  "batch": 2,
+  "timestamp": 1781103681,
+  "results": {
+    "type-systems": {
+      "query": "type systems programming languages type inference gradual typing 2026",
+      "web": [
+        {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing"},
+        {"title": "Principal Type Schemes for Gradual Programs", "url": "https://www.cs.ubc.ca/~rxg/ptsgp.pdf"},
+        {"title": "(PDF) Gradual typing for generic type-and-effect systems", "url": "https://www.academia.edu/79165611/Gradual_typing_for_generic_type_and_effect_systems"},
+        {"title": "POPL 2026 - POPL Research Papers - POPL 2026", "url": "https://conf.researchr.org/track/POPL-2026/POPL-2026-popl-research-papers"},
+        {"title": "The Long-Term Problem With Dynamically Typed Languages", "url": "https://chadaustin.me/2015/04/the-long-term-problem-with-dynamically-typed-languages/"},
+        {"title": "Type Soundness in the Dart Programming Language", "url": "https://pure.au.dk/portal/en/publications/type-soundness-in-the-dart-programming-language/"},
+        {"title": "Make YOUR OWN Programming Language - EP 1 - Lexer - YouTube", "url": "https://www.youtube.com/watch?v=Eythq9848Fg"},
+        {"title": "compiler - Is there a name for infered strong typing? - Software...", "url": "https://softwareengineering.stackexchange.com/questions/339057/is-there-a-name-for-infered-strong-typing"},
+        {"title": "Deeply typed programming languages | Type Inference", "url": "https://typeinference.com/languages/2017/01/12/deeply-typed-programming-languages.html"},
+        {"title": "When AI builds itself, AI is not a line item, local LLMs for...", "url": "https://tldr.tech/dev/2026-06-05"}
+      ]
+    },
+    "compilers": {
+      "query": "compilers interpreters JIT LLVM optimization bytecode 2026",
+      "web": [
+        {"title": "Just-in-time compilation - Wikipedia", "url": "https://en.wikipedia.org/wiki/Just-in-time_compilation"},
+        {"title": "LLVM Compiler Optimization", "url": "https://iq.opengenus.org/llvm-compiler-optimization/"},
+        {"title": "Modern JavaScript Engines: Key Optimizations, JIT Compilers...", "url": "https://www.javaspring.net/blog/what-optimizations-do-modern-javascript-engines-perform/"},
+        {"title": "4. Kaleidoscope: Adding JIT and... — LLVM 21.0.0git documentation", "url": "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl04.html"},
+        {"title": "Interpreters and Compilers — 36-750 Statistical Computing", "url": "https://36-750.github.io/concepts/interpreters-compilers/"},
+        {"title": "Building a JIT Compiler from Scratch: Part 1 — Why Build... | Medium", "url": "https://medium.com/codejitsu/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-84cf453b1155"},
+        {"title": "JIT compiler and bytecode optimization - High Performance Java", "url": "https://noobtomaster.com/high-performance-java/jit-compiler-and-bytecode-optimization/"},
+        {"title": "Just-In-Time (JIT) Compiler with LLVM - Create Your Own...", "url": "https://createlang.rs/01_calculator/jit_intro.html"},
+        {"title": "GitHub - bytecodealliance/wasm-micro-runtime: WebAssembly Micro...", "url": "https://github.com/bytecodealliance/wasm-micro-runtime"},
+        {"title": "Just-in-Time for Runtime Interpretation... | White Knight Labs", "url": "https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/"}
+      ]
+    },
+    "system-design": {
+      "query": "distributed systems architecture load balancing caching patterns 2026",
+      "web": [
+        {"title": "7 Proven Scalability Patterns in Distributed Systems | Medium", "url": "https://medium.com/@careerwithnadeem/7-proven-scalability-patterns-in-distributed-systems-e09112c2ffdb"},
+        {"title": "# Day 4: Load Balancing in Distributed Systems... - DEV Community", "url": "https://dev.to/vikram_kumar_2101/-day-4-load-balancing-in-distributed-systems-a-deep-dive-41d5"},
+        {"title": "Memcached Python Client: Distributed Caching Patterns 2026", "url": "https://johal.in/memcached-python-client-distributed-caching-patterns-2026/"},
+        {"title": "Explaining Distributed Systems Like I'm 5 - YouTube", "url": "https://www.youtube.com/watch?v=CESKgdNiKJw"},
+        {"title": "Distributed System Design Trade-offs: Consistency... | LinkedIn", "url": "https://www.linkedin.com/posts/javalgo_systemdesign-distributedsystems-architecture-activity-7457754792992624640-rxy3"},
+        {"title": "Micro-Edge Caching for Creator Sites in 2026", "url": "https://frees.pro/microedge-caching-patterns-2026"},
+        {"title": "Zonal Gateway Load Balancing in Centralized E/E Architectures...", "url": "https://eureka.patsnap.com/blog/scout-report/zonal-gateway-load-balancing-in-centralized-e-e-architectures-latency-redundancy-and-fault-containment/"},
+        {"title": "Scalability in System Design - GeeksforGeeks", "url": "https://www.geeksforgeeks.org/system-design/what-is-scalability/"},
+        {"title": "Grokking System Design Interview: Original Course", "url": "https://www.designgurus.io/course/grokking-the-system-design-interview"},
+        {"title": "Implementing the Outbox Pattern", "url": "https://www.milanjovanovic.tech/blog/implementing-the-outbox-pattern"}
+      ]
+    }
+  }
+}

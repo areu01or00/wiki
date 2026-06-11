@@ -1,0 +1,49 @@
+{
+  "batch": 2,
+  "timestamp": 1781101958,
+  "results": {
+    "type-systems": {
+      "query": "type systems programming languages type inference gradual typing 2026",
+      "web": [
+        {"title": "Gradual typing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gradual_typing"},
+        {"title": "Type system - Wikipedia", "url": "https://en.wikipedia.org/wiki/Type_system"},
+        {"title": "Elixir v1.20 released: now a gradually typed language", "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"},
+        {"title": "Type inference of all constructs and the next 15 months", "url": "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/"},
+        {"title": "Efficient Selection of Type Annotations for Performance ... - arXiv", "url": "https://arxiv.org/pdf/2603.05649"},
+        {"title": "Type-Based Gradual Typing Performance Optimization", "url": "https://dl.acm.org/doi/full/10.1145/3632931"},
+        {"title": "TYPE SYSTEMS - The Consensus", "url": "https://theconsensus.dev/t/type-systems.html"},
+        {"title": "What is a type system, really? - Lambda Land", "url": "https://lambdaland.org/posts/2023-01-17_what_is_a_type_system_really/"},
+        {"title": "The Evolution of Programming Languages: From Type Systems to ...", "url": "https://medium.com/@yosugi-mt/the-evolution-of-programming-languages-from-type-systems-to-intent-expression-e99a88bf94dd"}
+      ]
+    },
+    "compilers": {
+      "query": "compilers interpreters JIT LLVM optimization bytecode 2026",
+      "web": [
+        {"title": "Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...", "url": "https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en"},
+        {"title": "1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM", "url": "https://llvm.org/docs/tutorial/BuildingAJIT1.html"},
+        {"title": "The LLVM Compiler Infrastructure Project", "url": "https://llvm.org/"},
+        {"title": "Building a JIT Compiler from Scratch: Part 0 - How Computers Run Your ...", "url": "https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-0-how-computers-run-your-code-2bp1"},
+        {"title": "Compilers and Interpreters: How Code Actually Runs — Everything ...", "url": "https://www.youngju.dev/blog/culture/2026-03-23-compiler-interpreter-how-code-runs-guide.en"},
+        {"title": "Implementing JIT (Just In Time) Compilation - OpenGenus IQ", "url": "https://iq.opengenus.org/implement-jit-compilation/"},
+        {"title": "JIT Design and Implementation · The Julia Language", "url": "https://docs.julialang.org/en/v1/devdocs/jit/"},
+        {"title": "PEP 744 – JIT Compilation | peps.python.org", "url": "https://peps.python.org/pep-0744/"},
+        {"title": "Compiler vs Interpreter: The Mechanics of Code Execution", "url": "https://toolshelf.tech/blog/compiler-vs-interpreter-aot-jit-performance/"}
+      ]
+    },
+    "system-design": {
+      "query": "distributed systems architecture load balancing caching patterns 2026",
+      "web": [
+        {"title": "System Design Series Part 3: Load Balancing & Caching", "url": "https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html"},
+        {"title": "System Design Guide 2026: Load Balancing, Caching, CDN ...", "url": "https://onlinetools4free.com/research/system-design-guide-2026"},
+        {"title": "Scheduling and Load Balancing in Distributed Systems ...", "url": "https://thelinuxcode.com/scheduling-and-load-balancing-in-distributed-systems-practical-algorithms-and-2026-patterns/"},
+        {"title": "Distributed Systems | Architecture Patterns · GitScrum Docs", "url": "https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns"},
+        {"title": "Designing Resilient Distributed Systems: Advanced Caching ...", "url": "https://martinuke0.github.io/posts/2026-03-21-designing-resilient-distributed-systems-advanced-caching-strategies-for-performance/"},
+        {"title": "Mastering Distributed Systems — Patterns & Principles (2026)", "url": "https://tutorialq.com/dev/microservices/mastering-distributed-systems"},
+        {"title": "Load Balancing Strategies for Distributed Systems | Andrew ...", "url": "https://andrewodendaal.com/articles/distributed-systems-load-balancing/"},
+        {"title": "# Day 4: Load Balancing in Distributed Systems... - DEV Community", "url": "https://dev.to/vikram_kumar_2101/-day-4-load-balancing-in-distributed-systems-a-deep-dive-41d5"},
+        {"title": "7 Proven Scalability Patterns in Distributed Systems | Medium", "url": "https://medium.com/@careerwithnadeem/7-proven-scalability-patterns-in-distributed-systems-e09112c2ffdb"},
+        {"title": "Explaining Distributed Systems Like I'm 5 - YouTube", "url": "https://www.youtube.com/watch?v=CESKgdNiKJw"}
+      ]
+    }
+  }
+}

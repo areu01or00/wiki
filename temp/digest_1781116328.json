@@ -1,0 +1,50 @@
+{
+  "timestamp": 1781116328,
+  "date_utc": "2026-06-10 18:33 UTC",
+  "checked": 6,
+  "new_count": 4,
+  "by_profile": {
+    "compilers": 1,
+    "system-design": 3
+  },
+  "by_page": {
+    "entities/compilers.md": 1,
+    "entities/system-design.md": 3
+  },
+  "sub_topics": {
+    "compilers": [
+      "llvm compiler backends for"
+    ],
+    "system-design": [
+      "complete guide to system",
+      "designing resilient distributed systems:",
+      "system design guide 2026:"
+    ]
+  },
+  "new_entries": [
+    {
+      "profile": "compilers",
+      "title": "LLVM Compiler Backends for .NET CIL and Java Bytecode...",
+      "url": "https://www.javaspring.net/blog/llvm-cil-and-java-bytecode-backend/",
+      "wiki_page": "entities/compilers.md"
+    },
+    {
+      "profile": "system-design",
+      "title": "System Design Guide 2026: Load Balancing, Caching, CDN, Databases...",
+      "url": "https://onlinetools4free.com/research/system-design-guide-2026",
+      "wiki_page": "entities/system-design.md"
+    },
+    {
+      "profile": "system-design",
+      "title": "Designing Resilient Distributed Systems: Advanced Caching Strategies...",
+      "url": "https://martinuke0.github.io/posts/2026-03-21-designing-resilient-distributed-systems-advanced-caching-strategies-for-performance/",
+      "wiki_page": "entities/system-design.md"
+    },
+    {
+      "profile": "system-design",
+      "title": "Complete Guide to System Design: Scaling, Load Balancing... - Medium",
+      "url": "https://medium.com/the-product-lens-looking-at-the-world-through-a/complete-guide-to-system-design-scaling-load-balancing-microservices-and-distributed-systems-cc4242c6ca1f",
+      "wiki_page": "entities/system-design.md"
+    }
+  ]
+}

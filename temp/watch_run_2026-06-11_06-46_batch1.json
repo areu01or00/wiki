@@ -1,0 +1,140 @@
+{
+  "python-internals": {
+    "query": "Python GIL bytecode interpreter memory management internals 2026",
+    "wiki_page": "entities/python-internals.md",
+    "results": [
+      {
+        "title": "Global interpreter lock - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Global_interpreter_lock"
+      },
+      {
+        "title": "Python - Python Internals: Memory Management & the Global ...",
+        "url": "https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil"
+      },
+      {
+        "title": "The Secret Life of Python: Understanding the GIL",
+        "url": "https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html"
+      },
+      {
+        "title": "What is the Global Interpreter Lock (GIL) in Python? Is It ...",
+        "url": "https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10"
+      },
+      {
+        "title": "Understanding the Python Global Interpreter Lock (GIL)",
+        "url": "https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter"
+      },
+      {
+        "title": "What is the Python Global Interpreter Lock (GIL)",
+        "url": "https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/"
+      },
+      {
+        "title": "Python's GIL Is Gone \u2014 What That Actually Means for Your Code",
+        "url": "https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879"
+      },
+      {
+        "title": "How Python Works Under the Hood: Memory, GIL, and Bytecode",
+        "url": "https://www.pythoncompiler.io/python/python-internals/"
+      },
+      {
+        "title": "What Is the Python Global Interpreter Lock (GIL)? \u2013 Real Python",
+        "url": "https://realpython.com/python-gil/"
+      },
+      {
+        "title": "GlobalInterpreterLock",
+        "url": "https://wiki.python.org/moin/GlobalInterpreterLock"
+      }
+    ]
+  },
+  "algorithms": {
+    "query": "algorithms data structures optimization techniques LeetCode 2026",
+    "wiki_page": "entities/algorithms.md",
+    "results": [
+      {
+        "title": "Algorithms and Data Structures Tutorial - Full Course for... - YouTube",
+        "url": "https://www.youtube.com/watch?v=8hly31xKli0"
+      },
+      {
+        "title": "LeetCode was HARD until I Learned these 15 Patterns",
+        "url": "https://blog.algomaster.io/p/15-leetcode-patterns"
+      },
+      {
+        "title": "How to Know When to Use Leetcode Two Pointer Method | TikTok",
+        "url": "https://www.tiktok.com/discover/how-to-know-when-to-use-leetcode-two-pointer-method"
+      },
+      {
+        "title": "Best Data Structures Courses Online | Beginner Advanced",
+        "url": "https://www.udemy.com/topic/data-structures/"
+      },
+      {
+        "title": "Optimizing LeetCode 438 with Sliding Window Technique | LinkedIn",
+        "url": "https://www.linkedin.com/posts/somesh-pandey-536222296_100daysofcode-leetcode-coding-activity-7437883227391913985-zupj"
+      },
+      {
+        "title": "Improving your Algorithms & Data Structure Skills | Medium",
+        "url": "https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f"
+      },
+      {
+        "title": "GitHub - rachitiitr/DataStructures-Algorithms: The best library for...",
+        "url": "https://github.com/rachitiitr/DataStructures-Algorithms"
+      },
+      {
+        "title": "towardsdatascience.com",
+        "url": "https://towardsdatascience.com/"
+      },
+      {
+        "title": "Problems - LeetCode",
+        "url": "https://leetcode.com/problemset/"
+      },
+      {
+        "title": "10 Top LeetCode Patterns to Crack FAANG Coding Interviews",
+        "url": "https://www.designgurus.io/blog/top-lc-patterns"
+      }
+    ]
+  },
+  "functional-programming": {
+    "query": "functional programming patterns Haskell Rust idioms monads 2026",
+    "wiki_page": "entities/functional-programming.md",
+    "results": [
+      {
+        "title": "Monads and Monad-Like Patterns in Rust: Exploring Functional...",
+        "url": "https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/"
+      },
+      {
+        "title": "Idiomatic monads in Rust | varkor's blog",
+        "url": "https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html"
+      },
+      {
+        "title": "GitHub - nsu-syspro/haskell-monads-2026: haskell-monads created...",
+        "url": "https://github.com/nsu-syspro/haskell-monads-2026"
+      },
+      {
+        "title": "functional programming - Haskell pattern matching... - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/2225774/haskell-pattern-matching-what-is-it"
+      },
+      {
+        "title": "A Gentle Introduction to Haskell: Patterns",
+        "url": "https://www.haskell.org/tutorial/patterns.html"
+      },
+      {
+        "title": "WHAT IS A MONAD? Functional Programming Patterns... - YouTube",
+        "url": "https://www.youtube.com/watch?v=8DJtc3zJ5nY"
+      },
+      {
+        "title": "Idiomatic Monads in Rust | Hacker News",
+        "url": "https://news.ycombinator.com/item?id=19571519"
+      },
+      {
+        "title": "Monads in 15 minutes",
+        "url": "https://nikgrozev.com/2013/12/10/monads-in-15-minutes/"
+      },
+      {
+        "title": "Monads (and Functors and Applicatives) explained (badly) in Rust",
+        "url": "https://users.rust-lang.org/t/monads-and-functors-and-applicatives-explained-badly-in-rust/15187"
+      },
+      {
+        "title": "Monads as a Programming Pattern",
+        "url": "https://samgrayson.me/essays/monads-as-a-programming-pattern/"
+      }
+    ]
+  }
+}
