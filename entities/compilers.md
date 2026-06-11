@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT compilation, LLVM
+- **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: LLVM
+- **2026-06-11** | [Use of JIT compiler infrastructure at Apple and CERN](https://indico.cern.ch/event/1675931/) | kw: JIT compilation
+- **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: LLVM
+- **2026-06-11** | [Python JIT compiler may be removed](https://www.theregister.com/devops/2026/06/08/python-jit-compiler-may-be-removed/5252079) | kw: JIT compilation
+
 - **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: compilers
 - **2026-06-11** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compilers
 - **2026-06-11** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers

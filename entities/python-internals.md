@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: GIL, free-threaded Python, memory management
+- **2026-06-11** | [Advanced Python Internals: GIL, Multithreading](https://dev.to/aman_kumar_6d5d23b9b1ed02/advanced-python-internals-gil-multithreading-20mk) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-11** | [Disabling GIL in Python, How to use Python without GIL, NoGIL](https://hemachandra.hashnode.dev/disabling-gil-nogil-in-python) | kw: GIL, free-threaded Python
+
 - **2026-06-11** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
 - **2026-06-11** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python-internals
 - **2026-06-11** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: python-internals

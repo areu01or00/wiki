@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: monads, Rust patterns, functional idioms
+- **2026-06-11** | [Master Monads: Unlock Functional Programming's Secret Weapon](https://notes.suhaib.in/docs/tech/latest/monads-demystified-the-math-driven-superpower-behind-functional-programming/) | kw: monads, functional idioms
+
 - **2026-06-11** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: functional-programming
 - **2026-06-11** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: functional-programming
 - **2026-06-11** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: functional-programming

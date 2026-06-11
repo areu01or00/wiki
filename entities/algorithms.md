@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Top 50 Microsoft Array LeetCode Questions (2026)](https://www.hackmnc.com/blogs/microsoft-array-leetcode-questions) | kw: dynamic programming
+- **2026-06-11** | [Top 30 Most Common Coupang LeetCode Interview Questions](https://www.vervecopilot.com/hot-blogs/coupang-leetcode-interview-questions) | kw: dynamic programming
+- **2026-06-11** | [Bloomberg LP Software Engineer Interview Guide 2026](https://www.interviewquery.com/guides/bloomberg-lp-software-engineer) | kw: dynamic programming
+
 - **2026-06-11** | [70 Leetcode problems in 5+ hours (every data structure)... - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: algorithms
 - **2026-06-11** | [algorithms-datastructures · GitHub Topics · GitHub](https://github.com/topics/algorithms-datastructures) | kw: algorithms
 - **2026-06-11** | [Top 50 Microsoft Array LeetCode Questions (2026) – Interview Prep](https://www.hackmnc.com/blogs/microsoft-array-leetcode-questions) | kw: algorithms

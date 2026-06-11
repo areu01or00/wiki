@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [.NET Microservices Design Patterns in 2026: A Production-Grade Guide](https://dev.to/vikrant_bagal_afae3e25ca7/net-microservices-design-patterns-in-2026-a-production-grade-guide-pid) | kw: caching patterns
+- **2026-06-11** | [The Complete System Design Roadmap for 2026](https://designgurus.substack.com/p/the-complete-system-design-roadmap) | kw: load balancing
+- **2026-06-11** | [Modern Architecture Patterns (2026 Edition)](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: caching patterns
+
 - **2026-06-11** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system-design
 - **2026-06-11** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
 - **2026-06-11** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system-design
