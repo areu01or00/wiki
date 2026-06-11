@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: dynamic programming, DSA roadmap
+- **2026-06-11** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: dynamic programming, DSA roadmap
+- **2026-06-11** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: dynamic programming, DSA roadmap
+- **2026-06-11** | [I Tried 20+ Python DSA Courses with LeetCode Exercises on ... - Medium](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: dynamic programming, DSA roadmap
+- **2026-06-11** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: dynamic programming, DSA roadmap
+- **2026-06-11** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: dynamic programming, DSA roadmap
+- **2026-06-11** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: dynamic programming, DSA roadmap
+- **2026-06-11** | [Data Structures and Algorithms for Coding Interview — Complete Python ...](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview/) | kw: dynamic programming, DSA roadmap
+- **2026-06-11** | [I Failed 4 FAANG Interviews Before Learning This: The Complete Tech ...](https://dev.to/somadevtoo/i-failed-4-faang-interviews-before-learning-this-the-complete-coding-interview-preparation-guide-gjh) | kw: dynamic programming, DSA roadmap
+
 - **2026-06-11** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/cscareeradvice/comments/1tzzfwh/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: DSA, LeetCode, interview
 - **2026-06-11** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode, interview
 - **2026-06-11** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026 ... - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: DSA, LeetCode, interview

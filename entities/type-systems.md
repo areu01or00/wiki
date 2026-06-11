@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-11** | [Gradual Typing & Polymorphism Papers · hazelgrove/hazel Wiki...](https://github.com/hazelgrove/hazel/wiki/Gradual-Typing-&-Polymorphism-Papers) | kw: gradual typing, type inference
+- **2026-06-11** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: gradual typing, type inference
+- **2026-06-11** | [The Dynamic Practice and Static Theory of Gradual Typing](https://cs.pomona.edu/~michael/papers/snapl2019.pdf) | kw: gradual typing, type inference
+- **2026-06-11** | [(PDF) Gradual typing for generic type-and-effect systems](https://www.academia.edu/79165611/Gradual_typing_for_generic_type_and_effect_systems) | kw: gradual typing, type inference
+- **2026-06-11** | [When AI builds itself, AI is not a line item, local LLMs for...](https://tldr.tech/dev/2026-06-05) | kw: gradual typing, type inference
+
 - **2026-06-11** | [Gradual typing - Wikipedia](https://en.m.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing
 - **2026-06-11** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type inference
 - **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: type inference

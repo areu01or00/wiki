@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: JIT compilation, LLVM
+- **2026-06-11** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: JIT compilation, LLVM
+- **2026-06-11** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: JIT compilation, LLVM
+- **2026-06-11** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT compilation, LLVM
+- **2026-06-11** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: JIT compilation, LLVM
+- **2026-06-11** | [LLNL Researchers Develop GPU JIT Compiler for Large-Scale HPC ...](https://www.hpcwire.com/off-the-wire/llnl-researchers-develop-gpu-jit-compiler-for-large-scale-hpc-applications/) | kw: JIT compilation, LLVM
+
 - **2026-06-11** | [Compiler - Wikipedia](https://en.wikipedia.org/wiki/Compiler) | kw: compilers
 - **2026-06-11** | [Introduction To Compilers - GeeksforGeeks](https://www.geeksforgeeks.org/compiler-design/introduction-to-compilers/) | kw: compilers
 - **2026-06-11** | [8 Best Compilers in 2026 (Tested) - BestValued](https://bestvalued.com/best-compilers) | kw: compilers

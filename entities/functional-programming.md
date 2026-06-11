@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-11** | [Monad (functional programming)](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Monad_(functional_programming).html) | kw: monads, Haskell
+- **2026-06-11** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: monads, Haskell
+- **2026-06-11** | [Monads and Effects | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: monads, Haskell
+- **2026-06-11** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: monads, Haskell
+- **2026-06-11** | [Functional programming concepts, examples, algorithms and ideas.](https://caiorss.github.io/Functional-Programming/haskell/Functional_Programming_Concepts.html) | kw: monads, Haskell
+- **2026-06-11** | [Just how much can you do with functions? | Haskell, Functional...](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: monads, Haskell
+- **2026-06-11** | [monad · GitHub Topics · GitHub](https://github.com/topics/monad) | kw: monads, Haskell
+
 - **2026-06-11** | [functional - 搜索 词典](https://global.bing.com/dict/search?q=functional&FORM=BDVSP6&cc=cn) | kw: functional
 - **2026-06-11** | [FUNCTIONAL中文 (简体)翻译：剑桥词典](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/functional) | kw: functional
 - **2026-06-11** | [functional_百度百科](https://baike.baidu.com/item/functional/2599905) | kw: functional

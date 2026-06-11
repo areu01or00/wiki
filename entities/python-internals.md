@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-11** | [Inside Python: How your code runs, from source to execution | Medium](https://medium.com/codetodeploy/inside-python-how-your-code-runs-from-source-to-execution-3511f97a9a95) | kw: GIL, free-threaded Python
+- **2026-06-11** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: GIL, free-threaded Python
+- **2026-06-11** | [Understanding the Python GIL - YouTube](https://www.youtube.com/watch?v=Obt-vMVdM8s) | kw: GIL, free-threaded Python
+- **2026-06-11** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: GIL, free-threaded Python
+- **2026-06-11** | [Async Internals in Python: Event Loop, Coroutines & What Actually...](https://www.linkedin.com/pulse/async-internals-python-event-loop-coroutines-what-actually-aswani-hxvfc) | kw: GIL, free-threaded Python
+- **2026-06-11** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: GIL, free-threaded Python
+- **2026-06-11** | [Python Memory Management 2026 | Johal AI Hub](https://johal.in/python-memory-management-2026-2/) | kw: GIL, free-threaded Python
+
 - **2026-06-11** | [Thread states and the global interpreter lock — Python 3.14.5 ...](https://docs.python.org/3/c-api/threads.html) | kw: GIL, memory
 - **2026-06-11** | [It's Probably Not a Leak: A Field Guide to Python Memory - LinkedIn](https://www.linkedin.com/pulse/its-probably-leak-field-guide-python-memory-neeraj-koul-ldylc) | kw: GIL, CPython, memory
 

@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-11** | [6 cách mở Computer/System Properties trong Windows 10](https://quantrimang.com/cong-nghe/mo-system-properties-trong-windows-10-172447) | kw: load balancing, caching patterns
+- **2026-06-11** | [SYSTEM | Định nghĩa trong Từ điển tiếng Anh Cambridge](https://dictionary.cambridge.org/vi/dictionary/english/system) | kw: load balancing, caching patterns
+- **2026-06-11** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: load balancing, caching patterns
+- **2026-06-11** | [System](https://www.system.com/) | kw: load balancing, caching patterns
+- **2026-06-11** | [System | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/system) | kw: load balancing, caching patterns
+- **2026-06-11** | [System configuration tools in Windows - Microsoft Support](https://support.microsoft.com/en-us/windows/system-configuration-tools-in-windows-f8a49657-b038-43b8-82d3-28bea0c5666b) | kw: load balancing, caching patterns
+- **2026-06-11** | [Vietnam National Electronic Visa system](https://evisa.gov.vn/e-visa/foreigners) | kw: load balancing, caching patterns
+
 - **2026-06-11** | [.NET Microservices Design Patterns in 2026: A Production-Grade Guide](https://dev.to/vikrant_bagal_afae3e25ca7/net-microservices-design-patterns-in-2026-a-production-grade-guide-pid) | kw: caching patterns
 - **2026-06-11** | [The Complete System Design Roadmap for 2026](https://designgurus.substack.com/p/the-complete-system-design-roadmap) | kw: load balancing
 - **2026-06-11** | [Modern Architecture Patterns (2026 Edition)](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: caching patterns
