@@ -143,7 +143,10 @@
         "Top",
         "Software",
         "Rise",
-        "Autonomous"
+        "Autonomous",
+        "WebAssembly as a runtime",
+        "AI-powered orchestration",
+        "Edge-Native Architecture"
       ],
       "last_result_hashes": [
         "103e0e4aa818b81f7be6f316a9b7b78f",
@@ -314,7 +317,10 @@
         "Revolution",
         "[Deep",
         "Dive]",
-        "[2026]"
+        "[2026]",
+        "Python JIT",
+        "TrueJIT",
+        "SPEC CPU"
       ],
       "last_result_hashes": [
         "bbbc8ef4ec78630cae3e49219b742618",
@@ -872,7 +878,9 @@
         "Versus",
         "Mode",
         "Algorithm",
-        "Need"
+        "Need",
+        "namastedev",
+        "thetutorbridge"
       ],
       "last_result_hashes": [
         "1e027797b0c2d02e3d4bd978c0efe4a9",
