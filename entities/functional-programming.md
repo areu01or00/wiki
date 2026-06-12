@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+- **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming
+- **2026-06-12** | [Monads and Programming](http://www.goodmath.org/blog/2012/08/19/monads-and-programming) | kw: functional-programming
+- **2026-06-12** | [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95) | kw: functional-programming
+- **2026-06-12** | [An Introduction to Functors and Monads in JavaScript](https://www.youtube.com/watch?v=YkQLWAJCmKg) | kw: functional-programming
+
 - **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
 - **2026-06-12** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: functional-programming
 - **2026-06-12** | [Understanding Monads - From types to categories to analogy](https://nickx.hu/Monads.pdf) | kw: functional-programming

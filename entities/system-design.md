@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-12** | [Distributed System Design Patterns: A Practitioners Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: system-design
+- **2026-06-12** | [Fundamentals of Distributed Systems](https://www.pluralsight.com/courses/distributed-systems-fundamentals) | kw: system-design
+- **2026-06-12** | [Microservices Architecture Patterns in 2026](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: system-design
+- **2026-06-12** | [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: system-design
+
 - **2026-06-12** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: system-design
 - **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
 - **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a) | kw: system-design
