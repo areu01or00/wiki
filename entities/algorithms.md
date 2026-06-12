@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: leetcode, questions, must
+- **2026-06-12** | [LeetCode Questions Asked in Google 2026](https://papersadda.com/article/leetcode-questions-google-2026) | kw: leetcode, questions, asked
+- **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: best, sheet, 2026
+- **2026-06-12** | [LeetCode Interview Questions: Top Patterns by Company (2026)](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: leetcode, interview, questions:
+- **2026-06-12** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: problem, list, leetcode
+- **2026-06-12** | [LeetCode Alone Won't Save You in 2026](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: leetcode, alone, won't
+- **2026-06-12** | [NeetCode](https://neetcode.io/) | kw: neetcode
+- **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: data, structures, algorithms
+- **2026-06-12** | [LeetCode - The World's Leading Online Programming Learning](https://leetcode.com/) | kw: leetcode, world's, leading
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: data, structures, algorithms
+
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: dsa
 - **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: ['neetcode', '|']
 - **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithm, leetcode
