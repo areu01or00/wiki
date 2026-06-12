@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan ...](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-12** | [Amazon - LeetCode](http://leetcode.com/company/amazon) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-12** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-12** | [Top 100 Data Structures Interview Questions in 2026 - GitHub](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-12** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-wise](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise) | kw: dynamic programming, DSA roadmap, coding interviews
+
 - **2026-06-12** | [Best DSA Sheet 2026 - To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
 - **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide - PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: algorithms
 - **2026-06-12** | [Algorithms and Data Structures (LeetCode Preparation) - ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithms

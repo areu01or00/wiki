@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-12** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-12** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-12** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: load balancing, caching patterns, distributed systems
+
 - **2026-06-12** | [System Design Series Part 3: Load Balancing and Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
 - **2026-06-12** | [Mastering Distributed Systems - Patterns and Principles (2026) - tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 - **2026-06-12** | [AI System Design: A Complete Guide (2026)](https://www.systemdesignhandbook.com/guides/ai-system-design) | kw: system-design
