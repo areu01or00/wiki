@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: LLVM
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, compiler, course
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at VALancaster](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, compiler, course
+- **2026-06-12** | [Sanjoy Das - Director of Engineering at NVIDIA](http://sanjoy.link/) | kw: sanjoy
+- **2026-06-12** | [Catalyst - PennyLane JIT Compilation](http://docs.pennylane.ai/projects/catalyst/en/stable/index.html) | kw: JIT compilation, compilation
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: LLVM, compiler, course
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: LLVM, language, (jit)
+
 - **2026-06-12** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: JIT compilation, LLVM, bytecode
 - **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS ...](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: JIT compilation, LLVM, bytecode
 - **2026-06-12** | [Jeandle: How Ant Group’s LLVM ‑Based JVM JIT Aims to Su… | BestHub](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: JIT compilation, LLVM, bytecode

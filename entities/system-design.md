@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Top 6 System Design Interview Courses For 2026](https://devopscube.com/system-design-interview-courses) | kw: design, system
+- **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: load balancing, design, system
+- **2026-06-12** | [Site Reliability Engineer in Malvern, Pennsylvania | Cubesmart](http://careers.cubesmart.com/corporate/jobs/25616?lang=en-us) | kw: reliability
+- **2026-06-12** | [The System Design Masterclass | Arpit Bhayani](https://arpitbhayani.me/masterclass) | kw: design, system
+- **2026-06-12** | [How to secure embedded systems: best practices](http://witekio.com/webinars/best-practices-how-to-secure-embedded-systems) | kw: systems, system, systems:
+- **2026-06-12** | [System Design Full Course](https://www.youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT) | kw: design, system
+
 - **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with ...](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: load balancing, caching patterns, distributed systems
 - **2026-06-12** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: load balancing, caching patterns, distributed systems
 - **2026-06-12** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: load balancing, caching patterns, distributed systems

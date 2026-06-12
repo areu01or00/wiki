@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Monad Pattern in Functional Programming: A Comprehensive Guide](https://softwarepatternslexicon.com/functional-programming/essential-functional-programming-patterns/monad-pattern) | kw: functional, programming, monad
+- **2026-06-12** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: functional, programming, rust
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: monads, Haskell, rust
+- **2026-06-12** | [The Practical Value of Functional Programming — Monad Deep Dive](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional, programming, monad
+- **2026-06-12** | [Functional Programming Paradigms: Immutability, Higher-Order Functions, and Monads 2026](https://johal.in/functional-programming-paradigms-immutability-higher-order-functions-and-monads-2026) | kw: monads, functional, programming
+- **2026-06-12** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: monads, rust, monad
+- **2026-06-12** | [Latest Monad News - MON Future Outlook, Trends](http://coinmarketcap.com/cmc-ai/monad/latest-updates) | kw: monad
+
 - **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads, Haskell, Rust patterns
 - **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: monads, Haskell, Rust patterns
 - **2026-06-12** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: monads, Haskell, Rust patterns

@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: leetcode, interview, LeetCode
+- **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: leetcode, algorithms, structures
+- **2026-06-12** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms, structures, interview
+- **2026-06-12** | [Study Plan - LeetCode](https://leetcode.com/studyplan) | kw: leetcode, LeetCode, study
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms, structures, data structures
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: interview, interview questions, structure
+
 - **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: dynamic programming, DSA roadmap, coding interviews
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: dynamic programming, DSA roadmap, coding interviews
 - **2026-06-12** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: dynamic programming, DSA roadmap, coding interviews

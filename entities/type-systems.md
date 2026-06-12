@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual typing, gradual, typing
+- **2026-06-12** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: typing, language
+- **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: gradual typing, gradual, typing
+- **2026-06-12** | [Type system concepts — Python typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing, type, system
+- **2026-06-12** | [Programming Languages Trends 2026](https://videolec.com/programming-languages-trends-2026) | kw: languages, language, programming
+- **2026-06-12** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing, gradual, typing
+
 - **2026-06-12** | [[2603.05649] Efficient Selection of Type Annotations for ...](https://arxiv.org/abs/2603.05649) | kw: gradual typing, type inference, dependent types
 - **2026-06-12** | [Elixir 1.20 Gradual Typing: No Annotations, Real Bug Catches](https://byteiota.com/elixir-1-20-gradual-typing-no-annotations/) | kw: gradual typing, type inference, dependent types
 - **2026-06-12** | [A Deep Dive into Type Systems — What Static Typing Really ...](https://yoichiozaki.github.io/en/blog/type-systems) | kw: gradual typing, type inference, dependent types
