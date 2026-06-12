@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Imperialis Tech](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: system-design
+- **2026-06-12** | [Resilience First - Modern Patterns in Distributed ...](https://gabogil.com/2026/04/26/resilience-first-modern-patterns-in-distributed-architectures) | kw: system-design
+- **2026-06-12** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-12** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: system-design
+
 - **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system-design
 - **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
 - **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design

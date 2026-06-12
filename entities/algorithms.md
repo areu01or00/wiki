@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews | Free Class AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: algorithms
+- **2026-06-12** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026/) | kw: algorithms
+- **2026-06-12** | [LeetCode Patterns That Still Matter in 2026: What I... | Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: algorithms
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
+- **2026-06-12** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: algorithms
+- **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+
 - **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithms
 - **2026-06-12** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
 - **2026-06-12** | [Data Structures and Algorithms for Coding Interview ...](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview) | kw: algorithms

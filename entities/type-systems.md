@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
+- **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: type-systems
+- **2026-06-12** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-12** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: type-systems
+- **2026-06-12** | [A Deep Dive into Type Systems - What Static Typing Really ...](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type-systems
+
 - **2026-06-12** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type-systems
 - **2026-06-12** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems
 

@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-12** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals
+- **2026-06-12** | [The Inner Workings of Python: Beyond the Surface | by More Than Monkeys | Python in Plain English](https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732) | kw: python-internals
+- **2026-06-12** | [How Mojo's Owned Memory Model is Forcing ML Engineers to ...](https://devops-geek.net/nerd-space/how-mojo-s-owned-memory-model-is-forcing-ml-engineers-to-rethink-python-s-gil-bottlenecks-in-real-ti) | kw: python-internals
+
 - **2026-06-12** | [The GIL Is Finally Dead: Free-Threaded Python Is Production ...](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: python-internals
 - **2026-06-12** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
 - **2026-06-12** | [The Inner Workings of Python: Beyond the Surface | by More Than Monkeys](https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732) | kw: python-internals
