@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: general
+- **2026-06-12** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: general
+- **2026-06-12** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL
+- **2026-06-12** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: GIL
+- **2026-06-12** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: general
+- **2026-06-12** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: general
+- **2026-06-12** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: GIL
+- **2026-06-12** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL
+
 - **2026-06-12** | [Python Internals: Memory Management and the GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management, GIL, reference counting
 - **2026-06-12** | [Pythons GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: GIL removal, free-threaded Python, CPython 3.13
 - **2026-06-12** | [Memory Management and GIL: Python Guide 2026](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory management, GIL, guide

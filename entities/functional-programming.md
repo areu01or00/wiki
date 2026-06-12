@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: general
+- **2026-06-12** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: general
+- **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: general
+- **2026-06-12** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: general
+- **2026-06-12** | [Nauths · Practical uses of monads in Haskell](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: general
+- **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: general
+
 - **2026-06-12** | [Monad Pattern in Functional Programming: A Comprehensive Guide](https://softwarepatternslexicon.com/functional-programming/essential-functional-programming-patterns/monad-pattern) | kw: monad pattern, functional programming
 - **2026-06-12** | [monadic - Rust Docs](https://docs.rs/monadic/latest/monadic/) | kw: monadic, Rust macros, IntoIterator
 - **2026-06-12** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, guide, monads

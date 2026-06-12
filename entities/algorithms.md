@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: general
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: general
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: general
+- **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: TechPrep 100
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: general
+
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: DSA, interview prep, sheet
 - **2026-06-12** | [Data Structures and Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: DSA roadmap, 2026
 - **2026-06-12** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: LeetCode, study plan, data structures

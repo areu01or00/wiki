@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: general
+- **2026-06-12** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: general
+- **2026-06-12** | [Complete Guide for Backend & System Design - YouTube](https://www.youtube.com/watch?v=c_Xnz8l1LgE) | kw: general
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: microservices
+- **2026-06-12** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: general
+
 - **2026-06-12** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: scalability patterns, consensus algorithms
 - **2026-06-12** | [Distributed Systems Patterns: Saga, Outbox, Idempotency Keys](https://viprasol.com/blog/distributed-systems-patterns) | kw: saga pattern, outbox, idempotency
 - **2026-06-12** | [Top Software Architecture Trends for 2026: AI + Edge Computing](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: edge computing, AI, autonomous systems
