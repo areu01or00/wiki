@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en)
+- **2026-06-12** | [Sanjoy Das](http://sanjoy.link/)
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst)
+- **2026-06-12** | [The state of GPU codegen with Nim (bonus: LLVM JIT)](https://forum.nim-lang.org/t/9794)
+- **2026-06-12** | [Compiler Explorer in 2024 - Patreon](https://www.patreon.com/posts/compiler-in-2024-119012319)
+
 - **2026-06-12** | [Compilers and Modern Language Runtimes - LLVM JIT GC V8 Turbofan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT compilation, LLVM, bytecode
 - **2026-06-12** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: JIT compilation, LLVM, bytecode
 - **2026-06-12** | [Just-In-Time JIT Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation, LLVM, bytecode

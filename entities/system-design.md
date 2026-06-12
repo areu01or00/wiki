@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [SRDS 2026](https://srds-conference.org/)
+- **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a)
+- **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap)
+- **2026-06-12** | [Fundamentals of Distributed Systems](https://www.pluralsight.com/courses/distributed-systems-fundamentals)
+- **2026-06-12** | [The Future of Distributed Systems: Trends and Opportunities](https://www.linkedin.com/posts/colinbreck_predicting-the-future-of-distributed-systems-activity-7355339000355737600-1GCT)
+- **2026-06-12** | [Trends in Distributed Systems Overview](https://www.scribd.com/presentation/638622204/Untitled)
+
 - **2026-06-12** | [Top 8 Commonly Used Distributed Systems Patterns](https://edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | kw: load balancing, caching patterns, distributed systems
 - **2026-06-12** | [Design Patterns for Microservices | IBM](https://www.ibm.com/think/topics/microservices-design-patterns) | kw: load balancing, caching patterns, distributed systems
 - **2026-06-12** | [Patterns of Distributed Systems](https://research.tedneward.com/patterns/patterns-of-distributed-systems/index.html) | kw: load balancing, caching patterns, distributed systems

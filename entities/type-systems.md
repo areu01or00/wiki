@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing)
+- **2026-06-12** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf)
+- **2026-06-12** | [Gradual typing with unification-based inference](https://dl.acm.org/doi/10.1145/1408681.1408688)
+- **2026-06-12** | [The ins and outs of gradual type inference](https://dl.acm.org/doi/pdf/10.1145/2103621.2103714)
+- **2026-06-12** | [Gradual Liquid Type Inference - Niki Vazou](https://nikivazou.github.io/static/oopsla18main-p124-p.pdf)
+
 - **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing, type inference, dependent types
 - **2026-06-12** | [Gradual Typing with Inference Siek slides](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing, type inference, dependent types
 - **2026-06-12** | [Design and Evaluation of Gradual Typing for Python Reticulated Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: gradual typing, type inference, dependent types

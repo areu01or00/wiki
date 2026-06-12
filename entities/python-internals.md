@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil)
+- **2026-06-12** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil)
+- **2026-06-12** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations)
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html)
+- **2026-06-12** | [What is the Global Interpreter Lock (GIL) in Python?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10)
+- **2026-06-12** | [Why Python Multiprocessing Can Be Slower Than Single-Threaded](https://www.w3tutorials.net/blog/python-using-multiprocess-is-slower-than-not-using-it)
+- **2026-06-12** | [Python GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879)
+- **2026-06-12** | [Python 3.14 Free-Threading and Experimental JIT](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/)
+- **2026-06-12** | [Mastering Python Concurrency: The Truth About the GIL](https://www.linkedin.com/pulse/mastering-python-concurrency-truth-gil-farid-el-aouadi-8ewfe)
+
 - **2026-06-12** | [Python Internals Memory Management and the Global Interpreter Lock GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, free-threaded Python, CPython internals
 - **2026-06-12** | [Memory Management and GIL Python Guide 2026](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, free-threaded Python, CPython internals
 - **2026-06-12** | [The Future of Python Internals Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL, free-threaded Python, CPython internals
