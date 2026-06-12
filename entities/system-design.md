@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Top 8 Commonly Used Distributed Systems Patterns](https://edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-12** | [Design Patterns for Microservices | IBM](https://www.ibm.com/think/topics/microservices-design-patterns) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-12** | [Patterns of Distributed Systems](https://research.tedneward.com/patterns/patterns-of-distributed-systems/index.html) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-12** | [Distributed Systems Architecture: Tutorial & Best Practices](https://www.multiplayer.app/distributed-systems-architecture) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: load balancing, caching patterns, distributed systems
+
 - **2026-06-11** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide to System Design in 2
 - **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Distributed S
 - **2026-06-11** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns of Distributed Systems: Complet

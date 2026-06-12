@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Compilers and Modern Language Runtimes - LLVM JIT GC V8 Turbofan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT compilation, LLVM, bytecode
+- **2026-06-12** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: JIT compilation, LLVM, bytecode
+- **2026-06-12** | [Just-In-Time JIT Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation, LLVM, bytecode
+- **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: JIT compilation, LLVM, bytecode
+- **2026-06-12** | [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault) | kw: JIT compilation, LLVM, bytecode
+- **2026-06-12** | [Building a JIT Starting out with KaleidoscopeJIT ORC JIT tutorial](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM, bytecode
+
 - **2026-06-11** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 Turbofan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes
 - **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry
 - **2026-06-11** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM: The Future of Com

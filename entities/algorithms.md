@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [How to prepare for Data Structures and Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-12** | [Data Structures and Algorithms Interview Guide 2026 TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-12** | [Best DSA Sheet 2026 To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-12** | [Data Structures and Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: dynamic programming, DSA roadmap, coding interviews
+
 - **2026-06-11** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150/) | kw: Top Interview 150
 - **2026-06-11** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Alg
 - **2026-06-11** | [LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode Alone Won't Save You in 2026
