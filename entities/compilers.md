@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM dominance, V8 4-tier JIT,
+- **2026-06-12** | [Perry - Native TypeScript Compiler to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry compiles TypeScript stra
+- **2026-06-12** | [JIT Compilation - microsoft/llvm - DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: LLVM ORC JIT compilation frame
+- **2026-06-12** | [A Deep Dive into LLVM: Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: LLVM flexible and extensively 
+- **2026-06-12** | [compiler-course-2026 BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: ORC JIT APIs tutorial
+- **2026-06-12** | [JIT Compiler with LLVM - Create Your Own Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation with LLVM in R
+- **2026-06-12** | [compiler-course-2026 BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: Lazy JITing with ORC CompileOn
+- **2026-06-12** | [Sanjoy Das - NVIDIA Deep Learning Compilers](http://sanjoy.link/) | kw: Director of Engineering at NVI
+
 - **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: new
 
 - **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers

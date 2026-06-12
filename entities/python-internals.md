@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The GIL Is Finally Dead: Free-Threaded Python Is Production Ready](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: PEP 779 accepted, free-threade
+- **2026-06-12** | [Beyond the Script: Intelligent Evolution of Python Automation in 2026](https://dev.to/codingmavrick/beyond-the-script-the-intelligent-evolution-of-python-automation-in-2026-5b6l) | kw: PEP 703 maturity in Python 3.1
+- **2026-06-12** | [State of Python 2026 - The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: Python 3.14 free-threaded buil
+- **2026-06-12** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Nature of GIL, impact on concu
+- **2026-06-12** | [Advanced Memory GIL - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: Memory Management, GC and GIL 
+- **2026-06-12** | [The Future of Python Internals: Exploring GIL Removal](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: Specialized interpreters and i
+
 - **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: new
 - **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: new
 - **2026-06-12** | [Understanding __slots__ in Python: Memory Optimization and Design Trade-offs - DEV Community](https://dev.to/lead_with_data/understanding-slots-in-python-memory-optimization-and-design-trade-offs-4p87) | kw: new

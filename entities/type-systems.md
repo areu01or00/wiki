@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance (Conference)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Programming 2026 conference pa
+- **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Type inference in gradual typi
+- **2026-06-12** | [Type system concepts - Python typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Static, dynamic, and gradual t
+- **2026-06-12** | [Navigating the 2026 Language Landscape: Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: 2026 convergence driven by gra
+- **2026-06-12** | [Gradual Typing Performance - NSF Research](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Systematic investigation of fi
+- **2026-06-12** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: Type inference algorithm for g
+- **2026-06-12** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Research on gradual typing lan
+- **2026-06-12** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Issues at the heart of type sy
+
 - **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: new
 - **2026-06-12** | [Staged Gradual Typing (GPCE 2025) - ECOOP 2025](https://2025.ecoop.org/details/ecoop-2025-gpce/8/Staged-Gradual-Typing) | kw: new
 - **2026-06-12** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: new

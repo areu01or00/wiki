@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: Tutorial on monads and monad t
+- **2026-06-12** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Section 9 of Gentle Introducti
+- **2026-06-12** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: What is a Monad and the easies
+- **2026-06-12** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Part 3 of Monads series - work
+- **2026-06-12** | [Haskell Monads - TutorialsPoint](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Monads as Applicative Functor 
+- **2026-06-12** | [Functional Programming in 2026: Haskell vs Gleam vs Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: FP has specialized into Haskel
+- **2026-06-12** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Exploring standard monads to s
+- **2026-06-12** | [haskell-monads-2026 - GitHub](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: Monad composition challenges -
+- **2026-06-12** | [monadify - Rust utility for monads](https://lib.rs/crates/monadify) | kw: Rust library implementing Mona
+- **2026-06-12** | [Posts - The Monad Cat](http://monad.cat/pages/posts.html) | kw: Words about Haskell, Maths, JS
+
 - **2026-06-12** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: new
 - **2026-06-12** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust.](https://github.com/wrsturgeon/rsmonad) | kw: new
 

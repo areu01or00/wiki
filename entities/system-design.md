@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [System Design Series Part 3: Load Balancing and Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: Master load balancing algorith
+- **2026-06-12** | [Mastering Distributed Systems - Patterns and Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Foundational theorems, consens
+- **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns of Distributed System
+- **2026-06-12** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: Tradeoffs define every system 
+- **2026-06-12** | [Distributed Systems Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Master distributed systems des
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026 compr
+
 - **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: new
 - **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: new
 - **2026-06-12** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: new
