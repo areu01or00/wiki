@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Top 100 LeetCode Coding Interview Questions (2025 Edition): Difficulty Breakdown & Efficient Study Roadmap | Shadecoder](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: LeetCode, Coding, Interview
+- **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, 2026
+- **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: LeetCode, Questions, Must
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: 100+, Data, Structure
+- **2026-06-12** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: Problem, List, LeetCode
+- **2026-06-12** | [59 Essential Searching Algorithms Interview Questions in 2026](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: Essential, Searching, Algorithms
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview
+
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best
 - **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data
 - **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data
