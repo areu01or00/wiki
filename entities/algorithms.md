@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Leetcode easy](https://leetcode.com/problemset?difficulty=EASY&page=1) | kw: leetcode, LeetCode
+- **2026-06-12** | [LeetCode - The World's Leading Online Programming ...](https://leetcode.com/problemset?difficulty=EASY) | kw: leetcode, LeetCode
+- **2026-06-12** | [Problem List - LeetCode](https://leetcode.com/problem-list/array) | kw: leetcode, LeetCode
+- **2026-06-12** | [LeetCode Easy Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy) | kw: leetcode, interview, LeetCode
+- **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: leetcode, interview, LeetCode
+
 - **2026-06-12** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: learn leetcode & dsa: a free youtube roa
 - **2026-06-12** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: top 100 dsa interview questions - discus
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: best dsa sheet 2026 | to crack interview

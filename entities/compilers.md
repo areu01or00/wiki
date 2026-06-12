@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: LLVM, TypeScript
+- **2026-06-12** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: compilers
+- **2026-06-12** | [Sanjoy Das](http://sanjoy.link/) | kw: compilers
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM
+- **2026-06-12** | [Numba: A High Performance Python Compiler](https://numba.pydata.org/) | kw: compilers
+
 - **2026-06-12** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: fosdem 2026 - orcjit at scale with the l
 - **2026-06-12** | [HOME](http://peakhillsgroup.com/) | kw: home
 - **2026-06-12** | [A Deep Dive into LLVM: The Future of Compiler Technology | by Aastha Jain | Medium](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: a deep dive into llvm: the future of com
