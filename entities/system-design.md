@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: new
+- **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: new
+- **2026-06-12** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: new
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN ...](https://onlinetools4free.com/research/system-design-guide-2026) | kw: new
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: new
+- **2026-06-12** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: new
+- **2026-06-12** | [Microservices Design Patterns: The Comprehensive ...](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: new
+
 - **2026-06-12** | [Cloud Native Architecture | Kubernetes & Serverless 2026](https://gegosoft.com/cloud-native-architecture) | kw: system-design
 - **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 

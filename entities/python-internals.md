@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: new
+- **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: new
+- **2026-06-12** | [Understanding __slots__ in Python: Memory Optimization and Design Trade-offs - DEV Community](https://dev.to/lead_with_data/understanding-slots-in-python-memory-optimization-and-design-trade-offs-4p87) | kw: new
+- **2026-06-12** | [Python Internals: Understanding Python's Memory Management • ITER Academy](https://iter-academy.com/python-internals-understanding-pythons-memory-management) | kw: new
+- **2026-06-12** | [Python - Python Memory Management Internals | eVidhya](https://evidhya.com/subjects/python/python-memory-management-internals) | kw: new
+- **2026-06-12** | [7 Hidden Python Memory Optimization Techniques: Master ...](https://blog.stackademic.com/7-hidden-python-memory-optimization-techniques-master-slots-weak-references-and-custom-585e9d5b5a20) | kw: new
+
 - **2026-06-12** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: python-internals
 - **2026-06-12** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
 

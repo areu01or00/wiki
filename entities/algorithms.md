@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: new
+- **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: new
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: new
+- **2026-06-12** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: new
+
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
 - **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
 

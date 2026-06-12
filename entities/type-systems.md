@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: new
+- **2026-06-12** | [Staged Gradual Typing (GPCE 2025) - ECOOP 2025](https://2025.ecoop.org/details/ecoop-2025-gpce/8/Staged-Gradual-Typing) | kw: new
+- **2026-06-12** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: new
+
 - **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: type-systems
 

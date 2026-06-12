@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: new
+- **2026-06-12** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust.](https://github.com/wrsturgeon/rsmonad) | kw: new
+
 - **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming
 - **2026-06-12** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: functional-programming
 
