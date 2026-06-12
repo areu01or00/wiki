@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: distributed systems, architecture, systems
+- **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: load balancing, design, system
+- **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems, patterns, systems
+- **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: design, distributed, system
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: load balancing, design, system
+- **2026-06-12** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: design, patterns, system
+- **2026-06-12** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: distributed systems, systems, distributed
+
 - **2026-06-12** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: distributed systems, (2026), distributed
 
 - **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: distributed systems, patterns, distributed
