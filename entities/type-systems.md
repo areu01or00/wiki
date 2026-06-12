@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm ...](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: typing
+- **2026-06-12** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN ...](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: gradual, typing
+- **2026-06-12** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: gradual, inference, type
+- **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual, typing
+- **2026-06-12** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: gradual, inference, type
+
 - **2026-06-12** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type systems
 - **2026-06-12** | [Understanding Graduality in Programming Languages through Embedding Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: type systems
 - **2026-06-12** | [The ins and outs of gradual type inference | POPL 2012](https://dl.acm.org/doi/10.1145/2103656.2103714) | kw: type systems

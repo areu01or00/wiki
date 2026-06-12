@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: gil, python, free-threaded
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: gil, python, memory
+- **2026-06-12** | [Beyond the Script: The Intelligent Evolution of Python Automation in 2026 - DEV Community](https://dev.to/codingmavrick/beyond-the-script-the-intelligent-evolution-of-python-automation-in-2026-5b6l) | kw: python
+- **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: python, cpython
+- **2026-06-12** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: gil, python, memory
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: gil, python, parallelism
+- **2026-06-12** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python, memory, management
+
 - **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals
 - **2026-06-12** | [Memory Management & GIL: Python Guide 2026 - Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python internals
 - **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood - Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: python internals

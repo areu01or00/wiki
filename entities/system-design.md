@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: distributed, system
+- **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system, design, load
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system, design, load
+
 - **2026-06-12** | [Top 23 Distributed Systems Interview Questions (2026)](https://www.datainterview.com/blog/distributed-systems-interview-questions) | kw: system design
 - **2026-06-12** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: system design
 - **2026-06-12** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system design

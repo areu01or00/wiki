@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell, functional, programming
+- **2026-06-12** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef | Technology, Development & Creative Tech Insights](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: haskell, rust, gleam
+- **2026-06-12** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming | Rust Design Patterns & Systems Architecture | Software Patterns Lexicon](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: system, design, monad
+- **2026-06-12** | [Latest Monad News - (MON) Future Outlook, Trends & Market Insights](http://coinmarketcap.com/cmc-ai/monad/latest-updates) | kw: monad
+- **2026-06-12** | [Kuru Exchange](http://kuru.io/) | kw: ['kuru', 'exchange']
+- **2026-06-12** | [Rust: Functional Programming & Monads | by Technocrat ...](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: monad, rust, functional
+- **2026-06-12** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: rust, functional, programming
+
 - **2026-06-12** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: functional programming
 - **2026-06-12** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: functional programming
 - **2026-06-12** | [The Practical Value of Functional Programming - Monad Deep Dive Guide](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional programming
