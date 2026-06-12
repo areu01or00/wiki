@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language, Landscape:, Typing
+- **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type, Theory
+- **2026-06-12** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, Language, Labyrinth:, 2026, Matrix
+- **2026-06-12** | [Type Inference with Constrained Types](https://www.cs.tufts.edu/~nr/drop/tapos-final.pdf) | kw: Type, Inference, Constrained, Types
+- **2026-06-12** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: Gradual, Typing, Across, Spectrum, GitHub
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type, Annotations, Performance
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type, Annotations, Performance
+
 - **2026-06-12** | [Elixir v1.20 Launches with Built-in Gradual Typing](https://x.com/i/trending/2062281053512077476) | kw: type-systems
 - **2026-06-12** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
 - **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems

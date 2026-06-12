@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The GIL Is Finally Dead: Free-Threaded Python Is Production Ready](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: GIL, Finally, Dead:, Free, Threaded
+- **2026-06-12** | [What is PEP 703?](https://pydevtools.com/handbook/explanation/what-is-pep-703) | kw: What, PEP, 703?
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals:, Memory, Management
+- **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: CPython, Internals:, Python, Really, Works
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, GIL, Controversy:, Why, Multi
+- **2026-06-12** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: Impact, GIL, less, Cpython, Performance
+- **2026-06-12** | [Python In-Depth — Memory Management in Python (GIL and Profiling)](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Python, Depth, Memory, Management, Python
+
 - **2026-06-12** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
 - **2026-06-12** | [Python Memory Management Internals | by Majidbasharat](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
 - **2026-06-12** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: python-internals

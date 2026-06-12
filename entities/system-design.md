@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, Distributed, Systems
+- **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: Edge, Computing, Patterns, 2026:, Global
+- **2026-06-12** | [Distributed System Design: the complete guide to building](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design:, complete, guide
+- **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series, Part, Load
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns, 2026:, Mastering...
+
 - **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 - **2026-06-12** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: system-design
 - **2026-06-12** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system-design
