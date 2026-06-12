@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: NeetCode
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: DSA roadmap
+- **2026-06-12** | [How to Get Better at LeetCode: 10 Tips That Actually Work (2026)](https://leetcopilot.dev/blog/how-to-get-better-at-leetcode-2026) | kw: LeetCode
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: interview questions
+- **2026-06-12** | [Dynamic Programming Strategies - Compile N Run](https://www.compilenrun.com/docs/fundamental/algorithm/leetcode-problem-approaches/dynamic-programming-strategies) | kw: dynamic programming
+
 - **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: leetcode, interview, LeetCode
 - **2026-06-12** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: coding interviews, algorithms, structures
 
