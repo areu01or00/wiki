@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: type-systems
+
 - **2026-06-12** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: gradual typing
 - **2026-06-12** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement](https://arxiv.org/abs/2603.05649) | kw: gradual typing
 
