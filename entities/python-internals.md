@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Optimising RAM Usage With Python](https://www.opensourceforu.com/2026/04/optimising-ram-usage-with-python) | kw: python
+
 - **2026-06-12** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: GIL
 - **2026-06-12** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL
 - **2026-06-12** | [Python 3.14 Free-Threading - True Parallelism Without the GIL](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: GIL
