@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Software Architecture: Distributed Systems | by Santiago | Apr, 2026 | Medium](https://medium.com/%40barbieri.santiago/software-architecture-distributed-systems-78c87222e4ed) | kw: system-design
+- **2026-06-12** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: system-design
+- **2026-06-12** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system-design
+- **2026-06-12** | [9 Software Architecture Patterns for Distributed Systems - DEV Community](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: system-design
+- **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
+
 - **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: general
 - **2026-06-12** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: general
 - **2026-06-12** | [Complete Guide for Backend & System Design - YouTube](https://www.youtube.com/watch?v=c_Xnz8l1LgE) | kw: general
