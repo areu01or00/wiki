@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | compilers
+- **2026-06-12** | [Best Free Open-Source Compilers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | compilers
+- **2026-06-12** | [The Future of Programming: Compiler Writing in 2026](https://artikls.com/article/future-programming-compiler-writing-2026) | compilers
+- **2026-06-12** | [Sanjoy Das - Deep Learning Compilers at NVIDIA](http://sanjoy.link/) | compilers
+- **2026-06-12** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | compilers
+
 - **2026-06-12** | [Documentation: 18: 30.1. What Is JIT compilation? - PostgreSQL](https://www.postgresql.org/docs/current/jit-reason.html)
 - **2026-06-12** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en)
 

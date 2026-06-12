@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | algorithms
+- **2026-06-12** | [60 LeetCode problems to solve for coding interview](https://medium.com/%40koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e) | algorithms
+
 - **2026-06-12** | [NeetCode - Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/)
 - **2026-06-12** | [LeetCode Alone Wont Save You in 2026 - Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl)
 - **2026-06-12** | [How to prepare for Data Structures and Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y)

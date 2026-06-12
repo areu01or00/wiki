@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | system-design
+- **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a) | system-design
+
 - **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference | by Devarshi Vyas | Apr, 2026 | Medium](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a)
 - **2026-06-12** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/JavaProgramming/comments/1tkmv0v/9_essential_software_architecture_patterns_for)
 - **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf)

@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | python-internals
+- **2026-06-12** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | python-internals
+- **2026-06-12** | [What is the GIL in Python and Why Should You Care?](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | python-internals
+
 - **2026-06-12** | [Your guide to reducing Python memory usage - Honeybadger Developer Blog](https://www.honeybadger.io/blog/reducing-your-python-apps-memory-footprint)
 - **2026-06-12** | [Python 3.14 Free-Threading - True Parallelism Without the GIL | Edgar Montano](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism)
 - **2026-06-12** | [Python - Python Internals: Memory Management and the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil)

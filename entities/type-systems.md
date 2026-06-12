@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Gradual type inference research papers](https://scholar.google.com/scholar?as_sdt=0&as_vis=1&hl=en&oi=scholart&q=gradual+type+inference+research+papers) | type-systems
+- **2026-06-12** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | type-systems
+- **2026-06-12** | [Gradual Liquid Type Inference](https://nikivazou.github.io/static/oopsla18main-p124-p.pdf) | type-systems
+
 - **2026-06-12** | [How to Evaluate the Performance of Gradual Type Systems - Jan Vitek](https://janvitek.org/pubs/jfp18.pdf)
 - **2026-06-12** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html)
 - **2026-06-12** | [Gradual Typing - Glossary - Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html)
