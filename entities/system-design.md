@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Cloud-Native Architecture for 2026: Microservices, Serverless, and Beyond](https://www.elightwalk.com/blog/cloud-native-architecture) | kw: Cloud, Native, Architecture
+- **2026-06-12** | [Cloud Native Architecture in 2026: 8 Trends, Tools, and Implementation Guide](https://www.decipherzone.com/blog-detail/cloud-native-architecture-trends) | kw: Cloud, Native, Architecture
+- **2026-06-12** | [Cloud-Native Operating System Guide: The Future of Distributed Infrastructure](https://netalith.com/blogs/operating-systems/cloud-native-operating-systems-distributed-infrastructure-2026) | kw: Cloud, Native, Operating
+- **2026-06-12** | [Cloud Native Architecture | Kubernetes & Serverless 2026](https://gegosoft.com/cloud-native-architecture) | kw: Cloud, Native, Architecture
+
 - **2026-06-12 21:47 UTC** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns
 - **2026-06-12 21:47 UTC** | [Patterns of Distributed Systems (2020) | Hacker News](https://news.ycombinator.com/item?id=26089683) | kw: Patterns
 
