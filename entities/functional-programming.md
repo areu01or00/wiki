@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monads, monad, like, patterns, rust
+- **2026-06-12** | [Monad Official Announcements](http://monad.xyz/announcements) | kw: monad, official, announcements
+- **2026-06-12** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: monad, (functional, programming), wikipedia
+- **2026-06-12** | [Monad Institutions](http://monad.xyz/institutions) | kw: monad, institutions
+- **2026-06-12** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell, guide, 2026:, functional, programming
+- **2026-06-12** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: practical, value, functional, programming, monad
+- **2026-06-12** | [Latest Monad News](http://coinmarketcap.com/cmc-ai/monad/latest-updates) | kw: latest, monad, news
+
 - **2026-06-12** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: practical, uses, monads
 - **2026-06-12** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt) | kw: demystifying, monads, rust
 - **2026-06-12** | [Haskell - Monads](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: haskell, monads

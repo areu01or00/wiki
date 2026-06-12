@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers](https://www.staicu.org/publications/ase2024.pdf) | kw: typed, confused:, studying, unexpected, dangers
+- **2026-06-12** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: ins, outs, gradual, type, inference
+- **2026-06-12** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: cost, type, tag, soundness
+
 - **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual, typing, type
 - **2026-06-12** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: gradual, typing, types
 - **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type, system, concepts

@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, internals:, memory, management, global
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python, gil, controversy:, why, multi
+- **2026-06-12** | [Pythons GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: pythons, gil, gone, actually, means
+- **2026-06-12** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python, memory, management, internals
+- **2026-06-12** | [Advanced Memory GIL](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: advanced, memory, gil
+
 - **2026-06-12** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026) | kw: state, python, 2026
 - **2026-06-12** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: future, python, internals
 - **2026-06-12** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, python, internals
