@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Functional Languages in 2026 — A Camp-by-Camp Survey](https://www.youngju.dev/blog/culture/2026-05-14-functional-languages-2026-survey-haskell-elm-roc-gleam-unison-ocaml-fsharp-deep-dive.en) | kw: Comprehensive survey of functional language families in 2026
+- **2026-06-12** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: GHC 9.14 major compiler advances, SIMD enhancements, linear 
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: Monadic patterns discovered through Rust's Option and Result
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Monadic patterns in Rust
+- **2026-06-12** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: FP philosophy from Church's lambda calculus to distributed s
+
 - **2026-06-12 20:18** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support | src: functional-programming
 - **2026-06-12 20:18** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, functional, programming | src: functional-programming
 - **2026-06-12 20:18** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, 2026 | src: functional-programming

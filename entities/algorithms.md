@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: Comprehensive 2026 DSA roadmap
+- **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Comprehensive beginner-friendly guide for LeetCode preparati
+- **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: Tech interview roadmaps with 1000+ practice problems
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Complete LeetCode study plan for 2026
+
 - **2026-06-12 20:18** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms | src: algorithms
 - **2026-06-12 20:18** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview | src: algorithms
 - **2026-06-12 20:18** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet | src: algorithms

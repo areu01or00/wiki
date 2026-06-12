@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compiler optimization battle for million-QPS LLM inference r
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM ORC JIT APIs tutorial
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM ORC JIT APIs tutorial
+- **2026-06-12** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: ML-based compiler optimization breaking traditional patterns
+- **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS ...](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: TypeScript compiled straight to native machine code through 
+- **2026-06-12** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: Director of Engineering at NVIDIA, LLVM contributor
+- **2026-06-12** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM compiler infrastructure
+
 - **2026-06-12 20:18** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan Maglev Inline Caching Escape Analysis Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language | src: compilers
 - **2026-06-12 20:18** | [Python's JIT Compiler in 2026 — How Fast Is It Really?](https://www.pyblog.in/programming/inorder-traversal-of-binary-tree-in-python) | kw: Python's, JIT, Compiler | src: compilers
 - **2026-06-12 20:18** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: Case, Compilers, Look | src: compilers

@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Understanding Graduality in Programming Languages through ...](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Embedding-projection pairs for gradual typing
+- **2026-06-12** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual typing building on static typing
+- **2026-06-12** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: Gradual typing systems type soundness runtime checks
+
 - **2026-06-12 20:18** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type | src: type-systems
 - **2026-06-12 20:18** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language | src: type-systems
 - **2026-06-12 20:18** | [Typed and Confused: Studying the Unexpected Dangers of](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed, Confused, Studying | src: type-systems

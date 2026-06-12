@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Patterns - Architecture Culture](http://patterns.work/) | kw: Architecture and design practice
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: CAP/PACELC trade-offs, consensus protocols like Raft, and re
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Architectural patterns and best practices for distributed sy
+- **2026-06-12** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: API Gateway, Outbox Pattern, CQRS, Saga Pattern, Sidecar Pat
+- **2026-06-12** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: A framework for choosing the right system design pattern
+- **2026-06-12** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Edge computing, AI/ML inference, and global real-time requir
+
 - **2026-06-12 20:18** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series | src: system-design
 - **2026-06-12 20:18** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems | src: system-design
 - **2026-06-12 20:18** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best | src: system-design
