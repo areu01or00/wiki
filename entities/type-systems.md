@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12 20:18** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type | src: type-systems
+- **2026-06-12 20:18** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language | src: type-systems
+- **2026-06-12 20:18** | [Typed and Confused: Studying the Unexpected Dangers of](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed, Confused, Studying | src: type-systems
+- **2026-06-12 20:18** | [Horizon Summary: 2026-06-04 (EN) | Horizon Daily](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: Horizon, Summary, 2026-06-04 | src: type-systems
+- **2026-06-12 20:18** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: Ins, Outs, Gradual | src: type-systems
+
 - **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: 2026, Landscape, Landscape:
 - **2026-06-12** | [On the cost of type-tag soundness - ACM](http://dl.acm.org/doi/10.1145/3162066) | kw: ACM, The, Type
 

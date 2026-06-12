@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12 20:18** | [CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: CPython, Internals, Python | src: python-internals
+- **2026-06-12 20:18** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL, Key | src: python-internals
+- **2026-06-12 20:18** | [Python Memory Management Internals | by Majidbasharat](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management | src: python-internals
+- **2026-06-12 20:18** | [Python-3.12 告别 GIL 锁 & 性能原地飞升！](https://cloud.tencent.com/developer/article/2219746) | kw: Python-3.12, GIL | src: python-internals
+- **2026-06-12 20:18** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: Memory, Management, Python | src: python-internals
+
 - **2026-06-12** | [Python Internals: Memory Management & the GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, Internals, Internals:
 - **2026-06-12** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Backend, GIL, Performance
 - **2026-06-12** | [How Python Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: Hood, How, Management

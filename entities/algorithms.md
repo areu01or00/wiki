@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12 20:18** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms | src: algorithms
+- **2026-06-12 20:18** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview | src: algorithms
+- **2026-06-12 20:18** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet | src: algorithms
+- **2026-06-12 20:18** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding, Interview, Prep | src: algorithms
+- **2026-06-12 20:18** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: prepare, Data, Structures | src: algorithms
+- **2026-06-12 20:18** | [Google 2026 LeetCode Interview Preparation Guide](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: Google, 2026, LeetCode | src: algorithms
+
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: 2026, Best, Crack
 - **2026-06-12** | [NeetCode - Coding Interview Prep](https://neetcode.io/) | kw: Coding, Interview, NeetCode
 - **2026-06-12** | [awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: GitHub, LEETCODE, LeetCode

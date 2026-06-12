@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-12 20:18** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan Maglev Inline Caching Escape Analysis Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language | src: compilers
+- **2026-06-12 20:18** | [Python's JIT Compiler in 2026 — How Fast Is It Really?](https://www.pyblog.in/programming/inorder-traversal-of-binary-tree-in-python) | kw: Python's, JIT, Compiler | src: compilers
+- **2026-06-12 20:18** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: Case, Compilers, Look | src: compilers
+- **2026-06-12 20:18** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026 | src: compilers
+- **2026-06-12 20:18** | [The Future of Programming: Compiler Writing in 2026](https://artikls.com/article/future-programming-compiler-writing-2026) | kw: Future, Programming, Compiler | src: compilers
+- **2026-06-12 20:18** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: Deep, Dive, into | src: compilers
+
 - **2026-06-12** | [compiler-course-2026 BuildingAJIT1.rst at VALancaster](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026, BuildingAJIT1.rst, Compiler
 - **2026-06-12** | [The Case For Compilers: SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: 2026, CPU, Case
 - **2026-06-12** | [compiler-course-2026 BuildingAJIT1.rst at RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026, BuildingAJIT1.rst, Compiler
