@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL, python, internals
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL, python, gil
+- **2026-06-12** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, memory management, memory
+- **2026-06-12** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: GIL, python, gil
+
 - **2026-06-12** | [Optimising RAM Usage With Python](https://www.opensourceforu.com/2026/04/optimising-ram-usage-with-python) | kw: python
 
 - **2026-06-12** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: GIL

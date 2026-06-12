@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: distributed systems, architecture, systems
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: design, patterns, architecture
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: load balancing, design, system
+
 - **2026-06-12** | [Mastering Distributed Systems - Patterns and Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems
 - **2026-06-12** | [The Complete Guide to System Design in 2026](https://grokkingthesystemdesign.com/complete-guide-to-system-design) | kw: design
 
