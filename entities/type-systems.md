@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: typing paradigms
+- **2026-06-12** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: gradual type theory
+
 - **2026-06-12** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing) | kw: 2026 trends showing shift in type system adoption.
 - **2026-06-12** | [The Mechanics of Gradual Typing and Hybrid Systems](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: Optimizing compilers for gradual typing via JIT an
 - **2026-06-12** | [A Deep Dive into Type Systems -- What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: Type system design across TypeScript
