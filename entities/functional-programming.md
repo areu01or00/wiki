@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: But, Haskell, How
+- **2026-06-12** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Bring, Code, Developers
+- **2026-06-12** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: (functional, Functional, Monad
+- **2026-06-12** | [monadify - Rust utility](https://lib.rs/crates/monadify) | kw: Monad, Rust, monad
+- **2026-06-12** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: And, Monad, Monad-Like
+- **2026-06-12** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monad, Monads, Omnipresent
+
 - **2026-06-13** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: functional-programming
 - **2026-06-13** | [Haskell - Monads](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: functional-programming
 - **2026-06-13** | [Posts - The Monad Cat](http://monad.cat/pages/posts.html) | kw: functional-programming

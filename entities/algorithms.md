@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: 2026, Best, Crack
+- **2026-06-12** | [NeetCode - Coding Interview Prep](https://neetcode.io/) | kw: Coding, Interview, NeetCode
+- **2026-06-12** | [awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: GitHub, LEETCODE, LeetCode
+- **2026-06-12** | [Data Structure and Algorithm Patterns for LeetCode Interviews - Tutorial](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Algorithm, Data, Interview
+
 - **2026-06-13** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
 - **2026-06-13** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms
 - **2026-06-13** | [LeetCode Interview Questions: Top Patterns by Company (2026)](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: algorithms

@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Python Internals: Memory Management & the GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, Internals, Internals:
+- **2026-06-12** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Backend, GIL, Performance
+- **2026-06-12** | [How Python Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: Hood, How, Management
+- **2026-06-12** | [Memory Management & GIL: Python Guide 2026 | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: 2026, Edugators, GIL
+
 - **2026-06-13** | [CPython Internals: How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: python-internals
 - **2026-06-13** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 - **2026-06-13** | [Python Complete Guide | CPython Internals · GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: python-internals
