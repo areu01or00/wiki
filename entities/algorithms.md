@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: leetcode, interview, LeetCode
+- **2026-06-12** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: coding interviews, algorithms, structures
+
 - **2026-06-12** | [Leetcode easy](https://leetcode.com/problemset?difficulty=EASY&page=1) | kw: leetcode, LeetCode
 - **2026-06-12** | [LeetCode - The World's Leading Online Programming ...](https://leetcode.com/problemset?difficulty=EASY) | kw: leetcode, LeetCode
 - **2026-06-12** | [Problem List - LeetCode](https://leetcode.com/problem-list/array) | kw: leetcode, LeetCode

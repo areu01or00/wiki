@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing, gradual, typing
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: type, performance, type annotation
+- **2026-06-12** | [Gradual typing with unification-based inference](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: gradual typing, gradual, typing
+- **2026-06-12** | [Staged Gradual Typing (GPCE 2025)](https://2025.ecoop.org/details/ecoop-2025-gpce/8/Staged-Gradual-Typing) | kw: gradual typing, gradual, typing
+- **2026-06-12** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: type
+
 - **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing, gradual, typing
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type, performance, type annotation
 - **2026-06-12** | [Understanding Graduality in Programming Languages through ...](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: gradual
