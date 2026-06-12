@@ -1,6 +1,20 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [The Mechanics of Gradual Typing and Hybrid Systems](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: typing, systems, gradual typing
+
+- **2026-06-12** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing, documentation, type
+
+- **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: typing, gradual typing, gradual
+
+- **2026-06-12** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: microsoft.com, inference, type inference
+
+- **2026-06-12** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: programming, languages, gradual
+
+- **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: typing, type, gradual typing
+
+- **2026-06-12** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: typing, gradual typing, gradual
+
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance (Conference)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Programming 2026 conference pa
 - **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Type inference in gradual typi
 - **2026-06-12** | [Type system concepts - Python typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Static, dynamic, and gradual t

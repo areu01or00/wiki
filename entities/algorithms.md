@@ -1,6 +1,22 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions/) | kw: questions, 2026, learning
+
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: phantomcodeai, questions, 2026
+
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: LeetCode, prepare, study
+
+- **2026-06-12** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: (2026, questions, 2026
+
+- **2026-06-12** | [Algorithms and Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: LeetCode, archman, (leetcode
+
+- **2026-06-12** | [Data Structures and Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: 2026, guide, algorithms
+
+- **2026-06-12** | [Data-Structures-and-Algorithms 150 top interview questions - GitHub](https://github.com/Ananya-Singh2406/Data-Structures-and-Algorithms---150-top-interview-questions) | kw: questions, algorithms, structures
+
+- **2026-06-12** | [NeetCode - Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: courses,, NeetCode, neetcode
+
 - **2026-06-12** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: Updated list covering arrays, 
 - **2026-06-12** | [Best DSA Sheet 2026 - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: 165 handpicked DSA questions w
 - **2026-06-12** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150/) | kw: LeetCode official top intervie

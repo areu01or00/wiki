@@ -1,6 +1,20 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: distributed systems, (2026), distributed
+
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: distributed systems, patterns, distributed
+
+- **2026-06-12** | [Scalable System Design for Distributed Enterprise Workloads](https://www.researchgate.net/publication/400869066_Scalable_System_Design_for_Distributed_Enterprise_Workloads) | kw: scalable, distributed, design
+
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN](https://onlinetools4free.com/research/system-design-guide-2026) | kw: balancing, caching, 2026
+
+- **2026-06-12** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: distributed systems, distributed, architecture
+
+- **2026-06-12** | [Most-Used Distributed System Design Patterns](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33) | kw: patterns, distributed, design
+
+- **2026-06-12** | [System Design Series Part 13: Distributed Systems Deep Dive](https://www.wasilzafar.com/pages/series/system-design/system-design-distributed-systems-deep-dive.html) | kw: distributed systems, distributed, systems
+
 - **2026-06-12** | [System Design Series Part 3: Load Balancing and Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: Master load balancing algorith
 - **2026-06-12** | [Mastering Distributed Systems - Patterns and Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Foundational theorems, consens
 - **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns of Distributed System

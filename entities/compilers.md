@@ -1,6 +1,18 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: LLVM
+
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: (jit), LLVM, language
+
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: course, 2026/llvm/docs/tutorial/buildingajit3.rst, LLVM
+
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst (Roman)](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026/llvm/docs/tutorial/buildingajit1.rst, course, LLVM
+
+- **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: machine, native, LLVM
+
+- **2026-06-12** | [Sanjoy Das - Director of Engineering at NVIDIA](http://sanjoy.link/) | kw: sanjoy
+
 - **2026-06-12** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM dominance, V8 4-tier JIT,
 - **2026-06-12** | [Perry - Native TypeScript Compiler to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry compiles TypeScript stra
 - **2026-06-12** | [JIT Compilation - microsoft/llvm - DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: LLVM ORC JIT compilation frame

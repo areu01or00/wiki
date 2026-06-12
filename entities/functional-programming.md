@@ -1,6 +1,26 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: rust, monads, monad
+
+- **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: programming, changes, Haskell
+
+- **2026-06-12** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: programming, Haskell, rust
+
+- **2026-06-12** | [Does Rust Support Functional Programming Idioms? Exploring FP in Rust](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: programming, exploring, rust
+
+- **2026-06-12** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: programming, (functional, wikipedia
+
+- **2026-06-12** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: property, through, demystifying
+
+- **2026-06-12** | [The Practical Value of Functional Programming - Monad Tutorial](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: programming, tutorial, Haskell
+
+- **2026-06-12** | [monadify - Rust utility for monads and FP constructs](https://lib.rs/crates/monadify) | kw: rust, monads, monad
+
+- **2026-06-12** | [Demystifying monads in Rust through property-based testing (sunshowers)](https://sunshowers.io/posts/monads-through-pbt) | kw: property, through, demystifying
+
+- **2026-06-12** | [Does/Will Rust support functional programming idioms? - Stack Overflow](https://stackoverflow.com/questions/18374612/does-will-rust-support-functional-programming-idioms) | kw: programming, rust, support
+
 - **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: Tutorial on monads and monad t
 - **2026-06-12** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Section 9 of Gentle Introducti
 - **2026-06-12** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: What is a Monad and the easies
