@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type, typing, gradual typing
+- **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: type, typing, gradual typing
+- **2026-06-12** | [Gradual typing in Python](https://www.geeksforgeeks.org/python/gradual-typing-in-python) | kw: typing, gradual typing, gradual
+
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance...](https://programming-journal.org/2026/11/3/) | kw: type annotation
 - **2026-06-12** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: gradual typing
 - **2026-06-12** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type inference

@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The Future of Python Internals: GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL removal, gil, internals
+- **2026-06-12** | [Inside the Python GIL: How It Actually Works and Why It Matters](https://python.plainenglish.io/inside-the-python-gil-how-it-actually-works-and-why-it-matters-2169a9a9dc69) | kw: gil, python, GIL
+- **2026-06-12** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory, management, gil
+
 - **2026-06-12** | [The Future of Python Internals: Exploring GIL Removal and...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL removal
 - **2026-06-12** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: GIL
 - **2026-06-12** | [Python 3.13 Free-Threaded Mode & JIT Guide 2026](https://softaims.com/blog/python-313-free-threaded-jit-features-2026) | kw: Python 3.13

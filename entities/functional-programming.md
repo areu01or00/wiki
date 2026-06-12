@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: Haskell, haskell, monads
+- **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: Haskell, haskell, monads
+- **2026-06-12** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic/) | kw: rust
+- **2026-06-12** | [The Practical Value of Functional Programming](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional, programming
+- **2026-06-12** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad/) | kw: monads, rust
+
 - **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads in Rust
 - **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell
 - **2026-06-12** | [Rust: Functional Programming & Monads | by Technocrat...](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: monads in Rust

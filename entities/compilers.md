@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: LLVM
+- **2026-06-12** | [compiler-course-2026/llvm - BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM
+- **2026-06-12** | [FOSDEM 2026 - OrcJIT at Scale with llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: LLVM
+- **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: V8 Turbofan, LLVM, compilers
+- **2026-06-12** | [Jeandle: Ant Group LLVM-Based JVM JIT](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: LLVM
+- **2026-06-12** | [JIT Compilation - microsoft/llvm DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: compilation, LLVM, JIT compilation
+- **2026-06-12** | [2026 European LLVM Developers Meeting - Quick Talks](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: LLVM
+- **2026-06-12** | [Perry - The Native TypeScript Compiler Lowers TS to LLVM Machine Code](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: TypeScript, LLVM
+
 - **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own...](https://createlang.rs/01_calculator/jit_intro.html) | kw: ORC JIT
 
 - **2026-06-12** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, compilers
