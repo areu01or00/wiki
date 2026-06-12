@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: interview, data structures
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: interview, data structures
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: data structures
+- **2026-06-12** | [Best Websites to Practice DSA Mock Tests in (%currentyear)](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests) | kw: DSA
+- **2026-06-12** | [How to prepare for the technical interview for software engineer roles?](https://www.careervillage.org/questions/1115681/how-to-prepare-for-the-technical-interview-for-software-engineer-roles) | kw: interview
+- **2026-06-12** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: LeetCode, data structures
+
 - **2026-06-12** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: top, 100, leetcode, coding, interview
 - **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data, structures, interview, questions:, complete
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: best, dsa, sheet, 2026, crack

@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm ...](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: gradual typing
+- **2026-06-12** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual typing, type inference, type annotations
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type inference, type annotations, type systems
+- **2026-06-12** | [Type Electives](http://typeelectives.com/) | kw: type inference, type annotations, type systems
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: gradual typing, type inference, type annotations
+- **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing
+- **2026-06-12** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: type inference, type annotations, type systems
+
 - **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers](https://www.staicu.org/publications/ase2024.pdf) | kw: typed, confused:, studying, unexpected, dangers
 - **2026-06-12** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: ins, outs, gradual, type, inference
 - **2026-06-12** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: cost, type, tag, soundness

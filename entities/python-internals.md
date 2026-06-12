@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: memory management, free-threaded Python
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management, free-threaded Python
+- **2026-06-12** | [Python - Python Memory Management Internals](https://evidhya.com/subjects/python/python-memory-management-internals) | kw: memory management, free-threaded Python
+- **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: CPython, free-threaded Python
+- **2026-06-12** | [Python Internals: Understanding Python's Memory Management • ITER Academy](https://iter-academy.com/python-internals-understanding-pythons-memory-management) | kw: memory management, free-threaded Python
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL, free-threaded Python
+- **2026-06-12** | [Python Memory Management Masterclass: Garbage Collection, Slots, and WeakRefs](https://logicandlegacy.blogspot.com/2026/03/python-memory-management-masterclass.html) | kw: memory management, free-threaded Python, garbage collection
+
 - **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, internals:, memory, management, global
 - **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python, gil, controversy:, why, multi
 - **2026-06-12** | [Pythons GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: pythons, gil, gone, actually, means

@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [2026 Keynotes | DesignCon](http://designcon.com/education/keynotes) | kw: system design
+- **2026-06-12** | [Architecture & Design Trends 2026: 20 Data-Backed Shifts](https://programa.design/blog/2026-architecture-design-construction-trends) | kw: architecture
+- **2026-06-12** | [System Design Statistics & Trends 2025 | Data-Driven Insights](https://www.systemdesignhandbook.com/guides/system-design-statistics-and-trends) | kw: system design
+- **2026-06-12** | [Top Architectural Design Trends in 2026 - novatr.com](https://www.novatr.com/blog/top-architectural-design-trends) | kw: system design
+
 - **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system, design, guide, 2026, scalable
 - **2026-06-12** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: essential, distributed, system, design, patterns
 
