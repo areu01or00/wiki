@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, of
+- **2026-06-12** | [Navigating the 2026 Language Landscape A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, the, 2026
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Journal](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, of
+- **2026-06-12** | [Type system concepts typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
+- **2026-06-12** | [Gradual typing Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia
+- **2026-06-12** | [Typed and Confused Studying the Unexpected Dangers](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed, and, Confused
+- **2026-06-12** | [The Ins and Outs of Gradual Type Inference microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: The, Ins, and
+- **2026-06-12** | [Efficient Selection of Type Annotations Performance Gradual Typing arxiv](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, of
+- **2026-06-12** | [On the cost of type-tag soundness ACM](http://dl.acm.org/doi/10.1145/3162066) | kw: On, the, cost
+- **2026-06-12** | [Type-Based Gradual Typing Performance Optimization ACM](https://dl.acm.org/doi/10.1145/3632931) | kw: Type-Based, Gradual, Typing
+
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing, type annotation, Reticulated Python
 - **2026-06-12** | [Compiling Gradual Types with Evidence](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: evidence-based compilation, GrEv, gradual types
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: type annotation, performance, gradual typing

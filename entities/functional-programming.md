@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Haskell Guide 2026: Functional Programming That Changes How](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, 2026:
+- **2026-06-12** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, are, Omnipresent
+- **2026-06-12** | [The Practical Value of Functional Programming Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value
+- **2026-06-12** | [Hello Haskell Getting Started in 2026](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026) | kw: Hello, Haskell, Getting
+- **2026-06-12** | [Functional Programming at Its Finest Why Haskell Developers](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional, Programming, at
+- **2026-06-12** | [Does Rust Support Functional Programming Idioms](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support
+- **2026-06-12** | [Monad functional programming Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, functional, programming
+- **2026-06-12** | [monadify Rust utility Lib.rs](https://lib.rs/crates/monadify) | kw: monadify, Rust, utility
+
 - **2026-06-12** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell, Gleam, Rust, FP comparison
 - **2026-06-12** | [Monad Pattern in Functional Programming: A Comprehensive Guide](https://softwarepatternslexicon.com/functional-programming/essential-functional-programming-patterns/monad-pattern) | kw: monad pattern, FP, design patterns
 - **2026-06-12** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: Linear Haskell, borrowing, Rust interop

@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Exploring Python Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Python, Internals
+- **2026-06-12** | [Python Internals Memory Management and the Global Interpreter Lock GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory
+- **2026-06-12** | [How Python Works Under the Hood Memory GIL and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: How, Python, Works
+- **2026-06-12** | [CPython Internals How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: CPython, Internals, How
+- **2026-06-12** | [Memory Management and GIL Python Guide 2026 Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, and
+- **2026-06-12** | [The Inner Workings of Python Beyond the Surface](https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732) | kw: The, Inner, Workings
+- **2026-06-12** | [The Python GIL Controversy Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The, Python, GIL
+- **2026-06-12** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management
+- **2026-06-12** | [Python GIL Is Gone What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python, GIL, Is
+- **2026-06-12** | [GIL CPython Internals](https://zpoint.github.io/CPython-Internals/Interpreter/gil/gil.html) | kw: GIL, CPython, Internals
+
 - **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: CPython, bytecode, memory management
 - **2026-06-12** | [Python Free-Threading Guide 2026: No-GIL, Threads, Packages](https://www.toolsmint.com/learn/python-free-threading-gil-guide-2026) | kw: free-threading, GIL, Python 3.13
 - **2026-06-12** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management, GIL, reference counting

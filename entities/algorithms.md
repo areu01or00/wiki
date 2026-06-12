@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [NeetCode Coding Interview Prep Courses Versus Mode](https://neetcode.io/) | kw: NeetCode, Coding, Interview
+- **2026-06-12** | [Data Structures and Algorithms Roadmap 2026 Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data, Structures, and
+- **2026-06-12** | [Best Coding Practice Platforms and Challenge Websites in 2026](https://scrimba.com/articles/best-coding-practice-platforms-and-challenge-websites-in-2026/) | kw: Best, Coding, Practice
+- **2026-06-12** | [Best DSA Sheet 2026 To Crack Interviews namastedev](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet
+- **2026-06-12** | [How to Prepare for a Coding Interview The Complete LeetCode](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How, to, Prepare
+- **2026-06-12** | [How to prepare for Data Structures and Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How, to, prepare
+- **2026-06-12** | [ashishps1 awesome-leetcode-resources GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: ashishps1, awesome-leetcode-resources, GitHub
+- **2026-06-12** | [Algorithms and Data Structures LeetCode Preparation ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, and, Data
+- **2026-06-12** | [Ultimate Java DSA LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: Ultimate, Java, DSA
+
 - **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: LeetCode, interview prep, FAANG
 - **2026-06-12** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode, TCS, interview questions
 - **2026-06-12** | [Algorithms MCQ Study Guide | CS & IT Exam Prep (digital)](https://www.etsy.com/listing/4299239986/algorithms-mcq-study-guide-cs-it-exam) | kw: MCQ, algorithms, study guide
