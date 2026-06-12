@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Data structures and algorithms study cheatsheets for ...](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
+- **2026-06-12** | [Commonly Asked Data Structure Interview Questions - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/commonly-asked-data-structure-interview-questions-set-1) | kw: algorithms
+
 - **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data Structures & Algorithms Interview Guide 2026
 - **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms & Data Structures (LeetCode Preparation
 - **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode

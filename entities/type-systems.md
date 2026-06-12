@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Elixir v1.20 Launches with Built-in Gradual Typing](https://x.com/i/trending/2062281053512077476) | kw: type-systems
+- **2026-06-12** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
+- **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
+- **2026-06-12** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: type-systems
+- **2026-06-12** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type-systems
+- **2026-06-12** | [TypeScript: Documentation - Advanced Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html) | kw: type-systems
+
 - **2026-06-12** | [Gradual Typing with Uniﬁcation-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual Typing with Uniﬁcation-based Inferen
 - **2026-06-12** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN ...](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: Staged Gradual Typing
 - **2026-06-12** | [Toward a Corpus Study of the Dynamic Gradual Type - arXiv.org](https://arxiv.org/html/2503.08928) | kw: Toward a Corpus Study of the Dynamic Gradual Type 

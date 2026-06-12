@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
+- **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming
+- **2026-06-12** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: functional-programming
+- **2026-06-12** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic) | kw: functional-programming
+- **2026-06-12** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: functional-programming
+
 - **2026-06-12** | [Functional Programming in Rust: Idioms and Examples | PythonLib](https://pythonlib.ru/en/post92) | kw: Functional Programming in Rust
 - **2026-06-12** | [Functors, Applicatives, and Monads: FP Concepts Explained](https://read.thecoder.cafe/p/functors-applicatives-monads) | kw: Functors, Applicatives, and Monads
 - **2026-06-12** | [7. Functional Design Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/haskell/functional-design-patterns) | kw: 7. Functional Design Patterns

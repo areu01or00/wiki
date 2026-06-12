@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-12** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: system-design
+- **2026-06-12** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system-design
+- **2026-06-12** | [The Future of Distributed Systems: Trends and Opportunities](https://www.linkedin.com/posts/colinbreck_predicting-the-future-of-distributed-systems-activity-7355339000355737600-1GCT) | kw: system-design
+
 - **2026-06-12** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems
 - **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture P
 - **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference | by Devarshi Vyas | Apr, 2026 | Medium](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a) | kw: Distributed Systems Architecture in Java
