@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Cloud Native Architecture | Kubernetes & Serverless 2026](https://gegosoft.com/cloud-native-architecture) | kw: system-design
+- **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system-design
+- **2026-06-12** | [Distributed Systems, System Design & Software Architecture](https://www.youtube.com/watch?v=4KmJRCU-iuw) | kw: system-design
+- **2026-06-12** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/@xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: system-design
+- **2026-06-12** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-12** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system-design
+- **2026-06-12** | [Gartner 2026 Technology Trends: Top 10 Explained](https://prolifics.com/usa/resource-center/blog/gartner-2026-technology-trends) | kw: system-design
+
 - **2026-06-12** | [Software Architecture: Distributed Systems | by Santiago | Apr, 2026 | Medium](https://medium.com/%40barbieri.santiago/software-architecture-distributed-systems-78c87222e4ed) | kw: system-design
 - **2026-06-12** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
 - **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
