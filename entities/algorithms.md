@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding Interview Prep
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How to Prepare
+- **2026-06-12** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode Alone Won't
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data Structures &
+- **2026-06-12** | [Google 2026 LeetCode Interview Preparation Guide](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: Google 2026 LeetCode
+
 - **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: leetcode, questions, must
 - **2026-06-12** | [LeetCode Questions Asked in Google 2026](https://papersadda.com/article/leetcode-questions-google-2026) | kw: leetcode, questions, asked
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: best, sheet, 2026

@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12 Essential Distributed
+- **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed System Design:
+- **2026-06-12** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: The Future of
+- **2026-06-12** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: Top Software Architecture
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns
+
 - **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system, design, series
 - **2026-06-12** | [Learn Advanced Distributed Systems Design](https://particular.net/adsd) | kw: learn, advanced, distributed
 - **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: microservices, architecture, distributed
