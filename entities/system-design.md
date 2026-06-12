@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Software Architecture for Tomorrow - Expert Talk](https://www.classcentral.com/course/youtube-software-architecture-for-tomorrow-expert-talk-sam-newman-julian-wood-goto-2024-353276) | kw: system-design
+- **2026-06-12** | [Resilience First - Modern Patterns in Distributed Architecture](https://gabogil.com/2026/04/26/resilience-first-modern-patterns-in-distributed-architectures) | kw: system-design
+- **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
+- **2026-06-12** | [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: system-design
+- **2026-06-12** | [Scalable System Design for Distributed Enterprise Workloads](https://www.researchgate.net/publication/400869066_Scalable_System_Design_for_Distributed_Enterprise_Workloads) | kw: system-design
+- **2026-06-12** | [Distributed System Design: the complete guide](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system-design
+
 - **2026-06-12** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system-design
 - **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: system-design
 - **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: system-design
