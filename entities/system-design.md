@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Emergent distributed and autonomous systems - Keele University](https://www.keele.ac.uk/research/ourresearch/computerscienceandmathematics/computerscienceresearch/futuresystems/emergentdistributedandautonomoussystems) | kw: systems, distributed, system
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, patterns, systems
+- **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: distributed systems, architecture, systems
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: load balancing, design, system
+- **2026-06-12** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: distributed systems, architecture, systems
+- **2026-06-12** | [Mastering Scalability: The 7 Most Powerful Distributed System Patterns](https://blogs.businesscompassllc.com/2025/10/mastering-scalability-7-most-powerful.html) | kw: scalability, patterns, distributed
+
 - **2026-06-12** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: system-design
 - **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: system-design
 - **2026-06-12** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
