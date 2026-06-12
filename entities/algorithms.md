@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [NeetCode | Coding Interview Prep](https://neetcode.io/) | kw: algorithms
+- **2026-06-12** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
+- **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
+- **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
+- **2026-06-12** | [Data Structures & Algorithms in Java + 150 Leetcode Problems](https://www.udemy.com/course/mastering-leetcode-in-java-top-100-most-asked-problems) | kw: algorithms
+- **2026-06-12** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: algorithms
+- **2026-06-12** | [Cracking Advanced Interview Problems with Binary Search](https://codesignal.com/learn/courses/sorting-and-searching-algorithms-in-python/lessons/cracking-advanced-interview-problems-with-binary-search) | kw: algorithms
+
 - **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | algorithms
 - **2026-06-12** | [60 LeetCode problems to solve for coding interview](https://medium.com/%40koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e) | algorithms
 

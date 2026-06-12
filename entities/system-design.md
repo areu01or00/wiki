@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: distributed systems
+- **2026-06-12** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: distributed systems
+- **2026-06-12** | [SRDS 2026 – 45th International Symposium on Reliable Distributed Systems](https://srds-conference.org/) | kw: distributed systems
+- **2026-06-12** | [Fundamentals of Distributed Systems](https://www.pluralsight.com/courses/distributed-systems-fundamentals) | kw: distributed systems
+- **2026-06-12** | [Distributed System Design Patterns: A Practitioner's Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: distributed systems
+- **2026-06-12** | [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=BO761Fj6HH8) | kw: distributed systems
+- **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: distributed systems
+- **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed systems
+
 - **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | system-design
 - **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a) | system-design
 

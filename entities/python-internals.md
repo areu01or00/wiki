@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Top 5 Ways to Overcome Python's GIL Limitations](https://sqlpey.com/python/top-5-ways-to-overcome-python-gil-limitations) | kw: python internals
+- **2026-06-12** | [Python 3.14 Free-Threading and Experimental JIT](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: python internals
+- **2026-06-12** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python internals
+- **2026-06-12** | [Python 3.14: Free-Threading, JIT Compilation, and What It Means for You](https://www.devwharf.com/2026/03/10/python-3-14-free-threading-jit-compilation-and-what-it-means-for-you) | kw: python internals
+- **2026-06-12** | [Memory Management in Python - Honeybadger](https://www.honeybadger.io/blog/memory-management-in-python) | kw: python internals
+
 - **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | python-internals
 - **2026-06-12** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | python-internals
 - **2026-06-12** | [What is the GIL in Python and Why Should You Care?](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai) | python-internals

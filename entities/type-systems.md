@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Gradual Typing with Inference (PDF)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type systems
+- **2026-06-12** | [How to Evaluate the Performance of Gradual Type Systems (PDF)](https://janvitek.org/pubs/jfp18.pdf) | kw: type systems
+- **2026-06-12** | [A Strategic Guide to Gradual Typing in Python](https://medium.com/@tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: type systems
+- **2026-06-12** | [Position Paper: Performance Evaluation for Gradual Typing (PDF)](http://www.ccs.neu.edu/home/asumu/papers/stop15-tfgnvf.pdf) | kw: type systems
+- **2026-06-12** | [Gradual Typing for Functional Languages (PDF)](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: type systems
+- **2026-06-12** | [Design and Evaluation of Gradual Typing for Python (PDF)](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: type systems
+
 - **2026-06-12** | [Gradual type inference research papers](https://scholar.google.com/scholar?as_sdt=0&as_vis=1&hl=en&oi=scholart&q=gradual+type+inference+research+papers) | type-systems
 - **2026-06-12** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | type-systems
 - **2026-06-12** | [Gradual Liquid Type Inference](https://nikivazou.github.io/static/oopsla18main-p124-p.pdf) | type-systems

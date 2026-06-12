@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Resume - Sanjoy Das (LLVM JIT contributor)](http://playingwithpointers.com/resume.html) | kw: compilers
+- **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: compilers
+- **2026-06-12** | [Sanjoy Das - NVIDIA Deep Learning Compilers](http://sanjoy.link/) | kw: compilers
+- **2026-06-12** | [LLVM 22 Compiler Enters Development With LLVM 21 Now Branched](https://www.phoronix.com/news/LLVM-22-Starts-Development) | kw: compilers
+- **2026-06-12** | [Compiler Engineer, Backend GPU - New College Grad 2026 | NVIDIA](http://jobs.nvidia.com/careers/job/893393842967) | kw: compilers
+- **2026-06-12** | [The state of GPU codegen with Nim (bonus: LLVM JIT)](https://forum.nim-lang.org/t/9794) | kw: compilers
+
 - **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | compilers
 - **2026-06-12** | [Best Free Open-Source Compilers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | compilers
 - **2026-06-12** | [The Future of Programming: Compiler Writing in 2026](https://artikls.com/article/future-programming-compiler-writing-2026) | compilers
