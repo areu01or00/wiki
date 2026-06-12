@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: new
+- **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: new
+- **2026-06-12** | [Sanjoy Das](http://sanjoy.link/) | kw: new
+- **2026-06-12** | [A Deep Dive into LLVM: The Future of Compiler Technology | by Aastha Jain | Medium](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: new
+
 - **2026-06-12** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: LLVM, compilers, compiler
 - **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, compiler
 - **2026-06-12** | [GitHub - cloudsealed/JIT-Optimization-Engine: A high ...](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: optimization
