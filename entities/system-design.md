@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Event-Driven Microservices Guide (2026) | TurboDocx](https://www.turbodocx.com/blog/microservices-event-driven-architecture) | kw: Event sourcing
+- **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Im](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: Edge computing patterns combining intelligent depl
+- **2026-06-12** | [Mastering Distributed Systems -- Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: CAP/PACELC trade-offs
+- **2026-06-12** | [Microservices Architecture for Data-Driven Applications: Patterns and Best Pract](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices architecture patterns for data-drive
+- **2026-06-12** | [Distributed System Design: Complete Guide to Building Scalable Infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Case studies from Google
+- **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns cataloged by Unmesh Joshi covering Kafka
+- **2026-06-12** | [Distributed System Design Patterns: A Practitioner Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: Pattern catalog covering communication
+- **2026-06-12** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: Service-oriented architecture course by Udi Dahan.
+
 - **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
 - **2026-06-12** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
 - **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design

@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing) | kw: 2026 trends showing shift in type system adoption.
+- **2026-06-12** | [The Mechanics of Gradual Typing and Hybrid Systems](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: Optimizing compilers for gradual typing via JIT an
+- **2026-06-12** | [A Deep Dive into Type Systems -- What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: Type system design across TypeScript
+- **2026-06-12** | [Type system concepts -- typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python type system concepts specification.
+- **2026-06-12** | [Staged Gradual Typing | ACM SIGPLAN 2026](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: Integrating staged computation with gradual type s
+
 - **2026-06-12** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
 - **2026-06-12** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: type-systems

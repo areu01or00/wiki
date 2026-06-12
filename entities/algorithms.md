@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Top 100 DSA Interview Questions - LeetCode Discuss](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Curated DSA interview questions with company tags.
+- **2026-06-12** | [Common data structures that pop up in LeetCode style interviews (Reddit)](https://www.reddit.com/r/androiddev/comments/10sqlww/common_data_structures_that_pop_up_in_leetcode) | kw: Discussion of commonly tested data structures.
+- **2026-06-12** | [LeetCode Alone Wont Save You in 2026 -- Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: 7 topics that separate candidates who get offers.
+- **2026-06-12** | [Top Google Questions - LeetCode](https://leetcode.com/problem-list/7p55wqm/) | kw: Top Google interview questions on LeetCode.
+- **2026-06-12** | [Data Structures & Algorithms Interview Guide - hackajob](http://hackajob.com/talent/technical-assessment/data-structures-algorithms-interview-guide) | kw: Interview guide with frameworks for problem solvin
+- **2026-06-12** | [The Ultimate Guide to Top 150 LeetCode Problems - DEV Community](https://dev.to/soham0047/the-ultimate-guide-to-top-150-leetcode-problems-your-path-to-acing-technical-interviews-30h1) | kw: Top 150 problems with company tags.
+- **2026-06-12** | [Leetcode Top 15 Algorithms & Their Common Problems](https://baotramduong.medium.com/leetcodes-top-15-algorithms-their-common-problems-87f0decd4003) | kw: Top 15 algorithms with common patterns.
+- **2026-06-12** | [Top 40 LeetCode Array Problems | PDF](https://www.scribd.com/document/788615421/Top-40-Array-Questions-LeetCode) | kw: Top 40 array interview problems.
+- **2026-06-12** | [LeetCode-Top-Interview-150 - GitHub](https://github.com/LeetCode-Top-Interview-150/LeetCode-Top-Interview-150) | kw: Multi-language solutions for Top 150 interview pro
+
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
 - **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
 

@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Compilers and Modern Language Runtimes -- LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: AI era LLM inference runtimes as compiler optimiza
+- **2026-06-12** | [FOSDEM 2026 - LLVM](https://fosdem.org/2026/schedule/track/llvm/) | kw: AArch64 Pointer Authentication on bare-metal
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language wit](https://createlang.rs/01_calculator/jit_intro.html) | kw: Building a JIT compiler with LLVM using inkwell Ru
+- **2026-06-12** | [LLVM Roadmap for Beginners Explained - CompilerSutra](https://www.compilersutra.com/docs/llvm/intro-to-llvm) | kw: 10-level progressive LLVM curriculum from IR to JI
+- **2026-06-12** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: LLVM as backend for Clang
+- **2026-06-12** | [compiler-course-2026: BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: University compiler course 2026 with ORC JIT tutor
+
 - **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-12** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: compilers
 - **2026-06-12** | [Advanced Optimizations in Modern Compilers: JIT, AOT and Hybrid Pipelines](https://ijsrmt.com/index.php/ijsrmt/article/view/1072) | kw: compilers

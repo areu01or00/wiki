@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: Comprehensive monad tutorial with practical exampl
+- **2026-06-12** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Monadic classes
+- **2026-06-12** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Practical course on using monads with exercises.
+- **2026-06-12** | [Haskell/Understanding monads - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Understanding_monads) | kw: Monad tutorials with Maybe
+- **2026-06-12** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Comprehensive timeline of monad tutorials since 19
+- **2026-06-12** | [Understanding Monads by Nick Hu](https://nickx.hu/Monads.pdf) | kw: Monads from definitions through category theory.
+- **2026-06-12** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Rust Option and Result as monadic patterns.
+- **2026-06-12** | [Monads Tutorial -- Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Computational context and monadic chaining in Hask
+- **2026-06-12** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Monadic rules and practical List Monad examples.
+
 - **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
 - **2026-06-12** | [Does Rust Support Functional Programming Idioms? Exploring FP in Rust](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: functional-programming
 - **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming

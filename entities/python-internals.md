@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Reference counting
+- **2026-06-12** | [concurrent.futures -- Python 3.14.6 documentation](https://docs.python.org/3/library/concurrent.futures.html) | kw: Python 3.14 concurrent.futures with ThreadPoolExec
+- **2026-06-12** | [Python GIL Is Gone -- What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: CPython 3.13 experimental free-threading explained
+- **2026-06-12** | [ThreadPoolExecutor Guide: Best Practices, Exceptions, and ProcessPool Comparison](https://runebook.dev/en/docs/python/library/concurrent.futures/concurrent.futures.ThreadPoolExecutor) | kw: Best practices for concurrent.futures in Python.
+- **2026-06-12** | [Python Complete Guide | CPython Internals GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: CPython internals guide covering GIL.
+- **2026-06-12** | [How Mojo Owned Memory Model is Forcing ML Engineers to Rethink Python GIL](https://devops-geek.net/nerd-space/how-mojo-s-owned-memory-model-is-forcing-ml-engineers-to-rethink-python-s-gil-bottlenecks-in-real-ti) | kw: Mojo memory architecture sidestepping GIL limitati
+
 - **2026-06-12** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 - **2026-06-12** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python-internals
 - **2026-06-12** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
