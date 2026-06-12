@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, and
+- **2026-06-12** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: Microservices, Design, Patterns:
+- **2026-06-12** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design:
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN ...](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide
+
 - **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices, distributed systems, architecture patterns
 - **2026-06-12** | [Catalog of Patterns of Distributed Systems - Martin Fowler](https://martinfowler.com/articles/patterns-of-distributed-systems) | kw: patterns, distributed systems, catalog
 - **2026-06-12** | [State of the Art in Parallel and Distributed Systems: Emerging Trends and Challenges](https://www.mdpi.com/2079-9292/14/4/677) | kw: parallel systems, distributed systems, emerging trends

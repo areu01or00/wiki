@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, of
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, of
+- **2026-06-12** | [programming-language-research/research/papers/gradual-typing ...](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: programming-language-research/research/papers/gradual-typing, ...
+- **2026-06-12** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: Jeremy, Siek, |
+
 - **2026-06-12** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: graduality, embedding, projection
 - **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python, type system, spec
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance Optimization of Gradually Typed Programs](https://programming-journal.org/2026/11/3/) | kw: type annotations, performance, gradual typing
