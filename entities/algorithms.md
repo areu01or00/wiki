@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Top 100 DSA Interview Questions - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: DSA interview questions
+- **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: LeetCode top 20, patterns
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: DS interview questions
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: DSA roadmap, learning path
+- **2026-06-12** | [Top 100 DSA Interview Questions Topic-wise - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise) | kw: GfG-160, topic-wise questions
+- **2026-06-12** | [Most Asked LeetCode Interview Questions - upGrad](https://www.upgrad.com/blog/leetcode-interview-questions) | kw: LeetCode questions, diverse topics
+- **2026-06-12** | [Data structures and algorithms study cheatsheets - Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Blind 75, study cheatsheets
+
 - **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: interview, data structures
 - **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: interview, data structures
 - **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: data structures

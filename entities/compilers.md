@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [The Case For Compilers: SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: SPEC CPU 2026, LLVM 22, benchmarks
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: ORC JIT tutorial, LLVM
+- **2026-06-12** | [compiler-course-2026/BuildingAJIT1.rst - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: KaleidoscopeJIT, ORC API
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: inkwell, Rust LLVM wrapper
+- **2026-06-12** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: V8 Turbofan, Maglev, inline caching
+- **2026-06-12** | [Perry - Native TypeScript Compiler via LLVM](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry TypeScript, AOT compilation
+- **2026-06-12** | [compiler-course-2026/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: CompileOnDemand, lazy JITing
+- **2026-06-12** | [Sanjoy Das - NVIDIA](http://sanjoy.link/) | kw: ML compilers, NVIDIA
+
 - **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: LLVM, JIT compilation
 - **2026-06-12** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: LLVM, JIT compilation
 

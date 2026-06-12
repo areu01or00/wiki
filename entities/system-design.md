@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN](https://onlinetools4free.com/research/system-design-guide-2026) | kw: CDN, load balancing, caching
+- **2026-06-12** | [Distributed System Design: the complete guide](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: chaos engineering, self-healing, Kubernetes
+- **2026-06-12** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: consensus algorithms, Paxos, Raft
+- **2026-06-12** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Dynamic Consistency Boundaries, DCB
+- **2026-06-12** | [The Complete Guide to System Design in 2026](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: Generative AI system design
+
 - **2026-06-12** | [2026 Keynotes | DesignCon](http://designcon.com/education/keynotes) | kw: system design
 - **2026-06-12** | [Architecture & Design Trends 2026: 20 Data-Backed Shifts](https://programa.design/blog/2026-architecture-design-construction-trends) | kw: architecture
 - **2026-06-12** | [System Design Statistics & Trends 2025 | Data-Driven Insights](https://www.systemdesignhandbook.com/guides/system-design-statistics-and-trends) | kw: system design

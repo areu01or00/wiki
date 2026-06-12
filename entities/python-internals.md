@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: GIL, free-threading, asyncio, metaprogramming
+- **2026-06-12** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: bytecode, memory, GIL
+- **2026-06-12** | [Python Internals: Memory Management & the GIL | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: reference counting, garbage collection
+- **2026-06-12** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026) | kw: Python 3.14, free-threaded, PEP 703, PEP 779, uv
+- **2026-06-12** | [Advanced Memory & GIL Internals - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: PyObject, reference counting
+- **2026-06-12** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL, concurrency, 2026 changes
+- **2026-06-12** | [Python Memory Management Internals - Medium](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: private heap, PyMalloc, memory optimization
+
 - **2026-06-12** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: memory management, free-threaded Python
 - **2026-06-12** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management, free-threaded Python
 - **2026-06-12** | [Python - Python Memory Management Internals](https://evidhya.com/subjects/python/python-memory-management-internals) | kw: memory management, free-threaded Python
