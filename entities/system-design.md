@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: system-design
+- **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: system-design
+- **2026-06-12** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
+- **2026-06-12** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions/) | kw: system-design
+- **2026-06-12** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-12** | [Distributed System Design: the complete guide](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system-design
+- **2026-06-12** | [Top Software Architecture Trends for 2026: AI + Edge Computing](https://medium.com/@xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: system-design
+
 - **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system design
 - **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: system design
 - **2026-06-12** | [Software Architecture for Tomorrow - Expert Talk from GOTO Conferences](https://www.classcentral.com/course/youtube-software-architecture-for-tomorrow-expert-talk-sam-newman-julian-wood-goto-2024-353276) | kw: system design
