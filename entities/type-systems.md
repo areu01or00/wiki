@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [[2603.05649] Efficient Selection of Type Annotations for ...](https://arxiv.org/abs/2603.05649) | kw: gradual typing, type inference, dependent types
+- **2026-06-12** | [Elixir 1.20 Gradual Typing: No Annotations, Real Bug Catches](https://byteiota.com/elixir-1-20-gradual-typing-no-annotations/) | kw: gradual typing, type inference, dependent types
+- **2026-06-12** | [A Deep Dive into Type Systems — What Static Typing Really ...](https://yoichiozaki.github.io/en/blog/type-systems) | kw: gradual typing, type inference, dependent types
+- **2026-06-12** | [Elixir v1.20 released: now a gradually typed language](http://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released) | kw: gradual typing, type inference, dependent types
+- **2026-06-12** | [What is Decidable about Gradual Types? - POPL 2020](http://popl20.sigplan.org/details/POPL-2020-Research-Papers/10/What-is-Decidable-about-Gradual-Types-) | kw: gradual typing, type inference, dependent types
+
 - **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual typing, type inference, gradual
 - **2026-06-12** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: gradual typing, gradual, typing
 - **2026-06-12** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: gradual typing, gradual, typing
