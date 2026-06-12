@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: learn leetcode & dsa: a free youtube roa
+- **2026-06-12** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: top 100 dsa interview questions - discus
+- **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: best dsa sheet 2026 | to crack interview
+- **2026-06-12** | [Golden Rules to answer in a System Design Interview - Discuss - LeetCode](https://leetcode.com/discuss/post/3616948/golden-rules-to-answer-in-a-system-desig-i41b) | kw: golden rules to answer in a system desig
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: data structures & algorithms roadmap 202
+- **2026-06-12** | [LeetCode Discuss - System Design](https://leetcode.com/discuss/post/system-design) | kw: leetcode discuss - system design
+- **2026-06-12** | [awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: awesome-leetcode-resources - github
+- **2026-06-12** | [I found Leetcode for System Design, and it's Awesome - DEV Community](https://dev.to/somadevtoo/i-found-leetcode-for-system-design-and-its-awesome-2h7f) | kw: i found leetcode for system design, and 
+
 - **2026-06-12** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms
 - **2026-06-12** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: algorithms
 - **2026-06-12** | [Top 100 DSA Interview Questions Topic-wise](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise) | kw: algorithms

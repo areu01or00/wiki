@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating the language labyrinth: a 202
+- **2026-06-12** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: understanding graduality in programming 
+- **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type system concepts — typing documentat
+- **2026-06-12** | [The Quiet Evolution of Programming Languages: From Syntax to Semantics - Java Code Geeks](https://www.javacodegeeks.com/2026/04/the-quiet-evolution-of-programming-languages-from-syntax-to-semantics.html) | kw: the quiet evolution of programming langu
+- **2026-06-12** | [Gradual Typing with Inference - CMU School of Computer Science](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing with inference - cmu scho
+
 - **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: type-systems
 - **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm ...](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-12** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis ...](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems

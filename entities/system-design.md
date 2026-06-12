@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system design guide 2026 - scalable arch
+- **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: microservices architecture and distribut
+- **2026-06-12** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system design: the complete guide 2026
+- **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: the coming paradigm shift in distributed
+- **2026-06-12** | [Software Architecture: Distributed Systems | by Santiago | Apr, 2026 | Medium](https://medium.com/%40barbieri.santiago/software-architecture-distributed-systems-78c87222e4ed) | kw: software architecture: distributed syste
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system design guide 2026: load balancing
+- **2026-06-12** | [Architectures for Multi-Agent Systems](https://galileo.ai/blog/architectures-for-multi-agent-systems) | kw: architectures for multi-agent systems
+
 - **2026-06-12** | [Software Architecture for Tomorrow - Expert Talk](https://www.classcentral.com/course/youtube-software-architecture-for-tomorrow-expert-talk-sam-newman-julian-wood-goto-2024-353276) | kw: system-design
 - **2026-06-12** | [Resilience First - Modern Patterns in Distributed Architecture](https://gabogil.com/2026/04/26/resilience-first-modern-patterns-in-distributed-architectures) | kw: system-design
 - **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
