@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Top 23 Distributed Systems Interview Questions (2026)](https://www.datainterview.com/blog/distributed-systems-interview-questions) | kw: system design
+- **2026-06-12** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: system design
+- **2026-06-12** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system design
+- **2026-06-12** | [Software Architecture: Distributed Systems | by Santiago | Apr, 2026 | Medium](https://medium.com/%40barbieri.santiago/software-architecture-distributed-systems-78c87222e4ed) | kw: system design
+- **2026-06-12** | [9 Software Architecture Patterns for Distributed Systems - DEV Community](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: system design
+- **2026-06-12** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system design
+- **2026-06-12** | [ICT Solution - Custom Software Development | Secure & Confidential](http://ictsolutions.dev/) | kw: system design
+
 - **2026-06-12** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: distributed systems
 - **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems
 - **2026-06-12** | [Making software scale better with modern design patterns - Upsun](https://upsun.com/blog/software-design-patterns) | kw: design
