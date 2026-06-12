@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Mastering Distributed Systems - Patterns and Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems
+- **2026-06-12** | [The Complete Guide to System Design in 2026](https://grokkingthesystemdesign.com/complete-guide-to-system-design) | kw: design
+
 - **2026-06-12** | [Mastering Distributed Systems - Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 - **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design
 - **2026-06-12** | [Microservices Architecture in 2026: Building Scalable](https://scga.hk/blog/microservices-architecture-2026) | kw: system-design
