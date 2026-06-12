@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python internals
+- **2026-06-12** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python internals
+- **2026-06-12** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: python internals
+- **2026-06-12** | [Memory Management & GIL: Python Guide (2026) / Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python internals
+- **2026-06-12** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: python internals
+- **2026-06-12** | [Python In-Depth — Memory Management in Python (GIL and Profiling) / by Arjun Dahal / Medium](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: python internals
+
 - **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: python-internals
 - **2026-06-12** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: python-internals
 - **2026-06-12** | [Python 3.14 Free-Threading - True Parallelism Without the GIL](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: python-internals
