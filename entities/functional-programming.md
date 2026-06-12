@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: linear types, borrowing, PLDI 2026
+- **2026-06-12** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust](https://github.com/wrsturgeon/rsmonad) | kw: monads, Rust, Haskell-style
+
 - **2026-06-12** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: functional-programming
 
 - **2026-06-12** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
