@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet, 2026, Crack
+- **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures, LeetCode, Preparation
+- **2026-06-12** | [Complete Data Structures and Algorithms](https://unwiredlearning.com/bundles/complete-data-structures-and-algorithms) | kw: Complete, Data, Structures, Algorithms
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data, Structures, Algorithms, Roadmap, 2026
+- **2026-06-12** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Roadmap, Data, Structures
+- **2026-06-12** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: Ultimate, Java, DSA, LEETCODE, Interviews
+- **2026-06-12** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Data, Structure, LeetCode
 - **2026-06-12** | [NeetCode Coding Interview Prep Courses Versus Mode](https://neetcode.io/) | kw: NeetCode, Coding, Interview
 - **2026-06-12** | [Data Structures and Algorithms Roadmap 2026 Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data, Structures, and
 - **2026-06-12** | [Best Coding Practice Platforms and Challenge Websites in 2026](https://scrimba.com/articles/best-coding-practice-platforms-and-challenge-websites-in-2026/) | kw: Best, Coding, Practice

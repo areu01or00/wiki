@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: Demystifying, monads, Rust, through, property-based
+- **2026-06-12** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, monads, Haskell
+- **2026-06-12** | [Demystifying monads in Rust through property-based testing · sunshowers](https://sunshowers.io/posts/monads-through-pbt) | kw: Demystifying, monads, Rust, through, property-based
+- **2026-06-12** | [Posts - The Monad Cat](http://monad.cat/pages/posts.html) | kw: Posts, Monad, Cat
+- **2026-06-12** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Making, Sense, Monads, Monday, Morning
+- **2026-06-12** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday, Morning, Haskell
+- **2026-06-12** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, Omnipresent, Rust, bertiqwerty
+- **2026-06-12** | [higher - Rust](https://docs.rs/higher) | kw: higher, Rust
+- **2026-06-12** | [Practical uses of monads in Haskell (nauths.fr)](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: Practical, uses, monads, Haskell, nauths.fr
 - **2026-06-12** | [Haskell Guide 2026: Functional Programming That Changes How](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, 2026:
 - **2026-06-12** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, are, Omnipresent
 - **2026-06-12** | [The Practical Value of Functional Programming Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value

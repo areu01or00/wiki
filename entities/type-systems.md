@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language, Landscape, Typing
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type, Annotations, Performance
+- **2026-06-12** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type, Theory, numberanalytics.com
+- **2026-06-12** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: Ins, Outs, Gradual, Type, Inference
+- **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia
+- **2026-06-12** | [Gradient Inference — ClawHub](https://clawhub.ai/simondelorean/gradient-inference) | kw: Gradient, Inference, ClawHub
+- **2026-06-12** | [Staged Gradual Typing](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: Staged, Gradual, Typing
+- **2026-06-12** | [Gradual Typing - Language Design and Implementation | ANU](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual, Typing, Language, Design, Implementation
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, of
 - **2026-06-12** | [Navigating the 2026 Language Landscape A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, the, 2026
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance Journal](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, of
