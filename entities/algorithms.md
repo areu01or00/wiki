@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Best DSA Sheet 2026 To Crack Interviews namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
+- **2026-06-12** | [Complete Data Structures and Algorithms Unwired Learning](https://unwiredlearning.com/bundles/complete-data-structures-and-algorithms) | kw: algorithms
+- **2026-06-12** | [Google 2026 LeetCode Interview Preparation Guide GitHub Gist](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: algorithms
+- **2026-06-12** | [Data Structures and Algorithms Roadmap 2026 TheTutorBridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms
+- **2026-06-12** | [Study Plan LeetCode](https://leetcode.com/studyplan) | kw: algorithms
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: algorithms
+- **2026-06-12** | [LeetCode Interview Guide 2026 Coding Interview Prep Platform](https://www.techinterview.org/companies/leetcode-interview-guide) | kw: algorithms
+
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet, 2026, Crack
 - **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures, LeetCode, Preparation
 - **2026-06-12** | [Complete Data Structures and Algorithms](https://unwiredlearning.com/bundles/complete-data-structures-and-algorithms) | kw: Complete, Data, Structures, Algorithms

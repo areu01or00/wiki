@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Functional Programming in 2026: Haskell vs Gleam vs Rust PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
+- **2026-06-12** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: functional-programming
+- **2026-06-12** | [7. Functional Design Patterns Software Patterns Lexicon](https://softwarepatternslexicon.com/haskell/functional-design-patterns) | kw: functional-programming
+- **2026-06-12** | [Monads are Omnipresent in Rust bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: functional-programming
+- **2026-06-12** | [Does Rust Support Functional Programming Idioms CodeGenes](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional-programming
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: functional-programming
+- **2026-06-12** | [Functors Applicatives and Monads FP Concepts Explained](https://read.thecoder.cafe/p/functors-applicatives-monads) | kw: functional-programming
+- **2026-06-12** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+- **2026-06-12** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming
+
 - **2026-06-12** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: Demystifying, monads, Rust, through, property-based
 - **2026-06-12** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, monads, Haskell
 - **2026-06-12** | [Demystifying monads in Rust through property-based testing · sunshowers](https://sunshowers.io/posts/monads-through-pbt) | kw: Demystifying, monads, Rust, through, property-based

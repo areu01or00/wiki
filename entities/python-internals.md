@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [How Python Works Under the Hood: Memory GIL and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python-internals
+- **2026-06-12** | [Python Internals: Memory Management and the Global Interpreter Lock GIL eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood abhik.ai](https://www.abhik.ai/articles/cpython-internals) | kw: python-internals
+- **2026-06-12** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: python-internals
+- **2026-06-12** | [How Python GIL Actually Works And Why It Exists](https://miydevforge.com/blog/how-python-gil-works) | kw: python-internals
+- **2026-06-12** | [Python Memory Management Internals Medium Majidbasharat](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
+- **2026-06-12** | [Python Complete Guide CPython Internals GIL pkglog.com](https://pkglog.com/en/blog/python-complete-guide) | kw: python-internals
+- **2026-06-12** | [The Inner Workings of Python: Beyond the Surface Medium](https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732) | kw: python-internals
+
 - **2026-06-12** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Python, Internals, Optimization
 - **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory, Management, Global
 - **2026-06-12** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: How, Python, Works, Under, Hood
