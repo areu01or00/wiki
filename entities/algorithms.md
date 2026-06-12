@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: algorithms
+- **2026-06-12** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: algorithms
+- **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: algorithms
+- **2026-06-12** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: algorithms
+- **2026-06-12** | [What Leetcode Questions Are Most Commonly Asked During Interviews?](https://leetcodewizard.io/blog/what-leetcode-questions-are-most-commonly-asked-during-interviews-we-asked-our-users) | kw: algorithms
+- **2026-06-12** | [59 Essential Searching Algorithms Interview Questions in 2026](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: algorithms
+- **2026-06-12** | [60 LeetCode problems to solve for coding interview](https://medium.com/%40koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e) | kw: algorithms
+
 - **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms, structures, data structures
 - **2026-06-12** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: coding interviews, algorithms, structures
 - **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms, structures, interview

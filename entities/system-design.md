@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+- **2026-06-12** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: system-design
+- **2026-06-12** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: system-design
+- **2026-06-12** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: system-design
+
 - **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: distributed systems, architecture, systems
 - **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: design, patterns, architecture
 - **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: load balancing, design, system
