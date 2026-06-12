@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12 16:17 UTC** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: rust
+- **2026-06-12 16:17 UTC** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: monads, Haskell, haskell
+- **2026-06-12 16:17 UTC** | [Rust1.74で追加された機能を使ってモナドを作ってみる](https://zenn.dev/hanao/articles/b16b7460e801f5) | kw: rust
+- **2026-06-12 16:17 UTC** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads, Haskell, haskell
+- **2026-06-12 16:17 UTC** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: monads, Haskell, haskell
+- **2026-06-12 16:17 UTC** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads, Haskell, rust
+
 - **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: monads, Haskell, Rust patterns
 - **2026-06-12** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: monads, Haskell, Rust patterns
 - **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads, Haskell, Rust patterns

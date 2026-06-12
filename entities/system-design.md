@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-12 16:17 UTC** | [2026 Keynotes | DesignCon](http://designcon.com/education/keynotes) | kw: design, 2026
+- **2026-06-12 16:17 UTC** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, patterns, systems
+- **2026-06-12 16:17 UTC** | [Microservices Architecture for Data-Driven Applications: Patterns and Best Practices](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: patterns, architecture, microservices
+- **2026-06-12 16:17 UTC** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: design, patterns, system
+- **2026-06-12 16:17 UTC** | [ByteByteGo - YouTube](http://youtube.com/ByteByteGo) | kw: system-design
+- **2026-06-12 16:17 UTC** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: distributed systems, design, patterns
+- **2026-06-12 16:17 UTC** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: distributed systems, architecture, systems
+
 - **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: load balancing, caching patterns, distributed systems
 - **2026-06-12** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: load balancing, caching patterns, distributed systems
 - **2026-06-12** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: load balancing, caching patterns, distributed systems

@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12 16:17 UTC** | [DSA Interview Questions: What Really Gets Asked (and How to ...](https://www.dsaprep.dev/blog/dsa-interview-questions) | kw: interview, DSA, interview questions
+- **2026-06-12 16:17 UTC** | [19 Essential Algorithms Interview Questions - Toptal](https://www.toptal.com/developers/algorithms/interview-questions) | kw: algorithms, interview, interview questions
+- **2026-06-12 16:17 UTC** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: coding interviews, algorithms, structures
+- **2026-06-12 16:17 UTC** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: leetcode, interview, LeetCode
+- **2026-06-12 16:17 UTC** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: structures, interview, data structures
+- **2026-06-12 16:17 UTC** | [How to Get Better at LeetCode: 10 Tips That Actually Work (2026)](https://leetcopilot.dev/blog/how-to-get-better-at-leetcode-2026) | kw: leetcode, LeetCode, (2026
+
 - **2026-06-12** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan ...](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: dynamic programming, DSA roadmap, coding interviews
 - **2026-06-12** | [Amazon - LeetCode](http://leetcode.com/company/amazon) | kw: dynamic programming, DSA roadmap, coding interviews
 - **2026-06-12** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: dynamic programming, DSA roadmap, coding interviews

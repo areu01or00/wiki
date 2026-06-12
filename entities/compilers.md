@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-12 16:17 UTC** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: JIT compilation, LLVM, compilation
+- **2026-06-12 16:17 UTC** | [Sanjoy Das](http://sanjoy.link/) | kw: sanjoy, Sanjoy Das
+
 - **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM, bytecode
 - **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM, bytecode
 - **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation, LLVM, bytecode
