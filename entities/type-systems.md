@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: gradual typing
+- **2026-06-12** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement](https://arxiv.org/abs/2603.05649) | kw: gradual typing
+
 - **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
 - **2026-06-12** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems
