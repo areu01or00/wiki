@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: DSA roadmap, leetcode, LeetCode
+- **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: coding interviews, interview, DSA
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: coding interviews, leetcode, interview
+- **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: coding interviews, leetcode, interview
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: DSA roadmap, algorithms, structures
+- **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: leetcode, algorithms, structures
+- **2026-06-12** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms, structures, interview
+- **2026-06-12** | [Best Websites to Practice DSA Mock Tests in 2026](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests) | kw: DSA, 2026:
+- **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: coding interviews, interview, interview questions
+
 - **2026-06-12** | [Top 100 DSA Interview Questions - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: DSA interview questions
 - **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: LeetCode top 20, patterns
 - **2026-06-12** | [Top 100+ Data Structure Interview Questions (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: DS interview questions

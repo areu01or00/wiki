@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: monads, Haskell, haskell
+- **2026-06-12** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: monads, Haskell, haskell
+- **2026-06-12** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: monads, Haskell, haskell
+- **2026-06-12** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads, Haskell, haskell
+- **2026-06-12** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: monads, Haskell, haskell
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: monads, Haskell, Rust patterns
+- **2026-06-12** | [Haskell - Monads](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: monads, Haskell, haskell
+- **2026-06-12** | [Yet Another Haskell Tutorial/Monads - Wikibooks](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial/Monads) | kw: monads, Haskell, haskell
+- **2026-06-12** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: monads, Rust patterns, rust
+- **2026-06-12** | [Posts - The Monad Cat](http://monad.cat/pages/posts.html) | kw: monad
+
 - **2026-06-12** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: monads in Rust, Option/Result
 - **2026-06-12** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Rust FP idioms, map/filter/reduce
 - **2026-06-12** | [What is a monad? And who needs Haskell anyway? - Rust forum](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: monads, Rust community
