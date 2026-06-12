@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Best DSA Sheet 2026 To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
+- **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms
+- **2026-06-12** | [Data Structures and Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms
+- **2026-06-12** | [Data Structures and Algorithms Interview Guide 2026 TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
+- **2026-06-12** | [The insider guide to algorithm interview questions](https://dev.to/fahimulhaq/the-insiders-s-guide-to-algorithm-interview-questions-9b7) | kw: algorithms
+- **2026-06-12** | [Data Structures and Algorithms Roadmap 2026: Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: algorithms
+- **2026-06-12** | [NeetCode Coding Interview Prep Courses Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-06-12** | [Algorithm Interview Questions You Need to Know](https://www.hackerrank.com/blog/algorithm-interview-questions-you-should-know) | kw: algorithms
+- **2026-06-12** | [Algorithms and Data Structures LeetCode Preparation ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithms
+
 - **2026-06-12** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: Top, 100, LeetCode, Coding, Interview
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet, 2026, Crack
 - **2026-06-12** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: Top, LeetCode, Questions, You, Must
