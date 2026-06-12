@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Your guide to reducing Python memory usage - Honeybadger Developer Blog](https://www.honeybadger.io/blog/reducing-your-python-apps-memory-footprint)
+- **2026-06-12** | [Python 3.14 Free-Threading - True Parallelism Without the GIL | Edgar Montano](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism)
+- **2026-06-12** | [Python - Python Internals: Memory Management and the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil)
+- **2026-06-12** | [The GIL Challenge: Python Threading Gotchas and Alternative Code for Speed](https://runebook.dev/en/docs/python/library/threading/gil-and-performance-considerations)
+- **2026-06-12** | [The No-GIL Transition: NumPy and SciPy Release Official ...](https://tech-champion.com/programming/python-programming/the-no-gil-transition-numpy-and-scipy-release-official-free-threaded-wheels)
+- **2026-06-12** | [Python Multithreading vs. Multiprocessing: A Performance Guide](https://widewiki.com/posts/python/geek-pie/python-multithreading-vs-multiprocessing-a-performance-guide-20250716012746)
+- **2026-06-12** | [Understanding Pythons Garbage Collection and Memory Optimization - DEV Community](https://dev.to/pragativerma18/understanding-pythons-garbage-collection-and-memory-optimization-4mi2)
+- **2026-06-12** | [Python in Embedded Systems: Memory Limits - Code With C](https://www.codewithc.com/python-in-embedded-systems-memory-limits)
+- **2026-06-12** | [How Do I Bypass GIL in Python? 5 Proven Performance Fixes - MindJournal.blog](https://mindjournal.blog/how-to-bypass-gil-python)
+
 - **2026-06-12** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil)
 - **2026-06-12** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil)
 - **2026-06-12** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations)

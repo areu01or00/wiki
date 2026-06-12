@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [NeetCode - Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/)
+- **2026-06-12** | [LeetCode Alone Wont Save You in 2026 - Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl)
+- **2026-06-12** | [How to prepare for Data Structures and Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y)
+- **2026-06-12** | [Data Structures and Algorithms in Java + 150 Leetcode ... Udemy](https://www.udemy.com/course/mastering-leetcode-in-java-top-100-most-asked-problems)
+- **2026-06-12** | [GitHub - JimengShi/Leetcode-Data-Structures-Algorithms](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms)
+- **2026-06-12** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions)
+- **2026-06-12** | [Data Structures and Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide)
+- **2026-06-12** | [Cracking Data Structures Coding Interview | by Sathish - Medium](https://sathishsuresh.medium.com/cracking-data-structures-coding-interview-abca041dbd59)
+
 - **2026-06-12** | [The Ultimate Guide to Top 150 LeetCode Problems](https://dev.to/soham0047/the-ultimate-guide-to-top-150-leetcode-problems-your-path-to-acing-technical-interviews-30h1)
 - **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/)
 - **2026-06-12** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829)

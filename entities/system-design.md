@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference | by Devarshi Vyas | Apr, 2026 | Medium](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a)
+- **2026-06-12** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/JavaProgramming/comments/1tkmv0v/9_essential_software_architecture_patterns_for)
+- **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf)
+- **2026-06-12** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems)
+- **2026-06-12** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns)
+- **2026-06-12** | [Modern Distributed Systems: Patterns and Anti-patterns Anshad Ameenza](https://anshadameenza.com/blog/technology/distributed-systems-patterns)
+
 - **2026-06-12** | [SRDS 2026](https://srds-conference.org/)
 - **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a)
 - **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap)
