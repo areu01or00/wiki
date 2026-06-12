@@ -24,7 +24,11 @@
         "edge computing",
         "WebAssembly",
         "eBPF",
-        "circuit breaker pattern"
+        "circuit breaker pattern",
+        "Data Mesh",
+        "FinOps",
+        "GreenOps",
+        "Lakehouse"
       ],
       "last_result_hashes": [
         "e61061e4c00189833ef99234e250341f",
@@ -111,7 +115,9 @@
         "evaluation",
         "type annotation",
         "runtime checks",
-        "Reticulated Python"
+        "Reticulated Python",
+        "If-T benchmark",
+        "type narrowing"
       ],
       "last_result_hashes": [
         "4a1bf7bf0062edce6ba48dc2be42137f",
@@ -202,7 +208,10 @@
         "NeetCode",
         "Blind 75",
         "binary lifting",
-        "tree DP"
+        "tree DP",
+        "TechPrep 100",
+        "NeetCode 150",
+        "NeetCode 250"
       ],
       "last_result_hashes": [
         "2ce4cd52cf753ee765017e7ac9e6e950",
