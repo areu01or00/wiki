@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: LeetCode, leetcode, 2026:, coding, interview
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: LeetCode, leetcode, coding, interview, study
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data structures, structure, structures, questions, interview questions, interview
+- **2026-06-12** | [Coding interview study plan - Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-study-plan) | kw: coding, interview, study
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: answers, structure, (2026, questions, interview questions, interview
+- **2026-06-12** | [Google 2026 LeetCode Interview Preparation Guide - GitHub Gist](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: LeetCode, leetcode, github, interview
+
 - **2026-06-12** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: new
 - **2026-06-12** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ...](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: new
 - **2026-06-12** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: new
