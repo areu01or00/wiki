@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data Structures & Algorithms Interview Guide 2026
+- **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms & Data Structures (LeetCode Preparation
+- **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode
+- **2026-06-12** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: Problem List - LeetCode
+- **2026-06-12** | [GitHub - Devinterview-io/searching-algorithms-interview-questions](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: GitHub - Devinterview-io/searching-algorithms-inte
+- **2026-06-12** | [GitHub - Devinterview-io/greedy-algorithms-interview-questions](https://github.com/Devinterview-io/greedy-algorithms-interview-questions) | kw: GitHub - Devinterview-io/greedy-algorithms-intervi
+
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | source: algorithms
 - **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | source: algorithms
 - **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | source: algorithms

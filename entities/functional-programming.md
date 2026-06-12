@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Functional Programming in Rust: Idioms and Examples | PythonLib](https://pythonlib.ru/en/post92) | kw: Functional Programming in Rust
+- **2026-06-12** | [Functors, Applicatives, and Monads: FP Concepts Explained](https://read.thecoder.cafe/p/functors-applicatives-monads) | kw: Functors, Applicatives, and Monads
+- **2026-06-12** | [7. Functional Design Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/haskell/functional-design-patterns) | kw: 7. Functional Design Patterns
+- **2026-06-12** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does Rust Support Functional Programming Idioms? E
+- **2026-06-12** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Functional programming
+- **2026-06-12** | [Monads, Functors, and Applicatives in Haskell: Mastering ...](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: Monads, Functors, and Applicatives in Haskell
+- **2026-06-12** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust. · GitHub](https://github.com/wrsturgeon/rsmonad) | kw: GitHub - wrsturgeon/rsmonad
+- **2026-06-12** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming at Its Finest
+
 - **2026-06-12** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | source: functional-programming
 - **2026-06-12** | [Rust1.74で追加された機能を使ってモナドを作ってみる](https://zenn.dev/hanao/articles/b16b7460e801f5) | source: functional-programming
 - **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | source: functional-programming

@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM - Create You
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJ
+- **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS ...](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry - The Native TypeScript Compiler That Lowers
+- **2026-06-12** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM - Wikipedia
+- **2026-06-12** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: Resume - Sanjoy Das
+- **2026-06-12** | [A Deep Dive into LLVM: The Future of Compiler Technology | by Aastha Jain | Medium](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM
+
 - **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | source: compilers
 - **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | source: compilers
 - **2026-06-12** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | source: compilers

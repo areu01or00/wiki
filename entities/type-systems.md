@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Gradual Typing with Uniﬁcation-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual Typing with Uniﬁcation-based Inferen
+- **2026-06-12** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN ...](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: Staged Gradual Typing
+- **2026-06-12** | [Toward a Corpus Study of the Dynamic Gradual Type - arXiv.org](https://arxiv.org/html/2503.08928) | kw: Toward a Corpus Study of the Dynamic Gradual Type 
+
 - **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | source: type-systems
 - **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | source: type-systems
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | source: type-systems
