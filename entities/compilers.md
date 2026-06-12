@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
+- **2026-06-12** | [A Deep Dive into LLVM: The Future of Compiler Technology | by Aastha Jain | Medium](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: compilers
+- **2026-06-12** | [LLVM Roadmap for Beginners Explained - CompilerSutraMail](https://www.compilersutra.com/docs/llvm/intro-to-llvm) | kw: compilers
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+
 - **2026-06-12** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 Turbofan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM
 - **2026-06-12** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: LLVM
 - **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM

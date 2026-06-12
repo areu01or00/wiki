@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-12** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
+- **2026-06-12** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders - Unosquare](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing) | kw: type-systems
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-06-12** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: type-systems
+- **2026-06-12** | [100+ Type Inference Online Courses for 2025 | Explore Free Courses & Certifications | Class Central](https://www.classcentral.com/subject/type-inference) | kw: type-systems
+- **2026-06-12** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From | Notes from Yoichi Ozaki](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type-systems
+- **2026-06-12** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN ...](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: type-systems
+
 - **2026-06-12** | [Understanding Graduality in Programming Languages through Embedding Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: gradual
 - **2026-06-12** | [A Deep Dive into Type Systems - What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: typing
 - **2026-06-12** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing

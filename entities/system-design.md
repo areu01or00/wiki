@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system-design
+- **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Imperialis Tech](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: system-design
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-12** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: system-design
+- **2026-06-12** | [Distributed design patterns - Wikipedia](https://en.wikipedia.org/wiki/Distributed_design_patterns) | kw: system-design
+
 - **2026-06-12** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: distributed systems
 - **2026-06-12** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: design
 - **2026-06-12** | [Distributed Application Architecture Patterns: An unopinionated catalogue of the status quo](https://www.reddit.com/r/softwarearchitecture/comments/1n9z6xi/distributed_application_architecture_patterns_an) | kw: patterns
