@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Internals, Optimization
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Memory
+- **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: CPython, Python, Really
+- **2026-06-12** | [Python 3.14 Free-Threading - True Parallelism Without the GIL](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: Python, True, Parallelism
+- **2026-06-12** | [Python Complete Guide | CPython Internals GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: Python, Complete, Guide
+- **2026-06-12** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management
+- **2026-06-12** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python, Memory, Profiling
+
 - **2026-06-12** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: GIL removal, free-threading, PEP 703
 
 - **2026-06-12** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals

@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support
+- **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: About, Monads, HaskellWiki
+- **2026-06-12** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, Wikipedia
+- **2026-06-12** | [Monad | Institutions](http://monad.xyz/institutions) | kw: Monad, Institutions
+- **2026-06-12** | [Monad | Official Announcements](http://monad.xyz/announcements) | kw: Monad, Official, Announcements
+
 - **2026-06-12** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: linear types, borrowing, PLDI 2026
 - **2026-06-12** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust](https://github.com/wrsturgeon/rsmonad) | kw: monads, Rust, Haskell-style
 

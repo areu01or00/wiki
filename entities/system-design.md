@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
+- **2026-06-12** | [Design Patterns for Distributed Systems — Retry, Circuit Breaker, and More](https://codelit.io/blog/distributed-system-design-patterns) | kw: Design, Patterns, Distributed
+- **2026-06-12** | [Distributed System Design Patterns: A Practitioner's Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: Distributed, System, Design
+
 - **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: paradigm shift, edge-native, AI-driven
 - **2026-06-12** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: distributed, design patterns, scalable
 

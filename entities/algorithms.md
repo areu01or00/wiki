@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Commonly Asked Data Structure Interview Questions - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/commonly-asked-data-structure-interview-questions-set-1) | kw: Commonly, Asked, Data
+- **2026-06-12** | [GitHub - Devinterview-io/data-structures-interview-questions](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: GitHub
+- **2026-06-12** | [Data Structures Algorithms in Java – SECRETS to Ace LeetCode](https://www.classcentral.com/course/packt-data-structures-algorithms-in-java-secrets-to-ace-leetcode-527775) | kw: Data, Structures, Algorithms
+- **2026-06-12** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Data
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data, Structures, Algorithms
+
 - **2026-06-12** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: DSA, interview, roadmap
 - **2026-06-12** | [Google 2026 LeetCode Interview Preparation Guide](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: Google, LeetCode, prep
 
