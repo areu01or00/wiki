@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: gradual typing, type inference, dependent types
+- **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: gradual typing, type inference, dependent types
+
 - **2026-06-12** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type, typing, system
 - **2026-06-12** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing/) | kw: gradual typing, gradual, typing
 - **2026-06-12** | [On the cost of type-tag soundness - ACM](http://dl.acm.org/doi/10.1145/3162066) | kw: type

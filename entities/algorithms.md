@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: dynamic programming, DSA roadmap, coding interviews
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: dynamic programming, DSA roadmap, coding interviews
+
 - **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: LeetCode, leetcode, 2026:, coding, interview
 - **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: LeetCode, leetcode, coding, interview, study
 - **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data structures, structure, structures, questions, interview questions, interview

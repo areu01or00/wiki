@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: GIL, free-threaded Python, CPython internals
+- **2026-06-12** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL, free-threaded Python, CPython internals
+
 - **2026-06-12** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: internals, python, python:, optimization
 - **2026-06-12** | [Python Complete Guide | CPython Internals GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: CPython, internals, python, CPython internals, gil, GIL
 - **2026-06-12** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python, gil, memory, works, GIL

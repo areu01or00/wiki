@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: monads, Haskell, Rust patterns
+- **2026-06-12** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads, Haskell, Rust patterns
+
 - **2026-06-12** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads, monad, haskell, Haskell, tutorial
 - **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: rust, monads, monad, haskell, monads:, Haskell, learned
 - **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: monads, monad, haskell, Haskell

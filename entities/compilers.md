@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM, bytecode
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: JIT compilation, LLVM, bytecode
+- **2026-06-12** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: JIT compilation, LLVM, bytecode
+
 - **2026-06-12** | [Building a JIT: Starting out with KaleidoscopeJIT (ORC-based JIT in LLVM)](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM
 - **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, compiler
 - **2026-06-12** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: LLVM, compilers, compiler

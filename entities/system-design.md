@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Cloud Native Architecture | Kubernetes & Serverless 2026](https://gegosoft.com/cloud-native-architecture) | kw: load balancing, caching patterns, distributed systems
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: load balancing, caching patterns, distributed systems
+
 - **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: architecture, patterns, edge computing
 - **2026-06-12** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: systems, distributed systems, distributed, patterns, system
 - **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: architecture, systems, distributed systems, distributed, microservices, system
