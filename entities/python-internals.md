@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: CPython, bytecode, memory management
+- **2026-06-12** | [Python Free-Threading Guide 2026: No-GIL, Threads, Packages](https://www.toolsmint.com/learn/python-free-threading-gil-guide-2026) | kw: free-threading, GIL, Python 3.13
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management, GIL, reference counting
+- **2026-06-12** | [Python 3.13 Free-Threaded Mode & JIT Guide 2026](https://softaims.com/blog/python-313-free-threaded-jit-features-2026) | kw: Python 3.13, JIT, free-threaded, PEP 703
+- **2026-06-12** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL, concurrency, backend performance
+- **2026-06-12** | [Python In-Depth — Memory Management in Python (GIL and Profiling)](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: memory management, GIL, profiling
+- **2026-06-12** | [The Inner Workings of Python: Beyond the Surface](https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732) | kw: CPython, parsing, bytecode, PEG parser
+
 - **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python, controversy:, multi, core, parallelism
 - **2026-06-12** | [GIL | CPython Internals](https://zpoint.github.io/CPython-Internals/Interpreter/gil/gil.html) | kw: cpython, internals
 - **2026-06-12** | [Python In-Depth — Memory Management in Python (GIL and Profiling) | by Arjun Dahal | Medium](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: python, depth, memory, management, python

@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: LeetCode, interview prep, FAANG
+- **2026-06-12** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode, TCS, interview questions
+- **2026-06-12** | [Algorithms MCQ Study Guide | CS & IT Exam Prep (digital)](https://www.etsy.com/listing/4299239986/algorithms-mcq-study-guide-cs-it-exam) | kw: MCQ, algorithms, study guide
+- **2026-06-12** | [Coding Interview Roadmap for Beginners in 2026](https://www.analyticsinsight.net/programming/how-to-crack-coding-interviews-in-2026-complete-beginners-roadmap) | kw: roadmap, beginners, interview prep
+- **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: TechPrep, Blind 75, TechPrep 100
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: roadmap, DSA, learning
+- **2026-06-12** | [Comprehensive Data Structure and Algorithm Study Guide - LeetCode](https://leetcode.com/discuss/study-guide/494279/comprehensive-data-structure-and-algorithm-study-guide) | kw: study guide, LeetCode, DSA
+
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: best, sheet, 2026, crack, interviews
 - **2026-06-12** | [AlgoExpert | Ace the Coding Interviews](http://algoexpert.io/) | kw: algoexpert, coding, interviews
 - **2026-06-12** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: data, structures, algorithms, study, cheatsheets

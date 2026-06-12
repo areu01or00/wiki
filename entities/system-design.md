@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: load balancing, caching, patterns
+- **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: edge computing, AI-driven orchestration, paradigm shift
+- **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: load balancing, caching, NGINX
+- **2026-06-12** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: patterns, distributed systems, roadmap
+- **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: scalability, fault tolerance, case studies
+- **2026-06-12** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: patterns, design, interview
+- **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: edge computing, latency, global architecture
+- **2026-06-12** | [Clean Architecture – Certification Training Course for Java Developers](http://clean.re/) | kw: architecture, clean architecture, Java
+
 - **2026-06-12** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed, systems, architecture, patterns, gitscrum
 - **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices, architecture, patterns, 2026:, mastering
 - **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a) | kw: distributed, systems, architecture, java:, complete

@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing, type annotation, Reticulated Python
+- **2026-06-12** | [Compiling Gradual Types with Evidence](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: evidence-based compilation, GrEv, gradual types
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: type annotation, performance, gradual typing
+- **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python typing, gradual typing, type system concepts
+- **2026-06-12** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: type-tag soundness, runtime checks, gradual typing
+- **2026-06-12** | [Gradual Typing with Inference (Jeremy Siek)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type inference, Jeremy Siek, gradual typing
+- **2026-06-12** | [Blog - Zenlayer](http://zenlayer.com/blog) | kw: distributed cloud, edge infrastructure
+- **2026-06-12** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type inference, gradual typing, Microsoft
+
 - **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating, 2026, language, landscape:, typing
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: efficient, selection, type, annotations, performance
 - **2026-06-12** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating, language, labyrinth:, 2026, matrix

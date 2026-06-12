@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell, Gleam, Rust, FP comparison
+- **2026-06-12** | [Monad Pattern in Functional Programming: A Comprehensive Guide](https://softwarepatternslexicon.com/functional-programming/essential-functional-programming-patterns/monad-pattern) | kw: monad pattern, FP, design patterns
+- **2026-06-12** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: Linear Haskell, borrowing, Rust interop
+- **2026-06-12** | [Hello, Haskell: Getting Started in 2026](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026) | kw: Haskell, tutorial, monads, do notation
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: monads, Rust, learning
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust (Medium)](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads, Rust, learning
+- **2026-06-12** | [The Practical Value of Functional Programming — Monad, Haskell, Elixir, Gleam, Effect-TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads, Effect-TS, Erlang, Elixir
+
 - **2026-06-12** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: haskell, rust, comparison, 2026, feature
 - **2026-06-12** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: practical, value, functional, programming, monad
 - **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: learned, monads:, through, haskell, through

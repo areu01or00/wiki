@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: LLVM, SPEC CPU 2026, benchmarks
+- **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: V8 Turbofan, V8 Maglev, JIT, inline caching
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: ORC JIT, tutorial, LLVM
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst (RomanPikhotskiy)](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: ORC JIT, tutorial, LLVM
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: ORC JIT, lazy JITing, LLVM
+- **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst (SonyaMorozova)](https://github.com/SonyaMorozova/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: ORC JIT, tutorial, LLVM
+
 - **2026-06-12** | [Smalltalk JIT Compilation: LLVM Experimentation](https://ceur-ws.org/Vol-3893/Paper01.pdf) | kw: smalltalk, compilation:, llvm, experimentation
 - **2026-06-12** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: deep, dive, into, llvm:, future
 
