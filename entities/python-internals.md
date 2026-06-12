@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-12** | [The Global Interpreter Lock (GIL) Explained - pythontutorial.org](https://pythontutorial.org/concurrency/gil-explained) | kw: python-internals
+- **2026-06-12** | [PEP 703 Explained: How Python Finally Removes the GIL - DEV Community](https://dev.to/epam_india_python/pep-703-explained-how-python-finally-removes-the-gil-49d) | kw: python-internals
+
 - **2026-06-12** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: GIL, python, gil
 - **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management, memory, python
 - **2026-06-12** | [Python Complete Guide | CPython Internals · GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: GIL, CPython internals, python

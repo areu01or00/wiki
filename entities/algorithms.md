@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
+- **2026-06-12** | [50+ Leetcode Online Courses for 2026 | Explore Free Courses & Certifications | Class Central](https://www.classcentral.com/subject/leetcode) | kw: algorithms
+- **2026-06-12** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+
 - **2026-06-12** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: leetcode, interview, LeetCode
 - **2026-06-12** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: leetcode, algorithms, structures
 - **2026-06-12** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms, structures, interview

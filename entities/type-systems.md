@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-12** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems
+- **2026-06-12** | [2026 Type Report – PRINT Magazine](https://www.printmag.com/typography/print-type-report-2026/) | kw: type-systems
+- **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: type-systems
+- **2026-06-12** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type-systems
+
 - **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual typing, gradual, typing
 - **2026-06-12** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: typing, language
 - **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: gradual typing, gradual, typing

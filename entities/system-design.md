@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: system-design
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design
+- **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Imperialis Tech](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: system-design
+- **2026-06-12** | [Resilience First – Modern Patterns in Distributed ...](https://gabogil.com/2026/04/26/resilience-first-modern-patterns-in-distributed-architectures) | kw: system-design
+- **2026-06-12** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: system-design
+- **2026-06-12** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
+
 - **2026-06-12** | [Top 6 System Design Interview Courses For 2026](https://devopscube.com/system-design-interview-courses) | kw: design, system
 - **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: load balancing, design, system
 - **2026-06-12** | [Site Reliability Engineer in Malvern, Pennsylvania | Cubesmart](http://careers.cubesmart.com/corporate/jobs/25616?lang=en-us) | kw: reliability
