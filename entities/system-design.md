@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices, distributed systems
+- **2026-06-12** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: SOA, service-oriented architecture
+- **2026-06-12** | [System Design Series Part 13: Distributed Systems Deep Dive - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-distributed-systems-deep-dive.html) | kw: distributed systems, consensus algorithms, Paxos, Raft
+- **2026-06-12** | [Resilience First - Modern Patterns in Distributed ...](https://gabogil.com/2026/04/26/resilience-first-modern-patterns-in-distributed-architectures) | kw: resilience, circuit breakers, chaos engineering
+
 - **2026-06-12** | [Cloud Native Architecture | Kubernetes & Serverless 2026](https://gegosoft.com/cloud-native-architecture) | kw: system-design
 - **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system-design
 - **2026-06-12** | [Distributed Systems, System Design & Software Architecture](https://www.youtube.com/watch?v=4KmJRCU-iuw) | kw: system-design

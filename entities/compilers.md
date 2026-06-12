@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: V8 TurboFan, V8 Maglev, inline caching, escape analysis
+- **2026-06-12** | [Advanced Optimizations in Modern Compilers: JIT, AOT and ...](https://ijsrmt.com/index.php/ijsrmt/article/view/1072) | kw: JIT, AOT, hybrid compilation
+- **2026-06-12** | [Turbocharging PostgreSQL: Mastering JIT Compilation and LLVM ...](https://techbinary.cloud/blog/turbocharging-postgresql-mastering-jit-compilation-and-llvm-for-analytical-latency) | kw: PostgreSQL JIT, LLVM optimization
+- **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry TypeScript compiler, LLVM, AOT
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT, LLVM, Rust, inkwell
+- **2026-06-12** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: open-source compilers, GCC, LLVM, Rust
+
 - **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
 - **2026-06-12** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: compilers

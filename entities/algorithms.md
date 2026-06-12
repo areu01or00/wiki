@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Coding interviews: Everything you need to prepare | Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-prep) | kw: coding interviews, preparation
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data structures, interview questions
+- **2026-06-12** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: LeetCode, study plan
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: data structures, interview questions
+- **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: TechPrep 100, Blind 75
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: DSA roadmap
+- **2026-06-12** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: LeetCode, study plan
+- **2026-06-12** | [Data Structures and Algorithms Interview Questions - YouTube](https://www.youtube.com/watch?v=ZCnuBl7Sn5U) | kw: DSA, interview questions, video
+
 - **2026-06-12** | [LeetCode Alone Wont Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: algorithms
 - **2026-06-12** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150/) | kw: algorithms
 - **2026-06-12** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
