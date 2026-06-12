@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: haskell, rust, comparison, 2026, feature
+- **2026-06-12** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: practical, value, functional, programming, monad
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: learned, monads:, through, haskell, through
+- **2026-06-12** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify, rust, utility, lib.rs
+
 - **2026-06-12 16:17 UTC** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: rust
 - **2026-06-12 16:17 UTC** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: monads, Haskell, haskell
 - **2026-06-12 16:17 UTC** | [Rust1.74で追加された機能を使ってモナドを作ってみる](https://zenn.dev/hanao/articles/b16b7460e801f5) | kw: rust

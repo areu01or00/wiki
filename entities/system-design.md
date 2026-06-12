@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed, systems, architecture, patterns, gitscrum
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices, architecture, patterns, 2026:, mastering
+- **2026-06-12** | [Distributed Systems Architecture in Java: A Complete Hands-On Reference](https://medium.com/@devarshivyas/distributed-systems-architecture-in-java-a-complete-hands-on-reference-bca66da1e41a) | kw: distributed, systems, architecture, java:, complete
+- **2026-06-12** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: distributed, systems, patterns, every, backend
+
 - **2026-06-12 16:17 UTC** | [2026 Keynotes | DesignCon](http://designcon.com/education/keynotes) | kw: design, 2026
 - **2026-06-12 16:17 UTC** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, patterns, systems
 - **2026-06-12 16:17 UTC** | [Microservices Architecture for Data-Driven Applications: Patterns and Best Practices](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: patterns, architecture, microservices

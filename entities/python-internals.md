@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python, controversy:, multi, core, parallelism
+- **2026-06-12** | [GIL | CPython Internals](https://zpoint.github.io/CPython-Internals/Interpreter/gil/gil.html) | kw: cpython, internals
+- **2026-06-12** | [Python In-Depth — Memory Management in Python (GIL and Profiling) | by Arjun Dahal | Medium](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: python, depth, memory, management, python
+
 - **2026-06-12 16:17 UTC** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python, internals, optimization
 - **2026-06-12 16:17 UTC** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management, memory
 - **2026-06-12 16:17 UTC** | [The Inner Workings of Python: Beyond the Surface | by More Than Monkeys | Python in Plain English](https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732) | kw: python, python:

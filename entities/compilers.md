@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Smalltalk JIT Compilation: LLVM Experimentation](https://ceur-ws.org/Vol-3893/Paper01.pdf) | kw: smalltalk, compilation:, llvm, experimentation
+- **2026-06-12** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: deep, dive, into, llvm:, future
+
 - **2026-06-12 16:17 UTC** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: JIT compilation, LLVM, compilation
 - **2026-06-12 16:17 UTC** | [Sanjoy Das](http://sanjoy.link/) | kw: sanjoy, Sanjoy Das
 
