@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
+- **2026-06-12** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: system-design
+- **2026-06-12** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system-design
+- **2026-06-12** | [Predicting the Future of Distributed Systems - Craft Conference - 2025](https://craft-conf.com/2025/talk/colin-breck) | kw: system-design
+
 - **2026-06-12** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design
 - **2026-06-12** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system-design
 - **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design

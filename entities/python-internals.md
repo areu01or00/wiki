@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: python-internals
+- **2026-06-12** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: python-internals
+- **2026-06-12** | [Python 3.14 Free-Threading - True Parallelism Without the GIL](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: python-internals
+- **2026-06-12** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: python-internals
+- **2026-06-12** | [Python 3.13 Allows Disabling of the GIL + subinterpreters](https://blog.pythonlibrary.org/2024/03/14/python-3-13-allows-disabling-of-the-gil-subinterpreters) | kw: python-internals
+
 - **2026-06-12** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 
 - **2026-06-12** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: the, gil, is

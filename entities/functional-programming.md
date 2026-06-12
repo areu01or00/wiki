@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: functional-programming
+- **2026-06-12** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: functional-programming
+- **2026-06-12** | [nsu-syspro/haskell-monads-2026 - GitHub](https://github.com/nsu-syspro/haskell-monads-2026) | kw: functional-programming
+- **2026-06-12** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
+- **2026-06-12** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: functional-programming
+- **2026-06-12** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: functional-programming
+- **2026-06-12** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials/) | kw: functional-programming
+- **2026-06-12** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: functional-programming
+
 - **2026-06-12** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: functional-programming
 - **2026-06-12** | [Functors, Applicatives, and Monads: FP Concepts Explained](https://read.thecoder.cafe/p/functors-applicatives-monads) | kw: functional-programming
 
