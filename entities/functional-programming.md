@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Monad Pattern in Functional Programming: A Comprehensive Guide](https://softwarepatternslexicon.com/functional-programming/essential-functional-programming-patterns/monad-pattern) | kw: monad pattern, functional programming
+- **2026-06-12** | [monadic - Rust Docs](https://docs.rs/monadic/latest/monadic/) | kw: monadic, Rust macros, IntoIterator
+- **2026-06-12** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, guide, monads
+
 - **2026-06-12** | [Monad Pattern in Functional Programming: A Comprehensive ...](https://softwarepatternslexicon.com/functional-programming/essential-functional-programming-patterns/monad-pattern) | kw: functional-programming
 - **2026-06-12** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
 - **2026-06-12** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: functional-programming

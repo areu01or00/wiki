@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: scalability patterns, consensus algorithms
+- **2026-06-12** | [Distributed Systems Patterns: Saga, Outbox, Idempotency Keys](https://viprasol.com/blog/distributed-systems-patterns) | kw: saga pattern, outbox, idempotency
+- **2026-06-12** | [Top Software Architecture Trends for 2026: AI + Edge Computing](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: edge computing, AI, autonomous systems
+- **2026-06-12** | [Learn Advanced Distributed Systems Design](https://particular.net/adsd) | kw: SOA, service-oriented architecture
+- **2026-06-12** | [Idempotency in Distributed Systems: Design Patterns Beyond Retry Safely](https://aloknecessary.github.io/blogs/idempotency-distributed-systems) | kw: idempotency, distributed systems, deduplication
+
 - **2026-06-12** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system-design
 - **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Imperialis Tech](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: system-design
 - **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design

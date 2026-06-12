@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: gradual typing, GTLC
+- **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing, Wikipedia
+- **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual typing, type theory
+- **2026-06-12** | [100+ Type Inference Online Courses](https://www.classcentral.com/subject/type-inference) | kw: type inference, courses
+- **2026-06-12** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: type soundness, runtime checks
+
 - **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-12** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
 - **2026-06-12** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders - Unosquare](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing) | kw: type-systems

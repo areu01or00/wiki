@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Python Internals: Memory Management and the GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management, GIL, reference counting
+- **2026-06-12** | [Pythons GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: GIL removal, free-threaded Python, CPython 3.13
+- **2026-06-12** | [Memory Management and GIL: Python Guide 2026](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory management, GIL, guide
+- **2026-06-12** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: memory management, internals
+- **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL, multi-core, parallelism
+- **2026-06-12** | [GIL - CPython Internals](https://zpoint.github.io/CPython-Internals/Interpreter/gil/gil.html) | kw: GIL, CPython internals, thread scheduling
+- **2026-06-12** | [Python In-Depth: Memory Management and Profiling](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: memory management, GIL, profiling
+
 - **2026-06-12** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 - **2026-06-12** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
 - **2026-06-12** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
