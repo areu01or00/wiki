@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-12 21:47 UTC** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
+- **2026-06-12 21:47 UTC** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM
+
 - **2026-06-12** | [JIT and Optimizations | LLVM: Implementing a Language](https://landersbenjamin.gitbooks.io/llvm-implementing-a-language/content/jitandopt.html) | kw: LLVM, JIT
 - **2026-06-12** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, JIT
 - **2026-06-12** | [Turbocharging PostgreSQL: Mastering JIT Compilation and LLVM ...](https://techbinary.cloud/blog/turbocharging-postgresql-mastering-jit-compilation-and-llvm-for-analytical-latency) | kw: LLVM, JIT, compilation

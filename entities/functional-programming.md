@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12 21:47 UTC** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: Demystifying
+- **2026-06-12 21:47 UTC** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt) | kw: Demystifying
+- **2026-06-12 21:47 UTC** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does
+
 - **2026-06-12** | [Functional Programming Paradigms: Immutability, Higher-Order ...](https://johal.in/functional-programming-paradigms-immutability-higher-order-functions-and-monads-2026) | kw: functional programming
 - **2026-06-12** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: monads, rust
 - **2026-06-12** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell, functional programming

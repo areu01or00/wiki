@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-12 21:47 UTC** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns
+- **2026-06-12 21:47 UTC** | [Patterns of Distributed Systems (2020) | Hacker News](https://news.ycombinator.com/item?id=26089683) | kw: Patterns
+
 - **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: architecture, patterns, edge computing
 - **2026-06-12** | [2026 Keynotes | DesignCon](http://designcon.com/education/keynotes) | kw: system-design
 - **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, patterns
