@@ -267,7 +267,8 @@
         "PyMalloc",
         "mimalloc",
         "Python 3.13",
-        "Python 3.14"
+        "Python 3.14",
+        "PEP 779"
       ],
       "last_result_hashes": [
         "7b4d33a48fc204e0cb25e4f1266c7297",
