@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: distributed systems
+- **2026-06-12** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: design
+- **2026-06-12** | [Distributed Application Architecture Patterns: An unopinionated catalogue of the status quo](https://www.reddit.com/r/softwarearchitecture/comments/1n9z6xi/distributed_application_architecture_patterns_an) | kw: patterns
+- **2026-06-12** | [The Future of Large-Scale Distributed Systems: Trends, Challenges, and Opportunities](https://www.researchgate.net/publication/390714723_The_Future_of_Large-Scale_Distributed_Systems_Trends_Challenges_and_Opportunities) | kw: distributed systems
+
 - **2026-06-12** | [Event-Driven Microservices Guide (2026) | TurboDocx](https://www.turbodocx.com/blog/microservices-event-driven-architecture) | kw: Event sourcing
 - **2026-06-12** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Im](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: Edge computing patterns combining intelligent depl
 - **2026-06-12** | [Mastering Distributed Systems -- Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: CAP/PACELC trade-offs

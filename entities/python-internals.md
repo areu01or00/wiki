@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The GIL Is Finally Dead: Free-Threaded Python Is Production Ready](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: GIL
+- **2026-06-12** | [Python - Python Internals: Memory Management and the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management
+- **2026-06-12** | [Beyond the Script: The Intelligent Evolution of Python Automation in 2026](https://dev.to/codingmavrick/beyond-the-script-the-intelligent-evolution-of-python-automation-in-2026-5b6l) | kw: python
+- **2026-06-12** | [Python GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: GIL
+- **2026-06-12** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: GIL
+- **2026-06-12** | [Python Complete Guide: CPython Internals and GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: GIL
+- **2026-06-12** | [Python 3.14 Free-Threading and Experimental JIT: How Python 2026](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: python
+
 - **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Reference counting
 - **2026-06-12** | [concurrent.futures -- Python 3.14.6 documentation](https://docs.python.org/3/library/concurrent.futures.html) | kw: Python 3.14 concurrent.futures with ThreadPoolExec
 - **2026-06-12** | [Python GIL Is Gone -- What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: CPython 3.13 experimental free-threading explained

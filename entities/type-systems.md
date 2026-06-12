@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Understanding Graduality in Programming Languages through Embedding Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: gradual
+- **2026-06-12** | [A Deep Dive into Type Systems - What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: typing
+- **2026-06-12** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing
+- **2026-06-12** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: gradual typing
+- **2026-06-12** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: gradual typing
+
 - **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: typing paradigms
 - **2026-06-12** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: gradual type theory
 

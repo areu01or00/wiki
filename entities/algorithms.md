@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: leetcode
+- **2026-06-12** | [Data Structures and Algorithms Roadmap 2026](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: algorithms
+- **2026-06-12** | [Data Structures and Algorithms Interview Guide 2026](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
+- **2026-06-12** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: leetcode
+- **2026-06-12** | [59 Essential Searching Algorithms Interview Questions in 2026](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: algorithms
+- **2026-06-12** | [25 Leetcode Patterns That Cover Over 80% of Interview Problems](https://www.linkedin.com/posts/aman-kumar-882335194_25-leetcode-patterns-that-cover-over-80-activity-7370673719658086400-aO0q) | kw: leetcode
+- **2026-06-12** | [Data Structures and Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms
+
 - **2026-06-12** | [Top 100 DSA Interview Questions - LeetCode Discuss](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Curated DSA interview questions with company tags.
 - **2026-06-12** | [Common data structures that pop up in LeetCode style interviews (Reddit)](https://www.reddit.com/r/androiddev/comments/10sqlww/common_data_structures_that_pop_up_in_leetcode) | kw: Discussion of commonly tested data structures.
 - **2026-06-12** | [LeetCode Alone Wont Save You in 2026 -- Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: 7 topics that separate candidates who get offers.
