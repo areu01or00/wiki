@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: the, gil, is
+- **2026-06-12** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: exploring, python:, internals
+- **2026-06-12** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, python, internals:
+- **2026-06-12** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: how, python's, memory
+- **2026-06-12** | [CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: cpython, internals:, how
+- **2026-06-12** | [Removing Python's GIL: It's Happening!](https://developer.vonage.com/en/blog/removing-pythons-gil-its-happening) | kw: removing, python's, gil:
+- **2026-06-12** | [Python Memory Management Masterclass: Garbage Collection, Slots, and WeakRefs](https://logicandlegacy.blogspot.com/2026/03/python-memory-management-masterclass.html) | kw: python, memory, management
+- **2026-06-12** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: 01, advanced, memory
+- **2026-06-12** | [Python 3.14 Just Removed the GIL — Here's What ... - Medium](https://medium.com/@umare.ankit/python-3-14-just-removed-the-gil-heres-what-it-means-for-data-scientists-ef86e86eb801) | kw: python, 3.14, just
+
 - **2026-06-12** | [The Future of Python Internals: GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL removal, gil, internals
 - **2026-06-12** | [Inside the Python GIL: How It Actually Works and Why It Matters](https://python.plainenglish.io/inside-the-python-gil-how-it-actually-works-and-why-it-matters-2169a9a9dc69) | kw: gil, python, GIL
 - **2026-06-12** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory, management, gil

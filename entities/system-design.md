@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system, design, series
+- **2026-06-12** | [System Design Guide 2026](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system, design, guide
+- **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system, design, guide
+- **2026-06-12** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: future, of, high
+
 - **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system, distributed, systems
 - **2026-06-12** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: microservices, design, patterns
 - **2026-06-12** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system, distributed, systems

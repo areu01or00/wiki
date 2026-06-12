@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, and, modern
+- **2026-06-12** | [LLVM optimization best practices 2026](https://github.com/ormastes/simple/blob/main/doc/01_research/domain/llvm_optimization_best_practices_2026.md) | kw: llvm, optimization, best
+- **2026-06-12** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: jeandle:, how, ant
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: just, in, time
+- **2026-06-12** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: jit, compilation, |
+
 - **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: LLVM
 - **2026-06-12** | [compiler-course-2026/llvm - BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM
 - **2026-06-12** | [FOSDEM 2026 - OrcJIT at Scale with llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: LLVM

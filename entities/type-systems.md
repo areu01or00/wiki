@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: gradual, typing, for
+- **2026-06-12** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual, typing, language
+- **2026-06-12** | [Compiling Gradual Types with Evidence](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: compiling, gradual, types
+- **2026-06-12** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: design, and, evaluation
+
 - **2026-06-12** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type, typing, gradual typing
 - **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: type, typing, gradual typing
 - **2026-06-12** | [Gradual typing in Python](https://www.geeksforgeeks.org/python/gradual-typing-in-python) | kw: typing, gradual typing, gradual
