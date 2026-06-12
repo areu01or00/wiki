@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type, performance, type annotation
+- **2026-06-12** | [[1810.12619] Dynamic Type Inference for Gradual Hindley--Milner Typing](https://arxiv.org/abs/1810.12619) | kw: type inference, gradual, typing
+- **2026-06-12** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: type inference, gradual, inference
+- **2026-06-12** | [Type-Based Gradual Typing Performance Optimization | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3632931) | kw: gradual typing, gradual, typing
+
 - **2026-06-12** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: typing, language landscape, language
 - **2026-06-12** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type, performance, type annotation
 - **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing, type, system

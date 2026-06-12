@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: patterns, architecture, microservices
+- **2026-06-12** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems, patterns, architecture
+- **2026-06-12** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: design, patterns, system
+- **2026-06-12** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: distributed systems, architecture, systems
+- **2026-06-12** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: design, patterns, distributed
+- **2026-06-12** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: distributed systems, design, systems
+
 - **2026-06-12** | [Emergent distributed and autonomous systems - Keele University](https://www.keele.ac.uk/research/ourresearch/computerscienceandmathematics/computerscienceresearch/futuresystems/emergentdistributedandautonomoussystems) | kw: systems, distributed, system
 - **2026-06-12** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: distributed systems, patterns, systems
 - **2026-06-12** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: distributed systems, architecture, systems
