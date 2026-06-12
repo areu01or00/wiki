@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-12** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Python internals, optimization
+- **2026-06-12** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management, GIL
+- **2026-06-12** | [Python Complete Guide | CPython Internals · GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: CPython internals, GIL
+- **2026-06-12** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: GIL, explanation
+
 - **2026-06-12** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: bytecode, PyObject
 - **2026-06-12** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: free-threading, slots
 - **2026-06-12** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: reference counting, C extensions

@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-12** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monads, Rust, patterns
+- **2026-06-12** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell, Gleam, Rust, comparison
+- **2026-06-12** | [Functional Programming in Rust: Idioms and Practices | PythonLib](https://pythonlib.ru/en/post92) | kw: Rust, idioms, practices
+- **2026-06-12** | [Monads, Functors, and Applicatives in Haskell: Mastering Functional Programming](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: Haskell, monads, functors
+- **2026-06-12** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Rust, FP idioms
+- **2026-06-12** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: monads, tutorials, collection
+- **2026-06-12** | [How I Learned Monads: Not Through Haskell But Through Rust | Sae-Hwan Park](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads, Rust, learning
+- **2026-06-12** | [The Practical Value of Functional Programming — Monad, Haskell, Elixir, Erlang, Gleam, Effect-TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: FP, practical value, effect systems
+
 - **2026-06-12** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Option, Result, bind
 - **2026-06-12** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: iterators, idioms
 - **2026-06-12** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt) | kw: PBT, design pattern

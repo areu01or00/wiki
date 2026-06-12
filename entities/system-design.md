@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-12** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices, distributed systems, architecture patterns
+- **2026-06-12** | [Catalog of Patterns of Distributed Systems - Martin Fowler](https://martinfowler.com/articles/patterns-of-distributed-systems) | kw: patterns, distributed systems, catalog
+- **2026-06-12** | [State of the Art in Parallel and Distributed Systems: Emerging Trends and Challenges](https://www.mdpi.com/2079-9292/14/4/677) | kw: parallel systems, distributed systems, emerging trends
+- **2026-06-12** | [Event-Driven Architecture in Distributed Systems: Leveraging Cloud-Native Services](https://eajournals.org/ejcsit/wp-content/uploads/sites/21/2025/05/Event-Driven-Architecture.pdf) | kw: event-driven, architecture, cloud-native
+
 - **2026-06-12** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: architecture patterns, scalable
 - **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: load balancing, caching
 - **2026-06-12** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: CDN, message queues, scaling

@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data structures, interview, guide
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: data structures, interview, questions
+- **2026-06-12** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Guide](https://www.thetutorbridge.com/roadmap/dsa) | kw: DSA, roadmap, learning
+- **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: data structures, answers, interview
+- **2026-06-12** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: data structures, answers, interview
+
 - **2026-06-12** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: arrays, trees, graphs
 - **2026-06-12** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: placements, MNC
 - **2026-06-12** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Blind 75, TechPrep 100

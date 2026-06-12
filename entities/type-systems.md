@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-12** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: graduality, embedding, projection
+- **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python, type system, spec
+- **2026-06-12** | [Efficient Selection of Type Annotations for Performance Optimization of Gradually Typed Programs](https://programming-journal.org/2026/11/3/) | kw: type annotations, performance, gradual typing
+- **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing, Wikipedia
+- **2026-06-12** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: gradual typing, dangers, study
+- **2026-06-12** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: type inference, gradual typing
+
 - **2026-06-12** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: soundness, research
 - **2026-06-12** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python typing, specification
 - **2026-06-12** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: performance, fine-grained

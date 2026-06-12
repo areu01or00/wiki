@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-12** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan, Maglev, Inline Caching, Escape Analysis](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, JIT, V8, Turbofan, runtime
+- **2026-06-12** | [BuildingAJIT1.rst - compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, ORC JIT, tutorial
+- **2026-06-12** | [BuildingAJIT1.rst - compiler-course-2026 (VALancaster)](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, ORC JIT, tutorial
+- **2026-06-12** | [BuildingAJIT3.rst - compiler-course-2026](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: LLVM, lazy JIT, tutorial
+- **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT, LLVM, Rust, language
+- **2026-06-12** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: TypeScript, LLVM, AOT, compiler
+
 - **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT, LLVM, inkwell
 - **2026-06-12** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: OrcJIT, llvm-autojit
 - **2026-06-12** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: V8, Turbofan, Maglev
