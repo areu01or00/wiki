@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
+- **2026-06-13** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design/) | kw: System, Architecture, Design:
+- **2026-06-13** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns, of, Distributed
+- **2026-06-13** | [Building Scalable Distributed Systems: Key Principles](https://navalerakesh.github.io/blog/2025/10/02/building-scalable-distributed-systems) | kw: Building, Scalable, Distributed
+- **2026-06-13** | [Distributed System Patterns - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/distributed-system-patterns) | kw: Distributed, System, Patterns
+- **2026-06-13** | [Distributed Systems Revolution: How AI Infrastructure and Edge Computing Are Reshaping Enterprise](https://medium.com/@patrickkoss/distributed-systems-revolution-how-ai-infrastructure-and-edge-computing-are-reshaping-enterprise-e45001ad4cfd) | kw: Distributed, Systems, Revolution:
+
 - **2026-06-13** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering Distributed Systems
 - **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The Coming Paradigm
 - **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns
