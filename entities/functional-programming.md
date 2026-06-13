@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: About, Monads, HaskellWiki
+- **2026-06-13** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, monads
+- **2026-06-13** | [Haskell - Monads](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Monads
+- **2026-06-13** | [Part 6: Monads - Well-Typed: The Haskell Consultants](https://teaching.well-typed.com/intro/monads.html) | kw: Part, Monads, Well
+- **2026-06-13** | [Yet Another Haskell Tutorial/Monads](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial/Monads) | kw: Another, Haskell, Tutorial/Monads
+- **2026-06-13** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional, Programming, Finest
+
 - **2026-06-13** | [haskell-monads-2026/README.md at main · nsu-syspro/haskell-monads-2026 · GitHub](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: functional-programming
 
 - **2026-06-13** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Gentle, Introduction, Haskell

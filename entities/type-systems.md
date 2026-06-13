@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, Types
+- **2026-06-13** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-13** | [The ins and outs of gradual type inference](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: outs, gradual, type
+- **2026-06-13** | [Allison Kiang | LinkedIn](http://linkedin.com/in/allisonkiang) | kw: Allison, Kiang, LinkedIn
+
 - **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-13** | [NJPLS May 2026 Programme](https://njpls.org/may2026-program.pdf) | kw: type-systems
 - **2026-06-13** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: type-systems

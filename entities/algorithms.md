@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Data, structures, algorithms
+- **2026-06-13** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Interview, Questions
+- **2026-06-13** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms
+- **2026-06-13** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode, Questions, 2026
+- **2026-06-13** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: LeetCode, Questions, Must
+- **2026-06-13** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: 100+, Data, Structure
+- **2026-06-13** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Roadmap
+
 - **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
 - **2026-06-13** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: algorithms
 - **2026-06-13** | [GitHub - Devinterview-io/searching-algorithms-interview-questions](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: algorithms
