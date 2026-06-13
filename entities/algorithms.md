@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, Crack, Interviews
+- **2026-06-13** | [Data Structures and Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap
+- **2026-06-13** | [Best Websites to Practice DSA Mock Tests in 2026](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests) | kw: Best, Websites, Practice, Mock, Tests
+- **2026-06-13** | [Algorithms and Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures, ArchMan
+- **2026-06-13** | [NeetCode](https://neetcode.io/) | kw: NeetCode
+- **2026-06-13** | [DSA Full Course 2026](https://www.youtube.com/watch?v=f2Jd5M0hLJA) | kw: Full, Course
+- **2026-06-13** | [LeetCode](https://leetcode.com/) | kw: LeetCode
+- **2026-06-13** | [How to prepare for Data Structures and Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: prepare, Data, Structures, Algorithms, interview
+- **2026-06-13** | [Master DSA Patterns | AlgoMaster.io](https://algomaster.io/practice/dsa-patterns) | kw: Master, Patterns
+
 - **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
 - **2026-06-13** | [Data Structures and Algorithms for Front End Interviews](https://www.greatfrontend.com/front-end-interview-playbook/algorithms) | kw: algorithms
 - **2026-06-13** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
