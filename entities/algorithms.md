@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms
+- **2026-06-13** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview:
+- **2026-06-13** | [Devinterview-io/data-structures-interview-questions](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: Devinterview-io/data-structures-interview-questions
+- **2026-06-13** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: 100+, Data, Structure
+- **2026-06-13** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode, Questions, 2026:
+
 - **2026-06-13** | [Ultimate System Design Interview Guide for 2026 | by Fahim ul Haq](https://medium.com/@fahimulhaq/ultimate-system-design-interview-guide-for-2025-c5dfa0ca6557) | kw: algorithms
 - **2026-06-13** | [Java Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-and-algorithms-java) | kw: algorithms
 - **2026-06-13** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: algorithms

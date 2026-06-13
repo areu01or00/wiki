@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming, Paradigm, Shift
+- **2026-06-13** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design) | kw: System, Architecture, Design:
+- **2026-06-13** | [Microservices Architecture for Data-Driven Applications: Patterns and Best Practices](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, Data-Driven
+- **2026-06-13** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide
+
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
 - **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 - **2026-06-13** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system-design
