@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: web
+- **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: web
+- **2026-06-13** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: web
+- **2026-06-13** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: systemdesignhandbook
+- **2026-06-13** | [Microservices Architecture in 2026: Building Scalable ...](https://scga.hk/blog/microservices-architecture-2026) | kw: web
+- **2026-06-13** | [Cloud Native Architecture | Kubernetes & Serverless 2026](https://gegosoft.com/cloud-native-architecture) | kw: web
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: tutorialq
+- **2026-06-13** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: particular
+- **2026-06-13** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: designround
+
 - **2026-06-13** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: system-design
 - **2026-06-13** | [Next-Generation Hardware Roadmap 2026: Architectural Shifts](https://blog.progressiverobot.com/upcoming-hardware-launches-2026-updated-apr-2026) | kw: system-design
 - **2026-06-13** | [Top 6 Enterprise Architecture Trends for 2026 and Beyond](https://www.acldigital.com/blogs/top-6-enterprise-architecture-trends-shaping-2026-and-beyond) | kw: system-design
