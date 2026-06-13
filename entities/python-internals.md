@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
+- **2026-06-13** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
+- **2026-06-13** | [CPython Internals Explained by Ethan Garrett on Apple Books](https://books.apple.com/us/book/cpython-internals-explained/id6776812050) | kw: python-internals
+- **2026-06-13** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: python-internals
+
 - **2026-06-13** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The, GIL, Is
 - **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: How, Python, Works
 - **2026-06-13** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, the, Hood

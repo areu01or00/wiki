@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
+- **2026-06-13** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: algorithms
+- **2026-06-13** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan ...](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: algorithms
+
 - **2026-06-13** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: Data, Structure, I
 - **2026-06-13** | [Devinterview-io/data-structures-interview-questions: Top 100 Data Structures Interview Questions in 2026](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: Devinterview-io/data-structures-interview-questions:, Top, 100
 

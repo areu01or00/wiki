@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
+- **2026-06-13** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: system-design
+- **2026-06-13** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system-design
+
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
 - **2026-06-13** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design/) | kw: System, Architecture, Design:
 - **2026-06-13** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns, of, Distributed
