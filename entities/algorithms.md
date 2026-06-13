@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [NeetCode | Coding Interview Prep](https://neetcode.io/) | kw: algorithms
+- **2026-06-13** | [New Data Structures and Algorithms CONTENT! - LeetCode](https://leetcode.com/discuss/study-guide/2580423/New-Data-Structures-and-Algorithms-CONTENT%21) | kw: algorithms
+- **2026-06-13** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: algorithms
+- **2026-06-13** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
+
 - **2026-06-13** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026
 - **2026-06-13** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: Learn LeetCode & DSA: A Free YouTube Roadmap (2026)
 - **2026-06-13** | [Best Websites to Practice DSA Mock Tests in (2026)](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests) | kw: Best Websites to Practice DSA Mock Tests in (2026)
