@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry compiles TypeScript straight to native machine code th
+- **2026-06-13** | [LLVM Implementation for Java JIT Compilers: A Deep Dive](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: Java Virtual Machine has historically relied on its own JIT 
+- **2026-06-13** | [Numba NJit Python: LLVM No-Python Mode 2026](https://johal.in/numba-njit-python-llvm-no-python-mode-2026) | kw: Numba @njit decorator leverages LLVM backend to compile Pyth
+
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026, RomanPikhotskiy/compiler-course-2026
 - **2026-06-13** | [GitHub - cloudsealed/JIT-Optimization-Engine: A high ...](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: GitHub, cloudsealed/JIT-Optimization-Engine:, high
 
