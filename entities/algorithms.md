@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: best, dsa, sheet
+- **2026-06-13** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: data, structures, algorithms
+- **2026-06-13** | [Agentic AI Engineering Intern | Interview Experience](http://leetcode.com/discuss/post/7404364) | kw: agentic, engineering, intern
+
 - **2026-06-13** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: data, structures, algorithms
 - **2026-06-13** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithms, data, structures
 - **2026-06-13** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: ultimate, java, leetcode

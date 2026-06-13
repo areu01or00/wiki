@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python, the, key
+- **2026-06-13** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory, management, python
+- **2026-06-13** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026) | kw: state, python
+- **2026-06-13** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: github
+- **2026-06-13** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python, memory, management
+
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, python, internals
 - **2026-06-13** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python, controversy, multi-core
 - **2026-06-13** | [Python Memory Management Internals | by Majidbasharat](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python, memory, management

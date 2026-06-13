@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: patterns, distributed, complete
+- **2026-06-13** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: top, software, architecture
+- **2026-06-13** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: three, bold, predictions
+- **2026-06-13** | [The Complete System Design Roadmap for 2026](https://designgurus.substack.com/p/the-complete-system-design-roadmap) | kw: the, complete, system
+
 - **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering, distributed, systems
 - **2026-06-13** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: system, design, patterns
 - **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed, systems, architecture
