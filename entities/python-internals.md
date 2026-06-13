@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: Finally, Dead:, Free-Threaded
+- **2026-06-13** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: Python's, Memory, Management
+- **2026-06-13** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals:, Memory
+- **2026-06-13** | [Python Memory Management Internals](https://evidhya.com/subjects/python/python-memory-management-internals) | kw: Python, Memory, Management
+- **2026-06-13** | [Python Without the GIL: What It Means for Your Code in 2026](https://medium.com/@emmaschmidt304/python-without-the-gil-what-it-means-for-your-code-in-2026-0760ce56e768) | kw: Python, Without, GIL:
+- **2026-06-13** | [Memory Management in Python](https://realpython.com/python-memory-management/) | kw: Memory, Management, Python
+
 - **2026-06-13 04:16 UTC** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: eVidhya, eVidhya, eVidhya
 - **2026-06-13 04:16 UTC** | [Python Memory Management](https://pythonguides.com/python-object-memory-management/) | kw: Management, Management, Management
 - **2026-06-13 04:16 UTC** | [Python In-Depth — Memory Management in Python (GIL and Profiling)](https://medium.com/@arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Profiling, Profiling, Profiling
