@@ -270,14 +270,10 @@
         "Snap",
         "Finance",
         "Built",
-        "pattern"
+        "pattern",
+        "geeksforgeeks"
       ],
       "last_result_hashes": [
-        "848a06554e3ca137e425aa0a6367b703",
-        "d7b4876eac80e3a6b196ef0079f6cd4e",
-        "056b14e78a14af65a4d0ae47a4e64443",
-        "46a56982536c8a4f9801b7d471165b39",
-        "3987c197b7e519ac54f3de52e8e42ec9",
         "96a20d91426c334ac4ec39a360a72684",
         "0bccdfeceeee7664c4e61f75605f9f8f",
         "f0551cc0ca524d8e70d7d32e28e2826c",
@@ -292,9 +288,14 @@
         "d67558d0e41e758753a25e90ac175c44",
         "9f2892b78135ae03661672111a8380a3",
         "cbde1e60bf914ff05243497a11a7a358",
-        "1885661cefe9c39654b0f1458625c8e0"
+        "1885661cefe9c39654b0f1458625c8e0",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "89a56d75eb44a5b6b6e7751656a45c91",
+        "9ba46483364adb11b22fcfbd9fe2e4d2",
+        "608fa7d1ab9e25ccee240ab0bd6ba8f5",
+        "0fdbdacb63ca0bb3832effc0528211b4"
       ],
-      "last_run": "2026-06-13 18:17 UTC"
+      "last_run": "2026-06-13 18:31 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -581,13 +582,13 @@
         "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst",
         "(RomanPikhotskiy)",
         "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst",
-        "tutorial"
+        "tutorial",
+        "python's",
+        "programming",
+        "really?",
+        "future"
       ],
       "last_result_hashes": [
-        "b2dd5804a2a8b156c67f200f9fe530b7",
-        "44fd2f7a377d04664090239d69dac95c",
-        "832c8d190b40632d3ac4ea0b616a49db",
-        "a92273ecb0c691e124015a9b4eb1840a",
         "77c699a7ad94bcf70df2d99af3e85815",
         "1f71d6833ddf3fcd6e3296b5e0fc992d",
         "daf37ae7f13f4357eab8664daacb2f23",
@@ -603,9 +604,13 @@
         "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
         "4cee999b71414851927c1c3805e155c2",
         "d63dbdc004563d48fd946feffeab6d0b",
-        "da2a9627437ec27ab2a13b536f37cf45"
+        "da2a9627437ec27ab2a13b536f37cf45",
+        "a5ef6826de67317cc0c5a53fba480581",
+        "b226e59e0470076776ec719903333499",
+        "4a4e0127b12cfd2d476b5aaa44376f2d",
+        "71c33262bb6fe28614d87220172c6995"
       ],
-      "last_run": "2026-06-13 18:17 UTC"
+      "last_run": "2026-06-13 18:31 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -762,7 +767,7 @@
         "Type-Based",
         "Research",
         "Annotations",
-        "Uni\ufb01cation-based",
+        "Uniﬁcation-based",
         "micro",
         "Toward",
         "Inference",
@@ -955,7 +960,6 @@
         "AI"
       ],
       "last_result_hashes": [
-        "0c4fea65325737c446710c96431c6923",
         "173c61a65a54a90828a8f357905375a9",
         "e27687d5f2ee09b436db07a7695f407d",
         "7e58202d901d88fd843521c2cb440e69",
@@ -974,9 +978,10 @@
         "76e9dc51fd80a680c6eff1c9d6d8bc26",
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "0aa96ee2596c32e28196cf4da3a1e697",
-        "37ffd58453521e02c05e593eedaf102e"
+        "37ffd58453521e02c05e593eedaf102e",
+        "9a3ca8ef0be6bd5ed1e25f6590c663f6"
       ],
-      "last_run": "2026-06-13 18:17 UTC"
+      "last_run": "2026-06-13 18:31 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1020,7 +1025,7 @@
         "All",
         "Checker",
         "Posts",
-        "cr\u00e9\u00e9es",
+        "créées",
         "idioms",
         "wrsturgeon/rsmonad",
         "Both",
@@ -1089,7 +1094,7 @@
         "rust",
         "vous",
         "Official",
-        "\u3067\u67d4\u8edf\u306a",
+        "で柔軟な",
         "Value",
         "sense",
         "Another",
@@ -1101,7 +1106,7 @@
         "Rust-Style",
         "(2026)",
         "support",
-        "\u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
+        "式とモナドを使うために作った幾つかのもの",
         "Software",
         "Wikibooks",
         "Future",
@@ -1115,7 +1120,7 @@
         "Rust",
         "The",
         "needs",
-        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
+        "Rust1.74で追加された機能を使ってモナドを作ってみる",
         "Best",
         "aviez",
         "uses",
@@ -1275,16 +1280,13 @@
         "Borrowing",
         "Why",
         "2604.15290",
-        "pattern"
+        "pattern",
+        "think",
+        "that",
+        "guide",
+        "catalin's"
       ],
       "last_result_hashes": [
-        "1e6684e614686f1f3aea846011b1d7a4",
-        "c2fefc572a2578f6f202a147d877925b",
-        "5e20edf61b15641f132ae259041d6f72",
-        "18ed2d9a19fb2926a9e2e8d651d99e38",
-        "3e3713575bf4014926a64dddce940066",
-        "a1fd2b9212d955769e6bbfad262f2fb9",
-        "79a6740af6699726b2d5c3d3cc1ef1ea",
         "6583b55f4252c222198f0f3b86b458b1",
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "bec6f32daed5631dab09749d5785b4c1",
@@ -1297,9 +1299,16 @@
         "cb3451b58dc0de64c4abaf6248054b44",
         "f351d0fc10a02324aff40dc24871ca2e",
         "6a3de62750f7cf7e38152c833d7b84a9",
-        "c52f5174ff9b2fb18fb776e711ed0486"
+        "c52f5174ff9b2fb18fb776e711ed0486",
+        "507d0954b1c28a4ea253d1bfcfbd1b35",
+        "682e4f2ea7f6c66070b1a4e7cdce6a2f",
+        "ce1296b7730544a3db978dc13e7a351f",
+        "ff8e7aa82463ab8acd416101b1a2e680",
+        "827f82e9e1a47b7a7ad617629e29c129",
+        "fdf91f10ab31e1e961d3e70723cd3787",
+        "449f1936d11b3408b5111b8fbfc6e205"
       ],
-      "last_run": "2026-06-13 18:17 UTC"
+      "last_run": "2026-06-13 18:31 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1576,15 +1585,13 @@
         "Solved",
         "test",
         "pattern",
-        "data structure"
+        "data structure",
+        "online",
+        "[solved]",
+        "central",
+        "must"
       ],
       "last_result_hashes": [
-        "935e075f2d9e6dde2bd81e8ff71b426f",
-        "086da639be3444a7394ffb72855106f8",
-        "8b5b54395f90524f33e015dd24e932fc",
-        "24b693cdb628f2c8d677ee9a6a7f6198",
-        "1235c5b5d3939bfc1c549f79f64c89ef",
-        "51bdec45c83dc444c8040f8f04671877",
         "b6d58fce27b982baf4433c9d930a358a",
         "8fbfc408d153c9db7210ed00243249c2",
         "784080c849a7e175591d07376fe46ba4",
@@ -1598,9 +1605,15 @@
         "c7d106ec2545228816c80d12386489ae",
         "7ee449f7ddd272cf95f2a0dbe94ae521",
         "3739df902d0a15eaecfaff44ff2d20c8",
-        "85146adc8288bb3b6f27a7bdfd64b95d"
+        "85146adc8288bb3b6f27a7bdfd64b95d",
+        "cd0f400b9cb0a4a635ee8d244a5f627c",
+        "27d47f935a44b9765ac562cb7e9795ce",
+        "7e9fdd8c2ffc71a23e29276c3701990a",
+        "a66f129b1d8d976a35fd202400b91453",
+        "d2101a62a2c6a71df58b04c1fe5be14e",
+        "4a3b572c1b432c622eff59bd89faf947"
       ],
-      "last_run": "2026-06-13 18:17 UTC"
+      "last_run": "2026-06-13 18:31 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1687,7 +1700,7 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals\u00b7",
+        "Internals·",
         "Interpreter",
         "Is",
         "JIT",
@@ -1826,7 +1839,7 @@
         "inner",
         "internals",
         "internals:",
-        "internals\u00b7",
+        "internals·",
         "interpreter",
         "iter",
         "java",
@@ -1878,8 +1891,8 @@
         "weakrefs",
         "workings",
         "works",
-        "\u670d\u52a1\uff1a\u4ece",
-        "\u74f6\u9888\u5230\u96f6\u6210\u672c\u62bd\u8c61\u7684\u6027\u80fd\u8dc3\u8fc1-CS",
+        "服务：从",
+        "瓶颈到零成本抽象的性能跃迁-CS",
         "Apple",
         "Books",
         "Consultant",
@@ -1923,16 +1936,11 @@
         "703",
         "Removes",
         "free-threading",
-        "AI"
+        "AI",
+        "that",
+        "modern"
       ],
       "last_result_hashes": [
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "bcfa5ea01422b56da9160005ef3c8233",
-        "df4f248347cb5c6d552baa11f3cd6132",
-        "1dc503e2e338f4062a266c8bc6b47230",
-        "6f71b616baa7f25827be34729ef67aef",
-        "0e1bfc837529a36dd376cb6c1dc7b37c",
-        "407bd0317abbabf6be9ed20442246de1",
         "e5de457dfb901c53485a52be22a77e07",
         "b3593c9f59eca4f8b6263b3a3f35c76d",
         "9132d1ca01d195338d05eb556f7164be",
@@ -1945,10 +1953,17 @@
         "7f3458fd1c003f75f60b8a9029be5c4e",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "b75d972e229c2f01aa6e667eaa6d517b",
-        "4cd24649bb264af960eb0db466e7076c"
+        "4cd24649bb264af960eb0db466e7076c",
+        "beaef31893811bf93a7c49c5427531ec",
+        "671766e1efed3400391ae2514790f918",
+        "f973c5dd770de82858ac0417d5d9282f",
+        "993340ba10508d27975679f77e08cd57",
+        "d325664397744a25ea9e39183a49a374",
+        "087455b373dbe987da5078283f97a4cb",
+        "34b98abdd6bbd8dd5d7622c24cf994de"
       ],
-      "last_run": "2026-06-13 18:17 UTC"
+      "last_run": "2026-06-13 18:31 UTC"
     }
   },
-  "last_run": "2026-06-13 18:17 UTC"
+  "last_run": "2026-06-13 18:31 UTC"
 }

@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: type-systems
+
 - **2026-06-13 18:17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
 - **2026-06-13 18:17** | [Efficient Selection of Type Annotations for Performance... (Programming Journal)](https://programming-journal.org/2026/11/3/) | kw: Efficient
 - **2026-06-13 18:17** | [The ins and outs of gradual type inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/2103656.2103714) | kw: The
