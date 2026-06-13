@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system-design
+- **2026-06-13** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: system-design
+- **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system-design
+- **2026-06-13** | [Emerging Patterns for Building LLM-Based AI Agents](https://www.gartner.com/en/documents/6142159) | kw: system-design
+- **2026-06-13** | [Alethia — Prescriptive Intelligence Platform](http://alethiaintel.com/) | kw: system-design
+
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
 - **2026-06-13** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design) | kw: system-design
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queue](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design

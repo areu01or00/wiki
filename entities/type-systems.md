@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (journal)](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
+- **2026-06-13** | [Horizon Summary: 2026-06-04 (EN) - Elixir v1.20 brings gradual typing](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: type-systems
+- **2026-06-13** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems
+- **2026-06-13** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: type-systems
+
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type-systems
 - **2026-06-13** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems
 - **2026-06-13** | [Horizon Summary: 2026-06-04 (EN) - Horizon Daily](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: type-systems

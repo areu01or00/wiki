@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: algorithms
+- **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
+- **2026-06-13** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: algorithms
+- **2026-06-13** | [Best Websites to Practice DSA Mock Tests in (2026)](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests/) | kw: algorithms
+- **2026-06-13** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+
 - **2026-06-13** | [Top 30 Programming / Coding Interview Questions & Answers](https://www.softwaretestinghelp.com/coding-interview-questions/) | kw: algorithms
 - **2026-06-13** | [Google 2026 LeetCode Interview Preparation Guide · GitHub](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: algorithms
 - **2026-06-13** | [45 Common Coding Interview Questions - Forage](https://www.theforage.com/blog/interview-questions/coding-interview-questions) | kw: algorithms
