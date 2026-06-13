@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
+- **2026-06-13** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: system-design
+- **2026-06-13** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: system-design
+
 - **2026-06-13** | [Mastering Distributed Systems - Patterns and Principles 2026](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system design
 - **2026-06-13** | [Modern database management in distributed systems - Aerospike](https://aerospike.com/blog/modern-database-management-in-distributed-systems) | kw: system design
 - **2026-06-13** | [Distributed Systems Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system design

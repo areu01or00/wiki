@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python-internals
+- **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
+- **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-13** | [State of Python 2026 - The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: python-internals
+- **2026-06-13** | [Memory Management & GIL: Python Guide (2026) - Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
+
 - **2026-06-13** | [The GIL Is Finally Dead Free-Threaded Python Is Production](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: python internals
 - **2026-06-13** | [Python Internals Memory Management and the Global Interpreter Lock GIL eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals
 - **2026-06-13** | [How Python Works Under the Hood Memory GIL and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python internals
