@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: System Design Patterns: The Complete
+- **2026-06-13** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: Distributed Systems Patterns Every Backend
+- **2026-06-13** | [Distributed Systems: Concepts and Design: Coulouris, George](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011) | kw: Distributed Systems: Concepts and Design:
+- **2026-06-13** | [Senior Backend Engineer - Zerion](http://jobs.lever.co/zerion/5d6221ab-30f7-4820-b2bf-5ea1c4bf10d0) | kw: Senior Backend Engineer - Zerion
+- **2026-06-13** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: Architecture Styles in Distributed Systems
+
 - **2026-06-13** | [Mastering Distributed Systems - Patterns and Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems, Patterns, Principles
 - **2026-06-13** | [System Design Series Part 3: Load Balancing and Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series, Part, Load
 - **2026-06-13** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best, Practices
