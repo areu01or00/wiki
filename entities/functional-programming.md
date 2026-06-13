@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Functional programming in Rust with immutability, pure funct
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: Learning monads through Rust's Option and Result types.
+- **2026-06-13** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads are omnipresent in Rust.
+- **2026-06-13** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Understanding monads can significantly improve your Rust pro
+- **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell guide for 2026: why pure functional programming matt
+- **2026-06-13** | [Latest Monad News - (MON) Future Outlook, Trends and Market Insights](http://coinmarketcap.com/cmc-ai/monad/latest-updates) | kw: Latest Monad cryptocurrency news.
+
 - **2026-06-13** | [Monads and GATs in nightly Rust : r/haskell - Reddit](https://www.reddit.com/r/haskell/comments/k88iei/monads_and_gats_in_nightly_rust/) | kw: Monads, GATs, Rust
 
 - **2026-06-13** | [Bean Exchange](http://spot.bean.exchange/) | kw: functional-programming

@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python type system concepts: static, dynamic, and gradual ty
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement](https://programming-journal.org/2026/11/3/) | kw: New technique to select a subset of type annotations for imp
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Type inference and gradual typing removed almost all of the 
+- **2026-06-13** | [[2603.05649] Efficient Selection of Type Annotations for Performance](https://arxiv.org/abs/2603.05649) | kw: New technique to select a subset of type annotations for imp
+
 - **2026-06-13** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
 - **2026-06-13** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, System, Concepts
 

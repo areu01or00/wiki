@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [The Complete System Design Roadmap for 2026](https://designgurus.substack.com/p/the-complete-system-design-roadmap) | kw: System design is one of the broadest subjects in software en
+- **2026-06-13** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: A deeper shift is underway in distributed systems in 2026.
+- **2026-06-13** | [Distributed Systems Patterns Every Backend Engineer Must Know 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Every significant backend application runs as a distributed 
+- **2026-06-13** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: Service-Oriented Architecture (SOA) is a design paradigm in 
+
 - **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Patterns
 
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design

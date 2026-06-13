@@ -2,124 +2,145 @@
 import hashlib
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
-# All search results from the 2 batches
-all_results = {
+now = datetime.now(timezone.utc)
+timestamp = now.strftime('%Y-%m-%d %H:%M UTC')
+date_str = now.strftime('%Y-%m-%d')
+
+# Load watch profiles
+with open('watch_profiles.json', 'r') as f:
+    profiles_data = json.load(f)
+
+# All search results organized by profile
+search_results = {
     "system-design": [
-        {"title": "Cloud-Native Architecture for 2026: Microservices, Serverless, and Beyond", "url": "https://www.elightwalk.com/blog/cloud-native-architecture"},
-        {"title": "Cloud Native Architecture in 2026: 8 Trends, Tools, and Implementation Guide", "url": "https://www.decipherzone.com/blog-detail/cloud-native-architecture-trends"},
-        {"title": "Cloud-Native Operating System Guide: The Future of Distributed Infrastructure", "url": "https://netalith.com/blogs/operating-systems/cloud-native-operating-systems-distributed-infrastructure-2026"},
-        {"title": "Cloud Native Architecture | Kubernetes & Serverless 2026", "url": "https://gegosoft.com/cloud-native-architecture"},
-        {"title": "The Coming Paradigm Shift in Distributed Systems Architecture", "url": "https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture"},
+        {"title": "Distributed Systems | Architecture Patterns \u00b7 GitScrum Docs", "url": "https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns", "description": "Master distributed systems design with scalability patterns and consensus algorithms."},
+        {"title": "The Complete System Design Roadmap for 2026", "url": "https://designgurus.substack.com/p/the-complete-system-design-roadmap", "description": "System design is one of the broadest subjects in software engineering."},
+        {"title": "System Architecture Design: The Complete Guide 2026", "url": "https://www.systemdesignhandbook.com/guides/system-architecture-design/", "description": "This guide focuses on system architecture design as a practical skill."},
+        {"title": "System Design Guide 2026 - Scalable Architecture Patterns", "url": "https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf", "description": "Master scalable architecture patterns: API Gateway, Rate Limiter, Load Balancer, Caching, CQRS."},
+        {"title": "Three Bold Predictions for Distributed Systems in 2026", "url": "https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026", "description": "A deeper shift is underway in distributed systems in 2026."},
+        {"title": "Distributed Systems Patterns Every Backend Engineer Must Know 2026", "url": "https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/", "description": "Every significant backend application runs as a distributed system in 2026."},
+        {"title": "Architecture Styles in Distributed Systems - GeeksforGeeks", "url": "https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/", "description": "Service-Oriented Architecture (SOA) is a design paradigm in distributed systems."},
     ],
     "compilers": [
-        {"title": "Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...", "url": "https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en"},
-        {"title": "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub", "url": "https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst"},
-        {"title": "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...", "url": "https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst"},
-        {"title": "Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox", "url": "https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html"},
-        {"title": "The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome", "url": "https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22"},
+        {"title": "Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, Turbofan, Maglev", "url": "https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en", "description": "LLVM's dominance, V8's 4-tier JIT, Hidden Classes and Inline Caching."},
+        {"title": "Just-In-Time (JIT) Compiler with LLVM - Create Your Own Language", "url": "https://createlang.rs/01_calculator/jit_intro.html", "description": "JIT compilation is a combination of Ahead-Of-Time compilation and interpretation."},
+        {"title": "JIT Compilation | microsoft/llvm | DeepWiki", "url": "https://deepwiki.com/microsoft/llvm/4-jit-compilation", "description": "This document explains LLVM's ORC JIT compilation framework."},
+        {"title": "Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026", "url": "https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html", "description": "Perry compiles TypeScript straight to native machine code through LLVM."},
+        {"title": "LLVM Implementation for Java JIT Compilers: A Deep Dive", "url": "https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec", "description": "Exploring how LLVM can be integrated with Java's JIT compilation process."},
+        {"title": "Session Details: 2026 European LLVM Developers' Meeting", "url": "https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks", "description": "LLVM JIT - Upcoming Challenges and Opportunities by Lang Hames."},
+        {"title": "Resume - Sanjoy Das", "url": "http://playingwithpointers.com/resume.html", "description": "Sanjoy Das - Software Engineer at Google, LLVM contributor."},
     ],
     "type-systems": [
-        {"title": "Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog", "url": "https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix"},
-        {"title": "Efficient Selection of Type Annotations for Performance ...", "url": "https://programming-journal.org/2026/11/3/"},
-        {"title": "Gradual Typing in Type Theory - numberanalytics.com", "url": "https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory"},
-        {"title": "Type system concepts — typing documentation", "url": "https://typing.python.org/en/latest/spec/concepts.html"},
-        {"title": "Typed and Confused: Studying the Unexpected Dangers of ...", "url": "https://www.staicu.org/publications/ase2024.pdf"},
+        {"title": "Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix", "url": "https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix", "description": "The lines between traditional language classifications are blurring in 2026."},
+        {"title": "Type system concepts - typing documentation", "url": "https://typing.python.org/en/latest/spec/concepts.html", "description": "Python type system concepts: static, dynamic, and gradual typing."},
+        {"title": "Gradual Typing in Type Theory", "url": "https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory", "description": "Type inference is the process of automatically inferring the types of expressions."},
+        {"title": "Efficient Selection of Type Annotations for Performance Improvement", "url": "https://programming-journal.org/2026/11/3/", "description": "New technique to select a subset of type annotations for improving execution performance."},
+        {"title": "The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026", "url": "https://braindetox.kr/en/posts/static_typing_rise_2026.html", "description": "Type inference and gradual typing removed almost all of the friction."},
+        {"title": "Compiling Gradual Types with Evidence", "url": "https://scixplorer.org/abs/2025arXiv251222684R/abstract", "description": "Evidence-based compiler called GrEv for gradual typing."},
+        {"title": "[2603.05649] Efficient Selection of Type Annotations for Performance", "url": "https://arxiv.org/abs/2603.05649", "description": "New technique to select a subset of type annotations for improving execution performance of gradually typed programs."},
     ],
     "functional-programming": [
-        {"title": "A Gentle Introduction to Haskell: About Monads", "url": "https://www.haskell.org/tutorial/monads.html"},
-        {"title": "Making Sense of Monads - Monday Morning Haskell", "url": "https://academy.mondaymorninghaskell.com/p/making-sense-of-monads"},
-        {"title": "Nauths · Practical uses of monads in Haskell", "url": "https://nauths.fr/en/2026/05/28/practical-use-of-monads.html"},
-        {"title": "Haskell - Monads - Online Tutorials Library", "url": "https://www.tutorialspoint.com/haskell/haskell_monads.htm"},
-        {"title": "Monads Tutorial — Monday Morning Haskell", "url": "https://mmhaskell.com/monads/tutorial"},
+        {"title": "Does Rust Support Functional Programming Idioms? Exploring", "url": "https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/", "description": "Functional programming in Rust with immutability, pure functions, and declarative composition."},
+        {"title": "How I Learned Monads: Not Through Haskell But Through Rust", "url": "https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust", "description": "Learning monads through Rust's Option and Result types."},
+        {"title": "Monads are Omnipresent in Rust", "url": "https://www.bertiqwerty.com/en/posts/monad", "description": "Monads are omnipresent in Rust."},
+        {"title": "Functional Programming in 2026: Haskell vs. Gleam vs. Rust", "url": "https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust", "description": "The era of Functional Programming as a monolithic discipline is over."},
+        {"title": "Monads and Monad-Like Patterns in Rust: Exploring Functional", "url": "https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/", "description": "Understanding monads can significantly improve your Rust programming skills."},
+        {"title": "Haskell Guide [2026]: Functional Programming That Changes How", "url": "https://precisionaiacademy.com/blog/haskell-guide-2026", "description": "Haskell guide for 2026: why pure functional programming matters."},
+        {"title": "Latest Monad News - (MON) Future Outlook, Trends and Market Insights", "url": "http://coinmarketcap.com/cmc-ai/monad/latest-updates", "description": "Latest Monad cryptocurrency news."},
     ],
     "algorithms": [
-        {"title": "Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook", "url": "https://www.techinterviewhandbook.org/algorithms/study-cheatsheet"},
-        {"title": "How to Prepare for a Coding Interview: The Complete LeetCode ...", "url": "https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan"},
-        {"title": "Data Structures & Algorithms Roadmap 2026 - Complete Learning ...", "url": "https://www.thetutorbridge.com/roadmap/dsa"},
-        {"title": "NeetCode | Coding Interview Prep, Courses, Versus Mode", "url": "https://neetcode.io/"},
-        {"title": "Top 100 DSA Interview Questions - Discuss - LeetCode", "url": "https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions"},
+        {"title": "Top 100 LeetCode Coding Interview Questions (2025 Edition)", "url": "https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29", "description": "A fully updated 2025 list of the Top 100 LeetCode coding interview questions."},
+        {"title": "LeetCode Questions Asked in Google 2026", "url": "https://papersadda.com/article/leetcode-questions-google-2026", "description": "Knowing which LeetCode problems actually appear in Google interviews saves months."},
+        {"title": "LeetCode Interview Questions: Top Patterns by Company (2026)", "url": "https://interviewpilot.dev/blog/leetcode-interview-questions", "description": "The most frequently asked LeetCode interview questions at Google, Amazon, Meta, and Microsoft."},
+        {"title": "Coding Interview Prep 2026: LeetCode Strategy That Works", "url": "https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026", "description": "How to ace coding interviews in 2026 - LeetCode strategy, data structures, algorithm patterns."},
+        {"title": "Best DSA Sheet 2026 | To Crack Interviews - namastedev.com", "url": "https://namastedev.com/namaste-dsa-sheet", "description": "Master Data Structures and Algorithms with curated questions."},
+        {"title": "Google Interview Questions | Interview Solver", "url": "https://interviewsolver.com/interview-questions/google", "description": "Google commonly asks 100 coding problems in technical interviews."},
+        {"title": "Explore - LeetCode", "url": "https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms", "description": "Common patterns and tricks related to data structures and algorithms."},
+        {"title": "NeetCode | Coding Interview Prep", "url": "https://neetcode.io/", "description": "Tech interview roadmaps trusted by engineers at Google, Meta, OpenAI."},
     ],
     "python-internals": [
-        {"title": "Exploring Python: Internals and Optimization", "url": "https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features"},
-        {"title": "Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya", "url": "https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil"},
-        {"title": "CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar", "url": "https://www.abhik.ai/articles/cpython-internals"},
-        {"title": "Python 3.14 Free-Threading and Experimental JIT: How Python ...", "url": "https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026"},
-        {"title": "The Python GIL Controversy: Why Multi-Core Parallelism ...", "url": "https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html"},
+        {"title": "The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026", "url": "https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready", "description": "Python 3.14 free-threaded build is production-ready. 10x CPU speedups."},
+        {"title": "How Python Works Under the Hood: Memory, GIL, and Bytecode", "url": "https://www.pythoncompiler.io/python/python-internals", "description": "Python creates an integer object in memory, assigns a reference to it."},
+        {"title": "Under the Hood of Python: Internals, Optimization, and Modern Features", "url": "https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features", "description": "Understand Python internals: Cyclic Garbage Collection, __slots__ for memory savings."},
+        {"title": "Python GIL: The Key to Backend Performance", "url": "https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/", "description": "The nature of the Global Interpreter Lock and its impact on concurrency."},
+        {"title": "Python Internals: Memory Management and the Global Interpreter Lock (GIL)", "url": "https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil", "description": "How Python works behind the scenes to manage memory and execute code efficiently."},
+        {"title": "Memory Management and GIL: Python Guide (2026) | Edugators", "url": "https://www.edugators.com/python/advanced/python-memory-gil", "description": "Learn Memory Management and GIL in our Python course."},
+        {"title": "The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken", "url": "https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html", "description": "The GIL controversy and why multi-core parallelism remains broken."},
+        {"title": "The Inner Workings of Python: Beyond the Surface", "url": "https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732", "description": "A deep technical look at Python internals - bytecode, eval loop, memory management, the GIL."},
     ],
 }
 
-# Load existing profiles
-with open('/home/hermes/wiki/watch_profiles.json', 'r') as f:
-    profiles_data = json.load(f)
+def compute_hash(title, url):
+    return hashlib.md5(f"{title}{url}".encode('utf-8', errors='replace')).hexdigest()
 
-# Map profile name to wiki_page
-profile_to_wiki = {}
-for name, prof in profiles_data['profiles'].items():
-    profile_to_wiki[name] = prof['wiki_page']
+results_by_wiki_page = {}
+new_hashes_by_profile = {}
+digest_entries = {}
 
-# Compute hashes and deduplicate
-new_results_by_profile = {}
-all_hashes = {}  # profile -> list of new hashes
-for profile_name, results in all_results.items():
-    existing_hashes = set(profiles_data['profiles'][profile_name].get('last_result_hashes', []))
-    wiki_page = profile_to_wiki[profile_name]
-    all_hashes[profile_name] = []
+for profile_name, results in search_results.items():
+    profile = profiles_data['profiles'][profile_name]
+    wiki_page = profile['wiki_page']
+    existing_hashes = set(profile.get('last_result_hashes', []))
+    
+    new_results = []
+    new_hashes = []
     
     for r in results:
-        title = r['title']
-        url = r['url']
-        h = hashlib.md5(f"{title}{url}".encode('utf-8', errors='replace')).hexdigest()
-        
+        h = compute_hash(r['title'], r['url'])
         if h not in existing_hashes:
-            if profile_name not in new_results_by_profile:
-                new_results_by_profile[profile_name] = []
-            new_results_by_profile[profile_name].append({
-                'title': title,
-                'url': url,
-                'hash': h,
-                'wiki_page': wiki_page,
-            })
-            all_hashes[profile_name].append(h)
+            new_results.append(r)
+            new_hashes.append(h)
+    
+    if wiki_page not in results_by_wiki_page:
+        results_by_wiki_page[wiki_page] = []
+    
+    for r in new_results:
+        h = compute_hash(r['title'], r['url'])
+        entry = f'- **{date_str}** | [{r["title"]}]({r["url"]}) | kw: {r["description"][:60]}'
+        results_by_wiki_page[wiki_page].append({
+            'entry': entry,
+            'hash': h,
+            'title': r['title'],
+            'url': r['url'],
+        })
+    
+    new_hashes_by_profile[profile_name] = new_hashes
+    digest_entries[profile_name] = new_results
 
-# Extract keywords from title
-def extract_keywords(title):
-    stop = {'the','a','an','in','on','for','to','and','or','of','is','it','that','with','from','by','at','as','how','what','why','which','are','be','this','has','have'}
-    words = []
-    for w in title.replace(':','').replace(',','').replace('.','').replace('-',' ').replace('|',' ').replace('—',' ').split():
-        if w.lower() not in stop and len(w) > 1 and not w.startswith('('):
-            words.append(w)
-    return words[:3]
+# Save temp results
+temp_path = f'/home/hermes/wiki/temp/watch_run_{now.strftime("%Y%m%d_%H%M%S")}.json'
+os.makedirs(os.path.dirname(temp_path), exist_ok=True)
+with open(temp_path, 'w') as f:
+    json.dump({
+        'timestamp': timestamp,
+        'results_by_wiki_page': {k: [r['entry'] for r in v] for k, v in results_by_wiki_page.items()},
+        'new_hashes_by_profile': new_hashes_by_profile,
+    }, f, indent=2)
 
-# Generate date
-today = datetime.utcnow().strftime('%Y-%m-%d')
-now_utc = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+print(f"Temp saved: {temp_path}")
+print(f"New results per profile:")
+for pname, entries in digest_entries.items():
+    print(f"  {pname}: {len(entries)} new")
+print(f"Wiki pages to update: {list(results_by_wiki_page.keys())}")
+for wp, items in results_by_wiki_page.items():
+    print(f"  {wp}: {len(items)} entries")
 
-# Group by wiki_page
-updates_by_wiki_page = {}
-for profile_name, results in new_results_by_profile.items():
-    for r in results:
-        wp = r['wiki_page']
-        if wp not in updates_by_wiki_page:
-            updates_by_wiki_page[wp] = []
-        updates_by_wiki_page[wp].append(r)
-
-# === STEP 5: Update wiki pages ===
-wiki_dir = '/home/hermes/wiki/entities'
-
-for wiki_page, entries in updates_by_wiki_page.items():
-    filepath = os.path.join(wiki_dir, wiki_page)
-    if not os.path.exists(filepath):
-        print(f"WARNING: Wiki page {filepath} does not exist, skipping")
+# Now update wiki pages using Python I/O
+for wiki_page, items in results_by_wiki_page.items():
+    if not items:
+        continue
+    wiki_path = f'/home/hermes/wiki/entities/{wiki_page}'
+    if not os.path.exists(wiki_path):
+        print(f"  WARNING: {wiki_path} does not exist, skipping")
         continue
     
-    with open(filepath, 'r') as f:
+    with open(wiki_path, 'r') as f:
         content = f.read()
-    
     lines = content.split('\n')
     
-    # Find ## Updates section and insert after it
+    # Find FIRST ## Updates and insert after it
     insert_after = None
     for i, line in enumerate(lines):
         if line.strip() == '## Updates':
@@ -127,56 +148,78 @@ for wiki_page, entries in updates_by_wiki_page.items():
             break
     
     if insert_after is None:
-        # If no ## Updates section, append at end
-        insert_after = len(lines)
-        lines.append('')
-        lines.append('## Updates')
-        lines.append('')
-        insert_after = len(lines)
+        print(f"  WARNING: No '## Updates' found in {wiki_page}")
+        continue
     
-    # Build new entry lines
-    new_lines = []
-    seen_titles = set()
-    for e in entries:
-        if e['title'] in seen_titles:
-            continue
-        seen_titles.add(e['title'])
-        kws = extract_keywords(e['title'])
-        kw_str = ', '.join(kws) if kws else e['title'].split()[0]
-        new_lines.append(f"- **{today}** | [{e['title']}]({e['url']}) | kw: {kw_str}")
+    new_entries = [item['entry'] for item in items]
+    lines = lines[:insert_after] + new_entries + [''] + lines[insert_after:]
     
-    if new_lines:
-        lines = lines[:insert_after] + new_lines + [''] + lines[insert_after:]
-        
-        with open(filepath, 'w') as f:
-            f.write('\n'.join(lines))
-        print(f"Updated {wiki_page} with {len(new_lines)} entries")
+    with open(wiki_path, 'w') as f:
+        f.write('\n'.join(lines))
+    print(f"  Updated {wiki_page}: {len(new_entries)} entries")
 
-# === STEP 6: Update watch_profiles.json ===
-for profile_name, hashes_list in all_hashes.items():
-    if hashes_list:
-        prof = profiles_data['profiles'][profile_name]
-        existing = prof.get('last_result_hashes', [])
-        existing.extend(hashes_list)
-        prof['last_result_hashes'] = existing[-20:]  # Keep max 20
-        prof['last_run'] = now_utc
+# Update watch_profiles.json
+for profile_name, hashes in new_hashes_by_profile.items():
+    profile = profiles_data['profiles'][profile_name]
+    existing = profile.get('last_result_hashes', [])
+    updated = existing + hashes
+    profile['last_result_hashes'] = updated[-20:]  # Keep max 20
+    profile['last_run'] = timestamp
 
-profiles_data['last_run'] = now_utc
+profiles_data['last_run'] = timestamp
 
-with open('/home/hermes/wiki/watch_profiles.json', 'w') as f:
+with open('watch_profiles.json', 'w') as f:
     json.dump(profiles_data, f, indent=2)
+print("Updated watch_profiles.json")
 
-print(f"\nUpdated watch_profiles.json")
+# Generate digest
+total_new = sum(len(v) for v in digest_entries.values())
+digest_lines = [f"## \U0001f504 Wiki Watch Digest \u2014 {timestamp}", f"Checked: {len(search_results)} profiles", ""]
 
-# === Print summary ===
-print(f"\n--- SUMMARY ---")
-print(f"Total profiles checked: {len(all_results)}")
-total_new = 0
-for profile_name, results in new_results_by_profile.items():
-    count = len(results)
-    total_new += count
-    print(f"  {profile_name}: {count} new results -> {profile_to_wiki[profile_name]}")
-    for r in results:
-        print(f"    - {r['title'][:80]}")
-print(f"Total new entries: {total_new}")
-print(f"Date: {now_utc}")
+topic_names = {
+    "system-design": "\U0001f3d7\ufe0f System Design & Distributed Systems",
+    "compilers": "\U0001f4bb Compilers, LLVM & JIT",
+    "type-systems": "\U0001f522 Type Systems & Gradual Typing",
+    "functional-programming": "\U0001f9db Functional Programming & Monads",
+    "algorithms": "\U0001f9ee Algorithms & Interview Prep",
+    "python-internals": "\U0001f40d Python Internals, GIL & Memory",
+}
+
+for pname, entries in digest_entries.items():
+    if not entries:
+        continue
+    digest_lines.append(f"### {topic_names.get(pname, pname)}")
+    digest_lines.append(f"New: {len(entries)} results")
+    for e in entries:
+        digest_lines.append(f"- [{e['title']}]({e['url']})")
+    # Discover sub-topics
+    new_topics = set()
+    for e in entries:
+        desc = e['description'].lower()
+        if 'perry' in desc or 'perry' in e['title'].lower():
+            new_topics.add('Perry TypeScript Compiler')
+        if 'graceful degradation' in desc or 'graceful' in desc:
+            new_topics.add('Graceful Degradation')
+        if 'monad' in e['title'].lower():
+            new_topics.add('Monads')
+        if 'gleam' in e['title'].lower():
+            new_topics.add('Gleam Language')
+        if 'neetcode' in e['title'].lower():
+            new_topics.add('NeetCode')
+        if 'gil' in e['title'].lower() and 'free-thread' in desc.lower():
+            new_topics.add('Free-Threaded Python')
+        if 'rust' in e['title'].lower() and 'monad' in e['title'].lower():
+            new_topics.add('Rust Monads')
+    if new_topics:
+        digest_lines.append(f"Sub-topics: {', '.join(sorted(new_topics))}")
+    digest_lines.append("---")
+    digest_lines.append("")
+
+digest = '\n'.join(digest_lines)
+print("\n=== DIGEST ===")
+print(digest)
+print("=== END DIGEST ===")
+
+# Save digest for delivery
+with open('/home/hermes/wiki/temp/latest_digest.txt', 'w') as f:
+    f.write(digest)
