@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Graph cheatsheet for coding interviews Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/graph) | kw: Graph, cheatsheet, coding, interviews
+- **2026-06-13** | [Best DSA Sheet 2026 To Crack Interviews namastedev](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet, 2026
+- **2026-06-13** | [Data Structures Algorithms Roadmap 2026 thetutorbridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap
+- **2026-06-13** | [Coding Interview Prep 2026 LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding, Interview, Prep, 2026
+- **2026-06-13** | [NeetCode Coding Interview Prep](https://neetcode.io/) | kw: NeetCode, Coding, Interview, Prep
+- **2026-06-13** | [Algorithms Data Structures LeetCode Preparation ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures, LeetCode
+- **2026-06-13** | [Data Structures Interview Questions Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview, Questions
+- **2026-06-13** | [How to Prepare for Coding Interview Complete LeetCode Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How, Prepare, Coding, Interview
+- **2026-06-13** | [Graph Problems YouTube](https://www.youtube.com/playlist?list=PLot-Xpze53ldBT_7QA8NVot219jFNr_GI) | kw: Graph, Problems, YouTube
+- **2026-06-13** | [How to prepare for DSA interview in 2026 YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How, prepare, DSA, interview
+
 - **2026-06-13** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview
 - **2026-06-13** | [AlgoMaster.io — Master Software Engineering Interviews](https://algomaster.io/) | kw: AlgoMasterio, Master, Software
 - **2026-06-13** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, Coding, Interview

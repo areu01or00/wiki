@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [A Gentle Introduction to Haskell About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Gentle, Introduction, Haskell, About
+- **2026-06-13** | [Monads Tutorial Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday, Morning
+- **2026-06-13** | [Posts The Monad Cat](http://monad.cat/pages/posts.html) | kw: Posts, Monad, Cat
+- **2026-06-13** | [Functional Programming in 2026 Haskell vs Gleam vs Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026, Haskell
+- **2026-06-13** | [Making Sense of Monads Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Making, Sense, Monads, Monday
+- **2026-06-13** | [Haskell Monads Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Monads, Online, Tutorials
+- **2026-06-13** | [Functional programming collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials/) | kw: Functional, programming, collection, good
+- **2026-06-13** | [Practical uses of monads in Haskell vuink](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, monads, Haskell
+- **2026-06-13** | [Nauths Practical uses of monads in Haskell](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: Nauths, Practical, uses, monads
+- **2026-06-13** | [The Practical Value of Functional Programming Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional, Programming
+
 - **2026-06-13** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Gentle, Introduction, Haskell
 - **2026-06-13** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday
 - **2026-06-13** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Monads, Online
