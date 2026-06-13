@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Python 新版本去GIL刷屏，Karpathy 点赞敢死队，Python 之父：冷静，别神话并发](https://www.infoq.cn/article/efxy5ldeyr8drjjagllg) | kw: Python, 新版本去GIL刷屏，Karpathy, 点赞敢死队，Python
+
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals
 - **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, GIL
 - **2026-06-13** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL, Key
