@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Python:, Internals
+- **2026-06-13** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python, Memory, Profiling
+- **2026-06-13** | [Understanding Python's Garbage Collection and Memory Optimization](https://dev.to/pragativerma18/understanding-pythons-garbage-collection-and-memory-optimization-4mi2) | kw: Understanding, Python's, Garbage
+
 - **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Python, Works, Under
 - **2026-06-13** | [Memory Management in Python: A Comprehensive Guide](https://dev.to/adityabhuyan/memory-management-in-python-a-comprehensive-guide-4obg) | kw: Memory, Management, Python:
 - **2026-06-13** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, Hood, Python:
