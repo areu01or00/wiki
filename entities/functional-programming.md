@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does
+- **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads
+- **2026-06-13** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify
+- **2026-06-13** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/pdf/2604.15290) | kw: Pure
+
 - **2026-06-13** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional Programming at Its Finest
 - **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads are Omnipresent in Rust - bertiqwerty
 - **2026-06-13** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt/) | kw: Demystifying monads in Rust through property-based

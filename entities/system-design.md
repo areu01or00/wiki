@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Microservices Architecture in 2026: Building Scalable ...](https://scga.hk/blog/microservices-architecture-2026) | kw: Microservices
+- **2026-06-13** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: Predicting
+- **2026-06-13** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: System
+- **2026-06-13** | [Predicting the Future of Distributed Systems - Craft Conference - 2025](https://craft-conf.com/2025/talk/colin-breck) | kw: Predicting
+
 - **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering Distributed Systems
 - **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture P
 - **2026-06-13** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Distributed Systems

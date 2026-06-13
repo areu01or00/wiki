@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
+- **2026-06-13** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/10.1145/3632931) | kw: Type-Based
+- **2026-06-13** | [2026 10 Things That Matter in AI Right Now | MIT Technology ...](https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/) | kw: 2026
+- **2026-06-13** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: Design
+- **2026-06-13** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual
+- **2026-06-13** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives | NSF Public Access Repository](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual
+- **2026-06-13** | [Toward a Corpus Study of the Dynamic Gradual Type - arXiv.org](https://arxiv.org/html/2503.08928) | kw: Toward
+
 - **2026-06-13** | [A Strategic Guide to Gradual Typing in Python | by Tihomir Manushev](https://medium.com/@tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: A Strategic Guide to Gradual Typing in Python
 - **2026-06-13** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual Typing for Functional Languages
 

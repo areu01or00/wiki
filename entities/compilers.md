@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJ
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJ
 - **2026-06-13** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: Resume - Sanjoy Das
