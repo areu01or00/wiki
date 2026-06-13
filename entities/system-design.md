@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: system-design
+- **2026-06-13** | [Next-Generation Hardware Roadmap 2026: Architectural Shifts](https://blog.progressiverobot.com/upcoming-hardware-launches-2026-updated-apr-2026) | kw: system-design
+- **2026-06-13** | [Top 6 Enterprise Architecture Trends for 2026 and Beyond](https://www.acldigital.com/blogs/top-6-enterprise-architecture-trends-shaping-2026-and-beyond) | kw: system-design
+- **2026-06-13** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system-design
+- **2026-06-13** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: system-design
+- **2026-06-13** | [AI Architectures in 2026: Components, Patterns, and Practical Code](https://medium.com/@angelosorte1/ai-architectures-in-2026-components-patterns-and-practical-code-1df838dab854) | kw: system-design
+
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queue...](https://onlinetools4free.com/research/system-design-guide-2026)
 - **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Desig...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design)
 
