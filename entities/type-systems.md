@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, as, if, Types
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, the, 2026, Language, Landscape:
+- **2026-06-13** | [Gradual Typing Performance, Micro Configurations and Macro ...](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual, Typing, Performance,, Micro, Configurations
+- **2026-06-13** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN ...](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: Staged, Gradual, Typing, -, Proceedings
+
 - **2026-06-13** | [The Mechanics of Gradual Typing and Hybrid Systems](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: Mechanics, Gradual, Typing
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type

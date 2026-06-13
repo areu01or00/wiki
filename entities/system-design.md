@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series, Part, 3:
+- **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The, Coming, Paradigm, Shift, in
+- **2026-06-13** | [Most-Used Distributed System Design Patterns | by Anil Gudigar](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33) | kw: Most-Used, Distributed, System, Design, Patterns
+- **2026-06-13** | [Distributed System Design: the complete guide to building](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design:, the, complete
+- **2026-06-13** | [System Design & Architecture (Part-I): Distributed Systems Essentials](https://medium.com/%400s.and.1s/system-design-architecture-part-i-distributed-systems-essentials-93ec785c0ae7) | kw: System, Design, &, Architecture, (Part-I):
+
 - **2026-06-13** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design:
 - **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns
 

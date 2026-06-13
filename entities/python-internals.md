@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, &, GIL:, Python
+- **2026-06-13** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: State, of, Python, 2026, -
+- **2026-06-13** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL:, The, Key, to
+- **2026-06-13** | [Memory Management — Python 3.14.5 documentation](https://docs.python.org/3/c-api/memory.html) | kw: Memory, Management, —, Python, 3.14.5
+
 - **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's, Gone, What
 - **2026-06-13** | [The Inner Workings of Python: Beyond the Surface | by More Than Monkeys](https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732) | kw: Inner, Workings, Python:
 

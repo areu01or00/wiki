@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, in, 2026:, Haskell
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: How, I, Learned, Monads:, Not
+- **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, [2026]:, Functional, Programming
+- **2026-06-13** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify, —, Rust, utility, //
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How, I, Learned, Monads:, Not
+- **2026-06-13** | [GitHub · Where software is built](http://github.com/orgs/Altinn/followers) | kw: GitHub, ·, Where, software, is
+- **2026-06-13** | [What is a monad? And who needs Haskell anyway? - The Rust ...](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: What, is, a, monad?, And
+
 - **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads, Omnipresent, Rust
 - **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, [2026]:
 - **2026-06-13** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://dl.acm.org/doi/abs/10.1145/3808259?download=true) | kw: Pure, Borrow:, Linear
