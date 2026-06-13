@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual, Typing, Performance
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-13** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing) | kw: Gradual, Typing, ITU
+- **2026-06-13** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: Staged, Gradual, Typing
+
 - **2026-06-13** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: type-systems
 
 - **2026-06-13 18:17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient

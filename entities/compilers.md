@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [Python JIT Compiler in 2026 — How Fast Is It Really?](https://www.pyblog.in/programming/inorder-traversal-of-binary-tree-in-python) | kw: Python, JIT, Compiler
+- **2026-06-13** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: Compiler, Optimization, Revolution
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT
+- **2026-06-13** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry, Native, TypeScript
+- **2026-06-13** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: Resume, Sanjoy, Das
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst (chekalexey)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT
+- **2026-06-13** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM, Wikipedia
+
 - **2026-06-13** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: compilers
 - **2026-06-13** | [Python's JIT Compiler in 2026 — How Fast Is It Really?](https://www.pyblog.in/programming/inorder-traversal-of-binary-tree-in-python) | kw: compilers
 - **2026-06-13** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: compilers
