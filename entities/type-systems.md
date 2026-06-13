@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13 04:16 UTC** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: numberanalytics.com, numberanalytics.com, numberanalytics.com
+- **2026-06-13 04:16 UTC** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders - Unosquare](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing) | kw: Unosquare, Unosquare, Unosquare
+- **2026-06-13 04:16 UTC** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: documentation, documentation, documentation
+- **2026-06-13 04:16 UTC** | [TypeScript's Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: Basics, Basics, Basics
+- **2026-06-13 04:16 UTC** | [Top 10 Typography Trends for 2026: The Year of Type - Fontfabric](https://www.fontfabric.com/blog/top-typography-trends-for-2026) | kw: Fontfabric, Fontfabric, Fontfabric
+- **2026-06-13 04:16 UTC** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: BrainDetox, BrainDetox, BrainDetox
+
 - **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: The lines between traditional language classifications are b
 - **2026-06-13** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: The lines are blurring with the rise of sophisticated type i
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (arXiv)](https://arxiv.org/abs/2603.05649) | kw: Gradual typing has gained popularity as a design choice for 

@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13 04:16 UTC** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: namastedev.com, namastedev.com, namastedev.com
+- **2026-06-13 04:16 UTC** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: ..., ..., ...
+- **2026-06-13 04:16 UTC** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: Preparation, Preparation, Preparation
+- **2026-06-13 04:16 UTC** | [Data Structures and Algorithms for Coding Interview ...](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview) | kw: ..., ..., ...
+- **2026-06-13 04:16 UTC** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: LeetCode, LeetCode, LeetCode
+- **2026-06-13 04:16 UTC** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Interviews, Interviews, Interviews
+
 - **2026-06-13** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: AI-fluency questions are now a real thing in interviews
 - **2026-06-13** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: Master data structures and algorithms with comprehensive 202
 - **2026-06-13** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Free study plan for coding interviews

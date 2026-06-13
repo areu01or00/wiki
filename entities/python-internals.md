@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13 04:16 UTC** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: eVidhya, eVidhya, eVidhya
+- **2026-06-13 04:16 UTC** | [Python Memory Management](https://pythonguides.com/python-object-memory-management/) | kw: Management, Management, Management
+- **2026-06-13 04:16 UTC** | [Python In-Depth — Memory Management in Python (GIL and Profiling)](https://medium.com/@arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Profiling, Profiling, Profiling
+- **2026-06-13 04:16 UTC** | [Python Memory Management Internals | by Majidbasharat](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Majidbasharat, Majidbasharat, Majidbasharat
+- **2026-06-13 04:16 UTC** | [Understanding Python's Garbage Collection and Memory Optimization - DEV Community](https://dev.to/pragativerma18/understanding-pythons-garbage-collection-and-memory-optimization-4mi2) | kw: Community, Community, Community
+- **2026-06-13 04:16 UTC** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: GitHub, GitHub, GitHub
+- **2026-06-13 04:16 UTC** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: Python, Python, Python
+
 - **2026-06-13** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Python internals: Cyclic Garbage Collection, __slots__ for m
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: This topic explains how Python works behind the scenes
 - **2026-06-13** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: This architectural choice has sparked countless debates

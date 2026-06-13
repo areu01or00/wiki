@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-13 04:16 UTC** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Architecture, Architecture, Architecture
+- **2026-06-13 04:16 UTC** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: tutorialQ, tutorialQ, tutorialQ
+- **2026-06-13 04:16 UTC** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: Research, Research, Research
+- **2026-06-13 04:16 UTC** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: Know, Know, Know
+- **2026-06-13 04:16 UTC** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: Software, Software, Software
+- **2026-06-13 04:16 UTC** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Design, Design, Design
+
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: Master load balancing algorithms and caching strategies
 - **2026-06-13** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: System design patterns represent solutions that have emerged
 - **2026-06-13** | [Mastering Distributed Systems - Patterns and Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Distributed systems power every large-scale application

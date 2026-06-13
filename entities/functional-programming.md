@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13 04:16 UTC** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: PenChef, PenChef, PenChef
+- **2026-06-13 04:16 UTC** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: vuink.com, vuink.com, vuink.com
+- **2026-06-13 04:16 UTC** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Haskell, Haskell, Haskell
+- **2026-06-13 04:16 UTC** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: ..., ..., ...
+
 - **2026-06-13** | [The Practical Value of Functional Programming - Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Why side-effect management matters more in the cloud era
 - **2026-06-13** | [Rust: Functional Programming & Monads | by Technocrat ...](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Explored various monads in Rust and how they enable function
 
