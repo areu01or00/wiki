@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Functional Programming in Rust: Idioms and Examples | PythonLib](https://pythonlib.ru/en/post92) | kw: Functional Programming in
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does Rust Support
+- **2026-06-13** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Functional programming: A
+- **2026-06-13** | [Monads, Functors, and Applicatives in Haskell: Mastering](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: Monads, Functors, and
+- **2026-06-13** | [Rust: Functional Programming & Monads | by Technocrat](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming
+- **2026-06-13** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad (functional programming)
+- **2026-06-13** | [GitHub - jarnura/monadify: Monads in Rust](https://github.com/jarnura/monadify) | kw: GitHub - jarnura/monadify:
+
 - **2026-06-13** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: functional-programming
 - **2026-06-13** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional-programming
 - **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming

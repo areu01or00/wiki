@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering Distributed Systems
+- **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The Coming Paradigm
+- **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns
+- **2026-06-13** | [The Complete System Design Roadmap for 2026](https://designgurus.substack.com/p/the-complete-system-design-roadmap) | kw: The Complete System
+- **2026-06-13** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed Systems Roadmap
+
 - **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
 - **2026-06-13** | [Top 8 Commonly Used Distributed Systems Patterns](https://www.edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | kw: system-design
 - **2026-06-13** | [Caching & Performance: Building Fast, Predictable Systems in 2026](https://neuralstackms.tech/caching-performance-building-fast-predictable-systems-in-2026) | kw: system-design
