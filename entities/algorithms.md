@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026
+- **2026-06-13** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: Learn LeetCode & DSA: A Free YouTube Roadmap (2026)
+- **2026-06-13** | [Best Websites to Practice DSA Mock Tests in (2026)](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests) | kw: Best Websites to Practice DSA Mock Tests in (2026)
+- **2026-06-13** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms interview in
+- **2026-06-13** | [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial - YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Data Structure and Algorithm Patterns for LeetCode Interview
+- **2026-06-13** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: Data Structure I
+- **2026-06-13** | [Online Course: Leetcode For Beginners: Crack DSA Interviews With Blind 75+ from Udemy](https://www.classcentral.com/course/udemy-dsa-interview-prep-499476) | kw: Online Course: Leetcode For Beginners: Crack DSA Interviews 
+
 - **2026-06-13** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Data, Structure, LeetCode
 - **2026-06-13** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Top, 100, DSA
 - **2026-06-13** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms

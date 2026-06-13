@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems
+- **2026-06-13** | [Introduction | VLINGO XOOM](http://docs.vlingo.io/) | kw: Introduction
+- **2026-06-13** | [Modern Distributed Computing Systems: Architectures, Challenges, and Future Directions](https://www.researchgate.net/publication/392230676_Modern_Distributed_Computing_Systems_Architectures_Challenges_and_Future_Directions_in_Large-Scale_Data_Processing) | kw: Modern Distributed Computing Systems: Architectures, Challen
+- **2026-06-13** | [9 Software Architecture Patterns for Distributed Systems - DEV Community](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: 9 Software Architecture Patterns for Distributed Systems
+- **2026-06-13** | [Software Engineer, Analytics Platforms - Snap Finance | Built In](http://builtin.com/job/software-engineer-analytics-platforms/7529714) | kw: Software Engineer, Analytics Platforms
+
 - **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide
 - **2026-06-13** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best
 - **2026-06-13** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems

@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil) | kw: What is the Python Global Interpreter Lock (GIL)
+- **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's GIL Is Gone — What That Actually Means for Your Cod
+- **2026-06-13** | [Python In-Depth — Memory Management in Python (GIL and ...](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Python In-Depth — Memory Management in Python (GIL and ...
+- **2026-06-13** | [Python Memory Management Internals | by Majidbasharat](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python Memory Management Internals
+- **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring Python: Internals and Optimization
+- **2026-06-13** | [Memory Management in Python](https://realpython.com/python-memory-management) | kw: Memory Management in Python
+- **2026-06-13** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: 01_Advanced_Memory_GIL.md
+
 - **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, GIL:
 - **2026-06-13** | [Python In-Depth - Memory Management in Python (GIL and Profiling)](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Python, In-Depth, Memory
 - **2026-06-13** | [Python Memory Management Internals](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management
