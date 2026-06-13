@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [The Practical Value of Functional Programming -- Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value, of
+- **2026-06-13** | [Monads Tutorial -- Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, --, Monday
+- **2026-06-13** | [Latest Monad News - (MON) Future Outlook, Trends & Market Insights](http://coinmarketcap.com/cmc-ai/monad/latest-updates) | kw: Latest, Monad, News, -
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support, Functional
+- **2026-06-13** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, of, monads
+- **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, [2026]:, Functional
+
 - **2026-06-13** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads
 - **2026-06-13** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Making
 - **2026-06-13** | [Yet Another Haskell Tutorial/Monads - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial/Monads) | kw: Another

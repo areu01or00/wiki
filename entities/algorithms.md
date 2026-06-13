@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Top 100 Data Structure and Algorithms DSA Interview Questions ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top, 100, Data, Structure
+- **2026-06-13** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: 100+, Data, Structure, Interview
+- **2026-06-13** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: Top, 100+, Data, Structure
+- **2026-06-13** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: Top, 20, LeetCode, Questions
+
 - **2026-06-13** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Data
 - **2026-06-13** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified | by Katravalli Coding | Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate
 - **2026-06-13** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: Ultimate
