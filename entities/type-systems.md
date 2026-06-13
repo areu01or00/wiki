@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: the rise of
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: efficient selection of
+- **2026-06-13** | [Staged Gradual Typing (GPCE 2025) - ECOOP 2025](https://2025.ecoop.org/details/ecoop-2025-gpce/8/Staged-Gradual-Typing) | kw: staged gradual typing
+
 - **2026-06-13** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python type system concepts: static, dynamic, and gradual ty
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement](https://programming-journal.org/2026/11/3/) | kw: New technique to select a subset of type annotations for imp
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Type inference and gradual typing removed almost all of the 

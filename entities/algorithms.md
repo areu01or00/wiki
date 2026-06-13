@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: top 20 leetcode
+- **2026-06-13** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: how to prepare
+
 - **2026-06-13** | [Top 100 LeetCode Coding Interview Questions (2025 Edition)](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: A fully updated 2025 list of the Top 100 LeetCode coding int
 - **2026-06-13** | [LeetCode Questions Asked in Google 2026](https://papersadda.com/article/leetcode-questions-google-2026) | kw: Knowing which LeetCode problems actually appear in Google in
 - **2026-06-13** | [LeetCode Interview Questions: Top Patterns by Company (2026)](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: The most frequently asked LeetCode interview questions at Go
