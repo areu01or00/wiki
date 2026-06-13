@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13 18:17** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
+- **2026-06-13 18:17** | [Memory Management in CPython: Reference Counting, Generations...](https://developers-heaven.net/blog/memory-management-in-cpython-reference-counting-generations-and-the-gil) | kw: Memory
+- **2026-06-13 18:17** | [GIL | CPython Internals](https://zpoint.github.io/CPython-Internals/Interpreter/gil/gil.html) | kw: GIL
+- **2026-06-13 18:17** | [Memory Management in Python 2026 – Best Practices for Efficient Code](https://www.pyinns.com/python/efficient-code/memory-management-python-2026-efficient-code) | kw: Memory
+- **2026-06-13 18:17** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: 01_Advanced_Memory_GIL.md
+
 - **2026-06-13** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, GIL, memory
 - **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python, GIL, free-threading
 - **2026-06-13** | [Memory Management in Python](https://realpython.com/python-memory-management) | kw: Python, memory, management

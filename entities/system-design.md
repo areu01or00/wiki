@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-13 18:17** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The
+- **2026-06-13 18:17** | [2026 Data Architecture, Data Governance, and AI Trends & Predictions | Cloudera](https://www.cloudera.com/blog/business/2026-predictions-the-architecture-governance-and-ai-trends-every-enterprise-must-prepare-for.html) | kw: 2026
+- **2026-06-13 18:17** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System
+- **2026-06-13 18:17** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering
+- **2026-06-13 18:17** | [Predicting the future of distributed systems | Hacker News](https://news.ycombinator.com/item?id=41356279) | kw: Predicting
+- **2026-06-13 18:17** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/@xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: Top
+
 - **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: pattern, architecture, microservices
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN](https://onlinetools4free.com/research/system-design-guide-2026) | kw: design, system, guide
 - **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: pattern, architecture, design

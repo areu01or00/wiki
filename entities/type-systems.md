@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13 18:17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
+- **2026-06-13 18:17** | [Efficient Selection of Type Annotations for Performance... (Programming Journal)](https://programming-journal.org/2026/11/3/) | kw: Efficient
+- **2026-06-13 18:17** | [The ins and outs of gradual type inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/2103656.2103714) | kw: The
+- **2026-06-13 18:17** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The
+- **2026-06-13 18:17** | [Gradual Typing Bibliography - Papers We Love](https://paperswelove.org/papers/gradual-typing-bibliography-26b3ee6f/) | kw: Gradual
+- **2026-06-13 18:17** | [Gradual Typing for Functional Languages (Siek & Taha)](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual
+
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type, performance
 - **2026-06-13** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: type, typing, gradual
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance (Journal)](https://programming-journal.org/2026/11/3/) | kw: type, performance

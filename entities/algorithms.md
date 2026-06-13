@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13 18:17** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning...](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data
+- **2026-06-13 18:17** | [LeetCode - The World Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode
+- **2026-06-13 18:17** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How
+- **2026-06-13 18:17** | [Google 2026 LeetCode Interview Preparation Guide](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: Google
+- **2026-06-13 18:17** | [Problem List - LeetCode (Amazon)](http://leetcode.com/company/amazon) | kw: Problem
+
 - **2026-06-13** | [Top 20 LeetCode Questions You Must Know in 2026](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: pattern, LeetCode
 - **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: interview, DSA
 - **2026-06-13** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode

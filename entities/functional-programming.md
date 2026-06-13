@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13 18:17** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top
+- **2026-06-13 18:17** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which
+- **2026-06-13 18:17** | [The Most In-Demand Programming Languages for 2026 & Tips for Selecting](https://softjourn.com/insights/in-demand-programming-languages-tips-for-selecting) | kw: The
+- **2026-06-13 18:17** | [Does Rust Support Functional Programming Idioms? Exploring...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does
+- **2026-06-13 18:17** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional
+- **2026-06-13 18:17** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's
+- **2026-06-13 18:17** | [The Practical Value of Functional Programming — Monad...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The
+- **2026-06-13 18:17** | [How I Learned Monads: Not Through Haskell But Through Rust | Sae-Hwan Park](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How
+
 - **2026-06-13** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: tutorial, monad, haskell
 - **2026-06-13** | [Nauths · Practical uses of monads in Haskell](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: monad, haskell
 - **2026-06-13** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: tutorial, monad, haskell
