@@ -1,6 +1,22 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Navigating the 2026 Language Landscape A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type systems
+- **2026-06-13** | [The Rise of Static Typing Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type systems
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: type systems
+- **2026-06-13** | [TypeScript Type System as a Proof System Type-Level Programming Beyond the Basics - Java Code Geeks](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: type systems
+- **2026-06-13** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: type systems
+- **2026-06-13** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type systems
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing - arXiv](https://arxiv.org/abs/2603.05649) | kw: type systems
+- **2026-06-13** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: type systems
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type systems
+- **2026-06-13** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type systems
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: type systems
+- **2026-06-13** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: type systems
+- **2026-06-13** | [Understanding Graduality through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: type systems
+- **2026-06-13** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: type systems
+- **2026-06-13** | [GitHub - Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: type systems
+
 - **2026-06-13** | [Inferact](http://inferact.ai/) | kw: type-systems
 - **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-13** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems

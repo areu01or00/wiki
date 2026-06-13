@@ -1,6 +1,23 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Mastering Distributed Systems - Patterns and Principles 2026](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system design
+- **2026-06-13** | [Modern database management in distributed systems - Aerospike](https://aerospike.com/blog/modern-database-management-in-distributed-systems) | kw: system design
+- **2026-06-13** | [Distributed Systems Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system design
+- **2026-06-13** | [System Design Series Part 3 Load Balancing and Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system design
+- **2026-06-13** | [Distributed System Design the complete guide to building](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system design
+- **2026-06-13** | [Modern Architecture Patterns 2026 Edition - Medium](https://medium.com/%40uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: system design
+- **2026-06-13** | [System Design Guide 2026 Load Balancing Caching CDN Databases Message Queues Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system design
+- **2026-06-13** | [Microservices Architecture Patterns in 2026 Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system design
+- **2026-06-13** | [DelftX Modern Distributed Systems edX](https://www.edx.org/learn/computer-science/delft-university-of-technology-modern-distributed-systems) | kw: system design
+- **2026-06-13** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system design
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system design
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system design
+- **2026-06-13** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system design
+- **2026-06-13** | [Distributed Systems Patterns Every Backend Engineer Must Know](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: system design
+- **2026-06-13** | [Microservices Architecture Patterns in 2026](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: system design
+- **2026-06-13** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system design
+
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
 - **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: system-design
 - **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: system-design

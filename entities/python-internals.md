@@ -1,6 +1,24 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [The GIL Is Finally Dead Free-Threaded Python Is Production](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: python internals
+- **2026-06-13** | [Python Internals Memory Management and the Global Interpreter Lock GIL eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals
+- **2026-06-13** | [How Python Works Under the Hood Memory GIL and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python internals
+- **2026-06-13** | [Under the Hood of Python Internals Optimization and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python internals
+- **2026-06-13** | [Memory Management and GIL Python Guide 2026 Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python internals
+- **2026-06-13** | [Beyond the Script The Intelligent Evolution of Python Automation in 2026](https://dev.to/codingmavrick/beyond-the-script-the-intelligent-evolution-of-python-automation-in-2026-5b6l) | kw: python internals
+- **2026-06-13** | [Python Memory Management Internals - Medium](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python internals
+- **2026-06-13** | [Python GIL The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python internals
+- **2026-06-13** | [State of Python 2026 - The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: python internals
+- **2026-06-13** | [Python Complete Guide CPython Internals GIL - pkglog.com](https://pkglog.com/en/blog/python-complete-guide) | kw: python internals
+- **2026-06-13** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals
+- **2026-06-13** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026) | kw: python internals
+- **2026-06-13** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python internals
+- **2026-06-13** | [Memory Management in Python 2026 - Best Practices](https://www.pyinns.com/python/efficient-code/memory-management-python-2026-efficient-code) | kw: python internals
+- **2026-06-13** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python internals
+- **2026-06-13** | [The Future of Python Internals: GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python internals
+- **2026-06-13** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python internals
+
 - **2026-06-13** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python-internals
 
 - **2026-06-13** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python, the, key

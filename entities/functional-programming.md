@@ -1,6 +1,22 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Rust1.74で追加された機能を使ってモナドを作ってみる](https://zenn.dev/hanao/articles/b16b7460e801f5) | kw: functional programming
+- **2026-06-13** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: functional programming
+- **2026-06-13** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional programming
+- **2026-06-13** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: functional programming
+- **2026-06-13** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: functional programming
+- **2026-06-13** | [Practical uses of monads in Haskell - nauths.fr](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: functional programming
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional programming
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional programming
+- **2026-06-13** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad/) | kw: functional programming
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional programming
+- **2026-06-13** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional programming
+- **2026-06-13** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: functional programming
+- **2026-06-13** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: functional programming
+- **2026-06-13** | [monadify - Rust utility](https://lib.rs/crates/monadify) | kw: functional programming
+- **2026-06-13** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: functional programming
+
 - **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
 - **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: functional-programming
 - **2026-06-13** | [Functional Programming in Rust: Idioms and Examples | PythonLib](https://pythonlib.ru/en/post92) | kw: functional-programming
