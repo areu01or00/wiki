@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [[1810.12619] Dynamic Type Inference for Gradual Hindley--Milner Typing](https://arxiv.org/abs/1810.12619) | kw: [1810.12619], Dynamic, Type
+- **2026-06-13** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, Inference
+- **2026-06-13** | [programming-language-research/research/papers/gradual-typing ...](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: programming-language-research/research/papers/gradual-typing, ...
+- **2026-06-13** | [Toward a Corpus Study of the Dynamic Gradual Type - arXiv.org](https://arxiv.org/html/2503.08928) | kw: Toward, Corpus, Study
+
 - **2026-06-13** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigm](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating, language, labyrinth:
 - **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTec](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating, 2026, language
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: efficient, selection, type
