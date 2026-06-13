@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
+- **2026-06-13** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: Software, Architecture, Patterns
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
+- **2026-06-13** | [Mastering Distributed Systems -- Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
+- **2026-06-13** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design/) | kw: Distributed, System, Design
+- **2026-06-13** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: System, Design, Patterns
+- **2026-06-13** | [36 Microservices Patterns & Anti-Patterns: The Definitive Reference (2026)](https://appscale.blog/en/blog/microservices-patterns-anti-patterns-master-index-2026) | kw: Microservices, Patterns, Anti-Patterns
+- **2026-06-13** | [Modern Distributed Systems: Patterns and Anti-patterns](https://anshadameenza.com/blog/technology/distributed-systems-patterns) | kw: Modern, Distributed, Systems
+
 - **2026-06-13** | [The Future of Enterprise Design Systems: Key Trends for 2026](https://seahawkmedia.com/tech/the-future-of-enterprise-design-systems) | kw: Future, Enterprise, Design
 - **2026-06-13** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Imperialis Tech](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: Edge, Computing, Patterns
 - **2026-06-13** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: Complete, Guide, System
