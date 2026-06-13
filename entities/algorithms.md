@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13 17:47** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap, 2026
+- **2026-06-13 17:47** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode, Questions, 2026:, Problems, [Solved]
+- **2026-06-13 17:47** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Roadmap:, Data, Structures
+- **2026-06-13 17:47** | [Data structures and Algorithms in Java test](https://www.codechef.com/skill-test/java-dsa) | kw: Data, structures, Algorithms, Java, test
+
 - **2026-06-13** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview
 - **2026-06-13** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Data, Structure, I
 - **2026-06-13** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: Top, 100+, Data

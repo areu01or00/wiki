@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13 17:47** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, Hood, Python:, Internals,, Optimization,
+- **2026-06-13 17:47** | [PEP 703 Explained: How Python Finally Removes the GIL](https://dev.to/epam_india_python/pep-703-explained-how-python-finally-removes-the-gil-49d) | kw: Explained:, Python, Finally, Removes
+- **2026-06-13 17:47** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, Controversy:, Multi-Core, Parallelism, Remains
+- **2026-06-13 17:47** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management, Internals
+- **2026-06-13 17:47** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: 01_Advanced_Memory_GIL.md, GitHub
+- **2026-06-13 17:47** | [Python 3.14 Free-Threading and Experimental JIT: How Python](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python, 3.14, Free-Threading, Experimental, JIT:
+
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, -, Python
 - **2026-06-13** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: State, of, Python
 - **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code | by Meryem Sakin | Python in Plain English](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's, GIL, Is
