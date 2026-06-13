@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | source: system-design
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | source: system-design
+- **2026-06-13** | [Top 8 Commonly Used Distributed Systems Patterns](https://www.edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | source: system-design
+- **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | source: system-design
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | source: system-design
+- **2026-06-13** | [(PDF) Distributed Enterprise Systems: Design, Automation ...](https://www.researchgate.net/publication/400868662_Distributed_Enterprise_Systems_Design_Automation_and_Operational_Insights) | source: system-design
+
 - **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
 - **2026-06-13** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: system-design
 - **2026-06-13** | [The Complete Guide to System Design in 2026](https://grokkingthesystemdesign.com/complete-guide-to-system-design) | kw: system-design

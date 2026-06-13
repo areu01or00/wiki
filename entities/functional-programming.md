@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | source: functional-programming
+- **2026-06-13** | [Rust in 2026: New Features and Best Practices · Technical ...](https://dasroot.net/posts/2026/04/rust-2026-new-features-best-practices/) | source: functional-programming
+- **2026-06-13** | [haskell-monads-2026/README.md at main · nsu-syspro/haskell-monads-2026 · GitHub](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | source: functional-programming
+- **2026-06-13** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | source: functional-programming
+- **2026-06-13** | [Modern Rust Best Practices in 2026: Beyond the Borrow Checker](https://onehorizon.ai/blog/modern-rust-best-practices-in-2026-beyond-the-borrow-checker) | source: functional-programming
+- **2026-06-13** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | source: functional-programming
+
 - **2026-06-13** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: functional-programming
 - **2026-06-13** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: functional-programming
 - **2026-06-13** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: functional-programming

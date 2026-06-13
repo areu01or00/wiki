@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Memory Management in Python: A Comprehensive Guide - DEV Community](https://dev.to/adityabhuyan/memory-management-in-python-a-comprehensive-guide-4obg) | source: python-internals
+- **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | source: python-internals
+- **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | source: python-internals
+- **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | source: python-internals
+- **2026-06-13** | [Python Memory Management](https://pythonguides.com/python-object-memory-management/) | source: python-internals
+- **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | source: python-internals
+- **2026-06-13** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | source: python-internals
+- **2026-06-13** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | source: python-internals
+
 - **2026-06-13** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python-internals
 - **2026-06-13** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: python-internals
 - **2026-06-13** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: python-internals
