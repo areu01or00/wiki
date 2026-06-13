@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
+- **2026-06-13** | [Memory Management & GIL: Python Guide (2026) - Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
+- **2026-06-13** | [Python Memory Management](https://pythonguides.com/python-object-memory-management) | kw: python-internals
+- **2026-06-13** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals
+
 - **2026-06-13** | [CPython Internals: How Python Really Works Under the Hood | ML & CV Consultant - Abhik Sarkar](https://www.abhik.xyz/articles/cpython-internals) | kw: cpython
 
 - **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory

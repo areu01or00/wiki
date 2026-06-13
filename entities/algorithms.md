@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Top 30 Programming / Coding Interview Questions & Answers](https://www.softwaretestinghelp.com/coding-interview-questions/) | kw: algorithms
+- **2026-06-13** | [Google 2026 LeetCode Interview Preparation Guide · GitHub](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: algorithms
+- **2026-06-13** | [45 Common Coding Interview Questions - Forage](https://www.theforage.com/blog/interview-questions/coding-interview-questions) | kw: algorithms
+
 - **2026-06-13** | [How to Study for Data-Structures and Algorithms Interviews at FAANG | by Esco Obong | The Startup | Medium](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) | kw: how
 
 - **2026-06-13** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: problem

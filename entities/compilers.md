@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: compilers
+- **2026-06-13** | [Sanjoy Das](http://sanjoy.link/) | kw: compilers
+- **2026-06-13** | [LLVM Implementation for Java JIT Compilers: A Deep Dive](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: compilers
+
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst
 - **2026-06-13** | [Announcing an Open Source LLVM toolchain for Snapdragon CPUs and MCUs](https://www.qualcomm.com/developer/blog/2026/04/announcing-an-open-source-llvm-toolchain-for-snapdragon-cpus-mcus) | kw: announcing

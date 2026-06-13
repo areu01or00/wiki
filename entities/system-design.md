@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
+- **2026-06-13** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design) | kw: system-design
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queue](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
+- **2026-06-13** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system-design
+- **2026-06-13** | [Home - IT Researches](http://itresearches.com/case-studies) | kw: system-design
+
 - **2026-06-13** | [Modern Distributed Computing Systems: Architectures ...](https://www.researchgate.net/publication/392230676_Modern_Distributed_Computing_Systems_Architectures_Challenges_and_Future_Directions_in_Large-Scale_Data_Processing) | kw: modern
 
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN ...](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system

@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust - by Sae-Hwan Park - ](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
+- **2026-06-13** | [Rust vs Haskell Comparison (2026) - Feature by Feature](https://appmus.com/vs/rust-vs-haskell) | kw: functional-programming
+- **2026-06-13** | [What is a monad? And who needs Haskell anyway? - The Rust Programming Language F](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: functional-programming
+- **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming
+- **2026-06-13** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://dl.acm.org/doi/abs/10.1145/3808259?download=true) | kw: functional-programming
+
 - **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: does
 - **2026-06-13** | [Rust vs Haskell. Two Languages That Both Want to ... - Medium](https://medium.com/rustaceans/rust-vs-haskell-22d581f2686d) | kw: rust
 - **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: monads
