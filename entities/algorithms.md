@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: algorithms
+- **2026-06-13** | [Master Data Structures & Algo – Ace Leetcode & Blind 75+ | Coursera](https://www.coursera.org/specializations/packt-master-data-structures-and-algo-ace-leetcode-and-blind-75) | kw: algorithms
+
 - **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Data, structures, and, algorithms, study
 - **2026-06-13** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: Learn, LeetCode, &, DSA:, A
 - **2026-06-13** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, -, Coding, Interview, Prep,

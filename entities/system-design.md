@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-13** | [Circuit Breaker — Bring Resilience to Modern Distributed Systems](https://medium.com/cwan-engineering/circuit-breaker-bring-resilience-to-modern-distributed-systems-ef6a7207ab55) | kw: system-design
+- **2026-06-13** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: system-design
+
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series, Part, 3:
 - **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The, Coming, Paradigm, Shift, in
 - **2026-06-13** | [Most-Used Distributed System Design Patterns | by Anil Gudigar](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33) | kw: Most-Used, Distributed, System, Design, Patterns
