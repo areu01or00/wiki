@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: Covers Circuit Breakers, Bulkheads, Retry patterns, saga pattern vs event sourci
+- **2026-06-13** | [Microservices Architecture for Data-Driven Applications: Patterns and Best Practices](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices architecture patterns and best practices for 2026
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: CAP/PACELC trade-offs, consensus protocols like Raft, circuit breakers, distribu
+- **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Architectural patterns and best practices for distributed systems in 2026
+- **2026-06-13** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Scalability patterns, consensus algorithms (Paxos, Raft), circuit breaker, repli
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: Comprehensive system design guide covering load balancing, caching, CDN, scaling
+- **2026-06-13** | [10 Software Architecture Patterns Engineers Need in 2026](https://blog.patoliyainfotech.com/software-architecture-patterns-guide) | kw: Top software architecture patterns: microservices, event-driven architecture, CQ
+
 - **2026-06-13** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: System Design Patterns: The Complete
 - **2026-06-13** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: Distributed Systems Patterns Every Backend
 - **2026-06-13** | [Distributed Systems: Concepts and Design: Coulouris, George](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011) | kw: Distributed Systems: Concepts and Design:

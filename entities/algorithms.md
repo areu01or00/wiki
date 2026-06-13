@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Data Structures and Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: Comprehensive 2026 DSA roadmap - arrays, linked lists, trees, graphs, sorting, s
+- **2026-06-13** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Ten core data structures, pattern recognition (two pointers, sliding window, BFS
+- **2026-06-13** | [Data Structures and Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Blind 75 + TechPrep 100 framework for DSA interview preparation
+- **2026-06-13** | [Algorithms and Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Beginner-friendly guide from fundamentals to advanced techniques for LeetCode pr
+- **2026-06-13** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: 100+ data structure interview questions covering arrays, linked lists, trees, he
+- **2026-06-13** | [AlgoMaster.io - Master Software Engineering Interviews](https://algomaster.io/) | kw: Pattern-based learning for DSA (70+ patterns, 600+ problems), System Design, Low
+
 - **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 |
 - **2026-06-13** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms & Data Structures (LeetCode
 - **2026-06-13** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode | Coding Interview Prep,

@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Gradual typing ascendancy, type inference advances, TypeScript evolution, langua
+- **2026-06-13** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python type system specification - static, dynamic, gradual typing concepts
+- **2026-06-13** | [TypeScript Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript conditional types as proof by cases, infer as pattern-matching, never
+- **2026-06-13** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: Type inference online courses compilation
+- **2026-06-13** | [Advanced TypeScript Type System Features: Deep Dive into Internals and Use Cases](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features-deep-dive) | kw: TypeScript 5.3 advanced type system, conditional types, mapped types, type infer
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Research paper on selecting type annotations for performance in gradual typing, 
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Analysis of static typing resurgence - type inference, gradual typing, AI-coding
+
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations
 - **2026-06-13** | [PHP's Gradual Typing Journey: From Wild West to Almost Respectable - Java Code Geeks](https://www.javacodegeeks.com/2026/01/phps-gradual-typing-journey-from-wild-west-to-almost-respectable.html) | kw: PHP's Gradual Typing Journey: From
 - **2026-06-13** | [TypeScript's Type System as a Proof System: Type-Level ...](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript's Type System as a
