@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals
+- **2026-06-13** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: State, Python, 2026
+- **2026-06-13** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL, Key
+- **2026-06-13** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python, 3.14, Free
+- **2026-06-13** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, GIL, Controversy
+- **2026-06-13** | [The Evolution of Python's Memory Management: From Reference ...](https://www.linkedin.com/pulse/evolution-pythons-memory-management-from-reference-counting-gupta-a95me) | kw: Evolution, Python's, Memory
+
 - **2026-06-13** | [Memory Management in Python: A Comprehensive Guide - DEV Community](https://dev.to/adityabhuyan/memory-management-in-python-a-comprehensive-guide-4obg) | source: python-internals
 - **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | source: python-internals
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | source: python-internals

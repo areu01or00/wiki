@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [The Future of Enterprise Design Systems: Key Trends for 2026](https://seahawkmedia.com/tech/the-future-of-enterprise-design-systems) | kw: Future, Enterprise, Design
+- **2026-06-13** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Imperialis Tech](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: Edge, Computing, Patterns
+- **2026-06-13** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: Complete, Guide, System
+- **2026-06-13** | [The Future of Design Systems: Trends, Innovations, and Best Practices | by Samer S Tallauze | Medium](https://medium.com/@SamerTallauze/the-future-of-design-systems-trends-innovations-and-best-practices-cff34027ca97) | kw: Future, Design, Systems
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
+- **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide
+- **2026-06-13** | [System Design Statistics & Trends 2025 | Data-Driven Insights](https://www.systemdesignhandbook.com/guides/system-design-statistics-and-trends) | kw: System, Design, Statistics
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide
+- **2026-06-13** | [Future Trends in System Integration](https://www.zigiwave.com/resources/system-integration-trends) | kw: Future, Trends, System
+
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | source: system-design
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | source: system-design
 - **2026-06-13** | [Top 8 Commonly Used Distributed Systems Patterns](https://www.edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | source: system-design

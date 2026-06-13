@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads, Through
+- **2026-06-13** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional, Programming, Finest
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support
+- **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads, Omnipresent, Rust
+- **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, [2026]
+- **2026-06-13** | [What is a monad? And who needs Haskell anyway? - The Rust ...](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: monad?, needs, Haskell
+
 - **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | source: functional-programming
 - **2026-06-13** | [Rust in 2026: New Features and Best Practices · Technical ...](https://dasroot.net/posts/2026/04/rust-2026-new-features-best-practices/) | source: functional-programming
 - **2026-06-13** | [haskell-monads-2026/README.md at main · nsu-syspro/haskell-monads-2026 · GitHub](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | source: functional-programming

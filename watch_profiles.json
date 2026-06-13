@@ -222,9 +222,25 @@
         "conference",
         "Learn",
         "Backend",
-        "scalability"
+        "scalability",
+        "Community",
+        "Innovations",
+        "Samer",
+        "Tallauze",
+        "Statistics",
+        "2025",
+        "Insights"
       ],
       "last_result_hashes": [
+        "cc3ee12501cad59fa9e9b915e2d3470c",
+        "5a7f06b2b94bdaf5fdb7c5a51c0bd6ba",
+        "a4f767c8d886ec8f2fab1999efc97283",
+        "d45b14b8413f12a362e9b431dc2b3249",
+        "46a56982536c8a4f9801b7d471165b39",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "eac4be011c8f507b6d52f426943f574a",
+        "eb9413c412274c4d419c8f0af8eb0eeb",
+        "1c890bb8c0384922def78d06f111e364",
         "e7e5d9035b5dfe652e966074b913bceb",
         "d783e2d51611cf1ad3e8206198eb9ae7",
         "6f3bf5b65bc50689a21d7fbb6647ca81",
@@ -235,18 +251,9 @@
         "297d8fe4f9a5f5a7d76e3ced73fe166d",
         "3bf6ab5a22ba2e48a537fbb68ef026b3",
         "428f463cf14b837f93c99b3194c8de98",
-        "b70b6d14c703d865e8102e67a93d81c4",
-        "2d3339fbcb04e9f626d884e03958e8d3",
-        "848a06554e3ca137e425aa0a6367b703",
-        "89a56d75eb44a5b6b6e7751656a45c91",
-        "056b14e78a14af65a4d0ae47a4e64443",
-        "3c8925cf9aab5e06b2fe2e7c3cf7d5ed",
-        "cc34ebed3d439106b1d69c15e88702e6",
-        "1885661cefe9c39654b0f1458625c8e0",
-        "2ebbe3411f331c326ab1fd19aa4e50c7",
-        "67aff63763a6448d1e66937985363bae"
+        "b70b6d14c703d865e8102e67a93d81c4"
       ],
-      "last_run": "2026-06-13 08:47 UTC"
+      "last_run": "2026-06-13 09:03 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -473,6 +480,12 @@
         "with"
       ],
       "last_result_hashes": [
+        "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
+        "e96a5a0b15c49cbffbca1b81f75160f9",
+        "a17409ab9dd49df56a7674658d3ba1e4",
+        "c988d203ffb86a252a80be5c9dbd7a13",
+        "a5ef6826de67317cc0c5a53fba480581",
+        "191137fb0d9c6770341ad41eba235f6e",
         "525a160983d7b911b472e962fb56cbde",
         "3caf1153bcf897afb152a450901f180e",
         "40e029839ec24390960db86a4c9dc10a",
@@ -486,15 +499,9 @@
         "cffa34955e6af5519ac97e3d083973fe",
         "a92273ecb0c691e124015a9b4eb1840a",
         "1caf5f6cfb04729dad8ac553e4745088",
-        "0470167cda0b8ace44506e8158e0fc2c",
-        "d0de062ed058a4b7bb87b9c013129190",
-        "da2a9627437ec27ab2a13b536f37cf45",
-        "0e37ea17fc9a69e116e589e0bc7f8c79",
-        "4cee999b71414851927c1c3805e155c2",
-        "a78c2c73c0749267858b7fdad618ab3b",
-        "f14226d60d35bdf464d7dc54cd2027ed"
+        "0470167cda0b8ace44506e8158e0fc2c"
       ],
-      "last_run": "2026-06-13 08:47 UTC"
+      "last_run": "2026-06-13 09:03 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -556,7 +563,7 @@
         "Year",
         "Has",
         "Performance",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "Digital",
         "Fontfabric",
         "Papers)",
@@ -749,6 +756,10 @@
         "Mid"
       ],
       "last_result_hashes": [
+        "0c4fea65325737c446710c96431c6923",
+        "05e87cbef36cd8edbadc65c13cd2b4af",
+        "3449fa1c75af17ca73d7682c46f1d702",
+        "76e9dc51fd80a680c6eff1c9d6d8bc26",
         "efd08e636a877a7d71bcc7c9223d5f32",
         "c6443d4d2bad9c002c68da64e59ac377",
         "99590db6081bbcae86c8faccd0d7102f",
@@ -764,13 +775,9 @@
         "e357a961f11ac96e5b0e7eb47349628d",
         "f2495424757e7dd538dd771f623f1a0f",
         "796dd8fb9f6369a2e77f75139af26f3c",
-        "361a93e77054ea595e833dc59014ac4b",
-        "3326193b269b65058b9975cd44e12d99",
-        "c027f5d29aa0bfa5a3a5037b14ac8b26",
-        "08183a095f9bb03fe7dd6ce06dfd5115",
-        "b5ee8278b491b51a9fdbd0e087a16c7b"
+        "361a93e77054ea595e833dc59014ac4b"
       ],
-      "last_run": "2026-06-13 08:47 UTC"
+      "last_run": "2026-06-13 09:03 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -897,7 +904,7 @@
         "utility",
         "Posts",
         "Yet",
-        "créées",
+        "cr\u00e9\u00e9es",
         "(functional",
         "Exploring",
         "Lib.rs",
@@ -929,7 +936,7 @@
         "is",
         "vuink.com",
         "Wiki",
-        "式とモナドを使うために作った幾つかのもの",
+        "\u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "Demystifying",
         "Hwan",
         "RustWeek",
@@ -951,7 +958,7 @@
         "New",
         "Software",
         "Making",
-        "で柔軟な",
+        "\u3067\u67d4\u8edf\u306a",
         "Sae",
         "higher",
         "Applicatives",
@@ -983,7 +990,7 @@
         "monadic",
         "2026",
         "vs.",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "PythonLib",
         "Elixir",
         "Rust-Style",
@@ -1013,6 +1020,12 @@
         "Tutorial"
       ],
       "last_result_hashes": [
+        "fe6aed26b337f1993ecc4097fa829089",
+        "486776e3b4d65b4fda8a3ef68c9fe2ca",
+        "a637c1b028184eea6b2bb028d9aef416",
+        "89d87031e449ae356f26865a02b9a13d",
+        "449f1936d11b3408b5111b8fbfc6e205",
+        "3feae324e8b79c509b08be2afc274f97",
         "17e48f6fa26dc3cb0ca4f9aa8c303926",
         "a3493ff266b17fc6ca7d44bed6e59213",
         "bafa32298a6f59d0fb3d084bc86473d3",
@@ -1026,15 +1039,9 @@
         "b82ed313e52a51037b2e80996b9a6a4d",
         "19897d37845468d941eb10094cbe856e",
         "c012a57fa63492860f64045db3528e7a",
-        "0c4964b5fa9d46f25e3caade7edccccd",
-        "e2809728031a0a794b40bbdaef5a85f9",
-        "1643d587154ba797e7ca76daed2a2c3e",
-        "e1e06864f8831c6e61e6a80895f0c9fb",
-        "c52f5174ff9b2fb18fb776e711ed0486",
-        "8e12776c3e862a413fc33421f5c4931f",
-        "827f82e9e1a47b7a7ad617629e29c129"
+        "0c4964b5fa9d46f25e3caade7edccccd"
       ],
-      "last_run": "2026-06-13 08:47 UTC"
+      "last_run": "2026-06-13 09:03 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1246,6 +1253,13 @@
         "Tutorial"
       ],
       "last_result_hashes": [
+        "784080c849a7e175591d07376fe46ba4",
+        "37b18b3ee5841dc8d78ef02edf927dc9",
+        "fd122b96f8cdfa3f8ca7564113913fa6",
+        "9890660be222e5bab74c4a0bbd1800f7",
+        "657382150215e7befdd19b921630e0b6",
+        "a97aaa060bf3039beeb41e73ac20d73c",
+        "eac128746ce43597ebff2f84aa42b62c",
         "7992ab83976b916940f55745df0b94f5",
         "e443ae661d25fbe59d7c3c40ee6ea215",
         "24b693cdb628f2c8d677ee9a6a7f6198",
@@ -1258,16 +1272,9 @@
         "00214821f8e4673e717d7ad0a4b9fa9c",
         "7109f334ec75b2ec4e9778a03dc44040",
         "060a1255bf1bb116af24a78df9855fba",
-        "a5f9196f44fc629f80e47bd06a504e39",
-        "b374c779c101dd010d1f2ed0450afdee",
-        "09fb34f020c56145d7269228189a72c2",
-        "900df9e1fdb0443ac9f039bbf05dbb4f",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
-        "8b872e9c4137efc4de77b9e0bf4a2ba1",
-        "a11ec09386192ca90c3fa4cd4af4e020",
-        "51bdec45c83dc444c8040f8f04671877"
+        "a5f9196f44fc629f80e47bd06a504e39"
       ],
-      "last_run": "2026-06-13 08:47 UTC"
+      "last_run": "2026-06-13 09:03 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1412,7 +1419,7 @@
         "Bytecode",
         "JIT",
         "Code",
-        "Internals·",
+        "Internals\u00b7",
         "design",
         "Arjun",
         "controversy",
@@ -1441,7 +1448,7 @@
         "techniques",
         "garbage",
         "medium",
-        "服务：从",
+        "\u670d\u52a1\uff1a\u4ece",
         "Matter)",
         "github",
         "plain",
@@ -1465,7 +1472,7 @@
         "Production",
         "really",
         "slots,",
-        "瓶颈到零成本抽象的性能跃迁-CS",
+        "\u74f6\u9888\u5230\u96f6\u6210\u672c\u62bd\u8c61\u7684\u6027\u80fd\u8dc3\u8fc1-CS",
         "...",
         "edugators",
         "hood",
@@ -1487,7 +1494,7 @@
         "Internals:",
         "removed",
         "Plain",
-        "internals·",
+        "internals\u00b7",
         "guide",
         "Owned",
         "finally",
@@ -1538,9 +1545,17 @@
         "beyond",
         "Mojo's",
         "Features",
-        "Backend"
+        "Backend",
+        "From",
+        "Reference"
       ],
       "last_result_hashes": [
+        "b52883f4c09c9a3086481dd582e2ea6d",
+        "704da68a060e620278ad7620fdf6c8a8",
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "35303d2720582e23d49ac77a4490dddd",
+        "aff79aed6e34d3f002b7fa14f5978b75",
+        "f8925aae4907f42f906dc4c37cdf7ea5",
         "2c0827dc7d42c384c73946afa6328c36",
         "57f16e916b4f3326d03a7463a94f2911",
         "265111ab89ec1e2086cc516865ce3720",
@@ -1554,16 +1569,10 @@
         "e8dc89ed5a6a0a4fece02fbb751b20f2",
         "6f71b616baa7f25827be34729ef67aef",
         "5993b946a75f39ea8c668558c04812bc",
-        "7b4d33a48fc204e0cb25e4f1266c7297",
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "ab9d55531022e776f8807f7babf228b0",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "ba35e0c9c5e2811c85cffac53cee7243",
-        "03e9423b802e0456d3fe98220b76ea3a"
+        "7b4d33a48fc204e0cb25e4f1266c7297"
       ],
-      "last_run": "2026-06-13 08:47 UTC"
+      "last_run": "2026-06-13 09:03 UTC"
     }
   },
-  "last_run": "2026-06-13 08:47 UTC"
+  "last_run": "2026-06-13 09:03 UTC"
 }
