@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [haskell-monads-2026/README.md at main · nsu-syspro/haskell-monads-2026 · GitHub](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: functional-programming
+
 - **2026-06-13** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Gentle, Introduction, Haskell
 - **2026-06-13** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday
 - **2026-06-13** | [Posts - The Monad Cat](http://monad.cat/pages/posts.html) | kw: Posts, Monad
