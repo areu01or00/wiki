@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design:
+- **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns
+
 - **2026-06-13** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, and
 - **2026-06-13** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design/) | kw: System, Architecture, Design
 - **2026-06-13** | [Distributed Systems Patterns: Saga, Outbox, Idempotency Keys](https://viprasol.com/blog/distributed-systems-patterns) | kw: Distributed, Systems, Patterns

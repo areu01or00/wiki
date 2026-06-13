@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [The Mechanics of Gradual Typing and Hybrid Systems](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: Mechanics, Gradual, Typing
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-13** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: Gradual, Typing, Gradually
+- **2026-06-13** | [Compiling Gradual Types with Evidence - Science Explorer Abstract](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: Compiling, Gradual, Types
+
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers) - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
 - **2026-06-13** | [Type inference - Wikipedia](https://en.wikipedia.org/wiki/Type_inference) | kw: Type, inference, Wikipedia
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3) | kw: Efficient, Selection, Type

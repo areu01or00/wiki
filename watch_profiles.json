@@ -167,8 +167,6 @@
         "Coordination"
       ],
       "last_result_hashes": [
-        "056b14e78a14af65a4d0ae47a4e64443",
-        "d88d3de8f0e60fb55d23ee13a71ca225",
         "5a7f06b2b94bdaf5fdb7c5a51c0bd6ba",
         "161b0c3f73f417f7ee066b608d382f06",
         "3bf6ab5a22ba2e48a537fbb68ef026b3",
@@ -186,9 +184,11 @@
         "635d8f85b60df63512b80138445e7bc0",
         "a40294688ad70da092e0bc9f34fd505e",
         "3c8925cf9aab5e06b2fe2e7c3cf7d5ed",
-        "9f7e1fec79e2115cd40e5eb8dfba1415"
+        "9f7e1fec79e2115cd40e5eb8dfba1415",
+        "3ee08fcb48d8cc998d40e238fc3854f0",
+        "e9d45130824f67775300df37d0b653d5"
       ],
-      "last_run": "2026-06-13 00:00 UTC"
+      "last_run": "2026-06-13 00:48 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -349,7 +349,6 @@
         "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst"
       ],
       "last_result_hashes": [
-        "294465baa405c509ff16e6e2c8d94604",
         "4a4e0127b12cfd2d476b5aaa44376f2d",
         "39a1fca28592350020e5f300331e95c1",
         "f14226d60d35bdf464d7dc54cd2027ed",
@@ -368,9 +367,10 @@
         "d0de062ed058a4b7bb87b9c013129190",
         "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
         "14bec6c679203be13206205a9edb80d7",
-        "da2a9627437ec27ab2a13b536f37cf45"
+        "da2a9627437ec27ab2a13b536f37cf45",
+        "13790368b4b3cc16405840ccadbf4e6f"
       ],
-      "last_run": "2026-06-13 00:00 UTC"
+      "last_run": "2026-06-13 00:48 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -461,7 +461,7 @@
         "Understanding",
         "Unexpected",
         "Unification-based",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "Wikipedia",
         "[2603",
         "against",
@@ -553,11 +553,6 @@
         "Hindley-Milner"
       ],
       "last_result_hashes": [
-        "515297cd90212e0cede68efcec1af7d9",
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "a62041fbd03c36044c10691af16fa6ad",
-        "4a101114e3b691c4671d64770c39c052",
-        "f2495424757e7dd538dd771f623f1a0f",
         "3326193b269b65058b9975cd44e12d99",
         "7f9d9d17e1451e3ee24574749b4b94d2",
         "98a25f82aa01c6e3086793f3280a92b9",
@@ -572,9 +567,14 @@
         "e357a961f11ac96e5b0e7eb47349628d",
         "b42fad13d5c2c6aa2648a8a919b28f41",
         "662cc5d0e62c3ae3763194b77d6639f8",
-        "303c688ee251354a92ed0fa883ca3cfc"
+        "303c688ee251354a92ed0fa883ca3cfc",
+        "1288887664ed8cb167cfaaad7e115e70",
+        "c027f5d29aa0bfa5a3a5037b14ac8b26",
+        "37ffd58453521e02c05e593eedaf102e",
+        "74d9db89389a5ff882bfd7bac5937d2c",
+        "361a93e77054ea595e833dc59014ac4b"
       ],
-      "last_run": "2026-06-13 00:00 UTC"
+      "last_run": "2026-06-13 00:48 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -648,7 +648,7 @@
         "Reliability",
         "Rust",
         "Rust patterns",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Rust:",
         "RustWeek",
         "Sae",
@@ -682,7 +682,7 @@
         "category theory",
         "changes",
         "collection",
-        "créées",
+        "cr\u00e9\u00e9es",
         "demystifying",
         "dive",
         "effect systems",
@@ -741,8 +741,8 @@
         "who",
         "wikipedia",
         "wrsturgeon/rsmonad",
-        "で柔軟な",
-        "式とモナドを使うために作った幾つかのもの",
+        "\u3067\u67d4\u8edf\u306a",
+        "\u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "Lib.rs",
         "anyway",
         "Language",
@@ -760,10 +760,6 @@
         "Wikibooks"
       ],
       "last_result_hashes": [
-        "d99b2752e3646330368062b6c9aa8236",
-        "0b2120fa72343244679a593dacf13018",
-        "9e468f427c81adba063b45d72c784552",
-        "fdc8e2b82500b598dc73a35e40bb2f1e",
         "a3493ff266b17fc6ca7d44bed6e59213",
         "81f416bda62e20437250860785d5442e",
         "7eff5c6a99bf213eccb369082948afb6",
@@ -779,9 +775,13 @@
         "47e6d74aef0c39ef251aad25fd7ff012",
         "fe6aed26b337f1993ecc4097fa829089",
         "c52f5174ff9b2fb18fb776e711ed0486",
-        "cb3451b58dc0de64c4abaf6248054b44"
+        "cb3451b58dc0de64c4abaf6248054b44",
+        "89d87031e449ae356f26865a02b9a13d",
+        "449f1936d11b3408b5111b8fbfc6e205",
+        "019f2327a3a7fc80e9fa3711481995f7",
+        "827f82e9e1a47b7a7ad617629e29c129"
       ],
-      "last_run": "2026-06-13 00:00 UTC"
+      "last_run": "2026-06-13 00:48 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -952,11 +952,6 @@
         "SECRETS"
       ],
       "last_result_hashes": [
-        "96cc6ef4debb90003f3411a620935917",
-        "fd122b96f8cdfa3f8ca7564113913fa6",
-        "8f48746135c4ce31696176aebedcfc09",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
-        "54e92023d570edbe351ca0a5e3242b84",
         "bdba56774f4dd53be02fa3aa359dd313",
         "e417779c7c4977679bee1b6128aca0aa",
         "09e78648fe1b6f874711fba28cec5d03",
@@ -971,9 +966,14 @@
         "3739df902d0a15eaecfaff44ff2d20c8",
         "4a3b572c1b432c622eff59bd89faf947",
         "09fb34f020c56145d7269228189a72c2",
-        "ccf8ede536dc56c5810aea6819c053c4"
+        "ccf8ede536dc56c5810aea6819c053c4",
+        "37b18b3ee5841dc8d78ef02edf927dc9",
+        "9890660be222e5bab74c4a0bbd1800f7",
+        "02248976e7956c9e93af2532bb5e7c4e",
+        "52de9609182eae12f24983fc210eb008",
+        "b374c779c101dd010d1f2ed0450afdee"
       ],
-      "last_run": "2026-06-13 00:00 UTC"
+      "last_run": "2026-06-13 00:48 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1131,7 +1131,7 @@
         "inner",
         "internals",
         "internals:",
-        "internals·",
+        "internals\u00b7",
         "interpreter",
         "iter",
         "java",
@@ -1198,8 +1198,6 @@
         "Engineers"
       ],
       "last_result_hashes": [
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "aff79aed6e34d3f002b7fa14f5978b75",
         "f55a224226b9ec58bcfd7dec2181cf9b",
         "81a9e7d7445fd4f7670a530c7f055fd5",
         "b52883f4c09c9a3086481dd582e2ea6d",
@@ -1217,10 +1215,12 @@
         "20687798bb3a4b2fd38362369de1f9d4",
         "84a3a92cb092ea3f907f138d3ea431c1",
         "ba35e0c9c5e2811c85cffac53cee7243",
-        "34b98abdd6bbd8dd5d7622c24cf994de"
+        "34b98abdd6bbd8dd5d7622c24cf994de",
+        "087455b373dbe987da5078283f97a4cb",
+        "276469c4ccdf32e9f4e35eca67d972ae"
       ],
-      "last_run": "2026-06-13 00:00 UTC"
+      "last_run": "2026-06-13 00:48 UTC"
     }
   },
-  "last_run": "2026-06-13 00:00 UTC"
+  "last_run": "2026-06-13 00:48 UTC"
 }
