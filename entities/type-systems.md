@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
+- **2026-06-13** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives | NSF](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual
+- **2026-06-13** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: Design
+
 - **2026-06-12** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
 - **2026-06-12** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia
 - **2026-06-12** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type

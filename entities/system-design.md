@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices
+- **2026-06-13** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: Future
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System
+- **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed
+
 - **2026-06-12** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
 - **2026-06-12** | [Design Patterns for Distributed Systems — Retry, Circuit Breaker, and More](https://codelit.io/blog/distributed-system-design-patterns) | kw: Design, Patterns, Distributed
 - **2026-06-12** | [Distributed System Design Patterns: A Practitioner's Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: Distributed, System, Design

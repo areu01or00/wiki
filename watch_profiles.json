@@ -162,13 +162,10 @@
         "Breaker",
         "Retry",
         "Bulkhead",
-        "Sidecar"
+        "Sidecar",
+        "Docs"
       ],
       "last_result_hashes": [
-        "848a06554e3ca137e425aa0a6367b703",
-        "6521ce3d5b8b4f36376bc6682bb4a913",
-        "d67558d0e41e758753a25e90ac175c44",
-        "2efe47add6349b1a23f9e1b4a923ec6b",
         "3ee08fcb48d8cc998d40e238fc3854f0",
         "b920b6b629500beca9e76bb5ef18e70b",
         "96199b448630803c6f3ccba4af8371b2",
@@ -184,9 +181,13 @@
         "8282bc38c31cae78de009daeeac96471",
         "3d924683b109e99c93d7ba785e0c7ab0",
         "6fe9880853103e8782a6653a46dc9a3c",
-        "19be35706bf6e2a79dafea66d57b00f7"
+        "19be35706bf6e2a79dafea66d57b00f7",
+        "89a56d75eb44a5b6b6e7751656a45c91",
+        "7cec981e3ec9ecf6d4f19ab2fda7c5db",
+        "eb9413c412274c4d419c8f0af8eb0eeb",
+        "1885661cefe9c39654b0f1458625c8e0"
       ],
-      "last_run": "2026-06-13 00:03 UTC"
+      "last_run": "2026-06-13 00:17 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -346,9 +347,6 @@
         "Developers"
       ],
       "last_result_hashes": [
-        "23259200a7be4533fe1e25b8fdeb4b83",
-        "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
-        "d0de062ed058a4b7bb87b9c013129190",
         "a5ef6826de67317cc0c5a53fba480581",
         "2244acfd43cce9ae42735c3768e03cf8",
         "4cee999b71414851927c1c3805e155c2",
@@ -365,9 +363,12 @@
         "77c699a7ad94bcf70df2d99af3e85815",
         "ae427aaa277c67469832326760f5569f",
         "af906821b5af28695658baff9661080f",
-        "525a160983d7b911b472e962fb56cbde"
+        "525a160983d7b911b472e962fb56cbde",
+        "b86eb07f5a984fccae1bb38c4d48f846",
+        "a17409ab9dd49df56a7674658d3ba1e4",
+        "c988d203ffb86a252a80be5c9dbd7a13"
       ],
-      "last_run": "2026-06-13 00:03 UTC"
+      "last_run": "2026-06-13 00:17 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -545,12 +546,10 @@
         "into",
         "What",
         "Static",
-        "Really"
+        "Really",
+        "NSF"
       ],
       "last_result_hashes": [
-        "662cc5d0e62c3ae3763194b77d6639f8",
-        "a0596ecd21f12635bc1fe55f811950e9",
-        "678284b46c69cda968ef8e3315be6ff2",
         "37ffd58453521e02c05e593eedaf102e",
         "40444384b63305c1bb23af44b0b4a556",
         "5344d87edb48538d24562646a3c4df36",
@@ -567,9 +566,12 @@
         "24cf757358df68bad6e6520d17bffb4c",
         "be83423834c67b8671ef6f7b00eeb6c9",
         "f74dcb0debf2a2cea53db851214ba23e",
-        "08183a095f9bb03fe7dd6ce06dfd5115"
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "0811ce20c14f7bb05ab80934bde08f60",
+        "a0175756b26cc90dace4cf65d10173ed",
+        "ed513f6e12395c8fbbf5e5415449aabd"
       ],
-      "last_run": "2026-06-13 00:03 UTC"
+      "last_run": "2026-06-13 00:17 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -743,13 +745,18 @@
         "Language",
         "Forum",
         "Announcements",
-        "Official"
+        "Official",
+        "Gentle",
+        "Introduction",
+        "Online",
+        "Tutorials",
+        "Library",
+        "Yet",
+        "Another",
+        "Tutorial/Monads",
+        "Wikibooks"
       ],
       "last_result_hashes": [
-        "c5bcaf01490daab7e999b17a95ee57ce",
-        "fe6aed26b337f1993ecc4097fa829089",
-        "7ad0d3e82d4ec98b46693a1455d96f64",
-        "ce1296b7730544a3db978dc13e7a351f",
         "f893f60a24ac37aeb075a0f0bd5137a0",
         "e312c0acfe09d085d83f09f3f05d110c",
         "89d87031e449ae356f26865a02b9a13d",
@@ -765,9 +772,13 @@
         "7eff5c6a99bf213eccb369082948afb6",
         "f8e90a2f2f95996adc8ec28b50f11c2e",
         "6ac17140976f4e3a7be22d2ec701d1ce",
-        "a637c1b028184eea6b2bb028d9aef416"
+        "a637c1b028184eea6b2bb028d9aef416",
+        "6a3de62750f7cf7e38152c833d7b84a9",
+        "c233ce094f809bd93c2f4474229feed5",
+        "8f5cea9e5197c247d1be3e7c458669a6",
+        "2c7be2cab5c65f01d38b186ed1cb4612"
       ],
-      "last_run": "2026-06-13 00:03 UTC"
+      "last_run": "2026-06-13 00:17 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -938,9 +949,6 @@
         "SECRETS"
       ],
       "last_result_hashes": [
-        "27d47f935a44b9765ac562cb7e9795ce",
-        "09fb34f020c56145d7269228189a72c2",
-        "3739df902d0a15eaecfaff44ff2d20c8",
         "b374c779c101dd010d1f2ed0450afdee",
         "9130b679ba352f107fe0f2646ccab1f7",
         "657382150215e7befdd19b921630e0b6",
@@ -957,9 +965,12 @@
         "64dfd4c3a490420e419b2fdf619c3453",
         "86d4781661bbc746297abd51599dbc01",
         "595f0e6ddf3ffc9ae7d6d3256cb6ad3b",
-        "2fe7a632fcf3c3052293c5b5f2f75c72"
+        "2fe7a632fcf3c3052293c5b5f2f75c72",
+        "a97aaa060bf3039beeb41e73ac20d73c",
+        "60233ba12f224764b5938c3634b02e6a",
+        "357f94c12f741d708689d53f78f9d42b"
       ],
-      "last_run": "2026-06-13 00:03 UTC"
+      "last_run": "2026-06-13 00:17 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1184,9 +1195,6 @@
         "Engineers"
       ],
       "last_result_hashes": [
-        "84a3a92cb092ea3f907f138d3ea431c1",
-        "704da68a060e620278ad7620fdf6c8a8",
-        "03e9423b802e0456d3fe98220b76ea3a",
         "9df3859b4715ae95cd2f1c86331d9b55",
         "6f71b616baa7f25827be34729ef67aef",
         "7b0c583d3445b91efa0c0453e5a737c4",
@@ -1203,10 +1211,13 @@
         "f9cfc91df9c90751c36ca713eff981aa",
         "b812bb9cc6e29f45a69d16ade38f704e",
         "349b5bc51f13880d861325cbf51da2ec",
-        "4cd24649bb264af960eb0db466e7076c"
+        "4cd24649bb264af960eb0db466e7076c",
+        "407bd0317abbabf6be9ed20442246de1",
+        "a88bd740f85018ec4b53bb0c76602317",
+        "20687798bb3a4b2fd38362369de1f9d4"
       ],
-      "last_run": "2026-06-12 23:48 UTC"
+      "last_run": "2026-06-13 00:17 UTC"
     }
   },
-  "last_run": "2026-06-13 00:03 UTC"
+  "last_run": "2026-06-13 00:17 UTC"
 }

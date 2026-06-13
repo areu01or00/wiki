@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+- **2026-06-13** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: Compiler
+
 - **2026-06-12** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Compiler, with, LLVM
 - **2026-06-12** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM, Wikipedia
 - **2026-06-12** | [Session Details: 2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: Session, European, LLVM

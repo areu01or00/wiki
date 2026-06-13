@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Gentle
+- **2026-06-13** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: All
+- **2026-06-13** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell
+- **2026-06-13** | [Yet Another Haskell Tutorial/Monads - Wikibooks](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial/Monads) | kw: Yet
+
 - **2026-06-12** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support
 - **2026-06-12** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: About, Monads, HaskellWiki
 - **2026-06-12** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, Wikipedia
