@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | ](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monad, haskell, rust
+- **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: monad, rust
+- **2026-06-13** | [What is a monad? And who needs Haskell anyway? - The Rust ...](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: monad, haskell, rust
+- **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell
+- **2026-06-13** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monad, rust
+
 - **2026-06-13** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: the practical value
 - **2026-06-13** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: functional programming: a
 - **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: does rust support

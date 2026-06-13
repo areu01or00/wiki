@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: gil
+- **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: exploring, python:, internals
+- **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: gil, memory management
+- **2026-06-13** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: jit, free-threading
+- **2026-06-13** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: memory management
+- **2026-06-13** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil) | kw: gil
+
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python - python
 - **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory management &
 - **2026-06-13** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: the secret life

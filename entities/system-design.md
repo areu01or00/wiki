@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: caching, load balancing
+- **2026-06-13** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: microservices
+- **2026-06-13** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: distributed
+- **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: distributed
+- **2026-06-13** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: distributed
+- **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices
+
 - **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems |
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system design guide
 - **2026-06-13** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: future of high-performance

@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigm](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating, language, labyrinth:
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTec](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating, 2026, language
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: efficient, selection, type
+- **2026-06-13** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: gradual typing
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - Brai](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: static typing
+- **2026-06-13** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual typing
+- **2026-06-13** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type inference
+
 - **2026-06-13** | [Compiling Gradual Types with Evidence - Science Explorer Abstract](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: compiling gradual types
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: the rise of
 - **2026-06-13** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: gradual typing as

@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: leetcode
+- **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews | Tech In](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: data, structures, algorithms
+- **2026-06-13** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: leetcode
+- **2026-06-13** | [Explore - LeetCode](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms) | kw: leetcode
+- **2026-06-13** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: 100+, data, structure
+
 - **2026-06-13** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified | by Katravalli Coding | Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: the ultimate leetcode
 - **2026-06-13** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: data structure i
 - **2026-06-13** | [GitHub - Devinterview-io/data-structures-interview-questions](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: github - devinterview-io/data-structures-interview-questions
