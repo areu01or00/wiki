@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: python-internals
+- **2026-06-13** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
+- **2026-06-13** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026) | kw: python-internals
+- **2026-06-13** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
+- **2026-06-13** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python-internals
+- **2026-06-13** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: python-internals
+- **2026-06-13** | [CPython Internals Explained by Ethan Garrett](https://books.apple.com/us/book/cpython-internals-explained/id6776812050) | kw: python-internals
+
 - **2026-06-13** | [Python 新版本去GIL刷屏，Karpathy 点赞敢死队，Python 之父：冷静，别神话并发](https://www.infoq.cn/article/efxy5ldeyr8drjjagllg) | kw: Python, 新版本去GIL刷屏，Karpathy, 点赞敢死队，Python
 
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals
