@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust - PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026
+- **2026-06-13** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday
+- **2026-06-13** | [Making Sense of Monads - Monday Morning Haskell Academy](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Making, Sense, Monads
+- **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, Omnipresent, Rust
+- **2026-06-13** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, 2026
+- **2026-06-13** | [The Practical Value of Functional Programming - Monad Elixir Gleam Effect-TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support
+- **2026-06-13** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, monads
+
 - **2026-06-13** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, are, Omnipresent
 - **2026-06-13** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional, Programming, at
 - **2026-06-13** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, (functional, programming)

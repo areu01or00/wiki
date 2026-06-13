@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
+- **2026-06-13** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
+- **2026-06-13** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
+- **2026-06-13** | [Compiling Gradual Types with Evidence - Science Explorer](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: Compiling, Gradual, Types
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Journal)](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-13** | [Gradual Typing with Unification-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual, Typing, with
+- **2026-06-13** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: cost, type-tag, soundness
+
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, of
 - **2026-06-13** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding, Graduality, in
 - **2026-06-13** | [PHP's Gradual Typing Journey: From Wild West to Almost Respectable](https://www.javacodegeeks.com/2026/01/phps-gradual-typing-journey-from-wild-west-to-almost-respectable.html) | kw: PHP's, Gradual, Typing

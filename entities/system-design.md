@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: Guide, Large-Scale, Distributed
+- **2026-06-13** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, Distributed
+- **2026-06-13** | [Mastering Distributed Systems - Patterns and Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
+- **2026-06-13** | [System Design Series Part 3: Load Balancing and Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
+- **2026-06-13** | [Top 8 Commonly Used Distributed Systems Patterns](https://www.edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | kw: Commonly, Used, Distributed
+- **2026-06-13** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: Complete, Guide, System
+- **2026-06-13** | [Distributed Systems Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture
+- **2026-06-13** | [Top Software Architecture Trends for 2026: AI Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: Software, Architecture, Trends
+
 - **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
 - **2026-06-13** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: The, Future, of
 - **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns
