@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming, Paradigm
+- **2026-06-13** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12, Essential, Distributed
+- **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide
+- **2026-06-13** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, |
+- **2026-06-13** | [Mastering Distributed Systems - Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
+
 - **2026-06-13** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: system-design
 - **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 - **2026-06-13** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design

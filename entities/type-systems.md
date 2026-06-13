@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance (programming-journal.org)](https://programming-journal.org/2026/11/3) | kw: Efficient, Selection
+- **2026-06-13** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, -
+- **2026-06-13** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing
+- **2026-06-13** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (arXiv)](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection
+- **2026-06-13** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: cost
+- **2026-06-13** | [Gradual Typing with Inference (Jeremy Siek slides)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing
+- **2026-06-13** | [Gradual Typing with Unification-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual, Typing
+
 - **2026-06-13** | [Compiling Gradual Types with Evidence](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: type-systems
 - **2026-06-13** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: type-systems

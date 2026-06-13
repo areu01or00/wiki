@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Python, Works
+- **2026-06-13** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - evidhya.com](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals:, Memory
+- **2026-06-13** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: Secret, Life
+- **2026-06-13** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, GIL
+- **2026-06-13** | [Python Free-Threading Guide 2026: No-GIL, Threads, Packages ...](https://www.toolsmint.com/learn/python-free-threading-gil-guide-2026) | kw: Python, Free-Threading, Guide
+- **2026-06-13** | [Python's GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's, GIL
+- **2026-06-13** | [Memory Management in Python - Real Python](https://realpython.com/python-memory-management) | kw: Memory, Management
+
 - **2026-06-13** | [The GIL Is Finally Dead: Free-Threaded Python Is Production ...](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: python-internals
 - **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
