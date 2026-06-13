@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
+- **2026-06-13** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
+- **2026-06-13** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems
+- **2026-06-13** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
+- **2026-06-13** | [Gradual Liquid Type Inference - Niki Vazou](https://nikivazou.github.io/static/oopsla18main-p124-p.pdf) | kw: type-systems
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
+- **2026-06-13** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: type-systems
+
 - **2026-06-13** | [TypeScript's Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript's, Type, System, as
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the ...](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The, Rise, of, Static
 - **2026-06-13** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static, vs., Dynamic, Typing:

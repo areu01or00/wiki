@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-13** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: system-design
+- **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-13** | [System Design & Architecture (Part-I): Distributed Systems Essentials | by 0s & 1s](https://medium.com/@0s.and.1s/system-design-architecture-part-i-distributed-systems-essentials-93ec785c0ae7) | kw: system-design
+
 - **2026-06-13** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures, for
 - **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The, Coming, Paradigm, Shift
 - **2026-06-13** | [Mastering Distributed Systems -- Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems, --

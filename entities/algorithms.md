@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Ultimate System Design Interview Guide for 2026 | by Fahim ul Haq](https://medium.com/@fahimulhaq/ultimate-system-design-interview-guide-for-2025-c5dfa0ca6557) | kw: algorithms
+- **2026-06-13** | [Java Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-and-algorithms-java) | kw: algorithms
+- **2026-06-13** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: algorithms
+
 - **2026-06-13** | [Top 100 Data Structure and Algorithms DSA Interview Questions ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top, 100, Data, Structure
 - **2026-06-13** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: 100+, Data, Structure, Interview
 - **2026-06-13** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: Top, 100+, Data, Structure

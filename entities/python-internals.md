@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-13** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals
+- **2026-06-13** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: python-internals
+- **2026-06-13** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: python-internals
+- **2026-06-13** | [CPython Internals Explained by Ethan Garrett](https://books.apple.com/us/book/cpython-internals-explained/id6776812050) | kw: python-internals
+- **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python-internals
+- **2026-06-13** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: python-internals
+
 - **2026-06-13** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, the, Hood, of
 - **2026-06-13** | [Python In-Depth -- Memory Management in Python (GIL and Profiling)](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Python, In-Depth, --, Memory
 - **2026-06-13** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python, 3.14, Free-Threading, and
