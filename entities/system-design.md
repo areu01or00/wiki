@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system
+- **2026-06-13** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design) | kw: system
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system
+- **2026-06-13** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Imperialis Tech](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: edge
+- **2026-06-13** | [Catalog of Patterns of Distributed Systems - Martin Fowler](https://martinfowler.com/articles/patterns-of-distributed-systems) | kw: catalog
+- **2026-06-13** | [ICT Solution - Custom Software Development | Secure & Confidential](http://ictsolutions.dev/) | kw: solution
+
 - **2026-06-13** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: Covers Circuit Breakers, Bulkheads, Retry patterns, saga pattern vs event sourci
 - **2026-06-13** | [Microservices Architecture for Data-Driven Applications: Patterns and Best Practices](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices architecture patterns and best practices for 2026
 - **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: CAP/PACELC trade-offs, consensus protocols like Raft, circuit breakers, distribu

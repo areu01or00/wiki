@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit3.rst
+- **2026-06-13** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: compiler
+- **2026-06-13** | [Turbocharging PostgreSQL: Mastering JIT Compilation and LLVM ...](https://techbinary.cloud/blog/turbocharging-postgresql-mastering-jit-compilation-and-llvm-for-analytical-latency/) | kw: turbocharging
+- **2026-06-13** | [Session Details: 2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: session
+
 - **2026-06-13** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 Turbofan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Deep dive on LLVM, V8 4-tier JIT, Hidden Classes, Inline Caching, Escape Analysi
 - **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation tutorial using LLVM ORC APIs with Rust, inkwell wrapper
 - **2026-06-13** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM compiler infrastructure, SSA form, JIT compilation, type system

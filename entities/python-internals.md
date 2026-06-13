@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python
+- **2026-06-13** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python
+- **2026-06-13** | [Python GIL: Understanding Multithreading Limitations](https://learnmodernpython.com/python-gil-understanding-multithreading-limitations) | kw: python
+- **2026-06-13** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: python
+- **2026-06-13** | [Top 5 Ways to Overcome Python's GIL Limitations in …](https://sqlpey.com/python/top-5-ways-to-overcome-python-gil-limitations) | kw: ways
+- **2026-06-13** | [Cython and the GIL — Cython 3.3.0a0 documentation](http://docs.cython.org/en/latest/src/userguide/nogil.html) | kw: cython
+- **2026-06-13** | [The GIL Is Still Here — Why That Matters in 2026 - Medium](https://medium.com/@backendbyeli/the-gil-is-still-here-why-that-matters-in-2026-88ac86812ec4) | kw: still
+
 - **2026-06-13** | [Python Memory Leaks: 7 Fixes for Long-Running Apps in 2026](https://appsconcerebro.com/en/blog/python-2026-diagnostico-y-solucion-de-fugas-de-memoria-en-ap) | kw: Memory leak diagnosis and fixes for long-running Python applications
 - **2026-06-13** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Memory profiling and optimization for data-intensive workflows in 2026
 - **2026-06-13** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: Python 3.14 free-threaded builds, PEP 703/779, template strings, JIT, sub-interp
