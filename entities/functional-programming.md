@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Bean Exchange](http://spot.bean.exchange/) | kw: functional-programming
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
+- **2026-06-13** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional-programming
+- **2026-06-13** | [Monad | Institutions](http://monad.xyz/institutions) | kw: functional-programming
+- **2026-06-13** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290) | kw: functional-programming
+- **2026-06-13** | [Eugenio Moggi, monads, and functional programming](https://alvinalexander.com/scala/eugenio-moggi-monads-functional-programming-effects/) | kw: functional-programming
+
 - **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does
 - **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads
 - **2026-06-13** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify

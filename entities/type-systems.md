@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
+- **2026-06-13** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-13** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
+- **2026-06-13** | [Compiling Gradual Types with Evidence](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: type-systems
+- **2026-06-13** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: type-systems
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance (Journal)](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-06-13** | [Type system concepts](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-13** | [Gradual Typing with Unification-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: type-systems
+
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
 - **2026-06-13** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/10.1145/3632931) | kw: Type-Based
 - **2026-06-13** | [2026 10 Things That Matter in AI Right Now | MIT Technology ...](https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/) | kw: 2026
