@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [GIL in Python: What is it and Why Does it Matter? - DEV Community](https://dev.to/dubbyding/gil-in-python-what-is-it-and-why-does-it-matter-d5p) | kw: python-internals
+
 - **2026-06-13** | [The GIL Is Finally Dead: Free-Threaded Python Is Production Ready](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: python-internals
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 - **2026-06-13** | [Python 3.14 Free-Threading and Experimental JIT](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: python-internals
