@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified | by Katravalli Coding | Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Roadmap:
+- **2026-06-13** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews | Free Class AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data, Structures, Algorithms
+- **2026-06-13** | [Google 2026 LeetCode Interview Preparation Guide · GitHub](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: Google, 2026, LeetCode
+
 - **2026-06-13** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
 - **2026-06-13** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: algorithms
 - **2026-06-13** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan ...](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: algorithms

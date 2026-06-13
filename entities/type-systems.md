@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-13** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: Jeremy, Siek, Web
+- **2026-06-13** | [Horizon Summary: 2026-06-04 (EN) | Horizon Daily](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: Horizon, Summary:, 2026-06-04
+- **2026-06-13** | [Gradual Typing with Unification-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual, Typing, Unification-based
+
 - **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3) | kw: type-systems
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems

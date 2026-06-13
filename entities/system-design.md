@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
+- **2026-06-13** | [Future-Proof System Architecture Scalable & Secure - KAL Solutions](https://kal.solutions/tech-talk/system-design-techniques-that-enable-future-proof-growth) | kw: Future-Proof, System, Architecture
+- **2026-06-13** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: Future, System, Design:
+
 - **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
 - **2026-06-13** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: system-design

@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, ...
+- **2026-06-13** | [Session Details: 2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: Session, Details:, 2026
+- **2026-06-13** | [LLVM Implementation for Java JIT Compilers: A Deep Dive](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: LLVM, Implementation, Java
+- **2026-06-13** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: Case, Compilers:, Look
+
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
 - **2026-06-13** | [Sanjoy Das](http://sanjoy.link/) | kw: compilers
 - **2026-06-13** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: compilers

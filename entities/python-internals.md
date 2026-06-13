@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [GlobalInterpreterLock - Python Software Foundation Wiki Server](https://wiki.python.org/python/GlobalInterpreterLock.html) | kw: GlobalInterpreterLock, Python, Software
+- **2026-06-13** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide) | by Sizan Mahmud | Jan, 2026 | Medium](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: Python's, GIL, Explained:
+- **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's, GIL, Gone
+- **2026-06-13** | [Python In-Depth — Memory Management in Python (GIL and ...](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Python, In-Depth, Memory
+
 - **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
 - **2026-06-13** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python-internals
 - **2026-06-13** | [CPython Internals Explained by Ethan Garrett on Apple Books](https://books.apple.com/us/book/cpython-internals-explained/id6776812050) | kw: python-internals
