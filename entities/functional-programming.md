@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: monads
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust (Medium)](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads
+- **2026-06-13** | [What is a monad? And who needs Haskell anyway? - The Rust Forum](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: monads
+- **2026-06-13** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://dl.acm.org/doi/abs/10.1145/3808259?download=true) | kw: monads
+
 - **2026-06-13** | [Functional Programming in Rust: Idioms and Examples | PythonLib](https://pythonlib.ru/en/post92) | kw: functional-programming
 - **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming
 - **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: functional-programming

@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: gradual typing
+- **2026-06-13** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual typing
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Journal)](https://programming-journal.org/2026/11/3/) | kw: gradual typing
+- **2026-06-13** | [Elixir 1.20 adds type inference, boosts compilation speed and debuts new compiler options](https://alternativeto.net/news/2026/6/elixir-1-20-adds-type-inference-boosts-compilation-speed-and-debuts-new-compiler-options/) | kw: gradual typing
+- **2026-06-13** | [Elixir v1.20 brings gradual typing (Horizon Summary)](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: gradual typing
+- **2026-06-13** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: gradual typing
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (arXiv)](https://arxiv.org/abs/2603.05649) | kw: gradual typing
+
 - **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm ...](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-13** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
