@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [A Strategic Guide to Gradual Typing in Python | by Tihomir Manushev](https://medium.com/@tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: A Strategic Guide to Gradual Typing in Python
+- **2026-06-13** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual Typing for Functional Languages
+
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
 - **2026-06-13** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: Jeremy, Siek, Web
 - **2026-06-13** | [Horizon Summary: 2026-06-04 (EN) | Horizon Daily](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: Horizon, Summary:, 2026-06-04

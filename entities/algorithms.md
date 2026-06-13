@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: Problem List - LeetCode
+- **2026-06-13** | [HackerRank for Data Science - StrataScratch](https://www.stratascratch.com/blog/hackerrank-for-data-science) | kw: HackerRank for Data Science - StrataScratch
+- **2026-06-13** | [My interview process with NVIDIA for Senior Deep Learning Engineer](https://www.reddit.com/r/CUDA/comments/1oof56x/my_interview_process_with_nvidia_for_senior_deep) | kw: My interview process with NVIDIA for Senior Deep L
+- **2026-06-13** | [3 Interview Prep Platforms That Prepared Me For Data Science Interviews](https://medium.com/codex/3-interview-prep-platforms-that-prepared-me-for-data-science-interviews-d335351e8a91) | kw: 3 Interview Prep Platforms That Prepared Me For Da
+- **2026-06-13** | [NVIDIA Data Scientist Interview Experience & Questions - Glassdoor](https://www.glassdoor.com/Interview/NVIDIA-Data-Scientist-Interview-Questions-EI_IE7633.0%2C6_KO7%2C21.htm) | kw: NVIDIA Data Scientist Interview Experience & Quest
+
 - **2026-06-13** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified | by Katravalli Coding | Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Roadmap:
 - **2026-06-13** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews | Free Class AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data, Structures, Algorithms
 - **2026-06-13** | [Google 2026 LeetCode Interview Preparation Guide · GitHub](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: Google, 2026, LeetCode

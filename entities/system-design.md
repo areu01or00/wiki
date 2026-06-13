@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering Distributed Systems
+- **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture P
+- **2026-06-13** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Distributed Systems
+
 - **2026-06-13** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
 - **2026-06-13** | [Future-Proof System Architecture Scalable & Secure - KAL Solutions](https://kal.solutions/tech-talk/system-design-techniques-that-enable-future-proof-growth) | kw: Future-Proof, System, Architecture
 - **2026-06-13** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: Future, System, Design:

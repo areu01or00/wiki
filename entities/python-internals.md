@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [The GIL Is Finally Dead: Free-Threaded Python Is Production ...](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead
+- **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring Python
+- **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python - Python Internals
+- **2026-06-13** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: Python Complete Guide
+- **2026-06-13** | [Python Memory Management Internals | by Majidbasharat](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python Memory Management Internals
+
 - **2026-06-13** | [GlobalInterpreterLock - Python Software Foundation Wiki Server](https://wiki.python.org/python/GlobalInterpreterLock.html) | kw: GlobalInterpreterLock, Python, Software
 - **2026-06-13** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide) | by Sizan Mahmud | Jan, 2026 | Medium](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: Python's, GIL, Explained:
 - **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's, GIL, Gone
