@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Modern Distributed Computing Systems: Architectures ...](https://www.researchgate.net/publication/392230676_Modern_Distributed_Computing_Systems_Architectures_Challenges_and_Future_Directions_in_Large-Scale_Data_Processing) | kw: modern
+
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN ...](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system
 - **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering
 - **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system

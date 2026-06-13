@@ -243,7 +243,6 @@
         "Apps"
       ],
       "last_result_hashes": [
-        "b920b6b629500beca9e76bb5ef18e70b",
         "46a56982536c8a4f9801b7d471165b39",
         "3d924683b109e99c93d7ba785e0c7ab0",
         "9ba46483364adb11b22fcfbd9fe2e4d2",
@@ -262,9 +261,10 @@
         "2d3339fbcb04e9f626d884e03958e8d3",
         "e0a44ba983c026a975f88a4cca00f3ff",
         "608fa7d1ab9e25ccee240ab0bd6ba8f5",
-        "848a06554e3ca137e425aa0a6367b703"
+        "848a06554e3ca137e425aa0a6367b703",
+        "3a64ba3078826c74ef04d58da35c7fbe"
       ],
-      "last_run": "2026-06-13 12:32 UTC"
+      "last_run": "2026-06-13 12:47 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -503,7 +503,10 @@
         "MCUs",
         "Weekly",
         "#648,",
-        "June"
+        "June",
+        "Jeandle",
+        "Corpus",
+        "FAANG"
       ],
       "last_result_hashes": [
         "4cee999b71414851927c1c3805e155c2",
@@ -791,7 +794,9 @@
         "vs.",
         "wgt20.irif.fr",
         "wikipedia",
-        "with"
+        "with",
+        "Corpus",
+        "Study"
       ],
       "last_result_hashes": [
         "0c4fea65325737c446710c96431c6923",
@@ -1318,10 +1323,10 @@
         "Programming",
         "snehasishroy/leetcode",
         "companywise",
-        "ChunhThanhDe/Leetcode"
+        "ChunhThanhDe/Leetcode",
+        "FAANG"
       ],
       "last_result_hashes": [
-        "64dfd4c3a490420e419b2fdf619c3453",
         "b374c779c101dd010d1f2ed0450afdee",
         "4ba15f8269e33a460fa320a5f2b6eaf6",
         "f117b42866a59b02f575df853c44046e",
@@ -1340,9 +1345,10 @@
         "09fb34f020c56145d7269228189a72c2",
         "c7d106ec2545228816c80d12386489ae",
         "9ac91eeaeac248c5dbfdf41dab041510",
-        "75ba0ef3d737f8a255ebfa8d4fd12ca3"
+        "75ba0ef3d737f8a255ebfa8d4fd12ca3",
+        "6c6339e24b4637a98b41f93810409403"
       ],
-      "last_run": "2026-06-13 12:32 UTC"
+      "last_run": "2026-06-13 12:47 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1623,10 +1629,10 @@
         "\u670d\u52a1\uff1a\u4ece",
         "\u74f6\u9888\u5230\u96f6\u6210\u672c\u62bd\u8c61\u7684\u6027\u80fd\u8dc3\u8fc1-CS",
         "Apple",
-        "Books"
+        "Books",
+        "Consultant"
       ],
       "last_result_hashes": [
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "4cd24649bb264af960eb0db466e7076c",
         "087455b373dbe987da5078283f97a4cb",
         "d325664397744a25ea9e39183a49a374",
@@ -1645,10 +1651,11 @@
         "beaef31893811bf93a7c49c5427531ec",
         "e41e3a82a4bddd9a13b34e8f0d85e7f2",
         "631399d2cb4d8ab4f2bf4dbe22e3e858",
-        "993340ba10508d27975679f77e08cd57"
+        "993340ba10508d27975679f77e08cd57",
+        "df0a80adebfc58b8508802cd79f4fd03"
       ],
-      "last_run": "2026-06-13 12:32 UTC"
+      "last_run": "2026-06-13 12:47 UTC"
     }
   },
-  "last_run": "2026-06-13 12:32 UTC"
+  "last_run": "2026-06-13 12:47 UTC"
 }

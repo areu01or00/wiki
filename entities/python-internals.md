@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [CPython Internals: How Python Really Works Under the Hood | ML & CV Consultant - Abhik Sarkar](https://www.abhik.xyz/articles/cpython-internals) | kw: cpython
+
 - **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory
 - **2026-06-13** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python
 - **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python's

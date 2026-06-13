@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [How to Study for Data-Structures and Algorithms Interviews at FAANG | by Esco Obong | The Startup | Medium](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) | kw: how
+
 - **2026-06-13** | [Problem List - LeetCode](http://leetcode.com/company/amazon) | kw: problem
 - **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: best
 - **2026-06-13** | [LeetCode - The World's Leading Online Programming ...](https://leetcode.com/problemset/javascript) | kw: leetcode
