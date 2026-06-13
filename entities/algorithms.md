@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Data, structures, algorithms
+- **2026-06-13** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding, Interview, Prep
+- **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, 2026
+- **2026-06-13** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms
+- **2026-06-13** | [LeetCode Explore - Interview Crash Course](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms) | kw: LeetCode, Explore, Interview
+- **2026-06-13** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview:
+- **2026-06-13** | [Top 100 DSA Interview Questions - LeetCode Discuss](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Interview, Questions, LeetCode
+- **2026-06-13** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures
+- **2026-06-13** | [NeetCode | Coding Interview Prep](https://neetcode.io/) | kw: NeetCode, Coding, Interview
+- **2026-06-13** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Data, Structure, LeetCode
+
 - **2026-06-13** | [Graph cheatsheet for coding interviews Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/graph) | kw: Graph, cheatsheet, coding, interviews
 - **2026-06-13** | [Best DSA Sheet 2026 To Crack Interviews namastedev](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet, 2026
 - **2026-06-13** | [Data Structures Algorithms Roadmap 2026 thetutorbridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap

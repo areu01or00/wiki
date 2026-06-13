@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [The Practical Value of Functional Programming — Monad, Haskell, Elixir, Gleam](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads:, Through
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support
+- **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, [2026]:
+- **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads, Omnipresent, Rust
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026:
+
 - **2026-06-13** | [A Gentle Introduction to Haskell About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Gentle, Introduction, Haskell, About
 - **2026-06-13** | [Monads Tutorial Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday, Morning
 - **2026-06-13** | [Posts The Monad Cat](http://monad.cat/pages/posts.html) | kw: Posts, Monad, Cat

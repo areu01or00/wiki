@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language
+- **2026-06-13** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
+- **2026-06-13** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: cost, type-tag, soundness
+- **2026-06-13** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/10.1145/3632931) | kw: Type-Based, Gradual, Typing
+- **2026-06-13** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: Design, Evaluation, Gradual
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-13** | [Inference demand drives continued AI buildout](https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/technology/2026-tech-trends-inference-demand.pdf) | kw: Inference, demand, drives
+
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance adsabs](https://ui.adsabs.harvard.edu/abs/2026arXiv260305649L/abstract) | kw: Efficient, Selection, Type, Annotations
 - **2026-06-13** | [Efficient Selection of Type Annotations Programming Conference](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type, Annotations
 - **2026-06-13** | [Type system concepts typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts, typing

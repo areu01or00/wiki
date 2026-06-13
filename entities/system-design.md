@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [5 AI Agent Design Patterns to Master by 2026](https://explore.n1n.ai/blog/5-ai-agent-design-patterns-master-2026-2026-03-21) | kw: Agent, Design, Patterns
+- **2026-06-13** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap
+- **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
+- **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
+- **2026-06-13** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: System, Design, Patterns:
+- **2026-06-13** | [Modern System Design Patterns in C#: What Actually Works in 2026](https://medium.com/%40kerimkkara/modern-system-design-patterns-in-c-what-actually-works-in-2026-de1a87632c14) | kw: Modern, System, Design
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide
+
 - **2026-06-13** | [Microservices Observability: Distributed Tracing and Logging 2026](https://dasroot.net/posts/2026/03/microservices-observability-distributed-tracing-logging-2026) | kw: Microservices, Observability:, Distributed, Tracing
 - **2026-06-13** | [System Design Series Part 3: Load Balancing and Caching Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series, Part
 - **2026-06-13** | [Mastering Distributed Systems Patterns Principles 2026 tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems, Patterns

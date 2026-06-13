@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, Hood, Python:
+- **2026-06-13** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals:, Memory
+- **2026-06-13** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: Memory, Management, Python
+- **2026-06-13** | [GIL | CPython Internals](https://zpoint.github.io/CPython-Internals/Interpreter/gil/gil.html) | kw: CPython, Internals
+- **2026-06-13** | [The Inner Workings of Python: Beyond the Surface](https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732) | kw: Inner, Workings, Python:
+- **2026-06-13** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, Controversy:, Multi-Core
+- **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's, Gone, What
+- **2026-06-13** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management
+
 - **2026-06-13** | [Python GIL The Key to Backend Performance odysse](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL, Key, Backend
 - **2026-06-13** | [How Python Works Under the Hood Memory GIL and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: How, Python, Works, Under
 - **2026-06-13** | [How Python GIL Actually Works And Why It Exists](https://miydevforge.com/blog/how-python-gil-works) | kw: How, Python, GIL, Actually
