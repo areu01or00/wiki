@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026:
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads:
+- **2026-06-13** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads are Omnipresent in
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does Rust Support Functional
+- **2026-06-13** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad (functional programming) -
+- **2026-06-13** | [What is a monad? And who needs Haskell anyway? - Rust Forum](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: What is a monad?
+
 - **2026-06-13** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: About, Monads, HaskellWiki
 - **2026-06-13** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, monads
 - **2026-06-13** | [Haskell - Monads](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Monads

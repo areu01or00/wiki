@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Systems Integration](http://viderity.com/services/data-analytics-intelligence/systems-integration) | kw: Systems Integration
+- **2026-06-13** | [ICT Solution - Custom Software Development | Secure & Confidential](http://ictsolutions.dev/) | kw: ICT Solution - Custom
+- **2026-06-13** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering Distributed Systems -
+- **2026-06-13** | [Most-Used Distributed System Design Patterns](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33) | kw: Most-Used Distributed System Design
+
 - **2026-06-13** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: Edge, Computing, Patterns
 - **2026-06-13** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best
 - **2026-06-13** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, Distributed
