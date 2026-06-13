@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Patterns
+
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
 - **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design

@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Monads and GATs in nightly Rust : r/haskell - Reddit](https://www.reddit.com/r/haskell/comments/k88iei/monads_and_gats_in_nightly_rust/) | kw: Monads, GATs, Rust
+
 - **2026-06-13** | [Bean Exchange](http://spot.bean.exchange/) | kw: functional-programming
 - **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
 - **2026-06-13** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
