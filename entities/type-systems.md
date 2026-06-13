@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Elixir v1.20 Launches with Built-in Gradual Typing - x.com](https://x.com/i/trending/2062281053512077476) | kw: typing, gradual typing, Launches
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: ..., On, for
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: ..., On, for
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the ...](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: ..., back, Back
+- **2026-06-13** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: On, implementation, Design
+- **2026-06-13** | [Type Theory and Gradual Typing - numberanalytics.com](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: theory, typing, numberanalytics.com
+
 - **2026-06-13** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradually, type-tag soundness, Documentation
 - **2026-06-13** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Gradually, type-tag soundness, Documentation
 - **2026-06-13** | [Compiling Gradual Types with Evidence - Science Explorer Abstract](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: Gradually, type-tag soundness, Documentation

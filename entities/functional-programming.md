@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell, PenChef, penchef
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Haskell, MON, Sae-Hwan
+- **2026-06-13** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Haskell, ..., functional
+- **2026-06-13** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Changes, changes
+- **2026-06-13** | [Les monades, et si vous les aviez créées ?](https://meritis.fr/monades-aviez-creees) | kw: MON, créées, monad
+- **2026-06-13** | [What is a monad? And who needs Haskell anyway? - The Rust ...](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: And, Haskell, ...
+
 - **2026-06-13** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: practical, Haskell, borrow:
 - **2026-06-13** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: practical, Haskell, borrow:
 - **2026-06-13** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: practical, Haskell, borrow:
