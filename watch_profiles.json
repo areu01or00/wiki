@@ -299,8 +299,6 @@
         "Serverless"
       ],
       "last_result_hashes": [
-        "c74b750b4c181c28c8a705e275a94a89",
-        "2d3339fbcb04e9f626d884e03958e8d3",
         "b423b328489be6600827d14ac98bb359",
         "eb9413c412274c4d419c8f0af8eb0eeb",
         "e9d45130824f67775300df37d0b653d5",
@@ -318,9 +316,11 @@
         "d4fc8ae9192d63dfc70f395704400340",
         "46a56982536c8a4f9801b7d471165b39",
         "69637be4b215cfc53e09f0f78c2c11dd",
-        "0bccdfeceeee7664c4e61f75605f9f8f"
+        "0bccdfeceeee7664c4e61f75605f9f8f",
+        "848a06554e3ca137e425aa0a6367b703",
+        "89a56d75eb44a5b6b6e7751656a45c91"
       ],
-      "last_run": "2026-06-13 21:02 UTC"
+      "last_run": "2026-06-13 21:16 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -619,7 +619,6 @@
         "KaleidoscopeJIT"
       ],
       "last_result_hashes": [
-        "afe5c9c171ca4d0eb38b465db59b8fd8",
         "0470167cda0b8ace44506e8158e0fc2c",
         "e96a5a0b15c49cbffbca1b81f75160f9",
         "525a160983d7b911b472e962fb56cbde",
@@ -638,9 +637,10 @@
         "d0de062ed058a4b7bb87b9c013129190",
         "39a1fca28592350020e5f300331e95c1",
         "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
-        "d63dbdc004563d48fd946feffeab6d0b"
+        "d63dbdc004563d48fd946feffeab6d0b",
+        "114946a8049883677272e7f2dcee584e"
       ],
-      "last_run": "2026-06-13 21:02 UTC"
+      "last_run": "2026-06-13 21:16 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -797,7 +797,7 @@
         "Type-Based",
         "Research",
         "Annotations",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "micro",
         "Toward",
         "Inference",
@@ -1004,8 +1004,6 @@
         "Any"
       ],
       "last_result_hashes": [
-        "9873c25f66e458b8dd783337313d39fb",
-        "f74dcb0debf2a2cea53db851214ba23e",
         "e0b53bc19164f029b6b17ca5111e9264",
         "1288887664ed8cb167cfaaad7e115e70",
         "0811ce20c14f7bb05ab80934bde08f60",
@@ -1023,9 +1021,11 @@
         "37ffd58453521e02c05e593eedaf102e",
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "520dae4b4a6b5a1636f995f435b842b2",
-        "9a3ca8ef0be6bd5ed1e25f6590c663f6"
+        "9a3ca8ef0be6bd5ed1e25f6590c663f6",
+        "43dbe57e7f5ec89d96668efd9a7cf99f",
+        "a4428a72c3f30f04759e0c9ec9f17d9e"
       ],
-      "last_run": "2026-06-13 21:02 UTC"
+      "last_run": "2026-06-13 21:16 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1069,7 +1069,7 @@
         "All",
         "Checker",
         "Posts",
-        "créées",
+        "cr\u00e9\u00e9es",
         "idioms",
         "wrsturgeon/rsmonad",
         "Both",
@@ -1138,7 +1138,7 @@
         "rust",
         "vous",
         "Official",
-        "で柔軟な",
+        "\u3067\u67d4\u8edf\u306a",
         "Value",
         "sense",
         "Another",
@@ -1150,7 +1150,7 @@
         "Rust-Style",
         "(2026)",
         "support",
-        "式とモナドを使うために作った幾つかのもの",
+        "\u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "Software",
         "Wikibooks",
         "Future",
@@ -1164,7 +1164,7 @@
         "Rust",
         "The",
         "needs",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Best",
         "aviez",
         "uses",
@@ -1344,10 +1344,6 @@
         "Mastering"
       ],
       "last_result_hashes": [
-        "24f96aaa68c5878744a2e55f5788c3f3",
-        "c012a57fa63492860f64045db3528e7a",
-        "a637c1b028184eea6b2bb028d9aef416",
-        "6c5cb98e457a7ea49ad57c5293abde41",
         "cb3451b58dc0de64c4abaf6248054b44",
         "5d16d7aacdc61b367338fa737a2e682a",
         "ce1296b7730544a3db978dc13e7a351f",
@@ -1363,9 +1359,13 @@
         "81f416bda62e20437250860785d5442e",
         "ff8e7aa82463ab8acd416101b1a2e680",
         "31c4904f3823a3c42cd54d38c59211e7",
-        "c52f5174ff9b2fb18fb776e711ed0486"
+        "c52f5174ff9b2fb18fb776e711ed0486",
+        "6a3de62750f7cf7e38152c833d7b84a9",
+        "fdc8e2b82500b598dc73a35e40bb2f1e",
+        "cb0988b824521ae86b947b975cb5618c",
+        "8f5cea9e5197c247d1be3e7c458669a6"
       ],
-      "last_run": "2026-06-13 21:02 UTC"
+      "last_run": "2026-06-13 21:16 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1663,9 +1663,6 @@
         "upGrad"
       ],
       "last_result_hashes": [
-        "8b5b54395f90524f33e015dd24e932fc",
-        "cd7a3fe9cc6777660588b9b7319ed24f",
-        "ccf8ede536dc56c5810aea6819c053c4",
         "53468a49e5858039fabcfee0555bf84f",
         "09ba1908ae63111d1e15e6d4bafc047c",
         "a66f129b1d8d976a35fd202400b91453",
@@ -1682,9 +1679,12 @@
         "cb771d1b262c915d29d009eda7c1c98e",
         "09fb34f020c56145d7269228189a72c2",
         "a91ea3f0cb222681f24ad35701f24675",
-        "89c098aebc004eea2978a831eee1b2d2"
+        "89c098aebc004eea2978a831eee1b2d2",
+        "85c94428e923ba3f2759e44b0821e577",
+        "8f48746135c4ce31696176aebedcfc09",
+        "3739df902d0a15eaecfaff44ff2d20c8"
       ],
-      "last_run": "2026-06-13 21:02 UTC"
+      "last_run": "2026-06-13 21:16 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1771,7 +1771,7 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals·",
+        "Internals\u00b7",
         "Interpreter",
         "Is",
         "JIT",
@@ -1910,7 +1910,7 @@
         "inner",
         "internals",
         "internals:",
-        "internals·",
+        "internals\u00b7",
         "interpreter",
         "iter",
         "java",
@@ -1962,8 +1962,8 @@
         "weakrefs",
         "workings",
         "works",
-        "服务：从",
-        "瓶颈到零成本抽象的性能跃迁-CS",
+        "\u670d\u52a1\uff1a\u4ece",
+        "\u74f6\u9888\u5230\u96f6\u6210\u672c\u62bd\u8c61\u7684\u6027\u80fd\u8dc3\u8fc1-CS",
         "Apple",
         "Books",
         "Consultant",
@@ -2015,7 +2015,6 @@
         "Multithreading"
       ],
       "last_result_hashes": [
-        "beaef31893811bf93a7c49c5427531ec",
         "35303d2720582e23d49ac77a4490dddd",
         "36b092eb22608e93c2312433ed5b3a90",
         "d325664397744a25ea9e39183a49a374",
@@ -2034,10 +2033,11 @@
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "7f3458fd1c003f75f60b8a9029be5c4e",
         "343ee2ea3c7bd5c5bb4c13c55f709fcf",
-        "ba35e0c9c5e2811c85cffac53cee7243"
+        "ba35e0c9c5e2811c85cffac53cee7243",
+        "e5de457dfb901c53485a52be22a77e07"
       ],
-      "last_run": "2026-06-13 21:02 UTC"
+      "last_run": "2026-06-13 21:16 UTC"
     }
   },
-  "last_run": "2026-06-13 21:02 UTC"
+  "last_run": "2026-06-13 21:16 UTC"
 }
