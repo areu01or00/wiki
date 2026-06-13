@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: algorithms
+- **2026-06-13** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: algorithms
+- **2026-06-13** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: algorithms
+
 - **2026-06-13** | [Best DSA Sheet 2026 To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, 2026
 - **2026-06-13** | [Data Structures and Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms
 - **2026-06-13** | [Algorithms and Data Structures (LeetCode Preparation) ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures

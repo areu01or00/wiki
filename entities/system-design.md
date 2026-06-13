@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-13** | [Top 8 Commonly Used Distributed Systems Patterns](https://www.edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | kw: system-design
+- **2026-06-13** | [Caching & Performance: Building Fast, Predictable Systems in 2026](https://neuralstackms.tech/caching-performance-building-fast-predictable-systems-in-2026) | kw: system-design
+
 - **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide
 - **2026-06-13** | [Mastering Distributed Systems -- Patterns and Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
 - **2026-06-13** | [Distributed Systems Architecture Patterns GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture

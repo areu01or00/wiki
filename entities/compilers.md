@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: compilers
+- **2026-06-13** | [GitHub - cloudsealed/JIT-Optimization-Engine: A high ...](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: compilers
+
 - **2026-06-13** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry, Native, TypeScript
 - **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time, (JIT), Compiler
 - **2026-06-13** | [JIT Compilation microsoft/llvm DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: Compilation, microsoft/llvm, DeepWiki

@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Python Memory Management Optimization Techniques for Large-Scale Data Processing - Dhirendra Biswal](https://dhirendrabiswal.com/python-memory-management-optimization-techniques-for-large-scale-data-processing) | kw: python-internals
+- **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
+- **2026-06-13** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
+
 - **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Python:, Internals
 - **2026-06-13** | [Memory Management and GIL: Python Guide (2026) Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, GIL:
 - **2026-06-13** | [Python Internals: Memory Management and the Global Interpreter Lock GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals:, Memory
