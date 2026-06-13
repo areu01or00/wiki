@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: compilers
+- **2026-06-13** | [Announcing an Open Source LLVM toolchain for Snapdragon CPUs and MCUs](https://www.qualcomm.com/developer/blog/2026/04/announcing-an-open-source-llvm-toolchain-for-snapdragon-cpus-mcus) | kw: compilers
+
 - **2026-06-13** | [[Compiler] 20. Modern Compiler Development and Applications | Chaos and Order](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: compilers
 - **2026-06-13** | [Sanjoy Das](http://sanjoy.link/) | kw: compilers
 - **2026-06-13** | [Session Details: 2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: compilers
