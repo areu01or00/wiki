@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: fosdem, 2026, orcjit
+- **2026-06-13** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: case, compilers:, look
+- **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: just-in-time, (jit), compiler
+- **2026-06-13** | [LLVM's Ongoing Challenges and Mitigation Strategies in 2026](https://ubos.tech/news/llvms-ongoing-challenges-and-mitigation-strategies-in-2026) | kw: llvm's, ongoing, challenges
+
 - **2026-06-13** | [Case Studies | BayLibre](http://baylibre.com/case-studies) | kw: compilers
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
 - **2026-06-13** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: compilers

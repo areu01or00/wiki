@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python, works, under
+- **2026-06-13** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, python, internals:
+- **2026-06-13** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: secret, life, python:
+- **2026-06-13** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: exploring, python:, internals
+- **2026-06-13** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python, controversy:, multi-core
+- **2026-06-13** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: python, complete, guide
+- **2026-06-13** | [Python 3.14 Free-Threading - True Parallelism Without the GIL](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: python, 3.14, free-threading
+
 - **2026-06-13** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 - **2026-06-13** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
 - **2026-06-13** | [用 Rust 重写 Python AI 服务：从 GIL 瓶颈到零成本抽象的性能跃迁-CS...](https://blog.csdn.net/2301_81410839/article/details/161824612) | kw: python-internals

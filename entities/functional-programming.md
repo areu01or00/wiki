@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: learned, monads:, through
+- **2026-06-13** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: haskell, rust, comparison
+- **2026-06-13** | [Comparing Haskell and Rust: which to choose, when?](https://www.reddit.com/r/haskell/comments/47rjr4/comparing_haskell_and_rust_which_to_choose_when) | kw: comparing, haskell, rust:
+
 - **2026-06-13** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: functional-programming
 - **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: functional-programming
 - **2026-06-13** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: functional-programming

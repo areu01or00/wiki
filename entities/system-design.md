@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system, design, guide
+- **2026-06-13** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: guide, large-scale, distributed
+- **2026-06-13** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/@xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: software, architecture, trends
+
 - **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 - **2026-06-13** | [Circuit Breaker — Bring Resilience to Modern Distributed Systems](https://medium.com/cwan-engineering/circuit-breaker-bring-resilience-to-modern-distributed-systems-ef6a7207ab55) | kw: system-design
 - **2026-06-13** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: system-design

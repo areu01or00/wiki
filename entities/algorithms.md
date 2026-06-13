@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithms, data, structures
+- **2026-06-13** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: interview, questions, discuss
+- **2026-06-13** | [Top 30 Data Structures Problems for Technical Interview Preparation](https://www.reddit.com/r/programming/comments/62xwba/top_30_data_structures_problems_for_technical) | kw: data, structures, problems
+- **2026-06-13** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: prepare, coding, interview:
+- **2026-06-13** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: data, structure, leetcode
+
 - **2026-06-13** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: algorithms
 - **2026-06-13** | [Master Data Structures & Algo – Ace Leetcode & Blind 75+ | Coursera](https://www.coursera.org/specializations/packt-master-data-structures-and-algo-ace-leetcode-and-blind-75) | kw: algorithms
 
