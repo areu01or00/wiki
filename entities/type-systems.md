@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, the, 2026
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The, Rise, of
+- **2026-06-13** | [Horizon Summary: 2026-06-04 (EN) | Horizon Daily](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: Horizon, Summary:, 2026-06-04
+- **2026-06-13** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: The, Ins, and
+- **2026-06-13** | [Elixir v1.20 Launches with Built-in Gradual Typing - x.com](https://x.com/i/trending/2062281053512077476) | kw: Elixir, v1.20, Launches
+- **2026-06-13** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From | Notes from Yoichi Ozaki](https://yoichiozaki.github.io/en/blog/type-systems) | kw: A, Deep, Dive
+- **2026-06-13** | [Type Electives](http://typeelectives.com/) | kw: Type, Electives
+
 - **2026-06-13** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, the, Language
 - **2026-06-13** | [IEEE Reveals 2026 Predictions for Top Technology Trends](https://www.prnewswire.com/news-releases/ieee-reveals-2026-predictions-for-top-technology-trends-302674326.html) | kw: IEEE, Reveals, 2026
 - **2026-06-13** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing
