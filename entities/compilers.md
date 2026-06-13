@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry, Native, TypeScript
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1rst
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1rst
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1rst
+- **2026-06-13** | [LLVM Implementation for Java JIT Compilers: A Deep Dive | by ThamizhElango Natarajan | Medium](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: LLVM, Implementation, Java
+- **2026-06-13** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM, Wikipedia
+
 - **2026-06-13** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: fosdem, 2026, orcjit
 - **2026-06-13** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, Turbofan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization, Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, modern, language
 - **2026-06-13** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: resume, sanjoy
