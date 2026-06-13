@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory
+- **2026-06-13** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python
+- **2026-06-13** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python's
+- **2026-06-13** | [CPython Internals Explained by Ethan Garrett on Apple Books](https://books.apple.com/us/book/cpython-internals-explained/id6776812050) | kw: cpython
+
 - **2026-06-13** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals memory
 - **2026-06-13** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: python complete guide
 - **2026-06-13** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: 01_advanced_memory_gil.md - github

@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating
+- **2026-06-13** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: gradual
+- **2026-06-13** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: design
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: the
+- **2026-06-13** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: on
+- **2026-06-13** | [Type-Based Gradual Typing Performance Optimization | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3632931) | kw: type-based
+
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: the rise of
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: efficient selection of
 - **2026-06-13** | [Staged Gradual Typing (GPCE 2025) - ECOOP 2025](https://2025.ecoop.org/details/ecoop-2025-gpce/8/Staged-Gradual-Typing) | kw: staged gradual typing
