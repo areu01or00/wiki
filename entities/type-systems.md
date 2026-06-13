@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3) | kw: Efficient, Selection, Type
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-13** | [TypeScript Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript, Type, System
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing arXiv](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type
+- **2026-06-13** | [Horizon Summary: 2026-06-04 (EN)](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: Horizon, Summary:, 2026-06-04
+- **2026-06-13** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, with
+
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
+- **2026-06-13** | [TypeScript's Type System as a Proof System: Type-Level Programming Beyond the Basics - Java Code Geeks](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript's, Type, System
+- **2026-06-13** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: Outs, Gradual, Type
+
 - **2026-06-13** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | type-systems
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement of Gradual Typing](https://programming-journal.org/2026/11/3) | type-systems
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | type-systems

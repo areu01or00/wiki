@@ -1,6 +1,22 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad-Like, Patterns
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support
+- **2026-06-13** | [Monads in Functional Programming: A Comprehensive Guide](https://thetechgenie.in/monads-in-functional-programming-a-comprehensive-guide) | kw: Monads, Functional, Programming:
+- **2026-06-13** | [GitHub - jarnura/monadify: Monads in Rust](https://github.com/jarnura/monadify) | kw: GitHub, jarnura/monadify:, Monads
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026:
+- **2026-06-13** | [Monads, Functors, and Applicatives in Haskell: Mastering Functional Abstractions](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: Monads,, Functors,, Applicatives
+- **2026-06-13** | [GitHub - jvr0x/rust-functional-programming](https://github.com/jvr0x/rust-functional-programming) | kw: GitHub, jvr0x/rust-functional-programming
+- **2026-06-13** | [The Practical Value of Functional Programming — Monad, Haskell, Elixir, Erlang, Gleam, Effect-TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional
+
+- **2026-06-13** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Gentle, Introduction, Haskell:
+- **2026-06-13** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday
+- **2026-06-13** | [Posts - The Monad Cat](http://monad.cat/pages/posts.html) | kw: Posts, Monad
+- **2026-06-13** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Monads, Online
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef | Technology, Development & Creative Tech Insights](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026:
+- **2026-06-13** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: About, Monads, HaskellWiki
+
 - **2026-06-13** | [Bean Exchange](http://spot.bean.exchange/) | functional-programming
 - **2026-06-13** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | functional-programming
 - **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | functional-programming

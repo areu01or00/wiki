@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding, Interview, Prep
+- **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, 2026
+- **2026-06-13** | [How to prepare for Data Structures & Algorithms interview in 2026 (YouTube)](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: prepare, Data, Structures
+- **2026-06-13** | [Google 2026 LeetCode Interview Preparation Guide - GitHub Gist](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: Google, 2026, LeetCode
+- **2026-06-13** | [NeetCode - Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, Coding, Interview
+- **2026-06-13** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.freecodecamp.org/news/data-structure-and-algorithm-patterns-for-leetcode-interviews) | kw: Data, Structure, Algorithm
+
+- **2026-06-13** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified | by Katravalli Coding | Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Roadmap:
+- **2026-06-13** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: prepare, Data, Structures
+- **2026-06-13** | [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial - YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Data, Structure, Algorithm
+
 - **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | algorithms
 - **2026-06-13** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | algorithms
 - **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | algorithms
