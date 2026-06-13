@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet)
+
 - **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: DSA, LeetCode, Interview Prep, Data Structures, 2026
 - **2026-06-13** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: DSA Roadmap, Data Structures, Algorithms, 2026
 - **2026-06-13** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data Structures, Interview Questions, Pattern Recognition, 2026

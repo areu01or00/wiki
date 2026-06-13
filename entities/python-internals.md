@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals)
+- **2026-06-13** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html)
+- **2026-06-13** | [Python Complete Guide | CPython Internals - GIL](https://pkglog.com/en/blog/python-complete-guide)
+
 - **2026-06-13** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python, Memory Profiling, Optimization, 2026
 - **2026-06-13** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL, Backend Performance, Multithreading, 2026
 

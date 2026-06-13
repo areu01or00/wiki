@@ -296,8 +296,6 @@
         "Anti-Corruption Layer"
       ],
       "last_result_hashes": [
-        "d67558d0e41e758753a25e90ac175c44",
-        "9f2892b78135ae03661672111a8380a3",
         "3d924683b109e99c93d7ba785e0c7ab0",
         "056b14e78a14af65a4d0ae47a4e64443",
         "46a56982536c8a4f9801b7d471165b39",
@@ -315,9 +313,11 @@
         "2ebbe3411f331c326ab1fd19aa4e50c7",
         "c74b750b4c181c28c8a705e275a94a89",
         "2d3339fbcb04e9f626d884e03958e8d3",
-        "b423b328489be6600827d14ac98bb359"
+        "b423b328489be6600827d14ac98bb359",
+        "eb9413c412274c4d419c8f0af8eb0eeb",
+        "e9d45130824f67775300df37d0b653d5"
       ],
-      "last_run": "2026-06-13 20:02 UTC"
+      "last_run": "2026-06-13 20:19 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -616,8 +616,6 @@
         "KaleidoscopeJIT"
       ],
       "last_result_hashes": [
-        "e2a3a6cff8a6fc076d1266476544628d",
-        "b86eb07f5a984fccae1bb38c4d48f846",
         "d0de062ed058a4b7bb87b9c013129190",
         "191137fb0d9c6770341ad41eba235f6e",
         "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
@@ -635,9 +633,11 @@
         "525a160983d7b911b472e962fb56cbde",
         "a1342733adb9858b83918ef3ed5954d3",
         "4fba16e2bd174b270b36c190501cc64a",
-        "30cbe9859cedbac53d742bfa4afee8c8"
+        "30cbe9859cedbac53d742bfa4afee8c8",
+        "152e0628233391fd4da3d69e86b07bac",
+        "9b9e5b41a1c52064d55b23f06ea84096"
       ],
-      "last_run": "2026-06-13 20:02 UTC"
+      "last_run": "2026-06-13 20:19 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -794,7 +794,7 @@
         "Type-Based",
         "Research",
         "Annotations",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "micro",
         "Toward",
         "Inference",
@@ -1001,9 +1001,6 @@
         "Any"
       ],
       "last_result_hashes": [
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "8cf0cbb4c6fb7e152f4872116c8d22ba",
-        "76e9dc51fd80a680c6eff1c9d6d8bc26",
         "f2495424757e7dd538dd771f623f1a0f",
         "0c4fea65325737c446710c96431c6923",
         "3326193b269b65058b9975cd44e12d99",
@@ -1020,9 +1017,12 @@
         "0f774724de5bd2ee76b4a7dd41f46695",
         "94aeeac4743ae8deb7aa5932ebfa086d",
         "f0fc06a459228838bb274d8fda0c0440",
-        "9873c25f66e458b8dd783337313d39fb"
+        "9873c25f66e458b8dd783337313d39fb",
+        "f74dcb0debf2a2cea53db851214ba23e",
+        "e0b53bc19164f029b6b17ca5111e9264",
+        "1288887664ed8cb167cfaaad7e115e70"
       ],
-      "last_run": "2026-06-13 20:02 UTC"
+      "last_run": "2026-06-13 20:19 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1066,7 +1066,7 @@
         "All",
         "Checker",
         "Posts",
-        "créées",
+        "cr\u00e9\u00e9es",
         "idioms",
         "wrsturgeon/rsmonad",
         "Both",
@@ -1135,7 +1135,7 @@
         "rust",
         "vous",
         "Official",
-        "で柔軟な",
+        "\u3067\u67d4\u8edf\u306a",
         "Value",
         "sense",
         "Another",
@@ -1147,7 +1147,7 @@
         "Rust-Style",
         "(2026)",
         "support",
-        "式とモナドを使うために作った幾つかのもの",
+        "\u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "Software",
         "Wikibooks",
         "Future",
@@ -1161,7 +1161,7 @@
         "Rust",
         "The",
         "needs",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Best",
         "aviez",
         "uses",
@@ -1340,8 +1340,6 @@
         "Pure Functions"
       ],
       "last_result_hashes": [
-        "ce1296b7730544a3db978dc13e7a351f",
-        "ff8e7aa82463ab8acd416101b1a2e680",
         "fdc8e2b82500b598dc73a35e40bb2f1e",
         "cb0988b824521ae86b947b975cb5618c",
         "827f82e9e1a47b7a7ad617629e29c129",
@@ -1359,9 +1357,11 @@
         "c4f58f1c1a6ca1ac94cd413f2a9ae3d7",
         "24f96aaa68c5878744a2e55f5788c3f3",
         "c012a57fa63492860f64045db3528e7a",
-        "a637c1b028184eea6b2bb028d9aef416"
+        "a637c1b028184eea6b2bb028d9aef416",
+        "6c5cb98e457a7ea49ad57c5293abde41",
+        "cb3451b58dc0de64c4abaf6248054b44"
       ],
-      "last_run": "2026-06-13 20:02 UTC"
+      "last_run": "2026-06-13 20:19 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1657,7 +1657,6 @@
         "LeetCode Patterns"
       ],
       "last_result_hashes": [
-        "8d15aafde38b4f7003d03f97cfdf9d18",
         "c7d106ec2545228816c80d12386489ae",
         "7ee449f7ddd272cf95f2a0dbe94ae521",
         "3739df902d0a15eaecfaff44ff2d20c8",
@@ -1676,9 +1675,10 @@
         "a66f129b1d8d976a35fd202400b91453",
         "7d194ad3d9a4f9a87cd4de35548c005c",
         "784080c849a7e175591d07376fe46ba4",
-        "09e78648fe1b6f874711fba28cec5d03"
+        "09e78648fe1b6f874711fba28cec5d03",
+        "b374c779c101dd010d1f2ed0450afdee"
       ],
-      "last_run": "2026-06-13 20:02 UTC"
+      "last_run": "2026-06-13 20:19 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1765,7 +1765,7 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals·",
+        "Internals\u00b7",
         "Interpreter",
         "Is",
         "JIT",
@@ -1904,7 +1904,7 @@
         "inner",
         "internals",
         "internals:",
-        "internals·",
+        "internals\u00b7",
         "interpreter",
         "iter",
         "java",
@@ -1956,8 +1956,8 @@
         "weakrefs",
         "workings",
         "works",
-        "服务：从",
-        "瓶颈到零成本抽象的性能跃迁-CS",
+        "\u670d\u52a1\uff1a\u4ece",
+        "\u74f6\u9888\u5230\u96f6\u6210\u672c\u62bd\u8c61\u7684\u6027\u80fd\u8dc3\u8fc1-CS",
         "Apple",
         "Books",
         "Consultant",
@@ -2009,9 +2009,6 @@
         "Multithreading"
       ],
       "last_result_hashes": [
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "89c6532ed2b36a1bd3c0fbec8d03a53e",
-        "e5de457dfb901c53485a52be22a77e07",
         "7f3458fd1c003f75f60b8a9029be5c4e",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "b75d972e229c2f01aa6e667eaa6d517b",
@@ -2028,10 +2025,13 @@
         "36b092eb22608e93c2312433ed5b3a90",
         "d325664397744a25ea9e39183a49a374",
         "4cd24649bb264af960eb0db466e7076c",
-        "a1001fa1d16e18cf732ae3f80c77fe76"
+        "a1001fa1d16e18cf732ae3f80c77fe76",
+        "7b4d33a48fc204e0cb25e4f1266c7297",
+        "4aa45f88b11be85c9e2609d7545bb7fb",
+        "13ba3290b8afb2de1d62b941524f416e"
       ],
-      "last_run": "2026-06-13 20:02 UTC"
+      "last_run": "2026-06-13 20:19 UTC"
     }
   },
-  "last_run": "2026-06-13 20:02 UTC"
+  "last_run": "2026-06-13 20:19 UTC"
 }

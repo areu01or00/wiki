@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/)
+- **2026-06-13** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29)
+
 - **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell, Gleam, Rust, Functional Programming 2026
 - **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Monads, Rust, Haskell, Medium
 - **2026-06-13** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, Rust, State Monad, Builder Pattern

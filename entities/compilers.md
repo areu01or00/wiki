@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan, Maglev, Inl...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en)
+- **2026-06-13** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026)
+
 - **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT, LLVM, ORC JIT, Create Language
 - **2026-06-13** | [Building a JIT: Starting out with KaleidoscopeJIT (compiler-course-2026)](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM ORC JIT, KaleidoscopeJIT, compiler-course-2026
 

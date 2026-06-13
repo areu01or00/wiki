@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queue...](https://onlinetools4free.com/research/system-design-guide-2026)
+- **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Desig...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design)
+
 - **2026-06-13** | [5 AI Agent Design Patterns to Master by 2026](https://explore.n1n.ai/blog/5-ai-agent-design-patterns-master-2026-2026-03-21) | kw: AI Agent Design Patterns, ReAct, Plan-and-Execute, Multi-Agent Collaboration
 - **2026-06-13** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: Load Balancing, Caching, Distributed Systems
 - **2026-06-13** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed Systems Roadmap, CAP theorem, Paxos, Raft

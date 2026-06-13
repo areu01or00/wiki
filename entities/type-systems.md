@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html)
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual T...](https://programming-journal.org/2026/11/3)
+- **2026-06-13** | [The Mechanics of Gradual Typing and Hybrid Systems](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems)
+
 - **2026-06-13** | [TypeScript Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript, Type-Level Programming, Conditional Types, infer
 - **2026-06-13** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Graduality, Embedding-Projection, Gradual Typing
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Journal)](https://programming-journal.org/2026/11/3/) | kw: Type Annotations, Performance, Gradual Typing, Selection
