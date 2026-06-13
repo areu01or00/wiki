@@ -1,6 +1,21 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-13** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: system-design
+- **2026-06-13** | [9 Software Architecture Patterns for Distributed Systems - DEV Community](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: system-design
+- **2026-06-13** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: system-design
+- **2026-06-13** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system-design
+
+- **2026-06-13** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-13** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
+- **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+- **2026-06-13** | [Microservices Design Patterns for Cloud Architecture - IEEE Chicago](https://ieeechicago.org/microservices-design-patterns-for-cloud-architecture) | kw: system-design
+- **2026-06-13** | [Distributed System Design Patterns: A Practitioners Reference](https://distributedsystemauthority.com/distributed-system-design-patterns) | kw: system-design
+- **2026-06-13** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: system-design
+- **2026-06-13** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
+- **2026-06-13** | [System Design 101-Everything to know about Distributed Systems](https://dev.to/mukulalpha/system-design-101-everything-to-know-about-distributed-systems-2hd6) | kw: system-design
+
 - **2026-06-13** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming, Paradigm
 - **2026-06-13** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12, Essential, Distributed
 - **2026-06-13** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide
