@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | type-systems
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement of Gradual Typing](https://programming-journal.org/2026/11/3) | type-systems
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | type-systems
+
 - **2026-06-13** | [The Rise of Static Typing](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: type-systems
 - **2026-06-13** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
