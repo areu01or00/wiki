@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: braindetox.kr
+- **2026-06-13** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing.python.org
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: programming-journal.org
+- **2026-06-13** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: dl.acm.org
+- **2026-06-13** | [Understanding Graduality through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: christophegaron.com
+- **2026-06-13** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: khoury.northeastern.edu
+- **2026-06-13** | [GitHub - Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: github.com
+
 - **2026-06-13** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type, system, concepts
 - **2026-06-13** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: outs, gradual, type
 - **2026-06-13** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual, typing, wikipedia

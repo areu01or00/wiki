@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [compiler-course-2026 BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: github.com
+- **2026-06-13** | [The Case For Compilers: SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: servethehome.com
+- **2026-06-13** | [compiler-course-2026 BuildingAJIT1.rst (VALancaster)](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: github.com
+- **2026-06-13** | [Perry - Native TypeScript Compiler LLVM](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: braindetox.kr
+- **2026-06-13** | [Compilers and Modern Language Runtimes - LLVM JIT GC V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: youngju.dev
+- **2026-06-13** | [LLVM Implementation for Java JIT Compilers](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: medium.com
+- **2026-06-13** | [LLVM Challenges and Mitigation Strategies in 2026](https://ubos.tech/news/llvms-ongoing-challenges-and-mitigation-strategies-in-2026) | kw: ubos.tech
+
 - **2026-06-13** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: fosdem, 2026, orcjit
 - **2026-06-13** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: case, compilers:, look
 - **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: just-in-time, (jit), compiler

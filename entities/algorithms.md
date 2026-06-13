@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: thetutorbridge.com
+- **2026-06-13** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: careerlift.ai
+- **2026-06-13** | [Google 2026 LeetCode Interview Preparation Guide](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: gist.github.com
+- **2026-06-13** | [NeetCode - Coding Interview Prep](https://neetcode.io/) | kw: neetcode.io
+- **2026-06-13** | [How to prepare for DSA interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: youtube.com
+- **2026-06-13** | [Best DSA Sheet 2026 - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: namastedev.com
+- **2026-06-13** | [LeetCode Interview Guide (2026)](https://www.techinterview.org/companies/leetcode-interview-guide) | kw: techinterview.org
+- **2026-06-13** | [Algorithms & Data Structures (LeetCode Preparation) - ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: archman.dev
+- **2026-06-13** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: freeclass.ai
+
 - **2026-06-13** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithms, data, structures
 - **2026-06-13** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: interview, questions, discuss
 - **2026-06-13** | [Top 30 Data Structures Problems for Technical Interview Preparation](https://www.reddit.com/r/programming/comments/62xwba/top_30_data_structures_problems_for_technical) | kw: data, structures, problems

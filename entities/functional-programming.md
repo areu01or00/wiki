@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: codegenes.net
+- **2026-06-13** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad/) | kw: bertiqwerty.com
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: penchef.com
+- **2026-06-13** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: youngju.dev
+- **2026-06-13** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: wikipedia.org
+- **2026-06-13** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: softwarepatternslexicon.com
+- **2026-06-13** | [monadify - Rust utility](https://lib.rs/crates/monadify) | kw: lib.rs
+- **2026-06-13** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: medium.com
+
 - **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: learned, monads:, through
 - **2026-06-13** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: haskell, rust, comparison
 - **2026-06-13** | [Comparing Haskell and Rust: which to choose, when?](https://www.reddit.com/r/haskell/comments/47rjr4/comparing_haskell_and_rust_which_to_choose_when) | kw: comparing, haskell, rust:
