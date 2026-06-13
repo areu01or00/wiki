@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
+- **2026-06-13** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, Types
+- **2026-06-13** | [TypeScript Type System as a Proof System Type-Level Programming Beyond the Basics - Java Code Geeks](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript, Type, System
+
 - **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language
 - **2026-06-13** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
 - **2026-06-13** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing

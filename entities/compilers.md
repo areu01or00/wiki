@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry, Native, TypeScript
+- **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time, (JIT), Compiler
+- **2026-06-13** | [JIT Compilation microsoft/llvm DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: Compilation, microsoft/llvm, DeepWiki
+- **2026-06-13** | [Compilers and Modern Language Runtimes LLVM JIT GC V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, ...
 - **2026-06-13** | [LLVM 6 Compiling to Object Code.](https://www.webnuz.com/article/2026-06-08/LLVM%206%20%20Compiling%20to%20Object%20Code.) | kw: LLVM, Compiling, Object
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, ...
