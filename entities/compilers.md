@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM, 2026, OrcJIT
+- **2026-06-13** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern
+- **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time, JIT, Compiler
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026, RomanPikhotskiy/compiler-course-2026
+- **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst
+
 - **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
 - **2026-06-13** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
 - **2026-06-13** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: Compiler

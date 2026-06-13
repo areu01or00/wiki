@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-13** | [CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: CPython, Internals, How
+- **2026-06-13** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management
+- **2026-06-13** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: Memory, Management, Python
+
 - **2026-06-13** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: Python's
 - **2026-06-13** | [Python - Python Memory Management Internals | eVidhya](https://evidhya.com/subjects/python/python-memory-management-internals) | kw: Python
 - **2026-06-13** | [Python Internals: Understanding Python's Memory Management](https://iter-academy.com/python-internals-understanding-pythons-memory-management) | kw: Python

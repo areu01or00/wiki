@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-13** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, and
+- **2026-06-13** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design/) | kw: System, Architecture, Design
+- **2026-06-13** | [Distributed Systems Patterns: Saga, Outbox, Idempotency Keys](https://viprasol.com/blog/distributed-systems-patterns) | kw: Distributed, Systems, Patterns
+- **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide
+- **2026-06-13** | [Coordination Patterns - Architecture Insights](https://stevenstuartm.com/study-guides/architecture/coordination_patterns.html) | kw: Coordination, Patterns, Architecture
+
 - **2026-06-13** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices
 - **2026-06-13** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: Future
 - **2026-06-13** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System

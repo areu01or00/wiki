@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers) - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
+- **2026-06-13** | [Type inference - Wikipedia](https://en.wikipedia.org/wiki/Type_inference) | kw: Type, inference, Wikipedia
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3) | kw: Efficient, Selection, Type
+- **2026-06-13** | [Understanding Hindley-Milner Type Inference - Grasp](https://paths.grasp.study/public-courses/15ccf738-a186-4424-9c3a-e2da96426717/modules/2f8850e3-90d6-4f4c-b97e-f7fec4494986/lessons/631abe61-457e-4026-8d74-e3819396d9e3) | kw: Understanding, Hindley-Milner, Type
+
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
 - **2026-06-13** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives | NSF](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual
 - **2026-06-13** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: Design
