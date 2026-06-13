@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, the, 2026
+- **2026-06-13** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: Ins, Outs, Gradual
+- **2026-06-13** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
+- **2026-06-13** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: Jeremy, Siek, Web
+
 - **2026-06-13** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
 - **2026-06-13** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: type-systems
 - **2026-06-13** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems

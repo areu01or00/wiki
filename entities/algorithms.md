@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-13** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: DSA, Sheet, 2026
+- **2026-06-13** | [Master Coding for Data Science - StrataScratch](http://stratascratch.com/) | kw: Master, Coding, Data
+- **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Data, structures, algorithms
+- **2026-06-13** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview
+- **2026-06-13** | [What are the most important data structures in a tech interview? - Quora](https://www.quora.com/What-are-the-most-important-data-structures-in-a-tech-interview) | kw: are, the, most
+- **2026-06-13** | [Top 100 Data Structures Interview Questions in 2026](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: 100, Data, Structures
+- **2026-06-13** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Data, Structure, LeetCode
+
 - **2026-06-13** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
 - **2026-06-13** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: algorithms
 - **2026-06-13** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: algorithms
