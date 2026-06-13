@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-13** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell, Gleam, Rust, Functional Programming 2026
+- **2026-06-13** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Monads, Rust, Haskell, Medium
+- **2026-06-13** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, Rust, State Monad, Builder Pattern
+- **2026-06-13** | [monadify — Rust utility for functional programming abstractions](https://lib.rs/crates/monadify) | kw: Rust, Monadify, Functors, Applicatives, Profunctors, Monads
+- **2026-06-13** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust, Functional Programming, Monads, Option, Result
+- **2026-06-13** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Rust, Functional Programming, Immutability, Pure Functions
+
 - **2026-06-13** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, monads
 - **2026-06-13** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad-Like, Patterns
 - **2026-06-13** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Finest:

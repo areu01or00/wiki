@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-13** | [TypeScript Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript, Type-Level Programming, Conditional Types, infer
+- **2026-06-13** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Graduality, Embedding-Projection, Gradual Typing
+- **2026-06-13** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Journal)](https://programming-journal.org/2026/11/3/) | kw: Type Annotations, Performance, Gradual Typing, Selection
+- **2026-06-13** | [Type system concepts - Python typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python Type System, Static/Dynamic/Gradual Typing, Any
+
 - **2026-06-13** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
 - **2026-06-13** | [TypeScript's Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript's, Type, System
 - **2026-06-13** | [On the cost of type-tag soundness](http://dl.acm.org/doi/10.1145/3162066) | kw: cost, type-tag, soundness

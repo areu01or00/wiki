@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-13** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT, LLVM, ORC JIT, Create Language
+- **2026-06-13** | [Building a JIT: Starting out with KaleidoscopeJIT (compiler-course-2026)](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM ORC JIT, KaleidoscopeJIT, compiler-course-2026
+
 - **2026-06-13** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry, Native, TypeScript
 - **2026-06-13** | [Resume - Sanjoy Das](http://playingwithpointers.com/resume.html) | kw: Resume, Sanjoy
 - **2026-06-13** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM, Wikipedia
