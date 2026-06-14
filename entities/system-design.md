@@ -1,6 +1,32 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns, Distributed, Systems:
+- **2026-06-14** | [Distributed Systems Patterns](https://viprasol.com/blog/distributed-systems-patterns) | kw: Distributed, Systems, Patterns
+- **2026-06-14** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap
+- **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
+- **2026-06-14** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture
+- **2026-06-14** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: Future, System, Design:
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide
+- **2026-06-14** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: System, Design, Patterns:
+- **2026-06-14** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
+- **2026-06-14** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture
+- **2026-06-14** | [Cloud Native Architecture in 2026: 8 Trends, Tools, and Implementation Guide](https://www.decipherzone.com/blog-detail/cloud-native-architecture-trends) | kw: Cloud, Native, Architecture
+- **2026-06-14** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: Architecture, Styles, Distributed
+- **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns
+- **2026-06-14** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/@xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: Software, Architecture, Trends
+- **2026-06-14** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three, Bold, Predictions
+- **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge, Computing, Trends
+- **2026-06-14** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: Edge, Computing, Patterns
+- **2026-06-14** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System, Design, Patterns:
+- **2026-06-14** | [Distributed Systems Patterns Every Backend Engineer Must Know](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed, Systems, Patterns
+- **2026-06-14** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: Build, Distributed, System
+- **2026-06-14** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: Architecture, Styles, Distributed
+- **2026-06-14** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: Future, System, Design:
+- **2026-06-14** | [Distribution Design: Essential Principles for Grid Reliability](https://www.katapultengineering.com/blog/distribution-design-the-basics) | kw: Distribution, Design:, Essential
+- **2026-06-14** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: Predicting, Future, Distributed
+- **2026-06-14** | [Distributed architecture patterns | Cloud Architecture Center](https://docs.cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/distributed-patterns) | kw: Distributed, architecture, patterns
+
 - **2026-06-14** | [Mastering Distributed Systems -- Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
 - **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
 - **2026-06-14** | [Top 8 Commonly Used Distributed Systems Patterns](https://www.edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | kw: system-design

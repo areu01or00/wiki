@@ -1,6 +1,34 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
+- **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language
+- **2026-06-14** | [Best Software with Gradual Typing Functionality (2026)](https://appmus.com/feature/gradual-typing) | kw: Best, Software, Gradual
+- **2026-06-14** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-14** | [Horizon Summary: 2026-06-04 (EN) | Horizon Daily](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: Horizon, Summary:, 2026-06-04
+- **2026-06-14** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: Outs, Gradual, Type
+- **2026-06-14** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, Inference
+- **2026-06-14** | [IEEE Reveals 2026 Predictions for Top Technology Trends](https://www.prnewswire.com/news-releases/ieee-reveals-2026-predictions-for-top-technology-trends-302674326.html) | kw: IEEE, Reveals, 2026
+- **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, Language, Labyrinth:
+- **2026-06-14** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders - Unosquare](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing) | kw: Static, Dynamic, Typing
+- **2026-06-14** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, Types
+- **2026-06-14** | [Typing Speed Statistics 2026: How Fast Does the Average Person Actually Type?](https://typingmonk.com/blog/typing-speed-statistics-2026) | kw: Typing, Speed, Statistics
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
+- **2026-06-14** | [Type system concepts - Python typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-14** | [TypeScript's Type System as a Proof System: Type-Level Programming](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript's, Type, System
+- **2026-06-14** | [Gradual Typing Bibliography - Papers We Love](https://paperswelove.org/papers/gradual-typing-bibliography-26b3ee6f/) | kw: Gradual, Typing, Bibliography
+- **2026-06-14** | [The Quiet Evolution of Programming Languages: From Syntax to Semantics](https://www.javacodegeeks.com/2026/04/the-quiet-evolution-of-programming-languages-from-syntax-to-semantics.html) | kw: Quiet, Evolution, Programming
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-14** | [TypeScript Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript, Type, System
+- **2026-06-14** | [A Deep Dive into Type Systems - What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: Deep, Dive, into
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the ...](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-14** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed, Confused:, Studying
+- **2026-06-14** | [Gradual Typing with Unification-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual, Typing, Unification-based
+
 - **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
 - **2026-06-14** | [Type system concepts -- typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
