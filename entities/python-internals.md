@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [The GIL Is Finally Dead: Free-Threaded Python Is Production ...](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: python-internals
+- **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
+- **2026-06-14** | [Python Global Interpreter Lock (GIL) - cosmiclearn.com](https://www.cosmiclearn.com/python/gil.php) | kw: python-internals
+- **2026-06-14** | [Python's GIL Is Gone — What That Actually Means for Your Code \| by Meryem Sakin \| Python in Plain English](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python-internals
+- **2026-06-14** | [Memory Management in Python - Real Python](https://realpython.com/python-memory-management) | kw: python-internals
+
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 - **2026-06-14** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python-internals
 - **2026-06-14** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: python-internals

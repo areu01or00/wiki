@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: system-design
+- **2026-06-14** | [Distributed Systems \| Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+
 - **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
 - **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system-design
 - **2026-06-14** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
