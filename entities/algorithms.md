@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: Learn, LeetCode, DSA:
+- **2026-06-14** | [Best Websites to Practice DSA Mock Tests in (2026)](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests/) | kw: Best, Websites, Practice
+- **2026-06-14** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview:
+- **2026-06-14** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews | Free Class AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data, Structures, Algorithms
+- **2026-06-14** | [Best Coding Practice Platforms and Challenge Websites in 2026](https://scrimba.com/articles/best-coding-practice-platforms-and-challenge-websites-in-2026) | kw: Best, Coding, Practice
+
 - **2026-06-14** | [FAANG Interview Pattern Recognition — 14 Algorithm Patterns | Wasil Zafar](https://www.wasilzafar.com/pages/series/data-structures/dsa-interview-pattern-recognition.html) | kw: FAANG Interview Pattern Recognition
 - **2026-06-14** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems | LastRound AI](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cov
 - **2026-06-14** | [LeetCode Patterns That Still Matter in 2026: What I... | Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode Patterns That Still Matter in 2026: What I...

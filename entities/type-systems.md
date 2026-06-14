@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, with
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations for Performance Impr
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance ...
 - **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth: A 2026 Matrix Analysis of

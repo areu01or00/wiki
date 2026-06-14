@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Modern Software Architecture Patterns That Scale In 2026](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern, Software, Architecture
+- **2026-06-14** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
+- **2026-06-14** | [Top 6 Enterprise Architecture Trends for 2026 and Beyond | ACL Digital](https://www.acldigital.com/blogs/top-6-enterprise-architecture-trends-shaping-2026-and-beyond) | kw: Enterprise, Architecture, Trends
+- **2026-06-14** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future, High-Performance, Distributed
+
 - **2026-06-14** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The Coming Paradigm Shift in Distributed Systems Architectur
 - **2026-06-14** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed Systems Roadmap (2026)
 - **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns
