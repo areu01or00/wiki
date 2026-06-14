@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance...](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
+- **2026-06-14** | [Horizon Summary: 2026-06-04 (EN)](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: type-systems
+- **2026-06-14** | [The ins and outs of gradual type inference](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: type-systems
+- **2026-06-14** | [A Deep Dive into Type Systems - What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type-systems
+- **2026-06-14** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://ieeexplore.ieee.org/abstract/document/10764940) | kw: type-systems
+
 - **2026-06-14** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: documentation, concepts, system, Type, typing
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: documentation, Efficient, Performance, concepts, system
 - **2026-06-14** | [The Rise of Static Typing - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: documentation, Rise, Efficient, Performance, concepts
