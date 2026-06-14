@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [力扣 (LeetCode) 全球极客挚爱的技术成长平台](https://leetcode.cn/) | kw: 全球极客挚爱的技术成长平台
+- **2026-06-14** | [【分类整理】面试最常考的 100 道 LeetCode 算法题](https://blog.csdn.net/fuxuemingzhu/article/details/122164511) | kw: 【分类整理】面试最常考的
+- **2026-06-14** | [题库- 力扣(LeetCode) 全球极客挚爱的技术成长平台](https://leetcode.cn/problemset) | kw: 力扣(LeetCode
+- **2026-06-14** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: update
+- **2026-06-14** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: update
+- **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: update
+- **2026-06-14** | [数据结构与算法面试题 | 小林coding | Java面试学习](https://xiaolincoding.com/interview/data.html) | kw: 数据结构与算法面试题, 小林coding, Java面试学习
+- **2026-06-14** | [面试最常考的100 道算法题分类整理！](https://zhuanlan.zhihu.com/p/449686402) | kw: 面试最常考的100, 道算法题分类整理！
+- **2026-06-14** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: update
+- **2026-06-14** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: update
+
 - **2026-06-14** | [Best DSA Sheet 2026 To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: 100, StrataScratch, technical
 - **2026-06-14** | [NeetCode Coding Interview Prep Courses Versus Mode](https://neetcode.io/) | kw: 100, StrataScratch, technical
 - **2026-06-14** | [Algorithms Data Structures LeetCode Preparation ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: 100, StrataScratch, technical

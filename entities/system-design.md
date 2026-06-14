@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: update
+- **2026-06-14** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: update
+- **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: update
+- **2026-06-14** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: update
+- **2026-06-14** | [System Design & Architecture (Part-I): Distributed Systems Essentials](https://medium.com/%400s.and.1s/system-design-architecture-part-i-distributed-systems-essentials-93ec785c0ae7) | kw: update
+- **2026-06-14** | [Most-Used Distributed System Design Patterns](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33) | kw: update
+
 - **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: Distributed, Patterns:, systems
 - **2026-06-14** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Patterns:, systems
 

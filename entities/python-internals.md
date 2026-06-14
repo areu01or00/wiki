@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: update
+- **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: update
+- **2026-06-14** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: update
+- **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: update
+- **2026-06-14** | [Python Memory Management Internals](https://evidhya.com/subjects/python/python-memory-management-internals) | kw: update
+- **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: update
+- **2026-06-14** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: update
+- **2026-06-14** | [GIL in Python: What is it and Why Does it Matter?](https://dev.to/dubbyding/gil-in-python-what-is-it-and-why-does-it-matter-d5p) | kw: Does
+- **2026-06-14** | [01_Advanced_Memory_GIL.md - GitHub](https://github.com/AmanDevNet/AI_ML_Interview_Prep/blob/main/Python_Revision_Handbook/Phase3/01_Advanced_Memory_GIL.md) | kw: update
+- **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: update
+
 - **2026-06-14** | [How Python Works Under the Hood: Memory GIL and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: (2026), (And, (GIL
 - **2026-06-14** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: (2026), (And, (GIL
 - **2026-06-14** | [Python Internals Memory Management the Global Interpreter Lock GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: (2026), (And, (GIL

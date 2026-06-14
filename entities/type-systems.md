@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: update
+- **2026-06-14** | [The Mechanics of Gradual Typing and Hybrid Systems](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: update
+- **2026-06-14** | [TypeScript Type System as a Proof System: Type-Level Programming](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: update
+- **2026-06-14** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: update
+- **2026-06-14** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: update
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Gradually, type-tag soundness, Documentation
 - **2026-06-14** | [Type system concepts typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Gradually, type-tag soundness, Documentation
 - **2026-06-14** | [Gradual Typing in Type Theory numberanalytics](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradually, type-tag soundness, Documentation
