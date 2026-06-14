@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: GIL, Finally, Dead:
+- **2026-06-14** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals:
+- **2026-06-14** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, GIL:
+- **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal and...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future, Python, Internals:
+- **2026-06-14** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management
+- **2026-06-14** | [Memory Management in Python - Real Python](https://realpython.com/python-memory-management) | kw: Memory, Management, Python
+- **2026-06-14** | [CPython Internals Explained by Ethan Garrett](https://books.apple.com/us/book/cpython-internals-explained/id6776812050) | kw: CPython, Internals, Explained
+- **2026-06-14** | [Mojo's Ownership System: How a 35-Year-Old Memory Management Pattern...](https://devops-geek.net/nerd-space/mojo-s-ownership-system-how-a-35-year-old-memory-management-pattern-became-the-secret-weapon-against/) | kw: Mojo's, Ownership, System:
+
 - **2026-06-14** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory
 - **2026-06-14** | [Python Complete Guide | CPython Internals GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: Python, Complete, Guide
 - **2026-06-14** | [How Python's GIL actually works (and when it bites you) - DEV Community](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Python's, GIL, actually

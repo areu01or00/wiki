@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks) | kw: System, Design, Building
+- **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge, Computing, Trends
+- **2026-06-14** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: 10, Essential, Distributed
+- **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices, Architecture, Patterns
+- **2026-06-14** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best
+
 - **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system design, guide, 2026
 - **2026-06-14** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: microservices, serverless, edge
 - **2026-06-14** | [The Complete Guide to System Design in 2026](https://grokkingthesystemdesign.com/complete-guide-to-system-design) | kw: system design, scalability, patterns

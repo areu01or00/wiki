@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026:
+- **2026-06-14** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: Haskell, Rust, Comparison
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads:, Haskell
+- **2026-06-14** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional
+- **2026-06-14** | [Higher Kinded Types in Rust](https://hugopeters.me/posts/14) | kw: Higher, Kinded, Types
+- **2026-06-14** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads, Monad, Like
+- **2026-06-14** | [Rust vs. Haskell: A performance comparison - LogRocket Blog](https://blog.logrocket.com/rust-vs-haskell-performance-comparison) | kw: Rust, vs., Haskell:
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Rust, Support, Functional
+
 - **2026-06-14** | [Monads in Haskell - DEV Community](https://dev.to/bekbrace/monads-in-haskell-1p8i) | kw: Monads, Haskell, DEV
 - **2026-06-14** | [Monads Tutorial -- Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday
 - **2026-06-14** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Monads, Online

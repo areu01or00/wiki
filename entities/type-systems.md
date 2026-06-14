@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
+- **2026-06-14** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
+- **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, Language, Landscape:
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-14** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual, Typing, Performance,
+- **2026-06-14** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia
+- **2026-06-14** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual, Typing, Language
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
 - **2026-06-14** | [The New AI Battleground: Tech Predictions for 2026 Point to Inference](https://creati.ai/ai-news/2026-01-21/tech-predictions-2026-ai-inference-kubernetes/) | kw: AI, Battleground, Tech
 - **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language
