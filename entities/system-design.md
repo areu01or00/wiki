@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: System
+- **2026-06-14** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering
+- **2026-06-14** | [Cloud Native Architecture | Kubernetes & Serverless 2026](https://gegosoft.com/cloud-native-architecture) | kw: Cloud
+- **2026-06-14** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: 10
+- **2026-06-14** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns
+- **2026-06-14** | [Cloud Native Architecture in 2026: 8 Trends, Tools, and Implementation Guide](https://www.decipherzone.com/blog-detail/cloud-native-architecture-trends) | kw: Cloud
+
 - **2026-06-14** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: system design
 - **2026-06-14** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system design
 - **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system design

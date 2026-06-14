@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data
+- **2026-06-14** | [Introduction to Data Structures & Algorithms with Leetcode](https://beesec.gitbook.io/algorithms) | kw: Introduction
+- **2026-06-14** | [LeetCode Patterns That Still Matter in 2026: What I...](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode
+- **2026-06-14** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How
+
 - **2026-06-14** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: algorithms
 - **2026-06-14** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms
 - **2026-06-14** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithms
