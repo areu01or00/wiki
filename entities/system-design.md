@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [System Design Series Part 13: Distributed Systems Deep Dive - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-distributed-systems-deep-dive.html) | kw: System
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System
+- **2026-06-14** | [System Design: The Complete Deep Dive | Ray Silvers Blog](https://raysilvers.tech/posts/2026/architecture/system-design-the-complete-deep-dive) | kw: System
+- **2026-06-14** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed
+- **2026-06-14** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed
+- **2026-06-14** | [MODERN TRENDS IN THE DEVELOPMENT OF ENTERPRISE APPLICATION ARCHITECTURE FOR DISTRIBUTED TEAMS](https://ijrcms.com/uploads2026/ijrcms_08_675.pdf) | kw: MODERN
+
 - **2026-06-14** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming, Paradigm, Shift
 - **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide
 - **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series

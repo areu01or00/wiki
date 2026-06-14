@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating
+- **2026-06-14** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual
+- **2026-06-14** | [Type Theory and Gradual Typing - numberanalytics.com](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: Type
+- **2026-06-14** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual
+- **2026-06-14** | [Gradual Typing And Hybrid Systems Integration: Securing High-Throughput Platform Frameworks](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: Gradual
+- **2026-06-14** | [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf) | kw: Abstracting
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
 - **2026-06-14** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
 - **2026-06-14** | [Type Theory and Gradual Typing](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: Type, Theory, Gradual

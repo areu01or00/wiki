@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms
+- **2026-06-14** | [LeetCode Patterns That Still Matter in 2026: What Interviewers Still Reward](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode
+- **2026-06-14** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data
+- **2026-06-14** | [DSA Full Course 2026 | Data Structures & Algorithms Mastery](https://www.youtube.com/watch?v=f2Jd5M0hLJA) | kw: DSA
+- **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data
+
 - **2026-06-14** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview:
 - **2026-06-14** | [Introduction to Data Structures & Algorithms with Leetcode](https://beesec.gitbook.io/algorithms) | kw: Introduction, Data, Structures
 - **2026-06-14** | [Best Websites to Practice DSA Mock Tests in (2026)](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests) | kw: Best, Websites, Practice
