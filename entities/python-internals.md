@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python-internals
+- **2026-06-14** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-14** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
+- **2026-06-14** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: python-internals
+- **2026-06-14** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python-internals
+- **2026-06-14** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: python-internals
+- **2026-06-14** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python-internals
+- **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: python-internals
+
 - **2026-06-14** | [What is PEP 703? | pydevtools](https://pydevtools.com/handbook/explanation/what-is-pep-703) | kw: python-internals
 - **2026-06-14** | [Unlocking True Parallelism: A Developers Guide to Free-Threaded Python 3.14 - DEV Community](https://dev.to/mechcloud_academy/unlocking-true-parallelism-a-developers-guide-to-free-threaded-python-314-175i) | kw: python-internals
 - **2026-06-14** | [Python 3.14 Free-Threading - True Parallelism Without the GIL | Edgar Montano](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: python-internals
