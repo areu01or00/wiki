@@ -1,6 +1,19 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14 00:32** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-14 00:32** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
+- **2026-06-14 00:32** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-14 00:32** | [Gradual Typing Bibliography - Papers We Love](https://paperswelove.org/papers/gradual-typing-bibliography-26b3ee6f/) | kw: type-systems
+- **2026-06-14 00:32** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: type-systems
+- **2026-06-14 00:32** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-14 00:32** | [The Rise of Static Typing - Why It Has Been Back Since the ...](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
+- **2026-06-14 00:32** | [[2603.05649] Efficient Selection of Type Annotations for ...](https://arxiv.org/abs/2603.05649) | kw: type-systems
+- **2026-06-14 00:32** | [On the cost of type-tag soundness - ACM Digital Library](http://dl.acm.org/doi/10.1145/3162066) | kw: type-systems
+- **2026-06-14 00:32** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type-systems
+- **2026-06-14 00:32** | [Elixir 1.20 Gradual Typing: No Annotations, Real Bug Catches](https://byteiota.com/elixir-1-20-gradual-typing-no-annotations/) | kw: type-systems
+- **2026-06-14 00:32** | [What is Decidable about Gradual Types? - POPL 2020](http://popl20.sigplan.org/details/POPL-2020-Research-Papers/10/What-is-Decidable-about-Gradual-Types-) | kw: type-systems
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | profile: type-systems
 - **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | profile: type-systems
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | profile: type-systems
