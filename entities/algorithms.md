@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [FAANG Interview Pattern Recognition — 14 Algorithm Patterns | Wasil Zafar](https://www.wasilzafar.com/pages/series/data-structures/dsa-interview-pattern-recognition.html) | kw: FAANG Interview Pattern Recognition
+- **2026-06-14** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems | LastRound AI](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cov
+- **2026-06-14** | [LeetCode Patterns That Still Matter in 2026: What I... | Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode Patterns That Still Matter in 2026: What I...
+- **2026-06-14** | [Algorithm Patterns for Coding Interviews: The Framework for ...](https://craqly.com/blog/leetcode-patterns-cheat-sheet) | kw: Algorithm Patterns for Coding Interviews: The Framework for 
+- **2026-06-14** | [Interview Prep: Algorithm Patterns | SyntaxCache](https://www.syntaxcache.com/interview-prep) | kw: Interview Prep: Algorithm Patterns
+- **2026-06-14** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: Leetcode Patterns - Sean Prashad
+- **2026-06-14** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: Top 100+ Data Structure Interview Questions and Answers (202
+
 - **2026-06-14** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: algorithms
 - **2026-06-14** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithms
 - **2026-06-14** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: algorithms
