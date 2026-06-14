@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [ML Compiler Optimization Revolution Deep Dive 2026](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: Compiler, Optimization, Revolution
+- **2026-06-14** | [compiler-course-2026 BuildingAJIT1.rst RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, BuildingAJIT1rst, RomanPikhotskiy
+- **2026-06-14** | [compiler-course-2026 BuildingAJIT1.rst chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, BuildingAJIT1rst, chekalexey
+- **2026-06-14** | [compiler-course-2026 BuildingAJIT3.rst 4elodoy-Molovek](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026, BuildingAJIT3rst, 4elodoy-Molovek
+- **2026-06-14** | [JIT Compilation microsoft/llvm DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: JIT, Compilation, microsoft/llvm
+- **2026-06-14** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry, The, Native
+
 - **2026-06-14** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: Compilation, microsoft/llvm, DeepWiki
 - **2026-06-14** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: Compiler, Optimization, Revolution
 - **2026-06-14** | [Python's JIT Compiler in 2026 — How Fast Is It Really?](https://www.pyblog.in/programming/inorder-traversal-of-binary-tree-in-python) | kw: Python's, Compiler, 2026

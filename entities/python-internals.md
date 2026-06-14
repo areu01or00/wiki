@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The, GIL, Finally
+- **2026-06-14** | [Python Internals: Memory Management and the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory
+- **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: How, Python, Works
+- **2026-06-14** | [Memory Management and GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, and
+- **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The, Future, Python
+- **2026-06-14** | [Global Interpreter Lock (GIL) in Python: Past, Present, and Future](https://igorpejic.com/posts/gil) | kw: Global, Interpreter, Lock
+- **2026-06-14** | [Python Global Interpreter Lock (GIL) - cosmiclearn.com](https://www.cosmiclearn.com/python/gil.php) | kw: Python, Global, Interpreter
+- **2026-06-14** | [Pythons GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Pythons, GIL, Gone
+
 - **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Python, Works, Under
 - **2026-06-14** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: Python, Complete, Guide
 - **2026-06-14** | [PEP 703 Explained: How Python Finally Removes the GIL - DEV Community](https://dev.to/epam_india_python/pep-703-explained-how-python-finally-removes-the-gil-49d) | kw: Explained:, Python, Finally

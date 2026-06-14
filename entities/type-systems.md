@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Elixir v1.20 Achieves Gradual Typing Without Annotations | SimpleNews.ai](https://www.simplenews.ai/news/elixir-v120-achieves-gradual-typing-without-annotations-3zyn) | kw: Elixir, v120, Achieves
+- **2026-06-14** | [TypeScript Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript, Type, System
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance - programming-journal.org](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing - arXiv](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type
+
 - **2026-06-14** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, with
 
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations for Performance Impr

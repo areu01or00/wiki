@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust - PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026
+- **2026-06-14** | [Haskell Programmer and Category Theory - Qiita](https://qiita.com/etale_cohomology/items/4ab14bd6eff63fdc91b7) | kw: Haskell, Programmer, and
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring CodeGenes](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Its
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: How, Learned, Monads
+- **2026-06-14** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, 2026
+- **2026-06-14** | [The Practical Value of Functional Programming — Monad - youngju.dev](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value
+- **2026-06-14** | [William103/rust-monads: WIP implementation of monads in Rust](https://github.com/William103/rust-monads) | kw: William103/rust-monads, WIP, implementation
+
 - **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads:, Through
 - **2026-06-14** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional
 - **2026-06-14** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify, Rust, utility
