@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Catalog of Patterns of Distributed Systems - Martin Fowler](https://martinfowler.com/articles/patterns-of-distributed-systems) | kw: catalog, patterns, distributed
+- **2026-06-14** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: distributed, systems, roadmap
+- **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed ...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: edge, computing, trends
+- **2026-06-14** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed, systems, architecture
+- **2026-06-14** | [Mastering Distributed Systems - Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering, distributed, systems
+- **2026-06-14** | [Distributed Systems vs Microservices: A Comprehensive Comparison | Graph AI](https://www.graphapp.ai/blog/distributed-systems-vs-microservices-a-comprehensive-comparison) | kw: distributed, systems, microservices
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN ...](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system, design, guide
+
 - **2026-06-14** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: System, Design:, The
 - **2026-06-14** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
 - **2026-06-14** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best

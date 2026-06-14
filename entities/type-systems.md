@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type, system, concepts
+- **2026-06-14** | [The Elixir Evolution: Demystifying Gradual Typing in Elixir v1.17 and v1.18](https://www.sysseder.com/2026/06/the-elixir-evolution-demystifying.html) | kw: elixir, evolution, demystifying
+- **2026-06-14** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: gradual, typing, types
+- **2026-06-14** | [PHP's Gradual Typing Journey: From Wild West to Almost Respectable - Java Code Geeks](https://www.javacodegeeks.com/2026/01/phps-gradual-typing-journey-from-wild-west-to-almost-respectable.html) | kw: php's, gradual, typing
+- **2026-06-14** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: jeremy, siek, page
+
 - **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, the, Language
 - **2026-06-14** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: [2603.05649], Efficient, Selection
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, of
