@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | source: algorithms
+- **2026-06-14** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | source: algorithms
+- **2026-06-14** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | source: algorithms
+- **2026-06-14** | [Google 2026 LeetCode Interview Preparation Guide](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | source: algorithms
+- **2026-06-14** | [awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | source: algorithms
+
 - **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Interview
 - **2026-06-14** | [59 Essential Searching Algorithms Interview Questions in 2026 - Devinterview-io](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: Searching
 - **2026-06-14** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: DSA roadmap

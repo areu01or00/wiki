@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | source: compilers
+- **2026-06-14** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | source: compilers
+- **2026-06-14** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | source: compilers
+- **2026-06-14** | [BuildingAJIT3.rst - compiler-course-2026](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | source: compilers
+- **2026-06-14** | [LLVM Integration and JIT Compilation | OpenShadingLanguage](https://deepwiki.com/AcademySoftwareFoundation/OpenShadingLanguage/3.1-llvm-integration-and-jit-compilation) | source: compilers
+- **2026-06-14** | [BuildingAJIT1.rst - chekalexey/compiler-course-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | source: compilers
+- **2026-06-14** | [arXiv:2311.04692v2 - PostgreSQL LLVM JIT](https://arxiv.org/pdf/2311.04692) | source: compilers
+- **2026-06-14** | [JIT Compilation | microsoft/llvm](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | source: compilers
+
 - **2026-06-14** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Runtimes
 - **2026-06-14** | [BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: ORC JIT
 - **2026-06-14** | [BuildingAJIT3.rst at course-spring-2026 · 4elodoy-Molovek/compiler-course-2026](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: Lazy
