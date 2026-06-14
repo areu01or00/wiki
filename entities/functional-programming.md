@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: How, Learned
+- **2026-06-14** | [A Rust Design Pattern for Linear Types - The Rust Programming Language Forum](https://users.rust-lang.org/t/a-rust-design-pattern-for-linear-types/140567) | kw: Rust, Design
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How, Learned
+- **2026-06-14** | [Haskell Guide [2026]: Functional Programming That Changes How](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, [2026]
+
 - **2026-06-14** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: Future trends and applications of Haskel
 - **2026-06-14** | [Does Rust Support Functional Programming Idioms? - codegenes.net](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Filter/Map/Reduce
 - **2026-06-14** | [Monads and Monad-Like Patterns in Rust - softwarepatternslexicon.com](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Handling computations with context in Ru
