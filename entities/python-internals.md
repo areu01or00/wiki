@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14 12:32 UTC** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals
+- **2026-06-14 12:32 UTC** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL, Key
+- **2026-06-14 12:32 UTC** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, &
+- **2026-06-14 12:32 UTC** | [Mastering How the Python Interpreter Works | PYTHON 2026](https://course4all.com/python/py-introduction-internals) | kw: Mastering, Python, Interpreter
+- **2026-06-14 12:32 UTC** | [Python Internals: Understanding Python's Memory Management](https://iter-academy.com/python-internals-understanding-pythons-memory-management) | kw: Python, Internals, Understanding
+- **2026-06-14 12:32 UTC** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, GIL, Controversy
+- **2026-06-14 12:32 UTC** | [Python - Python Memory Management Internals | eVidhya](https://evidhya.com/subjects/python/python-memory-management-internals) | kw: Python, Python, Memory
+
 - **2026-06-14** | [Python Memory Management: Strategies for Releasing Unused …](https://sqlpey.com/python/python-memory-management-strategies) | kw: python-internals
 - **2026-06-14** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: python-internals
 - **2026-06-14** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: python-internals
