@@ -1,6 +1,23 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: gradual typing
+- **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual typing, type theory
+- **2026-06-15** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type system
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: type annotations, performance
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: static typing
+- **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: gradual typing, performance
+- **2026-06-15** | [Type Theory and Gradual Typing - numberanalytics.com](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: gradual typing, type theory
+- **2026-06-15** | [Gradual Typing And Hybrid Systems Integration: Securing High-Throughput Platform Frameworks](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: gradual typing
+- **2026-06-15** | [TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: TypeScript, type system
+- **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual typing, type theory
+- **2026-06-15** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type inference
+- **2026-06-15** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: Jeremy, Siek
+- **2026-06-15** | [The ins and outs of gradual type inference - ResearchGate](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: type inference
+- **2026-06-15** | [Toward a Corpus Study of the Dynamic Gradual Type - arXiv.org](https://arxiv.org/html/2503.08928) | kw: Toward, Corpus
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers) - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: gradual typing, type annotations, performance
+- **2026-06-15** | [programming-language-research/research/papers/gradual-typing ...](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: programming-language-research/research/papers/gradual-typing
+
 - **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
 - **2026-06-14** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type-systems

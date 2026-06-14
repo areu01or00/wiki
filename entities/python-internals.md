@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL, memory management
+- **2026-06-15** | [The Ultimate Python Learning Roadmap for 2026](https://course4all.com/blog/python-learning-roadmap-2026) | kw: Ultimate, Python
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: GIL
+- **2026-06-15** | [Python Memory Management Internals](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: memory management
+- **2026-06-15** | [What Is Python Memory Management? | Coursera](https://www.coursera.org/articles/python-memory-management) | kw: memory management
+- **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, Hood
+- **2026-06-15** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL
+- **2026-06-15** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: GIL
+- **2026-06-15** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: State, Python
+- **2026-06-15** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL
+
 - **2026-06-14** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
 - **2026-06-14** | [Python - Python Memory Management Internals | eVidhya](https://evidhya.com/subjects/python/python-memory-management-internals) | kw: python-internals
 - **2026-06-14** | [Python Internals: Understanding Python's Memory Management](https://iter-academy.com/python-internals-understanding-pythons-memory-management) | kw: python-internals
