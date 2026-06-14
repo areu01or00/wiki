@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like Patterns in Rust: Exploring Functional
+- **2026-06-14** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell guide for 2026: pure functional programming, type sy
+- **2026-06-14** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Collection of good Monad tutorials for functional programmin
+- **2026-06-14** | [Practical uses of monads in Haskell](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical use of monads in Haskell with standard examples
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Rust support for functional programming: filter/map/reduce, 
+- **2026-06-14** | [Practical uses of monads in Haskell (nauths.fr)](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: Practical uses of monads in Haskell by former Google instruc
+- **2026-06-14** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monadic concepts implemented for specific types or traits in
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Haskell type class system with functors, monads, and applica
+
 - **2026-06-14** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages/) | kw: Reliability
 - **2026-06-14** | [Understanding Monads in Functional Programming: A ...](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Reliability
 - **2026-06-14** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Reliability

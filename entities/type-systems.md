@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Selecting type annotations for performance in gradually type
+- **2026-06-14** | [Type system concepts](https://typing.python.org/en/latest/spec/concepts.html) | kw: Python typing specification on static, dynamic, and gradual 
+- **2026-06-14** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: NSF research on fine-grained gradual typing performance with
+- **2026-06-14** | [gradual-typing-a-new-perspective (imteekay)](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: Gradual typing research papers collection
+- **2026-06-14** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: ANU research project on gradual typing implementation
+- **2026-06-14** | [Efficient Selection of Type Annotations (programming-journal.org)](https://programming-journal.org/2026/11/3/) | kw: Lightweight amortized approach for selecting type annotation
+
 - **2026-06-14** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Speed
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Speed
 - **2026-06-14** | [A Deep Dive into Type Systems — What Static Typing Really ...](https://yoichiozaki.github.io/en/blog/type-systems) | kw: Speed

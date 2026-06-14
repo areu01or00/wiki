@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [LeetCode Interview Questions: Top Patterns by Company (2026)](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: Frequently asked LeetCode questions at Google, Amazon, Meta,
+- **2026-06-14** | [Data Structures & Algorithms Interview Guide 2026](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: DSA interview guide with Blind 75 and TechPrep 100 lists
+- **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Complete guide covering 10 core data structures for intervie
+- **2026-06-14** | [Algorithms & Data Structures (LeetCode Preparation)](https://archman.dev/docs/algorithms-and-data-structures) | kw: Comprehensive beginner-friendly guide for LeetCode preparati
+- **2026-06-14** | [Best DSA Sheet 2026: To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: 165 DSA questions across 15 topics for interview preparation
+- **2026-06-14** | [60 LeetCode problems to solve for coding interview](https://medium.com/%40koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e) | kw: 60 LeetCode problems curated for FAANG coding interviews
+- **2026-06-14** | [Most Asked LeetCode Interview Questions](https://www.upgrad.com/blog/leetcode-interview-questions) | kw: 25+ diverse LeetCode top interview questions
+- **2026-06-14** | [Google Coding Interview (questions and prep)](https://igotanoffer.com/en/advice/google-coding-interview) | kw: Google coding interview prep resources and practice guide
+- **2026-06-14** | [Top Interview 150 - Study Plan](https://leetcode.com/studyplan/top-interview-150/) | kw: LeetCode official study plan for top interview questions
+
 - **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: to
 - **2026-06-14** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: to
 - **2026-06-14** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: to
