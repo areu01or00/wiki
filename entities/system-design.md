@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: system design
+- **2026-06-14** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system design
+- **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system design
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system design
+- **2026-06-14** | [Modern Architecture Patterns (2026 Edition)](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: system design
+- **2026-06-14** | [36 Microservices Patterns & Anti-Patterns: The Definitive Reference (2026)](https://appscale.blog/en/blog/microservices-patterns-anti-patterns-master-index-2026) | kw: system design
+
 - **2026-06-14** | [Edge Computing Trends 2026](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge computing trends and distributed cloud systems transfor
 - **2026-06-14** | [Microservices Architecture Patterns in 2026](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Mastering distributed systems design with architectural patt
 - **2026-06-14** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: 10 critical distributed system design patterns including API
