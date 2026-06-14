@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: system-design
+- **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system-design
+- **2026-06-14** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+- **2026-06-14** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: system-design
+- **2026-06-14** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: system-design
+- **2026-06-14** | [Architectural Patterns for 2026: The Full-Stack Developer's ...](https://observeinfo.com/articles/software-engineering/architectural-patterns-for-the-2026-full-stack-landscape-a-definitive-guide) | kw: system-design
+
 - **2026-06-14** | [Catalog of Patterns of Distributed Systems - Martin Fowler](https://martinfowler.com/articles/patterns-of-distributed-systems) | kw: catalog, patterns, distributed
 - **2026-06-14** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: distributed, systems, roadmap
 - **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed ...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: edge, computing, trends

@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Python Memory Management: Strategies for Releasing Unused …](https://sqlpey.com/python/python-memory-management-strategies) | kw: python-internals
+- **2026-06-14** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: python-internals
+- **2026-06-14** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: python-internals
+- **2026-06-14** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: python-internals
+- **2026-06-14** | [Python Memory Management](https://pythonguides.com/python-object-memory-management) | kw: python-internals
+- **2026-06-14** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: python-internals
+- **2026-06-14** | [Understanding Python's Garbage Collection and Memory Optimization - DEV Community](https://dev.to/pragativerma18/understanding-pythons-garbage-collection-and-memory-optimization-4mi2) | kw: python-internals
+
 - **2026-06-14** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: exploring, python, internals
 - **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: future, python, internals
 - **2026-06-14** | [Python GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python, gone, what

@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
+- **2026-06-14** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: algorithms
+- **2026-06-14** | [LeetCode Patterns That Still Matter in 2026: What I... | Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: algorithms
+
 - **2026-06-14** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: interview, questions, discuss
 - **2026-06-14** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: data, structures, algorithms
 - **2026-06-14** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: leetcode, questions, 2026

@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-06-14** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: type-systems
+- **2026-06-14** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems
+- **2026-06-14** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: type-systems
+
 - **2026-06-14** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type, system, concepts
 - **2026-06-14** | [The Elixir Evolution: Demystifying Gradual Typing in Elixir v1.17 and v1.18](https://www.sysseder.com/2026/06/the-elixir-evolution-demystifying.html) | kw: elixir, evolution, demystifying
 - **2026-06-14** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: gradual, typing, types
