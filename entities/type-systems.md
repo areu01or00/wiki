@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [gradual-typing-a-new-perspective](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: gradual-typing-a-new-perspective
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
 - **2026-06-14** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance (Journal)](https://programming-journal.org/2026/11/3/) | kw: type-systems
