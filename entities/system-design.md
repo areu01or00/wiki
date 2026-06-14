@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+- **2026-06-14** | [Building a Design System in 2026](https://engineering.udacity.com/building-a-design-system-in-2026-5cfd8d85043c) | kw: system-design
+- **2026-06-14** | [Evolutionary architecture | Thoughtworks United States](https://www.thoughtworks.com/en-us/insights/decoder/e/evolutionary-architecture) | kw: system-design
+- **2026-06-14** | [Free Video: Software Architecture for Tomorrow - Expert Talk from GOTO Conferenc](https://www.classcentral.com/course/youtube-software-architecture-for-tomorrow-expert-talk-sam-newman-julian-wood-goto-2024-353276) | kw: system-design
+- **2026-06-14** | [Evolving Reference Architecture Guidelines | PDF | Software Architecture | Softw](https://www.scribd.com/document/797703660/Evolving-Reference-Architecture-Description-Guidel) | kw: system-design
+
 - **2026-06-14** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: system-design
 - **2026-06-14** | [Distributed Systems \| Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
 

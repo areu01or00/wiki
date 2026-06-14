@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: algorithms
+- **2026-06-14** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: algorithms
+- **2026-06-14** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: algorithms
+
 - **2026-06-14** | [Data structures and algorithms study cheatsheets for coding interviews \| Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
 - **2026-06-14** | [How to prepare for data structure and algorithms interview? - Reddit](https://www.reddit.com/r/AskComputerScience/comments/hi1n71/how_to_prepare_for_data_structure_and_algorithms) | kw: algorithms
 - **2026-06-14** | [Data Structures & Algorithms For Software Engineering Interviews](https://www.youtube.com/watch?v=Yuy6NAENSVY) | kw: algorithms
