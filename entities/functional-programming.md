@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Morning, Monday, monads
+- **2026-06-14** | [Practical uses of monads in Haskell](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: monads, Haskell, monad
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: Through, monads, Haskell
+- **2026-06-14** | [Rust — Monday Morning Haskell | Monads Tutorial](https://cqjo.erkaid.de/rust-monday-morning-haskell-monads-tutorial-monday-morning-haskell) | kw: Tutorial, Morning, Monday
+
 - **2026-06-14** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads
 - **2026-06-14** | [Monads in Haskell - DEV Community](https://dev.to/bekbrace/monads-in-haskell-1p8i) | kw: Monads
 - **2026-06-14** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: A

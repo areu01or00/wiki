@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: PYTHON, Under, Python
+- **2026-06-14** | [Memory Management — Python 3.14.5 documentation](https://docs.python.org/3/c-api/memory.html) | kw: Management, Python 3.14, Memory
+
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
 - **2026-06-14** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory
 - **2026-06-14** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring

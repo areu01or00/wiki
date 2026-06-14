@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Structure, LEETCODE, Leetcode
+- **2026-06-14** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Interview, Cheat, Study
+- **2026-06-14** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: Interview, Versus, Courses
+- **2026-06-14** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Interview, Works, Interview Prep
+- **2026-06-14** | [Commonly Asked Algorithm Interview Questions - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/commonly-asked-algorithm-interview-questions-set-1) | kw: Interview, Asked, Common
+
 - **2026-06-14** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Top
 - **2026-06-14** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode
 

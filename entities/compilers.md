@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: JIT compilation, Compilation, DeepWiki
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building, Compiler, BuildingAJIT1.rst
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building, Compiler, BuildingAJIT1.rst
+
 - **2026-06-14** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
 - **2026-06-14** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM
 - **2026-06-14** | [Session Details: 2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: Session

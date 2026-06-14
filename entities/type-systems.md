@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: Micro, Types, system
+- **2026-06-14** | [Understanding Graduality in Programming Languages through ...](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Gradual, Language, Graduality
+- **2026-06-14** | [programming-language-research/research/papers/gradual-typing](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: Gradual, Typing, Language
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
 - **2026-06-14** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual
 - **2026-06-14** | [TypeScript Type System | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: TypeScript
