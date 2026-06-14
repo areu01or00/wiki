@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Data, Structure, LeetCode
+- **2026-06-14** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data, Structures, Algorithms
+- **2026-06-14** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Data, structures, algorithms
+- **2026-06-14** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: ashishps1, awesome, leetcode
+- **2026-06-14** | [leetcode-companywise-interview-questions/huawei](https://github.com/snehasishroy/leetcode-companywise-interview-questions/tree/master/huawei) | kw: leetcode, companywise, interview
+
 - **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithm, data structure, interview
 - **2026-06-14** | [leetcode-companywise-interview-questions (May 2026)](https://github.com/snehasishroy/leetcode-companywise-interview-questions) | kw: leetcode, interview, 2026
 - **2026-06-14** | [Introduction to Data Structures and Algorithms with Leetcode](https://beesec.gitbook.io/algorithms) | kw: algorithm, data structure, leetcode
