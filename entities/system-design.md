@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases](https://onlinetools4free.com/research/system-design-guide-2026) | kw: OnlineTools4Free research on
+- **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed ...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Explore edge computing
+- **2026-06-14** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12 distributed system
+
 - **2026-06-14** | [System Design Series Part 13: Distributed Systems Deep Dive - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-distributed-systems-deep-dive.html) | kw: System
 - **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System
 - **2026-06-14** | [System Design: The Complete Deep Dive | Ray Silvers Blog](https://raysilvers.tech/posts/2026/architecture/system-design-the-complete-deep-dive) | kw: System
