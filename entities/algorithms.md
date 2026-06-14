@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms
+- **2026-06-14** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews | Free Class AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: algorithms
+- **2026-06-14** | [Top 30 Data Structures Problems for Technical Interview Preparation](https://www.reddit.com/r/programming/comments/62xwba/top_30_data_structures_problems_for_technical) | kw: algorithms
+- **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
+
 - **2026-06-14** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: top 100 dsa
 - **2026-06-14** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: top 20 leetcode
 - **2026-06-14** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: data structures &

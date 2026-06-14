@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python-internals
+- **2026-06-14** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-14** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
+- **2026-06-14** | [The Ultimate Python Learning Roadmap for 2026: Complete](https://course4all.com/blog/python-learning-roadmap-2026) | kw: python-internals
+- **2026-06-14** | [Python Complete Guide | CPython Internals GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: python-internals
+- **2026-06-14** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python-internals
+- **2026-06-14** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: python-internals
+- **2026-06-14** | [Python Memory Management Internals | by Majidbasharat](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
+
 - **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: the python gil
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python - python
 - **2026-06-14** | [Will Removing Python's GIL make it significantly faster?](https://hamy.xyz/blog/2025-07_will-gil-removal-make-python-faster) | kw: will removing python's

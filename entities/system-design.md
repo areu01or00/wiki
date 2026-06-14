@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Mastering Distributed Systems -- Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: system-design
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
+- **2026-06-14** | [Top 8 Commonly Used Distributed Systems Patterns](https://www.edgeindata.com/architecture/8-most-commonly-used-distributed-systems-patterns) | kw: system-design
+- **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+
 - **2026-06-14** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: future of high-performance
 
 - **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns
