@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Functors, Applicatives, and Monads in Haskell Design Patterns](https://softwarepatternslexicon.com/haskell/functional-design-patterns/functors-applicatives-and-monads-in-design-patterns/) | kw: Monads, Haskell, Design, Patterns
+- **2026-06-14** | [Functors, Applicatives, and Monads: FP Concepts Explained](https://read.thecoder.cafe/p/functors-applicatives-monads) | kw: Concepts, Explained
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional, Programming, Haskell, Developers
+- **2026-06-14** | [Monads: Beyond Simple Analogies - Reflections on Functional ...](https://hackers.pub/@hongminhee/2025/monads) | kw: Beyond, Simple, Analogies, Reflections, Functional
+- **2026-06-14** | [The Practical Value of Functional Programming - Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional, Programming, Monad
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Through, Haskell, Through, Rust
+- **2026-06-14** | [Monads, Functors, and Applicatives in Haskell: Mastering ...](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: Applicatives, Mastering
+
 - **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads:, Through
 - **2026-06-14** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's, Coming, Haskell
 - **2026-06-14** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, [2026]:

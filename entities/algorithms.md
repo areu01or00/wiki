@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding, Interview, Prep, LeetCode, Strategy
+- **2026-06-14** | [Best resources for Data Structures and Algorithms interview prep](https://www.teamblind.com/post/best-resources-for-data-structures-and-algorithms-interview-prep-o2cnrpjw) | kw: Best, resources, Data, Structures, Algorithms
+- **2026-06-14** | [DSA Full Course 2026 | Data Structures & Algorithms Mastery ...](https://www.youtube.com/watch?v=f2Jd5M0hLJA) | kw: Full, Course, Data, Structures, Algorithms
+- **2026-06-14** | [Google 2026 LeetCode Interview Preparation Guide - GitHub](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: Google, LeetCode, Interview, Preparation, Guide
+
 - **2026-06-14** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, Coding, Interview
 - **2026-06-14** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures
 - **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview

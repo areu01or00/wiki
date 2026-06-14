@@ -296,13 +296,6 @@
         "Systems:"
       ],
       "last_result_hashes": [
-        "7cec981e3ec9ecf6d4f19ab2fda7c5db",
-        "3c6c238432a072e07c62f0daf22601fb",
-        "e6986ee0922872d3e41902e80fac5c6a",
-        "27726f74ed99dd90111d156e6fc3a43e",
-        "1885661cefe9c39654b0f1458625c8e0",
-        "29d9d22375431d934e08fb45f08c851d",
-        "056b14e78a14af65a4d0ae47a4e64443",
         "eb9413c412274c4d419c8f0af8eb0eeb",
         "a7e60f26e38c9afaf0be955181073436",
         "8282bc38c31cae78de009daeeac96471",
@@ -315,9 +308,16 @@
         "6fe9880853103e8782a6653a46dc9a3c",
         "5be977a41617386923b3a8cd882f45f2",
         "d42c2ba0462c6cc093b44e122a7974c3",
-        "297d8fe4f9a5f5a7d76e3ced73fe166d"
+        "297d8fe4f9a5f5a7d76e3ced73fe166d",
+        "a3c1c2b6d55ff083812e1ea086382dbd",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "d67558d0e41e758753a25e90ac175c44",
+        "0bccdfeceeee7664c4e61f75605f9f8f",
+        "4d774b12f79cd8d5d53b2f36e2058d43",
+        "659fac9b81902f77807d889d3547d7e2",
+        "cdc78562575752d9a16a085eba463a63"
       ],
-      "last_run": "2026-06-14 04:32 UTC"
+      "last_run": "2026-06-14 04:47 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -619,11 +619,6 @@
         "Code."
       ],
       "last_result_hashes": [
-        "b86eb07f5a984fccae1bb38c4d48f846",
-        "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
-        "d1fd932d1da3adfb0dbab8bdc1cf0621",
-        "46047667f85453525404b37598767ca8",
-        "1b1d75fb8a677b303ffbc0411650e3a0",
         "bbb446f219d0926dc00975255367705e",
         "589ad7fe45c92a7cab4dbf744da900ac",
         "d0de062ed058a4b7bb87b9c013129190",
@@ -638,9 +633,14 @@
         "7ed9cf6296b93bcd1574511795e44641",
         "ee28a5df56305a8ad0bbed8574d1085c",
         "0e37ea17fc9a69e116e589e0bc7f8c79",
-        "a78c2c73c0749267858b7fdad618ab3b"
+        "a78c2c73c0749267858b7fdad618ab3b",
+        "294465baa405c509ff16e6e2c8d94604",
+        "e6a6d2b2ff5774761354d9737cce9f64",
+        "23259200a7be4533fe1e25b8fdeb4b83",
+        "a5ef6826de67317cc0c5a53fba480581",
+        "2f475005a8ea0feaac9bc4147b1b873f"
       ],
-      "last_run": "2026-06-14 04:32 UTC"
+      "last_run": "2026-06-14 04:47 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -953,7 +953,7 @@
         "Calculus",
         "optimization",
         "Perspectives",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "rise",
         "consistency relation",
         "2025",
@@ -971,12 +971,6 @@
         "(2026)"
       ],
       "last_result_hashes": [
-        "37ffd58453521e02c05e593eedaf102e",
-        "0acb2636282f416d8be527a284439785",
-        "7f9d9d17e1451e3ee24574749b4b94d2",
-        "65f746b9b7ba253534eafd91ea1668a5",
-        "b5ee8278b491b51a9fdbd0e087a16c7b",
-        "f2495424757e7dd538dd771f623f1a0f",
         "d08aaa9554d7cff65d53e42f52f9f36b",
         "fc2a160e30ff2047c8b16d1d1b80ebd5",
         "5a4a82e4ed4ea607084acc1ea519dc66",
@@ -990,9 +984,15 @@
         "7e58202d901d88fd843521c2cb440e69",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6",
         "b6b8ba1f8dbf76cf69cc53229a7fc7ab",
-        "4a101114e3b691c4671d64770c39c052"
+        "4a101114e3b691c4671d64770c39c052",
+        "678284b46c69cda968ef8e3315be6ff2",
+        "98a25f82aa01c6e3086793f3280a92b9",
+        "796dd8fb9f6369a2e77f75139af26f3c",
+        "c6443d4d2bad9c002c68da64e59ac377",
+        "be83423834c67b8671ef6f7b00eeb6c9",
+        "c0b8939bb00148936243259369f1f8a3"
       ],
-      "last_run": "2026-06-14 04:32 UTC"
+      "last_run": "2026-06-14 04:47 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1136,7 +1136,7 @@
         "Rust",
         "Rust patterns",
         "Rust-Style",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Rust:",
         "RustWeek",
         "Sae",
@@ -1196,7 +1196,7 @@
         "changes",
         "collection",
         "created",
-        "créées",
+        "cr\u00e9\u00e9es",
         "demystifying",
         "dive",
         "effect systems",
@@ -1279,8 +1279,8 @@
         "who",
         "wikipedia",
         "wrsturgeon/rsmonad",
-        "で柔軟な",
-        "式とモナドを使うために作った幾つかのもの",
+        "\u3067\u67d4\u8edf\u306a",
+        "\u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "What's",
         "Coming",
         "slicker.me",
@@ -1293,13 +1293,6 @@
         "for"
       ],
       "last_result_hashes": [
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "6c69442526a8b0eb63860a296c84a9a5",
-        "1e23347071bace94cd96516373fa7b4d",
-        "da30b64fee43ee2a8a34587ebf26e0aa",
-        "c7421fe4d40ce4751be6ee62ea54ec44",
-        "a637c1b028184eea6b2bb028d9aef416",
-        "449f1936d11b3408b5111b8fbfc6e205",
         "c233ce094f809bd93c2f4474229feed5",
         "cb3451b58dc0de64c4abaf6248054b44",
         "682e4f2ea7f6c66070b1a4e7cdce6a2f",
@@ -1312,9 +1305,16 @@
         "e2809728031a0a794b40bbdaef5a85f9",
         "a1fd2b9212d955769e6bbfad262f2fb9",
         "b48df3ecc7197e04cb4515339cfae453",
-        "88755452686cdbfeca2c3e154b11cd1a"
+        "88755452686cdbfeca2c3e154b11cd1a",
+        "7a242434d5ccb272b37bd50f68ca439a",
+        "42966b89a99e1a0b00c1ccd24f75957f",
+        "486776e3b4d65b4fda8a3ef68c9fe2ca",
+        "98d97fa6825a7a84666ed101477a1375",
+        "608ac3d718f156089272977ad4c0adf3",
+        "fe6aed26b337f1993ecc4097fa829089",
+        "17283951f47a445f957ceef8fc9879ed"
       ],
-      "last_run": "2026-06-14 04:32 UTC"
+      "last_run": "2026-06-14 04:47 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1593,24 +1593,20 @@
         "versus",
         "vikashpr/maang",
         "youtube",
-        "全球极客挚爱的技术成长平台",
-        "【分类整理】面试最常考的",
-        "力扣(LeetCode",
-        "数据结构与算法面试题",
-        "小林coding",
-        "Java面试学习",
-        "面试最常考的100",
-        "道算法题分类整理！",
+        "\u5168\u7403\u6781\u5ba2\u631a\u7231\u7684\u6280\u672f\u6210\u957f\u5e73\u53f0",
+        "\u3010\u5206\u7c7b\u6574\u7406\u3011\u9762\u8bd5\u6700\u5e38\u8003\u7684",
+        "\u529b\u6263(LeetCode",
+        "\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u9762\u8bd5\u9898",
+        "\u5c0f\u6797coding",
+        "Java\u9762\u8bd5\u5b66\u4e60",
+        "\u9762\u8bd5\u6700\u5e38\u8003\u7684100",
+        "\u9053\u7b97\u6cd5\u9898\u5206\u7c7b\u6574\u7406\uff01",
         "Introduction",
         "Questions:",
         "ashishps1/awesome-leetcode-resources",
         "kashifansari17/Leetcode-TOP-75-"
       ],
       "last_result_hashes": [
-        "31f06d406e35036a7d516c57356e65a5",
-        "eac128746ce43597ebff2f84aa42b62c",
-        "8f48746135c4ce31696176aebedcfc09",
-        "b374c779c101dd010d1f2ed0450afdee",
         "fd122b96f8cdfa3f8ca7564113913fa6",
         "95ae291a0254a5e4eb40cf8f1fa2beae",
         "bcd8a4e379c9df8ce33cdd8d5c62b4e3",
@@ -1626,9 +1622,13 @@
         "86d4781661bbc746297abd51599dbc01",
         "51bdec45c83dc444c8040f8f04671877",
         "b1fcf7045d180e5c21d066ceed526543",
-        "09191b710a89e39a177a7aea73cfb65b"
+        "09191b710a89e39a177a7aea73cfb65b",
+        "37b18b3ee5841dc8d78ef02edf927dc9",
+        "3673afb21469cf81d5eebd7f6ea5a325",
+        "a883c8bd401f484cfa57d4b0778122fe",
+        "5b0fe597f1bee1ae1f00109f739f1a2f"
       ],
-      "last_run": "2026-06-14 04:32 UTC"
+      "last_run": "2026-06-14 04:47 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1722,7 +1722,7 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals·",
+        "Internals\u00b7",
         "Interpreter",
         "Is",
         "It",
@@ -1872,7 +1872,7 @@
         "inner",
         "internals",
         "internals:",
-        "internals·",
+        "internals\u00b7",
         "interpreter",
         "iter",
         "java",
@@ -1927,17 +1927,12 @@
         "weakrefs",
         "workings",
         "works",
-        "服务：从",
-        "瓶颈到零成本抽象的性能跃迁-CS",
+        "\u670d\u52a1\uff1a\u4ece",
+        "\u74f6\u9888\u5230\u96f6\u6210\u672c\u62bd\u8c61\u7684\u6027\u80fd\u8dc3\u8fc1-CS",
         "Does",
         "GIL:"
       ],
       "last_result_hashes": [
-        "283a16c91853f5f49e8a8166769cd4ce",
-        "7b4d33a48fc204e0cb25e4f1266c7297",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "35303d2720582e23d49ac77a4490dddd",
-        "8e164b039e6be2f4d6dd92a0812ef837",
         "704da68a060e620278ad7620fdf6c8a8",
         "3723dfa3f60cd99fa11d63a5fa09bc1f",
         "265111ab89ec1e2086cc516865ce3720",
@@ -1952,9 +1947,14 @@
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "34b98abdd6bbd8dd5d7622c24cf994de",
         "087455b373dbe987da5078283f97a4cb",
-        "9b10bb0a43b30d2a1b1999935e4c8720"
+        "9b10bb0a43b30d2a1b1999935e4c8720",
+        "2fcc6b51ef8ac46c7cd2ea1177f9378c",
+        "4cd24649bb264af960eb0db466e7076c",
+        "343ee2ea3c7bd5c5bb4c13c55f709fcf",
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "010a77f4453d4d34ea2d3bcabc945890"
       ],
-      "last_run": "2026-06-14 04:32 UTC"
+      "last_run": "2026-06-14 04:47 UTC"
     }
   }
 }

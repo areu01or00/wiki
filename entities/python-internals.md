@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Python Memory Leaks: 7 Fixes for Long-Running Apps in 2026](https://appsconcerebro.com/en/blog/python-2026-diagnostico-y-solucion-de-fugas-de-memoria-en-ap) | kw: Python, Memory, Fixes, Apps
+- **2026-06-14** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python, Memory, Profiling, Optimization, Techniques
+- **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, Parallelism, Remains, Broken, Might
+- **2026-06-14** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, Backend, Performance
+- **2026-06-14** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management, Internals, Majidbasharat
+
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals:
 - **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, Hood, Python:
 - **2026-06-14** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, GIL:

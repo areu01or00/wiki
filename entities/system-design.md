@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures, Serverless, Edge
+- **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide, Scalable, Architecture
+- **2026-06-14** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, Distributed, Systems
+- **2026-06-14** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap, Design, Round
+- **2026-06-14** | [Modern System Architecture Patterns in 2025 | by takuya | Medium](https://medium.com/%40business_37716/modern-system-architecture-patterns-in-2025-385082bfc9dc) | kw: Modern, System, Architecture, Patterns, takuya
+- **2026-06-14** | [Top 6 Enterprise Architecture Trends for 2026 and Beyond | ACL Digital](https://www.acldigital.com/blogs/top-6-enterprise-architecture-trends-shaping-2026-and-beyond) | kw: Enterprise, Architecture, Trends, Beyond, Digital
+- **2026-06-14** | [Modern Distributed Computing Systems: Architectures, Challenges, and Future Directions in Large-Scale Data Processing](https://www.researchgate.net/publication/392230676_Modern_Distributed_Computing_Systems_Architectures_Challenges_and_Future_Directions_in_Large-Scale_Data_Processing) | kw: Modern, Distributed, Computing, Future, Directions
+
 - **2026-06-14** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns, Distributed, Systems:
 - **2026-06-14** | [Distributed Systems Patterns](https://viprasol.com/blog/distributed-systems-patterns) | kw: Distributed, Systems, Patterns
 - **2026-06-14** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap
