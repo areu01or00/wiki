@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: Python's, Memory, Management, Works, Hood
+- **2026-06-14** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL:, Backend, Performance, odysse.io
+- **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, Controversy:, Multi-Core, Parallelism, Remains
+- **2026-06-14** | [Python's GIL Is Gone — What That Actually Means for Your Code | by Meryem Sakin](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's, Gone, Actually, Means, Code
+
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
 - **2026-06-14** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory
 - **2026-06-14** | [Mojo's Ownership System: How a 35-Year-Old Memory Management ...](https://devops-geek.net/nerd-space/mojo-s-ownership-system-how-a-35-year-old-memory-management-pattern-became-the-secret-weapon-against/) | kw: Mojo's

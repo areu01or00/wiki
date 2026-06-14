@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed ...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge, Computing, Trends, 2026:, Distributed
+- **2026-06-14** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design:, complete, guide
+- **2026-06-14** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: Essential, Distributed, System, Design, Patterns
+
 - **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices
 - **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System
 - **2026-06-14** | [Most-Used Distributed System Design Patterns | by Anil Gudigar | Javarevisited | Medium](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33) | kw: Most-Used

@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Gradual Typing And Hybrid Systems Integration: Securing High-Throughput Platform Frameworks](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: Gradual, Typing, Hybrid, Systems, Integration:
+- **2026-06-14** | [Type Theory and Gradual Typing - numberanalytics.com](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: Theory, Gradual, Typing, numberanalytics.com
+- **2026-06-14** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Theory, numberanalytics.com
+- **2026-06-14** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: Gradual, Typing, Gradually, Typed, Lambda
+- **2026-06-14** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, Inference
+- **2026-06-14** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From | Notes from Yoichi Ozaki](https://yoichiozaki.github.io/en/blog/type-systems) | kw: Dive, Systems, Static, Typing, Really
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
 - **2026-06-14** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual
 - **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the ...](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The
