@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, the, Language
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the ...](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The, Rise, Static
+- **2026-06-14** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual, Typing, for
+- **2026-06-14** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: Jeremy, Siek, Web
+
 - **2026-06-14** | [The Quiet Evolution of Programming Languages: From Syntax to Semantics](https://www.javacodegeeks.com/2026/04/the-quiet-evolution-of-programming-languages-from-syntax-to-semantics.html) | kw: type-systems
 
 - **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Language, Labyrinth, Typing, Paradigms, Matrix
