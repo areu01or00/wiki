@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | source: Habibullah Blog
+- **2026-06-14** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | source: eVidhya
+- **2026-06-14** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | source: MiYDevForge
+- **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | source: PythonCompiler.io
+- **2026-06-14** | [Python Complete Guide | CPython Internals - GIL](https://pkglog.com/en/blog/python-complete-guide) | source: PkgLog
+- **2026-06-14** | [Python Memory Management Internals](https://evidhya.com/subjects/python/python-memory-management-internals) | source: eVidhya
+- **2026-06-14** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | source: Edugators
+- **2026-06-14** | [Python Internals: Understanding Python's Memory Management](https://iter-academy.com/python-internals-understanding-pythons-memory-management) | source: Iter Academy
+- **2026-06-14** | [Memory Management - Python 3.14.5 documentation](https://docs.python.org/3/c-api/memory.html) | source: Python Docs
+
 - **2026-06-14** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Python:, Internals
 - **2026-06-14** | [Python Internals: Memory Management and the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals:, Memory
 - **2026-06-14** | [Understanding Python's GIL (Global Interpreter Lock)](https://medium.com/%40AlexanderObregon/understanding-pythons-gil-global-interpreter-lock-29ff5e07cc19) | kw: Understanding, Python's, (Global

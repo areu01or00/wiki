@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | source: Programming Journal
+- **2026-06-14** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | source: Microsoft Research
+- **2026-06-14** | [Gradual Typing Bibliography](https://paperswelove.org/papers/gradual-typing-bibliography-26b3ee6f/) | source: Papers We Love
+- **2026-06-14** | [Gradual Typing with Unification-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | source: Jeremy Siek
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance (Journal)](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
 - **2026-06-14** | [Compiling Gradual Types with Evidence - Science Explorer](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: Compiling, Gradual, Types
