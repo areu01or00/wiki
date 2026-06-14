@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
+- **2026-06-14** | [MODERN TRENDS IN THE DEVELOPMENT OF ENTERPRISE APPLICATION ARCHITECTURE FOR DISTRIBUTED TEAMS](https://ijrcms.com/uploads2026/ijrcms_08_675.pdf) | kw: system-design
+- **2026-06-14** | [Evolution and Systems Architecture | by Ivan Padabed](https://medium.com/system5-dev/evolution-and-systems-architecture-8f3063d890b8) | kw: system-design
+- **2026-06-14** | [9 Software Architecture Patterns for Distributed Systems - DEV Community](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: system-design
+
 - **2026-06-14** | [Distributed System Design: the complete guide to building resilient systems](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design:
 
 - **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series | source: system-design
