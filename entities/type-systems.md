@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, the, Language
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, of
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the ...](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The, Rise, of
+- **2026-06-14** | [Understanding Graduality in Programming Languages through ...](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding, Graduality, in
+- **2026-06-14** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, in
+- **2026-06-14** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed, and, Confused:
+- **2026-06-14** | [Gartner Predicts That by 2030, Performing Inference on an LLM ...](https://www.gartner.com/en/newsroom/press-releases/2026-03-25-gartner-predicts-that-by-2030-performing-inference-on-an-llm-with-1-trillion-parameters-will-cost-genai-providers-over-90-percent-less-than-in-2025) | kw: Gartner, Predicts, That
+- **2026-06-14** | [More compute for AI, not less | Deloitte Insights](https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/compute-power-ai.html) | kw: More, compute, for
+
 - **2026-06-14** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
 - **2026-06-14** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
 - **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, Language, Landscape:

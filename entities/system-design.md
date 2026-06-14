@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [5 AI Agent Design Patterns to Master by 2026](https://explore.n1n.ai/blog/5-ai-agent-design-patterns-master-2026-2026-03-21) | kw: 5, AI, Agent
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide
+- **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices, Architecture, Patterns
+- **2026-06-14** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future, of, High-Performance
+
 - **2026-06-14** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks) | kw: System, Design, Building
 - **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge, Computing, Trends
 - **2026-06-14** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: 10, Essential, Distributed
