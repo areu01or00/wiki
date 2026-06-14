@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
+- **2026-06-14** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type
+- **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating
+- **2026-06-14** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual
+- **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating
+- **2026-06-14** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient
+- **2026-06-14** | [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf) | kw: Abstracting
+- **2026-06-14** | [Gradual Typing with Uniﬁcation-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual
+
 - **2026-06-14** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | source: web search
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement (Conference)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | source: web search
 - **2026-06-14** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | source: web search

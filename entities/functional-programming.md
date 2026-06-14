@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads
+- **2026-06-14** | [Functional Languages and the Future of Programming (Part 2) - Linux Professional Institute (LPI)](https://www.lpi.org/blog/2026/04/16/functional-languages-and-the-future-of-programming-part-2/) | kw: Functional
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned
+- **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional
+- **2026-06-14** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad
+- **2026-06-14** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which
+- **2026-06-14** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical
+- **2026-06-14** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming/) | kw: Future
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does
+
 - **2026-06-14** | [Rust vs Haskell Comparison (2026)](https://appmus.com/vs/rust-vs-haskell) | source: web search
 - **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | source: web search
 - **2026-06-14** | [Haskell vs Rust Comparison (2026)](https://appmus.com/vs/haskell-vs-rust) | source: web search

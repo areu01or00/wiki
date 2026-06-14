@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best
+- **2026-06-14** | [LeetCode Interview Questions: Top Patterns by Company (2026) | InterviewPilot](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode
+- **2026-06-14** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode
+- **2026-06-14** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: LeetCode
+- **2026-06-14** | [GitHub - Devinterview-io/searching-algorithms-interview-questions](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: GitHub
+
 - **2026-06-14** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | source: web search
 - **2026-06-14** | [LeetCode Patterns That Still Matter in 2026](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | source: web search
 - **2026-06-14** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | source: web search

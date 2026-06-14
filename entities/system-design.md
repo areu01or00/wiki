@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed
+- **2026-06-14** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns
+- **2026-06-14** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three
+- **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System
+- **2026-06-14** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System
+- **2026-06-14** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed
+- **2026-06-14** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: Architecture
+
 - **2026-06-14** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | source: web search
 - **2026-06-14** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | source: web search
 - **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | source: web search
