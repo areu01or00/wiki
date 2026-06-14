@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: documentation, concepts, system, Type, typing
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: documentation, Efficient, Performance, concepts, system
+- **2026-06-14** | [The Rise of Static Typing - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: documentation, Rise, Efficient, Performance, concepts
+- **2026-06-14** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: documentation, Rise, Efficient, Performance, concepts
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: documentation, Rise, Improvement, Efficient, Performance
+- **2026-06-14** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: Ins, Gradual, BrainDetox, Theory, Static
+- **2026-06-14** | [Putting Gradual Types to Work](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting, Ins, Gradual, BrainDetox, Theory
+- **2026-06-14** | [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf) | kw: Putting, Ins, Gradual, BrainDetox, Theory
+
 - **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, Language, Labyrinth
 - **2026-06-14** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
 - **2026-06-14** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual, Typing, Performance

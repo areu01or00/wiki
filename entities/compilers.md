@@ -1,6 +1,17 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [BuildingAJIT3.rst - compiler-course-2026](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler, course, BuildingAJIT3.rst, 2026
+- **2026-06-14** | [BuildingAJIT1.rst - compiler-course-2026 (chekalexey)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT3.rst, BuildingAJIT1.rst, course, compiler, 2026
+- **2026-06-14** | [Advanced Optimizations in Modern Compilers: JIT, AOT and Hybrid Pipelines](https://ijsrmt.com/index.php/ijsrmt/article/view/1072) | kw: Optimizations, Compilers, BuildingAJIT3.rst, BuildingAJIT1.rst, Modern
+- **2026-06-14** | [BuildingAJIT1.rst - compiler-course-2026 (VALancaster)](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Optimizations, Compilers, BuildingAJIT3.rst, BuildingAJIT1.rst, Modern
+- **2026-06-14** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Optimizations, Compilers, BuildingAJIT3.rst, Language, BuildingAJIT1.rst
+- **2026-06-14** | [JIT Compiler with LLVM - Create Your Own Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: Own, Advanced, Compiler, AOT, BuildingAJIT3.rst
+- **2026-06-14** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: Wikipedia, Own, Advanced, Compiler, AOT
+- **2026-06-14** | [BuildingAJIT1.rst - compiler-course-2026 (RomanPikhotskiy)](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Wikipedia, Own, Advanced, Compiler, AOT
+- **2026-06-14** | [LLVM Integration and JIT Compilation - OpenShadingLanguage](https://deepwiki.com/AcademySoftwareFoundation/OpenShadingLanguage/3.1-llvm-integration-and-jit-compilation) | kw: Wikipedia, Own, Integration, Advanced, Compiler
+- **2026-06-14** | [BuildingAJIT1.rst - compiler-course-2026 (Georghinho)](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: (Georghinho), Wikipedia, Own, Integration, Advanced
+
 - **2026-06-14** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM, 2026, OrcJIT
 - **2026-06-14** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
 - **2026-06-14** | [LLVM Weekly](https://llvmweekly.org/) | kw: LLVM, Weekly

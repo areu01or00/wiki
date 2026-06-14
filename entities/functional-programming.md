@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Haskell, Morning, Monads, Tutorial, Monday
+- **2026-06-14** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Haskell, Gentle, Morning, Monads, About
+- **2026-06-14** | [Monads in Haskell - DEV Community](https://dev.to/bekbrace/monads-in-haskell-1p8i) | kw: Haskell, Gentle, Morning, Monads, About
+- **2026-06-14** | [Haskell - Monads - Tutorialspoint](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Gentle, Morning, Monads, Tutorialspoint
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Why, Haskell, Gentle, Morning, Programming
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Why, Haskell, Support, Monads, Finest
+- **2026-06-14** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: Why, Haskell, Support, Monads, Finest
+
 - **2026-06-14** | [Understanding Monads in Functional Programming: A Comprehensive Guide](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Understanding, Monads, Functional
 - **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026
 - **2026-06-14** | [Monads in Functional Programming: A Comprehensive Guide](https://thetechgenie.in/monads-in-functional-programming-a-comprehensive-guide) | kw: Monads, Functional, Programming

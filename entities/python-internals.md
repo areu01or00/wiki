@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: GIL,, Bytecode, Under, Memory,, Works
+- **2026-06-14** | [Python Internals: Memory Management and the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Global, Management, Interpreter, GIL,, Bytecode
+- **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Global, Management, Interpreter, Optimization,, Internals,
+- **2026-06-14** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL,, odysse.io, GIL, Under, Interpreter
+- **2026-06-14** | [Memory Management and GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: (2026), GIL,, odysse.io, GIL, Under
+- **2026-06-14** | [Python 3.14 Free-Threading and Experimental JIT](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: (2026), GIL,, 3.14, odysse.io, GIL
+- **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Why, (2026), GIL,, 3.14, odysse.io
+- **2026-06-14** | [Python GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Why, (2026), GIL,, 3.14, odysse.io
+
 - **2026-06-14** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026) | kw: State, Python, 2026
 - **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future, Python, Internals
 - **2026-06-14** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: Python, Backend, Performance
