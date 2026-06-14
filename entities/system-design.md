@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series | source: system-design
+- **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns | source: system-design
+- **2026-06-14** | [The Future of System Design: Emerging Patterns](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: The, Future, of | source: system-design
+
 - **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases](https://onlinetools4free.com/research/system-design-guide-2026) | kw: OnlineTools4Free research on
 - **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed ...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Explore edge computing
 - **2026-06-14** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12 distributed system

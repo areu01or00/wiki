@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Data structures and algorithms study cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Data, structures, and | source: algorithms
+- **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, To | source: algorithms
+- **2026-06-14** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Top, Interview, Questions | source: algorithms
+- **2026-06-14** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: Top, Data, Structure | source: algorithms
+- **2026-06-14** | [Top 30 Data Structures Problems for Technical Interview Preparation](https://www.reddit.com/r/programming/comments/62xwba/top_30_data_structures_problems_for_technical) | kw: Top, Data, Structures | source: algorithms
+- **2026-06-14** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms | source: algorithms
+- **2026-06-14** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How, to, Prepare | source: algorithms
+- **2026-06-14** | [Leetcode-TOP-75-](https://github.com/kashifansari17/Leetcode-TOP-75-) | kw: Leetcode | source: algorithms
+- **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview | source: algorithms
+- **2026-06-14** | [searching-algorithms-interview-questions](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: searching, algorithms, interview | source: algorithms
+
 - **2026-06-14** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Data Structure I
 - **2026-06-14** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: Crack TCS coding
 - **2026-06-14** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: Master arrays, linked

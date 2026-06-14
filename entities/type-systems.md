@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, of | source: type-systems
+- **2026-06-14** | [TypeScript's Type System as a Proof System: Type-Level Programming](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: Type, Script, s | source: type-systems
+- **2026-06-14** | [Gradual Typing And Hybrid Systems Integration](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: Gradual, Typing, And | source: type-systems
+- **2026-06-14** | [A Deep Dive into Type Systems](https://yoichiozaki.github.io/en/blog/type-systems) | kw: Deep, Dive, into | source: type-systems
+- **2026-06-14** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: Gradual, Typing, and | source: type-systems
+
 - **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: The lines between
 - **2026-06-14** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: The project team
 - **2026-06-14** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: This paper systematically

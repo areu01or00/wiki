@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, are, Omnipresent | source: functional-programming
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How, Learned, Monads | source: functional-programming
+- **2026-06-14** | [Haskell vs Rust Comparison (2026)](https://appmus.com/vs/haskell-vs-rust) | kw: Haskell, vs, Rust | source: functional-programming
+- **2026-06-14** | [The Practical Value of Functional Programming](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value | source: functional-programming
+- **2026-06-14** | [Rust vs. Haskell: A performance comparison](https://blog.logrocket.com/rust-vs-haskell-performance-comparison) | kw: Rust, vs, Haskell | source: functional-programming
+- **2026-06-14** | [Rust vs Haskell](https://medium.com/rustaceans/rust-vs-haskell-22d581f2686d) | kw: Rust, vs, Haskell | source: functional-programming
+
 - **2026-06-14** | [100+ Monads Online Courses for 2026 | Explore Free Courses](https://www.classcentral.com/subject/monads) | kw: Explore the evolution
 - **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Innocent-looking Rust code
 - **2026-06-14** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Why side-effect management

@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just, In, Time | source: compilers
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst · chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, llvm | source: compilers
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst · 4elodoy-Molovek](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler, course, llvm | source: compilers
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst · Georghinho](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, llvm | source: compilers
+- **2026-06-14** | [LLVM Integration and JIT Compilation | OpenShadingLanguage](https://deepwiki.com/AcademySoftwareFoundation/OpenShadingLanguage/3.1-llvm-integration-and-jit-compilation) | kw: Integration, and, Compilation | source: compilers
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst · RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, llvm | source: compilers
+- **2026-06-14** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The, Case, For | source: compilers
+
 - **2026-06-14** | [LLVM | Infrastructure Heroes](https://infrastructure-heroes.org/projects/llvm/) | kw: LLVM is a
 
 - **2026-06-14** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
