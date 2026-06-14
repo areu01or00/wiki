@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [The Quiet Evolution of Programming Languages: From Syntax to Semantics](https://www.javacodegeeks.com/2026/04/the-quiet-evolution-of-programming-languages-from-syntax-to-semantics.html) | kw: type-systems
+
 - **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Language, Labyrinth, Typing, Paradigms, Matrix
 - **2026-06-14** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: Gradual, Typing, Spectrum, Research
 
