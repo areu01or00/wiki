@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview:
+- **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview
+- **2026-06-14** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, Coding, Interview
+
 - **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet
 - **2026-06-14** | [Common data structures that pop up in leetcode style interviews](https://www.reddit.com/r/androiddev/comments/10sqlww/common_data_structures_that_pop_up_in_leetcode) | kw: Common, data, structures
 - **2026-06-14** | [Best Coding Practice Platforms and Challenge Websites in 2026](https://scrimba.com/articles/best-coding-practice-platforms-and-challenge-websites-in-2026) | kw: Best, Coding, Practice

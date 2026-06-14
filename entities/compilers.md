@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, Maglev, Rust Monomorphization](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
+- **2026-06-14** | [BuildingAJIT1.rst - compiler-course-2026 - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT1.rst, compiler-course-2026, RomanPikhotskiy
+- **2026-06-14** | [BuildingAJIT1.rst - compiler-course-2026 - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT1.rst, compiler-course-2026, chekalexey
+- **2026-06-14** | [BuildingAJIT1.rst - compiler-course-2026 - Georghinho](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT1.rst, compiler-course-2026, Georghinho
+- **2026-06-14** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: Deep, Dive, into
+- **2026-06-14** | [LLVM 6 Compiling to Object Code - webnuz.com](https://www.webnuz.com/article/2026-06-08/LLVM%206%20%20Compiling%20to%20Object%20Code.) | kw: LLVM, Compiling, Object
+
 - **2026-06-14** | [Chapter 9: JIT Compilation | Learn LLVM 17 - Packt Subscription](https://subscription.packtpub.com/book/programming/9781837631346/12/ch12lvl1sec59/llvms-overall-jit-implementation-and-use-cases) | kw: Chapter, JIT
 - **2026-06-14** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern
 - **2026-06-14** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The, Case, For

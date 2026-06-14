@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, Types
+- **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-14** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, Inference
+- **2026-06-14** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026 - ToolShelf](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static, vs., Dynamic
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-14** | [Gradual Types - Stanford CS 242](https://www-leland.stanford.edu/class/cs242/materials/lectures/lecture16.pdf) | kw: Gradual, Types, Stanford
+- **2026-06-14** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (arXiv)](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual T](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection
 - **2026-06-14** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing
 - **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The, Rise
