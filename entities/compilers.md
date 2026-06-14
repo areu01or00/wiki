@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: JIT, LLVM, 2026
+- **2026-06-14** | [Compilers and Modern Language Runtimes -- LLVM, JIT, GC, V8, Turbofan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization, Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: JIT, LLVM, compiler
+- **2026-06-14** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT, LLVM, compiler
+- **2026-06-14** | [Turbocharging PostgreSQL: Mastering JIT Compilation and LLVM for Analytical Latency](https://techbinary.cloud/blog/turbocharging-postgresql-mastering-jit-compilation-and-llvm-for-analytical-latency/) | kw: JIT, LLVM, compiler
+
 - **2026-06-14 12:32 UTC** | [LLVM Weekly - a weekly newsletter covering developments in ...](https://llvmweekly.org/) | kw: LLVM, Weekly, weekly
 - **2026-06-14 12:32 UTC** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1.rst
 - **2026-06-14 12:32 UTC** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1.rst
