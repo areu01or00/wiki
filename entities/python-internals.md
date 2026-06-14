@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [What is PEP 703? | pydevtools](https://pydevtools.com/handbook/explanation/what-is-pep-703) | kw: python-internals
+- **2026-06-14** | [Unlocking True Parallelism: A Developers Guide to Free-Threaded Python 3.14 - DEV Community](https://dev.to/mechcloud_academy/unlocking-true-parallelism-a-developers-guide-to-free-threaded-python-314-175i) | kw: python-internals
+- **2026-06-14** | [Python 3.14 Free-Threading - True Parallelism Without the GIL | Edgar Montano](https://www.edgarmontano.com/posts/python/python-3-14-free-threading-true-parallelism) | kw: python-internals
+- **2026-06-14** | [Python 3.14 Free-Threading: Real Benchmarks, Real Breakage, Real Code](https://www.danilchenko.dev/posts/python-314-free-threading) | kw: python-internals
+- **2026-06-14** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: python-internals
+- **2026-06-14** | [Python 3.14 Just Removed the GIL - Heres What It Means for Data Scientists](https://medium.com/@umare.ankit/python-3-14-just-removed-the-gil-heres-what-it-means-for-data-scientists-ef86e86eb801) | kw: python-internals
+- **2026-06-14** | [Python support for free threading - Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: python-internals
+- **2026-06-14** | [Killing the GIL: How To Use Python 3.14s Free-Threading Upgrade](https://www.neelsomaniblog.com/p/killing-the-gil-how-to-use-python) | kw: python-internals
+- **2026-06-14** | [Understanding Free-Threaded Python: Removing the GIL in CPython 3.13](https://www.besthub.dev/articles/understanding-free-threaded-python-removing-the-gil-in-cpython-3-13-9dde7badd7f4) | kw: python-internals
+
 - **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: GIL, bytecode | src: pythoncompiler.io
 - **2026-06-14** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL | src: odysse.io
 - **2026-06-14** | [Python Internals: Memory Management & the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: memory management, Python internals | src: evidhya.com
