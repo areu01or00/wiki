@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How
+- **2026-06-14** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic) | kw: monadic
+- **2026-06-14** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell
+- **2026-06-14** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://dl.acm.org/doi/abs/10.1145/3808259?download=true) | kw: Pure
 - **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, Omnipresent, Rust
 - **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Finest:
 - **2026-06-14** | [Rust in 2026: The Systems Language That Finally Became ...](https://dev.to/zny10289/rust-in-2026-the-systems-language-that-finally-became-approachable-57ca) | kw: Rust, 2026:, Systems

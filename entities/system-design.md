@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System
+- **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System
+- **2026-06-14** | [Design Patterns for Distributed Systems — Retry, Circuit Breaker, and More](https://codelit.io/blog/distributed-system-design-patterns) | kw: Design
+- **2026-06-14** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: Top
+- **2026-06-14** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed
+- **2026-06-14** | [Most-Used Distributed System Design Patterns](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33) | kw: Most
 - **2026-06-14** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming, Paradigm, Shift
 - **2026-06-14** | [10 Software Architecture Patterns Engineers Need in 2026](https://blog.patoliyainfotech.com/software-architecture-patterns-guide) | kw: Software, Architecture, Patterns
 - **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
