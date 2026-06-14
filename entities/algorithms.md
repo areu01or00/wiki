@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Explore - LeetCode](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: algorithms
+- **2026-06-14** | [Coding Interview Cheat Sheet | PDF | Algorithms And Data Structures | Data Management](https://www.scribd.com/document/377155863/Coding-Interview-Cheat-Sheet) | kw: algorithms
+- **2026-06-14** | [LeetCode Interview Questions: Top Patterns by Company (2026) | InterviewPilot](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: algorithms
+- **2026-06-14** | [Data structures cheat sheet, for coding interviews and computer science classes | Interview Cake](https://www.interviewcake.com/data-structures-reference) | kw: algorithms
+- **2026-06-14** | [Top LeetCode questions asked in NETFLIX Interviews for SDE role - Ridhi Singla - Medium](https://medium.com/%40ridhisingla001/top-leetcode-questions-asked-in-netflix-interviews-for-sde-role-1611f353fee5) | kw: algorithms
+- **2026-06-14** | [Data Structures and Algorithms: Coding Cheatsheet: The DSA Takeover Edition (Day Before Coding Interview [Dci]: Coding Interview Patterns #1) | Head House Books](https://headhousebooks.com/book/9798341057777) | kw: algorithms
+- **2026-06-14** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: algorithms
+- **2026-06-14** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: algorithms
+- **2026-06-14** | [Ultimate Leetcode Coding Interview Cheat Sheet | FAANG Prep for Grads - Leetcode Wizard](https://leetcodewizard.io/blog/ultimate-leetcode-coding-interview-cheat-sheet-faang-prep-for-grads) | kw: algorithms
+
 - **2026-06-14** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding, Interview, Prep, 2026:, LeetCode
 - **2026-06-14** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap, 2026
 - **2026-06-14** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures, (LeetCode, Preparation)

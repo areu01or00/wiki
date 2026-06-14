@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: python-internals
+- **2026-06-14** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
+- **2026-06-14** | [Python In-Depth — Memory Management in Python (GIL and Profiling) | by Arjun Dahal | Medium](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: python-internals
+- **2026-06-14** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: python-internals
+
 - **2026-06-14** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: Python's, Memory, Management, Works, Hood
 - **2026-06-14** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL:, Backend, Performance, odysse.io
 - **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, Controversy:, Multi-Core, Parallelism, Remains

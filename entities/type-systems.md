@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
+- **2026-06-14** | [Understanding Graduality in Programming Languages through ...](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: type-systems
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-06-14** | [A Deep Dive into Type Systems — What Static Typing Really ...](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type-systems
+- **2026-06-14** | [Programming Languages Trends 2026: What Developers Need to ...](https://cpon-navi.com/programming-languages-trends-2026) | kw: type-systems
+
 - **2026-06-14** | [Gradual Typing And Hybrid Systems Integration: Securing High-Throughput Platform Frameworks](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: Gradual, Typing, Hybrid, Systems, Integration:
 - **2026-06-14** | [Type Theory and Gradual Typing - numberanalytics.com](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: Theory, Gradual, Typing, numberanalytics.com
 - **2026-06-14** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Theory, numberanalytics.com
