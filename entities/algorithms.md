@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: Learn, LeetCode, DSA:
+- **2026-06-14** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: Ultimate, Java, LEETCODE
+- **2026-06-14** | [Introduction to Data Structures & Algorithms with Leetcode](https://beesec.gitbook.io/algorithms) | kw: Introduction, Data, Structures
+
 - **2026-06-15** | [Data Structures & Algorithms Interview Guide](http://hackajob.com/talent/technical-assessment/data-structures-algorithms-interview-guide) | kw: interview, data structures
 - **2026-06-15** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: interview, data structures
 - **2026-06-15** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: DSA, LeetCode, interview
