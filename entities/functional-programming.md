@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads in Functional Programming: A Comprehensive Guide](https://thetechgenie.in/monads-in-functional-programming-a-comprehensive-guide) | kw: functional-programming
+- **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
+- **2026-06-14** | [Monads, Functors, and Applicatives in Haskell: Mastering ...](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: functional-programming
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: functional-programming
+- **2026-06-14** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt) | kw: functional-programming
+- **2026-06-14** | [Monads for functional programming](https://www.dcc.fc.up.pt/~pbv/aulas/tapf/handouts/monads.html) | kw: functional-programming
+
 - **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef | Technology, Development & Creative Tech Insights](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
 - **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: functional-programming
 - **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional-programming

@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
+- **2026-06-14** | [Python - Python Memory Management Internals | eVidhya](https://evidhya.com/subjects/python/python-memory-management-internals) | kw: python-internals
+- **2026-06-14** | [Python Internals: Understanding Python's Memory Management](https://iter-academy.com/python-internals-understanding-pythons-memory-management) | kw: python-internals
+- **2026-06-14** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: python-internals
+
 - **2026-06-14** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: python-internals
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 - **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals

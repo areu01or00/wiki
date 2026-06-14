@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: algorithms
+- **2026-06-14** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
+- **2026-06-14** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+
 - **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
 - **2026-06-14** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
 - **2026-06-14** | [Introduction to Data Structures & Algorithms with Leetcode](https://beesec.gitbook.io/algorithms) | kw: algorithms

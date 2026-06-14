@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [Turbocharging PostgreSQL: Mastering JIT Compilation and LLVM ...](https://techbinary.cloud/blog/turbocharging-postgresql-mastering-jit-compilation-and-llvm-for-analytical-latency) | kw: compilers
+
 - **2026-06-14** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: compilers
 
 - **2026-06-14** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: JIT compilation, Compilation, DeepWiki

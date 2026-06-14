@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
+- **2026-06-14** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type-systems
+- **2026-06-14** | [A Deep Dive into Type Systems — What Static Typing Really ...](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type-systems
+- **2026-06-14** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems
+- **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
+- **2026-06-14** | [Gradual Typing with Unification-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: type-systems
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers) - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
 - **2026-06-14** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
 - **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
