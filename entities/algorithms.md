@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | source: web search
+- **2026-06-14** | [LeetCode Patterns That Still Matter in 2026](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | source: web search
+- **2026-06-14** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | source: web search
+- **2026-06-14** | [Algorithms & Data Structures (LeetCode Preparation)](https://archman.dev/docs/algorithms-and-data-structures) | source: web search
+- **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | source: web search
+- **2026-06-14** | [Problem List - LeetCode](https://leetcode.com/problem-list/data-structure/) | source: web search
+- **2026-06-14** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | source: web search
+
 - **2026-06-14** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data
 - **2026-06-14** | [Introduction to Data Structures & Algorithms with Leetcode](https://beesec.gitbook.io/algorithms) | kw: Introduction
 - **2026-06-14** | [LeetCode Patterns That Still Matter in 2026: What I...](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode
