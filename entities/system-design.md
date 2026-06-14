@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [The Future of System Design: Emerging Patterns - by valuein](https://systemdr.substack.com/p/lesson-181-the-future-of-system-design) | kw: system-design
+- **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed ...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: system-design
+- **2026-06-14** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: system-design
+- **2026-06-14** | [Distribution Design: Essential Principles for Grid Reliability](https://www.katapultengineering.com/blog/distribution-design-the-basics) | kw: system-design
+- **2026-06-14** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-14** | [Distributed architecture patterns | Cloud Architecture Center](https://docs.cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/distributed-patterns) | kw: system-design
+
 - **2026-06-14** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap
 - **2026-06-14** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: Learn, Advanced, Distributed
 - **2026-06-14** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: Predicting, Future, Distributed

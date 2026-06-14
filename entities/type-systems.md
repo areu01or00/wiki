@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
+- **2026-06-14** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the ...](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
+- **2026-06-14** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: type-systems
+- **2026-06-14** | [Gradual Typing with Unification-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: type-systems
+- **2026-06-14** | [Horizon Summary: 2026-06-04 (EN) | Horizon Daily](https://thysrael.github.io/Horizon/2026/06/04/summary-en.html) | kw: type-systems
+
 - **2026-06-14** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: Outs, Gradual, Type
 - **2026-06-14** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type
 - **2026-06-14** | [Gradual Typing with Uniﬁcation-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual, Typing, Uniﬁcation
