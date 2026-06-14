@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Functional programming: A
+- **2026-06-14** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like
+- **2026-06-14** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: Rust で柔軟な do
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring Functional Programming in Rust](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does Rust Support
+
 - **2026-06-14** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value
 - **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support
 - **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: How, Learned

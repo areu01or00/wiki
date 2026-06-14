@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System Design Series
+- **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide
+- **2026-06-14** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: Architecture Styles in
+- **2026-06-14** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns of Distributed
+- **2026-06-14** | [System Design & Architecture (Part-I): Distributed Systems Essentials](https://medium.com/%400s.and.1s/system-design-architecture-part-i-distributed-systems-essentials-93ec785c0ae7) | kw: System Design &
+- **2026-06-14** | [Distributed architecture patterns | Google Cloud Documentation](https://docs.cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/distributed-patterns) | kw: Distributed architecture patterns
+
 - **2026-06-14** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
 - **2026-06-14** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems
 - **2026-06-14** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The, Coming, Paradigm
