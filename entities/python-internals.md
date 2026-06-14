@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, Hood, Python
+- **2026-06-14** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python, Free-Threading, Experimental
+- **2026-06-14** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: State, Python, Newsletter
+- **2026-06-14** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: Memory, Management, Python
+
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 - **2026-06-14** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: python-internals
 - **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why I](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals

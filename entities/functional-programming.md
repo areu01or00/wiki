@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads in Haskell - DEV Community](https://dev.to/bekbrace/monads-in-haskell-1p8i) | kw: Monads, Haskell, Community
+- **2026-06-14** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Monads, Online
+- **2026-06-14** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad-Like, Patterns
+- **2026-06-14** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Gentle, Introduction, Haskell
+
 - **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
 - **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional-programming
 - **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: functional-programming

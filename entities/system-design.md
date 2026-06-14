@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture
+- **2026-06-14** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns, Distributed, Systems
+- **2026-06-14** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three, Bold, Predictions
+
 - **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
 - **2026-06-14** | [Building a Design System in 2026](https://engineering.udacity.com/building-a-design-system-in-2026-5cfd8d85043c) | kw: system-design
 - **2026-06-14** | [Evolutionary architecture | Thoughtworks United States](https://www.thoughtworks.com/en-us/insights/decoder/e/evolutionary-architecture) | kw: system-design
