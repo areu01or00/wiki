@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming, Paradigm, Shift
+- **2026-06-14** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
+- **2026-06-14** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best
+- **2026-06-14** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap
+- **2026-06-14** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: System, Design, Patterns:
+- **2026-06-14** | [System Design & Architecture (Part-I): Distributed Systems Essentials](https://medium.com/%400s.and.1s/system-design-architecture-part-i-distributed-systems-essentials-93ec785c0ae7) | kw: System, Design, Architecture
+
 - **2026-06-14** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed
 - **2026-06-14** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns
 - **2026-06-14** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three

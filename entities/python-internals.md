@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: Finally, Dead:, Free-Threaded
+- **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Python, Works, Under
+- **2026-06-14** | [Python 3.14 New Features: What's Changed and Why It Matters](https://dasroot.net/posts/2026/02/python-314-new-features-what-changed-why-it-matters/) | kw: Python, 3.14, Features:
+- **2026-06-14** | [Python Complete Guide | CPython Internals · GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: Python, Complete, Guide
+- **2026-06-14** | [The GIL Is Still Here — Why That Matters in 2026](https://medium.com/@backendbyeli/the-gil-is-still-here-why-that-matters-in-2026-88ac86812ec4) | kw: Still, Here, That
+- **2026-06-14** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026/) | kw: State, Python, 2026
+
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
 - **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under
 - **2026-06-14** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: State

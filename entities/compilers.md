@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI-Compiler, Prompt, Engineering:
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+- **2026-06-14** | [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/) | kw: Compilation
+- **2026-06-14** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry, Native, TypeScript
+- **2026-06-14** | [LLVM Integration and JIT Compilation | AcademySoftwareFoundation/OpenShadingLanguage](https://deepwiki.com/AcademySoftwareFoundation/OpenShadingLanguage/3.1-llvm-integration-and-jit-compilation) | kw: LLVM, Integration, Compilation
+
 - **2026-06-14** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
 - **2026-06-14** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: Compiler
 - **2026-06-14** | [LLVM Integration and JIT Compilation | AcademySoftwareFoundation/OpenShadingLanguage | DeepWiki](https://deepwiki.com/AcademySoftwareFoundation/OpenShadingLanguage/3.1-llvm-integration-and-jit-compilation) | kw: LLVM
