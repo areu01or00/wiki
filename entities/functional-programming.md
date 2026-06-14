@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: monad, Rust | src: bertiqwerty.com
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Rust, functional | src: codegenes.net
+- **2026-06-14** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monad, functional | src: youngju.dev
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Haskell, functional | src: pctechmag.com
+- **2026-06-14** | [monadify - Functional Programming Constructs in Rust](https://lib.rs/crates/monadify) | kw: monad, Rust, functional | src: lib.rs
+- **2026-06-14** | [rsmonad: Haskell-style monads in Rust](https://github.com/wrsturgeon/rsmonad) | kw: monad, Haskell, Rust | src: github.com
+- **2026-06-14** | [Haskell Guide 2026: Functional Programming That Changes How You Code](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, functional | src: precisionaiacademy.com
+
 - **2026-06-14 00:32** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: functional-programming
 - **2026-06-14 00:32** | [200+ Haskell Online Courses for 2026](https://www.classcentral.com/subject/haskell) | kw: functional-programming
 - **2026-06-14 00:32** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
