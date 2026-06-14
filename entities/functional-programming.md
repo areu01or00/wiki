@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | profile: functional-programming
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | profile: functional-programming
+- **2026-06-14** | [Functional Programming in Rust: Idioms and Practices | PythonLib](https://pythonlib.ru/en/post92) | profile: functional-programming
+- **2026-06-14** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | profile: functional-programming
+- **2026-06-14** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | profile: functional-programming
+- **2026-06-14** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | profile: functional-programming
+
 - **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How, I, Learned
 - **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support
 - **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, at

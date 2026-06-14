@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | profile: algorithms
+- **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | profile: algorithms
+- **2026-06-14** | [Google 2026 LeetCode Interview Preparation Guide · GitHub](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | profile: algorithms
+- **2026-06-14** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | profile: algorithms
+
 - **2026-06-14** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview
 - **2026-06-14** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: Top, 100+, Data
 - **2026-06-14** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, |, Coding

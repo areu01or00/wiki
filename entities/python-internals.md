@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | profile: python-internals
+- **2026-06-14** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | profile: python-internals
+- **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | profile: python-internals
+- **2026-06-14** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | profile: python-internals
+- **2026-06-14** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | profile: python-internals
+- **2026-06-14** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | profile: python-internals
+
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, -, Python
 - **2026-06-14** | [Python Free-Threading Guide 2026: No-GIL, Threads, Packages ...](https://www.toolsmint.com/learn/python-free-threading-gil-guide-2026) | kw: Python, Free-Threading, Guide
 - **2026-06-14** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL:, The

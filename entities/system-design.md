@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | profile: system-design
+- **2026-06-14** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | profile: system-design
+- **2026-06-14** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | profile: system-design
+- **2026-06-14** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | profile: system-design
+- **2026-06-14** | [System Design & Architecture (Part-I): Distributed Systems Essentials](https://medium.com/@0s.and.1s/system-design-architecture-part-i-distributed-systems-essentials-93ec785c0ae7) | profile: system-design
+
 - **2026-06-14** | [Edge Computing Trends 2026: The Rise of Distributed ...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge, Computing, Trends
 - **2026-06-14** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: Top, Software, Architecture
 - **2026-06-14** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best
