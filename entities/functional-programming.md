@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef | Technology, Development & Creative Tech Insights](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
+- **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: functional-programming
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional-programming
+- **2026-06-14** | [What killed Haskell, could kill Rust, too · GitHub](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: functional-programming
+- **2026-06-14** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+- **2026-06-14** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust. · GitHub](https://github.com/wrsturgeon/rsmonad) | kw: functional-programming
+- **2026-06-14** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://dl.acm.org/doi/abs/10.1145/3808259?download=true) | kw: functional-programming
+
 - **2026-06-14** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Morning, Monday, monads
 - **2026-06-14** | [Practical uses of monads in Haskell](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: monads, Haskell, monad
 - **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: Through, monads, Haskell

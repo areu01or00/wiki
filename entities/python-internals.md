@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: python-internals
+- **2026-06-14** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals
+- **2026-06-14** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: python-internals
+- **2026-06-14** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: python-internals
+- **2026-06-14** | [Python Free-Threading Guide 2026: No-GIL, Threads, Packages ...](https://www.toolsmint.com/learn/python-free-threading-gil-guide-2026) | kw: python-internals
+
 - **2026-06-14** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: PYTHON, Under, Python
 - **2026-06-14** | [Memory Management — Python 3.14.5 documentation](https://docs.python.org/3/c-api/memory.html) | kw: Management, Python 3.14, Memory
 
