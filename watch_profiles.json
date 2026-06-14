@@ -213,13 +213,10 @@
         "Zafar",
         "and",
         "docs.gitscrum.com",
+        "in",
         "tutorialQ"
       ],
       "last_result_hashes": [
-        "9f947e9ab7c9dd4e08a552655763bf79",
-        "3139bf58d0c715288ff68830b4aecc2f",
-        "8282bc38c31cae78de009daeeac96471",
-        "3d924683b109e99c93d7ba785e0c7ab0",
         "be6431b62c4b712f6f0fa4fe7d011e37",
         "2d3339fbcb04e9f626d884e03958e8d3",
         "694eafe5ed78cb746d62ba47e0492d7d",
@@ -235,9 +232,13 @@
         "849f35999d154e213ce5a4eab37e0d3f",
         "d0ae98a342caad97c68e59c996aeaea3",
         "729c2ff54afb3063182d60de7d6aef1c",
-        "4493db04174fb52c7b4a8bed0a3bc5ca"
+        "4493db04174fb52c7b4a8bed0a3bc5ca",
+        "2ebbe3411f331c326ab1fd19aa4e50c7",
+        "9ba46483364adb11b22fcfbd9fe2e4d2",
+        "89a56d75eb44a5b6b6e7751656a45c91",
+        "161b0c3f73f417f7ee066b608d382f06"
       ],
-      "last_run": "2026-06-14 15:03 UTC"
+      "last_run": "2026-06-14 15:18 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -346,6 +347,7 @@
         "Hybrid",
         "Hybrid compilation",
         "Implementation",
+        "In",
         "Infrastructure",
         "Inline",
         "Insight",
@@ -446,27 +448,29 @@
         "Technology",
         "That",
         "The",
+        "Time",
         "TypeScript",
+        "Weekly",
+        "Wikipedia",
         "Your",
         "and",
         "chekalexey",
+        "compiler",
         "compiler-course-2026",
         "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst",
+        "course",
         "course-spring-2026",
+        "covering",
+        "developments",
+        "in",
         "into",
         "microsoft/llvm",
+        "newsletter",
         "webnuz.com",
+        "weekly",
         "with"
       ],
       "last_result_hashes": [
-        "d63dbdc004563d48fd946feffeab6d0b",
-        "9b9e5b41a1c52064d55b23f06ea84096",
-        "a78c2c73c0749267858b7fdad618ab3b",
-        "0e37ea17fc9a69e116e589e0bc7f8c79",
-        "a2d1a19eb95d0d7bc6f00b97f59f26cb",
-        "294465baa405c509ff16e6e2c8d94604",
-        "23259200a7be4533fe1e25b8fdeb4b83",
-        "2ec17bb0b1523f32de93caf5462a62d6",
         "c475c0bfc1787b356d854243547705b3",
         "fcab134a31ab210c4c949f91b0354c2d",
         "dc1ed9dd8033f8af196ee67f0f1e7530",
@@ -478,9 +482,17 @@
         "1a762d68ccb9960cdf77d1172afe4d13",
         "0b0dcfd9365a8d28f4c117fd6a96dd35",
         "e23334a67e506bda5d2e2c1902935a9b",
-        "a464fcbc93ecec5df595390eb44ada6e"
+        "a464fcbc93ecec5df595390eb44ada6e",
+        "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
+        "d6b1d0b195a3733a394b342cca13ee0d",
+        "525a160983d7b911b472e962fb56cbde",
+        "044f00f22ade99878d29e43ef426c83d",
+        "9e15a6675bd30a9f4f1f425fe7991ab1",
+        "2d99e5f4f4f3e0f2f97020e220877111",
+        "a5ef6826de67317cc0c5a53fba480581",
+        "bbbc8ef4ec78630cae3e49219b742618"
       ],
-      "last_run": "2026-06-14 15:03 UTC"
+      "last_run": "2026-06-14 15:18 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -702,6 +714,8 @@
         "concepts",
         "documentation",
         "for",
+        "in",
+        "of",
         "system",
         "the",
         "typing",
@@ -709,10 +723,6 @@
         "with"
       ],
       "last_result_hashes": [
-        "4a101114e3b691c4671d64770c39c052",
-        "5fff9007b42413a178c3995e2d8b35e6",
-        "7e58202d901d88fd843521c2cb440e69",
-        "88dfcf74de33a1e88c9e9c90d0e55f9b",
         "3fb7b0c6ba32d2a43d0263d145829722",
         "a62041fbd03c36044c10691af16fa6ad",
         "24cf757358df68bad6e6520d17bffb4c",
@@ -728,9 +738,13 @@
         "a4428a72c3f30f04759e0c9ec9f17d9e",
         "99590db6081bbcae86c8faccd0d7102f",
         "d91941e34f98f8fa9db9f1187b488c3a",
-        "393c2007828b49d14ae2ce8a8bf61873"
+        "393c2007828b49d14ae2ce8a8bf61873",
+        "0acb2636282f416d8be527a284439785",
+        "c0b8939bb00148936243259369f1f8a3",
+        "976dfe79ab4a0fb6ab886cc92c4db90d",
+        "d08aaa9554d7cff65d53e42f52f9f36b"
       ],
-      "last_run": "2026-06-14 15:03 UTC"
+      "last_run": "2026-06-14 15:18 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -944,21 +958,20 @@
         "and",
         "anyway",
         "are",
+        "at",
         "bertiqwerty",
         "choose,",
+        "in",
         "monad",
+        "monads",
         "needs",
+        "of",
+        "uses",
         "when?",
         "which",
         "who"
       ],
       "last_result_hashes": [
-        "6a3de62750f7cf7e38152c833d7b84a9",
-        "babfc8c1c281aa94b9cb90de23588ea8",
-        "486776e3b4d65b4fda8a3ef68c9fe2ca",
-        "c4f58f1c1a6ca1ac94cd413f2a9ae3d7",
-        "9e468f427c81adba063b45d72c784552",
-        "608ac3d718f156089272977ad4c0adf3",
         "449f1936d11b3408b5111b8fbfc6e205",
         "cb3451b58dc0de64c4abaf6248054b44",
         "a637c1b028184eea6b2bb028d9aef416",
@@ -972,9 +985,15 @@
         "8b392f40f2d9484600edbc6565709ca7",
         "34879744f2a105709306e24e50011292",
         "5ad787c876eb8643d877a86e2509e154",
-        "b82ed313e52a51037b2e80996b9a6a4d"
+        "b82ed313e52a51037b2e80996b9a6a4d",
+        "8f5cea9e5197c247d1be3e7c458669a6",
+        "93289bda0ee3bc35ac27ca346fc517e5",
+        "fdc8e2b82500b598dc73a35e40bb2f1e",
+        "414b93965ea64b12ae767f4f119ed29a",
+        "ff8e7aa82463ab8acd416101b1a2e680",
+        "c233ce094f809bd93c2f4474229feed5"
       ],
-      "last_run": "2026-06-14 15:03 UTC"
+      "last_run": "2026-06-14 15:18 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1187,15 +1206,11 @@
         "algorithm",
         "for",
         "interview",
-        "prepare"
+        "prepare",
+        "to",
+        "with"
       ],
       "last_result_hashes": [
-        "09fb34f020c56145d7269228189a72c2",
-        "784080c849a7e175591d07376fe46ba4",
-        "53468a49e5858039fabcfee0555bf84f",
-        "60233ba12f224764b5938c3634b02e6a",
-        "9bae7c320eaa49023b76088f638f22f3",
-        "a97aaa060bf3039beeb41e73ac20d73c",
         "eac128746ce43597ebff2f84aa42b62c",
         "16fb61bfff318a93c7365ae3110db935",
         "511579bd1fb81b7217255226cf7dbbdf",
@@ -1209,9 +1224,15 @@
         "23f4a9b80903ef58acfe4d5725911c20",
         "f5ea8c4d6350482ff66a90ce73b7d7ad",
         "34a17f34446e1e8f1c4f183b0277d0b6",
-        "27e49ef238d4a1b6ef252acfce87aaa7"
+        "27e49ef238d4a1b6ef252acfce87aaa7",
+        "dab5189ef3ae5fb004933e5992b3a43d",
+        "8f48746135c4ce31696176aebedcfc09",
+        "fd122b96f8cdfa3f8ca7564113913fa6",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "7d194ad3d9a4f9a87cd4de35548c005c",
+        "a437f9e0573ad929308a3a8a423f7af1"
       ],
-      "last_run": "2026-06-14 15:03 UTC"
+      "last_run": "2026-06-14 15:18 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1316,6 +1337,7 @@
         "Hood",
         "How",
         "Impact",
+        "In",
         "In-Depth",
         "Inner",
         "Insights",
@@ -1436,17 +1458,13 @@
         "and",
         "faster?",
         "for",
+        "in",
         "make",
+        "of",
         "significantly",
         "the"
       ],
       "last_result_hashes": [
-        "087455b373dbe987da5078283f97a4cb",
-        "d039e042681eec36da491d8cee27f811",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "35303d2720582e23d49ac77a4490dddd",
-        "4184a54dc00ba65d5fc2f244c57e0f4d",
-        "993340ba10508d27975679f77e08cd57",
         "d325664397744a25ea9e39183a49a374",
         "d67c0fb50ee2bad80e09d01b4a7f78e0",
         "beaef31893811bf93a7c49c5427531ec",
@@ -1460,10 +1478,16 @@
         "af31f11cc482e78da08d11706ef24e86",
         "33a76b8033a2df056332eaf8c13f8da1",
         "6622407c0995983f2e39b7a58720b2ea",
-        "a1001fa1d16e18cf732ae3f80c77fe76"
+        "a1001fa1d16e18cf732ae3f80c77fe76",
+        "4cd24649bb264af960eb0db466e7076c",
+        "4aa45f88b11be85c9e2609d7545bb7fb",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "aff79aed6e34d3f002b7fa14f5978b75",
+        "9b10bb0a43b30d2a1b1999935e4c8720",
+        "34b98abdd6bbd8dd5d7622c24cf994de"
       ],
-      "last_run": "2026-06-14 15:03 UTC"
+      "last_run": "2026-06-14 15:18 UTC"
     }
   },
-  "last_run": "2026-06-14 15:03 UTC"
+  "last_run": "2026-06-14 15:18 UTC"
 }
