@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in
+- **2026-06-14** | [The Practical Value of Functional Programming — Monad...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value
+- **2026-06-14** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which Functional Programming
+- **2026-06-14** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: The Future of
+- **2026-06-14** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic) | kw: monadic - Rust
+- **2026-06-14** | [Functional Programming Paradigms: Immutability, Higher-Order Functions, and Monads 2026](https://johal.in/functional-programming-paradigms-immutability-higher-order-functions-and-monads-2026) | kw: Functional Programming Paradigms:
+- **2026-06-14** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust](https://github.com/wrsturgeon/rsmonad) | kw: GitHub - wrsturgeon/rsmonad:
+
 - **2026-06-14** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | source: functional-programming
 - **2026-06-14** | [Monads in Haskell - DEV Community](https://dev.to/bekbrace/monads-in-haskell-1p8i) | source: functional-programming
 - **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | source: functional-programming

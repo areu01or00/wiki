@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [LeetCode Java Problems](https://leetcode.com/problemset?language=Java) | kw: LeetCode Java Problems
+- **2026-06-14** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet
+- **2026-06-14** | [Data Structures & Algorithms Roadmap 2026 - The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures &
+- **2026-06-14** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data Structures &
+- **2026-06-14** | [Most Asked leetcode interview questions — JAVA](https://diptendud.medium.com/most-asked-leetcode-interview-questions-java-7a38f8fd7b5c) | kw: Most Asked leetcode
+- **2026-06-14** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: Top 100+ Data
+
 - **2026-06-14** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | source: algorithms
 - **2026-06-14** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | source: algorithms
 - **2026-06-14** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | source: algorithms

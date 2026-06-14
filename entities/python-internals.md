@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under the Hood
+- **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The Python GIL
+- **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of
+- **2026-06-14** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: Memory Management in
+- **2026-06-14** | [GIL in Python: What is it and Why Does it Matter? - DEV Community](https://dev.to/dubbyding/gil-in-python-what-is-it-and-why-does-it-matter-d5p) | kw: GIL in Python:
+
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | source: python-internals
 - **2026-06-14** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | source: python-internals
 - **2026-06-14** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026) | source: python-internals
