@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages/) | kw: Reliability
+- **2026-06-14** | [Understanding Monads in Functional Programming: A ...](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Reliability
+- **2026-06-14** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Reliability
+- **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Reliability
+- **2026-06-14** | [Functional Languages and the Future of Programming (Part 1)](https://www.lpi.org/blog/2026/03/18/functional-languages-and-the-future-of-programming-part-1/) | kw: Reliability
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Reliability
+- **2026-06-14** | [Functional Languages in 2026 — A Camp-by-Camp Survey of ...](https://www.youngju.dev/blog/culture/2026-05-14-functional-languages-2026-survey-haskell-elm-roc-gleam-unison-ocaml-fsharp-deep-dive.en) | kw: Reliability
+
 - **2026-06-14** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Functional programming: A
 - **2026-06-14** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like
 - **2026-06-14** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: Rust で柔軟な do
