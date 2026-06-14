@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 Turbofan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
+- **2026-06-14** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM, 2026, OrcJIT
+- **2026-06-14** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just, Time, (JIT)
+- **2026-06-14** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: Compiler, Prompt, Engineering:
+- **2026-06-14** | [LLVM ORC JIT Tutorial - BuildingAJIT1.rst (VALancaster)](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, Tutorial, BuildingAJIT1.rst
+- **2026-06-14** | [LLVM ORC JIT Tutorial - BuildingAJIT1.rst (chekalexey)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, Tutorial, BuildingAJIT1.rst
+- **2026-06-14** | [LLVM ORC JIT Tutorial - BuildingAJIT1.rst (Georghinho)](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM, Tutorial, BuildingAJIT1.rst
+- **2026-06-14** | [LLVM ORC JIT Tutorial - BuildingAJIT3.rst (4elodoy-Molovek)](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: LLVM, Tutorial, BuildingAJIT3.rst
+
 - **2026-06-14** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: update
 - **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: update
 - **2026-06-14** | [LLVM Integration and JIT Compilation | OpenShadingLanguage | DeepWiki](https://deepwiki.com/AcademySoftwareFoundation/OpenShadingLanguage/3.1-llvm-integration-and-jit-compilation) | kw: Integration, OpenShadingLanguage

@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads in Functional Programming: A Comprehensive Guide](https://thetechgenie.in/monads-in-functional-programming-a-comprehensive-guide) | kw: Monads, Functional, Programming:
+- **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026:
+- **2026-06-14** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad, Like
+- **2026-06-14** | [Monads, Functors, and Applicatives in Haskell: Mastering Core Abstractions](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: Monads,, Functors,, Applicatives
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support
+- **2026-06-14** | [Functional Programming in Rust: Idioms and Examples](https://pythonlib.ru/en/post92) | kw: Functional, Programming, Rust:
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Finest:
+
 - **2026-06-14** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's, Coming, slicker.me
 - **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: update
 - **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: update

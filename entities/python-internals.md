@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Python:, Internals
+- **2026-06-14** | [Python Internals: Memory Management and the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals:, Memory
+- **2026-06-14** | [Understanding Python's GIL (Global Interpreter Lock)](https://medium.com/%40AlexanderObregon/understanding-pythons-gil-global-interpreter-lock-29ff5e07cc19) | kw: Understanding, Python's, (Global
+- **2026-06-14** | [Memory Management in Python - Real Python](https://realpython.com/python-memory-management) | kw: Memory, Management, Python
+- **2026-06-14** | [What is the Python Global Interpreter Lock?](https://software.codidact.com/posts/286817) | kw: Python, Global, Interpreter
+- **2026-06-14** | [Python Global Interpreter Lock (GIL) - cosmiclearn](https://www.cosmiclearn.com/python/gil.php) | kw: Python, Global, Interpreter
+- **2026-06-14** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: Python's, Actually, Works
+
 - **2026-06-14** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: update
 - **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: update
 - **2026-06-14** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: update
