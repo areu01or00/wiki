@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap
+- **2026-06-14** | [Learn Advanced Distributed Systems Design - Particular Software](https://particular.net/adsd) | kw: Learn, Advanced, Distributed
+- **2026-06-14** | [Predicting the Future of Distributed Systems - Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems) | kw: Predicting, Future, Distributed
+- **2026-06-14** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: Essential, Distributed, System
+
 - **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: OnlineTools4Free OT4F. System Design Guide 2026.
 - **2026-06-14** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: The convergence of edge computing, AI/ML inference, and global real-time require
 

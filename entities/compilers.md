@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [Python's JIT Compiler in 2026 — How Fast Is It Really?](https://www.pyblog.in/programming/inorder-traversal-of-binary-tree-in-python) | kw: Python's, Compiler, Fast
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: GitHub
+- **2026-06-14** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM, Wikipedia
+- **2026-06-14** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: Compilation, DeepWiki
+- **2026-06-14** | [The Future of Programming: Compiler Writing in 2026 | Artikls](https://artikls.com/article/future-programming-compiler-writing-2026) | kw: Future, Programming:, Compiler
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+
 - **2026-06-14** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM's dominance, V8's 4-tier JIT, Hidden Classes and Inline Caching, Escape Ana
 - **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · VALancaster/compiler-course-2026](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: The goal of this tutorial is to introduce you to LLVM's ORC JIT APIs, show how t
 - **2026-06-14** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: Optimize AI compilers with precision. This 2026 guide covers pragmas, hints, and

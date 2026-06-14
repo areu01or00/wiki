@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [The GIL Is Finally Dead: Free-Threaded Python Is Production ...](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: Finally, Dead:, Free
+- **2026-06-14** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: Secret, Life, Python:
+- **2026-06-14** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals:
+- **2026-06-14** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL:, Backend
+- **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: Future, Python, Internals:
+- **2026-06-14** | [Memory Management in Python – Real Python](https://realpython.com/python-memory-management) | kw: Memory, Management, Python
+- **2026-06-14** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Python, Free, Threading
+
 - **2026-06-14** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: This topic explains how Python works behind the scenes to manage memory and exec
 - **2026-06-14** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Learn Memory Management & GIL in our Python course. Master the Advanced concepts
 - **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Understand Python internals: Cyclic Garbage Collection, __slots__ for memory sav

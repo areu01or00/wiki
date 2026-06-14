@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: Outs, Gradual, Type
+- **2026-06-14** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type
+- **2026-06-14** | [Gradual Typing with Uniﬁcation-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual, Typing, Uniﬁcation
+- **2026-06-14** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting, Gradual, Types
+
 - **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: The 2026 reality is a convergence, largely driven by the adoption of gradual typ
 - **2026-06-14** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives | NSF Public Access Repository](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: This paper systematically investigates performance of fine-grained gradual typin
 

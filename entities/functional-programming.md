@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: Rust
+- **2026-06-14** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday
+- **2026-06-14** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, Haskell
+- **2026-06-14** | [Hello, Haskell: Getting Started in 2026 · lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello,, Haskell:, Getting
+
 - **2026-06-14** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: Comprehensive guide to monads in Haskell, including do-notation, commutative mon
 - **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: In the purely functional language Haskell, there is a state monad that makes it 
 
