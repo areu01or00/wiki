@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [Chapter 9: JIT Compilation | Learn LLVM 17 - Packt Subscription](https://subscription.packtpub.com/book/programming/9781837631346/12/ch12lvl1sec59/llvms-overall-jit-implementation-and-use-cases) | kw: Chapter, JIT
+- **2026-06-14** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern
+- **2026-06-14** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The, Case, For
+- **2026-06-14** | [Notes 6: JIT compilation](https://stat244.berkeley.edu/spring-2025/notes/notes6.pdf) | kw: Notes, JIT
+
 - **2026-06-14** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM, 2026, -
 - **2026-06-14** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern
 - **2026-06-14** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM, -, Wikipedia
