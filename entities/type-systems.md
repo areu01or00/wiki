@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | source: type-systems
+- **2026-06-14** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | source: type-systems
+- **2026-06-14** | [Type Theory and Gradual Typing](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | source: type-systems
+- **2026-06-14** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | source: type-systems
+
 - **2026-06-14** | [Elixir v1.20 Achieves Gradual Typing Without Annotations | SimpleNews.ai](https://www.simplenews.ai/news/elixir-v120-achieves-gradual-typing-without-annotations-3zyn) | kw: Elixir, v120, Achieves
 - **2026-06-14** | [TypeScript Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript, Type, System
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance - programming-journal.org](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
