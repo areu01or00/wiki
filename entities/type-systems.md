@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, of
+- **2026-06-14** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, as
+- **2026-06-14** | [Compiling Gradual Types with Evidence](https://scixplorer.org/abs/2025arXiv251222684R/abstract) | kw: Compiling, Gradual, Types
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance - Journal](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, of
+- **2026-06-14** | [Gradual Typing with Unification-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual, Typing, with
+- **2026-06-14** | [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf) | kw: Abstracting, Gradual, Typing
+
 - **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: static-typing
 - **2026-06-14** | [Efficient Selection of Type Annotations (arXiv 2603.05649)](https://arxiv.org/abs/2603.05649) | kw: general
 - **2026-06-14** | [Gradual Typing with Inference (Siek slides)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual-typing

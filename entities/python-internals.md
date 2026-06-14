@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals:, Memory
+- **2026-06-14** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: How, Python, Works
+- **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, the, Hood
+- **2026-06-14** | [Python 3.14 New Features: What's Changed and Why It Matters](https://dasroot.net/posts/2026/02/python-314-new-features-what-changed-why-it-matters/) | kw: Python, 3.14, New
+- **2026-06-14** | [PEP 703 Explained: How Python Finally Removes the GIL](https://dev.to/epam_india_python/pep-703-explained-how-python-finally-removes-the-gil-49d) | kw: PEP, 703, Explained:
+- **2026-06-14** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: How, Python's, Memory
+- **2026-06-14** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, &
+
 - **2026-06-14** | [Python Internals: Memory Management & GIL | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python
 - **2026-06-14** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: ai
 - **2026-06-14** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: python

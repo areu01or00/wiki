@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-14** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How, to, Prepare
+- **2026-06-14** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: Data, Structure, I
+- **2026-06-14** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, &, Data
+- **2026-06-14** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, |, Coding
+- **2026-06-14** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode, Alone, Won't
+- **2026-06-14** | [Google 2026 LeetCode Interview Preparation Guide](https://gist.github.com/carefree-ladka/bcde3fe00ceea6457da0a71d56784858) | kw: Google, 2026, LeetCode
+- **2026-06-14** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: Ultimate, Java, +
+
 - **2026-06-14** | [LeetCode Alone Won't Save You in 2026](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: leetcode
 - **2026-06-14** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms
 - **2026-06-14** | [NeetCode | Coding Interview Prep](https://neetcode.io/) | kw: interview

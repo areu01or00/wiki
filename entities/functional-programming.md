@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, —
+- **2026-06-14** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: Monad, -, HaskellWiki
+- **2026-06-14** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Making, Sense, of
+- **2026-06-14** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Functional, programming:, A
+- **2026-06-14** | [Practical uses of monads in Haskell - Nauths](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: Practical, uses, of
+- **2026-06-14** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Monad, tutorials, timeline
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: How, I, Learned
+- **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, are, Omnipresent
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, at
+
 - **2026-06-14** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad/) | kw: monad
 - **2026-06-14** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: rust
 - **2026-06-14** | [monadify - Rust utility](https://lib.rs/crates/monadify) | kw: monad
