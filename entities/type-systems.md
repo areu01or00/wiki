@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-14** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
+- **2026-06-14** | [Type Theory and Gradual Typing](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: Type, Theory, Gradual
+- **2026-06-14** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, Types
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type
+- **2026-06-14** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: Jeremy, Siek, Page
+- **2026-06-14** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-14** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: 100+, Type, Inference
+
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection
 - **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, the, Language
 - **2026-06-14** | [TypeScript's Type System as a Proof System: Type-Level Programming Beyond the Basics](https://www.javacodegeeks.com/2026/06/typescripts-type-system-as-a-proof-system-type-level-programming-beyond-the-basics.html) | kw: TypeScript's, Type, System

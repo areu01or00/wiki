@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [The Functional Programming Paradigm: Concepts, Principles, and Applications](https://ijsrm.net/index.php/ijsrm/article/view/7139) | kw: Functional, Programming, Paradigm:
+- **2026-06-14** | [Top 4 Functional Programming Languages in 2026 | Coursera](https://www.coursera.org/articles/functional-programming-languages) | kw: Functional, Programming, Languages
+- **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026:
+- **2026-06-14** | [Introduction to Functional Programming](https://subversion.american.edu/aisaac/notes/functional-intro.html) | kw: Introduction, Functional, Programming
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Finest:
+- **2026-06-14** | [Functional Programming Introduction | by Hasan Tuncay | Medium](https://medium.com/%40hasantuncay2635/functional-programming-introduction-7d5dd73510da) | kw: Functional, Programming, Introduction
+
 - **2026-06-14** | [Practical uses of monads in Haskell](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: Practical, uses
 - **2026-06-14** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial
 - **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, are, Omnipresent

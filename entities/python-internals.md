@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals:
+- **2026-06-14** | [Python Memory Leaks: 7 Fixes for Long-Running Apps in 2026](https://appsconcerebro.com/en/blog/python-2026-diagnostico-y-solucion-de-fugas-de-memoria-en-ap) | kw: Python, Memory, Leaks:
+- **2026-06-14** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: Secret, Life, Python:
+- **2026-06-14** | [Memory Management in Python 2026 – Best Practices for Efficient Code – PyInns](https://www.pyinns.com/python/efficient-code/memory-management-python-2026-efficient-code) | kw: Memory, Management, Python
+- **2026-06-14** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, Hood, Python:
+- **2026-06-14** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: Python's, Memory, Management
+- **2026-06-14** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future, Python, Internals:
+
 - **2026-06-14** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals:, Memory
 - **2026-06-14** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python, Memory, Profiling
 - **2026-06-14** | [The Ultimate Python Learning Roadmap for 2026: Complete](https://course4all.com/blog/python-learning-roadmap-2026) | kw: The, Ultimate, Python

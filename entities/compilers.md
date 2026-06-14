@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
+- **2026-06-14** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time, (JIT), Compiler
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at Georghinho](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, Georghinho
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at VALancaster](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, VALancaster
+- **2026-06-14** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: Compiler, Optimization, Revolution
+- **2026-06-14** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM, Wikipedia
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at 4elodoy-Molovek](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst, 4elodoy-Molovek
+- **2026-06-14** | [Perry - The Native TypeScript Compiler That Lowers TS ...](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry, Native, TypeScript
+- **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, chekalexey
+
 - **2026-06-14** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-Based Binary Translation](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking, Performance:, The
 - **2026-06-14** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern
 - **2026-06-14** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM, 2026
