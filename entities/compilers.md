@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-14 15:03** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: compilers
+- **2026-06-14 15:03** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
+- **2026-06-14 15:03** | [Compilers and Modern Language Runtimes - LLVM JIT GC V8 Turbofan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-06-14 15:03** | [Best Free Open-Source Compilers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: compilers
+- **2026-06-14 15:03** | [compiler-course-2026 BuildingAJIT1.rst - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-14 15:03** | [compiler-course-2026 BuildingAJIT1.rst - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-14 15:03** | [JVM Interpreter versus Just-In-Time Compiler](https://incusdata.com/blog/jvm-interpreter-jit-compiler) | kw: compilers
+- **2026-06-14 15:03** | [Compiler Design Trends: JIT, ML, Parallelism](https://www.scribd.com/document/957429651/Recent-Trends-in-Compiler-Design) | kw: compilers
+
 - **2026-06-14** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
 - **2026-06-14** | [LLVM Integration and JIT Compilation | AcademySoftwareFoundation/OpenShadingLanguage | DeepWiki](https://deepwiki.com/AcademySoftwareFoundation/OpenShadingLanguage/3.1-llvm-integration-and-jit-compilation) | kw: compilers
 - **2026-06-14** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: compilers

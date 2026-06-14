@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14 15:03** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-14 15:03** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
+- **2026-06-14 15:03** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-06-14 15:03** | [Type Theory and Gradual Typing](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: type-systems
+- **2026-06-14 15:03** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-14 15:03** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
+- **2026-06-14 15:03** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
+- **2026-06-14 15:03** | [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf) | kw: type-systems
+- **2026-06-14 15:03** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: type-systems
+
 - **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
 - **2026-06-14** | [Understanding Graduality in Programming Languages through ...](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: type-systems
 - **2026-06-14** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type-systems

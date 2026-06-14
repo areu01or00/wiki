@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-14 15:03** | [Python Internals: Memory Management and the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-14 15:03** | [Memory Management and GIL: Python Guide 2026](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
+- **2026-06-14 15:03** | [Python 3.14 Free-Threading and Experimental JIT](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: python-internals
+- **2026-06-14 15:03** | [The Future of Python Internals: Exploring GIL Removal](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: python-internals
+- **2026-06-14 15:03** | [Modern Python Best Practices: The 2026 Definitive Guide](https://onehorizon.ai/blog/modern-python-best-practices-the-2026-definitive-guide) | kw: python-internals
+- **2026-06-14 15:03** | [Pythons GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python-internals
+- **2026-06-14 15:03** | [Memory Management in Python - Real Python](https://realpython.com/python-memory-management) | kw: python-internals
+- **2026-06-14 15:03** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python-internals
+
 - **2026-06-14** | [CPython Internals: How Python Really Works Under the Hood | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: python-internals
 - **2026-06-14** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python-internals
 - **2026-06-14** | [Python In-Depth — Memory Management in Python (GIL and Profiling) | by Arjun Dahal | Medium](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: python-internals

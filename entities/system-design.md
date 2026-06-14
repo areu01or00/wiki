@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-14 15:03** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
+- **2026-06-14 15:03** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-14 15:03** | [Microservices Architecture Patterns in 2026](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system-design
+- **2026-06-14 15:03** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks) | kw: system-design
+- **2026-06-14 15:03** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system-design
+- **2026-06-14 15:03** | [Patterns of Distributed Systems: Complete Roadmap](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: system-design
+
 - **2026-06-14** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design
 - **2026-06-14** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system-design
 - **2026-06-14** | [Resilience First – Modern Patterns in Distributed ...](https://gabogil.com/2026/04/26/resilience-first-modern-patterns-in-distributed-architectures) | kw: system-design
