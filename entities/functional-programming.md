@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: Haskell, Rust, Comparison
+- **2026-06-14** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Rust, Patterns, Functional
+- **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, Haskell, Gleam, Rust
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional, Programming, Haskell, Reliability
+- **2026-06-14** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Rust, Functional, Programming, Idioms, Monads
+- **2026-06-14** | [Rust: Haskell but more imperative? | Catalin's blog](https://catalin-tech.com/haskell-rust/) | kw: Rust, Haskell, Imperative
+- **2026-06-14** | [Rust: Functional Programming & Monads | by Technocrat](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust, Functional, Programming, Monads
+
 - **2026-06-14** | [Functors, Applicatives, and Monads in Haskell Design Patterns](https://softwarepatternslexicon.com/haskell/functional-design-patterns/functors-applicatives-and-monads-in-design-patterns/) | kw: Monads, Haskell, Design, Patterns
 - **2026-06-14** | [Functors, Applicatives, and Monads: FP Concepts Explained](https://read.thecoder.cafe/p/functors-applicatives-monads) | kw: Concepts, Explained
 - **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional, Programming, Haskell, Developers

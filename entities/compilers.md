@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-14** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, Turbofan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, LLVM, JIT, Runtimes, V8, Turbofan
+- **2026-06-14** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT, Compiler, LLVM, Create, Language
+- **2026-06-14** | [JIT and Optimizations | LLVM: Implementing a Language](https://landersbenjamin.gitbooks.io/llvm-implementing-a-language/content/jitandopt.html) | kw: JIT, Optimizations, LLVM, Implementing
+- **2026-06-14** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: SPEC, CPU, LLVM, Compilers
+- **2026-06-14** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: ML, Compiler, Optimization, Revolution
+
 - **2026-06-14** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language, Runtimes
 - **2026-06-14** | [LLVM 6 Compiling to Object Code. - by Dev To - webnuz.com](https://www.webnuz.com/article/2026-06-08/LLVM%206%20%20Compiling%20to%20Object%20Code.) | kw: LLVM, Compiling, Object
 - **2026-06-14** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: Case, Look, SPEC, LLVM, ServeTheHome
