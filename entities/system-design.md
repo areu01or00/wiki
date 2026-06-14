@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-14** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
+- **2026-06-14** | [Best Practices to Scale Distributed IT Infrastructure](https://www.scalecomputing.com/resources/best-practices-for-scaling-it-infrastructure-distributed-enterprise) | kw: Best, Practices, to
+
 - **2026-06-14** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | source: system-design
 - **2026-06-14** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | source: system-design
 - **2026-06-14** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | source: system-design

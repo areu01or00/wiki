@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-14** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, of
+- **2026-06-14** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, the, Language
+
 - **2026-06-14** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | source: type-systems
 - **2026-06-14** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | source: type-systems
 - **2026-06-14** | [Type Theory and Gradual Typing](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | source: type-systems

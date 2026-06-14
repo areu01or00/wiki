@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-14** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, at
+- **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How, I, Learned
+- **2026-06-14** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, are, Omnipresent
+- **2026-06-14** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value
+
 - **2026-06-14** | [Functors, Applicatives, and Monads in Haskell Design Patterns](https://softwarepatternslexicon.com/haskell/functional-design-patterns/functors-applicatives-and-monads-in-design-patterns/) | source: functional-programming
 - **2026-06-14** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | source: functional-programming
 - **2026-06-14** | [Monads in Functional Programming: A Comprehensive Guide](https://thetechgenie.in/monads-in-functional-programming-a-comprehensive-guide) | source: functional-programming
