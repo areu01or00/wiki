@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [80: POPL 2026 - Part 2 - The Haskell Interlude (podcast)](https://www.listennotes.com/podcasts/the-haskell/80-popl-2026-part-2-WOG2fI-tkse/) | kw: monad, haskell, popl 2026
+
 - **2026-06-15** | [[2604.15290v4] Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v4) | kw: [2604.15290v4] Pure Borrow: Linear Haskell Meets Rust-Style Borrowing | profile: functional-programming
 
 - **2026-06-15** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's Coming for Haskell in 2026 - slicker.me | profile: functional-programming

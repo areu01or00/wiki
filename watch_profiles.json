@@ -454,7 +454,7 @@
         "cb1eb2ebde1523022fa96826066cb39c",
         "3d9ca04dd6ca3ffed2f0ecbbda1b036a"
       ],
-      "last_run": "2026-06-15 22:31 UTC"
+      "last_run": "2026-06-15 22:48 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -921,7 +921,7 @@
         "4a4e0127b12cfd2d476b5aaa44376f2d",
         "0470167cda0b8ace44506e8158e0fc2c"
       ],
-      "last_run": "2026-06-15 22:31 UTC"
+      "last_run": "2026-06-15 22:48 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1375,7 +1375,7 @@
         "9eee1cbd0ae95b9f56c7e017fb68dcaf",
         "674d69813fb81b27b6e3cf3f38850e5b"
       ],
-      "last_run": "2026-06-15 22:31 UTC"
+      "last_run": "2026-06-15 22:48 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1825,7 +1825,6 @@
         "slicker"
       ],
       "last_result_hashes": [
-        "2936240f7edd548b4f5be6569f0924f1",
         "943e4a99cc2e0e7b65e40f9ad269e8d4",
         "f90ff073009eed161109951f0f328ce3",
         "6ac17140976f4e3a7be22d2ec701d1ce",
@@ -1844,9 +1843,10 @@
         "3e3713575bf4014926a64dddce940066",
         "a8566d8d4f482c645facef0b17ecc050",
         "b563ffbf6c4669af7435b247e6cfa801",
-        "42966b89a99e1a0b00c1ccd24f75957f"
+        "42966b89a99e1a0b00c1ccd24f75957f",
+        "06ce455b80c3353477db4172b1596c1e"
       ],
-      "last_run": "2026-06-15 22:31 UTC"
+      "last_run": "2026-06-15 22:48 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2296,7 +2296,7 @@
         "0f727d433df04df982ca51e5224fb3c1",
         "66b8837f275e930531045b83fb578f17"
       ],
-      "last_run": "2026-06-15 22:31 UTC"
+      "last_run": "2026-06-15 22:48 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2750,7 +2750,7 @@
         "349b5bc51f13880d861325cbf51da2ec",
         "9132d1ca01d195338d05eb556f7164be"
       ],
-      "last_run": "2026-06-15 22:31 UTC"
+      "last_run": "2026-06-15 22:48 UTC"
     }
   }
 }
