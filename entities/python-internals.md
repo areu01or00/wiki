@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken and Why It Might Not Matter](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: javacodegeeks.com
+- **2026-06-15** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: edugators.com
+- **2026-06-15** | [Memory Management in Python 2026 – Best Practices for Efficient Code – PyInns](https://www.pyinns.com/python/efficient-code/memory-management-python-2026-efficient-code) | kw: pyinns.com
+- **2026-06-15** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: blog.imseankim.com
+- **2026-06-15** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python.plainenglish.io
+
 - **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
 - **2026-06-15** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python-internals
 - **2026-06-15** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: python-internals

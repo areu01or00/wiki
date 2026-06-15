@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [LeetCode Questions Asked in Google 2026](https://papersadda.com/article/leetcode-questions-google-2026) | kw: papersadda.com
+- **2026-06-15** | [LeetCode Interview Questions: Top Patterns by Company (2026) | InterviewPilot](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: interviewpilot.dev
+- **2026-06-15** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: interviewaibox.co
+- **2026-06-15** | [Top 50 Data Structures Interview Questions 2026](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: papersadda.com
+- **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: namastedev.com
+- **2026-06-15** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: udemy.com
+- **2026-06-15** | [Top LeetCode questions asked in NETFLIX Interviews for SDE role](https://medium.com/%40ridhisingla001/top-leetcode-questions-asked-in-netflix-interviews-for-sde-role-1611f353fee5) | kw: medium.com
+- **2026-06-15** | [Most Asked LeetCode Interview Questions: Essential Guide - upGrad](https://www.upgrad.com/blog/leetcode-interview-questions) | kw: upgrad.com
+
 - **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
 - **2026-06-15** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: algorithms
 - **2026-06-15** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: algorithms

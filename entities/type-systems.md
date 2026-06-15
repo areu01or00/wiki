@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: braindetox.kr
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance...](https://programming-journal.org/2026/11/3/) | kw: programming-journal.org
+- **2026-06-15** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: wgt20.irif.fr
+- **2026-06-15** | [The ins and outs of gradual type inference](https://www.researchgate.net/publication/220997907_The_ins_and_outs_of_gradual_type_inference) | kw: researchgate.net
+- **2026-06-15** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: yoichiozaki.github.io
+- **2026-06-15** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: microsoft.com
+
 - **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
 - **2026-06-15** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems

@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [The Practical Value of Functional Programming — Monad, Haskell, Elixir, Erlang, Gleam, Effect-TS Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: youngju.dev
+- **2026-06-15** | [Reflections on Haskell and Rust](https://academy.fpblock.com/blog/rust-haskell-reflections/) | kw: academy.fpblock.com
+- **2026-06-15** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: bertiqwerty.com
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: johnwick.cc
+- **2026-06-15** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: precisionaiacademy.com
+
 - **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
 - **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional-programming
 - **2026-06-15** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming
