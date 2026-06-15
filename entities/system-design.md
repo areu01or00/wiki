@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Service Mesh Deep Dive — Envoy, Istio, Linkerd, Cilium eBPF, Ambient Mesh, xDS/mTLS](https://www.youngju.dev/blog/culture/2026-04-15-service-mesh-envoy-istio-linkerd-cilium-ebpf-ambient-xds-mtls-deep-dive-guide-2025.en) | kw: Service, Mesh, Deep, Dive, Envoy
+- **2026-06-15** | [Sidecar-Free Service Mesh: Understanding Cilium's eBPF Architecture](https://blog.aicademy.ac/cilium-ebpf-sidecar-free-service-mesh) | kw: Sidecar, Free, Service, Mesh, Understanding
+- **2026-06-15** | [Sidecar vs eBPF Service Mesh: An ADR for 2026 Production](https://iotdigitaltwinplm.com/ebpf-vs-sidecar-service-mesh-adr-2026) | kw: Sidecar, Ebpf, Service, Mesh, ADR
+- **2026-06-15** | [Service Mesh in 2026: Cilium Wins, Istio Adapts, and eBPF Changes the Game](https://algeriatech.news/service-mesh-cilium-consolidation-2026) | kw: Service, Mesh, Cilium, Wins, Istio
+- **2026-06-15** | [How eBPF is driving the shift to sidecarless service meshes](https://techvogue.blog/blog/how-ebpf-driving-shift-sidecarless-service) | kw: Ebpf, Driving, Shift, Sidecarless, Service
+
 - **2026-06-15** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
 - **2026-06-15** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture
 - **2026-06-15** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: Software, Architecture, Trends

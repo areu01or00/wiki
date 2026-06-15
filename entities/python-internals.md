@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python 3.14: Free-Threading, GIL Removal, and Performance Boosts](https://www.webpronews.com/python-3-14-free-threading-gil-removal-and-performance-boosts/) | kw: Python, Free, Threading, GIL, Removal
+- **2026-06-15** | [Python 3.14.6 and 3.13.14: Safe Guide for Free Threading and JIT](https://www.linuxcompatible.org/story/python-3146-and-31314-safe-guide-for-free-threading-and-jit/) | kw: Python, Safe, Guide, Free, Threading
+- **2026-06-15** | [Python 3.13 Changes That Impact Production Code](https://www.c-sharpcorner.com/article/python-3-13-changes-that-impact-production-code-what-developers-need-to-know) | kw: Python, Changes, Impact, Production, Code
+- **2026-06-15** | [Python 3.14が開いた“本格JITとFree-Threadedの時代”](https://b.aries67.com/python314-jit-freethreaded-era) | kw: Python, 14が開いた“本格jitとfree, Threadedの時代”
+
 - **2026-06-15** | [CPython Bytecode Interpreter Deep Dive — ceval.c, Specializing Adaptive, PEP 659, Copy-and-Patch JIT](https://www.youngju.dev/blog/culture/2026-04-15-cpython-bytecode-interpreter-ceval-specializing-adaptive-jit-deep-dive-guide-2025.en) | kw: CPython, Bytecode, Interpreter, Deep, Dive
 
 - **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Memory, Management

@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [MLIR: Multi-Level Intermediate Representation Explained](https://inferensys.com/glossary/edge-artificial-intelligence-architectures/edge-ai-compilers/mlir-multi-level-intermediate-representation) | kw: MLIR, Multi, Level, Intermediate, Representation
+- **2026-06-15** | [Tesla Rewrote Its Entire AI Compiler with MLIR - tesorb.com](https://tesorb.com/tesla-fsd-mlir-compiler-explained/) | kw: Tesla, Rewrote, Entire, Compiler, MLIR
+- **2026-06-15** | [Towards a high-performance AI compiler with upstream MLIR [arXiv]](https://arxiv.org/abs/2404.15204) | kw: Towards, High, Performance, Compiler, Upstream
+- **2026-06-15** | [MLIR Dialects and IR System | triton-lang/triton | DeepWiki](https://deepwiki.com/triton-lang/triton/3-mlir-dialects-and-ir-system) | kw: MLIR, Dialects, System, Triton, Lang/triton
+- **2026-06-15** | [MLIR-based code generation for GPU tensor cores | Proceedings of the 31st ACM SIGPLAN International Conference on Compiler Construction](https://dl.acm.org/doi/10.1145/3497776.3517770) | kw: MLIR, Based, Code, Generation, GPU
+
 - **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
 - **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Compiler, with, LLVM
 - **2026-06-15** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: Case, Look, SPEC
