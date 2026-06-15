@@ -450,7 +450,7 @@
         "be6431b62c4b712f6f0fa4fe7d011e37",
         "729c2ff54afb3063182d60de7d6aef1c"
       ],
-      "last_run": "2026-06-15 20:02 UTC"
+      "last_run": "2026-06-15 20:15 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -910,7 +910,7 @@
         "a881a5f8238b9e06f34461172e8cf548",
         "dc5ada16f234dc184f112304b0917552"
       ],
-      "last_run": "2026-06-15 20:02 UTC"
+      "last_run": "2026-06-15 20:15 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1363,7 +1363,7 @@
         "f45b37537fbd32f2517f1eaf8018adef",
         "992fd52c8844a0fd5a18eb6d9a341e01"
       ],
-      "last_run": "2026-06-15 20:02 UTC"
+      "last_run": "2026-06-15 20:15 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1830,7 +1830,7 @@
         "84a94a6f557d1cfadfc9f5ce9825b1a5",
         "f43523111ef509b9be9cbdabb5aa14ba"
       ],
-      "last_run": "2026-06-15 20:02 UTC"
+      "last_run": "2026-06-15 20:15 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2715,7 +2715,7 @@
         "da6c916761b889c3cb521f966f94e08d",
         "815197da45e59aa0e9917565866ed7a5"
       ],
-      "last_run": "2026-06-15 20:02 UTC"
+      "last_run": "2026-06-15 20:15 UTC"
     }
   }
 }
