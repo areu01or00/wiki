@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-15** | [TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: type-systems
+- **2026-06-15** | [A Deep Dive into Type Systems - What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type-systems
+- **2026-06-15** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: type-systems
+- **2026-06-15** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
+
 - **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: 2026
 - **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual
 - **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3) | kw: Annotations

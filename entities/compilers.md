@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
+- **2026-06-15** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: compilers
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - chekalexey/compiler-course-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-15** | [Advanced Optimizations in Modern Compilers: JIT, AOT and Hybrid Pipelines](https://ijsrmt.com/index.php/ijsrmt/article/view/1072) | kw: compilers
+- **2026-06-15** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: compilers
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - RomanPikhotskiy/compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-15** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: compilers
+- **2026-06-15** | [LLVM 6 Compiling to Object Code.](https://www.webnuz.com/article/2026-06-08/LLVM%206%20%20Compiling%20to%20Object%20Code.) | kw: compilers
+
 - **2026-06-15** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, Turbofan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Analysis
 - **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026
 - **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026

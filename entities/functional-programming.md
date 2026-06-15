@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
+- **2026-06-15** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: functional-programming
+- **2026-06-15** | [Functors, Applicatives, and Monads in Haskell Design Patterns](https://softwarepatternslexicon.com/haskell/functional-design-patterns/functors-applicatives-and-monads-in-design-patterns) | kw: functional-programming
+- **2026-06-15** | [7. Functional Design Patterns](https://softwarepatternslexicon.com/haskell/functional-design-patterns) | kw: functional-programming
+
 - **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Haskell
 - **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does
 - **2026-06-15** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: Rust
