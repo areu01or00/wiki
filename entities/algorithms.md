@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [LeetCode Interview Questions: Top Patterns by Company (2026) | InterviewPilot](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: algorithms
+- **2026-06-15** | [LeetCode Questions Asked in Google 2026 - PA](https://papersadda.com/article/leetcode-questions-google-2026) | kw: algorithms
+- **2026-06-15** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: algorithms
+- **2026-06-15** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: algorithms
+- **2026-06-15** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: algorithms
+- **2026-06-15** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: algorithms
+- **2026-06-15** | [Top LeetCode questions asked in NETFLIX Interviews for SDE role](https://medium.com/%40ridhisingla001/top-leetcode-questions-asked-in-netflix-interviews-for-sde-role-1611f353fee5) | kw: algorithms
+
 - **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Master Data Structures & Algorithms.
 - **2026-06-15** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Interview format at Meta, Amazon, Apple, Netflix, Google.
 - **2026-06-15** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: Master arrays, linked lists, trees, graphs.
