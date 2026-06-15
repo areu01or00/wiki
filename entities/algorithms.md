@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms
+- **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
+- **2026-06-15** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
+- **2026-06-15** | [How to Get Better at LeetCode: 10 Tips That Actually Work (2026)](https://leetcopilot.dev/blog/how-to-get-better-at-leetcode-2026) | kw: algorithms
+- **2026-06-15** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-06-15** | [LeetCode Patterns That Still Matter in 2026: What Interviewers Still Reward | Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: algorithms
+
 - **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, 2026
 - **2026-06-15** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview
 - **2026-06-15** | [NeetCode | Coding Interview Prep](https://neetcode.io/) | kw: NeetCode, Coding, Interview
