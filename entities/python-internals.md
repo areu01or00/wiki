@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python3.13におけるGILオプション化に伴うマルチスレッド、マルチプロセスの使い分け](https://zenn.dev/headwaters/articles/8f6a3afb0b7e18) | kw: Python3, GIL
+- **2026-06-15** | [Python 3.13 - What's New, Support Lifecycle & EOL - VersionLog](https://versionlog.com/python/3.13) | kw: VersionLog, Lifecycle, Support
+- **2026-06-15** | [Python正式发布年度大更新3.13.0：实验性支持no-GIL、性能起飞！](https://blog.csdn.net/weixin_53707653/article/details/142820318) | kw: Python, no-GIL
+- **2026-06-15** | [Python 3.13のFree-Threadingを試してみた](https://zenn.dev/yasudakn/articles/7020cfa554e5a9) | kw: Free-Threading, Python
+- **2026-06-15** | [Python 3.13.3 版本发布 | Python.org](https://pythonlang.cn/downloads/release/python-3133) | kw: Python, Python, org
+- **2026-06-15** | [【Python 3.13】 GILの狭間を攻めてみる - ABEJA Tech Blog](https://tech-blog.abeja.asia/entry/advent-2024-day20-2) | kw: Python, ABEJA, Blog
+
 - **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, internals, memory, management | profile: python-internals
 - **2026-06-15** | [Python Memory Profiling and Optimization Techniques - dasroot.net](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python, memory, profiling, optimization | profile: python-internals
 - **2026-06-15** | [Python Complete Guide | CPython Internals - GIL - pkglog.com](https://pkglog.com/en/blog/python-complete-guide) | kw: python, complete, guide, cpython | profile: python-internals

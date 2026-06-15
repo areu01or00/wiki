@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Top Computer Science Engineering Trends to Watch in 2026](https://www.sandipfoundation.org/blog/top-computer-science-engineering-trends) | kw: Engineering, Computer, Science
+- **2026-06-15** | [Trends in Computer Science and Information Technology](https://www.engineegroup.com/tcsit) | kw: Information, Technology, Computer
+- **2026-06-15** | [9 Emerging Technologies in Computer Science - Jessup University](https://jessup.edu/blog/engineering-technology/emerging-technologies-in-computer-science) | kw: Technologies, University, Computer
+- **2026-06-15** | [The Future of Computer Engineering: Emerging Trends and Technologies](https://cesblog.sdsu.edu/the-future-of-computer-engineering-emerging-trends-and-technologies) | kw: Technologies, Engineering, Computer
+- **2026-06-15** | [Emerging Trends in Computer Science Study in the UK](https://gostudyin.com/india/study-in-uk/study-guides/top-emerging-technologies-in-computer-science-courses) | kw: Computer, Emerging, Science
+- **2026-06-15** | [Exploring the Latest Technology in Computer Science](https://learn.kce.ac.in/latest-technology-in-computer-science) | kw: Technology, Exploring, Computer
+- **2026-06-15** | [Data Structures & Algorithm Free Online Course-Get Certified](https://www.upgrad.com/blog/data-structures-algorithm-free-online-course) | kw: Course-Get, Structures, Algorithm
+- **2026-06-15** | [Embracing Computer Science Innovations: Exciting Developments in AI, Cybersecurity, and Beyond](https://csce.engr.tamu.edu/blog/emerging-trends-in-computer-science) | kw: Cybersecurity, Developments, Innovations
+
 - **2026-06-15** | [Top 100 LeetCode Coding Interview Questions (2025 Edition) - Shadecoder](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: top, 100, leetcode, coding | profile: algorithms
 - **2026-06-15** | [Best DSA Sheet 2026 - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: dsa, sheet, 2026, namastedev | profile: algorithms
 - **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 - TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: data, structures, algorithms, interview | profile: algorithms

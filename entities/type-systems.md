@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Best Programming Languages for 2026 - DEV Community](https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f) | kw: Programming, Community, Languages
+- **2026-06-15** | [10 Best Programming Languages of the Future 2026 - 2050](https://itechnolabs.ca/blog/programming-languages-of-the-future/) | kw: Programming, Languages, Future
+- **2026-06-15** | [Top 21 Programming Languages for Software Development 2026](https://softices.com/blogs/top-programming-languages-2026) | kw: Development, Programming, Languages
+- **2026-06-15** | [21 New Programming Languages to Learn 2026 | Built In](https://builtin.com/software-engineering-perspectives/new-programming-languages) | kw: Programming, Languages, Built
+- **2026-06-15** | [The most popular programming languages in 2026](https://innowise.com/blog/top-proprogramming-languages/) | kw: programming, languages, popular
+- **2026-06-15** | [Top 8 Emerging Programming Languages to Learn in 2026](https://cambridgeinfotech.io/emerging-programming-language-in-2026/) | kw: Programming, Languages, Emerging
+- **2026-06-15** | [APL | FedCSIS 2026](https://2026.fedcsis.org/thematic/apl/) | kw: FedCSIS, APL
+
 - **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing Type | profile: type-systems
 - **2026-06-15** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating Language Labyrinth | profile: type-systems
 - **2026-06-15** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual Typing Types | profile: type-systems

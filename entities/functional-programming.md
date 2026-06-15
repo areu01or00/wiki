@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Functional Programming in Rust - Sylvain Kerkour](https://kerkour.com/rust-functional-programming) | kw: Programming, Functional, Kerkour
+
 - **2026-06-15** | [Does Rust Support Functional Programming Idioms? - CodeGenes](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: rust, support, functional, programming | profile: functional-programming
 - **2026-06-15** | [The Practical Value of Functional Programming - Monad, Haskell, Elixir, Erlang, Gleam, Effect TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: practical, value, functional, programming | profile: functional-programming
 - **2026-06-15** | [Rust - Monday Morning Haskell Monads Tutorial](https://cqjo.erkaid.de/rust-monday-morning-haskell-monads-tutorial-monday-morning-haskell) | kw: rust, monday, morning, haskell | profile: functional-programming
