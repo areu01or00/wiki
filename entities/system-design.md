@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+
+- **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide | profile: system-design
+- **2026-06-15** | [Distributed Caching Patterns: Implementing Cache-Aside, Write-Through and Write-Back Strategies](https://richardgablesner.com/distributed-caching-patterns-implementing-cache-aside-write-through-and-write-back-strategies) | kw: Distributed Caching Patterns | profile: system-design
+
 - **2026-06-15** | [Patterns of Distributed Systems (2022) - Hacker News](https://news.ycombinator.com/item?id=36495335) | kw: Patterns, of, Distributed, Systems, 2022 | profile: system-design
 - **2026-06-15** | [Predicting the Future of Distributed Systems | Hacker News](https://news.ycombinator.com/item?id=41363499) | kw: Predicting, the, Future, of, Distributed | profile: system-design
 

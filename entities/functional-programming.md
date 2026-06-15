@@ -2,6 +2,14 @@
 
 ## Updates
 
+- **2026-06-15** | [Haskell Interlude #83: POPL 2026 - Part 2 - Haskell Discourse](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83 | profile: functional-programming
+- **2026-06-15** | [The Future of Haskell and Functional Programming - Software Patterns Lexicon](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: Future Haskell Functional | profile: functional-programming
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms? - CodeGenes](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does Rust Support | profile: functional-programming
+- **2026-06-15** | [The Practical Value of Functional Programming - Monad through React/Rust/Kotlin - Youngju Kim](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical Value Functional | profile: functional-programming
+- **2026-06-15** | [Which Functional Programming Languages Should You Learn in 2026? - Analytics Insight](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which Functional Programming | profile: functional-programming
+- **2026-06-15** | [Haskell Guide [2026]: Functional Programming That Changes How You Think - Precision AI Academy](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide 2026 | profile: functional-programming
+
+
 - **2026-06-15** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, Haskell | profile: functional-programming
 - **2026-06-15** | [nsu-syspro/haskell-monads-2026 - GitHub Classroom haskell-monads course](https://github.com/nsu-syspro/haskell-monads-2026) | kw: GitHub, Classroom | profile: functional-programming
 - **2026-06-15** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad, Like, Patterns, Rust | profile: functional-programming

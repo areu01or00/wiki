@@ -2,6 +2,14 @@
 
 ## Updates
 
+- **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - Evidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals Memory | profile: python-internals
+- **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features - Habibullah](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under Hood Python | profile: python-internals
+- **2026-06-15** | [Python GIL: The Key to Backend Performance - Odysse](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python GIL Key | profile: python-internals
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations - Developers Heaven](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future Python Internals | profile: python-internals
+- **2026-06-15** | [How Python's GIL Actually Works (And Why It Exists) - MiyDevForge](https://miydevforge.com/blog/how-python-gil-works) | kw: Python's GIL Actually | profile: python-internals
+- **2026-06-15** | [Python 3.14 Free-Threading and Experimental JIT: How Python Got Faster in 2026 - Sean Kim Blog](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python 3.14 Free-Threading | profile: python-internals
+
+
 - **2026-06-15** | [CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping](https://blog.codingconfessions.com/p/cpython-runtime-internals) | kw: CPython Runtime Internals | profile: python-internals
 - **2026-06-15** | [Python 3.12 & 3.13 Internals: What Actually Changed](https://medium.com/@devopsbyte25/python-3-12-3-13-internals-what-actually-changed-and-why-devops-engineers-should-care-c969478fee4b) | kw: Python 3.12 3.13 Internals | profile: python-internals
 

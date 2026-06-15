@@ -2,6 +2,14 @@
 
 ## Updates
 
+- **2026-06-15** | [Coding interviews: Everything you need to prepare - Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-prep) | kw: Coding interviews Everything | profile: algorithms
+- **2026-06-15** | [LeetCode Patterns That Still Matter in 2026 - Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode Patterns That | profile: algorithms
+- **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet | profile: algorithms
+- **2026-06-15** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems - LastRound AI](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode Patterns Cheat | profile: algorithms
+- **2026-06-15** | [LeetCode Questions for TCS 2026: 50 Problems - PapersAdda](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions TCS | profile: algorithms
+- **2026-06-15** | [Are LeetCode Interviews Still Relevant in 2026? - 4A Consulting](https://4a-consulting.com/are-leetcode-interviews-still-relevant-in-2026) | kw: Are LeetCode Interviews | profile: algorithms
+
+
 - **2026-06-15** | [Algorithms problemset](https://leetcode.com/problemset/algorithms) | kw: Algorithms,problemset | profile: algorithms
 
 - **2026-06-15** | [Competitive Programming Essentials, Master Algorithms](https://www.classcentral.com/course/udemy-competitive-programming-algorithms-coding-minutes-70201) | kw: Competitive Programming Essentials Master | profile: algorithms
