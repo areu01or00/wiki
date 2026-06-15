@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [LLVMのJITについてLLMの説明が分からなくて困る](https://zenn.dev/toga/scraps/948f581e2c441f) | kw: LLVM, JIT, LLM
+
 - **2026-06-15** | [MLIR: Multi-Level Intermediate Representation Explained](https://inferensys.com/glossary/edge-artificial-intelligence-architectures/edge-ai-compilers/mlir-multi-level-intermediate-representation) | kw: MLIR, Multi, Level, Intermediate, Representation
 - **2026-06-15** | [Tesla Rewrote Its Entire AI Compiler with MLIR - tesorb.com](https://tesorb.com/tesla-fsd-mlir-compiler-explained/) | kw: Tesla, Rewrote, Entire, Compiler, MLIR
 - **2026-06-15** | [Towards a high-performance AI compiler with upstream MLIR [arXiv]](https://arxiv.org/abs/2404.15204) | kw: Towards, High, Performance, Compiler, Upstream

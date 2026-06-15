@@ -828,7 +828,6 @@
         "Dialects"
       ],
       "last_result_hashes": [
-        "cb0f33ac6e995c4e1427b124f18ad558",
         "cd81edf8511034bfb061d67e42a19d20",
         "902ddfc2b341161f46ea43d558f0bf6e",
         "494295015460af3a1beef7f2fcade32b",
@@ -847,9 +846,10 @@
         "98be7670d387af64f3de6a1f2e450825",
         "1caf9a536fa042763c3b0ff3d7955486",
         "c08c2a6f301724244b4c54480bfa2411",
-        "657f6b45faf7d14426711e8adeb53ab4"
+        "657f6b45faf7d14426711e8adeb53ab4",
+        "f8a7c61c"
       ],
-      "last_run": "2026-06-15 15:33 UTC"
+      "last_run": "2026-06-15 15:46 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
