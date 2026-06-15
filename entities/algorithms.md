@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [LeetCode Python Problems](https://leetcode.com/problemset?language=Python) | kw: LeetCode Python Problems | profile: algorithms
+
 
 - **2026-06-15** | [Coding interviews: Everything you need to prepare - Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-prep) | kw: Coding interviews Everything | profile: algorithms
 - **2026-06-15** | [LeetCode Patterns That Still Matter in 2026 - Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode Patterns That | profile: algorithms

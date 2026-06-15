@@ -2327,7 +2327,6 @@
 - **2026-06-11** | [A Strategic Guide to Gradual Typing in Python | by Tihomir Manushev | Dec, 2025 | Medium](https://medium.com/%40tihomir.manushev/a-strategic-guide-to-gradual-typing-in-python-49ac85f6dbdd) | kw: type-systems
 - **2026-06-11** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: type-systems
 
-
 - **2026-06-11** | [Type system concepts](https://typing.python.org/en/latest/spec/concepts.html) | kw: typing, type, system
 - **2026-06-11** | [type inference for gradual Hindley-Milner typing](https://scholar.google.com/scholar_url?ei=DuYVaunjFrGN6rQPmJLm0Ac&hl=en&oi=scholarr&sa=X&scisig=AFyMTJVKxfmddXeWdoQakqCO-Wio&url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fpdf%2F10.1145%2F3290331) | kw: type inference, gradual, typing
 - **2026-06-11** | [Gradual Typing](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing, gradual, typing
@@ -2449,7 +2448,6 @@
 - **2026-06-11** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: gradual typing
 - **2026-06-11** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: gradual typing
 
-
 - **2026-06-11** | [Announcing TypeScript 6.0 - devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/) | kw: TypeScript
 
 - **2026-06-11** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type inference
@@ -2524,7 +2522,6 @@
 - **2026-06-11** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
 - **2026-06-11** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
 - **2026-06-11** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: type-systems
-
 
 - **2026-06-11** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual, typing, wikipedia
 - **2026-06-11** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: static, dynamic, typing
