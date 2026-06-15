@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Understanding Monads in Functional Programming: A Comprehensive Guide](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Algocademy guide
+- **2026-06-15** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: Appmus comparison
+- **2026-06-15** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Deep dive guide
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: CodeGenes exploration
+- **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: PCTechMag
+- **2026-06-15** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: bertiqwerty blog
+- **2026-06-15** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Wikipedia
+
 - **2026-06-15** | [Hello, Haskell: Getting Started in 2026 · lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026) | kw: Hello, Haskell, Getting
 - **2026-06-15** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290) | kw: Pure, Borrow, Linear
 

@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Research paper
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Programming 2026 conference paper
+- **2026-06-15** | [Gradual Typing - people.csail.mit.edu](https://people.csail.mit.edu/feser/pld-s23/gradual_typing.html) | kw: MIT research
+- **2026-06-15** | [programming-language-research/gradual-typing-a-new-perspective](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: GitHub
+
 - **2026-06-15** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
 - **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
 - **2026-06-15** | [TypeScript Type System | microsoft/TypeScript-Handbook](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: TypeScript, Type, System

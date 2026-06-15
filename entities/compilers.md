@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Create Your Own Programming Language with Rust
+- **2026-06-15** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, JIT, GC, V8, Maglev, Inline Caching, Escape 
+- **2026-06-15** | [JIT Compilation | microsoft/llvm](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: DeepWiki
+- **2026-06-15** | [BuildingAJIT1.rst - chekalexey/compiler-course-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building a JIT with ORC APIs
+- **2026-06-15** | [BuildingAJIT1.rst - RomanPikhotskiy/compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building a JIT with ORC APIs
+- **2026-06-15** | [The Case For Compilers: SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: LLVM 22 SPEC CPU 2026 performance
+- **2026-06-15** | [BuildingAJIT1.rst - VALancaster/compiler-course-2026](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building a JIT with ORC APIs
+- **2026-06-15** | [LLVM 6 Compiling to Object Code](https://www.webnuz.com/article/2026-06-08/LLVM%206%20%20Compiling%20to%20Object%20Code.) | kw: Dev To article
+
 - **2026-06-15** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM, 2026, OrcJIT
 - **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
 - **2026-06-15** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI-Compiler, Prompt, Engineering
