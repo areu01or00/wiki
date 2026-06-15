@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [2026 10 Things That Matter in AI Right Now | MIT Technology Review](https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/) | kw: type-systems | profile: type-systems
+- **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems | profile: type-systems
+- **2026-06-15** | [Gradual Typing - MIT CSAIL (Feser)](https://people.csail.mit.edu/feser/pld-s23/gradual_typing.html) | kw: type-systems | profile: type-systems
+- **2026-06-15** | [Foundations for Gradual Typing - Khoury College (Northeastern)](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: type-systems | profile: type-systems
+- **2026-06-15** | [The State of AI in 2026: A Comprehensive Report - AI World Journal](https://aiworldjournal.com/the-state-of-ai-in-2026-a-comprehensive-report/) | kw: type-systems | profile: type-systems
+
 - **2026-06-15** | [Best Programming Languages for 2026 - DEV Community](https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f) | kw: Programming, Community, Languages
 - **2026-06-15** | [10 Best Programming Languages of the Future 2026 - 2050](https://itechnolabs.ca/blog/programming-languages-of-the-future/) | kw: Programming, Languages, Future
 - **2026-06-15** | [Top 21 Programming Languages for Software Development 2026](https://softices.com/blogs/top-programming-languages-2026) | kw: Development, Programming, Languages

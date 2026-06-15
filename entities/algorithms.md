@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: algorithms | profile: algorithms
+- **2026-06-15** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: algorithms | profile: algorithms
+- **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan 2026](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms | profile: algorithms
+- **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms | profile: algorithms
+- **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms | profile: algorithms
+
 
 - **2026-06-15** | [Big-O Algorithm Complexity Cheat Sheet - Know Thy Complexities](https://www.bigocheatsheet.com/) | kw: Big-O, Algorithm, Complexity | profile: algorithms
 - **2026-06-15** | [Algorithms and Data Structures cheat sheets - Reddit](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets) | kw: Algorithms, Data, Structures | profile: algorithms

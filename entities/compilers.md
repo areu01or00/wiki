@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: compilers | profile: compilers
+- **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers | profile: compilers
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers | profile: compilers
+- **2026-06-15** | [LLVM JIT - LLM explanation difficulties (Japanese)](https://zenn.dev/toga/scraps/948f581e2c441f) | kw: compilers | profile: compilers
+
 
 - **2026-06-15** | [Understanding the Differences Between JIT and Interpreters in Programming](https://umatechnology.org/understanding-the-differences-between-jit-and-interpreters-in-programming) | kw: Differences, JIT, Interpreters | profile: compilers
 - **2026-06-15** | [Compilers and Interpreters: How Code Actually Runs](https://www.youngju.dev/blog/culture/2026-03-23-compiler-interpreter-how-code-runs-guide.en) | kw: Compilers, Interpreters, Code | profile: compilers

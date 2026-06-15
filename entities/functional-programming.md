@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: functional-programming | profile: functional-programming
+
 - **2026-06-15** | [Functional Programming in Rust - Sylvain Kerkour](https://kerkour.com/rust-functional-programming) | kw: Programming, Functional, Kerkour
 
 - **2026-06-15** | [Does Rust Support Functional Programming Idioms? - CodeGenes](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: rust, support, functional, programming | profile: functional-programming
