@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, Omnipresent, Rust
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads, Through, Haskell
+- **2026-06-15** | [Monads and Monad-Like Patterns](https://softwarepatternslexicon.com/java/functional-programming-patterns-in-java/monads-and-monad-like-patterns-in-java/) | kw: Monads, Monad-Like, Patterns
+- **2026-06-15** | [Monads Unmasked: The Category Theory You're Already Using Without Knowing](https://www.javacodegeeks.com/2026/01/monads-unmasked-the-category-theory-youre-already-using-without-knowing.html) | kw: Monads, Unmasked, Category, Theory
+- **2026-06-15** | [Exploring Functional Programming Paradigms in 2026](https://medium.com/@annxsa/exploring-functional-programming-paradigms-in-2026-benefits-and-practical-applications-0ca926c03af0) | kw: Exploring, Functional, Programming, Paradigms
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: Learned, Monads, Through, Haskell
+- **2026-06-15** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, functional, programming, Wikipedia
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads, Through, Haskell
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does, Rust, Support, Functional
+- **2026-06-15** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify, Rust, utility, Lib.rs
+
 - **2026-06-15** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad-Like, Patterns
 - **2026-06-15** | [Rust1.74で追加された機能を使ってモナドを作ってみる](https://zenn.dev/hanao/articles/b16b7460e801f5) | kw: Rust1.74で追加された機能を使ってモナドを作ってみる
 - **2026-06-15** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: Rust, で柔軟な, 式とモナドを使うために作った幾つかのもの

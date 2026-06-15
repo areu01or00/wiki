@@ -1,6 +1,19 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory, Management
+- **2026-06-15** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, Python, Guide
+- **2026-06-15** | [Memory Management in Python 2026 – Best Practices for Efficient Code](https://www.pyinns.com/python/efficient-code/memory-management-python-2026-efficient-code) | kw: Memory, Management, Python, 2026
+- **2026-06-15** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: Python's, Actually, Works, Exists
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future, Python, Internals, Exploring
+- **2026-06-15** | [The Inner Workings of Python: Beyond the Surface](https://python.plainenglish.io/the-inner-workings-of-python-beyond-the-surface-de2b8110e732) | kw: Inner, Workings, Python, Beyond
+- **2026-06-15** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, Backend, Performance
+- **2026-06-15** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals, Memory
+- **2026-06-15** | [The Ultimate Python Learning Roadmap for 2026: Complete](https://course4all.com/blog/python-learning-roadmap-2026) | kw: Ultimate, Python, Learning, Roadmap
+- **2026-06-15** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python, Memory, Profiling, Optimization
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future, Python, Internals, Exploring
+- **2026-06-15** | [GIL — Global Interpreter Lock: Python GIL — CPU Below 15% on ...](https://thecodeforge.io/python/global-interpreter-lock-python/) | kw: Global, Interpreter, Lock, Python
+
 - **2026-06-15** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals:
 - **2026-06-15** | [Global Interpreter Lock (GIL) in Python: Past, Present, and Future](https://igorpejic.com/posts/gil) | kw: Global, Interpreter, Lock
 - **2026-06-15** | [Python 3.14 Free-Threading and Experimental JIT: How Python Changes in 2026](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python, 3.14, Free-Threading
