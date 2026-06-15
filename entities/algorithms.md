@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-15** | [Big-O Algorithm Complexity Cheat Sheet - Know Thy Complexities](https://www.bigocheatsheet.com/) | kw: Big-O, Algorithm, Complexity | profile: algorithms
+- **2026-06-15** | [Algorithms and Data Structures cheat sheets - Reddit](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets) | kw: Algorithms, Data, Structures | profile: algorithms
+
 - **2026-06-15** | [Top Computer Science Engineering Trends to Watch in 2026](https://www.sandipfoundation.org/blog/top-computer-science-engineering-trends) | kw: Engineering, Computer, Science
 - **2026-06-15** | [Trends in Computer Science and Information Technology](https://www.engineegroup.com/tcsit) | kw: Information, Technology, Computer
 - **2026-06-15** | [9 Emerging Technologies in Computer Science - Jessup University](https://jessup.edu/blog/engineering-technology/emerging-technologies-in-computer-science) | kw: Technologies, University, Computer

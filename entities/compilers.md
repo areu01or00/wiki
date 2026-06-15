@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-15** | [Understanding the Differences Between JIT and Interpreters in Programming](https://umatechnology.org/understanding-the-differences-between-jit-and-interpreters-in-programming) | kw: Differences, JIT, Interpreters | profile: compilers
+- **2026-06-15** | [Compilers and Interpreters: How Code Actually Runs](https://www.youngju.dev/blog/culture/2026-03-23-compiler-interpreter-how-code-runs-guide.en) | kw: Compilers, Interpreters, Code | profile: compilers
+- **2026-06-15** | [Compiler vs Interpreter: The Mechanics of Code Execution](https://toolshelf.tech/blog/compiler-vs-interpreter-aot-jit-performance) | kw: Compiler, Interpreter, Code | profile: compilers
+
 - **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, modern, language, runtimes | profile: compilers
 - **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at chekalexey/compiler-course-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, llvm, docs, tutorial | profile: compilers
 - **2026-06-15** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: compiler, optimization, revolution, deep | profile: compilers
