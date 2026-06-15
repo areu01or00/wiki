@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt) | kw: Functional Programming
+- **2026-06-15** | [Rust — Monday Morning Haskell | Monads Tutorial — Monday ...](https://cqjo.erkaid.de/rust-monday-morning-haskell-monads-tutorial-monday-morning-haskell) | kw: Functional Programming
+- **2026-06-15** | [The Best Monad Tutorial Ever Written — Andrew Lilley Brinker](https://www.alilleybrinker.com/mini/the-best-monad-tutorial) | kw: Functional Programming
+- **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming
+- **2026-06-15** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Functional Programming
+- **2026-06-15** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Functional Programming
+
 - **2026-06-15** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Functional Programming
 - **2026-06-15** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: Functional Programming
 - **2026-06-15** | [Whats Coming for Haskell in 2026](https://slicker.me/haskell/haskell-2026.html) | kw: Functional Programming

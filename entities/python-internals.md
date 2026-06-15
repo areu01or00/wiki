@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Python Internals
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Python Internals
+- **2026-06-15** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)](https://medium.com/%40sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: Python Internals
+- **2026-06-15** | [Will Removing Python's GIL make it significantly faster? - HAMY](https://hamy.xyz/blog/2025-07_will-gil-removal-make-python-faster) | kw: Python Internals
+
 - **2026-06-15** | [Python Internals: Memory Management and the GIL](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals
 - **2026-06-15** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Python Internals
 - **2026-06-15** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python Internals

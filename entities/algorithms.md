@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Algorithms
+- **2026-06-15** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Algorithms
+- **2026-06-15** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: Algorithms
+- **2026-06-15** | [GitHub - ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | kw: Algorithms
+- **2026-06-15** | [LeetCode Interview Crash Course: Data Structures and ...](https://www.amazon.com/LeetCode-Interview-Crash-Course-Structures-ebook/dp/B0FMR4F63C) | kw: Algorithms
+
 - **2026-06-15** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Algorithms
 - **2026-06-15** | [Algorithms and Data Structures (LeetCode Preparation)](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms
 - **2026-06-15** | [Study Plan - LeetCode](https://leetcode.com/studyplan/) | kw: Algorithms
