@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [The Ultimate Python Learning Roadmap for 2026](https://course4all.com/blog/python-learning-roadmap-2026) | kw: 2026, Learning, PYTHON, Python, Roadmap
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: And, Exploring, Future, GIL, GIL removal
+- **2026-06-15** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Backend, GIL, GIL:, Key, PYTHON
+- **2026-06-15** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: And, CPython, Compatibility, Cpython, GIL
+- **2026-06-15** | [Memory Management in Python - Real Python](https://realpython.com/python-memory-management) | kw: Management, Memory, PYTHON, Python, Real
+
 - **2026-06-15** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, -, Python, Internals:, Memory
 - **2026-06-15** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: State, of, Python, 2026, |
 - **2026-06-15** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management, Internals

@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [2026: The Year of AI Inference](https://www.vastdata.com/blog/2026-the-year-of-ai-inference) | kw: 2026, Inferen, Inference, The, the
+- **2026-06-15** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: 2026, Dynamic, Guide, Static, System
+- **2026-06-15** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, Gradual Typing, Typing, Wikipedia, typing
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Annotations, Efficient, Gradual, Gradual Typing, Improvement
+- **2026-06-15** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Gradual Typing, Inferen, Inference, Jeremy
+
 - **2026-06-15** | [The Elixir Evolution: Demystifying Gradual Typing in Elixir v1.17 and v1.18](https://www.sysseder.com/2026/06/the-elixir-evolution-demystifying.html) | kw: The, Elixir, Evolution:, Demystifying, Gradual
 - **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3) | kw: Efficient, Selection, of, Type, Annotations
 - **2026-06-15** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, as, if, Types

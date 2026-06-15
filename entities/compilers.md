@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026, Building, BuildingAJIT, BuildingAJIT1.rst, Compiler
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026, Building, BuildingAJIT, BuildingAJIT1.rst, Compiler
+- **2026-06-15** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM, Wikipedia, llvm
+- **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 Turbofan Maglev Inline Caching Escape Analysis Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Analysis, Caching, Compiler, Compilers, Deep
+- **2026-06-15** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet Deep Dive](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: 2026, AI-Compiler, Cheat, Compiler, Deep
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026, Building, BuildingAJIT, BuildingAJIT1.rst, Compiler
+- **2026-06-15** | [LLVM Integration and JIT Compilation | AcademySoftwareFoundation/OpenShadingLanguage | DeepWiki](https://deepwiki.com/AcademySoftwareFoundation/OpenShadingLanguage/3.1-llvm-integration-and-jit-compilation) | kw: AcademySoftwareFoundation/OpenShadingLanguage, Compilation, Deep, DeepWiki, Integration
+- **2026-06-15** | [ML Compiler Optimization Revolution Deep Dive 2026](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: 2026, Compiler, Deep, Dive, ML compiler optimization
+
 - **2026-06-15** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern, Language, Runtimes
 - **2026-06-15** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM, 2026, -, OrcJIT, at
 - **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time, (JIT), Compiler, with, LLVM

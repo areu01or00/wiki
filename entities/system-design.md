@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: 2026, Complete, Design, Design:, Guide
+- **2026-06-15** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: Balancing, Caching, Design, Load, Load Balancing
+- **2026-06-15** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Architect, Architecture, Distributed, Distributed Systems, Docs
+- **2026-06-15** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: 2026, Architect, Architecture, Autonomous, Computing
+- **2026-06-15** | [Distributed System Design: the complete guide to building ...](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Build, Building, Complete, Design, Design:
+- **2026-06-15** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: Architect, Design, Distributed, Essential, Every
+
 - **2026-06-15** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, and, Distributed, Systems
 - **2026-06-15** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The, Coming, Paradigm, Shift, in
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide, 2026:, Load

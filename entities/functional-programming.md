@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Haskell, MON, Monad, Monads, Monday
+- **2026-06-15** | [Monads in Haskell - DEV Community](https://dev.to/bekbrace/monads-in-haskell-1p8i) | kw: Community, DEV, Haskell, MON, Monad
+- **2026-06-15** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: MON, Monad, Monads, Omnipresent, Rust
+- **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: 2026, Functional, Functional Programming, Gleam, Haskell
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: And, Does, Exploring, Filter/Map/Reduce, Functional
+- **2026-06-15** | [The Practical Value of Functional Programming - Monad - Youngju.dev](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: DEV, Functional, Functional Programming, MON, Monad
+- **2026-06-15** | [Functional Programming in Rust: Idioms and Practices - PythonLib](https://pythonlib.ru/en/post92) | kw: And, Functional, Functional Programming, Idioms, Practices
+
 - **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, in, 2026:, Haskell
 - **2026-06-15** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value, of, Functional
 - **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support, Functional, Programming
