@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [JIT Compiler with LLVM - Create Your Own Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Compiler, with, LLVM
+- **2026-06-15** | [FOSDEM 2026 - OrcJIT at Scale with llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM, 2026, OrcJIT
+- **2026-06-15** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
+- **2026-06-15** | [compiler-course-2026 BuildingAJIT1.rst (chekalexey)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, BuildingAJIT1.rst, (chekalexey)
+- **2026-06-15** | [compiler-course-2026 BuildingAJIT1.rst (Georghinho)](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, BuildingAJIT1.rst, (Georghinho)
+- **2026-06-15** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI-Compiler, Prompt, Engineering:
+- **2026-06-15** | [JLLVM - JVM implementation using LLVM as a JIT](https://github.com/JLLVM/JLLVM) | kw: JLLVM, implementation, using
+- **2026-06-15** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: Deep, Dive, into
+
 - **2026-06-15** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
 - **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers
