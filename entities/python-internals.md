@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15 11:32 UTC** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | source: python-internals
+- **2026-06-15 11:32 UTC** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | source: python-internals
+- **2026-06-15 11:32 UTC** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | source: python-internals
+- **2026-06-15 11:32 UTC** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | source: python-internals
+- **2026-06-15 11:32 UTC** | [Mastering How the Python Interpreter Works | PYTHON 2026](https://course4all.com/python/py-introduction-internals) | source: python-internals
+- **2026-06-15 11:32 UTC** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter)](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | source: python-internals
+- **2026-06-15 11:32 UTC** | [Python Memory Management Masterclass: Garbage Collection, Slots, and WeakRefs](https://logicandlegacy.blogspot.com/2026/03/python-memory-management-masterclass.html) | source: python-internals
+
 - **2026-06-15** | [Python - Python Internals: Memory Management and the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Python Internals
 - **2026-06-15** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: How Python Works
 - **2026-06-15** | [Memory Management and GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management and

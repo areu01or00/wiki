@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15 11:32 UTC** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | source: type-systems
+- **2026-06-15 11:32 UTC** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | source: type-systems
+- **2026-06-15 11:32 UTC** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | source: type-systems
+- **2026-06-15 11:32 UTC** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | source: type-systems
+- **2026-06-15 11:32 UTC** | [Efficient Selection of Type Annotations for Performance (journal)](https://programming-journal.org/2026/11/3/) | source: type-systems
+- **2026-06-15 11:32 UTC** | [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf) | source: type-systems
+- **2026-06-15 11:32 UTC** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | source: type-systems
+- **2026-06-15 11:32 UTC** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | source: type-systems
+- **2026-06-15 11:32 UTC** | [Gradual Typing Bibliography - Papers We Love](https://paperswelove.org/papers/gradual-typing-bibliography-26b3ee6f/) | source: type-systems
+
 - **2026-06-15** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language
 - **2026-06-15** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual Typing as
 - **2026-06-15** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of

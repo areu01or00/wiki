@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-15 11:32 UTC** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-Based Binary Translation](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | source: compilers
+- **2026-06-15 11:32 UTC** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | source: compilers
+- **2026-06-15 11:32 UTC** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | source: compilers
+- **2026-06-15 11:32 UTC** | [compiler-course-2026 BuildingAJIT1.rst (chekalexey)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | source: compilers
+- **2026-06-15 11:32 UTC** | [compiler-course-2026 BuildingAJIT1.rst (Georghinho)](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | source: compilers
+- **2026-06-15 11:32 UTC** | [compiler-course-2026 BuildingAJIT1.rst (VALancaster)](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | source: compilers
+- **2026-06-15 11:32 UTC** | [compiler-course-2026 BuildingAJIT3.rst (4elodoy-Molovek)](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | source: compilers
+- **2026-06-15 11:32 UTC** | [compiler-course-2026 BuildingAJIT1.rst (RomanPikhotskiy)](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | source: compilers
+- **2026-06-15 11:32 UTC** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | source: compilers
+
 - **2026-06-15** | [Unlocking Performance: The Overlooked Power of Low-Cost](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance The
 - **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just In Time
 - **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - RomanPikhotskiy/compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT1.rst

@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15 11:32 UTC** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | source: algorithms
+- **2026-06-15 11:32 UTC** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | source: algorithms
+- **2026-06-15 11:32 UTC** | [Best Coding Practice Platforms and Challenge Websites in 2026](https://scrimba.com/articles/best-coding-practice-platforms-and-challenge-websites-in-2026) | source: algorithms
+- **2026-06-15 11:32 UTC** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers) | source: algorithms
+- **2026-06-15 11:32 UTC** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | source: algorithms
+- **2026-06-15 11:32 UTC** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | source: algorithms
+
 - **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet
 - **2026-06-15** | [Algorithms and Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms and Data
 - **2026-06-15** | [Data Structures and Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data Structures and
