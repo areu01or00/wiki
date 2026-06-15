@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Imperialis Tech](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: system
+- **2026-06-15** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: system
+- **2026-06-15** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: system
+- **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system
+- **2026-06-15** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks) | kw: system
+
 - **2026-06-15 09:17 UTC** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: wasilzafar.com
 - **2026-06-15 09:17 UTC** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: gabogil.com
 - **2026-06-15 09:17 UTC** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases](https://onlinetools4free.com/research/system-design-guide-2026) | kw: onlinetools4free.com

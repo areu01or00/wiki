@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm ...](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type
+- **2026-06-15** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: type
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type
+- **2026-06-15** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type
+- **2026-06-15** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type
+- **2026-06-15** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type
+- **2026-06-15** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: type
+
 - **2026-06-15 09:17 UTC** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: programming-conference.org
 - **2026-06-15 09:17 UTC** | [Efficient Selection of Type Annotations for Performance (Journal)](https://programming-journal.org/2026/11/3/) | kw: programming-journal.org
 - **2026-06-15 09:17 UTC** | [Design and Evaluation of Gradual Typing for Python (Siek)](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: jsiek.github.io

@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Algorithm Challenges on LeetCode Guide - AlgoHay](https://www.algohay.com/blog/algorithm-challenges-on-leetcode-guide) | kw: algorithms
+- **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
+- **2026-06-15** | [GitHub - Devinterview-io/data-structures-interview-questions](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: algorithms
+- **2026-06-15** | [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial - YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-06-15** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified | by Katravalli Coding | Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
+- **2026-06-15** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: algorithms
+- **2026-06-15** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms
+
 - **2026-06-15 09:17 UTC** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: precisionaiacademy.com
 - **2026-06-15 09:17 UTC** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: phantomcodeai.com
 - **2026-06-15 09:17 UTC** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: archman.dev
