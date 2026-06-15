@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [DSA Practice - Interview Questions - workat.tech](https://workat.tech/problem-solving/practice/topics) | kw: Practice
+- **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare
+
 - **2026-06-15** | [NeetCode | Coding Interview Prep](https://neetcode.io/) | kw: NeetCode
 - **2026-06-15** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: The Tutor Bridge
 - **2026-06-15** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: PapersAdda

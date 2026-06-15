@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: Compilation
+- **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
+
 - **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Create Your Own Programming Language with Rust
 - **2026-06-15** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, JIT, GC, V8, Maglev, Inline Caching, Escape 
 - **2026-06-15** | [JIT Compilation | microsoft/llvm](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: DeepWiki

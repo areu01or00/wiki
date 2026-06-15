@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Top 10 Software Architecture Patterns to Follow in 2026](https://www.moontechnolabs.com/blog/software-architecture-patterns) | kw: Software
+- **2026-06-15** | [10 Software Architecture Patterns Engineers Need in 2026](https://blog.patoliyainfotech.com/software-architecture-patterns-guide) | kw: Software
+- **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System
+
 - **2026-06-15** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Scalability patterns and consensus algorithms
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN](https://onlinetools4free.com/research/system-design-guide-2026) | kw: OnlineTools4Free Research
 - **2026-06-15** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design/) | kw: How to Build and Explain an End-to-End Architectur

@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Python
+- **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under
+- **2026-06-15** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
+
 - **2026-06-15** | [State of Python Open Source in 2026 - dasroot.net](https://dasroot.net/posts/2026/02/state-of-python-open-source-2026/) | kw: State, Python, Open
 - **2026-06-15** | [Top 11 Python Trends to Watch Out for in 2026 - Intellipaat](https://intellipaat.com/blog/top-python-trends/) | kw: Top, 11, Python
 
