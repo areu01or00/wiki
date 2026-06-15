@@ -364,15 +364,11 @@
         "to",
         "building",
         "2025",
-        "\u2014",
+        "—",
         "&",
         "10"
       ],
       "last_result_hashes": [
-        "6fe9880853103e8782a6653a46dc9a3c",
-        "6a844cba5f4dbe6112de4dacb09bede6",
-        "e9d45130824f67775300df37d0b653d5",
-        "d4856d8bd868ea9e2be73abfcbf7e2b7",
         "2efe47add6349b1a23f9e1b4a923ec6b",
         "46a56982536c8a4f9801b7d471165b39",
         "3c8925cf9aab5e06b2fe2e7c3cf7d5ed",
@@ -388,9 +384,13 @@
         "a32f5e69dda6ec0341e27ea3247983fc",
         "255f4bdf0d9c7843770b55d8add0f1c8",
         "3ee08fcb48d8cc998d40e238fc3854f0",
-        "b423b328489be6600827d14ac98bb359"
+        "b423b328489be6600827d14ac98bb359",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "eb9413c412274c4d419c8f0af8eb0eeb",
+        "1885661cefe9c39654b0f1458625c8e0",
+        "a3df14804695fef0baf3d83c6922fe4d"
       ],
-      "last_run": "2026-06-15 06:03 UTC"
+      "last_run": "2026-06-15 06:17 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -752,17 +752,12 @@
         "22",
         "6",
         "to",
-        "\u00b7",
-        "\u2014"
+        "·",
+        "—",
+        "2026/llvm/docs/tutorial/BuildingAJIT1.rst",
+        "spring"
       ],
       "last_result_hashes": [
-        "0d7e63f4ba09123e0d4ac35a2fb364d9",
-        "d63dbdc004563d48fd946feffeab6d0b",
-        "044f00f22ade99878d29e43ef426c83d",
-        "4a4e0127b12cfd2d476b5aaa44376f2d",
-        "ae427aaa277c67469832326760f5569f",
-        "7ed9cf6296b93bcd1574511795e44641",
-        "0e37ea17fc9a69e116e589e0bc7f8c79",
         "d0de062ed058a4b7bb87b9c013129190",
         "d1fd932d1da3adfb0dbab8bdc1cf0621",
         "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
@@ -775,9 +770,16 @@
         "7cc01119f54c99cc1fc657d2376dc4c4",
         "40ed91546301e54bdd9b40a0b43a3dfa",
         "3791f69843a39cf6e32bf5275f9e9258",
-        "f8b4d83bd6d2476a522db287124dc6aa"
+        "f8b4d83bd6d2476a522db287124dc6aa",
+        "9b9e5b41a1c52064d55b23f06ea84096",
+        "39a1fca28592350020e5f300331e95c1",
+        "4cee999b71414851927c1c3805e155c2",
+        "b86eb07f5a984fccae1bb38c4d48f846",
+        "14bec6c679203be13206205a9edb80d7",
+        "a18bd486739d593df61e9c5cd17b88c9",
+        "a78c2c73c0749267858b7fdad618ab3b"
       ],
-      "last_run": "2026-06-15 06:03 UTC"
+      "last_run": "2026-06-15 06:17 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -983,7 +985,7 @@
         "Ultimate",
         "Unexpected",
         "Unification-based",
-        "Uni\ufb01cation-based",
+        "Uniﬁcation-based",
         "Why",
         "Wikipedia",
         "and",
@@ -1136,7 +1138,7 @@
         "of",
         "It",
         "in",
-        "\u2014",
+        "—",
         "Explore",
         "Free",
         "Evolution",
@@ -1149,11 +1151,6 @@
         "Year"
       ],
       "last_result_hashes": [
-        "a194c508b37c76d0dbc9ff55fb06150f",
-        "abd9b064df0a4aa6af99b6bc7132646a",
-        "0aa96ee2596c32e28196cf4da3a1e697",
-        "d08aaa9554d7cff65d53e42f52f9f36b",
-        "976dfe79ab4a0fb6ab886cc92c4db90d",
         "ac20cb501c99f4b173060c6f46d893ae",
         "796dd8fb9f6369a2e77f75139af26f3c",
         "95ff991543683717935ad288e870f47f",
@@ -1168,9 +1165,14 @@
         "88dfcf74de33a1e88c9e9c90d0e55f9b",
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "05e87cbef36cd8edbadc65c13cd2b4af",
-        "aa2f3be76632e120f0f252da09afe144"
+        "aa2f3be76632e120f0f252da09afe144",
+        "f2495424757e7dd538dd771f623f1a0f",
+        "30184474cbabe9b0940989a98cab3fd8",
+        "91dfd490e13906550ab8321bb7237ce8",
+        "c027f5d29aa0bfa5a3a5037b14ac8b26",
+        "37ffd58453521e02c05e593eedaf102e"
       ],
-      "last_run": "2026-06-15 06:03 UTC"
+      "last_run": "2026-06-15 06:17 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1336,7 +1338,7 @@
         "Rust",
         "Rust patterns",
         "Rust-Style",
-        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
+        "Rust1.74で追加された機能を使ってモナドを作ってみる",
         "Rust:",
         "RustWeek",
         "Sae",
@@ -1537,12 +1539,12 @@
         "A",
         "I",
         "by",
-        "\u00b7",
+        "·",
         "lukastymo",
         "vs.",
         "|",
         "of",
-        "\u2014",
+        "—",
         "...",
         "-",
         "to",
@@ -1551,16 +1553,11 @@
         "POPL",
         "2",
         "Interlude",
-        "Youngju.dev"
+        "Youngju.dev",
+        "property",
+        "based"
       ],
       "last_result_hashes": [
-        "4b4796ee19e29657685f0e450cd0a76b",
-        "c012a57fa63492860f64045db3528e7a",
-        "cb3451b58dc0de64c4abaf6248054b44",
-        "15f48461bc5c6efca61538e650774029",
-        "b48df3ecc7197e04cb4515339cfae453",
-        "ce1296b7730544a3db978dc13e7a351f",
-        "827f82e9e1a47b7a7ad617629e29c129",
         "81f416bda62e20437250860785d5442e",
         "47e6d74aef0c39ef251aad25fd7ff012",
         "449f1936d11b3408b5111b8fbfc6e205",
@@ -1573,9 +1570,16 @@
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "9faa7cf534e52ea65424258c0c6c7995",
         "94ca02ad0954d3b9d67e525327d773f1",
-        "4688d42948022b0bf7e0b2779e4694e8"
+        "4688d42948022b0bf7e0b2779e4694e8",
+        "6c69442526a8b0eb63860a296c84a9a5",
+        "9070b32a3df7ba63acae069374e07854",
+        "c52f5174ff9b2fb18fb776e711ed0486",
+        "17283951f47a445f957ceef8fc9879ed",
+        "c414aacf6ba6db4d254283aad553905a",
+        "ff8e7aa82463ab8acd416101b1a2e680",
+        "619445cf59810e703603ef4f268058ee"
       ],
-      "last_run": "2026-06-15 06:03 UTC"
+      "last_run": "2026-06-15 06:17 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1682,7 +1686,7 @@
         "Interviews",
         "Introduction",
         "Java",
-        "Java\u9762\u8bd5\u5b66\u4e60",
+        "Java面试学习",
         "JimengShi/Leetcode-Data-Structures-Algorithms",
         "Katravalli",
         "Know",
@@ -1934,12 +1938,15 @@
         "-",
         "50",
         "awesome-leetcode-resources",
-        "I"
+        "I",
+        "are",
+        "some",
+        "ways",
+        "self",
+        "Mega",
+        "Hours"
       ],
       "last_result_hashes": [
-        "27d47f935a44b9765ac562cb7e9795ce",
-        "7d194ad3d9a4f9a87cd4de35548c005c",
-        "b2ebff509c2065c89ae295b2fabe3868",
         "595f0e6ddf3ffc9ae7d6d3256cb6ad3b",
         "f61441bcde60b26115170e1e7490c0a0",
         "fd122b96f8cdfa3f8ca7564113913fa6",
@@ -1956,9 +1963,12 @@
         "5894846bbc35ac51fe21dc903bfddad3",
         "27e49ef238d4a1b6ef252acfce87aaa7",
         "a97aaa060bf3039beeb41e73ac20d73c",
-        "3b001f36cc3750a86172e47752e3960e"
+        "3b001f36cc3750a86172e47752e3960e",
+        "8f48746135c4ce31696176aebedcfc09",
+        "42c8aa6f09c66730f95fd5a57509f3b3",
+        "ddeec4c6f49afaf1803a346e4ed81765"
       ],
-      "last_run": "2026-06-15 06:03 UTC"
+      "last_run": "2026-06-15 06:17 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2052,7 +2062,7 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals\u00b7",
+        "Internals·",
         "Interpreter",
         "JIT",
         "JIT:",
@@ -2310,13 +2320,13 @@
         "01_Advanced_Memory_GIL.md",
         "It",
         "-",
-        "GIL-less"
+        "GIL-less",
+        "...",
+        "Masterclass",
+        "Slots",
+        "WeakRefs"
       ],
       "last_result_hashes": [
-        "beaef31893811bf93a7c49c5427531ec",
-        "407bd0317abbabf6be9ed20442246de1",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "7f3458fd1c003f75f60b8a9029be5c4e",
         "35303d2720582e23d49ac77a4490dddd",
         "34b98abdd6bbd8dd5d7622c24cf994de",
         "f27cb1bd54e04f526bc9e3a707132016",
@@ -2332,9 +2342,13 @@
         "23f806669425cddfbb81ceb3202ed519",
         "a1001fa1d16e18cf732ae3f80c77fe76",
         "edbe8d53f6ed4174d20b8c4ee8d3dea4",
-        "6622407c0995983f2e39b7a58720b2ea"
+        "6622407c0995983f2e39b7a58720b2ea",
+        "343ee2ea3c7bd5c5bb4c13c55f709fcf",
+        "4cd24649bb264af960eb0db466e7076c",
+        "3723dfa3f60cd99fa11d63a5fa09bc1f",
+        "144c35f6b99ca28df6ed11d16c89b3d5"
       ],
-      "last_run": "2026-06-15 06:03 UTC"
+      "last_run": "2026-06-15 06:17 UTC"
     }
   },
   "last_run": "2026-06-15 06:03 UTC"

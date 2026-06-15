@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: algorithms
+- **2026-06-15** | [What are some ways to self-study algorithms and data structures for interviews](https://www.quora.com/What-are-some-ways-to-self-study-algorithms-and-data-structures-for-interviews) | kw: algorithms
+- **2026-06-15** | [Data Structures and Algorithms Mega Course – Master Technical Interviews in 49 Hours](https://www.youtube.com/watch?v=xwI5OBEnsZU) | kw: algorithms
+
 - **2026-06-15** | [LeetCode Questions for TCS 2026: 50 Problems Solved](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: 2026, 2026:, Code, For, LEETCODE
 - **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: 2026, Algo, Algorithm, Algorithms, Data
 - **2026-06-15** | [Top 100+ Data Structure Interview Questions 2026](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: 100, 100+, 2026, Data, Interview
