@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Edge Computing Trends 2026 — The Powerful Shift Toward ...](https://vibetric.com/edge-computing-trends-2026) | kw: Edge, Computing, Trends, Powerful, Shift
+
 - **2026-06-15** | [Service Mesh Deep Dive — Envoy, Istio, Linkerd, Cilium eBPF, Ambient Mesh, xDS/mTLS](https://www.youngju.dev/blog/culture/2026-04-15-service-mesh-envoy-istio-linkerd-cilium-ebpf-ambient-xds-mtls-deep-dive-guide-2025.en) | kw: Service, Mesh, Deep, Dive, Envoy
 - **2026-06-15** | [Sidecar-Free Service Mesh: Understanding Cilium's eBPF Architecture](https://blog.aicademy.ac/cilium-ebpf-sidecar-free-service-mesh) | kw: Sidecar, Free, Service, Mesh, Understanding
 - **2026-06-15** | [Sidecar vs eBPF Service Mesh: An ADR for 2026 Production](https://iotdigitaltwinplm.com/ebpf-vs-sidecar-service-mesh-adr-2026) | kw: Sidecar, Ebpf, Service, Mesh, ADR

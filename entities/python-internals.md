@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python Memory Management and Garbage Collection](https://techielearn.com/tutorials/python-programming/advanced-python-topics/memory-management-in-python) | kw: Python, Memory, Management, Garbage, Collection
+
 - **2026-06-15** | [Python 3.14: Free-Threading, GIL Removal, and Performance Boosts](https://www.webpronews.com/python-3-14-free-threading-gil-removal-and-performance-boosts/) | kw: Python, Free, Threading, GIL, Removal
 - **2026-06-15** | [Python 3.14.6 and 3.13.14: Safe Guide for Free Threading and JIT](https://www.linuxcompatible.org/story/python-3146-and-31314-safe-guide-for-free-threading-and-jit/) | kw: Python, Safe, Guide, Free, Threading
 - **2026-06-15** | [Python 3.13 Changes That Impact Production Code](https://www.c-sharpcorner.com/article/python-3-13-changes-that-impact-production-code-what-developers-need-to-know) | kw: Python, Changes, Impact, Production, Code

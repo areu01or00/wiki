@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Top 21 Data Structure & Algorithms Questions to Ace DSA ...](https://skillcureacademy.com/blogs/top-dsa-interview-questions-2026) | kw: Top, Data, Structure, Algorithms, Questions
+
 - **2026-06-15** | [FAANG Interview Questions](https://workat.tech/problem-solving/lists/faang-interview-questions/practice) | kw: FAANG, Interview, Questions
 - **2026-06-15** | [Top 50 DSA Interview Questions (2026)](https://www.guru-sishya.in/dsa-interview-questions) | kw: Top, DSA, Interview, Questions
 - **2026-06-15** | [Cracking The Coding Interview With System Design And Data Structures Interview Questions](https://logicmojo.com/top-7-dsa-courses-for-faang) | kw: Cracking, Coding, Interview, System, Design
