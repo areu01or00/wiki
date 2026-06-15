@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type systems
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type systems
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type systems
+- **2026-06-15** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: type systems
+- **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer Science](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: type systems
+- **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives | NSF](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: type systems
+- **2026-06-15** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: type systems
+- **2026-06-15** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type systems
+- **2026-06-15** | [Gradual Typing Performance Springer](https://link.springer.com/chapter/10.1007/978-3-031-64626-3_15) | kw: type systems
+
 - **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
 - **2026-06-15** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: type-systems
 - **2026-06-15** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: type-systems
