@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design 2026 | profile: system-design
+- **2026-06-15** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Distributed Systems Patterns | profile: system-design
+- **2026-06-15** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed Systems Roadmap | profile: system-design
+- **2026-06-15** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/@xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: Software Architecture Trends | profile: system-design
+- **2026-06-15** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: Essential Distributed System | profile: system-design
+
 - **2026-06-15** | [Edge Computing Trends 2026 — The Powerful Shift Toward ...](https://vibetric.com/edge-computing-trends-2026) | kw: Edge, Computing, Trends, Powerful, Shift
 
 - **2026-06-15** | [Service Mesh Deep Dive — Envoy, Istio, Linkerd, Cilium eBPF, Ambient Mesh, xDS/mTLS](https://www.youngju.dev/blog/culture/2026-04-15-service-mesh-envoy-istio-linkerd-cilium-ebpf-ambient-xds-mtls-deep-dive-guide-2025.en) | kw: Service, Mesh, Deep, Dive, Envoy

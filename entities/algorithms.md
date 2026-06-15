@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Sheet 2026 Crack | profile: algorithms
+- **2026-06-15** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: 100+ Data Structure | profile: algorithms
+- **2026-06-15** | [Interview Prep: Algorithm Patterns | SyntaxCache](https://www.syntaxcache.com/interview-prep) | kw: Interview Prep Algorithm | profile: algorithms
+- **2026-06-15** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms Data Structures | profile: algorithms
+- **2026-06-15** | [FAANG Interview Pattern Recognition — 14 Algorithm Patterns](https://www.wasilzafar.com/pages/series/data-structures/dsa-interview-pattern-recognition.html) | kw: FAANG Interview Pattern | profile: algorithms
+- **2026-06-15** | [Top 100+ Data Structure Interview Questions and Answers (2026)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: 100+ Data Structure | profile: algorithms
+- **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data Structures Algorithms | profile: algorithms
+- **2026-06-15** | [Algorithm Patterns for Coding Interviews: The Framework](https://craqly.com/blog/leetcode-patterns-cheat-sheet) | kw: Algorithm Patterns Coding | profile: algorithms
+
 - **2026-06-15** | [Top 21 Data Structure & Algorithms Questions to Ace DSA ...](https://skillcureacademy.com/blogs/top-dsa-interview-questions-2026) | kw: Top, Data, Structure, Algorithms, Questions
 
 - **2026-06-15** | [FAANG Interview Questions](https://workat.tech/problem-solving/lists/faang-interview-questions/practice) | kw: FAANG, Interview, Questions

@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT Scale llvm | profile: compilers
+- **2026-06-15** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: Design Implementation Julia | profile: compilers
+- **2026-06-15** | [New LLVM JIT Features](https://forums.swift.org/t/new-llvm-jit-features/22668) | kw: LLVM Features | profile: compilers
+- **2026-06-15** | [Unlocking Performance: Low-Cost Register Allocation in LLVM Binary Translation](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance Cost | profile: compilers
+- **2026-06-15** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers Modern Language | profile: compilers
+- **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just Time Compiler | profile: compilers
+- **2026-06-15** | [Building a JIT: Starting out with KaleidoscopeJIT (chekalexey fork)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building Starting KaleidoscopeJIT | profile: compilers
+- **2026-06-15** | [Building a JIT: Starting out with KaleidoscopeJIT (VALancaster fork)](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building Starting KaleidoscopeJIT | profile: compilers
+- **2026-06-15** | [Building a JIT: Starting out with KaleidoscopeJIT (RomanPikhotskiy fork)](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building Starting KaleidoscopeJIT | profile: compilers
+
 - **2026-06-15** | [LLVMのJITについてLLMの説明が分からなくて困る](https://zenn.dev/toga/scraps/948f581e2c441f) | kw: LLVM, JIT, LLM
 
 - **2026-06-15** | [MLIR: Multi-Level Intermediate Representation Explained](https://inferensys.com/glossary/edge-artificial-intelligence-architectures/edge-ai-compilers/mlir-multi-level-intermediate-representation) | kw: MLIR, Multi, Level, Intermediate, Representation

@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing Type | profile: type-systems
+- **2026-06-15** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating Language Labyrinth | profile: type-systems
+- **2026-06-15** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual Typing Types | profile: type-systems
+- **2026-06-15** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static Dynamic Typing | profile: type-systems
+- **2026-06-15** | [Gradual Typing And Hybrid Systems Integration](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: Gradual Typing Hybrid | profile: type-systems
+- **2026-06-15** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual Typing Language | profile: type-systems
+- **2026-06-15** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: 2603.05649 Efficient Selection | profile: type-systems
+
 - **2026-06-15** | [Introduction to Type Systems](https://medium.com/@asverma314/introduction-to-type-systems-8cf264046ed7) | kw: Introduction, Type, Systems
 - **2026-06-15** | [[TYPES/announce] TYPES 2026 Call for Contributions](https://lists.seas.upenn.edu/pipermail/types-announce/2025/012145.html) | kw: TYPES, announce, TYPES, Call, Contributions
 - **2026-06-15** | [TypeScript Type Inference: A Comprehensive Guide](https://medium.com/@sahil90085/typescript-type-inference-a-comprehensive-guide-40c888c6d78f) | kw: TypeScript, Type, Inference, Comprehensive, Guide

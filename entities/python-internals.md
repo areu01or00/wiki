@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals Memory | profile: python-internals
+- **2026-06-15** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management Python | profile: python-internals
+- **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under Hood Python | profile: python-internals
+- **2026-06-15** | [Python Complete Guide | CPython Internals · GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: Python Complete CPython | profile: python-internals
+- **2026-06-15** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026) | kw: State Python 2026 | profile: python-internals
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future Python Internals | profile: python-internals
+- **2026-06-15** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling | profile: python-internals
+- **2026-06-15** | [Python 3.14 Free-Threading and Experimental JIT: How Python Changed in 2026](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Python 3.14 Free | profile: python-internals
+- **2026-06-15** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: Secret Life Python | profile: python-internals
+
 - **2026-06-15** | [Python Memory Management and Garbage Collection](https://techielearn.com/tutorials/python-programming/advanced-python-topics/memory-management-in-python) | kw: Python, Memory, Management, Garbage, Collection
 
 - **2026-06-15** | [Python 3.14: Free-Threading, GIL Removal, and Performance Boosts](https://www.webpronews.com/python-3-14-free-threading-gil-removal-and-performance-boosts/) | kw: Python, Free, Threading, GIL, Removal

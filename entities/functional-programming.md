@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads Omnipresent Rust | profile: functional-programming
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned Monads Through | profile: functional-programming
+- **2026-06-15** | [The Practical Value of Functional Programming — Monad, Haskell, Elixir, Gleam](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical Value Functional | profile: functional-programming
+- **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming Finest | profile: functional-programming
+- **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming 2026 | profile: functional-programming
+- **2026-06-15** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad functional programming | profile: functional-programming
+- **2026-06-15** | [What's Coming for Haskell in 2026](https://slicker.me/haskell/haskell-2026.html) | kw: What's Coming Haskell | profile: functional-programming
+- **2026-06-15** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads Monad Like | profile: functional-programming
+
 - **2026-06-15** | [Haskell Language](https://www.haskell.org/) | kw: Haskell, Language
 - **2026-06-15** | [The Complete Haskell Guide: From Zero to Expert - kodikra](https://www.kodikra.com/2026/03/the-complete-haskell-guide-from-zero-to.html) | kw: Complete, Haskell, Guide, Zero, Expert
 - **2026-06-15** | [The Philosophy of Immutability: Why Functional Programming Prevents Whole Classes of Bugs](https://www.javacodegeeks.com/2026/02/the-philosophy-of-immutability-why-functional-programming-prevents-whole-classes-of-bugs.html) | kw: Philosophy, Immutability, Functional, Programming, Prevents
