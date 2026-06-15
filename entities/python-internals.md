@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, internals, memory, management | profile: python-internals
+- **2026-06-15** | [Python Memory Profiling and Optimization Techniques - dasroot.net](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python, memory, profiling, optimization | profile: python-internals
+- **2026-06-15** | [Python Complete Guide | CPython Internals - GIL - pkglog.com](https://pkglog.com/en/blog/python-complete-guide) | kw: python, complete, guide, cpython | profile: python-internals
+- **2026-06-15** | [How Python's Memory Management Works Under the Hood - miydevforge.com](https://miydevforge.com/blog/how-python-memory-management-works) | kw: python, memory, management, works | profile: python-internals
+- **2026-06-15** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken - JavaCodeGeeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python, gil, controversy, multi-core | profile: python-internals
+- **2026-06-15** | [Python Memory Management Internals - Majidbasharat on Medium](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python, memory, management, internals | profile: python-internals
+
 - **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals Memory | profile: python-internals
 - **2026-06-15** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management Python | profile: python-internals
 - **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under Hood Python | profile: python-internals

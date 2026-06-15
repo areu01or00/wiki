@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms? - CodeGenes](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: rust, support, functional, programming | profile: functional-programming
+- **2026-06-15** | [The Practical Value of Functional Programming - Monad, Haskell, Elixir, Erlang, Gleam, Effect TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: practical, value, functional, programming | profile: functional-programming
+- **2026-06-15** | [Rust - Monday Morning Haskell Monads Tutorial](https://cqjo.erkaid.de/rust-monday-morning-haskell-monads-tutorial-monday-morning-haskell) | kw: rust, monday, morning, haskell | profile: functional-programming
+
 - **2026-06-15** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads Omnipresent Rust | profile: functional-programming
 - **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned Monads Through | profile: functional-programming
 - **2026-06-15** | [The Practical Value of Functional Programming — Monad, Haskell, Elixir, Gleam](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical Value Functional | profile: functional-programming

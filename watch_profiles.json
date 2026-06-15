@@ -397,7 +397,11 @@
         "Ambient",
         "Sidecar-Free",
         "Understanding",
-        "Production"
+        "Production",
+        "API Gateway",
+        "Rate Limiter",
+        "Event Sourcing",
+        "Service Mesh"
       ],
       "last_result_hashes": [
         "91b00ecfea79e1d8bece12530872ecb5",
@@ -421,7 +425,7 @@
         "96a20d91426c334ac4ec39a360a72684",
         "6b5395d3ed3777d4a202d8fc238a899d"
       ],
-      "last_run": "2026-06-15 16:33 UTC"
+      "last_run": "2026-06-15 16:50 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -825,14 +829,16 @@
         "Rewrote",
         "Entire",
         "Towards",
-        "Dialects"
+        "Dialects",
+        "IR2Vec",
+        "MIR2Vec",
+        "Microsoft/llvm",
+        "JIT Optimization Engine",
+        "KaleidoscopeJIT Tutorial",
+        "ORC API",
+        "TurboFan"
       ],
       "last_result_hashes": [
-        "a888bd8966b306914c973b55ba7dd171",
-        "7ed9cf6296b93bcd1574511795e44641",
-        "d37278b17b3f3d3a42bf217f0d3e56d5",
-        "ffeb7c586993e252c9aa11867c00b4b2",
-        "ae427aaa277c67469832326760f5569f",
         "5d4ac715e54509da805ad5c64a5b6b9b",
         "98be7670d387af64f3de6a1f2e450825",
         "1caf9a536fa042763c3b0ff3d7955486",
@@ -847,9 +853,14 @@
         "af906821b5af28695658baff9661080f",
         "9f5c4c8fcbfa8c15cf30a2d1f125a94f",
         "b67a0f3d231897b5f5a4d22f02502dd8",
-        "095bfe74ec95746cb4ee052dd0f2c74e"
+        "095bfe74ec95746cb4ee052dd0f2c74e",
+        "294465baa405c509ff16e6e2c8d94604",
+        "d882649a5804457412b5ed9f424d080e",
+        "9b9e5b41a1c52064d55b23f06ea84096",
+        "e6a8ac3a05543f08fbdbb3a3cc13fbbf",
+        "4e8ddc24811c453ae5c8c4fcae82e641"
       ],
-      "last_run": "2026-06-15 16:33 UTC"
+      "last_run": "2026-06-15 16:50 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1250,7 +1261,10 @@
         "wgt20iriffr",
         "with",
         "|",
-        "\u2014"
+        "\u2014",
+        "Annotation Selection",
+        "Gradual Performance",
+        "Static vs Dynamic 2026"
       ],
       "last_result_hashes": [
         "515297cd90212e0cede68efcec1af7d9",
@@ -1274,7 +1288,7 @@
         "c0b8939bb00148936243259369f1f8a3",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6"
       ],
-      "last_run": "2026-06-15 16:33 UTC"
+      "last_run": "2026-06-15 16:50 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1686,12 +1700,15 @@
         "\u00b7",
         "\u2014",
         "Filter",
-        "Reduce"
+        "Reduce",
+        "Effect TS",
+        "Linear Types",
+        "Rust FP idioms",
+        "Filter Map Reduce",
+        "Option/Result monads",
+        "Gleam vs Haskell"
       ],
       "last_result_hashes": [
-        "9faa7cf534e52ea65424258c0c6c7995",
-        "c233ce094f809bd93c2f4474229feed5",
-        "619445cf59810e703603ef4f268058ee",
         "88755452686cdbfeca2c3e154b11cd1a",
         "e84730871cde2fbd036296b1b28843ed",
         "a8566d8d4f482c645facef0b17ecc050",
@@ -1708,9 +1725,12 @@
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "ab1a401478bf91151df62818473f5ef5",
         "a5ec768916952f0e20e69946be09c3bb",
-        "b82ed313e52a51037b2e80996b9a6a4d"
+        "b82ed313e52a51037b2e80996b9a6a4d",
+        "8d6ecdc2c07f8eca6519d414d2bfbcfe",
+        "4128fb38c936ecbd91918d4f4e4b19f5",
+        "43c11b63aee2051cdec95870f240495f"
       ],
-      "last_run": "2026-06-15 16:33 UTC"
+      "last_run": "2026-06-15 16:50 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2091,13 +2111,11 @@
         "weekly",
         "wgt20iriffr",
         "with",
-        "|"
+        "|",
+        "Top Interview 150",
+        "FAANG Patterns"
       ],
       "last_result_hashes": [
-        "814ad50168aca7691bd4e6e042f0b36b",
-        "8f48746135c4ce31696176aebedcfc09",
-        "fd188c4ac1145d60e4ced9ad3e4607e9",
-        "7b9ea1fd4adfc91e6bd66f15556c33a3",
         "a97aaa060bf3039beeb41e73ac20d73c",
         "5a5f93c3812d48cf1f46410a0ee8ac2a",
         "cb0c560e8841e385635126a2a21c8684",
@@ -2113,9 +2131,13 @@
         "1107ea05ec42bdef1fb0abc3d4678864",
         "645cd575d17401c0cea1f1d499733998",
         "a939def8c0cd3e980d5350d2d5117e8b",
-        "1ea22e7816999d5182ef6b4f4dd93479"
+        "1ea22e7816999d5182ef6b4f4dd93479",
+        "e596387609c5e44c4fdb72ef66acfc66",
+        "7109f334ec75b2ec4e9778a03dc44040",
+        "aaa854b5752ae72b2cbb77ab8d2a6730",
+        "7d389811ca46285228bd574f4abe8d10"
       ],
-      "last_run": "2026-06-15 16:33 UTC"
+      "last_run": "2026-06-15 16:50 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2513,15 +2535,15 @@
         "Safe",
         "Mode",
         "Every",
-        "Feature"
+        "Feature",
+        "JIT Compiler 3.14",
+        "AsyncIO",
+        "GIL Controversy 2026",
+        "Cyclic Garbage Collection",
+        "__slots__",
+        "Pattern Matching"
       ],
       "last_result_hashes": [
-        "7b4d33a48fc204e0cb25e4f1266c7297",
-        "dffb367289c2ff33235ee4db217cc919",
-        "b555ef9c87509d560632e0754a5f2098",
-        "6bd1828271a3d7ce0e5d0b666c53b128",
-        "64d4c784e26e383251fe8d0085350906",
-        "be274d7c0b10ade41053acb905c0a0b3",
         "98711327d7dc79473fe98a157a7c15e0",
         "6622407c0995983f2e39b7a58720b2ea",
         "515605dad382d527ac35b4f8f5ba9321",
@@ -2535,9 +2557,15 @@
         "23f806669425cddfbb81ceb3202ed519",
         "4cd24649bb264af960eb0db466e7076c",
         "aa4cc2c43444a9ee549a49fa6473334d",
-        "4aa45f88b11be85c9e2609d7545bb7fb"
+        "4aa45f88b11be85c9e2609d7545bb7fb",
+        "999e699e6e78d8e383158b10f1c950f8",
+        "987be4b4e32f235de1ef0bbe9c28344d",
+        "81f1220ff41cddb7e95bfff8f74529c3",
+        "da1d06ed29d9e9b92f97300993b07ed6",
+        "e6a418c5f148d68a53fd286dcc17d453",
+        "a191b3f87343bc3dfb47d816861bb106"
       ],
-      "last_run": "2026-06-15 16:33 UTC"
+      "last_run": "2026-06-15 16:50 UTC"
     }
   }
 }

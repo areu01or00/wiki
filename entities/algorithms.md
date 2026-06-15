@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Top 100 LeetCode Coding Interview Questions (2025 Edition) - Shadecoder](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: top, 100, leetcode, coding | profile: algorithms
+- **2026-06-15** | [Best DSA Sheet 2026 - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: dsa, sheet, 2026, namastedev | profile: algorithms
+- **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 - TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: data, structures, algorithms, interview | profile: algorithms
+- **2026-06-15** | [LeetCode Top Interview 150 Flashcards - Algorithm Patterns and Detailed Solutions - Quizlet](https://quizlet.com/1045406141/leetcode-top-interview-150-flashcards-algorithm-patterns-and-detailed-solutions-flash-cards) | kw: leetcode, top, interview, 150 | profile: algorithms
+
 - **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Sheet 2026 Crack | profile: algorithms
 - **2026-06-15** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: 100+ Data Structure | profile: algorithms
 - **2026-06-15** | [Interview Prep: Algorithm Patterns | SyntaxCache](https://www.syntaxcache.com/interview-prep) | kw: Interview Prep Algorithm | profile: algorithms
