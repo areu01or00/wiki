@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Dynamic Programming Strategies - Compile N Run](https://www.compilenrun.com/docs/fundamental/algorithm/leetcode-problem-approaches/dynamic-programming-strategies) | kw: Dynamic Programming Strategies - Compile N Run | profile: algorithms
+- **2026-06-15** | [LeetCode Patterns | Cheat Sheet & Problem List](https://www.crackr.dev/leetcode-patterns) | kw: LeetCode Patterns | Cheat Sheet & Problem List | profile: algorithms
+- **2026-06-15** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems | profile: algorithms
+- **2026-06-15** | [8 LeetCode Patterns to solve 2000+ problems](https://studyalgorithms.com/theory/powerful-leetcode-patterns/) | kw: 8 LeetCode Patterns to solve 2000+ problems | profile: algorithms
+- **2026-06-15** | [15 Essential LeetCode Patterns | Cheatsheets](https://cheat.aktagon.com/sheets/leetcode) | kw: 15 Essential LeetCode Patterns | Cheatsheets | profile: algorithms
+- **2026-06-15** | [LeetCode Patterns That Still Matter in 2026: What Interviewers Still Reward](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode Patterns That Still Matter in 2026: What Interviewers Still Reward | profile: algorithms
+- **2026-06-15** | [LeetCode was HARD until I Learned these 15 Patterns](https://blog.algomaster.io/p/15-leetcode-patterns) | kw: LeetCode was HARD until I Learned these 15 Patterns | profile: algorithms
+- **2026-06-15** | [Leetcode Patterns/Techniques Cheat Sheet : r/leetcode](https://www.reddit.com/r/leetcode/comments/1d31ksp/leetcode_patternstechniques_cheat_sheet) | kw: Leetcode Patterns/Techniques Cheat Sheet : r/leetcode | profile: algorithms
+- **2026-06-15** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns/) | kw: Leetcode Patterns - Sean Prashad | profile: algorithms
+- **2026-06-15** | [Best Way to master DSA in shortest time in 2026 - By SDE](https://www.youtube.com/watch?v=xjd_RgPQBKQ) | kw: Best Way to master DSA in shortest time in 2026 - By SDE | profile: algorithms
+
 - **2026-06-15** | [LeetCode Python Problems](https://leetcode.com/problemset?language=Python) | kw: LeetCode Python Problems | profile: algorithms
 
 

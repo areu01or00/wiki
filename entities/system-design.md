@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Comput | profile: system-design
+- **2026-06-15** | [Modern Software Architecture Patterns That Scale In 2026](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production) | kw: Modern Software Architecture Patterns That Scale In 2026 | profile: system-design
+- **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queue | profile: system-design
+- **2026-06-15** | [Backend Architecture Patterns - A Practical Guide for 2026 - Codelit.io](https://codelit.io/blog/backend-architecture-patterns-guide) | kw: Backend Architecture Patterns - A Practical Guide for 2026 - Codelit.io | profile: system-design
+- **2026-06-15** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 2026 | profile: system-design
+
 
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide | profile: system-design
 - **2026-06-15** | [Distributed Caching Patterns: Implementing Cache-Aside, Write-Through and Write-Back Strategies](https://richardgablesner.com/distributed-caching-patterns-implementing-cache-aside-write-through-and-write-back-strategies) | kw: Distributed Caching Patterns | profile: system-design

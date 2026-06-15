@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Understanding Graduality in Programming Languages through Embedding Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding Graduality in Programming Languages through Embedding Projection P | profile: type-systems
+- **2026-06-15** | [Typed and Confused: Studying the Unexpected Dangers of Gradually Typed Code](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed and Confused: Studying the Unexpected Dangers of Gradually Typed Code | profile: type-systems
+- **2026-06-15** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type system concepts - typing documentation | profile: type-systems
+- **2026-06-15** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders - Unosquare](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing) | kw: Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders - Unosquare | profile: type-systems
+- **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer Science](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing - Khoury College of Computer Science | profile: type-systems
+- **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro Strategies](https://link.springer.com/chapter/10.1007/978-3-031-64626-3_15) | kw: Gradual Typing Performance, Micro Configurations and Macro Strategies | profile: type-systems
+
 
 - **2026-06-15** | [TypeScript 2026: How It Became #1 on GitHub and Why AI Pushed It There](https://www.programming-helper.com/tech/typescript-2026-number-one-github-ai-typed-languages-python) | kw: TypeScript 2026 | profile: type-systems
 

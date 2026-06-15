@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [The GIL Is Finally Dead: Free-Threaded Python Is Production Ready](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production Ready | profile: python-internals
+- **2026-06-15** | [Mastering How the Python Interpreter Works | PYTHON 2026](https://course4all.com/python/py-introduction-internals) | kw: Mastering How the Python Interpreter Works | PYTHON 2026 | profile: python-internals
+- **2026-06-15** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling and Optimization Techniques | profile: python-internals
+- **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter Lock (GIL) | profile: python-internals
+- **2026-06-15** | [The First Ever No-GIL Python: What's New in Python 3.13?](https://flyaps.com/blog/update-python-3-13) | kw: The First Ever No-GIL Python: What's New in Python 3.13? | profile: python-internals
+- **2026-06-15** | [Python Memory Leaks: 7 Fixes for Long-Running Apps in 2026](https://appsconcerebro.com/en/blog/python-2026-diagnostico-y-solucion-de-fugas-de-memoria-en-ap) | kw: Python Memory Leaks: 7 Fixes for Long-Running Apps in 2026 | profile: python-internals
+- **2026-06-15** | [Python Memory Management Internals](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python Memory Management Internals | profile: python-internals
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: The Future of Python Internals: Exploring GIL Removal and Other Optimizations | profile: python-internals
+
 
 - **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - Evidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals Memory | profile: python-internals
 - **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features - Habibullah](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under Hood Python | profile: python-internals

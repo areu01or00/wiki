@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's Coming for Haskell in 2026 - slicker.me | profile: functional-programming
+- **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Cod | profile: functional-programming
+- **2026-06-15** | [The Practical Value of Functional Programming - Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming - Monad, Functor, Pure Functions,  | profile: functional-programming
+- **2026-06-15** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: The Future of Haskell and Functional Programming | profile: functional-programming
+- **2026-06-15** | [Functors, Applicatives, and Monads: FP Concepts Explained](https://read.thecoder.cafe/p/functors-applicatives-monads) | kw: Functors, Applicatives, and Monads: FP Concepts Explained | profile: functional-programming
+- **2026-06-15** | [Hello, Haskell: Getting Started in 2026](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026 | profile: functional-programming
+
 
 - **2026-06-15** | [Haskell Interlude #83: POPL 2026 - Part 2 - Haskell Discourse](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83 | profile: functional-programming
 - **2026-06-15** | [The Future of Haskell and Functional Programming - Software Patterns Lexicon](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: Future Haskell Functional | profile: functional-programming
