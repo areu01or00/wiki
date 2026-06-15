@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, Haskell | profile: functional-programming
+- **2026-06-15** | [nsu-syspro/haskell-monads-2026 - GitHub Classroom haskell-monads course](https://github.com/nsu-syspro/haskell-monads-2026) | kw: GitHub, Classroom | profile: functional-programming
+- **2026-06-15** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad, Like, Patterns, Rust | profile: functional-programming
+- **2026-06-15** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday, Morning, Haskell | profile: functional-programming
+- **2026-06-15** | [Monads in Haskell - DEV Community Bek Brace](https://dev.to/bekbrace/monads-in-haskell-1p8i) | kw: Monads, Haskell, DEV, Community, Bek | profile: functional-programming
+
 - **2026-06-15** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: functional-programming | profile: functional-programming
 
 - **2026-06-15** | [Functional Programming in Rust - Sylvain Kerkour](https://kerkour.com/rust-functional-programming) | kw: Programming, Functional, Kerkour

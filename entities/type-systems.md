@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, Language, Landscape, Typing, Paradigm | profile: type-systems
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The, Rise, Static, Typing, Why | profile: type-systems
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance - Programming Journal](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type, Annotations, Performance | profile: type-systems
+
 - **2026-06-15** | [2026 10 Things That Matter in AI Right Now | MIT Technology Review](https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/) | kw: type-systems | profile: type-systems
 - **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems | profile: type-systems
 - **2026-06-15** | [Gradual Typing - MIT CSAIL (Feser)](https://people.csail.mit.edu/feser/pld-s23/gradual_typing.html) | kw: type-systems | profile: type-systems
