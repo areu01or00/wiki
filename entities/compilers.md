@@ -1,6 +1,7 @@
 # Compilers
 
 ## Updates
+
 - **2026-06-15** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: LLVM Compiler Framework Infrastructure | profile: compilers
 
 - **2026-06-15** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking, Performance, The, Overlooked, Power | profile: compilers

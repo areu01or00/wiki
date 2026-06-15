@@ -1,6 +1,7 @@
 # Functional Programming
 
 ## Updates
+
 - **2026-06-15** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, Haskell | profile: functional-programming
 - **2026-06-15** | [nsu-syspro/haskell-monads-2026 - GitHub Classroom haskell-monads course](https://github.com/nsu-syspro/haskell-monads-2026) | kw: GitHub, Classroom | profile: functional-programming
 - **2026-06-15** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad, Like, Patterns, Rust | profile: functional-programming

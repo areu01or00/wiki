@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Patterns of Distributed Systems (2022) - Hacker News](https://news.ycombinator.com/item?id=36495335) | kw: Patterns, of, Distributed, Systems, 2022 | profile: system-design
+- **2026-06-15** | [Predicting the Future of Distributed Systems | Hacker News](https://news.ycombinator.com/item?id=41363499) | kw: Predicting, the, Future, of, Distributed | profile: system-design
+
 - **2026-06-15** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: System, Design, The, Complete, Guide | profile: system-design
 
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design | profile: system-design

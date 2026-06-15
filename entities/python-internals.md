@@ -1,6 +1,7 @@
 # Python Internals
 
 ## Updates
+
 - **2026-06-15** | [CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping](https://blog.codingconfessions.com/p/cpython-runtime-internals) | kw: CPython Runtime Internals | profile: python-internals
 - **2026-06-15** | [Python 3.12 & 3.13 Internals: What Actually Changed](https://medium.com/@devopsbyte25/python-3-12-3-13-internals-what-actually-changed-and-why-devops-engineers-should-care-c969478fee4b) | kw: Python 3.12 3.13 Internals | profile: python-internals
 

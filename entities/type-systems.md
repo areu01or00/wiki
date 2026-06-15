@@ -1,6 +1,7 @@
 # Type Systems
 
 ## Updates
+
 - **2026-06-15** | [TypeScript 2026: How It Became #1 on GitHub and Why AI Pushed It There](https://www.programming-helper.com/tech/typescript-2026-number-one-github-ai-typed-languages-python) | kw: TypeScript 2026 | profile: type-systems
 
 - **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, Language, Landscape, Typing, Paradigm | profile: type-systems
