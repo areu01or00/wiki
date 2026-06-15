@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value
+- **2026-06-15** | [Rust do notation and monads with GATs and macros](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: Rust, notation, and
+- **2026-06-15** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, (functional, programming)
+- **2026-06-15** | [Understanding Monads - Haskell walkthrough](http://walk.northcol.org/haskell/monads) | kw: Understanding, Monads, Haskell
+- **2026-06-15** | [Maybe / Either monad implementation intro](https://qiita.com/CRUD5th/items/7681b5ee53b229850fd4) | kw: Maybe, Either, monad
+- **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026:
+- **2026-06-15** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, and, Monad-Like
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: How, Learned, Monads:
+
 - **2026-06-15** | [Functional Programming in 2026: Haskell vs Gleam vs Rust - PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
 - **2026-06-15** | [The Practical Value of Functional Programming - Monad, Haskell, Elixir, Erlang, Gleam, Effect-TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
 - **2026-06-15** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming
