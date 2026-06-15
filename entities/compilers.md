@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM, OrcJIT, Scale, llvm, autojit
+- **2026-06-15** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization, Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language, Runtimes, LLVM
+
 - **2026-06-15** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 Turbofan Maglev Inline Caching Escape Analysis Rust Monomorphization](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language, Runtimes, LLVM
 - **2026-06-15** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM, OrcJIT, Scale, Plugin
 - **2026-06-15** | [Python's JIT Compiler in 2026 — How Fast Is It Really?](https://www.pyblog.in/programming/inorder-traversal-of-binary-tree-in-python) | kw: Python's, Compiler, Fast, Really?
