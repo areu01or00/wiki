@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping](https://blog.codingconfessions.com/p/cpython-runtime-internals) | kw: CPython Runtime Internals | profile: python-internals
+- **2026-06-15** | [Python 3.12 & 3.13 Internals: What Actually Changed](https://medium.com/@devopsbyte25/python-3-12-3-13-internals-what-actually-changed-and-why-devops-engineers-should-care-c969478fee4b) | kw: Python 3.12 3.13 Internals | profile: python-internals
+
 - **2026-06-15** | [How Python Works Under the Hood: Memory, GIL, and Bytecode - pythoncompiler.io](https://www.pythoncompiler.io/python/python-internals) | kw: How, Python, Works, Under, Hood | profile: python-internals
 - **2026-06-15** | [Memory Management & GIL: Python Guide (2026) - Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, GIL, Python, Guide | profile: python-internals
 - **2026-06-15** | [Will Removing Python's GIL make it significantly faster? - HAMY LABS](https://hamy.xyz/blog/2025-07_will-gil-removal-make-python-faster) | kw: Will, Removing, Python, GIL, HAMY | profile: python-internals

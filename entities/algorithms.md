@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Competitive Programming Essentials, Master Algorithms](https://www.classcentral.com/course/udemy-competitive-programming-algorithms-coding-minutes-70201) | kw: Competitive Programming Essentials Master | profile: algorithms
+- **2026-06-15** | [Competitive Programming Essentials, Master Algorithms (Udemy)](https://www.udemy.com/course/competitive-programming-algorithms-coding-minutes) | kw: Competitive Programming Essentials Master | profile: algorithms
+- **2026-06-15** | [Algorithm Trend Intelligence (@wearealgorithm) / Posts / X](https://x.com/wearealgorithm) | kw: Algorithm Trend Intelligence wearealgorithm | profile: algorithms
+- **2026-06-15** | [DSA Competitive Programming - Practice Questions 2026 - Udemy](https://www.udemy.com/course/dsa-competitive-programming-questions/) | kw: DSA Competitive Programming | profile: algorithms
+
 - **2026-06-15** | [LeetCode Medium](https://leetcode.com/problemset?difficulty=MEDIUM) | kw: LeetCode, Medium | profile: algorithms
 
 - **2026-06-15** | [Data Structures Interview Questions: The Complete 2026 Guide - PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview, Questions, The | profile: algorithms
