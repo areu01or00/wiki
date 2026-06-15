@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15 09:17 UTC** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: evidhya.com
+- **2026-06-15 09:17 UTC** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: pythoncompiler.io
+- **2026-06-15 09:17 UTC** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: pkglog.com
+- **2026-06-15 09:17 UTC** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: edugators.com
+- **2026-06-15 09:17 UTC** | [Will Removing Python's GIL make it significantly faster?](https://hamy.xyz/blog/2025-07_will-gil-removal-make-python-faster) | kw: hamy.xyz
+- **2026-06-15 09:17 UTC** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: odysse.io
+- **2026-06-15 09:17 UTC** | [State of Python 2026](https://devnewsletter.com/p/state-of-python-2026) | kw: devnewsletter.com
+- **2026-06-15 09:17 UTC** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: vi4io.org
+
 - **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Python Internals
 - **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Python Internals
 - **2026-06-15** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)](https://medium.com/%40sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: Python Internals

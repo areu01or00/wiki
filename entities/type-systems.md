@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15 09:17 UTC** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: programming-conference.org
+- **2026-06-15 09:17 UTC** | [Efficient Selection of Type Annotations for Performance (Journal)](https://programming-journal.org/2026/11/3/) | kw: programming-journal.org
+- **2026-06-15 09:17 UTC** | [Design and Evaluation of Gradual Typing for Python (Siek)](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: jsiek.github.io
+- **2026-06-15 09:17 UTC** | [Type-Based Gradual Typing Performance Optimization (ACM)](https://dl.acm.org/doi/10.1145/3632931) | kw: dl.acm.org
+- **2026-06-15 09:17 UTC** | [Gradual Typing with Inference (Siek)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: cs.cmu.edu
+- **2026-06-15 09:17 UTC** | [Type-based Gradual Typing Performance Optimization (POPL'24)](https://www.youtube.com/watch?v=YHUadoP9ZFg) | kw: youtube.com
+
 - **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the ...](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Type Systems
 - **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Type Systems
 - **2026-06-15** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems ...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Type Systems
