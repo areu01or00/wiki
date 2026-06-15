@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [[2604.15290v4] Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v4) | kw: [2604.15290v4] Pure Borrow: Linear Haskell Meets Rust-Style Borrowing | profile: functional-programming
+
 - **2026-06-15** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's Coming for Haskell in 2026 - slicker.me | profile: functional-programming
 - **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability/) | kw: Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Cod | profile: functional-programming
 - **2026-06-15** | [The Practical Value of Functional Programming - Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming - Monad, Functor, Pure Functions,  | profile: functional-programming

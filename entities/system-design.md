@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Pattern: Event sourcing](https://microservices.io/patterns/data/event-sourcing.html) | kw: Pattern: Event sourcing | profile: system-design
+
 - **2026-06-15** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Comput | profile: system-design
 - **2026-06-15** | [Modern Software Architecture Patterns That Scale In 2026](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production) | kw: Modern Software Architecture Patterns That Scale In 2026 | profile: system-design
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queue | profile: system-design
