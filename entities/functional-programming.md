@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Monadic Design Patterns in Haskell: Mastering Functional ...](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: Monadic, Design, Patterns
+
 - **2026-06-15** | [Understanding Monads in Functional Programming: A Comprehensive Guide](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Algocademy guide
 - **2026-06-15** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: Appmus comparison
 - **2026-06-15** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Deep dive guide

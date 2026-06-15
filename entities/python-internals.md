@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [State of Python Open Source in 2026 - dasroot.net](https://dasroot.net/posts/2026/02/state-of-python-open-source-2026/) | kw: State, Python, Open
+- **2026-06-15** | [Top 11 Python Trends to Watch Out for in 2026 - Intellipaat](https://intellipaat.com/blog/top-python-trends/) | kw: Top, 11, Python
+
 - **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: evidhya.com
 - **2026-06-15** | [Python 3.14 Free-Threading and Experimental JIT](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Blog post
 - **2026-06-15** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python in Plain English
