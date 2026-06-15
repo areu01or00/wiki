@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
+- **2026-06-15** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python-internals
+
 - **2026-06-15** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | source: python-internals
 - **2026-06-15** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | source: python-internals
 - **2026-06-15** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | source: python-internals

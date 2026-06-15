@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: type-systems
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm ...](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-06-15** | [Gradual Typing - people.csail.mit.edu](https://people.csail.mit.edu/feser/pld-s23/gradual_typing.html) | kw: type-systems
+- **2026-06-15** | [PHP's Gradual Typing Journey: From Wild West to Almost ...](https://www.javacodegeeks.com/2026/01/phps-gradual-typing-journey-from-wild-west-to-almost-respectable.html) | kw: type-systems
+- **2026-06-15** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: type-systems
+- **2026-06-15** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: type-systems
+
 - **2026-06-15** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | source: type-systems
 - **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | source: type-systems
 - **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTec](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | source: type-systems
