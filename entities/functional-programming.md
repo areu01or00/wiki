@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads, are, Omnipresent, Rust, bertiqwerty
+- **2026-06-15** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, monads, Haskell
+- **2026-06-15** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: All, About, Monads, HaskellWiki
+- **2026-06-15** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, Wikipedia
+- **2026-06-15** | [Rust — Monday Morning Haskell | Monads Tutorial — Monday ...](https://cqjo.erkaid.de/rust-monday-morning-haskell-monads-tutorial-monday-morning-haskell) | kw: Rust, Monday, Morning, Haskell, Monads
+
 - **2026-06-15** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, Omnipresent, Rust
 - **2026-06-15** | [Understanding Monads in Functional Programming: A Comprehensive Guide](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Understanding, Monads, Functional
 - **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads:, Through

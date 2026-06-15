@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The, GIL, Finally, Python, BirJob
+- **2026-06-15** | [Global Interpreter Lock (GIL) in Python: Past, Present, and ...](https://igorpejic.com/posts/gil) | kw: Global, Interpreter, Lock, and
+- **2026-06-15** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, Python, Guide, Edugators
+- **2026-06-15** | [Python 3.14 Is Here. How Fast Is It? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) | kw: Python, How, Fast
+- **2026-06-15** | [Python 3.14新機能: InterpreterPoolExecutorで新しい並列処理を体験しよう | gihyo.jp](https://gihyo.jp/article/2026/03/monthly-python-2603) | kw: Python, InterpreterPoolExecutorで新しい並列処理を体験しよう
+- **2026-06-15** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: GIL, Gone, What, That, Actually
+
 - **2026-06-15** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals:
 - **2026-06-15** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: Python's, Memory, Management
 - **2026-06-15** | [The Ultimate Python Learning Roadmap for 2026: Complete](https://course4all.com/blog/python-learning-roadmap-2026) | kw: Ultimate, Python, Learning

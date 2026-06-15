@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer ...](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations, for, Gradual, Typing, Khoury
+- **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type, Theory
+- **2026-06-15** | [LLM Inference Optimization: Cut Cost & Latency at Every Layer](https://www.morphllm.com/llm-inference-optimization) | kw: LLM, Inference, Cut, Cost, Latency
+- **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual, Typing, Micro, Configurations, and
+- **2026-06-15** | [programming-language-research/research/papers/gradual-typing ...](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: programming-language-research/
+- **2026-06-15** | [[2603.05649] Efficient Selection of Type Annotations for ...](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type, Annotations, for
+- **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro ...](https://link.springer.com/chapter/10.1007/978-3-031-64626-3_15) | kw: Gradual, Typing, Micro, Configurations, and
+
 - **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language
 - **2026-06-15** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3) | kw: Efficient, Selection, Type
 - **2026-06-15** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual, Typing, Language
