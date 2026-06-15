@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
+- **2026-06-15** | [NeetCode - Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-06-15** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: algorithms
+- **2026-06-15** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
+- **2026-06-15** | [Data Structures & Algorithms Roadmap 2026 - The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: algorithms
+
 - **2026-06-15** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
 - **2026-06-15** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation - Udemy](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: algorithms
 - **2026-06-15** | [Top 100 Data Structures Interview Questions in 2026 - Devinterview-io](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: algorithms

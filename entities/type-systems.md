@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
+- **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer Science](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: type-systems
+- **2026-06-15** | [Gradual Typing - Language Design and Implementation (ANU)](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: type-systems
+- **2026-06-15** | [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp) | kw: type-systems
+- **2026-06-15** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
+- **2026-06-15** | [programming-language-research/research/papers/gradual-typing-a-new-perspective](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: type-systems
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (arXiv:2603.05649)](https://arxiv.org/abs/2603.05649) | kw: type-systems
+- **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro (Springer)](https://link.springer.com/chapter/10.1007/978-3-031-64626-3_15) | kw: type-systems
+
 - **2026-06-15** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: type-systems
 - **2026-06-15** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
 - **2026-06-15** | [arXiv:2603.05649 - Efficient Selection of Type Annotations for Performance](https://arxiv.org/abs/2603.05649) | kw: type-systems
