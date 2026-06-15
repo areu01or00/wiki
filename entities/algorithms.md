@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: Top
+- **2026-06-15** | [Top 50 Data Structures Interview Questions 2026](https://papersadda.com/article/data-structures-interview-questions-2026/) | kw: Top
+- **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode ...](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How
+- **2026-06-15** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: Top
+- **2026-06-15** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: Ultimate
+
 - **2026-06-15** | [Top 100 LeetCode Coding Interview Questions (2025 Edition) \| Shadecoder](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: top 100 leetcode
 - **2026-06-15** | [NeetCode \| Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: neetcode \| coding
 - **2026-06-15** | [Most Frequent Google Interview Questions on LeetCode: r/leetcode](https://www.reddit.com/r/leetcode/comments/1h886z6/most_frequent_google_interview_questions_on) | kw: most frequent google
