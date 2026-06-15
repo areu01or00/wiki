@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices) | kw: Microservices, Architecture, and, Distributed, Systems
+- **2026-06-15** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The, Coming, Paradigm, Shift, in
+- **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide, 2026:, Load
+- **2026-06-15** | [Distributed System Design: the complete guide](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design:, the, complete
+- **2026-06-15** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: 10, Essential, Distributed, System, Design
+
 - **2026-06-15** | [Architecting Resilience: The Cloud-Native Architecture Surge of 2025](https://gabogil.com/2025/12/09/architecting-resilience-the-cloud-native-architecture-surge-of-2025) | kw: Architecting, Resilience:, Cloud-Native
 - **2026-06-15** | [Architectural patterns for the cloud](https://www.youtube.com/watch?v=TuZZIGSbFfQ) | kw: Architectural, patterns, cloud
 - **2026-06-15** | [10 Must-Know Cloud Native Architecture Patterns](https://medium.com/%40goyalarchana17/10-must-know-cloud-native-architecture-patterns-b0e608a9363f) | kw: Must-Know, Cloud, Native

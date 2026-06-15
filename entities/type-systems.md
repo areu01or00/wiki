@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [The Elixir Evolution: Demystifying Gradual Typing in Elixir v1.17 and v1.18](https://www.sysseder.com/2026/06/the-elixir-evolution-demystifying.html) | kw: The, Elixir, Evolution:, Demystifying, Gradual
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3) | kw: Efficient, Selection, of, Type, Annotations
+- **2026-06-15** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, as, if, Types
+- **2026-06-15** | [PHP's Gradual Typing Journey: From Wild West to Almost Respectable](https://www.javacodegeeks.com/2026/01/phps-gradual-typing-journey-from-wild-west-to-almost-respectable.html) | kw: PHP's, Gradual, Typing, Journey:, From
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, of, Type, Annotations
+- **2026-06-15** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual, Typing, -, Language, Design
+
 - **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
 - **2026-06-15** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, Language, Labyrinth:
 - **2026-06-15** | [Gradual Typing - people.csail.mit.edu](https://people.csail.mit.edu/feser/pld-s23/gradual_typing.html) | kw: Gradual, Typing, people.csail.mit.edu

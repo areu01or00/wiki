@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, in, 2026:, Haskell
+- **2026-06-15** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value, of, Functional
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support, Functional, Programming
+- **2026-06-15** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: Haskell, vs, Rust, Comparison, (2026)
+- **2026-06-15** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, [2026]:, Functional, Programming
+- **2026-06-15** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust](https://github.com/wrsturgeon/rsmonad) | kw: GitHub, -, wrsturgeon/rsmonad:, Haskell-style, monads
+- **2026-06-15** | [Comparing Haskell and Rust: which to choose, when?](https://www.reddit.com/r/haskell/comments/47rjr4/comparing_haskell_and_rust_which_to_choose_when) | kw: Comparing, Haskell, and, Rust:, which
+- **2026-06-15** | [80: POPL 2026 - Part 2 - The Haskell Interlude](https://www.ivoox.com/en/80-popl-2026-part-2-audios-mp3_rf_175531593_1.html) | kw: 80:, POPL, 2026, -, Part
+
 - **2026-06-15** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional
 - **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, 2026:
 - **2026-06-15** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support

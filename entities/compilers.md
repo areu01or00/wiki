@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern, Language, Runtimes
+- **2026-06-15** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM, 2026, -, OrcJIT, at
+- **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time, (JIT), Compiler, with, LLVM
+- **2026-06-15** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: JIT, Compilation, |, microsoft/llvm, |
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst, at, ...
+
 - **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time, (JIT), Compiler
 - **2026-06-15** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
 - **2026-06-15** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM, Wikipedia
