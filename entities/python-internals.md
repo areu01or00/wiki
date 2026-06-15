@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Bytecode
+- **2026-06-15** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring
+- **2026-06-15** | [Will Removing Python's GIL make it significantly faster? - HAMY LABS](https://hamy.xyz/blog/2025-07_will-gil-removal-make-python-faster) | kw: PYTHON
+- **2026-06-15** | [Faster Python: Unlocking the Python Global Interpreter Lock | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock) | kw: Global
+- **2026-06-15** | [Python Memory Management Internals](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Internals
+
 - **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals:, Memory
 - **2026-06-15** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL:, The
 - **2026-06-15** | [Pythons GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Pythons, GIL, Gone
