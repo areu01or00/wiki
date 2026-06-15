@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Mes](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide, Load, Balancing
+- **2026-06-15** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutoria](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems, Patterns, Principles
+- **2026-06-15** | [System Design Fundamentals — Scalability, Availability, Caching, and M](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System, Design, Fundamentals, Scalability, Availability
+- **2026-06-15** | [Architectural Patterns for 2026: The Full-Stack Developer's Guide | Ob](https://observeinfo.com/articles/software-engineering/architectural-patterns-for-the-2026-full-stack-landscape-a-definitive-guide) | kw: Architectural, Patterns, Full, Stack, Developer's
+- **2026-06-15** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best, Practices, docs.gitscrum.com
+- **2026-06-15** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns, Mastering
+
 - **2026-06-15** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures, 2026
 - **2026-06-15** | [10 Software Architecture Patterns Engineers Need in 2026](https://blog.patoliyainfotech.com/software-architecture-patterns-guide) | kw: Software, Architecture, Patterns, Engineers
 - **2026-06-15** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture, Patterns

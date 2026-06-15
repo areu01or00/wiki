@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python - Python Internals: Memory Management & the Global Interpreter ](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals, Memory, Management
+- **2026-06-15** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, Python, Guide, Edugators
+- **2026-06-15** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: Python, Backend, Performance, odysse.io
+- **2026-06-15** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management, Internals, Majidbasharat
+- **2026-06-15** | [Python In-Depth — Memory Management in Python (GIL and Profiling) | by](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Python, Depth, Memory, Management, Python
+- **2026-06-15** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Python, Free, Threading, Experimental, Python
+- **2026-06-15** | [「Python 3.13」が正式版に ～「GIL」無効のスレッド並列実行ビルドを実験的に追加 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/1629636.html) | kw: 
+
 - **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory, Management
 - **2026-06-15** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, Python, Guide
 - **2026-06-15** | [Memory Management in Python 2026 – Best Practices for Efficient Code](https://www.pyinns.com/python/efficient-code/memory-management-python-2026-efficient-code) | kw: Memory, Management, Python, 2026
