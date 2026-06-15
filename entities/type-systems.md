@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating the language
+- **2026-06-15** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] efficient selection
+- **2026-06-15** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: gradual typing with
+- **2026-06-15** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From \| Notes from Yoichi Ozaki](https://yoichiozaki.github.io/en/blog/type-systems) | kw: a deep dive
+
 - **2026-06-15** | [TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: TypeScript
 - **2026-06-15** | [A Deep Dive into Type Systems - What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: A
 

@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Top 100 LeetCode Coding Interview Questions (2025 Edition) \| Shadecoder](https://www.shadecoder.com/blogs/top-100-leetcode-coding-interview-questions-%282025-edition%29) | kw: top 100 leetcode
+- **2026-06-15** | [NeetCode \| Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: neetcode \| coding
+- **2026-06-15** | [Most Frequent Google Interview Questions on LeetCode: r/leetcode](https://www.reddit.com/r/leetcode/comments/1h886z6/most_frequent_google_interview_questions_on) | kw: most frequent google
+- **2026-06-15** | [8 patterns to solve 80% Leetcode problems - YouTube](https://www.youtube.com/watch?v=xo7XrRVxH8Y) | kw: 8 patterns to
+- **2026-06-15** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: how to prepare
+
 - **2026-06-15** | [Python Interview Preparation: LeetCode Prep and Templates](https://thomasngoswe.com/2026/03/05/python-leetcode-prep) | kw: Python
 - **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How
 - **2026-06-15** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms

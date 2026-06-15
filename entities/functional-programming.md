@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust \| PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional programming in
+- **2026-06-15** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: all about monads
+- **2026-06-15** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: the practical value
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: does rust support
+- **2026-06-15** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt/) | kw: demystifying monads in
+- **2026-06-15** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials/) | kw: functional programming a
+- **2026-06-15** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: monads are omnipresent
+- **2026-06-15** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell guide [2026]
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: how i learned
+
 - **2026-06-15** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads
 - **2026-06-15** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads
 - **2026-06-15** | [Nauths - Practical uses of monads in Haskell](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: Nauths
