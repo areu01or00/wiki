@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [LeetCode Questions Asked in Google 2026 - PA](https://papersadda.com/article/leetcode-questions-google-2026) | kw: LeetCode, Questions, Asked, Google, 2026 | source: papersadda.com
+- **2026-06-15** | [LeetCode Interview Questions: Top Patterns by Company (2026) | InterviewPilot](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode, Interview, Questions, Top, Patterns | source: interviewpilot.dev
+- **2026-06-15** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures, LeetCode, Preparation | source: archman.dev
+- **2026-06-15** | [DSA Problem - 25,000+ Data Structures & Algorithms Questions](https://dsaproblem.com/) | kw: DSA, Problem, 25000, Data, Structures | source: dsaproblem.com
+
 - **2026-06-15** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Top, DSA, Interview, Questions, Discuss
 - **2026-06-15** | [Top 20 LeetCode Questions You Must Know in 2026 | Interview AiBox](https://interviewaibox.co/en/blog/top-20-leetcode-questions-you-must-know-2026) | kw: Top, LeetCode, Questions, You, Must
 - **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet, Crack, Interviews

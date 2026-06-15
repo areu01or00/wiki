@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming, Paradigm, Shift, Distributed, Systems | source: gabogil.com
+- **2026-06-15** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide, 2026, Scalable | source: tktips.org
+- **2026-06-15** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture, Patterns, GitScrum | source: docs.gitscrum.com
+- **2026-06-15** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns, 2026, Mastering | source: andrewhansen.au
+- **2026-06-15** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns, Distributed, Systems, Complete, Roadmap | source: chanhle.dev
+- **2026-06-15** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three, Bold, Predictions, Distributed, Systems | source: axoniq.io
+- **2026-06-15** | [Distributed System Design: the complete guide to building scalable systems](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design, complete, guide | source: grokkingthesystemdesign.com
+- **2026-06-15** | [Architecture Styles in Distributed Systems](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems) | kw: Architecture, Styles, Distributed, Systems | source: geeksforgeeks.org
+- **2026-06-15** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future, HighPerformance, Distributed, Systems, Trends | source: ponick.wordpress.com
+- **2026-06-15** | [Distributed architecture patterns | Google Cloud Documentation](https://docs.cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/distributed-patterns) | kw: Distributed, architecture, patterns, Google, Cloud | source: Google Cloud
+
 - **2026-06-15** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide, Scalable, Architecture
 - **2026-06-15** | [Edge Computing Trends 2026: The Rise of Distributed...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge, Computing, Trends, The, Rise
 - **2026-06-15** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best, Practices

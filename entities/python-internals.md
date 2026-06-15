@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Python, Works, Under, Hood, Memory | source: pythoncompiler.io
+- **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, Hood, Python, Internals, Optimization | source: habibullah.dev
+- **2026-06-15** | [Pythons GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Pythons, GIL, Gone, Actually, Means | source: Plain English
+- **2026-06-15** | [Python Memory Management Internals | by Majidbasharat](https://medium.com/%40majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management, Internals, Majidbasharat | source: Medium
+- **2026-06-15** | [Python In-Depth - Memory Management in Python (GIL and Profiling)](https://medium.com/%40arjundahal/python-in-depth-memory-management-in-python-gil-and-profiling-7b5c74e186e3) | kw: Python, InDepth, Memory, Management, Python | source: Medium
+- **2026-06-15** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/%40Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: Global, Interpreter, Lock, GIL, Python | source: Medium
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future, Python, Internals, Exploring, GIL | source: developers-heaven.net
+- **2026-06-15** | [Mojo's Ownership System: How a 35-Year-Old Memory Management Pattern Became the Secret Weapon Against the GIL](https://devops-geek.net/nerd-space/mojo-s-ownership-system-how-a-35-year-old-memory-management-pattern-became-the-secret-weapon-against) | kw: Mojos, Ownership, System, 35YearOld, Memory | source: devops-geek.net
+
 - **2026-06-15** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The, GIL, Finally, Python, BirJob
 - **2026-06-15** | [Global Interpreter Lock (GIL) in Python: Past, Present, and ...](https://igorpejic.com/posts/gil) | kw: Global, Interpreter, Lock, and
 - **2026-06-15** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, Python, Guide, Edugators

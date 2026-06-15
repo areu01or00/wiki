@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Monads in Haskell - DEV Community](https://dev.to/bekbrace/monads-in-haskell-1p8i) | kw: Monads, Haskell, DEV, Community | source: dev.to
+- **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Its, Finest, Haskell | source: pctechmag.com
+- **2026-06-15** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday, Morning, Haskell | source: mmhaskell.com
+- **2026-06-15** | [The Practical Value of Functional Programming - Monad, Haskell, Elixir, Erlang, Gleam, Effect-TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional, Programming, Monad | source: youngju.dev
+- **2026-06-15** | [haskell-monads-2026/README.md - nsu-syspro](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: haskellmonads2026READMEmd, nsusyspro | source: github.com/nsu-syspro
+- **2026-06-15** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, 2026, Functional, Programming | source: precisionaiacademy.com
+- **2026-06-15** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, MonadLike, Patterns, Rust, Exploring | source: softwarepatternslexicon.com
+
 - **2026-06-15** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads, are, Omnipresent, Rust, bertiqwerty
 - **2026-06-15** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical, uses, monads, Haskell
 - **2026-06-15** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: All, About, Monads, HaskellWiki

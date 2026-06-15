@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language, Landscape, Typing | source: pookietech.com.ng
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type, Annotations, Performance | source: programming-journal.org
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing, Has, Been | source: braindetox.kr
+- **2026-06-15** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual, Typing, Functional, Languages | source: scheme2006.cs.uchicago.edu
+- **2026-06-15** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, Inference | source: cs.cmu.edu
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (arXiv)](https://arxiv.org/abs/2603.05649) | kw: Efficient, Selection, Type, Annotations, Performance | source: arxiv.org
+- **2026-06-15** | [Gradual Typing - people.csail.mit.edu](https://people.csail.mit.edu/feser/pld-s23/gradual_typing.html) | kw: Gradual, Typing, peoplecsailmitedu | source: csail.mit.edu
+
 - **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer ...](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations, for, Gradual, Typing, Khoury
 - **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type, Theory
 - **2026-06-15** | [LLM Inference Optimization: Cut Cost & Latency at Every Layer](https://www.morphllm.com/llm-inference-optimization) | kw: LLM, Inference, Cut, Cost, Latency
