@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Master Data Structures & Algorithms.
+- **2026-06-15** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Interview format at Meta, Amazon, Apple, Netflix, Google.
+- **2026-06-15** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: Master arrays, linked lists, trees, graphs.
+- **2026-06-15** | [Hitesh Choudhary - DSA with Python](https://hacksnation.com/d/42372-hitesh-choudhary-dsa-with-python) | kw: Analyze algorithms through asymptotic notations.
+- **2026-06-15** | [Top 100+ Data Structure Interview Questions and Answers 2026](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: Most commonly asked data structure interview questions.
+
 - **2026-06-15** | [DSA Practice - Interview Questions - workat.tech](https://workat.tech/problem-solving/practice/topics) | kw: Practice
 - **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare
 

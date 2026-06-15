@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Rust is widely celebrated for its emphasis on memory safety.
+- **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Haskell's type class system enables expressive and safe abst
+- **2026-06-15** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Why pure functional programming matters.
+- **2026-06-15** | [The Practical Value of Functional Programming - Monad Deep Dive Guide](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: What React Hooks, Redux, RxJS, Swift, Rust, and Kotlin share
+- **2026-06-15** | [monadify - Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: Rust library for common functional programming constructs.
+
 - **2026-06-15** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell
 - **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional
 - **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does

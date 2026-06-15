@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python handles memory automatically.
+- **2026-06-15** | [Memory Management & GIL: Python Guide 2026 | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Learn Memory Management & GIL.
+- **2026-06-15** | [Pythons GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: CPython 3.13 ships with experimental free-threading.
+- **2026-06-15** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: GIL has been a notorious bottleneck.
+- **2026-06-15** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: The nature of the Global Interpreter Lock.
+- **2026-06-15** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: The GIL is a mutex in CPython.
+- **2026-06-15** | [Python NoGIL in 2026: True Multithreading for AI Workloads](https://techscriipt.substack.com/p/python-nogil-in-2026-true-multithreading) | kw: True multithreading without the GIL.
+
 - **2026-06-15** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Python
 - **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under
 - **2026-06-15** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python

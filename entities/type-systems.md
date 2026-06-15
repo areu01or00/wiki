@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: New technique to select a subset of type annotations.
+- **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Type inference is the process of automatically inferring the
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance - programming-journal.org](https://programming-journal.org/2026/11/3/) | kw: New technique to select a subset of type annotations.
+- **2026-06-15** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Type system that allows for both static typing and dynamic t
+- **2026-06-15** | [TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: TypeScript type system.
+
 - **2026-06-15** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3) | kw: Efficient
 - **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise
 - **2026-06-15** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type

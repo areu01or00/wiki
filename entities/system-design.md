@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: Master load balancing algorithms and caching strategies.
+- **2026-06-15** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: 10 most critical distributed system design patterns.
+- **2026-06-15** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: The global landscape of software development is not just evo
+- **2026-06-15** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: The convergence of edge computing, AI/ML inference, and glob
+- **2026-06-15** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Understanding the critical architectural patterns and best p
+- **2026-06-15** | [2026 Edge AI Technology Report: Trends, Signals & Strategic Insights](https://www.mapegy.com/reports/edge-ai-technology-report) | kw: The 2026 Edge AI Technology Report.
+
 - **2026-06-15** | [Top 10 Software Architecture Patterns to Follow in 2026](https://www.moontechnolabs.com/blog/software-architecture-patterns) | kw: Software
 - **2026-06-15** | [10 Software Architecture Patterns Engineers Need in 2026](https://blog.patoliyainfotech.com/software-architecture-patterns-guide) | kw: Software
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System

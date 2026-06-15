@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, Turbofan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM's dominance, V8's 4-tier JIT, Hidden Classes and Inline
+- **2026-06-15** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-Based Binary Translation](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026/) | kw: Register allocation is a critical performance lever in dynam
+- **2026-06-15** | [compiler-course-2026/BuildingAJIT1.rst at course-spring-2026 - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building a JIT: Starting out with KaleidoscopeJIT
+- **2026-06-15** | [compiler-course-2026/BuildingAJIT3.rst - 4elodoy-Molovek](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: Chapter 3 of the Building an ORC-based JIT in LLVM tutorial.
+- **2026-06-15** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM can provide the middle layers of a complete compiler sy
+- **2026-06-15** | [compiler-course-2026/BuildingAJIT1.rst - Georghinho](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Introduce you to LLVM's ORC JIT APIs.
+- **2026-06-15** | [Session Details: 2026 European LLVM Developers Meeting](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: The talk introduces work on enabling features.
+- **2026-06-15** | [compiler-course-2026/BuildingAJIT1.rst - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Implementation of a JIT compiler using LLVM's ORC APIs.
+
 - **2026-06-15** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: Compilation
 - **2026-06-15** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
 
