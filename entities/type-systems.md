@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language
+- **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
+- **2026-06-15** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia
+- **2026-06-15** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual, Typing, Functional
+- **2026-06-15** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, Inference
+
 - **2026-06-15** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type
 - **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer ...](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations
 - **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives | NSF Public Access Repository](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual

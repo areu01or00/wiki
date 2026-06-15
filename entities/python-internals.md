@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals:
+- **2026-06-15** | [Global Interpreter Lock (GIL) in Python: Past, Present, and Future](https://igorpejic.com/posts/gil) | kw: Global, Interpreter, Lock
+- **2026-06-15** | [Python 3.14 Free-Threading and Experimental JIT: How Python Changes in 2026](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python, 3.14, Free-Threading
+- **2026-06-15** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter)](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, Controversy:, Multi-Core
+- **2026-06-15** | [Python Memory Management Internals | by Majidbasharat](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python, Memory, Management
+
 - **2026-06-15** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
 - **2026-06-15** | [Python Complete Guide | CPython Internals· GIL](https://pkglog.com/en/blog/python-complete-guide) | kw: Python
 - **2026-06-15** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: Python

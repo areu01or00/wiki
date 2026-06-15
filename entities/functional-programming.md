@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad-Like, Patterns
+- **2026-06-15** | [Rust1.74で追加された機能を使ってモナドを作ってみる](https://zenn.dev/hanao/articles/b16b7460e801f5) | kw: Rust1.74で追加された機能を使ってモナドを作ってみる
+- **2026-06-15** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: Rust, で柔軟な, 式とモナドを使うために作った幾つかのもの
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support
+- **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Finest:
+- **2026-06-15** | [The Practical Value of Functional Programming — Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView (2025)](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional
+- **2026-06-15** | [Notes on Haskell Programming (Part 37): On understanding the practicality of Monad](https://www.kianmeng.org/2026/01/notes-on-haskell-programming-part-37-on.html) | kw: Notes, Haskell, Programming
+- **2026-06-15** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell, Guide, [2026]:
+
 - **2026-06-15** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: Gentle
 - **2026-06-15** | [Monads in Haskell - DEV Community](https://dev.to/bekbrace/monads-in-haskell-1p8i) | kw: Monads
 - **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional
