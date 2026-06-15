@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Type inference](https://groups.seas.harvard.edu/courses/cs152/2026sp/lectures/lec16-typeinference.pdf) | kw: Type inference | profile: type-systems
+
 - **2026-06-15** | [Understanding Graduality in Programming Languages through Embedding Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding Graduality in Programming Languages through Embedding Projection P | profile: type-systems
 - **2026-06-15** | [Typed and Confused: Studying the Unexpected Dangers of Gradually Typed Code](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed and Confused: Studying the Unexpected Dangers of Gradually Typed Code | profile: type-systems
 - **2026-06-15** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type system concepts - typing documentation | profile: type-systems
