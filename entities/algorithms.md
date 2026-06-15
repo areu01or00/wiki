@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [FAANG Interview Questions](https://workat.tech/problem-solving/lists/faang-interview-questions/practice) | kw: FAANG, Interview, Questions
+- **2026-06-15** | [Top 50 DSA Interview Questions (2026)](https://www.guru-sishya.in/dsa-interview-questions) | kw: Top, DSA, Interview, Questions
+- **2026-06-15** | [Cracking The Coding Interview With System Design And Data Structures Interview Questions](https://logicmojo.com/top-7-dsa-courses-for-faang) | kw: Cracking, Coding, Interview, System, Design
+
 - **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, Crack
 - **2026-06-15** | [Learning advanced LeetCode strategies: An essential guide](https://learningdaily.dev/learning-advanced-leetcode-strategies-an-essential-guide-fc1b9e633e84) | kw: Learning, advanced, LeetCode
 - **2026-06-15** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: Learn, LeetCode, Free

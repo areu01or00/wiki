@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Haskell Language](https://www.haskell.org/) | kw: Haskell, Language
+- **2026-06-15** | [The Complete Haskell Guide: From Zero to Expert - kodikra](https://www.kodikra.com/2026/03/the-complete-haskell-guide-from-zero-to.html) | kw: Complete, Haskell, Guide, Zero, Expert
+- **2026-06-15** | [The Philosophy of Immutability: Why Functional Programming Prevents Whole Classes of Bugs](https://www.javacodegeeks.com/2026/02/the-philosophy-of-immutability-why-functional-programming-prevents-whole-classes-of-bugs.html) | kw: Philosophy, Immutability, Functional, Programming, Prevents
+
 - **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support
 - **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Through, Haskell
 - **2026-06-15** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, Omnipresent, Rust

@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [CPython Bytecode Interpreter Deep Dive — ceval.c, Specializing Adaptive, PEP 659, Copy-and-Patch JIT](https://www.youngju.dev/blog/culture/2026-04-15-cpython-bytecode-interpreter-ceval-specializing-adaptive-jit-deep-dive-guide-2025.en) | kw: CPython, Bytecode, Interpreter, Deep, Dive
+
 - **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Memory, Management
 - **2026-06-15** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, Python
 - **2026-06-15** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, Parallelism, Remains

@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Introduction to Type Systems](https://medium.com/@asverma314/introduction-to-type-systems-8cf264046ed7) | kw: Introduction, Type, Systems
+- **2026-06-15** | [[TYPES/announce] TYPES 2026 Call for Contributions](https://lists.seas.upenn.edu/pipermail/types-announce/2025/012145.html) | kw: TYPES, announce, TYPES, Call, Contributions
+- **2026-06-15** | [TypeScript Type Inference: A Comprehensive Guide](https://medium.com/@sahil90085/typescript-type-inference-a-comprehensive-guide-40c888c6d78f) | kw: TypeScript, Type, Inference, Comprehensive, Guide
+- **2026-06-15** | [TYPES 2026: Programme](https://types2026.cse.chalmers.se/programme.html) | kw: TYPES, Programme
+
 - **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
 - **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, Language, Typing
 - **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual, Typing, Micro
