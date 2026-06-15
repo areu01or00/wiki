@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [LeetCode Medium](https://leetcode.com/problemset?difficulty=MEDIUM) | kw: LeetCode, Medium | profile: algorithms
+
 - **2026-06-15** | [Data Structures Interview Questions: The Complete 2026 Guide - PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview, Questions, The | profile: algorithms
 - **2026-06-15** | [Best Coding Practice Platforms and Challenge Websites in 2026 - Scrimba](https://scrimba.com/articles/best-coding-practice-platforms-and-challenge-websites-in-2026) | kw: Best, Coding, Practice, Platforms, Challenge | profile: algorithms
 - **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan - CareerLift](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How, Prepare, Coding, Interview, The | profile: algorithms
