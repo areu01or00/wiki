@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | source: type-systems
+- **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | source: type-systems
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTec](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | source: type-systems
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | source: type-systems
+- **2026-06-15** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | source: type-systems
+- **2026-06-15** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | source: type-systems
+- **2026-06-15** | [[PDF] Position Paper: Performance Evaluation for Gradual Typing](http://www.ccs.neu.edu/home/asumu/papers/stop15-tfgnvf.pdf) | source: type-systems
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - Brai](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | source: type-systems
+- **2026-06-15** | [Towards gradual typing: a type-shifting Python language ...](https://essay.utwente.nl/fileshare/file/103410/ntagengerwa_MA_eemcs.pdf) | source: type-systems
+
 - **2026-06-15** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
 - **2026-06-15** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026) | kw: type-systems
 - **2026-06-15** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
