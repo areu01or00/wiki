@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm ...](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating the 2026 Language L
+- **2026-06-15** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual Typing as if Types Mat
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The Rise of Static Typing
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type An
+- **2026-06-15** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing in Type Theory
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type An
+- **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer ...](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing
+- **2026-06-15** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems ...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic Typing
+- **2026-06-15** | [A Deep Dive into Type Systems — What Static Typing Really ...](https://yoichiozaki.github.io/en/blog/type-systems) | kw: A Deep Dive into Type Systems
+
 - **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type-systems
 - **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer Science](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: type-systems
 - **2026-06-15** | [Gradual Typing - Language Design and Implementation (ANU)](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: type-systems

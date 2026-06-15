@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming at Its 
+- **2026-06-15** | [The Practical Value of Functional Programming — Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView (2025) | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functio
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads
+- **2026-06-15** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic) | kw: monadic
+- **2026-06-15** | [A Rust Design Pattern for Linear Types - tutorials - The Rust Programming Language Forum](https://users.rust-lang.org/t/a-rust-design-pattern-for-linear-types/140567) | kw: A Rust Design Pattern for Line
+- **2026-06-15** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: Practical uses of monads in Ha
+
 - **2026-06-15** | [Rust で柔軟な do 式とモナドを使うために作った幾つかのもの](https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust) | kw: functional-programming
 - **2026-06-15** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt) | kw: functional-programming
 - **2026-06-15** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional-programming

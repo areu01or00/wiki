@@ -135,7 +135,7 @@
         "Ultimate",
         "GOTO",
         "Circuit Breakers",
-        "—",
+        "\u2014",
         "Interview",
         "AcademySoftwareFoundation/OpenShadingLanguage",
         "typing",
@@ -380,10 +380,6 @@
         "Cloud Native Architecture in 2026"
       ],
       "last_result_hashes": [
-        "64e900ff8986f325e4783fe3286a829d",
-        "848a06554e3ca137e425aa0a6367b703",
-        "3d924683b109e99c93d7ba785e0c7ab0",
-        "a32f5e69dda6ec0341e27ea3247983fc",
         "e9d45130824f67775300df37d0b653d5",
         "8282bc38c31cae78de009daeeac96471",
         "2d3339fbcb04e9f626d884e03958e8d3",
@@ -399,9 +395,13 @@
         "0bccdfeceeee7664c4e61f75605f9f8f",
         "056b14e78a14af65a4d0ae47a4e64443",
         "bd6d89c4841adea96463288a3209ceb2",
-        "5be977a41617386923b3a8cd882f45f2"
+        "5be977a41617386923b3a8cd882f45f2",
+        "89a56d75eb44a5b6b6e7751656a45c91",
+        "4ab0a2ddf18264d4a022c029d9ec2e59",
+        "54449127c5a919ced70c6b4477340a18",
+        "3139bf58d0c715288ff68830b4aecc2f"
       ],
-      "last_run": "2026-06-15 10:32 UTC"
+      "last_run": "2026-06-15 11:02 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -524,7 +524,7 @@
         "How",
         "monads",
         "Ultimate",
-        "—",
+        "\u2014",
         "Interview",
         "AcademySoftwareFoundation/OpenShadingLanguage",
         "Experimental",
@@ -596,7 +596,7 @@
         "BuildingAJIT",
         "Andrew",
         "Plugin",
-        "·",
+        "\u00b7",
         "Runtimes",
         "Corpus",
         "TypeScript",
@@ -784,14 +784,6 @@
         "compiler-course-2026/BuildingAJIT1.rst (RomanPikho"
       ],
       "last_result_hashes": [
-        "c7fa900ba44e0c0cbd0ef9202f44462f",
-        "b86eb07f5a984fccae1bb38c4d48f846",
-        "0470167cda0b8ace44506e8158e0fc2c",
-        "191137fb0d9c6770341ad41eba235f6e",
-        "dd5720c27d83d44842b76dbeb43d55a0",
-        "152e0628233391fd4da3d69e86b07bac",
-        "6db862fe51d451f843740a283b03f648",
-        "0b416e130b877388ced2045133b5a906",
         "509578727b16453db64dc213a762f5d3",
         "8bcfdca2b04cf27a62fc43a095dc4347",
         "502da8d51772c051dea37ab5026d0ffc",
@@ -803,9 +795,17 @@
         "4527bc27f773b096abd98fcdf23f0bcf",
         "6e76d5990761a54f756d319e37fddbb0",
         "6a442cd72410d86402e702cef93fd79c",
-        "5cefefefe6afc297697ed1187181b6a1"
+        "5cefefefe6afc297697ed1187181b6a1",
+        "d1fd932d1da3adfb0dbab8bdc1cf0621",
+        "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
+        "a888bd8966b306914c973b55ba7dd171",
+        "7ed9cf6296b93bcd1574511795e44641",
+        "14bec6c679203be13206205a9edb80d7",
+        "39a1fca28592350020e5f300331e95c1",
+        "494295015460af3a1beef7f2fcade32b",
+        "d0022058930e1b7967d9c9a48ba094b5"
       ],
-      "last_run": "2026-06-15 10:32 UTC"
+      "last_run": "2026-06-15 11:02 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -937,7 +937,7 @@
         "Confused",
         "Ultimate",
         "monads",
-        "—",
+        "\u2014",
         "people.csail.mit.edu",
         "Interview",
         "MIT",
@@ -1124,7 +1124,7 @@
         "Papers)",
         "Revolution",
         "Inferen",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "Page",
         "Design",
         "DSA",
@@ -1199,15 +1199,6 @@
         "Gradual typing - Wikipedia"
       ],
       "last_result_hashes": [
-        "515297cd90212e0cede68efcec1af7d9",
-        "05e87cbef36cd8edbadc65c13cd2b4af",
-        "7e58202d901d88fd843521c2cb440e69",
-        "5b2a310af3624fe5c8840aaca4c5f195",
-        "4a101114e3b691c4671d64770c39c052",
-        "1e484b676196f4200bbad4a9332e0763",
-        "ab7880da22541ae31f88de50cfec9bd5",
-        "94aeeac4743ae8deb7aa5932ebfa086d",
-        "88dfcf74de33a1e88c9e9c90d0e55f9b",
         "aed83b8609c4241507793aec881bc6ba",
         "4747acc28c47e6defdb3fe184bf0fb20",
         "aa2f3be76632e120f0f252da09afe144",
@@ -1218,9 +1209,18 @@
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "2afdb66281586ecfeb0415fd53f99efe",
         "f3bd48b9c1aeabf43ca319c2156481b4",
-        "a1ca24776a08853cc1e7da999134ea13"
+        "a1ca24776a08853cc1e7da999134ea13",
+        "ae032a867b9b19330f8a2e6fd1f55435",
+        "3326193b269b65058b9975cd44e12d99",
+        "99590db6081bbcae86c8faccd0d7102f",
+        "30184474cbabe9b0940989a98cab3fd8",
+        "796dd8fb9f6369a2e77f75139af26f3c",
+        "37ffd58453521e02c05e593eedaf102e",
+        "2e003e461daed4b348476a87428d0b20",
+        "6914e3efa8cd0196404fa586fa460273",
+        "a0596ecd21f12635bc1fe55f811950e9"
       ],
-      "last_run": "2026-06-15 10:32 UTC"
+      "last_run": "2026-06-15 11:02 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1333,7 +1333,7 @@
         "Constructs",
         "Functional Programming 2026",
         "Tuncay",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Structures",
         "Hwan",
         "Understanding",
@@ -1344,7 +1344,7 @@
         "monads",
         "Rust-Style",
         "Ultimate",
-        "—",
+        "\u2014",
         "Interview",
         "could",
         "Syntactic",
@@ -1414,7 +1414,7 @@
         "anyway",
         "Andrew",
         "Docs",
-        "·",
+        "\u00b7",
         "Immutability",
         "MON",
         "Where",
@@ -1615,18 +1615,12 @@
         "haskellmonads2026READMEmd",
         "nsusyspro",
         "MonadLike",
-        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
+        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "Demystifying monads in Rust through property-based",
         "Haskell Guide 2026",
         "Monads are Omnipresent in Rust - bertiqwerty"
       ],
       "last_result_hashes": [
-        "cb3451b58dc0de64c4abaf6248054b44",
-        "4b4796ee19e29657685f0e450cd0a76b",
-        "93289bda0ee3bc35ac27ca346fc517e5",
-        "1e23347071bace94cd96516373fa7b4d",
-        "84a94a6f557d1cfadfc9f5ce9825b1a5",
-        "2f8682e7b8a7d5391314ef337c2c252f",
         "2d0172ebccda64582376a21ea4504909",
         "449f1936d11b3408b5111b8fbfc6e205",
         "79cd05ad2ea3b4a8f88864da5ba58578",
@@ -1640,9 +1634,15 @@
         "8cad2ca65a197281001d621c47c96e6e",
         "619445cf59810e703603ef4f268058ee",
         "6d3dfde8726e7d53189d96c61d618c19",
-        "507d0954b1c28a4ea253d1bfcfbd1b35"
+        "507d0954b1c28a4ea253d1bfcfbd1b35",
+        "ff8e7aa82463ab8acd416101b1a2e680",
+        "05f78a63effd3cb70fd2487248654047",
+        "fe6aed26b337f1993ecc4097fa829089",
+        "f8e90a2f2f95996adc8ec28b50f11c2e",
+        "f240026b368f95f54c1c6806ecbbad67",
+        "a3493ff266b17fc6ca7d44bed6e59213"
       ],
-      "last_run": "2026-06-15 10:32 UTC"
+      "last_run": "2026-06-15 11:02 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1887,7 +1887,7 @@
         "GeeksforGeeks",
         "upGrad",
         "Global",
-        "Java面试学习",
+        "Java\u9762\u8bd5\u5b66\u4e60",
         "system",
         "Blind",
         "Present",
@@ -2019,9 +2019,6 @@
         "Data Structures & Algorithms Roadmap 2026 - The Tu"
       ],
       "last_result_hashes": [
-        "27d47f935a44b9765ac562cb7e9795ce",
-        "4a3b572c1b432c622eff59bd89faf947",
-        "b374c779c101dd010d1f2ed0450afdee",
         "9130b679ba352f107fe0f2646ccab1f7",
         "7e9fdd8c2ffc71a23e29276c3701990a",
         "a91ea3f0cb222681f24ad35701f24675",
@@ -2038,9 +2035,12 @@
         "cb0c560e8841e385635126a2a21c8684",
         "eac128746ce43597ebff2f84aa42b62c",
         "60233ba12f224764b5938c3634b02e6a",
-        "f381d9425a7fcd1cb715658bf397a62d"
+        "f381d9425a7fcd1cb715658bf397a62d",
+        "37b18b3ee5841dc8d78ef02edf927dc9",
+        "fd122b96f8cdfa3f8ca7564113913fa6",
+        "51bdec45c83dc444c8040f8f04671877"
       ],
-      "last_run": "2026-06-15 10:32 UTC"
+      "last_run": "2026-06-15 11:02 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2192,7 +2192,7 @@
         "Than",
         "Bytecode",
         "Engineers",
-        "Internals·",
+        "Internals\u00b7",
         "Ever",
         "Garrett",
         "2026",
@@ -2405,7 +2405,7 @@
         "Bypassing",
         "Parallel",
         "faster",
-        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
+        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
         "Fast",
         "It?",
         "InDepth",
@@ -2418,15 +2418,6 @@
         "Python 3.14 Free-Threading and Experimental JIT"
       ],
       "last_result_hashes": [
-        "087455b373dbe987da5078283f97a4cb",
-        "7b4d33a48fc204e0cb25e4f1266c7297",
-        "beaef31893811bf93a7c49c5427531ec",
-        "33a76b8033a2df056332eaf8c13f8da1",
-        "de5132226c2f7b43447147c1852bece1",
-        "5a03359aebcf0c5479b8aeb8a4be61bd",
-        "fae0c827c538cc7c63cc17aa7dde9c3c",
-        "23f806669425cddfbb81ceb3202ed519",
-        "f0dff370d1ccbd456d3b1ff6aea6be89",
         "5451f574f8ac7101d4076e3f903cf1d4",
         "993340ba10508d27975679f77e08cd57",
         "8be2c9a2ee28d57c4804948b762f70ce",
@@ -2437,10 +2428,19 @@
         "349b5bc51f13880d861325cbf51da2ec",
         "80cb1ee80342b3950bba93fd2801d04f",
         "931b91b8a8dcbfb92244f3dececaf55b",
-        "6622407c0995983f2e39b7a58720b2ea"
+        "6622407c0995983f2e39b7a58720b2ea",
+        "b52883f4c09c9a3086481dd582e2ea6d",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "aff79aed6e34d3f002b7fa14f5978b75",
+        "b892d3268af415a5d0c10b3cc6cd89bf",
+        "046e853bd980ce38929ddf910697c6de",
+        "35303d2720582e23d49ac77a4490dddd",
+        "c5bd5a016c8ba8115e048908ec0d42f5",
+        "010a77f4453d4d34ea2d3bcabc945890"
       ],
-      "last_run": "2026-06-15 10:32 UTC"
+      "last_run": "2026-06-15 11:02 UTC"
     }
   },
-  "last_run": "2026-06-15 10:32 UTC"
+  "last_run": "2026-06-15 11:02 UTC"
 }

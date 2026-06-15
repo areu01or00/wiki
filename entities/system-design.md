@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Pat
+- **2026-06-15** | [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86) | kw: 9 Software Architecture Patter
+- **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026
+- **2026-06-15** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Dis
+
 - **2026-06-15** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: system-design
 - **2026-06-15** | [10 Software Architecture Patterns Engineers Need in 2026](https://blog.patoliyainfotech.com/software-architecture-patterns-guide) | kw: system-design
 - **2026-06-15** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: system-design
