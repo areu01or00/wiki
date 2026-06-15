@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: type-systems
+- **2026-06-15** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026) | kw: type-systems
+- **2026-06-15** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: type-systems
+- **2026-06-15** | [Gradual Typing - people.csail.mit.edu](https://people.csail.mit.edu/feser/pld-s23/gradual_typing.html) | kw: type-systems
+- **2026-06-15** | [Type Theory and Gradual Typing](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: type-systems
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: type-systems
+
 - **2026-06-15** | [CVPR 2026 Honors the Year's Most Innovative Computer Vision ...](https://www.prnewswire.com/news-releases/cvpr-2026-honors-the-years-most-innovative-computer-vision-and-ai-research-302795723.html) | kw: CVPR
 - **2026-06-15** | [LLM Research Papers: The 2026 List (January to May)](https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1) | kw: LLM
 

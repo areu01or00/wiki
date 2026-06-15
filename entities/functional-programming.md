@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Haskell vs Rust Comparison (2026)](https://appmus.com/vs/haskell-vs-rust) | kw: functional-programming
+- **2026-06-15** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: functional-programming
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: functional-programming
+- **2026-06-15** | [The Practical Value of Functional Programming - Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView (2025)](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+- **2026-06-15** | [A Rust Design Pattern for Linear Types](https://users.rust-lang.org/t/a-rust-design-pattern-for-linear-types/140567) | kw: functional-programming
+
 - **2026-06-15** | [Understanding Monads in Functional Programming: A ...](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Understanding
 - **2026-06-15** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top
 - **2026-06-15** | [Rust — Monday Morning Haskell | Monads Tutorial — Monday ...](https://cqjo.erkaid.de/rust-monday-morning-haskell-monads-tutorial-monday-morning-haskell) | kw: Rust
