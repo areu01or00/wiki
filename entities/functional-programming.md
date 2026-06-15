@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Understanding Monads in Functional Programming: A ...](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Understanding
+- **2026-06-15** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top
+- **2026-06-15** | [Rust — Monday Morning Haskell | Monads Tutorial — Monday ...](https://cqjo.erkaid.de/rust-monday-morning-haskell-monads-tutorial-monday-morning-haskell) | kw: Rust
+
 - **2026-06-15 11:32 UTC** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | source: functional-programming
 - **2026-06-15 11:32 UTC** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | source: functional-programming
 - **2026-06-15 11:32 UTC** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | source: functional-programming

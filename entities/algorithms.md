@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Data
+- **2026-06-15** | [Learning advanced LeetCode strategies: An essential guide](https://learningdaily.dev/learning-advanced-leetcode-strategies-an-essential-guide-fc1b9e633e84) | kw: Learning
+- **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best
+- **2026-06-15** | [Common data structures that pop up in leetcode style interviews?](https://www.reddit.com/r/androiddev/comments/10sqlww/common_data_structures_that_pop_up_in_leetcode) | kw: Common
+
 - **2026-06-15 11:32 UTC** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | source: algorithms
 - **2026-06-15 11:32 UTC** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | source: algorithms
 - **2026-06-15 11:32 UTC** | [Best Coding Practice Platforms and Challenge Websites in 2026](https://scrimba.com/articles/best-coding-practice-platforms-and-challenge-websites-in-2026) | source: algorithms

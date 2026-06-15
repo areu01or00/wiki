@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [CVPR 2026 Honors the Year's Most Innovative Computer Vision ...](https://www.prnewswire.com/news-releases/cvpr-2026-honors-the-years-most-innovative-computer-vision-and-ai-research-302795723.html) | kw: CVPR
+- **2026-06-15** | [LLM Research Papers: The 2026 List (January to May)](https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1) | kw: LLM
+
 - **2026-06-15 11:32 UTC** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | source: type-systems
 - **2026-06-15 11:32 UTC** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | source: type-systems
 - **2026-06-15 11:32 UTC** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | source: type-systems

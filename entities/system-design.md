@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System
+- **2026-06-15** | [Edge Computing Trends 2026: The Rise of Distributed ...](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge
+- **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN ...](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System
+
 - **2026-06-15 11:32 UTC** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | source: system-design
 - **2026-06-15 11:32 UTC** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | source: system-design
 - **2026-06-15 11:32 UTC** | [System Design Guide 2026: Load Balancing, Caching, CDN](https://onlinetools4free.com/research/system-design-guide-2026) | source: system-design
