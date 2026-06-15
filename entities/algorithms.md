@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | source: algorithms
+- **2026-06-15** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | source: algorithms
+- **2026-06-15** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | source: algorithms
+- **2026-06-15** | [Master Data Structures & Algo – Ace Leetcode & Blind 75+ | Coursera](https://www.coursera.org/specializations/packt-master-data-structures-and-algo-ace-leetcode-and-blind-75) | source: algorithms
+- **2026-06-15** | [The Ultimate 14-Week DSA Roadmap to Crack Top Tech Interviews ...](https://careersprinttech.blogspot.com/2026/05/14-week-dsa-roadmap-careersprinttech.html) | source: algorithms
+- **2026-06-15** | [LeetCode Interview Crash Course: Data Structures and ...](https://www.amazon.com/LeetCode-Interview-Crash-Course-Structures-ebook/dp/B0FMR4F63C) | source: algorithms
+
 - **2026-06-15** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding
 - **2026-06-15** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: 100+
 - **2026-06-15** | [Top 30 Data Structures Problems for Technical Interview Preparation](https://www.reddit.com/r/programming/comments/62xwba/top_30_data_structures_problems_for_technical) | kw: Top
