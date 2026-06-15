@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: Jeandle:, Group's, LLVM-Based
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026, chekalexey/compiler-course-2026
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026 · 4elodoy-Molovek/compiler-course-2026](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst, course-spring-2026, 4elodoy-Molovek/compiler-course-2026
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · VALancaster/compiler-course-2026](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026, VALancaster/compiler-course-2026
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026, RomanPikhotskiy/compiler-course-2026
+
 - **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
 - **2026-06-15** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: compilers
 - **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers

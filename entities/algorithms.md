@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: Prepare, Coding, Interview:
+- **2026-06-15** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: prepare, Data, Structures
+- **2026-06-15** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, Coding, Interview
+- **2026-06-15** | [DSA Syllabus (Curriculum): From Basics to Mastery 2026](https://www.wscubetech.com/blog/dsa-syllabus) | kw: Syllabus, (Curriculum):, From
+
 - **2026-06-15** | [Algorithm Challenges on LeetCode Guide - AlgoHay](https://www.algohay.com/blog/algorithm-challenges-on-leetcode-guide) | kw: algorithms
 - **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
 - **2026-06-15** | [GitHub - Devinterview-io/data-structures-interview-questions](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: algorithms

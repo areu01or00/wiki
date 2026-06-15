@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3) | kw: Efficient, Selection, Type
+- **2026-06-15** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual, Typing, Language
+- **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer Science](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations, Gradual, Typing
+- **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives | NSF Public Access Repository](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual, Typing, Performance,
+
 - **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm ...](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type
 - **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type
 - **2026-06-15** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type

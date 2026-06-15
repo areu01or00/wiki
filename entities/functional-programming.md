@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads, Omnipresent, Rust
+- **2026-06-15** | [Understanding Monads in Functional Programming: A Comprehensive Guide](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Understanding, Monads, Functional
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads:, Through
+
 - **2026-06-15** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional
 - **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional
 - **2026-06-15** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: functional

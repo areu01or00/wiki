@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
+- **2026-06-15** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series
+- **2026-06-15** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: Architecture, Styles, Distributed
+- **2026-06-15** | [The Complete System Design Roadmap for 2026](https://designgurus.substack.com/p/the-complete-system-design-roadmap) | kw: Complete, System, Design
+- **2026-06-15** | [Distributed System Design: the complete guide to building scalable systems](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed, System, Design:
+
 - **2026-06-15** | [Edge Computing Patterns in 2026: Global Architecture with Optimized Latency | Imperialis Tech](https://imperialis.tech/en/blog/edge-computing-patterns-2026-global-latency-optimized-architecture) | kw: system
 - **2026-06-15** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: system
 - **2026-06-15** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: system
