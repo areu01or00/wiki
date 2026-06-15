@@ -387,7 +387,7 @@
         "wgt20iriffr",
         "with",
         "|",
-        "\u2014",
+        "—",
         "Service",
         "Mesh",
         "Envoy",
@@ -450,7 +450,7 @@
         "89a56d75eb44a5b6b6e7751656a45c91",
         "0bccdfeceeee7664c4e61f75605f9f8f"
       ],
-      "last_run": "2026-06-15 17:33 UTC"
+      "last_run": "2026-06-15 18:00 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -843,8 +843,8 @@
         "wgt20iriffr",
         "with",
         "|",
-        "\u00b7",
-        "\u2014",
+        "·",
+        "—",
         "Starting",
         "MLIR",
         "Multi-Level",
@@ -910,7 +910,7 @@
         "c4af8481d39e04abd0add84cf5fe51e1",
         "072a4ea9b4afa183036c1c020281a95f"
       ],
-      "last_run": "2026-06-15 17:49 UTC"
+      "last_run": "2026-06-15 18:00 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1239,7 +1239,7 @@
         "Understanding",
         "Unexpected",
         "Unification-based",
-        "Uni\ufb01cation-based",
+        "Uniﬁcation-based",
         "Unosquare",
         "Weekly",
         "West",
@@ -1311,7 +1311,7 @@
         "wgt20iriffr",
         "with",
         "|",
-        "\u2014",
+        "—",
         "Annotation Selection",
         "Gradual Performance",
         "Static vs Dynamic 2026",
@@ -1363,7 +1363,7 @@
         "9b44b18e142e2b0c93f12bb920cb2b24",
         "373ba4cfb38bcaf2d94fd8fe7df4fdc4"
       ],
-      "last_run": "2026-06-15 17:33 UTC"
+      "last_run": "2026-06-15 18:00 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1630,9 +1630,9 @@
         "Round",
         "Rust",
         "Rust patterns",
-        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
+        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
         "Rust-Style",
-        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
+        "Rust1.74で追加された機能を使ってモナドを作ってみる",
         "Rust:",
         "RustWeek",
         "SDE",
@@ -1772,8 +1772,8 @@
         "who",
         "wrsturgeon/rsmonad",
         "|",
-        "\u00b7",
-        "\u2014",
+        "·",
+        "—",
         "Filter",
         "Reduce",
         "Effect TS",
@@ -1830,7 +1830,7 @@
         "d8b1bb7ab8b2cbfd3a6ef112b6fd4c63",
         "c297480bc26722751fd6256443431767"
       ],
-      "last_run": "2026-06-15 17:33 UTC"
+      "last_run": "2026-06-15 18:00 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1990,7 +1990,7 @@
         "Introduction",
         "JIT",
         "Java",
-        "Java\u9762\u8bd5\u5b66\u4e60",
+        "Java面试学习",
         "JimengShi/Leetcode-Data-Structures-Algorithms",
         "KING",
         "Katravalli",
@@ -2262,7 +2262,7 @@
         "36c9277e18d0c3f70fb451f11aa6a8d7",
         "490a8cf6382bae7a3385ce11286db761"
       ],
-      "last_run": "2026-06-15 17:49 UTC"
+      "last_run": "2026-06-15 18:00 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2418,9 +2418,9 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals\u00b7",
+        "Internals·",
         "Interpreter",
-        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
+        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
         "Interview",
         "InterviewPilot",
         "Interviews",
@@ -2715,7 +2715,7 @@
         "cc9b7e9ca696d3ed6356ac146599fabd",
         "4d61a9ce45ebd9237092302b193e0f21"
       ],
-      "last_run": "2026-06-15 17:33 UTC"
+      "last_run": "2026-06-15 18:00 UTC"
     }
   }
 }
