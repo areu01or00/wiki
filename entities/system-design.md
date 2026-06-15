@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices, Architecture, Patterns
+- **2026-06-15** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: System, Design, Patterns
+- **2026-06-15** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three, Bold, Predictions
+- **2026-06-15** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: Distributed, Systems, Patterns
+
 - **2026-06-14** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: Guide, System Design
 
 - **2026-06-14** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System

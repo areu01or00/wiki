@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM, 2026, OrcJIT
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+- **2026-06-15** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI-Compiler, Prompt, Engineering
+- **2026-06-15** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: Jeandle, Ant, Group's
+- **2026-06-15** | [LLVM Roadmap for Beginners Explained](https://www.compilersutra.com/docs/llvm/intro-to-llvm) | kw: LLVM, Roadmap, Beginners
+- **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst (RomanPikhotskiy)](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, (RomanPikhotskiy)
+- **2026-06-15** | [LLVM Integration and JIT Compilation | OpenShadingLanguage](https://deepwiki.com/AcademySoftwareFoundation/OpenShadingLanguage/3.1-llvm-integration-and-jit-compilation) | kw: LLVM, Integration, JIT
+
 - **2026-06-14** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
 
 - **2026-06-14** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: JIT

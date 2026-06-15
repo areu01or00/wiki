@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Hello, Haskell: Getting Started in 2026 · lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026) | kw: Hello, Haskell, Getting
+- **2026-06-15** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290) | kw: Pure, Borrow, Linear
+
 - **2026-06-14** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Guide, Functional
 
 - **2026-06-14** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How

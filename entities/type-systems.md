@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type, system, concepts
+- **2026-06-15** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual, Typing, Type
+- **2026-06-15** | [TypeScript Type System | microsoft/TypeScript-Handbook](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: TypeScript, Type, System
+- **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing
+- **2026-06-15** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-15** | [Foundations for Gradual Typing](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations, Gradual, Typing
+- **2026-06-15** | [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp) | kw: Gradual, Typing, Across
+- **2026-06-15** | [gradual-typing-a-new-perspective](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: gradual-typing-a-new-perspective
+
 - **2026-06-14** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Type Systems
 - **2026-06-14** | [TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: Type Systems, System Design
 - **2026-06-14** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Type Systems
