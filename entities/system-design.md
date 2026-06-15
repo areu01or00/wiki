@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Architecting Resilience: The Cloud-Native Architecture Surge of 2025](https://gabogil.com/2025/12/09/architecting-resilience-the-cloud-native-architecture-surge-of-2025) | kw: Architecting, Resilience:, Cloud-Native
+- **2026-06-15** | [Architectural patterns for the cloud](https://www.youtube.com/watch?v=TuZZIGSbFfQ) | kw: Architectural, patterns, cloud
+- **2026-06-15** | [10 Must-Know Cloud Native Architecture Patterns](https://medium.com/%40goyalarchana17/10-must-know-cloud-native-architecture-patterns-b0e608a9363f) | kw: Must-Know, Cloud, Native
+- **2026-06-15** | [Cloud-Native Architecture: Patterns That Transform Enterprises](https://www.accenseo.com/en/insights/architecture-cloud-native-microservices-2025) | kw: Cloud-Native, Architecture:, Patterns
+
 - **2026-06-15** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system-design
 - **2026-06-15** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system-design

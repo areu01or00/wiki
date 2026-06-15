@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [15 LeetCode Patterns That Cover 90% of Coding Interviews](https://copilotinterview.com/blog/leetcode-patterns-for-interviews) | kw: LeetCode, Patterns, Cover
+- **2026-06-15** | [LeetCode Interview Questions: Top Patterns by Company (2026)](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode, Interview, Questions:
+- **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, 2026
+- **2026-06-15** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: Leetcode, Patterns, Sean
+- **2026-06-15** | [LeetCode Patterns That Still Matter in 2026](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode, Patterns, Still
+- **2026-06-15** | [Coding Interviews were HARD, until I learned these Patterns](https://dev.to/somadevtoo/coding-interviews-was-hard-until-i-learned-these-patterns-2ji7) | kw: Coding, Interviews, were
+- **2026-06-15** | [NeetCode](https://neetcode.io/) | kw: NeetCode
+
 - **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
 - **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms
 - **2026-06-15** | [DSA Full Course 2026 | Data Structures & Algorithms Mastery](https://www.youtube.com/watch?v=f2Jd5M0hLJA) | kw: algorithms
