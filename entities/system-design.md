@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems
+- **2026-06-15** | [Distributed Systems | Architecture Patterns](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture
+- **2026-06-15** | [Top Software Architecture Trends for 2026: AI + Edge Computing and the Rise of the Autonomous System](https://medium.com/%40xaylonlabs/top-software-architecture-trends-for-2026-ai-edge-computing-and-the-rise-of-the-autonomous-81a2554fe9fd) | kw: Software, Architecture, Trends
+- **2026-06-15** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: Essential, Distributed, System
+
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Mes](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System, Design, Guide, Load, Balancing
 - **2026-06-15** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutoria](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems, Patterns, Principles
 - **2026-06-15** | [System Design Fundamentals — Scalability, Availability, Caching, and M](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System, Design, Fundamentals, Scalability, Availability
