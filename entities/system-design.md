@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-15** | [Distributed Systems Guide 2026: CAP, Consensus, Replication](https://precisionaiacademy.com/blog/distributed-systems-guide) | kw: Precision, Academy
+
 - **2026-06-15** | [Pattern: Event sourcing](https://microservices.io/patterns/data/event-sourcing.html) | kw: Pattern: Event sourcing | profile: system-design
 
 - **2026-06-15** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Comput | profile: system-design
