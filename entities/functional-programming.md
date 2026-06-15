@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-15** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
+- **2026-06-15** | [The Practical Value of Functional Programming — Monad Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
+- **2026-06-15** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: functional-programming
+- **2026-06-15** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: functional-programming
+- **2026-06-15** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
+- **2026-06-15** | [Demystifying monads in Rust through property-based testing - vuink.com](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: functional-programming
+- **2026-06-15** | [Demystifying monads in Rust through property-based testing - sunshowers.io](https://sunshowers.io/posts/monads-through-pbt) | kw: functional-programming
+
 - **2026-06-15** | [Monads in Haskell - DEV Community](https://dev.to/bekbrace/monads-in-haskell-1p8i) | kw: Monads, Haskell, DEV, Community | source: dev.to
 - **2026-06-15** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Its, Finest, Haskell | source: pctechmag.com
 - **2026-06-15** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday, Morning, Haskell | source: mmhaskell.com

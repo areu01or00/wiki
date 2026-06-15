@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-15** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals
+- **2026-06-15** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals
+- **2026-06-15** | [GIL in Python: What is it and Why Does it Matter?](https://dev.to/dubbyding/gil-in-python-what-is-it-and-why-does-it-matter-d5p) | kw: python-internals
+- **2026-06-15** | [Python 3.14 Free-Threading and Experimental JIT Compiler](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: python-internals
+- **2026-06-15** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python-internals
+
 - **2026-06-15** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Python, Works, Under, Hood, Memory | source: pythoncompiler.io
 - **2026-06-15** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under, Hood, Python, Internals, Optimization | source: habibullah.dev
 - **2026-06-15** | [Pythons GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Pythons, GIL, Gone, Actually, Means | source: Plain English

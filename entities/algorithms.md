@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-15** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
+- **2026-06-15** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation - Udemy](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: algorithms
+- **2026-06-15** | [Top 100 Data Structures Interview Questions in 2026 - Devinterview-io](https://github.com/Devinterview-io/data-structures-interview-questions) | kw: algorithms
+- **2026-06-15** | [59 Essential Searching Algorithms Interview Questions in 2026](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: algorithms
+- **2026-06-15** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: algorithms
+
 - **2026-06-15** | [LeetCode Questions Asked in Google 2026 - PA](https://papersadda.com/article/leetcode-questions-google-2026) | kw: LeetCode, Questions, Asked, Google, 2026 | source: papersadda.com
 - **2026-06-15** | [LeetCode Interview Questions: Top Patterns by Company (2026) | InterviewPilot](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode, Interview, Questions, Top, Patterns | source: interviewpilot.dev
 - **2026-06-15** | [Algorithms & Data Structures (LeetCode Preparation) | ArchMan](https://archman.dev/docs/algorithms-and-data-structures) | kw: Algorithms, Data, Structures, LeetCode, Preparation | source: archman.dev

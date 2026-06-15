@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-15** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: type-systems
+- **2026-06-15** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
+- **2026-06-15** | [arXiv:2603.05649 - Efficient Selection of Type Annotations for Performance](https://arxiv.org/abs/2603.05649) | kw: type-systems
+- **2026-06-15** | [A Deep Dive into Type Systems — What Static Typing Really Protects You From](https://yoichiozaki.github.io/en/blog/type-systems) | kw: type-systems
+- **2026-06-15** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type-systems
+
 - **2026-06-15** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, 2026, Language, Landscape, Typing | source: pookietech.com.ng
 - **2026-06-15** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type, Annotations, Performance | source: programming-journal.org
 - **2026-06-15** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: Rise, Static, Typing, Has, Been | source: braindetox.kr
