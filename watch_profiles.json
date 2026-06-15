@@ -411,7 +411,22 @@
         "Message Queues",
         "Queues Scaling",
         "Scaling OnlineTools4Free",
-        "OnlineTools4Free Research"
+        "OnlineTools4Free Research",
+        "Complete guide covering scalability",
+        "Distributed Systems Best Practices",
+        "Distributed Systems in",
+        "Driven Applications",
+        "Essential for microservices and",
+        "Mastering Distributed Systems Design",
+        "Microservices Architecture Patterns in",
+        "Microservices Architecture for Data",
+        "Microservices architecture patterns and",
+        "Patterns and Best Practices",
+        "The Coming Paradigm Shift",
+        "The Complete Guide",
+        "Three Bold Predictions for",
+        "and consensus algorithms",
+        "and end"
       ],
       "last_result_hashes": [
         "729c2ff54afb3063182d60de7d6aef1c",
@@ -435,7 +450,7 @@
         "89a56d75eb44a5b6b6e7751656a45c91",
         "0bccdfeceeee7664c4e61f75605f9f8f"
       ],
-      "last_run": "2026-06-15 17:17 UTC"
+      "last_run": "2026-06-15 17:33 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -856,7 +871,22 @@
         "LLVM Create",
         "Create Own",
         "Own Programming",
-        "Programming Language"
+        "Programming Language",
+        "BuildingAJIT1",
+        "Compiler with LLVM",
+        "Compilers and Modern Language",
+        "Create Your Own Programming",
+        "DeepWiki Explains LLVM ORC",
+        "Escape Analysis",
+        "Fork of the ORC",
+        "GC lineage",
+        "Go work",
+        "Hidden Classes and Inline",
+        "Inline Caching",
+        "JIT APIs and how",
+        "JIT compilation framework",
+        "JIT tutorial for the",
+        "LLVM dominance"
       ],
       "last_result_hashes": [
         "5a53ef21cd25b6dad15a83f33a29d1da",
@@ -880,7 +910,7 @@
         "a78c2c73c0749267858b7fdad618ab3b",
         "0e37ea17fc9a69e116e589e0bc7f8c79"
       ],
-      "last_run": "2026-06-15 17:17 UTC"
+      "last_run": "2026-06-15 17:33 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1294,7 +1324,22 @@
         "Languages Software",
         "Software Development",
         "Development",
-        "New Programming"
+        "New Programming",
+        "Analysis of typing systems",
+        "Annotations for Performance Improvement",
+        "Back Since the Mid",
+        "BrainDetox Type Inference",
+        "Coding Pressure Toward Types",
+        "Efficient Selection of Type",
+        "Gradual Typing in Type",
+        "In gradual typing",
+        "Language Landscape",
+        "Navigating the",
+        "Static Typing",
+        "The Rise of Static",
+        "Typing and Paradigm Matrix",
+        "Why It Has Been",
+        "and core paradigms for"
       ],
       "last_result_hashes": [
         "e0b53bc19164f029b6b17ca5111e9264",
@@ -1318,7 +1363,7 @@
         "9b44b18e142e2b0c93f12bb920cb2b24",
         "373ba4cfb38bcaf2d94fd8fe7df4fdc4"
       ],
-      "last_run": "2026-06-15 17:17 UTC"
+      "last_run": "2026-06-15 17:33 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1746,7 +1791,22 @@
         "Which Functional",
         "Programming Languages",
         "Languages Should",
-        "Should Learn"
+        "Should Learn",
+        "About Monads",
+        "All About Monads",
+        "Does Rust Support Functional",
+        "Explores Rust support for",
+        "Functional Programming in",
+        "Gentle Introduction to Haskell",
+        "Gleam for networked services",
+        "Gleam vs",
+        "Haskell for expressive type",
+        "Haskell vs",
+        "HaskellWiki Understanding monads in",
+        "PenChef FP has specialized",
+        "Practical uses of monads",
+        "Programming Idioms",
+        "Rust for infrastructure and"
       ],
       "last_result_hashes": [
         "4f8f609bc441b3f6011de06fa3cf5417",
@@ -1770,7 +1830,7 @@
         "d8b1bb7ab8b2cbfd3a6ef112b6fd4c63",
         "c297480bc26722751fd6256443431767"
       ],
-      "last_run": "2026-06-15 17:17 UTC"
+      "last_run": "2026-06-15 17:33 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2163,7 +2223,22 @@
         "Trends Computer",
         "Science Information",
         "Information Technology",
-        "Information"
+        "Information",
+        "ArchMan Master algorithmic problem",
+        "Arrays",
+        "Best DSA Sheet",
+        "Coding Interview Prep",
+        "Data Structures Interview Questions",
+        "Free YouTube Roadmap",
+        "Learn LeetCode",
+        "LeetCode preparation",
+        "Master arrays",
+        "Meta",
+        "OpenAI",
+        "PhantomCodeAI Ten core data",
+        "Prepare for coding interviews",
+        "The Complete",
+        "To Crack Interviews"
       ],
       "last_result_hashes": [
         "09ba1908ae63111d1e15e6d4bafc047c",
@@ -2187,7 +2262,7 @@
         "908e9639f314329b3cfe11313f30b4b5",
         "3a544414208b5f5a89f7e0162f578d65"
       ],
-      "last_run": "2026-06-15 17:17 UTC"
+      "last_run": "2026-06-15 17:33 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2601,7 +2676,22 @@
         "EOL VersionLog",
         "Support",
         "Lifecycle",
-        "VersionLog"
+        "VersionLog",
+        "And Why It Might",
+        "Core Parallelism Remains Broken",
+        "Cyclic GC",
+        "Edugators Memory Management and",
+        "Explores the GIL as",
+        "GIL in Python course",
+        "GIL mutex",
+        "How Python Works Under",
+        "Master the advanced concepts",
+        "Memory Management",
+        "Not Matter",
+        "Python objects",
+        "The Python GIL Controversy",
+        "Under the Hood of",
+        "Understanding these internals helps"
       ],
       "last_result_hashes": [
         "0653a0ae2d9f23716501cd32fda1f97c",
@@ -2625,7 +2715,7 @@
         "cc9b7e9ca696d3ed6356ac146599fabd",
         "4d61a9ce45ebd9237092302b193e0f21"
       ],
-      "last_run": "2026-06-15 17:17 UTC"
+      "last_run": "2026-06-15 17:33 UTC"
     }
   }
 }
