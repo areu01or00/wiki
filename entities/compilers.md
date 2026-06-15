@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-15** | [The LLVM Compiler Infrastructure download | SourceForge.net](https://sourceforge.net/projects/the-llvm-compiler.mirror/) | kw: The, LLVM, Compiler, Infrastructure, download | profile: compilers
+- **2026-06-15** | [What is LLVM? The power behind Swift, Rust, Clang, and more | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What, is, LLVM?, The, power | profile: compilers
+
 
 - **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025) | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers Modern Language | profile: compilers
 - **2026-06-15** | [Perry - The Native TypeScript Compiler That Lowers TS to Native via LLVM](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry Native TypeScript | profile: compilers
