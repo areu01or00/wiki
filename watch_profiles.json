@@ -974,7 +974,6 @@
         "Spark"
       ],
       "last_result_hashes": [
-        "3d3edae06c55110509650bdb536089f7",
         "742efaab24e38475fd7f26174f733cb4",
         "89b86a1e941e3b969577a2a1b4d502ff",
         "16e3015f76b3c17ff2f898bca1982a77",
@@ -993,9 +992,10 @@
         "bbbc8ef4ec78630cae3e49219b742618",
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
         "84ac896e5e54274a8ab008433692d205",
-        "5d54a6ccb3d0ac626462282a4af2e122"
+        "5d54a6ccb3d0ac626462282a4af2e122",
+        "1480847529e160848da4aee3f40eb00a"
       ],
-      "last_run": "2026-06-16T20:48:29.939312+00:00",
+      "last_run": "2026-06-16T21:04:36.963088+00:00",
       "new_sub_topics_this_run": [
         "Gluten",
         "Photon",

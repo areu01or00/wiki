@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [[Compiler] 20. Modern Compiler Development and Applications](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: [Compiler] 20. Modern Compiler Development and Applications | source: compilers
+
 - **2026-06-16** | [The State of Native Execution for Spark: Photon, Gluten, and ...](https://sparkingscala.com/latest/2026/06/12/native-execution-landscape-2026) | kw: The State of Native Execution for Spark: Photon... | source: compilers
 - **2026-06-16** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java | BestHub](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: Based JVM JIT Aims to Supercharge Java | BestHub | source: compilers
 - **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ..](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: course-2026/llvm/docs/tutorial/BuildingAJIT1.rs... | source: compilers
