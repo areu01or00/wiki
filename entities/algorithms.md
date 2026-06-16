@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [LeetCode 75 - Study Plan](https://leetcode.com/studyplan/leetcode-75/) | kw: LeetCode 75 - Study Plan
+
 - **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: auto
 - **2026-06-16** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: auto
 - **2026-06-16** | [GitHub - kashifansari17/Leetcode-TOP-75-: Top 75 DSA ...](https://github.com/kashifansari17/Leetcode-TOP-75-) | kw: auto

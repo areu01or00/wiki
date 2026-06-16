@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [From Manual to Massive: Modern Scalability Patterns for Distributed Systems](https://www.techmuni.dev/2025/11/from-manual-to-massive-modern.html) | kw: From Manual to Massive: Modern Scalability Pattern
+
 - **2026-06-16** | [Patterns of Distributed Systems (Paperback) - tenlong](https://www.tenlong.com.tw/products/9780138221980) | kw: Patterns of Distributed
 
 - **2026-06-16** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: auto

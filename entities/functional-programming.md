@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [The Monadic Way - HaskellWiki](https://wiki.haskell.org/The_Monadic_Way) | kw: The Monadic Way - HaskellWiki
+
 - **2026-06-16** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: auto
 - **2026-06-16** | [Haskell Tutorial for C Programmers - HaskellWiki](https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers) | kw: auto
 - **2026-06-16** | [Understanding Monads](https://nickx.hu/Monads.pdf) | kw: auto
