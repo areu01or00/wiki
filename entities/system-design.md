@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [The Coming Paradigm Shift in Distributed Systems Architecture - Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: The Coming Paradigm Shift in Distributed Systems Architectur | source: gabogil.com | profile: system-design
+
 
 - **2026-06-16** | [System Design Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/system-design) | kw: System Design Roadmap 2026 - Complete Learning Path | profile: system-design
 

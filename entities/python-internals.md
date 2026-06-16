@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 - BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production- | source: birjob.com | profile: python-internals
+- **2026-06-16** | [How Python's Memory Management Works Under the Hood - miydevforge](https://miydevforge.com/blog/how-python-memory-management-works) | kw: How Python's Memory Management Works Under the Hood - miydev | source: miydevforge.com | profile: python-internals
+- **2026-06-16** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - evidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter | source: evidhya.com | profile: python-internals
+- **2026-06-16** | [CPython Memory Management Internals - codingconfessions.com (Abhinav Upadhyay)](https://blog.codingconfessions.com/p/cpython-memory-management-internals) | kw: CPython Memory Management Internals - codingconfessions.com  | source: blog.codingconfessions.com | profile: python-internals
+- **2026-06-16** | [Under the Hood of Python: Internals, Optimization, and Modern Features - habibullah.dev](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under the Hood of Python: Internals, Optimization, and Moder | source: blog.habibullah.dev | profile: python-internals
+- **2026-06-16** | [How Python's GIL Actually Works (And Why It Exists) - miydevforge](https://miydevforge.com/blog/how-python-gil-works) | kw: How Python's GIL Actually Works (And Why It Exists) - miydev | source: miydevforge.com | profile: python-internals
+
 - **2026-06-16** | [CPython's internals](https://devguide.python.org/internals) | kw: CPython, internals | source: python.org | profile: python-internals
 - **2026-06-16** | [CPython Internals: Your Guide to the Python 3 Interpreter](https://static.realpython.com/cpython-internals-sample-chapters.pdf) | kw: CPython, Internals, Python, Interpreter | source: realpython.com | profile: python-internals
 - **2026-06-16** | [Cpython v3.14.0 Release - GitClear](https://www.gitclear.com/open_repos/python/cpython/release/v3.14.0) | kw: Cpython, Release, GitClear | source: gitclear.com | profile: python-internals

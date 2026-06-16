@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Type system concepts - typing documentation (Python)](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type system concepts - typing documentation (Python) | source: typing.python.org | profile: type-systems
+- **2026-06-16** | [Gradual Typing with Inference - Jeremy Siek slides](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with Inference - Jeremy Siek slides | source: cs.cmu.edu | profile: type-systems
+- **2026-06-16** | [Gradual Typing - Language Design and Implementation - ANU](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual Typing - Language Design and Implementation - ANU | source: comp.anu.edu.au | profile: type-systems
+- **2026-06-16** | [Design and Evaluation of Gradual Typing for Python - Vitousek et al.](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: Design and Evaluation of Gradual Typing for Python - Vitouse | source: jsiek.github.io | profile: type-systems
+
 - **2026-06-16** | [Advanced Type Systems in Programming](https://kindatechnical.com/advanced-type-systems/principles-of-designing-type-systems.html) | kw: Advanced, Type, Systems | source: kindatechnical.com | profile: type-systems
 - **2026-06-16** | [Types and Systems Programming](https://csperkins.org/teaching/2025-2026/adv-systems-programming/lecture03/lecture03a.pdf) | kw: Types, Systems | source: csperkins.org | profile: type-systems
 - **2026-06-16** | [Types and Programming Languages (Mit Press) by Benjamin C. Pierce](https://www.goodreads.com/book/show/112252.Types_and_Programming_Languages) | kw: Types, Mit, Press, Benjamin, Pierce | source: goodreads.com | profile: type-systems

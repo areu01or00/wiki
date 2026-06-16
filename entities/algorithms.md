@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Best DSA Sheet 2026 - NamasteDev](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 - NamasteDev | source: namastedev.com | profile: algorithms
+- **2026-06-16** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: The Ultimate Leetcode Roadmap: Data Structures & Algorithms  | source: medium.com | profile: algorithms
+- **2026-06-16** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan - freeclass.ai](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data Structures & Algorithms Roadmap 2026: Free Study Plan - | source: freeclass.ai | profile: algorithms
+
 - **2026-06-16** | [Data Structures and Algorithms (DSA): The Intuitive Guide](https://www.interviewcake.com/data-structures-and-algorithms-guide) | kw: Data, Structures, Algorithms, DSA, Intuitive | source: interviewcake.com | profile: algorithms
 - **2026-06-16** | [BEST BOOKS FOR COMPETITIVE PROGRAMMING - Codeforces](https://codeforces.com/blog/entry/78520) | kw: BOOKS, COMPETITIVE, Codeforces | source: codeforces.com | profile: algorithms
 - **2026-06-16** | [DSA (Data Structures and Algorithms) Study Plan (Lesson Plan)](https://www.w3schools.com/dsa/dsa_study_plan.php) | kw: DSA, Data, Structures, Algorithms, Study | source: w3schools.com | profile: algorithms

@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [The Practical Value of Functional Programming - Monad, Haskell, Elixir, Erlang, Gleam, Effect TS (2025)](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming - Monad, Haske | source: youngju.dev | profile: functional-programming
+- **2026-06-16** | [Haskell Guide [2026] - Precision AI Academy](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026] - Precision AI Academy | source: precisionaiacademy.com | profile: functional-programming
+
 - **2026-06-16** | [A monadic interpreter and type-and-effect checker (FTfJP 2026)](https://2026.ecoop.org/details/FTfJP-2026-ftfjp-2026/2/A-monadic-interpreter-and-type-and-effect-checker) | kw: A monadic interpreter and type-and-effect checker (FTfJP 2026) | profile: functional-programming
 - **2026-06-16** | [Control.Monad.Instances - Haskell base library](https://xmonad.github.io/xmonad-docs/base-4.16.4.0/Control-Monad-Instances.html) | kw: Control.Monad.Instances - Haskell base library | profile: functional-programming
 

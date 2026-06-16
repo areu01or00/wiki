@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [compiler-course-2026 LLVM tutorial BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 LLVM tutorial BuildingAJIT1.rst | source: github.com | profile: compilers
+- **2026-06-16** | [compiler-course-2026 fork - BuildingAJIT1.rst](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 fork - BuildingAJIT1.rst | source: github.com | profile: compilers
+- **2026-06-16** | [compiler-course-2026 LLVM tutorial BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026 LLVM tutorial BuildingAJIT3.rst | source: github.com | profile: compilers
+
 
 - **2026-06-16** | [LLVM Research Library](https://bwatsonllvm.github.io/library/talks) | kw: LLVM Research Library | profile: compilers
 
