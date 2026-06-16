@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Complete Caching Guide for System Design Interviews [2026 Edition]](https://designgurus.substack.com/p/complete-caching-guide-for-system) | kw: Complete Caching Guide for System Design Interviews [2026 Edition] | profile: system-design
+
 - **2026-06-16** | [Distributed Systems Principles and Paradigms](https://www.dcc.fc.up.pt/~ines/aulas/1314/SDM/ch2.pdf) | kw: Distributed Systems Principles and Paradigms | profile: system-design
 
 - **2026-06-16** | [All Things Distributed - Werner Vogels](https://www.allthingsdistributed.com/) | kw: All Things Distributed - Werner Vogels | profile: system-design

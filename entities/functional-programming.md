@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [80: POPL 2026 - Part 2 - The Haskell Interlude (podcast)](https://www.listennotes.com/podcasts/the-haskell/80-popl-2026-part-2-WOG2fI-tkse) | kw: 80: POPL 2026 - Part 2 - The Haskell Interlude (podcast) | profile: functional-programming
+
 - **2026-06-16** | [Monads for functional programming - University of Edinburgh](https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) | kw: Monads, functional, University, Edinburgh | source: ac.uk | profile: functional-programming
 - **2026-06-16** | [Harvard School of Engineering and Applied Sciences — CS 152](https://groups.seas.harvard.edu/courses/cs152/2026sp/sections/sec-week10.pdf) | kw: Harvard, School, Engineering, Applied, Sciences | source: harvard.edu | profile: functional-programming
 - **2026-06-16** | [Functional Programming: 2025-2026](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/fp/) | kw: Functional, 2025-2026 | source: ac.uk | profile: functional-programming
