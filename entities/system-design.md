@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Service Mesh Pattern 2026: Istio, Linkerd, Cilium, Consul ...](https://appscale.blog/he/blog/microservices-pattern-service-mesh-istio-linkerd-2026) | kw: Service Mesh Pattern 2026: Istio, Linkerd, Cilium, Consul ... | source: system-design
+- **2026-06-16** | [Service Mesh in 2026: Istio vs Linkerd vs Cilium for ...](https://fintekcafe.com/service-mesh-istio-linkerd-cilium-finance-2026) | kw: Service Mesh in 2026: Istio vs Linkerd vs Cilium for ... | source: system-design
+- **2026-06-16** | [Running a Production-Ready Service Mesh with Linkerd on Amazon EKS](https://www.buoyant.io/blog/running-a-production-ready-service-mesh-with-linkerd-on-amazon-eks) | kw: Running a Production-Ready Service Mesh with Linkerd on Amazon EKS | source: system-design
+- **2026-06-16** | [Service Mesh — Istio, Cilium and the Future of the Network ...](https://core.cz/en/blog/2026/service-mesh-istio-cilium-2026) | kw: Service Mesh — Istio, Cilium and the Future of the Network ... | source: system-design
+- **2026-06-16** | [Best Service Mesh Tools 2025: Istio, Linkerd, Consul](https://kitemetric.com/blogs/top-open-source-service-mesh-tools-for-2025) | kw: Best Service Mesh Tools 2025: Istio, Linkerd, Consul | source: system-design
+
 - **2026-06-16** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Comput | source: system-design
 - **2026-06-16** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Commu | source: system-design
 - **2026-06-16** | [System Design Guide 2026: Load Balancing, Caching, CDN ...](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026: Load Balancing, Caching, CDN ... | source: system-design

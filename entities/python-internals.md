@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [Python 3.15 Features Locked in June 2026 Feature Freeze](https://explore.n1n.ai/blog/python-3-15-feature-freeze-june-2026-updates-2026-06-09) | kw: Python 3.15 Features Locked in June 2026 Feature Freeze | source: python-internals
+- **2026-06-16** | [Changelog — Python 3.15.0b2 documentation](https://docs.python.org/3.15/whatsnew/changelog.html) | kw: Changelog — Python 3.15.0b2 documentation | source: python-internals
+- **2026-06-16** | [Python 3.15 Hits Feature Freeze and Other News for June 2026](https://realpython.com/python-news-june-2026/) | kw: Python 3.15 Hits Feature Freeze and Other News for June 2026 | source: python-internals
+- **2026-06-16** | [What's New in Python 3.15? Major New Features ... - Medium](https://medium.com/@ajaymaurya73130/whats-new-in-python-3-15-major-new-features-compared-to-python-3-14-explained-simply-60cb18fe6cd1) | kw: What's New in Python 3.15? Major New Features ... - Medium | source: python-internals
+- **2026-06-16** | [Python 3.15.0 (2026-10-01) — Python versions](https://gdevops.frama.io/python/versions/3.15.0/3.15.0.html) | kw: Python 3.15.0 (2026-10-01) — Python versions | source: python-internals
+- **2026-06-16** | [Python 3.15: 3 More Features Python Developers Need to Know ...](https://dev.to/for_itthe_9cb5ee8d4b91f2/python-315-3-more-features-python-developers-need-to-know-2026-4hni) | kw: Python 3.15: 3 More Features Python Developers Need to Know ... | source: python-internals
+- **2026-06-16** | [Python 3.15 - What's New, Support Lifecycle & EOL](https://versionlog.com/python/3.15/) | kw: Python 3.15 - What's New, Support Lifecycle & EOL | source: python-internals
+
 - **2026-06-16** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python GIL: The Key to Backend Performance - odysse.io | source: python-internals
 - **2026-06-16** | [Python Global Interpreter Lock (GIL) - cosmiclearn.com](https://www.cosmiclearn.com/python/gil.php) | kw: Python Global Interpreter Lock (GIL) - cosmiclearn.com | source: python-internals
 - **2026-06-16** | [Python's GIL Is Gone - What That Actually Means for Your Code | Python in Plain English](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's GIL Is Gone - What That Actually Means for Your Code | Python in Plain  | source: python-internals

@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [TYPES 2026](https://types2026.cse.chalmers.se/files/book-of-abstracts.pdf) | kw: TYPES 2026 | source: type-systems
+- **2026-06-16** | [PLDI Conference - Home](https://dl.acm.org/conference/pldi) | kw: PLDI Conference - Home | source: type-systems
+- **2026-06-16** | [Typestate via Revocable Capabilities - arXiv.org](https://arxiv.org/html/2510.08889v2) | kw: Typestate via Revocable Capabilities - arXiv.org | source: type-systems
+
 - **2026-06-16** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing - Khoury College of Computer Sciences | source: type-systems
 - **2026-06-16** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual Typing - Language Design and Implementation | source: type-systems
 - **2026-06-16** | [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp) | kw: Gradual Typing Across the Spectrum | source: type-systems

@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Glasgow Haskell Compiler — The Glasgow Haskell Compiler](https://www.haskell.org/ghc) | kw: Glasgow Haskell Compiler — The Glasgow Haskell Compiler | source: functional-programming
+- **2026-06-16** | [pymonad Python Guide [2026] | PyPI Tutorial](https://generalistprogrammer.com/tutorials/pymonad-python-package-guide) | kw: pymonad Python Guide [2026] | PyPI Tutorial | source: functional-programming
+
 - **2026-06-16** | [Monad: Public Blockchain Project Introduction, Development Roadmap, and Ecosystem Analysis| KuCoin](https://www.kucoin.com/blog/monad-project-introduction) | kw: Monad: Public Blockchain Project Introduction, Development Roadmap, and Ecosyste | source: functional-programming
 
 - **2026-06-16** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's Coming for Haskell in 2026 - slicker.me | source: functional-programming

@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [Modular: What about the MLIR compiler infrastructure ...](https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure) | kw: Modular: What about the MLIR compiler infrastructure ... | source: compilers
+- **2026-06-16** | [MLIR (software) - Wikipedia](https://en.wikipedia.org/wiki/MLIR_%28software%29) | kw: MLIR (software) - Wikipedia | source: compilers
+
 - **2026-06-16** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome | source: compilers
 - **2026-06-16** | [GitHub - llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies](https://github.com/llvm/llvm-project) | kw: GitHub - llvm/llvm-project: The LLVM Project is a collection of modular and reus | source: compilers
 - **2026-06-16** | [LLVM 6 Compiling to Object Code. - by Dev To - webnuz.com](https://www.webnuz.com/article/2026-06-08/LLVM%206%20%20Compiling%20to%20Object%20Code.) | kw: LLVM 6 Compiling to Object Code. - by Dev To - webnuz.com | source: compilers

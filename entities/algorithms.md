@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [20 LeetCode Patterns Every New Grad Must Know Before ...](https://dglearning.substack.com/p/20-leetcode-patterns-every-new-grad) | kw: 20 LeetCode Patterns Every New Grad Must Know Before ... | source: algorithms
+
 - **2026-06-16** | [Common LeetCode Coding Patterns - Medium](https://medium.com/@rabhinaya0/common-leetcode-coding-patterns-8cb1d2090b70) | kw: Common LeetCode Coding Patterns - Medium | source: algorithms
 - **2026-06-16** | [LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics - DEV Community](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics - DEV Community | source: algorithms
 - **2026-06-16** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor B | source: algorithms
