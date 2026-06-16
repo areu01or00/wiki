@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-16** | [The Power of Type Inference in Modern Programming Languages](https://www.travrio.com/article/the-power-of-type-inference-in-modern-programming-languages) | kw: The Power of Type Inference in Modern Programming Languages | source: type-systems
+
 - **2026-06-16** | [Evaluating Baselines for Type Inference: Static Code Analysis](https://link.springer.com/chapter/10.1007/978-3-031-64779-6_42) | kw: Evaluating Baselines for Type Inference
 
 - **2026-06-16** | [The Way of Types: A Report on Developer Experience with Type Systems (ICPC 2026)](https://sarajuhosova.com/assets/files/2026-icpc.pdf) | kw: The Way of Types: A Report on Developer Experience with Type | source: type-systems

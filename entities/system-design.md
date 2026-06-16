@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+
+- **2026-06-16** | [System Design Interview Questions & Prep (from FAANG experts) - IGotAnOffer](https://igotanoffer.com/blogs/tech/system-design-interviews) | kw: System Design Interview Questions & Prep (from FAANG experts) - IGotAnOffer | source: system-design
+- **2026-06-16** | [Grokking The System Design Interview Free (updated 2026)](https://www.systemdesignhandbook.com/courses/grokking-the-system-design-interview) | kw: Grokking The System Design Interview Free (updated 2026) | source: system-design
+
 - **2026-06-16** | [Edge Computing Trends 2026: The Rise of Distributed Infrastructure](https://www.thetechtrep.com/edge-computing-trends-2026/) | kw: Edge Computing Trends 2026
 
 - **2026-06-16** | [2026 Trends and Outlooks: Connectivity and networks - DCD](https://www.datacenterdynamics.com/en/dcd-broadcasts/dcdtelecoms-connectivity/2025/2026-trends-and-outlooks-connectivity-and-networks) | kw: 2026 Trends and Outlooks: Connectivity and networks - DCD | source: system-design

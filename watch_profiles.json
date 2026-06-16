@@ -471,8 +471,6 @@
         "DCD"
       ],
       "last_result_hashes": [
-        "0bc6ea1fd1a80c9652a7096dfd9819a6",
-        "e9d45130824f67775300df37d0b653d5",
         "0bccdfeceeee7664c4e61f75605f9f8f",
         "4a92b9accf7e00c9835483bf78a78624",
         "749d8bd03cb99bf95d2bec292cdebdb5",
@@ -490,9 +488,11 @@
         "138a5f5429696bde556b67d915262c48",
         "3d924683b109e99c93d7ba785e0c7ab0",
         "697337f881dc40cc977774b3475bbe3d",
-        "2b4e9bd2c4202e42f37a0a03ee3326e2"
+        "2b4e9bd2c4202e42f37a0a03ee3326e2",
+        "c1b0924230e3213e948771ccc39b4fa3",
+        "8643dd36e190fa7e58a356b5a616daf3"
       ],
-      "last_run": "2026-06-16T23:19:00+00:00",
+      "last_run": "2026-06-16T23:33:39.084898+00:00",
       "new_sub_topics_this_run": []
     },
     "compilers": {
@@ -1014,7 +1014,7 @@
         "05d0a65d891bb173f75d21347fcaea99",
         "32ca195a72297c43ebd6356d79e78eff"
       ],
-      "last_run": "2026-06-16T23:19:00+00:00",
+      "last_run": "2026-06-16T23:33:39.084920+00:00",
       "new_sub_topics_this_run": []
     },
     "type-systems": {
@@ -1481,7 +1481,6 @@
         "Press"
       ],
       "last_result_hashes": [
-        "481bf13dad9a849f34a663880bb0470f",
         "c0b8939bb00148936243259369f1f8a3",
         "2b077fcefb9f16574c355c5cae07ce7d",
         "b212d998de83c9ed9264a175b09fee4a",
@@ -1500,9 +1499,10 @@
         "a29be5aaea03ce1a3cd060f3add36327",
         "bd17210a55facc1045e4bb40b946924f",
         "52c4bc5a1bcd471c9a7d0c527c736466",
-        "a74a147950a12ada1d2516685c8fecad"
+        "a74a147950a12ada1d2516685c8fecad",
+        "6dd177bf071629da0719868208ad2e11"
       ],
-      "last_run": "2026-06-16T23:19:00+00:00",
+      "last_run": "2026-06-16T23:33:39.084926+00:00",
       "new_sub_topics_this_run": []
     },
     "functional-programming": {
@@ -2022,7 +2022,7 @@
         "6c5cb98e457a7ea49ad57c5293abde41",
         "c012a57fa63492860f64045db3528e7a"
       ],
-      "last_run": "2026-06-16T23:19:00+00:00",
+      "last_run": "2026-06-16T23:33:39.084930+00:00",
       "new_sub_topics_this_run": []
     },
     "algorithms": {
@@ -2516,7 +2516,7 @@
         "cc20f76a074d85b32adf2f7be04809b9",
         "8b872e9c4137efc4de77b9e0bf4a2ba1"
       ],
-      "last_run": "2026-06-16T23:19:00+00:00",
+      "last_run": "2026-06-16T23:33:39.084933+00:00",
       "new_sub_topics_this_run": []
     },
     "python-internals": {
@@ -3009,7 +3009,7 @@
         "195cc5355800be062c15e1a66ccfcacd",
         "4cd24649bb264af960eb0db466e7076c"
       ],
-      "last_run": "2026-06-16T23:19:00+00:00",
+      "last_run": "2026-06-16T23:33:39.084955+00:00",
       "new_sub_topics_this_run": []
     }
   }
