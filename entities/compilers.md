@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [The LLVM JIT Compiler: A Deep Dive - Flyriver.com](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: The LLVM JIT Compiler: A Deep Dive - Flyriver.com
+
 - **2026-06-16** | [Unlocking Performance: The Overlooked Power of Low-Cost ...](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance: The Overlooked Power of Low-Cost ... | source: compilers
 - **2026-06-16** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 . | source: compilers
 - **2026-06-16** | [Best Free Open-Source Compilers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Best Free Open-Source Compilers in 2026 | source: compilers
