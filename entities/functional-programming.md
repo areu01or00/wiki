@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: How I Learned Monads | source: functional-programming
+- **2026-06-16** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Patterns](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like Patterns in Rust | source: functional-programming
+- **2026-06-16** | [Does Rust Support Functional Programming Idioms? Exploring FP](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does Rust Support Functional Programming Idioms? Explorin... | source: functional-programming
+- **2026-06-16** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: Haskell vs Rust Comparison (2026) | source: functional-programming
+- **2026-06-16** | [What killed Haskell, could kill Rust, too · GitHub](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: What killed Haskell, could kill Rust, too · GitHub | source: functional-programming
+- **2026-06-16** | [Rust: Haskell but more imperative? | Catalin's blog](https://catalin-tech.com/haskell-rust) | kw: Rust | source: functional-programming
+
 - **2026-06-16** | [Functional programming on Haskell language](https://stepik.org/course/75/promo) | kw: Functional programming on Haskell language | source: functional-programming
 - **2026-06-16** | [New tutorial series on implementing lambda calculus interpreter](https://discourse.haskell.org/t/new-tutorial-series-on-implementing-lambda-calculus-interpreter-in/14268) | kw: New tutorial series on implementing lambda calc... | source: functional-programming
 

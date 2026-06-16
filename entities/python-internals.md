@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python GIL | source: python-internals
+- **2026-06-16** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: How Python's Memory Management Works Under the Hood | source: python-internals
+- **2026-06-16** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring Python | source: python-internals
+
 - **2026-06-16** | [PEP 703 - Making the Global Interpreter Lock Optional in CPython | peps.python.org](https://peps.python.org/pep-0703/) | kw: PEP 703 - Making the Global Interpreter Lock Optional in CPy... | source: python-internals
 
 - **2026-06-16** | [CPython Reference Counting and Garbage Collection Internals](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals) | kw: CPython, Reference, Counting, Garbage

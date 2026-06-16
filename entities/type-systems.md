@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance I... | source: type-systems
+- **2026-06-16** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic Typing | source: type-systems
+- **2026-06-16** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The Rise of Static Typing | source: type-systems
+- **2026-06-16** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: The Ins and Outs of Gradual Type Inference | source: type-systems
+- **2026-06-16** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual typing | source: type-systems
+- **2026-06-16** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for ... | source: type-systems
+
 - **2026-06-16** | [GitHub - interestingLSY/swiftLLM: A tiny yet powerful LLM inference system tailored for researching purpose. vLLM-equivalent performance with only 2k lines of code (2% of vLLM).](https://github.com/interestingLSY/swiftLLM) | kw: LLM inference, Triton, vLLM alternative
 
 - **2026-06-16** | [Type Systems in Programming Languages: A Performance, Safety, and Development Efficiency-Analysis](https://www.ijsr.net/getabstract.php?paperid=SR26113212016) | kw: Type, Systems, Programming, Languages

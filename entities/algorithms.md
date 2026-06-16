@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode | source: algorithms
+- **2026-06-16** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data Structures Interview Questions | source: algorithms
+- **2026-06-16** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Data structures and algorithms study cheatsheets for codi... | source: algorithms
+- **2026-06-16** | [Top 21 Data Structure & Algorithms Questions to Ace DSA Interviews](https://skillcureacademy.com/blogs/top-dsa-interview-questions-2026) | kw: Top 21 Data Structure & Algorithms Questions to Ace DSA I... | source: algorithms
+- **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026 | source: algorithms
+- **2026-06-16** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: Leetcode Patterns | source: algorithms
+
 - **2026-06-16** | [Practicing leetcode for job interviews in 2025? Senior - Staff level](https://www.reddit.com/r/swift/comments/1oxodeq/practicing_leetcode_for_job_interviews_in_2025) | kw: Practicing, leetcode, job, interviews
 
 - **2026-06-16** | [Mastering Competitive Programming: Strategies & Techniques](https://www.jbwebeng.co.uk/2026/06/competitive-programming-tutorials.html) | kw: Mastering Competitive Programming: Strategies &... | source: algorithms

@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026 | source: system-design
+- **2026-06-16** | [System Design Fundamentals — Scalability, Availability, Caching, and Message Queues | Chaos and Order](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System Design Fundamentals | source: system-design
+- **2026-06-16** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 | source: system-design
+
 - **2026-06-16** | [Service Mesh Pattern 2026: Istio, Linkerd, Cilium, Consul ...](https://appscale.blog/he/blog/microservices-pattern-service-mesh-istio-linkerd-2026) | kw: Service Mesh Pattern 2026: Istio, Linkerd, Cilium, Consul ... | source: system-design
 - **2026-06-16** | [Service Mesh in 2026: Istio vs Linkerd vs Cilium for ...](https://fintekcafe.com/service-mesh-istio-linkerd-cilium-finance-2026) | kw: Service Mesh in 2026: Istio vs Linkerd vs Cilium for ... | source: system-design
 - **2026-06-16** | [Running a Production-Ready Service Mesh with Linkerd on Amazon EKS](https://www.buoyant.io/blog/running-a-production-ready-service-mesh-with-linkerd-on-amazon-eks) | kw: Running a Production-Ready Service Mesh with Linkerd on Amazon EKS | source: system-design

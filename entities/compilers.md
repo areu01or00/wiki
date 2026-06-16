@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: The LLVM Compiler Framework and Infrastructure | source: compilers
+- **2026-06-16** | [A Deep Dive into LLVM: The Future of Compiler Technology | by Aastha Jain | Medium](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM | source: compilers
+- **2026-06-16** | [GitHub - llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.](https://github.com/llvm/llvm-project) | kw: GitHub | source: compilers
+
 - **2026-06-16** | [Modular: What about the MLIR compiler infrastructure ...](https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure) | kw: Modular: What about the MLIR compiler infrastructure ... | source: compilers
 - **2026-06-16** | [MLIR (software) - Wikipedia](https://en.wikipedia.org/wiki/MLIR_%28software%29) | kw: MLIR (software) - Wikipedia | source: compilers
 
