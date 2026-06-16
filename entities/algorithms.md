@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Data Structures and Algorithms (DSA): The Intuitive Guide](https://www.interviewcake.com/data-structures-and-algorithms-guide) | kw: Data, Structures, Algorithms, DSA, Intuitive | source: interviewcake.com | profile: algorithms
+- **2026-06-16** | [BEST BOOKS FOR COMPETITIVE PROGRAMMING - Codeforces](https://codeforces.com/blog/entry/78520) | kw: BOOKS, COMPETITIVE, Codeforces | source: codeforces.com | profile: algorithms
+- **2026-06-16** | [DSA (Data Structures and Algorithms) Study Plan (Lesson Plan)](https://www.w3schools.com/dsa/dsa_study_plan.php) | kw: DSA, Data, Structures, Algorithms, Study | source: w3schools.com | profile: algorithms
+
 - **2026-06-15** | [Dynamic Programming Strategies - Compile N Run](https://www.compilenrun.com/docs/fundamental/algorithm/leetcode-problem-approaches/dynamic-programming-strategies) | kw: Dynamic Programming Strategies - Compile N Run | profile: algorithms
 - **2026-06-15** | [LeetCode Patterns | Cheat Sheet & Problem List](https://www.crackr.dev/leetcode-patterns) | kw: LeetCode Patterns | Cheat Sheet & Problem List | profile: algorithms
 - **2026-06-15** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems | profile: algorithms

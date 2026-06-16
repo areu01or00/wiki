@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [CPython's internals](https://devguide.python.org/internals) | kw: CPython, internals | source: python.org | profile: python-internals
+- **2026-06-16** | [CPython Internals: Your Guide to the Python 3 Interpreter](https://static.realpython.com/cpython-internals-sample-chapters.pdf) | kw: CPython, Internals, Python, Interpreter | source: realpython.com | profile: python-internals
+- **2026-06-16** | [Cpython v3.14.0 Release - GitClear](https://www.gitclear.com/open_repos/python/cpython/release/v3.14.0) | kw: Cpython, Release, GitClear | source: gitclear.com | profile: python-internals
+- **2026-06-16** | [Python’s GIL is finally Dead. What Changed in 3.13 ... - Medium](https://medium.com/coinmonks/pythons-gil-is-finally-dead-f57edf9c99a3) | kw: Python, GIL, finally, Dead, Changed | source: medium.com | profile: python-internals
+- **2026-06-16** | [CPython Interpreter](https://www.augmentcode.com/open-source/python/cpython) | kw: CPython, Interpreter | source: augmentcode.com | profile: python-internals
+- **2026-06-16** | [Python 3.14 — New Features, Internal Changes & Migration Guide](https://www.c-sharpcorner.com/article/whats-new-in-python-3-14-deep-dive-for-developers) | kw: Python, Features, Internal, Changes, Migration | source: c-sharpcorner.com | profile: python-internals
+- **2026-06-16** | [CPython Source Code-Real Python](https://www.scribd.com/document/667780586/CPythonSourceCode-RealPython) | kw: CPython, Source, Code-Real, Python | source: scribd.com | profile: python-internals
+
 - **2026-06-15** | [The GIL Is Finally Dead: Free-Threaded Python Is Production Ready](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production Ready | profile: python-internals
 - **2026-06-15** | [Mastering How the Python Interpreter Works | PYTHON 2026](https://course4all.com/python/py-introduction-internals) | kw: Mastering How the Python Interpreter Works | PYTHON 2026 | profile: python-internals
 - **2026-06-15** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling and Optimization Techniques | profile: python-internals

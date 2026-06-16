@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Advanced Type Systems in Programming](https://kindatechnical.com/advanced-type-systems/principles-of-designing-type-systems.html) | kw: Advanced, Type, Systems | source: kindatechnical.com | profile: type-systems
+- **2026-06-16** | [Types and Systems Programming](https://csperkins.org/teaching/2025-2026/adv-systems-programming/lecture03/lecture03a.pdf) | kw: Types, Systems | source: csperkins.org | profile: type-systems
+- **2026-06-16** | [Types and Programming Languages (Mit Press) by Benjamin C. Pierce](https://www.goodreads.com/book/show/112252.Types_and_Programming_Languages) | kw: Types, Mit, Press, Benjamin, Pierce | source: goodreads.com | profile: type-systems
+- **2026-06-16** | [Types and Programming Languages by Benjamin C. Pierce](https://www.penguinrandomhouse.com/books/655764/types-and-programming-languages-by-benjamin-c-pierce) | kw: Types, Benjamin, Pierce | source: penguinrandomhouse.com | profile: type-systems
+- **2026-06-16** | [Advanced Topics in Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/attapl/) | kw: Advanced, Topics, Types | source: upenn.edu | profile: type-systems
+- **2026-06-16** | [Types and Programming Languages (Mit Press)](https://www.amazon.co.jp/-/en/Types-Programming-Languages-Mit-Press/dp/0262162091) | kw: Types, Mit, Press | source: co.jp | profile: type-systems
+
 - **2026-06-15** | [Type inference](https://groups.seas.harvard.edu/courses/cs152/2026sp/lectures/lec16-typeinference.pdf) | kw: Type inference | profile: type-systems
 
 - **2026-06-15** | [Understanding Graduality in Programming Languages through Embedding Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding Graduality in Programming Languages through Embedding Projection P | profile: type-systems
