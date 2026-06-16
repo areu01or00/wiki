@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026: 50 Problems [Solved] | source: algorithms
+- **2026-06-16** | [LeetCode Patterns That Still Matter in 2026: What I... | Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode Patterns That Still Matter in 2026: What I... | Int | source: algorithms
+- **2026-06-16** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data Structures Interview Questions: The Complete 2026 Guide | source: algorithms
+- **2026-06-16** | [LeetCode Interview Questions: Top Patterns by Company (2026)](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode Interview Questions: Top Patterns by Company (2026) | source: algorithms
+
 - **2026-06-16** | [13 Best Data Structures & Algorithms Courses for 2026 - Class Central](https://www.classcentral.com/report/best-algos-data-structure-courses) | kw: 13 Best Data Structures Algorithms Courses | source: algorithms
 
 - **2026-06-16** | [LeetCode 75 - Study Plan](https://leetcode.com/studyplan/leetcode-75/) | kw: LeetCode 75 - Study Plan

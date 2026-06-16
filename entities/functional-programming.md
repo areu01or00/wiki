@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 - Part 2 - Links | source: functional-programming
+- **2026-06-16** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does Rust Support Functional Programming Idioms? Exploring . | source: functional-programming
+- **2026-06-16** | [80: POPL 2026 - Part 2 - The Haskell Interlude (podcast)](https://www.listennotes.com/podcasts/the-haskell/80-popl-2026-part-2-WOG2fI-tkse/) | kw: 80: POPL 2026 - Part 2 - The Haskell Interlude (podcast) | source: functional-programming
+- **2026-06-16** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming at Its Finest: Why Haskell Developers | source: functional-programming
+- **2026-06-16** | [Functional Programming Paradigms: Immutability, Higher-Order ...](https://johal.in/functional-programming-paradigms-immutability-higher-order-functions-and-monads-2026) | kw: Functional Programming Paradigms: Immutability, Higher-Order | source: functional-programming
+- **2026-06-16** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming & Monads | source: functional-programming
+- **2026-06-16** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming — Monad ... | source: functional-programming
+- **2026-06-16** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026]: Functional Programming That Changes Ho | source: functional-programming
+
 - **2026-06-16** | [Building the Rust example program - Monad Documentation](https://docs.monad.xyz/execution-events/getting-started/rust) | kw: Building the Rust example program - Monad Documentation
 
 - **2026-06-16** | [Rust in 2026: What Actually Changed, What's Trending, and What to Build Next](https://medium.com/@blogs-world/rust-in-2026-what-actually-changed-whats-trending-and-what-to-build-next-d70e38a4ad97) | kw: functional programming

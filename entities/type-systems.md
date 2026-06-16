@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Foundations for Gradual Typing](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing | source: type-systems
+- **2026-06-16** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: 100+ Type Inference Online Courses for 2026 | source: type-systems
+- **2026-06-16** | [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp) | kw: Gradual Typing Across the Spectrum | source: type-systems
+- **2026-06-16** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual Typing - Language Design and Implementation | source: type-systems
+- **2026-06-16** | [Gradual Typing Performance, Micro Configurations and Macro ...](https://link.springer.com/chapter/10.1007/978-3-031-64626-3_15) | kw: Gradual Typing Performance, Micro Configurations and Macro . | source: type-systems
+
 - **2026-06-16** | [Programming Languages in 2026 - Greg Herlein](https://blog.herlein.com/post/programming-languages-intersection) | kw: Programming Languages in 2026 - Greg Herlein
 
 - **2026-06-16** | [Inference de types](https://fr.wikipedia.org/wiki/Inf%C3%A9rence_de_types) | kw: Inference de types | source: type-systems

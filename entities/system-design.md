@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed Systems Roadmap (2026) | source: system-design
+- **2026-06-16** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System Design Series Part 3: Load Balancing & Caching | source: system-design
+- **2026-06-16** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed System Design: the complete guide to building sc | source: system-design
+- **2026-06-16** | [The Future of Distributed Systems](https://techhoff.net/the-future-of-distributed-systems) | kw: The Future of Distributed Systems | source: system-design
+
 - **2026-06-16** | [From Manual to Massive: Modern Scalability Patterns for Distributed Systems](https://www.techmuni.dev/2025/11/from-manual-to-massive-modern.html) | kw: From Manual to Massive: Modern Scalability Pattern
 
 - **2026-06-16** | [Patterns of Distributed Systems (Paperback) - tenlong](https://www.tenlong.com.tw/products/9780138221980) | kw: Patterns of Distributed
