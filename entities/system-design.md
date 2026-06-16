@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Edge Computing Trends 2026: The Rise of Distributed Infrastructure](https://www.thetechtrep.com/edge-computing-trends-2026/) | kw: Edge Computing Trends 2026
+
 - **2026-06-16** | [2026 Trends and Outlooks: Connectivity and networks - DCD](https://www.datacenterdynamics.com/en/dcd-broadcasts/dcdtelecoms-connectivity/2025/2026-trends-and-outlooks-connectivity-and-networks) | kw: 2026 Trends and Outlooks: Connectivity and networks - DCD | source: system-design
 
 - **2026-06-16** | [Architectural Design Patterns for Cloud Computing thepathtoagility.com](http://www.thepathtoagility.com/wp-content/uploads/2012/03/steveriley2.pdf) | kw: Architectural Design Patterns for Cloud Computing thepathtoagility.com | source: system-design
