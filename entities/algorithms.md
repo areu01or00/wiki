@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Algorithm Questions for Interviews : r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/75n956/algorithm_questions_for_interviews) | kw: Algorithm Questions for Interviews : r/cscareerquestions | source: algorithms
+- **2026-06-16** | [How many algorithms should be known for a technical interview? - Quora](https://www.quora.com/How-many-algorithms-should-be-known-for-a-technical-interview) | kw: How many algorithms should be known for a technical intervie | source: algorithms
+- **2026-06-16** | [Most Important Algorithms for Interview - Shashwat Raj on Medium](https://medium.com/%40rajshashwatcodes/most-important-algorithms-for-interview-28ece84f8251) | kw: Most Important Algorithms for Interview - Shashwat Raj on Me | source: algorithms
+
 - **2026-06-16** | [LeetCode - 力扣](https://leetcode.cn/) | kw: LeetCode 力扣
 - **2026-06-16** | [LeetCode Interview Questions: Top Patterns by Company (2026) | InterviewPilot](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode Interview Questions
 - **2026-06-16** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews | Free Class AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data Structures &
