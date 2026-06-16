@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes | source: compilers
+- **2026-06-16** | [Insights into Interpreters, Compilers, and Optimizers for Neural Networks](https://webs.um.es/aros/papers/pdfs/salladi-codai25.pdf) | kw: Insights into Interpreters, Compilers, and Optimizers for Neural Networks | source: compilers
+- **2026-06-16** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: ML Compiler Optimization Revolution [Deep Dive] [2026] | source: compilers
+
 - **2026-06-16** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: The LLVM Compiler Framework and Infrastructure | source: compilers
 - **2026-06-16** | [A Deep Dive into LLVM: The Future of Compiler Technology | by Aastha Jain | Medium](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM | source: compilers
 - **2026-06-16** | [GitHub - llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.](https://github.com/llvm/llvm-project) | kw: GitHub | source: compilers

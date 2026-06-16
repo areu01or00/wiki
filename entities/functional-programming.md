@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026] | source: functional-programming
+- **2026-06-16** | [The Practical Value of Functional Programming — Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical Value of Functional Programming | source: functional-programming
+
 - **2026-06-16** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: How I Learned Monads | source: functional-programming
 - **2026-06-16** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Patterns](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like Patterns in Rust | source: functional-programming
 - **2026-06-16** | [Does Rust Support Functional Programming Idioms? Exploring FP](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does Rust Support Functional Programming Idioms? Explorin... | source: functional-programming

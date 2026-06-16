@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [Asyncio TaskGroup Memory Leaks in Long-Running WebSocket Services](https://tech-champion.com/programming/python-programming/asyncio-taskgroup-memory-leaks-in-long-running-websocket-services) | kw: Asyncio TaskGroup Memory Leaks in Long-Running WebSocket Services | source: python-internals
+- **2026-06-16** | [7 AsyncIO Memory Leaks Silently Destroying Production Python Systems](https://python.plainenglish.io/7-asyncio-memory-leaks-silently-destroying-production-python-systems-fix-before-its-too-late-4cf724ea1174) | kw: 7 AsyncIO Memory Leaks Silently Destroying Production Python Systems | source: python-internals
+
 - **2026-06-16** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python GIL | source: python-internals
 - **2026-06-16** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: How Python's Memory Management Works Under the Hood | source: python-internals
 - **2026-06-16** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring Python | source: python-internals

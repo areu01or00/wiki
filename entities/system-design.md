@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Edge Computing Trends 2026: The Rise of Distributed Infrastructure](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge Computing Trends 2026 | source: system-design
+
 - **2026-06-16** | [Serverless vs. Kubernetes: The Cloud-Native Architecture](https://algeriatech.news/serverless-kubernetes-cloud-native-2026) | kw: Kubernetes
 - **2026-06-16** | [Cloud-Native Patterns 2025: Microservices, Serverless, DevOps](https://blog.madrigan.com/en/blog/202510191136) | kw: Service
 - **2026-06-16** | [Cloud-Native Development: The Complete 2026 Guide to Building Modern Applications | Tasrie IT Services](https://tasrieit.com/blog/cloud-native-development-complete-guide-2026) | kw: Service

@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Putting Gradual Types to Work (NSF)](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types to Work (NSF) | source: type-systems
+
 - **2026-06-16** | [Top Strategic Technology Trends for 2026 - Gartner](https://www.gartner.com/en/documents/7079798) | kw: Top Strategic Technology Trends for 2026 - Gartner | source: type-systems
 
 - **2026-06-16** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance I... | source: type-systems
