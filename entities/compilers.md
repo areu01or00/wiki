@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [Interpreter vs Compiler vs Just In Time (JIT) Compiler - TechPrep](https://www.techprep.app/blog/interpreter-vs-compiler-vs-just-in-time-compiler) | kw: Interpreter vs Compiler vs Just In Time (JIT) Comp | source: compilers
+
 - **2026-06-16** | [compiler-course-2026 BuildingAJIT3.rst - 4elodoy-Molovek](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers | source: compilers
 - **2026-06-16** | [compiler-course-2026 BuildingAJIT1.rst - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers | source: compilers
 - **2026-06-16** | [GitHub - llvm/llvm-project: The LLVM Project](https://github.com/llvm/llvm-project) | kw: llvm project | source: compilers
