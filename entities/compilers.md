@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [Building a JIT Compiler from Scratch: Part 1 — Why Build a JIT Compiler? - DEV Community](https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-590o) | kw: Building a JIT Compiler from Scratch: Part 1 — Why Build a JIT Compiler? - DEV C | source: dev.to | profile: compilers
+
 - **2026-06-16** | [What is new in LLVM 22 (ARM Holdings plc) - WorldNews](https://article.wn.com/view/2026/04/23/What_is_new_in_LLVM_22_ARM_Holdings_plc/) | kw: What is new in LLVM 22 (ARM Holdings plc) - WorldNews | source: article.wn.com | profile: compilers
 - **2026-06-16** | [llvm/llvm-project llvmorg-22.1.0 on GitHub - NewReleases.io](https://newreleases.io/project/github/llvm/llvm-project/release/llvmorg-22.1.0) | kw: llvm/llvm-project llvmorg-22.1.0 on GitHub - NewReleases.io | source: newreleases.io | profile: compilers
 - **2026-06-16** | [LLVM/Clang 22 Feature Freeze Brings Intel Nova Lake, Ampere1C](https://news.lavx.hu/article/llvm-clang-22-feature-freeze-brings-intel-nova-lake-ampere1c-and-arm-c1-silicon-support) | kw: LLVM/Clang 22 Feature Freeze Brings Intel Nova Lake, Ampere1C | source: news.lavx.hu | profile: compilers

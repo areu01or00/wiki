@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [What Is Monad (MON) Fundamentals Analysis: Whitepaper Logic, Use Cases, Technology Innovation, Roadmap Progress, and Team Background Explained? | Gate Wiki](https://web3.gate.com/en/crypto-wiki/article/what-is-monad-mon-fundamentals-analysis-whitepaper-logic-use-cases-technology-innovation-roadmap-progress-and-team-background-explained-20251226) | kw: What Is Monad (MON) Fundamentals Analysis: Whitepaper Logic, Use Cases, Technolo | source: web3.gate.com | profile: functional-programming
+
 
 - **2026-06-16** | [The lambda calculus - Prolegomenon to functional programming](https://www.patrickdelliott.com/hhu-haskell/lambda.pdf) | kw: The lambda calculus - Prolegomenon to functional programming | source: www.patrickdelliott.com | profile: functional-programming
 
