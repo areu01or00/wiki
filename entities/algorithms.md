@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: DSA
+- **2026-06-16** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data
+
 - **2026-06-16** | [Algorithm Questions for Interviews : r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/75n956/algorithm_questions_for_interviews) | kw: Algorithm Questions for Interviews : r/cscareerquestions | source: algorithms
 - **2026-06-16** | [How many algorithms should be known for a technical interview? - Quora](https://www.quora.com/How-many-algorithms-should-be-known-for-a-technical-interview) | kw: How many algorithms should be known for a technical intervie | source: algorithms
 - **2026-06-16** | [Most Important Algorithms for Interview - Shashwat Raj on Medium](https://medium.com/%40rajshashwatcodes/most-important-algorithms-for-interview-28ece84f8251) | kw: Most Important Algorithms for Interview - Shashwat Raj on Me | source: algorithms

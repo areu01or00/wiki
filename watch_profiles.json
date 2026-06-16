@@ -388,7 +388,7 @@
         "wgt20iriffr",
         "with",
         "|",
-        "—",
+        "\u2014",
         "Service",
         "Mesh",
         "Envoy",
@@ -460,6 +460,7 @@
         "AI-Native"
       ],
       "last_result_hashes": [
+        "848a06554e3ca137e425aa0a6367b703",
         "000e636c2d8f8b023001384d271bfa7a",
         "54449127c5a919ced70c6b4477340a18",
         "e9d45130824f67775300df37d0b653d5",
@@ -478,10 +479,9 @@
         "0bccdfeceeee7664c4e61f75605f9f8f",
         "fc39755b74d487ac85df735139866a17",
         "2ebbe3411f331c326ab1fd19aa4e50c7",
-        "7a43fcfcde6a6e1ad6d40ccc6f416748",
-        "e4e7dfe518f70d1e9b93cb82fdb580ac"
+        "7a43fcfcde6a6e1ad6d40ccc6f416748"
       ],
-      "last_run": "2026-06-16 11:02 UTC"
+      "last_run": "2026-06-16 11:18 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -649,7 +649,7 @@
         "cosmiclearncom",
         "Analysis,",
         "Language",
-        "·",
+        "\u00b7",
         "Past",
         "Sanjoy Das",
         "Microsoft/llvm",
@@ -912,7 +912,7 @@
         "Dive]",
         "Management",
         "Developers",
-        "—",
+        "\u2014",
         "Profiling",
         "V8",
         "uses",
@@ -952,6 +952,9 @@
         "Just-in-Time"
       ],
       "last_result_hashes": [
+        "6d572be73ba0dc279950be1d220e00c7",
+        "552fb7fa38d11b6f68d1330db02e2708",
+        "0241c440920b6a4c2ba357c7b102c067",
         "95d039a87ff19238e99d0f66eb8fce0e",
         "381c5829c4542d830b4e98667478e845",
         "b86eb07f5a984fccae1bb38c4d48f846",
@@ -968,12 +971,9 @@
         "8a3c0b54b932f41af83e9ef65e0ed05d",
         "8c022b2d69274414288aca322244e1cc",
         "7013f0083d445281a0575c5e36238e9b",
-        "5d4ac715e54509da805ad5c64a5b6b9b",
-        "bbbc8ef4ec78630cae3e49219b742618",
-        "b5fd5739ee43c1a59bea7c727ff14a46",
-        "044f00f22ade99878d29e43ef426c83d"
+        "5d4ac715e54509da805ad5c64a5b6b9b"
       ],
-      "last_run": "2026-06-16 11:02 UTC"
+      "last_run": "2026-06-16 11:18 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1302,7 +1302,7 @@
         "Understanding",
         "Unexpected",
         "Unification-based",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "Unosquare",
         "Weekly",
         "West",
@@ -1374,7 +1374,7 @@
         "wgt20iriffr",
         "with",
         "|",
-        "—",
+        "\u2014",
         "Annotation Selection",
         "Gradual Performance",
         "Static vs Dynamic 2026",
@@ -1419,6 +1419,9 @@
         "Computation and Language - arXiv"
       ],
       "last_result_hashes": [
+        "0c4fea65325737c446710c96431c6923",
+        "a4428a72c3f30f04759e0c9ec9f17d9e",
+        "4a101114e3b691c4671d64770c39c052",
         "796dd8fb9f6369a2e77f75139af26f3c",
         "bca887779c4d30860ee265ce67393aa0",
         "e0f1e5a7bfd9b5fc43796b12430d38fe",
@@ -1435,12 +1438,9 @@
         "529b7e892267d1b1cfc9688b5bfdf683",
         "016d64371253dfac69c9cecd983e49a5",
         "f750a4dd2e4c29003972bf63272ffa74",
-        "2b077fcefb9f16574c355c5cae07ce7d",
-        "c0b8939bb00148936243259369f1f8a3",
-        "d91941e34f98f8fa9db9f1187b488c3a",
-        "87065c9439c433c819c4f5a68841256d"
+        "2b077fcefb9f16574c355c5cae07ce7d"
       ],
-      "last_run": "2026-06-16 11:02 UTC"
+      "last_run": "2026-06-16 11:18 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1490,7 +1490,7 @@
         "in",
         "Cat",
         "Cheat",
-        "—",
+        "\u2014",
         "Complete",
         "Tutorialspoint",
         "Tutorial/Monads",
@@ -1548,7 +1548,7 @@
         "HaskellWiki",
         "Higher Kinded Types",
         "Gleam",
-        "·",
+        "\u00b7",
         "State",
         "Changes Think",
         "Posts",
@@ -1608,7 +1608,7 @@
         "Monad,",
         "haskellmonads2026READMEmd",
         "Technocrat",
-        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
+        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "Lock",
         "docsgitscrumcom",
         "Comparing",
@@ -1633,7 +1633,7 @@
         "Rust patterns",
         "Syntactic",
         "Ultimate",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Rise",
         "MON",
         "Dive]",
@@ -1911,6 +1911,8 @@
         "Discourse"
       ],
       "last_result_hashes": [
+        "e2809728031a0a794b40bbdaef5a85f9",
+        "49e97f0f2ae6cb229c2162b709e74f62",
         "e73528aab342a79c19baed7c04bb889f",
         "98a11a5a90569fa1869db7245e6f4abe",
         "f1bba92dd956f2913bb00fa59b27c2eb",
@@ -1928,11 +1930,9 @@
         "827f82e9e1a47b7a7ad617629e29c129",
         "b48df3ecc7197e04cb4515339cfae453",
         "c5bcaf01490daab7e999b17a95ee57ce",
-        "ce28a60a12ee60735a41f5226ee34f7c",
-        "9faa7cf534e52ea65424258c0c6c7995",
-        "607b9f117d3451b3adf4e643b96d2b5b"
+        "ce28a60a12ee60735a41f5226ee34f7c"
       ],
-      "last_run": "2026-06-16 11:02 UTC"
+      "last_run": "2026-06-16 11:18 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2092,7 +2092,7 @@
         "Introduction",
         "JIT",
         "Java",
-        "Java面试学习",
+        "Java\u9762\u8bd5\u5b66\u4e60",
         "JimengShi/Leetcode-Data-Structures-Algorithms",
         "KING",
         "Katravalli",
@@ -2394,6 +2394,8 @@
         "Won"
       ],
       "last_result_hashes": [
+        "09ba1908ae63111d1e15e6d4bafc047c",
+        "7d194ad3d9a4f9a87cd4de35548c005c",
         "3e0c3b547512cf05302987adca7d8c16",
         "95c0ed6cbba5e0c1aa9aa3fb27c04555",
         "b49135247f8ea7a34aee0b955c3e211a",
@@ -2411,11 +2413,9 @@
         "a97aaa060bf3039beeb41e73ac20d73c",
         "8550333ef5b09f973d49f1def74af386",
         "1bfc48dcc21dee0fda35a41d45014bf0",
-        "85c94428e923ba3f2759e44b0821e577",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
-        "60233ba12f224764b5938c3634b02e6a"
+        "85c94428e923ba3f2759e44b0821e577"
       ],
-      "last_run": "2026-06-16 11:02 UTC"
+      "last_run": "2026-06-16 11:18 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2571,9 +2571,9 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals·",
+        "Internals\u00b7",
         "Interpreter",
-        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
+        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
         "Interview",
         "InterviewPilot",
         "Interviews",
@@ -2863,6 +2863,9 @@
         "The Explosive Python Trends 2026"
       ],
       "last_result_hashes": [
+        "b3593c9f59eca4f8b6263b3a3f35c76d",
+        "265111ab89ec1e2086cc516865ce3720",
+        "9b950d80d24710f2899e1b281e96098e",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "beaef31893811bf93a7c49c5427531ec",
         "9132d1ca01d195338d05eb556f7164be",
@@ -2879,12 +2882,9 @@
         "7b4d33a48fc204e0cb25e4f1266c7297",
         "b892d3268af415a5d0c10b3cc6cd89bf",
         "704da68a060e620278ad7620fdf6c8a8",
-        "2663bf81f29c09d1d62b87e0fac5fd97",
-        "195cc5355800be062c15e1a66ccfcacd",
-        "4cd24649bb264af960eb0db466e7076c",
-        "ee1579762ac50ad1f7529892ed821e5d"
+        "2663bf81f29c09d1d62b87e0fac5fd97"
       ],
-      "last_run": "2026-06-16 11:02 UTC"
+      "last_run": "2026-06-16 11:18 UTC"
     }
   },
   "last_run": "2026-06-16 10:32 UTC"

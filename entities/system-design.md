@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Distributed Systems
+
 - **2026-06-16** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide
 - **2026-06-16** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design - Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices Architecture Patterns
 

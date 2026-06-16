@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Monads
+- **2026-06-16** | [Functional Programming Paradigms: Immutability, Higher-Order Functions, and Monads 2026](https://johal.in/functional-programming-paradigms-immutability-higher-order-functions-and-monads-2026) | kw: Monads
+
 - **2026-06-16** | [State of Rust 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-rust-2026/) | kw: State of Rust 2026 | The Dev Newsletter | source: functional-programming
 
 - **2026-06-16** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83

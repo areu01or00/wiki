@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter)](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The
+- **2026-06-16** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
+- **2026-06-16** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory
+
 - **2026-06-16** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: How Python's GIL
 - **2026-06-16** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling
 - **2026-06-16** | [Inside the Python GIL: How It Actually Works and Why It Matters](https://python.plainenglish.io/inside-the-python-gil-how-it-actually-works-and-why-it-matters-2169a9a9dc69) | kw: Inside the Python

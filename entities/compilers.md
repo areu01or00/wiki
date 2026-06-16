@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM
+- **2026-06-16** | [Llvm Jit Compiler By C Lattner Et Al Integration](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: LLVM
+- **2026-06-16** | [LLVM Roadmap for Beginners Explained](https://www.compilersutra.com/docs/llvm/intro-to-llvm) | kw: LLVM
+
 - **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT1.rst
 - **2026-06-16** | [Exploring Simple Architecture of Just-in-Time Compilation in Databases | SpringerLink](https://link.springer.com/chapter/10.1007/978-981-97-7244-5_44) | kw: Exploring Simple Architecture
 - **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT3.rst
