@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Monads in Haskell | with Functors & Applicatives | #haskell # ...](https://www.youtube.com/watch?v=QQOJ_7dEJng) | kw: Monads in Haskell | source: functional-programming
+
 - **2026-06-16** | [Monads and Monad-Like Patterns in Rust - Software Patterns Lexicon](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monads in rust | source: functional-programming
 - **2026-06-16** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: haskell reliability | source: functional-programming
 - **2026-06-16** | [POPL 2026 - Part 2 - The Haskell Interlude (podcast)](https://www.listennotes.com/podcasts/the-haskell/80-popl-2026-part-2-WOG2fI-tkse/) | kw: POPL 2026 | source: functional-programming
