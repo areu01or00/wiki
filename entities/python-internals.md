@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [Benchmarking Python Flavors: PyPy, CPython (standard / free-threaded / jit), Cython & Numba](https://www.chauvel.org/blog/pypy-benchmark-take2) | kw: Benchmarking Python Flavors: PyPy, CPython (standard / free-threaded / jit), Cython & Numba | source: chauvel.org | profile: python-internals
+- **2026-06-16** | [Experimenting with free threaded Python - julian.ac](https://www.julian.ac/blog/2025/05/04/experimenting-with-free-threaded-python) | kw: Experimenting with free threaded Python - julian.ac | source: julian.ac | profile: python-internals
+
 - **2026-06-16** | [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals) | kw: The Design & Implementation of the CPython Virtual Machine | source: blog.codingconfessions.com | profile: python-internals
 - **2026-06-16** | [Python 3.12 & 3.13 Internals: What Actually Changed](https://medium.com/%40devopsbyte25/python-3-12-3-13-internals-what-actually-changed-and-why-devops-engineers-should-care-c969478fee4b) | kw: Python 3.12 & 3.13 Internals: What Actually Changed | source: medium.com | profile: python-internals
 

@@ -444,13 +444,12 @@
         "Serverless Architecture",
         "Caching Strategies",
         "Consistency",
-        "Strategies"
+        "Strategies",
+        "Distributed System",
+        "Conference",
+        "Interoperable Systems"
       ],
       "last_result_hashes": [
-        "6a844cba5f4dbe6112de4dacb09bede6",
-        "056b14e78a14af65a4d0ae47a4e64443",
-        "2d3339fbcb04e9f626d884e03958e8d3",
-        "a0463b664260e00c851a53d961cfa770",
         "729c2ff54afb3063182d60de7d6aef1c",
         "e9d45130824f67775300df37d0b653d5",
         "000e636c2d8f8b023001384d271bfa7a",
@@ -466,9 +465,13 @@
         "8282bc38c31cae78de009daeeac96471",
         "498e7043d849cf4ef13dc9a4252ffbbb",
         "f82db65ad647bfed8e2200753b0aae29",
-        "886fba2fd8531408e81a23f3cd602e1d"
+        "886fba2fd8531408e81a23f3cd602e1d",
+        "815d414280db6c3b8a91ba6ef467a5f7",
+        "9a8dff2d2bfea161d5495cd29164bc45",
+        "8461c0b98698e21e463c468ab4c12ce9",
+        "032b7b28787a196221f0d2e1093c541a"
       ],
-      "last_run": "2026-06-16 03:35 UTC"
+      "last_run": "2026-06-16 03:50 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -924,14 +927,12 @@
         "AOT Compilation",
         "V8 TurboFan",
         "V8 Maglev",
-        "Rust Monomorphization"
+        "Rust Monomorphization",
+        "Phoronix",
+        "Freeze",
+        "Feature Development Ends With"
       ],
       "last_result_hashes": [
-        "381c5829c4542d830b4e98667478e845",
-        "191137fb0d9c6770341ad41eba235f6e",
-        "c988d203ffb86a252a80be5c9dbd7a13",
-        "bbb446f219d0926dc00975255367705e",
-        "23259200a7be4533fe1e25b8fdeb4b83",
         "aaf7a499b0a149f3ceed52bb04487e2e",
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
         "c244691245eea292f64e37daee23f81a",
@@ -946,9 +947,14 @@
         "6e76d5990761a54f756d319e37fddbb0",
         "9b826d333b3b57a1e5f9408ec86de83c",
         "a888bd8966b306914c973b55ba7dd171",
-        "dc5ada16f234dc184f112304b0917552"
+        "dc5ada16f234dc184f112304b0917552",
+        "f7ef2aec37ec63346f977cfd55a9105a",
+        "9a28fd87bf9d7fba2b9796625911afbb",
+        "eea9f8a25eaa86301bf5326e9f60197c",
+        "04e429934b8a1ea5fe4d6f255879b1e5",
+        "619a49efaa11cdecdfa3371459c61065"
       ],
-      "last_run": "2026-06-16 03:35 UTC"
+      "last_run": "2026-06-16 03:50 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1385,10 +1391,12 @@
         "MyPy",
         "Embedding Projection",
         "Affine Types",
-        "Reticulated"
+        "Reticulated",
+        "Migration Guide",
+        "New Features",
+        "Migration"
       ],
       "last_result_hashes": [
-        "98a25f82aa01c6e3086793f3280a92b9",
         "7d43df11a787f4da1d8ba7253fb6f91f",
         "aa2f3be76632e120f0f252da09afe144",
         "c0a1b20df386e996d20ee8d6d0d8052b",
@@ -1407,9 +1415,10 @@
         "37ffd58453521e02c05e593eedaf102e",
         "4a101114e3b691c4671d64770c39c052",
         "08183a095f9bb03fe7dd6ce06dfd5115",
-        "9a3ca8ef0be6bd5ed1e25f6590c663f6"
+        "9a3ca8ef0be6bd5ed1e25f6590c663f6",
+        "e3bc3b32c225aafd24dadad781d0f3fa"
       ],
-      "last_run": "2026-06-16 03:35 UTC"
+      "last_run": "2026-06-16 03:50 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1872,10 +1881,10 @@
         "Monad in Rust",
         "lambda",
         "calculus",
-        "Prolegomenon"
+        "Prolegomenon",
+        "Procedural"
       ],
       "last_result_hashes": [
-        "449f1936d11b3408b5111b8fbfc6e205",
         "a5ec768916952f0e20e69946be09c3bb",
         "f7491b28dc9f0f11b6d08c34b48e40b3",
         "ccf23b2d9379d813f2227d33ff80cc61",
@@ -1894,9 +1903,10 @@
         "88639568d7620593c2b895e44fe730fc",
         "c52f5174ff9b2fb18fb776e711ed0486",
         "42966b89a99e1a0b00c1ccd24f75957f",
-        "81f416bda62e20437250860785d5442e"
+        "81f416bda62e20437250860785d5442e",
+        "f02537d7405560db35de2d0e57bab0b2"
       ],
-      "last_run": "2026-06-16 03:35 UTC"
+      "last_run": "2026-06-16 03:50 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2339,10 +2349,12 @@
         "Basics",
         "Mastery",
         "Internshala",
-        "Trainings"
+        "Trainings",
+        "Crack Coding Interviews",
+        "Latest",
+        "Updated"
       ],
       "last_result_hashes": [
-        "9f7f5957d3cd6c9bab3086d4f100f36d",
         "04e8f9727ba4b4313c825b630c7b2466",
         "7dd98b5c6fd94cfd047f81234ec9a806",
         "9387b7eb6f50258c4ce819901e73b636",
@@ -2361,9 +2373,10 @@
         "1bfc48dcc21dee0fda35a41d45014bf0",
         "86d4781661bbc746297abd51599dbc01",
         "91b947cdb84929a43202be06d8ca3ad9",
-        "869f16b80e9abafe0182446861fa3c15"
+        "869f16b80e9abafe0182446861fa3c15",
+        "06c322d87713b727395865831d396c7b"
       ],
-      "last_run": "2026-06-16 03:35 UTC"
+      "last_run": "2026-06-16 03:50 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2804,11 +2817,12 @@
         "Garbage Collection Generations",
         "Implementation",
         "Virtual",
-        "Machine"
+        "Machine",
+        "Cython",
+        "Experimenting",
+        "Benchmarking Python Flavors"
       ],
       "last_result_hashes": [
-        "57cb347628437b683ab03cc48961e141",
-        "a644cc674fcdbfa4c77c61aef3b48334",
         "bcd02b560f546699af2e830278d4a34b",
         "cc9b7e9ca696d3ed6356ac146599fabd",
         "76fb8117f39114d73b4110ed5c796ad6",
@@ -2826,9 +2840,11 @@
         "b3593c9f59eca4f8b6263b3a3f35c76d",
         "51a323ecbfc30ec8c1f84a7ebb223f85",
         "195cc5355800be062c15e1a66ccfcacd",
-        "7d7462b15a5b202849cc8e6a4ee62adf"
+        "7d7462b15a5b202849cc8e6a4ee62adf",
+        "c0ed2434781fa49c7ae5c7124aabb9dd",
+        "9801624fa1d70fb72d5743d08e82ba4e"
       ],
-      "last_run": "2026-06-16 03:35 UTC"
+      "last_run": "2026-06-16 03:50 UTC"
     }
   }
 }

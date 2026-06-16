@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Python 3.14 — New Features, Internal Changes & Migration Guide](https://www.c-sharpcorner.com/article/whats-new-in-python-3-14-deep-dive-for-developers/) | kw: Python 3.14 — New Features, Internal Changes & Migration Guide | source: c-sharpcorner.com | profile: type-systems
+
 
 - **2026-06-16** | [Putting Gradual Types to Work | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-030-67438-0_4) | kw: Putting Gradual Types to Work | Springer Nature Link
 

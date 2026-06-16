@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Distributed Applications and Interoperable Systems: 26th IFIP](https://link.springer.com/book/10.1007/978-3-032-27358-1) | kw: Distributed Applications and Interoperable Systems: 26th IFIP | source: link.springer.com | profile: system-design
+- **2026-06-16** | [Research on Load Balancing Technology in Distributed System](http://scholar-press.com/uploads/papers/pCoJxq1BJliijL3aVfovWaD8EaMCGulrDWLSPefc.pdf) | kw: Research on Load Balancing Technology in Distributed System | source: scholar-press.com | profile: system-design
+- **2026-06-16** | [Distributed Systems in Practice, in Theory - InfoQ](https://www.infoq.com/presentations/distributed-systems-patterns) | kw: Distributed Systems in Practice, in Theory - InfoQ | source: infoq.com | profile: system-design
+- **2026-06-16** | [IEEE ICDCS 2026 | 46th IEEE International Conference on Distributed Computing Systems](https://icdcs2026.icdcs.org/) | kw: IEEE ICDCS 2026 | 46th IEEE International Conference on Distributed Computing Systems | source: icdcs2026.icdcs.org | profile: system-design
+
 - **2026-06-16** | [Distributed Caching Patterns: Strategies for Scale and Consistency | Imperialis Tech](https://imperialis.tech/en/blog/distributed-caching-patterns-strategies-scale-2026) | kw: Distributed Caching Patterns: Strategies for Scale and Consistency | Imperialis... | source: imperialis.tech | profile: system-design
 
 
