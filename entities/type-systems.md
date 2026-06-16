@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Advanced TypeScript Type System Features · Technical news ...](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features) | kw: Advanced TypeScript Type System Features · Technical news  | source: type-systems
+
 - **2026-06-16** | [Efficient Selection of Type Annotations for Performance (Programming Journal 2026)](https://programming-journal.org/2026/11/3/) | kw: gradual typing | source: type-systems
 - **2026-06-16** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (arXiv 2603.05649)](https://arxiv.org/abs/2603.05649) | kw: type annotations | source: type-systems
 - **2026-06-16** | [Gradual Types - Stanford CS 242 Lecture 16](https://www-leland.stanford.edu/class/cs242/materials/lectures/lecture16.pdf) | kw: gradual types | source: type-systems
