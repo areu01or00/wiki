@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory) | kw: Type theory - Wikipedia | source: type-systems
+- **2026-06-16** | [Type Systems and Functional Programming Language Theory | Nature Index](https://www.nature.com/nature-index/topics/l4/type-systems-and-functional-programming-language-theory) | kw: Type Systems and Functional Programming Language Theory | Nature Index | source: type-systems
+- **2026-06-16** | [Types and Programming Languages - University of Pennsylvania](https://www.cis.upenn.edu/~bcpierce/tapl/) | kw: Types and Programming Languages - University of Pennsylvania | source: type-systems
+- **2026-06-16** | [Typed lambda calculus - Wikipedia](https://en.wikipedia.org/wiki/Typed_lambda_calculus) | kw: Typed lambda calculus - Wikipedia | source: type-systems
+- **2026-06-16** | [Types and Programming Languages (Mit Press): Pierce, Benjamin C. | Amazon.com](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) | kw: Types and Programming Languages (Mit Press): Pierce, Benjamin C. | Amazon.com | source: type-systems
+- **2026-06-16** | [TYPES 2026: TYPES 2026](https://types2026.cse.chalmers.se/index.html) | kw: TYPES 2026: TYPES 2026 | source: type-systems
+- **2026-06-16** | [Type Systems for Programming Languages](https://ropas.snu.ac.kr/~kwang/520/pierce_book.pdf) | kw: Type Systems for Programming Languages | source: type-systems
+
 - **2026-06-16** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing in Type Theory - numberanalytics.com | source: type-systems
 - **2026-06-16** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with Inference | source: type-systems
 - **2026-06-16** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual typing - Wikipedia | source: type-systems

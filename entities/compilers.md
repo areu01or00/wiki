@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [List of JavaScript engines - Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_engines) | kw: List of JavaScript engines - Wikipedia | source: compilers
+- **2026-06-16** | [Performance Improvements in JDK 26 - Inside.java](https://inside.java/2026/06/09/jdk-26-performance-improvements) | kw: Performance Improvements in JDK 26 - Inside.java | source: compilers
+
 - **2026-06-16** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025) | source: compilers
 - **2026-06-16** | [Llvm Jit Compiler By C Lattner Et Al Integration: Deploying Edge-Based Platform Frameworks](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: Llvm Jit Compiler By C Lattner Et Al Integration: Deploying Edge-Based Platform Frameworks | source: compilers
 - **2026-06-16** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: The LLVM Compiler Framework and Infrastructure | source: compilers
