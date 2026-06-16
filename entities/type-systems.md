@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [GitHub - interestingLSY/swiftLLM: A tiny yet powerful LLM inference system tailored for researching purpose. vLLM-equivalent performance with only 2k lines of code (2% of vLLM).](https://github.com/interestingLSY/swiftLLM) | kw: LLM inference, Triton, vLLM alternative
+
 - **2026-06-16** | [Type Systems in Programming Languages: A Performance, Safety, and Development Efficiency-Analysis](https://www.ijsr.net/getabstract.php?paperid=SR26113212016) | kw: Type, Systems, Programming, Languages
 
 - **2026-06-16** | [Simply-typed lambda calculus](https://groups.seas.harvard.edu/courses/cs152/2026sp/lectures/lec11-types.pdf) | kw: Simply-typed lambda calculus | source: type-systems
