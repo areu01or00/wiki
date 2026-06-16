@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: auto
+- **2026-06-16** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: auto
+- **2026-06-16** | [GitHub - kashifansari17/Leetcode-TOP-75-: Top 75 DSA ...](https://github.com/kashifansari17/Leetcode-TOP-75-) | kw: auto
+- **2026-06-16** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: auto
+- **2026-06-16** | [DSA Fundamentals: Two Pointers & Sliding Window - From Theory to LeetCode Practice - DEV Community](https://dev.to/jayk0001/dsa-fundamentals-two-pointers-sliding-window-from-theory-to-leetcode-practice-80f) | kw: auto
+- **2026-06-16** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: auto
+- **2026-06-16** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: auto
+- **2026-06-16** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: auto
+
 - **2026-06-16** | [50+ Data Structures and Algorithms Interview Questions for 2026](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers) | kw: 50+ Data Structures and Algorithms Interview Questions for 2026 | source: www.upgrad.com | profile: algorithms
 
 - **2026-06-16** | [Common LeetCode Coding Patterns - Cheat sheet](https://medium.com/%40rabhinaya0/common-leetcode-coding-patterns-8cb1d2090b70) | kw: Common LeetCode Coding Patterns - Cheat sheet

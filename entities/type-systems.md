@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Understanding Graduality in Programming Languages through ...](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: auto
+- **2026-06-16** | [Gradual Typing And Hybrid Systems Integration: Securing High-Throughput Platform Frameworks](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: auto
+- **2026-06-16** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: auto
+- **2026-06-16** | [Foundations for Gradual Typing - Khoury College of Computer ...](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: auto
+- **2026-06-16** | [100+ Type Inference Online Courses for 2026 | Explore Free ...](https://www.classcentral.com/subject/type-inference) | kw: auto
+
 - **2026-06-16** | [gradual typing python (and my approach) (beginner)](https://www.youtube.com/watch?v=Rk-Y71P_9KE) | kw: gradual typing python (and my approach) (beginner) | source: youtube.com | profile: type-systems
 
 - **2026-06-16** | [Python 3.14 — New Features, Internal Changes & Migration Guide](https://www.c-sharpcorner.com/article/whats-new-in-python-3-14-deep-dive-for-developers/) | kw: Python 3.14 — New Features, Internal Changes & Migration Guide | source: c-sharpcorner.com | profile: type-systems

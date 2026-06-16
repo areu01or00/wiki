@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: auto
+- **2026-06-16** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025) | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: auto
+- **2026-06-16** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: auto
+- **2026-06-16** | [[Compiler] 20. Modern Compiler Development and Applications | Chaos and Order](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: auto
+- **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: auto
+- **2026-06-16** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: auto
+- **2026-06-16** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: auto
+
 - **2026-06-16** | [Building a JIT Compiler from Scratch: Part 1 — Why Build a JIT Compiler? - DEV Community](https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-590o) | kw: Building a JIT Compiler from Scratch: Part 1 — Why Build a JIT Compiler? - DEV C | source: dev.to | profile: compilers
 
 - **2026-06-16** | [What is new in LLVM 22 (ARM Holdings plc) - WorldNews](https://article.wn.com/view/2026/04/23/What_is_new_in_LLVM_22_ARM_Holdings_plc/) | kw: What is new in LLVM 22 (ARM Holdings plc) - WorldNews | source: article.wn.com | profile: compilers

@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: auto
+- **2026-06-16** | [Haskell Tutorial for C Programmers - HaskellWiki](https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers) | kw: auto
+- **2026-06-16** | [Understanding Monads](https://nickx.hu/Monads.pdf) | kw: auto
+- **2026-06-16** | [GitHub - jvr0x/rust-functional-programming: A series of examples illustrating functional programming in rust. · GitHub](https://github.com/jvr0x/rust-functional-programming) | kw: auto
+- **2026-06-16** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ...](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: auto
+- **2026-06-16** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic) | kw: auto
+- **2026-06-16** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: auto
+
 - **2026-06-16** | [What Is Monad (MON) Fundamentals Analysis: Whitepaper Logic, Use Cases, Technology Innovation, Roadmap Progress, and Team Background Explained? | Gate Wiki](https://web3.gate.com/en/crypto-wiki/article/what-is-monad-mon-fundamentals-analysis-whitepaper-logic-use-cases-technology-innovation-roadmap-progress-and-team-background-explained-20251226) | kw: What Is Monad (MON) Fundamentals Analysis: Whitepaper Logic, Use Cases, Technolo | source: web3.gate.com | profile: functional-programming
 
 

@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: auto
+- **2026-06-16** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: auto
+- **2026-06-16** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design – Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: auto
+- **2026-06-16** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: auto
+- **2026-06-16** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: auto
+- **2026-06-16** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: auto
+- **2026-06-16** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: auto
+- **2026-06-16** | [Microservices Design Patterns: The Comprehensive ...](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: auto
+- **2026-06-16** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: auto
+
 - **2026-06-16** | [Architectural Design Trends for 2026: What Firms Must Know](https://www.bargedesign.com/blogs/top-architectural-design-trends-for-2026) | kw: Architectural Design Trends for 2026: What Firms Must Know | source: www.bargedesign.com | profile: system-design
 - **2026-06-16** | [Eight trends defining how software gets built in 2026 | Claude](https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026) | kw: Eight trends defining how software gets built in 2026 | Claude | source: claude.com | profile: system-design
 

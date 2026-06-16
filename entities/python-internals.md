@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: auto
+- **2026-06-16** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: auto
+- **2026-06-16** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: auto
+- **2026-06-16** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: auto
+- **2026-06-16** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: auto
+- **2026-06-16** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: auto
+- **2026-06-16** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: auto
+- **2026-06-16** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: auto
+- **2026-06-16** | [The Ultimate Python Learning Roadmap for 2026: Complete](https://course4all.com/blog/python-learning-roadmap-2026) | kw: auto
+
 - **2026-06-16** | [Benchmarking Python Flavors: PyPy, CPython (standard / free-threaded / jit), Cython & Numba](https://www.chauvel.org/blog/pypy-benchmark-take2) | kw: Benchmarking Python Flavors: PyPy, CPython (standard / free-threaded / jit), Cython & Numba | source: chauvel.org | profile: python-internals
 - **2026-06-16** | [Experimenting with free threaded Python - julian.ac](https://www.julian.ac/blog/2025/05/04/experimenting-with-free-threaded-python) | kw: Experimenting with free threaded Python - julian.ac | source: julian.ac | profile: python-internals
 
