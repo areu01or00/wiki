@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [The lambda calculus - Prolegomenon to functional programming](https://www.patrickdelliott.com/hhu-haskell/lambda.pdf) | kw: The lambda calculus - Prolegomenon to functional programming | source: www.patrickdelliott.com | profile: functional-programming
+
 - **2026-06-16** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam vs. Rust | source: www.penchef.com | profile: functional-programming
 - **2026-06-16** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: The Future of Haskell and Functional Programming | source: softwarepatternslexicon.com | profile: functional-programming
 - **2026-06-16** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's Coming for Haskell in 2026 - slicker.me | source: slicker.me | profile: functional-programming

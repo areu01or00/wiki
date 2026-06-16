@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals) | kw: The Design & Implementation of the CPython Virtual Machine | source: blog.codingconfessions.com | profile: python-internals
+- **2026-06-16** | [Python 3.12 & 3.13 Internals: What Actually Changed](https://medium.com/%40devopsbyte25/python-3-12-3-13-internals-what-actually-changed-and-why-devops-engineers-should-care-c969478fee4b) | kw: Python 3.12 & 3.13 Internals: What Actually Changed | source: medium.com | profile: python-internals
+
 - **2026-06-16** | [Python Memory Optimization: 10 Hacks to Reduce RAM Usage in 2025 | Python in Plain English](https://python.plainenglish.io/python-memory-optimization-hacks-stop-wasting-ram-like-its-free-in-2025-b61e3eeb9f20) | kw: Python Memory Optimization: 10 Hacks to Reduce RAM Usage in 2025 | Python in Pla
 
 - **2026-06-16** | [Python 3.14 New Features: What's Changed and Why It Matters](https://dasroot.net/posts/2026/02/python-314-new-features-what-changed-why-it-matters/) | kw: Python 3.14 New Features: What's Changed and Why It Matters | source: dasroot.net | profile: python-internals

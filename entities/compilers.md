@@ -1,6 +1,7 @@
 # Compilers
 
 ## Updates
+
 - **2026-06-16** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in L | source: thecodersblog.com | profile: compilers
 - **2026-06-16** | [LLVM JIT Discussion (ORC/JITLink) - Zenn](https://zenn.dev/toga/scraps/948f581e2c441f) | kw: LLVM JIT Discussion (ORC/JITLink) - Zenn | source: zenn.dev | profile: compilers
 - **2026-06-16** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan, Maglev, In | source: www.youngju.dev | profile: compilers

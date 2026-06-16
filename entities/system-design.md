@@ -1,6 +1,7 @@
 # System Design
 
 ## Updates
+
 - **2026-06-16** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System Design Series Part 3: Load Balancing & Caching | source: www.wasilzafar.com | profile: system-design
 - **2026-06-16** | [System Design Fundamentals - Scalability, Availability, Caching, and Message Queues](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System Design Fundamentals - Scalability, Availability, Caching, and Message Que | source: www.youngju.dev | profile: system-design
 - **2026-06-16** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed Systems Roadmap (2026) | source: thedesignround.com | profile: system-design
