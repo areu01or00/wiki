@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [13 Best Data Structures & Algorithms Courses for 2026 - Class Central](https://www.classcentral.com/report/best-algos-data-structure-courses) | kw: 13 Best Data Structures Algorithms Courses | source: algorithms
+
 - **2026-06-16** | [LeetCode 75 - Study Plan](https://leetcode.com/studyplan/leetcode-75/) | kw: LeetCode 75 - Study Plan
 
 - **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: auto
