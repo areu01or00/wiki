@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [The Future of Java: What to Expect in 2026 and Beyond - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-future-of-java-what-to-expect-in-2026-and-beyond.html) | kw: Java type system | source: type-systems
+
 - **2026-06-16** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: 2026
 - **2026-06-16** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: A
 - **2026-06-16** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: -
