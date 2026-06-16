@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Simply-typed lambda calculus](https://groups.seas.harvard.edu/courses/cs152/2026sp/lectures/lec11-types.pdf) | kw: Simply-typed lambda calculus | source: type-systems
+- **2026-06-16** | [Static, Dynamic, Strong and Weak Type Systems](https://nurkiewicz.com/2020/09/type-systems.html) | kw: Static, Dynamic, Strong and Weak Type Systems | source: type-systems
+- **2026-06-16** | [CS 242: Type systems](https://stanford-cs242.github.io/f18/lectures/02-1-type-systems.html) | kw: CS 242: Type systems | source: type-systems
+- **2026-06-16** | [CS 4110 - Programming Languages and Logics Lecture 25](https://www.cs.cornell.edu/courses/cs4110/2025fa/lectures/lecture25.pdf) | kw: CS 4110 - Programming Languages and Logics Lect... | source: type-systems
+- **2026-06-16** | [Fully-Automatic Type Inference for Borrows with Lifetimes](https://al.radbox.org/doi/10.1145/3798221) | kw: Fully-Automatic Type Inference for Borrows with... | source: type-systems
+
 - **2026-06-16** | [TYPES 2026](https://types2026.cse.chalmers.se/files/book-of-abstracts.pdf) | kw: TYPES 2026 | source: type-systems
 - **2026-06-16** | [PLDI Conference - Home](https://dl.acm.org/conference/pldi) | kw: PLDI Conference - Home | source: type-systems
 - **2026-06-16** | [Typestate via Revocable Capabilities - arXiv.org](https://arxiv.org/html/2510.08889v2) | kw: Typestate via Revocable Capabilities - arXiv.org | source: type-systems

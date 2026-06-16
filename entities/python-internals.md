@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [Python 3.14 - New Features, Internal Changes & Migration Guide](https://www.c-sharpcorner.com/article/whats-new-in-python-3-14-deep-dive-for-developers/) | kw: Python 3.14 - New Features, Internal Changes & ... | source: python-internals
+- **2026-06-16** | [Slower performance with --disable-gil on threaded benchmark](https://discuss.python.org/t/slower-performance-with-disable-gil-on-threaded-nearest-neighbor-benchmark-10m-points/95365) | kw: Slower performance with --disable-gil on thread... | source: python-internals
+
 - **2026-06-16** | [How Python's GIL Actually Works (And Why It Exists) - miydevforge](https://miydevforge.com/blog/how-python-gil-works/) | kw: How
 
 - **2026-06-16** | [Python 3.15 Features Locked in June 2026 Feature Freeze](https://explore.n1n.ai/blog/python-3-15-feature-freeze-june-2026-updates-2026-06-09) | kw: Python 3.15 Features Locked in June 2026 Feature Freeze | source: python-internals

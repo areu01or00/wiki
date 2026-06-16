@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Mastering Competitive Programming: Strategies & Techniques](https://www.jbwebeng.co.uk/2026/06/competitive-programming-tutorials.html) | kw: Mastering Competitive Programming: Strategies &... | source: algorithms
+- **2026-06-16** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert (... | source: algorithms
+- **2026-06-16** | [Competitive Programming - A Complete Guide](https://www.geeksforgeeks.org/dsa/competitive-programming-a-complete-guide) | kw: Competitive Programming - A Complete Guide | source: algorithms
+
 - **2026-06-16** | [LeetCode Solutions using Algorithms and Data Structure in C#](https://www.real.discount/offer/leetcode-solutions-using-algorithms-and-data-structure-in-c-16615) | kw: LeetCode
 
 - **2026-06-16** | [20 LeetCode Patterns Every New Grad Must Know Before ...](https://dglearning.substack.com/p/20-leetcode-patterns-every-new-grad) | kw: 20 LeetCode Patterns Every New Grad Must Know Before ... | source: algorithms

@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Functional programming on Haskell language](https://stepik.org/course/75/promo) | kw: Functional programming on Haskell language | source: functional-programming
+- **2026-06-16** | [New tutorial series on implementing lambda calculus interpreter](https://discourse.haskell.org/t/new-tutorial-series-on-implementing-lambda-calculus-interpreter-in/14268) | kw: New tutorial series on implementing lambda calc... | source: functional-programming
+
 - **2026-06-16** | [Functors and Monads in Practice | JSGuides](https://jsguides.dev/tutorials/javascript-functional-programming/fp-functors-monads) | kw: Functors and Monads in Practice | JSGuides | source: functional-programming
 
 - **2026-06-16** | [Glasgow Haskell Compiler — The Glasgow Haskell Compiler](https://www.haskell.org/ghc) | kw: Glasgow Haskell Compiler — The Glasgow Haskell Compiler | source: functional-programming
