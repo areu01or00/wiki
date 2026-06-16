@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025) | source: compilers
+- **2026-06-16** | [Llvm Jit Compiler By C Lattner Et Al Integration: Deploying Edge-Based Platform Frameworks](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: Llvm Jit Compiler By C Lattner Et Al Integration: Deploying Edge-Based Platform Frameworks | source: compilers
+- **2026-06-16** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: The LLVM Compiler Framework and Infrastructure | source: compilers
+- **2026-06-16** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM: The Future of Compiler Technology | source: compilers
+- **2026-06-16** | [LLVM Roadmap for Beginners Explained - CompilerSutraMail](https://www.compilersutra.com/docs/llvm/intro-to-llvm) | kw: LLVM Roadmap for Beginners Explained - CompilerSutraMail | source: compilers
+- **2026-06-16** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust | source: compilers
+- **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 | source: compilers
+- **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... | source: compilers
+
 - **2026-06-16** | [[Compiler] 20. Modern Compiler Development and Applications](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: [Compiler] 20. Modern Compiler Development and Applications | source: compilers
 
 - **2026-06-16** | [The State of Native Execution for Spark: Photon, Gluten, and ...](https://sparkingscala.com/latest/2026/06/12/native-execution-landscape-2026) | kw: The State of Native Execution for Spark: Photon... | source: compilers

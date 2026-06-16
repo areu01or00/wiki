@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing in Type Theory - numberanalytics.com | source: type-systems
+- **2026-06-16** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with Inference | source: type-systems
+- **2026-06-16** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual typing - Wikipedia | source: type-systems
+- **2026-06-16** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: 100+ Type Inference Online Courses for 2026 | source: type-systems
+- **2026-06-16** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing | source: type-systems
+- **2026-06-16** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing - Khoury College | source: type-systems
+- **2026-06-16** | [Gradual Typing Performance, Micro Configurations and Macro](https://link.springer.com/chapter/10.1007/978-3-031-64626-3_15) | kw: Gradual Typing Performance, Micro Configurations and Macro | source: type-systems
+- **2026-06-16** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: Jeremy Siek | Web Page | source: type-systems
+
 - **2026-06-16** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming Journal)](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Per... | source: type-systems
 
 - **2026-06-16** | [Putting Gradual Types to Work (NSF)](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types to Work (NSF) | source: type-systems

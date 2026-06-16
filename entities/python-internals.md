@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob | source: python-internals
+- **2026-06-16** | [The Ultimate Python Learning Roadmap for 2026: Complete](https://course4all.com/blog/python-learning-roadmap-2026) | kw: The Ultimate Python Learning Roadmap for 2026: Complete | source: python-internals
+- **2026-06-16** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: The Future of Python Internals: Exploring GIL Removal and Other Optimizations | source: python-internals
+- **2026-06-16** | [Python 3.14 Free-Threading and Experimental JIT: How Python](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python 3.14 Free-Threading and Experimental JIT: How Python | source: python-internals
+- **2026-06-16** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: How Python's GIL Actually Works (And Why It Exists) | source: python-internals
+- **2026-06-16** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling and Optimization Techniques | source: python-internals
+
 - **2026-06-16** | [Under the Hood of Python: Internals, Optimization, and Modern Features - Habibullah's Blog](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Habibullah's Blog | source: python-internals
 - **2026-06-16** | [Python GIL: The Key to Backend Performance and Multithreading - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: odysse.io | source: python-internals
 - **2026-06-16** | [Python 3.14 Free-Threading and Experimental JIT: How Python Changed in 2026 - imseankim](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Threading and Experimental JIT: How Python Chan... | source: python-internals

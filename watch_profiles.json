@@ -468,12 +468,6 @@
         "Online"
       ],
       "last_result_hashes": [
-        "8a4c6c3b1a58ba76429a4cc01eb115a4",
-        "fc39755b74d487ac85df735139866a17",
-        "848a06554e3ca137e425aa0a6367b703",
-        "6fe9880853103e8782a6653a46dc9a3c",
-        "24a79938570a54df80e0966181b4187d",
-        "54449127c5a919ced70c6b4477340a18",
         "690d590f2d4747105628c6a7fb5c1fcb",
         "e9d45130824f67775300df37d0b653d5",
         "0bccdfeceeee7664c4e61f75605f9f8f",
@@ -487,9 +481,15 @@
         "a8019b77c9cfdd489bf2b62597c40838",
         "1f7cf531d15bd4fc5437f857ad3c969e",
         "729c2ff54afb3063182d60de7d6aef1c",
-        "6a8023ed8f6d80dc6383b03a803b7c26"
+        "6a8023ed8f6d80dc6383b03a803b7c26",
+        "cb1eb2ebde1523022fa96826066cb39c",
+        "056b14e78a14af65a4d0ae47a4e64443",
+        "138a5f5429696bde556b67d915262c48",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "697337f881dc40cc977774b3475bbe3d",
+        "2b4e9bd2c4202e42f37a0a03ee3326e2"
       ],
-      "last_run": "2026-06-16T20:48:29.939312+00:00",
+      "last_run": "2026-06-16T21:18:46.190700+00:00",
       "new_sub_topics_this_run": []
     },
     "compilers": {
@@ -971,17 +971,14 @@
         "Photon",
         "State",
         "BestHub",
-        "Spark"
+        "Spark",
+        "Frameworks",
+        "Edge-Based",
+        "Lattner",
+        "Platform",
+        "Deploying"
       ],
       "last_result_hashes": [
-        "742efaab24e38475fd7f26174f733cb4",
-        "89b86a1e941e3b969577a2a1b4d502ff",
-        "16e3015f76b3c17ff2f898bca1982a77",
-        "575d42df35232a514a749fda9aa14bac",
-        "af906821b5af28695658baff9661080f",
-        "45eb7d9428b8a986db2659816703dea9",
-        "14bec6c679203be13206205a9edb80d7",
-        "c988d203ffb86a252a80be5c9dbd7a13",
         "2d93c33c37930e04ab71a621e065a756",
         "75758f0634f7ea17454ad137e0b1f1f1",
         "17ed08fe6778ce4ef2c1a88ba23596e9",
@@ -993,15 +990,23 @@
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
         "84ac896e5e54274a8ab008433692d205",
         "5d54a6ccb3d0ac626462282a4af2e122",
-        "1480847529e160848da4aee3f40eb00a"
+        "1480847529e160848da4aee3f40eb00a",
+        "381c5829c4542d830b4e98667478e845",
+        "95d039a87ff19238e99d0f66eb8fce0e",
+        "dc5ada16f234dc184f112304b0917552",
+        "6e76d5990761a54f756d319e37fddbb0",
+        "8c022b2d69274414288aca322244e1cc",
+        "b86eb07f5a984fccae1bb38c4d48f846",
+        "d63dbdc004563d48fd946feffeab6d0b",
+        "4cee999b71414851927c1c3805e155c2"
       ],
-      "last_run": "2026-06-16T21:04:36.963088+00:00",
+      "last_run": "2026-06-16T21:18:46.190700+00:00",
       "new_sub_topics_this_run": [
-        "Gluten",
-        "Photon",
-        "State",
-        "BestHub",
-        "Spark"
+        "Deploying",
+        "Edge-Based",
+        "Frameworks",
+        "Lattner",
+        "Platform"
       ]
     },
     "type-systems": {
@@ -1454,17 +1459,10 @@
         "Community",
         "Distributed",
         "MIT",
-        "Online"
+        "Online",
+        "Web"
       ],
       "last_result_hashes": [
-        "0f9158594ee860e8735c7889fdd01722",
-        "4f48b785fc08253f6118e54d7f3025b2",
-        "2f5af43627e5e32ac934944f1d78b26e",
-        "ac20cb501c99f4b173060c6f46d893ae",
-        "6a2badcfc23428269a6eb007c574b0a1",
-        "9a3ca8ef0be6bd5ed1e25f6590c663f6",
-        "016d64371253dfac69c9cecd983e49a5",
-        "c027f5d29aa0bfa5a3a5037b14ac8b26",
         "fa2d59208ac3743696c75624cbd1a2f5",
         "702d73cf5ed45308bd3db10d51360006",
         "a4428a72c3f30f04759e0c9ec9f17d9e",
@@ -1476,10 +1474,20 @@
         "481bf13dad9a849f34a663880bb0470f",
         "c0b8939bb00148936243259369f1f8a3",
         "2b077fcefb9f16574c355c5cae07ce7d",
-        "b212d998de83c9ed9264a175b09fee4a"
+        "b212d998de83c9ed9264a175b09fee4a",
+        "796dd8fb9f6369a2e77f75139af26f3c",
+        "4a101114e3b691c4671d64770c39c052",
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "7d43df11a787f4da1d8ba7253fb6f91f",
+        "d08aaa9554d7cff65d53e42f52f9f36b",
+        "50cbc6a3a7d282cc18645c87c79aa8c2",
+        "f0d1d6ea8c3a1b1497e309c3c1ac57d2",
+        "5344d87edb48538d24562646a3c4df36"
       ],
-      "last_run": "2026-06-16T20:48:29.939312+00:00",
-      "new_sub_topics_this_run": []
+      "last_run": "2026-06-16T21:18:46.190700+00:00",
+      "new_sub_topics_this_run": [
+        "Web"
+      ]
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1968,17 +1976,15 @@
         "PrecisionAI",
         "CoinMarketCap",
         "Academy",
-        "Order"
+        "Order",
+        "Elm",
+        "Survey",
+        "Camp-by-Camp",
+        "Clojure",
+        "Lean",
+        "OCaml"
       ],
       "last_result_hashes": [
-        "0a62ee835ad335b7f6ad424b6dd4a629",
-        "0b3f65370da9f4cc7a8087d505af89f3",
-        "557d97bf324b6fda29f604740b526b04",
-        "91e1d5f516cde482971dfe2c96f9c79c",
-        "d860b9149b7e68d85774f53cf9425591",
-        "9e468f427c81adba063b45d72c784552",
-        "34879744f2a105709306e24e50011292",
-        "79cd05ad2ea3b4a8f88864da5ba58578",
         "81f416bda62e20437250860785d5442e",
         "c52f5174ff9b2fb18fb776e711ed0486",
         "98a11a5a90569fa1869db7245e6f4abe",
@@ -1990,15 +1996,24 @@
         "3bb0a852e2780a0d035603e5700fd0d0",
         "61aac13f4aa7f41f490000523a872329",
         "9faa7cf534e52ea65424258c0c6c7995",
-        "4b56a1b298ec470c828a97ece97945b9"
+        "4b56a1b298ec470c828a97ece97945b9",
+        "c2fefc572a2578f6f202a147d877925b",
+        "d5d4100c014c882edf3bcb08029fec9e",
+        "4c0642f869b24a6dd86c8846e6df9fe9",
+        "e2809728031a0a794b40bbdaef5a85f9",
+        "507d0954b1c28a4ea253d1bfcfbd1b35",
+        "06ce455b80c3353477db4172b1596c1e",
+        "6c5cb98e457a7ea49ad57c5293abde41",
+        "c012a57fa63492860f64045db3528e7a"
       ],
-      "last_run": "2026-06-16T20:48:29.939312+00:00",
+      "last_run": "2026-06-16T21:18:46.190700+00:00",
       "new_sub_topics_this_run": [
-        "Chaos",
-        "PrecisionAI",
-        "CoinMarketCap",
-        "Academy",
-        "Order"
+        "Camp-by-Camp",
+        "Clojure",
+        "Elm",
+        "Lean",
+        "OCaml",
+        "Survey"
       ]
     },
     "algorithms": {
@@ -2465,16 +2480,11 @@
         "WeCreateProblems",
         "FreeClass.AI",
         "InterviewQuestions.guru",
-        "TestMu"
+        "TestMu",
+        "Placements",
+        "Better"
       ],
       "last_result_hashes": [
-        "7a009ba4453758c43e7e5ada094d25c3",
-        "a0d7919657753f4029cdca912cd238a3",
-        "b12deb9be9141d1715e87e0b45db88a1",
-        "0e757e9bb4c5d4f25d75940ed1df618e",
-        "1dc82364e26e7eb38662be8970750fb2",
-        "73bb95a24e4bcccd1c227767f60e92ae",
-        "7e9fdd8c2ffc71a23e29276c3701990a",
         "89930b44724eb9643d814762f9f5f7d6",
         "9130b679ba352f107fe0f2646ccab1f7",
         "e3fe861eaece0cac9831e0fc5921ff9e",
@@ -2487,14 +2497,19 @@
         "5709f5373c7a0f5dfb0aba40ae5dce52",
         "3739df902d0a15eaecfaff44ff2d20c8",
         "8d2ee4fd79aa63ae35ba64533026932c",
-        "4a3b572c1b432c622eff59bd89faf947"
+        "4a3b572c1b432c622eff59bd89faf947",
+        "dba859e9113f969a0f84d759331953e7",
+        "b8a196b3948b15616b9ca37eca350feb",
+        "85c94428e923ba3f2759e44b0821e577",
+        "4206f0548aa77b69bedc008d791bb11e",
+        "cc20f76a074d85b32adf2f7be04809b9",
+        "8b872e9c4137efc4de77b9e0bf4a2ba1",
+        "1bfc48dcc21dee0fda35a41d45014bf0"
       ],
-      "last_run": "2026-06-16T20:48:29.939312+00:00",
+      "last_run": "2026-06-16T21:18:46.190700+00:00",
       "new_sub_topics_this_run": [
-        "WeCreateProblems",
-        "FreeClass.AI",
-        "InterviewQuestions.guru",
-        "TestMu"
+        "Better",
+        "Placements"
       ]
     },
     "python-internals": {
@@ -2966,12 +2981,6 @@
         "Habibullah"
       ],
       "last_result_hashes": [
-        "a792f282303dbd1f1ed21c5e38e85187",
-        "dc7b108c53ae2778e70fe351b8d1c541",
-        "69a53becce0829424d21b10468c71635",
-        "b210eea55a6b1b52b67ce005c76eac13",
-        "6afeb7f5bea0d7498741cdc8be926aac",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
         "5762b43aa5c7225de1987aa201fad1f7",
         "518725aa2f118e3bf8c6098bc4473c2c",
         "beaef31893811bf93a7c49c5427531ec",
@@ -2985,14 +2994,16 @@
         "7b0c583d3445b91efa0c0453e5a737c4",
         "9df3859b4715ae95cd2f1c86331d9b55",
         "76ba0be7cee13cb37ea5732e7844cc73",
-        "3584f6e29572e740c61038c1dd99634c"
+        "3584f6e29572e740c61038c1dd99634c",
+        "d2adce09b07afa8868adc1a5598d6db8",
+        "f6544333d0fee31e4743ad9220a27f5c",
+        "9132d1ca01d195338d05eb556f7164be",
+        "0e1bfc837529a36dd376cb6c1dc7b37c",
+        "195cc5355800be062c15e1a66ccfcacd",
+        "4cd24649bb264af960eb0db466e7076c"
       ],
-      "last_run": "2026-06-16T20:48:29.939312+00:00",
-      "new_sub_topics_this_run": [
-        "Chaos",
-        "Order",
-        "Habibullah"
-      ]
+      "last_run": "2026-06-16T21:18:46.190700+00:00",
+      "new_sub_topics_this_run": []
     }
   }
 }

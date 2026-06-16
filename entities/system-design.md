@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free Research | source: system-design
+- **2026-06-16** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System Design Series Part 3: Load Balancing & Caching - Wasil Zafar | source: system-design
+- **2026-06-16** | [The Future of Distributed Systems - techhoff](https://techhoff.net/the-future-of-distributed-systems) | kw: The Future of Distributed Systems - techhoff | source: system-design
+- **2026-06-16** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns | source: system-design
+- **2026-06-16** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Distributed Systems: Trends and Research Directions | source: system-design
+- **2026-06-16** | [System Architecture Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-architecture-design) | kw: System Architecture Design: The Complete Guide 2026 | source: system-design
+
 - **2026-06-16** | [Edge Computing Trends 2026: The Rise of Distributed Infrastructure](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge Computing Trends 2026 | source: system-design
 
 - **2026-06-16** | [Serverless vs. Kubernetes: The Cloud-Native Architecture](https://algeriatech.news/serverless-kubernetes-cloud-native-2026) | kw: Kubernetes
