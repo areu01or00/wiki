@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [All Things Distributed - Werner Vogels](https://www.allthingsdistributed.com/) | kw: All Things Distributed - Werner Vogels | profile: system-design
+
 - **2026-06-15** | [Distributed Systems Guide 2026: CAP, Consensus, Replication](https://precisionaiacademy.com/blog/distributed-systems-guide) | kw: Precision, Academy
 
 - **2026-06-15** | [Pattern: Event sourcing](https://microservices.io/patterns/data/event-sourcing.html) | kw: Pattern: Event sourcing | profile: system-design
