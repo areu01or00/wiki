@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [Exploring Simple Architecture of Just-in-Time Compilation in Databases](https://link.springer.com/chapter/10.1007/978-981-97-7244-5_44) | kw: Exploring Simple Architecture of Just-in-Time Compilation in Databases
+
 - **2026-06-16** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: auto
 - **2026-06-16** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025) | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: auto
 - **2026-06-16** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: auto
