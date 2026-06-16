@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing - Khoury College of Computer Sciences | source: type-systems
+- **2026-06-16** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual Typing - Language Design and Implementation | source: type-systems
+- **2026-06-16** | [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp) | kw: Gradual Typing Across the Spectrum | source: type-systems
+- **2026-06-16** | [Advanced TypeScript Type System Features](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features) | kw: Advanced TypeScript Type System Features | source: type-systems
+- **2026-06-16** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: GitHub - kevle6/Gradual_Typing | source: type-systems
+
 - **2026-06-16** | [Advanced TypeScript Type System Features · Technical news ...](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features) | kw: Advanced TypeScript Type System Features · Technical news  | source: type-systems
 
 - **2026-06-16** | [Efficient Selection of Type Annotations for Performance (Programming Journal 2026)](https://programming-journal.org/2026/11/3/) | kw: gradual typing | source: type-systems

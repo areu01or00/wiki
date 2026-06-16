@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics - DEV Community](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics - DEV Community | source: algorithms
+- **2026-06-16** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor B | source: algorithms
+- **2026-06-16** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data Structures & Algorithms Interview Guide 2026 | TechPrep | source: algorithms
+- **2026-06-16** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI | source: algorithms
+- **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026: 50 Problems [Solved] | source: algorithms
+- **2026-06-16** | [How to Get Better at LeetCode: 10 Tips That Actually Work (2026)](https://leetcopilot.dev/blog/how-to-get-better-at-leetcode-2026) | kw: How to Get Better at LeetCode: 10 Tips That Actually Work (2026) | source: algorithms
+- **2026-06-16** | [GitHub - ashishps1/awesome-leetcode-resources: Awesome LeetCode resources](https://github.com/ashishps1/awesome-leetcode-resources) | kw: GitHub - ashishps1/awesome-leetcode-resources: Awesome LeetCode resources | source: algorithms
+
 - **2026-06-16** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan - FreeClass.AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: DSA roadmap 2026 | source: algorithms
 - **2026-06-16** | [Data structures and algorithms study cheatsheets for coding interviews - Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: cheatsheets | source: algorithms
 - **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital) - PapersAdda](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: TCS LeetCode | source: algorithms

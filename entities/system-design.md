@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Comput | source: system-design
+- **2026-06-16** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Commu | source: system-design
+- **2026-06-16** | [System Design Guide 2026: Load Balancing, Caching, CDN ...](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026: Load Balancing, Caching, CDN ... | source: system-design
+- **2026-06-16** | [Mastering Distributed Systems - Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering Distributed Systems - Patterns & Principles (2026) | tutorialQ | source: system-design
+- **2026-06-16** | [Top 6 Enterprise Architecture Trends for 2026 and Beyond | ACL Digital](https://www.acldigital.com/blogs/top-6-enterprise-architecture-trends-shaping-2026-and-beyond) | kw: Top 6 Enterprise Architecture Trends for 2026 and Beyond | ACL Digital | source: system-design
+
 - **2026-06-16** | [The Future of Distributed Systems - techhoff](https://techhoff.net/the-future-of-distributed-systems) | kw: future distributed systems | source: system-design
 
 - **2026-06-16** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: &

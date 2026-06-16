@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python GIL: The Key to Backend Performance - odysse.io | source: python-internals
+- **2026-06-16** | [Python Global Interpreter Lock (GIL) - cosmiclearn.com](https://www.cosmiclearn.com/python/gil.php) | kw: Python Global Interpreter Lock (GIL) - cosmiclearn.com | source: python-internals
+- **2026-06-16** | [Python's GIL Is Gone - What That Actually Means for Your Code | Python in Plain English](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's GIL Is Gone - What That Actually Means for Your Code | Python in Plain  | source: python-internals
+
 - **2026-06-16** | [The Future of Python in 2026 | Emerging Trends, In-Demand Skills, and the Best Online Courses to Stay Competitive - upSkill](https://upskill.biz/the-future-of-python-in-2026-emerging-trends-in-demand-skills-and-the-best-online-courses-to-stay-competitive) | kw: The Future of Python in 2026 | Emerging Trends, In-Demand Sk | source: python-internals
 
 - **2026-06-16** | [How Python Works Under the Hood: Memory, GIL, and Bytecode - PythonCompiler](https://www.pythoncompiler.io/python/python-internals) | kw: under the hood | source: python-internals
