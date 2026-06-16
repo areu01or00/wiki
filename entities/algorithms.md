@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [DSA Interview Questions and Answers [2026] - Internshala Trainings](https://trainings.internshala.com/blog/dsa-interview-questions) | kw: DSA Interview Questions and Answers [2026] - Internshala Trainings | source: trainings.internshala.com | profile: algorithms
+
 - **2026-06-16** | [Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms) | kw: Foundations of Data Structures and Algorithms Specialization | source: www.coursera.org | profile: algorithms
 - **2026-06-16** | [Top DSA Courses on Coursera for 2026](https://www.analyticsinsight.net/courses/top-dsa-courses-for-2026-learn-data-structures-and-algorithms) | kw: Top DSA Courses on Coursera for 2026 | source: www.analyticsinsight.net | profile: algorithms
 - **2026-06-16** | [DSA Syllabus (Curriculum): From Basics to Mastery 2026](https://www.wscubetech.com/blog/dsa-syllabus/) | kw: DSA Syllabus (Curriculum): From Basics to Mastery 2026 | source: www.wscubetech.com | profile: algorithms
