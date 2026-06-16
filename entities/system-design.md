@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System Design Series Part 3: Load Balancing & Caching | source: www.wasilzafar.com | profile: system-design
+- **2026-06-16** | [System Design Fundamentals - Scalability, Availability, Caching, and Message Queues](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System Design Fundamentals - Scalability, Availability, Caching, and Message Que | source: www.youngju.dev | profile: system-design
+- **2026-06-16** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed Systems Roadmap (2026) | source: thedesignround.com | profile: system-design
+- **2026-06-16** | [Edge Computing Trends 2026: The Rise of Distributed Cloud](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge Computing Trends 2026: The Rise of Distributed Cloud | source: www.thetechtrep.com | profile: system-design
+- **2026-06-16** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns | source: tktips.org | profile: system-design
+
 - **2026-06-16** | [The Coming Paradigm Shift in Distributed Systems Architecture - Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: The Coming Paradigm Shift in Distributed Systems Architectur | source: gabogil.com | profile: system-design
 
 

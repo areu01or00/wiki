@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in L | source: thecodersblog.com | profile: compilers
+- **2026-06-16** | [LLVM JIT Discussion (ORC/JITLink) - Zenn](https://zenn.dev/toga/scraps/948f581e2c441f) | kw: LLVM JIT Discussion (ORC/JITLink) - Zenn | source: zenn.dev | profile: compilers
+- **2026-06-16** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan, Maglev, In | source: www.youngju.dev | profile: compilers
+- **2026-06-16** | [PEP 744 - JIT Compilation](https://peps.python.org/pep-0744/) | kw: PEP 744 - JIT Compilation | source: peps.python.org | profile: compilers
+- **2026-06-16** | [LLVM Roadmap for Beginners Explained - CompilerSutraMail](https://www.compilersutra.com/docs/llvm/intro-to-llvm) | kw: LLVM Roadmap for Beginners Explained - CompilerSutraMail | source: www.compilersutra.com | profile: compilers
+- **2026-06-16** | [Session Details: 2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: Session Details: 2026 European LLVM Developers' Meeting | source: llvm.swoogo.com | profile: compilers
+- **2026-06-16** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM: The Future of Compiler Technology | source: medium.com | profile: compilers
+- **2026-06-16** | [compiler-course-2026 - BuildingAJIT1.rst Tutorial](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 - BuildingAJIT1.rst Tutorial | source: github.com | profile: compilers
+
 - **2026-06-16** | [compiler-course-2026 LLVM tutorial BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 LLVM tutorial BuildingAJIT1.rst | source: github.com | profile: compilers
 - **2026-06-16** | [compiler-course-2026 fork - BuildingAJIT1.rst](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 fork - BuildingAJIT1.rst | source: github.com | profile: compilers
 - **2026-06-16** | [compiler-course-2026 LLVM tutorial BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026 LLVM tutorial BuildingAJIT3.rst | source: github.com | profile: compilers

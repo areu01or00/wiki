@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam vs. Rust | source: www.penchef.com | profile: functional-programming
+- **2026-06-16** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: The Future of Haskell and Functional Programming | source: softwarepatternslexicon.com | profile: functional-programming
+- **2026-06-16** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's Coming for Haskell in 2026 - slicker.me | source: slicker.me | profile: functional-programming
+- **2026-06-16** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell | source: discourse.haskell.org | profile: functional-programming
+- **2026-06-16** | [The Practical Value of Functional Programming - Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView (2025)](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming - Monad, Functor, Pure Functions,  | source: www.youngju.dev | profile: functional-programming
+- **2026-06-16** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like Patterns in Rust | source: softwarepatternslexicon.com | profile: functional-programming
+- **2026-06-16** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does Rust Support Functional Programming Idioms? | source: www.codegenes.net | profile: functional-programming
+- **2026-06-16** | [monadic - Rust crate](https://docs.rs/monadic/latest/monadic) | kw: monadic - Rust crate | source: docs.rs | profile: functional-programming
+
 - **2026-06-16** | [The Practical Value of Functional Programming - Monad, Haskell, Elixir, Erlang, Gleam, Effect TS (2025)](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming - Monad, Haske | source: youngju.dev | profile: functional-programming
 - **2026-06-16** | [Haskell Guide [2026] - Precision AI Academy](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026] - Precision AI Academy | source: precisionaiacademy.com | profile: functional-programming
 

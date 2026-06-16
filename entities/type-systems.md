@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigm | source: pookietech.com.ng | profile: type-systems
+- **2026-06-16** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing in Type Theory - numberanalytics.com | source: www.numberanalytics.com | profile: type-systems
+- **2026-06-16** | [Best Software with Gradual Typing Functionality (2026)](https://appmus.com/feature/gradual-typing) | kw: Best Software with Gradual Typing Functionality (2026) | source: appmus.com | profile: type-systems
+- **2026-06-16** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed and Confused: Studying the Unexpected Dangers of Gradual Typing | source: www.staicu.org | profile: type-systems
+- **2026-06-16** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual Typing - Language Design and Implementation | source: comp.anu.edu.au | profile: type-systems
+- **2026-06-16** | [Gradual Session Types (Wadler)](https://homepages.inf.ed.ac.uk/wadler/topics/linear-logic.html) | kw: Gradual Session Types (Wadler) | source: homepages.inf.ed.ac.uk | profile: type-systems
+- **2026-06-16** | [Foundations for Gradual Typing - Khoury College of Computer Science](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing - Khoury College of Computer Science | source: www.khoury.northeastern.edu | profile: type-systems
+- **2026-06-16** | [Gradual Typing with Inference (Siek)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with Inference (Siek) | source: www.cs.cmu.edu | profile: type-systems
+
 - **2026-06-16** | [Type system concepts - typing documentation (Python)](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type system concepts - typing documentation (Python) | source: typing.python.org | profile: type-systems
 - **2026-06-16** | [Gradual Typing with Inference - Jeremy Siek slides](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with Inference - Jeremy Siek slides | source: cs.cmu.edu | profile: type-systems
 - **2026-06-16** | [Gradual Typing - Language Design and Implementation - ANU](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual Typing - Language Design and Implementation - ANU | source: comp.anu.edu.au | profile: type-systems

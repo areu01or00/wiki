@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [Python 3.14 New Features: What's Changed and Why It Matters](https://dasroot.net/posts/2026/02/python-314-new-features-what-changed-why-it-matters/) | kw: Python 3.14 New Features: What's Changed and Why It Matters | source: dasroot.net | profile: python-internals
+- **2026-06-16** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter)](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why I | source: www.javacodegeeks.com | profile: python-internals
+- **2026-06-16** | [Python 3.14 Free-Threading and Experimental JIT: How Python...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python 3.14 Free-Threading and Experimental JIT: How Python... | source: blog.imseankim.com | profile: python-internals
+- **2026-06-16** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: How Python's GIL Actually Works (And Why It Exists) | source: miydevforge.com | profile: python-internals
+- **2026-06-16** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide) | source: medium.com | profile: python-internals
+
 - **2026-06-16** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 - BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production- | source: birjob.com | profile: python-internals
 - **2026-06-16** | [How Python's Memory Management Works Under the Hood - miydevforge](https://miydevforge.com/blog/how-python-memory-management-works) | kw: How Python's Memory Management Works Under the Hood - miydev | source: miydevforge.com | profile: python-internals
 - **2026-06-16** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - evidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter | source: evidhya.com | profile: python-internals

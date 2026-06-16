@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 | To Crack Interviews - namastedev.com | source: namastedev.com | profile: algorithms
+- **2026-06-16** | [Algorithm Challenges on LeetCode Guide - AlgoHay](https://www.algohay.com/blog/algorithm-challenges-on-leetcode-guide) | kw: Algorithm Challenges on LeetCode Guide - AlgoHay | source: www.algohay.com | profile: algorithms
+- **2026-06-16** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding Interview Prep 2026: LeetCode Strategy That Works | source: precisionaiacademy.com | profile: algorithms
+- **2026-06-16** | [FAANG Interview Pattern Recognition - 14 Algorithm Patterns | Wasil Zafar](https://www.wasilzafar.com/pages/series/data-structures/dsa-interview-pattern-recognition.html) | kw: FAANG Interview Pattern Recognition - 14 Algorithm Patterns | Wasil Zafar | source: www.wasilzafar.com | profile: algorithms
+- **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026: 50 Problems [Solved] | source: papersadda.com | profile: algorithms
+- **2026-06-16** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data Structures & Algorithms Interview Guide 2026 | TechPrep | source: www.techprep.app | profile: algorithms
+- **2026-06-16** | [Data Structures & Algorithms Roadmap 2026 - The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026 - The Tutor Bridge | source: www.thetutorbridge.com | profile: algorithms
+- **2026-06-16** | [How to Get Better at LeetCode: 10 Tips That Actually Work (2026)](https://leetcopilot.dev/blog/how-to-get-better-at-leetcode-2026) | kw: How to Get Better at LeetCode: 10 Tips That Actually Work (2026) | source: leetcopilot.dev | profile: algorithms
+
 - **2026-06-16** | [Best DSA Sheet 2026 - NamasteDev](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 - NamasteDev | source: namastedev.com | profile: algorithms
 - **2026-06-16** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: The Ultimate Leetcode Roadmap: Data Structures & Algorithms  | source: medium.com | profile: algorithms
 - **2026-06-16** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan - freeclass.ai](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data Structures & Algorithms Roadmap 2026: Free Study Plan - | source: freeclass.ai | profile: algorithms
