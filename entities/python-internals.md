@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [PEP 703 - Making the Global Interpreter Lock Optional in CPython | peps.python.org](https://peps.python.org/pep-0703/) | kw: PEP 703 - Making the Global Interpreter Lock Optional in CPy... | source: python-internals
+
 - **2026-06-16** | [CPython Reference Counting and Garbage Collection Internals](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals) | kw: CPython, Reference, Counting, Garbage
 - **2026-06-16** | [How Python Handles Memory Behind the Scenes](https://medium.com/@CodeWithHannan/how-python-handles-memory-behind-the-scenes-351b001bb13b) | kw: Python, Handles, Memory, Behind
 
