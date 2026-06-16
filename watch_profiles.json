@@ -492,7 +492,7 @@
         "c1b0924230e3213e948771ccc39b4fa3",
         "8643dd36e190fa7e58a356b5a616daf3"
       ],
-      "last_run": "2026-06-16T23:33:39.084898+00:00",
+      "last_run": "2026-06-16T23:47:47+00:00",
       "new_sub_topics_this_run": []
     },
     "compilers": {
@@ -1014,7 +1014,7 @@
         "05d0a65d891bb173f75d21347fcaea99",
         "32ca195a72297c43ebd6356d79e78eff"
       ],
-      "last_run": "2026-06-16T23:33:39.084920+00:00",
+      "last_run": "2026-06-16T23:47:47+00:00",
       "new_sub_topics_this_run": []
     },
     "type-systems": {
@@ -1502,7 +1502,7 @@
         "a74a147950a12ada1d2516685c8fecad",
         "6dd177bf071629da0719868208ad2e11"
       ],
-      "last_run": "2026-06-16T23:33:39.084926+00:00",
+      "last_run": "2026-06-16T23:47:47+00:00",
       "new_sub_topics_this_run": []
     },
     "functional-programming": {
@@ -2022,7 +2022,7 @@
         "6c5cb98e457a7ea49ad57c5293abde41",
         "c012a57fa63492860f64045db3528e7a"
       ],
-      "last_run": "2026-06-16T23:33:39.084930+00:00",
+      "last_run": "2026-06-16T23:47:47+00:00",
       "new_sub_topics_this_run": []
     },
     "algorithms": {
@@ -2516,7 +2516,7 @@
         "cc20f76a074d85b32adf2f7be04809b9",
         "8b872e9c4137efc4de77b9e0bf4a2ba1"
       ],
-      "last_run": "2026-06-16T23:33:39.084933+00:00",
+      "last_run": "2026-06-16T23:47:47+00:00",
       "new_sub_topics_this_run": []
     },
     "python-internals": {
@@ -3009,7 +3009,7 @@
         "195cc5355800be062c15e1a66ccfcacd",
         "4cd24649bb264af960eb0db466e7076c"
       ],
-      "last_run": "2026-06-16T23:33:39.084955+00:00",
+      "last_run": "2026-06-16T23:47:47+00:00",
       "new_sub_topics_this_run": []
     }
   }
