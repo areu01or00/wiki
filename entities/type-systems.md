@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [The Way of Types: A Report on Developer Experience with Type Systems (ICPC 2026)](https://sarajuhosova.com/assets/files/2026-icpc.pdf) | kw: The Way of Types: A Report on Developer Experience with Type | source: type-systems
+
 - **2026-06-16** | [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory) | kw: Type theory - Wikipedia | source: type-systems
 - **2026-06-16** | [Type Systems and Functional Programming Language Theory | Nature Index](https://www.nature.com/nature-index/topics/l4/type-systems-and-functional-programming-language-theory) | kw: Type Systems and Functional Programming Language Theory | Nature Index | source: type-systems
 - **2026-06-16** | [Types and Programming Languages - University of Pennsylvania](https://www.cis.upenn.edu/~bcpierce/tapl/) | kw: Types and Programming Languages - University of Pennsylvania | source: type-systems
