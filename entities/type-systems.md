@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Computation and Language - arXiv](https://arxiv.org/list/cs.CL/new) | kw: Computation and Language - arXiv
+
 - **2026-06-16** | [Foundations for Gradual Typing](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing | source: type-systems
 - **2026-06-16** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: 100+ Type Inference Online Courses for 2026 | source: type-systems
 - **2026-06-16** | [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp) | kw: Gradual Typing Across the Spectrum | source: type-systems
