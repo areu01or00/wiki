@@ -457,7 +457,10 @@
         "From",
         "Manual",
         "Massive",
-        "AI-Native"
+        "AI-Native",
+        "Axoniq 2026 predictions",
+        "Edge-native architecture",
+        "AI-driven orchestration"
       ],
       "last_result_hashes": [
         "a3c1c2b6d55ff083812e1ea086382dbd",
@@ -949,7 +952,12 @@
         "Revolution",
         "The LLVM JIT Compiler: A Deep Dive",
         "SpringerLink",
-        "Just-in-Time"
+        "Just-in-Time",
+        "llvm-autojit plugin",
+        "Triton (OpenAI GPU kernels)",
+        "V8 Ignition",
+        "V8 Sparkplug",
+        "GraalVM"
       ],
       "last_result_hashes": [
         "356653e96551f08a707c2ddada2fe1c8",
@@ -1416,7 +1424,10 @@
         "Migration",
         "Inference de types",
         "YouTube",
-        "Computation and Language - arXiv"
+        "Computation and Language - arXiv",
+        "Gradual type inference",
+        "PEP 750",
+        "TypeScript strict mode"
       ],
       "last_result_hashes": [
         "88dfcf74de33a1e88c9e9c90d0e55f9b",
@@ -1908,7 +1919,12 @@
         "Programmers",
         "Links",
         "LiveView",
-        "Discourse"
+        "Discourse",
+        "GHC 9.14",
+        "Gleam (Erlang VM FP)",
+        "LTS Haskell",
+        "WebAssembly backend (Haskell)",
+        "Rust 2024 Edition"
       ],
       "last_result_hashes": [
         "79cd05ad2ea3b4a8f88864da5ba58578",
@@ -2860,7 +2876,15 @@
         "Cython",
         "Experimenting",
         "Benchmarking Python Flavors",
-        "The Explosive Python Trends 2026"
+        "The Explosive Python Trends 2026",
+        "GIL-optional",
+        "PEP 734 sub-interpreters",
+        "PEP 750 template strings",
+        "PEP 649 deferred annotation evaluation",
+        "PEP 761 Sigstore signing",
+        "Python 3.14 free-threaded",
+        "uv (Astral package manager)",
+        "Django 6.0"
       ],
       "last_result_hashes": [
         "9df3859b4715ae95cd2f1c86331d9b55",
