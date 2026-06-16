@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Patterns of Distributed Systems (Paperback) - tenlong](https://www.tenlong.com.tw/products/9780138221980) | kw: Patterns of Distributed
+
 - **2026-06-16** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: auto
 - **2026-06-16** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: auto
 - **2026-06-16** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design – Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: auto
