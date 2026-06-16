@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Practicing leetcode for job interviews in 2025? Senior - Staff level](https://www.reddit.com/r/swift/comments/1oxodeq/practicing_leetcode_for_job_interviews_in_2025) | kw: Practicing, leetcode, job, interviews
+
 - **2026-06-16** | [Mastering Competitive Programming: Strategies & Techniques](https://www.jbwebeng.co.uk/2026/06/competitive-programming-tutorials.html) | kw: Mastering Competitive Programming: Strategies &... | source: algorithms
 - **2026-06-16** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert (... | source: algorithms
 - **2026-06-16** | [Competitive Programming - A Complete Guide](https://www.geeksforgeeks.org/dsa/competitive-programming-a-complete-guide) | kw: Competitive Programming - A Complete Guide | source: algorithms

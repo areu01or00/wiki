@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Type Systems in Programming Languages: A Performance, Safety, and Development Efficiency-Analysis](https://www.ijsr.net/getabstract.php?paperid=SR26113212016) | kw: Type, Systems, Programming, Languages
+
 - **2026-06-16** | [Simply-typed lambda calculus](https://groups.seas.harvard.edu/courses/cs152/2026sp/lectures/lec11-types.pdf) | kw: Simply-typed lambda calculus | source: type-systems
 - **2026-06-16** | [Static, Dynamic, Strong and Weak Type Systems](https://nurkiewicz.com/2020/09/type-systems.html) | kw: Static, Dynamic, Strong and Weak Type Systems | source: type-systems
 - **2026-06-16** | [CS 242: Type systems](https://stanford-cs242.github.io/f18/lectures/02-1-type-systems.html) | kw: CS 242: Type systems | source: type-systems
