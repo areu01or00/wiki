@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Programming Languages in 2026 - Greg Herlein](https://blog.herlein.com/post/programming-languages-intersection) | kw: Programming Languages in 2026 - Greg Herlein
+
 - **2026-06-16** | [Inference de types](https://fr.wikipedia.org/wiki/Inf%C3%A9rence_de_types) | kw: Inference de types | source: type-systems
 
 - **2026-06-16** | [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp) | kw: type systems
