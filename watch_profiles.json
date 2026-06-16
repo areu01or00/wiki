@@ -488,7 +488,8 @@
         "1f7cf531d15bd4fc5437f857ad3c969e",
         "729c2ff54afb3063182d60de7d6aef1c"
       ],
-      "last_run": "2026-06-16 19:48 UTC"
+      "last_run": "2026-06-16 20:03 UTC",
+      "new_sub_topics_this_run": []
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -985,7 +986,8 @@
         "84ac896e5e54274a8ab008433692d205",
         "5d54a6ccb3d0ac626462282a4af2e122"
       ],
-      "last_run": "2026-06-16 19:48 UTC"
+      "last_run": "2026-06-16 20:03 UTC",
+      "new_sub_topics_this_run": []
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1460,7 +1462,8 @@
         "2b077fcefb9f16574c355c5cae07ce7d",
         "b212d998de83c9ed9264a175b09fee4a"
       ],
-      "last_run": "2026-06-16 19:48 UTC"
+      "last_run": "2026-06-16 20:03 UTC",
+      "new_sub_topics_this_run": []
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1966,7 +1969,8 @@
         "1e23347071bace94cd96516373fa7b4d",
         "c4312bdd7b36e1d062f927f1cd4a5ef0"
       ],
-      "last_run": "2026-06-16 19:48 UTC"
+      "last_run": "2026-06-16 20:03 UTC",
+      "new_sub_topics_this_run": []
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2451,7 +2455,8 @@
         "9c079bce41ba80e069e2d66cc02ed865",
         "3f06a805b279b69718e8fa493b91db66"
       ],
-      "last_run": "2026-06-16 19:48 UTC"
+      "last_run": "2026-06-16 20:03 UTC",
+      "new_sub_topics_this_run": []
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2938,7 +2943,8 @@
         "2abbee82f484b493c8c88fee77060e1c",
         "582f700f313c07cc40a14e3678f7e5d0"
       ],
-      "last_run": "2026-06-16 19:48 UTC"
+      "last_run": "2026-06-16 20:03 UTC",
+      "new_sub_topics_this_run": []
     }
   }
 }
