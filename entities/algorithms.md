@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Common LeetCode Coding Patterns - Cheat sheet](https://medium.com/%40rabhinaya0/common-leetcode-coding-patterns-8cb1d2090b70) | kw: Common LeetCode Coding Patterns - Cheat sheet
+
 - **2026-06-16** | [Data Structures and Algorithms: Coding Cheatsheet: The DSA Takeover Edition (Day Before Coding Interview [Dci]: Coding Interview Patterns #1) | Lowry's Books and More](https://lowrysbooks.com/book/9798341057777) | kw: Data Structures and Algorithms: Coding Cheatsheet: The DSA Takeover Edition (Day | source: lowrysbooks.com | profile: algorithms
 
 - **2026-06-16** | [DSA Mastery Roadmap | Crack Coding Interviews [Updated 2026 Latest]](https://namastedev.com/roadmaps/dsa) | kw: DSA Mastery Roadmap | Crack Coding Interviews [Updated 2026 Latest] | source: namastedev.com | profile: algorithms

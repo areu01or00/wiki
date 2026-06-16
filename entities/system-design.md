@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [LLM System Design: The Complete Guide (2026)](https://www.systemdesignhandbook.com/guides/llm-system-design) | kw: LLM System Design: The Complete Guide (2026)
+
 - **2026-06-16** | [Top Load Balancing Trends & Predictions for 2026](https://www.edgenexus.io/blog/top-load-balancing-trends-predictions-for-2026) | kw: Top Load Balancing Trends & Predictions for 2026 | source: edgenexus.io | profile: system-design
 
 - **2026-06-16** | [Distributed Applications and Interoperable Systems: 26th IFIP](https://link.springer.com/book/10.1007/978-3-032-27358-1) | kw: Distributed Applications and Interoperable Systems: 26th IFIP | source: link.springer.com | profile: system-design

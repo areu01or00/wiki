@@ -447,10 +447,10 @@
         "Strategies",
         "Distributed System",
         "Conference",
-        "Interoperable Systems"
+        "Interoperable Systems",
+        "LLM System Design"
       ],
       "last_result_hashes": [
-        "e9d45130824f67775300df37d0b653d5",
         "000e636c2d8f8b023001384d271bfa7a",
         "3c277f20759a49f8e5360598cda8e3db",
         "687d26272b1c1f799c49e700c111b914",
@@ -469,9 +469,10 @@
         "9a8dff2d2bfea161d5495cd29164bc45",
         "8461c0b98698e21e463c468ab4c12ce9",
         "032b7b28787a196221f0d2e1093c541a",
-        "32e6b854706caa3411eeea3fa099f359"
+        "32e6b854706caa3411eeea3fa099f359",
+        "a168bdc380c53c9b0a6677927d1f57d0"
       ],
-      "last_run": "2026-06-16 04:16 UTC"
+      "last_run": "2026-06-16 04:32 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -2352,10 +2353,10 @@
         "Trainings",
         "Crack Coding Interviews",
         "Latest",
-        "Updated"
+        "Updated",
+        "Coding Patterns"
       ],
       "last_result_hashes": [
-        "7dd98b5c6fd94cfd047f81234ec9a806",
         "9387b7eb6f50258c4ce819901e73b636",
         "4206f0548aa77b69bedc008d791bb11e",
         "00a02315b04f8e95fb7ced3e13f75bfc",
@@ -2374,9 +2375,10 @@
         "91b947cdb84929a43202be06d8ca3ad9",
         "869f16b80e9abafe0182446861fa3c15",
         "06c322d87713b727395865831d396c7b",
-        "115e7bb8e63f336a3a906a43245b5b58"
+        "115e7bb8e63f336a3a906a43245b5b58",
+        "8315e5891c6460bdde4746fd7c077b8b"
       ],
-      "last_run": "2026-06-16 04:16 UTC"
+      "last_run": "2026-06-16 04:32 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
