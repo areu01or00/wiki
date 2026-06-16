@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: And
+- **2026-06-16** | [Monadic Design Patterns in Haskell: Mastering Functional Design](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: Haskell:
+- **2026-06-16** | [Understanding Monads](https://nickx.hu/Monads.pdf) | kw: And
+- **2026-06-16** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does
+- **2026-06-16** | [Monad - Boost.Hana](https://www.boost.org/doc/libs/1_66_0/libs/hana/doc/html/group__group-Monad.html) | kw: monad
+- **2026-06-16** | [haskell-monads-2026/README.md at main · nsu-syspro/haskell-monads-2026](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: in
+
 - **2026-06-16** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Monads
 - **2026-06-16** | [Functional Programming Paradigms: Immutability, Higher-Order Functions, and Monads 2026](https://johal.in/functional-programming-paradigms-immutability-higher-order-functions-and-monads-2026) | kw: Monads
 
