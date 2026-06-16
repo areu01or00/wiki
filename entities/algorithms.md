@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Top 100 Data Structure Interview Questions & Answers (2026)](https://www.almabetter.com/bytes/articles/data-structure-interview-questions-answers) | kw: Top 100 Data Structure Interview Questions & Answers (2026) | source: algorithms
+
 - **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital)](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital) | source: algorithms
 - **2026-06-16** | [LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics - DEV Community](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics - DEV Community | source: algorithms
 - **2026-06-16** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026 - Complete Learning | source: algorithms
