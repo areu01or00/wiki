@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Efficient Selection of Type Annotations for Performance (Programming Journal 2026)](https://programming-journal.org/2026/11/3/) | kw: gradual typing | source: type-systems
+- **2026-06-16** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (arXiv 2603.05649)](https://arxiv.org/abs/2603.05649) | kw: type annotations | source: type-systems
+- **2026-06-16** | [Gradual Types - Stanford CS 242 Lecture 16](https://www-leland.stanford.edu/class/cs242/materials/lectures/lecture16.pdf) | kw: gradual types | source: type-systems
+
 - **2026-06-16** | [The Future of Java: What to Expect in 2026 and Beyond - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-future-of-java-what-to-expect-in-2026-and-beyond.html) | kw: Java type system | source: type-systems
 
 - **2026-06-16** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: 2026

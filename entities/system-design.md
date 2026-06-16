@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [The Future of Distributed Systems - techhoff](https://techhoff.net/the-future-of-distributed-systems) | kw: future distributed systems | source: system-design
+
 - **2026-06-16** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: &
 
 - **2026-06-16** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Distributed Systems

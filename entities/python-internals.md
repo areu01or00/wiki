@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [How Python Works Under the Hood: Memory, GIL, and Bytecode - PythonCompiler](https://www.pythoncompiler.io/python/python-internals) | kw: under the hood | source: python-internals
+- **2026-06-16** | [Under the Hood of Python: Internals, Optimization, and Modern Features - Hashnode](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: modern features | source: python-internals
+- **2026-06-16** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations - Developers Heaven](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: GIL removal future | source: python-internals
+- **2026-06-16** | [The Ultimate Python Learning Roadmap for 2026 - course4all](https://course4all.com/blog/python-learning-roadmap-2026) | kw: roadmap 2026 | source: python-internals
+- **2026-06-16** | [Python 3.14 Free-Threading and Experimental JIT: How Python - imseankim blog](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python 3.14 free-threading | source: python-internals
+
 - **2026-06-16** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: -
 - **2026-06-16** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: Actually
 

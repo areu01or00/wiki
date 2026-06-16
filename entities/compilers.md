@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [compiler-course-2026 BuildingAJIT3.rst - 4elodoy-Molovek](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers | source: compilers
+- **2026-06-16** | [compiler-course-2026 BuildingAJIT1.rst - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers | source: compilers
+- **2026-06-16** | [GitHub - llvm/llvm-project: The LLVM Project](https://github.com/llvm/llvm-project) | kw: llvm project | source: compilers
+
 - **2026-06-16** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025) | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Maglev,
 - **2026-06-16** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: Scale
 - **2026-06-16** | [LLVM Research Library](https://bwatsonllvm.github.io/library/talks) | kw: LLVM
