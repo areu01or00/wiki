@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Top Strategic Technology Trends for 2026 - Gartner](https://www.gartner.com/en/documents/7079798) | kw: Top Strategic Technology Trends for 2026 - Gartner | source: type-systems
+
 - **2026-06-16** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance I... | source: type-systems
 - **2026-06-16** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic Typing | source: type-systems
 - **2026-06-16** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The Rise of Static Typing | source: type-systems
