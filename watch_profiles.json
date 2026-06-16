@@ -439,6 +439,7 @@
         "Werner Vogels"
       ],
       "last_result_hashes": [
+        "000e636c2d8f8b023001384d271bfa7a",
         "729c2ff54afb3063182d60de7d6aef1c",
         "29d9d22375431d934e08fb45f08c851d",
         "3d924683b109e99c93d7ba785e0c7ab0",
@@ -457,10 +458,9 @@
         "e9b1f3d6783e37f5d383f506861c70e2",
         "297d8fe4f9a5f5a7d76e3ced73fe166d",
         "056b14e78a14af65a4d0ae47a4e64443",
-        "21eec57f787388fedeb8bf089626f6d6",
-        "148f6ed2114e6c0d23601853a62ae493"
+        "21eec57f787388fedeb8bf089626f6d6"
       ],
-      "last_run": "2026-06-16 00:18 UTC"
+      "last_run": "2026-06-16 00:32 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
