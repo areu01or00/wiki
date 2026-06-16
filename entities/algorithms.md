@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [LeetCode - 力扣](https://leetcode.cn/) | kw: LeetCode 力扣
+- **2026-06-16** | [LeetCode Interview Questions: Top Patterns by Company (2026) | InterviewPilot](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode Interview Questions
+- **2026-06-16** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews | Free Class AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: Data Structures &
+
 - **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026: 50 Problems [Solved] | source: algorithms
 - **2026-06-16** | [LeetCode Patterns That Still Matter in 2026: What I... | Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode Patterns That Still Matter in 2026: What I... | Int | source: algorithms
 - **2026-06-16** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data Structures Interview Questions: The Complete 2026 Guide | source: algorithms

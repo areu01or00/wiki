@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: How Python's GIL
+- **2026-06-16** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling
+- **2026-06-16** | [Inside the Python GIL: How It Actually Works and Why It Matters](https://python.plainenglish.io/inside-the-python-gil-how-it-actually-works-and-why-it-matters-2169a9a9dc69) | kw: Inside the Python
+
 - **2026-06-16** | [The Explosive Python Trends 2026 – You Should Know](https://turbogeek.org/the-explosive-python-trends-2026-you-should-know) | kw: The Explosive Python Trends 2026 – You Should Know
 
 - **2026-06-16** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python - Python Internals: Memory Management & the Global In | source: python-internals

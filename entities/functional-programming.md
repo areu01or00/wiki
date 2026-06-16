@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83
+- **2026-06-16** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does Rust Support
+- **2026-06-16** | [The Practical Value of Functional Programming - Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView (2025)](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value
+- **2026-06-16** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026]
+
 - **2026-06-16** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 - Part 2 - Links | source: functional-programming
 - **2026-06-16** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does Rust Support Functional Programming Idioms? Exploring . | source: functional-programming
 - **2026-06-16** | [80: POPL 2026 - Part 2 - The Haskell Interlude (podcast)](https://www.listennotes.com/podcasts/the-haskell/80-popl-2026-part-2-WOG2fI-tkse/) | kw: 80: POPL 2026 - Part 2 - The Haskell Interlude (podcast) | source: functional-programming

@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT1.rst
+- **2026-06-16** | [Exploring Simple Architecture of Just-in-Time Compilation in Databases | SpringerLink](https://link.springer.com/chapter/10.1007/978-981-97-7244-5_44) | kw: Exploring Simple Architecture
+- **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT3.rst
+
 - **2026-06-16** | [The LLVM JIT Compiler: A Deep Dive - Flyriver.com](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: The LLVM JIT Compiler: A Deep Dive - Flyriver.com
 
 - **2026-06-16** | [Unlocking Performance: The Overlooked Power of Low-Cost ...](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance: The Overlooked Power of Low-Cost ... | source: compilers

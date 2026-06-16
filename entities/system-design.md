@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide
+- **2026-06-16** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design - Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices Architecture Patterns
+
 - **2026-06-16** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed Systems Roadmap (2026) | source: system-design
 - **2026-06-16** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System Design Series Part 3: Load Balancing & Caching | source: system-design
 - **2026-06-16** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed System Design: the complete guide to building sc | source: system-design

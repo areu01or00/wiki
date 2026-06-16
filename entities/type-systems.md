@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of
+- **2026-06-16** | [Understanding Graduality in Programming Languages through Embedding Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding Graduality in
+- **2026-06-16** | [Foundations for Gradual Typing - Khoury College of Computer Science](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual
+- **2026-06-16** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: Gradual Typing Across
+- **2026-06-16** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual Typing Language
+- **2026-06-16** | [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf) | kw: Abstracting Gradual Typing
+- **2026-06-16** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: GitHub kevle6/Gradual_Typing
+
 - **2026-06-16** | [Computation and Language - arXiv](https://arxiv.org/list/cs.CL/new) | kw: Computation and Language - arXiv
 
 - **2026-06-16** | [Foundations for Gradual Typing](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing | source: type-systems
