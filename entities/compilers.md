@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [The State of Native Execution for Spark: Photon, Gluten, and ...](https://sparkingscala.com/latest/2026/06/12/native-execution-landscape-2026) | kw: The State of Native Execution for Spark: Photon... | source: compilers
+- **2026-06-16** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java | BestHub](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: Based JVM JIT Aims to Supercharge Java | BestHub | source: compilers
+- **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ..](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: course-2026/llvm/docs/tutorial/BuildingAJIT1.rs... | source: compilers
+
 - **2026-06-16** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes | source: compilers
 - **2026-06-16** | [Insights into Interpreters, Compilers, and Optimizers for Neural Networks](https://webs.um.es/aros/papers/pdfs/salladi-codai25.pdf) | kw: Insights into Interpreters, Compilers, and Optimizers for Neural Networks | source: compilers
 - **2026-06-16** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: ML Compiler Optimization Revolution [Deep Dive] [2026] | source: compilers

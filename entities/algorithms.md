@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide) - InterviewQuestions.guru](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: InterviewQuestions.guru | source: algorithms
+- **2026-06-16** | [Top 100+ Data Structure Interview Questions [2026] - TestMu AI](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: TestMu AI | source: algorithms
+- **2026-06-16** | [100+ Data Structure Interview Questions and Answers (2026) - WeCreateProblems](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: WeCreateProblems | source: algorithms
+- **2026-06-16** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews - FreeClass.AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: FreeClass.AI | source: algorithms
+
 - **2026-06-16** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital)](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026 | source: algorithms
 
 - **2026-06-16** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode | source: algorithms

@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [Under the Hood of Python: Internals, Optimization, and Modern Features - Habibullah's Blog](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Habibullah's Blog | source: python-internals
+- **2026-06-16** | [Python GIL: The Key to Backend Performance and Multithreading - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: odysse.io | source: python-internals
+- **2026-06-16** | [Python 3.14 Free-Threading and Experimental JIT: How Python Changed in 2026 - imseankim](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Threading and Experimental JIT: How Python Chan... | source: python-internals
+- **2026-06-16** | [Modern Python in 2026 — Python 3.13 / 3.14 / free-threaded / uv / Ruff / Polars 1.0 / FastAPI / Litestar / Robyn deep-dive - Chaos and Order](https://www.youngju.dev/blog/culture/2026-05-16-modern-python-2026-python-3-13-3-14-free-threaded-uv-ruff-polars-fastapi-litestar-robyn-deep-dive.en) | kw: threaded / uv / Ruff / Polars 1.0 / FastAPI / L... | source: python-internals
+
 - **2026-06-16** | [Asyncio TaskGroup Memory Leaks in Long-Running WebSocket Services](https://tech-champion.com/programming/python-programming/asyncio-taskgroup-memory-leaks-in-long-running-websocket-services) | kw: Asyncio TaskGroup Memory Leaks in Long-Running WebSocket Services | source: python-internals
 - **2026-06-16** | [7 AsyncIO Memory Leaks Silently Destroying Production Python Systems](https://python.plainenglish.io/7-asyncio-memory-leaks-silently-destroying-production-python-systems-fix-before-its-too-late-4cf724ea1174) | kw: 7 AsyncIO Memory Leaks Silently Destroying Production Python Systems | source: python-internals
 

@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Latest Monad News - (MON) Future Outlook, Trends & Market Insights - CoinMarketCap](https://coinmarketcap.com/cmc-ai/monad/latest-updates) | kw: (MON) Future Outlook, Trends & Market Insights ... | source: functional-programming
+- **2026-06-16** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar - CodeGenes](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: CodeGenes | source: functional-programming
+- **2026-06-16** | [The Practical Value of Functional Programming — Monad, Haskell, Elixir, Erlang, Gleam, Effect TS | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming —... | source: functional-programming
+- **2026-06-16** | [Haskell Guide [2026]: Functional Programming That Changes How You Think - PrecisionAI Academy](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: PrecisionAI Academy | source: functional-programming
+
 - **2026-06-16** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026] | source: functional-programming
 - **2026-06-16** | [The Practical Value of Functional Programming — Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical Value of Functional Programming | source: functional-programming
 
