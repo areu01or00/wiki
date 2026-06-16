@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Building the Rust example program - Monad Documentation](https://docs.monad.xyz/execution-events/getting-started/rust) | kw: Building the Rust example program - Monad Documentation
+
 - **2026-06-16** | [Rust in 2026: What Actually Changed, What's Trending, and What to Build Next](https://medium.com/@blogs-world/rust-in-2026-what-actually-changed-whats-trending-and-what-to-build-next-d70e38a4ad97) | kw: functional programming
 
 - **2026-06-16** | [The Monadic Way - HaskellWiki](https://wiki.haskell.org/The_Monadic_Way) | kw: The Monadic Way - HaskellWiki
