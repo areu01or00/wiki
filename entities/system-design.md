@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Architectural Design Trends for 2026: What Firms Must Know](https://www.bargedesign.com/blogs/top-architectural-design-trends-for-2026) | kw: Architectural Design Trends for 2026: What Firms Must Know | source: www.bargedesign.com | profile: system-design
+- **2026-06-16** | [Eight trends defining how software gets built in 2026 | Claude](https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026) | kw: Eight trends defining how software gets built in 2026 | Claude | source: claude.com | profile: system-design
+
 - **2026-06-16** | [LLM System Design: The Complete Guide (2026)](https://www.systemdesignhandbook.com/guides/llm-system-design) | kw: LLM System Design: The Complete Guide (2026)
 
 - **2026-06-16** | [Top Load Balancing Trends & Predictions for 2026](https://www.edgenexus.io/blog/top-load-balancing-trends-predictions-for-2026) | kw: Top Load Balancing Trends & Predictions for 2026 | source: edgenexus.io | profile: system-design
