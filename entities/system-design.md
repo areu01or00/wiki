@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+
+- **2026-06-16** | [System Design Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/system-design) | kw: System Design Roadmap 2026 - Complete Learning Path | profile: system-design
+
 - **2026-06-16** | [Complete Caching Guide for System Design Interviews [2026 Edition]](https://designgurus.substack.com/p/complete-caching-guide-for-system) | kw: Complete Caching Guide for System Design Interviews [2026 Edition] | profile: system-design
 
 - **2026-06-16** | [Distributed Systems Principles and Paradigms](https://www.dcc.fc.up.pt/~ines/aulas/1314/SDM/ch2.pdf) | kw: Distributed Systems Principles and Paradigms | profile: system-design

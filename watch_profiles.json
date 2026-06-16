@@ -4,6 +4,7 @@
       "query": "system design distributed systems architecture patterns 2026",
       "wiki_page": "system-design.md",
       "sub_topics": [
+        "System Design Roadmap 2026",
         "&",
         "(2026)",
         "(GIL)",
@@ -439,6 +440,7 @@
         "Werner Vogels"
       ],
       "last_result_hashes": [
+        "aae58ca5684da03b87276c007bdf9f65",
         "082b194bb4fce80e1bbe7359ec419813",
         "000e636c2d8f8b023001384d271bfa7a",
         "729c2ff54afb3063182d60de7d6aef1c",
@@ -457,15 +459,15 @@
         "3d9ca04dd6ca3ffed2f0ecbbda1b036a",
         "3c8925cf9aab5e06b2fe2e7c3cf7d5ed",
         "e9b1f3d6783e37f5d383f506861c70e2",
-        "297d8fe4f9a5f5a7d76e3ced73fe166d",
-        "056b14e78a14af65a4d0ae47a4e64443"
+        "297d8fe4f9a5f5a7d76e3ced73fe166d"
       ],
-      "last_run": "2026-06-16 01:03 UTC"
+      "last_run": "2026-06-16 01:18 UTC"
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
       "wiki_page": "compilers.md",
       "sub_topics": [
+        "LLVM Research Library",
         "(2026)",
         "(GIL)",
         "(JIT)",
@@ -913,6 +915,7 @@
         "MLGO"
       ],
       "last_result_hashes": [
+        "28c94075fc7d198993a9d19655dfd88e",
         "7ed9cf6296b93bcd1574511795e44641",
         "a78c2c73c0749267858b7fdad618ab3b",
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
@@ -931,10 +934,9 @@
         "dc5ada16f234dc184f112304b0917552",
         "4cee999b71414851927c1c3805e155c2",
         "212d7f0c1f5a36d78eaaf438a4990b7a",
-        "6aaedfafd85bc7d343d643adcc058adb",
-        "35145629f1c034a4e34ce1f035b94e79"
+        "6aaedfafd85bc7d343d643adcc058adb"
       ],
-      "last_run": "2026-06-16 01:03 UTC"
+      "last_run": "2026-06-16 01:18 UTC"
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1394,7 +1396,7 @@
         "8c6f17e2d511a0faac46cb61e9af402f",
         "b8ab73889578d15398b93383a75baab6"
       ],
-      "last_run": "2026-06-16 01:03 UTC"
+      "last_run": "2026-06-16 01:18 UTC"
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1871,7 +1873,7 @@
         "9aa6111958853b5fc79edc3be341fce6",
         "6c3607fa93c11d2b3cd0661db8ffd17c"
       ],
-      "last_run": "2026-06-16 01:03 UTC"
+      "last_run": "2026-06-16 01:18 UTC"
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2326,7 +2328,7 @@
         "1df0a928b82f4bc8ac44ea82d3c49f10",
         "794a9b0edd7b213b68bd5c4716cd27fe"
       ],
-      "last_run": "2026-06-16 01:03 UTC"
+      "last_run": "2026-06-16 01:18 UTC"
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2783,7 +2785,7 @@
         "17510114b9ea7fa3de1e8f9f60647ed2",
         "e2601995dbd4ea00b9d307a18028a396"
       ],
-      "last_run": "2026-06-16 01:03 UTC"
+      "last_run": "2026-06-16 01:18 UTC"
     }
   }
 }

@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-16** | [LLVM Research Library](https://bwatsonllvm.github.io/library/talks) | kw: LLVM Research Library | profile: compilers
+
 - **2026-06-15** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in L | profile: compilers
 - **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inli | profile: compilers
 - **2026-06-15** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Best Free Open-Source Compilers in 2026 - Analytics Insight | profile: compilers
