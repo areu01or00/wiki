@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [Data Structures for Coding Interviews 2026: The 8 You ...](https://lastroundai.com/blog/data-structures-interview-guide) | kw: Data Structures for Coding Interviews 2026: The 8 You ...
+
 - **2026-06-16** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 | To Crack Interviews - namastedev.com | source: namastedev.com | profile: algorithms
 - **2026-06-16** | [Algorithm Challenges on LeetCode Guide - AlgoHay](https://www.algohay.com/blog/algorithm-challenges-on-leetcode-guide) | kw: Algorithm Challenges on LeetCode Guide - AlgoHay | source: www.algohay.com | profile: algorithms
 - **2026-06-16** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding Interview Prep 2026: LeetCode Strategy That Works | source: precisionaiacademy.com | profile: algorithms

@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Putting Gradual Types to Work | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-030-67438-0_4) | kw: Putting Gradual Types to Work | Springer Nature Link
+
 - **2026-06-16** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigm | source: pookietech.com.ng | profile: type-systems
 - **2026-06-16** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing in Type Theory - numberanalytics.com | source: www.numberanalytics.com | profile: type-systems
 - **2026-06-16** | [Best Software with Gradual Typing Functionality (2026)](https://appmus.com/feature/gradual-typing) | kw: Best Software with Gradual Typing Functionality (2026) | source: appmus.com | profile: type-systems

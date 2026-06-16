@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [Python Memory Optimization: 10 Hacks to Reduce RAM Usage in 2025 | Python in Plain English](https://python.plainenglish.io/python-memory-optimization-hacks-stop-wasting-ram-like-its-free-in-2025-b61e3eeb9f20) | kw: Python Memory Optimization: 10 Hacks to Reduce RAM Usage in 2025 | Python in Pla
+
 - **2026-06-16** | [Python 3.14 New Features: What's Changed and Why It Matters](https://dasroot.net/posts/2026/02/python-314-new-features-what-changed-why-it-matters/) | kw: Python 3.14 New Features: What's Changed and Why It Matters | source: dasroot.net | profile: python-internals
 - **2026-06-16** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter)](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why I | source: www.javacodegeeks.com | profile: python-internals
 - **2026-06-16** | [Python 3.14 Free-Threading and Experimental JIT: How Python...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python 3.14 Free-Threading and Experimental JIT: How Python... | source: blog.imseankim.com | profile: python-internals
