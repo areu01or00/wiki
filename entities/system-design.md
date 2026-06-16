@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-16** | [Serverless vs. Kubernetes: The Cloud-Native Architecture](https://algeriatech.news/serverless-kubernetes-cloud-native-2026) | kw: Kubernetes
+- **2026-06-16** | [Cloud-Native Patterns 2025: Microservices, Serverless, DevOps](https://blog.madrigan.com/en/blog/202510191136) | kw: Service
+- **2026-06-16** | [Cloud-Native Development: The Complete 2026 Guide to Building Modern Applications | Tasrie IT Services](https://tasrieit.com/blog/cloud-native-development-complete-guide-2026) | kw: Service
+
 - **2026-06-16** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026 | source: system-design
 - **2026-06-16** | [System Design Fundamentals — Scalability, Availability, Caching, and Message Queues | Chaos and Order](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System Design Fundamentals | source: system-design
 - **2026-06-16** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 | source: system-design
