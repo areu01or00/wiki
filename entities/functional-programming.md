@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [A monadic interpreter and type-and-effect checker (FTfJP 2026)](https://2026.ecoop.org/details/FTfJP-2026-ftfjp-2026/2/A-monadic-interpreter-and-type-and-effect-checker) | kw: A monadic interpreter and type-and-effect checker (FTfJP 2026) | profile: functional-programming
+- **2026-06-16** | [Control.Monad.Instances - Haskell base library](https://xmonad.github.io/xmonad-docs/base-4.16.4.0/Control-Monad-Instances.html) | kw: Control.Monad.Instances - Haskell base library | profile: functional-programming
+
 - **2026-06-16** | [80: POPL 2026 - Part 2 - The Haskell Interlude (podcast)](https://www.listennotes.com/podcasts/the-haskell/80-popl-2026-part-2-WOG2fI-tkse) | kw: 80: POPL 2026 - Part 2 - The Haskell Interlude (podcast) | profile: functional-programming
 
 - **2026-06-16** | [Monads for functional programming - University of Edinburgh](https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) | kw: Monads, functional, University, Edinburgh | source: ac.uk | profile: functional-programming
