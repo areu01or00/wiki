@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst | source: compilers
+
 - **2026-06-16** | [ML Compiler Breakthroughs Dominate AI Infrastructure in 2026 - Sesame Disk](https://sesamedisk.com/ml-compiler-breakthroughs-2026) | kw: ML Compiler Breakthroughs Dominate AI Infrastructure in 2026 - Sesame Disk | source: compilers
 
 - **2026-06-16** | [List of JavaScript engines - Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_engines) | kw: List of JavaScript engines - Wikipedia | source: compilers
