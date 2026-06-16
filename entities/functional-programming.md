@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Monad: Public Blockchain Project Introduction, Development Roadmap, and Ecosystem Analysis| KuCoin](https://www.kucoin.com/blog/monad-project-introduction) | kw: Monad: Public Blockchain Project Introduction, Development Roadmap, and Ecosyste | source: functional-programming
+
 - **2026-06-16** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's Coming for Haskell in 2026 - slicker.me | source: functional-programming
 - **2026-06-16** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: The Future of Haskell and Functional Programming | source: functional-programming
 - **2026-06-16** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 - Part 2 | source: functional-programming
