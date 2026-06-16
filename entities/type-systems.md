@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp) | kw: type systems
+- **2026-06-16** | [Type Inference in C++ (auto and decltype)](https://www.intel.com/content/www/us/en/docs/sycl/introduction/latest/08-auto.html) | kw: type systems
+
 - **2026-06-16** | [Gradual typing — Agilearn](https://agilearn.co.uk/guides/type-hints/concepts/gradual-typing) | kw: Gradual typing
 
 - **2026-06-16** | [Understanding Graduality in Programming Languages through ...](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: auto
