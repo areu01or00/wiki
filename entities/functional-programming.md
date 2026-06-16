@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-16** | [Functors and Monads in Practice | JSGuides](https://jsguides.dev/tutorials/javascript-functional-programming/fp-functors-monads) | kw: Functors and Monads in Practice | JSGuides | source: functional-programming
+
 - **2026-06-16** | [Glasgow Haskell Compiler — The Glasgow Haskell Compiler](https://www.haskell.org/ghc) | kw: Glasgow Haskell Compiler — The Glasgow Haskell Compiler | source: functional-programming
 - **2026-06-16** | [pymonad Python Guide [2026] | PyPI Tutorial](https://generalistprogrammer.com/tutorials/pymonad-python-package-guide) | kw: pymonad Python Guide [2026] | PyPI Tutorial | source: functional-programming
 
