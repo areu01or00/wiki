@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-16** | [LeetCode Solutions using Algorithms and Data Structure in C#](https://www.real.discount/offer/leetcode-solutions-using-algorithms-and-data-structure-in-c-16615) | kw: LeetCode
+
 - **2026-06-16** | [20 LeetCode Patterns Every New Grad Must Know Before ...](https://dglearning.substack.com/p/20-leetcode-patterns-every-new-grad) | kw: 20 LeetCode Patterns Every New Grad Must Know Before ... | source: algorithms
 
 - **2026-06-16** | [Common LeetCode Coding Patterns - Medium](https://medium.com/@rabhinaya0/common-leetcode-coding-patterns-8cb1d2090b70) | kw: Common LeetCode Coding Patterns - Medium | source: algorithms

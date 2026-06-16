@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-16** | [How Python's GIL Actually Works (And Why It Exists) - miydevforge](https://miydevforge.com/blog/how-python-gil-works/) | kw: How
+
 - **2026-06-16** | [Python 3.15 Features Locked in June 2026 Feature Freeze](https://explore.n1n.ai/blog/python-3-15-feature-freeze-june-2026-updates-2026-06-09) | kw: Python 3.15 Features Locked in June 2026 Feature Freeze | source: python-internals
 - **2026-06-16** | [Changelog — Python 3.15.0b2 documentation](https://docs.python.org/3.15/whatsnew/changelog.html) | kw: Changelog — Python 3.15.0b2 documentation | source: python-internals
 - **2026-06-16** | [Python 3.15 Hits Feature Freeze and Other News for June 2026](https://realpython.com/python-news-june-2026/) | kw: Python 3.15 Hits Feature Freeze and Other News for June 2026 | source: python-internals
