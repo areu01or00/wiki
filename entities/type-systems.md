@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-16** | [gradual typing python (and my approach) (beginner)](https://www.youtube.com/watch?v=Rk-Y71P_9KE) | kw: gradual typing python (and my approach) (beginner) | source: youtube.com | profile: type-systems
+
 - **2026-06-16** | [Python 3.14 — New Features, Internal Changes & Migration Guide](https://www.c-sharpcorner.com/article/whats-new-in-python-3-14-deep-dive-for-developers/) | kw: Python 3.14 — New Features, Internal Changes & Migration Guide | source: c-sharpcorner.com | profile: type-systems
 
 
