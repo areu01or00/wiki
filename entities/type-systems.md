@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [Type Theory for Skeptics: What Static Types Really Prove (And Don't) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/type-theory-for-skeptics-what-static-types-really-prove-and-dont.html) | kw: Type Theory for Skeptics: What Static Types Really Prove (An | source: type-systems
+
 - **2026-06-17** | [Type-Directed Operational Semantics for Gradual Typing](https://i.cs.hku.hk/~bruno/papers/jfp24.pdf) | kw: Type-Directed Operational Semantics for Gradual Typing | source: type-systems
 
 - **2026-06-17** | [Type inference - Harvard University](https://groups.seas.harvard.edu/courses/cs152/2023sp/lectures/lec16-typeinference.pdf) | kw: Type inference Harvard Univers | source: type-systems

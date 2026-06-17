@@ -504,7 +504,7 @@
         "e9d45130824f67775300df37d0b653d5",
         "bcfd71f53ab1ff9b1bbb906880b2771d"
       ],
-      "last_run": "2026-06-17 14:04 UTC",
+      "last_run": "2026-06-17 14:15 UTC",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -1045,7 +1045,7 @@
         "28c00f36e33bcbce61f6bf1ea1cb55a3",
         "dbb3cf77a94abed4779516a8e62a029b"
       ],
-      "last_run": "2026-06-17 14:04 UTC",
+      "last_run": "2026-06-17 14:15 UTC",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1533,7 +1533,6 @@
         "Calculus"
       ],
       "last_result_hashes": [
-        "94aeeac4743ae8deb7aa5932ebfa086d",
         "515297cd90212e0cede68efcec1af7d9",
         "796dd8fb9f6369a2e77f75139af26f3c",
         "29c7b8f86c1061a5e37a2c202d9cb209",
@@ -1552,11 +1551,12 @@
         "420b2b7a0413568a011c506edc08381f",
         "28e94ebed92fd89b713d7c533861375c",
         "2b950491effbaba6c2036eecd34edb3f",
-        "de176e453e26f317ae08a3b7cdf90aaf"
+        "de176e453e26f317ae08a3b7cdf90aaf",
+        "5e9fa1815906e58544a19d8a8bfac160"
       ],
-      "last_run": "2026-06-17 14:04 UTC",
+      "last_run": "2026-06-17 14:15 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_new_count": 1
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -2084,14 +2084,14 @@
         "f71b9406f4ee4801bd445ec181a161c7",
         "c4312bdd7b36e1d062f927f1cd4a5ef0"
       ],
-      "last_run": "2026-06-17 14:04 UTC",
+      "last_run": "2026-06-17 14:15 UTC",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
         "Class",
         "Magazine"
       ],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2588,7 +2588,7 @@
         "9c079bce41ba80e069e2d66cc02ed865",
         "5e9b8cf82248df4aef2eb2f56bda4161"
       ],
-      "last_run": "2026-06-17 14:04 UTC",
+      "last_run": "2026-06-17 14:15 UTC",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ],
@@ -3094,7 +3094,7 @@
         "d1527c869c6ea47ebfa9bc729c677e50",
         "2c0827dc7d42c384c73946afa6328c36"
       ],
-      "last_run": "2026-06-17 14:04 UTC",
+      "last_run": "2026-06-17 14:15 UTC",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",
