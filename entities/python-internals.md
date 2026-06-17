@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-17** | [Python Internals Module Projects - Engineering Challenges - EngineersOfAI](https://engineersofai.com/docs/python/python-intermediate/python-internals/projects/overview) | kw: Python Internals Module Projects - Engineering Cha | source: python-internals
+
 
 - **2026-06-17** | [Is it finally time to remove the Python GIL? - InfoWorld](https://www.infoworld.com/article/2337804/is-it-finally-time-to-remove-the-python-gil.html) | kw: Is it finally time to remove the Python GIL? - InfoWorld | source: python-internals
 
