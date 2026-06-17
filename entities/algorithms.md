@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-17** | [Data Structures and Algorithms Quest - LeetCode](https://leetcode.com/quest/data-structures-and-algorithms-quest/) | kw: Data Structures and Algorithms Quest - LeetCode | source: algorithms
+
 - **2026-06-17** | [How to Prepare for LeetCode: A Complete Strategy Guide for 2026](https://www.easyresume.online/blog/leetcode-preparation-guide) | kw: LeetCode strategy guide 2026
 - **2026-06-17** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: CareerLift LeetCode study plan
 - **2026-06-17** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: Tutor Bridge DSA roadmap 2026
