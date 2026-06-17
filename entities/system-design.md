@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: Latest Trends in Distributed Systems (2026): What I'm Buildi | source: system-design
+- **2026-06-17** | [Latest Trends in Distributed Systems (2026)](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: Latest Trends in Distributed Systems (2026) | source: system-design
+
 - **2026-06-17** | [Microservices Communication Patterns: A Guide for Engineering Leaders](https://www.ksolves.com/blog/microservices/microservices-communication-patterns) | kw: system
 - **2026-06-17** | [Redis Cluster Distributed Cache Architecture Design Guide 2026](https://powersoft-tech-report.hashnode.dev/redis-cluster-distributed-cache-architecture-guide) | kw: system
 
