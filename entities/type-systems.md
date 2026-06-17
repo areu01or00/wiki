@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: type
+- **2026-06-17** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: type
+
 - **2026-06-17** | [Type Inference in C++ (auto and decltype): A Practical 2026-Ready Guide](https://thelinuxcode.com/type-inference-in-c-auto-and-decltype-a-practical-2026ready-guide) | kw: Type Inference in C++ (auto and decltype): A Pract | source: type-systems
 
 - **2026-06-17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type, Efficient | source: type-systems

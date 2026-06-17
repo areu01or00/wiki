@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [Microservices Communication Patterns: A Guide for Engineering Leaders](https://www.ksolves.com/blog/microservices/microservices-communication-patterns) | kw: system
+- **2026-06-17** | [Redis Cluster Distributed Cache Architecture Design Guide 2026](https://powersoft-tech-report.hashnode.dev/redis-cluster-distributed-cache-architecture-guide) | kw: system
+
 - **2026-06-17** | [分布式系统设计与实战：Java微服务架构落地_2026](https://blog.csdn.net/likuoelie/article/details/157504985) | kw: 分布式系统设计与实战：Java微服务架构落地_2026 | source: system-design
 - **2026-06-17** | [分布式系统架构设计原则与实践 - i开源架构](https://www.iopencloud.com/blog/java/distributed-system-architecture-principles) | kw: 分布式系统架构设计原则与实践 - i开源架构 | source: system-design
 - **2026-06-17** | [《分布式系统：概念与设计》- 2.3.2 体系结构模式](https://developer.aliyun.com/article/174368) | kw: 《分布式系统：概念与设计》- 2.3.2 体系结构模式 | source: system-design
