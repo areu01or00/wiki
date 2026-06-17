@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-17** | [Company Wise LeetCode Questions List 2025 - Interview Browser](https://interviewbrowser.com/leetcode-questions) | kw: algorithms
+
 - **2026-06-17** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: questions | source: algorithms
 
 - **2026-06-17** | [How to Prepare for LeetCode: A Complete Strategy Guide for 2026](https://www.easyresume.online/blog/leetcode-preparation-guide) | kw: How to Prepare for LeetCode: A Complete Strategy Guide for 2026 | source: algorithms
