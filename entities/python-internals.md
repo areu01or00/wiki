@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-17** | [From Variables to No-GIL: Why Python Still Runs Modern AI](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: From Variables to No-GIL: Why Python Still Runs Modern AI | source: python-internals
+
 
 - **2026-06-17** | [Python's Breaking Free: The End of the GIL Era](https://medium.com/%40parasmunoli/pythons-breaking-free-the-end-of-the-gil-era-6e2333dbbf76) | kw: Python's Breaking Free: The End of the GIL Era | source: python-internals
 

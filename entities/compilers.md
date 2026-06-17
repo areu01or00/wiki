@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-17** | [Compiler & Interpreter Design: From Parsers to LLVM and AI Compilers (TVM/XLA) | Chaos and Order](https://www.youngju.dev/blog/ai/2026-03-17-compiler-interpreter-design-guide.en) | kw: Compiler & Interpreter Design: From Parsers to LLVM and AI Compilers (TVM/XLA... | source: compilers
+
 
 - **2026-06-17** | [Compiler Design: LLVM IR, SSA Form, and Optimization Pass...](https://anshadameenza.com/blog/technology/2025-02-05-compiler-design-llvm-ir-ssa-optimization-passes) | kw: LLVM IR, SSA form, optimization passes with real benchmarks | source: compilers
 
