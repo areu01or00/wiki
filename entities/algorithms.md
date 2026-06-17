@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-17** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: questions | source: algorithms
+
 - **2026-06-17** | [How to Prepare for LeetCode: A Complete Strategy Guide for 2026](https://www.easyresume.online/blog/leetcode-preparation-guide) | kw: How to Prepare for LeetCode: A Complete Strategy Guide for 2026 | source: algorithms
 
 - **2026-06-17** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms](https://medium.com/%40katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: The Ultimate Leetcode Roadmap: Data Structures & Algorithms | source: algorithms
