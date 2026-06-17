@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-17** | [Python Memory Leaks: 7 Fixes for Long-Running Apps in 2026](https://appsconcerebro.com/en/blog/python-2026-diagnostico-y-solucion-de-fugas-de-memoria-en-ap) | kw: Python Memory Leaks: 7 Fixes for Long-Running Apps in 2026 | source: python-internals
+- **2026-06-17** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhy | source: python-internals
+- **2026-06-17** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling and Optimization Techniques | source: python-internals
+- **2026-06-17** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python GIL: The Key to Backend Performance - odysse.io | source: python-internals
+- **2026-06-17** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter)](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why I | source: python-internals
+
 - **2026-06-17** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: evidhya.com
 - **2026-06-17** | [What is the Global Interpreter Lock (GIL) and is it going away in 2026?](https://medium.com/%40Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: medium.com
 

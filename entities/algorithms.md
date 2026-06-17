@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-17** | [Data Structures and Algorithms Introduction | Hello Interview](https://www.hellointerview.com/learn/code) | kw: Data Structures and Algorithms Introduction | Hello Interview | source: algorithms
+- **2026-06-17** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding Interview Prep 2026: LeetCode Strategy That Works | source: algorithms
+- **2026-06-17** | [Data Structures and Algorithms - Quest - LeetCode](https://leetcode.com/quest/data-structures-and-algorithms-quest/) | kw: Data Structures and Algorithms - Quest - LeetCode | source: algorithms
+- **2026-06-17** | [DSA Full Course 2026 | Data Structures & Algorithms Mastery (Java + LeetCode + Interview Prep)](https://www.youtube.com/watch?v=f2Jd5M0hLJA) | kw: DSA Full Course 2026 | Data Structures & Algorithms Mastery (Java + LeetCode + I | source: algorithms
+- **2026-06-17** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: Data Structure I - LeetCode | source: algorithms
+- **2026-06-17** | [Study Plan - LeetCode](https://leetcode.com/studyplan) | kw: Study Plan - LeetCode | source: algorithms
+
 - **2026-06-17** | [Best DSA Sheet 2026 - Namaste DSA Sheet](https://namastedev.com/namaste-dsa-sheet) | kw: namastedev.com
 - **2026-06-17** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: interviewquestions.guru
 - **2026-06-17** | [LeetCode Patterns Won't Save You in 2026 - Add These 7 Topics](https://levelup.gitconnected.com/leetcode-patterns-wont-save-you-in-2026-add-these-7-topics-9037b82f5549) | kw: levelup.gitconnected.com

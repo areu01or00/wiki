@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | | source: functional-programming
+- **2026-06-17** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top 22 Best Functional Programming Languages In 2026 | source: functional-programming
+- **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ...](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ... | source: functional-programming
+- **2026-06-17** | [80: POPL 2026 - Part 2 - The Haskell Interlude (podcast)](https://www.listennotes.com/podcasts/the-haskell/80-popl-2026-part-2-WOG2fI-tkse) | kw: 80: POPL 2026 - Part 2 - The Haskell Interlude (podcast) | source: functional-programming
+- **2026-06-17** | [The Practical Value of Functional Programming — Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView (2025) | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming — Monad, Functor, Pure Functions, | source: functional-programming
+- **2026-06-17** | [WS 2025 / 2026 - Computational Logic](https://cl-informatik.uibk.ac.at/component/content/category/teaching/ws-2025-2026?highlight=WzIwMjZd) | kw: WS 2025 / 2026 - Computational Logic | source: functional-programming
+- **2026-06-17** | [[2604.15290v4] Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v4) | kw: [2604.15290v4] Pure Borrow: Linear Haskell Meets Rust-Style Borrowing | source: functional-programming
+
 - **2026-06-17** | [What is a monad? And who needs Haskell anyway?](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: users.rust-lang.org
 - **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: discourse.haskell.org
 

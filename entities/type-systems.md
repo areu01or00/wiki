@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki | source: type-systems
+- **2026-06-17** | [Type inference of all constructs and the next 15 months - The Elixir programming language](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months - The Elixir programming | source: type-systems
+- **2026-06-17** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type system concepts — typing documentation | source: type-systems
+- **2026-06-17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Improvement in Gradual T | source: type-systems
+- **2026-06-17** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - Brai | source: type-systems
+- **2026-06-17** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for Performance Improvement | source: type-systems
+- **2026-06-17** | [Elixir v1.20 released: now a gradually typed language - The Elixir programming language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1.20 released: now a gradually typed language - The Elixir programming l | source: type-systems
+
 - **2026-06-17** | [gradual-typing - Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: prg.is.titech.ac.jp
 - **2026-06-17** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: christophegaron.com
 - **2026-06-17** | [Gradual Typing - Language Design and Implementation - ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: comp.anu.edu.au

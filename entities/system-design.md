@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [Future of High-Performance Distributed Systems: Trends and Research Directions – Md.Rafiuzzaman Khan](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Distributed Systems: Trends and Research Directions – | source: system-design
+- **2026-06-17** | [Latest Trends in Distributed Systems (2026) – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: Latest Trends in Distributed Systems (2026) – TheLinuxCode | source: system-design
+- **2026-06-17** | [Caching & Performance: Building Fast, Predictable Systems in 2026](https://neuralstackms.tech/caching-performance-building-fast-predictable-systems-in-2026) | kw: Caching & Performance: Building Fast, Predictable Systems in 2026 | source: system-design
+- **2026-06-17** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: System Design: The Complete Guide 2026 | source: system-design
+- **2026-06-17** | [Edge Computing Trends 2026: The Rise of Distributed Infrastructure](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge Computing Trends 2026: The Rise of Distributed Infrastructure | source: system-design
+- **2026-06-17** | [The Future of Distributed Systems - techhoff](https://techhoff.net/the-future-of-distributed-systems) | kw: The Future of Distributed Systems - techhoff | source: system-design
+- **2026-06-17** | [Distributed Systems Principles and Paradigms](https://www.dcc.fc.up.pt/~ines/aulas/1314/SDM/ch2.pdf) | kw: Distributed Systems Principles and Paradigms | source: system-design
+
 - **2026-06-17** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: devstarsj.github.io
 
 - **2026-06-17** | [Designing Resilient Distributed Systems: Patterns & Pitfalls](https://www.developers.dev/tech-talk/designing-resilient-distributed-systems-essential-patterns-and-common-pitfalls-for-architects.html) | kw: Designing Resilient Distributed Systems: Patterns & Pitfalls | source: system-design

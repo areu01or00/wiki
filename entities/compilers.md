@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-17** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome | source: compilers
+- **2026-06-17** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin | source: compilers
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026 · 4elodoy-Molovek/compiler-course-2026 · GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026 | source: compilers
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026 · VALancaster/compiler-course-2026 · GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026 | source: compilers
+
 - **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: github.com
 - **2026-06-17** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: youngju.dev
 - **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: github.com
