@@ -477,9 +477,11 @@
         "papers",
         "PODC",
         "Symposium",
-        "Call"
+        "Call",
+        "Distributed Systems Patterns"
       ],
       "last_result_hashes": [
+        "25a06ccbe831fcae1efa398fc18b067e",
         "6a8023ed8f6d80dc6383b03a803b7c26",
         "cb1eb2ebde1523022fa96826066cb39c",
         "056b14e78a14af65a4d0ae47a4e64443",
@@ -498,10 +500,9 @@
         "0a84e0f612f84727cbf618f66be65505",
         "8a4c6c3b1a58ba76429a4cc01eb115a4",
         "0bccdfeceeee7664c4e61f75605f9f8f",
-        "04ddb8cc2e0cbb14580d2c4c294dbd15",
-        "610726d81a59a082011d5e16dca77ca5"
+        "04ddb8cc2e0cbb14580d2c4c294dbd15"
       ],
-      "last_run": "2026-06-17T01:33:43.202513+00:00",
+      "last_run": "2026-06-17T01:49:26.800232+00:00",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -1015,9 +1016,12 @@
         "LLVM's",
         "llvm/llvm-project",
         "Upcoming",
-        "UBOS"
+        "UBOS",
+        "EuroLLVM",
+        "LLVM JIT Upcoming Challenges"
       ],
       "last_result_hashes": [
+        "00d37fecba311b38109bc12619ff9f25",
         "5d54a6ccb3d0ac626462282a4af2e122",
         "1480847529e160848da4aee3f40eb00a",
         "381c5829c4542d830b4e98667478e845",
@@ -1036,10 +1040,9 @@
         "6dd4974ef2998a3cf61d95ccbd84ca33",
         "8a03882e1a3c28208770da7aa3ccb5b6",
         "342cb4045ca9fbefae9f0010999175c4",
-        "28c00f36e33bcbce61f6bf1ea1cb55a3",
-        "5981dc5b0db66f6b2c11d030a8dbd3b2"
+        "28c00f36e33bcbce61f6bf1ea1cb55a3"
       ],
-      "last_run": "2026-06-17T01:33:43.202513+00:00",
+      "last_run": "2026-06-17T01:49:26.800232+00:00",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1540,7 +1543,7 @@
         "393c2007828b49d14ae2ce8a8bf61873",
         "a2c68e7f15f05539eb66de84e8ebcc92"
       ],
-      "last_run": "2026-06-17T01:33:43.202513+00:00",
+      "last_run": "2026-06-17T01:49:26.800232+00:00",
       "new_sub_topics_this_run": []
     },
     "functional-programming": {
@@ -2066,7 +2069,7 @@
         "64b9213a9db6ffcf3ee048410614e9dc",
         "94a26269fce6d4cab82e390dea71cd77"
       ],
-      "last_run": "2026-06-17T01:33:43.202513+00:00",
+      "last_run": "2026-06-17T01:49:26.800232+00:00",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2542,9 +2545,13 @@
         "Placements",
         "Better",
         "Data Structure Interview Questions",
-        "PapersAdda"
+        "PapersAdda",
+        "LeetCode Patterns Won",
+        "Save You",
+        "Add These"
       ],
       "last_result_hashes": [
+        "546a7ee81a112b9d017b79d6981ff7bc",
         "814ad50168aca7691bd4e6e042f0b36b",
         "eea32e4d9f2fe31a6f75282a6ddd8887",
         "5709f5373c7a0f5dfb0aba40ae5dce52",
@@ -2563,10 +2570,9 @@
         "1ff8dfe91f596660c052097ac9983080",
         "b0ac296a98c7e618bd3b3db47a2a526f",
         "8fbfc408d153c9db7210ed00243249c2",
-        "da5797f6918091bef630e2b801c861cd",
-        "008b9596e89a120b691af3b15c917221"
+        "da5797f6918091bef630e2b801c861cd"
       ],
-      "last_run": "2026-06-17T01:33:43.202513+00:00",
+      "last_run": "2026-06-17T01:49:26.800232+00:00",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ]
@@ -3066,7 +3072,7 @@
         "77e4e05bee45a7be48e4a2eb4e1a3a81",
         "2abbee82f484b493c8c88fee77060e1c"
       ],
-      "last_run": "2026-06-17T01:33:43.202513+00:00",
+      "last_run": "2026-06-17T01:49:26.800232+00:00",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",

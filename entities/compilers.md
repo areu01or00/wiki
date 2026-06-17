@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-17** | [EuroLLVM 2026 - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.org/devmtg/2026-04/slides/quick_talk/quick_talk_hames.pdf) | kw: EuroLLVM 2026 | source: compilers
+
 - **2026-06-17** | [Session Details: 2026 European LLVM Developers' Meeting - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: Session Details 2026 | source: compilers
 - **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - VALancaster](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT1.rst | source: compilers
 - **2026-06-17** | [A Deep Dive into LLVM: The Future of Compiler Technology - Aastha Jain](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive | source: compilers

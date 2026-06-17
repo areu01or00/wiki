@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-17** | [LeetCode Patterns Won't Save You in 2026 - Add These 7 Topics](https://levelup.gitconnected.com/leetcode-patterns-wont-save-you-in-2026-add-these-7-topics-9037b82f5549) | kw: LeetCode Patterns Won't Save You in 2026 | source: algorithms
+
 - **2026-06-17** | [Best DSA Sheet 2026 To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet | source: algorithms
 - **2026-06-17** | [LeetCode Questions for TCS 2026: 50 Solved Problems - PapersAdda](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for | source: algorithms
 - **2026-06-17** | [Top 50 Data Structures Interview Questions 2026 - PapersAdda](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: Top 50 Data | source: algorithms
