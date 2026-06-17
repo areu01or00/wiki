@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [Type Inference in C++ (auto and decltype): A Practical 2026-Ready Guide](https://thelinuxcode.com/type-inference-in-c-auto-and-decltype-a-practical-2026ready-guide) | kw: Type Inference in C++ (auto and decltype): A Pract | source: type-systems
+
 - **2026-06-17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type, Efficient | source: type-systems
 
 - **2026-06-17** | [Programming Trends to Follow in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/programming-trends-to-follow-in-2026) | kw: programming trends to follow in 2026 analytics insight | source: type-systems

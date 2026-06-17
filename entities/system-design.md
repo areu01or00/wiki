@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [分布式系统设计与实战：Java微服务架构落地_2026](https://blog.csdn.net/likuoelie/article/details/157504985) | kw: 分布式系统设计与实战：Java微服务架构落地_2026 | source: system-design
+- **2026-06-17** | [分布式系统架构设计原则与实践 - i开源架构](https://www.iopencloud.com/blog/java/distributed-system-architecture-principles) | kw: 分布式系统架构设计原则与实践 - i开源架构 | source: system-design
+- **2026-06-17** | [《分布式系统：概念与设计》- 2.3.2 体系结构模式](https://developer.aliyun.com/article/174368) | kw: 《分布式系统：概念与设计》- 2.3.2 体系结构模式 | source: system-design
+- **2026-06-17** | [未来十年分布式技术演进趋势与核心领域前瞻 - 狐火笔记](https://www.foxfire.com.cn/article/1485.html) | kw: 未来十年分布式技术演进趋势与核心领域前瞻 - 狐火笔记 | source: system-design
+- **2026-06-17** | [分布式系统架构 架构策略与难题求解 网络技术 - 百度学术](https://xueshu.baidu.com/usercenter/paper/show?paperid=1n220vr0wc2x0t20dp3c0ey0k1355064) | kw: 分布式系统架构 架构策略与难题求解 网络技术 - 百度学术 | source: system-design
+- **2026-06-17** | [分布式系统架构 - 百度百科](https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84/67613720) | kw: 分布式系统架构 - 百度百科 | source: system-design
+
 - **2026-06-17** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Gabo Gil's weekly radar on distributed systems shift
 - **2026-06-17** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: Load balancing algorithms and caching strategies
 - **2026-06-17** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: OnlineTools4Free Research on system design
