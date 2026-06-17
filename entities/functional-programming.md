@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Monads: Beyond Simple Analogies - Reflections on Functional Programming Paradigms](https://hackers.pub/%40hongminhee/2025/monads) | kw: Monads: Beyond Simple Analogies - Reflections on F | source: functional-programming
+
 - **2026-06-17** | [Haskell Popularity 2026 — Rankings, Trends & Data | LangPop](https://langpop.com/language/haskell) | kw: functional-programming
 
 - **2026-06-17** | [Monadic Design Patterns in Haskell: Mastering Functional Programming](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: Monadic Design Patterns | source: functional-programming
