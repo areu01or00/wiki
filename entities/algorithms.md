@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-17** | [Best DSA Sheet 2026 - Namaste DSA Sheet](https://namastedev.com/namaste-dsa-sheet) | kw: namastedev.com
+- **2026-06-17** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: interviewquestions.guru
+- **2026-06-17** | [LeetCode Patterns Won't Save You in 2026 - Add These 7 Topics](https://levelup.gitconnected.com/leetcode-patterns-wont-save-you-in-2026-add-these-7-topics-9037b82f5549) | kw: levelup.gitconnected.com
+- **2026-06-17** | [Data Structures and Algorithms Quest - LeetCode](https://leetcode.com/quest/data-structures-and-algorithms-quest/) | kw: leetcode.com
+
 
 - **2026-06-17** | [Microsoft L63-64 Interview Guides & Questions (2026)](https://www.hellointerview.com/guides/microsoft/senior) | kw: Microsoft L63-64 Interview Guides & Questions (2026) | source: algorithms
 

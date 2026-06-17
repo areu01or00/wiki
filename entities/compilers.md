@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: github.com
+- **2026-06-17** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: youngju.dev
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: github.com
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - Georghinho](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: github.com
+
 
 - **2026-06-17** | [The LLVM Compiler Infrastructure Project - Dev Mtg 2026-01](https://llvm.org/devmtg/2026-01) | kw: The LLVM Compiler Infrastructure Project - Dev Mtg 2026-01
 

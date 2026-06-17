@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-17** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: evidhya.com
+- **2026-06-17** | [What is the Global Interpreter Lock (GIL) and is it going away in 2026?](https://medium.com/%40Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: medium.com
+
 
 - **2026-06-17** | [Python Programming & Software Development Trends 2026 - sourcetrail](https://www.sourcetrail.com/python/the-evolution-of-python-in-modern-software-development-balancing-performance-career-demand-and-code-clarity) | kw: Python Programming & Software Development Trends 2026 - sour | source: python-internals
 

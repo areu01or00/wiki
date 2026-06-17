@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: devstarsj.github.io
+
 - **2026-06-17** | [Designing Resilient Distributed Systems: Patterns & Pitfalls](https://www.developers.dev/tech-talk/designing-resilient-distributed-systems-essential-patterns-and-common-pitfalls-for-architects.html) | kw: Designing Resilient Distributed Systems: Patterns & Pitfalls | source: system-design
 
 - **2026-06-17** | [Microservices - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/microservices) | kw: Microservices - GeeksforGeeks | source: system-design

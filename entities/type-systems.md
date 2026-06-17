@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [gradual-typing - Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: prg.is.titech.ac.jp
+- **2026-06-17** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: christophegaron.com
+- **2026-06-17** | [Gradual Typing - Language Design and Implementation - ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: comp.anu.edu.au
+
 - **2026-06-17** | [gradual-typing - Programming Research Group (en)](https://prg.is.titech.ac.jp/en/category/project/type/gradual-typing) | kw: gradual-typing - Programming Research Group (en) | source: type-systems
 - **2026-06-17** | [Abstracting Gradual Typing (AGT) - emergentmind.com](https://www.emergentmind.com/topics/abstracting-gradual-typing-agt) | kw: Abstracting Gradual Typing (AGT) - emergentmind.com | source: type-systems
 

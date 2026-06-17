@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [What is a monad? And who needs Haskell anyway?](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: users.rust-lang.org
+- **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: discourse.haskell.org
+
 
 - **2026-06-17** | [Functional Programming: 2025-2026 - Oxford CS](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/fp) | kw: Functional Programming: 2025-2026 - Oxford CS | source: functional-programming
 
