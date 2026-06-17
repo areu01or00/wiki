@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Monad (category theory) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28category_theory%29) | kw: Monad (category theory) - Wikipedia | source: functional-programming
+
 - **2026-06-17** | [Monads: Beyond Simple Analogies - Reflections on Functional Programming Paradigms](https://hackers.pub/%40hongminhee/2025/monads) | kw: Monads: Beyond Simple Analogies - Reflections on F | source: functional-programming
 
 - **2026-06-17** | [Haskell Popularity 2026 — Rankings, Trends & Data | LangPop](https://langpop.com/language/haskell) | kw: functional-programming
