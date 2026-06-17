@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-17** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python - python internals: | source: python-internals
+- **2026-06-17** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: exploring python: internals and | source: python-internals
+- **2026-06-17** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python gil: the key | source: python-internals
+- **2026-06-17** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: the python gil controversy: | source: python-internals
+- **2026-06-17** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: the future of python | source: python-internals
+- **2026-06-17** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: python 3.14 free-threading and | source: python-internals
+- **2026-06-17** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: state of python 2026 | source: python-internals
+- **2026-06-17** | [Python's GIL Is Gone — What That Actually Means for Your Code | by Meryem Sakin | Python in Plain English](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python's gil is gone | source: python-internals
+
 - **2026-06-17** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production- | source: python-internals
 - **2026-06-17** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: How Python's Memory Management Works Under the Hood | source: python-internals
 - **2026-06-17** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter | source: python-internals

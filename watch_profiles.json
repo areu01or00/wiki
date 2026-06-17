@@ -483,9 +483,6 @@
         "Must"
       ],
       "last_result_hashes": [
-        "54449127c5a919ced70c6b4477340a18",
-        "6d8de8867c71793bc52d3ca7013f5b74",
-        "ea0c937a0defda9ddbaf8bf366cb33d4",
         "5c0541fe0546da521d99ca66907ca084",
         "7fd55d07ab6820c97cde19ae71b26ede",
         "0bccdfeceeee7664c4e61f75605f9f8f",
@@ -502,9 +499,12 @@
         "8a4c6c3b1a58ba76429a4cc01eb115a4",
         "2efe47add6349b1a23f9e1b4a923ec6b",
         "056b14e78a14af65a4d0ae47a4e64443",
-        "697337f881dc40cc977774b3475bbe3d"
+        "697337f881dc40cc977774b3475bbe3d",
+        "62ffed8405f0c26474dbf2c73f5f9796",
+        "aaaf9550e5e27d5469ea0edd84372b77",
+        "3d924683b109e99c93d7ba785e0c7ab0"
       ],
-      "last_run": "2026-06-17T16:02:37Z",
+      "last_run": "2026-06-17T16:16:56Z",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -1021,15 +1021,13 @@
         "Framework",
         "AOT Compilation",
         "Must",
-        "GraalVM"
+        "GraalVM",
+        "compiler-course-2026/llvm/docs/tutorial/",
+        "compilers and",
+        "llvm roadmap",
+        "llvm weekly"
       ],
       "last_result_hashes": [
-        "c2c98c62f28cc2aa7a611539fb043b2d",
-        "cd6615121f745370351123ff10180b2f",
-        "f59aecd9d2bb1c9a8e2250bf412480f0",
-        "28c00f36e33bcbce61f6bf1ea1cb55a3",
-        "dbb3cf77a94abed4779516a8e62a029b",
-        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
         "a72ceec8eeb52bd52bd83b424cf3ef30",
         "dc5ada16f234dc184f112304b0917552",
         "f8d442f4690d4404517ee77875bd3260",
@@ -1043,9 +1041,15 @@
         "233f5bce867180de5299f3e4a40e8650",
         "75758f0634f7ea17454ad137e0b1f1f1",
         "1e4f2841efc1fbac5ac052907fa5790f",
-        "07f0e54c284f07b58fd64563df6653ef"
+        "07f0e54c284f07b58fd64563df6653ef",
+        "8c022b2d69274414288aca322244e1cc",
+        "d0de062ed058a4b7bb87b9c013129190",
+        "d63dbdc004563d48fd946feffeab6d0b",
+        "9b9e5b41a1c52064d55b23f06ea84096",
+        "cbbac306d076d70d8345446afaf73bbf",
+        "3a3d97ee8b5aa4532c59516d054b99ad"
       ],
-      "last_run": "2026-06-17T16:02:37Z",
+      "last_run": "2026-06-17T16:16:56Z",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1530,13 +1534,11 @@
         "Inference",
         "weekly",
         "Must",
-        "Calculus"
+        "Calculus",
+        "[2603.05649] efficient",
+        "efficient selection"
       ],
       "last_result_hashes": [
-        "ed513f6e12395c8fbbf5e5415449aabd",
-        "c027f5d29aa0bfa5a3a5037b14ac8b26",
-        "420b2b7a0413568a011c506edc08381f",
-        "28e94ebed92fd89b713d7c533861375c",
         "2b950491effbaba6c2036eecd34edb3f",
         "de176e453e26f317ae08a3b7cdf90aaf",
         "5e9fa1815906e58544a19d8a8bfac160",
@@ -1552,9 +1554,13 @@
         "543697ac79673cc3f8f429709121926e",
         "81232b51393367f3db856b0642376ad2",
         "87065c9439c433c819c4f5a68841256d",
-        "5b2a310af3624fe5c8840aaca4c5f195"
+        "5b2a310af3624fe5c8840aaca4c5f195",
+        "37ffd58453521e02c05e593eedaf102e",
+        "9a3ca8ef0be6bd5ed1e25f6590c663f6",
+        "65f746b9b7ba253534eafd91ea1668a5",
+        "2f7f4dc1bef96eb9f17cc073be199fc1"
       ],
-      "last_run": "2026-06-17T16:02:37Z",
+      "last_run": "2026-06-17T16:16:56Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2060,19 +2066,16 @@
         "weekly",
         "Value",
         "Must",
-        "Monad,"
+        "Monad,",
+        "all about",
+        "demystifying monads",
+        "making sense",
+        "monadify \u2014",
+        "monads and",
+        "monads tutorial",
+        "practical uses"
       ],
       "last_result_hashes": [
-        "8ebdd868e3be019898b9d36cd949934f",
-        "b02dbbc70e07d9299f580417705b125b",
-        "94a26269fce6d4cab82e390dea71cd77",
-        "607b9f117d3451b3adf4e643b96d2b5b",
-        "f71b9406f4ee4801bd445ec181a161c7",
-        "c4312bdd7b36e1d062f927f1cd4a5ef0",
-        "1f3fe9b4691dc9d2fce12b1266a8cd65",
-        "50c02e30532c422b20f8a39ff6cb5257",
-        "2a314c9af20e20ff4fb1bc043ac1e080",
-        "9723a1f1ac6c1a15c0a730f494ead1ef",
         "9868fdee1ae3718a5c48b14aabfd228c",
         "2649172dbd20aff571990bbc5343460d",
         "1460d415de60e4be5e4292d071acce11",
@@ -2082,9 +2085,19 @@
         "06ce455b80c3353477db4172b1596c1e",
         "bc2135eec3871ce21b29a6ac82c28881",
         "aa80c4393d6db9a7227a87e5f21b2707",
-        "449f1936d11b3408b5111b8fbfc6e205"
+        "449f1936d11b3408b5111b8fbfc6e205",
+        "fdc8e2b82500b598dc73a35e40bb2f1e",
+        "c52f5174ff9b2fb18fb776e711ed0486",
+        "7eff5c6a99bf213eccb369082948afb6",
+        "a3493ff266b17fc6ca7d44bed6e59213",
+        "19e9a027878cd9e15d80f9af087b154c",
+        "b341d76ccdddeac04e4d09cd87b7cfc7",
+        "8f5cea9e5197c247d1be3e7c458669a6",
+        "c233ce094f809bd93c2f4474229feed5",
+        "619445cf59810e703603ef4f268058ee",
+        "f893f60a24ac37aeb075a0f0bd5137a0"
       ],
-      "last_run": "2026-06-17T16:02:37Z",
+      "last_run": "2026-06-17T16:16:56Z",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2564,16 +2577,14 @@
         "TechPrep",
         "Must",
         "Master arrays",
-        "Arch"
+        "Arch",
+        "algorithm patterns",
+        "data structure",
+        "how to",
+        "leetcode alone",
+        "leetcode questions"
       ],
       "last_result_hashes": [
-        "711907ad3def1c1455722ff1c7f06c77",
-        "9c079bce41ba80e069e2d66cc02ed865",
-        "5e9b8cf82248df4aef2eb2f56bda4161",
-        "89558d9d8a5b9d7ce63f84d522813ad1",
-        "c4717b42c3d69330ac0a0772555c5462",
-        "66794612107b02a5cf775c19c5d9b560",
-        "cc0c26643856f053b20892c101a8a2f1",
         "cb0c560e8841e385635126a2a21c8684",
         "814ad50168aca7691bd4e6e042f0b36b",
         "7e571cc4915b8f19020f0aebd3f76356",
@@ -2586,9 +2597,16 @@
         "37b18b3ee5841dc8d78ef02edf927dc9",
         "8d15aafde38b4f7003d03f97cfdf9d18",
         "3739df902d0a15eaecfaff44ff2d20c8",
-        "81d3f6ca00caa659b47d39e7b3373c33"
+        "81d3f6ca00caa659b47d39e7b3373c33",
+        "89930b44724eb9643d814762f9f5f7d6",
+        "8d2ee4fd79aa63ae35ba64533026932c",
+        "9bae7c320eaa49023b76088f638f22f3",
+        "549ea15c0e365d7a6670cda747aff11d",
+        "9ce6169374b8a813371af8d41f83c91e",
+        "1bfc48dcc21dee0fda35a41d45014bf0",
+        "504193c7c786307a3a1e8318d098e8d4"
       ],
-      "last_run": "2026-06-17T16:02:37Z",
+      "last_run": "2026-06-17T16:16:56Z",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ],
@@ -3070,17 +3088,15 @@
         "Garbage Collection Generations",
         "weekly",
         "Must",
-        "Masterclass"
+        "Masterclass",
+        "exploring python",
+        "python gil",
+        "python's gil",
+        "state of",
+        "the future",
+        "the python"
       ],
       "last_result_hashes": [
-        "79d28f03e144e5b10eb3f2f36126965d",
-        "999e699e6e78d8e383158b10f1c950f8",
-        "2d58c6e1a61db711d6cc9522f4a3a135",
-        "d1527c869c6ea47ebfa9bc729c677e50",
-        "2c0827dc7d42c384c73946afa6328c36",
-        "e6a418c5f148d68a53fd286dcc17d453",
-        "114dd8560bba591509556eef97d722a5",
-        "b07fdd19ee37af0f4dcf73e24bee4a46",
         "6ef292c1ca22680772b34a822ad25be1",
         "dffb367289c2ff33235ee4db217cc919",
         "2abbee82f484b493c8c88fee77060e1c",
@@ -3092,9 +3108,17 @@
         "23f806669425cddfbb81ceb3202ed519",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "195cc5355800be062c15e1a66ccfcacd",
-        "343ee2ea3c7bd5c5bb4c13c55f709fcf"
+        "343ee2ea3c7bd5c5bb4c13c55f709fcf",
+        "7b0c583d3445b91efa0c0453e5a737c4",
+        "b892d3268af415a5d0c10b3cc6cd89bf",
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "aff79aed6e34d3f002b7fa14f5978b75",
+        "3723dfa3f60cd99fa11d63a5fa09bc1f",
+        "35303d2720582e23d49ac77a4490dddd",
+        "704da68a060e620278ad7620fdf6c8a8",
+        "046e853bd980ce38929ddf910697c6de"
       ],
-      "last_run": "2026-06-17T16:02:37Z",
+      "last_run": "2026-06-17T16:16:56Z",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",

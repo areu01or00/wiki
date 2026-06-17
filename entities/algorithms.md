@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-17** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics - DEV Community](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: leetcode alone won't save | source: algorithms
+- **2026-06-17** | [Interview Prep: Algorithm Patterns | SyntaxCache](https://www.syntaxcache.com/interview-prep) | kw: interview prep: algorithm patterns | source: algorithms
+- **2026-06-17** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: data structure i - | source: algorithms
+- **2026-06-17** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: leetcode questions for tcs | source: algorithms
+- **2026-06-17** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems | LastRound AI](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: leetcode patterns cheat sheet | source: algorithms
+- **2026-06-17** | [How to Get Better at LeetCode: 10 Tips That Actually Work (2026)](https://leetcopilot.dev/blog/how-to-get-better-at-leetcode-2026) | kw: how to get better | source: algorithms
+- **2026-06-17** | [Algorithm Patterns for Coding Interviews: The Framework for ...](https://craqly.com/blog/leetcode-patterns-cheat-sheet) | kw: algorithm patterns for coding | source: algorithms
+
 - **2026-06-17** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode - The World's Leading Programming Learning Platform | source: algorithms
 - **2026-06-17** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 / To Crack Interviews - namastedev.com | source: algorithms
 - **2026-06-17** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode - The World's Leading Online Programming Learning P | source: algorithms

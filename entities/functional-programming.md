@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads tutorial — monday | source: functional-programming
+- **2026-06-17** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monads and monad-like patterns | source: functional-programming
+- **2026-06-17** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: making sense of monads | source: functional-programming
+- **2026-06-17** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: practical uses of monads | source: functional-programming
+- **2026-06-17** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: demystifying monads in rust | source: functional-programming
+- **2026-06-17** | [Tutorials - HaskellWiki](https://www.haskell.org/haskellwiki/Tutorials) | kw: tutorials - haskellwiki | source: functional-programming
+- **2026-06-17** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: haskell - monads - | source: functional-programming
+- **2026-06-17** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: all about monads - | source: functional-programming
+- **2026-06-17** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt) | kw: demystifying monads in rust | source: functional-programming
+- **2026-06-17** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify — rust utility | source: functional-programming
+
 - **2026-06-17** | [Functional Design Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/haskell/functional-design-patterns) | kw: Functional Design Patterns / Software Patterns Lexicon | source: functional-programming
 - **2026-06-17** | [Comparing Haskell and Rust: which to choose, when?](https://www.reddit.com/r/haskell/comments/47rjr4/comparing_haskell_and_rust_which_to_choose_when) | kw: Comparing Haskell and Rust: which to choose, when? | source: functional-programming
 - **2026-06-17** | [The Practical Value of Functional Programming — Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView (2025)](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming — Monad, Funct | source: functional-programming

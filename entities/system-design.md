@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: system design: the complete | source: system-design
+- **2026-06-17** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: distributed system design: the | source: system-design
+- **2026-06-17** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system design guide 2026 | source: system-design
+
 - **2026-06-17** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System Design Series Part 3: Load Balancing & Caching - Wasi | source: system-design
 - **2026-06-17** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Distributed Systems: Trends and R | source: system-design
 

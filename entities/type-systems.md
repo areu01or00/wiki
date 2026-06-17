@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: efficient selection of type | source: type-systems
+- **2026-06-17** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] efficient selection of | source: type-systems
+- **2026-06-17** | [Gradual Typing with Unification-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: gradual typing with unification-based | source: type-systems
+- **2026-06-17** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives | NSF Public Access Repository](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: gradual typing performance, micro | source: type-systems
+
 - **2026-06-17** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing in Type Theory - numberanalytics.com | source: type-systems
 - **2026-06-17** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with Inference | source: type-systems
 - **2026-06-17** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing - Khoury College of Computer | source: type-systems
