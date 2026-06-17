@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [TYPES 2026: TYPES 2026 conference](https://types2026.cse.chalmers.se/) | kw: TYPES 2026 conference | source: type-systems
+
 - **2026-06-17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of | source: type-systems
 - **2026-06-17** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed and Confused | source: type-systems
 - **2026-06-17** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with | source: type-systems
