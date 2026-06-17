@@ -1515,7 +1515,8 @@
         "TYPES conference",
         "Chalmers",
         "type theory conference",
-        "gradual typing inference"
+        "gradual typing inference",
+        "Type Annotations"
       ],
       "last_result_hashes": [
         "50cbc6a3a7d282cc18645c87c79aa8c2",
@@ -1539,7 +1540,7 @@
         "393c2007828b49d14ae2ce8a8bf61873",
         "a2c68e7f15f05539eb66de84e8ebcc92"
       ],
-      "last_run": "2026-06-17T01:04:02Z",
+      "last_run": "2026-06-17T01:05:49Z",
       "new_sub_topics_this_run": []
     },
     "functional-programming": {
@@ -2039,7 +2040,9 @@
         "Central",
         "alvinalexander.com",
         "Class",
-        "Magazine"
+        "Magazine",
+        "Property-Based Testing",
+        "Map"
       ],
       "last_result_hashes": [
         "61aac13f4aa7f41f490000523a872329",
@@ -2063,7 +2066,7 @@
         "64b9213a9db6ffcf3ee048410614e9dc",
         "94a26269fce6d4cab82e390dea71cd77"
       ],
-      "last_run": "2026-06-17T01:04:02Z",
+      "last_run": "2026-06-17T01:05:49Z",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
