@@ -1528,7 +1528,6 @@
         "org"
       ],
       "last_result_hashes": [
-        "a3bff6024fbb28890c700733eef813fa",
         "796dd8fb9f6369a2e77f75139af26f3c",
         "7f9d9d17e1451e3ee24574749b4b94d2",
         "37ffd58453521e02c05e593eedaf102e",
@@ -1547,9 +1546,10 @@
         "52c4bc5a1bcd471c9a7d0c527c736466",
         "a74a147950a12ada1d2516685c8fecad",
         "6dd177bf071629da0719868208ad2e11",
-        "529b7e892267d1b1cfc9688b5bfdf683"
+        "529b7e892267d1b1cfc9688b5bfdf683",
+        "f6cdc98a2ba378c257ad1beab9d96dcc"
       ],
-      "last_run": "2026-06-17 03:05:24 UTC",
+      "last_run": "2026-06-17 03:19:08 UTC",
       "new_sub_topics_this_run": []
     },
     "functional-programming": {
@@ -2557,7 +2557,6 @@
         "Add These"
       ],
       "last_result_hashes": [
-        "b374c779c101dd010d1f2ed0450afdee",
         "595f0e6ddf3ffc9ae7d6d3256cb6ad3b",
         "544d7d110803052b93a7e0f05f49b7d5",
         "549ea15c0e365d7a6670cda747aff11d",
@@ -2576,9 +2575,10 @@
         "dba859e9113f969a0f84d759331953e7",
         "b8a196b3948b15616b9ca37eca350feb",
         "85c94428e923ba3f2759e44b0821e577",
-        "4206f0548aa77b69bedc008d791bb11e"
+        "4206f0548aa77b69bedc008d791bb11e",
+        "6ad12a4c3309689d5478c9c6598a6eff"
       ],
-      "last_run": "2026-06-17 03:05:24 UTC",
+      "last_run": "2026-06-17 03:19:08 UTC",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ]
