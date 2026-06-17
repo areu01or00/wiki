@@ -480,7 +480,6 @@
         "Call"
       ],
       "last_result_hashes": [
-        "729c2ff54afb3063182d60de7d6aef1c",
         "6a8023ed8f6d80dc6383b03a803b7c26",
         "cb1eb2ebde1523022fa96826066cb39c",
         "056b14e78a14af65a4d0ae47a4e64443",
@@ -499,9 +498,10 @@
         "0a84e0f612f84727cbf618f66be65505",
         "8a4c6c3b1a58ba76429a4cc01eb115a4",
         "0bccdfeceeee7664c4e61f75605f9f8f",
-        "04ddb8cc2e0cbb14580d2c4c294dbd15"
+        "04ddb8cc2e0cbb14580d2c4c294dbd15",
+        "610726d81a59a082011d5e16dca77ca5"
       ],
-      "last_run": "2026-06-17T01:18:31.715868+00:00",
+      "last_run": "2026-06-17T01:33:43.202513+00:00",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -1039,7 +1039,7 @@
         "28c00f36e33bcbce61f6bf1ea1cb55a3",
         "5981dc5b0db66f6b2c11d030a8dbd3b2"
       ],
-      "last_run": "2026-06-17T01:18:31.715888+00:00",
+      "last_run": "2026-06-17T01:33:43.202513+00:00",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1540,7 +1540,7 @@
         "393c2007828b49d14ae2ce8a8bf61873",
         "a2c68e7f15f05539eb66de84e8ebcc92"
       ],
-      "last_run": "2026-06-17T01:18:31.715892+00:00",
+      "last_run": "2026-06-17T01:33:43.202513+00:00",
       "new_sub_topics_this_run": []
     },
     "functional-programming": {
@@ -2066,7 +2066,7 @@
         "64b9213a9db6ffcf3ee048410614e9dc",
         "94a26269fce6d4cab82e390dea71cd77"
       ],
-      "last_run": "2026-06-17T01:18:31.715895+00:00",
+      "last_run": "2026-06-17T01:33:43.202513+00:00",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2566,7 +2566,7 @@
         "da5797f6918091bef630e2b801c861cd",
         "008b9596e89a120b691af3b15c917221"
       ],
-      "last_run": "2026-06-17T01:18:31.715898+00:00",
+      "last_run": "2026-06-17T01:33:43.202513+00:00",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ]
@@ -3066,7 +3066,7 @@
         "77e4e05bee45a7be48e4a2eb4e1a3a81",
         "2abbee82f484b493c8c88fee77060e1c"
       ],
-      "last_run": "2026-06-17T01:18:31.715901+00:00",
+      "last_run": "2026-06-17T01:33:43.202513+00:00",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",

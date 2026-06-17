@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [System Design Tutorial: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-tutorial/) | kw: System Design Tutorial: The Complete Guide 2026 | source: system-design
+
 - **2026-06-17** | [Cloud Architecture Pattern Explained with Examples - Svitla Systems](https://svitla.com/blog/cloud-architecture-explained) | kw: Cloud Architecture Pattern Explained with Examples | source: system-design
 
 - **2026-06-17** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: System Design The | source: system-design
