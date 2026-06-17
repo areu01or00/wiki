@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-17** | [Is it finally time to remove the Python GIL? - InfoWorld](https://www.infoworld.com/article/2337804/is-it-finally-time-to-remove-the-python-gil.html) | kw: Is it finally time to remove the Python GIL? - InfoWorld | source: python-internals
+
 - **2026-06-17** | [Unlocking Python's Hidden Power: Mastering Memory, Conquering the GIL - Medium](https://medium.com/%40dalansimalek/unlocking-pythons-hidden-power-mastering-memory-conquering-the-gil-and-turbocharging-a1e1a3583503) | kw: Unlocking Python's Hidden Power: Mastering Memory, Conquering the GIL - Medium | source: python-internals
 
 - **2026-06-17** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 - BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is | source: python-internals

@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-17** | ["A Case for Gradual Typing"](https://computingintelligenceblog.blogspot.com/2024/09/a-case-for-gradual-typing.html) | kw: "A Case for Gradual Typing" | source: type-systems
+
 - **2026-06-17** | [AI Updates Today (April 2026) - Latest AI Model Releases | AIFOD](https://af.net/realtime/ai-updates-today-april-2026-latest-ai-model-releases/) | kw: AI Updates Today (April 2026) - Latest AI Model Releases - A | source: type-systems
 
 - **2026-06-17** | [Typing at PyCon USA 2025 - Discussions on Python.org](https://discuss.python.org/t/typing-at-pycon-usa-2025/91298) | kw: Typing at PyCon USA 2025 - Discussions on Python.org | source: type-systems
