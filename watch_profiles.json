@@ -504,7 +504,7 @@
         "e9d45130824f67775300df37d0b653d5",
         "0bccdfeceeee7664c4e61f75605f9f8f"
       ],
-      "last_run": "2026-06-17T18:32:35Z",
+      "last_run": "2026-06-17T19:18:08.114322+00:00",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -1049,7 +1049,7 @@
         "101a35db2e611ccf1f4f58c92c94dbb9",
         "ef812a2fbb0c99c59fec513685f05f30"
       ],
-      "last_run": "2026-06-17T18:45:33Z",
+      "last_run": "2026-06-17T19:18:08.114322+00:00",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1561,7 +1561,7 @@
         "7e58202d901d88fd843521c2cb440e69",
         "a3bff6024fbb28890c700733eef813fa"
       ],
-      "last_run": "2026-06-17T18:32:35Z",
+      "last_run": "2026-06-17T19:18:08.114322+00:00",
       "new_sub_topics_this_run": [
         "Type Inference Techniques"
       ],
@@ -2100,7 +2100,7 @@
         "67588915b115136a9f492c59e7dfa1e1",
         "f7d6e54657dae3c7eb9960e45355a61b"
       ],
-      "last_run": "2026-06-17T18:32:35Z",
+      "last_run": "2026-06-17T19:18:08.114322+00:00",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2609,7 +2609,7 @@
         "e1eb2c787d78af957068f3aafe51bee0",
         "81d3f6ca00caa659b47d39e7b3373c33"
       ],
-      "last_run": "2026-06-17T18:32:35Z",
+      "last_run": "2026-06-17T19:18:08.114322+00:00",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ],
@@ -3100,7 +3100,6 @@
         "the python"
       ],
       "last_result_hashes": [
-        "e5de457dfb901c53485a52be22a77e07",
         "d8a70207fc5f61e128a0c35b450134e3",
         "993340ba10508d27975679f77e08cd57",
         "3ffbda41664600606f9e3139cda64291",
@@ -3119,9 +3118,10 @@
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "23f806669425cddfbb81ceb3202ed519",
         "18af5cf676b77ae4b09dcadb613c59d7",
-        "90bbefd3dcfb50841d07f5aa1e6bdcaf"
+        "90bbefd3dcfb50841d07f5aa1e6bdcaf",
+        "aac2d9a026a45c3d0d3058388303a057"
       ],
-      "last_run": "2026-06-17T18:32:35Z",
+      "last_run": "2026-06-17T19:18:08.114322+00:00",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",
