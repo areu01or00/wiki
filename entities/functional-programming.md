@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Functional JavaScript First Steps, v2](https://frontendmasters.com/courses/functional-first-steps-v2) | kw: Functional JavaScript First Steps, v2 | source: functional-programming
+
 - **2026-06-17** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: PenChef overview of FP in 2026
 - **2026-06-17** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Rust monadic patterns guide
 - **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell discourse POPL 2026

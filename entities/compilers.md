@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-17** | [CS 331 Spring 2026 Compilers & Interpreters](https://www.cs.uaf.edu/~chappell/class/2026_spr/cs331/read/comp_int.html) | kw: CS 331 Spring 2026 Compilers & Interpreters | source: compilers
+
 - **2026-06-17** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM talk on llvm-autojit plugin
 - **2026-06-17** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Deep dive into compilers and runtimes
 - **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM Building a JIT tutorial
