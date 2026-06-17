@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Monadic Design Patterns in Haskell: Mastering Functional Programming](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: Monadic Design Patterns | source: functional-programming
+- **2026-06-17** | [Functional programming: A collection of good Monad tutorials - alvinalexander.com](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Functional programming A | source: functional-programming
+- **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2 - Haskell Discourse](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83 | source: functional-programming
+- **2026-06-17** | [100+ Monads Online Courses for 2026 - Class Central](https://www.classcentral.com/subject/monads) | kw: 100+ Monads Online | source: functional-programming
+- **2026-06-17** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad | source: functional-programming
+- **2026-06-17** | [Rust: Functional Programming & Monads - Medium](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust Functional Programming | source: functional-programming
+- **2026-06-17** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads Tutorial Monday | source: functional-programming
+- **2026-06-17** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned | source: functional-programming
+- **2026-06-17** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming at | source: functional-programming
+
 - **2026-06-16** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which Functional Programming Languages Should You Learn in 2026? | source: functional-programming
 - **2026-06-16** | [Functional Languages in 2026 - A Camp-by-Camp Survey of Haskell, OCaml, Elm, Gleam, Roc, Unison, Lean 4, F#, Clojure](https://www.youngju.dev/blog/culture/2026-05-14-functional-languages-2026-survey-haskell-elm-roc-gleam-unison-ocaml-fsharp-deep-dive.en) | kw: Functional Languages in 2026 - A Camp-by-Camp Survey of Haskell, OCaml, Elm, Gleam, Roc, Unison, Lean 4, F#, Clojure | source: functional-programming
 - **2026-06-16** | [The Practical Value of Functional Programming - Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming - Monad | source: functional-programming

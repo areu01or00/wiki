@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-17** | [Session Details: 2026 European LLVM Developers' Meeting - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: Session Details 2026 | source: compilers
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - VALancaster](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT1.rst | source: compilers
+- **2026-06-17** | [A Deep Dive into LLVM: The Future of Compiler Technology - Aastha Jain](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive | source: compilers
+- **2026-06-17** | [The LLVM Compiler Framework and Infrastructure - course PDF](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: The LLVM Compiler | source: compilers
+- **2026-06-17** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, TurboFan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern | source: compilers
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - Georghinho](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT1.rst | source: compilers
+- **2026-06-17** | [LLVM's Ongoing Challenges and Mitigation Strategies in 2026 - UBOS](https://ubos.tech/news/llvms-ongoing-challenges-and-mitigation-strategies-in-2026) | kw: LLVM's Ongoing Challenges | source: compilers
+- **2026-06-17** | [GitHub - llvm/llvm-project: The LLVM Project](https://github.com/llvm/llvm-project) | kw: GitHub llvm/llvm project | source: compilers
+
 - **2026-06-16** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst | source: compilers
 
 - **2026-06-16** | [ML Compiler Breakthroughs Dominate AI Infrastructure in 2026 - Sesame Disk](https://sesamedisk.com/ml-compiler-breakthroughs-2026) | kw: ML Compiler Breakthroughs Dominate AI Infrastructure in 2026 - Sesame Disk | source: compilers

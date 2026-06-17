@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-17** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 - BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is | source: python-internals
+- **2026-06-17** | [Python Internals: Memory Management and the Global Interpreter Lock (GIL) - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals Memory | source: python-internals
+- **2026-06-17** | [Python Memory Profiling and Optimization Techniques - dasroot.net](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling | source: python-internals
+- **2026-06-17** | [The Ultimate Python Learning Roadmap for 2026 - course4all](https://course4all.com/blog/python-learning-roadmap-2026) | kw: The Ultimate Python | source: python-internals
+- **2026-06-17** | [Under the Hood of Python: Internals, Optimization, and Modern Features - Habibullah](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under the Hood | source: python-internals
+- **2026-06-17** | [Memory Management and GIL: Python Guide (2026) - Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management and | source: python-internals
+- **2026-06-17** | [Python 3.13 in 2026: Free-Threaded Mode, Experimental JIT - softaims](https://softaims.com/blog/python-313-free-threaded-jit-features-2026) | kw: Python 3.13 in | source: python-internals
+- **2026-06-17** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations - developers-heaven](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of | source: python-internals
+- **2026-06-17** | [How Python's GIL Actually Works (And Why It Exists) - miydevforge](https://miydevforge.com/blog/how-python-gil-works) | kw: How Python's GIL | source: python-internals
+
 - **2026-06-16** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob | source: python-internals
 - **2026-06-16** | [The Ultimate Python Learning Roadmap for 2026: Complete](https://course4all.com/blog/python-learning-roadmap-2026) | kw: The Ultimate Python Learning Roadmap for 2026: Complete | source: python-internals
 - **2026-06-16** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: The Future of Python Internals: Exploring GIL Removal and Other Optimizations | source: python-internals

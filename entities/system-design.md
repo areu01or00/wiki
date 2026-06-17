@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: System Design The | source: system-design
+- **2026-06-17** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling — OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide | source: system-design
+- **2026-06-17** | [Distributed Systems Principles and Paradigms - VU Amsterdam](https://www.dcc.fc.up.pt/~ines/aulas/1314/SDM/ch2.pdf) | kw: Distributed Systems Principles | source: system-design
+- **2026-06-17** | [Call for papers – ACM PODC 2026](https://www.podc.org/podc2026/call-for-papers) | kw: Call for papers | source: system-design
+- **2026-06-17** | [ACM Symposium on Principles of Distributed Computing – July 6-10, 2026](https://www.podc.org/) | kw: ACM Symposium on | source: system-design
+- **2026-06-17** | [Distributed Application Architecture Patterns: An unopinionated catalogue](https://jurf.github.io/daap/) | kw: Distributed Application Architecture | source: system-design
+- **2026-06-17** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design – Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns | source: system-design
+
 
 - **2026-06-16** | [System Design Interview Questions & Prep (from FAANG experts) - IGotAnOffer](https://igotanoffer.com/blogs/tech/system-design-interviews) | kw: System Design Interview Questions & Prep (from FAANG experts) - IGotAnOffer | source: system-design
 - **2026-06-16** | [Grokking The System Design Interview Free (updated 2026)](https://www.systemdesignhandbook.com/courses/grokking-the-system-design-interview) | kw: Grokking The System Design Interview Free (updated 2026) | source: system-design

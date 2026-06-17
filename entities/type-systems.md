@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of | source: type-systems
+- **2026-06-17** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed and Confused | source: type-systems
+- **2026-06-17** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with | source: type-systems
+- **2026-06-17** | [Efficient Selection of Type Annotations for Performance - Programming Journal](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of | source: type-systems
+- **2026-06-17** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The Rise of | source: type-systems
+- **2026-06-17** | [Type-Based Gradual Typing Performance Optimization - ACM](https://dl.acm.org/doi/10.1145/3632931) | kw: Type Based Gradual | source: type-systems
+- **2026-06-17** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types | source: type-systems
+
 
 - **2026-06-16** | [The Power of Type Inference in Modern Programming Languages](https://www.travrio.com/article/the-power-of-type-inference-in-modern-programming-languages) | kw: The Power of Type Inference in Modern Programming Languages | source: type-systems
 

@@ -468,16 +468,18 @@
         "Online",
         "Outlooks",
         "Connectivity",
-        "DCD"
+        "DCD",
+        "Amsterdam",
+        "unopinionated",
+        "catalogue",
+        "6-10",
+        "July",
+        "papers",
+        "PODC",
+        "Symposium",
+        "Call"
       ],
       "last_result_hashes": [
-        "0bccdfeceeee7664c4e61f75605f9f8f",
-        "4a92b9accf7e00c9835483bf78a78624",
-        "749d8bd03cb99bf95d2bec292cdebdb5",
-        "000e636c2d8f8b023001384d271bfa7a",
-        "191ddf1fc25f3fc2310efa0445a61d6c",
-        "9d3b048bf644b1244eb12cf641a40122",
-        "bd6d89c4841adea96463288a3209ceb2",
         "8d19ebd603a8eb74755789aad0240e22",
         "a8019b77c9cfdd489bf2b62597c40838",
         "1f7cf531d15bd4fc5437f857ad3c969e",
@@ -490,10 +492,27 @@
         "697337f881dc40cc977774b3475bbe3d",
         "2b4e9bd2c4202e42f37a0a03ee3326e2",
         "c1b0924230e3213e948771ccc39b4fa3",
-        "8643dd36e190fa7e58a356b5a616daf3"
+        "8643dd36e190fa7e58a356b5a616daf3",
+        "62ffed8405f0c26474dbf2c73f5f9796",
+        "54449127c5a919ced70c6b4477340a18",
+        "6d8de8867c71793bc52d3ca7013f5b74",
+        "ea0c937a0defda9ddbaf8bf366cb33d4",
+        "5c0541fe0546da521d99ca66907ca084",
+        "7fd55d07ab6820c97cde19ae71b26ede",
+        "0a84e0f612f84727cbf618f66be65505"
       ],
-      "last_run": "2026-06-16T23:47:47+00:00",
-      "new_sub_topics_this_run": []
+      "last_run": "2026-06-17 00:04 UTC",
+      "new_sub_topics_this_run": [
+        "Amsterdam",
+        "unopinionated",
+        "catalogue",
+        "6-10",
+        "July",
+        "papers",
+        "PODC",
+        "Symposium",
+        "Call"
+      ]
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -990,17 +1009,15 @@
         "Sesame",
         "Disk",
         "Compiler Breakthroughs Dominate",
-        "Sesame Disk"
+        "Sesame Disk",
+        "Opportunities",
+        "Aastha",
+        "LLVM's",
+        "llvm/llvm-project",
+        "Upcoming",
+        "UBOS"
       ],
       "last_result_hashes": [
-        "17ed08fe6778ce4ef2c1a88ba23596e9",
-        "28c94075fc7d198993a9d19655dfd88e",
-        "9a1466e453ce4f98157a252578a253e6",
-        "00a350db7268f644c00d68d511820bec",
-        "23259200a7be4533fe1e25b8fdeb4b83",
-        "bbbc8ef4ec78630cae3e49219b742618",
-        "85875fa4aeb3a7c10187eaf8cc0cac2f",
-        "84ac896e5e54274a8ab008433692d205",
         "5d54a6ccb3d0ac626462282a4af2e122",
         "1480847529e160848da4aee3f40eb00a",
         "381c5829c4542d830b4e98667478e845",
@@ -1012,10 +1029,25 @@
         "d63dbdc004563d48fd946feffeab6d0b",
         "4cee999b71414851927c1c3805e155c2",
         "05d0a65d891bb173f75d21347fcaea99",
-        "32ca195a72297c43ebd6356d79e78eff"
+        "32ca195a72297c43ebd6356d79e78eff",
+        "08eb8fef2ae1548aa461b133edf990b4",
+        "7d1a34120441c530de4a2db8b0e3aae2",
+        "e7bc49b76396fb7f4539a79f8cb42910",
+        "6dd4974ef2998a3cf61d95ccbd84ca33",
+        "8a03882e1a3c28208770da7aa3ccb5b6",
+        "342cb4045ca9fbefae9f0010999175c4",
+        "28c00f36e33bcbce61f6bf1ea1cb55a3",
+        "5981dc5b0db66f6b2c11d030a8dbd3b2"
       ],
-      "last_run": "2026-06-16T23:47:47+00:00",
-      "new_sub_topics_this_run": []
+      "last_run": "2026-06-17 00:04 UTC",
+      "new_sub_topics_this_run": [
+        "Opportunities",
+        "Aastha",
+        "LLVM's",
+        "llvm/llvm-project",
+        "Upcoming",
+        "UBOS"
+      ]
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -1481,13 +1513,6 @@
         "Press"
       ],
       "last_result_hashes": [
-        "c0b8939bb00148936243259369f1f8a3",
-        "2b077fcefb9f16574c355c5cae07ce7d",
-        "b212d998de83c9ed9264a175b09fee4a",
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "4a101114e3b691c4671d64770c39c052",
-        "08183a095f9bb03fe7dd6ce06dfd5115",
-        "7d43df11a787f4da1d8ba7253fb6f91f",
         "d08aaa9554d7cff65d53e42f52f9f36b",
         "50cbc6a3a7d282cc18645c87c79aa8c2",
         "f0d1d6ea8c3a1b1497e309c3c1ac57d2",
@@ -1500,9 +1525,16 @@
         "bd17210a55facc1045e4bb40b946924f",
         "52c4bc5a1bcd471c9a7d0c527c736466",
         "a74a147950a12ada1d2516685c8fecad",
-        "6dd177bf071629da0719868208ad2e11"
+        "6dd177bf071629da0719868208ad2e11",
+        "529b7e892267d1b1cfc9688b5bfdf683",
+        "bca887779c4d30860ee265ce67393aa0",
+        "aa2f3be76632e120f0f252da09afe144",
+        "f45b37537fbd32f2517f1eaf8018adef",
+        "c027f5d29aa0bfa5a3a5037b14ac8b26",
+        "56701c7ca0d0bcae0c95fef24b6125a0",
+        "393c2007828b49d14ae2ce8a8bf61873"
       ],
-      "last_run": "2026-06-16T23:47:47+00:00",
+      "last_run": "2026-06-17 00:04 UTC",
       "new_sub_topics_this_run": []
     },
     "functional-programming": {
@@ -1998,18 +2030,13 @@
         "Camp-by-Camp",
         "Clojure",
         "Lean",
-        "OCaml"
+        "OCaml",
+        "Central",
+        "alvinalexander.com",
+        "Class",
+        "Magazine"
       ],
       "last_result_hashes": [
-        "81f416bda62e20437250860785d5442e",
-        "c52f5174ff9b2fb18fb776e711ed0486",
-        "98a11a5a90569fa1869db7245e6f4abe",
-        "9d9f97508992347ae9b95d8392382202",
-        "5715cf3ad7b77712fa71d2f949c23c8a",
-        "47e6d74aef0c39ef251aad25fd7ff012",
-        "d6f0a11a62d35b9166112358d510129d",
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "3bb0a852e2780a0d035603e5700fd0d0",
         "61aac13f4aa7f41f490000523a872329",
         "9faa7cf534e52ea65424258c0c6c7995",
         "4b56a1b298ec470c828a97ece97945b9",
@@ -2020,10 +2047,24 @@
         "507d0954b1c28a4ea253d1bfcfbd1b35",
         "06ce455b80c3353477db4172b1596c1e",
         "6c5cb98e457a7ea49ad57c5293abde41",
-        "c012a57fa63492860f64045db3528e7a"
+        "c012a57fa63492860f64045db3528e7a",
+        "687171a5db4daed91bdc3e6a4a3773a1",
+        "d6448050a9b00adacdf6c8324ab6d845",
+        "561bd8b663880838d8885ac013f5ed0a",
+        "9a8dbf2bd7d6003ad24554610223531f",
+        "79cd05ad2ea3b4a8f88864da5ba58578",
+        "9723a1f1ac6c1a15c0a730f494ead1ef",
+        "84a94a6f557d1cfadfc9f5ce9825b1a5",
+        "64b9213a9db6ffcf3ee048410614e9dc",
+        "94a26269fce6d4cab82e390dea71cd77"
       ],
-      "last_run": "2026-06-16T23:47:47+00:00",
-      "new_sub_topics_this_run": []
+      "last_run": "2026-06-17 00:04 UTC",
+      "new_sub_topics_this_run": [
+        "Central",
+        "alvinalexander.com",
+        "Class",
+        "Magazine"
+      ]
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2492,17 +2533,10 @@
         "TestMu",
         "Placements",
         "Better",
-        "Data Structure Interview Questions"
+        "Data Structure Interview Questions",
+        "PapersAdda"
       ],
       "last_result_hashes": [
-        "ce3e1a3169e6fd786436b8b863c8e5f3",
-        "89930b44724eb9643d814762f9f5f7d6",
-        "9130b679ba352f107fe0f2646ccab1f7",
-        "e3fe861eaece0cac9831e0fc5921ff9e",
-        "09e78648fe1b6f874711fba28cec5d03",
-        "b374c779c101dd010d1f2ed0450afdee",
-        "549ea15c0e365d7a6670cda747aff11d",
-        "a72a20f0713cd5feeef913e54a998932",
         "814ad50168aca7691bd4e6e042f0b36b",
         "eea32e4d9f2fe31a6f75282a6ddd8887",
         "5709f5373c7a0f5dfb0aba40ae5dce52",
@@ -2514,10 +2548,20 @@
         "85c94428e923ba3f2759e44b0821e577",
         "4206f0548aa77b69bedc008d791bb11e",
         "cc20f76a074d85b32adf2f7be04809b9",
-        "8b872e9c4137efc4de77b9e0bf4a2ba1"
+        "8b872e9c4137efc4de77b9e0bf4a2ba1",
+        "168caad4bd0de14fa59051e293a13253",
+        "711907ad3def1c1455722ff1c7f06c77",
+        "9c079bce41ba80e069e2d66cc02ed865",
+        "1ff8dfe91f596660c052097ac9983080",
+        "b0ac296a98c7e618bd3b3db47a2a526f",
+        "8fbfc408d153c9db7210ed00243249c2",
+        "da5797f6918091bef630e2b801c861cd",
+        "008b9596e89a120b691af3b15c917221"
       ],
-      "last_run": "2026-06-16T23:47:47+00:00",
-      "new_sub_topics_this_run": []
+      "last_run": "2026-06-17 00:04 UTC",
+      "new_sub_topics_this_run": [
+        "PapersAdda"
+      ]
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2985,18 +3029,14 @@
         "Master the advanced concepts",
         "Chaos",
         "Order",
-        "Habibullah"
+        "Habibullah",
+        "miydevforge",
+        "softaims",
+        "course4all",
+        "dasroot.net",
+        "developers-heaven"
       ],
       "last_result_hashes": [
-        "5762b43aa5c7225de1987aa201fad1f7",
-        "518725aa2f118e3bf8c6098bc4473c2c",
-        "beaef31893811bf93a7c49c5427531ec",
-        "087455b373dbe987da5078283f97a4cb",
-        "51a323ecbfc30ec8c1f84a7ebb223f85",
-        "931b91b8a8dcbfb92244f3dececaf55b",
-        "407bd0317abbabf6be9ed20442246de1",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "515605dad382d527ac35b4f8f5ba9321",
         "343ee2ea3c7bd5c5bb4c13c55f709fcf",
         "7b0c583d3445b91efa0c0453e5a737c4",
         "9df3859b4715ae95cd2f1c86331d9b55",
@@ -3007,10 +3047,26 @@
         "9132d1ca01d195338d05eb556f7164be",
         "0e1bfc837529a36dd376cb6c1dc7b37c",
         "195cc5355800be062c15e1a66ccfcacd",
-        "4cd24649bb264af960eb0db466e7076c"
+        "4cd24649bb264af960eb0db466e7076c",
+        "59b8ef2b26eb329e0931d31d180ddecf",
+        "4cfe5a3102219740bbd22530d961a657",
+        "987be4b4e32f235de1ef0bbe9c28344d",
+        "9ba2652a4661140d786e2c492e3a19c0",
+        "fc2e8e4d765b1d6522303c68c46d4981",
+        "bf41f97b42c647ac6026b627b93093ff",
+        "f6f37714b35061f5c685bf1326a59407",
+        "77e4e05bee45a7be48e4a2eb4e1a3a81",
+        "2abbee82f484b493c8c88fee77060e1c"
       ],
-      "last_run": "2026-06-16T23:47:47+00:00",
-      "new_sub_topics_this_run": []
+      "last_run": "2026-06-17 00:04 UTC",
+      "new_sub_topics_this_run": [
+        "miydevforge",
+        "softaims",
+        "course4all",
+        "dasroot.net",
+        "developers-heaven"
+      ]
     }
-  }
+  },
+  "last_run": "2026-06-17 00:04 UTC"
 }
