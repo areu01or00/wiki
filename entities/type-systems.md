@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [Type inference - Harvard University](https://groups.seas.harvard.edu/courses/cs152/2023sp/lectures/lec16-typeinference.pdf) | kw: Type inference Harvard Univers | source: type-systems
+- **2026-06-17** | [From Heuristics to Transformers: A Comprehensive Survey of Binary Type Inference - ACM](https://dl.acm.org/doi/10.1145/3803633.3803665) | kw: From Heuristics Transformers C | source: type-systems
+
 
 - **2026-06-17** | ["A Case for Gradual Typing"](https://computingintelligenceblog.blogspot.com/2024/09/a-case-for-gradual-typing.html) | kw: "A Case for Gradual Typing" | source: type-systems
 
