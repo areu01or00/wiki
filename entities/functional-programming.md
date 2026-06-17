@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Monad's Road to Mainnet](https://everstake.one/resources/blog/monads-road-to-mainnet) | kw: Monad's Road to Mainnet | source: functional-programming
+
 - **2026-06-17** | [Functional Languages in 2026 — A Camp-by-Camp Survey of Haskell, OCaml, Elm, Gleam, Roc, Unison, Lean 4, F#, Clojure | Chaos and Order](https://www.youngju.dev/blog/culture/2026-05-14-functional-languages-2026-survey-haskell-elm-roc-gleam-unison-ocaml-fsharp-deep-dive.en) | kw: Chaos, and | source: functional-programming
 
 - **2026-06-17** | [Haskell for all (Gabriel Gonzalez blog)](https://haskellforall.com/) | kw: haskell for all gabriel gonzalez blog | source: functional-programming
