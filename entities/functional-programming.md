@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Haskell for all (Gabriel Gonzalez blog)](https://haskellforall.com/) | kw: haskell for all gabriel gonzalez blog | source: functional-programming
+
 - **2026-06-17** | [Functional JavaScript First Steps, v2](https://frontendmasters.com/courses/functional-first-steps-v2) | kw: Functional JavaScript First Steps, v2 | source: functional-programming
 
 - **2026-06-17** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: PenChef overview of FP in 2026

@@ -504,7 +504,7 @@
         "e9d45130824f67775300df37d0b653d5",
         "0bccdfeceeee7664c4e61f75605f9f8f"
       ],
-      "last_run": "2026-06-17T18:03:14Z",
+      "last_run": "2026-06-17T18:19:10Z",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -1049,7 +1049,7 @@
         "ef812a2fbb0c99c59fec513685f05f30",
         "d07f594fea667e043c421218ba0190f3"
       ],
-      "last_run": "2026-06-17T18:03:14Z",
+      "last_run": "2026-06-17T18:19:10Z",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1540,7 +1540,6 @@
         "Type Inference Techniques"
       ],
       "last_result_hashes": [
-        "2f7f4dc1bef96eb9f17cc073be199fc1",
         "0c4fea65325737c446710c96431c6923",
         "6e15ba3142cf69881ec0b176a6d2994e",
         "7d43df11a787f4da1d8ba7253fb6f91f",
@@ -1559,9 +1558,10 @@
         "6db375705e55582781a74483e498ac53",
         "0d4e59544c796dd6c5041a6241467748",
         "b538102edba293f6e7c712829cbe30ab",
-        "1892288ce3bfda31458d852753d72f5f"
+        "1892288ce3bfda31458d852753d72f5f",
+        "b24b8c5e0c4173933c16579a65aee854"
       ],
-      "last_run": "2026-06-17T18:03:14Z",
+      "last_run": "2026-06-17T18:19:10Z",
       "new_sub_topics_this_run": [
         "Type Inference Techniques"
       ],
@@ -2079,7 +2079,6 @@
         "practical uses"
       ],
       "last_result_hashes": [
-        "099dfaedc291f3a4e0a3a7a4e54681a8",
         "ce28a60a12ee60735a41f5226ee34f7c",
         "9e60387ad65f0ac2186db1eb3d733f0d",
         "6802faea58c947f82817b61d52c200e7",
@@ -2098,9 +2097,10 @@
         "992f0d745bfb6c048357417bd6e0c0a8",
         "449f1936d11b3408b5111b8fbfc6e205",
         "67588915b115136a9f492c59e7dfa1e1",
-        "2c979ab5f93f1ffc88631b5d7c948e0e"
+        "2c979ab5f93f1ffc88631b5d7c948e0e",
+        "5c5ca45b588f627c46348d70f3443735"
       ],
-      "last_run": "2026-06-17T18:03:14Z",
+      "last_run": "2026-06-17T18:19:10Z",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2609,7 +2609,7 @@
         "e1eb2c787d78af957068f3aafe51bee0",
         "81d3f6ca00caa659b47d39e7b3373c33"
       ],
-      "last_run": "2026-06-17T18:03:14Z",
+      "last_run": "2026-06-17T18:19:10Z",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ],
@@ -3121,7 +3121,7 @@
         "18af5cf676b77ae4b09dcadb613c59d7",
         "90bbefd3dcfb50841d07f5aa1e6bdcaf"
       ],
-      "last_run": "2026-06-17T18:03:14Z",
+      "last_run": "2026-06-17T18:19:10Z",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",

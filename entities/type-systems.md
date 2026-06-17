@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [Programming Trends to Follow in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/programming-trends-to-follow-in-2026) | kw: programming trends to follow in 2026 analytics insight | source: type-systems
+
 - **2026-06-17** | [Type Inference Techniques: Implementation and Formalization, Better Together (WITS 2026) - POPL 2026](https://popl26.sigplan.org/details/wits-2026-papers/9/Type-Inference-Techniques-Implementation-and-Formalization-Better-Together) | kw: POPL WITS workshop on type inference | source: type-systems
 
 - **2026-06-17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Programming 2026 paper on gradual typing
