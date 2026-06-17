@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-17** | [The LLVM Compiler Infrastructure Project - Dev Mtg 2026-01](https://llvm.org/devmtg/2026-01) | kw: The LLVM Compiler Infrastructure Project - Dev Mtg 2026-01
+
 - **2026-06-17** | [Gartner Top 10 Strategic Technology Trends for 2026](https://www.gartner.com/en/articles/top-technology-trends-2026) | kw: Gartner Top 10 Strategic Technology Trends for 2026 | source: compilers
 
 - **2026-06-17** | [Compiler & Interpreter Design: From Parsers to LLVM and AI Compilers (TVM/XLA) | Chaos and Order](https://www.youngju.dev/blog/ai/2026-03-17-compiler-interpreter-design-guide.en) | kw: Compiler & Interpreter Design: From Parsers to LLVM and AI Compilers (TVM/XLA... | source: compilers

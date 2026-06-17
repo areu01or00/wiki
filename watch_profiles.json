@@ -509,7 +509,7 @@
         "e9d45130824f67775300df37d0b653d5",
         "2b4e9bd2c4202e42f37a0a03ee3326e2"
       ],
-      "last_run": "2026-06-17T21:49:06Z",
+      "last_run": "2026-06-17T22:03:07Z",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -1033,7 +1033,6 @@
         "llvm weekly"
       ],
       "last_result_hashes": [
-        "cbbac306d076d70d8345446afaf73bbf",
         "5dd2ff43214d6cddd83c096893322e19",
         "ba5895232be5661778d5e45b91de8578",
         "1dbcadd29f914229e53e0a8239219ead",
@@ -1052,9 +1051,10 @@
         "cd6615121f745370351123ff10180b2f",
         "23259200a7be4533fe1e25b8fdeb4b83",
         "a766a3d0e05fc264a5b6759d351cd89e",
-        "e6d79cde9aa9d3d1b9658c5af902e49b"
+        "e6d79cde9aa9d3d1b9658c5af902e49b",
+        "c8dded314e7898b9e0da2168910485eb"
       ],
-      "last_run": "2026-06-17T21:49:06Z",
+      "last_run": "2026-06-17T22:03:07Z",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1567,7 +1567,7 @@
         "fda04b6a24a80bce8cb9df0f37312c9a",
         "7d43df11a787f4da1d8ba7253fb6f91f"
       ],
-      "last_run": "2026-06-17T21:49:06Z",
+      "last_run": "2026-06-17T22:03:07Z",
       "new_sub_topics_this_run": [
         "Type Inference Techniques"
       ],
@@ -2106,7 +2106,7 @@
         "74945f52cf880512245d7be7bc3d6b9f",
         "31dd475c43e6db558cd8ab36ad139ffd"
       ],
-      "last_run": "2026-06-17T21:49:06Z",
+      "last_run": "2026-06-17T22:03:07Z",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2595,7 +2595,6 @@
         "Quest"
       ],
       "last_result_hashes": [
-        "59482f900bffbcce68b5407d43fdd064",
         "32ee21e09bb816e8df8a2db192f31d65",
         "8e6c7df52d21cb8e1d1493c6e8d0efad",
         "b374c779c101dd010d1f2ed0450afdee",
@@ -2614,9 +2613,10 @@
         "9bae7c320eaa49023b76088f638f22f3",
         "8d2ee4fd79aa63ae35ba64533026932c",
         "33d489cfa1e3b1f6dc3064cba1059623",
-        "5c1eb39382ec3f7e5474e5fe54a55d25"
+        "5c1eb39382ec3f7e5474e5fe54a55d25",
+        "07beb4b0d5d70c4ad9c21070e5423e6c"
       ],
-      "last_run": "2026-06-17T21:49:06Z",
+      "last_run": "2026-06-17T22:03:07Z",
       "new_sub_topics_this_run": [
         "Quest"
       ],
@@ -3128,7 +3128,7 @@
         "999e699e6e78d8e383158b10f1c950f8",
         "fae0c827c538cc7c63cc17aa7dde9c3c"
       ],
-      "last_run": "2026-06-17T21:49:06Z",
+      "last_run": "2026-06-17T22:03:07Z",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",

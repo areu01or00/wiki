@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-17** | [Data Structure and Algorithms Interview Questions for Programmers - Hacker News](https://news.ycombinator.com/item?id=18449635) | kw: Data Structure and Algorithms Interview Questions for Progra
+
 - **2026-06-17** | [Data Structures and Algorithms Quest - LeetCode](https://leetcode.com/quest/data-structures-and-algorithms-quest/) | kw: Data Structures and Algorithms Quest - LeetCode | source: algorithms
 
 - **2026-06-17** | [How to Prepare for LeetCode: A Complete Strategy Guide for 2026](https://www.easyresume.online/blog/leetcode-preparation-guide) | kw: LeetCode strategy guide 2026
