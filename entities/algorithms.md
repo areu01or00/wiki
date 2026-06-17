@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-17** | [How to Prepare for LeetCode: A Complete Strategy Guide for 2026](https://www.easyresume.online/blog/leetcode-preparation-guide) | kw: LeetCode strategy guide 2026
+- **2026-06-17** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: CareerLift LeetCode study plan
+- **2026-06-17** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: Tutor Bridge DSA roadmap 2026
+- **2026-06-17** | [LeetCode Patterns That Still Matter in 2026](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: Interview AiBox LeetCode patterns
+- **2026-06-17** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: FreeClass DSA roadmap
+
 - **2026-06-17** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics - DEV Community](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: leetcode alone won't save | source: algorithms
 - **2026-06-17** | [Interview Prep: Algorithm Patterns | SyntaxCache](https://www.syntaxcache.com/interview-prep) | kw: interview prep: algorithm patterns | source: algorithms
 - **2026-06-17** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: data structure i - | source: algorithms

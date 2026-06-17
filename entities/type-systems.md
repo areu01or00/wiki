@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Programming 2026 paper on gradual typing
+- **2026-06-17** | [Gradual Typing - Language Design and Implementation | ANU](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: ANU project on gradual typing
+- **2026-06-17** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: Class Central courses on type inference
+- **2026-06-17** | [Jeremy Siek | Web Page](https://jsiek.github.io/home) | kw: Jeremy Siek homepage - gradual typing inventor
+- **2026-06-17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (arXiv 2603.05649)](https://arxiv.org/abs/2603.05649) | kw: arXiv version of gradual typing paper
+- **2026-06-17** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: ACM paper on staged gradual typing
+- **2026-06-17** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: BrainDetox on the rise of static typing
+
 - **2026-06-17** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: efficient selection of type | source: type-systems
 - **2026-06-17** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] efficient selection of | source: type-systems
 - **2026-06-17** | [Gradual Typing with Unification-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: gradual typing with unification-based | source: type-systems

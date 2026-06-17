@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Gabo Gil's weekly radar on distributed systems shift
+- **2026-06-17** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: Load balancing algorithms and caching strategies
+- **2026-06-17** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: OnlineTools4Free Research on system design
+
 - **2026-06-17** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: system design: the complete | source: system-design
 - **2026-06-17** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: distributed system design: the | source: system-design
 - **2026-06-17** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system design guide 2026 | source: system-design

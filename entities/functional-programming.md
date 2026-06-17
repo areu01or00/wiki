@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: PenChef overview of FP in 2026
+- **2026-06-17** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Rust monadic patterns guide
+- **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell discourse POPL 2026
+- **2026-06-17** | [The Practical Value of Functional Programming - Monad, Functor, Haskell, Gleam, Effect-TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical FP value deep dive
+- **2026-06-17** | [Functional Languages in 2026 - Haskell, OCaml, Elm, Gleam, Roc, Unison, Lean 4, F#, Clojure](https://www.youngju.dev/blog/culture/2026-05-14-functional-languages-2026-survey-haskell-elm-roc-gleam-unison-ocaml-fsharp-deep-dive.en) | kw: 2026 functional languages survey
+- **2026-06-17** | [Understanding Monads (Nick Hu)](https://nickx.hu/Monads.pdf) | kw: Monads from types to categories
+- **2026-06-17** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learning monads via Rust
+
 - **2026-06-17** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads tutorial — monday | source: functional-programming
 - **2026-06-17** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monads and monad-like patterns | source: functional-programming
 - **2026-06-17** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: making sense of monads | source: functional-programming

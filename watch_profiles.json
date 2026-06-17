@@ -483,9 +483,6 @@
         "Must"
       ],
       "last_result_hashes": [
-        "5c0541fe0546da521d99ca66907ca084",
-        "7fd55d07ab6820c97cde19ae71b26ede",
-        "0bccdfeceeee7664c4e61f75605f9f8f",
         "64e900ff8986f325e4783fe3286a829d",
         "f0867b873de5e0095075cc1e002a4368",
         "8d9b883501161dc417fc1e19be94fd1e",
@@ -502,9 +499,12 @@
         "697337f881dc40cc977774b3475bbe3d",
         "62ffed8405f0c26474dbf2c73f5f9796",
         "aaaf9550e5e27d5469ea0edd84372b77",
-        "3d924683b109e99c93d7ba785e0c7ab0"
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "848a06554e3ca137e425aa0a6367b703",
+        "6fe9880853103e8782a6653a46dc9a3c",
+        "eb9413c412274c4d419c8f0af8eb0eeb"
       ],
-      "last_run": "2026-06-17T16:16:56Z",
+      "last_run": "2026-06-17T16:32:14Z",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -1028,13 +1028,6 @@
         "llvm weekly"
       ],
       "last_result_hashes": [
-        "a72ceec8eeb52bd52bd83b424cf3ef30",
-        "dc5ada16f234dc184f112304b0917552",
-        "f8d442f4690d4404517ee77875bd3260",
-        "23259200a7be4533fe1e25b8fdeb4b83",
-        "243695afe28d40fa0e03432441a7eb04",
-        "54478c34ab646edfbc6980095e540dfa",
-        "95d039a87ff19238e99d0f66eb8fce0e",
         "5c9968648c9661c8e79130512ceb632c",
         "b86eb07f5a984fccae1bb38c4d48f846",
         "1dbcadd29f914229e53e0a8239219ead",
@@ -1047,9 +1040,16 @@
         "d63dbdc004563d48fd946feffeab6d0b",
         "9b9e5b41a1c52064d55b23f06ea84096",
         "cbbac306d076d70d8345446afaf73bbf",
-        "3a3d97ee8b5aa4532c59516d054b99ad"
+        "3a3d97ee8b5aa4532c59516d054b99ad",
+        "3bfad9903c764fbf24ffa750607d3731",
+        "0d5f42cea0bd3526c43c8ca74e739e10",
+        "9e15a6675bd30a9f4f1f425fe7991ab1",
+        "4a4e0127b12cfd2d476b5aaa44376f2d",
+        "3e9238651e855706cbce6fd0160c779a",
+        "55e55799da56e076b67c5c08c20007b5",
+        "873a584aa44ff0a4f610bd0b470cf443"
       ],
-      "last_run": "2026-06-17T16:16:56Z",
+      "last_run": "2026-06-17T16:32:14Z",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1539,13 +1539,6 @@
         "efficient selection"
       ],
       "last_result_hashes": [
-        "2b950491effbaba6c2036eecd34edb3f",
-        "de176e453e26f317ae08a3b7cdf90aaf",
-        "5e9fa1815906e58544a19d8a8bfac160",
-        "0811ce20c14f7bb05ab80934bde08f60",
-        "5f8b5814900c706d7697dde449b114bc",
-        "cd2957ee0bc0a8ddf337c7da2a3f99dc",
-        "393c2007828b49d14ae2ce8a8bf61873",
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "be83423834c67b8671ef6f7b00eeb6c9",
         "796dd8fb9f6369a2e77f75139af26f3c",
@@ -1558,9 +1551,16 @@
         "37ffd58453521e02c05e593eedaf102e",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6",
         "65f746b9b7ba253534eafd91ea1668a5",
-        "2f7f4dc1bef96eb9f17cc073be199fc1"
+        "2f7f4dc1bef96eb9f17cc073be199fc1",
+        "0c4fea65325737c446710c96431c6923",
+        "6e15ba3142cf69881ec0b176a6d2994e",
+        "7d43df11a787f4da1d8ba7253fb6f91f",
+        "5344d87edb48538d24562646a3c4df36",
+        "7fadf70f25f7050af6c8b62fb7f5fffd",
+        "4c46131027fce565d8c0f3bc29198d2f",
+        "7e58202d901d88fd843521c2cb440e69"
       ],
-      "last_run": "2026-06-17T16:16:56Z",
+      "last_run": "2026-06-17T16:32:14Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2076,13 +2076,6 @@
         "practical uses"
       ],
       "last_result_hashes": [
-        "9868fdee1ae3718a5c48b14aabfd228c",
-        "2649172dbd20aff571990bbc5343460d",
-        "1460d415de60e4be5e4292d071acce11",
-        "8e74e94550b52b7c1a083f7890b60a67",
-        "f90ff073009eed161109951f0f328ce3",
-        "98a11a5a90569fa1869db7245e6f4abe",
-        "06ce455b80c3353477db4172b1596c1e",
         "bc2135eec3871ce21b29a6ac82c28881",
         "aa80c4393d6db9a7227a87e5f21b2707",
         "449f1936d11b3408b5111b8fbfc6e205",
@@ -2095,9 +2088,16 @@
         "8f5cea9e5197c247d1be3e7c458669a6",
         "c233ce094f809bd93c2f4474229feed5",
         "619445cf59810e703603ef4f268058ee",
-        "f893f60a24ac37aeb075a0f0bd5137a0"
+        "f893f60a24ac37aeb075a0f0bd5137a0",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "099dfaedc291f3a4e0a3a7a4e54681a8",
+        "ce28a60a12ee60735a41f5226ee34f7c",
+        "9e60387ad65f0ac2186db1eb3d733f0d",
+        "6802faea58c947f82817b61d52c200e7",
+        "dbf58f66ce4a96c82006ccda39efb233",
+        "76742e3db76e39f8dc4b6847d5b8e60c"
       ],
-      "last_run": "2026-06-17T16:16:56Z",
+      "last_run": "2026-06-17T16:32:14Z",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2585,11 +2585,6 @@
         "leetcode questions"
       ],
       "last_result_hashes": [
-        "cb0c560e8841e385635126a2a21c8684",
-        "814ad50168aca7691bd4e6e042f0b36b",
-        "7e571cc4915b8f19020f0aebd3f76356",
-        "980195fd86ea11fba61c9826f5e4751c",
-        "8900f36a48596850ee5ba84a247a6c1d",
         "b374c779c101dd010d1f2ed0450afdee",
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
         "8f48746135c4ce31696176aebedcfc09",
@@ -2604,9 +2599,14 @@
         "549ea15c0e365d7a6670cda747aff11d",
         "9ce6169374b8a813371af8d41f83c91e",
         "1bfc48dcc21dee0fda35a41d45014bf0",
-        "504193c7c786307a3a1e8318d098e8d4"
+        "504193c7c786307a3a1e8318d098e8d4",
+        "143876bc0621660474126a01477b0355",
+        "8b5b54395f90524f33e015dd24e932fc",
+        "a66f129b1d8d976a35fd202400b91453",
+        "cd78fb29ecfab0ce475583e64c780c55",
+        "511579bd1fb81b7217255226cf7dbbdf"
       ],
-      "last_run": "2026-06-17T16:16:56Z",
+      "last_run": "2026-06-17T16:32:14Z",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ],
@@ -3097,11 +3097,6 @@
         "the python"
       ],
       "last_result_hashes": [
-        "6ef292c1ca22680772b34a822ad25be1",
-        "dffb367289c2ff33235ee4db217cc919",
-        "2abbee82f484b493c8c88fee77060e1c",
-        "d2adce09b07afa8868adc1a5598d6db8",
-        "407bd0317abbabf6be9ed20442246de1",
         "5451f574f8ac7101d4076e3f903cf1d4",
         "beaef31893811bf93a7c49c5427531ec",
         "4cd24649bb264af960eb0db466e7076c",
@@ -3116,9 +3111,14 @@
         "3723dfa3f60cd99fa11d63a5fa09bc1f",
         "35303d2720582e23d49ac77a4490dddd",
         "704da68a060e620278ad7620fdf6c8a8",
-        "046e853bd980ce38929ddf910697c6de"
+        "046e853bd980ce38929ddf910697c6de",
+        "e5de457dfb901c53485a52be22a77e07",
+        "d8a70207fc5f61e128a0c35b450134e3",
+        "993340ba10508d27975679f77e08cd57",
+        "3ffbda41664600606f9e3139cda64291",
+        "80cb1ee80342b3950bba93fd2801d04f"
       ],
-      "last_run": "2026-06-17T16:16:56Z",
+      "last_run": "2026-06-17T16:32:14Z",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",

@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-17** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM talk on llvm-autojit plugin
+- **2026-06-17** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Deep dive into compilers and runtimes
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: LLVM Building a JIT tutorial
+- **2026-06-17** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: ServeTheHome article on SPEC CPU 2026 LLVM 22
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst (VALancaster fork)](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Same JIT tutorial, alternate fork
+- **2026-06-17** | [2026 European LLVM Developers' Meeting Sessions](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: EuroLLVM 2026 conference talks
+- **2026-06-17** | [LLVM's Ongoing Challenges and Mitigation Strategies in 2026](https://ubos.tech/news/llvms-ongoing-challenges-and-mitigation-strategies-in-2026) | kw: UBOS on LLVM challenges in 2026
+
 - **2026-06-17** | [LLVM Roadmap for Beginners Explained - CompilerSutraMail](https://www.compilersutra.com/docs/llvm/intro-to-llvm) | kw: llvm roadmap for beginners | source: compilers
 - **2026-06-17** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers and modern language | source: compilers
 - **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/ | source: compilers
