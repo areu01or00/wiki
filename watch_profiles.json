@@ -418,7 +418,7 @@
         "GreenOps",
         "Insights",
         "Cheat",
-        "\u2014",
+        "—",
         "Full",
         "Serverless",
         "Sense",
@@ -478,11 +478,11 @@
         "PODC",
         "Symposium",
         "Call",
-        "Distributed Systems Patterns"
+        "Distributed Systems Patterns",
+        "Designer",
+        "pdpspectra"
       ],
       "last_result_hashes": [
-        "25a06ccbe831fcae1efa398fc18b067e",
-        "6a8023ed8f6d80dc6383b03a803b7c26",
         "cb1eb2ebde1523022fa96826066cb39c",
         "056b14e78a14af65a4d0ae47a4e64443",
         "138a5f5429696bde556b67d915262c48",
@@ -500,9 +500,11 @@
         "0a84e0f612f84727cbf618f66be65505",
         "8a4c6c3b1a58ba76429a4cc01eb115a4",
         "0bccdfeceeee7664c4e61f75605f9f8f",
-        "04ddb8cc2e0cbb14580d2c4c294dbd15"
+        "04ddb8cc2e0cbb14580d2c4c294dbd15",
+        "37e1fd39536ebecf6051db9093121c61",
+        "7c1f6bf914efb4646d7180593f7f6937"
       ],
-      "last_run": "2026-06-17T01:49:26.800232+00:00",
+      "last_run": "2026-06-17T02:03:06.704879+00:00",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -825,7 +827,7 @@
         "Power",
         "MIR2Vec",
         "of",
-        "\u00b7",
+        "·",
         "Writing",
         "TurboFan/Maglev",
         "Freeze",
@@ -955,7 +957,7 @@
         "Exploring",
         "Compilers:",
         "Fork of the ORC",
-        "\u2014",
+        "—",
         "Cost",
         "Hybrid compilation",
         "Engineering:",
@@ -1042,7 +1044,7 @@
         "342cb4045ca9fbefae9f0010999175c4",
         "28c00f36e33bcbce61f6bf1ea1cb55a3"
       ],
-      "last_run": "2026-06-17T01:49:26.800232+00:00",
+      "last_run": "2026-06-17T02:03:06.704879+00:00",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1445,7 +1447,7 @@
         "DSA",
         "Gradual Typing",
         "Practices",
-        "Uni\ufb01cation-based",
+        "Uniﬁcation-based",
         "Evolution",
         "gradual-typing-a-new-perspective",
         "Papers",
@@ -1461,7 +1463,7 @@
         "Cheat",
         "v1.17",
         "Inferen",
-        "\u2014",
+        "—",
         "Cost",
         "Sense",
         "type",
@@ -1519,10 +1521,13 @@
         "Chalmers",
         "type theory conference",
         "gradual typing inference",
-        "Type Annotations"
+        "Type Annotations",
+        "PyCon",
+        "USA",
+        "Discussions",
+        "org"
       ],
       "last_result_hashes": [
-        "50cbc6a3a7d282cc18645c87c79aa8c2",
         "f0d1d6ea8c3a1b1497e309c3c1ac57d2",
         "5344d87edb48538d24562646a3c4df36",
         "f1d807c64954a7f370a11f3f8dedb217",
@@ -1541,9 +1546,10 @@
         "c027f5d29aa0bfa5a3a5037b14ac8b26",
         "56701c7ca0d0bcae0c95fef24b6125a0",
         "393c2007828b49d14ae2ce8a8bf61873",
-        "a2c68e7f15f05539eb66de84e8ebcc92"
+        "a2c68e7f15f05539eb66de84e8ebcc92",
+        "fda04b6a24a80bce8cb9df0f37312c9a"
       ],
-      "last_run": "2026-06-17T01:49:26.800232+00:00",
+      "last_run": "2026-06-17T02:03:06.704879+00:00",
       "new_sub_topics_this_run": []
     },
     "functional-programming": {
@@ -1730,7 +1736,7 @@
         "What",
         "Ever",
         "GHC 9.14",
-        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
+        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
         "Global",
         "RustWeek",
         "cosmiclearncom",
@@ -1875,7 +1881,7 @@
         "Google",
         "haskellmonads2026READMEmd",
         "of",
-        "\u00b7",
+        "·",
         "Programming Languages",
         "Monad: Public Blockchain Project Introduction  Development Roadmap  and Ecosystem Analysis  KuCoin",
         "Edugators",
@@ -1978,7 +1984,7 @@
         "Zed Editor",
         "DSA",
         "Practices",
-        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
+        "Rust1.74で追加された機能を使ってモナドを作ってみる",
         "collection",
         "Hasan",
         "2025",
@@ -1996,7 +2002,7 @@
         "lambda",
         "Higher",
         "Rust for infrastructure and",
-        "\u2014",
+        "—",
         "Sense",
         "Monads,",
         "WIP",
@@ -2069,7 +2075,7 @@
         "64b9213a9db6ffcf3ee048410614e9dc",
         "94a26269fce6d4cab82e390dea71cd77"
       ],
-      "last_run": "2026-06-17T01:49:26.800232+00:00",
+      "last_run": "2026-06-17T02:03:06.704879+00:00",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2527,7 +2533,7 @@
         "these",
         "Matter",
         "Specialization",
-        "Java\u9762\u8bd5\u5b66\u4e60",
+        "Java面试学习",
         "Since",
         "prepare",
         "coding",
@@ -2572,7 +2578,7 @@
         "8fbfc408d153c9db7210ed00243249c2",
         "da5797f6918091bef630e2b801c861cd"
       ],
-      "last_run": "2026-06-17T01:49:26.800232+00:00",
+      "last_run": "2026-06-17T02:03:06.704879+00:00",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ]
@@ -2751,7 +2757,7 @@
         "Unlocking",
         "Garrett",
         "documentation",
-        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
+        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
         "Monkeys",
         "CPython internals",
         "Multithreading",
@@ -2894,7 +2900,7 @@
         "Understanding",
         "covering",
         "Going",
-        "Internals\u00b7",
+        "Internals·",
         "Understanding these internals helps",
         "Core",
         "newsletter",
@@ -3048,10 +3054,11 @@
         "softaims",
         "course4all",
         "dasroot.net",
-        "developers-heaven"
+        "developers-heaven",
+        "Power",
+        "Conquering"
       ],
       "last_result_hashes": [
-        "343ee2ea3c7bd5c5bb4c13c55f709fcf",
         "7b0c583d3445b91efa0c0453e5a737c4",
         "9df3859b4715ae95cd2f1c86331d9b55",
         "76ba0be7cee13cb37ea5732e7844cc73",
@@ -3070,9 +3077,10 @@
         "bf41f97b42c647ac6026b627b93093ff",
         "f6f37714b35061f5c685bf1326a59407",
         "77e4e05bee45a7be48e4a2eb4e1a3a81",
-        "2abbee82f484b493c8c88fee77060e1c"
+        "2abbee82f484b493c8c88fee77060e1c",
+        "823ea7a385129f323fa074901ae8d440"
       ],
-      "last_run": "2026-06-17T01:49:26.800232+00:00",
+      "last_run": "2026-06-17T02:03:06.704879+00:00",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",
@@ -3082,5 +3090,5 @@
       ]
     }
   },
-  "last_run": "2026-06-17 00:04 UTC"
+  "last_run": "2026-06-17 02:03 UTC"
 }

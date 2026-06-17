@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [Typing at PyCon USA 2025 - Discussions on Python.org](https://discuss.python.org/t/typing-at-pycon-usa-2025/91298) | kw: Typing at PyCon USA 2025 - Discussions on Python.org | source: type-systems
+
 - **2026-06-17** | [TYPES 2026: TYPES 2026 conference](https://types2026.cse.chalmers.se/) | kw: TYPES 2026 conference | source: type-systems
 
 - **2026-06-17** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of | source: type-systems
