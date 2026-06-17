@@ -511,7 +511,7 @@
         "e9d45130824f67775300df37d0b653d5",
         "2b4e9bd2c4202e42f37a0a03ee3326e2"
       ],
-      "last_run": "2026-06-17T23:02:26.074376+00:00",
+      "last_run": "2026-06-17T23:17:30.851182+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1046,7 +1046,7 @@
         "e6d79cde9aa9d3d1b9658c5af902e49b",
         "c8dded314e7898b9e0da2168910485eb"
       ],
-      "last_run": "2026-06-17T23:02:26.074376+00:00",
+      "last_run": "2026-06-17T23:17:30.851182+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1554,7 +1554,7 @@
         "0420f2af8bdf59868007484634e81aef",
         "6db375705e55582781a74483e498ac53"
       ],
-      "last_run": "2026-06-17T23:02:26.074376+00:00",
+      "last_run": "2026-06-17T23:17:30.851182+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2070,7 +2070,6 @@
         "practical uses"
       ],
       "last_result_hashes": [
-        "c5bcaf01490daab7e999b17a95ee57ce",
         "98a11a5a90569fa1869db7245e6f4abe",
         "b48df3ecc7197e04cb4515339cfae453",
         "21a98c8c7e43f50046c3cd5e51b65025",
@@ -2089,11 +2088,12 @@
         "a5a5e66d614014e51e59f4fc6a2c0141",
         "1e23347071bace94cd96516373fa7b4d",
         "74945f52cf880512245d7be7bc3d6b9f",
-        "31dd475c43e6db558cd8ab36ad139ffd"
+        "31dd475c43e6db558cd8ab36ad139ffd",
+        "284162fb3d26184ff53932944ec10527"
       ],
-      "last_run": "2026-06-17T23:02:26.074376+00:00",
+      "last_run": "2026-06-17T23:17:30.851182+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_new_count": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2596,7 +2596,7 @@
         "07beb4b0d5d70c4ad9c21070e5423e6c",
         "549197498cf467282f1182df8c5d97b5"
       ],
-      "last_run": "2026-06-17T23:02:26.074376+00:00",
+      "last_run": "2026-06-17T23:17:30.851182+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -3106,10 +3106,10 @@
         "999e699e6e78d8e383158b10f1c950f8",
         "fae0c827c538cc7c63cc17aa7dde9c3c"
       ],
-      "last_run": "2026-06-17T23:02:26.074376+00:00",
+      "last_run": "2026-06-17T23:17:30.851182+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
   },
-  "last_run": "2026-06-17T22:47:47.565822+00:00"
+  "last_run": "2026-06-17T23:17:30.851182+00:00"
 }
