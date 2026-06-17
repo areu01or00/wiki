@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Functional Design Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/haskell/functional-design-patterns) | kw: Functional Design Patterns / Software Patterns Lexicon | source: functional-programming
+- **2026-06-17** | [Comparing Haskell and Rust: which to choose, when?](https://www.reddit.com/r/haskell/comments/47rjr4/comparing_haskell_and_rust_which_to_choose_when) | kw: Comparing Haskell and Rust: which to choose, when? | source: functional-programming
+- **2026-06-17** | [The Practical Value of Functional Programming — Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView (2025)](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming — Monad, Funct | source: functional-programming
+- **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell Discourse](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell | source: functional-programming
+- **2026-06-17** | [80: POPL 2026 - Part 2 - The Haskell Interlude (podcast)](https://www.listennotes.com/podcasts/the-haskell/80-popl-2026-part-2-WOG2fI-tkse/) | kw: 80: POPL 2026 - Part 2 - The Haskell Interlude (podcast) | source: functional-programming
+- **2026-06-17** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/abs/2604.15290v4) | kw: Pure Borrow: Linear Haskell Meets Rust-Style Borrowing | source: functional-programming
+- **2026-06-17** | [Functional Languages in 2026 — A Camp-by-Camp Survey of Haskell, OCaml, Elm, Gleam, Roc, Unison, Lean 4, F#, Clojure](https://www.youngju.dev/blog/culture/2026-05-14-functional-languages-2026-survey-haskell-elm-roc-gleam-unison-ocaml-fsharp-deep-dive.en) | kw: Functional Languages in 2026 — A Camp-by-Camp Survey of Hask | source: functional-programming
+- **2026-06-17** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026]: Functional Programming That Changes Ho | source: functional-programming
+
 - **2026-06-17** | [Monad (category theory) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28category_theory%29) | kw: Monad (category theory) - Wikipedia | source: functional-programming
 
 - **2026-06-17** | [Monads: Beyond Simple Analogies - Reflections on Functional Programming Paradigms](https://hackers.pub/%40hongminhee/2025/monads) | kw: Monads: Beyond Simple Analogies - Reflections on F | source: functional-programming

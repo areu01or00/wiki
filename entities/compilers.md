@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-17** | [Llvm Jit Compiler By C Lattner Et Al Integration: Deploying Edge-Based Platform Frameworks](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: Llvm Jit Compiler By C Lattner Et Al Integration: Deploying | source: compilers
+- **2026-06-17** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, | source: compilers
+- **2026-06-17** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM - Create Your Own Prog | source: compilers
+- **2026-06-17** | [A Deep Dive into LLVM: The Future of Compiler Technology | by Aastha Jain | Medium](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM: The Future of Compiler Technology / b | source: compilers
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at | source: compilers
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · VALancaster/compiler-course-2026](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at | source: compilers
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026 · VALancaster/compiler-course-2026](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at | source: compilers
+- **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at | source: compilers
+
 - **2026-06-17** | [EuroLLVM 2026 - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.org/devmtg/2026-04/slides/quick_talk/quick_talk_hames.pdf) | kw: EuroLLVM 2026 | source: compilers
 
 - **2026-06-17** | [Session Details: 2026 European LLVM Developers' Meeting - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: Session Details 2026 | source: compilers

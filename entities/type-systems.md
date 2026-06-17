@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing in Type Theory - numberanalytics.com | source: type-systems
+- **2026-06-17** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with Inference | source: type-systems
+- **2026-06-17** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing - Khoury College of Computer | source: type-systems
+- **2026-06-17** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs - Christophe Garon](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding Graduality in Programming Languages through Em | source: type-systems
+- **2026-06-17** | [Efficient Selection of Type Annotations for Performance - Programming Journal 2026](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance - Pr | source: type-systems
+- **2026-06-17** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: GitHub - kevle6/Gradual_Typing | source: type-systems
+- **2026-06-17** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual Typing for Functional Languages | source: type-systems
+
 - **2026-06-17** | [Type Theory for Skeptics: What Static Types Really Prove (And Don't) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/type-theory-for-skeptics-what-static-types-really-prove-and-dont.html) | kw: Type Theory for Skeptics: What Static Types Really Prove (An | source: type-systems
 
 - **2026-06-17** | [Type-Directed Operational Semantics for Gradual Typing](https://i.cs.hku.hk/~bruno/papers/jfp24.pdf) | kw: Type-Directed Operational Semantics for Gradual Typing | source: type-systems

@@ -483,8 +483,6 @@
         "Must"
       ],
       "last_result_hashes": [
-        "8643dd36e190fa7e58a356b5a616daf3",
-        "62ffed8405f0c26474dbf2c73f5f9796",
         "54449127c5a919ced70c6b4477340a18",
         "6d8de8867c71793bc52d3ca7013f5b74",
         "ea0c937a0defda9ddbaf8bf366cb33d4",
@@ -502,9 +500,11 @@
         "46a56982536c8a4f9801b7d471165b39",
         "0a84e0f612f84727cbf618f66be65505",
         "8a4c6c3b1a58ba76429a4cc01eb115a4",
-        "2efe47add6349b1a23f9e1b4a923ec6b"
+        "2efe47add6349b1a23f9e1b4a923ec6b",
+        "056b14e78a14af65a4d0ae47a4e64443",
+        "697337f881dc40cc977774b3475bbe3d"
       ],
-      "last_run": "2026-06-17 15:47 UTC",
+      "last_run": "2026-06-17T16:02:37Z",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -1024,14 +1024,6 @@
         "GraalVM"
       ],
       "last_result_hashes": [
-        "1b4f8d3b78812e51f5d5f6cf7d3de464",
-        "044f00f22ade99878d29e43ef426c83d",
-        "d0de062ed058a4b7bb87b9c013129190",
-        "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
-        "0e37ea17fc9a69e116e589e0bc7f8c79",
-        "c5a3e8a6937a6f43e1b1bf53c39eb1e5",
-        "f1925c0af6e39aa520ffa6a282ede525",
-        "ae427aaa277c67469832326760f5569f",
         "c2c98c62f28cc2aa7a611539fb043b2d",
         "cd6615121f745370351123ff10180b2f",
         "f59aecd9d2bb1c9a8e2250bf412480f0",
@@ -1043,9 +1035,17 @@
         "f8d442f4690d4404517ee77875bd3260",
         "23259200a7be4533fe1e25b8fdeb4b83",
         "243695afe28d40fa0e03432441a7eb04",
-        "54478c34ab646edfbc6980095e540dfa"
+        "54478c34ab646edfbc6980095e540dfa",
+        "95d039a87ff19238e99d0f66eb8fce0e",
+        "5c9968648c9661c8e79130512ceb632c",
+        "b86eb07f5a984fccae1bb38c4d48f846",
+        "1dbcadd29f914229e53e0a8239219ead",
+        "233f5bce867180de5299f3e4a40e8650",
+        "75758f0634f7ea17454ad137e0b1f1f1",
+        "1e4f2841efc1fbac5ac052907fa5790f",
+        "07f0e54c284f07b58fd64563df6653ef"
       ],
-      "last_run": "2026-06-17 15:47 UTC",
+      "last_run": "2026-06-17T16:02:37Z",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1533,13 +1533,6 @@
         "Calculus"
       ],
       "last_result_hashes": [
-        "0acb2636282f416d8be527a284439785",
-        "1674bb6ba3ccf85f515fbae17fccc59f",
-        "911955f45e693686bc5efe45c6135743",
-        "b6653d17878c7dd9a2e5b3f5c1763350",
-        "975c322ba0564e4fba2bc4d0c84bb2b3",
-        "83d44b75e943818d03c7b9c4bbdb0bc9",
-        "f45b37537fbd32f2517f1eaf8018adef",
         "ed513f6e12395c8fbbf5e5415449aabd",
         "c027f5d29aa0bfa5a3a5037b14ac8b26",
         "420b2b7a0413568a011c506edc08381f",
@@ -1552,9 +1545,16 @@
         "cd2957ee0bc0a8ddf337c7da2a3f99dc",
         "393c2007828b49d14ae2ce8a8bf61873",
         "08183a095f9bb03fe7dd6ce06dfd5115",
-        "be83423834c67b8671ef6f7b00eeb6c9"
+        "be83423834c67b8671ef6f7b00eeb6c9",
+        "796dd8fb9f6369a2e77f75139af26f3c",
+        "4a101114e3b691c4671d64770c39c052",
+        "481bf13dad9a849f34a663880bb0470f",
+        "543697ac79673cc3f8f429709121926e",
+        "81232b51393367f3db856b0642376ad2",
+        "87065c9439c433c819c4f5a68841256d",
+        "5b2a310af3624fe5c8840aaca4c5f195"
       ],
-      "last_run": "2026-06-17 15:47 UTC",
+      "last_run": "2026-06-17T16:02:37Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2063,14 +2063,6 @@
         "Monad,"
       ],
       "last_result_hashes": [
-        "32b7895f5a363cbf340e57c75779aedd",
-        "619445cf59810e703603ef4f268058ee",
-        "19e9a027878cd9e15d80f9af087b154c",
-        "a3493ff266b17fc6ca7d44bed6e59213",
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "fdfc88c40b8dd8cafa16c6f34e2197ad",
-        "95ab3798b66363f78283997beb6b230a",
-        "e2bdf965558101ccb32757acdfb8736f",
         "8ebdd868e3be019898b9d36cd949934f",
         "b02dbbc70e07d9299f580417705b125b",
         "94a26269fce6d4cab82e390dea71cd77",
@@ -2082,9 +2074,17 @@
         "2a314c9af20e20ff4fb1bc043ac1e080",
         "9723a1f1ac6c1a15c0a730f494ead1ef",
         "9868fdee1ae3718a5c48b14aabfd228c",
-        "2649172dbd20aff571990bbc5343460d"
+        "2649172dbd20aff571990bbc5343460d",
+        "1460d415de60e4be5e4292d071acce11",
+        "8e74e94550b52b7c1a083f7890b60a67",
+        "f90ff073009eed161109951f0f328ce3",
+        "98a11a5a90569fa1869db7245e6f4abe",
+        "06ce455b80c3353477db4172b1596c1e",
+        "bc2135eec3871ce21b29a6ac82c28881",
+        "aa80c4393d6db9a7227a87e5f21b2707",
+        "449f1936d11b3408b5111b8fbfc6e205"
       ],
-      "last_run": "2026-06-17 15:47 UTC",
+      "last_run": "2026-06-17T16:02:37Z",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2567,15 +2567,6 @@
         "Arch"
       ],
       "last_result_hashes": [
-        "908e73d5a51b48064f19e51d7dcb4430",
-        "60233ba12f224764b5938c3634b02e6a",
-        "504193c7c786307a3a1e8318d098e8d4",
-        "96cc6ef4debb90003f3411a620935917",
-        "9bae7c320eaa49023b76088f638f22f3",
-        "9ce6169374b8a813371af8d41f83c91e",
-        "006476c3efe4c6250e715256d3af7b3b",
-        "143876bc0621660474126a01477b0355",
-        "82fb1ef13fcea1c4a17fa08c1b7bf9ff",
         "711907ad3def1c1455722ff1c7f06c77",
         "9c079bce41ba80e069e2d66cc02ed865",
         "5e9b8cf82248df4aef2eb2f56bda4161",
@@ -2586,9 +2577,18 @@
         "cb0c560e8841e385635126a2a21c8684",
         "814ad50168aca7691bd4e6e042f0b36b",
         "7e571cc4915b8f19020f0aebd3f76356",
-        "980195fd86ea11fba61c9826f5e4751c"
+        "980195fd86ea11fba61c9826f5e4751c",
+        "8900f36a48596850ee5ba84a247a6c1d",
+        "b374c779c101dd010d1f2ed0450afdee",
+        "3a5aa4dc7a08cf53617d8bc45fcdd95d",
+        "8f48746135c4ce31696176aebedcfc09",
+        "dba859e9113f969a0f84d759331953e7",
+        "37b18b3ee5841dc8d78ef02edf927dc9",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "3739df902d0a15eaecfaff44ff2d20c8",
+        "81d3f6ca00caa659b47d39e7b3373c33"
       ],
-      "last_run": "2026-06-17 15:47 UTC",
+      "last_run": "2026-06-17T16:02:37Z",
       "new_sub_topics_this_run": [
         "PapersAdda"
       ],
@@ -3073,15 +3073,6 @@
         "Masterclass"
       ],
       "last_result_hashes": [
-        "993340ba10508d27975679f77e08cd57",
-        "f4d9d0e68de06e6b915a2655f3ce3474",
-        "80cb1ee80342b3950bba93fd2801d04f",
-        "b52883f4c09c9a3086481dd582e2ea6d",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "3723dfa3f60cd99fa11d63a5fa09bc1f",
-        "a792f282303dbd1f1ed21c5e38e85187",
-        "9df3859b4715ae95cd2f1c86331d9b55",
-        "6bd1828271a3d7ce0e5d0b666c53b128",
         "79d28f03e144e5b10eb3f2f36126965d",
         "999e699e6e78d8e383158b10f1c950f8",
         "2d58c6e1a61db711d6cc9522f4a3a135",
@@ -3092,9 +3083,18 @@
         "b07fdd19ee37af0f4dcf73e24bee4a46",
         "6ef292c1ca22680772b34a822ad25be1",
         "dffb367289c2ff33235ee4db217cc919",
-        "2abbee82f484b493c8c88fee77060e1c"
+        "2abbee82f484b493c8c88fee77060e1c",
+        "d2adce09b07afa8868adc1a5598d6db8",
+        "407bd0317abbabf6be9ed20442246de1",
+        "5451f574f8ac7101d4076e3f903cf1d4",
+        "beaef31893811bf93a7c49c5427531ec",
+        "4cd24649bb264af960eb0db466e7076c",
+        "23f806669425cddfbb81ceb3202ed519",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "195cc5355800be062c15e1a66ccfcacd",
+        "343ee2ea3c7bd5c5bb4c13c55f709fcf"
       ],
-      "last_run": "2026-06-17 15:47 UTC",
+      "last_run": "2026-06-17T16:02:37Z",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",

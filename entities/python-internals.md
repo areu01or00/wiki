@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-17** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production- | source: python-internals
+- **2026-06-17** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: How Python's Memory Management Works Under the Hood | source: python-internals
+- **2026-06-17** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter | source: python-internals
+- **2026-06-17** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Under the Hood of Python: Internals, Optimization, and Moder | source: python-internals
+- **2026-06-17** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling and Optimization Techniques | source: python-internals
+- **2026-06-17** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of Python Internals: Exploring GIL Removal and Ot | source: python-internals
+- **2026-06-17** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management & GIL: Python Guide (2026) / Edugators | source: python-internals
+- **2026-06-17** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: How Python's GIL Actually Works (And Why It Exists) | source: python-internals
+- **2026-06-17** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter) - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The Python GIL Controversy: Why Multi-Core Parallelism Remai | source: python-internals
+
 - **2026-06-17** | [Python Internals Module Projects - Engineering Challenges - EngineersOfAI](https://engineersofai.com/docs/python/python-intermediate/python-internals/projects/overview) | kw: Python Internals Module Projects - Engineering Cha | source: python-internals
 
 

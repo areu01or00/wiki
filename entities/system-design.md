@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System Design Series Part 3: Load Balancing & Caching - Wasi | source: system-design
+- **2026-06-17** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Distributed Systems: Trends and R | source: system-design
+
 - **2026-06-17** | [System Designer - Learn System Design & Software Architecture](https://www.systemdesigner.net/) | kw: System Designer - Learn System Design & Software Architecture | source: system-design
 - **2026-06-17** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026) | kw: Distributed Systems Patterns 2026 | pdpspectra | source: system-design
 
