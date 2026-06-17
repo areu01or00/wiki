@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-17** | [Compiler Design: LLVM IR, SSA Form, and Optimization Pass...](https://anshadameenza.com/blog/technology/2025-02-05-compiler-design-llvm-ir-ssa-optimization-passes) | kw: LLVM IR, SSA form, optimization passes with real benchmarks | source: compilers
+
 - **2026-06-17** | [CS 331 Spring 2026 Compilers & Interpreters](https://www.cs.uaf.edu/~chappell/class/2026_spr/cs331/read/comp_int.html) | kw: CS 331 Spring 2026 Compilers & Interpreters | source: compilers
 
 - **2026-06-17** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM talk on llvm-autojit plugin
