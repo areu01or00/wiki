@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-17** | [Designing Resilient Distributed Systems: Patterns & Pitfalls](https://www.developers.dev/tech-talk/designing-resilient-distributed-systems-essential-patterns-and-common-pitfalls-for-architects.html) | kw: Designing Resilient Distributed Systems: Patterns & Pitfalls | source: system-design
+
 - **2026-06-17** | [Microservices - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/microservices) | kw: Microservices - GeeksforGeeks | source: system-design
 
 - **2026-06-17** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: Latest Trends in Distributed Systems (2026): What I'm Buildi | source: system-design

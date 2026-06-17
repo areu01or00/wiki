@@ -1,6 +1,7 @@
 # Functional Programming
 
 ## Updates
+
 - **2026-06-17** | [Functional Language Features: Iterators and Closures - The Rust Programming Language](https://doc.rust-lang.org/book/ch13-00-functional-features.html) | kw: Functional Language Features: Iterators and Closures - The Rust Programming Lang | source: functional-programming
 
 - **2026-06-17** | [What is a monad for someone who doesn't want to learn Haskell - Stack Overflow](https://stackoverflow.com/questions/49857378/what-is-a-monad-for-someone-who-doesnt-want-to-learn-haskell-in-order-to-unders) | kw: What is a monad for someone who doesn't want to learn Haskel | source: functional-programming

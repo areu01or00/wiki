@@ -1,6 +1,7 @@
 # Python Internals
 
 ## Updates
+
 - **2026-06-17** | [Python Programming & Software Development Trends 2026 - sourcetrail](https://www.sourcetrail.com/python/the-evolution-of-python-in-modern-software-development-balancing-performance-career-demand-and-code-clarity) | kw: Python Programming & Software Development Trends 2026 - sour | source: python-internals
 
 - **2026-06-17** | [From Variables to No-GIL: Why Python Still Runs Modern AI](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: From Variables to No-GIL: Why Python Still Runs Modern AI | source: python-internals

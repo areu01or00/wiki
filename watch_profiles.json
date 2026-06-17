@@ -200,7 +200,7 @@
         "Know",
         "Techniques",
         "Edge Computing Patterns",
-        "\u2014",
+        "—",
         "System Design Series Part 3",
         "Parallel",
         "Practical",
@@ -485,9 +485,12 @@
         "Leaders",
         "Redis",
         "Cluster",
-        "Cache"
+        "Cache",
+        "Designing",
+        "Resilient"
       ],
       "last_result_hashes": [
+        "d02afa8765de5e07a9f24c8677bb671d",
         "a3c1c2b6d55ff083812e1ea086382dbd",
         "62ffed8405f0c26474dbf2c73f5f9796",
         "eb9413c412274c4d419c8f0af8eb0eeb",
@@ -506,10 +509,9 @@
         "0138e3c26ac6dea5b65730e25947b726",
         "79e2cfc9b094bce776fbd73d96e23c80",
         "e9d45130824f67775300df37d0b653d5",
-        "2b4e9bd2c4202e42f37a0a03ee3326e2",
-        "06dbc409e429798f2a0817bfebe833d4"
+        "2b4e9bd2c4202e42f37a0a03ee3326e2"
       ],
-      "last_run": "2026-06-17T22:17:24.932221+00:00",
+      "last_run": "2026-06-17T22:32:32.719624+00:00",
       "new_sub_topics_this_run": [
         "Amsterdam",
         "unopinionated",
@@ -731,7 +733,7 @@
         "Sanjoy Das",
         "Techniques",
         "Perry Compiler",
-        "\u2014",
+        "—",
         "Insight",
         "ORC JIT",
         "Georghinho/compiler-course-2026",
@@ -834,7 +836,7 @@
         "MLGO",
         "PostgreSQL",
         "Breakthroughs",
-        "\u00b7",
+        "·",
         "Caching",
         "GitHub",
         "Upcoming",
@@ -1054,7 +1056,7 @@
         "e6d79cde9aa9d3d1b9658c5af902e49b",
         "c8dded314e7898b9e0da2168910485eb"
       ],
-      "last_run": "2026-06-17T22:17:24.932221+00:00",
+      "last_run": "2026-06-17T22:32:32.719624+00:00",
       "new_sub_topics_this_run": [
         "Opportunities",
         "Aastha",
@@ -1071,7 +1073,7 @@
       "sub_topics": [
         "-",
         "Nature",
-        "Uni\ufb01cation-based",
+        "Uniﬁcation-based",
         "developments",
         "Every",
         "Python Typing",
@@ -1266,7 +1268,7 @@
         "Languages Software",
         "Projection",
         "Techniques",
-        "\u2014",
+        "—",
         "(January",
         "Practical",
         "system",
@@ -1543,9 +1545,13 @@
         "[2603.05649] efficient",
         "efficient selection",
         "Type Inference Techniques",
-        "Group"
+        "Group",
+        "gradual-typing",
+        "emergentmind"
       ],
       "last_result_hashes": [
+        "f0e4a0e00c88df5f6d30fa0a8e73ef3d",
+        "afa6caf48502106583ac61c324295531",
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "c835d5055d6e71e02dcd6f8423329225",
         "308dda7f513e9814e8fc3261531d6d06",
@@ -1563,11 +1569,9 @@
         "063c2f3eadaf2be7e059d09de8a540f4",
         "b538102edba293f6e7c712829cbe30ab",
         "0420f2af8bdf59868007484634e81aef",
-        "6db375705e55582781a74483e498ac53",
-        "fda04b6a24a80bce8cb9df0f37312c9a",
-        "7d43df11a787f4da1d8ba7253fb6f91f"
+        "6db375705e55582781a74483e498ac53"
       ],
-      "last_run": "2026-06-17T22:17:24.932221+00:00",
+      "last_run": "2026-06-17T22:32:32.719624+00:00",
       "new_sub_topics_this_run": [
         "Type Inference Techniques"
       ],
@@ -1626,7 +1630,7 @@
         "Checker",
         "Gleam language",
         "Introduction",
-        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
+        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
         "You",
         "Compilation",
         "Roadmap",
@@ -1801,7 +1805,7 @@
         "Gentle Introduction to Haskell",
         "Catalin's",
         "Techniques",
-        "\u2014",
+        "—",
         "Gleam (Erlang VM FP)",
         "Practical",
         "system",
@@ -1816,7 +1820,7 @@
         "Type",
         "Higher Kinded Types",
         "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1rst",
-        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
+        "Rust1.74で追加された機能を使ってモナドを作ってみる",
         "Programmers",
         "Paradigm",
         "Order",
@@ -1901,7 +1905,7 @@
         "Should",
         "bertiqwerty",
         "2",
-        "\u00b7",
+        "·",
         "GitHub",
         "Eugenio",
         "Internals",
@@ -2079,7 +2083,7 @@
         "all about",
         "demystifying monads",
         "making sense",
-        "monadify \u2014",
+        "monadify —",
         "monads and",
         "monads tutorial",
         "practical uses"
@@ -2106,7 +2110,7 @@
         "74945f52cf880512245d7be7bc3d6b9f",
         "31dd475c43e6db558cd8ab36ad139ffd"
       ],
-      "last_run": "2026-06-17T22:17:24.932221+00:00",
+      "last_run": "2026-06-17T22:32:32.719624+00:00",
       "new_sub_topics_this_run": [
         "Central",
         "alvinalexander.com",
@@ -2270,7 +2274,7 @@
         "Prompt",
         "Sheet",
         "Brinker",
-        "Java\u9762\u8bd5\u5b66\u4e60",
+        "Java面试学习",
         "asked",
         "Leading",
         "for",
@@ -2616,7 +2620,7 @@
         "07beb4b0d5d70c4ad9c21070e5423e6c",
         "549197498cf467282f1182df8c5d97b5"
       ],
-      "last_run": "2026-06-17T22:17:24.932221+00:00",
+      "last_run": "2026-06-17T22:32:32.719624+00:00",
       "new_sub_topics_this_run": [
         "Quest"
       ],
@@ -2658,7 +2662,7 @@
         "Threaded",
         "Best",
         "Bytecode",
-        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
+        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
         "PEP 703",
         "Python Memory Management Internals",
         "LLVM",
@@ -3003,7 +3007,7 @@
         "The Explosive Python Trends 2026",
         "EOL VersionLog",
         "Changed",
-        "Internals\u00b7",
+        "Internals·",
         "Community",
         "covering",
         "AiBox",
@@ -3128,7 +3132,7 @@
         "999e699e6e78d8e383158b10f1c950f8",
         "fae0c827c538cc7c63cc17aa7dde9c3c"
       ],
-      "last_run": "2026-06-17T22:17:24.932221+00:00",
+      "last_run": "2026-06-17T22:32:32.719624+00:00",
       "new_sub_topics_this_run": [
         "miydevforge",
         "softaims",

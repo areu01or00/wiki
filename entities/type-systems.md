@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-17** | [gradual-typing - Programming Research Group (en)](https://prg.is.titech.ac.jp/en/category/project/type/gradual-typing) | kw: gradual-typing - Programming Research Group (en) | source: type-systems
+- **2026-06-17** | [Abstracting Gradual Typing (AGT) - emergentmind.com](https://www.emergentmind.com/topics/abstracting-gradual-typing-agt) | kw: Abstracting Gradual Typing (AGT) - emergentmind.com | source: type-systems
+
 - **2026-06-17** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: type
 - **2026-06-17** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: type
 
