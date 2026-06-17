@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-17** | [Haskell Popularity 2026 — Rankings, Trends & Data | LangPop](https://langpop.com/language/haskell) | kw: functional-programming
+
 - **2026-06-17** | [Monadic Design Patterns in Haskell: Mastering Functional Programming](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: Monadic Design Patterns | source: functional-programming
 - **2026-06-17** | [Functional programming: A collection of good Monad tutorials - alvinalexander.com](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Functional programming A | source: functional-programming
 - **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2 - Haskell Discourse](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83 | source: functional-programming
