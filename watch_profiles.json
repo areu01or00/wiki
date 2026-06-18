@@ -523,7 +523,7 @@
         "829e385d598e3022a5a9d9f416e9920c",
         "9ba46483364adb11b22fcfbd9fe2e4d2"
       ],
-      "last_run": "2026-06-18 10:21 UTC",
+      "last_run": "2026-06-18 10:31 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1069,7 +1069,7 @@
         "f59aecd9d2bb1c9a8e2250bf412480f0",
         "dde9e8d6fb49d441eb6cc93b5b9f79cb"
       ],
-      "last_run": "2026-06-18 10:21 UTC",
+      "last_run": "2026-06-18 10:31 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1589,7 +1589,7 @@
         "0a6f4d53bc1208d78a779741badbaa7f",
         "4a101114e3b691c4671d64770c39c052"
       ],
-      "last_run": "2026-06-18 10:21 UTC",
+      "last_run": "2026-06-18 10:31 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2151,7 +2151,7 @@
         "c34a9a43ce0bf98274e9aee01383eea0",
         "6ac17140976f4e3a7be22d2ec701d1ce"
       ],
-      "last_run": "2026-06-18 10:21 UTC",
+      "last_run": "2026-06-18 10:31 UTC",
       "new_sub_topics_this_run": [
         "Actually",
         "Changed",
@@ -2160,7 +2160,7 @@
         "Surging",
         "Usage"
       ],
-      "last_new_count": 2
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2673,13 +2673,13 @@
         "b374c779c101dd010d1f2ed0450afdee",
         "8900f36a48596850ee5ba84a247a6c1d"
       ],
-      "last_run": "2026-06-18 10:21 UTC",
+      "last_run": "2026-06-18 10:31 UTC",
       "new_sub_topics_this_run": [
         "Add",
         "Arslan",
         "Ahmad"
       ],
-      "last_new_count": 2
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -3183,7 +3183,6 @@
         "Charting"
       ],
       "last_result_hashes": [
-        "abcd89ef2c828c70cea95f6364c0326f",
         "beaef31893811bf93a7c49c5427531ec",
         "993340ba10508d27975679f77e08cd57",
         "91a882a511bbae988d1252b7a6f0abbf",
@@ -3202,15 +3201,16 @@
         "8423f12ab9baba929d1ed4e944bcf94c",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "265111ab89ec1e2086cc516865ce3720",
-        "fb62a5b9dc32acfe6c4f6cfe6eaa88b2"
+        "fb62a5b9dc32acfe6c4f6cfe6eaa88b2",
+        "44ede0fa7f964aee564e189fd251a80b"
       ],
-      "last_run": "2026-06-18 10:21 UTC",
+      "last_run": "2026-06-18 10:31 UTC",
       "new_sub_topics_this_run": [
         "Breaks",
         "Barrier",
         "Sean"
       ],
-      "last_new_count": 2
+      "last_new_count": 1
     }
   }
 }

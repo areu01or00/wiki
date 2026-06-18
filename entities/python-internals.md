@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Understanding Python GIL - MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: Python,GIL
+
 
 - **2026-06-18** | [Charting Python's Parallel Future: The Evolution from GIL to Multi-Core Harmony](https://python.plainenglish.io/charting-pythons-parallel-future-the-evolution-from-gil-to-multi-core-harmony-52a4bc4e53ff) | kw: charting
 - **2026-06-18** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL
