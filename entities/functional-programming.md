@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Tarides | What is Functional Programming? A Look at the ...](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective) | kw: Tarides, Functional, Programming | src: functional-programming
+
 - **2026-06-18** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional, programming, finest | src: functional-programming
 - **2026-06-18** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: learned, monads, not | src: functional-programming
 - **2026-06-18** | [Functional Languages in 2026 - A Camp-by-Camp Survey of Haskell, OCaml, Elm, Gleam, Roc, Unison, Lean 4, F#, Clojure](https://www.youngju.dev/blog/culture/2026-05-14-functional-languages-2026-survey-haskell-elm-roc-gleam-unison-ocaml-fsharp-deep-dive.en) | kw: functional, languages, camp-by-camp | src: functional-programming

@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Python 3.13 Free-Threading: Is the GIL Finally Gone? - Dev Note](https://devstarsj.github.io/2026/03/12/python-313-free-threading-gil-removed) | kw: Python, Free-Threading, GIL, Finally | src: python-internals
+- **2026-06-18** | [Memory Management in 2026: Tech's Evolving Landscape - App Performance Lab](https://appperformancelab.com/memory-management-in-2026-techs-evolving-landscape) | kw: Memory, Management, Tech, Evolving | src: python-internals
+
 - **2026-06-18** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python, gil, key | src: python-internals
 - **2026-06-18** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie | Medium](https://www.edugators.com/python/advanced/python-memory-gil) | kw: variables, no-gil, python | src: python-internals
 - **2026-06-18** | [Python 3.14 Free-Threading - True Parallelism Without the GIL | Edgar Montano](https://www.edgarmontano.com/posts/python-3-14-free-threading-true-parallelism) | kw: python, 3.14, free-threading | src: python-internals

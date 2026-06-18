@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [Improvements to RISC-V Vector code generation in LLVM](https://riscv-europe.org/summit/2025/media/proceedings/2025-05-15-RISC-V-Summit-Europe-P1.4.03-LAU-abstract.pdf) | kw: Improvements, RISC | src: compilers
+- **2026-06-18** | [Project RP009: LLVM SPEC Optimization - Rise: RISC-V Software](https://riseproject.dev/2025/05/08/project-rp009-llvm-spec-optimization) | kw: Project, RP009, LLVM, SPEC | src: compilers
+
 - **2026-06-18** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - chekalexey/compiler-course-2026 - GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst, course-spring-2026, chekalexey/compiler-course-2026 | src: compilers
 - **2026-06-18** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, modern, language | src: compilers
 - **2026-06-18** | [Best Free and Open Source Compilers for Developers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: free, open, source | src: compilers
