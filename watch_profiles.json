@@ -200,7 +200,7 @@
         "Know",
         "Techniques",
         "Edge Computing Patterns",
-        "—",
+        "\u2014",
         "System Design Series Part 3",
         "Parallel",
         "Practical",
@@ -520,7 +520,7 @@
         "829e385d598e3022a5a9d9f416e9920c",
         "9ba46483364adb11b22fcfbd9fe2e4d2"
       ],
-      "last_run": "2026-06-18 03:04:49 UTC",
+      "last_run": "2026-06-18 03:16 UTC",
       "new_sub_topics_this_run": [
         "Event-Driven"
       ],
@@ -734,7 +734,7 @@
         "Sanjoy Das",
         "Techniques",
         "Perry Compiler",
-        "—",
+        "\u2014",
         "Insight",
         "ORC JIT",
         "Georghinho/compiler-course-2026",
@@ -837,7 +837,7 @@
         "MLGO",
         "PostgreSQL",
         "Breakthroughs",
-        "·",
+        "\u00b7",
         "Caching",
         "GitHub",
         "Upcoming",
@@ -1062,7 +1062,7 @@
         "71c33262bb6fe28614d87220172c6995",
         "832c8d190b40632d3ac4ea0b616a49db"
       ],
-      "last_run": "2026-06-18 03:04:49 UTC",
+      "last_run": "2026-06-18 03:16 UTC",
       "new_sub_topics_this_run": [
         "Kaleidoscope"
       ],
@@ -1074,7 +1074,7 @@
       "sub_topics": [
         "-",
         "Nature",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "developments",
         "Every",
         "Python Typing",
@@ -1269,7 +1269,7 @@
         "Languages Software",
         "Projection",
         "Techniques",
-        "—",
+        "\u2014",
         "(January",
         "Practical",
         "system",
@@ -1581,7 +1581,7 @@
         "1347d335883178a43d9ea0b06a62f3e5",
         "08183a095f9bb03fe7dd6ce06dfd5115"
       ],
-      "last_run": "2026-06-18 03:04:49 UTC",
+      "last_run": "2026-06-18 03:16 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 6
     },
@@ -1638,7 +1638,7 @@
         "Checker",
         "Gleam language",
         "Introduction",
-        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
+        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "You",
         "Compilation",
         "Roadmap",
@@ -1813,7 +1813,7 @@
         "Gentle Introduction to Haskell",
         "Catalin's",
         "Techniques",
-        "—",
+        "\u2014",
         "Gleam (Erlang VM FP)",
         "Practical",
         "system",
@@ -1828,7 +1828,7 @@
         "Type",
         "Higher Kinded Types",
         "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1rst",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Programmers",
         "Paradigm",
         "Order",
@@ -1913,7 +1913,7 @@
         "Should",
         "bertiqwerty",
         "2",
-        "·",
+        "\u00b7",
         "GitHub",
         "Eugenio",
         "Internals",
@@ -2091,7 +2091,7 @@
         "all about",
         "demystifying monads",
         "making sense",
-        "monadify —",
+        "monadify \u2014",
         "monads and",
         "monads tutorial",
         "practical uses",
@@ -2128,7 +2128,7 @@
         "c012a57fa63492860f64045db3528e7a",
         "a3493ff266b17fc6ca7d44bed6e59213"
       ],
-      "last_run": "2026-06-18 03:04:49 UTC",
+      "last_run": "2026-06-18 03:16 UTC",
       "new_sub_topics_this_run": [
         "Lazy",
         "Affine"
@@ -2290,7 +2290,7 @@
         "Prompt",
         "Sheet",
         "Brinker",
-        "Java面试学习",
+        "Java\u9762\u8bd5\u5b66\u4e60",
         "asked",
         "Leading",
         "for",
@@ -2641,7 +2641,7 @@
         "8e6c7df52d21cb8e1d1493c6e8d0efad",
         "1a67bfac46635074fc0f8886cc11e73f"
       ],
-      "last_run": "2026-06-18 03:04:49 UTC",
+      "last_run": "2026-06-18 03:16 UTC",
       "new_sub_topics_this_run": [
         "Leetc"
       ],
@@ -2683,7 +2683,7 @@
         "Threaded",
         "Best",
         "Bytecode",
-        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
+        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
         "PEP 703",
         "Python Memory Management Internals",
         "LLVM",
@@ -3028,7 +3028,7 @@
         "The Explosive Python Trends 2026",
         "EOL VersionLog",
         "Changed",
-        "Internals·",
+        "Internals\u00b7",
         "Community",
         "covering",
         "AiBox",
@@ -3161,7 +3161,7 @@
         "987be4b4e32f235de1ef0bbe9c28344d",
         "2abbee82f484b493c8c88fee77060e1c"
       ],
-      "last_run": "2026-06-18 03:04:49 UTC",
+      "last_run": "2026-06-18 03:16 UTC",
       "new_sub_topics_this_run": [
         "Gc"
       ],
