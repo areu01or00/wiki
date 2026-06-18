@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-18** | [Data Structures Interview Questions and Answers (2026) | NostrobeAI](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data structures
+
 - **2026-06-18** | [LeetCode Questions Asked in Google 2026](https://papersadda.com/article/leetcode-questions-google-2026) | kw: LEETCODE
 - **2026-06-18** | [Best DSA Sheet 2026 - namastedev](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet
 - **2026-06-18** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: 100+

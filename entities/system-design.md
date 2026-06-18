@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+
+- **2026-06-18** | [Scalable Web Development 2026: APIs, Caching & Distributed Systems](https://www.dotcominfoway.com/blog/scalable-web-development-2026-apis-caching-distributed-systems) | kw: scalability
+
 - **2026-06-18** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Distributed
 - **2026-06-18** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: guide
 - **2026-06-18** | [Microservices Architecture in 2026: Building Scalable Distributed Systems](https://scga.hk/blog/microservices-architecture-2026) | kw: Distributed
