@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Scalable Microservices Architecture: A Guide for Engineering Leaders](https://www.developers.dev/tech-talk/designing-a-resilient-and-scalable-microservices-architecture-a-strategic-guide-for-engineering-leaders.html) | kw: Scalable,Microservices,Architecture,Guide | src: system-design
+
 - **2026-06-18** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: Microservices, Architecture, Practices | source: system-design
 
 - **2026-06-18** | [The Patterns Of Distributed Systems With Martin Fowler | Patreon](https://www.patreon.com/posts/patterns-of-with-105216391) | kw: The, Patterns, Distributed | src: system-design

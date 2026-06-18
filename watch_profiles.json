@@ -502,7 +502,6 @@
         "Resilience"
       ],
       "last_result_hashes": [
-        "694eafe5ed78cb746d62ba47e0492d7d",
         "608fa7d1ab9e25ccee240ab0bd6ba8f5",
         "2d3339fbcb04e9f626d884e03958e8d3",
         "3ee08fcb48d8cc998d40e238fc3854f0",
@@ -521,9 +520,10 @@
         "d0c843a5ab449318e1bdeb5d4f10d539",
         "0bccdfeceeee7664c4e61f75605f9f8f",
         "a3c1c2b6d55ff083812e1ea086382dbd",
-        "5aeac4fa30fb41ccddd5bdbec41ec241"
+        "5aeac4fa30fb41ccddd5bdbec41ec241",
+        "765e99ad8811dd2ef41c928d417532ab"
       ],
-      "last_run": "2026-06-18T09:22:28Z",
+      "last_run": "2026-06-18 09:33 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1068,7 +1068,7 @@
         "baa192a2ec5e3f3865792f83af118646",
         "7e8c60653222d5cae98f18cda70361ba"
       ],
-      "last_run": "2026-06-18T09:05:22Z",
+      "last_run": "2026-06-18 09:33 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1585,7 +1585,7 @@
         "7fea7b93e4ec6881026dfd5607cb4c15",
         "0c4fea65325737c446710c96431c6923"
       ],
-      "last_run": "2026-06-18T09:05:22Z",
+      "last_run": "2026-06-18 09:33 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2140,7 +2140,7 @@
         "5bc147d594761aeceb649baf6dd3e861",
         "e7c3cd3e4e1ae9ae36f22558f93838ac"
       ],
-      "last_run": "2026-06-18T09:22:28Z",
+      "last_run": "2026-06-18 09:33 UTC",
       "new_sub_topics_this_run": [
         "Actually",
         "Changed",
@@ -2660,7 +2660,7 @@
         "4e816f03626f2aeee8060ef836ec2dec",
         "c9c1fc458c94a256bff44d45825aacf7"
       ],
-      "last_run": "2026-06-18T09:05:22Z",
+      "last_run": "2026-06-18 09:33 UTC",
       "new_sub_topics_this_run": [
         "Add",
         "Arslan",
@@ -3190,7 +3190,7 @@
         "91a882a511bbae988d1252b7a6f0abbf",
         "64d7a20c48f9b90c69ea65ab6c63f776"
       ],
-      "last_run": "2026-06-18T09:05:22Z",
+      "last_run": "2026-06-18 09:33 UTC",
       "new_sub_topics_this_run": [
         "Breaks",
         "Barrier",
