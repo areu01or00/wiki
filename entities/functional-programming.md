@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Monad Laws - Monday Morning Haskell](https://mmhaskell.com/monads/laws) | kw: Monad, Laws, Monday, Morning | src: functional-programming
+
 - **2026-06-18** | [Functional Programming - Rust Design Patterns](https://rust-unofficial.github.io/patterns/functional) | kw: Functional, Programming, Rust, Design, Patterns | src: functional-programming
 
 
