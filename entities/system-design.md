@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [The Future of AI in Software Architecture — 2026 Outlook](https://mipaoverseas.com/future-ai-software-architecture-2026) | kw: Future, AI, Software, Architecture, Outlook
+
 - **2026-06-18** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Bold, Predictions, Distributed, Systems
 - **2026-06-18** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures, Microservices
 

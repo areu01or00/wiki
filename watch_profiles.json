@@ -499,10 +499,15 @@
         "PenChef",
         "Modular Monoliths",
         "Caching Strategies",
-        "Resilience"
+        "Resilience",
+        "AI",
+        "MLOps",
+        "Edge AI",
+        "Governance",
+        "architecture patterns",
+        "design patterns"
       ],
       "last_result_hashes": [
-        "697337f881dc40cc977774b3475bbe3d",
         "4a92b9accf7e00c9835483bf78a78624",
         "f0867b873de5e0095075cc1e002a4368",
         "62ffed8405f0c26474dbf2c73f5f9796",
@@ -521,9 +526,10 @@
         "7a43fcfcde6a6e1ad6d40ccc6f416748",
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "aaaf9550e5e27d5469ea0edd84372b77",
-        "89a56d75eb44a5b6b6e7751656a45c91"
+        "89a56d75eb44a5b6b6e7751656a45c91",
+        "9807f8d1929c95183aa940a9e5db0583"
       ],
-      "last_run": "2026-06-18 14:33 UTC",
+      "last_run": "2026-06-18 14:46 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1069,7 +1075,7 @@
         "b86eb07f5a984fccae1bb38c4d48f846",
         "3ba104ecc03da87f45ee61d5db32136d"
       ],
-      "last_run": "2026-06-18 14:33 UTC",
+      "last_run": "2026-06-18 14:46 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1591,7 +1597,7 @@
         "86f4b4845c551735eb358d29c8bb5166",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6"
       ],
-      "last_run": "2026-06-18 14:33 UTC",
+      "last_run": "2026-06-18 14:46 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2155,7 +2161,7 @@
         "cf0c0d29f40613543d8d7484da966668",
         "7aa06fb240f91f68ffeddea0917941e6"
       ],
-      "last_run": "2026-06-18 14:33 UTC",
+      "last_run": "2026-06-18 14:46 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2677,7 +2683,7 @@
         "91b947cdb84929a43202be06d8ca3ad9",
         "772a7fef5359270de709ea737905e471"
       ],
-      "last_run": "2026-06-18 14:33 UTC",
+      "last_run": "2026-06-18 14:46 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 1
     },
@@ -3204,7 +3210,7 @@
         "03e9423b802e0456d3fe98220b76ea3a",
         "343ee2ea3c7bd5c5bb4c13c55f709fcf"
       ],
-      "last_run": "2026-06-18 14:33 UTC",
+      "last_run": "2026-06-18 14:46 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
