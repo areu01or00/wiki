@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [The 99 Best Programming Languages to Learn in 2026](https://talent500.com/blog/best-programming-languages-to-learn-2026/) | kw: The 99 Best Programming Languages to Learn in 2026 | source: type-systems
+- **2026-06-18** | [Top 50 Programming Languages in 2026](https://www.entrans.ai/blog/top-programming-languages) | kw: Top 50 Programming Languages in 2026 | source: type-systems
+- **2026-06-18** | [Top 5 Programming Languages To Learn In 2026: Python, TypeScript, C/C++, Java, Rust](https://www.mergesociety.com/code-report/top-programming-languages-to-learn) | kw: Top 5 Programming Languages To Learn In 2026: Python, TypeSc | source: type-systems
+
 - **2026-06-17** | [TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki | source: type-systems
 - **2026-06-17** | [Type inference of all constructs and the next 15 months - The Elixir programming language](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months - The Elixir programming | source: type-systems
 - **2026-06-17** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type system concepts — typing documentation | source: type-systems

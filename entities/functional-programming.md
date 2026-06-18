@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Programming Trends to Follow in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/programming-trends-to-follow-in-2026) | kw: Programming Trends to Follow in 2026 - Analytics Insight | source: functional-programming
+
 - **2026-06-17** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | | source: functional-programming
 - **2026-06-17** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top 22 Best Functional Programming Languages In 2026 | source: functional-programming
 - **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ...](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ... | source: functional-programming

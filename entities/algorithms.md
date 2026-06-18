@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [Data Structures and Algorithms - arXiv.org](https://arxiv.org/list/cs.DS/recent) | kw: Data Structures and Algorithms - arXiv.org | source: algorithms
+- **2026-06-18** | [ALGORITHMS, DATA STRUCTURES AND PROGRAMMING (ATU Library)](https://library.atu.edu.kz/files/38717.pdf) | kw: ALGORITHMS, DATA STRUCTURES AND PROGRAMMING (ATU Library) | source: algorithms
+- **2026-06-18** | [Data Structures and Algorithms May 2026 - arXiv.org](https://arxiv.org/list/cs.DS/2026-05) | kw: Data Structures and Algorithms May 2026 - arXiv.org | source: algorithms
+- **2026-06-18** | [Pseudocode Pro - Data Structures & Algorithms IGCSE O-Level A-Level](https://www.pseudocode.pro/algorithms-data-structures) | kw: Pseudocode Pro - Data Structures & Algorithms IGCSE O-Level  | source: algorithms
+- **2026-06-18** | [CS 261: Data Structures - Donald Bren School (UCI)](https://ics.uci.edu/~eppstein/261/lecture1a.pdf) | kw: CS 261: Data Structures - Donald Bren School (UCI) | source: algorithms
+- **2026-06-18** | [Cambridge International AS & A Level 9618 Computer Science Pseudocode Guide 2026](https://www.cambridgeinternational.org/Images/697401-2026-pseudocode-guide-for-teachers.pdf) | kw: Cambridge International AS & A Level 9618 Computer Science P | source: algorithms
+
 - **2026-06-18** | [11 Best Coding Interview Preparation Courses for 2026 - Class Central](https://www.classcentral.com/report/best-coding-interview-preparation-courses/) | kw: 11 best coding interview
 
 - **2026-06-17** | [Data Structures and Algorithms Introduction | Hello Interview](https://www.hellointerview.com/learn/code) | kw: Data Structures and Algorithms Introduction | Hello Interview | source: algorithms

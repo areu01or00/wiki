@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Interpreter State and Thread Management | python/cpython (DeepWiki)](https://deepwiki.com/python/cpython/4.1-interpreter-state-and-thread-management) | kw: Interpreter State and Thread Management | python/cpython (De | source: python-internals
+- **2026-06-18** | [Mastering The Global Interpreter Lock (GIL) | Python (course4all)](https://course4all.com/python/py-gil-internals/) | kw: Mastering The Global Interpreter Lock (GIL) | Python (course | source: python-internals
+
 - **2026-06-17** | [Python Memory Leaks: 7 Fixes for Long-Running Apps in 2026](https://appsconcerebro.com/en/blog/python-2026-diagnostico-y-solucion-de-fugas-de-memoria-en-ap) | kw: Python Memory Leaks: 7 Fixes for Long-Running Apps in 2026 | source: python-internals
 - **2026-06-17** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhy | source: python-internals
 - **2026-06-17** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python Memory Profiling and Optimization Techniques | source: python-internals
