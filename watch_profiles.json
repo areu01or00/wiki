@@ -502,9 +502,6 @@
         "Resilience"
       ],
       "last_result_hashes": [
-        "d0ae98a342caad97c68e59c996aeaea3",
-        "729c2ff54afb3063182d60de7d6aef1c",
-        "1e83fdc72243b5726a989c382dc84834",
         "0a84e0f612f84727cbf618f66be65505",
         "2b816d0cf4bff7a093aa08f5c173a8c6",
         "eb9413c412274c4d419c8f0af8eb0eeb",
@@ -521,9 +518,12 @@
         "e9d45130824f67775300df37d0b653d5",
         "bcfd71f53ab1ff9b1bbb906880b2771d",
         "2d3339fbcb04e9f626d884e03958e8d3",
-        "a3c1c2b6d55ff083812e1ea086382dbd"
+        "a3c1c2b6d55ff083812e1ea086382dbd",
+        "697337f881dc40cc977774b3475bbe3d",
+        "4a92b9accf7e00c9835483bf78a78624",
+        "f0867b873de5e0095075cc1e002a4368"
       ],
-      "last_run": "2026-06-18 12:03 UTC",
+      "last_run": "2026-06-18 12:21 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 5
     },
@@ -1048,13 +1048,6 @@
         "Chapter"
       ],
       "last_result_hashes": [
-        "a17409ab9dd49df56a7674658d3ba1e4",
-        "95d039a87ff19238e99d0f66eb8fce0e",
-        "a87049c9d8b0b6a7f00801dbca0b2dd2",
-        "f59aecd9d2bb1c9a8e2250bf412480f0",
-        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
-        "b226e59e0470076776ec719903333499",
-        "a888bd8966b306914c973b55ba7dd171",
         "dc5ada16f234dc184f112304b0917552",
         "f71c9ea97bdb7d1ba586aafa52df9cae",
         "9f949b654bb17f71e99a5f02002df66e",
@@ -1067,9 +1060,16 @@
         "14bec6c679203be13206205a9edb80d7",
         "23259200a7be4533fe1e25b8fdeb4b83",
         "7ed9cf6296b93bcd1574511795e44641",
-        "d0de062ed058a4b7bb87b9c013129190"
+        "d0de062ed058a4b7bb87b9c013129190",
+        "8942f8f62c1d79b46c1bae96af12e488",
+        "4a4e0127b12cfd2d476b5aaa44376f2d",
+        "d01b8581e83b9ff11c5a2a91a595859e",
+        "ad224992b3d43b614903c5a768d8f604",
+        "29c58e4329f73439d67a5879c9494a5d",
+        "d7e5f5a8c6456f44ba8a948008f8ec7a",
+        "b86eb07f5a984fccae1bb38c4d48f846"
       ],
-      "last_run": "2026-06-18 12:03 UTC",
+      "last_run": "2026-06-18 12:21 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 6
     },
@@ -1569,12 +1569,6 @@
         "2026 Type Report"
       ],
       "last_result_hashes": [
-        "911955f45e693686bc5efe45c6135743",
-        "515297cd90212e0cede68efcec1af7d9",
-        "69141b8d76424df4fee793c758199a08",
-        "8152c0fa97986388894bbc6fe44824e4",
-        "48111cf9034c724e9cc47ba9ef9fd044",
-        "0a6f4d53bc1208d78a779741badbaa7f",
         "4a101114e3b691c4671d64770c39c052",
         "063c2f3eadaf2be7e059d09de8a540f4",
         "b026ef92bf282c4d85de696983ed4a8c",
@@ -1588,9 +1582,15 @@
         "9696d6348e5a07ef42a404fa3fb8f89c",
         "796dd8fb9f6369a2e77f75139af26f3c",
         "2b077fcefb9f16574c355c5cae07ce7d",
-        "a3bff6024fbb28890c700733eef813fa"
+        "a3bff6024fbb28890c700733eef813fa",
+        "a698afacbd0c1bda0a06af9c229fb63f",
+        "34883a3db51d530a697c03a1e9c8b798",
+        "2ca01bab24411da446a0b51061dcc18f",
+        "bca887779c4d30860ee265ce67393aa0",
+        "81dfcf34789faee98d8bd75f9013dd4c",
+        "08183a095f9bb03fe7dd6ce06dfd5115"
       ],
-      "last_run": "2026-06-18 12:03 UTC",
+      "last_run": "2026-06-18 12:21 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 9
     },
@@ -2132,11 +2132,6 @@
         "Monad Price Prediction"
       ],
       "last_result_hashes": [
-        "c34a9a43ce0bf98274e9aee01383eea0",
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "c2fefc572a2578f6f202a147d877925b",
-        "21a98c8c7e43f50046c3cd5e51b65025",
-        "507d0954b1c28a4ea253d1bfcfbd1b35",
         "bc8a0d2280568fa4eb346b9740a7d62a",
         "af76e2365f103001efa3def3c69d4762",
         "d8ecd855deb6ef7b3c3623a37c37e993",
@@ -2151,9 +2146,14 @@
         "5eae65aedb2fdf74fe3bf9a822193b94",
         "47e6d74aef0c39ef251aad25fd7ff012",
         "ce5f54fc6f710fe0ee8b7e9d78f28c76",
-        "94a26269fce6d4cab82e390dea71cd77"
+        "94a26269fce6d4cab82e390dea71cd77",
+        "96d48c0b70a5675d33ba9579d126e6e1",
+        "ca2e7b8612001e04b8f58ca9ffbae973",
+        "a5d1a103a14368a490cc7f1446b8f725",
+        "de338f294aa41fec4c8d42519b5ab06d",
+        "823816519d57105a05e4bfb25b94cd53"
       ],
-      "last_run": "2026-06-18 12:03 UTC",
+      "last_run": "2026-06-18 12:21 UTC",
       "new_sub_topics_this_run": [
         "Actually",
         "Changed",
@@ -2655,13 +2655,6 @@
         "DSA Interview Topics"
       ],
       "last_result_hashes": [
-        "7d194ad3d9a4f9a87cd4de35548c005c",
-        "ba4b0cdbecfd0bb24b772e378610b88a",
-        "a72a20f0713cd5feeef913e54a998932",
-        "8a33de987d5e1a5d46764de65e5fdbd7",
-        "544d7d110803052b93a7e0f05f49b7d5",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
-        "b374c779c101dd010d1f2ed0450afdee",
         "8900f36a48596850ee5ba84a247a6c1d",
         "53468a49e5858039fabcfee0555bf84f",
         "645cd575d17401c0cea1f1d499733998",
@@ -2674,9 +2667,16 @@
         "595f0e6ddf3ffc9ae7d6d3256cb6ad3b",
         "00a02315b04f8e95fb7ced3e13f75bfc",
         "1c6ef83cace5b86fe35f7f2f4035ba13",
-        "81d3f6ca00caa659b47d39e7b3373c33"
+        "81d3f6ca00caa659b47d39e7b3373c33",
+        "4861fa760d6055839ee2dcc5d26a84c9",
+        "a8f88a4bc844e359722b0e2c7dff4529",
+        "546a7ee81a112b9d017b79d6981ff7bc",
+        "f59923f2aa84310f9653bbfa9e1802a4",
+        "37b18b3ee5841dc8d78ef02edf927dc9",
+        "dc74d6f22681f0bd579aa2f5fc302854",
+        "fa2e527cdd11acb8168cdbeff3eba418"
       ],
-      "last_run": "2026-06-18 12:03 UTC",
+      "last_run": "2026-06-18 12:21 UTC",
       "new_sub_topics_this_run": [
         "Add",
         "Arslan",
@@ -3186,12 +3186,6 @@
         "Charting"
       ],
       "last_result_hashes": [
-        "9b950d80d24710f2899e1b281e96098e",
-        "7b4d33a48fc204e0cb25e4f1266c7297",
-        "11a9f922d9ecab6a8c3045b9dc6794d6",
-        "8423f12ab9baba929d1ed4e944bcf94c",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "265111ab89ec1e2086cc516865ce3720",
         "fb62a5b9dc32acfe6c4f6cfe6eaa88b2",
         "44ede0fa7f964aee564e189fd251a80b",
         "b892d3268af415a5d0c10b3cc6cd89bf",
@@ -3205,9 +3199,15 @@
         "993340ba10508d27975679f77e08cd57",
         "80cb1ee80342b3950bba93fd2801d04f",
         "7b0c583d3445b91efa0c0453e5a737c4",
-        "27f248b038a95d99de17aaffdab3c8db"
+        "27f248b038a95d99de17aaffdab3c8db",
+        "58d44d74fa5754fa678242bfb8a378ed",
+        "3006637548d18ceb70f45867121eb2a4",
+        "9a16abe455aad8976504790293f8762a",
+        "682c949b49e3733b73d17af369faa481",
+        "7f27f9d74ba3e99d049669e38120961b",
+        "cc1169f3086a93320da59573f7fa5861"
       ],
-      "last_run": "2026-06-18 12:03 UTC",
+      "last_run": "2026-06-18 12:21 UTC",
       "new_sub_topics_this_run": [
         "Breaks",
         "Barrier",
