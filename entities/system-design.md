@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+
+- **2026-06-18** | [System Design Trends 2026: What Modern FAANG-Level Interviews Are Expecting](https://thita.ai/blog/system-design/system-design-trends-2026) | kw: System, Design, Trends | src: system-design
+
 - **2026-06-18** | [Patterns of Distributed Systems](https://gotopia.tech/books/84/patterns-of-distributed-systems) | kw: Patterns, Distributed, Systems | src: system-design
 
 - **2026-06-18** | [Software Architecture Trends 2026: Edge, Cloud-Native & Web3](https://www.coderio.com/blog/biz-tech/the-future-of-edge-computing) | kw: software, architecture, trends | src: system-design
