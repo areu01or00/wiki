@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [Eight trends defining how software gets built in 2026 | Claude](https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026) | kw: Eight,trends,defining,how,software,gets,built,in,2026 | src: compilers
+
 - **2026-06-18** | [A Low-Level Virtual Machine Just-In-Time Prototype for Running an Energy-Saving Hardware-Aware Mapping Algorithm](https://www.mdpi.com/1996-1073/16/19/6781) | kw: Low-Level,Virtual,Machine,Just-In-Time | src: compilers
 
 - **2026-06-18** | [BuildingAJIT1.rst - compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers | src: compilers
