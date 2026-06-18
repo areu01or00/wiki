@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Microservices Design Patterns: The Comprehensive Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: Microservices,Design,Patterns:,The,Comprehensive,Guide | src: system-design
+- **2026-06-18** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The,Coming,Paradigm,Shift,in,Distributed | src: system-design
+- **2026-06-18** | [Caching & Performance: Building Fast, Predictable Systems in 2026](https://neuralstackms.tech/caching-performance-building-fast-predictable-systems-in-2026) | kw: Caching,&,Performance:,Building,Fast,,Predictable | src: system-design
+- **2026-06-18** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System,Design,Guide,2026,-,Scalable | src: system-design
+- **2026-06-18** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: A,Guide,to,Large-Scale,Distributed,Systems | src: system-design
+- **2026-06-18** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three,Bold,Predictions,for,Distributed,Systems | src: system-design
+
 - **2026-06-18** | [The Complete Guide to Frontend Architecture Patterns in 2026 - DEV Community](https://dev.to/sizan_mahmud0_e7c3fd0cb68/the-complete-guide-to-frontend-architecture-patterns-in-2026-3ioo) | kw: Complete, Guide, Frontend, Architecture, Patterns | src: system-design
 - **2026-06-18** | [The 5 Frontend Architectures You Must Know in 2025 - Feature-Sliced Design](https://feature-sliced.design/blog/frontend-architecture-guide) | kw: Frontend, Architectures, Must, Know, Feature-Sliced | src: system-design
 - **2026-06-18** | [Frontend Patterns - The Senior Frontend Engineer's Companion](https://frontend-patterns.dev/) | kw: Frontend, Patterns, Senior, Engineer, Companion | src: system-design

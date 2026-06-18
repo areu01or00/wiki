@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [What is a Monad (in Rust)? - mspandit.github.io](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: What,is,a,Monad,(in,Rust)? | src: functional-programming
+- **2026-06-18** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify,-,Rust,utility,//,Lib.rs | src: functional-programming
+- **2026-06-18** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional,Programming,at,Its,Finest:,Why | src: functional-programming
+- **2026-06-18** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads,and,Monad-Like,Patterns,in,Rust: | src: functional-programming
+- **2026-06-18** | [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt) | kw: Demystifying,monads,in,Rust,through,property-based | src: functional-programming
+- **2026-06-18** | [The Practical Value of Functional Programming — Monad Haskell Elixir Erlang Gleam Effect TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The,Practical,Value,of,Functional,Programming | src: functional-programming
+- **2026-06-18** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which,Functional,Programming,Languages,Should,You | src: functional-programming
+- **2026-06-18** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's,Coming,for,Haskell,in,2026 | src: functional-programming
+- **2026-06-18** | [Demystifying monads in Rust through property-based testing - vuink.com](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: Demystifying,monads,in,Rust,through,property-based | src: functional-programming
+
 - **2026-06-18** | [Mastering Monadic Transformation in Haskell | MoldStud](https://moldstud.com/articles/p-mastering-monadic-transformation-in-haskell) | kw: moldstud
 
 - **2026-06-18** | [Monad Laws - Monday Morning Haskell](https://mmhaskell.com/monads/laws) | kw: Monad, Laws, Monday, Morning | src: functional-programming

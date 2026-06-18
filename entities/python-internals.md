@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Python Memory Management Masterclass: Garbage Collection, Slots, and WeakRefs](https://logicandlegacy.blogspot.com/2026/03/python-memory-management-masterclass.html) | kw: Python,Memory,Management,Masterclass:,Garbage,Collection, | src: python-internals
+- **2026-06-18** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python,Internals:,Memory,Management,&,the | src: python-internals
+- **2026-06-18** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: How,Python,Works,Under,the,Hood: | src: python-internals
+- **2026-06-18** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: The,Future,of,Python,Internals:,Exploring | src: python-internals
+- **2026-06-18** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python,Memory,Profiling,and,Optimization,Techniques | src: python-internals
+- **2026-06-18** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter)](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The,Python,GIL,Controversy:,Why,Multi-Core | src: python-internals
+
 - **2026-06-18** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory, Management
 - **2026-06-18** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026? | Medium](https://medium.com/%40Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: Global, Interpreter, Lock, GIL
 

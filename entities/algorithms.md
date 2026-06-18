@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [Best DSA Sheet 2026 - To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best,DSA,Sheet,2026,,,To | src: algorithms
+- **2026-06-18** | [LeetCode Patterns Won't Save You in 2026 — Add These 7 Topics - Level Up Coding](https://levelup.gitconnected.com/leetcode-patterns-wont-save-you-in-2026-add-these-7-topics-9037b82f5549) | kw: LeetCode,Patterns,Won't,Save,You,in | src: algorithms
+- **2026-06-18** | [The Technical Interview in 2026: What Changed, What Didn't - BirJob](https://www.birjob.com/blog/technical-interview-2026) | kw: The,Technical,Interview,in,2026:,What | src: algorithms
+- **2026-06-18** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital)](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode,Questions,for,TCS,2026:,50 | src: algorithms
+- **2026-06-18** | [Data Structures Interview Questions: The Complete 2026 Guide - PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data,Structures,Interview,Questions:,The,Complete | src: algorithms
+- **2026-06-18** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode,-,The,World's,Leading,Online | src: algorithms
+- **2026-06-18** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: The,Ultimate,Leetcode,Roadmap:,Data,Structures | src: algorithms
+
 - **2026-06-18** | [Complete Guide On Complexity Analysis - Data Structure and Algorithms Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/complete-guide-on-complexity-analysis/) | kw: geeksforgeeks
 - **2026-06-18** | [Exercises - Data Structures and Algorithms / spring 2026](https://dsa-spring2026.github.io/exercises/) | kw: github
 - **2026-06-18** | [Algorithms & Data Structures: From Complexity Analysis to AI](https://www.youngju.dev/blog/ai/2026-03-17-algorithms-data-structures-complete-guide.en) | kw: youngju

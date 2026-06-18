@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [The LLVM Compiler Infrastructure Project - LLVM Dev Meeting 2025-04](https://llvm.org/devmtg/2025-04) | kw: The,LLVM,Compiler,Infrastructure,Project,- | src: compilers
+- **2026-06-18** | [The State of Native Execution for Spark: Photon, Gluten, and Bolt](https://sparkingscala.com/latest/2026/06/12/native-execution-landscape-2026) | kw: The,State,of,Native,Execution,for | src: compilers
+- **2026-06-18** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Best,Free,Open-Source,Compilers,in,2026 | src: compilers
+- **2026-06-18** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: Jeandle:,How,Ant,Group's,LLVM-Based,JVM | src: compilers
+- **2026-06-18** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers,and,Modern,Language,Runtimes,- | src: compilers
+- **2026-06-18** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: The,LLVM,Compiler,Framework,and,Infrastructure | src: compilers
+
 - **2026-06-18** | [Compilation à la volée — Wikipédia](https://fr.wikipedia.org/wiki/Compilation_%C3%A0_la_vol%C3%A9e) | kw: wikipedia
 - **2026-06-18** | [Redirecting to https://www.eyrolles.com/Informatique/Livre/compilateurs-9782744070372/](https://www.eyrolles.com/Informatique/Livre/compilateurs-9782744070372) | kw: eyrolles
 - **2026-06-18** | [Compilateurs : principes, techniques et outils: Avec plus de 200 exercices](https://books.google.fr/books?id=iN9TNwAACAAJ) | kw: google

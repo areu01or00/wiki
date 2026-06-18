@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting,Gradual,Types,to,Work,- | src: type-systems
+- **2026-06-18** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient,Selection,of,Type,Annotations,for | src: type-systems
+- **2026-06-18** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: Gradual,Typing,-,Glossary,-,Textbook | src: type-systems
+- **2026-06-18** | [Gradual typing — Agilearn](https://agilearn.co.uk/guides/type-hints/concepts/gradual-typing) | kw: Gradual,typing,-,Agilearn | src: type-systems
+- **2026-06-18** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual,Typing,in,Type,Theory,- | src: type-systems
+- **2026-06-18** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type,system,concepts,-,typing,documentation | src: type-systems
+- **2026-06-18** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual,typing,-,Wikipedia | src: type-systems
+- **2026-06-18** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed,and,Confused:,Studying,the,Unexpected | src: type-systems
+- **2026-06-18** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual,Typing,with,Inference,-,Jeremy | src: type-systems
+
 - **2026-06-18** | [Static vs Dynamic Typing Why Static Type Systems Are Safer](https://simplifycpp.org/?id=a0784) | kw: simplifycpp
 
 
