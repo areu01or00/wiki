@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional, programming, finest | src: functional-programming
+- **2026-06-18** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: learned, monads, not | src: functional-programming
+- **2026-06-18** | [Functional Languages in 2026 - A Camp-by-Camp Survey of Haskell, OCaml, Elm, Gleam, Roc, Unison, Lean 4, F#, Clojure](https://www.youngju.dev/blog/culture/2026-05-14-functional-languages-2026-survey-haskell-elm-roc-gleam-unison-ocaml-fsharp-deep-dive.en) | kw: functional, languages, camp-by-camp | src: functional-programming
+- **2026-06-18** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell, functional, programming | src: functional-programming
+- **2026-06-18** | [80: POPL 2026 - Part 2 - The Haskell Interlude (podcast)](https://www.listennotes.com/podcasts/the-haskell/80-popl-2026-part-2-WOG2fI-tkse) | kw: popl, part, haskell | src: functional-programming
+- **2026-06-18** | [The Practical Value of Functional Programming - Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: practical, value, functional | src: functional-programming
+- **2026-06-18** | [Haskell for all](https://haskellforall.com/) | kw: haskell | src: functional-programming
+
 
 - **2026-06-18** | [Programming Trends to Follow in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/programming-trends-to-follow-in-2026) | kw: Programming Trends to Follow in 2026 - Analytics Insight | source: functional-programming
 

@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: neetcode, coding, interview | src: algorithms
+- **2026-06-18** | [Data Structures for Coding Interviews 2026: The 8 You ...](https://lastroundai.com/blog/data-structures-interview-guide) | kw: data, structures, coding | src: algorithms
+- **2026-06-18** | [Interview Prep: Algorithm Patterns | SyntaxCache](https://www.syntaxcache.com/interview-prep) | kw: interview, prep, algorithm | src: algorithms
+- **2026-06-18** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital)](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: leetcode, questions, tcs | src: algorithms
+- **2026-06-18** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: data, structure, leetcode | src: algorithms
+- **2026-06-18** | [Coding interviews: Everything you you need to prepare | Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-prep) | kw: coding, interviews, prepare | src: algorithms
+- **2026-06-18** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: data, structures, algorithms | src: algorithms
+
 
 - **2026-06-18** | [Data Structures and Algorithms - arXiv.org](https://arxiv.org/list/cs.DS/recent) | kw: Data Structures and Algorithms - arXiv.org | source: algorithms
 - **2026-06-18** | [ALGORITHMS, DATA STRUCTURES AND PROGRAMMING (ATU Library)](https://library.atu.edu.kz/files/38717.pdf) | kw: ALGORITHMS, DATA STRUCTURES AND PROGRAMMING (ATU Library) | source: algorithms

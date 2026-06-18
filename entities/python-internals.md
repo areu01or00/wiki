@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python, gil, key | src: python-internals
+- **2026-06-18** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie | Medium](https://www.edugators.com/python/advanced/python-memory-gil) | kw: variables, no-gil, python | src: python-internals
+- **2026-06-18** | [Python 3.14 Free-Threading - True Parallelism Without the GIL | Edgar Montano](https://www.edgarmontano.com/posts/python-3-14-free-threading-true-parallelism) | kw: python, 3.14, free-threading | src: python-internals
+- **2026-06-18** | [Impact of GIL-less Cpython on Performance and Compatibility](https://hps.vi4io.org/_media/teaching/autumn_term_2024/stud/scap/frederik_hennecke.pdf) | kw: impact, gil-less, cpython | src: python-internals
+- **2026-06-18** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: python, 3.14, free-threading | src: python-internals
+- **2026-06-18** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: state, python, dev | src: python-internals
+
 - **2026-06-18** | [Memory Management in Python: Best Practices - w3tutorials.net](https://www.w3tutorials.net/python-tutorial/memory-management-in-python-best-practices) | kw: Memory Management in Python: Best Practices - w3tutorials.net | source: python-internals
 
 - **2026-06-18** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works/) | kw: How Python's Memory Management Works Under the Hood | source: python-internals

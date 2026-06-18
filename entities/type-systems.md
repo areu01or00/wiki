@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: gradual, typing, across | src: type-systems
+- **2026-06-18** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: gradual, typing, programming | src: type-systems
+- **2026-06-18** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating, language, landscape | src: type-systems
+- **2026-06-18** | [Luau Type System Complete Guide - Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: luau, type, system | src: type-systems
+- **2026-06-18** | [100+ Type Inference Online Courses for 2026 | Explore Free ...](https://www.classcentral.com/subject/type-inference) | kw: 100+, type, inference | src: type-systems
+- **2026-06-18** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: foundations, gradual, typing | src: type-systems
+- **2026-06-18** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: understanding, graduality, programming | src: type-systems
+- **2026-06-18** | [Gradual Typing And Hybrid Systems Integration: Securing High-Throughput Platform Frameworks](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: gradual, typing, hybrid | src: type-systems
+- **2026-06-18** | [The Power of Type Inference in Modern Programming Languages](https://www.travrio.com/article/the-power-of-type-inference-in-modern-programming-languages) | kw: power, type, inference | src: type-systems
+- **2026-06-18** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: gradual, typing, types | src: type-systems
+
 
 - **2026-06-18** | [Wenjia Ye - Publications](https://yewenjia.github.io/) | kw: Principal Type Inference under a Prefix (PLDI 2025 Distingui | source: type-systems
 

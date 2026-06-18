@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026 · Dev Note](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: distributed, systems, patterns | src: system-design
+- **2026-06-18** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now - TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: latest, trends, distributed | src: system-design
+- **2026-06-18** | [Latest Trends in Distributed Systems (2026) - TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: latest, trends, distributed | src: system-design
+- **2026-06-18** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: large-scale, distributed, systems | src: system-design
+- **2026-06-18** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: system, design, ai-native | src: system-design
+- **2026-06-18** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system, design, scalable | src: system-design
+- **2026-06-18** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: distributed, system, design | src: system-design
+
 
 - **2026-06-18** | [Event-Driven Architecture Patterns for Microservices: Message Queues, Event Stores, and CQRS Implementation in 2026 | HostMyCode](https://www.hostmycode.com/blog/event-driven-architecture-patterns-microservices-message-queues-event-stores-cqrs-2026) | kw: Event-Driven Architecture Patterns for Microservices: Messag | source: system-design
 - **2026-06-18** | [Microservices Architecture: Modern Application Development and Deployment Strategies for 2025 - technewsdaily.com](https://technewsdaily.com/microservices-architecture-development-2025) | kw: Microservices Architecture: Modern Application Development a | source: system-design

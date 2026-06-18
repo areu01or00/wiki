@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - chekalexey/compiler-course-2026 - GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst, course-spring-2026, chekalexey/compiler-course-2026 | src: compilers
+- **2026-06-18** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers, modern, language | src: compilers
+- **2026-06-18** | [Best Free and Open Source Compilers for Developers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: free, open, source | src: compilers
+- **2026-06-18** | [JIT Compilation | microsoft/llvm | DeepWiki](https://deepwiki.com/microsoft/llvm/4-jit-compilation) | kw: jit, compilation, microsoft/llvm | src: compilers
+- **2026-06-18** | [A Deep Dive into LLVM: The Future of Compiler Technology | by Aastha Jain | Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: deep, dive, llvm | src: compilers
+- **2026-06-18** | [LLVM's Ongoing Challenges and Mitigation Strategies in 2026 - UBOS](https://ubos.tech/news/llvms-ongoing-challenges-and-mitigation-strategies-in-2026) | kw: llvm's, ongoing, challenges | src: compilers
+- **2026-06-18** | [Falcon JIT Compiler - Azul | Better Java Performance](https://www.azul.com/products/components/falcon-jit-compiler/) | kw: falcon, jit, compiler | src: compilers
+
 - **2026-06-18** | [twinBASIC Update: June 16, 2026](https://nolongerset.com/twinbasic-update-june-16-2026) | kw: twinBASIC Update: June 16, 2026 | source: compilers
 
 
