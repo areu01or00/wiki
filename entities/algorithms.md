@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [Tech Interview Handbook - LeetCode](https://leetcode.com/problem-list/9h4lgwl2) | kw: Tech, Interview, Handbook, curated, problem
+
 
 - **2026-06-18** | [GitHub - soapyigu/LeetCode-Swift: Solutions to LeetCode by Swift](https://github.com/soapyigu/LeetCode-Swift) | kw: GitHub, LeetCode-Swift, Solutions, LeetCode, Swift | src: algorithms
 - **2026-06-18** | [Leetcode Algorithm Coach Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: Leetcode, Algorithm, Coach, ShadeCoder | src: algorithms
