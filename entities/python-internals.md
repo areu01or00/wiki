@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-18** | [Charting Python's Parallel Future: The Evolution from GIL to Multi-Core Harmony](https://python.plainenglish.io/charting-pythons-parallel-future-the-evolution-from-gil-to-multi-core-harmony-52a4bc4e53ff) | kw: charting
 - **2026-06-18** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL
 - **2026-06-18** | [From Variables to No-GIL: Why Python Still Runs Modern AI](https://medium.com/a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: GIL
 - **2026-06-18** | [Under the Hood of Python: Internals, Optimization, and Modern Features](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Python:

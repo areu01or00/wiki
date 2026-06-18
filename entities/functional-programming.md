@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-18** | [Monads in Functional Programming: From Theory to Practice](https://medium.com/%40mo.mirjavadi/monads-in-functional-programming-from-theory-to-practice-9f9f93c0bf51) | kw: monads
+- **2026-06-18** | [Chapter 6 - Monoids and Monads | Patterns in Functional Programming](https://macbeth-byui.github.io/cse382-course/monoids-and-monads.html) | kw: chapter
 - **2026-06-18** | [What is a Monad (in Rust)?](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: monad
 - **2026-06-18** | [monadify - Rust utility](https://lib.rs/crates/monadify) | kw: monadify
 - **2026-06-18** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monad
