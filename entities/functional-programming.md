@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Functional Programming - Rust Design Patterns](https://rust-unofficial.github.io/patterns/functional) | kw: Functional, Programming, Rust, Design, Patterns | src: functional-programming
+
 
 - **2026-06-18** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://arxiv.org/pdf/2604.15290v4) | kw: Pure, Borrow, Linear, Haskell, Meets | src: functional-programming
 

@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [10+ top LeetCode patterns (2026) to ace FAANG coding interviews](https://www.educative.io/blog/coding-interview-leetcode-patterns) | kw: LeetCode, patterns, FAANG, coding, interviews | src: algorithms
+
 - **2026-06-18** | [Tech Interview Handbook - LeetCode](https://leetcode.com/problem-list/9h4lgwl2) | kw: Tech, Interview, Handbook, curated, problem
 
 
