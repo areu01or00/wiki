@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Python picks up speed with a new JIT - InfoWorld](https://www.infoworld.com/article/4120292/python-picks-up-speed-with-a-new-jit.html) | kw: Python
+- **2026-06-18** | [Python's JIT Compiler in 2026 - How Fast Is It Really?](https://www.pyblog.in/programming/inorder-traversal-of-binary-tree-in-python) | kw: Python
+- **2026-06-18** | [Python JIT project was asked to pause development](https://x.com/betterhn20/status/2063332097385730180) | kw: Python
+
 - **2026-06-18** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie | May, 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: python-internals
 - **2026-06-18** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: python-internals
 - **2026-06-18** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals

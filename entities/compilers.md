@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [Enhancing Compiler Design for Machine Learning Workflows with MLIR](https://ijsra.net/sites/default/files/fulltext_pdf/IJSRA-2025-2463.pdf) | kw: Enhancing
+- **2026-06-18** | [LLVM - MLIR Project](https://mlir.llvm.org/) | kw: LLVM
+- **2026-06-18** | [MLIR Primer: A Compiler Infrastructure for the End of Moore's Law](https://research.google/pubs/mlir-primer-a-compiler-infrastructure-for-the-end-of-moores-law) | kw: MLIR
+- **2026-06-18** | [MLIR: Scaling Compiler Infrastructure for Domain Specific Computation](https://rcs.uwaterloo.ca/~ali/cs842-s23/papers/mlir.pdf) | kw: MLIR
+- **2026-06-18** | [LLVM Compiler Infrastructure - Augment Code Overview](https://www.augmentcode.com/open-source/llvm/llvm-project) | kw: LLVM
+- **2026-06-18** | [Compiler Paper Reading Notes - zhjwpku](https://paper-notes.zhjwpku.com/compiler/index.html) | kw: Compiler
+- **2026-06-18** | [Exploring Triton with MLIR: A Deep Dive into How Triton Works](https://github.com/Merle-Zhang/ai-compiler-explore/blob/main/notes/exploring-triton-with-mlir-a-deep-dive-into-how-triton-works.md) | kw: Exploring
+
 - **2026-06-18** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: compilers
 - **2026-06-18** | [GitHub - cloudsealed/JIT-Optimization-Engine](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: compilers
 - **2026-06-18** | [Unlocking Performance: The Overlooked Power of Low-Cost ...](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: compilers

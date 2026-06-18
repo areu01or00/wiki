@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Category theory/Monads - HaskellWiki](https://www.haskell.org/haskellwiki/Category_theory/Monads) | kw: Category
+- **2026-06-18** | [A Monad is just a Monoid in the Category of Endofunctors - Let's actually unravel this](https://medium.com/@felix.kuehl/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-lets-actually-unravel-this-f5d4b7dbe5d6) | kw: Monad
+
 - **2026-06-18** | [Gleam Production Readiness 2026: The Year of the Type-Safe BEAM - PenChef](https://www.penchef.com/software-engineering/gleam-production-readiness-2026-type-safe-beam) | kw: functional-programming
 
 - **2026-06-18** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming

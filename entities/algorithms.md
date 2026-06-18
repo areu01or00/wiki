@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [Competitive Programming Resources - Kunal Kushwaha](https://github.com/kunal-kushwaha/Competitive-Programming-Resources) | kw: Competitive
+- **2026-06-18** | [Competitive Programming Resources - CS at Purdue](https://www.cs.purdue.edu/homes/ninghui/courses/cp_resources.html) | kw: Competitive
+- **2026-06-18** | [All resources to learn competitive programming - Codeforces](https://codeforces.com/blog/entry/111622) | kw: Codeforces
+- **2026-06-18** | [Competitive Programming (CP) - Steven Gong](https://stevengong.co/notes/Competitive-Programming) | kw: Competitive
+- **2026-06-18** | [Resources: Competitive Programming - USACO Guide](https://usaco.guide/general/resources-cp) | kw: Resources
+
 
 - **2026-06-18** | [From Zero to Hero: LeetCode - Habr](https://habr.com/en/articles/716768) | kw: From,Zero,Hero | src: algorithms
 
