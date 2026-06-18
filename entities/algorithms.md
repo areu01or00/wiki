@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: algorithms
+- **2026-06-18** | [Algorithms problemset](https://leetcode.com/problemset/algorithms) | kw: algorithms
+- **2026-06-18** | [LeetCode Blind 75 vs NeetCode 150: Which DSA List Will Land You the Job in 2026?](https://rolepilot.online/blog/leetcode-blind-75-vs-neetcode-150-2026-guide.html) | kw: algorithms
+- **2026-06-18** | [LeetCode - The World's Leading Online Programming ...](https://leetcode.com/problemset?difficulty=EASY) | kw: algorithms
+- **2026-06-18** | [Top 50 Data Structures Interview Questions 2026 - PA](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: algorithms
+- **2026-06-18** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: algorithms
+
 
 - **2026-06-18** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: Learn,LeetCode,DSA,Free,YouTube | src: algorithms
 - **2026-06-18** | [LeetCode Questions Asked in Google 2026 - PA](https://papersadda.com/article/leetcode-questions-google-2026) | kw: LeetCode,Questions,Asked,Google,2026 | src: algorithms
