@@ -410,7 +410,7 @@
         "docsgitscrumcom",
         "Used",
         "Event Sourcing",
-        "—",
+        "\u2014",
         "10",
         "GitScrum",
         "ICT",
@@ -514,10 +514,6 @@
         "Level"
       ],
       "last_result_hashes": [
-        "46a56982536c8a4f9801b7d471165b39",
-        "d7e4053d8359b5818b4128259533ab69",
-        "7a43fcfcde6a6e1ad6d40ccc6f416748",
-        "9ba46483364adb11b22fcfbd9fe2e4d2",
         "aaaf9550e5e27d5469ea0edd84372b77",
         "89a56d75eb44a5b6b6e7751656a45c91",
         "9807f8d1929c95183aa940a9e5db0583",
@@ -533,9 +529,13 @@
         "c74b750b4c181c28c8a705e275a94a89",
         "4eee1282ffa70cb7270e7fa4cd0c4f32",
         "1cdd1a9e8d61681172f1987e6689c7d4",
-        "57a4c789d0e18e97747d681b9092266d"
+        "57a4c789d0e18e97747d681b9092266d",
+        "697337f881dc40cc977774b3475bbe3d",
+        "eb4eda835adb1f4aeada1f30eb4c4d04",
+        "4a92b9accf7e00c9835483bf78a78624",
+        "a3c1c2b6d55ff083812e1ea086382dbd"
       ],
-      "last_run": "2026-06-18 15:52 UTC",
+      "last_run": "2026-06-18 16:04 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -743,7 +743,7 @@
         "Scale",
         "compiler-course-2026/llvm/docs/tutorial/",
         "RomanPikhotskiy/compiler-course-2026",
-        "·",
+        "\u00b7",
         "V8 TurboFan",
         "tutorialQ",
         "Principles",
@@ -762,7 +762,7 @@
         "ORC API",
         "monads",
         "RomanPikhotskiy",
-        "—",
+        "\u2014",
         "Inside",
         "Sense",
         "Navigating",
@@ -1063,10 +1063,6 @@
         "cloudsealed/JIT-Optimization-Engine"
       ],
       "last_result_hashes": [
-        "044f00f22ade99878d29e43ef426c83d",
-        "9b9e5b41a1c52064d55b23f06ea84096",
-        "bbb446f219d0926dc00975255367705e",
-        "e3e71f930e5e2c45b4d5f8c2d773a3b8",
         "6905230da0a5ae6cd085877b0982805e",
         "b5a4ea61ff2eb02eb906324720ada87b",
         "74915aa0977d8e6ffc08a64b62c82695",
@@ -1082,9 +1078,13 @@
         "39d37c08f9593c2e3ac7d6c805a94d54",
         "f59aecd9d2bb1c9a8e2250bf412480f0",
         "ae427aaa277c67469832326760f5569f",
-        "a72b65ce0686a5d6284312afb588f812"
+        "a72b65ce0686a5d6284312afb588f812",
+        "9a1466e453ce4f98157a252578a253e6",
+        "bbbc8ef4ec78630cae3e49219b742618",
+        "30652f1f55890cc382cc2150ca49a4b1",
+        "9b60f829473740124a01a74f223e33fb"
       ],
-      "last_run": "2026-06-18 15:52 UTC",
+      "last_run": "2026-06-18 16:04 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1143,7 +1143,7 @@
         "emergentmind",
         "DeepWiki",
         "Embedding-Projection",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "Dive",
         "Outs",
         "SDE",
@@ -1209,7 +1209,7 @@
         "Conditional Types",
         "Navigating",
         "Journey",
-        "—",
+        "\u2014",
         "Compiler",
         "2026",
         "Gradual Typing - Language Design and Implementatio",
@@ -1600,11 +1600,6 @@
         "Erasure"
       ],
       "last_result_hashes": [
-        "8712fe1b1a4bf4dd000816639467c2dd",
-        "aae6e293354b86488b42baa86365bc83",
-        "0aa96ee2596c32e28196cf4da3a1e697",
-        "a3f29d88b5ce80782a79f00d23f87e38",
-        "0e40ec20e1a733a8136667ee5938762f",
         "086347cd58071894c217e208bc64efd7",
         "702d73cf5ed45308bd3db10d51360006",
         "cb23ce0d234dc4e001e36b443a955d83",
@@ -1619,9 +1614,14 @@
         "a0175756b26cc90dace4cf65d10173ed",
         "21294cc9871fdb1527b587b26a8740db",
         "afa6caf48502106583ac61c324295531",
-        "90f64aa277dd75da77b910fbd4635b9b"
+        "90f64aa277dd75da77b910fbd4635b9b",
+        "063c2f3eadaf2be7e059d09de8a540f4",
+        "e63014263ca618ad9c4b03303b951c4b",
+        "911955f45e693686bc5efe45c6135743",
+        "0c4fea65325737c446710c96431c6923",
+        "a4428a72c3f30f04759e0c9ec9f17d9e"
       ],
-      "last_run": "2026-06-18 15:52 UTC",
+      "last_run": "2026-06-18 16:04 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1796,7 +1796,7 @@
         "Technology",
         "Sugar",
         "You",
-        "monadify —",
+        "monadify \u2014",
         "Programming Languages",
         "Docs",
         "Profiling",
@@ -1854,7 +1854,7 @@
         "Dive",
         "Been",
         "[Deep",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Creative",
         "testing",
         "concepts",
@@ -1978,7 +1978,7 @@
         "Exploring...",
         "Functor",
         "Navigating",
-        "·",
+        "\u00b7",
         "DeepWiki",
         "Does Rust Support Functional",
         "ghc",
@@ -2073,7 +2073,7 @@
         "Brinker",
         "MonadLike",
         "by",
-        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
+        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "Demystifying monads in Rust through property-based",
         "Tutorialspoint",
         "Data",
@@ -2146,7 +2146,7 @@
         "Classroom",
         "Profunctors",
         "Instances",
-        "—",
+        "\u2014",
         "What's",
         "Les",
         "2026",
@@ -2164,10 +2164,6 @@
         "Laws"
       ],
       "last_result_hashes": [
-        "e271ae43ead77b8d332bb549450e601d",
-        "5aab28d7fbd337a8668d6cbda3b0a9c1",
-        "98a11a5a90569fa1869db7245e6f4abe",
-        "aa80c4393d6db9a7227a87e5f21b2707",
         "9e468f427c81adba063b45d72c784552",
         "e1fd09973405051f9feb6f52635f3393",
         "3e3713575bf4014926a64dddce940066",
@@ -2183,9 +2179,13 @@
         "b82ed313e52a51037b2e80996b9a6a4d",
         "068a3ae8c5447ca39e2e415195bd98ba",
         "19e9a027878cd9e15d80f9af087b154c",
-        "6ac17140976f4e3a7be22d2ec701d1ce"
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "33fdffe283704837c6a578b114c82642",
+        "49aff435045c2f6352bffad7e53c1f6c",
+        "4af39f91e4589be845cd7c39aff81216",
+        "2f01f93d9c9d0f84981d5ec5ff221f2c"
       ],
-      "last_run": "2026-06-18 15:52 UTC",
+      "last_run": "2026-06-18 16:04 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2295,7 +2295,7 @@
         "Leetcode-TOP-75",
         "docsgitscrumcom",
         "TheTutorBridge",
-        "Java面试学习",
+        "Java\u9762\u8bd5\u5b66\u4e60",
         "DSA Sheet",
         "InterviewStack",
         "Need",
@@ -2688,10 +2688,6 @@
         "problemset"
       ],
       "last_result_hashes": [
-        "91b947cdb84929a43202be06d8ca3ad9",
-        "772a7fef5359270de709ea737905e471",
-        "9130b679ba352f107fe0f2646ccab1f7",
-        "143876bc0621660474126a01477b0355",
         "d6eb77479303dc4dc083a8460d7815d0",
         "81d3f6ca00caa659b47d39e7b3373c33",
         "efd4d161a70917afb5bf3c156bd6d7d7",
@@ -2707,9 +2703,13 @@
         "75ba0ef3d737f8a255ebfa8d4fd12ca3",
         "731a82709d1daaab17900c5e56730636",
         "5bee899c8c6597c7d6f6f93b9409db9c",
-        "27e49ef238d4a1b6ef252acfce87aaa7"
+        "27e49ef238d4a1b6ef252acfce87aaa7",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "814ad50168aca7691bd4e6e042f0b36b",
+        "f401f3578a305af873e8b580bcb2424e",
+        "8900f36a48596850ee5ba84a247a6c1d"
       ],
-      "last_run": "2026-06-18 15:52 UTC",
+      "last_run": "2026-06-18 16:04 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 1
     },
@@ -2882,7 +2882,7 @@
         "PEP",
         "Engineering",
         "Scalable",
-        "Internals·",
+        "Internals\u00b7",
         "vuinkcom",
         "Rise",
         "Dead",
@@ -3148,7 +3148,7 @@
         "Ownership",
         "Behind",
         "Types",
-        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
+        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
         "JIT Compiler",
         "Weekly",
         "PEP 779",
@@ -3215,9 +3215,6 @@
         "Charting"
       ],
       "last_result_hashes": [
-        "343ee2ea3c7bd5c5bb4c13c55f709fcf",
-        "bbb32fcf844e3a281c102e49f682c4c8",
-        "b3593c9f59eca4f8b6263b3a3f35c76d",
         "d2adce09b07afa8868adc1a5598d6db8",
         "fb62a5b9dc32acfe6c4f6cfe6eaa88b2",
         "f0dff370d1ccbd456d3b1ff6aea6be89",
@@ -3234,9 +3231,12 @@
         "b2cb5935f894500a50108d06a7ff5270",
         "195cc5355800be062c15e1a66ccfcacd",
         "993340ba10508d27975679f77e08cd57",
-        "80cb1ee80342b3950bba93fd2801d04f"
+        "80cb1ee80342b3950bba93fd2801d04f",
+        "473e94682528fdbcaad2d7f9bc878ae4",
+        "9b950d80d24710f2899e1b281e96098e",
+        "265111ab89ec1e2086cc516865ce3720"
       ],
-      "last_run": "2026-06-18 15:52 UTC",
+      "last_run": "2026-06-18 16:04 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
