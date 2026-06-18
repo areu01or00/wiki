@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Python Internals (How Python Works, GIL Explained) - BackendML](https://www.backendml.com/post/python-internals-how-python-works-gil-explained-XIysI2n3t) | kw: python,internals
+
 - **2026-06-18** | [Python Trends & Courses for 2026 | Future Skills Guide - upSkill](https://upskill.biz/python-trends-future-skills-courses) | kw: Python, Trends, Courses
 
 - **2026-06-18** | [Python picks up speed with a new JIT - InfoWorld](https://www.infoworld.com/article/4120292/python-picks-up-speed-with-a-new-jit.html) | kw: Python

@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Mastering](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: algorithms
+
 - **2026-06-18** | [Technical Interview Statistics for 2026: Coding Pass Rates, Hiring Funnels, and Tech Hiring Data](https://onehour.digital/blog/technical-interview-statistics) | kw: Technical, Interview, Statistics
 
 - **2026-06-18** | [8 Must-Know Simple Data Structure Problems(LeetCode)](https://medium.com/@yanmazomar19/8-must-know-data-structure-problems-for-coding-interviews-leetcode-0d79ff87949a) | kw: Must-Know Simple | src: algorithms

@@ -512,7 +512,7 @@
         "wgt20iriffr",
         "with",
         "|",
-        "—"
+        "\u2014"
       ],
       "last_result_hashes": [
         "1c8bad596beea2c5b4e336f89182a213",
@@ -536,7 +536,7 @@
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "eb9413c412274c4d419c8f0af8eb0eeb"
       ],
-      "last_run": "2026-06-18 19:47 UTC",
+      "last_run": "2026-06-18 20:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1061,8 +1061,8 @@
         "wgt20iriffr",
         "with",
         "|",
-        "·",
-        "—"
+        "\u00b7",
+        "\u2014"
       ],
       "last_result_hashes": [
         "a888bd8966b306914c973b55ba7dd171",
@@ -1086,7 +1086,7 @@
         "dde9e8d6fb49d441eb6cc93b5b9f79cb",
         "5d4ac715e54509da805ad5c64a5b6b9b"
       ],
-      "last_run": "2026-06-18 19:47 UTC",
+      "last_run": "2026-06-18 20:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1509,7 +1509,7 @@
         "Unexpected",
         "Unification-based",
         "University",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "Unosquare",
         "Web",
         "Weekly",
@@ -1600,7 +1600,7 @@
         "wgt20iriffr",
         "with",
         "|",
-        "—"
+        "\u2014"
       ],
       "last_result_hashes": [
         "a6dd493b0f1283e1e32335d78a01a24f",
@@ -1624,7 +1624,7 @@
         "8f2ae0883be29fc903163e10160e6cd9",
         "0c4fea65325737c446710c96431c6923"
       ],
-      "last_run": "2026-06-18 19:47 UTC",
+      "last_run": "2026-06-18 20:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1994,9 +1994,9 @@
         "Rust bertiqwerty",
         "Rust for infrastructure and",
         "Rust patterns",
-        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
+        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "Rust-Style",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Rust:",
         "RustWeek",
         "SDE",
@@ -2121,7 +2121,7 @@
         "monad",
         "monadic",
         "monadify",
-        "monadify —",
+        "monadify \u2014",
         "monads",
         "monads and",
         "monads tutorial",
@@ -2164,8 +2164,8 @@
         "who",
         "wrsturgeon/rsmonad",
         "|",
-        "·",
-        "—"
+        "\u00b7",
+        "\u2014"
       ],
       "last_result_hashes": [
         "6ac17140976f4e3a7be22d2ec701d1ce",
@@ -2189,7 +2189,7 @@
         "05f78a63effd3cb70fd2487248654047",
         "98a11a5a90569fa1869db7245e6f4abe"
       ],
-      "last_run": "2026-06-18 19:47 UTC",
+      "last_run": "2026-06-18 20:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2295,7 +2295,7 @@
         "Introduction",
         "JIT",
         "Java",
-        "Java面试学习",
+        "Java\u9762\u8bd5\u5b66\u4e60",
         "JimengShi/Leetcode-Data-Structures-Algorithms",
         "KING",
         "Katravalli",
@@ -2596,9 +2596,11 @@
         "Pass",
         "Rates",
         "Hiring",
-        "Funnels"
+        "Funnels",
+        "LeetCode Study Plan"
       ],
       "last_result_hashes": [
+        "752750549bafdf95a4a13b233da07ff7",
         "d14f548ebec47af0979c21ddc0cf31ca",
         "8e6c7df52d21cb8e1d1493c6e8d0efad",
         "4cd2764eeef5fd3711d498ea55e46a7b",
@@ -2617,10 +2619,9 @@
         "1520006a744a57a63bf6c03d55114a2e",
         "89930b44724eb9643d814762f9f5f7d6",
         "66794612107b02a5cf775c19c5d9b560",
-        "8900f36a48596850ee5ba84a247a6c1d",
-        "35bbf1b4a5bc390f0bf92f3f5a8b31a5"
+        "8900f36a48596850ee5ba84a247a6c1d"
       ],
-      "last_run": "2026-06-18 19:47 UTC",
+      "last_run": "2026-06-18 20:03 UTC",
       "new_sub_topics_this_run": [
         "Statistics",
         "Pass",
@@ -2729,9 +2730,9 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals·",
+        "Internals\u00b7",
         "Interpreter",
-        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
+        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
         "Interview",
         "InterviewPilot",
         "Interviews",
@@ -3033,9 +3034,11 @@
         "|",
         "Courses",
         "Skills",
-        "Skill"
+        "Skill",
+        "BackendML"
       ],
       "last_result_hashes": [
+        "541bcf52096e3877cad6e2695df8314c",
         "0a974e52e4af3da11fa0449ca19924f5",
         "e8dc89ed5a6a0a4fece02fbb751b20f2",
         "9b950d80d24710f2899e1b281e96098e",
@@ -3054,10 +3057,9 @@
         "31c9eaf813528b97383e69f1f5c543fd",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "b555ef9c87509d560632e0754a5f2098",
-        "987be4b4e32f235de1ef0bbe9c28344d",
-        "5619d756c8432e3f72922168480d96ec"
+        "987be4b4e32f235de1ef0bbe9c28344d"
       ],
-      "last_run": "2026-06-18 19:47 UTC",
+      "last_run": "2026-06-18 20:03 UTC",
       "new_sub_topics_this_run": [
         "Courses",
         "Skills",
@@ -3065,6 +3067,5 @@
       ],
       "last_new_count": 1
     }
-  },
-  "last_run": "2026-06-18 19:47 UTC"
+  }
 }
