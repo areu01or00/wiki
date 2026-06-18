@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-18** | [Gradual Typing for Effect Handlers | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3622860) | kw: Gradual, Typing, for, Effect, Handlers, | | src: type-systems
+- **2026-06-18** | [Advanced TypeScript Type System Features: Deep Dive into TypeScript 5.3's Advanced Type System Features](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features-deep-dive/) | kw: Advanced, TypeScript, Type, System, Features:, Deep | src: type-systems
+- **2026-06-18** | [The Latest on Elixir Types](https://www.elixirconf.eu/keynotes/the-latest-on-elixir-types) | kw: The, Latest, on, Elixir, Types | src: type-systems
+
 - **2026-06-18** | [Thoughts on the future of type theory in mathematics - TYPES 2026](https://emilyriehl.github.io/files/type-theory-in-math.pdf) | kw: Thoughts, TYPES | src: type-systems
 
 - **2026-06-18** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: Gradual, Typing, Across, Spectrum
