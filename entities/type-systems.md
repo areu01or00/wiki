@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [Static vs Dynamic Typing Why Static Type Systems Are Safer](https://simplifycpp.org/?id=a0784) | kw: simplifycpp
+
 
 - **2026-06-18** | [Gradual Typing for Effect Handlers | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3622860) | kw: Gradual, Typing, for, Effect, Handlers, | | src: type-systems
 - **2026-06-18** | [Advanced TypeScript Type System Features: Deep Dive into TypeScript 5.3's Advanced Type System Features](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features-deep-dive/) | kw: Advanced, TypeScript, Type, System, Features:, Deep | src: type-systems

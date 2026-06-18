@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [Complete Guide On Complexity Analysis - Data Structure and Algorithms Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/complete-guide-on-complexity-analysis/) | kw: geeksforgeeks
+- **2026-06-18** | [Exercises - Data Structures and Algorithms / spring 2026](https://dsa-spring2026.github.io/exercises/) | kw: github
+- **2026-06-18** | [Algorithms & Data Structures: From Complexity Analysis to AI](https://www.youngju.dev/blog/ai/2026-03-17-algorithms-data-structures-complete-guide.en) | kw: youngju
+- **2026-06-18** | [Complexity Theory Update Meeting The Institute of Mathematical Sciences](https://www.imsc.res.in/~meena/CT-update-meeting-Jan2026.html) | kw: res
+- **2026-06-18** | [Complexity Analysis of Data Structures and Algorithms](https://www.scholarhat.com/tutorial/datastructures/complexity-analysis-of-data-structures-and-algorithms) | kw: scholarhat
+
 - **2026-06-18** | [10+ top LeetCode patterns (2026) to ace FAANG coding interviews](https://www.educative.io/blog/coding-interview-leetcode-patterns) | kw: LeetCode, patterns, FAANG, coding, interviews | src: algorithms
 
 - **2026-06-18** | [Tech Interview Handbook - LeetCode](https://leetcode.com/problem-list/9h4lgwl2) | kw: Tech, Interview, Handbook, curated, problem

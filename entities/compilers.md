@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [Compilation à la volée — Wikipédia](https://fr.wikipedia.org/wiki/Compilation_%C3%A0_la_vol%C3%A9e) | kw: wikipedia
+- **2026-06-18** | [Redirecting to https://www.eyrolles.com/Informatique/Livre/compilateurs-9782744070372/](https://www.eyrolles.com/Informatique/Livre/compilateurs-9782744070372) | kw: eyrolles
+- **2026-06-18** | [Compilateurs : principes, techniques et outils: Avec plus de 200 exercices](https://books.google.fr/books?id=iN9TNwAACAAJ) | kw: google
+- **2026-06-18** | [33 réponses](https://www.reddit.com/r/ProgrammingLanguages/comments/12hdjdx/what_exactly_is_jit/jfohab0?tl=fr) | kw: reddit
+- **2026-06-18** | [Techniques et outils pour la compilation](https://henri-garreta.developpez.com/tutoriels/techniques-outils-compilation?page=page_1) | kw: developpez
+- **2026-06-18** | [Compilateurs - Principes, Techniques Et Outils](https://fr.shopping.rakuten.com/mfp/5218347/compilateurs-principes-techniques-et-outils-jeffrey-ullman?pid=471587) | kw: rakuten
+
 - **2026-06-18** | [Overview - Zig Programming Language](https://ziglang.org/learn/overview) | kw: ziglang.org
 - **2026-06-18** | [Type resolution redesign, with language changes to taste | Hacker News](https://news.ycombinator.com/item?id=47330836) | kw: news.ycombinator.com
 - **2026-06-18** | [Zig Type Resolution Redesign and Language Changes in 2026 - Sesame Disk](https://sesamedisk.com/zig-type-resolution-redesign-2026) | kw: sesamedisk.com
