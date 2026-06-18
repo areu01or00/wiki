@@ -511,11 +511,10 @@
         "Companion",
         "With",
         "Nerd",
-        "Level"
+        "Level",
+        "Patterns of Distributed Systems (Unmesh Joshi book)"
       ],
       "last_result_hashes": [
-        "f0867b873de5e0095075cc1e002a4368",
-        "3d924683b109e99c93d7ba785e0c7ab0",
         "d7e4053d8359b5818b4128259533ab69",
         "2d3339fbcb04e9f626d884e03958e8d3",
         "62ffed8405f0c26474dbf2c73f5f9796",
@@ -533,9 +532,11 @@
         "2ebbe3411f331c326ab1fd19aa4e50c7",
         "e9d45130824f67775300df37d0b653d5",
         "6a8023ed8f6d80dc6383b03a803b7c26",
-        "c0a80fa59c5b645b7350f3c0bbf240cb"
+        "c0a80fa59c5b645b7350f3c0bbf240cb",
+        "9710be6a10d87e52ae8fc6efca3e4a9c",
+        "670d30180bc7e9f8de8cf576a24b6fa6"
       ],
-      "last_run": "2026-06-18T17:33:36.838122+00:00",
+      "last_run": "2026-06-18T17:48:01.485972+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1084,7 +1085,7 @@
         "23259200a7be4533fe1e25b8fdeb4b83",
         "d0de062ed058a4b7bb87b9c013129190"
       ],
-      "last_run": "2026-06-18T17:33:36.838122+00:00",
+      "last_run": "2026-06-18T17:48:01.485983+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1597,10 +1598,10 @@
         "Guard",
         "demand",
         "buildout",
-        "Erasure"
+        "Erasure",
+        "Programming Languages Trends 2026"
       ],
       "last_result_hashes": [
-        "911955f45e693686bc5efe45c6135743",
         "0c4fea65325737c446710c96431c6923",
         "a4428a72c3f30f04759e0c9ec9f17d9e",
         "393c2007828b49d14ae2ce8a8bf61873",
@@ -1619,9 +1620,10 @@
         "b0b257ce43663e3177338e61f3e0e5f0",
         "4a101114e3b691c4671d64770c39c052",
         "b6b8ba1f8dbf76cf69cc53229a7fc7ab",
-        "ab7880da22541ae31f88de50cfec9bd5"
+        "ab7880da22541ae31f88de50cfec9bd5",
+        "392c44cf5c80f7b22133a45af28eb1c3"
       ],
-      "last_run": "2026-06-18T17:33:36.838122+00:00",
+      "last_run": "2026-06-18T17:48:01.485990+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2161,10 +2163,10 @@
         "Algebraic",
         "through",
         "Monad Price Prediction",
-        "Laws"
+        "Laws",
+        "Gleam Production Readiness"
       ],
       "last_result_hashes": [
-        "619445cf59810e703603ef4f268058ee",
         "992f0d745bfb6c048357417bd6e0c0a8",
         "c2fefc572a2578f6f202a147d877925b",
         "a1fd2b9212d955769e6bbfad262f2fb9",
@@ -2183,9 +2185,10 @@
         "c5bcaf01490daab7e999b17a95ee57ce",
         "c52f5174ff9b2fb18fb776e711ed0486",
         "f90ff073009eed161109951f0f328ce3",
-        "c4312bdd7b36e1d062f927f1cd4a5ef0"
+        "c4312bdd7b36e1d062f927f1cd4a5ef0",
+        "689a00817157239d49b1c6247516c551"
       ],
-      "last_run": "2026-06-18T17:33:36.838122+00:00",
+      "last_run": "2026-06-18T17:48:01.485993+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2709,7 +2712,7 @@
         "09e78648fe1b6f874711fba28cec5d03",
         "984f56b136768925908eb66b90fbf499"
       ],
-      "last_run": "2026-06-18T17:33:36.838122+00:00",
+      "last_run": "2026-06-18T17:48:01.485995+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 1
     },
@@ -3236,7 +3239,7 @@
         "7b0c583d3445b91efa0c0453e5a737c4",
         "9df3859b4715ae95cd2f1c86331d9b55"
       ],
-      "last_run": "2026-06-18T17:33:36.838122+00:00",
+      "last_run": "2026-06-18T17:48:01.485997+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }

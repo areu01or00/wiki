@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [Programming Languages Trends 2026: What Developers Need to Know - tvtter](https://tvtter.com/programming-languages-trends-2026) | kw: type-systems
+
 - **2026-06-18** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: type-systems
 - **2026-06-18** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type-systems
 - **2026-06-18** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems

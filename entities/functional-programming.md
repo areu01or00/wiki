@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Gleam Production Readiness 2026: The Year of the Type-Safe BEAM - PenChef](https://www.penchef.com/software-engineering/gleam-production-readiness-2026-type-safe-beam) | kw: functional-programming
+
 - **2026-06-18** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional-programming
 - **2026-06-18** | [Monadic Design Patterns in Haskell: Mastering Functional ...](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: functional-programming
 - **2026-06-18** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ...](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: functional-programming

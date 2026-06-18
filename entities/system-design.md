@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Patterns of Distributed Systems martinfowler.com](https://martinfowler.com/books/patterns-distributed.html) | kw: system-design
+- **2026-06-18** | [Architectural Patterns for Distributed Systems: Definition &](https://study.com/academy/lesson/video/architectural-patterns-for-distributed-systems-definition-importance.html) | kw: system-design
+
 - **2026-06-18** | [Async Work Best Practices — The Complete Guide for Remote Teams | Zlorex Blog](https://zlorex.com/blog/async-work-best-practices) | kw: system-design
 
 - **2026-06-18** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design
