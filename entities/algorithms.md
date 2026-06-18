@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-18** | [From Zero to Hero: LeetCode - Habr](https://habr.com/en/articles/716768) | kw: From,Zero,Hero | src: algorithms
+
 - **2026-06-18** | [Master DSA for Placements in 2026 - Complete Roadmap & Coding Interview Guide](https://master-dsa-roadmap.blogspot.com/2025/11/master-dsa-for-placements-in-2026.html) | kw: algorithms
 
 - **2026-06-18** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: algorithms
