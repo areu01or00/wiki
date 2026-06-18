@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Python 3.13 No-GIL: What You Need to Know - DEV Community](https://dev.to/zackch/python-313-no-gil-what-you-need-to-know-352i) | kw: python,internals,no-gil,PEP-703
+
 - **2026-06-18** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python,internals | src: python-internals
 - **2026-06-18** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python,internals | src: python-internals
 - **2026-06-18** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques/) | kw: python,internals | src: python-internals
