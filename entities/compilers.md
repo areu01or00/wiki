@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [A Low-Level Virtual Machine Just-In-Time Prototype for Running an Energy-Saving Hardware-Aware Mapping Algorithm](https://www.mdpi.com/1996-1073/16/19/6781) | kw: Low-Level,Virtual,Machine,Just-In-Time | src: compilers
+
 - **2026-06-18** | [BuildingAJIT1.rst - compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers | src: compilers
 - **2026-06-18** | [JIT-Optimization-Engine: LLVM-based JIT compilation](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: compilers | src: compilers
 - **2026-06-18** | [Best Free and Open-Source Compilers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: compilers | src: compilers
