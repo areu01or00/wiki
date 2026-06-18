@@ -515,6 +515,10 @@
         "Patterns of Distributed Systems (Unmesh Joshi book)"
       ],
       "last_result_hashes": [
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "697337f881dc40cc977774b3475bbe3d",
+        "056b14e78a14af65a4d0ae47a4e64443",
+        "729c2ff54afb3063182d60de7d6aef1c",
         "d7e4053d8359b5818b4128259533ab69",
         "2d3339fbcb04e9f626d884e03958e8d3",
         "62ffed8405f0c26474dbf2c73f5f9796",
@@ -530,13 +534,9 @@
         "b920b6b629500beca9e76bb5ef18e70b",
         "d88d3de8f0e60fb55d23ee13a71ca225",
         "2ebbe3411f331c326ab1fd19aa4e50c7",
-        "e9d45130824f67775300df37d0b653d5",
-        "6a8023ed8f6d80dc6383b03a803b7c26",
-        "c0a80fa59c5b645b7350f3c0bbf240cb",
-        "9710be6a10d87e52ae8fc6efca3e4a9c",
-        "670d30180bc7e9f8de8cf576a24b6fa6"
+        "e9d45130824f67775300df37d0b653d5"
       ],
-      "last_run": "2026-06-18T17:48:01.485972+00:00",
+      "last_run": "2026-06-18T18:02:32.681999+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1064,6 +1064,10 @@
         "cloudsealed/JIT-Optimization-Engine"
       ],
       "last_result_hashes": [
+        "14bec6c679203be13206205a9edb80d7",
+        "7ed9cf6296b93bcd1574511795e44641",
+        "9549ee3df2b4c698c35929d6eea7600f",
+        "28c00f36e33bcbce61f6bf1ea1cb55a3",
         "dde9e8d6fb49d441eb6cc93b5b9f79cb",
         "5d4ac715e54509da805ad5c64a5b6b9b",
         "a14bbc9e2956abab65cb54c410fb7b58",
@@ -1079,13 +1083,9 @@
         "9f5c4c8fcbfa8c15cf30a2d1f125a94f",
         "ac224ecee6fc1b4cc9ba1f13c5b1a941",
         "377ce017f59479cac444aa255f43f295",
-        "f9a020f5e9c084036d48a40845afdc76",
-        "ae427aaa277c67469832326760f5569f",
-        "6946105040dfdfaf419048c33fb9eaa3",
-        "23259200a7be4533fe1e25b8fdeb4b83",
-        "d0de062ed058a4b7bb87b9c013129190"
+        "f9a020f5e9c084036d48a40845afdc76"
       ],
-      "last_run": "2026-06-18T17:48:01.485983+00:00",
+      "last_run": "2026-06-18T18:02:32.681999+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1602,6 +1602,12 @@
         "Programming Languages Trends 2026"
       ],
       "last_result_hashes": [
+        "b026ef92bf282c4d85de696983ed4a8c",
+        "ed513f6e12395c8fbbf5e5415449aabd",
+        "1053fa1e5d3c47835cc3a5ecc1a46c52",
+        "37ffd58453521e02c05e593eedaf102e",
+        "af223a95086c18b3faf2190209c2eead",
+        "8f2ae0883be29fc903163e10160e6cd9",
         "0c4fea65325737c446710c96431c6923",
         "a4428a72c3f30f04759e0c9ec9f17d9e",
         "393c2007828b49d14ae2ce8a8bf61873",
@@ -1615,15 +1621,9 @@
         "aa2f3be76632e120f0f252da09afe144",
         "2d13fe26b314d5a10c38e777d8ef3023",
         "6aa03ce14986ae5c0a51f1516fdffbbf",
-        "48fd8be4f27be5a2d7d4cceecf69b921",
-        "a62041fbd03c36044c10691af16fa6ad",
-        "b0b257ce43663e3177338e61f3e0e5f0",
-        "4a101114e3b691c4671d64770c39c052",
-        "b6b8ba1f8dbf76cf69cc53229a7fc7ab",
-        "ab7880da22541ae31f88de50cfec9bd5",
-        "392c44cf5c80f7b22133a45af28eb1c3"
+        "48fd8be4f27be5a2d7d4cceecf69b921"
       ],
-      "last_run": "2026-06-18T17:48:01.485990+00:00",
+      "last_run": "2026-06-18T18:02:32.681999+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2167,6 +2167,14 @@
         "Gleam Production Readiness"
       ],
       "last_result_hashes": [
+        "109d62c2eca3478c554483a2ab61e6d3",
+        "ce1296b7730544a3db978dc13e7a351f",
+        "c35700ff9f0773d69682721949231b06",
+        "8ebdd868e3be019898b9d36cd949934f",
+        "a3493ff266b17fc6ca7d44bed6e59213",
+        "1b8134d5c69d876242e063aa5907158b",
+        "05f78a63effd3cb70fd2487248654047",
+        "98a11a5a90569fa1869db7245e6f4abe",
         "992f0d745bfb6c048357417bd6e0c0a8",
         "c2fefc572a2578f6f202a147d877925b",
         "a1fd2b9212d955769e6bbfad262f2fb9",
@@ -2178,17 +2186,9 @@
         "a4a6f473897c5366d9108f89e1e48ad0",
         "c012a57fa63492860f64045db3528e7a",
         "2961383a15f6a824385253fb2907b90e",
-        "449f1936d11b3408b5111b8fbfc6e205",
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "75c3ddc6fe12f2d260fca79e5d0a7c46",
-        "ce5f54fc6f710fe0ee8b7e9d78f28c76",
-        "c5bcaf01490daab7e999b17a95ee57ce",
-        "c52f5174ff9b2fb18fb776e711ed0486",
-        "f90ff073009eed161109951f0f328ce3",
-        "c4312bdd7b36e1d062f927f1cd4a5ef0",
-        "689a00817157239d49b1c6247516c551"
+        "449f1936d11b3408b5111b8fbfc6e205"
       ],
-      "last_run": "2026-06-18T17:48:01.485993+00:00",
+      "last_run": "2026-06-18T18:02:32.681999+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2691,6 +2691,13 @@
         "problemset"
       ],
       "last_result_hashes": [
+        "ddd1275f7e03da25ceaeac8855bcfd64",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "296d4b053fc94138c485006b80344574",
+        "1520006a744a57a63bf6c03d55114a2e",
+        "89930b44724eb9643d814762f9f5f7d6",
+        "66794612107b02a5cf775c19c5d9b560",
+        "8900f36a48596850ee5ba84a247a6c1d",
         "b374c779c101dd010d1f2ed0450afdee",
         "65618e6cea3a741099358dc8d5dfbfef",
         "8276ba75599c036515c82bb80a4be39e",
@@ -2703,16 +2710,9 @@
         "37b18b3ee5841dc8d78ef02edf927dc9",
         "e94fe577df5985da33f790bb7a44e3f4",
         "7d194ad3d9a4f9a87cd4de35548c005c",
-        "00a02315b04f8e95fb7ced3e13f75bfc",
-        "a72a20f0713cd5feeef913e54a998932",
-        "91b947cdb84929a43202be06d8ca3ad9",
-        "54517d175ea6da3e409b11f8059a3052",
-        "32ee21e09bb816e8df8a2db192f31d65",
-        "544d7d110803052b93a7e0f05f49b7d5",
-        "09e78648fe1b6f874711fba28cec5d03",
-        "984f56b136768925908eb66b90fbf499"
+        "00a02315b04f8e95fb7ced3e13f75bfc"
       ],
-      "last_run": "2026-06-18T17:48:01.485995+00:00",
+      "last_run": "2026-06-18T18:02:32.681999+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 1
     },
@@ -3218,6 +3218,13 @@
         "Charting"
       ],
       "last_result_hashes": [
+        "2b623ea4a3260e5ce9e59df5edc24035",
+        "31c9eaf813528b97383e69f1f5c543fd",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "b555ef9c87509d560632e0754a5f2098",
+        "987be4b4e32f235de1ef0bbe9c28344d",
+        "b885085f2cc3db86e549b7ad001012b6",
+        "7bad58a5ed5bd081c3150d79c080b0b7",
         "195cc5355800be062c15e1a66ccfcacd",
         "993340ba10508d27975679f77e08cd57",
         "80cb1ee80342b3950bba93fd2801d04f",
@@ -3230,16 +3237,9 @@
         "9132d1ca01d195338d05eb556f7164be",
         "4cd24649bb264af960eb0db466e7076c",
         "b3593c9f59eca4f8b6263b3a3f35c76d",
-        "0a974e52e4af3da11fa0449ca19924f5",
-        "e5de457dfb901c53485a52be22a77e07",
-        "a1001fa1d16e18cf732ae3f80c77fe76",
-        "9c4be3c13ea46d13c5ceadd06919b34d",
-        "323f5522cd079b66f3b0b35a0bdb4235",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "9df3859b4715ae95cd2f1c86331d9b55"
+        "0a974e52e4af3da11fa0449ca19924f5"
       ],
-      "last_run": "2026-06-18T17:48:01.485997+00:00",
+      "last_run": "2026-06-18T18:02:32.681999+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }

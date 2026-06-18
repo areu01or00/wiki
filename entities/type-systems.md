@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [Robust Dynamic Embedding for Gradual Typing | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3747507) | kw: type-systems
+
 - **2026-06-18** | [Programming Languages Trends 2026: What Developers Need to Know - tvtter](https://tvtter.com/programming-languages-trends-2026) | kw: type-systems
 
 - **2026-06-18** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: type-systems
