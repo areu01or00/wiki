@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [Compiler 20. Modern Compiler Development and Applications — Chaos and Order](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: Compiler
+
 - **2026-06-18** | [Enhancing Compiler Design for Machine Learning Workflows with MLIR](https://ijsra.net/sites/default/files/fulltext_pdf/IJSRA-2025-2463.pdf) | kw: Enhancing
 - **2026-06-18** | [LLVM - MLIR Project](https://mlir.llvm.org/) | kw: LLVM
 - **2026-06-18** | [MLIR Primer: A Compiler Infrastructure for the End of Moore's Law](https://research.google/pubs/mlir-primer-a-compiler-infrastructure-for-the-end-of-moores-law) | kw: MLIR
