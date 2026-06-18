@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Patterns of Distributed Systems](https://gotopia.tech/books/84/patterns-of-distributed-systems) | kw: Patterns, Distributed, Systems | src: system-design
+
 - **2026-06-18** | [Software Architecture Trends 2026: Edge, Cloud-Native & Web3](https://www.coderio.com/blog/biz-tech/the-future-of-edge-computing) | kw: software, architecture, trends | src: system-design
 
 - **2026-06-18** | [Top 10 Software Architecture & Design Patterns of 2026](https://tecnovy.com/en/top-10-software-architecture-patterns) | kw: software, architecture, design | src: system-design
