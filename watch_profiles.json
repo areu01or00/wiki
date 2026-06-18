@@ -249,24 +249,9 @@
         "e9d45130824f67775300df37d0b653d5",
         "2ebbe3411f331c326ab1fd19aa4e50c7"
       ],
-      "last_run": "2026-06-18 23:06 UTC",
-      "new_sub_topics_this_run": [
-        "Now",
-        "Part",
-        "Guide",
-        "Scaling",
-        "Queues",
-        "Scalable",
-        "Must",
-        "What",
-        "Microservices",
-        "System",
-        "Series",
-        "Load",
-        "Message",
-        "Know"
-      ],
-      "last_new_count": 8
+      "last_run": "2026-06-18 23:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -520,27 +505,9 @@
         "1480847529e160848da4aee3f40eb00a",
         "bbbc8ef4ec78630cae3e49219b742618"
       ],
-      "last_run": "2026-06-18 23:06 UTC",
-      "new_sub_topics_this_run": [
-        "LLVM",
-        "Monomorphization",
-        "The",
-        "Rust",
-        "Open-Source",
-        "Mitigation",
-        "Strategies",
-        "compiler-course-2026",
-        "Modern",
-        "JIT",
-        "llvm",
-        "Maglev",
-        "and",
-        "docs",
-        "Ongoing",
-        "tutorial",
-        "TurboFan"
-      ],
-      "last_new_count": 7
+      "last_run": "2026-06-18 23:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -781,15 +748,9 @@
         "911955f45e693686bc5efe45c6135743",
         "a62041fbd03c36044c10691af16fa6ad"
       ],
-      "last_run": "2026-06-18 23:06 UTC",
-      "new_sub_topics_this_run": [
-        "Unification-based",
-        "gradual-typing",
-        "with",
-        "Research",
-        "Programming"
-      ],
-      "last_new_count": 3
+      "last_run": "2026-06-18 23:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1049,33 +1010,9 @@
         "1e23347071bace94cd96516373fa7b4d",
         "052eb93747dc60344706965306990579"
       ],
-      "last_run": "2026-06-18 23:06 UTC",
-      "new_sub_topics_this_run": [
-        "Traits",
-        "laws",
-        "Rust",
-        "with",
-        "nsu-syspro",
-        "haskell-monads-2026",
-        "Monads",
-        "monads",
-        "programming",
-        "Explanation",
-        "System",
-        "Why",
-        "pbv",
-        "haskell",
-        "for",
-        "Stack",
-        "and",
-        "Overflow",
-        "Generics",
-        "Type",
-        "tapf-monad-examples",
-        "Its",
-        "vs."
-      ],
-      "last_new_count": 8
+      "last_run": "2026-06-18 23:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1320,20 +1257,9 @@
         "91b947cdb84929a43202be06d8ca3ad9",
         "ba4b0cdbecfd0bb24b772e378610b88a"
       ],
-      "last_run": "2026-06-18 23:06 UTC",
-      "new_sub_topics_this_run": [
-        "Grinding",
-        "Start",
-        "Structure",
-        "Study",
-        "Roadmap",
-        "problemset",
-        "for",
-        "and",
-        "Stop",
-        "Top"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-18 23:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1574,18 +1500,10 @@
         "e5de457dfb901c53485a52be22a77e07",
         "4cd24649bb264af960eb0db466e7076c"
       ],
-      "last_run": "2026-06-18 23:06 UTC",
-      "new_sub_topics_this_run": [
-        "The",
-        "Why",
-        "Runs",
-        "Techniques",
-        "the",
-        "Profiling",
-        "and"
-      ],
-      "last_new_count": 5
+      "last_run": "2026-06-18 23:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     }
   },
-  "last_run": "2026-06-18 23:06 UTC"
+  "last_run": "2026-06-18 23:17 UTC"
 }
