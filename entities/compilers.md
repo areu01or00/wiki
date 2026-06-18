@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [BuildingAJIT1.rst - compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers | src: compilers
+- **2026-06-18** | [JIT-Optimization-Engine: LLVM-based JIT compilation](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: compilers | src: compilers
+- **2026-06-18** | [Best Free and Open-Source Compilers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: compilers | src: compilers
+- **2026-06-18** | [Compilers and Modern Language Runtimes: LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers | src: compilers
+- **2026-06-18** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: compilers | src: compilers
+- **2026-06-18** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers | src: compilers
+
 - **2026-06-18** | [Compiler 20. Modern Compiler Development and Applications — Chaos and Order](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: Compiler
 
 - **2026-06-18** | [Enhancing Compiler Design for Machine Learning Workflows with MLIR](https://ijsra.net/sites/default/files/fulltext_pdf/IJSRA-2025-2463.pdf) | kw: Enhancing

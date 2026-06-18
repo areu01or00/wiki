@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python,internals | src: python-internals
+- **2026-06-18** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: python,internals | src: python-internals
+- **2026-06-18** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques/) | kw: python,internals | src: python-internals
+- **2026-06-18** | [Python Internals: Memory Management and the GIL - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python,internals | src: python-internals
+- **2026-06-18** | [Memory Management and GIL: Python Guide 2026 - Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python,internals | src: python-internals
+- **2026-06-18** | [The Future of Python Internals: Exploring GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: python,internals | src: python-internals
+
 - **2026-06-18** | [Python Internals (How Python Works, GIL Explained) - BackendML](https://www.backendml.com/post/python-internals-how-python-works-gil-explained-XIysI2n3t) | kw: python,internals
 
 - **2026-06-18** | [Python Trends & Courses for 2026 | Future Skills Guide - upSkill](https://upskill.biz/python-trends-future-skills-courses) | kw: Python, Trends, Courses

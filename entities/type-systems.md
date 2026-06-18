@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [gradual-typing - Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: type,systems | src: type-systems
+- **2026-06-18** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: type,systems | src: type-systems
+- **2026-06-18** | [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp) | kw: type,systems | src: type-systems
+- **2026-06-18** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type,systems | src: type-systems
+- **2026-06-18** | [Gradual Typing in Type Theory - numberanalytics](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type,systems | src: type-systems
+- **2026-06-18** | [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf) | kw: type,systems | src: type-systems
+- **2026-06-18** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: type,systems | src: type-systems
+- **2026-06-18** | [Gradual Typing - Language Design and Implementation | ANU](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: type,systems | src: type-systems
+
 - **2026-06-18** | [Programming Languages Trends 2026: What Developers Need to Know](https://cpon-navi.com/programming-languages-trends-2026/) | kw: Programming
 
 - **2026-06-18** | [Robust Dynamic Embedding for Gradual Typing | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3747507) | kw: type-systems

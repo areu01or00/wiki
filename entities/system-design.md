@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Patterns of Distributed Systems](https://martinfowler.com/books/patterns-distributed.html) | kw: system,design | src: system-design
+- **2026-06-18** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: system,design | src: system-design
+- **2026-06-18** | [Distributed Systems Best Practices 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system,design | src: system-design
+- **2026-06-18** | [The Future of Distributed Systems - techhoff](https://techhoff.net/the-future-of-distributed-systems) | kw: system,design | src: system-design
+- **2026-06-18** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: system,design | src: system-design
+- **2026-06-18** | [Patterns of Distributed Systems - research.tedneward.com](https://research.tedneward.com/patterns/patterns-of-distributed-systems/index.html) | kw: system,design | src: system-design
+- **2026-06-18** | [Architectural Patterns for Distributed Systems: Definition](https://study.com/academy/lesson/video/architectural-patterns-for-distributed-systems-definition-importance.html) | kw: system,design | src: system-design
+
 - **2026-06-18** | [The Evolved Edge: Market Landscape of Distributed Computing Infrastructure in 2026](https://omdia.tech.informa.com/om143585/the-evolved-edge-market-landscape-of-distributed-computing-infrastructure-in-2026) | kw: The,Evolved,Edge,Market,Landscape | src: system-design
 
 - **2026-06-18** | [Patterns of Distributed Systems martinfowler.com](https://martinfowler.com/books/patterns-distributed.html) | kw: system-design

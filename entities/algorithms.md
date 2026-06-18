@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [NeetCode - Coding Interview Prep](https://neetcode.io/) | kw: algorithms | src: algorithms
+- **2026-06-18** | [Best DSA Sheet 2026 - NamasteDev](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms | src: algorithms
+- **2026-06-18** | [Leetcode Algorithm Coach Complete Guide for 2026](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: algorithms | src: algorithms
+- **2026-06-18** | [LeetCode Interview Crash Course: Data Structures and Algorithms](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: algorithms | src: algorithms
+- **2026-06-18** | [Top 100+ Data Structure Interview Questions and Answers 2026](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: algorithms | src: algorithms
+- **2026-06-18** | [LeetCode Questions for TCS 2026: 50 Solved Problems](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: algorithms | src: algorithms
+- **2026-06-18** | [Data Structures Interview Questions: Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: algorithms | src: algorithms
+
 - **2026-06-18** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Mastering](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: algorithms
 
 - **2026-06-18** | [Technical Interview Statistics for 2026: Coding Pass Rates, Hiring Funnels, and Tech Hiring Data](https://onehour.digital/blog/technical-interview-statistics) | kw: Technical, Interview, Statistics

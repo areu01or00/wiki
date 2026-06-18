@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Rust vs Haskell - Medium](https://medium.com/rustaceans/rust-vs-haskell-22d581f2686d) | kw: functional,programming | src: functional-programming
+- **2026-06-18** | [Functional Programming in 2026: Haskell vs Gleam vs Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional,programming | src: functional-programming
+- **2026-06-18** | [What is a Monad (in Rust)?](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: functional,programming | src: functional-programming
+- **2026-06-18** | [Rust: Haskell but more imperative? - Catalin's blog](https://catalin-tech.com/haskell-rust) | kw: functional,programming | src: functional-programming
+- **2026-06-18** | [Haskell Interlude #83: POPL 2026 Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: functional,programming | src: functional-programming
+- **2026-06-18** | [Rust: Functional Programming and Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: functional,programming | src: functional-programming
+- **2026-06-18** | [monadic - Rust crate on Docs.rs](https://docs.rs/monadic/latest/monadic) | kw: functional,programming | src: functional-programming
+- **2026-06-18** | [The Practical Value of Functional Programming: Monad, Functor, Pure Functions](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional,programming | src: functional-programming
+
 - **2026-06-18** | [Category theory/Monads - HaskellWiki](https://www.haskell.org/haskellwiki/Category_theory/Monads) | kw: Category
 - **2026-06-18** | [A Monad is just a Monoid in the Category of Endofunctors - Let's actually unravel this](https://medium.com/@felix.kuehl/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-lets-actually-unravel-this-f5d4b7dbe5d6) | kw: Monad
 
