@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: Gradual, Typing, Across, Spectrum
+- **2026-06-18** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type, Annotations
+
 - **2026-06-18** | [2026 Type Report - PRINT Magazine](https://www.printmag.com/typography/print-type-report-2026) | kw: 2026, Type
 
 - **2026-06-18** | [Putting Gradual Types to Work](https://par.nsf.gov/servlets/purl/10315909) | kw: Work

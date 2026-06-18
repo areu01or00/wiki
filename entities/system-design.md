@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Bold, Predictions, Distributed, Systems
+- **2026-06-18** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures, Microservices
+
 - **2026-06-18** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now/) | kw: Latest Trends in
 
 

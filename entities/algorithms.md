@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ...](https://medium.com/%40katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Roadmap, Data
+- **2026-06-18** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap
+
 - **2026-06-18** | [DSA Interview Topics & Data Structures Guide for 2026](https://content.techgig.com/career-advice/data-structures-interview-guide-internship-fresher-2026/articleshow/126670649.cms) | kw: DSA, Interview
 
 

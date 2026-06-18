@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory, Management
+- **2026-06-18** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026? | Medium](https://medium.com/%40Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: Global, Interpreter, Lock, GIL
+
 - **2026-06-18** | [Understanding Python GIL - MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: Python,GIL
 
 

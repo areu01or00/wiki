@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: Haskell, Rust, Comparison
+- **2026-06-18** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ...](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell, Interlude, POPL, Links
+- **2026-06-18** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Finest, Haskell
+
 - **2026-06-18** | [Monad Price Prediction 2026: MON Climbs on TVL Growth](https://www.openpr.com/news/4466665/monad-price-prediction-2026-mon-climbs-on-tvl-growth-while) | kw: Monad, Price
 
 
