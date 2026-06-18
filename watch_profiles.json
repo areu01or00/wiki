@@ -502,14 +502,6 @@
         "Resilience"
       ],
       "last_result_hashes": [
-        "138a5f5429696bde556b67d915262c48",
-        "adebe5c4b2c00a84488d6606d0e0be83",
-        "54d56919015126f3fad6a89e4fb01edc",
-        "3d924683b109e99c93d7ba785e0c7ab0",
-        "e9d45130824f67775300df37d0b653d5",
-        "bcfd71f53ab1ff9b1bbb906880b2771d",
-        "2d3339fbcb04e9f626d884e03958e8d3",
-        "a3c1c2b6d55ff083812e1ea086382dbd",
         "697337f881dc40cc977774b3475bbe3d",
         "4a92b9accf7e00c9835483bf78a78624",
         "f0867b873de5e0095075cc1e002a4368",
@@ -521,9 +513,17 @@
         "70c411feb51eb6a46c277d953d6d0a03",
         "92d071cfe790dbd36f457c42356f1ce0",
         "6fe9880853103e8782a6653a46dc9a3c",
-        "729c2ff54afb3063182d60de7d6aef1c"
+        "729c2ff54afb3063182d60de7d6aef1c",
+        "729c2ff54afb3063182d60de7d6aef1c",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "46a56982536c8a4f9801b7d471165b39",
+        "d7e4053d8359b5818b4128259533ab69",
+        "7a43fcfcde6a6e1ad6d40ccc6f416748",
+        "9ba46483364adb11b22fcfbd9fe2e4d2",
+        "aaaf9550e5e27d5469ea0edd84372b77",
+        "89a56d75eb44a5b6b6e7751656a45c91"
       ],
-      "last_run": "2026-06-18 13:51 UTC",
+      "last_run": "2026-06-18 14:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1048,14 +1048,6 @@
         "Chapter"
       ],
       "last_result_hashes": [
-        "8942f8f62c1d79b46c1bae96af12e488",
-        "4a4e0127b12cfd2d476b5aaa44376f2d",
-        "d01b8581e83b9ff11c5a2a91a595859e",
-        "ad224992b3d43b614903c5a768d8f604",
-        "29c58e4329f73439d67a5879c9494a5d",
-        "d7e5f5a8c6456f44ba8a948008f8ec7a",
-        "b86eb07f5a984fccae1bb38c4d48f846",
-        "95d039a87ff19238e99d0f66eb8fce0e",
         "84ac896e5e54274a8ab008433692d205",
         "c08d3b7c7586365ae6c7933da9d754c2",
         "2265c9a5197acdb8919f97d897b53b66",
@@ -1067,9 +1059,17 @@
         "f59aecd9d2bb1c9a8e2250bf412480f0",
         "381c5829c4542d830b4e98667478e845",
         "17ed08fe6778ce4ef2c1a88ba23596e9",
-        "c4af8481d39e04abd0add84cf5fe51e1"
+        "c4af8481d39e04abd0add84cf5fe51e1",
+        "14bec6c679203be13206205a9edb80d7",
+        "7ed9cf6296b93bcd1574511795e44641",
+        "6965a4c3581fb1ec2539b87936dda826",
+        "d0de062ed058a4b7bb87b9c013129190",
+        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
+        "d6b1d0b195a3733a394b342cca13ee0d",
+        "b86eb07f5a984fccae1bb38c4d48f846",
+        "3ba104ecc03da87f45ee61d5db32136d"
       ],
-      "last_run": "2026-06-18 13:51 UTC",
+      "last_run": "2026-06-18 14:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1566,17 +1566,10 @@
         "2026-06-04",
         "(2026)",
         "through",
-        "2026 Type Report"
+        "2026 Type Report",
+        "Thoughts"
       ],
       "last_result_hashes": [
-        "9696d6348e5a07ef42a404fa3fb8f89c",
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "2b077fcefb9f16574c355c5cae07ce7d",
-        "a3bff6024fbb28890c700733eef813fa",
-        "a698afacbd0c1bda0a06af9c229fb63f",
-        "34883a3db51d530a697c03a1e9c8b798",
-        "2ca01bab24411da446a0b51061dcc18f",
-        "bca887779c4d30860ee265ce67393aa0",
         "81dfcf34789faee98d8bd75f9013dd4c",
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "c1b667b4c83c7bf89c7b8724c13c2a14",
@@ -1588,9 +1581,17 @@
         "deca5e7373216ca874ed5b7b942ce58a",
         "0c4fea65325737c446710c96431c6923",
         "f333bd41608e9168a9593cda75a5d292",
-        "2e8b535bcff62b8c25ad4f2ca77fbe40"
+        "2e8b535bcff62b8c25ad4f2ca77fbe40",
+        "393c2007828b49d14ae2ce8a8bf61873",
+        "910e2c59d9371fe122f2a85a11011293",
+        "05e87cbef36cd8edbadc65c13cd2b4af",
+        "7f9d9d17e1451e3ee24574749b4b94d2",
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "d45e5d8bb59e83de2d5bd88d21810f4d",
+        "86f4b4845c551735eb358d29c8bb5166",
+        "9a3ca8ef0be6bd5ed1e25f6590c663f6"
       ],
-      "last_run": "2026-06-18 13:51 UTC",
+      "last_run": "2026-06-18 14:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2132,14 +2133,6 @@
         "Monad Price Prediction"
       ],
       "last_result_hashes": [
-        "ca2e7b8612001e04b8f58ca9ffbae973",
-        "a5d1a103a14368a490cc7f1446b8f725",
-        "de338f294aa41fec4c8d42519b5ab06d",
-        "823816519d57105a05e4bfb25b94cd53",
-        "ce1296b7730544a3db978dc13e7a351f",
-        "9faa7cf534e52ea65424258c0c6c7995",
-        "79cd05ad2ea3b4a8f88864da5ba58578",
-        "449f1936d11b3408b5111b8fbfc6e205",
         "c48bd94b9bb41d49fae5f2f00a69a240",
         "5aab28d7fbd337a8668d6cbda3b0a9c1",
         "619445cf59810e703603ef4f268058ee",
@@ -2151,9 +2144,17 @@
         "32b7895f5a363cbf340e57c75779aedd",
         "c4f58f1c1a6ca1ac94cd413f2a9ae3d7",
         "c2fefc572a2578f6f202a147d877925b",
-        "687171a5db4daed91bdc3e6a4a3773a1"
+        "687171a5db4daed91bdc3e6a4a3773a1",
+        "deadd735fa1a22259663f51e49c128bc",
+        "94a26269fce6d4cab82e390dea71cd77",
+        "f7d6e54657dae3c7eb9960e45355a61b",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "507d0954b1c28a4ea253d1bfcfbd1b35",
+        "c2fefc572a2578f6f202a147d877925b",
+        "c52f5174ff9b2fb18fb776e711ed0486",
+        "c5bcaf01490daab7e999b17a95ee57ce"
       ],
-      "last_run": "2026-06-18 13:51 UTC",
+      "last_run": "2026-06-18 14:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2653,14 +2654,6 @@
         "ShadeCoder"
       ],
       "last_result_hashes": [
-        "f59923f2aa84310f9653bbfa9e1802a4",
-        "37b18b3ee5841dc8d78ef02edf927dc9",
-        "dc74d6f22681f0bd579aa2f5fc302854",
-        "fa2e527cdd11acb8168cdbeff3eba418",
-        "cb771d1b262c915d29d009eda7c1c98e",
-        "da5083fdfeed3f31c1c8eb2ec1f072e3",
-        "b374c779c101dd010d1f2ed0450afdee",
-        "9e4033bb9e7452347f8abd446ed96393",
         "7d194ad3d9a4f9a87cd4de35548c005c",
         "8b3a80ae022167a98409b08c2dfb8694",
         "7e9fdd8c2ffc71a23e29276c3701990a",
@@ -2672,9 +2665,17 @@
         "f401f3578a305af873e8b580bcb2424e",
         "8900f36a48596850ee5ba84a247a6c1d",
         "cfb272c208d38aadb37f5b160b157dc5",
-        "3a5aa4dc7a08cf53617d8bc45fcdd95d"
+        "3a5aa4dc7a08cf53617d8bc45fcdd95d",
+        "7d194ad3d9a4f9a87cd4de35548c005c",
+        "544d7d110803052b93a7e0f05f49b7d5",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "8e00f7d78d79009ecc1474da3255f3a8",
+        "b374c779c101dd010d1f2ed0450afdee",
+        "8900f36a48596850ee5ba84a247a6c1d",
+        "a72a20f0713cd5feeef913e54a998932",
+        "91b947cdb84929a43202be06d8ca3ad9"
       ],
-      "last_run": "2026-06-18 13:51 UTC",
+      "last_run": "2026-06-18 14:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 1
     },
@@ -3180,14 +3181,6 @@
         "Charting"
       ],
       "last_result_hashes": [
-        "b3593c9f59eca4f8b6263b3a3f35c76d",
-        "beaef31893811bf93a7c49c5427531ec",
-        "b2cb5935f894500a50108d06a7ff5270",
-        "993340ba10508d27975679f77e08cd57",
-        "80cb1ee80342b3950bba93fd2801d04f",
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "27f248b038a95d99de17aaffdab3c8db",
-        "58d44d74fa5754fa678242bfb8a378ed",
         "3006637548d18ceb70f45867121eb2a4",
         "9a16abe455aad8976504790293f8762a",
         "682c949b49e3733b73d17af369faa481",
@@ -3199,9 +3192,17 @@
         "9132d1ca01d195338d05eb556f7164be",
         "1f1d91231f6ca4651fac2ff9d7e17658",
         "265111ab89ec1e2086cc516865ce3720",
-        "9b950d80d24710f2899e1b281e96098e"
+        "9b950d80d24710f2899e1b281e96098e",
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "b892d3268af415a5d0c10b3cc6cd89bf",
+        "c48d2b318765bfab803a1920ef306d0a",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "7b0c583d3445b91efa0c0453e5a737c4",
+        "7b4d33a48fc204e0cb25e4f1266c7297",
+        "03e9423b802e0456d3fe98220b76ea3a",
+        "343ee2ea3c7bd5c5bb4c13c55f709fcf"
       ],
-      "last_run": "2026-06-18 13:51 UTC",
+      "last_run": "2026-06-18 14:03 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
