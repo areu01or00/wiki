@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Memory Management and tracemalloc Improvements 2026 - PyInns](https://pyinns.com/python/advanced-python-features/memory-management-and-tracemalloc-improvements-2026) | kw: Management, and, Python | source: python-internals
+
 - **2026-06-18** | [Python 3.13 Free-Threading: Is the GIL Finally Gone? - Dev Note](https://devstarsj.github.io/2026/03/12/python-313-free-threading-gil-removed) | kw: Python, Free-Threading, GIL, Finally | src: python-internals
 - **2026-06-18** | [Memory Management in 2026: Tech's Evolving Landscape - App Performance Lab](https://appperformancelab.com/memory-management-in-2026-techs-evolving-landscape) | kw: Memory, Management, Tech, Evolving | src: python-internals
 
