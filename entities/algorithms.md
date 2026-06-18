@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [8 Must-Know Simple Data Structure Problems(LeetCode)](https://medium.com/@yanmazomar19/8-must-know-data-structure-problems-for-coding-interviews-leetcode-0d79ff87949a) | kw: Must-Know Simple | src: algorithms
+
 - **2026-06-18** | [Competitive Programming Resources - Kunal Kushwaha](https://github.com/kunal-kushwaha/Competitive-Programming-Resources) | kw: Competitive
 - **2026-06-18** | [Competitive Programming Resources - CS at Purdue](https://www.cs.purdue.edu/homes/ninghui/courses/cp_resources.html) | kw: Competitive
 - **2026-06-18** | [All resources to learn competitive programming - Codeforces](https://codeforces.com/blog/entry/111622) | kw: Codeforces
