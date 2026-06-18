@@ -1,6 +1,7 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Top 10 Software Architecture & Design Patterns of 2026](https://tecnovy.com/en/top-10-software-architecture-patterns) | kw: software, architecture, design | src: system-design
 - **2026-06-18** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026 · Dev Note](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: distributed, systems, patterns | src: system-design
 - **2026-06-18** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now - TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: latest, trends, distributed | src: system-design
 - **2026-06-18** | [Latest Trends in Distributed Systems (2026) - TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: latest, trends, distributed | src: system-design
