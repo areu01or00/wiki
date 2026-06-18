@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [What is a Monad (in Rust)?](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: monad
+- **2026-06-18** | [monadify - Rust utility](https://lib.rs/crates/monadify) | kw: monadify
+- **2026-06-18** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monad
+- **2026-06-18** | [Monadic Design Patterns in Haskell](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: monadic
+- **2026-06-18** | [Demystifying monads in Rust through property-based testing (sunshowers)](https://sunshowers.io/posts/monads-through-pbt) | kw: monad
+- **2026-06-18** | [Understanding Monads (Nick Hu)](https://nickx.hu/Monads.pdf) | kw: monad
+- **2026-06-18** | [Functional Programming in 2026: Haskell vs Gleam vs Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: programming
+- **2026-06-18** | [Functors and Monads in Practice | JSGuides](https://jsguides.dev/tutorials/javascript-functional-programming/fp-functors-monads) | kw: monad
+- **2026-06-18** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: monad
+
 - **2026-06-18** | [The Practical Value of Functional Programming - Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS](https://www.youngju.dev/transcribe/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional, Programming | source: functional-programming
 
 - **2026-06-18** | [Rust in 2026: What Actually Changed, What's Trending, and What to Build Next | by Ankit Khoiwal | Medium](https://medium.com/%40blogs-world/rust-in-2026-what-actually-changed-whats-trending-and-what-to-build-next-d70e38a4ad97) | kw: Actually, Changed, Trending | source: functional-programming

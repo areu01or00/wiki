@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [compiler-course-2026 BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler
+- **2026-06-18** | [EuroLLVM 2026 - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.org/devmtg/2026-04/slides/quick_talk/quick_talk_hames.pdf) | kw: LLVM
+- **2026-06-18** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: compiler
+- **2026-06-18** | [Compilers and Modern Language Runtimes: LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compiler
+- **2026-06-18** | [Llvm Jit Compiler By C Lattner Et Al Integration](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: compiler
+- **2026-06-18** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: compiler
+- **2026-06-18** | [Best Free Open-Source Compilers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: compiler
+- **2026-06-18** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: compiler
+- **2026-06-18** | [compiler-course-2026 BuildingAJIT1.rst (chekalexey fork)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler
+
 - **2026-06-18** | [Improvements to RISC-V Vector code generation in LLVM](https://riscv-europe.org/summit/2025/media/proceedings/2025-05-15-RISC-V-Summit-Europe-P1.4.03-LAU-abstract.pdf) | kw: Improvements, RISC | src: compilers
 - **2026-06-18** | [Project RP009: LLVM SPEC Optimization - Rise: RISC-V Software](https://riseproject.dev/2025/05/08/project-rp009-llvm-spec-optimization) | kw: Project, RP009, LLVM, SPEC | src: compilers
 

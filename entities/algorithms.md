@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [LeetCode Questions Asked in Google 2026](https://papersadda.com/article/leetcode-questions-google-2026) | kw: LEETCODE
+- **2026-06-18** | [Best DSA Sheet 2026 - namastedev](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet
+- **2026-06-18** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: 100+
+- **2026-06-18** | [LeetCode Questions for TCS 2026: 50 Solved Problems](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LEETCODE
+- **2026-06-18** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: 100+
+- **2026-06-18** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: 100+
+- **2026-06-18** | [NeetCode | Coding Interview Prep](https://neetcode.io/) | kw: Prep
+- **2026-06-18** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Complete
+- **2026-06-18** | [Top 50 Data Structures Interview Questions 2026](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: Top
+
 - **2026-06-18** | [LeetCode Patterns Won't Save You in 2026 — Add These 7 Topics | by Arslan Ahmad | May, 2026 | Level Up Coding](https://levelup.gitconnected.com/leetcode-patterns-wont-save-you-in-2026-add-these-7-topics-9037b82f5549) | kw: Add, Arslan, Ahmad | source: algorithms
 - **2026-06-18** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital) | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: general | source: algorithms
 

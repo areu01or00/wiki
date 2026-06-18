@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [Putting Gradual Types to Work](https://par.nsf.gov/servlets/purl/10315909) | kw: Work
+- **2026-06-18** | [Wenjia Ye - Research on Gradual Typing, Type Inference](https://yewenjia.github.io/) | kw: Inferen
+- **2026-06-18** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: Safe
+- **2026-06-18** | [Efficient Selection of Type Annotations (arXiv 2603.05649)](https://arxiv.org/abs/2603.05649) | kw: type
+- **2026-06-18** | [Type inference of all constructs and the next 15 months - Elixir](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Inferen
+- **2026-06-18** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-released/) | kw: type
+
 - **2026-06-18** | [sp26/handout/10-type-inference.typ at main - ucsd-cse231/sp26](https://github.com/ucsd-cse231/sp26/blob/main/handout/10-type-inference.typ) | kw: sp26, handout, type-inference | src: type-systems
 
 - **2026-06-18** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: gradual, typing, across | src: type-systems

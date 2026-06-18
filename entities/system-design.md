@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Distributed
+- **2026-06-18** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: guide
+- **2026-06-18** | [Microservices Architecture in 2026: Building Scalable Distributed Systems](https://scga.hk/blog/microservices-architecture-2026) | kw: Distributed
+- **2026-06-18** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Distributed
+- **2026-06-18** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks) | kw: building
+
 - **2026-06-18** | [Advanced Distributed Systems Design (Online Course)](https://learn.particular.net/courses/adsd-online) | kw: advanced, distributed, systems, design, online | src: system-design
 
 - **2026-06-18** | [Scalable Microservices Architecture: A Guide for Engineering Leaders](https://www.developers.dev/tech-talk/designing-a-resilient-and-scalable-microservices-architecture-a-strategic-guide-for-engineering-leaders.html) | kw: Scalable,Microservices,Architecture,Guide | src: system-design
