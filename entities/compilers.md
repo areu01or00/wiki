@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [Overview - Zig Programming Language](https://ziglang.org/learn/overview) | kw: ziglang.org
+- **2026-06-18** | [Type resolution redesign, with language changes to taste | Hacker News](https://news.ycombinator.com/item?id=47330836) | kw: news.ycombinator.com
+- **2026-06-18** | [Zig Type Resolution Redesign and Language Changes in 2026 - Sesame Disk](https://sesamedisk.com/zig-type-resolution-redesign-2026) | kw: sesamedisk.com
+
 - **2026-06-18** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, llvm, docs, tutorial
 - **2026-06-18** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: Case, Compilers, SPEC, CPU
 - **2026-06-18** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, llvm, docs, tutorial
