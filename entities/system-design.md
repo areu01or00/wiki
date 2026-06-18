@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now/) | kw: Latest Trends in
+
 
 - **2026-06-18** | [Scalable Web Development 2026: APIs, Caching & Distributed Systems](https://www.dotcominfoway.com/blog/scalable-web-development-2026-apis-caching-distributed-systems) | kw: scalability
 

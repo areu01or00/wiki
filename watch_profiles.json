@@ -410,7 +410,7 @@
         "docsgitscrumcom",
         "Used",
         "Event Sourcing",
-        "\u2014",
+        "—",
         "10",
         "GitScrum",
         "ICT",
@@ -502,10 +502,6 @@
         "Resilience"
       ],
       "last_result_hashes": [
-        "0bccdfeceeee7664c4e61f75605f9f8f",
-        "765e99ad8811dd2ef41c928d417532ab",
-        "aaaf9550e5e27d5469ea0edd84372b77",
-        "8282bc38c31cae78de009daeeac96471",
         "1cdd1a9e8d61681172f1987e6689c7d4",
         "33b7798f3feb9ae76406c5b40b9db35f",
         "d0ae98a342caad97c68e59c996aeaea3",
@@ -521,9 +517,13 @@
         "886487f41cabfa1d68bfa76e510f5fb7",
         "6a8023ed8f6d80dc6383b03a803b7c26",
         "138a5f5429696bde556b67d915262c48",
-        "adebe5c4b2c00a84488d6606d0e0be83"
+        "adebe5c4b2c00a84488d6606d0e0be83",
+        "54d56919015126f3fad6a89e4fb01edc",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "e9d45130824f67775300df37d0b653d5",
+        "bcfd71f53ab1ff9b1bbb906880b2771d"
       ],
-      "last_run": "2026-06-18 11:35 UTC",
+      "last_run": "2026-06-18 11:49 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 5
     },
@@ -731,7 +731,7 @@
         "Scale",
         "compiler-course-2026/llvm/docs/tutorial/",
         "RomanPikhotskiy/compiler-course-2026",
-        "\u00b7",
+        "·",
         "V8 TurboFan",
         "tutorialQ",
         "Principles",
@@ -750,7 +750,7 @@
         "ORC API",
         "monads",
         "RomanPikhotskiy",
-        "\u2014",
+        "—",
         "Inside",
         "Sense",
         "Navigating",
@@ -1048,11 +1048,6 @@
         "Chapter"
       ],
       "last_result_hashes": [
-        "381c5829c4542d830b4e98667478e845",
-        "7e8c60653222d5cae98f18cda70361ba",
-        "00d37fecba311b38109bc12619ff9f25",
-        "23259200a7be4533fe1e25b8fdeb4b83",
-        "9528a975bd737293756be564cd0a1800",
         "9fde30c1f0557bcd13dfe21dac234e66",
         "b86eb07f5a984fccae1bb38c4d48f846",
         "8142a1d230c81005143246af327fbc3c",
@@ -1067,9 +1062,14 @@
         "dc5ada16f234dc184f112304b0917552",
         "f71c9ea97bdb7d1ba586aafa52df9cae",
         "9f949b654bb17f71e99a5f02002df66e",
-        "7f35254185b4a76841fe314d54248e9d"
+        "7f35254185b4a76841fe314d54248e9d",
+        "5cefefefe6afc297697ed1187181b6a1",
+        "dda514580d5cf36e8f80842def68d44d",
+        "fce269fe574c3361f1908922d794e691",
+        "f12049b1985a1e17d311e389c1bee086",
+        "ae427aaa277c67469832326760f5569f"
       ],
-      "last_run": "2026-06-18 11:35 UTC",
+      "last_run": "2026-06-18 11:49 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 6
     },
@@ -1539,7 +1539,7 @@
         "Argument",
         "NETFLIX",
         "Patterns",
-        "Uni\ufb01cation-based",
+        "Uniﬁcation-based",
         "Roadmap",
         "A",
         "Annotations",
@@ -1558,7 +1558,7 @@
         "What",
         "Launches",
         "2010s",
-        "\u2014",
+        "—",
         "Computer",
         "2026",
         "Monday",
@@ -1569,7 +1569,6 @@
         "2026 Type Report"
       ],
       "last_result_hashes": [
-        "7fea7b93e4ec6881026dfd5607cb4c15",
         "b0b257ce43663e3177338e61f3e0e5f0",
         "e63014263ca618ad9c4b03303b951c4b",
         "911955f45e693686bc5efe45c6135743",
@@ -1588,9 +1587,10 @@
         "edf2bc1c3681cf7fe9c9e8a78f5a9a6e",
         "c0b8939bb00148936243259369f1f8a3",
         "d91941e34f98f8fa9db9f1187b488c3a",
-        "9696d6348e5a07ef42a404fa3fb8f89c"
+        "9696d6348e5a07ef42a404fa3fb8f89c",
+        "796dd8fb9f6369a2e77f75139af26f3c"
       ],
-      "last_run": "2026-06-18 11:35 UTC",
+      "last_run": "2026-06-18 11:49 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 9
     },
@@ -1765,7 +1765,7 @@
         "Technology",
         "Sugar",
         "You",
-        "monadify \u2014",
+        "monadify —",
         "Programming Languages",
         "Docs",
         "Profiling",
@@ -1823,7 +1823,7 @@
         "Dive",
         "Been",
         "[Deep",
-        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
+        "Rust1.74で追加された機能を使ってモナドを作ってみる",
         "Creative",
         "testing",
         "concepts",
@@ -1947,7 +1947,7 @@
         "Exploring...",
         "Functor",
         "Navigating",
-        "\u00b7",
+        "·",
         "DeepWiki",
         "Does Rust Support Functional",
         "ghc",
@@ -2042,7 +2042,7 @@
         "Brinker",
         "MonadLike",
         "by",
-        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
+        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
         "Demystifying monads in Rust through property-based",
         "Tutorialspoint",
         "Data",
@@ -2115,7 +2115,7 @@
         "Classroom",
         "Profunctors",
         "Instances",
-        "\u2014",
+        "—",
         "What's",
         "Les",
         "2026",
@@ -2132,12 +2132,6 @@
         "Monad Price Prediction"
       ],
       "last_result_hashes": [
-        "c3d482cdf00a24b3820b6c35e86b26c4",
-        "dbf58f66ce4a96c82006ccda39efb233",
-        "c4f58f1c1a6ca1ac94cd413f2a9ae3d7",
-        "19897d37845468d941eb10094cbe856e",
-        "cb3451b58dc0de64c4abaf6248054b44",
-        "3c6d68ed70a4669ef90ac23c03f4cc9f",
         "50c76b529897cecc2ced9263565b46d6",
         "bea8d0af4ce09fd249e27e08952be338",
         "3a87f41595f1a0b643e906c70aa8f2fe",
@@ -2151,9 +2145,15 @@
         "d8ecd855deb6ef7b3c3623a37c37e993",
         "27250f22e98095b18d9c941e09d83faa",
         "e81cdd48bccfde7927f3b8b08552c136",
-        "fb15d694d1ea081466c21127a70ac008"
+        "fb15d694d1ea081466c21127a70ac008",
+        "1e23347071bace94cd96516373fa7b4d",
+        "211de7a838e45b3dada18be8697b118d",
+        "b82ed313e52a51037b2e80996b9a6a4d",
+        "ce28a60a12ee60735a41f5226ee34f7c",
+        "fdcd0aed2662911e4c2b24c93d743e0c",
+        "5eae65aedb2fdf74fe3bf9a822193b94"
       ],
-      "last_run": "2026-06-18 11:35 UTC",
+      "last_run": "2026-06-18 11:49 UTC",
       "new_sub_topics_this_run": [
         "Actually",
         "Changed",
@@ -2270,7 +2270,7 @@
         "Leetcode-TOP-75",
         "docsgitscrumcom",
         "TheTutorBridge",
-        "Java\u9762\u8bd5\u5b66\u4e60",
+        "Java面试学习",
         "DSA Sheet",
         "InterviewStack",
         "Need",
@@ -2655,10 +2655,6 @@
         "DSA Interview Topics"
       ],
       "last_result_hashes": [
-        "fa2e527cdd11acb8168cdbeff3eba418",
-        "b12deb9be9141d1715e87e0b45db88a1",
-        "32ee21e09bb816e8df8a2db192f31d65",
-        "b2ebff509c2065c89ae295b2fabe3868",
         "4e816f03626f2aeee8060ef836ec2dec",
         "75ba0ef3d737f8a255ebfa8d4fd12ca3",
         "7d194ad3d9a4f9a87cd4de35548c005c",
@@ -2674,9 +2670,13 @@
         "a14e1e789a9d737dee2bca3b461bfe20",
         "ccf8ede536dc56c5810aea6819c053c4",
         "fd3ff4812378eea356edb1d214dc44ba",
-        "673c2ad1863df3edf9d2e97253605d16"
+        "673c2ad1863df3edf9d2e97253605d16",
+        "143876bc0621660474126a01477b0355",
+        "62beba99b34b1cc3054044146a70b124",
+        "595f0e6ddf3ffc9ae7d6d3256cb6ad3b",
+        "00a02315b04f8e95fb7ced3e13f75bfc"
       ],
-      "last_run": "2026-06-18 11:35 UTC",
+      "last_run": "2026-06-18 11:49 UTC",
       "new_sub_topics_this_run": [
         "Add",
         "Arslan",
@@ -2853,7 +2853,7 @@
         "PEP",
         "Engineering",
         "Scalable",
-        "Internals\u00b7",
+        "Internals·",
         "vuinkcom",
         "Rise",
         "Dead",
@@ -3119,7 +3119,7 @@
         "Ownership",
         "Behind",
         "Types",
-        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
+        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
         "JIT Compiler",
         "Weekly",
         "PEP 779",
@@ -3186,10 +3186,6 @@
         "Charting"
       ],
       "last_result_hashes": [
-        "ffdd85ed1c6c827575bf349af3d708d9",
-        "59b8ef2b26eb329e0931d31d180ddecf",
-        "ee6b70d8d4aeacfea84f418a994e793c",
-        "af31f11cc482e78da08d11706ef24e86",
         "d6b08d59a67d6de170eba48ba0719827",
         "9132d1ca01d195338d05eb556f7164be",
         "9b950d80d24710f2899e1b281e96098e",
@@ -3205,9 +3201,13 @@
         "195cc5355800be062c15e1a66ccfcacd",
         "087455b373dbe987da5078283f97a4cb",
         "9df3859b4715ae95cd2f1c86331d9b55",
-        "b3593c9f59eca4f8b6263b3a3f35c76d"
+        "b3593c9f59eca4f8b6263b3a3f35c76d",
+        "beaef31893811bf93a7c49c5427531ec",
+        "b2cb5935f894500a50108d06a7ff5270",
+        "993340ba10508d27975679f77e08cd57",
+        "80cb1ee80342b3950bba93fd2801d04f"
       ],
-      "last_run": "2026-06-18 11:35 UTC",
+      "last_run": "2026-06-18 11:49 UTC",
       "new_sub_topics_this_run": [
         "Breaks",
         "Barrier",
@@ -3215,5 +3215,6 @@
       ],
       "last_new_count": 6
     }
-  }
+  },
+  "last_run": "2026-06-18 11:49 UTC"
 }
