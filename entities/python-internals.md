@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Python Trends & Courses for 2026 | Future Skills Guide - upSkill](https://upskill.biz/python-trends-future-skills-courses) | kw: Python, Trends, Courses
+
 - **2026-06-18** | [Python picks up speed with a new JIT - InfoWorld](https://www.infoworld.com/article/4120292/python-picks-up-speed-with-a-new-jit.html) | kw: Python
 - **2026-06-18** | [Python's JIT Compiler in 2026 - How Fast Is It Really?](https://www.pyblog.in/programming/inorder-traversal-of-binary-tree-in-python) | kw: Python
 - **2026-06-18** | [Python JIT project was asked to pause development](https://x.com/betterhn20/status/2063332097385730180) | kw: Python
