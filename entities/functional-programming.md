@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Monad Price Prediction 2026: MON Climbs on TVL Growth](https://www.openpr.com/news/4466665/monad-price-prediction-2026-mon-climbs-on-tvl-growth-while) | kw: Monad, Price
+
 
 - **2026-06-18** | [Monads in Functional Programming: From Theory to Practice](https://medium.com/%40mo.mirjavadi/monads-in-functional-programming-from-theory-to-practice-9f9f93c0bf51) | kw: monads
 - **2026-06-18** | [Chapter 6 - Monoids and Monads | Patterns in Functional Programming](https://macbeth-byui.github.io/cse382-course/monoids-and-monads.html) | kw: chapter

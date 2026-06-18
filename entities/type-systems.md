@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [2026 Type Report - PRINT Magazine](https://www.printmag.com/typography/print-type-report-2026) | kw: 2026, Type
+
 - **2026-06-18** | [Putting Gradual Types to Work](https://par.nsf.gov/servlets/purl/10315909) | kw: Work
 - **2026-06-18** | [Wenjia Ye - Research on Gradual Typing, Type Inference](https://yewenjia.github.io/) | kw: Inferen
 - **2026-06-18** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: Safe

@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [DSA Interview Topics & Data Structures Guide for 2026](https://content.techgig.com/career-advice/data-structures-interview-guide-internship-fresher-2026/articleshow/126670649.cms) | kw: DSA, Interview
+
 
 - **2026-06-18** | [Data Structures Interview Questions and Answers (2026) | NostrobeAI](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data structures
 
