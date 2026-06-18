@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-18** | [GitHub - soapyigu/LeetCode-Swift: Solutions to LeetCode by Swift](https://github.com/soapyigu/LeetCode-Swift) | kw: GitHub, LeetCode-Swift, Solutions, LeetCode, Swift | src: algorithms
+- **2026-06-18** | [Leetcode Algorithm Coach Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: Leetcode, Algorithm, Coach, ShadeCoder | src: algorithms
+
 - **2026-06-18** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ...](https://medium.com/%40katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Roadmap, Data
 - **2026-06-18** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap
 
