@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works/) | kw: How Python's Memory Management Works Under the Hood | source: python-internals
+
 - **2026-06-18** | [Interpreter State and Thread Management | python/cpython (DeepWiki)](https://deepwiki.com/python/cpython/4.1-interpreter-state-and-thread-management) | kw: Interpreter State and Thread Management | python/cpython (De | source: python-internals
 - **2026-06-18** | [Mastering The Global Interpreter Lock (GIL) | Python (course4all)](https://course4all.com/python/py-gil-internals/) | kw: Mastering The Global Interpreter Lock (GIL) | Python (course | source: python-internals
 
