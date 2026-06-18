@@ -1,6 +1,7 @@
 # Type Systems
 
 ## Updates
+
 - **2026-06-18** | [Wenjia Ye - Publications](https://yewenjia.github.io/) | kw: Principal Type Inference under a Prefix (PLDI 2025 Distingui | source: type-systems
 
 - **2026-06-18** | [The 99 Best Programming Languages to Learn in 2026](https://talent500.com/blog/best-programming-languages-to-learn-2026/) | kw: The 99 Best Programming Languages to Learn in 2026 | source: type-systems

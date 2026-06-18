@@ -200,7 +200,7 @@
         "Know",
         "Techniques",
         "Edge Computing Patterns",
-        "—",
+        "\u2014",
         "System Design Series Part 3",
         "Parallel",
         "Practical",
@@ -489,13 +489,10 @@
         "Designing",
         "Resilient",
         "Modular Monoliths",
-        "AI-Native Infrastructure"
+        "AI-Native Infrastructure",
+        "Event-Driven"
       ],
       "last_result_hashes": [
-        "24ab54d7eca04f3fba1a72d4a1a7249c",
-        "8a4c6c3b1a58ba76429a4cc01eb115a4",
-        "886487f41cabfa1d68bfa76e510f5fb7",
-        "1885661cefe9c39654b0f1458625c8e0",
         "886fba2fd8531408e81a23f3cd602e1d",
         "3ee08fcb48d8cc998d40e238fc3854f0",
         "4365457d59a6ae052dc50ed629a1d36c",
@@ -511,14 +508,17 @@
         "023c2bfb8d95f6d035e62a4eaae650f4",
         "b7b724dd42585c9ceb6c7e74762d9e03",
         "9aaac785f96054718b7dfeec5a63f092",
-        "6265ddafd9750179e2fb745af0f548db"
+        "6265ddafd9750179e2fb745af0f548db",
+        "f7ad49cfcb431c4498f0d28454269e51",
+        "24a79938570a54df80e0966181b4187d",
+        "697337f881dc40cc977774b3475bbe3d",
+        "a3c1c2b6d55ff083812e1ea086382dbd"
       ],
-      "last_run": "2026-06-18T01:34:12.331556+00:00",
+      "last_run": "2026-06-18T01:48:34.578309+00:00",
       "new_sub_topics_this_run": [
-        "Modular Monoliths",
-        "AI-Native Infrastructure"
+        "Event-Driven"
       ],
-      "last_new_count": 3
+      "last_new_count": 4
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -728,7 +728,7 @@
         "Sanjoy Das",
         "Techniques",
         "Perry Compiler",
-        "—",
+        "\u2014",
         "Insight",
         "ORC JIT",
         "Georghinho/compiler-course-2026",
@@ -831,7 +831,7 @@
         "MLGO",
         "PostgreSQL",
         "Breakthroughs",
-        "·",
+        "\u00b7",
         "Caching",
         "GitHub",
         "Upcoming",
@@ -1028,13 +1028,10 @@
         "compilers and",
         "llvm roadmap",
         "llvm weekly",
-        "AutoJIT"
+        "AutoJIT",
+        "Kaleidoscope"
       ],
       "last_result_hashes": [
-        "e6a6d2b2ff5774761354d9737cce9f64",
-        "d0de062ed058a4b7bb87b9c013129190",
-        "d12d82e1f851084bf2828bf37f84e297",
-        "a69d1239570f7b73909128aa3fbaf417",
         "f1925c0af6e39aa520ffa6a282ede525",
         "648083769a978e805bbb401b852069ec",
         "ec0b892486df6b096e05619b62eaf636",
@@ -1050,11 +1047,15 @@
         "9f949b654bb17f71e99a5f02002df66e",
         "1480847529e160848da4aee3f40eb00a",
         "1b7c48c74a1188598237428729a72ad3",
-        "95d039a87ff19238e99d0f66eb8fce0e"
+        "95d039a87ff19238e99d0f66eb8fce0e",
+        "12ca3b352b9fdeafb3aefb2fd9e73fc6",
+        "23259200a7be4533fe1e25b8fdeb4b83",
+        "8a1f8c2cee520617974852260bebfda5",
+        "6cdbbb1710252c03f81667bbf5db9d66"
       ],
-      "last_run": "2026-06-18T01:34:12.331556+00:00",
+      "last_run": "2026-06-18T01:48:34.578408+00:00",
       "new_sub_topics_this_run": [
-        "AutoJIT"
+        "Kaleidoscope"
       ],
       "last_new_count": 4
     },
@@ -1064,7 +1065,7 @@
       "sub_topics": [
         "-",
         "Nature",
-        "Uniﬁcation-based",
+        "Uni\ufb01cation-based",
         "developments",
         "Every",
         "Python Typing",
@@ -1259,7 +1260,7 @@
         "Languages Software",
         "Projection",
         "Techniques",
-        "—",
+        "\u2014",
         "(January",
         "Practical",
         "system",
@@ -1541,10 +1542,6 @@
         "emergentmind"
       ],
       "last_result_hashes": [
-        "6c439a5c2847300ba753765d00120639",
-        "05e87cbef36cd8edbadc65c13cd2b4af",
-        "7f9d9d17e1451e3ee24574749b4b94d2",
-        "e3bc0b0f77bacd576c2e474dc4a44101",
         "e4dad24f3b8ab61bc751423ea333a529",
         "b24b8c5e0c4173933c16579a65aee854",
         "543697ac79673cc3f8f429709121926e",
@@ -1560,11 +1557,15 @@
         "bca887779c4d30860ee265ce67393aa0",
         "7f2fded0606d89ecd249445f3c85483a",
         "73cb3aaf7e41f62412b5f3688c6e3618",
-        "5645f86bd2e4e37f259dd87aad9285b7"
+        "5645f86bd2e4e37f259dd87aad9285b7",
+        "b538102edba293f6e7c712829cbe30ab",
+        "447ef748917b16991488a870bdb71002",
+        "300854eb370a40273fb06d7b1f3e6bd0",
+        "b0b257ce43663e3177338e61f3e0e5f0"
       ],
-      "last_run": "2026-06-18T01:34:12.331556+00:00",
+      "last_run": "2026-06-18T01:48:34.578482+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 3
+      "last_new_count": 4
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1619,7 +1620,7 @@
         "Checker",
         "Gleam language",
         "Introduction",
-        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
+        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
         "You",
         "Compilation",
         "Roadmap",
@@ -1794,7 +1795,7 @@
         "Gentle Introduction to Haskell",
         "Catalin's",
         "Techniques",
-        "—",
+        "\u2014",
         "Gleam (Erlang VM FP)",
         "Practical",
         "system",
@@ -1809,7 +1810,7 @@
         "Type",
         "Higher Kinded Types",
         "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1rst",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Programmers",
         "Paradigm",
         "Order",
@@ -1894,7 +1895,7 @@
         "Should",
         "bertiqwerty",
         "2",
-        "·",
+        "\u00b7",
         "GitHub",
         "Eugenio",
         "Internals",
@@ -2072,19 +2073,17 @@
         "all about",
         "demystifying monads",
         "making sense",
-        "monadify —",
+        "monadify \u2014",
         "monads and",
         "monads tutorial",
         "practical uses",
         "ML Family",
         "BEAM Family",
-        "Lisp Family"
+        "Lisp Family",
+        "Lazy",
+        "Affine"
       ],
       "last_result_hashes": [
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "c1846c2268b7436159e1259f96b68329",
-        "aa80c4393d6db9a7227a87e5f21b2707",
-        "ce5f54fc6f710fe0ee8b7e9d78f28c76",
         "81f416bda62e20437250860785d5442e",
         "f90ff073009eed161109951f0f328ce3",
         "c4312bdd7b36e1d062f927f1cd4a5ef0",
@@ -2100,15 +2099,18 @@
         "af496f031df79a2b9c94fb26b2844b8a",
         "b24b8c5e0c4173933c16579a65aee854",
         "3bb0a852e2780a0d035603e5700fd0d0",
-        "0b2120fa72343244679a593dacf13018"
+        "0b2120fa72343244679a593dacf13018",
+        "bc2135eec3871ce21b29a6ac82c28881",
+        "04443e4b0178d0d6918d7bad1f98f068",
+        "ce28a60a12ee60735a41f5226ee34f7c",
+        "fdcd0aed2662911e4c2b24c93d743e0c"
       ],
-      "last_run": "2026-06-18T01:34:12.331556+00:00",
+      "last_run": "2026-06-18T01:48:34.578488+00:00",
       "new_sub_topics_this_run": [
-        "ML Family",
-        "BEAM Family",
-        "Lisp Family"
+        "Lazy",
+        "Affine"
       ],
-      "last_new_count": 1
+      "last_new_count": 4
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2265,7 +2267,7 @@
         "Prompt",
         "Sheet",
         "Brinker",
-        "Java面试学习",
+        "Java\u9762\u8bd5\u5b66\u4e60",
         "asked",
         "Leading",
         "for",
@@ -2589,10 +2591,10 @@
         "leetcode questions",
         "Quest",
         "Online Algorithms",
-        "Approximation Algorithms"
+        "Approximation Algorithms",
+        "Leetc"
       ],
       "last_result_hashes": [
-        "b374c779c101dd010d1f2ed0450afdee",
         "3e6b7d68264ee6c9c60b5e6223da93cd",
         "54e92023d570edbe351ca0a5e3242b84",
         "143876bc0621660474126a01477b0355",
@@ -2611,14 +2613,14 @@
         "0a13538a30e314955eb1a77c7c7f5d2c",
         "4083fcd66b082c2cb601fb4d8a181ca3",
         "c298d5e587fb4a0969a98cab861b2ee4",
-        "fe741e0fea93ec972f3fc311c574de4c"
+        "fe741e0fea93ec972f3fc311c574de4c",
+        "8b5b54395f90524f33e015dd24e932fc"
       ],
-      "last_run": "2026-06-18T01:34:12.331556+00:00",
+      "last_run": "2026-06-18T01:48:34.578555+00:00",
       "new_sub_topics_this_run": [
-        "Online Algorithms",
-        "Approximation Algorithms"
+        "Leetc"
       ],
-      "last_new_count": 6
+      "last_new_count": 1
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2656,7 +2658,7 @@
         "Threaded",
         "Best",
         "Bytecode",
-        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
+        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
         "PEP 703",
         "Python Memory Management Internals",
         "LLVM",
@@ -3001,7 +3003,7 @@
         "The Explosive Python Trends 2026",
         "EOL VersionLog",
         "Changed",
-        "Internals·",
+        "Internals\u00b7",
         "Community",
         "covering",
         "AiBox",
@@ -3104,12 +3106,10 @@
         "the future",
         "the python",
         "Free-Threaded Build",
-        "Sub-interpreters"
+        "Sub-interpreters",
+        "Gc"
       ],
       "last_result_hashes": [
-        "323f5522cd079b66f3b0b35a0bdb4235",
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "03e9423b802e0456d3fe98220b76ea3a",
         "4cd24649bb264af960eb0db466e7076c",
         "343ee2ea3c7bd5c5bb4c13c55f709fcf",
@@ -3126,14 +3126,16 @@
         "c2bac073ce2fbd6b734d65bebb82e335",
         "f34337bee4b5132442297a57b2507c09",
         "a792f282303dbd1f1ed21c5e38e85187",
-        "dffb367289c2ff33235ee4db217cc919"
+        "dffb367289c2ff33235ee4db217cc919",
+        "0a974e52e4af3da11fa0449ca19924f5",
+        "beaef31893811bf93a7c49c5427531ec",
+        "a23fefd65bad5d40d66870c0a5731c63"
       ],
-      "last_run": "2026-06-18T01:34:12.331556+00:00",
+      "last_run": "2026-06-18T01:48:34.578615+00:00",
       "new_sub_topics_this_run": [
-        "Free-Threaded Build",
-        "Sub-interpreters"
+        "Gc"
       ],
-      "last_new_count": 2
+      "last_new_count": 3
     }
   }
 }

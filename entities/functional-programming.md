@@ -1,6 +1,7 @@
 # Functional Programming
 
 ## Updates
+
 - **2026-06-18** | [Programming Trends to Follow in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/programming-trends-to-follow-in-2026) | kw: Programming Trends to Follow in 2026 - Analytics Insight | source: functional-programming
 
 - **2026-06-17** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | | source: functional-programming

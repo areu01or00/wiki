@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [Memory Management in Python: Best Practices - w3tutorials.net](https://www.w3tutorials.net/python-tutorial/memory-management-in-python-best-practices) | kw: Memory Management in Python: Best Practices - w3tutorials.net | source: python-internals
+
 - **2026-06-18** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works/) | kw: How Python's Memory Management Works Under the Hood | source: python-internals
 
 - **2026-06-18** | [Interpreter State and Thread Management | python/cpython (DeepWiki)](https://deepwiki.com/python/cpython/4.1-interpreter-state-and-thread-management) | kw: Interpreter State and Thread Management | python/cpython (De | source: python-internals

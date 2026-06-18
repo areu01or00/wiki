@@ -1,6 +1,7 @@
 # System Design
 
 ## Updates
+
 - **2026-06-18** | [Event-Driven Architecture Patterns for Microservices: Message Queues, Event Stores, and CQRS Implementation in 2026 | HostMyCode](https://www.hostmycode.com/blog/event-driven-architecture-patterns-microservices-message-queues-event-stores-cqrs-2026) | kw: Event-Driven Architecture Patterns for Microservices: Messag | source: system-design
 - **2026-06-18** | [Microservices Architecture: Modern Application Development and Deployment Strategies for 2025 - technewsdaily.com](https://technewsdaily.com/microservices-architecture-development-2025) | kw: Microservices Architecture: Modern Application Development a | source: system-design
 - **2026-06-18** | [Microservices Architecture in 2025: Complete Implementation Guide | AimBytes](https://www.aimbytes.com/blog/microservices-architecture-guide) | kw: Microservices Architecture in 2025: Complete Implementation  | source: system-design

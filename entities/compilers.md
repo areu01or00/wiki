@@ -1,6 +1,7 @@
 # Compilers
 
 ## Updates
+
 - **2026-06-18** | [Falcon JIT Compiler - Azul | Better Java Performance ...](https://www.azul.com/products/components/falcon-jit-compiler/) | kw: Falcon JIT Compiler - Azul | Better Java Performance ... | source: compilers
 
 - **2026-06-17** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome | source: compilers
