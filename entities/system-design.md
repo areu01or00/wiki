@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [The Patterns Of Distributed Systems With Martin Fowler | Patreon](https://www.patreon.com/posts/patterns-of-with-105216391) | kw: The, Patterns, Distributed | src: system-design
+
 
 - **2026-06-18** | [System Design Trends 2026: What Modern FAANG-Level Interviews Are Expecting](https://thita.ai/blog/system-design/system-design-trends-2026) | kw: System, Design, Trends | src: system-design
 

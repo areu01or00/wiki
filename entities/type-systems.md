@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-18** | [sp26/handout/10-type-inference.typ at main - ucsd-cse231/sp26](https://github.com/ucsd-cse231/sp26/blob/main/handout/10-type-inference.typ) | kw: sp26, handout, type-inference | src: type-systems
+
 - **2026-06-18** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: gradual, typing, across | src: type-systems
 - **2026-06-18** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: gradual, typing, programming | src: type-systems
 - **2026-06-18** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating, language, landscape | src: type-systems
