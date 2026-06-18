@@ -8,6 +8,13 @@
 - **2026-06-18** | [Top 50 Programming Languages in 2026](https://www.entrans.ai/blog/top-programming-languages) | kw: Top 50 Programming Languages in 2026 | source: type-systems
 - **2026-06-18** | [Top 5 Programming Languages To Learn In 2026: Python, TypeScript, C/C++, Java, Rust](https://www.mergesociety.com/code-report/top-programming-languages-to-learn) | kw: Top 5 Programming Languages To Learn In 2026: Python, TypeSc | source: type-systems
 
+- **2026-06-18** | [Lecture: Hindley-Milner Type-inference](https://personal.utdallas.edu/~hamlen/cs6371sp26/typeinference.pdf) | kw: Lecture: Hindley-Milner Type-inference | source: type-systems
+- **2026-06-18** | [Practical Type Inference with Levels](https://xnning.github.io/papers/pldi25level.pdf) | kw: Practical Type Inference with Levels | source: type-systems
+- **2026-06-18** | [Hindley-Milner Type Inference](https://kindatechnical.com/compiler-design/hindley-milner-type-inference.html) | kw: Hindley-Milner Type Inference | source: type-systems
+- **2026-06-18** | [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference) | kw: Damas-Hindley-Milner inference two ways | source: type-systems
+- **2026-06-18** | [Hindley-Milner Type Checking](https://adamdoupe.com/teaching/classes/cse340-principles-of-programming-languages-f15/slides/Hindley-MilnerTypeChecking-Mohsen-Zohrevandi.pdf) | kw: Hindley-Milner Type Checking | source: type-systems
+- **2026-06-18** | [Hindley–Milner & Type Inference](https://notes.camadkins.com/cs/pl/hindleymilner-type-inference) | kw: Hindley–Milner & Type Inference | source: type-systems
+
 - **2026-06-17** | [TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki](https://deepwiki.com/microsoft/TypeScript-Handbook/2-typescript-type-system) | kw: TypeScript Type System | microsoft/TypeScript-Handbook | DeepWiki | source: type-systems
 - **2026-06-17** | [Type inference of all constructs and the next 15 months - The Elixir programming language](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months - The Elixir programming | source: type-systems
 - **2026-06-17** | [Type system concepts — typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: Type system concepts — typing documentation | source: type-systems

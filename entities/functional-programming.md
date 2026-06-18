@@ -4,6 +4,14 @@
 
 - **2026-06-18** | [Programming Trends to Follow in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/programming-trends-to-follow-in-2026) | kw: Programming Trends to Follow in 2026 - Analytics Insight | source: functional-programming
 
+- **2026-06-18** | [Algebraic Effects for Functional Programming](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v2.pdf) | kw: Algebraic Effects for Functional Programming | source: functional-programming
+- **2026-06-18** | [Deep Dive into Effect Systems](https://yceffort.kr/en/2026/02/effect-ts-deep-dive) | kw: Deep Dive into Effect Systems | source: functional-programming
+- **2026-06-18** | [Flix — A Modern Functional Language Built on Logic, Effects, and the JVM](https://dev.to/viz-x/flix-a-modern-functional-language-built-on-logic-effects-and-the-jvm-178f) | kw: Flix — A Modern Functional Language Built on Logic, Effects, | source: functional-programming
+- **2026-06-18** | [Effect-Oriented Programming in Flix](https://blogo.timok.deno.net/posts/flix-effects) | kw: Effect-Oriented Programming in Flix | source: functional-programming
+- **2026-06-18** | [Effect System - Programming Flix](https://paulbutcher.com/book/effects.html) | kw: Effect System - Programming Flix | source: functional-programming
+- **2026-06-18** | [Effect System - Programming Flix](https://doc.flix.dev/effect-system.html) | kw: Effect System - Programming Flix | source: functional-programming
+- **2026-06-18** | [Mastering Algebraic Effects with Flix for More Predictable Code](https://4thelols.uk/2025/09/07/mastering-algebraic-effects-with-flix-for-more-predictable-code) | kw: Mastering Algebraic Effects with Flix for More Predictable C | source: functional-programming
+
 - **2026-06-17** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/%40saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | | source: functional-programming
 - **2026-06-17** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top 22 Best Functional Programming Languages In 2026 | source: functional-programming
 - **2026-06-17** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ...](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ... | source: functional-programming

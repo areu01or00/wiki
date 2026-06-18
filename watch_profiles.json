@@ -493,9 +493,6 @@
         "Event-Driven"
       ],
       "last_result_hashes": [
-        "886fba2fd8531408e81a23f3cd602e1d",
-        "3ee08fcb48d8cc998d40e238fc3854f0",
-        "4365457d59a6ae052dc50ed629a1d36c",
         "138a5f5429696bde556b67d915262c48",
         "7c1f6bf914efb4646d7180593f7f6937",
         "1c8bad596beea2c5b4e336f89182a213",
@@ -512,9 +509,12 @@
         "f7ad49cfcb431c4498f0d28454269e51",
         "24a79938570a54df80e0966181b4187d",
         "697337f881dc40cc977774b3475bbe3d",
-        "a3c1c2b6d55ff083812e1ea086382dbd"
+        "a3c1c2b6d55ff083812e1ea086382dbd",
+        "33fe644a985c434a45f2ae8931709df2",
+        "214b39edc9102cb1993841ab6acfa4dc",
+        "384f1e8ef5df3e74d7143cac52bf9b76"
       ],
-      "last_run": "2026-06-18T01:48:34.578309+00:00",
+      "last_run": "2026-06-18T02:07:25.057949+00:00",
       "new_sub_topics_this_run": [
         "Event-Driven"
       ],
@@ -1032,9 +1032,6 @@
         "Kaleidoscope"
       ],
       "last_result_hashes": [
-        "f1925c0af6e39aa520ffa6a282ede525",
-        "648083769a978e805bbb401b852069ec",
-        "ec0b892486df6b096e05619b62eaf636",
         "9549ee3df2b4c698c35929d6eea7600f",
         "9b9e5b41a1c52064d55b23f06ea84096",
         "e6f00cb6c727c13210cc2c1fdd5c85ca",
@@ -1051,9 +1048,12 @@
         "12ca3b352b9fdeafb3aefb2fd9e73fc6",
         "23259200a7be4533fe1e25b8fdeb4b83",
         "8a1f8c2cee520617974852260bebfda5",
-        "6cdbbb1710252c03f81667bbf5db9d66"
+        "6cdbbb1710252c03f81667bbf5db9d66",
+        "88e1e5ee1b5e0e3c3435a9cc389ef25d",
+        "047a33293f54c74b068db297357d13ce",
+        "384f1e8ef5df3e74d7143cac52bf9b76"
       ],
-      "last_run": "2026-06-18T01:48:34.578408+00:00",
+      "last_run": "2026-06-18T02:07:25.057949+00:00",
       "new_sub_topics_this_run": [
         "Kaleidoscope"
       ],
@@ -1542,12 +1542,6 @@
         "emergentmind"
       ],
       "last_result_hashes": [
-        "e4dad24f3b8ab61bc751423ea333a529",
-        "b24b8c5e0c4173933c16579a65aee854",
-        "543697ac79673cc3f8f429709121926e",
-        "a3bff6024fbb28890c700733eef813fa",
-        "911955f45e693686bc5efe45c6135743",
-        "f2495424757e7dd538dd771f623f1a0f",
         "4a101114e3b691c4671d64770c39c052",
         "796dd8fb9f6369a2e77f75139af26f3c",
         "ce049959029dc94f720b01c88e48a3a2",
@@ -1561,9 +1555,15 @@
         "b538102edba293f6e7c712829cbe30ab",
         "447ef748917b16991488a870bdb71002",
         "300854eb370a40273fb06d7b1f3e6bd0",
-        "b0b257ce43663e3177338e61f3e0e5f0"
+        "b0b257ce43663e3177338e61f3e0e5f0",
+        "621ccb0dd6308a2a85a92f5c5851cc45",
+        "fef7ca850c95452e5e2910e1f903cbda",
+        "def3824053bafb9e3f8c5742b5292dfa",
+        "973e293f987eed6796e75373675b7227",
+        "814fb8e2dd029685525cf5cbde58d56a",
+        "82abcb181294b0a6397fb9d8998b79c8"
       ],
-      "last_run": "2026-06-18T01:48:34.578482+00:00",
+      "last_run": "2026-06-18T02:07:25.057949+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 4
     },
@@ -2081,16 +2081,13 @@
         "BEAM Family",
         "Lisp Family",
         "Lazy",
-        "Affine"
+        "Affine",
+        "Algebraic",
+        "Effects",
+        "Flix",
+        "Predictable"
       ],
       "last_result_hashes": [
-        "81f416bda62e20437250860785d5442e",
-        "f90ff073009eed161109951f0f328ce3",
-        "c4312bdd7b36e1d062f927f1cd4a5ef0",
-        "c2fefc572a2578f6f202a147d877925b",
-        "1e23347071bace94cd96516373fa7b4d",
-        "7d4e1fde76793f861461819f26e57c4f",
-        "875e7957fd4974fda8df61e5e64c4b09",
         "507d0954b1c28a4ea253d1bfcfbd1b35",
         "32522250afd65b3e71138f6d7e6fd397",
         "654039b2a2650812686655a4e5d3d0ce",
@@ -2103,9 +2100,16 @@
         "bc2135eec3871ce21b29a6ac82c28881",
         "04443e4b0178d0d6918d7bad1f98f068",
         "ce28a60a12ee60735a41f5226ee34f7c",
-        "fdcd0aed2662911e4c2b24c93d743e0c"
+        "fdcd0aed2662911e4c2b24c93d743e0c",
+        "44dff52473198004b065790b047c82e9",
+        "612d9b8426e947c81d1e9a40b80cbdae",
+        "6b1cd0510db40a410cc04c873a52a714",
+        "7073821ca7ca1d64a8561644acebad68",
+        "22d382f0284b87c6bb228b161b6ccede",
+        "6dac36d73fce6600ec2313b30a4cd678",
+        "859a123a80b1372ef818f767f77dc923"
       ],
-      "last_run": "2026-06-18T01:48:34.578488+00:00",
+      "last_run": "2026-06-18T02:07:25.057949+00:00",
       "new_sub_topics_this_run": [
         "Lazy",
         "Affine"
@@ -2595,8 +2599,6 @@
         "Leetc"
       ],
       "last_result_hashes": [
-        "3e6b7d68264ee6c9c60b5e6223da93cd",
-        "54e92023d570edbe351ca0a5e3242b84",
         "143876bc0621660474126a01477b0355",
         "4e1ce636187f4461bc4013bc79a8226c",
         "81d3f6ca00caa659b47d39e7b3373c33",
@@ -2614,9 +2616,11 @@
         "4083fcd66b082c2cb601fb4d8a181ca3",
         "c298d5e587fb4a0969a98cab861b2ee4",
         "fe741e0fea93ec972f3fc311c574de4c",
-        "8b5b54395f90524f33e015dd24e932fc"
+        "8b5b54395f90524f33e015dd24e932fc",
+        "7b75730a07f7ce410b221d0aeef0aeda",
+        "b059cb8b2e97d38b8680cee1213c256f"
       ],
-      "last_run": "2026-06-18T01:48:34.578555+00:00",
+      "last_run": "2026-06-18T02:07:25.057949+00:00",
       "new_sub_topics_this_run": [
         "Leetc"
       ],
@@ -3110,9 +3114,6 @@
         "Gc"
       ],
       "last_result_hashes": [
-        "03e9423b802e0456d3fe98220b76ea3a",
-        "4cd24649bb264af960eb0db466e7076c",
-        "343ee2ea3c7bd5c5bb4c13c55f709fcf",
         "313e9fbc8c9cdf1a142d6dd130ef1ae9",
         "51f80002283f486f704e600aa155acb5",
         "ee1579762ac50ad1f7529892ed821e5d",
@@ -3129,9 +3130,12 @@
         "dffb367289c2ff33235ee4db217cc919",
         "0a974e52e4af3da11fa0449ca19924f5",
         "beaef31893811bf93a7c49c5427531ec",
-        "a23fefd65bad5d40d66870c0a5731c63"
+        "a23fefd65bad5d40d66870c0a5731c63",
+        "6e7afe2eb52eba72e4b7873c8f2375c4",
+        "4f2155fbb00b4844a993137a853a399b",
+        "ac2b26a35297e7be3b813062e81a45a8"
       ],
-      "last_run": "2026-06-18T01:48:34.578615+00:00",
+      "last_run": "2026-06-18T02:07:25.057949+00:00",
       "new_sub_topics_this_run": [
         "Gc"
       ],

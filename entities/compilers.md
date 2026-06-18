@@ -4,6 +4,10 @@
 
 - **2026-06-18** | [Falcon JIT Compiler - Azul | Better Java Performance ...](https://www.azul.com/products/components/falcon-jit-compiler/) | kw: Falcon JIT Compiler - Azul | Better Java Performance ... | source: compilers
 
+- **2026-06-18** | [ORC Design and Implementation — LLVM 23.0.0git documentation](https://llvm.org/docs/ORCv2.html) | kw: ORC Design and Implementation — LLVM 23.0.0git documentation | source: compilers
+- **2026-06-18** | [LLVM 22.0.0git Release Notes - AMD](https://rocm.docs.amd.com/projects/llvm-project/en/latest/LLVM/llvm/html/ReleaseNotes.html) | kw: LLVM 22.0.0git Release Notes - AMD | source: compilers
+- **2026-06-18** | [LLVM/Clang 22 Feature Development Ends](https://www.phoronix.com/news/LLVM-Clang-22-Branched) | kw: LLVM/Clang 22 Feature Development Ends | source: compilers
+
 - **2026-06-17** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome | source: compilers
 - **2026-06-17** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin | source: compilers
 - **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026 · 4elodoy-Molovek/compiler-course-2026 · GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026 | source: compilers
