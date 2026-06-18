@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [Master DSA for Placements in 2026 - Complete Roadmap & Coding Interview Guide](https://master-dsa-roadmap.blogspot.com/2025/11/master-dsa-for-placements-in-2026.html) | kw: algorithms
+
 - **2026-06-18** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: algorithms
 - **2026-06-18** | [Algorithms problemset](https://leetcode.com/problemset/algorithms) | kw: algorithms
 - **2026-06-18** | [LeetCode Blind 75 vs NeetCode 150: Which DSA List Will Land You the Job in 2026?](https://rolepilot.online/blog/leetcode-blind-75-vs-neetcode-150-2026-guide.html) | kw: algorithms

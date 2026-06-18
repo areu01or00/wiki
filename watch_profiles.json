@@ -535,7 +535,7 @@
         "6a8023ed8f6d80dc6383b03a803b7c26",
         "c0a80fa59c5b645b7350f3c0bbf240cb"
       ],
-      "last_run": "2026-06-18T17:18:29.508928+00:00",
+      "last_run": "2026-06-18T17:33:36.838122+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1084,7 +1084,7 @@
         "23259200a7be4533fe1e25b8fdeb4b83",
         "d0de062ed058a4b7bb87b9c013129190"
       ],
-      "last_run": "2026-06-18T17:03:33.482764+00:00",
+      "last_run": "2026-06-18T17:33:36.838122+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1621,7 +1621,7 @@
         "b6b8ba1f8dbf76cf69cc53229a7fc7ab",
         "ab7880da22541ae31f88de50cfec9bd5"
       ],
-      "last_run": "2026-06-18T17:03:33.482764+00:00",
+      "last_run": "2026-06-18T17:33:36.838122+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2185,7 +2185,7 @@
         "f90ff073009eed161109951f0f328ce3",
         "c4312bdd7b36e1d062f927f1cd4a5ef0"
       ],
-      "last_run": "2026-06-18T17:03:33.482764+00:00",
+      "last_run": "2026-06-18T17:33:36.838122+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2688,7 +2688,6 @@
         "problemset"
       ],
       "last_result_hashes": [
-        "8900f36a48596850ee5ba84a247a6c1d",
         "b374c779c101dd010d1f2ed0450afdee",
         "65618e6cea3a741099358dc8d5dfbfef",
         "8276ba75599c036515c82bb80a4be39e",
@@ -2707,9 +2706,10 @@
         "54517d175ea6da3e409b11f8059a3052",
         "32ee21e09bb816e8df8a2db192f31d65",
         "544d7d110803052b93a7e0f05f49b7d5",
-        "09e78648fe1b6f874711fba28cec5d03"
+        "09e78648fe1b6f874711fba28cec5d03",
+        "984f56b136768925908eb66b90fbf499"
       ],
-      "last_run": "2026-06-18T17:03:33.482764+00:00",
+      "last_run": "2026-06-18T17:33:36.838122+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 1
     },
@@ -3236,7 +3236,7 @@
         "7b0c583d3445b91efa0c0453e5a737c4",
         "9df3859b4715ae95cd2f1c86331d9b55"
       ],
-      "last_run": "2026-06-18T17:03:33.482764+00:00",
+      "last_run": "2026-06-18T17:33:36.838122+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
