@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [11 Best Coding Interview Preparation Courses for 2026 - Class Central](https://www.classcentral.com/report/best-coding-interview-preparation-courses/) | kw: 11 best coding interview
+
 - **2026-06-17** | [Data Structures and Algorithms Introduction | Hello Interview](https://www.hellointerview.com/learn/code) | kw: Data Structures and Algorithms Introduction | Hello Interview | source: algorithms
 - **2026-06-17** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding Interview Prep 2026: LeetCode Strategy That Works | source: algorithms
 - **2026-06-17** | [Data Structures and Algorithms - Quest - LeetCode](https://leetcode.com/quest/data-structures-and-algorithms-quest/) | kw: Data Structures and Algorithms - Quest - LeetCode | source: algorithms

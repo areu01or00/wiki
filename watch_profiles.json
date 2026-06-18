@@ -511,7 +511,7 @@
         "e9d45130824f67775300df37d0b653d5",
         "d0ae98a342caad97c68e59c996aeaea3"
       ],
-      "last_run": "2026-06-18T00:03:34.607283+00:00",
+      "last_run": "2026-06-18T00:19:28.756532+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 7
     },
@@ -1046,7 +1046,7 @@
         "9f949b654bb17f71e99a5f02002df66e",
         "1480847529e160848da4aee3f40eb00a"
       ],
-      "last_run": "2026-06-18T00:03:34.607283+00:00",
+      "last_run": "2026-06-18T00:19:28.756532+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 4
     },
@@ -1554,7 +1554,7 @@
         "7e58202d901d88fd843521c2cb440e69",
         "bca887779c4d30860ee265ce67393aa0"
       ],
-      "last_run": "2026-06-18T00:03:34.607283+00:00",
+      "last_run": "2026-06-18T00:19:28.756532+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 7
     },
@@ -2091,7 +2091,7 @@
         "449f1936d11b3408b5111b8fbfc6e205",
         "af496f031df79a2b9c94fb26b2844b8a"
       ],
-      "last_run": "2026-06-18T00:03:34.607283+00:00",
+      "last_run": "2026-06-18T00:19:28.756532+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 7
     },
@@ -2575,6 +2575,7 @@
         "Quest"
       ],
       "last_result_hashes": [
+        "ec401c280dd19f2b40d32dbb452a7dd8",
         "814ad50168aca7691bd4e6e042f0b36b",
         "62beba99b34b1cc3054044146a70b124",
         "4ec9197562ed29f30fe8327d7b5b0f53",
@@ -2593,10 +2594,9 @@
         "00a02315b04f8e95fb7ced3e13f75bfc",
         "bdba56774f4dd53be02fa3aa359dd313",
         "7ecb7e02fd0cb15bedc5a4d62a6ad334",
-        "7d194ad3d9a4f9a87cd4de35548c005c",
-        "dba859e9113f969a0f84d759331953e7"
+        "7d194ad3d9a4f9a87cd4de35548c005c"
       ],
-      "last_run": "2026-06-18T00:03:34.607283+00:00",
+      "last_run": "2026-06-18T00:19:28.756532+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 6
     },
@@ -3106,7 +3106,7 @@
         "824ee3d550e412349912d81f37c5ec4e",
         "087455b373dbe987da5078283f97a4cb"
       ],
-      "last_run": "2026-06-18T00:03:34.607283+00:00",
+      "last_run": "2026-06-18T00:19:28.756532+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 5
     }
