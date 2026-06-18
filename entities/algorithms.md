@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-18** | [DSA Interview Prep 2026 (GitHub)](https://github.com/Himanshu-Singh7/dsa_interview_prep_2026) | kw: algorithms | src: algorithms
+
 - **2026-06-18** | [NeetCode - Coding Interview Prep](https://neetcode.io/) | kw: algorithms | src: algorithms
 - **2026-06-18** | [Best DSA Sheet 2026 - NamasteDev](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms | src: algorithms
 - **2026-06-18** | [Leetcode Algorithm Coach Complete Guide for 2026](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: algorithms | src: algorithms
