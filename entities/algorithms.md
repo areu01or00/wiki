@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [DSA Full Course 2026 | Data Structures & Algorithms Mastery](https://www.youtube.com/watch?v=f2JdM0hLJA) | kw: Mastery
+
 - **2026-06-18** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: neetcode, coding, interview | src: algorithms
 - **2026-06-18** | [Data Structures for Coding Interviews 2026: The 8 You ...](https://lastroundai.com/blog/data-structures-interview-guide) | kw: data, structures, coding | src: algorithms
 - **2026-06-18** | [Interview Prep: Algorithm Patterns | SyntaxCache](https://www.syntaxcache.com/interview-prep) | kw: interview, prep, algorithm | src: algorithms
