@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [The Complete Guide to Frontend Architecture Patterns in 2026 - DEV Community](https://dev.to/sizan_mahmud0_e7c3fd0cb68/the-complete-guide-to-frontend-architecture-patterns-in-2026-3ioo) | kw: Complete, Guide, Frontend, Architecture, Patterns | src: system-design
+- **2026-06-18** | [The 5 Frontend Architectures You Must Know in 2025 - Feature-Sliced Design](https://feature-sliced.design/blog/frontend-architecture-guide) | kw: Frontend, Architectures, Must, Know, Feature-Sliced | src: system-design
+- **2026-06-18** | [Frontend Patterns - The Senior Frontend Engineer's Companion](https://frontend-patterns.dev/) | kw: Frontend, Patterns, Senior, Engineer, Companion | src: system-design
+
 - **2026-06-18** | [The Future of AI in Software Architecture — 2026 Outlook](https://mipaoverseas.com/future-ai-software-architecture-2026) | kw: Future, AI, Software, Architecture, Outlook
 
 - **2026-06-18** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Bold, Predictions, Distributed, Systems
