@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-18** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie | May, 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: general | source: python-internals
+- **2026-06-18** | [Python 3.14 Free-Threading and Experimental JIT: How Python Finally Breaks the GIL Barrier in 2026 - Sean Kim — Arts and Tech](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Breaks, Barrier, Sean | source: python-internals
+
 - **2026-06-18** | [Memory Management and tracemalloc Improvements 2026 - PyInns](https://pyinns.com/python/advanced-python-features/memory-management-and-tracemalloc-improvements-2026) | kw: Management, and, Python | source: python-internals
 
 - **2026-06-18** | [Python 3.13 Free-Threading: Is the GIL Finally Gone? - Dev Note](https://devstarsj.github.io/2026/03/12/python-313-free-threading-gil-removed) | kw: Python, Free-Threading, GIL, Finally | src: python-internals

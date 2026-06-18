@@ -410,7 +410,7 @@
         "docsgitscrumcom",
         "Used",
         "Event Sourcing",
-        "\u2014",
+        "—",
         "10",
         "GitScrum",
         "ICT",
@@ -523,7 +523,7 @@
         "056b14e78a14af65a4d0ae47a4e64443",
         "a0463b664260e00c851a53d961cfa770"
       ],
-      "last_run": "2026-06-18T08:33:29Z",
+      "last_run": "2026-06-18T08:45:41Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -731,7 +731,7 @@
         "Scale",
         "compiler-course-2026/llvm/docs/tutorial/",
         "RomanPikhotskiy/compiler-course-2026",
-        "\u00b7",
+        "·",
         "V8 TurboFan",
         "tutorialQ",
         "Principles",
@@ -750,7 +750,7 @@
         "ORC API",
         "monads",
         "RomanPikhotskiy",
-        "\u2014",
+        "—",
         "Inside",
         "Sense",
         "Navigating",
@@ -1068,7 +1068,7 @@
         "575d42df35232a514a749fda9aa14bac",
         "b86eb07f5a984fccae1bb38c4d48f846"
       ],
-      "last_run": "2026-06-18T08:33:29Z",
+      "last_run": "2026-06-18T08:45:41Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1472,7 +1472,7 @@
         "Languages DEV",
         "monads",
         "docsgitscrumcom",
-        "\u2014",
+        "—",
         "TypeScript strict mode",
         "Gradual Typing - Language Design and Implementatio",
         "Racket",
@@ -1489,7 +1489,7 @@
         "Trends",
         "Theory",
         "programming-language-research/research/papers/gradual-typing",
-        "Uni\ufb01cation-based",
+        "Uniﬁcation-based",
         "Procedural",
         "Group",
         "TypePro",
@@ -1585,7 +1585,7 @@
         "90f64aa277dd75da77b910fbd4635b9b",
         "60b35407a39427872157c2b716362e20"
       ],
-      "last_run": "2026-06-18T08:33:29Z",
+      "last_run": "2026-06-18T08:45:41Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1665,7 +1665,7 @@
         "Demystifying monads in Rust through property-based",
         "who",
         "Comparison",
-        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
+        "Rust1.74で追加された機能を使ってモナドを作ってみる",
         "Profunctors",
         "Rankings",
         "Functions",
@@ -1807,7 +1807,7 @@
         "testing",
         "Does Rust Support Functional",
         "Tarides",
-        "\u00b7",
+        "·",
         "Technocrat",
         "Higher",
         "Interlude",
@@ -1827,7 +1827,7 @@
         "Gleam",
         "monads",
         "Type Classes",
-        "\u2014",
+        "—",
         "Podcast",
         "Sense",
         "Navigating",
@@ -2014,12 +2014,12 @@
         "Hwan",
         "Nauths",
         "Functional Programming 2026",
-        "Rust \u3067\u67d4\u8edf\u306a do \u5f0f\u3068\u30e2\u30ca\u30c9\u3092\u4f7f\u3046\u305f\u3081\u306b\u4f5c\u3063\u305f\u5e7e\u3064\u304b\u306e\u3082\u306e",
+        "Rust で柔軟な do 式とモナドを使うために作った幾つかのもの",
         "Patterns",
         "Prompt",
         "Sugar",
         "Integration",
-        "monadify \u2014",
+        "monadify —",
         "Best",
         "Not",
         "RustWeek",
@@ -2110,9 +2110,17 @@
         "by",
         "Value",
         "Typing",
-        "Property-Based Testing"
+        "Property-Based Testing",
+        "Actually",
+        "Changed",
+        "Trending",
+        "Still",
+        "Surging",
+        "Usage"
       ],
       "last_result_hashes": [
+        "8a8adf44e1e47547697acd9da75647f7",
+        "5aa35c209b9672ea6b90f477b64190f3",
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "a7434d361daa94bd1305a0ed902c0c1e",
         "c012a57fa63492860f64045db3528e7a",
@@ -2130,13 +2138,18 @@
         "449f1936d11b3408b5111b8fbfc6e205",
         "66b9fd72fdc25c6217d5d22a77e78083",
         "9c34ad608f2830673d7ee833d2155b15",
-        "79cd05ad2ea3b4a8f88864da5ba58578",
-        "98a11a5a90569fa1869db7245e6f4abe",
-        "c4312bdd7b36e1d062f927f1cd4a5ef0"
+        "79cd05ad2ea3b4a8f88864da5ba58578"
       ],
-      "last_run": "2026-06-18T08:33:29Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-18T08:45:41Z",
+      "new_sub_topics_this_run": [
+        "Actually",
+        "Changed",
+        "Trending",
+        "Still",
+        "Surging",
+        "Usage"
+      ],
+      "last_new_count": 2
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -2396,7 +2409,7 @@
         "Online Algorithms",
         "Learn LeetCode",
         "data structure",
-        "Java\u9762\u8bd5\u5b66\u4e60",
+        "Java面试学习",
         "newsletter",
         "Finest",
         "100+",
@@ -2620,9 +2633,14 @@
         "Practicing",
         "Flashcards",
         "Data Structures",
-        "Sean"
+        "Sean",
+        "Add",
+        "Arslan",
+        "Ahmad"
       ],
       "last_result_hashes": [
+        "4f67c70b1da7ad9b0ec317270425bc8f",
+        "d6eb77479303dc4dc083a8460d7815d0",
         "de5499a423ec460dfc7d6f69469438d2",
         "8e6c7df52d21cb8e1d1493c6e8d0efad",
         "1a67bfac46635074fc0f8886cc11e73f",
@@ -2640,13 +2658,15 @@
         "b6d58fce27b982baf4433c9d930a358a",
         "425c7b3df72090fd953b1cda95d7377e",
         "eea32e4d9f2fe31a6f75282a6ddd8887",
-        "32ee21e09bb816e8df8a2db192f31d65",
-        "814ad50168aca7691bd4e6e042f0b36b",
-        "9c079bce41ba80e069e2d66cc02ed865"
+        "32ee21e09bb816e8df8a2db192f31d65"
       ],
-      "last_run": "2026-06-18T08:33:29Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-18T08:45:41Z",
+      "new_sub_topics_this_run": [
+        "Add",
+        "Arslan",
+        "Ahmad"
+      ],
+      "last_new_count": 2
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -2817,7 +2837,7 @@
         "PEP",
         "Engineering",
         "Scalable",
-        "Internals\u00b7",
+        "Internals·",
         "vuinkcom",
         "Rise",
         "Dead",
@@ -3083,7 +3103,7 @@
         "Ownership",
         "Behind",
         "Types",
-        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
+        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
         "JIT Compiler",
         "Weekly",
         "PEP 779",
@@ -3143,9 +3163,14 @@
         "Is",
         "Bytecode",
         "Typing",
-        "Beyond"
+        "Beyond",
+        "Breaks",
+        "Barrier",
+        "Sean"
       ],
       "last_result_hashes": [
+        "323f5522cd079b66f3b0b35a0bdb4235",
+        "b998620957222dffc52057ed7d46db47",
         "7b0c583d3445b91efa0c0453e5a737c4",
         "7b4d33a48fc204e0cb25e4f1266c7297",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
@@ -3163,13 +3188,15 @@
         "59b8ef2b26eb329e0931d31d180ddecf",
         "999e699e6e78d8e383158b10f1c950f8",
         "ffdd85ed1c6c827575bf349af3d708d9",
-        "e6a418c5f148d68a53fd286dcc17d453",
-        "5211881afcf2fb5ef62122bd13f4a26d",
-        "9df3859b4715ae95cd2f1c86331d9b55"
+        "e6a418c5f148d68a53fd286dcc17d453"
       ],
-      "last_run": "2026-06-18T08:33:29Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-18T08:45:41Z",
+      "new_sub_topics_this_run": [
+        "Breaks",
+        "Barrier",
+        "Sean"
+      ],
+      "last_new_count": 2
     }
   }
 }

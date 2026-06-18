@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [LeetCode Patterns Won't Save You in 2026 — Add These 7 Topics | by Arslan Ahmad | May, 2026 | Level Up Coding](https://levelup.gitconnected.com/leetcode-patterns-wont-save-you-in-2026-add-these-7-topics-9037b82f5549) | kw: Add, Arslan, Ahmad | source: algorithms
+- **2026-06-18** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital) | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: general | source: algorithms
+
 - **2026-06-18** | [DSA Full Course 2026 | Data Structures & Algorithms Mastery](https://www.youtube.com/watch?v=f2JdM0hLJA) | kw: Mastery
 
 - **2026-06-18** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: neetcode, coding, interview | src: algorithms

@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Rust in 2026: What Actually Changed, What's Trending, and What to Build Next | by Ankit Khoiwal | Medium](https://medium.com/%40blogs-world/rust-in-2026-what-actually-changed-whats-trending-and-what-to-build-next-d70e38a4ad97) | kw: Actually, Changed, Trending | source: functional-programming
+- **2026-06-18** | [Is Rust Still Surging in 2026? Usage and Ecosystem Insights - ZenRows](https://www.zenrows.com/blog/rust-popularity) | kw: Still, Surging, Usage | source: functional-programming
+
 - **2026-06-18** | [Tarides | What is Functional Programming? A Look at the ...](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective) | kw: Tarides, Functional, Programming | src: functional-programming
 
 - **2026-06-18** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional, programming, finest | src: functional-programming
