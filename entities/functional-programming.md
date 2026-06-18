@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-18** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: Haskell,Rust,Comparison,(2026),Feature | src: functional-programming
+- **2026-06-18** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional,Programming,Its,Finest,Why | src: functional-programming
+- **2026-06-18** | [Functional Languages in 2026 — A Camp-by-Camp Survey of Haskell, OCaml, Elm, Gleam, Roc, Unison, Lean 4, F#, Clojure](https://www.youngju.dev/blog/culture/2026-05-14-functional-languages-2026-survey-haskell-elm-roc-gleam-unison-ocaml-fsharp-deep-dive.en) | kw: Functional,Languages,2026,Camp,Camp | src: functional-programming
+- **2026-06-18** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads,are,Omnipresent,Rust | src: functional-programming
+- **2026-06-18** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does,Rust,Support,Functional,Programming | src: functional-programming
+- **2026-06-18** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust,Functional,Programming,Monads | src: functional-programming
+- **2026-06-18** | [The Practical Value of Functional Programming — Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS, Phoenix LiveView](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The,Practical,Value,Functional,Programming | src: functional-programming
+- **2026-06-18** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell,Guide,[2026],Functional,Programming | src: functional-programming
+
 - **2026-06-18** | [What is a Monad (in Rust)? - mspandit.github.io](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: What,is,a,Monad,(in,Rust)? | src: functional-programming
 - **2026-06-18** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify,-,Rust,utility,//,Lib.rs | src: functional-programming
 - **2026-06-18** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional,Programming,at,Its,Finest:,Why | src: functional-programming

@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+
+- **2026-06-18** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: System,Design,The,Complete,Guide | src: system-design
+- **2026-06-18** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed,Systems,Best,Practices,2026 | src: system-design
+- **2026-06-18** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System,Design,Guide,2026,Load | src: system-design
+- **2026-06-18** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed,System,Design,the,complete | src: system-design
+- **2026-06-18** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks) | kw: System,Design,Building,Blocks,Design | src: system-design
+- **2026-06-18** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System,Design,Patterns,The,Complete | src: system-design
+- **2026-06-18** | [10 Essential Distributed System Design Patterns for Scalable Apps](https://netalith.com/blogs/system-design/distributed-system-design-patterns-scalable-applications) | kw: Essential,Distributed,System,Design,Patterns | src: system-design
+
 - **2026-06-18** | [Microservices Design Patterns: The Comprehensive Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: Microservices,Design,Patterns:,The,Comprehensive,Guide | src: system-design
 - **2026-06-18** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The,Coming,Paradigm,Shift,in,Distributed | src: system-design
 - **2026-06-18** | [Caching & Performance: Building Fast, Predictable Systems in 2026](https://neuralstackms.tech/caching-performance-building-fast-predictable-systems-in-2026) | kw: Caching,&,Performance:,Building,Fast,,Predictable | src: system-design

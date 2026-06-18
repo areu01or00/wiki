@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-18** | [From Variables to No-GIL: Why Python Still Runs Modern AI](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: From,Variables,GIL,Why,Python | src: python-internals
+- **2026-06-18** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python,Python,Internals,Memory,Management | src: python-internals
+- **2026-06-18** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python,GIL,The,Key,Backend | src: python-internals
+- **2026-06-18** | [How to Optimize Python 3.12 Code with Cython 3 and Rust 1.85 Bindings for 10x Speedups](https://dev.to/johalputt/how-to-optimize-python-312-code-with-cython-3-and-rust-185-bindings-for-10x-speedups-1706) | kw: How,Optimize,Python,Code,with | src: python-internals
+
 - **2026-06-18** | [Python Memory Management Masterclass: Garbage Collection, Slots, and WeakRefs](https://logicandlegacy.blogspot.com/2026/03/python-memory-management-masterclass.html) | kw: Python,Memory,Management,Masterclass:,Garbage,Collection, | src: python-internals
 - **2026-06-18** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python,Internals:,Memory,Management,&,the | src: python-internals
 - **2026-06-18** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: How,Python,Works,Under,the,Hood: | src: python-internals

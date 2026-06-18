@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-18** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: Learn,LeetCode,DSA,Free,YouTube | src: algorithms
+- **2026-06-18** | [LeetCode Questions Asked in Google 2026 - PA](https://papersadda.com/article/leetcode-questions-google-2026) | kw: LeetCode,Questions,Asked,Google,2026 | src: algorithms
+- **2026-06-18** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding,Interview,Prep,2026,LeetCode | src: algorithms
+- **2026-06-18** | [DSA Full Course 2026 | Data Structures & Algorithms Mastery](https://www.youtube.com/watch?v=f2Jd5M0hLJA) | kw: DSA,Full,Course,2026,Data | src: algorithms
+- **2026-06-18** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data,Structures,Interview,Questions,The | src: algorithms
+- **2026-06-18** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data,Structures,Algorithms,Roadmap,2026 | src: algorithms
+
 - **2026-06-18** | [Best DSA Sheet 2026 - To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best,DSA,Sheet,2026,,,To | src: algorithms
 - **2026-06-18** | [LeetCode Patterns Won't Save You in 2026 — Add These 7 Topics - Level Up Coding](https://levelup.gitconnected.com/leetcode-patterns-wont-save-you-in-2026-add-these-7-topics-9037b82f5549) | kw: LeetCode,Patterns,Won't,Save,You,in | src: algorithms
 - **2026-06-18** | [The Technical Interview in 2026: What Changed, What Didn't - BirJob](https://www.birjob.com/blog/technical-interview-2026) | kw: The,Technical,Interview,in,2026:,What | src: algorithms

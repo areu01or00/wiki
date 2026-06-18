@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-18** | [Gradual Typing with Inference (Siek slides)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual,Typing,with,Inference,(Siek | src: type-systems
+- **2026-06-18** | [Putting Gradual Types to Work | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-030-67438-0_4) | kw: Putting,Gradual,Types,Work,Springer | src: type-systems
+- **2026-06-18** | [The Ins and Outs of Gradual Type Inference - Microsoft Research](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: The,Ins,and,Outs,Gradual | src: type-systems
+- **2026-06-18** | [Gradual Typing with Unification-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual,Typing,with,Unification,based | src: type-systems
+
 - **2026-06-18** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting,Gradual,Types,to,Work,- | src: type-systems
 - **2026-06-18** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient,Selection,of,Type,Annotations,for | src: type-systems
 - **2026-06-18** | [Gradual Typing — Glossary — Textbook of Python](https://www.textbookofpython.com/glossary/gradual-typing.html) | kw: Gradual,Typing,-,Glossary,-,Textbook | src: type-systems

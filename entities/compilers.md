@@ -1,6 +1,17 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-18** | [Building a JIT: Starting out with KaleidoscopeJIT](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building,JIT,Starting,out,with | src: compilers
+- **2026-06-18** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The,Case,For,Compilers,Look | src: compilers
+- **2026-06-18** | [EuroLLVM 2026 - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.org/devmtg/2026-04/slides/quick_talk/quick_talk_hames.pdf) | kw: EuroLLVM,2026,LLVM,JIT,Upcoming | src: compilers
+- **2026-06-18** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Rust Monomorphization Complete Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers,and,Modern,Language,Runtimes | src: compilers
+- **2026-06-18** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM,2026,OrcJIT,Scale,with | src: compilers
+- **2026-06-18** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry,The,Native,TypeScript,Compiler | src: compilers
+- **2026-06-18** | [Best Free Open-Source Compilers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Best,Free,Open,Source,Compilers | src: compilers
+- **2026-06-18** | [Session Details: 2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/session/3943710/quick-talks) | kw: Session,Details,2026,European,LLVM | src: compilers
+- **2026-06-18** | [Building a JIT: Starting out with KaleidoscopeJIT (chekalexey fork)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building,JIT,Starting,out,with | src: compilers
+
 - **2026-06-18** | [The LLVM Compiler Infrastructure Project - LLVM Dev Meeting 2025-04](https://llvm.org/devmtg/2025-04) | kw: The,LLVM,Compiler,Infrastructure,Project,- | src: compilers
 - **2026-06-18** | [The State of Native Execution for Spark: Photon, Gluten, and Bolt](https://sparkingscala.com/latest/2026/06/12/native-execution-landscape-2026) | kw: The,State,of,Native,Execution,for | src: compilers
 - **2026-06-18** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Best,Free,Open-Source,Compilers,in,2026 | src: compilers
