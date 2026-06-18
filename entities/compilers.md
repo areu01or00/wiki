@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-18** | [[2309.07062] Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062) | kw: compilers | src: compilers
+
 
 - **2026-06-18** | [compiler-course-2026 - BuildingAJIT2.rst (fork)](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT2.rst) | kw: compilers | src: compilers
 

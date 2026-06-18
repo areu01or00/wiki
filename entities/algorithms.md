@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-18** | [Leetcode Interview Simulator AI: Complete 2026 Guide](https://articles.shadecoder.com/leetcode-interview-simulator-ai-the-complete-2026-guide-to-mastering-technical-i) | kw: algorithms | src: algorithms
+- **2026-06-18** | [Software engineering interviews in 2026 are still asking leetcode ...](https://www.tiktok.com/%40allenvert/video/7636593895584828686) | kw: algorithms | src: algorithms
+
 
 - **2026-06-18** | [DSA Interview Prep 2026 (GitHub)](https://github.com/Himanshu-Singh7/dsa_interview_prep_2026) | kw: algorithms | src: algorithms
 
