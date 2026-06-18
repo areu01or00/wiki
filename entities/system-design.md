@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [The Evolved Edge: Market Landscape of Distributed Computing Infrastructure in 2026](https://omdia.tech.informa.com/om143585/the-evolved-edge-market-landscape-of-distributed-computing-infrastructure-in-2026) | kw: The,Evolved,Edge,Market,Landscape | src: system-design
+
 - **2026-06-18** | [Patterns of Distributed Systems martinfowler.com](https://martinfowler.com/books/patterns-distributed.html) | kw: system-design
 - **2026-06-18** | [Architectural Patterns for Distributed Systems: Definition &](https://study.com/academy/lesson/video/architectural-patterns-for-distributed-systems-definition-importance.html) | kw: system-design
 
