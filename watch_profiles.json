@@ -520,9 +520,9 @@
         "1e83fdc72243b5726a989c382dc84834",
         "3e0feebd1e915cbe8685a4ad61b26c70"
       ],
-      "last_run": "2026-06-18 06:18 UTC",
+      "last_run": "2026-06-18 06:34 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -1065,7 +1065,7 @@
         "e2d0aa7d917796f939495f2e685e2193",
         "758051106ce54a63794fb885dbe2961f"
       ],
-      "last_run": "2026-06-18 05:49 UTC",
+      "last_run": "2026-06-18 06:34 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1580,7 +1580,7 @@
         "7f9d9d17e1451e3ee24574749b4b94d2",
         "05e87cbef36cd8edbadc65c13cd2b4af"
       ],
-      "last_run": "2026-06-18 05:49 UTC",
+      "last_run": "2026-06-18 06:34 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2129,7 +2129,7 @@
         "81f416bda62e20437250860785d5442e",
         "600144a2af7315e10e607b102cbcc5d9"
       ],
-      "last_run": "2026-06-18 05:49 UTC",
+      "last_run": "2026-06-18 06:34 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -2639,7 +2639,7 @@
         "81d3f6ca00caa659b47d39e7b3373c33",
         "8a33de987d5e1a5d46764de65e5fdbd7"
       ],
-      "last_run": "2026-06-18 06:03 UTC",
+      "last_run": "2026-06-18 06:34 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -3162,7 +3162,7 @@
         "d8347b453c660d69101268ffbe590da1",
         "e46c07fb84e5b115b1d80a850fc64ef5"
       ],
-      "last_run": "2026-06-18 05:49 UTC",
+      "last_run": "2026-06-18 06:34 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
