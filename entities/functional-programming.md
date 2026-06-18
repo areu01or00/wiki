@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [Future of Haskell](https://neuro-psycho-group.github.io/Haskell/future.html) | kw: Future of Haskell
+
 - **2026-06-18** | [Rust vs Haskell - Medium](https://medium.com/rustaceans/rust-vs-haskell-22d581f2686d) | kw: functional,programming | src: functional-programming
 - **2026-06-18** | [Functional Programming in 2026: Haskell vs Gleam vs Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional,programming | src: functional-programming
 - **2026-06-18** | [What is a Monad (in Rust)?](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: functional,programming | src: functional-programming

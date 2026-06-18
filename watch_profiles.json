@@ -203,7 +203,15 @@
         "Free",
         "From",
         "Front-end",
-        "Frontend"
+        "Frontend",
+        "Trends",
+        "Latest",
+        "Mastering",
+        "Practices",
+        "Patterns",
+        "Systems",
+        "Importance",
+        "Principles"
       ],
       "last_result_hashes": [
         "697337f881dc40cc977774b3475bbe3d",
@@ -227,9 +235,18 @@
         "aaaf9550e5e27d5469ea0edd84372b77",
         "d0ae98a342caad97c68e59c996aeaea3"
       ],
-      "last_run": "2026-06-18 22:04 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_run": "2026-06-18 22:18 UTC",
+      "new_sub_topics_this_run": [
+        "Trends",
+        "Latest",
+        "Mastering",
+        "Practices",
+        "Patterns",
+        "Systems",
+        "Importance",
+        "Principles"
+      ],
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -434,7 +451,15 @@
         "Interview",
         "InterviewPilot",
         "Interviews",
-        "JDK"
+        "JDK",
+        "llvm-autojit",
+        "Developer",
+        "OrcJIT",
+        "Technology",
+        "Runtimes",
+        "Language",
+        "TurboFan/Maglev",
+        "Scale"
       ],
       "last_result_hashes": [
         "74bc8f75fd153168440c6b7f609f6e3b",
@@ -458,9 +483,18 @@
         "d07f594fea667e043c421218ba0190f3",
         "a78c2c73c0749267858b7fdad618ab3b"
       ],
-      "last_run": "2026-06-18 22:04 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 10
+      "last_run": "2026-06-18 22:18 UTC",
+      "new_sub_topics_this_run": [
+        "llvm-autojit",
+        "Developer",
+        "OrcJIT",
+        "Technology",
+        "Runtimes",
+        "Language",
+        "TurboFan/Maglev",
+        "Scale"
+      ],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -665,7 +699,14 @@
         "Jeremy",
         "Jeremy Siek",
         "Journal",
-        "Journey"
+        "Journey",
+        "Types",
+        "Typing",
+        "Theory",
+        "Putting",
+        "Mattered",
+        "System",
+        "Khoury"
       ],
       "last_result_hashes": [
         "b026ef92bf282c4d85de696983ed4a8c",
@@ -689,9 +730,17 @@
         "5d1b5b06b44ca33c06056141cd002b67",
         "be83423834c67b8671ef6f7b00eeb6c9"
       ],
-      "last_run": "2026-06-18 22:04 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 9
+      "last_run": "2026-06-18 22:18 UTC",
+      "new_sub_topics_this_run": [
+        "Types",
+        "Typing",
+        "Theory",
+        "Putting",
+        "Mattered",
+        "System",
+        "Khoury"
+      ],
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -896,10 +945,17 @@
         "Internals",
         "Interpreter",
         "Interview",
-        "InterviewPilot"
+        "InterviewPilot",
+        "Monad",
+        "Reliability",
+        "Patterns",
+        "Value",
+        "Monad-Like",
+        "Practical",
+        "Unmatched",
+        "Programming"
       ],
       "last_result_hashes": [
-        "e2bdf965558101ccb32757acdfb8736f",
         "f36d73122275bc15e805fc563b582d58",
         "109d62c2eca3478c554483a2ab61e6d3",
         "ce1296b7730544a3db978dc13e7a351f",
@@ -918,11 +974,21 @@
         "4af39f91e4589be845cd7c39aff81216",
         "ce5f54fc6f710fe0ee8b7e9d78f28c76",
         "c5bcaf01490daab7e999b17a95ee57ce",
-        "827f82e9e1a47b7a7ad617629e29c129"
+        "827f82e9e1a47b7a7ad617629e29c129",
+        "0949b615689588cfbc1e497b98cda47d"
       ],
-      "last_run": "2026-06-18 22:04 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 7
+      "last_run": "2026-06-18 22:18 UTC",
+      "new_sub_topics_this_run": [
+        "Monad",
+        "Reliability",
+        "Patterns",
+        "Value",
+        "Monad-Like",
+        "Practical",
+        "Unmatched",
+        "Programming"
+      ],
+      "last_new_count": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1127,7 +1193,13 @@
         "PhantomCodeAI Ten core data",
         "Placements",
         "Plan",
-        "Platform"
+        "Platform",
+        "Structures",
+        "Questions",
+        "Ultimate",
+        "Solved",
+        "Sheet",
+        "Problems"
       ],
       "last_result_hashes": [
         "8d15aafde38b4f7003d03f97cfdf9d18",
@@ -1151,9 +1223,16 @@
         "37b18b3ee5841dc8d78ef02edf927dc9",
         "7d194ad3d9a4f9a87cd4de35548c005c"
       ],
-      "last_run": "2026-06-18 22:04 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 10
+      "last_run": "2026-06-18 22:18 UTC",
+      "new_sub_topics_this_run": [
+        "Structures",
+        "Questions",
+        "Ultimate",
+        "Solved",
+        "Sheet",
+        "Problems"
+      ],
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1358,7 +1437,12 @@
         "PEP 703",
         "PEP 734",
         "PEP 734 sub-interpreters",
-        "PEP 750"
+        "PEP 750",
+        "Python",
+        "Production-Ready",
+        "Variables",
+        "Removal",
+        "Still"
       ],
       "last_result_hashes": [
         "7e4ac80f15f5c9e2f2e6c6a2177c8715",
@@ -1382,9 +1466,16 @@
         "343ee2ea3c7bd5c5bb4c13c55f709fcf",
         "195cc5355800be062c15e1a66ccfcacd"
       ],
-      "last_run": "2026-06-18 22:04 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 9
+      "last_run": "2026-06-18 22:18 UTC",
+      "new_sub_topics_this_run": [
+        "Python",
+        "Production-Ready",
+        "Variables",
+        "Removal",
+        "Still"
+      ],
+      "last_new_count": 0
     }
-  }
+  },
+  "last_run": "2026-06-18 22:18 UTC"
 }
