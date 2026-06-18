@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Event-Driven Architecture Patterns for Microservices: Message Queues, Event Stores, and CQRS Implementation in 2026 | HostMyCode](https://www.hostmycode.com/blog/event-driven-architecture-patterns-microservices-message-queues-event-stores-cqrs-2026) | kw: Event-Driven Architecture Patterns for Microservices: Messag | source: system-design
+- **2026-06-18** | [Microservices Architecture: Modern Application Development and Deployment Strategies for 2025 - technewsdaily.com](https://technewsdaily.com/microservices-architecture-development-2025) | kw: Microservices Architecture: Modern Application Development a | source: system-design
+- **2026-06-18** | [Microservices Architecture in 2025: Complete Implementation Guide | AimBytes](https://www.aimbytes.com/blog/microservices-architecture-guide) | kw: Microservices Architecture in 2025: Complete Implementation  | source: system-design
+- **2026-06-18** | [Microservices Architecture | Atlassian](https://www.atlassian.com/microservices/microservices-architecture) | kw: Microservices Architecture | Atlassian | source: system-design
+- **2026-06-18** | [Resilient Microservices | Backbase Engineering](https://engineering.backbase.com/2024/06/28/resilient-microservices) | kw: Resilient Microservices | Backbase Engineering | source: system-design
+
 - **2026-06-18** | [Microservices Architecture in 2026: Advanced Insights and Best Practices](https://www.theprotec.com/blog/2026/microservices-architecture-advanced-insights-best-practices) | kw: Microservices Architecture in 2026: Advanced Insights and Be | source: system-design
 - **2026-06-18** | [Software Architecture Patterns [2026]: MVC, MVVM, Clean](https://precisionaiacademy.com/blog/software-architecture-patterns-guide) | kw: Software Architecture Patterns [2026]: MVC, MVVM, Clean | source: system-design
 - **2026-06-18** | [Domain-Driven Design in 2026: Tactical Patterns for Microservices Architecture](https://imperialis.tech/en/blog/ddd-2026-tactical-patterns-bounded-contexts-microservices) | kw: Domain-Driven Design in 2026: Tactical Patterns for Microser | source: system-design
