@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-18** | [Async Work Best Practices — The Complete Guide for Remote Teams | Zlorex Blog](https://zlorex.com/blog/async-work-best-practices) | kw: system-design
+
 - **2026-06-18** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: system-design
 - **2026-06-18** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: system-design
 - **2026-06-18** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system-design
