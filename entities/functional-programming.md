@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-18** | [The Practical Value of Functional Programming - Monad, Functor, Pure Functions, Haskell, Erlang/Elixir, Gleam, Effect-TS](https://www.youngju.dev/transcribe/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical, Value, Functional, Programming | source: functional-programming
+
 - **2026-06-18** | [Rust in 2026: What Actually Changed, What's Trending, and What to Build Next | by Ankit Khoiwal | Medium](https://medium.com/%40blogs-world/rust-in-2026-what-actually-changed-whats-trending-and-what-to-build-next-d70e38a4ad97) | kw: Actually, Changed, Trending | source: functional-programming
 - **2026-06-18** | [Is Rust Still Surging in 2026? Usage and Ecosystem Insights - ZenRows](https://www.zenrows.com/blog/rust-popularity) | kw: Still, Surging, Usage | source: functional-programming
 
