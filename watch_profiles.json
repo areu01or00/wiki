@@ -87,8 +87,6 @@
         "www"
       ],
       "last_result_hashes": [
-        "729c2ff54afb3063182d60de7d6aef1c",
-        "1885661cefe9c39654b0f1458625c8e0",
         "a4f767c8d886ec8f2fab1999efc97283",
         "0bccdfeceeee7664c4e61f75605f9f8f",
         "6a8023ed8f6d80dc6383b03a803b7c26",
@@ -106,15 +104,16 @@
         "ac5d08ac3a5fabb2815807c3418141b6",
         "848a06554e3ca137e425aa0a6367b703",
         "e9d45130824f67775300df37d0b653d5",
-        "829e385d598e3022a5a9d9f416e9920c"
+        "829e385d598e3022a5a9d9f416e9920c",
+        "70c411feb51eb6a46c277d953d6d0a03",
+        "7a43fcfcde6a6e1ad6d40ccc6f416748"
       ],
-      "last_run": "2026-06-19T21:47:19Z",
+      "last_run": "2026-06-19T22:02:11Z",
       "new_sub_topics_this_run": [
-        "The Coming Paradigm Shift in Distributed Systems Architecture",
-        "Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design",
+        "Latest Trends in Distributed Systems (2026)",
         "The Complete Guide to System Design in 2026 AI-Native and Serverless"
       ],
-      "last_new_count": 3
+      "last_new_count": 2
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -213,10 +212,6 @@
         "years"
       ],
       "last_result_hashes": [
-        "cb287c59a786bb447307fa7a257d9a00",
-        "5eed965ea59d400fa331d2bfab6fba3c",
-        "f9a020f5e9c084036d48a40845afdc76",
-        "377ce017f59479cac444aa255f43f295",
         "9e15a6675bd30a9f4f1f425fe7991ab1",
         "dc5ada16f234dc184f112304b0917552",
         "f59aecd9d2bb1c9a8e2250bf412480f0",
@@ -232,14 +227,19 @@
         "da2a9627437ec27ab2a13b536f37cf45",
         "bbbc8ef4ec78630cae3e49219b742618",
         "4a4e0127b12cfd2d476b5aaa44376f2d",
-        "ae427aaa277c67469832326760f5569f"
+        "ae427aaa277c67469832326760f5569f",
+        "23259200a7be4533fe1e25b8fdeb4b83",
+        "a888bd8966b306914c973b55ba7dd171",
+        "9549ee3df2b4c698c35929d6eea7600f",
+        "7013f0083d445281a0575c5e36238e9b"
       ],
-      "last_run": "2026-06-19T21:47:19Z",
+      "last_run": "2026-06-19T22:02:11Z",
       "new_sub_topics_this_run": [
+        "Advanced Optimizations in Modern Compilers",
         "The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22",
-        "FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin"
+        "The Future of Programming: Compiler Writing in 2026"
       ],
-      "last_new_count": 3
+      "last_new_count": 4
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -342,9 +342,6 @@
         "with"
       ],
       "last_result_hashes": [
-        "b026ef92bf282c4d85de696983ed4a8c",
-        "2b077fcefb9f16574c355c5cae07ce7d",
-        "a6dd493b0f1283e1e32335d78a01a24f",
         "a62041fbd03c36044c10691af16fa6ad",
         "05e87cbef36cd8edbadc65c13cd2b4af",
         "796dd8fb9f6369a2e77f75139af26f3c",
@@ -361,14 +358,16 @@
         "92f0465ddf4b602a46222857b98050fa",
         "edab03ecf377f1428228ed140e3947da",
         "393c2007828b49d14ae2ce8a8bf61873",
-        "08183a095f9bb03fe7dd6ce06dfd5115"
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "b0b257ce43663e3177338e61f3e0e5f0",
+        "5c8d464c75e0f82550f068820dd0b4ad",
+        "0c4fea65325737c446710c96431c6923"
       ],
-      "last_run": "2026-06-19T21:47:19Z",
+      "last_run": "2026-06-19T22:02:11Z",
       "new_sub_topics_this_run": [
-        "Putting Gradual Types to Work - NSF Public Access",
-        "Gradual typing - Wikipedia"
+        "Guard Analysis and Safe Erasure Gradual Typing"
       ],
-      "last_new_count": 2
+      "last_new_count": 3
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -469,12 +468,6 @@
         "with"
       ],
       "last_result_hashes": [
-        "fdc8e2b82500b598dc73a35e40bb2f1e",
-        "a5a5e66d614014e51e59f4fc6a2c0141",
-        "c233ce094f809bd93c2f4474229feed5",
-        "7eff5c6a99bf213eccb369082948afb6",
-        "2304b593353dcf35aa94f92d66b62bc4",
-        "c2fefc572a2578f6f202a147d877925b",
         "88755452686cdbfeca2c3e154b11cd1a",
         "1e23347071bace94cd96516373fa7b4d",
         "89d87031e449ae356f26865a02b9a13d",
@@ -488,15 +481,21 @@
         "3635079258c31a05f32c708a4e5d46fc",
         "9e468f427c81adba063b45d72c784552",
         "c012a57fa63492860f64045db3528e7a",
-        "b82ed313e52a51037b2e80996b9a6a4d"
+        "b82ed313e52a51037b2e80996b9a6a4d",
+        "ea88e7791ba77ef858bb935fcb22db5c",
+        "68d06a421bcd63911f18ce6e0aef4d4e",
+        "1d534619cb30dee65cce83233b409410",
+        "a97a4a41e26a2b80dc64b79cc5ad2431",
+        "607c569c563f668a2321dc5c1039bb9d",
+        "da0251c79aaafbe4507694daa1b89e68"
       ],
-      "last_run": "2026-06-19T21:47:19Z",
+      "last_run": "2026-06-19T22:02:11Z",
       "new_sub_topics_this_run": [
-        "Monad - HaskellWiki",
-        "Rust: Functional Programming & Monads",
-        "Monads and Monad-Like Patterns in Rust"
+        "Monadic Design Patterns in Haskell",
+        "Monads and Monad-Like Patterns in Rust",
+        "Rust: Functional Programming & Monads"
       ],
-      "last_new_count": 3
+      "last_new_count": 6
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -596,12 +595,6 @@
         "questions"
       ],
       "last_result_hashes": [
-        "7d194ad3d9a4f9a87cd4de35548c005c",
-        "e7cb63adafd27fca3ead2584308babd3",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
-        "3f06a805b279b69718e8fa493b91db66",
-        "c081d373fdb54070daade9a235858c9b",
-        "de11aa89dfd8b35a9e6f6d7263a37add",
         "e105b734b6688dac3adb064364860950",
         "7e571cc4915b8f19020f0aebd3f76356",
         "60233ba12f224764b5938c3634b02e6a",
@@ -615,15 +608,23 @@
         "a72a20f0713cd5feeef913e54a998932",
         "fae719876bc5c541440192783809f45b",
         "09ba1908ae63111d1e15e6d4bafc047c",
-        "5894846bbc35ac51fe21dc903bfddad3"
+        "5894846bbc35ac51fe21dc903bfddad3",
+        "b374c779c101dd010d1f2ed0450afdee",
+        "80f05230168f8150741246bd2cb5ebae",
+        "f4b8aef5320aac85198e3b53726eebef",
+        "d218f4b39a2623bab41e0d2963bcd299",
+        "d3b8d082c2434924e142a67b3f2b0b02",
+        "09e78648fe1b6f874711fba28cec5d03"
       ],
-      "last_run": "2026-06-19T21:47:19Z",
+      "last_run": "2026-06-19T22:02:11Z",
       "new_sub_topics_this_run": [
-        "Top 100 Data Structure and Algorithms DSA Interview Questions",
         "Best DSA Sheet 2026 | To Crack Interviews",
-        "The Ultimate Guide to Top 150 LeetCode Problems"
+        "Company-Wise LeetCode Questions (2026)",
+        "Leetcode Patterns",
+        "Most Asked LeetCode Interview Questions",
+        "Top 100 Data Structure and Algorithms DSA Interview Questions"
       ],
-      "last_new_count": 3
+      "last_new_count": 6
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -715,12 +716,6 @@
         "python-freethreading - Anaconda.org"
       ],
       "last_result_hashes": [
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "7b4d33a48fc204e0cb25e4f1266c7297",
-        "03e9423b802e0456d3fe98220b76ea3a",
-        "30acb9043f9aa743b106860fc18c3038",
-        "9df3859b4715ae95cd2f1c86331d9b55",
-        "323f5522cd079b66f3b0b35a0bdb4235",
         "5451f574f8ac7101d4076e3f903cf1d4",
         "507879acf3131fb6c383e24494db7d69",
         "704da68a060e620278ad7620fdf6c8a8",
@@ -734,17 +729,25 @@
         "1f1d91231f6ca4651fac2ff9d7e17658",
         "265111ab89ec1e2086cc516865ce3720",
         "b892d3268af415a5d0c10b3cc6cd89bf",
-        "9b950d80d24710f2899e1b281e96098e"
+        "9b950d80d24710f2899e1b281e96098e",
+        "144c35f6b99ca28df6ed11d16c89b3d5",
+        "d67c0fb50ee2bad80e09d01b4a7f78e0",
+        "e5de457dfb901c53485a52be22a77e07",
+        "d2adce09b07afa8868adc1a5598d6db8",
+        "4aa45f88b11be85c9e2609d7545bb7fb",
+        "de2d25941b990c23613a309c06e5a4b2"
       ],
-      "last_run": "2026-06-19T21:47:19Z",
+      "last_run": "2026-06-19T22:02:11Z",
       "new_sub_topics_this_run": [
-        "Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)",
-        "Python Internals: Memory Management & the Global Interpreter Lock (GIL)",
-        "Exploring Python: Internals and Optimization",
-        "Memory Management & GIL: Python Guide (2026)"
+        "Python",
+        "Python Memory Management Internals",
+        "Python Memory Management Masterclass",
+        "The Future of Python Internals",
+        "The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026",
+        "The Secret Life of Python"
       ],
-      "last_new_count": 4
+      "last_new_count": 6
     }
   },
-  "last_run": "2026-06-19T21:47:19Z"
+  "last_run": "2026-06-19T22:02:11Z"
 }

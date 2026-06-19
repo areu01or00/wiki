@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: haskell - What is a monad? - Stack Overflow | src: functional-programming
+- **2026-06-19** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like Patterns in Rust: Exploring | src: functional-programming
+- **2026-06-19** | [100+ Monads Online Courses for 2026 | Explore Free Courses...](https://www.classcentral.com/subject/monads) | kw: 100+ Monads Online Courses for 2026 / Explore Free | src: functional-programming
+- **2026-06-19** | [Monadic Design Patterns in Haskell: Mastering Functional...](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: Monadic Design Patterns in Haskell: Mastering Func | src: functional-programming
+- **2026-06-19** | [Does Rust Support Functional Programming Idioms? Exploring...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does Rust Support Functional Programming Idioms? E | src: functional-programming
+- **2026-06-19** | [Rust: Functional Programming & Monads | by Technocrat...](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming & Monads / by Technoc | src: functional-programming
+
 - **2026-06-19** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: Monad, HaskellWiki | src: functional-programming
 - **2026-06-19** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust, Functional, Programming | src: functional-programming
 - **2026-06-19** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad-Like, Patterns | src: functional-programming

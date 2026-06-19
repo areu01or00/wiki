@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 / To Crack Interviews - namast | src: algorithms
+- **2026-06-19** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: Top 100+ Data Structure Interview Questions and An | src: algorithms
+- **2026-06-19** | [Top 100 Data Structure and Algorithms DSA Interview Questions - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top 100 Data Structure and Algorithms DSA Intervie | src: algorithms
+- **2026-06-19** | [Company-Wise LeetCode Questions (2026): DSA Practice by...](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company-Wise LeetCode Questions (2026): DSA Practi | src: algorithms
+- **2026-06-19** | [Most Asked LeetCode Interview Questions: Essential Questions & Strategies](https://www.upgrad.com/blog/leetcode-interview-questions) | kw: Most Asked LeetCode Interview Questions: Essential | src: algorithms
+- **2026-06-19** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: Leetcode Patterns - Sean Prashad | src: algorithms
+
 - **2026-06-19** | [Top 100 Data Structure and Algorithms DSA Interview Questions](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top, Data, Structure | src: algorithms
 - **2026-06-19** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet | src: algorithms
 - **2026-06-19** | [The Ultimate Guide to Top 150 LeetCode Problems](https://dev.to/soham0047/the-ultimate-guide-to-top-150-leetcode-problems-your-path-to-acing-technical-interviews-30h1) | kw: Ultimate, Guide, Top | src: algorithms
