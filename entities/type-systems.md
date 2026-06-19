@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [gradual-typing - Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: gradual-typing | src: type-systems
+- **2026-06-19** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: gradual | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient | src: type-systems
+- **2026-06-19** | [Gradual Typing in Type Theory](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual | src: type-systems
+- **2026-06-19** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: wikipedia | src: type-systems
+- **2026-06-19** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: pdf | src: type-systems
+- **2026-06-19** | [Type system concepts - typing documentation](https://typing.python.org/en/latest/spec/concepts.html) | kw: system | src: type-systems
+
 - **2026-06-19** | [Gradual Typing – Programming Research Group (Tokyo Tech)](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: programming | src: type-systems
 - **2026-06-19** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing/) | kw: foundations | src: type-systems
 - **2026-06-19** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: inference | src: type-systems
