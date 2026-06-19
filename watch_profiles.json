@@ -242,7 +242,7 @@
         "7c17643f234aa75cf0ffa2cbe542acf4",
         "ee72052a71ace9cf431a4b85c5d0d14c"
       ],
-      "last_run": "2026-06-19T05-16-25Z",
+      "last_run": "2026-06-19T05-31-33Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -482,7 +482,7 @@
         "f59aecd9d2bb1c9a8e2250bf412480f0",
         "4a4e0127b12cfd2d476b5aaa44376f2d"
       ],
-      "last_run": "2026-06-19T05-16-25Z",
+      "last_run": "2026-06-19T05-31-33Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -722,7 +722,7 @@
         "ca03c102ef488af0d2105b163fcd1748",
         "0c4fea65325737c446710c96431c6923"
       ],
-      "last_run": "2026-06-19T05-16-25Z",
+      "last_run": "2026-06-19T05-31-33Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -962,7 +962,7 @@
         "b82ed313e52a51037b2e80996b9a6a4d",
         "8b392f40f2d9484600edbc6565709ca7"
       ],
-      "last_run": "2026-06-19T05-16-25Z",
+      "last_run": "2026-06-19T05-31-33Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1212,17 +1212,9 @@
         "200ca117466b9b93f9cc3be32b59d56d",
         "9f893a592f87279b3c4aecd3025a3d76"
       ],
-      "last_run": "2026-06-19T05-16-25Z",
-      "new_sub_topics_this_run": [
-        "BEST Data Structures",
-        "Algorithms Books",
-        "Update",
-        "DSA Books Every Software",
-        "Engineers Should Read",
-        "Best Data Structures",
-        "Read"
-      ],
-      "last_new_count": 3
+      "last_run": "2026-06-19T05-31-33Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1468,7 +1460,7 @@
         "9b950d80d24710f2899e1b281e96098e",
         "beaef31893811bf93a7c49c5427531ec"
       ],
-      "last_run": "2026-06-19T05-16-25Z",
+      "last_run": "2026-06-19T05-31-33Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
