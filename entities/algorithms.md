@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-19** | [Data Structures and Algorithms in 2026: What Backend Developers Actually Need to Know and What AI Can (and Can't) Replace](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: Data,Structures,Algorithms,Backend | src: algorithms
+
 - **2026-06-19** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation/) | kw: Ultimate,Java,DSA,LEETCODE,Interviews | src: algorithms
 
 - **2026-06-18** | [Leetcode Interview Simulator AI: Complete 2026 Guide](https://articles.shadecoder.com/leetcode-interview-simulator-ai-the-complete-2026-guide-to-mastering-technical-i) | kw: algorithms | src: algorithms
