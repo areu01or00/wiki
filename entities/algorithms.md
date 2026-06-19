@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-19** | [LeetCode Study Plan and Roadmap for 2026: Stop Grinding, Start - Leon Staff](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: LeetCode, Study, Plan | src: algorithms
 - **2026-06-19** | [Company-Wise LeetCode Questions (2026): DSA Prep](https://www.dsaprep.dev/blog/company-wise-leetcode-questions/) | kw: Company-Wise, LeetCode, Questions | src: algorithms
 
 - **2026-06-19** | [Best DSA Sheet 2026 \| To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best | src: algorithms
