@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday | src: functional-programming
+- **2026-06-19** | [Monads | Haskell](https://fmaste.github.io/Haskell/doc/Monad.html) | kw: Monads, Haskell | src: functional-programming
+- **2026-06-19** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: All, About, Monads | src: functional-programming
+- **2026-06-19** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Making, Sense, Monads | src: functional-programming
+
 - **2026-06-19** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: Demystifying monads in Rust through property-based testing
 - **2026-06-19** | [Functional programming: A collection of good Monad tutorials | alvinalexander.com](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Functional programming: A collection of good Monad tutorials
 - **2026-06-19** | [100+ Monads Online Courses for 2026 | Explore Free Courses](https://www.classcentral.com/subject/monads) | kw: 100+ Monads Online Courses for 2026   Explore Free Courses

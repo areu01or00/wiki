@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [GitHub - cloudsealed/JIT-Optimization-Engine: A high ...](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: GitHub, JIT, Optimization | src: compilers
+- **2026-06-19** | [arXiv:2311.04692v2 [cs.DB] 9 Nov 2023](https://arxiv.org/pdf/2311.04692) | kw: 2311, DB, Nov | src: compilers
+- **2026-06-19** | [Unlocking Performance: The Overlooked Power of Low-Cost ...](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking, Performance, The | src: compilers
+
 - **2026-06-19** | [JVM implementation using LLVM as a JIT - GitHub](https://github.com/JLLVM/JLLVM) | kw: JVM implementation using LLVM as a JIT - GitHub
 - **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22
 - **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 T

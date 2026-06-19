@@ -76,9 +76,6 @@
         "2026"
       ],
       "last_result_hashes": [
-        "a3c1c2b6d55ff083812e1ea086382dbd",
-        "1140e0efc696f2f04c728e3b4b23caab",
-        "000e636c2d8f8b023001384d271bfa7a",
         "e9d45130824f67775300df37d0b653d5",
         "71518f2043c91fd5da0a86cffab54ce2",
         "3d924683b109e99c93d7ba785e0c7ab0",
@@ -95,15 +92,18 @@
         "1885661cefe9c39654b0f1458625c8e0",
         "a4f767c8d886ec8f2fab1999efc97283",
         "0bccdfeceeee7664c4e61f75605f9f8f",
-        "6a8023ed8f6d80dc6383b03a803b7c26"
+        "6a8023ed8f6d80dc6383b03a803b7c26",
+        "8a4c6c3b1a58ba76429a4cc01eb115a4",
+        "dffcbc8662b09cb0a5c2d9645a80041f",
+        "d7e4053d8359b5818b4128259533ab69"
       ],
-      "last_run": "2026-06-19T20:16:43Z",
+      "last_run": "2026-06-19T20:31:49Z",
       "new_sub_topics_this_run": [
-        "GitScrum",
-        "Edge",
-        "2026"
+        "Large",
+        "Paradigm",
+        "Scale"
       ],
-      "last_new_count": 0
+      "last_new_count": 3
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -141,7 +141,7 @@
         "Best",
         "BuildingAJIT1",
         "Unlocking",
-        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
+        "LLVMのJITについてLLMの説明が分からなくて困る",
         "LLVM",
         "Compilers",
         "RomanPikhotskiy",
@@ -191,9 +191,6 @@
         "BrainDetox"
       ],
       "last_result_hashes": [
-        "381c5829c4542d830b4e98667478e845",
-        "537439b799160fc6f3459b2fb0a33cd5",
-        "619a49efaa11cdecdfa3371459c61065",
         "191137fb0d9c6770341ad41eba235f6e",
         "17a9ff8a71e2e0c4a86ad1f87464fc32",
         "1e4f2841efc1fbac5ac052907fa5790f",
@@ -210,39 +207,23 @@
         "5cefefefe6afc297697ed1187181b6a1",
         "a888bd8966b306914c973b55ba7dd171",
         "f206368f76599fbab65a46387373312b",
-        "39a1fca28592350020e5f300331e95c1"
+        "39a1fca28592350020e5f300331e95c1",
+        "cb287c59a786bb447307fa7a257d9a00",
+        "5eed965ea59d400fa331d2bfab6fba3c",
+        "f9a020f5e9c084036d48a40845afdc76"
       ],
-      "last_run": "2026-06-19T20:16:43Z",
+      "last_run": "2026-06-19T20:31:49Z",
       "new_sub_topics_this_run": [
-        "JVM",
-        "using",
-        "JIT",
-        "Look",
-        "CPU",
-        "Language",
-        "Maglev",
-        "Inline",
-        "Caching",
-        "Escape",
-        "Analysis",
-        "Monomorphization",
-        "Complete",
-        "Guide",
-        "Development",
-        "Applications",
-        "Chaos",
-        "Order",
-        "Perry",
-        "Native",
-        "TypeScript",
-        "That",
-        "Lowers",
-        "Straight",
-        "Machine",
-        "Code",
-        "BrainDetox"
+        "2023",
+        "2311",
+        "Engine",
+        "Nov",
+        "Overlooked",
+        "Performance",
+        "Power",
+        "The"
       ],
-      "last_new_count": 5
+      "last_new_count": 3
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -330,8 +311,6 @@
         "Now"
       ],
       "last_result_hashes": [
-        "ce8d456cc5c19dd66de1173f19eb7207",
-        "7d43df11a787f4da1d8ba7253fb6f91f",
         "7363df9b919ff0ae41c8cb8164aa61e8",
         "5c8d464c75e0f82550f068820dd0b4ad",
         "76cb8329ade5e1c0bc765af2f58cae53",
@@ -349,19 +328,17 @@
         "a3bff6024fbb28890c700733eef813fa",
         "37ffd58453521e02c05e593eedaf102e",
         "b0b257ce43663e3177338e61f3e0e5f0",
-        "1f3e7d1bf4955c674237c70349a25b1d"
+        "1f3e7d1bf4955c674237c70349a25b1d",
+        "b026ef92bf282c4d85de696983ed4a8c",
+        "2b077fcefb9f16574c355c5cae07ce7d"
       ],
-      "last_run": "2026-06-19T20:16:43Z",
+      "last_run": "2026-06-19T20:31:49Z",
       "new_sub_topics_this_run": [
-        "Elixir",
-        "Why",
-        "LuaJIT",
-        "Luau",
-        "Are",
-        "Three",
-        "Different",
-        "Languages",
-        "Now"
+        "Across",
+        "GitHub",
+        "Group",
+        "Programming",
+        "Research"
       ],
       "last_new_count": 2
     },
@@ -451,10 +428,6 @@
         "Monad-Like"
       ],
       "last_result_hashes": [
-        "32b7895f5a363cbf340e57c75779aedd",
-        "875e7957fd4974fda8df61e5e64c4b09",
-        "8523d54f973c1802378dbbf186428ae2",
-        "1e23347071bace94cd96516373fa7b4d",
         "32522250afd65b3e71138f6d7e6fd397",
         "5aab28d7fbd337a8668d6cbda3b0a9c1",
         "6c5cb98e457a7ea49ad57c5293abde41",
@@ -470,21 +443,22 @@
         "19e9a027878cd9e15d80f9af087b154c",
         "9ae289060558ae8a8f9157b02711f54d",
         "c34a9a43ce0bf98274e9aee01383eea0",
-        "79cd05ad2ea3b4a8f88864da5ba58578"
+        "79cd05ad2ea3b4a8f88864da5ba58578",
+        "fdc8e2b82500b598dc73a35e40bb2f1e",
+        "a5a5e66d614014e51e59f4fc6a2c0141",
+        "c233ce094f809bd93c2f4474229feed5",
+        "7eff5c6a99bf213eccb369082948afb6"
       ],
-      "last_run": "2026-06-19T20:16:43Z",
+      "last_run": "2026-06-19T20:31:49Z",
       "new_sub_topics_this_run": [
-        "Demystifying",
-        "testing",
-        "collection",
-        "good",
-        "tutorials",
-        "alvinalexander.com",
-        "Online",
-        "Courses",
-        "Explore",
-        "Free",
-        "Monad-Like"
+        "About",
+        "All",
+        "HaskellWiki",
+        "Making",
+        "Monday",
+        "Morning",
+        "Sense",
+        "Tutorial"
       ],
       "last_new_count": 4
     },
@@ -574,8 +548,6 @@
         "ShadeCoder"
       ],
       "last_result_hashes": [
-        "fae719876bc5c541440192783809f45b",
-        "b2ebff509c2065c89ae295b2fabe3868",
         "8900f36a48596850ee5ba84a247a6c1d",
         "007f6850e48a967b7acfd833f4be0a66",
         "056bbd57e6e437cc7875c28572cf4197",
@@ -593,18 +565,12 @@
         "8ec4ac28253c4f016997232629004129",
         "55e31a674bb02e0795ac86448ae5879c",
         "eac128746ce43597ebff2f84aa42b62c",
-        "71f19d1b45b652f669caf561d01d07ef"
+        "71f19d1b45b652f669caf561d01d07ef",
+        "7d194ad3d9a4f9a87cd4de35548c005c",
+        "e7cb63adafd27fca3ead2584308babd3"
       ],
-      "last_run": "2026-06-19T20:16:43Z",
-      "new_sub_topics_this_run": [
-        "Java",
-        "LEETCODE",
-        "Interviews",
-        "Prep",
-        "Tools",
-        "Compare",
-        "ShadeCoder"
-      ],
+      "last_run": "2026-06-19T20:31:49Z",
+      "new_sub_topics_this_run": [],
       "last_new_count": 2
     },
     "python-internals": {
@@ -686,7 +652,6 @@
         "odysse.io"
       ],
       "last_result_hashes": [
-        "1fb82e2be1d599ef51996d8d49300721",
         "498edfd974d66c35db81ddcb5eced2f1",
         "7b0c583d3445b91efa0c0453e5a737c4",
         "125d32f4e073abcb08e7c2756041b634",
@@ -705,16 +670,15 @@
         "7b4d33a48fc204e0cb25e4f1266c7297",
         "03e9423b802e0456d3fe98220b76ea3a",
         "30acb9043f9aa743b106860fc18c3038",
-        "9df3859b4715ae95cd2f1c86331d9b55"
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "323f5522cd079b66f3b0b35a0bdb4235"
       ],
-      "last_run": "2026-06-19T20:16:43Z",
+      "last_run": "2026-06-19T20:31:49Z",
       "new_sub_topics_this_run": [
-        "Key",
-        "Backend",
-        "odysse.io"
+        "From"
       ],
       "last_new_count": 1
     }
   },
-  "last_run": "2026-06-19T20:16:43Z"
+  "last_run": "2026-06-19T20:31:49Z"
 }

@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview | src: algorithms
+- **2026-06-19** | [Data Structures Interview Questions and Answers (2026 ...](https://www.nostrobeai.com/interview-questions/data-structures) | kw: Data, Structures, Interview | src: algorithms
+
 - **2026-06-19** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: Ultimate Java + DSA + LEETCODE and Interviews Preparation
 - **2026-06-19** | [Best Data Structures Interview Prep Tools (2026) - Compare | ShadeCoder](https://articles.shadecoder.com/best-data-structures-interview-prep-tools-in-2026-compared-ranked) | kw: Best Data Structures Interview Prep Tools (2026) - Compare  
 
