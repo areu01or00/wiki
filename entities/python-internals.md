@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [Python 3.14 garbage collection rigamarole - The Consensus](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html) | kw: Python, garbage, collection | src: python-internals
+
 - **2026-06-19** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python | src: python-internals
 - **2026-06-19** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: Python's | src: python-internals
 - **2026-06-19** | [State of Python 2026 \| The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: State | src: python-internals
