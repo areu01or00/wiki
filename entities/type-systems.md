@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: gradual
+- **2026-06-19** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: type system
+- **2026-06-19** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing/) | kw: gradual
+- **2026-06-19** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: gradual
+- **2026-06-19** | [100+ Type Inference Online Courses for 2026 | Class Central](https://www.classcentral.com/subject/type-inference) | kw: general
+- **2026-06-19** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: gradual
+- **2026-06-19** | [Gradual Typing - Language Design and Implementation | ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual
+
 - **2026-06-19** | [Most general-purpose type inference systems follow a (currying intro)](https://www.aleksandra.codes/type-inference) | kw: Most
 - **2026-06-19** | [Type Systems and Automatic Type Inference Summary](https://www.hellocpp.dev/lesson/type-systems-and-automatic-type-inference-summary) | kw: Type
 

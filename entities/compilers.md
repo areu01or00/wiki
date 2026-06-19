@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: llvm
+- **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: rust
+- **2026-06-19** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: llvm
+- **2026-06-19** | [LLVMのJITについてLLMの説明が分からなくて困る](https://zenn.dev/toga/scraps/948f581e2c441f) | kw: llvm
+- **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: compiler
+- **2026-06-19** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: compiler
+- **2026-06-19** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java | BestHub](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: llvm
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - RomanPikhotskiy GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: llvm
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - chekalexey GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: llvm
+
 - **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: TurboFan/Maglev
 - **2026-06-19** | [GitHub - cloudsealed/JIT-Optimization-Engine](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: cloudsealed/JIT-Optimization-Engine
 - **2026-06-19** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin

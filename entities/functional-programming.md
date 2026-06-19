@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Functional programming: A collection of good Monad tutorials | alvinalexander.com](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: monad
+- **2026-06-19** | [100+ Monads Online Courses for 2026 | Class Central](https://www.classcentral.com/subject/monads) | kw: monad
+- **2026-06-19** | [Does Rust Support Functional Programming Idioms? Exploring...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: rust
+- **2026-06-19** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: haskell
+- **2026-06-19** | [Rust: Functional Programming & Monads | by Technocrat...](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: rust
+- **2026-06-19** | [Monads, Functors, and Applicatives in Haskell: Mastering...](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: haskell
+
 - **2026-06-19** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Interlude
 - **2026-06-19** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: programming
 - **2026-06-19** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Programming Idioms?

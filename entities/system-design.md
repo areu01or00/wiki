@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [Microservices Architecture in 2026: Building Scalable Distributed Systems | S.C.G.A. Limited](https://scga.hk/blog/microservices-architecture-2026) | kw: distributed
+- **2026-06-19** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: system design
+- **2026-06-19** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: distributed
+- **2026-06-19** | [Top 10 Microservices Architecture Best Practices for Enterprise in 2026](https://www.freeformagency.com/post/top-10-microservices-architecture-best-practices-for-enterprise-in-2026) | kw: microservices
+- **2026-06-19** | [Distributed Systems | Architecture Patterns | docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed
+- **2026-06-19** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: distributed
+
 - **2026-06-19** | [Latest Trends in Distributed Systems for 2026 – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-for-2026) | kw: Latest
 
 - **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: Complete

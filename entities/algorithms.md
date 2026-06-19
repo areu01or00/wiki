@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: data structure
+- **2026-06-19** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan | CareerLift Blog](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: interview
+- **2026-06-19** | [100+ Data Structures and Algorithms Interview Questions (2026)](https://www.interviewgrid.com/interview_questions/data_structures_and_algorithms) | kw: algorithms
+- **2026-06-19** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: leetcode
+- **2026-06-19** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: interview
+- **2026-06-19** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms
+- **2026-06-19** | [DSA Interview Questions and Answers [2026] Internshala Trainings](https://trainings.internshala.com/blog/dsa-interview-questions) | kw: interview
+
 - **2026-06-19** | [Company-Wise LeetCode Questions (2026)](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company-Wise
 - **2026-06-19** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: Structures
 - **2026-06-19** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: Interview

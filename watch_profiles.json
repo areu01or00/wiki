@@ -4,6 +4,12 @@
       "query": "system design distributed systems architecture patterns 2026",
       "wiki_page": "system-design.md",
       "sub_topics": [
+        "S.C.G.A",
+        "Chanh",
+        "AI-Native",
+        "Microservices",
+        "Limited",
+        "Enterprise",
         "2026",
         "ACL Digital",
         "Applications",
@@ -94,6 +100,12 @@
         "www"
       ],
       "last_result_hashes": [
+        "2b816d0cf4bff7a093aa08f5c173a8c6",
+        "7a43fcfcde6a6e1ad6d40ccc6f416748",
+        "e9d45130824f67775300df37d0b653d5",
+        "4881f9d65097b8b10d59d0af007c7f71",
+        "7f64368e8a1d34828ccb923f8e0003e5",
+        "8282bc38c31cae78de009daeeac96471",
         "36d5b41765b2654aa094de90b64c9ce2",
         "729c2ff54afb3063182d60de7d6aef1c",
         "70ab6bb9e75afaa8c9f876c882ecda17",
@@ -107,22 +119,31 @@
         "ad1abed58fb932a97f41b79fc33bea65",
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "bdfa16848e7698d5b55177deef2e4604",
-        "000e636c2d8f8b023001384d271bfa7a",
-        "3d924683b109e99c93d7ba785e0c7ab0",
-        "d0ae98a342caad97c68e59c996aeaea3",
-        "d88d3de8f0e60fb55d23ee13a71ca225",
-        "0138e3c26ac6dea5b65730e25947b726",
-        "ac5d08ac3a5fabb2815807c3418141b6",
-        "848a06554e3ca137e425aa0a6367b703"
+        "000e636c2d8f8b023001384d271bfa7a"
       ],
-      "last_run": "2026-06-19T23:17:05Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_run": "2026-06-19T23:33:33Z",
+      "new_sub_topics_this_run": [
+        "S.C.G.A",
+        "Chanh",
+        "AI-Native",
+        "Microservices",
+        "Limited",
+        "Enterprise"
+      ],
+      "last_new_count": 6
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
       "wiki_page": "compilers.md",
       "sub_topics": [
+        "Dive]",
+        "Aims",
+        "Revolution",
+        "SPEC",
+        "Group's",
+        "Java",
+        "LLVM-Based",
+        "ServeTheHome",
         "AI-Compiler",
         "Analysis",
         "Analytics",
@@ -224,6 +245,15 @@
         "years"
       ],
       "last_result_hashes": [
+        "23259200a7be4533fe1e25b8fdeb4b83",
+        "a888bd8966b306914c973b55ba7dd171",
+        "6e76d5990761a54f756d319e37fddbb0",
+        "f8a7c61c8d6dc808dbf666ea81fc0daa",
+        "191137fb0d9c6770341ad41eba235f6e",
+        "c988d203ffb86a252a80be5c9dbd7a13",
+        "742efaab24e38475fd7f26174f733cb4",
+        "83573b1679419367f79504e4e4372034",
+        "d47c8d2e90c50fcfbdf961715df52c1c",
         "a14bbc9e2956abab65cb54c410fb7b58",
         "377ce017f59479cac444aa255f43f295",
         "d1fd932d1da3adfb0dbab8bdc1cf0621",
@@ -234,33 +264,34 @@
         "8a3c0b54b932f41af83e9ef65e0ed05d",
         "e3de56741106b3ae528cad3750a09844",
         "6965a4c3581fb1ec2539b87936dda826",
-        "a2d1a19eb95d0d7bc6f00b97f59f26cb",
-        "14bec6c679203be13206205a9edb80d7",
-        "5d4ac715e54509da805ad5c64a5b6b9b",
-        "7ed9cf6296b93bcd1574511795e44641",
-        "7731fb7ce05160d35b32be9432fa7936",
-        "8a1f8c2cee520617974852260bebfda5",
-        "da2a9627437ec27ab2a13b536f37cf45",
-        "bbbc8ef4ec78630cae3e49219b742618",
-        "4a4e0127b12cfd2d476b5aaa44376f2d",
-        "ae427aaa277c67469832326760f5569f"
+        "a2d1a19eb95d0d7bc6f00b97f59f26cb"
       ],
-      "last_run": "2026-06-19T23:17:05Z",
+      "last_run": "2026-06-19T23:33:33Z",
       "new_sub_topics_this_run": [
-        "Open-Source",
-        "Analytics",
-        "Insight",
-        "Runtimes",
-        "TurboFan/Maglev",
-        "Rust",
-        "Sheet"
+        "Dive]",
+        "Aims",
+        "Revolution",
+        "SPEC",
+        "Group's",
+        "Java",
+        "LLVM-Based",
+        "ServeTheHome"
       ],
-      "last_new_count": 4
+      "last_new_count": 9
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
       "wiki_page": "type-systems.md",
       "sub_topics": [
+        "Implementation",
+        "Pairs",
+        "Class",
+        "Embedding-Projection",
+        "Graduality",
+        "Group",
+        "Dangers",
+        "Computing",
+        "Central",
         "Analysis",
         "Annotations",
         "Are",
@@ -358,6 +389,13 @@
         "with"
       ],
       "last_result_hashes": [
+        "b026ef92bf282c4d85de696983ed4a8c",
+        "b0b257ce43663e3177338e61f3e0e5f0",
+        "1008fbc7e0a6ad16c222522a665816ce",
+        "94aeeac4743ae8deb7aa5932ebfa086d",
+        "d965bb03c0d820c9c3584109e12df607",
+        "bca887779c4d30860ee265ce67393aa0",
+        "f333bd41608e9168a9593cda75a5d292",
         "8124c49e331290431d66069beb2ad45a",
         "174c70d60dc99aa45b86a805356b749b",
         "063c2f3eadaf2be7e059d09de8a540f4",
@@ -370,34 +408,33 @@
         "aa2f3be76632e120f0f252da09afe144",
         "481bf13dad9a849f34a663880bb0470f",
         "88dfcf74de33a1e88c9e9c90d0e55f9b",
-        "deca5e7373216ca874ed5b7b942ce58a",
-        "8152c0fa97986388894bbc6fe44824e4",
-        "1053fa1e5d3c47835cc3a5ecc1a46c52",
-        "3326193b269b65058b9975cd44e12d99",
-        "9b5af11b277e52a7b464f4abb731b0fb",
-        "31a8f57a5357fe0db9d26a8ea6c7b0f3",
-        "b8135aa2003f57230e5ebb8f016865c6",
-        "92f0465ddf4b602a46222857b98050fa"
+        "deca5e7373216ca874ed5b7b942ce58a"
       ],
-      "last_run": "2026-06-19T23:17:05Z",
+      "last_run": "2026-06-19T23:33:33Z",
       "new_sub_topics_this_run": [
-        "Automatic",
-        "Most",
-        "Summary",
-        "currying",
-        "follow",
-        "general-purpose",
-        "inference",
-        "intro",
-        "systems",
-        "type"
+        "Implementation",
+        "Pairs",
+        "Class",
+        "Embedding-Projection",
+        "Graduality",
+        "Group",
+        "Dangers",
+        "Computing",
+        "Central"
       ],
-      "last_new_count": 2
+      "last_new_count": 7
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
       "wiki_page": "functional-programming.md",
       "sub_topics": [
+        "Class",
+        "Applicatives",
+        "Feature",
+        "Functors",
+        "Programming",
+        "Central",
+        "Mastering",
         "2026",
         "And",
         "Bring",
@@ -497,6 +534,12 @@
         "with"
       ],
       "last_result_hashes": [
+        "9ae289060558ae8a8f9157b02711f54d",
+        "068a3ae8c5447ca39e2e415195bd98ba",
+        "607c569c563f668a2321dc5c1039bb9d",
+        "47e6d74aef0c39ef251aad25fd7ff012",
+        "da0251c79aaafbe4507694daa1b89e68",
+        "9b68e82c24f18cae6f081f9f76a4c843",
         "ce28a60a12ee60735a41f5226ee34f7c",
         "ab1a401478bf91151df62818473f5ef5",
         "8b392f40f2d9484600edbc6565709ca7",
@@ -510,18 +553,17 @@
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "bf1a15ca9ed763ef87e590e43ec094ad",
         "94a26269fce6d4cab82e390dea71cd77",
-        "cb3451b58dc0de64c4abaf6248054b44",
-        "16c191d0b473db149334e48791b18c40",
-        "fe6aed26b337f1993ecc4097fa829089",
-        "3635079258c31a05f32c708a4e5d46fc",
-        "9e468f427c81adba063b45d72c784552",
-        "c012a57fa63492860f64045db3528e7a",
-        "b82ed313e52a51037b2e80996b9a6a4d"
+        "cb3451b58dc0de64c4abaf6248054b44"
       ],
-      "last_run": "2026-06-19T23:17:05Z",
+      "last_run": "2026-06-19T23:33:33Z",
       "new_sub_topics_this_run": [
-        "Docs.rs",
-        "GitHub"
+        "Class",
+        "Applicatives",
+        "Feature",
+        "Functors",
+        "Programming",
+        "Central",
+        "Mastering"
       ],
       "last_new_count": 6
     },
@@ -529,6 +571,11 @@
       "query": "algorithms data structures LeetCode interview 2026",
       "wiki_page": "algorithms.md",
       "sub_topics": [
+        "CareerLift",
+        "Internshala",
+        "Blog",
+        "Discuss",
+        "Trainings",
         "10+ Advanced Data Structures Online Courses for 2026 - Class",
         "13 Best Data Structures & Algorithms Courses for 2026 - Clas",
         "2026",
@@ -626,6 +673,13 @@
         "questions"
       ],
       "last_result_hashes": [
+        "80f05230168f8150741246bd2cb5ebae",
+        "f3e3247de4ebf6210f3b488fa8a79fce",
+        "67b5ba73de5917df88406720e6c58ed2",
+        "123a9eca2d7e19a2944c93fe2596f1cb",
+        "27d47f935a44b9765ac562cb7e9795ce",
+        "9130b679ba352f107fe0f2646ccab1f7",
+        "03c79c8716250a3acef66ed66ae5c307",
         "24232c85f2aaf7b559df7c8ef9f1b4a3",
         "056bbd57e6e437cc7875c28572cf4197",
         "8d15aafde38b4f7003d03f97cfdf9d18",
@@ -638,26 +692,28 @@
         "60233ba12f224764b5938c3634b02e6a",
         "10d7129c85efbc86e21b710b48cc3f38",
         "09fb34f020c56145d7269228189a72c2",
-        "3739df902d0a15eaecfaff44ff2d20c8",
-        "8900f36a48596850ee5ba84a247a6c1d",
-        "544d7d110803052b93a7e0f05f49b7d5",
-        "3a5aa4dc7a08cf53617d8bc45fcdd95d",
-        "7e9fdd8c2ffc71a23e29276c3701990a",
-        "a72a20f0713cd5feeef913e54a998932",
-        "fae719876bc5c541440192783809f45b",
-        "09ba1908ae63111d1e15e6d4bafc047c"
+        "3739df902d0a15eaecfaff44ff2d20c8"
       ],
-      "last_run": "2026-06-19T23:17:05Z",
+      "last_run": "2026-06-19T23:33:33Z",
       "new_sub_topics_this_run": [
-        "Strategy",
-        "Works"
+        "CareerLift",
+        "Internshala",
+        "Blog",
+        "Discuss",
+        "Trainings"
       ],
-      "last_new_count": 5
+      "last_new_count": 7
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
       "wiki_page": "python-internals.md",
       "sub_topics": [
+        "Medium",
+        "Multi-Core",
+        "Hashnode",
+        "Broken",
+        "Exists",
+        "Actually",
         "Adding a JIT compiler to CPython - LWN.net",
         "Affects",
         "Anthony",
@@ -750,6 +806,14 @@
         "python-freethreading - Anaconda.org"
       ],
       "last_result_hashes": [
+        "e5de457dfb901c53485a52be22a77e07",
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "1c9e34c438b893768685d5e9b0743087",
+        "d2adce09b07afa8868adc1a5598d6db8",
+        "d512e623a8e3105302839677a779ee09",
+        "54f6a5262044647265550db28eb4de3f",
+        "02ee2d5981ac8b19d2dd6803f4e85437",
+        "195cc5355800be062c15e1a66ccfcacd",
         "349b5bc51f13880d861325cbf51da2ec",
         "0a974e52e4af3da11fa0449ca19924f5",
         "23f806669425cddfbb81ceb3202ed519",
@@ -761,25 +825,19 @@
         "704da68a060e620278ad7620fdf6c8a8",
         "9132d1ca01d195338d05eb556f7164be",
         "7b0c583d3445b91efa0c0453e5a737c4",
-        "aff79aed6e34d3f002b7fa14f5978b75",
-        "a3ce70b635f7607a2fedf2935167e17f",
-        "296132a36412b314c3f9b07d48465147",
-        "370531053ca8c2948a54a34bc0201e76",
-        "ccb33798bbbef6a9dd825d56e34777b0",
-        "1f1d91231f6ca4651fac2ff9d7e17658",
-        "265111ab89ec1e2086cc516865ce3720",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "9b950d80d24710f2899e1b281e96098e"
+        "aff79aed6e34d3f002b7fa14f5978b75"
       ],
-      "last_run": "2026-06-19T23:17:05Z",
+      "last_run": "2026-06-19T23:33:33Z",
       "new_sub_topics_this_run": [
-        "Lock",
-        "Finally",
-        "Dead",
-        "Free-Threaded"
+        "Medium",
+        "Multi-Core",
+        "Hashnode",
+        "Broken",
+        "Exists",
+        "Actually"
       ],
-      "last_new_count": 5
+      "last_new_count": 8
     }
   },
-  "last_run": "2026-06-19T23:17:05Z"
+  "last_run": "2026-06-19T23:33:33Z"
 }
