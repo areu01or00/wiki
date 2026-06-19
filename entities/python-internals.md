@@ -1,8 +1,6 @@
 # Python Internals
 
 ## Updates
-- **2026-06-19** | [How the GIL Affects Real Python Workloads - DEV Community](https://dev.to/hevalhazalkurt/how-the-gil-affects-real-python-workloads-242i) | kw: python,internals
-
 - **2026-06-18** | [Python 3.13 No-GIL: What You Need to Know - DEV Community](https://dev.to/zackch/python-313-no-gil-what-you-need-to-know-352i) | kw: python,internals,no-gil,PEP-703
 
 - **2026-06-18** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python,internals | src: python-internals
