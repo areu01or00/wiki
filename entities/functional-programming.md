@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad,functional,programming,Wikipedia | src: functional-programming
+
 - **2026-06-18** | [GitHub - pbv/tapf-monad-examples: Examples for programming with monads in Haskell](https://github.com/pbv/tapf-monad-examples) | kw: functional,programming | src: functional-programming
 - **2026-06-18** | [haskell - Explanation of Monad laws - Stack Overflow](https://stackoverflow.com/questions/3433608/explanation-of-monad-laws) | kw: functional,programming | src: functional-programming
 - **2026-06-18** | [Rust Traits and Generics: Advanced Type System Patterns](https://dasroot.net/posts/2026/03/rust-traits-generics-type-system-patterns/) | kw: functional,programming | src: functional-programming

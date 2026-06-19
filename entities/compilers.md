@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [The design and implementation of ZJIT & the next five years - RubyKaigi 2026](https://rubykaigi.org/2026/presentations/tekknolagi.html) | kw: design,implementation,ZJIT,next,five | src: compilers
+- **2026-06-19** | [Exploring Graal: Next-Generation JIT Compilation for Java - DEV Community](https://dev.to/yanev/exploring-graal-next-generation-jit-compilation-for-java-4b12) | kw: Exploring,Graal,Next-Generation,JIT,Compilation | src: compilers
+- **2026-06-19** | [Python's JIT Is Finally Fast — And It Almost Didn't Happen](https://mathewsachin.github.io/blog/2026/03/18/python-jit-finally-fast.html) | kw: Python,JIT,Finally,Fast,Almost | src: compilers
+
 - **2026-06-18** | [[2309.07062] Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062) | kw: compilers | src: compilers
 
 
