@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste
+- **2026-06-19** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Differe
+
 - **2026-06-19** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System ...](https://arxiv.org/pdf/2408.14345v3) | kw: Erasure | src: type-systems
 - **2026-06-19** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual | src: type-systems
 - **2026-06-19** | [TypeScript 2026: How It Became #1 on GitHub and Why AI Pushed It There | Programming Helper Tech](https://www.programming-helper.com/tech/typescript-2026-number-one-github-ai-typed-languages-python) | kw: TypeScript | src: type-systems

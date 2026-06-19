@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [JVM implementation using LLVM as a JIT - GitHub](https://github.com/JLLVM/JLLVM) | kw: JVM implementation using LLVM as a JIT - GitHub
+- **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22
+- **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 T
+- **2026-06-19** | [[Compiler] 20. Modern Compiler Development and Applications | Chaos and Order](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: [Compiler] 20. Modern Compiler Development and Applications 
+- **2026-06-19** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026 - BrainDetox](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry - The Native TypeScript Compiler That Lowers TS Straig
+
 - **2026-06-19** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: Compiler | src: compilers
 - **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: For | src: compilers
 - **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Modern | src: compilers

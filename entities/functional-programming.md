@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: Demystifying monads in Rust through property-based testing
+- **2026-06-19** | [Functional programming: A collection of good Monad tutorials | alvinalexander.com](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: Functional programming: A collection of good Monad tutorials
+- **2026-06-19** | [100+ Monads Online Courses for 2026 | Explore Free Courses](https://www.classcentral.com/subject/monads) | kw: 100+ Monads Online Courses for 2026   Explore Free Courses
+- **2026-06-19** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like Patterns in Rust: Exploring Functional
+
 - **2026-06-19** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: 2026 | src: functional-programming
 - **2026-06-19** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's | src: functional-programming
 - **2026-06-19** | [Navigating the Wild World of Monads A Guide for Haskell Developers](https://moldstud.com/articles/p-navigating-the-wild-world-of-monads-a-guide-for-haskell-developers) | kw: Navigating | src: functional-programming

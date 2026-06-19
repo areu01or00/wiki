@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Ultimate Java + DSA + LEETCODE and Interviews Preparation](https://www.udemy.com/course/ultimate-java-dsa-leetcode-and-interviews-preparation) | kw: Ultimate Java + DSA + LEETCODE and Interviews Preparation
+- **2026-06-19** | [Best Data Structures Interview Prep Tools (2026) - Compare | ShadeCoder](https://articles.shadecoder.com/best-data-structures-interview-prep-tools-in-2026-compared-ranked) | kw: Best Data Structures Interview Prep Tools (2026) - Compare  
+
 - **2026-06-19** | [GitHub - Himanshu-Singh7/dsa_interview_prep_2026: A comprehensive open-source roadmap and collection of solutions for DSA aimed at 2026 technical interviews.](https://github.com/Himanshu-Singh7/dsa_interview_prep_2026) | kw: GitHub | src: algorithms
 - **2026-06-19** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: DSA | src: algorithms
 - **2026-06-19** | [Best Tech Interview Prep Resources 2026](https://bestjobsearchapps.com/articles/en/best-tech-interview-prep-resources-2026) | kw: Tech | src: algorithms
