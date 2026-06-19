@@ -227,7 +227,7 @@
         "027b842794aa1b6f8ff97eb660c59079",
         "697337f881dc40cc977774b3475bbe3d"
       ],
-      "last_run": "2026-06-19T15:33:55.807111+00:00",
+      "last_run": "2026-06-19T15:48:36.225644+00:00",
       "new_sub_topics_this_run": [
         "Essential Software",
         "Software Architecture",
@@ -473,7 +473,7 @@
         "d1fd932d1da3adfb0dbab8bdc1cf0621",
         "f59aecd9d2bb1c9a8e2250bf412480f0"
       ],
-      "last_run": "2026-06-19T15:33:55.807111+00:00",
+      "last_run": "2026-06-19T15:48:36.225644+00:00",
       "new_sub_topics_this_run": [
         "Case For",
         "SPEC CPU",
@@ -692,8 +692,6 @@
         "Type Annotations"
       ],
       "last_result_hashes": [
-        "4d7d974d39b03b19286789f8c7dcff1e",
-        "63ef43ee9b53582276e12474996296d9",
         "f5743c6f15ab538b2f6ae819068463d2",
         "529b7e892267d1b1cfc9688b5bfdf683",
         "796dd8fb9f6369a2e77f75139af26f3c",
@@ -711,23 +709,16 @@
         "974863bcbc7dd3b9430468de6355e7a6",
         "ce8d456cc5c19dd66de1173f19eb7207",
         "7d43df11a787f4da1d8ba7253fb6f91f",
-        "7363df9b919ff0ae41c8cb8164aa61e8"
+        "7363df9b919ff0ae41c8cb8164aa61e8",
+        "5c8d464c75e0f82550f068820dd0b4ad",
+        "76cb8329ade5e1c0bc765af2f58cae53"
       ],
-      "last_run": "2026-06-19T15:33:55.807111+00:00",
+      "last_run": "2026-06-19T15:48:36.225644+00:00",
       "new_sub_topics_this_run": [
-        "Programming Research",
-        "Research Group",
-        "Guard Analysis",
-        "Safe Erasure",
-        "Erasure Gradual",
-        "Type System",
-        "Language Labyrinth",
-        "Matrix Analysis",
-        "PookieTech Blog",
-        "Efficient Selection",
-        "Type Annotations"
+        "Luau Type System Complete Guide \u2014 Strict Mode, Generics & Type Functions for Safe Code [2026] | Oflight Inc.",
+        "2026 is Breakthrough Year for Reliable AI World Models and Continual Learning Prototypes | NextBigFuture.com"
       ],
-      "last_new_count": 7
+      "last_new_count": 2
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -956,7 +947,7 @@
         "b82ed313e52a51037b2e80996b9a6a4d",
         "8b392f40f2d9484600edbc6565709ca7"
       ],
-      "last_run": "2026-06-19T15:33:55.807111+00:00",
+      "last_run": "2026-06-19T15:48:36.225644+00:00",
       "new_sub_topics_this_run": [
         "Does Rust",
         "Rust Support",
@@ -1195,7 +1186,7 @@
         "70003797271dd8784c1ec6afe4d29be2",
         "d3b8d082c2434924e142a67b3f2b0b02"
       ],
-      "last_run": "2026-06-19T15:33:55.807111+00:00",
+      "last_run": "2026-06-19T15:48:36.225644+00:00",
       "new_sub_topics_this_run": [
         "Best DSA",
         "DSA Sheet",
@@ -1448,7 +1439,7 @@
         "498edfd974d66c35db81ddcb5eced2f1",
         "7b0c583d3445b91efa0c0453e5a737c4"
       ],
-      "last_run": "2026-06-19T15:33:55.807111+00:00",
+      "last_run": "2026-06-19T15:48:36.225644+00:00",
       "new_sub_topics_this_run": [
         "Python GIL",
         "GIL The",

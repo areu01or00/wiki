@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026] | Oflight Inc.](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau | src: type-systems
+- **2026-06-19** | [2026 is Breakthrough Year for Reliable AI World Models and Continual Learning Prototypes | NextBigFuture.com](https://www.nextbigfuture.com/2026/04/2026-is-breakthrough-year-for-reliable-ai-world-models-and-continual-learning-prototypes.html) | kw: 2026 | src: type-systems
+
 - **2026-06-19** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual | src: type-systems
 - **2026-06-19** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System ...](https://arxiv.org/pdf/2408.14345v3) | kw: Guard | src: type-systems
 - **2026-06-19** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating | src: type-systems
