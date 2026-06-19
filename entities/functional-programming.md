@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: Monad, HaskellWiki | src: functional-programming
+- **2026-06-19** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust, Functional, Programming | src: functional-programming
+- **2026-06-19** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, Monad-Like, Patterns | src: functional-programming
+
 - **2026-06-19** | [Haskell Monads — Monday Morning Haskell](https://mmhaskell.com/monads) | kw: Haskell, Monads, Monday | src: functional-programming
 - **2026-06-19** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, Haskell | src: functional-programming
 - **2026-06-19** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads, Monad, Like | src: functional-programming

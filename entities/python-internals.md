@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)](https://medium.com/%40sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: Python, GIL, Explained | src: python-internals
+- **2026-06-19** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory | src: python-internals
+- **2026-06-19** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Python, Internals | src: python-internals
+- **2026-06-19** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, GIL | src: python-internals
+
 
 - **2026-06-19** | [CPython Internals by Anthony Shaw | Open Library](https://openlibrary.org/books/OL32872654M/CPython_Internals) | kw: CPython, Internals, by, Anthony | src: python-internals
 - **2026-06-19** | [Cpython Internals | CPython Internals - zpoint.github.io](https://zpoint.github.io/CPython-Internals/) | kw: Cpython, Internals, CPython, Internals | src: python-internals

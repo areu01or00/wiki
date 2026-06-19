@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting, Gradual, Types | src: type-systems
+- **2026-06-19** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia | src: type-systems
+
 
 - **2026-06-19** | [Type System – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem) | kw: Type, System, Programming, Research | src: type-systems
 - **2026-06-19** | [Types and Programming Languages | Carnegie Mellon University Computer Science Department](https://www.csd.cs.cmu.edu/course/15814/f26) | kw: Types, and, Programming, Languages | src: type-systems

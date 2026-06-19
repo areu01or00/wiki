@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, llvm, docs | src: compilers
+- **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: Case, Compilers, Look | src: compilers
+- **2026-06-19** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM, OrcJIT, Scale | src: compilers
+
 - **2026-06-19** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01) | kw: LLVM, Compiler, Infrastructure | src: compilers
 - **2026-06-19** | [Chapter 9: JIT Compilation | Learn LLVM 17 - Packt Subscription](https://subscription.packtpub.com/book/programming/9781837631346/12/ch12lvl1sec59/llvms-overall-jit-implementation-and-use-cases) | kw: Chapter, JIT, Compilation | src: compilers
 - **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1.rst | src: compilers
