@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: 2026 | src: functional-programming
+- **2026-06-19** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What's | src: functional-programming
+- **2026-06-19** | [Navigating the Wild World of Monads A Guide for Haskell Developers](https://moldstud.com/articles/p-navigating-the-wild-world-of-monads-a-guide-for-haskell-developers) | kw: Navigating | src: functional-programming
+- **2026-06-19** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Idioms | src: functional-programming
+- **2026-06-19** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The | src: functional-programming
+- **2026-06-19** | [haskell-monads-2026/README.md at main · nsu-syspro/haskell-monads-2026 · GitHub](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: 2026 | src: functional-programming
+- **2026-06-19** | [Rust: Functional Programming & Monads | by Technocrat ...](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust | src: functional-programming
+- **2026-06-19** | [Rust Trends](https://rust-trends.com/) | kw: Trends | src: functional-programming
+
 - **2026-06-19** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: How I Learned | src: functional-programming
 - **2026-06-19** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming at | src: functional-programming
 - **2026-06-19** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83 | src: functional-programming

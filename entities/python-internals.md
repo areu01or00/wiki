@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Management | src: python-internals
+- **2026-06-19** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: Hood | src: python-internals
+- **2026-06-19** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: Internals | src: python-internals
+- **2026-06-19** | [Python Memory Profiling and Optimization Techniques · Technical news about AI, coding and all](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Optimization | src: python-internals
+
 - **2026-06-19** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring Python Internals | src: python-internals
 - **2026-06-19** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is | src: python-internals
 - **2026-06-19** | [🧠 Python NoGIL in 2026: True Multithreading for AI Workloads](https://techscriipt.substack.com/p/python-nogil-in-2026-true-multithreading) | kw: 🧠 Python NoGIL | src: python-internals

@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: Compiler | src: compilers
+- **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: For | src: compilers
+- **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Modern | src: compilers
+- **2026-06-19** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM | src: compilers
+- **2026-06-19** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Free | src: compilers
+- **2026-06-19** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: Dive | src: compilers
+- **2026-06-19** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Su… | BestHub](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: Jeandle | src: compilers
+
 - **2026-06-19** | [LLVM/Clang 22 Compiler Officially Released With Many Improvements - Phoronix](https://www.phoronix.com/news/LLVM-Clang-22.1-Released) | kw: LLVM/Clang 22 Compiler | src: compilers
 - **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI Compiler Prompt | src: compilers
 - **2026-06-19** | [GitHub - JLLVM/JLLVM: JVM implementation using LLVM as a JIT](https://github.com/JLLVM/JLLVM) | kw: GitHub JLLVM/JLLVM JVM | src: compilers

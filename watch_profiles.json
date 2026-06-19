@@ -70,14 +70,12 @@
         "Guide",
         "Cloud",
         "Patterns",
-        "Complete"
+        "Complete",
+        "GitScrum",
+        "Edge",
+        "2026"
       ],
       "last_result_hashes": [
-        "9ba46483364adb11b22fcfbd9fe2e4d2",
-        "be6431b62c4b712f6f0fa4fe7d011e37",
-        "25a06ccbe831fcae1efa398fc18b067e",
-        "2cde1a28ba6d0671aefe2b40950d91f9",
-        "2fe10fde9badfcefffe293f429712135",
         "a3c1c2b6d55ff083812e1ea086382dbd",
         "1140e0efc696f2f04c728e3b4b23caab",
         "000e636c2d8f8b023001384d271bfa7a",
@@ -92,19 +90,18 @@
         "7adb740512b7087138618dd825b4af4c",
         "7a43fcfcde6a6e1ad6d40ccc6f416748",
         "2eed777e217c8f707d96cab621255e90",
-        "7e998da59b2b5530665f43eb3dada43f"
+        "7e998da59b2b5530665f43eb3dada43f",
+        "729c2ff54afb3063182d60de7d6aef1c",
+        "1885661cefe9c39654b0f1458625c8e0",
+        "a4f767c8d886ec8f2fab1999efc97283",
+        "0bccdfeceeee7664c4e61f75605f9f8f",
+        "6a8023ed8f6d80dc6383b03a803b7c26"
       ],
-      "last_run": "2026-06-19T19:47:19Z",
+      "last_run": "2026-06-19T20:02:50Z",
       "new_sub_topics_this_run": [
-        "Native",
-        "Lexicon",
-        "Evolving",
-        "Community",
-        "Architecture",
-        "Guide",
-        "Cloud",
-        "Patterns",
-        "Complete"
+        "GitScrum",
+        "Edge",
+        "2026"
       ],
       "last_new_count": 5
     },
@@ -166,7 +163,7 @@
         "Best",
         "BuildingAJIT1",
         "Unlocking",
-        "LLVMのJITについてLLMの説明が分からなくて困る",
+        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
         "LLVM",
         "Compilers",
         "RomanPikhotskiy",
@@ -179,16 +176,16 @@
         "Improvements",
         "Deep",
         "GitHub",
-        "JLLVM/JLLVM"
+        "JLLVM/JLLVM",
+        "FOSDEM",
+        "Free",
+        "Dive",
+        "For",
+        "Modern",
+        "Compiler",
+        "Jeandle"
       ],
       "last_result_hashes": [
-        "a888bd8966b306914c973b55ba7dd171",
-        "14bec6c679203be13206205a9edb80d7",
-        "d6b1d0b195a3733a394b342cca13ee0d",
-        "7013f0083d445281a0575c5e36238e9b",
-        "9549ee3df2b4c698c35929d6eea7600f",
-        "9e15a6675bd30a9f4f1f425fe7991ab1",
-        "97916bbcc57bd77bc98f26386c7d8c72",
         "cfbaf6a8fe3f09faa5c7874a776bb998",
         "d1fd932d1da3adfb0dbab8bdc1cf0621",
         "f59aecd9d2bb1c9a8e2250bf412480f0",
@@ -201,22 +198,26 @@
         "17a9ff8a71e2e0c4a86ad1f87464fc32",
         "1e4f2841efc1fbac5ac052907fa5790f",
         "8a1f8c2cee520617974852260bebfda5",
-        "233f5bce867180de5299f3e4a40e8650"
+        "233f5bce867180de5299f3e4a40e8650",
+        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
+        "23259200a7be4533fe1e25b8fdeb4b83",
+        "d0de062ed058a4b7bb87b9c013129190",
+        "ae427aaa277c67469832326760f5569f",
+        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
+        "6e76d5990761a54f756d319e37fddbb0",
+        "4a806827042fb7b1cfb380fea9790d30"
       ],
-      "last_run": "2026-06-19T19:47:19Z",
+      "last_run": "2026-06-19T20:02:50Z",
       "new_sub_topics_this_run": [
-        "Prompt",
-        "Cheat",
-        "LLVM/Clang",
-        "Optimization",
-        "Engineering",
-        "Many",
-        "Improvements",
-        "Deep",
-        "GitHub",
-        "JLLVM/JLLVM"
+        "FOSDEM",
+        "Free",
+        "Dive",
+        "For",
+        "Modern",
+        "Compiler",
+        "Jeandle"
       ],
-      "last_new_count": 6
+      "last_new_count": 7
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -289,15 +290,13 @@
         "Complete",
         "Analysis",
         "Mode",
-        "Safe"
+        "Safe",
+        "Performance",
+        "Lua",
+        "Erasure",
+        "TypeScript"
       ],
       "last_result_hashes": [
-        "1f3e7d1bf4955c674237c70349a25b1d",
-        "05e87cbef36cd8edbadc65c13cd2b4af",
-        "9a3ca8ef0be6bd5ed1e25f6590c663f6",
-        "1d6819e623bfb66da8f799ac0cb72c27",
-        "cf7609bce388c5f4de13c2f2bad5c887",
-        "481bf13dad9a849f34a663880bb0470f",
         "a933f47a5feedf4f43c8b83a958ffe76",
         "974863bcbc7dd3b9430468de6355e7a6",
         "ce8d456cc5c19dd66de1173f19eb7207",
@@ -311,22 +310,22 @@
         "1053fa1e5d3c47835cc3a5ecc1a46c52",
         "086347cd58071894c217e208bc64efd7",
         "f2495424757e7dd538dd771f623f1a0f",
-        "4a101114e3b691c4671d64770c39c052"
+        "4a101114e3b691c4671d64770c39c052",
+        "910e2c59d9371fe122f2a85a11011293",
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "e2c174c0007ca77c9deffbaae3cc9581",
+        "960c3757b01a3b5c2b782f876f59a49d",
+        "a3bff6024fbb28890c700733eef813fa",
+        "37ffd58453521e02c05e593eedaf102e"
       ],
-      "last_run": "2026-06-19T19:47:19Z",
+      "last_run": "2026-06-19T20:02:50Z",
       "new_sub_topics_this_run": [
-        "Navigating",
-        "Labyrinth",
-        "Strict",
-        "Paradigm",
-        "Improvement",
-        "Language",
-        "Complete",
-        "Analysis",
-        "Mode",
-        "Safe"
+        "Performance",
+        "Lua",
+        "Erasure",
+        "TypeScript"
       ],
-      "last_new_count": 7
+      "last_new_count": 6
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -402,17 +401,14 @@
         "Bring",
         "Haskell",
         "Code",
-        "Interlude"
+        "Interlude",
+        "Navigating",
+        "2026",
+        "Trends",
+        "What's",
+        "Idioms"
       ],
       "last_result_hashes": [
-        "a6680c77f7647761828dbe6af8a47d4e",
-        "dbd3010420412a91e41a5c1bd0f7d7a0",
-        "c012a57fa63492860f64045db3528e7a",
-        "b82ed313e52a51037b2e80996b9a6a4d",
-        "8b392f40f2d9484600edbc6565709ca7",
-        "19e9a027878cd9e15d80f9af087b154c",
-        "f8882eb87e76bf28070ea332bf5ce996",
-        "c2fefc572a2578f6f202a147d877925b",
         "be8e3b29bf239852c13e69d5b27392bb",
         "9faa7cf534e52ea65424258c0c6c7995",
         "34879744f2a105709306e24e50011292",
@@ -424,22 +420,25 @@
         "32522250afd65b3e71138f6d7e6fd397",
         "5aab28d7fbd337a8668d6cbda3b0a9c1",
         "6c5cb98e457a7ea49ad57c5293abde41",
-        "099dfaedc291f3a4e0a3a7a4e54681a8"
+        "099dfaedc291f3a4e0a3a7a4e54681a8",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "a1fd2b9212d955769e6bbfad262f2fb9",
+        "6926ed07b1df52bf3ddf90dccc9ef907",
+        "a637c1b028184eea6b2bb028d9aef416",
+        "827f82e9e1a47b7a7ad617629e29c129",
+        "e1e06864f8831c6e61e6a80895f0c9fb",
+        "c5bcaf01490daab7e999b17a95ee57ce",
+        "654039b2a2650812686655a4e5d3d0ce"
       ],
-      "last_run": "2026-06-19T19:47:19Z",
+      "last_run": "2026-06-19T20:02:50Z",
       "new_sub_topics_this_run": [
-        "Like",
-        "Part",
-        "Links",
-        "Exploring",
-        "Learned",
-        "POPL",
-        "Bring",
-        "Haskell",
-        "Code",
-        "Interlude"
+        "Navigating",
+        "2026",
+        "Trends",
+        "What's",
+        "Idioms"
       ],
-      "last_new_count": 6
+      "last_new_count": 8
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -510,17 +509,17 @@
         "Interview",
         "Grinding",
         "Python",
-        "Answers"
+        "Answers",
+        "GitHub",
+        "That",
+        "Coding",
+        "2026",
+        "Company",
+        "Asked",
+        "DSA",
+        "Tech"
       ],
       "last_result_hashes": [
-        "419ddc9c61219c419523d8e37695e627",
-        "d11d32e86d38f20c055a381fc2fe21eb",
-        "92fe0baf445ee0220579f3928702982a",
-        "4024687e769040f0b2cab72cab5718e1",
-        "2c64364e6bf4f3c28305cefee019ae6d",
-        "b21d36a50d052d121679e7c8a9d78df1",
-        "4ef694246fe9f20f232bdf9d6398fc4b",
-        "143876bc0621660474126a01477b0355",
         "cd3c9d7f265955321a10d61f9cd44592",
         "9d4e0e3a4cd83e0b5c6d3d78f17d2555",
         "fae719876bc5c541440192783809f45b",
@@ -532,16 +531,28 @@
         "8e6c7df52d21cb8e1d1493c6e8d0efad",
         "814ad50168aca7691bd4e6e042f0b36b",
         "425c7b3df72090fd953b1cda95d7377e",
-        "9a90a9b5be8e6f4ed694943f3b5178be"
+        "9a90a9b5be8e6f4ed694943f3b5178be",
+        "72b1bebf684cd10a41e6df3293065f1e",
+        "b374c779c101dd010d1f2ed0450afdee",
+        "ef0e4d85c1ccfcbeb45ec6bf5e3015fb",
+        "758e32a5ad74796e353ebdfbf6d56a41",
+        "cb771d1b262c915d29d009eda7c1c98e",
+        "96cc6ef4debb90003f3411a620935917",
+        "8ec4ac28253c4f016997232629004129",
+        "55e31a674bb02e0795ac86448ae5879c"
       ],
-      "last_run": "2026-06-19T19:47:19Z",
+      "last_run": "2026-06-19T20:02:50Z",
       "new_sub_topics_this_run": [
-        "Interview",
-        "Grinding",
-        "Python",
-        "Answers"
+        "GitHub",
+        "That",
+        "Coding",
+        "2026",
+        "Company",
+        "Asked",
+        "DSA",
+        "Tech"
       ],
-      "last_new_count": 6
+      "last_new_count": 8
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -612,13 +623,13 @@
         "Exploring",
         "Guide",
         "Global",
-        "BirJob"
+        "BirJob",
+        "Management",
+        "Internals",
+        "Hood",
+        "Optimization"
       ],
       "last_result_hashes": [
-        "b3593c9f59eca4f8b6263b3a3f35c76d",
-        "8423f12ab9baba929d1ed4e944bcf94c",
-        "3453b796c7c5877faf9dc9fdd181534f",
-        "aff79aed6e34d3f002b7fa14f5978b75",
         "f51b42e3cc617cf8c1e7d0846c23f268",
         "1fb82e2be1d599ef51996d8d49300721",
         "498edfd974d66c35db81ddcb5eced2f1",
@@ -634,23 +645,21 @@
         "d2adce09b07afa8868adc1a5598d6db8",
         "2084f8e9ae70d336d28c303d0a70faac",
         "7d7462b15a5b202849cc8e6a4ee62adf",
-        "6287e8dc37ecb68d7af1bc0e4b769a4f"
+        "6287e8dc37ecb68d7af1bc0e4b769a4f",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "7b4d33a48fc204e0cb25e4f1266c7297",
+        "03e9423b802e0456d3fe98220b76ea3a",
+        "30acb9043f9aa743b106860fc18c3038"
       ],
-      "last_run": "2026-06-19T19:47:19Z",
+      "last_run": "2026-06-19T20:02:50Z",
       "new_sub_topics_this_run": [
-        "Threaded",
-        "Going",
-        "Hidden",
-        "Explained",
-        "Workloads",
-        "Affects",
-        "Exploring",
-        "Guide",
-        "Global",
-        "BirJob"
+        "Management",
+        "Internals",
+        "Hood",
+        "Optimization"
       ],
-      "last_new_count": 5
+      "last_new_count": 4
     }
   },
-  "last_run": "2026-06-19T19:47:19Z"
+  "last_run": "2026-06-19T20:02:50Z"
 }

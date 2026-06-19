@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [GitHub - Himanshu-Singh7/dsa_interview_prep_2026: A comprehensive open-source roadmap and collection of solutions for DSA aimed at 2026 technical interviews.](https://github.com/Himanshu-Singh7/dsa_interview_prep_2026) | kw: GitHub | src: algorithms
+- **2026-06-19** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: DSA | src: algorithms
+- **2026-06-19** | [Best Tech Interview Prep Resources 2026](https://bestjobsearchapps.com/articles/en/best-tech-interview-prep-resources-2026) | kw: Tech | src: algorithms
+- **2026-06-19** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: 2026 | src: algorithms
+- **2026-06-19** | [LeetCode Questions Asked in Google 2026 - PA](https://papersadda.com/article/leetcode-questions-google-2026) | kw: Asked | src: algorithms
+- **2026-06-19** | [LeetCode Patterns That Still Matter in 2026: What I... | Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: That | src: algorithms
+- **2026-06-19** | [Company-Wise LeetCode Questions (2026): DSA Practice by ...](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company | src: algorithms
+- **2026-06-19** | [11 Best Coding Interview Preparation Courses for 2026 — Class Central](https://www.classcentral.com/report/best-coding-interview-preparation-courses/) | kw: Coding | src: algorithms
+
 - **2026-06-19** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: Data Structures Interview | src: algorithms
 - **2026-06-19** | [Top 50 Data Structures Interview Questions 2026 - PA](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: Top 50 Data | src: algorithms
 - **2026-06-19** | [LeetCode Python Problems](https://leetcode.com/problemset?language=Python) | kw: LeetCode Python Problems | src: algorithms

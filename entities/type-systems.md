@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System ...](https://arxiv.org/pdf/2408.14345v3) | kw: Erasure | src: type-systems
+- **2026-06-19** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual | src: type-systems
+- **2026-06-19** | [TypeScript 2026: How It Became #1 on GitHub and Why AI Pushed It There | Programming Helper Tech](https://www.programming-helper.com/tech/typescript-2026-number-one-github-ai-typed-languages-python) | kw: TypeScript | src: type-systems
+- **2026-06-19** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now | BirJob](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: Lua | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Performance | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Performance | src: type-systems
+
 - **2026-06-19** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: gradual typing – | src: type-systems
 - **2026-06-19** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual Typing – | src: type-systems
 - **2026-06-19** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System | src: type-systems

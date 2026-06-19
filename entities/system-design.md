@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: 2026 | src: system-design
+- **2026-06-19** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: GitScrum | src: system-design
+- **2026-06-19** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: 2026 | src: system-design
+- **2026-06-19** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: 2026 | src: system-design
+- **2026-06-19** | [Edge Computing Trends 2026: The Rise of Distributed Infrastructure](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: Edge | src: system-design
+
 - **2026-06-19** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering Distributed Systems | src: system-design
 - **2026-06-19** | [Patterns of Distributed Systems - research.tedneward.com](https://research.tedneward.com/patterns/patterns-of-distributed-systems/index.html) | kw: Patterns of Distributed | src: system-design
 - **2026-06-19** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide | src: system-design
