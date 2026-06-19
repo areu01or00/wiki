@@ -242,19 +242,9 @@
         "7c17643f234aa75cf0ffa2cbe542acf4",
         "ee72052a71ace9cf431a4b85c5d0d14c"
       ],
-      "last_run": "2026-06-19T05-03-15Z",
-      "new_sub_topics_this_run": [
-        "Architecture",
-        "Best",
-        "AI-Native",
-        "Beyond",
-        "Monolith",
-        "Strategy",
-        "Snehal",
-        "Singh",
-        "Medium"
-      ],
-      "last_new_count": 8
+      "last_run": "2026-06-19T05-16-25Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -492,15 +482,9 @@
         "f59aecd9d2bb1c9a8e2250bf412480f0",
         "4a4e0127b12cfd2d476b5aaa44376f2d"
       ],
-      "last_run": "2026-06-19T05-03-15Z",
-      "new_sub_topics_this_run": [
-        "Best",
-        "Analytics",
-        "BuildingAJIT1.rst",
-        "Summer",
-        "Code"
-      ],
-      "last_new_count": 5
+      "last_run": "2026-06-19T05-16-25Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -738,17 +722,9 @@
         "ca03c102ef488af0d2105b163fcd1748",
         "0c4fea65325737c446710c96431c6923"
       ],
-      "last_run": "2026-06-19T05-03-15Z",
-      "new_sub_topics_this_run": [
-        "Annotations",
-        "Analysis",
-        "Safe",
-        "Sound",
-        "Dead",
-        "Northeastern",
-        "University"
-      ],
-      "last_new_count": 4
+      "last_run": "2026-06-19T05-16-25Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -986,17 +962,9 @@
         "b82ed313e52a51037b2e80996b9a6a4d",
         "8b392f40f2d9484600edbc6565709ca7"
       ],
-      "last_run": "2026-06-19T05-03-15Z",
-      "new_sub_topics_this_run": [
-        "About",
-        "Monday",
-        "Morning",
-        "Example",
-        "Applicatives",
-        "Mastering",
-        "Bring"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-19T05-16-25Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1070,7 +1038,7 @@
         "Introduction",
         "JIT",
         "Java",
-        "Java\u9762\u8bd5\u5b66\u4e60",
+        "Java面试学习",
         "JimengShi/Leetcode-Data-Structures-Algorithms",
         "KING",
         "Katravalli",
@@ -1213,12 +1181,16 @@
         "Coding",
         "CareerLift",
         "Blog",
-        "CareerLift.ai"
+        "CareerLift.ai",
+        "BEST Data Structures",
+        "Algorithms Books",
+        "Update",
+        "DSA Books Every Software",
+        "Engineers Should Read",
+        "Best Data Structures",
+        "Read"
       ],
       "last_result_hashes": [
-        "67b5ba73de5917df88406720e6c58ed2",
-        "80f05230168f8150741246bd2cb5ebae",
-        "544d7d110803052b93a7e0f05f49b7d5",
         "143876bc0621660474126a01477b0355",
         "5835e3a17a087ccb721b2816c8712b40",
         "25d5c21b36d2097bd47c7c6785b37f42",
@@ -1235,23 +1207,22 @@
         "09ba1908ae63111d1e15e6d4bafc047c",
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
         "770a90f8cfde2129daad10f7d9ad8d6d",
-        "1520006a744a57a63bf6c03d55114a2e"
+        "1520006a744a57a63bf6c03d55114a2e",
+        "a7b06a0dd6c2b4b2db1ac5b75bbca867",
+        "200ca117466b9b93f9cc3be32b59d56d",
+        "9f893a592f87279b3c4aecd3025a3d76"
       ],
-      "last_run": "2026-06-19T05-03-15Z",
+      "last_run": "2026-06-19T05-16-25Z",
       "new_sub_topics_this_run": [
-        "Data",
-        "Algorithms",
-        "Answers",
-        "Complete",
-        "Strategy",
-        "Ananya-Singh2406",
-        "Data-Structures-and-Algorithms---150-top-interview-questions",
-        "Coding",
-        "CareerLift",
-        "Blog",
-        "CareerLift.ai"
+        "BEST Data Structures",
+        "Algorithms Books",
+        "Update",
+        "DSA Books Every Software",
+        "Engineers Should Read",
+        "Best Data Structures",
+        "Read"
       ],
-      "last_new_count": 6
+      "last_new_count": 3
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1326,9 +1297,9 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals\u00b7",
+        "Internals·",
         "Interpreter",
-        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
+        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
         "Interview",
         "InterviewPilot",
         "Interviews",
@@ -1497,23 +1468,9 @@
         "9b950d80d24710f2899e1b281e96098e",
         "beaef31893811bf93a7c49c5427531ec"
       ],
-      "last_run": "2026-06-19T05-03-15Z",
-      "new_sub_topics_this_run": [
-        "Backend",
-        "Dead",
-        "BirJob",
-        "Edugators",
-        "Charting",
-        "Parallel",
-        "Evolution",
-        "Harmony",
-        "Controversy",
-        "Experimental",
-        "Breaks",
-        "Barrier",
-        "Sean"
-      ],
-      "last_new_count": 7
+      "last_run": "2026-06-19T05-16-25Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     }
   }
 }

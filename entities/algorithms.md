@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [15 BEST Data Structures and Algorithms Books (2026 Update)](https://www.guru99.com/data-structure-algorithms-books.html) | kw: structures | src: algorithms
+- **2026-06-19** | [10 DSA Books Every Software Engineers Should Read in 2026](https://medium.com/javarevisited/10-dsa-books-every-software-engineers-should-read-in-2026-539779d2d772) | kw: Software | src: algorithms
+- **2026-06-19** | [16 Best Data Structures and Algorithms Books to Read in 2026](https://hackr.io/blog/best-data-structures-and-algorithms-books) | kw: structures | src: algorithms
+
 - **2026-06-19** | [100+ Data Structures and Algorithms Interview Questions (2026)](https://www.interviewgrid.com/interview_questions/data_structures_and_algorithms) | kw: data | src: algorithms
 - **2026-06-19** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: top | src: algorithms
 - **2026-06-19** | [Top 50 Data Structures Interview Questions 2026 - PA](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: top | src: algorithms
