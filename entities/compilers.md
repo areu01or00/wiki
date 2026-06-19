@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Free
+- **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
+- **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet/) | kw: AI-Compiler
+
 - **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: llvm <!-- h:5cefefefe6afc297697ed1187181b6a1 -->
 - **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: llvm <!-- h:46047667f85453525404b37598767ca8 -->
 - **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: compilers <!-- h:191137fb0d9c6770341ad41eba235f6e -->

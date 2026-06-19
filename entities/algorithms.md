@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding
+- **2026-06-19** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: Data
+
 - **2026-06-19** | [Common LeetCode Coding Patterns. Cheat sheet!](https://medium.com/@rabhinaya0/common-leetcode-coding-patterns-8cb1d2090b70) | kw: leetcode <!-- h:3186ab2eb21050b49611ebca133ee418 -->
 - **2026-06-19** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: neetcode <!-- h:8d15aafde38b4f7003d03f97cfdf9d18 -->
 - **2026-06-19** | [Best Data Structures Interview Prep Tools (2026) - Compare O | ShadeCoder](https://articles.shadecoder.com/best-data-structures-interview-prep-tools-in-2026-compared-ranked) | kw: data-structures <!-- h:ba19b4240a469c3c9c16e9400bc5cdf2 -->

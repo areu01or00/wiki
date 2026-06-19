@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: Demystifying
+- **2026-06-19** | [Monad in higher - Rust - Docs.rs](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: Monad
+- **2026-06-19** | [haskell-monads-2026/README.md at main · nsu-syspro/haskell-monads-2026 · GitHub](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: GitHub
+
 - **2026-06-19** | [What is a Monad (in Rust)? - mspandit.github.io](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: monads <!-- h:c35700ff9f0773d69682721949231b06 -->
 - **2026-06-19** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: haskell <!-- h:47e6d74aef0c39ef251aad25fd7ff012 -->
 - **2026-06-19** | [Does Rust Support Functional Programming Idioms? Exploring...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: rust <!-- h:18ed2d9a19fb2926a9e2e8d651d99e38 -->

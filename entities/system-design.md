@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: Essential
+- **2026-06-19** | [Caching & Performance: Building Fast, Predictable Systems in 2026](https://neuralstackms.tech/caching-performance-building-fast-predictable-systems-in-2026) | kw: Caching
+
 - **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system <!-- h:729c2ff54afb3063182d60de7d6aef1c -->
 
 - **2026-06-19** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: Latest Trends in Distributed Systems (2026): What | src: system-design

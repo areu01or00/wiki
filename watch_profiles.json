@@ -12,6 +12,7 @@
         "Architecture Trends",
         "Best",
         "Bold Predictions",
+        "Building",
         "Caching",
         "Chanh Le",
         "Cloud",
@@ -22,12 +23,16 @@
         "Distributed",
         "Edge",
         "Enterprise Architecture",
+        "Essential",
         "Essential Software",
         "Evolving",
+        "Examples",
+        "Fast",
         "GitScrum",
         "Guide",
         "High-Performance",
         "HostMyCode",
+        "Java",
         "Java Prorgram",
         "Latest",
         "Lexicon",
@@ -39,7 +44,9 @@
         "Paradigms",
         "Patterns",
         "Patterns That",
+        "Performance",
         "Practices",
+        "Predictable",
         "Principles",
         "Prorgram",
         "Prorgram Examples",
@@ -87,8 +94,6 @@
         "www"
       ],
       "last_result_hashes": [
-        "729c2ff54afb3063182d60de7d6aef1c",
-        "a4f767c8d886ec8f2fab1999efc97283",
         "0bccdfeceeee7664c4e61f75605f9f8f",
         "6a8023ed8f6d80dc6383b03a803b7c26",
         "8a4c6c3b1a58ba76429a4cc01eb115a4",
@@ -106,17 +111,29 @@
         "848a06554e3ca137e425aa0a6367b703",
         "e9d45130824f67775300df37d0b653d5",
         "829e385d598e3022a5a9d9f416e9920c",
-        "70c411feb51eb6a46c277d953d6d0a03"
+        "70c411feb51eb6a46c277d953d6d0a03",
+        "4141d7871c6b9a533346e695683501e0",
+        "f0867b873de5e0095075cc1e002a4368"
       ],
-      "last_run": "2026-06-19T22:31:57Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_run": "2026-06-19T22:46:54Z",
+      "new_sub_topics_this_run": [
+        "Essential",
+        "Java",
+        "Examples",
+        "Performance",
+        "Building",
+        "Fast",
+        "Predictable"
+      ],
+      "last_new_count": 2
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
       "wiki_page": "compilers.md",
       "sub_topics": [
+        "AI-Compiler",
         "Analysis",
+        "Analytics",
         "Applications",
         "Best",
         "BestHub",
@@ -149,6 +166,7 @@
         "Improvements",
         "Infrastructure",
         "Inline",
+        "Insight",
         "JIT",
         "JIT Upcoming",
         "JLLVM/JLLVM",
@@ -167,6 +185,7 @@
         "Modern",
         "Monomorphization",
         "Native",
+        "Open-Source",
         "Optimization",
         "Order",
         "Overlooked Power",
@@ -175,12 +194,16 @@
         "Perry",
         "Prompt",
         "RomanPikhotskiy",
+        "Runtimes",
+        "Rust",
         "SPEC CPU",
+        "Sheet",
         "Straight",
         "Supercharge",
         "Technology",
         "That",
         "The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22",
+        "TurboFan/Maglev",
         "TypeScript",
         "Unlocking",
         "Unlocking Performance",
@@ -206,13 +229,9 @@
         "using",
         "weekly",
         "with",
-        "years",
-        "AI-Compiler"
+        "years"
       ],
       "last_result_hashes": [
-        "5cefefefe6afc297697ed1187181b6a1",
-        "46047667f85453525404b37598767ca8",
-        "191137fb0d9c6770341ad41eba235f6e",
         "9e15a6675bd30a9f4f1f425fe7991ab1",
         "dc5ada16f234dc184f112304b0917552",
         "f59aecd9d2bb1c9a8e2250bf412480f0",
@@ -229,11 +248,20 @@
         "bbbc8ef4ec78630cae3e49219b742618",
         "4a4e0127b12cfd2d476b5aaa44376f2d",
         "ae427aaa277c67469832326760f5569f",
-        "23259200a7be4533fe1e25b8fdeb4b83"
+        "23259200a7be4533fe1e25b8fdeb4b83",
+        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
+        "a888bd8966b306914c973b55ba7dd171",
+        "a18bd486739d593df61e9c5cd17b88c9"
       ],
-      "last_run": "2026-06-19T22:31:57Z",
+      "last_run": "2026-06-19T22:46:54Z",
       "new_sub_topics_this_run": [
-        "AI-Compiler"
+        "Open-Source",
+        "Analytics",
+        "Insight",
+        "Runtimes",
+        "TurboFan/Maglev",
+        "Rust",
+        "Sheet"
       ],
       "last_new_count": 3
     },
@@ -359,7 +387,7 @@
         "5c8d464c75e0f82550f068820dd0b4ad",
         "0c4fea65325737c446710c96431c6923"
       ],
-      "last_run": "2026-06-19T22:31:57Z",
+      "last_run": "2026-06-19T22:46:54Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -372,9 +400,11 @@
         "Bring",
         "Code",
         "Coming",
+        "Comparison",
         "Courses",
         "Demystifying",
         "Developers",
+        "Docs.rs",
         "Does",
         "Does Rust",
         "Explore",
@@ -385,6 +415,7 @@
         "Functional",
         "Functional Programming Languages",
         "Future",
+        "GitHub",
         "Gleam",
         "Haskell",
         "Idioms",
@@ -409,6 +440,7 @@
         "Part",
         "Programming Idioms?",
         "Reliability",
+        "Rust",
         "Rust Support",
         "Rust: Functional Programming & Monads",
         "Should",
@@ -459,14 +491,9 @@
         "through",
         "tutorials",
         "vs.",
-        "with",
-        "Rust",
-        "Comparison"
+        "with"
       ],
       "last_result_hashes": [
-        "c35700ff9f0773d69682721949231b06",
-        "47e6d74aef0c39ef251aad25fd7ff012",
-        "18ed2d9a19fb2926a9e2e8d651d99e38",
         "88755452686cdbfeca2c3e154b11cd1a",
         "1e23347071bace94cd96516373fa7b4d",
         "89d87031e449ae356f26865a02b9a13d",
@@ -483,12 +510,15 @@
         "b82ed313e52a51037b2e80996b9a6a4d",
         "ea88e7791ba77ef858bb935fcb22db5c",
         "68d06a421bcd63911f18ce6e0aef4d4e",
-        "1d534619cb30dee65cce83233b409410"
+        "1d534619cb30dee65cce83233b409410",
+        "19e9a027878cd9e15d80f9af087b154c",
+        "d36424ab85b4b13247d9175d80fbb9cb",
+        "e1e06864f8831c6e61e6a80895f0c9fb"
       ],
-      "last_run": "2026-06-19T22:31:57Z",
+      "last_run": "2026-06-19T22:46:54Z",
       "new_sub_topics_this_run": [
-        "Rust",
-        "Comparison"
+        "Docs.rs",
+        "GitHub"
       ],
       "last_new_count": 3
     },
@@ -510,6 +540,7 @@
         "Best DSA Sheet 2026 | To Crack Interviews",
         "Codeforces",
         "Coding",
+        "Common",
         "Company",
         "Company-Wise",
         "Compare",
@@ -554,6 +585,7 @@
         "Solved",
         "Start",
         "Stop",
+        "Strategy",
         "Structure",
         "Structures",
         "Study",
@@ -571,6 +603,7 @@
         "Tutor",
         "Ultimate",
         "Versus",
+        "Works",
         "World",
         "World's",
         "Worlds",
@@ -587,12 +620,9 @@
         "patterns",
         "problem",
         "problemset",
-        "questions",
-        "Common"
+        "questions"
       ],
       "last_result_hashes": [
-        "3186ab2eb21050b49611ebca133ee418",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
         "ba19b4240a469c3c9c16e9400bc5cdf2",
         "cd3c9d7f265955321a10d61f9cd44592",
         "e105b734b6688dac3adb064364860950",
@@ -610,13 +640,16 @@
         "09ba1908ae63111d1e15e6d4bafc047c",
         "5894846bbc35ac51fe21dc903bfddad3",
         "b374c779c101dd010d1f2ed0450afdee",
-        "80f05230168f8150741246bd2cb5ebae"
+        "80f05230168f8150741246bd2cb5ebae",
+        "37b18b3ee5841dc8d78ef02edf927dc9",
+        "814ad50168aca7691bd4e6e042f0b36b"
       ],
-      "last_run": "2026-06-19T22:31:57Z",
+      "last_run": "2026-06-19T22:46:54Z",
       "new_sub_topics_this_run": [
-        "Common"
+        "Strategy",
+        "Works"
       ],
-      "last_new_count": 4
+      "last_new_count": 2
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -631,9 +664,13 @@
         "Consensus",
         "Controversy",
         "Cpython",
+        "Dead",
         "Explained",
         "Exploring",
         "Exploring Python: Internals and Optimization",
+        "Finally",
+        "Free-Threaded",
+        "From",
         "Future",
         "GIL",
         "Global",
@@ -647,10 +684,12 @@
         "Interpreter initialization and finalization - Python 3.14.6 ",
         "JIT and tier 2 - CPython wiki - Factory",
         "Key",
+        "Lock",
         "Management",
         "Memory",
         "Memory Management & GIL: Python Guide (2026)",
         "Newsletter",
+        "No-GIL",
         "Optimization",
         "Optimization,",
         "Optimizations",
@@ -705,13 +744,9 @@
         "for",
         "odysse",
         "odysse.io",
-        "python-freethreading - Anaconda.org",
-        "From",
-        "No-GIL"
+        "python-freethreading - Anaconda.org"
       ],
       "last_result_hashes": [
-        "0a974e52e4af3da11fa0449ca19924f5",
-        "9df3859b4715ae95cd2f1c86331d9b55",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "5451f574f8ac7101d4076e3f903cf1d4",
         "507879acf3131fb6c383e24494db7d69",
@@ -729,15 +764,19 @@
         "9b950d80d24710f2899e1b281e96098e",
         "144c35f6b99ca28df6ed11d16c89b3d5",
         "d67c0fb50ee2bad80e09d01b4a7f78e0",
-        "e5de457dfb901c53485a52be22a77e07"
+        "e5de457dfb901c53485a52be22a77e07",
+        "e3be21f44e4b751e653c13f75a54d9cd",
+        "9a16abe455aad8976504790293f8762a"
       ],
-      "last_run": "2026-06-19T22:31:57Z",
+      "last_run": "2026-06-19T22:46:54Z",
       "new_sub_topics_this_run": [
-        "From",
-        "No-GIL"
+        "Lock",
+        "Finally",
+        "Dead",
+        "Free-Threaded"
       ],
-      "last_new_count": 3
+      "last_new_count": 2
     }
   },
-  "last_run": "2026-06-19T22:31:57Z"
+  "last_run": "2026-06-19T22:46:54Z"
 }
