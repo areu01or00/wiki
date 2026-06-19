@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Data Structures and Algorithms Feb 2026 - arXiv.org](https://arxiv.org/list/cs.DS/2026-02) | kw: Data Structures and Algorithms Feb 2026 - arXiv.or | src: algorithms
+- **2026-06-19** | [Data Structures and Algorithms Jan 2026 - arXiv.org](https://arxiv.org/list/cs.DS/2026-01) | kw: Data Structures and Algorithms Jan 2026 - arXiv.or | src: algorithms
+- **2026-06-19** | [Top Data Structures Courses 2026 | Algorithms & Projects](https://upskill.biz/top-data-structures-courses-2026-algorithms-projects/) | kw: Top Data Structures Courses 2026  Algorithms & Pr | src: algorithms
+- **2026-06-19** | [Basics of Data Structure Algorithms - DataFlair](https://data-flair.training/blogs/data-structure-algorithms) | kw: Basics of Data Structure Algorithms - DataFlair | src: algorithms
+
 - **2026-06-19** | [DSA Learning Roadmap: From Beginner to Expert (2026) | Coursera](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: dsa | src: algorithms
 - **2026-06-19** | [Most Asked LeetCode Interview Questions: Essential Questions & Strategies](https://www.upgrad.com/blog/leetcode-interview-questions) | kw: asked | src: algorithms
 
