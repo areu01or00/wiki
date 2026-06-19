@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system | src: system-design
+- **2026-06-19** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: top | src: system-design
+- **2026-06-19** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: the | src: system-design
+- **2026-06-19** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed | src: system-design
+- **2026-06-19** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering | src: system-design
+- **2026-06-19** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: distributed | src: system-design
+- **2026-06-19** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: distributed | src: system-design
+- **2026-06-19** | [Beyond the Monolith: A 2026 Strategy for Engineering Distributed Systems | by Snehal Singh | Mar, 2026 | Medium](https://medium.com/%40snehal_singh/beyond-the-monolith-a-2026-strategy-for-engineering-distributed-systems-bba0d1ef10f3) | kw: beyond | src: system-design
+
 - **2026-06-19** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: system | src: system-design
 - **2026-06-19** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: distributed | src: system-design
 - **2026-06-19** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed | src: system-design

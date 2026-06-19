@@ -209,9 +209,26 @@
         "isolation",
         "cells",
         "load shedding",
-        "isolation patterns"
+        "isolation patterns",
+        "Architecture",
+        "Best",
+        "AI-Native",
+        "Beyond",
+        "Monolith",
+        "Strategy",
+        "Snehal",
+        "Singh",
+        "Medium"
       ],
       "last_result_hashes": [
+        "729c2ff54afb3063182d60de7d6aef1c",
+        "5aeac4fa30fb41ccddd5bdbec41ec241",
+        "7a43fcfcde6a6e1ad6d40ccc6f416748",
+        "9ba46483364adb11b22fcfbd9fe2e4d2",
+        "46a56982536c8a4f9801b7d471165b39",
+        "aaaf9550e5e27d5469ea0edd84372b77",
+        "25a06ccbe831fcae1efa398fc18b067e",
+        "2cde1a28ba6d0671aefe2b40950d91f9",
         "2fe10fde9badfcefffe293f429712135",
         "a3c1c2b6d55ff083812e1ea086382dbd",
         "1140e0efc696f2f04c728e3b4b23caab",
@@ -223,19 +240,21 @@
         "027b842794aa1b6f8ff97eb660c59079",
         "697337f881dc40cc977774b3475bbe3d",
         "7c17643f234aa75cf0ffa2cbe542acf4",
-        "ee72052a71ace9cf431a4b85c5d0d14c",
-        "7adb740512b7087138618dd825b4af4c",
-        "d88d3de8f0e60fb55d23ee13a71ca225",
-        "92d071cfe790dbd36f457c42356f1ce0",
-        "6a844cba5f4dbe6112de4dacb09bede6",
-        "6fe9880853103e8782a6653a46dc9a3c",
-        "d7e4053d8359b5818b4128259533ab69",
-        "b860d793db16e9aac8e06134c70cc169",
-        "103e0e4aa818b81f7be6f316a9b7b78f"
+        "ee72052a71ace9cf431a4b85c5d0d14c"
       ],
-      "last_run": "2026-06-19T04-46-16Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T05-03-15Z",
+      "new_sub_topics_this_run": [
+        "Architecture",
+        "Best",
+        "AI-Native",
+        "Beyond",
+        "Monolith",
+        "Strategy",
+        "Snehal",
+        "Singh",
+        "Medium"
+      ],
+      "last_new_count": 8
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -444,9 +463,19 @@
         "MLIR",
         "Multi-level IR",
         "Adaptive Interpreter",
-        "Specializing Interpreter"
+        "Specializing Interpreter",
+        "Best",
+        "Analytics",
+        "BuildingAJIT1.rst",
+        "Summer",
+        "Code"
       ],
       "last_result_hashes": [
+        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
+        "ae427aaa277c67469832326760f5569f",
+        "c988d203ffb86a252a80be5c9dbd7a13",
+        "7ed9cf6296b93bcd1574511795e44641",
+        "7d0b717005814217330e578b0fbdc8fb",
         "d07f594fea667e043c421218ba0190f3",
         "64d4d6aa50fbe9e3f1fca00d49c42c8c",
         "23259200a7be4533fe1e25b8fdeb4b83",
@@ -461,16 +490,17 @@
         "cfbaf6a8fe3f09faa5c7874a776bb998",
         "d1fd932d1da3adfb0dbab8bdc1cf0621",
         "f59aecd9d2bb1c9a8e2250bf412480f0",
-        "4a4e0127b12cfd2d476b5aaa44376f2d",
-        "17ed08fe6778ce4ef2c1a88ba23596e9",
-        "f546e5c12da26e2f625478a98acc0521",
-        "c4af8481d39e04abd0add84cf5fe51e1",
-        "191137fb0d9c6770341ad41eba235f6e",
-        "380f324dd66a3080ca6ef7957ed0f86c"
+        "4a4e0127b12cfd2d476b5aaa44376f2d"
       ],
-      "last_run": "2026-06-19T04-46-16Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T05-03-15Z",
+      "new_sub_topics_this_run": [
+        "Best",
+        "Analytics",
+        "BuildingAJIT1.rst",
+        "Summer",
+        "Code"
+      ],
+      "last_new_count": 5
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -677,9 +707,20 @@
         "through",
         "with",
         "consistency relation",
-        "type inference"
+        "type inference",
+        "Annotations",
+        "Analysis",
+        "Safe",
+        "Sound",
+        "Dead",
+        "Northeastern",
+        "University"
       ],
       "last_result_hashes": [
+        "37ffd58453521e02c05e593eedaf102e",
+        "e3bc0b0f77bacd576c2e474dc4a44101",
+        "b0b257ce43663e3177338e61f3e0e5f0",
+        "ad9caf830a9309ad31b06074ca3dfc8a",
         "9b79225b0ac0cfa7800e515c4bf00d3d",
         "063c2f3eadaf2be7e059d09de8a540f4",
         "2b077fcefb9f16574c355c5cae07ce7d",
@@ -695,15 +736,19 @@
         "7d43df11a787f4da1d8ba7253fb6f91f",
         "7363df9b919ff0ae41c8cb8164aa61e8",
         "ca03c102ef488af0d2105b163fcd1748",
-        "0c4fea65325737c446710c96431c6923",
-        "a4428a72c3f30f04759e0c9ec9f17d9e",
-        "08183a095f9bb03fe7dd6ce06dfd5115",
-        "74d9db89389a5ff882bfd7bac5937d2c",
-        "98a25f82aa01c6e3086793f3280a92b9"
+        "0c4fea65325737c446710c96431c6923"
       ],
-      "last_run": "2026-06-19T04-46-16Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T05-03-15Z",
+      "new_sub_topics_this_run": [
+        "Annotations",
+        "Analysis",
+        "Safe",
+        "Sound",
+        "Dead",
+        "Northeastern",
+        "University"
+      ],
+      "last_new_count": 4
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -910,9 +955,22 @@
         "vs.",
         "with",
         "effect polymorphism",
-        "free monads"
+        "free monads",
+        "About",
+        "Monday",
+        "Morning",
+        "Example",
+        "Applicatives",
+        "Mastering",
+        "Bring"
       ],
       "last_result_hashes": [
+        "c233ce094f809bd93c2f4474229feed5",
+        "98e526be52c4f26f6ab112fd904d69d2",
+        "eb46484b28b25f2899a565ab07b24a90",
+        "17283951f47a445f957ceef8fc9879ed",
+        "9e468f427c81adba063b45d72c784552",
+        "94a26269fce6d4cab82e390dea71cd77",
         "c35700ff9f0773d69682721949231b06",
         "88639568d7620593c2b895e44fe730fc",
         "8523d54f973c1802378dbbf186428ae2",
@@ -926,17 +984,19 @@
         "e271ae43ead77b8d332bb549450e601d",
         "c012a57fa63492860f64045db3528e7a",
         "b82ed313e52a51037b2e80996b9a6a4d",
-        "8b392f40f2d9484600edbc6565709ca7",
-        "f135f6a7df17c5d2c88c3f970fd2baca",
-        "c4f58f1c1a6ca1ac94cd413f2a9ae3d7",
-        "47e6d74aef0c39ef251aad25fd7ff012",
-        "099dfaedc291f3a4e0a3a7a4e54681a8",
-        "6c5cb98e457a7ea49ad57c5293abde41",
-        "36f41d934d724056c8b848503ab8cee0"
+        "8b392f40f2d9484600edbc6565709ca7"
       ],
-      "last_run": "2026-06-19T04-46-16Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T05-03-15Z",
+      "new_sub_topics_this_run": [
+        "About",
+        "Monday",
+        "Morning",
+        "Example",
+        "Applicatives",
+        "Mastering",
+        "Bring"
+      ],
+      "last_new_count": 6
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1142,9 +1202,26 @@
         "sourced",
         "the",
         "ultimate",
-        "mock interview"
+        "mock interview",
+        "Data",
+        "Algorithms",
+        "Answers",
+        "Complete",
+        "Strategy",
+        "Ananya-Singh2406",
+        "Data-Structures-and-Algorithms---150-top-interview-questions",
+        "Coding",
+        "CareerLift",
+        "Blog",
+        "CareerLift.ai"
       ],
       "last_result_hashes": [
+        "67b5ba73de5917df88406720e6c58ed2",
+        "80f05230168f8150741246bd2cb5ebae",
+        "544d7d110803052b93a7e0f05f49b7d5",
+        "143876bc0621660474126a01477b0355",
+        "5835e3a17a087ccb721b2816c8712b40",
+        "25d5c21b36d2097bd47c7c6785b37f42",
         "31d5ee359dfc9303b0ae04e7776d19b4",
         "21b6b34622275025c0735b475dd15f93",
         "67eac326b5f9468a0d986c6c00f1e4f8",
@@ -1158,17 +1235,23 @@
         "09ba1908ae63111d1e15e6d4bafc047c",
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
         "770a90f8cfde2129daad10f7d9ad8d6d",
-        "1520006a744a57a63bf6c03d55114a2e",
-        "8b3a80ae022167a98409b08c2dfb8694",
-        "9a90a9b5be8e6f4ed694943f3b5178be",
-        "a97aaa060bf3039beeb41e73ac20d73c",
-        "b374c779c101dd010d1f2ed0450afdee",
-        "3739df902d0a15eaecfaff44ff2d20c8",
-        "85c94428e923ba3f2759e44b0821e577"
+        "1520006a744a57a63bf6c03d55114a2e"
       ],
-      "last_run": "2026-06-19T04-46-16Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T05-03-15Z",
+      "new_sub_topics_this_run": [
+        "Data",
+        "Algorithms",
+        "Answers",
+        "Complete",
+        "Strategy",
+        "Ananya-Singh2406",
+        "Data-Structures-and-Algorithms---150-top-interview-questions",
+        "Coding",
+        "CareerLift",
+        "Blog",
+        "CareerLift.ai"
+      ],
+      "last_new_count": 6
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1377,9 +1460,29 @@
         "asyncio",
         "multiprocessing",
         "__slots__",
-        "Pattern Matching"
+        "Pattern Matching",
+        "Backend",
+        "Dead",
+        "BirJob",
+        "Edugators",
+        "Charting",
+        "Parallel",
+        "Evolution",
+        "Harmony",
+        "Controversy",
+        "Experimental",
+        "Breaks",
+        "Barrier",
+        "Sean"
       ],
       "last_result_hashes": [
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "d2adce09b07afa8868adc1a5598d6db8",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "8423f12ab9baba929d1ed4e944bcf94c",
+        "3453b796c7c5877faf9dc9fdd181534f",
+        "aff79aed6e34d3f002b7fa14f5978b75",
+        "f51b42e3cc617cf8c1e7d0846c23f268",
         "1fb82e2be1d599ef51996d8d49300721",
         "498edfd974d66c35db81ddcb5eced2f1",
         "7b0c583d3445b91efa0c0453e5a737c4",
@@ -1392,18 +1495,25 @@
         "867e0cbe66e7ec41347bf0c49630e571",
         "e5de457dfb901c53485a52be22a77e07",
         "9b950d80d24710f2899e1b281e96098e",
-        "beaef31893811bf93a7c49c5427531ec",
-        "7d7462b15a5b202849cc8e6a4ee62adf",
-        "9132d1ca01d195338d05eb556f7164be",
-        "f2107524b42261ea5bd126d5c0b05d34",
-        "5451f574f8ac7101d4076e3f903cf1d4",
-        "9a16abe455aad8976504790293f8762a",
-        "7b4d33a48fc204e0cb25e4f1266c7297",
-        "285e9d8ee3d45369bd7dd41718bef6b0"
+        "beaef31893811bf93a7c49c5427531ec"
       ],
-      "last_run": "2026-06-19T04-46-16Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T05-03-15Z",
+      "new_sub_topics_this_run": [
+        "Backend",
+        "Dead",
+        "BirJob",
+        "Edugators",
+        "Charting",
+        "Parallel",
+        "Evolution",
+        "Harmony",
+        "Controversy",
+        "Experimental",
+        "Breaks",
+        "Barrier",
+        "Sean"
+      ],
+      "last_new_count": 7
     }
   }
 }

@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: all | src: functional-programming
+- **2026-06-19** | [Haskell Monads — Monday Morning Haskell](https://mmhaskell.com/monads) | kw: haskell | src: functional-programming
+- **2026-06-19** | [Example 604: Monad Laws | Functional Rust - hightechmind.io](https://hightechmind.io/rust/604-monad-laws-rust.html) | kw: example | src: functional-programming
+- **2026-06-19** | [Monads, Functors, and Applicatives in Haskell: Mastering ...](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: monads | src: functional-programming
+- **2026-06-19** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: monad | src: functional-programming
+- **2026-06-19** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional | src: functional-programming
+
 - **2026-06-19** | [Rust vs Haskell. Two Languages That Both Want to Save You From Yourself](https://medium.com/rustaceans/rust-vs-haskell-22d581f2686d) | kw: medium | src: functional-programming
 - **2026-06-19** | [Monads are Omnipresent in Rust](https://www.bertiqwerty.com/en/posts/monad) | kw: monads | src: functional-programming
 - **2026-06-19** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: haskell | src: functional-programming

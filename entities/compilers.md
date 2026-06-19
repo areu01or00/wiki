@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: best | src: compilers
+- **2026-06-19** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: fosdem | src: compilers
+- **2026-06-19** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: compiler | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: buildingajit1.rst | src: compilers
+- **2026-06-19** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: llvm | src: compilers
+
 - **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: compilers | src: compilers
 - **2026-06-19** | [Best Free Open-Source Compilers in 2026](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: open-source | src: compilers
 - **2026-06-19** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers | src: compilers

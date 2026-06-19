@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python | src: python-internals
+- **2026-06-19** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: the | src: python-internals
+- **2026-06-19** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory | src: python-internals
+- **2026-06-19** | [Charting Python's Parallel Future: The Evolution from GIL to Multi-Core Harmony](https://python.plainenglish.io/charting-pythons-parallel-future-the-evolution-from-gil-to-multi-core-harmony-52a4bc4e53ff) | kw: charting | src: python-internals
+- **2026-06-19** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026/) | kw: state | src: python-internals
+- **2026-06-19** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: the | src: python-internals
+- **2026-06-19** | [Python 3.14 Free-Threading and Experimental JIT: How Python Finally Breaks the GIL Barrier in 2026 - Sean Kim](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: python | src: python-internals
+
 - **2026-06-19** | [What is the Global Interpreter Lock (GIL) in Python? Is it going away in 2026?](https://medium.com/%40Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: medium | src: python-internals
 - **2026-06-19** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python | src: python-internals
 - **2026-06-19** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: finally | src: python-internals
