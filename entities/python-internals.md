@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-19** | [Python 3.14 Speed Secrets: Leveraging the New JIT Compiler | Markaicode](https://markaicode.com/python-3-14-jit-compiler) | kw: Python | src: python-internals
+- **2026-06-19** | [CPython JIT Compiler: Python's Experimental JIT Explained](https://uc4n.com/blog/cpython-jit-compiler-python) | kw: JIT | src: python-internals
+- **2026-06-19** | [JIT build not working 3.13 - Python Help - Discussions on Python.org](https://discuss.python.org/t/jit-build-not-working-3-13/60128) | kw: JIT | src: python-internals
+- **2026-06-19** | [Python 3.14 JIT Performance: Benchmarks, Tradeoffs & Real ...](https://krun.pro/python-jit/) | kw: Python | src: python-internals
+- **2026-06-19** | [Python 3.14's JIT Compiler: A Developer's Deep Dive](https://toolshelf.tech/blog/python-3-14-jit-compiler-deep-dive) | kw: Python | src: python-internals
+- **2026-06-19** | [Python開発者必見！知っておくべき5つの高速化テクニック #jit - Qiita](https://qiita.com/wooooo/items/827d76bddae14ca3b9d0) | kw: Python | src: python-internals
+- **2026-06-19** | [PEP 744 – JIT Compilation - Python Enhancement Proposals](https://peps.python.org/pep-0744) | kw: PEP | src: python-internals
 - **2026-06-19** | [The GIL Is Still Here — Why That Matters in 2026 - Medium](https://medium.com/%40backendbyeli/the-gil-is-still-here-why-that-matters-in-2026-88ac86812ec4) | kw: GIL, Still, Here | src: python-internals
 
 - **2026-06-19** | [Memory Management and tracemalloc Improvements 2026](https://pyinns.com/python/advanced-python-features/memory-management-and-tracemalloc-improvements-2026) | kw: memory | src: python-internals
