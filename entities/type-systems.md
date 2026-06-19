@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Most general-purpose type inference systems follow a (currying intro)](https://www.aleksandra.codes/type-inference) | kw: Most
+- **2026-06-19** | [Type Systems and Automatic Type Inference Summary](https://www.hellocpp.dev/lesson/type-systems-and-automatic-type-inference-summary) | kw: Type
+
 - **2026-06-19** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: Programming Research
 - **2026-06-19** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Programming Research
 - **2026-06-19** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Type System
