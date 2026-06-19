@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 \| Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: Essential | src: system-design
+- **2026-06-19** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three | src: system-design
+- **2026-06-19** | [Modern Software Architecture Patterns That Scale In 2026](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production) | kw: Modern | src: system-design
+- **2026-06-19** | [Top 6 Enterprise Architecture Trends for 2026 and Beyond \| ACL Digital](https://www.acldigital.com/blogs/top-6-enterprise-architecture-trends-shaping-2026-and-beyond) | kw: Top | src: system-design
+
 - **2026-06-19** | [Distributed & Hybrid Infrastructure: How Cloud Architecture Is Evolving in 2026](https://resolvetech.com/distributed-hybrid-infrastructure-how-cloud-architecture-is-evolving-in-2026/) | kw: Distributed, Hybrid, Infrastructure | src: system-design
 
 - **2026-06-19** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now/) | kw: latest | src: system-design

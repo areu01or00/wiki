@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual | src: type-systems
+- **2026-06-19** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System ...](https://arxiv.org/pdf/2408.14345v3) | kw: Guard | src: type-systems
+- **2026-06-19** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient | src: type-systems
+
 - **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient | src: type-systems
 
 - **2026-06-19** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: efficient | src: type-systems

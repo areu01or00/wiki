@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust.](https://github.com/wrsturgeon/rsmonad) | kw: GitHub | src: functional-programming
+- **2026-06-19** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does | src: functional-programming
+
 - **2026-06-19** | [OCaml Programming Language 2026: The SIGPLAN Award and Why It Matters](https://www.programming-helper.com/tech/ocaml-programming-language-2026-sigplan-award) | kw: OCaml Programming Language 2026 The SIGPLAN Award | src: functional-programming
 
 - **2026-06-19** | [Comparison of Monad vs Other L1s: Sui, Solana, Ethereum](https://nftevening.com/monad-sui-solana-ethereum-comparision) | kw: Comparison, Monad, Other | src: functional-programming

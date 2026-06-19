@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The | src: compilers
+- **2026-06-19** | [EuroLLVM 2026 - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.org/devmtg/2026-04/slides/quick_talk/quick_talk_hames.pdf) | kw: EuroLLVM | src: compilers
+- **2026-06-19** | [Unlocking Performance: The Overlooked Power of Low-Cost ...](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking | src: compilers
+- **2026-06-19** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM | src: compilers
+
 - **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: ai-compiler | src: compilers
 - **2026-06-19** | [Speakers: 2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/speakers) | kw: speakers | src: compilers
 

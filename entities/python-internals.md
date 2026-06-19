@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python | src: python-internals
+- **2026-06-19** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: Python's | src: python-internals
+- **2026-06-19** | [State of Python 2026 \| The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: State | src: python-internals
+- **2026-06-19** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The | src: python-internals
+- **2026-06-19** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python | src: python-internals
+
 
 - **2026-06-19** | [Python 3.14 Speed Secrets: Leveraging the New JIT Compiler | Markaicode](https://markaicode.com/python-3-14-jit-compiler) | kw: Python | src: python-internals
 - **2026-06-19** | [CPython JIT Compiler: Python's Experimental JIT Explained](https://uc4n.com/blog/cpython-jit-compiler-python) | kw: JIT | src: python-internals
