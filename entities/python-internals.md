@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [The Adaptive Interpreter (3.11+) - Python Performance JIT & Internals - Stanza](https://www.stanza.dev/courses/python-performance/jit-compiler/python-performance-adaptive-interpreter) | kw: The Adaptive Interpreter | src: python-internals
+- **2026-06-19** | [PEP 659 - Specializing Adaptive Interpreter](https://peps.python.org/pep-0659) | kw: PEP 659 | src: python-internals
+- **2026-06-19** | [JIT and tier 2 - CPython wiki - Factory](https://factory.ai/open-source-wikis/cpython?page=systems%2Fjit.md) | kw: JIT and tier 2 | src: python-internals
+- **2026-06-19** | [Python 3.14.6 Release - Python.org](https://www.python.org/downloads/release/python-3146/) | kw: Python 3.14.6 Release | src: python-internals
+- **2026-06-19** | [Interpreter initialization and finalization - Python 3.14.6 documentation](https://docs.python.org/3/c-api/interp-lifecycle.html) | kw: Interpreter initialization and finalizat | src: python-internals
+- **2026-06-19** | [Adding a JIT compiler to CPython - LWN.net](https://lwn.net/Articles/977855) | kw: Adding a JIT compiler to CPython | src: python-internals
+
 - **2026-06-19** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python | src: python-internals
 - **2026-06-19** | [From Variables to No-GIL: Why Python Still Runs Modern AI](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: From | src: python-internals
 - **2026-06-19** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python | src: python-internals

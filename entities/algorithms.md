@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [10+ Advanced Data Structures Online Courses for 2026 - Class Central](https://www.classcentral.com/subject/advanced-data-structures) | kw: 10+ Advanced Data Structures Online Cour | src: algorithms
+- **2026-06-19** | [Advanced Data Structures and Algorithms - IIT Hyderabad CS6010](https://people.iith.ac.in/aravind/cs6010.html) | kw: Advanced Data Structures and Algorithms | src: algorithms
+- **2026-06-19** | [Advanced Algorithms and Data Structures (PDF) - Marcello La Rocca](https://chengzhaoxi.xyz/download/pdf/book/Advanced-Algorithms-and-Data-Structures.pdf) | kw: Advanced Algorithms and Data Structures | src: algorithms
+- **2026-06-19** | [13 Best Data Structures & Algorithms Courses for 2026 - Class Central](https://www.classcentral.com/report/best-algos-data-structure-courses/) | kw: 13 Best Data Structures & Algorithms Cou | src: algorithms
+- **2026-06-19** | [Programming Foundations And Data Structures Microcertificate - Harvard Extension](https://extension.harvard.edu/academics/programs/programming-foundations-and-data-structures-microcertificate/) | kw: Programming Foundations And Data Structu | src: algorithms
+- **2026-06-19** | [Advanced Data Structures & Algorithms in C++ - Foothill College](https://catalog.foothill.edu/course-outlines/C-S-2C/C-S-2C.pdf) | kw: Advanced Data Structures & Algorithms in | src: algorithms
+
 - **2026-06-19** | [Best Data Structures Interview Prep Tools (2026) - Compare O](https://articles.shadecoder.com/best-data-structures-interview-prep-tools-in-2026-compared-ranked) | kw: Data, Structures, Interview
 
 - **2026-06-19** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best | src: algorithms

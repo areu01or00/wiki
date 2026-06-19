@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Functional Programming Languages: A Guide in 2026 | Swovo](https://swovo.com/blog/functional-programming-languages/) | kw: Functional Programming Languages | src: functional-programming
+- **2026-06-19** | [Tarides | What is Functional Programming? A Look at the OCaml Perspective](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective/) | kw: Tarides | What is Functional Programming | src: functional-programming
+
 - **2026-06-19** | [What is a Monad (in Rust)?](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: Monad | src: functional-programming
 - **2026-06-19** | [Monad in higher - Rust - Docs.rs](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: Monad | src: functional-programming
 - **2026-06-19** | [Haskell Monads - Monday Morning Haskell](https://mmhaskell.com/monads) | kw: Haskell | src: functional-programming
