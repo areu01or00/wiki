@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [90% of TypeScript interviews in 2026 come down to these 7 points](https://x.com/ConsciousRide/status/2067592912192545109) | kw: TypeScript, interviews, come, down
+- **2026-06-19** | [Types of Evolution: Punctuated Equilibrium vs Gradualism](http://www.biologybynapier.com/uploads/4/0/3/7/40376393/patterns_adaptations_regbio_option_1.pdf) | kw: Types, Evolution, Punctuated, Equilibrium
+
 - **2026-06-19** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual | src: type-systems
 - **2026-06-19** | [Type-Based Gradual Typing Performance Optimization | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3632931) | kw: Type | src: type-systems
 - **2026-06-19** | [Putting Gradual Types to Work](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting | src: type-systems

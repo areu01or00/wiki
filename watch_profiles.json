@@ -206,11 +206,6 @@
         "ACL Digital"
       ],
       "last_result_hashes": [
-        "729c2ff54afb3063182d60de7d6aef1c",
-        "64e900ff8986f325e4783fe3286a829d",
-        "829e385d598e3022a5a9d9f416e9920c",
-        "3bf6ab5a22ba2e48a537fbb68ef026b3",
-        "618c42de2d528b83e80c66787d1e2845",
         "2d3339fbcb04e9f626d884e03958e8d3",
         "be6431b62c4b712f6f0fa4fe7d011e37",
         "25a06ccbe831fcae1efa398fc18b067e",
@@ -225,9 +220,14 @@
         "54d56919015126f3fad6a89e4fb01edc",
         "027b842794aa1b6f8ff97eb660c59079",
         "697337f881dc40cc977774b3475bbe3d",
-        "4141d7871c6b9a533346e695683501e0"
+        "4141d7871c6b9a533346e695683501e0",
+        "70c411feb51eb6a46c277d953d6d0a03",
+        "6a844cba5f4dbe6112de4dacb09bede6",
+        "0bccdfeceeee7664c4e61f75605f9f8f",
+        "2ebbe3411f331c326ab1fd19aa4e50c7",
+        "4493db04174fb52c7b4a8bed0a3bc5ca"
       ],
-      "last_run": "2026-06-19T17:32:53.877044+00:00",
+      "last_run": "2026-06-19T17:46:58Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 7
     },
@@ -437,12 +437,6 @@
         "Overlooked Power"
       ],
       "last_result_hashes": [
-        "b86eb07f5a984fccae1bb38c4d48f846",
-        "002ea7a08cdec65b11a1e330cc58b17b",
-        "5cefefefe6afc297697ed1187181b6a1",
-        "6e76d5990761a54f756d319e37fddbb0",
-        "044f00f22ade99878d29e43ef426c83d",
-        "1480847529e160848da4aee3f40eb00a",
         "a888bd8966b306914c973b55ba7dd171",
         "39c17cdd042b5f648a3c1da568d86a87",
         "dc5ada16f234dc184f112304b0917552",
@@ -456,9 +450,15 @@
         "f59aecd9d2bb1c9a8e2250bf412480f0",
         "00d37fecba311b38109bc12619ff9f25",
         "bbbc8ef4ec78630cae3e49219b742618",
-        "381c5829c4542d830b4e98667478e845"
+        "381c5829c4542d830b4e98667478e845",
+        "537439b799160fc6f3459b2fb0a33cd5",
+        "552fb7fa38d11b6f68d1330db02e2708",
+        "17ed08fe6778ce4ef2c1a88ba23596e9",
+        "d62fb6c647f11f96144c1ea575cff845",
+        "d0de062ed058a4b7bb87b9c013129190",
+        "3ecd511f79293d2a976892751d22d6d6"
       ],
-      "last_run": "2026-06-19T17:32:53.877044+00:00",
+      "last_run": "2026-06-19T17:46:58Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 6
     },
@@ -668,10 +668,6 @@
         "Type Annotations"
       ],
       "last_result_hashes": [
-        "36f436eb9462cfa9b86dca4c78e0a8b0",
-        "2c38d30abace38622d9bad08db378606",
-        "e63014263ca618ad9c4b03303b951c4b",
-        "0c4fea65325737c446710c96431c6923",
         "05e87cbef36cd8edbadc65c13cd2b4af",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6",
         "1d6819e623bfb66da8f799ac0cb72c27",
@@ -687,9 +683,13 @@
         "393c2007828b49d14ae2ce8a8bf61873",
         "1892288ce3bfda31458d852753d72f5f",
         "528908eec2d5bb9ce65ec10c8f48dbf0",
-        "b21f5e552425f22695fd0b9f08496793"
+        "b21f5e552425f22695fd0b9f08496793",
+        "8152c0fa97986388894bbc6fe44824e4",
+        "6c257d065a3041b16049b05a47e582ff",
+        "e7f4bdb1251a016f16cef48877b17a01",
+        "18e63b08feed765db71b56cc764a37fe"
       ],
-      "last_run": "2026-06-19T17:32:53.877044+00:00",
+      "last_run": "2026-06-19T17:46:58Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 7
     },
@@ -899,12 +899,6 @@
         "Idioms? Exploring"
       ],
       "last_result_hashes": [
-        "96d48c0b70a5675d33ba9579d126e6e1",
-        "d36424ab85b4b13247d9175d80fbb9cb",
-        "e92e2f8ebf5278edb72398da2415b3ef",
-        "687171a5db4daed91bdc3e6a4a3773a1",
-        "5bff04a3ae99a410dc8961722e25e343",
-        "79cd05ad2ea3b4a8f88864da5ba58578",
         "c52f5174ff9b2fb18fb776e711ed0486",
         "e2809728031a0a794b40bbdaef5a85f9",
         "6ac17140976f4e3a7be22d2ec701d1ce",
@@ -918,9 +912,15 @@
         "f8882eb87e76bf28070ea332bf5ce996",
         "c2fefc572a2578f6f202a147d877925b",
         "be8e3b29bf239852c13e69d5b27392bb",
-        "9faa7cf534e52ea65424258c0c6c7995"
+        "9faa7cf534e52ea65424258c0c6c7995",
+        "34879744f2a105709306e24e50011292",
+        "fa084d7ca168297914b3265540402b1d",
+        "32b7895f5a363cbf340e57c75779aedd",
+        "875e7957fd4974fda8df61e5e64c4b09",
+        "89d87031e449ae356f26865a02b9a13d",
+        "0d5e42e964af9b4ef6ba72b42f761e14"
       ],
-      "last_run": "2026-06-19T17:32:53.877044+00:00",
+      "last_run": "2026-06-19T17:46:58Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 6
     },
@@ -1132,12 +1132,6 @@
         "questions"
       ],
       "last_result_hashes": [
-        "09ba1908ae63111d1e15e6d4bafc047c",
-        "2615258483c02ffeba2c429eec34b2ab",
-        "357f94c12f741d708689d53f78f9d42b",
-        "1c53451e0b08707b5f103a3f2db699ca",
-        "1a67bfac46635074fc0f8886cc11e73f",
-        "37b18b3ee5841dc8d78ef02edf927dc9",
         "75ba0ef3d737f8a255ebfa8d4fd12ca3",
         "7e571cc4915b8f19020f0aebd3f76356",
         "770a90f8cfde2129daad10f7d9ad8d6d",
@@ -1151,9 +1145,15 @@
         "b374c779c101dd010d1f2ed0450afdee",
         "143876bc0621660474126a01477b0355",
         "cd3c9d7f265955321a10d61f9cd44592",
-        "9d4e0e3a4cd83e0b5c6d3d78f17d2555"
+        "9d4e0e3a4cd83e0b5c6d3d78f17d2555",
+        "fae719876bc5c541440192783809f45b",
+        "b2ebff509c2065c89ae295b2fabe3868",
+        "8900f36a48596850ee5ba84a247a6c1d",
+        "007f6850e48a967b7acfd833f4be0a66",
+        "91b947cdb84929a43202be06d8ca3ad9",
+        "fa2e527cdd11acb8168cdbeff3eba418"
       ],
-      "last_run": "2026-06-19T17:32:53.877044+00:00",
+      "last_run": "2026-06-19T17:46:58Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 8
     },
@@ -1363,9 +1363,6 @@
         "python-freethreading - Anaconda.org"
       ],
       "last_result_hashes": [
-        "a1001fa1d16e18cf732ae3f80c77fe76",
-        "0a974e52e4af3da11fa0449ca19924f5",
-        "265111ab89ec1e2086cc516865ce3720",
         "9b950d80d24710f2899e1b281e96098e",
         "9a16abe455aad8976504790293f8762a",
         "7b4d33a48fc204e0cb25e4f1266c7297",
@@ -1382,9 +1379,12 @@
         "125d32f4e073abcb08e7c2756041b634",
         "999e699e6e78d8e383158b10f1c950f8",
         "b95a17537fc7951b13ea9a7057c274bc",
-        "6bd1828271a3d7ce0e5d0b666c53b128"
+        "6bd1828271a3d7ce0e5d0b666c53b128",
+        "7f2ac49bb043ce89198c985bd2570eae",
+        "beaef31893811bf93a7c49c5427531ec",
+        "23f806669425cddfbb81ceb3202ed519"
       ],
-      "last_run": "2026-06-19T17:32:53.877044+00:00",
+      "last_run": "2026-06-19T17:46:58Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 7
     }
