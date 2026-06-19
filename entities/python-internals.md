@@ -2,6 +2,10 @@
 
 ## Updates
 
+- **2026-06-19** | [python-freethreading - Anaconda.org](https://anaconda.org/main/python-freethreading) | kw: python-freethreading,Anaconda.org | src: python-internals
+- **2026-06-19** | [What's New In Python 3.13 - Free-threaded CPython](https://docs.python.org/3/whatsnew/3.13.html) | kw: What's,New,Python,3.13,Free-threaded | src: python-internals
+
+
 - **2026-06-19** | [Python Deep Dive: From Internals to Async — Everything You Need to Write Better Code](https://medium.com/@t.shubham.vi/python-deep-dive-from-internals-to-async-everything-you-need-to-write-better-code-40fdbf6d0c68) | kw: Python,Deep,Dive,From,Internals,Async | src: python-internals
 
 - **2026-06-18** | [Python 3.13 No-GIL: What You Need to Know - DEV Community](https://dev.to/zackch/python-313-no-gil-what-you-need-to-know-352i) | kw: python,internals,no-gil,PEP-703

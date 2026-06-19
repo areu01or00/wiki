@@ -235,15 +235,15 @@
         "Roadmap",
         "pdpspectra",
         "Blocks:",
-        "Large-Scale Distributed Systems"
+        "Large-Scale Distributed Systems",
+        "System Design Interview Cheat Sheet for FAANG (2026)",
+        "The Future of Backend Development: Key Skills to Hire for in 2025",
+        "System Design Interview Mastery: Complete 2026 Guide with Real FAANG Examples",
+        "FAANG System Design Interview Guide 2026",
+        "The Backend Developer Roadmap for 2025-2026: Skills, Tools & Trends",
+        "Future of Enterprise Architecture 2026-2031 - Board Briefing"
       ],
       "last_result_hashes": [
-        "6a844cba5f4dbe6112de4dacb09bede6",
-        "6a8023ed8f6d80dc6383b03a803b7c26",
-        "e9d45130824f67775300df37d0b653d5",
-        "eb9413c412274c4d419c8f0af8eb0eeb",
-        "3bf6ab5a22ba2e48a537fbb68ef026b3",
-        "697337f881dc40cc977774b3475bbe3d",
         "89a56d75eb44a5b6b6e7751656a45c91",
         "729c2ff54afb3063182d60de7d6aef1c",
         "5aeac4fa30fb41ccddd5bdbec41ec241",
@@ -257,11 +257,24 @@
         "484f8898c5f9d4b38f7ba792dea9dd9a",
         "f82db65ad647bfed8e2200753b0aae29",
         "aaaf9550e5e27d5469ea0edd84372b77",
-        "2f58466b4c76a307f213ca31f8c48185"
+        "2f58466b4c76a307f213ca31f8c48185",
+        "ee45a280df4eba06c9a9fb0b37203c37",
+        "c7d00e51c343e6ff79709173582c80d1",
+        "ef55c00716d31587c6367bacd190f255",
+        "b525fa09dccdfae9c52a88e0fd2a7803",
+        "f6a10320bf6983caedbb84f169fa7974",
+        "155d09987196464cc408ae210c09e5c9"
       ],
-      "last_run": "2026-06-19T03:02:46.266435+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T03:19:41.629405+00:00",
+      "new_sub_topics_this_run": [
+        "System Design Interview Cheat Sheet for FAANG (2026)",
+        "The Future of Backend Development: Key Skills to Hire for in 2025",
+        "System Design Interview Mastery: Complete 2026 Guide with Real FAANG Examples",
+        "FAANG System Design Interview Guide 2026",
+        "The Backend Developer Roadmap for 2025-2026: Skills, Tools & Trends",
+        "Future of Enterprise Architecture 2026-2031 - Board Briefing"
+      ],
+      "last_new_count": 6
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -529,10 +542,10 @@
         "with",
         "chekalexey",
         "SPEC CPU 2026",
-        "LLVM 22"
+        "LLVM 22",
+        "What is new in LLVM 22? - Arm Developer"
       ],
       "last_result_hashes": [
-        "d227f4df6f847a89365dbf3f0eeb8754",
         "0a198c3ca55025efca20b3a9ab1ebf14",
         "d5a6bedb5d4c87b407e0e721d32365ca",
         "504dcb496b563beb854a5d96e084c137",
@@ -551,11 +564,14 @@
         "95d039a87ff19238e99d0f66eb8fce0e",
         "3ba104ecc03da87f45ee61d5db32136d",
         "1dbcadd29f914229e53e0a8239219ead",
-        "d07f594fea667e043c421218ba0190f3"
+        "d07f594fea667e043c421218ba0190f3",
+        "64d4d6aa50fbe9e3f1fca00d49c42c8c"
       ],
-      "last_run": "2026-06-19T03:02:46.266435+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T03:19:41.629405+00:00",
+      "new_sub_topics_this_run": [
+        "What is new in LLVM 22? - Arm Developer"
+      ],
+      "last_new_count": 1
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -801,13 +817,13 @@
         "Elixir Type System",
         "Unexpected Dangers",
         "Typing ASE",
-        "Confused Studying"
+        "Confused Studying",
+        "Type Inference - Typechecker Zoo",
+        "Type Inference - veera.app",
+        "Type Inference - Cornell CS 3110",
+        "How Does Your Code Guess Types? Meet Hindley-Milner!"
       ],
       "last_result_hashes": [
-        "515297cd90212e0cede68efcec1af7d9",
-        "ce8d456cc5c19dd66de1173f19eb7207",
-        "257f707e4f6b84a5109de8e4a606651f",
-        "add4e04359fd681d2982ba220aadf699",
         "a4428a72c3f30f04759e0c9ec9f17d9e",
         "0a6f4d53bc1208d78a779741badbaa7f",
         "fb51a59f089f493701680072b31aee43",
@@ -823,11 +839,20 @@
         "b0b257ce43663e3177338e61f3e0e5f0",
         "796dd8fb9f6369a2e77f75139af26f3c",
         "4a101114e3b691c4671d64770c39c052",
-        "fbc7023bf80d36aa3d30c0eaf6d00d91"
+        "fbc7023bf80d36aa3d30c0eaf6d00d91",
+        "1848322bc7b41f87853da96a554623ce",
+        "9107865351c4db39686bedf032c688dd",
+        "d16d186104a4877234fa02c25c1a8bcf",
+        "9b79225b0ac0cfa7800e515c4bf00d3d"
       ],
-      "last_run": "2026-06-19T03:02:46.266435+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T03:19:41.629405+00:00",
+      "new_sub_topics_this_run": [
+        "Type Inference - Typechecker Zoo",
+        "Type Inference - veera.app",
+        "Type Inference - Cornell CS 3110",
+        "How Does Your Code Guess Types? Meet Hindley-Milner!"
+      ],
+      "last_new_count": 4
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1350,12 +1375,12 @@
         "Practice",
         "(LeetCode",
         "Focus)",
-        "FAANG Interview Prep"
+        "FAANG Interview Prep",
+        "Graph Algorithms Complete Guide: BFS, DFS, Dijkstra (2025)",
+        "DSA Roadmap 2026: Complete Guide with C++ Java Python JS",
+        "Data Structures & Algorithms Roadmap - CodeChef"
       ],
       "last_result_hashes": [
-        "9a0ef217f59ab765babcd9263ae93310",
-        "9c079bce41ba80e069e2d66cc02ed865",
-        "34bd4f254d9118ad122844fcf0d16e7e",
         "1c53451e0b08707b5f103a3f2db699ca",
         "8fbfc408d153c9db7210ed00243249c2",
         "f381d9425a7fcd1cb715658bf397a62d",
@@ -1372,11 +1397,18 @@
         "d3b8d082c2434924e142a67b3f2b0b02",
         "8e00f7d78d79009ecc1474da3255f3a8",
         "143876bc0621660474126a01477b0355",
-        "31d5ee359dfc9303b0ae04e7776d19b4"
+        "31d5ee359dfc9303b0ae04e7776d19b4",
+        "21b6b34622275025c0735b475dd15f93",
+        "67eac326b5f9468a0d986c6c00f1e4f8",
+        "3f8e7b6fe913aa5e7a75d9d3819b077b"
       ],
-      "last_run": "2026-06-19T03:02:46.266435+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T03:19:41.629405+00:00",
+      "new_sub_topics_this_run": [
+        "Graph Algorithms Complete Guide: BFS, DFS, Dijkstra (2025)",
+        "DSA Roadmap 2026: Complete Guide with C++ Java Python JS",
+        "Data Structures & Algorithms Roadmap - CodeChef"
+      ],
+      "last_new_count": 3
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1606,11 +1638,11 @@
         "State",
         "2026",
         "(And",
-        "Python 3.14 GIL Removal"
+        "Python 3.14 GIL Removal",
+        "python-freethreading - Anaconda.org",
+        "What's New In Python 3.13 - Free-threaded CPython"
       ],
       "last_result_hashes": [
-        "2b623ea4a3260e5ce9e59df5edc24035",
-        "9182a12ff9820d2b6a0e111455b3a6be",
         "beaef31893811bf93a7c49c5427531ec",
         "6bd1828271a3d7ce0e5d0b666c53b128",
         "08569c9d36855febb2ea03e93a0d21c6",
@@ -1628,11 +1660,16 @@
         "323f5522cd079b66f3b0b35a0bdb4235",
         "b892d3268af415a5d0c10b3cc6cd89bf",
         "2084f8e9ae70d336d28c303d0a70faac",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8"
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "27f11a75de1c8d2504b69b7a5c375a20",
+        "1fb82e2be1d599ef51996d8d49300721"
       ],
-      "last_run": "2026-06-19T03:02:46.266435+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T03:19:41.629405+00:00",
+      "new_sub_topics_this_run": [
+        "python-freethreading - Anaconda.org",
+        "What's New In Python 3.13 - Free-threaded CPython"
+      ],
+      "last_new_count": 2
     }
   }
 }

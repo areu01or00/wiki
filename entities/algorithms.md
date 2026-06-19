@@ -2,6 +2,11 @@
 
 ## Updates
 
+- **2026-06-19** | [Graph Algorithms Complete Guide: BFS, DFS, Dijkstra (2025)](https://generalistprogrammer.com/tutorials/graph-algorithms-complete-guide) | kw: Graph,Algorithms,Complete,Guide,BFS | src: algorithms
+- **2026-06-19** | [DSA Roadmap 2026: Complete Guide with C++ Java Python JS](https://coderstar.in/dsa-learning-path/dsa-roadmap/) | kw: DSA,Roadmap,2026,Complete,Guide | src: algorithms
+- **2026-06-19** | [Data Structures & Algorithms Roadmap - CodeChef](https://www.codechef.com/roadmap/data-structures-and-algorithms) | kw: Data,Structures,Algorithms,Roadmap,CodeChef | src: algorithms
+
+
 - **2026-06-19** | [Top 100 Data Structure Interview Questions and Answers | DSA Interview Questions](https://www.javaguides.net/2026/04/top-100-data-structure-interview-questions-and-answers.html) | kw: Top,100,Data,Structure,Interview | src: algorithms
 
 

@@ -2,6 +2,14 @@
 
 ## Updates
 
+- **2026-06-19** | [System Design Interview Cheat Sheet for FAANG (2026)](https://www.interviewlift.com/blogs/system-design-interview-cheat-sheet-faang) | kw: System,Design,Interview,Cheat,Sheet | src: system-design
+- **2026-06-19** | [The Future of Backend Development: Key Skills to Hire for in 2025](https://medium.com/@tconnectx/the-future-of-backend-development-key-skills-to-hire-for-in-2025-0faba822564d) | kw: The,Future,Backend,Development,Key | src: system-design
+- **2026-06-19** | [System Design Interview Mastery: Complete 2026 Guide with Real FAANG Examples](https://lastroundai.com/blog/system-design-interview-mastery-2026) | kw: System,Design,Interview,Mastery,Complete | src: system-design
+- **2026-06-19** | [FAANG System Design Interview Guide 2026](https://jobrise.io/en/blog/faang-system-design-interview-guide-2026) | kw: FAANG,System,Design,Interview,Guide | src: system-design
+- **2026-06-19** | [The Backend Developer Roadmap for 2025-2026: Skills, Tools & Trends](https://strategizeyourcareer.com/p/the-2025-backend-developers-roadmap) | kw: The,Backend,Developer,Roadmap,for | src: system-design
+- **2026-06-19** | [Future of Enterprise Architecture 2026-2031 - Board Briefing](https://latentti.fi/foresight/future-of-enterprise-architecture-2026-2031.pdf) | kw: Future,Enterprise,Architecture,2026-2031,Board | src: system-design
+
+
 - **2026-06-19** | [Microservices Architecture Guide 2026: Building Scalable ...](https://miracl.in/blog/microservices-architecture-guide-2026) | kw: Microservices,Architecture,Guide,Building,Scalable | src: system-design
 
 - **2026-06-18** | [Patterns of Distributed Systems](https://martinfowler.com/books/patterns-distributed.html) | kw: system,design | src: system-design

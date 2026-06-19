@@ -2,6 +2,9 @@
 
 ## Updates
 
+- **2026-06-19** | [What is new in LLVM 22? - Arm Developer](https://developer.arm.com/community/arm-community-blogs/b/tools-software-ides-blog/posts/what-is-new-in-llvm-22) | kw: What,new,LLVM,22?,Arm | src: compilers
+
+
 - **2026-06-19** | [A Deep Dive into Compilers, Interpreters, Bytecode, and JIT Compilation](https://teddyaryono.dev/blog/compiler-interpreter) | kw: compiler,JIT | src: compilers
 
 - **2026-06-19** | [The design and implementation of ZJIT & the next five years - RubyKaigi 2026](https://rubykaigi.org/2026/presentations/tekknolagi.html) | kw: design,implementation,ZJIT,next,five | src: compilers

@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-19** | [Type Inference - Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/algorithm-w/implementation.html) | kw: Type,Inference,Typechecker,Zoo | src: type-systems
+- **2026-06-19** | [Type Inference - veera.app](https://veera.app/type_inference.html) | kw: Type,Inference,veera.app | src: type-systems
+- **2026-06-19** | [Type Inference - Cornell CS 3110](https://www.cs.cornell.edu/courses/cs3110/2016fa/l/17-inference/notes.html) | kw: Type,Inference,Cornell,3110 | src: type-systems
+- **2026-06-19** | [How Does Your Code Guess Types? Meet Hindley-Milner!](https://medium.com/@linz07m/how-does-your-code-guess-types-meet-hindley-milner-096b9f9ee062) | kw: How,Does,Your,Code,Guess | src: type-systems
+
 - **2026-06-19** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing (ASE 2024)](https://conf.researchr.org/details/ase-2024/ase-2024-research/149/Typed-and-Confused-Studying-the-Unexpected-Dangers-of-Gradual-Typing) | kw: Typed,Confused,Studying,Unexpected,Dangers | src: type-systems
 
 - **2026-06-18** | [gradual-typing - Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: type,systems | src: type-systems
