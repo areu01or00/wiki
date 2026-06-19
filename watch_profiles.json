@@ -228,11 +228,6 @@
         "Know"
       ],
       "last_result_hashes": [
-        "dffcbc8662b09cb0a5c2d9645a80041f",
-        "d7e4053d8359b5818b4128259533ab69",
-        "46a56982536c8a4f9801b7d471165b39",
-        "7c1f6bf914efb4646d7180593f7f6937",
-        "05c3f03dca95acbc523c14fc461eda44",
         "89a56d75eb44a5b6b6e7751656a45c91",
         "729c2ff54afb3063182d60de7d6aef1c",
         "5aeac4fa30fb41ccddd5bdbec41ec241",
@@ -247,9 +242,14 @@
         "f82db65ad647bfed8e2200753b0aae29",
         "aaaf9550e5e27d5469ea0edd84372b77",
         "d0ae98a342caad97c68e59c996aeaea3",
-        "92d071cfe790dbd36f457c42356f1ce0"
+        "92d071cfe790dbd36f457c42356f1ce0",
+        "729c2ff54afb3063182d60de7d6aef1c",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "5aeac4fa30fb41ccddd5bdbec41ec241",
+        "d7e4053d8359b5818b4128259533ab69",
+        "9ba46483364adb11b22fcfbd9fe2e4d2"
       ],
-      "last_run": "2026-06-19 00:19 UTC",
+      "last_run": "2026-06-19T00:48:34.999611+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -501,10 +501,6 @@
         "Happen"
       ],
       "last_result_hashes": [
-        "23259200a7be4533fe1e25b8fdeb4b83",
-        "39c17cdd042b5f648a3c1da568d86a87",
-        "9160827c74019e005cdbc44ba8b68f98",
-        "d0de062ed058a4b7bb87b9c013129190",
         "78300d30b51a9fa8cf24032c1bebf1a4",
         "3d3edae06c55110509650bdb536089f7",
         "93c440f9650303ed05b8a12a05a66b5e",
@@ -520,9 +516,13 @@
         "a78c2c73c0749267858b7fdad618ab3b",
         "0cd9e2d6680317325264b3d560bb4388",
         "9e15a6675bd30a9f4f1f425fe7991ab1",
-        "a888bd8966b306914c973b55ba7dd171"
+        "a888bd8966b306914c973b55ba7dd171",
+        "5cefefefe6afc297697ed1187181b6a1",
+        "d7b4894a19c2bbef8fa83ffa966363b1",
+        "ae427aaa277c67469832326760f5569f",
+        "a4919ef74ad6b5dc8e9008d87bc3c031"
       ],
-      "last_run": "2026-06-19 00:19 UTC",
+      "last_run": "2026-06-19T00:48:34.999611+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -744,11 +744,6 @@
         "Programming"
       ],
       "last_result_hashes": [
-        "9a3ca8ef0be6bd5ed1e25f6590c663f6",
-        "6db375705e55582781a74483e498ac53",
-        "a95e1227ef1caa37fc37111d15962d26",
-        "150a86717163fe0212bf227b5c521eae",
-        "7363df9b919ff0ae41c8cb8164aa61e8",
         "ca03c102ef488af0d2105b163fcd1748",
         "ac20cb501c99f4b173060c6f46d893ae",
         "0c4fea65325737c446710c96431c6923",
@@ -763,9 +758,14 @@
         "4a101114e3b691c4671d64770c39c052",
         "05e87cbef36cd8edbadc65c13cd2b4af",
         "6d77d36d5d5faa4ef4e6858564ce52bc",
-        "5d1b5b06b44ca33c06056141cd002b67"
+        "5d1b5b06b44ca33c06056141cd002b67",
+        "3095e4e5e42c6db720de07d72532311f",
+        "393c2007828b49d14ae2ce8a8bf61873",
+        "05e87cbef36cd8edbadc65c13cd2b4af",
+        "9a03ff067d819425ab21f231777a67fa",
+        "08183a095f9bb03fe7dd6ce06dfd5115"
       ],
-      "last_run": "2026-06-19 00:19 UTC",
+      "last_run": "2026-06-19T00:48:34.999611+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1008,9 +1008,6 @@
         "Wikipedia"
       ],
       "last_result_hashes": [
-        "d218ea78b31f47d554f190d973d4ead6",
-        "5bc6830c8bef83915bee2b08c695251f",
-        "ab1a401478bf91151df62818473f5ef5",
         "ce1296b7730544a3db978dc13e7a351f",
         "b82ed313e52a51037b2e80996b9a6a4d",
         "507d0954b1c28a4ea253d1bfcfbd1b35",
@@ -1027,9 +1024,12 @@
         "4af39f91e4589be845cd7c39aff81216",
         "ce5f54fc6f710fe0ee8b7e9d78f28c76",
         "c5bcaf01490daab7e999b17a95ee57ce",
-        "827f82e9e1a47b7a7ad617629e29c129"
+        "827f82e9e1a47b7a7ad617629e29c129",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "ab1a401478bf91151df62818473f5ef5",
+        "b563ffbf6c4669af7435b247e6cfa801"
       ],
-      "last_run": "2026-06-19 00:19 UTC",
+      "last_run": "2026-06-19T00:48:34.999611+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1256,10 +1256,6 @@
         "Preparation"
       ],
       "last_result_hashes": [
-        "770b00d3331dac099ee39c38bafc01b0",
-        "814ad50168aca7691bd4e6e042f0b36b",
-        "3a5aa4dc7a08cf53617d8bc45fcdd95d",
-        "758e32a5ad74796e353ebdfbf6d56a41",
         "544d7d110803052b93a7e0f05f49b7d5",
         "3739df902d0a15eaecfaff44ff2d20c8",
         "8d15aafde38b4f7003d03f97cfdf9d18",
@@ -1275,9 +1271,13 @@
         "37b18b3ee5841dc8d78ef02edf927dc9",
         "7d194ad3d9a4f9a87cd4de35548c005c",
         "09ba1908ae63111d1e15e6d4bafc047c",
-        "ccf8ede536dc56c5810aea6819c053c4"
+        "ccf8ede536dc56c5810aea6819c053c4",
+        "b374c779c101dd010d1f2ed0450afdee",
+        "cb771d1b262c915d29d009eda7c1c98e",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "c081d373fdb54070daade9a235858c9b"
       ],
-      "last_run": "2026-06-19 00:19 UTC",
+      "last_run": "2026-06-19T00:48:34.999611+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -1499,11 +1499,6 @@
         "and"
       ],
       "last_result_hashes": [
-        "7d7462b15a5b202849cc8e6a4ee62adf",
-        "9132d1ca01d195338d05eb556f7164be",
-        "3584f6e29572e740c61038c1dd99634c",
-        "68175a2892a66724f669a8669b9ae03d",
-        "80cb1ee80342b3950bba93fd2801d04f",
         "2b623ea4a3260e5ce9e59df5edc24035",
         "9df3859b4715ae95cd2f1c86331d9b55",
         "7b4d33a48fc204e0cb25e4f1266c7297",
@@ -1518,9 +1513,14 @@
         "7b0c583d3445b91efa0c0453e5a737c4",
         "03e9423b802e0456d3fe98220b76ea3a",
         "5000bcb9c17ee4eb7a84a32eb46a1679",
-        "343ee2ea3c7bd5c5bb4c13c55f709fcf"
+        "343ee2ea3c7bd5c5bb4c13c55f709fcf",
+        "0a974e52e4af3da11fa0449ca19924f5",
+        "6287e8dc37ecb68d7af1bc0e4b769a4f",
+        "9aed62976beccfd724ab1941bad3fa2b",
+        "9a16abe455aad8976504790293f8762a",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8"
       ],
-      "last_run": "2026-06-19 00:19 UTC",
+      "last_run": "2026-06-19T00:48:34.999611+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
