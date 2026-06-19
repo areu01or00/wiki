@@ -225,9 +225,22 @@
         "Series",
         "Load",
         "Message",
-        "Know"
+        "Know",
+        "The",
+        "Paradigm",
+        "Shift",
+        "Rise",
+        "Future",
+        "High-Performance"
       ],
       "last_result_hashes": [
+        "848a06554e3ca137e425aa0a6367b703",
+        "6a844cba5f4dbe6112de4dacb09bede6",
+        "6a8023ed8f6d80dc6383b03a803b7c26",
+        "e9d45130824f67775300df37d0b653d5",
+        "eb9413c412274c4d419c8f0af8eb0eeb",
+        "3bf6ab5a22ba2e48a537fbb68ef026b3",
+        "697337f881dc40cc977774b3475bbe3d",
         "89a56d75eb44a5b6b6e7751656a45c91",
         "729c2ff54afb3063182d60de7d6aef1c",
         "5aeac4fa30fb41ccddd5bdbec41ec241",
@@ -240,18 +253,19 @@
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "484f8898c5f9d4b38f7ba792dea9dd9a",
         "f82db65ad647bfed8e2200753b0aae29",
-        "aaaf9550e5e27d5469ea0edd84372b77",
-        "d0ae98a342caad97c68e59c996aeaea3",
-        "92d071cfe790dbd36f457c42356f1ce0",
-        "729c2ff54afb3063182d60de7d6aef1c",
-        "3d924683b109e99c93d7ba785e0c7ab0",
-        "5aeac4fa30fb41ccddd5bdbec41ec241",
-        "d7e4053d8359b5818b4128259533ab69",
-        "9ba46483364adb11b22fcfbd9fe2e4d2"
+        "aaaf9550e5e27d5469ea0edd84372b77"
       ],
-      "last_run": "2026-06-19T01:33:31.564249+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "new_sub_topics_this_run": [
+        "The",
+        "Paradigm",
+        "Shift",
+        "The",
+        "Rise",
+        "Future",
+        "High-Performance"
+      ],
+      "last_new_count": 7
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -498,9 +512,27 @@
         "Finally",
         "Almost",
         "Didn",
-        "Happen"
+        "Happen",
+        "Open",
+        "Source",
+        "ORC",
+        "Linker",
+        "Model",
+        "Programming",
+        "Writing",
+        "into",
+        "Optimization",
+        "Revolution"
       ],
       "last_result_hashes": [
+        "d227f4df6f847a89365dbf3f0eeb8754",
+        "0a198c3ca55025efca20b3a9ab1ebf14",
+        "d5a6bedb5d4c87b407e0e721d32365ca",
+        "504dcb496b563beb854a5d96e084c137",
+        "71c33262bb6fe28614d87220172c6995",
+        "9f191bc42ae373951b7c95aed4765db6",
+        "f59aecd9d2bb1c9a8e2250bf412480f0",
+        "c988d203ffb86a252a80be5c9dbd7a13",
         "78300d30b51a9fa8cf24032c1bebf1a4",
         "3d3edae06c55110509650bdb536089f7",
         "93c440f9650303ed05b8a12a05a66b5e",
@@ -512,19 +544,22 @@
         "95d039a87ff19238e99d0f66eb8fce0e",
         "3ba104ecc03da87f45ee61d5db32136d",
         "1dbcadd29f914229e53e0a8239219ead",
-        "d07f594fea667e043c421218ba0190f3",
-        "a78c2c73c0749267858b7fdad618ab3b",
-        "0cd9e2d6680317325264b3d560bb4388",
-        "9e15a6675bd30a9f4f1f425fe7991ab1",
-        "a888bd8966b306914c973b55ba7dd171",
-        "5cefefefe6afc297697ed1187181b6a1",
-        "d7b4894a19c2bbef8fa83ffa966363b1",
-        "ae427aaa277c67469832326760f5569f",
-        "a4919ef74ad6b5dc8e9008d87bc3c031"
+        "d07f594fea667e043c421218ba0190f3"
       ],
-      "last_run": "2026-06-19T01:33:31.564249+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "new_sub_topics_this_run": [
+        "Open",
+        "Source",
+        "ORC",
+        "Linker",
+        "Model",
+        "Programming",
+        "Writing",
+        "into",
+        "into",
+        "Optimization"
+      ],
+      "last_new_count": 8
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -741,9 +776,26 @@
         "gradual-typing",
         "with",
         "Research",
-        "Programming"
+        "Programming",
+        "Navigating",
+        "the",
+        "Language",
+        "Landscape",
+        "for",
+        "Software",
+        "Siek",
+        "Type",
+        "Mechanics"
       ],
       "last_result_hashes": [
+        "36f436eb9462cfa9b86dca4c78e0a8b0",
+        "515297cd90212e0cede68efcec1af7d9",
+        "ce8d456cc5c19dd66de1173f19eb7207",
+        "257f707e4f6b84a5109de8e4a606651f",
+        "add4e04359fd681d2982ba220aadf699",
+        "a4428a72c3f30f04759e0c9ec9f17d9e",
+        "0a6f4d53bc1208d78a779741badbaa7f",
+        "fb51a59f089f493701680072b31aee43",
         "ca03c102ef488af0d2105b163fcd1748",
         "ac20cb501c99f4b173060c6f46d893ae",
         "0c4fea65325737c446710c96431c6923",
@@ -755,19 +807,22 @@
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "b0b257ce43663e3177338e61f3e0e5f0",
         "796dd8fb9f6369a2e77f75139af26f3c",
-        "4a101114e3b691c4671d64770c39c052",
-        "05e87cbef36cd8edbadc65c13cd2b4af",
-        "6d77d36d5d5faa4ef4e6858564ce52bc",
-        "5d1b5b06b44ca33c06056141cd002b67",
-        "3095e4e5e42c6db720de07d72532311f",
-        "393c2007828b49d14ae2ce8a8bf61873",
-        "05e87cbef36cd8edbadc65c13cd2b4af",
-        "9a03ff067d819425ab21f231777a67fa",
-        "08183a095f9bb03fe7dd6ce06dfd5115"
+        "4a101114e3b691c4671d64770c39c052"
       ],
-      "last_run": "2026-06-19T01:33:31.564249+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "new_sub_topics_this_run": [
+        "Navigating",
+        "the",
+        "Language",
+        "Landscape",
+        "for",
+        "Software",
+        "Siek",
+        "Type",
+        "The",
+        "Mechanics"
+      ],
+      "last_new_count": 8
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1005,9 +1060,22 @@
         "Its",
         "vs.",
         "functional",
-        "Wikipedia"
+        "Wikipedia",
+        "fmaste",
+        "What",
+        "mspandit",
+        "Monadic",
+        "through",
+        "property-based"
       ],
       "last_result_hashes": [
+        "25e47e4eccab1384bf5fbe0cd4d651b5",
+        "d73188e4ce25b02b683bd89e90b80f2a",
+        "b2375d50bba29259be46231d642063bd",
+        "9fff54bc107ad3e37fcdd934aff1b3b7",
+        "a726a94cf0af9bc5d97352717acc87e4",
+        "c012a57fa63492860f64045db3528e7a",
+        "d6f0a11a62d35b9166112358d510129d",
         "ce1296b7730544a3db978dc13e7a351f",
         "b82ed313e52a51037b2e80996b9a6a4d",
         "507d0954b1c28a4ea253d1bfcfbd1b35",
@@ -1020,18 +1088,18 @@
         "1326cb5029bf132169a512a16be41acf",
         "19e9a027878cd9e15d80f9af087b154c",
         "619445cf59810e703603ef4f268058ee",
-        "a637c1b028184eea6b2bb028d9aef416",
-        "4af39f91e4589be845cd7c39aff81216",
-        "ce5f54fc6f710fe0ee8b7e9d78f28c76",
-        "c5bcaf01490daab7e999b17a95ee57ce",
-        "827f82e9e1a47b7a7ad617629e29c129",
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "ab1a401478bf91151df62818473f5ef5",
-        "b563ffbf6c4669af7435b247e6cfa801"
+        "a637c1b028184eea6b2bb028d9aef416"
       ],
-      "last_run": "2026-06-19T01:33:31.564249+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "new_sub_topics_this_run": [
+        "fmaste",
+        "What",
+        "mspandit",
+        "Monadic",
+        "through",
+        "property-based"
+      ],
+      "last_new_count": 7
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1256,9 +1324,21 @@
         "Ultimate",
         "and",
         "for",
-        "problemset"
+        "problemset",
+        "The",
+        "TCS"
       ],
       "last_result_hashes": [
+        "613405d33bcccb5f1977e25016e73fd2",
+        "9a0ef217f59ab765babcd9263ae93310",
+        "9c079bce41ba80e069e2d66cc02ed865",
+        "34bd4f254d9118ad122844fcf0d16e7e",
+        "1c53451e0b08707b5f103a3f2db699ca",
+        "8fbfc408d153c9db7210ed00243249c2",
+        "f381d9425a7fcd1cb715658bf397a62d",
+        "a72a20f0713cd5feeef913e54a998932",
+        "dba859e9113f969a0f84d759331953e7",
+        "60233ba12f224764b5938c3634b02e6a",
         "1952454ed5710ebe6f8b72a917a3c4e5",
         "544d7d110803052b93a7e0f05f49b7d5",
         "3739df902d0a15eaecfaff44ff2d20c8",
@@ -1268,25 +1348,16 @@
         "cb771d1b262c915d29d009eda7c1c98e",
         "d3b8d082c2434924e142a67b3f2b0b02",
         "8e00f7d78d79009ecc1474da3255f3a8",
-        "143876bc0621660474126a01477b0355",
-        "f3e3247de4ebf6210f3b488fa8a79fce",
-        "7e9fdd8c2ffc71a23e29276c3701990a",
-        "8900f36a48596850ee5ba84a247a6c1d",
-        "37b18b3ee5841dc8d78ef02edf927dc9",
-        "7d194ad3d9a4f9a87cd4de35548c005c",
-        "09ba1908ae63111d1e15e6d4bafc047c",
-        "ccf8ede536dc56c5810aea6819c053c4",
-        "b374c779c101dd010d1f2ed0450afdee",
-        "cb771d1b262c915d29d009eda7c1c98e",
-        "8d15aafde38b4f7003d03f97cfdf9d18"
+        "143876bc0621660474126a01477b0355"
       ],
-      "last_run": "2026-06-19T01:33:31.564249+00:00",
+      "last_run": "2026-06-19T01:49:15.170578+00:00",
       "new_sub_topics_this_run": [
-        "Actually",
-        "Backend",
-        "Replace"
+        "The",
+        "The",
+        "TCS",
+        "The"
       ],
-      "last_new_count": 1
+      "last_new_count": 10
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1503,9 +1574,23 @@
         "Techniques",
         "the",
         "Profiling",
-        "and"
+        "and",
+        "Under",
+        "Works",
+        "What",
+        "That"
       ],
       "last_result_hashes": [
+        "2b623ea4a3260e5ce9e59df5edc24035",
+        "9182a12ff9820d2b6a0e111455b3a6be",
+        "beaef31893811bf93a7c49c5427531ec",
+        "6bd1828271a3d7ce0e5d0b666c53b128",
+        "08569c9d36855febb2ea03e93a0d21c6",
+        "ccb68656e9373385e45171ba1630a3ba",
+        "a31b883e785c5325c1a9e03966e2ecbe",
+        "b64e04af64b888c35403b1ff62f36c59",
+        "80cb1ee80342b3950bba93fd2801d04f",
+        "03772e3ec6b4701383546e78fc602e69",
         "9df3859b4715ae95cd2f1c86331d9b55",
         "7b4d33a48fc204e0cb25e4f1266c7297",
         "507879acf3131fb6c383e24494db7d69",
@@ -1515,29 +1600,17 @@
         "323f5522cd079b66f3b0b35a0bdb4235",
         "b892d3268af415a5d0c10b3cc6cd89bf",
         "2084f8e9ae70d336d28c303d0a70faac",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "03e9423b802e0456d3fe98220b76ea3a",
-        "5000bcb9c17ee4eb7a84a32eb46a1679",
-        "343ee2ea3c7bd5c5bb4c13c55f709fcf",
-        "0a974e52e4af3da11fa0449ca19924f5",
-        "6287e8dc37ecb68d7af1bc0e4b769a4f",
-        "9aed62976beccfd724ab1941bad3fa2b",
-        "9a16abe455aad8976504790293f8762a",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "ccf88be8bf1278ad7a4c79a4a09e9346"
+        "238dd6ae5d2a4f3308b871fdae7cc7d8"
       ],
-      "last_run": "2026-06-19T01:33:31.564249+00:00",
+      "last_run": "2026-06-19T01:49:15.170578+00:00",
       "new_sub_topics_this_run": [
-        "Deep",
-        "Async",
-        "Everything",
-        "Need",
-        "Write",
-        "Better",
-        "Code"
+        "Under",
+        "Works",
+        "Under",
+        "What",
+        "That"
       ],
-      "last_new_count": 1
+      "last_new_count": 10
     }
   },
   "last_run": "2026-06-19 01:33 UTC"

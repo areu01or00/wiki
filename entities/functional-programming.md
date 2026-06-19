@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Monad in higher - Rust (Docs.rs)](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: functional,monad | src: functional-programming
+
 - **2026-06-19** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad,functional,programming,Wikipedia | src: functional-programming
 
 - **2026-06-18** | [GitHub - pbv/tapf-monad-examples: Examples for programming with monads in Haskell](https://github.com/pbv/tapf-monad-examples) | kw: functional,programming | src: functional-programming
