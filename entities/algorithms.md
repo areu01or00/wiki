@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [GitHub - heydi424/DSA-Handbook-for-Coding-Interviews_2026](https://github.com/heydi424/DSA-Handbook-for-Coding-Interviews_2026) | kw: GitHub, heydi424, DSA | src: algorithms
+
+
 - **2026-06-19** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, Coding, Interview | src: algorithms
 - **2026-06-19** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Guide](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms | src: algorithms
 - **2026-06-19** | [Study Plan - LeetCode](https://leetcode.com/studyplan/) | kw: Study, Plan, LeetCode | src: algorithms
