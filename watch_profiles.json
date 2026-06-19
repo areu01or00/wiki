@@ -234,7 +234,6 @@
         "High-Performance"
       ],
       "last_result_hashes": [
-        "848a06554e3ca137e425aa0a6367b703",
         "6a844cba5f4dbe6112de4dacb09bede6",
         "6a8023ed8f6d80dc6383b03a803b7c26",
         "e9d45130824f67775300df37d0b653d5",
@@ -253,9 +252,10 @@
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "484f8898c5f9d4b38f7ba792dea9dd9a",
         "f82db65ad647bfed8e2200753b0aae29",
-        "aaaf9550e5e27d5469ea0edd84372b77"
+        "aaaf9550e5e27d5469ea0edd84372b77",
+        "2f58466b4c76a307f213ca31f8c48185"
       ],
-      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "last_run": "2026-06-19T02:02:45.500740+00:00",
       "new_sub_topics_this_run": [
         "The",
         "Paradigm",
@@ -265,7 +265,7 @@
         "Future",
         "High-Performance"
       ],
-      "last_new_count": 7
+      "last_new_count": 1
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -546,7 +546,7 @@
         "1dbcadd29f914229e53e0a8239219ead",
         "d07f594fea667e043c421218ba0190f3"
       ],
-      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "last_run": "2026-06-19T02:02:45.500740+00:00",
       "new_sub_topics_this_run": [
         "Open",
         "Source",
@@ -559,7 +559,7 @@
         "into",
         "Optimization"
       ],
-      "last_new_count": 8
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -809,7 +809,7 @@
         "796dd8fb9f6369a2e77f75139af26f3c",
         "4a101114e3b691c4671d64770c39c052"
       ],
-      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "last_run": "2026-06-19T02:02:45.500740+00:00",
       "new_sub_topics_this_run": [
         "Navigating",
         "the",
@@ -822,7 +822,7 @@
         "The",
         "Mechanics"
       ],
-      "last_new_count": 8
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1069,8 +1069,6 @@
         "property-based"
       ],
       "last_result_hashes": [
-        "25e47e4eccab1384bf5fbe0cd4d651b5",
-        "d73188e4ce25b02b683bd89e90b80f2a",
         "b2375d50bba29259be46231d642063bd",
         "9fff54bc107ad3e37fcdd934aff1b3b7",
         "a726a94cf0af9bc5d97352717acc87e4",
@@ -1088,9 +1086,11 @@
         "1326cb5029bf132169a512a16be41acf",
         "19e9a027878cd9e15d80f9af087b154c",
         "619445cf59810e703603ef4f268058ee",
-        "a637c1b028184eea6b2bb028d9aef416"
+        "a637c1b028184eea6b2bb028d9aef416",
+        "5f9a2da0c7c9a2e40ef2c12ee3862840",
+        "d4a415d98430468b96961eb06875ee7b"
       ],
-      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "last_run": "2026-06-19T02:02:45.500740+00:00",
       "new_sub_topics_this_run": [
         "fmaste",
         "What",
@@ -1099,7 +1099,7 @@
         "through",
         "property-based"
       ],
-      "last_new_count": 7
+      "last_new_count": 2
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1350,14 +1350,14 @@
         "8e00f7d78d79009ecc1474da3255f3a8",
         "143876bc0621660474126a01477b0355"
       ],
-      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "last_run": "2026-06-19T02:02:45.500740+00:00",
       "new_sub_topics_this_run": [
         "The",
         "The",
         "TCS",
         "The"
       ],
-      "last_new_count": 10
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1602,7 +1602,7 @@
         "2084f8e9ae70d336d28c303d0a70faac",
         "238dd6ae5d2a4f3308b871fdae7cc7d8"
       ],
-      "last_run": "2026-06-19T01:49:15.170578+00:00",
+      "last_run": "2026-06-19T02:02:45.500740+00:00",
       "new_sub_topics_this_run": [
         "Under",
         "Works",
@@ -1610,7 +1610,7 @@
         "What",
         "That"
       ],
-      "last_new_count": 10
+      "last_new_count": 0
     }
   },
   "last_run": "2026-06-19 01:33 UTC"

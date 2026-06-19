@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [The Haskell Foundation](https://haskell.foundation/) | kw: The,Haskell,Foundation | src: functional-programming
+- **2026-06-19** | [Modern Haskell 2026 — GHC 9.10 / 9.12 / GHCup / Cabal 3.14 ...](https://www.youngju.dev/blog/culture/2026-05-16-modern-haskell-2026-ghc-9-10-9-12-ghcup-cabal-stack-ihp-servant-effectful-pandoc-deep-dive.en) | kw: Modern,Haskell,GHC,GHCup,Cabal | src: functional-programming
+
 - **2026-06-19** | [Monad in higher - Rust (Docs.rs)](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: functional,monad | src: functional-programming
 
 - **2026-06-19** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad,functional,programming,Wikipedia | src: functional-programming
