@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system <!-- h:729c2ff54afb3063182d60de7d6aef1c -->
+
 - **2026-06-19** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: Latest Trends in Distributed Systems (2026): What | src: system-design
 - **2026-06-19** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide to System Design in 2026 AI-Nat | src: system-design
 

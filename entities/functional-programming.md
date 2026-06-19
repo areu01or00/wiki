@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [What is a Monad (in Rust)? - mspandit.github.io](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: monads <!-- h:c35700ff9f0773d69682721949231b06 -->
+- **2026-06-19** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: haskell <!-- h:47e6d74aef0c39ef251aad25fd7ff012 -->
+- **2026-06-19** | [Does Rust Support Functional Programming Idioms? Exploring...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: rust <!-- h:18ed2d9a19fb2926a9e2e8d651d99e38 -->
+
 - **2026-06-19** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: haskell - What is a monad? - Stack Overflow | src: functional-programming
 - **2026-06-19** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like Patterns in Rust: Exploring | src: functional-programming
 - **2026-06-19** | [100+ Monads Online Courses for 2026 | Explore Free Courses...](https://www.classcentral.com/subject/monads) | kw: 100+ Monads Online Courses for 2026 / Explore Free | src: functional-programming
