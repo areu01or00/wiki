@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Yudai Tanabe](https://yudaitnb.github.io/) | kw: Yudai Tanabe | src: type-systems
+
 - **2026-06-19** | [90% of TypeScript interviews in 2026 come down to these 7 points](https://x.com/ConsciousRide/status/2067592912192545109) | kw: TypeScript, interviews, come, down
 - **2026-06-19** | [Types of Evolution: Punctuated Equilibrium vs Gradualism](http://www.biologybynapier.com/uploads/4/0/3/7/40376393/patterns_adaptations_regbio_option_1.pdf) | kw: Types, Evolution, Punctuated, Equilibrium
 
