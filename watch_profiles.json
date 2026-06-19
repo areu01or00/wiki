@@ -73,13 +73,17 @@
         "Complete",
         "GitScrum",
         "Edge",
-        "2026"
+        "2026",
+        "Paradigms",
+        "docs.gitscrum.com",
+        "High-Performance",
+        "Caching",
+        "HostMyCode",
+        "Strategies",
+        "Applications",
+        "TheLinuxCode"
       ],
       "last_result_hashes": [
-        "e9d45130824f67775300df37d0b653d5",
-        "71518f2043c91fd5da0a86cffab54ce2",
-        "3d924683b109e99c93d7ba785e0c7ab0",
-        "54d56919015126f3fad6a89e4fb01edc",
         "027b842794aa1b6f8ff97eb660c59079",
         "697337f881dc40cc977774b3475bbe3d",
         "4141d7871c6b9a533346e695683501e0",
@@ -95,15 +99,24 @@
         "6a8023ed8f6d80dc6383b03a803b7c26",
         "8a4c6c3b1a58ba76429a4cc01eb115a4",
         "dffcbc8662b09cb0a5c2d9645a80041f",
-        "d7e4053d8359b5818b4128259533ab69"
+        "d7e4053d8359b5818b4128259533ab69",
+        "ad1abed58fb932a97f41b79fc33bea65",
+        "9ba46483364adb11b22fcfbd9fe2e4d2",
+        "bdfa16848e7698d5b55177deef2e4604",
+        "000e636c2d8f8b023001384d271bfa7a"
       ],
-      "last_run": "2026-06-19T20:31:49Z",
+      "last_run": "2026-06-19T20:47:28Z",
       "new_sub_topics_this_run": [
-        "Large",
-        "Paradigm",
-        "Scale"
+        "Paradigms",
+        "docs.gitscrum.com",
+        "High-Performance",
+        "Caching",
+        "HostMyCode",
+        "Strategies",
+        "Applications",
+        "TheLinuxCode"
       ],
-      "last_new_count": 3
+      "last_new_count": 4
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -141,7 +154,7 @@
         "Best",
         "BuildingAJIT1",
         "Unlocking",
-        "LLVMのJITについてLLMの説明が分からなくて困る",
+        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
         "LLVM",
         "Compilers",
         "RomanPikhotskiy",
@@ -188,15 +201,18 @@
         "Straight",
         "Machine",
         "Code",
-        "BrainDetox"
+        "BrainDetox",
+        "Performance",
+        "Framework",
+        "Technology",
+        "BestHub",
+        "Infrastructure",
+        "Supercharge",
+        "Future",
+        "Flyriver.com",
+        "cloudsealed/JIT-Optimization-Engine"
       ],
       "last_result_hashes": [
-        "191137fb0d9c6770341ad41eba235f6e",
-        "17a9ff8a71e2e0c4a86ad1f87464fc32",
-        "1e4f2841efc1fbac5ac052907fa5790f",
-        "8a1f8c2cee520617974852260bebfda5",
-        "233f5bce867180de5299f3e4a40e8650",
-        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
         "23259200a7be4533fe1e25b8fdeb4b83",
         "d0de062ed058a4b7bb87b9c013129190",
         "ae427aaa277c67469832326760f5569f",
@@ -210,20 +226,27 @@
         "39a1fca28592350020e5f300331e95c1",
         "cb287c59a786bb447307fa7a257d9a00",
         "5eed965ea59d400fa331d2bfab6fba3c",
-        "f9a020f5e9c084036d48a40845afdc76"
+        "f9a020f5e9c084036d48a40845afdc76",
+        "377ce017f59479cac444aa255f43f295",
+        "9e15a6675bd30a9f4f1f425fe7991ab1",
+        "dc5ada16f234dc184f112304b0917552",
+        "f59aecd9d2bb1c9a8e2250bf412480f0",
+        "8a3c0b54b932f41af83e9ef65e0ed05d",
+        "e3de56741106b3ae528cad3750a09844"
       ],
-      "last_run": "2026-06-19T20:31:49Z",
+      "last_run": "2026-06-19T20:47:28Z",
       "new_sub_topics_this_run": [
-        "2023",
-        "2311",
-        "Engine",
-        "Nov",
-        "Overlooked",
         "Performance",
-        "Power",
-        "The"
+        "Framework",
+        "Technology",
+        "BestHub",
+        "Infrastructure",
+        "Supercharge",
+        "Future",
+        "Flyriver.com",
+        "cloudsealed/JIT-Optimization-Engine"
       ],
-      "last_new_count": 3
+      "last_new_count": 6
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -308,17 +331,19 @@
         "Three",
         "Different",
         "Languages",
-        "Now"
+        "Now",
+        "Mattered",
+        "Foundations",
+        "College",
+        "Guide",
+        "Computer",
+        "Jeremy",
+        "Paradigms",
+        "Khoury",
+        "numberanalytics.com",
+        "Matrix"
       ],
       "last_result_hashes": [
-        "7363df9b919ff0ae41c8cb8164aa61e8",
-        "5c8d464c75e0f82550f068820dd0b4ad",
-        "76cb8329ade5e1c0bc765af2f58cae53",
-        "063c2f3eadaf2be7e059d09de8a540f4",
-        "911955f45e693686bc5efe45c6135743",
-        "8152c0fa97986388894bbc6fe44824e4",
-        "1053fa1e5d3c47835cc3a5ecc1a46c52",
-        "086347cd58071894c217e208bc64efd7",
         "f2495424757e7dd538dd771f623f1a0f",
         "4a101114e3b691c4671d64770c39c052",
         "910e2c59d9371fe122f2a85a11011293",
@@ -330,17 +355,30 @@
         "b0b257ce43663e3177338e61f3e0e5f0",
         "1f3e7d1bf4955c674237c70349a25b1d",
         "b026ef92bf282c4d85de696983ed4a8c",
-        "2b077fcefb9f16574c355c5cae07ce7d"
+        "2b077fcefb9f16574c355c5cae07ce7d",
+        "a6dd493b0f1283e1e32335d78a01a24f",
+        "a62041fbd03c36044c10691af16fa6ad",
+        "05e87cbef36cd8edbadc65c13cd2b4af",
+        "796dd8fb9f6369a2e77f75139af26f3c",
+        "aa2f3be76632e120f0f252da09afe144",
+        "481bf13dad9a849f34a663880bb0470f",
+        "88dfcf74de33a1e88c9e9c90d0e55f9b",
+        "deca5e7373216ca874ed5b7b942ce58a"
       ],
-      "last_run": "2026-06-19T20:31:49Z",
+      "last_run": "2026-06-19T20:47:28Z",
       "new_sub_topics_this_run": [
-        "Across",
-        "GitHub",
-        "Group",
-        "Programming",
-        "Research"
+        "Mattered",
+        "Foundations",
+        "College",
+        "Guide",
+        "Computer",
+        "Jeremy",
+        "Paradigms",
+        "Khoury",
+        "numberanalytics.com",
+        "Matrix"
       ],
-      "last_new_count": 2
+      "last_new_count": 8
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -425,14 +463,19 @@
         "Courses",
         "Explore",
         "Free",
-        "Monad-Like"
+        "Monad-Like",
+        "Should",
+        "Learn",
+        "Finest",
+        "Languages",
+        "Omnipresent",
+        "bertiqwerty",
+        "Foundation",
+        "Developers",
+        "Future",
+        "Reliability"
       ],
       "last_result_hashes": [
-        "32522250afd65b3e71138f6d7e6fd397",
-        "5aab28d7fbd337a8668d6cbda3b0a9c1",
-        "6c5cb98e457a7ea49ad57c5293abde41",
-        "099dfaedc291f3a4e0a3a7a4e54681a8",
-        "6ac17140976f4e3a7be22d2ec701d1ce",
         "a1fd2b9212d955769e6bbfad262f2fb9",
         "6926ed07b1df52bf3ddf90dccc9ef907",
         "a637c1b028184eea6b2bb028d9aef416",
@@ -447,20 +490,27 @@
         "fdc8e2b82500b598dc73a35e40bb2f1e",
         "a5a5e66d614014e51e59f4fc6a2c0141",
         "c233ce094f809bd93c2f4474229feed5",
-        "7eff5c6a99bf213eccb369082948afb6"
+        "7eff5c6a99bf213eccb369082948afb6",
+        "2304b593353dcf35aa94f92d66b62bc4",
+        "c2fefc572a2578f6f202a147d877925b",
+        "88755452686cdbfeca2c3e154b11cd1a",
+        "1e23347071bace94cd96516373fa7b4d",
+        "89d87031e449ae356f26865a02b9a13d"
       ],
-      "last_run": "2026-06-19T20:31:49Z",
+      "last_run": "2026-06-19T20:47:28Z",
       "new_sub_topics_this_run": [
-        "About",
-        "All",
-        "HaskellWiki",
-        "Making",
-        "Monday",
-        "Morning",
-        "Sense",
-        "Tutorial"
+        "Should",
+        "Learn",
+        "Finest",
+        "Languages",
+        "Omnipresent",
+        "bertiqwerty",
+        "Foundation",
+        "Developers",
+        "Future",
+        "Reliability"
       ],
-      "last_new_count": 4
+      "last_new_count": 5
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -545,16 +595,17 @@
         "Prep",
         "Tools",
         "Compare",
-        "ShadeCoder"
+        "ShadeCoder",
+        "Courses",
+        "Explore",
+        "Versus",
+        "Guide",
+        "Simplified",
+        "Edition",
+        "Learning",
+        "Complete"
       ],
       "last_result_hashes": [
-        "8900f36a48596850ee5ba84a247a6c1d",
-        "007f6850e48a967b7acfd833f4be0a66",
-        "056bbd57e6e437cc7875c28572cf4197",
-        "544d7d110803052b93a7e0f05f49b7d5",
-        "8e6c7df52d21cb8e1d1493c6e8d0efad",
-        "814ad50168aca7691bd4e6e042f0b36b",
-        "425c7b3df72090fd953b1cda95d7377e",
         "9a90a9b5be8e6f4ed694943f3b5178be",
         "72b1bebf684cd10a41e6df3293065f1e",
         "b374c779c101dd010d1f2ed0450afdee",
@@ -567,11 +618,27 @@
         "eac128746ce43597ebff2f84aa42b62c",
         "71f19d1b45b652f669caf561d01d07ef",
         "7d194ad3d9a4f9a87cd4de35548c005c",
-        "e7cb63adafd27fca3ead2584308babd3"
+        "e7cb63adafd27fca3ead2584308babd3",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "3f06a805b279b69718e8fa493b91db66",
+        "c081d373fdb54070daade9a235858c9b",
+        "de11aa89dfd8b35a9e6f6d7263a37add",
+        "e105b734b6688dac3adb064364860950",
+        "7e571cc4915b8f19020f0aebd3f76356",
+        "60233ba12f224764b5938c3634b02e6a"
       ],
-      "last_run": "2026-06-19T20:31:49Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 2
+      "last_run": "2026-06-19T20:47:28Z",
+      "new_sub_topics_this_run": [
+        "Courses",
+        "Explore",
+        "Versus",
+        "Guide",
+        "Simplified",
+        "Edition",
+        "Learning",
+        "Complete"
+      ],
+      "last_new_count": 7
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -649,13 +716,11 @@
         "Optimization",
         "Key",
         "Backend",
-        "odysse.io"
+        "odysse.io",
+        "Newsletter",
+        "Interpreter"
       ],
       "last_result_hashes": [
-        "498edfd974d66c35db81ddcb5eced2f1",
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "125d32f4e073abcb08e7c2756041b634",
-        "999e699e6e78d8e383158b10f1c950f8",
         "b95a17537fc7951b13ea9a7057c274bc",
         "6bd1828271a3d7ce0e5d0b666c53b128",
         "7f2ac49bb043ce89198c985bd2570eae",
@@ -671,14 +736,19 @@
         "03e9423b802e0456d3fe98220b76ea3a",
         "30acb9043f9aa743b106860fc18c3038",
         "9df3859b4715ae95cd2f1c86331d9b55",
-        "323f5522cd079b66f3b0b35a0bdb4235"
+        "323f5522cd079b66f3b0b35a0bdb4235",
+        "5451f574f8ac7101d4076e3f903cf1d4",
+        "507879acf3131fb6c383e24494db7d69",
+        "704da68a060e620278ad7620fdf6c8a8",
+        "9132d1ca01d195338d05eb556f7164be"
       ],
-      "last_run": "2026-06-19T20:31:49Z",
+      "last_run": "2026-06-19T20:47:28Z",
       "new_sub_topics_this_run": [
-        "From"
+        "Newsletter",
+        "Interpreter"
       ],
-      "last_new_count": 1
+      "last_new_count": 4
     }
   },
-  "last_run": "2026-06-19T20:31:49Z"
+  "last_run": "2026-06-19T20:47:28Z"
 }

@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [GitHub - cloudsealed/JIT-Optimization-Engine](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: GitHub, cloudsealed/JIT-Optimization-Engine | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst | src: compilers
+- **2026-06-19** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: LLVM, Compiler, Framework | src: compilers
+- **2026-06-19** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: Deep, Dive, LLVM | src: compilers
+- **2026-06-19** | [The LLVM JIT Compiler: A Deep Dive - Flyriver.com](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: LLVM, Compiler, Deep | src: compilers
+- **2026-06-19** | [How Jeandle Uses LLVM to Supercharge JVM Performance | BestHub](https://www.besthub.dev/articles/how-jeandle-uses-llvm-to-supercharge-jvm-performance-f3d5c0e67f05) | kw: Jeandle, Uses, LLVM | src: compilers
+
 - **2026-06-19** | [GitHub - cloudsealed/JIT-Optimization-Engine: A high ...](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: GitHub, JIT, Optimization | src: compilers
 - **2026-06-19** | [arXiv:2311.04692v2 [cs.DB] 9 Nov 2023](https://arxiv.org/pdf/2311.04692) | kw: 2311, DB, Nov | src: compilers
 - **2026-06-19** | [Unlocking Performance: The Overlooked Power of Low-Cost ...](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking, Performance, The | src: compilers

@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Haskell Foundation](https://haskell.foundation/) | kw: Haskell, Foundation | src: functional-programming
+- **2026-06-19** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which, Functional, Programming | src: functional-programming
+- **2026-06-19** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming/) | kw: Future, Haskell, Functional | src: functional-programming
+- **2026-06-19** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Finest | src: functional-programming
+- **2026-06-19** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads, Omnipresent, Rust | src: functional-programming
+
 - **2026-06-19** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads, Tutorial, Monday | src: functional-programming
 - **2026-06-19** | [Monads | Haskell](https://fmaste.github.io/Haskell/doc/Monad.html) | kw: Monads, Haskell | src: functional-programming
 - **2026-06-19** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: All, About, Monads | src: functional-programming

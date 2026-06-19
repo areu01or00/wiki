@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [Latest Trends in Distributed Systems (2026) - TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026/) | kw: Latest, Trends, Distributed | src: system-design
+- **2026-06-19** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best | src: system-design
+- **2026-06-19** | [Distributed Caching Strategies for High-Performance Web Applications in 2026 | HostMyCode](https://www.hostmycode.com/blog/distributed-caching-strategies-high-performance-web-applications-2026) | kw: Distributed, Caching, Strategies | src: system-design
+- **2026-06-19** | [Distributed Systems Principles and Paradigms](https://www.dcc.fc.up.pt/~ines/aulas/1314/SDM/ch2.pdf) | kw: Distributed, Systems, Principles | src: system-design
+
 - **2026-06-19** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The, Coming, Paradigm | src: system-design
 - **2026-06-19** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: Latest, Trends, Distributed | src: system-design
 - **2026-06-19** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: Guide, Large, Scale | src: system-design
