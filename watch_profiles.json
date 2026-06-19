@@ -84,11 +84,6 @@
         "TheLinuxCode"
       ],
       "last_result_hashes": [
-        "027b842794aa1b6f8ff97eb660c59079",
-        "697337f881dc40cc977774b3475bbe3d",
-        "4141d7871c6b9a533346e695683501e0",
-        "2ebbe3411f331c326ab1fd19aa4e50c7",
-        "7adb740512b7087138618dd825b4af4c",
         "7a43fcfcde6a6e1ad6d40ccc6f416748",
         "2eed777e217c8f707d96cab621255e90",
         "7e998da59b2b5530665f43eb3dada43f",
@@ -103,20 +98,16 @@
         "ad1abed58fb932a97f41b79fc33bea65",
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "bdfa16848e7698d5b55177deef2e4604",
-        "000e636c2d8f8b023001384d271bfa7a"
+        "000e636c2d8f8b023001384d271bfa7a",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "d0ae98a342caad97c68e59c996aeaea3",
+        "d88d3de8f0e60fb55d23ee13a71ca225",
+        "0138e3c26ac6dea5b65730e25947b726",
+        "ac5d08ac3a5fabb2815807c3418141b6"
       ],
-      "last_run": "2026-06-19T20:47:28Z",
-      "new_sub_topics_this_run": [
-        "Paradigms",
-        "docs.gitscrum.com",
-        "High-Performance",
-        "Caching",
-        "HostMyCode",
-        "Strategies",
-        "Applications",
-        "TheLinuxCode"
-      ],
-      "last_new_count": 4
+      "last_run": "2026-06-19T21:15:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -213,14 +204,6 @@
         "cloudsealed/JIT-Optimization-Engine"
       ],
       "last_result_hashes": [
-        "23259200a7be4533fe1e25b8fdeb4b83",
-        "d0de062ed058a4b7bb87b9c013129190",
-        "ae427aaa277c67469832326760f5569f",
-        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
-        "6e76d5990761a54f756d319e37fddbb0",
-        "4a806827042fb7b1cfb380fea9790d30",
-        "adf6a6e80f7cb0d6a329a44df9d058a4",
-        "5cefefefe6afc297697ed1187181b6a1",
         "a888bd8966b306914c973b55ba7dd171",
         "f206368f76599fbab65a46387373312b",
         "39a1fca28592350020e5f300331e95c1",
@@ -232,21 +215,19 @@
         "dc5ada16f234dc184f112304b0917552",
         "f59aecd9d2bb1c9a8e2250bf412480f0",
         "8a3c0b54b932f41af83e9ef65e0ed05d",
-        "e3de56741106b3ae528cad3750a09844"
+        "e3de56741106b3ae528cad3750a09844",
+        "6965a4c3581fb1ec2539b87936dda826",
+        "a2d1a19eb95d0d7bc6f00b97f59f26cb",
+        "14bec6c679203be13206205a9edb80d7",
+        "5d4ac715e54509da805ad5c64a5b6b9b",
+        "7ed9cf6296b93bcd1574511795e44641",
+        "7731fb7ce05160d35b32be9432fa7936",
+        "8a1f8c2cee520617974852260bebfda5",
+        "da2a9627437ec27ab2a13b536f37cf45"
       ],
-      "last_run": "2026-06-19T20:47:28Z",
-      "new_sub_topics_this_run": [
-        "Performance",
-        "Framework",
-        "Technology",
-        "BestHub",
-        "Infrastructure",
-        "Supercharge",
-        "Future",
-        "Flyriver.com",
-        "cloudsealed/JIT-Optimization-Engine"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-19T21:15:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 8
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -344,10 +325,6 @@
         "Matrix"
       ],
       "last_result_hashes": [
-        "f2495424757e7dd538dd771f623f1a0f",
-        "4a101114e3b691c4671d64770c39c052",
-        "910e2c59d9371fe122f2a85a11011293",
-        "08183a095f9bb03fe7dd6ce06dfd5115",
         "e2c174c0007ca77c9deffbaae3cc9581",
         "960c3757b01a3b5c2b782f876f59a49d",
         "a3bff6024fbb28890c700733eef813fa",
@@ -363,22 +340,15 @@
         "aa2f3be76632e120f0f252da09afe144",
         "481bf13dad9a849f34a663880bb0470f",
         "88dfcf74de33a1e88c9e9c90d0e55f9b",
-        "deca5e7373216ca874ed5b7b942ce58a"
+        "deca5e7373216ca874ed5b7b942ce58a",
+        "8152c0fa97986388894bbc6fe44824e4",
+        "1053fa1e5d3c47835cc3a5ecc1a46c52",
+        "3326193b269b65058b9975cd44e12d99",
+        "9b5af11b277e52a7b464f4abb731b0fb"
       ],
-      "last_run": "2026-06-19T20:47:28Z",
-      "new_sub_topics_this_run": [
-        "Mattered",
-        "Foundations",
-        "College",
-        "Guide",
-        "Computer",
-        "Jeremy",
-        "Paradigms",
-        "Khoury",
-        "numberanalytics.com",
-        "Matrix"
-      ],
-      "last_new_count": 8
+      "last_run": "2026-06-19T21:15:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 4
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -476,14 +446,6 @@
         "Reliability"
       ],
       "last_result_hashes": [
-        "a1fd2b9212d955769e6bbfad262f2fb9",
-        "6926ed07b1df52bf3ddf90dccc9ef907",
-        "a637c1b028184eea6b2bb028d9aef416",
-        "827f82e9e1a47b7a7ad617629e29c129",
-        "e1e06864f8831c6e61e6a80895f0c9fb",
-        "c5bcaf01490daab7e999b17a95ee57ce",
-        "654039b2a2650812686655a4e5d3d0ce",
-        "19e9a027878cd9e15d80f9af087b154c",
         "9ae289060558ae8a8f9157b02711f54d",
         "c34a9a43ce0bf98274e9aee01383eea0",
         "79cd05ad2ea3b4a8f88864da5ba58578",
@@ -495,22 +457,19 @@
         "c2fefc572a2578f6f202a147d877925b",
         "88755452686cdbfeca2c3e154b11cd1a",
         "1e23347071bace94cd96516373fa7b4d",
-        "89d87031e449ae356f26865a02b9a13d"
+        "89d87031e449ae356f26865a02b9a13d",
+        "98e526be52c4f26f6ab112fd904d69d2",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "bf1a15ca9ed763ef87e590e43ec094ad",
+        "94a26269fce6d4cab82e390dea71cd77",
+        "cb3451b58dc0de64c4abaf6248054b44",
+        "16c191d0b473db149334e48791b18c40",
+        "fe6aed26b337f1993ecc4097fa829089",
+        "3635079258c31a05f32c708a4e5d46fc"
       ],
-      "last_run": "2026-06-19T20:47:28Z",
-      "new_sub_topics_this_run": [
-        "Should",
-        "Learn",
-        "Finest",
-        "Languages",
-        "Omnipresent",
-        "bertiqwerty",
-        "Foundation",
-        "Developers",
-        "Future",
-        "Reliability"
-      ],
-      "last_new_count": 5
+      "last_run": "2026-06-19T21:15:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 8
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -607,13 +566,6 @@
         "Codeforces"
       ],
       "last_result_hashes": [
-        "72b1bebf684cd10a41e6df3293065f1e",
-        "b374c779c101dd010d1f2ed0450afdee",
-        "ef0e4d85c1ccfcbeb45ec6bf5e3015fb",
-        "758e32a5ad74796e353ebdfbf6d56a41",
-        "cb771d1b262c915d29d009eda7c1c98e",
-        "96cc6ef4debb90003f3411a620935917",
-        "8ec4ac28253c4f016997232629004129",
         "55e31a674bb02e0795ac86448ae5879c",
         "eac128746ce43597ebff2f84aa42b62c",
         "71f19d1b45b652f669caf561d01d07ef",
@@ -626,13 +578,18 @@
         "e105b734b6688dac3adb064364860950",
         "7e571cc4915b8f19020f0aebd3f76356",
         "60233ba12f224764b5938c3634b02e6a",
-        "10d7129c85efbc86e21b710b48cc3f38"
+        "10d7129c85efbc86e21b710b48cc3f38",
+        "09fb34f020c56145d7269228189a72c2",
+        "3739df902d0a15eaecfaff44ff2d20c8",
+        "8900f36a48596850ee5ba84a247a6c1d",
+        "544d7d110803052b93a7e0f05f49b7d5",
+        "3a5aa4dc7a08cf53617d8bc45fcdd95d",
+        "7e9fdd8c2ffc71a23e29276c3701990a",
+        "a72a20f0713cd5feeef913e54a998932"
       ],
-      "last_run": "2026-06-19T21:02:04Z",
-      "new_sub_topics_this_run": [
-        "Handbook"
-      ],
-      "last_new_count": 1
+      "last_run": "2026-06-19T21:15:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 7
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -715,9 +672,6 @@
         "Interpreter"
       ],
       "last_result_hashes": [
-        "b95a17537fc7951b13ea9a7057c274bc",
-        "6bd1828271a3d7ce0e5d0b666c53b128",
-        "7f2ac49bb043ce89198c985bd2570eae",
         "beaef31893811bf93a7c49c5427531ec",
         "23f806669425cddfbb81ceb3202ed519",
         "b892d3268af415a5d0c10b3cc6cd89bf",
@@ -734,15 +688,15 @@
         "5451f574f8ac7101d4076e3f903cf1d4",
         "507879acf3131fb6c383e24494db7d69",
         "704da68a060e620278ad7620fdf6c8a8",
-        "9132d1ca01d195338d05eb556f7164be"
+        "9132d1ca01d195338d05eb556f7164be",
+        "7b0c583d3445b91efa0c0453e5a737c4",
+        "aff79aed6e34d3f002b7fa14f5978b75",
+        "a3ce70b635f7607a2fedf2935167e17f"
       ],
-      "last_run": "2026-06-19T20:47:28Z",
-      "new_sub_topics_this_run": [
-        "Newsletter",
-        "Interpreter"
-      ],
-      "last_new_count": 4
+      "last_run": "2026-06-19T21:15:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 3
     }
   },
-  "last_run": "2026-06-19T21:02:04Z"
+  "last_run": "2026-06-19T21:15:34Z"
 }

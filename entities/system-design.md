@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide | src: system-design
+- **2026-06-19** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks) | kw: System, Design, Building | src: system-design
+- **2026-06-19** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: System, Design, Patterns | src: system-design
+- **2026-06-19** | [Most-Used Distributed System Design Patterns | by Anil Gudigar | Javarevisited | Medium](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33) | kw: Most, Used, Distributed | src: system-design
+- **2026-06-19** | [System Design Roadmap 2026: A Practical Guide to Master System Design](https://interviewready.io/blog/system-design-roadmap-guide) | kw: System, Design, Roadmap | src: system-design
+
 - **2026-06-19** | [Latest Trends in Distributed Systems (2026) - TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026/) | kw: Latest, Trends, Distributed | src: system-design
 - **2026-06-19** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best | src: system-design
 - **2026-06-19** | [Distributed Caching Strategies for High-Performance Web Applications in 2026 | HostMyCode](https://www.hostmycode.com/blog/distributed-caching-strategies-high-performance-web-applications-2026) | kw: Distributed, Caching, Strategies | src: system-design

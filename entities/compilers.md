@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01) | kw: LLVM, Compiler, Infrastructure | src: compilers
+- **2026-06-19** | [Chapter 9: JIT Compilation | Learn LLVM 17 - Packt Subscription](https://subscription.packtpub.com/book/programming/9781837631346/12/ch12lvl1sec59/llvms-overall-jit-implementation-and-use-cases) | kw: Chapter, JIT, Compilation | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1.rst | src: compilers
+- **2026-06-19** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: Jeandle, Ant, Group's | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1.rst | src: compilers
+- **2026-06-19** | [How Jeandle Uses LLVM to Supercharge JVM Performance](https://www.besthub.dev/articles/how-jeandle-uses-llvm-to-supercharge-jvm-performance-f3d5c0e67f05) | kw: Jeandle, Uses, LLVM | src: compilers
+- **2026-06-19** | [GitHub - cloudsealed/JIT-Optimization-Engine: A high-performance execution engine utilizing LLVM-based JIT compilation](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: GitHub, cloudsealed/JIT, Optimization | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT3.rst | src: compilers
+
 - **2026-06-19** | [GitHub - cloudsealed/JIT-Optimization-Engine](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: GitHub, cloudsealed/JIT-Optimization-Engine | src: compilers
 - **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst | src: compilers
 - **2026-06-19** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: LLVM, Compiler, Framework | src: compilers

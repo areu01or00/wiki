@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms | src: algorithms
+- **2026-06-19** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview | src: algorithms
+- **2026-06-19** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode, World's, Leading | src: algorithms
+- **2026-06-19** | [Top 50 Data Structures Interview Questions 2026 - PA](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: Top, 50, Data | src: algorithms
+- **2026-06-19** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode, World's, Leading | src: algorithms
+- **2026-06-19** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode, Questions, TCS | src: algorithms
+- **2026-06-19** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: Top, 100+, Data | src: algorithms
+
 - **2026-06-19** | [GitHub - heydi424/DSA-Handbook-for-Coding-Interviews_2026](https://github.com/heydi424/DSA-Handbook-for-Coding-Interviews_2026) | kw: GitHub, heydi424, DSA | src: algorithms
 
 

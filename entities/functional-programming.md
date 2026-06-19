@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Haskell Monads — Monday Morning Haskell](https://mmhaskell.com/monads) | kw: Haskell, Monads, Monday | src: functional-programming
+- **2026-06-19** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, Haskell | src: functional-programming
+- **2026-06-19** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads, Monad, Like | src: functional-programming
+- **2026-06-19** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, at | src: functional-programming
+- **2026-06-19** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, functional, programming | src: functional-programming
+- **2026-06-19** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic/) | kw: monadic, Rust, Docs.rs | src: functional-programming
+- **2026-06-19** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads, Not | src: functional-programming
+- **2026-06-19** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell Community](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell, Interlude, #83 | src: functional-programming
+
 - **2026-06-19** | [Haskell Foundation](https://haskell.foundation/) | kw: Haskell, Foundation | src: functional-programming
 - **2026-06-19** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which, Functional, Programming | src: functional-programming
 - **2026-06-19** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming/) | kw: Future, Haskell, Functional | src: functional-programming
