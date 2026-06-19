@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now/) | kw: distributed | src: system-design
+- **2026-06-19** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: architecture | src: system-design
+- **2026-06-19** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: high-performance | src: system-design
+- **2026-06-19** | [Emerging Backend Architectures for 2026: Microservices, Serverless, and Beyond](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: architectures | src: system-design
+- **2026-06-19** | [Architectural Patterns for Distributed Systems: Definition & Importance](https://study.com/academy/lesson/video/architectural-patterns-for-distributed-systems-definition-importance.html) | kw: architectural | src: system-design
+- **2026-06-19** | [Patterns of Distributed Systems - research.tedneward.com](https://research.tedneward.com/patterns/patterns-of-distributed-systems/index.html) | kw: distributed | src: system-design
+
 - **2026-06-19** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: system,design | src: system-design
 - **2026-06-19** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: system,design | src: system-design
 - **2026-06-19** | [Patterns of Distributed Systems martinfowler.com https://martinfowler.com › books › patterns-distributed](https://martinfowler.com/books/patterns-distributed.html) | kw: system,design | src: system-design

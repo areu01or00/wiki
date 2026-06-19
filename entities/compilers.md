@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 | src: compilers
+- **2026-06-19** | [Best Free and Open Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: analytics | src: compilers
+- **2026-06-19** | [Compilers and Interpreters: How Code Actually Runs — Everything Developers Need to Know](https://www.youngju.dev/blog/culture/2026-03-23-compiler-interpreter-how-code-runs-guide.en) | kw: interpreters | src: compilers
+- **2026-06-19** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: llvm-autojit | src: compilers
+- **2026-06-19** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: technology | src: compilers
+
 - **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: compilers | src: compilers
 - **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers | src: compilers
 - **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers | src: compilers

@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Gradual Typing – Programming Research Group (Tokyo Tech)](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: programming | src: type-systems
+- **2026-06-19** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing/) | kw: foundations | src: type-systems
+- **2026-06-19** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: inference | src: type-systems
+
 - **2026-06-19** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: type,systems | src: type-systems
 - **2026-06-19** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: type,systems | src: type-systems
 - **2026-06-19** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: type,systems | src: type-systems
