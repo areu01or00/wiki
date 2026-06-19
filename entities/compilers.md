@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [LLVM/Clang 22 Compiler Officially Released With Many Improvements - Phoronix](https://www.phoronix.com/news/LLVM-Clang-22.1-Released) | kw: LLVM/Clang 22 Compiler | src: compilers
+- **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI Compiler Prompt | src: compilers
+- **2026-06-19** | [GitHub - JLLVM/JLLVM: JVM implementation using LLVM as a JIT](https://github.com/JLLVM/JLLVM) | kw: GitHub JLLVM/JLLVM JVM | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026 · VALancaster/compiler-course-2026](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT3.rst | src: compilers
+- **2026-06-19** | [GitHub - cloudsealed/JIT-Optimization-Engine: A high-performance execution engine utilizing LLVM-based JIT compilation](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: GitHub cloudsealed/JIT Optimization | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJIT1.rst | src: compilers
+
 - **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: Case | src: compilers
 - **2026-06-19** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Best | src: compilers
 - **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT1 | src: compilers

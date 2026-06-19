@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: gradual typing – | src: type-systems
+- **2026-06-19** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual Typing – | src: type-systems
+- **2026-06-19** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of | src: type-systems
+- **2026-06-19** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language | src: type-systems
+- **2026-06-19** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating the 2026 | src: type-systems
+- **2026-06-19** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with | src: type-systems
+
 - **2026-06-19** | [Gradual Typing – Programming Research Group (Science Tokyo)](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual | src: type-systems
 - **2026-06-19** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual | src: type-systems
 - **2026-06-19** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir (arXiv)](https://arxiv.org/pdf/2408.14345v3) | kw: Guard | src: type-systems

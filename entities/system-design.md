@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering Distributed Systems | src: system-design
+- **2026-06-19** | [Patterns of Distributed Systems - research.tedneward.com](https://research.tedneward.com/patterns/patterns-of-distributed-systems/index.html) | kw: Patterns of Distributed | src: system-design
+- **2026-06-19** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide | src: system-design
+- **2026-06-19** | [Distributed Systems Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/mastering-design-patterns/distributed-systems-patterns) | kw: Distributed Systems Patterns | src: system-design
+- **2026-06-19** | [How Cloud Architecture Is Evolving in 2026 - resolvetech.com](https://resolvetech.com/distributed-hybrid-infrastructure-how-cloud-architecture-is-evolving-in-2026/) | kw: How Cloud Architecture | src: system-design
+
 - **2026-06-19** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming | src: system-design
 - **2026-06-19** | [Latest Trends in Distributed Systems (2026) - TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026/) | kw: Latest | src: system-design
 - **2026-06-19** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: Distributed | src: system-design

@@ -61,14 +61,18 @@
         "Distributed",
         "Design",
         "Mastering",
-        "Best"
+        "Best",
+        "Native",
+        "Lexicon",
+        "Evolving",
+        "Community",
+        "Architecture",
+        "Guide",
+        "Cloud",
+        "Patterns",
+        "Complete"
       ],
       "last_result_hashes": [
-        "8a4c6c3b1a58ba76429a4cc01eb115a4",
-        "ad1abed58fb932a97f41b79fc33bea65",
-        "dffcbc8662b09cb0a5c2d9645a80041f",
-        "729c2ff54afb3063182d60de7d6aef1c",
-        "46a56982536c8a4f9801b7d471165b39",
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "be6431b62c4b712f6f0fa4fe7d011e37",
         "25a06ccbe831fcae1efa398fc18b067e",
@@ -83,18 +87,26 @@
         "54d56919015126f3fad6a89e4fb01edc",
         "027b842794aa1b6f8ff97eb660c59079",
         "697337f881dc40cc977774b3475bbe3d",
-        "4141d7871c6b9a533346e695683501e0"
+        "4141d7871c6b9a533346e695683501e0",
+        "2ebbe3411f331c326ab1fd19aa4e50c7",
+        "7adb740512b7087138618dd825b4af4c",
+        "7a43fcfcde6a6e1ad6d40ccc6f416748",
+        "2eed777e217c8f707d96cab621255e90",
+        "7e998da59b2b5530665f43eb3dada43f"
       ],
-      "last_run": "2026-06-19T19:31:57Z",
+      "last_run": "2026-06-19T19:47:19Z",
       "new_sub_topics_this_run": [
-        "Coming",
-        "Latest",
-        "Distributed",
-        "Design",
-        "Mastering",
-        "Best"
+        "Native",
+        "Lexicon",
+        "Evolving",
+        "Community",
+        "Architecture",
+        "Guide",
+        "Cloud",
+        "Patterns",
+        "Complete"
       ],
-      "last_new_count": 6
+      "last_new_count": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -154,18 +166,22 @@
         "Best",
         "BuildingAJIT1",
         "Unlocking",
-        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
+        "LLVMのJITについてLLMの説明が分からなくて困る",
         "LLVM",
         "Compilers",
-        "RomanPikhotskiy"
+        "RomanPikhotskiy",
+        "Prompt",
+        "Cheat",
+        "LLVM/Clang",
+        "Optimization",
+        "Engineering",
+        "Many",
+        "Improvements",
+        "Deep",
+        "GitHub",
+        "JLLVM/JLLVM"
       ],
       "last_result_hashes": [
-        "5cefefefe6afc297697ed1187181b6a1",
-        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
-        "7ed9cf6296b93bcd1574511795e44641",
-        "d37278b17b3f3d3a42bf217f0d3e56d5",
-        "9c7d751072ce020f146fcaafc56e72eb",
-        "dc5ada16f234dc184f112304b0917552",
         "a888bd8966b306914c973b55ba7dd171",
         "14bec6c679203be13206205a9edb80d7",
         "d6b1d0b195a3733a394b342cca13ee0d",
@@ -179,20 +195,28 @@
         "00d37fecba311b38109bc12619ff9f25",
         "bbbc8ef4ec78630cae3e49219b742618",
         "381c5829c4542d830b4e98667478e845",
-        "537439b799160fc6f3459b2fb0a33cd5"
+        "537439b799160fc6f3459b2fb0a33cd5",
+        "619a49efaa11cdecdfa3371459c61065",
+        "191137fb0d9c6770341ad41eba235f6e",
+        "17a9ff8a71e2e0c4a86ad1f87464fc32",
+        "1e4f2841efc1fbac5ac052907fa5790f",
+        "8a1f8c2cee520617974852260bebfda5",
+        "233f5bce867180de5299f3e4a40e8650"
       ],
-      "last_run": "2026-06-19T19:31:57Z",
+      "last_run": "2026-06-19T19:47:19Z",
       "new_sub_topics_this_run": [
-        "Case",
-        "Best",
-        "BuildingAJIT1",
-        "Unlocking",
-        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
-        "LLVM",
-        "Compilers",
-        "RomanPikhotskiy"
+        "Prompt",
+        "Cheat",
+        "LLVM/Clang",
+        "Optimization",
+        "Engineering",
+        "Many",
+        "Improvements",
+        "Deep",
+        "GitHub",
+        "JLLVM/JLLVM"
       ],
-      "last_new_count": 8
+      "last_new_count": 6
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -255,16 +279,19 @@
         "Efficient",
         "Confused",
         "Annotations",
-        "Inference"
+        "Inference",
+        "Navigating",
+        "Labyrinth",
+        "Strict",
+        "Paradigm",
+        "Improvement",
+        "Language",
+        "Complete",
+        "Analysis",
+        "Mode",
+        "Safe"
       ],
       "last_result_hashes": [
-        "64b470da1594bf882606e4f34b1257e6",
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "7b70f5d6638f7163c60203ae4afa2dca",
-        "539299cdb002f1725e1d140c5784f165",
-        "bca887779c4d30860ee265ce67393aa0",
-        "6fc9970c04093343ec26fd6a1cf8f540",
-        "909e8bfab170d35133c70a8a14f48f68",
         "1f3e7d1bf4955c674237c70349a25b1d",
         "05e87cbef36cd8edbadc65c13cd2b4af",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6",
@@ -277,16 +304,27 @@
         "7d43df11a787f4da1d8ba7253fb6f91f",
         "7363df9b919ff0ae41c8cb8164aa61e8",
         "5c8d464c75e0f82550f068820dd0b4ad",
-        "76cb8329ade5e1c0bc765af2f58cae53"
+        "76cb8329ade5e1c0bc765af2f58cae53",
+        "063c2f3eadaf2be7e059d09de8a540f4",
+        "911955f45e693686bc5efe45c6135743",
+        "8152c0fa97986388894bbc6fe44824e4",
+        "1053fa1e5d3c47835cc3a5ecc1a46c52",
+        "086347cd58071894c217e208bc64efd7",
+        "f2495424757e7dd538dd771f623f1a0f",
+        "4a101114e3b691c4671d64770c39c052"
       ],
-      "last_run": "2026-06-19T19:31:57Z",
+      "last_run": "2026-06-19T19:47:19Z",
       "new_sub_topics_this_run": [
-        "Gradual",
-        "Guard",
-        "Efficient",
-        "Confused",
-        "Annotations",
-        "Inference"
+        "Navigating",
+        "Labyrinth",
+        "Strict",
+        "Paradigm",
+        "Improvement",
+        "Language",
+        "Complete",
+        "Analysis",
+        "Mode",
+        "Safe"
       ],
       "last_new_count": 7
     },
@@ -354,15 +392,19 @@
         "Monads",
         "Monad",
         "Does",
-        "Medium"
+        "Medium",
+        "Like",
+        "Part",
+        "Links",
+        "Exploring",
+        "Learned",
+        "POPL",
+        "Bring",
+        "Haskell",
+        "Code",
+        "Interlude"
       ],
       "last_result_hashes": [
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "a1fd2b9212d955769e6bbfad262f2fb9",
-        "0b2120fa72343244679a593dacf13018",
-        "507d0954b1c28a4ea253d1bfcfbd1b35",
-        "41324c9de2246b68967ff2eb3fe8b409",
-        "81f416bda62e20437250860785d5442e",
         "a6680c77f7647761828dbe6af8a47d4e",
         "dbd3010420412a91e41a5c1bd0f7d7a0",
         "c012a57fa63492860f64045db3528e7a",
@@ -376,19 +418,28 @@
         "34879744f2a105709306e24e50011292",
         "fa084d7ca168297914b3265540402b1d",
         "32b7895f5a363cbf340e57c75779aedd",
-        "875e7957fd4974fda8df61e5e64c4b09"
+        "875e7957fd4974fda8df61e5e64c4b09",
+        "8523d54f973c1802378dbbf186428ae2",
+        "1e23347071bace94cd96516373fa7b4d",
+        "32522250afd65b3e71138f6d7e6fd397",
+        "5aab28d7fbd337a8668d6cbda3b0a9c1",
+        "6c5cb98e457a7ea49ad57c5293abde41",
+        "099dfaedc291f3a4e0a3a7a4e54681a8"
       ],
-      "last_run": "2026-06-19T19:31:57Z",
+      "last_run": "2026-06-19T19:47:19Z",
       "new_sub_topics_this_run": [
-        "Functional",
-        "Coming",
-        "And",
-        "Monads",
-        "Monad",
-        "Does",
-        "Medium"
+        "Like",
+        "Part",
+        "Links",
+        "Exploring",
+        "Learned",
+        "POPL",
+        "Bring",
+        "Haskell",
+        "Code",
+        "Interlude"
       ],
-      "last_new_count": 7
+      "last_new_count": 6
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -455,15 +506,13 @@
         "LeetCode",
         "Best",
         "NQT",
-        "Company-Wise"
+        "Company-Wise",
+        "Interview",
+        "Grinding",
+        "Python",
+        "Answers"
       ],
       "last_result_hashes": [
-        "3739df902d0a15eaecfaff44ff2d20c8",
-        "f381d9425a7fcd1cb715658bf397a62d",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
-        "758e32a5ad74796e353ebdfbf6d56a41",
-        "b374c779c101dd010d1f2ed0450afdee",
-        "d6eb77479303dc4dc083a8460d7815d0",
         "419ddc9c61219c419523d8e37695e627",
         "d11d32e86d38f20c055a381fc2fe21eb",
         "92fe0baf445ee0220579f3928702982a",
@@ -477,19 +526,22 @@
         "fae719876bc5c541440192783809f45b",
         "b2ebff509c2065c89ae295b2fabe3868",
         "8900f36a48596850ee5ba84a247a6c1d",
-        "007f6850e48a967b7acfd833f4be0a66"
+        "007f6850e48a967b7acfd833f4be0a66",
+        "056bbd57e6e437cc7875c28572cf4197",
+        "544d7d110803052b93a7e0f05f49b7d5",
+        "8e6c7df52d21cb8e1d1493c6e8d0efad",
+        "814ad50168aca7691bd4e6e042f0b36b",
+        "425c7b3df72090fd953b1cda95d7377e",
+        "9a90a9b5be8e6f4ed694943f3b5178be"
       ],
-      "last_run": "2026-06-19T19:31:57Z",
+      "last_run": "2026-06-19T19:47:19Z",
       "new_sub_topics_this_run": [
-        "Data",
-        "Tutor",
-        "NeetCode",
-        "LeetCode",
-        "Best",
-        "NQT",
-        "Company-Wise"
+        "Interview",
+        "Grinding",
+        "Python",
+        "Answers"
       ],
-      "last_new_count": 7
+      "last_new_count": 6
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -550,14 +602,19 @@
         "Memory",
         "How",
         "Future",
-        "Controversy"
+        "Controversy",
+        "Threaded",
+        "Going",
+        "Hidden",
+        "Explained",
+        "Workloads",
+        "Affects",
+        "Exploring",
+        "Guide",
+        "Global",
+        "BirJob"
       ],
       "last_result_hashes": [
-        "9df3859b4715ae95cd2f1c86331d9b55",
-        "49d63312d772fdc8dd4bab9349a271d4",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "7b4d33a48fc204e0cb25e4f1266c7297",
-        "03e9423b802e0456d3fe98220b76ea3a",
         "b3593c9f59eca4f8b6263b3a3f35c76d",
         "8423f12ab9baba929d1ed4e944bcf94c",
         "3453b796c7c5877faf9dc9fdd181534f",
@@ -572,18 +629,28 @@
         "6bd1828271a3d7ce0e5d0b666c53b128",
         "7f2ac49bb043ce89198c985bd2570eae",
         "beaef31893811bf93a7c49c5427531ec",
-        "23f806669425cddfbb81ceb3202ed519"
+        "23f806669425cddfbb81ceb3202ed519",
+        "b892d3268af415a5d0c10b3cc6cd89bf",
+        "d2adce09b07afa8868adc1a5598d6db8",
+        "2084f8e9ae70d336d28c303d0a70faac",
+        "7d7462b15a5b202849cc8e6a4ee62adf",
+        "6287e8dc37ecb68d7af1bc0e4b769a4f"
       ],
-      "last_run": "2026-06-19T19:31:57Z",
+      "last_run": "2026-06-19T19:47:19Z",
       "new_sub_topics_this_run": [
-        "GIL",
-        "Consensus",
-        "Memory",
-        "How",
-        "Future",
-        "Controversy"
+        "Threaded",
+        "Going",
+        "Hidden",
+        "Explained",
+        "Workloads",
+        "Affects",
+        "Exploring",
+        "Guide",
+        "Global",
+        "BirJob"
       ],
-      "last_new_count": 6
+      "last_new_count": 5
     }
-  }
+  },
+  "last_run": "2026-06-19T19:47:19Z"
 }

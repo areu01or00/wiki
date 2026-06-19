@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring Python Internals | src: python-internals
+- **2026-06-19** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is | src: python-internals
+- **2026-06-19** | [🧠 Python NoGIL in 2026: True Multithreading for AI Workloads](https://techscriipt.substack.com/p/python-nogil-in-2026-true-multithreading) | kw: 🧠 Python NoGIL | src: python-internals
+- **2026-06-19** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: Python's GIL Explained | src: python-internals
+- **2026-06-19** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the | src: python-internals
+
 - **2026-06-19** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL | src: python-internals
 - **2026-06-19** | [Python 3.14 garbage collection rigamarole - The Consensus](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html) | kw: Consensus | src: python-internals
 - **2026-06-19** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory | src: python-internals

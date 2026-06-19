@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: Data Structures Interview | src: algorithms
+- **2026-06-19** | [Top 50 Data Structures Interview Questions 2026 - PA](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: Top 50 Data | src: algorithms
+- **2026-06-19** | [LeetCode Python Problems](https://leetcode.com/problemset?language=Python) | kw: LeetCode Python Problems | src: algorithms
+- **2026-06-19** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: Data Structure I | src: algorithms
+- **2026-06-19** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150/) | kw: Top Interview 150 | src: algorithms
+- **2026-06-19** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan | src: algorithms
+
 - **2026-06-19** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data | src: algorithms
 - **2026-06-19** | [Data Structures & Algorithms Roadmap 2026 - The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Tutor | src: algorithms
 - **2026-06-19** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode | src: algorithms

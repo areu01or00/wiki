@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: How I Learned | src: functional-programming
+- **2026-06-19** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming at | src: functional-programming
+- **2026-06-19** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83 | src: functional-programming
+- **2026-06-19** | [Rust: Functional Programming & Monads | by Technocrat](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust Functional Programming | src: functional-programming
+- **2026-06-19** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does Rust Support | src: functional-programming
+- **2026-06-19** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad | src: functional-programming
+
 - **2026-06-19** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional | src: functional-programming
 - **2026-06-19** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: Coming | src: functional-programming
 - **2026-06-19** | [What is a monad? And who needs Haskell anyway? - The Rust Programming Language Forum](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: And | src: functional-programming
