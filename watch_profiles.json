@@ -121,16 +121,9 @@
         "bdfa16848e7698d5b55177deef2e4604",
         "000e636c2d8f8b023001384d271bfa7a"
       ],
-      "last_run": "2026-06-19T23:33:33Z",
-      "new_sub_topics_this_run": [
-        "S.C.G.A",
-        "Chanh",
-        "AI-Native",
-        "Microservices",
-        "Limited",
-        "Enterprise"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-19T23:47:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -188,7 +181,7 @@
         "LLVM",
         "LLVM JIT",
         "LLVM/Clang",
-        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
+        "LLVMのJITについてLLMの説明が分からなくて困る",
         "Language",
         "Look",
         "Lowers",
@@ -266,18 +259,9 @@
         "6965a4c3581fb1ec2539b87936dda826",
         "a2d1a19eb95d0d7bc6f00b97f59f26cb"
       ],
-      "last_run": "2026-06-19T23:33:33Z",
-      "new_sub_topics_this_run": [
-        "Dive]",
-        "Aims",
-        "Revolution",
-        "SPEC",
-        "Group's",
-        "Java",
-        "LLVM-Based",
-        "ServeTheHome"
-      ],
-      "last_new_count": 9
+      "last_run": "2026-06-19T23:47:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -410,19 +394,9 @@
         "88dfcf74de33a1e88c9e9c90d0e55f9b",
         "deca5e7373216ca874ed5b7b942ce58a"
       ],
-      "last_run": "2026-06-19T23:33:33Z",
-      "new_sub_topics_this_run": [
-        "Implementation",
-        "Pairs",
-        "Class",
-        "Embedding-Projection",
-        "Graduality",
-        "Group",
-        "Dangers",
-        "Computing",
-        "Central"
-      ],
-      "last_new_count": 7
+      "last_run": "2026-06-19T23:47:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -555,39 +529,30 @@
         "94a26269fce6d4cab82e390dea71cd77",
         "cb3451b58dc0de64c4abaf6248054b44"
       ],
-      "last_run": "2026-06-19T23:33:33Z",
-      "new_sub_topics_this_run": [
-        "Class",
-        "Applicatives",
-        "Feature",
-        "Functors",
-        "Programming",
-        "Central",
-        "Mastering"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-19T23:47:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
       "wiki_page": "algorithms.md",
       "sub_topics": [
-        "CareerLift",
-        "Internshala",
-        "Blog",
-        "Discuss",
-        "Trainings",
         "10+ Advanced Data Structures Online Courses for 2026 - Class",
         "13 Best Data Structures & Algorithms Courses for 2026 - Clas",
         "2026",
+        "Advanced",
         "Advanced Algorithms and Data Structures",
         "Advanced Data Structures & Algorithms in C++ - Foothill Coll",
         "Advanced Data Structures and Algorithms - IIT Hyderabad CS60",
         "Algorithms",
         "Answers",
         "Asked",
+        "Beginner",
         "Best",
         "Best Competitive Programming Platforms",
         "Best DSA Sheet 2026 | To Crack Interviews",
+        "Blog",
+        "CareerLift",
         "Codeforces",
         "Coding",
         "Common",
@@ -599,12 +564,15 @@
         "Courses",
         "DSA",
         "Data",
+        "Discuss",
         "Edition",
         "Explore",
+        "Full",
         "GitHub",
         "Grinding",
         "Guide",
         "Handbook",
+        "Internshala",
         "Interview",
         "Interviews",
         "Java",
@@ -614,6 +582,7 @@
         "Main Page",
         "NQT",
         "NeetCode",
+        "Path",
         "Placements",
         "Plan",
         "Platform",
@@ -650,6 +619,7 @@
         "Top",
         "Top 100 Data Structure and Algorithms DSA Interview Questions",
         "Topics",
+        "Trainings",
         "Tutor",
         "Ultimate",
         "Versus",
@@ -673,8 +643,6 @@
         "questions"
       ],
       "last_result_hashes": [
-        "80f05230168f8150741246bd2cb5ebae",
-        "f3e3247de4ebf6210f3b488fa8a79fce",
         "67b5ba73de5917df88406720e6c58ed2",
         "123a9eca2d7e19a2944c93fe2596f1cb",
         "27d47f935a44b9765ac562cb7e9795ce",
@@ -692,17 +660,18 @@
         "60233ba12f224764b5938c3634b02e6a",
         "10d7129c85efbc86e21b710b48cc3f38",
         "09fb34f020c56145d7269228189a72c2",
-        "3739df902d0a15eaecfaff44ff2d20c8"
+        "3739df902d0a15eaecfaff44ff2d20c8",
+        "09309cefe4fe06d9d3095e78ee138852",
+        "635536bfad6f9b4d8a7fedb12dd9bd60"
       ],
-      "last_run": "2026-06-19T23:33:33Z",
+      "last_run": "2026-06-19T23:47:34Z",
       "new_sub_topics_this_run": [
-        "CareerLift",
-        "Internshala",
-        "Blog",
-        "Discuss",
-        "Trainings"
+        "Advanced",
+        "Beginner",
+        "Full",
+        "Path"
       ],
-      "last_new_count": 7
+      "last_new_count": 2
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -827,17 +796,10 @@
         "7b0c583d3445b91efa0c0453e5a737c4",
         "aff79aed6e34d3f002b7fa14f5978b75"
       ],
-      "last_run": "2026-06-19T23:33:33Z",
-      "new_sub_topics_this_run": [
-        "Medium",
-        "Multi-Core",
-        "Hashnode",
-        "Broken",
-        "Exists",
-        "Actually"
-      ],
-      "last_new_count": 8
+      "last_run": "2026-06-19T23:47:34Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     }
   },
-  "last_run": "2026-06-19T23:33:33Z"
+  "last_run": "2026-06-19T23:47:34Z"
 }

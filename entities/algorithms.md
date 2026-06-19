@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [DSA Roadmap 2026 — Complete Data Structures & Algorithms Learning Path](https://www.datastructures.in/roadmap) | kw: DSA Roadmap 2026 — Complete Data Structures & Algo | src: algorithms
+- **2026-06-19** | [DSA Full Roadmap 2026 – Complete Beginner to Advanced Guide](https://mcawaala.blogspot.com/2026/02/dsa-full-roadmap-2026.html) | kw: DSA Full Roadmap 2026 – Complete Beginner to Advan | src: algorithms
+
 - **2026-06-19** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: data structure
 - **2026-06-19** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan | CareerLift Blog](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: interview
 - **2026-06-19** | [100+ Data Structures and Algorithms Interview Questions (2026)](https://www.interviewgrid.com/interview_questions/data_structures_and_algorithms) | kw: algorithms
