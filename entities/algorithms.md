@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [50+ Data Structures and Algorithms Interview Questions for 2026](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers) | kw: algorithms | src: algorithms
+- **2026-06-19** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: algorithms | src: algorithms
+- **2026-06-19** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: algorithms | src: algorithms
+- **2026-06-19** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: algorithms | src: algorithms
+- **2026-06-19** | [GitHub - Ananya-Singh2406/Data-Structures-and-Algorithms---150-top-interview-questions: The ultimate, curated collection of the Top 150 Data Structures and Algorithms (DSA) interview questions, meticulously sourced from LeetCode's most frequent and essential problem patterns. · GitHub](https://github.com/Ananya-Singh2406/Data-Structures-and-Algorithms---150-top-interview-questions) | kw: algorithms | src: algorithms
+- **2026-06-19** | [Algorithms problemset](https://leetcode.com/problemset/algorithms) | kw: algorithms | src: algorithms
+
 
 - **2026-06-19** | [Graph Algorithms Complete Guide: BFS, DFS, Dijkstra (2025)](https://generalistprogrammer.com/tutorials/graph-algorithms-complete-guide) | kw: Graph,Algorithms,Complete,Guide,BFS | src: algorithms
 - **2026-06-19** | [DSA Roadmap 2026: Complete Guide with C++ Java Python JS](https://coderstar.in/dsa-learning-path/dsa-roadmap/) | kw: DSA,Roadmap,2026,Complete,Guide | src: algorithms

@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: type,systems | src: type-systems
+- **2026-06-19** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: type,systems | src: type-systems
+- **2026-06-19** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: type,systems | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type,systems | src: type-systems
+- **2026-06-19** | [Gradual Typing - Language Design and Implementation | ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: type,systems | src: type-systems
+- **2026-06-19** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: type,systems | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: type,systems | src: type-systems
+- **2026-06-19** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: type,systems | src: type-systems
+- **2026-06-19** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN ...](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: type,systems | src: type-systems
+
 
 - **2026-06-19** | [Type Inference - Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/algorithm-w/implementation.html) | kw: Type,Inference,Typechecker,Zoo | src: type-systems
 - **2026-06-19** | [Type Inference - veera.app](https://veera.app/type_inference.html) | kw: Type,Inference,veera.app | src: type-systems

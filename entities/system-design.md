@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: system,design | src: system-design
+- **2026-06-19** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: system,design | src: system-design
+- **2026-06-19** | [Patterns of Distributed Systems martinfowler.com https://martinfowler.com › books › patterns-distributed](https://martinfowler.com/books/patterns-distributed.html) | kw: system,design | src: system-design
+- **2026-06-19** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: system,design | src: system-design
+- **2026-06-19** | [Architectural Patterns for Distributed Systems: Definition & ... Study.com https://study.com · 7 July 2025](https://study.com/academy/lesson/video/architectural-patterns-for-distributed-systems-definition-importance.html) | kw: system,design | src: system-design
+- **2026-06-19** | [Distributed Systems Principles and Paradigms](https://www.dcc.fc.up.pt/~ines/aulas/1314/SDM/ch2.pdf) | kw: system,design | src: system-design
+- **2026-06-19** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system,design | src: system-design
+- **2026-06-19** | [Patterns of Distributed Systems Computer Bookshop India https://www.cb-india.com › ... › Distributed Computing](https://www.cb-india.com/books/computer-science/distributed-computing/patterns-of-distributed-systems) | kw: system,design | src: system-design
+- **2026-06-19** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system,design | src: system-design
+
 
 - **2026-06-19** | [System Design Interview Cheat Sheet for FAANG (2026)](https://www.interviewlift.com/blogs/system-design-interview-cheat-sheet-faang) | kw: System,Design,Interview,Cheat,Sheet | src: system-design
 - **2026-06-19** | [The Future of Backend Development: Key Skills to Hire for in 2025](https://medium.com/@tconnectx/the-future-of-backend-development-key-skills-to-hire-for-in-2025-0faba822564d) | kw: The,Future,Backend,Development,Key | src: system-design

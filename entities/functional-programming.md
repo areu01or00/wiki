@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional,programming | src: functional-programming
+- **2026-06-19** | [What is a Monad (in Rust)? - mspandit.github.io](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: functional,programming | src: functional-programming
+- **2026-06-19** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef | Technology, Development & Creative Tech Insights](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional,programming | src: functional-programming
+- **2026-06-19** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: functional,programming | src: functional-programming
+- **2026-06-19** | [Rust: Functional Programming & Monads | by Technocrat ...](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: functional,programming | src: functional-programming
+- **2026-06-19** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional,programming | src: functional-programming
+- **2026-06-19** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: functional,programming | src: functional-programming
+- **2026-06-19** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional,programming | src: functional-programming
+
 
 - **2026-06-19** | [The Haskell Foundation](https://haskell.foundation/) | kw: The,Haskell,Foundation | src: functional-programming
 - **2026-06-19** | [Modern Haskell 2026 — GHC 9.10 / 9.12 / GHCup / Cabal 3.14 ...](https://www.youngju.dev/blog/culture/2026-05-16-modern-haskell-2026-ghc-9-10-9-12-ghcup-cabal-stack-ihp-servant-effectful-pandoc-deep-dive.en) | kw: Modern,Haskell,GHC,GHCup,Cabal | src: functional-programming

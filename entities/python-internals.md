@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [What is the Global Interpreter Lock (GIL) in Python? Is It ...](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: python,internals | src: python-internals
+- **2026-06-19** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python,internals | src: python-internals
+- **2026-06-19** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: python,internals | src: python-internals
+- **2026-06-19** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: python,internals | src: python-internals
+- **2026-06-19** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: python,internals | src: python-internals
+- **2026-06-19** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: python,internals | src: python-internals
+- **2026-06-19** | [Python's GIL Is Gone — What That Actually Means for Your Code | by Meryem Sakin | Python in Plain English](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python,internals | src: python-internals
+
 
 - **2026-06-19** | [python-freethreading - Anaconda.org](https://anaconda.org/main/python-freethreading) | kw: python-freethreading,Anaconda.org | src: python-internals
 - **2026-06-19** | [What's New In Python 3.13 - Free-threaded CPython](https://docs.python.org/3/whatsnew/3.13.html) | kw: What's,New,Python,3.13,Free-threaded | src: python-internals
