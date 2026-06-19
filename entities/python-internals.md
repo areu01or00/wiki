@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [The GIL Is Still Here — Why That Matters in 2026 - Medium](https://medium.com/%40backendbyeli/the-gil-is-still-here-why-that-matters-in-2026-88ac86812ec4) | kw: GIL, Still, Here | src: python-internals
+
 - **2026-06-19** | [Memory Management and tracemalloc Improvements 2026](https://pyinns.com/python/advanced-python-features/memory-management-and-tracemalloc-improvements-2026) | kw: memory | src: python-internals
 - **2026-06-19** | [Python 3.15: 3 More Features Python Developers Need to Know (2026) - DEV Community](https://dev.to/for_itthe_9cb5ee8d4b91f2/python-315-3-more-features-python-developers-need-to-know-2026-4hni) | kw: python | src: python-internals
 

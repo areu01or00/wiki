@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Comparison of Monad vs Other L1s: Sui, Solana, Ethereum](https://nftevening.com/monad-sui-solana-ethereum-comparision) | kw: Comparison, Monad, Other | src: functional-programming
+
 - **2026-06-19** | [Exploring Advanced Functional Programming Techniques in Haskell](https://omid.dev/2024/06/18/haskell-monads-functors-and-applicatives) | kw: exploring advanced functional programmin | src: functional-programming
 
 - **2026-06-19** | [Monad's Road to Mainnet | Everstake](https://everstake.one/resources/blog/monads-road-to-mainnet) | kw: monad | src: functional-programming

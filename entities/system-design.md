@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [Distributed & Hybrid Infrastructure: How Cloud Architecture Is Evolving in 2026](https://resolvetech.com/distributed-hybrid-infrastructure-how-cloud-architecture-is-evolving-in-2026/) | kw: Distributed, Hybrid, Infrastructure | src: system-design
+
 - **2026-06-19** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now/) | kw: latest | src: system-design
 
 - **2026-06-19** | [Distributed Systems Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/mastering-design-patterns/distributed-systems-patterns) | kw: Distributed | src: system-design
