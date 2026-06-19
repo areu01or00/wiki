@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: Lua | src: type-systems
+
 - **2026-06-19** | [Top Strategic Technology Trends for 2026 | Gartner](https://www.gartner.com/en/articles/top-technology-trends-2026) | kw: Top, Strategic, Technology | src: type-systems
 
 - **2026-06-19** | [Yudai Tanabe](https://yudaitnb.github.io/) | kw: Yudai Tanabe | src: type-systems

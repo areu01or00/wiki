@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Welcome to a World of OCaml](https://ocaml.org/) | kw: Welcome | src: functional-programming
+
 - **2026-06-19** | [Navigating the Wild World of Monads A Guide for Haskell Developers | MoldStud](https://moldstud.com/articles/p-navigating-the-wild-world-of-monads-a-guide-for-haskell-developers) | kw: Navigating | src: functional-programming
 
 - **2026-06-19** | [Функциональные языки программирования: что это такое простыми словами, где применяется и что значит – SkillFactory](https://blog.skillfactory.ru/glossary/funkczionalnye-yazyki-programmirovaniya) | kw: SkillFactory | src: functional-programming

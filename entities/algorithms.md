@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Main Page - Algorithms for Competitive Programming](https://cp-algorithms.com/) | kw: Main | src: algorithms
+- **2026-06-19** | [Main Page - Algorithms for Competitive Programming (index)](https://cp-algorithms.com/index.html) | kw: Main | src: algorithms
+- **2026-06-19** | [Codeforces](https://codeforces.com/) | kw: Codeforces | src: algorithms
+- **2026-06-19** | [10 Best Competitive Programming Platforms for 2026](https://techgeeksapparel.com/best-competitive-programming-platforms/) | kw: 10 | src: algorithms
+- **2026-06-19** | [Useful algorithms for competitive programming (and websites if you have any)](https://www.reddit.com/r/algorithms/comments/blu75e/useful_algorithms_for_competitive_programming_and) | kw: Useful | src: algorithms
+- **2026-06-19** | [The Future Of Competitive Coding: Trends And Predictions](https://www.codebrawl.com/the-future-of-competitive-coding-trends-and-predictions/) | kw: The | src: algorithms
+
 - **2026-06-19** | [GitHub - Himanshu-Singh7/dsa_interview_prep_2026: A comprehensive open-source roadmap and collection of solutions for DSA aimed at 2026 technical interviews.](https://github.com/Himanshu-Singh7/dsa_interview_prep_2026) | kw: GitHub, Himanshu-Singh7, dsa | src: algorithms
 
 - **2026-06-19** | [The Ultimate Guide to Top 150 LeetCode Problems: Your Path to Acing Technical Interviews - DEV Community](https://dev.to/soham0047/the-ultimate-guide-to-top-150-leetcode-problems-your-path-to-acing-technical-interviews-30h1) | kw: Ultimate, Guide, Top | src: algorithms

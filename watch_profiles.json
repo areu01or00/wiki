@@ -79,9 +79,9 @@
         "4493db04174fb52c7b4a8bed0a3bc5ca",
         "c2467d152209f3480ddfeff15e8fd0d7"
       ],
-      "last_run": "2026-06-19T19:01:42Z",
+      "last_run": "2026-06-19T19:17:01Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -160,13 +160,9 @@
         "c988d203ffb86a252a80be5c9dbd7a13",
         "c1506332a36457ff6e4c9c010c300b3b"
       ],
-      "last_run": "2026-06-19T18:47:16Z",
-      "new_sub_topics_this_run": [
-        "AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]",
-        "ML Compiler Optimization Revolution [Deep Dive] [2026]",
-        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ..."
-      ],
-      "last_new_count": 3
+      "last_run": "2026-06-19T19:17:01Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -221,9 +217,12 @@
         "PookieTech Blog",
         "Efficient Selection",
         "Type Annotations",
-        "Yudai Tanabe"
+        "Yudai Tanabe",
+        "Why Lua",
+        "Luau Are Three Different Languages Now"
       ],
       "last_result_hashes": [
+        "1f3e7d1bf4955c674237c70349a25b1d",
         "05e87cbef36cd8edbadc65c13cd2b4af",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6",
         "1d6819e623bfb66da8f799ac0cb72c27",
@@ -242,12 +241,12 @@
         "b21f5e552425f22695fd0b9f08496793",
         "8152c0fa97986388894bbc6fe44824e4",
         "6c257d065a3041b16049b05a47e582ff",
-        "e7f4bdb1251a016f16cef48877b17a01",
-        "c2090654c40b5f8e5dc32b6d20e9dd28"
+        "e7f4bdb1251a016f16cef48877b17a01"
       ],
-      "last_run": "2026-06-19T18:47:16Z",
+      "last_run": "2026-06-19T19:17:01Z",
       "new_sub_topics_this_run": [
-        "Top Strategic Technology Trends for 2026 | Gartner"
+        "Why Lua",
+        "Luau Are Three Different Languages Now"
       ],
       "last_new_count": 1
     },
@@ -306,9 +305,12 @@
         "Functional Programming Languages",
         "Tarides | What is Functional Programming? A Look at the OCam",
         "Gleam",
-        "MoldStud"
+        "MoldStud",
+        "Welcome",
+        "World"
       ],
       "last_result_hashes": [
+        "dbd3010420412a91e41a5c1bd0f7d7a0",
         "c012a57fa63492860f64045db3528e7a",
         "b82ed313e52a51037b2e80996b9a6a4d",
         "8b392f40f2d9484600edbc6565709ca7",
@@ -327,16 +329,12 @@
         "379e742f5dedcad0bfe805f9c1f5b0ba",
         "b88d391b4c5b7ad70b625cbb741d1b77",
         "f59c099ddedfcc40a005a203f3c5b679",
-        "3635079258c31a05f32c708a4e5d46fc",
-        "426163c0d0ab3595098a952cf673f489"
+        "3635079258c31a05f32c708a4e5d46fc"
       ],
-      "last_run": "2026-06-19T19:01:42Z",
+      "last_run": "2026-06-19T19:17:01Z",
       "new_sub_topics_this_run": [
-        "Functional Programming Languages",
-        "Tarides | What is Functional Programming? A Look at the OCam",
-        "\u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u044f\u0437\u044b\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f: \u0447\u0442\u043e \u044d\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u043f\u0440\u043e\u0441\u0442\u044b\u043c\u0438 \u0441\u043b\u043e\u0432\u0430\u043c\u0438, \u0433\u0434\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0438 \u0447\u0442\u043e \u0437\u043d\u0430\u0447\u0438\u0442 \u2013 SkillFactory",
-        "\u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 Rust. \u0413\u043b\u0430\u0432\u0430 0: \u0417\u0430\u0447\u0435\u043c \u043d\u0443\u0436\u043d\u043e \u0424\u041f? / \u0425\u0430\u0431\u0440",
-        "Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell Community"
+        "Welcome",
+        "World"
       ],
       "last_new_count": 1
     },
@@ -393,9 +391,20 @@
         "Advanced Algorithms and Data Structures",
         "13 Best Data Structures & Algorithms Courses for 2026 - Clas",
         "Programming Foundations And Data Structures Microcertificate",
-        "Advanced Data Structures & Algorithms in C++ - Foothill Coll"
+        "Advanced Data Structures & Algorithms in C++ - Foothill Coll",
+        "Main Page",
+        "Algorithms",
+        "Competitive Programming",
+        "Codeforces",
+        "Best Competitive Programming Platforms"
       ],
       "last_result_hashes": [
+        "d11d32e86d38f20c055a381fc2fe21eb",
+        "92fe0baf445ee0220579f3928702982a",
+        "4024687e769040f0b2cab72cab5718e1",
+        "2c64364e6bf4f3c28305cefee019ae6d",
+        "b21d36a50d052d121679e7c8a9d78df1",
+        "4ef694246fe9f20f232bdf9d6398fc4b",
         "143876bc0621660474126a01477b0355",
         "cd3c9d7f265955321a10d61f9cd44592",
         "9d4e0e3a4cd83e0b5c6d3d78f17d2555",
@@ -409,28 +418,17 @@
         "6d02ffc8ba63b59b235c447becc772b4",
         "e8778c7e252b71b6a4ba37a2e3fadc19",
         "ce9f95616ae2956522124b42b800ff4c",
-        "97386f06ec14b1d86a2b8e30ed6bd815",
-        "c1a799dae7e92a3aae11c943a67e4ab2",
-        "795e98289767cd776704aa849af08ecc",
-        "72b1bebf684cd10a41e6df3293065f1e",
-        "b2a5f4f303fa1dea224d7000b7f88521",
-        "419ddc9c61219c419523d8e37695e627",
-        "8243991b4459693d23a1eecee5ca972d"
+        "97386f06ec14b1d86a2b8e30ed6bd815"
       ],
-      "last_run": "2026-06-19T18:47:16Z",
+      "last_run": "2026-06-19T19:17:01Z",
       "new_sub_topics_this_run": [
-        "10+ Advanced Data Structures Online Courses for 2026 - Class",
-        "Advanced Data Structures and Algorithms - IIT Hyderabad CS60",
-        "Advanced Algorithms and Data Structures",
-        "13 Best Data Structures & Algorithms Courses for 2026 - Clas",
-        "Programming Foundations And Data Structures Microcertificate",
-        "Advanced Data Structures & Algorithms in C++ - Foothill Coll",
-        "GitHub - Himanshu-Singh7/dsa_interview_prep_2026: A comprehensive open-source roadmap and collection of solutions for DSA aimed at 2026 technical interviews.",
-        "The Ultimate Guide to Top 150 LeetCode Problems: Your Path to Acing Technical Interviews - DEV Community",
-        "Company-Wise LeetCode Questions (2026): DSA Practice by Company | DSA Prep",
-        "Data Structures and Algorithms C++ : Zero to Mastery in 2026"
+        "Main Page",
+        "Algorithms",
+        "Competitive Programming",
+        "Codeforces",
+        "Best Competitive Programming Platforms"
       ],
-      "last_new_count": 4
+      "last_new_count": 6
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -509,16 +507,9 @@
         "825bd3218922b21b19f3dbadbcaf699e",
         "532ca6937e439113132db614831a5fe8"
       ],
-      "last_run": "2026-06-19T18:47:16Z",
-      "new_sub_topics_this_run": [
-        "The Adaptive Interpreter",
-        "PEP 659 - Specializing Adaptive Interpreter",
-        "JIT and tier 2 - CPython wiki - Factory",
-        "Python 3.14.6 Release - Python.org",
-        "Interpreter initialization and finalization - Python 3.14.6 ",
-        "Adding a JIT compiler to CPython - LWN.net"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-19T19:17:01Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     }
   }
 }
