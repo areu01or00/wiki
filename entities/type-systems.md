@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual | src: type-systems
+- **2026-06-19** | [Type-Based Gradual Typing Performance Optimization | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3632931) | kw: Type | src: type-systems
+- **2026-06-19** | [Putting Gradual Types to Work](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient | src: type-systems
+- **2026-06-19** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: 2603.05649 | src: type-systems
+- **2026-06-19** | [2026 Emerging Technology Trends - JPMorgan Chase & Co.](https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/technology/tech-trends-2026-report.pdf) | kw: 2026 | src: type-systems
+
 - **2026-06-19** | [Staged Gradual Typing](https://www.cs.tsukuba.ac.jp/~kam/papers/gpce2025.pdf) | kw: gradual-typing | src: type-systems
 
 - **2026-06-19** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026] | Oflight Inc.](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau | src: type-systems

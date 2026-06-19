@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [What is a Monad (in Rust)?](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: Monad | src: functional-programming
+- **2026-06-19** | [Monad in higher - Rust - Docs.rs](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: Monad | src: functional-programming
+- **2026-06-19** | [Haskell Monads - Monday Morning Haskell](https://mmhaskell.com/monads) | kw: Haskell | src: functional-programming
+- **2026-06-19** | [Monadic Design Patterns in Haskell: Mastering Functional Programming](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: Monadic | src: functional-programming
+- **2026-06-19** | [Monads, Functors, and Applicatives in Haskell: Mastering Functional Programming](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: Monads | src: functional-programming
+- **2026-06-19** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads | src: functional-programming
+
 - **2026-06-19** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust.](https://github.com/wrsturgeon/rsmonad) | kw: GitHub | src: functional-programming
 - **2026-06-19** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does | src: functional-programming
 

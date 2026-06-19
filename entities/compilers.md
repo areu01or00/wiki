@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just | src: compilers
+- **2026-06-19** | [Lesson 12: Future of Compilers and Conclusion](https://btu.edu.ge/wp-content/uploads/2023/08/Lesson-12_-Future-of-Compilers-and-Conclusion.pdf) | kw: Lesson | src: compilers
+- **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: Case | src: compilers
+- **2026-06-19** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: Deep | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler | src: compilers
+- **2026-06-19** | [[Compiler] 20. Modern Compiler Development and Applications](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: Compiler | src: compilers
+
 - **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The | src: compilers
 - **2026-06-19** | [EuroLLVM 2026 - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.org/devmtg/2026-04/slides/quick_talk/quick_talk_hames.pdf) | kw: EuroLLVM | src: compilers
 - **2026-06-19** | [Unlocking Performance: The Overlooked Power of Low-Cost ...](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking | src: compilers

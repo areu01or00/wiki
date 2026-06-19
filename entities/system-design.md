@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: System | src: system-design
+- **2026-06-19** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices | src: system-design
+- **2026-06-19** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: Complete | src: system-design
+- **2026-06-19** | [Mastering Distributed Systems - Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering | src: system-design
+- **2026-06-19** | [Distributed Systems Patterns 2026](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed | src: system-design
+- **2026-06-19** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three | src: system-design
+- **2026-06-19** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: Coming | src: system-design
+
 - **2026-06-19** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 \| Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: Essential | src: system-design
 - **2026-06-19** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three | src: system-design
 - **2026-06-19** | [Modern Software Architecture Patterns That Scale In 2026](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production) | kw: Modern | src: system-design
