@@ -227,7 +227,7 @@
         "eb4eda835adb1f4aeada1f30eb4c4d04",
         "d7e4053d8359b5818b4128259533ab69"
       ],
-      "last_run": "2026-06-19T16:18:20+00:00",
+      "last_run": "2026-06-19T16:34:29.556599+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 3
     },
@@ -458,7 +458,7 @@
         "ae427aaa277c67469832326760f5569f",
         "dde9e8d6fb49d441eb6cc93b5b9f79cb"
       ],
-      "last_run": "2026-06-19T16:18:20+00:00",
+      "last_run": "2026-06-19T16:34:29.556599+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 3
     },
@@ -668,6 +668,7 @@
         "Type Annotations"
       ],
       "last_result_hashes": [
+        "cf7609bce388c5f4de13c2f2bad5c887",
         "481bf13dad9a849f34a663880bb0470f",
         "a933f47a5feedf4f43c8b83a958ffe76",
         "974863bcbc7dd3b9430468de6355e7a6",
@@ -686,12 +687,11 @@
         "d30c38f9a017c16a7ab26bb8e77f9cb7",
         "d7bc3b8c72a510b54dd47afff45c57c6",
         "f2495424757e7dd538dd771f623f1a0f",
-        "92a50716d512d793eb55712187c18082",
-        "678284b46c69cda968ef8e3315be6ff2"
+        "92a50716d512d793eb55712187c18082"
       ],
-      "last_run": "2026-06-19T16:18:20+00:00",
+      "last_run": "2026-06-19T16:34:29.556599+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 3
+      "last_new_count": 1
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -920,7 +920,7 @@
         "5bc6830c8bef83915bee2b08c695251f",
         "bbba3bb477d0af9015216fe73914f7aa"
       ],
-      "last_run": "2026-06-19T16:18:20+00:00",
+      "last_run": "2026-06-19T16:34:29.556599+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 4
     },
@@ -1001,7 +1001,7 @@
         "Introduction",
         "JIT",
         "Java",
-        "Java面试学习",
+        "Java\u9762\u8bd5\u5b66\u4e60",
         "JimengShi/Leetcode-Data-Structures-Algorithms",
         "KING",
         "Katravalli",
@@ -1153,7 +1153,7 @@
         "3739df902d0a15eaecfaff44ff2d20c8",
         "9b1c781b75b9542b2127a9f5c4d86186"
       ],
-      "last_run": "2026-06-19T16:18:20+00:00",
+      "last_run": "2026-06-19T16:34:29.556599+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 4
     },
@@ -1231,9 +1231,9 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals·",
+        "Internals\u00b7",
         "Interpreter",
-        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
+        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
         "Interview",
         "InterviewPilot",
         "Interviews",
@@ -1384,7 +1384,7 @@
         "beaef31893811bf93a7c49c5427531ec",
         "d2adce09b07afa8868adc1a5598d6db8"
       ],
-      "last_run": "2026-06-19T16:18:20+00:00",
+      "last_run": "2026-06-19T16:34:29.556599+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 3
     }

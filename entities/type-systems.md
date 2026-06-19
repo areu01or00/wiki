@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Staged Gradual Typing](https://www.cs.tsukuba.ac.jp/~kam/papers/gpce2025.pdf) | kw: gradual-typing | src: type-systems
+
 - **2026-06-19** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026] | Oflight Inc.](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau | src: type-systems
 - **2026-06-19** | [2026 is Breakthrough Year for Reliable AI World Models and Continual Learning Prototypes | NextBigFuture.com](https://www.nextbigfuture.com/2026/04/2026-is-breakthrough-year-for-reliable-ai-world-models-and-continual-learning-prototypes.html) | kw: 2026 | src: type-systems
 
