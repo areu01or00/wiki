@@ -227,9 +227,9 @@
         "2ebbe3411f331c326ab1fd19aa4e50c7",
         "4493db04174fb52c7b4a8bed0a3bc5ca"
       ],
-      "last_run": "2026-06-19T17:46:58Z",
+      "last_run": "2026-06-19T18:17:17Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 7
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -458,9 +458,9 @@
         "d0de062ed058a4b7bb87b9c013129190",
         "3ecd511f79293d2a976892751d22d6d6"
       ],
-      "last_run": "2026-06-19T17:46:58Z",
+      "last_run": "2026-06-19T18:17:17Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -690,11 +690,9 @@
         "6c257d065a3041b16049b05a47e582ff",
         "e7f4bdb1251a016f16cef48877b17a01"
       ],
-      "last_run": "2026-06-19T18:03:16Z",
-      "new_sub_topics_this_run": [
-        "Yudai Tanabe"
-      ],
-      "last_new_count": 1
+      "last_run": "2026-06-19T18:17:17Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -923,9 +921,9 @@
         "89d87031e449ae356f26865a02b9a13d",
         "0d5e42e964af9b4ef6ba72b42f761e14"
       ],
-      "last_run": "2026-06-19T17:46:58Z",
+      "last_run": "2026-06-19T18:17:17Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1004,7 +1002,7 @@
         "Introduction",
         "JIT",
         "Java",
-        "Java面试学习",
+        "Java\u9762\u8bd5\u5b66\u4e60",
         "JimengShi/Leetcode-Data-Structures-Algorithms",
         "KING",
         "Katravalli",
@@ -1135,7 +1133,6 @@
         "questions"
       ],
       "last_result_hashes": [
-        "75ba0ef3d737f8a255ebfa8d4fd12ca3",
         "7e571cc4915b8f19020f0aebd3f76356",
         "770a90f8cfde2129daad10f7d9ad8d6d",
         "1520006a744a57a63bf6c03d55114a2e",
@@ -1154,11 +1151,12 @@
         "8900f36a48596850ee5ba84a247a6c1d",
         "007f6850e48a967b7acfd833f4be0a66",
         "91b947cdb84929a43202be06d8ca3ad9",
-        "fa2e527cdd11acb8168cdbeff3eba418"
+        "fa2e527cdd11acb8168cdbeff3eba418",
+        "604f32c0e5d61c91ae198d08f3431a41"
       ],
-      "last_run": "2026-06-19T17:46:58Z",
+      "last_run": "2026-06-19T18:17:17Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 8
+      "last_new_count": 1
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1234,9 +1232,9 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals·",
+        "Internals\u00b7",
         "Interpreter",
-        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
+        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
         "Interview",
         "InterviewPilot",
         "Interviews",
@@ -1387,9 +1385,9 @@
         "beaef31893811bf93a7c49c5427531ec",
         "23f806669425cddfbb81ceb3202ed519"
       ],
-      "last_run": "2026-06-19T17:46:58Z",
+      "last_run": "2026-06-19T18:17:17Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 7
+      "last_new_count": 0
     }
   }
 }
