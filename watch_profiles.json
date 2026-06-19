@@ -227,11 +227,11 @@
         "2eed777e217c8f707d96cab621255e90",
         "5026190f11f085c2001a3f71d3b3b209"
       ],
-      "last_run": "2026-06-19T06-02-59Z",
+      "last_run": "2026-06-19T06-18-12Z",
       "new_sub_topics_this_run": [
         "Latest Trends Distributed Systems"
       ],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -460,12 +460,12 @@
         "191137fb0d9c6770341ad41eba235f6e",
         "5a55ed6e0f882d72b4448e6c8c51267a"
       ],
-      "last_run": "2026-06-19T06-02-59Z",
+      "last_run": "2026-06-19T06-18-12Z",
       "new_sub_topics_this_run": [
         "AI-Compiler Prompt Engineering",
         "Speakers"
       ],
-      "last_new_count": 2
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -694,11 +694,11 @@
         "0c4fea65325737c446710c96431c6923",
         "1053fa1e5d3c47835cc3a5ecc1a46c52"
       ],
-      "last_run": "2026-06-19T06-02-59Z",
+      "last_run": "2026-06-19T06-18-12Z",
       "new_sub_topics_this_run": [
         "Efficient Selection Type Annotations"
       ],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -906,7 +906,6 @@
         "with"
       ],
       "last_result_hashes": [
-        "9e468f427c81adba063b45d72c784552",
         "94a26269fce6d4cab82e390dea71cd77",
         "c35700ff9f0773d69682721949231b06",
         "88639568d7620593c2b895e44fe730fc",
@@ -925,15 +924,16 @@
         "983d47218fc60840ca003dff88dc9aaf",
         "ab1a401478bf91151df62818473f5ef5",
         "b48df3ecc7197e04cb4515339cfae453",
-        "f59c11882666ed69d8bb2b62a44f9b59"
+        "f59c11882666ed69d8bb2b62a44f9b59",
+        "9203c5d59667cef7c9476626d4562094"
       ],
-      "last_run": "2026-06-19T06-02-59Z",
+      "last_run": "2026-06-19T06-18-12Z",
       "new_sub_topics_this_run": [
         "Monad Road Mainnet",
         "Monad functional programming",
         "Latest Monad News"
       ],
-      "last_new_count": 4
+      "last_new_count": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1007,7 +1007,7 @@
         "Introduction",
         "JIT",
         "Java",
-        "Java面试学习",
+        "Java\u9762\u8bd5\u5b66\u4e60",
         "JimengShi/Leetcode-Data-Structures-Algorithms",
         "KING",
         "Katravalli",
@@ -1162,12 +1162,12 @@
         "70003797271dd8784c1ec6afe4d29be2",
         "d3b8d082c2434924e142a67b3f2b0b02"
       ],
-      "last_run": "2026-06-19T06-02-59Z",
+      "last_run": "2026-06-19T06-18-12Z",
       "new_sub_topics_this_run": [
         "DSA Learning Roadmap",
         "Asked LeetCode Interview Questions"
       ],
-      "last_new_count": 2
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1242,9 +1242,9 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals·",
+        "Internals\u00b7",
         "Interpreter",
-        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
+        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
         "Interview",
         "InterviewPilot",
         "Interviews",
@@ -1396,11 +1396,11 @@
         "70a8b777d17a5cf7ab18fd8b5f4ac95d",
         "e9005d27b4d2cd075f87f38fef830dd0"
       ],
-      "last_run": "2026-06-19T06-02-59Z",
+      "last_run": "2026-06-19T06-18-12Z",
       "new_sub_topics_this_run": [
         "Memory Management tracemalloc Improvements"
       ],
-      "last_new_count": 2
+      "last_new_count": 0
     }
   }
 }

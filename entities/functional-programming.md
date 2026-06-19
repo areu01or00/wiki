@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Exploring Advanced Functional Programming Techniques in Haskell](https://omid.dev/2024/06/18/haskell-monads-functors-and-applicatives) | kw: exploring advanced functional programmin | src: functional-programming
+
 - **2026-06-19** | [Monad's Road to Mainnet | Everstake](https://everstake.one/resources/blog/monads-road-to-mainnet) | kw: monad | src: functional-programming
 - **2026-06-19** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monad | src: functional-programming
 - **2026-06-19** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell | src: functional-programming
