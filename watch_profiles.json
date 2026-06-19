@@ -77,7 +77,7 @@
         "2ebbe3411f331c326ab1fd19aa4e50c7",
         "4493db04174fb52c7b4a8bed0a3bc5ca"
       ],
-      "last_run": "2026-06-19T18:33:01Z",
+      "last_run": "2026-06-19T18:47:16Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -137,9 +137,6 @@
         "Overlooked Power"
       ],
       "last_result_hashes": [
-        "a888bd8966b306914c973b55ba7dd171",
-        "39c17cdd042b5f648a3c1da568d86a87",
-        "dc5ada16f234dc184f112304b0917552",
         "d6b1d0b195a3733a394b342cca13ee0d",
         "7013f0083d445281a0575c5e36238e9b",
         "9549ee3df2b4c698c35929d6eea7600f",
@@ -156,11 +153,18 @@
         "17ed08fe6778ce4ef2c1a88ba23596e9",
         "d62fb6c647f11f96144c1ea575cff845",
         "d0de062ed058a4b7bb87b9c013129190",
-        "3ecd511f79293d2a976892751d22d6d6"
+        "3ecd511f79293d2a976892751d22d6d6",
+        "191137fb0d9c6770341ad41eba235f6e",
+        "c988d203ffb86a252a80be5c9dbd7a13",
+        "c1506332a36457ff6e4c9c010c300b3b"
       ],
-      "last_run": "2026-06-19T18:33:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T18:47:16Z",
+      "new_sub_topics_this_run": [
+        "AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]",
+        "ML Compiler Optimization Revolution [Deep Dive] [2026]",
+        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ..."
+      ],
+      "last_new_count": 3
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -218,7 +222,6 @@
         "Yudai Tanabe"
       ],
       "last_result_hashes": [
-        "8cefa1880d3e2bb56bcdb51f5f6f7d4b",
         "05e87cbef36cd8edbadc65c13cd2b4af",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6",
         "1d6819e623bfb66da8f799ac0cb72c27",
@@ -237,11 +240,14 @@
         "b21f5e552425f22695fd0b9f08496793",
         "8152c0fa97986388894bbc6fe44824e4",
         "6c257d065a3041b16049b05a47e582ff",
-        "e7f4bdb1251a016f16cef48877b17a01"
+        "e7f4bdb1251a016f16cef48877b17a01",
+        "c2090654c40b5f8e5dc32b6d20e9dd28"
       ],
-      "last_run": "2026-06-19T18:33:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T18:47:16Z",
+      "new_sub_topics_this_run": [
+        "Top Strategic Technology Trends for 2026 | Gartner"
+      ],
+      "last_new_count": 1
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -299,9 +305,6 @@
         "Tarides | What is Functional Programming? A Look at the OCam"
       ],
       "last_result_hashes": [
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "1e23347071bace94cd96516373fa7b4d",
-        "ce28a60a12ee60735a41f5226ee34f7c",
         "e271ae43ead77b8d332bb549450e601d",
         "c012a57fa63492860f64045db3528e7a",
         "b82ed313e52a51037b2e80996b9a6a4d",
@@ -318,14 +321,20 @@
         "89d87031e449ae356f26865a02b9a13d",
         "0d5e42e964af9b4ef6ba72b42f761e14",
         "36d055d3e5f70c97985d84fd4dcc4105",
-        "379e742f5dedcad0bfe805f9c1f5b0ba"
+        "379e742f5dedcad0bfe805f9c1f5b0ba",
+        "b88d391b4c5b7ad70b625cbb741d1b77",
+        "f59c099ddedfcc40a005a203f3c5b679",
+        "3635079258c31a05f32c708a4e5d46fc"
       ],
-      "last_run": "2026-06-19T18:33:01Z",
+      "last_run": "2026-06-19T18:47:16Z",
       "new_sub_topics_this_run": [
         "Functional Programming Languages",
-        "Tarides | What is Functional Programming? A Look at the OCam"
+        "Tarides | What is Functional Programming? A Look at the OCam",
+        "Функциональные языки программирования: что это такое простыми словами, где применяется и что значит – SkillFactory",
+        "Функциональный Rust. Глава 0: Зачем нужно ФП? / Хабр",
+        "Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell Community"
       ],
-      "last_new_count": 2
+      "last_new_count": 3
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -383,10 +392,6 @@
         "Advanced Data Structures & Algorithms in C++ - Foothill Coll"
       ],
       "last_result_hashes": [
-        "70003797271dd8784c1ec6afe4d29be2",
-        "d3b8d082c2434924e142a67b3f2b0b02",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
-        "b374c779c101dd010d1f2ed0450afdee",
         "143876bc0621660474126a01477b0355",
         "cd3c9d7f265955321a10d61f9cd44592",
         "9d4e0e3a4cd83e0b5c6d3d78f17d2555",
@@ -402,18 +407,26 @@
         "ce9f95616ae2956522124b42b800ff4c",
         "97386f06ec14b1d86a2b8e30ed6bd815",
         "c1a799dae7e92a3aae11c943a67e4ab2",
-        "795e98289767cd776704aa849af08ecc"
+        "795e98289767cd776704aa849af08ecc",
+        "72b1bebf684cd10a41e6df3293065f1e",
+        "b2a5f4f303fa1dea224d7000b7f88521",
+        "419ddc9c61219c419523d8e37695e627",
+        "8243991b4459693d23a1eecee5ca972d"
       ],
-      "last_run": "2026-06-19T18:33:01Z",
+      "last_run": "2026-06-19T18:47:16Z",
       "new_sub_topics_this_run": [
         "10+ Advanced Data Structures Online Courses for 2026 - Class",
         "Advanced Data Structures and Algorithms - IIT Hyderabad CS60",
         "Advanced Algorithms and Data Structures",
         "13 Best Data Structures & Algorithms Courses for 2026 - Clas",
         "Programming Foundations And Data Structures Microcertificate",
-        "Advanced Data Structures & Algorithms in C++ - Foothill Coll"
+        "Advanced Data Structures & Algorithms in C++ - Foothill Coll",
+        "GitHub - Himanshu-Singh7/dsa_interview_prep_2026: A comprehensive open-source roadmap and collection of solutions for DSA aimed at 2026 technical interviews.",
+        "The Ultimate Guide to Top 150 LeetCode Problems: Your Path to Acing Technical Interviews - DEV Community",
+        "Company-Wise LeetCode Questions (2026): DSA Practice by Company | DSA Prep",
+        "Data Structures and Algorithms C++ : Zero to Mastery in 2026"
       ],
-      "last_new_count": 6
+      "last_new_count": 4
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -492,7 +505,7 @@
         "825bd3218922b21b19f3dbadbcaf699e",
         "532ca6937e439113132db614831a5fe8"
       ],
-      "last_run": "2026-06-19T18:33:01Z",
+      "last_run": "2026-06-19T18:47:16Z",
       "new_sub_topics_this_run": [
         "The Adaptive Interpreter",
         "PEP 659 - Specializing Adaptive Interpreter",

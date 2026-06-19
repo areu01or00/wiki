@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Функциональные языки программирования: что это такое простыми словами, где применяется и что значит – SkillFactory](https://blog.skillfactory.ru/glossary/funkczionalnye-yazyki-programmirovaniya) | kw: SkillFactory | src: functional-programming
+
+- **2026-06-19** | [Функциональный Rust. Глава 0: Зачем нужно ФП? / Хабр](https://habr.com/ru/articles/1018790/) | kw: Rust | src: functional-programming
+
+- **2026-06-19** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell Community](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell, Interlude, POPL | src: functional-programming
+
 - **2026-06-19** | [Functional Programming Languages: A Guide in 2026 | Swovo](https://swovo.com/blog/functional-programming-languages/) | kw: Functional Programming Languages | src: functional-programming
 - **2026-06-19** | [Tarides | What is Functional Programming? A Look at the OCaml Perspective](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective/) | kw: Tarides | What is Functional Programming | src: functional-programming
 

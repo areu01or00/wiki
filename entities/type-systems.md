@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Top Strategic Technology Trends for 2026 | Gartner](https://www.gartner.com/en/articles/top-technology-trends-2026) | kw: Top, Strategic, Technology | src: type-systems
+
 - **2026-06-19** | [Yudai Tanabe](https://yudaitnb.github.io/) | kw: Yudai Tanabe | src: type-systems
 
 - **2026-06-19** | [90% of TypeScript interviews in 2026 come down to these 7 points](https://x.com/ConsciousRide/status/2067592912192545109) | kw: TypeScript, interviews, come, down

@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI-Compiler, Prompt, Engineering | src: compilers
+
+- **2026-06-19** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: ML, Compiler, Optimization | src: compilers
+
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancester/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, llvm, docs | src: compilers
+
 - **2026-06-19** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just | src: compilers
 - **2026-06-19** | [Lesson 12: Future of Compilers and Conclusion](https://btu.edu.ge/wp-content/uploads/2023/08/Lesson-12_-Future-of-Compilers-and-Conclusion.pdf) | kw: Lesson | src: compilers
 - **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: Case | src: compilers

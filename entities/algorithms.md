@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [GitHub - Himanshu-Singh7/dsa_interview_prep_2026: A comprehensive open-source roadmap and collection of solutions for DSA aimed at 2026 technical interviews.](https://github.com/Himanshu-Singh7/dsa_interview_prep_2026) | kw: GitHub, Himanshu-Singh7, dsa | src: algorithms
+
+- **2026-06-19** | [The Ultimate Guide to Top 150 LeetCode Problems: Your Path to Acing Technical Interviews - DEV Community](https://dev.to/soham0047/the-ultimate-guide-to-top-150-leetcode-problems-your-path-to-acing-technical-interviews-30h1) | kw: Ultimate, Guide, Top | src: algorithms
+
+- **2026-06-19** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company | DSA Prep](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company-Wise, LeetCode, Questions | src: algorithms
+
+- **2026-06-19** | [Data Structures and Algorithms C++ : Zero to Mastery in 2026](https://www.udemy.com/course/data-structures-algorithms-using-c-zero-to-mastery) | kw: Data, Structures, Algorithms | src: algorithms
+
 - **2026-06-19** | [10+ Advanced Data Structures Online Courses for 2026 - Class Central](https://www.classcentral.com/subject/advanced-data-structures) | kw: 10+ Advanced Data Structures Online Cour | src: algorithms
 - **2026-06-19** | [Advanced Data Structures and Algorithms - IIT Hyderabad CS6010](https://people.iith.ac.in/aravind/cs6010.html) | kw: Advanced Data Structures and Algorithms | src: algorithms
 - **2026-06-19** | [Advanced Algorithms and Data Structures (PDF) - Marcello La Rocca](https://chengzhaoxi.xyz/download/pdf/book/Advanced-Algorithms-and-Data-Structures.pdf) | kw: Advanced Algorithms and Data Structures | src: algorithms
