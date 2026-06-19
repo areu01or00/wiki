@@ -1,6 +1,7 @@
 # System Design
 
 ## Updates
+
 - **2026-06-19** | [Microservices Architecture Guide 2026: Building Scalable ...](https://miracl.in/blog/microservices-architecture-guide-2026) | kw: Microservices,Architecture,Guide,Building,Scalable | src: system-design
 
 - **2026-06-18** | [Patterns of Distributed Systems](https://martinfowler.com/books/patterns-distributed.html) | kw: system,design | src: system-design

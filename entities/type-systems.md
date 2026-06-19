@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing (ASE 2024)](https://conf.researchr.org/details/ase-2024/ase-2024-research/149/Typed-and-Confused-Studying-the-Unexpected-Dangers-of-Gradual-Typing) | kw: Typed,Confused,Studying,Unexpected,Dangers | src: type-systems
+
 - **2026-06-18** | [gradual-typing - Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: type,systems | src: type-systems
 - **2026-06-18** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: type,systems | src: type-systems
 - **2026-06-18** | [Gradual Typing Across the Spectrum](https://nuprl.github.io/gtp) | kw: type,systems | src: type-systems

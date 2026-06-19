@@ -259,13 +259,8 @@
         "aaaf9550e5e27d5469ea0edd84372b77",
         "2f58466b4c76a307f213ca31f8c48185"
       ],
-      "last_run": "2026-06-19T02:34:44.482784+00:00",
-      "new_sub_topics_this_run": [
-        "Roadmap",
-        "pdpspectra",
-        "Blocks:",
-        "Large-Scale Distributed Systems"
-      ],
+      "last_run": "2026-06-19T02:47:55.111093+00:00",
+      "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
     "compilers": {
@@ -558,20 +553,8 @@
         "1dbcadd29f914229e53e0a8239219ead",
         "d07f594fea667e043c421218ba0190f3"
       ],
-      "last_run": "2026-06-19T02:34:44.482784+00:00",
-      "new_sub_topics_this_run": [
-        "LLVM,",
-        "Interpreters:",
-        "Runs",
-        "Compilers,",
-        "Interpreters,",
-        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst",
-        "Just-In-Time",
-        "with",
-        "chekalexey",
-        "SPEC CPU 2026",
-        "LLVM 22"
-      ],
+      "last_run": "2026-06-19T02:47:55.111093+00:00",
+      "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
     "type-systems": {
@@ -815,10 +798,12 @@
         "Languages",
         "through",
         "Safe Erasure Gradual Typing",
-        "Elixir Type System"
+        "Elixir Type System",
+        "Unexpected Dangers",
+        "Typing ASE",
+        "Confused Studying"
       ],
       "last_result_hashes": [
-        "36f436eb9462cfa9b86dca4c78e0a8b0",
         "515297cd90212e0cede68efcec1af7d9",
         "ce8d456cc5c19dd66de1173f19eb7207",
         "257f707e4f6b84a5109de8e4a606651f",
@@ -837,29 +822,16 @@
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "b0b257ce43663e3177338e61f3e0e5f0",
         "796dd8fb9f6369a2e77f75139af26f3c",
-        "4a101114e3b691c4671d64770c39c052"
+        "4a101114e3b691c4671d64770c39c052",
+        "fbc7023bf80d36aa3d30c0eaf6d00d91"
       ],
-      "last_run": "2026-06-19T02:34:44.482784+00:00",
+      "last_run": "2026-06-19T02:47:55.111093+00:00",
       "new_sub_topics_this_run": [
-        "Selection",
-        "Performance",
-        "Wenjia",
-        "Systems,",
-        "Typed",
-        "Confused:",
-        "Studying",
-        "Unexpected",
-        "(Siek)",
-        "Systems",
-        "Languages:",
-        "Static",
-        "Understanding",
-        "Languages",
-        "through",
-        "Safe Erasure Gradual Typing",
-        "Elixir Type System"
+        "Unexpected Dangers",
+        "Typing ASE",
+        "Confused Studying"
       ],
-      "last_new_count": 0
+      "last_new_count": 1
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1143,25 +1115,8 @@
         "5f9a2da0c7c9a2e40ef2c12ee3862840",
         "d4a415d98430468b96961eb06875ee7b"
       ],
-      "last_run": "2026-06-19T02:34:44.482784+00:00",
-      "new_sub_topics_this_run": [
-        "2026:",
-        "Which",
-        "Languages",
-        "Should",
-        "Latest",
-        "News",
-        "(MON)",
-        "Support",
-        "Learned",
-        "Monads:",
-        "Omnipresent",
-        "Online",
-        "#83:",
-        "POPL",
-        "Type-Safe BEAM",
-        "POPL 2026"
-      ],
+      "last_run": "2026-06-19T02:47:55.111093+00:00",
+      "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
     "algorithms": {
@@ -1423,19 +1378,8 @@
         "143876bc0621660474126a01477b0355",
         "31d5ee359dfc9303b0ae04e7776d19b4"
       ],
-      "last_run": "2026-06-19T02:34:44.482784+00:00",
-      "new_sub_topics_this_run": [
-        "Questions:",
-        "2026",
-        "World's",
-        "Programming",
-        "Company-Wise",
-        "(2026):",
-        "Practice",
-        "(LeetCode",
-        "Focus)",
-        "FAANG Interview Prep"
-      ],
+      "last_run": "2026-06-19T02:47:55.111093+00:00",
+      "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
     "python-internals": {
@@ -1690,20 +1634,9 @@
         "2084f8e9ae70d336d28c303d0a70faac",
         "238dd6ae5d2a4f3308b871fdae7cc7d8"
       ],
-      "last_run": "2026-06-19T02:34:44.482784+00:00",
-      "new_sub_topics_this_run": [
-        "Controversy:",
-        "Parallelism",
-        "Remains",
-        "Python's",
-        "Explained:",
-        "State",
-        "2026",
-        "(And",
-        "Python 3.14 GIL Removal"
-      ],
+      "last_run": "2026-06-19T02:47:55.111093+00:00",
+      "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
-  },
-  "last_run": "2026-06-19 01:33 UTC"
+  }
 }

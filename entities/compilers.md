@@ -1,6 +1,7 @@
 # Compilers
 
 ## Updates
+
 - **2026-06-19** | [A Deep Dive into Compilers, Interpreters, Bytecode, and JIT Compilation](https://teddyaryono.dev/blog/compiler-interpreter) | kw: compiler,JIT | src: compilers
 
 - **2026-06-19** | [The design and implementation of ZJIT & the next five years - RubyKaigi 2026](https://rubykaigi.org/2026/presentations/tekknolagi.html) | kw: design,implementation,ZJIT,next,five | src: compilers
