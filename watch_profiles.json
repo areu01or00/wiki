@@ -55,9 +55,21 @@
         "Architecture Trends",
         "ACL Digital",
         "OReilly",
-        "Chanh Le"
+        "Chanh Le",
+        "Coming",
+        "Latest",
+        "Distributed",
+        "Design",
+        "Mastering",
+        "Best"
       ],
       "last_result_hashes": [
+        "8a4c6c3b1a58ba76429a4cc01eb115a4",
+        "ad1abed58fb932a97f41b79fc33bea65",
+        "dffcbc8662b09cb0a5c2d9645a80041f",
+        "729c2ff54afb3063182d60de7d6aef1c",
+        "46a56982536c8a4f9801b7d471165b39",
+        "9ba46483364adb11b22fcfbd9fe2e4d2",
         "be6431b62c4b712f6f0fa4fe7d011e37",
         "25a06ccbe831fcae1efa398fc18b067e",
         "2cde1a28ba6d0671aefe2b40950d91f9",
@@ -71,17 +83,18 @@
         "54d56919015126f3fad6a89e4fb01edc",
         "027b842794aa1b6f8ff97eb660c59079",
         "697337f881dc40cc977774b3475bbe3d",
-        "4141d7871c6b9a533346e695683501e0",
-        "70c411feb51eb6a46c277d953d6d0a03",
-        "6a844cba5f4dbe6112de4dacb09bede6",
-        "0bccdfeceeee7664c4e61f75605f9f8f",
-        "2ebbe3411f331c326ab1fd19aa4e50c7",
-        "4493db04174fb52c7b4a8bed0a3bc5ca",
-        "c2467d152209f3480ddfeff15e8fd0d7"
+        "4141d7871c6b9a533346e695683501e0"
       ],
-      "last_run": "2026-06-19T19:17:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T19:31:57Z",
+      "new_sub_topics_this_run": [
+        "Coming",
+        "Latest",
+        "Distributed",
+        "Design",
+        "Mastering",
+        "Best"
+      ],
+      "last_new_count": 6
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -136,9 +149,25 @@
         "Upcoming Challenges",
         "Unlocking Performance",
         "Performance The",
-        "Overlooked Power"
+        "Overlooked Power",
+        "Case",
+        "Best",
+        "BuildingAJIT1",
+        "Unlocking",
+        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
+        "LLVM",
+        "Compilers",
+        "RomanPikhotskiy"
       ],
       "last_result_hashes": [
+        "5cefefefe6afc297697ed1187181b6a1",
+        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
+        "7ed9cf6296b93bcd1574511795e44641",
+        "d37278b17b3f3d3a42bf217f0d3e56d5",
+        "9c7d751072ce020f146fcaafc56e72eb",
+        "dc5ada16f234dc184f112304b0917552",
+        "a888bd8966b306914c973b55ba7dd171",
+        "14bec6c679203be13206205a9edb80d7",
         "d6b1d0b195a3733a394b342cca13ee0d",
         "7013f0083d445281a0575c5e36238e9b",
         "9549ee3df2b4c698c35929d6eea7600f",
@@ -150,19 +179,20 @@
         "00d37fecba311b38109bc12619ff9f25",
         "bbbc8ef4ec78630cae3e49219b742618",
         "381c5829c4542d830b4e98667478e845",
-        "537439b799160fc6f3459b2fb0a33cd5",
-        "552fb7fa38d11b6f68d1330db02e2708",
-        "17ed08fe6778ce4ef2c1a88ba23596e9",
-        "d62fb6c647f11f96144c1ea575cff845",
-        "d0de062ed058a4b7bb87b9c013129190",
-        "3ecd511f79293d2a976892751d22d6d6",
-        "191137fb0d9c6770341ad41eba235f6e",
-        "c988d203ffb86a252a80be5c9dbd7a13",
-        "c1506332a36457ff6e4c9c010c300b3b"
+        "537439b799160fc6f3459b2fb0a33cd5"
       ],
-      "last_run": "2026-06-19T19:17:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T19:31:57Z",
+      "new_sub_topics_this_run": [
+        "Case",
+        "Best",
+        "BuildingAJIT1",
+        "Unlocking",
+        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
+        "LLVM",
+        "Compilers",
+        "RomanPikhotskiy"
+      ],
+      "last_new_count": 8
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -219,9 +249,22 @@
         "Type Annotations",
         "Yudai Tanabe",
         "Why Lua",
-        "Luau Are Three Different Languages Now"
+        "Luau Are Three Different Languages Now",
+        "Gradual",
+        "Guard",
+        "Efficient",
+        "Confused",
+        "Annotations",
+        "Inference"
       ],
       "last_result_hashes": [
+        "64b470da1594bf882606e4f34b1257e6",
+        "796dd8fb9f6369a2e77f75139af26f3c",
+        "7b70f5d6638f7163c60203ae4afa2dca",
+        "539299cdb002f1725e1d140c5784f165",
+        "bca887779c4d30860ee265ce67393aa0",
+        "6fc9970c04093343ec26fd6a1cf8f540",
+        "909e8bfab170d35133c70a8a14f48f68",
         "1f3e7d1bf4955c674237c70349a25b1d",
         "05e87cbef36cd8edbadc65c13cd2b4af",
         "9a3ca8ef0be6bd5ed1e25f6590c663f6",
@@ -234,21 +277,18 @@
         "7d43df11a787f4da1d8ba7253fb6f91f",
         "7363df9b919ff0ae41c8cb8164aa61e8",
         "5c8d464c75e0f82550f068820dd0b4ad",
-        "76cb8329ade5e1c0bc765af2f58cae53",
-        "393c2007828b49d14ae2ce8a8bf61873",
-        "1892288ce3bfda31458d852753d72f5f",
-        "528908eec2d5bb9ce65ec10c8f48dbf0",
-        "b21f5e552425f22695fd0b9f08496793",
-        "8152c0fa97986388894bbc6fe44824e4",
-        "6c257d065a3041b16049b05a47e582ff",
-        "e7f4bdb1251a016f16cef48877b17a01"
+        "76cb8329ade5e1c0bc765af2f58cae53"
       ],
-      "last_run": "2026-06-19T19:17:01Z",
+      "last_run": "2026-06-19T19:31:57Z",
       "new_sub_topics_this_run": [
-        "Why Lua",
-        "Luau Are Three Different Languages Now"
+        "Gradual",
+        "Guard",
+        "Efficient",
+        "Confused",
+        "Annotations",
+        "Inference"
       ],
-      "last_new_count": 1
+      "last_new_count": 7
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -307,9 +347,23 @@
         "Gleam",
         "MoldStud",
         "Welcome",
-        "World"
+        "World",
+        "Functional",
+        "Coming",
+        "And",
+        "Monads",
+        "Monad",
+        "Does",
+        "Medium"
       ],
       "last_result_hashes": [
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "a1fd2b9212d955769e6bbfad262f2fb9",
+        "0b2120fa72343244679a593dacf13018",
+        "507d0954b1c28a4ea253d1bfcfbd1b35",
+        "41324c9de2246b68967ff2eb3fe8b409",
+        "81f416bda62e20437250860785d5442e",
+        "a6680c77f7647761828dbe6af8a47d4e",
         "dbd3010420412a91e41a5c1bd0f7d7a0",
         "c012a57fa63492860f64045db3528e7a",
         "b82ed313e52a51037b2e80996b9a6a4d",
@@ -322,21 +376,19 @@
         "34879744f2a105709306e24e50011292",
         "fa084d7ca168297914b3265540402b1d",
         "32b7895f5a363cbf340e57c75779aedd",
-        "875e7957fd4974fda8df61e5e64c4b09",
-        "89d87031e449ae356f26865a02b9a13d",
-        "0d5e42e964af9b4ef6ba72b42f761e14",
-        "36d055d3e5f70c97985d84fd4dcc4105",
-        "379e742f5dedcad0bfe805f9c1f5b0ba",
-        "b88d391b4c5b7ad70b625cbb741d1b77",
-        "f59c099ddedfcc40a005a203f3c5b679",
-        "3635079258c31a05f32c708a4e5d46fc"
+        "875e7957fd4974fda8df61e5e64c4b09"
       ],
-      "last_run": "2026-06-19T19:17:01Z",
+      "last_run": "2026-06-19T19:31:57Z",
       "new_sub_topics_this_run": [
-        "Welcome",
-        "World"
+        "Functional",
+        "Coming",
+        "And",
+        "Monads",
+        "Monad",
+        "Does",
+        "Medium"
       ],
-      "last_new_count": 1
+      "last_new_count": 7
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -396,9 +448,23 @@
         "Algorithms",
         "Competitive Programming",
         "Codeforces",
-        "Best Competitive Programming Platforms"
+        "Best Competitive Programming Platforms",
+        "Data",
+        "Tutor",
+        "NeetCode",
+        "LeetCode",
+        "Best",
+        "NQT",
+        "Company-Wise"
       ],
       "last_result_hashes": [
+        "3739df902d0a15eaecfaff44ff2d20c8",
+        "f381d9425a7fcd1cb715658bf397a62d",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "758e32a5ad74796e353ebdfbf6d56a41",
+        "b374c779c101dd010d1f2ed0450afdee",
+        "d6eb77479303dc4dc083a8460d7815d0",
+        "419ddc9c61219c419523d8e37695e627",
         "d11d32e86d38f20c055a381fc2fe21eb",
         "92fe0baf445ee0220579f3928702982a",
         "4024687e769040f0b2cab72cab5718e1",
@@ -411,24 +477,19 @@
         "fae719876bc5c541440192783809f45b",
         "b2ebff509c2065c89ae295b2fabe3868",
         "8900f36a48596850ee5ba84a247a6c1d",
-        "007f6850e48a967b7acfd833f4be0a66",
-        "91b947cdb84929a43202be06d8ca3ad9",
-        "fa2e527cdd11acb8168cdbeff3eba418",
-        "604f32c0e5d61c91ae198d08f3431a41",
-        "6d02ffc8ba63b59b235c447becc772b4",
-        "e8778c7e252b71b6a4ba37a2e3fadc19",
-        "ce9f95616ae2956522124b42b800ff4c",
-        "97386f06ec14b1d86a2b8e30ed6bd815"
+        "007f6850e48a967b7acfd833f4be0a66"
       ],
-      "last_run": "2026-06-19T19:17:01Z",
+      "last_run": "2026-06-19T19:31:57Z",
       "new_sub_topics_this_run": [
-        "Main Page",
-        "Algorithms",
-        "Competitive Programming",
-        "Codeforces",
-        "Best Competitive Programming Platforms"
+        "Data",
+        "Tutor",
+        "NeetCode",
+        "LeetCode",
+        "Best",
+        "NQT",
+        "Company-Wise"
       ],
-      "last_new_count": 6
+      "last_new_count": 7
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -483,9 +544,21 @@
         "JIT and tier 2 - CPython wiki - Factory",
         "Python 3.14.6 Release - Python.org",
         "Interpreter initialization and finalization - Python 3.14.6 ",
-        "Adding a JIT compiler to CPython - LWN.net"
+        "Adding a JIT compiler to CPython - LWN.net",
+        "GIL",
+        "Consensus",
+        "Memory",
+        "How",
+        "Future",
+        "Controversy"
       ],
       "last_result_hashes": [
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "49d63312d772fdc8dd4bab9349a271d4",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "7b4d33a48fc204e0cb25e4f1266c7297",
+        "03e9423b802e0456d3fe98220b76ea3a",
+        "b3593c9f59eca4f8b6263b3a3f35c76d",
         "8423f12ab9baba929d1ed4e944bcf94c",
         "3453b796c7c5877faf9dc9fdd181534f",
         "aff79aed6e34d3f002b7fa14f5978b75",
@@ -499,17 +572,18 @@
         "6bd1828271a3d7ce0e5d0b666c53b128",
         "7f2ac49bb043ce89198c985bd2570eae",
         "beaef31893811bf93a7c49c5427531ec",
-        "23f806669425cddfbb81ceb3202ed519",
-        "aa770a0abe1f52fb3feae63f0575f536",
-        "45fefe86202ca82388eeac224dbdb4d7",
-        "eb74c7ee38299ed2db1b54f8c86cec89",
-        "d47765acd8e26ffd5d7a68792391164f",
-        "825bd3218922b21b19f3dbadbcaf699e",
-        "532ca6937e439113132db614831a5fe8"
+        "23f806669425cddfbb81ceb3202ed519"
       ],
-      "last_run": "2026-06-19T19:17:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T19:31:57Z",
+      "new_sub_topics_this_run": [
+        "GIL",
+        "Consensus",
+        "Memory",
+        "How",
+        "Future",
+        "Controversy"
+      ],
+      "last_new_count": 6
     }
   }
 }

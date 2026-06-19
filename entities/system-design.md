@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming | src: system-design
+- **2026-06-19** | [Latest Trends in Distributed Systems (2026) - TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026/) | kw: Latest | src: system-design
+- **2026-06-19** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: Distributed | src: system-design
+- **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: Design | src: system-design
+- **2026-06-19** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering | src: system-design
+- **2026-06-19** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Best | src: system-design
+
 - **2026-06-19** | [Patterns of Distributed Systems [Book]](https://www.oreilly.com/library/view/patterns-of-distributed/9780138222246) | kw: Patterns | src: system-design
 
 - **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: System | src: system-design

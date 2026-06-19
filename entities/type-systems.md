@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Gradual Typing – Programming Research Group (Science Tokyo)](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual | src: type-systems
+- **2026-06-19** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual | src: type-systems
+- **2026-06-19** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir (arXiv)](https://arxiv.org/pdf/2408.14345v3) | kw: Guard | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient | src: type-systems
+- **2026-06-19** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: Confused | src: type-systems
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (programming-journal.org)](https://programming-journal.org/2026/11/3/) | kw: Annotations | src: type-systems
+- **2026-06-19** | [100+ Type Inference Online Courses for 2026 | Explore Free Courses | Class Central](https://www.classcentral.com/subject/type-inference) | kw: Inference | src: type-systems
+
 - **2026-06-19** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: Lua | src: type-systems
 
 - **2026-06-19** | [Top Strategic Technology Trends for 2026 | Gartner](https://www.gartner.com/en/articles/top-technology-trends-2026) | kw: Top, Strategic, Technology | src: type-systems

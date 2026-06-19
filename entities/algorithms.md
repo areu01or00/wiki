@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data | src: algorithms
+- **2026-06-19** | [Data Structures & Algorithms Roadmap 2026 - The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Tutor | src: algorithms
+- **2026-06-19** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode | src: algorithms
+- **2026-06-19** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode | src: algorithms
+- **2026-06-19** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best | src: algorithms
+- **2026-06-19** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital) | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: NQT | src: algorithms
+- **2026-06-19** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company | DSA Prep](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company-Wise | src: algorithms
+
 - **2026-06-19** | [Main Page - Algorithms for Competitive Programming](https://cp-algorithms.com/) | kw: Main | src: algorithms
 - **2026-06-19** | [Main Page - Algorithms for Competitive Programming (index)](https://cp-algorithms.com/index.html) | kw: Main | src: algorithms
 - **2026-06-19** | [Codeforces](https://codeforces.com/) | kw: Codeforces | src: algorithms

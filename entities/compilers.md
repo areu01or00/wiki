@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: Case | src: compilers
+- **2026-06-19** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Best | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT1 | src: compilers
+- **2026-06-19** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-Based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking | src: compilers
+- **2026-06-19** | [LLVMのJITについてLLMの説明が分からなくて困る - zenn.dev](https://zenn.dev/toga/scraps/948f581e2c441f) | kw: LLVMのJITについてLLMの説明が分からなくて困る | src: compilers
+- **2026-06-19** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: LLVM | src: compilers
+- **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers | src: compilers
+- **2026-06-19** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: RomanPikhotskiy | src: compilers
+
 - **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI-Compiler, Prompt, Engineering | src: compilers
 
 - **2026-06-19** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: ML, Compiler, Optimization | src: compilers

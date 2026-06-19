@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: GIL | src: python-internals
+- **2026-06-19** | [Python 3.14 garbage collection rigamarole - The Consensus](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html) | kw: Consensus | src: python-internals
+- **2026-06-19** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory | src: python-internals
+- **2026-06-19** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals) | kw: How | src: python-internals
+- **2026-06-19** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: Future | src: python-internals
+- **2026-06-19** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken (And Why It Might Not Matter)](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Controversy | src: python-internals
+
 - **2026-06-19** | [The Adaptive Interpreter (3.11+) - Python Performance JIT & Internals - Stanza](https://www.stanza.dev/courses/python-performance/jit-compiler/python-performance-adaptive-interpreter) | kw: The Adaptive Interpreter | src: python-internals
 - **2026-06-19** | [PEP 659 - Specializing Adaptive Interpreter](https://peps.python.org/pep-0659) | kw: PEP 659 | src: python-internals
 - **2026-06-19** | [JIT and tier 2 - CPython wiki - Factory](https://factory.ai/open-source-wikis/cpython?page=systems%2Fjit.md) | kw: JIT and tier 2 | src: python-internals
