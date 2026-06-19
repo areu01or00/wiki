@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [Patterns of Distributed Systems [Book]](https://www.oreilly.com/library/view/patterns-of-distributed/9780138222246) | kw: Patterns | src: system-design
+
 - **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: System | src: system-design
 - **2026-06-19** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices | src: system-design
 - **2026-06-19** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: Complete | src: system-design
