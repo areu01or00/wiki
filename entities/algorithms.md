@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Company-Wise LeetCode Questions (2026)](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company-Wise
+- **2026-06-19** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: Structures
+- **2026-06-19** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: Interview
+- **2026-06-19** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Questions:
+- **2026-06-19** | [Data Structures & Algorithms Roadmap 2026](https://www.thetutorbridge.com/roadmap/dsa) | kw: Algorithms
+
 - **2026-06-19** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding
 - **2026-06-19** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: Data
 

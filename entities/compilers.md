@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: TurboFan/Maglev
+- **2026-06-19** | [GitHub - cloudsealed/JIT-Optimization-Engine](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: cloudsealed/JIT-Optimization-Engine
+- **2026-06-19** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin
+- **2026-06-19** | [The Future of Programming: Compiler Writing in 2026 | Artikls](https://artikls.com/article/future-programming-compiler-writing-2026) | kw: Compiler
+
 - **2026-06-19** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: Free
 - **2026-06-19** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
 - **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet/) | kw: AI-Compiler

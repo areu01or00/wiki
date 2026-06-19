@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: Complete
+- **2026-06-19** | [Modern Cloud Native System Design](https://www.udemy.com/course/modern-system-design) | kw: Design
+- **2026-06-19** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design – Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design
+- **2026-06-19** | [Distributed Systems Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/mastering-design-patterns/distributed-systems-patterns) | kw: Distributed
+
 - **2026-06-19** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: Essential
 - **2026-06-19** | [Caching & Performance: Building Fast, Predictable Systems in 2026](https://neuralstackms.tech/caching-performance-building-fast-predictable-systems-in-2026) | kw: Caching
 
