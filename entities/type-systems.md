@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient | src: type-systems
+
 - **2026-06-19** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: efficient | src: type-systems
 - **2026-06-19** | [100+ Type Inference Online Courses for 2026 | Explore Free ...](https://www.classcentral.com/subject/type-inference) | kw: type | src: type-systems
 - **2026-06-19** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: guard | src: type-systems

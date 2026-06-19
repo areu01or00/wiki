@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [DSA Learning Roadmap: From Beginner to Expert (2026) | Coursera](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: dsa | src: algorithms
+- **2026-06-19** | [Most Asked LeetCode Interview Questions: Essential Questions & Strategies](https://www.upgrad.com/blog/leetcode-interview-questions) | kw: asked | src: algorithms
+
 - **2026-06-19** | [15 BEST Data Structures and Algorithms Books (2026 Update)](https://www.guru99.com/data-structure-algorithms-books.html) | kw: structures | src: algorithms
 - **2026-06-19** | [10 DSA Books Every Software Engineers Should Read in 2026](https://medium.com/javarevisited/10-dsa-books-every-software-engineers-should-read-in-2026-539779d2d772) | kw: Software | src: algorithms
 - **2026-06-19** | [16 Best Data Structures and Algorithms Books to Read in 2026](https://hackr.io/blog/best-data-structures-and-algorithms-books) | kw: structures | src: algorithms

@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [Memory Management and tracemalloc Improvements 2026](https://pyinns.com/python/advanced-python-features/memory-management-and-tracemalloc-improvements-2026) | kw: memory | src: python-internals
+- **2026-06-19** | [Python 3.15: 3 More Features Python Developers Need to Know (2026) - DEV Community](https://dev.to/for_itthe_9cb5ee8d4b91f2/python-315-3-more-features-python-developers-need-to-know-2026-4hni) | kw: python | src: python-internals
+
 - **2026-06-19** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python | src: python-internals
 - **2026-06-19** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: the | src: python-internals
 - **2026-06-19** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: memory | src: python-internals

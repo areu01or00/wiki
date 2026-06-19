@@ -203,25 +203,9 @@
         "pdpspectra",
         "researchtednewardcom",
         "study",
-        "www",
-        "Saga",
-        "Saga Pattern",
-        "isolation",
-        "cells",
-        "load shedding",
-        "isolation patterns",
-        "Architecture",
-        "Best",
-        "AI-Native",
-        "Beyond",
-        "Monolith",
-        "Strategy",
-        "Snehal",
-        "Singh",
-        "Medium"
+        "www"
       ],
       "last_result_hashes": [
-        "5aeac4fa30fb41ccddd5bdbec41ec241",
         "7a43fcfcde6a6e1ad6d40ccc6f416748",
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "46a56982536c8a4f9801b7d471165b39",
@@ -240,10 +224,13 @@
         "697337f881dc40cc977774b3475bbe3d",
         "7c17643f234aa75cf0ffa2cbe542acf4",
         "ee72052a71ace9cf431a4b85c5d0d14c",
-        "2eed777e217c8f707d96cab621255e90"
+        "2eed777e217c8f707d96cab621255e90",
+        "5026190f11f085c2001a3f71d3b3b209"
       ],
-      "last_run": "2026-06-19T05-49-26Z",
-      "new_sub_topics_this_run": [],
+      "last_run": "2026-06-19T06-02-59Z",
+      "new_sub_topics_this_run": [
+        "Latest Trends Distributed Systems"
+      ],
       "last_new_count": 1
     },
     "compilers": {
@@ -449,20 +436,9 @@
         "tutorial",
         "weekly",
         "with",
-        "years",
-        "MLIR",
-        "Multi-level IR",
-        "Adaptive Interpreter",
-        "Specializing Interpreter",
-        "Best",
-        "Analytics",
-        "BuildingAJIT1.rst",
-        "Summer",
-        "Code"
+        "years"
       ],
       "last_result_hashes": [
-        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
-        "ae427aaa277c67469832326760f5569f",
         "c988d203ffb86a252a80be5c9dbd7a13",
         "7ed9cf6296b93bcd1574511795e44641",
         "7d0b717005814217330e578b0fbdc8fb",
@@ -480,11 +456,16 @@
         "cfbaf6a8fe3f09faa5c7874a776bb998",
         "d1fd932d1da3adfb0dbab8bdc1cf0621",
         "f59aecd9d2bb1c9a8e2250bf412480f0",
-        "4a4e0127b12cfd2d476b5aaa44376f2d"
+        "4a4e0127b12cfd2d476b5aaa44376f2d",
+        "191137fb0d9c6770341ad41eba235f6e",
+        "5a55ed6e0f882d72b4448e6c8c51267a"
       ],
-      "last_run": "2026-06-19T05-49-26Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T06-02-59Z",
+      "new_sub_topics_this_run": [
+        "AI-Compiler Prompt Engineering",
+        "Speakers"
+      ],
+      "last_new_count": 2
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -689,19 +670,9 @@
         "kevle6",
         "the",
         "through",
-        "with",
-        "consistency relation",
-        "type inference",
-        "Annotations",
-        "Analysis",
-        "Safe",
-        "Sound",
-        "Dead",
-        "Northeastern",
-        "University"
+        "with"
       ],
       "last_result_hashes": [
-        "37ffd58453521e02c05e593eedaf102e",
         "e3bc0b0f77bacd576c2e474dc4a44101",
         "b0b257ce43663e3177338e61f3e0e5f0",
         "ad9caf830a9309ad31b06074ca3dfc8a",
@@ -720,11 +691,14 @@
         "7d43df11a787f4da1d8ba7253fb6f91f",
         "7363df9b919ff0ae41c8cb8164aa61e8",
         "ca03c102ef488af0d2105b163fcd1748",
-        "0c4fea65325737c446710c96431c6923"
+        "0c4fea65325737c446710c96431c6923",
+        "1053fa1e5d3c47835cc3a5ecc1a46c52"
       ],
-      "last_run": "2026-06-19T05-49-26Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T06-02-59Z",
+      "new_sub_topics_this_run": [
+        "Efficient Selection Type Annotations"
+      ],
+      "last_new_count": 1
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -929,22 +903,9 @@
         "tapf-monad-examples",
         "through",
         "vs.",
-        "with",
-        "effect polymorphism",
-        "free monads",
-        "About",
-        "Monday",
-        "Morning",
-        "Example",
-        "Applicatives",
-        "Mastering",
-        "Bring"
+        "with"
       ],
       "last_result_hashes": [
-        "c233ce094f809bd93c2f4474229feed5",
-        "98e526be52c4f26f6ab112fd904d69d2",
-        "eb46484b28b25f2899a565ab07b24a90",
-        "17283951f47a445f957ceef8fc9879ed",
         "9e468f427c81adba063b45d72c784552",
         "94a26269fce6d4cab82e390dea71cd77",
         "c35700ff9f0773d69682721949231b06",
@@ -960,11 +921,19 @@
         "e271ae43ead77b8d332bb549450e601d",
         "c012a57fa63492860f64045db3528e7a",
         "b82ed313e52a51037b2e80996b9a6a4d",
-        "8b392f40f2d9484600edbc6565709ca7"
+        "8b392f40f2d9484600edbc6565709ca7",
+        "983d47218fc60840ca003dff88dc9aaf",
+        "ab1a401478bf91151df62818473f5ef5",
+        "b48df3ecc7197e04cb4515339cfae453",
+        "f59c11882666ed69d8bb2b62a44f9b59"
       ],
-      "last_run": "2026-06-19T05-49-26Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T06-02-59Z",
+      "new_sub_topics_this_run": [
+        "Monad Road Mainnet",
+        "Monad functional programming",
+        "Latest Monad News"
+      ],
+      "last_new_count": 4
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1038,7 +1007,7 @@
         "Introduction",
         "JIT",
         "Java",
-        "Java\u9762\u8bd5\u5b66\u4e60",
+        "Java面试学习",
         "JimengShi/Leetcode-Data-Structures-Algorithms",
         "KING",
         "Katravalli",
@@ -1169,30 +1138,9 @@
         "questions",
         "sourced",
         "the",
-        "ultimate",
-        "mock interview",
-        "Data",
-        "Algorithms",
-        "Answers",
-        "Complete",
-        "Strategy",
-        "Ananya-Singh2406",
-        "Data-Structures-and-Algorithms---150-top-interview-questions",
-        "Coding",
-        "CareerLift",
-        "Blog",
-        "CareerLift.ai",
-        "BEST Data Structures",
-        "Algorithms Books",
-        "Update",
-        "DSA Books Every Software",
-        "Engineers Should Read",
-        "Best Data Structures",
-        "Read"
+        "ultimate"
       ],
       "last_result_hashes": [
-        "143876bc0621660474126a01477b0355",
-        "5835e3a17a087ccb721b2816c8712b40",
         "25d5c21b36d2097bd47c7c6785b37f42",
         "31d5ee359dfc9303b0ae04e7776d19b4",
         "21b6b34622275025c0735b475dd15f93",
@@ -1210,11 +1158,16 @@
         "1520006a744a57a63bf6c03d55114a2e",
         "a7b06a0dd6c2b4b2db1ac5b75bbca867",
         "200ca117466b9b93f9cc3be32b59d56d",
-        "9f893a592f87279b3c4aecd3025a3d76"
+        "9f893a592f87279b3c4aecd3025a3d76",
+        "70003797271dd8784c1ec6afe4d29be2",
+        "d3b8d082c2434924e142a67b3f2b0b02"
       ],
-      "last_run": "2026-06-19T05-49-26Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T06-02-59Z",
+      "new_sub_topics_this_run": [
+        "DSA Learning Roadmap",
+        "Asked LeetCode Interview Questions"
+      ],
+      "last_new_count": 2
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1289,9 +1242,9 @@
         "Internals",
         "Internals,",
         "Internals:",
-        "Internals\u00b7",
+        "Internals·",
         "Interpreter",
-        "InterpreterPoolExecutor\u3067\u65b0\u3057\u3044\u4e26\u5217\u51e6\u7406\u3092\u4f53\u9a13\u3057\u3088\u3046",
+        "InterpreterPoolExecutorで新しい並列処理を体験しよう",
         "Interview",
         "InterviewPilot",
         "Interviews",
@@ -1419,28 +1372,9 @@
         "for",
         "odysse",
         "python-freethreading - Anaconda.org",
-        "the",
-        "asyncio",
-        "multiprocessing",
-        "__slots__",
-        "Pattern Matching",
-        "Backend",
-        "Dead",
-        "BirJob",
-        "Edugators",
-        "Charting",
-        "Parallel",
-        "Evolution",
-        "Harmony",
-        "Controversy",
-        "Experimental",
-        "Breaks",
-        "Barrier",
-        "Sean"
+        "the"
       ],
       "last_result_hashes": [
-        "9df3859b4715ae95cd2f1c86331d9b55",
-        "d2adce09b07afa8868adc1a5598d6db8",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "8423f12ab9baba929d1ed4e944bcf94c",
         "3453b796c7c5877faf9dc9fdd181534f",
@@ -1458,11 +1392,15 @@
         "867e0cbe66e7ec41347bf0c49630e571",
         "e5de457dfb901c53485a52be22a77e07",
         "9b950d80d24710f2899e1b281e96098e",
-        "beaef31893811bf93a7c49c5427531ec"
+        "beaef31893811bf93a7c49c5427531ec",
+        "70a8b777d17a5cf7ab18fd8b5f4ac95d",
+        "e9005d27b4d2cd075f87f38fef830dd0"
       ],
-      "last_run": "2026-06-19T05-49-26Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-19T06-02-59Z",
+      "new_sub_topics_this_run": [
+        "Memory Management tracemalloc Improvements"
+      ],
+      "last_new_count": 2
     }
   }
 }

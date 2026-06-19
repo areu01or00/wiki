@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-19** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now/) | kw: latest | src: system-design
+
 - **2026-06-19** | [Distributed Systems Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/mastering-design-patterns/distributed-systems-patterns) | kw: Distributed | src: system-design
 
 - **2026-06-19** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: system | src: system-design

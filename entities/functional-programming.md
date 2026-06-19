@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-19** | [Monad's Road to Mainnet | Everstake](https://everstake.one/resources/blog/monads-road-to-mainnet) | kw: monad | src: functional-programming
+- **2026-06-19** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monad | src: functional-programming
+- **2026-06-19** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell | src: functional-programming
+- **2026-06-19** | [Latest Monad News - (MON) Future Outlook, Trends & Market Insights](https://coinmarketcap.com/cmc-ai/monad/latest-updates) | kw: latest | src: functional-programming
+
 - **2026-06-19** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: all | src: functional-programming
 - **2026-06-19** | [Haskell Monads — Monday Morning Haskell](https://mmhaskell.com/monads) | kw: haskell | src: functional-programming
 - **2026-06-19** | [Example 604: Monad Laws | Functional Rust - hightechmind.io](https://hightechmind.io/rust/604-monad-laws-rust.html) | kw: example | src: functional-programming

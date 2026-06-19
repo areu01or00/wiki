@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-19** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: ai-compiler | src: compilers
+- **2026-06-19** | [Speakers: 2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/speakers) | kw: speakers | src: compilers
+
 - **2026-06-19** | [Best Free Open-Source Compilers in 2026 - Analytics Insight](https://www.analyticsinsight.net/programming/best-free-and-open-source-compilers-for-developers-in-2026) | kw: best | src: compilers
 - **2026-06-19** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: fosdem | src: compilers
 - **2026-06-19** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: compiler | src: compilers
