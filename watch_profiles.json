@@ -206,11 +206,6 @@
         "ACL Digital"
       ],
       "last_result_hashes": [
-        "d0c843a5ab449318e1bdeb5d4f10d539",
-        "729c2ff54afb3063182d60de7d6aef1c",
-        "f1ddfa3dba94b32cb8832e2c4fa76439",
-        "829e385d598e3022a5a9d9f416e9920c",
-        "a0463b664260e00c851a53d961cfa770",
         "7c1f6bf914efb4646d7180593f7f6937",
         "5e0fbac8d7b127356a7cb3c319eb072d",
         "aaaf9550e5e27d5469ea0edd84372b77",
@@ -225,26 +220,16 @@
         "3d924683b109e99c93d7ba785e0c7ab0",
         "54d56919015126f3fad6a89e4fb01edc",
         "027b842794aa1b6f8ff97eb660c59079",
-        "697337f881dc40cc977774b3475bbe3d"
+        "697337f881dc40cc977774b3475bbe3d",
+        "4141d7871c6b9a533346e695683501e0",
+        "0bccdfeceeee7664c4e61f75605f9f8f",
+        "8282bc38c31cae78de009daeeac96471",
+        "bcfd71f53ab1ff9b1bbb906880b2771d",
+        "9ba46483364adb11b22fcfbd9fe2e4d2"
       ],
-      "last_run": "2026-06-19T15:48:36.225644+00:00",
-      "new_sub_topics_this_run": [
-        "Essential Software",
-        "Software Architecture",
-        "Architecture Patterns",
-        "Scalable Distributed",
-        "Java Prorgram",
-        "Prorgram Examples",
-        "Three Bold",
-        "Bold Predictions",
-        "Modern Software",
-        "Patterns That",
-        "That Scale",
-        "Enterprise Architecture",
-        "Architecture Trends",
-        "ACL Digital"
-      ],
-      "last_new_count": 7
+      "last_run": "2026-06-19T16:02:58.668368+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -452,12 +437,6 @@
         "Overlooked Power"
       ],
       "last_result_hashes": [
-        "f23021709e730a86dfdc7413215ea5a5",
-        "7a85763a40301194acd894c0bda5d525",
-        "2984902380de4e9c7ac38db6c331cbba",
-        "ae427aaa277c67469832326760f5569f",
-        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
-        "a96d7d5bc201449f4c3fdcb9cb2a1e49",
         "c2e842ce872d7cbe6662a93698a60c9b",
         "64d4d6aa50fbe9e3f1fca00d49c42c8c",
         "23259200a7be4533fe1e25b8fdeb4b83",
@@ -471,20 +450,17 @@
         "97916bbcc57bd77bc98f26386c7d8c72",
         "cfbaf6a8fe3f09faa5c7874a776bb998",
         "d1fd932d1da3adfb0dbab8bdc1cf0621",
-        "f59aecd9d2bb1c9a8e2250bf412480f0"
+        "f59aecd9d2bb1c9a8e2250bf412480f0",
+        "00d37fecba311b38109bc12619ff9f25",
+        "bbbc8ef4ec78630cae3e49219b742618",
+        "381c5829c4542d830b4e98667478e845",
+        "191137fb0d9c6770341ad41eba235f6e",
+        "0d7faef8e6b6745492310b01f843cf04",
+        "f4c9195ba6e475c9ff48b0b58d1fbe59"
       ],
-      "last_run": "2026-06-19T15:48:36.225644+00:00",
-      "new_sub_topics_this_run": [
-        "Case For",
-        "SPEC CPU",
-        "LLVM JIT",
-        "JIT Upcoming",
-        "Upcoming Challenges",
-        "Unlocking Performance",
-        "Performance The",
-        "Overlooked Power"
-      ],
-      "last_new_count": 7
+      "last_run": "2026-06-19T16:02:58.668368+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -692,15 +668,6 @@
         "Type Annotations"
       ],
       "last_result_hashes": [
-        "f5743c6f15ab538b2f6ae819068463d2",
-        "529b7e892267d1b1cfc9688b5bfdf683",
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "3d5da058cca3bdf9cde4001da3ba2d11",
-        "ec09c59094ac4318c8369b4e856d2f5d",
-        "063c2f3eadaf2be7e059d09de8a540f4",
-        "2b077fcefb9f16574c355c5cae07ce7d",
-        "b026ef92bf282c4d85de696983ed4a8c",
-        "a3bff6024fbb28890c700733eef813fa",
         "f333bd41608e9168a9593cda75a5d292",
         "87065c9439c433c819c4f5a68841256d",
         "05e87cbef36cd8edbadc65c13cd2b4af",
@@ -711,14 +678,20 @@
         "7d43df11a787f4da1d8ba7253fb6f91f",
         "7363df9b919ff0ae41c8cb8164aa61e8",
         "5c8d464c75e0f82550f068820dd0b4ad",
-        "76cb8329ade5e1c0bc765af2f58cae53"
+        "76cb8329ade5e1c0bc765af2f58cae53",
+        "393c2007828b49d14ae2ce8a8bf61873",
+        "1892288ce3bfda31458d852753d72f5f",
+        "528908eec2d5bb9ce65ec10c8f48dbf0",
+        "b21f5e552425f22695fd0b9f08496793",
+        "f5a1dc3e07b98189caeebcca4d8fda49",
+        "b08cf7e0076150e7aeb5ac117d6c5111",
+        "e0f1e5a7bfd9b5fc43796b12430d38fe",
+        "d30c38f9a017c16a7ab26bb8e77f9cb7",
+        "d7bc3b8c72a510b54dd47afff45c57c6"
       ],
-      "last_run": "2026-06-19T15:48:36.225644+00:00",
-      "new_sub_topics_this_run": [
-        "Luau Type System Complete Guide \u2014 Strict Mode, Generics & Type Functions for Safe Code [2026] | Oflight Inc.",
-        "2026 is Breakthrough Year for Reliable AI World Models and Continual Learning Prototypes | NextBigFuture.com"
-      ],
-      "last_new_count": 2
+      "last_run": "2026-06-19T16:02:58.668368+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -926,13 +899,6 @@
         "Idioms? Exploring"
       ],
       "last_result_hashes": [
-        "3bb0a852e2780a0d035603e5700fd0d0",
-        "cb3451b58dc0de64c4abaf6248054b44",
-        "94a26269fce6d4cab82e390dea71cd77",
-        "8ebdd868e3be019898b9d36cd949934f",
-        "c528586b42215b7f8cd8cc89ac5be8cf",
-        "3b97f2dd71eede02e5f8b7a2dad9c7f7",
-        "5677ca1a6b4ec946b75102458c8d271e",
         "88639568d7620593c2b895e44fe730fc",
         "8523d54f973c1802378dbbf186428ae2",
         "c5bcaf01490daab7e999b17a95ee57ce",
@@ -945,17 +911,18 @@
         "e271ae43ead77b8d332bb549450e601d",
         "c012a57fa63492860f64045db3528e7a",
         "b82ed313e52a51037b2e80996b9a6a4d",
-        "8b392f40f2d9484600edbc6565709ca7"
+        "8b392f40f2d9484600edbc6565709ca7",
+        "19e9a027878cd9e15d80f9af087b154c",
+        "f8882eb87e76bf28070ea332bf5ce996",
+        "c2fefc572a2578f6f202a147d877925b",
+        "be8e3b29bf239852c13e69d5b27392bb",
+        "9faa7cf534e52ea65424258c0c6c7995",
+        "06e7adf92500f3443f510ac1bf8904eb",
+        "89d87031e449ae356f26865a02b9a13d"
       ],
-      "last_run": "2026-06-19T15:48:36.225644+00:00",
-      "new_sub_topics_this_run": [
-        "Does Rust",
-        "Rust Support",
-        "Support Functional",
-        "Programming Idioms?",
-        "Idioms? Exploring"
-      ],
-      "last_new_count": 7
+      "last_run": "2026-06-19T16:02:58.668368+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1165,15 +1132,6 @@
         "questions"
       ],
       "last_result_hashes": [
-        "fd3eeb7d70f1465dc7ad77451737e866",
-        "7bec4f94d9b4441f460194d6a00e1eb7",
-        "dc5555474244247c8c81d3ecd650e912",
-        "8900f36a48596850ee5ba84a247a6c1d",
-        "c081d373fdb54070daade9a235858c9b",
-        "fd3eeb7d70f1465dc7ad77451737e866",
-        "7a009ba4453758c43e7e5ada094d25c3",
-        "9bae7c320eaa49023b76088f638f22f3",
-        "b28521ee15cb7293e177c4299f8c1651",
         "1057c6b2a48ed0501410e73e943bd22a",
         "91b947cdb84929a43202be06d8ca3ad9",
         "09ba1908ae63111d1e15e6d4bafc047c",
@@ -1184,33 +1142,20 @@
         "200ca117466b9b93f9cc3be32b59d56d",
         "9f893a592f87279b3c4aecd3025a3d76",
         "70003797271dd8784c1ec6afe4d29be2",
-        "d3b8d082c2434924e142a67b3f2b0b02"
+        "d3b8d082c2434924e142a67b3f2b0b02",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "b374c779c101dd010d1f2ed0450afdee",
+        "143876bc0621660474126a01477b0355",
+        "cd3c9d7f265955321a10d61f9cd44592",
+        "9d4e0e3a4cd83e0b5c6d3d78f17d2555",
+        "aa660ba4f4bdd837719a62b77e467167",
+        "32d965b54c8cf5da27c96247b2b8628a",
+        "eea32e4d9f2fe31a6f75282a6ddd8887",
+        "5477c4564045f951c7fc1731ca48b039"
       ],
-      "last_run": "2026-06-19T15:48:36.225644+00:00",
-      "new_sub_topics_this_run": [
-        "Best DSA",
-        "DSA Sheet",
-        "Crack Interviews",
-        "Coding Interview",
-        "Prep Courses",
-        "Courses Versus",
-        "Versus Mode",
-        "Data Structures",
-        "Algorithms Roadmap",
-        "Free Study",
-        "Study Plan",
-        "Leetcode Algorithm",
-        "Algorithm Coach",
-        "Coach Guide",
-        "Complete Strategy",
-        "Strategy Guide",
-        "Company",
-        "Wise LeetCode Questions",
-        "DSA Prep",
-        "Leon",
-        "Staff"
-      ],
-      "last_new_count": 1
+      "last_run": "2026-06-19T16:02:58.668368+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1418,14 +1363,6 @@
         "python-freethreading - Anaconda.org"
       ],
       "last_result_hashes": [
-        "a191b3f87343bc3dfb47d816861bb106",
-        "648db0dc3840621afdfd93ffb8732a78",
-        "3006637548d18ceb70f45867121eb2a4",
-        "bf41f97b42c647ac6026b627b93093ff",
-        "ffdd85ed1c6c827575bf349af3d708d9",
-        "fc2e8e4d765b1d6522303c68c46d4981",
-        "8e164b039e6be2f4d6dd92a0812ef837",
-        "5dbfd22302cae7546cc6805dd1dc8a4b",
         "49d63312d772fdc8dd4bab9349a271d4",
         "3610e83f44372700be4079eca6bb99ca",
         "51c1c00ac477c4fc7c890282e7e66d2c",
@@ -1437,29 +1374,19 @@
         "f51b42e3cc617cf8c1e7d0846c23f268",
         "1fb82e2be1d599ef51996d8d49300721",
         "498edfd974d66c35db81ddcb5eced2f1",
-        "7b0c583d3445b91efa0c0453e5a737c4"
+        "7b0c583d3445b91efa0c0453e5a737c4",
+        "125d32f4e073abcb08e7c2756041b634",
+        "999e699e6e78d8e383158b10f1c950f8",
+        "b95a17537fc7951b13ea9a7057c274bc",
+        "6bd1828271a3d7ce0e5d0b666c53b128",
+        "648b15d3830e89f0b72746ec8572e089",
+        "9132d1ca01d195338d05eb556f7164be",
+        "2abbee82f484b493c8c88fee77060e1c",
+        "3b9403d4f7fa799a6d433e80afb7bf4e"
       ],
-      "last_run": "2026-06-19T15:48:36.225644+00:00",
-      "new_sub_topics_this_run": [
-        "Python GIL",
-        "GIL The",
-        "Backend Performance",
-        "Python's GIL",
-        "GIL Explained",
-        "Explained The",
-        "Hidden Lock",
-        "Lock That",
-        "That Affects",
-        "Affects Your",
-        "Your Code",
-        "Dev Newsletter",
-        "Finally Dead",
-        "Dead Free-Threaded",
-        "Python Memory",
-        "Optimization Techniques",
-        "The Consensus"
-      ],
-      "last_new_count": 8
+      "last_run": "2026-06-19T16:02:58.668368+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 1
     }
   }
 }

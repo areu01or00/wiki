@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-19** | [The Secret Life of Python: Understanding the GIL - Tech Reader](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding-the-gil.html) | kw: The Secret Life of Python | src: python-internals
+
 - **2026-06-19** | [Python 3.14 garbage collection rigamarole - The Consensus](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html) | kw: Python, garbage, collection | src: python-internals
 
 - **2026-06-19** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python | src: python-internals
