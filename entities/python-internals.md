@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-19** | [CPython Internals by Anthony Shaw | Open Library](https://openlibrary.org/books/OL32872654M/CPython_Internals) | kw: CPython, Internals, by, Anthony | src: python-internals
+- **2026-06-19** | [Cpython Internals | CPython Internals - zpoint.github.io](https://zpoint.github.io/CPython-Internals/) | kw: Cpython, Internals, CPython, Internals | src: python-internals
+- **2026-06-19** | [Python Roadmap 2026: Step-by-Step Learning Path](https://course.careers/guides/python-roadmap-complete-learning-path-2026) | kw: Python, Roadmap, Step, by | src: python-internals
 - **2026-06-19** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Python, Internals | src: python-internals
 - **2026-06-19** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, GIL, Controversy | src: python-internals
 - **2026-06-19** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and Agentic AI](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: Python, Renaissance, No | src: python-internals

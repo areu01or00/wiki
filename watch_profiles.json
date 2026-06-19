@@ -105,9 +105,9 @@
         "0138e3c26ac6dea5b65730e25947b726",
         "ac5d08ac3a5fabb2815807c3418141b6"
       ],
-      "last_run": "2026-06-19T21:15:34Z",
+      "last_run": "2026-06-19T21:32:08Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 5
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -145,7 +145,7 @@
         "Best",
         "BuildingAJIT1",
         "Unlocking",
-        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
+        "LLVMのJITについてLLMの説明が分からなくて困る",
         "LLVM",
         "Compilers",
         "RomanPikhotskiy",
@@ -225,9 +225,9 @@
         "8a1f8c2cee520617974852260bebfda5",
         "da2a9627437ec27ab2a13b536f37cf45"
       ],
-      "last_run": "2026-06-19T21:15:34Z",
+      "last_run": "2026-06-19T21:32:08Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 8
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -322,13 +322,12 @@
         "Paradigms",
         "Khoury",
         "numberanalytics.com",
-        "Matrix"
+        "Matrix",
+        "Programming",
+        "Research",
+        "Gleam"
       ],
       "last_result_hashes": [
-        "e2c174c0007ca77c9deffbaae3cc9581",
-        "960c3757b01a3b5c2b782f876f59a49d",
-        "a3bff6024fbb28890c700733eef813fa",
-        "37ffd58453521e02c05e593eedaf102e",
         "b0b257ce43663e3177338e61f3e0e5f0",
         "1f3e7d1bf4955c674237c70349a25b1d",
         "b026ef92bf282c4d85de696983ed4a8c",
@@ -344,10 +343,18 @@
         "8152c0fa97986388894bbc6fe44824e4",
         "1053fa1e5d3c47835cc3a5ecc1a46c52",
         "3326193b269b65058b9975cd44e12d99",
-        "9b5af11b277e52a7b464f4abb731b0fb"
+        "9b5af11b277e52a7b464f4abb731b0fb",
+        "31a8f57a5357fe0db9d26a8ea6c7b0f3",
+        "b8135aa2003f57230e5ebb8f016865c6",
+        "92f0465ddf4b602a46222857b98050fa",
+        "edab03ecf377f1428228ed140e3947da"
       ],
-      "last_run": "2026-06-19T21:15:34Z",
-      "new_sub_topics_this_run": [],
+      "last_run": "2026-06-19T21:32:08Z",
+      "new_sub_topics_this_run": [
+        "Programming",
+        "Research",
+        "Gleam"
+      ],
       "last_new_count": 4
     },
     "functional-programming": {
@@ -467,9 +474,9 @@
         "fe6aed26b337f1993ecc4097fa829089",
         "3635079258c31a05f32c708a4e5d46fc"
       ],
-      "last_run": "2026-06-19T21:15:34Z",
+      "last_run": "2026-06-19T21:32:08Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 8
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -587,9 +594,9 @@
         "7e9fdd8c2ffc71a23e29276c3701990a",
         "a72a20f0713cd5feeef913e54a998932"
       ],
-      "last_run": "2026-06-19T21:15:34Z",
+      "last_run": "2026-06-19T21:32:08Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 7
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -669,12 +676,14 @@
         "Backend",
         "odysse.io",
         "Newsletter",
-        "Interpreter"
+        "Interpreter",
+        "CPython",
+        "Anthony",
+        "Cpython",
+        "Roadmap",
+        "Step"
       ],
       "last_result_hashes": [
-        "beaef31893811bf93a7c49c5427531ec",
-        "23f806669425cddfbb81ceb3202ed519",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
         "d2adce09b07afa8868adc1a5598d6db8",
         "2084f8e9ae70d336d28c303d0a70faac",
         "7d7462b15a5b202849cc8e6a4ee62adf",
@@ -691,10 +700,19 @@
         "9132d1ca01d195338d05eb556f7164be",
         "7b0c583d3445b91efa0c0453e5a737c4",
         "aff79aed6e34d3f002b7fa14f5978b75",
-        "a3ce70b635f7607a2fedf2935167e17f"
+        "a3ce70b635f7607a2fedf2935167e17f",
+        "296132a36412b314c3f9b07d48465147",
+        "370531053ca8c2948a54a34bc0201e76",
+        "ccb33798bbbef6a9dd825d56e34777b0"
       ],
-      "last_run": "2026-06-19T21:15:34Z",
-      "new_sub_topics_this_run": [],
+      "last_run": "2026-06-19T21:32:08Z",
+      "new_sub_topics_this_run": [
+        "CPython",
+        "Anthony",
+        "Cpython",
+        "Roadmap",
+        "Step"
+      ],
       "last_new_count": 3
     }
   },

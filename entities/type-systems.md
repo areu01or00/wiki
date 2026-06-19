@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-19** | [Type System – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem) | kw: Type, System, Programming, Research | src: type-systems
+- **2026-06-19** | [Types and Programming Languages | Carnegie Mellon University Computer Science Department](https://www.csd.cs.cmu.edu/course/15814/f26) | kw: Types, and, Programming, Languages | src: type-systems
+- **2026-06-19** | [Gleam Programming Language 2026: The Friendly Type-Safe ...](https://www.programming-helper.com/tech/gleam-programming-language-2026-type-safe-erlang-beam) | kw: Gleam, Programming, Language, The | src: type-systems
+- **2026-06-19** | [Programming Languages and Type Systems Research Papers ...](https://www.academia.edu/Documents/in/Programming_Languages_and_Type_Systems) | kw: Programming, Languages, and, Type | src: type-systems
 - **2026-06-19** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau, Type, System | src: type-systems
 - **2026-06-19** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type | src: type-systems
 - **2026-06-19** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual, Typing, as | src: type-systems
