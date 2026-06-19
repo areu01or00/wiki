@@ -231,7 +231,10 @@
         "Shift",
         "Rise",
         "Future",
-        "High-Performance"
+        "High-Performance",
+        "Roadmap",
+        "pdpspectra",
+        "Blocks:"
       ],
       "last_result_hashes": [
         "6a844cba5f4dbe6112de4dacb09bede6",
@@ -255,17 +258,13 @@
         "aaaf9550e5e27d5469ea0edd84372b77",
         "2f58466b4c76a307f213ca31f8c48185"
       ],
-      "last_run": "2026-06-19T02:02:45.500740+00:00",
+      "last_run": "2026-06-19T02:18:47.621716+00:00",
       "new_sub_topics_this_run": [
-        "The",
-        "Paradigm",
-        "Shift",
-        "The",
-        "Rise",
-        "Future",
-        "High-Performance"
+        "Roadmap",
+        "pdpspectra",
+        "Blocks:"
       ],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -522,7 +521,16 @@
         "Writing",
         "into",
         "Optimization",
-        "Revolution"
+        "Revolution",
+        "LLVM,",
+        "Interpreters:",
+        "Runs",
+        "Compilers,",
+        "Interpreters,",
+        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst",
+        "Just-In-Time",
+        "with",
+        "chekalexey"
       ],
       "last_result_hashes": [
         "d227f4df6f847a89365dbf3f0eeb8754",
@@ -546,18 +554,17 @@
         "1dbcadd29f914229e53e0a8239219ead",
         "d07f594fea667e043c421218ba0190f3"
       ],
-      "last_run": "2026-06-19T02:02:45.500740+00:00",
+      "last_run": "2026-06-19T02:18:47.621716+00:00",
       "new_sub_topics_this_run": [
-        "Open",
-        "Source",
-        "ORC",
-        "Linker",
-        "Model",
-        "Programming",
-        "Writing",
-        "into",
-        "into",
-        "Optimization"
+        "LLVM,",
+        "Interpreters:",
+        "Runs",
+        "Compilers,",
+        "Interpreters,",
+        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst",
+        "Just-In-Time",
+        "with",
+        "chekalexey"
       ],
       "last_new_count": 0
     },
@@ -785,7 +792,22 @@
         "Software",
         "Siek",
         "Type",
-        "Mechanics"
+        "Mechanics",
+        "Selection",
+        "Performance",
+        "Wenjia",
+        "Systems,",
+        "Typed",
+        "Confused:",
+        "Studying",
+        "Unexpected",
+        "(Siek)",
+        "Systems",
+        "Languages:",
+        "Static",
+        "Understanding",
+        "Languages",
+        "through"
       ],
       "last_result_hashes": [
         "36f436eb9462cfa9b86dca4c78e0a8b0",
@@ -809,18 +831,23 @@
         "796dd8fb9f6369a2e77f75139af26f3c",
         "4a101114e3b691c4671d64770c39c052"
       ],
-      "last_run": "2026-06-19T02:02:45.500740+00:00",
+      "last_run": "2026-06-19T02:18:47.621716+00:00",
       "new_sub_topics_this_run": [
-        "Navigating",
-        "the",
-        "Language",
-        "Landscape",
-        "for",
-        "Software",
-        "Siek",
-        "Type",
-        "The",
-        "Mechanics"
+        "Selection",
+        "Performance",
+        "Wenjia",
+        "Systems,",
+        "Typed",
+        "Confused:",
+        "Studying",
+        "Unexpected",
+        "(Siek)",
+        "Systems",
+        "Languages:",
+        "Static",
+        "Understanding",
+        "Languages",
+        "through"
       ],
       "last_new_count": 0
     },
@@ -1066,7 +1093,21 @@
         "mspandit",
         "Monadic",
         "through",
-        "property-based"
+        "property-based",
+        "2026:",
+        "Which",
+        "Languages",
+        "Should",
+        "Latest",
+        "News",
+        "(MON)",
+        "Support",
+        "Learned",
+        "Monads:",
+        "Omnipresent",
+        "Online",
+        "#83:",
+        "POPL"
       ],
       "last_result_hashes": [
         "b2375d50bba29259be46231d642063bd",
@@ -1090,16 +1131,24 @@
         "5f9a2da0c7c9a2e40ef2c12ee3862840",
         "d4a415d98430468b96961eb06875ee7b"
       ],
-      "last_run": "2026-06-19T02:02:45.500740+00:00",
+      "last_run": "2026-06-19T02:18:47.621716+00:00",
       "new_sub_topics_this_run": [
-        "fmaste",
-        "What",
-        "mspandit",
-        "Monadic",
-        "through",
-        "property-based"
+        "2026:",
+        "Which",
+        "Languages",
+        "Should",
+        "Latest",
+        "News",
+        "(MON)",
+        "Support",
+        "Learned",
+        "Monads:",
+        "Omnipresent",
+        "Online",
+        "#83:",
+        "POPL"
       ],
-      "last_new_count": 2
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1326,10 +1375,18 @@
         "for",
         "problemset",
         "The",
-        "TCS"
+        "TCS",
+        "Questions:",
+        "2026",
+        "World's",
+        "Programming",
+        "Company-Wise",
+        "(2026):",
+        "Practice",
+        "(LeetCode",
+        "Focus)"
       ],
       "last_result_hashes": [
-        "613405d33bcccb5f1977e25016e73fd2",
         "9a0ef217f59ab765babcd9263ae93310",
         "9c079bce41ba80e069e2d66cc02ed865",
         "34bd4f254d9118ad122844fcf0d16e7e",
@@ -1348,16 +1405,22 @@
         "cb771d1b262c915d29d009eda7c1c98e",
         "d3b8d082c2434924e142a67b3f2b0b02",
         "8e00f7d78d79009ecc1474da3255f3a8",
-        "143876bc0621660474126a01477b0355"
+        "143876bc0621660474126a01477b0355",
+        "31d5ee359dfc9303b0ae04e7776d19b4"
       ],
-      "last_run": "2026-06-19T02:02:45.500740+00:00",
+      "last_run": "2026-06-19T02:18:47.621716+00:00",
       "new_sub_topics_this_run": [
-        "The",
-        "The",
-        "TCS",
-        "The"
+        "Questions:",
+        "2026",
+        "World's",
+        "Programming",
+        "Company-Wise",
+        "(2026):",
+        "Practice",
+        "(LeetCode",
+        "Focus)"
       ],
-      "last_new_count": 0
+      "last_new_count": 1
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1578,7 +1641,15 @@
         "Under",
         "Works",
         "What",
-        "That"
+        "That",
+        "Controversy:",
+        "Parallelism",
+        "Remains",
+        "Python's",
+        "Explained:",
+        "State",
+        "2026",
+        "(And"
       ],
       "last_result_hashes": [
         "2b623ea4a3260e5ce9e59df5edc24035",
@@ -1602,13 +1673,16 @@
         "2084f8e9ae70d336d28c303d0a70faac",
         "238dd6ae5d2a4f3308b871fdae7cc7d8"
       ],
-      "last_run": "2026-06-19T02:02:45.500740+00:00",
+      "last_run": "2026-06-19T02:18:47.621716+00:00",
       "new_sub_topics_this_run": [
-        "Under",
-        "Works",
-        "Under",
-        "What",
-        "That"
+        "Controversy:",
+        "Parallelism",
+        "Remains",
+        "Python's",
+        "Explained:",
+        "State",
+        "2026",
+        "(And"
       ],
       "last_new_count": 0
     }

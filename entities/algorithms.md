@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-19** | [Top 100 Data Structure Interview Questions and Answers | DSA Interview Questions](https://www.javaguides.net/2026/04/top-100-data-structure-interview-questions-and-answers.html) | kw: Top,100,Data,Structure,Interview | src: algorithms
+
 
 - **2026-06-19** | [Data Structures and Algorithms in 2026: What Backend Developers Actually Need to Know and What AI Can (and Can't) Replace](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: Data,Structures,Algorithms,Backend | src: algorithms
 
