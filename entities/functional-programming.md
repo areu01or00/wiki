@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Slant - Haskell vs Rust detailed comparison as of 2026](https://www.slant.co/versus/1537/5522/~haskell_vs_rust) | kw: Slant
+
 - **2026-06-20** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What, Coming, for, Haskell | src: functional-programming <!-- h:a1fd2b9212d955769e6bbfad262f2fb9 -->
 - **2026-06-20** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, in, Haskell | src: functional-programming <!-- h:ce1296b7730544a3db978dc13e7a351f -->
 - **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, functional, programming, Wikipedia | src: functional-programming <!-- h:cb3451b58dc0de64c4abaf6248054b44 -->
