@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [10+ top LeetCode patterns (2026) to ace FAANG coding interviews](https://www.educative.io/blog/coding-interview-leetcode-patterns) | kw: 10+, top, LeetCode, patterns
+- **2026-06-20** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode, Patterns, Cheat, Sheet
+- **2026-06-20** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview, Questions
+- **2026-06-20** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: Leetcode, Patterns, Sean, Prashad
+
 - **2026-06-20** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap | src: algorithms <!-- h:3d68367858d3b3d28e078a46658e7b38 -->
 - **2026-06-20** | [50+ Data Structures and Algorithms Interview Questions for 2026 - upGrad](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers) | kw: Data, Structures, Algorithms, Interview | src: algorithms <!-- h:720136d7f7248931e10997bc994128a2 -->
 - **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start | Leon Staff](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: LeetCode, Study, Plan, Roadmap | src: algorithms <!-- h:9254439d994c8bfdda25e8291db6c296 -->

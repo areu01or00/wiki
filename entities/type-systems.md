@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual, Typing, Programming, Research
+
 - **2026-06-20** | [TypeScript 6.0 Advanced Type Features: What You Need to Know for 2026](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-advanced-type-features-what-you-need-to-know-for-2026-61f) | kw: TypeScript
 
 - **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: Gradual, Typing, Across, Spectrum | src: type-systems <!-- h:2b077fcefb9f16574c355c5cae07ce7d -->

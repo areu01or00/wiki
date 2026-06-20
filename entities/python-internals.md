@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL, Key, Backend
+- **2026-06-20** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory, Management
+
 - **2026-06-20** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: Future, Python, Internals, Exploring | src: python-internals <!-- h:9132d1ca01d195338d05eb556f7164be -->
 - **2026-06-20** | [Memory Management in Python 2026 – Best Practices for Efficient Code – PyInns](https://www.pyinns.com/python/efficient-code/memory-management-python-2026-efficient-code) | kw: Memory, Management, Python, Best | src: python-internals <!-- h:cdbc29f4deb816b0ab96a34060144824 -->
 

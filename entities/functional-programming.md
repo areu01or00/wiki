@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: Monad, HaskellWiki
+- **2026-06-20** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Monads, Online, Tutorials
+- **2026-06-20** | [Monad in higher - Rust - Docs.rs](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: Monad, higher, Rust, Docs.rs
+
 - **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad, Wikipedia, functional, programming | src: functional-programming <!-- h:ab1a401478bf91151df62818473f5ef5 -->
 - **2026-06-20** | [Understanding Monads in Functional Programming: A Comprehensive Guide – AlgoCademy Blog](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Understanding, Monads, Functional, Programming | src: functional-programming <!-- h:cb6f209024e888c772ad3108884b84ca -->
 - **2026-06-20** | [Monad Pattern in Functional Programming: A Comprehensive Guide](https://softwarepatternslexicon.com/functional-programming/essential-functional-programming-patterns/monad-pattern) | kw: Monad, Pattern, Functional, Programming | src: functional-programming <!-- h:95f00433357e5fa77350b4adaf76a522 -->

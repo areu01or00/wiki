@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 (chekalexey)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026, chekalexey
+- **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026/) | kw: Unlocking, Performance, Overlooked, Power
+
 - **2026-06-20** | [PyTorch Day India 2026 Building Effective Compilers for AI Programming Frameworks Uday Bondhugula - YouTube](https://www.youtube.com/watch?v=upzLl0mp74I) | kw: PyTorch Day India
 
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: RomanPikhotskiy/compiler-course-2026

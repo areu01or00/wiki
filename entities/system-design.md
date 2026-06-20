@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide, 2026
+- **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems, Patterns
+- **2026-06-20** | [Distributed Systems Best Practices | 2026](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Best, Practices
+- **2026-06-20** | [Microservices Architecture in 2026: Building Scalable Distributed Systems | S.C.G.A. Limited](https://scga.hk/blog/microservices-architecture-2026) | kw: Microservices, Architecture, 2026, Building
+
 - **2026-06-20** | [Caching Tech in 2026: Future-Proof Performance](https://appperformancelab.com/caching-tech-in-2026-future-proof-performance/) | kw: system-design
 
 - **2026-06-20** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions/) | kw: Future, High, Performance, Distributed | src: system-design <!-- h:928794215d9b3f52e22a0ace1e287d9a -->
