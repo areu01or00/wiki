@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-20** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company](https://www.dsaprep.dev/blog/company-wise-leetcode-questions/) | kw: company wise leetcode
+- **2026-06-20** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data structures interview
+- **2026-06-20** | [Data Structures Interview Questions & Answers (2026)](https://goliathprep.com/interview-questions/data-structures) | kw: data structures interview
+- **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: best dsa sheet
+- **2026-06-20** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: top data structure
+- **2026-06-20** | [Top 50 Data Structures Interview Questions 2026](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: top data structures
+- **2026-06-20** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data structures interview
+- **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital)](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: leetcode questions tcs
+
 - **2026-06-20** | [30 LeetCode Interview Questions for 2026](https://www.vervecopilot.com/hot-blogs/common-leetcode-questions) | kw: LeetCode Interview Questions 2026 | src: algorithms <!-- h:f6a7f08dde3951b5c035276081f6ee49 -->
 
 - **2026-06-20** | [Leetcode Brute Force to Optimal Ai: Complete Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-brute-force-to-optimal-ai-complete-guide-for-2026) | kw: Leetcode Brute Force to Optimal Ai: Complete Guide (2026) | ShadeCoder | src: algorithms <!-- h:84f2a91c9425354dcb3a063e977fad28 -->

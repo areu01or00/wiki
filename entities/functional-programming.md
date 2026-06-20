@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-20** | [Navigating the Wild World of Monads A Guide for Haskell Developers](https://moldstud.com/articles/p-navigating-the-wild-world-of-monads-a-guide-for-haskell-developers) | kw: navigating wild world
+- **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring FP](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: does rust support
+- **2026-06-20** | [Functional Programming Practical Guide: Immutability, Pure Functions, and Monads for Backend Developers](https://www.youngju.dev/blog/culture/2026-03-23-functional-programming-backend-developer-guide.en) | kw: functional programming practical
+- **2026-06-20** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: rust functional programming
+- **2026-06-20** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: haskell interlude popl
+- **2026-06-20** | [Functional programming: A collection of good Monad tutorials](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials/) | kw: functional programming collection
+- **2026-06-20** | [The Practical Value of Functional Programming — Monad, Haskell, Elixir, Erlang, Gleam, Effect-TS](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: practical value functional
+
 - **2026-06-20** | [Introduction - Monad Documentation](https://docs.monad.xyz/) | kw: Introduction - Monad Documentation <!-- h:a7ffb1808a2370da8a0bcc3f185738c3 -->
 - **2026-06-20** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic) | kw: monadic - Rust - Docs.rs <!-- h:f8e90a2f2f95996adc8ec28b50f11c2e -->
 - **2026-06-20** | [GitHub - thomascarter613/monad-workspace](https://github.com/thomascarter613/monad-workspace) | kw: GitHub - thomascarter613/monad-workspace <!-- h:00691856229c3450825bc47ce1e31341 -->

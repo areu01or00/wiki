@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+
+- **2026-06-20** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: top microservices architecture
+- **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering distributed systems
+- **2026-06-20** | [Architectural Patterns for 2026: The Full-Stack Developer's Guide | ObserveInfo](https://observeinfo.com/articles/software-engineering/architectural-patterns-for-the-2026-full-stack-landscape-a-definitive-guide) | kw: architectural patterns full
+- **2026-06-20** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: patterns distributed systems
+
 - **2026-06-20** | [AI System Architecture Explained](https://fulcrumdigital.com/glossary/ai-system-architecture) | kw: AI System Architecture Explained <!-- h:35c8bb13d9d0e62cd40016dae933ba94 -->
 
 - **2026-06-20** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns <!-- h:3d924683b109e99c93d7ba785e0c7ab0 -->

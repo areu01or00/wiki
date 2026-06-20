@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-20** | [TYPES 2026: TYPES 2026](https://types2026.cse.chalmers.se/) | kw: types types
+- **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: lua lua luajit
+- **2026-06-20** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating language labyrinth
+- **2026-06-20** | [Type-Based Gradual Typing Performance Optimization | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3632931) | kw: type based gradual
+- **2026-06-20** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating language landscape
+- **2026-06-20** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026) | kw: static vs dynamic
+- **2026-06-20** | [Wenjia Ye](https://yewenjia.github.io/) | kw: wenjia ye
+
 - **2026-06-20** | [Gradual Typing - Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/journal-of-functional-programming/collections/gradual-typing) | kw: Gradual Typing - Cambridge University Press & Assessment <!-- h:3a0aa8c19b47bfae2991e2cad4f680ae -->
 
 - **2026-06-20** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste <!-- h:b0b257ce43663e3177338e61f3e0e5f0 -->

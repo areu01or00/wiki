@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: unlocking performance overlooked
+- **2026-06-20** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: fosdem orcjit scale
+- **2026-06-20** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers modern language
+- **2026-06-20** | [Llvm Jit Compiler By C Lattner Et Al Integration](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: llvm jit compiler
+- **2026-06-20** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: ai compiler prompt
+
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at <!-- h:14bec6c679203be13206205a9edb80d7 -->
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at <!-- h:7ed9cf6296b93bcd1574511795e44641 -->
 - **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - <!-- h:23259200a7be4533fe1e25b8fdeb4b83 -->

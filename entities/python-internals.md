@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-20** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python gil key
+- **2026-06-20** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals memory
+- **2026-06-20** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: global interpreter lock
+- **2026-06-20** | [Memory Management and tracemalloc Improvements 2026](https://pyinns.com/python/advanced-python-features/memory-management-and-tracemalloc-improvements-2026) | kw: memory management tracemalloc
+- **2026-06-20** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: python gil actually
+- **2026-06-20** | [Python Memory Profiling and Optimization Techniques](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python memory profiling
+
 - **2026-06-20** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) - evidhya.com](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python - Python Internals: Memory Management & the Global In <!-- h:97c4f634d57ad054522f863fcf56b0e8 -->
 - **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI - Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: From Variables to No-GIL: Why Python Still Runs Modern AI -  <!-- h:2b623ea4a3260e5ce9e59df5edc24035 -->
 - **2026-06-20** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026? - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the Global Interpreter Lock (GIL) in Python? Is It G <!-- h:fcc88d976861ace535daa9f28bc2aec3 -->
