@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [TypeScript 6.0 Advanced Type Features: What You Need to Know for 2026](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-advanced-type-features-what-you-need-to-know-for-2026-61f) | kw: TypeScript
+
 - **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: Gradual, Typing, Across, Spectrum | src: type-systems <!-- h:2b077fcefb9f16574c355c5cae07ce7d -->
 - **2026-06-20** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: Gradual, Typing, Gradually, Typed | src: type-systems <!-- h:74d9db89389a5ff882bfd7bac5937d2c -->
 - **2026-06-20** | [Typed and Confused: Studying the Unexpected Dangers of Gradually Typed Code](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed, Confused, Studying, Unexpected | src: type-systems <!-- h:409ea50922e3f8306cf41784b666f355 -->
