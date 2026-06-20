@@ -2,6 +2,10 @@
 
 ## Updates
 
+- **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie | May, 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Internals
+- **2026-06-20** | [Mastering The Global Interpreter Lock (GIL) | Python ...](https://course4all.com/python/py-gil-internals) | kw: Python Internals
+- **2026-06-20** | [Beyond the Script: The Intelligent Evolution of Python Automation in 2026 - DEV Community](https://dev.to/codingmavrick/beyond-the-script-the-intelligent-evolution-of-python-automation-in-2026-5b6l) | kw: Python Internals
+
 - **2026-06-20** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python gil the
 - **2026-06-20** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: python memory management
 - **2026-06-20** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python python internals

@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: Type Systems
+- **2026-06-20** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: Type Systems
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Type Systems
+
 - **2026-06-20** | [Gradual Typing Bibliography - Papers We Love](https://paperswelove.org/papers/gradual-typing-bibliography-26b3ee6f) | kw: gradual typing bibliography - papers
 
 - **2026-06-20** | [gradual-typing – Programming Research Group (Tanabe, Tokyo Tech)](https://prg.is.titech.ac.jp/category/project/type/gradual-typing/) | kw: gradual-typing Programming Research Group Tanabe | src: type-systems <!-- h:0e9dcaf4af91dfc0bc8200900a97a80c -->

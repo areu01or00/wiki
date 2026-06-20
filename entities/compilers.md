@@ -2,6 +2,8 @@
 
 ## Updates
 
+- **2026-06-20** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: Compilers
+
 - **2026-06-20** | [IICT 2026 — India's Inclusive Computing Conference](https://compilertech.org/) | kw: iict india inclusive
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 llvm docs
 - **2026-06-20** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: ai-compiler prompt engineering

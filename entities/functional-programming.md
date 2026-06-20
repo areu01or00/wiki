@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Functional Programming
+- **2026-06-20** | [Monads, Functors, and Applicatives in Haskell: Mastering ...](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: Functional Programming
+
 - **2026-06-20** | [monadify - Rust - Docs.rs](https://docs.rs/monadify) | kw: monadify - rust - docs.rs
 - **2026-06-20** | [Using rust functional programming with monads | by Technocrat](https://medium.com/coderhack-com/using-rust-functional-programming-with-monads-0767b7b894d0) | kw: using rust functional programming with
 

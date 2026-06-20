@@ -2,6 +2,9 @@
 
 ## Updates
 
+- **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: Algorithms
+- **2026-06-20** | [Articles - LeetCode](https://leetcode.com/articles/?page=1&category=algorithms) | kw: Algorithms
+
 - **2026-06-20** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: data structures algorithms
 - **2026-06-20** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data structures interview
 - **2026-06-20** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data structures interview

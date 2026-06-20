@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Microservices Architecture in 2026: Building Scalable Distributed Systems | S.C.G.A. Limited](https://scga.hk/blog/microservices-architecture-2026) | kw: System Design
+
 - **2026-06-20** | [2026 Top Distributed Control System Trends You Should Know?](https://www.vogiplc.com/blog/top-distributed-control-system-trends-2026) | kw: 2026 top distributed control system
 
 - **2026-06-20** | [The Future of System Design: Emerging Patterns](https://systemdr.systemdrd.com/p/lesson-181-the-future-of-system-design) | kw: The Future System Design Emerging | src: system-design <!-- h:8dcc989656a7e890f53bb7210db5487c -->
