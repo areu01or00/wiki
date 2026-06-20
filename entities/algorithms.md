@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [30 LeetCode Interview Questions for 2026](https://www.vervecopilot.com/hot-blogs/common-leetcode-questions) | kw: LeetCode Interview Questions 2026 | src: algorithms <!-- h:f6a7f08dde3951b5c035276081f6ee49 -->
+
+- **2026-06-20** | [Leetcode Brute Force to Optimal Ai: Complete Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-brute-force-to-optimal-ai-complete-guide-for-2026) | kw: Leetcode Brute Force to Optimal Ai: Complete Guide (2026) | ShadeCoder | src: algorithms <!-- h:84f2a91c9425354dcb3a063e977fad28 -->
+
 - **2026-06-20** | [DSA Learning Roadmap: From Beginner to Expert (2026) | Coursera](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert (2026) | Cours <!-- h:70003797271dd8784c1ec6afe4d29be2 -->
 - **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-wise - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top 100 Data Structure and Algorithms DSA Interview Question <!-- h:cbe2e96e89f866f21a36d6ca8966d699 -->
 - **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 | To Crack Interviews - namastedev.com <!-- h:b374c779c101dd010d1f2ed0450afdee -->
