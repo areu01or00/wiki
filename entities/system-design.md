@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three, Bold, Predictions, for, Distributed | src: system-design <!-- h:2d3339fbcb04e9f626d884e03958e8d3 -->
+- **2026-06-20** | [Event-Driven Architecture Pattern: Brokers, Schemas, and Idempotent Consumers (2026)](https://appscale.blog/en/blog/microservices-pattern-event-driven-architecture-2026) | kw: Event, Driven, Architecture, Pattern, Brokers, | src: system-design <!-- h:819def563ddaf7904f8b8dacc40cb216 -->
+- **2026-06-20** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The, Complete, Guide, System, Design | src: system-design <!-- h:829e385d598e3022a5a9d9f416e9920c -->
+
 - **2026-06-20** | [Scalability Patterns Architecture Guide 2026 - ARDURA Consulting](https://ardura.consulting/blog/scalability-patterns-architecture-guide-2026) | kw: Scalability, Patterns, Architecture, 2026 | src: system-design <!-- h:21a9d6b044c19bf89dfa9198991bf6b7 -->
 - **2026-06-20** | [System Design Fundamentals — Scalability, Availability, Caching, and Message Queues (Chaos and Order)](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System Design Fundamentals | src: system-design <!-- h:690d590f2d4747105628c6a7fb5c1fcb -->
 

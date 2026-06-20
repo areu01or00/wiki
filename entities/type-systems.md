@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual, Typing, Programming, Research, Group | src: type-systems <!-- h:ca03c102ef488af0d2105b163fcd1748 -->
+- **2026-06-20** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding, Graduality, Programming, Languages, through | src: type-systems <!-- h:94aeeac4743ae8deb7aa5932ebfa086d -->
+- **2026-06-20** | [Luau Type System Complete Guide - Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau, Type, System, Complete, Guide | src: type-systems <!-- h:528908eec2d5bb9ce65ec10c8f48dbf0 -->
+- **2026-06-20** | [Advanced TypeScript Type System Features: Deep Dive into Internals and Use Cases](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features-deep-dive/) | kw: Advanced, TypeScript, Type, System, Features | src: type-systems <!-- h:1918d14b489b1bb7cf1f4423a7f9dad5 -->
+- **2026-06-20** | [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf) | kw: Abstracting, Gradual, Typing | src: type-systems <!-- h:d91941e34f98f8fa9db9f1187b488c3a -->
+- **2026-06-20** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: GitHub, kevle6, Gradual_Typing | src: type-systems <!-- h:87065c9439c433c819c4f5a68841256d -->
+
 - **2026-06-20** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual Typing | src: type-systems <!-- h:911955f45e693686bc5efe45c6135743 -->
 - **2026-06-20** | [Yudai Tanabe](https://yudaitnb.github.io/) | kw: Yudai Tanabe | src: type-systems <!-- h:8cefa1880d3e2bb56bcdb51f5f6f7d4b -->
 - **2026-06-20** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual Typing as if Types Mattered | src: type-systems <!-- h:deca5e7373216ca874ed5b7b942ce58a -->

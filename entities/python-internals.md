@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/%40Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What, the, Global, Interpreter, Lock | src: python-internals <!-- h:fae0c827c538cc7c63cc17aa7dde9c3c -->
+- **2026-06-20** | [Memory Management and tracemalloc Improvements 2026](https://pyinns.com/python/advanced-python-features/memory-management-and-tracemalloc-improvements-2026) | kw: Memory, Management, and, tracemalloc, Improvements | src: python-internals <!-- h:70a8b777d17a5cf7ab18fd8b5f4ac95d -->
+- **2026-06-20** | [Mastering The Global Interpreter Lock (GIL) - Python](https://course4all.com/python/py-gil-internals) | kw: Mastering, The, Global, Interpreter, Lock | src: python-internals <!-- h:30159cd2efb227b3d239e2a885e62796 -->
+- **2026-06-20** | [The Explosive Python Trends 2026](https://turbogeek.org/the-explosive-python-trends-2026-you-should-know) | kw: The, Explosive, Python, Trends, 2026 | src: python-internals <!-- h:1134ca37b70072426f0ca8c499a1f689 -->
+- **2026-06-20** | [Python's GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's, GIL, Gone, What, That | src: python-internals <!-- h:80cb1ee80342b3950bba93fd2801d04f -->
+
 - **2026-06-20** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter | src: python-internals <!-- h:5451f574f8ac7101d4076e3f903cf1d4 -->
 - **2026-06-20** | [Charting Python's Parallel Future: GIL to Multi-Core Harmony](https://python.plainenglish.io/charting-pythons-parallel-future-the-evolution-from-gil-to-multi-core-harmony-52a4bc4e53ff) | kw: Charting Python's Parallel Future: GIL to Multi | src: python-internals <!-- h:177841e7d744c6ead13c1f86bc83f753 -->
 - **2026-06-20** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management & GIL: Python Guide (2026) | src: python-internals <!-- h:9b950d80d24710f2899e1b281e96098e -->

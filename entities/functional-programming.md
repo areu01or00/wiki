@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [What is a Monad (in Rust)?](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: What, Monad, Rust | src: functional-programming <!-- h:96d48c0b70a5675d33ba9579d126e6e1 -->
+- **2026-06-20** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, and, Monad, Like, Patterns | src: functional-programming <!-- h:b82ed313e52a51037b2e80996b9a6a4d -->
+- **2026-06-20** | [haskell-monads-2026 README](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: haskell, monads, 2026, README | src: functional-programming <!-- h:5a1e9db826754c48b815993076e387f5 -->
+- **2026-06-20** | [Rust1.74 monad implementation](https://zenn.dev/hanao/articles/b16b7460e801f5) | kw: Rust1.74, monad, implementation | src: functional-programming <!-- h:63c2e3220f391a38535463b35cb2d64d -->
+- **2026-06-20** | [Understanding Monads](https://nickx.hu/Monads.pdf) | kw: Understanding, Monads | src: functional-programming <!-- h:4af39f91e4589be845cd7c39aff81216 -->
+
 - **2026-06-20** | [What is a monad? And who needs Haskell anyway? - Rust Forum](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: What is a monad? And who needs Haskell anyway? | src: functional-programming <!-- h:fa084d7ca168297914b3265540402b1d -->
 - **2026-06-20** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 | src: functional-programming <!-- h:ce28a60a12ee60735a41f5226ee34f7c -->
 - **2026-06-20** | [Rust: Haskell but more imperative? | Catalin's blog](https://catalin-tech.com/haskell-rust/) | kw: Rust: Haskell but more imperative? | src: functional-programming <!-- h:36f41d934d724056c8b848503ab8cee0 -->

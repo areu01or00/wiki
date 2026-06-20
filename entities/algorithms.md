@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data, Structures, Algorithms, Interview, Guide | src: algorithms <!-- h:a97aaa060bf3039beeb41e73ac20d73c -->
+- **2026-06-20** | [DSA Interview Questions and Answers [2026] Internshala Trainings](https://trainings.internshala.com/blog/dsa-interview-questions) | kw: DSA, Interview, Questions, and, Answers | src: algorithms <!-- h:03c79c8716250a3acef66ed66ae5c307 -->
+- **2026-06-20** | [Top 100 DSA Interview Questions - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Top, 100, DSA, Interview, Questions | src: algorithms <!-- h:c4e4411dcef6fba048eeb0713b613c90 -->
+- **2026-06-20** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: How, Prepare, for, Coding, Interview | src: algorithms <!-- h:8b5b54395f90524f33e015dd24e932fc -->
+- **2026-06-20** | [Best DSA Sheet 2026 - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet, 2026, namastedev.com | src: algorithms <!-- h:7109f334ec75b2ec4e9778a03dc44040 -->
+- **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: LeetCode, Study, Plan, Roadmap, for | src: algorithms <!-- h:218eacea9a74f050f45b97eccaff0bdd -->
+- **2026-06-20** | [Data Structures Interview Questions: The Complete 2026 Guide | PhantomCodeAI](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview, Questions, The | src: algorithms <!-- h:3739df902d0a15eaecfaff44ff2d20c8 -->
+- **2026-06-20** | [LeetCode 75 - Study Plan](https://leetcode.com/studyplan/leetcode-75/) | kw: LeetCode, Study, Plan | src: algorithms <!-- h:b18571e4608e7de25b591778b8ed9e9b -->
+
 - **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 | src: algorithms <!-- h:09ba1908ae63111d1e15e6d4bafc047c -->
 - **2026-06-20** | [Top 50 Data Structures Interview Questions 2026](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: Top 50 Data Structures Interview Questions 2026 | src: algorithms <!-- h:ba4b0cdbecfd0bb24b772e378610b88a -->
 - **2026-06-20** | [Interview Prep: Algorithm Patterns | SyntaxCache](https://www.syntaxcache.com/interview-prep) | kw: Interview Prep: Algorithm Patterns | src: algorithms <!-- h:8d2ee4fd79aa63ae35ba64533026932c -->
