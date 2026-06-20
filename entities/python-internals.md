@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI - Amin Mortezaie](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: From, Variables, No-GIL
+- **2026-06-20** | [Python Internals: Memory Management and the GIL - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory
+- **2026-06-20** | [Exploring Python: Internals and Optimization - Habibullah](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Python, Internals
+- **2026-06-20** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 - BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: Finally, Dead, Free-Threaded
+- **2026-06-20** | [Memory Management and GIL: Python Guide 2026 - Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory, Management, Python
+- **2026-06-20** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, Backend, Performance
+- **2026-06-20** | [How Python's GIL Actually Works And Why It Exists - miydevforge](https://miydevforge.com/blog/how-python-gil-works) | kw: Python, Actually, Works
+- **2026-06-20** | [Python Memory Profiling and Optimization Techniques - dasroot.net](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: Python, Memory, Profiling
+- **2026-06-20** | [Python's GIL Is Gone - What That Actually Means for Your Code - Meryem Sakin](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python, Gone, What
+
 - **2026-06-20** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: Python GIL: The Key to
 - **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie | May, 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: From Variables to No
 - **2026-06-20** | [Charting Python's Parallel Future: The Evolution from GIL to Multi-Core Harmony | by Sarang Shrivastava | Python in Plain English](https://python.plainenglish.io/charting-pythons-parallel-future-the-evolution-from-gil-to-multi-core-harmony-52a4bc4e53ff) | kw: Charting Python's Parallel Future: The

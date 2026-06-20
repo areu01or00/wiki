@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing - Programming Research Group (Tokyo Tech)](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual, Typing, Programming
+- **2026-06-20** | [Type Inference in C++ auto and decltype: A Practical 2026-Ready Guide](https://thelinuxcode.com/type-inference-in-c-auto-and-decltype-a-practical-2026ready-guide) | kw: Type, Inference, Practical
+- **2026-06-20** | [Luau Type System Complete Guide - Strict Mode, Generics and Type Functions for Safe Code 2026](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau, Type, System
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, Type
+- **2026-06-20** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: Type, Inference, Online
+- **2026-06-20** | [Gradual Typing with Inference (Jeremy Siek, FOOL 2008)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, Inference
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (Programming Journal 2026)](https://programming-journal.org/2026/11/3/) | kw: Efficient, Selection, Type
+- **2026-06-20** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: Guard, Analysis, Safe
+
 - **2026-06-20** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual typing
 - **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026] | Oflight Inc.](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations

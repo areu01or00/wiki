@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: Case, Compilers, Look
+- **2026-06-20** | [compiler-course-2026 llvm docs tutorial BuildingAJIT1 rst (RomanPikhotskiy)](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT1, RomanPikhotskiy
+- **2026-06-20** | [compiler-course-2026 llvm docs tutorial BuildingAJIT1 rst (chekalexey fork)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT1
+- **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-Based Binary Translation (2026)](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026/) | kw: Unlocking, Performance, Overlooked
+- **2026-06-20** | [Compilers and Modern Language Runtimes - LLVM JIT GC V8 TurboFan Maglev Inline Caching Escape Analysis Rust Monomorphization Complete Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
+- **2026-06-20** | [Just-In-Time JIT Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time, Compiler, LLVM
+- **2026-06-20** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet Deep Dive](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI-Compiler, Prompt, Engineering
+- **2026-06-20** | [ML Compiler Optimization Revolution Deep Dive 2026](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: Compiler, Optimization, Revolution
+- **2026-06-20** | [Llvm Jit Compiler By C Lattner Et Al Integration: Deploying Asynchronous Platform Frameworks](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: Llvm, Compiler, Lattner
+
 - **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost ...](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance: The Overlooked Power
 - **2026-06-20** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: The LLVM Compiler Framework and
 - **2026-06-20** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: Jeandle: How Ant Group's LLVM

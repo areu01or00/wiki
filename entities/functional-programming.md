@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What, Coming, Haskell
+- **2026-06-20** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell, Interlude, POPL
+- **2026-06-20** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust, Functional, Programming
+- **2026-06-20** | [haskell-monads-2026 README (NSU syspro course)](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: README
+- **2026-06-20** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Finest
+- **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce, Monads, and Syntactic Sugar](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support
+
 - **2026-06-20** | [Monad: effectful programming](https://www.cs.toronto.edu/~trebla/CSCC24-2026-Summer/06-monad.html) | kw: Monad: effectful programming
 
 - **2026-06-20** | [Haskell Popularity 2026 — Rankings, Trends & Data | LangPop | LangPop](https://langpop.com/language/haskell) | kw: Haskell Popularity 2026 — Rankings,
