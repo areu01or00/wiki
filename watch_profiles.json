@@ -128,9 +128,9 @@
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "d88d3de8f0e60fb55d23ee13a71ca225"
       ],
-      "last_run": "2026-06-20T05:32:17.554664+00:00",
+      "last_run": "2026-06-20T05:46:57.990703+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -263,7 +263,6 @@
         "TurboFan"
       ],
       "last_result_hashes": [
-        "f78394001da4161e4b403123d94dc18a",
         "d991c765e1b725ef7e94546d03150a3d",
         "ae427aaa277c67469832326760f5569f",
         "14bec6c679203be13206205a9edb80d7",
@@ -282,11 +281,12 @@
         "a18bd486739d593df61e9c5cd17b88c9",
         "dc5ada16f234dc184f112304b0917552",
         "9bc58ca32c64f0679e3b9a328f74f864",
-        "5052c4c7c1802a86a17645986867fac8"
+        "5052c4c7c1802a86a17645986867fac8",
+        "7906d6f056b21692ea1ec72b90535b36"
       ],
-      "last_run": "2026-06-20T05:32:17.554664+00:00",
+      "last_run": "2026-06-20T05:46:57.990729+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_new_count": 1
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -437,7 +437,7 @@
         "ed513f6e12395c8fbbf5e5415449aabd",
         "543697ac79673cc3f8f429709121926e"
       ],
-      "last_run": "2026-06-20T05:32:17.554664+00:00",
+      "last_run": "2026-06-20T05:46:57.990732+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -567,7 +567,6 @@
         "Comparing"
       ],
       "last_result_hashes": [
-        "66dc2a04dd92d35c8ac3a3bcdb826743",
         "68d06a421bcd63911f18ce6e0aef4d4e",
         "c69fcbae521ed60c7eb1f315e7985420",
         "c5bcaf01490daab7e999b17a95ee57ce",
@@ -586,13 +585,12 @@
         "cb3451b58dc0de64c4abaf6248054b44",
         "b563ffbf6c4669af7435b247e6cfa801",
         "f893f60a24ac37aeb075a0f0bd5137a0",
-        "fca19512c1eac566c8fa3680d0ddd9ca"
+        "fca19512c1eac566c8fa3680d0ddd9ca",
+        "777df84b7fce543f1339c26f88c0281d"
       ],
-      "last_run": "2026-06-20T05:32:17.554664+00:00",
-      "new_sub_topics_this_run": [
-        "Comparing"
-      ],
-      "last_new_count": 0
+      "last_run": "2026-06-20T05:46:57.990737+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -745,7 +743,7 @@
         "81d3f6ca00caa659b47d39e7b3373c33",
         "e7cb63adafd27fca3ead2584308babd3"
       ],
-      "last_run": "2026-06-20T05:32:17.554664+00:00",
+      "last_run": "2026-06-20T05:46:57.990740+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -877,7 +875,7 @@
         "3723dfa3f60cd99fa11d63a5fa09bc1f",
         "8e164b039e6be2f4d6dd92a0812ef837"
       ],
-      "last_run": "2026-06-20T05:32:17.554664+00:00",
+      "last_run": "2026-06-20T05:46:57.990742+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }

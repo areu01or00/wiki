@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [PyTorch Day India 2026 Building Effective Compilers for AI Programming Frameworks Uday Bondhugula - YouTube](https://www.youtube.com/watch?v=upzLl0mp74I) | kw: PyTorch Day India
+
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: RomanPikhotskiy/compiler-course-2026
 - **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: Case
 - **2026-06-20** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: FOSDEM

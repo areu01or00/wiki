@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monadic Design Patterns in Haskell: Mastering Functional ...](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns/) | kw: Monadic Design Patterns
+
 - **2026-06-20** | [Comparing Haskell and Rust: which to choose, when?](https://www.reddit.com/r/haskell/comments/47rjr4/comparing_haskell_and_rust_which_to__choose_when) | kw: Comparing, Haskell, Rust | src: functional-programming <!-- h:fca19512c1eac566c8fa3680d0ddd9ca -->
 
 - **2026-06-20** | [Functional Languages and the Future of Programming (Part 2)](https://www.lpi.org/blog/2026/04/16/functional-languages-and-the-future-of-programming-part-2) | kw: Functional, Languages, and, the, Future | src: functional-programming <!-- h:9d255162b33925c102c1a901da2b628d -->
