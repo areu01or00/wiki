@@ -141,9 +141,6 @@
         "Control"
       ],
       "last_result_hashes": [
-        "848a06554e3ca137e425aa0a6367b703",
-        "2ebbe3411f331c326ab1fd19aa4e50c7",
-        "f44e8f319a82e4326a1f822b5b40ca96",
         "2b816d0cf4bff7a093aa08f5c173a8c6",
         "056b14e78a14af65a4d0ae47a4e64443",
         "9ba46483364adb11b22fcfbd9fe2e4d2",
@@ -160,13 +157,16 @@
         "2eed777e217c8f707d96cab621255e90",
         "697337f881dc40cc977774b3475bbe3d",
         "3528b9948758aac21f359ad485b705dc",
-        "1540cdcd553b7007547862f5309a216c"
+        "1540cdcd553b7007547862f5309a216c",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "829e385d598e3022a5a9d9f416e9920c",
+        "2efe47add6349b1a23f9e1b4a923ec6b"
       ],
-      "last_run": "2026-06-20T14:17:54.531237+00:00",
+      "last_run": "2026-06-20T14:32:49.690418+00:00",
       "new_sub_topics_this_run": [
-        "The Coming Paradigm Shift in Distributed Systems A",
-        "Mastering Distributed Systems \u2014 Patterns & Princip",
-        "Microservices Architecture in 2026: Building Scala"
+        "System Design Guide 2026 - Scalable Architecture Patterns",
+        "The Complete Guide to System Design in 2026 AI-Native and Se",
+        "Microservices Design Patterns: The Comprehensive Architectur"
       ],
       "last_new_count": 3
     },
@@ -303,11 +303,6 @@
         "India"
       ],
       "last_result_hashes": [
-        "1657aad2b2fbd83fcc6da35e553ffedc",
-        "9d482abbbb1b21abc5e3e156e1fbb5ae",
-        "2d89afa2337ebd9cf3cbcf57dbcd88cb",
-        "6a73caa091d0418562a40c8b6bb799f7",
-        "9b9e5b41a1c52064d55b23f06ea84096",
         "ae427aaa277c67469832326760f5569f",
         "356653e96551f08a707c2ddada2fe1c8",
         "5cefefefe6afc297697ed1187181b6a1",
@@ -322,16 +317,22 @@
         "cd81edf8511034bfb061d67e42a19d20",
         "dde9e8d6fb49d441eb6cc93b5b9f79cb",
         "a888bd8966b306914c973b55ba7dd171",
-        "14bec6c679203be13206205a9edb80d7"
+        "14bec6c679203be13206205a9edb80d7",
+        "4a4e0127b12cfd2d476b5aaa44376f2d",
+        "b95764ca2c74180067ac35b548759bf5",
+        "8a1f8c2cee520617974852260bebfda5",
+        "da2a9627437ec27ab2a13b536f37cf45",
+        "191137fb0d9c6770341ad41eba235f6e"
       ],
-      "last_run": "2026-06-20T14:17:54.531268+00:00",
+      "last_run": "2026-06-20T14:32:49.690418+00:00",
       "new_sub_topics_this_run": [
-        "Building a JIT: Starting out with KaleidoscopeJIT ",
-        "Building a JIT: Starting out with KaleidoscopeJIT ",
-        "Unlocking Performance: The Overlooked Power of Low",
-        "Building a JIT Chapter 3 - Compile On Demand - 4el"
+        "The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22",
+        "FOSDEM 2026 - LLVM",
+        "GitHub - cloudsealed/JIT-Optimization-Engine: A high-perform",
+        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at",
+        "AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]"
       ],
-      "last_new_count": 4
+      "last_new_count": 5
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -470,9 +471,6 @@
         "Bibliography"
       ],
       "last_result_hashes": [
-        "94aeeac4743ae8deb7aa5932ebfa086d",
-        "6aa03ce14986ae5c0a51f1516fdffbbf",
-        "8152c0fa97986388894bbc6fe44824e4",
         "05e87cbef36cd8edbadc65c13cd2b4af",
         "3326193b269b65058b9975cd44e12d99",
         "90f64aa277dd75da77b910fbd4635b9b",
@@ -489,18 +487,18 @@
         "bca887779c4d30860ee265ce67393aa0",
         "0811ce20c14f7bb05ab80934bde08f60",
         "08183a095f9bb03fe7dd6ce06dfd5115",
-        "699052fef0d7089193408e88dc9df4dc"
+        "699052fef0d7089193408e88dc9df4dc",
+        "1053fa1e5d3c47835cc3a5ecc1a46c52",
+        "a62041fbd03c36044c10691af16fa6ad",
+        "e3bc0b0f77bacd576c2e474dc4a44101"
       ],
-      "last_run": "2026-06-20T14:17:54.531277+00:00",
+      "last_run": "2026-06-20T14:32:49.690418+00:00",
       "new_sub_topics_this_run": [
-        "Understanding Graduality in Programming Languages ",
-        "Putting Gradual Types to Work | Springer Nature Li",
-        "Luau Type System Complete Guide \u2014 Strict Mode, Gen",
-        "Efficient Selection of Type Annotations for Perfor",
-        "Gradual Typing as if Types Mattered - wgt20.irif.f",
-        "Type Inference Techniques: Implementation and Form"
+        "Efficient Selection of Type Annotations for Performance Impr",
+        "Gradual Typing with Unification-based Inference",
+        "100+ Type Inference Online Courses for 2026 | Explore Free ."
       ],
-      "last_new_count": 6
+      "last_new_count": 3
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -658,13 +656,6 @@
         "rust"
       ],
       "last_result_hashes": [
-        "cb3451b58dc0de64c4abaf6248054b44",
-        "ce1296b7730544a3db978dc13e7a351f",
-        "c6047005da4d854767b4d076fb31ae7c",
-        "cb6f209024e888c772ad3108884b84ca",
-        "6f9d2e02b2fed53a1c77c803ec5a0a67",
-        "c34a9a43ce0bf98274e9aee01383eea0",
-        "cb0988b824521ae86b947b975cb5618c",
         "88639568d7620593c2b895e44fe730fc",
         "17283951f47a445f957ceef8fc9879ed",
         "c52f5174ff9b2fb18fb776e711ed0486",
@@ -677,17 +668,24 @@
         "fdc8e2b82500b598dc73a35e40bb2f1e",
         "62ea2c4db66f0dbfd6bb8ead382dbd01",
         "8f5cea9e5197c247d1be3e7c458669a6",
-        "5aab28d7fbd337a8668d6cbda3b0a9c1"
+        "5aab28d7fbd337a8668d6cbda3b0a9c1",
+        "f893f60a24ac37aeb075a0f0bd5137a0",
+        "d36424ab85b4b13247d9175d80fbb9cb",
+        "c35700ff9f0773d69682721949231b06",
+        "79cd05ad2ea3b4a8f88864da5ba58578",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "687171a5db4daed91bdc3e6a4a3773a1",
+        "1e23347071bace94cd96516373fa7b4d"
       ],
-      "last_run": "2026-06-20T14:17:54.531285+00:00",
+      "last_run": "2026-06-20T14:32:49.690418+00:00",
       "new_sub_topics_this_run": [
-        "Monad (functional programming) - Wikipedia",
-        "Functional Programming in 2026: Haskell vs. Gleam ",
-        "Monads in Functional Programming: From Theory to P",
-        "Understanding Monads in Functional Programming: A ",
-        "Monad Pattern in Functional Programming: A Compreh",
-        "100+ Monads Online Courses for 2026 | Explore Free",
-        "How I Learned Monads: Not Through Haskell But Thro"
+        "monadify \u2014 Rust utility // Lib.rs",
+        "Monad in higher - Rust - Docs.rs",
+        "What is a Monad (in Rust)? - mspandit.github.io",
+        "Monads and Monad-Like Patterns in Rust: Exploring Functional",
+        "Functional Programming in 2026: Haskell vs. Gleam vs. Rust",
+        "Monadic Design Patterns in Haskell: Mastering Functional Pro",
+        "Functional Programming at Its Finest: Why Haskell Developers"
       ],
       "last_new_count": 7
     },
@@ -821,10 +819,6 @@
         "Save"
       ],
       "last_result_hashes": [
-        "2f67a4f4afe85a2a147f5c438c8fca58",
-        "09e78648fe1b6f874711fba28cec5d03",
-        "2fe576a66e0b7bdccce4868d8a390e7d",
-        "81d3f6ca00caa659b47d39e7b3373c33",
         "758e32a5ad74796e353ebdfbf6d56a41",
         "b374c779c101dd010d1f2ed0450afdee",
         "8e00f7d78d79009ecc1474da3255f3a8",
@@ -840,14 +834,20 @@
         "dba859e9113f969a0f84d759331953e7",
         "7d194ad3d9a4f9a87cd4de35548c005c",
         "80f05230168f8150741246bd2cb5ebae",
-        "9eb2405cea66e37fec5eb9134f0bbe5d"
+        "9eb2405cea66e37fec5eb9134f0bbe5d",
+        "53468a49e5858039fabcfee0555bf84f",
+        "5894846bbc35ac51fe21dc903bfddad3",
+        "f61441bcde60b26115170e1e7490c0a0",
+        "814ad50168aca7691bd4e6e042f0b36b"
       ],
-      "last_run": "2026-06-20T14:17:54.531292+00:00",
+      "last_run": "2026-06-20T14:32:49.690418+00:00",
       "new_sub_topics_this_run": [
-        "Top 100 Data Structure and Algorithms DSA Intervie",
-        "Leetcode Patterns - Sean Prashad"
+        "LeetCode Questions for TCS 2026: 50 Problems [Solved]",
+        "The Ultimate Guide to Top 150 LeetCode Problems",
+        "Top 50 Data Structures Interview Questions 2026",
+        "Data Structure I - LeetCode"
       ],
-      "last_new_count": 2
+      "last_new_count": 4
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -986,13 +986,6 @@
         "Understanding"
       ],
       "last_result_hashes": [
-        "279e30fbe443be336845f3bba851d7d0",
-        "70a8b777d17a5cf7ab18fd8b5f4ac95d",
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "23f806669425cddfbb81ceb3202ed519",
-        "dc7b027e8fc896866f12f318178c9fa9",
-        "ab9d55531022e776f8807f7babf228b0",
-        "8d6f1a2c4918a1b2b3c5b11ed6ebea8b",
         "adcbacb40a3cfd9f1103d1fa89e400bf",
         "beaef31893811bf93a7c49c5427531ec",
         "323f5522cd079b66f3b0b35a0bdb4235",
@@ -1005,18 +998,26 @@
         "5451f574f8ac7101d4076e3f903cf1d4",
         "e6a418c5f148d68a53fd286dcc17d453",
         "d312cb77ade078c8f1e9dac2e24a756b",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8"
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "0a974e52e4af3da11fa0449ca19924f5",
+        "e5de457dfb901c53485a52be22a77e07",
+        "9a16abe455aad8976504790293f8762a",
+        "9b950d80d24710f2899e1b281e96098e",
+        "993340ba10508d27975679f77e08cd57",
+        "195cc5355800be062c15e1a66ccfcacd",
+        "704da68a060e620278ad7620fdf6c8a8"
       ],
-      "last_run": "2026-06-20T14:17:54.531298+00:00",
+      "last_run": "2026-06-20T14:32:49.690418+00:00",
       "new_sub_topics_this_run": [
-        "From Variables to No-GIL: Why Python Still Runs Mo",
-        "Memory Management and tracemalloc Improvements 202",
-        "Python - Python Internals: Memory Management & the",
-        "The Future of Python Internals: Exploring GIL Remo",
-        "Python 3.14 Free-Threading and Experimental JIT: H",
-        "Python Memory Management"
+        "From Variables to No-GIL: Why Python Still Runs Modern AI",
+        "Python - Python Internals: Memory Management & the Global In",
+        "The GIL Is Finally Dead: Free-Threaded Python Is Production-",
+        "Memory Management & GIL: Python Guide (2026)",
+        "The Python GIL Controversy: Why Multi-Core Parallelism Remai",
+        "How Python's GIL Actually Works (And Why It Exists)",
+        "State of Python 2026 | The Dev Newsletter"
       ],
-      "last_new_count": 6
+      "last_new_count": 7
     }
   }
 }

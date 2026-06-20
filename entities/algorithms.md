@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: interview-prep
+- **2026-06-20** | [The Ultimate Guide to Top 150 LeetCode Problems](https://dev.to/soham0047/the-ultimate-guide-to-top-150-leetcode-problems-your-path-to-acing-technical-interviews-30h1) | kw: interview-prep
+- **2026-06-20** | [Top 50 Data Structures Interview Questions 2026](https://papersadda.com/article/data-structures-interview-questions-2026/) | kw: interview-prep
+- **2026-06-20** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: interview-prep
+
 - **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-Wise](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Questions Topic-Wise
 - **2026-06-20** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: Leetcode Patterns
 

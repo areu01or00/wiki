@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monads
+- **2026-06-20** | [Monad in higher - Rust - Docs.rs](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: monads
+- **2026-06-20** | [What is a Monad (in Rust)? - mspandit.github.io](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: monads
+- **2026-06-20** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monads
+- **2026-06-20** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Rust
+- **2026-06-20** | [Monadic Design Patterns in Haskell: Mastering Functional Programming](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: monads
+- **2026-06-20** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Haskell
+
 - **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: functional programming
 - **2026-06-20** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming
 - **2026-06-20** | [Monads in Functional Programming: From Theory to Practice | by Morteza Mirjavadi](https://medium.com/@mo.mirjavadi/monads-in-functional-programming-from-theory-to-practice-9f9f93c0bf51) | kw: Functional Programming

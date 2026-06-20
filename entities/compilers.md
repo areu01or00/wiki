@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: LLVM
+- **2026-06-20** | [FOSDEM 2026 - LLVM](https://fosdem.org/2026/schedule/track/llvm/) | kw: LLVM
+- **2026-06-20** | [GitHub - cloudsealed/JIT-Optimization-Engine: A high-performance execution engine utilizing LLVM-based JIT compilation](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: JIT
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: JIT
+- **2026-06-20** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: compilers
+
 - **2026-06-20** | [Building a JIT: Starting out with KaleidoscopeJIT - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: KaleidoscopeJIT chekalexey
 - **2026-06-20** | [Building a JIT: Starting out with KaleidoscopeJIT - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: KaleidoscopeJIT RomanPikhotskiy
 - **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance
