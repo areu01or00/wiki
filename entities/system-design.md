@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [2026 Top Distributed Control System Trends You Should Know?](https://www.vogiplc.com/blog/top-distributed-control-system-trends-2026) | kw: 2026 top distributed control system
+
 - **2026-06-20** | [The Future of System Design: Emerging Patterns](https://systemdr.systemdrd.com/p/lesson-181-the-future-of-system-design) | kw: The Future System Design Emerging | src: system-design <!-- h:8dcc989656a7e890f53bb7210db5487c -->
 - **2026-06-20** | [Emerging Tech Integration Patterns: Best Practices for Scalable Systems 2026](https://masketer.com/emerging-tech-integration-patterns-best-practices-for-scalable-systems-2026) | kw: Emerging Tech Integration Patterns Best | src: system-design <!-- h:1070f0a2060cf12a5911fb14f59b7ab8 -->
 

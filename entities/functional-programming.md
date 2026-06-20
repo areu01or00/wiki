@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [monadify - Rust - Docs.rs](https://docs.rs/monadify) | kw: monadify - rust - docs.rs
+- **2026-06-20** | [Using rust functional programming with monads | by Technocrat](https://medium.com/coderhack-com/using-rust-functional-programming-with-monads-0767b7b894d0) | kw: using rust functional programming with
+
 
 - **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: does rust support
 - **2026-06-20** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional programming its

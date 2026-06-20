@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing Bibliography - Papers We Love](https://paperswelove.org/papers/gradual-typing-bibliography-26b3ee6f) | kw: gradual typing bibliography - papers
+
 - **2026-06-20** | [gradual-typing – Programming Research Group (Tanabe, Tokyo Tech)](https://prg.is.titech.ac.jp/category/project/type/gradual-typing/) | kw: gradual-typing Programming Research Group Tanabe | src: type-systems <!-- h:0e9dcaf4af91dfc0bc8200900a97a80c -->
 
 
