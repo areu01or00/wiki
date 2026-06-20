@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [System Design Capacity Estimation Ai - Complete Guide 2026](https://articles.shadecoder.com/system-design-capacity-estimation-ai-complete-guide-for-2026) | kw: articles
+
 - **2026-06-20** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026 · Dev Note](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: Distributed
 - **2026-06-20** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System
 
