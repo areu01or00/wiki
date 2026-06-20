@@ -1,6 +1,7 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Type Inference in C++ (auto and decltype): A Practical, 2026-Ready Guide - TheLinuxCode](https://thelinuxcode.com/type-inference-in-c-auto-and-decltype-a-practical-2026ready-guide/) | kw: type | src: type-systems <!-- h:19900d16616abbbdef9f2f97bb309535 -->
 - **2026-06-20** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual, Typing, Programming, Research, Group | src: type-systems <!-- h:ca03c102ef488af0d2105b163fcd1748 -->
 - **2026-06-20** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding, Graduality, Programming, Languages, through | src: type-systems <!-- h:94aeeac4743ae8deb7aa5932ebfa086d -->
 - **2026-06-20** | [Luau Type System Complete Guide - Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau, Type, System, Complete, Guide | src: type-systems <!-- h:528908eec2d5bb9ce65ec10c8f48dbf0 -->
