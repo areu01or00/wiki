@@ -128,7 +128,7 @@
         "7c17643f234aa75cf0ffa2cbe542acf4",
         "46a56982536c8a4f9801b7d471165b39"
       ],
-      "last_run": "2026-06-20T04:31:38.004743+00:00",
+      "last_run": "2026-06-20T04:47:09.566052+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -284,7 +284,7 @@
         "40ed91546301e54bdd9b40a0b43a3dfa",
         "5d4ac715e54509da805ad5c64a5b6b9b"
       ],
-      "last_run": "2026-06-20T04:31:38.004743+00:00",
+      "last_run": "2026-06-20T04:47:09.566052+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -437,7 +437,7 @@
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "063c2f3eadaf2be7e059d09de8a540f4"
       ],
-      "last_run": "2026-06-20T04:31:38.004743+00:00",
+      "last_run": "2026-06-20T04:47:09.566052+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -566,7 +566,6 @@
         "detailed"
       ],
       "last_result_hashes": [
-        "c52f5174ff9b2fb18fb776e711ed0486",
         "c69fcbae521ed60c7eb1f315e7985420",
         "c5bcaf01490daab7e999b17a95ee57ce",
         "0b2120fa72343244679a593dacf13018",
@@ -585,14 +584,15 @@
         "b563ffbf6c4669af7435b247e6cfa801",
         "f893f60a24ac37aeb075a0f0bd5137a0",
         "babfc8c1c281aa94b9cb90de23588ea8",
-        "629a9b315f1dc302f82b5a9078500e8f"
+        "629a9b315f1dc302f82b5a9078500e8f",
+        "9d255162b33925c102c1a901da2b628d"
       ],
-      "last_run": "2026-06-20T04:31:38.004743+00:00",
+      "last_run": "2026-06-20T04:47:09.566052+00:00",
       "new_sub_topics_this_run": [
         "Slant",
         "detailed"
       ],
-      "last_new_count": 0
+      "last_new_count": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -714,10 +714,16 @@
         "Bridge",
         "Ninja,",
         "Digital)",
-        "Data-Structures-and-Algorithms---150-top-interview-questions"
+        "Data-Structures-and-Algorithms---150-top-interview-questions",
+        "Actually",
+        "Asking",
+        "Companies",
+        "Dead",
+        "Here",
+        "Senior",
+        "What"
       ],
       "last_result_hashes": [
-        "b374c779c101dd010d1f2ed0450afdee",
         "790a5d205d270e758b4525f2d41612d8",
         "c081d373fdb54070daade9a235858c9b",
         "f401f3578a305af873e8b580bcb2424e",
@@ -736,11 +742,20 @@
         "e7cb63adafd27fca3ead2584308babd3",
         "09191b710a89e39a177a7aea73cfb65b",
         "143876bc0621660474126a01477b0355",
-        "7d194ad3d9a4f9a87cd4de35548c005c"
+        "7d194ad3d9a4f9a87cd4de35548c005c",
+        "0d65b4b00d372ecb0b622c4e5cbd9937"
       ],
-      "last_run": "2026-06-20T04:31:38.004743+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T04:47:09.566052+00:00",
+      "new_sub_topics_this_run": [
+        "Actually",
+        "Asking",
+        "Companies",
+        "Dead",
+        "Here",
+        "Senior",
+        "What"
+      ],
+      "last_new_count": 1
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -870,10 +885,10 @@
         "4fc7a6bfd1b1687063ba38837fdacc91",
         "d2adce09b07afa8868adc1a5598d6db8"
       ],
-      "last_run": "2026-06-20T04:31:38.004743+00:00",
+      "last_run": "2026-06-20T04:47:09.566052+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
   },
-  "last_run": "2026-06-20T04:31:38.004743+00:00"
+  "last_run": "2026-06-20T04:47:09.566052+00:00"
 }

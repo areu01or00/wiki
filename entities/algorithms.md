@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [LeetCode Is Dead in 2026. Here's What Top Companies Are Actually Asking Senior Engineers Instead.](https://blog.stackademic.com/leetcode-is-dead-in-2026-heres-what-top-companies-are-actually-asking-senior-engineers-instead-9bccff4efd05) | kw: LeetCode, Is, Dead, in, 2026. | src: algorithms <!-- h:0d65b4b00d372ecb0b622c4e5cbd9937 -->
+
 - **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best
 - **2026-06-20** | [50+ Data Structures and Algorithms Interview Questions for 2026](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers) | kw: Data
 - **2026-06-20** | [Study Plan - LeetCode](https://leetcode.com/studyplan/) | kw: Study

@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Functional Languages and the Future of Programming (Part 2)](https://www.lpi.org/blog/2026/04/16/functional-languages-and-the-future-of-programming-part-2) | kw: Functional, Languages, and, the, Future | src: functional-programming <!-- h:9d255162b33925c102c1a901da2b628d -->
+
 - **2026-06-20** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads
 
 - **2026-06-20** | [Slant - Haskell vs Rust detailed comparison as of 2026](https://www.slant.co/versus/1537/5522/~haskell_vs_rust) | kw: Slant
