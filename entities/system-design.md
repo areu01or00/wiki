@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [The Future of System Design: Emerging Patterns](https://systemdr.systemdrd.com/p/lesson-181-the-future-of-system-design) | kw: The Future System Design Emerging | src: system-design <!-- h:8dcc989656a7e890f53bb7210db5487c -->
+- **2026-06-20** | [Emerging Tech Integration Patterns: Best Practices for Scalable Systems 2026](https://masketer.com/emerging-tech-integration-patterns-best-practices-for-scalable-systems-2026) | kw: Emerging Tech Integration Patterns Best | src: system-design <!-- h:1070f0a2060cf12a5911fb14f59b7ab8 -->
+
 
 - **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices architecture patterns
 - **2026-06-20** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system design guide

@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [gradual-typing – Programming Research Group (Tanabe, Tokyo Tech)](https://prg.is.titech.ac.jp/category/project/type/gradual-typing/) | kw: gradual-typing Programming Research Group Tanabe | src: type-systems <!-- h:0e9dcaf4af91dfc0bc8200900a97a80c -->
+
 
 - **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: gradual typing across
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient selection type
