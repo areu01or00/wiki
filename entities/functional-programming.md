@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, in, 2026, Haskell | src: functional-programming <!-- h:6ac17140976f4e3a7be22d2ec701d1ce -->
+- **2026-06-20** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which, Functional, Programming, Languages, Should | src: functional-programming <!-- h:c2fefc572a2578f6f202a147d877925b -->
+- **2026-06-20** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top, 22, Best, Functional, Programming | src: functional-programming <!-- h:1e6684e614686f1f3aea846011b1d7a4 -->
+- **2026-06-20** | [How I Learned Monads: Not Through Haskell But Through Rust](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: How, I, Learned, Monads, Not | src: functional-programming <!-- h:211de7a838e45b3dada18be8697b118d -->
+- **2026-06-20** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: Does, Rust, Support, Functional, Programming | src: functional-programming <!-- h:875e7957fd4974fda8df61e5e64c4b09 -->
+- **2026-06-20** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value, of, Functional | src: functional-programming <!-- h:da30b64fee43ee2a8a34587ebf26e0aa -->
+
 - **2026-06-20** | [What is a Monad (in Rust)?](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: What, Monad, Rust | src: functional-programming <!-- h:96d48c0b70a5675d33ba9579d126e6e1 -->
 - **2026-06-20** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads, and, Monad, Like, Patterns | src: functional-programming <!-- h:b82ed313e52a51037b2e80996b9a6a4d -->
 - **2026-06-20** | [haskell-monads-2026 README](https://github.com/nsu-syspro/haskell-monads-2026/blob/main/README.md) | kw: haskell, monads, 2026, README | src: functional-programming <!-- h:5a1e9db826754c48b815993076e387f5 -->

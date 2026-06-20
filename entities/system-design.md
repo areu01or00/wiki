@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: Latest, Trends, in, Distributed, Systems | src: system-design <!-- h:dffcbc8662b09cb0a5c2d9645a80041f -->
+- **2026-06-20** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: A, Guide, to, Large, Scale | src: system-design <!-- h:d7e4053d8359b5818b4128259533ab69 -->
+- **2026-06-20** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The, Complete, Guide, to, System | src: system-design <!-- h:3528b9948758aac21f359ad485b705dc -->
+- **2026-06-20** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The, Coming, Paradigm, Shift, in | src: system-design <!-- h:848a06554e3ca137e425aa0a6367b703 -->
+
 - **2026-06-20** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three, Bold, Predictions, for, Distributed | src: system-design <!-- h:2d3339fbcb04e9f626d884e03958e8d3 -->
 - **2026-06-20** | [Event-Driven Architecture Pattern: Brokers, Schemas, and Idempotent Consumers (2026)](https://appscale.blog/en/blog/microservices-pattern-event-driven-architecture-2026) | kw: Event, Driven, Architecture, Pattern, Brokers, | src: system-design <!-- h:819def563ddaf7904f8b8dacc40cb216 -->
 - **2026-06-20** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The, Complete, Guide, System, Design | src: system-design <!-- h:829e385d598e3022a5a9d9f416e9920c -->

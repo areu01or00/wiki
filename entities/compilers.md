@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst · RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1.rst, ·, RomanPikhotskiy | src: compilers <!-- h:800015733c0c238966be36a4173a3c93 -->
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst · chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1.rst, ·, chekalexey | src: compilers <!-- h:962769c38e6c0125c6155bb325bd030a -->
+- **2026-06-20** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern, Language, Runtimes | src: compilers <!-- h:7313dba9b029653c6c7d6581925ebbad -->
+- **2026-06-20** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A, Deep, Dive, into, LLVM | src: compilers <!-- h:6e76d5990761a54f756d319e37fddbb0 -->
+- **2026-06-20** | [How Jeandle Uses LLVM to Supercharge JVM Performance](https://www.besthub.dev/articles/how-jeandle-uses-llvm-to-supercharge-jvm-performance-f3d5c0e67f05) | kw: How, Jeandle, Uses, LLVM, to | src: compilers <!-- h:7731fb7ce05160d35b32be9432fa7936 -->
+
 - **2026-06-20** | [compiler-course-2026 BuildingAJIT1 chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026, BuildingAJIT1, chekalexey | src: compilers <!-- h:e21fd2a16cbec9e351690720f9fb35f2 -->
 - **2026-06-20** | [compiler-course-2026 BuildingAJIT1 RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026, BuildingAJIT1, RomanPikhotskiy | src: compilers <!-- h:e40c7ce8cbc9d7f2bb5615aa54b3d952 -->
 - **2026-06-20** | [GitHub - cloudsealed/JIT-Optimization-Engine](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: GitHub, cloudsealed, JIT, Optimization, Engine | src: compilers <!-- h:377ce017f59479cac444aa255f43f295 -->

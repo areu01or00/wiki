@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, the, 2026, Language, Landscape | src: type-systems <!-- h:515297cd90212e0cede68efcec1af7d9 -->
+- **2026-06-20** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed, and, Confused, Studying, the | src: type-systems <!-- h:bca887779c4d30860ee265ce67393aa0 -->
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, of, Type, Annotations | src: type-systems <!-- h:699052fef0d7089193408e88dc9df4dc -->
+
 - **2026-06-20** | [Type Inference in C++ (auto and decltype): A Practical, 2026-Ready Guide - TheLinuxCode](https://thelinuxcode.com/type-inference-in-c-auto-and-decltype-a-practical-2026ready-guide/) | kw: type | src: type-systems <!-- h:19900d16616abbbdef9f2f97bb309535 -->
 - **2026-06-20** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual, Typing, Programming, Research, Group | src: type-systems <!-- h:ca03c102ef488af0d2105b163fcd1748 -->
 - **2026-06-20** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: Understanding, Graduality, Programming, Languages, through | src: type-systems <!-- h:94aeeac4743ae8deb7aa5932ebfa086d -->

@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Leetcode Algorithm Coach Guide (2026)](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: Leetcode, Algorithm, Coach, Guide, (2026) | src: algorithms <!-- h:f401f3578a305af873e8b580bcb2424e -->
+- **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: LeetCode, Study, Plan, &, Roadmap | src: algorithms <!-- h:46a4037dd144e9b1f14507ca42f6f5b6 -->
+- **2026-06-20** | [Google latest Interview Experiences - LeetCode](https://leetcode.com/discuss/post/6469509/google-latest-interview-experiences-coll-r4zm/) | kw: Google, latest, Interview, Experiences, LeetCode | src: algorithms <!-- h:e2750b78fa16d1a40fc425ec13bdf7eb -->
+- **2026-06-20** | [Explore - LeetCode](https://leetcode.com/explore/interview/) | kw: Explore, LeetCode | src: algorithms <!-- h:eca83d83b7929373cb4d72addb6af516 -->
+- **2026-06-20** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company, Wise, LeetCode, Questions, (2026) | src: algorithms <!-- h:7e571cc4915b8f19020f0aebd3f76356 -->
+- **2026-06-20** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Coding, Interview, Prep, 2026, LeetCode | src: algorithms <!-- h:37b18b3ee5841dc8d78ef02edf927dc9 -->
+
 - **2026-06-20** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: Data, Structures, Algorithms, Interview, Guide | src: algorithms <!-- h:a97aaa060bf3039beeb41e73ac20d73c -->
 - **2026-06-20** | [DSA Interview Questions and Answers [2026] Internshala Trainings](https://trainings.internshala.com/blog/dsa-interview-questions) | kw: DSA, Interview, Questions, and, Answers | src: algorithms <!-- h:03c79c8716250a3acef66ed66ae5c307 -->
 - **2026-06-20** | [Top 100 DSA Interview Questions - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions) | kw: Top, 100, DSA, Interview, Questions | src: algorithms <!-- h:c4e4411dcef6fba048eeb0713b613c90 -->
