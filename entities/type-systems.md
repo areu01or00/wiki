@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Algebraic Effects for Functional Programming](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v2.pdf) | kw: Algebraic Effects for Functional Programming | src: type-systems
+- **2026-06-20** | [Effects and effect systems (reading) - research.tedneward.com](https://research.tedneward.com/langdev/effects/index.html) | kw: Effects and effect systems (reading) - | src: type-systems
+- **2026-06-20** | [Algebraic Effects: The Quiet Revolution in How Languages Handle Side Effects](https://daily.jovis.ai/programming-languages/algebraic-effects-the-quiet-revolution-in-how-languages-handle-side-effects) | kw: Algebraic Effects: The Quiet Revolution in | src: type-systems
+- **2026-06-20** | [Deploy Koka to Europe — Algebraic Effects on EU Hosting](https://sota.io/blog/deploy-koka-europe-eu-hosting) | kw: Deploy Koka to Europe — Algebraic | src: type-systems
+- **2026-06-20** | [Koka - Helloworldwiki.com](https://helloworldwiki.com/docs/koka) | kw: Koka - Helloworldwiki.com | src: type-systems
+
+- **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026] | Oflight Inc.](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide — | src: type-systems
+
 - **2026-06-20** | [Static analysis: ESLint, PHPStan, mypy — Architecture & Trade-offs](https://www.sachith.co.uk/static-analysis-eslint-phpstan-mypy-architecture-trade%E2%80%91offs-practical-guide-jun-19-2026/) | kw: Static, analysis:, ESLint, <!-- h:0df8da4f81f94fe446156f21e674f55a -->
 
 

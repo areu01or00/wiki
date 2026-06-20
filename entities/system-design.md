@@ -1,6 +1,19 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Microservices Architecture Market Report 2026](https://www.researchandmarkets.com/reports/5782748/microservices-architecture-market-report) | kw: Microservices Architecture Market Report 2026 | src: system-design
+- **2026-06-20** | [Microservices in 2026: What's Actually Changing (And Why You Should Care)](https://medium.com/%40kamlesh90/microservices-in-2026-whats-actually-changing-and-why-you-should-care-4725ebb626f6) | kw: Microservices in 2026: What's Actually Changing | src: system-design
+- **2026-06-20** | [Istio Service Mesh Production Deployment: Advanced Security Patterns and Performance Tuning for Enterprise Kubernetes in 2026](https://www.hostmycode.com/blog/istio-service-mesh-production-deployment-security-patterns-performance-tuning-enterprise-kubernetes-2026) | kw: Istio Service Mesh Production Deployment: Advanced | src: system-design
+- **2026-06-20** | [Service Mesh Production Guide: mTLS, Traffic Management, and Observability with Istio, Envoy, and Linkerd | Chaos and Order](https://www.youngju.dev/blog/architecture/2026-03-12-service-mesh-istio-envoy-linkerd-mtls-traffic-management.en) | kw: Service Mesh Production Guide: mTLS, Traffic | src: system-design
+- **2026-06-20** | [Event-Driven Architecture with Apache Kafka: Complete Guide · Dev Note](https://devstarsj.github.io/2026/02/17/event-driven-architecture-kafka-guide/) | kw: Event-Driven Architecture with Apache Kafka: Complete | src: system-design
+- **2026-06-20** | [Event-Driven Architecture with Kafka and Flink: Stream Processing Patterns for 2026 · Dev Note](https://devstarsj.github.io/2026/03/29/event-driven-architecture-kafka-flink-stream-processing-2026/) | kw: Event-Driven Architecture with Kafka and Flink: | src: system-design
+- **2026-06-20** | [Event-Driven Architecture in 2026: Kafka, Streaming SQL, and AI Agents](https://risingwave.com/blog/event-driven-architecture-2026/) | kw: Event-Driven Architecture in 2026: Kafka, Streaming | src: system-design
+- **2026-06-20** | [Event-Driven Architecture in 2026: Patterns, Tools, and When to Use It – Encore Cloud](https://encore.cloud/resources/event-driven-architecture) | kw: Event-Driven Architecture in 2026: Patterns, Tools, | src: system-design
+- **2026-06-20** | [Event-Driven Architecture (EDA): A Complete Introduction - Confluent](https://www.confluent.io/learn/event-driven-architecture) | kw: Event-Driven Architecture (EDA): A Complete Introduction | src: system-design
+- **2026-06-20** | [Conflict-Free Replicated Data Types: An Exhaustive Analysis](https://ijarcce.com/wp-content/uploads/2026/04/IJARCCE.2026.154145-conflict.pdf) | kw: Conflict-Free Replicated Data Types: An Exhaustive | src: system-design
+- **2026-06-20** | [Conflict-free replicated data type - Wikipedia](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) | kw: Conflict-free replicated data type - Wikipedia | src: system-design
+- **2026-06-20** | [CRDTs and Real-Time Collaboration: Building Conflict-Free Distributed Systems](https://zylos.ai/research/2026-01-29-crdt-real-time-collaboration/) | kw: CRDTs and Real-Time Collaboration: Building Conflict-Free | src: system-design
+
 - **2026-06-20** | [Scalable Backend Architecture Patterns in 2026](https://www.avidclan.com/blog/scalable-backend-architecture-patterns/) | kw: scalable backend architecture patterns in 2026 | source: system-design
 
 
