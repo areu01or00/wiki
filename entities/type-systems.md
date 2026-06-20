@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: gradual, typing, Programming, Research, Group | src: type-systems <!-- h:063c2f3eadaf2be7e059d09de8a540f4 -->
+- **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau, Type, System, Complete, Guide, Strict | src: type-systems <!-- h:8152c0fa97986388894bbc6fe44824e4 -->
+- **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: Lua, 2026, Why, Lua, 5.5, LuaJIT | src: type-systems <!-- h:1f3e7d1bf4955c674237c70349a25b1d -->
+- **2026-06-20** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, with, Inference, Jeremy, Siek | src: type-systems <!-- h:aa2f3be76632e120f0f252da09afe144 -->
+
 - **2026-06-20** | [Gradual Typing - Programming Research Group (Tokyo Tech)](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual, Typing, Programming
 - **2026-06-20** | [Type Inference in C++ auto and decltype: A Practical 2026-Ready Guide](https://thelinuxcode.com/type-inference-in-c-auto-and-decltype-a-practical-2026ready-guide) | kw: Type, Inference, Practical
 - **2026-06-20** | [Luau Type System Complete Guide - Strict Mode, Generics and Type Functions for Safe Code 2026](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau, Type, System

@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet, 2026, Crack, Interviews | src: algorithms <!-- h:b374c779c101dd010d1f2ed0450afdee -->
+- **2026-06-20** | [50+ Data Structures and Algorithms Interview Questions for 2026](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers) | kw: 50+, Data, Structures, and, Algorithms, Interview | src: algorithms <!-- h:790a5d205d270e758b4525f2d41612d8 -->
+- **2026-06-20** | [Data Structures and Algorithms for Coding Interview — Complete Python Resource - Samir Paul](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview/) | kw: Data, Structures, and, Algorithms, for, Coding | src: algorithms <!-- h:41e9158da22e47e3dcfa3e68b3ebf6d6 -->
+- **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital)](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode, Questions, for, TCS, 2026, Solved | src: algorithms <!-- h:dba859e9113f969a0f84d759331953e7 -->
+- **2026-06-20** | [LeetCode - Wikipedia](https://en.wikipedia.org/wiki/LeetCode) | kw: LeetCode, Wikipedia | src: algorithms <!-- h:9b1c781b75b9542b2127a9f5c4d86186 -->
+- **2026-06-20** | [Explore - LeetCode (Interview Crash Course)](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: Explore, LeetCode, (Interview, Crash, Course) | src: algorithms <!-- h:77f2b5d234efc72f32a29fd37fa3b6f3 -->
+- **2026-06-20** | [How to Prepare for LeetCode: A Complete Strategy Guide for 2026](https://www.easyresume.online/blog/leetcode-preparation-guide) | kw: How, Prepare, for, LeetCode, Complete, Strategy | src: algorithms <!-- h:143876bc0621660474126a01477b0355 -->
+
 - **2026-06-20** | [Best DSA Sheet 2026 - Namaste DSA Sheet](https://namastedev.com/namaste-dsa-sheet) | kw: Best, Sheet, Namaste
 - **2026-06-20** | [Data Structures and Algorithms for Coding Interview - Samir Paul](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview) | kw: Data, Structures, Algorithms
 - **2026-06-20** | [Company-Wise LeetCode Questions 2026: DSA Practice by Company](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company-Wise, LeetCode, Questions

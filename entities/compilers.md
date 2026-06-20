@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [A Low-Level Virtual Machine Just-In-Time Prototype for Running an Energy-Saving Hardware-Aware Mapping Algorithm on C/C++ Applications That Use Pthreads](https://www.mdpi.com/1996-1073/16/19/6781) | kw: Low, Level, Virtual, Machine, Just, Time | src: compilers <!-- h:93f4a8a6ac55b778b21dd4ef60469186 -->
+- **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation (2026)](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026/) | kw: Unlocking, Performance, The, Overlooked, Power, Low | src: compilers <!-- h:381d5a6bbb9293188ce2d8458890bd5a -->
+- **2026-06-20** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM, 2026, OrcJIT, Scale, with, the | src: compilers <!-- h:ae427aaa277c67469832326760f5569f -->
+- **2026-06-20** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev Deep Dive Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern, Language, Runtimes, LLVM | src: compilers <!-- h:f20f0af9799a232b737e2a27ea9e4104 -->
+- **2026-06-20** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: Compiler, Prompt, Engineering, 2026, Cheat, Sheet | src: compilers <!-- h:191137fb0d9c6770341ad41eba235f6e -->
+
 - **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: Case, Compilers, Look
 - **2026-06-20** | [compiler-course-2026 llvm docs tutorial BuildingAJIT1 rst (RomanPikhotskiy)](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT1, RomanPikhotskiy
 - **2026-06-20** | [compiler-course-2026 llvm docs tutorial BuildingAJIT1 rst (chekalexey fork)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: BuildingAJIT1

@@ -111,6 +111,10 @@
         "Around"
       ],
       "last_result_hashes": [
+        "056b14e78a14af65a4d0ae47a4e64443",
+        "f44e8f319a82e4326a1f822b5b40ca96",
+        "8282bc38c31cae78de009daeeac96471",
+        "0bccdfeceeee7664c4e61f75605f9f8f",
         "4a92b9accf7e00c9835483bf78a78624",
         "8c25bc0802723c73cacbe8661dc3e80f",
         "5be977a41617386923b3a8cd882f45f2",
@@ -126,24 +130,11 @@
         "a4f767c8d886ec8f2fab1999efc97283",
         "1540cdcd553b7007547862f5309a216c",
         "848a06554e3ca137e425aa0a6367b703",
-        "823c0b2b4f576789f890e0318d62cd26",
-        "7adb740512b7087138618dd825b4af4c",
-        "cc9f501d913062307aa4c19b3eba455e",
-        "6a8023ed8f6d80dc6383b03a803b7c26",
-        "9f2892b78135ae03661672111a8380a3"
+        "823c0b2b4f576789f890e0318d62cd26"
       ],
-      "last_run": "2026-06-20T09:03:20.779909+00:00",
-      "new_sub_topics_this_run": [
-        "Paradigm",
-        "Part",
-        "Load",
-        "Balancing",
-        "Wasil",
-        "Zafar",
-        "Computing",
-        "Infrastructure"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-20T09:17:09.191215+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 4
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -282,6 +273,11 @@
         "Programming"
       ],
       "last_result_hashes": [
+        "93f4a8a6ac55b778b21dd4ef60469186",
+        "381d5a6bbb9293188ce2d8458890bd5a",
+        "ae427aaa277c67469832326760f5569f",
+        "f20f0af9799a232b737e2a27ea9e4104",
+        "191137fb0d9c6770341ad41eba235f6e",
         "a888bd8966b306914c973b55ba7dd171",
         "7ed9cf6296b93bcd1574511795e44641",
         "a17409ab9dd49df56a7674658d3ba1e4",
@@ -296,23 +292,11 @@
         "5cefefefe6afc297697ed1187181b6a1",
         "87b2d3060a9e39d5aadea7b5b03037b2",
         "0a15046e9d1ec0b3562759ee9b1d6104",
-        "abf8e1d812ec68bce315815ca285f289",
-        "24657b350ee8f69a87ef1d3eead46fd6",
-        "ffdded296d0e112d5ca39e11e0db6346",
-        "7cc01119f54c99cc1fc657d2376dc4c4",
-        "f70b47370fdfd279d027eab12fc7ff60",
-        "4ff4ad5042b9047421ec840913e6bc9c"
+        "abf8e1d812ec68bce315815ca285f289"
       ],
-      "last_run": "2026-06-20T09:03:20.779909+00:00",
-      "new_sub_topics_this_run": [
-        "Lattner",
-        "Integration",
-        "Deploying",
-        "Asynchronous",
-        "Platform",
-        "Frameworks"
-      ],
-      "last_new_count": 9
+      "last_run": "2026-06-20T09:17:09.191215+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 5
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -451,6 +435,10 @@
         "NAVI"
       ],
       "last_result_hashes": [
+        "063c2f3eadaf2be7e059d09de8a540f4",
+        "8152c0fa97986388894bbc6fe44824e4",
+        "1f3e7d1bf4955c674237c70349a25b1d",
+        "aa2f3be76632e120f0f252da09afe144",
         "5ad8730c65f6f24319118be6a0a9593d",
         "afa6caf48502106583ac61c324295531",
         "b026ef92bf282c4d85de696983ed4a8c",
@@ -466,21 +454,11 @@
         "f9bac390acd3545993e18bd149c294b8",
         "42736cfe295bdff6a4292ee33180fd66",
         "9648d9185a3be9b3e6938953235a4471",
-        "0811ce20c14f7bb05ab80934bde08f60",
-        "7d43df11a787f4da1d8ba7253fb6f91f",
-        "deeb07d49858503b908c1b65074346e1",
-        "1a68a4a399ecdc3b51ca74fc835773e4",
-        "b0b257ce43663e3177338e61f3e0e5f0"
+        "0811ce20c14f7bb05ab80934bde08f60"
       ],
-      "last_run": "2026-06-20T09:03:20.779909+00:00",
-      "new_sub_topics_this_run": [
-        "Tech",
-        "Practical",
-        "Ready",
-        "FOOL",
-        "Journal"
-      ],
-      "last_new_count": 8
+      "last_run": "2026-06-20T09:17:09.191215+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 4
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -617,6 +595,11 @@
         "effectful"
       ],
       "last_result_hashes": [
+        "f53501654019cdf5d1c7d9679518b660",
+        "c35700ff9f0773d69682721949231b06",
+        "687171a5db4daed91bdc3e6a4a3773a1",
+        "c34a9a43ce0bf98274e9aee01383eea0",
+        "eb46484b28b25f2899a565ab07b24a90",
         "9e468f427c81adba063b45d72c784552",
         "8f5cea9e5197c247d1be3e7c458669a6",
         "d36424ab85b4b13247d9175d80fbb9cb",
@@ -631,22 +614,11 @@
         "ce1296b7730544a3db978dc13e7a351f",
         "556d9932d7619ca94f497fe35f383acc",
         "c52f5174ff9b2fb18fb776e711ed0486",
-        "a1fd2b9212d955769e6bbfad262f2fb9",
-        "ce28a60a12ee60735a41f5226ee34f7c",
-        "c012a57fa63492860f64045db3528e7a",
-        "c3e5a050947d651252f39d500a7fe3e9",
-        "1e23347071bace94cd96516373fa7b4d",
-        "9faa7cf534e52ea65424258c0c6c7995"
+        "a1fd2b9212d955769e6bbfad262f2fb9"
       ],
-      "last_run": "2026-06-20T09:03:20.779909+00:00",
-      "new_sub_topics_this_run": [
-        "README",
-        "Filter",
-        "Reduce",
-        "Syntactic",
-        "Sugar"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-20T09:17:09.191215+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 5
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -785,6 +757,13 @@
         "Coach"
       ],
       "last_result_hashes": [
+        "b374c779c101dd010d1f2ed0450afdee",
+        "790a5d205d270e758b4525f2d41612d8",
+        "41e9158da22e47e3dcfa3e68b3ebf6d6",
+        "dba859e9113f969a0f84d759331953e7",
+        "9b1c781b75b9542b2127a9f5c4d86186",
+        "77f2b5d234efc72f32a29fd37fa3b6f3",
+        "143876bc0621660474126a01477b0355",
         "09e78648fe1b6f874711fba28cec5d03",
         "8ec4ac28253c4f016997232629004129",
         "8e00f7d78d79009ecc1474da3255f3a8",
@@ -797,25 +776,11 @@
         "a6e47e2acc5ef8eb5219f265bbe0e541",
         "b904d28a0ee85bcb13a0cf74b522d262",
         "ba19b4240a469c3c9c16e9400bc5cdf2",
-        "4ec9197562ed29f30fe8327d7b5b0f53",
-        "9f31d4322b7d6a1406495f1a88005825",
-        "3a31990cc2967913858edf952a41ed98",
-        "536a77ead5ae86f8bc682787ed186bbe",
-        "23d2706d5336a91bcfa8b97b4618b79b",
-        "56a7ad12f88abe5793684fe5ce4a009e",
-        "322a7f81fb4d3f2b511845445653f333",
-        "da5797f6918091bef630e2b801c861cd"
+        "4ec9197562ed29f30fe8327d7b5b0f53"
       ],
-      "last_run": "2026-06-20T09:03:20.779909+00:00",
-      "new_sub_topics_this_run": [
-        "Namaste",
-        "Samir",
-        "Paul",
-        "Crash",
-        "Course",
-        "Nostrobe"
-      ],
-      "last_new_count": 8
+      "last_run": "2026-06-20T09:17:09.191215+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 7
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -929,6 +894,9 @@
         "Evolution"
       ],
       "last_result_hashes": [
+        "23f806669425cddfbb81ceb3202ed519",
+        "993340ba10508d27975679f77e08cd57",
+        "704da68a060e620278ad7620fdf6c8a8",
         "68175a2892a66724f669a8669b9ae03d",
         "323f5522cd079b66f3b0b35a0bdb4235",
         "bbb32fcf844e3a281c102e49f682c4c8",
@@ -945,21 +913,11 @@
         "169bf54a9770f57d9b83dc707fac0053",
         "59b8ef2b26eb329e0931d31d180ddecf",
         "537b11ba74a1ff01421810cff8de62f6",
-        "9df3859b4715ae95cd2f1c86331d9b55",
-        "b47b3a01081439bb2dc225ba4342a350",
-        "987be4b4e32f235de1ef0bbe9c28344d",
-        "48d62cb422e645f5561f09172b280c66"
+        "9df3859b4715ae95cd2f1c86331d9b55"
       ],
-      "last_run": "2026-06-20T09:03:20.779909+00:00",
-      "new_sub_topics_this_run": [
-        "Habibullah",
-        "Edugators",
-        "Gone",
-        "Means",
-        "Code",
-        "Meryem"
-      ],
-      "last_new_count": 9
+      "last_run": "2026-06-20T09:17:09.191215+00:00",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 3
     }
   }
 }

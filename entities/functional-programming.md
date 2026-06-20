@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust.](https://github.com/wrsturgeon/rsmonad) | kw: GitHub, wrsturgeon/rsmonad, Haskell, style, monads, Rust. | src: functional-programming <!-- h:f53501654019cdf5d1c7d9679518b660 -->
+- **2026-06-20** | [What is a Monad (in Rust)? - mspandit.github.io](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: What, Monad, (in, Rust)?, mspandit.github.io | src: functional-programming <!-- h:c35700ff9f0773d69682721949231b06 -->
+- **2026-06-20** | [Monadic Design Patterns in Haskell: Mastering Functional Programming](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: Monadic, Design, Patterns, Haskell, Mastering, Functional | src: functional-programming <!-- h:687171a5db4daed91bdc3e6a4a3773a1 -->
+- **2026-06-20** | [100+ Monads Online Courses for 2026 | Explore Free Courses](https://www.classcentral.com/subject/monads) | kw: 100+, Monads, Online, Courses, for, 2026 | src: functional-programming <!-- h:c34a9a43ce0bf98274e9aee01383eea0 -->
+- **2026-06-20** | [Example 604: Monad Laws | Functional Rust - hightechmind.io](https://hightechmind.io/rust/604-monad-laws-rust.html) | kw: Example, 604, Monad, Laws, Functional, Rust | src: functional-programming <!-- h:eb46484b28b25f2899a565ab07b24a90 -->
+
 - **2026-06-20** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What, Coming, Haskell
 - **2026-06-20** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell, Interlude, POPL
 - **2026-06-20** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust, Functional, Programming

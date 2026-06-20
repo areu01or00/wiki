@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series, Part, Load, Balancing | src: system-design <!-- h:056b14e78a14af65a4d0ae47a4e64443 -->
+- **2026-06-20** | [Microservices Architecture in 2026: Building Scalable Distributed Systems](https://scga.hk/blog/microservices-architecture-2026) | kw: Microservices, Architecture, 2026, Building, Scalable, Distributed | src: system-design <!-- h:f44e8f319a82e4326a1f822b5b40ca96 -->
+- **2026-06-20** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns, Distributed, Systems, Complete, Roadmap, Chanh | src: system-design <!-- h:8282bc38c31cae78de009daeeac96471 -->
+- **2026-06-20** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap, (2026), The, Design | src: system-design <!-- h:0bccdfeceeee7664c4e61f75605f9f8f -->
+
 - **2026-06-20** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Coming, Paradigm, Shift
 - **2026-06-20** | [Emerging Backend Architectures for 2026: Microservices, Serverless and Beyond](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
 - **2026-06-20** | [Patterns of Distributed Systems - research.tedneward.com](https://research.tedneward.com/patterns/patterns-of-distributed-systems/index.html) | kw: Patterns, Distributed, Systems
