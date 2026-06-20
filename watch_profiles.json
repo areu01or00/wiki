@@ -128,9 +128,9 @@
         "7c17643f234aa75cf0ffa2cbe542acf4",
         "46a56982536c8a4f9801b7d471165b39"
       ],
-      "last_run": "2026-06-20T04:16:58.819588+00:00",
+      "last_run": "2026-06-20T04:31:38.004743+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 2
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -284,9 +284,9 @@
         "40ed91546301e54bdd9b40a0b43a3dfa",
         "5d4ac715e54509da805ad5c64a5b6b9b"
       ],
-      "last_run": "2026-06-20T04:16:58.819588+00:00",
+      "last_run": "2026-06-20T04:31:38.004743+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 4
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -437,9 +437,9 @@
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "063c2f3eadaf2be7e059d09de8a540f4"
       ],
-      "last_run": "2026-06-20T04:16:58.819588+00:00",
+      "last_run": "2026-06-20T04:31:38.004743+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 4
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -587,12 +587,12 @@
         "babfc8c1c281aa94b9cb90de23588ea8",
         "629a9b315f1dc302f82b5a9078500e8f"
       ],
-      "last_run": "2026-06-20T04:16:58.819588+00:00",
+      "last_run": "2026-06-20T04:31:38.004743+00:00",
       "new_sub_topics_this_run": [
         "Slant",
         "detailed"
       ],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -738,9 +738,9 @@
         "143876bc0621660474126a01477b0355",
         "7d194ad3d9a4f9a87cd4de35548c005c"
       ],
-      "last_run": "2026-06-20T04:16:58.819588+00:00",
+      "last_run": "2026-06-20T04:31:38.004743+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 3
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -870,10 +870,10 @@
         "4fc7a6bfd1b1687063ba38837fdacc91",
         "d2adce09b07afa8868adc1a5598d6db8"
       ],
-      "last_run": "2026-06-20T04:16:58.819588+00:00",
+      "last_run": "2026-06-20T04:31:38.004743+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 3
+      "last_new_count": 0
     }
   },
-  "last_run": "2026-06-20T04:16:58.819588+00:00"
+  "last_run": "2026-06-20T04:31:38.004743+00:00"
 }
