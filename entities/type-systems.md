@@ -2,6 +2,7 @@
 
 ## Updates
 
+
 - **2026-06-20** | [TYPES 2026: TYPES 2026](https://types2026.cse.chalmers.se/) | kw: types types
 - **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: lua lua luajit
 - **2026-06-20** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating language labyrinth

@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [PHP Development Roadmap for 2025-2026 [EN] - pythonlib.ru](https://pythonlib.ru/en/news-post222) | kw: php development roadmap for 20252026 en | source: compilers
+
 
 - **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: unlocking performance overlooked
 - **2026-06-20** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: fosdem orcjit scale

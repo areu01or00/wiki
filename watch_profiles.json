@@ -101,6 +101,7 @@
         "Design:"
       ],
       "last_result_hashes": [
+        "a5dcdaaef1205612f536945b935c61ef",
         "5aeac4fa30fb41ccddd5bdbec41ec241",
         "2ebbe3411f331c326ab1fd19aa4e50c7",
         "91b00ecfea79e1d8bece12530872ecb5",
@@ -119,12 +120,11 @@
         "000e636c2d8f8b023001384d271bfa7a",
         "4141d7871c6b9a533346e695683501e0",
         "1e83fdc72243b5726a989c382dc84834",
-        "c2090654c40b5f8e5dc32b6d20e9dd28",
-        "3d924683b109e99c93d7ba785e0c7ab0"
+        "c2090654c40b5f8e5dc32b6d20e9dd28"
       ],
-      "last_run": "2026-06-20T01:16:47.900883+00:00",
+      "last_run": "2026-06-20T01:31:48.035939+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 4
+      "last_new_count": 1
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -256,6 +256,7 @@
         "Clang,"
       ],
       "last_result_hashes": [
+        "90a9bcd57bd020714e08f6dff378edee",
         "2d89afa2337ebd9cf3cbcf57dbcd88cb",
         "d1fd932d1da3adfb0dbab8bdc1cf0621",
         "a87049c9d8b0b6a7f00801dbca0b2dd2",
@@ -274,12 +275,11 @@
         "7731fb7ce05160d35b32be9432fa7936",
         "ff02eb627048f44026baa08415f219be",
         "14bec6c679203be13206205a9edb80d7",
-        "7ed9cf6296b93bcd1574511795e44641",
-        "23259200a7be4533fe1e25b8fdeb4b83"
+        "7ed9cf6296b93bcd1574511795e44641"
       ],
-      "last_run": "2026-06-20T01:16:47.900883+00:00",
+      "last_run": "2026-06-20T01:31:48.035939+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 5
+      "last_new_count": 1
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -399,6 +399,7 @@
         "Courses"
       ],
       "last_result_hashes": [
+        "74b19b648d53dde780ea4965bec66550",
         "d45e5d8bb59e83de2d5bd88d21810f4d",
         "1f3e7d1bf4955c674237c70349a25b1d",
         "086347cd58071894c217e208bc64efd7",
@@ -417,12 +418,11 @@
         "92a50716d512d793eb55712187c18082",
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "8152c0fa97986388894bbc6fe44824e4",
-        "960c3757b01a3b5c2b782f876f59a49d",
-        "a3bff6024fbb28890c700733eef813fa"
+        "960c3757b01a3b5c2b782f876f59a49d"
       ],
-      "last_run": "2026-06-20T01:16:47.900883+00:00",
+      "last_run": "2026-06-20T01:31:48.035939+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 7
+      "last_new_count": 1
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -539,6 +539,7 @@
         "Rust:"
       ],
       "last_result_hashes": [
+        "d800850521317a94fd44566ae0ee0ff7",
         "6926ed07b1df52bf3ddf90dccc9ef907",
         "5715cf3ad7b77712fa71d2f949c23c8a",
         "af76e2365f103001efa3def3c69d4762",
@@ -557,12 +558,11 @@
         "94a26269fce6d4cab82e390dea71cd77",
         "cb3451b58dc0de64c4abaf6248054b44",
         "4f7a842eeb604f03987bc224b057dd16",
-        "db55c5f8a382a763783d9f6ef00abc6b",
-        "507d0954b1c28a4ea253d1bfcfbd1b35"
+        "db55c5f8a382a763783d9f6ef00abc6b"
       ],
-      "last_run": "2026-06-20T01:16:47.900883+00:00",
+      "last_run": "2026-06-20T01:31:48.035939+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 7
+      "last_new_count": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -707,9 +707,9 @@
         "619765371b40d8325fc698e3f4c28b31",
         "888d0e656c2e183468b5d77aef8771c2"
       ],
-      "last_run": "2026-06-20T01:16:47.900883+00:00",
+      "last_run": "2026-06-20T01:31:48.035939+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 8
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -839,10 +839,10 @@
         "cc1169f3086a93320da59573f7fa5861",
         "beaef31893811bf93a7c49c5427531ec"
       ],
-      "last_run": "2026-06-20T01:16:47.900883+00:00",
+      "last_run": "2026-06-20T01:31:48.035939+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_new_count": 0
     }
   },
-  "last_run": "2026-06-20T01:16:47.900883+00:00"
+  "last_run": "2026-06-20T01:31:48.035939+00:00"
 }

@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Scalable Backend Architecture Patterns in 2026](https://www.avidclan.com/blog/scalable-backend-architecture-patterns/) | kw: scalable backend architecture patterns in 2026 | source: system-design
+
 
 - **2026-06-20** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: top microservices architecture
 - **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering distributed systems

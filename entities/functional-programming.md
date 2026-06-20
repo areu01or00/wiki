@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Introduction - Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/introduction.html) | kw: introduction learn you a haskell for | source: functional-programming
+
 
 - **2026-06-20** | [Navigating the Wild World of Monads A Guide for Haskell Developers](https://moldstud.com/articles/p-navigating-the-wild-world-of-monads-a-guide-for-haskell-developers) | kw: navigating wild world
 - **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring FP](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: does rust support
