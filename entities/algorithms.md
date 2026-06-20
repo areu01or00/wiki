@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-20** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: 100+ Data Structure | src: algorithms
+- **2026-06-20** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: Top 100+ Data | src: algorithms
+- **2026-06-20** | [Data structures and algorithms study cheatsheets | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: Data structures and | src: algorithms
+- **2026-06-20** | [LeetCode 75 - Study Plan - LeetCode](https://leetcode.com/studyplan/leetcode-75/) | kw: LeetCode 75 - | src: algorithms
+- **2026-06-20** | [LeetCode Interview Crash Course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode Interview Crash | src: algorithms
+
 - **2026-06-19** | [DSA Roadmap 2026 — Complete Data Structures & Algorithms Learning Path](https://www.datastructures.in/roadmap) | kw: DSA Roadmap 2026 — Complete Data Structures & Algo | src: algorithms
 - **2026-06-19** | [DSA Full Roadmap 2026 – Complete Beginner to Advanced Guide](https://mcawaala.blogspot.com/2026/02/dsa-full-roadmap-2026.html) | kw: DSA Full Roadmap 2026 – Complete Beginner to Advan | src: algorithms
 

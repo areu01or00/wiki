@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-20** | [Comparison of Monad vs Other L1s: Sui, Solana, Ethereum](https://nftevening.com/monad-sui-solana-ethereum-comparision) | kw: Comparison of Monad | src: functional-programming
+- **2026-06-20** | [Rust vs. Haskell: A performance comparison - LogRocket Blog](https://blog.logrocket.com/rust-vs-haskell-performance-comparison) | kw: Rust vs. Haskell: | src: functional-programming
+- **2026-06-20** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: Monads are Omnipresent | src: functional-programming
+- **2026-06-20** | [nsu-syspro/haskell-monads-2026 - GitHub](https://github.com/nsu-syspro/haskell-monads-2026) | kw: nsu-syspro/haskell-monads-2026 - GitHub | src: functional-programming
+
 - **2026-06-19** | [Functional programming: A collection of good Monad tutorials | alvinalexander.com](https://alvinalexander.com/programming/functional-programming-collection-good-monad-tutorials) | kw: monad
 - **2026-06-19** | [100+ Monads Online Courses for 2026 | Class Central](https://www.classcentral.com/subject/monads) | kw: monad
 - **2026-06-19** | [Does Rust Support Functional Programming Idioms? Exploring...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: rust

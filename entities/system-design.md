@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+
+- **2026-06-20** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: 9 Essential Software | src: system-design
+- **2026-06-20** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026 · Dev Note](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: Distributed Systems Patterns | src: system-design
+- **2026-06-20** | [Top Strategic Technology Trends for 2026 | Gartner](https://www.gartner.com/en/articles/top-technology-trends-2026) | kw: Top Strategic Technology | src: system-design
+
 - **2026-06-19** | [Microservices Architecture in 2026: Building Scalable Distributed Systems | S.C.G.A. Limited](https://scga.hk/blog/microservices-architecture-2026) | kw: distributed
 - **2026-06-19** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: system design
 - **2026-06-19** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: distributed
