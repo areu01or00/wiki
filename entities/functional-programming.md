@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Introduction - Monad Documentation](https://docs.monad.xyz/) | kw: Introduction - Monad Documentation <!-- h:a7ffb1808a2370da8a0bcc3f185738c3 -->
+- **2026-06-20** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic) | kw: monadic - Rust - Docs.rs <!-- h:f8e90a2f2f95996adc8ec28b50f11c2e -->
+- **2026-06-20** | [GitHub - thomascarter613/monad-workspace](https://github.com/thomascarter613/monad-workspace) | kw: GitHub - thomascarter613/monad-workspace <!-- h:00691856229c3450825bc47ce1e31341 -->
+- **2026-06-20** | [Monad in higher - Rust - Docs.rs](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: Monad in higher - Rust - Docs.rs <!-- h:d36424ab85b4b13247d9175d80fbb9cb -->
+- **2026-06-20** | [Rust1.74で追加された機能を使ってモナドを作ってみる](https://zenn.dev/hanao/articles/b16b7460e801f5) | kw: Rust1.74で追加された機能を使ってモナドを作ってみる <!-- h:bec6f32daed5631dab09749d5785b4c1 -->
+- **2026-06-20** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming Idioms](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads and Monad-Like Patterns in Rust: Exploring Functional <!-- h:9c4b7750a193dd041dd58a9eb8cb4dba -->
+
 
 - **2026-06-20** | [Comparison of Monad vs Other L1s: Sui, Solana, Ethereum](https://nftevening.com/monad-sui-solana-ethereum-comparision) | kw: Comparison of Monad | src: functional-programming
 - **2026-06-20** | [Rust vs. Haskell: A performance comparison - LogRocket Blog](https://blog.logrocket.com/rust-vs-haskell-performance-comparison) | kw: Rust vs. Haskell: | src: functional-programming

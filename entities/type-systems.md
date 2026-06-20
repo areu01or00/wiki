@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste <!-- h:b0b257ce43663e3177338e61f3e0e5f0 -->
+- **2026-06-20** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types to Work - NSF Public Access <!-- h:393c2007828b49d14ae2ce8a8bf61873 -->
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations for Performance Impr <!-- h:1053fa1e5d3c47835cc3a5ecc1a46c52 -->
+- **2026-06-20** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: The Ins and Outs of Gradual Type Inference - microsoft.com <!-- h:be83423834c67b8671ef6f7b00eeb6c9 -->
+- **2026-06-20** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: 100+ Type Inference Online Courses for 2026 <!-- h:7d43df11a787f4da1d8ba7253fb6f91f -->
+
 
 - **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: Gradual Typing Across | src: type-systems
 - **2026-06-20** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual typing - | src: type-systems

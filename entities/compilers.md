@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at <!-- h:14bec6c679203be13206205a9edb80d7 -->
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at <!-- h:7ed9cf6296b93bcd1574511795e44641 -->
+- **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - <!-- h:23259200a7be4533fe1e25b8fdeb4b83 -->
+- **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-Based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026/) | kw: Unlocking Performance: The Overlooked Power of Low-Cost Regi <!-- h:054f17e540892e8dff7acd0b0a5df58f -->
+- **2026-06-20** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 T <!-- h:a888bd8966b306914c973b55ba7dd171 -->
+- **2026-06-20** | [LLVM Weekly - a weekly newsletter covering developments in LLVM, Clang, and related projects.](https://llvmweekly.org/) | kw: LLVM Weekly - a weekly newsletter covering developments in L <!-- h:26231438aaf762433b4e5f30c55f0fbd -->
+- **2026-06-20** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: ML Compiler Optimization Revolution [Deep Dive] [2026] <!-- h:c988d203ffb86a252a80be5c9dbd7a13 -->
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst <!-- h:044f00f22ade99878d29e43ef426c83d -->
+
 
 - **2026-06-20** | [EuroLLVM 2026 - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.org/devmtg/2026-04/slides/quick_talk/quick_talk_hames.pdf) | kw: EuroLLVM 2026 - | src: compilers
 - **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The Case For | src: compilers

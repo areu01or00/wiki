@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns <!-- h:3d924683b109e99c93d7ba785e0c7ab0 -->
+- **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns in 2026: Mastering Distr <!-- h:e9d45130824f67775300df37d0b653d5 -->
+- **2026-06-20** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed System Design: the complete guide to building sc <!-- h:aaaf9550e5e27d5469ea0edd84372b77 -->
+- **2026-06-20** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed Systems Patterns 2026 | pdpspectra <!-- h:25a06ccbe831fcae1efa398fc18b067e -->
+
 
 - **2026-06-20** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: 9 Essential Software | src: system-design
 - **2026-06-20** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026 · Dev Note](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: Distributed Systems Patterns | src: system-design

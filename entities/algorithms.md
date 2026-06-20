@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [DSA Learning Roadmap: From Beginner to Expert (2026) | Coursera](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert (2026) | Cours <!-- h:70003797271dd8784c1ec6afe4d29be2 -->
+- **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-wise - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top 100 Data Structure and Algorithms DSA Interview Question <!-- h:cbe2e96e89f866f21a36d6ca8966d699 -->
+- **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 | To Crack Interviews - namastedev.com <!-- h:b374c779c101dd010d1f2ed0450afdee -->
+- **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Solving](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start <!-- h:be21d60d447cbc0341aec2a2028b4763 -->
+- **2026-06-20** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode - The World's Leading Programming Learning Platform <!-- h:8900f36a48596850ee5ba84a247a6c1d -->
+- **2026-06-20** | [Study Plan - LeetCode](https://leetcode.com/studyplan/) | kw: Study Plan - LeetCode <!-- h:c081d373fdb54070daade9a235858c9b -->
+- **2026-06-20** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company | DSA Prep](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company-Wise LeetCode Questions (2026): DSA Practice by Comp <!-- h:419ddc9c61219c419523d8e37695e627 -->
+- **2026-06-20** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path - The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026 - Complete Learnin <!-- h:f83191caf93fd71587d6850265965b3b -->
+- **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital)](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ni <!-- h:dba859e9113f969a0f84d759331953e7 -->
+
 
 - **2026-06-20** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: 100+ Data Structure | src: algorithms
 - **2026-06-20** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: Top 100+ Data | src: algorithms

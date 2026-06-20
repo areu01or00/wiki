@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) - evidhya.com](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python - Python Internals: Memory Management & the Global In <!-- h:97c4f634d57ad054522f863fcf56b0e8 -->
+- **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI - Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: From Variables to No-GIL: Why Python Still Runs Modern AI -  <!-- h:2b623ea4a3260e5ce9e59df5edc24035 -->
+- **2026-06-20** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026? - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the Global Interpreter Lock (GIL) in Python? Is It G <!-- h:fcc88d976861ace535daa9f28bc2aec3 -->
+- **2026-06-20** | [Exploring Python: Internals and Optimization - Hashnode](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring Python: Internals and Optimization - Hashnode <!-- h:54f6a5262044647265550db28eb4de3f -->
+- **2026-06-20** | [How Python's GIL Actually Works (And Why It Exists) - miydevforge](https://miydevforge.com/blog/how-python-gil-works) | kw: How Python's GIL Actually Works (And Why It Exists) - miydev <!-- h:2abbee82f484b493c8c88fee77060e1c -->
+
 
 - **2026-06-20** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: Python GIL: The | src: python-internals
 - **2026-06-20** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is | src: python-internals
