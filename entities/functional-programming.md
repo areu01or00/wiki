@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef | Technology, Development & Creative Tech Insights](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional, programming, haskell | src: functional-programming <!-- h:88639568d7620593c2b895e44fe730fc -->
+- **2026-06-20** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional, programming, its | src: functional-programming <!-- h:ff8e7aa82463ab8acd416101b1a2e680 -->
+- **2026-06-20** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: practical, uses, monads | src: functional-programming <!-- h:a3493ff266b17fc6ca7d44bed6e59213 -->
+- **2026-06-20** | [Rust: Functional Programming & Monads | by Technocrat ...](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: rust, functional, programming | src: functional-programming <!-- h:c5bcaf01490daab7e999b17a95ee57ce -->
+
 - **2026-06-20** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads, tutorial, monday <!-- h:fdc8e2b82500b598dc73a35e40bb2f1e -->
 - **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: does, rust, support <!-- h:81f416bda62e20437250860785d5442e -->
 

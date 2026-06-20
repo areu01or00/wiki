@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: essential, software, architecture | src: system-design <!-- h:4141d7871c6b9a533346e695683501e0 -->
+- **2026-06-20** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: top, microservices, architecture | src: system-design <!-- h:5aeac4fa30fb41ccddd5bdbec41ec241 -->
+- **2026-06-20** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: emerging, backend, architectures | src: system-design <!-- h:a3c1c2b6d55ff083812e1ea086382dbd -->
+- **2026-06-20** | [Patterns of Distributed Systems - research.tedneward.com](https://research.tedneward.com/patterns/patterns-of-distributed-systems/index.html) | kw: patterns, distributed, systems | src: system-design <!-- h:7adb740512b7087138618dd825b4af4c -->
+- **2026-06-20** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed, systems, best | src: system-design <!-- h:9ba46483364adb11b22fcfbd9fe2e4d2 -->
+
 - **2026-06-20** | [System Design for Beginners — Online Course by NeetCode](https://courseflix.net/course/system-design-for-beginners) | kw: system, design, beginners <!-- h:d1616fa45d6220456f797072d4e5fff6 -->
 - **2026-06-20** | [Courses - Grokking System Design](https://www.systemdesigninterview.com/courses) | kw: courses, grokking, system <!-- h:0c80fa137c949cbb65c50fdcdff13aa5 -->
 - **2026-06-20** | [Neetcode System Design // Dylan Reid](https://www.dylanreid.io/neetcode-system-design) | kw: neetcode, system, design <!-- h:393de40048616c6377cc8cea3286fad5 -->

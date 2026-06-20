@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [Llvm Jit Compiler By C Lattner Et Al Integration: Deploying Edge-Based Platform Frameworks](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: llvm, jit, compiler | src: compilers <!-- h:95d039a87ff19238e99d0f66eb8fce0e -->
+- **2026-06-20** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet/) | kw: compiler, prompt, engineering | src: compilers <!-- h:a18bd486739d593df61e9c5cd17b88c9 -->
+- **2026-06-20** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: llvm, compiler, framework | src: compilers <!-- h:dc5ada16f234dc184f112304b0917552 -->
+- **2026-06-20** | [Copy-and-Patch JIT: Achieving Native Code Performance with Microsecond Compilation | Blog | Cognica](https://www.cognica.io/en/blog/posts/2026-01-17-copy-and-patch-jit) | kw: copy, patch, jit | src: compilers <!-- h:9bc58ca32c64f0679e3b9a328f74f864 -->
+- **2026-06-20** | [twinBASIC Update: June 16, 2026](https://nolongerset.com/twinbasic-update-june-16-2026) | kw: twinbasic, update, june | src: compilers <!-- h:5052c4c7c1802a86a17645986867fac8 -->
+
 - **2026-06-20** | [compiler-course-2026 BuildingAJIT1.rst (chekalexey fork)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, buildingajit1.rst, chekalexey <!-- h:9fde30c1f0557bcd13dfe21dac234e66 -->
 - **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-Based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: unlocking, performance, overlooked <!-- h:d37278b17b3f3d3a42bf217f0d3e56d5 -->
 

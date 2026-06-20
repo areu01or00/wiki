@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [What is the Global Interpreter Lock (GIL) in Python? Is It ...](https://medium.com/%40Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: what, global, interpreter | src: python-internals <!-- h:c48d2b318765bfab803a1920ef306d0a -->
+- **2026-06-20** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, python, internals | src: python-internals <!-- h:b52883f4c09c9a3086481dd582e2ea6d -->
+- **2026-06-20** | [Python Memory Profiling and Optimization Techniques · Technical news about AI, coding and all](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python, memory, profiling | src: python-internals <!-- h:30acb9043f9aa743b106860fc18c3038 -->
+- **2026-06-20** | [How Python's GIL Actually Works (And Why It Exists)](https://miydevforge.com/blog/how-python-gil-works) | kw: how, python, gil | src: python-internals <!-- h:195cc5355800be062c15e1a66ccfcacd -->
+- **2026-06-20** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: how, python, memory | src: python-internals <!-- h:407bd0317abbabf6be9ed20442246de1 -->
+
 - **2026-06-20** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, internals, memory <!-- h:999e699e6e78d8e383158b10f1c950f8 -->
 - **2026-06-20** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: python, memory, management <!-- h:1c9e34c438b893768685d5e9b0743087 -->
 - **2026-06-20** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: python's, explained, hidden <!-- h:7d7462b15a5b202849cc8e6a4ee62adf -->

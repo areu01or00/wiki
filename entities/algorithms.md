@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-wise - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise) | kw: top, data, structure | src: algorithms <!-- h:52c1044b93ed63a1b4151d6cb3b11cda -->
+- **2026-06-20** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: data, structure | src: algorithms <!-- h:9bae7c320eaa49023b76088f638f22f3 -->
+- **2026-06-20** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: top, data, structure | src: algorithms <!-- h:c09d949fed12685831ee37a2c49ed7b3 -->
+- **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: leetcode, questions, tcs | src: algorithms <!-- h:7e9fdd8c2ffc71a23e29276c3701990a -->
+- **2026-06-20** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: data, structures, algorithms | src: algorithms <!-- h:81d3f6ca00caa659b47d39e7b3373c33 -->
+
 - **2026-06-20** | [Leetcode Algorithm Coach Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: leetcode, algorithm, coach <!-- h:8e00f7d78d79009ecc1474da3255f3a8 -->
 - **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: data, structure, algorithms <!-- h:a56066fd0e506b025c869a0404bf41b2 -->
 - **2026-06-20** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: leetcode, world's, leading <!-- h:3a5aa4dc7a08cf53617d8bc45fcdd95d -->

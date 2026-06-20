@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [100+ Type Inference Online Courses for 2026 | Explore Free ...](https://www.classcentral.com/subject/type-inference) | kw: type, inference, online | src: type-systems <!-- h:e3bc0b0f77bacd576c2e474dc4a44101 -->
+- **2026-06-20** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/en/category/project/type/gradual-typing) | kw: gradual, typing | src: type-systems <!-- h:109f52ff787be91e620cda3aadd96642 -->
+- **2026-06-20** | [Gradual Typing - Language Design and Implementation | ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual, typing, language | src: type-systems <!-- h:f333bd41608e9168a9593cda75a5d292 -->
+- **2026-06-20** | [ Yudai Tanabe ](https://yudaitnb.github.io/) | kw: yudai, tanabe | src: type-systems <!-- h:5ad8730c65f6f24319118be6a0a9593d -->
+- **2026-06-20** | [Abstracting Gradual Typing (AGT) - emergentmind.com](https://www.emergentmind.com/topics/abstracting-gradual-typing-agt) | kw: abstracting, gradual, typing | src: type-systems <!-- h:afa6caf48502106583ac61c324295531 -->
+- **2026-06-20** | [Gradual Typing Performance, Micro Configurations and Macro ...](https://dl.acm.org/doi/10.1007/978-3-031-64626-3_15) | kw: gradual, typing, performance | src: type-systems <!-- h:965070f6e46b3017c571f2fc9b607539 -->
+- **2026-06-20** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN ...](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: staged, gradual, typing | src: type-systems <!-- h:a933f47a5feedf4f43c8b83a958ffe76 -->
+- **2026-06-20** | [Is Sound Gradual Typing Dead? - Northeastern University](https://www2.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf) | kw: sound, gradual, typing | src: type-systems <!-- h:ad9caf830a9309ad31b06074ca3dfc8a -->
+
 - **2026-06-20** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: gradual, typing, programming <!-- h:b026ef92bf282c4d85de696983ed4a8c -->
 - **2026-06-20** | [Gradual Typing with Unification-based Inference (Siek)](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: gradual, typing, with <!-- h:9302e97e7d8a54df8d01b2d4273fb984 -->
 - **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: luau, type, system <!-- h:8152c0fa97986388894bbc6fe44824e4 -->
