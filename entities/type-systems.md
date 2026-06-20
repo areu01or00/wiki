@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [The Evolution of Trust: Gradual and Dependent Typing in the Pursuit of Software Reliability](https://uplatz.com/blog/the-evolution-of-trust-gradual-and-dependent-typing-in-the-pursuit-of-software-reliability) | kw: Evolution | src: type-systems <!-- h:ff00bec947b28402bebdfb806bddc150 -->
+
 
 - **2026-06-20** | [Gradual Typing with Unification-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: gradual typing
 - **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now | BirJob](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: luau

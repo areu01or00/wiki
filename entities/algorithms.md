@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Leetcode Revision Tool: Complete Guide (2026) | ShadeCoder](https://articles.shadecoder.com/leetcode-revision-tool-complete-guide-for-2026-best-practices-setup-and-faqs) | kw: Leetcode | src: algorithms <!-- h:b46669634a327d40b867019032f58a60 -->
+
 
 - **2026-06-20** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: dsa
 - **2026-06-20** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics - DEV Community](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: leetcode
