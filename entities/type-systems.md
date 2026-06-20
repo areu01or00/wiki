@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia | src: type-systems <!-- h:08183a095f9bb03fe7dd6ce06dfd5115 -->
+- **2026-06-20** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: gradual-typing, Programming, Research, Group | src: type-systems <!-- h:063c2f3eadaf2be7e059d09de8a540f4 -->
+- **2026-06-20** | [Best Software with Gradual Typing Functionality (2026)](https://appmus.com/feature/gradual-typing) | kw: Best, Software, with, Gradual | src: type-systems <!-- h:257f707e4f6b84a5109de8e4a606651f -->
+- **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026] | Oflight Inc.](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau, Type, System, Complete | src: type-systems <!-- h:5c8d464c75e0f82550f068820dd0b4ad -->
+- **2026-06-20** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, with, Inference | src: type-systems <!-- h:4a101114e3b691c4671d64770c39c052 -->
+- **2026-06-20** | [Type Inference Techniques: Implementation and Formalization, Better Together](https://xnning.github.io/papers/wits26.pdf) | kw: Type, Inference, Techniques, Implementation | src: type-systems <!-- h:90f64aa277dd75da77b910fbd4635b9b -->
+
 
 - **2026-06-20** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating, language, landscape, typing | src: type-systems <!-- h:f2495424757e7dd538dd771f623f1a0f -->
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: efficient, selection, type, annotations | src: type-systems <!-- h:05e87cbef36cd8edbadc65c13cd2b4af -->

@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What, Coming, for, Haskell | src: functional-programming <!-- h:a1fd2b9212d955769e6bbfad262f2fb9 -->
+- **2026-06-20** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, in, Haskell | src: functional-programming <!-- h:ce1296b7730544a3db978dc13e7a351f -->
+- **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad, functional, programming, Wikipedia | src: functional-programming <!-- h:cb3451b58dc0de64c4abaf6248054b44 -->
+- **2026-06-20** | [The Future of Haskell and Functional Programming](https://softwarepatternslexicon.com/haskell/conclusion/the-future-of-haskell-and-functional-programming) | kw: The, Future, of, Haskell | src: functional-programming <!-- h:b563ffbf6c4669af7435b247e6cfa801 -->
+- **2026-06-20** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monadify, Rust, utility, Lib | src: functional-programming <!-- h:f893f60a24ac37aeb075a0f0bd5137a0 -->
+- **2026-06-20** | [Demystifying monads in Rust through property-based testing · sunshowers](https://sunshowers.io/posts/monads-through-pbt/) | kw: Demystifying, monads, in, Rust | src: functional-programming <!-- h:babfc8c1c281aa94b9cb90de23588ea8 -->
+- **2026-06-20** | [The Practical Value of Functional Programming — Monad ... | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The, Practical, Value, of | src: functional-programming <!-- h:629a9b315f1dc302f82b5a9078500e8f -->
+- **2026-06-20** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, at, Its | src: functional-programming <!-- h:1e23347071bace94cd96516373fa7b4d -->
+- **2026-06-20** | [100+ Monads Online Courses for 2026 | Explore Free Courses](https://www.classcentral.com/subject/monads) | kw: Monads, Online, Courses, for | src: functional-programming <!-- h:c34a9a43ce0bf98274e9aee01383eea0 -->
+
 - **2026-06-20** | [Monads in F# | Jonas Lara](https://jonas1ara.github.io/posts/monads-in-fsharp) | kw: monads, jonas | src: functional-programming <!-- h:4523f7fb117a33e01c8e0afa9179c4b4 -->
 - **2026-06-20** | [Understanding Monads in Functional Programming: A Comprehensive Guide - AlgoCademy](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide/) | kw: understanding, monads, functional, programming | src: functional-programming <!-- h:0ca25033e3cb9e1d8d4549f7e52ca704 -->
 - **2026-06-20** | [Kotlin Monads - Compile N Run](https://www.compilenrun.com/docs/language/kotlin/kotlin-functional-programming/kotlin-monads/) | kw: kotlin, monads, compile | src: functional-programming <!-- h:59f8ae3ce0bb84c0df15d096bdc45e16 -->

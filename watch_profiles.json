@@ -98,13 +98,15 @@
         "researchtednewardcom",
         "study",
         "www",
-        "Design:"
+        "Design:",
+        "Emerging",
+        "Backend",
+        "docs",
+        "tutorialQ",
+        "Architectures",
+        "Beyond"
       ],
       "last_result_hashes": [
-        "6a8023ed8f6d80dc6383b03a803b7c26",
-        "8a4c6c3b1a58ba76429a4cc01eb115a4",
-        "dffcbc8662b09cb0a5c2d9645a80041f",
-        "d7e4053d8359b5818b4128259533ab69",
         "ad1abed58fb932a97f41b79fc33bea65",
         "d1616fa45d6220456f797072d4e5fff6",
         "0c80fa137c949cbb65c50fdcdff13aa5",
@@ -120,25 +122,20 @@
         "d88d3de8f0e60fb55d23ee13a71ca225",
         "2ebbe3411f331c326ab1fd19aa4e50c7",
         "7a43fcfcde6a6e1ad6d40ccc6f416748",
-        "498e7043d849cf4ef13dc9a4252ffbbb"
+        "498e7043d849cf4ef13dc9a4252ffbbb",
+        "7c17643f234aa75cf0ffa2cbe542acf4",
+        "46a56982536c8a4f9801b7d471165b39",
+        "7f64368e8a1d34828ccb923f8e0003e5",
+        "0bccdfeceeee7664c4e61f75605f9f8f"
       ],
-      "last_run": "2026-06-20T03:32:37.060820+00:00",
+      "last_run": "2026-06-20T03:47:23.547982+00:00",
       "new_sub_topics_this_run": [
-        "beginners",
-        "online",
-        "course",
-        "neetcode",
-        "courses",
-        "grokking",
-        "dylan",
-        "reid",
-        "interview",
-        "review",
-        "questions",
-        "prep",
-        "from",
-        "faang",
-        "experts"
+        "Emerging",
+        "Backend",
+        "docs",
+        "tutorialQ",
+        "Architectures",
+        "Beyond"
       ],
       "last_new_count": 4
     },
@@ -198,7 +195,7 @@
         "LLVM",
         "LLVM JIT",
         "LLVM/Clang",
-        "LLVMのJITについてLLMの説明が分からなくて困る",
+        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
         "Language",
         "Look",
         "Lowers",
@@ -269,11 +266,10 @@
         "TurboFan/Maglev,",
         "Caching,",
         "Analysis,",
-        "Clang,"
+        "Clang,",
+        "TurboFan"
       ],
       "last_result_hashes": [
-        "ff02eb627048f44026baa08415f219be",
-        "14bec6c679203be13206205a9edb80d7",
         "7ed9cf6296b93bcd1574511795e44641",
         "a72b65ce0686a5d6284312afb588f812",
         "71c33262bb6fe28614d87220172c6995",
@@ -291,15 +287,15 @@
         "40ed91546301e54bdd9b40a0b43a3dfa",
         "5d4ac715e54509da805ad5c64a5b6b9b",
         "e3de56741106b3ae528cad3750a09844",
-        "1480847529e160848da4aee3f40eb00a"
+        "1480847529e160848da4aee3f40eb00a",
+        "356653e96551f08a707c2ddada2fe1c8",
+        "f59aecd9d2bb1c9a8e2250bf412480f0"
       ],
-      "last_run": "2026-06-20T03:32:37.060820+00:00",
+      "last_run": "2026-06-20T03:47:23.547982+00:00",
       "new_sub_topics_this_run": [
-        "buildingajit1.rst",
-        "fork",
-        "2026"
+        "TurboFan"
       ],
-      "last_new_count": 5
+      "last_new_count": 2
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -416,15 +412,19 @@
         "Access",
         "Papers)",
         "Online",
-        "Courses"
+        "Courses",
+        "Functions",
+        "Together",
+        "Functionality",
+        "Formalization",
+        "Best",
+        "Better",
+        "Code",
+        "Generics",
+        "Oflight",
+        "Techniques"
       ],
       "last_result_hashes": [
-        "9302e97e7d8a54df8d01b2d4273fb984",
-        "8152c0fa97986388894bbc6fe44824e4",
-        "960c3757b01a3b5c2b782f876f59a49d",
-        "539299cdb002f1725e1d140c5784f165",
-        "086347cd58071894c217e208bc64efd7",
-        "e3bc0b0f77bacd576c2e474dc4a44101",
         "109f52ff787be91e620cda3aadd96642",
         "f333bd41608e9168a9593cda75a5d292",
         "5ad8730c65f6f24319118be6a0a9593d",
@@ -438,20 +438,28 @@
         "2c38d30abace38622d9bad08db378606",
         "ed513f6e12395c8fbbf5e5415449aabd",
         "543697ac79673cc3f8f429709121926e",
-        "796dd8fb9f6369a2e77f75139af26f3c"
+        "796dd8fb9f6369a2e77f75139af26f3c",
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "063c2f3eadaf2be7e059d09de8a540f4",
+        "257f707e4f6b84a5109de8e4a606651f",
+        "5c8d464c75e0f82550f068820dd0b4ad",
+        "4a101114e3b691c4671d64770c39c052",
+        "90f64aa277dd75da77b910fbd4635b9b"
       ],
-      "last_run": "2026-06-20T03:32:37.060820+00:00",
+      "last_run": "2026-06-20T03:47:23.547982+00:00",
       "new_sub_topics_this_run": [
-        "generics",
-        "functions",
-        "code",
-        "2026",
-        "birjob",
-        "‹programming›",
-        "pookietech",
-        "blog"
+        "Functions",
+        "Together",
+        "Functionality",
+        "Formalization",
+        "Best",
+        "Better",
+        "Code",
+        "Generics",
+        "Oflight",
+        "Techniques"
       ],
-      "last_new_count": 7
+      "last_new_count": 6
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -563,20 +571,19 @@
         "with",
         "Introduction",
         "Documentation",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Patterns",
-        "Rust:"
+        "Rust:",
+        "Chaos",
+        "Order",
+        "Practical",
+        "monadify",
+        "sunshowers",
+        "PenChef",
+        "slicker",
+        "utility"
       ],
       "last_result_hashes": [
-        "17283951f47a445f957ceef8fc9879ed",
-        "c52f5174ff9b2fb18fb776e711ed0486",
-        "5aab28d7fbd337a8668d6cbda3b0a9c1",
-        "19e9a027878cd9e15d80f9af087b154c",
-        "fdc8e2b82500b598dc73a35e40bb2f1e",
-        "81f416bda62e20437250860785d5442e",
-        "88639568d7620593c2b895e44fe730fc",
-        "ff8e7aa82463ab8acd416101b1a2e680",
-        "a3493ff266b17fc6ca7d44bed6e59213",
         "c5bcaf01490daab7e999b17a95ee57ce",
         "0b2120fa72343244679a593dacf13018",
         "90fe9f8db1c47db8254b7d2d59e81b01",
@@ -587,15 +594,29 @@
         "4523f7fb117a33e01c8e0afa9179c4b4",
         "0ca25033e3cb9e1d8d4549f7e52ca704",
         "59f8ae3ce0bb84c0df15d096bdc45e16",
-        "eafd92b38846e9d23ab2ff5ab8037e8e"
+        "eafd92b38846e9d23ab2ff5ab8037e8e",
+        "a1fd2b9212d955769e6bbfad262f2fb9",
+        "ce1296b7730544a3db978dc13e7a351f",
+        "cb3451b58dc0de64c4abaf6248054b44",
+        "b563ffbf6c4669af7435b247e6cfa801",
+        "f893f60a24ac37aeb075a0f0bd5137a0",
+        "babfc8c1c281aa94b9cb90de23588ea8",
+        "629a9b315f1dc302f82b5a9078500e8f",
+        "1e23347071bace94cd96516373fa7b4d",
+        "c34a9a43ce0bf98274e9aee01383eea0"
       ],
-      "last_run": "2026-06-20T03:32:37.060820+00:00",
+      "last_run": "2026-06-20T03:47:23.547982+00:00",
       "new_sub_topics_this_run": [
-        "tutorial",
-        "monday",
-        "morning"
+        "Chaos",
+        "Order",
+        "Practical",
+        "monadify",
+        "sunshowers",
+        "PenChef",
+        "slicker",
+        "utility"
       ],
-      "last_new_count": 6
+      "last_new_count": 9
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -716,12 +737,10 @@
         "Leading",
         "Bridge",
         "Ninja,",
-        "Digital)"
+        "Digital)",
+        "Data-Structures-and-Algorithms---150-top-interview-questions"
       ],
       "last_result_hashes": [
-        "888d0e656c2e183468b5d77aef8771c2",
-        "8ec4ac28253c4f016997232629004129",
-        "f916c8612530c4bd639b4e97a5108163",
         "f401f3578a305af873e8b580bcb2424e",
         "5894846bbc35ac51fe21dc903bfddad3",
         "758e32a5ad74796e353ebdfbf6d56a41",
@@ -738,17 +757,16 @@
         "e7cb63adafd27fca3ead2584308babd3",
         "09191b710a89e39a177a7aea73cfb65b",
         "143876bc0621660474126a01477b0355",
-        "7d194ad3d9a4f9a87cd4de35548c005c"
+        "7d194ad3d9a4f9a87cd4de35548c005c",
+        "80f05230168f8150741246bd2cb5ebae",
+        "eae08fa006fe0b0ba2c79d76768f65a8",
+        "056bbd57e6e437cc7875c28572cf4197"
       ],
-      "last_run": "2026-06-20T03:32:37.060820+00:00",
+      "last_run": "2026-06-20T03:47:23.547982+00:00",
       "new_sub_topics_this_run": [
-        "algorithm",
-        "coach",
-        "online",
-        "free",
-        "class"
+        "Data-Structures-and-Algorithms---150-top-interview-questions"
       ],
-      "last_new_count": 4
+      "last_new_count": 3
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -857,10 +875,6 @@
         "Exists)"
       ],
       "last_result_hashes": [
-        "03e9423b802e0456d3fe98220b76ea3a",
-        "68175a2892a66724f669a8669b9ae03d",
-        "999e699e6e78d8e383158b10f1c950f8",
-        "1c9e34c438b893768685d5e9b0743087",
         "7d7462b15a5b202849cc8e6a4ee62adf",
         "23f806669425cddfbb81ceb3202ed519",
         "d5d39117a6a17ca1c0adbe5e801b32a0",
@@ -876,9 +890,13 @@
         "3723dfa3f60cd99fa11d63a5fa09bc1f",
         "8e164b039e6be2f4d6dd92a0812ef837",
         "e5de457dfb901c53485a52be22a77e07",
-        "4fc7a6bfd1b1687063ba38837fdacc91"
+        "4fc7a6bfd1b1687063ba38837fdacc91",
+        "d2adce09b07afa8868adc1a5598d6db8",
+        "b892d3268af415a5d0c10b3cc6cd89bf",
+        "993340ba10508d27975679f77e08cd57",
+        "704da68a060e620278ad7620fdf6c8a8"
       ],
-      "last_run": "2026-06-20T03:32:37.060820+00:00",
+      "last_run": "2026-06-20T03:47:23.547982+00:00",
       "new_sub_topics_this_run": [
         "deep",
         "dive",
@@ -893,8 +911,8 @@
         "robyn",
         "deep-dive"
       ],
-      "last_new_count": 7
+      "last_new_count": 4
     }
   },
-  "last_run": "2026-06-20T03:32:37.060820+00:00"
+  "last_run": "2026-06-20T03:47:23.547982+00:00"
 }

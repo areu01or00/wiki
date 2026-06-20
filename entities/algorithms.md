@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: Top, Data, Structure, Interview | src: algorithms <!-- h:80f05230168f8150741246bd2cb5ebae -->
+- **2026-06-20** | [Data-Structures-and-Algorithms---150-top-interview-questions · GitHub](https://github.com/Ananya-Singh2406/Data-Structures-and-Algorithms---150-top-interview-questions) | kw: Data-Structures-and-Algorithms---150-top-interview-questions, GitHub | src: algorithms <!-- h:eae08fa006fe0b0ba2c79d76768f65a8 -->
+- **2026-06-20** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: Data, Structures, Interview, Questions | src: algorithms <!-- h:056bbd57e6e437cc7875c28572cf4197 -->
+
 
 - **2026-06-20** | [Data Structures Interview Questions and Answers (2026 ...](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data, structures, interview, questions | src: algorithms <!-- h:e7cb63adafd27fca3ead2584308babd3 -->
 - **2026-06-20** | [GitHub - kashifansari17/Leetcode-TOP-75-](https://github.com/kashifansari17/Leetcode-TOP-75-) | kw: github, kashifansari17, leetcode, top | src: algorithms <!-- h:09191b710a89e39a177a7aea73cfb65b -->

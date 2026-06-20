@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Emerging Backend Architectures for 2026: Microservices, Serverless, and Beyond](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures, for | src: system-design <!-- h:7c17643f234aa75cf0ffa2cbe542acf4 -->
+- **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026) | tutorialQ](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Mastering, Distributed, Systems, Patterns | src: system-design <!-- h:46a56982536c8a4f9801b7d471165b39 -->
+- **2026-06-20** | [Distributed Systems | Architecture Patterns | docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture, Patterns | src: system-design <!-- h:7f64368e8a1d34828ccb923f8e0003e5 -->
+- **2026-06-20** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap, The | src: system-design <!-- h:0bccdfeceeee7664c4e61f75605f9f8f -->
+
 
 - **2026-06-20** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: system, design, patterns, complete | src: system-design <!-- h:d88d3de8f0e60fb55d23ee13a71ca225 -->
 - **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering, distributed, systems, patterns | src: system-design <!-- h:2ebbe3411f331c326ab1fd19aa4e50c7 -->
