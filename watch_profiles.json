@@ -162,13 +162,13 @@
         "829e385d598e3022a5a9d9f416e9920c",
         "2efe47add6349b1a23f9e1b4a923ec6b"
       ],
-      "last_run": "2026-06-20T14:32:49.690418+00:00",
+      "last_run": "2026-06-20T14:48:01.822440+00:00",
       "new_sub_topics_this_run": [
         "System Design Guide 2026 - Scalable Architecture Patterns",
         "The Complete Guide to System Design in 2026 AI-Native and Se",
         "Microservices Design Patterns: The Comprehensive Architectur"
       ],
-      "last_new_count": 3
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -324,7 +324,7 @@
         "da2a9627437ec27ab2a13b536f37cf45",
         "191137fb0d9c6770341ad41eba235f6e"
       ],
-      "last_run": "2026-06-20T14:32:49.690418+00:00",
+      "last_run": "2026-06-20T14:48:01.822440+00:00",
       "new_sub_topics_this_run": [
         "The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22",
         "FOSDEM 2026 - LLVM",
@@ -332,7 +332,7 @@
         "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at",
         "AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]"
       ],
-      "last_new_count": 5
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -492,13 +492,13 @@
         "a62041fbd03c36044c10691af16fa6ad",
         "e3bc0b0f77bacd576c2e474dc4a44101"
       ],
-      "last_run": "2026-06-20T14:32:49.690418+00:00",
+      "last_run": "2026-06-20T14:48:01.822440+00:00",
       "new_sub_topics_this_run": [
         "Efficient Selection of Type Annotations for Performance Impr",
         "Gradual Typing with Unification-based Inference",
         "100+ Type Inference Online Courses for 2026 | Explore Free ."
       ],
-      "last_new_count": 3
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -677,7 +677,7 @@
         "687171a5db4daed91bdc3e6a4a3773a1",
         "1e23347071bace94cd96516373fa7b4d"
       ],
-      "last_run": "2026-06-20T14:32:49.690418+00:00",
+      "last_run": "2026-06-20T14:48:01.822440+00:00",
       "new_sub_topics_this_run": [
         "monadify \u2014 Rust utility // Lib.rs",
         "Monad in higher - Rust - Docs.rs",
@@ -687,7 +687,7 @@
         "Monadic Design Patterns in Haskell: Mastering Functional Pro",
         "Functional Programming at Its Finest: Why Haskell Developers"
       ],
-      "last_new_count": 7
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -840,14 +840,14 @@
         "f61441bcde60b26115170e1e7490c0a0",
         "814ad50168aca7691bd4e6e042f0b36b"
       ],
-      "last_run": "2026-06-20T14:32:49.690418+00:00",
+      "last_run": "2026-06-20T14:48:01.822440+00:00",
       "new_sub_topics_this_run": [
         "LeetCode Questions for TCS 2026: 50 Problems [Solved]",
         "The Ultimate Guide to Top 150 LeetCode Problems",
         "Top 50 Data Structures Interview Questions 2026",
         "Data Structure I - LeetCode"
       ],
-      "last_new_count": 4
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1007,7 +1007,7 @@
         "195cc5355800be062c15e1a66ccfcacd",
         "704da68a060e620278ad7620fdf6c8a8"
       ],
-      "last_run": "2026-06-20T14:32:49.690418+00:00",
+      "last_run": "2026-06-20T14:48:01.822440+00:00",
       "new_sub_topics_this_run": [
         "From Variables to No-GIL: Why Python Still Runs Modern AI",
         "Python - Python Internals: Memory Management & the Global In",
@@ -1017,7 +1017,7 @@
         "How Python's GIL Actually Works (And Why It Exists)",
         "State of Python 2026 | The Dev Newsletter"
       ],
-      "last_new_count": 7
+      "last_new_count": 0
     }
   }
 }
