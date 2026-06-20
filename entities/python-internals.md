@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [Memory Management in 2026: The Complete Guide](https://appperformancelab.com/memory-management-in-2026-the-complete-guide-6) | kw: memory, management, 2026
+
 - **2026-06-20** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals | src: python-internals <!-- h:7b0c583d3445b91efa0c0453e5a737c4 -->
 - **2026-06-20** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals | src: python-internals <!-- h:aff79aed6e34d3f002b7fa14f5978b75 -->
 

@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Cloud-Native, Serverless & Edge Architectures: Redefining Enterprise Agility in 2026](https://resolvetech.com/cloud-native-serverless-edge-architectures-redefining-enterprise-agility-in-2026) | kw: cloud, native, serverless
+
 - **2026-06-20** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: system-design | src: system-design <!-- h:027b842794aa1b6f8ff97eb660c59079 -->
 - **2026-06-20** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: system-design | src: system-design <!-- h:4a92b9accf7e00c9835483bf78a78624 -->
 - **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design – Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system-design | src: system-design <!-- h:0a84e0f612f84727cbf618f66be65505 -->
