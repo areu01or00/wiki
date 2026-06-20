@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap | src: algorithms <!-- h:3d68367858d3b3d28e078a46658e7b38 -->
+- **2026-06-20** | [50+ Data Structures and Algorithms Interview Questions for 2026 - upGrad](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers) | kw: Data, Structures, Algorithms, Interview | src: algorithms <!-- h:720136d7f7248931e10997bc994128a2 -->
+- **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start | Leon Staff](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: LeetCode, Study, Plan, Roadmap | src: algorithms <!-- h:9254439d994c8bfdda25e8291db6c296 -->
+- **2026-06-20** | [How to Prepare for LeetCode: A Complete Strategy Guide for 2026 - EasyResume](https://www.easyresume.online/blog/leetcode-preparation-guide) | kw: Prepare, LeetCode, Complete, Strategy | src: algorithms <!-- h:ddd1275f7e03da25ceaeac8855bcfd64 -->
+- **2026-06-20** | [Coding Interview Patterns: The Complete Guide (2026) - Intervu](https://intervu.dev/blog/coding-interview-patterns) | kw: Coding, Interview, Patterns, Complete | src: algorithms <!-- h:98dffaea7b55fa18fae6afdd30f48b45 -->
+
 - **2026-06-20** | [LeetCode Is Dead in 2026. Here's What Top Companies Are Actually Asking Senior Engineers Instead.](https://blog.stackademic.com/leetcode-is-dead-in-2026-heres-what-top-companies-are-actually-asking-senior-engineers-instead-9bccff4efd05) | kw: LeetCode, Is, Dead, in, 2026. | src: algorithms <!-- h:0d65b4b00d372ecb0b622c4e5cbd9937 -->
 
 - **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best

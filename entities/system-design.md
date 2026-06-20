@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions/) | kw: Future, High, Performance, Distributed | src: system-design <!-- h:928794215d9b3f52e22a0ace1e287d9a -->
+- **2026-06-20** | [Latest Trends in Distributed Systems (2026) – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: Latest, Trends, Distributed, Systems | src: system-design <!-- h:886487f41cabfa1d68bfa76e510f5fb7 -->
+- **2026-06-20** | [Software Architecture Patterns [2026]: MVC, MVVM, Clean](https://precisionaiacademy.com/blog/software-architecture-patterns-guide) | kw: Software, Architecture, Patterns, MVC | src: system-design <!-- h:b7b724dd42585c9ceb6c7e74762d9e03 -->
+- **2026-06-20** | [Caching & Performance: Building Fast, Predictable Systems in 2026](https://neuralstackms.tech/caching-performance-building-fast-predictable-systems-in-2026) | kw: Caching, Performance, Building, Fast | src: system-design <!-- h:f0867b873de5e0095075cc1e002a4368 -->
+- **2026-06-20** | [Distributed Systems Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/mastering-design-patterns/distributed-systems-patterns) | kw: Distributed, Systems, Patterns, Software | src: system-design <!-- h:2eed777e217c8f707d96cab621255e90 -->
+
 - **2026-06-20** | [System Design Capacity Estimation Ai - Complete Guide 2026](https://articles.shadecoder.com/system-design-capacity-estimation-ai-complete-guide-for-2026) | kw: articles
 
 - **2026-06-20** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026 · Dev Note](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: Distributed

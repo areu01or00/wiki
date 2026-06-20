@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: Gradual, Typing, Across, Spectrum | src: type-systems <!-- h:2b077fcefb9f16574c355c5cae07ce7d -->
+- **2026-06-20** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: Gradual, Typing, Gradually, Typed | src: type-systems <!-- h:74d9db89389a5ff882bfd7bac5937d2c -->
+- **2026-06-20** | [Typed and Confused: Studying the Unexpected Dangers of Gradually Typed Code](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed, Confused, Studying, Unexpected | src: type-systems <!-- h:409ea50922e3f8306cf41784b666f355 -->
+
 - **2026-06-20** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/en/category/project/type/gradual-typing/) | kw: Programming
 - **2026-06-20** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual
 - **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau

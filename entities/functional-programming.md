@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad, Wikipedia, functional, programming | src: functional-programming <!-- h:ab1a401478bf91151df62818473f5ef5 -->
+- **2026-06-20** | [Understanding Monads in Functional Programming: A Comprehensive Guide – AlgoCademy Blog](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Understanding, Monads, Functional, Programming | src: functional-programming <!-- h:cb6f209024e888c772ad3108884b84ca -->
+- **2026-06-20** | [Monad Pattern in Functional Programming: A Comprehensive Guide](https://softwarepatternslexicon.com/functional-programming/essential-functional-programming-patterns/monad-pattern) | kw: Monad, Pattern, Functional, Programming | src: functional-programming <!-- h:95f00433357e5fa77350b4adaf76a522 -->
+- **2026-06-20** | [Haskell Monads — Monday Morning Haskell](https://mmhaskell.com/monads) | kw: Haskell, Monads, Monday, Morning | src: functional-programming <!-- h:98e526be52c4f26f6ab112fd904d69d2 -->
+- **2026-06-20** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional, Programming, Its, Finest | src: functional-programming <!-- h:94a26269fce6d4cab82e390dea71cd77 -->
+- **2026-06-20** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park | Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads, Haskell, Rust | src: functional-programming <!-- h:fe6aed26b337f1993ecc4097fa829089 -->
+
 - **2026-06-20** | [Monadic Design Patterns in Haskell: Mastering Functional ...](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns/) | kw: Monadic Design Patterns
 
 - **2026-06-20** | [Comparing Haskell and Rust: which to choose, when?](https://www.reddit.com/r/haskell/comments/47rjr4/comparing_haskell_and_rust_which_to__choose_when) | kw: Comparing, Haskell, Rust | src: functional-programming <!-- h:fca19512c1eac566c8fa3680d0ddd9ca -->
