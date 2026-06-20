@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monads in F# | Jonas Lara](https://jonas1ara.github.io/posts/monads-in-fsharp) | kw: monads, jonas | src: functional-programming <!-- h:4523f7fb117a33e01c8e0afa9179c4b4 -->
+- **2026-06-20** | [Understanding Monads in Functional Programming: A Comprehensive Guide - AlgoCademy](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide/) | kw: understanding, monads, functional, programming | src: functional-programming <!-- h:0ca25033e3cb9e1d8d4549f7e52ca704 -->
+- **2026-06-20** | [Kotlin Monads - Compile N Run](https://www.compilenrun.com/docs/language/kotlin/kotlin-functional-programming/kotlin-monads/) | kw: kotlin, monads, compile | src: functional-programming <!-- h:59f8ae3ce0bb84c0df15d096bdc45e16 -->
+- **2026-06-20** | [Understanding the Monad Design Pattern in Kotlin - lasantha.org](https://www.lasantha.org/blog/understanding-the-monad-design-pattern-in-kotlin/) | kw: understanding, the, monad, design, pattern | src: functional-programming <!-- h:eafd92b38846e9d23ab2ff5ab8037e8e -->
+
 
 - **2026-06-20** | [What is a monad? And who needs Haskell anyway? - The Rust Programming Language Forum](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: monad, needs, haskell, anyway | src: functional-programming <!-- h:0b2120fa72343244679a593dacf13018 -->
 - **2026-06-20** | [monadic::monad - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic/monad/index.html) | kw: monadic, monad, rust, docs | src: functional-programming <!-- h:90fe9f8db1c47db8254b7d2d59e81b01 -->

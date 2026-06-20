@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [How Mojo's Owned Memory Model is Forcing ML Engineers to Rethink Python's GIL Bottlenecks - devops-geek](https://devops-geek.net/nerd-space/how-mojo-s-owned-memory-model-is-forcing-ml-engineers-to-rethink-python-s-gil-bottlenecks-in-real-ti/) | kw: how, mojo's, owned, memory, model | src: python-internals <!-- h:4fc7a6bfd1b1687063ba38837fdacc91 -->
+
 
 - **2026-06-20** | [Python Memory Management Masterclass: Garbage Collection ...](https://logicandlegacy.blogspot.com/2026/03/python-memory-management-masterclass.html) | kw: python, memory, management, masterclass | src: python-internals <!-- h:1225c428d6df17870f0a40b836a7300f -->
 - **2026-06-20** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python, memory, management, internals | src: python-internals <!-- h:ba35e0c9c5e2811c85cffac53cee7243 -->
