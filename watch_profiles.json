@@ -235,7 +235,9 @@
         "using",
         "weekly",
         "with",
-        "years"
+        "years",
+        "JLLVM",
+        "LLVM 22"
       ],
       "last_result_hashes": [
         "742efaab24e38475fd7f26174f733cb4",
@@ -370,7 +372,8 @@
         "numberanalytics.com",
         "the",
         "through",
-        "with"
+        "with",
+        "JIT"
       ],
       "last_result_hashes": [
         "f333bd41608e9168a9593cda75a5d292",
