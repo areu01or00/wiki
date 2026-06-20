@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, llvm, docs | src: compilers <!-- h:cd81edf8511034bfb061d67e42a19d20 -->
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, llvm, docs | src: compilers <!-- h:40ed91546301e54bdd9b40a0b43a3dfa -->
+- **2026-06-20** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: jeandle, ant, group, llvm | src: compilers <!-- h:5d4ac715e54509da805ad5c64a5b6b9b -->
+- **2026-06-20** | [How Jeandle Uses LLVM to Supercharge JVM Performance | BestHub](https://www.besthub.dev/articles/how-jeandle-uses-llvm-to-supercharge-jvm-performance-f3d5c0e67f05) | kw: jeandle, uses, llvm, supercharge | src: compilers <!-- h:e3de56741106b3ae528cad3750a09844 -->
+- **2026-06-20** | [[Compiler] 20. Modern Compiler Development and Applications](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: compiler, modern, development, applications | src: compilers <!-- h:1480847529e160848da4aee3f40eb00a -->
 - **2026-06-20** | [Llvm Jit Compiler By C Lattner Et Al Integration: Deploying Edge-Based Platform Frameworks](https://www.flyriver.com/g/llvm-jit-compiler-by-c-lattner-et-al) | kw: llvm, jit, compiler | src: compilers <!-- h:95d039a87ff19238e99d0f66eb8fce0e -->
 - **2026-06-20** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet/) | kw: compiler, prompt, engineering | src: compilers <!-- h:a18bd486739d593df61e9c5cd17b88c9 -->
 - **2026-06-20** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: llvm, compiler, framework | src: compilers <!-- h:dc5ada16f234dc184f112304b0917552 -->

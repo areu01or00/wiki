@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+
+- **2026-06-20** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: system, design, patterns, complete | src: system-design <!-- h:d88d3de8f0e60fb55d23ee13a71ca225 -->
+- **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering, distributed, systems, patterns | src: system-design <!-- h:2ebbe3411f331c326ab1fd19aa4e50c7 -->
+- **2026-06-20** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: complete, guide, system, design | src: system-design <!-- h:7a43fcfcde6a6e1ad6d40ccc6f416748 -->
+- **2026-06-20** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: coming, paradigm, shift, distributed | src: system-design <!-- h:498e7043d849cf4ef13dc9a4252ffbbb -->
 - **2026-06-20** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: essential, software, architecture | src: system-design <!-- h:4141d7871c6b9a533346e695683501e0 -->
 - **2026-06-20** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: top, microservices, architecture | src: system-design <!-- h:5aeac4fa30fb41ccddd5bdbec41ec241 -->
 - **2026-06-20** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: emerging, backend, architectures | src: system-design <!-- h:a3c1c2b6d55ff083812e1ea086382dbd -->

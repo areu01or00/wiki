@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-20** | [What is a monad? And who needs Haskell anyway? - The Rust Programming Language Forum](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: monad, needs, haskell, anyway | src: functional-programming <!-- h:0b2120fa72343244679a593dacf13018 -->
+- **2026-06-20** | [monadic::monad - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic/monad/index.html) | kw: monadic, monad, rust, docs | src: functional-programming <!-- h:90fe9f8db1c47db8254b7d2d59e81b01 -->
+- **2026-06-20** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad) | kw: monads, omnipresent, rust, bertiqwerty | src: functional-programming <!-- h:507d0954b1c28a4ea253d1bfcfbd1b35 -->
+- **2026-06-20** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: learned, monads, haskell, rust | src: functional-programming <!-- h:8523d54f973c1802378dbbf186428ae2 -->
+- **2026-06-20** | [Haskell Interlude #83: POPL 2026 - Part 2 - Links - Haskell ...](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: haskell, interlude, popl, links | src: functional-programming <!-- h:ce5f54fc6f710fe0ee8b7e9d78f28c76 -->
+- **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: rust, support, functional, programming | src: functional-programming <!-- h:a637c1b028184eea6b2bb028d9aef416 -->
 - **2026-06-20** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef | Technology, Development & Creative Tech Insights](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional, programming, haskell | src: functional-programming <!-- h:88639568d7620593c2b895e44fe730fc -->
 - **2026-06-20** | [Functional Programming at Its Finest: Why Haskell Developers ...](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional, programming, its | src: functional-programming <!-- h:ff8e7aa82463ab8acd416101b1a2e680 -->
 - **2026-06-20** | [Practical uses of monads in Haskell - vuink.com](https://vuink.com/post/anhguf-d-dse/en/2026/05/28/practical-use-of-monads-d-dhtml) | kw: practical, uses, monads | src: functional-programming <!-- h:a3493ff266b17fc6ca7d44bed6e59213 -->

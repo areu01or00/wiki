@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-20** | [Python Memory Management Masterclass: Garbage Collection ...](https://logicandlegacy.blogspot.com/2026/03/python-memory-management-masterclass.html) | kw: python, memory, management, masterclass | src: python-internals <!-- h:1225c428d6df17870f0a40b836a7300f -->
+- **2026-06-20** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python, memory, management, internals | src: python-internals <!-- h:ba35e0c9c5e2811c85cffac53cee7243 -->
+- **2026-06-20** | [Memory Management in Python](https://realpython.com/python-memory-management/) | kw: memory, management, python | src: python-internals <!-- h:a9ed6b7c5f487b48b6a389510b6aab76 -->
+- **2026-06-20** | [Python 3.14 garbage collection rigamarole - The Consensus](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html) | kw: python, garbage, collection, rigamarole | src: python-internals <!-- h:49d63312d772fdc8dd4bab9349a271d4 -->
+- **2026-06-20** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: future, python, internals, exploring | src: python-internals <!-- h:3723dfa3f60cd99fa11d63a5fa09bc1f -->
+- **2026-06-20** | [Will Removing Python's GIL make it significantly faster? - HAMY](https://hamy.xyz/blog/2025-07_will-gil-removal-make-python-faster) | kw: removing, python, gil, significantly | src: python-internals <!-- h:8e164b039e6be2f4d6dd92a0812ef837 -->
+- **2026-06-20** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, internals, memory, management | src: python-internals <!-- h:e5de457dfb901c53485a52be22a77e07 -->
 - **2026-06-20** | [What is the Global Interpreter Lock (GIL) in Python? Is It ...](https://medium.com/%40Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: what, global, interpreter | src: python-internals <!-- h:c48d2b318765bfab803a1920ef306d0a -->
 - **2026-06-20** | [Python - Python Internals: Memory Management & the Global ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, python, internals | src: python-internals <!-- h:b52883f4c09c9a3086481dd582e2ea6d -->
 - **2026-06-20** | [Python Memory Profiling and Optimization Techniques · Technical news about AI, coding and all](https://dasroot.net/posts/2026/04/python-memory-profiling-optimization-techniques) | kw: python, memory, profiling | src: python-internals <!-- h:30acb9043f9aa743b106860fc18c3038 -->

@@ -101,10 +101,6 @@
         "Design:"
       ],
       "last_result_hashes": [
-        "a274f87f9a589b23b05d690dc82a1533",
-        "0a84e0f612f84727cbf618f66be65505",
-        "2eed777e217c8f707d96cab621255e90",
-        "0bccdfeceeee7664c4e61f75605f9f8f",
         "6a8023ed8f6d80dc6383b03a803b7c26",
         "8a4c6c3b1a58ba76429a4cc01eb115a4",
         "dffcbc8662b09cb0a5c2d9645a80041f",
@@ -120,9 +116,13 @@
         "5aeac4fa30fb41ccddd5bdbec41ec241",
         "a3c1c2b6d55ff083812e1ea086382dbd",
         "7adb740512b7087138618dd825b4af4c",
-        "9ba46483364adb11b22fcfbd9fe2e4d2"
+        "9ba46483364adb11b22fcfbd9fe2e4d2",
+        "d88d3de8f0e60fb55d23ee13a71ca225",
+        "2ebbe3411f331c326ab1fd19aa4e50c7",
+        "7a43fcfcde6a6e1ad6d40ccc6f416748",
+        "498e7043d849cf4ef13dc9a4252ffbbb"
       ],
-      "last_run": "2026-06-20T02:32:53.859633+00:00",
+      "last_run": "2026-06-20T02:48:21.884963+00:00",
       "new_sub_topics_this_run": [
         "beginners",
         "online",
@@ -140,7 +140,7 @@
         "faang",
         "experts"
       ],
-      "last_new_count": 5
+      "last_new_count": 4
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -198,7 +198,7 @@
         "LLVM",
         "LLVM JIT",
         "LLVM/Clang",
-        "LLVMのJITについてLLMの説明が分からなくて困る",
+        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
         "Language",
         "Look",
         "Lowers",
@@ -272,11 +272,6 @@
         "Clang,"
       ],
       "last_result_hashes": [
-        "00d37fecba311b38109bc12619ff9f25",
-        "5cefefefe6afc297697ed1187181b6a1",
-        "bbbc8ef4ec78630cae3e49219b742618",
-        "ae427aaa277c67469832326760f5569f",
-        "7731fb7ce05160d35b32be9432fa7936",
         "ff02eb627048f44026baa08415f219be",
         "14bec6c679203be13206205a9edb80d7",
         "7ed9cf6296b93bcd1574511795e44641",
@@ -291,9 +286,14 @@
         "a18bd486739d593df61e9c5cd17b88c9",
         "dc5ada16f234dc184f112304b0917552",
         "9bc58ca32c64f0679e3b9a328f74f864",
-        "5052c4c7c1802a86a17645986867fac8"
+        "5052c4c7c1802a86a17645986867fac8",
+        "cd81edf8511034bfb061d67e42a19d20",
+        "40ed91546301e54bdd9b40a0b43a3dfa",
+        "5d4ac715e54509da805ad5c64a5b6b9b",
+        "e3de56741106b3ae528cad3750a09844",
+        "1480847529e160848da4aee3f40eb00a"
       ],
-      "last_run": "2026-06-20T02:32:53.859633+00:00",
+      "last_run": "2026-06-20T02:48:21.884963+00:00",
       "new_sub_topics_this_run": [
         "buildingajit1.rst",
         "fork",
@@ -419,13 +419,6 @@
         "Courses"
       ],
       "last_result_hashes": [
-        "aa2f3be76632e120f0f252da09afe144",
-        "481bf13dad9a849f34a663880bb0470f",
-        "88dfcf74de33a1e88c9e9c90d0e55f9b",
-        "deca5e7373216ca874ed5b7b942ce58a",
-        "92a50716d512d793eb55712187c18082",
-        "08183a095f9bb03fe7dd6ce06dfd5115",
-        "b026ef92bf282c4d85de696983ed4a8c",
         "9302e97e7d8a54df8d01b2d4273fb984",
         "8152c0fa97986388894bbc6fe44824e4",
         "960c3757b01a3b5c2b782f876f59a49d",
@@ -438,20 +431,27 @@
         "afa6caf48502106583ac61c324295531",
         "965070f6e46b3017c571f2fc9b607539",
         "a933f47a5feedf4f43c8b83a958ffe76",
-        "ad9caf830a9309ad31b06074ca3dfc8a"
+        "ad9caf830a9309ad31b06074ca3dfc8a",
+        "f2495424757e7dd538dd771f623f1a0f",
+        "05e87cbef36cd8edbadc65c13cd2b4af",
+        "edf2bc1c3681cf7fe9c9e8a78f5a9a6e",
+        "2c38d30abace38622d9bad08db378606",
+        "ed513f6e12395c8fbbf5e5415449aabd",
+        "543697ac79673cc3f8f429709121926e",
+        "796dd8fb9f6369a2e77f75139af26f3c"
       ],
-      "last_run": "2026-06-20T02:32:53.859633+00:00",
+      "last_run": "2026-06-20T02:48:21.884963+00:00",
       "new_sub_topics_this_run": [
         "generics",
         "functions",
         "code",
         "2026",
         "birjob",
-        "‹programming›",
+        "\u2039programming\u203a",
         "pookietech",
         "blog"
       ],
-      "last_new_count": 8
+      "last_new_count": 7
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -563,17 +563,11 @@
         "with",
         "Introduction",
         "Documentation",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Patterns",
         "Rust:"
       ],
       "last_result_hashes": [
-        "98e526be52c4f26f6ab112fd904d69d2",
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "bf1a15ca9ed763ef87e590e43ec094ad",
-        "94a26269fce6d4cab82e390dea71cd77",
-        "cb3451b58dc0de64c4abaf6248054b44",
-        "4f7a842eeb604f03987bc224b057dd16",
         "db55c5f8a382a763783d9f6ef00abc6b",
         "c233ce094f809bd93c2f4474229feed5",
         "9e468f427c81adba063b45d72c784552",
@@ -587,15 +581,21 @@
         "88639568d7620593c2b895e44fe730fc",
         "ff8e7aa82463ab8acd416101b1a2e680",
         "a3493ff266b17fc6ca7d44bed6e59213",
-        "c5bcaf01490daab7e999b17a95ee57ce"
+        "c5bcaf01490daab7e999b17a95ee57ce",
+        "0b2120fa72343244679a593dacf13018",
+        "90fe9f8db1c47db8254b7d2d59e81b01",
+        "507d0954b1c28a4ea253d1bfcfbd1b35",
+        "8523d54f973c1802378dbbf186428ae2",
+        "ce5f54fc6f710fe0ee8b7e9d78f28c76",
+        "a637c1b028184eea6b2bb028d9aef416"
       ],
-      "last_run": "2026-06-20T02:32:53.859633+00:00",
+      "last_run": "2026-06-20T02:48:21.884963+00:00",
       "new_sub_topics_this_run": [
         "tutorial",
         "monday",
         "morning"
       ],
-      "last_new_count": 4
+      "last_new_count": 6
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -719,10 +719,6 @@
         "Digital)"
       ],
       "last_result_hashes": [
-        "635536bfad6f9b4d8a7fedb12dd9bd60",
-        "ccf8ede536dc56c5810aea6819c053c4",
-        "595f0e6ddf3ffc9ae7d6d3256cb6ad3b",
-        "619765371b40d8325fc698e3f4c28b31",
         "888d0e656c2e183468b5d77aef8771c2",
         "8ec4ac28253c4f016997232629004129",
         "f916c8612530c4bd639b4e97a5108163",
@@ -738,9 +734,13 @@
         "9bae7c320eaa49023b76088f638f22f3",
         "c09d949fed12685831ee37a2c49ed7b3",
         "7e9fdd8c2ffc71a23e29276c3701990a",
-        "81d3f6ca00caa659b47d39e7b3373c33"
+        "81d3f6ca00caa659b47d39e7b3373c33",
+        "e7cb63adafd27fca3ead2584308babd3",
+        "09191b710a89e39a177a7aea73cfb65b",
+        "143876bc0621660474126a01477b0355",
+        "7d194ad3d9a4f9a87cd4de35548c005c"
       ],
-      "last_run": "2026-06-20T02:32:53.859633+00:00",
+      "last_run": "2026-06-20T02:48:21.884963+00:00",
       "new_sub_topics_this_run": [
         "algorithm",
         "coach",
@@ -748,7 +748,7 @@
         "free",
         "class"
       ],
-      "last_new_count": 5
+      "last_new_count": 4
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -857,13 +857,6 @@
         "Exists)"
       ],
       "last_result_hashes": [
-        "aff79aed6e34d3f002b7fa14f5978b75",
-        "283a16c91853f5f49e8a8166769cd4ce",
-        "9a16abe455aad8976504790293f8762a",
-        "9b950d80d24710f2899e1b281e96098e",
-        "cc1169f3086a93320da59573f7fa5861",
-        "beaef31893811bf93a7c49c5427531ec",
-        "393b9552409ec8ba6bdfd1665878c646",
         "b892d3268af415a5d0c10b3cc6cd89bf",
         "03e9423b802e0456d3fe98220b76ea3a",
         "68175a2892a66724f669a8669b9ae03d",
@@ -876,9 +869,16 @@
         "b52883f4c09c9a3086481dd582e2ea6d",
         "30acb9043f9aa743b106860fc18c3038",
         "195cc5355800be062c15e1a66ccfcacd",
-        "407bd0317abbabf6be9ed20442246de1"
+        "407bd0317abbabf6be9ed20442246de1",
+        "1225c428d6df17870f0a40b836a7300f",
+        "ba35e0c9c5e2811c85cffac53cee7243",
+        "a9ed6b7c5f487b48b6a389510b6aab76",
+        "49d63312d772fdc8dd4bab9349a271d4",
+        "3723dfa3f60cd99fa11d63a5fa09bc1f",
+        "8e164b039e6be2f4d6dd92a0812ef837",
+        "e5de457dfb901c53485a52be22a77e07"
       ],
-      "last_run": "2026-06-20T02:32:53.859633+00:00",
+      "last_run": "2026-06-20T02:48:21.884963+00:00",
       "new_sub_topics_this_run": [
         "deep",
         "dive",
@@ -893,7 +893,7 @@
         "robyn",
         "deep-dive"
       ],
-      "last_new_count": 5
+      "last_new_count": 7
     }
   },
   "last_run": "2026-06-20T02:32:53.859633+00:00"

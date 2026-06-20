@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-20** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating, language, landscape, typing | src: type-systems <!-- h:f2495424757e7dd538dd771f623f1a0f -->
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: efficient, selection, type, annotations | src: type-systems <!-- h:05e87cbef36cd8edbadc65c13cd2b4af -->
+- **2026-06-20** | [Advanced TypeScript Type System Features](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features) | kw: advanced, typescript, type, system | src: type-systems <!-- h:edf2bc1c3681cf7fe9c9e8a78f5a9a6e -->
+- **2026-06-20** | [Type-Based Gradual Typing Performance Optimization | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3632931) | kw: type, gradual, typing, performance | src: type-systems <!-- h:2c38d30abace38622d9bad08db378606 -->
+- **2026-06-20** | [Design and Evaluation of Gradual Typing for Python](https://jsiek.github.io/home/dls28-vitousekA.pdf) | kw: design, evaluation, gradual, typing | src: type-systems <!-- h:ed513f6e12395c8fbbf5e5415449aabd -->
+- **2026-06-20** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs - Christophe Garon](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: understanding, graduality, programming, languages | src: type-systems <!-- h:543697ac79673cc3f8f429709121926e -->
+- **2026-06-20** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: gradual, typing, type, theory | src: type-systems <!-- h:796dd8fb9f6369a2e77f75139af26f3c -->
 - **2026-06-20** | [100+ Type Inference Online Courses for 2026 | Explore Free ...](https://www.classcentral.com/subject/type-inference) | kw: type, inference, online | src: type-systems <!-- h:e3bc0b0f77bacd576c2e474dc4a44101 -->
 - **2026-06-20** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/en/category/project/type/gradual-typing) | kw: gradual, typing | src: type-systems <!-- h:109f52ff787be91e620cda3aadd96642 -->
 - **2026-06-20** | [Gradual Typing - Language Design and Implementation | ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual, typing, language | src: type-systems <!-- h:f333bd41608e9168a9593cda75a5d292 -->

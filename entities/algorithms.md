@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-20** | [Data Structures Interview Questions and Answers (2026 ...](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data, structures, interview, questions | src: algorithms <!-- h:e7cb63adafd27fca3ead2584308babd3 -->
+- **2026-06-20** | [GitHub - kashifansari17/Leetcode-TOP-75-](https://github.com/kashifansari17/Leetcode-TOP-75-) | kw: github, kashifansari17, leetcode, top | src: algorithms <!-- h:09191b710a89e39a177a7aea73cfb65b -->
+- **2026-06-20** | [How to Prepare for LeetCode: A Complete Strategy Guide for 2026](https://www.easyresume.online/blog/leetcode-preparation-guide) | kw: prepare, leetcode, complete, strategy | src: algorithms <!-- h:143876bc0621660474126a01477b0355 -->
+- **2026-06-20** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data, structures, interview, questions | src: algorithms <!-- h:7d194ad3d9a4f9a87cd4de35548c005c -->
 - **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-wise - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise) | kw: top, data, structure | src: algorithms <!-- h:52c1044b93ed63a1b4151d6cb3b11cda -->
 - **2026-06-20** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: data, structure | src: algorithms <!-- h:9bae7c320eaa49023b76088f638f22f3 -->
 - **2026-06-20** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: top, data, structure | src: algorithms <!-- h:c09d949fed12685831ee37a2c49ed7b3 -->
