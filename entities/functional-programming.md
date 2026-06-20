@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monad: effectful programming](https://www.cs.toronto.edu/~trebla/CSCC24-2026-Summer/06-monad.html) | kw: Monad: effectful programming
+
 - **2026-06-20** | [Haskell Popularity 2026 — Rankings, Trends & Data | LangPop | LangPop](https://langpop.com/language/haskell) | kw: Haskell Popularity 2026 — Rankings,
 - **2026-06-20** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top 22 Best Functional Programming
 - **2026-06-20** | [Chaos and Order - youngju.dev](https://www.youngju.dev/transcribe/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Chaos and Order
