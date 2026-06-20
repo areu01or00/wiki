@@ -111,11 +111,6 @@
         "Around"
       ],
       "last_result_hashes": [
-        "3d924683b109e99c93d7ba785e0c7ab0",
-        "2ebbe3411f331c326ab1fd19aa4e50c7",
-        "6a844cba5f4dbe6112de4dacb09bede6",
-        "2b816d0cf4bff7a093aa08f5c173a8c6",
-        "dffcbc8662b09cb0a5c2d9645a80041f",
         "5aeac4fa30fb41ccddd5bdbec41ec241",
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "46a56982536c8a4f9801b7d471165b39",
@@ -130,11 +125,22 @@
         "7adb740512b7087138618dd825b4af4c",
         "2eed777e217c8f707d96cab621255e90",
         "729c2ff54afb3063182d60de7d6aef1c",
-        "7c1f6bf914efb4646d7180593f7f6937"
+        "7c1f6bf914efb4646d7180593f7f6937",
+        "e9d45130824f67775300df37d0b653d5",
+        "0bccdfeceeee7664c4e61f75605f9f8f",
+        "92d071cfe790dbd36f457c42356f1ce0",
+        "6fe9880853103e8782a6653a46dc9a3c",
+        "f44e8f319a82e4326a1f822b5b40ca96"
       ],
-      "last_run": "2026-06-20T10:03:34.520208+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T10:15:41.000000+00:00",
+      "new_sub_topics_this_run": [
+        "Distributed Systems Roadmap (2026) | The Design Round",
+        "Engineer",
+        "Part",
+        "Microservices Architecture in 2026: Building Scalable Distri",
+        "Must"
+      ],
+      "last_new_count": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -243,13 +249,6 @@
         "IICT 2026"
       ],
       "last_result_hashes": [
-        "a888bd8966b306914c973b55ba7dd171",
-        "7ed9cf6296b93bcd1574511795e44641",
-        "a17409ab9dd49df56a7674658d3ba1e4",
-        "d9d4ad55b78665ab0a2d532ee5a54262",
-        "39e0cdfc33be139856c127f0a6db73d3",
-        "f9a020f5e9c084036d48a40845afdc76",
-        "dc5ada16f234dc184f112304b0917552",
         "5d4ac715e54509da805ad5c64a5b6b9b",
         "f206368f76599fbab65a46387373312b",
         "b86eb07f5a984fccae1bb38c4d48f846",
@@ -262,13 +261,24 @@
         "633a04b5f15ef6a247608d349825aec3",
         "356653e96551f08a707c2ddada2fe1c8",
         "9b9e5b41a1c52064d55b23f06ea84096",
-        "dde9e8d6fb49d441eb6cc93b5b9f79cb"
+        "dde9e8d6fb49d441eb6cc93b5b9f79cb",
+        "bbbc8ef4ec78630cae3e49219b742618",
+        "a72b65ce0686a5d6284312afb588f812",
+        "4a4e0127b12cfd2d476b5aaa44376f2d",
+        "ae427aaa277c67469832326760f5569f",
+        "a14bbc9e2956abab65cb54c410fb7b58",
+        "d62fb6c647f11f96144c1ea575cff845",
+        "7731fb7ce05160d35b32be9432fa7936"
       ],
-      "last_run": "2026-06-20T10:03:34.520208+00:00",
+      "last_run": "2026-06-20T10:15:41.000000+00:00",
       "new_sub_topics_this_run": [
-        "IICT 2026"
+        "AI-Compiler Prompt Engineering: 2026 Cheat Sheet",
+        "How Jeandle Uses LLVM to Supercharge JVM Performance",
+        "FOSDEM",
+        "Uses",
+        "fork"
       ],
-      "last_new_count": 1
+      "last_new_count": 7
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -376,14 +386,6 @@
         "Why"
       ],
       "last_result_hashes": [
-        "a933f47a5feedf4f43c8b83a958ffe76",
-        "f2495424757e7dd538dd771f623f1a0f",
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "f9bac390acd3545993e18bd149c294b8",
-        "42736cfe295bdff6a4292ee33180fd66",
-        "ff00bec947b28402bebdfb806bddc150",
-        "b0b257ce43663e3177338e61f3e0e5f0",
-        "393c2007828b49d14ae2ce8a8bf61873",
         "1053fa1e5d3c47835cc3a5ecc1a46c52",
         "086347cd58071894c217e208bc64efd7",
         "be83423834c67b8671ef6f7b00eeb6c9",
@@ -395,11 +397,25 @@
         "086347cd58071894c217e208bc64efd7",
         "be83423834c67b8671ef6f7b00eeb6c9",
         "7f9d9d17e1451e3ee24574749b4b94d2",
-        "a62041fbd03c36044c10691af16fa6ad"
+        "a62041fbd03c36044c10691af16fa6ad",
+        "64b470da1594bf882606e4f34b1257e6",
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "e41077a65214ef0cb2bd1ff0a33a04f8",
+        "1a09c66fc587123d03c96ec66abb5f04",
+        "05e87cbef36cd8edbadc65c13cd2b4af",
+        "edf2bc1c3681cf7fe9c9e8a78f5a9a6e",
+        "3b2d4874080a77eb71b3e8dfe9c65d9c",
+        "a6ae4d578365450e03bd054fcf71d87a"
       ],
-      "last_run": "2026-06-20T10:03:34.520208+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T10:15:41.000000+00:00",
+      "new_sub_topics_this_run": [
+        "Efficient Selection of Type Annotations (Programming 2026)",
+        "Gradual Typing - Language Design and Implementation (ANU)",
+        "Design",
+        "category",
+        "Luau Type System Complete Guide \u2014 Strict Mode, Generics & Ty"
+      ],
+      "last_new_count": 8
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -536,14 +552,6 @@
         "effectful"
       ],
       "last_result_hashes": [
-        "8523d54f973c1802378dbbf186428ae2",
-        "47e6d74aef0c39ef251aad25fd7ff012",
-        "a637c1b028184eea6b2bb028d9aef416",
-        "cb3451b58dc0de64c4abaf6248054b44",
-        "89d87031e449ae356f26865a02b9a13d",
-        "ce1296b7730544a3db978dc13e7a351f",
-        "c233ce094f809bd93c2f4474229feed5",
-        "98e526be52c4f26f6ab112fd904d69d2",
         "19e9a027878cd9e15d80f9af087b154c",
         "c52f5174ff9b2fb18fb776e711ed0486",
         "a3493ff266b17fc6ca7d44bed6e59213",
@@ -555,11 +563,25 @@
         "c52f5174ff9b2fb18fb776e711ed0486",
         "a3493ff266b17fc6ca7d44bed6e59213",
         "619445cf59810e703603ef4f268058ee",
-        "c5bcaf01490daab7e999b17a95ee57ce"
+        "c5bcaf01490daab7e999b17a95ee57ce",
+        "4f7a842eeb604f03987bc224b057dd16",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "b9aee8cd3b1f3a65c5434fd926b58513",
+        "1e6684e614686f1f3aea846011b1d7a4",
+        "8b392f40f2d9484600edbc6565709ca7",
+        "f2aae33b728eb9f8b0ce18e5cd8c8fd5",
+        "5aab28d7fbd337a8668d6cbda3b0a9c1",
+        "1e23347071bace94cd96516373fa7b4d"
       ],
-      "last_run": "2026-06-20T10:03:34.520208+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T10:15:41.000000+00:00",
+      "new_sub_topics_this_run": [
+        "Solana",
+        "Ethereum",
+        "rust-monads - WIP implementation of monads in rust (William1",
+        "crate",
+        "Top 22 Best Functional Programming Languages In 2026"
+      ],
+      "last_new_count": 8
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -667,12 +689,6 @@
         "Prep"
       ],
       "last_result_hashes": [
-        "8e00f7d78d79009ecc1474da3255f3a8",
-        "c09d949fed12685831ee37a2c49ed7b3",
-        "09fb34f020c56145d7269228189a72c2",
-        "e7cb63adafd27fca3ead2584308babd3",
-        "8900f36a48596850ee5ba84a247a6c1d",
-        "c081d373fdb54070daade9a235858c9b",
         "7e9fdd8c2ffc71a23e29276c3701990a",
         "a6e47e2acc5ef8eb5219f265bbe0e541",
         "b904d28a0ee85bcb13a0cf74b522d262",
@@ -686,11 +702,23 @@
         "d6eb77479303dc4dc083a8460d7815d0",
         "a72a20f0713cd5feeef913e54a998932",
         "e105b734b6688dac3adb064364860950",
-        "544d7d110803052b93a7e0f05f49b7d5"
+        "544d7d110803052b93a7e0f05f49b7d5",
+        "613405d33bcccb5f1977e25016e73fd2",
+        "a5d426fa69281f4cbab42e654f015d28",
+        "419ddc9c61219c419523d8e37695e627",
+        "62add5b8946c35b08260ed806801ea83",
+        "5835e3a17a087ccb721b2816c8712b40",
+        "dab96727b0e837ac40af5e75c5faad8f"
       ],
-      "last_run": "2026-06-20T10:03:34.520208+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T10:15:41.000000+00:00",
+      "new_sub_topics_this_run": [
+        "Algorithms",
+        "GitHub - Ananya-Singh2406/Data-Structures-and-Algorithms---1",
+        "Ananya-Singh2406/Data-Structures-and-Algorithms---150-top-interview-questions",
+        "namastedev",
+        "50+ Data Structures and Algorithms Interview Questions for 2"
+      ],
+      "last_new_count": 6
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -798,13 +826,6 @@
         "Python:"
       ],
       "last_result_hashes": [
-        "bbb32fcf844e3a281c102e49f682c4c8",
-        "d2adce09b07afa8868adc1a5598d6db8",
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "aff79aed6e34d3f002b7fa14f5978b75",
-        "7cbc385e74fee929e99e936a1a9da13b",
-        "81a9e7d7445fd4f7670a530c7f055fd5",
         "8e164b039e6be2f4d6dd92a0812ef837",
         "b892d3268af415a5d0c10b3cc6cd89bf",
         "648db0dc3840621afdfd93ffb8732a78",
@@ -817,11 +838,24 @@
         "cc9b7e9ca696d3ed6356ac146599fabd",
         "3723dfa3f60cd99fa11d63a5fa09bc1f",
         "afa0341b1e7d616e0df73565a6742b31",
-        "087455b373dbe987da5078283f97a4cb"
+        "087455b373dbe987da5078283f97a4cb",
+        "7d7462b15a5b202849cc8e6a4ee62adf",
+        "6287e8dc37ecb68d7af1bc0e4b769a4f",
+        "999e699e6e78d8e383158b10f1c950f8",
+        "9a16abe455aad8976504790293f8762a",
+        "9132d1ca01d195338d05eb556f7164be",
+        "9df3859b4715ae95cd2f1c86331d9b55",
+        "b555ef9c87509d560632e0754a5f2098"
       ],
-      "last_run": "2026-06-20T10:03:34.520208+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T10:15:41.000000+00:00",
+      "new_sub_topics_this_run": [
+        "Python Internals: Memory Management & the Global Interpreter",
+        "What is the Global Interpreter Lock (GIL) in Python? Is It G",
+        "pythoncompiler.io",
+        "Code",
+        "Python's GIL Explained: The Hidden Lock That Affects Your Co"
+      ],
+      "last_new_count": 7
     }
   }
 }
