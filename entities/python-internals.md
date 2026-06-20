@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter | src: python-internals <!-- h:5451f574f8ac7101d4076e3f903cf1d4 -->
+- **2026-06-20** | [Charting Python's Parallel Future: GIL to Multi-Core Harmony](https://python.plainenglish.io/charting-pythons-parallel-future-the-evolution-from-gil-to-multi-core-harmony-52a4bc4e53ff) | kw: Charting Python's Parallel Future: GIL to Multi | src: python-internals <!-- h:177841e7d744c6ead13c1f86bc83f753 -->
+- **2026-06-20** | [Memory Management & GIL: Python Guide (2026)](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management & GIL: Python Guide (2026) | src: python-internals <!-- h:9b950d80d24710f2899e1b281e96098e -->
+- **2026-06-20** | [PEP 703 Explained: How Python Finally Removes the GIL](https://dev.to/epam_india_python/pep-703-explained-how-python-finally-removes-the-gil-49d) | kw: PEP 703 Explained: How Python Finally Removes the GIL | src: python-internals <!-- h:e8b1325fee08a5130ab9dfcdc6b44d0d -->
+- **2026-06-20** | [How Mojo's Owned Memory Model is Forcing ML Engineers to Rethink Python's GIL](https://devops-geek.net/nerd-space/how-mojo-s-owned-memory-model-is-forcing-ml-engineers-to-rethink-python-s-gil-bottlenecks-in-real-ti) | kw: How Mojo's Owned Memory Model is Forcing ML Engineers to Ret | src: python-internals <!-- h:dc9e6c0d88ac8b65f5e9210d5e76a29b -->
+
 
 - **2026-06-20** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: gil
 - **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI | Amin Mortezaie | May, 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: gil

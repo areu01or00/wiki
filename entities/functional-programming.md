@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [What is a monad? And who needs Haskell anyway? - Rust Forum](https://users.rust-lang.org/t/what-is-a-monad-and-who-needs-haskell-anyway/45710) | kw: What is a monad? And who needs Haskell anyway? | src: functional-programming <!-- h:fa084d7ca168297914b3265540402b1d -->
+- **2026-06-20** | [Haskell Interlude #83: POPL 2026 - Part 2](https://discourse.haskell.org/t/haskell-interlude-83-popl-2026-part-2/14274) | kw: Haskell Interlude #83: POPL 2026 | src: functional-programming <!-- h:ce28a60a12ee60735a41f5226ee34f7c -->
+- **2026-06-20** | [Rust: Haskell but more imperative? | Catalin's blog](https://catalin-tech.com/haskell-rust/) | kw: Rust: Haskell but more imperative? | src: functional-programming <!-- h:36f41d934d724056c8b848503ab8cee0 -->
+
 - **2026-06-20** | [Monads, Explained Without Bullshit | boringcactus](https://www.boringcactus.com/2020/07/18/monads-without-the-bullshit.html) | kw: Bullshit Explained Monads Without | src: functional-programming <!-- h:388a0e43201ae8b273872e3ab5bd973e -->
 
 

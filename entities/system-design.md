@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [System Design Fundamentals — Scalability, Availability, Caching, and Message Queues (Chaos and Order)](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System Design Fundamentals | src: system-design <!-- h:690d590f2d4747105628c6a7fb5c1fcb -->
+
 
 - **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices
 - **2026-06-20** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series, Part, Load, Balancing | src: system-design <!-- h:056b14e78a14af65a4d0ae47a4e64443 -->

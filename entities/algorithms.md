@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026 | src: algorithms <!-- h:09ba1908ae63111d1e15e6d4bafc047c -->
+- **2026-06-20** | [Top 50 Data Structures Interview Questions 2026](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: Top 50 Data Structures Interview Questions 2026 | src: algorithms <!-- h:ba4b0cdbecfd0bb24b772e378610b88a -->
+- **2026-06-20** | [Interview Prep: Algorithm Patterns | SyntaxCache](https://www.syntaxcache.com/interview-prep) | kw: Interview Prep: Algorithm Patterns | src: algorithms <!-- h:8d2ee4fd79aa63ae35ba64533026932c -->
+- **2026-06-20** | [Company-Wise LeetCode Questions (2026): DSA Practice](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company | src: algorithms <!-- h:d585e296ba367afac7a9a19446da9d9b -->
+- **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Solved Problems](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026: 50 Solved Problems | src: algorithms <!-- h:fa2e527cdd11acb8168cdbeff3eba418 -->
+- **2026-06-20** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode Patterns Cheat Sheet 2026: The 15 Patterns | src: algorithms <!-- h:ddef014a905f12cc996f99676462853f -->
+
 - **2026-06-20** | [LeetCode Roadmap: Your Complete DSA Preparation Guide](https://medium.com/@samyakmoon855/leetcode-dsa-preperation-guide-eadc70123984) | kw: LeetCode, Roadmap, Your, Complete, DSA | src: algorithms <!-- h:2ae1703e4f408c34a767cd38c9599300 -->
 
 - **2026-06-20** | [50+ Data Structures and Algorithms Interview Questions for 2026](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers/) | kw: algorithms

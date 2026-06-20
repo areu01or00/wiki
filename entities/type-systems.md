@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual Typing | src: type-systems <!-- h:911955f45e693686bc5efe45c6135743 -->
+- **2026-06-20** | [Yudai Tanabe](https://yudaitnb.github.io/) | kw: Yudai Tanabe | src: type-systems <!-- h:8cefa1880d3e2bb56bcdb51f5f6f7d4b -->
+- **2026-06-20** | [Gradual Typing as if Types Mattered](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Gradual Typing as if Types Mattered | src: type-systems <!-- h:deca5e7373216ca874ed5b7b942ce58a -->
+- **2026-06-20** | [Foundations for Gradual Typing - Khoury College](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing | src: type-systems <!-- h:50cbc6a3a7d282cc18645c87c79aa8c2 -->
+- **2026-06-20** | [The Ins and Outs of Gradual Type Inference - Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: The Ins and Outs of Gradual Type Inference | src: type-systems <!-- h:fe3570a7d423caa356fbf4161e0e8f7c -->
+- **2026-06-20** | [Gradual Typing with Inference - Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual Typing with Inference | src: type-systems <!-- h:9b76bc8fc3e098feb96cc051899c1264 -->
+- **2026-06-20** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/10.1145/3632931) | kw: Type | src: type-systems <!-- h:fc2a160e30ff2047c8b16d1d1b80ebd5 -->
+
 - **2026-06-20** | [The Evolution of Trust: Gradual and Dependent Typing in the Pursuit of Software Reliability](https://uplatz.com/blog/the-evolution-of-trust-gradual-and-dependent-typing-in-the-pursuit-of-software-reliability) | kw: Evolution | src: type-systems <!-- h:ff00bec947b28402bebdfb806bddc150 -->
 
 
