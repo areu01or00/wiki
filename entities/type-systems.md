@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Static analysis: ESLint, PHPStan, mypy — Architecture & Trade-offs](https://www.sachith.co.uk/static-analysis-eslint-phpstan-mypy-architecture-trade%E2%80%91offs-practical-guide-jun-19-2026/) | kw: Static, analysis:, ESLint, <!-- h:0df8da4f81f94fe446156f21e674f55a -->
+
 
 
 - **2026-06-20** | [TYPES 2026: TYPES 2026](https://types2026.cse.chalmers.se/) | kw: types types
