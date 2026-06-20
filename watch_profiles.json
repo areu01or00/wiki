@@ -111,6 +111,7 @@
         "Around"
       ],
       "last_result_hashes": [
+        "e9d45130824f67775300df37d0b653d5",
         "056b14e78a14af65a4d0ae47a4e64443",
         "f44e8f319a82e4326a1f822b5b40ca96",
         "8282bc38c31cae78de009daeeac96471",
@@ -129,17 +130,19 @@
         "aaaf9550e5e27d5469ea0edd84372b77",
         "a4f767c8d886ec8f2fab1999efc97283",
         "1540cdcd553b7007547862f5309a216c",
-        "848a06554e3ca137e425aa0a6367b703",
-        "823c0b2b4f576789f890e0318d62cd26"
+        "848a06554e3ca137e425aa0a6367b703"
       ],
-      "last_run": "2026-06-20T09:17:09.191215+00:00",
+      "last_run": "2026-06-20T09:31:53.207391+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 4
+      "last_new_count": 1
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
       "wiki_page": "compilers.md",
       "sub_topics": [
+        "orcjit",
+        "scale",
+        "plugin",
         "Technology",
         "Upcoming Challenges",
         "Binary",
@@ -188,7 +191,6 @@
         "Register",
         "Compilers",
         "Free",
-        "LLVM",
         "Power",
         "LLVM,",
         "LLVM JIT",
@@ -237,42 +239,12 @@
         "Runtimes",
         "Infrastructure",
         "Language",
-        "Future",
-        "Lowers",
-        "Analysis",
-        "JLLVM/JLLVM",
-        "FOSDEM",
-        "Deep",
-        "Overlooked Power",
-        "Cheat",
-        "Monomorphization",
-        "Clang,",
-        "Guide",
-        "BrainDetox",
-        "docs",
-        "Caching",
-        "design",
-        "LLVM 22",
-        "RomanPikhotskiy/compiler-course-2026",
-        "Order",
-        "Dive]",
-        "Dive",
-        "Performance",
-        "Revolution",
-        "Look",
-        "Unlocking",
-        "newsletter",
-        "using",
-        "That",
-        "Case",
-        "BuildingAJIT1.rst",
-        "course-spring-2026",
-        "Group",
-        "Just-In-Time",
-        "Create",
-        "Programming"
+        "Future"
       ],
       "last_result_hashes": [
+        "14bec6c679203be13206205a9edb80d7",
+        "23259200a7be4533fe1e25b8fdeb4b83",
+        "d1fd932d1da3adfb0dbab8bdc1cf0621",
         "93f4a8a6ac55b778b21dd4ef60469186",
         "381d5a6bbb9293188ce2d8458890bd5a",
         "ae427aaa277c67469832326760f5569f",
@@ -289,19 +261,21 @@
         "f206368f76599fbab65a46387373312b",
         "b86eb07f5a984fccae1bb38c4d48f846",
         "9549ee3df2b4c698c35929d6eea7600f",
-        "5cefefefe6afc297697ed1187181b6a1",
-        "87b2d3060a9e39d5aadea7b5b03037b2",
-        "0a15046e9d1ec0b3562759ee9b1d6104",
-        "abf8e1d812ec68bce315815ca285f289"
+        "5cefefefe6afc297697ed1187181b6a1"
       ],
-      "last_run": "2026-06-20T09:17:09.191215+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 5
+      "last_run": "2026-06-20T09:31:53.207391+00:00",
+      "new_sub_topics_this_run": [
+        "orcjit",
+        "scale",
+        "plugin"
+      ],
+      "last_new_count": 3
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
       "wiki_page": "type-systems.md",
       "sub_topics": [
+        "birjob",
         "What",
         "Know",
         "Features",
@@ -400,41 +374,11 @@
         "Unexpected Dangers",
         "Unification-based",
         "Wenjia",
-        "Why",
-        "Why Lua",
-        "Wikipedia",
-        "Yudai Tanabe",
-        "and",
-        "for",
-        "gradual-typing",
-        "kevle6",
-        "numberanalytics.com",
-        "the",
-        "through",
-        "with",
-        "JIT",
-        "Typing:",
-        "Putting",
-        "Public",
-        "Access",
-        "Papers)",
-        "Online",
-        "Courses",
-        "Functions",
-        "Together",
-        "Functionality",
-        "Formalization",
-        "Best",
-        "Better",
-        "Code",
-        "Generics",
-        "Oflight",
-        "Techniques",
-        "Developers",
-        "CPON",
-        "NAVI"
+        "Why"
       ],
       "last_result_hashes": [
+        "a62041fbd03c36044c10691af16fa6ad",
+        "960c3757b01a3b5c2b782f876f59a49d",
         "063c2f3eadaf2be7e059d09de8a540f4",
         "8152c0fa97986388894bbc6fe44824e4",
         "1f3e7d1bf4955c674237c70349a25b1d",
@@ -452,13 +396,13 @@
         "f2495424757e7dd538dd771f623f1a0f",
         "796dd8fb9f6369a2e77f75139af26f3c",
         "f9bac390acd3545993e18bd149c294b8",
-        "42736cfe295bdff6a4292ee33180fd66",
-        "9648d9185a3be9b3e6938953235a4471",
-        "0811ce20c14f7bb05ab80934bde08f60"
+        "42736cfe295bdff6a4292ee33180fd66"
       ],
-      "last_run": "2026-06-20T09:17:09.191215+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 4
+      "last_run": "2026-06-20T09:31:53.207391+00:00",
+      "new_sub_topics_this_run": [
+        "birjob"
+      ],
+      "last_new_count": 2
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -595,6 +539,9 @@
         "effectful"
       ],
       "last_result_hashes": [
+        "682e4f2ea7f6c66070b1a4e7cdce6a2f",
+        "ab1a401478bf91151df62818473f5ef5",
+        "5aab28d7fbd337a8668d6cbda3b0a9c1",
         "f53501654019cdf5d1c7d9679518b660",
         "c35700ff9f0773d69682721949231b06",
         "687171a5db4daed91bdc3e6a4a3773a1",
@@ -611,19 +558,19 @@
         "a637c1b028184eea6b2bb028d9aef416",
         "cb3451b58dc0de64c4abaf6248054b44",
         "89d87031e449ae356f26865a02b9a13d",
-        "ce1296b7730544a3db978dc13e7a351f",
-        "556d9932d7619ca94f497fe35f383acc",
-        "c52f5174ff9b2fb18fb776e711ed0486",
-        "a1fd2b9212d955769e6bbfad262f2fb9"
+        "ce1296b7730544a3db978dc13e7a351f"
       ],
-      "last_run": "2026-06-20T09:17:09.191215+00:00",
+      "last_run": "2026-06-20T09:31:53.207391+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 5
+      "last_new_count": 3
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
       "wiki_page": "algorithms.md",
       "sub_topics": [
+        "alone",
+        "won't",
+        "community",
         "Path",
         "essential",
         "Leading",
@@ -697,7 +644,6 @@
         "Actually",
         "Questions",
         "Full",
-        "interview",
         "LEETCODE",
         "Practice",
         "Structure",
@@ -721,42 +667,11 @@
         "Internshala",
         "Replace",
         "Asking",
-        "Prep",
-        "Topic-wise",
-        "Courses",
-        "Works",
-        "What",
-        "Programming",
-        "Interviews",
-        "DSA",
-        "collection",
-        "Start",
-        "Compare",
-        "questions",
-        "Bridge",
-        "Roadmap:",
-        "Coding",
-        "Guide",
-        "LeetCode",
-        "Grinding,",
-        "Advanced Data Structures & Algorithms in C++ - Foothill Coll",
-        "TechPrep",
-        "Advanced",
-        "Senior",
-        "Algorithms",
-        "TCS",
-        "Beginner",
-        "Discuss",
-        "That",
-        "top",
-        "ace",
-        "FAANG",
-        "coding",
-        "interviews",
-        "Algorithm",
-        "Coach"
+        "Prep"
       ],
       "last_result_hashes": [
+        "4206f0548aa77b69bedc008d791bb11e",
+        "89930b44724eb9643d814762f9f5f7d6",
         "b374c779c101dd010d1f2ed0450afdee",
         "790a5d205d270e758b4525f2d41612d8",
         "41e9158da22e47e3dcfa3e68b3ebf6d6",
@@ -774,18 +689,21 @@
         "c081d373fdb54070daade9a235858c9b",
         "7e9fdd8c2ffc71a23e29276c3701990a",
         "a6e47e2acc5ef8eb5219f265bbe0e541",
-        "b904d28a0ee85bcb13a0cf74b522d262",
-        "ba19b4240a469c3c9c16e9400bc5cdf2",
-        "4ec9197562ed29f30fe8327d7b5b0f53"
+        "b904d28a0ee85bcb13a0cf74b522d262"
       ],
-      "last_run": "2026-06-20T09:17:09.191215+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 7
+      "last_run": "2026-06-20T09:31:53.207391+00:00",
+      "new_sub_topics_this_run": [
+        "alone",
+        "won't",
+        "community"
+      ],
+      "last_new_count": 2
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
       "wiki_page": "python-internals.md",
       "sub_topics": [
+        "2026?",
         "Medium",
         "Multi-Core",
         "Hashnode",
@@ -800,7 +718,6 @@
         "CPython",
         "Consensus",
         "Controversy",
-        "Cpython",
         "Dead",
         "Explained",
         "Exploring",
@@ -885,15 +802,12 @@
         "Internals:",
         "No-GIL:",
         "Modern",
-        "Python:",
-        "Exists)",
-        "Amin",
-        "Mortezaie",
-        "Charting",
-        "Parallel",
-        "Evolution"
+        "Python:"
       ],
       "last_result_hashes": [
+        "6287e8dc37ecb68d7af1bc0e4b769a4f",
+        "d1315bff0158901523a129a2795ca3dd",
+        "283fb39044b34bfe8a95f13934557e72",
         "23f806669425cddfbb81ceb3202ed519",
         "993340ba10508d27975679f77e08cd57",
         "704da68a060e620278ad7620fdf6c8a8",
@@ -910,13 +824,12 @@
         "b892d3268af415a5d0c10b3cc6cd89bf",
         "648db0dc3840621afdfd93ffb8732a78",
         "3006637548d18ceb70f45867121eb2a4",
-        "169bf54a9770f57d9b83dc707fac0053",
-        "59b8ef2b26eb329e0931d31d180ddecf",
-        "537b11ba74a1ff01421810cff8de62f6",
-        "9df3859b4715ae95cd2f1c86331d9b55"
+        "169bf54a9770f57d9b83dc707fac0053"
       ],
-      "last_run": "2026-06-20T09:17:09.191215+00:00",
-      "new_sub_topics_this_run": [],
+      "last_run": "2026-06-20T09:31:53.207391+00:00",
+      "new_sub_topics_this_run": [
+        "2026?"
+      ],
       "last_new_count": 3
     }
   }

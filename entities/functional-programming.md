@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-20** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: monads
+- **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monads
+- **2026-06-20** | [Rust: Functional Programming & Monads | by Technocrat](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: monads
 - **2026-06-20** | [GitHub - wrsturgeon/rsmonad: Haskell-style monads in Rust.](https://github.com/wrsturgeon/rsmonad) | kw: GitHub, wrsturgeon/rsmonad, Haskell, style, monads, Rust. | src: functional-programming <!-- h:f53501654019cdf5d1c7d9679518b660 -->
 - **2026-06-20** | [What is a Monad (in Rust)? - mspandit.github.io](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: What, Monad, (in, Rust)?, mspandit.github.io | src: functional-programming <!-- h:c35700ff9f0773d69682721949231b06 -->
 - **2026-06-20** | [Monadic Design Patterns in Haskell: Mastering Functional Programming](https://softwarepatternslexicon.com/haskell/functional-design-patterns/monadic-design-patterns) | kw: Monadic, Design, Patterns, Haskell, Mastering, Functional | src: functional-programming <!-- h:687171a5db4daed91bdc3e6a4a3773a1 -->

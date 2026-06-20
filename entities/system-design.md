@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+
+- **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices
 - **2026-06-20** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series, Part, Load, Balancing | src: system-design <!-- h:056b14e78a14af65a4d0ae47a4e64443 -->
 - **2026-06-20** | [Microservices Architecture in 2026: Building Scalable Distributed Systems](https://scga.hk/blog/microservices-architecture-2026) | kw: Microservices, Architecture, 2026, Building, Scalable, Distributed | src: system-design <!-- h:f44e8f319a82e4326a1f822b5b40ca96 -->
 - **2026-06-20** | [Patterns of Distributed Systems: Complete Roadmap | Chanh Le](https://chanhle.dev/en/blog/patterns-of-distributed-systems-roadmap) | kw: Patterns, Distributed, Systems, Complete, Roadmap, Chanh | src: system-design <!-- h:8282bc38c31cae78de009daeeac96471 -->

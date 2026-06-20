@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-20** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: dsa
+- **2026-06-20** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics - DEV Community](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: leetcode
+
+  - Added sub-topics (algorithms): alone, won't, community
 - **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best, DSA, Sheet, 2026, Crack, Interviews | src: algorithms <!-- h:b374c779c101dd010d1f2ed0450afdee -->
 - **2026-06-20** | [50+ Data Structures and Algorithms Interview Questions for 2026](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers) | kw: 50+, Data, Structures, and, Algorithms, Interview | src: algorithms <!-- h:790a5d205d270e758b4525f2d41612d8 -->
 - **2026-06-20** | [Data Structures and Algorithms for Coding Interview — Complete Python Resource - Samir Paul](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview/) | kw: Data, Structures, and, Algorithms, for, Coding | src: algorithms <!-- h:41e9158da22e47e3dcfa3e68b3ebf6d6 -->

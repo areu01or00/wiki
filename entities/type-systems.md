@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-20** | [Gradual Typing with Unification-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: gradual typing
+- **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now | BirJob](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: luau
+
+  - Added sub-topics (type-systems): birjob
 - **2026-06-20** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: gradual, typing, Programming, Research, Group | src: type-systems <!-- h:063c2f3eadaf2be7e059d09de8a540f4 -->
 - **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau, Type, System, Complete, Guide, Strict | src: type-systems <!-- h:8152c0fa97986388894bbc6fe44824e4 -->
 - **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: Lua, 2026, Why, Lua, 5.5, LuaJIT | src: type-systems <!-- h:1f3e7d1bf4955c674237c70349a25b1d -->
