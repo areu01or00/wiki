@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [AI System Architecture Explained](https://fulcrumdigital.com/glossary/ai-system-architecture) | kw: AI System Architecture Explained <!-- h:35c8bb13d9d0e62cd40016dae933ba94 -->
+
 - **2026-06-20** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns <!-- h:3d924683b109e99c93d7ba785e0c7ab0 -->
 - **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns in 2026: Mastering Distr <!-- h:e9d45130824f67775300df37d0b653d5 -->
 - **2026-06-20** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed System Design: the complete guide to building sc <!-- h:aaaf9550e5e27d5469ea0edd84372b77 -->

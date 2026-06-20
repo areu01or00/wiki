@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing - Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/journal-of-functional-programming/collections/gradual-typing) | kw: Gradual Typing - Cambridge University Press & Assessment <!-- h:3a0aa8c19b47bfae2991e2cad4f680ae -->
+
 - **2026-06-20** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345v3) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste <!-- h:b0b257ce43663e3177338e61f3e0e5f0 -->
 - **2026-06-20** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types to Work - NSF Public Access <!-- h:393c2007828b49d14ae2ce8a8bf61873 -->
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations for Performance Impr <!-- h:1053fa1e5d3c47835cc3a5ecc1a46c52 -->
