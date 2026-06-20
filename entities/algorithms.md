@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Company-Wise LeetCode Questions (2026): DSA Practice by ...](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: algorithms | src: algorithms <!-- h:8ec4ac28253c4f016997232629004129 -->
+- **2026-06-20** | [Explore - LeetCode](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: algorithms | src: algorithms <!-- h:dab5189ef3ae5fb004933e5992b3a43d -->
+
 - **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Problems [Solved]](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: interview-prep
 - **2026-06-20** | [The Ultimate Guide to Top 150 LeetCode Problems](https://dev.to/soham0047/the-ultimate-guide-to-top-150-leetcode-problems-your-path-to-acing-technical-interviews-30h1) | kw: interview-prep
 - **2026-06-20** | [Top 50 Data Structures Interview Questions 2026](https://papersadda.com/article/data-structures-interview-questions-2026/) | kw: interview-prep

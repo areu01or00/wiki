@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [Compiler & Interpreter Design: From Parsers to LLVM and AI Compilers (TVM/XLA)](https://www.youngju.dev/blog/ai/2026-03-17-compiler-interpreter-design-guide.en) | kw: compilers | src: compilers <!-- h:220b22e5eedcf8ef18552f04db52458b -->
+
 - **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: LLVM
 - **2026-06-20** | [FOSDEM 2026 - LLVM](https://fosdem.org/2026/schedule/track/llvm/) | kw: LLVM
 - **2026-06-20** | [GitHub - cloudsealed/JIT-Optimization-Engine: A high-performance execution engine utilizing LLVM-based JIT compilation](https://github.com/cloudsealed/JIT-Optimization-Engine) | kw: JIT
