@@ -128,9 +128,9 @@
         "b7b724dd42585c9ceb6c7e74762d9e03",
         "928794215d9b3f52e22a0ace1e287d9a"
       ],
-      "last_run": "2026-06-20T07:02:47.257879+00:00",
+      "last_run": "2026-06-20T07:18:21.852208+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 5
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -188,7 +188,7 @@
         "LLVM",
         "LLVM JIT",
         "LLVM/Clang",
-        "LLVMのJITについてLLMの説明が分からなくて困る",
+        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
         "Language",
         "Look",
         "Lowers",
@@ -284,7 +284,7 @@
         "5d4ac715e54509da805ad5c64a5b6b9b",
         "191137fb0d9c6770341ad41eba235f6e"
       ],
-      "last_run": "2026-06-20T07:02:47.257879+00:00",
+      "last_run": "2026-06-20T07:18:21.852208+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -437,9 +437,9 @@
         "409ea50922e3f8306cf41784b666f355",
         "543697ac79673cc3f8f429709121926e"
       ],
-      "last_run": "2026-06-20T07:02:47.257879+00:00",
+      "last_run": "2026-06-20T07:18:21.852208+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 3
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -551,7 +551,7 @@
         "with",
         "Introduction",
         "Documentation",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Patterns",
         "Rust:",
         "Chaos",
@@ -588,9 +588,9 @@
         "cb6f209024e888c772ad3108884b84ca",
         "ab1a401478bf91151df62818473f5ef5"
       ],
-      "last_run": "2026-06-20T07:02:47.257879+00:00",
+      "last_run": "2026-06-20T07:18:21.852208+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -743,9 +743,9 @@
         "720136d7f7248931e10997bc994128a2",
         "9254439d994c8bfdda25e8291db6c296"
       ],
-      "last_run": "2026-06-20T07:02:47.257879+00:00",
+      "last_run": "2026-06-20T07:18:21.852208+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 5
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -875,9 +875,9 @@
         "9132d1ca01d195338d05eb556f7164be",
         "cdbc29f4deb816b0ab96a34060144824"
       ],
-      "last_run": "2026-06-20T07:02:47.257879+00:00",
+      "last_run": "2026-06-20T07:18:21.852208+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 2
+      "last_new_count": 0
     }
   }
 }
