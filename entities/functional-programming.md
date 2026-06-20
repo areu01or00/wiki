@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monads, Explained Without Bullshit | boringcactus](https://www.boringcactus.com/2020/07/18/monads-without-the-bullshit.html) | kw: Bullshit Explained Monads Without | src: functional-programming <!-- h:388a0e43201ae8b273872e3ab5bd973e -->
+
 
 - **2026-06-20** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads%3A_Not_Through_Haskell_But_Through_Rust) | kw: monads
 - **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monads
