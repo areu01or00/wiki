@@ -1,6 +1,7 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Scalability Patterns Architecture Guide 2026 - ARDURA Consulting](https://ardura.consulting/blog/scalability-patterns-architecture-guide-2026) | kw: Scalability, Patterns, Architecture, 2026 | src: system-design <!-- h:21a9d6b044c19bf89dfa9198991bf6b7 -->
 - **2026-06-20** | [System Design Fundamentals — Scalability, Availability, Caching, and Message Queues (Chaos and Order)](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System Design Fundamentals | src: system-design <!-- h:690d590f2d4747105628c6a7fb5c1fcb -->
 
 
