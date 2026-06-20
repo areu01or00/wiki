@@ -148,7 +148,7 @@
         "690d590f2d4747105628c6a7fb5c1fcb",
         "21a9d6b044c19bf89dfa9198991bf6b7"
       ],
-      "last_run": "2026-06-20T11:17:23.541297+00:00",
+      "last_run": "2026-06-20T11:31:35.526121+00:00",
       "new_sub_topics_this_run": [
         "Order",
         "Fundamentals",
@@ -162,7 +162,7 @@
         "QUIC",
         "eBPF"
       ],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -306,7 +306,7 @@
         "eab3a0974bfb88eaa316f1a6cdddbc73",
         "17a9ff8a71e2e0c4a86ad1f87464fc32"
       ],
-      "last_run": "2026-06-20T11:17:23.541297+00:00",
+      "last_run": "2026-06-20T11:31:35.526121+00:00",
       "new_sub_topics_this_run": [
         "The",
         "LLVM",
@@ -466,7 +466,7 @@
         "9b76bc8fc3e098feb96cc051899c1264",
         "fc2a160e30ff2047c8b16d1d1b80ebd5"
       ],
-      "last_run": "2026-06-20T11:17:23.541297+00:00",
+      "last_run": "2026-06-20T11:31:35.526121+00:00",
       "new_sub_topics_this_run": [
         "Tanabe",
         "The",
@@ -648,7 +648,7 @@
         "ce28a60a12ee60735a41f5226ee34f7c",
         "36f41d934d724056c8b848503ab8cee0"
       ],
-      "last_run": "2026-06-20T11:17:23.541297+00:00",
+      "last_run": "2026-06-20T11:31:35.526121+00:00",
       "new_sub_topics_this_run": [
         "Catalin",
         "Forum",
@@ -801,7 +801,7 @@
         "fa2e527cdd11acb8168cdbeff3eba418",
         "ddef014a905f12cc996f99676462853f"
       ],
-      "last_run": "2026-06-20T11:17:23.541297+00:00",
+      "last_run": "2026-06-20T11:31:35.526121+00:00",
       "new_sub_topics_this_run": [
         "LeetCode",
         "Cheat",
@@ -965,7 +965,7 @@
         "e8b1325fee08a5130ab9dfcdc6b44d0d",
         "dc9e6c0d88ac8b65f5e9210d5e76a29b"
       ],
-      "last_run": "2026-06-20T11:17:23.541297+00:00",
+      "last_run": "2026-06-20T11:31:35.526121+00:00",
       "new_sub_topics_this_run": [
         "Rethink",
         "Charting",
