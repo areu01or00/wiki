@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: monads, tutorial, monday <!-- h:fdc8e2b82500b598dc73a35e40bb2f1e -->
+- **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: does, rust, support <!-- h:81f416bda62e20437250860785d5442e -->
+
 - **2026-06-20** | [Introduction - Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/introduction.html) | kw: introduction learn you a haskell for | source: functional-programming
 
 

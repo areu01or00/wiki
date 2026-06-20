@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [System Design for Beginners — Online Course by NeetCode](https://courseflix.net/course/system-design-for-beginners) | kw: system, design, beginners <!-- h:d1616fa45d6220456f797072d4e5fff6 -->
+- **2026-06-20** | [Courses - Grokking System Design](https://www.systemdesigninterview.com/courses) | kw: courses, grokking, system <!-- h:0c80fa137c949cbb65c50fdcdff13aa5 -->
+- **2026-06-20** | [Neetcode System Design // Dylan Reid](https://www.dylanreid.io/neetcode-system-design) | kw: neetcode, system, design <!-- h:393de40048616c6377cc8cea3286fad5 -->
+- **2026-06-20** | [Grokking the System Design Interview Review (2026)](https://onlinecourseing.com/grokking-the-system-design-interview) | kw: grokking, system, design <!-- h:78790332d4f9eb9fb2b6d8d27b7df92a -->
+- **2026-06-20** | [System Design Interview Questions & Prep (from FAANG experts) - IGotAnOffer](https://igotanoffer.com/blogs/tech/system-design-interviews) | kw: system, design, interview <!-- h:c1b0924230e3213e948771ccc39b4fa3 -->
+- **2026-06-20** | [System Design Track](https://interviewpen.com/tracks/system-design) | kw: system, design, track <!-- h:5feaf9f114a7c1d1a2fb0e6eb6d9bd24 -->
+
 - **2026-06-20** | [Microservices Architecture Market Report 2026](https://www.researchandmarkets.com/reports/5782748/microservices-architecture-market-report) | kw: Microservices Architecture Market Report 2026 | src: system-design
 - **2026-06-20** | [Microservices in 2026: What's Actually Changing (And Why You Should Care)](https://medium.com/%40kamlesh90/microservices-in-2026-whats-actually-changing-and-why-you-should-care-4725ebb626f6) | kw: Microservices in 2026: What's Actually Changing | src: system-design
 - **2026-06-20** | [Istio Service Mesh Production Deployment: Advanced Security Patterns and Performance Tuning for Enterprise Kubernetes in 2026](https://www.hostmycode.com/blog/istio-service-mesh-production-deployment-security-patterns-performance-tuning-enterprise-kubernetes-2026) | kw: Istio Service Mesh Production Deployment: Advanced | src: system-design

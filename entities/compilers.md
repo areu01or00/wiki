@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [compiler-course-2026 BuildingAJIT1.rst (chekalexey fork)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, buildingajit1.rst, chekalexey <!-- h:9fde30c1f0557bcd13dfe21dac234e66 -->
+- **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-Based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: unlocking, performance, overlooked <!-- h:d37278b17b3f3d3a42bf217f0d3e56d5 -->
+
 - **2026-06-20** | [PHP Development Roadmap for 2025-2026 [EN] - pythonlib.ru](https://pythonlib.ru/en/news-post222) | kw: php development roadmap for 20252026 en | source: compilers
 
 

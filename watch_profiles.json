@@ -101,12 +101,6 @@
         "Design:"
       ],
       "last_result_hashes": [
-        "947ef4a459c7b021dcba444501ac2eb6",
-        "039f4604be4d75d86450b0e51a630bb2",
-        "9c8b53ba718554b3b27433402ba4c614",
-        "9aad8fdd510436e42b9376e3a3a7bc13",
-        "b058014321cf40846be6df03d5088655",
-        "b99ff50013e2bb0e0a5279b82a4cbb2e",
         "b6daf0a15085ed3ea85924af5f415dc8",
         "83bdadc6517e7ca2eaf00a16882c7f19",
         "fb531fb56876d75ee92db482ec3e7e10",
@@ -120,22 +114,33 @@
         "8a4c6c3b1a58ba76429a4cc01eb115a4",
         "dffcbc8662b09cb0a5c2d9645a80041f",
         "d7e4053d8359b5818b4128259533ab69",
-        "ad1abed58fb932a97f41b79fc33bea65"
+        "ad1abed58fb932a97f41b79fc33bea65",
+        "d1616fa45d6220456f797072d4e5fff6",
+        "0c80fa137c949cbb65c50fdcdff13aa5",
+        "393de40048616c6377cc8cea3286fad5",
+        "78790332d4f9eb9fb2b6d8d27b7df92a",
+        "c1b0924230e3213e948771ccc39b4fa3",
+        "5feaf9f114a7c1d1a2fb0e6eb6d9bd24"
       ],
-      "last_run": "2026-06-20T02:02:28+00:00",
+      "last_run": "2026-06-20T02:16:50.715565+00:00",
       "new_sub_topics_this_run": [
-        "Market",
-        "Report",
-        "Actually",
-        "Changing",
-        "Should",
-        "Care",
-        "Istio",
-        "Service",
-        "Mesh",
-        "Production"
+        "beginners",
+        "online",
+        "course",
+        "neetcode",
+        "courses",
+        "grokking",
+        "dylan",
+        "reid",
+        "interview",
+        "review",
+        "questions",
+        "prep",
+        "from",
+        "faang",
+        "experts"
       ],
-      "last_new_count": 12
+      "last_new_count": 6
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -267,8 +272,6 @@
         "Clang,"
       ],
       "last_result_hashes": [
-        "191137fb0d9c6770341ad41eba235f6e",
-        "dc5ada16f234dc184f112304b0917552",
         "f59aecd9d2bb1c9a8e2250bf412480f0",
         "8a3c0b54b932f41af83e9ef65e0ed05d",
         "e3de56741106b3ae528cad3750a09844",
@@ -286,11 +289,17 @@
         "71c33262bb6fe28614d87220172c6995",
         "d62fb6c647f11f96144c1ea575cff845",
         "4a4e0127b12cfd2d476b5aaa44376f2d",
-        "b226e59e0470076776ec719903333499"
+        "b226e59e0470076776ec719903333499",
+        "9fde30c1f0557bcd13dfe21dac234e66",
+        "d37278b17b3f3d3a42bf217f0d3e56d5"
       ],
-      "last_run": "2026-06-20T02:02:28+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T02:16:50.715565+00:00",
+      "new_sub_topics_this_run": [
+        "buildingajit1.rst",
+        "fork",
+        "2026"
+      ],
+      "last_new_count": 2
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -410,12 +419,6 @@
         "Courses"
       ],
       "last_result_hashes": [
-        "44dff52473198004b065790b047c82e9",
-        "b0526c61a8ac36c7585770854575460d",
-        "c54a8b3194796d27c915ab53ee5af432",
-        "c2837f2dcb81241a5ed79981d96506f7",
-        "ab0f0aec046257a08eb5f55278346d83",
-        "5c8d464c75e0f82550f068820dd0b4ad",
         "2c38d30abace38622d9bad08db378606",
         "f2495424757e7dd538dd771f623f1a0f",
         "702d73cf5ed45308bd3db10d51360006",
@@ -429,22 +432,26 @@
         "88dfcf74de33a1e88c9e9c90d0e55f9b",
         "deca5e7373216ca874ed5b7b942ce58a",
         "92a50716d512d793eb55712187c18082",
-        "08183a095f9bb03fe7dd6ce06dfd5115"
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "b026ef92bf282c4d85de696983ed4a8c",
+        "9302e97e7d8a54df8d01b2d4273fb984",
+        "8152c0fa97986388894bbc6fe44824e4",
+        "960c3757b01a3b5c2b782f876f59a49d",
+        "539299cdb002f1725e1d140c5784f165",
+        "086347cd58071894c217e208bc64efd7"
       ],
-      "last_run": "2026-06-20T02:02:28+00:00",
+      "last_run": "2026-06-20T02:16:50.715565+00:00",
       "new_sub_topics_this_run": [
-        "Algebraic",
-        "Effects",
-        "Functional",
-        "effect",
-        "reading",
-        "tedneward",
-        "Quiet",
-        "Revolution",
-        "Handle",
-        "Side"
+        "generics",
+        "functions",
+        "code",
+        "2026",
+        "birjob",
+        "‹programming›",
+        "pookietech",
+        "blog"
       ],
-      "last_new_count": 5
+      "last_new_count": 6
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -561,8 +568,6 @@
         "Rust:"
       ],
       "last_result_hashes": [
-        "0d5e42e964af9b4ef6ba72b42f761e14",
-        "da30b64fee43ee2a8a34587ebf26e0aa",
         "e40cf6b2194b9ff7656d1496aeb70e1b",
         "88755452686cdbfeca2c3e154b11cd1a",
         "1e23347071bace94cd96516373fa7b4d",
@@ -580,11 +585,17 @@
         "17283951f47a445f957ceef8fc9879ed",
         "c52f5174ff9b2fb18fb776e711ed0486",
         "5aab28d7fbd337a8668d6cbda3b0a9c1",
-        "19e9a027878cd9e15d80f9af087b154c"
+        "19e9a027878cd9e15d80f9af087b154c",
+        "fdc8e2b82500b598dc73a35e40bb2f1e",
+        "81f416bda62e20437250860785d5442e"
       ],
-      "last_run": "2026-06-20T02:02:28+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T02:16:50.715565+00:00",
+      "new_sub_topics_this_run": [
+        "tutorial",
+        "monday",
+        "morning"
+      ],
+      "last_new_count": 2
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -708,10 +719,6 @@
         "Digital)"
       ],
       "last_result_hashes": [
-        "056bbd57e6e437cc7875c28572cf4197",
-        "dba859e9113f969a0f84d759331953e7",
-        "f6a7f08dde3951b5c035276081f6ee49",
-        "84f2a91c9425354dcb3a063e977fad28",
         "60233ba12f224764b5938c3634b02e6a",
         "10d7129c85efbc86e21b710b48cc3f38",
         "09fb34f020c56145d7269228189a72c2",
@@ -727,11 +734,21 @@
         "f401f3578a305af873e8b580bcb2424e",
         "5894846bbc35ac51fe21dc903bfddad3",
         "758e32a5ad74796e353ebdfbf6d56a41",
-        "8d15aafde38b4f7003d03f97cfdf9d18"
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "8e00f7d78d79009ecc1474da3255f3a8",
+        "a56066fd0e506b025c869a0404bf41b2",
+        "3a5aa4dc7a08cf53617d8bc45fcdd95d",
+        "657382150215e7befdd19b921630e0b6"
       ],
-      "last_run": "2026-06-20T02:02:28+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T02:16:50.715565+00:00",
+      "new_sub_topics_this_run": [
+        "algorithm",
+        "coach",
+        "online",
+        "free",
+        "class"
+      ],
+      "last_new_count": 4
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -840,11 +857,6 @@
         "Exists)"
       ],
       "last_result_hashes": [
-        "195cc5355800be062c15e1a66ccfcacd",
-        "4cd24649bb264af960eb0db466e7076c",
-        "161c25f46a75d14df181df86b6139f49",
-        "993340ba10508d27975679f77e08cd57",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "5451f574f8ac7101d4076e3f903cf1d4",
         "507879acf3131fb6c383e24494db7d69",
         "704da68a060e620278ad7620fdf6c8a8",
@@ -859,12 +871,30 @@
         "393b9552409ec8ba6bdfd1665878c646",
         "b892d3268af415a5d0c10b3cc6cd89bf",
         "03e9423b802e0456d3fe98220b76ea3a",
-        "68175a2892a66724f669a8669b9ae03d"
+        "68175a2892a66724f669a8669b9ae03d",
+        "999e699e6e78d8e383158b10f1c950f8",
+        "1c9e34c438b893768685d5e9b0743087",
+        "7d7462b15a5b202849cc8e6a4ee62adf",
+        "23f806669425cddfbb81ceb3202ed519",
+        "d5d39117a6a17ca1c0adbe5e801b32a0"
       ],
-      "last_run": "2026-06-20T02:02:28+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-20T02:16:50.715565+00:00",
+      "new_sub_topics_this_run": [
+        "deep",
+        "dive",
+        "code",
+        "2026",
+        "3.13",
+        "3.14",
+        "ruff",
+        "polars",
+        "fastapi",
+        "litestar",
+        "robyn",
+        "deep-dive"
+      ],
+      "last_new_count": 5
     }
   },
-  "last_run": "2026-06-20T02:02:28+00:00"
+  "last_run": "2026-06-20T02:16:50.715565+00:00"
 }

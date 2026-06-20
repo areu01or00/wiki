@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL) - eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python, internals, memory <!-- h:999e699e6e78d8e383158b10f1c950f8 -->
+- **2026-06-20** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: python, memory, management <!-- h:1c9e34c438b893768685d5e9b0743087 -->
+- **2026-06-20** | [Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: python's, explained, hidden <!-- h:7d7462b15a5b202849cc8e6a4ee62adf -->
+- **2026-06-20** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: future, python, internals <!-- h:23f806669425cddfbb81ceb3202ed519 -->
+- **2026-06-20** | [Modern Python in 2026 — Python 3.13 / 3.14 / free-threaded / uv / Ruff / Polars 1.0 / FastAPI / Litestar / Robyn deep-dive](https://www.youngju.dev/blog/culture/2026-05-16-modern-python-2026-python-3-13-3-14-free-threaded-uv-ruff-polars-fastapi-litestar-robyn-deep-dive.en) | kw: modern, python, 2026 <!-- h:d5d39117a6a17ca1c0adbe5e801b32a0 -->
+
 
 - **2026-06-20** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: python gil key
 - **2026-06-20** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals memory

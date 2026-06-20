@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: gradual, typing, programming <!-- h:b026ef92bf282c4d85de696983ed4a8c -->
+- **2026-06-20** | [Gradual Typing with Unification-based Inference (Siek)](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: gradual, typing, with <!-- h:9302e97e7d8a54df8d01b2d4273fb984 -->
+- **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: luau, type, system <!-- h:8152c0fa97986388894bbc6fe44824e4 -->
+- **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now | BirJob](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: 2026, luajit, luau <!-- h:960c3757b01a3b5c2b782f876f59a49d -->
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient, selection, type <!-- h:539299cdb002f1725e1d140c5784f165 -->
+- **2026-06-20** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating, language, labyrinth <!-- h:086347cd58071894c217e208bc64efd7 -->
+
 - **2026-06-20** | [Algebraic Effects for Functional Programming](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v2.pdf) | kw: Algebraic Effects for Functional Programming | src: type-systems
 - **2026-06-20** | [Effects and effect systems (reading) - research.tedneward.com](https://research.tedneward.com/langdev/effects/index.html) | kw: Effects and effect systems (reading) - | src: type-systems
 - **2026-06-20** | [Algebraic Effects: The Quiet Revolution in How Languages Handle Side Effects](https://daily.jovis.ai/programming-languages/algebraic-effects-the-quiet-revolution-in-how-languages-handle-side-effects) | kw: Algebraic Effects: The Quiet Revolution in | src: type-systems

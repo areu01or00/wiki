@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Leetcode Algorithm Coach Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: leetcode, algorithm, coach <!-- h:8e00f7d78d79009ecc1474da3255f3a8 -->
+- **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: data, structure, algorithms <!-- h:a56066fd0e506b025c869a0404bf41b2 -->
+- **2026-06-20** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: leetcode, world's, leading <!-- h:3a5aa4dc7a08cf53617d8bc45fcdd95d -->
+- **2026-06-20** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews | Free Class AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: data, structures, algorithms <!-- h:657382150215e7befdd19b921630e0b6 -->
+
 
 - **2026-06-20** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company](https://www.dsaprep.dev/blog/company-wise-leetcode-questions/) | kw: company wise leetcode
 - **2026-06-20** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data structures interview
