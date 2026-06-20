@@ -140,32 +140,32 @@
         "Integration"
       ],
       "last_result_hashes": [
-        "819def563ddaf7904f8b8dacc40cb216",
-        "2eed777e217c8f707d96cab621255e90",
-        "f0867b873de5e0095075cc1e002a4368",
-        "b7b724dd42585c9ceb6c7e74762d9e03",
-        "a3c1c2b6d55ff083812e1ea086382dbd",
         "d0c843a5ab449318e1bdeb5d4f10d539",
-        "697337f881dc40cc977774b3475bbe3d",
-        "dffcbc8662b09cb0a5c2d9645a80041f",
-        "d7e4053d8359b5818b4128259533ab69",
-        "3528b9948758aac21f359ad485b705dc",
+        "a3c1c2b6d55ff083812e1ea086382dbd",
         "848a06554e3ca137e425aa0a6367b703",
-        "1540cdcd553b7007547862f5309a216c",
+        "697337f881dc40cc977774b3475bbe3d",
+        "b7b724dd42585c9ceb6c7e74762d9e03",
+        "dffcbc8662b09cb0a5c2d9645a80041f",
+        "7adb740512b7087138618dd825b4af4c",
+        "f0867b873de5e0095075cc1e002a4368",
         "92d071cfe790dbd36f457c42356f1ce0",
-        "5aeac4fa30fb41ccddd5bdbec41ec241",
+        "3528b9948758aac21f359ad485b705dc",
+        "8dcc989656a7e890f53bb7210db5487c",
+        "819def563ddaf7904f8b8dacc40cb216",
         "2b816d0cf4bff7a093aa08f5c173a8c6",
         "70c411feb51eb6a46c277d953d6d0a03",
+        "5aeac4fa30fb41ccddd5bdbec41ec241",
+        "1070f0a2060cf12a5911fb14f59b7ab8",
+        "1540cdcd553b7007547862f5309a216c",
         "46a56982536c8a4f9801b7d471165b39",
-        "7adb740512b7087138618dd825b4af4c",
-        "8dcc989656a7e890f53bb7210db5487c",
-        "1070f0a2060cf12a5911fb14f59b7ab8"
+        "2eed777e217c8f707d96cab621255e90",
+        "d7e4053d8359b5818b4128259533ab69"
       ],
-      "last_run": "2026-06-20T13:03:22.285138+00:00",
+      "last_run": "2026-06-20T13:18:34.145070+00:00",
       "new_sub_topics_this_run": [
         "Integration"
       ],
-      "last_new_count": 2
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -300,33 +300,33 @@
         "India"
       ],
       "last_result_hashes": [
+        "800015733c0c238966be36a4173a3c93",
+        "7d0b717005814217330e578b0fbdc8fb",
         "633a04b5f15ef6a247608d349825aec3",
         "9e15a6675bd30a9f4f1f425fe7991ab1",
-        "191137fb0d9c6770341ad41eba235f6e",
-        "c988d203ffb86a252a80be5c9dbd7a13",
-        "5d4ac715e54509da805ad5c64a5b6b9b",
-        "9549ee3df2b4c698c35929d6eea7600f",
-        "7d0b717005814217330e578b0fbdc8fb",
-        "514369ce0bb009dfc184b0836959b439",
-        "552fb7fa38d11b6f68d1330db02e2708",
-        "dc5ada16f234dc184f112304b0917552",
-        "d358b1a1df9b55bdf86271be66d297f8",
-        "5367299cd07955f21684fd6a40e84658",
-        "40ed91546301e54bdd9b40a0b43a3dfa",
-        "cd81edf8511034bfb061d67e42a19d20",
-        "800015733c0c238966be36a4173a3c93",
-        "962769c38e6c0125c6155bb325bd030a",
-        "7313dba9b029653c6c7d6581925ebbad",
         "6e76d5990761a54f756d319e37fddbb0",
+        "962769c38e6c0125c6155bb325bd030a",
+        "dc5ada16f234dc184f112304b0917552",
+        "c988d203ffb86a252a80be5c9dbd7a13",
+        "5367299cd07955f21684fd6a40e84658",
+        "552fb7fa38d11b6f68d1330db02e2708",
+        "40ed91546301e54bdd9b40a0b43a3dfa",
+        "5cefefefe6afc297697ed1187181b6a1",
+        "cd81edf8511034bfb061d67e42a19d20",
         "7731fb7ce05160d35b32be9432fa7936",
-        "5cefefefe6afc297697ed1187181b6a1"
+        "9549ee3df2b4c698c35929d6eea7600f",
+        "7313dba9b029653c6c7d6581925ebbad",
+        "5d4ac715e54509da805ad5c64a5b6b9b",
+        "191137fb0d9c6770341ad41eba235f6e",
+        "d358b1a1df9b55bdf86271be66d297f8",
+        "514369ce0bb009dfc184b0836959b439"
       ],
-      "last_run": "2026-06-20T13:03:22.285138+00:00",
+      "last_run": "2026-06-20T13:18:34.145070+00:00",
       "new_sub_topics_this_run": [
         "IICT",
         "India"
       ],
-      "last_new_count": 7
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -464,30 +464,30 @@
         "Mechanics"
       ],
       "last_result_hashes": [
-        "0c4fea65325737c446710c96431c6923",
-        "1a702a32d445b9cd665ed79cbd741071",
         "1331be9ec49340971a8624c0ac3dede7",
-        "f333bd41608e9168a9593cda75a5d292",
-        "90f64aa277dd75da77b910fbd4635b9b",
-        "3326193b269b65058b9975cd44e12d99",
-        "05e87cbef36cd8edbadc65c13cd2b4af",
-        "f8f4b1e6f15ad8e30a49329f56b5c218",
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "08183a095f9bb03fe7dd6ce06dfd5115",
-        "515297cd90212e0cede68efcec1af7d9",
+        "0c4fea65325737c446710c96431c6923",
         "bca887779c4d30860ee265ce67393aa0",
-        "699052fef0d7089193408e88dc9df4dc",
-        "19900d16616abbbdef9f2f97bb309535",
+        "f8f4b1e6f15ad8e30a49329f56b5c218",
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "0e9dcaf4af91dfc0bc8200900a97a80c",
+        "3326193b269b65058b9975cd44e12d99",
         "1a09c66fc587123d03c96ec66abb5f04",
         "a62041fbd03c36044c10691af16fa6ad",
+        "19900d16616abbbdef9f2f97bb309535",
+        "90f64aa277dd75da77b910fbd4635b9b",
+        "699052fef0d7089193408e88dc9df4dc",
+        "05e87cbef36cd8edbadc65c13cd2b4af",
+        "960c3757b01a3b5c2b782f876f59a49d",
+        "515297cd90212e0cede68efcec1af7d9",
         "393c2007828b49d14ae2ce8a8bf61873",
         "3b2d4874080a77eb71b3e8dfe9c65d9c",
-        "960c3757b01a3b5c2b782f876f59a49d",
-        "0e9dcaf4af91dfc0bc8200900a97a80c"
+        "1a702a32d445b9cd665ed79cbd741071",
+        "796dd8fb9f6369a2e77f75139af26f3c",
+        "f333bd41608e9168a9593cda75a5d292"
       ],
-      "last_run": "2026-06-20T13:03:22.285138+00:00",
+      "last_run": "2026-06-20T13:18:34.145070+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -642,32 +642,32 @@
         "monadic"
       ],
       "last_result_hashes": [
-        "8a9d25bddd2c6dc4d28113c9df3a62f7",
-        "1e23347071bace94cd96516373fa7b4d",
-        "19e9a027878cd9e15d80f9af087b154c",
-        "099dfaedc291f3a4e0a3a7a4e54681a8",
         "d36424ab85b4b13247d9175d80fbb9cb",
+        "da30b64fee43ee2a8a34587ebf26e0aa",
+        "4f7a842eeb604f03987bc224b057dd16",
         "f8e90a2f2f95996adc8ec28b50f11c2e",
-        "8ebdd868e3be019898b9d36cd949934f",
-        "bb626d1fc1ab1a9f833549d01b7d2f32",
-        "e92e2f8ebf5278edb72398da2415b3ef",
-        "66c37819aafc9ab0bf8738db25ae98cd",
-        "62ea2c4db66f0dbfd6bb8ead382dbd01",
-        "fdc8e2b82500b598dc73a35e40bb2f1e",
-        "6ac17140976f4e3a7be22d2ec701d1ce",
-        "c2fefc572a2578f6f202a147d877925b",
+        "099dfaedc291f3a4e0a3a7a4e54681a8",
         "1e6684e614686f1f3aea846011b1d7a4",
+        "bb626d1fc1ab1a9f833549d01b7d2f32",
+        "c2fefc572a2578f6f202a147d877925b",
+        "98e526be52c4f26f6ab112fd904d69d2",
+        "8ebdd868e3be019898b9d36cd949934f",
+        "fdc8e2b82500b598dc73a35e40bb2f1e",
         "211de7a838e45b3dada18be8697b118d",
         "875e7957fd4974fda8df61e5e64c4b09",
-        "da30b64fee43ee2a8a34587ebf26e0aa",
-        "98e526be52c4f26f6ab112fd904d69d2",
-        "4f7a842eeb604f03987bc224b057dd16"
+        "62ea2c4db66f0dbfd6bb8ead382dbd01",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "1e23347071bace94cd96516373fa7b4d",
+        "66c37819aafc9ab0bf8738db25ae98cd",
+        "e92e2f8ebf5278edb72398da2415b3ef",
+        "19e9a027878cd9e15d80f9af087b154c",
+        "8a9d25bddd2c6dc4d28113c9df3a62f7"
       ],
-      "last_run": "2026-06-20T13:03:22.285138+00:00",
+      "last_run": "2026-06-20T13:18:34.145070+00:00",
       "new_sub_topics_this_run": [
         "monadic"
       ],
-      "last_new_count": 6
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -799,33 +799,33 @@
         "Save"
       ],
       "last_result_hashes": [
-        "4206f0548aa77b69bedc008d791bb11e",
-        "7d194ad3d9a4f9a87cd4de35548c005c",
-        "056bbd57e6e437cc7875c28572cf4197",
-        "9a90a9b5be8e6f4ed694943f3b5178be",
-        "dba859e9113f969a0f84d759331953e7",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
-        "790a5d205d270e758b4525f2d41612d8",
-        "711907ad3def1c1455722ff1c7f06c77",
-        "c1a8f58a380ebfcdb94064fedf4e6520",
-        "b2b9e755fb3bc21fe5cb6f2e7130b00f",
-        "f7e44395f0003b031e363e50dc57901a",
-        "b7232988490e7ff3bda2e46c77a02fe8",
-        "e0884a9b9c26438d971bf00202e0740a",
         "f4b8aef5320aac85198e3b53726eebef",
-        "b374c779c101dd010d1f2ed0450afdee",
+        "7e571cc4915b8f19020f0aebd3f76356",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "dba859e9113f969a0f84d759331953e7",
         "f401f3578a305af873e8b580bcb2424e",
+        "b374c779c101dd010d1f2ed0450afdee",
+        "f7e44395f0003b031e363e50dc57901a",
+        "c1a8f58a380ebfcdb94064fedf4e6520",
         "46a4037dd144e9b1f14507ca42f6f5b6",
+        "711907ad3def1c1455722ff1c7f06c77",
+        "9a90a9b5be8e6f4ed694943f3b5178be",
+        "b2b9e755fb3bc21fe5cb6f2e7130b00f",
+        "b7232988490e7ff3bda2e46c77a02fe8",
+        "790a5d205d270e758b4525f2d41612d8",
+        "7d194ad3d9a4f9a87cd4de35548c005c",
+        "4206f0548aa77b69bedc008d791bb11e",
         "e2750b78fa16d1a40fc425ec13bdf7eb",
-        "eca83d83b7929373cb4d72addb6af516",
-        "7e571cc4915b8f19020f0aebd3f76356"
+        "056bbd57e6e437cc7875c28572cf4197",
+        "e0884a9b9c26438d971bf00202e0740a",
+        "eca83d83b7929373cb4d72addb6af516"
       ],
-      "last_run": "2026-06-20T13:03:22.285138+00:00",
+      "last_run": "2026-06-20T13:18:34.145070+00:00",
       "new_sub_topics_this_run": [
         "Coach",
         "Save"
       ],
-      "last_new_count": 7
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -964,32 +964,32 @@
         "Understanding"
       ],
       "last_result_hashes": [
+        "087455b373dbe987da5078283f97a4cb",
         "9df3859b4715ae95cd2f1c86331d9b55",
+        "c3d36255d7ae5605c92055bb559b87c9",
+        "195cc5355800be062c15e1a66ccfcacd",
+        "d2adce09b07afa8868adc1a5598d6db8",
+        "6bd1828271a3d7ce0e5d0b666c53b128",
+        "e6a418c5f148d68a53fd286dcc17d453",
+        "dfd101be1ded9248f71af5856b2de10a",
+        "23f806669425cddfbb81ceb3202ed519",
+        "d6b08d59a67d6de170eba48ba0719827",
+        "2abbee82f484b493c8c88fee77060e1c",
+        "a1001fa1d16e18cf732ae3f80c77fe76",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "cc9b7e9ca696d3ed6356ac146599fabd",
+        "59b8ef2b26eb329e0931d31d180ddecf",
+        "1dc503e2e338f4062a266c8bc6b47230",
         "1c9e34c438b893768685d5e9b0743087",
         "7b0c583d3445b91efa0c0453e5a737c4",
-        "238dd6ae5d2a4f3308b871fdae7cc7d8",
-        "d2adce09b07afa8868adc1a5598d6db8",
-        "cc9b7e9ca696d3ed6356ac146599fabd",
-        "23f806669425cddfbb81ceb3202ed519",
-        "195cc5355800be062c15e1a66ccfcacd",
-        "087455b373dbe987da5078283f97a4cb",
-        "2abbee82f484b493c8c88fee77060e1c",
-        "c3d36255d7ae5605c92055bb559b87c9",
-        "e6a418c5f148d68a53fd286dcc17d453",
-        "6bd1828271a3d7ce0e5d0b666c53b128",
-        "59b8ef2b26eb329e0931d31d180ddecf",
-        "dfd101be1ded9248f71af5856b2de10a",
-        "6287e8dc37ecb68d7af1bc0e4b769a4f",
-        "1dc503e2e338f4062a266c8bc6b47230",
-        "d6b08d59a67d6de170eba48ba0719827",
         "cc1169f3086a93320da59573f7fa5861",
-        "a1001fa1d16e18cf732ae3f80c77fe76"
+        "6287e8dc37ecb68d7af1bc0e4b769a4f"
       ],
-      "last_run": "2026-06-20T13:03:22.285138+00:00",
+      "last_run": "2026-06-20T13:18:34.145070+00:00",
       "new_sub_topics_this_run": [
         "Understanding"
       ],
-      "last_new_count": 9
+      "last_new_count": 0
     }
   }
 }
