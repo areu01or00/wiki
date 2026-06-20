@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/en/category/project/type/gradual-typing/) | kw: Programming
+- **2026-06-20** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual
+- **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau
+- **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now | BirJob](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: LuaJIT
+
 - **2026-06-20** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia | src: type-systems <!-- h:08183a095f9bb03fe7dd6ce06dfd5115 -->
 - **2026-06-20** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/category/project/type/gradual-typing) | kw: gradual-typing, Programming, Research, Group | src: type-systems <!-- h:063c2f3eadaf2be7e059d09de8a540f4 -->
 - **2026-06-20** | [Best Software with Gradual Typing Functionality (2026)](https://appmus.com/feature/gradual-typing) | kw: Best, Software, with, Gradual | src: type-systems <!-- h:257f707e4f6b84a5109de8e4a606651f -->

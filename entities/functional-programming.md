@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Monads
+
 - **2026-06-20** | [Slant - Haskell vs Rust detailed comparison as of 2026](https://www.slant.co/versus/1537/5522/~haskell_vs_rust) | kw: Slant
 
 - **2026-06-20** | [What's Coming for Haskell in 2026 - slicker.me](https://slicker.me/haskell/haskell-2026.html) | kw: What, Coming, for, Haskell | src: functional-programming <!-- h:a1fd2b9212d955769e6bbfad262f2fb9 -->

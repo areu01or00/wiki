@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python
+- **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI | May 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Variables
+- **2026-06-20** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
+
 - **2026-06-20** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The, GIL, Is, Finally | src: python-internals <!-- h:d2adce09b07afa8868adc1a5598d6db8 -->
 - **2026-06-20** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring, Python, Internals, and | src: python-internals <!-- h:b892d3268af415a5d0c10b3cc6cd89bf -->
 - **2026-06-20** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The, Python, GIL, Controversy | src: python-internals <!-- h:993340ba10508d27975679f77e08cd57 -->
