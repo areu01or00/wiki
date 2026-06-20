@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-20** | [IICT 2026 — India's Inclusive Computing Conference](https://compilertech.org/) | kw: iict india inclusive
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 llvm docs
+- **2026-06-20** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: ai-compiler prompt engineering
+- **2026-06-20** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: compiler optimization revolution
+- **2026-06-20** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: jeandle how ant
+- **2026-06-20** | [The Future of Programming: Compiler Writing in 2026 | Artikls](https://artikls.com/article/future-programming-compiler-writing-2026) | kw: the future programming
+- **2026-06-20** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: llvm compiler infrastructure
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst · RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1.rst, ·, RomanPikhotskiy | src: compilers <!-- h:800015733c0c238966be36a4173a3c93 -->
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst · chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, 2026/llvm/docs/tutorial/BuildingAJIT1.rst, ·, chekalexey | src: compilers <!-- h:962769c38e6c0125c6155bb325bd030a -->
 - **2026-06-20** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern, Language, Runtimes | src: compilers <!-- h:7313dba9b029653c6c7d6581925ebbad -->

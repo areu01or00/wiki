@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: does rust support
+- **2026-06-20** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: functional programming its
+- **2026-06-20** | [Demystifying monads in Rust through property-based testing](https://vuink.com/post/fhafubjref-d-dvb/posts/monads-through-pbt) | kw: demystifying monads rust
+- **2026-06-20** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monads and monad-like
+- **2026-06-20** | [Monad in higher - Rust - Docs.rs](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: monad higher rust
+- **2026-06-20** | [monadic - Rust - Docs.rs](https://docs.rs/monadic/latest/monadic) | kw: monadic rust docs
 - **2026-06-20** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional, Programming, in, 2026, Haskell | src: functional-programming <!-- h:6ac17140976f4e3a7be22d2ec701d1ce -->
 - **2026-06-20** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which, Functional, Programming, Languages, Should | src: functional-programming <!-- h:c2fefc572a2578f6f202a147d877925b -->
 - **2026-06-20** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top, 22, Best, Functional, Programming | src: functional-programming <!-- h:1e6684e614686f1f3aea846011b1d7a4 -->

@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+
+- **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices architecture patterns
+- **2026-06-20** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system design guide
+- **2026-06-20** | [Event-Driven Architecture Pattern: Brokers, Schemas, and Idempotent Consumers (2026)](https://appscale.blog/en/blog/microservices-pattern-event-driven-architecture-2026) | kw: event-driven architecture pattern
+- **2026-06-20** | [Distributed Systems Patterns | Software Patterns Lexicon](https://softwarepatternslexicon.com/mastering-design-patterns/distributed-systems-patterns) | kw: distributed systems patterns
 - **2026-06-20** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now) | kw: Latest, Trends, in, Distributed, Systems | src: system-design <!-- h:dffcbc8662b09cb0a5c2d9645a80041f -->
 - **2026-06-20** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: A, Guide, to, Large, Scale | src: system-design <!-- h:d7e4053d8359b5818b4128259533ab69 -->
 - **2026-06-20** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The, Complete, Guide, to, System | src: system-design <!-- h:3528b9948758aac21f359ad485b705dc -->

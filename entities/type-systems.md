@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: gradual typing across
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient selection type
+- **2026-06-20** | ["A Case for Gradual Typing"](https://computingintelligenceblog.blogspot.com/2024/09/a-case-for-gradual-typing.html) | kw: case for gradual
+- **2026-06-20** | [The Mechanics Of Gradual Typing And Hybrid Systems | Flyriver.com](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: the mechanics gradual
+- **2026-06-20** | [Gradual Typing - Language Design and Implementation | ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual typing language
 - **2026-06-20** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating, the, 2026, Language, Landscape | src: type-systems <!-- h:515297cd90212e0cede68efcec1af7d9 -->
 - **2026-06-20** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed, and, Confused, Studying, the | src: type-systems <!-- h:bca887779c4d30860ee265ce67393aa0 -->
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient, Selection, of, Type, Annotations | src: type-systems <!-- h:699052fef0d7089193408e88dc9df4dc -->

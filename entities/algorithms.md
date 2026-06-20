@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-20** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: data structures algorithms
+- **2026-06-20** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data structures interview
+- **2026-06-20** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data structures interview
+- **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: leetcode study plan
+- **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital)](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: leetcode questions for
+- **2026-06-20** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: neetcode coding interview
+- **2026-06-20** | [50+ Data Structures and Algorithms Interview Questions for 2026](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers) | kw: data structures and
 - **2026-06-20** | [Leetcode Algorithm Coach Guide (2026)](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: Leetcode, Algorithm, Coach, Guide, (2026) | src: algorithms <!-- h:f401f3578a305af873e8b580bcb2424e -->
 - **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: LeetCode, Study, Plan, &, Roadmap | src: algorithms <!-- h:46a4037dd144e9b1f14507ca42f6f5b6 -->
 - **2026-06-20** | [Google latest Interview Experiences - LeetCode](https://leetcode.com/discuss/post/6469509/google-latest-interview-experiences-coll-r4zm/) | kw: Google, latest, Interview, Experiences, LeetCode | src: algorithms <!-- h:e2750b78fa16d1a40fc425ec13bdf7eb -->
