@@ -128,7 +128,7 @@
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "e9d45130824f67775300df37d0b653d5"
       ],
-      "last_run": "2026-06-20T06:32:02.951601+00:00",
+      "last_run": "2026-06-20T06:47:56.052514+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -188,7 +188,7 @@
         "LLVM",
         "LLVM JIT",
         "LLVM/Clang",
-        "LLVMのJITについてLLMの説明が分からなくて困る",
+        "LLVM\u306eJIT\u306b\u3064\u3044\u3066LLM\u306e\u8aac\u660e\u304c\u5206\u304b\u3089\u306a\u304f\u3066\u56f0\u308b",
         "Language",
         "Look",
         "Lowers",
@@ -284,7 +284,7 @@
         "c988d203ffb86a252a80be5c9dbd7a13",
         "044f00f22ade99878d29e43ef426c83d"
       ],
-      "last_run": "2026-06-20T06:32:02.951601+00:00",
+      "last_run": "2026-06-20T06:47:56.056372+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -437,7 +437,7 @@
         "5c8d464c75e0f82550f068820dd0b4ad",
         "539299cdb002f1725e1d140c5784f165"
       ],
-      "last_run": "2026-06-20T06:32:02.951601+00:00",
+      "last_run": "2026-06-20T06:47:56.059702+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -551,7 +551,7 @@
         "with",
         "Introduction",
         "Documentation",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Patterns",
         "Rust:",
         "Chaos",
@@ -588,7 +588,7 @@
         "79cd05ad2ea3b4a8f88864da5ba58578",
         "da30b64fee43ee2a8a34587ebf26e0aa"
       ],
-      "last_run": "2026-06-20T06:32:02.951601+00:00",
+      "last_run": "2026-06-20T06:47:56.064447+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -743,7 +743,7 @@
         "d585e296ba367afac7a9a19446da9d9b",
         "dba859e9113f969a0f84d759331953e7"
       ],
-      "last_run": "2026-06-20T06:32:02.951601+00:00",
+      "last_run": "2026-06-20T06:47:56.066842+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -875,7 +875,7 @@
         "8423f12ab9baba929d1ed4e944bcf94c",
         "b892d3268af415a5d0c10b3cc6cd89bf"
       ],
-      "last_run": "2026-06-20T06:32:02.951601+00:00",
+      "last_run": "2026-06-20T06:47:56.075773+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
