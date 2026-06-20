@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Latest Trends in Distributed Systems (2026)](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: latest trends in distributed systems
+- **2026-06-20** | [The Future of Large-Scale Distributed Systems: Trends, Challenges, and Opportunities](https://www.researchgate.net/publication/390714723_The_Future_of_Large-Scale_Distributed_Systems_Trends_Challenges_and_Opportunities) | kw: the future of large-scale distributed
+- **2026-06-20** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: emerging backend architectures for 2026
+- **2026-06-20** | [Distributed Systems | Architecture Patterns | docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems architecture patterns docs
+- **2026-06-20** | [Software Architecture Patterns [2026]: MVC, MVVM, Clean](https://precisionaiacademy.com/blog/software-architecture-patterns-guide) | kw: software architecture patterns 2026 mvc
+
 - **2026-06-20** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system design series
 - **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering distributed systems
 - **2026-06-20** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: a guide to

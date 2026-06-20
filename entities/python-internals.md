@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [Python Internals: Memory Management & GIL | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals memory management gil
+- **2026-06-20** | [The Future of Python Internals: GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: the future of python internals
+- **2026-06-20** | [Modern Python in 2026 — 3.13/3.14/free-threaded/uv/Ruff/Polars](https://www.youngju.dev/blog/culture/2026-05-16-modern-python-2026-python-3-13-3-14-free-threaded-uv-ruff-polars-fastapi-litestar-robyn-deep-dive.en) | kw: modern python in 2026 3
+- **2026-06-20** | [State of Python 2026 | The Dev Newsletter](https://devnewsletter.com/p/state-of-python-2026) | kw: state of python 2026 the
+
 - **2026-06-20** | [Python Memory Management Internals | by Majidbasharat | Mar ...](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: python memory management
 - **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie | May, 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: from variables to
 - **2026-06-20** | [How Python's Memory Management Works Under the Hood](https://miydevforge.com/blog/how-python-memory-management-works) | kw: how python s

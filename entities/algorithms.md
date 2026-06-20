@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data structures interview questions and
+- **2026-06-20** | [Top 50 Data Structures Interview Questions 2026 - PA](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: top 50 data structures interview
+- **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: leetcode study plan roadmap for
+- **2026-06-20** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: data structure i - leetcode
+- **2026-06-20** | [Coding Interview Patterns: The Complete Guide (2026)](https://intervu.dev/blog/coding-interview-patterns) | kw: coding interview patterns the complete
+
 - **2026-06-20** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: best dsa sheet
 - **2026-06-20** | [Leetcode Algorithm Coach Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: leetcode algorithm coach
 - **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: leetcode study plan

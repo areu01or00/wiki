@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing – Programming Research Group (Tokyo Tech)](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: gradual typing programming research group
+- **2026-06-20** | [gradual-typing category – Programming Research Group](https://prg.is.titech.ac.jp/en/category/project/type/gradual-typing) | kw: gradual-typing category programming research group
+- **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: luau type system complete guide
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient selection of type annotations
+- **2026-06-20** | [Foundations for Gradual Typing - Khoury College, Northeastern](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: foundations for gradual typing -
+- **2026-06-20** | [Gradual Typing - Language Design and Implementation (ANU)](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual typing - language design
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (programming-journal.org)](https://programming-journal.org/2026/11/3/) | kw: efficient selection of type annotations
+
 - **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: gradual typing across
 - **2026-06-20** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs - Christophe Garon](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: understanding graduality in
 - **2026-06-20** | [Gradual Typing - Language Design and Implementation | ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual typing language

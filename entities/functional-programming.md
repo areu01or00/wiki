@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: all about monads - haskellwiki
+- **2026-06-20** | [Haskell Monads — Monday Morning Haskell](https://mmhaskell.com/monads) | kw: haskell monads monday morning haskell
+- **2026-06-20** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: monad - haskellwiki
+
 - **2026-06-20** | [Haskell Foundation](https://haskell.foundation/) | kw: haskell foundation
 - **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: monad functional programming
 - **2026-06-20** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: monads are omnipresent

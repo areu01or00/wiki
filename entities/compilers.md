@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [Building a JIT: Starting out with KaleidoscopeJIT - compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: building a jit starting out
+- **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - chekalexey fork](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 llvm docs tutorial buildingajit1
+- **2026-06-20** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers and modern language runtimes
+- **2026-06-20** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: ml compiler optimization revolution deep
+- **2026-06-20** | [Just-in-Time for Runtime Interpretation - LLVM IR Based JIT Execution | White Knight Labs](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution) | kw: just-in-time for runtime interpretation -
+- **2026-06-20** | [[Compiler] 20. Modern Compiler Development and Applications | Chaos and Order](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: compiler 20 modern compiler development
+
 - **2026-06-20** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: fosdem 2026 orcjit
 - **2026-06-20** | [The State of Native Execution for Spark: Photon, Gluten, and Fabric](https://sparkingscala.com/latest/2026/06/12/native-execution-landscape-2026) | kw: the state of
 
