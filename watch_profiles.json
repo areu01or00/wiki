@@ -107,15 +107,10 @@
         "Coming",
         "Queues",
         "Chanh",
-        "S.C.G.A."
+        "S.C.G.A.",
+        "Around"
       ],
       "last_result_hashes": [
-        "e9d45130824f67775300df37d0b653d5",
-        "5faca996e161c3cc527c779c9aa9ce87",
-        "729c2ff54afb3063182d60de7d6aef1c",
-        "848a06554e3ca137e425aa0a6367b703",
-        "886487f41cabfa1d68bfa76e510f5fb7",
-        "d7e4053d8359b5818b4128259533ab69",
         "d0ae98a342caad97c68e59c996aeaea3",
         "bbdb68982bece3448021a830fcdf65da",
         "829e385d598e3022a5a9d9f416e9920c",
@@ -129,13 +124,19 @@
         "3d924683b109e99c93d7ba785e0c7ab0",
         "2ebbe3411f331c326ab1fd19aa4e50c7",
         "6a844cba5f4dbe6112de4dacb09bede6",
-        "2b816d0cf4bff7a093aa08f5c173a8c6"
+        "2b816d0cf4bff7a093aa08f5c173a8c6",
+        "dffcbc8662b09cb0a5c2d9645a80041f",
+        "5aeac4fa30fb41ccddd5bdbec41ec241",
+        "9ba46483364adb11b22fcfbd9fe2e4d2",
+        "46a56982536c8a4f9801b7d471165b39",
+        "aaaf9550e5e27d5469ea0edd84372b77",
+        "a4f767c8d886ec8f2fab1999efc97283"
       ],
-      "last_run": "2026-06-20T08:17:32.965976+00:00",
+      "last_run": "2026-06-20T08:32:08.252534+00:00",
       "new_sub_topics_this_run": [
-        "S.C.G.A."
+        "Around"
       ],
-      "last_new_count": 4
+      "last_new_count": 6
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -267,14 +268,13 @@
         "That",
         "Case",
         "BuildingAJIT1.rst",
-        "course-spring-2026"
+        "course-spring-2026",
+        "Group",
+        "Just-In-Time",
+        "Create",
+        "Programming"
       ],
       "last_result_hashes": [
-        "bf3b1c58dfbe930c35197c1213e954f5",
-        "109bd9dc95a83ca64a615f8fd94b87c4",
-        "8821d5a304ed8f8fe37c1266c05ef682",
-        "a14bbc9e2956abab65cb54c410fb7b58",
-        "191137fb0d9c6770341ad41eba235f6e",
         "75e26e05bfdf84df10291f2d7c55c917",
         "919c927a76067730bd8f38d73b1e411e",
         "9e15a6675bd30a9f4f1f425fe7991ab1",
@@ -289,14 +289,21 @@
         "7ed9cf6296b93bcd1574511795e44641",
         "a17409ab9dd49df56a7674658d3ba1e4",
         "d9d4ad55b78665ab0a2d532ee5a54262",
-        "39e0cdfc33be139856c127f0a6db73d3"
+        "39e0cdfc33be139856c127f0a6db73d3",
+        "f9a020f5e9c084036d48a40845afdc76",
+        "dc5ada16f234dc184f112304b0917552",
+        "5d4ac715e54509da805ad5c64a5b6b9b",
+        "f206368f76599fbab65a46387373312b",
+        "b86eb07f5a984fccae1bb38c4d48f846"
       ],
-      "last_run": "2026-06-20T08:17:32.965976+00:00",
+      "last_run": "2026-06-20T08:32:08.252534+00:00",
       "new_sub_topics_this_run": [
-        "BuildingAJIT1.rst",
-        "course-spring-2026"
+        "Group",
+        "Just-In-Time",
+        "Create",
+        "Programming"
       ],
-      "last_new_count": 3
+      "last_new_count": 5
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -429,16 +436,12 @@
         "Code",
         "Generics",
         "Oflight",
-        "Techniques"
+        "Techniques",
+        "Developers",
+        "CPON",
+        "NAVI"
       ],
       "last_result_hashes": [
-        "b0b257ce43663e3177338e61f3e0e5f0",
-        "aa2f3be76632e120f0f252da09afe144",
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "74d9db89389a5ff882bfd7bac5937d2c",
-        "393c2007828b49d14ae2ce8a8bf61873",
-        "1a09c66fc587123d03c96ec66abb5f04",
-        "6126ee75f16ff97a04d87f16f0767328",
         "063c2f3eadaf2be7e059d09de8a540f4",
         "8152c0fa97986388894bbc6fe44824e4",
         "1f3e7d1bf4955c674237c70349a25b1d",
@@ -451,11 +454,22 @@
         "f333bd41608e9168a9593cda75a5d292",
         "5ad8730c65f6f24319118be6a0a9593d",
         "afa6caf48502106583ac61c324295531",
-        "b026ef92bf282c4d85de696983ed4a8c"
+        "b026ef92bf282c4d85de696983ed4a8c",
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "5c8d464c75e0f82550f068820dd0b4ad",
+        "a3bff6024fbb28890c700733eef813fa",
+        "37ffd58453521e02c05e593eedaf102e",
+        "c9f43e585d467659fad992925af0d754",
+        "481bf13dad9a849f34a663880bb0470f",
+        "a933f47a5feedf4f43c8b83a958ffe76"
       ],
-      "last_run": "2026-06-20T08:17:32.965976+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_run": "2026-06-20T08:32:08.252534+00:00",
+      "new_sub_topics_this_run": [
+        "Developers",
+        "CPON",
+        "NAVI"
+      ],
+      "last_new_count": 7
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -584,17 +598,13 @@
         "HaskellWiki",
         "Tutorials",
         "Library",
-        "higher"
+        "higher",
+        "Popularity",
+        "Rankings",
+        "LangPop",
+        "JOHNWICK"
       ],
       "last_result_hashes": [
-        "79cd05ad2ea3b4a8f88864da5ba58578",
-        "dec1adeac9ac7b4756ab495989f82712",
-        "98e526be52c4f26f6ab112fd904d69d2",
-        "bec6f32daed5631dab09749d5785b4c1",
-        "1e23347071bace94cd96516373fa7b4d",
-        "ce1296b7730544a3db978dc13e7a351f",
-        "a3493ff266b17fc6ca7d44bed6e59213",
-        "211de7a838e45b3dada18be8697b118d",
         "fd9bcc5f2fdca016c2b9233429eb990a",
         "db9be82d9b5cfc830366d63a86f88dae",
         "6b7461e9cf36d7a159f45147c27b9bcd",
@@ -606,16 +616,24 @@
         "5eae65aedb2fdf74fe3bf9a822193b94",
         "9e468f427c81adba063b45d72c784552",
         "8f5cea9e5197c247d1be3e7c458669a6",
-        "d36424ab85b4b13247d9175d80fbb9cb"
+        "d36424ab85b4b13247d9175d80fbb9cb",
+        "dbb24eee655dcd048ac5e2c5685626ff",
+        "1e6684e614686f1f3aea846011b1d7a4",
+        "3412ceda0df7364f1cfed538f9d7fe45",
+        "8523d54f973c1802378dbbf186428ae2",
+        "47e6d74aef0c39ef251aad25fd7ff012",
+        "a637c1b028184eea6b2bb028d9aef416",
+        "cb3451b58dc0de64c4abaf6248054b44",
+        "89d87031e449ae356f26865a02b9a13d"
       ],
-      "last_run": "2026-06-20T08:17:32.965976+00:00",
+      "last_run": "2026-06-20T08:32:08.252534+00:00",
       "new_sub_topics_this_run": [
-        "HaskellWiki",
-        "Tutorials",
-        "Library",
-        "higher"
+        "Popularity",
+        "Rankings",
+        "LangPop",
+        "JOHNWICK"
       ],
-      "last_new_count": 3
+      "last_new_count": 8
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -749,17 +767,11 @@
         "ace",
         "FAANG",
         "coding",
-        "interviews"
+        "interviews",
+        "Algorithm",
+        "Coach"
       ],
       "last_result_hashes": [
-        "8fbfc408d153c9db7210ed00243249c2",
-        "f381d9425a7fcd1cb715658bf397a62d",
-        "53468a49e5858039fabcfee0555bf84f",
-        "b374c779c101dd010d1f2ed0450afdee",
-        "94a11a396800eaa2230163a1e01973da",
-        "be21d60d447cbc0341aec2a2028b4763",
-        "66794612107b02a5cf775c19c5d9b560",
-        "a72a20f0713cd5feeef913e54a998932",
         "544d7d110803052b93a7e0f05f49b7d5",
         "09ba1908ae63111d1e15e6d4bafc047c",
         "e750e54eae0d4ac26f7b2db4bdd46548",
@@ -771,17 +783,22 @@
         "772a7fef5359270de709ea737905e471",
         "7ecb7e02fd0cb15bedc5a4d62a6ad334",
         "7d194ad3d9a4f9a87cd4de35548c005c",
-        "09e78648fe1b6f874711fba28cec5d03"
+        "09e78648fe1b6f874711fba28cec5d03",
+        "8ec4ac28253c4f016997232629004129",
+        "8e00f7d78d79009ecc1474da3255f3a8",
+        "c09d949fed12685831ee37a2c49ed7b3",
+        "09fb34f020c56145d7269228189a72c2",
+        "e7cb63adafd27fca3ead2584308babd3",
+        "8900f36a48596850ee5ba84a247a6c1d",
+        "c081d373fdb54070daade9a235858c9b",
+        "7e9fdd8c2ffc71a23e29276c3701990a"
       ],
-      "last_run": "2026-06-20T08:17:32.965976+00:00",
+      "last_run": "2026-06-20T08:32:08.252534+00:00",
       "new_sub_topics_this_run": [
-        "top",
-        "ace",
-        "FAANG",
-        "coding",
-        "interviews"
+        "Algorithm",
+        "Coach"
       ],
-      "last_new_count": 4
+      "last_new_count": 8
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -887,19 +904,14 @@
         "No-GIL:",
         "Modern",
         "Python:",
-        "Exists)"
+        "Exists)",
+        "Amin",
+        "Mortezaie",
+        "Charting",
+        "Parallel",
+        "Evolution"
       ],
       "last_result_hashes": [
-        "e004254458e317cbd014d5aa186cd4a3",
-        "91f3eef6eb5080978288f3d45d840777",
-        "993340ba10508d27975679f77e08cd57",
-        "704da68a060e620278ad7620fdf6c8a8",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "2b623ea4a3260e5ce9e59df5edc24035",
-        "adfcb172ee5b1e96696cc59801727a46",
-        "beaef31893811bf93a7c49c5427531ec",
-        "6bd1828271a3d7ce0e5d0b666c53b128",
-        "999e699e6e78d8e383158b10f1c950f8",
         "7b4d33a48fc204e0cb25e4f1266c7297",
         "0a974e52e4af3da11fa0449ca19924f5",
         "144c35f6b99ca28df6ed11d16c89b3d5",
@@ -909,11 +921,27 @@
         "9b950d80d24710f2899e1b281e96098e",
         "507879acf3131fb6c383e24494db7d69",
         "a1001fa1d16e18cf732ae3f80c77fe76",
-        "265111ab89ec1e2086cc516865ce3720"
+        "265111ab89ec1e2086cc516865ce3720",
+        "68175a2892a66724f669a8669b9ae03d",
+        "323f5522cd079b66f3b0b35a0bdb4235",
+        "bbb32fcf844e3a281c102e49f682c4c8",
+        "d2adce09b07afa8868adc1a5598d6db8",
+        "7b0c583d3445b91efa0c0453e5a737c4",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "aff79aed6e34d3f002b7fa14f5978b75",
+        "7cbc385e74fee929e99e936a1a9da13b",
+        "81a9e7d7445fd4f7670a530c7f055fd5",
+        "8e164b039e6be2f4d6dd92a0812ef837"
       ],
-      "last_run": "2026-06-20T08:17:32.965976+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 2
+      "last_run": "2026-06-20T08:32:08.252534+00:00",
+      "new_sub_topics_this_run": [
+        "Amin",
+        "Mortezaie",
+        "Charting",
+        "Parallel",
+        "Evolution"
+      ],
+      "last_new_count": 10
     }
   }
 }

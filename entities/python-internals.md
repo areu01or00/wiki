@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: Python GIL: The Key to
+- **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie | May, 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: From Variables to No
+- **2026-06-20** | [Charting Python's Parallel Future: The Evolution from GIL to Multi-Core Harmony | by Sarang Shrivastava | Python in Plain English](https://python.plainenglish.io/charting-pythons-parallel-future-the-evolution-from-gil-to-multi-core-harmony-52a4bc4e53ff) | kw: Charting Python's Parallel Future: The
+- **2026-06-20** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead:
+- **2026-06-20** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
+- **2026-06-20** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management & GIL: Python
+- **2026-06-20** | [The Python GIL Controversy: Why Multi-Core Parallelism ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The Python GIL Controversy: Why
+- **2026-06-20** | [Mojo's Ownership System: How a 35-Year-Old Memory Management ...](https://devops-geek.net/nerd-space/mojo-s-ownership-system-how-a-35-year-old-memory-management-pattern-became-the-secret-weapon-against) | kw: Mojo's Ownership System: How a
+- **2026-06-20** | [How Mojo's Owned Memory Model is Forcing ML Engineers to ...](https://devops-geek.net/nerd-space/how-mojo-s-owned-memory-model-is-forcing-ml-engineers-to-rethink-python-s-gil-bottlenecks-in-real-ti) | kw: How Mojo's Owned Memory Model
+- **2026-06-20** | [Will Removing Python's GIL make it significantly faster? - HAMY](https://hamy.xyz/blog/2025-07_will-gil-removal-make-python-faster) | kw: Will Removing Python's GIL make
+
 - **2026-06-20** | [Python GIL: The Key to Backend Performance](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python, GIL, Key, Backend
 - **2026-06-20** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python, Internals, Memory, Management
 

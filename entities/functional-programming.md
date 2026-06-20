@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Haskell Popularity 2026 — Rankings, Trends & Data | LangPop | LangPop](https://langpop.com/language/haskell) | kw: Haskell Popularity 2026 — Rankings,
+- **2026-06-20** | [Top 22 Best Functional Programming Languages In 2026](https://www.softwaretestinghelp.com/functional-programming-languages) | kw: Top 22 Best Functional Programming
+- **2026-06-20** | [Chaos and Order - youngju.dev](https://www.youngju.dev/transcribe/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Chaos and Order
+- **2026-06-20** | [How I Learned Monads: Not Through Haskell But Through Rust - JOHNWICK](https://johnwick.cc/index.php?title=How_I_Learned_Monads:_Not_Through_Haskell_But_Through_Rust) | kw: How I Learned Monads: Not
+- **2026-06-20** | [Haskell vs Rust Comparison (2026) | Feature by Feature](https://appmus.com/vs/haskell-vs-rust) | kw: Haskell vs Rust Comparison (2026)
+- **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does Rust Support Functional Programming
+- **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad (functional programming)
+- **2026-06-20** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: Monads are Omnipresent in Rust
+
 - **2026-06-20** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: Monad, HaskellWiki
 - **2026-06-20** | [Haskell - Monads - Online Tutorials Library](https://www.tutorialspoint.com/haskell/haskell_monads.htm) | kw: Haskell, Monads, Online, Tutorials
 - **2026-06-20** | [Monad in higher - Rust - Docs.rs](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: Monad, higher, Rust, Docs.rs

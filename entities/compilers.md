@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost ...](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance: The Overlooked Power
+- **2026-06-20** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: The LLVM Compiler Framework and
+- **2026-06-20** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: Jeandle: How Ant Group's LLVM
+- **2026-06-20** | [[Compiler] 20. Modern Compiler Development and Applications | Chaos and Order](https://www.youngju.dev/blog/compiler/20_modern_compiler_landscape.en) | kw: [Compiler] 20. Modern Compiler Development
+- **2026-06-20** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM
+
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 (chekalexey)](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst, course-spring-2026, chekalexey
 - **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026/) | kw: Unlocking, Performance, Overlooked, Power

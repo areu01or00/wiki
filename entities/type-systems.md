@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual typing
+- **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026] | Oflight Inc.](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations
+- **2026-06-20** | [Programming Languages Trends 2026: What Developers Need to Know - CPON NAVI](https://cpon-navi.com/programming-languages-trends-2026) | kw: Programming Languages Trends 2026: What
+- **2026-06-20** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing
+- **2026-06-20** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN ...](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: Staged Gradual Typing
+
 - **2026-06-20** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual, Typing, Programming, Research
 
 - **2026-06-20** | [TypeScript 6.0 Advanced Type Features: What You Need to Know for 2026](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-advanced-type-features-what-you-need-to-know-for-2026-61f) | kw: TypeScript

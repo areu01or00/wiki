@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Company-Wise LeetCode Questions (2026): DSA Practice by ...](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company
+- **2026-06-20** | [Leetcode Algorithm Coach Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: Leetcode Algorithm Coach Guide (2026)
+- **2026-06-20** | [Top 100+ Data Structure Interview Questions and Answers (2026 ...](https://interviewquestions.guru/data-structure-interview-questions-answers/) | kw: Top 100+ Data Structure Interview
+- **2026-06-20** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap
+- **2026-06-20** | [Data Structures Interview Questions and Answers (2026 ...](https://www.nostrobeai.com/interview-questions/data-structures) | kw: Data Structures Interview Questions and
+- **2026-06-20** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode
+- **2026-06-20** | [Study Plan - LeetCode](https://leetcode.com/studyplan/) | kw: Study Plan
+- **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Problems [Solved] | PA](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026:
+
 - **2026-06-20** | [10+ top LeetCode patterns (2026) to ace FAANG coding interviews](https://www.educative.io/blog/coding-interview-leetcode-patterns) | kw: 10+, top, LeetCode, patterns
 - **2026-06-20** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode, Patterns, Cheat, Sheet
 - **2026-06-20** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data, Structures, Interview, Questions
