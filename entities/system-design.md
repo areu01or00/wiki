@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [Caching Tech in 2026: Future-Proof Performance](https://appperformancelab.com/caching-tech-in-2026-future-proof-performance/) | kw: system-design
+
 - **2026-06-20** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions/) | kw: Future, High, Performance, Distributed | src: system-design <!-- h:928794215d9b3f52e22a0ace1e287d9a -->
 - **2026-06-20** | [Latest Trends in Distributed Systems (2026) – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: Latest, Trends, Distributed, Systems | src: system-design <!-- h:886487f41cabfa1d68bfa76e510f5fb7 -->
 - **2026-06-20** | [Software Architecture Patterns [2026]: MVC, MVVM, Clean](https://precisionaiacademy.com/blog/software-architecture-patterns-guide) | kw: Software, Architecture, Patterns, MVC | src: system-design <!-- h:b7b724dd42585c9ceb6c7e74762d9e03 -->
