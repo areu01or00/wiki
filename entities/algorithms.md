@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-Wise](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Questions Topic-Wise
+- **2026-06-20** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: Leetcode Patterns
+
 
 - **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: Algorithms
 - **2026-06-20** | [Articles - LeetCode](https://leetcode.com/articles/?page=1&category=algorithms) | kw: Algorithms

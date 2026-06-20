@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: Systems Architecture
+- **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: Distributed Systems
+- **2026-06-20** | [Microservices Architecture in 2026: Building Scalable Distributed Systems](https://scga.hk/blog/microservices-architecture-2026) | kw: Microservices Architecture
+
 - **2026-06-20** | [Microservices Architecture in 2026: Building Scalable Distributed Systems | S.C.G.A. Limited](https://scga.hk/blog/microservices-architecture-2026) | kw: System Design
 
 - **2026-06-20** | [2026 Top Distributed Control System Trends You Should Know?](https://www.vogiplc.com/blog/top-distributed-control-system-trends-2026) | kw: 2026 top distributed control system

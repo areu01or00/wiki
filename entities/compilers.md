@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [Building a JIT: Starting out with KaleidoscopeJIT - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: KaleidoscopeJIT chekalexey
+- **2026-06-20** | [Building a JIT: Starting out with KaleidoscopeJIT - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: KaleidoscopeJIT RomanPikhotskiy
+- **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance
+- **2026-06-20** | [Building a JIT Chapter 3 - Compile On Demand - 4elodoy-Molovek](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: Demand elodoy-Molovek
+
 
 - **2026-06-20** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: Compilers
 

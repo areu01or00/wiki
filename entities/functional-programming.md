@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: functional programming
+- **2026-06-20** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming
+- **2026-06-20** | [Monads in Functional Programming: From Theory to Practice | by Morteza Mirjavadi](https://medium.com/@mo.mirjavadi/monads-in-functional-programming-from-theory-to-practice-9f9f93c0bf51) | kw: Functional Programming
+- **2026-06-20** | [Understanding Monads in Functional Programming: A Comprehensive Guide – AlgoCademy Blog](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide) | kw: Programming Comprehensive
+- **2026-06-20** | [Monad Pattern in Functional Programming: A Comprehensive Overview](https://softwarepatternslexicon.com/functional-programming/essential-functional-programming-patterns/monad-pattern) | kw: Programming Comprehensive
+- **2026-06-20** | [100+ Monads Online Courses for 2026 | Explore Free Courses](https://www.classcentral.com/subject/monads) | kw: Online Courses
+- **2026-06-20** | [How I Learned Monads: Not Through Haskell But Through Rust | by Sae-Hwan Park](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Through Haskell
+
 - **2026-06-20** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: Functional Programming
 - **2026-06-20** | [Monads, Functors, and Applicatives in Haskell: Mastering ...](https://softwarepatternslexicon.com/haskell/principles-of-functional-programming-in-haskell/monads-functors-and-applicatives) | kw: Functional Programming
 

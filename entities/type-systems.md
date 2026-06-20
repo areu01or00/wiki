@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: through Embedding-Projection
+- **2026-06-20** | [Putting Gradual Types to Work | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-030-67438-0_4) | kw: Putting Gradual
+- **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Type Functions
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Performance Improvement
+- **2026-06-20** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: Mattered wgt20.irif.fr
+- **2026-06-20** | [Type Inference Techniques: Implementation and Formalization, Better Together](https://xnning.github.io/papers/wits26.pdf) | kw: Techniques Implementation
+
 - **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: Type Systems
 - **2026-06-20** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: Type Systems
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Type Systems

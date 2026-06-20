@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Amin Mortezaie
+- **2026-06-20** | [Memory Management and tracemalloc Improvements 2026](https://pyinns.com/python/advanced-python-features/memory-management-and-tracemalloc-improvements-2026) | kw: tracemalloc Improvements
+- **2026-06-20** | [Python - Python Internals: Memory Management & the Global Interpreter Lock (GIL) | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Global Interpreter
+- **2026-06-20** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Internals Exploring
+- **2026-06-20** | [Python 3.14 Free-Threading and Experimental JIT: How Python Got Fast in 2026](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026) | kw: Python Free-Threading
+- **2026-06-20** | [Python Memory Management](https://pythonguides.com/python-object-memory-management/) | kw: Memory Management
+
 
 - **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI | by Amin Mortezaie | May, 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Internals
 - **2026-06-20** | [Mastering The Global Interpreter Lock (GIL) | Python ...](https://course4all.com/python/py-gil-internals) | kw: Python Internals
