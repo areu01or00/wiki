@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-20** | [Haskell Foundation](https://haskell.foundation/) | kw: haskell foundation
+- **2026-06-20** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: monad functional programming
+- **2026-06-20** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: monads are omnipresent
+- **2026-06-20** | [Monads and Monad-Like Patterns in Rust: Exploring Functional ...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust) | kw: monads and monad
+- **2026-06-20** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: the practical value
+- **2026-06-20** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms) | kw: does rust support
+
 - **2026-06-20** | [monadify — Rust utility // Lib.rs](https://lib.rs/crates/monadify) | kw: monads
 - **2026-06-20** | [Monad in higher - Rust - Docs.rs](https://docs.rs/higher/latest/higher/trait.Monad.html) | kw: monads
 - **2026-06-20** | [What is a Monad (in Rust)? - mspandit.github.io](https://mspandit.github.io/2026/04/06/what-is-a-monad-rust.html) | kw: monads

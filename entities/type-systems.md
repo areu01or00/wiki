@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp) | kw: gradual typing across
+- **2026-06-20** | [Understanding Graduality in Programming Languages through Embedding-Projection Pairs - Christophe Garon](https://christophegaron.com/articles/research/understanding-graduality-in-programming-languages-through-embedding-projection-pairs) | kw: understanding graduality in
+- **2026-06-20** | [Gradual Typing - Language Design and Implementation | ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: gradual typing language
+- **2026-06-20** | [Type Inference Techniques: Implementation and Formalization](https://xnning.github.io/papers/wits26.pdf) | kw: type inference techniques
+- **2026-06-20** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: github kevle6 gradual_typing
+- **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: efficient selection of
+
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems | src: type-systems <!-- h:0c4fea65325737c446710c96431c6923 -->
 - **2026-06-20** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: type-systems | src: type-systems <!-- h:c0b8939bb00148936243259369f1f8a3 -->
 

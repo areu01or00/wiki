@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-20** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: system design series
+- **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering distributed systems
+- **2026-06-20** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: a guide to
+- **2026-06-20** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks) | kw: system design building
+- **2026-06-20** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed systems best
+- **2026-06-20** | [Microservices Architecture in 2026: Building Scalable Distributed Systems | S.C.G.A. Limited](https://scga.hk/blog/microservices-architecture-2026) | kw: microservices architecture in
+- **2026-06-20** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: the complete guide
+
 - **2026-06-20** | [Cloud-Native, Serverless & Edge Architectures: Redefining Enterprise Agility in 2026](https://resolvetech.com/cloud-native-serverless-edge-architectures-redefining-enterprise-agility-in-2026) | kw: cloud, native, serverless
 
 - **2026-06-20** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: system-design | src: system-design <!-- h:027b842794aa1b6f8ff97eb660c59079 -->

@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-20** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: fosdem 2026 orcjit
+- **2026-06-20** | [The State of Native Execution for Spark: Photon, Gluten, and Fabric](https://sparkingscala.com/latest/2026/06/12/native-execution-landscape-2026) | kw: the state of
+
 - **2026-06-20** | [Compiler & Interpreter Design: From Parsers to LLVM and AI Compilers (TVM/XLA)](https://www.youngju.dev/blog/ai/2026-03-17-compiler-interpreter-design-guide.en) | kw: compilers | src: compilers <!-- h:220b22e5eedcf8ef18552f04db52458b -->
 
 - **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: LLVM
