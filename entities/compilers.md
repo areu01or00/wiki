@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [LLVM compile time tracker](https://llvm-compile-time-tracker.com/) | kw: LLVM compile time tracker
+
 - **2026-06-22** | [Search: [llvm] - Bookmarks](https://links.cpollet.io/?searchtags=llvm) | kw: Search: [llvm] - Bookmarks
 
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: The LLVM Compiler Infrastructure Project
