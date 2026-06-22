@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Optimizing and Evaluating Transient Gradual Typing - Meta Research](https://research.facebook.com/publications/optimizing-and-evaluating-transient-gradual-typing/) | kw: optimizing-and-evaluating-transient-gradual-typing-meta-rese
+
 - **2026-06-22** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system - Wikipedia
 - **2026-06-22** | [Type inference of all constructs and the next 15 months - Elixir](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months - Elixir
 - **2026-06-22** | [Efficient Selection of Type Annotations for Performance Improvement](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Improvement

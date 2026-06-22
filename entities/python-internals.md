@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Advanced Python Interview Questions & Answers - Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: advanced-python-interview-questions-answers-medium
+- **2026-06-22** | [python interview questions with answers - LinkedIn](https://www.linkedin.com/posts/vedansh-shrivastava-data-analyst_python-interview-questions-with-answers-activity-7276302697853530113-Fq2q) | kw: python-interview-questions-with-answers-linkedin
+
 - **2026-06-22** | [Python Internal Architecture - LinkedIn](https://www.linkedin.com/pulse/python-internal-architecture-hari-mohan-3mwsc) | kw: python-internal-architecture-linkedin
 - **2026-06-22** | [Memory Management in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/operating-systems/memory-management-in-operating-system/) | kw: memory-management-operating-system
 - **2026-06-22** | [Python Metaprogramming for ML Frameworks - apxml](https://apxml.com/courses/advanced-python-programming-ml/chapter-3-metaprogramming-python-internals-ml) | kw: python-metaprogramming-for-frameworks

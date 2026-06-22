@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Do we really need Leetcode (Data Structures & Algorithms)? - Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: do-we-really-need-leetcode-data-structures-algorithms-kaggle
+- **2026-06-22** | [Struggling with Data Structures and Algorithms? - Yo Motherboard](https://yomotherboard.com/question/struggling-with-data-structures-and-algorithms-heres-how-to-improve/) | kw: struggling-with-data-structures-and-algorithms-yo-motherboar
+
 - **2026-06-22** | [Data Structure and Algortihm Explanation - TikTok](https://www.tiktok.com/discover/data-structure-and-algortihm-explanation) | kw: data-structure-and-algortihm
 - **2026-06-22** | [Los algorithms repositorios principales - Git Stars](https://git-stars.org/es/repositories/topic/algorithms) | kw: los-algorithms-repositorios-principales
 - **2026-06-22** | [How to Ace Your Coding Interview With AI (2026) - Interview Coder](https://www.interviewcoder.co/blog/how-to-ace-coding-interview-with-ai-2026) | kw: how-ace-your-coding

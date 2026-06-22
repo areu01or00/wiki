@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial/book-about-functional-programming/50881) | kw: good-tutorial-book-about-functional-programming-rust-users-f
+- **2026-06-22** | [Issue 522 - Haskell Weekly Newsletter](https://haskellweekly.news/issue/522.html) | kw: issue-522-haskell-weekly-newsletter
+
 - **2026-06-22** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monad-functional-programming-wikipedia
 - **2026-06-22** | [Monad (functional programming) - grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: monad-functional-programming-grokipedia
 - **2026-06-22** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026 : r/functionalprogramming - Reddit
