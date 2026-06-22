@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [A pattern language for microservices](https://microservices.io/patterns/index.html) | kw: Microservices | source: system-design
+- **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: Distributed | source: system-design
+- **2026-06-22** | [Architectural Patterns of Resilient Distributed Systems - YouTube](https://www.youtube.com/watch?v=ohvPnJYUW1E) | kw: Distributed | source: system-design
+- **2026-06-22** | [Bulkhead Pattern - Distributed Design Pattern | Medium](https://distributedsystemsmadeeasy.medium.com/bulkhead-pattern-distributed-design-pattern-c673d5e81523) | kw: Distributed | source: system-design
+- **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: GeeksforGeeks | source: system-design
+- **2026-06-22** | [English Dialogue for Informatics Engineering - Distributed Systems Architecture](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: Architecture | source: system-design
+- **2026-06-22** | [Most Design Systems Don't Break Because of Buttons | Design Systems Collective](https://www.designsystemscollective.com/most-design-systems-dont-break-because-of-buttons-016ae786dc07) | kw: Collective | source: system-design
+- **2026-06-22** | [System Design Primer | Awesome Repository](https://awesome-repositories.com/repository/donnemartin-system-design-primer?q=awesome-system-design-repositories-on-github) | kw: Repository | source: system-design
+- **2026-06-22** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: System Design Roadmap | source: system-design
+
 - **2026-06-22** | [Pattern: Saga](https://microservices.io/patterns/data/saga.html) | kw: Pattern: Saga | source: system-design
 
 - **2026-06-22** | [Top Node.js Design Patterns You Should Know in 2026 - NareshIT](https://nareshit.com/blogs/top-nodejs-design-patterns-2026) | kw: System Design

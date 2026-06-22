@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [400 Python Interview Questions with Answers 2026 - Udemy](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: Interview | source: python-internals
+- **2026-06-22** | [Advanced Python Internals - GIL Multithreading - DEV Community](https://dev.to/aman_kumar_6d5d23b9b1ed02/advanced-python-internals-gil-multithreading-20mk) | kw: Multithreading | source: python-internals
+- **2026-06-22** | [How Python Works Under the Hood - Memory GIL Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: Bytecode | source: python-internals
+- **2026-06-22** | [Python 3.14 Free-Threading and Experimental JIT](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Free-Threading | source: python-internals
+- **2026-06-22** | [Python Memory Management - GIL Deep Dive](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Management | source: python-internals
+- **2026-06-22** | [Pythons GIL Is Gone - What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: actually | source: python-internals
+- **2026-06-22** | [The Future of Python Internals - GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Optimizations | source: python-internals
+- **2026-06-22** | [Understanding Python GIL - MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: Understanding | source: python-internals
+- **2026-06-22** | [What is the GIL in Python Is It Going Away in 2026](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: Python | source: python-internals
+
 - **2026-06-22** | [Python's Biggest Bottleneck Just Got Optional: Meet the GIL-Free Era!](https://www.kubeblogs.com/pythons-biggest-bottleneck-just-got-optional/) | kw: python | source: python-internals
 
 - **2026-06-22** | [Dynamic Python Code Generation in ML - apxml](https://apxml.com/courses/advanced-python-programming-ml/chapter-3-metaprogramming-python-internals-ml/dynamic-code-generation-execution) | kw: Dynamic Python Code | source: python-internals

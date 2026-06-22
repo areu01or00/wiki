@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Demystifying MONADs - Toolify](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying | source: functional-programming
+- **2026-06-22** | [Haskell - Monads 5-minute introduction - YouTube](https://www.youtube.com/watch?v=_Gk_lwhJMzk) | kw: Introduction | source: functional-programming
+- **2026-06-22** | [Monad (functional programming) - Grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Programming | source: functional-programming
+- **2026-06-22** | [Monad in plain English - Stack Overflow](https://stackoverflow.com/questions/2704652/monad-in-plain-english-for-the-oop-programmer-with-no-fp-background) | kw: Stack Overflow | source: functional-programming
+- **2026-06-22** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: HaskellWiki | source: functional-programming
+- **2026-06-22** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns in Rust | source: functional-programming
+- **2026-06-22** | [Rust - Functional Programming and Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Programming | source: functional-programming
+- **2026-06-22** | [What Is a Monad in Functional Programming - Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: Programming | source: functional-programming
+- **2026-06-22** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: Programming | source: functional-programming
+
 - **2026-06-22** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Functional Programming
 
 

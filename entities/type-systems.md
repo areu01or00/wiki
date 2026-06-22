@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Efficient Selection of Type Annotations for Gradually Typed Programs](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection | source: type-systems
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection | source: type-systems
+- **2026-06-22** | [Lua in 2026 - Why Lua 5.5 LuaJIT and Luau Are Three Languages](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: languages | source: type-systems
+- **2026-06-22** | [Luau Type System Complete Guide - Strict Mode Generics Type Functions](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System | source: type-systems
+- **2026-06-22** | [Static Analysis Mypy - Strict Typing Configurations 2026](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: Configurations | source: type-systems
+- **2026-06-22** | [Static vs Dynamic Typing - The Ultimate Guide to Type Systems](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Ultimate | source: type-systems
+- **2026-06-22** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type Inference | source: type-systems
+
 
 - **2026-06-22** | [Comparing Python Type Checkers: Speed and Memory](https://www.reddit.com/r/Python/comments/1skcp5j/comparing_python_type_checkers_speed_and_memory/) | kw: Comparing Python Type Checkers: Speed and Memory | source: type-systems
 - **2026-06-22** | [Pyrefly: Python Type Checker by Meta - pydevtools](https://pydevtools.com/handbook/reference/pyrefly/) | kw: Pyrefly: Python Type Checker by Meta - pydevtools | source: type-systems

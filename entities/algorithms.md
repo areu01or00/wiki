@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: algorithms | source: algorithms
+- **2026-06-22** | [70 Leetcode problems in 5+ hours - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: Problems | source: algorithms
+- **2026-06-22** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.scien.cx/2025/07/22/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial/) | kw: interviews | source: algorithms
+- **2026-06-22** | [Do we really need Leetcode - Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: Leetcode | source: algorithms
+- **2026-06-22** | [Golang Interview Bootcamp on HackerRank LeetCode Algos - Udemy](https://www.udemy.com/course/golang-interview-bootcamp-on-datastructures-leetcode-algos/) | kw: HackerRank | source: algorithms
+- **2026-06-22** | [How I Mastered Data Structure and Algorithms - TikTok](https://www.tiktok.com/discover/how-i-mastered-data-structure-and-algorithms) | kw: algorithms | source: algorithms
+- **2026-06-22** | [LeetCode Review 2026 - Is It Worth It](https://coddy.tech/vs/leetcode) | kw: Leetcode | source: algorithms
+- **2026-06-22** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: Problems | source: algorithms
+- **2026-06-22** | [datastructures-algorithms - GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms | source: algorithms
+- **2026-06-22** | [leetcode - GitHub Topics](https://github.com/topics/leetcode) | kw: Leetcode | source: algorithms
+
 - **2026-06-22** | [algorithms-datastructures - 技术专题深度解读 | GitHub 中文社区](https://github-cn.com/topics/algorithms-datastructures) | kw: algorithms-datastructures - 技术专题深度解读 | source: algorithms
 - **2026-06-22** | [Eq%20technologic Interview Questions & Experiences 2026](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/EQ+Technologic) | kw: Eq%20technologic Interview Questions | source: algorithms
 
