@@ -1,6 +1,7 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Mono LLVM | Mono](https://www.mono-project.com/docs/advanced/mono-llvm/) | kw: Mono | source: compilers
 - **2026-06-22** | [Remote native JIT compilation and debugging with LLVM](https://weliveindetail.github.io/blog/post/2021/03/29/remote-compile-and-debug.html) | kw: Remote | source: compilers
 
 - **2026-06-22** | [Building a JIT - Per-function Lazy - LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: Documentation | source: compilers
