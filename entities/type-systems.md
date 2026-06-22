@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-22** | [Comparing Python Type Checkers: Speed and Memory](https://www.reddit.com/r/Python/comments/1skcp5j/comparing_python_type_checkers_speed_and_memory/) | kw: Comparing Python Type Checkers: Speed and Memory | source: type-systems
+- **2026-06-22** | [Pyrefly: Python Type Checker by Meta - pydevtools](https://pydevtools.com/handbook/reference/pyrefly/) | kw: Pyrefly: Python Type Checker by Meta - pydevtools | source: type-systems
+- **2026-06-22** | [FAQ - Pyrefly](https://pyrefly.org/en/docs/pyrefly-faq/) | kw: FAQ - Pyrefly | source: type-systems
+- **2026-06-22** | [How we chose Positron's Python type checker](https://opensource.posit.co/blog/2026-03-31_python-type-checkers/) | kw: How we chose Positron's Python type checker | source: type-systems
+- **2026-06-22** | [Why Today's Python Developers Are Embracing Type Hints - Pyrefly](https://pyrefly.org/blog/why-typed-python/) | kw: Why Today's Python Developers Are Embracing Type H | source: type-systems
+
 - **2026-06-22** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static
 - **2026-06-22** | [Static Analysis Mypy: Strict Typing Configurations 2026](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: Static
 

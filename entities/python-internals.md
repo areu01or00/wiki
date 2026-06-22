@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-22** | [Comparing Python Type Checkers: Speed and Memory](https://www.reddit.com/r/Python/comments/1skcp5j/comparing_python_type_checkers_speed_and_memory/) | kw: Comparing Python Type Checkers: Speed and Memory | source: python-internals
+- **2026-06-22** | [Pyrefly: Python Type Checker by Meta](https://pydevtools.com/handbook/reference/pyrefly/) | kw: Pyrefly: Python Type Checker by Meta | source: python-internals
+- **2026-06-22** | [FAQ - Pyrefly](https://pyrefly.org/en/docs/pyrefly-faq/) | kw: FAQ - Pyrefly | source: python-internals
+
 - **2026-06-22** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: Internals
 - **2026-06-22** | [Advanced Python Concepts - DEV Community](https://dev.to/ashutoshsarangi/advanced-python-concepts-3ci8) | kw: Advanced
 

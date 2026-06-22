@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-22** | [oni-comb-parser - Rust library on lib.rs](https://lib.rs/crates/oni-comb-parser) | kw: oni-comb-parser - Rust library on lib.rs | source: functional-programming
+- **2026-06-22** | [anpa - Rust utility on lib.rs](https://lib.rs/crates/anpa) | kw: anpa - Rust utility on lib.rs | source: functional-programming
+- **2026-06-22** | [nessie-parse - GitHub](https://github.com/yonatan-reicher/nessie-parse) | kw: nessie-parse - GitHub | source: functional-programming
+- **2026-06-22** | [Higher-Kinded Types System - jarnura/monadify](https://deepwiki.com/jarnura/monadify/3-higher-kinded-types-system) | kw: Higher-Kinded Types System - jarnura/monadify | source: functional-programming
+- **2026-06-22** | [parser-combinators - Hackage](https://hackage.haskell.org/package/parser-combinators) | kw: parser-combinators - Hackage | source: functional-programming
+- **2026-06-22** | [combinator - GitHub Topics](https://github.com/topics/combinator?l=rust) | kw: combinator - GitHub Topics | source: functional-programming
+
 - **2026-06-22** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell
 - **2026-06-22** | [functional programming - How do I combine monads in Haskell?](https://stackoverflow.com/questions/1126651/how-do-i-combine-monads-in-haskell) | kw: How
 - **2026-06-22** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads

@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-22** | [Why graphs are the hardest topic in LeetCode - LinkedIn](https://www.linkedin.com/posts/kunal-kushwaha_when-it-comes-to-leetcode-style-interview-activity-7362154041948213248-Wy9Q) | kw: Why graphs are the hardest topic in LeetCode - Lin | source: algorithms
+- **2026-06-22** | [Top Graph LeetCode Questions Asked in Google Interviews (2026)](https://www.hackmnc.com/blogs/google-graph-leetcode-questions) | kw: Top Graph LeetCode Questions Asked in Google Inter | source: algorithms
+- **2026-06-22** | [Apple Most Asked LeetCode Questions - January 2026](https://www.reddit.com/r/leetcode/comments/1qc3iuw/apple_most_asked_leetcode_questions_january_2026/) | kw: Apple Most Asked LeetCode Questions - January 2026 | source: algorithms
+- **2026-06-22** | [Dynamic programming Courses - Class Central](https://www.classcentral.com/subject/dynamic-programming) | kw: Dynamic programming Courses - Class Central | source: algorithms
+- **2026-06-22** | [DSA Roadmap 2026 - X/Twitter](https://x.com/e_opore/status/2057444938388775331) | kw: DSA Roadmap 2026 - X/Twitter | source: algorithms
+- **2026-06-22** | [Graph cheatsheet for coding interviews - Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/graph/) | kw: Graph cheatsheet for coding interviews - Tech Inte | source: algorithms
+- **2026-06-22** | [LeetCode Dynamic Programming Problems - Scribd](https://www.scribd.com/document/889136625/DP) | kw: LeetCode Dynamic Programming Problems - Scribd | source: algorithms
+- **2026-06-22** | [Is DSA Still Relevant in 2026? - LinkedIn](https://www.linkedin.com/posts/yogesh-kumar-366931130_is-dsa-still-relevant-in-2026-activity-7429025611802824704-qBHh) | kw: Is DSA Still Relevant in 2026? - LinkedIn | source: algorithms
+- **2026-06-22** | [Dynamic Programming - LeetCode](https://leetcode.com/problem-list/dynamic-programming/) | kw: Dynamic Programming - LeetCode | source: algorithms
+
 - **2026-06-22** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most
 - **2026-06-22** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How
 - **2026-06-22** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: Amazon

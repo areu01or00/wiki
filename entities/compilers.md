@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-22** | [twinBASIC Update: June 16, 2026](https://nolongerset.com/twinbasic-update-june-16-2026/) | kw: twinBASIC Update: June 16, 2026 | source: compilers
+- **2026-06-22** | [The LLVM Compiler Infrastructure - LinkedIn](https://www.linkedin.com/posts/kevinsalapenades_the-llvm-compiler-infrastructure-activity-7393744847591002112-u0zb) | kw: The LLVM Compiler Infrastructure - LinkedIn | source: compilers
+- **2026-06-22** | [Compiling LLVM IR to Binary | Fernando Borretti](https://borretti.me/article/compiling-llvm-ir-binary) | kw: Compiling LLVM IR to Binary | Fernando Borretti | source: compilers
+- **2026-06-22** | [Is There a JavaScript Engine That Emits LLVM Bytecode? - javaspring](https://www.javaspring.net/blog/is-there-any-javascript-engine-that-emits-llvm-bytecode/) | kw: Is There a JavaScript Engine That Emits LLVM Bytec | source: compilers
+
 - **2026-06-22** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT
 
 - **2026-06-22** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just in time compilation

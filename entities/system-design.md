@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+
+- **2026-06-22** | [Microservices Architecture in Product Engineering: 2026 Guide](https://www.appventurez.com/blog/microservices-architecture-in-product-engineering) | kw: Microservices Architecture in Product Engineering: | source: system-design
+- **2026-06-22** | [When to Use Microservices Architecture: Key Insights 2026](https://thinksys.com/development/implement-microservices-architecture/) | kw: When to Use Microservices Architecture: Key Insigh | source: system-design
+- **2026-06-22** | [Microservices: Architectural building blocks and trends](https://medium.com/@satyajitmails/microservices-architectural-building-blocks-and-trends-cfacc642b646) | kw: Microservices: Architectural building blocks and t | source: system-design
+- **2026-06-22** | [How Microservices Can Make Your Apps Resilient](https://www.linkedin.com/posts/bugbaar_microservices-systemdesign-techtrends-activity-7314343029597708289-FhvM) | kw: How Microservices Can Make Your Apps Resilient | source: system-design
+- **2026-06-22** | [AI Microservices Diagram Generator | Diagrams.so](https://diagrams.so/generate/microservices-architecture) | kw: AI Microservices Diagram Generator | Diagrams.so | source: system-design
+- **2026-06-22** | [Practical.CleanArchitecture - GitHub](https://github.com/phongnguyend/Practical.CleanArchitecture) | kw: Practical.CleanArchitecture - GitHub | source: system-design
+
 - **2026-06-22** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: System
 - **2026-06-22** | ["Architectural Patterns of Resilient Distributed Systems..." - YouTube](https://www.youtube.com/watch?v=ohvPnJYUW1E) | kw: Architectural
 - **2026-06-22** | [System Design Primer | Awesome Repository](https://awesome-repositories.com/repository/donnemartin-system-design-primer) | kw: System
