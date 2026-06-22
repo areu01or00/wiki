@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still
+- **2026-06-22** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: Data Structures/Algorithms to
+- **2026-06-22** | [Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Explore
+- **2026-06-22** | [Data Structures and Algorithms Interview Guide 2026 - Medhly AI](https://medhly.com/blog/data-structures-algorithms-interview-guide/) | kw: Data Structures and Algorithms
+
 - **2026-06-22** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start
 - **2026-06-22** | [leetcode - GitHub Topics](https://github.com/topics/leetcode) | kw: leetcode
 - **2026-06-22** | [70 Leetcode problems in 5+ hours - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: 70 Leetcode problems in 5+ hours

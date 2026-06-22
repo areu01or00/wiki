@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [2017 LLVM Developers’ Meeting: M. Zolotukhin “LLVM Compile-Time...](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: 2017 LLVM Developers’ Meeting
+- **2026-06-22** | [Generating and Executing LLVM IR Code from Java Using... | FeedBagel](https://feedbagel.com/post/generating-and-executing-llvm-ir-code-from-java-using-foreign-function-memory-ap) | kw: Generating and Executing LLVM
+
 - **2026-06-22** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why is llvm considered unsuitable for implementing a JIT?
 - **2026-06-22** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM JIT example for LLVM-5 · GitHub
 - **2026-06-22** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize JIT Compilation with LLVM's Next Generation API

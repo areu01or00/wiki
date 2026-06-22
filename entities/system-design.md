@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: System Design Roadmap
+
 - **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distributed Systems
 - **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: AI Systems Are Quietly Becoming Distributed Systems | Towards AI
 - **2026-06-22** | [Integration Patterns 2026: Command Patterns (Writes, Idempotency...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-command-patterns/) | kw: Integration Patterns 2026: Command Patterns (Writes, Idempotency...)
