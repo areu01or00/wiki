@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Data Structures and Algorithms Youtube | TikTok](https://www.tiktok.com/discover/data-structures-and-algorithms-youtube?lang=ru-RU) | kw: Data Structures and Algorithms Youtube
+- **2026-06-22** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: Alternatives and detailed information of Datastructures Algo
+
 - **2026-06-22** | [leetcode-solutions · GitHub Topics · GitHub](https://github.com/topics/leetcode-solutions) | kw: leetcode-solutions · GitHub Topics · GitHub
 - **2026-06-22** | [70 Leetcode problems in 5+ hours (every data structure)... - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: 70 Leetcode problems in 5+ hours (every data structure)... -
 - **2026-06-22** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms · GitHub Topics · GitHub
