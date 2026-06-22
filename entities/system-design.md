@@ -1,7 +1,7 @@
 # System Design
 
 ## Updates
-- **2026-06-22** | [hackernoon.com/let-ai-models-fight-over-your-architecture](https://hackernoon.com/let-ai-models-fight-over-your-architecture) | kw: hackernoon.com/let-ai-models-f | source: system-design
+- **2026-06-22** | [Let AI Models Fight Over Your Architecture](https://hackernoon.com/let-ai-models-fight-over-your-architecture) | kw: AI Architecture | source: system-design
 
 - **2026-06-22** | [A pattern language for microservices](https://microservices.io/patterns/index.html) | kw: Microservices | source: system-design
 - **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: Distributed | source: system-design
