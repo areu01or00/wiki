@@ -101,7 +101,7 @@
         "Strategies",
         "https",
         "Principles",
-        "Don’t",
+        "Don\u2019t",
         "London",
         "Large",
         "Coming",
@@ -124,7 +124,7 @@
         "Architect",
         "Learn",
         "Pattern",
-        "Häftad",
+        "H\u00e4ftad",
         "GeeksforGeeks",
         "eBPF",
         "Build",
@@ -153,7 +153,6 @@
         "design"
       ],
       "last_result_hashes": [
-        "fc3f37c3909c30ad9409934ae0e3a1fe",
         "3c1c805c3c091a0b2461ba9b44b3008e",
         "20c9af03d5ba04de769b9c8d55fbf657",
         "bad00d14c84bfba03e3559457382a40d",
@@ -172,9 +171,10 @@
         "10ee30a2694a972513965e5bdfbe0d98",
         "401ac43fcb266731bf806fa34acbf462",
         "c0fa9b989c63f494cf04f13a8bd5f011",
-        "987ac7af5646397c165d63257bb530c2"
+        "987ac7af5646397c165d63257bb530c2",
+        "7f55d36d484e57880341279532f3a5d5"
       ],
-      "last_run": "2026-06-22T10:32:25Z",
+      "last_run": "2026-06-22T10:47:47Z",
       "new_sub_topics_this_run": [
         "Backend",
         "Must",
@@ -357,9 +357,9 @@
         "TurboFan/Maglev,",
         "Project",
         "2017",
-        "Developers’",
+        "Developers\u2019",
         "Zolotukhin",
-        "“LLVM",
+        "\u201cLLVM",
         "Compile",
         "watch",
         "Generating",
@@ -376,8 +376,6 @@
         "memory"
       ],
       "last_result_hashes": [
-        "34c166634f13431feef39c0866dcf8e7",
-        "f1925c0af6e39aa520ffa6a282ede525",
         "df581a22e0cf096e525cbe4716c834a5",
         "79f4ddf873dbf67c746be2d871fbeb46",
         "6b7615fe27e5fa7ec414a7ca008f3ea8",
@@ -395,9 +393,11 @@
         "c6665871656323494bc23e63bdc67278",
         "5cefefefe6afc297697ed1187181b6a1",
         "54478c34ab646edfbc6980095e540dfa",
-        "9fc1aeea5f6c1139a051082700ed7bdf"
+        "9fc1aeea5f6c1139a051082700ed7bdf",
+        "5a20f949ccfa994b25b9a48598575137",
+        "b4b1697fc63d5704d74c4c88d69cd644"
       ],
-      "last_run": "2026-06-22T10:32:25Z",
+      "last_run": "2026-06-22T10:47:47Z",
       "new_sub_topics_this_run": [
         "23.0.0git",
         "BuildingAJIT1.rst",
@@ -568,8 +568,8 @@
         "arXiv",
         "Generics",
         "2026",
-        "Bernát",
-        "Gábor",
+        "Bern\u00e1t",
+        "G\u00e1bor",
         "find",
         "interesting",
         "useful",
@@ -609,7 +609,6 @@
         "2603.05649"
       ],
       "last_result_hashes": [
-        "2817e8378b277cd3cfe64b421e8bd932",
         "ee7e5ae38d8096beea069d17440a80e2",
         "6aa03ce14986ae5c0a51f1516fdffbbf",
         "207ada3445c3aad60574fcc6960ec4c0",
@@ -628,9 +627,10 @@
         "6d77d36d5d5faa4ef4e6858564ce52bc",
         "e1eb435797831fb4ee3d68e76936c2bb",
         "9b14cd02533704df49ef98d02074457b",
-        "944b4568f9acb788a00caaa9753eec3a"
+        "944b4568f9acb788a00caaa9753eec3a",
+        "08183a095f9bb03fe7dd6ce06dfd5115"
       ],
-      "last_run": "2026-06-22T10:32:25Z",
+      "last_run": "2026-06-22T10:47:47Z",
       "new_sub_topics_this_run": [
         "Blame",
         "Languages",
@@ -751,7 +751,7 @@
         "Rust",
         "Rust Support",
         "Rust1.74",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Rust:",
         "Rust: Functional Programming & Monads",
         "Safe",
@@ -850,7 +850,7 @@
         "Issue",
         "Weekly",
         "Newsletter",
-        "Haskell…",
+        "Haskell\u2026",
         "functional",
         "programmers",
         "functionalprogramming",
@@ -860,10 +860,6 @@
         "13764"
       ],
       "last_result_hashes": [
-        "e2809728031a0a794b40bbdaef5a85f9",
-        "3dab99b5330ccd20db91a26c202fbc1e",
-        "ed3ccf26c0d340b09ed1cebe201592a1",
-        "2c6957e1f1d7ea7d57cfdd721fc5e962",
         "2304b593353dcf35aa94f92d66b62bc4",
         "ab1a401478bf91151df62818473f5ef5",
         "269341708d555d5819da5ef32f81a574",
@@ -879,9 +875,13 @@
         "c8302726d8550727a3c9c7085f6edc59",
         "64aca92fc9c20cf9f7deb2b07fc983b9",
         "b922502a45bfd7f1907226252116ec61",
-        "d15aac4a869be71ca20d2b03cf7d465f"
+        "d15aac4a869be71ca20d2b03cf7d465f",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "608ac3d718f156089272977ad4c0adf3",
+        "b48df3ecc7197e04cb4515339cfae453",
+        "b15aa28659ccabe3398f87c824f2ee7c"
       ],
-      "last_run": "2026-06-22T10:32:25Z",
+      "last_run": "2026-06-22T10:47:47Z",
       "new_sub_topics_this_run": [
         "Algor",
         "Cards",
@@ -1070,11 +1070,6 @@
         "interview"
       ],
       "last_result_hashes": [
-        "8e00f7d78d79009ecc1474da3255f3a8",
-        "7827ab24e9d276e3b17d86a148741a99",
-        "d9cc9bd3b44037a92220ddad9d601c20",
-        "51bdec45c83dc444c8040f8f04671877",
-        "6ad4424d61d8084aeff283da158f5951",
         "1ff2c45205d19d05c322321f335f0949",
         "d5756ea03b99e874cb2fcfeac3d4509d",
         "4f0510f7ee64c399af68eb6e19a111c1",
@@ -1089,9 +1084,14 @@
         "09ba496b616b5669fa2b754644948f8b",
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
         "35f3793cac8b78d908e7f2d7bb34859d",
-        "f848e5b488eb84e7ff84fd15f24cfb40"
+        "f848e5b488eb84e7ff84fd15f24cfb40",
+        "e37bcf76e57548ecc3abd1325ccd78b0",
+        "3938ed170e66c90335e6d3359abb9f60",
+        "4847d18b16c54ed200dc5166596191ca",
+        "c047a018ea3c082f89d714707176a9b7",
+        "45dd13221b9fb1b949b8256c82747517"
       ],
-      "last_run": "2026-06-22T10:32:25Z",
+      "last_run": "2026-06-22T10:47:47Z",
       "new_sub_topics_this_run": [
         "PracHub",
         "Rethinking",
@@ -1104,13 +1104,13 @@
       "wiki_page": "python-internals.md",
       "sub_topics": [
         "complete",
-        "internals·",
+        "internals\u00b7",
         "pkglog.com",
         "cpython-internals/interpreter/gil/gil.md",
         "master",
         "zpoint",
         "mastering",
-        "python’s",
+        "python\u2019s",
         "gone",
         "means",
         "removed",
@@ -1270,11 +1270,6 @@
         "a3237bf77a10"
       ],
       "last_result_hashes": [
-        "44ede0fa7f964aee564e189fd251a80b",
-        "4ba531aedd0133f44b372ea8170dfc08",
-        "4267214a3e558c4d98d146f1beba3d51",
-        "87c1728a58c53f66c011966c01beeacf",
-        "344c097f244ebd0ca675e5d92b25f4cc",
         "33fc5bc043c4cd5a7b4a748edff16127",
         "081f8be0cc670074bcebfba0112589b4",
         "17f40f751da9a1c9558ca7dbf958ae7e",
@@ -1289,9 +1284,14 @@
         "b1ee147f4d765a2e836d0e6ebb25e4a0",
         "119ff08981a6650f712f34c5191bf3f0",
         "f3c8f48ad5955a71f9d40ac758fc0afe",
-        "85c7fb1d6a354a6b0737f063dce41454"
+        "85c7fb1d6a354a6b0737f063dce41454",
+        "57ad949b13054a49134274f7b5cbab95",
+        "cab51b9535106a9f6b476476901a2948",
+        "78e21fceb09bb6b8ff07c06d8c4e3c4b",
+        "d6de7058fcf7e79f71074d94426c32ad",
+        "c644c61774b53593b05d98f55951400a"
       ],
-      "last_run": "2026-06-22T10:32:25Z",
+      "last_run": "2026-06-22T10:47:47Z",
       "new_sub_topics_this_run": [
         "3.13",
         "3.14.6",
