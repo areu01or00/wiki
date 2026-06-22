@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [50 System Design Patterns Every Engineer Should Know in 90 ..](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system-design
+- **2026-06-22** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
+- **2026-06-22** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: system-design
+- **2026-06-22** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: system-design
+- **2026-06-22** | [The Only 12-Week High-Level System Design Roadmap You Need ..](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: system-design
+
 - **2026-06-22** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: Distributed
 - **2026-06-22** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Distributed
 - **2026-06-22** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed
