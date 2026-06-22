@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Building a JIT: Per-function Lazy — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: Building a JIT
+- **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, TurboFan, Maglev, Rust Monomorphization](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, 
+- **2026-06-22** | [Just-In-Time (JIT) Compiler with LLVM - createlang.rs](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM
+- **2026-06-22** | [LLVM Dev Meeting 2026-04](https://llvm.org/devmtg/2026-04/) | kw: LLVM Dev Meeting 2026-04
+- **2026-06-22** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The Case For Compilers
+- **2026-06-22** | [compiler-course-2026 - BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026
+- **2026-06-22** | [compiler-course-2026 - BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026
+
 - **2026-06-22** | [2017 LLVM Developers’ Meeting: M. Zolotukhin “LLVM Compile-Time...](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: 2017 LLVM Developers’ Meeting
 - **2026-06-22** | [Generating and Executing LLVM IR Code from Java Using... | FeedBagel](https://feedbagel.com/post/generating-and-executing-llvm-ir-code-from-java-using-foreign-function-memory-ap) | kw: Generating and Executing LLVM
 

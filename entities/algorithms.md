@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026? - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy in 2026?
+- **2026-06-22** | [How to prepare for Data Structures & Algorithms interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms interview in
+- **2026-06-22** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode
+- **2026-06-22** | [LeetCode vs NeetCode vs PracHub (2026 Interview Guide)](https://prachub.com/resources/leetcode-vs-neetcode-vs-prachub-2026-interview-guide) | kw: LeetCode vs NeetCode vs PracHub (2026 Interview Guide)
+- **2026-06-22** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: Rethinking DSA for 2026 Interview Success
+
 - **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still
 - **2026-06-22** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: Data Structures/Algorithms to
 - **2026-06-22** | [Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Explore

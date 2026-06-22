@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Haskell-style monads in Rust](https://rustrepo.com/repo/haskellstyle-monads-in-rust) | kw: Haskell-style monads in Rust
+- **2026-06-22** | [Monad (functional programming) - Grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad (functional programming)
+- **2026-06-22** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming Patterns](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns in Rust
+- **2026-06-22** | [Monads: A Powerful Concept in Functional Programming - Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: Monads
+- **2026-06-22** | [Rust: Functional Programming & Monads - readmedium.com](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Rust
+- **2026-06-22** | [functional programming - Monad in plain English? - Stack Overflow](https://stackoverflow.com/questions/2704652/monad-in-plain-english-for-the-oop-programmer-with-no-fp-background) | kw: functional programming
+
 - **2026-06-22** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional Programmers need to
 - **2026-06-22** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026
 - **2026-06-22** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure Borrow

@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: 5 Python Performance Killers Expert Fixes 2026 Guide
+- **2026-06-22** | [Does Python have a GIL per process? - Reddit](https://www.reddit.com/r/Python/comments/1qzfyoz/does_python_have_a_gil_per_process/) | kw: Does Python have a GIL per process?
+- **2026-06-22** | [How Python's GIL actually works (and when it bites you) - DEV](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites you)
+- **2026-06-22** | [Python's GIL Is Gone in 3.13. But Your Code Probably Doesn't Benefit Yet](https://medium.com/@sohail_saifi/pythons-gil-is-gone-in-3-13-but-your-code-probably-doesn-t-benefit-yet-here-s-exactly-why-31d2d93ff76c) | kw: Python's GIL Is Gone in 3.13. But Your Code Probably Doesn't
+- **2026-06-22** | [Thread states and the global interpreter lock — Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock — Python 3.14.
+- **2026-06-22** | [Understanding how GIL Affects Checkpoint Performance in PyTorch Training](https://www.shayon.dev/post/2026/38/understanding-how-gil-affects-checkpoint-performance-in-pytorch-training/) | kw: Understanding how GIL Affects Checkpoint Performance in PyTo
+
 - **2026-06-22** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What is the Python Global Inte
 - **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of Python Internals
 - **2026-06-22** | [What is the GIL in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the GIL in Python? Is

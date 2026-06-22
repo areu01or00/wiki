@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026/) | kw: 9 Essential Software Architecture Patterns for Scalable Dist
+- **2026-06-22** | [Distributed Systems Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems Architecture Patterns · GitScrum Docs
+- **2026-06-22** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed Systems Patterns Every Backend Engineer Must Kno
+- **2026-06-22** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System in 2026
+- **2026-06-22** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System Design in 2026
+
 - **2026-06-22** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: System Design Roadmap
 
 - **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distributed Systems

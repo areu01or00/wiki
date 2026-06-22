@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [A gradual type system for Elixir - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: A gradual type system for Elixir
+- **2026-06-22** | [Static Blame for gradual typing - Journal of Functional Programming](https://www.cambridge.org/core/product/A2CADE75A6BB303599A9FF8367DF9628) | kw: Static Blame for gradual typing
+- **2026-06-22** | [Type Inference for Functional and Imperative Dynamic Languages (PDF)](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynamic Languag
+
 - **2026-06-22** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyri
 - **2026-06-22** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type An
 
