@@ -150,11 +150,10 @@
         "Complete",
         "Emerging",
         "system",
-        "design"
+        "design",
+        "System Design Roadmap"
       ],
       "last_result_hashes": [
-        "3c1c805c3c091a0b2461ba9b44b3008e",
-        "20c9af03d5ba04de769b9c8d55fbf657",
         "bad00d14c84bfba03e3559457382a40d",
         "5c6a7802400f0685da464b84576392f8",
         "e0018c6a0d9858a40e1223f9e31ce470",
@@ -172,15 +171,15 @@
         "401ac43fcb266731bf806fa34acbf462",
         "c0fa9b989c63f494cf04f13a8bd5f011",
         "987ac7af5646397c165d63257bb530c2",
-        "7f55d36d484e57880341279532f3a5d5"
+        "7f55d36d484e57880341279532f3a5d5",
+        "f2addf62d7110b5f499b0edc3a839a1e",
+        "55131e24161bc5b96e889d6a3a8bf3a1"
       ],
-      "last_run": "2026-06-22T10:47:47Z",
+      "last_run": "2026-06-22T11:02:58Z",
       "new_sub_topics_this_run": [
-        "Backend",
-        "Must",
-        "Pitfalls"
+        "System Design Roadmap"
       ],
-      "last_new_count": 5
+      "last_new_count": 2
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -376,8 +375,6 @@
         "memory"
       ],
       "last_result_hashes": [
-        "df581a22e0cf096e525cbe4716c834a5",
-        "79f4ddf873dbf67c746be2d871fbeb46",
         "6b7615fe27e5fa7ec414a7ca008f3ea8",
         "b9a1444439c4370b71f553ef5c31cd7f",
         "0feac1ce8afa145634945297cfd45753",
@@ -395,21 +392,13 @@
         "54478c34ab646edfbc6980095e540dfa",
         "9fc1aeea5f6c1139a051082700ed7bdf",
         "5a20f949ccfa994b25b9a48598575137",
-        "b4b1697fc63d5704d74c4c88d69cd644"
+        "b4b1697fc63d5704d74c4c88d69cd644",
+        "f1925c0af6e39aa520ffa6a282ede525",
+        "2a99aa92c2ee226fd80a66a67f7f7b33"
       ],
-      "last_run": "2026-06-22T10:47:47Z",
-      "new_sub_topics_this_run": [
-        "23.0.0git",
-        "BuildingAJIT1.rst",
-        "BuildingAJIT3.rst",
-        "LLVM",
-        "Lazy",
-        "Look",
-        "SPEC",
-        "compiler",
-        "createlang.rs"
-      ],
-      "last_new_count": 7
+      "last_run": "2026-06-22T11:02:58Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 2
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -606,13 +595,11 @@
         "analysis",
         "typing",
         "paradigms",
-        "2603.05649"
+        "2603.05649",
+        "How the Compiler Finally",
+        "Static vs. Dynamic Typing"
       ],
       "last_result_hashes": [
-        "ee7e5ae38d8096beea069d17440a80e2",
-        "6aa03ce14986ae5c0a51f1516fdffbbf",
-        "207ada3445c3aad60574fcc6960ec4c0",
-        "e8024dae93276812d739c271981f7a22",
         "6638f5fc6991526460356522f5ebb263",
         "1892288ce3bfda31458d852753d72f5f",
         "0e40ec20e1a733a8136667ee5938762f",
@@ -628,18 +615,18 @@
         "e1eb435797831fb4ee3d68e76936c2bb",
         "9b14cd02533704df49ef98d02074457b",
         "944b4568f9acb788a00caaa9753eec3a",
-        "08183a095f9bb03fe7dd6ce06dfd5115"
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "0940c3cea7239d5389eb0d921777f44c",
+        "b177475a05631b06f73e531cf8aa0a39",
+        "71e7c884779e2e1f2845cb8671fa6e76",
+        "88dfcf74de33a1e88c9e9c90d0e55f9b"
       ],
-      "last_run": "2026-06-22T10:47:47Z",
+      "last_run": "2026-06-22T11:02:58Z",
       "new_sub_topics_this_run": [
-        "Blame",
-        "Languages",
-        "Programming",
-        "gradual",
-        "system",
-        "type"
+        "How the Compiler Finally",
+        "Static vs. Dynamic Typing"
       ],
-      "last_new_count": 3
+      "last_new_count": 4
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -857,12 +844,14 @@
         "Style",
         "2604.15290",
         "13975",
-        "13764"
+        "13764",
+        "Exploring Functional",
+        "Like Patterns in Rust",
+        "Monads and Monad",
+        "Stack Overflow",
+        "What is a monad?"
       ],
       "last_result_hashes": [
-        "2304b593353dcf35aa94f92d66b62bc4",
-        "ab1a401478bf91151df62818473f5ef5",
-        "269341708d555d5819da5ef32f81a574",
         "52aadfa3b6370a6961288afe7f75e34c",
         "a726a94cf0af9bc5d97352717acc87e4",
         "480d402e9012f947099ff628259136e0",
@@ -879,24 +868,20 @@
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "608ac3d718f156089272977ad4c0adf3",
         "b48df3ecc7197e04cb4515339cfae453",
-        "b15aa28659ccabe3398f87c824f2ee7c"
+        "b15aa28659ccabe3398f87c824f2ee7c",
+        "a42e8a8dd1e4fed4a77bfb7761bdc39a",
+        "ea88e7791ba77ef858bb935fcb22db5c",
+        "df332d266a9393afd65af20ab5899d2a"
       ],
-      "last_run": "2026-06-22T10:47:47Z",
+      "last_run": "2026-06-22T11:02:58Z",
       "new_sub_topics_this_run": [
-        "Algor",
-        "Cards",
-        "Concept",
-        "English",
-        "Grokipedia",
-        "Overflow",
-        "Powerful",
-        "monads",
-        "plain",
-        "programming",
-        "readmedium.com",
-        "style"
+        "Exploring Functional",
+        "Like Patterns in Rust",
+        "Monads and Monad",
+        "Stack Overflow",
+        "What is a monad?"
       ],
-      "last_new_count": 6
+      "last_new_count": 3
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1070,8 +1055,6 @@
         "interview"
       ],
       "last_result_hashes": [
-        "1ff2c45205d19d05c322321f335f0949",
-        "d5756ea03b99e874cb2fcfeac3d4509d",
         "4f0510f7ee64c399af68eb6e19a111c1",
         "1ab26eb2dbd2592ead07e370424355b1",
         "758e32a5ad74796e353ebdfbf6d56a41",
@@ -1089,15 +1072,13 @@
         "3938ed170e66c90335e6d3359abb9f60",
         "4847d18b16c54ed200dc5166596191ca",
         "c047a018ea3c082f89d714707176a9b7",
-        "45dd13221b9fb1b949b8256c82747517"
+        "45dd13221b9fb1b949b8256c82747517",
+        "dc3d4c6455ae4669525034be4b92568a",
+        "bbb6684bd6a064980bc229015d0652a0"
       ],
-      "last_run": "2026-06-22T10:47:47Z",
-      "new_sub_topics_this_run": [
-        "PracHub",
-        "Rethinking",
-        "Success"
-      ],
-      "last_new_count": 5
+      "last_run": "2026-06-22T11:02:58Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 2
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1267,12 +1248,12 @@
         "optimizations",
         "going",
         "away",
-        "a3237bf77a10"
+        "a3237bf77a10",
+        "Exploring free",
+        "Goodbye GIL",
+        "What's new in Python 3.14"
       ],
       "last_result_hashes": [
-        "33fc5bc043c4cd5a7b4a748edff16127",
-        "081f8be0cc670074bcebfba0112589b4",
-        "17f40f751da9a1c9558ca7dbf958ae7e",
         "b2fbe6454e7c9d604f2d7586a436e138",
         "a1233cdbbbaf5c3624b23b99f9297143",
         "3977a42e266cba0d9724f6994662a434",
@@ -1289,30 +1270,18 @@
         "cab51b9535106a9f6b476476901a2948",
         "78e21fceb09bb6b8ff07c06d8c4e3c4b",
         "d6de7058fcf7e79f71074d94426c32ad",
-        "c644c61774b53593b05d98f55951400a"
+        "c644c61774b53593b05d98f55951400a",
+        "520745f56fb923733b5a58df7f379a92",
+        "dbd37a4229fff83fce7f6802c6805f45",
+        "8e240f50e504827be2a341451e19e50a"
       ],
-      "last_run": "2026-06-22T10:47:47Z",
+      "last_run": "2026-06-22T11:02:58Z",
       "new_sub_topics_this_run": [
-        "3.13",
-        "3.14.6",
-        "Does",
-        "Doesn't",
-        "Expert",
-        "Fixes",
-        "Gone",
-        "Python's",
-        "Reddit",
-        "Thread",
-        "Training",
-        "bites",
-        "docs",
-        "have",
-        "iCert",
-        "states",
-        "when",
-        "works"
+        "Exploring free",
+        "Goodbye GIL",
+        "What's new in Python 3.14"
       ],
-      "last_new_count": 6
+      "last_new_count": 3
     }
   }
 }

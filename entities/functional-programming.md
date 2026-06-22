@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional-programming
+- **2026-06-22** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: functional-programming
+- **2026-06-22** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: functional-programming
+
 - **2026-06-22** | [Haskell-style monads in Rust](https://rustrepo.com/repo/haskellstyle-monads-in-rust) | kw: Haskell-style monads in Rust
 - **2026-06-22** | [Monad (functional programming) - Grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad (functional programming)
 - **2026-06-22** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Programming Patterns](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns in Rust

@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [What's new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html) | kw: python-internals
+- **2026-06-22** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: python-internals
+- **2026-06-22** | [Thread states and the global interpreter lock](https://docs.python.org/3/c-api/threads.html) | kw: python-internals
+
 - **2026-06-22** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: 5 Python Performance Killers Expert Fixes 2026 Guide
 - **2026-06-22** | [Does Python have a GIL per process? - Reddit](https://www.reddit.com/r/Python/comments/1qzfyoz/does_python_have_a_gil_per_process/) | kw: Does Python have a GIL per process?
 - **2026-06-22** | [How Python's GIL actually works (and when it bites you) - DEV](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites you)

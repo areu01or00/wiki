@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+- **2026-06-22** | [A Minimal LLVM JIT example for LLVM-5](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: compilers
+
 - **2026-06-22** | [Building a JIT: Per-function Lazy — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: Building a JIT
 - **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, TurboFan, Maglev, Rust Monomorphization](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, 
 - **2026-06-22** | [Just-In-Time (JIT) Compiler with LLVM - createlang.rs](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM

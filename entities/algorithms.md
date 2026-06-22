@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [25,000+ DSA Problems for Coding Interviews](https://dsaproblem.com/) | kw: algorithms
+- **2026-06-22** | [I Tried 20+ Python DSA Courses with LeetCode Exercises](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: algorithms
+
 - **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026? - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy in 2026?
 - **2026-06-22** | [How to prepare for Data Structures & Algorithms interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms interview in
 - **2026-06-22** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode

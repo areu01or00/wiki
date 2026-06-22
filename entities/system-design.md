@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Architectural Patterns of Resilient Distributed Systems - YouTube](https://www.youtube.com/watch?v=ohvPnJYUW1E) | kw: system-design
+- **2026-06-22** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: system-design
+
 - **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026/) | kw: 9 Essential Software Architecture Patterns for Scalable Dist
 - **2026-06-22** | [Distributed Systems Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems Architecture Patterns · GitScrum Docs
 - **2026-06-22** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed Systems Patterns Every Backend Engineer Must Kno
