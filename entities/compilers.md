@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: llvm-org-OpenProjects-html
+- **2026-06-22** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: summerofcode-withgoogle-com-programs-2026-organizations-llvm
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: llvm-org
+- **2026-06-22** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: jank-lang-org-blog-2026-03-06-great-start
+- **2026-06-22** | [New LLVM JIT Features - Internals & Design - Julia Discourse](https://discourse.julialang.org/t/new-llvm-jit-features/22754) | kw: discourse-julialang-org-t-new-llvm-jit-features-22754
+
 - **2026-06-22** | [A Deep Dive into LLVM: The Future of Compiler Technology | Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: a-deep-dive-into-llvm-the-future-of-compiler-technology-medi
 - **2026-06-22** | [7. The Just-in-Time Compiler | Getting started with LLVM core libraries](https://subscription.packtpub.com/book/programming/9781782166924/7/ch07lvl1sec49/introducing-the-llvm-jit-framework) | kw: 7-the-just-in-time-compiler-getting-started-with-llvm-core-l
 

@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: upcloud-com-blog-modern-software-architecture-patterns-2026-
+- **2026-06-22** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: dev-to-fahimulhaq-complete-guide-to-system-design-oc7
+- **2026-06-22** | [Complete System Design Roadmap 2026 - Dev Kant Kumar](https://www.devkantkumar.com/blog/complete-system-design-roadmap-2026/) | kw: www-devkantkumar-com-blog-complete-system-design-roadmap-202
+- **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: www-reddit-com-r-softwarearchitecture-comments-1tl6qsr-9-ess
+- **2026-06-22** | [12 Essential Distributed System Design Patterns Every Architect ...](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: antondevtips-com-blog-12-essential-distributed-system-design
+- **2026-06-22** | [The Complete Guide to System Design in 2026 | InfraSketch Blog](https://infrasketch.net/blog/complete-guide-system-design) | kw: infrasketch-net-blog-complete-guide-system-design
+
 - **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: centralized-vs-decentralized-vs-distributed-systems---geeksf
 - **2026-06-22** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: system-design-concepts-course-and-interview-prep---youtube
 - **2026-06-22** | [oreilly.com/library/view/reactive-microservices-architecture...](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: oreillycomlibraryviewreactive-microservices-architecture

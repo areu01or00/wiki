@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: pythoncompiler-io-python-python-internals
+- **2026-06-22** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: www-udemy-com-course-python-interview-questions-with-answers
+- **2026-06-22** | [15+ Advanced Python Interview Questions and Answers 2026](https://interviewkickstart.com/blogs/interview-questions/advanced-python-interview-questions) | kw: interviewkickstart-com-blogs-interview-questions-advanced-py
+- **2026-06-22** | [Internals of Python 3.x - Amazon](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: www-amazon-com-Internals-Python-3-x-Performance-Iterations-d
+- **2026-06-22** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: realpython-com-python-gil
+- **2026-06-22** | [Internals of Python 3.x - scanlibs](https://scanlibs.com/internals-python-3-performance/) | kw: scanlibs-com-internals-python-3-performance
+- **2026-06-22** | [Rust Systems Python Bindings: Maturin for Safe Memory](https://johal.in/rust-systems-python-bindings-maturin-for-safe-memory-management-2026/) | kw: johal-in-rust-systems-python-bindings-maturin-for-safe-memor
+- **2026-06-22** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: embeddedprep-com-top-python-interview-questions-and-answers
+- **2026-06-22** | [Python performance: GIL removal, no-GIL mode, subinterpreters](https://docs.python.org/3/howto/free-threading-python.html) | kw: docs-python-org-3-howto-free-threading-python-html
+
 - **2026-06-22** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-in-2026-free-threading-and-uv-change-everything---med
 - **2026-06-22** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: goodbye-gil-exploring-free-threaded-mode-in-python-314---lin
 - **2026-06-22** | [Thread states and the global interpreter lock — Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: thread-states-and-the-global-interpreter-lock-python-3146

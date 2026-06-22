@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Best Websites to Practice DSA Mock Tests in (2026)](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests/) | kw: www-placementpreparation-io-blog-best-websites-for-dsa-mock-
+- **2026-06-22** | [DSA Roadmap: Learn Data Structures and Algorithms [2026]](https://www.scaler.com/blog/dsa-roadmap/) | kw: www-scaler-com-blog-dsa-roadmap
+- **2026-06-22** | [Namaste DSA Sheet | To Crack FAANG & PBC's Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: namastedev-com-namaste-dsa-sheet
+- **2026-06-22** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: www-coursera-org-resources-dsa-learning-roadmap
+- **2026-06-22** | [Best Data Structures & Algorithms Courses (2026)](https://onlinecourseing.com/best-data-structures-algorithms-courses/) | kw: onlinecourseing-com-best-data-structures-algorithms-courses
+- **2026-06-22** | [Data Structures and Algorithms for Coding Interview - Complete Python](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview/) | kw: samirpaulb-github-io-posts-data-structures-and-algorithms-fo
+- **2026-06-22** | [25,000+ DSA Problems for Coding Interviews | DSA Problem](https://dsaproblem.com/) | kw: dsaproblem-com
+- **2026-06-22** | [I Tried 20+ Python DSA Courses with LeetCode Exercises](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: medium-com-javarevisited-i-tried-20-python-dsa-courses-with-
+
 - **2026-06-22** | [leetcode-solutions · GitHub Topics · GitHub](https://github.com/topics/leetcode-solutions) | kw: leetcode-solutions-github-topics-github
 - **2026-06-22** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms-github-topics-github
 - **2026-06-22** | [Golang: Interview Bootcamp on HackerRank, LeetCode Algos](https://www.udemy.com/course/golang-interview-bootcamp-on-datastructures-leetcode-algos/) | kw: golang-interview-bootcamp-on-hackerrank-leetcode-algos

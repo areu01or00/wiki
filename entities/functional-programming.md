@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: gitscrum-com-en-solutions-verticals-haskell-teams
+- **2026-06-22** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: dev-to-anusornc-monad-in-functional-programming-2e5e
+- **2026-06-22** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: builtin-com-software-engineering-perspectives-monads
+- **2026-06-22** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: readmedium-com-functional-programming-with-monads-90230ccccb
+- **2026-06-22** | [Monads Unmasked: The Category Theory You're Already Using](https://www.javacodegeeks.com/2026/01/monads-unmasked-the-category-theory-youre-already-using-without-knowing.html) | kw: www-javacodegeeks-com-2026-01-monads-unmasked-the-category-t
+- **2026-06-22** | [Just how much can you do with functions? Haskell Functional](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: www-youtube-com-watch-v-rEgOP6MVGAM
+- **2026-06-22** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: mmhaskell-com-monads-tutorial
+- **2026-06-22** | [monad - GitHub Topics](https://github.com/topics/monad) | kw: github-com-topics-monad
+
 - **2026-06-22** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: the-practical-value-of-functional-programming-monad
 - **2026-06-22** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: how-i-learned-monads-not-through-haskell-but-through-rust
 - **2026-06-22** | [Mastering Functional Programming Concepts: A Leader's Guide](https://www.tekrecruiter.com/post/functional-programming-concepts) | kw: mastering-functional-programming-concepts-a-leaders-guide

@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [[2408.14345] Guard Analysis and Safe Erasure Gradual Typing](https://arxiv.org/abs/2408.14345) | kw: arxiv-org-abs-2408-14345
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: programming-journal-org-2026-11-3
+- **2026-06-22** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: elixir-lang-org-blog-2026-01-09-type-inference-of-all-and-ne
+- **2026-06-22** | [[2603.05649] Efficient Selection of Type Annotations](https://arxiv.org/abs/2603.05649) | kw: arxiv-org-abs-2603-05649
+- **2026-06-22** | [Luau Type System Complete Guide - Strict Mode, Generics](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: www-oflight-co-jp-en-columns-luau-type-system-strict-mode-gu
+- **2026-06-22** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: toolshelf-tech-blog-static-vs-dynamic-typing-guide-2026
+- **2026-06-22** | [Static Analysis Mypy: Strict Typing Configurations 2026](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: johal-in-static-analysis-mypy-strict-typing-configurations-2
+- **2026-06-22** | [Typing the Untyped: Soundness in Gradual Type Systems - Ben](https://www.youtube.com/watch?v=uJHD2xyv7xo) | kw: www-youtube-com-watch-v-uJHD2xyv7xo
+- **2026-06-22** | [TypeScript: Static or Dynamic? The war is over.](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: itnext-io-typescript-static-or-dynamic-64bceb50b93e
+
 - **2026-06-22** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir-v120-released-now-a-gradually-typed-language
 - **2026-06-22** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: pycon-us-2026-typing-summit-recap---bernt-gbor
 - **2026-06-22** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: what-type-systems-do-you-find-interesting-useful-underrated
