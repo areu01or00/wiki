@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems |
+
 - **2026-06-22** | [Quiz - Designing Pastebin | Learn System Design](https://www.designgurus.io/learn-system-design/quiz-designing-pastebin) | kw: Quiz
 - **2026-06-22** | [Most Design Systems Don’t Break... | Design Systems Collective](https://www.designsystemscollective.com/most-design-systems-dont-break-because-of-buttons-016ae786dc07) | kw: Don’t
 - **2026-06-22** | [CI/CD Pipeline Design Patterns for 2026: Best... - Techtweek Infotech](https://techtweekinfotech.com/cicd-pipeline-design-patterns-2026/) | kw: CI/CD

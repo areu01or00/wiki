@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan
+- **2026-06-22** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap:
+
 - **2026-06-22** | [leetcode-java · GitHub Topics · GitHub](https://github.com/topics/leetcode-java) | kw: leetcode-java
 - **2026-06-22** | [All O`one Data Structure LeetCode Problem Guide | GhostInterview](https://ghostinterview.co/leetcode-problems/all-oone-data-structure) | kw: O`one
 
