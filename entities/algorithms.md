@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start
+- **2026-06-22** | [leetcode - GitHub Topics](https://github.com/topics/leetcode) | kw: leetcode
+- **2026-06-22** | [70 Leetcode problems in 5+ hours - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: 70 Leetcode problems in 5+ hours
+
 - **2026-06-22** | [data-structure · GitHub Topics · GitHub](https://github.com/topics/data-structure) | kw: python
 
 - **2026-06-22** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start

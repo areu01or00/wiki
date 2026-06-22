@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why is llvm considered unsuitable for implementing a JIT?
+- **2026-06-22** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM JIT example for LLVM-5 · GitHub
+- **2026-06-22** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize JIT Compilation with LLVM's Next Generation API
+- **2026-06-22** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org
+- **2026-06-22** | [Ruby 3.4 YJIT: Python Numba Alternative for Speed 2026](https://johal.in/ruby-3-4-yjit-python-numba-alternative-for-speed-2026/) | kw: Ruby 3.4 YJIT: Python Numba Alternative for Speed 2026
+
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project
 - **2026-06-22** | [2026 EuroLLVM Developers' Meeting - Agenda](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: 2026 EuroLLVM Developers' Meeting
 

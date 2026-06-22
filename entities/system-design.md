@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distributed Systems
+- **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: AI Systems Are Quietly Becoming Distributed Systems | Towards AI
+- **2026-06-22** | [Integration Patterns 2026: Command Patterns (Writes, Idempotency...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-command-patterns/) | kw: Integration Patterns 2026: Command Patterns (Writes, Idempotency...)
+- **2026-06-22** | [Agentic Engineering Patterns 2026: 5 Essential Frameworks](https://knowmina.com/agentic-engineering-patterns-2026/) | kw: Agentic Engineering Patterns 2026: 5 Essential Frameworks
+
 - **2026-06-22** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026
 - **2026-06-22** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 2026
 - **2026-06-22** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed Systems Patterns 2026

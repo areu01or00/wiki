@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock
+- **2026-06-22** | [Python's GIL Is Gone in 3.13 But Your Code Probably Doesn't Benefit](https://medium.com/@sohail_saifi/pythons-gil-is-gone-in-3-13-but-your-code-probably-doesn-t-benefit-yet-here-s-exactly-why-31d2d93ff76c) | kw: Python's GIL Is Gone in 3.13 But Your Code Probably Doesn't Benefit
+- **2026-06-22** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: 5 Python Performance Killers Expert Fixes 2026 Guide
+- **2026-06-22** | [Does Python have a GIL per process? - Reddit](https://www.reddit.com/r/Python/comments/1qzfyoz/does_python_have_a_gil_per_process/) | kw: Does Python have a GIL per process?
+- **2026-06-22** | [Understanding how GIL Affects Checkpoint Performance in PyTorch](https://www.shayon.dev/post/2026/38/understanding-how-gil-affects-checkpoint-performance-in-pytorch-training/) | kw: Understanding how GIL Affects Checkpoint Performance in PyTorch
+
 - **2026-06-22** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: Tearing Off the GIL Veil: A Deep Dive into Python 
 
 - **2026-06-22** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How Python Works Under the Hood: Memory, GIL, and Bytecode
