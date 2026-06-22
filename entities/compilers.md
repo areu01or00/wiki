@@ -2,6 +2,10 @@
 
 ## Updates
 
+- **2026-06-22** | [Releases · ldc-developers/ldc · GitHub](https://github.com/ldc-developers/ldc/releases) | kw: Releases · ldc-developers/ldc · GitHub
+- **2026-06-22** | [ios - xcode command line build failed - Stack Overflow](https://stackoverflow.com/questions/35125494/xcode-command-line-build-failed-with-com-apple-compilers-llvm-clang-1-0-compiler) | kw: ios - xcode command line build failed - Stack Over
+
+
 - **2026-06-22** | [twinBASIC Update: June 16, 2026](https://nolongerset.com/twinbasic-update-june-16-2026/) | kw: twinBASIC Update: June 16, 2026 | source: compilers
 - **2026-06-22** | [The LLVM Compiler Infrastructure - LinkedIn](https://www.linkedin.com/posts/kevinsalapenades_the-llvm-compiler-infrastructure-activity-7393744847591002112-u0zb) | kw: The LLVM Compiler Infrastructure - LinkedIn | source: compilers
 - **2026-06-22** | [Compiling LLVM IR to Binary | Fernando Borretti](https://borretti.me/article/compiling-llvm-ir-binary) | kw: Compiling LLVM IR to Binary | Fernando Borretti | source: compilers

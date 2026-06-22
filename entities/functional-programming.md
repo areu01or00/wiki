@@ -2,6 +2,9 @@
 
 ## Updates
 
+- **2026-06-22** | [Functional programming languages should be so much better - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/1efwcso/functional_programming_languages_should_be_so/) | kw: Functional programming languages should be so much
+
+
 - **2026-06-22** | [oni-comb-parser - Rust library on lib.rs](https://lib.rs/crates/oni-comb-parser) | kw: oni-comb-parser - Rust library on lib.rs | source: functional-programming
 - **2026-06-22** | [anpa - Rust utility on lib.rs](https://lib.rs/crates/anpa) | kw: anpa - Rust utility on lib.rs | source: functional-programming
 - **2026-06-22** | [nessie-parse - GitHub](https://github.com/yonatan-reicher/nessie-parse) | kw: nessie-parse - GitHub | source: functional-programming
