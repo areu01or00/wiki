@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: minimal-jit-demo
+- **2026-06-22** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Lazy
+- **2026-06-22** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: Low-Level
+- **2026-06-22** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: LLVM
+
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: The,LLVM,Compiler
 - **2026-06-22** | [LLVM Compiler Infrastructure - Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM,Compiler,Infrastructure
 - **2026-06-22** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The,Case,For

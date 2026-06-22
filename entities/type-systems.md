@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Static Analysis Mypy: Strict Typing Configurations 2026 | Johal AI Hub](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: Type
+- **2026-06-22** | ["Typing the Untyped: Soundness in Gradual Type Systems" by Ben...](https://www.youtube.com/watch?v=uJHD2xyv7xo) | kw: Recent
+- **2026-06-22** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: Static
+
 - **2026-06-22** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir,v1.20,released:
 - **2026-06-22** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type,system,|
 - **2026-06-22** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What,type,systems
