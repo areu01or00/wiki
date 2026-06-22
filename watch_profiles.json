@@ -222,12 +222,7 @@
       "thinksys",
       "satya jit",
       "phongnguyend",
-      "Resilience",
-      "command",
-      "writes",
-      "idempotency",
-      "architectural",
-      "resilient"
+      "Resilience"
     ],
     "last_result_hashes": [
       "f5f44afedc51bdb8b313fcda4b054909",
@@ -252,13 +247,7 @@
       "1081d61539f960b7ca1f6fbbcb896522"
     ],
     "last_run": "2026-06-22T23:16:57.754062+00:00",
-    "new_sub_topics_this_run": [
-      "command",
-      "writes",
-      "idempotency",
-      "architectural",
-      "resilient"
-    ],
+    "new_sub_topics_this_run": [],
     "last_new_count": 0
   },
   "compilers": {
@@ -544,8 +533,7 @@
       "LLVM",
       "Julia",
       "ClickHouse",
-      "Releases \u00b7 ldc-developers/ldc \u00b7 GitHub",
-      "20.0.0git"
+      "Releases \u00b7 ldc-developers/ldc \u00b7 GitHub"
     ],
     "last_result_hashes": [
       "af906821b5af28695658baff9661080f",
@@ -570,9 +558,7 @@
       "257b82021f6075fe2ba87fd6fa06d9bc"
     ],
     "last_run": "2026-06-22T23:16:57.754062+00:00",
-    "new_sub_topics_this_run": [
-      "20.0.0git"
-    ],
+    "new_sub_topics_this_run": [],
     "last_new_count": 0
   },
   "type-systems": {
@@ -1146,10 +1132,7 @@
       "Serokell",
       "monadify",
       "Nauths",
-      "exam",
-      "built",
-      "you're",
-      "geeks"
+      "exam"
     ],
     "last_result_hashes": [
       "a7eab32392628b3fb5bbbd234d92133d",
@@ -1174,11 +1157,7 @@
       "df332d266a9393afd65af20ab5899d2a"
     ],
     "last_run": "2026-06-22T23:16:57.754062+00:00",
-    "new_sub_topics_this_run": [
-      "built",
-      "you're",
-      "geeks"
-    ],
+    "new_sub_topics_this_run": [],
     "last_new_count": 1
   },
   "algorithms": {
@@ -1685,9 +1664,7 @@
       "That",
       "Bottleneck",
       "Just",
-      "Biggest",
-      "10/11",
-      "skyfirews/prep"
+      "Biggest"
     ],
     "last_result_hashes": [
       "14363be65fd76337d7fa50cc847c0eea",
@@ -1712,10 +1689,7 @@
       "4a66d45418529695adad316642e0ca12"
     ],
     "last_run": "2026-06-22T23:16:57.754062+00:00",
-    "new_sub_topics_this_run": [
-      "10/11",
-      "skyfirews/prep"
-    ],
+    "new_sub_topics_this_run": [],
     "last_new_count": 1
   }
 }
