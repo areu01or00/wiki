@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: gradual type system
+- **2026-06-22** | [Future of high-level languages : r/ProgrammingLanguages - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/12x46f5/future_of_highlevel_languages/) | kw: Future high-level languages
+- **2026-06-22** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: Gradual typing with
+- **2026-06-22** | [Static Blame for gradual typing | Journal of Functional Programming](https://www.cambridge.org/core/product/A2CADE75A6BB303599A9FF8367DF9628) | kw: Static Blame for
+- **2026-06-22** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: what extent type
+- **2026-06-22** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system Wikipedia
+- **2026-06-22** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing/) | kw: What Gradual Typing
+- **2026-06-22** | [[PDF] Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: PDF Type Inference
+
 - **2026-06-22** | [NJPLS May 2026](https://njpls.org/may2026.html) | kw: njpls.org-may2026.html
 - **2026-06-22** | [Type Inference for Functional and Imperative Dynamic Languages](https://dl.acm.org/doi/10.1145/3798220) | kw: dl.acm.org-doi-10.1145-3798220
 - **2026-06-22** | [Guard Analysis and Safe Erasure Gradual Typing](https://arxiv.org/abs/2408.14345) | kw: arxiv.org-abs-2408.14345

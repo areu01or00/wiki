@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: Building JIT Starting
+- **2026-06-22** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures JIT compilation
+- **2026-06-22** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT Design and
+- **2026-06-22** | [JIT in ClickHouse](https://clickhouse.com/blog/clickhouse-just-in-time-compiler-jit) | kw: JIT ClickHouse
+- **2026-06-22** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation Wikipedia
+- **2026-06-22** | [LLVM '15: Proceedings of the Second Workshop on the LLVM Compiler ...](https://dl.acm.org/doi/proceedings/10.1145/2833157) | kw: LLVM Proceedings the
+- **2026-06-22** | [Translation Validation for JIT Compiler in the V8 JavaScript Engine](https://ieeexplore.ieee.org/document/10548576/) | kw: Translation Validation for
+- **2026-06-22** | [c++ - LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: LLVM simple example
+- **2026-06-22** | [wdv4758h/awesome-jit - GitHub](https://github.com/wdv4758h/awesome-jit) | kw: wdv4758h awesome-jit GitHub
+
 - **2026-06-22** | [1. Building a JIT: Starting out with KaleidoscopeJIT — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: llvm.org-docs-tutorial-buildingajit1.html
 - **2026-06-22** | [3. Building a JIT: Per-function Lazy Compilation — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: llvm.org-docs-tutorial-buildingajit3.html
 - **2026-06-22** | [4. Kaleidoscope: Adding JIT and Optimizer Support — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl04.html) | kw: llvm.org-docs-tutorial-myfirstlanguagefrontend-langimpl04.ht

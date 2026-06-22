@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Modern Python Best Practices: The 2026 Definitive Guide](https://onehorizon.ai/blog/modern-python-best-practices-the-2026-definitive-guide) | kw: Modern Python Best
+- **2026-06-22** | [Python - Python Internals: Memory Management & the Global Interpreter ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Python Internals
+- **2026-06-22** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Memory Management
+- **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and Other ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future Python
+- **2026-06-22** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The Python GIL
+- **2026-06-22** | [Understanding Python GIL... | MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: Understanding Python GIL
+- **2026-06-22** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Understanding the Python
+- **2026-06-22** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What the Global
+- **2026-06-22** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What the Python
+
 - **2026-06-22** | [Understanding Python GIL - Key Questions About the Global Interpreter Lock - MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: moldstud.com-articles-p-understanding-python-gil-key-questio
 - **2026-06-22** | [Python's GIL Is Gone — What That Actually Means for Your Code - Python in Plain English](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python.plainenglish.io-pythons-gil-is-gone-what-that-actuall
 - **2026-06-22** | [What's new in Python 3.14 - Python documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: docs.python.org-3-whatsnew-3.14.html

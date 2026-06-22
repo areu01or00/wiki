@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: Best Free Courses
+- **2026-06-22** | [70 Leetcode problems in 5+ hours (every data structure)... - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: Leetcode problems hours
+- **2026-06-22** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.scien.cx/2025/07/22/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial/) | kw: Data Structure and
+- **2026-06-22** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/problemset/) | kw: LeetCode The World's
+- **2026-06-22** | [My Senior Android Engineer Interview Experience with Tinder | Medium](https://medium.com/@YodgorbekKomilo/my-senior-android-engineer-interview-experience-with-tinder-389d7c44b24a) | kw: Senior Android Engineer
+- **2026-06-22** | [Struggling with Data Structures and Algorithms? - Yo Motherboard](https://yomotherboard.com/question/struggling-with-data-structures-and-algorithms-heres-how-to-improve/) | kw: Struggling with Data
+- **2026-06-22** | [[Update Links] Java Data Structures & Algorithms + LEETCODE...](https://learningdl.net/java-data-structures-algorithms-leetcode-exercises/) | kw: Update Links Java
+- **2026-06-22** | [leetcode · GitHub Topics · GitHub](https://github.com/topics/leetcode) | kw: leetcode GitHub Topics
+
 - **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has the format shifted? - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: www.reddit.com-r-careeradvice-comments-1tzzhde-are-big-tech-
 - **2026-06-22** | [Data Structures/Algorithms to go over the day of the test - LeetCode Discuss](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: leetcode.com-discuss-interview-question-820191-data-structur
 - **2026-06-22** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: www.techinterview.net-questions-data-structures-algorithms-i

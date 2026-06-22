@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: Systems Are Quietly
+- **2026-06-22** | [Bulkhead Pattern — Distributed Design Pattern | by Pratik... | Medium](https://distributedsystemsmadeeasy.medium.com/bulkhead-pattern-distributed-design-pattern-c673d5e81523) | kw: Bulkhead Pattern Distributed
+- **2026-06-22** | [English Dialogue for Informatics Engineering - Distributed Systems...](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: English Dialogue for
+- **2026-06-22** | [Most Design Systems Don't Break... | Design Systems Collective](https://www.designsystemscollective.com/most-design-systems-dont-break-because-of-buttons-016ae786dc07) | kw: Most Design Systems
+- **2026-06-22** | [System Design Primer | Awesome Repository](https://awesome-repositories.com/repository/donnemartin-system-design-primer?q=awesome-system-design-repositories-on-github) | kw: System Design Primer
+- **2026-06-22** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: System Design Roadmap
+- **2026-06-22** | [What are microservices?](https://microservices.io/) | kw: What are microservices
+
 - **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Program Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026/) | kw: javarevisited.wordpress.com-2026-05-22-9-essential-software-
 - **2026-06-22** | [The Design Patterns for Distributed Systems Handbook – Key Concepts Every Developer Should Know](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/) | kw: www.freecodecamp.org-news-design-patterns-for-distributed-sy
 - **2026-06-22** | [GitHub - Sairyss/system-design-patterns: Resources related to distributed systems, system design, microservices, scalability and performance, etc](https://github.com/Sairyss/system-design-patterns) | kw: github.com-sairyss-system-design-patterns

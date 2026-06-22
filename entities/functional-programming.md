@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Co-Creator Haskell Functional
+- **2026-06-22** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: lang for functionalprogramming
+- **2026-06-22** | [Functional Programming Online Courses - Serokell](https://serokell.io/courses) | kw: Functional Programming Online
+- **2026-06-22** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Good tutorial book
+- **2026-06-22** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello Haskell Getting
+- **2026-06-22** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How Learned Monads
+- **2026-06-22** | [Issue 522 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/522.html) | kw: Issue Haskell Weekly
+- **2026-06-22** | [What killed Haskell, could kill Rust, too · GitHub - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: What killed Haskell
+- **2026-06-22** | [What other ways can state be handled in a pure functional language ...](https://stackoverflow.com/questions/13536761/what-other-ways-can-state-be-handled-in-a-pure-functional-language-besides-with) | kw: What other ways
+
 - **2026-06-22** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: en.wikipedia.org-wiki-monad-functional-programming
 - **2026-06-22** | [Community version of Learn You a Haskell (2026 update) - Discourse](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: discourse.haskell.org-t-community-version-of-learn-you-a-has
 - **2026-06-22** | [functional programming - How do I combine monads in Haskell? - Stack Overflow](https://stackoverflow.com/questions/1126651/how-do-i-combine-monads-in-haskell) | kw: stackoverflow.com-questions-1126651-how-do-i-combine-monads-
