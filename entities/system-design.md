@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [The Programming Concepts That Actually Matter in 2026](https://medium.com/@sovannaro/the-programming-concepts-that-actually-matter-in-2026-ea96230e13cb) | kw: System Design
+- **2026-06-22** | [Complete System Design Roadmap 2026 - Dev Kant Kumar](https://www.devkantkumar.com/blog/complete-system-design-roadmap-2026/) | kw: System Design
+
 - **2026-06-22** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices,Architecture,Patterns
 - **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: 9,Essential,Software
 - **2026-06-22** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed,Systems,Roadmap

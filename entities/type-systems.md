@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: Type Systems
+- **2026-06-22** | [NJPLS May 2026 - Principal Gradual Type Inference](https://njpls.org/may2026.html) | kw: Type Systems
+- **2026-06-22** | [Type Inference for Functional and Imperative Dynamic Languages - ACM](https://dl.acm.org/doi/10.1145/3798220) | kw: Type Systems
+
 - **2026-06-22** | [Static Analysis Mypy: Strict Typing Configurations 2026 | Johal AI Hub](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: Type
 - **2026-06-22** | ["Typing the Untyped: Soundness in Gradual Type Systems" by Ben...](https://www.youtube.com/watch?v=uJHD2xyv7xo) | kw: Recent
 - **2026-06-22** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: Static
