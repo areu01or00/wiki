@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Translation Validation for JIT Compiler in the V8 JavaScript Engine](https://ieeexplore.ieee.org/document/10548576/) | kw: Validation
+
 - **2026-06-22** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: documentation
 - **2026-06-22** | [clang - LLVM jit and native - Stack Overflow](https://stackoverflow.com/questions/3509215/llvm-jit-and-native) | kw: Overflow
 - **2026-06-22** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM

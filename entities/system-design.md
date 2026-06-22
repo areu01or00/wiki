@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Quiz - Designing Pastebin | Learn System Design](https://www.designgurus.io/learn-system-design/quiz-designing-pastebin) | kw: Quiz
+- **2026-06-22** | [Most Design Systems Don’t Break... | Design Systems Collective](https://www.designsystemscollective.com/most-design-systems-dont-break-because-of-buttons-016ae786dc07) | kw: Don’t
+- **2026-06-22** | [CI/CD Pipeline Design Patterns for 2026: Best... - Techtweek Infotech](https://techtweekinfotech.com/cicd-pipeline-design-patterns-2026/) | kw: CI/CD
+- **2026-06-22** | [Bulkhead Pattern — Distributed Design Pattern | by Pratik... | Medium](https://distributedsystemsmadeeasy.medium.com/bulkhead-pattern-distributed-design-pattern-c673d5e81523) | kw: Bulkhead
+- **2026-06-22** | [oreilly.com/library/view/reactive-microservices-architecture...](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: Pratik
+- **2026-06-22** | [Patterns of Distributed Systems - Unmesh Joshi - Häftad | Bokus](https://www.bokus.com/bok/9780138221980/patterns-of-distributed-systems) | kw: Unmesh
+
 - **2026-06-22** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: started
 - **2026-06-22** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: Jishu
 - **2026-06-22** | [System Design Interview: Design a Distributed Search Engine...](https://www.techinterview.org/post/3233464068/system-design-distributed-search/) | kw: Interview
