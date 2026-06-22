@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Explore LeetCode
+- **2026-06-22** | [Data Structures and Algorithms Interview Guide 2026 - Medhly AI](https://medhly.com/blog/data-structures-algorithms-interview-guide/) | kw: Data Structures Algorithms
+
 - **2026-06-22** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most,Asked,LeetCode
 - **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are,Big,Tech
 - **2026-06-22** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How,to,prepare

@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python's GIL Is Gone in 3.13. But Your Code Probably Doesn't Benefit Yet - Medium](https://medium.com/@sohail_saifi/pythons-gil-is-gone-in-3-13-but-your-code-probably-doesn-t-benefit-yet-here-s-exactly-why-31d2d93ff76c) | kw: Python GIL Gone
+- **2026-06-22** | [Does Python have a GIL per process? - Reddit](https://www.reddit.com/r/Python/comments/1qzfyoz/does_python_have_a_gil_per_process/) | kw: Python GIL per
+- **2026-06-22** | [Understanding how GIL Affects Checkpoint Performance in PyTorch - shayon.dev](https://www.shayon.dev/post/2026/38/understanding-how-gil-affects-checkpoint-performance-in-pytorch-training/) | kw: Understanding GIL Affects
+
 - **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The,Future,of
 - **2026-06-22** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory,Management,&
 - **2026-06-22** | [Python 3.14 Free-Threading and Experimental JIT: How Python...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Python,3.14,Free-Threading
