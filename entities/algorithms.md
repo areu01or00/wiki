@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Bing clev click tracking](/clev?event=StartpageResultClick&sc=5mZRtno4IRKOQXTjBlQ3GCt0nJHbwxt0e1zcFISjUWLAAeVV6OGRjhL3PKWiUEjKLx2TEobmnVHhb) | kw: Bing | source: algorithms
+
 - **2026-06-22** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: algorithms | source: algorithms
 - **2026-06-22** | [70 Leetcode problems in 5+ hours - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: Problems | source: algorithms
 - **2026-06-22** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.scien.cx/2025/07/22/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial/) | kw: interviews | source: algorithms

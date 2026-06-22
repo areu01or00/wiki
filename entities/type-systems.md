@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: Putting | source: type-systems
+- **2026-06-22** | [Refined Criteria for Gradual Typing](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SNAPL.2015.274) | kw: Refined Criteria | source: type-systems
+
 - **2026-06-22** | [Efficient Selection of Type Annotations for Gradually Typed Programs](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection | source: type-systems
 - **2026-06-22** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection | source: type-systems
 - **2026-06-22** | [Lua in 2026 - Why Lua 5.5 LuaJIT and Luau Are Three Languages](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: languages | source: type-systems

@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Remote native JIT compilation and debugging with LLVM](https://weliveindetail.github.io/blog/post/2021/03/29/remote-compile-and-debug.html) | kw: Remote | source: compilers
+
 - **2026-06-22** | [Building a JIT - Per-function Lazy - LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: Documentation | source: compilers
 - **2026-06-22** | [Compilers and Modern Language Runtimes - LLVM JIT GC V8 TurboFan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers | source: compilers
 - **2026-06-22** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-in-time | source: compilers
