@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: system-design
+- **2026-06-22** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: system-design
+- **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: system-design
+- **2026-06-22** | [System Design Interview Practice - Interactive Sandbox](https://www.systemdesignsandbox.com/) | kw: system-design
+- **2026-06-22** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: system-design
+- **2026-06-22** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: system-design
+- **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: system-design
+- **2026-06-22** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: system-design
+- **2026-06-22** | [Agentic Engineering Patterns 2026: 5 Essential Frameworks](https://knowmina.com/agentic-engineering-patterns-2026/) | kw: system-design
+- **2026-06-22** | [Prompt Engineering for Developers: 5 Production Patterns That Work...](https://www.groovyweb.co/blog/prompt-engineering-for-developers-production-patterns-2026) | kw: system-design
+
 - **2026-06-22** | [Cloudflare Durable Objects Patterns 2026](https://johal.in/cloudflare-durable-objects-patterns-2026/) | kw: Cloudflare Durable Objects
 
 - **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: Systems Are Quietly

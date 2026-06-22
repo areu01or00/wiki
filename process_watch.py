@@ -1,188 +1,164 @@
 #!/usr/bin/env python3
-"""Wiki watch processor: dedup, aggregate, update wiki, save profiles, push."""
-import json
+"""Wiki watch pipeline: dedupe, group by wiki page, update wiki files."""
 import hashlib
+import json
 import os
 import re
-import subprocess
+import glob
+from collections import defaultdict
 from datetime import datetime, timezone
-from collections import defaultdict, OrderedDict
 
-WIKI_DIR = '/home/hermes/wiki'
-ENTITIES_DIR = os.path.join(WIKI_DIR, 'entities')
-TEMP_DIR = os.path.join(WIKI_DIR, 'temp')
-PROFILES_PATH = os.path.join(WIKI_DIR, 'watch_profiles.json')
+WIKI_DIR = "/home/hermes/wiki"
+PROFILES_PATH = f"{WIKI_DIR}/watch_profiles.json"
+ENTITIES_DIR = f"{WIKI_DIR}/entities"
+TEMP_DIR = f"{WIKI_DIR}/temp"
+RUN_TIMESTAMP = "20260622_170022"
 
-# Load batch results
-all_results = {}  # profile_name -> [results]
-for batch_n in (1, 2):
-    p = os.path.join(TEMP_DIR, f'watch_run_batch{batch_n}.json')
-    with open(p) as f:
+# 1. Load all batch files
+batch_files = sorted(glob.glob(f"{TEMP_DIR}/watch_run_{RUN_TIMESTAMP}_batch*.json"))
+print(f"Loading {len(batch_files)} batch files: {batch_files}")
+all_results = {}  # profile_key -> list of {title, url, description}
+for bf in batch_files:
+    with open(bf) as f:
         data = json.load(f)
-    for prof_name, results in data['profiles'].items():
-        all_results.setdefault(prof_name, []).extend(results)
+    for pkey, pdata in data["profiles"].items():
+        all_results.setdefault(pkey, []).extend(pdata["results"])
 
-print(f"Loaded {sum(len(v) for v in all_results.values())} total results across {len(all_results)} profiles")
-
-# Load profiles
+# 2. Load profiles
 with open(PROFILES_PATH) as f:
-    profiles_data = json.load(f)
-profiles = profiles_data['profiles']
+    profiles = json.load(f)
 
-# Compute hashes & find new entries per profile
-new_entries_by_profile = {}  # profile_name -> [result dicts]
-seen_hashes_by_profile = {}  # profile_name -> set of all hashes known (last + new)
+# 3. Compute hashes and dedupe
+seen_hashes = set()
+new_by_profile = {}
+all_new_hashes = {}
+new_sub_topics_per_profile = {}
 
-for name, prof in profiles.items():
-    results = all_results.get(name, [])
-    last_hashes = set(prof.get('last_result_hashes', []))
-    new_results = []
-    seen = set(last_hashes)
-    for r in results:
-        title = r.get('title', '')
-        url = r.get('url', '')
-        h = hashlib.md5(f"{title}{url}".encode('utf-8', errors='replace')).hexdigest()
-        if h not in seen:
-            seen.add(h)
-            new_results.append({'title': title, 'url': url, 'description': r.get('description', ''), 'hash': h})
-    new_entries_by_profile[name] = new_results
-    seen_hashes_by_profile[name] = seen
-
-for name, prof in profiles.items():
-    new_results = new_entries_by_profile[name]
-    print(f"  {name}: {len(new_results)} new (of {len(all_results.get(name, []))} returned)")
-
-# Aggregate by wiki_page
-entries_by_page = defaultdict(list)  # wiki_page -> [(profile_name, [result])]
-for name, prof in profiles.items():
-    page = prof.get('wiki_page')
-    if page and new_entries_by_profile.get(name):
-        entries_by_page[page].append((name, new_entries_by_profile[name]))
-
-# Save timestamp
-now = datetime.now(timezone.utc)
-date_str = now.strftime('%Y-%m-%d')
-datetime_str = now.strftime('%Y-%m-%d %H:%M UTC')
-
-# Update wiki pages
-print("\n--- Updating wiki pages ---")
-for page, profile_bundles in entries_by_page.items():
-    # Flatten all new entries across profiles targeting same page, dedup by hash
-    flat = []
-    seen_h = set()
-    for prof_name, results in profile_bundles:
-        for r in results:
-            if r['hash'] not in seen_h:
-                seen_h.add(r['hash'])
-                flat.append((prof_name, r))
-    if not flat:
-        continue
-    fp = os.path.join(ENTITIES_DIR, page)
-    with open(fp, 'r') as f:
-        content = f.read()
-    lines = content.split('\n')
-    insert_idx = None
-    for i, line in enumerate(lines):
-        if line.strip() == '## Updates':
-            insert_idx = i + 1
-            break
-    if insert_idx is None:
-        print(f"  WARNING: no ## Updates header in {page}, skipping")
-        continue
-    # Build new entries - extract a 1-2 word keyword from title
-    new_lines = []
-    for prof_name, r in flat:
-        title = r['title']
-        url = r['url']
-        # Try to extract a keyword - use first meaningful 2-3 word phrase
-        kw = title[:60].strip()
-        new_lines.append(f"- **{date_str}** | [{title}]({url}) | kw: {kw}")
-    # Insert after ## Updates
-    lines = lines[:insert_idx] + new_lines + [''] + lines[insert_idx:]
-    new_content = '\n'.join(lines)
-    with open(fp, 'w') as f:
-        f.write(new_content)
-    print(f"  Updated {page}: +{len(new_lines)} entries")
-
-# Update watch_profiles.json
-print("\n--- Updating watch_profiles.json ---")
-for name, prof in profiles.items():
-    seen = list(seen_hashes_by_profile[name])
-    # Keep last 20
-    prof['last_result_hashes'] = seen[-20:]
-    prof['last_run'] = now.isoformat()
-    # Discover new sub-topics from new entries
-    new_results = new_entries_by_profile.get(name, [])
-    existing_sub_topics = set(prof.get('sub_topics', []))
+for pkey, profile in profiles.items():
+    results = all_results.get(pkey, [])
+    last_hashes = set(profile.get("last_result_hashes", []))
+    existing_sub_topics = set(profile.get("sub_topics", []))
+    new_entries = []
+    new_hashes_this_run = []
     new_sub_topics = []
-    for r in new_results:
-        # Heuristic: extract first meaningful capitalized phrase as potential sub-topic
-        title = r['title']
-        # Use first 5 words as candidate
-        words = re.findall(r"[A-Za-z][A-Za-z0-9'-]+", title)
-        if not words:
+
+    for r in results:
+        title = r["title"]
+        url = r["url"]
+        h = hashlib.md5(f"{title}{url}".encode("utf-8", errors="replace")).hexdigest()
+        if h in seen_hashes or h in last_hashes:
             continue
-        candidate = ' '.join(words[:5])
-        # Compare case-insensitively to existing
-        if not any(candidate.lower() == s.lower() for s in existing_sub_topics):
-            new_sub_topics.append(candidate)
-            existing_sub_topics.add(candidate)
-    if new_sub_topics:
-        prof.setdefault('new_sub_topics_this_run', [])
-        prof['new_sub_topics_this_run'].extend(new_sub_topics)
-        prof['last_new_count'] = len(new_sub_topics)
-    # Add new result titles to sub_topics list
-    for r in new_results:
-        for w in re.findall(r"[A-Za-z][A-Za-z0-9'-]+", r['title']):
-            if w.lower() not in {s.lower() for s in prof.get('sub_topics', [])}:
-                prof.setdefault('sub_topics', []).append(w)
+        # New entry
+        seen_hashes.add(h)
+        new_entries.append({"hash": h, "title": title, "url": url, "description": r.get("description", "")})
+        new_hashes_this_run.append(h)
+        # Sub-topic discovery from title (split into words, take meaningful tokens)
+        title_words = re.findall(r"[A-Za-z][A-Za-z0-9\-_/]{2,}", title)
+        for w in title_words:
+            if w not in existing_sub_topics and w not in new_sub_topics and len(w) >= 3:
+                # Skip very common junk
+                if w.lower() in {"the","and","for","with","this","from","into","your","what","how","why","you","can","are","not","all","one","has","had","was","but","its","out","top","new","use","via","over","more","best","guide","list","every","most","good","great","real","dead","still","again","been","just","than","then","they","them","his","her","him","she","our","your","their","will","would","could","should","about","after","before","between","without","because","while","during","through","under","such","each","same","other","some","any","few","many","much","very","too","also","only","own","same","few","own"}:
+                    continue
+                new_sub_topics.append(w)
 
-# Write profiles
-with open(PROFILES_PATH, 'w') as f:
-    json.dump(profiles_data, f, indent=2, ensure_ascii=False)
-print("  profiles written")
+    new_by_profile[pkey] = new_entries
+    all_new_hashes[pkey] = new_hashes_this_run
+    new_sub_topics_per_profile[pkey] = new_sub_topics[:20]  # cap
 
-# Write a final combined result file for traceability
-combined = {
-    'timestamp': now.isoformat(),
-    'profiles': {
-        name: {
-            'wiki_page': profiles[name].get('wiki_page'),
-            'returned': len(all_results.get(name, [])),
-            'new': len(new_entries_by_profile.get(name, [])),
-            'new_entries': [
-                {'title': r['title'], 'url': r['url'], 'hash': r['hash']}
-                for r in new_entries_by_profile.get(name, [])
-            ],
-            'new_sub_topics': profiles[name].get('new_sub_topics_this_run', []),
-        }
-        for name in profiles
-    }
+print("\n=== Summary of new results per profile ===")
+total_new = 0
+for pkey in profiles:
+    n = len(new_by_profile[pkey])
+    total_new += n
+    print(f"  {pkey}: {n} new results, {len(new_sub_topics_per_profile[pkey])} new sub-topics")
+    if new_by_profile[pkey]:
+        for e in new_by_profile[pkey][:3]:
+            print(f"    - {e['title'][:80]}")
+print(f"TOTAL new entries: {total_new}")
+
+# 4. Group by wiki_page (aggregate before updating)
+page_entries = defaultdict(list)
+page_profile_map = defaultdict(list)
+for pkey, entries in new_by_profile.items():
+    page = profiles[pkey]["wiki_page"]
+    for e in entries:
+        page_entries[page].append({"profile": pkey, **e})
+        if pkey not in page_profile_map[page]:
+            page_profile_map[page].append(pkey)
+
+# 5. Update wiki pages
+TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+date_marker = f"- **{TODAY}**"
+
+for page, entries in page_entries.items():
+    path = f"{ENTITIES_DIR}/{page}"
+    if not os.path.exists(path):
+        print(f"SKIP: {page} does not exist")
+        continue
+
+    with open(path, "r") as f:
+        content = f.read()
+    lines = content.split("\n")
+
+    # Find FIRST "## Updates" line
+    insert_after = None
+    for i, line in enumerate(lines):
+        if line.strip() == "## Updates":
+            insert_after = i + 1
+            break
+
+    if insert_after is None:
+        # No Updates section — add one at the bottom
+        lines.append("")
+        lines.append("## Updates")
+        lines.append("")
+        insert_after = len(lines) - 1
+
+    # Build new entries
+    new_lines = []
+    for entry in entries:
+        kw = entry["profile"]
+        new_lines.append(f"{date_marker} | [{entry['title']}]({entry['url']}) | kw: {kw}")
+
+    lines = lines[:insert_after] + new_lines + [""] + lines[insert_after:]
+    with open(path, "w") as f:
+        f.write("\n".join(lines))
+    print(f"UPDATED: {page} — {len(entries)} new entries (profiles: {', '.join(page_profile_map[page])})")
+
+# 6. Update watch_profiles.json — append hashes (max 20), update last_run
+now_iso = datetime.now(timezone.utc).isoformat()
+for pkey, profile in profiles.items():
+    new_h = all_new_hashes[pkey]
+    combined = (profile.get("last_result_hashes", []) + new_h)[-20:]
+    profile["last_result_hashes"] = combined
+    profile["last_run"] = now_iso
+    profile["last_new_count"] = len(new_by_profile[pkey])
+    # Merge sub-topics
+    existing = set(profile.get("sub_topics", []))
+    for s in new_sub_topics_per_profile[pkey]:
+        if s not in existing:
+            profile.setdefault("sub_topics", []).append(s)
+            existing.add(s)
+    profile["new_sub_topics_this_run"] = new_sub_topics_per_profile[pkey]
+
+with open(PROFILES_PATH, "w") as f:
+    json.dump(profiles, f, indent=2, ensure_ascii=False)
+print("\nUPDATED: watch_profiles.json")
+
+# 7. Save digest data for Discord step
+digest = {
+    "timestamp": now_iso,
+    "total_new": total_new,
+    "profiles": {}
 }
-combined_path = os.path.join(TEMP_DIR, 'watch_run_final.json')
-with open(combined_path, 'w') as f:
-    json.dump(combined, f, indent=2, ensure_ascii=False)
-print(f"  final result file: {combined_path}")
+for pkey in profiles:
+    digest["profiles"][pkey] = {
+        "wiki_page": profiles[pkey]["wiki_page"],
+        "new_count": len(new_by_profile[pkey]),
+        "entries": new_by_profile[pkey],
+        "new_sub_topics": new_sub_topics_per_profile[pkey],
+    }
 
-# Build digest
-total_profiles = len(profiles)
-total_new = sum(len(new_entries_by_profile.get(n, [])) for n in profiles)
-total_subtopics = sum(len(profiles[n].get('new_sub_topics_this_run', [])) for n in profiles)
-print(f"\nTotal: {total_profiles} profiles, {total_new} new entries, {total_subtopics} new sub-topics")
-
-# Git push
-print("\n--- Git push ---")
-try:
-    subprocess.run(['git', 'add', '-A'], cwd=WIKI_DIR, check=True)
-    commit_msg = f"{datetime_str} Wiki watch update"
-    subprocess.run(['git', 'commit', '-m', commit_msg], cwd=WIKI_DIR, check=True)
-    subprocess.run(['git', 'push', 'origin', 'main'], cwd=WIKI_DIR, check=True)
-    print("  git push OK")
-except subprocess.CalledProcessError as e:
-    print(f"  git error: {e}")
-    # Try master
-    try:
-        subprocess.run(['git', 'push', 'origin', 'master'], cwd=WIKI_DIR, check=True)
-        print("  git push master OK")
-    except subprocess.CalledProcessError as e2:
-        print(f"  git push master also failed: {e2}")
+with open(f"{TEMP_DIR}/watch_run_{RUN_TIMESTAMP}_digest.json", "w") as f:
+    json.dump(digest, f, indent=2, ensure_ascii=False)
+print(f"WROTE: watch_run_{RUN_TIMESTAMP}_digest.json")

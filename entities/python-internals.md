@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python-internals
+- **2026-06-22** | [Advanced Python 4— GIL in Python - Medium by Abhishek Jain](https://medium.com/@abhishekjainindore24/advanced-python-4-gil-in-python-375321837f3c) | kw: python-internals
+- **2026-06-22** | [Hardware Usage and Energy Implications of Removing the GIL - arxiv](https://arxiv.org/html/2603.04782v1) | kw: python-internals
+- **2026-06-22** | [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/) | kw: python-internals
+- **2026-06-22** | [How Python's GIL Works - Codefinity](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: python-internals
+- **2026-06-22** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: python-internals
+- **2026-06-22** | [Why is there no GIL in the Java Virtual Machine? - Stack Overflow](https://stackoverflow.com/questions/991904/why-is-there-no-gil-in-the-java-virtual-machine-why-does-python-need-one-so-bad) | kw: python-internals
+- **2026-06-22** | [Is it finally time to remove the Python GIL? - InfoWorld](https://www.infoworld.com/article/2337804/is-it-finally-time-to-remove-the-python-gil.html) | kw: python-internals
+- **2026-06-22** | [Python 3.14 and the End of the GIL - Towards Data Science](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) | kw: python-internals
+
 - **2026-06-22** | [GitHub - AsliddinTuxtasinov/ADVANCED-PYTHON-CORE](https://github.com/AsliddinTuxtasinov/ADVANCED-PYTHON-CORE) | kw: GitHub AsliddinTuxtasinov ADVANCED-PYTHON-CORE
 
 

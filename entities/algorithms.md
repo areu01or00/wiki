@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026? - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
+- **2026-06-22** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data) - dsaprep.dev](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: algorithms
+- **2026-06-22** | [How to prepare for DSA interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
+- **2026-06-22** | [Amazon SDE2 Feb 2026 [Selected] - LeetCode Discuss](https://leetcode.com/discuss/post/7710904) | kw: algorithms
+- **2026-06-22** | [LeetCode Isn't Dead in 2026 - But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: algorithms
+- **2026-06-22** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: algorithms
+- **2026-06-22** | [Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: algorithms
+- **2026-06-22** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: algorithms
+- **2026-06-22** | [Top 100 DSA Interview Questions - LeetCode Discuss](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: algorithms
+
 
 - **2026-06-22** | [50 Days Badge 2026 LeetCode - LinkedIn](https://www.linkedin.com/posts/mofijul02anish_leetcode-datastructures-algorithms-activity-7435275744882204672-ncl1) | kw: Earned Days
 - **2026-06-22** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: Best Free Courses

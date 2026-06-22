@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Rust: Functional Programming & Monads - Medium](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional-programming
+- **2026-06-22** | [rust - Lifting function to Option - Stack Overflow](https://stackoverflow.com/questions/63260988/lifting-function-to-option) | kw: functional-programming
+- **2026-06-22** | [Monad (functional programming) - Grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: functional-programming
+- **2026-06-22** | [GitHub - nsu-syspro/haskell-monads-2026](https://github.com/nsu-syspro/haskell-monads-2026) | kw: functional-programming
+- **2026-06-22** | [Monads Demystified - readllm.com](https://readllm.com/docs/tech/latest/monads-demystified-the-math-driven-superpower-behind-functional-programming/) | kw: functional-programming
+- **2026-06-22** | [Monads: Programmer's Definition - Bartosz Milewski](https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/) | kw: functional-programming
+
 - **2026-06-22** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad functional programming
 
 

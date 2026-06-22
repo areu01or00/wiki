@@ -1,6 +1,17 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+- **2026-06-22** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: compilers
+- **2026-06-22** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: compilers
+- **2026-06-22** | [c++ - LLVM: simple example of a just-in-time compilation - Stack Overflow](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: compilers
+- **2026-06-22** | [wdv4758h/awesome-jit - GitHub](https://github.com/wdv4758h/awesome-jit) | kw: compilers
+- **2026-06-22** | [Translation Validation for JIT Compiler in the V8 JavaScript Engine](https://ieeexplore.ieee.org/document/10548576/) | kw: compilers
+- **2026-06-22** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: compilers
+- **2026-06-22** | [JIT in ClickHouse](https://clickhouse.com/blog/clickhouse-just-in-time-compiler-jit) | kw: compilers
+- **2026-06-22** | [LLVM '15: Proceedings of the Second Workshop on the LLVM Compiler...](https://dl.acm.org/doi/proceedings/10.1145/2833157) | kw: compilers
+
 - **2026-06-22** | [Getting Started with the LLVM System](https://rocm.docs.amd.com/projects/llvm-project/en/latest/LLVM/llvm/html/GettingStarted.html) | kw: Getting Started with
 - **2026-06-22** | [Compilation for LLMs: Why a Language for Models... - DEV Community](https://dev.to/delimitter_8b9077911a3848/compilation-for-llms-why-a-language-for-models-needs-native-code-3jal) | kw: Compilation LLMs Language
 
