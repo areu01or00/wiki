@@ -222,7 +222,12 @@
       "thinksys",
       "satya jit",
       "phongnguyend",
-      "Resilience"
+      "Resilience",
+      "command",
+      "writes",
+      "idempotency",
+      "architectural",
+      "resilient"
     ],
     "last_result_hashes": [
       "f5f44afedc51bdb8b313fcda4b054909",
@@ -246,8 +251,14 @@
       "bad00d14c84bfba03e3559457382a40d",
       "1081d61539f960b7ca1f6fbbcb896522"
     ],
-    "last_run": "2026-06-22T23:02:14.702511+00:00",
-    "new_sub_topics_this_run": [],
+    "last_run": "2026-06-22T23:16:57.754062+00:00",
+    "new_sub_topics_this_run": [
+      "command",
+      "writes",
+      "idempotency",
+      "architectural",
+      "resilient"
+    ],
     "last_new_count": 0
   },
   "compilers": {
@@ -533,7 +544,8 @@
       "LLVM",
       "Julia",
       "ClickHouse",
-      "Releases \u00b7 ldc-developers/ldc \u00b7 GitHub"
+      "Releases \u00b7 ldc-developers/ldc \u00b7 GitHub",
+      "20.0.0git"
     ],
     "last_result_hashes": [
       "af906821b5af28695658baff9661080f",
@@ -557,11 +569,11 @@
       "e7f3aa100a7e5ef01bffafe76cbf9393",
       "257b82021f6075fe2ba87fd6fa06d9bc"
     ],
-    "last_run": "2026-06-22T23:02:14.702511+00:00",
+    "last_run": "2026-06-22T23:16:57.754062+00:00",
     "new_sub_topics_this_run": [
-      "Remote"
+      "20.0.0git"
     ],
-    "last_new_count": 1
+    "last_new_count": 0
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -844,11 +856,8 @@
       "29ff16a013639480476846321ab4599c",
       "c318bf5bfbe7e4308fdfc75d0b07347f"
     ],
-    "last_run": "2026-06-22T23:02:14.702511+00:00",
-    "new_sub_topics_this_run": [
-      "Gradual Typing",
-      "Refined Criteria"
-    ],
+    "last_run": "2026-06-22T23:16:57.754062+00:00",
+    "new_sub_topics_this_run": [],
     "last_new_count": 0
   },
   "functional-programming": {
@@ -1137,10 +1146,12 @@
       "Serokell",
       "monadify",
       "Nauths",
-      "exam"
+      "exam",
+      "built",
+      "you're",
+      "geeks"
     ],
     "last_result_hashes": [
-      "60d4b47fe87ba10a8374112cbd25a09b",
       "a7eab32392628b3fb5bbbd234d92133d",
       "64aca92fc9c20cf9f7deb2b07fc983b9",
       "1399b63d953e7d7e106a7eee426fcc78",
@@ -1159,11 +1170,16 @@
       "30528bdc44cd273f71e20b4509f48e6d",
       "66ec4c8c63080ff53458990979c1f587",
       "6ac17140976f4e3a7be22d2ec701d1ce",
-      "449f1936d11b3408b5111b8fbfc6e205"
+      "449f1936d11b3408b5111b8fbfc6e205",
+      "df332d266a9393afd65af20ab5899d2a"
     ],
-    "last_run": "2026-06-22T23:02:14.702511+00:00",
-    "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_run": "2026-06-22T23:16:57.754062+00:00",
+    "new_sub_topics_this_run": [
+      "built",
+      "you're",
+      "geeks"
+    ],
+    "last_new_count": 1
   },
   "algorithms": {
     "query": "algorithms data structures LeetCode interview 2026",
@@ -1421,10 +1437,8 @@
       "0489aad2d21bb4d175bb495c58d6d210",
       "e2ea376d565be8add41da7dab13b9fe8"
     ],
-    "last_run": "2026-06-22T23:02:14.702511+00:00",
-    "new_sub_topics_this_run": [
-      "Bing"
-    ],
+    "last_run": "2026-06-22T23:16:57.754062+00:00",
+    "new_sub_topics_this_run": [],
     "last_new_count": 0
   },
   "python-internals": {
@@ -1671,10 +1685,11 @@
       "That",
       "Bottleneck",
       "Just",
-      "Biggest"
+      "Biggest",
+      "10/11",
+      "skyfirews/prep"
     ],
     "last_result_hashes": [
-      "95172cad7556a23f769f4291448f737a",
       "14363be65fd76337d7fa50cc847c0eea",
       "e16c6a9a53a8142813c9375702399ec2",
       "ea883ee30215ed9bef0c03111f4654af",
@@ -1693,10 +1708,14 @@
       "44ede0fa7f964aee564e189fd251a80b",
       "88d4b4034dbc943d384e8da85ff50aae",
       "2ce0621961507d5a23124e482fa7bdb7",
-      "bbb596c3441904fed7dc7fa5f00eeb00"
+      "bbb596c3441904fed7dc7fa5f00eeb00",
+      "4a66d45418529695adad316642e0ca12"
     ],
-    "last_run": "2026-06-22T23:02:14.702511+00:00",
-    "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_run": "2026-06-22T23:16:57.754062+00:00",
+    "new_sub_topics_this_run": [
+      "10/11",
+      "skyfirews/prep"
+    ],
+    "last_new_count": 1
   }
 }

@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad (functional programming) | source: functional-programming
+
 - **2026-06-22** | [Demystifying MONADs - Toolify](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying | source: functional-programming
 - **2026-06-22** | [Haskell - Monads 5-minute introduction - YouTube](https://www.youtube.com/watch?v=_Gk_lwhJMzk) | kw: Introduction | source: functional-programming
 - **2026-06-22** | [Monad (functional programming) - Grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Programming | source: functional-programming

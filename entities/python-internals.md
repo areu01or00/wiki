@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [GitHub - skyfirews/prep · GitHub](https://github.com/skyfirews/prep) | kw: GitHub - skyfirews/prep · GitHub | source: python-internals
+
 - **2026-06-22** | [400 Python Interview Questions with Answers 2026 - Udemy](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: Interview | source: python-internals
 - **2026-06-22** | [Advanced Python Internals - GIL Multithreading - DEV Community](https://dev.to/aman_kumar_6d5d23b9b1ed02/advanced-python-internals-gil-multithreading-20mk) | kw: Multithreading | source: python-internals
 - **2026-06-22** | [How Python Works Under the Hood - Memory GIL Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: Bytecode | source: python-internals
