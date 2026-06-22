@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [28th Euromicro Conference Series on Digital System Design (DSD)](https://www.sciencedirect.com/special-issue/327719/28th-euromicro-conference-series-on-digital-system-design-dsd-september-10-12-salerno-italy) | kw: Conference | source: system-design
+- **2026-06-22** | [Is System Design Needed For Software Engineers In 2026?](https://www.linkedin.com/pulse/system-design-needed-software-engineers-2026-designgurus-zfkgc) | kw: Career | source: system-design
+- **2026-06-22** | [The Programming Concepts That Actually Matter in 2026](https://medium.com/@sovannaro/the-programming-concepts-that-actually-matter-in-2026-ea96230e13cb) | kw: Concepts | source: system-design
+- **2026-06-22** | [From principles to practice: operating sequenced distributed systems in capital markets](https://www.ctrmcenter.com/ctrm-community/sequencer-architectures-capital-markets/) | kw: Sequencer | source: system-design
+- **2026-06-22** | [There's Just No Getting around It: You're Building a Distributed System](https://spawn-queue.acm.org/doi/10.1145/2466486.2482856) | kw: Distributed | source: system-design
+- **2026-06-22** | [About IEEE ICBDS 2026](https://icbds.ieeepunesection.org/) | kw: IEEE | source: system-design
+- **2026-06-22** | [Where ideas meet impact - ETTIS-2026](https://www.facebook.com/CDACINDIA/posts/where-ideas-meet-impact-ettis-2026-is-callingthe-6th-international-conference-on/1400688842097541/) | kw: ETTIS | source: system-design
+- **2026-06-22** | [Top 5 Software Development Trends in 2026 - Apriorit](https://www.apriorit.com/dev-blog/software-development-trends) | kw: Trends | source: system-design
+- **2026-06-22** | [6 Companies Pioneering the Use of Distributed Systems](https://scalac.io/blog/6-companies-using-distributed-systems/) | kw: Distributed | source: system-design
+
 - **2026-06-22** | [Let AI Models Fight Over Your Architecture](https://hackernoon.com/let-ai-models-fight-over-your-architecture) | kw: AI Architecture | source: system-design
 
 - **2026-06-22** | [A pattern language for microservices](https://microservices.io/patterns/index.html) | kw: Microservices | source: system-design

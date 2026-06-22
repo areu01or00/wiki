@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Local Contextual Type Inference - Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3776653) | kw: Inference | source: type-systems
+
 - **2026-06-22** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: Putting | source: type-systems
 - **2026-06-22** | [Refined Criteria for Gradual Typing](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SNAPL.2015.274) | kw: Refined Criteria | source: type-systems
 

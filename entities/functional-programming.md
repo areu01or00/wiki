@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Functors, Applicatives and Monads Tutorial | Simply...](https://www.youtube.com/watch?v=94bPH1u6kYo) | kw: Monad | source: functional-programming
+- **2026-06-22** | [Free monads - what? and why?](https://softwaremill.com/free-monads/) | kw: Free | source: functional-programming
+- **2026-06-22** | [Monad Explorer | MonadVision](https://monadvision.com/) | kw: Monad | source: functional-programming
+- **2026-06-22** | [It's Time You Learn About Monads](https://medium.com/att-israel/its-time-you-learn-about-monads-4ebe687e3ec7) | kw: Monad | source: functional-programming
+- **2026-06-22** | [Using Metal and Rust to make FFT even faster - Not a Monad Tutorial](https://www.notamonadtutorial.com/using-metal-and-rust-to-make-fft-even-faster/) | kw: Rust | source: functional-programming
+- **2026-06-22** | [monoid · GitHub Topics · GitHub](https://github.com/topics/monoid) | kw: Monoid | source: functional-programming
+
 - **2026-06-22** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad (functional programming) | source: functional-programming
 
 - **2026-06-22** | [Demystifying MONADs - Toolify](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying | source: functional-programming

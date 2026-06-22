@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [[Feature] Free-Threaded Python (3.14t / nogil) Support for SGLang](https://github.com/sgl-project/sglang/issues/22889) | kw: Free-threaded | source: python-internals
+- **2026-06-22** | [r/django on Reddit: With Python 3.14 free-threading support](https://www.reddit.com/r/django/comments/1lnekfg/with_python_314_freethreading_support_coming_up/) | kw: Free-threading | source: python-internals
+- **2026-06-22** | [Python 3.13 & 3.14 Are Breaking Backward Compatibility on Purpose](https://pub.towardsai.net/python-3-13-3-14-are-breaking-backward-compatibility-on-purpose-b6c7d7351336) | kw: ABI | source: python-internals
+
 - **2026-06-22** | [GitHub - skyfirews/prep · GitHub](https://github.com/skyfirews/prep) | kw: GitHub - skyfirews/prep · GitHub | source: python-internals
 
 - **2026-06-22** | [400 Python Interview Questions with Answers 2026 - Udemy](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: Interview | source: python-internals

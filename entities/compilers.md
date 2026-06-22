@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [GitHub - mikeroyal/LLVM-Guide: LLVM (Low Level Virtual Machine) Guide](https://github.com/mikeroyal/LLVM-Guide) | kw: Guide | source: compilers
+- **2026-06-22** | [A curated list of awesome LLVM (including Clang, etc)](https://github.com/learn-llvm/awesome-llvm) | kw: Awesome | source: compilers
+
 - **2026-06-22** | [Mono LLVM | Mono](https://www.mono-project.com/docs/advanced/mono-llvm/) | kw: Mono | source: compilers
 - **2026-06-22** | [Remote native JIT compilation and debugging with LLVM](https://weliveindetail.github.io/blog/post/2021/03/29/remote-compile-and-debug.html) | kw: Remote | source: compilers
 

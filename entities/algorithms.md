@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [1000 problems in less than 6 months - Discuss - LeetCode](https://leetcode.com/discuss/general-discussion/1618382/1000-problems-in-less-than-6-months/) | kw: LeetCode | source: algorithms
+- **2026-06-22** | [I Solved 350 problems on Leetcode, 5 learnings](https://levelup.gitconnected.com/i-solved-350-problems-on-leetcode-my-learnings-from-them-b94b2d53948f) | kw: LeetCode | source: algorithms
+- **2026-06-22** | [Solved 1000 problems - LeetCode Discuss](https://leetcode.com/discuss/post/4583640/Solved-1000-problems-Here-are-some-of-my-learnings/) | kw: LeetCode | source: algorithms
+- **2026-06-22** | [June Leetcoding Challenge Day 8 - Medium](https://medium.com/@tej230/june-leetcoding-challenge-day-8-4f3ace74d1fc) | kw: Challenge | source: algorithms
+- **2026-06-22** | [Made it to 1k! AMA : r/leetcode](https://www.reddit.com/r/leetcode/comments/18ri6c5/made_it_to_1k_ama/) | kw: LeetCode | source: algorithms
+- **2026-06-22** | [Even if I solve 200 algorithm questions on LeetCode - Quora](https://www.quora.com/Even-if-I-solve-200-algorithm-questions-on-LeetCode-and-think-that-I-understood-solutions-after-2-months-without-solving-any-question-when-I-try-to-solve-them-again-I-cant-remember-some-of-the-solutions-What-should) | kw: LeetCode | source: algorithms
+- **2026-06-22** | [LeetCode Advised Problems Sorted by Topics](https://leetcode.com/discuss/general-discussion/1058072/leetcode-advised-problems-sorted-by-topics-and-directions/) | kw: LeetCode | source: algorithms
+- **2026-06-22** | [Cracking FAANG Interviews with LeetCode Patterns - LinkedIn](https://www.linkedin.com/posts/subraco_leetcode-faang-softwareengineering-activity-7466754647387680768-sd91) | kw: FAANG | source: algorithms
+- **2026-06-22** | [Why Early Commitment Helps AI Solve Structured Problems](https://pub.towardsai.net/why-early-commitment-helps-ai-solve-structured-problems-d9dd63d9e04d) | kw: AI | source: algorithms
+- **2026-06-22** | [My interview experience - Google (Accepted)](https://leetcode.com/discuss/interview-experience/1468574/my-interview-experience-google-accepted-microsoft-declined/) | kw: Interview | source: algorithms
+
 - **2026-06-22** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: algorithms | source: algorithms
 - **2026-06-22** | [70 Leetcode problems in 5+ hours - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: Problems | source: algorithms
 - **2026-06-22** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.scien.cx/2025/07/22/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial/) | kw: interviews | source: algorithms
