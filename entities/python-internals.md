@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python Internal Architecture - LinkedIn](https://www.linkedin.com/pulse/python-internal-architecture-hari-mohan-3mwsc) | kw: python-internal-architecture-linkedin
+- **2026-06-22** | [Memory Management in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/operating-systems/memory-management-in-operating-system/) | kw: memory-management-operating-system
+- **2026-06-22** | [Python Metaprogramming for ML Frameworks - apxml](https://apxml.com/courses/advanced-python-programming-ml/chapter-3-metaprogramming-python-internals-ml) | kw: python-metaprogramming-for-frameworks
 - **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of Python Internals: Exploring GIL Removal and Other Optimizations
 - **2026-06-22** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks
 - **2026-06-22** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?

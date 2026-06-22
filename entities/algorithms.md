@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Data Structure and Algortihm Explanation - TikTok](https://www.tiktok.com/discover/data-structure-and-algortihm-explanation) | kw: data-structure-and-algortihm
+- **2026-06-22** | [Los algorithms repositorios principales - Git Stars](https://git-stars.org/es/repositories/topic/algorithms) | kw: los-algorithms-repositorios-principales
+- **2026-06-22** | [How to Ace Your Coding Interview With AI (2026) - Interview Coder](https://www.interviewcoder.co/blog/how-to-ace-coding-interview-with-ai-2026) | kw: how-ace-your-coding
 - **2026-06-22** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)
 - **2026-06-22** | [Best coding interview prep resource in 2026 (Grokking vs LeetCode) - Reddit](https://www.reddit.com/r/leetcode/comments/1qft3d3/best_coding_interview_prep_resource_in_2026/) | kw: Best coding interview prep resource in 2026 (Grokking vs LeetCode) - Reddit
 - **2026-06-22** | [How to prepare for Data Structures & Algorithms interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms interview in 2026 - YouTube
