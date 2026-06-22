@@ -2,6 +2,9 @@
 
 ## Updates
 
+- **2026-06-22** | [Runtime Infrastructure | python/cpython | DeepWiki](https://deepwiki.com/python/cpython/5-runtime-infrastructure) | kw: cpython-runtime, interpreter-state, GIL-internals
+
+
 - **2026-06-22** | [Comparing Python Type Checkers: Speed and Memory](https://www.reddit.com/r/Python/comments/1skcp5j/comparing_python_type_checkers_speed_and_memory/) | kw: Comparing Python Type Checkers: Speed and Memory | source: python-internals
 - **2026-06-22** | [Pyrefly: Python Type Checker by Meta](https://pydevtools.com/handbook/reference/pyrefly/) | kw: Pyrefly: Python Type Checker by Meta | source: python-internals
 - **2026-06-22** | [FAQ - Pyrefly](https://pyrefly.org/en/docs/pyrefly-faq/) | kw: FAQ - Pyrefly | source: python-internals
