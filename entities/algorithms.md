@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Data Structures & Algorithms: The Complete Journey](https://www.udemy.com/course/data-structures-algorithms-the-complete-journey/) | kw: udemy, complete, journey, DSA | source: algorithms
+
 - **2026-06-22** | [1000 problems in less than 6 months - Discuss - LeetCode](https://leetcode.com/discuss/general-discussion/1618382/1000-problems-in-less-than-6-months/) | kw: LeetCode | source: algorithms
 - **2026-06-22** | [I Solved 350 problems on Leetcode, 5 learnings](https://levelup.gitconnected.com/i-solved-350-problems-on-leetcode-my-learnings-from-them-b94b2d53948f) | kw: LeetCode | source: algorithms
 - **2026-06-22** | [Solved 1000 problems - LeetCode Discuss](https://leetcode.com/discuss/post/4583640/Solved-1000-problems-Here-are-some-of-my-learnings/) | kw: LeetCode | source: algorithms
