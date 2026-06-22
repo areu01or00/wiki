@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [DSA Learning Roadmap: From Beginner to Expert (2026) | Coursera](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert (2026)
+- **2026-06-22** | [How to Get Better at LeetCode: 10 Tips That Actually Work (2026)](https://leetcopilot.dev/blog/how-to-get-better-at-leetcode-2026) | kw: How to Get Better at LeetCode: 10 Tips That Actually Work (2
+- **2026-06-22** | [Leetcode Patterns Explained by Ai: Complete Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-patterns-explained-by-ai-complete-guide-for-2026) | kw: Leetcode Patterns Explained by Ai: Complete Guide (2026)
+- **2026-06-22** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start
+- **2026-06-22** | [50+ Data Structures and Algorithms Interview Questions for 2026](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers) | kw: 50+ Data Structures and Algorithms Interview Questions for 2
+
 - **2026-06-22** | [GitHub - Himanshu-Singh7/dsa_interview_prep_2026](https://github.com/Himanshu-Singh7/dsa_interview_prep_2026) | kw: GitHub - Himanshu-Singh7dsa_interview_prep_2026
 - **2026-06-22** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: Data Structure I - LeetCode
 - **2026-06-22** | [Data Structures for Coding Interviews 2026: The 8 You Actually Need | LastRound AI](https://lastroundai.com/blog/data-structures-interview-guide) | kw: Data Structures for Coding Interviews 2026 The 8 You Actually Need  LastRound AI

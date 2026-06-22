@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter
+- **2026-06-22** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python GIL: The Key to Backend Performance - odysse.io
+- **2026-06-22** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production-
+- **2026-06-22** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Exploring Python: Internals and Optimization
+- **2026-06-22** | [Will Removing Python's GIL make it significantly faster? - HAMY](https://hamy.xyz/blog/2025-07_will-gil-removal-make-python-faster) | kw: Will Removing Python's GIL make it significantly faster? - H
+- **2026-06-22** | [Python 3.13 Free-Threaded Mode & JIT Guide 2026 - softaims.com](https://softaims.com/blog/python-313-free-threaded-jit-features-2026) | kw: Python 3.13 Free-Threaded Mode & JIT Guide 2026 - softaims.c
+
 - **2026-06-22** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Memory Management GIL Deep Dive  Medium
 - **2026-06-22** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: Python GIL The Key to Backend Performance - odysseio
 - **2026-06-22** | [Python 3.13 No-GIL: What You Need to Know - DEV Community](https://dev.to/zackch/python-313-no-gil-what-you-need-to-know-352i) | kw: Python 313 No-GIL What You Need to Know - DEV Community

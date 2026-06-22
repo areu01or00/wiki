@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM: The Future of Compiler Technology
+- **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 T
+- **2026-06-22** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin
+- **2026-06-22** | [Advanced Optimizations in Modern Compilers: JIT, AOT and Hybrid Pipelines](https://ijsrmt.com/index.php/ijsrmt/article/view/1072) | kw: Advanced Optimizations in Modern Compilers: JIT, AOT and Hyb
+- **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+- **2026-06-22** | [The Future of Programming: Compiler Writing in 2026 | Artikls](https://artikls.com/article/future-programming-compiler-writing-2026) | kw: The Future of Programming: Compiler Writing in 2026
+- **2026-06-22** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet/) | kw: AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]
+- **2026-06-22** | [Just-in-Time for Runtime Interpretation - Unmasking the World of LLVM IR Based JIT Execution](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution) | kw: Just-in-Time for Runtime Interpretation - Unmasking the Worl
+
 - **2026-06-22** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The Case For Compilers A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome
 - **2026-06-22** | [LLVM Weekly - a weekly newsletter covering developments in ...](https://llvmweekly.org/) | kw: LLVM Weekly - a weekly newsletter covering developments in
 - **2026-06-22** | [Just-in-Time for Runtime Interpretation - Unmasking the World of LLVM IR Based JIT Execution | White Knight Labs](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution) | kw: Just-in-Time for Runtime Interpretation - Unmasking the World of LLVM IR Based J

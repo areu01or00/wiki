@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Making Sense of Monads - Monday Morning Haskell
+- **2026-06-22** | [Example 604: Monad Laws | Functional Rust - hightechmind.io](https://hightechmind.io/rust/604-monad-laws-rust.html) | kw: Example 604: Monad Laws
+- **2026-06-22** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam vs. Rust
+- **2026-06-22** | [The Practical Value of Functional Programming — Monad](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming — Monad
+- **2026-06-22** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming at Its Finest: Why Haskell Developers
+
 - **2026-06-22** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad functional programming - Wikipedia
 - **2026-06-22** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming at Its Finest Why Haskell Developers Bring Unmatched Code
 - **2026-06-22** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026  Functional Type-Safe Monads  GitScrum  GitScrum

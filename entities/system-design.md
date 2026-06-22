@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide to System Design in 2026 AI-Native and Se
+- **2026-06-22** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: A Guide to Large-Scale Distributed Systems (2026)
+- **2026-06-22** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design – Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns in 2026: Mastering Distr
+- **2026-06-22** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks) | kw: System Design Building Blocks: Design Scalable Systems in 20
+- **2026-06-22** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: System Design: The Complete Guide 2026
+- **2026-06-22** | [Microservices Architecture in 2026: Building Scalable Distributed Systems | S.C.G.A. Limited](https://scga.hk/blog/microservices-architecture-2026) | kw: Microservices Architecture in 2026: Building Scalable Distri
+
 - **2026-06-22** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The Coming Paradigm Shift in Distributed Systems Architecture  Gabo Gil
 - **2026-06-22** | [Future of High-Performance Distributed Systems: Trends and Research Directions – Md.Rafiuzzaman Khan](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Distributed Systems Trends and Research Directions  M
 - **2026-06-22** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns in 2026 Mastering

@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual Typing – Programming Research Group
+- **2026-06-22** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing - Khoury College of Computer 
+- **2026-06-22** | [Yudai Tanabe](https://yudaitnb.github.io/) | kw: Yudai Tanabe
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations for Performance Impr
+- **2026-06-22** | [programming-language-research/research/papers/gradual-typing-a-new-perspective/README.md](https://github.com/imteekay/programming-language-research/blob/master/research/papers/gradual-typing-a-new-perspective/README.md) | kw: programming-language-research/research/papers/gradual-typing
+- **2026-06-22** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives | NSF Public Access Repository](https://par.nsf.gov/biblio/10569815-gradual-typing-performance-micro-configurations-macro-perspectives) | kw: Gradual Typing Performance, Micro Configurations and Macro P
+- **2026-06-22** | [Gradual Typing - Language Design and Implementation | ANU School of Computing](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual Typing - Language Design and Implementation
+- **2026-06-22** | [Gradual Typing Performance, Micro Configurations and Macro Perspectives](https://link.springer.com/chapter/10.1007/978-3-031-64626-3_15) | kw: Gradual Typing Performance, Micro Configurations and Macro P
+- **2026-06-22** | [TYPES 2026: Call for contributions](https://types2026.cse.chalmers.se/call-for-contributions.html) | kw: TYPES 2026: Call for contributions
+- **2026-06-22** | [TYPES 2026: TYPES 2026](https://types2026.cse.chalmers.se/index.html) | kw: TYPES 2026: TYPES 2026
+
 - **2026-06-22** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing in Type Theory - numberanalyticscom
 - **2026-06-22** | [Gradual Typing with Uniﬁcation-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual Typing with Uniﬁcation-based Inferen
 - **2026-06-22** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: Gradual Typing and The Gradually Typed Lambda Calculus
