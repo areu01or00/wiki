@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Memory Management GIL Deep Dive  Medium
+- **2026-06-22** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading/) | kw: Python GIL The Key to Backend Performance - odysseio
+- **2026-06-22** | [Python 3.13 No-GIL: What You Need to Know - DEV Community](https://dev.to/zackch/python-313-no-gil-what-you-need-to-know-352i) | kw: Python 313 No-GIL What You Need to Know - DEV Community
+- **2026-06-22** | [The Secret Life of Python: Understanding the GIL](https://www.tech-reader.blog/2026/04/the-secret-life-of-python-understanding.html) | kw: The Secret Life of Python Understanding the GIL
+- **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations) | kw: The Future of Python Internals Exploring GIL Removal and
 - **2026-06-20** | [Python Internals: Memory Management & GIL | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals memory management gil
 - **2026-06-20** | [The Future of Python Internals: GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: the future of python internals
 - **2026-06-20** | [Modern Python in 2026 — 3.13/3.14/free-threaded/uv/Ruff/Polars](https://www.youngju.dev/blog/culture/2026-05-16-modern-python-2026-python-3-13-3-14-free-threaded-uv-ruff-polars-fastapi-litestar-robyn-deep-dive.en) | kw: modern python in 2026 3

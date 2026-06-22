@@ -63,14 +63,19 @@
         "ACL Digital",
         "Strategies",
         "Practices",
-        "Distributed"
+        "Distributed",
+        "Best",
+        "Bridge",
+        "Complete",
+        "Design",
+        "Directions",
+        "Future",
+        "Gabo",
+        "Gil",
+        "High",
+        "Khan"
       ],
       "last_result_hashes": [
-        "2b816d0cf4bff7a093aa08f5c173a8c6",
-        "7a43fcfcde6a6e1ad6d40ccc6f416748",
-        "62ffed8405f0c26474dbf2c73f5f9796",
-        "dffcbc8662b09cb0a5c2d9645a80041f",
-        "70c411feb51eb6a46c277d953d6d0a03",
         "0bccdfeceeee7664c4e61f75605f9f8f",
         "7adb740512b7087138618dd825b4af4c",
         "46a56982536c8a4f9801b7d471165b39",
@@ -85,11 +90,27 @@
         "93de5e2f4ec856a0ad2d45eb4ba324c7",
         "a3c1c2b6d55ff083812e1ea086382dbd",
         "7f64368e8a1d34828ccb923f8e0003e5",
-        "b7b724dd42585c9ceb6c7e74762d9e03"
+        "b7b724dd42585c9ceb6c7e74762d9e03",
+        "8a4c6c3b1a58ba76429a4cc01eb115a4",
+        "4365457d59a6ae052dc50ed629a1d36c",
+        "89a56d75eb44a5b6b6e7751656a45c91",
+        "88acfa572213a7fa4ba3cb7f2fee0f03",
+        "9ba46483364adb11b22fcfbd9fe2e4d2"
       ],
-      "last_run": "2026-06-22T00:46:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-22T01:02:53Z",
+      "new_sub_topics_this_run": [
+        "Best",
+        "Bridge",
+        "Complete",
+        "Design",
+        "Directions",
+        "Future",
+        "Gabo",
+        "Gil",
+        "High",
+        "Khan"
+      ],
+      "last_new_count": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -154,13 +175,19 @@
         "TurboFan/Maglev,",
         "Register",
         "Allocation",
-        "Machine"
+        "Machine",
+        "Based",
+        "BuildingAJIT1",
+        "CPU",
+        "Case",
+        "Compilers",
+        "Execution",
+        "Interpretation",
+        "Just",
+        "Knight",
+        "Labs"
       ],
       "last_result_hashes": [
-        "6e76d5990761a54f756d319e37fddbb0",
-        "5d4ac715e54509da805ad5c64a5b6b9b",
-        "dc5ada16f234dc184f112304b0917552",
-        "e3de56741106b3ae528cad3750a09844",
         "514369ce0bb009dfc184b0836959b439",
         "cd81edf8511034bfb061d67e42a19d20",
         "dde9e8d6fb49d441eb6cc93b5b9f79cb",
@@ -176,11 +203,26 @@
         "a8551f898094977fef0c3dc46b76bcb5",
         "9b9e5b41a1c52064d55b23f06ea84096",
         "0e5a237955047e2ff8bc08b3d56d7ab8",
-        "f206368f76599fbab65a46387373312b"
+        "f206368f76599fbab65a46387373312b",
+        "23259200a7be4533fe1e25b8fdeb4b83",
+        "d6b1d0b195a3733a394b342cca13ee0d",
+        "a5a327ae40bb54f40799af8c9ae33edb",
+        "7ed9cf6296b93bcd1574511795e44641"
       ],
-      "last_run": "2026-06-22T00:46:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-22T01:02:53Z",
+      "new_sub_topics_this_run": [
+        "Based",
+        "BuildingAJIT1",
+        "CPU",
+        "Case",
+        "Compilers",
+        "Execution",
+        "Interpretation",
+        "Just",
+        "Knight",
+        "Labs"
+      ],
+      "last_new_count": 4
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -245,14 +287,19 @@
         "Matrix",
         "Outs",
         "Safe Erasure Gradual Typing",
-        "Putting Gradual Types"
+        "Putting Gradual Types",
+        "Calculus",
+        "Confused",
+        "Efficient",
+        "Gradual",
+        "Gradually",
+        "Inferen",
+        "Lambda",
+        "Papers",
+        "Research",
+        "Theory"
       ],
       "last_result_hashes": [
-        "5c8d464c75e0f82550f068820dd0b4ad",
-        "92a50716d512d793eb55712187c18082",
-        "b026ef92bf282c4d85de696983ed4a8c",
-        "481bf13dad9a849f34a663880bb0470f",
-        "3b2d4874080a77eb71b3e8dfe9c65d9c",
         "0e9dcaf4af91dfc0bc8200900a97a80c",
         "393c2007828b49d14ae2ce8a8bf61873",
         "bca887779c4d30860ee265ce67393aa0",
@@ -266,11 +313,28 @@
         "539299cdb002f1725e1d140c5784f165",
         "b7f815588a97a5d3e0ad0feee83b4a54",
         "a6ae4d578365450e03bd054fcf71d87a",
-        "6fc9970c04093343ec26fd6a1cf8f540"
+        "6fc9970c04093343ec26fd6a1cf8f540",
+        "796dd8fb9f6369a2e77f75139af26f3c",
+        "5d1b5b06b44ca33c06056141cd002b67",
+        "74d9db89389a5ff882bfd7bac5937d2c",
+        "7f9d9d17e1451e3ee24574749b4b94d2",
+        "a3bff6024fbb28890c700733eef813fa",
+        "05e87cbef36cd8edbadc65c13cd2b4af"
       ],
-      "last_run": "2026-06-22T00:46:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-22T01:02:53Z",
+      "new_sub_topics_this_run": [
+        "Calculus",
+        "Confused",
+        "Efficient",
+        "Gradual",
+        "Gradually",
+        "Inferen",
+        "Lambda",
+        "Papers",
+        "Research",
+        "Theory"
+      ],
+      "last_new_count": 6
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -425,13 +489,18 @@
         "monadic",
         "Docs",
         "Using",
-        "rust"
+        "rust",
+        "Backend",
+        "Functions",
+        "GitScrum",
+        "Guide",
+        "Its",
+        "Magazine",
+        "Pure",
+        "Safe",
+        "Team"
       ],
       "last_result_hashes": [
-        "c52f5174ff9b2fb18fb776e711ed0486",
-        "827f82e9e1a47b7a7ad617629e29c129",
-        "81f416bda62e20437250860785d5442e",
-        "1e6684e614686f1f3aea846011b1d7a4",
         "66c37819aafc9ab0bf8738db25ae98cd",
         "211de7a838e45b3dada18be8697b118d",
         "099dfaedc291f3a4e0a3a7a4e54681a8",
@@ -447,11 +516,25 @@
         "687171a5db4daed91bdc3e6a4a3773a1",
         "c233ce094f809bd93c2f4474229feed5",
         "98e526be52c4f26f6ab112fd904d69d2",
-        "9e468f427c81adba063b45d72c784552"
+        "9e468f427c81adba063b45d72c784552",
+        "cb3451b58dc0de64c4abaf6248054b44",
+        "94a26269fce6d4cab82e390dea71cd77",
+        "eb1d469b6a1f90775ad035ce175e3382",
+        "e3151e59bbc2d99a9878bd0bfd7ae47a"
       ],
-      "last_run": "2026-06-22T00:46:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-22T01:02:53Z",
+      "new_sub_topics_this_run": [
+        "Backend",
+        "Functions",
+        "GitScrum",
+        "Guide",
+        "Its",
+        "Magazine",
+        "Pure",
+        "Safe",
+        "Team"
+      ],
+      "last_new_count": 4
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -516,17 +599,19 @@
         "NeetCode",
         "Wise",
         "essential",
-        "Data Structures and"
+        "Data Structures and",
+        "Actually",
+        "Algorithm",
+        "Cheat",
+        "Coach",
+        "Coding",
+        "Compare",
+        "Cover",
+        "Crack",
+        "DSA",
+        "Guide"
       ],
       "last_result_hashes": [
-        "d6eb77479303dc4dc083a8460d7815d0",
-        "37b18b3ee5841dc8d78ef02edf927dc9",
-        "657382150215e7befdd19b921630e0b6",
-        "46a4037dd144e9b1f14507ca42f6f5b6",
-        "b2b9e755fb3bc21fe5cb6f2e7130b00f",
-        "e0884a9b9c26438d971bf00202e0740a",
-        "a5d426fa69281f4cbab42e654f015d28",
-        "f7e44395f0003b031e363e50dc57901a",
         "7e571cc4915b8f19020f0aebd3f76356",
         "143876bc0621660474126a01477b0355",
         "dba859e9113f969a0f84d759331953e7",
@@ -538,11 +623,30 @@
         "544d7d110803052b93a7e0f05f49b7d5",
         "9a90a9b5be8e6f4ed694943f3b5178be",
         "9bae7c320eaa49023b76088f638f22f3",
-        "04319565212ce73f1de46cb17a70b305"
+        "04319565212ce73f1de46cb17a70b305",
+        "2d41109d669c11309d29b0a30082d95c",
+        "814ad50168aca7691bd4e6e042f0b36b",
+        "cf4c1ba2a3b158ccff35a6152b4fef4a",
+        "8e00f7d78d79009ecc1474da3255f3a8",
+        "ba19b4240a469c3c9c16e9400bc5cdf2",
+        "8900f36a48596850ee5ba84a247a6c1d",
+        "b374c779c101dd010d1f2ed0450afdee",
+        "9ce6169374b8a813371af8d41f83c91e"
       ],
-      "last_run": "2026-06-22T00:46:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-22T01:02:53Z",
+      "new_sub_topics_this_run": [
+        "Actually",
+        "Algorithm",
+        "Cheat",
+        "Coach",
+        "Coding",
+        "Compare",
+        "Cover",
+        "Crack",
+        "DSA",
+        "Guide"
+      ],
+      "last_new_count": 8
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -607,14 +711,19 @@
         "Python Internals Memory",
         "python-freethreading - Anaconda.org",
         "2026?",
-        "Still"
+        "Still",
+        "Backend",
+        "Community",
+        "DEV",
+        "Deep",
+        "Dive",
+        "Exploring",
+        "Future",
+        "Internals",
+        "Key",
+        "Know"
       ],
       "last_result_hashes": [
-        "ff38c0a6f3ff9a0d6c908f235be5db44",
-        "9df3859b4715ae95cd2f1c86331d9b55",
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "6287e8dc37ecb68d7af1bc0e4b769a4f",
-        "d2adce09b07afa8868adc1a5598d6db8",
         "2abbee82f484b493c8c88fee77060e1c",
         "6bd1828271a3d7ce0e5d0b666c53b128",
         "5451f574f8ac7101d4076e3f903cf1d4",
@@ -629,11 +738,27 @@
         "e004254458e317cbd014d5aa186cd4a3",
         "2eacc88641253e0d352877b10367f6f2",
         "c511e8d5d3653b0b0ac8efdf98a3fbb4",
-        "704da68a060e620278ad7620fdf6c8a8"
+        "704da68a060e620278ad7620fdf6c8a8",
+        "1c9e34c438b893768685d5e9b0743087",
+        "68175a2892a66724f669a8669b9ae03d",
+        "8d8d02c27b4e31a5fdebffb21e61e306",
+        "4aa45f88b11be85c9e2609d7545bb7fb",
+        "03e9423b802e0456d3fe98220b76ea3a"
       ],
-      "last_run": "2026-06-22T00:46:01Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-22T01:02:53Z",
+      "new_sub_topics_this_run": [
+        "Backend",
+        "Community",
+        "DEV",
+        "Deep",
+        "Dive",
+        "Exploring",
+        "Future",
+        "Internals",
+        "Key",
+        "Know"
+      ],
+      "last_new_count": 5
     }
   }
 }

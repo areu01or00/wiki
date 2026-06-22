@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [The Coming Paradigm Shift in Distributed Systems Architecture – Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture) | kw: The Coming Paradigm Shift in Distributed Systems Architecture  Gabo Gil
+- **2026-06-22** | [Future of High-Performance Distributed Systems: Trends and Research Directions – Md.Rafiuzzaman Khan](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Future of High-Performance Distributed Systems Trends and Research Directions  M
+- **2026-06-22** | [Microservices Architecture Patterns in 2026: Mastering ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns in 2026 Mastering
+- **2026-06-22** | [System Design Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/system-design) | kw: System Design Roadmap 2026 - Complete Learning Path  The Tutor Bridge
+- **2026-06-22** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems Best Practices  2026 - docsgitscrumcom
 - **2026-06-20** | [Latest Trends in Distributed Systems (2026)](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: latest trends in distributed systems
 - **2026-06-20** | [The Future of Large-Scale Distributed Systems: Trends, Challenges, and Opportunities](https://www.researchgate.net/publication/390714723_The_Future_of_Large-Scale_Distributed_Systems_Trends_Challenges_and_Opportunities) | kw: the future of large-scale distributed
 - **2026-06-20** | [Emerging Backend Architectures for 2026: Microservices, Serverless & Edge Computing](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: emerging backend architectures for 2026

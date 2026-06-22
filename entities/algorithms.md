@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [GitHub - Himanshu-Singh7/dsa_interview_prep_2026](https://github.com/Himanshu-Singh7/dsa_interview_prep_2026) | kw: GitHub - Himanshu-Singh7dsa_interview_prep_2026
+- **2026-06-22** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi) | kw: Data Structure I - LeetCode
+- **2026-06-22** | [Data Structures for Coding Interviews 2026: The 8 You Actually Need | LastRound AI](https://lastroundai.com/blog/data-structures-interview-guide) | kw: Data Structures for Coding Interviews 2026 The 8 You Actually Need  LastRound AI
+- **2026-06-22** | [Leetcode Algorithm Coach Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: Leetcode Algorithm Coach Guide 2026  ShadeCoder
+- **2026-06-22** | [Best Data Structures Interview Prep Tools (2026) - Compare O | ShadeCoder](https://articles.shadecoder.com/best-data-structures-interview-prep-tools-in-2026-compared-ranked) | kw: Best Data Structures Interview Prep Tools 2026 - Compare O  ShadeCoder
+- **2026-06-22** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode - The Worlds Leading Programming Learning Platform
+- **2026-06-22** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet 2026  To Crack Interviews - namastedevcom
+- **2026-06-22** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems | LastRound AI](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode Patterns Cheat Sheet 2026 The 15 Patterns That Cover 90 of Problems  La
 - **2026-06-20** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data structures interview questions and
 - **2026-06-20** | [Top 50 Data Structures Interview Questions 2026 - PA](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: top 50 data structures interview
 - **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: leetcode study plan roadmap for

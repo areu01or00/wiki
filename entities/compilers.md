@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The Case For Compilers A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome
+- **2026-06-22** | [LLVM Weekly - a weekly newsletter covering developments in ...](https://llvmweekly.org/) | kw: LLVM Weekly - a weekly newsletter covering developments in
+- **2026-06-22** | [Just-in-Time for Runtime Interpretation - Unmasking the World of LLVM IR Based JIT Execution | White Knight Labs](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution) | kw: Just-in-Time for Runtime Interpretation - Unmasking the World of LLVM IR Based J
+- **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026llvmdocstutorialBuildingAJIT1rst at course-spring-2026  chek
 - **2026-06-20** | [Building a JIT: Starting out with KaleidoscopeJIT - compiler-course-2026](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: building a jit starting out
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - chekalexey fork](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 llvm docs tutorial buildingajit1
 - **2026-06-20** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers and modern language runtimes

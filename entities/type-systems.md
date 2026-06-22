@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: Gradual Typing in Type Theory - numberanalyticscom
+- **2026-06-22** | [Gradual Typing with Uniﬁcation-based Inferen](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual Typing with Uniﬁcation-based Inferen
+- **2026-06-22** | [Gradual Typing and The Gradually Typed Lambda Calculus](https://stace.dev/static/e034014d3c4358b7745a06490939788f/gradual-typing.pdf) | kw: Gradual Typing and The Gradually Typed Lambda Calculus
+- **2026-06-22** | [Typed and Confused: Studying the Unexpected Dangers of ...](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed and Confused Studying the Unexpected Dangers of
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers) - ‹Programming› 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations for Performance Improvement in Gradual T
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Improvement in Gradual T
 - **2026-06-20** | [Gradual Typing – Programming Research Group (Tokyo Tech)](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: gradual typing programming research group
 - **2026-06-20** | [gradual-typing category – Programming Research Group](https://prg.is.titech.ac.jp/en/category/project/type/gradual-typing) | kw: gradual-typing category programming research group
 - **2026-06-20** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: luau type system complete guide

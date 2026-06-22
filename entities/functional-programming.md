@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: Monad functional programming - Wikipedia
+- **2026-06-22** | [Functional Programming at Its Finest: Why Haskell Developers Bring Unmatched Code Reliability - PC Tech Magazine](https://pctechmag.com/2026/05/functional-programming-at-its-finest-why-haskell-developers-bring-unmatched-code-reliability) | kw: Functional Programming at Its Finest Why Haskell Developers Bring Unmatched Code
+- **2026-06-22** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026  Functional Type-Safe Monads  GitScrum  GitScrum
+- **2026-06-22** | [Functional Programming Practical Guide: Immutability, Pure Functions, and Monads for Backend Developers | Chaos and Order](https://www.youngju.dev/blog/culture/2026-03-23-functional-programming-backend-developer-guide.en) | kw: Functional Programming Practical Guide Immutability Pure Functions and Monads fo
 - **2026-06-20** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: all about monads - haskellwiki
 - **2026-06-20** | [Haskell Monads — Monday Morning Haskell](https://mmhaskell.com/monads) | kw: haskell monads monday morning haskell
 - **2026-06-20** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: monad - haskellwiki
