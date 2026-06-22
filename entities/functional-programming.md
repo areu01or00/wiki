@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Functional Programming
+- **2026-06-22** | [Monads And Their Use in Modern Programming](https://www.linkedin.com/pulse/monads-use-modern-programming-enrique-ortu%C3%B1o-znk9f) | kw: Functional Programming
+
 - **2026-06-22** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional-programming
 
 - **2026-06-22** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell
