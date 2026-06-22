@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [oreilly.com/library/view/reactive-microservices-architecture](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: oreilly com library | source: system-design
+- **2026-06-22** | [Bulkhead Pattern — Distributed Design Pattern](https://distributedsystemsmadeeasy.medium.com/bulkhead-pattern-distributed-design-pattern-c673d5e81523) | kw: Bulkhead Pattern Distributed | source: system-design
+- **2026-06-22** | [CI/CD Pipeline Design Patterns for 2026](https://techtweekinfotech.com/cicd-pipeline-design-patterns-2026/) | kw: Pipeline Design Patterns | source: system-design
+
 - **2026-06-22** | [System Design Primer | Awesome Repository](https://awesome-repositories.com/repository/donnemartin-system-design-primer?q=awesome-system-design-repositories-on-github) | kw: System Design Primer | Awesome Repositor | source: system-design
 - **2026-06-22** | [oreilly.com/library/view/reactive-microservices-architecture...](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: oreilly.com/library/view/reactive-micros | source: system-design
 - **2026-06-22** | [Most Design Systems Don't Break... | Design Systems Collective](https://www.designsystemscollective.com/most-design-systems-dont-break-because-of-buttons-016ae786dc07) | kw: Most Design Systems Don't Break... | Des | source: system-design

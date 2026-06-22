@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [70 Leetcode problems in 5+ hours](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: Leetcode problems hours | source: algorithms
+
 - **2026-06-22** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026:  | source: algorithms
 - **2026-06-22** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to E | source: algorithms
 - **2026-06-22** | [Data Structures and Algorithms in 2026: What Backend ...](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: Data Structures and Algorithms in 2026:  | source: algorithms

@@ -207,9 +207,6 @@
       "Dialogue"
     ],
     "last_result_hashes": [
-      "b2fbe6454e7c9d604f2d7586a436e138",
-      "686812076d5de90d1c2ef77d554beb01",
-      "bab6dc04368dc487cd403e3a93312b56",
       "fc735fa9ff4c8d2d83888648a67a3892",
       "17f40f751da9a1c9558ca7dbf958ae7e",
       "774490d39bbb7ec76086057aed9ef3eb",
@@ -226,20 +223,14 @@
       "91b0623023c2c706479af2c4745808de",
       "514e62e45907d8b538db2305cb02b599",
       "89a92316f41a5050a2cfe852301aaa2a",
-      "f0c02833038fe1bcb22fe7831ff0db99"
+      "f0c02833038fe1bcb22fe7831ff0db99",
+      "8d5c530f6d796169a9eb9918fe3d6950",
+      "5b6101f27dbc0cbba71f04013b8959fd",
+      "762ab54c0afa8ce2cebb018c00766574"
     ],
-    "last_run": "2026-06-22T18:46:42.766195+00:00",
-    "new_sub_topics_this_run": [
-      "Primer",
-      "Awesome",
-      "Repository",
-      "oreilly",
-      "library",
-      "reactive-microservices-architecture",
-      "English",
-      "Dialogue"
-    ],
-    "last_new_count": 6
+    "last_run": "2026-06-22T19:02:44.140966+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 3
   },
   "compilers": {
     "query": "compilers LLVM JIT compilation 2026",
@@ -517,7 +508,6 @@
       "Speed"
     ],
     "last_result_hashes": [
-      "686812076d5de90d1c2ef77d554beb01",
       "bab6dc04368dc487cd403e3a93312b56",
       "fc735fa9ff4c8d2d83888648a67a3892",
       "17f40f751da9a1c9558ca7dbf958ae7e",
@@ -536,19 +526,12 @@
       "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
       "6d99d1e42e2c1308c2e62328d795de40",
       "06dbdc873563fd23de6bef9e5d10e37f",
-      "be589c6a2322164845f96e71c5399801"
+      "be589c6a2322164845f96e71c5399801",
+      "718ff20b9cd3966fe24d8b66d745f9e4"
     ],
-    "last_run": "2026-06-22T18:46:42.766195+00:00",
-    "new_sub_topics_this_run": [
-      "BuildingAJIT3",
-      "Just-In-Time",
-      "Create",
-      "Python",
-      "Numba",
-      "Alternative",
-      "Speed"
-    ],
-    "last_new_count": 9
+    "last_run": "2026-06-22T19:02:44.140966+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 1
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -798,8 +781,6 @@
       "r/ProgrammingLanguages"
     ],
     "last_result_hashes": [
-      "85875fa4aeb3a7c10187eaf8cc0cac2f",
-      "b2fbe6454e7c9d604f2d7586a436e138",
       "686812076d5de90d1c2ef77d554beb01",
       "bab6dc04368dc487cd403e3a93312b56",
       "fc735fa9ff4c8d2d83888648a67a3892",
@@ -817,11 +798,13 @@
       "1674bb6ba3ccf85f515fbae17fccc59f",
       "4c5ac4f266fb11bae7466504f78f36a0",
       "281dcc412b25b8e56702cc648bcf9932",
-      "474d9e795c4f52bbdf5cfdeabfe5907f"
+      "474d9e795c4f52bbdf5cfdeabfe5907f",
+      "0f283757319d5365f9f3d2ac8e848912",
+      "bc5d06b8a9961ccdc5836e976fdbd993"
     ],
-    "last_run": "2026-06-22T18:46:42.766195+00:00",
+    "last_run": "2026-06-22T19:02:44.140966+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 7
+    "last_new_count": 2
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -1098,7 +1081,6 @@
       "Serokell"
     ],
     "last_result_hashes": [
-      "bab6dc04368dc487cd403e3a93312b56",
       "fc735fa9ff4c8d2d83888648a67a3892",
       "17f40f751da9a1c9558ca7dbf958ae7e",
       "774490d39bbb7ec76086057aed9ef3eb",
@@ -1117,17 +1099,12 @@
       "6265d0c7ea387b97e9eb7551bfd1a683",
       "f0ebc88fd8dc88d3328d7b1d93ab1507",
       "48dd011d4e1a398f9bf2a4278af5f6b6",
-      "ef0fa2a378e721a6e420bcc3ededc61a"
+      "ef0fa2a378e721a6e420bcc3ededc61a",
+      "30528bdc44cd273f71e20b4509f48e6d"
     ],
-    "last_run": "2026-06-22T18:46:42.766195+00:00",
-    "new_sub_topics_this_run": [
-      "could",
-      "tutorial",
-      "state",
-      "language",
-      "Serokell"
-    ],
-    "last_new_count": 8
+    "last_run": "2026-06-22T19:02:44.140966+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 1
   },
   "algorithms": {
     "query": "algorithms data structures LeetCode interview 2026",
@@ -1353,7 +1330,6 @@
       "resources"
     ],
     "last_result_hashes": [
-      "b2fbe6454e7c9d604f2d7586a436e138",
       "686812076d5de90d1c2ef77d554beb01",
       "bab6dc04368dc487cd403e3a93312b56",
       "fc735fa9ff4c8d2d83888648a67a3892",
@@ -1372,11 +1348,12 @@
       "95cea715e4a4052b6520afcdad4c7941",
       "8900f36a48596850ee5ba84a247a6c1d",
       "09fb34f020c56145d7269228189a72c2",
-      "867c193f14d86dba8e19be9953c4f21a"
+      "867c193f14d86dba8e19be9953c4f21a",
+      "a951eb8cdc51a541406a04cc09ef5dea"
     ],
-    "last_run": "2026-06-22T18:46:42.766195+00:00",
+    "last_run": "2026-06-22T19:02:44.140966+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 6
+    "last_new_count": 1
   },
   "python-internals": {
     "query": "Python internals GIL memory management 2026",
@@ -1611,12 +1588,6 @@
       "Engineers"
     ],
     "last_result_hashes": [
-      "85875fa4aeb3a7c10187eaf8cc0cac2f",
-      "b2fbe6454e7c9d604f2d7586a436e138",
-      "686812076d5de90d1c2ef77d554beb01",
-      "bab6dc04368dc487cd403e3a93312b56",
-      "fc735fa9ff4c8d2d83888648a67a3892",
-      "17f40f751da9a1c9558ca7dbf958ae7e",
       "774490d39bbb7ec76086057aed9ef3eb",
       "9343782019af5af8bcce9c3451cdb04d",
       "2a4484c00cdb382848a9c586f654f5ff",
@@ -1630,15 +1601,16 @@
       "9aadd53c555757e69af3102215b736e3",
       "b9494478477315a9ef1356dba1b663d8",
       "238dd6ae5d2a4f3308b871fdae7cc7d8",
-      "3723dfa3f60cd99fa11d63a5fa09bc1f"
+      "3723dfa3f60cd99fa11d63a5fa09bc1f",
+      "8dc339b73ed739b1c1b6a1828584d4f4",
+      "c1a17aa2e4bce3b0de96d72a37c299d7",
+      "ba882d8a4f4d92f174c64aebb5be6966",
+      "30b1e29aa33cedfae5c3874f1bcb8d1e",
+      "d27ecf787f5e1b40d6d87bb114e78295",
+      "f82fe509471452d9dc4bafa27d1ea286"
     ],
-    "last_run": "2026-06-22T18:46:42.766195+00:00",
-    "new_sub_topics_this_run": [
-      "Majidbasharat",
-      "Mastering",
-      "Programming",
-      "Engineers"
-    ],
-    "last_new_count": 10
+    "last_run": "2026-06-22T19:02:44.140966+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 6
   }
 }

@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Understanding the Global Interpreter Lock (GIL) in Python: A Deep Dive](https://medium.com/@nishthakukreti.01/understanding-the-global-interpreter-lock-gil-in-python-a-deep-dive-f3ab59089f93) | kw: Understanding the Global | source: python-internals
+- **2026-06-22** | [Understanding the Global Interpreter Lock (GIL) in Python - Codecademy](https://www.codecademy.com/article/understanding-the-global-interpreter-lock-gil-in-python) | kw: Understanding the Global | source: python-internals
+- **2026-06-22** | [Why Was Python Written with the GIL?](https://softwareengineering.stackexchange.com/questions/186889/why-was-python-written-with-the-gil) | kw: Why Was Python | source: python-internals
+- **2026-06-22** | [The Evolution of Python's GIL Removal: A Historical Overview](https://medium.com/@sudom0nk/the-evolution-of-pythons-gil-removal-a-historical-overview-bf6b108efeed) | kw: The Evolution Python | source: python-internals
+- **2026-06-22** | [The Global Interpreter Lock (GIL) in Python: A Comprehensive History](https://coderslegacy.com/global-interpreter-lock-gil/) | kw: The Global Interpreter | source: python-internals
+- **2026-06-22** | [Breaking Down Python Concurrency: The Global Interpreter Lock(GIL)](https://rapidfork.medium.com/breaking-down-python-concurrency-the-gil-and-its-effect-on-multi-threading-b5ab99083cb2) | kw: Breaking Down Python | source: python-internals
+
 - **2026-06-22** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What is the Python Global Interpreter Lo | source: python-internals
 - **2026-06-22** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Memory Management: GIL Deep Dive  | source: python-internals
 - **2026-06-22** | [Python Memory Management Internals | by Majidbasharat | Mar, 2026 - Medium](https://medium.com/@majidbasharat21/python-memory-management-internals-91d6077d6737) | kw: Python Memory Management Internals | by  | source: python-internals

@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau programming language | source: type-systems
+- **2026-06-22** | [Efficient Selection of Type Annotations - arXiv 2603.05649](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection Type | source: type-systems
+
 - **2026-06-22** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1.20 released: now a gradually t | source: type-systems
 - **2026-06-22** | [[2408.14345] Guard Analysis and Safe Erasure Gradual Typing ...](https://arxiv.org/abs/2408.14345) | kw: [2408.14345] Guard Analysis and Safe Era | source: type-systems
 - **2026-06-22** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations  | source: type-systems
