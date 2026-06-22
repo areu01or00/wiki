@@ -97,9 +97,6 @@
         "Kumar"
       ],
       "last_result_hashes": [
-        "6102110f0fbf43a23efaebe9eafdbab2",
-        "f55865a7ac3e58b8a8f3680d30dfba43",
-        "a32f5e69dda6ec0341e27ea3247983fc",
         "e6c1e4b940b2a25e9d9a796315a3c937",
         "57ea7cdecc86fac707aeec08febd1774",
         "a4f767c8d886ec8f2fab1999efc97283",
@@ -116,24 +113,14 @@
         "2d3339fbcb04e9f626d884e03958e8d3",
         "25a06ccbe831fcae1efa398fc18b067e",
         "1885661cefe9c39654b0f1458625c8e0",
-        "608fa7d1ab9e25ccee240ab0bd6ba8f5"
+        "608fa7d1ab9e25ccee240ab0bd6ba8f5",
+        "193aef9c78464c2e148b46fbdd9ccf84",
+        "81d67ddb663aef70ef224a4fda76aa2e",
+        "401ac43fcb266731bf806fa34acbf462"
       ],
-      "last_run": "2026-06-22T06:33:30Z",
-      "new_sub_topics_this_run": [
-        "andrewhansen",
-        "thelinuxcode",
-        "GitScrum",
-        "Build",
-        "Docs",
-        "Programming",
-        "Concepts",
-        "Actually",
-        "Matter",
-        "Dev",
-        "Kant",
-        "Kumar"
-      ],
-      "last_new_count": 2
+      "last_run": "2026-06-22T06:49:37Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 3
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -271,13 +258,6 @@
         "Flyriver.com"
       ],
       "last_result_hashes": [
-        "86768d8752a6979c5c8cea02f676f762",
-        "2e36db34c1a584712cd6f35f63aa33ba",
-        "b4b1697fc63d5704d74c4c88d69cd644",
-        "79f4ddf873dbf67c746be2d871fbeb46",
-        "abd631d332f780e380a84433d4173a6d",
-        "e782e5cfec0aac8483730db128ffda54",
-        "ac9f7c54df4521ad492be79a4116a983",
         "5cefefefe6afc297697ed1187181b6a1",
         "14bec6c679203be13206205a9edb80d7",
         "7ed9cf6296b93bcd1574511795e44641",
@@ -290,26 +270,18 @@
         "ac224ecee6fc1b4cc9ba1f13c5b1a941",
         "4a875ba6c9df4a6d863a675c9bbe1244",
         "7d0b717005814217330e578b0fbdc8fb",
-        "f1925c0af6e39aa520ffa6a282ede525"
+        "f1925c0af6e39aa520ffa6a282ede525",
+        "df581a22e0cf096e525cbe4716c834a5",
+        "b9a1444439c4370b71f553ef5c31cd7f",
+        "6b7615fe27e5fa7ec414a7ca008f3ea8",
+        "57995ad383c73bc28d66b482ba9739b3",
+        "ca9ade675eecf6183c340d40af57c779",
+        "b6c2c9e62e7d3f0feb53d2b0f51f2c4a",
+        "9903f82e25a54138d53020e48b0cac0b"
       ],
-      "last_run": "2026-06-22T06:33:30Z",
-      "new_sub_topics_this_run": [
-        "Revolutionize",
-        "API",
-        "Preprints",
-        "Eli",
-        "Next",
-        "Adventures",
-        "Prototype",
-        "Generation",
-        "Minimal",
-        "Bendersky",
-        "Part",
-        "Energy-Saving",
-        "LLVM-5",
-        "Running"
-      ],
-      "last_new_count": 0
+      "last_run": "2026-06-22T06:49:37Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 7
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -458,15 +430,6 @@
         "ACM"
       ],
       "last_result_hashes": [
-        "685e24bc32d9af4027f0eb5fb830112c",
-        "d7904226d3b21ab3ce19a7b7d9783b2d",
-        "c86aaff8bd0c8d9df11b67e53352b6cb",
-        "f2d7c6cc788a89c8719c309c80f5d039",
-        "157916c77a749eaf6c7064b321bbdad3",
-        "955254271b43d5d60d327be56bfcec27",
-        "0d4e59544c796dd6c5041a6241467748",
-        "40c4feeec5b67779495fb2033863be62",
-        "e1eb435797831fb4ee3d68e76936c2bb",
         "3fb698a62a25f87e4155082c8ca1054a",
         "6ed1b86f6ee5b47e9861aeebf472ac50",
         "9b14cd02533704df49ef98d02074457b",
@@ -477,33 +440,20 @@
         "109f52ff787be91e620cda3aadd96642",
         "8152c0fa97986388894bbc6fe44824e4",
         "0c4fea65325737c446710c96431c6923",
-        "05e87cbef36cd8edbadc65c13cd2b4af"
+        "05e87cbef36cd8edbadc65c13cd2b4af",
+        "0f283757319d5365f9f3d2ac8e848912",
+        "69b83013bee9fe9c5ae69cd14f2a8f0b",
+        "be8ba2a8e5c2ca25ac6b16edfeff56e1",
+        "e66f1bfca7d84785bf69c15e1a21d3eb",
+        "6c257d065a3041b16049b05a47e582ff",
+        "2c8b8f5f3ed98a4401b10316fdc86ac7",
+        "bc82880e04a728c72666d7c812bb0075",
+        "5c1da5483204d0b8b659ec62dafddf3b",
+        "0e99faa80316ba7e2d573f17baed4ac2"
       ],
-      "last_run": "2026-06-22T06:33:30Z",
-      "new_sub_topics_this_run": [
-        "Mypy",
-        "Strict",
-        "Soundness",
-        "Vlad",
-        "Balin",
-        "Systems",
-        "TypeScript",
-        "Untyped",
-        "Johal",
-        "Hub",
-        "ITNEXT",
-        "Ben",
-        "PyCon",
-        "Summit",
-        "Recap",
-        "Bernat",
-        "Gabor",
-        "NJPLS",
-        "May",
-        "Principal",
-        "ACM"
-      ],
-      "last_new_count": 3
+      "last_run": "2026-06-22T06:49:37Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 9
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -686,14 +636,6 @@
         "zig"
       ],
       "last_result_hashes": [
-        "3bb0a852e2780a0d035603e5700fd0d0",
-        "7102de31cf7be186a3c6fb8ff2f57fe8",
-        "6c26bc575727e05ad01366475410933f",
-        "4b2f8e3cfad5f62b50e65ff491fc76db",
-        "b15aa28659ccabe3398f87c824f2ee7c",
-        "2304b593353dcf35aa94f92d66b62bc4",
-        "0a825892b16894ee5479d8cdc9ceb413",
-        "6265d0c7ea387b97e9eb7551bfd1a683",
         "64b9213a9db6ffcf3ee048410614e9dc",
         "ca0a1465631c6b3c554a745b4cc949a5",
         "ce1296b7730544a3db978dc13e7a351f",
@@ -705,19 +647,19 @@
         "c52f5174ff9b2fb18fb776e711ed0486",
         "ce5f54fc6f710fe0ee8b7e9d78f28c76",
         "ab1a401478bf91151df62818473f5ef5",
-        "269341708d555d5819da5ef32f81a574"
+        "269341708d555d5819da5ef32f81a574",
+        "52aadfa3b6370a6961288afe7f75e34c",
+        "bab6dc04368dc487cd403e3a93312b56",
+        "4785f257c28540b037a1cab665f2ef51",
+        "480d402e9012f947099ff628259136e0",
+        "cc9f3837164b6e0e6edde576a14a1c3f",
+        "c69c6a9a4aa539a558c48a2e235e6324",
+        "93f73097d592fc6a2fe0abda2019b299",
+        "3b33630afb06c626ebdc205276d252a9"
       ],
-      "last_run": "2026-06-22T06:33:30Z",
-      "new_sub_topics_this_run": [
-        "codegenes",
-        "Precision",
-        "Language",
-        "Academy",
-        "Changes",
-        "youngju",
-        "Think"
-      ],
-      "last_new_count": 0
+      "last_run": "2026-06-22T06:49:37Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 8
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -828,14 +770,6 @@
         "still"
       ],
       "last_result_hashes": [
-        "23dbcd7c58e935174de11fa569f7799e",
-        "5f26c44ccceb9d55bc26da1c50fa663e",
-        "09ba496b616b5669fa2b754644948f8b",
-        "7f29d9affd46d35f712856ab7fdd531b",
-        "a8aa637f95e68642739da1bdfed78db6",
-        "efaca53a4fb3332a168f55b43aac804a",
-        "00899fcd23a012f7e3f7e87cc4bfb866",
-        "365570d3d2e5c9c4f03cec946287df02",
         "7827ab24e9d276e3b17d86a148741a99",
         "7f6f9d5037dcfefdec2dc3065bd2413e",
         "51bdec45c83dc444c8040f8f04671877",
@@ -847,27 +781,19 @@
         "7d194ad3d9a4f9a87cd4de35548c005c",
         "81d3f6ca00caa659b47d39e7b3373c33",
         "f822dd4d7a9290624864e5a92712ba08",
-        "2dfc3513c29255105b4629ef7943c549"
+        "2dfc3513c29255105b4629ef7943c549",
+        "5986f91f032edfb2b16f7e0653200178",
+        "4f0510f7ee64c399af68eb6e19a111c1",
+        "c047a018ea3c082f89d714707176a9b7",
+        "3ebdaa885aa75b6afd188cc99499824c",
+        "784080c849a7e175591d07376fe46ba4",
+        "ca8e5100d809875f1f9f9b10b85ec256",
+        "7d168679897b29db756cc0ef549373f1",
+        "7656c442825566c6a43d7d4c3400ad61"
       ],
-      "last_run": "2026-06-22T06:33:30Z",
-      "new_sub_topics_this_run": [
-        "LeetCode-heavy",
-        "TechInterview",
-        "interviews",
-        "interview",
-        "Answers",
-        "prepare",
-        "YouTube",
-        "Enough",
-        "Longer",
-        "Medhly",
-        "Medium",
-        "Reddit",
-        "still",
-        "Dead",
-        "Most"
-      ],
-      "last_new_count": 0
+      "last_run": "2026-06-22T06:49:37Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 8
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -976,14 +902,6 @@
         "significantly"
       ],
       "last_result_hashes": [
-        "17f40f751da9a1c9558ca7dbf958ae7e",
-        "309bbc8ddff92e23962e4694a21356e5",
-        "601c908415755e9857c165d01aa52cc1",
-        "3977a42e266cba0d9724f6994662a434",
-        "a040099ef7f92a1a6f493c7e2e7eb459",
-        "119ff08981a6650f712f34c5191bf3f0",
-        "f3c8f48ad5955a71f9d40ac758fc0afe",
-        "e30163e4f5a43f97df758ba56c7a17d3",
         "d9faa44eef42f3488c2c7e40db995989",
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "ae53589684348a4e8d099e257f848e3c",
@@ -995,27 +913,19 @@
         "195cc5355800be062c15e1a66ccfcacd",
         "aff79aed6e34d3f002b7fa14f5978b75",
         "b2adf890876689f396287eb124927484",
-        "1c9e34c438b893768685d5e9b0743087"
+        "1c9e34c438b893768685d5e9b0743087",
+        "91f3eef6eb5080978288f3d45d840777",
+        "3f53aaddb3c9ccc1340c0fbf20196bee",
+        "8d97ae1ccfe9a3105f7282184434d871",
+        "44ede0fa7f964aee564e189fd251a80b",
+        "993340ba10508d27975679f77e08cd57",
+        "cc9b7e9ca696d3ed6356ac146599fabd",
+        "af31f11cc482e78da08d11706ef24e86",
+        "1be53e10eade2930b6787840c446f6b1"
       ],
-      "last_run": "2026-06-22T06:33:30Z",
-      "new_sub_topics_this_run": [
-        "Free-Threading",
-        "free-threaded",
-        "Understanding",
-        "interpreter",
-        "Checkpoint",
-        "Everything",
-        "actually",
-        "LinkedIn",
-        "Probably",
-        "Affects",
-        "Benefit",
-        "Goodbye",
-        "Killers",
-        "process",
-        "PyTorch"
-      ],
-      "last_new_count": 0
+      "last_run": "2026-06-22T06:49:37Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 8
     }
   }
 }

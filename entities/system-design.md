@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [How I Build a Distributed System in 2026: Principles ...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: system design
+- **2026-06-22** | [Microservices Architecture Patterns in 2026: Mastering Distributed ...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: system design
+- **2026-06-22** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: system design
+
 - **2026-06-22** | [The Programming Concepts That Actually Matter in 2026](https://medium.com/@sovannaro/the-programming-concepts-that-actually-matter-in-2026-ea96230e13cb) | kw: System Design
 - **2026-06-22** | [Complete System Design Roadmap 2026 - Dev Kant Kumar](https://www.devkantkumar.com/blog/complete-system-design-roadmap-2026/) | kw: System Design
 

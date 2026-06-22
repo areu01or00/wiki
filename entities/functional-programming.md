@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [functional programming - How do I combine monads in Haskell?](https://stackoverflow.com/questions/1126651/how-do-i-combine-monads-in-haskell) | kw: functional programming
+- **2026-06-22** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional programming
+- **2026-06-22** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: functional programming
+- **2026-06-22** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: functional programming
+- **2026-06-22** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional programming
+- **2026-06-22** | [Monads Unmasked: The Category Theory You're... - Java Code Geeks](https://www.javacodegeeks.com/2026/01/monads-unmasked-the-category-theory-youre-already-using-without-knowing.html) | kw: functional programming
+- **2026-06-22** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: functional programming
+- **2026-06-22** | [Understanding Monads. A Guide for the Perplexed - InfoQ](https://www.infoq.com/articles/Understanding-Monads-guide-for-perplexed/) | kw: functional programming
+
 - **2026-06-22** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP,lang,for
 - **2026-06-22** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Good,tutorial/book,about
 - **2026-06-22** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How,I,Learned

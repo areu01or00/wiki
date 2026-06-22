@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems
+- **2026-06-22** | [Guard Analysis and Safe Erasure Gradual Typing for Elixir](https://arxiv.org/abs/2408.14345) | kw: type systems
+- **2026-06-22** | [Luau Type System Complete Guide - Strict Mode, Generics & Type Functions](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: type systems
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: type systems
+- **2026-06-22** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type systems
+- **2026-06-22** | [Efficient Selection of Type Annotations for arXiv 2603.05649](https://arxiv.org/abs/2603.05649) | kw: type systems
+- **2026-06-22** | [TypeScript 6.0: What's New and Why the Type System Just Got Better](https://devstarsj.github.io/2026/06/15/typescript-6-new-features-branded-types-pattern-matching-2026/) | kw: type systems
+- **2026-06-22** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type systems
+- **2026-06-22** | [Static Analysis Mypy: Strict Typing Configurations 2026](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: type systems
+
 - **2026-06-22** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: Type Systems
 - **2026-06-22** | [NJPLS May 2026 - Principal Gradual Type Inference](https://njpls.org/may2026.html) | kw: Type Systems
 - **2026-06-22** | [Type Inference for Functional and Imperative Dynamic Languages - ACM](https://dl.acm.org/doi/10.1145/3798220) | kw: Type Systems

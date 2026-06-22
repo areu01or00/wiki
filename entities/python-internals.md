@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: python internals
+- **2026-06-22** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python internals
+- **2026-06-22** | [What is the GIL in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: python internals
+- **2026-06-22** | [Understanding Python GIL... | MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: python internals
+- **2026-06-22** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python internals
+- **2026-06-22** | [Python 3.13 Free-Threaded Mode & JIT Guide 2026](https://softaims.com/blog/python-313-free-threaded-jit-features-2026) | kw: python internals
+- **2026-06-22** | [Modern Python Best Practices: The 2026 Definitive Guide](https://onehorizon.ai/blog/modern-python-best-practices-the-2026-definitive-guide) | kw: python internals
+- **2026-06-22** | [Python 3.14 New Features: What's Changed and Why It Matters](https://dasroot.net/posts/2026/02/python-314-new-features-what-changed-why-it-matters/) | kw: python internals
+
 - **2026-06-22** | [Python's GIL Is Gone in 3.13. But Your Code Probably Doesn't Benefit Yet - Medium](https://medium.com/@sohail_saifi/pythons-gil-is-gone-in-3-13-but-your-code-probably-doesn-t-benefit-yet-here-s-exactly-why-31d2d93ff76c) | kw: Python GIL Gone
 - **2026-06-22** | [Does Python have a GIL per process? - Reddit](https://www.reddit.com/r/Python/comments/1qzfyoz/does_python_have_a_gil_per_process/) | kw: Python GIL per
 - **2026-06-22** | [Understanding how GIL Affects Checkpoint Performance in PyTorch - shayon.dev](https://www.shayon.dev/post/2026/38/understanding-how-gil-affects-checkpoint-performance-in-pytorch-training/) | kw: Understanding GIL Affects

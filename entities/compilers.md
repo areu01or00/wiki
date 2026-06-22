@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: compilers
+- **2026-06-22** | [wdv4758h/awesome-jit - GitHub](https://github.com/wdv4758h/awesome-jit) | kw: compilers
+- **2026-06-22** | [c++ - LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: compilers
+- **2026-06-22** | [LLVM '15: Proceedings of the Second Workshop on the LLVM Compiler ...](https://dl.acm.org/doi/proceedings/10.1145/2833157) | kw: compilers
+- **2026-06-22** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: compilers
+- **2026-06-22** | [What Is LLVM (Low Level Virtual Machine)? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-llvm-low-level-virtual-machine/) | kw: compilers
+- **2026-06-22** | [JIT in ClickHouse](https://clickhouse.com/blog/clickhouse-just-in-time-compiler-jit) | kw: compilers
+
 - **2026-06-22** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: minimal-jit-demo
 - **2026-06-22** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Lazy
 - **2026-06-22** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: Low-Level
