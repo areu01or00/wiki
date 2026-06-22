@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: LLVM JIT
+
 
 - **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan Deep Dive](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst on GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers

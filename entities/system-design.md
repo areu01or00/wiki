@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Cloud Design Patterns - Azure Architecture Center - Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/) | kw: Cloud Design
+- **2026-06-22** | [10 Truths in Distributed System Design - apidays India 2026](https://confengine.com/conferences/apidays-india-2026/proposal/50218/10-truths-in-distributed-system-design) | kw: Truths Distributed
+- **2026-06-22** | [8 Most-Used Distributed System Design Patterns | Akash Kumar](https://www.linkedin.com/posts/akashsinnghh_8-most-used-distributed-system-designpatterns-activity-7308054120697888768-Noa4) | kw: Most Used
+
 
 - **2026-06-22** | [oreilly.com - Reactive Microservices Architecture](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: system-design
 - **2026-06-22** | [English Dialogue for Informatics Engineering - Distributed Systems Architecture](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: system-design
