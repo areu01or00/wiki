@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-22** | [Mastering The Global Interpreter Lock (GIL) | Python Course](https://course4all.com/python/py-gil-internals/) | kw: python-internals
+- **2026-06-22** | [CPython Internals: Reference Counting, Cycle Detection, and GC](https://www.abstractalgorithms.dev/cpython-internals-reference-counting-gc) | kw: python-internals
+- **2026-01-03** | [Python's GIL Explained: The Hidden Lock That Affects Your Code](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: python-internals
+
 - **2026-06-22** | [Understanding the Global Interpreter Lock (GIL) in Python: A Deep Dive](https://medium.com/@nishthakukreti.01/understanding-the-global-interpreter-lock-gil-in-python-a-deep-dive-f3ab59089f93) | kw: Understanding the Global | source: python-internals
 - **2026-06-22** | [Understanding the Global Interpreter Lock (GIL) in Python - Codecademy](https://www.codecademy.com/article/understanding-the-global-interpreter-lock-gil-in-python) | kw: Understanding the Global | source: python-internals
 - **2026-06-22** | [Why Was Python Written with the GIL?](https://softwareengineering.stackexchange.com/questions/186889/why-was-python-written-with-the-gil) | kw: Why Was Python | source: python-internals

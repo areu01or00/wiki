@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-22** | [Haskell Team PM 2026 | Functional Type-Safe Monads](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: functional-programming
+
 - **2026-06-22** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying MONADs What | source: functional-programming
 
 - **2026-06-22** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) - Wikiped | source: functional-programming

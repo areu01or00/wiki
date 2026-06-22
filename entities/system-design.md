@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+
+- **2026-06-22** | [oreilly.com - Reactive Microservices Architecture](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: system-design
+- **2026-06-22** | [English Dialogue for Informatics Engineering - Distributed Systems Architecture](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: system-design
+
 - **2026-06-22** | [oreilly.com/library/view/reactive-microservices-architecture](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: oreilly com library | source: system-design
 - **2026-06-22** | [Bulkhead Pattern — Distributed Design Pattern](https://distributedsystemsmadeeasy.medium.com/bulkhead-pattern-distributed-design-pattern-c673d5e81523) | kw: Bulkhead Pattern Distributed | source: system-design
 - **2026-06-22** | [CI/CD Pipeline Design Patterns for 2026](https://techtweekinfotech.com/cicd-pipeline-design-patterns-2026/) | kw: Pipeline Design Patterns | source: system-design

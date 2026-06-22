@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-22** | [Enhancing Deep Type Inference Using Dynamic Analysis for Python](https://dl.acm.org/doi/full/10.1145/3771544) | kw: type-systems
+- **2026-05-05** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
+- **2026-02-15** | [Efficient Selection of Type Annotations for Performance Optimization - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type-systems
+- **2026-06-22** | [FOUNDATIONS OF TYPE SYSTEMS AND THEIR ROLE IN SOFTWARE ENGINEERING](https://iaeme.com/Home/article_id/IJFTPL_01_01_001) | kw: type-systems
+
 - **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau programming language | source: type-systems
 - **2026-06-22** | [Efficient Selection of Type Annotations - arXiv 2603.05649](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection Type | source: type-systems
 

@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan Deep Dive](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst on GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-22** | [The Twelfth Workshop on the LLVM Compiler Infrastructure in HPC](https://llvm-in-hpc-workshop.github.io/LLVM-HPC-2026-Workshop.github.io/) | kw: compilers
+
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project - 2026-04 Dev Meeting](https://llvm.org/devmtg/2026-04/) | kw: The LLVM Compiler | source: compilers
 
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: The LLVM Compiler Infrastructure Project | source: compilers
