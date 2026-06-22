@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [leetcode-solutions · GitHub Topics · GitHub](https://github.com/topics/leetcode-solutions) | kw: leetcode-solutions-github-topics-github
+- **2026-06-22** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms-github-topics-github
+- **2026-06-22** | [Golang: Interview Bootcamp on HackerRank, LeetCode Algos](https://www.udemy.com/course/golang-interview-bootcamp-on-datastructures-leetcode-algos/) | kw: golang-interview-bootcamp-on-hackerrank-leetcode-algos
+
 - **2026-06-22** | [Do we really need Leetcode (Data Structures & Algorithms)? - Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: do-we-really-need-leetcode-data-structures-algorithms-kaggle
 - **2026-06-22** | [Struggling with Data Structures and Algorithms? - Yo Motherboard](https://yomotherboard.com/question/struggling-with-data-structures-and-algorithms-heres-how-to-improve/) | kw: struggling-with-data-structures-and-algorithms-yo-motherboar
 

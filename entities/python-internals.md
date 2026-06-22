@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-in-2026-free-threading-and-uv-change-everything---med
+- **2026-06-22** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: goodbye-gil-exploring-free-threaded-mode-in-python-314---lin
+- **2026-06-22** | [Thread states and the global interpreter lock — Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: thread-states-and-the-global-interpreter-lock-python-3146
+
 - **2026-06-22** | [Advanced Python Interview Questions & Answers - Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: advanced-python-interview-questions-answers-medium
 - **2026-06-22** | [python interview questions with answers - LinkedIn](https://www.linkedin.com/posts/vedansh-shrivastava-data-analyst_python-interview-questions-with-answers-activity-7276302697853530113-Fq2q) | kw: python-interview-questions-with-answers-linkedin
 

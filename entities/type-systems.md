@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir-v120-released-now-a-gradually-typed-language
+- **2026-06-22** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: pycon-us-2026-typing-summit-recap---bernt-gbor
+- **2026-06-22** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: what-type-systems-do-you-find-interesting-useful-underrated
+
 - **2026-06-22** | [Optimizing and Evaluating Transient Gradual Typing - Meta Research](https://research.facebook.com/publications/optimizing-and-evaluating-transient-gradual-typing/) | kw: optimizing-and-evaluating-transient-gradual-typing-meta-rese
 
 - **2026-06-22** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system - Wikipedia

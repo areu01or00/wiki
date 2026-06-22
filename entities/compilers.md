@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [A Deep Dive into LLVM: The Future of Compiler Technology | Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: a-deep-dive-into-llvm-the-future-of-compiler-technology-medi
+- **2026-06-22** | [7. The Just-in-Time Compiler | Getting started with LLVM core libraries](https://subscription.packtpub.com/book/programming/9781782166924/7/ch07lvl1sec49/introducing-the-llvm-jit-framework) | kw: 7-the-just-in-time-compiler-getting-started-with-llvm-core-l
+
 - **2026-06-22** | [Webkit llvm - Haiku Community](https://discuss.haiku-os.org/t/webkit-llvm/19454) | kw: general
 - **2026-06-22** | [Apple Speeds Up WebKit's JS Engine with LLVM JIT - InfoQ](https://www.infoq.com/news/2014/05/safari-webkit-javascript-llvm/) | kw: general
 

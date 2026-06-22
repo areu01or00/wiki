@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: centralized-vs-decentralized-vs-distributed-systems---geeksf
+- **2026-06-22** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: system-design-concepts-course-and-interview-prep---youtube
+- **2026-06-22** | [oreilly.com/library/view/reactive-microservices-architecture...](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: oreillycomlibraryviewreactive-microservices-architecture
+
 - **2026-06-22** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems | Architecture Patterns - GitScrum Docs
 - **2026-06-22** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls
 

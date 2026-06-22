@@ -160,9 +160,6 @@
       "need"
     ],
     "last_result_hashes": [
-      "bb2281be641c13c087b3bfd94faf2e29",
-      "5dff35197dd714f0725776136f983c36",
-      "f5f44afedc51bdb8b313fcda4b054909",
       "55131e24161bc5b96e889d6a3a8bf3a1",
       "431210074fb431d79184e611bec7f66f",
       "94f1f8202caf04a5abec7787029111bb",
@@ -179,13 +176,13 @@
       "2d3339fbcb04e9f626d884e03958e8d3",
       "e386d25ff1816abec2a4433c860ed876",
       "5e40d84c27922d7191778e20c118b6e9",
-      "38356f284740c83553dbab1846c99959"
+      "38356f284740c83553dbab1846c99959",
+      "9ef09709545d432e2dc99e2cf360fbe8",
+      "20c9af03d5ba04de769b9c8d55fbf657",
+      "df4a5dbfbff71110e5f807ab2a889861"
     ],
-    "last_run": "2026-06-22T15:16:39+00:00",
-    "new_sub_topics_this_run": [
-      "only",
-      "need"
-    ],
+    "last_run": "2026-06-22T15:30:30+00:00",
+    "new_sub_topics_this_run": [],
     "last_new_count": 3
   },
   "compilers": {
@@ -411,8 +408,6 @@
       "infoq"
     ],
     "last_result_hashes": [
-      "e782e5cfec0aac8483730db128ffda54",
-      "7d0b717005814217330e578b0fbdc8fb",
       "4a875ba6c9df4a6d863a675c9bbe1244",
       "5f27f4f0ec7b40b86be3b5add92cedfa",
       "da4da22ebe0b30bc79e1ad7a94e5310c",
@@ -430,24 +425,13 @@
       "be589c6a2322164845f96e71c5399801",
       "f9bec9427a41d0299b9e71b1d5f1267e",
       "baa4c43740e35f8ecfc5b45892449fad",
-      "dfbf44a009a8c16fb98a39d0ab412b66"
+      "dfbf44a009a8c16fb98a39d0ab412b66",
+      "7105bfcc3e636b79fcbb54c88c94f1b8",
+      "317387eddba1cdc6426be5e15506b759"
     ],
-    "last_run": "2026-06-22T15:16:39+00:00",
-    "new_sub_topics_this_run": [
-      "general",
-      "ruby",
-      "yjit",
-      "python",
-      "numba",
-      "alternative",
-      "speed",
-      "webkit",
-      "haiku",
-      "apple",
-      "speeds",
-      "infoq"
-    ],
-    "last_new_count": 5
+    "last_run": "2026-06-22T15:30:30+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 2
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -671,9 +655,6 @@
       "Meta"
     ],
     "last_result_hashes": [
-      "ac95c88a54dcd6a305e42842d52571f2",
-      "6c257d065a3041b16049b05a47e582ff",
-      "33626727ee13e987f71e636156432ae5",
       "0e40ec20e1a733a8136667ee5938762f",
       "0d4e59544c796dd6c5041a6241467748",
       "474d9e795c4f52bbdf5cfdeabfe5907f",
@@ -690,11 +671,14 @@
       "08183a095f9bb03fe7dd6ce06dfd5115",
       "d4399773c46fb19b32bd7d3973bd1a93",
       "827319de78f652c36a72ce51d2554598",
-      "1674bb6ba3ccf85f515fbae17fccc59f"
+      "1674bb6ba3ccf85f515fbae17fccc59f",
+      "1892288ce3bfda31458d852753d72f5f",
+      "3ee155bc89731d74821dbdede14aa8be",
+      "1a9958a78e7ae39c78870e2584d0687d"
     ],
-    "last_run": "2026-06-22T15:16:39+00:00",
+    "last_run": "2026-06-22T15:30:30+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 2
+    "last_new_count": 3
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -944,9 +928,6 @@
       "handled"
     ],
     "last_result_hashes": [
-      "ab1a401478bf91151df62818473f5ef5",
-      "0a825892b16894ee5479d8cdc9ceb413",
-      "64b9213a9db6ffcf3ee048410614e9dc",
       "6265d0c7ea387b97e9eb7551bfd1a683",
       "ca0a1465631c6b3c554a745b4cc949a5",
       "e813c0802369dfaa2580f8c290ef05c9",
@@ -963,11 +944,14 @@
       "224236c130fa5ce3e96cd974920e9ebe",
       "be9da9017ce6e02348e052f2e7dda252",
       "6ac17140976f4e3a7be22d2ec701d1ce",
-      "a42e8a8dd1e4fed4a77bfb7761bdc39a"
+      "a42e8a8dd1e4fed4a77bfb7761bdc39a",
+      "827f82e9e1a47b7a7ad617629e29c129",
+      "e2809728031a0a794b40bbdaef5a85f9",
+      "39d44c8c45bb2dc017401e886e8c450f"
     ],
-    "last_run": "2026-06-22T15:16:39+00:00",
+    "last_run": "2026-06-22T15:30:30+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_new_count": 3
   },
   "algorithms": {
     "query": "algorithms data structures LeetCode interview 2026",
@@ -1164,9 +1148,6 @@
       "Motherboard"
     ],
     "last_result_hashes": [
-      "a56066fd0e506b025c869a0404bf41b2",
-      "be6da1ea7a1c55bc0840c46dac040ce4",
-      "b1d649b676e594fa3bcd26dc0ed0efbe",
       "d0ae08ece5b8cf74620da9c17752fdd9",
       "1dc9663bcc98d27971154294b3b044e9",
       "3ebdaa885aa75b6afd188cc99499824c",
@@ -1183,9 +1164,12 @@
       "35f3793cac8b78d908e7f2d7bb34859d",
       "79b94c12eb402f69a1e2ad6993a5a990",
       "4f0510f7ee64c399af68eb6e19a111c1",
-      "c047a018ea3c082f89d714707176a9b7"
+      "c047a018ea3c082f89d714707176a9b7",
+      "5986f91f032edfb2b16f7e0653200178",
+      "f822dd4d7a9290624864e5a92712ba08",
+      "2dfc3513c29255105b4629ef7943c549"
     ],
-    "last_run": "2026-06-22T15:16:39+00:00",
+    "last_run": "2026-06-22T15:30:30+00:00",
     "new_sub_topics_this_run": [],
     "last_new_count": 3
   },
@@ -1378,9 +1362,6 @@
       "Udemy"
     ],
     "last_result_hashes": [
-      "95172cad7556a23f769f4291448f737a",
-      "0763ea341fdeffad9b1390df2709c92c",
-      "474c152f8f7f6147ea15e1f25fff436b",
       "5f9e2fa7ccd0659e10bda8e3c3aee764",
       "87c1728a58c53f66c011966c01beeacf",
       "08e8c546ddb83ecf82fc869aed4b404b",
@@ -1397,10 +1378,13 @@
       "3f53aaddb3c9ccc1340c0fbf20196bee",
       "498edfd974d66c35db81ddcb5eced2f1",
       "16cafc4f2077cbb7dc0260e04af7db34",
-      "6bd1828271a3d7ce0e5d0b666c53b128"
+      "6bd1828271a3d7ce0e5d0b666c53b128",
+      "17f40f751da9a1c9558ca7dbf958ae7e",
+      "3977a42e266cba0d9724f6994662a434",
+      "9b18ec30f332e37000ed0977c0075d83"
     ],
-    "last_run": "2026-06-22T15:16:39+00:00",
+    "last_run": "2026-06-22T15:30:30+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 5
+    "last_new_count": 3
   }
 }

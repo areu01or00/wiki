@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: the-practical-value-of-functional-programming-monad
+- **2026-06-22** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: how-i-learned-monads-not-through-haskell-but-through-rust
+- **2026-06-22** | [Mastering Functional Programming Concepts: A Leader's Guide](https://www.tekrecruiter.com/post/functional-programming-concepts) | kw: mastering-functional-programming-concepts-a-leaders-guide
+
 - **2026-06-22** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial/book-about-functional-programming/50881) | kw: good-tutorial-book-about-functional-programming-rust-users-f
 - **2026-06-22** | [Issue 522 - Haskell Weekly Newsletter](https://haskellweekly.news/issue/522.html) | kw: issue-522-haskell-weekly-newsletter
 
