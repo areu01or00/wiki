@@ -155,12 +155,11 @@
       "Most",
       "Reactive",
       "Reilly",
-      "language"
+      "language",
+      "only",
+      "need"
     ],
     "last_result_hashes": [
-      "ba3cc11f5958d5ab5a815f9aea7d63fb",
-      "694eafe5ed78cb746d62ba47e0492d7d",
-      "a4f767c8d886ec8f2fab1999efc97283",
       "bb2281be641c13c087b3bfd94faf2e29",
       "5dff35197dd714f0725776136f983c36",
       "f5f44afedc51bdb8b313fcda4b054909",
@@ -177,11 +176,17 @@
       "cea5d02f220de1261180a5c4f2d63f9f",
       "087987215e603a59ef94ab0f950422ff",
       "47081d16d27f658f6ab015f3daa4e583",
-      "2d3339fbcb04e9f626d884e03958e8d3"
+      "2d3339fbcb04e9f626d884e03958e8d3",
+      "e386d25ff1816abec2a4433c860ed876",
+      "5e40d84c27922d7191778e20c118b6e9",
+      "38356f284740c83553dbab1846c99959"
     ],
-    "last_run": "2026-06-22T15:00:47+00:00",
-    "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_run": "2026-06-22T15:16:39+00:00",
+    "new_sub_topics_this_run": [
+      "only",
+      "need"
+    ],
+    "last_new_count": 3
   },
   "compilers": {
     "query": "compilers LLVM JIT compilation 2026",
@@ -391,14 +396,21 @@
       "OpenProjects",
       "tratt",
       "Developers",
-      "dstogov"
+      "dstogov",
+      "general",
+      "ruby",
+      "yjit",
+      "python",
+      "numba",
+      "alternative",
+      "speed",
+      "webkit",
+      "haiku",
+      "apple",
+      "speeds",
+      "infoq"
     ],
     "last_result_hashes": [
-      "f1925c0af6e39aa520ffa6a282ede525",
-      "d12d82e1f851084bf2828bf37f84e297",
-      "0e37ea17fc9a69e116e589e0bc7f8c79",
-      "d0de062ed058a4b7bb87b9c013129190",
-      "da2a9627437ec27ab2a13b536f37cf45",
       "e782e5cfec0aac8483730db128ffda54",
       "7d0b717005814217330e578b0fbdc8fb",
       "4a875ba6c9df4a6d863a675c9bbe1244",
@@ -413,11 +425,29 @@
       "86768d8752a6979c5c8cea02f676f762",
       "6850942d672ea36295e32f7cbaeb8981",
       "abb5baabbd283e33da773ae32f478242",
-      "85875fa4aeb3a7c10187eaf8cc0cac2f"
+      "85875fa4aeb3a7c10187eaf8cc0cac2f",
+      "06dbdc873563fd23de6bef9e5d10e37f",
+      "be589c6a2322164845f96e71c5399801",
+      "f9bec9427a41d0299b9e71b1d5f1267e",
+      "baa4c43740e35f8ecfc5b45892449fad",
+      "dfbf44a009a8c16fb98a39d0ab412b66"
     ],
-    "last_run": "2026-06-22T15:00:47+00:00",
-    "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_run": "2026-06-22T15:16:39+00:00",
+    "new_sub_topics_this_run": [
+      "general",
+      "ruby",
+      "yjit",
+      "python",
+      "numba",
+      "alternative",
+      "speed",
+      "webkit",
+      "haiku",
+      "apple",
+      "speeds",
+      "infoq"
+    ],
+    "last_new_count": 5
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -641,8 +671,6 @@
       "Meta"
     ],
     "last_result_hashes": [
-      "1892288ce3bfda31458d852753d72f5f",
-      "37ffd58453521e02c05e593eedaf102e",
       "ac95c88a54dcd6a305e42842d52571f2",
       "6c257d065a3041b16049b05a47e582ff",
       "33626727ee13e987f71e636156432ae5",
@@ -660,11 +688,13 @@
       "281dcc412b25b8e56702cc648bcf9932",
       "5cc1d4c55fe22c53ab06d0faccb4247c",
       "08183a095f9bb03fe7dd6ce06dfd5115",
-      "d4399773c46fb19b32bd7d3973bd1a93"
+      "d4399773c46fb19b32bd7d3973bd1a93",
+      "827319de78f652c36a72ce51d2554598",
+      "1674bb6ba3ccf85f515fbae17fccc59f"
     ],
-    "last_run": "2026-06-22T15:00:47+00:00",
+    "last_run": "2026-06-22T15:16:39+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_new_count": 2
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -935,7 +965,7 @@
       "6ac17140976f4e3a7be22d2ec701d1ce",
       "a42e8a8dd1e4fed4a77bfb7761bdc39a"
     ],
-    "last_run": "2026-06-22T15:00:47+00:00",
+    "last_run": "2026-06-22T15:16:39+00:00",
     "new_sub_topics_this_run": [],
     "last_new_count": 0
   },
@@ -1134,9 +1164,6 @@
       "Motherboard"
     ],
     "last_result_hashes": [
-      "6fdbb4d12c268aa99dc77b0f603c47b1",
-      "00899fcd23a012f7e3f7e87cc4bfb866",
-      "5e88f6c01a27285ecd0ce1dd293a399e",
       "a56066fd0e506b025c869a0404bf41b2",
       "be6da1ea7a1c55bc0840c46dac040ce4",
       "b1d649b676e594fa3bcd26dc0ed0efbe",
@@ -1153,11 +1180,14 @@
       "c42f801e85a80d25add1fee26073f9bf",
       "3a5aa4dc7a08cf53617d8bc45fcdd95d",
       "a857c814273e0c7625339c1a17718eac",
-      "35f3793cac8b78d908e7f2d7bb34859d"
+      "35f3793cac8b78d908e7f2d7bb34859d",
+      "79b94c12eb402f69a1e2ad6993a5a990",
+      "4f0510f7ee64c399af68eb6e19a111c1",
+      "c047a018ea3c082f89d714707176a9b7"
     ],
-    "last_run": "2026-06-22T15:00:47+00:00",
+    "last_run": "2026-06-22T15:16:39+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_new_count": 3
   },
   "python-internals": {
     "query": "Python internals GIL memory management 2026",
@@ -1348,11 +1378,6 @@
       "Udemy"
     ],
     "last_result_hashes": [
-      "88d4b4034dbc943d384e8da85ff50aae",
-      "10a6d6e786cdb44ade53e424b1cf9cd2",
-      "04c2d35f25164f70f4722965ec817710",
-      "20b638a94449aaccfcac7b29b384e273",
-      "bbb596c3441904fed7dc7fa5f00eeb00",
       "95172cad7556a23f769f4291448f737a",
       "0763ea341fdeffad9b1390df2709c92c",
       "474c152f8f7f6147ea15e1f25fff436b",
@@ -1367,10 +1392,15 @@
       "186472734b3375b680871e13a0117ace",
       "85c7fb1d6a354a6b0737f063dce41454",
       "b2fbe6454e7c9d604f2d7586a436e138",
-      "a1233cdbbbaf5c3624b23b99f9297143"
+      "a1233cdbbbaf5c3624b23b99f9297143",
+      "3723dfa3f60cd99fa11d63a5fa09bc1f",
+      "3f53aaddb3c9ccc1340c0fbf20196bee",
+      "498edfd974d66c35db81ddcb5eced2f1",
+      "16cafc4f2077cbb7dc0260e04af7db34",
+      "6bd1828271a3d7ce0e5d0b666c53b128"
     ],
-    "last_run": "2026-06-22T15:00:47+00:00",
+    "last_run": "2026-06-22T15:16:39+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_new_count": 5
   }
 }

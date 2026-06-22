@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Webkit llvm - Haiku Community](https://discuss.haiku-os.org/t/webkit-llvm/19454) | kw: general
+- **2026-06-22** | [Apple Speeds Up WebKit's JS Engine with LLVM JIT - InfoQ](https://www.infoq.com/news/2014/05/safari-webkit-javascript-llvm/) | kw: general
+
 - **2026-06-22** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan/Maglev, Inl
 - **2026-06-22** | [compiler-course-2026 - BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026 - BuildingAJIT3.rst
 
