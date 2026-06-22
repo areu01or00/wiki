@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [In this article, we will compile the LLVM IR into object code](https://iq.opengenus.org/compiling-to-object-code/) | kw: this, article, we, will
+- **2026-06-22** | [Ruby 3.4 YJIT: Python Numba Alternative for Speed 2026](https://johal.in/ruby-3-4-yjit-python-numba-alternative-for-speed-2026/) | kw: Ruby, YJIT, Python, Numba
+
 - **2026-06-22** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why is llvm
 - **2026-06-22** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM
 - **2026-06-22** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize JIT Compilation
