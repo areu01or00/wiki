@@ -103,14 +103,15 @@
         "Modern",
         "Software",
         "That",
-        "UpCloud"
+        "UpCloud",
+        "Centralized",
+        "Decentralized",
+        "GeeksforGeeks",
+        "Quietly",
+        "Becoming",
+        "Towards"
       ],
       "last_result_hashes": [
-        "027b842794aa1b6f8ff97eb660c59079",
-        "4a92b9accf7e00c9835483bf78a78624",
-        "886487f41cabfa1d68bfa76e510f5fb7",
-        "b7b724dd42585c9ceb6c7e74762d9e03",
-        "0a84e0f612f84727cbf618f66be65505",
         "62ffed8405f0c26474dbf2c73f5f9796",
         "2b816d0cf4bff7a093aa08f5c173a8c6",
         "e473045dfa4439bef380cdb09c88b1cc",
@@ -125,21 +126,23 @@
         "e386d25ff1816abec2a4433c860ed876",
         "694eafe5ed78cb746d62ba47e0492d7d",
         "bb2281be641c13c087b3bfd94faf2e29",
-        "f55865a7ac3e58b8a8f3680d30dfba43"
+        "f55865a7ac3e58b8a8f3680d30dfba43",
+        "136a8746b3b2500e355bc518791303d2",
+        "5abb954ad506f176e7f5b2bccd05342a",
+        "9ef09709545d432e2dc99e2cf360fbe8",
+        "f5f44afedc51bdb8b313fcda4b054909",
+        "55131e24161bc5b96e889d6a3a8bf3a1"
       ],
-      "last_run": "2026-06-22T07:19:10Z",
+      "last_run": "2026-06-22T07:32:41Z",
       "new_sub_topics_this_run": [
-        "Every",
-        "Engineer",
-        "Should",
-        "Know",
-        "2026",
-        "Modern",
-        "Software",
-        "That",
-        "UpCloud"
+        "Centralized",
+        "Decentralized",
+        "GeeksforGeeks",
+        "Quietly",
+        "Becoming",
+        "Towards"
       ],
-      "last_new_count": 0
+      "last_new_count": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -280,14 +283,26 @@
         "implementing",
         "example",
         "LLVM's",
-        "Preprints.org"
+        "Preprints.org",
+        "Retrofitting",
+        "Interpreters",
+        "tratt.net",
+        "jank",
+        "great",
+        "start",
+        "2026",
+        "EuroLLVM",
+        "Developers'",
+        "Meeting",
+        "Agenda",
+        "Announcements",
+        "dstogov/ir:",
+        "Lightweight",
+        "Validating",
+        "Space",
+        "Exploration"
       ],
       "last_result_hashes": [
-        "c988d203ffb86a252a80be5c9dbd7a13",
-        "220b22e5eedcf8ef18552f04db52458b",
-        "85875fa4aeb3a7c10187eaf8cc0cac2f",
-        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
-        "4a875ba6c9df4a6d863a675c9bbe1244",
         "7d0b717005814217330e578b0fbdc8fb",
         "f1925c0af6e39aa520ffa6a282ede525",
         "df581a22e0cf096e525cbe4716c834a5",
@@ -302,14 +317,34 @@
         "2e36db34c1a584712cd6f35f63aa33ba",
         "b4b1697fc63d5704d74c4c88d69cd644",
         "e421db2848745921a527c5d08c79a0c5",
-        "be589c6a2322164845f96e71c5399801"
+        "be589c6a2322164845f96e71c5399801",
+        "da4da22ebe0b30bc79e1ad7a94e5310c",
+        "3c9718118369d7e2403bff65ca60bf76",
+        "926e4c8698aeb3f05ca52d73aa8010c7",
+        "32f4188675ea6aa9b99de9314a538fa1",
+        "49e105eff0363056249eba8a075fed43"
       ],
-      "last_run": "2026-06-22T07:19:10Z",
+      "last_run": "2026-06-22T07:32:41Z",
       "new_sub_topics_this_run": [
-        "In this article, we will compile the LLVM IR into ",
-        "Ruby 3.4 YJIT: Python Numba Alternative for Speed "
+        "Retrofitting",
+        "Interpreters",
+        "tratt.net",
+        "jank",
+        "great",
+        "start",
+        "2026",
+        "EuroLLVM",
+        "Developers'",
+        "Meeting",
+        "Agenda",
+        "Announcements",
+        "dstogov/ir:",
+        "Lightweight",
+        "Validating",
+        "Space",
+        "Exploration"
       ],
-      "last_new_count": 2
+      "last_new_count": 5
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -462,17 +497,21 @@
         "What",
         "Java",
         "Code",
-        "Geeks"
+        "Geeks",
+        "Wikipedia",
+        "Guard",
+        "arXiv",
+        "Generics",
+        "2026",
+        "Bern\u00e1t",
+        "G\u00e1bor",
+        "find",
+        "interesting",
+        "useful",
+        "underrated?",
+        "Reddit"
       ],
       "last_result_hashes": [
-        "1892288ce3bfda31458d852753d72f5f",
-        "5cc1d4c55fe22c53ab06d0faccb4247c",
-        "1a9958a78e7ae39c78870e2584d0687d",
-        "b026ef92bf282c4d85de696983ed4a8c",
-        "109f52ff787be91e620cda3aadd96642",
-        "8152c0fa97986388894bbc6fe44824e4",
-        "0c4fea65325737c446710c96431c6923",
-        "05e87cbef36cd8edbadc65c13cd2b4af",
         "0f283757319d5365f9f3d2ac8e848912",
         "69b83013bee9fe9c5ae69cd14f2a8f0b",
         "be8ba2a8e5c2ca25ac6b16edfeff56e1",
@@ -484,19 +523,32 @@
         "0e99faa80316ba7e2d573f17baed4ac2",
         "fc735fa9ff4c8d2d83888648a67a3892",
         "9343782019af5af8bcce9c3451cdb04d",
-        "157916c77a749eaf6c7064b321bbdad3"
+        "157916c77a749eaf6c7064b321bbdad3",
+        "0e40ec20e1a733a8136667ee5938762f",
+        "a043662af89a56e6c9057ee556de4187",
+        "f45b37537fbd32f2517f1eaf8018adef",
+        "310b5e42c13e6ae16e076a7623bdcc43",
+        "4e67eb425d06a1d292002187ec4b327b",
+        "3ee155bc89731d74821dbdede14aa8be",
+        "7eb115bb16c14c16d7caf12e841b1b38",
+        "99a32474f416130e0690fb2b64e5a485"
       ],
-      "last_run": "2026-06-22T07:19:10Z",
+      "last_run": "2026-06-22T07:32:41Z",
       "new_sub_topics_this_run": [
-        "Ultimate",
-        "Overtakes",
-        "JavaScript",
-        "What",
-        "Java",
-        "Code",
-        "Geeks"
+        "Wikipedia",
+        "Guard",
+        "arXiv",
+        "Generics",
+        "2026",
+        "Bern\u00e1t",
+        "G\u00e1bor",
+        "find",
+        "interesting",
+        "useful",
+        "underrated?",
+        "Reddit"
       ],
-      "last_new_count": 0
+      "last_new_count": 8
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -598,7 +650,7 @@
         "Rust",
         "Rust Support",
         "Rust1.74",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Rust:",
         "Rust: Functional Programming & Monads",
         "Safe",
@@ -694,15 +746,16 @@
         "Meets",
         "Rust-Style",
         "Borrowing",
-        "arXiv"
+        "arXiv",
+        "Discourse",
+        "Update",
+        "Hacker",
+        "News",
+        "Community",
+        "version",
+        "Finally"
       ],
       "last_result_hashes": [
-        "a637c1b028184eea6b2bb028d9aef416",
-        "94a26269fce6d4cab82e390dea71cd77",
-        "c52f5174ff9b2fb18fb776e711ed0486",
-        "ce5f54fc6f710fe0ee8b7e9d78f28c76",
-        "ab1a401478bf91151df62818473f5ef5",
-        "269341708d555d5819da5ef32f81a574",
         "52aadfa3b6370a6961288afe7f75e34c",
         "bab6dc04368dc487cd403e3a93312b56",
         "4785f257c28540b037a1cab665f2ef51",
@@ -716,13 +769,26 @@
         "0a825892b16894ee5479d8cdc9ceb413",
         "be9da9017ce6e02348e052f2e7dda252",
         "8229635d8f380180c52db6c50609ea3f",
-        "39d44c8c45bb2dc017401e886e8c450f"
+        "39d44c8c45bb2dc017401e886e8c450f",
+        "cdc73d42316df125e29583210939f935",
+        "e2809728031a0a794b40bbdaef5a85f9",
+        "3dab99b5330ccd20db91a26c202fbc1e",
+        "ed3ccf26c0d340b09ed1cebe201592a1",
+        "2c6957e1f1d7ea7d57cfdd721fc5e962",
+        "2304b593353dcf35aa94f92d66b62bc4"
       ],
-      "last_run": "2026-06-22T07:19:10Z",
+      "last_run": "2026-06-22T07:32:41Z",
       "new_sub_topics_this_run": [
-        "Mastering Functional Programming Concepts: A Leade"
+        "Discourse",
+        "Update",
+        "Hacker",
+        "News",
+        "Community",
+        "version",
+        "Finally",
+        "Hendrik"
       ],
-      "last_new_count": 1
+      "last_new_count": 6
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -834,15 +900,18 @@
         "algorithms-and-data-structures",
         "Topics",
         "Technical",
-        "TikTok"
+        "TikTok",
+        "hours",
+        "datastructures-algorithms",
+        "Mastered",
+        "Structure",
+        "repositorios",
+        "principales",
+        "Stars",
+        "Learn",
+        "LinkedIn"
       ],
       "last_result_hashes": [
-        "51bdec45c83dc444c8040f8f04671877",
-        "6ad4424d61d8084aeff283da158f5951",
-        "1ff2c45205d19d05c322321f335f0949",
-        "09191b710a89e39a177a7aea73cfb65b",
-        "8ec4ac28253c4f016997232629004129",
-        "dab5189ef3ae5fb004933e5992b3a43d",
         "7d194ad3d9a4f9a87cd4de35548c005c",
         "81d3f6ca00caa659b47d39e7b3373c33",
         "f822dd4d7a9290624864e5a92712ba08",
@@ -856,16 +925,27 @@
         "7d168679897b29db756cc0ef549373f1",
         "7656c442825566c6a43d7d4c3400ad61",
         "67ed53d708b56115e3f900dab800223e",
-        "1ab26eb2dbd2592ead07e370424355b1"
+        "1ab26eb2dbd2592ead07e370424355b1",
+        "bb708b5bc1721d018c12aae2e852c938",
+        "525eb68a8d1e232a7e5c5572acad5d15",
+        "45dd13221b9fb1b949b8256c82747517",
+        "9f6a98f8ffeb48969df33e0a5ebb4ba7",
+        "321b9fdcd80e4d3768673273b4931d36",
+        "d52161f175a1bda0b8bc6d6846b63c79"
       ],
-      "last_run": "2026-06-22T07:19:10Z",
+      "last_run": "2026-06-22T07:32:41Z",
       "new_sub_topics_this_run": [
-        "algorithms-and-data-structures",
-        "Topics",
-        "Technical",
-        "TikTok"
+        "hours",
+        "datastructures-algorithms",
+        "Mastered",
+        "Structure",
+        "repositorios",
+        "principales",
+        "Stars",
+        "Learn",
+        "LinkedIn"
       ],
-      "last_new_count": 0
+      "last_new_count": 6
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -985,13 +1065,11 @@
         "Real",
         "Derive",
         "Maximum",
-        "Code"
+        "Code",
+        "3.14",
+        "Experimental"
       ],
       "last_result_hashes": [
-        "b892d3268af415a5d0c10b3cc6cd89bf",
-        "7b0c583d3445b91efa0c0453e5a737c4",
-        "3723dfa3f60cd99fa11d63a5fa09bc1f",
-        "195cc5355800be062c15e1a66ccfcacd",
         "aff79aed6e34d3f002b7fa14f5978b75",
         "b2adf890876689f396287eb124927484",
         "1c9e34c438b893768685d5e9b0743087",
@@ -1007,26 +1085,18 @@
         "88d4b4034dbc943d384e8da85ff50aae",
         "20b638a94449aaccfcac7b29b384e273",
         "bbb596c3441904fed7dc7fa5f00eeb00",
-        "5d720d29ca8c62a4b504bc6f3f753b90"
+        "5d720d29ca8c62a4b504bc6f3f753b90",
+        "d9faa44eef42f3488c2c7e40db995989",
+        "41516748adb7d0ad3f78a457c47778c0",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "ae53589684348a4e8d099e257f848e3c"
       ],
-      "last_run": "2026-06-22T07:19:10Z",
+      "last_run": "2026-06-22T07:32:41Z",
       "new_sub_topics_this_run": [
-        "Works",
-        "Under",
-        "Bytecode",
-        "Interview",
-        "Questions",
-        "with",
-        "Answers",
-        "2026",
-        "Advanced",
-        "What",
-        "Real",
-        "Derive",
-        "Maximum",
-        "Code"
+        "3.14",
+        "Experimental"
       ],
-      "last_new_count": 0
+      "last_new_count": 4
     }
   }
 }

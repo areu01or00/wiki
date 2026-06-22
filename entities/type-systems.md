@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system
+- **2026-06-22** | [Guard Analysis and Safe Erasure Gradual Typing - arXiv](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance - Programming Journal](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance
+- **2026-06-22** | [Efficient Selection of Type Annotations - arXiv](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection of Type Annotations
+- **2026-06-22** | [Luau Type System Complete Guide — Strict Mode, Generics](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide — Strict Mode, Generics
+- **2026-06-22** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US 2026 Typing Summit Recap
+- **2026-06-22** | [Efficient Selection of Type Annotations PDF](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type Annotations PDF
+- **2026-06-22** | [What type systems do you find interesting / useful / underrated? - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems do you find interesting / useful / underra
+
 - **2026-06-22** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic
 - **2026-06-22** | [TypeScript Overtakes JavaScript: What JVM... - Java Code Geeks](https://www.javacodegeeks.com/2026/03/typescript-overtakes-javascript-what-jvm-developers-need-to-know.html) | kw: TypeScript Overtakes JavaScript:
 - **2026-06-22** | ["Typing the Untyped: Soundness in Gradual Type Systems" by Ben...](https://www.youtube.com/watch?v=uJHD2xyv7xo) | kw: "Typing the Untyped:

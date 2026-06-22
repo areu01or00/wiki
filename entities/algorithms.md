@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [70 Leetcode problems in 5+ hours - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: 70 Leetcode problems in 5+ hours
+- **2026-06-22** | [datastructures-algorithms · GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms · GitHub Topics
+- **2026-06-22** | [How I Mastered Data Structure and Algorithms | TikTok](https://www.tiktok.com/discover/how-i-mastered-data-structure-and-algorithms) | kw: How I Mastered Data Structure and Algorithms
+- **2026-06-22** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: Leetcode data structures beginner problems
+- **2026-06-22** | [Los leetcode repositorios principales - Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: Los leetcode repositorios principales
+- **2026-06-22** | [Data Structures & Algorithms Roadmap: Learn DSA | LinkedIn](https://www.linkedin.com/posts/s-wakhare_datastructures-algorithms-codinginterview-activity-7417375485132750848-uysh) | kw: Data Structures & Algorithms Roadmap: Learn DSA
+
 - **2026-06-22** | [algorithms-and-data-structures · GitHub Topics · GitHub](https://github.com/topics/algorithms-and-data-structures) | kw: algorithms-and-data-structures · GitHub
 - **2026-06-22** | [Data Structures and Algorithms Technical Interview | TikTok](https://www.tiktok.com/discover/data-structures-and-algorithms-technical-interview) | kw: Data Structures and
 

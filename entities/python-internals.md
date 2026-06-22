@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of Python Internals: Exploring GIL Removal and...
+- **2026-06-22** | [What is the Global Interpreter Lock (GIL) in Python? Is It...](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the Global Interpreter Lock (GIL) in Python? Is It..
+- **2026-06-22** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management & GIL: Python Guide (2026)
+- **2026-06-22** | [Python 3.14 Free-Threading and Experimental JIT: How Python...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Python 3.14 Free-Threading and Experimental JIT: How Python.
+
 - **2026-06-22** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How Python Works
 - **2026-06-22** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: 400 Python Interview
 - **2026-06-22** | [15+ Advanced Python Interview Questions and Answers 2026](https://interviewkickstart.com/blogs/interview-questions/advanced-python-interview-questions) | kw: 15+ Advanced Python

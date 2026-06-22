@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [How I Build a Distributed System in 2026: Principles...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System in 2026: Principles...
+- **2026-06-22** | [Microservices Architecture Patterns in 2026: Mastering...](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices Architecture Patterns in 2026: Mastering...
+- **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distributed Systems
+- **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: AI Systems Are Quietly Becoming Distributed Systems
+- **2026-06-22** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: System Design Roadmap
+
 - **2026-06-22** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design
 - **2026-06-22** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System Design Patterns:
 - **2026-06-22** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern Software Architecture

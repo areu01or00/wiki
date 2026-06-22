@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - Discourse](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: Pure Borrow: Linear Haskell Meets Rust-Style Borrowing
+- **2026-06-22** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Through Rust
+- **2026-06-22** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell Foundation 2026 Update
+- **2026-06-22** | [Community version of "Learn You a Haskell" - Discourse](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community version of "Learn You a Haskell"
+- **2026-06-22** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: I think I Finally Got Monads
+- **2026-06-22** | [Haskell Foundation](https://haskell.foundation/) | kw: Haskell Foundation
+
 - **2026-06-22** | [Mastering Functional Programming Concepts: A Leader's Guide](https://www.tekrecruiter.com/post/functional-programming-concepts) | kw: Mastering, Functional, Programming, Concepts
 
 - **2026-06-22** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting

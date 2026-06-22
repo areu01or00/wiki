@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: Retrofitting JIT Compilers into C Interpreters
+- **2026-06-22** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: jank is off to a great start in 2026
+- **2026-06-22** | [2026 EuroLLVM Developers' Meeting - Agenda - Announcements](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: 2026 EuroLLVM Developers' Meeting
+- **2026-06-22** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: dstogov/ir: Lightweight JIT Compilation Framework
+- **2026-06-22** | [Validating JIT Compilers via Compilation Space Exploration](https://dl.acm.org/doi/10.1145/3715102) | kw: Validating JIT Compilers via Compilation Space Exploration
+
 - **2026-06-22** | [In this article, we will compile the LLVM IR into object code](https://iq.opengenus.org/compiling-to-object-code/) | kw: this, article, we, will
 - **2026-06-22** | [Ruby 3.4 YJIT: Python Numba Alternative for Speed 2026](https://johal.in/ruby-3-4-yjit-python-numba-alternative-for-speed-2026/) | kw: Ruby, YJIT, Python, Numba
 
