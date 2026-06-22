@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-22** | [Demystifying MONADs: What you need to know](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Haskell known
 - **2026-06-22** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Co-Creator Haskell Functional
 - **2026-06-22** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: lang for functionalprogramming
 - **2026-06-22** | [Functional Programming Online Courses - Serokell](https://serokell.io/courses) | kw: Functional Programming Online

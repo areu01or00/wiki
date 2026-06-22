@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-22** | [How to pass Python interviews and get a 10 LPA job - LinkedIn](https://www.linkedin.com/posts/coderrange_coderrange-pythoninterview-pythonjobs-activity-7342096982506688512-7QsR) | kw: Python internally
 - **2026-06-22** | [Modern Python Best Practices: The 2026 Definitive Guide](https://onehorizon.ai/blog/modern-python-best-practices-the-2026-definitive-guide) | kw: Modern Python Best
 - **2026-06-22** | [Python - Python Internals: Memory Management & the Global Interpreter ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Python Internals
 - **2026-06-22** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Memory Management

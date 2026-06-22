@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-22** | [Type Systems Map - Noosaga Explore](https://www.noosaga.com/explore/programming-languages/type-systems) | kw: Gradual typing
 - **2026-06-22** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: gradual type system
 - **2026-06-22** | [Future of high-level languages : r/ProgrammingLanguages - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/12x46f5/future_of_highlevel_languages/) | kw: Future high-level languages
 - **2026-06-22** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: Gradual typing with

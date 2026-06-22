@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-22** | [50 Days Badge 2026 LeetCode - LinkedIn](https://www.linkedin.com/posts/mofijul02anish_leetcode-datastructures-algorithms-activity-7435275744882204672-ncl1) | kw: Earned Days
 - **2026-06-22** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: Best Free Courses
 - **2026-06-22** | [70 Leetcode problems in 5+ hours (every data structure)... - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: Leetcode problems hours
 - **2026-06-22** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.scien.cx/2025/07/22/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial/) | kw: Data Structure and

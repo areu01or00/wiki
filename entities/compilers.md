@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-22** | [LLVM JIT support for caching compiled output - Stack Overflow](https://stackoverflow.com/questions/48077883/llvm-jit-support-for-caching-compiled-output) | kw: Avoid LLVM
+- **2026-06-22** | [Just in Time Compilation Explained - freeCodeCamp](https://www.freecodecamp.org/news/just-in-time-compilation-explained/) | kw: method improving
+- **2026-06-22** | [llvmjit_expr.c source code - PostgreSQL](https://blog.weghos.com/postgres/PostgreSQL/src/backend/jit/llvm/llvmjit_expr.c.html) | kw: Source code
+- **2026-06-22** | [I hate compilers - Xe Iaso](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/) | kw: Published Compiler
 - **2026-06-22** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: Building JIT Starting
 - **2026-06-22** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures JIT compilation
 - **2026-06-22** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT Design and
