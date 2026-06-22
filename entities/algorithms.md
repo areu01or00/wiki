@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Most Asked LeetCode Interview Questions 2026 - upGrad](https://www.upgrad.com/blog/leetcode-interview-questions/) | kw: algorithms
+
 - **2026-06-22** | [25,000+ DSA Problems for Coding Interviews](https://dsaproblem.com/) | kw: algorithms
 - **2026-06-22** | [I Tried 20+ Python DSA Courses with LeetCode Exercises](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: algorithms
 
