@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: The LLVM Compiler Infrastructure Project | source: compilers
+- **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/ | source: compilers
+- **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — | source: compilers
+- **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/ | source: compilers
+- **2026-06-22** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The Case For Compilers: A Look at SPEC C | source: compilers
+- **2026-06-22** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM -  | source: compilers
+- **2026-06-22** | [Best C Compilers in 2026 — GCC vs Clang vs MSVC (Which to Use)](https://c-program-example.com/2026/06/best-c-compilers.html) | kw: Best C Compilers in 2026 — GCC vs Clang  | source: compilers
+- **2026-06-22** | [LLVM Compiler Overview version 2 - General - Xojo Programming...](https://forum.xojo.com/t/llvm-compiler-overview-version-2/88463) | kw: LLVM Compiler Overview version 2 - Gener | source: compilers
+- **2026-06-22** | [Ruby 3.4 YJIT: Python Numba Alternative for Speed 2026](https://johal.in/ruby-3-4-yjit-python-numba-alternative-for-speed-2026/) | kw: Ruby 3.4 YJIT: Python Numba Alternative  | source: compilers
+
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: llvm
 - **2026-06-22** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: summerofcode.withgoogle
 - **2026-06-22** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: fosdem

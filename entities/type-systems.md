@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1.20 released: now a gradually t | source: type-systems
+- **2026-06-22** | [[2408.14345] Guard Analysis and Safe Erasure Gradual Typing ...](https://arxiv.org/abs/2408.14345) | kw: [2408.14345] Guard Analysis and Safe Era | source: type-systems
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations  | source: type-systems
+- **2026-06-22** | [[2603.05649] Efficient Selection of Type Annotations for ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type | source: type-systems
+- **2026-06-22** | [Luau Type System Complete Guide — Strict Mode, Generics ...](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide — Strict | source: type-systems
+- **2026-06-22** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: Gradual typing with unification-based in | source: type-systems
+- **2026-06-22** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: To what extent is type theory relevant t | source: type-systems
+
 - **2026-06-22** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: en.wikipedia
 - **2026-06-22** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: elixir-lang
 - **2026-06-22** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: sciencedirect

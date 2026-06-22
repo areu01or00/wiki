@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026:  | source: algorithms
+- **2026-06-22** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to E | source: algorithms
+- **2026-06-22** | [Data Structures and Algorithms in 2026: What Backend ...](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: Data Structures and Algorithms in 2026:  | source: algorithms
+- **2026-06-22** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode - The World's Leading Programmi | source: algorithms
+- **2026-06-22** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 202 | source: algorithms
+- **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetC | source: algorithms
+
 - **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: reddit
 - **2026-06-22** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: dsaprep
 - **2026-06-22** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: youtube

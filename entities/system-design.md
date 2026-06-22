@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [System Design Primer | Awesome Repository](https://awesome-repositories.com/repository/donnemartin-system-design-primer?q=awesome-system-design-repositories-on-github) | kw: System Design Primer | Awesome Repositor | source: system-design
+- **2026-06-22** | [oreilly.com/library/view/reactive-microservices-architecture...](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: oreilly.com/library/view/reactive-micros | source: system-design
+- **2026-06-22** | [Most Design Systems Don't Break... | Design Systems Collective](https://www.designsystemscollective.com/most-design-systems-dont-break-because-of-buttons-016ae786dc07) | kw: Most Design Systems Don't Break... | Des | source: system-design
+- **2026-06-22** | [Bulkhead Pattern — Distributed Design Pattern | by Pratik... | Medium](https://distributedsystemsmadeeasy.medium.com/bulkhead-pattern-distributed-design-pattern-c673d5e81523) | kw: Bulkhead Pattern — Distributed Design Pa | source: system-design
+- **2026-06-22** | [English Dialogue for Informatics Engineering - Distributed Systems...](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: English Dialogue for Informatics Enginee | source: system-design
+- **2026-06-22** | [Integration Patterns 2026: Asynchronous Bulk Read (Polling, Events...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-asynchronous-bulk-read/) | kw: Integration Patterns 2026: Asynchronous  | source: system-design
+
 - **2026-06-22** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: alok-mishra
 - **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: geeksforgeeks
 - **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: pub.towardsai.net

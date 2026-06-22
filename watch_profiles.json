@@ -17,8 +17,8 @@
       "System Design Series",
       "Engineer",
       "Prorgram Examples",
-      "Don’t",
-      "Häftad",
+      "Don\u2019t",
+      "H\u00e4ftad",
       "Gabo",
       "Essential",
       "Predictable",
@@ -196,15 +196,17 @@
       "Developers",
       "Production",
       "Work",
-      "Week"
+      "Week",
+      "Primer",
+      "Awesome",
+      "Repository",
+      "oreilly",
+      "library",
+      "reactive-microservices-architecture",
+      "English",
+      "Dialogue"
     ],
     "last_result_hashes": [
-      "d34f873c218a7f5f8de505bbe0281a8a",
-      "3977a42e266cba0d9724f6994662a434",
-      "119ff08981a6650f712f34c5191bf3f0",
-      "9683f091f94b73598b61b277bfaf0dc7",
-      "f1925c0af6e39aa520ffa6a282ede525",
-      "85875fa4aeb3a7c10187eaf8cc0cac2f",
       "b2fbe6454e7c9d604f2d7586a436e138",
       "686812076d5de90d1c2ef77d554beb01",
       "bab6dc04368dc487cd403e3a93312b56",
@@ -218,11 +220,26 @@
       "9ef09709545d432e2dc99e2cf360fbe8",
       "f5f44afedc51bdb8b313fcda4b054909",
       "55131e24161bc5b96e889d6a3a8bf3a1",
-      "3c1c805c3c091a0b2461ba9b44b3008e"
+      "3c1c805c3c091a0b2461ba9b44b3008e",
+      "a71bab293af1fb59047daa3cb5f42d16",
+      "df4a5dbfbff71110e5f807ab2a889861",
+      "91b0623023c2c706479af2c4745808de",
+      "514e62e45907d8b538db2305cb02b599",
+      "89a92316f41a5050a2cfe852301aaa2a",
+      "f0c02833038fe1bcb22fe7831ff0db99"
     ],
-    "last_run": "2026-06-22T18:34:51.084871+00:00",
-    "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_run": "2026-06-22T18:46:42.766195+00:00",
+    "new_sub_topics_this_run": [
+      "Primer",
+      "Awesome",
+      "Repository",
+      "oreilly",
+      "library",
+      "reactive-microservices-architecture",
+      "English",
+      "Dialogue"
+    ],
+    "last_new_count": 6
   },
   "compilers": {
     "query": "compilers LLVM JIT compilation 2026",
@@ -349,7 +366,7 @@
       "Overview",
       "alternative",
       "Unlocking",
-      "“LLVM",
+      "\u201cLLVM",
       "OpenProjects",
       "Meeting",
       "Second",
@@ -458,7 +475,7 @@
       "Maglev",
       "Optimizer",
       "Minimal",
-      "Developers’",
+      "Developers\u2019",
       "FeedBagel",
       "unsuitable",
       "stack",
@@ -490,18 +507,16 @@
       "compiled",
       "output",
       "Swift",
-      "YouTube"
+      "YouTube",
+      "BuildingAJIT3",
+      "Just-In-Time",
+      "Create",
+      "Python",
+      "Numba",
+      "Alternative",
+      "Speed"
     ],
     "last_result_hashes": [
-      "269f04ef95138ae2db4bed06b4d46fa2",
-      "c386f6846ea28aa416a56dc7eafe650c",
-      "e6723f3dd524e2c5ebdbcda09ed7c6ae",
-      "3977a42e266cba0d9724f6994662a434",
-      "119ff08981a6650f712f34c5191bf3f0",
-      "9683f091f94b73598b61b277bfaf0dc7",
-      "f1925c0af6e39aa520ffa6a282ede525",
-      "85875fa4aeb3a7c10187eaf8cc0cac2f",
-      "b2fbe6454e7c9d604f2d7586a436e138",
       "686812076d5de90d1c2ef77d554beb01",
       "bab6dc04368dc487cd403e3a93312b56",
       "fc735fa9ff4c8d2d83888648a67a3892",
@@ -512,11 +527,28 @@
       "a1233cdbbbaf5c3624b23b99f9297143",
       "ac224ecee6fc1b4cc9ba1f13c5b1a941",
       "7d0b717005814217330e578b0fbdc8fb",
-      "4a875ba6c9df4a6d863a675c9bbe1244"
+      "4a875ba6c9df4a6d863a675c9bbe1244",
+      "d12d82e1f851084bf2828bf37f84e297",
+      "0e37ea17fc9a69e116e589e0bc7f8c79",
+      "d0de062ed058a4b7bb87b9c013129190",
+      "da2a9627437ec27ab2a13b536f37cf45",
+      "5cefefefe6afc297697ed1187181b6a1",
+      "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
+      "6d99d1e42e2c1308c2e62328d795de40",
+      "06dbdc873563fd23de6bef9e5d10e37f",
+      "be589c6a2322164845f96e71c5399801"
     ],
-    "last_run": "2026-06-22T18:34:51.084871+00:00",
-    "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_run": "2026-06-22T18:46:42.766195+00:00",
+    "new_sub_topics_this_run": [
+      "BuildingAJIT3",
+      "Just-In-Time",
+      "Create",
+      "Python",
+      "Numba",
+      "Alternative",
+      "Speed"
+    ],
+    "last_new_count": 9
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -578,7 +610,7 @@
       "Setting",
       "Safety",
       "Spectrum",
-      "Gábor",
+      "G\u00e1bor",
       "NJPLS",
       "How the Compiler Finally",
       "Type Inference - Typechecker Zoo",
@@ -722,7 +754,7 @@
       "programming",
       "Foundations",
       "Desktop",
-      "Bernát",
+      "Bern\u00e1t",
       "interesting",
       "With",
       "tools",
@@ -766,13 +798,6 @@
       "r/ProgrammingLanguages"
     ],
     "last_result_hashes": [
-      "e1eb435797831fb4ee3d68e76936c2bb",
-      "6d77d36d5d5faa4ef4e6858564ce52bc",
-      "9b14cd02533704df49ef98d02074457b",
-      "3977a42e266cba0d9724f6994662a434",
-      "119ff08981a6650f712f34c5191bf3f0",
-      "9683f091f94b73598b61b277bfaf0dc7",
-      "f1925c0af6e39aa520ffa6a282ede525",
       "85875fa4aeb3a7c10187eaf8cc0cac2f",
       "b2fbe6454e7c9d604f2d7586a436e138",
       "686812076d5de90d1c2ef77d554beb01",
@@ -785,11 +810,18 @@
       "a1233cdbbbaf5c3624b23b99f9297143",
       "0e40ec20e1a733a8136667ee5938762f",
       "6c257d065a3041b16049b05a47e582ff",
-      "125dbb0b4ca4da741d64d57bca463383"
+      "125dbb0b4ca4da741d64d57bca463383",
+      "1892288ce3bfda31458d852753d72f5f",
+      "827319de78f652c36a72ce51d2554598",
+      "37ffd58453521e02c05e593eedaf102e",
+      "1674bb6ba3ccf85f515fbae17fccc59f",
+      "4c5ac4f266fb11bae7466504f78f36a0",
+      "281dcc412b25b8e56702cc648bcf9932",
+      "474d9e795c4f52bbdf5cfdeabfe5907f"
     ],
-    "last_run": "2026-06-22T18:34:51.084871+00:00",
+    "last_run": "2026-06-22T18:46:42.766195+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_new_count": 7
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -867,7 +899,7 @@
       "Why",
       "Lobsters",
       "version",
-      "Haskell…",
+      "Haskell\u2026",
       "Class",
       "combine",
       "README",
@@ -947,7 +979,7 @@
       "effectful",
       "Unmasked",
       "vs.",
-      "Rust1.74で追加された機能を使ってモナドを作ってみる",
+      "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
       "need",
       "youngju",
       "monadify",
@@ -1058,17 +1090,14 @@
       "com",
       "Programmer",
       "Definition",
-      "Milewski"
+      "Milewski",
+      "could",
+      "tutorial",
+      "state",
+      "language",
+      "Serokell"
     ],
     "last_result_hashes": [
-      "b015dacd58845f8a0b72851fd852150b",
-      "3977a42e266cba0d9724f6994662a434",
-      "119ff08981a6650f712f34c5191bf3f0",
-      "9683f091f94b73598b61b277bfaf0dc7",
-      "f1925c0af6e39aa520ffa6a282ede525",
-      "85875fa4aeb3a7c10187eaf8cc0cac2f",
-      "b2fbe6454e7c9d604f2d7586a436e138",
-      "686812076d5de90d1c2ef77d554beb01",
       "bab6dc04368dc487cd403e3a93312b56",
       "fc735fa9ff4c8d2d83888648a67a3892",
       "17f40f751da9a1c9558ca7dbf958ae7e",
@@ -1080,11 +1109,25 @@
       "0a825892b16894ee5479d8cdc9ceb413",
       "8c0ea0d18b37f3c9d2facb56f6b40861",
       "be9da9017ce6e02348e052f2e7dda252",
-      "8229635d8f380180c52db6c50609ea3f"
+      "8229635d8f380180c52db6c50609ea3f",
+      "ab1a401478bf91151df62818473f5ef5",
+      "64b9213a9db6ffcf3ee048410614e9dc",
+      "ca0a1465631c6b3c554a745b4cc949a5",
+      "f754971725118e81c5661d4781fdbbfd",
+      "6265d0c7ea387b97e9eb7551bfd1a683",
+      "f0ebc88fd8dc88d3328d7b1d93ab1507",
+      "48dd011d4e1a398f9bf2a4278af5f6b6",
+      "ef0fa2a378e721a6e420bcc3ededc61a"
     ],
-    "last_run": "2026-06-22T18:34:51.084871+00:00",
-    "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_run": "2026-06-22T18:46:42.766195+00:00",
+    "new_sub_topics_this_run": [
+      "could",
+      "tutorial",
+      "state",
+      "language",
+      "Serokell"
+    ],
+    "last_new_count": 8
   },
   "algorithms": {
     "query": "algorithms data structures LeetCode interview 2026",
@@ -1310,12 +1353,6 @@
       "resources"
     ],
     "last_result_hashes": [
-      "ebc4f5bb196b958a5c9e20eeafb2d4ac",
-      "3977a42e266cba0d9724f6994662a434",
-      "119ff08981a6650f712f34c5191bf3f0",
-      "9683f091f94b73598b61b277bfaf0dc7",
-      "f1925c0af6e39aa520ffa6a282ede525",
-      "85875fa4aeb3a7c10187eaf8cc0cac2f",
       "b2fbe6454e7c9d604f2d7586a436e138",
       "686812076d5de90d1c2ef77d554beb01",
       "bab6dc04368dc487cd403e3a93312b56",
@@ -1329,11 +1366,17 @@
       "7827ab24e9d276e3b17d86a148741a99",
       "51bdec45c83dc444c8040f8f04671877",
       "1ff2c45205d19d05c322321f335f0949",
-      "efaca53a4fb3332a168f55b43aac804a"
+      "efaca53a4fb3332a168f55b43aac804a",
+      "758e32a5ad74796e353ebdfbf6d56a41",
+      "295b9cef600dbe7793246450fff73b05",
+      "95cea715e4a4052b6520afcdad4c7941",
+      "8900f36a48596850ee5ba84a247a6c1d",
+      "09fb34f020c56145d7269228189a72c2",
+      "867c193f14d86dba8e19be9953c4f21a"
     ],
-    "last_run": "2026-06-22T18:34:51.084871+00:00",
+    "last_run": "2026-06-22T18:46:42.766195+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_new_count": 6
   },
   "python-internals": {
     "query": "Python internals GIL memory management 2026",
@@ -1508,7 +1551,7 @@
       "GIL",
       "LinkedIn",
       "Memory",
-      "internals·",
+      "internals\u00b7",
       "embeddedprep",
       "Maturin",
       "states",
@@ -1537,7 +1580,7 @@
       "cpython?",
       "scanlibs",
       "Optimization,",
-      "python’s",
+      "python\u2019s",
       "Model",
       "ADVANCED-PYTHON-CORE",
       "GitHub",
@@ -1561,19 +1604,13 @@
       "Machine",
       "Stack",
       "Overflow",
-      "finally"
+      "finally",
+      "Majidbasharat",
+      "Mastering",
+      "Programming",
+      "Engineers"
     ],
     "last_result_hashes": [
-      "18ec8a01581be615ebdc1c5a1196fe8e",
-      "a106fe2ae8c1f10ba152e06a0015471a",
-      "3197f1f7e41dac15a3a51b2400a6ded9",
-      "0f420108f5a2a5e00ceefd0db2bdaf2f",
-      "0c1364da950df2fffc7798f54adb12ff",
-      "244772e880b5c77444ef9b49bcf2d858",
-      "3977a42e266cba0d9724f6994662a434",
-      "119ff08981a6650f712f34c5191bf3f0",
-      "9683f091f94b73598b61b277bfaf0dc7",
-      "f1925c0af6e39aa520ffa6a282ede525",
       "85875fa4aeb3a7c10187eaf8cc0cac2f",
       "b2fbe6454e7c9d604f2d7586a436e138",
       "686812076d5de90d1c2ef77d554beb01",
@@ -1583,10 +1620,25 @@
       "774490d39bbb7ec76086057aed9ef3eb",
       "9343782019af5af8bcce9c3451cdb04d",
       "2a4484c00cdb382848a9c586f654f5ff",
-      "a1233cdbbbaf5c3624b23b99f9297143"
+      "a1233cdbbbaf5c3624b23b99f9297143",
+      "3f53aaddb3c9ccc1340c0fbf20196bee",
+      "1c9e34c438b893768685d5e9b0743087",
+      "0783ed1ac79d4001c3d6f90d7d161251",
+      "db1be0cfcc98844b9e2cb2e406277fd8",
+      "89838ce588942ac3f831d35f8458e15d",
+      "b892d3268af415a5d0c10b3cc6cd89bf",
+      "9aadd53c555757e69af3102215b736e3",
+      "b9494478477315a9ef1356dba1b663d8",
+      "238dd6ae5d2a4f3308b871fdae7cc7d8",
+      "3723dfa3f60cd99fa11d63a5fa09bc1f"
     ],
-    "last_run": "2026-06-22T18:34:51.084871+00:00",
-    "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_run": "2026-06-22T18:46:42.766195+00:00",
+    "new_sub_topics_this_run": [
+      "Majidbasharat",
+      "Mastering",
+      "Programming",
+      "Engineers"
+    ],
+    "last_new_count": 10
   }
 }
