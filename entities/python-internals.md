@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How Python Works Under the Hood: Memory, GIL, and Bytecode
+- **2026-06-22** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: 400 Python Interview Questions with Answers 2026
+- **2026-06-22** | [15+ Advanced Python Interview Questions and Answers 2026](https://interviewkickstart.com/blogs/interview-questions/advanced-python-interview-questions) | kw: 15+ Advanced Python Interview Questions and Answers 2026
+- **2026-06-22** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter Lock (GIL)? – Real Pyt
+- **2026-06-22** | [Internals of Python 3.x: Derive Maximum Code Performance (Amazon)](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals of Python 3.x: Derive Maximum Code Performance (Am
+- **2026-06-22** | [Internals of Python 3.x: Derive Maximum Code Performance (scanlibs)](https://scanlibs.com/internals-python-3-performance/) | kw: Internals of Python 3.x: Derive Maximum Code Performance (sc
+- **2026-06-22** | [Rust Systems Python Bindings: Maturin for Safe Memory Management 2026](https://johal.in/rust-systems-python-bindings-maturin-for-safe-memory-management-2026/) | kw: Rust Systems Python Bindings: Maturin for Safe Memory Manage
+
 - **2026-06-22** | [Python Complete Guide | CPython Internals· GIL - pkglog.com](https://pkglog.com/en/blog/python-complete-guide/) | kw: python complete guide
 - **2026-06-22** | [GIL | CPython Internals](https://zpoint.github.io/CPython-Internals/Interpreter/gil/gil.html) | kw: cpython internals
 - **2026-06-22** | [CPython-Internals/Interpreter/gil/gil.md at master · zpoint ...](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/gil/gil.md) | kw: cpython-internals/interpreter/gil/gil.md master zpoint

@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [functional programming - How do I combine monads in Haskell?](https://stackoverflow.com/questions/1126651/how-do-i-combine-monads-in-haskell) | kw: functional programming
+- **2026-06-22** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns in Rust
+- **2026-06-22** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: What Is a Monad in Functional Programming?
+- **2026-06-22** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: monad in Functional programming
+- **2026-06-22** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming & Monads
+- **2026-06-22** | [Monads Unmasked: The Category Theory You're Already Using - Java Code Geeks](https://www.javacodegeeks.com/2026/01/monads-unmasked-the-category-theory-youre-already-using-without-knowing.html) | kw: Monads Unmasked: The Category Theory You're Already Using
+
 - **2026-06-22** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: hello, haskell: getting
 - **2026-06-22** | [Monad tutorials timeline - HaskellWiki - Haskell.org](https://www.haskell.org/haskellwiki/Monad_tutorials_timeline) | kw: monad tutorials timeline
 - **2026-06-22** | [Functional Programming - INFOFP 2025-2026 Functional ...](https://uuinfofp.github.io/) | kw: functional programming infofp

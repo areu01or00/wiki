@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start
+- **2026-06-22** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap: Learn Data Structures and Algorithms [2026]
+- **2026-06-22** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert (2026)
+- **2026-06-22** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode
+- **2026-06-22** | [25,000+ DSA Problems for Coding Interviews | DSA Problem](https://dsaproblem.com/) | kw: 25,000+ DSA Problems for Coding Interviews
+- **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy in 2026?
+
 - **2026-06-22** | [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!)...](https://www.bigocheatsheet.com/) | kw: big-o algorithm complexity
 - **2026-06-22** | [Data Structures & Algorithms - Complexity Analysis - Big... - YouTube](https://www.youtube.com/watch?v=xssQxVd2LoI) | kw: data structures algorithms
 - **2026-06-22** | [CCC 401 Data Structures notes](https://newzpie123.blogspot.com/2026/04/CCC401.html) | kw: data structures notes
