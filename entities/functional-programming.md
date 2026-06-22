@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad functional programming
+
 
 - **2026-06-22** | [Demystifying MONADs: What you need to know](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Haskell known
 - **2026-06-22** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Co-Creator Haskell Functional

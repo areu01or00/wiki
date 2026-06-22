@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau programming language
+
 
 - **2026-06-22** | [Type Systems Map - Noosaga Explore](https://www.noosaga.com/explore/programming-languages/type-systems) | kw: Gradual typing
 - **2026-06-22** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: gradual type system

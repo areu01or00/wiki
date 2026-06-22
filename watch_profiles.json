@@ -173,10 +173,12 @@
       "Resources",
       "High-Level",
       "Distributed",
-      "Quiz"
+      "Quiz",
+      "Objects",
+      "Durable",
+      "Cloudflare"
     ],
     "last_result_hashes": [
-      "bd9c53776405cab613029a2242f038c3",
       "a4f767c8d886ec8f2fab1999efc97283",
       "bb2281be641c13c087b3bfd94faf2e29",
       "5e40d84c27922d7191778e20c118b6e9",
@@ -195,13 +197,16 @@
       "c0b1df555e7473d40f178a33403fe18e",
       "82f3ba476099e63b9361f91d966278df",
       "d34f873c218a7f5f8de505bbe0281a8a",
-      "95c36b9d5ca1503c1e69a7a57669956a"
+      "95c36b9d5ca1503c1e69a7a57669956a",
+      "13493ea379ee26948a37027b077926c0"
     ],
-    "last_run": "2026-06-22T16:32:46+00:00",
+    "last_run": "2026-06-22T16:47:05+00:00",
     "new_sub_topics_this_run": [
-      "High-Level"
+      "Objects",
+      "Durable",
+      "Cloudflare"
     ],
-    "last_new_count": 9
+    "last_new_count": 1
   },
   "compilers": {
     "query": "compilers LLVM JIT compilation 2026",
@@ -453,11 +458,13 @@
       "Stephen",
       "speeds",
       "Based",
-      "SPEC CPU"
+      "SPEC CPU",
+      "Models",
+      "System",
+      "Started",
+      "Getting"
     ],
     "last_result_hashes": [
-      "1af03a5a1ebb335b30df742a006ac5aa",
-      "3bcd6aab24b96a3812770d981f13c02c",
       "b9f82a2a552b6b36f1ba933da49a2bba",
       "5fd29726089feb784baecbde7282f270",
       "f9bec9427a41d0299b9e71b1d5f1267e",
@@ -475,27 +482,18 @@
       "f39bdf10d7a368a8c42bb6336bba3b0d",
       "6f327f5ea25ca931855a838182761d8b",
       "269f04ef95138ae2db4bed06b4d46fa2",
-      "c386f6846ea28aa416a56dc7eafe650c"
+      "c386f6846ea28aa416a56dc7eafe650c",
+      "e6723f3dd524e2c5ebdbcda09ed7c6ae",
+      "c34df3cb82c22d862bcf993e2c10c0d5"
     ],
-    "last_run": "2026-06-22T16:32:46+00:00",
+    "last_run": "2026-06-22T16:47:05+00:00",
     "new_sub_topics_this_run": [
-      "Stack",
-      "Overflow",
-      "General",
-      "Chris",
-      "Lattner",
-      "Webkit",
-      "Haiku",
-      "Explained",
-      "Features",
-      "Internals",
-      "Design",
-      "Apple",
-      "Speeds",
-      "WebKits",
-      "PostgreSQL"
+      "Models",
+      "System",
+      "Started",
+      "Getting"
     ],
-    "last_new_count": 10
+    "last_new_count": 2
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -729,7 +727,6 @@
       "Typed"
     ],
     "last_result_hashes": [
-      "0d4e59544c796dd6c5041a6241467748",
       "16af5ba33eea9f9b6db255441ee2ad03",
       "c2a7ab4a00dd7b24329f23a54e40afec",
       "068a07b3862dfe7a7b75410740325108",
@@ -748,18 +745,12 @@
       "975a1b475e0a58b8c26e87f4d85fdf65",
       "30ac2d43919f96f20a0bb63c41bcff69",
       "c4981204de3af4a493b80247f29701a5",
-      "ac95c88a54dcd6a305e42842d52571f2"
+      "ac95c88a54dcd6a305e42842d52571f2",
+      "0f283757319d5365f9f3d2ac8e848912"
     ],
-    "last_run": "2026-06-22T16:32:46+00:00",
-    "new_sub_topics_this_run": [
-      "CodeDocs",
-      "Noosaga",
-      "Explore",
-      "Understanding",
-      "Perspective",
-      "Programming"
-    ],
-    "last_new_count": 10
+    "last_run": "2026-06-22T16:47:05+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 1
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -1015,10 +1006,10 @@
       "haskell.org",
       "Milewski's",
       "Tutorial",
-      "13764"
+      "13764",
+      "programming"
     ],
     "last_result_hashes": [
-      "123ce1aeb419f14fadd1176672d1a63b",
       "2644cef0c68a6ec5475da738ec665d70",
       "ec3180bd9f1ac989feb2861105b7ad84",
       "dcbe6622faa5df8a411035af8fd24d95",
@@ -1037,15 +1028,14 @@
       "b9945a99a92bf35de4dcca6986f26c5e",
       "7beba6ac204b3b903b747cb64f16affd",
       "6d3ec05fc96af1490c1c2518e30a91cc",
-      "0a825892b16894ee5479d8cdc9ceb413"
+      "0a825892b16894ee5479d8cdc9ceb413",
+      "df332d266a9393afd65af20ab5899d2a"
     ],
-    "last_run": "2026-06-22T16:32:46+00:00",
+    "last_run": "2026-06-22T16:47:05+00:00",
     "new_sub_topics_this_run": [
-      "MONADs",
-      "Powerful",
-      "Concept"
+      "programming"
     ],
-    "last_new_count": 8
+    "last_new_count": 1
   },
   "algorithms": {
     "query": "algorithms data structures LeetCode interview 2026",
@@ -1278,15 +1268,9 @@
       "74137392faf0cd29b8f26b5ae47bd3f5",
       "9683f091f94b73598b61b277bfaf0dc7"
     ],
-    "last_run": "2026-06-22T16:32:46+00:00",
-    "new_sub_topics_this_run": [
-      "Alternatives",
-      "Datastructures",
-      "Explanation",
-      "Badge",
-      "Tutorial"
-    ],
-    "last_new_count": 10
+    "last_run": "2026-06-22T16:47:05+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "python-internals": {
     "query": "Python internals GIL memory management 2026",
@@ -1491,10 +1475,12 @@
       "scanlibs",
       "Optimization,",
       "python\u2019s",
-      "Model"
+      "Model",
+      "ADVANCED-PYTHON-CORE",
+      "GitHub",
+      "AsliddinTuxtasinov"
     ],
     "last_result_hashes": [
-      "95172cad7556a23f769f4291448f737a",
       "c291a4e2ff2d59d62b1fc2eb11aa5803",
       "875b79b5e7ca9e23a203c5f89c52ec54",
       "3b3198fca2a29213e754b9d5089dbe5b",
@@ -1513,13 +1499,15 @@
       "3197f1f7e41dac15a3a51b2400a6ded9",
       "0f420108f5a2a5e00ceefd0db2bdaf2f",
       "0c1364da950df2fffc7798f54adb12ff",
-      "244772e880b5c77444ef9b49bcf2d858"
+      "244772e880b5c77444ef9b49bcf2d858",
+      "f8fdb0ebcfc7a9024e35b11d4a090b18"
     ],
-    "last_run": "2026-06-22T16:32:46+00:00",
+    "last_run": "2026-06-22T16:47:05+00:00",
     "new_sub_topics_this_run": [
-      "YouTube",
-      "Operating"
+      "ADVANCED-PYTHON-CORE",
+      "GitHub",
+      "AsliddinTuxtasinov"
     ],
-    "last_new_count": 10
+    "last_new_count": 1
   }
 }

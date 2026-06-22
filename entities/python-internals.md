@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [GitHub - AsliddinTuxtasinov/ADVANCED-PYTHON-CORE](https://github.com/AsliddinTuxtasinov/ADVANCED-PYTHON-CORE) | kw: GitHub AsliddinTuxtasinov ADVANCED-PYTHON-CORE
+
 
 - **2026-06-22** | [How to pass Python interviews and get a 10 LPA job - LinkedIn](https://www.linkedin.com/posts/coderrange_coderrange-pythoninterview-pythonjobs-activity-7342096982506688512-7QsR) | kw: Python internally
 - **2026-06-22** | [Modern Python Best Practices: The 2026 Definitive Guide](https://onehorizon.ai/blog/modern-python-best-practices-the-2026-definitive-guide) | kw: Modern Python Best

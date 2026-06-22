@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Cloudflare Durable Objects Patterns 2026](https://johal.in/cloudflare-durable-objects-patterns-2026/) | kw: Cloudflare Durable Objects
+
 - **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: Systems Are Quietly
 - **2026-06-22** | [Bulkhead Pattern — Distributed Design Pattern | by Pratik... | Medium](https://distributedsystemsmadeeasy.medium.com/bulkhead-pattern-distributed-design-pattern-c673d5e81523) | kw: Bulkhead Pattern Distributed
 - **2026-06-22** | [English Dialogue for Informatics Engineering - Distributed Systems...](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: English Dialogue for

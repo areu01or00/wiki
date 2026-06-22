@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Getting Started with the LLVM System](https://rocm.docs.amd.com/projects/llvm-project/en/latest/LLVM/llvm/html/GettingStarted.html) | kw: Getting Started with
+- **2026-06-22** | [Compilation for LLMs: Why a Language for Models... - DEV Community](https://dev.to/delimitter_8b9077911a3848/compilation-for-llms-why-a-language-for-models-needs-native-code-3jal) | kw: Compilation LLMs Language
+
 
 - **2026-06-22** | [LLVM JIT support for caching compiled output - Stack Overflow](https://stackoverflow.com/questions/48077883/llvm-jit-support-for-caching-compiled-output) | kw: Avoid LLVM
 - **2026-06-22** | [Just in Time Compilation Explained - freeCodeCamp](https://www.freecodecamp.org/news/just-in-time-compilation-explained/) | kw: method improving
