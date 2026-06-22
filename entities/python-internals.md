@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Explain the Global Interpreter Lock (GIL) in Python](https://4achievers.com/information/in/delhi/python-training/explain-the-global-interpreter-lock-gil-in-python) | kw: Python internals GIL memory management 2026
+
 - **2026-06-22** | [Python Interview Questions: Key Features, Memory Management - LinkedIn](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: python-internals
 - **2026-06-22** | [Part 4: Coding for Problem Solving - Agent Factory](https://agentfactory.panaversity.org/docs/Coding-for-Problem-Solving) | kw: python-internals
 - **2026-06-22** | [TestMem5 ошибка в тесте 0, 1, 2, 13, 14](https://testmem5.su/oshibki/) | kw: python-internals

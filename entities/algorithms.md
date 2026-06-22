@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [The Best Way To Learn Algorithms and Data Structures](https://dev.to/salarc123/the-best-way-to-learn-algorithms-and-data-structures-24cn) | kw: algorithms data structures LeetCode interview 2026
+
 - **2026-06-22** | [Best Data Structures & Algorithms Courses (2026)](https://onlinecourseing.com/best-data-structures-algorithms-courses/) | kw: algorithms
 
 - **2026-06-22** | [Data Structures and Algorithms Youtube | TikTok](https://www.tiktok.com/discover/data-structures-and-algorithms-youtube?lang=ru-RU) | kw: Data Structures and Algorithms Youtube
