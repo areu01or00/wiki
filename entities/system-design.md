@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Design Patterns](https://refactoring.guru/design-patterns) | kw: Design Patterns
+- **2026-06-22** | [System Design & Distributed Systems | اقرأ-تِك](https://eqraatech.com/visual-guides/system-design-distributed-systems/) | kw: System Design & Distributed Sy
+- **2026-06-22** | [A pattern language for microservices](https://microservices.io/patterns/index.html) | kw: A pattern language for microse
+
 - **2026-06-22** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions
 - **2026-06-22** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed Systems Patterns
 - **2026-06-22** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems Architecture
