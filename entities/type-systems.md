@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Gradual typing](https://grokipedia.com/page/Gradual_typing) | kw: Gradual typing
+
 
 
 - **2026-06-22** | [Enhancing Deep Type Inference Using Dynamic Analysis for Python](https://dl.acm.org/doi/full/10.1145/3771544) | kw: type-systems

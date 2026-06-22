@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Best Data Structures and Algorithms Courses [2026]](https://scrimba.com/articles/best-data-structures-and-algorithms-courses-2026/) | kw: Best Data
+
 
 
 - **2026-06-22** | [faang-interview · GitHub Topics · GitHub](https://github.com/topics/faang-interview) | kw: algorithms
