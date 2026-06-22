@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Understanding Python GIL - Key Questions About the Global Interpreter Lock - MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: moldstud.com-articles-p-understanding-python-gil-key-questio
+- **2026-06-22** | [Python's GIL Is Gone — What That Actually Means for Your Code - Python in Plain English](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python.plainenglish.io-pythons-gil-is-gone-what-that-actuall
+- **2026-06-22** | [What's new in Python 3.14 - Python documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: docs.python.org-3-whatsnew-3.14.html
+- **2026-06-22** | [Thread states and the global interpreter lock - Python 3.14.6 documentation](https://docs.python.org/3/c-api/threads.html) | kw: docs.python.org-3-c-api-threads.html
+- **2026-06-22** | [Faster Python: Unlocking the Python Global Interpreter Lock - JetBrains PyCharm Blog](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: blog.jetbrains.com-pycharm-2025-07-faster-python-unlocking-t
+- **2026-06-22** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading's Inner Mechanics - Medium](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: medium.com-codex-tearing-off-the-gil-veil-a-deep-dive-into-p
+
 - **2026-06-22** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: pythoncompiler-io-python-python-internals
 - **2026-06-22** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: www-udemy-com-course-python-interview-questions-with-answers
 - **2026-06-22** | [15+ Advanced Python Interview Questions and Answers 2026](https://interviewkickstart.com/blogs/interview-questions/advanced-python-interview-questions) | kw: interviewkickstart-com-blogs-interview-questions-advanced-py

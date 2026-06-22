@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [1. Building a JIT: Starting out with KaleidoscopeJIT — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: llvm.org-docs-tutorial-buildingajit1.html
+- **2026-06-22** | [3. Building a JIT: Per-function Lazy Compilation — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: llvm.org-docs-tutorial-buildingajit3.html
+- **2026-06-22** | [4. Kaleidoscope: Adding JIT and Optimizer Support — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl04.html) | kw: llvm.org-docs-tutorial-myfirstlanguagefrontend-langimpl04.ht
+- **2026-06-22** | [Implementing a JIT Compiler with Haskell and LLVM ( Stephen Diehl )](https://smunix.github.io/www.stephendiehl.com/llvm/index.html) | kw: smunix.github.io-www.stephendiehl.com-llvm-index.html
+- **2026-06-22** | [GitHub - jmmartinez/easy-just-in-time: LLVM Optimization to extract a function, embedded in its intermediate representation in the binary](https://github.com/jmmartinez/easy-just-in-time) | kw: github.com-jmmartinez-easy-just-in-time
+- **2026-06-22** | [Improving performance of JNA by using LLVM JIT compiler | IEEE Conference Publication](https://ieeexplore.ieee.org/document/6607886/) | kw: ieeexplore.ieee.org-document-6607886
+- **2026-06-22** | [Chapter 9: JIT Compilation - Learn LLVM 17 - Second Edition [Book]](https://www.oreilly.com/library/view/learn-llvm-17/9781837631346/B19561_09.xhtml) | kw: www.oreilly.com-library-view-learn-llvm-17-9781837631346-b19
+- **2026-06-22** | [Building a Minimal Just-In-Time Compiler in C Using LLVM C API | IT trip](https://en.ittrip.xyz/c-language/jit-c-llvm-tutorial) | kw: en.ittrip.xyz-c-language-jit-c-llvm-tutorial
+- **2026-06-22** | [ClangJIT: Enhancing C++ with Just-in-Time Compilation Hal Finkel](https://sc19.supercomputing.org/proceedings/workshops/workshop_files/ws_p3hpc107s2-file1.pdf) | kw: sc19.supercomputing.org-proceedings-workshops-workshop-files
+
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: llvm-org-OpenProjects-html
 - **2026-06-22** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: summerofcode-withgoogle-com-programs-2026-organizations-llvm
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: llvm-org

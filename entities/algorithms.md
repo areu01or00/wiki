@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has the format shifted? - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: www.reddit.com-r-careeradvice-comments-1tzzhde-are-big-tech-
+- **2026-06-22** | [Data Structures/Algorithms to go over the day of the test - LeetCode Discuss](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: leetcode.com-discuss-interview-question-820191-data-structur
+- **2026-06-22** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: www.techinterview.net-questions-data-structures-algorithms-i
+- **2026-06-22** | [Explore - LeetCode System Design](https://leetcode.com/explore/learn/card/system-design/) | kw: leetcode.com-explore-learn-card-system-design
+- **2026-06-22** | [Data Structure and Algorithm Patterns for LeetCode Interviews - YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: www.youtube.com-watch-v-z-c4bylrnbu
+- **2026-06-22** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: www.scaler.com-blog-dsa-roadmap
+- **2026-06-22** | [DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: www.coursera.org-resources-dsa-learning-roadmap
+- **2026-06-22** | [Data Structures and Algorithms in 2026: What Backend Developers Actually Need to Know - Nucamp](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: www.nucamp.co-blog-data-structures-and-algorithms-in-2026-wh
+
 - **2026-06-22** | [Best Websites to Practice DSA Mock Tests in (2026)](https://www.placementpreparation.io/blog/best-websites-for-dsa-mock-tests/) | kw: www-placementpreparation-io-blog-best-websites-for-dsa-mock-
 - **2026-06-22** | [DSA Roadmap: Learn Data Structures and Algorithms [2026]](https://www.scaler.com/blog/dsa-roadmap/) | kw: www-scaler-com-blog-dsa-roadmap
 - **2026-06-22** | [Namaste DSA Sheet | To Crack FAANG & PBC's Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: namastedev-com-namaste-dsa-sheet

@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Program Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026/) | kw: javarevisited.wordpress.com-2026-05-22-9-essential-software-
+- **2026-06-22** | [The Design Patterns for Distributed Systems Handbook – Key Concepts Every Developer Should Know](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/) | kw: www.freecodecamp.org-news-design-patterns-for-distributed-sy
+- **2026-06-22** | [GitHub - Sairyss/system-design-patterns: Resources related to distributed systems, system design, microservices, scalability and performance, etc](https://github.com/Sairyss/system-design-patterns) | kw: github.com-sairyss-system-design-patterns
+- **2026-06-22** | [Catalog of Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) | kw: martinfowler.com-articles-patterns-of-distributed-systems
+- **2026-06-22** | [Building Resilient Distributed Systems with Modern Patterns - NamasteDev Blogs](https://namastedev.com/blog/building-resilient-distributed-systems-with-modern-patterns/) | kw: namastedev.com-blog-building-resilient-distributed-systems-w
+- **2026-06-22** | [System Design in 2026: The Complete Guide (18,500 words) - DEV Community](https://dev.to/yakhilesh/system-design-in-2026-the-complete-guide-18500-words-3nn6) | kw: dev.to-yakhilesh-system-design-in-2026-the-complete-guide-18
+- **2026-06-22** | [The Complete Guide to System Design in 2026](https://grokkingthesystemdesign.com/complete-guide-to-system-design/) | kw: grokkingthesystemdesign.com-complete-guide-to-system-design
+- **2026-06-22** | [Distributed System Design: A Complete Guide for Beginners (Concepts, Patterns, Examples)](https://www.designgurus.io/blog/distributed-system-design-guide-for-beginners) | kw: www.designgurus.io-blog-distributed-system-design-guide-for-
+- **2026-06-22** | [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) | kw: www.amazon.com-designing-distributed-systems-patterns-paradi
+
 - **2026-06-22** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: upcloud-com-blog-modern-software-architecture-patterns-2026-
 - **2026-06-22** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: dev-to-fahimulhaq-complete-guide-to-system-design-oc7
 - **2026-06-22** | [Complete System Design Roadmap 2026 - Dev Kant Kumar](https://www.devkantkumar.com/blog/complete-system-design-roadmap-2026/) | kw: www-devkantkumar-com-blog-complete-system-design-roadmap-202

@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [NJPLS May 2026](https://njpls.org/may2026.html) | kw: njpls.org-may2026.html
+- **2026-06-22** | [Type Inference for Functional and Imperative Dynamic Languages](https://dl.acm.org/doi/10.1145/3798220) | kw: dl.acm.org-doi-10.1145-3798220
+- **2026-06-22** | [Guard Analysis and Safe Erasure Gradual Typing](https://arxiv.org/abs/2408.14345) | kw: arxiv.org-abs-2408.14345
+- **2026-06-22** | [Efficient Selection of Type Annotations (abs)](https://arxiv.org/abs/2603.05649) | kw: arxiv.org-abs-2603.05649
+- **2026-06-22** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: www.oflight.co.jp-en-columns-luau-type-system-strict-mode-gu
+
 - **2026-06-22** | [[2408.14345] Guard Analysis and Safe Erasure Gradual Typing](https://arxiv.org/abs/2408.14345) | kw: arxiv-org-abs-2408-14345
 - **2026-06-22** | [Efficient Selection of Type Annotations for Performance](https://programming-journal.org/2026/11/3/) | kw: programming-journal-org-2026-11-3
 - **2026-06-22** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: elixir-lang-org-blog-2026-01-09-type-inference-of-all-and-ne
