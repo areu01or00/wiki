@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system - Wikipedia
+- **2026-06-22** | [Type inference of all constructs and the next 15 months - Elixir](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months - Elixir
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance Improvement](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Improvement
+- **2026-06-22** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir - arXiv](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir - arXiv
+
 - **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau (programming language)
 - **2026-06-22** | [Gradual typing in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/gradual-typing-in-python/) | kw: Gradual typing in
 - **2026-06-22** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for

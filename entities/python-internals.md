@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of Python Internals: Exploring GIL Removal and Other Optimizations
+- **2026-06-22** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks
+- **2026-06-22** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?
+- **2026-06-22** | [Python Memory Management: GIL Deep Dive - Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Memory Management: GIL Deep Dive - Medium
+- **2026-06-22** | [Memory Management & GIL: Python Guide (2026) - Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management & GIL: Python Guide (2026) - Edugators
+
 - **2026-06-22** | [Python 3.14: The present and future of the language of the moment](https://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python 3.14: The present and f
 
 - **2026-06-22** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: What's new in

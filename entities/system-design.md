@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems | Architecture Patterns - GitScrum Docs
+- **2026-06-22** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls
+
 - **2026-06-22** | [Design Patterns](https://refactoring.guru/design-patterns) | kw: Design Patterns
 - **2026-06-22** | [System Design & Distributed Systems | اقرأ-تِك](https://eqraatech.com/visual-guides/system-design-distributed-systems/) | kw: System Design & Distributed Sy
 - **2026-06-22** | [A pattern language for microservices](https://microservices.io/patterns/index.html) | kw: A pattern language for microse
