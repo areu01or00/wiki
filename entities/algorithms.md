@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [algorithms-datastructures - 技术专题深度解读 | GitHub 中文社区](https://github-cn.com/topics/algorithms-datastructures) | kw: algorithms-datastructures - 技术专题深度解读 | source: algorithms
+- **2026-06-22** | [Eq%20technologic Interview Questions & Experiences 2026](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/EQ+Technologic) | kw: Eq%20technologic Interview Questions | source: algorithms
+
 
 - **2026-06-22** | [Why graphs are the hardest topic in LeetCode - LinkedIn](https://www.linkedin.com/posts/kunal-kushwaha_when-it-comes-to-leetcode-style-interview-activity-7362154041948213248-Wy9Q) | kw: Why graphs are the hardest topic in LeetCode - Lin | source: algorithms
 - **2026-06-22** | [Top Graph LeetCode Questions Asked in Google Interviews (2026)](https://www.hackmnc.com/blogs/google-graph-leetcode-questions) | kw: Top Graph LeetCode Questions Asked in Google Inter | source: algorithms

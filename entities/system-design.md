@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Pattern: Saga](https://microservices.io/patterns/data/saga.html) | kw: Pattern: Saga | source: system-design
+
 - **2026-06-22** | [Top Node.js Design Patterns You Should Know in 2026 - NareshIT](https://nareshit.com/blogs/top-nodejs-design-patterns-2026) | kw: System Design
 
 

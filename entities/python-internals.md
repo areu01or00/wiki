@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Dynamic Python Code Generation in ML - apxml](https://apxml.com/courses/advanced-python-programming-ml/chapter-3-metaprogramming-python-internals-ml/dynamic-code-generation-execution) | kw: Dynamic Python Code | source: python-internals
+- **2026-06-22** | [sys - System-specific parameters - Python docs](https://docs.python.org/3/library/sys.html) | kw: sys - System-specific | source: python-internals
+
 
 - **2026-06-22** | [Runtime Infrastructure | python/cpython | DeepWiki](https://deepwiki.com/python/cpython/5-runtime-infrastructure) | kw: cpython-runtime, interpreter-state, GIL-internals
 
