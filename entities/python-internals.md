@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: Internals of Python 3.x: Derive Maximum Code Performance and
+- **2026-06-22** | [Fix windows 10/11 blue screen stop code memory management error](https://www.youtube.com/watch?v=nko2Ay6nW38) | kw: Fix windows 10/11 blue screen stop code memory management er
+- **2026-06-22** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: Top Python Interview Questions and Answers
+- **2026-06-22** | [Advanced Python Concepts - DEV Community](https://dev.to/ashutoshsarangi/advanced-python-concepts-3ci8) | kw: Advanced Python Concepts - DEV Community
+- **2026-06-22** | [Python Interview Questions: Deepcopy, Shallowcopy, Memory...](https://www.linkedin.com/posts/cnectashutosh_python-interviews-careergrowth-activity-7365879339483058176-Gwar) | kw: Python Interview Questions: Deepcopy, Shallowcopy, Memory...
+- **2026-06-22** | [The Python Interview Question That Stumps 80% of... | Level Up Coding](https://levelup.gitconnected.com/the-python-interview-question-that-stumps-80-of-senior-developers-and-how-to-master-it-c74bbc5cb9c0) | kw: The Python Interview Question That Stumps 80% of...   Level 
+- **2026-06-22** | [Understanding the Python GIL | PDF](https://www.slideshare.net/slideshow/understanding-the-python-gil/5286271) | kw: Understanding the Python GIL   PDF
+
 - **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of Python Internals: Exploring GIL Removal and...
 - **2026-06-22** | [What is the Global Interpreter Lock (GIL) in Python? Is It...](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the Global Interpreter Lock (GIL) in Python? Is It..
 - **2026-06-22** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory Management & GIL: Python Guide (2026)

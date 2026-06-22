@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Scala in the AI Era: Why Type Safety Matters for LLM Systems (2026)](https://scalac.io/blog/scala-ai-type-safety-llm/) | kw: Scala in the AI Era: Why Type Safety Matters for LLM Systems
+- **2026-06-22** | [Typescript Pro for Claude Code & Claude Desktop | mdskills.ai](https://www.mdskills.ai/skills/typescript-pro) | kw: Typescript Pro for Claude Code & Claude Desktop   mdskills.a
+- **2026-06-22** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynamic Languag
+- **2026-06-22** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb) | kw: Everything you have to Know about Type Hinting In Python
+- **2026-06-22** | [Gradual Typing: Bridging the Gap Between Static and Dynamic Worlds](https://daily.jovis.ai/programming-languages/gradual-typing-bridging-the-gap-between-static-and-dynamic-worlds/) | kw: Gradual Typing: Bridging the Gap Between Static and Dynamic 
+- **2026-06-22** | [Putting Gradual Types to Work | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-030-67438-0_4) | kw: Putting Gradual Types to Work   Springer Nature Link
+- **2026-06-22** | [Python Type Hints: The Complete Guide (2026)](https://generalistprogrammer.com/tutorials/python-type-hints-complete-guide) | kw: Python Type Hints: The Complete Guide (2026)
+- **2026-06-22** | [create.roblox.com/docs/luau/type-checking.md](https://create.roblox.com/docs/luau/type-checking.md) | kw: create.roblox.com/docs/luau/type-checking.md
+- **2026-06-22** | [Reconciling noninterference and gradual typing](https://www.researchgate.net/publication/341650382_Reconciling_noninterference_and_gradual_typing) | kw: Reconciling noninterference and gradual typing
+
 - **2026-06-22** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system
 - **2026-06-22** | [Guard Analysis and Safe Erasure Gradual Typing - arXiv](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing
 - **2026-06-22** | [Efficient Selection of Type Annotations for Performance - Programming Journal](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance

@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) - Wikipedia
+- **2026-06-22** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026   Functional Type-Safe Monads   GitScru
+- **2026-06-22** | [Just how much can you do with functions? | Haskell, Functional...](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: Just how much can you do with functions?   Haskell, Function
+- **2026-06-22** | [monad · GitHub Topics · GitHub](https://github.com/topics/monad) | kw: monad · GitHub Topics · GitHub
+
 - **2026-06-22** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - Discourse](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: Pure Borrow: Linear Haskell Meets Rust-Style Borrowing
 - **2026-06-22** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Through Rust
 - **2026-06-22** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell Foundation 2026 Update
