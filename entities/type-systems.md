@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau (programming language) - Wikipedia
+- **2026-06-22** | [Scala in the AI Era: Why Type Safety Matters for LLM Systems (2026)](https://scalac.io/blog/scala-ai-type-safety-llm/) | kw: Scala in the AI Era: Why Type Safety Matters for LLM Systems
+- **2026-06-22** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb?responsesOpen=true&sortBy=REVERSE_CHRON) | kw: Everything you have to Know about Type Hinting In Python
+- **2026-06-22** | [Gradual typing in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/gradual-typing-in-python/) | kw: Gradual typing in Python - GeeksforGeeks
+
 - **2026-06-22** | [Gradual typing - Wikipedia](https://en.m.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
 - **2026-06-22** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: type-systems
 - **2026-06-22** | [Elixir’s Gradual Type System (1.17–1.20): How the Compiler Finally](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: type-systems

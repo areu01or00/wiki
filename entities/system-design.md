@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [50 System Design Patterns Every Engineer Should Know in 90 ..](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer Should Know in 90 .
+- **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed ..](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architecture Patterns for Scalable Dist
+
 - **2026-06-22** | [This Is What Actually Scales in 2026 | by Kavya's Programming Path](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: Programming
 
 - **2026-06-22** | [Architectural Patterns of Resilient Distributed Systems - YouTube](https://www.youtube.com/watch?v=ohvPnJYUW1E) | kw: system-design

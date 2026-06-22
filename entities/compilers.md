@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: The LLVM Compiler Infrastructure Project
+- **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ..](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 T
+- **2026-06-22** | [GitHub - llvm/llvm-project: The LLVM Project](https://github.com/llvm/llvm-project) | kw: GitHub - llvm/llvm-project: The LLVM Project
+
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
 - **2026-06-22** | [A Minimal LLVM JIT example for LLVM-5](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: compilers
 

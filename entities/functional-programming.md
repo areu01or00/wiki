@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns in Rust: Exploring Functional
+- **2026-06-22** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: monad in Functional programming - DEV Community
+- **2026-06-22** | [Monads | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/category/monads/) | kw: Monads | Bartosz Milewski's Programming Cafe
+
 - **2026-06-22** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional-programming
 
 - **2026-06-22** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional-programming
