@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: llvm
+- **2026-06-22** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: summerofcode.withgoogle
+- **2026-06-22** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: fosdem
+
 - **2026-06-22** | [LLVM JIT support for caching compiled output - Stack Overflow](https://stackoverflow.com/questions/48077883/llvm-jit-support-for-caching-compiled-output) | kw: compilers
 - **2026-06-22** | [LLVM Compiler Overview version 2 - General - Xojo Programming...](https://forum.xojo.com/t/llvm-compiler-overview-version-2/88463) | kw: compilers
 - **2026-06-22** | [Chris Lattner: Compilers, LLVM, Swift, TPU, and ML... - YouTube](https://www.youtube.com/watch?v=yCd3CzGSte8) | kw: compilers

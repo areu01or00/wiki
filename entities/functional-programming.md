@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: lukastymo
+- **2026-06-22** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: reddit
+- **2026-06-22** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: lobste.rs
+- **2026-06-22** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: arxiv
+- **2026-06-22** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: discourse.haskell
+
 - **2026-06-22** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Functional Programming
 - **2026-06-22** | [Monads And Their Use in Modern Programming](https://www.linkedin.com/pulse/monads-use-modern-programming-enrique-ortu%C3%B1o-znk9f) | kw: Functional Programming
 
