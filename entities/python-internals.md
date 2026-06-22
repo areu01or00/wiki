@@ -2,6 +2,8 @@
 
 ## Updates
 
+- **2026-06-22** | [Python Internals For Developers PDF - eBooks Review](https://ardhindie.com/pdf/python-internals-for-developers) | kw: Python | source: python-internals
+
 - **2026-06-22** | [Mastering The Global Interpreter Lock (GIL) | Python Course](https://course4all.com/python/py-gil-internals/) | kw: python-internals
 - **2026-06-22** | [CPython Internals: Reference Counting, Cycle Detection, and GC](https://www.abstractalgorithms.dev/cpython-internals-reference-counting-gc) | kw: python-internals
 - **2026-01-03** | [Python's GIL Explained: The Hidden Lock That Affects Your Code](https://medium.com/@sizanmahmud08/pythons-gil-explained-the-hidden-lock-that-affects-your-code-2026-guide-3911d61e146b) | kw: python-internals

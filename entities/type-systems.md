@@ -2,6 +2,7 @@
 
 ## Updates
 
+
 - **2026-06-22** | [Enhancing Deep Type Inference Using Dynamic Analysis for Python](https://dl.acm.org/doi/full/10.1145/3771544) | kw: type-systems
 - **2026-05-05** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
 - **2026-02-15** | [Efficient Selection of Type Annotations for Performance Optimization - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type-systems

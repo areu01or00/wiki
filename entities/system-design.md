@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [System Design Primer - Awesome Repository](https://awesome-repositories.com/repository/donnemartin-system-design-primer) | kw: System | source: system-design
+
 - **2026-06-22** | [Cloud Design Patterns - Azure Architecture Center - Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/) | kw: Cloud Design
 - **2026-06-22** | [10 Truths in Distributed System Design - apidays India 2026](https://confengine.com/conferences/apidays-india-2026/proposal/50218/10-truths-in-distributed-system-design) | kw: Truths Distributed
 - **2026-06-22** | [8 Most-Used Distributed System Design Patterns | Akash Kumar](https://www.linkedin.com/posts/akashsinnghh_8-most-used-distributed-system-designpatterns-activity-7308054120697888768-Noa4) | kw: Most Used

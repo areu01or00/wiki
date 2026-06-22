@@ -2,6 +2,7 @@
 
 ## Updates
 
+
 - **2026-06-22** | [faang-interview · GitHub Topics · GitHub](https://github.com/topics/faang-interview) | kw: algorithms
 - **2026-06-22** | [70 Leetcode problems in 5+ hours (every data structure)](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: algorithms
 - **2026-03-20** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.scien.cx/2025/07/22/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial/) | kw: algorithms

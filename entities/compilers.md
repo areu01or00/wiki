@@ -1,6 +1,7 @@
 # Compilers
 
 ## Updates
+
 - **2026-06-22** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: LLVM JIT
 
 
