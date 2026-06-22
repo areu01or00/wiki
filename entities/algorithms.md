@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most,Asked,LeetCode
+- **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are,Big,Tech
+- **2026-06-22** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How,to,prepare
+- **2026-06-22** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data,Structures,&
+- **2026-06-22** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode,Isn't,Dead
+- **2026-06-22** | [GitHub - kashifansari17/Leetcode-TOP-75-](https://github.com/kashifansari17/Leetcode-TOP-75-) | kw: GitHub,-,kashifansari17/Leetcode-TOP-75-
+- **2026-06-22** | [Company-Wise LeetCode Questions (2026): DSA Practice by ...](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company-Wise,LeetCode,Questions
+- **2026-06-22** | [Explore - LeetCode](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: Explore,-,LeetCode
+- **2026-06-22** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: Data,Structures,Interview
+- **2026-06-22** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data,Structures,&
+
 - **2026-06-22** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms · GitHub Topic
 - **2026-06-22** | [Golang: Interview Bootcamp on HackerRank, LeetCode Algos](https://www.udemy.com/course/golang-interview-bootcamp-on-datastructures-leetcode-algos/) | kw: Interview Bootcamp on HackerRank, LeetCo
 - **2026-06-22** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.scien.cx/2025/07/22/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial/) | kw: Data Structure and Algorithm Patterns fo

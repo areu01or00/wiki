@@ -1,6 +1,17 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: The,LLVM,Compiler
+- **2026-06-22** | [LLVM Compiler Infrastructure - Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM,Compiler,Infrastructure
+- **2026-06-22** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The,Case,For
+- **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst,at,course-spring-2026
+- **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · chekalexey/compiler-course-2026 · GitHub](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst,at,course-spring-2026
+- **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers,and,Modern
+- **2026-06-22** | [AI-Compiler Prompt Engineering: 2026 Cheat Sheet [Deep Dive]](https://techbytes.app/posts/ai-compiler-prompt-engineering-2026-cheat-sheet) | kw: AI-Compiler,Prompt,Engineering:
+- **2026-06-22** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: The,LLVM,Compiler
+- **2026-06-22** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: ML,Compiler,Optimization
+- **2026-06-22** | [Compiler & Interpreter Design: From Parsers to LLVM and AI Compilers (TVM/XLA)](https://www.youngju.dev/blog/ai/2026-03-17-compiler-interpreter-design-guide.en) | kw: Compiler,&,Interpreter
+
 - **2026-06-22** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project
 - **2026-06-22** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT at Scale with the llvm-autojit Pl

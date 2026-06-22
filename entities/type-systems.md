@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir,v1.20,released:
+- **2026-06-22** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type,system,|
+- **2026-06-22** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What,type,systems
+- **2026-06-22** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing) | kw: Gradual,Typing,–
+- **2026-06-22** | [gradual-typing – Programming Research Group](https://prg.is.titech.ac.jp/en/category/project/type/gradual-typing) | kw: gradual-typing,–,Programming
+- **2026-06-22** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau,Type,System
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient,Selection,of
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: Efficient,Selection,of
+- **2026-06-22** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation) | kw: Gradual,Typing,-
+- **2026-06-22** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations,for,Gradual
+
 - **2026-06-22** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the
 - **2026-06-22** | [[PDF] Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: [PDF] Type Inference for Functional and
 
