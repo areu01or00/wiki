@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [15+ Advanced Python Interview Questions and Answers 2026](https://interviewkickstart.com/blogs/interview-questions/advanced-python-interview-questions) | kw: Python
+- **2026-06-22** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Python
+- **2026-06-22** | [Fix windows 10/11 blue screen stop code memory management error](https://www.youtube.com/watch?v=nko2Ay6nW38) | kw: Management
+- **2026-06-22** | [Rust Systems Python Bindings: Maturin for Safe Memory...](https://johal.in/rust-systems-python-bindings-maturin-for-safe-memory-management-2026/) | kw: Python
+
 - **2026-06-22** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: gil
 - **2026-06-22** | [Hardware Usage and Energy Implications of Removing the GIL](https://arxiv.org/html/2603.04782v1) | kw: gil
 - **2026-06-22** | [Advanced Python 4— GIL in Python - by Abhishek Jain - Medium](https://medium.com/@abhishekjainindore24/advanced-python-4-gil-in-python-375321837f3c) | kw: gil

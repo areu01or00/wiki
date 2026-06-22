@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: Data Structures and
+- **2026-06-22** | [I Tried 20+ Java DSA Courses with LeetCode Exercises ... - Medium](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: Leetcode
+- **2026-06-22** | [LeetCode Review (2026): Is It Worth It?](https://coddy.tech/vs/leetcode) | kw: Leetcode
+
 - **2026-06-22** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: dsa
 - **2026-06-22** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: leetcode
 - **2026-06-22** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: interview
