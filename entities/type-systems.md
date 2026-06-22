@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US Typing Summit
+- **2026-06-22** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems do
+
 - **2026-06-22** | [Gradual typing](https://grokipedia.com/page/Gradual_typing) | kw: Gradual typing
 
 

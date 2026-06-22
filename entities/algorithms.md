@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [70 Leetcode problems in 5+ hours (every data structure)... - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: Leetcode problems in hours
+- **2026-06-22** | [leetcode-python · GitHub Topics · GitHub](https://github.com/topics/leetcode-python) | kw: leetcode python GitHub Topics
+- **2026-06-22** | [LeetCode Review (2026): Is It Worth It?](https://coddy.tech/vs/leetcode) | kw: LeetCode Review Is It
+- **2026-06-22** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.scien.cx/2025/07/22/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial/) | kw: Data Structure and Algorithm
+- **2026-06-22** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: Problems LeetCode
+
 - **2026-06-22** | [Best Data Structures and Algorithms Courses [2026]](https://scrimba.com/articles/best-data-structures-and-algorithms-courses-2026/) | kw: Best Data
 
 

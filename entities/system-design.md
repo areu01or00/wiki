@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs Decentralized vs
+- **2026-06-22** | [AI Systems Are Quietly Becoming Distributed Systems | Towards AI](https://pub.towardsai.net/ai-systems-are-quietly-becoming-distributed-systems-75b42a7cb21e) | kw: AI Systems Are Quietly
+
 - **2026-06-22** | [System Design Primer - Awesome Repository](https://awesome-repositories.com/repository/donnemartin-system-design-primer) | kw: System | source: system-design
 
 - **2026-06-22** | [Cloud Design Patterns - Azure Architecture Center - Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/) | kw: Cloud Design

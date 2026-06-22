@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How Python Works Under
+- **2026-06-22** | [Advanced Python Internals: GIL, Multithreading - DEV Community](https://dev.to/aman_kumar_6d5d23b9b1ed02/advanced-python-internals-gil-multithreading-20mk) | kw: Advanced Python Internals GIL
+- **2026-06-22** | [15+ Advanced Python Interview Questions and Answers 2026](https://interviewkickstart.com/blogs/interview-questions/advanced-python-interview-questions) | kw: Advanced Python Interview Questions
+- **2026-06-22** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals of Python Derive
+
 
 - **2026-06-22** | [Python Internals For Developers PDF - eBooks Review](https://ardhindie.com/pdf/python-internals-for-developers) | kw: Python | source: python-internals
 
