@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [This Is What Actually Scales in 2026 | by Kavya's Programming Path](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: Programming
+
 - **2026-06-22** | [Architectural Patterns of Resilient Distributed Systems - YouTube](https://www.youtube.com/watch?v=ohvPnJYUW1E) | kw: system-design
 - **2026-06-22** | [System Design Roadmap](https://roadmap.sh/system-design) | kw: system-design
 

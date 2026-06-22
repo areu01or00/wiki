@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python 3.14: The present and future of the language of the moment](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Future
+
 - **2026-06-22** | [What's new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html) | kw: python-internals
 - **2026-06-22** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: python-internals
 - **2026-06-22** | [Thread states and the global interpreter lock](https://docs.python.org/3/c-api/threads.html) | kw: python-internals
