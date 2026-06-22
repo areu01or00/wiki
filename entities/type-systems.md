@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: released
+- **2026-06-22** | [[2408.14345] Guard Analysis and Safe Erasure Gradual Typing ...Efficient Selection of Type Annotations for Performance ...Type inference of all constructs and the next 15 months[2603.05649] Efficient Selection of Type Annotations for ...Luau Type System Complete Guide — Strict Mode, Generics ...](https://arxiv.org/abs/2408.14345) | kw: months[2603.05649
+- **2026-06-22** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient
+- **2026-06-22** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type
+- **2026-06-22** | [[2603.05649] Efficient Selection of Type Annotations for ...Luau Type System Complete Guide — Strict Mode, Generics ...](https://arxiv.org/abs/2603.05649) | kw: 2603.05649
+
 - **2026-06-22** | [Scala in the AI Era: Why Type Safety Matters for LLM Systems (2026)](https://scalac.io/blog/scala-ai-type-safety-llm/) | kw: Scala in the AI Era: Why Type Safety Matters for LLM Systems
 - **2026-06-22** | [Typescript Pro for Claude Code & Claude Desktop | mdskills.ai](https://www.mdskills.ai/skills/typescript-pro) | kw: Typescript Pro for Claude Code & Claude Desktop   mdskills.a
 - **2026-06-22** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynamic Languag

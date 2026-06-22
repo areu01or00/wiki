@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: documentation
+- **2026-06-22** | [clang - LLVM jit and native - Stack Overflow](https://stackoverflow.com/questions/3509215/llvm-jit-and-native) | kw: Overflow
+- **2026-06-22** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
+
 - **2026-06-22** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation - Wikipedia
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project
 - **2026-06-22** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026

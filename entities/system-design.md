@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: started
+- **2026-06-22** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: Jishu
+- **2026-06-22** | [System Design Interview: Design a Distributed Search Engine...](https://www.techinterview.org/post/3233464068/system-design-distributed-search/) | kw: Interview
+- **2026-06-22** | ["Architectural Patterns of Resilient Distributed Systems..." - YouTube](https://www.youtube.com/watch?v=ohvPnJYUW1E) | kw: Architectural
+
 - **2026-06-22** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System Design in 2026 - DEV Community
 - **2026-06-22** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: A Guide to Large-Scale Distributed Systems (2026)
 - **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architecture Patterns for Scalable Dist

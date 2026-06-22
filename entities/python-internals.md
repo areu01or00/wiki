@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Change
+- **2026-06-22** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: documentation
+- **2026-06-22** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Python's
+- **2026-06-22** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye
+- **2026-06-22** | [Thread states and the global interpreter lock — Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: 3.14.6
+
 - **2026-06-22** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: Internals of Python 3.x: Derive Maximum Code Performance and
 - **2026-06-22** | [Fix windows 10/11 blue screen stop code memory management error](https://www.youtube.com/watch?v=nko2Ay6nW38) | kw: Fix windows 10/11 blue screen stop code memory management er
 - **2026-06-22** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: Top Python Interview Questions and Answers
