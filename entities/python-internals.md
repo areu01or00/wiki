@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: What's new in
+- **2026-06-22** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL
+- **2026-06-22** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye GIL Exploring
+- **2026-06-22** | [Thread states and the global interpreter lock — Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and
+- **2026-06-22** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading's ...](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: Tearing Off the
+- **2026-06-22** | [Python 3.14: The present and future of the language of the moment](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python 3.14 The
+- **2026-06-22** | [Understanding how GIL Affects Checkpoint Performance in PyTorch ...](https://www.shayon.dev/post/2026/38/understanding-how-gil-affects-checkpoint-performance-in-pytorch-training/) | kw: Understanding how GIL
+
 - **2026-06-22** | [Explain the Global Interpreter Lock (GIL) in Python](https://4achievers.com/information/in/delhi/python-training/explain-the-global-interpreter-lock-gil-in-python) | kw: Python internals GIL memory management 2026
 
 - **2026-06-22** | [Python Interview Questions: Key Features, Memory Management - LinkedIn](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: python-internals

@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: The LLVM Compiler
+- **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJ
+- **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern
+- **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler course 2026/llvm/docs/tutorial/BuildingAJ
+- **2026-06-22** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just In Time
+- **2026-06-22** | [LLVM Compiler Overview version 2 - General - Xojo Programming...](https://forum.xojo.com/t/llvm-compiler-overview-version-2/88463) | kw: LLVM Compiler Overview
+- **2026-06-22** | [Chris Lattner: Compilers, LLVM, Swift, TPU, and ML... - YouTube](https://www.youtube.com/watch?v=yCd3CzGSte8) | kw: Chris Lattner Compilers,
+- **2026-06-22** | [Generating and Executing LLVM IR Code from Java Using... | FeedBagel](https://feedbagel.com/post/generating-and-executing-llvm-ir-code-from-java-using-foreign-function-memory-ap) | kw: Generating and Executing
+
 - **2026-06-22** | [LLVM compile time tracker](https://llvm-compile-time-tracker.com/) | kw: LLVM compile time tracker
 
 - **2026-06-22** | [Search: [llvm] - Bookmarks](https://links.cpollet.io/?searchtags=llvm) | kw: Search: [llvm] - Bookmarks

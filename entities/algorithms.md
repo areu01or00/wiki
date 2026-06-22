@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap Learn
+- **2026-06-22** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap
+- **2026-06-22** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: ashishps1/awesome leetcode resources
+- **2026-06-22** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning ...](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures &
+- **2026-06-22** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode The World's
+- **2026-06-22** | [Data Structures and Algorithms in 2026: What Backend ...](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: Data Structures and
+- **2026-06-22** | [leetcode-solutions · GitHub Topics · GitHub](https://github.com/topics/leetcode-solutions) | kw: leetcode solutions ·
+
 - **2026-06-22** | [The Best Way To Learn Algorithms and Data Structures](https://dev.to/salarc123/the-best-way-to-learn-algorithms-and-data-structures-24cn) | kw: algorithms data structures LeetCode interview 2026
 
 - **2026-06-22** | [Best Data Structures & Algorithms Courses (2026)](https://onlinecourseing.com/best-data-structures-algorithms-courses/) | kw: algorithms

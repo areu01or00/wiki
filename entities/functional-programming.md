@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Community version of "Learn You a Haskell..." (2026 update)](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community version of
+
 - **2026-06-22** | [rust - Lifting function to Option - Stack Overflow](https://stackoverflow.com/questions/63260988/lifting-function-to-option) | kw: functional-programming
 - **2026-06-22** | [Monads Demystified: The Math-Driven Superpower Behind Functional Programming](https://readllm.com/docs/tech/latest/monads-demystified-the-math-driven-superpower-behind-functional-programming/) | kw: functional-programming
 - **2026-06-22** | [Monads: Programmer's Definition - Bartosz Milewski's Programming](https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/) | kw: functional-programming

@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau (programming language)
+- **2026-06-22** | [Gradual typing in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/gradual-typing-in-python/) | kw: Gradual typing in
+- **2026-06-22** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for
+- **2026-06-22** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb) | kw: Everything you have
+- **2026-06-22** | [Gradual Typing: Bridging the Gap Between Static and Dynamic Worlds](https://daily.jovis.ai/programming-languages/gradual-typing-bridging-the-gap-between-static-and-dynamic-worlds/) | kw: Gradual Typing Bridging
+- **2026-06-22** | [Python Type Hints: The Complete Guide (2026)](https://generalistprogrammer.com/tutorials/python-type-hints-complete-guide) | kw: Python Type Hints
+- **2026-06-22** | [Putting Gradual Types to Work | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-030-67438-0_4) | kw: Putting Gradual Types
+- **2026-06-22** | [Total Type Error Localization and Recovery with Holes](https://hazel.org/papers/marking-popl24.pdf) | kw: Total Type Error
+- **2026-06-22** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025/) | kw: Pyre Migrate Django
+
 - **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau (programming language) - Wikipedia
 - **2026-06-22** | [Scala in the AI Era: Why Type Safety Matters for LLM Systems (2026)](https://scalac.io/blog/scala-ai-type-safety-llm/) | kw: Scala in the AI Era: Why Type Safety Matters for LLM Systems
 - **2026-06-22** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb?responsesOpen=true&sortBy=REVERSE_CHRON) | kw: Everything you have to Know about Type Hinting In Python

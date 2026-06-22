@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions
+- **2026-06-22** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed Systems Patterns
+- **2026-06-22** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems Architecture
+- **2026-06-22** | [How I Build a Distributed System in 2026: Principles ...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build
+- **2026-06-22** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: Architecture Styles in
+- **2026-06-22** | [Distributed Systems Patterns Every Backend Engineer Must Know ...](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed Systems Patterns
+- **2026-06-22** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized
+- **2026-06-22** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: System Design Concepts
+
 - **2026-06-22** | [A-Z Modern System Design & Architecture 2K26 Bootcamp](https://www.udemy.com/course/a-z-modern-system-design-architecture-2k26-bootcamp/) | kw: modern
 - **2026-06-22** | [Hands-On: Advanced System Design - Dometrain](https://dometrain.com/course/hands-on-advanced-system-design/) | kw: hands-on
 - **2026-06-22** | [System Design for Agentic AI Systems: From Distributed Systems...](https://www.abstractalgorithms.dev/system-design-for-agentic-ai-systems-from-distributed-principles-to-production) | kw: distributed
