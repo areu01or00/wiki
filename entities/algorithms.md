@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Amazon Interview SDE-1 Selected - LeetCode Discuss](https://leetcode.com/discuss/post/8029194) | kw: amazon interview
+
 - **2026-06-22** | [70 Leetcode problems in 5+ hours (every data structure)... - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: Leetcode problems in hours
 - **2026-06-22** | [leetcode-python · GitHub Topics · GitHub](https://github.com/topics/leetcode-python) | kw: leetcode python GitHub Topics
 - **2026-06-22** | [LeetCode Review (2026): Is It Worth It?](https://coddy.tech/vs/leetcode) | kw: LeetCode Review Is It
