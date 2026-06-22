@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How Python Works
+- **2026-06-22** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: 400 Python Interview
+- **2026-06-22** | [15+ Advanced Python Interview Questions and Answers 2026](https://interviewkickstart.com/blogs/interview-questions/advanced-python-interview-questions) | kw: 15+ Advanced Python
+- **2026-06-22** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: What Is the
+- **2026-06-22** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals of Python
+
 - **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: python internals
 - **2026-06-22** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python internals
 - **2026-06-22** | [What is the GIL in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: python internals

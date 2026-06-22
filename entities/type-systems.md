@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic
+- **2026-06-22** | [TypeScript Overtakes JavaScript: What JVM... - Java Code Geeks](https://www.javacodegeeks.com/2026/03/typescript-overtakes-javascript-what-jvm-developers-need-to-know.html) | kw: TypeScript Overtakes JavaScript:
+- **2026-06-22** | ["Typing the Untyped: Soundness in Gradual Type Systems" by Ben...](https://www.youtube.com/watch?v=uJHD2xyv7xo) | kw: "Typing the Untyped:
+
 - **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems
 - **2026-06-22** | [Guard Analysis and Safe Erasure Gradual Typing for Elixir](https://arxiv.org/abs/2408.14345) | kw: type systems
 - **2026-06-22** | [Luau Type System Complete Guide - Strict Mode, Generics & Type Functions](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: type systems

@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why is llvm
+- **2026-06-22** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM
+- **2026-06-22** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize JIT Compilation
+- **2026-06-22** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A LLVM JIT
+
 - **2026-06-22** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: compilers
 - **2026-06-22** | [wdv4758h/awesome-jit - GitHub](https://github.com/wdv4758h/awesome-jit) | kw: compilers
 - **2026-06-22** | [c++ - LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: compilers
