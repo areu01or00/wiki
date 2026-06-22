@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python Memory Management: GIL Deep Dive](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python
+- **2026-06-22** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What
+- **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future
+
 - **2026-06-22** | [Python Internals: Memory Management & the Global Interpreter Lock (GIL)](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python Internals: Memory Management & the Global Interpreter
 - **2026-06-22** | [Python GIL: The Key to Backend Performance - odysse.io](https://odysse.io/en/gil-in-python-the-key-to-backend-performance-and-multithreading) | kw: Python GIL: The Key to Backend Performance - odysse.io
 - **2026-06-22** | [The GIL Is Finally Dead: Free-Threaded Python Is Production-Ready in 2026 | BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: The GIL Is Finally Dead: Free-Threaded Python Is Production-

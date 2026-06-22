@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Latest Trends in Distributed Systems (2026) – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: Latest
+
 - **2026-06-22** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide to System Design in 2026 AI-Native and Se
 - **2026-06-22** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: A Guide to Large-Scale Distributed Systems (2026)
 - **2026-06-22** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design – Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns in 2026: Mastering Distr

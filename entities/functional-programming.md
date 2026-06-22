@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional
+- **2026-06-22** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: Monads
+- **2026-06-22** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Monad
+- **2026-06-22** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust
+- **2026-06-22** | [Nauths · Practical uses of monads in Haskell](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: Nauths
+
 - **2026-06-22** | [Making Sense of Monads - Monday Morning Haskell](https://academy.mondaymorninghaskell.com/p/making-sense-of-monads) | kw: Making Sense of Monads - Monday Morning Haskell
 - **2026-06-22** | [Example 604: Monad Laws | Functional Rust - hightechmind.io](https://hightechmind.io/rust/604-monad-laws-rust.html) | kw: Example 604: Monad Laws
 - **2026-06-22** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust | PenChef](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam vs. Rust

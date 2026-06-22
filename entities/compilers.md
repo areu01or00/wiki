@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
+- **2026-06-22** | [LLVM Weekly - #648, June 1st 2026](https://llvmweekly.org/issue/648) | kw: LLVM
+- **2026-06-22** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking
+- **2026-06-22** | [Exploring Graal: Next-Generation JIT Compilation for Java - DEV Community](https://dev.to/yanev/exploring-graal-next-generation-jit-compilation-for-java-4b12) | kw: Exploring
+- **2026-06-22** | [LLVM Weekly - a weekly newsletter covering developments in LLVM](https://llvmweekly.org/) | kw: LLVM
+
 - **2026-06-22** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A Deep Dive into LLVM: The Future of Compiler Technology
 - **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 T
 - **2026-06-22** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit) | kw: FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin
