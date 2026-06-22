@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [Best Data Structures & Algorithms Courses (2026)](https://onlinecourseing.com/best-data-structures-algorithms-courses/) | kw: algorithms
+
 - **2026-06-22** | [Data Structures and Algorithms Youtube | TikTok](https://www.tiktok.com/discover/data-structures-and-algorithms-youtube?lang=ru-RU) | kw: Data Structures and Algorithms Youtube
 - **2026-06-22** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: Alternatives and detailed information of Datastructures Algo
 

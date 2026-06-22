@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: system-design
+
 - **2026-06-22** | [50 System Design Patterns Every Engineer Should Know in 90 ..](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer Should Know in 90 .
 - **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed ..](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architecture Patterns for Scalable Dist
 

@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python Interview Questions: Key Features, Memory Management - LinkedIn](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: python-internals
+- **2026-06-22** | [Part 4: Coding for Problem Solving - Agent Factory](https://agentfactory.panaversity.org/docs/Coding-for-Problem-Solving) | kw: python-internals
+- **2026-06-22** | [TestMem5 ошибка в тесте 0, 1, 2, 13, 14](https://testmem5.su/oshibki/) | kw: python-internals
+
 - **2026-06-22** | [15+ Advanced Python Interview Questions and Answers 2026](https://interviewkickstart.com/blogs/interview-questions/advanced-python-interview-questions) | kw: 15+ Advanced Python Interview Questions and Answers 2026
 - **2026-06-22** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals of Python 3.x: Derive Maximum Code Performance and
 - **2026-06-22** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter Lock (GIL)? – Real Pyt
