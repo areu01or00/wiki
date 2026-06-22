@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: LLVM
+- **2026-06-22** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: LLVM
+- **2026-06-22** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM
+- **2026-06-22** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: JIT
+- **2026-06-22** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: LLVM
+- **2026-06-22** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: LLVM
+
 - **2026-06-22** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
 - **2026-06-22** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: compilers

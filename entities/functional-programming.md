@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Haskell
+- **2026-06-22** | [The Practical Value of Functional Programming - Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Monad
+- **2026-06-22** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell
+- **2026-06-22** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Haskell
+- **2026-06-22** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Monad
+- **2026-06-22** | [Haskell Foundation](https://haskell.foundation/) | kw: Haskell
+- **2026-06-22** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Haskell
+- **2026-06-22** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Haskell
+
 - **2026-06-22** | [Rust: Functional Programming & Monads - Medium](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional-programming
 - **2026-06-22** | [rust - Lifting function to Option - Stack Overflow](https://stackoverflow.com/questions/63260988/lifting-function-to-option) | kw: functional-programming
 - **2026-06-22** | [Monad (functional programming) - Grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: functional-programming

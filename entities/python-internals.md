@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python - Python Internals: Memory Management & the Global Interpreter ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: GIL
+- **2026-06-22** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL
+- **2026-06-22** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: GIL
+- **2026-06-22** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: GIL
+- **2026-06-22** | [Mastering The Global Interpreter Lock (GIL) | Python Programming ...](https://course4all.com/python/py-gil-internals/) | kw: GIL
+- **2026-06-22** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: GIL
+- **2026-06-22** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: GIL
+- **2026-06-22** | [Modern Python Best Practices: The 2026 Definitive Guide](https://onehorizon.ai/blog/modern-python-best-practices-the-2026-definitive-guide) | kw: GIL
+
 - **2026-06-22** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python-internals
 - **2026-06-22** | [Advanced Python 4— GIL in Python - Medium by Abhishek Jain](https://medium.com/@abhishekjainindore24/advanced-python-4-gil-in-python-375321837f3c) | kw: python-internals
 - **2026-06-22** | [Hardware Usage and Energy Implications of Removing the GIL - arxiv](https://arxiv.org/html/2603.04782v1) | kw: python-internals
