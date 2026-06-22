@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [A-Z Modern System Design & Architecture 2K26 Bootcamp](https://www.udemy.com/course/a-z-modern-system-design-architecture-2k26-bootcamp/) | kw: modern
+- **2026-06-22** | [Hands-On: Advanced System Design - Dometrain](https://dometrain.com/course/hands-on-advanced-system-design/) | kw: hands-on
+- **2026-06-22** | [System Design for Agentic AI Systems: From Distributed Systems...](https://www.abstractalgorithms.dev/system-design-for-agentic-ai-systems-from-distributed-principles-to-production) | kw: distributed
+
 - **2026-06-22** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: system-design
 
 - **2026-06-22** | [50 System Design Patterns Every Engineer Should Know in 90 ..](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer Should Know in 90 .
