@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [How I Build a Distributed System in 2026: Principles ...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: build distributed system
+- **2026-06-22** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: complete guide system
+- **2026-06-22** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: distributed systems patterns
+- **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026/) | kw: essential software architecture
+- **2026-06-22** | [System Design Building Blocks: Design Scalable Systems in 2026](https://www.systemdesignhandbook.com/blog/system-design-building-blocks/) | kw: system design building
+- **2026-06-22** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: coming paradigm shift
+
 - **2026-06-22** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems |
 
 - **2026-06-22** | [Quiz - Designing Pastebin | Learn System Design](https://www.designgurus.io/learn-system-design/quiz-designing-pastebin) | kw: Quiz

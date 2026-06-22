@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: hello, haskell: getting
+- **2026-06-22** | [Monad tutorials timeline - HaskellWiki - Haskell.org](https://www.haskell.org/haskellwiki/Monad_tutorials_timeline) | kw: monad tutorials timeline
+- **2026-06-22** | [Functional Programming - INFOFP 2025-2026 Functional ...](https://uuinfofp.github.io/) | kw: functional programming infofp
+- **2026-06-22** | [Functional Programming: 2025-2026](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/fp/) | kw: functional programming: 2025-2026
+- **2026-06-22** | [7 Best Free Haskell Courses for 2026 - Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: best free haskell
+- **2026-06-22** | [Advanced Functional Programming - Exam Guide](https://people.cs.nott.ac.uk/pszgmh/afp-exam.html) | kw: advanced functional programming
+- **2026-06-22** | [Functional Programming Online Courses - Serokell](https://serokell.io/courses) | kw: functional programming online
+- **2026-06-22** | [Uses for nested promises - The If Works - James Coglan](https://blog.jcoglan.com/2026/03/23/uses-for-nested-promises/) | kw: uses nested promises
+
 - **2026-06-22** | [Issue 529 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/529.html) | kw: Issue
 
 - **2026-06-22** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional

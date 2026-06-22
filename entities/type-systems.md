@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: luau (programming language)
+- **2026-06-22** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: static dynamic typing:
+- **2026-06-22** | [Static Analysis Mypy: Strict Typing Configurations 2026 | Johal AI Hub](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: static analysis mypy:
+- **2026-06-22** | ["Typing the Untyped: Soundness in Gradual Type Systems" by Ben...](https://www.youtube.com/watch?v=uJHD2xyv7xo) | kw: "typing untyped: soundness
+- **2026-06-22** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: typescript: static dynamic?
+- **2026-06-22** | [Gradual typing - CodeDocs](https://codedocs.org/what-is/gradual-typing) | kw: gradual typing codedocs
+- **2026-06-22** | [Programming Language Typing Reference — Gera Tools](https://geratools.com/programming-language-typing-reference) | kw: programming language typing
+- **2026-06-22** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb?responsesOpen=true) | kw: everything have know
+- **2026-06-22** | [Gradual Typing: A New Perspective](https://www.irif.fr/~gc/papers/popl19.pdf) | kw: gradual typing: perspective
+
 - **2026-06-22** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Docs
 
 - **2026-06-22** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: released

@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Python Complete Guide | CPython Internals· GIL - pkglog.com](https://pkglog.com/en/blog/python-complete-guide/) | kw: python complete guide
+- **2026-06-22** | [GIL | CPython Internals](https://zpoint.github.io/CPython-Internals/Interpreter/gil/gil.html) | kw: cpython internals
+- **2026-06-22** | [CPython-Internals/Interpreter/gil/gil.md at master · zpoint ...](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/gil/gil.md) | kw: cpython-internals/interpreter/gil/gil.md master zpoint
+- **2026-06-22** | [Mastering The Global Interpreter Lock (GIL) | Python ...](https://course4all.com/python/py-gil-internals/) | kw: mastering global interpreter
+- **2026-06-22** | [Python’s GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python’s gone what
+- **2026-06-22** | [The GIL Was Removed From Python!? – SuperFastPython](https://superfastpython.com/gil-removed-from-python/) | kw: removed from python!?
+- **2026-06-22** | [Python stands to lose its GIL, and gain a lot of speed | InfoWorld](https://www.infoworld.com/article/2270328/python-stands-to-lose-its-gil-and-gain-a-lot-of-speed.html) | kw: python stands lose
+- **2026-06-22** | [python - What is the global interpreter lock (GIL) in CPython?](https://stackoverflow.com/questions/1294382/what-is-the-global-interpreter-lock-gil-in-cpython) | kw: python what global
+
 - **2026-06-22** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Change
 - **2026-06-22** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: documentation
 - **2026-06-22** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Python's
