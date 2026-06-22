@@ -172,14 +172,9 @@
         "25a06ccbe831fcae1efa398fc18b067e",
         "1885661cefe9c39654b0f1458625c8e0"
       ],
-      "last_run": "2026-06-22T09:03:21Z",
-      "new_sub_topics_this_run": [
-        "backend",
-        "must",
-        "paradigm",
-        "shift"
-      ],
-      "last_new_count": 4
+      "last_run": "2026-06-22T09:49:41Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -378,12 +373,9 @@
         "e782e5cfec0aac8483730db128ffda54",
         "385ab034e49daebe86f6093cf910e217"
       ],
-      "last_run": "2026-06-22T09:03:21Z",
-      "new_sub_topics_this_run": [
-        "Developers",
-        "OpenProjects"
-      ],
-      "last_new_count": 2
+      "last_run": "2026-06-22T09:49:41Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -596,11 +588,9 @@
         "1a9958a78e7ae39c78870e2584d0687d",
         "3f0e7d12a06008431c0606107ae9cdb6"
       ],
-      "last_run": "2026-06-22T09:03:21Z",
-      "new_sub_topics_this_run": [
-        "underrated"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-22T09:49:41Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -835,17 +825,9 @@
         "cc9f3837164b6e0e6edde576a14a1c3f",
         "1800057fa0a34e9db9363eaa43cce497"
       ],
-      "last_run": "2026-06-22T09:03:21Z",
-      "new_sub_topics_this_run": [
-        "combine",
-        "Theory",
-        "Geeks",
-        "Unmasked",
-        "Already",
-        "Category",
-        "Built"
-      ],
-      "last_new_count": 6
+      "last_run": "2026-06-22T09:49:41Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1025,11 +1007,9 @@
         "92be1fe383d9a95f6fa4bc77f5d26671",
         "4159d60feb2127eff5ef3b22573a7150"
       ],
-      "last_run": "2026-06-22T09:33:20Z",
-      "new_sub_topics_this_run": [
-        "python"
-      ],
-      "last_new_count": 1
+      "last_run": "2026-06-22T09:49:41Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1189,6 +1169,8 @@
         "Multithreading"
       ],
       "last_result_hashes": [
+        "f04ff041b29f9e8e9412695179cb1a10",
+        "f04ff041b29f9e8e9412695179cb1a10",
         "5d9727555001061982acd42c9b4659ca",
         "7103360156c8e6d465039238ada20318",
         "175fe459d8ef35d2e78d3b0536243f87",
@@ -1206,19 +1188,11 @@
         "88d4b4034dbc943d384e8da85ff50aae",
         "20b638a94449aaccfcac7b29b384e273",
         "bbb596c3441904fed7dc7fa5f00eeb00",
-        "c6e0c48c83d6184c5fab0117288ad9d5",
-        "ef8c2b0c6759018b49af3cfd33a3d94b",
-        "159fe6bbdcd1bac3255ce03ff41b660a"
+        "c6e0c48c83d6184c5fab0117288ad9d5"
       ],
-      "last_run": "2026-06-22T09:03:21Z",
-      "new_sub_topics_this_run": [
-        "Bindings",
-        "scanlibs",
-        "Maturin",
-        "Amazon",
-        "Systems"
-      ],
-      "last_new_count": 7
+      "last_run": "2026-06-22T09:49:41Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 1
     }
   }
 }

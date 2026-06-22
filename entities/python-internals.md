@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: Tearing Off the GIL Veil: A Deep Dive into Python 
+
 - **2026-06-22** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How Python Works Under the Hood: Memory, GIL, and Bytecode
 - **2026-06-22** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: 400 Python Interview Questions with Answers 2026
 - **2026-06-22** | [15+ Advanced Python Interview Questions and Answers 2026](https://interviewkickstart.com/blogs/interview-questions/advanced-python-interview-questions) | kw: 15+ Advanced Python Interview Questions and Answers 2026
