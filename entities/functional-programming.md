@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [functional programming - State Monads in Haskell - Stack Overflow](https://stackoverflow.com/questions/10237072/state-monads-in-haskell) | kw: Haskell
+
 - **2026-06-22** | [Haskell's IO & Monads | Functional Programming](https://aicenter.github.io/FUP/lectures/lecture10.html) | kw: Haskell's IO & Monads
 
 - **2026-06-22** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns in Rust: Exploring Functional

@@ -175,14 +175,9 @@
       "608fa7d1ab9e25ccee240ab0bd6ba8f5",
       "1885661cefe9c39654b0f1458625c8e0"
     ],
-    "last_run": "2026-06-22T12:19:45.765181+00:00",
-    "new_sub_topics_this_run": [
-      "System Design Roadmap",
-      "This Is What Actually Scales in 2026 | by Kavya's Programming Path",
-      "System Design Patterns Every Engineer",
-      "Essential Software Architecture Patterns for"
-    ],
-    "last_new_count": 2
+    "last_run": "2026-06-22T12:32:55.771600+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "compilers": {
     "query": "compilers LLVM JIT compilation 2026",
@@ -403,11 +398,9 @@
       "32f4188675ea6aa9b99de9314a538fa1",
       "49e105eff0363056249eba8a075fed43"
     ],
-    "last_run": "2026-06-22T12:19:45.765207+00:00",
-    "new_sub_topics_this_run": [
-      "Search: [llvm] - Bookmarks"
-    ],
-    "last_new_count": 1
+    "last_run": "2026-06-22T12:32:55.771600+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -638,16 +631,9 @@
       "c2a7ab4a00dd7b24329f23a54e40afec",
       "068a07b3862dfe7a7b75410740325108"
     ],
-    "last_run": "2026-06-22T12:19:45.765214+00:00",
-    "new_sub_topics_this_run": [
-      "How the Compiler Finally",
-      "Static vs. Dynamic Typing",
-      "Luau programming language Wikipedia",
-      "Scala in the AI Era",
-      "Everything you have to Know",
-      "Gradual typing in Python GeeksforGeeks"
-    ],
-    "last_new_count": 4
+    "last_run": "2026-06-22T12:32:55.771600+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -875,9 +861,12 @@
       "DEV",
       "Bartosz",
       "Milewski's",
-      "Cafe"
+      "Cafe",
+      "State",
+      "Overflow"
     ],
     "last_result_hashes": [
+      "d72551ba06612f74d3e5d4b0a773e3b8",
       "bab6dc04368dc487cd403e3a93312b56",
       "25b6b784e66574bea0fc5079d2abb726",
       "ea88e7791ba77ef858bb935fcb22db5c",
@@ -896,21 +885,14 @@
       "480d402e9012f947099ff628259136e0",
       "cc9f3837164b6e0e6edde576a14a1c3f",
       "93f73097d592fc6a2fe0abda2019b299",
-      "d8ecd855deb6ef7b3c3623a37c37e993",
-      "47afd6134c9594e436b375218b4416f1"
+      "d8ecd855deb6ef7b3c3623a37c37e993"
     ],
-    "last_run": "2026-06-22T12:19:45.765221+00:00",
+    "last_run": "2026-06-22T12:32:55.771600+00:00",
     "new_sub_topics_this_run": [
-      "Exploring Functional",
-      "Like Patterns in Rust",
-      "Monads and Monad",
-      "Stack Overflow",
-      "What is a monad?",
-      "Monads and Monad-Like Patterns in",
-      "monad in Functional programming DEV",
-      "Monads Bartosz Milewski's Programming Cafe"
+      "State",
+      "Overflow"
     ],
-    "last_new_count": 3
+    "last_new_count": 1
   },
   "algorithms": {
     "query": "algorithms data structures LeetCode interview 2026",
@@ -1109,15 +1091,9 @@
       "5e02bb10fe06fe048e2f6bbb19b9f089",
       "7656c442825566c6a43d7d4c3400ad61"
     ],
-    "last_run": "2026-06-22T12:19:45.765228+00:00",
-    "new_sub_topics_this_run": [
-      "Grad",
-      "leetcode-solutions GitHub Topics GitHub",
-      "Leetcode problems in hours every",
-      "datastructures-algorithms GitHub Topics GitHub",
-      "LeetCode The World's Leading Online"
-    ],
-    "last_new_count": 4
+    "last_run": "2026-06-22T12:32:55.771600+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "python-internals": {
     "query": "Python internals GIL memory management 2026",
@@ -1316,16 +1292,8 @@
       "3977a42e266cba0d9724f6994662a434",
       "b1ee147f4d765a2e836d0e6ebb25e4a0"
     ],
-    "last_run": "2026-06-22T12:19:45.765233+00:00",
-    "new_sub_topics_this_run": [
-      "Exploring free",
-      "Goodbye GIL",
-      "What's new in Python 3.14",
-      "Python 3.14: The present and future of the language of the moment",
-      "Advanced Python Interview Questions and",
-      "Internals of Python Derive Maximum",
-      "What Is the Python Global"
-    ],
-    "last_new_count": 3
+    "last_run": "2026-06-22T12:32:55.771600+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   }
 }
