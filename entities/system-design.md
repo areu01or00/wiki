@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [Top Node.js Design Patterns You Should Know in 2026 - NareshIT](https://nareshit.com/blogs/top-nodejs-design-patterns-2026) | kw: System Design
+
 
 - **2026-06-22** | [Microservices Architecture in Product Engineering: 2026 Guide](https://www.appventurez.com/blog/microservices-architecture-in-product-engineering) | kw: Microservices Architecture in Product Engineering: | source: system-design
 - **2026-06-22** | [When to Use Microservices Architecture: Key Insights 2026](https://thinksys.com/development/implement-microservices-architecture/) | kw: When to Use Microservices Architecture: Key Insigh | source: system-design

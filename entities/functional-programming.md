@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-22** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Functional Programming
+
 
 - **2026-06-22** | [Functional programming languages should be so much better - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/1efwcso/functional_programming_languages_should_be_so/) | kw: Functional programming languages should be so much
 

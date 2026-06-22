@@ -225,7 +225,6 @@
       "Resilience"
     ],
     "last_result_hashes": [
-      "514e62e45907d8b538db2305cb02b599",
       "89a92316f41a5050a2cfe852301aaa2a",
       "f0c02833038fe1bcb22fe7831ff0db99",
       "8d5c530f6d796169a9eb9918fe3d6950",
@@ -244,9 +243,10 @@
       "ea922759b03d7025218cc5ea86d06bd5",
       "cc30dc3c2a1080df06e4462821c09311",
       "66aa45d8edc3b2035545b7d3213b234b",
-      "668ce36cb22cf391b09c735f944e175c"
+      "668ce36cb22cf391b09c735f944e175c",
+      "595f0f2dc85cda9f973db8f7c6c769cd"
     ],
-    "last_run": "2026-06-22T21:02:16.321126+00:00",
+    "last_run": "2026-06-22T21:17:46.951276+00:00",
     "new_sub_topics_this_run": [
       "Microservices",
       "CleanArchitecture",
@@ -256,7 +256,7 @@
       "phongnguyend",
       "Resilience"
     ],
-    "last_new_count": 6
+    "last_new_count": 1
   },
   "compilers": {
     "query": "compilers LLVM JIT compilation 2026",
@@ -544,7 +544,6 @@
       "Releases \u00b7 ldc-developers/ldc \u00b7 GitHub"
     ],
     "last_result_hashes": [
-      "85825af0d4988c7a8d47ff0da81901b2",
       "7a510693014a50afe70f03f7d0a05047",
       "53f4e861b6fd86d4eaaf7b6bf0fbab4d",
       "6d99d1e42e2c1308c2e62328d795de40",
@@ -563,14 +562,15 @@
       "85875fa4aeb3a7c10187eaf8cc0cac2f",
       "ac224ecee6fc1b4cc9ba1f13c5b1a941",
       "087884b4f6b0f4d29743ef0d9f4cab57",
-      "07ff7440742261be251441428cea15f7"
+      "07ff7440742261be251441428cea15f7",
+      "8e206c1f52b8c82b4c674d490fbf137a"
     ],
-    "last_run": "2026-06-22T21:02:16.321126+00:00",
+    "last_run": "2026-06-22T21:17:46.951276+00:00",
     "new_sub_topics_this_run": [
       "Releases \u00b7 ldc-developers/ldc \u00b7 GitHub",
       "ios"
     ],
-    "last_new_count": 2
+    "last_new_count": 1
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -852,7 +852,7 @@
       "d902a5e20d3df36363dbcfb0bcd97441",
       "d9e2ae0d7cf885e70adc2f131597e48e"
     ],
-    "last_run": "2026-06-22T21:02:16.321126+00:00",
+    "last_run": "2026-06-22T21:17:46.951276+00:00",
     "new_sub_topics_this_run": [
       "Pyrefly",
       "Positron",
@@ -861,7 +861,7 @@
       "Django",
       "type checker speed"
     ],
-    "last_new_count": 5
+    "last_new_count": 0
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -1152,7 +1152,6 @@
       "exam"
     ],
     "last_result_hashes": [
-      "ca593af137409cb74b5e31899718b44f",
       "64b9213a9db6ffcf3ee048410614e9dc",
       "ca0a1465631c6b3c554a745b4cc949a5",
       "f754971725118e81c5661d4781fdbbfd",
@@ -1171,9 +1170,10 @@
       "846b424ae395235268b8ad080e08124d",
       "7a2effb70e7adf336fb5fad43f3f8f0b",
       "609095a48c13324c66422f3e5e2ff403",
-      "33f56a9dc86b122d155efcda7fdda25f"
+      "33f56a9dc86b122d155efcda7fdda25f",
+      "ab1a401478bf91151df62818473f5ef5"
     ],
-    "last_run": "2026-06-22T21:02:16.321126+00:00",
+    "last_run": "2026-06-22T21:17:46.951276+00:00",
     "new_sub_topics_this_run": [
       "Functional programming languages should be so much better"
     ],
@@ -1436,7 +1436,7 @@
       "a3bfb00911817f0cde2e0f4e1cbf8595",
       "35ddc69254bfe6b3447b8bb36c87797d"
     ],
-    "last_run": "2026-06-22T21:02:16.321126+00:00",
+    "last_run": "2026-06-22T21:17:46.951276+00:00",
     "new_sub_topics_this_run": [
       "graph problems",
       "Apple LeetCode",
@@ -1445,7 +1445,7 @@
       "e_opore",
       "DSA relevance 2026"
     ],
-    "last_new_count": 9
+    "last_new_count": 0
   },
   "python-internals": {
     "query": "Python internals GIL memory management 2026",
@@ -1711,13 +1711,13 @@
       "1066720ae677bcc7e6b6f127dee74260",
       "3abf663356203e6431af3a550bdce94f"
     ],
-    "last_run": "2026-06-22T21:02:16.321126+00:00",
+    "last_run": "2026-06-22T21:17:46.951276+00:00",
     "new_sub_topics_this_run": [
       "Pyrefly",
       "Positron",
       "Meta type checker",
       "type checker benchmarks"
     ],
-    "last_new_count": 3
+    "last_new_count": 0
   }
 }
