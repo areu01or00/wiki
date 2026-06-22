@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-22** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilation
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: llvm
+- **2026-06-22** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: llvm
+- **2026-06-22** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: llvm
+- **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: llvm
+
 - **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
 - **2026-06-22** | [LLVM Weekly - #648, June 1st 2026](https://llvmweekly.org/issue/648) | kw: LLVM
 - **2026-06-22** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking

@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-22** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: gil
+- **2026-06-22** | [Hardware Usage and Energy Implications of Removing the GIL](https://arxiv.org/html/2603.04782v1) | kw: gil
+- **2026-06-22** | [Advanced Python 4— GIL in Python - by Abhishek Jain - Medium](https://medium.com/@abhishekjainindore24/advanced-python-4-gil-in-python-375321837f3c) | kw: gil
+- **2026-06-22** | [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/) | kw: cpython
+- **2026-06-22** | [How Python's GIL Works - Codefinity](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: gil
+
 - **2026-06-22** | [Python Memory Management: GIL Deep Dive](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python
 - **2026-06-22** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What
 - **2026-06-22** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future

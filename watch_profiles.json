@@ -85,11 +85,6 @@
         "Roadmap"
       ],
       "last_result_hashes": [
-        "7f64368e8a1d34828ccb923f8e0003e5",
-        "b7b724dd42585c9ceb6c7e74762d9e03",
-        "8a4c6c3b1a58ba76429a4cc01eb115a4",
-        "4365457d59a6ae052dc50ed629a1d36c",
-        "89a56d75eb44a5b6b6e7751656a45c91",
         "88acfa572213a7fa4ba3cb7f2fee0f03",
         "9ba46483364adb11b22fcfbd9fe2e4d2",
         "7a43fcfcde6a6e1ad6d40ccc6f416748",
@@ -104,15 +99,20 @@
         "4141d7871c6b9a533346e695683501e0",
         "46a56982536c8a4f9801b7d471165b39",
         "f82db65ad647bfed8e2200753b0aae29",
-        "886487f41cabfa1d68bfa76e510f5fb7"
+        "886487f41cabfa1d68bfa76e510f5fb7",
+        "e386d25ff1816abec2a4433c860ed876",
+        "a4f767c8d886ec8f2fab1999efc97283",
+        "5e40d84c27922d7191778e20c118b6e9",
+        "38356f284740c83553dbab1846c99959",
+        "723a72e43818348046e4c9cd461691bb"
       ],
-      "last_run": "2026-06-22T02:02:32Z",
+      "last_run": "2026-06-22T02:17:27Z",
       "new_sub_topics_this_run": [
         "Caching",
         "Performance",
         "Roadmap"
       ],
-      "last_new_count": 1
+      "last_new_count": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -232,11 +232,6 @@
         "LLVM-based"
       ],
       "last_result_hashes": [
-        "a87049c9d8b0b6a7f00801dbca0b2dd2",
-        "ae427aaa277c67469832326760f5569f",
-        "7013f0083d445281a0575c5e36238e9b",
-        "bbbc8ef4ec78630cae3e49219b742618",
-        "9549ee3df2b4c698c35929d6eea7600f",
         "a18bd486739d593df61e9c5cd17b88c9",
         "e37e7349b482fc8fb0ae3a8668162d91",
         "6965a4c3581fb1ec2539b87936dda826",
@@ -251,9 +246,14 @@
         "cbbac306d076d70d8345446afaf73bbf",
         "d092c967691f90fcd462ec5722e5f341",
         "78300d30b51a9fa8cf24032c1bebf1a4",
-        "9efa811d3f23243492b0531ce15e8ba2"
+        "9efa811d3f23243492b0531ce15e8ba2",
+        "85875fa4aeb3a7c10187eaf8cc0cac2f",
+        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
+        "4a875ba6c9df4a6d863a675c9bbe1244",
+        "7d0b717005814217330e578b0fbdc8fb",
+        "f1925c0af6e39aa520ffa6a282ede525"
       ],
-      "last_run": "2026-06-22T02:02:32Z",
+      "last_run": "2026-06-22T02:17:27Z",
       "new_sub_topics_this_run": [
         "Exploring",
         "Java",
@@ -382,14 +382,10 @@
         "Evaluation",
         "Blog",
         "PookieTech",
-        "Analysis"
+        "Analysis",
+        "annotation"
       ],
       "last_result_hashes": [
-        "8d174537669d4581940fbaf743474ccd",
-        "2f7f4dc1bef96eb9f17cc073be199fc1",
-        "f333bd41608e9168a9593cda75a5d292",
-        "baaa55181f9f14bea93454b5b8b7d042",
-        "ba6f151def884072f55ef6ad2c622bc4",
         "bd17210a55facc1045e4bb40b946924f",
         "257f707e4f6b84a5109de8e4a606651f",
         "393c2007828b49d14ae2ce8a8bf61873",
@@ -404,17 +400,16 @@
         "3326193b269b65058b9975cd44e12d99",
         "a62041fbd03c36044c10691af16fa6ad",
         "ed513f6e12395c8fbbf5e5415449aabd",
-        "9a3ca8ef0be6bd5ed1e25f6590c663f6"
+        "9a3ca8ef0be6bd5ed1e25f6590c663f6",
+        "1892288ce3bfda31458d852753d72f5f",
+        "6c257d065a3041b16049b05a47e582ff",
+        "55852131fabfce2db4a4694561d1aa46",
+        "6dd02e9dbc82ee59e01eebd7931fcaa4",
+        "c3606e016fa3c7725224e51c9fcd0964"
       ],
-      "last_run": "2026-06-22T02:02:32Z",
+      "last_run": "2026-06-22T02:17:27Z",
       "new_sub_topics_this_run": [
-        "Python",
-        "Unification-based",
-        "Labyrinth",
-        "Evaluation",
-        "Blog",
-        "PookieTech",
-        "Analysis"
+        "annotation"
       ],
       "last_new_count": 5
     },
@@ -586,14 +581,12 @@
         "monads",
         "Developers",
         "Trends",
-        "Nauths"
+        "Nauths",
+        "zig",
+        "borrowing",
+        "linear"
       ],
       "last_result_hashes": [
-        "eb1d469b6a1f90775ad035ce175e3382",
-        "e3151e59bbc2d99a9878bd0bfd7ae47a",
-        "7eff5c6a99bf213eccb369082948afb6",
-        "eb46484b28b25f2899a565ab07b24a90",
-        "ce1296b7730544a3db978dc13e7a351f",
         "da30b64fee43ee2a8a34587ebf26e0aa",
         "1e23347071bace94cd96516373fa7b4d",
         "2304b593353dcf35aa94f92d66b62bc4",
@@ -608,11 +601,18 @@
         "fdc8e2b82500b598dc73a35e40bb2f1e",
         "7f6eb77ff98a45cf3700b0445a0e2e46",
         "c012a57fa63492860f64045db3528e7a",
-        "c7421fe4d40ce4751be6ee62ea54ec44"
+        "c7421fe4d40ce4751be6ee62ea54ec44",
+        "14cd387e800b8b80b658ad56297837b3",
+        "8c0ea0d18b37f3c9d2facb56f6b40861",
+        "0a825892b16894ee5479d8cdc9ceb413",
+        "be9da9017ce6e02348e052f2e7dda252",
+        "8229635d8f380180c52db6c50609ea3f"
       ],
-      "last_run": "2026-06-22T02:02:32Z",
+      "last_run": "2026-06-22T02:17:27Z",
       "new_sub_topics_this_run": [
-        "Nauths"
+        "zig",
+        "borrowing",
+        "linear"
       ],
       "last_new_count": 5
     },
@@ -710,11 +710,6 @@
         "World"
       ],
       "last_result_hashes": [
-        "814ad50168aca7691bd4e6e042f0b36b",
-        "cf4c1ba2a3b158ccff35a6152b4fef4a",
-        "8e00f7d78d79009ecc1474da3255f3a8",
-        "ba19b4240a469c3c9c16e9400bc5cdf2",
-        "8900f36a48596850ee5ba84a247a6c1d",
         "b374c779c101dd010d1f2ed0450afdee",
         "9ce6169374b8a813371af8d41f83c91e",
         "70003797271dd8784c1ec6afe4d29be2",
@@ -729,9 +724,14 @@
         "7d194ad3d9a4f9a87cd4de35548c005c",
         "be21d60d447cbc0341aec2a2028b4763",
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
-        "425c7b3df72090fd953b1cda95d7377e"
+        "425c7b3df72090fd953b1cda95d7377e",
+        "867c193f14d86dba8e19be9953c4f21a",
+        "7827ab24e9d276e3b17d86a148741a99",
+        "51bdec45c83dc444c8040f8f04671877",
+        "1ff2c45205d19d05c322321f335f0949",
+        "6ad4424d61d8084aeff283da158f5951"
       ],
-      "last_run": "2026-06-22T02:02:32Z",
+      "last_run": "2026-06-22T02:17:27Z",
       "new_sub_topics_this_run": [
         "Top",
         "Programming",
@@ -739,7 +739,7 @@
         "Online",
         "World"
       ],
-      "last_new_count": 4
+      "last_new_count": 5
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -833,11 +833,6 @@
         "Other"
       ],
       "last_result_hashes": [
-        "704da68a060e620278ad7620fdf6c8a8",
-        "1c9e34c438b893768685d5e9b0743087",
-        "68175a2892a66724f669a8669b9ae03d",
-        "8d8d02c27b4e31a5fdebffb21e61e306",
-        "4aa45f88b11be85c9e2609d7545bb7fb",
         "03e9423b802e0456d3fe98220b76ea3a",
         "265111ab89ec1e2086cc516865ce3720",
         "9df3859b4715ae95cd2f1c86331d9b55",
@@ -852,15 +847,20 @@
         "ec24203f1c30196cefc245248bffe9ed",
         "393b9552409ec8ba6bdfd1665878c646",
         "6287e8dc37ecb68d7af1bc0e4b769a4f",
-        "23f806669425cddfbb81ceb3202ed519"
+        "23f806669425cddfbb81ceb3202ed519",
+        "952e4cdd85ea50368b5178492a0c873c",
+        "cab51b9535106a9f6b476476901a2948",
+        "b97e824f1e170dc724aea12741ad9890",
+        "4ba531aedd0133f44b372ea8170dfc08",
+        "c644c61774b53593b05d98f55951400a"
       ],
-      "last_run": "2026-06-22T02:02:32Z",
+      "last_run": "2026-06-22T02:17:27Z",
       "new_sub_topics_this_run": [
         "Going",
         "Away",
         "Other"
       ],
-      "last_new_count": 3
+      "last_new_count": 5
     }
   }
 }

@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-22** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: patterns
+- **2026-06-22** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: guide
+- **2026-06-22** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: guide
+- **2026-06-22** | [The Only 12-Week High-Level System Design Roadmap You Need ...](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: roadmap
+- **2026-06-22** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: patterns
+
 - **2026-06-22** | [Latest Trends in Distributed Systems (2026) – TheLinuxCode](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026) | kw: Latest
 
 - **2026-06-22** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide to System Design in 2026 AI-Native and Se
