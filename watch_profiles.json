@@ -79,12 +79,12 @@
         "TheLinuxCode",
         "Microservices",
         "Trends",
-        "High-Performance"
+        "High-Performance",
+        "Caching",
+        "Performance",
+        "Roadmap"
       ],
       "last_result_hashes": [
-        "697337f881dc40cc977774b3475bbe3d",
-        "3528b9948758aac21f359ad485b705dc",
-        "1540cdcd553b7007547862f5309a216c",
         "3d924683b109e99c93d7ba785e0c7ab0",
         "eb4eda835adb1f4aeada1f30eb4c4d04",
         "93de5e2f4ec856a0ad2d45eb4ba324c7",
@@ -101,18 +101,18 @@
         "0a84e0f612f84727cbf618f66be65505",
         "d0ae98a342caad97c68e59c996aeaea3",
         "62ffed8405f0c26474dbf2c73f5f9796",
-        "2b816d0cf4bff7a093aa08f5c173a8c6"
+        "2b816d0cf4bff7a093aa08f5c173a8c6",
+        "0bccdfeceeee7664c4e61f75605f9f8f",
+        "e9d45130824f67775300df37d0b653d5",
+        "f0867b873de5e0095075cc1e002a4368"
       ],
-      "last_run": "2026-06-22T01:17:33Z",
+      "last_run": "2026-06-22T01:31:05Z",
       "new_sub_topics_this_run": [
-        "Blocks",
-        "Building",
-        "Large",
-        "Patterns",
-        "Scale",
-        "Systems"
+        "Caching",
+        "Performance",
+        "Roadmap"
       ],
-      "last_new_count": 6
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -209,13 +209,12 @@
         "CPU",
         "course",
         "Compilers",
-        "Language"
+        "Language",
+        "Overlooked",
+        "Project",
+        "Unlocking"
       ],
       "last_result_hashes": [
-        "da2a9627437ec27ab2a13b536f37cf45",
-        "191137fb0d9c6770341ad41eba235f6e",
-        "f78394001da4161e4b403123d94dc18a",
-        "a766a3d0e05fc264a5b6759d351cd89e",
         "a8551f898094977fef0c3dc46b76bcb5",
         "9b9e5b41a1c52064d55b23f06ea84096",
         "0e5a237955047e2ff8bc08b3d56d7ab8",
@@ -231,34 +230,19 @@
         "bbbc8ef4ec78630cae3e49219b742618",
         "9549ee3df2b4c698c35929d6eea7600f",
         "a18bd486739d593df61e9c5cd17b88c9",
-        "e37e7349b482fc8fb0ae3a8668162d91"
+        "e37e7349b482fc8fb0ae3a8668162d91",
+        "6965a4c3581fb1ec2539b87936dda826",
+        "fcdfd7028e0a69e8d52a4026e2b7399b",
+        "566f905c4c1976868bea616caee89977",
+        "d0de062ed058a4b7bb87b9c013129190"
       ],
-      "last_run": "2026-06-22T01:17:33Z",
+      "last_run": "2026-06-22T01:31:05Z",
       "new_sub_topics_this_run": [
-        "Advanced",
-        "Cheat",
-        "Deep",
-        "Dive",
-        "Future",
-        "Hybrid",
-        "Modern",
-        "Optimizations",
-        "Plugin",
-        "Programming",
-        "Runtime",
-        "Scale",
-        "Sheet",
-        "Time",
-        "Unmasking",
-        "Writing",
-        "autojit",
-        "compiler",
-        "course",
-        "docs",
-        "tutorial",
-        "with"
+        "Overlooked",
+        "Project",
+        "Unlocking"
       ],
-      "last_new_count": 8
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -347,13 +331,22 @@
         "Safe",
         "Calculus",
         "Computing",
-        "Language"
+        "Language",
+        "Access",
+        "Developers",
+        "Different",
+        "Functionality",
+        "Know",
+        "LuaJIT",
+        "Luau",
+        "Public",
+        "Putting",
+        "Software",
+        "Three",
+        "Trends",
+        "Work"
       ],
       "last_result_hashes": [
-        "539299cdb002f1725e1d140c5784f165",
-        "b7f815588a97a5d3e0ad0feee83b4a54",
-        "a6ae4d578365450e03bd054fcf71d87a",
-        "6fc9970c04093343ec26fd6a1cf8f540",
         "796dd8fb9f6369a2e77f75139af26f3c",
         "5d1b5b06b44ca33c06056141cd002b67",
         "74d9db89389a5ff882bfd7bac5937d2c",
@@ -369,26 +362,29 @@
         "f333bd41608e9168a9593cda75a5d292",
         "baaa55181f9f14bea93454b5b8b7d042",
         "ba6f151def884072f55ef6ad2c622bc4",
-        "bd17210a55facc1045e4bb40b946924f"
+        "bd17210a55facc1045e4bb40b946924f",
+        "257f707e4f6b84a5109de8e4a606651f",
+        "393c2007828b49d14ae2ce8a8bf61873",
+        "48111cf9034c724e9cc47ba9ef9fd044",
+        "1f3e7d1bf4955c674237c70349a25b1d"
       ],
-      "last_run": "2026-06-22T01:17:33Z",
+      "last_run": "2026-06-22T01:31:05Z",
       "new_sub_topics_this_run": [
-        "Call",
-        "College",
-        "Configurations",
-        "Design",
-        "Implementation",
-        "Khoury",
-        "Micro",
-        "Type",
-        "Yudai",
-        "contributions",
-        "language",
-        "papers",
-        "programming",
-        "research"
+        "Access",
+        "Developers",
+        "Different",
+        "Functionality",
+        "Know",
+        "LuaJIT",
+        "Luau",
+        "Public",
+        "Putting",
+        "Software",
+        "Three",
+        "Trends",
+        "Work"
       ],
-      "last_new_count": 10
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -560,8 +556,6 @@
         "Trends"
       ],
       "last_result_hashes": [
-        "8f5cea9e5197c247d1be3e7c458669a6",
-        "5aab28d7fbd337a8668d6cbda3b0a9c1",
         "f893f60a24ac37aeb075a0f0bd5137a0",
         "d36424ab85b4b13247d9175d80fbb9cb",
         "c35700ff9f0773d69682721949231b06",
@@ -579,9 +573,11 @@
         "eb46484b28b25f2899a565ab07b24a90",
         "ce1296b7730544a3db978dc13e7a351f",
         "da30b64fee43ee2a8a34587ebf26e0aa",
-        "1e23347071bace94cd96516373fa7b4d"
+        "1e23347071bace94cd96516373fa7b4d",
+        "2304b593353dcf35aa94f92d66b62bc4",
+        "af76e2365f103001efa3def3c69d4762"
       ],
-      "last_run": "2026-06-22T01:17:33Z",
+      "last_run": "2026-06-22T01:31:05Z",
       "new_sub_topics_this_run": [
         "Example",
         "Laws",
@@ -589,7 +585,7 @@
         "Morning",
         "Sense"
       ],
-      "last_new_count": 5
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -674,10 +670,12 @@
         "Solved",
         "for",
         "community",
-        "DSA"
+        "DSA",
+        "LeetCode",
+        "Platform",
+        "Prep"
       ],
       "last_result_hashes": [
-        "9eb2405cea66e37fec5eb9134f0bbe5d",
         "53468a49e5858039fabcfee0555bf84f",
         "056bbd57e6e437cc7875c28572cf4197",
         "544d7d110803052b93a7e0f05f49b7d5",
@@ -696,22 +694,16 @@
         "1bfc48dcc21dee0fda35a41d45014bf0",
         "6bed95472a3bdd95b4b90ba970bae55f",
         "b904d28a0ee85bcb13a0cf74b522d262",
-        "790a5d205d270e758b4525f2d41612d8"
+        "790a5d205d270e758b4525f2d41612d8",
+        "c7f597d614e52535427e5775472c402a"
       ],
-      "last_run": "2026-06-22T01:17:33Z",
+      "last_run": "2026-06-22T01:31:05Z",
       "new_sub_topics_this_run": [
-        "Algorithms",
-        "Beginner",
-        "Better",
-        "Explained",
-        "Grinding",
-        "Interview",
-        "Leetcode",
-        "Patterns",
-        "Structures",
-        "Tips"
+        "LeetCode",
+        "Platform",
+        "Prep"
       ],
-      "last_new_count": 5
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -797,11 +789,11 @@
         "for",
         "Python's GIL Explained: The Hidden Lock That Affects Your Code (2026 Guide)",
         "Python:",
-        "Optimization,"
+        "Optimization,",
+        "Edugators",
+        "Profiling"
       ],
       "last_result_hashes": [
-        "0a974e52e4af3da11fa0449ca19924f5",
-        "e5de457dfb901c53485a52be22a77e07",
         "9a16abe455aad8976504790293f8762a",
         "9b950d80d24710f2899e1b281e96098e",
         "993340ba10508d27975679f77e08cd57",
@@ -819,23 +811,16 @@
         "d2adce09b07afa8868adc1a5598d6db8",
         "b892d3268af415a5d0c10b3cc6cd89bf",
         "8e164b039e6be2f4d6dd92a0812ef837",
-        "a44a429166bbed4333a1c82626ae1109"
+        "a44a429166bbed4333a1c82626ae1109",
+        "4cd24649bb264af960eb0db466e7076c",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8"
       ],
-      "last_run": "2026-06-22T01:17:33Z",
+      "last_run": "2026-06-22T01:31:05Z",
       "new_sub_topics_this_run": [
-        "Dead",
-        "Finally",
-        "Free",
-        "Global",
-        "Memory",
-        "Mode",
-        "Optimization",
-        "Removing",
-        "Threaded",
-        "make",
-        "significantly"
+        "Edugators",
+        "Profiling"
       ],
-      "last_new_count": 6
+      "last_new_count": 0
     }
   }
 }
