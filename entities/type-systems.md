@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-22** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the
+- **2026-06-22** | [[PDF] Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: [PDF] Type Inference for Functional and
+
 - **2026-06-22** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: Languages
 - **2026-06-22** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: Type
 - **2026-06-22** | [Static Blame for gradual typing | Journal of Functional Programming](https://www.cambridge.org/core/product/A2CADE75A6BB303599A9FF8367DF9628) | kw: Gradual

@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms · GitHub Topic
+- **2026-06-22** | [Golang: Interview Bootcamp on HackerRank, LeetCode Algos](https://www.udemy.com/course/golang-interview-bootcamp-on-datastructures-leetcode-algos/) | kw: Interview Bootcamp on HackerRank, LeetCo
+- **2026-06-22** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.scien.cx/2025/07/22/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial/) | kw: Data Structure and Algorithm Patterns fo
+- **2026-06-22** | [[Update Links] Java Data Structures & Algorithms + LEETCODE...](https://learningdl.net/java-data-structures-algorithms-leetcode-exercises/) | kw: [Update Links] Java Data Structures & Al
+
 - **2026-06-22** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: Data Structures and
 - **2026-06-22** | [I Tried 20+ Java DSA Courses with LeetCode Exercises ... - Medium](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: Leetcode
 - **2026-06-22** | [LeetCode Review (2026): Is It Worth It?](https://coddy.tech/vs/leetcode) | kw: Leetcode
