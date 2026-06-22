@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-22** | [data-structure · GitHub Topics · GitHub](https://github.com/topics/data-structure) | kw: python
+
 - **2026-06-22** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start
 - **2026-06-22** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap: Learn Data Structures and Algorithms [2026]
 - **2026-06-22** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert (2026)
