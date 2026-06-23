@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Functional Patterns in Rust: Identity Monad - Reddit](https://www.reddit.com/r/rust/comments/1fr0jyh/functional_patterns_in_rust_identity_monad/) | kw: patterns
+- **2026-06-23** | [Haskell Mooc, part 2](https://haskell.mooc.fi/part2) | kw: haskell
+
 - **2026-06-23** | [Haskell Foundation 2026 Update - Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell Foundation Update
 - **2026-06-23** | [Community version of Learn You a Haskell - 2026 update](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community version Learn
 - **2026-06-23** | [I think I Finally Got Monads - Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: think Finally Got

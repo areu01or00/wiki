@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/) | kw: TypeScript
+- **2026-06-23** | [TypeScript 6.0 RC arrives as a bridge to a faster future](https://thenewstack.io/typescript-6-0-rc-arrives-as-a-bridge-to-a-faster-future/) | kw: TypeScript6.0RC
+- **2026-06-23** | [TypeScript 6.0 Features 2026 — 40-60% Faster Compiles](https://pooyagolchian.com/blog/typescript-6-features-2026/) | kw: TypeScript6.0
+- **2026-06-23** | [I thought TypeScript's type system was powerful. Until I tried Rust](https://www.reddit.com/r/rust/comments/1ifurb2/i_thought_typescripts_type_system_was_powerful/) | kw: TypeScriptRust
+
 - **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1 released
 - **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference all
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating Language Labyrinth

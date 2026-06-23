@@ -82,10 +82,10 @@
         "Every",
         "Must",
         "Pitfalls",
-        "Principles"
+        "Principles",
+        "patterns"
       ],
       "last_result_hashes": [
-        "2d3339fbcb04e9f626d884e03958e8d3",
         "3d924683b109e99c93d7ba785e0c7ab0",
         "25a06ccbe831fcae1efa398fc18b067e",
         "a32f5e69dda6ec0341e27ea3247983fc",
@@ -104,19 +104,15 @@
         "8282bc38c31cae78de009daeeac96471",
         "e386d25ff1816abec2a4433c860ed876",
         "b62605732bd34bc190422c3d7bd914a5",
-        "3badc4b3405efd103ac4b6a75c1a1407"
+        "3badc4b3405efd103ac4b6a75c1a1407",
+        "6d53ae17fc813545ba088409ee03ac4a"
       ],
-      "last_run": "2026-06-23T13:03:18Z",
+      "last_run": "2026-06-23T13:20:25Z",
       "new_sub_topics_this_run": [
-        "Coming",
-        "Docs",
-        "Every",
-        "Must",
-        "Pitfalls",
-        "Principles"
+        "patterns"
       ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -231,19 +227,10 @@
         "68fee6911aeffec61422b55ab9ef9c63",
         "38180097fce4038a3c567674a0803c49"
       ],
-      "last_run": "2026-06-23T13:03:18Z",
-      "new_sub_topics_this_run": [
-        "Apple",
-        "BuildingAJIT3",
-        "CERN",
-        "Case",
-        "FOSDEM",
-        "Look",
-        "Maglev",
-        "OrcJIT"
-      ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_run": "2026-06-23T13:20:25Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -341,13 +328,12 @@
         "Matrix",
         "NJPLS",
         "Paradigms",
-        "Performance"
+        "Performance",
+        "TypeScript6.0",
+        "TypeScript6.0RC",
+        "TypeScriptRust"
       ],
       "last_result_hashes": [
-        "1892288ce3bfda31458d852753d72f5f",
-        "6c257d065a3041b16049b05a47e582ff",
-        "fca44b52cd35b31b8253d8b03603819a",
-        "685e24bc32d9af4027f0eb5fb830112c",
         "905c596b1f123e7f5f2a45353cfe750a",
         "944b4568f9acb788a00caaa9753eec3a",
         "3f0e7d12a06008431c0606107ae9cdb6",
@@ -363,21 +349,20 @@
         "61232182ec8fd1c4a0aeded8d4b710b2",
         "0e4234c66d140bff955600295f8fb22d",
         "f90d600bc061097f26a8136013849aaa",
-        "8e216c088ce05eeb12493ddc9834d218"
+        "8e216c088ce05eeb12493ddc9834d218",
+        "de6f04da6e7a031bda3acd2fa272cf4a",
+        "8e534abc49a1eab4a892c0b5a8ae5dcb",
+        "e5eb6982357bbca94838bb774c1a2c28",
+        "7edfb2443eb82547341c2e9dec1bd128"
       ],
-      "last_run": "2026-06-23T13:03:18Z",
+      "last_run": "2026-06-23T13:20:25Z",
       "new_sub_topics_this_run": [
-        "Annotations",
-        "Bernat",
-        "Gabor",
-        "Labyrinth",
-        "Matrix",
-        "NJPLS",
-        "Paradigms",
-        "Performance"
+        "TypeScript6.0",
+        "TypeScript6.0RC",
+        "TypeScriptRust"
       ],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -462,11 +447,11 @@
         "News",
         "Update",
         "update",
-        "version"
+        "version",
+        "haskell",
+        "patterns"
       ],
       "last_result_hashes": [
-        "14cd387e800b8b80b658ad56297837b3",
-        "0a825892b16894ee5479d8cdc9ceb413",
         "8c0ea0d18b37f3c9d2facb56f6b40861",
         "be9da9017ce6e02348e052f2e7dda252",
         "9e96e6975e2081a61e65d35af6be5b5a",
@@ -484,20 +469,17 @@
         "93f73097d592fc6a2fe0abda2019b299",
         "7f6eb77ff98a45cf3700b0445a0e2e46",
         "6f7272fe12acf53eb74d6c90c3159870",
-        "f88808d81b42631027cb3a7bf97e43a3"
+        "f88808d81b42631027cb3a7bf97e43a3",
+        "2d431f0eb727397d5d046b06a50b7e9b",
+        "3a88d60112cd2190dd59202d577b829d"
       ],
-      "last_run": "2026-06-23T13:03:18Z",
+      "last_run": "2026-06-23T13:20:25Z",
       "new_sub_topics_this_run": [
-        "Foundation",
-        "Hacker",
-        "Learn",
-        "News",
-        "Update",
-        "update",
-        "version"
+        "haskell",
+        "patterns"
       ],
-      "last_new_count": 3,
-      "_new_total_for_digest": 3
+      "last_new_count": 2,
+      "_new_total_for_digest": 2
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -620,19 +602,10 @@
         "92be1fe383d9a95f6fa4bc77f5d26671",
         "51bdec45c83dc444c8040f8f04671877"
       ],
-      "last_run": "2026-06-23T13:03:18Z",
-      "new_sub_topics_this_run": [
-        "Academy",
-        "Britannica",
-        "Definition",
-        "Edition",
-        "Khan",
-        "Merriam-Webster",
-        "Scribbr",
-        "Sedgewick"
-      ],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_run": "2026-06-23T13:20:25Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -733,10 +706,10 @@
         "Geeks",
         "Gopher",
         "Guide",
-        "Java"
+        "Java",
+        "wikipedia"
       ],
       "last_result_hashes": [
-        "952e4cdd85ea50368b5178492a0c873c",
         "30c9ae7242028cfdee59bde2facb1611",
         "91f3eef6eb5080978288f3d45d840777",
         "2a144925bbbdf970a8d98cbd6f68540d",
@@ -755,21 +728,15 @@
         "cb9c1629e8e72eadff0b889c8814cfb5",
         "3f53aaddb3c9ccc1340c0fbf20196bee",
         "3723dfa3f60cd99fa11d63a5fa09bc1f",
-        "16153b4c7c06481c9814ad5c45901627"
+        "16153b4c7c06481c9814ad5c45901627",
+        "bc46e2bcc23714c5243a5210b1d2f5ae"
       ],
-      "last_run": "2026-06-23T13:03:18Z",
+      "last_run": "2026-06-23T13:20:25Z",
       "new_sub_topics_this_run": [
-        "Best",
-        "Codecademy",
-        "Coding",
-        "Controversy",
-        "Geeks",
-        "Gopher",
-        "Guide",
-        "Java"
+        "wikipedia"
       ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     }
   }
 }

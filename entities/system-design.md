@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [8 Must-Used Distributed System Patterns](https://www.linkedin.com/posts/sina-riyahi_8-must-used-distributed-system-patterns-activity-7391753552462884864-sDOE) | kw: patterns
+
 - **2026-06-23** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems Architecture
 - **2026-06-23** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed Systems Patterns
 - **2026-06-23** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How Build Distributed
