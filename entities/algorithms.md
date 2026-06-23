@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Are LeetCode Interviews Still Relevant in 2026? - 4A Consulting](https://4a-consulting.com/are-leetcode-interviews-still-relevant-in-2026/) | kw: algorithms
+
 - **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
 - **2026-06-23** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: algorithms
 - **2026-06-23** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: algorithms
