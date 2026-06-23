@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [cpython/Doc at main · python/cpython · GitHub](https://github.com/python/cpython/tree/main/Doc/) | kw: cpython/Doc at main · python/cpython · GitHub
+
 - **2026-06-23** | [Scaling asyncio on Free-Threaded Python - Quansight Labs](https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python) | kw: Scaling asyncio on Free-Threaded Python
 
 - **2026-06-23** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: what python global

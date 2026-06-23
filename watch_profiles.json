@@ -152,10 +152,10 @@
         "67ba7fb5fa4550ac9fca6b578a488209",
         "07550bd5bf7eb2464189443840582802"
       ],
-      "last_run": "2026-06-23T18:32:49Z",
+      "last_run": "2026-06-23T19:08:09Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -281,13 +281,6 @@
         "JIT Design and Implementation - Julia Language"
       ],
       "last_result_hashes": [
-        "a22b02bc2ac8fefe16dca96a0ddfa145",
-        "88cc964a32a15635341d81f11a8aa1db",
-        "5cefefefe6afc297697ed1187181b6a1",
-        "704870bc73478f361f90b29774fad667",
-        "012c0c3363d9f6d461106af24783da40",
-        "648083769a978e805bbb401b852069ec",
-        "a3324a76169583b6aac4412c5930b222",
         "dc5ada16f234dc184f112304b0917552",
         "2e0c91c4dcaa442246feebd5ec6e9bfb",
         "d12d82e1f851084bf2828bf37f84e297",
@@ -300,12 +293,19 @@
         "e3d0ff2c4d30e6122f7a8dd8ba8abee3",
         "49e105eff0363056249eba8a075fed43",
         "32f4188675ea6aa9b99de9314a538fa1",
-        "7d0b717005814217330e578b0fbdc8fb"
+        "7d0b717005814217330e578b0fbdc8fb",
+        "d0de062ed058a4b7bb87b9c013129190",
+        "f1925c0af6e39aa520ffa6a282ede525",
+        "bbb446f219d0926dc00975255367705e",
+        "c3d079de35d7e08989ccc61414e8246b",
+        "044f00f22ade99878d29e43ef426c83d",
+        "26ae9c83c9c9c67941d78d12a2187981",
+        "91a6ff99ad09d27919aeb0b7fed43f8f"
       ],
-      "last_run": "2026-06-23T18:32:49Z",
+      "last_run": "2026-06-23T19:08:09Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -456,12 +456,19 @@
         "1f5560b1afe4b36d0a39498851f98ac0",
         "fefb7bfa85a33e8da4ee2beb757267c8",
         "0e40ec20e1a733a8136667ee5938762f",
-        "5cc1d4c55fe22c53ab06d0faccb4247c"
+        "5cc1d4c55fe22c53ab06d0faccb4247c",
+        "931c1423f81e0948928e12c09b9b385e",
+        "9a58fa71631cbec7e0643c8d4ec55f5e",
+        "dae581661675578aa16ee3fa346f4de6",
+        "df13c4a5d535fc18e65fbc19de30d890",
+        "ca902b9212f69253e7a3a803e9a1bfbf",
+        "ca591ab228bfe52c7b870e3bcd4fb5bc",
+        "4fb6c0a01a95e9170f5f792dce129612"
       ],
-      "last_run": "2026-06-23T18:32:49Z",
+      "last_run": "2026-06-23T19:08:09Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -595,11 +602,6 @@
         "The I/O problem - Haskell HaskellWiki"
       ],
       "last_result_hashes": [
-        "f706c0cd772a8e254641eb9214be126d",
-        "b15aa28659ccabe3398f87c824f2ee7c",
-        "118ad77388f20a14d3b8caa92bbe1e1f",
-        "4eaa5c979cae9e6c2603ca51d606dfc5",
-        "2153a59d98e233410d877bdbdd11fa54",
         "e14815b1982efe5f2ca182faba3ad6f5",
         "5f3295b9617750502b56e77da6dccc26",
         "89d7568644d92af3b47294441b63f5d0",
@@ -614,12 +616,17 @@
         "2304b593353dcf35aa94f92d66b62bc4",
         "480d402e9012f947099ff628259136e0",
         "ab1a401478bf91151df62818473f5ef5",
-        "6ac17140976f4e3a7be22d2ec701d1ce"
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "14cd387e800b8b80b658ad56297837b3",
+        "be9da9017ce6e02348e052f2e7dda252",
+        "e2809728031a0a794b40bbdaef5a85f9",
+        "27586b5088d8b1482cd2a5b71ce5a025",
+        "2c6957e1f1d7ea7d57cfdd721fc5e962"
       ],
-      "last_run": "2026-06-23T18:32:49Z",
+      "last_run": "2026-06-23T19:08:09Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -761,13 +768,6 @@
         "Top 100 DSA Interview Questions - LeetCode"
       ],
       "last_result_hashes": [
-        "8900f36a48596850ee5ba84a247a6c1d",
-        "668a6018d2f52bb7701454c451737dc0",
-        "e6bd1635e30369332166e89312943dd5",
-        "97d6faca842ad78242996da77b1fa6b6",
-        "117339bb67f63615377165a257db5ce4",
-        "7a505c1a92293fcb691841e28d67054f",
-        "5fb102ea12c2c538ff496ff93b86d29f",
         "080c601403b07db38d2a9bd409b07930",
         "25375a273703fbd792f71e66ba982f05",
         "49a674ad4a5ad266578e69d11a8c6109",
@@ -780,12 +780,19 @@
         "faa4c490860e670cfe1dfcfbbb213031",
         "be0ed9a278d7860adea7fbf688a29e8d",
         "9683f091f94b73598b61b277bfaf0dc7",
-        "9bf03fac52977c5ca0f636d2f1f9c479"
+        "9bf03fac52977c5ca0f636d2f1f9c479",
+        "9b1c781b75b9542b2127a9f5c4d86186",
+        "111db27a86a17aa6e9f6157684b7e862",
+        "e105b734b6688dac3adb064364860950",
+        "657af00c062a3f8c1160d3d320991595",
+        "8d44d12a725058df9ac48f3761e9c6c5",
+        "063c1371dc053c1a620c2aea29c4dda7",
+        "0f727d433df04df982ca51e5224fb3c1"
       ],
-      "last_run": "2026-06-23T18:32:49Z",
+      "last_run": "2026-06-23T19:08:09Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -925,28 +932,28 @@
         "Python's Liberation: The GIL is Finally Optional - Medium"
       ],
       "last_result_hashes": [
-        "a1b09dd538853456c361cf73dbf6eb1b",
-        "3a47bf42c9edd6ebc8e15526117e4b67",
-        "7f2ac49bb043ce89198c985bd2570eae",
-        "797c61641b09da41d0e5d490851764ce",
-        "b5b247fb8b983960de89159c478ae359",
-        "d312cb77ade078c8f1e9dac2e24a756b",
-        "8f02f91b32b9b725bea18bc6f2003dd9",
-        "72af1a8d0c4fdf1bff6317d489c189f7",
-        "3f72c7aa7de0b2a2ccaeaa3d1e3308a8",
-        "e6a418c5f148d68a53fd286dcc17d453",
-        "8af847a56401e860ececcf0149182b62",
-        "c1a17aa2e4bce3b0de96d72a37c299d7",
-        "1c9e34c438b893768685d5e9b0743087",
-        "d512e623a8e3105302839677a779ee09",
-        "16cafc4f2077cbb7dc0260e04af7db34",
-        "ce7bd5a8b42f939d64742fe1ba101102",
         "952e4cdd85ea50368b5178492a0c873c",
         "3ca0f5111ea998f95acd8c079ac9e8f2",
         "3a3933d6860e7d73d9f5d02be6937e98",
-        "da6c379f6243b06780702c0765bab074"
+        "da6c379f6243b06780702c0765bab074",
+        "76fb8117f39114d73b4110ed5c796ad6",
+        "ce83b48f88506c00b36a7252145b9325",
+        "3625218287b342de266114770453541d",
+        "cf5a7088de419c90e1df95edc6179415",
+        "fa578d0cb96d19e0416d1409a8f4bd39",
+        "96c0ae6f559f49790042622771b6d857",
+        "75dee63a574d5f6de602136c00730732",
+        "5079692cfdd4ccb6e886dfe0e48d7914",
+        "bc46e2bcc23714c5243a5210b1d2f5ae",
+        "dd98088bd44f163005b52f39b2756953",
+        "fdee620013b11fbe4ff74a856625554f",
+        "83c76331b8d186cc5d695017f50eb5fb",
+        "eb0b3ec801d1a3e533436e346922f4e5",
+        "8c9ba4cb5a5e5722f9c0bc68313672d7",
+        "1f8e2c92ae5ada27a41135077afa335d",
+        "362d21404ee1fb6dfbc78509ec951aeb"
       ],
-      "last_run": "2026-06-23T18:48:06.585810+00:00",
+      "last_run": "2026-06-23T19:08:09Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 1,
       "_new_total_for_digest": 1
