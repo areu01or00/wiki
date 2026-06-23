@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [data-structures Repositorios de GitHub - Git Stars](https://git-stars.org/es/repositories/topic/data-structures) | kw: #data-structures Repositorios. 366. Total de Repositorios.labuladong/fucking-... | source: algorithms
+- **2026-06-23** | [Master key data structures and algorithms with LeetCode - LinkedIn](https://www.linkedin.com/posts/slothdevs_algorithms-datastructures-leetcode-activity-7379706524392329217-fWj3) | kw: This is a great resource for mastering key data structures and algorithms thr... | source: algorithms
+
 - **2026-06-23** | [data-structures - GitHub Topics](https://github.com/topics/data-structures) | kw: Awesome LeetCode resources to learn Data Structures and Algo | source: algorithms
 - **2026-06-23** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: DSA and LeetCode interview problems list | source: algorithms
 - **2026-06-23** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: Level up coding skills and prepare for next interview | source: algorithms

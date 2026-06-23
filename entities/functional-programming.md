@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: In functional programming languages like Haskell, a monad is formally defined... | source: functional-programming
+
 - **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monads structure computations as a sequence of steps with ex | source: functional-programming
 - **2026-06-23** | [FP lang for 2026 - r/functionalprogramming](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: Mar 1, 2026 - Lisp (scheme, clojure) and ML/Haskell family ( | source: functional-programming
 - **2026-06-23** | [Good tutorial/book about functional programming - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Learn more about functional programming in general | source: functional-programming
