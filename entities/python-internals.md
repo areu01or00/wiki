@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Welcome to Python.org](https://www.python.org/) | kw: python internals
+- **2026-06-23** | [Download Python | Python.org](https://www.python.org/downloads/) | kw: python internals
+- **2026-06-23** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: python internals
+- **2026-06-23** | [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/) | kw: python internals
+- **2026-06-23** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: python internals
+- **2026-06-23** | [Python Certification - freeCodeCamp.org](https://www.freecodecamp.org/learn/python-v9) | kw: python internals
+- **2026-06-23** | [OpenPython - Learn Python Programming Free](https://openpython.org/) | kw: python internals
+
 - **2026-06-23** | [GitHub - python/cpython: The Python programming language](https://github.com/python/cpython) | kw: python/cpython
 - **2026-06-23** | [GitHub - anasoftwareus/cpython: The Python programming language](https://github.com/anasoftwareus/cpython) | kw: anasoftwareus/cpython
 - **2026-06-23** | [Python vs Cpython - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-vs-cpython/) | kw: CPython
