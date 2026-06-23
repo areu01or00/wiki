@@ -87,12 +87,9 @@
         "8282bc38c31cae78de009daeeac96471",
         "e386d25ff1816abec2a4433c860ed876"
       ],
-      "last_run": "2026-06-23T10:32:10Z",
-      "new_sub_topics_this_run": [
-        "guide",
-        "predictions"
-      ],
-      "last_new_count": 2
+      "last_run": "2026-06-23T10:48:31Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -184,15 +181,9 @@
         "5eb461713e0f1077b53617fc9dfe1c6a",
         "0feac1ce8afa145634945297cfd45753"
       ],
-      "last_run": "2026-06-23T10:32:10Z",
-      "new_sub_topics_this_run": [
-        "2026-04",
-        "compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst",
-        "language",
-        "llvm.org",
-        "compiler-course-2026/llvm/docs/tutorial/buildingajit3.rst"
-      ],
-      "last_new_count": 5
+      "last_run": "2026-06-23T10:48:31Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -282,11 +273,9 @@
         "827319de78f652c36a72ce51d2554598",
         "1674bb6ba3ccf85f515fbae17fccc59f"
       ],
-      "last_run": "2026-06-23T10:32:10Z",
-      "new_sub_topics_this_run": [
-        "elixir"
-      ],
-      "last_new_count": 1
+      "last_run": "2026-06-23T10:48:31Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -375,13 +364,9 @@
         "b48df3ecc7197e04cb4515339cfae453",
         "827f82e9e1a47b7a7ad617629e29c129"
       ],
-      "last_run": "2026-06-23T10:32:10Z",
-      "new_sub_topics_this_run": [
-        "guide",
-        "value",
-        "learned"
-      ],
-      "last_new_count": 3
+      "last_run": "2026-06-23T10:48:31Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -475,12 +460,9 @@
         "bacc4c268ab4d6ab4c074b284e41ab33",
         "20609d69cf60f498dee2b475f6fd9f03"
       ],
-      "last_run": "2026-06-23T10:32:10Z",
-      "new_sub_topics_this_run": [
-        "interviews",
-        "exercises"
-      ],
-      "last_new_count": 3
+      "last_run": "2026-06-23T10:48:31Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -568,11 +550,9 @@
         "498edfd974d66c35db81ddcb5eced2f1",
         "087455b373dbe987da5078283f97a4cb"
       ],
-      "last_run": "2026-06-23T10:32:10Z",
-      "new_sub_topics_this_run": [
-        "removal"
-      ],
-      "last_new_count": 1
+      "last_run": "2026-06-23T10:48:31Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     }
   }
 }
