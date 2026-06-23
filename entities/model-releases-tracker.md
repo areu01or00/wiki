@@ -17,6 +17,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-23** | [Sakana Fugu: One Model to Command Them All - Official Release](https://sakana.ai/fugu-release/) | kw: Sakana Fugu Ultra Release | source: sakana-releases
+- **2026-06-23** | [GitHub - SakanaAI/fugu](https://github.com/SakanaAI/fugu/) | kw: Sakana Fugu GitHub | source: sakana-releases
+- **2026-06-23** | [Apertus: The Fully Open Foundation Model for Sovereign AI (2026)](https://www.explainx.ai/blog/apertus-open-foundation-model-sovereign-ai-2026) | kw: Apertus Sovereign AI | source: swiss-ai-apertus
 - **2026-06-23** | [The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model](http://arxiv.org/abs/2606.23546v1) | kw: The Energy Consumption of Transformer | source: arxiv-cs-cl
 - **2026-06-23** | [ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models](http://arxiv.org/abs/2606.23404v1) | kw: ReasoningLens Hierarchical Visualization and Diagnostic | source: arxiv-cs-cl
 - **2026-06-23** | [Tmax: A simple recipe for terminal agents](http://arxiv.org/abs/2606.23321v1) | kw: Tmax A simple recipe for | source: arxiv-cs-cl
