@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Compiler - Wikipedia](https://en.wikipedia.org/wiki/Compiler) | kw: Compiler
+- **2026-06-23** | [List of compilers - Wikipedia](https://en.wikipedia.org/wiki/List_of_compilers) | kw: List
+- **2026-06-23** | [Introduction To Compilers - GeeksforGeeks](https://www.geeksforgeeks.org/compiler-design/introduction-to-compilers/) | kw: Introduction
+- **2026-06-23** | [8 Best Compilers in 2026 (Tested) - BestValued](https://bestvalued.com/best-compilers) | kw: Compilers
+- **2026-06-23** | [Compilers I Stanford Online](https://online.stanford.edu/courses/soe-ycscs1-compilers) | kw: Compilers
+- **2026-06-23** | [11 Compilers | Computation Structures | Electrical Engineering...](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/) | kw: Compilers
+- **2026-06-23** | [Best Open Source Compilers 2026 - SourceForge](https://sourceforge.net/directory/compilers/) | kw: Open
+- **2026-06-23** | [What Is a Compiler? The Complete Guide to How Code Becomes...](https://www.sciencenewstoday.org/what-is-a-compiler-the-complete-guide-to-how-code-becomes-software) | kw: Compiler
+
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project - Dev Meeting 2026-04](https://llvm.org/devmtg/2026-04/) | kw: The LLVM Compiler Infrastructure Project
 
 - **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/

@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell
+- **2026-06-23** | [Community version of “Learn You a Haskell…” (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community
+
 - **2026-06-23** | [Idiomatic monads in Rust: a pragmatic new design for high-level ...](https://www.reddit.com/r/rust/comments/b6bu2c/idiomatic_monads_in_rust_a_pragmatic_new_design/) | kw: functional programming
 - **2026-06-23** | [Monads make a lot of sense in a pure functional language like ...](https://news.ycombinator.com/item?id=16419440) | kw: functional programming
 - **2026-06-23** | [Commercial Haskell should go after Python / Julia, not Rust](https://discourse.haskell.org/t/commercial-haskell-should-go-after-python-julia-not-rust/6964) | kw: functional programming

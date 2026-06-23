@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye
+- **2026-06-23** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: Python
+- **2026-06-23** | [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Faster
+- **2026-06-23** | [Python 3.14: The present and future of the language of the moment](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python
+
 - **2026-06-23** | [Welcome to Python.org](https://www.python.org/) | kw: python internals
 - **2026-06-23** | [Download Python | Python.org](https://www.python.org/downloads/) | kw: python internals
 - **2026-06-23** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: python internals

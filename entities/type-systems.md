@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Dynamic Type Inference for Gradual Hindley--Milner Typing - arXiv](https://arxiv.org/abs/1810.12619) | kw: Dynamic
+- **2026-06-23** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual
+- **2026-06-23** | [The StaDyn programming language - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2352711022001297) | kw: StaDyn
+- **2026-06-23** | [Is gradual-typing bad for new languages? : r/ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages/comments/193ssc2/is_gradualtyping_bad_for_new_languages/) | kw: gradual-typing
+- **2026-06-23** | [An Argument against Gradual Type Systems in Programming ...](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=2345&context=etd) | kw: Argument
+- **2026-06-23** | [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/) | kw: Strong
+- **2026-06-23** | [Refined Criteria for Gradual Typing](https://d-nb.info/1365607739/34) | kw: Refined
+
 - **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1.20 released
 
 
