@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python 3.14 Free-Threading: Real Benchmarks, Real Breakage](https://www.danilchenko.dev/posts/python-314-free-threading/) | kw: Apr 13, 2026 | source: python-internals
+- **2026-06-23** | [Python 3.14 Free-Threading True Parallelism Without the GIL](https://dev.to/edgar_montano/python-314-free-threading-true-parallelism-without-the-gil-a12) | kw: Nov 7, 2025 | source: python-internals
+- **2026-06-23** | [Python 3.13: Free Threading and a JIT Compiler](https://realpython.com/python313-free-threading-jit/) | kw: Sep 18, 2024 | source: python-internals
+- **2026-06-23** | [Python 3.14 Removed the GIL. My App Got 8x Faster.](https://blog.stackademic.com/python-3-14-removed-the-gil-my-app-got-8x-faster-56566c7b7a39) | kw: uv python install 3.14t | source: python-internals
+- **2026-06-23** | [Deterministic Multithreaded Testing in Python with blanket](https://bernat.tech/posts/blanket-deterministic-threading/) | kw: PEP 703 made the GIL optional | source: python-internals
+
 - **2026-06-23** | [The Future of Python Internals: GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Jul 17, 2025 - GIL prevents true parallel execution of Pytho | source: python-internals
 - **2026-06-23** | [What is the GIL in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: Feb 10, 2026 - Whether GIL is being removed in 2026 | source: python-internals
 - **2026-06-23** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Jan 10, 2026 - Python internals, Free-Threading, Asyncio, Me | source: python-internals
