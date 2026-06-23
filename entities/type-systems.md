@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1.20 released
+
+
+
 - **2026-06-23** | [[2408.14345] Guard Analysis and Safe Erasure Gradual Typing ...](https://arxiv.org/abs/2408.14345) | kw: [2408.14345] Guard Analysis and Safe Erasure Gradual Typing 
 - **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for ...
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance ...

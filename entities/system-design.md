@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026
+
+- **2026-06-23** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed S
+
+
+
 - **2026-06-23** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer Should Know in 90 .
 - **2026-06-23** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: A Guide to Large-Scale Distributed Systems (2026)
 - **2026-06-23** | [The Only 12-Week High-Level System Design Roadmap You Need ..](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: The Only 12-Week High-Level System Design Roadmap You Need .
