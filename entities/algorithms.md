@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026
+- **2026-06-23** | [DSA Roadmap: Learn Data Structures and Algorithms [2026]](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap
+- **2026-06-23** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap
+- **2026-06-23** | [Data Structures and Algorithms in 2026: What Backend Developers Need](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: Data Structures and Algorithms in 2026
+- **2026-06-23** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode
+
 - **2026-06-23** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: algorithms
 - **2026-06-23** | [Best coding interview prep resource in 2026 (Grokking vs LeetCode ..](https://www.reddit.com/r/leetcode/comments/1qft3d3/best_coding_interview_prep_resource_in_2026/) | kw: algorithms
 - **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: algorithms

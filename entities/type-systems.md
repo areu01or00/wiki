@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing
+- **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Impr
+- **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for Performance](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for Per
+
 - **2026-06-23** | [Static Blame gradual typing Cambridge JFP](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/static-blame-for-gradual-typing/A2CADE75A6BB303599A9FF8367DF9628) | kw: Static Blame gradual typing Cambridge JFP
 - **2026-06-23** | [Static Blame gradual typing ResearchGate](https://www.researchgate.net/publication/379257288_Static_Blame_for_gradual_typing) | kw: Static Blame gradual typing ResearchGate
 - **2026-06-23** | [Optimizing evaluating transient gradual typing ACM](https://dl.acm.org/doi/10.1145/3359619.3359742) | kw: Optimizing evaluating transient gradual typing ACM

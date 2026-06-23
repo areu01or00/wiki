@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems | Architecture Patterns
+- **2026-06-23** | [How I Build a Distributed System in 2026: Principles, Patterns and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System in 2026
+
 - **2026-06-23** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: system-design
 - **2026-06-23** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
 - **2026-06-23** | [How I Build a Distributed System in 2026: Principles, Patterns, and ..](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: system-design
