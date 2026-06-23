@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Haskell - Wikipedia](https://en.wikipedia.org/wiki/Haskell) | kw: haskell
+- **2026-06-23** | [Haskell Language](https://www.haskell.org/) | kw: haskell language
+- **2026-06-23** | [Haskell - Integrated AEC Design-Build Firm](https://www.haskell.com/) | kw: haskell - integrated
+- **2026-06-23** | [Home | Haskell Indian Nations University](https://haskell.edu/) | kw: home | haskell
+- **2026-06-23** | [Downloads - Haskell](https://www.haskell.org/downloads/) | kw: downloads - haskell
+- **2026-06-23** | [What is Haskell Programming Language? - GeeksforGeeks](https://www.geeksforgeeks.org/blogs/what-is-haskell-programming-language/) | kw: what haskell programming
+- **2026-06-23** | [Getting started with Haskell A beginners guide](https://haskell.dev/article/Getting_started_with_Haskell_A_begin_students_guide.html) | kw: getting started haskell
+- **2026-06-23** | [Who is Haskell? TikToker reportedly arrested and banned ...](https://www.sportskeeda.com/us/streamers/news-who-haskell-tiktoker-reportedly-arrested-banned-twitch-pretending-walmart-employee) | kw: who haskell? tiktoker
+- **2026-06-23** | [CodeBasics | What is Haskell, and What is It Used For?](https://code-basics.com/blog_posts/what-is-haskell-and-what-is-it-used-for) | kw: codebasics | what
+- **2026-06-23** | [Learn You a Haskell for Great Good! (up-to-date)](https://learnyouahaskell.github.io/) | kw: learn you haskell
+
 - **2026-06-23** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026 - lukastym
 - **2026-06-23** | [FP lang for 2026 - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026 - Reddit
 - **2026-06-23** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure Borrow: Linear Haskell Meets Rust-Style Borro

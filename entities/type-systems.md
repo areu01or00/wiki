@@ -1,6 +1,24 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: learn type |
+- **2026-06-23** | [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/) | kw: learn touch typing
+- **2026-06-23** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: monkeytype | minimalistic,
+- **2026-06-23** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: typingtest.com - complete
+- **2026-06-23** | [Typing Lessons - Learn To Type And Improve Typing Speed Free - ..](https://www.typing.com/student/lessons) | kw: typing lessons -
+- **2026-06-23** | [TypeRacer - Play Typing Games and Race Against Friends](https://play.typeracer.com/) | kw: typeracer - play
+- **2026-06-23** | [Ratatype — Online Touch Typing Tutor and Typing Lessons](https://www.ratatype.com/) | kw: ratatype — online
+- **2026-06-23** | [Practice](https://www.keybr.com/) | kw: practice
+- **2026-06-23** | [Type inference - Wikipedia](https://en.wikipedia.org/wiki/Type_inference) | kw: type inference
+- **2026-06-23** | [TypeScript in 2026 and What You Actually Need to Know Without ..](https://medium.com/@kantmusk/typescript-in-2026-and-what-you-actually-need-to-know-without-the-hype-bf5d28ece28a) | kw: typescript what you
+- **2026-06-23** | [Record type inference for dummies - Haskell for all](https://haskellforall.com/2026/06/record-type-inference-for-dummies) | kw: record type inference
+- **2026-06-23** | [The 6 Big Ideas of Typescript - sitr.us](https://sitr.us/2026/04/06/big-ideas-of-typescript.html/) | kw: 6 big ideas
+- **2026-06-23** | [Is the World Ready for Another Programming Language in 2026 ..](https://www.reddit.com/r/programming/comments/1q3igl6/is_the_world_ready_for_another_programming/) | kw: world ready another
+- **2026-06-23** | [TypeScript Interview Questions 2026: Beginner to Senior Level](https://www.shadecoder.com/blogs/typescript-interview-questions-in-2026) | kw: typescript interview questions
+- **2026-06-23** | [Local Contextual Type Inference | Proceedings of the ACM on ..](https://dl.acm.org/doi/10.1145/3776653) | kw: local contextual type
+- **2026-06-23** | [Documentation - TypeScript for Functional Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html) | kw: documentation - typescript
+- **2026-06-23** | [What is the question that programming language theory is trying to ..](https://cstheory.stackexchange.com/questions/42724/what-is-the-question-that-programming-language-theory-is-trying-to-answer) | kw: what question that
+
 - **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 m
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth: A 2026 Matrix A
 - **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US 2026 Typing Summit Recap - Bernat Gabor

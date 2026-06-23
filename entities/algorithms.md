@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: leetcode - world's
+- **2026-06-23** | [DSA Handbook for Coding Interviews - GitHub](https://github.com/heydi424/DSA-Handbook-for-Coding-Interviews_2026) | kw: dsa handbook coding
+- **2026-06-23** | [Data Structures and Algorithms for Coding Interview — Complete Python ..](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview/) | kw: data structures algorithms
+- **2026-06-23** | [Namaste DSA Sheet | To Crack FAANG & PBC's Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: namaste dsa sheet
+- **2026-06-23** | [11 Best Coding Interview Preparation Courses for 2026](https://www.classcentral.com/report/best-coding-interview-preparation-courses/) | kw: 11 best coding
+- **2026-06-23** | [25,000+ DSA Problems for Coding Interviews | DSA Problem](https://dsaproblem.com/) | kw: 25,000+ dsa problems
+- **2026-06-23** | [Core Skills - Algorithm & Data Structure Practice](https://neetcode.io/practice/practice/coreSkills) | kw: core skills -
+- **2026-06-23** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding ..](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: data structures &
+
 - **2026-06-23** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode Problems in 2026 (40 Companies
 - **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy 
 - **2026-06-23** | [How to prepare for Data Structures & Algorithms interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms in

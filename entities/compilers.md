@@ -1,6 +1,17 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [LLVM - Wikipedia](https://en.m.wikipedia.org/wiki/LLVM) | kw: llvm
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: llvm compiler infrastructure
+- **2026-06-23** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: case compilers: look
+- **2026-06-23** | [LLVM - GitHub](https://github.com/llvm) | kw: llvm
+- **2026-06-23** | [The Twelfth Workshop on the LLVM Compiler Infrastructure in HPC](https://llvm-in-hpc-workshop.github.io/LLVM-HPC-2026-Workshop.github.io/) | kw: twelfth workshop llvm
+- **2026-06-23** | [Use of JIT compiler infrastructure at Apple and CERN](https://indico.cern.ch/event/1675931/) | kw: use jit compiler
+- **2026-06-23** | [LLVM | Infrastructure Heroes](https://infrastructure-heroes.org/projects/llvm/) | kw: llvm | infrastructure
+- **2026-06-23** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: llvm compiler framework
+- **2026-06-23** | [LLVM Compiler Infrastructure | Augment Code](https://www.augmentcode.com/open-source/llvm/llvm-project) | kw: llvm compiler infrastructure
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: llvm compiler infrastructure
+
 - **2026-06-23** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes - LLVM, JIT
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
 - **2026-06-23** | [compiler-course-2026 BuildingAJIT1](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 BuildingAJIT1

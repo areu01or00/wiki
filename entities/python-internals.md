@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: what python global
+- **2026-06-23** | [Python support for free threading — Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: python support free
+- **2026-06-23** | [Thread states and the global interpreter lock - Python](https://docs.python.org/3/c-api/threads.html) | kw: thread states global
+- **2026-06-23** | [What is the Global Interpreter Lock (GIL) and is it going away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: what global interpreter
+- **2026-06-23** | [Understanding the Global Interpreter Lock (GIL) in Python](https://www.codecademy.com/article/understanding-the-global-interpreter-lock-gil-in-python) | kw: understanding global interpreter
+- **2026-06-23** | [Killing the GIL: How To Use Python 3.14's Free-Threading Upgrade](https://www.neelsomaniblog.com/p/killing-the-gil-how-to-use-python) | kw: killing gil: use
+- **2026-06-23** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: understanding python global
+- **2026-06-23** | [The Mechanics of Python's Global Interpreter Lock (GIL) - Medium](https://medium.com/@AlexanderObregon/the-mechanics-of-pythons-global-interpreter-lock-gil-b04ba144d616) | kw: mechanics python's global
+- **2026-06-23** | [Understanding Python GIL (Global Interpreter Lock) - w3resource](https://www.w3resource.com/python/python-global-interpreter-lock-with-examples.php) | kw: understanding python gil
+
 - **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV Change Every
 - **2026-06-23** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock - Py
 - **2026-06-23** | [How Python's GIL actually works (and when it bites you) - dev.to](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites
