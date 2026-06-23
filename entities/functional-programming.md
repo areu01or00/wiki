@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: Pure Borrow: Linear Haskell
+
 - **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) -
 - **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) -
 
