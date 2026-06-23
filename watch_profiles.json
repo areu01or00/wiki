@@ -116,7 +116,7 @@
         "99b0b3d99e823c0d5f03e6f80825dc46",
         "8282bc38c31cae78de009daeeac96471"
       ],
-      "last_run": "2026-06-23T14:19:26Z",
+      "last_run": "2026-06-23T14:33:00Z",
       "new_sub_topics_this_run": [
         "open",
         "What",
@@ -246,7 +246,7 @@
         "68fee6911aeffec61422b55ab9ef9c63",
         "38180097fce4038a3c567674a0803c49"
       ],
-      "last_run": "2026-06-23T14:19:26Z",
+      "last_run": "2026-06-23T14:33:00Z",
       "new_sub_topics_this_run": [
         "Best",
         "orcjit"
@@ -356,13 +356,6 @@
         "TypeScriptRust"
       ],
       "last_result_hashes": [
-        "b177475a05631b06f73e531cf8aa0a39",
-        "6dd02e9dbc82ee59e01eebd7931fcaa4",
-        "55852131fabfce2db4a4694561d1aa46",
-        "aa48e62b99d8bb2bd36d723f51bb9618",
-        "c3606e016fa3c7725224e51c9fcd0964",
-        "393c2007828b49d14ae2ce8a8bf61873",
-        "911955f45e693686bc5efe45c6135743",
         "4eb27c2e4108b2b4dfe23fe30921578e",
         "ea9dfbd7a7ddacc0bee501e96423940f",
         "281dcc412b25b8e56702cc648bcf9932",
@@ -375,13 +368,24 @@
         "f90d600bc061097f26a8136013849aaa",
         "8e216c088ce05eeb12493ddc9834d218",
         "de6f04da6e7a031bda3acd2fa272cf4a",
-        "8e534abc49a1eab4a892c0b5a8ae5dcb"
+        "8e534abc49a1eab4a892c0b5a8ae5dcb",
+        "931c1423f81e0948928e12c09b9b385e",
+        "e2f95af174a006f956abc1cceffaba2c",
+        "d15148db727a21d2127176e62d55e089",
+        "cda727a9a01f9452a3de8edb81730bc2",
+        "7d6146b3a991b725dc780dcebad86877",
+        "d22f8726353cff1afb64a2449670bdac",
+        "decae7018d268e0a64583660c8557759"
       ],
-      "last_run": "2026-06-23T14:19:26Z",
+      "last_run": "2026-06-23T14:33:00Z",
       "new_sub_topics_this_run": [
-        "[2603.05649]",
-        "Putting",
-        "pycon"
+        "TypeScript - Wikipedia",
+        "TypeScript 6.0 in 2026: The",
+        "TypeScript vs JavaScript: 73% of",
+        "TypeScript 6.0: A Rewrite So",
+        "TypeScript 6.0 Guide: Upgrading and",
+        "Documentation - TypeScript for the",
+        "Effective TypeScript"
       ],
       "last_new_count": 7,
       "_new_total_for_digest": 0
@@ -474,10 +478,6 @@
         "patterns"
       ],
       "last_result_hashes": [
-        "14cd387e800b8b80b658ad56297837b3",
-        "0a825892b16894ee5479d8cdc9ceb413",
-        "8c0ea0d18b37f3c9d2facb56f6b40861",
-        "be9da9017ce6e02348e052f2e7dda252",
         "3dab99b5330ccd20db91a26c202fbc1e",
         "e2809728031a0a794b40bbdaef5a85f9",
         "342907b148d6a4bf9c823bdbba89b871",
@@ -493,18 +493,20 @@
         "7e2d5cfb5ac8dd761867fb9d102f3175",
         "d2a5ab12820b7837480a2d596683e677",
         "cc9f3837164b6e0e6edde576a14a1c3f",
-        "df332d266a9393afd65af20ab5899d2a"
+        "df332d266a9393afd65af20ab5899d2a",
+        "f706c0cd772a8e254641eb9214be126d",
+        "118ad77388f20a14d3b8caa92bbe1e1f",
+        "e14815b1982efe5f2ca182faba3ad6f5",
+        "31070e3fe2b544546b95f30a7c733178"
       ],
-      "last_run": "2026-06-23T14:19:26Z",
+      "last_run": "2026-06-23T14:33:00Z",
       "new_sub_topics_this_run": [
-        "Hello,",
-        "lang",
-        "problem",
-        "Rust",
-        "monad",
-        "idiomatic"
+        "Haskell - Wikipedia",
+        "Haskell - Integrated AEC Design-Build",
+        "What is Haskell Programming Language?",
+        "Getting started with Haskell A"
       ],
-      "last_new_count": 10,
+      "last_new_count": 4,
       "_new_total_for_digest": 0
     },
     "algorithms": {
@@ -628,7 +630,7 @@
         "0de22e3ef1176e4fe34bb72a86e663b2",
         "4e3936ee53aa5dd2d237081732d0856b"
       ],
-      "last_run": "2026-06-23T14:19:26Z",
+      "last_run": "2026-06-23T14:33:00Z",
       "new_sub_topics_this_run": [
         "leetcode",
         "dsa"
@@ -739,7 +741,6 @@
         "wikipedia"
       ],
       "last_result_hashes": [
-        "17f40f751da9a1c9558ca7dbf958ae7e",
         "a1233cdbbbaf5c3624b23b99f9297143",
         "9b18ec30f332e37000ed0977c0075d83",
         "3977a42e266cba0d9724f6994662a434",
@@ -758,14 +759,14 @@
         "9ba8dc236f2c3769ffd2c96c4f0a1305",
         "23f806669425cddfbb81ceb3202ed519",
         "6287e8dc37ecb68d7af1bc0e4b769a4f",
-        "80cb1ee80342b3950bba93fd2801d04f"
+        "80cb1ee80342b3950bba93fd2801d04f",
+        "bc46e2bcc23714c5243a5210b1d2f5ae"
       ],
-      "last_run": "2026-06-23T14:19:26Z",
+      "last_run": "2026-06-23T14:33:00Z",
       "new_sub_topics_this_run": [
-        "What's",
-        "wikipedia"
+        "Python (programming language) - Wikipedia"
       ],
-      "last_new_count": 10,
+      "last_new_count": 1,
       "_new_total_for_digest": 0
     }
   }

@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [TypeScript - Wikipedia](https://en.wikipedia.org/wiki/TypeScript) | kw: TypeScript - Wikipedia
+- **2026-06-23** | [TypeScript 6.0 in 2026: The Evolution of Full-Stack JavaScript is Here](https://medium.com/@mernstackdevbykevin/typescript-6-0-in-2026-the-evolution-of-full-stack-javascript-is-here-bd662846a5a2) | kw: TypeScript 6.0 in 2026: The
+- **2026-06-23** | [TypeScript vs JavaScript: 73% of Devs Switched [2026] - Tech Insider](https://tech-insider.org/typescript-vs-javascript-2026/) | kw: TypeScript vs JavaScript: 73% of
+- **2026-06-23** | [TypeScript 6.0: A Rewrite So Fast It Might Replace Your Coffee Breaks](https://medium.com/@rupalsinghal/typescript-6-0-a-rewrite-so-fast-it-might-replace-your-coffee-breaks-5bc6c9c7c948) | kw: TypeScript 6.0: A Rewrite So
+- **2026-06-23** | [TypeScript 6.0 Guide: Upgrading and Using the Top New Features](https://toolshelf.tech/blog/typescript-6-0-guide-upgrading-new-features/) | kw: TypeScript 6.0 Guide: Upgrading and
+- **2026-06-23** | [Documentation - TypeScript for the New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) | kw: Documentation - TypeScript for the
+- **2026-06-23** | [Effective TypeScript](https://effectivetypescript.com/) | kw: Effective TypeScript
+
 - **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard
 - **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649]
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: Efficient

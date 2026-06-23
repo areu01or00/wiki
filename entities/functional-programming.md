@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Haskell - Wikipedia](https://en.wikipedia.org/wiki/Haskell) | kw: Haskell - Wikipedia
+- **2026-06-23** | [What is Haskell Programming Language? - GeeksforGeeks](https://www.geeksforgeeks.org/blogs/what-is-haskell-programming-language/) | kw: What is Haskell Programming Language?
+- **2026-06-23** | [Getting started with Haskell A beginners guide](https://haskell.dev/article/Getting_started_with_Haskell_A_beginners_guide.html) | kw: Getting started with Haskell A
+
 - **2026-06-23** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello,
 - **2026-06-23** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: lang
 - **2026-06-23** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional

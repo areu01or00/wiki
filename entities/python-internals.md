@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python (programming language) - Wikipedia
+
 - **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python
 - **2026-06-23** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Python's
 - **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: Thread
