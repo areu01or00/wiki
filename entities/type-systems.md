@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Announcing TypeScript 6.0](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/) | kw: Announcing, TypeScript
+- **2026-06-23** | [TypeScript 6.0 Released: The Last JavaScript-Based Version](https://gist.github.com/pfftdammitchris/fbd352bf54b4e2395b9cbb7c1552c05c) | kw: TypeScript, Released:, Last
+- **2026-06-23** | [GitHub - microsoft/TypeScript](https://github.com/microsoft/TypeScript) | kw: GitHub
+- **2026-06-23** | [TypeScript s](https://www.typescripts.org/) | kw: TypeScript
+
 - **2026-06-23** | [TypeScript - Wikipedia](https://en.wikipedia.org/wiki/TypeScript) | kw: type systems
 - **2026-06-23** | [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/) | kw: type systems
 - **2026-06-23** | [TypeScript Tutorial - W3Schools](https://www.w3schools.com/typescript/index.php) | kw: type systems

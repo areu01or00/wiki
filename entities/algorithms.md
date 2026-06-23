@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Tech, DSA,, LeetCode-heavy
+- **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - LeetCode Discuss](https://leetcode.com/discuss/post/7710904) | kw: Amazon, SDE2, LeetCode
+- **2026-06-23** | [How to prepare for Data Structures & Algorithms interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: Data, Structures, Algorithms
+- **2026-06-23** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode, Isn't, Dead
+- **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data, Structures, Algorithms
+- **2026-06-23** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode, Alone, Won't
+- **2026-06-23** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: Rethinking, Interview, Success
+
 - **2026-06-23** | [What Is an Algorithm? Understanding the Logic Behind Modern...](https://www.sciencenewstoday.org/what-is-an-algorithm-understanding-the-logic-behind-modern-computing) | kw: What Is an Algorithm? Understanding the Logic Behind Modern.
 
 - **2026-06-23** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms

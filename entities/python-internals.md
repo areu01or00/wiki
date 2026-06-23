@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread, Python
+- **2026-06-23** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Python's
+- **2026-06-23** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: Python, Performance, Killers
+- **2026-06-23** | [Using malloc_trim to help with memory management - Python Discuss](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using, Python, Discuss
+- **2026-06-23** | [Faster Python: Unlocking the Python Global Interpreter Lock - JetBrains](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Faster, Python:, Unlocking
+- **2026-06-23** | [Understanding the Python Global Interpreter Lock (GIL) - Substack](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Understanding, Python, Global
+
 - **2026-06-23** | [Python Online Compiler & Interpreter](https://onecompiler.com/python) | kw: Python Online Compiler & Interpreter
 
 - **2026-06-23** | [CPython - Wikipedia](https://en.wikipedia.org/wiki/CPython) | kw: python internals

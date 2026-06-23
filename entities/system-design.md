@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide
+- **2026-06-23** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: Microservices, Design, Patterns:
+- **2026-06-23** | [36 Microservices Patterns & Anti-Patterns: The Definitive Reference (2026)](https://appscale.blog/en/blog/microservices-patterns-anti-patterns-master-index-2026) | kw: Microservices, Patterns, Anti-Patterns:
+- **2026-06-23** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices, Architecture, Patterns
+- **2026-06-23** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System, Design, Patterns:
+- **2026-06-23** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design/) | kw: System, Design:, Complete
+- **2026-06-23** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: Architecture, Styles, Distributed
+
 - **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system design
 - **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: system design
 - **2026-06-23** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: system design

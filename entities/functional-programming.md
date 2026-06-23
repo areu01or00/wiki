@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: Reddit
+- **2026-06-23** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional, Programmers, Lobsters
+- **2026-06-23** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell, Foundation, Update
+- **2026-06-23** | [Community version of 'Learn You a Haskell...' 2026 update](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community, Haskell...'
+
 - **2026-06-23** | [Haskell Language](https://www.haskell.org/) | kw: functional programming
 - **2026-06-23** | [Home | Haskell Indian Nations University](https://haskell.edu/) | kw: functional programming
 - **2026-06-23** | [Downloads - Haskell](https://www.haskell.org/downloads/) | kw: functional programming
