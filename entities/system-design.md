@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [The Complete System Design Interview Guide 2026 | by TechEon](https://atul4u.medium.com/the-complete-system-design-interview-guide-2026-1784f8beb092) | kw: The Complete System Design Interview Gui
+- **2026-06-23** | [How I Would Prepare for a System Design Interview in 2026](https://interviewnoodle.com/how-i-would-prepare-for-a-system-design-interview-in-2026-5941a974499d) | kw: How I Would Prepare for a System Design 
+- **2026-06-23** | [Need advice on system design interview questions (scaling, latency ..](https://www.reddit.com/r/softwarearchitecture/comments/1sl04w9/need_advice_on_system_design_interview_questions/) | kw: Need advice on system design interview q
+- **2026-06-23** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: patterns
+- **2026-06-23** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: large-scale
+- **2026-06-23** | [9 Essential Software Architecture Patterns for Scalable Distributed ..](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: patterns
+
 - **2026-06-23** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: patterns
 - **2026-06-23** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: large-scale
 - **2026-06-23** | [9 Essential Software Architecture Patterns for Scalable Distributed ..](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: patterns
