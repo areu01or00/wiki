@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1 released
+- **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference all
+- **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating Language Labyrinth
+- **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US Typing
+- **2026-06-23** | [What type systems do you find interesting / useful / underrated? (Reddit)](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages (PDF)](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference Functional
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection Type
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages (ACM)](https://dl.acm.org/doi/10.1145/3798220) | kw: Type Inference Functional
+- **2026-06-23** | [NJPLS May 2026 - Principal Gradual Type Inference](https://njpls.org/may2026.html) | kw: NJPLS May Principal
+- **2026-06-23** | [To what extent is type theory relevant to dynamically typed languages? (StackEx)](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: what extent type
+
 - **2026-06-23** | [TypeScript 2026 Complete Guide: Advanced Types, Patterns, and Best Practices](https://calmops.com/programming/typescript-2026-complete-guide/) | kw: Type
 - **2026-06-23** | [TypeScript Advanced Patterns in 2026: Type-Safe APIs, Branded Types, and Beyond](https://devstarsj.github.io/2026/02/25/typescript-advanced-patterns-2026/) | kw: Type
 - **2026-06-23** | [Advanced TypeScript Types: Unleashing the Power of Static Typing](https://www.xjavascript.com/blog/advanced-typescript-types/) | kw: Typing

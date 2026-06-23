@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Haskell Foundation 2026 Update - Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell Foundation Update
+- **2026-06-23** | [Community version of Learn You a Haskell - 2026 update](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community version Learn
+- **2026-06-23** | [I think I Finally Got Monads - Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: think Finally Got
+
 - **2026-06-23** | [GHC 9.12.4 is now available — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20260327-ghc-9.12.4-released.html) | kw: Haskell
 - **2026-06-23** | [GHC 9.12.4-rc1 is now available - Haskell Discourse](https://discourse.haskell.org/t/ghc-9-12-4-rc1-is-now-available/13786) | kw: Discourse
 - **2026-06-23** | [GHC Developer Blog - The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog.html) | kw: Haskell

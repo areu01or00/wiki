@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Distributed Systems | Architecture Patterns - GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems Architecture
+- **2026-06-23** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed Systems Patterns
+- **2026-06-23** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How Build Distributed
+- **2026-06-23** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: Coming Paradigm Shift
+
 - **2026-06-23** | [CONVEX 2026 — Three conferences, one experience · Madrid, 17 ...](https://www.convexsummit.com/) | kw: Conference
 - **2026-06-23** | [System Design & Software Architecture - DevOpsCon](https://devopscon.io/microservices-software-architecture) | kw: Dev
 - **2026-06-23** | [Systems & Reliability 2026 | At Scale Conferences](https://atscaleconference.com/events/systems-reliability-2026/) | kw: Conference

@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What Python Global
+- **2026-06-23** | [What is the Global Interpreter Lock in Python? - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What Global Interpreter
+- **2026-06-23** | [The Future of Python Internals: Exploring GIL Removal](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future Python Internals
+- **2026-06-23** | [The Python GIL Controversy - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python GIL Controversy
+- **2026-06-23** | [Understanding the Python GIL - The Coding Gopher](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Understanding Python GIL
+- **2026-06-23** | [Python 3.14 New Features: Free-Threading](https://dasroot.net/posts/2026/02/python-314-new-features-what-changed-why-it-matters/) | kw: Python New Features
+- **2026-06-23** | [Modern Python Best Practices: The 2026 Definitive Guide](https://onehorizon.ai/blog/modern-python-best-practices-the-2026-definitive-guide) | kw: Modern Python Best
+- **2026-06-23** | [Understanding the GIL in Python - Codecademy](https://www.codecademy.com/article/understanding-the-global-interpreter-lock-gil-in-python) | kw: Understanding GIL Python
+
 - **2026-06-23** | [Python 3.14's Free-Threaded Build: A Technical Deep Dive - Medium](https://medium.com/@mishra.writeto/python-3-14s-free-threaded-build-a-technical-deep-dive-23b2aabd3ee3) | kw: python
 - **2026-06-23** | [Understand CPython (Learning Path) - Real Python](https://realpython.com/learning-paths/understand-cpython/) | kw: CPython
 

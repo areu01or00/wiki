@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [What is an Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What Algorithm GeeksforGeeks
+- **2026-06-23** | [Algorithms, 4th Edition by Sedgewick and Wayne](https://algs4.cs.princeton.edu/home/) | kw: Algorithms th Edition
+- **2026-06-23** | [Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: Algorithms Khan Academy
+- **2026-06-23** | [Introduction to Algorithms - MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: Introduction Algorithms MIT
+- **2026-06-23** | [Algorithm | Britannica](https://www.britannica.com/science/algorithm) | kw: Algorithm Britannica
+- **2026-06-23** | [What Is an Algorithm - Scribbr](https://www.scribbr.com/ai-tools/what-is-an-algorithm/) | kw: What Algorithm Scribbr
+- **2026-06-23** | [ALGORITHM Definition - Merriam-Webster](https://www.merriam-webster.com/dictionary/algorithm) | kw: ALGORITHM Definition Merriam-Webster
+
 - **2026-06-23** | [Coding & Algorithms Tournament 2026](https://catournament.org/) | kw: Algorithms
 - **2026-06-23** | [Data Structures and Algorithms Full Tutorial 2026 - YouTube](https://www.youtube.com/watch?v=TY4W0xCuKuk) | kw: Algorithms
 - **2026-06-23** | [Best DSA Roadmap in 2026 - Crack OAs/Interviews/Coding contests](https://www.youtube.com/watch?v=EV_PxZEypjc) | kw: interviews
