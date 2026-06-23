@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [For a Few Monads More - Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/for-a-few-monads-more.html) | kw: monads haskell
+- **2026-06-23** | [Monads in Functional Programming: a Practical Note](https://medium.com/@bobbypriam/monads-in-functional-programming-a-practical-note-53488f94b20c) | kw: monads practical
+- **2026-06-23** | [Yet Another Monad Tutorial (part 1: basics)](https://mvanier.livejournal.com/3917.html) | kw: monad tutorial basics
+- **2026-06-23** | [Are monads practical? - Eric Normand](https://ericnormand.me/podcast/are-monads-practical) | kw: monads practical
+- **2026-06-23** | [Learning Monads by Example | Diego Vicente](https://diego.codes/post/learning-monads/) | kw: learning monads example
+
 - **2026-06-23** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: pure borrow linear
 
 - **2026-06-23** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026

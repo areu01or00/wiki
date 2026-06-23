@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Using the TPDE Codegen Backend in LLVM ORC](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html) | kw: TPDE LLVM ORC
+- **2026-06-23** | [Halide Releases - LLVM 20 / ORC JIT](https://github.com/halide/halide/releases) | kw: Halide LLVM 20 ORC
+- **2026-06-23** | [llvm::orc Namespace Reference](https://llvm.org/doxygen/namespacellvm_1_1orc.html) | kw: llvm orc namespace
+- **2026-06-23** | [LLVM 20 (llvmlite 0.45+) - Read the Docs](https://llvmlite.readthedocs.io/en/latest/user-guide/llvm20.html) | kw: LLVM 20 llvmlite
+- **2026-06-23** | [The Story Behind Mesa LLVMpipe ORCJIT Upstreaming - Deepin](https://www.deepin.org/en/mesa-llvmpipe-orcjit-deepin/) | kw: Mesa LLVMpipe ORCJIT
+- **2026-06-23** | [EasyBuild release notes](https://docs.easybuild.io/release-notes/) | kw: EasyBuild LLVM
+
 - **2026-06-23** | [Compiler - Wikipedia](https://en.wikipedia.org/wiki/Compiler) | kw: compiler
 - **2026-06-23** | [List of compilers - Wikipedia](https://en.wikipedia.org/wiki/List_of_compilers) | kw: list compilers
 - **2026-06-23** | [Introduction To Compilers - GeeksforGeeks](https://www.geeksforgeeks.org/compiler-design/introduction-to-compilers/) | kw: compilers

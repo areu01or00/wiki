@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Serverless Computing Architecture: A Guide for Businesses in 2026](https://www.digisoftsolution.com/blog/serverless-computing-architecture) | kw: serverless architecture 2026
+- **2026-06-23** | [Architecture Patterns That Actually Scale In 2026: The Only Three You Need](https://medium.com/@the_atomic_architect/architecture-patterns-that-actually-scale-in-2025-the-only-three-you-need-89d1488c60a7) | kw: architecture patterns scale 2026
+- **2026-06-23** | [Serverless Architecture in 2026: How It Works, Benefits](https://middleware.io/blog/serverless-architecture/) | kw: serverless architecture
+- **2026-06-23** | [A pattern language for microservices](https://microservices.io/patterns/) | kw: microservices pattern language
+- **2026-06-23** | [Serverless Backend Architecture (2026) | TurboDocx](https://www.turbodocx.com/blog/serverless-backend-architecture) | kw: serverless backend 2026
+- **2026-06-23** | [Serverless Architecture 2026: How AI Is Changing the Learning of Serverless Technologies](https://asibiont.com/en/blog/serverless-architecture-2026-how-ai-is-changing-the-learning-of-serverless-technologies) | kw: serverless AI 2026
+- **2026-06-23** | [Serverless vs. Microservices: 4 Differences and Potential Synergies](https://www.dash0.com/knowledge/serverless-vs-microservices-4-differences-and-potential-synergies) | kw: serverless vs microservices
+
 - **2026-06-23** | [Microservices Architecture in 2026: Advanced Insights and Best Practices - theprotec](https://www.theprotec.com/blog/2026/microservices-architecture-advanced-insights-best-practices/) | kw: Microservices Architecture in 2026: Advanced Insights and Be
 - **2026-06-23** | [Emerging Backend Architectures for 2026: Microservices, Serverless and Beyond - tensorblue](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging Backend Architectures for 2026: Microservices, Serv
 - **2026-06-23** | [Advanced Microservices Architecture for scalable Apps 2026 - nadcab](https://www.nadcab.com/blog/microservices-architecture-scalable-apps) | kw: Advanced Microservices Architecture for scalable Apps 2026
