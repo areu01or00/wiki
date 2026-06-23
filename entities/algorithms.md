@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode Problems in 2026 (40 Companies
+- **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy 
+- **2026-06-23** | [How to prepare for Data Structures & Algorithms interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms in
+- **2026-06-23** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: I Tried 20+ Java DSA Courses with LeetCode Exercis
+- **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data Structures & Algorithms Interview Questions: 
+- **2026-06-23** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: Data Structures/Algorithms to go over the day of t
+- **2026-06-23** | [Amazon SDE2 Feb 2026 Selected - LeetCode Discuss](https://leetcode.com/discuss/post/7710904) | kw: Amazon SDE2 Feb 2026 Selected - LeetCode Discuss
+- **2026-06-23** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: Rethinking DSA for 2026 Interview Success - Linked
+- **2026-06-23** | [LeetCode vs NeetCode vs PracHub 2026 Interview Guide](https://prachub.com/resources/leetcode-vs-neetcode-vs-prachub-2026-interview-guide) | kw: LeetCode vs NeetCode vs PracHub 2026 Interview Gui
+- **2026-06-23** | [Top 100 DSA Interview Questions - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Top 100 DSA Interview Questions - LeetCode
+
 
 - **2026-06-23** | [LeetCode Interview Questions: Top Patterns by Company (2026)](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode Interview Questions
 - **2026-06-23** | [10+ top LeetCode patterns (2026) to ace FAANG coding interviews - Educative](https://www.educative.io/blog/coding-interview-leetcode-patterns) | kw: LeetCode patterns FAANG

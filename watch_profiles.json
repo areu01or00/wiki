@@ -125,12 +125,12 @@
         "System (2026 film) - Wikipedia",
         "How to open System Properties in Control Panel in Windows 11",
         "SYSTEM Definition & Meaning - Merriam-Webster",
-        "What does System mean? - Definitions.net"
+        "What does System mean? - Definitions.net",
+        "System (2026) - IMDb",
+        "SYSTEM Definition & Meaning | Dictionary.com",
+        "How to open and view System Information panel in Windows 11"
       ],
       "last_result_hashes": [
-        "2d3339fbcb04e9f626d884e03958e8d3",
-        "19258a8185da151bf3418aa0137ebdbd",
-        "436c80954a29aaf0ce6e138d681d2a37",
         "e4f3a2adda44fe26b8e682455f62de5a",
         "e37546f23c39aa049bd73c0aeff5ab15",
         "04bcb9f6e32764503807fc5b6e4b2441",
@@ -147,18 +147,19 @@
         "91dac6710169bf7346d4292a6eb2d0c9",
         "66ae815700cacb4e96d1e78f07e63810",
         "30eb2e1134419c9dd635b852dc30339c",
-        "2d3506c3f6b37ad4e09360268ba56f6d"
+        "2d3506c3f6b37ad4e09360268ba56f6d",
+        "3b3f82a1ce99e0255038b165da4fd365",
+        "3e1426e7df71a88d744121a055d84039",
+        "dbf8e0c58091b15f2142c1ba6af512c4"
       ],
-      "last_run": "2026-06-23T17:49:01Z",
+      "last_run": "2026-06-23T18:03:48Z",
       "new_sub_topics_this_run": [
-        "System - Wikipedia",
-        "System (2026 film) - Wikipedia",
-        "How to open System Properties in Control Panel in Windows 11",
-        "SYSTEM Definition & Meaning - Merriam-Webster",
-        "What does System mean? - Definitions.net"
+        "System (2026) - IMDb",
+        "SYSTEM Definition & Meaning | Dictionary.com",
+        "How to open and view System Information panel in Windows 11"
       ],
-      "last_new_count": 5,
-      "_new_total_for_digest": 5
+      "last_new_count": 3,
+      "_new_total_for_digest": 3
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -272,19 +273,18 @@
         "llvm.org",
         "Lightweight",
         "The LLVM Compiler Infrastructure Project",
-        "OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026"
+        "OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026",
+        "Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8",
+        "compiler-course-2026 BuildingAJIT1",
+        "LLVM Developer Meeting 2026-01",
+        "compiler-course-2026 BuildingAJIT3",
+        "The Case For Compilers: SPEC CPU 2026 on LLVM 22",
+        "Just-In-Time (JIT) Compiler with LLVM",
+        "Building Fermat: A Journey from Scratch to JIT Compiler",
+        "LLVM Implementation for Java JIT Compilers",
+        "JIT Design and Implementation - Julia Language"
       ],
       "last_result_hashes": [
-        "0040fa0b11f58d73784101272b91b4c6",
-        "3ea6376727fdf7b47c6179d67362cb5c",
-        "00fac6c23832725c63d3bee8514eb47d",
-        "92e0bc4508e75f52c38b2babcc502488",
-        "ab69677b993110ca58867220fcbd16dc",
-        "5abdc80b3b605797ed0449e486c6ac7f",
-        "114134e7a6737da6bda5a1a60aadd508",
-        "555f710d4e8c94981e543f01f221e0c9",
-        "de13c158d13ed657157c8bda2d27c0bd",
-        "80da9eb07d28392731b2965da3121af1",
         "3c9718118369d7e2403bff65ca60bf76",
         "ae52da9b2da392771114a1ecd7eb5950",
         "56495f55561a46e30f94da251cb0ef30",
@@ -294,22 +294,32 @@
         "7d0b717005814217330e578b0fbdc8fb",
         "248264ec1147eda63f7ec4b4f53a2e9a",
         "2290182ec6eddfdf869980defa14cc61",
-        "385ab034e49daebe86f6093cf910e217"
+        "385ab034e49daebe86f6093cf910e217",
+        "0d5f42cea0bd3526c43c8ca74e739e10",
+        "f1925c0af6e39aa520ffa6a282ede525",
+        "30c0547d7a62c393a3c763a62e5e57eb",
+        "c044f00c8ad42d2bc3948eae2f91413d",
+        "9de9def0d8a2514026c39c3aabb6b2ce",
+        "8062655d9cfadf177bd509eda21b1d75",
+        "af906821b5af28695658baff9661080f",
+        "91a6ff99ad09d27919aeb0b7fed43f8f",
+        "b0342ed8c7eaab67746b79dadf31088c",
+        "abed07cd7bbcc18f3f89b4b7f9da740d"
       ],
-      "last_run": "2026-06-23T17:49:01Z",
+      "last_run": "2026-06-23T18:03:48Z",
       "new_sub_topics_this_run": [
-        "LLVM 20.1.0-rc3 - Announcements - LLVM Discussion Forums",
-        "LLVM 20.1.8 Released! - Announcements - LLVM Discussion Forums",
-        "LLVM 20.1.0 Released! - Announcements - LLVM Discussion Forums",
-        "LLVM 21.1.8 Released! - Announcements - LLVM Discussion Forums",
-        "LLVM 22.1.0 Released! - Announcements - LLVM Discussion Forums",
-        "LLVM 22.1.7 Released! - Announcements - LLVM Discussion Forums",
-        "LLVM 21.1.7 Released! - Announcements - LLVM Discussion Forums",
-        "LLVM 20.1.7 Released! - Announcements - LLVM Discussion Forums",
-        "LLVM 22.1.5 Released! - Announcements - LLVM Discussion Forums"
+        "Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8",
+        "compiler-course-2026 BuildingAJIT1",
+        "LLVM Developer Meeting 2026-01",
+        "compiler-course-2026 BuildingAJIT3",
+        "The Case For Compilers: SPEC CPU 2026 on LLVM 22",
+        "Just-In-Time (JIT) Compiler with LLVM",
+        "Building Fermat: A Journey from Scratch to JIT Compiler",
+        "LLVM Implementation for Java JIT Compilers",
+        "JIT Design and Implementation - Julia Language"
       ],
-      "last_new_count": 9,
-      "_new_total_for_digest": 9
+      "last_new_count": 10,
+      "_new_total_for_digest": 10
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -439,17 +449,17 @@
         "Gabor",
         "dynamic?",
         "Navigating the Language Labyrinth: A 2026 Matrix Analysis of ..",
-        "Type system | ty - Astral Docs"
+        "Type system | ty - Astral Docs",
+        "Type inference of all constructs and the next 15 months",
+        "Navigating the Language Labyrinth: A 2026 Matrix Analysis",
+        "PyCon US 2026 Typing Summit Recap - Bernat Gabor",
+        "What type systems do you find interesting / useful / underrated?",
+        "Type Inference for Functional and Imperative Dynamic Languages",
+        "Efficient Selection of Type Annotations for Performance - arXiv",
+        "NJPLS May 2026",
+        "To what extent is type theory relevant to dynamically typed languages?"
       ],
       "last_result_hashes": [
-        "dae581661675578aa16ee3fa346f4de6",
-        "ca591ab228bfe52c7b870e3bcd4fb5bc",
-        "bbab9fef098997e462dd2abd59c32ada",
-        "9ba3e122fc0e478475bfc2ae802a7863",
-        "8c56bf2897569da404cdee98493b07d2",
-        "e55489ff20eae2327a8395132a913222",
-        "2ee1da3c629ec40c140deec8b9164a90",
-        "162482d74929676822bdb4fd8bc5ccaa",
         "8a08ccec47830b92ffbdd1aa70de4d27",
         "b2b486db31032922c82b9b4696dc28a6",
         "1892288ce3bfda31458d852753d72f5f",
@@ -461,18 +471,29 @@
         "08183a095f9bb03fe7dd6ce06dfd5115",
         "b177475a05631b06f73e531cf8aa0a39",
         "d15148db727a21d2127176e62d55e089",
-        "4b889a9c656fcd6b47e9d40775c6cc10"
+        "4b889a9c656fcd6b47e9d40775c6cc10",
+        "6c257d065a3041b16049b05a47e582ff",
+        "a47905b8e6aeadd5f227767b65f5a246",
+        "685e24bc32d9af4027f0eb5fb830112c",
+        "1a9958a78e7ae39c78870e2584d0687d",
+        "686812076d5de90d1c2ef77d554beb01",
+        "3f0e7d12a06008431c0606107ae9cdb6",
+        "30ac2d43919f96f20a0bb63c41bcff69",
+        "474d9e795c4f52bbdf5cfdeabfe5907f"
       ],
-      "last_run": "2026-06-23T17:49:01Z",
+      "last_run": "2026-06-23T18:03:48Z",
       "new_sub_topics_this_run": [
-        "TypeScript Tutorial - W3Schools",
-        "TypeScript s",
-        "TypeScript Introduction - W3Schools",
-        "JavaScript vs TypeScript in 2026: Which Should You Use? - Hashbyt",
-        "TypeScript and the dawn of gradual types - GitHub"
+        "Type inference of all constructs and the next 15 months",
+        "Navigating the Language Labyrinth: A 2026 Matrix Analysis",
+        "PyCon US 2026 Typing Summit Recap - Bernat Gabor",
+        "What type systems do you find interesting / useful / underrated?",
+        "Type Inference for Functional and Imperative Dynamic Languages",
+        "Efficient Selection of Type Annotations for Performance - arXiv",
+        "NJPLS May 2026",
+        "To what extent is type theory relevant to dynamically typed languages?"
       ],
-      "last_new_count": 5,
-      "_new_total_for_digest": 5
+      "last_new_count": 8,
+      "_new_total_for_digest": 8
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -595,18 +616,17 @@
         "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
         "Haskell Guide [2026]: Functional Programming That Changes How You Think",
         "Which Functional Programming Languages Should You Learn in 2026?",
-        "How I Learned Monads: Not Through Haskell But Through Rust"
+        "How I Learned Monads: Not Through Haskell But Through Rust",
+        "Hello, Haskell: Getting Started in 2026 - lukastymo",
+        "FP lang for 2026 - Reddit",
+        "Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv",
+        "Haskell Foundation 2026 Update - Hacker News",
+        "Community version of Learn You a Haskell - Discourse",
+        "Issue 529 - Haskell Weekly Newsletter",
+        "I think I Finally Got Monads - Hendrik Erz",
+        "The I/O problem - Haskell HaskellWiki"
       ],
       "last_result_hashes": [
-        "a00c9c62b6799813629734ab4662848c",
-        "db5d9d5744b756a9f4967c5c4ab2f275",
-        "8c0ea0d18b37f3c9d2facb56f6b40861",
-        "89230c423a69434a1c6e305257567047",
-        "0a825892b16894ee5479d8cdc9ceb413",
-        "2c6957e1f1d7ea7d57cfdd721fc5e962",
-        "28020f3c5a8f2af129aed18354a15250",
-        "a6509d85eb599c9d53b75e5cdca5c06d",
-        "8fc90f03c71853698b359d7bcecffcf7",
         "ea87e5812e8b5e040c594262f242dd1c",
         "c233ce094f809bd93c2f4474229feed5",
         "c67587cbd0b428469bb5fd6553a08780",
@@ -617,14 +637,30 @@
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "48e396ad3bb766dd1b0be8823cba3259",
         "449f1936d11b3408b5111b8fbfc6e205",
-        "c2fefc572a2578f6f202a147d877925b"
+        "c2fefc572a2578f6f202a147d877925b",
+        "14cd387e800b8b80b658ad56297837b3",
+        "ff5f6631bea10038bcdad2783cd4cf7c",
+        "be9da9017ce6e02348e052f2e7dda252",
+        "9e96e6975e2081a61e65d35af6be5b5a",
+        "169fb4c64e49d7f405511e05f35af80b",
+        "e2809728031a0a794b40bbdaef5a85f9",
+        "8d5d9ced8a7c661e05f75799f58acc51",
+        "5e9924e8af3ae3219f50c4c054e4a185",
+        "df688cb5cd9c09195c63ba37d075e101"
       ],
-      "last_run": "2026-06-23T17:49:01Z",
+      "last_run": "2026-06-23T18:03:48Z",
       "new_sub_topics_this_run": [
-        "CodeBasics | What is Haskell, and What is It Used For?"
+        "Hello, Haskell: Getting Started in 2026 - lukastymo",
+        "FP lang for 2026 - Reddit",
+        "Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv",
+        "Haskell Foundation 2026 Update - Hacker News",
+        "Community version of Learn You a Haskell - Discourse",
+        "Issue 529 - Haskell Weekly Newsletter",
+        "I think I Finally Got Monads - Hendrik Erz",
+        "The I/O problem - Haskell HaskellWiki"
       ],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "last_new_count": 9,
+      "_new_total_for_digest": 9
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -753,19 +789,19 @@
         "LeetCode Interview Questions: Top Patterns by Company (2026)",
         "10+ top LeetCode patterns (2026) to ace FAANG coding interviews - Educative",
         "Top Interview 150 - Study Plan - LeetCode",
-        "Top 10 LeetCode Patterns You Must Know for Coding Interviews in 2026"
+        "Top 10 LeetCode Patterns You Must Know for Coding Interviews in 2026",
+        "Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)",
+        "Are Big Tech interviews still DSA, LeetCode-heavy in 2026",
+        "How to prepare for Data Structures & Algorithms interview in 2026 - YouTube",
+        "I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy",
+        "Data Structures & Algorithms Interview Questions: 2026 [With Answers]",
+        "Data Structures/Algorithms to go over the day of the test - LeetCode",
+        "Amazon SDE2 Feb 2026 Selected - LeetCode Discuss",
+        "Rethinking DSA for 2026 Interview Success - LinkedIn",
+        "LeetCode vs NeetCode vs PracHub 2026 Interview Guide",
+        "Top 100 DSA Interview Questions - LeetCode"
       ],
       "last_result_hashes": [
-        "49a674ad4a5ad266578e69d11a8c6109",
-        "295b9cef600dbe7793246450fff73b05",
-        "6ba2641c1e7b988c5b2e5cca01cdfe36",
-        "1ff2c45205d19d05c322321f335f0949",
-        "ea860dcf029a27bb0cd604a80cc1d70d",
-        "a857c814273e0c7625339c1a17718eac",
-        "2b6773843051b806fc648da0662c0c3a",
-        "33962f4dabb6295952642a89c68ff646",
-        "278db2bd6915cac10b4427e396a4dfbd",
-        "00a02315b04f8e95fb7ced3e13f75bfc",
         "1a18d8cd13c22b21b307c0961b2a6935",
         "6cb7c041899a6b94ca759813488629bd",
         "8072606228e0dfe67fd443b0b74bc5e1",
@@ -775,17 +811,33 @@
         "9bf03fac52977c5ca0f636d2f1f9c479",
         "1ca4d747e88ba07a27f9f59020f1bc8b",
         "425c7b3df72090fd953b1cda95d7377e",
-        "29a6c6c9ebff31945a1de1175fcb509c"
+        "29a6c6c9ebff31945a1de1175fcb509c",
+        "7827ab24e9d276e3b17d86a148741a99",
+        "a7802a7f0cedb915b43ba91fd15e6fb2",
+        "09ba496b616b5669fa2b754644948f8b",
+        "bcf5a1251071959a2fdf7facfef56966",
+        "6ad4424d61d8084aeff283da158f5951",
+        "efaca53a4fb3332a168f55b43aac804a",
+        "df027d1352ba34c59777df192e171a4a",
+        "35f3793cac8b78d908e7f2d7bb34859d",
+        "f3955cf2ee95382fa862e1d1848eee2c",
+        "450322be20ba7396983e3f8351c23355"
       ],
-      "last_run": "2026-06-23T17:49:01Z",
+      "last_run": "2026-06-23T18:03:48Z",
       "new_sub_topics_this_run": [
-        "LeetCode Interview Questions: Top Patterns by Company (2026)",
-        "10+ top LeetCode patterns (2026) to ace FAANG coding interviews - Educative",
-        "Top Interview 150 - Study Plan - LeetCode",
-        "Top 10 LeetCode Patterns You Must Know for Coding Interviews in 2026"
+        "Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)",
+        "Are Big Tech interviews still DSA, LeetCode-heavy in 2026",
+        "How to prepare for Data Structures & Algorithms interview in 2026 - YouTube",
+        "I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy",
+        "Data Structures & Algorithms Interview Questions: 2026 [With Answers]",
+        "Data Structures/Algorithms to go over the day of the test - LeetCode",
+        "Amazon SDE2 Feb 2026 Selected - LeetCode Discuss",
+        "Rethinking DSA for 2026 Interview Success - LinkedIn",
+        "LeetCode vs NeetCode vs PracHub 2026 Interview Guide",
+        "Top 100 DSA Interview Questions - LeetCode"
       ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "last_new_count": 10,
+      "_new_total_for_digest": 10
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -916,15 +968,15 @@
         "GitHub - python/cpython: The Python programming language",
         "Your Guide to the CPython Source Code \u2013 Real Python",
         "GitHub - anasoftwareus/cpython: The Python programming language",
-        "Python vs Cpython - GeeksforGeeks"
+        "Python vs Cpython - GeeksforGeeks",
+        "Python in 2026: Free-Threading and UV Change Everything - Medium",
+        "Thread states and the global interpreter lock - Python 3.14.6 docs",
+        "How Python's GIL actually works (and when it bites you) - dev.to",
+        "Using malloc_trim to help with memory management - Python Discuss",
+        "Python 3.14: The present and future of the language of the moment",
+        "Python's Liberation: The GIL is Finally Optional - Medium"
       ],
       "last_result_hashes": [
-        "8c9ba4cb5a5e5722f9c0bc68313672d7",
-        "f8f74cde34c3552cb709915d230f7136",
-        "c4780ca847aa94e2c7dd701eb427d153",
-        "bccf28cb66143f121200c1e73b9cd51a",
-        "3977a42e266cba0d9724f6994662a434",
-        "119ff08981a6650f712f34c5191bf3f0",
         "8af847a56401e860ececcf0149182b62",
         "c1a17aa2e4bce3b0de96d72a37c299d7",
         "1c9e34c438b893768685d5e9b0743087",
@@ -938,15 +990,25 @@
         "23f806669425cddfbb81ceb3202ed519",
         "76fb8117f39114d73b4110ed5c796ad6",
         "ce83b48f88506c00b36a7252145b9325",
-        "3717fd1c2708328f8897f78a22501351"
+        "3717fd1c2708328f8897f78a22501351",
+        "17f40f751da9a1c9558ca7dbf958ae7e",
+        "601c908415755e9857c165d01aa52cc1",
+        "8b423628ec6d2503ed131cd39d530159",
+        "64629fda4c4b5acfb0a374c8843caaf1",
+        "468742a4701a77f0ca48325d95a4f4a9",
+        "7e07fd13cad414200e2964744a16c28c"
       ],
-      "last_run": "2026-06-23T17:49:01Z",
+      "last_run": "2026-06-23T18:03:48Z",
       "new_sub_topics_this_run": [
-        "Python Operators - GeeksforGeeks",
-        "Python | Microsoft Developer"
+        "Python in 2026: Free-Threading and UV Change Everything - Medium",
+        "Thread states and the global interpreter lock - Python 3.14.6 docs",
+        "How Python's GIL actually works (and when it bites you) - dev.to",
+        "Using malloc_trim to help with memory management - Python Discuss",
+        "Python 3.14: The present and future of the language of the moment",
+        "Python's Liberation: The GIL is Finally Optional - Medium"
       ],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_new_count": 6,
+      "_new_total_for_digest": 6
     }
   }
 }

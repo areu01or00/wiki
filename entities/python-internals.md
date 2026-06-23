@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV Change Every
+- **2026-06-23** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock - Py
+- **2026-06-23** | [How Python's GIL actually works (and when it bites you) - dev.to](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites
+- **2026-06-23** | [Using malloc_trim to help with memory management - Python Discuss](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using malloc_trim to help with memory management -
+- **2026-06-23** | [Python 3.14: The present and future of the language of the moment](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python 3.14: The present and future of the languag
+- **2026-06-23** | [Python's Liberation: The GIL is Finally Optional - Medium](https://medium.com/@aftab001x/pythons-liberation-the-gil-is-finally-optional-and-why-this-changes-everything-5579b43e969c) | kw: Python's Liberation: The GIL is Finally Optional -
+
 - **2026-06-23** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: Python Operators -
 - **2026-06-23** | [Python | Microsoft Developer](https://developer.microsoft.com/en-us/python) | kw: Python | Microsoft
 

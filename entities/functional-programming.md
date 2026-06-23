@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026 - lukastym
+- **2026-06-23** | [FP lang for 2026 - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026 - Reddit
+- **2026-06-23** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure Borrow: Linear Haskell Meets Rust-Style Borro
+- **2026-06-23** | [Haskell Foundation 2026 Update - Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell Foundation 2026 Update - Hacker News
+- **2026-06-23** | [Community version of Learn You a Haskell - Discourse](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community version of Learn You a Haskell - Discour
+- **2026-06-23** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Thro
+- **2026-06-23** | [Issue 529 - Haskell Weekly Newsletter](https://haskellweekly.news/issue/529.html) | kw: Issue 529 - Haskell Weekly Newsletter
+- **2026-06-23** | [I think I Finally Got Monads - Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: I think I Finally Got Monads - Hendrik Erz
+- **2026-06-23** | [The I/O problem - Haskell HaskellWiki](https://wiki.haskell.org/The_I/O_problem) | kw: The I/O problem - Haskell HaskellWiki
+
 - **2026-06-23** | [CodeBasics | What is Haskell, and What is It Used For?](https://code-basics.com/blog_posts/what-is-haskell-and-what-is-it-used-for) | kw: CodeBasics | What
 
 

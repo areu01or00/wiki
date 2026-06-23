@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: System (2026) - IMDb
+- **2026-06-23** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: SYSTEM Definition & Meaning | Dictionary.com
+- **2026-06-23** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-and-view-system-information-panel-in-windows) | kw: How to open and view System Information panel in W
+
 
 - **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System Wikipedia
 - **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: System film Wikipedia

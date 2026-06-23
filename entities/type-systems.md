@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 m
+- **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth: A 2026 Matrix A
+- **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US 2026 Typing Summit Recap - Bernat Gabor
+- **2026-06-23** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems do you find interesting / useful
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynam
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type Annotations for Perfor
+- **2026-06-23** | [NJPLS May 2026](https://njpls.org/may2026.html) | kw: NJPLS May 2026
+- **2026-06-23** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: To what extent is type theory relevant to dynamica
+
 - **2026-06-23** | [TypeScript Tutorial - W3Schools](https://www.w3schools.com/typescript/index.php) | kw: TypeScript Tutorial -
 - **2026-06-23** | [TypeScript s](https://www.typescripts.org/) | kw: TypeScript s
 - **2026-06-23** | [TypeScript Introduction - W3Schools](https://www.w3schools.com/typescript/typescript_intro.php) | kw: TypeScript Introduction -
