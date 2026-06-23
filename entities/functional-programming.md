@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [The Best Monad Tutorial Ever Written - Andrew Lilley Brinker](https://www.alilleybrinker.com/mini/the-best-monad-tutorial/) | kw: monad
+- **2026-06-23** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: good
+- **2026-06-23** | [Haskell: Monads. A 5-minute introduction - Reddit](https://www.reddit.com/r/haskell/comments/ja3ift/haskell_monads_a_5minute_introduction/) | kw: haskell
+- **2026-06-23** | [Idiomatic monads in Rust - varkor.github.io](https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html) | kw: idiomatic
+
 - **2026-06-23** | [Functional Patterns in Rust: Identity Monad - Reddit](https://www.reddit.com/r/rust/comments/1fr0jyh/functional_patterns_in_rust_identity_monad/) | kw: patterns
 - **2026-06-23** | [Haskell Mooc, part 2](https://haskell.mooc.fi/part2) | kw: haskell
 

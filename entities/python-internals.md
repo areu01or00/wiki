@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Welcome to Python.org](https://www.python.org/) | kw: python
+- **2026-06-23** | [Download Python | Python.org](https://www.python.org/downloads/) | kw: python
+- **2026-06-23** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: python
+- **2026-06-23** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: python
+
 - **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: wikipedia
 
 - **2026-06-23** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What Python Global

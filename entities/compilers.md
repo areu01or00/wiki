@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: compiler
+- **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: orcjit
+- **2026-06-23** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compiler
+- **2026-06-23** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: language
+
 - **2026-06-23** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers Modern Language
 - **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 llvm docs
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project (devmtg 2026-01)](https://llvm.org/devmtg/2026-01/) | kw: LLVM Compiler Infrastructure
