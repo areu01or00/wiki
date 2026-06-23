@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Core Skills - Algorithm & Data Structure Practice](https://neetcode.io/practice/practice/coreSkills) | kw: Core Skills - Algorithm & Data Structure Practice
+
 - **2026-06-23** | [LeetCode Is Dead in 2026 - Stackademic](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: LeetCode Is Dead in 2026 - Stackademic
 
 - **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy in 2026
