@@ -152,7 +152,7 @@
         "d3099c6517032e4d8a49b61853da6add",
         "b94a361638fc640072f39b7e4a006b83"
       ],
-      "last_run": "2026-06-23T19:33:59Z",
+      "last_run": "2026-06-23T19:49:26Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -302,7 +302,7 @@
         "da4da22ebe0b30bc79e1ad7a94e5310c",
         "385ab034e49daebe86f6093cf910e217"
       ],
-      "last_run": "2026-06-23T19:33:59Z",
+      "last_run": "2026-06-23T19:49:26Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -467,7 +467,7 @@
         "686812076d5de90d1c2ef77d554beb01",
         "3f0e7d12a06008431c0606107ae9cdb6"
       ],
-      "last_run": "2026-06-23T19:33:59Z",
+      "last_run": "2026-06-23T19:49:26Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -625,7 +625,7 @@
         "6c81f30b697f702f9ae622aed8d33d67",
         "7c5087aba9be74c21a92f4c31b0e14d6"
       ],
-      "last_run": "2026-06-23T19:33:59Z",
+      "last_run": "2026-06-23T19:49:26Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -791,10 +791,10 @@
         "54d56ed4d92d282c97b0829c1b154120",
         "11d6740bed03b7ac9fe1c5dafbda1c73"
       ],
-      "last_run": "2026-06-23T19:33:59Z",
+      "last_run": "2026-06-23T19:49:26Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 5,
-      "_new_total_for_digest": 5
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -955,10 +955,10 @@
         "d6de7058fcf7e79f71074d94426c32ad",
         "eb9f4055eb733ecbb8cc63a7db3e0549"
       ],
-      "last_run": "2026-06-23T19:33:59Z",
+      "last_run": "2026-06-23T19:49:26Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     }
   }
 }
