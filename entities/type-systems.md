@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Static Blame gradual typing Cambridge JFP](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/static-blame-for-gradual-typing/A2CADE75A6BB303599A9FF8367DF9628) | kw: Static Blame gradual typing Cambridge JFP
+- **2026-06-23** | [Static Blame gradual typing ResearchGate](https://www.researchgate.net/publication/379257288_Static_Blame_for_gradual_typing) | kw: Static Blame gradual typing ResearchGate
+- **2026-06-23** | [Optimizing evaluating transient gradual typing ACM](https://dl.acm.org/doi/10.1145/3359619.3359742) | kw: Optimizing evaluating transient gradual typing ACM
+
 - **2026-06-23** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type-systems
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ..](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
 - **2026-06-23** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type-systems
