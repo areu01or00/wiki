@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Understanding Python GIL (Global Interpreter Lock) - w3resource](https://www.w3resource.com/python/python-global-interpreter-lock-with-examples.php) | kw: Understanding Python GIL (Global Interpreter Lock) - w3resource
+
 - **2026-06-23** | [Python Killed the GIL. Go Still Wins. - Medium](https://medium.com/towardsdev/python-killed-the-gil-go-still-wins-14735a67b5e0) | kw: Python Killed the GIL. Go Still Wins. - Medium
 - **2026-06-23** | [Per-interpreter GIL in mod_wsgi 6.0.0 - Graham Dumpleton](https://grahamdumpleton.me/posts/2026/05/per-interpreter-gil-in-mod-wsgi-6-0-0/) | kw: Per-interpreter GIL in mod_wsgi 6.0.0 - Graham Dumpleton
 - **2026-06-23** | [PEP 703: Making the Global Interpreter Lock Optional : r/Python](https://www.reddit.com/r/Python/comments/14534lk/pep_703_making_the_global_interpreter_lock/) | kw: PEP 703: Making the Global Interpreter Lock Optional : r/Python

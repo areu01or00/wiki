@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau (programming language) - Wikipedia
+- **2026-06-23** | [Elixir 1.20 has a type system now: comparing it with Rust and TypeScript](https://dev.to/geekmasahiro/elixir-120-has-a-type-system-now-comparing-it-with-rust-and-typescript-31p4) | kw: Elixir 1.20 has a type system now: comparing it with Rust and TypeScript
+- **2026-06-23** | [gradual-typing - GitHub Topics](https://github.com/topics/gradual-typing) | kw: gradual-typing - GitHub Topics
+
 - **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste
 - **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months
 - **2026-06-23** | [TypeScript 6.0: What's New and Why the Type System Just Got Better](https://devstarsj.github.io/2026/06/15/typescript-6-new-features-branded-types-pattern-matching-2026/) | kw: TypeScript 6.0: What's New and Why the Type System Just Got 
