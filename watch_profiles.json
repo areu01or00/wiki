@@ -446,14 +446,6 @@
         "To what extent is type theory relevant to dynamically typed languages?"
       ],
       "last_result_hashes": [
-        "864c624f541aa32da64f03c0bca119ed",
-        "ebddfe8dc78273e26817862ee01ad6d5",
-        "61d24c6e5157e06f6618b84043de48bf",
-        "3b75bee49f1f057b646aa55135066aa0",
-        "f863069e0a6d2120ecac763d0c657005",
-        "998a42322484367a0b5c3f9c596ffe25",
-        "69bdc48d64fa0536e869ad6d8aafe0de",
-        "162482d74929676822bdb4fd8bc5ccaa",
         "b42fad13d5c2c6aa2648a8a919b28f41",
         "c7cc08352acb3981665ed1a8a1ad3b7b",
         "f841fb9df7e2a91e48f69310946ed673",
@@ -464,13 +456,12 @@
         "1f5560b1afe4b36d0a39498851f98ac0",
         "fefb7bfa85a33e8da4ee2beb757267c8",
         "0e40ec20e1a733a8136667ee5938762f",
-        "5cc1d4c55fe22c53ab06d0faccb4247c",
-        "8a08ccec47830b92ffbdd1aa70de4d27"
+        "5cc1d4c55fe22c53ab06d0faccb4247c"
       ],
       "last_run": "2026-06-23T18:32:49Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 17,
-      "_new_total_for_digest": 17
+      "last_new_count": 7,
+      "_new_total_for_digest": 7
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",

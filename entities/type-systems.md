@@ -1,14 +1,6 @@
 # Type Systems
 
 ## Updates
-- **2026-06-23** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: learn type |
-- **2026-06-23** | [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/) | kw: learn touch typing
-- **2026-06-23** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: monkeytype | minimalistic,
-- **2026-06-23** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: typingtest.com - complete
-- **2026-06-23** | [Typing Lessons - Learn To Type And Improve Typing Speed Free - ..](https://www.typing.com/student/lessons) | kw: typing lessons -
-- **2026-06-23** | [TypeRacer - Play Typing Games and Race Against Friends](https://play.typeracer.com/) | kw: typeracer - play
-- **2026-06-23** | [Ratatype — Online Touch Typing Tutor and Typing Lessons](https://www.ratatype.com/) | kw: ratatype — online
-- **2026-06-23** | [Practice](https://www.keybr.com/) | kw: practice
 - **2026-06-23** | [Type inference - Wikipedia](https://en.wikipedia.org/wiki/Type_inference) | kw: type inference
 - **2026-06-23** | [TypeScript in 2026 and What You Actually Need to Know Without ..](https://medium.com/@kantmusk/typescript-in-2026-and-what-you-actually-need-to-know-without-the-hype-bf5d28ece28a) | kw: typescript what you
 - **2026-06-23** | [Record type inference for dummies - Haskell for all](https://haskellforall.com/2026/06/record-type-inference-for-dummies) | kw: record type inference
