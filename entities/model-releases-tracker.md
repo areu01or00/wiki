@@ -17,6 +17,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-23** | [Sakana Fugu — Multi-Agent System as a Model](https://sakana.ai/fugu/) | kw: Sakana Fugu Multi-Agent | source: sakana-releases
+- **2026-06-23** | [Mistral OCR 4: Structured Document Extraction API Guide](https://www.explainx.ai/blog/mistral-ocr-4-bounding-boxes-document-ai-api-2026) | kw: Mistral OCR 4 Structured Document | source: mistral-releases
+
 - **2026-06-23** | [Sakana Fugu: One Model to Command Them All - Official Release](https://sakana.ai/fugu-release/) | kw: Sakana Fugu Ultra Release | source: sakana-releases
 - **2026-06-23** | [GitHub - SakanaAI/fugu](https://github.com/SakanaAI/fugu/) | kw: Sakana Fugu GitHub | source: sakana-releases
 - **2026-06-23** | [Apertus: The Fully Open Foundation Model for Sovereign AI (2026)](https://www.explainx.ai/blog/apertus-open-foundation-model-sovereign-ai-2026) | kw: Apertus Sovereign AI | source: swiss-ai-apertus
