@@ -157,14 +157,10 @@
         "GeeksforGeeks",
         "Advanced",
         "Modern",
-        "Idempotent"
+        "Idempotent",
+        "Done"
       ],
       "last_result_hashes": [
-        "99bb0440f5cf22a006877c61b13a3f7b",
-        "dd7a7796e5c097072dfd00a933e4ad17",
-        "327a86cca23284d9608f6e83526533f7",
-        "3628e4c27cd8c18caffbf649e725699b",
-        "1ff6d174934079d9d9cc10d33911112a",
         "cd4aa26572b82f54195010fa012ee578",
         "466bb83cc79622daeabf22bfc3288802",
         "444ced6b2ab7d1a267f4d82612ee5a57",
@@ -179,12 +175,29 @@
         "e4a82beb56dd4bd41bd98428b7c2ac53",
         "6b4d0cca675c09e97b9fe17333479390",
         "4dc51eff5c825943fd1f77ef71c3e1cc",
-        "4723cfc6b563b1ac317f21781401e5c2"
+        "4723cfc6b563b1ac317f21781401e5c2",
+        "ec939f75641e7bbcf472fe094bba0f38",
+        "075835e34e99d507a4eff711c573a474",
+        "3121833195c773d13183deb7a9ec19f7",
+        "f0bc5647f305d2bc4d59d7649eeb4dae",
+        "8478630a4731943e7e44a225f4f59c9c"
       ],
-      "last_run": "2026-06-23T23:05:12Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 3,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-23T23:18:00Z",
+      "new_sub_topics_this_run": [
+        "Event",
+        "Driven",
+        "Best",
+        "Growin",
+        "Gravitee",
+        "Scalability",
+        "Right",
+        "Reliability",
+        "Architectural",
+        "Sevalla",
+        "Done"
+      ],
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -242,7 +255,6 @@
         "unsuitable",
         "and",
         "Space",
-        "tutorial",
         "docs",
         "Internals",
         "Based",
@@ -339,14 +351,6 @@
         "Interested"
       ],
       "last_result_hashes": [
-        "145a07de41f9bd6320aac276ace40774",
-        "33a37bb082b090cb28b3d94eb53d1c96",
-        "695ab476c7cbd24b6ef64b844713108e",
-        "c0274d5a8cd9d1b84439b6863c0212ad",
-        "e324b82ded58f3d0895f3e6537a40875",
-        "2d75ff61d281725f8923bcf9edc3c7ca",
-        "e54548e9601ed8c9e1ec6af537ee5421",
-        "81492894716790bc3540dec0c724e440",
         "9ed2dfbda524d6c6001cffa9c718f206",
         "4a2865a9104e481b618401b9099e3b71",
         "f5bd0ad69cf88fb80b7990961e495435",
@@ -358,12 +362,27 @@
         "4fba16e2bd174b270b36c190501cc64a",
         "0589f45849e8c6f5a46220e8f0be2a45",
         "c19bff4efe4caa32620f6618fde66d45",
-        "2bfe21e20f0a812a27ef682ecb1dcdff"
+        "2bfe21e20f0a812a27ef682ecb1dcdff",
+        "c09177dedf4710eef5dd7f5549350ff9",
+        "76349e53471da08f94366fec68d7eeaa",
+        "3fce1bbebfe9309d6703a7c62d6d8537",
+        "e6f272a345a33b4f08c0bc6202f5d9ec",
+        "f7db75ba7c9bc236c2b5986b7e912205",
+        "b30b91ee640aedab25a45e1f64f7e888",
+        "dfbf44a009a8c16fb98a39d0ab412b66",
+        "7844e1017565c361bc58147682a7cf29"
       ],
-      "last_run": "2026-06-23T23:05:12Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 2
+      "last_run": "2026-06-23T23:18:00Z",
+      "new_sub_topics_this_run": [
+        "Increasing",
+        "Replacing",
+        "Speeds",
+        "GitLab",
+        "Topics",
+        "LLVM?"
+      ],
+      "last_new_count": 8,
+      "_new_total_for_digest": 8
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -375,7 +394,6 @@
         "Efficient Selection of Type Annotations for Performance Impr",
         "Code",
         "Astral",
-        "Topics",
         "Performance",
         "TypeScript 6.0: What's New and Why the Type System Just Got ",
         "the",
@@ -540,7 +558,6 @@
         "Rust"
       ],
       "last_result_hashes": [
-        "b58321ba0cf16607869fa4612ae95dad",
         "b2a85d189b7b7b05a9f2c9c9144fb421",
         "168d42a12ffcc9dde552d2f29e4681b2",
         "931c1423f81e0948928e12c09b9b385e",
@@ -559,12 +576,13 @@
         "e52eff7de2f81ad0525864a773c79b56",
         "925493fa7eecab99d373f88dc97fb2dc",
         "0965ab79d563760d1e44898e62451ee6",
-        "df1c31a85d2ad1e4e9d119891aa4ae05"
+        "df1c31a85d2ad1e4e9d119891aa4ae05",
+        "32c0d51fb318a4f4c8253773e3f091bf"
       ],
-      "last_run": "2026-06-23T23:05:12Z",
+      "last_run": "2026-06-23T23:18:00Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 10
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -735,14 +753,6 @@
         "Rust"
       ],
       "last_result_hashes": [
-        "50adf529ece4d7c7e84dae5c3c2b5920",
-        "2d185f0c2567eaa7773c0a0de4f51e57",
-        "b5682ae739ffc3d933f5e34dd66d5b1c",
-        "744293aa2a79c7f2f901e66081f03997",
-        "afb66b0d5ad1b52d37b17b67875d544e",
-        "97b0a202537449d0207670e2b42925a4",
-        "3d227992069cf4684231e3fc8978b90e",
-        "ab1a401478bf91151df62818473f5ef5",
         "280de845f1d1b3c57310ce3a9fa36a32",
         "c233ce094f809bd93c2f4474229feed5",
         "480d402e9012f947099ff628259136e0",
@@ -754,12 +764,23 @@
         "ed8d0a4efb3b3662d42984f0dab8a9b7",
         "52af3e34685da627087723b03a28ccf8",
         "a79f6fca168908b9300600f61ff9a711",
-        "9989d974971c23b24bd2a5f66698bb6e"
+        "9989d974971c23b24bd2a5f66698bb6e",
+        "f706c0cd772a8e254641eb9214be126d",
+        "b15aa28659ccabe3398f87c824f2ee7c",
+        "118ad77388f20a14d3b8caa92bbe1e1f",
+        "2153a59d98e233410d877bdbdd11fa54",
+        "90d5f6d7702fe11eeb3c7f40d4facef4",
+        "e14815b1982efe5f2ca182faba3ad6f5",
+        "04b6b25851bfeb1b7fcb2122bea74637",
+        "05ebcfa1d8245c99ccf84adea6ec26b3"
       ],
-      "last_run": "2026-06-23T23:05:12Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 1,
-      "_new_total_for_digest": 4
+      "last_run": "2026-06-23T23:18:00Z",
+      "new_sub_topics_this_run": [
+        "Tutorialspoint",
+        "Tutorial"
+      ],
+      "last_new_count": 8,
+      "_new_total_for_digest": 8
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -866,7 +887,6 @@
         "Algorithms",
         "Are",
         "Structures",
-        "Tutorial",
         "Commitment",
         "Study",
         "Selected",
@@ -932,9 +952,6 @@
         "with"
       ],
       "last_result_hashes": [
-        "8e5d8e089ce7fb063a91775e8487d1bb",
-        "23dbcd7c58e935174de11fa569f7799e",
-        "b62338675c5a7e75848c8c6236dc623f",
         "79e35f35c8d7ce2fc12d8ced7ffd3727",
         "1ca4d747e88ba07a27f9f59020f1bc8b",
         "1e06a8453fa5a2cf63e28dd245767d37",
@@ -951,12 +968,15 @@
         "104309f7e9293468d2f174ddf1891d8a",
         "47b7a313055c120d394a9420f71b6395",
         "4dff80eb45ae0e900603f715c1032bdc",
-        "cab194fa3aa9f7047e5d9403fa921cfb"
+        "cab194fa3aa9f7047e5d9403fa921cfb",
+        "2b6773843051b806fc648da0662c0c3a",
+        "188d8cf5e82e364c33114f3eeda5caf3",
+        "8072606228e0dfe67fd443b0b74bc5e1"
       ],
-      "last_run": "2026-06-23T23:05:12Z",
+      "last_run": "2026-06-23T23:18:00Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 4
+      "last_new_count": 3,
+      "_new_total_for_digest": 3
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -995,7 +1015,6 @@
         "Lock",
         "Charting Python Parallel",
         "bites",
-        "Best",
         "Controversy",
         "Geeks",
         "Maturin",
@@ -1070,7 +1089,6 @@
         "Broken",
         "Gopher",
         "Compiler",
-        "Tutorial",
         "Download",
         "True",
         "Immortal",
@@ -1123,34 +1141,59 @@
         "Benchmarks",
         "GitHub",
         "Free Threaded Python",
-        "states"
+        "states",
+        "Stock",
+        "Gildan",
+        "Price",
+        "Activewear",
+        "Barron's",
+        "Inc.",
+        "MarketWatch"
       ],
       "last_result_hashes": [
-        "b5b247fb8b983960de89159c478ae359",
-        "e895e15a79dbd780537065f7c5e0dba3",
-        "d1d795024c23aeaebc01391f203e46ad",
-        "293ccc2116728d7f35ef5d7c162c249d",
-        "6d4c804cce323ad538a069ec84de2bcc",
-        "b7dfa7bcd6f4f6ef4d3bfb15a971763c",
-        "00d7f928ba6f353cfde38cafdf1e7902",
-        "42ce62490e5ec1f35fe0c190028194bb",
-        "661f5f68f6928f4ea520218b2f607795",
-        "dbd37a4229fff83fce7f6802c6805f45",
-        "8c6a3d5cb7e22d710beb38f6026d4145",
-        "bf63cc935d2d478173c284947c850ee2",
-        "a04cc2111dc3f0a335a0ff83de3790d8",
         "57ad949b13054a49134274f7b5cbab95",
         "a22cc85f4eea471924b785721191d3ff",
         "4103b94e42b825d0021b7dfd0fe609e6",
         "c2190a34f8bd450d284c3f3ebbabbf12",
         "7daca63ebf93f7352f5d3cbdf0f1048a",
         "bc46e2bcc23714c5243a5210b1d2f5ae",
-        "252aeecc8e6af8b290c46f58ba5a0e33"
+        "252aeecc8e6af8b290c46f58ba5a0e33",
+        "0c1498a2228e2eace075aab8ff1d7a1a",
+        "77d1fcf80621361b0a6c86134bff38c3",
+        "8f7f936645177e7fb35576ca4a466aa1",
+        "c8c01165bd8fc5e8b8560728f1f56cec",
+        "ea840cbe920d927a1019a105090cd3a5",
+        "37397def64f4b82d181c19276e202d89",
+        "a449b1218322de442f4d05c601dbabea",
+        "af1cbd4bd84c80480de2630acd509aab",
+        "76fb8117f39114d73b4110ed5c796ad6",
+        "ce83b48f88506c00b36a7252145b9325",
+        "b50d133596ee25b10936e1b77549541f",
+        "cf5a7088de419c90e1df95edc6179415",
+        "fa578d0cb96d19e0416d1409a8f4bd39"
       ],
-      "last_run": "2026-06-23T23:05:12Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 2,
-      "_new_total_for_digest": 1
+      "last_run": "2026-06-23T23:18:00Z",
+      "new_sub_topics_this_run": [
+        "Joshua",
+        "StockAnalysis",
+        "Obituary",
+        "Eater",
+        "Yahoo",
+        "Ballotpedia",
+        "Cisneros",
+        "Zacks",
+        "Finance",
+        "Chef",
+        "Stock",
+        "Gildan",
+        "Price",
+        "Activewear",
+        "Barron's",
+        "Inc.",
+        "MarketWatch"
+      ],
+      "last_new_count": 12,
+      "_new_total_for_digest": 12
     }
   }
 }

@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Evaluating Python 3.14's Free-Threaded Interpreter - Medium](https://roturgo.medium.com/evaluating-python-3-14s-free-threaded-interpreter-55140c0b8b82) | kw: evaluating
+
 - **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python
 - **2026-06-23** | [Unlocking Performance in Python's Free-Threaded Future: GC](https://labs.quansight.org/blog/free-threaded-gc-3-14) | kw: unlocking
 

@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Best Architectural Patterns for Event-Driven Systems - Gravitee](https://www.gravitee.io/blog/event-driven-architecture-patterns) | kw: Best, Architectural, Patterns
+- **2026-06-23** | [Event-Driven Architecture(EDA) - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/event-driven-architecture-system-design/) | kw: Event, Driven, Architecture(EDA
+- **2026-06-23** | [Scalability and Reliability in Event-Driven Systems - Medium](https://medium.com/@suadev/scalability-and-reliability-in-event-driven-systems-scaling-system-components-for-high-throughput-4be595fbdabf) | kw: Scalability, Reliability, Event
+- **2026-06-23** | [Event-driven architecture with domain-driven design - Sevalla](https://sevalla.com/blog/event-driven-architecture-ddd/) | kw: Event, driven, architecture
+- **2026-06-23** | [Event Driven Architecture Done Right - Growin](https://www.growin.com/blog/event-driven-architecture-scale-systems-2025/) | kw: Event, Driven, Architecture
+
 - **2026-06-23** | [Event-Driven Microservices: Kafka, RabbitMQ, NATS](https://dasroot.net/posts/2026/01/event-driven-microservices-kafka-rabbitmq-nats/) | kw: event-driven
 - **2026-06-23** | [Event-Driven Architecture in 2026: Why My Microservices Finally Stopped](https://blog.rebalai.com/en/2026/03/09/event-driven-architecture-in-2026-why-microservice/) | kw: event-driven
 - **2026-06-23** | [Event-Driven Architecture Deep Dive for Software and Cloud Engineers](https://blogs.businesscompassllc.com/2026/06/event-driven-architecture-deep-dive-for.html) | kw: event-driven
