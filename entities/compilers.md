@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [LLVM JIT: any JIT-compiled query crashes (SIGILL) on a libLLVM 19 (PostgreSQL commitfest)](https://commitfest.postgresql.org/patch/6870/) | kw: LLVM JIT: any JIT-compiled query crashes | source: compilers
+
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: JIT compiler continuously analyses code being executed and i | source: compilers
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project - Dev Meeting](https://llvm.org/devmtg/2026-04/) | kw: LLVM Dev Meeting 2026-04 | source: compilers
 - **2026-06-23** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Apr 15, 2026 - From line of code to CPU execution | source: compilers
