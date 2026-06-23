@@ -253,12 +253,9 @@
       "6f94f4eb67a12cf09b27143596ed4f8f",
       "34606ca8c020e5189c7336dcee28588b"
     ],
-    "last_run": "2026-06-23T00:34:43.316018+00:00",
-    "new_sub_topics_this_run": [
-      "Agent",
-      "Pharos"
-    ],
-    "last_new_count": 1
+    "last_run": "2026-06-23T00:50:53.155658+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "compilers": {
     "query": "compilers LLVM JIT compilation 2026",
@@ -570,12 +567,9 @@
       "48b2f92fc5464284121d41c75593b6eb",
       "8244346987304076c54b685fc98a31c8"
     ],
-    "last_run": "2026-06-23T00:34:43.316018+00:00",
-    "new_sub_topics_this_run": [
-      "C interpreter",
-      "GPU JIT"
-    ],
-    "last_new_count": 4
+    "last_run": "2026-06-23T00:50:53.155658+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -863,15 +857,9 @@
       "3f0e7d12a06008431c0606107ae9cdb6",
       "c86aaff8bd0c8d9df11b67e53352b6cb"
     ],
-    "last_run": "2026-06-23T00:34:43.316018+00:00",
-    "new_sub_topics_this_run": [
-      "ty",
-      "ty",
-      "ty",
-      "ty",
-      "ty"
-    ],
-    "last_new_count": 6
+    "last_run": "2026-06-23T00:50:53.155658+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -1190,15 +1178,9 @@
       "23e741a44e07dbf02916cb663816cd1e",
       "f48ee5c98617ddccbccdabab6b230c66"
     ],
-    "last_run": "2026-06-23T00:34:43.316018+00:00",
-    "new_sub_topics_this_run": [
-      "monad",
-      "monad",
-      "monad",
-      "monad",
-      "monad"
-    ],
-    "last_new_count": 7
+    "last_run": "2026-06-23T00:50:53.155658+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "algorithms": {
     "query": "algorithms data structures LeetCode interview 2026",
@@ -1458,11 +1440,9 @@
       "12e48bdb8130d2ea5b4f9fdf8e060f54",
       "285f086b62cf39689efe13b2d90280fd"
     ],
-    "last_run": "2026-06-23T00:34:43.316018+00:00",
-    "new_sub_topics_this_run": [
-      "These"
-    ],
-    "last_new_count": 1
+    "last_run": "2026-06-23T00:50:53.155658+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   },
   "python-internals": {
     "query": "Python internals GIL memory management 2026",
@@ -1736,12 +1716,8 @@
       "468742a4701a77f0ca48325d95a4f4a9",
       "f04ff041b29f9e8e9412695179cb1a10"
     ],
-    "last_run": "2026-06-23T00:34:43.316018+00:00",
-    "new_sub_topics_this_run": [
-      "uv",
-      "malloc_trim",
-      "multithreading"
-    ],
-    "last_new_count": 10
+    "last_run": "2026-06-23T00:50:53.155658+00:00",
+    "new_sub_topics_this_run": [],
+    "last_new_count": 0
   }
 }
