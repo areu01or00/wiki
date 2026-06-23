@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project - OpenProjects
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - Home](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project - Home
+
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation - Wik
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructu
 - **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT at Scale with the llvm-

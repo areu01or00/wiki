@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) - Wikipedia
+- **2026-06-23** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Patterns](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns in Rust: Exploring Functional
+- **2026-06-23** | [Functional Programming - Rust Design Patterns](https://rust-unofficial.github.io/patterns/functional/) | kw: Functional Programming - Rust Design Patterns
+- **2026-06-23** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming & Monads
+
 - **2026-06-23** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026)](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI
 
 - **2026-06-23** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026 | Functio

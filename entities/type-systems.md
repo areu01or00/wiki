@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic Typing: The Ultimate Guide to Type System
+
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in Gradually Typed Programs](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Impr
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement (arXiv 2603.05649)](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection of Type Annotations for Performance Impr
 

@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Thinking](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start
+- **2026-06-23** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: The Ultimate Leetcode Roadmap: Data Structures & Algorithms 
+
 - **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has the format changed?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy in 2026, o
 
 - **2026-06-23** | [GitHub - heydi424/DSA-Handbook-for-Coding-Interviews_2026 ...](https://github.com/heydi424/DSA-Handbook-for-Coding-Interviews_2026) | kw: GitHub - heydi424/DSA-Handbook
