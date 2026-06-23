@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Monads And Their Use in Modern Programming](https://www.linkedin.com/pulse/monads-use-modern-programming-enrique-ortuño-znk9f) | kw: Monads And Their
+
 
 - **2026-06-23** | [Haskell Foundation](https://haskell.foundation/) | kw: Haskell Foundation | source: functional-programming
 - **2026-06-23** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam vs. Rust | source: functional-programming

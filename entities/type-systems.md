@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [(PDF) Gradual typing with unification-based inference](https://www.researchgate.net/publication/220828930_Gradual_typing_with_unification-based_inference) | kw: (PDF) Gradual typing
+- **2026-06-23** | [](/clev?event=StartpageResultClick&sc=maXqNizppdQewqPSh6lO7lgCdM2gdx9LnxCgpCuislKARt2RBp7qT1TDGMYGVFcBwgq5gK4qlMlAQt&payload=...) | kw: 
+
 
 - **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste | source: type-systems
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in ..](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Impr | source: type-systems

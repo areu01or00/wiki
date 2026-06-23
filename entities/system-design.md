@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [I Have 73 Browser Tabs Open. ADHD Made Me a Better Architect.](https://chudi.dev/blog/adhd-systems-architecture-engineering) | kw: Have Browser Tabs
+- **2026-06-23** | [A brief introduction to distributed systems | Computing](https://link.springer.com/article/10.1007/s00607-016-0508-7) | kw: brief introduction distributed
+
 
 - **2026-06-23** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns | source: system-design
 - **2026-06-23** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 2026 | source: system-design

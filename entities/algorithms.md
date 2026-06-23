@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Mastering Coding Interviews: Essential Skills for 2026 - LinkedIn](https://www.linkedin.com/posts/pramodbhosale-_codegreedy-leetcode-interview-activity-7411304024014147584-Hojk) | kw: Mastering Coding Interviews:
+- **2026-06-23** | [Coding Interviews in 2026: Complete DSA & System Design Preparation ...](https://www.tutort.net/blogs/coding-interviews-in-2026-everything-you-need-to-prepare) | kw: Coding Interviews 2026:
+
 
 - **2026-06-23** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ..](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start | source: algorithms
 - **2026-06-23** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap: Learn Data Structures and Algorithms [2026] - S | source: algorithms
