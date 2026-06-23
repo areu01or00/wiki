@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-23** | [Haskell Foundation](https://haskell.foundation/) | kw: Haskell Foundation | source: functional-programming
+- **2026-06-23** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam vs. Rust | source: functional-programming
+- **2026-06-23** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming — Monad ... | source: functional-programming
+- **2026-06-23** | [Haskell Guide [2026]: Functional Programming That Changes How ..](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026]: Functional Programming That Changes Ho | source: functional-programming
+- **2026-06-23** | [Does Rust Support Functional Programming Idioms? Exploring ..](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does Rust Support Functional Programming Idioms? Exploring . | source: functional-programming
+- **2026-06-23** | [Mastering Functional Programming Concepts: A Leader's Guide](https://www.tekrecruiter.com/post/functional-programming-concepts) | kw: Mastering Functional Programming Concepts: A Leader's Guide | source: functional-programming
+
 - **2026-06-23** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: In functional programming languages like Haskell, a monad is formally defined... | source: functional-programming
 
 - **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monads structure computations as a sequence of steps with ex | source: functional-programming

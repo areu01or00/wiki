@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV Change Everything - Me | source: python-internals
+- **2026-06-23** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites you) | source: python-internals
+- **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 ..](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock — Python 3.14. | source: python-internals
+- **2026-06-23** | [Python's GIL Is Gone in 3.13. But Your Code Probably Doesn't ..](https://medium.com/@sohail_saifi/pythons-gil-is-gone-in-3-13-but-your-code-probably-doesn-t-benefit-yet-here-s-exactly-why-31d2d93ff76c) | kw: Python's GIL Is Gone in 3.13. But Your Code Probably Doesn't | source: python-internals
+- **2026-06-23** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: What's new in Python 3.14 — Python 3.14.6 documentation | source: python-internals
+- **2026-06-23** | [Python 3.14: The present and future of the language of the moment](https://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python 3.14: The present and future of the language of the m | source: python-internals
+- **2026-06-23** | [Understanding how GIL Affects Checkpoint Performance in PyTorch ..](https://www.shayon.dev/post/2026/38/understanding-how-gil-affects-checkpoint-performance-in-pytorch-training/) | kw: Understanding how GIL Affects Checkpoint Performance in PyTo | source: python-internals
+
 - **2026-06-23** | [Python 3.14 Free-Threading: Real Benchmarks, Real Breakage](https://www.danilchenko.dev/posts/python-314-free-threading/) | kw: Apr 13, 2026 | source: python-internals
 - **2026-06-23** | [Python 3.14 Free-Threading True Parallelism Without the GIL](https://dev.to/edgar_montano/python-314-free-threading-true-parallelism-without-the-gil-a12) | kw: Nov 7, 2025 | source: python-internals
 - **2026-06-23** | [Python 3.13: Free Threading and a JIT Compiler](https://realpython.com/python313-free-threading-jit/) | kw: Sep 18, 2024 | source: python-internals

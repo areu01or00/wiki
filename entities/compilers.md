@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation - Wikipedia | source: compilers
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - Open Projects](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project - Open Projects | source: compilers
+- **2026-06-23** | [2026 EuroLLVM Developers' Meeting - Agenda](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: 2026 EuroLLVM Developers' Meeting - Agenda | source: compilers
+- **2026-06-23** | [New LLVM JIT Features - Internals & Design - Julia Discourse](https://discourse.julialang.org/t/new-llvm-jit-features/22754) | kw: New LLVM JIT Features - Internals & Design - Julia Discourse | source: compilers
+
 - **2026-06-23** | [LLVM JIT: any JIT-compiled query crashes (SIGILL) on a libLLVM 19 (PostgreSQL commitfest)](https://commitfest.postgresql.org/patch/6870/) | kw: LLVM JIT: any JIT-compiled query crashes | source: compilers
 
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: JIT compiler continuously analyses code being executed and i | source: compilers

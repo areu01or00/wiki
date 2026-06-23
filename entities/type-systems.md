@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste | source: type-systems
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in ..](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Impr | source: type-systems
+- **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for Performance ..](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for Per | source: type-systems
+- **2026-06-23** | [Luau Type System Complete Guide — Strict Mode, Generics & Type ..](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide — Strict Mode, Generics & Ty | source: type-systems
+- **2026-06-23** | [TypeScript 6.0: What's New and Why the Type System Just Got ..](https://devstarsj.github.io/2026/06/15/typescript-6-new-features-branded-types-pattern-matching-2026/) | kw: TypeScript 6.0: What's New and Why the Type System Just Got  | source: type-systems
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in ..](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations for Performance Impr | source: type-systems
+- **2026-06-23** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types to Work - NSF Public Access | source: type-systems
+
 - **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: May 14, 2026 - gradual layer took weeks | source: type-systems
 
 - **2026-06-23** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system - Wikipedia

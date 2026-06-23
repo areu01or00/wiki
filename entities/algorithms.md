@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-23** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ..](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start | source: algorithms
+- **2026-06-23** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap: Learn Data Structures and Algorithms [2026] - S | source: algorithms
+- **2026-06-23** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert (2026) | source: algorithms
+- **2026-06-23** | [Data Structures and Algorithms in 2026: What Backend ..](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: Data Structures and Algorithms in 2026: What Backend .. | source: algorithms
+- **2026-06-23** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode - The World's Leading Programming Learning Platform | source: algorithms
+- **2026-06-23** | [Leetcode Algorithm Coach Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: Leetcode Algorithm Coach Guide (2026) - ShadeCoder | source: algorithms
+- **2026-06-23** | [How to Learn Data Structures and Algorithms Effectively: A Plan](https://sudonull.com/how-to-learn-data-structures-and-algorithms-effectively-a-plan) | kw: How to Learn Data Structures and Algorithms Effectively: A P | source: algorithms
+- **2026-06-23** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode ...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: Comprehensive List of 50 Frequently Asked DSA and LeetCode . | source: algorithms
+
 - **2026-06-23** | [data-structures Repositorios de GitHub - Git Stars](https://git-stars.org/es/repositories/topic/data-structures) | kw: #data-structures Repositorios. 366. Total de Repositorios.labuladong/fucking-... | source: algorithms
 - **2026-06-23** | [Master key data structures and algorithms with LeetCode - LinkedIn](https://www.linkedin.com/posts/slothdevs_algorithms-datastructures-leetcode-activity-7379706524392329217-fWj3) | kw: This is a great resource for mastering key data structures and algorithms thr... | source: algorithms
 
