@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: monad
+- **2026-06-23** | [rust - Lifting function to Option - Stack Overflow](https://stackoverflow.com/questions/63260988/lifting-function-to-option) | kw: Rust
+- **2026-06-23** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: monad
+- **2026-06-23** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: monad
+- **2026-06-23** | [GitHub - nsu-syspro/haskell-monads-2026](https://github.com/nsu-syspro/haskell-monads-2026) | kw: monad
+- **2026-06-23** | [Monads Demystified: The Math-Driven Superpower](https://readllm.com/docs/tech/latest/monads-demystified-the-math-driven-superpower-behind-functional-programming/) | kw: monad
+- **2026-06-23** | [Just how much can you do with functions? Haskell Functional - YouTube](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: Haskell
+
 - **2026-06-23** | [The Practical Value of Functional Programming — Monad, Functor, Pure ..](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional
 - **2026-06-23** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: functional
 - **2026-06-23** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: haskell

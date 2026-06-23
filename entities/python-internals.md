@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: free-threading
+- **2026-06-23** | [How Pythons GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: GIL
+- **2026-06-23** | [Whats new in Python 3.14 - Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: Python
+- **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: GIL
+- **2026-06-23** | [Using malloc_trim to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: memory management
+- **2026-06-23** | [5 Python Performance Killers Expert Fixes 2026 Guide](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: Python
+- **2026-06-23** | [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Python
+- **2026-06-23** | [Understanding how GIL Affects Checkpoint Performance in PyTorch](https://www.shayon.dev/post/2026/38/understanding-how-gil-affects-checkpoint-performance-in-pytorch-training/) | kw: GIL
+- **2026-06-23** | [Python 3.14: The present and future of the language of the moment](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python
+- **2026-06-23** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: GIL
+
 - **2026-06-23** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: gil
 - **2026-06-23** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: gil
 - **2026-06-23** | [What is the Global Interpreter Lock (GIL) in Python? Is It ...](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: gil

@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: JIT
+- **2026-06-23** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT
+- **2026-06-23** | [2026 EuroLLVM Developers Meeting - Agenda](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: LLVM
+- **2026-06-23** | [LLNL Researchers Develop GPU JIT Compiler for Large-Scale HPC](https://www.hpcwire.com/off-the-wire/llnl-researchers-develop-gpu-jit-compiler-for-large-scale-hpc-applications/) | kw: JIT
+
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: watch
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: llvm
 - **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: llvm
