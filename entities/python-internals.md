@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: mode
+- **2026-06-23** | [Python 3.14 Free-Threaded: 8× Speed Benchmarks + Install Guide](https://python.plainenglish.io/python-3-14-free-threaded-8-speed-benchmarks-install-guide-gil-dead-in-2025-5a1b998d4c92) | kw: 3.14
+- **2026-06-23** | [Python 3.14 and GIL in CPython](https://medium.com/@almacitunaberk/python-3-14-and-gil-in-cpython-822191fa3616) | kw: 3.14
+- **2026-06-23** | [Python's Free-Threading Mode: Is It Time... - Nandann Creative Agency](https://www.nandann.com/blog/python-free-threading-2026) | kw: Mode
+- **2026-06-23** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: What
+- **2026-06-23** | [Liberating Performance with Immutable DataFrames in Free-Threaded Python](https://levelup.gitconnected.com/liberating-performance-with-immutable-dataframes-in-free-threaded-python-0111cde15b65) | kw: Liberating
+- **2026-06-23** | [Chapter 32: CPython and GIL | AI Native Software Development](https://ai-native.panaversity.org/docs/Python-Fundamentals/cpython-gil) | kw: Chapter
+- **2026-06-23** | [What is the GIL? | pydevtools](https://pydevtools.com/handbook/explanation/what-is-the-gil/) | kw: What
+
 - **2026-06-23** | [8 Best YouTube Channels for Python in 2026 (Ranked)](https://learnwithpath.com/blog/best-youtube-channels-for-python-2026) | kw: Best,YouTube,Channels
 
 - **2026-06-23** | [Goodbye GIL - Exploring Free Threaded Python 3.14](https://blog.adarshd.dev/posts/exploring-free-threaded-python-314/) | kw: python-internals

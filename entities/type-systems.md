@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [TypeScript - Wikipedia](https://en.wikipedia.org/wiki/TypeScript) | kw: type systems
+- **2026-06-23** | [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/) | kw: type systems
+- **2026-06-23** | [TypeScript Tutorial - W3Schools](https://www.w3schools.com/typescript/index.php) | kw: Tutorial
+- **2026-06-23** | [The starting point for learning TypeScript](https://www.typescriptlang.org/docs/) | kw: starting
+- **2026-06-23** | [GitHub - microsoft/TypeScript: TypeScript is a superset of JavaScript that compiles to clean JavaScript output.](https://github.com/microsoft/TypeScript) | kw: superset
+- **2026-06-23** | [TypeScript s](https://www.typescripts.org/) | kw: type systems
+- **2026-06-23** | [Announcing TypeScript 6.0 - devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/) | kw: devblogs.microsoft.com
+
 - **2026-06-23** | [Safe & Efficient Gradual Typing for TypeScript - ACM Digital Library](https://dl.acm.org/doi/10.1145/2676726.2676971) | kw: Safe,Efficient,Gradual
 - **2026-06-23** | [Types as axioms, or: playing god with static types - Alexis King](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/) | kw: Types,axioms,,playing
 - **2026-06-23** | [Haskell isn't "pure" static typing, but what should we call it then?](https://discourse.haskell.org/t/haskell-isnt-pure-static-typing-but-what-should-we-call-it-then/11904) | kw: Haskell,isn't,"pure"

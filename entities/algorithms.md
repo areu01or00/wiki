@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: Wikipedia
+- **2026-06-23** | [List of algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms) | kw: Wikipedia
+- **2026-06-23** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What
+- **2026-06-23** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: Robert
+- **2026-06-23** | [Algorithms | Computer science theory | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: Computer
+- **2026-06-23** | [Introduction to Algorithms | Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: Electrical
+- **2026-06-23** | [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: algorithms
+- **2026-06-23** | [Algorithm | Definition, Types, & Facts | Britannica](https://www.britannica.com/science/algorithm) | kw: Types
+
 - **2026-06-23** | [What is an Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What, Algorithm, GeeksforGeeks
 - **2026-06-23** | [Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: Algorithms, Khan, Academy
 - **2026-06-23** | [Introduction to Algorithms - MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: Introduction, Algorithms

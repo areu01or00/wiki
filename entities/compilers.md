@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Inline
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: compilers
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at course-spring-2026](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: 2026
+- **2026-06-23** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: 2026
+- **2026-06-23** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just
+- **2026-06-23** | [Building Fermat: A Journey from Scratch to JIT Compiler (Part 1)](https://medium.com/@satyikpritamy/building-fermat-a-journey-from-scratch-to-jit-compiler-part-1-8f3726a67d27) | kw: Fermat
+
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time, compilation, Wikipedia
 - **2026-06-23** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM, Compiler, Infrastructure
 - **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT, Scale, with

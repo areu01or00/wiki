@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional programming
+- **2026-06-23** | [What Are Monads? Leibniz on the Most Fundamental Substance](https://www.thecollector.com/what-are-monads-leibniz/) | kw: Monads?
+- **2026-06-23** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: functional programming
+- **2026-06-23** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: Programming?
+- **2026-06-23** | [The Theory Of Monads And Leibniz's Blueprint For Reality](https://philosopedia.org/the-theory-of-monads-and-leibniz-s-blueprint-for-reality/) | kw: Theory
+- **2026-06-23** | [functional programming - Monad in plain English? (For the OOP programmer with no FP background)](https://stackoverflow.com/questions/2704652/monad-in-plain-english-for-the-oop-programmer-with-no-fp-background) | kw: plain
+- **2026-06-23** | [Understanding Monads in Functional Programming: A Comprehensive Guide](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide/) | kw: functional programming
+- **2026-06-23** | [Monad | Gottfried Leibniz, Metaphysics, Substance | Britannica](https://www.britannica.com/topic/monad) | kw: Gottfried
+
 - **2026-06-23** | [FP lang for 2026 - Reddit r/functionalprogramming](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: lang, 2026, Reddit
 - **2026-06-23** | [Haskell Foundation 2026 Update - Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell, Foundation, 2026
 - **2026-06-23** | [Community version of Learn You a Haskell 2026 update](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community, version, Learn

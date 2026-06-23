@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system design
+- **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: film
+- **2026-06-23** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open
+- **2026-06-23** | [What Is a System? Definition, Types, and Examples](https://scienceinsights.org/what-is-a-system-definition-types-and-examples/) | kw: What
+- **2026-06-23** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: Definition
+- **2026-06-23** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: IMDb
+- **2026-06-23** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-and-view-system-information-panel-in-windows) | kw: open
+- **2026-06-23** | [What does system mean? - Definitions.net](https://www.definitions.net/definition/system) | kw: What
+
 - **2026-06-23** | [144) Exploring Modern Architecture Patterns: Event-Driven...](https://aws.plainenglish.io/144-exploring-modern-architecture-patterns-event-driven-microservices-fan-out-schedule-18dd3daf67b2) | kw: 144, Exploring, Modern
 - **2026-06-23** | [Microservices & Event-Driven Architecture Series](https://www.linkedin.com/posts/gamishurovsky_microservices-event-driven-architecture-activity-7441070789136736256-7hzS) | kw: Microservices, Event, Driven
 - **2026-06-23** | [Best Practices for Event-Driven Microservice Architecture](https://hackernoon.com/best-practices-for-event-driven-microservice-architecture-e034p21lk) | kw: Best, Practices, Event
