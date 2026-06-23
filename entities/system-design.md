@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system design
+- **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: system design
+- **2026-06-23** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: system design
+- **2026-06-23** | [What Is a System? Definition, Types, and Examples](https://scienceinsights.org/what-is-a-system-definition-types-and-examples/) | kw: system design
+- **2026-06-23** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: system design
+
 - **2026-06-23** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: three bold predictions
 - **2026-06-23** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system design guide
 - **2026-06-23** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: distributed systems patterns

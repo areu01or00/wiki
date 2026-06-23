@@ -131,6 +131,11 @@
         "How to open and view System Information panel in Windows 11"
       ],
       "last_result_hashes": [
+        "94c1b0f099f1d566f3fdedccba3cf97b",
+        "91dac6710169bf7346d4292a6eb2d0c9",
+        "66ae815700cacb4e96d1e78f07e63810",
+        "ba78e26f83ca072ccd4dba08b465f313",
+        "30eb2e1134419c9dd635b852dc30339c",
         "401ac43fcb266731bf806fa34acbf462",
         "95a58c1932bb63705534a342f68b440d",
         "fd3b08fa9ad96f88d592aea4585d4a60",
@@ -145,17 +150,12 @@
         "04bcb9f6e32764503807fc5b6e4b2441",
         "807d0a4adc5b1218c58ffbc345610d00",
         "b2e8ffd3b73beecc47b21c6d2c49c854",
-        "67ba7fb5fa4550ac9fca6b578a488209",
-        "07550bd5bf7eb2464189443840582802",
-        "341e3967f96e080f08e7282f57b70a3e",
-        "b423b328489be6600827d14ac98bb359",
-        "d3099c6517032e4d8a49b61853da6add",
-        "b94a361638fc640072f39b7e4a006b83"
+        "67ba7fb5fa4550ac9fca6b578a488209"
       ],
-      "last_run": "2026-06-23T20:03:20Z",
+      "last_run": "2026-06-23T20:18:19Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -281,6 +281,9 @@
         "JIT Design and Implementation - Julia Language"
       ],
       "last_result_hashes": [
+        "4cee999b71414851927c1c3805e155c2",
+        "88cc964a32a15635341d81f11a8aa1db",
+        "da2a9627437ec27ab2a13b536f37cf45",
         "ae52da9b2da392771114a1ecd7eb5950",
         "56495f55561a46e30f94da251cb0ef30",
         "e3d0ff2c4d30e6122f7a8dd8ba8abee3",
@@ -297,15 +300,12 @@
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
         "e782e5cfec0aac8483730db128ffda54",
         "4a875ba6c9df4a6d863a675c9bbe1244",
-        "ac9f7c54df4521ad492be79a4116a983",
-        "5f27f4f0ec7b40b86be3b5add92cedfa",
-        "da4da22ebe0b30bc79e1ad7a94e5310c",
-        "385ab034e49daebe86f6093cf910e217"
+        "ac9f7c54df4521ad492be79a4116a983"
       ],
-      "last_run": "2026-06-23T20:03:20Z",
+      "last_run": "2026-06-23T20:18:19Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 3,
+      "_new_total_for_digest": 3
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -446,6 +446,11 @@
         "To what extent is type theory relevant to dynamically typed languages?"
       ],
       "last_result_hashes": [
+        "931c1423f81e0948928e12c09b9b385e",
+        "de6f04da6e7a031bda3acd2fa272cf4a",
+        "dae581661675578aa16ee3fa346f4de6",
+        "eee8057a4cd46f3ddca5942df7543e9f",
+        "5b66ea87bc1501a45adc2e047d12ae02",
         "685e24bc32d9af4027f0eb5fb830112c",
         "1a9958a78e7ae39c78870e2584d0687d",
         "686812076d5de90d1c2ef77d554beb01",
@@ -460,17 +465,12 @@
         "4d933f30f8ac7d22e45ee1c5db1f8dfa",
         "77976139d4ef44a7b07c8bc897ba4500",
         "1b1a1f8ce600cf7dd0528353a910472c",
-        "ce2a0cce1b81e65e7b67f7915f6a5771",
-        "adb098a1de07fa32b2f66da7396ca3e6",
-        "1beaf8afe9cff6d64597a4b035d606dc",
-        "7c32c9e26b62a4138cfb84da77a3d510",
-        "4865e5d19f0912de16430884b771b006",
-        "596353b34777d969fc7b4a4a2607eedb"
+        "ce2a0cce1b81e65e7b67f7915f6a5771"
       ],
-      "last_run": "2026-06-23T20:03:20Z",
+      "last_run": "2026-06-23T20:18:19Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 16,
-      "_new_total_for_digest": 16
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -606,6 +606,9 @@
         "Erz"
       ],
       "last_result_hashes": [
+        "b15aa28659ccabe3398f87c824f2ee7c",
+        "4eaa5c979cae9e6c2603ca51d606dfc5",
+        "2153a59d98e233410d877bdbdd11fa54",
         "ab1a401478bf91151df62818473f5ef5",
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "14cd387e800b8b80b658ad56297837b3",
@@ -622,15 +625,12 @@
         "72cb0a61b8be34bb865e0a3cfdd1fc68",
         "27026eb1e4dc09225594b6bcf82bb668",
         "cefbc35153ecfe526159c290d34ecc1e",
-        "89db9f115a3414a9ce5c70e45e1219a8",
-        "6c81f30b697f702f9ae622aed8d33d67",
-        "7c5087aba9be74c21a92f4c31b0e14d6",
-        "4ce5350d6f046d2a417fed9cf16c6c64"
+        "89db9f115a3414a9ce5c70e45e1219a8"
       ],
-      "last_run": "2026-06-23T20:03:20Z",
+      "last_run": "2026-06-23T20:18:19Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "last_new_count": 3,
+      "_new_total_for_digest": 3
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -772,6 +772,11 @@
         "Top 100 DSA Interview Questions - LeetCode"
       ],
       "last_result_hashes": [
+        "25375a273703fbd792f71e66ba982f05",
+        "49a674ad4a5ad266578e69d11a8c6109",
+        "750fd152325f4dc2beb725d52cc9fce7",
+        "4c92991b4c2b27039072e3ebc410da51",
+        "89e7f172eeae4c358ffa14425da7ef96",
         "8072606228e0dfe67fd443b0b74bc5e1",
         "faa4c490860e670cfe1dfcfbbb213031",
         "be0ed9a278d7860adea7fbf688a29e8d",
@@ -786,17 +791,12 @@
         "0f727d433df04df982ca51e5224fb3c1",
         "e190488581ef024009b8d9d2b128375f",
         "61f65f8c9d9973b8de0c0902b7d24fa8",
-        "7827ab24e9d276e3b17d86a148741a99",
-        "f747b8276b3c371fceac0a5039a4a2cc",
-        "1ca4d747e88ba07a27f9f59020f1bc8b",
-        "79e35f35c8d7ce2fc12d8ced7ffd3727",
-        "54d56ed4d92d282c97b0829c1b154120",
-        "11d6740bed03b7ac9fe1c5dafbda1c73"
+        "7827ab24e9d276e3b17d86a148741a99"
       ],
-      "last_run": "2026-06-23T20:03:20Z",
+      "last_run": "2026-06-23T20:18:19Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -936,6 +936,11 @@
         "Python's Liberation: The GIL is Finally Optional - Medium"
       ],
       "last_result_hashes": [
+        "76fb8117f39114d73b4110ed5c796ad6",
+        "ce83b48f88506c00b36a7252145b9325",
+        "3625218287b342de266114770453541d",
+        "0b48ced9d99b78e7a7d223e63fa3d684",
+        "cf5a7088de419c90e1df95edc6179415",
         "fa578d0cb96d19e0416d1409a8f4bd39",
         "96c0ae6f559f49790042622771b6d857",
         "75dee63a574d5f6de602136c00730732",
@@ -950,17 +955,12 @@
         "362d21404ee1fb6dfbc78509ec951aeb",
         "17f40f751da9a1c9558ca7dbf958ae7e",
         "6e4ede96199e88aa8dff4012c8df3e89",
-        "3977a42e266cba0d9724f6994662a434",
-        "b57eaec94a621831989ae739373d4b6d",
-        "30b6aeec5e981cae286de4fa9ba9994b",
-        "b7dfa7bcd6f4f6ef4d3bfb15a971763c",
-        "d6de7058fcf7e79f71074d94426c32ad",
-        "eb9f4055eb733ecbb8cc63a7db3e0549"
+        "3977a42e266cba0d9724f6994662a434"
       ],
-      "last_run": "2026-06-23T20:03:20Z",
+      "last_run": "2026-06-23T20:18:19Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     }
   }
 }

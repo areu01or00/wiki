@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Haskell Language](https://www.haskell.org/) | kw: functional programming
+- **2026-06-23** | [Home | Haskell Indian Nations University](https://haskell.edu/) | kw: functional programming
+- **2026-06-23** | [Downloads - Haskell](https://www.haskell.org/downloads/) | kw: functional programming
+
 - **2026-06-23** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrikerz.de/post/i-think-i-finally-got-monads) | kw: think, Finally, Got
 
 

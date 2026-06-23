@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [TypeScript - Wikipedia](https://en.wikipedia.org/wiki/TypeScript) | kw: type systems
+- **2026-06-23** | [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/) | kw: type systems
+- **2026-06-23** | [TypeScript Tutorial - W3Schools](https://www.w3schools.com/typescript/index.php) | kw: type systems
+- **2026-06-23** | [The starting point for learning TypeScript](https://www.typescriptlang.org/docs/) | kw: type systems
+- **2026-06-23** | [GitHub - microsoft/TypeScript: TypeScript is a superset of ...](https://github.com/microsoft/TypeScript) | kw: type systems
+
 - **2026-06-23** | [GitHub - microsoft/pyright: Static Type Checker for Python](https://github.com/microsoft/pyright) | kw: GitHub, microsoft, pyright
 - **2026-06-23** | [What is Pyright and Why You Should Use It - hrekov.com](https://www.hrekov.com/blog/what-is-pyright) | kw: Pyright, You, Should
 - **2026-06-23** | [Pyright Guide: Fast Static Type Checking for Python Code - DataCamp](https://www.datacamp.com/tutorial/pyright) | kw: Pyright, Guide, Fast

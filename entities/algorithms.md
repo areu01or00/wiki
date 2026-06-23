@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
+- **2026-06-23** | [List of algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms) | kw: algorithms
+- **2026-06-23** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
+- **2026-06-23** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: algorithms
+- **2026-06-23** | [Algorithms | Computer science theory | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: algorithms
+
 - **2026-06-23** | [In 2026, are the interview process and preparation needed - Reddit](https://www.reddit.com/r/leetcode/comments/1si9z5u/in_2026_are_the_interview_process_and_preparation/) | kw: In 2026, are the interview process | src: reddit.com
 - **2026-06-23** | [Step-by-Step Guide for FAANG Interviews in 2026 (Part 2 of 10)](https://medium.com/@emilyhustlenyc/step-by-step-guide-for-faang-interviews-in-2026-part-2of-10-the-master-roadmap-439e8509bb6b) | kw: Step-by-Step Guide for FAANG Interviews in | src: medium.com
 - **2026-06-23** | [How I Would Prepare for a FAANG Interview in 2026 - designgurus](https://designgurus.substack.com/p/how-i-would-prepare-for-a-faang-interview) | kw: How I Would Prepare for a | src: designgurus.substack.com
