@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Safe & Efficient Gradual Typing for TypeScript - ACM Digital Library](https://dl.acm.org/doi/10.1145/2676726.2676971) | kw: Safe,Efficient,Gradual
+- **2026-06-23** | [Types as axioms, or: playing god with static types - Alexis King](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/) | kw: Types,axioms,,playing
+- **2026-06-23** | [Haskell isn't "pure" static typing, but what should we call it then?](https://discourse.haskell.org/t/haskell-isnt-pure-static-typing-but-what-should-we-call-it-then/11904) | kw: Haskell,isn't,"pure"
+- **2026-06-23** | [Compared to other statically typed languages, is TypeScript ... - Quora](https://www.quora.com/Compared-to-other-statically-typed-languages-is-TypeScript-considered-inferior) | kw: Compared,other,statically
+
 - **2026-06-23** | [Static vs dynamic typing - Sym Piracha](https://sympiracha.dev/posts/typed-languages/) | kw: type-systems
 
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, Language, Labyrinth

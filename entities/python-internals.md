@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [8 Best YouTube Channels for Python in 2026 (Ranked)](https://learnwithpath.com/blog/best-youtube-channels-for-python-2026) | kw: Best,YouTube,Channels
+
 - **2026-06-23** | [Goodbye GIL - Exploring Free Threaded Python 3.14](https://blog.adarshd.dev/posts/exploring-free-threaded-python-314/) | kw: python-internals
 
 - **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python, programming, language
