@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [DSA Roadmap: Learn Data Structures and Algorithms 2026 - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap: Learn Data
+- **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: Amazon | SDE2 |
+- **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data Structures & Algorithms
+- **2026-06-23** | [Amazon SDE2 Feb 2026 - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: Amazon SDE2 Feb 2026
+- **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data Structures & Algorithms
+
 - **2026-06-23** | [Core Skills - Algorithm & Data Structure Practice](https://neetcode.io/practice/practice/coreSkills) | kw: Core Skills - Algorithm & Data Structure Practice
 
 - **2026-06-23** | [LeetCode Is Dead in 2026 - Stackademic](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: LeetCode Is Dead in 2026 - Stackademic

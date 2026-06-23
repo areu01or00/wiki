@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) -
+- **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) -
+
 - **2026-06-23** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Through Rust
 - **2026-06-23** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam vs. Rust
 - **2026-06-23** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026]: Functional Programming That Changes Ho

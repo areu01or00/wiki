@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Go vs Python 2026: 6x Speed Gap and 14K Salary Divide](https://tech-insider.org/go-vs-python-2026/) | kw: Go vs Python 2026:
+
 - **2026-06-23** | [Understanding Python GIL (Global Interpreter Lock) - w3resource](https://www.w3resource.com/python/python-global-interpreter-lock-with-examples.php) | kw: Understanding Python GIL (Global Interpreter Lock) - w3resource
 
 - **2026-06-23** | [Python Killed the GIL. Go Still Wins. - Medium](https://medium.com/towardsdev/python-killed-the-gil-go-still-wins-14735a67b5e0) | kw: Python Killed the GIL. Go Still Wins. - Medium
