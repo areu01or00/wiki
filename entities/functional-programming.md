@@ -3772,3 +3772,5 @@
 - **2026-06-11** | [Idiomatic Monads in Rust | Hacker News](https://news.ycombinator.com/item?id=19571519) | kw: idiomatic, monads, hacker
 - **2026-06-11** | [Monads in 15 minutes](https://nikgrozev.com/2013/12/10/monads-in-15-minutes/) | kw: monads, minutes
 - **2026-06-11** | [Monads as a Programming Pattern](https://samgrayson.me/essays/monads-as-a-programming-pattern/) | kw: monads, programming, pattern
+
+- **2026-06-23** | [The I/O problem - Haskell HaskellWiki](https://wiki.haskell.org/wiki/The_I/O_problem) | kw: The I/O problem - Haskell HaskellWiki

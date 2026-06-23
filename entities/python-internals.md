@@ -533,6 +533,9 @@
 - **2026-06-20** | [From Variables to No-GIL: Why Python Still Runs Modern AI | Amin Mortezaie | May, 2026 | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: gil
 - **2026-06-20** | [Python Internals: Memory Management & the GIL | eVidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: gil
 
+- **2026-06-23** | [Hardware Usage and Energy Implications of Removing the GIL - arxiv](https://arxiv.org/abs/2603.04782) | kw: Hardware Usage and Energy Implications of Removing the GIL -
+- **2026-06-23** | [Free Threading internals: PyMutex - Victor Stinner blog](https://vstinner.github.io/free-threading-pymutex.html) | kw: Free Threading internals: PyMutex - Victor Stinner blog
+
   - Added sub-topics (python-internals): 2026?
 - **2026-06-20** | [The Future of Python Internals: Exploring GIL Removal and Other Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The, Future, Python, Internals, Exploring, GIL | src: python-internals <!-- h:23f806669425cddfbb81ceb3202ed519 -->
 - **2026-06-20** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The, Python, GIL, Controversy, Why, Multi | src: python-internals <!-- h:993340ba10508d27975679f77e08cd57 -->

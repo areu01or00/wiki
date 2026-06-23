@@ -3411,3 +3411,5 @@
 - **2026-06-11** | [7 Proven Scalability Patterns in Distributed Systems | Medium](https://medium.com/@careerwithnadeem/7-proven-scalability-patterns-in-distributed-systems-e09112c2ffdb) | kw: proven, scalability, patterns
 - **2026-06-11** | [Day 4: Load Balancing in Distributed Systems... - DEV Community](https://dev.to/vikram_kumar_2101/-day-4-load-balancing-in-distributed-systems-a-deep-dive-41d5) | kw: balancing, distributed, systems
 - **2026-06-11** | [Top 30 System Design Interview Questions (2026)](https://www.datainterview.com/blog/system-design-interview-questions) | kw: system, design, interview
+
+- **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice

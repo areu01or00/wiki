@@ -123,7 +123,6 @@
         "Every"
       ],
       "last_result_hashes": [
-        "a4f767c8d886ec8f2fab1999efc97283",
         "401ac43fcb266731bf806fa34acbf462",
         "fd3b08fa9ad96f88d592aea4585d4a60",
         "e386d25ff1816abec2a4433c860ed876",
@@ -142,33 +141,15 @@
         "db0566c4ae6c789d57ea3171445dd345",
         "26356f30eccc2ad2fc4626f40a219c6f",
         "0a012bcae00ef26f654bf4884b3ee732",
-        "7ffec9f19c9444ff12ee03faecfe5db7"
+        "7ffec9f19c9444ff12ee03faecfe5db7",
+        "2088de63a53d4881c48639b35af7c73b"
       ],
-      "last_run": "2026-06-23T15:45:00Z",
+      "last_run": "2026-06-23T16:01:06Z",
       "new_sub_topics_this_run": [
-        "Cheat",
-        "Sheet",
-        "Core",
-        "Concept",
-        "One",
-        "Page",
-        "Prep",
-        "Frameworks",
-        "Companies",
-        "Look",
-        "Ultimate",
-        "Medium",
-        "FAANG",
-        "Expectations",
-        "Classic",
-        "Problems",
-        "Solved",
-        "Edition",
-        "Preparation",
-        "Tips"
+        "Beginner-Friendly"
       ],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -453,14 +434,6 @@
         "dynamic?"
       ],
       "last_result_hashes": [
-        "7d6146b3a991b725dc780dcebad86877",
-        "d22f8726353cff1afb64a2449670bdac",
-        "decae7018d268e0a64583660c8557759",
-        "08183a095f9bb03fe7dd6ce06dfd5115",
-        "1892288ce3bfda31458d852753d72f5f",
-        "6c257d065a3041b16049b05a47e582ff",
-        "8322e51212ef97276acc64e5203950f2",
-        "5cc1d4c55fe22c53ab06d0faccb4247c",
         "1a9958a78e7ae39c78870e2584d0687d",
         "686812076d5de90d1c2ef77d554beb01",
         "c4981204de3af4a493b80247f29701a5",
@@ -472,23 +445,51 @@
         "ca902b9212f69253e7a3a803e9a1bfbf",
         "dfb88e63db5128fff776662bdd9879b8",
         "bbb4ba6f0ca954602656695e44b6b16b",
-        "5812644135cd7bb3a2652a5cf2afc2b8"
+        "5812644135cd7bb3a2652a5cf2afc2b8",
+        "e5a7e06fc83a11e3d103d092a66886b1",
+        "05acc0204f161633f49b3c891687b0b7",
+        "b60872f1e8b2c948b8667101ba307fd0",
+        "7a22ea444b8085de7384fb2e4943ed71",
+        "e2e118c84171bc7fa45b0efe662ec399",
+        "4f6d2378463ab2a0715431144439464c",
+        "61b1e0c16030fe76b45bf13fd2cb13ea",
+        "83471bdf34ac133a1a74927ac157d383"
       ],
-      "last_run": "2026-06-23T15:45:00Z",
+      "last_run": "2026-06-23T16:01:06Z",
       "new_sub_topics_this_run": [
-        "JavaScript",
-        "Syntax",
-        "GitHub",
-        "Documentation",
-        "Announcing",
-        "Microsoft",
-        "Developer",
-        "Blogs",
-        "Features",
-        "Know"
+        "Boost",
+        "Generics",
+        "Codezup",
+        "Fixing",
+        "Failures",
+        "Bottlenecks",
+        "Incorrect",
+        "Narrowing",
+        "Mindfulchase",
+        "typescript",
+        "narrowing",
+        "generics",
+        "Stack",
+        "Overflow",
+        "possible",
+        "narrowing",
+        "affect",
+        "generic",
+        "parameter",
+        "within",
+        "Stack",
+        "Overflow",
+        "Understanding",
+        "Issues",
+        "Generic",
+        "Constraints",
+        "Misuse",
+        "Mindfulchase",
+        "Infers",
+        "Generic"
       ],
-      "last_new_count": 6,
-      "_new_total_for_digest": 6
+      "last_new_count": 8,
+      "_new_total_for_digest": 8
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -609,7 +610,6 @@
         "Functional"
       ],
       "last_result_hashes": [
-        "8c0ea0d18b37f3c9d2facb56f6b40861",
         "be9da9017ce6e02348e052f2e7dda252",
         "5c922e72c87b50652de7ca7127710779",
         "387ce332eb1b37bfba2517605e07a785",
@@ -628,22 +628,15 @@
         "c233ce094f809bd93c2f4474229feed5",
         "88065060c513b2f7eea89da93f63f123",
         "89230c423a69434a1c6e305257567047",
-        "480d402e9012f947099ff628259136e0"
+        "480d402e9012f947099ff628259136e0",
+        "62a2b1520ef72f0ac1dac9075d081771"
       ],
-      "last_run": "2026-06-23T15:45:00Z",
+      "last_run": "2026-06-23T16:01:06Z",
       "new_sub_topics_this_run": [
-        "Monad",
-        "About",
-        "HaskellWiki",
-        "Understanding",
-        "Comprehensive",
-        "Baeldung",
-        "Computer",
-        "Science",
-        "Built"
+        "problem"
       ],
-      "last_new_count": 5,
-      "_new_total_for_digest": 5
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -948,8 +941,6 @@
         "Real"
       ],
       "last_result_hashes": [
-        "2c4387bd4fde58ec3aff72ba85480758",
-        "7a9bc09fc4a36d6cf7e1c5963bd26c17",
         "bdfd019863244de8ef90b815ca9e01ca",
         "9ba8dc236f2c3769ffd2c96c4f0a1305",
         "23f806669425cddfbb81ceb3202ed519",
@@ -967,36 +958,25 @@
         "49e104f341848ff77b2a3d4197d49f95",
         "0f420108f5a2a5e00ceefd0db2bdaf2f",
         "739a7c5c175f6819fc3c4da480f671a6",
-        "a4ebe751bd607bf6541aadf75759fd00"
+        "a4ebe751bd607bf6541aadf75759fd00",
+        "c43e204b22d254baa603309f388cb7e7",
+        "fa462bc81db5f8faa1ea306e9a04667d"
       ],
-      "last_run": "2026-06-23T15:45:00Z",
+      "last_run": "2026-06-23T16:01:06Z",
       "new_sub_topics_this_run": [
-        "Feature",
-        "Free",
-        "Threaded",
-        "Support",
-        "Killed",
-        "GIL",
-        "Still",
-        "Wins",
-        "Production",
-        "Ready",
-        "End",
-        "Towards",
-        "Data",
-        "Science",
-        "True",
-        "Parallelism",
-        "LinkedIn",
-        "Benchmarked",
-        "Threading",
-        "Tasks",
-        "Astral",
-        "Here",
-        "Fast"
+        "Hardware",
+        "Usage",
+        "Energy",
+        "Implications",
+        "Removing",
+        "arxiv",
+        "internals",
+        "PyMutex",
+        "Victor",
+        "Stinner"
       ],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_new_count": 2,
+      "_new_total_for_digest": 2
     }
   }
 }
