@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell
+- **2026-06-23** | [Tarides | What is Functional Programming? A Look at the ...](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective/) | kw: Tarides
+
 - **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) - Wikipedia
 - **2026-06-23** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Patterns](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns in Rust: Exploring Functional
 - **2026-06-23** | [Functional Programming - Rust Design Patterns](https://rust-unofficial.github.io/patterns/functional/) | kw: Functional Programming - Rust Design Patterns

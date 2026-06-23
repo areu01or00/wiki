@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python 3.14 Free-Threading and Experimental JIT: How Python Changes in 2026](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Python
+
 - **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV Change Everything
 - **2026-06-23** | [Using `malloc_trim` to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using `malloc_trim` to help with memory management
 

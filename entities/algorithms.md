@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: Tried
+- **2026-06-23** | [Coding Interviews in 2026: Complete DSA & System Design Preparation](https://www.tutort.net/blogs/coding-interviews-in-2026-everything-you-need-to-prepare) | kw: Coding
+
 - **2026-06-23** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Thinking](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start
 - **2026-06-23** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: The Ultimate Leetcode Roadmap: Data Structures & Algorithms 
 

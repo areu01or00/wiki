@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [What Is LLVM (Low Level Virtual Machine)? - ITU Online IT Training](www.ituonline.com/tech-definitions/what-is-llvm-low-level-virtual-machine/) | kw: LLVM
+
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project - OpenProjects
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project - Home](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project - Home
 
