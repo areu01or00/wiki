@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python Killed the GIL. Go Still Wins. - Medium](https://medium.com/towardsdev/python-killed-the-gil-go-still-wins-14735a67b5e0) | kw: Python Killed the GIL. Go Still Wins. - Medium
+- **2026-06-23** | [Per-interpreter GIL in mod_wsgi 6.0.0 - Graham Dumpleton](https://grahamdumpleton.me/posts/2026/05/per-interpreter-gil-in-mod-wsgi-6-0-0/) | kw: Per-interpreter GIL in mod_wsgi 6.0.0 - Graham Dumpleton
+- **2026-06-23** | [PEP 703: Making the Global Interpreter Lock Optional : r/Python](https://www.reddit.com/r/Python/comments/14534lk/pep_703_making_the_global_interpreter_lock/) | kw: PEP 703: Making the Global Interpreter Lock Optional : r/Python
+
 - **2026-06-23** | [Pythons Liberation: The GIL is Finally Optional - Medium](https://medium.com/@aftab001x/pythons-liberation-the-gil-is-finally-optional-and-why-this-changes-everything-5579b43e969c) | kw: Pythons Liberation: The GIL is Finally Optional - Medium
 
 - **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python
