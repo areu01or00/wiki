@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [How to Take Notes for Data Structures and Algorithm - TikTok](https://www.tiktok.com/discover/how-to-take-notes-for-data-structures-and-algorithm) | kw: take
+
+- **2026-06-23** | [Peoplestrong Interview Questions & Experiences 2026 - CodingKaro](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/PeopleStrong) | kw: peoplestrong
+
+- **2026-06-23** | [I need a concise list of data structures and algorithms - reddit](https://www.reddit.com/r/leetcode/comments/179bg3w/i_need_a_concise_list_of_data_structures_and/) | kw: need
+
 - **2026-06-23** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.pinterest.com/pin/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial-youtube--703124560612989261/) | kw: data
 
 - **2026-06-23** | [leetcode GitHub Topics](https://github.com/topics/leetcode) | kw: LeetCode
