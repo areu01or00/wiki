@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: Comprehensive List of 50 Frequently | source: algorithms
+- **2026-06-23** | [data-structures · GitHub Topics · GitHub](https://github.com/topics/data-structures) | kw: data-structures · GitHub Topics · | source: algorithms
+- **2026-06-23** | [Data Structures and Algorithms Full Course- YouTube](https://www.youtube.com/watch?v=CBYHwZcbD-s) | kw: Data Structures and Algorithms Full | source: algorithms
+- **2026-06-23** | [Peoplestrong Interview Questions & Experiences 2026 | CodingKaro](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/PeopleStrong) | kw: Peoplestrong Interview Questions & Exper | source: algorithms
+- **2026-06-23** | [Do we really need Leetcode (Data Structures & Algorithms)... | Kaggle](www.kaggle.com/discussions/questions-and-answers/225859) | kw: Do we really need Leetcode | source: algorithms
+- **2026-06-23** | [Link to reddit.com](https://www.reddit.com/r/leetcode/comments/179bg3w/i_need_a_concise_list_of_data_structures_and/) | kw: Link to reddit.com | source: algorithms
+
 - **2026-06-23** | [Data Structures & Algorithms: The Complete Journey](https://www.udemy.com/course/data-structures-algorithms-the-complete-journey/) | kw: Data Structures & Algorithms
 
 - **2026-06-23** | [How to Take Notes for Data Structures and Algorithm - TikTok](https://www.tiktok.com/discover/how-to-take-notes-for-data-structures-and-algorithm) | kw: take

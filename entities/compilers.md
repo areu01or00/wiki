@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [compiler construction - Inlining a function in LLVM jit - Stack Overflow](https://stackoverflow.com/questions/12070105/inlining-a-function-in-llvm-jit/12075681) | kw: compiler construction | source: compilers
+- **2026-06-23** | [Just in Time Compilation Explained](https://www.freecodecamp.org/news/just-in-time-compilation-explained/) | kw: Just in Time Compilation Explained | source: compilers
+- **2026-06-23** | [A LLVM JIT prototype for running an energy-saving hardware](https://www.preprints.org/manuscript/202306.1834/v1/download) | kw: A LLVM JIT prototype for | source: compilers
+- **2026-06-23** | [New LLVM JIT Features - Internals & Design - Julia Programming...](https://discourse.julialang.org/t/new-llvm-jit-features/22754) | kw: New LLVM JIT Features | source: compilers
+- **2026-06-23** | [Introducing the WebKit FTL JIT | WebKit](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/) | kw: Introducing the WebKit FTL JIT | source: compilers
+- **2026-06-23** | [The LLVM Compiler Infrastructure - Browse /llvmorg-22.1.7 at...](https://sourceforge.net/projects/the-llvm-compiler.mirror/files/llvmorg-22.1.7/) | kw: The LLVM Compiler Infrastructure | source: compilers
+
 - **2026-06-23** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: JIT
 - **2026-06-23** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT
 - **2026-06-23** | [2026 EuroLLVM Developers Meeting - Agenda](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: LLVM

@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python 3.14 Free-Threading and Experimental JIT: How Python is Changing](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Python 3.14 Free-Threading and Experimen | source: python-internals
+- **2026-06-23** | [Advanced Python 4— GIL in Python - by Abhishek Jain](https://medium.com/@abhishekjainindore24/advanced-python-4-gil-in-python-375321837f3c) | kw: Advanced Python 4 | source: python-internals
+
 - **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: free-threading
 - **2026-06-23** | [How Pythons GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: GIL
 - **2026-06-23** | [Whats new in Python 3.14 - Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: Python

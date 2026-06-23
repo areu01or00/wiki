@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Editi | source: system-design
+- **2026-06-23** | [Architectural Patterns of Resilient Distributed Systems... - YouTube](https://www.youtube.com/watch?v=ohvPnJYUW1E) | kw: Architectural Patterns of Resilient Dist | source: system-design
+- **2026-06-23** | [Multi-Agent Orchestration Patterns: Building Production Systems in...](https://www.frankx.ai/blog/multi-agent-orchestration-patterns-2026) | kw: Multi-Agent Orchestration Patterns: Buil | source: system-design
+- **2026-06-23** | [Building {application_type} with {technology_stack}: {architecture}...](https://johal.in/building-application_type-with-technology_stack-architecture-patterns-for-web-workers-in-2027/) | kw: Building {application_type} with {techno | source: system-design
+
 - **2026-06-23** | [AI Agent Architecture Patterns 2026 | Pharos Production](https://pharosproduction.com/insights/engineering/ai-agent-architecture-patterns-2026/) | kw: agent
 
 - **2026-06-23** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: system design

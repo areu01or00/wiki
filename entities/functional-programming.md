@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) | source: functional-programming
+- **2026-06-23** | [Monad (functional programming) - Grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad (functional programming) | source: functional-programming
+
 
 - **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: wikipedia
 

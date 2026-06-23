@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing - arxiv](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure | source: type-systems
+- **2026-06-23** | [Efficient Selection of Type Annotations - arxiv 2603.05649](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection of Type Annotations | source: type-systems
+- **2026-06-23** | [Luau Type System Complete Guide — Strict Mode, Generics...](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide | source: type-systems
+- **2026-06-23** | [Type Systems Comparison - Wikantik](https://wiki.wikantik.com/wiki/TypeSystemsComparison) | kw: Type Systems Comparison | source: type-systems
+
 - **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir
 - **2026-06-23** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating
