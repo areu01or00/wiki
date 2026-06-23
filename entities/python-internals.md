@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Pythons Liberation: The GIL is Finally Optional - Medium](https://medium.com/@aftab001x/pythons-liberation-the-gil-is-finally-optional-and-why-this-changes-everything-5579b43e969c) | kw: Pythons Liberation: The GIL is Finally Optional - Medium
+
 - **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python
 - **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: python
 - **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: python
