@@ -17,6 +17,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-23** | [MiniMax Sparse Attention - arxiv.org](https://arxiv.org/abs/2606.13392) | kw: MiniMax Sparse Attention arxiv org | source: MiniMax
+- **2026-06-23** | [MiniMaxAI/MiniMax-M3 - Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3) | kw: MiniMaxAI MiniMax-M3 Hugging Face | source: MiniMax
+
 - **2026-06-23** | [Sakana Fugu — Multi-Agent System as a Model](https://sakana.ai/fugu/) | kw: Sakana Fugu Multi-Agent | source: sakana-releases
 - **2026-06-23** | [Mistral OCR 4: Structured Document Extraction API Guide](https://www.explainx.ai/blog/mistral-ocr-4-bounding-boxes-document-ai-api-2026) | kw: Mistral OCR 4 Structured Document | source: mistral-releases
 
@@ -71,6 +74,11 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Auto-Discovered Profiles
 *Profiles auto-added by discovery layer each cycle. Tracked from this cycle onwards.*
+
+- **sakana-releases** — cycle 3 — Sakana AI Fugu model release Japanese lab
+- **swiss-ai-apertus** — cycle 3 — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
+- **krea** — cycle 4 — Krea AI Krea 2 image generation model open weights
+- **MiniMax** — cycle 9 — MiniMax AI MiniMax-M3 release new model multimodal MoE
 
 - **sakana-releases** — cycle 3 — Sakana AI Fugu model release Japanese lab
 - **swiss-ai-apertus** — cycle 3 — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
