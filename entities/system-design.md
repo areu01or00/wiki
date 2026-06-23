@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [AI Agent Architecture Patterns 2026 | Pharos Production](https://pharosproduction.com/insights/engineering/ai-agent-architecture-patterns-2026/) | kw: agent
+
 - **2026-06-23** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: system design
 - **2026-06-23** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: architecture
 - **2026-06-23** | [System Design Interview: Design a Distributed Search Engine...](https://www.techinterview.org/post/3233464068/system-design-distributed-search/) | kw: system design

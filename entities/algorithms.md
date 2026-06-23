@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.pinterest.com/pin/data-structure-and-algorithm-patterns-for-leetcode-interviews-tutorial-youtube--703124560612989261/) | kw: data
+
 - **2026-06-23** | [leetcode GitHub Topics](https://github.com/topics/leetcode) | kw: LeetCode
 - **2026-06-23** | [70 Leetcode problems in 5+ hours - YouTube](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: LeetCode
 - **2026-06-23** | [datastructures-algorithms GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
