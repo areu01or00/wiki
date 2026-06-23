@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Functional - Wikipedia](https://en.wikipedia.org/wiki/Functional) | kw: functional
+
 - **2026-06-23** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell guide 2026
 - **2026-06-23** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: does rust support
 - **2026-06-23** | [What is Functional Programming? A Look at the Programming Style from an OCaml Perspective](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective/) | kw: what is functional

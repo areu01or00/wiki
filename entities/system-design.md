@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Event-Driven Microservices: Kafka, RabbitMQ, NATS](https://dasroot.net/posts/2026/01/event-driven-microservices-kafka-rabbitmq-nats/) | kw: event-driven
+- **2026-06-23** | [Event-Driven Architecture in 2026: Why My Microservices Finally Stopped](https://blog.rebalai.com/en/2026/03/09/event-driven-architecture-in-2026-why-microservice/) | kw: event-driven
+- **2026-06-23** | [Event-Driven Architecture Deep Dive for Software and Cloud Engineers](https://blogs.businesscompassllc.com/2026/06/event-driven-architecture-deep-dive-for.html) | kw: event-driven
+
 - **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system design
 - **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: film
 - **2026-06-23** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open

@@ -160,9 +160,6 @@
         "Idempotent"
       ],
       "last_result_hashes": [
-        "7e8fff13a5dc0afbfc9880012f695e87",
-        "9574670524cae1e495bc0bba0d0c2919",
-        "928a6367451917481266a6c2bd1d5f0d",
         "99bb0440f5cf22a006877c61b13a3f7b",
         "dd7a7796e5c097072dfd00a933e4ad17",
         "327a86cca23284d9608f6e83526533f7",
@@ -179,17 +176,14 @@
         "30eb2e1134419c9dd635b852dc30339c",
         "3b3f82a1ce99e0255038b165da4fd365",
         "dbf8e0c58091b15f2142c1ba6af512c4",
-        "e4a82beb56dd4bd41bd98428b7c2ac53"
+        "e4a82beb56dd4bd41bd98428b7c2ac53",
+        "6b4d0cca675c09e97b9fe17333479390",
+        "4dc51eff5c825943fd1f77ef71c3e1cc",
+        "4723cfc6b563b1ac317f21781401e5c2"
       ],
-      "last_run": "2026-06-23T22:48:08Z",
-      "new_sub_topics_this_run": [
-        "film",
-        "open",
-        "What",
-        "Definition",
-        "IMDb"
-      ],
-      "last_new_count": 0,
+      "last_run": "2026-06-23T23:05:12Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 3,
       "_new_total_for_digest": 0
     },
     "compilers": {
@@ -366,14 +360,9 @@
         "c19bff4efe4caa32620f6618fde66d45",
         "2bfe21e20f0a812a27ef682ecb1dcdff"
       ],
-      "last_run": "2026-06-23T22:48:08Z",
-      "new_sub_topics_this_run": [
-        "Inline",
-        "2026",
-        "Just",
-        "Fermat"
-      ],
-      "last_new_count": 2,
+      "last_run": "2026-06-23T23:05:12Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
       "_new_total_for_digest": 2
     },
     "type-systems": {
@@ -572,26 +561,9 @@
         "0965ab79d563760d1e44898e62451ee6",
         "df1c31a85d2ad1e4e9d119891aa4ae05"
       ],
-      "last_run": "2026-06-23T22:48:08Z",
-      "new_sub_topics_this_run": [
-        "Associated",
-        "Changes",
-        "Explained",
-        "Generic",
-        "Generics",
-        "JavaScript-Based",
-        "Just",
-        "Last",
-        "Lifetimes",
-        "Mastering",
-        "Migration",
-        "Reusable",
-        "Rust",
-        "Traits",
-        "Version",
-        "Writing"
-      ],
-      "last_new_count": 10,
+      "last_run": "2026-06-23T23:05:12Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
       "_new_total_for_digest": 10
     },
     "functional-programming": {
@@ -763,7 +735,6 @@
         "Rust"
       ],
       "last_result_hashes": [
-        "193a037e123a29572c2ea796fc2479f2",
         "50adf529ece4d7c7e84dae5c3c2b5920",
         "2d185f0c2567eaa7773c0a0de4f51e57",
         "b5682ae739ffc3d933f5e34dd66d5b1c",
@@ -782,17 +753,12 @@
         "449f1936d11b3408b5111b8fbfc6e205",
         "ed8d0a4efb3b3662d42984f0dab8a9b7",
         "52af3e34685da627087723b03a28ccf8",
-        "a79f6fca168908b9300600f61ff9a711"
+        "a79f6fca168908b9300600f61ff9a711",
+        "9989d974971c23b24bd2a5f66698bb6e"
       ],
-      "last_run": "2026-06-23T22:48:08Z",
-      "new_sub_topics_this_run": [
-        "Both",
-        "Does",
-        "Rust",
-        "Support",
-        "That"
-      ],
-      "last_new_count": 4,
+      "last_run": "2026-06-23T23:05:12Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 1,
       "_new_total_for_digest": 4
     },
     "algorithms": {
@@ -987,15 +953,9 @@
         "4dff80eb45ae0e900603f715c1032bdc",
         "cab194fa3aa9f7047e5d9403fa921cfb"
       ],
-      "last_run": "2026-06-23T22:48:08Z",
-      "new_sub_topics_this_run": [
-        "Backend",
-        "Dead",
-        "Here",
-        "What",
-        "with"
-      ],
-      "last_new_count": 4,
+      "last_run": "2026-06-23T23:05:12Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
       "_new_total_for_digest": 4
     },
     "python-internals": {
@@ -1166,8 +1126,6 @@
         "states"
       ],
       "last_result_hashes": [
-        "2af639f6f5e23249480dec27b17637f3",
-        "27b04335103386c49fc7bdba6a747389",
         "b5b247fb8b983960de89159c478ae359",
         "e895e15a79dbd780537065f7c5e0dba3",
         "d1d795024c23aeaebc01391f203e46ad",
@@ -1185,13 +1143,13 @@
         "a22cc85f4eea471924b785721191d3ff",
         "4103b94e42b825d0021b7dfd0fe609e6",
         "c2190a34f8bd450d284c3f3ebbabbf12",
-        "7daca63ebf93f7352f5d3cbdf0f1048a"
+        "7daca63ebf93f7352f5d3cbdf0f1048a",
+        "bc46e2bcc23714c5243a5210b1d2f5ae",
+        "252aeecc8e6af8b290c46f58ba5a0e33"
       ],
-      "last_run": "2026-06-23T22:48:08Z",
-      "new_sub_topics_this_run": [
-        "states"
-      ],
-      "last_new_count": 1,
+      "last_run": "2026-06-23T23:05:12Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 2,
       "_new_total_for_digest": 1
     }
   }

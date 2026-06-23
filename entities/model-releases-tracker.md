@@ -17,6 +17,14 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-23** | [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) | kw: Gemma 4 12B encoder-free multimodal | source: google-deepmind-releases
+- **2026-06-23** | [google/gemma-4-12B - Hugging Face](https://huggingface.co/google/gemma-4-12B) | kw: google/gemma-4-12B Hugging Face | source: huggingface-trending
+- **2026-06-23** | [MiniMax M3: Frontier Coding, 1M Context, Native Multimodality](https://www.minimax.io/blog/minimax-m3) | kw: MiniMax M3 official blog release | source: MiniMax
+- **2026-06-23** | [SVD-Surgeon: Optimal Singular-Value Surgery for Large Language Model Compression](http://arxiv.org/abs/2606.23568v1) | kw: SVD-Surgeon Singular-Value Surgery LLM Compression | source: arxiv-cs-cl
+- **2026-06-23** | [LangMAP: A Language-Adaptive Approach to Tokenization](http://arxiv.org/abs/2606.23566v1) | kw: LangMAP Language-Adaptive Tokenization | source: arxiv-cs-cl
+- **2026-06-23** | [VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct](http://arxiv.org/abs/2606.23543v1) | kw: VeriEvol Multimodal Mathematical Reasoning | source: arxiv-cs-cl
+- **2026-06-23** | [CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](http://arxiv.org/abs/2606.23206v1) | kw: CFPO Counterfactual Policy Optimization Multimodal Reasoning | source: arxiv-cs-cl
+
 - **2026-06-23** | [MiniMax Sparse Attention - arxiv.org](https://arxiv.org/abs/2606.13392) | kw: MiniMax Sparse Attention arxiv org | source: MiniMax
 - **2026-06-23** | [MiniMaxAI/MiniMax-M3 - Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3) | kw: MiniMaxAI MiniMax-M3 Hugging Face | source: MiniMax
 
@@ -73,14 +81,7 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 
 ## Auto-Discovered Profiles
-*Profiles auto-added by discovery layer each cycle. Tracked from this cycle onwards.*
-
-- **sakana-releases** — cycle 3 — Sakana AI Fugu model release Japanese lab
-- **swiss-ai-apertus** — cycle 3 — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
-- **krea** — cycle 4 — Krea AI Krea 2 image generation model open weights
-- **MiniMax** — cycle 9 — MiniMax AI MiniMax-M3 release new model multimodal MoE
-
-- **sakana-releases** — cycle 3 — Sakana AI Fugu model release Japanese lab
-- **swiss-ai-apertus** — cycle 3 — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
-- **krea** — cycle 4 — Krea AI Krea 2 image generation model open weights
-
+- **sakana-releases** - discovered cycle 3 - query: `Sakana AI Fugu model release Japanese lab`
+- **swiss-ai-apertus** - discovered cycle 3 - query: `Swiss AI Apertus EPFL ETH Zurich multilingual open model release`
+- **krea** - discovered cycle 4 - query: `Krea AI Krea 2 image generation model open weights`
+- **MiniMax** - discovered cycle 9 - query: `MiniMax AI MiniMax-M3 release new model multimodal MoE`

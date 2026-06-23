@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python
+- **2026-06-23** | [Unlocking Performance in Python's Free-Threaded Future: GC](https://labs.quansight.org/blog/free-threaded-gc-3-14) | kw: unlocking
+
 - **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 documentation](https://docs.python.org/3/c-api/threads.html) | kw: thread states and
 
 - **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: mode

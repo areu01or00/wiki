@@ -44,12 +44,13 @@
       "last_result_hashes": [
         "7a1a09b754f3a61b68b636cc8b8edcef",
         "47aa337b05ed1e8548bd1de1d5a817e7",
-        "37602ba8a9228b95aa21f3a519ce2af5"
+        "37602ba8a9228b95aa21f3a519ce2af5",
+        "8aff030cccb01105e0a71f6c1f5810a6"
       ],
-      "last_run": "2026-06-23T22:25:48.537495+00:00",
+      "last_run": "2026-06-23T23:06:48.777667+00:00",
       "last_update_hash": null,
-      "last_checked": "2026-06-23T22:25:48.537495+00:00",
-      "run_count": 8
+      "last_checked": "2026-06-23T23:06:48.777667+00:00",
+      "run_count": 9
     },
     "xai-releases": {
       "query": "xAI Grok new model release API weights",
@@ -169,12 +170,13 @@
       "last_result_hashes": [
         "0327a5e92e0d0854dfa577ddacdb2cd2",
         "f0c95e6cc83da8f3962f129aaec4e5c9",
-        "0a20b1b7c764a99252212dc609d0415b"
+        "0a20b1b7c764a99252212dc609d0415b",
+        "4bfbc54a65bd69f71272c980508d4c50"
       ],
-      "last_run": "2026-06-23T22:25:48.537495+00:00",
+      "last_run": "2026-06-23T23:06:48.777667+00:00",
       "last_update_hash": null,
-      "last_checked": "2026-06-23T22:25:48.537495+00:00",
-      "run_count": 8
+      "last_checked": "2026-06-23T23:06:48.777667+00:00",
+      "run_count": 9
     },
     "llm-stats-updates": {
       "query": "LLM Stats new model launch tracker",
@@ -205,12 +207,16 @@
         "e1bec2f15794157618463c630f114c5a",
         "fc16f787aef4131a53c3ba286eff188a",
         "82a51b84c5645cbb16fdca6da7f3d6f4",
-        "34648c3e1f75cb32a5e0904382a8c1e5"
+        "34648c3e1f75cb32a5e0904382a8c1e5",
+        "d7129ae5659004683682259414fab0da",
+        "f81815e189e999af84ba7749a9662150",
+        "46f52ca3080975f1413e8634318abfc4",
+        "7b6d9bd00e8a327eaf24a860380f99bd"
       ],
-      "last_run": "2026-06-23T22:25:48.537495+00:00",
+      "last_run": "2026-06-23T23:06:48.777667+00:00",
       "last_update_hash": null,
-      "last_checked": "2026-06-23T22:25:48.537495+00:00",
-      "run_count": 7
+      "last_checked": "2026-06-23T23:06:48.777667+00:00",
+      "run_count": 11
     },
     "sakana-releases": {
       "query": "Sakana AI Fugu model release Japanese lab",
@@ -270,12 +276,13 @@
       "discovered_at_cycle": 9,
       "last_result_hashes": [
         "arxiv-2606-13392-msa-2026-06-23",
-        "310ae64fd5a50da96863716cc62cfb7b"
+        "310ae64fd5a50da96863716cc62cfb7b",
+        "bf6fa827a0be57edb4ec57225359cd76"
       ],
-      "last_run": "2026-06-23T22:25:48.537495+00:00",
+      "last_run": "2026-06-23T23:06:48.777667+00:00",
       "last_update_hash": null,
-      "last_checked": "2026-06-23T22:25:48.537495+00:00",
-      "run_count": 1
+      "last_checked": "2026-06-23T23:06:48.777667+00:00",
+      "run_count": 2
     }
   }
 }
