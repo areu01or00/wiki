@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026)](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI
+
 - **2026-06-23** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026 | Functio
 - **2026-06-23** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns
 - **2026-06-23** | [functional programming - How do I combine monads in Haskell?](https://stackoverflow.com/questions/1126651/how-do-i-combine-monads-in-haskell) | kw: functional programming - How d

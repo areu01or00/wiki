@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has the format changed?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy in 2026, o
+
 - **2026-06-23** | [GitHub - heydi424/DSA-Handbook-for-Coding-Interviews_2026 ...](https://github.com/heydi424/DSA-Handbook-for-Coding-Interviews_2026) | kw: GitHub - heydi424/DSA-Handbook
 - **2026-06-23** | [Study Plan - LeetCode](https://leetcode.com/studyplan/) | kw: Study Plan - LeetCode
 - **2026-06-23** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: LeetCode - The World's Leading

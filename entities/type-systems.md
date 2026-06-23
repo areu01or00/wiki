@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in Gradually Typed Programs](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Impr
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement (arXiv 2603.05649)](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection of Type Annotations for Performance Impr
+
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyri
 - **2026-06-23** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems do you find 
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type An
