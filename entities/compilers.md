@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [LLVM - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/LLVM) | kw: LLVM
+- **2026-06-23** | [LLVM Download Page](https://releases.llvm.org/download.html) | kw: LLVM
+
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time
 - **2026-06-23** | [Compilers I Stanford Online](https://online.stanford.edu/courses/soe-ycscs1-compilers) | kw: Compilers
 - **2026-06-23** | [11 Compilers | Computation Structures | Electrical Engineering...](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/) | kw: Compilers
