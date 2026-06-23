@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Faster Python: Unlocking the P
+- **2026-06-23** | [Python 3.14: The present and future of the language of moment](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python 3.14: The present and f
+
 - **2026-06-23** | [Go vs Python 2026: 6x Speed Gap and 14K Salary Divide](https://tech-insider.org/go-vs-python-2026/) | kw: Go vs Python 2026:
 
 - **2026-06-23** | [Understanding Python GIL (Global Interpreter Lock) - w3resource](https://www.w3resource.com/python/python-global-interpreter-lock-with-examples.php) | kw: Understanding Python GIL (Global Interpreter Lock) - w3resource

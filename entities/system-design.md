@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System D
+- **2026-06-23** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern Software Architecture P
+- **2026-06-23** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architect
+- **2026-06-23** | [The Only 12-Week High-Level System Design Roadmap You Need ...](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: The Only 12-Week High-Level Sy
+- **2026-06-23** | [12 Essential Distributed System Design Patterns Every Architect ...](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12 Essential Distributed Syste
+- **2026-06-23** | [From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI) | kw: From Monolith to Agentic AI - 
+- **2026-06-23** | [50 System Design Patterns Every Engineer Should Know](https://stackinterview.dev/guides/50-system-design-patterns-2026) | kw: 50 System Design Patterns Ever
+- **2026-06-23** | [The Complete Guide to System Design in 2026 | InfraSketch Blog](https://infrasketch.net/blog/complete-guide-system-design) | kw: The Complete Guide to System D
+
 - **2026-06-23** | [System Design Interview Prep - Design Scalable Systems](https://www.bing.com/aclick?ld=e84Wl0fVwJX2FkHWt-9v6CxjVUCUzECEU1Fzk0mj1QvohHzpRFpr1nb8yMvdf8wrMkdlTQZSI6pSLkCTdxQ_qkDauhROD_HYClaPfuJRWWdj2KKSS01sPNVsQKVw3ZQGn_H5QU3NQgBUGQigxk6uV1Tgw_gL9xRDxzbRqTJQpE06xbHWQA8cWBA9xAcj95zvr6jjbC_wMSxasy7EJQZo9UD3I6pnA) | kw: Java
 
 - **2026-06-23** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System in 2026: Principles, Patter

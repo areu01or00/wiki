@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026 | Functio
+- **2026-06-23** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns
+- **2026-06-23** | [functional programming - How do I combine monads in Haskell?](https://stackoverflow.com/questions/1126651/how-do-i-combine-monads-in-haskell) | kw: functional programming - How d
+- **2026-06-23** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: What Is a Monad in Functional 
+- **2026-06-23** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming &
+- **2026-06-23** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad (functional programming)
+- **2026-06-23** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: Monads: A Powerful Concept in 
+- **2026-06-23** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Monad tutorials timeline - Has
+- **2026-06-23** | [Monads And Their Use in Modern Programming](https://www.linkedin.com/pulse/monads-use-modern-programming-enrique-ortuño-znk9f) | kw: Monads And Their Use in Modern
+
 - **2026-06-23** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: Pure Borrow: Linear Haskell
 
 - **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) -
