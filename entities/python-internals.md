@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python (programming language)
+
 - **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6](https://docs.python.org/3/c-api/threads.html) | kw: Python Internals
 - **2026-06-23** | [Python's GIL Is Gone in 3.13. But Your Code Probably Doesn't Benefit Yet](https://medium.com/@sohail_saifi/pythons-gil-is-gone-in-3-13-but-your-code-probably-doesn-t-benefit-yet-here-s-exactly-why-31d2d93ff76c) | kw: Python Internals
 - **2026-06-23** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: Python Internals

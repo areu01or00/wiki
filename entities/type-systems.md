@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Comparison of programming languages by type system - grokipedia](https://grokipedia.com/page/Comparison_of_programming_languages_by_type_system) | kw: Comparison of programming languages by type system
+
 - **2026-06-23** | [Comparison of programming languages by type system - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_by_type_system) | kw: Type Systems
 - **2026-06-23** | [Programming languages for AI - ploeh blog](https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/) | kw: Type Systems
 - **2026-06-23** | [21 New Programming Languages to Learn 2026 | Built In](https://builtin.com/software-engineering-perspectives/new-programming-languages) | kw: Type Systems
