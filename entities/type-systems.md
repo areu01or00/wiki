@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [GitHub - microsoft/pyright: Static Type Checker for Python](https://github.com/microsoft/pyright) | kw: GitHub, microsoft, pyright
+- **2026-06-23** | [What is Pyright and Why You Should Use It - hrekov.com](https://www.hrekov.com/blog/what-is-pyright) | kw: Pyright, You, Should
+- **2026-06-23** | [Pyright Guide: Fast Static Type Checking for Python Code - DataCamp](https://www.datacamp.com/tutorial/pyright) | kw: Pyright, Guide, Fast
+- **2026-06-23** | [Mastering Pyright: Advanced Type Checking for Modern Python - earezki](https://earezki.com/ai-news/2026-04-30-a-coding-implementation-on-pyright-type-checking-covering-generics-protocols-strict-mode-type-narrowing-and-modern-python-typing/) | kw: Mastering, Pyright, Advanced
+- **2026-06-23** | [pyright: Python Static Type Checker by Microsoft - pydevtools](https://pydevtools.com/handbook/reference/pyright/) | kw: pyright, Python, Static
+- **2026-06-23** | [Introduction to Pyright - Better Stack Community](https://betterstack.com/community/guides/scaling-python/pyright-explained/) | kw: Introduction, Pyright, Better
+- **2026-06-23** | [Pyright: The Type Checker Python Deserved All Along - Plain English](https://python.plainenglish.io/pyright-the-type-checker-python-deserved-all-along-728379c3a8af) | kw: Pyright, Type, Checker
+- **2026-06-23** | [TypeScript vs Pyright - StackShare](https://stackshare.io/stackups/pyright-vs-typescript) | kw: TypeScript, vs, Pyright
+
 - **2026-06-23** | [Type inference - Wikipedia](https://en.wikipedia.org/wiki/Type_inference) | kw: type inference
 - **2026-06-23** | [TypeScript in 2026 and What You Actually Need to Know Without ..](https://medium.com/@kantmusk/typescript-in-2026-and-what-you-actually-need-to-know-without-the-hype-bf5d28ece28a) | kw: typescript what you
 - **2026-06-23** | [Record type inference for dummies - Haskell for all](https://haskellforall.com/2026/06/record-type-inference-for-dummies) | kw: record type inference

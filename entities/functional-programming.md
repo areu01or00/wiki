@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrikerz.de/post/i-think-i-finally-got-monads) | kw: think, Finally, Got
+
 
 - **2026-06-23** | [Haskell - Wikipedia](https://en.wikipedia.org/wiki/Haskell) | kw: haskell
 - **2026-06-23** | [Haskell Language](https://www.haskell.org/) | kw: haskell language

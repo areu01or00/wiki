@@ -152,7 +152,7 @@
         "d3099c6517032e4d8a49b61853da6add",
         "b94a361638fc640072f39b7e4a006b83"
       ],
-      "last_run": "2026-06-23T19:49:26Z",
+      "last_run": "2026-06-23T20:03:20Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -302,7 +302,7 @@
         "da4da22ebe0b30bc79e1ad7a94e5310c",
         "385ab034e49daebe86f6093cf910e217"
       ],
-      "last_run": "2026-06-23T19:49:26Z",
+      "last_run": "2026-06-23T20:03:20Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -443,34 +443,55 @@
         "Type Inference for Functional and Imperative Dynamic Languages",
         "Efficient Selection of Type Annotations for Performance - arXiv",
         "NJPLS May 2026",
-        "To what extent is type theory relevant to dynamically typed languages?"
+        "To what extent is type theory relevant to dynamically typed languages?",
+        "Learn",
+        "Typing.com",
+        "Touch",
+        "TypingClub",
+        "Monkeytype",
+        "TypingTest.com",
+        "TypeRacer",
+        "Lessons",
+        "Test",
+        "FastFingers"
       ],
       "last_result_hashes": [
-        "a101af5ffe7038667423d3d8252b700b",
-        "081b15e888a85234b7fd5b1924619be2",
-        "1f5560b1afe4b36d0a39498851f98ac0",
-        "fefb7bfa85a33e8da4ee2beb757267c8",
-        "0e40ec20e1a733a8136667ee5938762f",
-        "5cc1d4c55fe22c53ab06d0faccb4247c",
-        "931c1423f81e0948928e12c09b9b385e",
-        "9a58fa71631cbec7e0643c8d4ec55f5e",
-        "dae581661675578aa16ee3fa346f4de6",
-        "df13c4a5d535fc18e65fbc19de30d890",
-        "ca902b9212f69253e7a3a803e9a1bfbf",
-        "ca591ab228bfe52c7b870e3bcd4fb5bc",
-        "4fb6c0a01a95e9170f5f792dce129612",
-        "1892288ce3bfda31458d852753d72f5f",
-        "6c257d065a3041b16049b05a47e582ff",
-        "fca44b52cd35b31b8253d8b03603819a",
         "685e24bc32d9af4027f0eb5fb830112c",
         "1a9958a78e7ae39c78870e2584d0687d",
         "686812076d5de90d1c2ef77d554beb01",
-        "3f0e7d12a06008431c0606107ae9cdb6"
+        "3f0e7d12a06008431c0606107ae9cdb6",
+        "c6a186e6a5961b1ba6ffae3ec3c6a687",
+        "1ea49de5e1bdaf7054d4fb05b5660364",
+        "47d827221a49315d1fe4287251ab6f5d",
+        "95e131971818a4d14c2cc7f3f98cded3",
+        "114e1960ca60481d2634f935ab508345",
+        "131456f3633c4d0ea036f5af4c150cfd",
+        "4ba8cf93794d626fd286a59fd62ebc88",
+        "4d933f30f8ac7d22e45ee1c5db1f8dfa",
+        "77976139d4ef44a7b07c8bc897ba4500",
+        "1b1a1f8ce600cf7dd0528353a910472c",
+        "ce2a0cce1b81e65e7b67f7915f6a5771",
+        "adb098a1de07fa32b2f66da7396ca3e6",
+        "1beaf8afe9cff6d64597a4b035d606dc",
+        "7c32c9e26b62a4138cfb84da77a3d510",
+        "4865e5d19f0912de16430884b771b006",
+        "596353b34777d969fc7b4a4a2607eedb"
       ],
-      "last_run": "2026-06-23T19:49:26Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-23T20:03:20Z",
+      "new_sub_topics_this_run": [
+        "Learn",
+        "Typing.com",
+        "Touch",
+        "TypingClub",
+        "Monkeytype",
+        "TypingTest.com",
+        "TypeRacer",
+        "Lessons",
+        "Test",
+        "FastFingers"
+      ],
+      "last_new_count": 16,
+      "_new_total_for_digest": 16
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -601,10 +622,11 @@
         "Community version of Learn You a Haskell - Discourse",
         "Issue 529 - Haskell Weekly Newsletter",
         "I think I Finally Got Monads - Hendrik Erz",
-        "The I/O problem - Haskell HaskellWiki"
+        "The I/O problem - Haskell HaskellWiki",
+        "Got",
+        "Erz"
       ],
       "last_result_hashes": [
-        "480d402e9012f947099ff628259136e0",
         "ab1a401478bf91151df62818473f5ef5",
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "14cd387e800b8b80b658ad56297837b3",
@@ -623,12 +645,16 @@
         "cefbc35153ecfe526159c290d34ecc1e",
         "89db9f115a3414a9ce5c70e45e1219a8",
         "6c81f30b697f702f9ae622aed8d33d67",
-        "7c5087aba9be74c21a92f4c31b0e14d6"
+        "7c5087aba9be74c21a92f4c31b0e14d6",
+        "4ce5350d6f046d2a417fed9cf16c6c64"
       ],
-      "last_run": "2026-06-23T19:49:26Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-23T20:03:20Z",
+      "new_sub_topics_this_run": [
+        "Got",
+        "Erz"
+      ],
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -791,7 +817,7 @@
         "54d56ed4d92d282c97b0829c1b154120",
         "11d6740bed03b7ac9fe1c5dafbda1c73"
       ],
-      "last_run": "2026-06-23T19:49:26Z",
+      "last_run": "2026-06-23T20:03:20Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -955,7 +981,7 @@
         "d6de7058fcf7e79f71074d94426c32ad",
         "eb9f4055eb733ecbb8cc63a7db3e0549"
       ],
-      "last_run": "2026-06-23T19:49:26Z",
+      "last_run": "2026-06-23T20:03:20Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
