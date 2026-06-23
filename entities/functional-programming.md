@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: wikipedia
+
 - **2026-06-23** | [Monads and Monad-Like Patterns in Rust: Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: monad
 - **2026-06-23** | [rust - Lifting function to Option - Stack Overflow](https://stackoverflow.com/questions/63260988/lifting-function-to-option) | kw: Rust
 - **2026-06-23** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: monad
