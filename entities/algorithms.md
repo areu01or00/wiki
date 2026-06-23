@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [What Is an Algorithm? Understanding the Logic Behind Modern Computing](https://www.sciencenewstoday.org/what-is-an-algorithm-understanding-the-logic-behind-modern-computing) | kw: Algorithms & DSA
+- **2026-06-23** | [ALGORITHM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/algorithm) | kw: Algorithms & DSA
+
 - **2026-06-23** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are Actually Asking Senior Engineers Instead](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: leetcode is dead
 - **2026-06-23** | [I Tried 20+ Python DSA Courses with LeetCode Exercises on Udemy: My Top 5 Recommendations for 2026](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: i tried 20
 - **2026-06-23** | [Data Structures and Algorithms in 2026: What Backend Developers Actually Need to Know (and What AI Can't Replace)](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: data structures and

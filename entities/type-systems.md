@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Type Systems
+- **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type Systems
+- **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Type Systems
+- **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: Type Systems
+- **2026-06-23** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: Type Systems
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Systems
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Type Systems
+- **2026-06-23** | [NJPLS May 2026](https://njpls.org/may2026.html) | kw: Type Systems
+- **2026-06-23** | [Seeing types where others don't - The Consensus](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html) | kw: Type Systems
+- **2026-06-23** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: Type Systems
+
 - **2026-06-23** | [Rust Generics and Traits Explained: A Complete Guide for 2026](https://rustify.rs/articles/rust-generics-and-traits-explained-2026) | kw: rust generics and
 - **2026-06-23** | [Rust Traits and Generics: Advanced Type System Patterns](https://dasroot.net/posts/2026/03/rust-traits-generics-type-system-patterns/) | kw: rust traits and
 - **2026-06-23** | [Rust Traits and Generics in 2026: Advanced Guide with Interview Questions](https://sharpskill.dev/en/blog/rust/rust-traits-generics-advanced-guide) | kw: rust traits and

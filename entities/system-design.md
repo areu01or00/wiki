@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: System Design
+- **2026-06-23** | [SYSTEM | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/system) | kw: System Design
+
 - **2026-06-23** | [Best Architectural Patterns for Event-Driven Systems - Gravitee](https://www.gravitee.io/blog/event-driven-architecture-patterns) | kw: Best, Architectural, Patterns
 - **2026-06-23** | [Event-Driven Architecture(EDA) - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/event-driven-architecture-system-design/) | kw: Event, Driven, Architecture(EDA
 - **2026-06-23** | [Scalability and Reliability in Event-Driven Systems - Medium](https://medium.com/@suadev/scalability-and-reliability-in-event-driven-systems-scaling-system-components-for-high-throughput-4be595fbdabf) | kw: Scalability, Reliability, Event

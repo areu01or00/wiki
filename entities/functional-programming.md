@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional Programming
+- **2026-06-23** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: Functional Programming
+- **2026-06-23** | [FUNCTIONAL | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/functional) | kw: Functional Programming
+- **2026-06-23** | [FUNCTIONAL Synonyms: 118 Similar and Opposite Words](https://www.merriam-webster.com/thesaurus/functional) | kw: Functional Programming
+- **2026-06-23** | [FUNCTIONAL Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/functional) | kw: Functional Programming
+- **2026-06-23** | [FUNCTIONAL | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: Functional Programming
+- **2026-06-23** | [Functional - Definition, Meaning & Synonyms | Vocabulary.com](https://www.vocabulary.com/dictionary/functional) | kw: Functional Programming
+- **2026-06-23** | [Functional - definition of functional by The Free Dictionary](https://www.thefreedictionary.com/functional) | kw: Functional Programming
+- **2026-06-23** | [Function | 100 Healthy Years](https://www.functionhealth.com/) | kw: Functional Programming
+
 - **2026-06-23** | [Functional - Wikipedia](https://en.wikipedia.org/wiki/Functional) | kw: functional
 
 - **2026-06-23** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell guide 2026

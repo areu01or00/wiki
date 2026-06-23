@@ -1,6 +1,17 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Compilers & LLVM
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - Open Projects](https://llvm.org/OpenProjects.html) | kw: Compilers & LLVM
+- **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: Compilers & LLVM
+- **2026-06-23** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: Compilers & LLVM
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: Compilers & LLVM
+- **2026-06-23** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: Compilers & LLVM
+- **2026-06-23** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: Compilers & LLVM
+- **2026-06-23** | [2026 EuroLLVM Developers' Meeting - Agenda - Announcements](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: Compilers & LLVM
+- **2026-06-23** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: Compilers & LLVM
+- **2026-06-23** | [Validating JIT Compilers via Compilation Space Exploration](https://dl.acm.org/doi/10.1145/3715102) | kw: Compilers & LLVM
+
 - **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers and modern
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project - Dev Meeting 2026-01](https://llvm.org/devmtg/2026-01/) | kw: the llvm compiler
 

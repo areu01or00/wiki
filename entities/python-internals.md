@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Welcome to Python.org](https://www.python.org/) | kw: Python Internals
+- **2026-06-23** | [Learn Python 2 - Codecademy](https://www.codecademy.com/learn/learn-python) | kw: Python Internals
+- **2026-06-23** | [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/) | kw: Python Internals
+- **2026-06-23** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: Python Internals
+- **2026-06-23** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: Python Internals
+- **2026-06-23** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: Python Internals
+- **2026-06-23** | [What is Python? Why Python is So Popular? - YouTube](https://www.youtube.com/watch?v=Y8Tko2YC5hA) | kw: Python Internals
+- **2026-06-23** | [Download Python | Python.org](https://www.python.org/downloads/) | kw: Python Internals
+- **2026-06-23** | [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) | kw: Python Internals
+
 - **2026-06-23** | [Evaluating Python 3.14's Free-Threaded Interpreter - Medium](https://roturgo.medium.com/evaluating-python-3-14s-free-threaded-interpreter-55140c0b8b82) | kw: evaluating
 
 - **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python
