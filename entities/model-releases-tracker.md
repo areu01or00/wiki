@@ -17,6 +17,12 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-23** | [Class Leading, Open-Source AI | Download Llama](https://developer.meta.com/ai/llama-downloads/) | kw: Llama 4 | source: meta-llama-releases
+- **2026-06-23** | [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) | kw: GPT-5.5 | source: openai-releases
+- **2026-06-23** | [No Claude Fable 5? No problem: Sakana achieves frontier performance](https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system) | kw: Claude Fable | source: sakana-releases
+- **2026-06-23** | [What Is GLM 5.2? The Open-Weight Model Competing with Claude](https://www.mindstudio.ai/blog/what-is-glm-5-2-open-weight-model-4) | kw: What | source: glm-releases
+- **2026-06-23** | [Z.ai's GLM-5 leaked through GitHub PRs and a zodiac easter egg](https://blog.devgenius.io/z-ais-glm-5-leaked-through-github-prs-and-a-zodiac-easter-egg-8716deb07f93) | kw: GLM-5 | source: glm-releases
+
 - **2026-06-23** | [ChatGPT New Features 2026 — GPT-5.5, Every Update (June 2026)](https://aiinsider.in/ai-learning/chatgpt-new-features-2025-2026/) | kw: GPT-5.5 | source: openai-releases
 - **2026-06-23** | [GLM-5 vs DeepSeek-V4-Pro-Max](https://llm-stats.com/models/compare/glm-5-vs-deepseek-v4-pro-max) | kw: GLM-5 | source: glm-releases
 - **2026-06-23** | [GLM-5.2: Zhipu AI's 1M-Token Open-Weight Coding Model](https://www.eigent.ai/blog/glm-5-2) | kw: GLM-5.2 | source: glm-releases
@@ -37,3 +43,6 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Auto-Discovered Profiles
 *Profiles auto-added by discovery layer each cycle. Tracked from this cycle onwards.*
+
+- **sakana-releases** — cycle 3 — Sakana AI Fugu model release Japanese lab
+- **swiss-ai-apertus** — cycle 3 — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
