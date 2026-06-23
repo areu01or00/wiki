@@ -1,6 +1,11 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [144) Exploring Modern Architecture Patterns: Event-Driven...](https://aws.plainenglish.io/144-exploring-modern-architecture-patterns-event-driven-microservices-fan-out-schedule-18dd3daf67b2) | kw: 144, Exploring, Modern
+- **2026-06-23** | [Microservices & Event-Driven Architecture Series](https://www.linkedin.com/posts/gamishurovsky_microservices-event-driven-architecture-activity-7441070789136736256-7hzS) | kw: Microservices, Event, Driven
+- **2026-06-23** | [Best Practices for Event-Driven Microservice Architecture](https://hackernoon.com/best-practices-for-event-driven-microservice-architecture-e034p21lk) | kw: Best, Practices, Event
+- **2026-06-23** | [Event driven architecture Articles — Developers Voice | The Software...](https://developersvoice.com/categories/event-driven-architecture/) | kw: Event, driven, architecture
+
 - **2026-06-23** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: System, Design, Patterns
 - **2026-06-23** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System, Design, Patterns
 - **2026-06-23** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: Essential, Software, Architecture

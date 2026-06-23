@@ -160,10 +160,6 @@
         "Idempotent"
       ],
       "last_result_hashes": [
-        "fde2e620a9be8833a9c15bcafc435062",
-        "d3099c6517032e4d8a49b61853da6add",
-        "34a7661625980b806863c89ac2b7a075",
-        "9ee955eaf1cbe1cdb85edc1616cbe650",
         "bd9c53776405cab613029a2242f038c3",
         "694eafe5ed78cb746d62ba47e0492d7d",
         "ad4481a7dbbc4df9fc46950e17d1fbb1",
@@ -179,42 +175,16 @@
         "dd7a7796e5c097072dfd00a933e4ad17",
         "327a86cca23284d9608f6e83526533f7",
         "3628e4c27cd8c18caffbf649e725699b",
-        "1ff6d174934079d9d9cc10d33911112a"
+        "1ff6d174934079d9d9cc10d33911112a",
+        "cd4aa26572b82f54195010fa012ee578",
+        "466bb83cc79622daeabf22bfc3288802",
+        "444ced6b2ab7d1a267f4d82612ee5a57",
+        "57f02d519def1696cfde5d9206b67b60"
       ],
-      "last_run": "2026-06-23T21:48:59Z",
-      "new_sub_topics_this_run": [
-        "Schemas",
-        "Brokers",
-        "Serverless",
-        "Future",
-        "Reactive",
-        "Insights",
-        "Microservice",
-        "InfraSketch",
-        "High-Level",
-        "Beyond",
-        "Architectures",
-        "DesignGurus",
-        "Global",
-        "Roadmap",
-        "Event-Driven",
-        "High-Throughput",
-        "12-Week",
-        "AppScale",
-        "TheProtec",
-        "Zuniweb",
-        "Software",
-        "TensorBlue",
-        "HostMyCode",
-        "Communication",
-        "Practices",
-        "GeeksforGeeks",
-        "Advanced",
-        "Modern",
-        "Idempotent"
-      ],
-      "last_new_count": 16,
-      "_new_total_for_digest": 10
+      "last_run": "2026-06-23T22:01:09Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -390,7 +360,7 @@
         "4a2865a9104e481b618401b9099e3b71",
         "f5bd0ad69cf88fb80b7990961e495435"
       ],
-      "last_run": "2026-06-23T21:48:59Z",
+      "last_run": "2026-06-23T22:01:09Z",
       "new_sub_topics_this_run": [
         "Tools",
         "Weekly",
@@ -422,7 +392,7 @@
         "about",
         "Interested"
       ],
-      "last_new_count": 14,
+      "last_new_count": 0,
       "_new_total_for_digest": 7
     },
     "type-systems": {
@@ -605,7 +575,7 @@
         "00ad14be6118c8092cec904ea1ca69bc",
         "a130d7c6cdfc09ce35a5269bea1a1350"
       ],
-      "last_run": "2026-06-23T21:48:59Z",
+      "last_run": "2026-06-23T22:01:09Z",
       "new_sub_topics_this_run": [
         "Summit",
         "arXiv",
@@ -628,7 +598,7 @@
         "Piracha",
         "Sym Piracha"
       ],
-      "last_new_count": 1,
+      "last_new_count": 0,
       "_new_total_for_digest": 1
     },
     "functional-programming": {
@@ -816,7 +786,7 @@
         "97b0a202537449d0207670e2b42925a4",
         "3d227992069cf4684231e3fc8978b90e"
       ],
-      "last_run": "2026-06-23T21:48:59Z",
+      "last_run": "2026-06-23T22:01:09Z",
       "new_sub_topics_this_run": [
         "Thinking",
         "Frequently",
@@ -849,7 +819,7 @@
         "problem",
         "questions"
       ],
-      "last_new_count": 15,
+      "last_new_count": 0,
       "_new_total_for_digest": 7
     },
     "algorithms": {
@@ -1039,7 +1009,7 @@
         "0c1d1adab87b63f6077e60bd6b7bb356",
         "54d56ed4d92d282c97b0829c1b154120"
       ],
-      "last_run": "2026-06-23T21:48:59Z",
+      "last_run": "2026-06-23T22:01:09Z",
       "new_sub_topics_this_run": [
         "Step-by-Step",
         "preparation",
@@ -1068,7 +1038,7 @@
         "GitHub",
         "Insider"
       ],
-      "last_new_count": 14,
+      "last_new_count": 0,
       "_new_total_for_digest": 10
     },
     "python-internals": {
@@ -1259,7 +1229,7 @@
         "00d7f928ba6f353cfde38cafdf1e7902",
         "42ce62490e5ec1f35fe0c190028194bb"
       ],
-      "last_run": "2026-06-23T21:48:59Z",
+      "last_run": "2026-06-23T22:01:09Z",
       "new_sub_topics_this_run": [
         "documentation",
         "Minutes",
@@ -1292,7 +1262,7 @@
         "Free Threaded Python",
         "Free-Threaded"
       ],
-      "last_new_count": 1,
+      "last_new_count": 0,
       "_new_total_for_digest": 1
     }
   }
