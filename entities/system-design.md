@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Microservices - Wikipedia](https://en.wikipedia.org/wiki/Microservices) | kw: Microservices
+- **2026-06-23** | [What are Microservices? | AWS](https://aws.amazon.com/microservices/) | kw: AWS
+- **2026-06-23** | [What Are Microservices? How Microservices Architecture Works](https://middleware.io/blog/microservices-architecture/) | kw: Microservices Architecture
+
 - **2026-06-23** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026
 
 - **2026-06-23** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed S

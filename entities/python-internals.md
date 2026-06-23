@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [GitHub - python/cpython: The Python programming language](https://github.com/python/cpython) | kw: python/cpython
+- **2026-06-23** | [GitHub - anasoftwareus/cpython: The Python programming language](https://github.com/anasoftwareus/cpython) | kw: anasoftwareus/cpython
+- **2026-06-23** | [Python vs Cpython - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-vs-cpython/) | kw: CPython
+
 - **2026-06-23** | [The Future of Python Internals: Exploring GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of Python Internals
 
 
