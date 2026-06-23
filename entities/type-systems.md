@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Static vs dynamic typing - Sym Piracha](https://sympiracha.dev/posts/typed-languages/) | kw: type-systems
+
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, Language, Labyrinth
 - **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon, 2026, Typing
 - **2026-06-23** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What, type, systems

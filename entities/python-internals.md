@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Goodbye GIL - Exploring Free Threaded Python 3.14](https://blog.adarshd.dev/posts/exploring-free-threaded-python-314/) | kw: python-internals
+
 - **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python, programming, language
 - **2026-06-23** | [Welcome to Python.org](https://www.python.org/) | kw: Welcome, Python.org
 - **2026-06-23** | [Learn Python - Codecademy](https://www.codecademy.com/learn/learn-python) | kw: Learn, Python, Codecademy
