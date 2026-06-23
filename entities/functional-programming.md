@@ -1,6 +1,7 @@
 # Functional Programming
 
 ## Updates
+
 - **2026-06-23** | [Haskell - Wikipedia](https://en.wikipedia.org/wiki/Haskell) | kw: haskell
 - **2026-06-23** | [Haskell Language](https://www.haskell.org/) | kw: haskell language
 - **2026-06-23** | [Haskell - Integrated AEC Design-Build Firm](https://www.haskell.com/) | kw: haskell - integrated
