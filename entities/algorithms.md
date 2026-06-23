@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap: Learn Data Structures and Algorithms - Scaler
+- **2026-06-23** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert
+- **2026-06-23** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium
+- **2026-06-23** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Thinking ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Thinki...
+- **2026-06-23** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026 - Complete Learning Path
+
 - **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: big tech interviews
 - **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: data structures algorithms
 - **2026-06-23** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: leetcode isn but

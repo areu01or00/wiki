@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type System for E...
+- **2026-06-23** | [Luau Type System Complete Guide — Strict Mode, Generics & Type ..](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide — Strict Mode, Generics & Type ..
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in ..](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Improvement...
+- **2026-06-23** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026
+
 - **2026-06-23** | [TypeScript 6.0 Advanced Type Features: What You Need to Know for 2026 - dev.to](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-advanced-type-features-what-you-need-to-know-for-2026-61f) | kw: TypeScript 6.0 Advanced Type Features: What You Need to Know
 - **2026-06-23** | [Boosting LLM-Based Type Inference via Inter-Procedural Slicing - arXiv](https://arxiv.org/pdf/2604.02702) | kw: Boosting LLM-Based Type Inference via Inter-Procedural Slici
 - **2026-06-23** | [TypeScript 6.0: what actually changed, what will break after the update - pas7](https://pas7.com.ua/blog/en/typescript-6-explained-2026) | kw: TypeScript 6.0: what actually changed, what will break after

@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Compilers I Stanford Online](https://online.stanford.edu/courses/soe-ycscs1-compilers) | kw: Compilers I Stanford Online
+
 - **2026-06-23** | [Using the TPDE Codegen Backend in LLVM ORC](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html) | kw: TPDE LLVM ORC
 - **2026-06-23** | [Halide Releases - LLVM 20 / ORC JIT](https://github.com/halide/halide/releases) | kw: Halide LLVM 20 ORC
 - **2026-06-23** | [llvm::orc Namespace Reference](https://llvm.org/doxygen/namespacellvm_1_1orc.html) | kw: llvm orc namespace
