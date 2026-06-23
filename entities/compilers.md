@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers and modern
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - Dev Meeting 2026-01](https://llvm.org/devmtg/2026-01/) | kw: the llvm compiler
+
 - **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Inline
 - **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: compilers

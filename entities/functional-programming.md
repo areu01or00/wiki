@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell guide 2026
+- **2026-06-23** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map/Reduce](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: does rust support
+- **2026-06-23** | [What is Functional Programming? A Look at the Programming Style from an OCaml Perspective](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective/) | kw: what is functional
+- **2026-06-23** | [Rust vs Haskell. Two Languages That Both Want to Save](https://medium.com/rustaceans/rust-vs-haskell-22d581f2686d) | kw: rust vs haskell
+
 - **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional programming
 - **2026-06-23** | [What Are Monads? Leibniz on the Most Fundamental Substance](https://www.thecollector.com/what-are-monads-leibniz/) | kw: Monads?
 - **2026-06-23** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: functional programming

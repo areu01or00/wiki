@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Rust Generics and Traits Explained: A Complete Guide for 2026](https://rustify.rs/articles/rust-generics-and-traits-explained-2026) | kw: rust generics and
+- **2026-06-23** | [Rust Traits and Generics: Advanced Type System Patterns](https://dasroot.net/posts/2026/03/rust-traits-generics-type-system-patterns/) | kw: rust traits and
+- **2026-06-23** | [Rust Traits and Generics in 2026: Advanced Guide with Interview Questions](https://sharpskill.dev/en/blog/rust/rust-traits-generics-advanced-guide) | kw: rust traits and
+- **2026-06-23** | [Rust Traits and Generics: Writing Reusable, Type-Safe Code](https://topictrick.com/blog/rust-traits-generics) | kw: rust traits and
+- **2026-06-23** | [Mastering Generic Types and Traits in Rust: A Complete Guide](https://dev.to/ajtech0001/mastering-generic-types-and-traits-in-rust-a-complete-guide-4e2n) | kw: mastering generic types
+- **2026-06-23** | [Generic Types, Traits, and Lifetimes - The Rust Programming Language](https://doc.rust-lang.org/book/ch10-00-generics.html) | kw: generic types traits
+- **2026-06-23** | [Rust Associated Type vs Generic Type: When to Use Each?](https://www.codegenes.net/blog/when-is-it-appropriate-to-use-an-associated-type-versus-a-generic-type/) | kw: rust associated type
+- **2026-06-23** | [TypeScript 6.0: What's New and Why the Type System Just Got](https://devstarsj.github.io/2026/06/15/typescript-6-new-features-branded-types-pattern-matching-2026/) | kw: typescript 60 whats
+- **2026-06-23** | [TypeScript 6.0 RC Features, Changes & Migration Guide 2026](https://digitalbiztalk.com/article/typescript-6-0-rc-what-developers-need-to-know-in-2026) | kw: typescript 60 rc
+- **2026-06-23** | [TypeScript 6.0 Released: The Last JavaScript-Based Version](https://jsmanifest.com/typescript-6-final-javascript-release) | kw: typescript 60 released
+
 - **2026-06-23** | [TypeScript - Wikipedia](https://en.wikipedia.org/wiki/TypeScript) | kw: type systems
 - **2026-06-23** | [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/) | kw: type systems
 - **2026-06-23** | [TypeScript Tutorial - W3Schools](https://www.w3schools.com/typescript/index.php) | kw: Tutorial

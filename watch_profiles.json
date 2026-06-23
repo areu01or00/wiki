@@ -181,7 +181,7 @@
         "dbf8e0c58091b15f2142c1ba6af512c4",
         "e4a82beb56dd4bd41bd98428b7c2ac53"
       ],
-      "last_run": "2026-06-23T22:33:48Z",
+      "last_run": "2026-06-23T22:48:08Z",
       "new_sub_topics_this_run": [
         "film",
         "open",
@@ -189,8 +189,8 @@
         "Definition",
         "IMDb"
       ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -345,8 +345,6 @@
         "Interested"
       ],
       "last_result_hashes": [
-        "7d0b717005814217330e578b0fbdc8fb",
-        "4a875ba6c9df4a6d863a675c9bbe1244",
         "145a07de41f9bd6320aac276ace40774",
         "33a37bb082b090cb28b3d94eb53d1c96",
         "695ab476c7cbd24b6ef64b844713108e",
@@ -364,17 +362,19 @@
         "c3ff4e83b0e76fe0fcfe57e765e0eb24",
         "5cefefefe6afc297697ed1187181b6a1",
         "4fba16e2bd174b270b36c190501cc64a",
-        "0589f45849e8c6f5a46220e8f0be2a45"
+        "0589f45849e8c6f5a46220e8f0be2a45",
+        "c19bff4efe4caa32620f6618fde66d45",
+        "2bfe21e20f0a812a27ef682ecb1dcdff"
       ],
-      "last_run": "2026-06-23T22:33:48Z",
+      "last_run": "2026-06-23T22:48:08Z",
       "new_sub_topics_this_run": [
         "Inline",
         "2026",
         "Just",
         "Fermat"
       ],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_new_count": 2,
+      "_new_total_for_digest": 2
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -532,19 +532,25 @@
         "dynamic",
         "where",
         "Piracha",
-        "Sym Piracha"
+        "Sym Piracha",
+        "Version",
+        "Migration",
+        "Explained",
+        "Associated",
+        "Writing",
+        "Reusable",
+        "Mastering",
+        "Generic",
+        "Traits",
+        "JavaScript-Based",
+        "Last",
+        "Changes",
+        "Just",
+        "Generics",
+        "Lifetimes",
+        "Rust"
       ],
       "last_result_hashes": [
-        "686812076d5de90d1c2ef77d554beb01",
-        "3f0e7d12a06008431c0606107ae9cdb6",
-        "fdf6069db015157a2297b289620b5a22",
-        "30ac2d43919f96f20a0bb63c41bcff69",
-        "0545cdfa97d1e079e0890c44e12ccb73",
-        "f00b12a2a218875fcee904bbf761c792",
-        "c44d7435a28b6e5a68b1b69a8dd67f4b",
-        "00ad14be6118c8092cec904ea1ca69bc",
-        "a130d7c6cdfc09ce35a5269bea1a1350",
-        "dd02dcf98485b01893b83356122b4161",
         "b58321ba0cf16607869fa4612ae95dad",
         "b2a85d189b7b7b05a9f2c9c9144fb421",
         "168d42a12ffcc9dde552d2f29e4681b2",
@@ -554,17 +560,39 @@
         "eee8057a4cd46f3ddca5942df7543e9f",
         "4310a441e58ff4aec1f727739ece1857",
         "ca591ab228bfe52c7b870e3bcd4fb5bc",
-        "48231ab25a092cd21d6d2c8eb29131c3"
+        "48231ab25a092cd21d6d2c8eb29131c3",
+        "734729a147f02dd7d5f70361ac6c51cd",
+        "b8f1dfa52b7ea9177b1473bff5e121c9",
+        "7c0f80b9a7db7660342df123e83148ec",
+        "c67bcce8c029f896d2a605296fc5ef15",
+        "479e874404a8d81aeedaf0806c6757d5",
+        "853278ca81f48fa8b7aef4a2d66b7660",
+        "e52eff7de2f81ad0525864a773c79b56",
+        "925493fa7eecab99d373f88dc97fb2dc",
+        "0965ab79d563760d1e44898e62451ee6",
+        "df1c31a85d2ad1e4e9d119891aa4ae05"
       ],
-      "last_run": "2026-06-23T22:33:48Z",
+      "last_run": "2026-06-23T22:48:08Z",
       "new_sub_topics_this_run": [
-        "Tutorial",
-        "starting",
-        "superset",
-        "devblogs.microsoft.com"
+        "Associated",
+        "Changes",
+        "Explained",
+        "Generic",
+        "Generics",
+        "JavaScript-Based",
+        "Just",
+        "Last",
+        "Lifetimes",
+        "Mastering",
+        "Migration",
+        "Reusable",
+        "Rust",
+        "Traits",
+        "Version",
+        "Writing"
       ],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_new_count": 10,
+      "_new_total_for_digest": 10
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -727,13 +755,14 @@
         "r/functionalprogramming",
         "Comparison",
         "problem",
-        "questions"
+        "questions",
+        "Does",
+        "Both",
+        "Support",
+        "That",
+        "Rust"
       ],
       "last_result_hashes": [
-        "5e9924e8af3ae3219f50c4c054e4a185",
-        "429c726f845d82832d64c89879a0f069",
-        "5be1a1f49c5b570c327fa42a564c9e6e",
-        "c3facb05857611e5ea8a26be751c223a",
         "193a037e123a29572c2ea796fc2479f2",
         "50adf529ece4d7c7e84dae5c3c2b5920",
         "2d185f0c2567eaa7773c0a0de4f51e57",
@@ -749,18 +778,22 @@
         "0a2f8e6ea409859ffcff32ed745c8f17",
         "07b6bdd68c64b86318486eaa6182729f",
         "88065060c513b2f7eea89da93f63f123",
-        "0a48329fa63788f36fb8a03657345db1"
+        "0a48329fa63788f36fb8a03657345db1",
+        "449f1936d11b3408b5111b8fbfc6e205",
+        "ed8d0a4efb3b3662d42984f0dab8a9b7",
+        "52af3e34685da627087723b03a28ccf8",
+        "a79f6fca168908b9300600f61ff9a711"
       ],
-      "last_run": "2026-06-23T22:33:48Z",
+      "last_run": "2026-06-23T22:48:08Z",
       "new_sub_topics_this_run": [
-        "Monads?",
-        "Programming?",
-        "Theory",
-        "plain",
-        "Gottfried"
+        "Both",
+        "Does",
+        "Rust",
+        "Support",
+        "That"
       ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -925,13 +958,14 @@
         "Cracking",
         "tech/FAANG",
         "GitHub",
-        "Insider"
+        "Insider",
+        "Backend",
+        "Here",
+        "Dead",
+        "What",
+        "with"
       ],
       "last_result_hashes": [
-        "649dd00bc4f5c99d8d8e260b58c7a834",
-        "d5d8bb870f26617cc98a84dc52d18677",
-        "17e3ae3333a0705ca5843337022a1ffc",
-        "30078acb58cc96561d21fa300fb121ba",
         "8e5d8e089ce7fb063a91775e8487d1bb",
         "23dbcd7c58e935174de11fa569f7799e",
         "b62338675c5a7e75848c8c6236dc623f",
@@ -947,19 +981,22 @@
         "89e7f172eeae4c358ffa14425da7ef96",
         "5ea30daa8e3b9b29eb308030e5e1419a",
         "a857c814273e0c7625339c1a17718eac",
-        "4e3936ee53aa5dd2d237081732d0856b"
+        "4e3936ee53aa5dd2d237081732d0856b",
+        "104309f7e9293468d2f174ddf1891d8a",
+        "47b7a313055c120d394a9420f71b6395",
+        "4dff80eb45ae0e900603f715c1032bdc",
+        "cab194fa3aa9f7047e5d9403fa921cfb"
       ],
-      "last_run": "2026-06-23T22:33:48Z",
+      "last_run": "2026-06-23T22:48:08Z",
       "new_sub_topics_this_run": [
-        "Wikipedia",
+        "Backend",
+        "Dead",
+        "Here",
         "What",
-        "Robert",
-        "Computer",
-        "Electrical",
-        "Types"
+        "with"
       ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1125,10 +1162,10 @@
         "Boosts",
         "Benchmarks",
         "GitHub",
-        "Free Threaded Python"
+        "Free Threaded Python",
+        "states"
       ],
       "last_result_hashes": [
-        "3ec22afa129e1cb8d531db2061d69279",
         "2af639f6f5e23249480dec27b17637f3",
         "27b04335103386c49fc7bdba6a747389",
         "b5b247fb8b983960de89159c478ae359",
@@ -1147,19 +1184,15 @@
         "57ad949b13054a49134274f7b5cbab95",
         "a22cc85f4eea471924b785721191d3ff",
         "4103b94e42b825d0021b7dfd0fe609e6",
-        "c2190a34f8bd450d284c3f3ebbabbf12"
+        "c2190a34f8bd450d284c3f3ebbabbf12",
+        "7daca63ebf93f7352f5d3cbdf0f1048a"
       ],
-      "last_run": "2026-06-23T22:33:48Z",
+      "last_run": "2026-06-23T22:48:08Z",
       "new_sub_topics_this_run": [
-        "mode",
-        "3.14",
-        "Mode",
-        "What",
-        "Liberating",
-        "Chapter"
+        "states"
       ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     }
   }
 }

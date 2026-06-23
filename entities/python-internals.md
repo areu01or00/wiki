@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 documentation](https://docs.python.org/3/c-api/threads.html) | kw: thread states and
+
 - **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: mode
 - **2026-06-23** | [Python 3.14 Free-Threaded: 8× Speed Benchmarks + Install Guide](https://python.plainenglish.io/python-3-14-free-threaded-8-speed-benchmarks-install-guide-gil-dead-in-2025-5a1b998d4c92) | kw: 3.14
 - **2026-06-23** | [Python 3.14 and GIL in CPython](https://medium.com/@almacitunaberk/python-3-14-and-gil-in-cpython-822191fa3616) | kw: 3.14
