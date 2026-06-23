@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-23** | [CPython - Wikipedia](https://en.wikipedia.org/wiki/CPython) | kw: CPython Wikipedia
+- **2026-06-23** | [GitHub - python/cpython: The Python programming language](https://github.com/python/cpython) | kw: GitHub python cpython
+- **2026-06-23** | [Your Guide to the CPython Source Code – Real Python](https://realpython.com/cpython-source-code-guide/) | kw: Your Guide CPython
+- **2026-06-23** | [GitHub - anasoftwareus/cpython: The Python programming language](https://github.com/anasoftwareus/cpython) | kw: GitHub anasoftwareus cpython
+- **2026-06-23** | [Python vs Cpython - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-vs-cpython/) | kw: Python Cpython GeeksforGeeks
+
 - **2026-06-23** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python global interpreter
 - **2026-06-23** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: global interpreter lock
 - **2026-06-23** | [The Future of Python Internals: Exploring GIL Removal and Other ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: future python internals

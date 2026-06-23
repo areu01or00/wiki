@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: LLVM Compiler Infrastructure
+- **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT Scale with
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: LLVM Compiler Infrastructure
+
 - **2026-06-23** | [Compilers I Stanford Online](https://online.stanford.edu/courses/soe-ycscs1-compilers) | kw: Compilers I Stanford Online
 
 - **2026-06-23** | [Using the TPDE Codegen Backend in LLVM ORC](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html) | kw: TPDE LLVM ORC

@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-23** | [LeetCode Interview Questions: Top Patterns by Company (2026)](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode Interview Questions
+- **2026-06-23** | [10+ top LeetCode patterns (2026) to ace FAANG coding interviews - Educative](https://www.educative.io/blog/coding-interview-leetcode-patterns) | kw: LeetCode patterns FAANG
+- **2026-06-23** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150/) | kw: Interview Study Plan
+- **2026-06-23** | [Top 10 LeetCode Patterns You Must Know for Coding Interviews in 2026](https://www.phantomcodeai.com/blogs/top-10-leetcode-patterns-you-must-know-for-coding-interviews) | kw: LeetCode Patterns Must
+
 - **2026-06-23** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap: Learn Data Structures and Algorithms - Scaler
 - **2026-06-23** | [DSA Learning Roadmap: From Beginner to Expert (2026)](https://www.coursera.org/resources/dsa-learning-roadmap) | kw: DSA Learning Roadmap: From Beginner to Expert
 - **2026-06-23** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium

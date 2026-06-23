@@ -1,0 +1,138 @@
+{
+  "tracker_name": "model-releases-tracker",
+  "wiki_page": "entities/model-releases-tracker.md",
+  "discord_thread": "1519024926928011274",
+  "created_at": "2026-06-23T00:00:00Z",
+  "profiles": {
+    "openai-releases": {
+      "query": "OpenAI new model release GPT ChatGPT API announcement",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "major-lab",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "anthropic-releases": {
+      "query": "Anthropic Claude new model release Sonnet Opus API",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "major-lab",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "google-deepmind-releases": {
+      "query": "Google DeepMind Gemini new model release API Gemma",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "major-lab",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "xai-releases": {
+      "query": "xAI Grok new model release API weights",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "major-lab",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "meta-llama-releases": {
+      "query": "Meta Llama new model release weights open source",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "major-lab",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "mistral-releases": {
+      "query": "Mistral AI new model release Mixtral weights",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "major-lab",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "deepseek-releases": {
+      "query": "DeepSeek new model release V3 R1 R2 weights API",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "chinese-open",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "qwen-releases": {
+      "query": "Alibaba Qwen new model release 3 3.5 weights API Tongyi",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "chinese-open",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "glm-releases": {
+      "query": "Zhipu GLM ChatGLM new model release weights API",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "chinese-open",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "kimi-releases": {
+      "query": "Moonshot Kimi new model release K2 weights API",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "chinese-open",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "huggingface-trending": {
+      "query": "HuggingFace trending models new paper daily",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "aggregator",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "llm-stats-updates": {
+      "query": "LLM Stats new model launch tracker",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "aggregator",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    },
+    "arxiv-cs-cl": {
+      "query": "arxiv cs.CL new language model submission",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "arxiv",
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
+    }
+  }
+}

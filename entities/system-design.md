@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+
+- **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System Wikipedia
+- **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: System film Wikipedia
+- **2026-06-23** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open System Properties
+- **2026-06-23** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: SYSTEM Definition Meaning
+- **2026-06-23** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: What does System
+
 - **2026-06-23** | [Serverless Computing Architecture: A Guide for Businesses in 2026](https://www.digisoftsolution.com/blog/serverless-computing-architecture) | kw: serverless architecture 2026
 - **2026-06-23** | [Architecture Patterns That Actually Scale In 2026: The Only Three You Need](https://medium.com/@the_atomic_architect/architecture-patterns-that-actually-scale-in-2025-the-only-three-you-need-89d1488c60a7) | kw: architecture patterns scale 2026
 - **2026-06-23** | [Serverless Architecture in 2026: How It Works, Benefits](https://middleware.io/blog/serverless-architecture/) | kw: serverless architecture

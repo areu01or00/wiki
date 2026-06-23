@@ -1,6 +1,13 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-23** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming Haskell
+- **2026-06-23** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: Practical Value Functional
+- **2026-06-23** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide Functional
+- **2026-06-23** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which Functional Programming
+- **2026-06-23** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned Monads Through
+
 - **2026-06-23** | [For a Few Monads More - Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/for-a-few-monads-more.html) | kw: monads haskell
 - **2026-06-23** | [Monads in Functional Programming: a Practical Note](https://medium.com/@bobbypriam/monads-in-functional-programming-a-practical-note-53488f94b20c) | kw: monads practical
 - **2026-06-23** | [Yet Another Monad Tutorial (part 1: basics)](https://mvanier.livejournal.com/3917.html) | kw: monad tutorial basics
