@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: Python Operators -
+- **2026-06-23** | [Python | Microsoft Developer](https://developer.microsoft.com/en-us/python) | kw: Python | Microsoft
+
 
 - **2026-06-23** | [CPython - Wikipedia](https://en.wikipedia.org/wiki/CPython) | kw: CPython Wikipedia
 - **2026-06-23** | [GitHub - python/cpython: The Python programming language](https://github.com/python/cpython) | kw: GitHub python cpython

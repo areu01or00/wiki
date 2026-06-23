@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [TypeScript Tutorial - W3Schools](https://www.w3schools.com/typescript/index.php) | kw: TypeScript Tutorial -
+- **2026-06-23** | [TypeScript s](https://www.typescripts.org/) | kw: TypeScript s
+- **2026-06-23** | [TypeScript Introduction - W3Schools](https://www.w3schools.com/typescript/typescript_intro.php) | kw: TypeScript Introduction -
+- **2026-06-23** | [JavaScript vs TypeScript in 2026: Which Should You Use? - Hashbyt](https://hashbyt.com/blog/javascript-vs-typescript) | kw: JavaScript vs TypeScript
+- **2026-06-23** | [TypeScript and the dawn of gradual types - GitHub](https://github.com/readme/featured/typescript-gradual-types) | kw: TypeScript and the
+
 
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ..](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating Language Labyrinth
 - **2026-06-23** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type system Astral

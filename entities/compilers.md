@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [LLVM 20.1.0-rc3 - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-20-1-0-rc3/84845) | kw: LLVM 20.1.0-rc3 -
+- **2026-06-23** | [LLVM 20.1.8 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-20-1-8-released/87259) | kw: LLVM 20.1.8 Released!
+- **2026-06-23** | [LLVM 20.1.0 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-20-1-0-released/85122) | kw: LLVM 20.1.0 Released!
+- **2026-06-23** | [LLVM 21.1.8 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-21-1-8-released/89144) | kw: LLVM 21.1.8 Released!
+- **2026-06-23** | [LLVM 22.1.0 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-22-1-0-released/89950) | kw: LLVM 22.1.0 Released!
+- **2026-06-23** | [LLVM 22.1.7 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-22-1-7-released/90961) | kw: LLVM 22.1.7 Released!
+- **2026-06-23** | [LLVM 21.1.7 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-21-1-7-released/89029) | kw: LLVM 21.1.7 Released!
+- **2026-06-23** | [LLVM 20.1.7 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-20-1-7-released/86855) | kw: LLVM 20.1.7 Released!
+- **2026-06-23** | [LLVM 22.1.5 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-22-1-5-released/90734) | kw: LLVM 22.1.5 Released!
+
 
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: LLVM Compiler Infrastructure
 - **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT Scale with
