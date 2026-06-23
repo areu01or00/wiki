@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Functional - Wikipedia](https://en.wikipedia.org/wiki/Functional) | kw: Functional - Wikipedia | source: functional-programming
+
 - **2026-06-23** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional Programming
 - **2026-06-23** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: Functional Programming
 - **2026-06-23** | [FUNCTIONAL | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/functional) | kw: Functional Programming

@@ -126,7 +126,6 @@
         "language"
       ],
       "last_result_hashes": [
-        "3e1426e7df71a88d744121a055d84039",
         "07550bd5bf7eb2464189443840582802",
         "cd4aa26572b82f54195010fa012ee578",
         "466bb83cc79622daeabf22bfc3288802",
@@ -145,19 +144,13 @@
         "4723cfc6b563b1ac317f21781401e5c2",
         "ec939f75641e7bbcf472fe094bba0f38",
         "075835e34e99d507a4eff711c573a474",
-        "3121833195c773d13183deb7a9ec19f7"
+        "3121833195c773d13183deb7a9ec19f7",
+        "2d3506c3f6b37ad4e09360268ba56f6d"
       ],
-      "last_run": "2026-06-23T23:30:00Z",
-      "new_sub_topics_this_run": [
-        "cambridge",
-        "definition",
-        "dictionary",
-        "dictionary.com",
-        "english",
-        "meaning"
-      ],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_run": "2026-06-23T23:47:39Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -285,10 +278,6 @@
         "Building Fermat: A Journey from Scratch to JIT Compiler"
       ],
       "last_result_hashes": [
-        "85875fa4aeb3a7c10187eaf8cc0cac2f",
-        "530555c3fb99b93596836f56af0eda64",
-        "4a875ba6c9df4a6d863a675c9bbe1244",
-        "7d0b717005814217330e578b0fbdc8fb",
         "f1925c0af6e39aa520ffa6a282ede525",
         "3c9718118369d7e2403bff65ca60bf76",
         "da4da22ebe0b30bc79e1ad7a94e5310c",
@@ -304,18 +293,16 @@
         "c3ff4e83b0e76fe0fcfe57e765e0eb24",
         "5cefefefe6afc297697ed1187181b6a1",
         "4fba16e2bd174b270b36c190501cc64a",
-        "0589f45849e8c6f5a46220e8f0be2a45"
+        "0589f45849e8c6f5a46220e8f0be2a45",
+        "525a160983d7b911b472e962fb56cbde",
+        "daae0d27bf2f74d79be894ee15db6145",
+        "50250f969201a0eda993af7122909f9a",
+        "4574fe07c8777d7dd9e435a94605d5d4"
       ],
-      "last_run": "2026-06-23T23:30:00Z",
-      "new_sub_topics_this_run": [
-        "dstogov/ir",
-        "great",
-        "jank",
-        "start",
-        "tratt.net"
-      ],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_run": "2026-06-23T23:47:39Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -443,11 +430,6 @@
         "Beyond"
       ],
       "last_result_hashes": [
-        "1892288ce3bfda31458d852753d72f5f",
-        "6c257d065a3041b16049b05a47e582ff",
-        "a47905b8e6aeadd5f227767b65f5a246",
-        "3ee155bc89731d74821dbdede14aa8be",
-        "1a9958a78e7ae39c78870e2584d0687d",
         "686812076d5de90d1c2ef77d554beb01",
         "3f0e7d12a06008431c0606107ae9cdb6",
         "30ac2d43919f96f20a0bb63c41bcff69",
@@ -462,15 +444,17 @@
         "4310a441e58ff4aec1f727739ece1857",
         "ca591ab228bfe52c7b870e3bcd4fb5bc",
         "48231ab25a092cd21d6d2c8eb29131c3",
-        "734729a147f02dd7d5f70361ac6c51cd"
+        "734729a147f02dd7d5f70361ac6c51cd",
+        "864c624f541aa32da64f03c0bca119ed",
+        "ebddfe8dc78273e26817862ee01ad6d5",
+        "61d24c6e5157e06f6618b84043de48bf",
+        "3b75bee49f1f057b646aa55135066aa0",
+        "0252b8777b2d55e7c510b57f349edc35"
       ],
-      "last_run": "2026-06-23T23:30:00Z",
-      "new_sub_topics_this_run": [
-        "months",
-        "v1.20"
-      ],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_run": "2026-06-23T23:47:39Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -598,7 +582,6 @@
         "Concepts"
       ],
       "last_result_hashes": [
-        "d250aefb29a35210e53228bb1d5cf418",
         "5f0c21350e867da0497138104e88c638",
         "7849c4b20c1f881bbdfb853bb6d0f4b2",
         "5d7c2c05d1473ae3fb2f90abd8c197dc",
@@ -617,30 +600,13 @@
         "449f1936d11b3408b5111b8fbfc6e205",
         "ed8d0a4efb3b3662d42984f0dab8a9b7",
         "52af3e34685da627087723b03a28ccf8",
-        "a79f6fca168908b9300600f61ff9a711"
+        "a79f6fca168908b9300600f61ff9a711",
+        "9989d974971c23b24bd2a5f66698bb6e"
       ],
-      "last_run": "2026-06-23T23:30:00Z",
-      "new_sub_topics_this_run": [
-        "cambridge",
-        "definition",
-        "dictionary",
-        "dictionary.com",
-        "english",
-        "free",
-        "function",
-        "healthy",
-        "mathematics",
-        "meaning",
-        "merriam-webster",
-        "opposite",
-        "similar",
-        "synonyms",
-        "vocabulary.com",
-        "words",
-        "years"
-      ],
-      "last_new_count": 9,
-      "_new_total_for_digest": 9
+      "last_run": "2026-06-23T23:47:39Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",

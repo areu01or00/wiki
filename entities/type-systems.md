@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: Learn to Type  Type Better  Type Faste | source: type-systems
+- **2026-06-23** | [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/) | kw: Learn Touch Typing Free - TypingClub | source: type-systems
+- **2026-06-23** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: Monkeytype  A minimalistic, customizabl | source: type-systems
+- **2026-06-23** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: TypingTest.com - Complete a Typing Test | source: type-systems
+- **2026-06-23** | [TypeRacer - Play Typing Games and Race Friends](https://play.typeracer.com/) | kw: TypeRacer - Play Typing Games and Race F | source: type-systems
+
 - **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Type Systems
 - **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type Systems
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Type Systems

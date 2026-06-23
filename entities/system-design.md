@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: What does System mean? - Definitions.net | source: system-design
+
 - **2026-06-23** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: System Design
 - **2026-06-23** | [SYSTEM | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/system) | kw: System Design
 

@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM - Wikipedia | source: compilers
+- **2026-06-23** | [GitHub - llvm/llvm-project](https://github.com/llvm/llvm-project) | kw: GitHub - llvm/llvm-project | source: compilers
+- **2026-06-23** | [LLVM Download Page](https://releases.llvm.org/download.html) | kw: LLVM Download Page | source: compilers
+- **2026-06-23** | [Releases · llvm/llvm-project - GitHub](https://github.com/llvm/llvm-project/releases) | kw: Releases · llvm/llvm-project - GitHub | source: compilers
+
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Compilers & LLVM
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project - Open Projects](https://llvm.org/OpenProjects.html) | kw: Compilers & LLVM
 - **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: Compilers & LLVM
