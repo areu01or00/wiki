@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - Dev Meeting 2026-04](https://llvm.org/devmtg/2026-04/) | kw: The LLVM Compiler Infrastructure Project - Dev Meeting 2026-
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+- **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, TurboFan, Maglev](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, 
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst
+- **2026-06-23** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22
+- **2026-06-23** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM - Create Your Own
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project - OpenProjects
+
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: compilers
 - **2026-06-23** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compilers
 - **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: compilers

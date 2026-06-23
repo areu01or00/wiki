@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste
+- **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months
+- **2026-06-23** | [TypeScript 6.0: What's New and Why the Type System Just Got Better](https://devstarsj.github.io/2026/06/15/typescript-6-new-features-branded-types-pattern-matching-2026/) | kw: TypeScript 6.0: What's New and Why the Type System Just Got 
+- **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for Performance](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for Per
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Impr
+- **2026-06-23** | [Efficient Selection of Type Annotations - Programming 2026 Conference](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations - Programming 2026 C
+- **2026-06-23** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types to Work - NSF Public Access
+- **2026-06-23** | [0025-gradual-typing-and-protocols.md - GitHub beamtalk](https://github.com/jamesc/beamtalk/blob/main/docs/ADR/0025-gradual-typing-and-protocols.md) | kw: 0025-gradual-typing-and-protocols.md - GitHub beamtalk
+
 - **2026-06-23** | [[2408.14345] Guard Analysis and Safe Erasure Gradual Typing ...](https://arxiv.org/abs/2408.14345) | kw: type
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: type
 - **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for ...](https://arxiv.org/abs/2603.05649) | kw: type

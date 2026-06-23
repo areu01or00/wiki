@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy in 2026
+- **2026-06-23** | [Explore - LeetCode system-design](https://leetcode.com/explore/learn/card/system-design/) | kw: Explore - LeetCode system-design
+- **2026-06-23** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) | kw: Data structures and algorithms study cheatsheets for coding 
+- **2026-06-23** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Top 100 DSA Interview Questions - Discuss - LeetCode
+
 - **2026-06-23** | [Are LeetCode Interviews Still Relevant in 2026? - 4A Consulting](https://4a-consulting.com/are-leetcode-interviews-still-relevant-in-2026/) | kw: algorithms
 
 - **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
