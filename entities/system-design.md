@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [System Design Interview Prep - Design Scalable Systems](https://www.bing.com/aclick?ld=e84Wl0fVwJX2FkHWt-9v6CxjVUCUzECEU1Fzk0mj1QvohHzpRFpr1nb8yMvdf8wrMkdlTQZSI6pSLkCTdxQ_qkDauhROD_HYClaPfuJRWWdj2KKSS01sPNVsQKVw3ZQGn_H5QU3NQgBUGQigxk6uV1Tgw_gL9xRDxzbRqTJQpE06xbHWQA8cWBA9xAcj95zvr6jjbC_wMSxasy7EJQZo9UD3I6pnA) | kw: Java
+
 - **2026-06-23** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System in 2026: Principles, Patter
 - **2026-06-23** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer Should Know in 90 D
 - **2026-06-23** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: A Guide to Large-Scale Distributed Systems (2026)
