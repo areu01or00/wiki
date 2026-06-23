@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Designing Resilient Systems | source: system-design
+- **2026-06-23** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: System design is about learning how to think at scale | source: system-design
+- **2026-06-23** | [Top 10 Frontend System Design Patterns Every... | Frontend Junction](https://www.frontend-junction.com/blog/frontend-system-design-patterns-2026) | kw: Master core frontend architecture patterns for FAANG system | source: system-design
+- **2026-06-23** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: SaaS architecture patterns including AI-native design, event | source: system-design
+- **2026-06-23** | [System Design Interview: Design a Distributed Search Engine](https://www.techinterview.org/post/3233464068/system-design-distributed-search/) | kw: Building a search system from scratch - inverted index, dist | source: system-design
+
 - **2026-06-23** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 2026
 - **2026-06-23** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns
 - **2026-06-23** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed Systems Patterns 2026 | pdpspectra

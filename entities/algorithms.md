@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [data-structures - GitHub Topics](https://github.com/topics/data-structures) | kw: Awesome LeetCode resources to learn Data Structures and Algo | source: algorithms
+- **2026-06-23** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: DSA and LeetCode interview problems list | source: algorithms
+- **2026-06-23** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: Level up coding skills and prepare for next interview | source: algorithms
+- **2026-06-23** | [datastructures-algorithms - GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: Algorithms and Data Structures implemented in Lua | source: algorithms
+- **2026-06-23** | [LeetCode Review (2026): Is It Worth It?](https://coddy.tech/vs/leetcode) | kw: Jun 18, 2026 - LeetCode best place to grind coding-interview | source: algorithms
+- **2026-06-23** | [Data Structures and Algorithms Full Course - YouTube](https://www.youtube.com/watch?v=CBYHwZcbD-s) | kw: DSA full course tutorial | source: algorithms
+- **2026-06-23** | [The Best Way To Learn Algorithms and Data Structures - dev.to](https://dev.to/salarc123/the-best-way-to-learn-algorithms-and-data-structures-24cn) | kw: Competitive programming to apply algorithms and data structu | source: algorithms
+
 - **2026-06-23** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)
 - **2026-06-23** | [Best coding interview prep resource in 2026 (Grokking vs LeetCode)](https://www.reddit.com/r/leetcode/comments/1qft3d3/best_coding_interview_prep_resource_in_2026/) | kw: Best coding interview prep resource in 2026 (Grokking vs LeetCode)
 - **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - LeetCode Discuss](https://leetcode.com/discuss/post/7710904) | kw: Amazon | SDE2 | Feb 2026 [Selected] - LeetCode Discuss

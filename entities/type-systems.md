@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: May 14, 2026 - gradual layer took weeks | source: type-systems
+
 - **2026-06-23** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system - Wikipedia
 - **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months
 - **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US 2026 Typing Summit Recap - Bernát Gábor

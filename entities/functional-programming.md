@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monads structure computations as a sequence of steps with ex | source: functional-programming
+- **2026-06-23** | [FP lang for 2026 - r/functionalprogramming](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: Mar 1, 2026 - Lisp (scheme, clojure) and ML/Haskell family ( | source: functional-programming
+- **2026-06-23** | [Good tutorial/book about functional programming - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Learn more about functional programming in general | source: functional-programming
+- **2026-06-23** | [What killed Haskell, could kill Rust, too](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: Haskell at the forefront of functional programming | source: functional-programming
+- **2026-06-23** | [Co-Creator of Haskell: Functional Programming, Thinking in Types](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Jun 8, 2026 - Simon Peyton Jones interview on functional pro | source: functional-programming
+- **2026-06-23** | [Hello, Haskell: Getting Started in 2026](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Jan 25, 2026 - Beginner examples linking Haskell syntax to t | source: functional-programming
+- **2026-06-23** | [What other ways can state be handled in a pure functional language](https://stackoverflow.com/questions/13536761/what-other-ways-can-state-be-handled-in-a-pure-functional-language-besides-with) | kw: Monads for IO/state in pure functional languages | source: functional-programming
+
 - **2026-06-23** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam vs. Rust
 - **2026-06-23** | [The Practical Value of Functional Programming — Monad, Functor, Pure](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming — Monad, Functor, Pure
 - **2026-06-23** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which Functional Programming Languages Should You Learn in 2026?

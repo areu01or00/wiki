@@ -1,6 +1,14 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [The Future of Python Internals: GIL Removal and Optimizations](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Jul 17, 2025 - GIL prevents true parallel execution of Pytho | source: python-internals
+- **2026-06-23** | [What is the GIL in Python? Is It Going Away in 2026?](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: Feb 10, 2026 - Whether GIL is being removed in 2026 | source: python-internals
+- **2026-06-23** | [Exploring Python: Internals and Optimization](https://blog.habibullah.dev/under-the-hood-of-python-internals-optimization-and-modern-features) | kw: Jan 10, 2026 - Python internals, Free-Threading, Asyncio, Me | source: python-internals
+- **2026-06-23** | [Python's GIL Is Gone - What That Actually Means](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Mar 29, 2026 - GIL protects Python internal memory managemen | source: python-internals
+- **2026-06-23** | [Python Memory Management: GIL Deep Dive](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: May 24, 2026 - Python memory model, GIL, garbage collection, | source: python-internals
+- **2026-06-23** | [Python 3.14 Free-Threading and Experimental JIT](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Mar 15, 2026 - Python 3 | source: python-internals
+- **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Feb 20, 2026 - Python 3 | source: python-internals
+
 - **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV Change Everything - Medium
 - **2026-06-23** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: What's new in Python 3.14 — Python 3.14.6 documentation
 - **2026-06-23** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites you)
