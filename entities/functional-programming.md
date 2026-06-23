@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Analyzing Functional Programming according to simplicity's dimensions](https://dannyvanheumen.nl/post/engineering-analyzing-fp-according-to-simplicity-dimensions/) | kw: Analyzing Functional Programming according
+- **2026-06-23** | [r/haskell - 2026 State of the Haskell ecosystem - Reddit](https://www.reddit.com/r/haskell/comments/1p9ej9l/2026_state_of_the_haskell_ecosystem/) | kw: r/haskell - 2026 State
+
 - **2026-06-23** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026
 - **2026-06-23** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026]
 - **2026-06-23** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Progra

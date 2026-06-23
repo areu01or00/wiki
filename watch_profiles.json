@@ -124,18 +124,10 @@
         "fde2e620a9be8833a9c15bcafc435062",
         "d3099c6517032e4d8a49b61853da6add"
       ],
-      "last_run": "2026-06-23T15:17:44Z",
-      "new_sub_topics_this_run": [
-        "50 System Design Patterns Every Engineer",
-        "Modern Software Architecture Patterns Th",
-        "A Guide to Large-Scale Distributed Syste",
-        "9 Essential Software Architecture Patter",
-        "The Only 12-Week High-Level System Desig",
-        "12 Essential Distributed System Design P",
-        "From Monolith to Agentic AI - James East"
-      ],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_run": "2026-06-23T15:30:54Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -257,15 +249,10 @@
         "fe9109740810c6fcfd30f3ae62e247fa",
         "4b1e29bea95c86c7c4e2575062ea5145"
       ],
-      "last_run": "2026-06-23T15:17:44Z",
-      "new_sub_topics_this_run": [
-        "Compilers I Stanford Online",
-        "11 Compilers | Computation Structures | ",
-        "Best Open Source Compilers 2026 - Source",
-        "What Is a Compiler? The Complete Guide t"
-      ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "last_run": "2026-06-23T15:30:54Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -407,12 +394,10 @@
         "309f66f29e1d046c77d14541fdd68a0c",
         "559820eef1609a803073fbdaec85d213"
       ],
-      "last_run": "2026-06-23T15:17:44Z",
-      "new_sub_topics_this_run": [
-        "Navigating the Language Labyrinth"
-      ],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "last_run": "2026-06-23T15:30:54Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -519,11 +504,11 @@
         "functional",
         "Precision",
         "Good",
-        "Monads"
+        "Monads",
+        "Analyzing Functional Programming according",
+        "r/haskell - 2026 State"
       ],
       "last_result_hashes": [
-        "df332d266a9393afd65af20ab5899d2a",
-        "f706c0cd772a8e254641eb9214be126d",
         "118ad77388f20a14d3b8caa92bbe1e1f",
         "e14815b1982efe5f2ca182faba3ad6f5",
         "31070e3fe2b544546b95f30a7c733178",
@@ -541,21 +526,17 @@
         "e2809728031a0a794b40bbdaef5a85f9",
         "c091fe17605fcaf38b42d3e5f73ccacc",
         "0f2d3172728b4c41fd9effec2767c946",
-        "2ce5775930209e8a8c3a28a2f7f1a4a5"
+        "2ce5775930209e8a8c3a28a2f7f1a4a5",
+        "c67587cbd0b428469bb5fd6553a08780",
+        "ea87e5812e8b5e040c594262f242dd1c"
       ],
-      "last_run": "2026-06-23T15:17:44Z",
+      "last_run": "2026-06-23T15:30:54Z",
       "new_sub_topics_this_run": [
-        "Functional Programming in 2026",
-        "Haskell Guide [2026]",
-        "The Practical Value of Functional Progra",
-        "Which Functional Programming Languages S",
-        "How I Learned Monads",
-        "What is Functional Programming? A Look a",
-        "Does Rust Support Functional Programming",
-        "Hello, Haskell"
+        "Analyzing Functional Programming according",
+        "r/haskell - 2026 State"
       ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 2,
+      "_new_total_for_digest": 2
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -681,13 +662,10 @@
         "eafd918237f1fdcc99e04073cd8d13ea",
         "867c193f14d86dba8e19be9953c4f21a"
       ],
-      "last_run": "2026-06-23T15:17:44Z",
-      "new_sub_topics_this_run": [
-        "Amazon | SDE2 | Feb 2026 [Selected] - Di",
-        "Are Big Tech interviews still DSA, LeetC"
-      ],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_run": "2026-06-23T15:30:54Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -814,12 +792,10 @@
         "17f40f751da9a1c9558ca7dbf958ae7e",
         "a1233cdbbbaf5c3624b23b99f9297143"
       ],
-      "last_run": "2026-06-23T15:17:44Z",
-      "new_sub_topics_this_run": [
-        "How Python's GIL actually works (and whe"
-      ],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "last_run": "2026-06-23T15:30:54Z",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     }
   }
 }
