@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6](https://docs.python.org/3/c-api/threads.html) | kw: Python Internals
+- **2026-06-23** | [Python's GIL Is Gone in 3.13. But Your Code Probably Doesn't Benefit Yet](https://medium.com/@sohail_saifi/pythons-gil-is-gone-in-3-13-but-your-code-probably-doesn-t-benefit-yet-here-s-exactly-why-31d2d93ff76c) | kw: Python Internals
+- **2026-06-23** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: Python Internals
+- **2026-06-23** | [Faster Python: Unlocking the Python Global Interpreter Lock - JetBrains](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Python Internals
+- **2026-06-23** | [Python 3.14: The present and future of the language of the moment - Altia](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python Internals
+- **2026-06-23** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Python Internals
+
 - **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye
 - **2026-06-23** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: Python
 - **2026-06-23** | [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Faster

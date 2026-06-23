@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Community version of "Learn You a Haskell…" - Haskell Discourse](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Functional Programming
+- **2026-06-23** | [The I/O problem - HaskellWiki](https://wiki.haskell.org/The_I/O_problem) | kw: Functional Programming
+- **2026-06-23** | [What killed Haskell, could kill Rust, too - GitHub Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: Functional Programming
+
 - **2026-06-23** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell
 - **2026-06-23** | [Community version of “Learn You a Haskell…” (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community
 

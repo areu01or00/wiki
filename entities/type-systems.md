@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Comparison of programming languages by type system - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_by_type_system) | kw: Type Systems
+- **2026-06-23** | [Programming languages for AI - ploeh blog](https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/) | kw: Type Systems
+- **2026-06-23** | [21 New Programming Languages to Learn 2026 | Built In](https://builtin.com/software-engineering-perspectives/new-programming-languages) | kw: Type Systems
+- **2026-06-23** | [The most popular programming languages in 2026 - Innowise](https://innowise.com/blog/top-proprogramming-languages/) | kw: Type Systems
+- **2026-06-23** | [Most In-demand Programming Languages for 2026 - Itransition](https://www.itransition.com/developers/in-demand-programming-languages) | kw: Type Systems
+- **2026-06-23** | [7 In-Demand Programming Languages of 2026 - Scala Teams](https://www.scalateams.com/blog/programming-languages-2026) | kw: Type Systems
+- **2026-06-23** | [Best Programming Languages to Learn in 2026 - Simplilearn](https://www.simplilearn.com/best-programming-languages-start-learning-today-article) | kw: Type Systems
+- **2026-06-23** | [A perfectable programming language - Hacker News](https://news.ycombinator.com/item?id=47744540) | kw: Type Systems
+- **2026-06-23** | [The Top Programming Languages 2025 - IEEE Spectrum](https://spectrum.ieee.org/top-programming-languages-2025) | kw: Type Systems
+
 - **2026-06-23** | [Dynamic Type Inference for Gradual Hindley--Milner Typing - arXiv](https://arxiv.org/abs/1810.12619) | kw: Dynamic
 - **2026-06-23** | [Gradual Typing for Functional Languages](http://scheme2006.cs.uchicago.edu/13-siek.pdf) | kw: Gradual
 - **2026-06-23** | [The StaDyn programming language - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2352711022001297) | kw: StaDyn

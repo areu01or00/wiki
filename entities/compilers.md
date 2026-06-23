@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Compilers
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: Compilers
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: Compilers
+- **2026-06-23** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: Compilers
+- **2026-06-23** | [2026 EuroLLVM Developers' Meeting - Agenda](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: Compilers
+- **2026-06-23** | [LLVM: simple example of a just-in-time compilation - Stack Overflow](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: Compilers
+
 - **2026-06-23** | [Compiler - Wikipedia](https://en.wikipedia.org/wiki/Compiler) | kw: Compiler
 - **2026-06-23** | [List of compilers - Wikipedia](https://en.wikipedia.org/wiki/List_of_compilers) | kw: List
 - **2026-06-23** | [Introduction To Compilers - GeeksforGeeks](https://www.geeksforgeeks.org/compiler-design/introduction-to-compilers/) | kw: Introduction
