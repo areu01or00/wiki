@@ -1,6 +1,22 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [FP lang for 2026 - Reddit r/functionalprogramming](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: lang, 2026, Reddit
+- **2026-06-23** | [Haskell Foundation 2026 Update - Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell, Foundation, 2026
+- **2026-06-23** | [Community version of Learn You a Haskell 2026 update](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community, version, Learn
+- **2026-06-23** | [I think I Finally Got Monads - Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: think, Finally, Monads
+- **2026-06-23** | [The I/O problem - HaskellWiki](https://wiki.haskell.org/The_I/O_problem) | kw: problem, HaskellWiki
+- **2026-06-23** | [Comparison of functional programming languages - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_functional_programming_languages) | kw: Comparison, functional, programming
+- **2026-06-23** | [Gleam is Pragmatic - software is fun - Drew Olson](https://blog.drewolson.org/gleam-is-pragmatic/) | kw: Gleam, Pragmatic, software
+- **2026-06-23** | [Functional-programming tier list - DEV Community](https://dev.to/zelenya/functional-programming-tier-list-4acl) | kw: Functional-programming, tier, list
+- **2026-06-23** | [Popularity of different functional languages - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1gb9asm/popularity_of_different_functional_languages/) | kw: Popularity, different, functional
+- **2026-06-23** | [Frequently asked questions - Gleam programming language](https://gleam.run/frequently-asked-questions/) | kw: Frequently, asked, questions
+- **2026-06-23** | [Gleam: The Functional BEAM Language to Watch - Thinking Loop](https://medium.com/@ThinkingLoop/gleam-the-functional-beam-language-to-watch-02a523752048) | kw: Gleam, Functional, BEAM
+- **2026-06-23** | [A couple million lines of Haskell: Production engineering at Mercury - HN](https://news.ycombinator.com/item?id=47991802) | kw: couple, million, lines
+- **2026-06-23** | [Planet Haskell](https://planet.haskell.org/) | kw: Planet, Haskell
+- **2026-06-23** | [AI Agents Love Gleam - Curling IO](https://curling.io/blog/21-reasons-ai-agents-love-gleam) | kw: Agents, Love, Gleam
+- **2026-06-23** | [ChessMax/awesome-programming-languages - GitHub](https://github.com/ChessMax/awesome-programming-languages) | kw: ChessMax/awesome-programming-languages, GitHub
+
 - **2026-06-23** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: Reddit
 - **2026-06-23** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional, Programmers, Lobsters
 - **2026-06-23** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell, Foundation, Update

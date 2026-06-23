@@ -1,6 +1,18 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, Language, Labyrinth
+- **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon, 2026, Typing
+- **2026-06-23** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What, type, systems
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type, Inference, Functional
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient, Selection, Type
+- **2026-06-23** | [Seeing types where others don't - The Consensus](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html) | kw: Seeing, types, where
+- **2026-06-23** | [NJPLS May 2026](https://njpls.org/may2026.html) | kw: NJPLS, 2026
+- **2026-06-23** | [Elixir (programming language) - Wikipedia](https://en.m.wikipedia.org/wiki/Elixir_(programming_language)) | kw: Elixir, programming, language
+- **2026-06-23** | [Elixir Documentation - The Elixir programming language](https://elixir-lang.org/docs.html) | kw: Elixir, Documentation, Elixir
+- **2026-06-23** | [GitHub - elixir-lang/elixir: Elixir is a dynamic, functional language](https://github.com/elixir-lang/elixir) | kw: GitHub, elixir-lang/elixir, Elixir
+- **2026-06-23** | [Basics - Elixir School](https://elixirschool.com/en/lessons/basics/basics/) | kw: Basics, Elixir, School
+
 - **2026-06-23** | [Announcing TypeScript 6.0](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/) | kw: Announcing, TypeScript
 - **2026-06-23** | [TypeScript 6.0 Released: The Last JavaScript-Based Version](https://gist.github.com/pfftdammitchris/fbd352bf54b4e2395b9cbb7c1552c05c) | kw: TypeScript, Released:, Last
 - **2026-06-23** | [GitHub - microsoft/TypeScript](https://github.com/microsoft/TypeScript) | kw: GitHub

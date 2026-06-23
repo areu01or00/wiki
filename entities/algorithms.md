@@ -1,6 +1,21 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [What is an Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What, Algorithm, GeeksforGeeks
+- **2026-06-23** | [Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: Algorithms, Khan, Academy
+- **2026-06-23** | [Introduction to Algorithms - MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: Introduction, Algorithms
+- **2026-06-23** | [Algorithm - Britannica](https://www.britannica.com/science/algorithm) | kw: Algorithm, Britannica
+- **2026-06-23** | [In 2026, are the interview process and preparation needed to get into big tech/FAANG still mastering LeetCode](https://www.reddit.com/r/leetcode/comments/1si9z5u/in_2026_are_the_interview_process_and_preparation/) | kw: 2026, interview, process
+- **2026-06-23** | [Step-by-Step Guide for FAANG Interviews in 2026 (Part 1 of 10) - Master Roadmap](https://medium.com/@emilyhustlenyc/step-by-step-guide-for-faang-interviews-in-2026-part-1-of-10-the-master-roadmap-729049306d85) | kw: Step-by-Step, Guide, FAANG
+- **2026-06-23** | [How I Would Prepare for a FAANG Interview in 2026 - DesignGurus](https://designgurus.substack.com/p/how-i-would-prepare-for-a-faang-interview) | kw: Would, Prepare, FAANG
+- **2026-06-23** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data) - DSA Prep](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most, Asked, LeetCode
+- **2026-06-23** | [How to Crack a FAANG Interview in 2026: The Complete Insider Guide - TechInterview](https://www.techinterview.net/blog/how-to-crack-faang-interview-2026) | kw: Crack, FAANG, Interview
+- **2026-06-23** | [Beyond 14 LeetCode Patterns: Advanced Patterns to Crack FAANG Interviews](https://medium.com/@fahimulhaq/beyond-14-leetcode-patterns-advanced-patterns-to-crack-faang-interviews-4efcaaf5f15c) | kw: Beyond, LeetCode, Patterns
+- **2026-06-23** | [10+ top LeetCode patterns (2026) to ace FAANG coding interviews - Educative](https://www.educative.io/blog/coding-interview-leetcode-patterns) | kw: LeetCode, patterns, 2026
+- **2026-06-23** | [ombharatiya/FAANG-Coding-Interview-Questions - GitHub](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) | kw: ombharatiya/FAANG-Coding-Interview-Questions, GitHub
+- **2026-06-23** | [FAANG Interview Preparation: Retention-First (2026) - Firecode](https://firecode.io/best/faang-interview-preparation) | kw: FAANG, Interview, Preparation
+- **2026-06-23** | [Cracking LeetCode and FAANG Interviews with New Strategies - LinkedIn](https://www.linkedin.com/posts/eugenematsyuk_leetcode-codinginterview-faang-activity-7414372721792598017-1mXa) | kw: Cracking, LeetCode, FAANG
+
 - **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Tech, DSA,, LeetCode-heavy
 - **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - LeetCode Discuss](https://leetcode.com/discuss/post/7710904) | kw: Amazon, SDE2, LeetCode
 - **2026-06-23** | [How to prepare for Data Structures & Algorithms interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: Data, Structures, Algorithms

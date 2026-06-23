@@ -1,6 +1,21 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time, compilation, Wikipedia
+- **2026-06-23** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM, Compiler, Infrastructure
+- **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT, Scale, with
+- **2026-06-23** | [LLNL Researchers Develop GPU JIT Compiler for Large-Scale HPC Applications](https://www.hpcwire.com/off-the-wire/llnl-researchers-develop-gpu-jit-compiler-for-large-scale-hpc-applications/) | kw: LLNL, Researchers, Develop
+- **2026-06-23** | [MLIR (software) - Wikipedia](https://en.wikipedia.org/wiki/MLIR_(software)) | kw: MLIR, software, Wikipedia
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - Home](https://llvm.org/) | kw: LLVM, Compiler, Infrastructure
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - Dev Meeting](https://llvm.org/devmtg/) | kw: LLVM, Compiler, Infrastructure
+- **2026-06-23** | [MLIR support for Neuromorphic workflows - LLVM Discourse](https://discourse.llvm.org/t/mlir-support-for-neuromorphic-workflows/89955) | kw: MLIR, support, Neuromorphic
+- **2026-06-23** | [Integrating Quantum Software Tools with(in) MLIR - arXiv](https://arxiv.org/html/2601.02062v1) | kw: Integrating, Quantum, Software
+- **2026-06-23** | [Looking for People Interested in LLVM/MLIR and Compiler - Reddit](https://www.reddit.com/r/Compilers/comments/1thsrwx/looking_for_people_interested_in_llvmmlir_and/) | kw: Looking, People, Interested
+- **2026-06-23** | [Announcing the 7th MLIR Workshop @ EuroLLVM 2026 Program](https://discourse.llvm.org/t/announcing-the-7th-mlir-workshop-eurollvm-2026-program/90119) | kw: Announcing, MLIR, Workshop
+- **2026-06-23** | [A Pattern Generation Language for MLIR Compiler Matching and - ACM](https://dl.acm.org/doi/10.1145/3777905) | kw: Pattern, Generation, Language
+- **2026-06-23** | [What about the MLIR compiler infrastructure - Modular](https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure) | kw: What, about, MLIR
+- **2026-06-23** | [LLVM Weekly - #629, January 19th 2026](https://llvmweekly.org/issue/629) | kw: LLVM, Weekly, #629
+
 - **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language
 - **2026-06-23** | [LLVM Developer Meeting 2026-01](https://llvm.org/devmtg/2026-01/) | kw: LLVM, Developer, Meeting
 - **2026-06-23** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: Case, Compilers:, Look

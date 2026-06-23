@@ -1,6 +1,23 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: System, Design, Patterns
+- **2026-06-23** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System, Design, Patterns
+- **2026-06-23** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: Essential, Software, Architecture
+- **2026-06-23** | [The Only 12-Week High-Level System Design Roadmap You Need 2026 Edition](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: Only, 12-Week, High-Level
+- **2026-06-23** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: Essential, Distributed, System
+- **2026-06-23** | [The Complete Guide to System Design in 2026 - InfraSketch Blog](https://infrasketch.net/blog/complete-guide-system-design) | kw: Complete, Guide, System
+- **2026-06-23** | [Event-Driven Architecture Patterns for High-Throughput Systems in 2026](https://www.landskill.com/blog/event-driven-architecture-patterns/) | kw: Event-Driven, Architecture, Patterns
+- **2026-06-23** | [Microservices Architecture in 2026: Advanced Insights and Best Practices - TheProtec](https://www.theprotec.com/blog/2026/microservices-architecture-advanced-insights-best-practices/) | kw: Microservices, Architecture, 2026
+- **2026-06-23** | [Emerging Backend Architectures for 2026: Microservices, Serverless, and Beyond - TensorBlue](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging, Backend, Architectures
+- **2026-06-23** | [Event-Driven Architecture Pattern: Brokers, Schemas, and Idempotent - AppScale](https://appscale.blog/en/blog/microservices-pattern-event-driven-architecture-2026) | kw: Event-Driven, Architecture, Pattern
+- **2026-06-23** | [The Future of Microservices in 2026 - SVV Global](https://svvglobal.com/blog/future-of-microservices-2026) | kw: Future, Microservices, 2026
+- **2026-06-23** | [Microservices Architecture and Distributed Systems - Zuniweb](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices/) | kw: Microservices, Architecture, Distributed
+- **2026-06-23** | [Event-Driven APIs in Microservice Architectures - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/event-driven-apis-in-microservice-architectures/) | kw: Event-Driven, APIs, Microservice
+- **2026-06-23** | [Event-Driven Microservices Communication Patterns in 2026 - HostMyCode](https://www.hostmycode.com/blog/event-driven-microservices-communication-patterns-2026-message-brokers-event-stores-saga-orchestration-resilient-distributed-systems) | kw: Event-Driven, Microservices, Communication
+- **2026-06-23** | [Reactive and Event-Driven Systems: The Future of Java Architecture in 2026 - Medium](https://medium.com/@vimukthiwakwella/reactive-event-driven-systems-the-future-of-java-architecture-in-2026-3e4d175af298) | kw: Reactive, Event-Driven, Systems
+- **2026-06-23** | [A Guide to Modern Microservices [2026 Edition] - DesignGurus](https://designgurus.substack.com/p/a-guide-to-modern-microservices-2026) | kw: Guide, Modern, Microservices
+
 - **2026-06-23** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System, Design, Guide
 - **2026-06-23** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: Microservices, Design, Patterns:
 - **2026-06-23** | [36 Microservices Patterns & Anti-Patterns: The Definitive Reference (2026)](https://appscale.blog/en/blog/microservices-patterns-anti-patterns-master-index-2026) | kw: Microservices, Patterns, Anti-Patterns:

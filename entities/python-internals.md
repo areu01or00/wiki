@@ -1,6 +1,22 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python, programming, language
+- **2026-06-23** | [Welcome to Python.org](https://www.python.org/) | kw: Welcome, Python.org
+- **2026-06-23** | [Learn Python - Codecademy](https://www.codecademy.com/learn/learn-python) | kw: Learn, Python, Codecademy
+- **2026-06-23** | [Online Python Compiler - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: Online, Python, Compiler
+- **2026-06-23** | [What is Python - YouTube](https://www.youtube.com/watch?v=Y8Tko2YC5hA) | kw: What, Python, YouTube
+- **2026-06-23** | [Download Python - Python.org](https://www.python.org/downloads/) | kw: Download, Python, Python.org
+- **2026-06-23** | [Python 3.14 Free-Threading and Experimental JIT: How Python Finally Got True Parallelism](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Python, 3.14, Free-Threading
+- **2026-06-23** | [Python 3.14 Free-Threading: Real Benchmarks, Real Breakage, Real Code](https://www.danilchenko.dev/posts/python-314-free-threading/) | kw: Python, 3.14, Free-Threading
+- **2026-06-23** | [Killing the GIL: How To Use Python 3.14's Free-Threading Upgrade](https://www.neelsomaniblog.com/p/killing-the-gil-how-to-use-python) | kw: Killing, Python, 3.14's
+- **2026-06-23** | [Python support for free threading - Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: Python, support, free
+- **2026-06-23** | [Master Python 3.14 GIL-Free Multithreading in 20 Minutes](https://markaicode.com/python-314-gil-free-multithreading/) | kw: Master, Python, 3.14
+- **2026-06-23** | [Python 3.14 Just Removed the GIL - What It Means for Data Scientists](https://medium.com/@umare.ankit/python-3-14-just-removed-the-gil-heres-what-it-means-for-data-scientists-ef86e86eb801) | kw: Python, 3.14, Just
+- **2026-06-23** | [ksramalakshmi/GIL-Testing-with-Python3.13-and-Python3.14 - GitHub](https://github.com/ksramalakshmi/GIL-Testing-with-Python3.13-and-Python3.14) | kw: ksramalakshmi/GIL-Testing-with-Python3.13-and-Python3.14, GitHub
+- **2026-06-23** | [Python 3.14 Free-Threading True Parallelism Without the GIL - dev.to](https://dev.to/edgar_montano/python-314-free-threading-true-parallelism-without-the-gil-a12) | kw: Python, 3.14, Free-Threading
+- **2026-06-23** | [Python 3.14: Free-Threading, GIL Removal, and Performance Boosts - WebProNews](https://www.webpronews.com/python-3-14-free-threading-gil-removal-and-performance-boosts/) | kw: Python, 3.14, Free-Threading
+
 - **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread, Python
 - **2026-06-23** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Python's
 - **2026-06-23** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: Python, Performance, Killers
