@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Top 10 Frontend System Design Patterns Every... | Frontend Junction](https://www.frontend-junction.com/blog/frontend-system-design-patterns-2026) | kw: frontend | source: system-design
+
 - **2026-06-23** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Editi | source: system-design
 - **2026-06-23** | [Architectural Patterns of Resilient Distributed Systems... - YouTube](https://www.youtube.com/watch?v=ohvPnJYUW1E) | kw: Architectural Patterns of Resilient Dist | source: system-design
 - **2026-06-23** | [Multi-Agent Orchestration Patterns: Building Production Systems in...](https://www.frankx.ai/blog/multi-agent-orchestration-patterns-2026) | kw: Multi-Agent Orchestration Patterns: Buil | source: system-design

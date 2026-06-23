@@ -242,7 +242,6 @@
       "Round"
     ],
     "last_result_hashes": [
-      "fc3f37c3909c30ad9409934ae0e3a1fe",
       "d8c983baf1bd482341b1e7bbedd2c308",
       "f2addf62d7110b5f499b0edc3a839a1e",
       "9ef09709545d432e2dc99e2cf360fbe8",
@@ -261,9 +260,10 @@
       "f808d13c3fbb1d0b9dcfa821011972b9",
       "4a56725d00a5266e60eb7c8c10875689",
       "296232a484ebb0a2303e19fa650f6b06",
-      "b56e0edb389c739d7329722ad5abe910"
+      "b56e0edb389c739d7329722ad5abe910",
+      "016b05b8261ef6dbe6f748223becf886"
     ],
-    "last_run": "2026-06-23T01:49:30.744964+00:00",
+    "last_run": "2026-06-23T02:02:54.056822+00:00",
     "new_sub_topics_this_run": [
       "Edition",
       "Uchit",
@@ -276,7 +276,7 @@
       "with",
       "technology"
     ],
-    "last_new_count": 4
+    "last_new_count": 1
   },
   "compilers": {
     "query": "compilers LLVM JIT compilation 2026",
@@ -594,7 +594,7 @@
       "e6f272a345a33b4f08c0bc6202f5d9ec",
       "499429756484d406d004fb7272c7afde"
     ],
-    "last_run": "2026-06-23T01:49:30.744964+00:00",
+    "last_run": "2026-06-23T02:02:54.056822+00:00",
     "new_sub_topics_this_run": [
       "construction",
       "Inlining",
@@ -603,7 +603,7 @@
       "Browse",
       "llvmorg-22"
     ],
-    "last_new_count": 6
+    "last_new_count": 0
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -889,12 +889,12 @@
       "1c4c4fc32e2d3132984497095e4c0ed7",
       "5f39c42f12e244ca6098106e2776e776"
     ],
-    "last_run": "2026-06-23T01:49:30.744964+00:00",
+    "last_run": "2026-06-23T02:02:54.056822+00:00",
     "new_sub_topics_this_run": [
       "Comparison",
       "Wikantik"
     ],
-    "last_new_count": 4
+    "last_new_count": 0
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -1213,9 +1213,9 @@
       "ab1a401478bf91151df62818473f5ef5",
       "64aca92fc9c20cf9f7deb2b07fc983b9"
     ],
-    "last_run": "2026-06-23T01:49:30.744964+00:00",
+    "last_run": "2026-06-23T02:02:54.056822+00:00",
     "new_sub_topics_this_run": [],
-    "last_new_count": 2
+    "last_new_count": 0
   },
   "algorithms": {
     "query": "algorithms data structures LeetCode interview 2026",
@@ -1485,7 +1485,7 @@
       "f12e7caf8fee601a98b6189bea0de1d3",
       "b8ea900b3f0bf673c4e45caddd9508ee"
     ],
-    "last_run": "2026-06-23T01:49:30.744964+00:00",
+    "last_run": "2026-06-23T02:02:54.056822+00:00",
     "new_sub_topics_this_run": [
       "Comprehensive",
       "List",
@@ -1497,7 +1497,7 @@
       "CodingKaro",
       "Link"
     ],
-    "last_new_count": 6
+    "last_new_count": 0
   },
   "python-internals": {
     "query": "Python internals GIL memory management 2026",
@@ -1772,10 +1772,10 @@
       "cd0295f87f954e50eb4967eb128dc930",
       "4176172665da7fb7397b1f3ff0ada769"
     ],
-    "last_run": "2026-06-23T01:49:30.744964+00:00",
+    "last_run": "2026-06-23T02:02:54.056822+00:00",
     "new_sub_topics_this_run": [
       "Changing"
     ],
-    "last_new_count": 2
+    "last_new_count": 0
   }
 }
