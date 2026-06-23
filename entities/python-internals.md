@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python 3.15's JIT is now back on track](https://blog.python.org/2026/03/jit-on-track/) | kw: python
+- **2026-06-23** | [JIT Planning for 3.15 and 3.16 #139038 - python/cpython - GitHub](https://github.com/python/cpython/issues/139038) | kw: CPython
+- **2026-06-23** | [Python 3.15 Hits Feature Freeze and Other News for June 2026](https://realpython.com/python-news-june-2026/) | kw: python
+- **2026-06-23** | [Feature freeze for Python 3.15 as first beta released - The Register](https://www.theregister.com/devops/2026/05/11/feature-freeze-for-python-315-as-first-beta-released/5237934) | kw: python
+- **2026-06-23** | [Python Weekly (Issue 737 March 19 2026)](https://www.pythonweekly.com/p/python-weekly-issue-737-march-19-2026) | kw: python
+
 - **2026-06-23** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python (programming language)
 
 - **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6](https://docs.python.org/3/c-api/threads.html) | kw: Python Internals

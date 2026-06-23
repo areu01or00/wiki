@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Download LLVM releases](https://releases.llvm.org/) | kw: LLVM
+- **2026-06-23** | [Release Notes - llvmlite - Read the Docs](https://llvmlite.readthedocs.io/en/latest/release-notes.html) | kw: LLVM
+
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Compilers
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: Compilers
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: Compilers

@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [POPL 2026 - POPL Research Papers](https://popl26.sigplan.org/track/POPL-2026-popl-research-papers) | kw: Research
+- **2026-06-23** | [GradInf: Gradient Estimation as Probabilistic Inference (PLDI 2026)](https://pldi26.sigplan.org/details/pldi-2026-papers/78/GradInf-Gradient-Estimation-as-Probabilistic-Inference) | kw: inference
+- **2026-06-23** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/full/10.1145/3632931) | kw: Typing
+- **2026-06-23** | [PLDI 2026 - PLDI Research Papers](https://pldi26.sigplan.org/track/pldi-2026-papers) | kw: Papers
+- **2026-06-23** | [Jenna DiVincenzo (Wise) - PLDI 2026](https://pldi26.sigplan.org/profile/jennadivincenzowise) | kw: Jenna
+
 - **2026-06-23** | [Comparison of programming languages by type system - grokipedia](https://grokipedia.com/page/Comparison_of_programming_languages_by_type_system) | kw: Comparison of programming languages by type system
 
 - **2026-06-23** | [Comparison of programming languages by type system - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_by_type_system) | kw: Type Systems

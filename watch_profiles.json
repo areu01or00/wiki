@@ -79,6 +79,11 @@
         "Guide)"
       ],
       "last_result_hashes": [
+        "5d936240d08729ba1773f5ef7eb31387",
+        "2e7fbd2776e01b57cce65bf95c873d01",
+        "b2def24a344cb2beba0f6cc61407462b",
+        "19c77f07b0d064b70d71b13d2d3fdc0b",
+        "ad2aec58bb8e7d21b2aff0d0c24905cd",
         "64e900ff8986f325e4783fe3286a829d",
         "193aef9c78464c2e148b46fbdd9ccf84",
         "99b0b3d99e823c0d5f03e6f80825dc46",
@@ -93,16 +98,11 @@
         "1885661cefe9c39654b0f1458625c8e0",
         "81d67ddb663aef70ef224a4fda76aa2e",
         "e95733ff4ee1aa87d9d5b40359bba469",
-        "a4f767c8d886ec8f2fab1999efc97283",
-        "bb2281be641c13c087b3bfd94faf2e29",
-        "5e40d84c27922d7191778e20c118b6e9",
-        "9b43446643af145b9f1d7629a19c8ad8",
-        "5dff35197dd714f0725776136f983c36",
-        "9d7e8d5d3321a7732895019684ae71c7"
+        "a4f767c8d886ec8f2fab1999efc97283"
       ],
-      "last_run": "2026-06-23T11:49:19Z",
+      "last_run": "2026-06-23T12:34:58Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_new_count": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -186,6 +186,8 @@
         "Open"
       ],
       "last_result_hashes": [
+        "34ac97f14b0397510088de105ea9eca1",
+        "9baf14a8b90ba87030a2c9d4f50335e0",
         "d04fc9c435afca9e2653797c770e5cda",
         "e782e5cfec0aac8483730db128ffda54",
         "695ab476c7cbd24b6ef64b844713108e",
@@ -203,13 +205,11 @@
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
         "ac224ecee6fc1b4cc9ba1f13c5b1a941",
         "f1925c0af6e39aa520ffa6a282ede525",
-        "ca9ade675eecf6183c340d40af57c779",
-        "385ab034e49daebe86f6093cf910e217",
-        "548d6968ed16a7377c026cbcb26058ae"
+        "ca9ade675eecf6183c340d40af57c779"
       ],
-      "last_run": "2026-06-23T11:49:19Z",
+      "last_run": "2026-06-23T12:34:58Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_new_count": 2
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -286,9 +286,17 @@
         "StaDyn",
         "Argument",
         "Strong",
-        "Refined"
+        "Refined",
+        "Research",
+        "Papers",
+        "Jenna"
       ],
       "last_result_hashes": [
+        "0efaf73321e0649286afb9a53577b2d2",
+        "c9ed3484b8c8d948a782b882a387e1d3",
+        "0dc34ee524de9926640b14cae6ad1538",
+        "aebe17370c7ae72a8e26003e788b3755",
+        "7309dcb1e9079c9efd09cdc28de44fa8",
         "bb35cf350d535227a5dd44c85cfc20c6",
         "ea9dfbd7a7ddacc0bee501e96423940f",
         "281dcc412b25b8e56702cc648bcf9932",
@@ -303,16 +311,15 @@
         "a4c08d43ed393ce21818a3540e88b5c6",
         "2cd485fc39d4dae1aedf94ae16544ff3",
         "4e07b56a74b7552652f00b473098fabe",
-        "6dabe915182fc526a1dfd7ff55f432b7",
-        "9673a67effe067c834afaa6b68ef4498",
-        "c29013cf56d956a232e0579de7f6f3d0",
-        "2ed44dfa5fea9dc2e7813a65b4bcc096",
-        "6b98cc62c974281a048a79fbfc331676",
-        "aa67bd69bcc0c27b73452692426f7121"
+        "6dabe915182fc526a1dfd7ff55f432b7"
       ],
-      "last_run": "2026-06-23T12:04:21Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_run": "2026-06-23T12:34:58Z",
+      "new_sub_topics_this_run": [
+        "Research",
+        "Papers",
+        "Jenna"
+      ],
+      "last_new_count": 5
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -393,6 +400,9 @@
         "Serokell"
       ],
       "last_result_hashes": [
+        "d466cc6d369e7ccaa43f109355b1ba72",
+        "46f627c329d29c15b5e9ec5e161c3831",
+        "7e2d5cfb5ac8dd761867fb9d102f3175",
         "d2a5ab12820b7837480a2d596683e677",
         "e2809728031a0a794b40bbdaef5a85f9",
         "cc9f3837164b6e0e6edde576a14a1c3f",
@@ -409,12 +419,9 @@
         "946e27b3d01111a3261489bf97722fd5",
         "efccf5a0861a758594187b56a5108b2d",
         "429c726f845d82832d64c89879a0f069",
-        "bef7f26ae21c2bd2ce12ad559b0f81ae",
-        "27026eb1e4dc09225594b6bcf82bb668",
-        "cefbc35153ecfe526159c290d34ecc1e",
-        "2153a59d98e233410d877bdbdd11fa54"
+        "bef7f26ae21c2bd2ce12ad559b0f81ae"
       ],
-      "last_run": "2026-06-23T12:04:21Z",
+      "last_run": "2026-06-23T12:34:58Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 3
     },
@@ -503,6 +510,9 @@
         "Tutorial"
       ],
       "last_result_hashes": [
+        "867c193f14d86dba8e19be9953c4f21a",
+        "9c49a3775e4b32e1c8d67ab8e843da10",
+        "1dc1aa6c7c1d9e40b707bca68d233524",
         "5e88f6c01a27285ecd0ce1dd293a399e",
         "f4b8aef5320aac85198e3b53726eebef",
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
@@ -519,14 +529,11 @@
         "51bdec45c83dc444c8040f8f04671877",
         "5667aa881859c7f8188c73ee6bf0ceb2",
         "efaca53a4fb3332a168f55b43aac804a",
-        "365570d3d2e5c9c4f03cec946287df02",
-        "8b3a80ae022167a98409b08c2dfb8694",
-        "ba50c33659023000a05b15557c124e4f",
-        "2b6773843051b806fc648da0662c0c3a"
+        "365570d3d2e5c9c4f03cec946287df02"
       ],
-      "last_run": "2026-06-23T12:04:21Z",
+      "last_run": "2026-06-23T12:34:58Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_new_count": 3
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -617,6 +624,11 @@
         "Faster"
       ],
       "last_result_hashes": [
+        "89d31b37282221f124aec8c1b05ed124",
+        "2247986a0bf910b3a58942fc9fb6aaff",
+        "7a9bc09fc4a36d6cf7e1c5963bd26c17",
+        "bdfd019863244de8ef90b815ca9e01ca",
+        "9ba8dc236f2c3769ffd2c96c4f0a1305",
         "23f806669425cddfbb81ceb3202ed519",
         "6287e8dc37ecb68d7af1bc0e4b769a4f",
         "80cb1ee80342b3950bba93fd2801d04f",
@@ -631,16 +643,11 @@
         "186472734b3375b680871e13a0117ace",
         "468742a4701a77f0ca48325d95a4f4a9",
         "d965c4ac6e189c5e3ef5fefcd20c9dff",
-        "b1ee147f4d765a2e836d0e6ebb25e4a0",
-        "b2fbe6454e7c9d604f2d7586a436e138",
-        "8af847a56401e860ececcf0149182b62",
-        "c4780ca847aa94e2c7dd701eb427d153",
-        "d312cb77ade078c8f1e9dac2e24a756b",
-        "bc46e2bcc23714c5243a5210b1d2f5ae"
+        "b1ee147f4d765a2e836d0e6ebb25e4a0"
       ],
-      "last_run": "2026-06-23T12:04:21Z",
+      "last_run": "2026-06-23T12:34:58Z",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_new_count": 5
     }
   }
 }

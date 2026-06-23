@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: interviews
+- **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: LeetCode
+- **2026-06-23** | [LeetCode Isn't Dead in 2026 - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode
+
 - **2026-06-23** | [What is an Algorithm | Introduction to Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What is an Algorithm / Introduction to Algorithms
 
 - **2026-06-23** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Algorithms

@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [GHC 9.12.4 is now available — The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog/20260327-ghc-9.12.4-released.html) | kw: Haskell
+- **2026-06-23** | [GHC 9.12.4-rc1 is now available - Haskell Discourse](https://discourse.haskell.org/t/ghc-9-12-4-rc1-is-now-available/13786) | kw: Discourse
+- **2026-06-23** | [GHC Developer Blog - The Glasgow Haskell Compiler](https://www.haskell.org/ghc/blog.html) | kw: Haskell
+
 - **2026-06-23** | [Haskell - Wikipedia](https://en.m.wikipedia.org/wiki/Haskell) | kw: Haskell
 - **2026-06-23** | [Haskell features - Wikipedia](https://en.m.wikipedia.org/wiki/Haskell_features) | kw: Haskell features
 - **2026-06-23** | [Downloads - Haskell](https://www.haskell.org/downloads/) | kw: Downloads

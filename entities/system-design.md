@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [CONVEX 2026 — Three conferences, one experience · Madrid, 17 ...](https://www.convexsummit.com/) | kw: Conference
+- **2026-06-23** | [System Design & Software Architecture - DevOpsCon](https://devopscon.io/microservices-software-architecture) | kw: Dev
+- **2026-06-23** | [Systems & Reliability 2026 | At Scale Conferences](https://atscaleconference.com/events/systems-reliability-2026/) | kw: Conference
+- **2026-06-23** | [Software architecture conferences 2026 / 2027 - dev.events](https://dev.events/architecture) | kw: Dev
+- **2026-06-23** | [QCon San Francisco 2026: Senior Software Engineering Conference](https://qconsf.com/) | kw: Conference
+
 - **2026-06-23** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: System Design
 - **2026-06-23** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: System Design
 - **2026-06-23** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: System Design
