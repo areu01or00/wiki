@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python 3.14 Free-Threaded (No-GIL) and Frappe](https://discuss.frappe.io/t/python-3-14-free-threaded-no-gil-and-frappe-has-anyone-tried-this/158703) | kw: Python 3.14 Free-Threaded (No-GIL) and Frappe | src: discuss.frappe.io
+- **2026-06-23** | [Python releases version 3.14 - The Register](https://www.theregister.com/software/2025/10/08/python-314-released-with-cautious-free-threaded-support/349336) | kw: Python releases version 3.14 - The | src: theregister.com
+
 - **2026-06-23** | [cpython/Doc at main · python/cpython · GitHub](https://github.com/python/cpython/tree/main/Doc/) | kw: cpython/Doc at main · python/cpython · GitHub
 
 - **2026-06-23** | [Scaling asyncio on Free-Threaded Python - Quansight Labs](https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python) | kw: Scaling asyncio on Free-Threaded Python

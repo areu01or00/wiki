@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [In 2026, are the interview process and preparation needed - Reddit](https://www.reddit.com/r/leetcode/comments/1si9z5u/in_2026_are_the_interview_process_and_preparation/) | kw: In 2026, are the interview process | src: reddit.com
+- **2026-06-23** | [Step-by-Step Guide for FAANG Interviews in 2026 (Part 2 of 10)](https://medium.com/@emilyhustlenyc/step-by-step-guide-for-faang-interviews-in-2026-part-2of-10-the-master-roadmap-439e8509bb6b) | kw: Step-by-Step Guide for FAANG Interviews in | src: medium.com
+- **2026-06-23** | [How I Would Prepare for a FAANG Interview in 2026 - designgurus](https://designgurus.substack.com/p/how-i-would-prepare-for-a-faang-interview) | kw: How I Would Prepare for a | src: designgurus.substack.com
+- **2026-06-23** | [Beyond 14 LeetCode Patterns: Advanced Patterns to Crack FAANG Interviews](https://medium.com/@fahimulhaq/beyond-14-leetcode-patterns-advanced-patterns-to-crack-faang-interviews-4efcaaf5f15c) | kw: Beyond 14 LeetCode Patterns: Advanced Patterns | src: medium.com
+- **2026-06-23** | [Cracking LeetCode and FAANG Interviews with New Strategies - LinkedIn](https://www.linkedin.com/posts/eugenematsyuk_leetcode-codinginterview-faang-activity-7414372721792598017-1mXa) | kw: Cracking LeetCode and FAANG Interviews with | src: linkedin.com
+
 - **2026-06-23** | [Leetcode All Problems with Python/Java/C++ solutions](https://leetcode.ca/all/problems.html) | kw: Leetcode All Problems with Python/Java/C++ solutions
 
 - **2026-06-23** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: leetcode - world's
