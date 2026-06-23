@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Data Structures & Algorithms: The Complete Journey](https://www.udemy.com/course/data-structures-algorithms-the-complete-journey/) | kw: Data Structures & Algorithms
+
 - **2026-06-23** | [How to Take Notes for Data Structures and Algorithm - TikTok](https://www.tiktok.com/discover/how-to-take-notes-for-data-structures-and-algorithm) | kw: take
 
 - **2026-06-23** | [Peoplestrong Interview Questions & Experiences 2026 - CodingKaro](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/PeopleStrong) | kw: peoplestrong
