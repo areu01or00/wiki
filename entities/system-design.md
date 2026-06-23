@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System Design Patterns
+- **2026-06-23** | [The 2026 System Design Interview Cheat Sheet: Every Core Concept on One Page](https://designgurus.substack.com/p/the-2026-system-design-interview) | kw: The 2026 System Design Interview Cheat S
+- **2026-06-23** | [System Design Interview: The Complete 2026 Prep Guide](https://prachub.com/resources/system-design-interview-the-complete-2026-prep-guide) | kw: System Design Interview
+- **2026-06-23** | [System Design Interview Guide 2026: Frameworks, Patterns, and What Top Companies Look For](https://careerlift.ai/blog/system-design-interview-guide-2026) | kw: System Design Interview Guide 2026
+- **2026-06-23** | [Ultimate System Design Interview Guide for 2026 - Medium](https://medium.com/@fahimulhaq/ultimate-system-design-interview-guide-for-2025-c5dfa0ca6557) | kw: Ultimate System Design Interview Guide f
+- **2026-06-23** | [System Design Trends 2026: FAANG Interview Expectations](https://thita.ai/blog/system-design/system-design-trends-2026) | kw: System Design Trends 2026
+- **2026-06-23** | [50 System Design Patterns Every Engineer Should Know - 2026 Guide](https://stackinterview.dev/guides/50-system-design-patterns-2026) | kw: 50 System Design Patterns Every Engineer
+- **2026-06-23** | [System Design Interview Patterns: 10 Classic Problems Solved (2026)](https://tutorialq.com/interviews/sd-deep-dives/system-design-interview-patterns) | kw: System Design Interview Patterns
+- **2026-06-23** | [The Complete System Design Interview Guide (2026 Edition)](https://www.systemdesignhandbook.com/guides/system-design-interview/) | kw: The Complete System Design Interview Gui
+- **2026-06-23** | [System Design Interview Guide 2026 | Types & Preparation Tips](https://www.codinginterview.com/guide/system-design-interview/) | kw: System Design Interview Guide 2026 | Typ
+
 - **2026-06-23** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer
 - **2026-06-23** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern Software Architecture Patterns Th
 - **2026-06-23** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: A Guide to Large-Scale Distributed Syste

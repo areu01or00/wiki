@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [TypeScript: JavaScript With Syntax For Types](https://www.typescriptlang.org/) | kw: TypeScript
+- **2026-06-23** | [The starting point for learning TypeScript](https://www.typescriptlang.org/docs/) | kw: The starting point for learning TypeScri
+- **2026-06-23** | [GitHub - microsoft/TypeScript](https://github.com/microsoft/TypeScript) | kw: GitHub
+- **2026-06-23** | [Documentation - TypeScript 6.0](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-6-0.html) | kw: Documentation
+- **2026-06-23** | [Announcing TypeScript 6.0 - Microsoft Developer Blogs](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/) | kw: Announcing TypeScript 6.0
+- **2026-06-23** | [TypeScript 6.0 Advanced Type Features: What You Need to Know for 2026](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-advanced-type-features-what-you-need-to-know-for-2026-61f) | kw: TypeScript 6.0 Advanced Type Features
+
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth
 
 - **2026-06-23** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual

@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming)
+- **2026-06-23** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: All About Monads
+- **2026-06-23** | [Understanding Monads in Functional Programming: A Comprehensive Guide](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide/) | kw: Understanding Monads in Functional Progr
+- **2026-06-23** | [What Is a Monad? | Baeldung on Computer Science](https://www.baeldung.com/cs/monad) | kw: What Is a Monad? | Baeldung on Computer
+- **2026-06-23** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: What Is a Monad in Functional Programmin
+
 - **2026-06-23** | [Analyzing Functional Programming according to simplicity's dimensions](https://dannyvanheumen.nl/post/engineering-analyzing-fp-according-to-simplicity-dimensions/) | kw: Analyzing Functional Programming according
 - **2026-06-23** | [r/haskell - 2026 State of the Haskell ecosystem - Reddit](https://www.reddit.com/r/haskell/comments/1p9ej9l/2026_state_of_the_haskell_ecosystem/) | kw: r/haskell - 2026 State
 

@@ -1,6 +1,17 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project
+- **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT at Scale with the llvm-autojit Pl
+- **2026-06-23** | [LLVM Compiler Infrastructure - Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM Compiler Infrastructure
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project - LLVM.org](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
+- **2026-06-23** | [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: jank is off to a great start in 2026
+- **2026-06-23** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: Retrofitting JIT Compilers into C Interp
+- **2026-06-23** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: dstogov/ir
+- **2026-06-23** | [2026 EuroLLVM Developers' Meeting - Agenda](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: 2026 EuroLLVM Developers' Meeting
+- **2026-06-23** | [New LLVM JIT Features - Julia Discourse](https://discourse.julialang.org/t/new-llvm-jit-features/22754) | kw: New LLVM JIT Features
+- **2026-06-23** | [Validating JIT Compilers via Compilation Space Exploration](https://dl.acm.org/doi/10.1145/3715102) | kw: Validating JIT Compilers via Compilation
+
 - **2026-06-23** | [Compilers I Stanford Online](https://online.stanford.edu/courses/soe-ycscs1-compilers) | kw: Compilers I Stanford Online
 - **2026-06-23** | [11 Compilers | Computation Structures | Electrical Engineering...](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/) | kw: 11 Compilers | Computation Structures | 
 - **2026-06-23** | [Best Open Source Compilers 2026 - SourceForge](https://sourceforge.net/directory/compilers/) | kw: Best Open Source Compilers 2026 - Source

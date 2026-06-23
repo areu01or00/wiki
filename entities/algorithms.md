@@ -1,6 +1,16 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Complete Beginner Study Plan - NeetCode 250](https://neetcode.io/practice/practice/neetcode250) | kw: Complete Beginner Study Plan
+- **2026-06-23** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode | Coding Interview Prep, Course
+- **2026-06-23** | [Roadmap - NeetCode](https://neetcode.io/roadmap) | kw: Roadmap
+- **2026-06-23** | [NeetCode - YouTube](https://www.youtube.com/c/neetcode) | kw: NeetCode
+- **2026-06-23** | [LeetCode vs. NeetCode: Which one helps more in real interviews?](https://medium.com/@codegrey/leetcode-vs-neetcode-which-one-helps-more-in-real-interviews-7767598db912) | kw: LeetCode vs. NeetCode
+- **2026-06-23** | [The ONLY DSA Roadmap You Need to Land a $200K+ Job (Python)](https://www.youtube.com/watch?v=lQ3VwdWnGuo) | kw: The ONLY DSA Roadmap You Need to Land a
+- **2026-06-23** | [Core Skills - Algorithm & Data Structure Practice - NeetCode](https://neetcode.io/practice) | kw: Core Skills
+- **2026-06-23** | [NeetCode 150 vs Blind 75: Which List Prepares You? (2026)](https://www.codeintuition.io/blogs/neetcode-150-vs-blind-75) | kw: NeetCode 150 vs Blind 75
+- **2026-06-23** | [LeetCode Patterns Over Memorization | Harshit Trehan](https://www.linkedin.com/posts/harshit-trehan_leetcode-dsa-codinginterviews-activity-7408861778295840768-AUNr) | kw: LeetCode Patterns Over Memorization | Ha
+
 - **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: Amazon | SDE2 | Feb 2026 [Selected] - Di
 - **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetC
 

@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [[Feature] Free-Threaded Python (3.14t / nogil) Support for SGLang](https://github.com/sgl-project/sglang/issues/22889) | kw: [Feature] Free-Threaded Python (3.14t /
+- **2026-06-23** | [Python Killed the GIL. Go Still Wins. | Medium](https://medium.com/towardsdev/python-killed-the-gil-go-still-wins-14735a67b5e0) | kw: Python Killed the GIL. Go Still Wins. |
+- **2026-06-23** | [Free-Threaded Python Is Production-Ready in 2026 - BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: Free-Threaded Python Is Production-Ready
+- **2026-06-23** | [r/django: With Python 3.14 free-threading support coming up](https://www.reddit.com/r/django/comments/1lnekfg/with_python_314_freethreading_support_coming_up/) | kw: r/django
+- **2026-06-23** | [Python 3.14 and the End of the GIL - Towards Data Science](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) | kw: Python 3.14 and the End of the GIL
+- **2026-06-23** | [Python 3.14 Free-threading: True Parallelism without GIL - LinkedIn](https://www.linkedin.com/pulse/python-314-free-threading-true-parallelism-without-gil-dayal-b5tic) | kw: Python 3.14 Free-threading
+- **2026-06-23** | [I Benchmarked Python 3.14's Free-Threading on 5 Real Tasks](https://python.plainenglish.io/i-benchmarked-python-3-14s-free-threading-on-5-real-tasks-here-s-what-actually-happened-d7088b7e4fed) | kw: I Benchmarked Python 3.14's Free-Threadi
+- **2026-06-23** | [What's new in Python 3.14 - Python documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: What's new in Python 3.14
+- **2026-06-23** | [Python 3.14 - Astral](https://astral.sh/blog/python-3.14) | kw: Python 3.14
+- **2026-06-23** | [Python 3.14 Is Here. How Fast Is It? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) | kw: Python 3.14 Is Here. How Fast Is It?
+
 - **2026-06-23** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and whe
 
 - **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python
