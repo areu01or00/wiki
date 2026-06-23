@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python global interpreter
+- **2026-06-23** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: global interpreter lock
+- **2026-06-23** | [The Future of Python Internals: Exploring GIL Removal and Other ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: future python internals
+- **2026-06-23** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python gil controversy
+- **2026-06-23** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: python memory management
+
 - **2026-06-23** | [How Python's GIL actually works (and when it bites you) - dev.to](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites you)
 - **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock — Python 3.14.
 - **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye GIL: Exploring free-threaded mode in Python 3.14

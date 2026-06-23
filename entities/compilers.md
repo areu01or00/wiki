@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Compiler - Wikipedia](https://en.wikipedia.org/wiki/Compiler) | kw: compiler
+- **2026-06-23** | [List of compilers - Wikipedia](https://en.wikipedia.org/wiki/List_of_compilers) | kw: list compilers
+- **2026-06-23** | [Introduction To Compilers - GeeksforGeeks](https://www.geeksforgeeks.org/compiler-design/introduction-to-compilers/) | kw: compilers
+- **2026-06-23** | [8 Best Compilers in 2026 (Tested) - BestValued](https://bestvalued.com/best-compilers) | kw: compilers tested
+
 - **2026-06-23** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM Compiler Infrastructure
 - **2026-06-23** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: jank is off to a great start in 2026
 - **2026-06-23** | [2026 EuroLLVM Developers' Meeting - Agenda - Announcements](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: 2026 EuroLLVM Developers' Meeting

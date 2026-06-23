@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: pure borrow linear
+
 - **2026-06-23** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026
 - **2026-06-23** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026 : r/functionalprogramming
 - **2026-06-23** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional Programmers need to take a look at Zig
