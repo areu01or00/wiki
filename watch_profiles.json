@@ -239,9 +239,20 @@
       "From",
       "reactive-microservices-architecture",
       "Guide",
-      "Round"
+      "Round",
+      "How",
+      "Pitfalls"
     ],
     "last_result_hashes": [
+      "2d3339fbcb04e9f626d884e03958e8d3",
+      "3d924683b109e99c93d7ba785e0c7ab0",
+      "25a06ccbe831fcae1efa398fc18b067e",
+      "1885661cefe9c39654b0f1458625c8e0",
+      "64e900ff8986f325e4783fe3286a829d",
+      "a4f767c8d886ec8f2fab1999efc97283",
+      "401ac43fcb266731bf806fa34acbf462",
+      "608fa7d1ab9e25ccee240ab0bd6ba8f5",
+      "10ee30a2694a972513965e5bdfbe0d98",
       "d8c983baf1bd482341b1e7bbedd2c308",
       "f2addf62d7110b5f499b0edc3a839a1e",
       "9ef09709545d432e2dc99e2cf360fbe8",
@@ -252,31 +263,14 @@
       "34606ca8c020e5189c7336dcee28588b",
       "bd9c53776405cab613029a2242f038c3",
       "bb2281be641c13c087b3bfd94faf2e29",
-      "5e40d84c27922d7191778e20c118b6e9",
-      "ad4481a7dbbc4df9fc46950e17d1fbb1",
-      "c4d93df3bbece803150c9e5bd1d0b085",
-      "b423b328489be6600827d14ac98bb359",
-      "34a7661625980b806863c89ac2b7a075",
-      "f808d13c3fbb1d0b9dcfa821011972b9",
-      "4a56725d00a5266e60eb7c8c10875689",
-      "296232a484ebb0a2303e19fa650f6b06",
-      "b56e0edb389c739d7329722ad5abe910",
-      "016b05b8261ef6dbe6f748223becf886"
+      "5e40d84c27922d7191778e20c118b6e9"
     ],
-    "last_run": "2026-06-23T02:02:54.056822+00:00",
+    "last_run": "2026-06-23T02:20:02.521779+00:00",
     "new_sub_topics_this_run": [
-      "Edition",
-      "Uchit",
-      "Architectural",
-      "Resilient",
-      "Multi-Agent",
-      "Orchestration",
-      "application",
-      "type",
-      "with",
-      "technology"
+      "How",
+      "Pitfalls"
     ],
-    "last_new_count": 1
+    "last_new_count": 9
   },
   "compilers": {
     "query": "compilers LLVM JIT compilation 2026",
@@ -570,9 +564,22 @@
       "Explained",
       "compilation",
       "Prototype",
-      "wdv4758h/awesome-jit"
+      "wdv4758h/awesome-jit",
+      "Look",
+      "For",
+      "SPEC",
+      "Use",
+      "CERN"
     ],
     "last_result_hashes": [
+      "90e98ebde0077779dd62fb0d85b51cf0",
+      "3b27dadc9195fe4e7ff3648bdee6c6ea",
+      "bbb446f219d0926dc00975255367705e",
+      "5cefefefe6afc297697ed1187181b6a1",
+      "044f00f22ade99878d29e43ef426c83d",
+      "af906821b5af28695658baff9661080f",
+      "648083769a978e805bbb401b852069ec",
+      "ec0b892486df6b096e05619b62eaf636",
       "46047667f85453525404b37598767ca8",
       "7d0b717005814217330e578b0fbdc8fb",
       "32f4188675ea6aa9b99de9314a538fa1",
@@ -584,26 +591,17 @@
       "48b2f92fc5464284121d41c75593b6eb",
       "8244346987304076c54b685fc98a31c8",
       "e782e5cfec0aac8483730db128ffda54",
-      "ac9f7c54df4521ad492be79a4116a983",
-      "5f27f4f0ec7b40b86be3b5add92cedfa",
-      "56495f55561a46e30f94da251cb0ef30",
-      "ed2679682e5936c55e5f1974218bcb32",
-      "0e5b105be67d2d11f3664ebcd5f1fad1",
-      "f7db75ba7c9bc236c2b5986b7e912205",
-      "e49354b2365e0a11c53dc08c6f4a866c",
-      "e6f272a345a33b4f08c0bc6202f5d9ec",
-      "499429756484d406d004fb7272c7afde"
+      "ac9f7c54df4521ad492be79a4116a983"
     ],
-    "last_run": "2026-06-23T02:02:54.056822+00:00",
+    "last_run": "2026-06-23T02:20:02.521779+00:00",
     "new_sub_topics_this_run": [
-      "construction",
-      "Inlining",
-      "hardware",
-      "Introducing",
-      "Browse",
-      "llvmorg-22"
+      "Look",
+      "For",
+      "SPEC",
+      "Use",
+      "CERN"
     ],
-    "last_new_count": 0
+    "last_new_count": 8
   },
   "type-systems": {
     "query": "type systems gradual typing type inference 2026",
@@ -865,9 +863,19 @@
       "Pydantic",
       "Class",
       "unification-based",
-      "about"
+      "about",
+      "don",
+      "all",
+      "and"
     ],
     "last_result_hashes": [
+      "0e40ec20e1a733a8136667ee5938762f",
+      "6c257d065a3041b16049b05a47e582ff",
+      "3ee155bc89731d74821dbdede14aa8be",
+      "686812076d5de90d1c2ef77d554beb01",
+      "5e384822f4c13a04b9fbf91df62c8d7f",
+      "fdf6069db015157a2297b289620b5a22",
+      "30ac2d43919f96f20a0bb63c41bcff69",
       "37ffd58453521e02c05e593eedaf102e",
       "59a8a21374ae68e5d94fe6780980c29c",
       "157412d23ae7600e6e71f1c5ad39564a",
@@ -880,21 +888,15 @@
       "0d4e59544c796dd6c5041a6241467748",
       "281dcc412b25b8e56702cc648bcf9932",
       "e1eb435797831fb4ee3d68e76936c2bb",
-      "6d77d36d5d5faa4ef4e6858564ce52bc",
-      "6ed1b86f6ee5b47e9861aeebf472ac50",
-      "99a32474f416130e0690fb2b64e5a485",
-      "b3ca4f0a270a9469f3de919d8527d25c",
-      "221d5a63850f853dc3eb69c5ee0b2e1d",
-      "edcc491ecee2a912e7d857d4a478a1c7",
-      "1c4c4fc32e2d3132984497095e4c0ed7",
-      "5f39c42f12e244ca6098106e2776e776"
+      "6d77d36d5d5faa4ef4e6858564ce52bc"
     ],
-    "last_run": "2026-06-23T02:02:54.056822+00:00",
+    "last_run": "2026-06-23T02:20:02.521779+00:00",
     "new_sub_topics_this_run": [
-      "Comparison",
-      "Wikantik"
+      "don",
+      "all",
+      "and"
     ],
-    "last_new_count": 0
+    "last_new_count": 7
   },
   "functional-programming": {
     "query": "functional programming monads haskell rust 2026",
@@ -1189,9 +1191,16 @@
       "monad",
       "monad",
       "monad",
-      "monad"
+      "monad",
+      "You"
     ],
     "last_result_hashes": [
+      "6ac17140976f4e3a7be22d2ec701d1ce",
+      "66ec4c8c63080ff53458990979c1f587",
+      "c2fefc572a2578f6f202a147d877925b",
+      "7ba4a53e21fb8c769be8bcc00153217c",
+      "8b392f40f2d9484600edbc6565709ca7",
+      "2ce5775930209e8a8c3a28a2f7f1a4a5",
       "e2809728031a0a794b40bbdaef5a85f9",
       "c091fe17605fcaf38b42d3e5f73ccacc",
       "bab6dc04368dc487cd403e3a93312b56",
@@ -1205,17 +1214,13 @@
       "64b9213a9db6ffcf3ee048410614e9dc",
       "4c0642f869b24a6dd86c8846e6df9fe9",
       "449f1936d11b3408b5111b8fbfc6e205",
-      "872ab7c6f8602818abfdcaf0ce5dc67c",
-      "9b268bcbbcfea8330dc76f1659e31945",
-      "2304b593353dcf35aa94f92d66b62bc4",
-      "0a825892b16894ee5479d8cdc9ceb413",
-      "6265d0c7ea387b97e9eb7551bfd1a683",
-      "ab1a401478bf91151df62818473f5ef5",
-      "64aca92fc9c20cf9f7deb2b07fc983b9"
+      "872ab7c6f8602818abfdcaf0ce5dc67c"
     ],
-    "last_run": "2026-06-23T02:02:54.056822+00:00",
-    "new_sub_topics_this_run": [],
-    "last_new_count": 0
+    "last_run": "2026-06-23T02:20:02.521779+00:00",
+    "new_sub_topics_this_run": [
+      "You"
+    ],
+    "last_new_count": 6
   },
   "algorithms": {
     "query": "algorithms data structures LeetCode interview 2026",
@@ -1461,9 +1466,27 @@
       "june",
       "Better",
       "structures",
-      "Python"
+      "Python",
+      "But",
+      "Real",
+      "You",
+      "Save",
+      "How",
+      "Grokking",
+      "resource",
+      "Won"
     ],
     "last_result_hashes": [
+      "7827ab24e9d276e3b17d86a148741a99",
+      "fc412592dc0f0af5d7a52d7927131174",
+      "2be1a8fb62c69f0fc13a05eb7fa837b8",
+      "51bdec45c83dc444c8040f8f04671877",
+      "6ad4424d61d8084aeff283da158f5951",
+      "51a4f20f4e2473cd7dd147b68760df23",
+      "efaca53a4fb3332a168f55b43aac804a",
+      "365570d3d2e5c9c4f03cec946287df02",
+      "8b3a80ae022167a98409b08c2dfb8694",
+      "450322be20ba7396983e3f8351c23355",
       "12c592997364029e536d23e16e0392b2",
       "12e48bdb8130d2ea5b4f9fdf8e060f54",
       "285f086b62cf39689efe13b2d90280fd",
@@ -1473,31 +1496,20 @@
       "bfb17fa26411de73f38d9862a7cfe043",
       "473e08c5587f7dfb35c7732796156779",
       "445060ac1b4eff8899484354948cd6cc",
-      "5f4adf67615fb407ddc042c7b73beb3f",
-      "fbf939a698dd0db318241a0990d5d3f4",
-      "e387ed6452770b69368bf6ee50d09991",
-      "0038e1ab6259f1d63b2afd7f675492da",
-      "e4f02c9e9d3c7a150930c7101598eed3",
-      "9db2dd1ef6aa351897802aec83281fe2",
-      "6705f2d48d0252070292176640a51270",
-      "bacd645a89aa8a8de0d02935f127ece3",
-      "5e419cba00514c071301a2072a0c507b",
-      "f12e7caf8fee601a98b6189bea0de1d3",
-      "b8ea900b3f0bf673c4e45caddd9508ee"
+      "5f4adf67615fb407ddc042c7b73beb3f"
     ],
-    "last_run": "2026-06-23T02:02:54.056822+00:00",
+    "last_run": "2026-06-23T02:20:02.521779+00:00",
     "new_sub_topics_this_run": [
-      "Comprehensive",
-      "List",
-      "Frequently",
-      "data-structures",
-      "Course-",
-      "Peoplestrong",
-      "Experiences",
-      "CodingKaro",
-      "Link"
+      "But",
+      "Real",
+      "You",
+      "Save",
+      "How",
+      "Grokking",
+      "resource",
+      "Won"
     ],
-    "last_new_count": 0
+    "last_new_count": 10
   },
   "python-internals": {
     "query": "Python internals GIL memory management 2026",
@@ -1748,9 +1760,31 @@
       "Guide",
       "screen",
       "Explained",
-      "other"
+      "other",
+      "Change",
+      "help",
+      "Tearing",
+      "Veil",
+      "into",
+      "bites",
+      "new",
+      "Off",
+      "Using",
+      "iCert",
+      "Fixes",
+      "Training",
+      "when",
+      "Expert"
     ],
     "last_result_hashes": [
+      "17f40f751da9a1c9558ca7dbf958ae7e",
+      "b2fbe6454e7c9d604f2d7586a436e138",
+      "a1233cdbbbaf5c3624b23b99f9297143",
+      "dbd37a4229fff83fce7f6802c6805f45",
+      "cb9c1629e8e72eadff0b889c8814cfb5",
+      "119ff08981a6650f712f34c5191bf3f0",
+      "85c7fb1d6a354a6b0737f063dce41454",
+      "cc1fe33cb29bb51a7e31fe541b2a5725",
       "496ad69b4501a33d57a1052759bd9026",
       "3977a42e266cba0d9724f6994662a434",
       "b0c6b7ec5e1d01c9879d33f2c94c3c8a",
@@ -1762,20 +1796,25 @@
       "952e4cdd85ea50368b5178492a0c873c",
       "b20df841d0fe5e01dc5d91bc90a3a806",
       "6287e8dc37ecb68d7af1bc0e4b769a4f",
-      "80cb1ee80342b3950bba93fd2801d04f",
-      "16cafc4f2077cbb7dc0260e04af7db34",
-      "2083fdd9d97481f2dbcabf8a6a5287ff",
-      "3283f58e8ba7b1723fa8d22a4c3844fc",
-      "de6364f0830863fd5a9750957cb5118e",
-      "87f9c7731984717e2ade31e7c523eb9b",
-      "d6de7058fcf7e79f71074d94426c32ad",
-      "cd0295f87f954e50eb4967eb128dc930",
-      "4176172665da7fb7397b1f3ff0ada769"
+      "80cb1ee80342b3950bba93fd2801d04f"
     ],
-    "last_run": "2026-06-23T02:02:54.056822+00:00",
+    "last_run": "2026-06-23T02:20:02.521779+00:00",
     "new_sub_topics_this_run": [
-      "Changing"
+      "Change",
+      "help",
+      "Tearing",
+      "Veil",
+      "into",
+      "bites",
+      "new",
+      "Off",
+      "Using",
+      "iCert",
+      "Fixes",
+      "Training",
+      "when",
+      "Expert"
     ],
-    "last_new_count": 0
+    "last_new_count": 8
   }
 }

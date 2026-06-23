@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 2026
+- **2026-06-23** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns
+- **2026-06-23** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed Systems Patterns 2026 | pdpspectra
+- **2026-06-23** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems | Architecture Patterns · GitScrum Docs
+- **2026-06-23** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices Architecture Patterns in 2026: Mastering Distributed Systems Desig
+- **2026-06-23** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System Design in 2026 - DEV Community
+- **2026-06-23** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed Systems Patterns Every Backend Engineer Must Know in 2026
+- **2026-06-23** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: Architecture Styles in Distributed Systems - GeeksforGeeks
+- **2026-06-23** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls
+
 - **2026-06-23** | [Top 10 Frontend System Design Patterns Every... | Frontend Junction](https://www.frontend-junction.com/blog/frontend-system-design-patterns-2026) | kw: frontend | source: system-design
 
 - **2026-06-23** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Editi | source: system-design

@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)
+- **2026-06-23** | [Best coding interview prep resource in 2026 (Grokking vs LeetCode)](https://www.reddit.com/r/leetcode/comments/1qft3d3/best_coding_interview_prep_resource_in_2026/) | kw: Best coding interview prep resource in 2026 (Grokking vs LeetCode)
+- **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - LeetCode Discuss](https://leetcode.com/discuss/post/7710904) | kw: Amazon | SDE2 | Feb 2026 [Selected] - LeetCode Discuss
+- **2026-06-23** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms interview in 2026
+- **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data Structures & Algorithms Interview Questions: 2026 [With Answers]
+- **2026-06-23** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode Isn't Dead in 2026 — But It's No Longer Enough
+- **2026-06-23** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: Data Structures/Algorithms to go over the day of the test - LeetCode
+- **2026-06-23** | [Data Structures and Algorithms Interview Guide 2026 - Medhly AI](https://medhly.com/blog/data-structures-algorithms-interview-guide/) | kw: Data Structures and Algorithms Interview Guide 2026 - Medhly AI
+- **2026-06-23** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics
+- **2026-06-23** | [Top 100 DSA Interview Questions - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Top 100 DSA Interview Questions - LeetCode
+
 - **2026-06-23** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: Comprehensive List of 50 Frequently | source: algorithms
 - **2026-06-23** | [data-structures · GitHub Topics · GitHub](https://github.com/topics/data-structures) | kw: data-structures · GitHub Topics · | source: algorithms
 - **2026-06-23** | [Data Structures and Algorithms Full Course- YouTube](https://www.youtube.com/watch?v=CBYHwZcbD-s) | kw: Data Structures and Algorithms Full | source: algorithms

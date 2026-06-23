@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project (Dev Meeting 2026-01)](https://llvm.org/devmtg/2026-01/) | kw: The LLVM Compiler Infrastructure Project (Dev Meeting 2026-01)
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+- **2026-06-23** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst
+- **2026-06-23** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM
+- **2026-06-23** | [Use of JIT compiler infrastructure at Apple and CERN](https://indico.cern.ch/event/1675931/) | kw: Use of JIT compiler infrastructure at Apple and CERN
+- **2026-06-23** | [JIT Design and Implementation · The Julia Language](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT Design and Implementation · The Julia Language
+
 - **2026-06-23** | [compiler construction - Inlining a function in LLVM jit - Stack Overflow](https://stackoverflow.com/questions/12070105/inlining-a-function-in-llvm-jit/12075681) | kw: compiler construction | source: compilers
 - **2026-06-23** | [Just in Time Compilation Explained](https://www.freecodecamp.org/news/just-in-time-compilation-explained/) | kw: Just in Time Compilation Explained | source: compilers
 - **2026-06-23** | [A LLVM JIT prototype for running an energy-saving hardware](https://www.preprints.org/manuscript/202306.1834/v1/download) | kw: A LLVM JIT prototype for | source: compilers

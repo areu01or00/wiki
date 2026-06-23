@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system - Wikipedia
+- **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 months
+- **2026-06-23** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US 2026 Typing Summit Recap - Bernát Gábor
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynamic Languages
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type Annotations for Performance
+- **2026-06-23** | [Seeing types where others don't - The Consensus](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html) | kw: Seeing types where others don't - The Consensus
+- **2026-06-23** | [NJPLS May 2026](https://njpls.org/may2026.html) | kw: NJPLS May 2026
+
 - **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing - arxiv](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure | source: type-systems
 - **2026-06-23** | [Efficient Selection of Type Annotations - arxiv 2603.05649](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection of Type Annotations | source: type-systems
 - **2026-06-23** | [Luau Type System Complete Guide — Strict Mode, Generics...](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide | source: type-systems
