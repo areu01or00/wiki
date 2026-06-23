@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type-systems
+- **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ..](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
+- **2026-06-23** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type-systems
+- **2026-06-23** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: type-systems
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type-systems
+- **2026-06-23** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: type-systems
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages](https://dl.acm.org/doi/10.1145/3798220) | kw: type-systems
+
 - **2026-06-23** | [(PDF) Gradual typing with unification-based inference](https://www.researchgate.net/publication/220828930_Gradual_typing_with_unification-based_inference) | kw: (PDF) Gradual typing
 - **2026-06-23** | [](/clev?event=StartpageResultClick&sc=maXqNizppdQewqPSh6lO7lgCdM2gdx9LnxCgpCuislKARt2RBp7qT1TDGMYGVFcBwgq5gK4qlMlAQt&payload=...) | kw: 
 

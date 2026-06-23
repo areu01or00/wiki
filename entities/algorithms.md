@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: algorithms
+- **2026-06-23** | [Best coding interview prep resource in 2026 (Grokking vs LeetCode ..](https://www.reddit.com/r/leetcode/comments/1qft3d3/best_coding_interview_prep_resource_in_2026/) | kw: algorithms
+- **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: algorithms
+- **2026-06-23** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
+- **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: algorithms
+- **2026-06-23** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: algorithms
+- **2026-06-23** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: algorithms
+- **2026-06-23** | [Data Structures and Algorithms Interview Guide 2026 - Medhly AI](https://medhly.com/blog/data-structures-algorithms-interview-guide/) | kw: algorithms
+- **2026-06-23** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: algorithms
+- **2026-06-23** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: algorithms
+
 - **2026-06-23** | [Mastering Coding Interviews: Essential Skills for 2026 - LinkedIn](https://www.linkedin.com/posts/pramodbhosale-_codegreedy-leetcode-interview-activity-7411304024014147584-Hojk) | kw: Mastering Coding Interviews:
 - **2026-06-23** | [Coding Interviews in 2026: Complete DSA & System Design Preparation ...](https://www.tutort.net/blogs/coding-interviews-in-2026-everything-you-need-to-prepare) | kw: Coding Interviews 2026:
 

@@ -1,6 +1,17 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+- **2026-06-23** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: compilers
+- **2026-06-23** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: compilers
+- **2026-06-23** | [wdv4758h/awesome-jit - GitHub](https://github.com/wdv4758h/awesome-jit) | kw: compilers
+- **2026-06-23** | [LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: compilers
+- **2026-06-23** | [What Is LLVM (Low Level Virtual Machine)? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-llvm-low-level-virtual-machine/) | kw: compilers
+- **2026-06-23** | [LLVM '15: Proceedings of the Second Workshop on the LLVM Compiler ..](https://dl.acm.org/doi/proceedings/10.1145/2833157) | kw: compilers
+- **2026-06-23** | [JIT in ClickHouse](https://clickhouse.com/blog/clickhouse-just-in-time-compiler-jit) | kw: compilers
+- **2026-06-23** | [Building a JIT Compiler from Scratch: Part 1 - Medium](https://medium.com/codejitsu/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-84cf453b1155) | kw: compilers
+
 
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation - Wikipedia | source: compilers
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project - Open Projects](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project - Open Projects | source: compilers
