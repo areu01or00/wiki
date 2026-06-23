@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Coding & Algorithms Tournament 2026](https://catournament.org/) | kw: Algorithms
+- **2026-06-23** | [Data Structures and Algorithms Full Tutorial 2026 - YouTube](https://www.youtube.com/watch?v=TY4W0xCuKuk) | kw: Algorithms
+- **2026-06-23** | [Best DSA Roadmap in 2026 - Crack OAs/Interviews/Coding contests](https://www.youtube.com/watch?v=EV_PxZEypjc) | kw: interviews
+- **2026-06-23** | [Advanced Algorithms and Data Structures, Mar 2026 - Harbour.Space](https://harbour.space/computer-science/courses/advanced-algorithms-and-data-structures-debowski-gorbachev-1432) | kw: Algorithms
+
 - **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: interviews
 - **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: LeetCode
 - **2026-06-23** | [LeetCode Isn't Dead in 2026 - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode

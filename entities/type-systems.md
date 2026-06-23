@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [TypeScript 2026 Complete Guide: Advanced Types, Patterns, and Best Practices](https://calmops.com/programming/typescript-2026-complete-guide/) | kw: Type
+- **2026-06-23** | [TypeScript Advanced Patterns in 2026: Type-Safe APIs, Branded Types, and Beyond](https://devstarsj.github.io/2026/02/25/typescript-advanced-patterns-2026/) | kw: Type
+- **2026-06-23** | [Advanced TypeScript Types: Unleashing the Power of Static Typing](https://www.xjavascript.com/blog/advanced-typescript-types/) | kw: Typing
+- **2026-06-23** | [Advanced TypeScript Tutorial](https://www.xjavascript.com/blog/advanced-typescript-tutorial/) | kw: Type
+- **2026-06-23** | [30+ Static Type Checking Online Courses for 2026](https://www.classcentral.com/subject/static-type-checking) | kw: Online
+- **2026-06-23** | [Mastering Advanced TypeScript Concepts: A Comprehensive Practical Guide](https://kavindumedhanga.medium.com/mastering-advanced-typescript-concepts-a-comprehensive-practical-guide-26d2361e0da8) | kw: Type
+
 - **2026-06-23** | [POPL 2026 - POPL Research Papers](https://popl26.sigplan.org/track/POPL-2026-popl-research-papers) | kw: Research
 - **2026-06-23** | [GradInf: Gradient Estimation as Probabilistic Inference (PLDI 2026)](https://pldi26.sigplan.org/details/pldi-2026-papers/78/GradInf-Gradient-Estimation-as-Probabilistic-Inference) | kw: inference
 - **2026-06-23** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/full/10.1145/3632931) | kw: Typing

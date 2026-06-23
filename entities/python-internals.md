@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python 3.14's Free-Threaded Build: A Technical Deep Dive - Medium](https://medium.com/@mishra.writeto/python-3-14s-free-threaded-build-a-technical-deep-dive-23b2aabd3ee3) | kw: python
+- **2026-06-23** | [Understand CPython (Learning Path) - Real Python](https://realpython.com/learning-paths/understand-cpython/) | kw: CPython
+
 - **2026-06-23** | [Python 3.15's JIT is now back on track](https://blog.python.org/2026/03/jit-on-track/) | kw: python
 - **2026-06-23** | [JIT Planning for 3.15 and 3.16 #139038 - python/cpython - GitHub](https://github.com/python/cpython/issues/139038) | kw: CPython
 - **2026-06-23** | [Python 3.15 Hits Feature Freeze and Other News for June 2026](https://realpython.com/python-news-june-2026/) | kw: python

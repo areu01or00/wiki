@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Releases · intel/llvm - GitHub](https://github.com/intel/llvm/releases) | kw: LLVM
+
 - **2026-06-23** | [Download LLVM releases](https://releases.llvm.org/) | kw: LLVM
 - **2026-06-23** | [Release Notes - llvmlite - Read the Docs](https://llvmlite.readthedocs.io/en/latest/release-notes.html) | kw: LLVM
 
