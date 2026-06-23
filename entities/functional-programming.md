@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [The Practical Value of Functional Programming — Monad, Functor, Pure ..](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional
+- **2026-06-23** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: functional
+- **2026-06-23** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: haskell
+- **2026-06-23** | [Mastering Functional Programming Concepts: A Leader's Guide](https://www.tekrecruiter.com/post/functional-programming-concepts) | kw: functional
+- **2026-06-23** | [What is Functional Programming? A Look at the Programming ... - Tarides](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective/) | kw: functional
+- **2026-06-23** | [Why Haskell Is the Language for Correctness in 2026](https://www.iheart.com/podcast/53-the-programming-languages-p-334454825/episode/why-haskell-is-the-language-for-336920431/) | kw: haskell
+- **2026-06-23** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map ..](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: rust
+- **2026-06-23** | [Functional Programming in 2026: Haskell vs Gleam vs Rust](https://www.codegenes.net/blog/functional-programming-2026-haskell-gleam-rust/) | kw: functional
+
 - **2026-06-22** | [Functors, Applicatives and Monads Tutorial | Simply...](https://www.youtube.com/watch?v=94bPH1u6kYo) | kw: Monad | source: functional-programming
 - **2026-06-22** | [Free monads - what? and why?](https://softwaremill.com/free-monads/) | kw: Free | source: functional-programming
 - **2026-06-22** | [Monad Explorer | MonadVision](https://monadvision.com/) | kw: Monad | source: functional-programming

@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: watch
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: llvm
+- **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: llvm
+- **2026-06-23** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: llvm
+- **2026-06-23** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: watch
+- **2026-06-23** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: jit
+- **2026-06-23** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: jit
+- **2026-06-23** | [2026 EuroLLVM Developers' Meeting - Agenda - Announcements](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: watch
+- **2026-06-23** | [New LLVM JIT Features - Internals & Design - Julia Discourse](https://discourse.julialang.org/t/new-llvm-jit-features/22754) | kw: llvm
+
 - **2026-06-22** | [GitHub - mikeroyal/LLVM-Guide: LLVM (Low Level Virtual Machine) Guide](https://github.com/mikeroyal/LLVM-Guide) | kw: Guide | source: compilers
 - **2026-06-22** | [A curated list of awesome LLVM (including Clang, etc)](https://github.com/learn-llvm/awesome-llvm) | kw: Awesome | source: compilers
 

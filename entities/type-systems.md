@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type-inference
+- **2026-06-23** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: watch
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type-inference
+- **2026-06-23** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: gradual
+
 - **2026-06-22** | [Local Contextual Type Inference - Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3776653) | kw: Inference | source: type-systems
 
 - **2026-06-22** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: Putting | source: type-systems

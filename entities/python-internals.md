@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: gil
+- **2026-06-23** | [The Future of Python Internals: Exploring GIL Removal and ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: gil
+- **2026-06-23** | [What is the Global Interpreter Lock (GIL) in Python? Is It ...](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: gil
+- **2026-06-23** | [Python’s GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: gil
+- **2026-06-23** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: memory
+- **2026-06-23** | [Python 3.14 Free-Threading and Experimental JIT: How Python ...](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: jit
+
 - **2026-06-22** | [[Feature] Free-Threaded Python (3.14t / nogil) Support for SGLang](https://github.com/sgl-project/sglang/issues/22889) | kw: Free-threaded | source: python-internals
 - **2026-06-22** | [r/django on Reddit: With Python 3.14 free-threading support](https://www.reddit.com/r/django/comments/1lnekfg/with_python_314_freethreading_support_coming_up/) | kw: Free-threading | source: python-internals
 - **2026-06-22** | [Python 3.13 & 3.14 Are Breaking Backward Compatibility on Purpose](https://pub.towardsai.net/python-3-13-3-14-are-breaking-backward-compatibility-on-purpose-b6c7d7351336) | kw: ABI | source: python-internals

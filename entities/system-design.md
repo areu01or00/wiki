@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [50 System Design Patterns Every Engineer Should Know in 90 ..](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system-design
+- **2026-06-23** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
+- **2026-06-23** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: distributed
+- **2026-06-23** | [The Only 12-Week High-Level System Design Roadmap You Need ..](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: system-design
+- **2026-06-23** | [9 Essential Software Architecture Patterns for Scalable Distributed ..](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: architecture
+- **2026-06-23** | [12 Essential Distributed System Design Patterns Every Architect ..](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: distributed
+- **2026-06-23** | [From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI) | kw: watch
+- **2026-06-23** | [50 System Design Patterns Every Engineer Should Know](https://stackinterview.dev/guides/50-system-design-patterns-2026) | kw: system-design
+- **2026-06-23** | [The Complete Guide to System Design in 2026 | InfraSketch Blog](https://infrasketch.net/blog/complete-guide-system-design) | kw: system-design
+- **2026-06-23** | [Cloud Native Architecture Patterns: 10 Essential Types (2026 Guide)](https://clearfuze.com/blog/cloud-native-architecture-patterns/) | kw: architecture
+
 - **2026-06-22** | [28th Euromicro Conference Series on Digital System Design (DSD)](https://www.sciencedirect.com/special-issue/327719/28th-euromicro-conference-series-on-digital-system-design-dsd-september-10-12-salerno-italy) | kw: Conference | source: system-design
 - **2026-06-22** | [Is System Design Needed For Software Engineers In 2026?](https://www.linkedin.com/pulse/system-design-needed-software-engineers-2026-designgurus-zfkgc) | kw: Career | source: system-design
 - **2026-06-22** | [The Programming Concepts That Actually Matter in 2026](https://medium.com/@sovannaro/the-programming-concepts-that-actually-matter-in-2026-ea96230e13cb) | kw: Concepts | source: system-design

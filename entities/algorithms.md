@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: leetcode
+- **2026-06-23** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: leetcode
+
 - **2026-06-22** | [Data Structures & Algorithms: The Complete Journey](https://www.udemy.com/course/data-structures-algorithms-the-complete-journey/) | kw: udemy, complete, journey, DSA | source: algorithms
 
 - **2026-06-22** | [1000 problems in less than 6 months - Discuss - LeetCode](https://leetcode.com/discuss/general-discussion/1618382/1000-problems-in-less-than-6-months/) | kw: LeetCode | source: algorithms
