@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello,
+- **2026-06-23** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: lang
+- **2026-06-23** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional
+- **2026-06-23** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure
+- **2026-06-23** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell
+- **2026-06-23** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned
+- **2026-06-23** | [Community version of "Learn You a Haskell…" (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community
+- **2026-06-23** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: think
+- **2026-06-23** | [The I/O problem - Haskell « HaskellWiki](https://wiki.haskell.org/The_I/O_problem) | kw: problem
+- **2026-06-23** | [Why Rust is not a functional language - Serokell](https://serokell.io/blog/rust-is-not-a-functional-language) | kw: Rust
+
 - **2026-06-23** | [The Best Monad Tutorial Ever Written - Andrew Lilley Brinker](https://www.alilleybrinker.com/mini/the-best-monad-tutorial/) | kw: monad
 - **2026-06-23** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: good
 - **2026-06-23** | [Haskell: Monads. A 5-minute introduction - Reddit](https://www.reddit.com/r/haskell/comments/ja3ift/haskell_monads_a_5minute_introduction/) | kw: haskell

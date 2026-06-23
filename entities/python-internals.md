@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python
+- **2026-06-23** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Python's
+- **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: Thread
+- **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye
+- **2026-06-23** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: Python
+- **2026-06-23** | [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Faster
+- **2026-06-23** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: What's
+- **2026-06-23** | [Python 3.14: The present and future of the language of the moment](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python
+- **2026-06-23** | [Python's GIL Is Gone in 3.13. But Your Code Probably Doesn't ...](https://medium.com/@sohail_saifi/pythons-gil-is-gone-in-3-13-but-your-code-probably-doesn-t-benefit-yet-here-s-exactly-why-31d2d93ff76c) | kw: Python's
+- **2026-06-23** | [The GIL Is Gone (Almost): What Python's New Free-Threaded Mode ...](https://python.plainenglish.io/the-gil-is-gone-almost-what-pythons-new-free-threaded-mode-really-means-99f3f501b0b5) | kw: Gone
+
 - **2026-06-23** | [Welcome to Python.org](https://www.python.org/) | kw: python
 - **2026-06-23** | [Download Python | Python.org](https://www.python.org/downloads/) | kw: python
 - **2026-06-23** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: python

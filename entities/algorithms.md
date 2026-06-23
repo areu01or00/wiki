@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Tech
+- **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: Amazon
+- **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data
+- **2026-06-23** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode
+- **2026-06-23** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: Data
+- **2026-06-23** | [Data Structures and Algorithms Interview Guide 2026 - Medhly AI](https://medhly.com/blog/data-structures-algorithms-interview-guide/) | kw: Data
+- **2026-06-23** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode
+- **2026-06-23** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Interview
+
 - **2026-06-23** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: leetcode
 - **2026-06-23** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: dsa
 - **2026-06-23** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Thinking ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: leetcode

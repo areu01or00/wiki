@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard
+- **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649]
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: Efficient
+- **2026-06-23** | [TypeScript 6.0: What's New and Why the Type System Just Got ...](https://devstarsj.github.io/2026/06/15/typescript-6-new-features-branded-types-pattern-matching-2026/) | kw: TypeScript
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
+- **2026-06-23** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting
+- **2026-06-23** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual
+
 - **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir
 - **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: inference
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating

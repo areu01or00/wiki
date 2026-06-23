@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time
+- **2026-06-23** | [Compilers I Stanford Online](https://online.stanford.edu/courses/soe-ycscs1-compilers) | kw: Compilers
+- **2026-06-23** | [11 Compilers | Computation Structures | Electrical Engineering...](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/) | kw: Compilers
+- **2026-06-23** | [Best Open Source Compilers 2026 - SourceForge](https://sourceforge.net/directory/compilers/) | kw: Best
+
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: compiler
 - **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: orcjit
 - **2026-06-23** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compiler

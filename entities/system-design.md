@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
+- **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: System
+- **2026-06-23** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-control-panel-in-windows-10) | kw: open
+- **2026-06-23** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: SYSTEM
+- **2026-06-23** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: What
+- **2026-06-23** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: System
+- **2026-06-23** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: SYSTEM
+- **2026-06-23** | [SYSTEM | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/system) | kw: SYSTEM
+- **2026-06-23** | [SYSTEM | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/system) | kw: SYSTEM
+- **2026-06-23** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-and-view-system-information-panel-in-windows) | kw: open
+
 - **2026-06-23** | [The Complete System Design Interview Guide 2026 | by TechEon](https://atul4u.medium.com/the-complete-system-design-interview-guide-2026-1784f8beb092) | kw: The Complete System Design Interview Gui
 - **2026-06-23** | [How I Would Prepare for a System Design Interview in 2026](https://interviewnoodle.com/how-i-would-prepare-for-a-system-design-interview-in-2026-5941a974499d) | kw: How I Would Prepare for a System Design 
 - **2026-06-23** | [Need advice on system design interview questions (scaling, latency ..](https://www.reddit.com/r/softwarearchitecture/comments/1sl04w9/need_advice_on_system_design_interview_questions/) | kw: Need advice on system design interview q
