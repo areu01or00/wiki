@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual
+- **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir
+- **2026-06-23** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type
+- **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ..](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating
+- **2026-06-23** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type
+- **2026-06-23** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: type
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type
+- **2026-06-23** | [Type Inference for Functional and Imperative Dynamic Languages](https://dl.acm.org/doi/10.1145/3798220) | kw: Type
+- **2026-06-23** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: type
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient
+
 - **2026-06-23** | [TypeScript - Wikipedia](https://en.wikipedia.org/wiki/TypeScript) | kw: TypeScript - Wikipedia
 - **2026-06-23** | [TypeScript 6.0 in 2026: The Evolution of Full-Stack JavaScript is Here](https://medium.com/@mernstackdevbykevin/typescript-6-0-in-2026-the-evolution-of-full-stack-javascript-is-here-bd662846a5a2) | kw: TypeScript 6.0 in 2026: The
 - **2026-06-23** | [TypeScript vs JavaScript: 73% of Devs Switched [2026] - Tech Insider](https://tech-insider.org/typescript-vs-javascript-2026/) | kw: TypeScript vs JavaScript: 73% of

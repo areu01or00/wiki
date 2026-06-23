@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: LLVM
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: llvm
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ... - GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: llvm
+- **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
+- **2026-06-23** | [justjit · PyPI](https://pypi.org/project/justjit/) | kw: justjit PyPI
+- **2026-06-23** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
+
 - **2026-06-23** | [LLVM - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/LLVM) | kw: LLVM
 - **2026-06-23** | [LLVM Download Page](https://releases.llvm.org/download.html) | kw: LLVM
 
