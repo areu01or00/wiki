@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [[2408.14345] Guard Analysis and Safe Erasure Gradual Typing ...](https://arxiv.org/abs/2408.14345) | kw: [2408.14345] Guard Analysis and Safe Erasure Gradual Typing 
+- **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for ...
+- **2026-06-23** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance ...
+
 - **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing (arXiv 2408.14345)](https://arxiv.org/abs/2408.14345) | kw: Guard
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance (programming-journal.org)](https://programming-journal.org/2026/11/3/) | kw: Efficient
 - **2026-06-23** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau

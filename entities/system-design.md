@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer Should Know in 90 .
+- **2026-06-23** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: A Guide to Large-Scale Distributed Systems (2026)
+- **2026-06-23** | [The Only 12-Week High-Level System Design Roadmap You Need ..](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: The Only 12-Week High-Level System Design Roadmap You Need .
+
 - **2026-06-23** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System D
 - **2026-06-23** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern Software Architecture P
 - **2026-06-23** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architect

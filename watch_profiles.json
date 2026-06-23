@@ -56,12 +56,14 @@
         "Bokus",
         "Build",
         "Distributed",
-        "Patterns"
+        "Patterns",
+        "Design",
+        "Engineer",
+        "Should",
+        "Large",
+        "Scale"
       ],
       "last_result_hashes": [
-        "9d1b44e86b874a5d8ecc4af4d30de52e",
-        "3d924683b109e99c93d7ba785e0c7ab0",
-        "2d3339fbcb04e9f626d884e03958e8d3",
         "25a06ccbe831fcae1efa398fc18b067e",
         "1885661cefe9c39654b0f1458625c8e0",
         "10ee30a2694a972513965e5bdfbe0d98",
@@ -78,11 +80,20 @@
         "64e900ff8986f325e4783fe3286a829d",
         "193aef9c78464c2e148b46fbdd9ccf84",
         "99b0b3d99e823c0d5f03e6f80825dc46",
-        "8282bc38c31cae78de009daeeac96471"
+        "8282bc38c31cae78de009daeeac96471",
+        "e386d25ff1816abec2a4433c860ed876",
+        "5e40d84c27922d7191778e20c118b6e9",
+        "5dff35197dd714f0725776136f983c36"
       ],
-      "last_run": "2026-06-23T10:02:57Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-23T10:18:58Z",
+      "new_sub_topics_this_run": [
+        "Design",
+        "Engineer",
+        "Should",
+        "Large",
+        "Scale"
+      ],
+      "last_new_count": 3
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -125,7 +136,7 @@
         "Running",
         "Exploration",
         "Borretti",
-        "“LLVM",
+        "\u201cLLVM",
         "Virtual",
         "unsuitable",
         "V8",
@@ -140,14 +151,14 @@
         "Adding",
         "Building",
         "Adventures",
-        "wdv4758h"
+        "wdv4758h",
+        "Project",
+        "course",
+        "docs",
+        "tutorial",
+        "Modern"
       ],
       "last_result_hashes": [
-        "044f00f22ade99878d29e43ef426c83d",
-        "5cefefefe6afc297697ed1187181b6a1",
-        "26ae9c83c9c9c67941d78d12a2187981",
-        "85875fa4aeb3a7c10187eaf8cc0cac2f",
-        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
         "4a875ba6c9df4a6d863a675c9bbe1244",
         "7d0b717005814217330e578b0fbdc8fb",
         "3c9718118369d7e2403bff65ca60bf76",
@@ -162,11 +173,22 @@
         "6b7615fe27e5fa7ec414a7ca008f3ea8",
         "b9a1444439c4370b71f553ef5c31cd7f",
         "5eb461713e0f1077b53617fc9dfe1c6a",
-        "0feac1ce8afa145634945297cfd45753"
+        "0feac1ce8afa145634945297cfd45753",
+        "d12d82e1f851084bf2828bf37f84e297",
+        "0e37ea17fc9a69e116e589e0bc7f8c79",
+        "d0de062ed058a4b7bb87b9c013129190",
+        "f1925c0af6e39aa520ffa6a282ede525",
+        "da2a9627437ec27ab2a13b536f37cf45"
       ],
-      "last_run": "2026-06-23T10:02:57Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-23T10:18:58Z",
+      "new_sub_topics_this_run": [
+        "Project",
+        "course",
+        "docs",
+        "tutorial",
+        "Modern"
+      ],
+      "last_new_count": 5
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -183,7 +205,7 @@
         "Tokyo",
         "navigating",
         "type checker speed",
-        "Gábor",
+        "G\u00e1bor",
         "With",
         "Foundations",
         "language",
@@ -226,12 +248,14 @@
         "Type",
         "Guard",
         "Luau",
-        "Gradual"
+        "Gradual",
+        "2408",
+        "14345",
+        "Analysis",
+        "Safe",
+        "Erasure"
       ],
       "last_result_hashes": [
-        "a9eda9372fc91b1c982c7e93d2368c68",
-        "1892288ce3bfda31458d852753d72f5f",
-        "ac95c88a54dcd6a305e42842d52571f2",
         "308dda7f513e9814e8fc3261531d6d06",
         "6c257d065a3041b16049b05a47e582ff",
         "cd97be34565c3a0d9a56a668305a8ef6",
@@ -248,11 +272,20 @@
         "61670f70de18e9c11a9a2cb7f211cc76",
         "bb35cf350d535227a5dd44c85cfc20c6",
         "ea9dfbd7a7ddacc0bee501e96423940f",
-        "281dcc412b25b8e56702cc648bcf9932"
+        "281dcc412b25b8e56702cc648bcf9932",
+        "827319de78f652c36a72ce51d2554598",
+        "1674bb6ba3ccf85f515fbae17fccc59f",
+        "37ffd58453521e02c05e593eedaf102e"
       ],
-      "last_run": "2026-06-23T10:02:57Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-23T10:18:58Z",
+      "new_sub_topics_this_run": [
+        "2408",
+        "14345",
+        "Analysis",
+        "Safe",
+        "Erasure"
+      ],
+      "last_new_count": 3
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -260,7 +293,7 @@
       "sub_topics": [
         "Feature",
         "Concept",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "killed",
         "Welcome",
         "Exploring",
@@ -338,7 +371,7 @@
         "b48083861c08172ad412a7bc1ea62141",
         "075602b3fd20747c681425d75ff0f69e"
       ],
-      "last_run": "2026-06-23T10:02:57Z",
+      "last_run": "2026-06-23T10:18:58Z",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -403,11 +436,14 @@
         "Top",
         "Data",
         "Coding",
-        "Days"
+        "Days",
+        "Structures",
+        "Interview",
+        "Questions",
+        "Answers",
+        "Selected"
       ],
       "last_result_hashes": [
-        "c081d373fdb54070daade9a235858c9b",
-        "8900f36a48596850ee5ba84a247a6c1d",
         "7827ab24e9d276e3b17d86a148741a99",
         "867c193f14d86dba8e19be9953c4f21a",
         "51bdec45c83dc444c8040f8f04671877",
@@ -425,11 +461,19 @@
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
         "bacc4c268ab4d6ab4c074b284e41ab33",
         "20609d69cf60f498dee2b475f6fd9f03",
-        "aff8d3e0e60a2faac0adcce86cc363d2"
+        "aff8d3e0e60a2faac0adcce86cc363d2",
+        "6ad4424d61d8084aeff283da158f5951",
+        "eafd918237f1fdcc99e04073cd8d13ea"
       ],
-      "last_run": "2026-06-23T10:02:57Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-23T10:18:58Z",
+      "new_sub_topics_this_run": [
+        "Structures",
+        "Interview",
+        "Questions",
+        "Answers",
+        "Selected"
+      ],
+      "last_new_count": 2
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -462,7 +506,7 @@
         "Sakin",
         "Objects",
         "Ownership",
-        "internals·",
+        "internals\u00b7",
         "Dive",
         "Maturin",
         "Answers",
@@ -487,12 +531,14 @@
         "Broken",
         "Python",
         "Future",
-        "Understanding"
+        "Understanding",
+        "Python's",
+        "Gone",
+        "Actually",
+        "Means",
+        "Memory"
       ],
       "last_result_hashes": [
-        "b1ee147f4d765a2e836d0e6ebb25e4a0",
-        "b2fbe6454e7c9d604f2d7586a436e138",
-        "591409c47e1ec763a9d56c9395867497",
         "468742a4701a77f0ca48325d95a4f4a9",
         "d312cb77ade078c8f1e9dac2e24a756b",
         "186472734b3375b680871e13a0117ace",
@@ -509,11 +555,20 @@
         "16153b4c7c06481c9814ad5c45901627",
         "393b9552409ec8ba6bdfd1665878c646",
         "66c984d651f0d7c5c7eb2da779be1bbb",
-        "44ede0fa7f964aee564e189fd251a80b"
+        "44ede0fa7f964aee564e189fd251a80b",
+        "498edfd974d66c35db81ddcb5eced2f1",
+        "087455b373dbe987da5078283f97a4cb",
+        "1c9e34c438b893768685d5e9b0743087"
       ],
-      "last_run": "2026-06-23T10:02:57Z",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-23T10:18:58Z",
+      "new_sub_topics_this_run": [
+        "Python's",
+        "Gone",
+        "Actually",
+        "Means",
+        "Memory"
+      ],
+      "last_new_count": 3
     }
   }
 }

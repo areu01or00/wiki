@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: The LLVM Compiler Infrastructure Project
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at
+- **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 .
+- **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
+- **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at
+
 - **2026-06-23** | [What Is LLVM (Low Level Virtual Machine)? - ITU Online IT Training](www.ituonline.com/tech-definitions/what-is-llvm-low-level-virtual-machine/) | kw: LLVM
 
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project - OpenProjects

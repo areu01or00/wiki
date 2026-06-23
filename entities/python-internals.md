@@ -1,6 +1,10 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [What is the Global Interpreter Lock (GIL) in Python? Is It ...](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the Global Interpreter Lock (GIL) in Python? Is It .
+- **2026-06-23** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: Python's GIL Is Gone — What That Actually Means for Your Cod
+- **2026-06-23** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Memory Management: GIL Deep Dive | Medium
+
 - **2026-06-23** | [Python 3.14 Free-Threading and Experimental JIT: How Python Changes in 2026](https://blog.imseankim.com/python-3-14-free-threading-jit-compiler-gil-removal-2026/) | kw: Python
 
 - **2026-06-23** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV Change Everything

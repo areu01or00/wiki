@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data Structures & Algorithms Interview Questions: 2026 [With
+- **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode
+
 - **2026-06-23** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: Tried
 - **2026-06-23** | [Coding Interviews in 2026: Complete DSA & System Design Preparation](https://www.tutort.net/blogs/coding-interviews-in-2026-everything-you-need-to-prepare) | kw: Coding
 
