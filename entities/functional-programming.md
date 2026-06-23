@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026
+- **2026-06-23** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026 : r/functionalprogramming
+- **2026-06-23** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional Programmers need to take a look at Zig
+- **2026-06-23** | [Community version of "Learn You a Haskell…" 2026 update - Haskell Discourse](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community version of "Learn You a Haskell…" 2026 update
+- **2026-06-23** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell Foundation 2026 Update | Hacker News
+- **2026-06-23** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: I think I Finally Got Monads | Hendrik Erz
+- **2026-06-23** | [Haskell Foundation](https://haskell.foundation/) | kw: Haskell Foundation
+- **2026-06-23** | [Abilities for the monadically inclined · Unison programming language](https://www.unison-lang.org/docs/fundamentals/abilities/for-monadically-inclined/) | kw: Abilities for the monadically inclined · Unison programming 
+
 - **2026-06-23** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming)
 - **2026-06-23** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: All About Monads
 - **2026-06-23** | [Understanding Monads in Functional Programming: A Comprehensive Guide](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide/) | kw: Understanding Monads in Functional Progr

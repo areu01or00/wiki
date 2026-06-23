@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-23** | [TypeScript 6.0 Advanced Type Features: What You Need to Know for 2026 - dev.to](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-advanced-type-features-what-you-need-to-know-for-2026-61f) | kw: TypeScript 6.0 Advanced Type Features: What You Need to Know
+- **2026-06-23** | [Boosting LLM-Based Type Inference via Inter-Procedural Slicing - arXiv](https://arxiv.org/pdf/2604.02702) | kw: Boosting LLM-Based Type Inference via Inter-Procedural Slici
+- **2026-06-23** | [TypeScript 6.0: what actually changed, what will break after the update - pas7](https://pas7.com.ua/blog/en/typescript-6-explained-2026) | kw: TypeScript 6.0: what actually changed, what will break after
+- **2026-06-23** | [TypeScript 6.0 Is Here, And It Changes More Than You Think - Medium](https://medium.com/@ripenapps-technologies/typescript-6-0-is-here-and-it-changes-more-than-you-think-91a241f96682) | kw: TypeScript 6.0 Is Here, And It Changes More Than You Think
+- **2026-06-23** | [TypeScript vs JavaScript: 73% of Devs Switched [2026] - Tech Insider](https://tech-insider.org/typescript-vs-javascript-2026/) | kw: TypeScript vs JavaScript: 73% of Devs Switched [2026]
+- **2026-06-23** | [TypeScript 5.x to 6.0 Migration Guide - Gist - GitHub](https://gist.github.com/privatenumber/3d2e80da28f84ee30b77d53e1693378f) | kw: TypeScript 5.x to 6.0 Migration Guide
+- **2026-06-23** | [JavaScript 2026: The New Era of Bun, Deno, TypeScript 7, Vite - javascript.plainenglish](https://javascript.plainenglish.io/javascript-2026-the-new-era-of-bun-deno-typescript-7-vite-and-what-developers-should-learn-next-ced385ffc648) | kw: JavaScript 2026: The New Era of Bun, Deno, TypeScript 7, Vit
+- **2026-06-23** | [TypeScript 6.0 Is Here, And Microsoft Is Rebuilding the Entire - nandann](https://www.nandann.com/blog/typescript-6-0-release-features-go-compiler-7-0) | kw: TypeScript 6.0 Is Here, And Microsoft Is Rebuilding the Enti
+- **2026-06-23** | [TypeScript 6 Beta Released: Developers Invited to Upgrade - InfoQ](https://www.infoq.com/news/2026/02/typescript-6-released-beta/) | kw: TypeScript 6 Beta Released: Developers Invited to Upgrade
+
 - **2026-06-23** | [TypeScript: JavaScript With Syntax For Types](https://www.typescriptlang.org/) | kw: TypeScript
 - **2026-06-23** | [The starting point for learning TypeScript](https://www.typescriptlang.org/docs/) | kw: The starting point for learning TypeScri
 - **2026-06-23** | [GitHub - microsoft/TypeScript](https://github.com/microsoft/TypeScript) | kw: GitHub

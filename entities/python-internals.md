@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [How Python's GIL actually works (and when it bites you) - dev.to](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites you)
+- **2026-06-23** | [Thread states and the global interpreter lock — Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock — Python 3.14.
+- **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye GIL: Exploring free-threaded mode in Python 3.14
+- **2026-06-23** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: 5 Python Performance Killers Expert Fixes 2026 Guide
+- **2026-06-23** | [Faster Python: Unlocking the Python Global Interpreter Lock - JetBrains](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Faster Python: Unlocking the Python Global Interpreter Lock
+- **2026-06-23** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: What's new in Python 3.14 — Python 3.14.6 documentation
+- **2026-06-23** | [Python 3.14: The present and future of the language of the moment - Altia](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python 3.14: The present and future of the language of the m
+- **2026-06-23** | [Python's GIL Is Gone in 3.13 - Medium](https://medium.com/@sohail_saifi/pythons-gil-is-gone-in-3-13-but-your-code-probably-doesn-t-benefit-yet-here-s-exactly-why-31d2d93ff76c) | kw: Python's GIL Is Gone in 3.13
+- **2026-06-23** | [The GIL Is Gone (Almost) - python.plainenglish](https://python.plainenglish.io/the-gil-is-gone-almost-what-pythons-new-free-threaded-mode-really-means-99f3f501b0b5) | kw: The GIL Is Gone (Almost)
+
 - **2026-06-23** | [[Feature] Free-Threaded Python (3.14t / nogil) Support for SGLang](https://github.com/sgl-project/sglang/issues/22889) | kw: [Feature] Free-Threaded Python (3.14t /
 - **2026-06-23** | [Python Killed the GIL. Go Still Wins. | Medium](https://medium.com/towardsdev/python-killed-the-gil-go-still-wins-14735a67b5e0) | kw: Python Killed the GIL. Go Still Wins. |
 - **2026-06-23** | [Free-Threaded Python Is Production-Ready in 2026 - BirJob](https://www.birjob.com/blog/python-free-threaded-gil-dead-production-ready) | kw: Free-Threaded Python Is Production-Ready

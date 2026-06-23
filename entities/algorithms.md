@@ -1,6 +1,14 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: Algorithm
+- **2026-06-23** | [List of algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms) | kw: List of algorithms
+- **2026-06-23** | [What is an Algorithm | Introduction to Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What is an Algorithm | Introduction to Algorithms
+- **2026-06-23** | [Introduction to Algorithms | MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: Introduction to Algorithms | MIT OCW
+- **2026-06-23** | [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: DSA Tutorial
+- **2026-06-23** | [What Is an Algorithm? | Definition & Examples - Scribbr](https://www.scribbr.com/ai-tools/what-is-an-algorithm/) | kw: What Is an Algorithm? | Definition & Examples
+- **2026-06-23** | [ALGORITHM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/algorithm) | kw: ALGORITHM Definition & Meaning
+
 - **2026-06-23** | [Complete Beginner Study Plan - NeetCode 250](https://neetcode.io/practice/practice/neetcode250) | kw: Complete Beginner Study Plan
 - **2026-06-23** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode | Coding Interview Prep, Course
 - **2026-06-23** | [Roadmap - NeetCode](https://neetcode.io/roadmap) | kw: Roadmap

@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-23** | [Microservices Architecture in 2026: Advanced Insights and Best Practices - theprotec](https://www.theprotec.com/blog/2026/microservices-architecture-advanced-insights-best-practices/) | kw: Microservices Architecture in 2026: Advanced Insights and Be
+- **2026-06-23** | [Emerging Backend Architectures for 2026: Microservices, Serverless and Beyond - tensorblue](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: Emerging Backend Architectures for 2026: Microservices, Serv
+- **2026-06-23** | [Advanced Microservices Architecture for scalable Apps 2026 - nadcab](https://www.nadcab.com/blog/microservices-architecture-scalable-apps) | kw: Advanced Microservices Architecture for scalable Apps 2026
+- **2026-06-23** | [Microservices Architecture 2026: Building Scalable Applications - tech-lein](https://tech-lein.com/microservices-architecture-building-scalable-applications-2026) | kw: Microservices Architecture 2026: Building Scalable Applicati
+- **2026-06-23** | [Creating Scalable Microservices Architectures in Azure - moldstud](https://moldstud.com/articles/p-creating-scalable-microservices-architectures-in-azure-a-detailed-guide-for-developers) | kw: Creating Scalable Microservices Architectures in Azure
+- **2026-06-23** | [Microservices Architecture in 2026: Building Scalable Distributed Systems - scga](https://scga.hk/blog/microservices-architecture-2026) | kw: Microservices Architecture in 2026: Building Scalable Distri
+- **2026-06-23** | [Microservices Architecture in 2026: 5 Best Practices - LinkedIn](https://www.linkedin.com/pulse/5-microservices-architecture-best-practices-2026-from-mastercrm-lxdtf) | kw: Microservices Architecture in 2026: 5 Best Practices
+- **2026-06-23** | [Best Practices for Microservice Architecture in 2026 - krishangtechnolab](https://www.krishangtechnolab.com/blog/best-practices-for-microservice-architecture/) | kw: Best Practices for Microservice Architecture in 2026
+- **2026-06-23** | [Top 10 Microservices Architecture Best Practices for 2026 - tekrecruiter](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: Top 10 Microservices Architecture Best Practices for 2026
+
 - **2026-06-23** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System Design Patterns
 - **2026-06-23** | [The 2026 System Design Interview Cheat Sheet: Every Core Concept on One Page](https://designgurus.substack.com/p/the-2026-system-design-interview) | kw: The 2026 System Design Interview Cheat S
 - **2026-06-23** | [System Design Interview: The Complete 2026 Prep Guide](https://prachub.com/resources/system-design-interview-the-complete-2026-prep-guide) | kw: System Design Interview
@@ -29,16 +39,6 @@
 - **2026-06-23** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed
 - **2026-06-23** | [How I Build a Distributed System in 2026: Principles, Patterns, and ..](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: Build
 
-- **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
-- **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: System
-- **2026-06-23** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-control-panel-in-windows-10) | kw: open
-- **2026-06-23** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: SYSTEM
-- **2026-06-23** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: What
-- **2026-06-23** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: System
-- **2026-06-23** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: SYSTEM
-- **2026-06-23** | [SYSTEM | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/system) | kw: SYSTEM
-- **2026-06-23** | [SYSTEM | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/system) | kw: SYSTEM
-- **2026-06-23** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-and-view-system-information-panel-in-windows) | kw: open
 
 - **2026-06-23** | [The Complete System Design Interview Guide 2026 | by TechEon](https://atul4u.medium.com/the-complete-system-design-interview-guide-2026-1784f8beb092) | kw: The Complete System Design Interview Gui
 - **2026-06-23** | [How I Would Prepare for a System Design Interview in 2026](https://interviewnoodle.com/how-i-would-prepare-for-a-system-design-interview-in-2026-5941a974499d) | kw: How I Would Prepare for a System Design 
@@ -3342,7 +3342,6 @@
 
 - **2026-06-11** | [6 cách mở Computer/System Properties trong Windows 10](https://quantrimang.com/cong-nghe/mo-system-properties-trong-windows-10-172447) | kw: load balancing, caching patterns
 - **2026-06-11** | [SYSTEM | Định nghĩa trong Từ điển tiếng Anh Cambridge](https://dictionary.cambridge.org/vi/dictionary/english/system) | kw: load balancing, caching patterns
-- **2026-06-11** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: load balancing, caching patterns
 - **2026-06-11** | [System](https://www.system.com/) | kw: load balancing, caching patterns
 - **2026-06-11** | [System | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/system) | kw: load balancing, caching patterns
 - **2026-06-11** | [System configuration tools in Windows - Microsoft Support](https://support.microsoft.com/en-us/windows/system-configuration-tools-in-windows-f8a49657-b038-43b8-82d3-28bea0c5666b) | kw: load balancing, caching patterns
