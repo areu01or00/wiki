@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: Amazon | SDE2 | Feb 2026 [Selected] - Di
+- **2026-06-23** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetC
+
 - **2026-06-23** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Asked
 - **2026-06-23** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: prepare
 

@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-23** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026
+- **2026-06-23** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026]
+- **2026-06-23** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Progra
+- **2026-06-23** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which Functional Programming Languages S
+- **2026-06-23** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads
+- **2026-06-23** | [What is Functional Programming? A Look at the Programming ... - Tarides](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective/) | kw: What is Functional Programming? A Look a
+- **2026-06-23** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does Rust Support Functional Programming
+- **2026-06-23** | [Hello, Haskell: Getting Started in 2026 · lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell
+
 - **2026-06-23** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Haskell
 - **2026-06-23** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for
 - **2026-06-23** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional

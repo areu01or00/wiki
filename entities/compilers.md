@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-23** | [Compilers I Stanford Online](https://online.stanford.edu/courses/soe-ycscs1-compilers) | kw: Compilers I Stanford Online
+- **2026-06-23** | [11 Compilers | Computation Structures | Electrical Engineering...](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/) | kw: 11 Compilers | Computation Structures | 
+- **2026-06-23** | [Best Open Source Compilers 2026 - SourceForge](https://sourceforge.net/directory/compilers/) | kw: Best Open Source Compilers 2026 - Source
+- **2026-06-23** | [What Is a Compiler? The Complete Guide to How Code Becomes...](https://www.sciencenewstoday.org/what-is-a-compiler-the-complete-guide-to-how-code-becomes-software) | kw: What Is a Compiler? The Complete Guide t
+
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: LLVM
 - **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: llvm
 - **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ... - GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: llvm

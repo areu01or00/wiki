@@ -103,13 +103,6 @@
         "Engineers"
       ],
       "last_result_hashes": [
-        "07550bd5bf7eb2464189443840582802",
-        "dbf8e0c58091b15f2142c1ba6af512c4",
-        "10ee30a2694a972513965e5bdfbe0d98",
-        "be6431b62c4b712f6f0fa4fe7d011e37",
-        "5d936240d08729ba1773f5ef7eb31387",
-        "2e7fbd2776e01b57cce65bf95c873d01",
-        "b2def24a344cb2beba0f6cc61407462b",
         "19c77f07b0d064b70d71b13d2d3fdc0b",
         "ad2aec58bb8e7d21b2aff0d0c24905cd",
         "193aef9c78464c2e148b46fbdd9ccf84",
@@ -122,32 +115,27 @@
         "95a58c1932bb63705534a342f68b440d",
         "a4f767c8d886ec8f2fab1999efc97283",
         "401ac43fcb266731bf806fa34acbf462",
-        "fd3b08fa9ad96f88d592aea4585d4a60"
+        "fd3b08fa9ad96f88d592aea4585d4a60",
+        "e386d25ff1816abec2a4433c860ed876",
+        "bb2281be641c13c087b3bfd94faf2e29",
+        "5e40d84c27922d7191778e20c118b6e9",
+        "723a72e43818348046e4c9cd461691bb",
+        "38356f284740c83553dbab1846c99959",
+        "fde2e620a9be8833a9c15bcafc435062",
+        "d3099c6517032e4d8a49b61853da6add"
       ],
-      "last_run": "2026-06-23T15:02:28Z",
+      "last_run": "2026-06-23T15:17:44Z",
       "new_sub_topics_this_run": [
-        "Bold",
-        "for",
-        "2026",
-        "Scalable",
-        "pdpspectra",
-        "Mastering",
-        "The",
-        "How",
-        "open",
-        "What",
-        "TechEon",
-        "Would",
-        "latency",
-        "Interview",
-        "Prepare",
-        "Complete",
-        "advice",
-        "questions",
-        "scaling"
+        "50 System Design Patterns Every Engineer",
+        "Modern Software Architecture Patterns Th",
+        "A Guide to Large-Scale Distributed Syste",
+        "9 Essential Software Architecture Patter",
+        "The Only 12-Week High-Level System Desig",
+        "12 Essential Distributed System Design P",
+        "From Monolith to Agentic AI - James East"
       ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 7,
+      "_new_total_for_digest": 7
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -248,10 +236,6 @@
         "compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst"
       ],
       "last_result_hashes": [
-        "d1fd932d1da3adfb0dbab8bdc1cf0621",
-        "9baf14a8b90ba87030a2c9d4f50335e0",
-        "d04fc9c435afca9e2653797c770e5cda",
-        "e782e5cfec0aac8483730db128ffda54",
         "695ab476c7cbd24b6ef64b844713108e",
         "df581a22e0cf096e525cbe4716c834a5",
         "79f4ddf873dbf67c746be2d871fbeb46",
@@ -267,22 +251,21 @@
         "0e8a0226b69abb703b30693fb544a14d",
         "b7d3464c157a4d7b6a9b324450e9451c",
         "1bf238bd766bcbf3d121229638fb0844",
-        "3d4b74ce59781d7b09a8dce4e68d1434"
+        "3d4b74ce59781d7b09a8dce4e68d1434",
+        "2290182ec6eddfdf869980defa14cc61",
+        "3adea4401891b2ee5c5c366d6e5caeac",
+        "fe9109740810c6fcfd30f3ae62e247fa",
+        "4b1e29bea95c86c7c4e2575062ea5145"
       ],
-      "last_run": "2026-06-23T15:02:28Z",
+      "last_run": "2026-06-23T15:17:44Z",
       "new_sub_topics_this_run": [
-        "The",
-        "compiler-course-2026",
-        "Runtimes",
-        "justjit",
-        "PyPI",
-        "JIT",
-        "with",
-        "Best",
-        "orcjit"
+        "Compilers I Stanford Online",
+        "11 Compilers | Computation Structures | ",
+        "Best Open Source Compilers 2026 - Source",
+        "What Is a Compiler? The Complete Guide t"
       ],
-      "last_new_count": 6,
-      "_new_total_for_digest": 6
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -403,7 +386,6 @@
         "Bernat"
       ],
       "last_result_hashes": [
-        "8e216c088ce05eeb12493ddc9834d218",
         "de6f04da6e7a031bda3acd2fa272cf4a",
         "8e534abc49a1eab4a892c0b5a8ae5dcb",
         "931c1423f81e0948928e12c09b9b385e",
@@ -422,33 +404,15 @@
         "686812076d5de90d1c2ef77d554beb01",
         "c4981204de3af4a493b80247f29701a5",
         "474d9e795c4f52bbdf5cfdeabfe5907f",
-        "309f66f29e1d046c77d14541fdd68a0c"
+        "309f66f29e1d046c77d14541fdd68a0c",
+        "559820eef1609a803073fbdaec85d213"
       ],
-      "last_run": "2026-06-23T15:02:28Z",
+      "last_run": "2026-06-23T15:17:44Z",
       "new_sub_topics_this_run": [
-        "Wikipedia",
-        "released",
-        "now",
-        "gradually",
-        "typed",
-        "and",
-        "the",
-        "2026",
-        "Docs",
-        "What",
-        "systems",
-        "you",
-        "find",
-        "for",
-        "extent",
-        "theory",
-        "relevant",
-        "TypeScript - Wikipedia",
-        "TypeScript 6.0 in 2026: The",
-        "TypeScript vs JavaScript: 73% of"
+        "Navigating the Language Labyrinth"
       ],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -558,14 +522,6 @@
         "Monads"
       ],
       "last_result_hashes": [
-        "5e9924e8af3ae3219f50c4c054e4a185",
-        "429c726f845d82832d64c89879a0f069",
-        "bef7f26ae21c2bd2ce12ad559b0f81ae",
-        "d466cc6d369e7ccaa43f109355b1ba72",
-        "46f627c329d29c15b5e9ec5e161c3831",
-        "7e2d5cfb5ac8dd761867fb9d102f3175",
-        "d2a5ab12820b7837480a2d596683e677",
-        "cc9f3837164b6e0e6edde576a14a1c3f",
         "df332d266a9393afd65af20ab5899d2a",
         "f706c0cd772a8e254641eb9214be126d",
         "118ad77388f20a14d3b8caa92bbe1e1f",
@@ -577,33 +533,29 @@
         "be9da9017ce6e02348e052f2e7dda252",
         "5c922e72c87b50652de7ca7127710779",
         "387ce332eb1b37bfba2517605e07a785",
-        "2d39e79a0ceacca4505658529d1f77bd"
+        "2d39e79a0ceacca4505658529d1f77bd",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "449f1936d11b3408b5111b8fbfc6e205",
+        "48e396ad3bb766dd1b0be8823cba3259",
+        "c2fefc572a2578f6f202a147d877925b",
+        "e2809728031a0a794b40bbdaef5a85f9",
+        "c091fe17605fcaf38b42d3e5f73ccacc",
+        "0f2d3172728b4c41fd9effec2767c946",
+        "2ce5775930209e8a8c3a28a2f7f1a4a5"
       ],
-      "last_run": "2026-06-23T15:02:28Z",
+      "last_run": "2026-06-23T15:17:44Z",
       "new_sub_topics_this_run": [
-        "Hello",
-        "Getting",
-        "Started",
-        "2026",
-        "lang",
-        "for",
-        "functionalprogramming",
-        "Reddit",
-        "Programmers",
-        "take",
-        "look",
-        "Meets",
-        "You",
-        "Issue",
-        "529",
-        "Weekly",
-        "Newsletter",
-        "What",
-        "your",
-        "wish-list"
+        "Functional Programming in 2026",
+        "Haskell Guide [2026]",
+        "The Practical Value of Functional Progra",
+        "Which Functional Programming Languages S",
+        "How I Learned Monads",
+        "What is Functional Programming? A Look a",
+        "Does Rust Support Functional Programming",
+        "Hello, Haskell"
       ],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_new_count": 8,
+      "_new_total_for_digest": 8
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -708,8 +660,6 @@
         "Khan"
       ],
       "last_result_hashes": [
-        "6ad4424d61d8084aeff283da158f5951",
-        "1ff2c45205d19d05c322321f335f0949",
         "efaca53a4fb3332a168f55b43aac804a",
         "365570d3d2e5c9c4f03cec946287df02",
         "8b3a80ae022167a98409b08c2dfb8694",
@@ -727,15 +677,14 @@
         "0de22e3ef1176e4fe34bb72a86e663b2",
         "4e3936ee53aa5dd2d237081732d0856b",
         "7827ab24e9d276e3b17d86a148741a99",
-        "51bdec45c83dc444c8040f8f04671877"
+        "51bdec45c83dc444c8040f8f04671877",
+        "eafd918237f1fdcc99e04073cd8d13ea",
+        "867c193f14d86dba8e19be9953c4f21a"
       ],
-      "last_run": "2026-06-23T15:02:28Z",
+      "last_run": "2026-06-23T15:17:44Z",
       "new_sub_topics_this_run": [
-        "Most",
-        "2026",
-        "How",
-        "leetcode",
-        "dsa"
+        "Amazon | SDE2 | Feb 2026 [Selected] - Di",
+        "Are Big Tech interviews still DSA, LeetC"
       ],
       "last_new_count": 2,
       "_new_total_for_digest": 2
@@ -844,7 +793,6 @@
         "Download"
       ],
       "last_result_hashes": [
-        "9b18ec30f332e37000ed0977c0075d83",
         "3977a42e266cba0d9724f6994662a434",
         "119ff08981a6650f712f34c5191bf3f0",
         "186472734b3375b680871e13a0117ace",
@@ -863,12 +811,12 @@
         "6287e8dc37ecb68d7af1bc0e4b769a4f",
         "80cb1ee80342b3950bba93fd2801d04f",
         "bc46e2bcc23714c5243a5210b1d2f5ae",
-        "17f40f751da9a1c9558ca7dbf958ae7e"
+        "17f40f751da9a1c9558ca7dbf958ae7e",
+        "a1233cdbbbaf5c3624b23b99f9297143"
       ],
-      "last_run": "2026-06-23T15:02:28Z",
+      "last_run": "2026-06-23T15:17:44Z",
       "new_sub_topics_this_run": [
-        "2026",
-        "Python (programming language) - Wikipedia"
+        "How Python's GIL actually works (and whe"
       ],
       "last_new_count": 1,
       "_new_total_for_digest": 1
