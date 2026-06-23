@@ -17,6 +17,21 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-23** | [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.22001) | kw: Randomized YaRN Improves Length | source: arxiv-cs-cl
+- **2026-06-23** | [Can LLMs Reliably Self-Report Adversarial Prefills](https://arxiv.org/abs/2606.22002) | kw: Can LLMs Reliably Self-Report | source: arxiv-cs-cl
+- **2026-06-23** | [Tapered Language Models](https://arxiv.org/abs/2606.22003) | kw: Tapered Language Models | source: arxiv-cs-cl
+- **2026-06-23** | [EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions](https://arxiv.org/abs/2606.22004) | kw: EnterpriseClawBench Benchmarking Agents from | source: arxiv-cs-cl
+- **2026-06-23** | [Evaluation Awareness Is Not One Capability](https://arxiv.org/abs/2606.22005) | kw: Evaluation Awareness Is Not | source: arxiv-cs-cl
+- **2026-06-23** | [Krea 2 Raw - Hugging Face](https://huggingface.co/krea/Krea-2-Raw) | kw: Krea 2 | source: krea
+- **2026-06-23** | [Krea 2 Turbo - Hugging Face](https://huggingface.co/krea/Krea-2-Turbo) | kw: Krea 2 | source: krea
+- **2026-06-23** | [DeepSeek-R1 paper](https://arxiv.org/abs/2501.12930) | kw: DeepSeek-R1 paper | source: deepseek-releases
+- **2026-06-23** | [Sakana Fugu Technical Report - arXiv](https://arxiv.org/html/2606.21228v1) | kw: Sakana Fugu Technical Report | source: sakana-releases
+- **2026-06-23** | [Decoding Sakana Fugu Technical Report - Outcome School](https://outcomeschool.com/blog/decoding-sakana-fugu) | kw: Decoding Sakana Fugu Technical | source: sakana-releases
+- **2026-06-23** | [Meet Fugu: The AI Model That Doesn't Answer Your Question - XYZ Labs](https://xyzlabs.substack.com/p/meet-fugu-the-ai-model-that-doesnt) | kw: Meet Fugu The AI | source: sakana-releases
+- **2026-06-23** | [Sakana Fugu: The Model That Outsmarts Claude Fable 5 - Labellerr](https://www.labellerr.com/blog/sakana-fugu-multi-agent-ai-system/) | kw: Sakana Fugu The Model | source: sakana-releases
+- **2026-06-23** | [Sakana Fugu Might Be the Most Important AI Release Nobody Noticed](https://medium.com/@kanishks772/sakana-fugu-might-be-the-most-important-ai-release-nobody-noticed-32b29c17a78b) | kw: Sakana Fugu Might Be | source: sakana-releases
+- **2026-06-23** | [Sakana AI Fugu Review: Fugu Ultra vs Claude Fable 5 - Coursiv](https://coursiv.io/blog/sakana-ai-fugu) | kw: Sakana AI Fugu Review | source: sakana-releases
+
 - **2026-06-23** | [Class Leading, Open-Source AI | Download Llama](https://developer.meta.com/ai/llama-downloads/) | kw: Llama 4 | source: meta-llama-releases
 - **2026-06-23** | [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) | kw: GPT-5.5 | source: openai-releases
 - **2026-06-23** | [No Claude Fable 5? No problem: Sakana achieves frontier performance](https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system) | kw: Claude Fable | source: sakana-releases
@@ -46,3 +61,5 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 - **sakana-releases** — cycle 3 — Sakana AI Fugu model release Japanese lab
 - **swiss-ai-apertus** — cycle 3 — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
+- **krea** — cycle 4 — Krea AI Krea 2 image generation model open weights
+
