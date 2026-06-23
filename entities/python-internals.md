@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-23** | [Scaling asyncio on Free-Threaded Python - Quansight Labs](https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python) | kw: Scaling asyncio on Free-Threaded Python
+
 - **2026-06-23** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: what python global
 - **2026-06-23** | [Python support for free threading — Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: python support free
 - **2026-06-23** | [Thread states and the global interpreter lock - Python](https://docs.python.org/3/c-api/threads.html) | kw: thread states global
