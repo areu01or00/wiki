@@ -17,6 +17,13 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-23** | [The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model](http://arxiv.org/abs/2606.23546v1) | kw: The Energy Consumption of Transformer | source: arxiv-cs-cl
+- **2026-06-23** | [ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models](http://arxiv.org/abs/2606.23404v1) | kw: ReasoningLens Hierarchical Visualization and Diagnostic | source: arxiv-cs-cl
+- **2026-06-23** | [Tmax: A simple recipe for terminal agents](http://arxiv.org/abs/2606.23321v1) | kw: Tmax A simple recipe for | source: arxiv-cs-cl
+- **2026-06-23** | [DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models](http://arxiv.org/abs/2606.23181v1) | kw: DART Draft-Agreement Routing for Training-Free | source: arxiv-cs-cl
+- **2026-06-23** | [PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2606.23092v1) | kw: PIVOTSBench Evaluating Fine-Grained Interpersonal Relationship | source: arxiv-cs-cl
+- **2026-06-23** | [Qwen3.6-35B-A3B model card on Hugging Face](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) | kw: Qwen3.6-35B-A3B | source: qwen-releases
+
 - **2026-06-23** | [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.22001) | kw: Randomized YaRN Improves Length | source: arxiv-cs-cl
 - **2026-06-23** | [Can LLMs Reliably Self-Report Adversarial Prefills](https://arxiv.org/abs/2606.22002) | kw: Can LLMs Reliably Self-Report | source: arxiv-cs-cl
 - **2026-06-23** | [Tapered Language Models](https://arxiv.org/abs/2606.22003) | kw: Tapered Language Models | source: arxiv-cs-cl
