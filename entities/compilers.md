@@ -1,6 +1,7 @@
 # Compilers
 
 ## Updates
+
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
 - **2026-06-24** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why is llvm considered unsuitable for im
 - **2026-06-24** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize JIT Compilation with LLVM'

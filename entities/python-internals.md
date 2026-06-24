@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Thread states and the global interpreter lock — Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock — Py
+- **2026-06-24** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites
+- **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and ...](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: The 2026 Python Renaissance: No-GIL Speed, UV Domi
+- **2026-06-24** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye GIL: Exploring free-threaded mode in Pytho
+- **2026-06-24** | [Using `malloc_trim` to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using `malloc_trim` to help with memory management
+- **2026-06-24** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: 5 Python Performance Killers Expert Fixes 2026 Gui
+- **2026-06-24** | [Python's Liberation: The GIL is Finally Optional (And Why ... - Medium](https://medium.com/@aftab001x/pythons-liberation-the-gil-is-finally-optional-and-why-this-changes-everything-5579b43e969c) | kw: Python's Liberation: The GIL is Finally Optional (
+- **2026-06-24** | [Python 3.14: The present and future of the language of the moment](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: Python 3.14: The present and future of the languag
+- **2026-06-24** | [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Faster Python: Unlocking the Python Global Interpr
+
 - **2026-06-24** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: Memory, GIL, and Bytecode
 - **2026-06-24** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter Lo
 - **2026-06-24** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Derive Maximum Code Performance and...

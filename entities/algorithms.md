@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode Problems in 2026 (40 Companies
+- **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy 
+- **2026-06-24** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms in
+- **2026-06-24** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: Amazon \| SDE2 \| Feb 2026 [Selected] - Discuss - Le
+- **2026-06-24** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode Isn't Dead in 2026 — But It's No Longer E
+- **2026-06-24** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data Structures & Algorithms Interview Questions: 
+- **2026-06-24** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: Data Structures/Algorithms to go over the day of t
+- **2026-06-24** | [Amazon Interview | SDE-1 | Selected - Discuss - LeetCode](https://leetcode.com/discuss/post/8029194) | kw: Amazon Interview \| SDE-1 \| Selected - Discuss - Le
+- **2026-06-24** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: LeetCode Alone Won't Save You in 2026 — Prepare Th
+- **2026-06-24** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Top 100 DSA Interview Questions - Discuss - LeetCo
+
 - **2026-06-24** | [data-structures · GitHub Topics · GitHub](https://github.com/topics/data-structures) | kw: data-structures · GitHub Topics · GitHub
 - **2026-06-24** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: Comprehensive List of 50 Frequently Aske
 - **2026-06-24** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode

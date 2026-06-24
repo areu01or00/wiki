@@ -1,6 +1,15 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 
+- **2026-06-24** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture P
+- **2026-06-24** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed Systems Patterns 2026 \| pdpspectra
+- **2026-06-24** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed Systems \| Architecture Patterns · GitS
+- **2026-06-24** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed Systems Patterns Every Backend Enginee
+- **2026-06-24** | [Microservices Architecture Patterns in 2026: Mastering Distributed ..](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices Architecture Patterns in 2026: Maste
+- **2026-06-24** | [How I Build a Distributed System in 2026: Principles, Patterns, and ...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System in 2026: Principl
+- **2026-06-24** | [Distributed System Design: the complete guide to building scalable ...](https://grokkingthesystemdesign.com/guides/distributed-system-design/) | kw: Distributed System Design: the complete guide to b
+
 - **2026-06-24** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer
 - **2026-06-24** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: The Complete Guide 2026
 - **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System Design in 2

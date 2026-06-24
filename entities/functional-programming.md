@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam 
+- **2026-06-24** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming — Mo
+- **2026-06-24** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell Guide [2026]: Functional Programming That 
+- **2026-06-24** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does Rust Support Functional Programming Idioms? E
+- **2026-06-24** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: Which Functional Programming Languages Should You 
+- **2026-06-24** | [Why Haskell Is the Language for Correctness in 2026](https://www.iheart.com/podcast/53-the-programming-languages-p-334454825/episode/why-haskell-is-the-language-for-336920431/) | kw: Why Haskell Is the Language for Correctness in 202
+- **2026-06-24** | [Rust vs Haskell. Two Languages That Both Want to Save… | by ... - Medium](https://medium.com/rustaceans/rust-vs-haskell-22d581f2686d) | kw: Rust vs Haskell. Two Languages That Both Want to S
+- **2026-06-24** | [Hello, Haskell: Getting Started in 2026 · lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026 · lukastym
+
 - **2026-06-24** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026
 - **2026-06-24** | [functional programming - How do I combine monads in Haskell?](https://stackoverflow.com/questions/1126651/how-do-i-combine-monads-in-haskell) | kw: functional programming
 - **2026-06-24** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Exploring Functional...
