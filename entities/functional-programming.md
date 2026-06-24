@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Functional Programming in 2026: Haskell vs Gleam vs Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: rust
+- **2026-06-24** | [Haskell Guide 2026 Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell
+- **2026-06-24** | [The Practical Value of Functional Programming](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: the practical value
+- **2026-06-24** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: which functional programming
+
 - **2026-06-24** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional Programmers need to take a look at Zig
 - **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads
 - **2026-06-24** | [Functional programmers need to take a look at Zig - Hacker News](https://news.ycombinator.com/item?id=47957624) | kw: Functional programmers need to take a look at Zig

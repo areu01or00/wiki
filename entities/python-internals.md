@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [What's new in Python 3.14 - Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: cpython
+- **2026-06-24** | [Python 3.14 - Astral](https://astral.sh/blog/python-3.14) | kw: cpython
+- **2026-06-24** | [Python 3.14 Free-threading: True Parallelism without GIL - LinkedIn](https://www.linkedin.com/pulse/python-314-free-threading-true-parallelism-without-gil-dayal-b5tic) | kw: gil
+- **2026-06-24** | [Feature Free-Threaded Python (3.14t / nogil) Support for SGLang](https://github.com/sgl-project/sglang/issues/22889) | kw: gil
+- **2026-06-24** | [Python 3.14 Released - Reddit](https://www.reddit.com/r/Python/comments/1o0gfp1/python_314_released/) | kw: cpython
+
 - **2026-06-24** | [CPython Internals: How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: CPython Internals
 - **2026-06-24** | [Free Threading internals: PyMutex - Victor Stinner blog 3](https://vstinner.github.io/free-threading-pymutex.html) | kw: Free Threading internals
 - **2026-06-24** | [Python list Internals: How Dynamic Arrays Work Under the Hood](https://dev.to/jamesli/python-list-internals-how-dynamic-arrays-work-under-the-hood-1d1h) | kw: Python list Internals

@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir
+- **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type-inference
+- **2026-06-24** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type system |
+- **2026-06-24** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating the language
+
 - **2026-06-24** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system
 - **2026-06-24** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth
 - **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynam...
