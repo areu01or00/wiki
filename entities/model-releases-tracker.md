@@ -80,7 +80,3 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **krea** — cycle 4 — Krea AI Krea 2 image generation model open weights
 - **MiniMax** — cycle 9 — MiniMax AI MiniMax-M3 release new model multimodal MoE
 
-- **sakana-releases** — cycle 3 — Sakana AI Fugu model release Japanese lab
-- **swiss-ai-apertus** — cycle 3 — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
-- **krea** — cycle 4 — Krea AI Krea 2 image generation model open weights
-
