@@ -17,6 +17,16 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-24** | [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report) | kw: Krea 2 Technical Report | source: krea
+- **2026-06-24** | [Pulsar 16B: Built by Multiverse Computing, Validated by NVIDIA](https://multiversecomputing.com/resources/pulsar-16b-built-by-multiverse-computing-validated-by-nvidia) | kw: Pulsar 16B Multiverse NVIDIA Apache | source: multiverse-computing
+- **2026-06-24** | [GLM-5.2: Built for Long-Horizon Tasks - Z.ai](https://z.ai/blog/glm-5.2) | kw: GLM-5.2 Long-Horizon Tasks Z.ai | source: glm-releases
+- **2026-06-24** | [Self-Compacting Language Model Agents](http://arxiv.org/abs/2606.23525v1) | kw: Self-Compacting Language Model Agents | source: arxiv-cs-cl
+- **2026-06-24** | [TriggerBench: Investigating Prospective Memory for Large Language Models](http://arxiv.org/abs/2606.23459v1) | kw: TriggerBench: Investigating Prospective Memory for Large Lan | source: arxiv-cs-cl
+- **2026-06-24** | [Towards Root Memories: Benchmarking and Enhancing Implicit Logical Memory Retrieval for Personalized LLMs](http://arxiv.org/abs/2606.23283v1) | kw: Towards Root Memories: Benchmarking and Enhancing Implicit L | source: arxiv-cs-cl
+- **2026-06-24** | [MuPPET: A Benchmark for Contextual Privacy of LLM Assistants in Multi-Party Conversations](http://arxiv.org/abs/2606.23217v1) | kw: MuPPET: A Benchmark for Contextual Privacy of LLM Assistants | source: arxiv-cs-cl
+- **2026-06-24** | [Capable but Careless: Do Computer-Use Agents Follow Contextual Integrity?](http://arxiv.org/abs/2606.23189v1) | kw: Capable but Careless: Do Computer-Use Agents Follow Contextu | source: arxiv-cs-cl
+- **2026-06-24** | [Self-Evolution for Multi-Turn Tool-Calling Agents via Divergence-Point Preference Learning](http://arxiv.org/abs/2606.23112v1) | kw: Self-Evolution for Multi-Turn Tool-Calling Agents via Diverg | source: arxiv-cs-cl
+
 - **2026-06-23** | [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) | kw: Gemma 4 12B encoder-free multimodal | source: google-deepmind-releases
 - **2026-06-23** | [google/gemma-4-12B - Hugging Face](https://huggingface.co/google/gemma-4-12B) | kw: google/gemma-4-12B Hugging Face | source: huggingface-trending
 - **2026-06-23** | [MiniMax M3: Frontier Coding, 1M Context, Native Multimodality](https://www.minimax.io/blog/minimax-m3) | kw: MiniMax M3 official blog release | source: MiniMax
@@ -85,3 +95,4 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **swiss-ai-apertus** - discovered cycle 3 - query: `Swiss AI Apertus EPFL ETH Zurich multilingual open model release`
 - **krea** - discovered cycle 4 - query: `Krea AI Krea 2 image generation model open weights`
 - **MiniMax** - discovered cycle 9 - query: `MiniMax AI MiniMax-M3 release new model multimodal MoE`
+- **multiverse-computing** - discovered cycle 12 - query: `Multiverse Computing Pulsar 16B LLM open weights Apache 2.0`
