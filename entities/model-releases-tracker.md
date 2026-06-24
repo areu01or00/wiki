@@ -72,6 +72,20 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-06-23** | [Trending Papers - Hugging Face](https://huggingface.co/papers/trending) | kw: Trending | source: huggingface-trending
 
 
+- **2026-06-24** | [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](https://arxiv.org/abs/2606.24820v1) | kw: SHERLOC: Structured Diagnostic Localization for Code Repair Agents | source: arxiv-cs-cl
+- **2026-06-24** | [AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning](https://arxiv.org/abs/2606.24526v1) | kw: AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document | source: arxiv-cs-cl
+- **2026-06-24** | [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](https://arxiv.org/abs/2606.24530v1) | kw: NatureBench: Can Coding Agents Match the Published SOTA | source: arxiv-cs-cl
+- **2026-06-24** | [Are We Ready For An Agent-Native Memory System?](https://arxiv.org/abs/2606.24775v1) | kw: Are We Ready For An Agent-Native Memory System? | source: arxiv-cs-cl
+- **2026-06-24** | [Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity](https://arxiv.org/abs/2606.24623v1) | kw: Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality | source: arxiv-cs-cl
+- **2026-06-24** | [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597v1) | kw: Qwen-AgentWorld: Language World Models for General Agents | source: arxiv-cs-cl
+- **2026-06-24** | [MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery](https://arxiv.org/abs/2606.24595v1) | kw: MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State | source: arxiv-cs-cl
+- **2026-06-24** | [Bayesian control for coding agents](https://arxiv.org/abs/2606.24453v1) | kw: Bayesian control for coding agents | source: arxiv-cs-cl
+- **2026-06-24** | [Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning](https://arxiv.org/abs/2606.24428v1) | kw: Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for | source: arxiv-cs-cl
+- **2026-06-24** | [Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models](https://arxiv.org/abs/2606.24841v1) | kw: Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies | source: arxiv-cs-cl
+- **2026-06-24** | [Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural Narratives in Large Language Models](https://arxiv.org/abs/2606.24610v1) | kw: Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural | source: arxiv-cs-cl
+- **2026-06-24** | [AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability](https://arxiv.org/abs/2606.24589v1) | kw: AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and | source: arxiv-cs-cl
+
+
 ## Auto-Discovered Profiles
 *Profiles auto-added by discovery layer each cycle. Tracked from this cycle onwards.*
 
