@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: haskell
+- **2026-06-24** | [Haskell - Wikipedia](https://en.wikipedia.org/wiki/Haskell) | kw: haskell
+- **2026-06-24** | [Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/) | kw: haskell
+- **2026-06-24** | [Haskell Language](https://www.haskell.org/) | kw: haskell.org
+- **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monad
+- **2026-06-24** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: monad
+- **2026-06-24** | [functional programming - Monad in plain English? (Stack Overflow)](https://stackoverflow.com/questions/2704652/monad-in-plain-english-for-the-oop-programmer-with-no-fp-background) | kw: monad
+- **2026-06-24** | [Understanding Monads in Functional Programming - Algocademy](https://algocademy.com/blog/understanding-monads-in-functional-programming-a-comprehensive-guide/) | kw: monad
+- **2026-06-24** | [Monad - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Monad) | kw: monad
+- **2026-06-24** | [What Is a Monad? | Baeldung on Computer Science](https://www.baeldung.com/cs/monad) | kw: monad
+
 - **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.m.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional
 - **2026-06-24** | [Monad laws - HaskellWiki](https://wiki.haskell.org/Monad_laws) | kw: functional
 - **2026-06-24** | [functional programming - Monad and Functor law for Monad and Functor type class in Haskell](https://stackoverflow.com/questions/76360208/monad-and-functor-law-for-monad-and-functor-type-class-in-haskell) | kw: functional

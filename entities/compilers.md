@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Getting Started with the LLVM System](https://llvm.org/docs/GettingStarted.html) | kw: docs
+- **2026-06-24** | [About — LLVM 23.0.0git documentation](https://llvm.org/docs/) | kw: docs
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project - Features](https://llvm.org/Features.html) | kw: features
+- **2026-06-24** | [LLVM - GitHub](https://github.com/llvm) | kw: github
+- **2026-06-24** | [Download LLVM releases](https://releases.llvm.org/) | kw: release
+
 - **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ..](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
 - **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ..](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers

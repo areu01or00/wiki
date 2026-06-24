@@ -1,6 +1,23 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [Microservices architecture - Atlassian](https://www.atlassian.com/microservices/microservices-architecture) | kw: atlassian
+- **2026-06-24** | [What are Microservices? | AWS](https://aws.amazon.com/microservices/) | kw: aws
+- **2026-06-24** | [What Is Caching? | Microsoft Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-caching/) | kw: azure
+- **2026-06-24** | [Cache (computing) - Wikipedia](https://en.wikipedia.org/wiki/Cache_(computing)) | kw: caching
+- **2026-06-24** | [What is Caching and How it Works | AWS](https://aws.amazon.com/caching/) | kw: caching
+- **2026-06-24** | [Caching - System Design Concept - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/caching-system-design-concept-for-beginners/) | kw: caching
+- **2026-06-24** | [What Is Caching? | Built In](https://builtin.com/articles/caching) | kw: caching
+- **2026-06-24** | [Caching Essentials: Types, Strategies, and Best Practices](https://medium.com/@yaroslavzhbankov/caching-essentials-types-strategies-and-best-practices-459493cc47d9) | kw: caching
+- **2026-06-24** | [What is Microservices Architecture? - Google Cloud](https://cloud.google.com/learn/what-is-microservices-architecture) | kw: gcp
+- **2026-06-24** | [HTTP Caching explained](https://http.dev/caching) | kw: http caching
+- **2026-06-24** | [What are microservices? - IBM](https://www.ibm.com/think/topics/microservices) | kw: ibm
+- **2026-06-24** | [Microservices - Wikipedia](https://en.wikipedia.org/wiki/Microservices) | kw: microservices
+- **2026-06-24** | [Microservices - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/microservices/) | kw: microservices
+- **2026-06-24** | [What are microservices?](https://microservices.io/) | kw: microservices.io
+- **2026-06-24** | [What Are Microservices? How Microservices Architecture Works](https://middleware.io/blog/microservices-architecture/) | kw: middleware
+- **2026-06-24** | [What are Microservices? | TechTarget](https://www.techtarget.com/searchapparchitecture/definition/microservices) | kw: techtarget
+
 - **2026-06-24** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
 - **2026-06-24** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
 - **2026-06-24** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: system-design

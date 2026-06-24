@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Generics in Java - GeeksforGeeks](https://www.geeksforgeeks.org/java/generics-in-java/) | kw: generics
+- **2026-06-24** | [Java Generics - W3Schools](https://www.w3schools.com/java/java_generics.asp) | kw: generics
+- **2026-06-24** | [Lesson: Generics - Oracle](https://docs.oracle.com/javase/tutorial/java/generics/) | kw: generics
+- **2026-06-24** | [Introducing Generics - Dev.java](https://dev.java/learn/generics/intro/) | kw: generics
+- **2026-06-24** | [GitHub - microsoft/TypeScript](https://github.com/microsoft/TypeScript) | kw: github
+- **2026-06-24** | [TypeScript - Wikipedia](https://en.wikipedia.org/wiki/TypeScript) | kw: typescript
+- **2026-06-24** | [TypeScript: JavaScript With Syntax For Types](https://www.typescriptlang.org/) | kw: typescript
+- **2026-06-24** | [Announcing TypeScript 7.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/) | kw: typescript
+
 - **2026-06-24** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type-systems
 - **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type-systems
 - **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type-systems

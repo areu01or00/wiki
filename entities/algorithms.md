@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
+- **2026-06-24** | [List of algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms) | kw: algorithms
+- **2026-06-24** | [Algorithm | Britannica](https://www.britannica.com/science/algorithm) | kw: britannica
+- **2026-06-24** | [Algorithms | Khan Academy](https://www.khanacademy.com/computing/computer-science/algorithms) | kw: khan
+- **2026-06-24** | [Introduction to Algorithms - MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: mit
+- **2026-06-24** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: sedgewick
+
 - **2026-06-24** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
 - **2026-06-24** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Thinking ..](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: algorithms
 - **2026-06-24** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: algorithms

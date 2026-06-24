@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [I Benchmarked Python 3.14's Free-Threading on 5 Real Tasks](https://python.plainenglish.io/i-benchmarked-python-3-14s-free-threading-on-5-real-tasks-here-s-what-actually-happened-d7088b7e4fed) | kw: free-threading
+- **2026-06-24** | [Free-Threading Python vs Multiprocessing: Overhead, Memory](https://www.reddit.com/r/Python/comments/1pw2hve/freethreading_python_vs_multiprocessing_overhead/) | kw: free-threading
+- **2026-06-24** | [Python 3.14 No-GIL vs Rust: We Benchmarked Both (4x Speedup)](https://www.navyaai.com/blog/breaking-free-from-pythons-gil) | kw: no-gil
+- **2026-06-24** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python
+- **2026-06-24** | [Python 3.14 Is Here. How Fast Is It? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) | kw: python-3.14
+- **2026-06-24** | [Welcome to Python.org](https://www.python.org/) | kw: python.org
+
 - **2026-06-24** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python-internals
 - **2026-06-24** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: python-internals
 - **2026-06-24** | [The Future of Python Internals: Exploring GIL Removal and Other ..](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: python-internals
