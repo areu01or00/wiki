@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: llvm considered
+- **2026-06-24** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: eurollvm integration
+- **2026-06-24** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: revolutionize jit
+- **2026-06-24** | [What is LLVM? The power behind Swift, Rust, Clang](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: llvm power
+
 - **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language, Runtimes
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: LLVM, Compiler, Infrastructure, Project
 - **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, llvm, docs, BuildingAJIT1

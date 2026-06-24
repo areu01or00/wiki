@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Internals of Python 3.x](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: internals python
+- **2026-06-24** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: python global
+- **2026-06-24** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: top python
+- **2026-06-24** | [Internals of Python 3.x](https://scanlibs.com/internals-python-3-performance/) | kw: internals python
+
 - **2026-06-24** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: Python, Global, Interpreter, Lock
 - **2026-06-24** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: Global, Interpreter, Lock, GIL
 - **2026-06-24** | [The Future of Python Internals: Exploring GIL Removal and Other ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future, Python, Internals, Exploring

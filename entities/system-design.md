@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: essential distributed
+- **2026-06-24** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system design
+- **2026-06-24** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: guide large-scale
+- **2026-06-24** | [Cloud Design Patterns - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/patterns/) | kw: cloud design
+- **2026-06-24** | [Sairyss/system-design-patterns](https://github.com/Sairyss/system-design-patterns) | kw: sairyss system-design-patterns
+
 - **2026-06-24** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System, Wikipedia
 - **2026-06-24** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: System, film, Wikipedia
 - **2026-06-24** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open, System, Properties, Control
