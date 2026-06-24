@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type-systems
+- **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type-systems
+- **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type-systems
+- **2026-06-24** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type-systems
+- **2026-06-24** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: type-systems
+- **2026-06-24** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: type-systems
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type-systems
+- **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages](https://dl.acm.org/doi/10.1145/3798220) | kw: type-systems
+
 - **2026-06-23** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: Learn to Type  Type Better  Type Faste | source: type-systems
 - **2026-06-23** | [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/) | kw: Learn Touch Typing Free - TypingClub | source: type-systems
 - **2026-06-23** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: Monkeytype  A minimalistic, customizabl | source: type-systems

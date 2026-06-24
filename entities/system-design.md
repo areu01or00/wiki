@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+- **2026-06-24** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
+- **2026-06-24** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: system-design
+- **2026-06-24** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: system-design
+- **2026-06-24** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-06-24** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: system-design
+- **2026-06-24** | [9 Essential Software Architecture Patterns for Scalable Distributed ..](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026/) | kw: system-design
+- **2026-06-24** | [Distributed System Design: A Complete Guide for Beginners (Concepts ..](https://www.designgurus.io/blog/distributed-system-design-guide-for-beginners) | kw: system-design
+- **2026-06-24** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: system-design
+
 - **2026-06-23** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: What does System mean? - Definitions.net | source: system-design
 
 - **2026-06-23** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: System Design

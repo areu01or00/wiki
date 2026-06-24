@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python-internals
+- **2026-06-24** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: python-internals
+- **2026-06-24** | [The Future of Python Internals: Exploring GIL Removal and Other ..](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: python-internals
+- **2026-06-24** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken ..](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python-internals
+- **2026-06-24** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: python-internals
+- **2026-06-24** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: python-internals
+- **2026-06-24** | [Python 3.13 Free-Threaded Mode & JIT Guide 2026 - softaims.com](https://softaims.com/blog/python-313-free-threaded-jit-features-2026) | kw: python-internals
+- **2026-06-24** | [Python 3.14 New Features: What's Changed and Why It Matters](https://dasroot.net/posts/2026/02/python-314-new-features-what-changed-why-it-matters/) | kw: python-internals
+- **2026-06-24** | [Understanding the Global Interpreter Lock (GIL) in Python](https://www.codecademy.com/article/understanding-the-global-interpreter-lock-gil-in-python) | kw: python-internals
+
 - **2026-06-23** | [Welcome to Python.org](https://www.python.org/) | kw: Python Internals
 - **2026-06-23** | [Learn Python 2 - Codecademy](https://www.codecademy.com/learn/learn-python) | kw: Python Internals
 - **2026-06-23** | [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/) | kw: Python Internals

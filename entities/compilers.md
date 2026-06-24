@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ..](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ..](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers
+- **2026-06-24** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ..](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
+- **2026-06-24** | [Building Fermat: A Journey from Scratch to JIT Compiler (Part ..](https://medium.com/@satyikpritamy/building-fermat-a-journey-from-scratch-to-jit-compiler-part-1-8f3726a67d27) | kw: compilers
+- **2026-06-24** | [LLVM Implementation for Java JIT Compilers: A Deep Dive](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: compilers
+- **2026-06-24** | [JIT Design and Implementation · The Julia Language](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: compilers
+
 - **2026-06-23** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM - Wikipedia | source: compilers
 - **2026-06-23** | [GitHub - llvm/llvm-project](https://github.com/llvm/llvm-project) | kw: GitHub - llvm/llvm-project | source: compilers
 - **2026-06-23** | [LLVM Download Page](https://releases.llvm.org/download.html) | kw: LLVM Download Page | source: compilers
