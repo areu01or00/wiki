@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Data Structures & Algorithms Interview Questions (2026)](https://onjob.io/blog/data-structures-interview-questions-2026/) | kw: Questions
+
 - **2026-06-24** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms
 - **2026-06-24** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: algorithms
 - **2026-06-24** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: algorithms
