@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [How to crack any coding interview in 2026 using the reverse...](https://medium.com/@fahimulhaq/how-to-crack-any-coding-interview-using-the-reverse-thinking-method-a03f6a5e7e3e) | kw: How, crack, any | src: algorithms
+
 - **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: most asked
 - **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: are big
 - **2026-06-24** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: how to
