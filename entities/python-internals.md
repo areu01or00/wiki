@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
+- **2026-06-24** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: Python
+- **2026-06-24** | [The first year of free-threaded Python - Quansight Labs](https://labs.quansight.org/blog/free-threaded-one-year-recap) | kw: The
+- **2026-06-24** | [With Python 3.14 free-threading support coming up - Reddit r/django](https://www.reddit.com/r/django/comments/1lnekfg/with_python_314_freethreading_support_coming_up/) | kw: With
+- **2026-06-24** | [I Benchmarked Python 3.14's Free-Threading on 5 Real Tasks](https://python.plainenglish.io/i-benchmarked-python-3-14s-free-threading-on-5-real-tasks-here-s-what-actually-happened-d7088b7e4fed) | kw: Benchmarked
+- **2026-06-24** | [[Feature] Free-Threaded Python (3.14t / nogil) Support for SGLang](https://github.com/sgl-project/sglang/issues/22889) | kw: Feature
+- **2026-06-24** | [Python Free-Threading Guide](https://py-free-threading.github.io/) | kw: Python
+- **2026-06-24** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: What
+- **2026-06-24** | [Python 3.14 - Astral](https://astral.sh/blog/python-3.14) | kw: Python
+- **2026-06-24** | [Python 3.14 Is Here. How Fast Is It? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) | kw: Python
+
 - **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python free threading
 - **2026-06-24** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: how python gil
 - **2026-06-24** | [Thread states and the global interpreter lock — Python 3.14.6](https://docs.python.org/3/c-api/threads.html) | kw: thread states global

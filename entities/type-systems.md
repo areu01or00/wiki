@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir
+- **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type
+- **2026-06-24** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Efficient
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
+- **2026-06-24** | [TypeScript 6.0: What's New and Why the Type System Just Got Branded](https://devstarsj.github.io/2026/06/15/typescript-6-new-features-branded-types-pattern-matching-2026/) | kw: TypeScript
+- **2026-06-24** | [Type-Directed Operational Semantics for Gradual Typing](https://i.cs.hku.hk/~bruno/papers/jfp24.pdf) | kw: Type-Directed
+- **2026-06-24** | [Wenjia Ye](https://yewenjia.github.io/) | kw: Wenjia
+
 - **2026-06-24** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: learn type type
 - **2026-06-24** | [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/) | kw: learn touch typing
 - **2026-06-24** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: monkeytype minimalistic customizable

@@ -122,9 +122,13 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 
 ## Auto-Discovered Profiles
-- sakana-releases (cycle 3) — Sakana AI Fugu model release Japanese lab
-- swiss-ai-apertus (cycle 3) — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
-- krea (cycle 4) — Krea AI Krea 2 image generation model open weights
-- MiniMax (cycle 9) — MiniMax AI MiniMax-M3 release new model multimodal MoE
-- multiverse-computing (cycle 12) — Multiverse Computing Pulsar 16B LLM open weights Apache 2.0
-- llm-jp (cycle 15) — LLM-jp NII Japanese model release 4 thinking quantized
+
+| Org/Lab | Cycle | Profile Query |
+|---------|-------|---------------|
+| sakana-releases | 3 | Sakana AI Fugu model release Japanese lab |
+| swiss-ai-apertus | 3 | Swiss AI Apertus EPFL ETH Zurich multilingual open model release |
+| krea | 4 | Krea AI Krea 2 image generation model open weights |
+| MiniMax | 9 | MiniMax AI MiniMax-M3 release new model multimodal MoE |
+| multiverse-computing | 12 | Multiverse Computing Pulsar 16B LLM open weights Apache 2.0 |
+| llm-jp | 15 | LLM-jp NII Japanese model release 4 thinking quantized |
+| apodex | 20 | Apodex Apodex-1.0 mini self-evolving heavy-duty solver open weights |

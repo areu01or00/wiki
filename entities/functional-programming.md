@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Monad tutorials timeline - HaskellWiki](https://www.haskell.org/haskellwiki/Monad_tutorials_timeline) | kw: Monad
+- **2026-06-24** | [Practical uses of monads in Haskell - Nauths](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: Practical
+- **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How
+- **2026-06-24** | [Idiomatic monads in Rust: a pragmatic new design for high-level abstractions - Reddit](https://www.reddit.com/r/rust/comments/b6bu2c/idiomatic_monads_in_rust_a_pragmatic_new_design/) | kw: Idiomatic
+- **2026-06-24** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: Hendrik
+- **2026-06-24** | [What a Monad is not - HaskellWiki](https://www.haskell.org/haskellwiki/What_a_Monad_is_not) | kw: What
+- **2026-06-24** | [Does Haskell's 'do' notation always involve a monad? - Stack Overflow](https://stackoverflow.com/questions/72890778/does-haskells-do-notation-always-involve-a-monad) | kw: Does
+- **2026-06-24** | [A Comprehensive Guide to Monads - Medium](https://medium.com/codex/a-comprehensive-guide-to-monads-211eb6c71066) | kw: Comprehensive
+- **2026-06-24** | [Abilities for the monadically inclined · Unison programming language](https://www.unison-lang.org/docs/fundamentals/abilities/for-monadically-inclined/) | kw: Abilities
+- **2026-06-24** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional
+
 - **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional mathematics wikipedia
 - **2026-06-24** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: functional definition meaning
 - **2026-06-24** | [Functional Medicine in Bellingham | Aligned Modern Health](https://alignedmodernhealth.com/locations/washington/bellingham-functional-medicine/) | kw: functional medicine bellingham

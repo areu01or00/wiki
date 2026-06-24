@@ -1,6 +1,24 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Algorithm) | kw: Algorithm
+- **2026-06-24** | [List of algorithms - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_algorithms) | kw: List
+- **2026-06-24** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What
+- **2026-06-24** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: Algorithms
+- **2026-06-24** | [Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: Introduction
+- **2026-06-24** | [Algorithms | Computer science theory | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: Algorithms
+- **2026-06-24** | [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: DSA
+- **2026-06-24** | [Algorithm | Definition, Types, & Facts | Britannica](https://www.britannica.com/science/algorithm) | kw: Algorithm
+- **2026-06-24** | [I finished Blind 75 in 2 weeks and still wasn't ready - Medium](https://medium.com/@codegrey/i-finished-blind-75-in-2-weeks-and-still-wasnt-ready-here-s-what-was-missing-4fbf92ca9247) | kw: Blind
+- **2026-06-24** | [Best practice questions by the author of Blind 75 | Tech Interview Handbook](https://www.techinterviewhandbook.org/best-practice-questions/) | kw: Best
+- **2026-06-24** | [Is Blind 75 really enough for freshers aiming for FAANG? - Reddit](https://www.reddit.com/r/leetcode/comments/1qvj0gs/is_blind_75_really_enough_for_freshers_aiming_for/) | kw: Blind
+- **2026-06-24** | [NeetCode 150 vs Blind 75: Which List Prepares You? (2026) - Codeintuition](https://www.codeintuition.io/blogs/neetcode-150-vs-blind-75) | kw: NeetCode
+- **2026-06-24** | [Blind 75 - Top 75 Data Structures and Algorithms Questions - GreatFrontEnd](https://www.greatfrontend.com/interviews/blind75) | kw: Blind
+- **2026-06-24** | [Blind 75 Sheet - Coding Shuttle](https://www.codingshuttle.com/sheets/blind-75-sheet) | kw: Blind
+- **2026-06-24** | [Blind 75 LeetCode Questions - LeetCode Discuss](https://leetcode.com/discuss/post/460599/blind-75-leetcode-questions-by-krishnade-9xev/) | kw: Blind
+- **2026-06-24** | [Ace your MAANG+ interviews with this curated list of 100 essential DSA - GitHub](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA) | kw: Ace
+- **2026-06-24** | [Mastering Tech Interviews: Your Essential Guide to the Blind 75 - CodingTemple](https://www.codingtemple.com/blog/your-essential-guide-to-the-blind-75-for-coding-success/) | kw: Mastering
+
 - **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: most asked leetcode
 - **2026-06-24** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: how prepare data
 - **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: big tech interviews

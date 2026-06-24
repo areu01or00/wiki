@@ -1,6 +1,18 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [SYSTEM | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/system) | kw: SYSTEM
+- **2026-06-24** | [Modern Architecture Patterns (2026 Edition) | by Uchit - Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern
+- **2026-06-24** | [Microservices Are Not the Future — This Is What Actually Scales in 2026](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: Microservices
+- **2026-06-24** | [I Tried 20+ Microservices and Event-Driven Architecture Courses on Udemy](https://medium.com/javarevisited/i-tried-20-microservices-and-event-driven-architecture-courses-on-udemy-here-are-my-top-6-picks-5e960b270d58) | kw: Tried
+- **2026-06-24** | [Software Architecture: Distributed Systems | by Santiago - Medium](https://medium.com/@barbieri.santiago/software-architecture-distributed-systems-78c87222e4ed) | kw: Software
+- **2026-06-24** | [10 Microservices Books Every Developer Should Read in 2026](https://medium.com/javarevisited/10-microservices-books-every-developer-should-read-in-2026-e9627beeb6fd) | kw: Microservices
+- **2026-06-24** | [Most-Used Distributed System Design Patterns | by Anil Gudigar - Medium](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33) | kw: Most-Used
+- **2026-06-24** | [30+ Modern Software Architecture Patterns | by Renu Khandelwal](https://arshren.medium.com/30-modern-software-architecture-patterns-c19b2169c2ce) | kw: Modern
+- **2026-06-24** | [Microservices: The Biggest Lesson from 2026 | by Cloud With Azeem](https://cloudwithazeem.medium.com/microservices-the-biggest-lesson-from-2026-945c758ceba7) | kw: Microservices
+- **2026-06-24** | [10 Microservices Design Patterns for Developers | Capital One - Medium](https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e) | kw: Capital
+- **2026-06-24** | [Microservice Architecture Patterns for Scalable Machine Learning Systems](https://arxiv.org/html/2603.13672) | kw: Microservice
+
 - **2026-06-24** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system design patterns
 - **2026-06-24** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system design patterns
 - **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: complete guide system
