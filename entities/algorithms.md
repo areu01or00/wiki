@@ -1,6 +1,13 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
+- **2026-06-24** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
+- **2026-06-24** | [LeetCode Isn't Dead in 2026 - But It's No Longer Enough](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: algorithms
+- **2026-06-24** | [LeetCode Is Dead in 2026. What Top Companies Actually Ask Senior Engineers](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: algorithms
+- **2026-06-24** | [How to Pass Leetcode Interviews: The Ritual That Works](https://proandroiddev.com/how-to-pass-leetcode-interviews-the-ritual-that-works-a788ff2f4f27) | kw: algorithms
+- **2026-06-24** | [Top 100 DSA Interview Questions - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: algorithms
+
 - **2026-06-24** | [Amazon Interview | SDE-1 | Selected - LeetCode Discuss](https://leetcode.com/discuss/post/8029194) | kw: amazon
 - **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026 - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: are
 - **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: most

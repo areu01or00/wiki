@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional programming
+- **2026-06-24** | [FP lang for 2026 : r/functionalprogramming](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: functional programming
+- **2026-06-24** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional programming
+- **2026-06-24** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - PLDI 2026](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: functional programming
+- **2026-06-24** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: functional programming
+- **2026-06-24** | [Community version of Learn You a Haskell - 2026 Update](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: functional programming
+- **2026-06-24** | [Haskell Foundation 2026 Update - Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: functional programming
+- **2026-06-24** | [I think I Finally Got Monads - Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: functional programming
+
 - **2026-06-24** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: good
 - **2026-06-24** | [Co-Creator of Haskell: Functional Programming, Thinking in Types - developing.dev](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: co-creator
 

@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Welcome to Python.org](https://www.python.org/) | kw: python internals
+- **2026-06-24** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: python internals
+- **2026-06-24** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: python internals
+- **2026-06-24** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: python internals
+- **2026-06-24** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: python internals
+- **2026-06-24** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: python internals
+- **2026-06-24** | [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) | kw: python internals
+- **2026-06-24** | [Download Python - Python.org](https://www.python.org/downloads/) | kw: python internals
+
 - **2026-06-24** | [Migrating to Stable ABI for free threading (abi3t) - Python 3.15.0b2](https://docs.python.org/3.15/howto/abi3t-migration.html) | kw: for
 - **2026-06-24** | [Python's Breaking Free: The End of the GIL Era - Medium](https://medium.com/@parasmunoli/pythons-breaking-free-the-end-of-the-gil-era-6e2333dbbf76) | kw: python's
 - **2026-06-24** | [The GIL is actually going away - Reddit r/Python](https://www.reddit.com/r/Python/comments/1lccbj2/the_gil_is_actually_going_away_have_you_tried_a/) | kw: the

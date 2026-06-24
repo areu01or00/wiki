@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Gradual typing - Wikipedia](https://en.m.wikipedia.org/wiki/Gradual_typing) | kw: type systems
+- **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type systems
+- **2026-06-24** | [Guard Analysis and Safe Erasure Gradual Typing: Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: type systems
+- **2026-06-24** | [Luau Type System Complete Guide - Strict Mode, Generics & Type Functions](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: type systems
+- **2026-06-24** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: type systems
+- **2026-06-24** | [Gradual Typing in Type Theory - numberanalytics.com](https://www.numberanalytics.com/blog/ultimate-guide-gradual-typing-type-theory) | kw: type systems
+- **2026-06-24** | [What is Gradual Typing - Jeremy Siek](https://jsiek.github.io/home/WhatIsGradualTyping.html) | kw: type systems
+- **2026-06-24** | [Static vs Dynamic Typing: Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type systems
+- **2026-06-24** | [Type Theory and Gradual Typing - numberanalytics.com](https://www.numberanalytics.com/blog/type-theory-gradual-typing) | kw: type systems
+
 - **2026-06-24** | [Type Systems in Programming Languages: A Performance, Safety, and Paradigms Analysis](https://www.ijsr.net/getabstract.php?paperid=SR26113212016) | kw: type
 - **2026-06-24** | [PLDI 2026 - Research Papers](https://pldi26.sigplan.org/track/pldi-2026-papers) | kw: 2026
 - **2026-06-24** | [Type Systems and Functional Programming Language Theory - Springer](https://link.springer.com/subjects/type-systems-and-functional-programming-language-theory) | kw: type

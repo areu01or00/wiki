@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project - Developer Meeting 2026-01](https://llvm.org/devmtg/2026-01/) | kw: compilers
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers
+- **2026-06-24** | [The Case For Compilers: SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: compilers
+- **2026-06-24** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
+- **2026-06-24** | [Building Fermat: A Journey from Scratch to JIT Compiler](https://medium.com/@satyikpritamy/building-fermat-a-journey-from-scratch-to-jit-compiler-part-1-8f3726a67d27) | kw: compilers
+- **2026-06-24** | [LLVM Implementation for Java JIT Compilers: A Deep Dive](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: compilers
+- **2026-06-24** | [JIT Design and Implementation - Julia Language](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: compilers
+
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project - llvm.org](https://llvm.org/) | kw: the
 - **2026-06-24** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: jit
 - **2026-06-24** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: lightweight
