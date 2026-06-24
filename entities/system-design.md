@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [Airbnb System Design: (Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/airbnb-system-design/) | kw: Design
+- **2026-06-24** | [System Design for Web and Mobile Applications | Effective Programmer](https://effective-programmer.com/introduction-to-system-design-for-web-and-mobile-applications-f00e94623ce4) | kw: Design
+
 - **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system design
 - **2026-06-24** | [The Only 12-Week High-Level System Design Roadmap You Need](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: system design
 - **2026-06-24** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: system design

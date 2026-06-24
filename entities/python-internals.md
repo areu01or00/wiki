@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python (programming language) - Wikipedia](https://en.m.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
+- **2026-06-24** | [Python 3.14 & Django: Exploiting the Free-Threaded Build for 2x ...](https://medium.com/@yogeshkrishnanseeniraj/python-3-14-django-exploiting-the-free-threaded-build-for-2x-throughput-116af921be34) | kw: Python
+
 - **2026-06-24** | [Python Internals: Memory Management & GIL - evidhya](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python internals
 - **2026-06-24** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python internals
 - **2026-06-24** | [Memory Management & GIL: Python Guide (2026) - Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: python internals

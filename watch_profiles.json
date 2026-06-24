@@ -184,8 +184,6 @@
         "Styles"
       ],
       "last_result_hashes": [
-        "a4f767c8d886ec8f2fab1999efc97283",
-        "7c5b8390ce044e3fd8201477982b394b",
         "f0db27fd3d7a4c67a766d91e6150864a",
         "c754e325f8156cfa489e206ad63e1ae2",
         "34a7661625980b806863c89ac2b7a075",
@@ -203,12 +201,14 @@
         "2529c3526c85daa7f8a8cf923cc5d538",
         "b2e8ffd3b73beecc47b21c6d2c49c854",
         "07550bd5bf7eb2464189443840582802",
-        "c7cff6ce94dac7da8e933c0b3204d753"
+        "c7cff6ce94dac7da8e933c0b3204d753",
+        "5758364853f83cbe77d8a31e57f7b21c",
+        "fbbeabf4d0f89425599e4ca94b7ec23a"
       ],
-      "last_run": "2026-06-24 19:17 UTC",
+      "last_run": "2026-06-24 19:33 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 2,
+      "_new_total_for_digest": 2
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -421,7 +421,7 @@
         "4cee999b71414851927c1c3805e155c2",
         "da2a9627437ec27ab2a13b536f37cf45"
       ],
-      "last_run": "2026-06-24 19:17 UTC",
+      "last_run": "2026-06-24 19:33 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -628,7 +628,7 @@
         "c4981204de3af4a493b80247f29701a5",
         "b93ebfb5f7ef09eeda3167d16353254b"
       ],
-      "last_run": "2026-06-24 19:17 UTC",
+      "last_run": "2026-06-24 19:33 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -860,7 +860,7 @@
         "48e396ad3bb766dd1b0be8823cba3259",
         "e2809728031a0a794b40bbdaef5a85f9"
       ],
-      "last_run": "2026-06-24 19:17 UTC",
+      "last_run": "2026-06-24 19:33 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -1096,7 +1096,7 @@
         "903cf01de677d3bb87ca45153e3e1187",
         "750fd152325f4dc2beb725d52cc9fce7"
       ],
-      "last_run": "2026-06-24 19:17 UTC",
+      "last_run": "2026-06-24 19:33 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -1300,8 +1300,6 @@
         "Habibullah"
       ],
       "last_result_hashes": [
-        "6faa097911e6a33f6a043000883a410d",
-        "952e4cdd85ea50368b5178492a0c873c",
         "6bd1828271a3d7ce0e5d0b666c53b128",
         "b38b8da89ce27bf4b488c8422c438642",
         "16cafc4f2077cbb7dc0260e04af7db34",
@@ -1319,13 +1317,15 @@
         "169bf54a9770f57d9b83dc707fac0053",
         "dd98088bd44f163005b52f39b2756953",
         "fdee620013b11fbe4ff74a856625554f",
-        "83c76331b8d186cc5d695017f50eb5fb"
+        "83c76331b8d186cc5d695017f50eb5fb",
+        "1189a4003f7249301c49e97db90cf82d",
+        "1d105866bd58aaa9058577ec9cbe0720"
       ],
-      "last_run": "2026-06-24 19:17 UTC",
+      "last_run": "2026-06-24 19:33 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 2,
+      "_new_total_for_digest": 2
     }
   },
-  "last_run": "2026-06-24 19:17 UTC"
+  "last_run": "2026-06-24 19:33 UTC"
 }
