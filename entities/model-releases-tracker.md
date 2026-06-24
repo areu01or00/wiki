@@ -17,6 +17,18 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-24** | [To Compare, or Not to Compare: On Methodological Practices in Evaluating Social Bias](https://arxiv.org/abs/2606.24596) | kw: To Compare, or Not to Compare: On Methodological Practices in Evaluating Social  | source: arxiv-cs-cl
+- **2026-06-24** | [AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression](https://arxiv.org/abs/2606.24286) | kw: AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retr | source: arxiv-cs-cl
+- **2026-06-24** | [Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment](https://arxiv.org/abs/2606.24331) | kw: Transformer-Based Language Models Across Domain Verticals: Architectures, Applic | source: arxiv-cs-cl
+- **2026-06-24** | [DREAM: Dense Retrieval Embeddings via Autoregressive Modeling](https://arxiv.org/abs/2606.24667) | kw: DREAM: Dense Retrieval Embeddings via Autoregressive Modeling | source: arxiv-cs-cl
+- **2026-06-24** | [A specialized reasoning large language model for accelerating rare disease diagnosis: a randomized AI physician assistance trial](https://arxiv.org/abs/2606.24510) | kw: A specialized reasoning large language model for accelerating rare disease diagn | source: arxiv-cs-cl
+- **2026-06-24** | [Pigeonholing: Bad prompts hurt models to collapse and make mistakes](https://arxiv.org/abs/2606.24267) | kw: Pigeonholing: Bad prompts hurt models to collapse and make mistakes | source: arxiv-cs-cl
+- **2026-06-24** | [SURGELLM: Rethinking Multi-Task Evaluation through Task-Aware Feature Gating with Class-Balanced Normalization](https://arxiv.org/abs/2606.24259) | kw: SURGELLM: Rethinking Multi-Task Evaluation through Task-Aware Feature Gating wit | source: arxiv-cs-cl
+- **2026-06-24** | [Cross-Lingual Exploration for Parametric Knowledge](https://arxiv.org/abs/2606.24579) | kw: Cross-Lingual Exploration for Parametric Knowledge | source: arxiv-cs-cl
+- **2026-06-24** | [The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing African Languages in Frontier LLMs](https://arxiv.org/abs/2606.24460) | kw: The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of  | source: arxiv-cs-cl
+- **2026-06-24** | [Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War](https://arxiv.org/abs/2606.24391) | kw: Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability o | source: arxiv-cs-cl
+- **2026-06-24** | [CALIBER: Calibrating Confidence Before and After Reasoning in Language Models](https://arxiv.org/abs/2606.24281) | kw: CALIBER: Calibrating Confidence Before and After Reasoning in Language Models | source: arxiv-cs-cl
+- **2026-06-24** | [Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E-Commerce](https://arxiv.org/abs/2606.24783) | kw: Paying to Know: Micro-Transaction Markets for Verified Product Information in Ag | source: arxiv-cs-cl
 - **2026-06-23** | [MiniMax Sparse Attention - arxiv.org](https://arxiv.org/abs/2606.13392) | kw: MiniMax Sparse Attention arxiv org | source: MiniMax
 - **2026-06-23** | [MiniMaxAI/MiniMax-M3 - Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3) | kw: MiniMaxAI MiniMax-M3 Hugging Face | source: MiniMax
 
