@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Best Python Courses + Tutorials | Codecademy](https://www.codecademy.com/catalog/language/python) | kw: Python Courses Tutorials Codecademy
+
 - **2026-06-24** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: 400 python interview questions with answers
 - **2026-06-24** | [The GIL Explained | EngineersOfAI - Technical Education for AI](https://engineersofai.com/docs/python/python-systems-and-internals/the-gil-explained) | kw: the gil explained | engineersofai -
 - **2026-06-24** | [CPython-Internals/Interpreter/gil/gil.md at master](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/gil/gil.md) | kw: cpython-internals/interpreter/gil/gil.md at master
