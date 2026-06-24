@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Leetcode Questions Asked at Bloomberg (2026) | ShadeCoder](https://articles.shadecoder.com/top-leetcode-questions-asked-at-bloomberg-2026-compared-ranked-and-how-to-prepare) | kw: Leetcode Questions Asked at Bloomberg 2026
+
 - **2026-06-24** | [I Tried 20+ Python DSA Courses with LeetCode Exercises on Udemy - Medium](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: I Tried 20+ Python DSA Courses with Leet
 - **2026-06-24** | [Core Skills - Algorithm & Data Structure Practice - NeetCode](https://neetcode.io/practice/practice/coreSkills) | kw: Core Skills
 - **2026-06-24** | [Data Structures and Algorithms for Coding Interview — Complete Python Resource](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview/) | kw: Data Structures and Algorithms for Codin
