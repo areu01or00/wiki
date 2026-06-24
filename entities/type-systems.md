@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Learn TypeScript Fast: 7-Step Tutorial [2026] - Tech Insider](https://tech-insider.org/typescript-tutorial-beginners-complete-guide-2026/) | kw: Learn TypeScript Fast: 7-Step Tutorial 2026 - Te
+- **2026-06-24** | [Roadmap · microsoft/TypeScript Wiki - GitHub](https://github.com/microsoft/typescript/wiki/roadmap) | kw: Roadmap · microsoft/TypeScript Wiki - GitHub
+- **2026-06-24** | [TypeScript's Massive Go Update: The Game-Changer That Makes It 10x Faster](https://medium.com/@vishalvoid/typescripts-massive-go-update-the-game-changer-that-makes-it-10x-faster-d971872114b5) | kw: TypeScript's Massive Go Update: The Game-Changer T
+- **2026-06-24** | [On the Rise. The Core Appeal of TypeScript | by Rahul Kaklotar](https://javascript.plainenglish.io/typescript-on-the-rise-c7cd434bd64e) | kw: On the Rise. The Core Appeal of TypeScript   by Ra
+
 - **2026-06-24** | [Documentation - TypeScript 6.0](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-6-0.html) | kw: Documentation - TypeScript 6.0
 - **2026-06-24** | [TypeScript 6.0 Advanced Type Features for 2026](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-advanced-type-features-what-you-need-to-know-for-2026-61f) | kw: TypeScript 6.0 Advanced Type Features for 2026
 - **2026-06-24** | [Announcing TypeScript 6.0 Beta - Microsoft Developer Blogs](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/) | kw: Announcing TypeScript 6.0 Beta - Microsoft Developer Blogs

@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [In Python 3.14 free threading, is list.pop() thread-safe?](https://stackoverflow.com/questions/79884657/in-python-3-14-free-threading-is-list-pop-thread-safe) | kw: In Python 3.14 free threading, is list.pop() threa
+- **2026-06-24** | [Unlocking Performance in Python's Free-Threaded Future: GC optimizations in 3.14](https://labs.quansight.org/blog/free-threaded-gc-3-14) | kw: Unlocking Performance in Python's Free-Threaded Fu
+
 - **2026-06-24** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://coderprog.com/internals-python-3-performance/) | kw: Internals of Python 3.x: Derive Maximum Code Performance and
 
 - **2026-06-24** | [Python in 2026 Free-Threading and UV Change Everything Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026 Free-Threading and UV Change Everything Mediu
