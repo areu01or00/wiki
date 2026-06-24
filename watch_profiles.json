@@ -205,7 +205,7 @@
         "5f7c1c894aeb04ace5ccce7f83d45157",
         "af5c20a58f83efb669e342dd0524122c"
       ],
-      "last_run": "2026-06-24T05:03:29.646453+00:00",
+      "last_run": "2026-06-24T05:18:25.512704+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -397,7 +397,7 @@
         "2e36db34c1a584712cd6f35f63aa33ba",
         "38439c80ed21748f433ae64599c65dd4"
       ],
-      "last_run": "2026-06-24T05:03:29.646453+00:00",
+      "last_run": "2026-06-24T05:18:25.512704+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -564,7 +564,6 @@
         "unification-based"
       ],
       "last_result_hashes": [
-        "686812076d5de90d1c2ef77d554beb01",
         "309f66f29e1d046c77d14541fdd68a0c",
         "30ac2d43919f96f20a0bb63c41bcff69",
         "fdf6069db015157a2297b289620b5a22",
@@ -583,12 +582,20 @@
         "12160ccee61ab05107403ed6090d5b1d",
         "73bdf0a02b24bcdf62654e64faba83df",
         "a775d463940cda26049a2bbb97f4a0a9",
-        "f96c742534a632700a7e8e4889257459"
+        "f96c742534a632700a7e8e4889257459",
+        "3d0420127c178bb7b04b8f1cbad4dd3a"
       ],
-      "last_run": "2026-06-24T05:03:29.646453+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-24T05:18:25.512704+00:00",
+      "new_sub_topics_this_run": [
+        "library",
+        "practical",
+        "based",
+        "digital",
+        "success",
+        "typings"
+      ],
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -758,14 +765,6 @@
         "ways"
       ],
       "last_result_hashes": [
-        "92070a2a4c2c682bc05b82bfd980cdf1",
-        "ed77a9a5a5f7099f309a667182e8060c",
-        "1bc1e0d2e12dcd07d44c2a4e34a35c7b",
-        "1d6bf6967d478bcf35ab795e7fcc921c",
-        "2d1d11c7f28e2e1dc1e1c28d840e105d",
-        "269341708d555d5819da5ef32f81a574",
-        "ab1a401478bf91151df62818473f5ef5",
-        "ca0a1465631c6b3c554a745b4cc949a5",
         "64b9213a9db6ffcf3ee048410614e9dc",
         "6265d0c7ea387b97e9eb7551bfd1a683",
         "f754971725118e81c5661d4781fdbbfd",
@@ -777,12 +776,31 @@
         "a9eb6c84ee32931d6f1cd8971f2c5d69",
         "32b77c249694cc65e40422d244b3b676",
         "4d204ea3b36663924ef11be9b786d1ef",
-        "17caa5549fb517fd4d68f6bd71cc86f8"
+        "17caa5549fb517fd4d68f6bd71cc86f8",
+        "cee91708d37e1c73c9ee827ace199642",
+        "4ac0514cd1b9523a42ab883932eafd86",
+        "eacb2a8e9260c675e284ce359824b6f6",
+        "a847585516f7f2aea80c58331ad5c4b5",
+        "cd618fc01d9000124eb498fbe41197e4",
+        "4b2ece8527933600074465496a8dde0b",
+        "1b78b0cae2f88b307b4970c76f546a12",
+        "58270653adeb4c484d5b3ae59af170d1"
       ],
-      "last_run": "2026-06-24T05:03:29.646453+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_run": "2026-06-24T05:18:25.512704+00:00",
+      "new_sub_topics_this_run": [
+        "lazily",
+        "necessity",
+        "within",
+        "paradigm",
+        "language",
+        "disillusionment",
+        "medium",
+        "golang",
+        "protocol",
+        "explaining"
+      ],
+      "last_new_count": 8,
+      "_new_total_for_digest": 8
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -977,10 +995,10 @@
         "525eb68a8d1e232a7e5c5572acad5d15",
         "e3ad6f38a3b1d22c27c6c8c0f4a37af0"
       ],
-      "last_run": "2026-06-24T05:03:29.646453+00:00",
+      "last_run": "2026-06-24T05:18:25.512704+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1173,11 +1191,11 @@
         "ddbb499f5fd5ef5e4cd04a58d98105f1",
         "667b6d8ea3a715967216b82c275ff463"
       ],
-      "last_run": "2026-06-24T05:03:29.646453+00:00",
+      "last_run": "2026-06-24T05:18:25.512704+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     }
   },
-  "last_run": "2026-06-24T04:47:20.214109+00:00"
+  "last_run": "2026-06-24T05:18:25.512704+00:00"
 }

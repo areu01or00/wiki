@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [functional programming - Does a lazily evaluated language with effect typing exist? - langdev.stackexchange](https://langdev.stackexchange.com/questions/4709/does-a-lazily-evaluated-language-with-effect-typing-exist-can-it-exist) | kw: effect
+- **2026-06-24** | [The Koka programming language - LWN.net](https://lwn.net/Articles/1033050/) | kw: koka
+- **2026-06-24** | [Functional programming with names and necessity - academia.edu](https://www.academia.edu/166751208/Functional_programming_with_names_and_necessity) | kw: monad
+- **2026-06-24** | [Opt-in Protocol Types for Effect Systems in Haskell - repositum.tuwien.at](https://repositum.tuwien.at/bitstream/20.500.12708/192966/1/Siebenhandl+Hannes+-+2023+-+Opt-in+protocol+types+for+effect+systems+in+Haskell.pdf) | kw: haskell
+- **2026-06-24** | [My Disillusionment with Functional Programming - Medium](https://medium.com/@georgeleung_7777/my-disillusionment-with-functional-programming-3ff2610379ac) | kw: fp
+- **2026-06-24** | [Logging from within a Functional Programming Paradigm - errorhandle.ai](https://errorhandle.ai/logging-from-within-a-functional-programming-paradigm) | kw: fp
+- **2026-06-24** | [Explaining Monads with a Golang example - sargx.net](https://garden.sargx.net/Computer-$h1t/Functional-Programming/Effect-Systems/Monads-(are-complicated-)/Explaining-Monads-with-a-Golang-example) | kw: monad
+- **2026-06-24** | [Wadler: Monads](https://homepages.inf.ed.ac.uk/wadler/topics/monads.html) | kw: monad
+
 - **2026-06-24** | [Effectively Propositional Higher-Order Functional Programming](https://gowthamk.github.io/docs/oopsla26.pdf) | kw: Effectively, Propositional, Higher-Order, Functional
 - **2026-06-24** | [Tran Functional Programming Guide - binary.phile](http://www.binaryphile.com/functional-programming/go/software-engineering/2026/01/09/tran-functional-programming-guide.html) | kw: Tran, Functional, Programming, Guide
 - **2026-06-24** | [What is Functional Programming? - Alexandru Nedelcu](https://alexn.org/blog/2017/10/15/functional-programming/) | kw: What, Functional, Programming, Alexandru

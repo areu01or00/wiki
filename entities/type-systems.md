@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Practical type inference based on success typings - ACM Digital Library](https://dl.acm.org/doi/10.1145/1140335.1140356) | kw: type inference
+
 - **2026-06-24** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static, Dynamic, Typing, Ultimate
 - **2026-06-24** | [Gradual typing - CodeDocs](https://codedocs.org/what-is/gradual-typing) | kw: Gradual, typing, CodeDocs
 - **2026-06-24** | [Elixir 1.20 has a type system now: comparing it with... - DEV Community](https://dev.to/geekmasahiro/elixir-120-has-a-type-system-now-comparing-it-with-rust-and-typescript-31p4) | kw: Elixir, has, type, system

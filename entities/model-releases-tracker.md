@@ -17,6 +17,15 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+
+- **2026-06-24** | [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597v1) | kw: Qwen-AgentWorld Language World Models General Agents | source: arxiv-cs-cl
+- **2026-06-24** | [AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transfer](https://arxiv.org/abs/2606.24589v1) | kw: AdversaBench Automated LLM Red-Teaming Multi-Judge Cross-Model Transfer | source: arxiv-cs-cl
+- **2026-06-24** | [Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experimentation](https://arxiv.org/abs/2606.24428v1) | kw: Escaping Self-Confirmation Trap Execute-Distill-Verify Paradigm Agentic | source: arxiv-cs-cl
+- **2026-06-24** | [MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery](https://arxiv.org/abs/2606.24595v1) | kw: MEMPROBE Probing Long-Term Agent Memory Hidden User-State Recovery | source: arxiv-cs-cl
+- **2026-06-24** | [Bayesian control for coding agents](https://arxiv.org/abs/2606.24453v1) | kw: Bayesian control for coding agents | source: arxiv-cs-cl
+- **2026-06-24** | [Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models](https://arxiv.org/abs/2606.24391v1) | kw: Age of LLM Strategic 1v1 Benchmark Reasoning Diplomacy Reliability | source: arxiv-cs-cl
+- **2026-06-24** | [DREAM: Dense Retrieval Embeddings via Autoregressive Modeling](https://arxiv.org/abs/2606.24667v1) | kw: DREAM Dense Retrieval Embeddings Autoregressive Modeling | source: arxiv-cs-cl
+- **2026-06-24** | [A specialized reasoning large language model for accelerating rare disease diagnosis](https://arxiv.org/abs/2606.24510v1) | kw: Specialized reasoning LLM accelerating rare disease diagnosis | source: arxiv-cs-cl
 - **2026-06-24** | [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](http://arxiv.org/abs/2606.24820v1) | kw: SHERLOC: Structured Diagnostic Localization for Co | source: arxiv-cs-cl
 - **2026-06-24** | [AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning](http://arxiv.org/abs/2606.24526v1) | kw: AGORA: An Archive-Grounded Benchmark for Agentic W | source: arxiv-cs-cl
 - **2026-06-24** | [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](http://arxiv.org/abs/2606.24530v1) | kw: NatureBench: Can Coding Agents Match the Published | source: arxiv-cs-cl
