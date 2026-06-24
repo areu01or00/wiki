@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV Change Everything - Me
+- **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and ...](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and
+- **2026-06-24** | [Thread states and the global interpreter lock - Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock - Python 3.14.
+- **2026-06-24** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye GIL: Exploring free-threaded mode in Python 3.14 - L
+- **2026-06-24** | [What's new in Python 3.14 - Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: What's new in Python 3.14 - Python 3.14.6 documentation
+- **2026-06-24** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading's ...](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: Tearing Off the GIL Veil: A Deep Dive into Python Multithrea
+
 - **2026-06-24** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: Python internals
 - **2026-06-24** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: Python internals
 - **2026-06-24** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Python internals

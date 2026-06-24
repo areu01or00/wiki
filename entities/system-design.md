@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If you want to get started with system design (in 2026), lea
+
 - **2026-06-24** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Edition)
 - **2026-06-24** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: Top SaaS Architecture Patterns in 2026: From Monol
 - **2026-06-24** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: Integration Patterns 2026: Query Patterns (Consist

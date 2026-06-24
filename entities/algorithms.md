@@ -1,6 +1,11 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Unexpected end of JSON input - Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Unexpected end of JSON input - Explore - LeetCode
+- **2026-06-24** | [Top 100 Data Structure and Algorithms DSA Interview ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top 100 Data Structure and Algorithms DSA Interview ...
+- **2026-06-24** | [LeetCode - The World's Leading Online Programming Learning ...](https://leetcode.com/) | kw: LeetCode - The World's Leading Online Programming Learning .
+- **2026-06-24** | [Google 2026 Interview Preparation - Complete Weekly Roadmap - GitHub](https://gist.github.com/carefree-ladka/6d1722421f9e1e46bd2dbdb5ea1b4684) | kw: Google 2026 Interview Preparation - Complete Weekly Roadmap 
+
 - **2026-06-24** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-wise - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: algorithms data
 
 - **2026-06-24** | [Unexpected end of JSON input - Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Unexpected end of JSON input

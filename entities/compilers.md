@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation - Wikipedia
+- **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM.org](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: 1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM.
+- **2026-06-24** | [wdv4758h/awesome-jit - GitHub](https://github.com/wdv4758h/awesome-jit) | kw: wdv4758h/awesome-jit - GitHub
+- **2026-06-24** | [c++ - LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: c++ - LLVM: simple example of a just-in-time compilation
+- **2026-06-24** | [What Is LLVM (Low Level Virtual Machine)? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-llvm-low-level-virtual-machine/) | kw: What Is LLVM (Low Level Virtual Machine)? - ITU Online IT Tr
+- **2026-06-24** | [LLVM '15: Proceedings of the Second Workshop on the LLVM Compiler ...](https://dl.acm.org/doi/proceedings/10.1145/2833157) | kw: LLVM '15: Proceedings of the Second Workshop on the LLVM Com
+- **2026-06-24** | [JIT in ClickHouse](https://clickhouse.com/blog/clickhouse-just-in-time-compiler-jit) | kw: JIT in ClickHouse
+- **2026-06-24** | [Building a JIT Compiler from Scratch: Part 1 - Medium](https://medium.com/codejitsu/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-84cf453b1155) | kw: Building a JIT Compiler from Scratch: Part 1 - Medium
+
 - **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers LLVM
 - **2026-06-24** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: compilers LLVM
 - **2026-06-24** | [Building Fermat: A Journey from Scratch to JIT Compiler (Part 1)](https://medium.com/@satyikpritamy/building-fermat-a-journey-from-scratch-to-jit-compiler-part-1-8f3726a67d27) | kw: compilers LLVM

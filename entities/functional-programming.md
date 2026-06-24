@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026 : r/functionalprogramming - Reddit
+- **2026-06-24** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Good tutorial/book about functional programming? - Rust User
+- **2026-06-24** | [What killed Haskell, could kill Rust, too - GitHub - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: What killed Haskell, could kill Rust, too - GitHub - Gist
+- **2026-06-24** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Co-Creator of Haskell: Functional Programming, Thinking in T
+- **2026-06-24** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026 - lukastymo
+- **2026-06-24** | [What other ways can state be handled in a pure functional language ...](https://stackoverflow.com/questions/13536761/what-other-ways-can-state-be-handled-in-a-pure-functional-language-besides-with) | kw: What other ways can state be handled in a pure functional la
+- **2026-06-24** | [Functional Programming Online Courses - Serokell](https://serokell.io/courses) | kw: Functional Programming Online Courses - Serokell
+
 - **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) - Wikipedia
 
 - **2026-06-24** | [What killed Haskell, could kill Rust, too · GitHub - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: functional programming

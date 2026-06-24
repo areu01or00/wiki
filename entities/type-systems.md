@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement in ..](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Impr
+- **2026-06-24** | [[2603.05649] Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for Per
+- **2026-06-24** | [Elixir's Gradual Type System (1.17-1.20): How the Compiler Finally ...](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: Elixir's Gradual Type System (1.17-1.20): How the Compiler F
+- **2026-06-24** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types to Work - NSF Public Access
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement in ..](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations for Performance Impr
+- **2026-06-24** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual Typing - Programming Research Group
+
 - **2026-06-24** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type systems
 - **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type systems
 - **2026-06-24** | [(PDF) Gradual typing with unification-based inference](https://www.researchgate.net/publication/220828930_Gradual_typing_with_unification-based_inference) | kw: type systems
