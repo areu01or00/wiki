@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating Language Labyrinth
+- **2026-06-24** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type system ty
+
 - **2026-06-24** | [Learn TypeScript Fast: 7-Step Tutorial [2026] - Tech Insider](https://tech-insider.org/typescript-tutorial-beginners-complete-guide-2026/) | kw: Learn TypeScript Fast: 7-Step Tutorial 2026 - Te
 - **2026-06-24** | [Roadmap · microsoft/TypeScript Wiki - GitHub](https://github.com/microsoft/typescript/wiki/roadmap) | kw: Roadmap · microsoft/TypeScript Wiki - GitHub
 - **2026-06-24** | [TypeScript's Massive Go Update: The Game-Changer That Makes It 10x Faster](https://medium.com/@vishalvoid/typescripts-massive-go-update-the-game-changer-that-makes-it-10x-faster-d971872114b5) | kw: TypeScript's Massive Go Update: The Game-Changer T
