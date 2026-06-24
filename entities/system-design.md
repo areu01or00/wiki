@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: system definition
+- **2026-06-24** | [SYSTEM | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/system) | kw: system definition
+- **2026-06-24** | [Microsoft - AI, Cloud, Productivity, Computing, Gaming & Apps](https://www.microsoft.com/en) | kw: microsoft ai
+
 - **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system design
 - **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: film
 - **2026-06-23** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open

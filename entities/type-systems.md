@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing
+- **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir v1
+- **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type inference
+- **2026-06-24** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type system
+- **2026-06-24** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: pycon us
+- **2026-06-24** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: what type
+- **2026-06-24** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: to what
+- **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages - ACM](https://dl.acm.org/doi/10.1145/3798220) | kw: type inference
+
 - **2026-06-23** | [TypeScript - Wikipedia](https://en.wikipedia.org/wiki/TypeScript) | kw: type systems
 - **2026-06-23** | [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/) | kw: type systems
 - **2026-06-23** | [TypeScript Tutorial - W3Schools](https://www.w3schools.com/typescript/index.php) | kw: Tutorial

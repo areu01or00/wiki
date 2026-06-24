@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python in
+- **2026-06-24** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: thread states
+- **2026-06-24** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: how python
+- **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and Agentic AI](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: the python
+- **2026-06-24** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: goodbye gil
+- **2026-06-24** | [Using malloc_trim to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: using malloc
+- **2026-06-24** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: python performance
+- **2026-06-24** | [Understanding how GIL Affects Checkpoint Performance in PyTorch](https://www.shayon.dev/post/2026/38/understanding-how-gil-affects-checkpoint-performance-in-pytorch-training/) | kw: understanding how
+- **2026-06-24** | [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: faster python
+- **2026-06-24** | [Python 3.14: The present and future of the language of the moment](http://www.altiacompany.com/en/insights/blog/python-314-present-and-future-language-moment) | kw: python the
+
 - **2026-06-23** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: mode
 - **2026-06-23** | [Python 3.14 Free-Threaded: 8× Speed Benchmarks + Install Guide](https://python.plainenglish.io/python-3-14-free-threaded-8-speed-benchmarks-install-guide-gil-dead-in-2025-5a1b998d4c92) | kw: 3.14
 - **2026-06-23** | [Python 3.14 and GIL in CPython](https://medium.com/@almacitunaberk/python-3-14-and-gil-in-cpython-822191fa3616) | kw: 3.14

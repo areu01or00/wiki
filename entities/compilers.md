@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: the llvm
+- **2026-06-24** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers and
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project - 2026-04 Meeting](https://llvm.org/devmtg/2026-04/) | kw: the llvm
+- **2026-06-24** | [compiler-course-2026 BuildingAJIT1.rst at GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 buildingajit1
+- **2026-06-24** | [GitHub - llvm/llvm-project: The LLVM Project is a collection of modular](https://github.com/llvm/llvm-project) | kw: github llvm
+- **2026-06-24** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming](https://createlang.rs/01_calculator/jit_intro.html) | kw: just-in-time jit
+- **2026-06-24** | [Smalltalk JIT Compilation: LLVM Experimentation](https://ceur-ws.org/Vol-3893/Paper01.pdf) | kw: smalltalk jit
+- **2026-06-24** | [Use of JIT compiler infrastructure at Apple and CERN](https://indico.cern.ch/event/1675931/) | kw: use of
+
 - **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Inline
 - **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: 2026
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: compilers
