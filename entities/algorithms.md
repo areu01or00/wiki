@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: algorithm
+- **2026-06-24** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: leetcode
+
 - **2026-06-24** | [Amazon Interview | SDE-1 | Selected - Discuss - LeetCode](https://leetcode.com/discuss/post/8029194) | kw: interview
 - **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: interview
 - **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: leetcode

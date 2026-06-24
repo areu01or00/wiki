@@ -160,16 +160,6 @@
         "Idempotent"
       ],
       "last_result_hashes": [
-        "b",
-        "2",
-        "1",
-        "4",
-        "9",
-        "c",
-        "d",
-        "6",
-        "5",
-        "8",
         "25df870c0f35fc8f49c62a68d86cf796",
         "2a3c53e01f648bc943d68ba9256ddb67",
         "efb8f149991dfdaf6f1db900b6c30480",
@@ -181,7 +171,7 @@
         "3023a2cb951d86d2a7fc1b8cce9dc3e8",
         "72e85c578b97907d62da49d9f083e6dd"
       ],
-      "last_run": "2026-06-24T07:34:53.252249+00:00",
+      "last_run": "2026-06-24T08:33:03.008574+00:00",
       "new_sub_topics_this_run": [
         "Step-by-Step",
         "Design?",
@@ -194,7 +184,7 @@
         "MockExperts",
         "Reddit"
       ],
-      "last_new_count": 10,
+      "last_new_count": 0,
       "_new_total_for_digest": 10
     },
     "compilers": {
@@ -362,14 +352,14 @@
         "b08d027934c0ad9c47ec3041c6e299f2",
         "9de9def0d8a2514026c39c3aabb6b2ce"
       ],
-      "last_run": "2026-06-24T07:49:16.491524+00:00",
+      "last_run": "2026-06-24T08:33:03.008574+00:00",
       "new_sub_topics_this_run": [
         "KaleidoscopeJIT",
         "Starting",
         "21.1.2",
         "Per-function"
       ],
-      "last_new_count": 5,
+      "last_new_count": 0,
       "_new_total_for_digest": 5
     },
     "type-systems": {
@@ -541,9 +531,9 @@
         "5cc1d4c55fe22c53ab06d0faccb4247c",
         "a47905b8e6aeadd5f227767b65f5a246"
       ],
-      "last_run": "2026-06-24T07:49:16.491524+00:00",
+      "last_run": "2026-06-24T08:33:03.008574+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 4,
+      "last_new_count": 0,
       "_new_total_for_digest": 4
     },
     "functional-programming": {
@@ -707,7 +697,10 @@
         "r/functionalprogramming",
         "Comparison",
         "problem",
-        "questions"
+        "questions",
+        "Changes",
+        "Rust",
+        "That"
       ],
       "last_result_hashes": [
         "8c0ea0d18b37f3c9d2facb56f6b40861",
@@ -720,21 +713,18 @@
         "f9701c22505fb1fedf37540cf04b7798",
         "543ec177981d747682071e74a0678915",
         "3f2bcde02b70efb5e96fc60c3c9c3694",
-        "c2fefc572a2578f6f202a147d877925b"
+        "c2fefc572a2578f6f202a147d877925b",
+        "6ac17140976f4e3a7be22d2ec701d1ce",
+        "449f1936d11b3408b5111b8fbfc6e205",
+        "48e396ad3bb766dd1b0be8823cba3259"
       ],
-      "last_run": "2026-06-24T07:49:16.491524+00:00",
+      "last_run": "2026-06-24T08:33:03.008574+00:00",
       "new_sub_topics_this_run": [
-        "monadically",
-        "Abilities",
-        "Man's",
-        "Write",
-        "inclined",
-        "cekrem.github.io",
-        "Unison",
-        "2-Tuple",
-        "Lobsters"
+        "Changes",
+        "Rust",
+        "That"
       ],
-      "last_new_count": 4,
+      "last_new_count": 3,
       "_new_total_for_digest": 4
     },
     "algorithms": {
@@ -900,7 +890,13 @@
         "Cracking",
         "tech/FAANG",
         "GitHub",
-        "Insider"
+        "Insider",
+        "Dead",
+        "Longer",
+        "Enough",
+        "But",
+        "Isn",
+        "Medium"
       ],
       "last_result_hashes": [
         "9683f091f94b73598b61b277bfaf0dc7",
@@ -915,22 +911,20 @@
         "867c193f14d86dba8e19be9953c4f21a",
         "7827ab24e9d276e3b17d86a148741a99",
         "51bdec45c83dc444c8040f8f04671877",
-        "a8aa637f95e68642739da1bdfed78db6"
+        "a8aa637f95e68642739da1bdfed78db6",
+        "1ff2c45205d19d05c322321f335f0949",
+        "6ad4424d61d8084aeff283da158f5951"
       ],
-      "last_run": "2026-06-24T07:49:16.491524+00:00",
+      "last_run": "2026-06-24T08:33:03.008574+00:00",
       "new_sub_topics_this_run": [
-        "Nucamp",
-        "Namaste",
-        "Medium",
-        "Start",
-        "Developers",
-        "Learning",
-        "Thinking",
-        "Backend",
-        "PBC's",
-        "Sheet"
+        "But",
+        "Dead",
+        "Enough",
+        "Isn",
+        "Longer",
+        "Medium"
       ],
-      "last_new_count": 5,
+      "last_new_count": 2,
       "_new_total_for_digest": 5
     },
     "python-internals": {
@@ -1097,7 +1091,11 @@
         "Boosts",
         "Benchmarks",
         "GitHub",
-        "Free Threaded Python"
+        "Free Threaded Python",
+        "No-GIL",
+        "Renaissance",
+        "Speed",
+        "Dominance"
       ],
       "last_result_hashes": [
         "fd6e6ed7fe3806f648821859d3f2f23b",
@@ -1113,20 +1111,19 @@
         "739a7c5c175f6819fc3c4da480f671a6",
         "b8e11d66aef4b692e34370ca89a9793f",
         "e20ed74f4b3c93e4c2ad329c325d99ec",
-        "c9f9bb148ad5e17e986f605a902c988c"
+        "c9f9bb148ad5e17e986f605a902c988c",
+        "a733b3d3d0caf86dd52116f4ec4dff91",
+        "17f40f751da9a1c9558ca7dbf958ae7e",
+        "c71c266cfca80a985eb39041d48e2705",
+        "3977a42e266cba0d9724f6994662a434",
+        "a1233cdbbbaf5c3624b23b99f9297143"
       ],
-      "last_run": "2026-06-24T07:49:16.491524+00:00",
+      "last_run": "2026-06-24T08:33:03.008574+00:00",
       "new_sub_topics_this_run": [
-        "Collection",
-        "Mechanics",
-        "Works",
-        "Hardware",
-        "Stinner",
-        "Dynamic",
-        "Tested",
-        "Multithreading's",
-        "Divide",
-        "Really"
+        "Dominance",
+        "No-GIL",
+        "Renaissance",
+        "Speed"
       ],
       "last_new_count": 5,
       "_new_total_for_digest": 5

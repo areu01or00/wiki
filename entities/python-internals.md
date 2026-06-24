@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: gil
+- **2026-06-24** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: gil
+- **2026-06-24** | [Thread states and the global interpreter lock — Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: python 3.14
+- **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and ...](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: gil
+- **2026-06-24** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: gil
+
 - **2026-06-24** | [What's new in Python 3.14 - Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: cpython
 - **2026-06-24** | [Python 3.14 - Astral](https://astral.sh/blog/python-3.14) | kw: cpython
 - **2026-06-24** | [Python 3.14 Free-threading: True Parallelism without GIL - LinkedIn](https://www.linkedin.com/pulse/python-314-free-threading-true-parallelism-without-gil-dayal-b5tic) | kw: gil
