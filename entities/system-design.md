@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [What does system mean? - Definitions.net](https://www.definitions.net/definition/system++++++++++++++++++) | kw: system-design
+- **2026-06-24** | [Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps](https://www.microsoft.com/en) | kw: system-design
+
 - **2026-06-24** | [SYSTEM | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/system) | kw: SYSTEM
 - **2026-06-24** | [Modern Architecture Patterns (2026 Edition) | by Uchit - Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern
 - **2026-06-24** | [Microservices Are Not the Future — This Is What Actually Scales in 2026](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: Microservices

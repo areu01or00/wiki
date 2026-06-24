@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/) | kw: python-internals
+
 - **2026-06-24** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
 - **2026-06-24** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: Python
 - **2026-06-24** | [The first year of free-threaded Python - Quansight Labs](https://labs.quansight.org/blog/free-threaded-one-year-recap) | kw: The

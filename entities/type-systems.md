@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Fully-Automatic Type Inference for Borrows with Lifetimes](https://dl.acm.org/doi/10.1145/3798221) | kw: type-systems
+
 - **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir
 - **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type
 - **2026-06-24** | [[2603.05649] Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Efficient

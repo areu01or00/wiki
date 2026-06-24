@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional-programming
+
 - **2026-06-24** | [Monad tutorials timeline - HaskellWiki](https://www.haskell.org/haskellwiki/Monad_tutorials_timeline) | kw: Monad
 - **2026-06-24** | [Practical uses of monads in Haskell - Nauths](https://nauths.fr/en/2026/05/28/practical-use-of-monads.html) | kw: Practical
 - **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How
