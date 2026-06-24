@@ -1,6 +1,17 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: type_systems
+- **2026-06-24** | [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/) | kw: type_systems
+- **2026-06-24** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: type_systems
+- **2026-06-24** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: type_systems
+- **2026-06-24** | [TypeRacer - Play Typing Games and Race Friends](https://play.typeracer.com/) | kw: type_systems
+- **2026-06-24** | [Typing Lessons - Learn To Type And Improve Typing Speed Free](https://www.typing.com/student/lessons) | kw: type_systems
+- **2026-06-24** | [Typing Test - Check Your Typing Speed Online - 10FastFingers.com](https://10fastfingers.com/typing-test) | kw: type_systems
+- **2026-06-24** | [Nitro Type | Competitive Typing Game | Race Your Friends](https://www.nitrotype.com/) | kw: type_systems
+- **2026-06-24** | [10FastFingers.com - Typing Test, Competitions, Practice & Typing...](https://10fastfingers.com/) | kw: type_systems
+- **2026-06-24** | [Free Online Typing Test - Results in 60 seconds!](https://www.speedtypingonline.com/typing-test) | kw: type_systems
+
 - **2026-06-24** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type systems:system
 - **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type systems:inference
 - **2026-06-24** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: type systems:Gradual

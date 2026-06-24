@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: compilers
+- **2026-06-24** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: compilers
+- **2026-06-24** | [LLNL Researchers Develop GPU JIT Compiler for Large-Scale HPC Applications](https://www.hpcwire.com/off-the-wire/llnl-researchers-develop-gpu-jit-compiler-for-large-scale-hpc-applications/) | kw: compilers
+
 - **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: compilers:Building
 - **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers:compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
 - **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ... - GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers:compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst

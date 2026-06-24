@@ -192,14 +192,6 @@
         "london"
       ],
       "last_result_hashes": [
-        "379c5033f2ec7e19ba46f499a156c842",
-        "94c1b0f099f1d566f3fdedccba3cf97b",
-        "91dac6710169bf7346d4292a6eb2d0c9",
-        "66ae815700cacb4e96d1e78f07e63810",
-        "ba78e26f83ca072ccd4dba08b465f313",
-        "30eb2e1134419c9dd635b852dc30339c",
-        "2d3506c3f6b37ad4e09360268ba56f6d",
-        "3b3f82a1ce99e0255038b165da4fd365",
         "dbf8e0c58091b15f2142c1ba6af512c4",
         "3e1426e7df71a88d744121a055d84039",
         "4e7722ea39af212c878e386a4fd36460",
@@ -211,12 +203,29 @@
         "723a72e43818348046e4c9cd461691bb",
         "38356f284740c83553dbab1846c99959",
         "fde2e620a9be8833a9c15bcafc435062",
-        "d3099c6517032e4d8a49b61853da6add"
+        "d3099c6517032e4d8a49b61853da6add",
+        "3d924683b109e99c93d7ba785e0c7ab0",
+        "25a06ccbe831fcae1efa398fc18b067e",
+        "2d3339fbcb04e9f626d884e03958e8d3",
+        "1885661cefe9c39654b0f1458625c8e0",
+        "401ac43fcb266731bf806fa34acbf462",
+        "64e900ff8986f325e4783fe3286a829d",
+        "10ee30a2694a972513965e5bdfbe0d98",
+        "987ac7af5646397c165d63257bb530c2"
       ],
-      "last_run": "2026-06-24T06:34:10.928968+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-24T06:49:37.498421+00:00",
+      "new_sub_topics_this_run": [
+        "system",
+        "distributed",
+        "three",
+        "distributed",
+        "distributed",
+        "microservices",
+        "build",
+        "essential"
+      ],
+      "last_new_count": 8,
+      "_new_total_for_digest": 8
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -388,9 +397,6 @@
         "your"
       ],
       "last_result_hashes": [
-        "c09177dedf4710eef5dd7f5549350ff9",
-        "85875fa4aeb3a7c10187eaf8cc0cac2f",
-        "e782e5cfec0aac8483730db128ffda54",
         "7d0b717005814217330e578b0fbdc8fb",
         "4a875ba6c9df4a6d863a675c9bbe1244",
         "da4da22ebe0b30bc79e1ad7a94e5310c",
@@ -407,16 +413,19 @@
         "0e8a0226b69abb703b30693fb544a14d",
         "b7d3464c157a4d7b6a9b324450e9451c",
         "3d4b74ce59781d7b09a8dce4e68d1434",
-        "648083769a978e805bbb401b852069ec"
+        "648083769a978e805bbb401b852069ec",
+        "ca9ade675eecf6183c340d40af57c779",
+        "32f4188675ea6aa9b99de9314a538fa1",
+        "145a07de41f9bd6320aac276ace40774"
       ],
-      "last_run": "2026-06-24T06:34:10.928968+00:00",
+      "last_run": "2026-06-24T06:49:37.498421+00:00",
       "new_sub_topics_this_run": [
-        "starting",
-        "kaleidoscopejit",
-        "your"
+        "design",
+        "dstogov",
+        "llnl"
       ],
-      "last_new_count": 6,
-      "_new_total_for_digest": 6
+      "last_new_count": 3,
+      "_new_total_for_digest": 3
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -612,16 +621,6 @@
         "digital"
       ],
       "last_result_hashes": [
-        "88dfcf74de33a1e88c9e9c90d0e55f9b",
-        "fc735fa9ff4c8d2d83888648a67a3892",
-        "068a07b3862dfe7a7b75410740325108",
-        "93b8f4981e491fdcdb19547e61691d0e",
-        "12160ccee61ab05107403ed6090d5b1d",
-        "ff96851d06fbab80b7a800b78ae5eca1",
-        "1892288ce3bfda31458d852753d72f5f",
-        "b177475a05631b06f73e531cf8aa0a39",
-        "55852131fabfce2db4a4694561d1aa46",
-        "6dd02e9dbc82ee59e01eebd7931fcaa4",
         "c3606e016fa3c7725224e51c9fcd0964",
         "a2e97705e0c79ed5b6b157ad3d701b26",
         "0e40ec20e1a733a8136667ee5938762f",
@@ -631,21 +630,33 @@
         "125dbb0b4ca4da741d64d57bca463383",
         "6d77d36d5d5faa4ef4e6858564ce52bc",
         "157412d23ae7600e6e71f1c5ad39564a",
-        "59a8a21374ae68e5d94fe6780980c29c"
+        "59a8a21374ae68e5d94fe6780980c29c",
+        "864c624f541aa32da64f03c0bca119ed",
+        "ebddfe8dc78273e26817862ee01ad6d5",
+        "61d24c6e5157e06f6618b84043de48bf",
+        "3b75bee49f1f057b646aa55135066aa0",
+        "0252b8777b2d55e7c510b57f349edc35",
+        "1c9a03760012e5d936f0449f499581b0",
+        "1d5baed3e5b128c58b42b70235eee6e0",
+        "8a08ccec47830b92ffbdd1aa70de4d27",
+        "3e4f940edbda55aaf9d23f0414602420",
+        "e56812caa122f447a7925e30f39dd81f"
       ],
-      "last_run": "2026-06-24T06:34:10.928968+00:00",
+      "last_run": "2026-06-24T06:49:37.498421+00:00",
       "new_sub_topics_this_run": [
-        "library",
-        "dynamically",
-        "sciencedirect.com",
-        "typing?",
-        "training",
-        "languages?",
-        "blame",
-        "digital"
+        "learn",
+        "learn",
+        "monkeytype",
+        "typingtest",
+        "typeracer",
+        "typing",
+        "typing",
+        "nitro",
+        "fastfingers",
+        "free"
       ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_new_count": 10,
+      "_new_total_for_digest": 10
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -851,10 +862,6 @@
         "always"
       ],
       "last_result_hashes": [
-        "cee91708d37e1c73c9ee827ace199642",
-        "4ac0514cd1b9523a42ab883932eafd86",
-        "eacb2a8e9260c675e284ce359824b6f6",
-        "ab1a401478bf91151df62818473f5ef5",
         "0a825892b16894ee5479d8cdc9ceb413",
         "64b9213a9db6ffcf3ee048410614e9dc",
         "ca0a1465631c6b3c554a745b4cc949a5",
@@ -870,35 +877,21 @@
         "573c8e6883772cdc8a55e6e7fe7367e2",
         "8b6d52af77ed32c3e0909342e2cc39c5",
         "4105435df423c0898d38cea97ae1629c",
-        "11bddcd507d32f49483c381c9840b231"
+        "11bddcd507d32f49483c381c9840b231",
+        "3e738690ca3218e22bf2f6068cc1c543",
+        "8d7c911d32f4e1094d69bc163978a6d2",
+        "f0ebc88fd8dc88d3328d7b1d93ab1507",
+        "ef0fa2a378e721a6e420bcc3ededc61a"
       ],
-      "last_run": "2026-06-24T06:34:10.928968+00:00",
+      "last_run": "2026-06-24T06:49:37.498421+00:00",
       "new_sub_topics_this_run": [
-        "classes",
-        "written",
-        "significantly",
-        "internals",
-        "combinators",
-        "dream",
-        "gentle",
-        "monad?",
-        "introduction",
-        "make",
-        "monadically?",
-        "production",
-        "accidental",
-        "morton",
-        "code",
-        "bind",
-        "more",
-        "caroline",
-        "transformers",
-        "operation",
-        "learning",
-        "always"
+        "co-creator",
+        "what",
+        "issue",
+        "functional"
       ],
-      "last_new_count": 9,
-      "_new_total_for_digest": 9
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1100,11 +1093,6 @@
         "video"
       ],
       "last_result_hashes": [
-        "7827ab24e9d276e3b17d86a148741a99",
-        "867c193f14d86dba8e19be9953c4f21a",
-        "51bdec45c83dc444c8040f8f04671877",
-        "6ad4424d61d8084aeff283da158f5951",
-        "1ff2c45205d19d05c322321f335f0949",
         "eafd918237f1fdcc99e04073cd8d13ea",
         "efaca53a4fb3332a168f55b43aac804a",
         "365570d3d2e5c9c4f03cec946287df02",
@@ -1119,26 +1107,23 @@
         "9b1c781b75b9542b2127a9f5c4d86186",
         "111db27a86a17aa6e9f6157684b7e862",
         "ad5f2ef3032515815cced850159adf31",
-        "e417779c7c4977679bee1b6128aca0aa"
+        "e417779c7c4977679bee1b6128aca0aa",
+        "2b6773843051b806fc648da0662c0c3a",
+        "89e7f172eeae4c358ffa14425da7ef96",
+        "4e3936ee53aa5dd2d237081732d0856b",
+        "e3ad6f38a3b1d22c27c6c8c0f4a37af0",
+        "be0ed9a278d7860adea7fbf688a29e8d"
       ],
-      "last_run": "2026-06-24T06:34:10.928968+00:00",
+      "last_run": "2026-06-24T06:49:37.498421+00:00",
       "new_sub_topics_this_run": [
-        "wayne",
-        "solutions",
-        "robert",
-        "with",
-        "tutorial",
-        "wikipedia",
-        "until",
-        "hard",
-        "kevin",
         "what",
-        "these",
-        "learned",
-        "video"
+        "algorithms",
+        "algorithm",
+        "what",
+        "algorithm"
       ],
-      "last_new_count": 12,
-      "_new_total_for_digest": 12
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1329,15 +1314,6 @@
         "documentation"
       ],
       "last_result_hashes": [
-        "c0d9870261fb93e027112cfed34316a5",
-        "3ca0f5111ea998f95acd8c079ac9e8f2",
-        "1c9e34c438b893768685d5e9b0743087",
-        "d312cb77ade078c8f1e9dac2e24a756b",
-        "44ede0fa7f964aee564e189fd251a80b",
-        "a44a429166bbed4333a1c82626ae1109",
-        "1be53e10eade2930b6787840c446f6b1",
-        "10a6d6e786cdb44ade53e424b1cf9cd2",
-        "2ce0621961507d5a23124e482fa7bdb7",
         "e669abbf1e5993493bd4b0eef751ffe3",
         "17f40f751da9a1c9558ca7dbf958ae7e",
         "1cf455284bb0983215069efb06784c61",
@@ -1348,21 +1324,32 @@
         "a1b09dd538853456c361cf73dbf6eb1b",
         "49e104f341848ff77b2a3d4197d49f95",
         "c7ced269c50c0109bf8e0d749e668f69",
-        "20cd057ce65753edd39cd6bcea056819"
+        "20cd057ce65753edd39cd6bcea056819",
+        "bc46e2bcc23714c5243a5210b1d2f5ae",
+        "dd98088bd44f163005b52f39b2756953",
+        "fdee620013b11fbe4ff74a856625554f",
+        "83c76331b8d186cc5d695017f50eb5fb",
+        "eb0b3ec801d1a3e533436e346922f4e5",
+        "8c9ba4cb5a5e5722f9c0bc68313672d7",
+        "1f8e2c92ae5ada27a41135077afa335d",
+        "ed9a74d7a5d5e8f02ff48ca5fdbb0856",
+        "ea5c38d19b30409d9d46cbd89420af5d"
       ],
-      "last_run": "2026-06-24T06:34:10.928968+00:00",
+      "last_run": "2026-06-24T06:49:37.498421+00:00",
       "new_sub_topics_this_run": [
-        "3.14t",
-        "pyo3",
-        "user",
-        "supporting",
-        "nogil",
-        "3.14.6",
-        "documentation"
+        "python",
+        "welcome",
+        "learn",
+        "online",
+        "python",
+        "python",
+        "online",
+        "what",
+        "download"
       ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "last_new_count": 9,
+      "_new_total_for_digest": 9
     }
   },
-  "last_run": "2026-06-24T06:18:15.249469+00:00"
+  "last_run": "2026-06-24T06:49:37.498421+00:00"
 }

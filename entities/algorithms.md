@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [What is an Algorithm | Introduction to Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
+- **2026-06-24** | [Algorithms | Computer science theory | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: algorithms
+- **2026-06-24** | [Algorithm | Definition, Types, & Facts | Britannica](https://www.britannica.com/science/algorithm) | kw: algorithms
+- **2026-06-24** | [What is an Algorithm? - hai.stanford.edu](https://hai.stanford.edu/ai-definitions/what-is-an-algorithm) | kw: algorithms
+- **2026-06-24** | [ALGORITHM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/algorithm) | kw: algorithms
+
 - **2026-06-24** | [Algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Algorithm) | kw: algorithms:Algorithm
 - **2026-06-24** | [List of algorithms - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_algorithms) | kw: algorithms:algorithms
 - **2026-06-24** | [What is an Algorithm | GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms:Algorithm

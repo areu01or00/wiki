@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Co-Creator of Haskell: Functional Programming, Thinking in Types - developing.dev](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: functional_programming
+- **2026-06-24** | [What other ways can state be handled in a pure functional language - Stack Overflow](https://stackoverflow.com/questions/13536761/what-other-ways-can-state-be-handled-in-a-pure-functional-language-besides-with) | kw: functional_programming
+- **2026-06-24** | [Issue 522 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/522.html) | kw: functional_programming
+- **2026-06-24** | [Functional Programming Online Courses - Serokell](https://serokell.io/courses) | kw: functional_programming
+
 - **2026-06-24** | [Monad - HaskellWiki - Haskell.org](https://www.haskell.org/haskellwiki/Monad) | kw: functional programming:Monad
 - **2026-06-24** | [Haskell Language](https://www.haskell.org/) | kw: functional programming:Haskell
 - **2026-06-24** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: functional programming:Gentle
