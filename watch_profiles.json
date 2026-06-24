@@ -186,7 +186,7 @@
         "d1e372bd1cab38b18f314ae841933a76",
         "f7cf38f7aa40d1367d146af7c63e489e"
       ],
-      "last_run": "2026-06-24T03:47:44+00:00",
+      "last_run": "2026-06-24T04:04:02.749574+00:00",
       "new_sub_topics_this_run": [
         "system design patterns",
         "system design",
@@ -381,7 +381,7 @@
         "da4da22ebe0b30bc79e1ad7a94e5310c",
         "385ab034e49daebe86f6093cf910e217"
       ],
-      "last_run": "2026-06-24T03:47:44+00:00",
+      "last_run": "2026-06-24T04:04:02.749574+00:00",
       "new_sub_topics_this_run": [
         "modern language runtimes",
         "modern language",
@@ -573,7 +573,7 @@
         "c19bd1bb86dcb0e536e282a5d39d1792",
         "88dfcf74de33a1e88c9e9c90d0e55f9b"
       ],
-      "last_run": "2026-06-24T03:47:44+00:00",
+      "last_run": "2026-06-24T04:04:02.749574+00:00",
       "new_sub_topics_this_run": [
         "type inference of",
         "type inference",
@@ -766,7 +766,7 @@
         "2d1d11c7f28e2e1dc1e1c28d840e105d",
         "269341708d555d5819da5ef32f81a574"
       ],
-      "last_run": "2026-06-24T03:47:44+00:00",
+      "last_run": "2026-06-24T04:04:02.749574+00:00",
       "new_sub_topics_this_run": [
         "functional mathematics wikipedia",
         "functional mathematics",
@@ -942,7 +942,6 @@
         "graph algorithms"
       ],
       "last_result_hashes": [
-        "25375a273703fbd792f71e66ba982f05",
         "49a674ad4a5ad266578e69d11a8c6109",
         "79b94c12eb402f69a1e2ad6993a5a990",
         "36ba7b07edb8950a7f89e0ce9220e6f7",
@@ -961,9 +960,10 @@
         "ca8e5100d809875f1f9f9b10b85ec256",
         "aea0f57e06b1fe8e829cd99419deb134",
         "2bd9102f3538780b178049a525764cb8",
-        "221979b5f9614488d1d3eea60c67cbe3"
+        "221979b5f9614488d1d3eea60c67cbe3",
+        "2e72dda92dcc923bcf4ca99b58fbca6c"
       ],
-      "last_run": "2026-06-24T03:47:44+00:00",
+      "last_run": "2026-06-24T04:04:02.749574+00:00",
       "new_sub_topics_this_run": [
         "algorithm wikipedia",
         "list of algorithms",
@@ -974,10 +974,14 @@
         "comprehensive list",
         "explore leetcode",
         "search word data",
-        "design add"
+        "design add",
+        "start leetcode",
+        "leetcode 2026",
+        "2026 beginner",
+        "beginner youtube"
       ],
-      "last_new_count": 14,
-      "_new_total_for_digest": 10
+      "last_new_count": 1,
+      "_new_total_for_digest": 11
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1139,8 +1143,6 @@
         "python 3.14 speed"
       ],
       "last_result_hashes": [
-        "10a6d6e786cdb44ade53e424b1cf9cd2",
-        "252845909ac69f5ad790b2d3a93be35b",
         "57ad949b13054a49134274f7b5cbab95",
         "a454e6bd90dd4ae1795224af7e27c1bb",
         "52c26d6078b841fe6553e86f0cf984a5",
@@ -1158,24 +1160,36 @@
         "dd98088bd44f163005b52f39b2756953",
         "630494323ed3b4072269e695b0e33483",
         "82d9d3fb6a101228b8b14c0fc7a434d1",
-        "c71c266cfca80a985eb39041d48e2705"
+        "c71c266cfca80a985eb39041d48e2705",
+        "ad22e1fc058eecdb462a8f154377af8e",
+        "9bbc2fde96d5294c1108f620b2ae2a7a"
       ],
-      "last_run": "2026-06-24T03:47:44+00:00",
+      "last_run": "2026-06-24T04:04:02.749574+00:00",
       "new_sub_topics_this_run": [
-        "how python works",
-        "how python",
-        "internals of python",
-        "internals of",
         "python global interpreter",
         "what is",
         "top python interview",
         "top python",
         "of python scanlibs",
-        "of python"
+        "of python",
+        "most frequently",
+        "frequently asked",
+        "asked python",
+        "python interview",
+        "interview questions",
+        "questions createyourresume",
+        "beyond basics",
+        "basics async",
+        "async type",
+        "type hints",
+        "hints packaging",
+        "packaging production",
+        "production python",
+        "python jobcannon"
       ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 9
+      "last_new_count": 2,
+      "_new_total_for_digest": 11
     }
   },
-  "last_run": "2026-06-24T03:47:44+00:00"
+  "last_run": "2026-06-24T04:04:02.749574+00:00"
 }

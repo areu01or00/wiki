@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [How to start Leetcode in 2026 (as a Beginner) - YouTube](https://www.youtube.com/watch?v=kh4hCUF_5y8) | kw: How to start Leetcode in 2026 (as a Beginner)
+
 - **2026-06-24** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithm
 - **2026-06-24** | [List of algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms) | kw: algorithms
 - **2026-06-24** | [leetcode - GitHub Topics](https://github.com/topics/leetcode) | kw: leetcode

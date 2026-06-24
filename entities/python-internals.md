@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Top 50 Most Frequently Asked Python Interview Questions - CreateYourResume](https://createyourresume.in/blog/job-search/most-frequently-asked-python-50-interview-questions) | kw: Top 50 Most Frequently Asked Python Interview Ques
+- **2026-06-24** | [Beyond basics: async, type hints, packaging, and production Python - jobcannon](https://jobcannon.io/skills/python-advanced) | kw: Beyond basics
+
 - **2026-06-24** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python
 - **2026-06-24** | [Internals of Python 3.x - Amazon book](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: python
 - **2026-06-24** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: python
