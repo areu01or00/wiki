@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type systems
+- **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type systems
+- **2026-06-24** | [(PDF) Gradual typing with unification-based inference](https://www.researchgate.net/publication/220828930_Gradual_typing_with_unification-based_inference) | kw: type systems
+- **2026-06-24** | [Gradual Typing: Bridging the Gap Between Static and Dynamic Worlds](https://daily.jovis.ai/programming-languages/gradual-typing-bridging-the-gap-between-static-and-dynamic-worlds/) | kw: type systems
+
 - **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the next 15 m
 - **2026-06-24** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: Gradual typing with unification
 - **2026-06-24** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: To what extent is type theory relevant to dynamica

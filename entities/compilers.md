@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers LLVM
+- **2026-06-24** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: compilers LLVM
+- **2026-06-24** | [Building Fermat: A Journey from Scratch to JIT Compiler (Part 1)](https://medium.com/@satyikpritamy/building-fermat-a-journey-from-scratch-to-jit-compiler-part-1-8f3726a67d27) | kw: compilers LLVM
+- **2026-06-24** | [JIT Design and Implementation · The Julia Language](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: compilers LLVM
+
 - **2026-06-24** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with... - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: 2025 EuroLLVM
 - **2026-06-24** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why is llvm considered unsuitable for implementing
 - **2026-06-24** | [What is LLVM? The power behind Swift, Rust, Clang, and... | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What is LLVM? The power behind Swift, Rust, Clang,

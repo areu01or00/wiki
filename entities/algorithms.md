@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-wise - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: algorithms data
+
 - **2026-06-24** | [Unexpected end of JSON input - Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Unexpected end of JSON input
 - **2026-06-24** | [I Tried 30+ Data Structures and Algorithms Courses - Medium](https://medium.com/javarevisited/i-tried-30-data-structures-and-algorithms-courses-here-are-my-top-5-recommendations-for-2026-124e64b5cf4c) | kw: I Tried 30+ Data Structures and Algorithms Courses
 - **2026-06-24** | [Top 100 Data Structure and Algorithms DSA Interview...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top 100 Data Structure and Algorithms DSA Intervie

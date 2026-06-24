@@ -350,7 +350,7 @@
         "Infrastructure",
         "Borretti",
         "course",
-        "“LLVM",
+        "\u201cLLVM",
         "JIT",
         "Developers",
         "Documentation",
@@ -451,10 +451,6 @@
         "Databases"
       ],
       "last_result_hashes": [
-        "0d5f42cea0bd3526c43c8ca74e739e10",
-        "bbb446f219d0926dc00975255367705e",
-        "e68dc62e630ccaee9a70f88b772666c3",
-        "044f00f22ade99878d29e43ef426c83d",
         "8062655d9cfadf177bd509eda21b1d75",
         "af906821b5af28695658baff9661080f",
         "91a6ff99ad09d27919aeb0b7fed43f8f",
@@ -470,9 +466,13 @@
         "2e36db34c1a584712cd6f35f63aa33ba",
         "79f4ddf873dbf67c746be2d871fbeb46",
         "34c166634f13431feef39c0866dcf8e7",
-        "cce86a95c27c221910b49215668720b0"
+        "cce86a95c27c221910b49215668720b0",
+        "c229b29038867ea813cf2dcc4e6df581",
+        "5cefefefe6afc297697ed1187181b6a1",
+        "0589f45849e8c6f5a46220e8f0be2a45",
+        "ec0b892486df6b096e05619b62eaf636"
       ],
-      "last_run": "2026-06-24 22:16 UTC",
+      "last_run": "2026-06-24 22:32 UTC",
       "new_sub_topics_this_run": [
         "The Case For Compilers",
         "Modern Language Runtimes",
@@ -491,8 +491,8 @@
         "orcjit at",
         "llvm compiler"
       ],
-      "last_new_count": 5,
-      "_new_total_for_digest": 5
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -526,7 +526,7 @@
         "CodeDocs",
         "Unexpected",
         "TypeScript6.0",
-        "Gábor",
+        "G\u00e1bor",
         "theory",
         "Online",
         "Foundations",
@@ -685,10 +685,6 @@
         "Bridging"
       ],
       "last_result_hashes": [
-        "9de76170adb9c4f0c0611d6cbf280fb3",
-        "b61b9698d831108c7ace0ed502ac2490",
-        "c153e2a1e8b47a9fbb576773a55dea95",
-        "0196229a2730c97cd09eb65016ed3a66",
         "4e07b56a74b7552652f00b473098fabe",
         "6242e57aedc87c8504bdb3ec2739a54e",
         "a7dd73b5e83599ad31451632c201e113",
@@ -704,9 +700,13 @@
         "6d77d36d5d5faa4ef4e6858564ce52bc",
         "157412d23ae7600e6e71f1c5ad39564a",
         "59a8a21374ae68e5d94fe6780980c29c",
-        "1a9958a78e7ae39c78870e2584d0687d"
+        "1a9958a78e7ae39c78870e2584d0687d",
+        "88dfcf74de33a1e88c9e9c90d0e55f9b",
+        "686812076d5de90d1c2ef77d554beb01",
+        "12160ccee61ab05107403ed6090d5b1d",
+        "ee7e5ae38d8096beea069d17440a80e2"
       ],
-      "last_run": "2026-06-24 22:16 UTC",
+      "last_run": "2026-06-24 22:32 UTC",
       "new_sub_topics_this_run": [
         "Static",
         "Dynamic Typing",
@@ -738,8 +738,8 @@
         "the most",
         "the 10"
       ],
-      "last_new_count": 15,
-      "_new_total_for_digest": 15
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -768,7 +768,7 @@
         "Metal",
         "Weekly",
         "Hacker",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "Meets",
         "functional",
         "Functor",
@@ -859,7 +859,7 @@
         "Learn",
         "Functional",
         "Functional Programming in 2026: Haskell vs. Gleam vs. Rust",
-        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
         "Haskell Guide [2026]: Functional Programming That Changes How You Think",
         "Which Functional Programming Languages Should You Learn in 2026?",
         "How I Learned Monads: Not Through Haskell But Through Rust",
@@ -955,10 +955,6 @@
         "Functional Programming Online Courses"
       ],
       "last_result_hashes": [
-        "2a4484c00cdb382848a9c586f654f5ff",
-        "df53aa6c8127b0828f3e0126607cfd0a",
-        "ab1a401478bf91151df62818473f5ef5",
-        "32a8b72620f9ad02c0fd61fc5abba7de",
         "f754971725118e81c5661d4781fdbbfd",
         "48dd011d4e1a398f9bf2a4278af5f6b6",
         "6265d0c7ea387b97e9eb7551bfd1a683",
@@ -974,9 +970,13 @@
         "e2809728031a0a794b40bbdaef5a85f9",
         "0fe646b353899d86651a27d76a5fece2",
         "2c6957e1f1d7ea7d57cfdd721fc5e962",
-        "720235f690e5c5f24e06cb8bfa9fccd3"
+        "720235f690e5c5f24e06cb8bfa9fccd3",
+        "ca0a1465631c6b3c554a745b4cc949a5",
+        "64b9213a9db6ffcf3ee048410614e9dc",
+        "4744aaa7ba822ae7366141a52f9d4bef",
+        "f0ebc88fd8dc88d3328d7b1d93ab1507"
       ],
-      "last_run": "2026-06-24 22:16 UTC",
+      "last_run": "2026-06-24 22:32 UTC",
       "new_sub_topics_this_run": [
         "Rust Users Forum",
         "Learned Monads",
@@ -997,8 +997,8 @@
         "welcome to",
         "gleam is"
       ],
-      "last_new_count": 12,
-      "_new_total_for_digest": 12
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1225,7 +1225,6 @@
         "PBC"
       ],
       "last_result_hashes": [
-        "efaca53a4fb3332a168f55b43aac804a",
         "d31c8897e9e24d4ad29ecda9d97dea8d",
         "35f3793cac8b78d908e7f2d7bb34859d",
         "ba50c33659023000a05b15557c124e4f",
@@ -1244,9 +1243,10 @@
         "1a7189e741d9d9b72b8247ac6ded6ec2",
         "bacc4c268ab4d6ab4c074b284e41ab33",
         "ec401c280dd19f2b40d32dbb452a7dd8",
-        "5e88f6c01a27285ecd0ce1dd293a399e"
+        "5e88f6c01a27285ecd0ce1dd293a399e",
+        "cbe2e96e89f866f21a36d6ca8966d699"
       ],
-      "last_run": "2026-06-24 22:16 UTC",
+      "last_run": "2026-06-24 22:32 UTC",
       "new_sub_topics_this_run": [
         "Wikipedia",
         "The Ultimate Leetcode Roadmap",
@@ -1263,7 +1263,7 @@
         "Namaste DSA Sheet",
         "To Crack FAANG",
         "PBC",
-        "leetcode-python ·",
+        "leetcode-python \u00b7",
         "explore -",
         "guideline for",
         "design add",
@@ -1274,8 +1274,8 @@
         "master the",
         "is leetcode"
       ],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1334,7 +1334,7 @@
         "master",
         "Memory",
         "Support",
-        "internals·",
+        "internals\u00b7",
         "Still",
         "Interpreter",
         "Everything",
@@ -1404,7 +1404,7 @@
         "Real",
         "CPython - Wikipedia",
         "GitHub - python/cpython: The Python programming language",
-        "Your Guide to the CPython Source Code – Real Python",
+        "Your Guide to the CPython Source Code \u2013 Real Python",
         "GitHub - anasoftwareus/cpython: The Python programming language",
         "Python vs Cpython - GeeksforGeeks",
         "Python in 2026: Free-Threading and UV Change Everything - Medium",
@@ -1489,11 +1489,6 @@
         "MoldStud"
       ],
       "last_result_hashes": [
-        "dd98088bd44f163005b52f39b2756953",
-        "a6c58176fc7c15d04c6965b77938f5ae",
-        "8eda8fd96ab2be56921cba54f0d1777a",
-        "eb0b3ec801d1a3e533436e346922f4e5",
-        "8c9ba4cb5a5e5722f9c0bc68313672d7",
         "1f8e2c92ae5ada27a41135077afa335d",
         "1d2c3f7c79b6739381eda440cbb16a95",
         "3ec22afa129e1cb8d531db2061d69279",
@@ -1508,9 +1503,14 @@
         "817aa74407b4713aa18da748c823c43e",
         "1cf455284bb0983215069efb06784c61",
         "2761d721f9d8530989b6088e14d624da",
-        "5356b694ade3ee8262bc765dc3f1eb71"
+        "5356b694ade3ee8262bc765dc3f1eb71",
+        "10a6d6e786cdb44ade53e424b1cf9cd2",
+        "bbb596c3441904fed7dc7fa5f00eeb00",
+        "a454e6bd90dd4ae1795224af7e27c1bb",
+        "661f5f68f6928f4ea520218b2f607795",
+        "15a7206ce9d32c657cb866ee87f368ea"
       ],
-      "last_run": "2026-06-24 22:16 UTC",
+      "last_run": "2026-06-24 22:32 UTC",
       "new_sub_topics_this_run": [
         "Python Global Interpreter Lock",
         "Global Interpreter Lock",
@@ -1535,5 +1535,5 @@
       "_new_total_for_digest": 5
     }
   },
-  "last_run": "2026-06-24 22:16 UTC"
+  "last_run": "2026-06-24 22:32 UTC"
 }
