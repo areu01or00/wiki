@@ -188,10 +188,10 @@
         "34a7661625980b806863c89ac2b7a075",
         "27f91f9cdafca8b736a1dad41fd3e91c"
       ],
-      "last_run": "2026-06-24T17:15:35+00:00",
+      "last_run": "2026-06-24T17:34:34+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -353,7 +353,6 @@
         "medium"
       ],
       "last_result_hashes": [
-        "3779681a8c39b9335f139079aacf0b7d",
         "c7b4a1db0afe31e4f263d4a5b2656bda",
         "af906821b5af28695658baff9661080f",
         "1184c072911f7c9803e7f796c79f9d09",
@@ -372,12 +371,13 @@
         "4ce67ef4e24fc43fb56fc07e3f55ea0e",
         "ec0b892486df6b096e05619b62eaf636",
         "a81f94e52bc729418182d76498c3d2d8",
-        "5cefefefe6afc297697ed1187181b6a1"
+        "5cefefefe6afc297697ed1187181b6a1",
+        "2b8946866c886624f1f07a6dc41a80bf"
       ],
-      "last_run": "2026-06-24T17:15:35+00:00",
+      "last_run": "2026-06-24T17:34:34+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -569,7 +569,7 @@
         "6c257d065a3041b16049b05a47e582ff",
         "c9123dc5820ca8a5bd5de47238751e74"
       ],
-      "last_run": "2026-06-24T17:15:35+00:00",
+      "last_run": "2026-06-24T17:34:34+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -779,7 +779,7 @@
         "6754b9460b5d57b0ca37a84b769f197e",
         "0283fc4be26a0aa2400316b3f8b1660f"
       ],
-      "last_run": "2026-06-24T17:15:35+00:00",
+      "last_run": "2026-06-24T17:34:34+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -966,8 +966,6 @@
         "That"
       ],
       "last_result_hashes": [
-        "f893c93e22564ece8a52ec3ba3391782",
-        "6c1f5b37c022e385a09cc82cc9115ae4",
         "e854557afb5044df34a00af54222c3c0",
         "f49c612baaf4ef910abe776f9678d67c",
         "089bff450d81eacb0427db6c27165d3c",
@@ -985,12 +983,14 @@
         "4ac8b8b1ca92914ad1b76c32528e1a3d",
         "e4e1c6d1a01517cf15a2a3835bea896e",
         "f165d7fe740b5c35dcc862dc5659c988",
-        "f7920905f9b20514685cbcf47a756670"
+        "f7920905f9b20514685cbcf47a756670",
+        "6caf05a4744ee8215266eedf16084500",
+        "db4e70fe3369b860a804f7230900f524"
       ],
-      "last_run": "2026-06-24T17:15:35+00:00",
+      "last_run": "2026-06-24T17:34:34+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 2,
+      "_new_total_for_digest": 2
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1174,7 +1174,6 @@
         "Management"
       ],
       "last_result_hashes": [
-        "169ba062064692a1d30e42f36b42bd6c",
         "d8d11eebc249429bb00da0d0a9baef6d",
         "30a4edee31d4e81eb770c0cc639b176e",
         "4e912e019283392ffbd41bd531674b8a",
@@ -1193,12 +1192,13 @@
         "bc46e2bcc23714c5243a5210b1d2f5ae",
         "e20ed74f4b3c93e4c2ad329c325d99ec",
         "66266dc371ce73be91e6ce8ce73a901f",
-        "468742a4701a77f0ca48325d95a4f4a9"
+        "468742a4701a77f0ca48325d95a4f4a9",
+        "cb8573f05672401d86a4a743913672fe"
       ],
-      "last_run": "2026-06-24T17:15:35+00:00",
+      "last_run": "2026-06-24T17:34:34+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     }
   }
 }

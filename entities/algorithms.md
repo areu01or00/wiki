@@ -1,6 +1,9 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [DSA With Java for Placements | LeetCode + Interview Prep](https://www.udemy.com/course/dsa-with-java-master-data-structures-algorithms/) | kw: DSA With Java for Placements | LeetCode + Interview Prep
+- **2026-06-24** | [Kotak%20mahindra%20bank Interview Questions & Experiences 2026](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/Kotak+Mahindra+Bank) | kw: Kotak%20mahindra%20bank Interview Questions & Experiences 20
+
 - **2026-06-24** | [faang-interview GitHub Topics](https://github.com/topics/faang-interview?o=desc&s=updated) | kw: faang-interview GitHub Topics
 - **2026-06-24** | [Step-by-Step Guide for FAANG Interviews in 2026](https://medium.com/@emilyhustlenyc/step-by-step-guide-for-faang-interviews-in-2026-part-1-of-10-the-master-roadmap-729049306d85) | kw: Step-by-Step Guide for FAANG Interviews in 2026
 - **2026-06-24** | [Blind 75 LeetCode The Complete Guide and Problem List 2026](https://copilotinterview.com/blog/blind-75-leetcode-guide) | kw: Blind 75 LeetCode The Complete Guide and Problem List 2026

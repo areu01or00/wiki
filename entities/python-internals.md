@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://coderprog.com/internals-python-3-performance/) | kw: Internals of Python 3.x: Derive Maximum Code Performance and
+
 - **2026-06-24** | [Python in 2026 Free-Threading and UV Change Everything Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026 Free-Threading and UV Change Everything Mediu
 - **2026-06-24** | [How Python's GIL actually works and when it bites you](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works and when it bites you
 - **2026-06-24** | [Thread states and the global interpreter lock Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock Python 3.14.6 
