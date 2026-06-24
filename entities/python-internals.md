@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [A ten-hour codewalk through the Python interpreter (2015)](https://news.ycombinator.com/item?id=13825225) | kw: ten-hour, codewalk, through, the
+- **2026-06-24** | [What Is the Python GIL and Will They Get Rid of It? - Backblaze](https://www.backblaze.com/blog/the-python-gil-past-present-and-future/) | kw: What, the, Python, GIL
+
 - **2026-06-24** | [Internals of Python 3.x](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: internals python
 - **2026-06-24** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: python global
 - **2026-06-24** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: top python

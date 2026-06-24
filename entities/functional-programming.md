@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Effectively Propositional Higher-Order Functional Programming](https://gowthamk.github.io/docs/oopsla26.pdf) | kw: Effectively, Propositional, Higher-Order, Functional
+- **2026-06-24** | [Tran Functional Programming Guide - binary.phile](http://www.binaryphile.com/functional-programming/go/software-engineering/2026/01/09/tran-functional-programming-guide.html) | kw: Tran, Functional, Programming, Guide
+- **2026-06-24** | [What is Functional Programming? - Alexandru Nedelcu](https://alexn.org/blog/2017/10/15/functional-programming/) | kw: What, Functional, Programming, Alexandru
+- **2026-06-24** | [Why do some people say functional programming is the future, and ...](https://www.quora.com/Why-do-some-people-say-functional-programming-is-the-future-and-is-it-really-worth-learning-Haskell) | kw: Why, some, people, say
+- **2026-06-24** | [LFMTP 2026 - GitHub Pages](https://lfmtp.github.io/lfmtp-page/workshops/2026/) | kw: LFMTP, GitHub, Pages
+- **2026-06-24** | [What is the relationship between lambda calculus and programming ...](https://softwareengineering.stackexchange.com/questions/260339/what-is-the-relationship-between-lambda-calculus-and-programming-languages) | kw: What, the, relationship, between
+- **2026-06-24** | [CSU34016 – Introduction to Functional Programming](https://teaching.scss.tcd.ie/module/csu34016-introduction-to-functional-programming/) | kw: CSU34016, Introduction, Functional, Programming
+
 - **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad, functional, programming, Wikipedia
 - **2026-06-24** | [What killed Haskell, could kill Rust, too · GitHub - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: killed, Haskell, could, kill
 - **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads, Not, Through

@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [What is an Algorithm? - hai.stanford.edu](https://hai.stanford.edu/ai-definitions/what-is-an-algorithm) | kw: What, Algorithm, hai, stanford
+
 - **2026-06-24** | [data-structures · GitHub Topics](https://github.com/topics/data-structures) | kw: data-structures github
 - **2026-06-24** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: leetcode world
 - **2026-06-24** | [LeetCode Review (2026): Is It Worth It?](https://coddy.tech/vs/leetcode) | kw: leetcode review
