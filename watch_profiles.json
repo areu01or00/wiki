@@ -205,27 +205,10 @@
         "07550bd5bf7eb2464189443840582802",
         "c7cff6ce94dac7da8e933c0b3204d753"
       ],
-      "last_run": "2026-06-24 19:02 UTC",
-      "new_sub_topics_this_run": [
-        "From",
-        "Monolith",
-        "London",
-        "Azure",
-        "Center",
-        "Microsoft",
-        "Sairyss",
-        "system-design-patterns",
-        "GitHub",
-        "Truths",
-        "apidays",
-        "India",
-        "Most-Used",
-        "Akash",
-        "Kumar",
-        "Styles"
-      ],
-      "last_new_count": 13,
-      "_new_total_for_digest": 13
+      "last_run": "2026-06-24 19:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -438,40 +421,10 @@
         "4cee999b71414851927c1c3805e155c2",
         "da2a9627437ec27ab2a13b536f37cf45"
       ],
-      "last_run": "2026-06-24 19:02 UTC",
-      "new_sub_topics_this_run": [
-        "Per-function",
-        "Lazy",
-        "considered",
-        "implementing",
-        "What",
-        "behind",
-        "Swift",
-        "Rust",
-        "Clang",
-        "InfoWorld",
-        "example",
-        "LLVM-5",
-        "Gist",
-        "Revolutionize",
-        "Next",
-        "Toolify",
-        "Prototype",
-        "Energy-Saving",
-        "Part",
-        "Bendersky",
-        "Slideshare",
-        "legacy25",
-        "Future",
-        "OpenProjects",
-        "jank",
-        "great",
-        "start",
-        "programming",
-        "tratt"
-      ],
-      "last_new_count": 18,
-      "_new_total_for_digest": 18
+      "last_run": "2026-06-24 19:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -675,22 +628,10 @@
         "c4981204de3af4a493b80247f29701a5",
         "b93ebfb5f7ef09eeda3167d16353254b"
       ],
-      "last_run": "2026-06-24 19:02 UTC",
-      "new_sub_topics_this_run": [
-        "programming-journal",
-        "Gabriel",
-        "Ortuno",
-        "Putting",
-        "Work",
-        "Group",
-        "Tech",
-        "Strict",
-        "Mode",
-        "Generics",
-        "Functions"
-      ],
-      "last_new_count": 12,
-      "_new_total_for_digest": 12
+      "last_run": "2026-06-24 19:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -919,30 +860,10 @@
         "48e396ad3bb766dd1b0be8823cba3259",
         "e2809728031a0a794b40bbdaef5a85f9"
       ],
-      "last_run": "2026-06-24 19:02 UTC",
-      "new_sub_topics_this_run": [
-        "tutorial",
-        "book",
-        "Users",
-        "Forum",
-        "Medium",
-        "could",
-        "kill",
-        "Gist",
-        "Co-Creator",
-        "Types",
-        "Developing",
-        "other",
-        "ways",
-        "state",
-        "handled",
-        "Stack",
-        "Overflow",
-        "Online",
-        "Courses"
-      ],
-      "last_new_count": 16,
-      "_new_total_for_digest": 16
+      "last_run": "2026-06-24 19:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1175,39 +1096,10 @@
         "903cf01de677d3bb87ca45153e3e1187",
         "750fd152325f4dc2beb725d52cc9fce7"
       ],
-      "last_run": "2026-06-24 19:02 UTC",
-      "new_sub_topics_this_run": [
-        "Strategy",
-        "ashishps1",
-        "awesome-leetcode-resources",
-        "Scaler",
-        "heydi424",
-        "DSA-Handbook-for-Coding-Interviews",
-        "Ultimate",
-        "Simplified",
-        "Free",
-        "freeclass",
-        "InterviewBit",
-        "TheTutorBridge",
-        "data-structures",
-        "Topics",
-        "Comprehensive",
-        "World",
-        "Leading",
-        "Programming",
-        "Learning",
-        "Platform",
-        "Review",
-        "Worth",
-        "datastructures-algorithms",
-        "really",
-        "Kaggle",
-        "Full",
-        "Course",
-        "Best"
-      ],
-      "last_new_count": 17,
-      "_new_total_for_digest": 17
+      "last_run": "2026-06-24 19:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1429,26 +1321,11 @@
         "fdee620013b11fbe4ff74a856625554f",
         "83c76331b8d186cc5d695017f50eb5fb"
       ],
-      "last_run": "2026-06-24 19:02 UTC",
-      "new_sub_topics_this_run": [
-        "evidhya",
-        "What",
-        "Edugators",
-        "Mastering",
-        "course4all",
-        "Substack",
-        "Going",
-        "Other",
-        "Optimizations",
-        "Multi-Core",
-        "Remains",
-        "JavaCodeGeeks",
-        "Optimization",
-        "Habibullah"
-      ],
-      "last_new_count": 17,
-      "_new_total_for_digest": 17
+      "last_run": "2026-06-24 19:17 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     }
   },
-  "last_run": "2026-06-24 19:02 UTC"
+  "last_run": "2026-06-24 19:17 UTC"
 }
