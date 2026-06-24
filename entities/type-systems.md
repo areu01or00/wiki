@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type-systems
+- **2026-06-24** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: type-systems
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-06-24** | [[2603.05649] Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/abs/2603.05649) | kw: type-systems
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
+- **2026-06-24** | [Luau Type System Complete Guide — Strict Mode, Generics & Type ...](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: type-systems
+
 - **2026-06-24** | [Fully-Automatic Type Inference for Borrows with Lifetimes](https://dl.acm.org/doi/10.1145/3798221) | kw: type-systems
 
 - **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir

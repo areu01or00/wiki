@@ -1,6 +1,13 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
+- **2026-06-24** | [Python 3.14 and the End of the GIL - Towards Data Science](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) | kw: python-internals
+- **2026-06-24** | [r/django on Reddit: With Python 3.14 free-threading support coming ...](https://www.reddit.com/r/django/comments/1lnekfg/with_python_314_freethreading_support_coming_up/) | kw: python-internals
+- **2026-06-24** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: python-internals
+- **2026-06-24** | [I Benchmarked Python 3.14's Free-Threading on 5 Real Tasks ...](https://python.plainenglish.io/i-benchmarked-python-3-14s-free-threading-on-5-real-tasks-here-s-what-actually-happened-d7088b7e4fed) | kw: python-internals
+- **2026-06-24** | [Python 3.14's No-GIL Explained and Performance Analysis](https://engineersmeetai.substack.com/p/python-314s-no-gil-explained-and) | kw: python-internals
+
 - **2026-06-24** | [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/) | kw: python-internals
 
 - **2026-06-24** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
