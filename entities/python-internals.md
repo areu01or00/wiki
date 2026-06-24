@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Top 50 Most Frequently Asked Python... | CreateYourResume Blog](https://createyourresume.in/blog/job-search/most-frequently-asked-python-50-interview-questions) | kw: top
+
 - **2026-06-24** | [In Python 3.14 free threading, is list.pop() thread-safe?](https://stackoverflow.com/questions/79884657/in-python-3-14-free-threading-is-list-pop-thread-safe) | kw: In Python 3.14 free threading, is list.pop() threa
 - **2026-06-24** | [Unlocking Performance in Python's Free-Threaded Future: GC optimizations in 3.14](https://labs.quansight.org/blog/free-threaded-gc-3-14) | kw: Unlocking Performance in Python's Free-Threaded Fu
 
