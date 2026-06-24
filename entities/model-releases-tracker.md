@@ -17,6 +17,13 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-24** | [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](http://arxiv.org/abs/2606.24820v1) | kw: SHERLOC: Structured Diagnostic Localization for Co | source: arxiv-cs-cl
+- **2026-06-24** | [AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning](http://arxiv.org/abs/2606.24526v1) | kw: AGORA: An Archive-Grounded Benchmark for Agentic W | source: arxiv-cs-cl
+- **2026-06-24** | [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](http://arxiv.org/abs/2606.24530v1) | kw: NatureBench: Can Coding Agents Match the Published | source: arxiv-cs-cl
+- **2026-06-24** | [SURGELLM: Rethinking Multi-Task Evaluation through Task-Aware Feature Gating with Class-Balanced Normalization](http://arxiv.org/abs/2606.24259v1) | kw: SURGELLM: Rethinking Multi-Task Evaluation through | source: arxiv-cs-cl
+- **2026-06-24** | [Are We Ready For An Agent-Native Memory System?](http://arxiv.org/abs/2606.24775v1) | kw: Are We Ready For An Agent-Native Memory System? | source: arxiv-cs-cl
+- **2026-06-24** | [Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity](http://arxiv.org/abs/2606.24623v1) | kw: Privacy-Preserving RAG via Multi-Agent Semantic Re | source: arxiv-cs-cl
+
 - **2026-06-24** | [llm-jp/llm-jp-4-32b-a3b-thinking-gguf - Hugging Face (Quantized GGUF Release)](https://huggingface.co/llm-jp/llm-jp-4-32b-a3b-thinking-gguf) | kw: llm-jp-4 32B-A3B Thinking GGUF quantized model card | source: llm-jp
 - **2026-06-24** | [llm-jp/llm-jp-4-8b-thinking-gguf - Hugging Face (Quantized GGUF Release)](https://huggingface.co/llm-jp/llm-jp-4-8b-thinking-gguf) | kw: llm-jp-4 8B Thinking GGUF quantized model card | source: llm-jp
 - **2026-06-24** | [Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory](https://arxiv.org/abs/2606.23195) | kw: Memory Contagion: Cross-Temporal Propaga | source: arxiv-cs-cl
@@ -106,9 +113,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 
 ## Auto-Discovered Profiles
-- **sakana-releases** - discovered cycle 3 - query: `Sakana AI Fugu model release Japanese lab`
-- **swiss-ai-apertus** - discovered cycle 3 - query: `Swiss AI Apertus EPFL ETH Zurich multilingual open model release`
-- **krea** - discovered cycle 4 - query: `Krea AI Krea 2 image generation model open weights`
-- **MiniMax** - discovered cycle 9 - query: `MiniMax AI MiniMax-M3 release new model multimodal MoE`
-- **multiverse-computing** - discovered cycle 12 - query: `Multiverse Computing Pulsar 16B LLM open weights Apache 2.0`
-- **llm-jp** - discovered cycle 15 - query: `LLM-jp NII Japanese model release 4 thinking quantized`
+- sakana-releases (cycle 3) — Sakana AI Fugu model release Japanese lab
+- swiss-ai-apertus (cycle 3) — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
+- krea (cycle 4) — Krea AI Krea 2 image generation model open weights
+- MiniMax (cycle 9) — MiniMax AI MiniMax-M3 release new model multimodal MoE
+- multiverse-computing (cycle 12) — Multiverse Computing Pulsar 16B LLM open weights Apache 2.0
+- llm-jp (cycle 15) — LLM-jp NII Japanese model release 4 thinking quantized
