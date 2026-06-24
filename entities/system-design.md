@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [Microservices System Design Interview: A Step-by-Step Walkthrough](https://designgurus.substack.com/p/microservices-system-design-interview) | kw: Microservices System Design Interview
+- **2026-06-24** | [The Complete System Design Interview Guide 2026 | by TechEon](https://atul4u.medium.com/the-complete-system-design-interview-guide-2026-1784f8beb092) | kw: The Complete System Design Interview Guide 2026
+- **2026-06-24** | [Mastering Microservices Design Patterns for System Interviews](https://www.linkedin.com/posts/ankit-pangasa_if-you-can-explain-these-12-patterns-activity-7428054215689883649-q1Ys) | kw: Mastering Microservices Design Patterns for System...
+- **2026-06-24** | [How I Would Prepare for a System Design Interview in 2026](https://interviewnoodle.com/how-i-would-prepare-for-a-system-design-interview-in-2026-5941a974499d) | kw: How I Would Prepare for a System Design Interview ...
+- **2026-06-24** | [10 System Design Patterns You Must Know in 2026 - MockExperts](https://www.mockexperts.com/blog/10-system-design-patterns-you-must-know-2026) | kw: 10 System Design Patterns You Must Know in 2026
+- **2026-06-24** | [The Complete Guide to System Design in 2026 AI-Native and Serverless](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: The Complete Guide to System Design in 2026 AI-Nat...
+- **2026-06-24** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: System Design Patterns
+- **2026-06-24** | [How Do I Properly Learn System Design? Need Guidance - Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1owsg6p/how_do_i_properly_learn_system_design_need/) | kw: How Do I Properly Learn System Design? Need Guidan...
+- **2026-06-24** | [The 2026 System Design Interview Cheat Sheet: Every Core](https://designgurus.substack.com/p/the-2026-system-design-interview) | kw: The 2026 System Design Interview Cheat Sheet
+- **2026-06-24** | [The ULTIMATE 2026 System Design Interview Study Guide (with an)](https://www.youtube.com/watch?v=sBcdkGCDg9Y) | kw: The ULTIMATE 2026 System Design Interview Study Gu...
+
 - **2026-06-24** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: system definition
 - **2026-06-24** | [SYSTEM | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/system) | kw: system definition
 - **2026-06-24** | [Microsoft - AI, Cloud, Productivity, Computing, Gaming & Apps](https://www.microsoft.com/en) | kw: microsoft ai

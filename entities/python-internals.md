@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [CPython Internals: How Python Really Works Under the Hood](https://www.abhik.ai/articles/cpython-internals) | kw: CPython Internals
+- **2026-06-24** | [Free Threading internals: PyMutex - Victor Stinner blog 3](https://vstinner.github.io/free-threading-pymutex.html) | kw: Free Threading internals
+- **2026-06-24** | [Python list Internals: How Dynamic Arrays Work Under the Hood](https://dev.to/jamesli/python-list-internals-how-dynamic-arrays-work-under-the-hood-1d1h) | kw: Python list Internals
+- **2026-06-24** | [CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals) | kw: CPython Garbage Collection
+- **2026-06-24** | [The GIL and API Performance](https://fosdem.org/2026/events/attachments/ABJMWD-the_gil_and_api_performance_past_present_and_free-threaded_future/slides/266979/the_gil_a_fw7etsx.pdf) | kw: The GIL and API Performance
+- **2026-06-24** | [Go vs Python 2026: 6x Speed Gap and $14K Salary Divide [Tested]](https://tech-insider.org/go-vs-python-2026/) | kw: Go vs Python 2026
+- **2026-06-24** | [Hardware Usage and Energy Implications of Removing the GIL - arXiv](https://arxiv.org/pdf/2603.04782) | kw: Hardware Usage and Energy Implications of Removing...
+- **2026-06-24** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading's](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: Tearing Off the GIL Veil
+- **2026-06-24** | [Thread states and the global interpreter lock — Python 3.14.6](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock — Py...
+
 - **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python in
 - **2026-06-24** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: thread states
 - **2026-06-24** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: how python

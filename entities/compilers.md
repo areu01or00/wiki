@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT...
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJ...
+- **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: 1. Building a JIT
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJ...
+- **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://releases.llvm.org/6.0.0/docs/tutorial/BuildingAJIT1.html) | kw: 1. Building a JIT
+- **2026-06-24** | [3. Building a JIT: Per-function Lazy Compilation — LLVM 21.1.2](https://releases.llvm.org/21.1.2/docs/tutorial/BuildingAJIT3.html) | kw: 3. Building a JIT
+
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: the llvm
 - **2026-06-24** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers and
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project - 2026-04 Meeting](https://llvm.org/devmtg/2026-04/) | kw: the llvm

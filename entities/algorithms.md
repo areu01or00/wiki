@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap
+- **2026-06-24** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: ashishps1/awesome-leetcode-resources
+- **2026-06-24** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: The Ultimate Leetcode Roadmap
+- **2026-06-24** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start Thinking](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026
+- **2026-06-24** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026
+- **2026-06-24** | [Data Structures and Algorithms in 2026: What Backend Developers - Nucamp](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: Data Structures and Algorithms in 2026
+- **2026-06-24** | [Namaste DSA Sheet | To Crack FAANG & PBC's Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Namaste DSA Sheet
+- **2026-06-24** | [Data Structures and Algorithms for Coding Interview — Complete Python](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview/) | kw: Data Structures and Algorithms for Coding Intervie...
+
 - **2026-06-24** | [How to crack any coding interview in 2026 using the reverse...](https://medium.com/@fahimulhaq/how-to-crack-any-coding-interview-using-the-reverse-thinking-method-a03f6a5e7e3e) | kw: How, crack, any | src: algorithms
 
 - **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: most asked

@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional Programmers need to take a look at Zig
+- **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads
+- **2026-06-24** | [Functional programmers need to take a look at Zig - Hacker News](https://news.ycombinator.com/item?id=47957624) | kw: Functional programmers need to take a look at Zig
+- **2026-06-24** | [Why I Hope I Get to Write a Lot of F# in 2026 - cekrem.github.io](https://cekrem.github.io/posts/why-i-hope-i-get-to-write-a-lot-of-fsharp-in-2026/) | kw: Why I Hope I Get to Write a Lot of F# in 2026
+- **2026-06-24** | [Abilities for the monadically inclined · Unison programming language](https://www.unison-lang.org/docs/fundamentals/abilities/for-monadically-inclined/) | kw: Abilities for the monadically inclined · Unison pr...
+- **2026-06-24** | [Haskell Language](https://www.haskell.org/) | kw: Haskell Language
+- **2026-06-24** | [The Poor Man's Monad: It's Just a 2-Tuple](https://andrewjohnson4.substack.com/p/the-poor-mans-monad-its-just-a-2) | kw: The Poor Man's Monad
+
 - **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional mathematics
 - **2026-06-24** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: fp lang
 - **2026-06-24** | [What killed Haskell, could kill Rust, too - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: what killed
