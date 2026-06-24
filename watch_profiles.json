@@ -165,7 +165,6 @@
         "saga kafka"
       ],
       "last_result_hashes": [
-        "a4f767c8d886ec8f2fab1999efc97283",
         "bb2281be641c13c087b3bfd94faf2e29",
         "723a72e43818348046e4c9cd461691bb",
         "38356f284740c83553dbab1846c99959",
@@ -184,17 +183,18 @@
         "0c38de659c5321621e34bfc157bd5c96",
         "c1073483d1456983c870a4f45ef79a37",
         "974ab11a8c1baa44cc1a0a762d5a45f7",
-        "ddee07c92a3cc074c34e1dad6d9de793"
+        "ddee07c92a3cc074c34e1dad6d9de793",
+        "bb714ad6af53a799cae8059a4e4c6a28"
       ],
-      "last_run": "2026-06-24T01:49:31.326053+00:00",
+      "last_run": "2026-06-24T02:02:32.216016+00:00",
       "new_sub_topics_this_run": [
         "event-driven saga",
         "event-driven cqrs",
         "spring microservices",
         "saga kafka"
       ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -375,13 +375,13 @@
         "e0b841e9d9517d5cd81aa495cc90e91f",
         "d0c8a6ea31354fa0a9295edd236bea8d"
       ],
-      "last_run": "2026-06-24T01:49:31.326053+00:00",
+      "last_run": "2026-06-24T02:02:32.216016+00:00",
       "new_sub_topics_this_run": [
         "mlir intro",
         "eurollvm 2026"
       ],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -559,13 +559,13 @@
         "8d2a882a750245933c7c637ca6a768b1",
         "730637c01235934e4cda4810a58a9a8b"
       ],
-      "last_run": "2026-06-24T01:49:31.326053+00:00",
+      "last_run": "2026-06-24T02:02:32.216016+00:00",
       "new_sub_topics_this_run": [
         "typescript migration",
         "graded modal types"
       ],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -744,14 +744,14 @@
         "f76c3dbd57a8cca2932ced7bf473c1c0",
         "fc55dfd680900423c92ef1f6c1f0f9a1"
       ],
-      "last_run": "2026-06-24T01:49:31.326053+00:00",
+      "last_run": "2026-06-24T02:02:32.216016+00:00",
       "new_sub_topics_this_run": [
         "gleam beam",
         "gleam production",
         "gleam type-safe"
       ],
-      "last_new_count": 3,
-      "_new_total_for_digest": 3
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -934,15 +934,15 @@
         "6493f3031779fc1c647c7cc8d17c5748",
         "ec17b9b6d594894aff5afa500d3db0eb"
       ],
-      "last_run": "2026-06-24T01:49:31.326053+00:00",
+      "last_run": "2026-06-24T02:02:32.216016+00:00",
       "new_sub_topics_this_run": [
         "daa interview",
         "interview prep",
         "meta interview",
         "graph algorithms"
       ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1104,7 +1104,6 @@
         "python 3.14 speed"
       ],
       "last_result_hashes": [
-        "661f5f68f6928f4ea520218b2f607795",
         "15a7206ce9d32c657cb866ee87f368ea",
         "4267214a3e558c4d98d146f1beba3d51",
         "ac7cec136d6cb0e44c36409321880589",
@@ -1123,9 +1122,10 @@
         "a47da6bb7fdee6c46121aee631818df4",
         "a0fe17543660b2b12cdb60ccaeb7fd53",
         "84f8e720f845ee8e1cf1ff3e8b998114",
-        "e729646390432806ab8cad67f5785484"
+        "e729646390432806ab8cad67f5785484",
+        "bc46e2bcc23714c5243a5210b1d2f5ae"
       ],
-      "last_run": "2026-06-24T01:49:31.326053+00:00",
+      "last_run": "2026-06-24T02:02:32.216016+00:00",
       "new_sub_topics_this_run": [
         "free-threading django",
         "nogil guide",
@@ -1134,8 +1134,8 @@
         "nogil concurrency",
         "python 3.14 speed"
       ],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     }
   },
   "last_run": "2026-06-24T01:17:54.751766+00:00"

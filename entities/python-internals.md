@@ -2,6 +2,8 @@
 
 ## Updates
 
+- **2026-06-24** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python (programming language) - wikipedia
+
 - **2026-06-24** | [Python 3.14 Free-Threading in Django: Real Benchmarks](https://medium.com/django-journal/python-3-14-free-threading-in-django-real-benchmarks-for-async-thread-safe-views-no-gil-pain-82edc73a1c20) | kw: free-threading django
 - **2026-06-24** | [CrazyDubya/python-nogil-guide](https://github.com/CrazyDubya/python-nogil-guide) | kw: nogil guide
 - **2026-06-24** | [Python 3.14 No GIL A Surprising Benchmark](https://www.linkedin.com/posts/rafatsiddiqui_python-python314-freethreading-activity-7383349795731464192-9f_A) | kw: nogil benchmark

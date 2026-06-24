@@ -2,6 +2,8 @@
 
 ## Updates
 
+- **2026-06-24** | [2 Patterns for Resilience Beyond Multi-AZ](https://blog.simukappu.com/resilience-beyond-multi-az-bulkheads-and-shock-absorbers-architecture-dojo-2024) | kw: 2 patterns for resilience beyond multi-az
+
 - **2026-06-24** | [Event-Driven Microservices for Booking Systems](https://aiblog.airtruffle.com/event-driven-microservices-booking-systems-distributed-transactions/) | kw: event-driven saga
 - **2026-06-24** | [Event-Driven Architecture for Microservices: Patterns](https://asifthewebguy.me/posts/event-driven-microservices-architecture.html) | kw: event-driven cqrs
 - **2026-06-24** | [Spring Boot & Microservices 2026 Mastery Guide](https://sanjaysingh-dev.medium.com/spring-boot-microservices-2026-mastery-guide-one-resource-every-interview-question-087215f2cab0) | kw: spring microservices
