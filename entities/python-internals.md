@@ -6,6 +6,8 @@
 - **2026-06-24** | [Thread states and the global interpreter lock — Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: python 3.14
 - **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and ...](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: gil
 - **2026-06-24** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: gil
+- **2026-06-24** | [Python NoGIL in 2026: True Multithreading for AI Workloads - Medium](https://medium.com/@krunalkamble215/python-nogil-in-2026-true-multithreading-for-ai-workloads-79bf585a445e) | kw: Python NoGIL in 2026: True Multithreading for AI W
+
 
 - **2026-06-24** | [What's new in Python 3.14 - Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: cpython
 - **2026-06-24** | [Python 3.14 - Astral](https://astral.sh/blog/python-3.14) | kw: cpython

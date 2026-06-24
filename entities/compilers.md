@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [LLVM 22.1.0 release is a technically dense update that touches ... - Medium](https://medium.com/@Re-News/llvm-22-1-0-release-is-a-technically-dense-update-that-touches-nearly-every-layer-of-the-toolchain-806ebcc1521e) | kw: LLVM 22.1.0 release is a technically dense update 
+
 
 - **2026-06-24** | [Compilers and Modern Language Runtimes - LLVM JIT GC V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: jit
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: llvm

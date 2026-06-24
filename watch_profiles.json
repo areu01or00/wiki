@@ -178,7 +178,7 @@
         "3023a2cb951d86d2a7fc1b8cce9dc3e8",
         "72e85c578b97907d62da49d9f083e6dd"
       ],
-      "last_run": "2026-06-24T08:49:52.188802+00:00",
+      "last_run": "2026-06-24T14:22:46.134581+00:00",
       "new_sub_topics_this_run": [
         "You",
         "Days",
@@ -347,7 +347,8 @@
         "out",
         "For",
         "Starting",
-        "KaleidoscopeJIT"
+        "KaleidoscopeJIT",
+        "medium"
       ],
       "last_result_hashes": [
         "90e98ebde0077779dd62fb0d85b51cf0",
@@ -360,19 +361,21 @@
         "f1925c0af6e39aa520ffa6a282ede525",
         "30c0547d7a62c393a3c763a62e5e57eb",
         "b08d027934c0ad9c47ec3041c6e299f2",
-        "9de9def0d8a2514026c39c3aabb6b2ce"
+        "9de9def0d8a2514026c39c3aabb6b2ce",
+        "69fbb0144d84752b594fe69d696d84b5"
       ],
-      "last_run": "2026-06-24T08:49:52.188802+00:00",
+      "last_run": "2026-06-24T14:22:46.134623+00:00",
       "new_sub_topics_this_run": [
         "rst",
         "CPU",
         "out",
         "For",
         "Starting",
-        "KaleidoscopeJIT"
+        "KaleidoscopeJIT",
+        "medium"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -548,7 +551,7 @@
         "5cc1d4c55fe22c53ab06d0faccb4247c",
         "a47905b8e6aeadd5f227767b65f5a246"
       ],
-      "last_run": "2026-06-24T08:49:52.188802+00:00",
+      "last_run": "2026-06-24T14:22:46.134646+00:00",
       "new_sub_topics_this_run": [
         "Works",
         "Conference",
@@ -755,7 +758,7 @@
         "3b0f14b54684b305339d3ef8e9ddf429",
         "3f1370c2699f24c125501252e0e6e288"
       ],
-      "last_run": "2026-06-24T08:49:52.188802+00:00",
+      "last_run": "2026-06-24T14:22:46.134649+00:00",
       "new_sub_topics_this_run": [
         "FAQs",
         "Kit",
@@ -768,8 +771,8 @@
         "history",
         "fun"
       ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -969,7 +972,7 @@
         "1ff2c45205d19d05c322321f335f0949",
         "6ad4424d61d8084aeff283da158f5951"
       ],
-      "last_run": "2026-06-24T08:49:52.188802+00:00",
+      "last_run": "2026-06-24T14:22:46.134652+00:00",
       "new_sub_topics_this_run": [
         "Works",
         "test",
@@ -1184,9 +1187,10 @@
         "17f40f751da9a1c9558ca7dbf958ae7e",
         "c71c266cfca80a985eb39041d48e2705",
         "3977a42e266cba0d9724f6994662a434",
-        "a1233cdbbbaf5c3624b23b99f9297143"
+        "a1233cdbbbaf5c3624b23b99f9297143",
+        "66266dc371ce73be91e6ce8ce73a901f"
       ],
-      "last_run": "2026-06-24T08:49:52.188802+00:00",
+      "last_run": "2026-06-24T14:22:46.134659+00:00",
       "new_sub_topics_this_run": [
         "docs",
         "management",
@@ -1199,8 +1203,8 @@
         "Expert",
         "Fixes"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     }
   }
 }
