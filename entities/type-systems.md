@@ -1,6 +1,19 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: type systems
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance - programming-journal](https://programming-journal.org/2026/11/3/) | kw: type systems
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance - arXiv 2603.05649](https://arxiv.org/abs/2603.05649) | kw: type systems
+- **2026-06-24** | [Elixir Gradual Type System 1.17-1.20 - Gabriel Ortuno](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: type systems
+- **2026-06-24** | [Putting Gradual Types to Work - NSF](https://par.nsf.gov/servlets/purl/10315909) | kw: type systems
+- **2026-06-24** | [Efficient Selection of Type Annotations - Programming 2026 Conference](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type systems
+- **2026-06-24** | [Gradual Typing - Programming Research Group Tokyo Tech](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: type systems
+- **2026-06-24** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: type systems
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement (programming-journal)](https://programming-journal.org/2026/11/3/) | kw: type systems
+- **2026-06-24** | [Efficient Selection of Type Annotations - Programming 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type systems
+- **2026-06-24** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: type systems
+- **2026-06-24** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: type systems
+
 - **2026-06-24** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating Language Labyrinth
 - **2026-06-24** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type system ty
 

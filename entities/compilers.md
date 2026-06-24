@@ -1,6 +1,25 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [3. Building a JIT: Per-function Lazy - LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: compilers
+- **2026-06-24** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: compilers
+- **2026-06-24** | [What is LLVM? The power behind Swift, Rust, Clang - InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: compilers
+- **2026-06-24** | [A Minimal LLVM JIT example for LLVM-5 - GitHub Gist](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: compilers
+- **2026-06-24** | [Revolutionize JIT Compilation with LLVM Next Generation API - Toolify](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
+- **2026-06-24** | [A LLVM JIT Prototype for Running an Energy-Saving Compiler - Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: compilers
+- **2026-06-24** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: compilers
+- **2026-06-24** | [LLVM - PPT Slideshare](https://www.slideshare.net/slideshow/llvm/252092) | kw: compilers
+- **2026-06-24** | [LLVM JIT Compilation - legacy25.github.io](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: compilers
+- **2026-06-24** | [A Deep Dive into LLVM: The Future of Compiler Technology - Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: compilers
+- **2026-06-24** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project - OpenProjects](https://llvm.org/OpenProjects.html) | kw: compilers
+- **2026-06-24** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: compilers
+- **2026-06-24** | [LLVM Compiler Infrastructure - Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compilers
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project (llvm.org)](https://llvm.org/) | kw: compilers
+- **2026-06-24** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: compilers
+- **2026-06-24** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: compilers
+- **2026-06-24** | [2026 EuroLLVM Developers' Meeting - Agenda - Announcements](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: compilers
+
 - **2026-06-24** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT Scale llvm
 
 - **2026-06-24** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with... - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: 2025 EuroLLVM - Integration of LLVM-JIT Compiler with... - Y

@@ -1,6 +1,20 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system design
+- **2026-06-24** | [The Only 12-Week High-Level System Design Roadmap You Need](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: system design
+- **2026-06-24** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: system design
+- **2026-06-24** | [12 Essential Distributed System Design Patterns Every Architect](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: system design
+- **2026-06-24** | [50 System Design Patterns Every Engineer Should Know](https://stackinterview.dev/guides/50-system-design-patterns-2026) | kw: system design
+- **2026-06-24** | [From Monolith to Agentic AI - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI) | kw: system design
+- **2026-06-24** | [The Complete Guide to System Design in 2026 - InfraSketch](https://infrasketch.net/blog/complete-guide-system-design) | kw: system design
+- **2026-06-24** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: system design
+- **2026-06-24** | [Cloud Design Patterns - Azure Architecture Center - Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/) | kw: system design
+- **2026-06-24** | [Sairyss/system-design-patterns - GitHub](https://github.com/Sairyss/system-design-patterns) | kw: system design
+- **2026-06-24** | [10 Truths in Distributed System Design - apidays India 2026](https://confengine.com/conferences/apidays-india-2026/proposal/50218/10-truths-in-distributed-system-design) | kw: system design
+- **2026-06-24** | [8 Most-Used Distributed System Design Patterns | Akash Kumar](https://www.linkedin.com/posts/akashsinnghh_8-most-used-distributed-system-designpatterns-activity-7308054120697888768-Noa4) | kw: system design
+- **2026-06-24** | [Architecture Styles in Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/architecture-styles-in-distributed-systems/) | kw: system design
+
 - **2026-06-24** | [SYSTEM | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/system) | kw: English
 
 - **2026-06-24** | [System - Wikipedia](https://en.m.wikipedia.org/wiki/System) | kw: System - Wikipedia
