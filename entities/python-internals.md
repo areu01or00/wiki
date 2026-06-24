@@ -1,6 +1,9 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Memory Management in Python - LinkedIn](https://www.linkedin.com/pulse/memory-management-python-farid-el-aouadi-myauf) | kw: python internals
+- **2026-06-24** | [What Is the Python GIL and Will They Get Rid of It? - Backblaze](https://www.backblaze.com/blog/the-python-gil-past-present-and-future/) | kw: python internals
+
 - **2026-06-24** | [Python (programming language) - Wikipedia](https://en.m.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
 - **2026-06-24** | [Python 3.14 & Django: Exploiting the Free-Threaded Build for 2x ...](https://medium.com/@yogeshkrishnanseeniraj/python-3-14-django-exploiting-the-free-threaded-build-for-2x-throughput-116af921be34) | kw: Python
 

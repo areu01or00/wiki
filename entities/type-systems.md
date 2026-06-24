@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Understanding type inference and gradual typing - TypeScript Video...](https://www.linkedin.com/learning/learning-typescript-2/understanding-type-inference-and-gradual-typing) | kw: type systems
+- **2026-06-24** | [(PDF) Gradual typing: a new perspective](https://www.researchgate.net/publication/330146437_Gradual_typing_a_new_perspective) | kw: type systems
+
 - **2026-06-24** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems
 - **2026-06-24** | [TALK / Maggie Moss / Gradual Typing in Practice - YouTube](https://www.youtube.com/watch?v=Lj_9TyT3V98) | kw: type systems
 

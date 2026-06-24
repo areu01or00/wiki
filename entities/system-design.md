@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [System Design Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/system-design-tutorial/) | kw: system design
+
 - **2026-06-24** | [Airbnb System Design: (Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/airbnb-system-design/) | kw: Design
 - **2026-06-24** | [System Design for Web and Mobile Applications | Effective Programmer](https://effective-programmer.com/introduction-to-system-design-for-web-and-mobile-applications-f00e94623ce4) | kw: Design
 
