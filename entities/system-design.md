@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [SYSTEM | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/system) | kw: English
+
 - **2026-06-24** | [System - Wikipedia](https://en.m.wikipedia.org/wiki/System) | kw: System - Wikipedia
 - **2026-06-24** | [System - Simple English Wikipedia, the free encyclopedia](https://simple.m.wikipedia.org/wiki/System) | kw: Wikipedia
 - **2026-06-24** | [Grokking System Design in 2026: Guide for Interview Prep](https://www.systemdesignhandbook.com/guides/grokking-system-design-in-2026/) | kw: Interview
