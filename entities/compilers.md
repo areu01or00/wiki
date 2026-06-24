@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with... - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: MCJIT
+- **2026-06-24** | [What is LLVM? The power behind Swift, Rust, Clang, and... | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: compilation
+- **2026-06-24** | [How to build a JIT compiler in C++ with LLVM -- Mark Leone...](https://isocpp.org/blog/2018/12/how-to-build-a-jit-compiler-in-cpp-with-llvm) | kw: Python
+
 - **2026-06-24** | [Getting Started with the LLVM System](https://llvm.org/docs/GettingStarted.html) | kw: docs
 - **2026-06-24** | [About — LLVM 23.0.0git documentation](https://llvm.org/docs/) | kw: docs
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project - Features](https://llvm.org/Features.html) | kw: features

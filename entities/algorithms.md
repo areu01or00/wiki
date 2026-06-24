@@ -1,6 +1,8 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: graph
+
 - **2026-06-24** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
 - **2026-06-24** | [List of algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms) | kw: algorithms
 - **2026-06-24** | [Algorithm | Britannica](https://www.britannica.com/science/algorithm) | kw: britannica

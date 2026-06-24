@@ -1,6 +1,9 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [English Dialogue for Informatics Engineering - Distributed Systems Architecture...](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: distributed
+- **2026-06-24** | [Microservices API Communication Patterns 2026 | APIScout](https://apiscout.dev/guides/microservices-api-communication-patterns-2026) | kw: event-driven
+
 - **2026-06-24** | [Microservices architecture - Atlassian](https://www.atlassian.com/microservices/microservices-architecture) | kw: atlassian
 - **2026-06-24** | [What are Microservices? | AWS](https://aws.amazon.com/microservices/) | kw: aws
 - **2026-06-24** | [What Is Caching? | Microsoft Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-caching/) | kw: azure

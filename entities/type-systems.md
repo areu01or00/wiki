@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type inference
+
 - **2026-06-24** | [Generics in Java - GeeksforGeeks](https://www.geeksforgeeks.org/java/generics-in-java/) | kw: generics
 - **2026-06-24** | [Java Generics - W3Schools](https://www.w3schools.com/java/java_generics.asp) | kw: generics
 - **2026-06-24** | [Lesson: Generics - Oracle](https://docs.oracle.com/javase/tutorial/java/generics/) | kw: generics
