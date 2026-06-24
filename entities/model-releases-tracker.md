@@ -17,6 +17,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-23** | [An LLM-based Two-Stage Transformer Framework for Cross-Domain Bearing Fault Diagnosis with Limited Data](https://arxiv.org/abs/2606.24459v1) | kw: An LLM-based Two-Stage Transformer Framework for Cross-Domai | source: arxiv-cs-cl
+- **2026-06-23** | [Less is More: Quality-Aware Training Data Selection for Scientific Summarization](https://arxiv.org/abs/2606.24828v1) | kw: Less is More: Quality-Aware Training Data Selection for Scie | source: arxiv-cs-cl
+- **2026-06-23** | [Beyond Logprobs: A Multi-Signal Confidence Engine for LLM-Based Document Field Extraction](https://arxiv.org/abs/2606.24420v1) | kw: Beyond Logprobs: A Multi-Signal Confidence Engine for LLM-Ba | source: arxiv-cs-cl
 - **2026-06-23** | [CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation](http://arxiv.org/abs/2606.24714v1) | kw: CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation | source: arxiv-cs-cl
 - **2026-06-23** | [AI-PAVE-Br: Leveraging Large Language Models for Enhanced Product Attribute Value Extraction through a Golden Set Approach](http://arxiv.org/abs/2606.24655v1) | kw: AI-PAVE-Br: Leveraging Large Language Models for Enhanced Product Attribute Value Extraction through a Golden Set Approach | source: arxiv-cs-cl
 - **2026-06-23** | [ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for LALM-as-a-Judge](http://arxiv.org/abs/2606.24648v1) | kw: ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for LALM-as-a-Judge | source: arxiv-cs-cl
