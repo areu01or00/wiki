@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [CPython 3.14 Free-Threading: GIL-Free Concurrency Performance Gains 2026](https://johal.in/cpython-3-14-free-threading-gil-free-concurrency-performance-gains-2026/) | kw: Free-Threading
+- **2026-06-24** | [Software development training - Geekuni blog: April 2026](https://blog.geekuni.com/2026/04/) | kw: Training
+- **2026-06-24** | [Free-threaded CPython is ready to experiment with! | Labs](https://labs.quansight.org/blog/free-threaded-python-rollout) | kw: Free-Threaded
+- **2026-06-24** | [How Python's GIL actually works (and when it bites you)](https://journal.hexmos.com/how-python-gil-actually-works/) | kw: Python's
+
 - **2026-06-24** | [Top 50 Most Frequently Asked Python... | CreateYourResume Blog](https://createyourresume.in/blog/job-search/most-frequently-asked-python-50-interview-questions) | kw: top
 
 - **2026-06-24** | [In Python 3.14 free threading, is list.pop() thread-safe?](https://stackoverflow.com/questions/79884657/in-python-3-14-free-threading-is-list-pop-thread-safe) | kw: In Python 3.14 free threading, is list.pop() threa

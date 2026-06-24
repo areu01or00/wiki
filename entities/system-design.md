@@ -1,6 +1,10 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [System - Wikipedia](https://en.m.wikipedia.org/wiki/System) | kw: System - Wikipedia
+- **2026-06-24** | [System - Simple English Wikipedia, the free encyclopedia](https://simple.m.wikipedia.org/wiki/System) | kw: Wikipedia
+- **2026-06-24** | [Grokking System Design in 2026: Guide for Interview Prep](https://www.systemdesignhandbook.com/guides/grokking-system-design-in-2026/) | kw: Interview
+
 - **2026-06-24** | [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) | kw: List of software architecture styles
 
 - **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System Design in 2026 - DEV Community

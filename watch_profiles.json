@@ -167,6 +167,9 @@
         "That"
       ],
       "last_result_hashes": [
+        "c7cff6ce94dac7da8e933c0b3204d753",
+        "eb83b8348e7801bf1cc13c38c04e46dc",
+        "faf8edde752a08d22fce86825c2c07f5",
         "bb2281be641c13c087b3bfd94faf2e29",
         "bd9c53776405cab613029a2242f038c3",
         "c4d93df3bbece803150c9e5bd1d0b085",
@@ -183,15 +186,16 @@
         "e386d25ff1816abec2a4433c860ed876",
         "25df870c0f35fc8f49c62a68d86cf796",
         "efb8f149991dfdaf6f1db900b6c30480",
-        "3023a2cb951d86d2a7fc1b8cce9dc3e8",
-        "723a72e43818348046e4c9cd461691bb",
-        "34a7661625980b806863c89ac2b7a075",
-        "27f91f9cdafca8b736a1dad41fd3e91c"
+        "3023a2cb951d86d2a7fc1b8cce9dc3e8"
       ],
       "last_run": "2026-06-24 18:36 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "new_sub_topics_this_run": [
+        "Simple",
+        "English",
+        "Grokking"
+      ],
+      "last_new_count": 3,
+      "_new_total_for_digest": 3
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -763,6 +767,7 @@
         "arXiv"
       ],
       "last_result_hashes": [
+        "5cd0accd695d19ca4eb9228e8fa7f549",
         "cc9f3837164b6e0e6edde576a14a1c3f",
         "87bdb9b65e2fc9f79e965209f86970d3",
         "cf9fa303ae13d7307b16d5d5ae6eddeb",
@@ -781,13 +786,14 @@
         "6754b9460b5d57b0ca37a84b769f197e",
         "0283fc4be26a0aa2400316b3f8b1660f",
         "14cd387e800b8b80b658ad56297837b3",
-        "0a825892b16894ee5479d8cdc9ceb413",
-        "be9da9017ce6e02348e052f2e7dda252"
+        "0a825892b16894ee5479d8cdc9ceb413"
       ],
       "last_run": "2026-06-24 18:36 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "new_sub_topics_this_run": [
+        "Kleisli"
+      ],
+      "last_new_count": 1,
+      "_new_total_for_digest": 1
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1182,6 +1188,10 @@
         "Asked"
       ],
       "last_result_hashes": [
+        "fdee4dd5ed58f42972c1feb413905c06",
+        "9f2272e4a10a3bd4bb234ad2160734d2",
+        "696f5766a5947d76346ee2262764547d",
+        "fd36c6eac8c469f70aab4ac5af91e0f7",
         "d50fc90eaeaaf05689ed8d273c5817fc",
         "7baf87ab4953f790ee7aca563a8f18a6",
         "520745f56fb923733b5a58df7f379a92",
@@ -1197,16 +1207,19 @@
         "bc46e2bcc23714c5243a5210b1d2f5ae",
         "e20ed74f4b3c93e4c2ad329c325d99ec",
         "66266dc371ce73be91e6ce8ce73a901f",
-        "468742a4701a77f0ca48325d95a4f4a9",
-        "cb8573f05672401d86a4a743913672fe",
-        "568c18b9e5cc4011cf7b4f0c718cbac1",
-        "7e3d7b143676f2e7971e371370c94a13",
-        "ba3ddacfd3a41576fa9f641836039748"
+        "468742a4701a77f0ca48325d95a4f4a9"
       ],
       "last_run": "2026-06-24 18:36 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "new_sub_topics_this_run": [
+        "Concurrency",
+        "Gains",
+        "Software",
+        "Geekuni",
+        "April",
+        "Labs"
+      ],
+      "last_new_count": 4,
+      "_new_total_for_digest": 4
     }
   },
   "last_run": "2026-06-24 18:36 UTC"

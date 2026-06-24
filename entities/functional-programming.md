@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [monads - Why does Haskell use the bind operation instead of Kleisli composition](https://langdev.stackexchange.com/questions/2675/why-does-haskell-use-the-bind-operation-instead-of-kleisli-composition) | kw: haskell
+
 - **2026-06-24** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello Haskell Getting
 - **2026-06-24** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang 2026
 - **2026-06-24** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure Borrow Linear
