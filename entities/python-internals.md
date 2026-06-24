@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: Python, Global, Interpreter, Lock
+- **2026-06-24** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: Global, Interpreter, Lock, GIL
+- **2026-06-24** | [The Future of Python Internals: Exploring GIL Removal and Other ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: Future, Python, Internals, Exploring
+- **2026-06-24** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python, GIL, Controversy, Multi-Core
+- **2026-06-24** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python, Memory, Management, GIL
+- **2026-06-24** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Understanding, Python, Global, Interpreter
+- **2026-06-24** | [Understanding Python GIL... | MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: Understanding, Python, GIL, MoldStud
+- **2026-06-24** | [Python 3.13 Free-Threaded Mode & JIT Guide 2026 - softaims.com](https://softaims.com/blog/python-313-free-threaded-jit-features-2026) | kw: Python, Free-Threaded, Mode, JIT
+- **2026-06-24** | [Python 3.14 New Features: What's Changed and Why It Matters](https://dasroot.net/posts/2026/02/python-314-new-features-what-changed-why-it-matters/) | kw: Python, Features, Changed, Matters
+- **2026-06-24** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: Python, Works, Under, Hood
+
 - **2026-06-24** | [Top 50 Most Frequently Asked Python Interview Questions - CreateYourResume](https://createyourresume.in/blog/job-search/most-frequently-asked-python-50-interview-questions) | kw: Top 50 Most Frequently Asked Python Interview Ques
 - **2026-06-24** | [Beyond basics: async, type hints, packaging, and production Python - jobcannon](https://jobcannon.io/skills/python-advanced) | kw: Beyond basics
 

@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static, Dynamic, Typing, Ultimate
+- **2026-06-24** | [Gradual typing - CodeDocs](https://codedocs.org/what-is/gradual-typing) | kw: Gradual, typing, CodeDocs
+- **2026-06-24** | [Elixir 1.20 has a type system now: comparing it with... - DEV Community](https://dev.to/geekmasahiro/elixir-120-has-a-type-system-now-comparing-it-with-rust-and-typescript-31p4) | kw: Elixir, has, type, system
+- **2026-06-24** | [(PDF) Gradual typing with unification-based inference](https://www.researchgate.net/publication/220828930_Gradual_typing_with_unification-based_inference) | kw: PDF, Gradual, typing, unification-based
+- **2026-06-24** | [Programming Language Typing Reference — Gera Tools](https://geratools.com/programming-language-typing-reference) | kw: Programming, Language, Typing, Reference
+- **2026-06-24** | [Typescript Pro for Claude Code & Claude Desktop | mdskills.ai](https://www.mdskills.ai/skills/typescript-pro) | kw: Typescript, Pro, Claude, Code
+- **2026-06-24** | [Planet = erlang.](http://planeterlang.com/?trk=public_profile_project-button) | kw: Planet, erlang
+
 - **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: inference
 - **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages (PDF)](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: inference
 - **2026-06-24** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb?responsesOpen=true) | kw: python

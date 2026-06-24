@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad, functional, programming, Wikipedia
+- **2026-06-24** | [What killed Haskell, could kill Rust, too · GitHub - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: killed, Haskell, could, kill
+- **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: Learned, Monads, Not, Through
+- **2026-06-24** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Good, book, functional, programming
+- **2026-06-24** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Co-Creator, Haskell, Functional, Programming
+- **2026-06-24** | [What other ways can state be handled in a pure functional language ...](https://stackoverflow.com/questions/13536761/what-other-ways-can-state-be-handled-in-a-pure-functional-language-besides-with) | kw: other, ways, can, state
+- **2026-06-24** | [Issue 522 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/522.html) | kw: Issue, Haskell, Weekly, Newsletter
+
 - **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional
 - **2026-06-24** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: haskell
 - **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: rust

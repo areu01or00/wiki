@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language, Runtimes
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: LLVM, Compiler, Infrastructure, Project
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026, llvm, docs, BuildingAJIT1
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: LLVM, Compiler, Infrastructure, Project
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ...](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026, llvm, docs, BuildingAJIT3
+- **2026-06-24** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time, JIT, Compiler, LLVM
+- **2026-06-24** | [Building Fermat: A Journey from Scratch to JIT Compiler (Part ...](https://medium.com/@satyikpritamy/building-fermat-a-journey-from-scratch-to-jit-compiler-part-1-8f3726a67d27) | kw: Building, Fermat, Journey, Scratch
+
 - **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: llvm
 - **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: llvm
 - **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: llvm

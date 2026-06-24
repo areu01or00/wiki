@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System, Wikipedia
+- **2026-06-24** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: System, film, Wikipedia
+- **2026-06-24** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open, System, Properties, Control
+- **2026-06-24** | [What Is a System? Definition, Types, and Examples](https://scienceinsights.org/what-is-a-system-definition-types-and-examples/) | kw: System, Definition, Types, Examples
+- **2026-06-24** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: SYSTEM, Definition, Meaning, Merriam-Webster
+- **2026-06-24** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: does, System, mean, Definitions
+- **2026-06-24** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: System, IMDb
+- **2026-06-24** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-and-view-system-information-panel-in-windows) | kw: open, view, System, Information
+- **2026-06-24** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: SYSTEM, Definition, Meaning, Dictionary
+- **2026-06-24** | [Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps](https://www.microsoft.com/en-us) | kw: Microsoft, Cloud, Productivity, Computing
+
 - **2026-06-24** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: pattern
 - **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: complete
 - **2026-06-24** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: architecture
