@@ -186,15 +186,15 @@
         "ddee07c92a3cc074c34e1dad6d9de793",
         "bb714ad6af53a799cae8059a4e4c6a28"
       ],
-      "last_run": "2026-06-24T02:02:32.216016+00:00",
+      "last_run": "2026-06-24T02:16:02+00:00",
       "new_sub_topics_this_run": [
         "event-driven saga",
         "event-driven cqrs",
         "spring microservices",
         "saga kafka"
       ],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -375,7 +375,7 @@
         "e0b841e9d9517d5cd81aa495cc90e91f",
         "d0c8a6ea31354fa0a9295edd236bea8d"
       ],
-      "last_run": "2026-06-24T02:02:32.216016+00:00",
+      "last_run": "2026-06-24T02:16:02+00:00",
       "new_sub_topics_this_run": [
         "mlir intro",
         "eurollvm 2026"
@@ -559,7 +559,7 @@
         "8d2a882a750245933c7c637ca6a768b1",
         "730637c01235934e4cda4810a58a9a8b"
       ],
-      "last_run": "2026-06-24T02:02:32.216016+00:00",
+      "last_run": "2026-06-24T02:16:02+00:00",
       "new_sub_topics_this_run": [
         "typescript migration",
         "graded modal types"
@@ -744,7 +744,7 @@
         "f76c3dbd57a8cca2932ced7bf473c1c0",
         "fc55dfd680900423c92ef1f6c1f0f9a1"
       ],
-      "last_run": "2026-06-24T02:02:32.216016+00:00",
+      "last_run": "2026-06-24T02:16:02+00:00",
       "new_sub_topics_this_run": [
         "gleam beam",
         "gleam production",
@@ -913,9 +913,6 @@
         "graph algorithms"
       ],
       "last_result_hashes": [
-        "f822dd4d7a9290624864e5a92712ba08",
-        "1bf0f06225ec85ea2f9238dee0e6330d",
-        "12c592997364029e536d23e16e0392b2",
         "7b86d151397bd3b26637162c987f0b1e",
         "5363a0d6f8ab98008d8dd2194aa24566",
         "5e02bb10fe06fe048e2f6bbb19b9f089",
@@ -932,17 +929,20 @@
         "8f7e6e6c183a5f08f2a9c2f468f716d8",
         "f76080c235f7e078a3fa154a5ad2dc60",
         "6493f3031779fc1c647c7cc8d17c5748",
-        "ec17b9b6d594894aff5afa500d3db0eb"
+        "ec17b9b6d594894aff5afa500d3db0eb",
+        "b04b14ed8d576c3be0a192090224f106",
+        "6f6b0a42336aa6fbed205476b34f8ee3",
+        "d51dac9fda0fc0846b91e4a579438c38"
       ],
-      "last_run": "2026-06-24T02:02:32.216016+00:00",
+      "last_run": "2026-06-24T02:16:02+00:00",
       "new_sub_topics_this_run": [
         "daa interview",
         "interview prep",
         "meta interview",
         "graph algorithms"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 3,
+      "_new_total_for_digest": 3
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1125,7 +1125,7 @@
         "e729646390432806ab8cad67f5785484",
         "bc46e2bcc23714c5243a5210b1d2f5ae"
       ],
-      "last_run": "2026-06-24T02:02:32.216016+00:00",
+      "last_run": "2026-06-24T02:16:02+00:00",
       "new_sub_topics_this_run": [
         "free-threading django",
         "nogil guide",
@@ -1134,8 +1134,8 @@
         "nogil concurrency",
         "python 3.14 speed"
       ],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     }
   },
   "last_run": "2026-06-24T01:17:54.751766+00:00"

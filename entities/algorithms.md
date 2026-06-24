@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Explore - LeetCode](https://leetcode.com/explore/) | kw: explore, leetcode
+- **2026-06-24** | [LinkedIn - leetcode codinginterview post](https://www.linkedin.com/posts/aryan-raj-dev_leetcode-codinginterview-softwareengineering-activity-7465991876924428288-XhIQ) | kw: linkedin, leetcode, codinginterview
+- **2026-06-24** | [Data Structures and Algorithms in JavaScript: DSA Course](https://www.udemy.com/course/javascript-data-structures-algorithms/) | kw: data, structures, and
+
 
 - **2026-06-24** | [Top 30+ DAA Interview Questions 2026 - Tpoint Tech](https://www.tpointtech.com/daa-interview-questions) | kw: daa interview
 - **2026-06-24** | [Top 24 Programming Interview Questions For 2026 DataCamp](https://www.datacamp.com/blog/top-programming-interview-questions) | kw: interview prep
