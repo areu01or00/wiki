@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [How Compilers Work: From Code to Execution - LinkedIn](https://www.linkedin.com/pulse/how-compilers-work-from-code-execution-luke-wilson-qwicc) | kw: compilers
+- **2026-06-24** | [Online C Compiler - online editor](https://www.onlinegdb.com/online_c_compiler) | kw: compilers
+- **2026-06-24** | [Online C++ Compiler - Programiz](https://www.programiz.com/cpp-programming/online-compiler/) | kw: compilers
+- **2026-06-24** | [Online Compiler & IDE for Python, C++, C, Java, Rust - CodeChef](https://www.codechef.com/ide) | kw: compilers
+
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: the llvm compiler infrastructure project
 
 - **2026-06-24** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation - Wikipedia
