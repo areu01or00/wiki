@@ -1,6 +1,9 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: good
+- **2026-06-24** | [Co-Creator of Haskell: Functional Programming, Thinking in Types - developing.dev](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: co-creator
+
 - **2026-06-24** | [Community version of Learn You a Haskell - Discourse](https://discourse.haskell.org/t/community-version-of-learn-youahaskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: functional programming
 
 - **2026-06-24** | [FP lang for 2026 - r/functionalprogramming](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: functional programming

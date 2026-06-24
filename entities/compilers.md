@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project - llvm.org](https://llvm.org/) | kw: the
+- **2026-06-24** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: jit
+- **2026-06-24** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: lightweight
+- **2026-06-24** | [LLNL Researchers Develop GPU JIT Compiler for Large-Scale HPC Applications](https://www.hpcwire.com/off-the-wire/llnl-researchers-develop-gpu-jit-compiler-for-large-scale-hpc-applications/) | kw: researchers
+
 - **2026-06-24** | [3. Building a JIT: Per-function Lazy - LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: compilers
 - **2026-06-24** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: compilers
 - **2026-06-24** | [What is LLVM? The power behind Swift, Rust, Clang - InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: compilers

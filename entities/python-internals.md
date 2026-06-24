@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Migrating to Stable ABI for free threading (abi3t) - Python 3.15.0b2](https://docs.python.org/3.15/howto/abi3t-migration.html) | kw: for
+- **2026-06-24** | [Python's Breaking Free: The End of the GIL Era - Medium](https://medium.com/@parasmunoli/pythons-breaking-free-the-end-of-the-gil-era-6e2333dbbf76) | kw: python's
+- **2026-06-24** | [The GIL is actually going away - Reddit r/Python](https://www.reddit.com/r/Python/comments/1lccbj2/the_gil_is_actually_going_away_have_you_tried_a/) | kw: the
+- **2026-06-24** | [The future of Python web services looks GIL-free - Hacker News](https://news.ycombinator.com/item?id=45633311) | kw: the
+- **2026-06-24** | [Free-Threaded Python (3.14t / nogil) Support for SGLang - GitHub](https://github.com/sgl-project/sglang/issues/22889) | kw: free-threaded
+- **2026-06-24** | [Python 3.14: GIL removed, multi-threading now parallel - LinkedIn](https://www.linkedin.com/posts/avi-chawla_finally-python-314-lets-you-disable-gil-activity-7383818720332169216-dtH_) | kw: python
+- **2026-06-24** | [Killing the GIL: How To Use Python 3.14's Free-Threading Upgrade](https://www.neelsomaniblog.com/p/killing-the-gil-how-to-use-python) | kw: killing
+- **2026-06-24** | [Python 3.14 Is Here. How Fast Is It? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) | kw: python
+- **2026-06-24** | [Python 3.14 - Astral](https://astral.sh/blog/python-3.14) | kw: python
+
 - **2026-06-24** | [Memory Management in Python - LinkedIn](https://www.linkedin.com/pulse/memory-management-python-farid-el-aouadi-myauf) | kw: python internals
 - **2026-06-24** | [What Is the Python GIL and Will They Get Rid of It? - Backblaze](https://www.backblaze.com/blog/the-python-gil-past-present-and-future/) | kw: python internals
 

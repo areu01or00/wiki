@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Amazon Interview | SDE-1 | Selected - LeetCode Discuss](https://leetcode.com/discuss/post/8029194) | kw: amazon
+- **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026 - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: are
+- **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: most
+- **2026-06-24** | [How to prepare for Data Structures & Algorithms interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: how
+- **2026-06-24** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: leetcode
+- **2026-06-24** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: data
+- **2026-06-24** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: data
+- **2026-06-24** | [How to Pass Leetcode Interviews: The Ritual That Works - proandroiddev](https://proandroiddev.com/how-to-pass-leetcode-interviews-the-ritual-that-works-a788ff2f4f27) | kw: how
+- **2026-06-24** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: rethinking
+- **2026-06-24** | [Top 100 DSA Interview Questions - LeetCode Discuss](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: top
+
 - **2026-06-24** | [Data Structures & Algorithms Interview Questions (2026)](https://onjob.io/blog/data-structures-interview-questions-2026/) | kw: Questions
 
 - **2026-06-24** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms

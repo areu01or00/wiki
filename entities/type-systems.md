@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Type Systems in Programming Languages: A Performance, Safety, and Paradigms Analysis](https://www.ijsr.net/getabstract.php?paperid=SR26113212016) | kw: type
+- **2026-06-24** | [PLDI 2026 - Research Papers](https://pldi26.sigplan.org/track/pldi-2026-papers) | kw: 2026
+- **2026-06-24** | [Type Systems and Functional Programming Language Theory - Springer](https://link.springer.com/subjects/type-systems-and-functional-programming-language-theory) | kw: type
+- **2026-06-24** | [Teaching Type Systems Implementation with S an Extensible Statically Typed Language](https://arxiv.org/pdf/2407.08089) | kw: type
+- **2026-06-24** | [Decoupling Resolution from Type Inference (WITS 2026) - POPL 2026](https://popl26.sigplan.org/details/wits-2026-papers/6/Decoupling-Resolution-from-Type-Inference) | kw: type
+- **2026-06-24** | [SPLASH 2026 - OOPSLA - Research Papers](https://conf.researchr.org/track/splash-2026/splash-2026-research-papers) | kw: 2026
+- **2026-06-24** | [If-T: A Benchmark for Type Narrowing - programming-journal.org](https://programming-journal.org/2025/10/17/) | kw: for
+- **2026-06-24** | [Type System - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/) | kw: type
+- **2026-06-24** | [The Emergence of Large Language Models in Static Analysis - arXiv](https://arxiv.org/html/2402.17679v1) | kw: the
+
 - **2026-06-24** | [Understanding type inference and gradual typing - TypeScript Video...](https://www.linkedin.com/learning/learning-typescript-2/understanding-type-inference-and-gradual-typing) | kw: type systems
 - **2026-06-24** | [(PDF) Gradual typing: a new perspective](https://www.researchgate.net/publication/330146437_Gradual_typing_a_new_perspective) | kw: type systems
 

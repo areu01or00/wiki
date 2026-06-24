@@ -1,6 +1,14 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system
+- **2026-06-24** | [The Only 12-Week High-Level System Design Roadmap You Need 2026 Edition](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: the
+- **2026-06-24** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: essential
+- **2026-06-24** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: essential
+- **2026-06-24** | [50 System Design Patterns Every Engineer Should Know](https://stackinterview.dev/guides/50-system-design-patterns-2026) | kw: system
+- **2026-06-24** | [From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI) | kw: from
+- **2026-06-24** | [The Complete Guide to System Design in 2026 | InfraSketch Blog](https://infrasketch.net/blog/complete-guide-system-design) | kw: the
+
 - **2026-06-24** | [System Design Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/system-design-tutorial/) | kw: system design
 
 - **2026-06-24** | [Airbnb System Design: (Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/airbnb-system-design/) | kw: Design
