@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems
+- **2026-06-24** | [TALK / Maggie Moss / Gradual Typing in Practice - YouTube](https://www.youtube.com/watch?v=Lj_9TyT3V98) | kw: type systems
+
 - **2026-06-24** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: type systems
 - **2026-06-24** | [Efficient Selection of Type Annotations for Performance - programming-journal](https://programming-journal.org/2026/11/3/) | kw: type systems
 - **2026-06-24** | [Efficient Selection of Type Annotations for Performance - arXiv 2603.05649](https://arxiv.org/abs/2603.05649) | kw: type systems
