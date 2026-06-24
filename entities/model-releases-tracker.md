@@ -17,6 +17,11 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-24** | [Krea 2 Open-Source: RAW and Turbo Image Models](https://www.krea.ai/krea-2-open-source) | kw: Krea 2 Open-Source RAW Turbo open weights HuggingFace | source: krea
+- **2026-06-24** | [Krea 2 (K2) - Official GitHub Repository](https://github.com/krea-ai/krea-2) | kw: Krea 2 K2 GitHub official inference repository | source: krea
+- **2026-06-24** | [Enterprise-grade AI image generation in 2 seconds: Krea 2 Raw and Turbo open weights](https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license) | kw: Krea 2 Raw Turbo open weights custom license venturebeat | source: krea
+- **2026-06-24** | [MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal](https://www.minimax.io/models/text/m3) | kw: MiniMax M3 official product page 1M context multimodal MSA | source: MiniMax
+
 - **2026-06-24** | [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report) | kw: Krea 2 Technical Report | source: krea
 - **2026-06-24** | [Pulsar 16B: Built by Multiverse Computing, Validated by NVIDIA](https://multiversecomputing.com/resources/pulsar-16b-built-by-multiverse-computing-validated-by-nvidia) | kw: Pulsar 16B Multiverse NVIDIA Apache | source: multiverse-computing
 - **2026-06-24** | [GLM-5.2: Built for Long-Horizon Tasks - Z.ai](https://z.ai/blog/glm-5.2) | kw: GLM-5.2 Long-Horizon Tasks Z.ai | source: glm-releases
