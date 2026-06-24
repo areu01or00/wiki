@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: the llvm compiler infrastructure project
+
 - **2026-06-24** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation - Wikipedia
 - **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM.org](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: 1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM.
 - **2026-06-24** | [wdv4758h/awesome-jit - GitHub](https://github.com/wdv4758h/awesome-jit) | kw: wdv4758h/awesome-jit - GitHub

@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional programming in 2026: haskell vs.
+- **2026-06-24** | [The Practical Value of Functional Programming - Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: the practical value of functional programming
+- **2026-06-24** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell guide [2026]: functional programming that
+- **2026-06-24** | [Which Functional Programming Languages Should You Learn in 2026?](https://www.analyticsinsight.net/programming/which-functional-programming-languages-should-you-learn-in-2026) | kw: which functional programming languages should you
+- **2026-06-24** | [What is Functional Programming? A Look at the Programming ... - Tarides](https://tarides.com/blog/2026-05-12-what-is-functional-programming-a-look-at-the-programming-style-from-an-ocaml-perspective/) | kw: what is functional programming? a look
+
 - **2026-06-24** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026 : r/functionalprogramming - Reddit
 - **2026-06-24** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Good tutorial/book about functional programming? - Rust User
 - **2026-06-24** | [What killed Haskell, could kill Rust, too - GitHub - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: What killed Haskell, could kill Rust, too - GitHub - Gist

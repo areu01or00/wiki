@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: 400 python interview questions with answers
+- **2026-06-24** | [The GIL Explained | EngineersOfAI - Technical Education for AI](https://engineersofai.com/docs/python/python-systems-and-internals/the-gil-explained) | kw: the gil explained | engineersofai -
+- **2026-06-24** | [CPython-Internals/Interpreter/gil/gil.md at master](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/gil/gil.md) | kw: cpython-internals/interpreter/gil/gil.md at master
+- **2026-06-24** | [CPython Internals: How Python Really Works Under... | Abhik Sarkar](https://www.abhik.ai/articles/cpython-internals) | kw: cpython internals: how python really works
+
 - **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV Change Everything - Me
 - **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and ...](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and
 - **2026-06-24** | [Thread states and the global interpreter lock - Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock - Python 3.14.

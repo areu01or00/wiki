@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Static TypeScript](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/mplr19main-id10-p-41a6cf2-42682-final.pdf) | kw: static typescript
+- **2026-06-24** | [TypeScript vs JavaScript Differences - 2026 : Aalpha](https://www.aalpha.net/blog/typescript-vs-javascript-differences/) | kw: typescript vs javascript differences - 2026
+- **2026-06-24** | [Outstanding Features of TypeScript: Static Type Checking, Compiler...](https://bfotool.com/blog/outstanding-features-of-typescript-static-type-checking-compiler-module-system) | kw: outstanding features of typescript: static type
+- **2026-06-24** | [2 minutes of statically typed Typescript ! | by Liron Hazan | ITNEXT](https://itnext.io/2-minutes-of-statically-typed-typescript-bb97f894e2f9) | kw: 2 minutes of statically typed typescript
+- **2026-06-24** | [Type Checking In TypeScript: A Beginners Guide | Zero To Mastery](https://zerotomastery.io/blog/typescript-type-checking/) | kw: type checking in typescript: a beginners
+- **2026-06-24** | [Advanced Topics in TypeScript](https://simplifycpp.org/books/others/Advanced_Topics_in_Typescript.pdf) | kw: advanced topics in typescript
+
 - **2026-06-24** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste
 - **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement in ..](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Impr
 - **2026-06-24** | [[2603.05649] Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for Per
