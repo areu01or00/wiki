@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+
+- **2026-06-24** | [Gleam on BEAM: Building Type-Safe Fault-Tolerant Systems](https://www.matterai.so/guides/gleam-on-beam-building-type-safe-fault-tolerant-systems-with-functional-erlang) | kw: gleam beam
+- **2026-06-24** | [Gleam Production Readiness 2026 Type-Safe BEAM](https://www.penchef.com/software-engineering/gleam-production-readiness-2026-report) | kw: gleam production
+- **2026-06-24** | [Gleam A Friendly Language for Type-Safe Scalable Systems](https://bytegoblin.io/blog/gleam-a-friendly-language-for-building-type-safe-scalable-systems.mdx) | kw: gleam type-safe
+
 - **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad functional
 
 - **2026-06-24** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional Programming in 2026: Haskell vs. Gleam 

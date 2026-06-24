@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+
+- **2026-06-24** | [Event-Driven Microservices for Booking Systems](https://aiblog.airtruffle.com/event-driven-microservices-booking-systems-distributed-transactions/) | kw: event-driven saga
+- **2026-06-24** | [Event-Driven Architecture for Microservices: Patterns](https://asifthewebguy.me/posts/event-driven-microservices-architecture.html) | kw: event-driven cqrs
+- **2026-06-24** | [Spring Boot & Microservices 2026 Mastery Guide](https://sanjaysingh-dev.medium.com/spring-boot-microservices-2026-mastery-guide-one-resource-every-interview-question-087215f2cab0) | kw: spring microservices
+- **2026-06-24** | [Kafka Saga Choreography for Microservices](https://www.linkedin.com/posts/jai-geek_microservices-sagapattern-eventdrivenarchitecture-activity-7427338438162644992-Amhd) | kw: saga kafka
+
 - **2026-06-24** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 
 - **2026-06-24** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture P
 - **2026-06-24** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed Systems Patterns 2026 \| pdpspectra

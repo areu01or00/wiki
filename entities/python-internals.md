@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+
+- **2026-06-24** | [Python 3.14 Free-Threading in Django: Real Benchmarks](https://medium.com/django-journal/python-3-14-free-threading-in-django-real-benchmarks-for-async-thread-safe-views-no-gil-pain-82edc73a1c20) | kw: free-threading django
+- **2026-06-24** | [CrazyDubya/python-nogil-guide](https://github.com/CrazyDubya/python-nogil-guide) | kw: nogil guide
+- **2026-06-24** | [Python 3.14 No GIL A Surprising Benchmark](https://www.linkedin.com/posts/rafatsiddiqui_python-python314-freethreading-activity-7383349795731464192-9f_A) | kw: nogil benchmark
+- **2026-06-24** | [High-performance, free-threaded Python HTTP load tester](https://pypi.org/project/pystress-no-gil/) | kw: pystress nogil
+- **2026-06-24** | [Python 3.14 Free-Threading Your Threads Finally Run in Parallel](https://levelup.gitconnected.com/python-3-14s-free-threading-your-threads-finally-run-in-parallel-b82919a80b82) | kw: free-threading
+- **2026-06-24** | [Python 3.14 Adds No-GIL Support Real Concurrency](https://python.plainenglish.io/python-3-14-adds-no-gil-support-what-it-means-for-real-concurrency-in-2025-105089b453c3) | kw: nogil concurrency
+- **2026-06-24** | [Python 3.14 Is Here How Fast Is It](https://faun.dev/c/links/faun/python-314-is-here-how-fast-is-it/) | kw: python 3.14 speed
+
 - **2026-06-24** | [Thread states and the global interpreter lock — Python 3.14.6 ...](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock — Py
 - **2026-06-24** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites
 - **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and ...](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: The 2026 Python Renaissance: No-GIL Speed, UV Domi

@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-24** | [Intro to MLIR - Virginia Tech](https://people.cs.vt.edu/~kabilan/blog/2026/MLIR-1/) | kw: mlir intro
+- **2026-06-24** | [Agenda: 2026 European LLVM Developers Meeting - Swoogo](https://llvm.swoogo.com/2026eurollvm/agenda) | kw: eurollvm 2026
+
 - **2026-06-24** | [GitHub - debo-31/JIT-LLVM: Just-In-Time compilation is a method to...](https://github.com/debo-31/JIT-LLVM) | kw: debo-31 JIT-LLVM
 
 

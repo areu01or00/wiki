@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-24** | [TypeScript 6.0 Complete Guide: New Features, Breaking Changes](https://noqta.tn/en/tutorials/typescript-6-0-new-features-migration-guide-2026) | kw: typescript migration
+- **2026-06-24** | [Graded Modal Types for Memory and Communication Safety](https://kar.kent.ac.uk/113723/1/138marshall2026phdfinal.pdf) | kw: graded modal types
+
 - **2026-06-24** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau programming
 
 
