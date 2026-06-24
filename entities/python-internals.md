@@ -1,6 +1,19 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How Python Works Under the Hood:
+- **2026-06-24** | [Internals of Python 3.x: Derive Maximum Code Performance](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals of Python 3.x: Derive Maximum
+- **2026-06-24** | [What Is the Python Global Interpreter Lock (GIL)? Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter
+- **2026-06-24** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Top 50 Python Interview Questions and
+- **2026-06-24** | [Fix windows 10/11 blue screen stop code memory management error](https://www.youtube.com/watch?v=nko2Ay6nW38) | kw: Fix windows 10/11 blue screen stop
+- **2026-06-24** | [Internals of Python 3.x scanlibs](https://scanlibs.com/internals-python-3-performance/) | kw: Internals of Python 3.x scanlibs
+- **2026-06-24** | [8 Best YouTube Channels for Python in 2026 (Ranked)](https://learnwithpath.com/blog/best-youtube-channels-for-python-2026) | kw: 8 Best YouTube Channels for Python
+- **2026-06-24** | [Top Python Interview Questions and Answers Embedded Prep](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: Top Python Interview Questions and Answers
+- **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV
+- **2026-06-24** | [Thread states and the global interpreter lock Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter
+- **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: The 2026 Python Renaissance: No-GIL Speed,
+- **2026-06-24** | [Using malloc_trim to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using malloc_trim to help with memory
+
 
 - **2026-06-24** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python (programming language) - wikipedia
 

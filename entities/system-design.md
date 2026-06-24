@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System Design
+- **2026-06-24** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: Microservices Architecture Patterns in 2026: Mastering
+- **2026-06-24** | [How I Build a Distributed System in 2026: Principles, Patterns, and Pitfalls](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: How I Build a Distributed System
+- **2026-06-24** | [Distributed System Design: the complete guide to building scalable systems](https://grokkingthesystemdesign.com/guides/distributed-system-design/) | kw: Distributed System Design: the complete guide
+- **2026-06-24** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Edition)
+- **2026-06-24** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If you want to get started
+- **2026-06-24** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: Top SaaS Architecture Patterns in 2026:
+- **2026-06-24** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: Integration Patterns 2026: Query Patterns (Consistency
+- **2026-06-24** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distributed Systems
+- **2026-06-24** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: System Design Concepts Course and Interview
+
 
 - **2026-06-24** | [2 Patterns for Resilience Beyond Multi-AZ](https://blog.simukappu.com/resilience-beyond-multi-az-bulkheads-and-shock-absorbers-architecture-dojo-2024) | kw: 2 patterns for resilience beyond multi-az
 

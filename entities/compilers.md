@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at GitHub
+- **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: 1. Building a JIT: Starting out
+- **2026-06-24** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes
+- **2026-06-24** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: ML Compiler Optimization Revolution [Deep Dive]
+- **2026-06-24** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM
+- **2026-06-24** | [JIT Design and Implementation · The Julia Language](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT Design and Implementation · The
+- **2026-06-24** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The Case For Compilers: A Look
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at GitHub
+- **2026-06-24** | [What is LLVM? The power behind Swift, Rust, Clang, and more | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What is LLVM? The power behind
+
 
 - **2026-06-24** | [Intro to MLIR - Virginia Tech](https://people.cs.vt.edu/~kabilan/blog/2026/MLIR-1/) | kw: mlir intro
 - **2026-06-24** | [Agenda: 2026 European LLVM Developers Meeting - Swoogo](https://llvm.swoogo.com/2026eurollvm/agenda) | kw: eurollvm 2026

@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth: A 2026
+- **2026-06-24** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type system
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type Annotations for
+- **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages (ACM)](https://dl.acm.org/doi/10.1145/3798220) | kw: Type Inference for Functional and Imperative
+- **2026-06-24** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic Typing: The Ultimate
+- **2026-06-24** | [Gradual typing - CodeDocs](https://codedocs.org/what-is/gradual-typing) | kw: Gradual typing
+- **2026-06-24** | [Elixir 1.20 has a type system now: comparing it with Rust and TypeScript](https://dev.to/geekmasahiro/elixir-120-has-a-type-system-now-comparing-it-with-rust-and-typescript-31p4) | kw: Elixir 1.20 has a type system
+- **2026-06-24** | [Gradual typing with unification-based inference](https://www.researchgate.net/publication/220828930_Gradual_typing_with_unification-based_inference) | kw: Gradual typing with unification-based inference
+
 
 - **2026-06-24** | [TypeScript 6.0 Complete Guide: New Features, Breaking Changes](https://noqta.tn/en/tutorials/typescript-6-0-new-features-migration-guide-2026) | kw: typescript migration
 - **2026-06-24** | [Graded Modal Types for Memory and Communication Safety](https://kar.kent.ac.uk/113723/1/138marshall2026phdfinal.pdf) | kw: graded modal types
