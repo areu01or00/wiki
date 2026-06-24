@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) - Wikipedia
+
 - **2026-06-24** | [What killed Haskell, could kill Rust, too · GitHub - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: functional programming
 - **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional programming
 - **2026-06-24** | [Co-Creator of Haskell: Functional Programming, Thinking in Types, The I/O Problem](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: functional programming
