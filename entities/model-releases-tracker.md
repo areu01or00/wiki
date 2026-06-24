@@ -17,6 +17,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-24** | [llm-jp/llm-jp-4-32b-a3b-thinking-gguf - Hugging Face (Quantized GGUF Release)](https://huggingface.co/llm-jp/llm-jp-4-32b-a3b-thinking-gguf) | kw: llm-jp-4 32B-A3B Thinking GGUF quantized model card | source: llm-jp
+- **2026-06-24** | [llm-jp/llm-jp-4-8b-thinking-gguf - Hugging Face (Quantized GGUF Release)](https://huggingface.co/llm-jp/llm-jp-4-8b-thinking-gguf) | kw: llm-jp-4 8B Thinking GGUF quantized model card | source: llm-jp
 - **2026-06-24** | [Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory](https://arxiv.org/abs/2606.23195) | kw: Memory Contagion: Cross-Temporal Propaga | source: arxiv-cs-cl
 - **2026-06-24** | [Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation](https://arxiv.org/abs/2606.23127) | kw: Managing Procedural Memory in LLM Agents | source: arxiv-cs-cl
 - **2026-06-24** | [Training Open Models for Agentic Phone Use](https://arxiv.org/abs/2606.23049) | kw: Training Open Models for Agentic Phone U | source: arxiv-cs-cl
