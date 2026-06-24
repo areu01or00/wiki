@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Type Checking System | astral-sh/ty | DeepWiki](https://deepwiki.com/astral-sh/ty/2-type-checking-system) | kw: Type Checking System | astral-sh/ty | DeepWiki
+
 - **2026-06-24** | [Announcing TypeScript 7.0 RC - devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/) | kw: Announcing TypeScript 7.0 RC - devblogs.microsoft.com
 - **2026-06-24** | [TypeScript Docs — The Modern TypeScript Documentation](https://typescriptdocs.com/) | kw: TypeScript Docs — The Modern TypeScript
 - **2026-06-24** | [TypeScript - devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/) | kw: TypeScript - devblogs.microsoft.com
