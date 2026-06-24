@@ -1,6 +1,7 @@
 # Compilers
 
 ## Updates
+
 - **2026-06-24** | [LLVM 22.1.0 release is a technically dense update that touches ... - Medium](https://medium.com/@Re-News/llvm-22-1-0-release-is-a-technically-dense-update-that-touches-nearly-every-layer-of-the-toolchain-806ebcc1521e) | kw: LLVM 22.1.0 release is a technically dense update 
 
 

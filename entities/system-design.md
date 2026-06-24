@@ -2,6 +2,7 @@
 
 ## Updates
 
+
 - **2026-06-24** | [Microservices System Design Interview: A Step-by-Step Walkthrough](https://designgurus.substack.com/p/microservices-system-design-interview) | kw: Microservices System Design Interview
 - **2026-06-24** | [The Complete System Design Interview Guide 2026 | by TechEon](https://atul4u.medium.com/the-complete-system-design-interview-guide-2026-1784f8beb092) | kw: The Complete System Design Interview Guide 2026
 - **2026-06-24** | [Mastering Microservices Design Patterns for System Interviews](https://www.linkedin.com/posts/ankit-pangasa_if-you-can-explain-these-12-patterns-activity-7428054215689883649-q1Ys) | kw: Mastering Microservices Design Patterns for System...

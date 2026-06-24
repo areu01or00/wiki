@@ -1,6 +1,7 @@
 # Python Internals
 
 ## Updates
+
 - **2026-06-24** | [What is the Global Interpreter Lock (GIL) in Python? Is It Going Away in 2026 - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the Global Interpreter Lock (GIL
 - **2026-06-24** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken and Why It Might Not Matter - Java Code Geeks](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The Python GIL Controversy
 - **2026-06-24** | [Understanding the Python Global Interpreter Lock (GIL) - The Coding Gopher](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Understanding the Python Global Interpre

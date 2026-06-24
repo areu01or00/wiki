@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Quicksort - Wikipedia](https://en.wikipedia.org/wiki/Quicksort) | kw: Quicksort - Wikipedia
+- **2026-06-24** | [Quicksort - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Quicksort) | kw: Quicksort - Simple English Wikipedia
+- **2026-06-24** | [DSA Quicksort - W3Schools](https://www.w3schools.com/dsa/dsa_algo_quicksort.php) | kw: DSA Quicksort - W3Schools
+- **2026-06-24** | [QuickSort (With Code in Python/C++/Java/C) - Programiz](https://www.programiz.com/dsa/quick-sort) | kw: QuickSort (With Code in Python/C++/Java/C) -
+- **2026-06-24** | [Quick Sort Algorithm - Online Tutorials Library](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm) | kw: Quick Sort Algorithm - Online Tutorials
+- **2026-06-24** | [Quicksort Algorithm – C++, Java, and Python Implementation](https://www.techiedelight.com/quicksort/) | kw: Quicksort Algorithm – C++, Java, and
+- **2026-06-24** | [Quick Sort Algorithm | Learn with Interactive Animations](https://dsa-visualizer-sigma.vercel.app/visualizer/sorting/quicksort) | kw: Quick Sort Algorithm | Learn with
+- **2026-06-24** | [algorithms-eem/entries/2026/06/19/wiki-Quicksort.md at main](https://github.com/benthomasson/algorithms-eem/blob/main/entries/2026/06/19/wiki-Quicksort.md) | kw: algorithms-eem/entries/2026/06/19/wiki-Quicksort.md at main
+- **2026-06-24** | [Quick Sort - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/quick-sort-algorithm/) | kw: Quick Sort - GeeksforGeeks
+- **2026-06-24** | [Quick Sort in C - GeeksforGeeks](https://www.geeksforgeeks.org/c/quick-sort-in-c/) | kw: Quick Sort in C - GeeksforGeeks
+
 - **2026-06-24** | [Leetcode Questions Asked at Bloomberg (2026) | ShadeCoder](https://articles.shadecoder.com/top-leetcode-questions-asked-at-bloomberg-2026-compared-ranked-and-how-to-prepare) | kw: Leetcode Questions Asked at Bloomberg 2026
 
 - **2026-06-24** | [I Tried 20+ Python DSA Courses with LeetCode Exercises on Udemy - Medium](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: I Tried 20+ Python DSA Courses with Leet

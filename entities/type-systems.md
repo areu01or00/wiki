@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Announcing TypeScript 7.0 RC - devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/) | kw: Announcing TypeScript 7.0 RC - devblogs.microsoft.com
+- **2026-06-24** | [TypeScript Docs — The Modern TypeScript Documentation](https://typescriptdocs.com/) | kw: TypeScript Docs — The Modern TypeScript
+- **2026-06-24** | [TypeScript - devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/) | kw: TypeScript - devblogs.microsoft.com
+
 - **2026-06-24** | [[2603.05649] Efficient Selection of Type Annotations for Performance](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type
 - **2026-06-24** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide — Strict
 

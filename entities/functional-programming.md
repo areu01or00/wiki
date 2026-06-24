@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Elixir (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Elixir_(programming_language)) | kw: Elixir (programming language) - Wikipedia
+- **2026-06-24** | [The Elixir programming language](https://elixir-lang.org/) | kw: The Elixir programming language
+- **2026-06-24** | [Installing Elixir - The Elixir programming language](https://elixir-lang.org/install.html) | kw: Installing Elixir - The Elixir programming
+- **2026-06-24** | [GitHub - elixir-lang/elixir](https://github.com/elixir-lang/elixir) | kw: GitHub - elixir-lang/elixir
+- **2026-06-24** | [Introduction — Elixir v1.20.2](https://elixir.hexdocs.pm/introduction.html) | kw: Introduction — Elixir v1.20.2
+- **2026-06-24** | [A beginner's guide to the Elixir programming language - Educative](https://www.educative.io/blog/elixir-functional-programming) | kw: A beginner's guide to the Elixir
+- **2026-06-24** | [Functional Programming with Elixir – Full Course](https://www.youtube.com/watch?v=IiIgm_yaoOA) | kw: Functional Programming with Elixir – Full
+- **2026-06-24** | [Elixir news and status updates from the community](https://elixirstatus.com/) | kw: Elixir news and status updates from
+
 - **2026-06-24** | [functional - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/functional) | kw: functional Wiktionary the free dictionary
 - **2026-06-24** | [FUNCTIONAL definition and meaning | Collins English Dictionary](www.collinsdictionary.com/dictionary/english/functional) | kw: FUNCTIONAL definition and meaning Collins English
 
