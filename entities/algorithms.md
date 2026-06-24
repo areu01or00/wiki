@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Amazon Interview SDE-1 Selected - LeetCode Discuss](https://leetcode.com/discuss/post/8029194) | kw: Amazon Interview SDE-1
+- **2026-06-24** | [Are Big Tech interviews still DSA LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Tech interviews still
+- **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode
+- **2026-06-24** | [How to prepare for DSA interview in 2026 - YouTube](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: prepare interview 2026
+- **2026-06-24** | [LeetCode Isnt Dead in 2026 - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode Isnt Dead
+
 - **2026-06-24** | [Quicksort - Wikipedia](https://en.wikipedia.org/wiki/Quicksort) | kw: Quicksort - Wikipedia
 - **2026-06-24** | [Quicksort - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Quicksort) | kw: Quicksort - Simple English Wikipedia
 - **2026-06-24** | [DSA Quicksort - W3Schools](https://www.w3schools.com/dsa/dsa_algo_quicksort.php) | kw: DSA Quicksort - W3Schools

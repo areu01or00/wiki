@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System Wikipedia
+- **2026-06-24** | [System - Simple English Wikipedia](https://simple.wikipedia.org/wiki/System) | kw: System Simple English
+- **2026-06-24** | [How to open System Properties in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open System Properties
+- **2026-06-24** | [SYSTEM Definition - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: SYSTEM Definition Merriam-Webster
+- **2026-06-24** | [What does System mean - Definitions.net](https://www.definitions.net/definition/System) | kw: What does System
+
 
 
 - **2026-06-24** | [Microservices System Design Interview: A Step-by-Step Walkthrough](https://designgurus.substack.com/p/microservices-system-design-interview) | kw: Microservices System Design Interview

@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python 2026: Free-Threading
+- **2026-06-24** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states global
+- **2026-06-24** | [How Pythons GIL actually works - dev.to](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Pythons actually works
+- **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: 2026 Python Renaissance:
+- **2026-06-24** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye GIL: Exploring
+
 
 - **2026-06-24** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python (programming language)
 - **2026-06-24** | [Learn Python 2 - Codecademy](https://www.codecademy.com/learn/learn-python) | kw: Learn Python 2

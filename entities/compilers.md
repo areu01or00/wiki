@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [compiler-course-2026 BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 BuildingAJIT1.rst
+- **2026-06-24** | [LLVM Developer Meeting 2026-01](https://llvm.org/devmtg/2026-01/) | kw: LLVM Developer Meeting
+- **2026-06-24** | [compiler-course-2026 BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026 BuildingAJIT3.rst
+
 
 - **2026-06-24** | [LLVM 22.1.0 release is a technically dense update that touches ... - Medium](https://medium.com/@Re-News/llvm-22-1-0-release-is-a-technically-dense-update-that-touches-nearly-every-layer-of-the-toolchain-806ebcc1521e) | kw: LLVM 22.1.0 release is a technically dense update 
 
