@@ -1,6 +1,11 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Haskell programming language (@haskell.org) - Bluesky](https://bsky.app/profile/haskell.org) | kw: Haskell programming language (@haskell.org) - Blue
+- **2026-06-24** | [The Gleam Programming Language - Hacker News](https://news.ycombinator.com/item?id=46611667) | kw: The Gleam Programming Language - Hacker News
+- **2026-06-24** | [FAQs - Kit Programming Language](https://kit-lang.org/faqs.html) | kw: FAQs - Kit Programming Language
+- **2026-06-24** | [The history of Functional Programming - Ada Beat](https://adabeat.com/fp/the-history-of-functional-programming/) | kw: The history of Functional Programming - Ada Beat
+
 - **2026-06-24** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: haskell
 - **2026-06-24** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monad
 - **2026-06-24** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell

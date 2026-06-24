@@ -157,7 +157,14 @@
         "GeeksforGeeks",
         "Advanced",
         "Modern",
-        "Idempotent"
+        "Idempotent",
+        "You",
+        "Days",
+        "Week",
+        "UpCloud",
+        "Community",
+        "Only",
+        "That"
       ],
       "last_result_hashes": [
         "25df870c0f35fc8f49c62a68d86cf796",
@@ -171,21 +178,18 @@
         "3023a2cb951d86d2a7fc1b8cce9dc3e8",
         "72e85c578b97907d62da49d9f083e6dd"
       ],
-      "last_run": "2026-06-24T08:33:03.008574+00:00",
+      "last_run": "2026-06-24T08:49:52.188802+00:00",
       "new_sub_topics_this_run": [
-        "Step-by-Step",
-        "Design?",
-        "Guidance",
-        "AI-Native",
-        "Study",
-        "Interviews",
-        "Properly",
-        "Walkthrough",
-        "MockExperts",
-        "Reddit"
+        "You",
+        "Days",
+        "Week",
+        "UpCloud",
+        "Community",
+        "Only",
+        "That"
       ],
       "last_new_count": 0,
-      "_new_total_for_digest": 10
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -337,7 +341,13 @@
         "Matching",
         "llvm-autojit",
         "about",
-        "Interested"
+        "Interested",
+        "rst",
+        "CPU",
+        "out",
+        "For",
+        "Starting",
+        "KaleidoscopeJIT"
       ],
       "last_result_hashes": [
         "90e98ebde0077779dd62fb0d85b51cf0",
@@ -352,15 +362,17 @@
         "b08d027934c0ad9c47ec3041c6e299f2",
         "9de9def0d8a2514026c39c3aabb6b2ce"
       ],
-      "last_run": "2026-06-24T08:33:03.008574+00:00",
+      "last_run": "2026-06-24T08:49:52.188802+00:00",
       "new_sub_topics_this_run": [
-        "KaleidoscopeJIT",
+        "rst",
+        "CPU",
+        "out",
+        "For",
         "Starting",
-        "21.1.2",
-        "Per-function"
+        "KaleidoscopeJIT"
       ],
       "last_new_count": 0,
-      "_new_total_for_digest": 5
+      "_new_total_for_digest": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -518,7 +530,12 @@
         "dynamic",
         "where",
         "Piracha",
-        "Sym Piracha"
+        "Sym Piracha",
+        "Works",
+        "Conference",
+        "Finally",
+        "Compiler",
+        "How"
       ],
       "last_result_hashes": [
         "0e40ec20e1a733a8136667ee5938762f",
@@ -531,10 +548,16 @@
         "5cc1d4c55fe22c53ab06d0faccb4247c",
         "a47905b8e6aeadd5f227767b65f5a246"
       ],
-      "last_run": "2026-06-24T08:33:03.008574+00:00",
-      "new_sub_topics_this_run": [],
+      "last_run": "2026-06-24T08:49:52.188802+00:00",
+      "new_sub_topics_this_run": [
+        "Works",
+        "Conference",
+        "Finally",
+        "Compiler",
+        "How"
+      ],
       "last_new_count": 0,
-      "_new_total_for_digest": 4
+      "_new_total_for_digest": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -700,7 +723,17 @@
         "questions",
         "Changes",
         "Rust",
-        "That"
+        "That",
+        "FAQs",
+        "Kit",
+        "Bluesky",
+        "The",
+        "Ada",
+        "org",
+        "Beat",
+        "Drew",
+        "history",
+        "fun"
       ],
       "last_result_hashes": [
         "8c0ea0d18b37f3c9d2facb56f6b40861",
@@ -716,15 +749,26 @@
         "c2fefc572a2578f6f202a147d877925b",
         "6ac17140976f4e3a7be22d2ec701d1ce",
         "449f1936d11b3408b5111b8fbfc6e205",
-        "48e396ad3bb766dd1b0be8823cba3259"
+        "48e396ad3bb766dd1b0be8823cba3259",
+        "44e14206256d6fdf94c1fbcf3be669be",
+        "db75d060aa26f3de2cbb1824056478cb",
+        "3b0f14b54684b305339d3ef8e9ddf429",
+        "3f1370c2699f24c125501252e0e6e288"
       ],
-      "last_run": "2026-06-24T08:33:03.008574+00:00",
+      "last_run": "2026-06-24T08:49:52.188802+00:00",
       "new_sub_topics_this_run": [
-        "Changes",
-        "Rust",
-        "That"
+        "FAQs",
+        "Kit",
+        "Bluesky",
+        "The",
+        "Ada",
+        "org",
+        "Beat",
+        "Drew",
+        "history",
+        "fun"
       ],
-      "last_new_count": 3,
+      "last_new_count": 4,
       "_new_total_for_digest": 4
     },
     "algorithms": {
@@ -896,7 +940,17 @@
         "Enough",
         "But",
         "Isn",
-        "Medium"
+        "Medium",
+        "Works",
+        "test",
+        "The",
+        "Pass",
+        "with",
+        "Ritual",
+        "Java",
+        "changed",
+        "Udemy",
+        "That"
       ],
       "last_result_hashes": [
         "9683f091f94b73598b61b277bfaf0dc7",
@@ -915,17 +969,21 @@
         "1ff2c45205d19d05c322321f335f0949",
         "6ad4424d61d8084aeff283da158f5951"
       ],
-      "last_run": "2026-06-24T08:33:03.008574+00:00",
+      "last_run": "2026-06-24T08:49:52.188802+00:00",
       "new_sub_topics_this_run": [
-        "But",
-        "Dead",
-        "Enough",
-        "Isn",
-        "Longer",
-        "Medium"
+        "Works",
+        "test",
+        "The",
+        "Pass",
+        "with",
+        "Ritual",
+        "Java",
+        "changed",
+        "Udemy",
+        "That"
       ],
-      "last_new_count": 2,
-      "_new_total_for_digest": 5
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1095,7 +1153,17 @@
         "No-GIL",
         "Renaissance",
         "Speed",
-        "Dominance"
+        "Dominance",
+        "docs",
+        "management",
+        "The",
+        "Using",
+        "help",
+        "with",
+        "Killers",
+        "Discuss",
+        "Expert",
+        "Fixes"
       ],
       "last_result_hashes": [
         "fd6e6ed7fe3806f648821859d3f2f23b",
@@ -1118,15 +1186,21 @@
         "3977a42e266cba0d9724f6994662a434",
         "a1233cdbbbaf5c3624b23b99f9297143"
       ],
-      "last_run": "2026-06-24T08:33:03.008574+00:00",
+      "last_run": "2026-06-24T08:49:52.188802+00:00",
       "new_sub_topics_this_run": [
-        "Dominance",
-        "No-GIL",
-        "Renaissance",
-        "Speed"
+        "docs",
+        "management",
+        "The",
+        "Using",
+        "help",
+        "with",
+        "Killers",
+        "Discuss",
+        "Expert",
+        "Fixes"
       ],
-      "last_new_count": 5,
-      "_new_total_for_digest": 5
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     }
   }
 }
