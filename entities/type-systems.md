@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: inference
+- **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages (PDF)](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: inference
+- **2026-06-24** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb?responsesOpen=true) | kw: python
+- **2026-06-24** | [Understanding type inference and gradual typing - TypeScript Video](https://www.linkedin.com/learning/learning-typescript-2/understanding-type-inference-and-gradual-typing) | kw: typescript
+- **2026-06-24** | [TALK / Maggie Moss / Gradual Typing in Practice - YouTube](https://www.youtube.com/watch?v=Lj_9TyT3V98) | kw: gradual typing
+- **2026-06-24** | [Gradual Typing: Bridging the Gap Between Static and Dynamic Worlds](https://daily.jovis.ai/programming-languages/gradual-typing-bridging-the-gap-between-static-and-dynamic-worlds/) | kw: gradual typing
+- **2026-06-24** | [Gradual Typing with Unification-based Inference (PDF)](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: inference
+
 
 - **2026-06-24** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb) | kw: type-systems
 

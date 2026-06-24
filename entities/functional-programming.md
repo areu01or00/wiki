@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional
+- **2026-06-24** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: haskell
+- **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: rust
+- **2026-06-24** | [Community version of Learn You a Haskell 2026 update](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: haskell
+- **2026-06-24** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: monad
+- **2026-06-24** | [The I/O problem - HaskellWiki](https://wiki.haskell.org/The_I/O_problem) | kw: haskell
+- **2026-06-24** | [Haskell Interlude (Haskell Foundation podcast)](https://haskell.foundation/podcast/) | kw: haskell
+
 
 - **2026-06-24** | [monad · GitHub Topics · GitHub](https://github.com/topics/monad) | kw: monad
 

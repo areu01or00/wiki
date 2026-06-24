@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: llvm
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: llvm
+- **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: llvm
+- **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM (6.0.0)](https://releases.llvm.org/6.0.0/docs/tutorial/BuildingAJIT1.html) | kw: llvm
+- **2026-06-24** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: llvm
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project - 2026-01 devmtg](https://llvm.org/devmtg/2026-01/) | kw: llvm
+- **2026-06-24** | [Building Fermat: A Journey from Scratch to JIT Compiler (Part 1)](https://medium.com/@satyikpritamy/building-fermat-a-journey-from-scratch-to-jit-compiler-part-1-8f3726a67d27) | kw: jit
+- **2026-06-24** | [LLVM Implementation for Java JIT Compilers: A Deep Dive](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: llvm
+- **2026-06-24** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler (YouTube)](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: llvm
+
 
 - **2026-06-24** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with...](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: llvm
 

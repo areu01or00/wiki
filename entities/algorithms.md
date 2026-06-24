@@ -1,6 +1,21 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithm
+- **2026-06-24** | [List of algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms) | kw: algorithms
+- **2026-06-24** | [leetcode - GitHub Topics](https://github.com/topics/leetcode) | kw: leetcode
+- **2026-06-24** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode Interview Problems](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: dsa
+- **2026-06-24** | [Explore - LeetCode](https://leetcode.com/explore/) | kw: leetcode
+- **2026-06-24** | [Design Add And Search Word Data Structure - LeetCode (YouTube)](https://www.youtube.com/watch?v=zDyoxl29yns) | kw: leetcode
+- **2026-06-24** | [Kotak Mahindra Bank Interview Questions & Experiences 2026](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/Kotak+Mahindra+Bank) | kw: interview
+- **2026-06-24** | [#leetcode #codinginterview - LinkedIn post](https://www.linkedin.com/posts/aryan-raj-dev_leetcode-codinginterview-softwareengineering-activity-7465991876924428288-XhIQ) | kw: leetcode
+- **2026-06-24** | [LeetCode Review (2026): Is It Worth It?](https://coddy.tech/vs/leetcode) | kw: leetcode
+- **2026-06-24** | [Golang: Interview Bootcamp on HackerRank, LeetCode Algos - Udemy](https://www.udemy.com/course/golang-interview-bootcamp-on-datastructures-leetcode-algos/) | kw: golang
+- **2026-06-24** | [What is an Algorithm | Introduction to Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
+- **2026-06-24** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: algorithms
+- **2026-06-24** | [Algorithms | Computer science theory - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: algorithms
+- **2026-06-24** | [Introduction to Algorithms - MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: algorithms
+
 
 - **2026-06-24** | [data-structures · GitHub Topics · GitHub](https://github.com/topics/data-structures) | kw: algorithms
 

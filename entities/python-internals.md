@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python
+- **2026-06-24** | [Internals of Python 3.x - Amazon book](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: python
+- **2026-06-24** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: python
+- **2026-06-24** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: python
+- **2026-06-24** | [Internals of Python 3.x - scanlibs](https://scanlibs.com/internals-python-3-performance/) | kw: python
+- **2026-06-24** | [Advanced Python Interview Questions & Answers - Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: python
+- **2026-06-24** | [Top Python Interview Questions and Answers - Embedded Prep](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: python
+- **2026-06-24** | [GitHub - skyfirews/prep](https://github.com/skyfirews/prep) | kw: github
+
 
 - **2026-06-24** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: gil
 
