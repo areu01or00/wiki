@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Algorithm) | kw: Algorithm - Wikipedia
+
+- **2026-06-24** | [List of algorithms - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_algorithms) | kw: List of algorithms - Wikipedia
+
+- **2026-06-24** | [What is an Algorithm? - hai.stanford.edu](https://hai.stanford.edu/ai-definitions/what-is-an-algorithm) | kw: What is an Algorithm? - hai.stanford.edu
+
 - **2026-06-24** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: algorithm
 - **2026-06-24** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: leetcode
 

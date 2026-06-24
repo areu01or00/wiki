@@ -1,6 +1,8 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) - Wikipedia
+
 - **2026-06-24** | [Haskell programming language (@haskell.org) - Bluesky](https://bsky.app/profile/haskell.org) | kw: Haskell programming language (@haskell.org) - Blue
 - **2026-06-24** | [The Gleam Programming Language - Hacker News](https://news.ycombinator.com/item?id=46611667) | kw: The Gleam Programming Language - Hacker News
 - **2026-06-24** | [FAQs - Kit Programming Language](https://kit-lang.org/faqs.html) | kw: FAQs - Kit Programming Language
