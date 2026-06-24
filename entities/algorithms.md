@@ -1,6 +1,10 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [I Tried 20+ Python DSA Courses with LeetCode Exercises on Udemy - Medium](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: I Tried 20+ Python DSA Courses with Leet
+- **2026-06-24** | [Core Skills - Algorithm & Data Structure Practice - NeetCode](https://neetcode.io/practice/practice/coreSkills) | kw: Core Skills
+- **2026-06-24** | [Data Structures and Algorithms for Coding Interview — Complete Python Resource](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview/) | kw: Data Structures and Algorithms for Codin
+
 - **2026-06-24** | [Algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Algorithm) | kw: Algorithm - Wikipedia
 
 - **2026-06-24** | [List of algorithms - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_algorithms) | kw: List of algorithms - Wikipedia

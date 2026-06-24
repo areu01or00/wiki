@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [[2603.05649] Efficient Selection of Type Annotations for Performance](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type
+- **2026-06-24** | [Luau Type System Complete Guide — Strict Mode, Generics & Type Functions for Safe Code [2026]](https://www.oflight.co.jp/en/columns/luau-type-system-strict-mode-guide-2026) | kw: Luau Type System Complete Guide — Strict
+
 - **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir
 - **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type-inference
 - **2026-06-24** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type system |

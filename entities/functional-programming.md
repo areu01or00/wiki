@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional (mathematics)
+- **2026-06-24** | [Functional - Wikipedia](https://en.wikipedia.org/wiki/Functional) | kw: Functional
+- **2026-06-24** | [FUNCTIONAL | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/functional) | kw: FUNCTIONAL | English meaning
+- **2026-06-24** | [FUNCTIONAL | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: FUNCTIONAL | definition in the Cambridge
+- **2026-06-24** | [Functional - definition of functional by The Free Dictionary](https://www.thefreedictionary.com/functional) | kw: Functional
+- **2026-06-24** | [functional adjective - Definition, pictures, pronunciation and usage notes](https://www.oxfordlearnersdictionaries.com/definition/english/functional) | kw: functional adjective
+- **2026-06-24** | [Functional and Non Functional Requirements - GeeksforGeeks](https://www.geeksforgeeks.org/software-engineering/functional-vs-non-functional-requirements/) | kw: Functional and Non Functional Requiremen
+
 - **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) - Wikipedia
 
 - **2026-06-24** | [Haskell programming language (@haskell.org) - Bluesky](https://bsky.app/profile/haskell.org) | kw: Haskell programming language (@haskell.org) - Blue

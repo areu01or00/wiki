@@ -178,7 +178,7 @@
         "3023a2cb951d86d2a7fc1b8cce9dc3e8",
         "72e85c578b97907d62da49d9f083e6dd"
       ],
-      "last_run": "2026-06-24T14:35:21.851732+00:00",
+      "last_run": "2026-06-24T14:48:12.780106+00:00",
       "new_sub_topics_this_run": [
         "You",
         "Days",
@@ -364,7 +364,7 @@
         "9de9def0d8a2514026c39c3aabb6b2ce",
         "69fbb0144d84752b594fe69d696d84b5"
       ],
-      "last_run": "2026-06-24T14:35:21.851732+00:00",
+      "last_run": "2026-06-24T14:48:12.780106+00:00",
       "new_sub_topics_this_run": [
         "rst",
         "CPU",
@@ -549,9 +549,11 @@
         "1892288ce3bfda31458d852753d72f5f",
         "6c257d065a3041b16049b05a47e582ff",
         "5cc1d4c55fe22c53ab06d0faccb4247c",
-        "a47905b8e6aeadd5f227767b65f5a246"
+        "a47905b8e6aeadd5f227767b65f5a246",
+        "c9123dc5820ca8a5bd5de47238751e74",
+        "8152c0fa97986388894bbc6fe44824e4"
       ],
-      "last_run": "2026-06-24T14:35:21.851732+00:00",
+      "last_run": "2026-06-24T14:48:12.780106+00:00",
       "new_sub_topics_this_run": [
         "Works",
         "Conference",
@@ -559,8 +561,8 @@
         "Compiler",
         "How"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 2,
+      "_new_total_for_digest": 2
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -736,15 +738,16 @@
         "Beat",
         "Drew",
         "history",
-        "fun"
+        "fun",
+        "Definition",
+        "English",
+        "FUNCTIONAL",
+        "adjective",
+        "definition",
+        "mathematics",
+        "meaning"
       ],
       "last_result_hashes": [
-        "8c0ea0d18b37f3c9d2facb56f6b40861",
-        "e2809728031a0a794b40bbdaef5a85f9",
-        "1e94df84ee5804897b90e68febb49b15",
-        "323b53a13ab89d12f5d5014dd06a4e2c",
-        "720235f690e5c5f24e06cb8bfa9fccd3",
-        "b15aa28659ccabe3398f87c824f2ee7c",
         "9d4e5b9e928e00f98c1024b405849850",
         "f9701c22505fb1fedf37540cf04b7798",
         "543ec177981d747682071e74a0678915",
@@ -757,23 +760,27 @@
         "db75d060aa26f3de2cbb1824056478cb",
         "3b0f14b54684b305339d3ef8e9ddf429",
         "3f1370c2699f24c125501252e0e6e288",
-        "ab1a401478bf91151df62818473f5ef5"
+        "ab1a401478bf91151df62818473f5ef5",
+        "d250aefb29a35210e53228bb1d5cf418",
+        "9989d974971c23b24bd2a5f66698bb6e",
+        "7849c4b20c1f881bbdfb853bb6d0f4b2",
+        "343ca1ab962bde0dccd16795322feeec",
+        "e37c56fa24f6c8bf6b742c9bf04a0114",
+        "792c80880104e0cdfd2a22e4ff5871eb",
+        "927cb28391abb04b3591969152512b61"
       ],
-      "last_run": "2026-06-24T14:35:21.851732+00:00",
+      "last_run": "2026-06-24T14:48:12.780106+00:00",
       "new_sub_topics_this_run": [
-        "FAQs",
-        "Kit",
-        "Bluesky",
-        "The",
-        "Ada",
-        "org",
-        "Beat",
-        "Drew",
-        "history",
-        "fun"
+        "Definition",
+        "English",
+        "FUNCTIONAL",
+        "adjective",
+        "definition",
+        "mathematics",
+        "meaning"
       ],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "last_new_count": 7,
+      "_new_total_for_digest": 7
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -957,7 +964,6 @@
         "That"
       ],
       "last_result_hashes": [
-        "9683f091f94b73598b61b277bfaf0dc7",
         "8b872e9c4137efc4de77b9e0bf4a2ba1",
         "3b34df56d0098ddca60acb20247f1a7b",
         "1132030510e2da410ab4f10496d87ebc",
@@ -974,9 +980,12 @@
         "6ad4424d61d8084aeff283da158f5951",
         "ad5990cfbf765522dfc89bd9b17477c1",
         "903cf01de677d3bb87ca45153e3e1187",
-        "e3ad6f38a3b1d22c27c6c8c0f4a37af0"
+        "e3ad6f38a3b1d22c27c6c8c0f4a37af0",
+        "361cfd2d859ae615e53ea496a9010bdb",
+        "332d6c4cdd00c5672f03441b56cd3d9b",
+        "1074bc738ee44db9b818720cace22182"
       ],
-      "last_run": "2026-06-24T14:35:21.851732+00:00",
+      "last_run": "2026-06-24T14:48:12.780106+00:00",
       "new_sub_topics_this_run": [
         "Works",
         "test",
@@ -1173,9 +1182,6 @@
         "Fixes"
       ],
       "last_result_hashes": [
-        "fd6e6ed7fe3806f648821859d3f2f23b",
-        "05337c60982e7a05d37b49f76ce4717e",
-        "b68ac126bb9ab60d00648277b9734c2e",
         "a997f7c9a57bc69b545d1f71a72191dc",
         "fa8ded1b8b504dc1222a3907b5ce8b96",
         "551dd805b98df88d43c371b9e746d769",
@@ -1192,9 +1198,12 @@
         "c71c266cfca80a985eb39041d48e2705",
         "3977a42e266cba0d9724f6994662a434",
         "a1233cdbbbaf5c3624b23b99f9297143",
-        "66266dc371ce73be91e6ce8ce73a901f"
+        "66266dc371ce73be91e6ce8ce73a901f",
+        "3a3933d6860e7d73d9f5d02be6937e98",
+        "498a0768ed2f0d510d271b256220f0a0",
+        "c3d36255d7ae5605c92055bb559b87c9"
       ],
-      "last_run": "2026-06-24T14:35:21.851732+00:00",
+      "last_run": "2026-06-24T14:48:12.780106+00:00",
       "new_sub_topics_this_run": [
         "docs",
         "management",
@@ -1207,8 +1216,8 @@
         "Expert",
         "Fixes"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 3,
+      "_new_total_for_digest": 3
     }
   }
 }
