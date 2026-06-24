@@ -226,14 +226,9 @@
         "c4d93df3bbece803150c9e5bd1d0b085"
       ],
       "last_run": "2026-06-24 23:17 UTC",
-      "new_sub_topics_this_run": [
-        "want",
-        "started",
-        "with",
-        "these"
-      ],
-      "last_new_count": 1,
-      "_new_total_for_digest": 1
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -1213,15 +1208,9 @@
         "6caf05a4744ee8215266eedf16084500"
       ],
       "last_run": "2026-06-24 23:17 UTC",
-      "new_sub_topics_this_run": [
-        "Unexpected",
-        "JSON",
-        "input",
-        "Google",
-        "Weekly"
-      ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
