@@ -1,6 +1,10 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Monad (functional programming) - Wikipedia](https://en.m.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional
+- **2026-06-24** | [Monad laws - HaskellWiki](https://wiki.haskell.org/Monad_laws) | kw: functional
+- **2026-06-24** | [functional programming - Monad and Functor law for Monad and Functor type class in Haskell](https://stackoverflow.com/questions/76360208/monad-and-functor-law-for-monad-and-functor-type-class-in-haskell) | kw: functional
+
 - **2026-06-24** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: functional-programming
 - **2026-06-24** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: functional-programming
 - **2026-06-24** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional-programming
