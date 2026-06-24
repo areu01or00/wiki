@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [faang-interview GitHub Topics](https://github.com/topics/faang-interview?o=desc&s=updated) | kw: faang-interview GitHub Topics
+- **2026-06-24** | [Step-by-Step Guide for FAANG Interviews in 2026](https://medium.com/@emilyhustlenyc/step-by-step-guide-for-faang-interviews-in-2026-part-1-of-10-the-master-roadmap-729049306d85) | kw: Step-by-Step Guide for FAANG Interviews in 2026
+- **2026-06-24** | [Blind 75 LeetCode The Complete Guide and Problem List 2026](https://copilotinterview.com/blog/blind-75-leetcode-guide) | kw: Blind 75 LeetCode The Complete Guide and Problem List 2026
+- **2026-06-24** | [Master 15 LeetCode Patterns That Solve 90% of FAANG Interview Questions](https://www.linkedin.com/pulse/master-15-leetcode-patterns-solve-90-faang-interview-questions-q1sle) | kw: Master 15 LeetCode Patterns That Solve 90% of FAANG Intervie
+- **2026-06-24** | [Two Pointers Sliding Window Interview Questions 2026 Patterns](https://www.phantomcodeai.com/coding-interviews/two-pointers-sliding-window) | kw: Two Pointers Sliding Window Interview Questions 2026 Pattern
+- **2026-06-24** | [FAANG Interview Preparation Retention-First 2026 Firecode](https://firecode.io/best/faang-interview-preparation) | kw: FAANG Interview Preparation Retention-First 2026 Firecode
+- **2026-06-24** | [Leetcode Patterns TikTok](https://www.tiktok.com/discover/leetcode-patterns) | kw: Leetcode Patterns TikTok
+- **2026-06-24** | [FAANG Interview Prep 2026 Beginner Guide Rune Hub](https://rune.codes/hub/tutorials/interview-prep/company-guides/faang-interview-prep-beginners-guide-google-meta-amazon-apple-netflix) | kw: FAANG Interview Prep 2026 Beginner Guide Rune Hub
+
 - **2026-06-24** | [Amazon Interview SDE-1 Selected - LeetCode Discuss](https://leetcode.com/discuss/post/8029194) | kw: Amazon Interview SDE-1
 - **2026-06-24** | [Are Big Tech interviews still DSA LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Tech interviews still
 - **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode

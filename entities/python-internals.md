@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python in 2026 Free-Threading and UV Change Everything Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026 Free-Threading and UV Change Everything Mediu
+- **2026-06-24** | [How Python's GIL actually works and when it bites you](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works and when it bites you
+- **2026-06-24** | [Thread states and the global interpreter lock Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock Python 3.14.6 
+- **2026-06-24** | [The 2026 Python Renaissance No-GIL Speed UV Dominance Agentic AI](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: The 2026 Python Renaissance No-GIL Speed UV Dominance Agenti
+- **2026-06-24** | [Goodbye GIL Exploring free-threaded mode in Python 3.14](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye GIL Exploring free-threaded mode in Python 3.14
+- **2026-06-24** | [5 Python Performance Killers Expert Fixes 2026 Guide iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: 5 Python Performance Killers Expert Fixes 2026 Guide iCert G
+- **2026-06-24** | [What's new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html) | kw: What's new in Python 3.14
+- **2026-06-24** | [Faster Python Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Faster Python Unlocking the Python Global Interpreter Lock
+
 - **2026-06-24** | [Memory Management in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/memory-management-in-python/) | kw: Memory Management in Python - GeeksforGeeks
 
 - **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python 2026: Free-Threading

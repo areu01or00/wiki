@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Documentation - TypeScript 6.0](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-6-0.html) | kw: Documentation - TypeScript 6.0
+- **2026-06-24** | [TypeScript 6.0 Advanced Type Features for 2026](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-advanced-type-features-what-you-need-to-know-for-2026-61f) | kw: TypeScript 6.0 Advanced Type Features for 2026
+- **2026-06-24** | [Announcing TypeScript 6.0 Beta - Microsoft Developer Blogs](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/) | kw: Announcing TypeScript 6.0 Beta - Microsoft Developer Blogs
+- **2026-06-24** | [TypeScript 6.0: 6 Changes That Make JavaScript Finally Feel Predictable](https://medium.com/@premchandak_11/typescript-6-0-6-changes-that-make-javascript-finally-feel-predictable-790eb7186065) | kw: TypeScript 6.0: 6 Changes That Make JavaScript Finally Feel 
+- **2026-06-24** | [TypeScript 6.0 Ships as Final JavaScript-Based Release](https://visualstudiomagazine.com/articles/2026/03/23/typescript-6-0-ships-as-final-javascript-based-release-clears-path-for-go-native-7-0.aspx) | kw: TypeScript 6.0 Ships as Final JavaScript-Based Release
+- **2026-06-24** | [What's New in TypeScript 6.0 - OpenReplay Blog](https://blog.openreplay.com/whats-new-typescript-6-0/) | kw: What's New in TypeScript 6.0 - OpenReplay Blog
+- **2026-06-24** | [Microsoft Releases TypeScript 6.0 with Improved Type Checking](https://www.linkedin.com/posts/rammcodes_microsoft-just-dropped-typescript-60-activity-7442534868804296704-KS4b) | kw: Microsoft Releases TypeScript 6.0 with Improved Type Checkin
+- **2026-06-24** | [TypeScript 6.0 Features 2026 - 40-60% Faster Compiles](https://pooyagolchian.com/blog/typescript-6-features-2026/) | kw: TypeScript 6.0 Features 2026 - 40-60% Faster Compiles
+
 - **2026-06-24** | [Fully-Automatic Type Inference for Borrows with Lifetimes](https://dl.acm.org/doi/10.1145/3798221) | kw: Fully-Automatic Type Inference for Borrows with Li
 
 - **2026-06-24** | [Type Checking System | astral-sh/ty | DeepWiki](https://deepwiki.com/astral-sh/ty/2-type-checking-system) | kw: Type Checking System | astral-sh/ty | DeepWiki

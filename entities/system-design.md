@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System Design in 2026 - DEV Community
+- **2026-06-24** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern Software Architecture Patterns That Scale In 2026 - U
+- **2026-06-24** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer Should Know in 90 D
+- **2026-06-24** | [The Only 12-Week High-Level System Design Roadmap You Need 2026 Edition](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: The Only 12-Week High-Level System Design Roadmap You Need 2
+- **2026-06-24** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems 2026](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architecture Patterns for Scalable Dist
+- **2026-06-24** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12 Essential Distributed System Design Patterns Every Archit
+
 - **2026-06-24** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System Wikipedia
 - **2026-06-24** | [System - Simple English Wikipedia](https://simple.wikipedia.org/wiki/System) | kw: System Simple English
 - **2026-06-24** | [How to open System Properties in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open System Properties

@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [Compilers and Modern Language Runtimes LLVM JIT GC V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes LLVM JIT GC V8
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project - Dev Mtg 2026-01](https://llvm.org/devmtg/2026-01/) | kw: The LLVM Compiler Infrastructure Project - Dev Mtg 2026-01
+- **2026-06-24** | [Just-In-Time (JIT) Compiler with LLVM](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time (JIT) Compiler with LLVM
+- **2026-06-24** | [Building Fermat: A Journey from Scratch to JIT Compiler Part 1](https://medium.com/@satyikpritamy/building-fermat-a-journey-from-scratch-to-jit-compiler-part-1-8f3726a67d27) | kw: Building Fermat: A Journey from Scratch to JIT Compiler Part
+
 - **2026-06-24** | [compiler-course-2026 BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 BuildingAJIT1.rst
 - **2026-06-24** | [LLVM Developer Meeting 2026-01](https://llvm.org/devmtg/2026-01/) | kw: LLVM Developer Meeting
 - **2026-06-24** | [compiler-course-2026 BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026 BuildingAJIT3.rst

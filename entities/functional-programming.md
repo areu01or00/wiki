@@ -1,6 +1,14 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Haskell Team PM 2026 Functional Type-Safe Monads GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026 Functional Type-Safe Monads GitScrum
+- **2026-06-24** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads and Monad-Like Patterns in Rust
+- **2026-06-24** | [functional programming - How do I combine monads in Haskell?](https://stackoverflow.com/questions/1126651/how-do-i-combine-monads-in-haskell) | kw: functional programming - How do I combine monads in Haskell?
+- **2026-06-24** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming & Monads
+- **2026-06-24** | [What Is a Monad in Functional Programming - Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: What Is a Monad in Functional Programming - Built In
+- **2026-06-24** | [Demystifying MONADs What you need to know](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying MONADs What you need to know
+- **2026-06-24** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Monad tutorials timeline - HaskellWiki
+
 - **2026-06-24** | [Elixir (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Elixir_(programming_language)) | kw: Elixir (programming language) - Wikipedia
 - **2026-06-24** | [The Elixir programming language](https://elixir-lang.org/) | kw: The Elixir programming language
 - **2026-06-24** | [Installing Elixir - The Elixir programming language](https://elixir-lang.org/install.html) | kw: Installing Elixir - The Elixir programming
