@@ -1,6 +1,11 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python support for free threading — Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: python internals:Python
+- **2026-06-24** | [I Benchmarked Python 3.14's Free-Threading on 5 Real Tasks](https://python.plainenglish.io/i-benchmarked-python-3-14s-free-threading-on-5-real-tasks-here-s-what-actually-happened-d7088b7e4fed) | kw: python internals:Benchmarked
+- **2026-06-24** | [Free-Threaded Python (3.14t / nogil) Support for SGLang](https://github.com/sgl-project/sglang/issues/22889) | kw: python internals:Free-Threaded
+- **2026-06-24** | [Supporting Free-Threaded Python - PyO3 user guide](https://pyo3.rs/main/free-threading) | kw: python internals:Supporting
+
 - **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
 - **2026-06-24** | [Python 3.14 and the End of the GIL - Towards Data Science](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) | kw: python-internals
 - **2026-06-24** | [r/django on Reddit: With Python 3.14 free-threading support coming ...](https://www.reddit.com/r/django/comments/1lnekfg/with_python_314_freethreading_support_coming_up/) | kw: python-internals

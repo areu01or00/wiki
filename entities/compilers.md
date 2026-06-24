@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: compilers:Building
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers:compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+- **2026-06-24** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ... - GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers:compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst
+- **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers:Compilers
+- **2026-06-24** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers:Just-In-Time
+- **2026-06-24** | [Use of JIT compiler infrastructure at Apple and CERN](https://indico.cern.ch/event/1675931/) | kw: compilers:compiler
+
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: compilers
 - **2026-06-24** | [jank is off to a great start in 2026 - jank programming language](https://jank-lang.org/blog/2026-03-06-great-start/) | kw: compilers
 - **2026-06-24** | [2026 EuroLLVM Developers' Meeting - Agenda - Announcements](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: compilers

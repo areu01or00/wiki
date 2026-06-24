@@ -1,6 +1,19 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Algorithm) | kw: algorithms:Algorithm
+- **2026-06-24** | [List of algorithms - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_algorithms) | kw: algorithms:algorithms
+- **2026-06-24** | [What is an Algorithm | GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms:Algorithm
+- **2026-06-24** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: algorithms:Algorithms
+- **2026-06-24** | [Introduction to Algorithms | MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: algorithms:Introduction
+- **2026-06-24** | [Algorithms | Khan Academy](https://www.khanacademy.com/computing/computer-science/algorithms) | kw: algorithms:Algorithms
+- **2026-06-24** | [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: algorithms:Tutorial
+- **2026-06-24** | [Algorithm | Britannica](https://www.britannica.com/science/algorithm) | kw: algorithms:Algorithm
+- **2026-06-24** | [LeetCode - Wikipedia](https://en.wikipedia.org/wiki/LeetCode) | kw: algorithms:LeetCode
+- **2026-06-24** | [LeetCode - The World's Leading Online Programming Learning](https://leetcode.com/) | kw: algorithms:LeetCode
+- **2026-06-24** | [Blind 75 - LeetCode Problems with Video Solutions](https://neetcode.io/practice/practice/blind75) | kw: algorithms:Blind
+- **2026-06-24** | [LeetCode was HARD until I Learned these 15 Patterns](https://blog.algomaster.io/p/15-leetcode-patterns) | kw: algorithms:LeetCode
+
 - **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: algorithms
 - **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
 - **2026-06-24** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms

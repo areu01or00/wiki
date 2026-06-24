@@ -1,6 +1,16 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Monad - HaskellWiki - Haskell.org](https://www.haskell.org/haskellwiki/Monad) | kw: functional programming:Monad
+- **2026-06-24** | [Haskell Language](https://www.haskell.org/) | kw: functional programming:Haskell
+- **2026-06-24** | [A Gentle Introduction to Haskell: About Monads](https://www.haskell.org/tutorial/monads.html) | kw: functional programming:Gentle
+- **2026-06-24** | [Is production code always written monadically? - Haskell Discourse](https://discourse.haskell.org/t/is-production-code-always-written-monadically/7868) | kw: functional programming:production
+- **2026-06-24** | [What are the internals of a bind operation in a monad?](https://discourse.haskell.org/t/what-are-the-internals-of-a-bind-operation-in-a-monad/6325) | kw: functional programming:internals
+- **2026-06-24** | [mtl: Monad classes for transformers](https://hackage.haskell.org/package/mtl) | kw: functional programming:Monad
+- **2026-06-24** | [Accidental Functional Programming in Rust - Caroline Morton](https://www.carolinemorton.co.uk/blog/functional-programming-rust-scientific-software/) | kw: functional programming:Accidental
+- **2026-06-24** | [Combinators - Learning Rust](https://learning-rust.github.io/docs/combinators/) | kw: functional programming:Combinators
+- **2026-06-24** | [My dream is to make Rust significantly MORE functional (FP RUST)](https://www.reddit.com/r/rust/comments/1rwjv32/my_dream_is_to_make_rust_significantly_more/) | kw: functional programming:dream
+
 - **2026-06-24** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: functional-programming
 - **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional-programming
 - **2026-06-24** | [What killed Haskell, could kill Rust, too · GitHub - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: functional-programming

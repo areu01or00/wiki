@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type systems:system
+- **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type systems:inference
+- **2026-06-24** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: type systems:Gradual
+- **2026-06-24** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: type systems:extent
+- **2026-06-24** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: type systems:gradual
+- **2026-06-24** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing/) | kw: type systems:Gradual
+- **2026-06-24** | [Static Blame for gradual typing | Journal of Functional Programming](https://www.cambridge.org/core/product/A2CADE75A6BB303599A9FF8367DF9628) | kw: type systems:Static
+- **2026-06-24** | [[PDF] Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type systems:PDF
+
 - **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type-systems
 - **2026-06-24** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: type-systems
 - **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: type-systems
