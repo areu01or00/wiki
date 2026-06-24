@@ -17,6 +17,14 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-24** | [Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory](https://arxiv.org/abs/2606.23195) | kw: Memory Contagion: Cross-Temporal Propaga | source: arxiv-cs-cl
+- **2026-06-24** | [Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation](https://arxiv.org/abs/2606.23127) | kw: Managing Procedural Memory in LLM Agents | source: arxiv-cs-cl
+- **2026-06-24** | [Training Open Models for Agentic Phone Use](https://arxiv.org/abs/2606.23049) | kw: Training Open Models for Agentic Phone U | source: arxiv-cs-cl
+- **2026-06-24** | [Predicate Importance Estimation and Decoupled Rationale-Score Distillation for Entity Alignment](https://arxiv.org/abs/2606.22992) | kw: Predicate Importance Estimation and Deco | source: arxiv-cs-cl
+- **2026-06-24** | [Measuring and Mitigating Over-Alignment for LLMs in Multilingual Criminal Law Courts](https://arxiv.org/abs/2606.23375) | kw: Measuring and Mitigating Over-Alignment | source: arxiv-cs-cl
+- **2026-06-24** | [PRIDE: Privileged Information-enhanced Distillation for Empathetic Dialogue Generation](https://arxiv.org/abs/2606.23124) | kw: PRIDE: Privileged Information-enhanced D | source: arxiv-cs-cl
+- **2026-06-24** | [LLM-jp-4 Thinking モデルの量子化版の公開 (Quantized Models Release)](https://llm-jp.nii.ac.jp/blog/llm-jp-4-thinking-quantization/) | kw: LLM-jp-4 Thinking モデルの量子化版の公開 (Quantized | source: llm-jp
+
 - **2026-06-24** | [Krea 2 Open-Source: RAW and Turbo Image Models](https://www.krea.ai/krea-2-open-source) | kw: Krea 2 Open-Source RAW Turbo open weights HuggingFace | source: krea
 - **2026-06-24** | [Krea 2 (K2) - Official GitHub Repository](https://github.com/krea-ai/krea-2) | kw: Krea 2 K2 GitHub official inference repository | source: krea
 - **2026-06-24** | [Enterprise-grade AI image generation in 2 seconds: Krea 2 Raw and Turbo open weights](https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license) | kw: Krea 2 Raw Turbo open weights custom license venturebeat | source: krea
@@ -101,3 +109,4 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **krea** - discovered cycle 4 - query: `Krea AI Krea 2 image generation model open weights`
 - **MiniMax** - discovered cycle 9 - query: `MiniMax AI MiniMax-M3 release new model multimodal MoE`
 - **multiverse-computing** - discovered cycle 12 - query: `Multiverse Computing Pulsar 16B LLM open weights Apache 2.0`
+- **llm-jp** - discovered cycle 15 - query: `LLM-jp NII Japanese model release 4 thinking quantized`

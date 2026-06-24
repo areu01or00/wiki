@@ -444,6 +444,17 @@
       "last_update_hash": null,
       "last_checked": "2026-06-24T01:46:10.817101+00:00",
       "run_count": 3
+    },
+    "llm-jp": {
+      "query": "LLM-jp NII Japanese model release 4 thinking quantized",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "auto-discovered",
+      "discovered_at_cycle": 15,
+      "last_result_hashes": [],
+      "last_run": null,
+      "last_update_hash": null,
+      "last_checked": null,
+      "run_count": 0
     }
   }
 }
