@@ -1,6 +1,17 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Edition)
+- **2026-06-24** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: Top SaaS Architecture Patterns in 2026: From Monol
+- **2026-06-24** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: Integration Patterns 2026: Query Patterns (Consist
+- **2026-06-24** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distributed Syst
+- **2026-06-24** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: System Design Concepts Course and Interview Prep
+- **2026-06-24** | [Multi-Agent Orchestration Patterns: Building Production Systems in...](https://www.frankx.ai/blog/multi-agent-orchestration-patterns-2026) | kw: Multi
+- **2026-06-24** | [Prompt Engineering for Developers: 5 Production Patterns That Work...](https://www.groovyweb.co/blog/prompt-engineering-for-developers-production-patterns-2026) | kw: Prompt Engineering for Developers: 5 Production Pa
+- **2026-06-24** | [English Dialogue for Informatics Engineering - Distributed Systems...](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: English Dialogue for Informatics Engineering
+- **2026-06-24** | [Most Design Systems Don't Break... | Design Systems Collective](https://www.designsystemscollective.com/most-design-systems-dont-break-because-of-buttons-016ae786dc07) | kw: Most Design Systems Don't Break...
+- **2026-06-24** | [Microservices API Communication Patterns 2026 | APIScout](https://apiscout.dev/guides/microservices-api-communication-patterns-2026) | kw: Microservices API Communication Patterns 2026
+
 
 - **2026-06-24** | [Microservices - Wikipedia](https://en.wikipedia.org/wiki/Microservices) | kw: microservices wikipedia
 - **2026-06-24** | [Microservices - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/microservices/) | kw: microservices geeksforgeeks

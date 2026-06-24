@@ -1,6 +1,15 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Advanced Python 4— GIL in Python - by Abhishek Jain - Medium](https://medium.com/@abhishekjainindore24/advanced-python-4-gil-in-python-375321837f3c) | kw: Advanced Python 4
+- **2026-06-24** | [Hardware Usage and Energy Implications of Removing the GIL](https://arxiv.org/html/2603.04782v1) | kw: Hardware Usage and Energy Implications of Removing
+- **2026-06-24** | [How Python's GIL Works - Codefinity](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: How Python's GIL Works
+- **2026-06-24** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter Lock (GIL)?
+- **2026-06-24** | [Memory Management in Python - LinkedIn](https://www.linkedin.com/pulse/memory-management-python-farid-el-aouadi-myauf) | kw: Memory Management in Python
+- **2026-06-24** | [Python 3.14 and the End of the GIL - Towards Data Science](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) | kw: Python 3.14 and the End of the GIL
+- **2026-06-24** | [Why is there no GIL in the Java Virtual Machine? Why does Python need...](https://stackoverflow.com/questions/991904/why-is-there-no-gil-in-the-java-virtual-machine-why-does-python-need-one-so-bad) | kw: Why is there no GIL in the Java Virtual Machine? W
+- **2026-06-24** | [What Is the Python GIL and Will They Get Rid of It? - Backblaze](https://www.backblaze.com/blog/the-python-gil-past-present-and-future/) | kw: What Is the Python GIL and Will They Get Rid of It
+
 
 - **2026-06-24** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python global interpreter
 - **2026-06-24** | [Advanced Python 4— GIL in Python - Medium](https://medium.com/@abhishekjainindore24/advanced-python-4-gil-in-python-375321837f3c) | kw: advanced python 4—

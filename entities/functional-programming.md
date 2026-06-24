@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026
+- **2026-06-24** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026 : r/functionalprogramming
+- **2026-06-24** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional Programmers need to take a look at Zig
+- **2026-06-24** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: Pure Borrow: Linear Haskell Meets Rust
+- **2026-06-24** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure Borrow: Linear Haskell Meets Rust
+- **2026-06-24** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell Foundation 2026 Update
+- **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Thro
+- **2026-06-24** | [Community version of "Learn You a Haskell..." (https...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community version of "Learn You a Haskell..." (htt
+- **2026-06-24** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: I think I Finally Got Monads
+- **2026-06-24** | [Abilities for the monadically inclined · Unison programming language](https://www.unison-lang.org/docs/fundamentals/abilities/for-monadically-inclined/) | kw: Abilities for the monadically inclined · Unison pr
+
 
 - **2026-06-24** | [Haskell - Wikipedia](https://en.wikipedia.org/wiki/Haskell) | kw: haskell wikipedia
 - **2026-06-24** | [Haskell features - Wikipedia](https://en.wikipedia.org/wiki/Haskell_features) | kw: haskell features wikipedia

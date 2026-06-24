@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Unexpected end of JSON input - Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Unexpected end of JSON input
+- **2026-06-24** | [I Tried 30+ Data Structures and Algorithms Courses - Medium](https://medium.com/javarevisited/i-tried-30-data-structures-and-algorithms-courses-here-are-my-top-5-recommendations-for-2026-124e64b5cf4c) | kw: I Tried 30+ Data Structures and Algorithms Courses
+- **2026-06-24** | [Top 100 Data Structure and Algorithms DSA Interview...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top 100 Data Structure and Algorithms DSA Intervie
+- **2026-06-24** | [2026 Interview Prep! : r/leetcode - Reddit](https://www.reddit.com/r/leetcode/comments/1q06zz6/2026_interview_prep/) | kw: 2026 Interview Prep! : r/leetcode
+- **2026-06-24** | [LeetCode - The World's Leading Online Programming Learning...](https://leetcode.com/) | kw: LeetCode
+- **2026-06-24** | [Is DSA Still Relevant in 2026? | Yogesh Kumar - LinkedIn](https://www.linkedin.com/posts/yogesh-kumar-366931130_is-dsa-still-relevant-in-2026-activity-7429025611802824704-qBHh) | kw: Is DSA Still Relevant in 2026?
+- **2026-06-24** | [Google 2026 Interview Preparation - Complete Weekly Roadmap · GitHub](https://gist.github.com/carefree-ladka/6d1722421f9e1e46bd2dbdb5ea1b4684) | kw: Google 2026 Interview Preparation
+- **2026-06-24** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) | kw: Data structures and algorithms study cheatsheets f
+- **2026-06-24** | [11 Best Coding Interview Preparation Courses for 2026 - Class Central](https://www.classcentral.com/report/best-coding-interview-preparation-courses/) | kw: 11 Best Coding Interview Preparation Courses for 2
+- **2026-06-24** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Top 100 DSA Interview Questions
+
 
 - **2026-06-24** | [leetcode-python · GitHub Topics · GitHub](https://github.com/topics/leetcode-python) | kw: leetcode-python github topics
 - **2026-06-24** | [Guideline for FAANG. Algorithm and Data structure (Leetcode) - Medium](https://medium.com/@nazmus20000/guideline-for-faang-d9c2502d4af4) | kw: guideline faang. algorithm

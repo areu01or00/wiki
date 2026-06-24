@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-24** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with... - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: 2025 EuroLLVM
+- **2026-06-24** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why is llvm considered unsuitable for implementing
+- **2026-06-24** | [What is LLVM? The power behind Swift, Rust, Clang, and... | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What is LLVM? The power behind Swift, Rust, Clang,
+- **2026-06-24** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM JIT example for LLVM
+- **2026-06-24** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A LLVM JIT Prototype for Running an Energy
+- **2026-06-24** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize JIT Compilation with LLVM's Next Gen
+- **2026-06-24** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures in JIT compilation: Part 3
+- **2026-06-24** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
+- **2026-06-24** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: LLVM JIT Compilation
+
 
 - **2026-06-24** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: just-in-time compilation wikipedia
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: llvm compiler infrastructure

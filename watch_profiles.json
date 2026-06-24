@@ -200,16 +200,6 @@
         "James Eastham"
       ],
       "last_result_hashes": [
-        "94c1b0f099f1d566f3fdedccba3cf97b",
-        "ad8d7dca8fec87f4d058ecd64cd944e8",
-        "66ae815700cacb4e96d1e78f07e63810",
-        "ba78e26f83ca072ccd4dba08b465f313",
-        "30eb2e1134419c9dd635b852dc30339c",
-        "b62605732bd34bc190422c3d7bd914a5",
-        "3badc4b3405efd103ac4b6a75c1a1407",
-        "45866b5909a76c5e0ad92df37448d137",
-        "ad2e84aff5156d42c6aedae9fc8f9a3d",
-        "59cd2c16757af30259a8dc7291bc588d",
         "b423b328489be6600827d14ac98bb359",
         "34a7661625980b806863c89ac2b7a075",
         "d3099c6517032e4d8a49b61853da6add",
@@ -219,9 +209,19 @@
         "25a06ccbe831fcae1efa398fc18b067e",
         "10ee30a2694a972513965e5bdfbe0d98",
         "401ac43fcb266731bf806fa34acbf462",
-        "64e900ff8986f325e4783fe3286a829d"
+        "64e900ff8986f325e4783fe3286a829d",
+        "f808d13c3fbb1d0b9dcfa821011972b9",
+        "7f55d36d484e57880341279532f3a5d5",
+        "82601ad43b0fe127ccdd116d7f69071f",
+        "9ef09709545d432e2dc99e2cf360fbe8",
+        "20c9af03d5ba04de769b9c8d55fbf657",
+        "296232a484ebb0a2303e19fa650f6b06",
+        "81698e4cb907a3ce79c9ffd387bd1f0a",
+        "89a92316f41a5050a2cfe852301aaa2a",
+        "91b0623023c2c706479af2c4745808de",
+        "64436da3e814c17d55a211e9fe5fc400"
       ],
-      "last_run": "2026-06-24 22:03 UTC",
+      "last_run": "2026-06-24 22:16 UTC",
       "new_sub_topics_this_run": [
         "System Design Patterns",
         "The Complete Guide",
@@ -451,15 +451,6 @@
         "Databases"
       ],
       "last_result_hashes": [
-        "85875fa4aeb3a7c10187eaf8cc0cac2f",
-        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
-        "4a875ba6c9df4a6d863a675c9bbe1244",
-        "7d0b717005814217330e578b0fbdc8fb",
-        "f1925c0af6e39aa520ffa6a282ede525",
-        "5f27f4f0ec7b40b86be3b5add92cedfa",
-        "ca9ade675eecf6183c340d40af57c779",
-        "32f4188675ea6aa9b99de9314a538fa1",
-        "145a07de41f9bd6320aac276ace40774",
         "0d5f42cea0bd3526c43c8ca74e739e10",
         "bbb446f219d0926dc00975255367705e",
         "e68dc62e630ccaee9a70f88b772666c3",
@@ -470,9 +461,18 @@
         "f14226d60d35bdf464d7dc54cd2027ed",
         "abed07cd7bbcc18f3f89b4b7f9da740d",
         "b7d3464c157a4d7b6a9b324450e9451c",
-        "3d4b74ce59781d7b09a8dce4e68d1434"
+        "3d4b74ce59781d7b09a8dce4e68d1434",
+        "2b8946866c886624f1f07a6dc41a80bf",
+        "1382ef81b8b46a33f9229b1c7749d06f",
+        "82bd6cb1694f9adc9d2067aafcbe6c25",
+        "86768d8752a6979c5c8cea02f676f762",
+        "b4b1697fc63d5704d74c4c88d69cd644",
+        "2e36db34c1a584712cd6f35f63aa33ba",
+        "79f4ddf873dbf67c746be2d871fbeb46",
+        "34c166634f13431feef39c0866dcf8e7",
+        "cce86a95c27c221910b49215668720b0"
       ],
-      "last_run": "2026-06-24 22:03 UTC",
+      "last_run": "2026-06-24 22:16 UTC",
       "new_sub_topics_this_run": [
         "The Case For Compilers",
         "Modern Language Runtimes",
@@ -685,14 +685,6 @@
         "Bridging"
       ],
       "last_result_hashes": [
-        "864c624f541aa32da64f03c0bca119ed",
-        "ebddfe8dc78273e26817862ee01ad6d5",
-        "61d24c6e5157e06f6618b84043de48bf",
-        "3b75bee49f1f057b646aa55135066aa0",
-        "0252b8777b2d55e7c510b57f349edc35",
-        "c5649ef48328aae5c3635a236c69421e",
-        "0e40ec20e1a733a8136667ee5938762f",
-        "53f7dd6e7682df35c0944f533586c646",
         "9de76170adb9c4f0c0611d6cbf280fb3",
         "b61b9698d831108c7ace0ed502ac2490",
         "c153e2a1e8b47a9fbb576773a55dea95",
@@ -704,9 +696,17 @@
         "2066524f9d45571080c97d6cb370b2a2",
         "0940c3cea7239d5389eb0d921777f44c",
         "1892288ce3bfda31458d852753d72f5f",
-        "f48302d80179ae383b3ab052a049e128"
+        "f48302d80179ae383b3ab052a049e128",
+        "6c257d065a3041b16049b05a47e582ff",
+        "281dcc412b25b8e56702cc648bcf9932",
+        "474d9e795c4f52bbdf5cfdeabfe5907f",
+        "125dbb0b4ca4da741d64d57bca463383",
+        "6d77d36d5d5faa4ef4e6858564ce52bc",
+        "157412d23ae7600e6e71f1c5ad39564a",
+        "59a8a21374ae68e5d94fe6780980c29c",
+        "1a9958a78e7ae39c78870e2584d0687d"
       ],
-      "last_run": "2026-06-24 22:03 UTC",
+      "last_run": "2026-06-24 22:16 UTC",
       "new_sub_topics_this_run": [
         "Static",
         "Dynamic Typing",
@@ -955,16 +955,6 @@
         "Functional Programming Online Courses"
       ],
       "last_result_hashes": [
-        "5f0c21350e867da0497138104e88c638",
-        "5d7c2c05d1473ae3fb2f90abd8c197dc",
-        "7849c4b20c1f881bbdfb853bb6d0f4b2",
-        "f706c0cd772a8e254641eb9214be126d",
-        "b35d18110111d4d41c969dbfb2b3d5c2",
-        "b15aa28659ccabe3398f87c824f2ee7c",
-        "118ad77388f20a14d3b8caa92bbe1e1f",
-        "2153a59d98e233410d877bdbdd11fa54",
-        "0297758afd7d7929de7a8a1db9e60a1f",
-        "dbd3010420412a91e41a5c1bd0f7d7a0",
         "2a4484c00cdb382848a9c586f654f5ff",
         "df53aa6c8127b0828f3e0126607cfd0a",
         "ab1a401478bf91151df62818473f5ef5",
@@ -974,9 +964,19 @@
         "6265d0c7ea387b97e9eb7551bfd1a683",
         "3e738690ca3218e22bf2f6068cc1c543",
         "d250aefb29a35210e53228bb1d5cf418",
-        "9ca18ee2c7214f8bf92e57c169605d46"
+        "9ca18ee2c7214f8bf92e57c169605d46",
+        "14cd387e800b8b80b658ad56297837b3",
+        "0a825892b16894ee5479d8cdc9ceb413",
+        "8c0ea0d18b37f3c9d2facb56f6b40861",
+        "563b1efac9c22cffc34472e219211fc5",
+        "be9da9017ce6e02348e052f2e7dda252",
+        "3dab99b5330ccd20db91a26c202fbc1e",
+        "e2809728031a0a794b40bbdaef5a85f9",
+        "0fe646b353899d86651a27d76a5fece2",
+        "2c6957e1f1d7ea7d57cfdd721fc5e962",
+        "720235f690e5c5f24e06cb8bfa9fccd3"
       ],
-      "last_run": "2026-06-24 22:03 UTC",
+      "last_run": "2026-06-24 22:16 UTC",
       "new_sub_topics_this_run": [
         "Rust Users Forum",
         "Learned Monads",
@@ -1225,16 +1225,6 @@
         "PBC"
       ],
       "last_result_hashes": [
-        "0489aad2d21bb4d175bb495c58d6d210",
-        "b04b14ed8d576c3be0a192090224f106",
-        "30cf2d40c7aef49ba3bd50629de24fd5",
-        "cd1175c1cbe9c96a98bb7e67afff4df5",
-        "5363a0d6f8ab98008d8dd2194aa24566",
-        "823dfa322dc4043234ac5f6a392c8c98",
-        "5f6865ff7ecf788a3b9b82571dd29960",
-        "07bb218806de35ebe2c5b0eba0aad343",
-        "0962d9d61d0e00a25d02c2facdc3f06b",
-        "398fa1d3a98ad182135f8c2c07a5b2b7",
         "efaca53a4fb3332a168f55b43aac804a",
         "d31c8897e9e24d4ad29ecda9d97dea8d",
         "35f3793cac8b78d908e7f2d7bb34859d",
@@ -1244,9 +1234,19 @@
         "23888b9d760d9caf13785c873d09e057",
         "e0460f9f1768322cd5f6029d6e2e98ae",
         "6bb5f45745653c7264d8c29607bac581",
-        "450322be20ba7396983e3f8351c23355"
+        "450322be20ba7396983e3f8351c23355",
+        "067a06c1458101ee5f925722addecda2",
+        "01940b60629629b705bf12ccd164e5bb",
+        "2136200f003ec5a2c41c35db757a6e4d",
+        "c1786f9fbe09b833fc08718063125668",
+        "c783f357c4b0db675b017e5a36418d11",
+        "48e3ad168dd5302fac5e71eb85dfb4f7",
+        "1a7189e741d9d9b72b8247ac6ded6ec2",
+        "bacc4c268ab4d6ab4c074b284e41ab33",
+        "ec401c280dd19f2b40d32dbb452a7dd8",
+        "5e88f6c01a27285ecd0ce1dd293a399e"
       ],
-      "last_run": "2026-06-24 22:03 UTC",
+      "last_run": "2026-06-24 22:16 UTC",
       "new_sub_topics_this_run": [
         "Wikipedia",
         "The Ultimate Leetcode Roadmap",
@@ -1489,14 +1489,6 @@
         "MoldStud"
       ],
       "last_result_hashes": [
-        "952e4cdd85ea50368b5178492a0c873c",
-        "f44925b63fd3cdc9f1713ffe57f53985",
-        "5794969ac791959b934abec47243b800",
-        "4ba531aedd0133f44b372ea8170dfc08",
-        "d8ed4d65f0bdb695dc39d31d47e41997",
-        "b5b247fb8b983960de89159c478ae359",
-        "a4ebe751bd607bf6541aadf75759fd00",
-        "739a7c5c175f6819fc3c4da480f671a6",
         "dd98088bd44f163005b52f39b2756953",
         "a6c58176fc7c15d04c6965b77938f5ae",
         "8eda8fd96ab2be56921cba54f0d1777a",
@@ -1508,9 +1500,17 @@
         "3f53aaddb3c9ccc1340c0fbf20196bee",
         "bccf28cb66143f121200c1e73b9cd51a",
         "c0d9870261fb93e027112cfed34316a5",
-        "3ca0f5111ea998f95acd8c079ac9e8f2"
+        "3ca0f5111ea998f95acd8c079ac9e8f2",
+        "b97e824f1e170dc724aea12741ad9890",
+        "cab51b9535106a9f6b476476901a2948",
+        "c644c61774b53593b05d98f55951400a",
+        "57ad949b13054a49134274f7b5cbab95",
+        "817aa74407b4713aa18da748c823c43e",
+        "1cf455284bb0983215069efb06784c61",
+        "2761d721f9d8530989b6088e14d624da",
+        "5356b694ade3ee8262bc765dc3f1eb71"
       ],
-      "last_run": "2026-06-24 22:03 UTC",
+      "last_run": "2026-06-24 22:16 UTC",
       "new_sub_topics_this_run": [
         "Python Global Interpreter Lock",
         "Global Interpreter Lock",
@@ -1535,5 +1535,5 @@
       "_new_total_for_digest": 5
     }
   },
-  "last_run": "2026-06-24 22:03 UTC"
+  "last_run": "2026-06-24 22:16 UTC"
 }
