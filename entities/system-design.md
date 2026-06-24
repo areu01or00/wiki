@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system design patterns
+- **2026-06-24** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system design patterns
+- **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: complete guide system
+- **2026-06-24** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: modern software architecture
+- **2026-06-24** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: essential software architecture
+
 - **2026-06-24** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: essential distributed
 - **2026-06-24** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system design
 - **2026-06-24** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: guide large-scale

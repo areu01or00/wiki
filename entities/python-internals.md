@@ -1,6 +1,12 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python free threading
+- **2026-06-24** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: how python gil
+- **2026-06-24** | [Thread states and the global interpreter lock — Python 3.14.6](https://docs.python.org/3/c-api/threads.html) | kw: thread states global
+- **2026-06-24** | [The 2026 Python Renaissance: No-GIL Speed, UV Dominance, and ...](https://python.plainenglish.io/the-2026-python-renaissance-no-gil-speed-uv-dominance-and-agentic-ai-61e105242eb5) | kw: python renaissance no
+- **2026-06-24** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: goodbye gil exploring
+
 - **2026-06-24** | [A ten-hour codewalk through the Python interpreter (2015)](https://news.ycombinator.com/item?id=13825225) | kw: ten-hour, codewalk, through, the
 - **2026-06-24** | [What Is the Python GIL and Will They Get Rid of It? - Backblaze](https://www.backblaze.com/blog/the-python-gil-past-present-and-future/) | kw: What, the, Python, GIL
 

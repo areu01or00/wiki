@@ -1,6 +1,12 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: most asked leetcode
+- **2026-06-24** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: how prepare data
+- **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: big tech interviews
+- **2026-06-24** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: amazon sde2 feb
+- **2026-06-24** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: leetcode isn dead
+
 - **2026-06-24** | [What is an Algorithm? - hai.stanford.edu](https://hai.stanford.edu/ai-definitions/what-is-an-algorithm) | kw: What, Algorithm, hai, stanford
 
 - **2026-06-24** | [data-structures · GitHub Topics](https://github.com/topics/data-structures) | kw: data-structures github

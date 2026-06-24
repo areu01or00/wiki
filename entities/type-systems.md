@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: learn type type
+- **2026-06-24** | [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/) | kw: learn touch typing
+- **2026-06-24** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: monkeytype minimalistic customizable
+- **2026-06-24** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: typingtest com complete
+- **2026-06-24** | [TypeRacer - Play Typing Games and Race Friends](https://play.typeracer.com/) | kw: typeracer play typing
+
 - **2026-06-24** | [Practical type inference based on success typings - ACM Digital Library](https://dl.acm.org/doi/10.1145/1140335.1140356) | kw: type inference
 
 - **2026-06-24** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static, Dynamic, Typing, Ultimate

@@ -1,6 +1,12 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional mathematics wikipedia
+- **2026-06-24** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: functional definition meaning
+- **2026-06-24** | [Functional Medicine in Bellingham | Aligned Modern Health](https://alignedmodernhealth.com/locations/washington/bellingham-functional-medicine/) | kw: functional medicine bellingham
+- **2026-06-24** | [FUNCTIONAL Synonyms: 118 Similar and Opposite Words](https://www.merriam-webster.com/thesaurus/functional) | kw: functional synonyms similar
+- **2026-06-24** | [Functional Medicine Doctor in Bellingham, WA - Feel Good](https://feelgoodfunctionalmed.com/) | kw: functional medicine doctor
+
 - **2026-06-24** | [functional programming - Does a lazily evaluated language with effect typing exist? - langdev.stackexchange](https://langdev.stackexchange.com/questions/4709/does-a-lazily-evaluated-language-with-effect-typing-exist-can-it-exist) | kw: effect
 - **2026-06-24** | [The Koka programming language - LWN.net](https://lwn.net/Articles/1033050/) | kw: koka
 - **2026-06-24** | [Functional programming with names and necessity - academia.edu](https://www.academia.edu/166751208/Functional_programming_with_names_and_necessity) | kw: monad
