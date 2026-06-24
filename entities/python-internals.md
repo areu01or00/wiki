@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: Memory, GIL, and Bytecode
+- **2026-06-24** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter Lo
+- **2026-06-24** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Derive Maximum Code Performance and...
+- **2026-06-24** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Top 50 Python Interview Questions and An
+- **2026-06-24** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: Derive Maximum Code Performance and...
+- **2026-06-24** | [Fix windows 10/11 blue screen stop code memory management error](https://www.youtube.com/watch?v=nko2Ay6nW38) | kw: Fix windows 10/11 blue screen stop code
+- **2026-06-24** | [8 Best YouTube Channels for Python in 2026 (Ranked)](https://learnwithpath.com/blog/best-youtube-channels-for-python-2026) | kw: 8 Best YouTube Channels for Python in 20
+- **2026-06-24** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: Advanced Python Interview Questions & An
+- **2026-06-24** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: Top Python Interview Questions and Answe
+- **2026-06-24** | [Python Interview Questions: Key Features, Memory Management...](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: Key Features, Memory Management...
+
 - **2026-06-24** | [I Benchmarked Python 3.14's Free-Threading on 5 Real Tasks](https://python.plainenglish.io/i-benchmarked-python-3-14s-free-threading-on-5-real-tasks-here-s-what-actually-happened-d7088b7e4fed) | kw: free-threading
 - **2026-06-24** | [Free-Threading Python vs Multiprocessing: Overhead, Memory](https://www.reddit.com/r/Python/comments/1pw2hve/freethreading_python_vs_multiprocessing_overhead/) | kw: free-threading
 - **2026-06-24** | [Python 3.14 No-GIL vs Rust: We Benchmarked Both (4x Speedup)](https://www.navyaai.com/blog/breaking-free-from-pythons-gil) | kw: no-gil

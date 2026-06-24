@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the
+- **2026-06-24** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: A 2026 Matrix Analysis of ...
+- **2026-06-24** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US 2026 Typing Summit Recap
+- **2026-06-24** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems do you find interestin
+- **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Impera
+- **2026-06-24** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type Annotations
+- **2026-06-24** | [NJPLS May 2026](https://njpls.org/may2026.html) | kw: NJPLS May 2026
+- **2026-06-24** | [Seeing types where others don't - The Consensus](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html) | kw: Seeing types where others don't
+- **2026-06-24** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: To what extent is type theory relevant t
+
 - **2026-06-24** | [Efficient Selection of Type Annotations for Performance Improvement - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type inference
 
 - **2026-06-24** | [Generics in Java - GeeksforGeeks](https://www.geeksforgeeks.org/java/generics-in-java/) | kw: generics

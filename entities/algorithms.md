@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [data-structures · GitHub Topics · GitHub](https://github.com/topics/data-structures) | kw: data-structures · GitHub Topics · GitHub
+- **2026-06-24** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: Comprehensive List of 50 Frequently Aske
+- **2026-06-24** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode
+- **2026-06-24** | [LeetCode Review (2026): Is It Worth It?](https://coddy.tech/vs/leetcode) | kw: Is It Worth It?
+- **2026-06-24** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms · GitHub Topic
+- **2026-06-24** | [Design Add And Search Word Data Structure - LeetCode... - YouTube](https://www.youtube.com/watch?v=zDyoxl29yns) | kw: Design Add And Search Word Data Structur
+- **2026-06-24** | [The Best Way To Learn Algorithms and Data Structures](https://dev.to/salarc123/the-best-way-to-learn-algorithms-and-data-structures-24cn) | kw: The Best Way To Learn Algorithms and Dat
+- **2026-06-24** | [Do we really need Leetcode (Data Structures & Algorithms)... | Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: Do we really need Leetcode (Data Structu
+- **2026-06-24** | [Kotak Mahindra Bank Interview Questions & Experiences 2026](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/Kotak+Mahindra+Bank) | kw: Kotak Mahindra Bank Interview Questions
+- **2026-06-24** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: Alternatives and detailed information of
+
 - **2026-06-24** | [Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: graph
 
 - **2026-06-24** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms

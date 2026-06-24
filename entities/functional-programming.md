@@ -1,6 +1,15 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-24** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026
+- **2026-06-24** | [functional programming - How do I combine monads in Haskell?](https://stackoverflow.com/questions/1126651/how-do-i-combine-monads-in-haskell) | kw: functional programming
+- **2026-06-24** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Exploring Functional...
+- **2026-06-24** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Functional Programming & Monads
+- **2026-06-24** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: What you need to know!
+- **2026-06-24** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Monad tutorials timeline
+- **2026-06-24** | [Just how much can you do with functions? | Haskell, Functional...](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: Just how much can you do with functions?
+- **2026-06-24** | [monad · GitHub Topics · GitHub](https://github.com/topics/monad) | kw: monad · GitHub Topics · GitHub
+
 - **2026-06-24** | [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads) | kw: haskell
 - **2026-06-24** | [Haskell - Wikipedia](https://en.wikipedia.org/wiki/Haskell) | kw: haskell
 - **2026-06-24** | [Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/) | kw: haskell
