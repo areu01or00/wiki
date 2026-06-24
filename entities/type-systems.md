@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+
+- **2026-06-24** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: type system wikipedia
+- **2026-06-24** | [Best Programming Languages for 2026 - DEV Community](https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f) | kw: best programming languages
+- **2026-06-24** | [Rust vs TypeScript 2026: Rust for Performance, TS for Speed of Development](https://rustify.rs/articles/rust-vs-typescript-full-stack-2026) | kw: rust vs typescript
+- **2026-06-24** | [The most popular programming languages in 2026 - Innowise](https://innowise.com/blog/top-proprogramming-languages/) | kw: popular programming languages
+- **2026-06-24** | [The 10 most used programming languages in 2026 - ipme.co](https://ipme.co/articles/most-used-programming-languages-2026-470) | kw: 10 used programming
+- **2026-06-24** | [Best Programming Languages for Scalable Development in 2026 - theflock](https://www.theflock.com/en/content/blog-and-ebook/best-programming-languages-scalable-development) | kw: best programming languages
+
 - **2026-06-24** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems
 - **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type systems
 - **2026-06-24** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type systems
@@ -89,7 +97,6 @@
 - **2026-06-24** | [Efficient Selection of Type Annotations for Performance - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type Annotations for Perfor...
 - **2026-06-24** | [Type Inference for Functional and Imperative Dynamic Languages](https://dl.acm.org/doi/10.1145/3798220) | kw: Type Inference for Functional and Imperative Dynam...
 
-- **2026-06-24** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: gradual typing
 - **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir v1
 - **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type inference
 - **2026-06-24** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type system
@@ -169,7 +176,6 @@
 - **2026-06-23** | [TypeScript Introduction - W3Schools](https://www.w3schools.com/typescript/typescript_intro.php) | kw: TypeScript Introduction -
 - **2026-06-23** | [JavaScript vs TypeScript in 2026: Which Should You Use? - Hashbyt](https://hashbyt.com/blog/javascript-vs-typescript) | kw: JavaScript vs TypeScript
 - **2026-06-23** | [TypeScript and the dawn of gradual types - GitHub](https://github.com/readme/featured/typescript-gradual-types) | kw: TypeScript and the
-
 
 - **2026-06-23** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ..](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating Language Labyrinth
 - **2026-06-23** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type system Astral
@@ -282,8 +288,6 @@
 
 - **2026-06-23** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1.20 released
 
-
-
 - **2026-06-23** | [[2408.14345] Guard Analysis and Safe Erasure Gradual Typing ...](https://arxiv.org/abs/2408.14345) | kw: [2408.14345] Guard Analysis and Safe Erasure Gradual Typing 
 - **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for ...
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance ...](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance ...
@@ -341,7 +345,6 @@
 - **2026-06-23** | [(PDF) Gradual typing with unification-based inference](https://www.researchgate.net/publication/220828930_Gradual_typing_with_unification-based_inference) | kw: (PDF) Gradual typing
 - **2026-06-23** | [](/clev?event=StartpageResultClick&sc=maXqNizppdQewqPSh6lO7lgCdM2gdx9LnxCgpCuislKARt2RBp7qT1TDGMYGVFcBwgq5gK4qlMlAQt&payload=...) | kw: 
 
-
 - **2026-06-23** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing: a Type Syste | source: type-systems
 - **2026-06-23** | [Efficient Selection of Type Annotations for Performance Improvement in ..](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Performance Impr | source: type-systems
 - **2026-06-23** | [[2603.05649] Efficient Selection of Type Annotations for Performance ..](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotations for Per | source: type-systems
@@ -390,7 +393,6 @@
 - **2026-06-22** | [Static vs Dynamic Typing - The Ultimate Guide to Type Systems](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Ultimate | source: type-systems
 - **2026-06-22** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type Inference | source: type-systems
 
-
 - **2026-06-22** | [Comparing Python Type Checkers: Speed and Memory](https://www.reddit.com/r/Python/comments/1skcp5j/comparing_python_type_checkers_speed_and_memory/) | kw: Comparing Python Type Checkers: Speed and Memory | source: type-systems
 - **2026-06-22** | [Pyrefly: Python Type Checker by Meta - pydevtools](https://pydevtools.com/handbook/reference/pyrefly/) | kw: Pyrefly: Python Type Checker by Meta - pydevtools | source: type-systems
 - **2026-06-22** | [FAQ - Pyrefly](https://pyrefly.org/en/docs/pyrefly-faq/) | kw: FAQ - Pyrefly | source: type-systems
@@ -404,8 +406,6 @@
 - **2026-06-22** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems do
 
 - **2026-06-22** | [Gradual typing](https://grokipedia.com/page/Gradual_typing) | kw: Gradual typing
-
-
 
 - **2026-06-22** | [Enhancing Deep Type Inference Using Dynamic Analysis for Python](https://dl.acm.org/doi/full/10.1145/3771544) | kw: type-systems
 - **2026-05-05** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
@@ -443,7 +443,6 @@
 - **2026-06-22** | [Future of high-level languages - Reddit r/ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages/comments/12x46f5/future_of_highlevel_languages/) | kw: type-systems
 
 - **2026-06-22** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau programming language
-
 
 - **2026-06-22** | [Type Systems Map - Noosaga Explore](https://www.noosaga.com/explore/programming-languages/type-systems) | kw: Gradual typing
 - **2026-06-22** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: gradual type system
@@ -667,7 +666,6 @@
 
 - **2026-06-20** | [gradual-typing – Programming Research Group (Tanabe, Tokyo Tech)](https://prg.is.titech.ac.jp/category/project/type/gradual-typing/) | kw: gradual-typing Programming Research Group Tanabe | src: type-systems <!-- h:0e9dcaf4af91dfc0bc8200900a97a80c -->
 
-
 - **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: gradual typing across
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: efficient selection type
 - **2026-06-20** | ["A Case for Gradual Typing"](https://computingintelligenceblog.blogspot.com/2024/09/a-case-for-gradual-typing.html) | kw: case for gradual
@@ -694,7 +692,6 @@
 - **2026-06-20** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/10.1145/3632931) | kw: Type | src: type-systems <!-- h:fc2a160e30ff2047c8b16d1d1b80ebd5 -->
 
 - **2026-06-20** | [The Evolution of Trust: Gradual and Dependent Typing in the Pursuit of Software Reliability](https://uplatz.com/blog/the-evolution-of-trust-gradual-and-dependent-typing-in-the-pursuit-of-software-reliability) | kw: Evolution | src: type-systems <!-- h:ff00bec947b28402bebdfb806bddc150 -->
-
 
 - **2026-06-20** | [Gradual Typing with Unification-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: gradual typing
 - **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now | BirJob](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: luau
@@ -751,7 +748,6 @@
 - **2026-06-20** | [Gradual Typing with Inference](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual, Typing, with, Inference | src: type-systems <!-- h:4a101114e3b691c4671d64770c39c052 -->
 - **2026-06-20** | [Type Inference Techniques: Implementation and Formalization, Better Together](https://xnning.github.io/papers/wits26.pdf) | kw: Type, Inference, Techniques, Implementation | src: type-systems <!-- h:90f64aa277dd75da77b910fbd4635b9b -->
 
-
 - **2026-06-20** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating, language, landscape, typing | src: type-systems <!-- h:f2495424757e7dd538dd771f623f1a0f -->
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://programming-journal.org/2026/11/3/) | kw: efficient, selection, type, annotations | src: type-systems <!-- h:05e87cbef36cd8edbadc65c13cd2b4af -->
 - **2026-06-20** | [Advanced TypeScript Type System Features](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features) | kw: advanced, typescript, type, system | src: type-systems <!-- h:edf2bc1c3681cf7fe9c9e8a78f5a9a6e -->
@@ -785,8 +781,6 @@
 
 - **2026-06-20** | [Static analysis: ESLint, PHPStan, mypy — Architecture & Trade-offs](https://www.sachith.co.uk/static-analysis-eslint-phpstan-mypy-architecture-trade%E2%80%91offs-practical-guide-jun-19-2026/) | kw: Static, analysis:, ESLint, <!-- h:0df8da4f81f94fe446156f21e674f55a -->
 
-
-
 - **2026-06-20** | [TYPES 2026: TYPES 2026](https://types2026.cse.chalmers.se/) | kw: types types
 - **2026-06-20** | [Lua in 2026: Why Lua 5.5, LuaJIT, and Luau Are Three Different Languages Now](https://www.birjob.com/blog/lua-5-5-luajit-luau-dialect-split-2026) | kw: lua lua luajit
 - **2026-06-20** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating language labyrinth
@@ -802,7 +796,6 @@
 - **2026-06-20** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing (‹Programming› 2026 - Research Papers)](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of Type Annotations for Performance Impr <!-- h:1053fa1e5d3c47835cc3a5ecc1a46c52 -->
 - **2026-06-20** | [The Ins and Outs of Gradual Type Inference - microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: The Ins and Outs of Gradual Type Inference - microsoft.com <!-- h:be83423834c67b8671ef6f7b00eeb6c9 -->
 - **2026-06-20** | [100+ Type Inference Online Courses for 2026](https://www.classcentral.com/subject/type-inference) | kw: 100+ Type Inference Online Courses for 2026 <!-- h:7d43df11a787f4da1d8ba7253fb6f91f -->
-
 
 - **2026-06-20** | [Gradual Typing Across the Spectrum - GitHub Pages](https://nuprl.github.io/gtp/) | kw: Gradual Typing Across | src: type-systems
 - **2026-06-20** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual typing - | src: type-systems
@@ -833,7 +826,6 @@
 
 - **2026-06-19** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting, Gradual, Types | src: type-systems
 - **2026-06-19** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual, typing, Wikipedia | src: type-systems
-
 
 - **2026-06-19** | [Type System – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem) | kw: Type, System, Programming, Research | src: type-systems
 - **2026-06-19** | [Types and Programming Languages | Carnegie Mellon University Computer Science Department](https://www.csd.cs.cmu.edu/course/15814/f26) | kw: Types, and, Programming, Languages | src: type-systems
@@ -938,7 +930,6 @@
 - **2026-06-19** | [Foundations for Gradual Typing - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: type,systems | src: type-systems
 - **2026-06-19** | [Staged Gradual Typing | Proceedings of the 24th ACM SIGPLAN ...](https://dl.acm.org/doi/10.1145/3742876.3742880) | kw: type,systems | src: type-systems
 
-
 - **2026-06-19** | [Type Inference - Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/algorithm-w/implementation.html) | kw: Type,Inference,Typechecker,Zoo | src: type-systems
 - **2026-06-19** | [Type Inference - veera.app](https://veera.app/type_inference.html) | kw: Type,Inference,veera.app | src: type-systems
 - **2026-06-19** | [Type Inference - Cornell CS 3110](https://www.cs.cornell.edu/courses/cs3110/2016fa/l/17-inference/notes.html) | kw: Type,Inference,Cornell,3110 | src: type-systems
@@ -966,7 +957,6 @@
 - **2026-06-18** | [The Ins and Outs of Gradual Type Inference](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: type-systems
 - **2026-06-18** | [Gradual Typing - people.csail.mit.edu](https://people.csail.mit.edu/feser/pld-s23/gradual_typing.html) | kw: type-systems
 
-
 - **2026-06-18** | [Gradual Typing with Inference (Siek slides)](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual,Typing,with,Inference,(Siek | src: type-systems
 - **2026-06-18** | [Putting Gradual Types to Work | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-030-67438-0_4) | kw: Putting,Gradual,Types,Work,Springer | src: type-systems
 - **2026-06-18** | [The Ins and Outs of Gradual Type Inference - Microsoft Research](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/grad_ti1.pdf) | kw: The,Ins,and,Outs,Gradual | src: type-systems
@@ -983,7 +973,6 @@
 - **2026-06-18** | [Gradual Typing with Inference - Jeremy Siek](https://www.cs.cmu.edu/~aldrich/FOOL/fool08/siek-slides.pdf) | kw: Gradual,Typing,with,Inference,-,Jeremy | src: type-systems
 
 - **2026-06-18** | [Static vs Dynamic Typing Why Static Type Systems Are Safer](https://simplifycpp.org/?id=a0784) | kw: simplifycpp
-
 
 - **2026-06-18** | [Gradual Typing for Effect Handlers | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3622860) | kw: Gradual, Typing, for, Effect, Handlers, | | src: type-systems
 - **2026-06-18** | [Advanced TypeScript Type System Features: Deep Dive into TypeScript 5.3's Advanced Type System Features](https://dasroot.net/posts/2026/01/advanced-typescript-type-system-features-deep-dive/) | kw: Advanced, TypeScript, Type, System, Features:, Deep | src: type-systems
@@ -1015,7 +1004,6 @@
 - **2026-06-18** | [Gradual Typing And Hybrid Systems Integration: Securing High-Throughput Platform Frameworks](https://www.flyriver.com/g/gradual-typing-and-hybrid-systems) | kw: gradual, typing, hybrid | src: type-systems
 - **2026-06-18** | [The Power of Type Inference in Modern Programming Languages](https://www.travrio.com/article/the-power-of-type-inference-in-modern-programming-languages) | kw: power, type, inference | src: type-systems
 - **2026-06-18** | [Gradual Typing as if Types Mattered - wgt20.irif.fr](https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf) | kw: gradual, typing, types | src: type-systems
-
 
 - **2026-06-18** | [Wenjia Ye - Publications](https://yewenjia.github.io/) | kw: Principal Type Inference under a Prefix (PLDI 2025 Distingui | source: type-systems
 
@@ -1084,7 +1072,6 @@
 - **2026-06-17** | [Type inference - Harvard University](https://groups.seas.harvard.edu/courses/cs152/2023sp/lectures/lec16-typeinference.pdf) | kw: Type inference Harvard Univers | source: type-systems
 - **2026-06-17** | [From Heuristics to Transformers: A Comprehensive Survey of Binary Type Inference - ACM](https://dl.acm.org/doi/10.1145/3803633.3803665) | kw: From Heuristics Transformers C | source: type-systems
 
-
 - **2026-06-17** | ["A Case for Gradual Typing"](https://computingintelligenceblog.blogspot.com/2024/09/a-case-for-gradual-typing.html) | kw: "A Case for Gradual Typing" | source: type-systems
 
 - **2026-06-17** | [AI Updates Today (April 2026) - Latest AI Model Releases | AIFOD](https://af.net/realtime/ai-updates-today-april-2026-latest-ai-model-releases/) | kw: AI Updates Today (April 2026) - Latest AI Model Releases - A | source: type-systems
@@ -1100,7 +1087,6 @@
 - **2026-06-17** | [The Rise of Static Typing - Why It Has Been Back Since the Mid-2010s 2026 - BrainDetox](https://braindetox.kr/en/posts/static_typing_rise_2026.html) | kw: The Rise of | source: type-systems
 - **2026-06-17** | [Type-Based Gradual Typing Performance Optimization - ACM](https://dl.acm.org/doi/10.1145/3632931) | kw: Type Based Gradual | source: type-systems
 - **2026-06-17** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types | source: type-systems
-
 
 - **2026-06-16** | [The Power of Type Inference in Modern Programming Languages](https://www.travrio.com/article/the-power-of-type-inference-in-modern-programming-languages) | kw: The Power of Type Inference in Modern Programming Languages | source: type-systems
 
@@ -1210,7 +1196,6 @@
 
 - **2026-06-16** | [Python 3.14 — New Features, Internal Changes & Migration Guide](https://www.c-sharpcorner.com/article/whats-new-in-python-3-14-deep-dive-for-developers/) | kw: Python 3.14 — New Features, Internal Changes & Migration Guide | source: c-sharpcorner.com | profile: type-systems
 
-
 - **2026-06-16** | [Putting Gradual Types to Work | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-030-67438-0_4) | kw: Putting Gradual Types to Work | Springer Nature Link
 
 - **2026-06-16** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms - PookieTech Blog](https://pookietech.com.ng/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigm | source: pookietech.com.ng | profile: type-systems
@@ -1242,7 +1227,6 @@
 - **2026-06-15** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders - Unosquare](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing) | kw: Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders - Unosquare | profile: type-systems
 - **2026-06-15** | [Foundations for Gradual Typing - Khoury College of Computer Science](https://www.khoury.northeastern.edu/research_projects/foundations-for-gradual-typing) | kw: Foundations for Gradual Typing - Khoury College of Computer Science | profile: type-systems
 - **2026-06-15** | [Gradual Typing Performance, Micro Configurations and Macro Strategies](https://link.springer.com/chapter/10.1007/978-3-031-64626-3_15) | kw: Gradual Typing Performance, Micro Configurations and Macro Strategies | profile: type-systems
-
 
 - **2026-06-15** | [TypeScript 2026: How It Became #1 on GitHub and Why AI Pushed It There](https://www.programming-helper.com/tech/typescript-2026-number-one-github-ai-typed-languages-python) | kw: TypeScript 2026 | profile: type-systems
 

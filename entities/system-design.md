@@ -1,6 +1,13 @@
 # System Design
 
 ## Updates
+
+- **2026-06-24** | [Microservices - Wikipedia](https://en.wikipedia.org/wiki/Microservices) | kw: microservices wikipedia
+- **2026-06-24** | [Microservices - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/microservices/) | kw: microservices geeksforgeeks
+- **2026-06-24** | [What are Microservices? | AWS](https://aws.amazon.com/microservices/) | kw: microservices? aws
+- **2026-06-24** | [What are microservices? - microservices.io](https://microservices.io/) | kw: microservices? microservices.io
+- **2026-06-24** | [What Are Microservices? How Microservices Architecture Works - middleware.io](https://middleware.io/blog/microservices-architecture/) | kw: microservices? microservices architecture
+
 - **2026-06-24** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system design
 - **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system design
 - **2026-06-24** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: system design
@@ -60,13 +67,8 @@
 - **2026-06-24** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems 2026](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architecture Patterns for Scalable Dist
 - **2026-06-24** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12 Essential Distributed System Design Patterns Every Archit
 
-- **2026-06-24** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System Wikipedia
 - **2026-06-24** | [System - Simple English Wikipedia](https://simple.wikipedia.org/wiki/System) | kw: System Simple English
-- **2026-06-24** | [How to open System Properties in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open System Properties
-- **2026-06-24** | [SYSTEM Definition - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: SYSTEM Definition Merriam-Webster
 - **2026-06-24** | [What does System mean - Definitions.net](https://www.definitions.net/definition/System) | kw: What does System
-
-
 
 - **2026-06-24** | [Microservices System Design Interview: A Step-by-Step Walkthrough](https://designgurus.substack.com/p/microservices-system-design-interview) | kw: Microservices System Design Interview
 - **2026-06-24** | [The Complete System Design Interview Guide 2026 | by TechEon](https://atul4u.medium.com/the-complete-system-design-interview-guide-2026-1784f8beb092) | kw: The Complete System Design Interview Guide 2026
@@ -141,7 +143,6 @@
 - **2026-06-23** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: SYSTEM Definition & Meaning | Dictionary.com
 - **2026-06-23** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-and-view-system-information-panel-in-windows) | kw: How to open and view System Information panel in W
 
-
 - **2026-06-23** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System Wikipedia
 - **2026-06-23** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: System film Wikipedia
 - **2026-06-23** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open System Properties
@@ -194,7 +195,6 @@
 - **2026-06-23** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: Distributed
 - **2026-06-23** | [How I Build a Distributed System in 2026: Principles, Patterns, and ..](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: Build
 
-
 - **2026-06-23** | [The Complete System Design Interview Guide 2026 | by TechEon](https://atul4u.medium.com/the-complete-system-design-interview-guide-2026-1784f8beb092) | kw: The Complete System Design Interview Gui
 - **2026-06-23** | [How I Would Prepare for a System Design Interview in 2026](https://interviewnoodle.com/how-i-would-prepare-for-a-system-design-interview-in-2026-5941a974499d) | kw: How I Would Prepare for a System Design 
 - **2026-06-23** | [Need advice on system design interview questions (scaling, latency ..](https://www.reddit.com/r/softwarearchitecture/comments/1sl04w9/need_advice_on_system_design_interview_questions/) | kw: Need advice on system design interview q
@@ -241,8 +241,6 @@
 
 - **2026-06-23** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed S
 
-
-
 - **2026-06-23** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer Should Know in 90 .
 - **2026-06-23** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: A Guide to Large-Scale Distributed Systems (2026)
 - **2026-06-23** | [The Only 12-Week High-Level System Design Roadmap You Need ..](https://medium.com/@id.shivanjali/the-only-12-week-high-level-system-design-roadmap-you-need-2026-edition-52ef9c00cccd) | kw: The Only 12-Week High-Level System Design Roadmap You Need .
@@ -283,7 +281,6 @@
 
 - **2026-06-23** | [I Have 73 Browser Tabs Open. ADHD Made Me a Better Architect.](https://chudi.dev/blog/adhd-systems-architecture-engineering) | kw: Have Browser Tabs
 - **2026-06-23** | [A brief introduction to distributed systems | Computing](https://link.springer.com/article/10.1007/s00607-016-0508-7) | kw: brief introduction distributed
-
 
 - **2026-06-23** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns | source: system-design
 - **2026-06-23** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 2026 | source: system-design
@@ -368,7 +365,6 @@
 
 - **2026-06-22** | [Top Node.js Design Patterns You Should Know in 2026 - NareshIT](https://nareshit.com/blogs/top-nodejs-design-patterns-2026) | kw: System Design
 
-
 - **2026-06-22** | [Microservices Architecture in Product Engineering: 2026 Guide](https://www.appventurez.com/blog/microservices-architecture-in-product-engineering) | kw: Microservices Architecture in Product Engineering: | source: system-design
 - **2026-06-22** | [When to Use Microservices Architecture: Key Insights 2026](https://thinksys.com/development/implement-microservices-architecture/) | kw: When to Use Microservices Architecture: Key Insigh | source: system-design
 - **2026-06-22** | [Microservices: Architectural building blocks and trends](https://medium.com/@satyajitmails/microservices-architectural-building-blocks-and-trends-cfacc642b646) | kw: Microservices: Architectural building blocks and t | source: system-design
@@ -388,7 +384,6 @@
 - **2026-06-22** | [Cloud Design Patterns - Azure Architecture Center - Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/) | kw: Cloud Design
 - **2026-06-22** | [10 Truths in Distributed System Design - apidays India 2026](https://confengine.com/conferences/apidays-india-2026/proposal/50218/10-truths-in-distributed-system-design) | kw: Truths Distributed
 - **2026-06-22** | [8 Most-Used Distributed System Design Patterns | Akash Kumar](https://www.linkedin.com/posts/akashsinnghh_8-most-used-distributed-system-designpatterns-activity-7308054120697888768-Noa4) | kw: Most Used
-
 
 - **2026-06-22** | [oreilly.com - Reactive Microservices Architecture](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/) | kw: system-design
 - **2026-06-22** | [English Dialogue for Informatics Engineering - Distributed Systems Architecture](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: system-design
@@ -643,7 +638,6 @@
 - **2026-06-20** | [The Future of System Design: Emerging Patterns](https://systemdr.systemdrd.com/p/lesson-181-the-future-of-system-design) | kw: The Future System Design Emerging | src: system-design <!-- h:8dcc989656a7e890f53bb7210db5487c -->
 - **2026-06-20** | [Emerging Tech Integration Patterns: Best Practices for Scalable Systems 2026](https://masketer.com/emerging-tech-integration-patterns-best-practices-for-scalable-systems-2026) | kw: Emerging Tech Integration Patterns Best | src: system-design <!-- h:1070f0a2060cf12a5911fb14f59b7ab8 -->
 
-
 - **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices architecture patterns
 - **2026-06-20** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system design guide
 - **2026-06-20** | [Event-Driven Architecture Pattern: Brokers, Schemas, and Idempotent Consumers (2026)](https://appscale.blog/en/blog/microservices-pattern-event-driven-architecture-2026) | kw: event-driven architecture pattern
@@ -659,7 +653,6 @@
 
 - **2026-06-20** | [Scalability Patterns Architecture Guide 2026 - ARDURA Consulting](https://ardura.consulting/blog/scalability-patterns-architecture-guide-2026) | kw: Scalability, Patterns, Architecture, 2026 | src: system-design <!-- h:21a9d6b044c19bf89dfa9198991bf6b7 -->
 - **2026-06-20** | [System Design Fundamentals — Scalability, Availability, Caching, and Message Queues (Chaos and Order)](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System Design Fundamentals | src: system-design <!-- h:690d590f2d4747105628c6a7fb5c1fcb -->
-
 
 - **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: microservices
 - **2026-06-20** | [System Design Series Part 3: Load Balancing & Caching - Wasil Zafar](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System, Design, Series, Part, Load, Balancing | src: system-design <!-- h:056b14e78a14af65a4d0ae47a4e64443 -->
@@ -704,7 +697,6 @@
 - **2026-06-20** | [Distributed Systems | Architecture Patterns | docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed, Systems, Architecture, Patterns | src: system-design <!-- h:7f64368e8a1d34828ccb923f8e0003e5 -->
 - **2026-06-20** | [Distributed Systems Roadmap (2026) | The Design Round](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed, Systems, Roadmap, The | src: system-design <!-- h:0bccdfeceeee7664c4e61f75605f9f8f -->
 
-
 - **2026-06-20** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns) | kw: system, design, patterns, complete | src: system-design <!-- h:d88d3de8f0e60fb55d23ee13a71ca225 -->
 - **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering, distributed, systems, patterns | src: system-design <!-- h:2ebbe3411f331c326ab1fd19aa4e50c7 -->
 - **2026-06-20** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: complete, guide, system, design | src: system-design <!-- h:7a43fcfcde6a6e1ad6d40ccc6f416748 -->
@@ -737,7 +729,6 @@
 
 - **2026-06-20** | [Scalable Backend Architecture Patterns in 2026](https://www.avidclan.com/blog/scalable-backend-architecture-patterns/) | kw: scalable backend architecture patterns in 2026 | source: system-design
 
-
 - **2026-06-20** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: top microservices architecture
 - **2026-06-20** | [Mastering Distributed Systems — Patterns & Principles (2026)](https://tutorialq.com/dev/microservices/mastering-distributed-systems) | kw: mastering distributed systems
 - **2026-06-20** | [Architectural Patterns for 2026: The Full-Stack Developer's Guide | ObserveInfo](https://observeinfo.com/articles/software-engineering/architectural-patterns-for-the-2026-full-stack-landscape-a-definitive-guide) | kw: architectural patterns full
@@ -749,7 +740,6 @@
 - **2026-06-20** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns in 2026: Mastering Distr <!-- h:e9d45130824f67775300df37d0b653d5 -->
 - **2026-06-20** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: Distributed System Design: the complete guide to building sc <!-- h:aaaf9550e5e27d5469ea0edd84372b77 -->
 - **2026-06-20** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed Systems Patterns 2026 | pdpspectra <!-- h:25a06ccbe831fcae1efa398fc18b067e -->
-
 
 - **2026-06-20** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026 | Java Prorgram Examples](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026) | kw: 9 Essential Software | src: system-design
 - **2026-06-20** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026 · Dev Note](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026) | kw: Distributed Systems Patterns | src: system-design
@@ -870,14 +860,12 @@
 - **2026-06-19** | [Patterns of Distributed Systems Computer Bookshop India https://www.cb-india.com › ... › Distributed Computing](https://www.cb-india.com/books/computer-science/distributed-computing/patterns-of-distributed-systems) | kw: system,design | src: system-design
 - **2026-06-19** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system,design | src: system-design
 
-
 - **2026-06-19** | [System Design Interview Cheat Sheet for FAANG (2026)](https://www.interviewlift.com/blogs/system-design-interview-cheat-sheet-faang) | kw: System,Design,Interview,Cheat,Sheet | src: system-design
 - **2026-06-19** | [The Future of Backend Development: Key Skills to Hire for in 2025](https://medium.com/@tconnectx/the-future-of-backend-development-key-skills-to-hire-for-in-2025-0faba822564d) | kw: The,Future,Backend,Development,Key | src: system-design
 - **2026-06-19** | [System Design Interview Mastery: Complete 2026 Guide with Real FAANG Examples](https://lastroundai.com/blog/system-design-interview-mastery-2026) | kw: System,Design,Interview,Mastery,Complete | src: system-design
 - **2026-06-19** | [FAANG System Design Interview Guide 2026](https://jobrise.io/en/blog/faang-system-design-interview-guide-2026) | kw: FAANG,System,Design,Interview,Guide | src: system-design
 - **2026-06-19** | [The Backend Developer Roadmap for 2025-2026: Skills, Tools & Trends](https://strategizeyourcareer.com/p/the-2025-backend-developers-roadmap) | kw: The,Backend,Developer,Roadmap,for | src: system-design
 - **2026-06-19** | [Future of Enterprise Architecture 2026-2031 - Board Briefing](https://latentti.fi/foresight/future-of-enterprise-architecture-2026-2031.pdf) | kw: Future,Enterprise,Architecture,2026-2031,Board | src: system-design
-
 
 - **2026-06-19** | [Microservices Architecture Guide 2026: Building Scalable ...](https://miracl.in/blog/microservices-architecture-guide-2026) | kw: Microservices,Architecture,Guide,Building,Scalable | src: system-design
 
@@ -905,7 +893,6 @@
 - **2026-06-18** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: system-design
 - **2026-06-18** | [Edge Computing Trends 2026: The Rise of Distributed Infrastructure](https://www.thetechtrep.com/edge-computing-trends-2026) | kw: system-design
 
-
 - **2026-06-18** | [System Design: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design) | kw: System,Design,The,Complete,Guide | src: system-design
 - **2026-06-18** | [Distributed Systems Best Practices | 2026 - docs.gitscrum.com](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: Distributed,Systems,Best,Practices,2026 | src: system-design
 - **2026-06-18** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System,Design,Guide,2026,Load | src: system-design
@@ -932,7 +919,6 @@
 
 - **2026-06-18** | [Latest Trends in Distributed Systems (2026): What I'm Building Around Now](https://thelinuxcode.com/latest-trends-in-distributed-systems-2026-what-im-building-around-now/) | kw: Latest Trends in
 
-
 - **2026-06-18** | [Scalable Web Development 2026: APIs, Caching & Distributed Systems](https://www.dotcominfoway.com/blog/scalable-web-development-2026-apis-caching-distributed-systems) | kw: scalability
 
 - **2026-06-18** | [Future of High-Performance Distributed Systems: Trends and Research Directions](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions) | kw: Distributed
@@ -949,7 +935,6 @@
 
 - **2026-06-18** | [The Patterns Of Distributed Systems With Martin Fowler | Patreon](https://www.patreon.com/posts/patterns-of-with-105216391) | kw: The, Patterns, Distributed | src: system-design
 
-
 - **2026-06-18** | [System Design Trends 2026: What Modern FAANG-Level Interviews Are Expecting](https://thita.ai/blog/system-design/system-design-trends-2026) | kw: System, Design, Trends | src: system-design
 
 - **2026-06-18** | [Patterns of Distributed Systems](https://gotopia.tech/books/84/patterns-of-distributed-systems) | kw: Patterns, Distributed, Systems | src: system-design
@@ -964,7 +949,6 @@
 - **2026-06-18** | [The Complete Guide to System Design in 2026 AI-Native and Serverless - DEV Community](https://dev.to/devin-rosario/the-complete-guide-to-system-design-in-2026-ai-native-and-serverless-1kpb) | kw: system, design, ai-native | src: system-design
 - **2026-06-18** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system, design, scalable | src: system-design
 - **2026-06-18** | [Distributed System Design: the complete guide to building scalable infrastructure](https://grokkingthesystemdesign.com/guides/distributed-system-design) | kw: distributed, system, design | src: system-design
-
 
 - **2026-06-18** | [Event-Driven Architecture Patterns for Microservices: Message Queues, Event Stores, and CQRS Implementation in 2026 | HostMyCode](https://www.hostmycode.com/blog/event-driven-architecture-patterns-microservices-message-queues-event-stores-cqrs-2026) | kw: Event-Driven Architecture Patterns for Microservices: Messag | source: system-design
 - **2026-06-18** | [Microservices Architecture: Modern Application Development and Deployment Strategies for 2025 - technewsdaily.com](https://technewsdaily.com/microservices-architecture-development-2025) | kw: Microservices Architecture: Modern Application Development a | source: system-design
@@ -1033,7 +1017,6 @@
 - **2026-06-17** | [ACM Symposium on Principles of Distributed Computing – July 6-10, 2026](https://www.podc.org/) | kw: ACM Symposium on | source: system-design
 - **2026-06-17** | [Distributed Application Architecture Patterns: An unopinionated catalogue](https://jurf.github.io/daap/) | kw: Distributed Application Architecture | source: system-design
 - **2026-06-17** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design – Andrew Hansen](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design) | kw: Microservices Architecture Patterns | source: system-design
-
 
 - **2026-06-16** | [System Design Interview Questions & Prep (from FAANG experts) - IGotAnOffer](https://igotanoffer.com/blogs/tech/system-design-interviews) | kw: System Design Interview Questions & Prep (from FAANG experts) - IGotAnOffer | source: system-design
 - **2026-06-16** | [Grokking The System Design Interview Free (updated 2026)](https://www.systemdesignhandbook.com/courses/grokking-the-system-design-interview) | kw: Grokking The System Design Interview Free (updated 2026) | source: system-design
@@ -1115,7 +1098,6 @@
 
 - **2026-06-16** | [Distributed Caching Patterns: Strategies for Scale and Consistency | Imperialis Tech](https://imperialis.tech/en/blog/distributed-caching-patterns-strategies-scale-2026) | kw: Distributed Caching Patterns: Strategies for Scale and Consistency | Imperialis... | source: imperialis.tech | profile: system-design
 
-
 - **2026-06-16** | [System Design Series Part 3: Load Balancing & Caching](https://www.wasilzafar.com/pages/series/system-design/system-design-load-balancing-caching.html) | kw: System Design Series Part 3: Load Balancing & Caching | source: www.wasilzafar.com | profile: system-design
 - **2026-06-16** | [System Design Fundamentals - Scalability, Availability, Caching, and Message Queues](https://www.youngju.dev/blog/architecture/2026-04-12-system-design-fundamentals.en) | kw: System Design Fundamentals - Scalability, Availability, Caching, and Message Que | source: www.youngju.dev | profile: system-design
 - **2026-06-16** | [Distributed Systems Roadmap (2026)](https://thedesignround.com/distributed-systems-roadmap) | kw: Distributed Systems Roadmap (2026) | source: thedesignround.com | profile: system-design
@@ -1123,7 +1105,6 @@
 - **2026-06-16** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System Design Guide 2026 - Scalable Architecture Patterns | source: tktips.org | profile: system-design
 
 - **2026-06-16** | [The Coming Paradigm Shift in Distributed Systems Architecture - Gabo Gil](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: The Coming Paradigm Shift in Distributed Systems Architectur | source: gabogil.com | profile: system-design
-
 
 - **2026-06-16** | [System Design Roadmap 2026 - Complete Learning Path](https://www.thetutorbridge.com/roadmap/system-design) | kw: System Design Roadmap 2026 - Complete Learning Path | profile: system-design
 
@@ -1142,7 +1123,6 @@
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free Research](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queue | profile: system-design
 - **2026-06-15** | [Backend Architecture Patterns - A Practical Guide for 2026 - Codelit.io](https://codelit.io/blog/backend-architecture-patterns-guide) | kw: Backend Architecture Patterns - A Practical Guide for 2026 - Codelit.io | profile: system-design
 - **2026-06-15** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 2026 | profile: system-design
-
 
 - **2026-06-15** | [System Design Guide 2026: Load Balancing, Caching, CDN, Databases, Message Queues, Scaling - OnlineTools4Free Research | OnlineTools4Free](https://onlinetools4free.com/research/system-design-guide-2026) | kw: System Design Guide | profile: system-design
 - **2026-06-15** | [Distributed Caching Patterns: Implementing Cache-Aside, Write-Through and Write-Back Strategies](https://richardgablesner.com/distributed-caching-patterns-implementing-cache-aside-write-through-and-write-back-strategies) | kw: Distributed Caching Patterns | profile: system-design
@@ -3322,7 +3302,6 @@
 - **2026-06-11** | [The Future of Large-Scale Distributed Systems: Trends, Challenges, and Opportunities](https://www.researchgate.net/publication/390714723_The_Future_of_Large-Scale_Distributed_Systems_Trends_Challenges_and_Opportunities) | kw: system-design
 - **2026-06-11** | [Design patterns in distributed system](https://www.slideshare.net/slideshow/design-patterns-in-distributed-system/66719846) | kw: system-design
 
-
 - **2026-06-11** | [Emerging Backend Architectures for 2026: Microservices ...](https://tensorblue.com/blog/emerging-backend-architectures-for-2026-microservices-serverless-and-beyond) | kw: architecture, microservices
 - **2026-06-11** | [Future of High-Performance Distributed Systems: Trends and ...](https://ponick.wordpress.com/2026/03/04/future-of-high-performance-distributed-systems-trends-and-research-directions/) | kw: distributed systems, systems, distributed
 - **2026-06-11** | [36 Microservices Patterns & Anti-Patterns: The Definitive ...](https://appscale.blog/en/blog/microservices-patterns-anti-patterns-master-index-2026) | kw: patterns, microservices
@@ -3472,7 +3451,6 @@
 - **2026-06-11** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
 - **2026-06-11** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: distributed systems
 
-
 - **2026-06-11** | [Event-Driven Architecture Patterns for High-Throughput Systems in ...](https://www.landskill.com/blog/event-driven-architecture-patterns/) | kw: patterns, architecture
 - **2026-06-11** | [5 best books on system design in 2026 - Medium](https://medium.com/@systemdesignwithsage/5-best-books-on-system-design-0424287985c0) | kw: system-design
 - **2026-06-11** | [50 System Design Patterns Every Engineer Should Know](https://stackinterview.dev/guides/50-system-design-patterns-2026) | kw: patterns
@@ -3554,7 +3532,6 @@
 - **2026-06-11** | [Performance Engineering in Distributed Systems: Lessons That ...](https://cacm.acm.org/blogcacm/performance-engineering-in-distributed-systems-lessons-that-compound-over-time/) | kw: system-design
 - **2026-06-11** | [Advanced System Architecture: Full Beginner's Course 2026](https://www.youtube.com/watch?v=bl0kwSrKJj4) | kw: system-design
 - **2026-06-11** | [How Do I Properly Learn System Design? Need Guidance ... - Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1owsg6p/how_do_i_properly_learn_system_design_need/) | kw: system-design
-
 
 - **2026-06-11** | [System Design Guide 2026: Load Balancing, Caching, CDN ...](https://onlinetools4free.com/research/system-design-guide-2026) | kw: system, design, guide
 - **2026-06-11** | [Scheduling and Load Balancing in Distributed Systems ...](https://thelinuxcode.com/scheduling-and-load-balancing-in-distributed-systems-practical-algorithms-and-2026-patterns/) | kw: scheduling, balancing, distributed

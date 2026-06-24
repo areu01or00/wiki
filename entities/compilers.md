@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+
+- **2026-06-24** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: just-in-time compilation wikipedia
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: llvm compiler infrastructure
+- **2026-06-24** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: orcjit scale llvm-autojit
+- **2026-06-24** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: llvm compiler infrastructure
+- **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: llvm compiler infrastructure
+
 - **2026-06-24** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-24** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
 - **2026-06-24** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: compilers
@@ -56,9 +63,7 @@
 - **2026-06-24** | [LLVM Developer Meeting 2026-01](https://llvm.org/devmtg/2026-01/) | kw: LLVM Developer Meeting
 - **2026-06-24** | [compiler-course-2026 BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026 BuildingAJIT3.rst
 
-
 - **2026-06-24** | [LLVM 22.1.0 release is a technically dense update that touches ... - Medium](https://medium.com/@Re-News/llvm-22-1-0-release-is-a-technically-dense-update-that-touches-nearly-every-layer-of-the-toolchain-806ebcc1521e) | kw: LLVM 22.1.0 release is a technically dense update 
-
 
 - **2026-06-24** | [Compilers and Modern Language Runtimes - LLVM JIT GC V8](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: jit
 - **2026-06-24** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: llvm
@@ -146,7 +151,6 @@
 - **2026-06-23** | [LLVM 21.1.7 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-21-1-7-released/89029) | kw: LLVM 21.1.7 Released!
 - **2026-06-23** | [LLVM 20.1.7 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-20-1-7-released/86855) | kw: LLVM 20.1.7 Released!
 - **2026-06-23** | [LLVM 22.1.5 Released! - Announcements - LLVM Discussion Forums](https://discourse.llvm.org/t/llvm-22-1-5-released/90734) | kw: LLVM 22.1.5 Released!
-
 
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: LLVM Compiler Infrastructure
 - **2026-06-23** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT Scale with
@@ -247,8 +251,6 @@
 
 - **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/
 
-
-
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: The LLVM Compiler Infrastructure Project
 - **2026-06-23** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at
 - **2026-06-23** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 .
@@ -298,7 +300,6 @@
 - **2026-06-23** | [LLVM '15: Proceedings of the Second Workshop on the LLVM Compiler ..](https://dl.acm.org/doi/proceedings/10.1145/2833157) | kw: compilers
 - **2026-06-23** | [JIT in ClickHouse](https://clickhouse.com/blog/clickhouse-just-in-time-compiler-jit) | kw: compilers
 - **2026-06-23** | [Building a JIT Compiler from Scratch: Part 1 - Medium](https://medium.com/codejitsu/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-84cf453b1155) | kw: compilers
-
 
 - **2026-06-23** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time compilation - Wikipedia | source: compilers
 - **2026-06-23** | [The LLVM Compiler Infrastructure Project - Open Projects](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project - Open Projects | source: compilers
@@ -359,10 +360,8 @@
 
 - **2026-06-22** | [Building a Compiler Front-End](https://iq.opengenus.org/building-compiler-front-end/) | kw: Compilers
 
-
 - **2026-06-22** | [Releases · ldc-developers/ldc · GitHub](https://github.com/ldc-developers/ldc/releases) | kw: Releases · ldc-developers/ldc · GitHub
 - **2026-06-22** | [ios - xcode command line build failed - Stack Overflow](https://stackoverflow.com/questions/35125494/xcode-command-line-build-failed-with-com-apple-compilers-llvm-clang-1-0-compiler) | kw: ios - xcode command line build failed - Stack Over
-
 
 - **2026-06-22** | [twinBASIC Update: June 16, 2026](https://nolongerset.com/twinbasic-update-june-16-2026/) | kw: twinBASIC Update: June 16, 2026 | source: compilers
 - **2026-06-22** | [The LLVM Compiler Infrastructure - LinkedIn](https://www.linkedin.com/posts/kevinsalapenades_the-llvm-compiler-infrastructure-activity-7393744847591002112-u0zb) | kw: The LLVM Compiler Infrastructure - LinkedIn | source: compilers
@@ -375,9 +374,7 @@
 - **2026-06-22** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure
 - **2026-06-22** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM Compiler Infrastructure Google
 
-
 - **2026-06-22** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: LLVM JIT
-
 
 - **2026-06-22** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan Deep Dive](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-06-22** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst on GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
@@ -425,7 +422,6 @@
 
 - **2026-06-22** | [Getting Started with the LLVM System](https://rocm.docs.amd.com/projects/llvm-project/en/latest/LLVM/llvm/html/GettingStarted.html) | kw: Getting Started with
 - **2026-06-22** | [Compilation for LLMs: Why a Language for Models... - DEV Community](https://dev.to/delimitter_8b9077911a3848/compilation-for-llms-why-a-language-for-models-needs-native-code-3jal) | kw: Compilation LLMs Language
-
 
 - **2026-06-22** | [LLVM JIT support for caching compiled output - Stack Overflow](https://stackoverflow.com/questions/48077883/llvm-jit-support-for-caching-compiled-output) | kw: Avoid LLVM
 - **2026-06-22** | [Just in Time Compilation Explained - freeCodeCamp](https://www.freecodecamp.org/news/just-in-time-compilation-explained/) | kw: method improving
@@ -621,7 +617,6 @@
 - **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance
 - **2026-06-20** | [Building a JIT Chapter 3 - Compile On Demand - 4elodoy-Molovek](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: Demand elodoy-Molovek
 
-
 - **2026-06-20** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026) | kw: Compilers
 
 - **2026-06-20** | [IICT 2026 — India's Inclusive Computing Conference](https://compilertech.org/) | kw: iict india inclusive
@@ -649,7 +644,6 @@
 - **2026-06-20** | [GitHub - JLLVM/JLLVM: JVM implementation using LLVM as a JIT](https://github.com/JLLVM/JLLVM) | kw: GitHub | src: compilers <!-- h:17a9ff8a71e2e0c4a86ad1f87464fc32 -->
 
 - **2026-06-20** | [IICT 2026 — India's Inclusive Computing Conference](https://compilertech.org/) | kw: IICT 2026 — India's Inclusive Computing Conference
-
 
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 · RomanPikhotskiy/compiler-course-2026 · GitHub](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: jit
 - **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: llvm
@@ -692,7 +686,6 @@
 - **2026-06-20** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025) | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, and, Modern, Language | src: compilers <!-- h:356653e96551f08a707c2ddada2fe1c8 -->
 - **2026-06-20** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/%40aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: Deep, Dive, into, LLVM | src: compilers <!-- h:f59aecd9d2bb1c9a8e2250bf412480f0 -->
 
-
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - RomanPikhotskiy](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, llvm, docs | src: compilers <!-- h:cd81edf8511034bfb061d67e42a19d20 -->
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler, course, llvm, docs | src: compilers <!-- h:40ed91546301e54bdd9b40a0b43a3dfa -->
 - **2026-06-20** | [Jeandle: How Ant Group's LLVM-Based JVM JIT Aims to Supercharge Java](https://www.besthub.dev/articles/jeandle-how-ant-group-s-llvm-based-jvm-jit-aims-to-supercharge-java-991748738e77) | kw: jeandle, ant, group, llvm | src: compilers <!-- h:5d4ac715e54509da805ad5c64a5b6b9b -->
@@ -709,7 +702,6 @@
 
 - **2026-06-20** | [PHP Development Roadmap for 2025-2026 [EN] - pythonlib.ru](https://pythonlib.ru/en/news-post222) | kw: php development roadmap for 20252026 en | source: compilers
 
-
 - **2026-06-20** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: unlocking performance overlooked
 - **2026-06-20** | [FOSDEM 2026 - OrcJIT at Scale with the llvm-autojit Plugin](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: fosdem orcjit scale
 - **2026-06-20** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers modern language
@@ -724,7 +716,6 @@
 - **2026-06-20** | [LLVM Weekly - a weekly newsletter covering developments in LLVM, Clang, and related projects.](https://llvmweekly.org/) | kw: LLVM Weekly - a weekly newsletter covering developments in L <!-- h:26231438aaf762433b4e5f30c55f0fbd -->
 - **2026-06-20** | [ML Compiler Optimization Revolution [Deep Dive] [2026]](https://techbytes.app/posts/ml-compiler-optimization-revolution-2026/) | kw: ML Compiler Optimization Revolution [Deep Dive] [2026] <!-- h:c988d203ffb86a252a80be5c9dbd7a13 -->
 - **2026-06-20** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst <!-- h:044f00f22ade99878d29e43ef426c83d -->
-
 
 - **2026-06-20** | [EuroLLVM 2026 - LLVM JIT Upcoming Challenges and Opportunities](https://llvm.org/devmtg/2026-04/slides/quick_talk/quick_talk_hames.pdf) | kw: EuroLLVM 2026 - | src: compilers
 - **2026-06-20** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The Case For | src: compilers
@@ -863,9 +854,7 @@
 - **2026-06-19** | [Advanced Optimizations in Modern Compilers: JIT, AOT and Hybrid Pipelines](https://ijsrmt.com/index.php/ijsrmt/article/view/1072) | kw: compilers | src: compilers
 - **2026-06-19** | [The Future of Programming: Compiler Writing in 2026 | Artikls](https://artikls.com/article/future-programming-compiler-writing-2026) | kw: compilers | src: compilers
 
-
 - **2026-06-19** | [What is new in LLVM 22? - Arm Developer](https://developer.arm.com/community/arm-community-blogs/b/tools-software-ides-blog/posts/what-is-new-in-llvm-22) | kw: What,new,LLVM,22?,Arm | src: compilers
-
 
 - **2026-06-19** | [A Deep Dive into Compilers, Interpreters, Bytecode, and JIT Compilation](https://teddyaryono.dev/blog/compiler-interpreter) | kw: compiler,JIT | src: compilers
 
@@ -874,7 +863,6 @@
 - **2026-06-19** | [Python's JIT Is Finally Fast — And It Almost Didn't Happen](https://mathewsachin.github.io/blog/2026/03/18/python-jit-finally-fast.html) | kw: Python,JIT,Finally,Fast,Almost | src: compilers
 
 - **2026-06-18** | [[2309.07062] Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062) | kw: compilers | src: compilers
-
 
 - **2026-06-18** | [compiler-course-2026 - BuildingAJIT2.rst (fork)](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT2.rst) | kw: compilers | src: compilers
 
@@ -906,7 +894,6 @@
 - **2026-06-18** | [Benchmarking my parser generator against LLVM](https://modulovalue.com/blog/benchmarking-against-llvm-parser) | kw: compilers
 - **2026-06-18** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 - ServeTheHome](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: compilers
 - **2026-06-18** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
-
 
 - **2026-06-18** | [Building a JIT: Starting out with KaleidoscopeJIT](https://github.com/RomanPikhotskiy/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: Building,JIT,Starting,out,with | src: compilers
 - **2026-06-18** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22) | kw: The,Case,For,Compilers,Look | src: compilers
@@ -964,7 +951,6 @@
 
 - **2026-06-18** | [twinBASIC Update: June 16, 2026](https://nolongerset.com/twinbasic-update-june-16-2026) | kw: twinBASIC Update: June 16, 2026 | source: compilers
 
-
 - **2026-06-18** | [Falcon JIT Compiler - Azul | Better Java Performance ...](https://www.azul.com/products/components/falcon-jit-compiler/) | kw: Falcon JIT Compiler - Azul | Better Java Performance ... | source: compilers
 
 - **2026-06-18** | [ORC Design and Implementation — LLVM 23.0.0git documentation](https://llvm.org/docs/ORCv2.html) | kw: ORC Design and Implementation — LLVM 23.0.0git documentation | source: compilers
@@ -981,13 +967,11 @@
 - **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at course-spring-2026 - chekalexey](https://github.com/chekalexey/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: github.com
 - **2026-06-17** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - Georghinho](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: github.com
 
-
 - **2026-06-17** | [The LLVM Compiler Infrastructure Project - Dev Mtg 2026-01](https://llvm.org/devmtg/2026-01) | kw: The LLVM Compiler Infrastructure Project - Dev Mtg 2026-01
 
 - **2026-06-17** | [Gartner Top 10 Strategic Technology Trends for 2026](https://www.gartner.com/en/articles/top-technology-trends-2026) | kw: Gartner Top 10 Strategic Technology Trends for 2026 | source: compilers
 
 - **2026-06-17** | [Compiler & Interpreter Design: From Parsers to LLVM and AI Compilers (TVM/XLA) | Chaos and Order](https://www.youngju.dev/blog/ai/2026-03-17-compiler-interpreter-design-guide.en) | kw: Compiler & Interpreter Design: From Parsers to LLVM and AI Compilers (TVM/XLA... | source: compilers
-
 
 - **2026-06-17** | [Compiler Design: LLVM IR, SSA Form, and Optimization Pass...](https://anshadameenza.com/blog/technology/2025-02-05-compiler-design-llvm-ir-ssa-optimization-passes) | kw: LLVM IR, SSA form, optimization passes with real benchmarks | source: compilers
 
@@ -1116,7 +1100,6 @@
 - **2026-06-16** | [LLVM/Clang 22 Feature Development Ends With Intel Nova Lake, Arm C1 & Ampere1C Support - Phoronix](https://www.phoronix.com/news/LLVM-Clang-22-Branched) | kw: LLVM/Clang 22 Feature Development Ends With Intel Nova Lake, Arm C1 & Ampere1C Support - Phoronix | source: phoronix.com | profile: compilers
 - **2026-06-16** | [LLVM/Clang 22 Compiler Officially Released With Many Improvements - Phoronix](https://www.phoronix.com/news/LLVM-Clang-22.1-Released) | kw: LLVM/Clang 22 Compiler Officially Released With Many Improvements - Phoronix | source: phoronix.com | profile: compilers
 
-
 - **2026-06-16** | [Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in LLVM-based Binary Translation 2026](https://thecodersblog.com/low-compilation-cost-register-allocation-in-llvm-based-binary-translation-2026) | kw: Unlocking Performance: The Overlooked Power of Low-Cost Register Allocation in L | source: thecodersblog.com | profile: compilers
 - **2026-06-16** | [LLVM JIT Discussion (ORC/JITLink) - Zenn](https://zenn.dev/toga/scraps/948f581e2c441f) | kw: LLVM JIT Discussion (ORC/JITLink) - Zenn | source: zenn.dev | profile: compilers
 - **2026-06-16** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan, Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Deep Dive Guide 2025](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8, TurboFan, Maglev, In | source: www.youngju.dev | profile: compilers
@@ -1129,7 +1112,6 @@
 - **2026-06-16** | [compiler-course-2026 LLVM tutorial BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 LLVM tutorial BuildingAJIT1.rst | source: github.com | profile: compilers
 - **2026-06-16** | [compiler-course-2026 fork - BuildingAJIT1.rst](https://github.com/Georghinho/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026 fork - BuildingAJIT1.rst | source: github.com | profile: compilers
 - **2026-06-16** | [compiler-course-2026 LLVM tutorial BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026 LLVM tutorial BuildingAJIT3.rst | source: github.com | profile: compilers
-
 
 - **2026-06-16** | [LLVM Research Library](https://bwatsonllvm.github.io/library/talks) | kw: LLVM Research Library | profile: compilers
 
@@ -1145,11 +1127,9 @@
 - **2026-06-15** | [The LLVM Compiler Infrastructure download | SourceForge.net](https://sourceforge.net/projects/the-llvm-compiler.mirror/) | kw: The, LLVM, Compiler, Infrastructure, download | profile: compilers
 - **2026-06-15** | [What is LLVM? The power behind Swift, Rust, Clang, and more | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What, is, LLVM?, The, power | profile: compilers
 
-
 - **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025) | Chaos and Order](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers Modern Language | profile: compilers
 - **2026-06-15** | [Perry - The Native TypeScript Compiler That Lowers TS to Native via LLVM](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: Perry Native TypeScript | profile: compilers
 - **2026-06-15** | [GitHub - llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies](https://github.com/llvm/llvm-project) | kw: GitHub llvm/llvm-project LLVM | profile: compilers
-
 
 - **2026-06-15** | [The LLVM Compiler Framework and Infrastructure](https://symbolaris.com/course/Compilers10/22-LLVM.pdf) | kw: LLVM Compiler Framework Infrastructure | profile: compilers
 
@@ -1161,7 +1141,6 @@
 - **2026-06-15** | [Compilers and Modern Language Runtimes - LLVM, JIT, GC, V8 TurboFan/Maglev, Inline Caching, Escape Analysis, Rust Monomorphization Complete Guide (2025)](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers | profile: compilers
 - **2026-06-15** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers | profile: compilers
 - **2026-06-15** | [LLVM JIT - LLM explanation difficulties (Japanese)](https://zenn.dev/toga/scraps/948f581e2c441f) | kw: compilers | profile: compilers
-
 
 - **2026-06-15** | [Understanding the Differences Between JIT and Interpreters in Programming](https://umatechnology.org/understanding-the-differences-between-jit-and-interpreters-in-programming) | kw: Differences, JIT, Interpreters | profile: compilers
 - **2026-06-15** | [Compilers and Interpreters: How Code Actually Runs](https://www.youngju.dev/blog/culture/2026-03-23-compiler-interpreter-how-code-runs-guide.en) | kw: Compilers, Interpreters, Code | profile: compilers
@@ -3467,7 +3446,6 @@
 
 - **2026-06-11** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 
-
 - **2026-06-11** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: LLVM, compilers
 - **2026-06-11** | [I want to understand what is JIT compilers and ...](https://www.reddit.com/r/learnjavascript/comments/1b73q53/i_want_to_understand_what_is_jit_compilers_and) | kw: compilers
 - **2026-06-11** | [Perry - The Native TypeScript Compiler That Lowers TS Straight to LLVM Machine Code 2026](https://braindetox.kr/en/posts/perry_typescript_llvm_compiler_2026.html) | kw: LLVM
@@ -3586,7 +3564,6 @@
 - **2026-06-11** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming Language with Rust](https://createlang.rs/01_calculator/jit_intro.html) | kw: JIT compilation, LLVM
 - **2026-06-11** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
 
-
 - **2026-06-11** | [The LLVM Compiler Infrastructure Project - LLVM.org](https://llvm.org/devmtg/2026-01/) | kw: LLVM
 - **2026-06-11** | [Optimizing Compilers Are Not Any More Likely To Be Error-Free ...](https://www.linkedin.com/pulse/optimizing-compilers-any-more-likely-error-free-than-when-silverman-qvhbe) | kw: compilers
 - **2026-06-11** | [LLVM: The bad parts - nikic's Blog](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html) | kw: LLVM
@@ -3668,7 +3645,6 @@
 - **2026-06-11** | [GitHub - jmmartinez/easy-just-in-time: LLVM Optimization to extract...](https://github.com/jmmartinez/easy-just-in-time) | kw: compilers
 - **2026-06-11** | [Designing](https://simplifycpp.org/books/Assembly/Designing_and_Developing_Compilers_Using_LLVM.pdf) | kw: compilers
 - **2026-06-11** | [What Is a Compiler? How Source Code Becomes a Program](https://www.thecoreitech.com/computer-software/what-is-a-compiler/) | kw: compilers
-
 
 - **2026-06-11** | [LLVM Compiler Optimization](https://iq.opengenus.org/llvm-compiler-optimization/) | kw: compiler, optimization
 - **2026-06-11** | [A Deep Dive into Compilers, Interpreters, Bytecode, and JIT...](https://teddyaryono.dev/blog/compiler-interpreter/) | kw: compilers, interpreters, bytecode

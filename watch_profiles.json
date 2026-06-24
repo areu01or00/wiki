@@ -200,6 +200,16 @@
         "James Eastham"
       ],
       "last_result_hashes": [
+        "94c1b0f099f1d566f3fdedccba3cf97b",
+        "ad8d7dca8fec87f4d058ecd64cd944e8",
+        "66ae815700cacb4e96d1e78f07e63810",
+        "ba78e26f83ca072ccd4dba08b465f313",
+        "30eb2e1134419c9dd635b852dc30339c",
+        "b62605732bd34bc190422c3d7bd914a5",
+        "3badc4b3405efd103ac4b6a75c1a1407",
+        "45866b5909a76c5e0ad92df37448d137",
+        "ad2e84aff5156d42c6aedae9fc8f9a3d",
+        "59cd2c16757af30259a8dc7291bc588d",
         "b423b328489be6600827d14ac98bb359",
         "34a7661625980b806863c89ac2b7a075",
         "d3099c6517032e4d8a49b61853da6add",
@@ -209,19 +219,9 @@
         "25a06ccbe831fcae1efa398fc18b067e",
         "10ee30a2694a972513965e5bdfbe0d98",
         "401ac43fcb266731bf806fa34acbf462",
-        "64e900ff8986f325e4783fe3286a829d",
-        "987ac7af5646397c165d63257bb530c2",
-        "a32f5e69dda6ec0341e27ea3247983fc",
-        "608fa7d1ab9e25ccee240ab0bd6ba8f5",
-        "694eafe5ed78cb746d62ba47e0492d7d",
-        "a4f767c8d886ec8f2fab1999efc97283",
-        "bb2281be641c13c087b3bfd94faf2e29",
-        "e386d25ff1816abec2a4433c860ed876",
-        "38356f284740c83553dbab1846c99959",
-        "723a72e43818348046e4c9cd461691bb",
-        "fde2e620a9be8833a9c15bcafc435062"
+        "64e900ff8986f325e4783fe3286a829d"
       ],
-      "last_run": "2026-06-24 21:46 UTC",
+      "last_run": "2026-06-24 22:03 UTC",
       "new_sub_topics_this_run": [
         "System Design Patterns",
         "The Complete Guide",
@@ -237,10 +237,17 @@
         "Essential Distributed System Design Patterns Every Architect",
         "From Monolith",
         "Agentic AI",
-        "James Eastham"
+        "James Eastham",
+        "system -",
+        "systems theory",
+        "how to",
+        "what is",
+        "system definition",
+        "microservices -",
+        "what are"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 10,
+      "_new_total_for_digest": 10
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -444,6 +451,11 @@
         "Databases"
       ],
       "last_result_hashes": [
+        "85875fa4aeb3a7c10187eaf8cc0cac2f",
+        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
+        "4a875ba6c9df4a6d863a675c9bbe1244",
+        "7d0b717005814217330e578b0fbdc8fb",
+        "f1925c0af6e39aa520ffa6a282ede525",
         "5f27f4f0ec7b40b86be3b5add92cedfa",
         "ca9ade675eecf6183c340d40af57c779",
         "32f4188675ea6aa9b99de9314a538fa1",
@@ -458,14 +470,9 @@
         "f14226d60d35bdf464d7dc54cd2027ed",
         "abed07cd7bbcc18f3f89b4b7f9da740d",
         "b7d3464c157a4d7b6a9b324450e9451c",
-        "3d4b74ce59781d7b09a8dce4e68d1434",
-        "6e76d5990761a54f756d319e37fddbb0",
-        "abb2652aa71466accd2990a041e3a4e7",
-        "9a1466e453ce4f98157a252578a253e6",
-        "4af36c74d389bc17e62afaf6eb9ba985",
-        "df581a22e0cf096e525cbe4716c834a5"
+        "3d4b74ce59781d7b09a8dce4e68d1434"
       ],
-      "last_run": "2026-06-24 21:46 UTC",
+      "last_run": "2026-06-24 22:03 UTC",
       "new_sub_topics_this_run": [
         "The Case For Compilers",
         "Modern Language Runtimes",
@@ -478,10 +485,14 @@
         "Compiler Technology",
         "Exploring Simple Architecture",
         "Time Compilation",
-        "Databases"
+        "Databases",
+        "just-in-time compilation",
+        "the llvm",
+        "orcjit at",
+        "llvm compiler"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -674,28 +685,28 @@
         "Bridging"
       ],
       "last_result_hashes": [
+        "864c624f541aa32da64f03c0bca119ed",
+        "ebddfe8dc78273e26817862ee01ad6d5",
+        "61d24c6e5157e06f6618b84043de48bf",
+        "3b75bee49f1f057b646aa55135066aa0",
+        "0252b8777b2d55e7c510b57f349edc35",
+        "c5649ef48328aae5c3635a236c69421e",
+        "0e40ec20e1a733a8136667ee5938762f",
+        "53f7dd6e7682df35c0944f533586c646",
+        "9de76170adb9c4f0c0611d6cbf280fb3",
+        "b61b9698d831108c7ace0ed502ac2490",
+        "c153e2a1e8b47a9fbb576773a55dea95",
+        "0196229a2730c97cd09eb65016ed3a66",
+        "4e07b56a74b7552652f00b473098fabe",
+        "6242e57aedc87c8504bdb3ec2739a54e",
+        "a7dd73b5e83599ad31451632c201e113",
         "430078a9e5ccfb40beafaf41091befd1",
         "2066524f9d45571080c97d6cb370b2a2",
         "0940c3cea7239d5389eb0d921777f44c",
         "1892288ce3bfda31458d852753d72f5f",
-        "f48302d80179ae383b3ab052a049e128",
-        "be8ba2a8e5c2ca25ac6b16edfeff56e1",
-        "36f436eb9462cfa9b86dca4c78e0a8b0",
-        "796dd8fb9f6369a2e77f75139af26f3c",
-        "ef67d9b5534549ebc042dffff04ebf49",
-        "39ea376f3b8ecbc4955ea94db53c9acc",
-        "3dfabf54625f141447a9b0b32c68ba3d",
-        "0f283757319d5365f9f3d2ac8e848912",
-        "6c257d065a3041b16049b05a47e582ff",
-        "fc735fa9ff4c8d2d83888648a67a3892",
-        "068a07b3862dfe7a7b75410740325108",
-        "2817e8378b277cd3cfe64b421e8bd932",
-        "12160ccee61ab05107403ed6090d5b1d",
-        "a775d463940cda26049a2bbb97f4a0a9",
-        "73bdf0a02b24bcdf62654e64faba83df",
-        "ee7e5ae38d8096beea069d17440a80e2"
+        "f48302d80179ae383b3ab052a049e128"
       ],
-      "last_run": "2026-06-24 21:46 UTC",
+      "last_run": "2026-06-24 22:03 UTC",
       "new_sub_topics_this_run": [
         "Static",
         "Dynamic Typing",
@@ -711,10 +722,24 @@
         "Programming Language Typing Reference",
         "Gera Tools",
         "Gradual Typing",
-        "Bridging"
+        "Bridging",
+        "learn to",
+        "learn touch",
+        "monkeytype |",
+        "typingtest.com -",
+        "typeracer -",
+        "gradual -",
+        "type system",
+        "gradual definition",
+        "gradual |",
+        "g gradual",
+        "best programming",
+        "rust vs",
+        "the most",
+        "the 10"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 15,
+      "_new_total_for_digest": 15
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -930,6 +955,18 @@
         "Functional Programming Online Courses"
       ],
       "last_result_hashes": [
+        "5f0c21350e867da0497138104e88c638",
+        "5d7c2c05d1473ae3fb2f90abd8c197dc",
+        "7849c4b20c1f881bbdfb853bb6d0f4b2",
+        "f706c0cd772a8e254641eb9214be126d",
+        "b35d18110111d4d41c969dbfb2b3d5c2",
+        "b15aa28659ccabe3398f87c824f2ee7c",
+        "118ad77388f20a14d3b8caa92bbe1e1f",
+        "2153a59d98e233410d877bdbdd11fa54",
+        "0297758afd7d7929de7a8a1db9e60a1f",
+        "dbd3010420412a91e41a5c1bd0f7d7a0",
+        "2a4484c00cdb382848a9c586f654f5ff",
+        "df53aa6c8127b0828f3e0126607cfd0a",
         "ab1a401478bf91151df62818473f5ef5",
         "32a8b72620f9ad02c0fd61fc5abba7de",
         "f754971725118e81c5661d4781fdbbfd",
@@ -937,21 +974,9 @@
         "6265d0c7ea387b97e9eb7551bfd1a683",
         "3e738690ca3218e22bf2f6068cc1c543",
         "d250aefb29a35210e53228bb1d5cf418",
-        "9ca18ee2c7214f8bf92e57c169605d46",
-        "8c0ea0d18b37f3c9d2facb56f6b40861",
-        "c0f02b3ee5275cc93cd95341b06462b4",
-        "be9da9017ce6e02348e052f2e7dda252",
-        "ca2780e1caf22e17d3a6cc4baecb8d63",
-        "9e96e6975e2081a61e65d35af6be5b5a",
-        "5e9924e8af3ae3219f50c4c054e4a185",
-        "0a825892b16894ee5479d8cdc9ceb413",
-        "ca0a1465631c6b3c554a745b4cc949a5",
-        "64b9213a9db6ffcf3ee048410614e9dc",
-        "14cd387e800b8b80b658ad56297837b3",
-        "f0ebc88fd8dc88d3328d7b1d93ab1507",
-        "ef0fa2a378e721a6e420bcc3ededc61a"
+        "9ca18ee2c7214f8bf92e57c169605d46"
       ],
-      "last_run": "2026-06-24 21:46 UTC",
+      "last_run": "2026-06-24 22:03 UTC",
       "new_sub_topics_this_run": [
         "Rust Users Forum",
         "Learned Monads",
@@ -960,10 +985,20 @@
         "Functional Programming",
         "Getting Started",
         "Haskell Weekly Newsletter",
-        "Functional Programming Online Courses"
+        "Functional Programming Online Courses",
+        "functional definition",
+        "functional synonyms:",
+        "functional |",
+        "haskell -",
+        "haskell features",
+        "haskell language",
+        "downloads -",
+        "github -",
+        "welcome to",
+        "gleam is"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 12,
+      "_new_total_for_digest": 12
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1190,6 +1225,16 @@
         "PBC"
       ],
       "last_result_hashes": [
+        "0489aad2d21bb4d175bb495c58d6d210",
+        "b04b14ed8d576c3be0a192090224f106",
+        "30cf2d40c7aef49ba3bd50629de24fd5",
+        "cd1175c1cbe9c96a98bb7e67afff4df5",
+        "5363a0d6f8ab98008d8dd2194aa24566",
+        "823dfa322dc4043234ac5f6a392c8c98",
+        "5f6865ff7ecf788a3b9b82571dd29960",
+        "07bb218806de35ebe2c5b0eba0aad343",
+        "0962d9d61d0e00a25d02c2facdc3f06b",
+        "398fa1d3a98ad182135f8c2c07a5b2b7",
         "efaca53a4fb3332a168f55b43aac804a",
         "d31c8897e9e24d4ad29ecda9d97dea8d",
         "35f3793cac8b78d908e7f2d7bb34859d",
@@ -1199,19 +1244,9 @@
         "23888b9d760d9caf13785c873d09e057",
         "e0460f9f1768322cd5f6029d6e2e98ae",
         "6bb5f45745653c7264d8c29607bac581",
-        "450322be20ba7396983e3f8351c23355",
-        "ad5990cfbf765522dfc89bd9b17477c1",
-        "903cf01de677d3bb87ca45153e3e1187",
-        "8b872e9c4137efc4de77b9e0bf4a2ba1",
-        "33962f4dabb6295952642a89c68ff646",
-        "f165d7fe740b5c35dcc862dc5659c988",
-        "9bae7c320eaa49023b76088f638f22f3",
-        "9c1dcb0817e3bca7398f9085df2e046d",
-        "8eb681f216d262432836e7f05be4aad7",
-        "b7c20fac6b8a6e67d97d304fc305b430",
-        "97d6faca842ad78242996da77b1fa6b6"
+        "450322be20ba7396983e3f8351c23355"
       ],
-      "last_run": "2026-06-24 21:46 UTC",
+      "last_run": "2026-06-24 22:03 UTC",
       "new_sub_topics_this_run": [
         "Wikipedia",
         "The Ultimate Leetcode Roadmap",
@@ -1227,10 +1262,20 @@
         "LeetCode Exercises",
         "Namaste DSA Sheet",
         "To Crack FAANG",
-        "PBC"
+        "PBC",
+        "leetcode-python ·",
+        "explore -",
+        "guideline for",
+        "design add",
+        "kotak mahindra",
+        "how i",
+        "a curated",
+        "cracking maang",
+        "master the",
+        "is leetcode"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 10,
+      "_new_total_for_digest": 10
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1444,6 +1489,11 @@
         "MoldStud"
       ],
       "last_result_hashes": [
+        "952e4cdd85ea50368b5178492a0c873c",
+        "f44925b63fd3cdc9f1713ffe57f53985",
+        "5794969ac791959b934abec47243b800",
+        "4ba531aedd0133f44b372ea8170dfc08",
+        "d8ed4d65f0bdb695dc39d31d47e41997",
         "b5b247fb8b983960de89159c478ae359",
         "a4ebe751bd607bf6541aadf75759fd00",
         "739a7c5c175f6819fc3c4da480f671a6",
@@ -1458,14 +1508,9 @@
         "3f53aaddb3c9ccc1340c0fbf20196bee",
         "bccf28cb66143f121200c1e73b9cd51a",
         "c0d9870261fb93e027112cfed34316a5",
-        "3ca0f5111ea998f95acd8c079ac9e8f2",
-        "1c9e34c438b893768685d5e9b0743087",
-        "44ede0fa7f964aee564e189fd251a80b",
-        "72af1a8d0c4fdf1bff6317d489c189f7",
-        "d312cb77ade078c8f1e9dac2e24a756b",
-        "797c61641b09da41d0e5d490851764ce"
+        "3ca0f5111ea998f95acd8c079ac9e8f2"
       ],
-      "last_run": "2026-06-24 21:46 UTC",
+      "last_run": "2026-06-24 22:03 UTC",
       "new_sub_topics_this_run": [
         "Python Global Interpreter Lock",
         "Global Interpreter Lock",
@@ -1479,11 +1524,16 @@
         "Python Memory Management",
         "GIL Deep Dive",
         "Understanding Python GIL",
-        "MoldStud"
+        "MoldStud",
+        "what is",
+        "advanced python",
+        "hardware usage",
+        "pep 703",
+        "memory management"
       ],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     }
   },
-  "last_run": "2026-06-24 21:46 UTC"
+  "last_run": "2026-06-24 22:03 UTC"
 }

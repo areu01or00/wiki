@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+
+- **2026-06-24** | [leetcode-python · GitHub Topics · GitHub](https://github.com/topics/leetcode-python) | kw: leetcode-python github topics
+- **2026-06-24** | [Guideline for FAANG. Algorithm and Data structure (Leetcode) - Medium](https://medium.com/@nazmus20000/guideline-for-faang-d9c2502d4af4) | kw: guideline faang. algorithm
+- **2026-06-24** | [How I Would Prepare for a FAANG Interview in 2026 (If I Had to Start Over) - DesignGurus](https://designgurus.substack.com/p/how-i-would-prepare-for-a-faang-interview) | kw: would prepare faang
+- **2026-06-24** | [A curated List of Coding Questions Asked in FAANG Interviews - GitHub](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) | kw: curated list coding
+- **2026-06-24** | [Cracking MAANG Interviews in 2026: My Preparation Strategy - Pranalibose](https://pranalibose.medium.com/cracking-maang-interviews-in-2026-my-preparation-strategy-8532b5ffa809) | kw: cracking maang interviews
+- **2026-06-24** | [Master the Coding Interview: Big Tech (FAANG) Interviews - Udemy](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/) | kw: master coding interview:
+- **2026-06-24** | [Is LeetCode Enough to Crack FAANG Interviews in 2026? - Thita.ai](https://thita.ai/blog/interview/is-leetcode-enough-to-crack-faang-interviews-in-2026) | kw: leetcode enough crack
+
 - **2026-06-24** | [Algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Algorithm) | kw: algorithms
 - **2026-06-24** | [List of algorithms - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_algorithms) | kw: algorithms
 - **2026-06-24** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: algorithms
@@ -51,7 +60,6 @@
 - **2026-06-24** | [The Best Way To Learn Algorithms and Data Structures](https://dev.to/salarc123/the-best-way-to-learn-algorithms-and-data-structures-24cn) | kw: algorithms
 
 - **2026-06-24** | [DSA With Java for Placements | LeetCode + Interview Prep](https://www.udemy.com/course/dsa-with-java-master-data-structures-algorithms/) | kw: DSA With Java for Placements | LeetCode + Interview Prep
-- **2026-06-24** | [Kotak%20mahindra%20bank Interview Questions & Experiences 2026](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/Kotak+Mahindra+Bank) | kw: Kotak%20mahindra%20bank Interview Questions & Experiences 20
 
 - **2026-06-24** | [faang-interview GitHub Topics](https://github.com/topics/faang-interview?o=desc&s=updated) | kw: faang-interview GitHub Topics
 - **2026-06-24** | [Step-by-Step Guide for FAANG Interviews in 2026](https://medium.com/@emilyhustlenyc/step-by-step-guide-for-faang-interviews-in-2026-part-1-of-10-the-master-roadmap-729049306d85) | kw: Step-by-Step Guide for FAANG Interviews in 2026
@@ -190,7 +198,6 @@
 - **2026-06-23** | [LeetCode vs NeetCode vs PracHub 2026 Interview Guide](https://prachub.com/resources/leetcode-vs-neetcode-vs-prachub-2026-interview-guide) | kw: LeetCode vs NeetCode vs PracHub 2026 Interview Gui
 - **2026-06-23** | [Top 100 DSA Interview Questions - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Top 100 DSA Interview Questions - LeetCode
 
-
 - **2026-06-23** | [LeetCode Interview Questions: Top Patterns by Company (2026)](https://interviewpilot.dev/blog/leetcode-interview-questions) | kw: LeetCode Interview Questions
 - **2026-06-23** | [10+ top LeetCode patterns (2026) to ace FAANG coding interviews - Educative](https://www.educative.io/blog/coding-interview-leetcode-patterns) | kw: LeetCode patterns FAANG
 - **2026-06-23** | [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/studyplan/top-interview-150/) | kw: Interview Study Plan
@@ -288,8 +295,6 @@
 
 - **2026-06-23** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy (2026)](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: I Tried 20+ Java DSA Courses with LeetCo
 
-
-
 - **2026-06-23** | [Data Structures & Algorithms Interview Questions: 2026 [With Answers]](https://www.techinterview.net/questions/data-structures-algorithms-interview-questions) | kw: Data Structures & Algorithms Interview Questions: 2026 [With
 - **2026-06-23** | [Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode](https://leetcode.com/discuss/post/7710904) | kw: Amazon | SDE2 | Feb 2026 [Selected] - Discuss - LeetCode
 
@@ -352,7 +357,6 @@
 
 - **2026-06-23** | [Mastering Coding Interviews: Essential Skills for 2026 - LinkedIn](https://www.linkedin.com/posts/pramodbhosale-_codegreedy-leetcode-interview-activity-7411304024014147584-Hojk) | kw: Mastering Coding Interviews:
 - **2026-06-23** | [Coding Interviews in 2026: Complete DSA & System Design Preparation ...](https://www.tutort.net/blogs/coding-interviews-in-2026-everything-you-need-to-prepare) | kw: Coding Interviews 2026:
-
 
 - **2026-06-23** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ..](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start | source: algorithms
 - **2026-06-23** | [DSA Roadmap: Learn Data Structures and Algorithms [2026] - Scaler](https://www.scaler.com/blog/dsa-roadmap/) | kw: DSA Roadmap: Learn Data Structures and Algorithms [2026] - S | source: algorithms
@@ -443,7 +447,6 @@
 - **2026-06-22** | [algorithms-datastructures - 技术专题深度解读 | GitHub 中文社区](https://github-cn.com/topics/algorithms-datastructures) | kw: algorithms-datastructures - 技术专题深度解读 | source: algorithms
 - **2026-06-22** | [Eq%20technologic Interview Questions & Experiences 2026](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/EQ+Technologic) | kw: Eq%20technologic Interview Questions | source: algorithms
 
-
 - **2026-06-22** | [Why graphs are the hardest topic in LeetCode - LinkedIn](https://www.linkedin.com/posts/kunal-kushwaha_when-it-comes-to-leetcode-style-interview-activity-7362154041948213248-Wy9Q) | kw: Why graphs are the hardest topic in LeetCode - Lin | source: algorithms
 - **2026-06-22** | [Top Graph LeetCode Questions Asked in Google Interviews (2026)](https://www.hackmnc.com/blogs/google-graph-leetcode-questions) | kw: Top Graph LeetCode Questions Asked in Google Inter | source: algorithms
 - **2026-06-22** | [Apple Most Asked LeetCode Questions - January 2026](https://www.reddit.com/r/leetcode/comments/1qc3iuw/apple_most_asked_leetcode_questions_january_2026/) | kw: Apple Most Asked LeetCode Questions - January 2026 | source: algorithms
@@ -468,8 +471,6 @@
 - **2026-06-22** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: Problems LeetCode
 
 - **2026-06-22** | [Best Data Structures and Algorithms Courses [2026]](https://scrimba.com/articles/best-data-structures-and-algorithms-courses-2026/) | kw: Best Data
-
-
 
 - **2026-06-22** | [faang-interview · GitHub Topics · GitHub](https://github.com/topics/faang-interview) | kw: algorithms
 - **2026-06-22** | [70 Leetcode problems in 5+ hours (every data structure)](https://www.youtube.com/watch?v=lvO88XxNAzs) | kw: algorithms
@@ -513,7 +514,6 @@
 - **2026-06-22** | [Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: algorithms
 - **2026-06-22** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: algorithms
 - **2026-06-22** | [Top 100 DSA Interview Questions - LeetCode Discuss](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: algorithms
-
 
 - **2026-06-22** | [50 Days Badge 2026 LeetCode - LinkedIn](https://www.linkedin.com/posts/mofijul02anish_leetcode-datastructures-algorithms-activity-7435275744882204672-ncl1) | kw: Earned Days
 - **2026-06-22** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: Best Free Courses
@@ -735,7 +735,6 @@
 - **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-Wise](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Questions Topic-Wise
 - **2026-06-20** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: Leetcode Patterns
 
-
 - **2026-06-20** | [LeetCode Study Plan & Roadmap for 2026: Stop Grinding, Start ...](https://leonstaff.com/blogs/leetcode-study-plan-roadmap/) | kw: Algorithms
 - **2026-06-20** | [Articles - LeetCode](https://leetcode.com/articles/?page=1&category=algorithms) | kw: Algorithms
 
@@ -774,7 +773,6 @@
 - **2026-06-20** | [50+ Data Structures and Algorithms Interview Questions for 2026](https://www.upgrad.com/blog/data-structures-algorithm-interview-questions-answers/) | kw: algorithms
 
 - **2026-06-20** | [Leetcode Revision Tool: Complete Guide (2026) | ShadeCoder](https://articles.shadecoder.com/leetcode-revision-tool-complete-guide-for-2026-best-practices-setup-and-faqs) | kw: Leetcode | src: algorithms <!-- h:b46669634a327d40b867019032f58a60 -->
-
 
 - **2026-06-20** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: dsa
 - **2026-06-20** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics - DEV Community](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: leetcode
@@ -827,7 +825,6 @@
 - **2026-06-20** | [Data-Structures-and-Algorithms---150-top-interview-questions · GitHub](https://github.com/Ananya-Singh2406/Data-Structures-and-Algorithms---150-top-interview-questions) | kw: Data-Structures-and-Algorithms---150-top-interview-questions, GitHub | src: algorithms <!-- h:eae08fa006fe0b0ba2c79d76768f65a8 -->
 - **2026-06-20** | [Data Structures Interview Questions and Answers (2026)](https://www.nostrobeai.com/interview-questions/data-structures) | kw: Data, Structures, Interview, Questions | src: algorithms <!-- h:056bbd57e6e437cc7875c28572cf4197 -->
 
-
 - **2026-06-20** | [Data Structures Interview Questions and Answers (2026 ...](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data, structures, interview, questions | src: algorithms <!-- h:e7cb63adafd27fca3ead2584308babd3 -->
 - **2026-06-20** | [GitHub - kashifansari17/Leetcode-TOP-75-](https://github.com/kashifansari17/Leetcode-TOP-75-) | kw: github, kashifansari17, leetcode, top | src: algorithms <!-- h:09191b710a89e39a177a7aea73cfb65b -->
 - **2026-06-20** | [How to Prepare for LeetCode: A Complete Strategy Guide for 2026](https://www.easyresume.online/blog/leetcode-preparation-guide) | kw: prepare, leetcode, complete, strategy | src: algorithms <!-- h:143876bc0621660474126a01477b0355 -->
@@ -842,7 +839,6 @@
 - **2026-06-20** | [Top 100 Data Structure and Algorithms DSA Interview Questions ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: data, structure, algorithms <!-- h:a56066fd0e506b025c869a0404bf41b2 -->
 - **2026-06-20** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: leetcode, world's, leading <!-- h:3a5aa4dc7a08cf53617d8bc45fcdd95d -->
 - **2026-06-20** | [Data Structures & Algorithms Roadmap 2026: Free Study Plan for Coding Interviews | Free Class AI](https://www.freeclass.ai/roadmaps/dsa-roadmap-2026) | kw: data, structures, algorithms <!-- h:657382150215e7befdd19b921630e0b6 -->
-
 
 - **2026-06-20** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company](https://www.dsaprep.dev/blog/company-wise-leetcode-questions/) | kw: company wise leetcode
 - **2026-06-20** | [Data Structures Interview Questions: The Complete 2026 Guide](https://www.phantomcodeai.com/blogs/data-structures-interview-questions-complete-guide) | kw: data structures interview
@@ -866,7 +862,6 @@
 - **2026-06-20** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company | DSA Prep](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company-Wise LeetCode Questions (2026): DSA Practice by Comp <!-- h:419ddc9c61219c419523d8e37695e627 -->
 - **2026-06-20** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path - The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data Structures & Algorithms Roadmap 2026 - Complete Learnin <!-- h:f83191caf93fd71587d6850265965b3b -->
 - **2026-06-20** | [LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ninja, Digital)](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions for TCS 2026: 50 Solved Problems (NQT, Ni <!-- h:dba859e9113f969a0f84d759331953e7 -->
-
 
 - **2026-06-20** | [100+ Data Structure Interview Questions and Answers (2026)](https://www.wecreateproblems.com/interview-questions/data-structure-interview-questions) | kw: 100+ Data Structure | src: algorithms
 - **2026-06-20** | [Top 100+ Data Structure Interview Questions [2026]](https://www.testmuai.com/learning-hub/data-structures-interview-questions) | kw: Top 100+ Data | src: algorithms
@@ -919,7 +914,6 @@
 - **2026-06-19** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: Top, 100+, Data | src: algorithms
 
 - **2026-06-19** | [GitHub - heydi424/DSA-Handbook-for-Coding-Interviews_2026](https://github.com/heydi424/DSA-Handbook-for-Coding-Interviews_2026) | kw: GitHub, heydi424, DSA | src: algorithms
-
 
 - **2026-06-19** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode, Coding, Interview | src: algorithms
 - **2026-06-19** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Guide](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms | src: algorithms
@@ -992,7 +986,6 @@
 - **2026-06-19** | [LeetCode Questions Asked in Google 2026](https://papersadda.com/article/leetcode-questions-google-2026) | kw: LeetCode | src: algorithms
 - **2026-06-19** | [Company-Wise LeetCode Questions (2026): DSA Practice by Company](https://www.dsaprep.dev/blog/company-wise-leetcode-questions) | kw: Company | src: algorithms
 
-
 - **2026-06-19** | [LeetCode Study Plan and Roadmap for 2026: Stop Grinding, Start - Leon Staff](https://leonstaff.com/blogs/leetcode-study-plan-roadmap) | kw: LeetCode, Study, Plan | src: algorithms
 - **2026-06-19** | [Company-Wise LeetCode Questions (2026): DSA Prep](https://www.dsaprep.dev/blog/company-wise-leetcode-questions/) | kw: Company-Wise, LeetCode, Questions | src: algorithms
 
@@ -1040,14 +1033,11 @@
 - **2026-06-19** | [GitHub - Ananya-Singh2406/Data-Structures-and-Algorithms---150-top-interview-questions: The ultimate, curated collection of the Top 150 Data Structures and Algorithms (DSA) interview questions, meticulously sourced from LeetCode's most frequent and essential problem patterns. · GitHub](https://github.com/Ananya-Singh2406/Data-Structures-and-Algorithms---150-top-interview-questions) | kw: algorithms | src: algorithms
 - **2026-06-19** | [Algorithms problemset](https://leetcode.com/problemset/algorithms) | kw: algorithms | src: algorithms
 
-
 - **2026-06-19** | [Graph Algorithms Complete Guide: BFS, DFS, Dijkstra (2025)](https://generalistprogrammer.com/tutorials/graph-algorithms-complete-guide) | kw: Graph,Algorithms,Complete,Guide,BFS | src: algorithms
 - **2026-06-19** | [DSA Roadmap 2026: Complete Guide with C++ Java Python JS](https://coderstar.in/dsa-learning-path/dsa-roadmap/) | kw: DSA,Roadmap,2026,Complete,Guide | src: algorithms
 - **2026-06-19** | [Data Structures & Algorithms Roadmap - CodeChef](https://www.codechef.com/roadmap/data-structures-and-algorithms) | kw: Data,Structures,Algorithms,Roadmap,CodeChef | src: algorithms
 
-
 - **2026-06-19** | [Top 100 Data Structure Interview Questions and Answers | DSA Interview Questions](https://www.javaguides.net/2026/04/top-100-data-structure-interview-questions-and-answers.html) | kw: Top,100,Data,Structure,Interview | src: algorithms
-
 
 - **2026-06-19** | [Data Structures and Algorithms in 2026: What Backend Developers Actually Need to Know and What AI Can (and Can't) Replace](https://www.nucamp.co/blog/data-structures-and-algorithms-in-2026-what-backend-developers-actually-need-to-know-and-what-ai-can) | kw: Data,Structures,Algorithms,Backend | src: algorithms
 
@@ -1055,7 +1045,6 @@
 
 - **2026-06-18** | [Leetcode Interview Simulator AI: Complete 2026 Guide](https://articles.shadecoder.com/leetcode-interview-simulator-ai-the-complete-2026-guide-to-mastering-technical-i) | kw: algorithms | src: algorithms
 - **2026-06-18** | [Software engineering interviews in 2026 are still asking leetcode ...](https://www.tiktok.com/%40allenvert/video/7636593895584828686) | kw: algorithms | src: algorithms
-
 
 - **2026-06-18** | [DSA Interview Prep 2026 (GitHub)](https://github.com/Himanshu-Singh7/dsa_interview_prep_2026) | kw: algorithms | src: algorithms
 
@@ -1079,7 +1068,6 @@
 - **2026-06-18** | [Competitive Programming (CP) - Steven Gong](https://stevengong.co/notes/Competitive-Programming) | kw: Competitive
 - **2026-06-18** | [Resources: Competitive Programming - USACO Guide](https://usaco.guide/general/resources-cp) | kw: Resources
 
-
 - **2026-06-18** | [From Zero to Hero: LeetCode - Habr](https://habr.com/en/articles/716768) | kw: From,Zero,Hero | src: algorithms
 
 - **2026-06-18** | [Master DSA for Placements in 2026 - Complete Roadmap & Coding Interview Guide](https://master-dsa-roadmap.blogspot.com/2025/11/master-dsa-for-placements-in-2026.html) | kw: algorithms
@@ -1090,7 +1078,6 @@
 - **2026-06-18** | [LeetCode - The World's Leading Online Programming ...](https://leetcode.com/problemset?difficulty=EASY) | kw: algorithms
 - **2026-06-18** | [Top 50 Data Structures Interview Questions 2026 - PA](https://papersadda.com/article/data-structures-interview-questions-2026) | kw: algorithms
 - **2026-06-18** | [Leetcode Patterns - Sean Prashad](https://seanprashad.com/leetcode-patterns) | kw: algorithms
-
 
 - **2026-06-18** | [Learn LeetCode & DSA: A Free YouTube Roadmap (2026)](https://developereducators.com/roadmap/leetcode-dsa) | kw: Learn,LeetCode,DSA,Free,YouTube | src: algorithms
 - **2026-06-18** | [LeetCode Questions Asked in Google 2026 - PA](https://papersadda.com/article/leetcode-questions-google-2026) | kw: LeetCode,Questions,Asked,Google,2026 | src: algorithms
@@ -1117,7 +1104,6 @@
 
 - **2026-06-18** | [Tech Interview Handbook - LeetCode](https://leetcode.com/problem-list/9h4lgwl2) | kw: Tech, Interview, Handbook, curated, problem
 
-
 - **2026-06-18** | [GitHub - soapyigu/LeetCode-Swift: Solutions to LeetCode by Swift](https://github.com/soapyigu/LeetCode-Swift) | kw: GitHub, LeetCode-Swift, Solutions, LeetCode, Swift | src: algorithms
 - **2026-06-18** | [Leetcode Algorithm Coach Guide (2026) | ShadeCoder](https://articles.shadecoder.com/what-is-leetcode-algorithm-coach-complete-guide-for-2026) | kw: Leetcode, Algorithm, Coach, ShadeCoder | src: algorithms
 
@@ -1125,7 +1111,6 @@
 - **2026-06-18** | [Data Structures & Algorithms Roadmap 2026 - Complete Learning Path | The Tutor Bridge](https://www.thetutorbridge.com/roadmap/dsa) | kw: Data, Structures, Algorithms, Roadmap
 
 - **2026-06-18** | [DSA Interview Topics & Data Structures Guide for 2026](https://content.techgig.com/career-advice/data-structures-interview-guide-internship-fresher-2026/articleshow/126670649.cms) | kw: DSA, Interview
-
 
 - **2026-06-18** | [Data Structures Interview Questions and Answers (2026) | NostrobeAI](https://www.nostrobeai.com/interview-questions/data-structures) | kw: data structures
 
@@ -1152,7 +1137,6 @@
 - **2026-06-18** | [Coding interviews: Everything you you need to prepare | Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-prep) | kw: coding, interviews, prepare | src: algorithms
 - **2026-06-18** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: data, structures, algorithms | src: algorithms
 
-
 - **2026-06-18** | [Data Structures and Algorithms - arXiv.org](https://arxiv.org/list/cs.DS/recent) | kw: Data Structures and Algorithms - arXiv.org | source: algorithms
 - **2026-06-18** | [ALGORITHMS, DATA STRUCTURES AND PROGRAMMING (ATU Library)](https://library.atu.edu.kz/files/38717.pdf) | kw: ALGORITHMS, DATA STRUCTURES AND PROGRAMMING (ATU Library) | source: algorithms
 - **2026-06-18** | [Data Structures and Algorithms May 2026 - arXiv.org](https://arxiv.org/list/cs.DS/2026-05) | kw: Data Structures and Algorithms May 2026 - arXiv.org | source: algorithms
@@ -1176,7 +1160,6 @@
 - **2026-06-17** | [Top 100+ Data Structure Interview Questions and Answers (2026 Guide)](https://interviewquestions.guru/data-structure-interview-questions-answers) | kw: interviewquestions.guru
 - **2026-06-17** | [LeetCode Patterns Won't Save You in 2026 - Add These 7 Topics](https://levelup.gitconnected.com/leetcode-patterns-wont-save-you-in-2026-add-these-7-topics-9037b82f5549) | kw: levelup.gitconnected.com
 - **2026-06-17** | [Data Structures and Algorithms Quest - LeetCode](https://leetcode.com/quest/data-structures-and-algorithms-quest/) | kw: leetcode.com
-
 
 - **2026-06-17** | [Microsoft L63-64 Interview Guides & Questions (2026)](https://www.hellointerview.com/guides/microsoft/senior) | kw: Microsoft L63-64 Interview Guides & Questions (2026) | source: algorithms
 
@@ -1362,14 +1345,12 @@
 
 - **2026-06-15** | [LeetCode Python Problems](https://leetcode.com/problemset?language=Python) | kw: LeetCode Python Problems | profile: algorithms
 
-
 - **2026-06-15** | [Coding interviews: Everything you need to prepare - Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-prep) | kw: Coding interviews Everything | profile: algorithms
 - **2026-06-15** | [LeetCode Patterns That Still Matter in 2026 - Interview AiBox](https://interviewaibox.co/en/blog/leetcode-patterns-that-still-matter-2026) | kw: LeetCode Patterns That | profile: algorithms
 - **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev](https://namastedev.com/namaste-dsa-sheet) | kw: Best DSA Sheet | profile: algorithms
 - **2026-06-15** | [LeetCode Patterns Cheat Sheet 2026: The 15 Patterns That Cover 90% of Problems - LastRound AI](https://lastroundai.com/blog/leetcode-patterns-cheat-sheet) | kw: LeetCode Patterns Cheat | profile: algorithms
 - **2026-06-15** | [LeetCode Questions for TCS 2026: 50 Problems - PapersAdda](https://papersadda.com/article/leetcode-questions-tcs-2026) | kw: LeetCode Questions TCS | profile: algorithms
 - **2026-06-15** | [Are LeetCode Interviews Still Relevant in 2026? - 4A Consulting](https://4a-consulting.com/are-leetcode-interviews-still-relevant-in-2026) | kw: Are LeetCode Interviews | profile: algorithms
-
 
 - **2026-06-15** | [Algorithms problemset](https://leetcode.com/problemset/algorithms) | kw: Algorithms,problemset | profile: algorithms
 
@@ -1390,7 +1371,6 @@
 - **2026-06-15** | [How to Prepare for a Coding Interview: The Complete LeetCode Study Plan 2026](https://careerlift.ai/blog/how-to-prepare-coding-interview-leetcode-study-plan) | kw: algorithms | profile: algorithms
 - **2026-06-15** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms | profile: algorithms
 - **2026-06-15** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms | profile: algorithms
-
 
 - **2026-06-15** | [Big-O Algorithm Complexity Cheat Sheet - Know Thy Complexities](https://www.bigocheatsheet.com/) | kw: Big-O, Algorithm, Complexity | profile: algorithms
 - **2026-06-15** | [Algorithms and Data Structures cheat sheets - Reddit](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets) | kw: Algorithms, Data, Structures | profile: algorithms
@@ -3805,7 +3785,6 @@
 - **2026-06-11** | [Best DSA Sheet 2026 | To Crack Interviews - namastedev.com](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
 - **2026-06-11** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified | by Katravalli Coding | Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
 
-
 - **2026-06-11** | [GitHub - Devinterview-io/searching-algorithms-interview-questions](https://github.com/Devinterview-io/searching-algorithms-interview-questions) | kw: algorithms, interview
 - **2026-06-11** | [The Unfair Way I Got Good At Data Structures & Algorithms - YouTube](https://www.youtube.com/watch?v=wKQgj9wO_kY) | kw: algorithms, structures
 - **2026-06-11** | [Data structures and algorithms study cheatsheets for ...](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: algorithms, structures, interview
@@ -3934,7 +3913,6 @@
 - **2026-06-11** | [Data structures and algorithms study cheatsheets for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet) | kw: coding interviews
 - **2026-06-11** | [JimengShi/Leetcode-Data-Structures-Algorithms - GitHub](https://github.com/JimengShi/Leetcode-Data-Structures-Algorithms) | kw: algorithms
 
-
 - **2026-06-11** | [I grinded NeetCode 150 so you don't have to. - Medium](https://medium.com/@codegrey/i-grinded-neetcode-150-so-you-dont-have-to-218cfa405154) | kw: algorithms
 - **2026-06-11** | [NeetCode Review: Pros, Cons & Final Verdict - Lodely](https://www.lodely.com/blog/neetcode-review) | kw: algorithms
 
@@ -4017,7 +3995,6 @@
 - **2026-06-11** | [DSA Roadmap 2026: Master Data Structures & Algo… - CoderFile.io](https://coderfile.io/blog/dsa-roadmap-2026) | kw: algorithms
 - **2026-06-11** | [How to Pass Leetcode Interviews: The Ritual That Works](https://proandroiddev.com/how-to-pass-leetcode-interviews-the-ritual-that-works-a788ff2f4f27) | kw: algorithms
 - **2026-06-11** | [LeetCode Alternatives 2026: Which Platform Fills the Gap?](https://www.codeintuition.io/blogs/leetcode-alternatives-2026) | kw: algorithms
-
 
 - **2026-06-11** | [Algorithms and Data Structures Tutorial - Full Course for... - YouTube](https://www.youtube.com/watch?v=8hly31xKli0) | kw: algorithms, structures, tutorial
 - **2026-06-11** | [LeetCode was HARD until I Learned these 15 Patterns](https://blog.algomaster.io/p/15-leetcode-patterns) | kw: leetcode, until, learned
