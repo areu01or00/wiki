@@ -221,7 +221,7 @@
         "723a72e43818348046e4c9cd461691bb",
         "fde2e620a9be8833a9c15bcafc435062"
       ],
-      "last_run": "2026-06-24 21:32 UTC",
+      "last_run": "2026-06-24 21:46 UTC",
       "new_sub_topics_this_run": [
         "System Design Patterns",
         "The Complete Guide",
@@ -239,8 +239,8 @@
         "Agentic AI",
         "James Eastham"
       ],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -343,7 +343,7 @@
         "Infrastructure",
         "Borretti",
         "course",
-        "\u201cLLVM",
+        "“LLVM",
         "JIT",
         "Developers",
         "Documentation",
@@ -465,7 +465,7 @@
         "4af36c74d389bc17e62afaf6eb9ba985",
         "df581a22e0cf096e525cbe4716c834a5"
       ],
-      "last_run": "2026-06-24 21:32 UTC",
+      "last_run": "2026-06-24 21:46 UTC",
       "new_sub_topics_this_run": [
         "The Case For Compilers",
         "Modern Language Runtimes",
@@ -480,8 +480,8 @@
         "Time Compilation",
         "Databases"
       ],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -515,7 +515,7 @@
         "CodeDocs",
         "Unexpected",
         "TypeScript6.0",
-        "G\u00e1bor",
+        "Gábor",
         "theory",
         "Online",
         "Foundations",
@@ -695,7 +695,7 @@
         "73bdf0a02b24bcdf62654e64faba83df",
         "ee7e5ae38d8096beea069d17440a80e2"
       ],
-      "last_run": "2026-06-24 21:32 UTC",
+      "last_run": "2026-06-24 21:46 UTC",
       "new_sub_topics_this_run": [
         "Static",
         "Dynamic Typing",
@@ -713,8 +713,8 @@
         "Gradual Typing",
         "Bridging"
       ],
-      "last_new_count": 9,
-      "_new_total_for_digest": 9
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -743,7 +743,7 @@
         "Metal",
         "Weekly",
         "Hacker",
-        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
+        "Rust1.74で追加された機能を使ってモナドを作ってみる",
         "Meets",
         "functional",
         "Functor",
@@ -834,7 +834,7 @@
         "Learn",
         "Functional",
         "Functional Programming in 2026: Haskell vs. Gleam vs. Rust",
-        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
         "Haskell Guide [2026]: Functional Programming That Changes How You Think",
         "Which Functional Programming Languages Should You Learn in 2026?",
         "How I Learned Monads: Not Through Haskell But Through Rust",
@@ -951,7 +951,7 @@
         "f0ebc88fd8dc88d3328d7b1d93ab1507",
         "ef0fa2a378e721a6e420bcc3ededc61a"
       ],
-      "last_run": "2026-06-24 21:32 UTC",
+      "last_run": "2026-06-24 21:46 UTC",
       "new_sub_topics_this_run": [
         "Rust Users Forum",
         "Learned Monads",
@@ -962,8 +962,8 @@
         "Haskell Weekly Newsletter",
         "Functional Programming Online Courses"
       ],
-      "last_new_count": 6,
-      "_new_total_for_digest": 6
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1211,7 +1211,7 @@
         "b7c20fac6b8a6e67d97d304fc305b430",
         "97d6faca842ad78242996da77b1fa6b6"
       ],
-      "last_run": "2026-06-24 21:32 UTC",
+      "last_run": "2026-06-24 21:46 UTC",
       "new_sub_topics_this_run": [
         "Wikipedia",
         "The Ultimate Leetcode Roadmap",
@@ -1229,8 +1229,8 @@
         "To Crack FAANG",
         "PBC"
       ],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1289,7 +1289,7 @@
         "master",
         "Memory",
         "Support",
-        "internals\u00b7",
+        "internals·",
         "Still",
         "Interpreter",
         "Everything",
@@ -1359,7 +1359,7 @@
         "Real",
         "CPython - Wikipedia",
         "GitHub - python/cpython: The Python programming language",
-        "Your Guide to the CPython Source Code \u2013 Real Python",
+        "Your Guide to the CPython Source Code – Real Python",
         "GitHub - anasoftwareus/cpython: The Python programming language",
         "Python vs Cpython - GeeksforGeeks",
         "Python in 2026: Free-Threading and UV Change Everything - Medium",
@@ -1465,7 +1465,7 @@
         "d312cb77ade078c8f1e9dac2e24a756b",
         "797c61641b09da41d0e5d490851764ce"
       ],
-      "last_run": "2026-06-24 21:32 UTC",
+      "last_run": "2026-06-24 21:46 UTC",
       "new_sub_topics_this_run": [
         "Python Global Interpreter Lock",
         "Global Interpreter Lock",
@@ -1481,9 +1481,9 @@
         "Understanding Python GIL",
         "MoldStud"
       ],
-      "last_new_count": 9,
-      "_new_total_for_digest": 9
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     }
   },
-  "last_run": "2026-06-24 21:32 UTC"
+  "last_run": "2026-06-24 21:46 UTC"
 }
