@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Fully-Automatic Type Inference for Borrows with Lifetimes](https://dl.acm.org/doi/10.1145/3798221) | kw: Fully-Automatic Type Inference for Borrows with Li
+
 - **2026-06-24** | [Type Checking System | astral-sh/ty | DeepWiki](https://deepwiki.com/astral-sh/ty/2-type-checking-system) | kw: Type Checking System | astral-sh/ty | DeepWiki
 
 - **2026-06-24** | [Announcing TypeScript 7.0 RC - devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/) | kw: Announcing TypeScript 7.0 RC - devblogs.microsoft.com

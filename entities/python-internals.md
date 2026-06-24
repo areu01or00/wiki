@@ -1,6 +1,8 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [Memory Management in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/memory-management-in-python/) | kw: Memory Management in Python - GeeksforGeeks
+
 - **2026-06-24** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python 2026: Free-Threading
 - **2026-06-24** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states global
 - **2026-06-24** | [How Pythons GIL actually works - dev.to](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Pythons actually works
