@@ -1,6 +1,8 @@
 # System Design
 
 ## Updates
+- **2026-06-24** | [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) | kw: List of software architecture styles
+
 - **2026-06-24** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The Complete Guide to System Design in 2026 - DEV Community
 - **2026-06-24** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern Software Architecture Patterns That Scale In 2026 - U
 - **2026-06-24** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50 System Design Patterns Every Engineer Should Know in 90 D
