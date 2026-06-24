@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-06-24** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems
+- **2026-06-24** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type systems
+- **2026-06-24** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type systems
+- **2026-06-24** | [Gradual typing - CodeDocs](https://codedocs.org/what-is/gradual-typing) | kw: type systems
+- **2026-06-24** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb) | kw: type systems
+- **2026-06-24** | [(PDF) Gradual typing with unification-based inference](https://www.researchgate.net/publication/220828930_Gradual_typing_with_unification-based_inference) | kw: type systems
+- **2026-06-24** | [Typescript Pro for Claude Code & Claude Desktop | mdskills.ai](https://www.mdskills.ai/skills/typescript-pro) | kw: type systems
+- **2026-06-24** | [Programming Language Typing Reference — Gera Tools](https://geratools.com/programming-language-typing-reference) | kw: type systems
+- **2026-06-24** | [Gradual Typing: Bridging the Gap Between Static and Dynamic Worlds](https://daily.jovis.ai/programming-languages/gradual-typing-bridging-the-gap-between-static-and-dynamic-worlds/) | kw: type systems
+
 - **2026-06-24** | [Gradual typing - Wikipedia](https://en.m.wikipedia.org/wiki/Gradual_typing) | kw: type systems
 - **2026-06-24** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type systems
 - **2026-06-24** | [Guard Analysis and Safe Erasure Gradual Typing: Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: type systems

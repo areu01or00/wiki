@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-24** | [Algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Algorithm) | kw: algorithms
+- **2026-06-24** | [List of algorithms - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_algorithms) | kw: algorithms
+- **2026-06-24** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: algorithms
+- **2026-06-24** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
+- **2026-06-24** | [Data Structures and Algorithms for Coding Interview — Complete Python ...](https://samirpaulb.github.io/posts/data-structures-and-algorithms-for-coding-interview/) | kw: algorithms
+- **2026-06-24** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: algorithms
+- **2026-06-24** | [Leetcode Questions Asked at Bloomberg (2026) | ShadeCoder](https://articles.shadecoder.com/top-leetcode-questions-asked-at-bloomberg-2026-compared-ranked-and-how-to-prepare) | kw: algorithms
+- **2026-06-24** | [All O`one Data Structure - LeetCode](https://leetcode.com/problems/all-oone-data-structure/) | kw: algorithms
+- **2026-06-24** | [I Tried 20+ Python DSA Courses with LeetCode Exercises on ... - Medium](https://medium.com/javarevisited/i-tried-20-python-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-ae743aaa931b) | kw: algorithms
+- **2026-06-24** | [Namaste DSA Sheet | To Crack FAANG & PBC's Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
+
 - **2026-06-24** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
 - **2026-06-24** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
 - **2026-06-24** | [LeetCode Isn't Dead in 2026 - But It's No Longer Enough](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: algorithms

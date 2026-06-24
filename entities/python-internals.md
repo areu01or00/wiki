@@ -1,6 +1,16 @@
 # Python Internals
 
 ## Updates
+- **2026-06-24** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python internals
+- **2026-06-24** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: python internals
+- **2026-06-24** | [The Future of Python Internals: Exploring GIL Removal and Other ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: python internals
+- **2026-06-24** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: python internals
+- **2026-06-24** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: python internals
+- **2026-06-24** | [Understanding Python GIL... | MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: python internals
+- **2026-06-24** | [Understanding Python GIL (Global Interpreter Lock) - w3resource](https://www.w3resource.com/python/python-global-interpreter-lock-with-examples.php) | kw: python internals
+- **2026-06-24** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: python internals
+- **2026-06-24** | [Understanding the Global Interpreter Lock (GIL) in Python](https://www.codecademy.com/article/understanding-the-global-interpreter-lock-gil-in-python) | kw: python internals
+
 - **2026-06-24** | [Welcome to Python.org](https://www.python.org/) | kw: python internals
 - **2026-06-24** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: python internals
 - **2026-06-24** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: python internals
