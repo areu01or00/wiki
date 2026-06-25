@@ -121,4 +121,5 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **krea** — cycle 4 — Krea AI Krea 2 image generation model open weights
 - **MiniMax** — cycle 9 — MiniMax AI MiniMax-M3 release new model multimodal MoE
 - **inclusion-ai** — cycle 52 — InclusionAI Ling Ring Sing-Guard open weights model release
+- **deepreinforce-ai** — cycle 56 — DeepReinforce AI Ornith model release coding agent weights
 
