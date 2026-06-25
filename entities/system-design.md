@@ -1,3 +1,8 @@
+- **2026-06-25** | [10 Essential System Design Patterns for Engineers - LinkedIn](https://www.linkedin.com/posts/alexandre-zajac_101-system-design-patterns-every-engineer-activity-7414341527348424705-HnA9) | kw: 10 essential system design patterns for
+- **2026-06-25** | [Master Microservice Event-Driven Architecture in 2026](https://www.john-pratt.com/microservice-event-driven) | kw: master microservice event-driven architecture in 2026
+- **2026-06-25** | [Microservices Architecture in 2026: Best Practices and Real-World](https://www.cortaralabs.com/blogs/microservices-architecture-2026) | kw: microservices architecture in 2026: best practices
+- **2026-06-25** | [Event-Driven Microservices Architectures: Principles, Patterns and Best](https://wjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1137.pdf) | kw: event-driven microservices architectures: principles, patterns and
+
 - **2026-06-25** | [Complete Distributed Systems Guide 2026 - College Nirnay](https://www.collegenirnay.com/articles/complete-guide-distributed-systems-beginners) | kw: complete distributed systems guide 2026 college
 
 - **2026-06-25** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system wikipedia

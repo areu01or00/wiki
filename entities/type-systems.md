@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-25** | [Gradual - Wikipedia](https://en.wikipedia.org/wiki/Gradual) | kw: gradual - wikipedia
+- **2026-06-25** | [Codex CLI for Python Type Safety: Agent-Driven Type Checking](https://codex.danielvaughan.com/2026/05/28/codex-cli-python-type-safety-agent-driven-type-checking-mypy-pyright-ty-pyrefly/) | kw: codex cli for python type safety:
+
 - **2026-06-25** | [Statically Typed vs Dynamically Typed Languages - Baeldung](https://www.baeldung.com/cs/statically-vs-dynamically-typed-languages) | kw: Statically Typed vs Dynamically Typed Languages - Baeldung
 - **2026-06-25** | [Static vs dynamic typing, would love to hear your opinions - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/q62w62/static_vs_dynamic_typing_would_love_to_hear_your/) | kw: Static vs dynamic typing, would love to hear your opinions - Reddit
 - **2026-06-25** | [Dynamically Typed Languages Are Not What You Think](https://erik-engheim.medium.com/dynamically-typed-languages-are-not-what-you-think-ac8d1392b803) | kw: Dynamically Typed Languages Are Not What You Think

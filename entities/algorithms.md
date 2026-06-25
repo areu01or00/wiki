@@ -1,3 +1,9 @@
+- **2026-06-25** | [Design Add And Search Word Data Structure - LeetCode - YouTube](https://www.youtube.com/watch?v=zDyoxl29yns) | kw: design add and search word data
+- **2026-06-25** | [dynamic-programming GitHub Topics GitHub](https://web.archive.org/web/20251113044031/https://github.com/topics/dynamic-programming) | kw: dynamic-programming github topics github
+- **2026-06-25** | [Grind 75: All 75 LeetCode Problems + Study Planner - Crackr AI](https://crackr.dev/grind75) | kw: grind 75: all 75 leetcode problems
+- **2026-06-25** | [FAANG Interview Prep: The Complete Process (2026 Guide)](https://generalistprogrammer.com/tutorials/faang-interview-prep-complete-guide) | kw: faang interview prep: the complete process
+- **2026-06-25** | [I Switched From LeetCode to AlgoMonster](https://medium.com/javarevisited/i-switched-from-leetcode-to-algomonster-and-heres-what-happened-1143d2406e0d) | kw: i switched from leetcode to algomonster
+
 - **2026-06-25** | [Is grinding DSA problems still worth it in 2026, or has the hiring meta ...](https://www.reddit.com/r/cscareerquestions/comments/1rc34r3/is_grinding_dsa_problems_still_worth_it_in_2026/) | kw: grinding dsa problems still worth 2026
 - **2026-06-25** | [How I Would Prepare for a FAANG Interview in 2026 (If I Had to Start ...](https://designgurus.substack.com/p/how-i-would-prepare-for-a-faang-interview) | kw: would prepare faang interview 2026 had
 - **2026-06-25** | [Step-by-Step Guide for FAANG Interviews in 2026 (Part 9 of 10)](https://medium.com/@emilyhustlenyc/step-by-step-guide-for-faang-interviews-in-2026-part-8-of-10-the-master-roadmap-62ba127920e9) | kw: step step guide faang interviews 2026

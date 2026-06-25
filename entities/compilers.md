@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [Reconciling high-level optimizations and low-level code in LLVM](https://dl.acm.org/doi/10.1145/3276495) | kw: reconciling high-level optimizations and low-level code
+- **2026-06-25** | [Introduction to the LLVM Compiler System - Slideshare](https://www.slideshare.net/slideshow/introduction-to-the-llvm-compiler-system/11263866) | kw: introduction to the llvm compiler system
+- **2026-06-25** | [Olympus-HPC/proteus: Programmable JIT Compilation - GitHub](https://github.com/Olympus-HPC/proteus) | kw: olympus-hpc/proteus: programmable jit compilation - github
+- **2026-06-25** | [What exactly is LLVM? - Stack Overflow](https://stackoverflow.com/questions/2354725/what-exactly-is-llvm) | kw: what exactly is llvm? - stack
+
 - **2026-06-25** | [Releases - Compiler Research](https://compiler-research.org/releases) | kw: Releases - Compiler Research
 - **2026-06-25** | [r/LLVM - Reddit](https://www.reddit.com/r/LLVM/) | kw: r/LLVM - Reddit
 

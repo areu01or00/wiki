@@ -1,3 +1,11 @@
+- **2026-06-25** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional (mathematics) - wikipedia
+- **2026-06-25** | [Functional - Wikipedia](https://en.wikipedia.org/wiki/Functional) | kw: functional - wikipedia
+- **2026-06-25** | [FUNCTIONAL definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: functional definition in the cambridge english
+- **2026-06-25** | [Documentation - Haskell](https://www.haskell.org/documentation/) | kw: documentation - haskell
+- **2026-06-25** | [Haskell](https://wiki.haskell.org/Haskell) | kw: haskell
+- **2026-06-25** | [Introduction - HaskellWiki](https://wiki.haskell.org/Introduction) | kw: introduction - haskellwiki
+- **2026-06-25** | [Learning Haskell - HaskellWiki](https://wiki.haskell.org/Learning_Haskell) | kw: learning haskell - haskellwiki
+
 - **2026-06-25** | [Frequently asked questions | Gleam programming language](https://gleam.run/frequently-asked-questions/) | kw: frequently asked questions gleam programming language
 - **2026-06-25** | [Functional Programming & Haskell - Computerphile - YouTube](https://www.youtube.com/watch?v=LnX3B9oaKzw) | kw: functional programming haskell computerphile youtube
 - **2026-06-25** | [Gleam: The New Functional Language Developers Actually Want to...](https://www.pullflow.com/blog/gleam-functional-language-developers-actually-want-to-use) | kw: gleam new functional language developers actually

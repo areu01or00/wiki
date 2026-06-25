@@ -1,3 +1,6 @@
+- **2026-06-25** | [Online Python Compiler and Visualizer - CodeChef](https://www.codechef.com/python-online-compiler) | kw: online python compiler and visualizer -
+- **2026-06-25** | [Free-threaded Python is here - Reddit](https://www.reddit.com/r/learnpython/comments/1sf5ict/freethreaded_python_is_here_but_checking_if_your/) | kw: free-threaded python is here - reddit
+
 - **2026-06-25** | [I Benchmarked Python 3.14's Free-Threading on 5 Real Tasks ...](https://python.plainenglish.io/i-benchmarked-python-3-14s-free-threading-on-5-real-tasks-here-s-what-actually-happened-d7088b7e4fed) | kw: benchmarked python free threading real tasks
 - **2026-06-25** | [r/django on Reddit: With Python 3.14 free-threading support coming ...](https://www.reddit.com/r/django/comments/1lnekfg/with_python_314_freethreading_support_coming_up/) | kw: django reddit python free threading support
 - **2026-06-25** | [[Feature] Free-Threaded Python (3.14t / nogil) Support for SGLang](https://github.com/sgl-project/sglang/issues/22889) | kw: feature free threaded python 14t nogil
