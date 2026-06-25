@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T16:42:00+00:00",
-  "__last_updated": "2026-06-25T16:42:00+00:00",
-  "last_run": "2026-06-25T16:42:00+00:00",
-  "last_explore": "2026-06-25T16:42:00+00:00",
-  "last_global_explore": "2026-06-25T16:42:00+00:00",
-  "last_discovery": "2026-06-25T16:42:00+00:00",
-  "last_run_framing": "emergent_concept: 3 fresh themes from HF 3-day window (LLM embeddings + agent document-reasoning benchmark + flow-matching driving planning)",
-  "last_framing": "emergent_concept",
-  "last_run_notes": "Run produced 3 fresh picks from HF 2026-06-23..25 LLM-relevant papers; 197 candidates fetched, 61 after strict subject-filter (CV/graphics excluded), 3 picked by LLM-flavor score (top 8/6/6). Subjects: cs.CL (EvoEmbedding, AGORA), cs.AI (FlowR2A). All 3 papers are cs.CL/cs.AI with strong LLM/agent/embedding themes — no cs.CV contamination. MERGE-then-SORT prepend to emergent-concepts.md ## Updates: 12-entry top block sorted by (date desc, arxiv_id desc). All 12 entries bullet-prefixed.",
+  "updated": "2026-06-25T16:59:44+00:00",
+  "__last_updated": "2026-06-25T16:59:44+00:00",
+  "last_run": "2026-06-25T16:59:44+00:00",
+  "last_explore": "2026-06-25T16:59:44+00:00",
+  "last_global_explore": "2026-06-25T16:59:44+00:00",
+  "last_discovery": "2026-06-25T16:59:44+00:00",
+  "last_run_framing": "2026-06-25T16:59:44+00:00",
+  "last_framing": "2026-06-25T16:59:44+00:00",
+  "last_run_notes": "HF 3-day + 1-month window (2026-06-23..2026-06-25). 206 unique IDs, 11 pre-existing (95% new). Pitfall 52 strict subject filter recovered 61 LLM candidates from 100 non_cv_metadata. 3 picks: EDV self-confirmation-trap (agentic-learning / multi-agent-consensus), PlanBench-XL (long-horizon tool planning), ReMMD (multimodal misinformation / persistent-memory-verification).",
   "last_pass_type": "emergent_concept",
   "last_run_method": "HuggingFace daily papers (2026-06-23..25) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter (pitfall 52) + LLM-flavor title scoring + 5-store dedup",
   "run_method": "hf_daily_emergent_concept",
   "last_run_added": 3,
   "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "LLM embeddings + agent document-reasoning benchmark + flow-matching driving planning",
-  "emergent_theme": "LLM embeddings + agent document-reasoning benchmark + flow-matching driving planning",
+  "emergent_concept_theme": "agentic-learning / long-horizon-planning / multimodal-verification",
+  "emergent_theme": "agentic-learning / long-horizon-planning / multimodal-verification",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 24,
+  "entities_count": 27,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -277,6 +277,36 @@
           "discovered": "2026-06-25T16:42:00+00:00",
           "theme": "LLM robotics / generative planning / flow-matching",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.24428",
+          "slug": "escaping-the-self-confirmation-trap-an-execute-distill-verify-paradigm-for-agentic-experience-learning-2606.24428",
+          "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
+          "url": "https://arxiv.org/abs/2606.24428",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-25T16:59:44+00:00",
+          "subject": "Computation and Language (cs.CL)",
+          "theme": "agentic-learning / self-evolution / multi-agent-consensus-validation"
+        },
+        {
+          "arxiv_id": "2606.22388",
+          "slug": "planbench-xl-evaluating-long-horizon-planning-of-llm-tool-use-agents-in-large-scale-tool-ecosystems-2606.22388",
+          "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
+          "url": "https://arxiv.org/abs/2606.22388",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-25T16:59:44+00:00",
+          "subject": "Artificial Intelligence (cs.AI)",
+          "theme": "agent-benchmark / long-horizon-planning / tool-retrieval"
+        },
+        {
+          "arxiv_id": "2606.24112",
+          "slug": "remmd-realistic-multilingual-multi-image-agentic-verification-for-multimodal-misinformation-detection-2606.24112",
+          "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+          "url": "https://arxiv.org/abs/2606.24112",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-25T16:59:44+00:00",
+          "subject": "Artificial Intelligence (cs.AI)",
+          "theme": "multimodal misinformation / agentic-verification / persistent-memory-evidence-set"
         }
       ],
       "last_run": "2026-06-25T16:42:00+00:00",
@@ -396,6 +426,27 @@
       "date": "2026-06-23",
       "discovered": "2026-06-25T16:42:00+00:00",
       "theme": "LLM robotics / generative planning / flow-matching"
+    },
+    {
+      "arxiv_id": "2606.24428",
+      "slug": "escaping-the-self-confirmation-trap-an-execute-distill-verify-paradigm-for-agentic-experience-learning-2606.24428",
+      "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
+      "discovered": "2026-06-25T16:59:44+00:00",
+      "theme": "agentic-learning / self-evolution / multi-agent-consensus-validation"
+    },
+    {
+      "arxiv_id": "2606.22388",
+      "slug": "planbench-xl-evaluating-long-horizon-planning-of-llm-tool-use-agents-in-large-scale-tool-ecosystems-2606.22388",
+      "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
+      "discovered": "2026-06-25T16:59:44+00:00",
+      "theme": "agent-benchmark / long-horizon-planning / tool-retrieval"
+    },
+    {
+      "arxiv_id": "2606.24112",
+      "slug": "remmd-realistic-multilingual-multi-image-agentic-verification-for-multimodal-misinformation-detection-2606.24112",
+      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "discovered": "2026-06-25T16:59:44+00:00",
+      "theme": "multimodal misinformation / agentic-verification / persistent-memory-evidence-set"
     }
   ],
   "emergent_discoveries": [
@@ -491,6 +542,21 @@
       "slug": "flowr2a-learning-reward-to-action-distribution-for-multimodal-driving-planning-2606.24231",
       "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
       "discovered": "2026-06-25T16:42:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.24428",
+      "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
+      "date": "2026-06-23"
+    },
+    {
+      "arxiv_id": "2606.22388",
+      "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
+      "date": "2026-06-21"
+    },
+    {
+      "arxiv_id": "2606.24112",
+      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "date": "2026-06-23"
     }
   ],
   "emergent_concept_search_log": [
@@ -564,6 +630,23 @@
         "LLM robotics / generative planning / flow-matching"
       ],
       "note": "HF 3-day window. Pitfall 52 confirmed (non_cv_count is title-flavor upper bound, not subject-filtered); strict subject filter recovered 61 LLM candidates from 100 non_cv_metadata. 0% pre-existing dedup rate expected on just-restored wiki with <50 entities (pitfall 58a)."
+    },
+    {
+      "ts": "2026-06-25T16:59:44.776520+00:00",
+      "window": "2026-06-23..2026-06-25",
+      "candidates_fetched": 206,
+      "after_subject_filter": 61,
+      "picks": [
+        "2606.24428",
+        "2606.22388",
+        "2606.24112"
+      ],
+      "themes": [
+        "agentic-learning / self-evolution / multi-agent-consensus-validation",
+        "agent-benchmark / long-horizon-planning / tool-retrieval",
+        "multimodal misinformation / agentic-verification / persistent-memory-evidence-set"
+      ],
+      "note": "HF 3-day + 1-month window. 95% new (11 pre-existing on just-restored wiki per pitfall 58a). Strict subject filter recovered 61 LLM candidates. 3 picks thematically distinct from prior 7 runs (avoided tool-use/structured-output, KV-cache quantization, jailbreak-detection, agent-memory, agent-benchmarking, diffusion-LLM, synthetic-data themes)."
     }
   ],
   "emergent_concept_search_runs": [
@@ -639,6 +722,17 @@
         "2606.24231"
       ],
       "method": "HF daily+monthly 3-day + strict subject filter"
+    },
+    {
+      "ts": "2026-06-25T16:59:44.776520+00:00",
+      "mode": "emergent_concept",
+      "method": "HF 3-day + 1-month + strict subject filter",
+      "picks_count": 3,
+      "pick_ids": [
+        "2606.24428",
+        "2606.22388",
+        "2606.24112"
+      ]
     }
   ],
   "runs": [
@@ -682,6 +776,16 @@
         "2606.24231"
       ],
       "method": "hf_daily_emergent_concept"
+    },
+    {
+      "ts": "2026-06-25T16:59:44.776520+00:00",
+      "type": "emergent_concept",
+      "theme": "agentic-learning / long-horizon-planning / multimodal-verification",
+      "papers_added": [
+        "escaping-the-self-confirmation-trap-an-execute-distill-verify-paradigm-for-agentic-experience-learning-2606.24428",
+        "planbench-xl-evaluating-long-horizon-planning-of-llm-tool-use-agents-in-large-scale-tool-ecosystems-2606.22388",
+        "remmd-realistic-multilingual-multi-image-agentic-verification-for-multimodal-misinformation-detection-2606.24112"
+      ]
     }
   ],
   "last_updated": "2026-06-25T16:42:00+00:00"

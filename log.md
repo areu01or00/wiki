@@ -79,3 +79,31 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 
 ### Tool budget
 - All write/commit operations completed cleanly. No pitfall 46a/47 partial-bookkeeping risk.
+
+## 2026-06-25 16:54 UTC — Wiki Explore Agent (run1654)
+
+### Discovery
+- **Window**: 3 daily HF pages (2026-06-23, 2026-06-24, 2026-06-25) + 1 monthly archive (2026-06)
+- **Total unique arxiv IDs**: 206
+- **Pre-existing on disk**: 11 (95% new — consistent with just-restored wiki per pitfall 58a)
+- **After strict subject filter (pitfall 52)**: 61 LLM-relevant candidates from 100 non_cv_metadata
+- **Bundled script's `non_cv_count` was 100 (title-flavor upper bound)**; strict subject filter recovered 61 (still well above the 9-15 non-CV baseline)
+
+### Picks (3 fresh themes, thematically distinct from prior 7 runs)
+| arxiv | title | theme |
+|---|---|---|
+| 2606.24428 | Escaping the Self-Confirmation Trap (EDV) | agentic-learning / multi-agent-consensus-validation / self-evolution |
+| 2606.22388 | PlanBench-XL | agent-benchmark / long-horizon-planning / tool-retrieval / runtime-blocking |
+| 2606.24112 | ReMMD | multimodal misinformation / agentic-verification / persistent-memory-evidence-set |
+
+### State updates
+- `explore_context.json`: 13 fields refreshed (last_run, last_explore, last_global_explore, last_discovery, last_run_framing, last_framing, last_run_notes, last_pass_type, last_run_method, run_method, last_run_added, exploration_type, emergent_concept_theme, emergent_theme, chains_updated, updated, __last_updated); `chains.emergent-concepts.papers_found` +3; `emergent_concept_papers` +3 (now 15); `emergent_discoveries` +3; `emergent_concept_search_log` +1; `emergent_concept_search_runs` +1; `runs` +1; `entities_count` 24 → 27
+- `watch_profiles.json`: 3 new hashes to top-level (12 → 15), `llm-wiki` (9 → 12), `profiles.llm-wiki-explore` (9 → 12); 3 new records to `last_results`
+
+### Cross-check
+- 15 arxiv IDs in entities/ ↔ 15 arxiv IDs in state — OK (no orphans, no extras)
+- Wikilink integrity: all [[slugs]] in 3 new entity files resolve against entities/
+- Step 5.5 check: PASS
+
+### Tool budget
+- All write/commit operations completed cleanly. No pitfall 46a/47 partial-bookkeeping risk.
