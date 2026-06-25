@@ -715,7 +715,10 @@
         "7aa5a28b0fdbbc7aae51408f90566e03",
         "9eca1ca5c1236010e5e0698d1aa89d85",
         "54be3bf50666d12cc47fe7d64f0f8ad5",
-        "2037ef7d16dc5d61be03a535e3c755d5"
+        "2037ef7d16dc5d61be03a535e3c755d5",
+        "aea41eb3e3f934647356bf52d836e08e",
+        "2dd79fa626a0d521f4f90c730699ab04",
+        "a9aecec306f36a9e6ec918a920a527a9"
       ],
       "last_results": [
         {
@@ -1017,16 +1020,43 @@
           "chain": "emergent-concepts",
           "theme": "LLM training / long-context RL / data-centric RL recipe",
           "discovered": "2026-06-25T18:44:30.175576+00:00"
+        },
+        {
+          "arxiv_id": "2606.24855",
+          "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+          "hash": "aea41eb3e3f934647356bf52d836e08e",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM agent training data / open data pipeline / recipe distillation",
+          "discovered": "2026-06-25T18:58:43.062081+00:00"
+        },
+        {
+          "arxiv_id": "2606.24597",
+          "title": "Qwen-AgentWorld: Language World Models for General Agents",
+          "hash": "2dd79fa626a0d521f4f90c730699ab04",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM world models / agentic RL / environment simulation / foundation models",
+          "discovered": "2026-06-25T18:58:43.062081+00:00"
+        },
+        {
+          "arxiv_id": "2606.23670",
+          "title": "Tapered Language Models",
+          "hash": "a9aecec306f36a9e6ec918a920a527a9",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM architecture / depth-aware capacity allocation / scaling",
+          "discovered": "2026-06-25T18:58:43.062081+00:00"
         }
       ],
-      "last_run": "2026-06-25T18:44:30.175576+00:00",
-      "last_updated": "2026-06-25T18:44:30.175576+00:00",
-      "last_result_timestamp": "2026-06-25T18:44:30.175576+00:00",
+      "last_run": "2026-06-25T18:58:43.062081+00:00",
+      "last_updated": "2026-06-25T18:58:43.062081+00:00",
+      "last_result_timestamp": "2026-06-25T18:58:43.062081+00:00",
       "last_run_key": "emergent_concept_search_3_papers_2026-06-25",
-      "last_pass_type": "emergent_concept_search"
+      "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T18:44:30.175576+00:00",
+  "last_run": "2026-06-25T18:58:43.062081+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1063,12 +1093,15 @@
     "8c4050f9c3793ed414e2cdd635423bbe",
     "9eca1ca5c1236010e5e0698d1aa89d85",
     "54be3bf50666d12cc47fe7d64f0f8ad5",
-    "2037ef7d16dc5d61be03a535e3c755d5"
+    "2037ef7d16dc5d61be03a535e3c755d5",
+    "aea41eb3e3f934647356bf52d836e08e",
+    "2dd79fa626a0d521f4f90c730699ab04",
+    "a9aecec306f36a9e6ec918a920a527a9"
   ],
-  "last_discovery": "2026-06-25T18:44:30.175576+00:00",
-  "last_updated": "2026-06-25T18:44:30.175576+00:00",
-  "__last_updated": "2026-06-25T18:44:30.175576+00:00",
-  "last_explore": "2026-06-25T18:44:30.175576+00:00",
+  "last_discovery": "2026-06-25T18:58:43.062081+00:00",
+  "last_updated": "2026-06-25T18:58:43.062081+00:00",
+  "__last_updated": "2026-06-25T18:58:43.062081+00:00",
+  "last_explore": "2026-06-25T18:58:43.062081+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1106,10 +1139,13 @@
       "7aa5a28b0fdbbc7aae51408f90566e03",
       "9eca1ca5c1236010e5e0698d1aa89d85",
       "54be3bf50666d12cc47fe7d64f0f8ad5",
-      "2037ef7d16dc5d61be03a535e3c755d5"
+      "2037ef7d16dc5d61be03a535e3c755d5",
+      "aea41eb3e3f934647356bf52d836e08e",
+      "2dd79fa626a0d521f4f90c730699ab04",
+      "a9aecec306f36a9e6ec918a920a527a9"
     ],
-    "last_discovery": "2026-06-25T18:44:30.175576+00:00",
-    "last_run": "2026-06-25T18:44:30.175576+00:00"
+    "last_discovery": "2026-06-25T18:58:43.062081+00:00",
+    "last_run": "2026-06-25T18:58:43.062081+00:00"
   },
-  "last_pass_type": "emergent_concept_search"
+  "last_pass_type": "emergent_concept"
 }

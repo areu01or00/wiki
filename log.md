@@ -259,3 +259,19 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Pitfalls cleanly avoided: 4/32/41/46/49/62 (MERGE-then-SORT + preamble preservation), 52 (strict subject filter), 28 (wikilink resolution check — all 17 new wikilinks resolved), 53 (list-shaped appends for search_runs/runs), 60 (defensive isinstance on watch sub-profiles), 63 (no execute_code in cron context — used write_file + terminal), 64 (chains_updated REPLACE not append), 65 (custom HF parser — bundled script missing), 66 (N_EXISTING_TOP > len(new_entries) safe default)
 - Step 2.5 strict subject filter recovered 80 LLM candidates from 115 raw non_cv_metadata (32 CV + 3 cs.GR + 0 cs.SD excluded); top-3 picks are all cs.CL/cs.AI/cs.IR with score=4
 - Per-run counter suffix on /tmp/ artifacts: run1830 (sibling-subagent /tmp/*.py interference fix)
+
+## 2026-06-25 18:51 UTC (run1850)
+- Emergent-concept pass via 3-day HF window (2026-06-23..2026-06-25, end_d=2026-06-25)
+- 115 raw HF papers → 80 after Step 2.5 strict subject filter (35 CV/graphics/sound excluded) → 46 fresh after 5-store dedup → 3 picks from LLM-flavor + subject-priority scoring
+- 3 new entity pages created:
+  - OpenThoughts-Agent (2606.24855, cs.AI, 2026-06-23): open end-to-end data curation pipeline for agentic LLMs; 100+ controlled ablations; 100K-example dataset; Qwen3-32B @ 44.8% avg over 7 agentic benchmarks (3.9pp > Nemotron-Terminal-32B)
+  - Qwen-AgentWorld (2606.24597, cs.CL, 2026-06-23): first family of language world models (35B-A3B + 397B-A17B) simulating 7 agentic domains via long CoT, trained on 10M+ trajectories with CPT/SFT/RL pipeline + AgentWorldBench
+  - Tapered Language Models (2606.23670, cs.LG, 2026-06-22): depth-aware capacity allocation via MLP-width cosine taper; +perplexity on 3 scales × 4 architectures (Transformer, Gated Attention, Hope-attention, Titans) at no extra params
+- Parent [[emergent-concepts]] ## Updates: 3 entries prepended via MERGE-then-SORT (N_EXISTING_TOP=8, new dates 06/22-06/23 interleaved at positions 5, 8, 11)
+- State files: explore_context.json (39 in emergent_concept_papers, 39 in chains[emergent-concepts].papers_found), watch_profiles.json (39 top-level hashes + 39 in llm-wiki + 39 in profiles.llm-wiki-explore)
+- ensure_ascii detection: explore_context=False (raw em-dash), watch_profiles=True (escaped) — divergent stable state confirmed (3rd consecutive run)
+- Step 7.5 entity↔state cross-check (post-write): 39 filesystem == 39 state arxiv IDs, 0 orphans, 0 extras
+- Pitfalls hit: NONE in main flow
+- Pitfalls cleanly avoided: 4/32/41/46/49/62/66/66b (MERGE-then-SORT + preamble preservation + N_EXISTING_TOP=len(new)+5), 52 (strict subject filter — 80 LLM candidates from 115 raw), 28 (wikilink resolution — all 9 new wikilinks resolved), 53 (list appends for search_runs/runs), 60 (defensive isinstance on watch sub-profiles — both llm-wiki + profiles.llm-wiki-explore updated cleanly), 63 (no execute_code — used write_file + terminal pattern), 64 (chains_updated REPLACE not append), 65 (custom HF parser — bundled script still missing; wrote /tmp/hf_discover_run1850.py)
+- Per-run counter suffix on all /tmp/ artifacts: run1850 (per sibling-subagent /tmp/*.py interference fix)
+- log.md presence: yes; staged in same atomic commit
