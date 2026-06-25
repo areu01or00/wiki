@@ -763,7 +763,10 @@
         "35a64d42ba6526a26e604955e4366337",
         "c692700ad7c33fa734efab968f30d63b",
         "195912b6ecd39f1dfbcbbaa141ba657c",
-        "83cc9c8c809c422bd508e4da1e1947d1"
+        "83cc9c8c809c422bd508e4da1e1947d1",
+        "160201b7f31139c27544d845486edf4b",
+        "0e583a8ea0f319c13049306e9df9f5bf",
+        "1d2e49b8f3462c8ab3543c00214d34d7"
       ],
       "last_results": [
         {
@@ -1431,16 +1434,49 @@
           "arxiv_id": "2606.21139",
           "slug": "polar-factorizing-extent-mode-latent-actions-robot-policy-2606.21139",
           "discovered": "2026-06-25T22:43:01.866479+00:00"
+        },
+        {
+          "arxiv_id": "2606.24849",
+          "slug": "iv-cot-implicit-visual-chain-of-thought-structure-aware-text-to-image-2606.24849",
+          "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "T2I / chain-of-thought / structural-reasoning / latent-visual-cascade / structure-aware-generation",
+          "discovered": "2026-06-25T22:58:26.213594+00:00",
+          "hash": "160201b7f31139c27544d845486edf4b",
+          "url": "https://arxiv.org/abs/2606.24849"
+        },
+        {
+          "arxiv_id": "2606.25306",
+          "slug": "physics-question-scene-graph-fine-grained-evaluation-physical-plausibility-text-to-video-2606.25306",
+          "title": "Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "T2V / physical-plausibility-eval / scene-graph / question-hierarchy",
+          "discovered": "2026-06-25T22:58:26.213594+00:00",
+          "hash": "0e583a8ea0f319c13049306e9df9f5bf",
+          "url": "https://arxiv.org/abs/2606.25306"
+        },
+        {
+          "arxiv_id": "2606.22875",
+          "slug": "fedot-ownership-verification-leakage-tracing-watermarks-federated-ldms-2606.22875",
+          "title": "FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "federated-learning / latent-diffusion-model / watermarking / model-security / ownership-verification / leakage-tracing",
+          "discovered": "2026-06-25T22:58:26.213594+00:00",
+          "hash": "1d2e49b8f3462c8ab3543c00214d34d7",
+          "url": "https://arxiv.org/abs/2606.22875"
         }
       ],
-      "last_run": "2026-06-25T21:32:12.732047+00:00",
+      "last_run": "2026-06-25T22:58:26.213594+00:00",
       "last_updated": "2026-06-25T21:32:12.732047+00:00",
       "last_result_timestamp": "2026-06-25T20:45:00+00:00",
       "last_run_key": "emergent_concept:2026-06-25T20:29:46.633598+00:00",
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T22:43:01.866479+00:00",
+  "last_run": "2026-06-25T22:58:26.213594+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1525,12 +1561,15 @@
     "35a64d42ba6526a26e604955e4366337",
     "c692700ad7c33fa734efab968f30d63b",
     "195912b6ecd39f1dfbcbbaa141ba657c",
-    "83cc9c8c809c422bd508e4da1e1947d1"
+    "83cc9c8c809c422bd508e4da1e1947d1",
+    "160201b7f31139c27544d845486edf4b",
+    "0e583a8ea0f319c13049306e9df9f5bf",
+    "1d2e49b8f3462c8ab3543c00214d34d7"
   ],
-  "last_discovery": "2026-06-25T22:23:00+00:00",
-  "last_updated": "2026-06-25T22:43:01.866479+00:00",
-  "__last_updated": "2026-06-25T22:43:01.866479+00:00",
-  "last_explore": "2026-06-25T22:23:00+00:00",
+  "last_discovery": "2026-06-25T22:58:26.213594+00:00",
+  "last_updated": "2026-06-25T22:58:26.213594+00:00",
+  "__last_updated": "2026-06-25T22:58:26.213594+00:00",
+  "last_explore": "2026-06-25T22:58:26.213594+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1616,11 +1655,14 @@
       "35a64d42ba6526a26e604955e4366337",
       "c692700ad7c33fa734efab968f30d63b",
       "195912b6ecd39f1dfbcbbaa141ba657c",
-      "83cc9c8c809c422bd508e4da1e1947d1"
+      "83cc9c8c809c422bd508e4da1e1947d1",
+      "160201b7f31139c27544d845486edf4b",
+      "0e583a8ea0f319c13049306e9df9f5bf",
+      "1d2e49b8f3462c8ab3543c00214d34d7"
     ],
-    "last_discovery": "2026-06-25T22:08:00+00:00",
-    "last_run": "2026-06-25T22:43:01.866479+00:00",
-    "last_updated": "2026-06-25T22:43:01.866479+00:00"
+    "last_discovery": "2026-06-25T22:58:26.213594+00:00",
+    "last_run": "2026-06-25T22:58:26.213594+00:00",
+    "last_updated": "2026-06-25T22:58:26.213594+00:00"
   },
   "last_pass_type": "emergent_concept"
 }

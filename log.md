@@ -522,3 +522,23 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Pitfalls hit: NONE in main flow (new finding: idempotent state-update pattern verified — safe_extend checks before appending; the `runs` and `emergent_concept_search_runs` fields are lists of records, not int counters — appended records with structured fields)
 - Per-run counter suffix on all /tmp/ artifacts: run2243
 - Theme-diversity discipline: continues non-agent-heavy recent streak; picks span T2I causal-reasoning eval + DiT eval discipline + robotics representation factorize
+## Run 29 — 2026-06-25 22:58 UTC — Emergent-concept search (T2V physical-plausibility-eval + federated-diffusion-watermarking + visual-CoT-structure-aware-T2I)
+
+- Mode: emergent_concept_search (chains all exhausted since 2026-05-25; 9 named chains at 4/4)
+- Method: hf_daily_emergent_concept_search (curl HF daily 3-day window + default page, SVELTE_HYDRATER unescape + raw_decode JSON-parser, LLM-keyword title filter, 5-store dedup)
+- Window: 2026-06-24..2026-06-26 (2 day-pages loaded + default page; 2026-06-26 day-page returned 0 since it isn't loaded yet)
+- Candidates surveyed: 61 unique arxiv IDs across 3 loaded sources (32 + 29 + 32 raw_decode hits; 2026-06-26 source not loaded)
+- After 5-store dedup: 24 fresh candidates
+- After LLM-keyword filter: 18 LLM-relevant
+- Picked 3 (theme-diversity — continues the non-agent-heavy recent streak with two generative-modeling angles + one security angle): T2V-physical-plausibility-eval scene-graph question-hierarchy (PQSG) + federated-diffusion-watermarking chunked + LVT (FedOT) + visual-CoT-structure-aware-T2I structural-to-semantic cascade (IV-CoT)
+- Entity files created: physics-question-scene-graph-fine-grained-evaluation-physical-plausibility-text-to-video-2606.25306.md, fedot-ownership-verification-leakage-tracing-watermarks-federated-ldms-2606.22875.md, iv-cot-implicit-visual-chain-of-thought-structure-aware-text-to-image-2606.24849.md
+- arxiv IDs added: 2606.25306, 2606.22875, 2606.24849
+- Parent updates: emergent-concepts.md ## Updates section prepended in date-DESC order (06-24 IV-CoT → 06-24 PQSG → 06-22 FedOT)
+- State files: explore_context.json (87 in emergent_concept_papers, 87 in emergent_discoveries, 78 in chains[emergent-concepts].papers_found, 29 runs, 29 emergent_concept_search_runs, 31 in emergent_concept_search_log, entities_count=99); watch_profiles.json (87 top-level + 87 in llm-wiki + 87 in profiles.llm-wiki-explore last_result_hashes; 84 in profiles.llm-wiki-explore.last_results)
+- ensure_ascii detection: explore_context=False (raw em-dash bytes preserved), watch_profiles=True (escaped) — divergent stable state confirmed (18th consecutive run)
+- Step 7.5 entity↔state cross-check (post-write): 87 filesystem arxiv IDs == 87 in emergent_concept_papers; all 3 new IDs present in both filesystem and state; entities_count claim = 99 actual = 99 (87 paper entities + 12 meta/topical entities)
+- Step 5.5 wikilink-resolution check: 0 broken across 3 new entity files (4+4+5 = 13 wikilinks resolved) AND 0 broken across all 13 wikilinks in the parent-update new block
+- Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes, 0 collisions with existing 84-hash pool
+- Pitfalls hit: NONE in main flow (NEW: explicit date-DESC verification before prepend — sorted the 24849/25306/22875 entries manually before writing the block to avoid the 20:45 pitfall; first entry written is most-recent-date IV-CoT 06-24, then same-date PQSG 06-24, then older FedOT 06-22 — verified by regex extraction of top-3 entries immediately after ## Updates)
+- Per-run counter suffix on all /tmp/ artifacts: run2258
+- Theme-diversity discipline: continues non-agent-heavy recent streak; picks span T2V physical-plausibility eval + federated diffusion security + visual CoT structure-aware T2I
