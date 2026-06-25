@@ -1,6 +1,8 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [How to build a JIT compiler in C++ with LLVM](https://isocpp.org/blog/2018/12/how-to-build-a-jit-compiler-in-cpp-with-llvm) | kw: build
+
 - **2026-06-25** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why
 - **2026-06-25** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with... - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: 2025
 - **2026-06-25** | [What is LLVM? The power behind Swift, Rust, Clang, and... | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What
