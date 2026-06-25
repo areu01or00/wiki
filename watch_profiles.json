@@ -87,7 +87,7 @@
         "2b2511b6726312c27138a13c33ba740b",
         "e87f9a35e8833eecc2efdcbadc702709"
       ],
-      "last_run": "2026-06-25 05:17 UTC",
+      "last_run": "2026-06-25 05:32 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -184,16 +184,9 @@
         "2e36db34c1a584712cd6f35f63aa33ba",
         "87f243753c96e27f2f51d8ffe87131ac"
       ],
-      "last_run": "2026-06-25 05:17 UTC",
-      "new_sub_topics_this_run": [
-        "build",
-        "compile",
-        "compiler",
-        "language",
-        "machine",
-        "toolkit"
-      ],
-      "last_new_count": 1
+      "last_run": "2026-06-25 05:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -282,7 +275,7 @@
         "ee7e5ae38d8096beea069d17440a80e2",
         "73bdf0a02b24bcdf62654e64faba83df"
       ],
-      "last_run": "2026-06-25 05:17 UTC",
+      "last_run": "2026-06-25 05:32 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -336,7 +329,7 @@
         "Wikipedia",
         "Watch",
         "Borrowing",
-        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
         "Monads Explained Without",
         "Haskell Foundation 2026 Update | Hacker News",
         "Words",
@@ -373,7 +366,7 @@
         "0f2d3172728b4c41fd9effec2767c946",
         "c091fe17605fcaf38b42d3e5f73ccacc"
       ],
-      "last_run": "2026-06-25 05:17 UTC",
+      "last_run": "2026-06-25 05:32 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -389,9 +382,9 @@
         "complexities!",
         "cs161",
         "data-structures",
-        "data-structures · GitHub Topics · GitHub",
+        "data-structures \u00b7 GitHub Topics \u00b7 GitHub",
         "datastructures-algorithms",
-        "datastructures-algorithms · GitHub Topics · GitHub",
+        "datastructures-algorithms \u00b7 GitHub Topics \u00b7 GitHub",
         "design",
         "dev",
         "dynamic",
@@ -464,7 +457,7 @@
         "7b86d151397bd3b26637162c987f0b1e",
         "12c592997364029e536d23e16e0392b2"
       ],
-      "last_run": "2026-06-25 05:17 UTC",
+      "last_run": "2026-06-25 05:32 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -555,10 +548,10 @@
         "ebcb9339197af39514c7e898223387f1",
         "4905ca43b9592a118984427f5a0b9bb9"
       ],
-      "last_run": "2026-06-25 05:17 UTC",
+      "last_run": "2026-06-25 05:32 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     }
   },
-  "last_run": "2026-06-25 05:17 UTC"
+  "last_run": "2026-06-25 05:32 UTC"
 }
