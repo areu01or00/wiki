@@ -682,7 +682,10 @@
       "last_result_hashes": [
         "9a371266785cc8a1a4edd680e2bbe849",
         "ad7cd67e9f39fa346d36b75c623c03c8",
-        "339968edc01332de74908945e0582c5d"
+        "339968edc01332de74908945e0582c5d",
+        "2436296cc2ac9e0a6816b8d213a7abc0",
+        "d790b7a89f2354621faf3dd72c363ce5",
+        "fb63f478390c9bb4a6b8364b2ade71c1"
       ],
       "last_results": [
         {
@@ -711,34 +714,67 @@
           "chain": "emergent-concepts",
           "theme": "safety / jailbreak detection / mechanistic interpretability",
           "discovered": "2026-06-25T16:13:26.227468+00:00"
+        },
+        {
+          "arxiv_id": "2606.25331",
+          "title": "Improved Large Language Diffusion Models",
+          "hash": "2436296cc2ac9e0a6816b8d213a7abc0",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM architecture frontier / non-autoregressive diffusion",
+          "discovered": "2026-06-25T16:25:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.25996",
+          "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+          "hash": "d790b7a89f2354621faf3dd72c363ce5",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM training-data / agentic-data-pipeline / synthetic-data",
+          "discovered": "2026-06-25T16:25:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.24775",
+          "title": "Are We Ready For An Agent-Native Memory System?",
+          "hash": "fb63f478390c9bb4a6b8364b2ade71c1",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM agent infrastructure / memory-systems / data-management",
+          "discovered": "2026-06-25T16:25:00+00:00"
         }
       ],
-      "last_run": "2026-06-25T16:13:26.227468+00:00",
-      "last_updated": "2026-06-25T16:13:26.227468+00:00",
-      "last_result_timestamp": "2026-06-25T16:13:26.227468+00:00",
+      "last_run": "2026-06-25T16:25:00+00:00",
+      "last_updated": "2026-06-25T16:25:00+00:00",
+      "last_result_timestamp": "2026-06-25T16:25:00+00:00",
       "last_run_key": "emergent_concept_search_3_papers_2026-06-25"
     }
   },
-  "last_run": "2026-06-25T16:14:44+00:00",
+  "last_run": "2026-06-25T16:25:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
     "339968edc01332de74908945e0582c5d",
     "23ce456ff96df44a5dfb0e51911631c6",
     "7aa5a28b0fdbbc7aae51408f90566e03",
-    "f3937af719873c58af74b850497884eb"
+    "f3937af719873c58af74b850497884eb",
+    "2436296cc2ac9e0a6816b8d213a7abc0",
+    "d790b7a89f2354621faf3dd72c363ce5",
+    "fb63f478390c9bb4a6b8364b2ade71c1"
   ],
-  "last_discovery": "2026-06-25T16:13:26.227468+00:00",
-  "last_updated": "2026-06-25T16:14:44+00:00",
-  "__last_updated": "2026-06-25T16:14:44+00:00",
-  "last_explore": "2026-06-25T16:13:26.227468+00:00",
+  "last_discovery": "2026-06-25T16:25:00+00:00",
+  "last_updated": "2026-06-25T16:25:00+00:00",
+  "__last_updated": "2026-06-25T16:25:00+00:00",
+  "last_explore": "2026-06-25T16:25:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
       "ad7cd67e9f39fa346d36b75c623c03c8",
-      "339968edc01332de74908945e0582c5d"
+      "339968edc01332de74908945e0582c5d",
+      "2436296cc2ac9e0a6816b8d213a7abc0",
+      "d790b7a89f2354621faf3dd72c363ce5",
+      "fb63f478390c9bb4a6b8364b2ade71c1"
     ],
-    "last_discovery": "2026-06-25T16:13:26.227468+00:00",
-    "last_run": "2026-06-25T16:13:26.227468+00:00"
+    "last_discovery": "2026-06-25T16:25:00+00:00",
+    "last_run": "2026-06-25T16:25:00+00:00"
   }
 }

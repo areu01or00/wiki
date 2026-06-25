@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T16:14:44+00:00",
-  "__last_updated": "2026-06-25T16:14:44+00:00",
-  "last_run": "2026-06-25T16:14:44+00:00",
-  "last_explore": "2026-06-25T16:14:44+00:00",
-  "last_global_explore": "2026-06-25T16:14:44+00:00",
-  "last_discovery": "2026-06-25T16:14:44+00:00",
-  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_llm-agents-reasoning-survey-benchmark",
-  "last_framing": "LLM agents + LLM reasoning survey + LLM agent benchmarking (3 fresh themes absent from prior 2026-06-25 baseline)",
-  "last_run_notes": "Emergent-concept run on a freshly restored wiki (12 baseline entities, 9 named chains all at 4/4 since 2026-05-25). web_search topic queries surfaced 12 fresh June-2026 candidates spanning agents (2606.23525, 2606.13643, 2606.23991, 2606.05405), reasoning (2606.11470, 2606.16222), long-context (2605.02173, 2606.20898, 2604.15153), and MoE (2604.14419, 2604.14246). Picked 3 with strongest thematic diversity and freshest writeable pages: Self-Compacting Agents (LLM agents / context-management), Periodic Table of LLM Reasoning (reasoning / survey / taxonomy), and Agents' Last Exam (agent benchmarking / evaluation). All 12 candidates deduped clean against existing entities; 3 new entity pages written + 1 parent Updates prepend on emergent-concepts.md.",
-  "last_pass_type": "emergent_concept_search",
-  "last_run_method": "web_search title-quoted topic queries (LLM reasoning / MoE / long-context) + arxiv abs-page meta extraction",
-  "run_method": "web_search_topic_queries + arxiv_meta",
+  "updated": "2026-06-25T16:25:00+00:00",
+  "__last_updated": "2026-06-25T16:25:00+00:00",
+  "last_run": "2026-06-25T16:25:00+00:00",
+  "last_explore": "2026-06-25T16:25:00+00:00",
+  "last_global_explore": "2026-06-25T16:25:00+00:00",
+  "last_discovery": "2026-06-25T16:25:00+00:00",
+  "last_run_framing": "emergent_concept: 3 fresh themes from HF 3-day window (masked-diffusion LLM + agentic-data-scientist + agent-native memory)",
+  "last_framing": "emergent_concept",
+  "last_run_notes": "Run produced 3 fresh picks from HF 2026-06-23..25 LLM-relevant papers; 108/108 candidates were pre-existing-fresh (just-restored state).",
+  "last_pass_type": "emergent_concept",
+  "last_run_method": "HuggingFace daily papers (2026-06-23..25) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter cs.CL/cs.LG/cs.AI/cs.IR",
+  "run_method": "hf_daily_emergent_concept",
   "last_run_added": 3,
-  "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "LLM agents (self-compaction / trace management) + LLM reasoning (periodic-table survey / taxonomy) + LLM agent benchmarking (Agents' Last Exam / ALE) \u2014 3 fresh themes absent from prior 2026-06-25 baseline",
-  "emergent_theme": "LLM agents / context-management (Self-Compacting Language Model Agents) + LLM reasoning / survey / taxonomy (The Periodic Table of LLM Reasoning) + LLM agents / benchmarking / evaluation (Agents' Last Exam)",
+  "exploration_type": "emergent_concept",
+  "emergent_concept_theme": "non-autoregressive diffusion LLM + agentic-data-pipeline + agent-memory-systems",
+  "emergent_theme": "non-autoregressive diffusion LLM + agentic-data-pipeline + agent-memory-systems",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 18,
+  "entities_count": 21,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -217,10 +217,40 @@
           "discovered": "2026-06-25T16:14:44+00:00",
           "vector": "emergent_concept_search",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.25331",
+          "slug": "improved-large-language-diffusion-models-2606.25331",
+          "title": "Improved Large Language Diffusion Models",
+          "url": "https://arxiv.org/abs/2606.25331",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:25:00+00:00",
+          "theme": "LLM architecture frontier / non-autoregressive diffusion",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.25996",
+          "slug": "autodata-an-agentic-data-scientist-to-create-high-quality-synthetic-data-2606.25996",
+          "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+          "url": "https://arxiv.org/abs/2606.25996",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:25:00+00:00",
+          "theme": "LLM training-data / agentic-data-pipeline / synthetic-data",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.24775",
+          "slug": "are-we-ready-for-an-agent-native-memory-system-2606.24775",
+          "title": "Are We Ready For An Agent-Native Memory System?",
+          "url": "https://arxiv.org/abs/2606.24775",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:25:00+00:00",
+          "theme": "LLM agent infrastructure / memory-systems / data-management",
+          "chain": "emergent-concepts"
         }
       ],
-      "last_run": "2026-06-25T16:14:44+00:00",
-      "last_explore": "2026-06-25T16:14:44+00:00",
+      "last_run": "2026-06-25T16:25:00+00:00",
+      "last_explore": "2026-06-25T16:25:00+00:00",
       "last_run_added": 0,
       "papers_found_count": 79,
       "run_method": "emergent-concept",
@@ -279,6 +309,33 @@
       "url": "https://arxiv.org/abs/2606.05405",
       "theme": "LLM agents / benchmarking / evaluation",
       "discovered": "2026-06-25T16:14:44+00:00"
+    },
+    {
+      "arxiv_id": "2606.25331",
+      "slug": "improved-large-language-diffusion-models-2606.25331",
+      "title": "Improved Large Language Diffusion Models",
+      "url": "https://arxiv.org/abs/2606.25331",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T16:25:00+00:00",
+      "theme": "LLM architecture frontier / non-autoregressive diffusion"
+    },
+    {
+      "arxiv_id": "2606.25996",
+      "slug": "autodata-an-agentic-data-scientist-to-create-high-quality-synthetic-data-2606.25996",
+      "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+      "url": "https://arxiv.org/abs/2606.25996",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T16:25:00+00:00",
+      "theme": "LLM training-data / agentic-data-pipeline / synthetic-data"
+    },
+    {
+      "arxiv_id": "2606.24775",
+      "slug": "are-we-ready-for-an-agent-native-memory-system-2606.24775",
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "url": "https://arxiv.org/abs/2606.24775",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T16:25:00+00:00",
+      "theme": "LLM agent infrastructure / memory-systems / data-management"
     }
   ],
   "emergent_discoveries": [
@@ -329,6 +386,33 @@
       "url": "https://arxiv.org/abs/2606.05405",
       "discovered": "2026-06-25T16:14:44+00:00",
       "theme": "LLM agents / benchmarking / evaluation"
+    },
+    {
+      "arxiv_id": "2606.25331",
+      "slug": "improved-large-language-diffusion-models-2606.25331",
+      "title": "Improved Large Language Diffusion Models",
+      "url": "https://arxiv.org/abs/2606.25331",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T16:25:00+00:00",
+      "theme": "LLM architecture frontier / non-autoregressive diffusion"
+    },
+    {
+      "arxiv_id": "2606.25996",
+      "slug": "autodata-an-agentic-data-scientist-to-create-high-quality-synthetic-data-2606.25996",
+      "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+      "url": "https://arxiv.org/abs/2606.25996",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T16:25:00+00:00",
+      "theme": "LLM training-data / agentic-data-pipeline / synthetic-data"
+    },
+    {
+      "arxiv_id": "2606.24775",
+      "slug": "are-we-ready-for-an-agent-native-memory-system-2606.24775",
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "url": "https://arxiv.org/abs/2606.24775",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T16:25:00+00:00",
+      "theme": "LLM agent infrastructure / memory-systems / data-management"
     }
   ],
   "emergent_concept_search_log": [
@@ -366,6 +450,24 @@
         "LLM agents / context-management / inference-efficiency",
         "LLM reasoning / survey / taxonomy",
         "LLM agents / benchmarking / evaluation"
+      ]
+    },
+    {
+      "ts": "2026-06-25T16:25:00+00:00",
+      "papers_found": [
+        "improved-large-language-diffusion-models-2606.25331",
+        "autodata-an-agentic-data-scientist-to-create-high-quality-synthetic-data-2606.25996",
+        "are-we-ready-for-an-agent-native-memory-system-2606.24775"
+      ],
+      "arxiv_ids": [
+        "2606.25331",
+        "2606.25996",
+        "2606.24775"
+      ],
+      "themes": [
+        "LLM architecture frontier / non-autoregressive diffusion",
+        "LLM training-data / agentic-data-pipeline / synthetic-data",
+        "LLM agent infrastructure / memory-systems / data-management"
       ]
     }
   ],
@@ -411,6 +513,27 @@
       ],
       "thematic_framing": "LLM agents / context-management (Self-Compacting Agents) + LLM reasoning / survey / taxonomy (Periodic Table) + LLM agents / benchmarking / evaluation (Agents' Last Exam)",
       "dedup_rate": "12 candidates surveyed, 12 fresh (no entity-file collisions; wiki was freshly restored with 12 baseline entities); 3 picked: 2606.23525 (cs.CL, 2026-06-22), 2606.11470 (cs.CL, 2026-06-09), 2606.05405 (cs.AI, 2026-06-03)"
+    },
+    {
+      "ts": "2026-06-25T16:25:00+00:00",
+      "method": "HuggingFace daily papers (3 days: 2026-06-23..25) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter cs.CL/cs.LG/cs.AI/cs.IR",
+      "papers": [
+        "2606.25331",
+        "2606.25996",
+        "2606.24775"
+      ],
+      "slugs": [
+        "improved-large-language-diffusion-models-2606.25331",
+        "autodata-an-agentic-data-scientist-to-create-high-quality-synthetic-data-2606.25996",
+        "are-we-ready-for-an-agent-native-memory-system-2606.24775"
+      ],
+      "themes": [
+        "LLM architecture frontier / non-autoregressive diffusion",
+        "LLM training-data / agentic-data-pipeline / synthetic-data",
+        "LLM agent infrastructure / memory-systems / data-management"
+      ],
+      "thematic_framing": "non-autoregressive diffusion LLM (iLLaDA) + agentic-data-pipeline (Autodata) + agent-memory-systems (Agent-Native Memory)",
+      "dedup_rate": "0/108 pre-existing (just-restored state; all 3 picks clean across 4 hash stores and filesystem suffixes"
     }
   ],
   "runs": [
@@ -433,6 +556,17 @@
         "the-periodic-table-of-llm-reasoning-a-structured-survey-of-reasoning-paradigms-abstractions-building-blocks-and-open-challenges-2606.11470",
         "agents-last-exam-2606.05405"
       ]
+    },
+    {
+      "timestamp": "2026-06-25T16:25:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "non-autoregressive diffusion LLM + agentic-data-pipeline + agent-memory-systems (3 fresh themes)",
+      "papers_added": [
+        "improved-large-language-diffusion-models-2606.25331",
+        "autodata-an-agentic-data-scientist-to-create-high-quality-synthetic-data-2606.25996",
+        "are-we-ready-for-an-agent-native-memory-system-2606.24775"
+      ]
     }
-  ]
+  ],
+  "last_updated": "2026-06-25T16:25:00+00:00"
 }
