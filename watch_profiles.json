@@ -65,9 +65,21 @@
         "Resources",
         "Here",
         "System Wikipedia",
-        "System film"
+        "System film",
+        "2 Patterns for Resilience Beyond Multi-AZ",
+        "resilience patterns",
+        "System Design: Mock System Design Interview: Design URL...",
+        "URL shortener",
+        "AI Agent Architecture Patterns: ReAct, Plan-and-Execute, Mul",
+        "AI agent architecture",
+        "Database Per Service vs Shared Database: Microservices Data.",
+        "microservices database"
       ],
       "last_result_hashes": [
+        "bb714ad6af53a799cae8059a4e4c6a28",
+        "5289353cd0420bc31c3dd763d49f1986",
+        "5a9c2a8c552b1efa7bcc9eea205a8b46",
+        "d4c47f619e9e965851bc79eb7c352836",
         "94c1b0f099f1d566f3fdedccba3cf97b",
         "91dac6710169bf7346d4292a6eb2d0c9",
         "2329422a9910ab33981727a77f2ecd37",
@@ -83,18 +95,20 @@
         "4a75975bbd7ceb861d5fe114d0669e90",
         "e2648b84ec2d1b998a39b3fd67a6c7f1",
         "ca7da9ec39a8c21c806542d8b630d44a",
-        "e386d25ff1816abec2a4433c860ed876",
-        "7081dd1b400bb4714cd8471a6b9ec387",
-        "723a72e43818348046e4c9cd461691bb",
-        "fde2e620a9be8833a9c15bcafc435062",
-        "8830f5c5b6cd726238d8b95b8717a431"
+        "e386d25ff1816abec2a4433c860ed876"
       ],
-      "last_run": "2026-06-25 06:19 UTC",
+      "last_run": "2026-06-25 06:32 UTC",
       "new_sub_topics_this_run": [
-        "System Wikipedia",
-        "System film"
+        "2 Patterns for Resilience Beyond Multi-AZ",
+        "resilience patterns",
+        "System Design: Mock System Design Interview: Design URL...",
+        "URL shortener",
+        "AI Agent Architecture Patterns: ReAct, Plan-and-Execute, Mul",
+        "AI agent architecture",
+        "Database Per Service vs Shared Database: Microservices Data.",
+        "microservices database"
       ],
-      "last_new_count": 2
+      "last_new_count": 4
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -194,19 +208,9 @@
         "82bd6cb1694f9adc9d2067aafcbe6c25",
         "86768d8752a6979c5c8cea02f676f762"
       ],
-      "last_run": "2026-06-25 06:19 UTC",
-      "new_sub_topics_this_run": [
-        "809 software",
-        "643 software",
-        "581 Software",
-        "software engineer",
-        "In-Demand software",
-        "The LLVM Compiler Infrastructure Project",
-        "2025 EuroLLVM",
-        "What is LLVM? The power behind Swift, Ru",
-        "A Minimal LLVM JIT example for LLVM-5"
-      ],
-      "last_new_count": 4
+      "last_run": "2026-06-25 06:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -299,14 +303,9 @@
         "8def5ac28caf3d0c145465a52adec4c4",
         "0940c3cea7239d5389eb0d921777f44c"
       ],
-      "last_run": "2026-06-25 06:19 UTC",
-      "new_sub_topics_this_run": [
-        "Elixir v120",
-        "Guard Analysis",
-        "Elixirs Gradual",
-        "Efficient Selection"
-      ],
-      "last_new_count": 4
+      "last_run": "2026-06-25 06:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -358,7 +357,7 @@
         "Wikipedia",
         "Watch",
         "Borrowing",
-        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
         "Monads Explained Without",
         "Haskell Foundation 2026 Update | Hacker News",
         "Words",
@@ -400,18 +399,9 @@
         "2ce5775930209e8a8c3a28a2f7f1a4a5",
         "48e396ad3bb766dd1b0be8823cba3259"
       ],
-      "last_run": "2026-06-25 06:19 UTC",
-      "new_sub_topics_this_run": [
-        "Hello Haskell",
-        "lang r/functionalprogramming",
-        "Functional Programmers",
-        "Brutal Truth",
-        "Pure Borrow",
-        "How I Learned Monads: Not Through Haskel",
-        "Hello, Haskell: Getting Started in 2026",
-        "The Practical Value of Functional Progra"
-      ],
-      "last_new_count": 3
+      "last_run": "2026-06-25 06:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -425,9 +415,9 @@
         "complexities!",
         "cs161",
         "data-structures",
-        "data-structures \u00b7 GitHub Topics \u00b7 GitHub",
+        "data-structures · GitHub Topics · GitHub",
         "datastructures-algorithms",
-        "datastructures-algorithms \u00b7 GitHub Topics \u00b7 GitHub",
+        "datastructures-algorithms · GitHub Topics · GitHub",
         "design",
         "dev",
         "dynamic",
@@ -480,9 +470,12 @@
         "algorithms-datastructures GitHub",
         "Leetcode data",
         "FAANG Interview",
-        "Algorithms Data"
+        "Algorithms Data",
+        "Kotak%20mahindra%20bank Interview Questions & Experiences 20",
+        "Kotak Mahindra interview"
       ],
       "last_result_hashes": [
+        "db4e70fe3369b860a804f7230900f524",
         "c559f855463864f3db44a42b634b4fdd",
         "1de5e6c214f5c903677b0790487ad033",
         "e9f35abfd88f89c69621cb462d294c7e",
@@ -501,19 +494,14 @@
         "9db2dd1ef6aa351897802aec83281fe2",
         "f822dd4d7a9290624864e5a92712ba08",
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
-        "c047a018ea3c082f89d714707176a9b7",
-        "01ddf5f9016e80c0617e0023227ad5ad"
+        "c047a018ea3c082f89d714707176a9b7"
       ],
-      "last_run": "2026-06-25 06:19 UTC",
+      "last_run": "2026-06-25 06:32 UTC",
       "new_sub_topics_this_run": [
-        "algorithms-datastructures GitHub",
-        "Leetcode data",
-        "FAANG Interview",
-        "Algorithms Data",
-        "LeetCode Review (2026): Is It Worth It?",
-        "Design Add and Search Words Data Structu"
+        "Kotak%20mahindra%20bank Interview Questions & Experiences 20",
+        "Kotak Mahindra interview"
       ],
-      "last_new_count": 2
+      "last_new_count": 1
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -606,16 +594,10 @@
         "83c76331b8d186cc5d695017f50eb5fb",
         "a454e6bd90dd4ae1795224af7e27c1bb"
       ],
-      "last_run": "2026-06-25 06:19 UTC",
-      "new_sub_topics_this_run": [
-        "Internals Python",
-        "What Python",
-        "Best YouTube",
-        "Fix windows",
-        "Top 50 Python Interview Questions and An"
-      ],
-      "last_new_count": 1
+      "last_run": "2026-06-25 06:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0
     }
   },
-  "last_run": "2026-06-25 06:19 UTC"
+  "last_run": "2026-06-25 06:32 UTC"
 }

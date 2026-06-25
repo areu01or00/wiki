@@ -4082,3 +4082,8 @@
 - **2026-06-11** | [towardsdatascience.com](https://towardsdatascience.com/) | kw: towardsdatascience.com
 - **2026-06-11** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: problems, leetcode
 - **2026-06-11** | [10 Top LeetCode Patterns to Crack FAANG Coding Interviews](https://www.designgurus.io/blog/top-lc-patterns) | kw: leetcode, patterns, crack
+
+
+## Updates
+
+- **2026-06-25** | [Kotak%20mahindra%20bank Interview Questions & Experiences 2026](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/Kotak+Mahindra+Bank) | kw: Kotak Mahindra interview

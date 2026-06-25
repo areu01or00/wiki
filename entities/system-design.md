@@ -3591,6 +3591,11 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-06-25** | [2 Patterns for Resilience Beyond Multi-AZ](https://blog.simukappu.com/resilience-beyond-multi-az-bulkheads-and-shock-absorbers-architecture-dojo-2024) | kw: resilience patterns
+- **2026-06-25** | [System Design: Mock System Design Interview: Design URL...](https://blog.felipefr.dev/mock-system-design-interview-design-url-shortener) | kw: URL shortener
+- **2026-06-25** | [AI Agent Architecture Patterns: ReAct, Plan-and-Execute, Multi-Agent](https://openclaw-ai.net/en/blog/ai-agent-architecture-patterns-2026) | kw: AI agent architecture
+- **2026-06-25** | [Database Per Service vs Shared Database: Microservices Data...](https://devstarsj.github.io/2026/03/12/microservices-database-patterns-2026/) | kw: microservices database
+
 - **2026-06-25** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System Wikipedia
 - **2026-06-25** | [System (2026 film) - Wikipedia](https://en.wikipedia.org/wiki/System_(2026_film)) | kw: System film
 
