@@ -733,7 +733,10 @@
         "b72cd1615c069019e8cb2b465a9515f4",
         "654f8c1ab69d61a3ddc792d348454dee",
         "9cafa9dc4c0f91c10e804e1a6bd43cf9",
-        "34b716c0c1cef5bb98920f93d16b1bd9"
+        "34b716c0c1cef5bb98920f93d16b1bd9",
+        "32922e6a20cc8dbc1f7ef7d922e90c35",
+        "0ad40d7acca10892766914088f90a88a",
+        "65b5ca74e9622aefa917c0bacb1a2b4a"
       ],
       "last_results": [
         {
@@ -1176,16 +1179,43 @@
           "chain": "emergent-concepts",
           "theme": "LLM reasoning / self-distillation / RL-training-method",
           "discovered": "2026-06-25T20:14:53.048457+00:00"
+        },
+        {
+          "arxiv_id": "2606.24937",
+          "slug": "the-hitchhikers-guide-to-agentic-ai-from-foundations-to-systems-2606.24937",
+          "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+          "url": "https://arxiv.org/abs/2606.24937",
+          "theme": "agentic-systems practitioner reference / cross-layer systems engineering",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:29:46.633598+00:00"
+        },
+        {
+          "arxiv_id": "2606.22883",
+          "slug": "cli-universe-towards-verifiable-task-synthesis-engine-for-terminal-agents-2606.22883",
+          "title": "CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents",
+          "url": "https://arxiv.org/abs/2606.22883",
+          "theme": "LLM agent training-data / terminal-agent verifiable task synthesis",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:29:46.633598+00:00"
+        },
+        {
+          "arxiv_id": "2606.21638",
+          "slug": "toward-open-weight-models-without-risks-separating-public-and-private-capabilities-in-llms-2606.21638",
+          "title": "Toward Open Weight Models Without Risks: Separating Public and Private Capabilities in LLMs",
+          "url": "https://arxiv.org/abs/2606.21638",
+          "theme": "LLM safety / open-weight deployment / capability separation",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:29:46.633598+00:00"
         }
       ],
-      "last_run": "2026-06-25T20:14:53.048457+00:00",
-      "last_updated": "2026-06-25T20:14:53.048457+00:00",
-      "last_result_timestamp": "2026-06-25T20:14:53.048457+00:00",
-      "last_run_key": "emergent_concept_search_3_papers_2026-06-25",
-      "last_pass_type": "emergent-concept"
+      "last_run": "2026-06-25T20:29:46.633598+00:00",
+      "last_updated": "2026-06-25T20:29:46.633598+00:00",
+      "last_result_timestamp": "2026-06-25T20:29:46.633598+00:00",
+      "last_run_key": "emergent_concept:2026-06-25T20:29:46.633598+00:00",
+      "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T20:14:53.048457+00:00",
+  "last_run": "2026-06-25T20:29:46.633598+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1240,12 +1270,15 @@
     "b72cd1615c069019e8cb2b465a9515f4",
     "654f8c1ab69d61a3ddc792d348454dee",
     "9cafa9dc4c0f91c10e804e1a6bd43cf9",
-    "34b716c0c1cef5bb98920f93d16b1bd9"
+    "34b716c0c1cef5bb98920f93d16b1bd9",
+    "32922e6a20cc8dbc1f7ef7d922e90c35",
+    "0ad40d7acca10892766914088f90a88a",
+    "65b5ca74e9622aefa917c0bacb1a2b4a"
   ],
-  "last_discovery": "2026-06-25T20:14:53.048457+00:00",
-  "last_updated": "2026-06-25T20:14:53.048457+00:00",
-  "__last_updated": "2026-06-25T20:14:53.048457+00:00",
-  "last_explore": "2026-06-25T20:14:53.048457+00:00",
+  "last_discovery": "2026-06-25T20:29:46.633598+00:00",
+  "last_updated": "2026-06-25T20:29:46.633598+00:00",
+  "__last_updated": "2026-06-25T20:29:46.633598+00:00",
+  "last_explore": "2026-06-25T20:29:46.633598+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1301,10 +1334,13 @@
       "b72cd1615c069019e8cb2b465a9515f4",
       "654f8c1ab69d61a3ddc792d348454dee",
       "9cafa9dc4c0f91c10e804e1a6bd43cf9",
-      "34b716c0c1cef5bb98920f93d16b1bd9"
+      "34b716c0c1cef5bb98920f93d16b1bd9",
+      "32922e6a20cc8dbc1f7ef7d922e90c35",
+      "0ad40d7acca10892766914088f90a88a",
+      "65b5ca74e9622aefa917c0bacb1a2b4a"
     ],
-    "last_discovery": "2026-06-25T20:14:53.048457+00:00",
-    "last_run": "2026-06-25T20:14:53.048457+00:00"
+    "last_discovery": "2026-06-25T20:29:46.633598+00:00",
+    "last_run": "2026-06-25T20:29:46.633598+00:00"
   },
-  "last_pass_type": "emergent-concept"
+  "last_pass_type": "emergent_concept"
 }
