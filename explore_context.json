@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T17:43:19.950910+00:00",
-  "__last_updated": "2026-06-25T17:43:19.950910+00:00",
-  "last_run": "2026-06-25T17:43:19.950910+00:00",
-  "last_explore": "2026-06-25T17:43:19.950910+00:00",
-  "last_global_explore": "2026-06-25T17:43:19.950910+00:00",
-  "last_discovery": "2026-06-25T17:43:19.950910+00:00",
-  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_agentic-privacy-data-mixing-enterprise-eval",
-  "last_framing": "agentic-privacy + pretraining-data-mixing + enterprise-agent-benchmarking (3 fresh themes absent from prior N runs)",
-  "last_run_notes": "Run at 2026-06-25 17:39 UTC. Method: HF 3-day daily + monthly window (188 unique IDs, 60 candidates after pitfall-52 strict subject filter, 3 picked all fresh). Picks: PrivacyAlign (cs.CL) reframes privacy as contextual alignment for tool-using LLM agents; Holistic Data Scheduler (cs.LG) reframes online data mixing as multi-objective RL; EnterpriseClawBench (cs.CL) builds 852-task benchmark from real workplace sessions. All 3 entries prepended to emergent-concepts.md via merge-then-sort (top-8 re-sort, arxiv-ID desc; preamble preserved per pitfall 62).",
+  "updated": "2026-06-25T17:58:13.532300+00:00",
+  "__last_updated": "2026-06-25T17:58:13.532300+00:00",
+  "last_run": "2026-06-25T17:58:13.532300+00:00",
+  "last_explore": "2026-06-25T17:58:13.532300+00:00",
+  "last_global_explore": "2026-06-25T17:58:13.532300+00:00",
+  "last_discovery": "2026-06-25T17:58:13.532300+00:00",
+  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_2026-06-25T17:58-renio-phonebuddy-multimodal-cot-audit",
+  "last_framing": "on-policy-distillation negative-importance (renio) + mobile-phone-use open-training (phonebuddy) + multimodal-cot-capability-audit (look-light-think-heavy)",
+  "last_run_notes": "Run at 2026-06-25T17:58 UTC. Method: HF 3-day window + strict subject filter (pitfall 52) + LLM-flavor scoring + 5-store dedup. 3 picks all cs.CL/cs.LG, all overlap=0 vs prior 36 themes. New themes: on-policy-distillation negative-importance estimation, mobile-deployment training-data for open phone-use agents, multimodal-CoT capability audit (when does CoT actually help vs hurt in multimodal settings). All 3 entries prepended to emergent-concepts.md via MERGE-then-SORT (top-8 re-sort; my Jun 21/22 entries landed at positions 6-8 below existing Jun 23/24 entries).",
   "last_pass_type": "emergent_concept_search",
-  "last_run_method": "HuggingFace daily papers (3-day window) + monthly archive + strict subject filter",
+  "last_run_method": "HuggingFace daily papers (3-day window) + monthly archive + strict subject filter + LLM-flavor title scoring",
   "run_method": "hf_daily_papers_3day + arxiv_meta + strict_subject_filter",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "agentic-privacy / contextual-alignment / pretraining-efficiency / data-mixing / multi-objective-RL / enterprise-agent-evaluation / real-workflow-benchmarking (3 fresh themes absent from prior N runs)",
-  "emergent_theme": "agentic-privacy (privacyalign-contextual-privacy-alignmen) + pretraining-data-mixing (holistic-data-scheduler-for-llm-pre-trai) + enterprise-agent-benchmarking (enterpriseclawbench-benchmarking-agents-)",
+  "emergent_concept_theme": "LLM distillation / on-policy training (ReNIO negative-importance) + LLM agents / mobile-deployment (PhoneBuddy open phone-use training data) + multimodal reasoning / chain-of-thought evaluation (Look-Light-Think-Heavy CoT capability audit)",
+  "emergent_theme": "on-policy-distillation negative-importance (renio-reweighting-negative-trajectory) + mobile-deployment open-training (phonebuddy-training-open-models) + multimodal-cot-capability-audit (look-light-think-heavy)",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 36,
+  "entities_count": 39,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -388,15 +388,51 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-25T17:43:19.950910+00:00",
           "theme": "enterprise-agent-evaluation / real-workflow-benchmarking"
+        },
+        {
+          "arxiv_id": "2606.23104",
+          "slug": "renio-reweighting-negative-trajectory-importance-for-llm-on-policy-distillation-2606.23104",
+          "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
+          "url": "https://arxiv.org/abs/2606.23104",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:58:13.532300+00:00",
+          "theme": "LLM distillation / on-policy training / negative-trajectory-importance",
+          "subject": "Machine Learning (cs.LG)",
+          "date": "2026/06/22",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.23049",
+          "slug": "phonebuddy-training-open-models-for-agentic-phone-use-2606.23049",
+          "title": "PhoneBuddy: Training Open Models for Agentic Phone Use",
+          "url": "https://arxiv.org/abs/2606.23049",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:58:13.532300+00:00",
+          "theme": "LLM agents / mobile-deployment / phone-use / open-model-training-data",
+          "subject": "Computation and Language (cs.CL)",
+          "date": "2026/06/22",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.22565",
+          "slug": "look-light-think-heavy-what-multimodal-chain-of-thought-reasoning-can-and-cannot-do-2606.22565",
+          "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+          "url": "https://arxiv.org/abs/2606.22565",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:58:13.532300+00:00",
+          "theme": "multimodal reasoning / chain-of-thought evaluation / CoT-audit",
+          "subject": "Computation and Language (cs.CL)",
+          "date": "2026/06/21",
+          "chain": "emergent-concepts"
         }
       ],
-      "last_run": "2026-06-25T17:43:19.950910+00:00",
-      "last_explore": "2026-06-25T17:43:19.950910+00:00",
+      "last_run": "2026-06-25T17:58:13.532300+00:00",
+      "last_explore": "2026-06-25T17:58:13.532300+00:00",
       "last_run_added": 3,
-      "papers_found_count": 82,
+      "papers_found_count": 27,
       "run_method": "emergent-concept",
-      "last_explored": "2026-06-25T17:43:19.950910+00:00",
-      "last_run_notes": "Emergent-concept pass: 3 fresh picks via HuggingFace 3-day window + strict subject filter (pitfall 52 recovery). Themes: agentic-privacy / contextual-alignment / pretraining-efficiency / data-mixing / multi-objective-RL / enterprise-agent-evaluation / real-workflow-benchmarking. All picks cs.CL/cs.LG, all scored >=4 LLM-flavor keywords in title. Dedup 60/188 candidates passed strict subject + already-known filter."
+      "last_explored": "2026-06-25T17:58:13.532300+00:00",
+      "last_run_notes": "Emergent-concept pass: 3 fresh picks via HuggingFace 3-day window + strict subject filter (pitfall 52 recovery). Themes: on-policy-distillation negative-importance / mobile-deployment open-training / multimodal-CoT-capability-audit. All picks cs.CL/cs.LG, all scored >=9 LLM-flavor keywords, all overlap=0 vs prior 36 themes. Dedup 60/185 candidates passed strict subject + already-known filter; 3 picked all globally new across 5 dedup stores."
     }
   },
   "emergent_concept_papers": [
@@ -600,6 +636,39 @@
       "url": "https://arxiv.org/abs/2606.23654",
       "theme": "enterprise-agent-evaluation / real-workflow-benchmarking",
       "discovered": "2026-06-25T17:43:19.950910+00:00"
+    },
+    {
+      "arxiv_id": "2606.23104",
+      "slug": "renio-reweighting-negative-trajectory-importance-for-llm-on-policy-distillation-2606.23104",
+      "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2606.23104",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T17:58:13.532300+00:00",
+      "theme": "LLM distillation / on-policy training / negative-trajectory-importance",
+      "subject": "Machine Learning (cs.LG)",
+      "date": "2026/06/22"
+    },
+    {
+      "arxiv_id": "2606.23049",
+      "slug": "phonebuddy-training-open-models-for-agentic-phone-use-2606.23049",
+      "title": "PhoneBuddy: Training Open Models for Agentic Phone Use",
+      "url": "https://arxiv.org/abs/2606.23049",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T17:58:13.532300+00:00",
+      "theme": "LLM agents / mobile-deployment / phone-use / open-model-training-data",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026/06/22"
+    },
+    {
+      "arxiv_id": "2606.22565",
+      "slug": "look-light-think-heavy-what-multimodal-chain-of-thought-reasoning-can-and-cannot-do-2606.22565",
+      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+      "url": "https://arxiv.org/abs/2606.22565",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T17:58:13.532300+00:00",
+      "theme": "multimodal reasoning / chain-of-thought evaluation / CoT-audit",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026/06/21"
     }
   ],
   "emergent_discoveries": [
@@ -782,6 +851,36 @@
       "url": "https://arxiv.org/abs/2606.23654",
       "discovered": "2026-06-25T17:43:19.950910+00:00",
       "theme": "enterprise-agent-evaluation / real-workflow-benchmarking"
+    },
+    {
+      "arxiv_id": "2606.23104",
+      "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
+      "slug": "renio-reweighting-negative-trajectory-importance-for-llm-on-policy-distillation-2606.23104",
+      "url": "https://arxiv.org/abs/2606.23104",
+      "discovered": "2026-06-25T17:58:13.532300+00:00",
+      "theme": "LLM distillation / on-policy training / negative-trajectory-importance",
+      "subject": "Machine Learning (cs.LG)",
+      "date": "2026/06/22"
+    },
+    {
+      "arxiv_id": "2606.23049",
+      "title": "PhoneBuddy: Training Open Models for Agentic Phone Use",
+      "slug": "phonebuddy-training-open-models-for-agentic-phone-use-2606.23049",
+      "url": "https://arxiv.org/abs/2606.23049",
+      "discovered": "2026-06-25T17:58:13.532300+00:00",
+      "theme": "LLM agents / mobile-deployment / phone-use / open-model-training-data",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026/06/22"
+    },
+    {
+      "arxiv_id": "2606.22565",
+      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+      "slug": "look-light-think-heavy-what-multimodal-chain-of-thought-reasoning-can-and-cannot-do-2606.22565",
+      "url": "https://arxiv.org/abs/2606.22565",
+      "discovered": "2026-06-25T17:58:13.532300+00:00",
+      "theme": "multimodal reasoning / chain-of-thought evaluation / CoT-audit",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026/06/21"
     }
   ],
   "emergent_concept_search_log": [
@@ -926,6 +1025,29 @@
         "pretraining-efficiency / data-mixing / multi-objective-RL",
         "enterprise-agent-evaluation / real-workflow-benchmarking"
       ]
+    },
+    {
+      "ts": "2026-06-25T17:58:13.532300+00:00",
+      "window": "2026-06-23..2026-06-25",
+      "candidates_fetched": 185,
+      "after_subject_filter": 60,
+      "picks": [
+        "2606.23104",
+        "2606.23049",
+        "2606.22565"
+      ],
+      "slugs": [
+        "renio-reweighting-negative-trajectory-importance-for-llm-on-policy-distillation-2606.23104",
+        "phonebuddy-training-open-models-for-agentic-phone-use-2606.23049",
+        "look-light-think-heavy-what-multimodal-chain-of-thought-reasoning-can-and-cannot-do-2606.22565"
+      ],
+      "themes": [
+        "LLM distillation / on-policy training / negative-trajectory-importance",
+        "LLM agents / mobile-deployment / phone-use / open-model-training-data",
+        "multimodal reasoning / chain-of-thought evaluation / CoT-audit"
+      ],
+      "thematic_framing": "on-policy-distillation negative-importance + mobile-phone-use open-training + multimodal-CoT-capability-audit (3 fresh themes absent from prior 9 runs)",
+      "dedup_rate": "60/185 candidates passed strict subject filter (cs.CV/cs.GR/cs.MM excluded) + already-known dedup; 3 picked all cs.CL/cs.LG with score=9 LLM-flavor keywords, overlap=0 vs prior themes"
     }
   ],
   "emergent_concept_search_runs": [
@@ -1075,6 +1197,17 @@
       ],
       "thematic_framing": "agentic-privacy / pretraining-data-mixing / enterprise-agent-benchmarking (3 fresh themes absent from prior N runs)",
       "dedup_rate": "60/188 candidates passed strict subject filter (cs.CV/cs.GR/cs.MM excluded) + already-known dedup; 3 picked all cs.CL/cs.LG with score >= 4 LLM-flavor keywords"
+    },
+    {
+      "ts": "2026-06-25T17:58:13.532300+00:00",
+      "mode": "emergent_concept",
+      "method": "HF 3-day + 1-month window + strict subject filter + LLM-flavor scoring + 5-store dedup",
+      "picks_count": 3,
+      "pick_ids": [
+        "2606.23104",
+        "2606.23049",
+        "2606.22565"
+      ]
     }
   ],
   "runs": [
@@ -1157,6 +1290,16 @@
         "privacyalign-contextual-privacy-alignment-for-llm-agents-2606.21710",
         "holistic-data-scheduler-for-llm-pre-training-via-multi-objective-reinforcement-learning-2606.24133",
         "enterpriseclawbench-benchmarking-agents-from-real-workplace-sessions-2606.23654"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T17:58:13.532300+00:00",
+      "mode": "emergent_concept",
+      "theme": "on-policy-distillation negative-importance / mobile-deployment open-training / multimodal-CoT capability audit (3 fresh themes)",
+      "papers_added": [
+        "renio-reweighting-negative-trajectory-importance-for-llm-on-policy-distillation-2606.23104",
+        "phonebuddy-training-open-models-for-agentic-phone-use-2606.23049",
+        "look-light-think-heavy-what-multimodal-chain-of-thought-reasoning-can-and-cannot-do-2606.22565"
       ]
     }
   ],

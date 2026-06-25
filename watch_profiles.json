@@ -700,7 +700,10 @@
         "3bbe72529db1e11f59d79d56cb7f46cc",
         "272647aca8c59c36186c72a4fdc57894",
         "42aaa3ebcf384c4000dce810ce0796e6",
-        "f4054e780ef5191ed72b49667535a6db"
+        "f4054e780ef5191ed72b49667535a6db",
+        "4fe7deeab692c9ae57a9ef1316547d24",
+        "281f136e256e99a05da7f8ad43220440",
+        "cea8c6e3b2a6ed73b4ad78c81edf187e"
       ],
       "last_results": [
         {
@@ -891,6 +894,36 @@
           "chain": "emergent-concepts",
           "theme": "enterprise-agent-evaluation / real-workflow-benchmarking",
           "discovered": "2026-06-25T17:43:19.950910+00:00"
+        },
+        {
+          "arxiv_id": "2606.23104",
+          "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
+          "slug": "renio-reweighting-negative-trajectory-importance-for-llm-on-policy-distillation-2606.23104",
+          "url": "https://arxiv.org/abs/2606.23104",
+          "hash": "4fe7deeab692c9ae57a9ef1316547d24",
+          "discovered": "2026-06-25T17:58:13.532300+00:00",
+          "vector": "emergent_concept_search",
+          "theme": "LLM distillation / on-policy training / negative-trajectory-importance"
+        },
+        {
+          "arxiv_id": "2606.23049",
+          "title": "PhoneBuddy: Training Open Models for Agentic Phone Use",
+          "slug": "phonebuddy-training-open-models-for-agentic-phone-use-2606.23049",
+          "url": "https://arxiv.org/abs/2606.23049",
+          "hash": "281f136e256e99a05da7f8ad43220440",
+          "discovered": "2026-06-25T17:58:13.532300+00:00",
+          "vector": "emergent_concept_search",
+          "theme": "LLM agents / mobile-deployment / phone-use / open-model-training-data"
+        },
+        {
+          "arxiv_id": "2606.22565",
+          "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+          "slug": "look-light-think-heavy-what-multimodal-chain-of-thought-reasoning-can-and-cannot-do-2606.22565",
+          "url": "https://arxiv.org/abs/2606.22565",
+          "hash": "cea8c6e3b2a6ed73b4ad78c81edf187e",
+          "discovered": "2026-06-25T17:58:13.532300+00:00",
+          "vector": "emergent_concept_search",
+          "theme": "multimodal reasoning / chain-of-thought evaluation / CoT-audit"
         }
       ],
       "last_run": "2026-06-25T17:43:19.950910+00:00",
@@ -899,7 +932,7 @@
       "last_run_key": "emergent_concept_search_3_papers_2026-06-25"
     }
   },
-  "last_run": "2026-06-25T17:43:19.950910+00:00",
+  "last_run": "2026-06-25T17:58:13.532300+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -924,12 +957,15 @@
     "3bbe72529db1e11f59d79d56cb7f46cc",
     "272647aca8c59c36186c72a4fdc57894",
     "42aaa3ebcf384c4000dce810ce0796e6",
-    "f4054e780ef5191ed72b49667535a6db"
+    "f4054e780ef5191ed72b49667535a6db",
+    "4fe7deeab692c9ae57a9ef1316547d24",
+    "281f136e256e99a05da7f8ad43220440",
+    "cea8c6e3b2a6ed73b4ad78c81edf187e"
   ],
-  "last_discovery": "2026-06-25T17:43:19.950910+00:00",
-  "last_updated": "2026-06-25T17:43:19.950910+00:00",
-  "__last_updated": "2026-06-25T17:43:19.950910+00:00",
-  "last_explore": "2026-06-25T17:43:19.950910+00:00",
+  "last_discovery": "2026-06-25T17:58:13.532300+00:00",
+  "last_updated": "2026-06-25T17:58:13.532300+00:00",
+  "__last_updated": "2026-06-25T17:58:13.532300+00:00",
+  "last_explore": "2026-06-25T17:58:13.532300+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -952,9 +988,12 @@
       "3bbe72529db1e11f59d79d56cb7f46cc",
       "272647aca8c59c36186c72a4fdc57894",
       "42aaa3ebcf384c4000dce810ce0796e6",
-      "f4054e780ef5191ed72b49667535a6db"
+      "f4054e780ef5191ed72b49667535a6db",
+      "4fe7deeab692c9ae57a9ef1316547d24",
+      "281f136e256e99a05da7f8ad43220440",
+      "cea8c6e3b2a6ed73b4ad78c81edf187e"
     ],
-    "last_discovery": "2026-06-25T17:43:19.950910+00:00",
-    "last_run": "2026-06-25T17:43:19.950910+00:00"
+    "last_discovery": "2026-06-25T17:58:13.532300+00:00",
+    "last_run": "2026-06-25T17:58:13.532300+00:00"
   }
 }

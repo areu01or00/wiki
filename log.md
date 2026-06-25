@@ -189,3 +189,23 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - State writes: explore_context.json (15+ top-level fields + chain-level) + watch_profiles.json (4 top + 2 sub-profile)
 - ensure_ascii detection: explore_context=False (raw em-dash), watch_profiles=True (escape) — stable divergent state
 - Step 7.5 entity↔state cross-check: 24 filesystem arxiv IDs == 24 state arxiv IDs, 0 orphans, 0 extras
+
+### 2026-06-25 17:58 UTC — emergent-concept run (run-1758)
+- Method: HuggingFace 3-day daily (2026-06-25..2026-06-23) + monthly archive → 208 unique IDs
+- Script: hf_arxiv_discovery.py with --days 3 --months 1 --top-k 100
+- Pitfall 52 fired (script Non-CV=185 but raw count was title-flavor upper bound); applied strict subject filter: 185 → 60 LLM candidates
+- LLM-flavor scoring + overlap=0 vs prior 36 themes picked top 3:
+  - ReNIO (2606.23104, cs.LG, 2026-06-22): on-policy distillation / negative-trajectory-importance estimation
+  - PhoneBuddy (2606.23049, cs.CL, 2026-06-22): mobile-deployment / open-model phone-use training
+  - Look Light, Think Heavy (2606.22565, cs.CL, 2026-06-21): multimodal-CoT capability audit
+- All 3 picks verified genuinely new (5-store dedup + filesystem endswith check)
+- All 3 entity files written; Step 5.5 wikilink-resolution check: 0 broken
+- Prepended to entities/emergent-concepts.md via MERGE-then-SORT (top-8 re-sort)
+- 8-entry merged pool (5 existing + 3 new); new entries landed positions 6, 7, 8 (older than existing Jun-23/24 top)
+- Preamble-preservation smoke check (pitfall 62): first line = `---` (frontmatter intact)
+- File-size sanity check: 28278 → 31305 chars (+3027, no doubling)
+- State writes: explore_context.json (15+ top-level fields + chain-level + 3 list appends) + watch_profiles.json (3 new hashes each at top-level + llm-wiki + llm-wiki-explore sub-profile)
+- ensure_ascii detection: explore_context=False (raw em-dash), watch_profiles=True (escape) — stable divergent state
+- Step 7.5 entity↔state cross-check: 27 filesystem arxiv IDs == 27 state arxiv IDs, 0 orphans, 0 extras
+- Pitfall-60 defensive isinstance guards for watch_profiles sub-profiles fired correctly (both sub-profiles present)
+- log.md presence: yes (pitfall 58 not triggered); staged in same atomic commit
