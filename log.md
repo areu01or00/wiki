@@ -460,3 +460,23 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Per-run counter suffix on all /tmp/ artifacts: run1502 (artifacts: /tmp/hf_20260625.html, /tmp/hf_20260624.html, /tmp/hf_20260623.html, /tmp/hf_daily.html, /tmp/hf_run1502_candidates.json, /tmp/hf_discover_run1502.py, /tmp/new_block_run1502.md, /tmp/update_state_run1502.py, /tmp/wikilink_audit_run1502.py, /tmp/build_parent_block_run1502.py, /tmp/fetch_abstracts.py, /tmp/emergent-concepts_run1502.md)
 - log.md presence: yes; staged in same atomic commit
 - Theme-diversity discipline: this run broke the agent-heavy recent streak (last 6 runs were predominantly agents/agent-evaluation); picks span robotics value-function world-model + continual-test-time-adaptation training-systems + RAG reranker efficiency
+## Run 25 — 2026-06-25 22:08 UTC — Emergent-concept search (long-horizon-memory embodied benchmark + mask-diffusion reasoning + ICL distillation B2B)
+
+- Mode: emergent_concept_search (chains all exhausted since 2026-05-25; 9 named chains at 4/4)
+- Method: hf_daily_emergent_concept_search (curl HF daily + default pages, SVELTE_HYDRATER unescape recipe, LLM-keyword title filter, 5-store dedup)
+- Window: 2026-06-22..2026-06-25 (4 day-pages + default page)
+- Candidates surveyed: 129 unique arxiv IDs across 5 sources (32+27+56+14+0)
+- After 5-store dedup: 58 fresh candidates
+- After LLM-keyword filter: 30 LLM-relevant
+- Picked 3 (theme-diversity — continues the non-agent-heavy recent streak): embodied long-horizon-memory benchmark + mask-diffusion reasoning primitive + ICL distillation B2B-conversations
+- Entity files created: worldlines-benchmarking-and-modeling-long-horizon-stateful-2606.18847.md, multi-turn-reflective-masking-elicits-reasoning-mask-diffusion-2606.16700.md, distilling-examples-into-task-instructions-enhanced-in-context-2606.15641.md
+- arxiv IDs added: 2606.18847, 2606.16700, 2606.15641
+- Parent updates: emergent-concepts.md ## Updates section prepended in date-DESC order (06-17 → 06-15 → 06-14)
+- State files: explore_context.json (78 in emergent_concept_papers, 78 in emergent_discoveries, 69 in chains[emergent-concepts].papers_found, 26 runs, 26 emergent_concept_search_runs, 28 in emergent_concept_search_log, entities_count=90); watch_profiles.json (78 top-level + 78 in llm-wiki + 78 in profiles.llm-wiki-explore last_result_hashes; 75 in profiles.llm-wiki-explore.last_results)
+- ensure_ascii detection: explore_context=False (raw em-dash bytes preserved), watch_profiles=True (escaped) — divergent stable state confirmed (15th consecutive run)
+- Step 7.5 entity↔state cross-check (post-write): 78 filesystem arxiv IDs; all 3 new IDs present in both filesystem and state; entities_count claim = 90 actual = 90 (78 paper entities + 12 meta/topical entities)
+- Step 5.5 wikilink-resolution check: 0 broken across 3 new entity files (4+4+5 = 13 wikilinks resolved) AND 0 broken across all 9 wikilinks in the parent-update new block
+- Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes (fb96cacad0f2d59a7dc3b9248b2cb3df, 29cd0420760a4a17c747dad4b0126da0, a8e1eb609a6c02f0f0c5b20cef835dda), 0 collisions with existing 75-hash pool
+- Pitfalls hit: NONE in main flow
+- Per-run counter suffix on all /tmp/ artifacts: run2208
+- Theme-diversity discipline: continues non-agent-heavy recent streak; picks span embodied long-horizon-memory + mask-diffusion reasoning + ICL distillation B2B-conversations

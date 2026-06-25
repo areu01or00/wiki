@@ -2,30 +2,30 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T21:53:00+00:00",
-  "__last_updated": "2026-06-25T21:53:00+00:00",
-  "last_run": "2026-06-25T21:53:00+00:00",
-  "last_explore": "2026-06-25T21:53:00+00:00",
-  "last_global_explore": "2026-06-25T21:53:00+00:00",
-  "last_discovery": "2026-06-25T21:53:00+00:00",
-  "last_run_framing": "theme-diversity: robotics value-function world-model + continual-test-time-adaptation dataset-distillation + RAG reranker efficiency",
-  "last_framing": "theme-diversity: robotics value-function world-model + continual-test-time-adaptation dataset-distillation + RAG reranker efficiency",
-  "last_run_notes": "3 new entity pages from emergent-concept search on HF 3-day window: World Value Models (WVM, robotics value-function world-model data-selection), DO-ALL Distill Once Adapt Life-Long (continual-test-time-adaptation dataset-distillation), KaLM-Reranker-V1 (fast-not-late-interaction compressed-document reranking). Theme-diversity: robotics value-function + continual-adaptation training-systems + RAG reranker efficiency — breaks the agent-heavy recent streak (last 6 runs).",
+  "updated": "2026-06-25T22:08:00+00:00",
+  "__last_updated": "2026-06-25T22:08:00+00:00",
+  "last_run": "2026-06-25T22:08:00+00:00",
+  "last_explore": "2026-06-25T22:08:00+00:00",
+  "last_global_explore": "2026-06-25T22:08:00+00:00",
+  "last_discovery": "2026-06-25T22:08:00+00:00",
+  "last_run_framing": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations",
+  "last_framing": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations",
+  "last_run_notes": "3 new entity pages from emergent-concept search on HF 3-day window: WorldLines (embodied-agent long-horizon-memory household benchmark), Multi-Turn Reflective Masking (mask-diffusion reasoning test-time-scaling), Distilling Examples into Task Instructions (in-context-learning distillation B2B-conversations). Theme-diversity: long-horizon-memory embodied + non-AR reasoning primitive + ICL distillation — continues the non-agent-heavy recent runs.",
   "last_pass_type": "emergent_concept",
   "last_run_method": "hf_daily_emergent_concept_search",
   "run_method": "hf_daily_emergent_concept_search",
   "last_run_added": [
-    "2606.24742",
-    "2606.20196",
-    "2606.22807"
+    "2606.18847",
+    "2606.16700",
+    "2606.15641"
   ],
   "exploration_type": "emergent_concept_search",
-  "emergent_concept_theme": "robotics value-function world-model data-selection / continual-test-time-adaptation dataset-distillation / RAG reranker efficiency",
-  "emergent_theme": "robotics value-function world-model data-selection / continual-test-time-adaptation dataset-distillation / RAG reranker efficiency",
+  "emergent_concept_theme": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations",
+  "emergent_theme": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 87,
+  "entities_count": 90,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -755,7 +755,10 @@
         },
         "2606.24742",
         "2606.20196",
-        "2606.22807"
+        "2606.22807",
+        "2606.18847",
+        "2606.16700",
+        "2606.15641"
       ],
       "last_run": "2026-06-25T21:53:00+00:00",
       "last_explore": "2026-06-25T21:53:00+00:00",
@@ -1443,7 +1446,10 @@
     },
     "2606.24742",
     "2606.20196",
-    "2606.22807"
+    "2606.22807",
+    "2606.18847",
+    "2606.16700",
+    "2606.15641"
   ],
   "emergent_discoveries": [
     {
@@ -2030,7 +2036,10 @@
     },
     "2606.24742",
     "2606.20196",
-    "2606.22807"
+    "2606.22807",
+    "2606.18847",
+    "2606.16700",
+    "2606.15641"
   ],
   "emergent_concept_search_log": [
     {
@@ -2481,6 +2490,23 @@
       ],
       "method": "hf_daily_emergent_concept_search",
       "notes": "3 picks: WVM (robotics value-function), DO-ALL (continual-test-time-adaptation), KaLM-Reranker-V1 (RAG efficiency)"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "22:08 UTC",
+      "run": 25,
+      "arxiv_ids": [
+        "2606.18847",
+        "2606.16700",
+        "2606.15641"
+      ],
+      "themes": [
+        "embodied-agent / long-horizon-memory / household-assistance benchmark",
+        "mask-diffusion / reasoning / test-time-scaling",
+        "in-context-learning distillation / B2B-conversations / low-resource-NLP"
+      ],
+      "method": "hf_daily_emergent_concept_search",
+      "notes": "3 picks: WorldLines (long-horizon embodied-memory benchmark), Reflective Masking (MDM reasoning primitive), Distilling Examples into Task Instructions (ICL distillation B2B)"
     }
   ],
   "emergent_concept_search_runs": [
@@ -2882,6 +2908,23 @@
       ],
       "method": "hf_daily_emergent_concept_search",
       "framing": "theme-diversity: robotics value-function world-model + continual-test-time-adaptation dataset-distillation + RAG reranker efficiency"
+    },
+    {
+      "run": 25,
+      "started": "2026-06-25T22:08:00+00:00",
+      "finished": "2026-06-25T22:08:00+00:00",
+      "themes": [
+        "embodied-agent / long-horizon-memory / household-assistance benchmark",
+        "mask-diffusion / reasoning / test-time-scaling",
+        "in-context-learning distillation / B2B-conversations / low-resource-NLP"
+      ],
+      "papers_added": [
+        "2606.18847",
+        "2606.16700",
+        "2606.15641"
+      ],
+      "method": "hf_daily_emergent_concept_search",
+      "framing": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations"
     }
   ],
   "runs": [
@@ -3144,15 +3187,37 @@
       "pass_type": "emergent_concept",
       "method": "hf_daily_emergent_concept_search",
       "notes": "HF 3-day window; 115 unique candidates across 4 sources; 49 fresh after 5-store dedup; 28 LLM-relevant; picked 3 spanning distinct angles (robotics value-function + continual-adaptation training-systems + RAG reranker efficiency)"
+    },
+    {
+      "run": 25,
+      "started": "2026-06-25T22:08:00+00:00",
+      "finished": "2026-06-25T22:08:00+00:00",
+      "framing": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations",
+      "papers_found": [
+        "2606.18847",
+        "2606.16700",
+        "2606.15641"
+      ],
+      "papers_added": [
+        "2606.18847",
+        "2606.16700",
+        "2606.15641"
+      ],
+      "pass_type": "emergent_concept",
+      "method": "hf_daily_emergent_concept_search",
+      "notes": "HF 3-day window; 129 unique candidates across 5 sources (4 day-pages + default); 58 fresh after 5-store dedup; 30 LLM-relevant; picked 3 spanning distinct angles (embodied long-horizon-memory + MDM reasoning + ICL distillation)"
     }
   ],
-  "last_updated": "2026-06-25T21:47:00+00:00",
-  "last_run_iso": "2026-06-25T21:47:00+00:00",
-  "total_entity_count": 84,
+  "last_updated": "2026-06-25T22:08:00+00:00",
+  "last_run_iso": "2026-06-25T22:08:00+00:00",
+  "total_entity_count": 90,
   "entity_files_added": [
     "an-exploratory-case-study-of-llm-assisted-refactoring-and-gameplay-feature-generation-in-an-endless-runner-game-2606.21171.md",
     "world-action-models-a-survey-2606.20781.md",
-    "fastmix-fast-data-mixture-optimization-via-gradient-descent-2606.14971.md"
+    "fastmix-fast-data-mixture-optimization-via-gradient-descent-2606.14971.md",
+    "worldlines-benchmarking-and-modeling-long-horizon-stateful-2606.18847.md",
+    "multi-turn-reflective-masking-elicits-reasoning-mask-diffusion-2606.16700.md",
+    "distilling-examples-into-task-instructions-enhanced-in-context-2606.15641.md"
   ],
   "pass_type": "emergent_concept"
 }

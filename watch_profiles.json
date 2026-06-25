@@ -754,7 +754,10 @@
         "0c10763c8dbc1ade0b0c9c617e2bb2f9",
         "c2fafec7fb48abeb6aa58f27fa422f38",
         "19b91f5ed8692c777373ececeb55840a",
-        "cdefb031ef7bd53c0e1b143c7e86df17"
+        "cdefb031ef7bd53c0e1b143c7e86df17",
+        "fb96cacad0f2d59a7dc3b9248b2cb3df",
+        "29cd0420760a4a17c747dad4b0126da0",
+        "a8e1eb609a6c02f0f0c5b20cef835dda"
       ],
       "last_results": [
         {
@@ -1362,6 +1365,30 @@
           "theme": "LLM reranker / retrieval-efficiency / encoder-decoder-decoupling",
           "hash": "cdefb031ef7bd53c0e1b143c7e86df17",
           "source": "hf_daily_emergent_concept_search"
+        },
+        {
+          "arxiv_id": "2606.18847",
+          "slug": "worldlines-benchmarking-and-modeling-long-horizon-stateful-2606.18847",
+          "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+          "discovered": "2026-06-25T22:08:00+00:00",
+          "theme": "embodied-agent / long-horizon-memory / household-assistance benchmark",
+          "hash": "fb96cacad0f2d59a7dc3b9248b2cb3df"
+        },
+        {
+          "arxiv_id": "2606.16700",
+          "slug": "multi-turn-reflective-masking-elicits-reasoning-mask-diffusion-2606.16700",
+          "title": "Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models",
+          "discovered": "2026-06-25T22:08:00+00:00",
+          "theme": "mask-diffusion / reasoning / test-time-scaling",
+          "hash": "29cd0420760a4a17c747dad4b0126da0"
+        },
+        {
+          "arxiv_id": "2606.15641",
+          "slug": "distilling-examples-into-task-instructions-enhanced-in-context-2606.15641",
+          "title": "Distilling Examples into Task Instructions: Enhanced In-Context Learning for Real-World B2B Conversations",
+          "discovered": "2026-06-25T22:08:00+00:00",
+          "theme": "in-context-learning distillation / B2B-conversations / low-resource-NLP",
+          "hash": "a8e1eb609a6c02f0f0c5b20cef835dda"
         }
       ],
       "last_run": "2026-06-25T21:32:12.732047+00:00",
@@ -1447,10 +1474,13 @@
     "0c10763c8dbc1ade0b0c9c617e2bb2f9",
     "c2fafec7fb48abeb6aa58f27fa422f38",
     "19b91f5ed8692c777373ececeb55840a",
-    "cdefb031ef7bd53c0e1b143c7e86df17"
+    "cdefb031ef7bd53c0e1b143c7e86df17",
+    "fb96cacad0f2d59a7dc3b9248b2cb3df",
+    "29cd0420760a4a17c747dad4b0126da0",
+    "a8e1eb609a6c02f0f0c5b20cef835dda"
   ],
   "last_discovery": "2026-06-25T21:32:12.732047+00:00",
-  "last_updated": "2026-06-25T21:32:12.732047+00:00",
+  "last_updated": "2026-06-25T22:08:00+00:00",
   "__last_updated": "2026-06-25T21:32:12.732047+00:00",
   "last_explore": "2026-06-25T21:32:12.732047+00:00",
   "llm-wiki": {
@@ -1529,10 +1559,13 @@
       "0c10763c8dbc1ade0b0c9c617e2bb2f9",
       "c2fafec7fb48abeb6aa58f27fa422f38",
       "19b91f5ed8692c777373ececeb55840a",
-      "cdefb031ef7bd53c0e1b143c7e86df17"
+      "cdefb031ef7bd53c0e1b143c7e86df17",
+      "fb96cacad0f2d59a7dc3b9248b2cb3df",
+      "29cd0420760a4a17c747dad4b0126da0",
+      "a8e1eb609a6c02f0f0c5b20cef835dda"
     ],
-    "last_discovery": "2026-06-25T21:09:00+00:00",
-    "last_run": "2026-06-25T21:09:00+00:00"
+    "last_discovery": "2026-06-25T22:08:00+00:00",
+    "last_run": "2026-06-25T22:08:00+00:00"
   },
   "last_pass_type": "emergent_concept_search"
 }
