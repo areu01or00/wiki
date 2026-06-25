@@ -703,7 +703,10 @@
         "f4054e780ef5191ed72b49667535a6db",
         "4fe7deeab692c9ae57a9ef1316547d24",
         "281f136e256e99a05da7f8ad43220440",
-        "cea8c6e3b2a6ed73b4ad78c81edf187e"
+        "cea8c6e3b2a6ed73b4ad78c81edf187e",
+        "44efab943d94ed961490d6c3b0838e23",
+        "9bc8b8b08787354bed9e18221ba01c8d",
+        "88e3d083e91305c0baf15a01f24e0faa"
       ],
       "last_results": [
         {
@@ -924,15 +927,46 @@
           "discovered": "2026-06-25T17:58:13.532300+00:00",
           "vector": "emergent_concept_search",
           "theme": "multimodal reasoning / chain-of-thought evaluation / CoT-audit"
+        },
+        {
+          "arxiv_id": "2606.21777",
+          "slug": "calvert-augmenting-agents-with-calibrated-verifier-telemetry-improves-action-and-learning-in-knowledge-intensive-tasks-2606.21777",
+          "title": "CalVerT: Augmenting Agents with Calibrated Verifier Telemetry Improves Action and Learning in Knowledge-Intensive Tasks",
+          "url": "https://arxiv.org/abs/2606.21777",
+          "discovered": "2026-06-25T18:08:58.000000+00:00",
+          "theme": "LLM agent / verifier-telemetry / knowledge-intensive-QA",
+          "subject": "Computation and Language (cs.CL)",
+          "hash": "44efab943d94ed961490d6c3b0838e23"
+        },
+        {
+          "arxiv_id": "2606.16246",
+          "slug": "demystifying-training-time-augmentation-for-data-constrained-language-model-pretraining-2606.16246",
+          "title": "Demystifying Training-Time Augmentation for Data-Constrained Language Model Pretraining",
+          "url": "https://arxiv.org/abs/2606.16246",
+          "discovered": "2026-06-25T18:08:58.000000+00:00",
+          "theme": "data-constrained-pretraining / training-time-augmentation / compute-abundant-regime",
+          "subject": "Machine Learning (cs.LG)",
+          "hash": "9bc8b8b08787354bed9e18221ba01c8d"
+        },
+        {
+          "arxiv_id": "2505.23878",
+          "slug": "ac-odm-actor-critic-online-data-mixing-for-sample-efficient-llm-pretraining-2505.23878",
+          "title": "AC-ODM: Actor--Critic Online Data Mixing for Sample-Efficient LLM Pretraining",
+          "url": "https://arxiv.org/abs/2505.23878",
+          "discovered": "2026-06-25T18:08:58.000000+00:00",
+          "theme": "pretraining-efficiency / online-data-mixing / actor-critic-RL",
+          "subject": "Machine Learning (cs.LG)",
+          "hash": "88e3d083e91305c0baf15a01f24e0faa"
         }
       ],
-      "last_run": "2026-06-25T17:43:19.950910+00:00",
+      "last_run": "2026-06-25T18:08:58+00:00",
       "last_updated": "2026-06-25T17:43:19.950910+00:00",
       "last_result_timestamp": "2026-06-25T17:43:19.950910+00:00",
-      "last_run_key": "emergent_concept_search_3_papers_2026-06-25"
+      "last_run_key": "emergent_concept_search_3_papers_2026-06-25",
+      "last_pass_type": "emergent_concept_search"
     }
   },
-  "last_run": "2026-06-25T17:58:13.532300+00:00",
+  "last_run": "2026-06-25T18:08:58+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -960,7 +994,10 @@
     "f4054e780ef5191ed72b49667535a6db",
     "4fe7deeab692c9ae57a9ef1316547d24",
     "281f136e256e99a05da7f8ad43220440",
-    "cea8c6e3b2a6ed73b4ad78c81edf187e"
+    "cea8c6e3b2a6ed73b4ad78c81edf187e",
+    "44efab943d94ed961490d6c3b0838e23",
+    "9bc8b8b08787354bed9e18221ba01c8d",
+    "88e3d083e91305c0baf15a01f24e0faa"
   ],
   "last_discovery": "2026-06-25T17:58:13.532300+00:00",
   "last_updated": "2026-06-25T17:58:13.532300+00:00",
@@ -991,9 +1028,13 @@
       "f4054e780ef5191ed72b49667535a6db",
       "4fe7deeab692c9ae57a9ef1316547d24",
       "281f136e256e99a05da7f8ad43220440",
-      "cea8c6e3b2a6ed73b4ad78c81edf187e"
+      "cea8c6e3b2a6ed73b4ad78c81edf187e",
+      "44efab943d94ed961490d6c3b0838e23",
+      "9bc8b8b08787354bed9e18221ba01c8d",
+      "88e3d083e91305c0baf15a01f24e0faa"
     ],
     "last_discovery": "2026-06-25T17:58:13.532300+00:00",
     "last_run": "2026-06-25T17:58:13.532300+00:00"
-  }
+  },
+  "last_pass_type": "emergent_concept_search"
 }

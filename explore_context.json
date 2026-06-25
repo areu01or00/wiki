@@ -3,25 +3,25 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-25T17:58:13.532300+00:00",
-  "__last_updated": "2026-06-25T17:58:13.532300+00:00",
-  "last_run": "2026-06-25T17:58:13.532300+00:00",
-  "last_explore": "2026-06-25T17:58:13.532300+00:00",
-  "last_global_explore": "2026-06-25T17:58:13.532300+00:00",
-  "last_discovery": "2026-06-25T17:58:13.532300+00:00",
-  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_2026-06-25T17:58-renio-phonebuddy-multimodal-cot-audit",
-  "last_framing": "on-policy-distillation negative-importance (renio) + mobile-phone-use open-training (phonebuddy) + multimodal-cot-capability-audit (look-light-think-heavy)",
-  "last_run_notes": "Run at 2026-06-25T17:58 UTC. Method: HF 3-day window + strict subject filter (pitfall 52) + LLM-flavor scoring + 5-store dedup. 3 picks all cs.CL/cs.LG, all overlap=0 vs prior 36 themes. New themes: on-policy-distillation negative-importance estimation, mobile-deployment training-data for open phone-use agents, multimodal-CoT capability audit (when does CoT actually help vs hurt in multimodal settings). All 3 entries prepended to emergent-concepts.md via MERGE-then-SORT (top-8 re-sort; my Jun 21/22 entries landed at positions 6-8 below existing Jun 23/24 entries).",
+  "__last_updated": "2026-06-25T18:08:58+00:00",
+  "last_run": "2026-06-25T18:08:58+00:00",
+  "last_explore": "2026-06-25T18:08:58+00:00",
+  "last_global_explore": "2026-06-25T18:08:58+00:00",
+  "last_discovery": "2026-06-25T18:08:58+00:00",
+  "last_run_framing": "emergent_concept",
+  "last_framing": "emergent_concept",
+  "last_run_notes": "pretraining actor-critic ODM + data-constrained training-time-augmentation + calibrated-verifier-telemetry (3 fresh themes absent from prior runs)",
   "last_pass_type": "emergent_concept_search",
-  "last_run_method": "HuggingFace daily papers (3-day window) + monthly archive + strict subject filter + LLM-flavor title scoring",
+  "last_run_method": "HF 3-day window + strict subject filter + LLM-flavor title scoring + 5-store dedup + top-3 picks (cs.LG/cs.CL)",
   "run_method": "hf_daily_papers_3day + arxiv_meta + strict_subject_filter",
   "last_run_added": 3,
-  "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "LLM distillation / on-policy training (ReNIO negative-importance) + LLM agents / mobile-deployment (PhoneBuddy open phone-use training data) + multimodal reasoning / chain-of-thought evaluation (Look-Light-Think-Heavy CoT capability audit)",
-  "emergent_theme": "on-policy-distillation negative-importance (renio-reweighting-negative-trajectory) + mobile-deployment open-training (phonebuddy-training-open-models) + multimodal-cot-capability-audit (look-light-think-heavy)",
+  "exploration_type": "emergent_concept",
+  "emergent_concept_theme": "pretraining data-mixing / data-constrained augmentation / agent verifier-telemetry",
+  "emergent_theme": "pretraining data-mixing / data-constrained augmentation / agent verifier-telemetry",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 39,
+  "entities_count": 42,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -424,6 +424,39 @@
           "subject": "Computation and Language (cs.CL)",
           "date": "2026/06/21",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.21777",
+          "slug": "calvert-augmenting-agents-with-calibrated-verifier-telemetry-improves-action-and-learning-in-knowledge-intensive-tasks-2606.21777",
+          "title": "CalVerT: Augmenting Agents with Calibrated Verifier Telemetry Improves Action and Learning in Knowledge-Intensive Tasks",
+          "url": "https://arxiv.org/abs/2606.21777",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T18:08:58.000000+00:00",
+          "theme": "LLM agent / verifier-telemetry / knowledge-intensive-QA",
+          "subject": "Computation and Language (cs.CL)",
+          "date": "2026-06-23"
+        },
+        {
+          "arxiv_id": "2606.16246",
+          "slug": "demystifying-training-time-augmentation-for-data-constrained-language-model-pretraining-2606.16246",
+          "title": "Demystifying Training-Time Augmentation for Data-Constrained Language Model Pretraining",
+          "url": "https://arxiv.org/abs/2606.16246",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T18:08:58.000000+00:00",
+          "theme": "data-constrained-pretraining / training-time-augmentation / compute-abundant-regime",
+          "subject": "Machine Learning (cs.LG)",
+          "date": "2026-06-23"
+        },
+        {
+          "arxiv_id": "2505.23878",
+          "slug": "ac-odm-actor-critic-online-data-mixing-for-sample-efficient-llm-pretraining-2505.23878",
+          "title": "AC-ODM: Actor--Critic Online Data Mixing for Sample-Efficient LLM Pretraining",
+          "url": "https://arxiv.org/abs/2505.23878",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T18:08:58.000000+00:00",
+          "theme": "pretraining-efficiency / online-data-mixing / actor-critic-RL",
+          "subject": "Machine Learning (cs.LG)",
+          "date": "2026-06-23"
         }
       ],
       "last_run": "2026-06-25T17:58:13.532300+00:00",
@@ -669,6 +702,39 @@
       "theme": "multimodal reasoning / chain-of-thought evaluation / CoT-audit",
       "subject": "Computation and Language (cs.CL)",
       "date": "2026/06/21"
+    },
+    {
+      "arxiv_id": "2606.21777",
+      "slug": "calvert-augmenting-agents-with-calibrated-verifier-telemetry-improves-action-and-learning-in-knowledge-intensive-tasks-2606.21777",
+      "title": "CalVerT: Augmenting Agents with Calibrated Verifier Telemetry Improves Action and Learning in Knowledge-Intensive Tasks",
+      "url": "https://arxiv.org/abs/2606.21777",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T18:08:58.000000+00:00",
+      "theme": "LLM agent / verifier-telemetry / knowledge-intensive-QA",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-23"
+    },
+    {
+      "arxiv_id": "2606.16246",
+      "slug": "demystifying-training-time-augmentation-for-data-constrained-language-model-pretraining-2606.16246",
+      "title": "Demystifying Training-Time Augmentation for Data-Constrained Language Model Pretraining",
+      "url": "https://arxiv.org/abs/2606.16246",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T18:08:58.000000+00:00",
+      "theme": "data-constrained-pretraining / training-time-augmentation / compute-abundant-regime",
+      "subject": "Machine Learning (cs.LG)",
+      "date": "2026-06-23"
+    },
+    {
+      "arxiv_id": "2505.23878",
+      "slug": "ac-odm-actor-critic-online-data-mixing-for-sample-efficient-llm-pretraining-2505.23878",
+      "title": "AC-ODM: Actor--Critic Online Data Mixing for Sample-Efficient LLM Pretraining",
+      "url": "https://arxiv.org/abs/2505.23878",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T18:08:58.000000+00:00",
+      "theme": "pretraining-efficiency / online-data-mixing / actor-critic-RL",
+      "subject": "Machine Learning (cs.LG)",
+      "date": "2026-06-23"
     }
   ],
   "emergent_discoveries": [
@@ -881,6 +947,39 @@
       "theme": "multimodal reasoning / chain-of-thought evaluation / CoT-audit",
       "subject": "Computation and Language (cs.CL)",
       "date": "2026/06/21"
+    },
+    {
+      "arxiv_id": "2606.21777",
+      "slug": "calvert-augmenting-agents-with-calibrated-verifier-telemetry-improves-action-and-learning-in-knowledge-intensive-tasks-2606.21777",
+      "title": "CalVerT: Augmenting Agents with Calibrated Verifier Telemetry Improves Action and Learning in Knowledge-Intensive Tasks",
+      "url": "https://arxiv.org/abs/2606.21777",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T18:08:58.000000+00:00",
+      "theme": "LLM agent / verifier-telemetry / knowledge-intensive-QA",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-23"
+    },
+    {
+      "arxiv_id": "2606.16246",
+      "slug": "demystifying-training-time-augmentation-for-data-constrained-language-model-pretraining-2606.16246",
+      "title": "Demystifying Training-Time Augmentation for Data-Constrained Language Model Pretraining",
+      "url": "https://arxiv.org/abs/2606.16246",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T18:08:58.000000+00:00",
+      "theme": "data-constrained-pretraining / training-time-augmentation / compute-abundant-regime",
+      "subject": "Machine Learning (cs.LG)",
+      "date": "2026-06-23"
+    },
+    {
+      "arxiv_id": "2505.23878",
+      "slug": "ac-odm-actor-critic-online-data-mixing-for-sample-efficient-llm-pretraining-2505.23878",
+      "title": "AC-ODM: Actor--Critic Online Data Mixing for Sample-Efficient LLM Pretraining",
+      "url": "https://arxiv.org/abs/2505.23878",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T18:08:58.000000+00:00",
+      "theme": "pretraining-efficiency / online-data-mixing / actor-critic-RL",
+      "subject": "Machine Learning (cs.LG)",
+      "date": "2026-06-23"
     }
   ],
   "emergent_concept_search_log": [
@@ -1048,6 +1147,29 @@
       ],
       "thematic_framing": "on-policy-distillation negative-importance + mobile-phone-use open-training + multimodal-CoT-capability-audit (3 fresh themes absent from prior 9 runs)",
       "dedup_rate": "60/185 candidates passed strict subject filter (cs.CV/cs.GR/cs.MM excluded) + already-known dedup; 3 picked all cs.CL/cs.LG with score=9 LLM-flavor keywords, overlap=0 vs prior themes"
+    },
+    {
+      "ts": "2026-06-25T18:08:58.000000+00:00",
+      "window": "2026-06-23..2026-06-25",
+      "candidates_fetched": 115,
+      "after_subject_filter": 80,
+      "picks": [
+        "2606.21777",
+        "2606.16246",
+        "2505.23878"
+      ],
+      "slugs": [
+        "calvert-augmenting-agents-with-calibrated-verifier-telemetry-improves-action-and-learning-in-knowledge-intensive-tasks-2606.21777",
+        "demystifying-training-time-augmentation-for-data-constrained-language-model-pretraining-2606.16246",
+        "ac-odm-actor-critic-online-data-mixing-for-sample-efficient-llm-pretraining-2505.23878"
+      ],
+      "themes": [
+        "LLM agent / verifier-telemetry / knowledge-intensive-QA",
+        "data-constrained-pretraining / training-time-augmentation / compute-abundant-regime",
+        "pretraining-efficiency / online-data-mixing / actor-critic-RL"
+      ],
+      "thematic_framing": "actor-critic ODM + data-constrained training-time augmentation + calibrated verifier telemetry for LLM agents (3 fresh themes absent from prior 10 runs)",
+      "dedup_rate": "80/115 candidates passed strict subject filter (cs.CV/cs.GR/cs.MM excluded) + already-known dedup; 3 picked all cs.CL/cs.LG with combined subject+title-boost+recency score >= 117, overlap=0 vs prior themes"
     }
   ],
   "emergent_concept_search_runs": [
@@ -1208,6 +1330,17 @@
         "2606.23049",
         "2606.22565"
       ]
+    },
+    {
+      "ts": "2026-06-25T18:08:58.000000+00:00",
+      "mode": "emergent_concept",
+      "method": "HF 3-day window + strict subject filter + LLM-flavor title scoring + 5-store dedup + combined subject+title+recency sort",
+      "picks_count": 3,
+      "pick_ids": [
+        "2606.21777",
+        "2606.16246",
+        "2505.23878"
+      ]
     }
   ],
   "runs": [
@@ -1301,7 +1434,17 @@
         "phonebuddy-training-open-models-for-agentic-phone-use-2606.23049",
         "look-light-think-heavy-what-multimodal-chain-of-thought-reasoning-can-and-cannot-do-2606.22565"
       ]
+    },
+    {
+      "timestamp": "2026-06-25T18:08:58.000000+00:00",
+      "mode": "emergent_concept",
+      "theme": "pretraining actor-critic ODM / data-constrained training-time augmentation / calibrated verifier telemetry for LLM agents (3 fresh themes)",
+      "papers_added": [
+        "calvert-augmenting-agents-with-calibrated-verifier-telemetry-improves-action-and-learning-in-knowledge-intensive-tasks-2606.21777",
+        "demystifying-training-time-augmentation-for-data-constrained-language-model-pretraining-2606.16246",
+        "ac-odm-actor-critic-online-data-mixing-for-sample-efficient-llm-pretraining-2505.23878"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T16:42:00+00:00"
+  "last_updated": "2026-06-25T18:08:58+00:00"
 }

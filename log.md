@@ -209,3 +209,25 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Step 7.5 entity↔state cross-check: 27 filesystem arxiv IDs == 27 state arxiv IDs, 0 orphans, 0 extras
 - Pitfall-60 defensive isinstance guards for watch_profiles sub-profiles fired correctly (both sub-profiles present)
 - log.md presence: yes (pitfall 58 not triggered); staged in same atomic commit
+
+### 2026-06-25 18:08 UTC — emergent-concept run (run-1808)
+- Method: HuggingFace 3-day daily (2026-06-23..2026-06-25) → 115 unique IDs
+- Custom HF discovery script at /tmp/hf_discover_run1808.py (parsed HF `<article>` blocks: `<h3><a href="/papers/{arxiv_id}">Title</a></h3>` pattern); 10-worker ThreadPoolExecutor for parallel arxiv metadata fetch (115 IDs in 4.4s)
+- Pitfall 52 strict subject filter applied: 115 → 80 LLM-relevant candidates (excluded cs.CV/cs.GR/cs.MM/eess.AS/physics/cs.SE)
+- Combined sort: subject-preference (cs.CL=100, cs.LG=95, cs.AI=90) + LLM-flavor title-boost + recency window + base score → top 3 picks:
+  - CalVerT (2606.21777, cs.CL, 2026-06-23): LLM-agent verifier-telemetry / knowledge-intensive-QA
+  - Demystifying Training-Time Augmentation (2606.16246, cs.LG, 2026-06-23): data-constrained-pretraining / training-time-augmentation / compute-abundant-regime
+  - AC-ODM (2505.23878, cs.LG, 2026-06-23): pretraining-efficiency / online-data-mixing / actor-critic-RL (originally posted 2025/05/29, re-surfaced by HF on 2026-06-23)
+- All 3 picks verified genuinely new (5-store dedup + filesystem endswith check; 0% pre-existing rate expected per pitfall-58a for just-restored wiki)
+- All 3 entity files written; Step 5.5 wikilink-resolution check: 7 wikilinks total, all resolve (forward + backward links to existing entities)
+- Prepended to entities/emergent-concepts.md via MERGE-then-SORT (N_EXISTING_TOP=5, top-8 re-sort)
+- 8-entry merged pool (5 existing 06-24/06-23 + 3 new 06-23); new entries landed positions 6, 7, 8 (older than existing 06-23 entries by arxiv-id tiebreak: 2606.21777 > 2606.16246 > 2505.23878)
+- Preamble-preservation smoke check (pitfall 62): first line = `---` (frontmatter intact)
+- H2 count check: 4 (Scope, Updates, Auto-Discovered Profiles, Chain Status) — no doubled-section-header bug (pitfall 61)
+- File-size sanity check: 31457 → 35029 chars (+3572, no doubling)
+- State writes: explore_context.json (entities_count 39→42, chains_updated=['emergent-concepts'], 1 record each to emergent_concept_search_log/runs/emergent_concept_search_runs + 3 records each to emergent_concept_papers/emergent_discoveries/chains[emergent-concepts].papers_found) + watch_profiles.json (3 new hashes at top-level + llm-wiki + llm-wiki-explore sub-profile + 3 last_results records)
+- ensure_ascii detection: explore_context=False (raw em-dash absent, no encoding), watch_profiles=True (escape sequences) — stable divergent state confirmed
+- Step 7.5 entity↔state cross-check (pre-commit): 30 filesystem arxiv IDs == 30 state arxiv IDs, 0 orphans, 0 extras
+- Pitfall-60 defensive isinstance guards for watch_profiles sub-profiles: both llm-wiki (dict) and profiles.llm-wiki-explore (dict) present, writes succeeded
+- Per-run counter suffix on all 5 /tmp/ artifacts: run1808 (per sibling-subagent /tmp/*.py interference fix)
+- log.md presence: yes; staged in same atomic commit
