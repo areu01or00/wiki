@@ -48,3 +48,34 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 
 ### Tool budget
 - All write/commit operations completed cleanly. No pitfall 46a/47 partial-bookkeeping risk.
+
+## 2026-06-25 16:42 UTC — Emergent-concept search (3 fresh themes: LLM embeddings / agent document-reasoning / flow-matching planning)
+
+**Mode**: emergent-concept-search (all 9 named chains at 4/4 since 2026-05-25)
+**Method**: HuggingFace daily papers 3-day window (2026-06-23..25) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter (pitfall 52 recovery) + LLM-flavor title scoring + 5-store dedup
+**Candidates surveyed**: 197 raw HF IDs → 61 after strict subject-filter (cs.CV/image/graphics/sound excluded) → 3 picks by score (8/6/6)
+**Papers added**: 3
+
+### Papers
+1. **EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory** (2606.21649) — Nie, Fu, Feng, Shan (cs.CL, 2026-06-19). Theme: LLM embeddings / long-context retrieval / agentic-memory. Embedding model that produces *evolvable* representations via a continuously-updated latent memory — the same query retrieves different targets depending on prior context. EvoTrain-180K + memory queue + segment-batching (3.8× speedup). Outperforms Qwen3-Embedding-8B and KaLM-Embedding-Gemma3-12B on long-context retrieval; naive RAG with EvoEmbedding surpasses dedicated agentic-memory systems.
+2. **AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning** (2606.24526) — Guo, Zhang, Zhang, Li, Zheng et al. (cs.CL, 2026-06-23). Theme: LLM agent benchmarking / document-reasoning / long-context exploration. 362 questions × 9,664 authentic workplace docs × 372M tokens × 8 domains. Agentic pipeline for benchmark construction (cross-document task synthesis + leakage-preventing obfuscation + difficulty filtering). Even strongest model reaches only 59.4%.
+3. **FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning** (2606.24231) — Li, Liu, Ye, Han, Pan, Han, Zhao (cs.AI, 2026-06-23). Theme: LLM robotics / generative planning / flow-matching. Unifies scoring-based (dense reward supervision, fixed vocabulary) and anchor-based (dynamic proposals, sparse supervision) planning by reframing rewards as *generative conditions* of a flow-matching decoder. SOTA on NAVSIM v1/v2.
+
+### Parent updates
+- `entities/emergent-concepts.md` ## Updates — MERGE-then-SORT prepend: 3 new entries sorted into the (date desc, arxiv_id desc) top block. Final order: autodata/constraint-tax/iLLaDA (06-24) / intermediate-layers/agent-native-memory/AGORA/FlowR2A/rope-bit-allocation (06-23, arxiv_id desc) / self-compacting (06-22) / EvoEmbedding (06-19) / periodic-table (06-09) / agents-last-exam (06-03). All 12 entries properly bullet-prefixed (pitfall 51 corrected smoking-gun check: 0/20 lines start with `[[` after Updates header).
+
+### Step 5.5 wikilink-resolution check
+- All 3 new entity files have a single `[[emergent-concepts]]` parent link; the parent file exists. 0 broken forward-looking links.
+
+### Dedup
+- `endswith(f'-{arxiv_id}.md')` suffix check: 0 collisions (3/3 candidates were fresh)
+- 5-store hash check: top-level `watch_profiles[last_result_hashes]` 9→12 (+3); `watch_profiles[llm-wiki].last_result_hashes` 6→9 (+3); `watch_profiles[profiles].llm-wiki-explore.last_result_hashes` 6→9 (+3); `watch_profiles[profiles].llm-wiki-explore.last_results` 6→9 (+3); `explore_context.chains[emergent-concepts].papers_found` 9→12 (+3).
+- `explore_context.emergent_concept_papers`: 9→12; `emergent_discoveries`: 9→12; `emergent_concept_search_log` +1; `emergent_concept_search_runs` +1; `runs` +1.
+
+### Pitfalls encountered
+- **Pitfall 52 confirmed**: HF `non_cv_count` (197) is a title-flavor upper bound, NOT a subject-filtered count. Top 10 picks were 100% cs.CV by actual `<span class="primary-subject">` subject. Recovery: strict subject filter (`not any(kw in subj for kw in ['computer vision and pattern', 'image and video', 'graphics', 'sound'])`) recovered 61 LLM candidates from 100 non_cv_metadata.
+- **Pitfall 58a confirmed**: 0% pre-existing dedup rate (3/3 picks fresh) is EXPECTED on just-restored wiki with 21 entities (post-pitfall-56 state).
+- **Different `ensure_ascii` settings per file detected and preserved**: `explore_context.json` = False (raw em-dashes); `watch_profiles.json` = True (escape sequences). Wrote each with its own setting.
+
+### Tool budget
+- All write/commit operations completed cleanly. No pitfall 46a/47 partial-bookkeeping risk.

@@ -685,7 +685,10 @@
         "339968edc01332de74908945e0582c5d",
         "2436296cc2ac9e0a6816b8d213a7abc0",
         "d790b7a89f2354621faf3dd72c363ce5",
-        "fb63f478390c9bb4a6b8364b2ade71c1"
+        "fb63f478390c9bb4a6b8364b2ade71c1",
+        "db9456e906af19861391a113ebf51409",
+        "99df384d8acc2de1ae497e3ab858171d",
+        "909b975261f3b8ea1e01ca070c28f078"
       ],
       "last_results": [
         {
@@ -741,15 +744,42 @@
           "chain": "emergent-concepts",
           "theme": "LLM agent infrastructure / memory-systems / data-management",
           "discovered": "2026-06-25T16:25:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.21649",
+          "slug": "evoembedding-evolvable-representations-for-long-context-retrieval-and-agentic-memory-2606.21649",
+          "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",
+          "hash": "db9456e906af19861391a113ebf51409",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:42:00+00:00",
+          "theme": "LLM embeddings / long-context retrieval / agentic-memory"
+        },
+        {
+          "arxiv_id": "2606.24526",
+          "slug": "agora-an-archive-grounded-benchmark-for-agentic-workplace-document-reasoning-2606.24526",
+          "title": "AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning",
+          "hash": "99df384d8acc2de1ae497e3ab858171d",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:42:00+00:00",
+          "theme": "LLM agent benchmarking / document-reasoning / long-context exploration"
+        },
+        {
+          "arxiv_id": "2606.24231",
+          "slug": "flowr2a-learning-reward-to-action-distribution-for-multimodal-driving-planning-2606.24231",
+          "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
+          "hash": "909b975261f3b8ea1e01ca070c28f078",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:42:00+00:00",
+          "theme": "LLM robotics / generative planning / flow-matching"
         }
       ],
-      "last_run": "2026-06-25T16:25:00+00:00",
-      "last_updated": "2026-06-25T16:25:00+00:00",
-      "last_result_timestamp": "2026-06-25T16:25:00+00:00",
-      "last_run_key": "emergent_concept_search_3_papers_2026-06-25"
+      "last_run": "2026-06-25T16:42:00+00:00",
+      "last_updated": "2026-06-25T16:42:00+00:00",
+      "last_result_timestamp": "2026-06-25T16:42:00+00:00",
+      "last_run_key": "emergent_concept_search_3_papers_2026-06-25_16:42"
     }
   },
-  "last_run": "2026-06-25T16:25:00+00:00",
+  "last_run": "2026-06-25T16:42:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -759,12 +789,15 @@
     "f3937af719873c58af74b850497884eb",
     "2436296cc2ac9e0a6816b8d213a7abc0",
     "d790b7a89f2354621faf3dd72c363ce5",
-    "fb63f478390c9bb4a6b8364b2ade71c1"
+    "fb63f478390c9bb4a6b8364b2ade71c1",
+    "db9456e906af19861391a113ebf51409",
+    "99df384d8acc2de1ae497e3ab858171d",
+    "909b975261f3b8ea1e01ca070c28f078"
   ],
-  "last_discovery": "2026-06-25T16:25:00+00:00",
-  "last_updated": "2026-06-25T16:25:00+00:00",
-  "__last_updated": "2026-06-25T16:25:00+00:00",
-  "last_explore": "2026-06-25T16:25:00+00:00",
+  "last_discovery": "2026-06-25T16:42:00+00:00",
+  "last_updated": "2026-06-25T16:42:00+00:00",
+  "__last_updated": "2026-06-25T16:42:00+00:00",
+  "last_explore": "2026-06-25T16:42:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -772,9 +805,12 @@
       "339968edc01332de74908945e0582c5d",
       "2436296cc2ac9e0a6816b8d213a7abc0",
       "d790b7a89f2354621faf3dd72c363ce5",
-      "fb63f478390c9bb4a6b8364b2ade71c1"
+      "fb63f478390c9bb4a6b8364b2ade71c1",
+      "db9456e906af19861391a113ebf51409",
+      "99df384d8acc2de1ae497e3ab858171d",
+      "909b975261f3b8ea1e01ca070c28f078"
     ],
-    "last_discovery": "2026-06-25T16:25:00+00:00",
-    "last_run": "2026-06-25T16:25:00+00:00"
+    "last_discovery": "2026-06-25T16:42:00+00:00",
+    "last_run": "2026-06-25T16:42:00+00:00"
   }
 }

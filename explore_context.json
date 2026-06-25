@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T16:25:00+00:00",
-  "__last_updated": "2026-06-25T16:25:00+00:00",
-  "last_run": "2026-06-25T16:25:00+00:00",
-  "last_explore": "2026-06-25T16:25:00+00:00",
-  "last_global_explore": "2026-06-25T16:25:00+00:00",
-  "last_discovery": "2026-06-25T16:25:00+00:00",
-  "last_run_framing": "emergent_concept: 3 fresh themes from HF 3-day window (masked-diffusion LLM + agentic-data-scientist + agent-native memory)",
+  "updated": "2026-06-25T16:42:00+00:00",
+  "__last_updated": "2026-06-25T16:42:00+00:00",
+  "last_run": "2026-06-25T16:42:00+00:00",
+  "last_explore": "2026-06-25T16:42:00+00:00",
+  "last_global_explore": "2026-06-25T16:42:00+00:00",
+  "last_discovery": "2026-06-25T16:42:00+00:00",
+  "last_run_framing": "emergent_concept: 3 fresh themes from HF 3-day window (LLM embeddings + agent document-reasoning benchmark + flow-matching driving planning)",
   "last_framing": "emergent_concept",
-  "last_run_notes": "Run produced 3 fresh picks from HF 2026-06-23..25 LLM-relevant papers; 108/108 candidates were pre-existing-fresh (just-restored state).",
+  "last_run_notes": "Run produced 3 fresh picks from HF 2026-06-23..25 LLM-relevant papers; 197 candidates fetched, 61 after strict subject-filter (CV/graphics excluded), 3 picked by LLM-flavor score (top 8/6/6). Subjects: cs.CL (EvoEmbedding, AGORA), cs.AI (FlowR2A). All 3 papers are cs.CL/cs.AI with strong LLM/agent/embedding themes — no cs.CV contamination. MERGE-then-SORT prepend to emergent-concepts.md ## Updates: 12-entry top block sorted by (date desc, arxiv_id desc). All 12 entries bullet-prefixed.",
   "last_pass_type": "emergent_concept",
-  "last_run_method": "HuggingFace daily papers (2026-06-23..25) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter cs.CL/cs.LG/cs.AI/cs.IR",
+  "last_run_method": "HuggingFace daily papers (2026-06-23..25) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter (pitfall 52) + LLM-flavor title scoring + 5-store dedup",
   "run_method": "hf_daily_emergent_concept",
   "last_run_added": 3,
   "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "non-autoregressive diffusion LLM + agentic-data-pipeline + agent-memory-systems",
-  "emergent_theme": "non-autoregressive diffusion LLM + agentic-data-pipeline + agent-memory-systems",
+  "emergent_concept_theme": "LLM embeddings + agent document-reasoning benchmark + flow-matching driving planning",
+  "emergent_theme": "LLM embeddings + agent document-reasoning benchmark + flow-matching driving planning",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 21,
+  "entities_count": 24,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -247,15 +247,45 @@
           "discovered": "2026-06-25T16:25:00+00:00",
           "theme": "LLM agent infrastructure / memory-systems / data-management",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.21649",
+          "slug": "evoembedding-evolvable-representations-for-long-context-retrieval-and-agentic-memory-2606.21649",
+          "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",
+          "url": "https://arxiv.org/abs/2606.21649",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:42:00+00:00",
+          "theme": "LLM embeddings / long-context retrieval / agentic-memory",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.24526",
+          "slug": "agora-an-archive-grounded-benchmark-for-agentic-workplace-document-reasoning-2606.24526",
+          "title": "AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning",
+          "url": "https://arxiv.org/abs/2606.24526",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:42:00+00:00",
+          "theme": "LLM agent benchmarking / document-reasoning / long-context exploration",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.24231",
+          "slug": "flowr2a-learning-reward-to-action-distribution-for-multimodal-driving-planning-2606.24231",
+          "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
+          "url": "https://arxiv.org/abs/2606.24231",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:42:00+00:00",
+          "theme": "LLM robotics / generative planning / flow-matching",
+          "chain": "emergent-concepts"
         }
       ],
-      "last_run": "2026-06-25T16:25:00+00:00",
-      "last_explore": "2026-06-25T16:25:00+00:00",
-      "last_run_added": 0,
-      "papers_found_count": 79,
+      "last_run": "2026-06-25T16:42:00+00:00",
+      "last_explore": "2026-06-25T16:42:00+00:00",
+      "last_run_added": 3,
+      "papers_found_count": 82,
       "run_method": "emergent-concept",
-      "last_explored": "2026-06-25T16:14:44+00:00",
-      "last_run_notes": "3 new papers: Self-Compacting Agents (2606.23525), Periodic Table of LLM Reasoning (2606.11470), Agents' Last Exam (2606.05405). Themes: LLM agents / context-management, LLM reasoning / survey, LLM agent benchmarking."
+      "last_explored": "2026-06-25T16:42:00+00:00",
+      "last_run_notes": "3 new papers: EvoEmbedding (2606.21649), AGORA (2606.24526), FlowR2A (2606.24231). Themes: LLM embeddings + agent document-reasoning + flow-matching driving planning. MERGE-then-SORT prepend to emergent-concepts.md ## Updates."
     }
   },
   "emergent_concept_papers": [
@@ -336,6 +366,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-25T16:25:00+00:00",
       "theme": "LLM agent infrastructure / memory-systems / data-management"
+    },
+    {
+      "arxiv_id": "2606.21649",
+      "slug": "evoembedding-evolvable-representations-for-long-context-retrieval-and-agentic-memory-2606.21649",
+      "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",
+      "url": "https://arxiv.org/abs/2606.21649",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-19",
+      "discovered": "2026-06-25T16:42:00+00:00",
+      "theme": "LLM embeddings / long-context retrieval / agentic-memory"
+    },
+    {
+      "arxiv_id": "2606.24526",
+      "slug": "agora-an-archive-grounded-benchmark-for-agentic-workplace-document-reasoning-2606.24526",
+      "title": "AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning",
+      "url": "https://arxiv.org/abs/2606.24526",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-23",
+      "discovered": "2026-06-25T16:42:00+00:00",
+      "theme": "LLM agent benchmarking / document-reasoning / long-context exploration"
+    },
+    {
+      "arxiv_id": "2606.24231",
+      "slug": "flowr2a-learning-reward-to-action-distribution-for-multimodal-driving-planning-2606.24231",
+      "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
+      "url": "https://arxiv.org/abs/2606.24231",
+      "subject": "Artificial Intelligence (cs.AI)",
+      "date": "2026-06-23",
+      "discovered": "2026-06-25T16:42:00+00:00",
+      "theme": "LLM robotics / generative planning / flow-matching"
     }
   ],
   "emergent_discoveries": [
@@ -413,6 +473,24 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-25T16:25:00+00:00",
       "theme": "LLM agent infrastructure / memory-systems / data-management"
+    },
+    {
+      "arxiv_id": "2606.21649",
+      "slug": "evoembedding-evolvable-representations-for-long-context-retrieval-and-agentic-memory-2606.21649",
+      "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",
+      "discovered": "2026-06-25T16:42:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.24526",
+      "slug": "agora-an-archive-grounded-benchmark-for-agentic-workplace-document-reasoning-2606.24526",
+      "title": "AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning",
+      "discovered": "2026-06-25T16:42:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.24231",
+      "slug": "flowr2a-learning-reward-to-action-distribution-for-multimodal-driving-planning-2606.24231",
+      "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
+      "discovered": "2026-06-25T16:42:00+00:00"
     }
   ],
   "emergent_concept_search_log": [
@@ -469,6 +547,23 @@
         "LLM training-data / agentic-data-pipeline / synthetic-data",
         "LLM agent infrastructure / memory-systems / data-management"
       ]
+    },
+    {
+      "ts": "2026-06-25T16:42:00+00:00",
+      "window": "2026-06-23..2026-06-25",
+      "candidates_fetched": 197,
+      "after_subject_filter": 61,
+      "picks": [
+        "2606.21649",
+        "2606.24526",
+        "2606.24231"
+      ],
+      "themes": [
+        "LLM embeddings / long-context retrieval / agentic-memory",
+        "LLM agent benchmarking / document-reasoning / long-context exploration",
+        "LLM robotics / generative planning / flow-matching"
+      ],
+      "note": "HF 3-day window. Pitfall 52 confirmed (non_cv_count is title-flavor upper bound, not subject-filtered); strict subject filter recovered 61 LLM candidates from 100 non_cv_metadata. 0% pre-existing dedup rate expected on just-restored wiki with <50 entities (pitfall 58a)."
     }
   ],
   "emergent_concept_search_runs": [
@@ -534,6 +629,16 @@
       ],
       "thematic_framing": "non-autoregressive diffusion LLM (iLLaDA) + agentic-data-pipeline (Autodata) + agent-memory-systems (Agent-Native Memory)",
       "dedup_rate": "0/108 pre-existing (just-restored state; all 3 picks clean across 4 hash stores and filesystem suffixes"
+    },
+    {
+      "ts": "2026-06-25T16:42:00+00:00",
+      "picks_count": 3,
+      "pick_ids": [
+        "2606.21649",
+        "2606.24526",
+        "2606.24231"
+      ],
+      "method": "HF daily+monthly 3-day + strict subject filter"
     }
   ],
   "runs": [
@@ -566,7 +671,18 @@
         "autodata-an-agentic-data-scientist-to-create-high-quality-synthetic-data-2606.25996",
         "are-we-ready-for-an-agent-native-memory-system-2606.24775"
       ]
+    },
+    {
+      "ts": "2026-06-25T16:42:00+00:00",
+      "type": "emergent_concept",
+      "picks": 3,
+      "pick_ids": [
+        "2606.21649",
+        "2606.24526",
+        "2606.24231"
+      ],
+      "method": "hf_daily_emergent_concept"
     }
   ],
-  "last_updated": "2026-06-25T16:25:00+00:00"
+  "last_updated": "2026-06-25T16:42:00+00:00"
 }
