@@ -17,6 +17,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-25** | [Liquid AI LFM2.5-230M: Built to Run Anywhere (open-weights edge LLM)](https://www.liquid.ai/blog/lfm2-5-230m) | kw: LFM2.5-230M | source: liquid-ai
+- **2026-06-25** | [LiquidAI/LFM2.5-230M - Hugging Face](https://huggingface.co/LiquidAI/LFM2.5-230M) | kw: LFM2.5-230M | source: liquid-ai
 - **2026-06-24** | [Qwen-AgentWorld-35B-A3B: Language World Models for General Agents](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) | kw: Qwen-AgentWorld | source: qwen-releases
 - **2026-06-24** | [Riazi-8B: An Urdu Large Language Model for Mathematical Reasoning](https://arxiv.org/abs/2606.25568v1) | kw: Riazi-8B: An Urdu Large Language Model for Mathematical Reas | source: arxiv-cs-cl
 - **2026-06-23** | [An LLM-based Two-Stage Transformer Framework for Cross-Domain Bearing Fault Diagnosis with Limited Data](https://arxiv.org/abs/2606.24459v1) | kw: An LLM-based Two-Stage Transformer Framework for Cross-Domai | source: arxiv-cs-cl
@@ -122,4 +124,5 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **MiniMax** — cycle 9 — MiniMax AI MiniMax-M3 release new model multimodal MoE
 - **inclusion-ai** — cycle 52 — InclusionAI Ling Ring Sing-Guard open weights model release
 - **deepreinforce-ai** — cycle 56 — DeepReinforce AI Ornith model release coding agent weights
+- **liquid-ai** — cycle 59 — Liquid AI LFM2.5 family edge LLM open weights model release
 
