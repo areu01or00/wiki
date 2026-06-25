@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+- **2026-06-25** | [Statically Typed vs Dynamically Typed Languages - Baeldung](https://www.baeldung.com/cs/statically-vs-dynamically-typed-languages) | kw: Statically Typed vs Dynamically Typed Languages - Baeldung
+- **2026-06-25** | [Static vs dynamic typing, would love to hear your opinions - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/q62w62/static_vs_dynamic_typing_would_love_to_hear_your/) | kw: Static vs dynamic typing, would love to hear your opinions - Reddit
+- **2026-06-25** | [Dynamically Typed Languages Are Not What You Think](https://erik-engheim.medium.com/dynamically-typed-languages-are-not-what-you-think-ac8d1392b803) | kw: Dynamically Typed Languages Are Not What You Think
+
 - **2026-06-25** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: elixir type inference
 - **2026-06-25** | [Free Video: Migrating Gradual Types - A Framework for Static and](https://www.classcentral.com/course/youtube-popl-18-migrating-gradual-types-430793) | kw: popl migrating gradual
 

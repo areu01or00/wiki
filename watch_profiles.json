@@ -231,7 +231,7 @@
         "ae4755a77ae2a109465f9e2f6bb42920",
         "13abda52e0c11ca03b64ad68aa7e823f"
       ],
-      "last_run": "2026-06-25 00:30 UTC",
+      "last_run": "2026-06-25 00:47 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -479,7 +479,7 @@
         "926e4c8698aeb3f05ca52d73aa8010c7",
         "ca9ade675eecf6183c340d40af57c779"
       ],
-      "last_run": "2026-06-25 00:30 UTC",
+      "last_run": "2026-06-25 00:47 UTC",
       "new_sub_topics_this_run": [
         {
           "title": "Releases - Compiler Research",
@@ -705,9 +705,6 @@
         "Luau"
       ],
       "last_result_hashes": [
-        "125dbb0b4ca4da741d64d57bca463383",
-        "6d77d36d5d5faa4ef4e6858564ce52bc",
-        "157412d23ae7600e6e71f1c5ad39564a",
         "59a8a21374ae68e5d94fe6780980c29c",
         "1a9958a78e7ae39c78870e2584d0687d",
         "88dfcf74de33a1e88c9e9c90d0e55f9b",
@@ -724,9 +721,12 @@
         "25e7d3a64096788aebbce4fbfa2b866b",
         "0ba6a39eb53c900ab14c900766313e3b",
         "6c257d065a3041b16049b05a47e582ff",
-        "e604f9de4b5b38d6f3cdd468ccb5bc6c"
+        "e604f9de4b5b38d6f3cdd468ccb5bc6c",
+        "aa0d061579c15ed3e4275abee9ab0332",
+        "1fc5a7344dfa8513daffc26dea181d95",
+        "5f164d470aec9abad0bab8bfb6cc05da"
       ],
-      "last_run": "2026-06-25 00:30 UTC",
+      "last_run": "2026-06-25 00:47 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -977,7 +977,7 @@
         "e2809728031a0a794b40bbdaef5a85f9",
         "2c6957e1f1d7ea7d57cfdd721fc5e962"
       ],
-      "last_run": "2026-06-25 00:30 UTC",
+      "last_run": "2026-06-25 00:47 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -1246,7 +1246,7 @@
         "5e02bb10fe06fe048e2f6bbb19b9f089",
         "47610ac487dedeb5823885888fa843e0"
       ],
-      "last_run": "2026-06-25 00:30 UTC",
+      "last_run": "2026-06-25 00:47 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
@@ -1514,7 +1514,7 @@
         "2d58b6b89757b9188cc9683044d1aaf0",
         "d6afac3c08647a43bdbf31111905a4db"
       ],
-      "last_run": "2026-06-25 00:30 UTC",
+      "last_run": "2026-06-25 00:47 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 0,
       "_new_total_for_digest": 0
