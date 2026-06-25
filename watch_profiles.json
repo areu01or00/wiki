@@ -240,14 +240,6 @@
         "Large"
       ],
       "last_result_hashes": [
-        "82601ad43b0fe127ccdd116d7f69071f",
-        "9ef09709545d432e2dc99e2cf360fbe8",
-        "20c9af03d5ba04de769b9c8d55fbf657",
-        "296232a484ebb0a2303e19fa650f6b06",
-        "81698e4cb907a3ce79c9ffd387bd1f0a",
-        "91b0623023c2c706479af2c4745808de",
-        "89a92316f41a5050a2cfe852301aaa2a",
-        "514e62e45907d8b538db2305cb02b599",
         "5758364853f83cbe77d8a31e57f7b21c",
         "5dff35197dd714f0725776136f983c36",
         "a4f767c8d886ec8f2fab1999efc97283",
@@ -259,9 +251,17 @@
         "2329422a9910ab33981727a77f2ecd37",
         "66ae815700cacb4e96d1e78f07e63810",
         "30eb2e1134419c9dd635b852dc30339c",
-        "2d3506c3f6b37ad4e09360268ba56f6d"
+        "2d3506c3f6b37ad4e09360268ba56f6d",
+        "bd9c53776405cab613029a2242f038c3",
+        "3813a85c177e3ca3873baaa96742d8b5",
+        "ad4481a7dbbc4df9fc46950e17d1fbb1",
+        "b423b328489be6600827d14ac98bb359",
+        "6ca995a4a92b1bf2cd7d783da5eb36c5",
+        "d3099c6517032e4d8a49b61853da6add",
+        "4a75975bbd7ceb861d5fe114d0669e90",
+        "e2648b84ec2d1b998a39b3fd67a6c7f1"
       ],
-      "last_run": "2026-06-25 03:50 UTC",
+      "last_run": "2026-06-25 04:08 UTC",
       "new_sub_topics_this_run": [
         "Panel",
         "What",
@@ -281,7 +281,7 @@
         "Multi-Agent Orchestration Patterns",
         "If you want to get started with system design (in "
       ],
-      "last_new_count": 5
+      "last_new_count": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -523,11 +523,6 @@
         "infrastructure"
       ],
       "last_result_hashes": [
-        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
-        "4a875ba6c9df4a6d863a675c9bbe1244",
-        "7d0b717005814217330e578b0fbdc8fb",
-        "163d465d29904ded149230da823d3010",
-        "86dae3049ea21c99dda81d25d2128ad8",
         "f1925c0af6e39aa520ffa6a282ede525",
         "7e0c886c34d50dec18b0453a098f97b1",
         "a8f59b74ac26771a4b96594aedd7df11",
@@ -542,9 +537,14 @@
         "f212b8bc83dbc58b61083167f860e67f",
         "79f4ddf873dbf67c746be2d871fbeb46",
         "b9a1444439c4370b71f553ef5c31cd7f",
-        "1382ef81b8b46a33f9229b1c7749d06f"
+        "1382ef81b8b46a33f9229b1c7749d06f",
+        "3c9718118369d7e2403bff65ca60bf76",
+        "da4da22ebe0b30bc79e1ad7a94e5310c",
+        "926e4c8698aeb3f05ca52d73aa8010c7",
+        "c6982ba3f2387fa7efa4b53444c6c85e",
+        "ca9ade675eecf6183c340d40af57c779"
       ],
-      "last_run": "2026-06-25 03:50 UTC",
+      "last_run": "2026-06-25 04:08 UTC",
       "new_sub_topics_this_run": [
         "Creating a runtime using the LLVM_ENABLE_RUNTIMES ",
         "LTS2026 is (finally) out",
@@ -555,7 +555,7 @@
         "API",
         "2026 US LLVM Developers' Meeting"
       ],
-      "last_new_count": 4
+      "last_new_count": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -778,11 +778,6 @@
         "Type system - Wikipedia"
       ],
       "last_result_hashes": [
-        "281dcc412b25b8e56702cc648bcf9932",
-        "474d9e795c4f52bbdf5cfdeabfe5907f",
-        "6d77d36d5d5faa4ef4e6858564ce52bc",
-        "592f29fe81f4b3a25b7c6786918e27be",
-        "ecf279dd4441dd4ce354964ef77f265d",
         "b177475a05631b06f73e531cf8aa0a39",
         "55852131fabfce2db4a4694561d1aa46",
         "6dd02e9dbc82ee59e01eebd7931fcaa4",
@@ -797,9 +792,14 @@
         "068a07b3862dfe7a7b75410740325108",
         "2817e8378b277cd3cfe64b421e8bd932",
         "88dfcf74de33a1e88c9e9c90d0e55f9b",
-        "fc735fa9ff4c8d2d83888648a67a3892"
+        "fc735fa9ff4c8d2d83888648a67a3892",
+        "a775d463940cda26049a2bbb97f4a0a9",
+        "8def5ac28caf3d0c145465a52adec4c4",
+        "77e6d7113d0251c61df011f61527f13f",
+        "1dcd1581525d69f43f31496ed7500cb1",
+        "ee7e5ae38d8096beea069d17440a80e2"
       ],
-      "last_run": "2026-06-25 03:50 UTC",
+      "last_run": "2026-06-25 04:08 UTC",
       "new_sub_topics_this_run": [
         "[2603.05649] Efficient Selection of Type Annotatio",
         "Elixir's Gradual Type System (1.17\u20131.20)",
@@ -807,7 +807,7 @@
         "Putting Gradual Types to Work",
         "Guard Analysis and Safe Erasure Gradual Typing"
       ],
-      "last_new_count": 3
+      "last_new_count": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1050,9 +1050,6 @@
         "What is a monad?"
       ],
       "last_result_hashes": [
-        "ab1a401478bf91151df62818473f5ef5",
-        "0a825892b16894ee5479d8cdc9ceb413",
-        "6265d0c7ea387b97e9eb7551bfd1a683",
         "32a8b72620f9ad02c0fd61fc5abba7de",
         "64b9213a9db6ffcf3ee048410614e9dc",
         "ca0a1465631c6b3c554a745b4cc949a5",
@@ -1069,9 +1066,12 @@
         "269341708d555d5819da5ef32f81a574",
         "52aadfa3b6370a6961288afe7f75e34c",
         "bab6dc04368dc487cd403e3a93312b56",
-        "cc9f3837164b6e0e6edde576a14a1c3f"
+        "cc9f3837164b6e0e6edde576a14a1c3f",
+        "bef7f26ae21c2bd2ce12ad559b0f81ae",
+        "dfefbf5c0d4af4a66802045cc65d2ee3",
+        "2136ac778d12aee3561de89d5cb2371d"
       ],
-      "last_run": "2026-06-25 03:50 UTC",
+      "last_run": "2026-06-25 04:08 UTC",
       "new_sub_topics_this_run": [
         "workshop",
         "Monad (functional programming)",
@@ -1355,15 +1355,6 @@
         "Kaggle"
       ],
       "last_result_hashes": [
-        "6705f2d48d0252070292176640a51270",
-        "6ad12a4c3309689d5478c9c6598a6eff",
-        "3a5aa4dc7a08cf53617d8bc45fcdd95d",
-        "c047a018ea3c082f89d714707176a9b7",
-        "f822dd4d7a9290624864e5a92712ba08",
-        "1f0fb59df2c3695b9250c825d78ef647",
-        "c4c82a950d18badb1ae4cbd1c739e610",
-        "1de5e6c214f5c903677b0790487ad033",
-        "7b86d151397bd3b26637162c987f0b1e",
         "6caf05a4744ee8215266eedf16084500",
         "b8ea900b3f0bf673c4e45caddd9508ee",
         "cb0012366a214773f0f3273460f3ca89",
@@ -1374,9 +1365,18 @@
         "d727dd403674c8e79bf1452104697891",
         "8b872e9c4137efc4de77b9e0bf4a2ba1",
         "37b18b3ee5841dc8d78ef02edf927dc9",
-        "1a18d8cd13c22b21b307c0961b2a6935"
+        "1a18d8cd13c22b21b307c0961b2a6935",
+        "6f76fa3c897c16dffda61e0165af6948",
+        "01940b60629629b705bf12ccd164e5bb",
+        "cbe2e96e89f866f21a36d6ca8966d699",
+        "06749d2ac7e2ff66b553503eb9ebc2e3",
+        "d7372550be4da64ecd86947f09dbf128",
+        "e9f35abfd88f89c69621cb462d294c7e",
+        "ec401c280dd19f2b40d32dbb452a7dd8",
+        "bacc4c268ab4d6ab4c074b284e41ab33",
+        "0d4c223d74df4fe83ef4d94e4912c198"
       ],
-      "last_run": "2026-06-25 03:50 UTC",
+      "last_run": "2026-06-25 04:08 UTC",
       "new_sub_topics_this_run": [
         "Unexpected end of JSON input",
         "Stop",
@@ -1387,7 +1387,7 @@
         "Google 2026 Interview Preparation",
         "2026 Interview Prep!"
       ],
-      "last_new_count": 4
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1646,15 +1646,6 @@
         "YouTube"
       ],
       "last_result_hashes": [
-        "c71c266cfca80a985eb39041d48e2705",
-        "a3ce70b635f7607a2fedf2935167e17f",
-        "2b488ef7ce114fc1b91a56466211fbe2",
-        "83c76331b8d186cc5d695017f50eb5fb",
-        "eb0b3ec801d1a3e533436e346922f4e5",
-        "8c9ba4cb5a5e5722f9c0bc68313672d7",
-        "1f8e2c92ae5ada27a41135077afa335d",
-        "1d2c3f7c79b6739381eda440cbb16a95",
-        "ea5c38d19b30409d9d46cbd89420af5d",
         "a1b09dd538853456c361cf73dbf6eb1b",
         "b1ee147f4d765a2e836d0e6ebb25e4a0",
         "d965c4ac6e189c5e3ef5fefcd20c9dff",
@@ -1665,9 +1656,18 @@
         "cab51b9535106a9f6b476476901a2948",
         "4ba531aedd0133f44b372ea8170dfc08",
         "c644c61774b53593b05d98f55951400a",
-        "17f40f751da9a1c9558ca7dbf958ae7e"
+        "17f40f751da9a1c9558ca7dbf958ae7e",
+        "10a6d6e786cdb44ade53e424b1cf9cd2",
+        "a2fcdf777b793a14ffaf06cf960d7d37",
+        "57ad949b13054a49134274f7b5cbab95",
+        "7d5ff1223aa2528c00ae557a15bd8588",
+        "465fdd4d25809822a437c69988e5811a",
+        "fba6a6a0bbd9ae8754809abfd1c4769a",
+        "08e8c546ddb83ecf82fc869aed4b404b",
+        "474c152f8f7f6147ea15e1f25fff436b",
+        "f60b0ebfe431beff8b3dfa76bf9447e4"
       ],
-      "last_run": "2026-06-25 03:50 UTC",
+      "last_run": "2026-06-25 04:08 UTC",
       "new_sub_topics_this_run": [
         "What is the Python Global Interpreter Lock (GIL)",
         "The Future of Python Internals",
@@ -1675,7 +1675,7 @@
         "Understanding the Python Global Interpreter Lock (",
         "What is the Global Interpreter Lock (GIL) in Pytho"
       ],
-      "last_new_count": 3
+      "last_new_count": 0
     }
   },
   "last_run": "2026-06-25 03:18 UTC"
