@@ -712,7 +712,10 @@
         "8c4050f9c3793ed414e2cdd635423bbe",
         "f3937af719873c58af74b850497884eb",
         "23ce456ff96df44a5dfb0e51911631c6",
-        "7aa5a28b0fdbbc7aae51408f90566e03"
+        "7aa5a28b0fdbbc7aae51408f90566e03",
+        "9eca1ca5c1236010e5e0698d1aa89d85",
+        "54be3bf50666d12cc47fe7d64f0f8ad5",
+        "2037ef7d16dc5d61be03a535e3c755d5"
       ],
       "last_results": [
         {
@@ -987,16 +990,43 @@
           "slug": "hakari-bench-a-lightweight-benchmark-for-comparing-retrieval-architectures-and-efficiency-settings-under-unified-conditions-2606.22778",
           "date": "2026-06-25T18:29:50.738474+00:00",
           "method": "hf_daily_3d_run1823"
+        },
+        {
+          "arxiv_id": "2606.16316",
+          "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
+          "hash": "9eca1ca5c1236010e5e0698d1aa89d85",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM retrieval / index-side reasoning / RL-trained indexing",
+          "discovered": "2026-06-25T18:44:30.175576+00:00"
+        },
+        {
+          "arxiv_id": "2606.21627",
+          "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
+          "hash": "54be3bf50666d12cc47fe7d64f0f8ad5",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM agent evaluation / LLM-as-judge calibration / agentic meta-eval",
+          "discovered": "2026-06-25T18:44:30.175576+00:00"
+        },
+        {
+          "arxiv_id": "2606.18831",
+          "title": "Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning",
+          "hash": "2037ef7d16dc5d61be03a535e3c755d5",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM training / long-context RL / data-centric RL recipe",
+          "discovered": "2026-06-25T18:44:30.175576+00:00"
         }
       ],
-      "last_run": "2026-06-25T18:29:50.738474+00:00",
-      "last_updated": "2026-06-25T17:43:19.950910+00:00",
-      "last_result_timestamp": "2026-06-25T17:43:19.950910+00:00",
+      "last_run": "2026-06-25T18:44:30.175576+00:00",
+      "last_updated": "2026-06-25T18:44:30.175576+00:00",
+      "last_result_timestamp": "2026-06-25T18:44:30.175576+00:00",
       "last_run_key": "emergent_concept_search_3_papers_2026-06-25",
       "last_pass_type": "emergent_concept_search"
     }
   },
-  "last_run": "2026-06-25T18:29:50.738474+00:00",
+  "last_run": "2026-06-25T18:44:30.175576+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1030,12 +1060,15 @@
     "88e3d083e91305c0baf15a01f24e0faa",
     "eb5b207284eb27ab92e704e839c5b9e4",
     "1e2b587b437ef1b85e7bdc243aef336c",
-    "8c4050f9c3793ed414e2cdd635423bbe"
+    "8c4050f9c3793ed414e2cdd635423bbe",
+    "9eca1ca5c1236010e5e0698d1aa89d85",
+    "54be3bf50666d12cc47fe7d64f0f8ad5",
+    "2037ef7d16dc5d61be03a535e3c755d5"
   ],
-  "last_discovery": "2026-06-25T17:58:13.532300+00:00",
-  "last_updated": "2026-06-25T17:58:13.532300+00:00",
-  "__last_updated": "2026-06-25T17:58:13.532300+00:00",
-  "last_explore": "2026-06-25T17:58:13.532300+00:00",
+  "last_discovery": "2026-06-25T18:44:30.175576+00:00",
+  "last_updated": "2026-06-25T18:44:30.175576+00:00",
+  "__last_updated": "2026-06-25T18:44:30.175576+00:00",
+  "last_explore": "2026-06-25T18:44:30.175576+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1070,10 +1103,13 @@
       "8c4050f9c3793ed414e2cdd635423bbe",
       "f3937af719873c58af74b850497884eb",
       "23ce456ff96df44a5dfb0e51911631c6",
-      "7aa5a28b0fdbbc7aae51408f90566e03"
+      "7aa5a28b0fdbbc7aae51408f90566e03",
+      "9eca1ca5c1236010e5e0698d1aa89d85",
+      "54be3bf50666d12cc47fe7d64f0f8ad5",
+      "2037ef7d16dc5d61be03a535e3c755d5"
     ],
-    "last_discovery": "2026-06-25T17:58:13.532300+00:00",
-    "last_run": "2026-06-25T18:29:50.738474+00:00"
+    "last_discovery": "2026-06-25T18:44:30.175576+00:00",
+    "last_run": "2026-06-25T18:44:30.175576+00:00"
   },
   "last_pass_type": "emergent_concept_search"
 }

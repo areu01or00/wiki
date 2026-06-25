@@ -243,3 +243,19 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - State files: explore_context.json (33 in emergent_concept_papers, 33 in chains[emergent-concepts].papers_found), watch_profiles.json (33 top-level hashes + 33 in each sub-profile after orphan-fix pass)
 - Pitfalls hit: 62 (preamble-loss — first attempt lost preamble; recovered via git checkout + corrected recipe), 61 (boundary-header-doubling — first attempt doubled H2s; recovered via fixed tail-extraction logic)
 - Pitfalls cleanly avoided: 50 (cross-check pre-commit), 52 (strict subject filter), 28 (wikilink resolution check — caught broken rl-index link in HAKARI page, removed), 53 (list appends), 60 (defensive isinstance), 64 (chains_updated REPLACE not append), 65 (custom HF parser since bundled script missing — wrote /tmp/hf_discover_run1823.py)
+
+## 2026-06-25 18:38 UTC (run1830)
+- Emergent-concept pass via 3-day HF window (2026-06-22..2026-06-25, end_d=2026-06-25)
+- 115 raw HF papers → 80 after Step 2.5 strict subject filter (35% CV/graphics/sound excluded) → 49 fresh after 5-store dedup → 3 manual picks from LLM-flavor + LLM-research relevance
+- 3 new entity pages created:
+  - RL-Index (2606.16316, cs.IR, 2026-06-15): GRPO-trained offline index-rationale augmentation that shifts reasoning compute from query time to indexing
+  - Counsel (2606.21627, cs.AI, 2026-06-19): first public meta-evaluation dataset for LLM-as-judge on agentic tasks (tau-bench + DA-Code), human-labeled spot-on / location-only / should-not-flag
+  - Beyond Reward Engineering (2606.18831, cs.CL, 2026-06-17): data-recipe-first long-context RL with minimal outcome-based GRPO, +7.2/+3.2/+6.4 on Qwen3-4B/8B/30B-A3B + agentic transfer (GAIA +4.8, BrowseComp +7.0)
+- Parent [[emergent-concepts]] ## Updates: 3 entries prepended via MERGE-then-SORT (N_EXISTING_TOP=10, new dates 06/15-06/19 inserted at positions 9-11 after 2026-06-24 and 2026-06-23 entries)
+- State files: explore_context.json (36 in emergent_concept_papers, 36 in chains[emergent-concepts].papers_found), watch_profiles.json (36 top-level hashes + 36 in each sub-profile)
+- ensure_ascii detection: explore_context=False (raw em-dash absent), watch_profiles=True (escape sequences) — stable divergent state confirmed
+- Step 7.5 entity↔state cross-check (pre-write): 33 filesystem == 33 state arxiv IDs, 0 orphans, 0 extras
+- Step 7.5 entity↔state cross-check (post-write): 36 filesystem == 36 state, 0 orphans, 0 extras
+- Pitfalls cleanly avoided: 4/32/41/46/49/62 (MERGE-then-SORT + preamble preservation), 52 (strict subject filter), 28 (wikilink resolution check — all 17 new wikilinks resolved), 53 (list-shaped appends for search_runs/runs), 60 (defensive isinstance on watch sub-profiles), 63 (no execute_code in cron context — used write_file + terminal), 64 (chains_updated REPLACE not append), 65 (custom HF parser — bundled script missing), 66 (N_EXISTING_TOP > len(new_entries) safe default)
+- Step 2.5 strict subject filter recovered 80 LLM candidates from 115 raw non_cv_metadata (32 CV + 3 cs.GR + 0 cs.SD excluded); top-3 picks are all cs.CL/cs.AI/cs.IR with score=4
+- Per-run counter suffix on /tmp/ artifacts: run1830 (sibling-subagent /tmp/*.py interference fix)

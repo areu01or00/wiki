@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T17:58:13.532300+00:00",
-  "__last_updated": "2026-06-25T18:29:50.738474+00:00",
-  "last_run": "2026-06-25T18:29:50.738474+00:00",
-  "last_explore": "2026-06-25T18:29:50.738474+00:00",
-  "last_global_explore": "2026-06-25T18:29:50.738474+00:00",
-  "last_discovery": "2026-06-25T18:29:50.738474+00:00",
-  "last_run_framing": "emergent_concept",
-  "last_framing": "emergent_concept",
-  "last_run_notes": "pretraining actor-critic ODM + data-constrained training-time-augmentation + calibrated-verifier-telemetry (3 fresh themes absent from prior runs)",
-  "last_pass_type": "emergent-concept",
-  "last_run_method": "hf_daily_3d + strict_subject_filter + LLM_flavor_score",
+  "updated": "2026-06-25T18:44:30.175576+00:00",
+  "__last_updated": "2026-06-25T18:44:30.175576+00:00",
+  "last_run": "2026-06-25T18:44:30.175576+00:00",
+  "last_explore": "2026-06-25T18:44:30.175576+00:00",
+  "last_global_explore": "2026-06-25T18:44:30.175576+00:00",
+  "last_discovery": "2026-06-25T18:44:30.175576+00:00",
+  "last_run_framing": "emergent_concept_search_3_papers_index-reasoning-agent-eval-long-context-rl",
+  "last_framing": "index-side RL reasoning + agentic LLMJ meta-eval + data-recipe-first long-context RL (3 fresh themes absent from prior runs)",
+  "last_run_notes": "3 fresh non-CV LLM-research themes from HF 3-day window: RL-Index (index-side reasoning via GRPO on retrieval rationales), Counsel (public agentic LLMJ meta-eval dataset), Beyond Reward Engineering (data-recipe-first long-context RL with GRPO). 80 LLM candidates after strict subject filter, 49 fresh after 5-store dedup, 3 manual picks after LLM-flavor scoring. Strict subject filter recovered 80 from 115 raw IDs (35% CV/graphics/sound excluded).",
+  "last_pass_type": "emergent_concept_search",
+  "last_run_method": "HuggingFace daily 3d + strict subject filter + LLM-flavor scoring + 5-store dedup + manual_pick",
   "run_method": "hf_daily_3d + strict_subject_filter + LLM_flavor_score",
   "last_run_added": 3,
-  "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks",
-  "emergent_theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks",
+  "exploration_type": "emergent-concept-search",
+  "emergent_concept_theme": "index-side RL reasoning / agentic meta-evaluation / data-recipe-first long-context RL (3 fresh themes absent from prior runs)",
+  "emergent_theme": "LLM retrieval / index-side reasoning / RL-trained indexing (2606.16316) + LLM agent evaluation / LLM-as-judge calibration / agentic meta-eval (2606.21627) + LLM training / long-context RL / data-centric RL recipe (2606.18831)",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 33,
+  "entities_count": 48,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -478,15 +478,42 @@
           "title": "HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions",
           "vector": "emergent_concept",
           "discovered": "2026-06-25T18:29:50.738474+00:00"
+        },
+        {
+          "arxiv_id": "2606.16316",
+          "slug": "rl-index-reinforcement-learning-for-retrieval-index-reasoning-2606.16316",
+          "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
+          "url": "https://arxiv.org/abs/2606.16316",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T18:44:30.175576+00:00",
+          "theme": "LLM retrieval / index-side reasoning / RL-trained indexing"
+        },
+        {
+          "arxiv_id": "2606.21627",
+          "slug": "counsel-a-meta-evaluation-dataset-for-agentic-tasks-2606.21627",
+          "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
+          "url": "https://arxiv.org/abs/2606.21627",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T18:44:30.175576+00:00",
+          "theme": "LLM agent evaluation / LLM-as-judge calibration / agentic meta-eval"
+        },
+        {
+          "arxiv_id": "2606.18831",
+          "slug": "beyond-reward-engineering-a-data-recipe-for-long-context-reinforcement-learning-2606.18831",
+          "title": "Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2606.18831",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T18:44:30.175576+00:00",
+          "theme": "LLM training / long-context RL / data-centric RL recipe"
         }
       ],
-      "last_run": "2026-06-25T18:29:50.738474+00:00",
-      "last_explore": "2026-06-25T18:29:50.738474+00:00",
+      "last_run": "2026-06-25T18:44:30.175576+00:00",
+      "last_explore": "2026-06-25T18:44:30.175576+00:00",
       "last_run_added": 3,
       "papers_found_count": 27,
       "run_method": "emergent-concept",
-      "last_explored": "2026-06-25T17:58:13.532300+00:00",
-      "last_run_notes": "Emergent-concept pass: 3 fresh picks via HuggingFace 3-day window + strict subject filter (pitfall 52 recovery). Themes: on-policy-distillation negative-importance / mobile-deployment open-training / multimodal-CoT-capability-audit. All picks cs.CL/cs.LG, all scored >=9 LLM-flavor keywords, all overlap=0 vs prior 36 themes. Dedup 60/185 candidates passed strict subject + already-known filter; 3 picked all globally new across 5 dedup stores."
+      "last_explored": "2026-06-25T18:44:30.175576+00:00",
+      "last_run_notes": "RL-Index (index-side reasoning via GRPO) + Counsel (agentic LLMJ meta-eval) + Beyond Reward Engineering (data-recipe-first long-context RL) — 3 fresh themes"
     }
   },
   "emergent_concept_papers": [
@@ -777,6 +804,30 @@
       "title": "HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions",
       "discovered_at": "2026-06-25T18:29:50.738474+00:00",
       "source": "hf_daily_3d_run1823"
+    },
+    {
+      "arxiv_id": "2606.16316",
+      "slug": "rl-index-reinforcement-learning-for-retrieval-index-reasoning-2606.16316",
+      "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
+      "url": "https://arxiv.org/abs/2606.16316",
+      "theme": "LLM retrieval / index-side reasoning / RL-trained indexing",
+      "discovered": "2026-06-25T18:44:30.175576+00:00"
+    },
+    {
+      "arxiv_id": "2606.21627",
+      "slug": "counsel-a-meta-evaluation-dataset-for-agentic-tasks-2606.21627",
+      "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
+      "url": "https://arxiv.org/abs/2606.21627",
+      "theme": "LLM agent evaluation / LLM-as-judge calibration / agentic meta-eval",
+      "discovered": "2026-06-25T18:44:30.175576+00:00"
+    },
+    {
+      "arxiv_id": "2606.18831",
+      "slug": "beyond-reward-engineering-a-data-recipe-for-long-context-reinforcement-learning-2606.18831",
+      "title": "Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.18831",
+      "theme": "LLM training / long-context RL / data-centric RL recipe",
+      "discovered": "2026-06-25T18:44:30.175576+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -1046,6 +1097,30 @@
       "date": "2026-06-25T18:29:50.738474+00:00",
       "method": "hf_daily_3d",
       "theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks"
+    },
+    {
+      "arxiv_id": "2606.16316",
+      "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
+      "slug": "rl-index-reinforcement-learning-for-retrieval-index-reasoning-2606.16316",
+      "url": "https://arxiv.org/abs/2606.16316",
+      "discovered": "2026-06-25T18:44:30.175576+00:00",
+      "theme": "LLM retrieval / index-side reasoning / RL-trained indexing"
+    },
+    {
+      "arxiv_id": "2606.21627",
+      "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
+      "slug": "counsel-a-meta-evaluation-dataset-for-agentic-tasks-2606.21627",
+      "url": "https://arxiv.org/abs/2606.21627",
+      "discovered": "2026-06-25T18:44:30.175576+00:00",
+      "theme": "LLM agent evaluation / LLM-as-judge calibration / agentic meta-eval"
+    },
+    {
+      "arxiv_id": "2606.18831",
+      "title": "Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning",
+      "slug": "beyond-reward-engineering-a-data-recipe-for-long-context-reinforcement-learning-2606.18831",
+      "url": "https://arxiv.org/abs/2606.18831",
+      "discovered": "2026-06-25T18:44:30.175576+00:00",
+      "theme": "LLM training / long-context RL / data-centric RL recipe"
     }
   ],
   "emergent_concept_search_log": [
@@ -1252,6 +1327,24 @@
         "2606.22778"
       ],
       "theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks"
+    },
+    {
+      "ts": "2026-06-25T18:44:30.175576+00:00",
+      "papers_found": [
+        "rl-index-reinforcement-learning-for-retrieval-index-reasoning-2606.16316",
+        "counsel-a-meta-evaluation-dataset-for-agentic-tasks-2606.21627",
+        "beyond-reward-engineering-a-data-recipe-for-long-context-reinforcement-learning-2606.18831"
+      ],
+      "arxiv_ids": [
+        "2606.16316",
+        "2606.21627",
+        "2606.18831"
+      ],
+      "themes": [
+        "LLM retrieval / index-side reasoning / RL-trained indexing",
+        "LLM agent evaluation / LLM-as-judge calibration / agentic meta-eval",
+        "LLM training / long-context RL / data-centric RL recipe"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -1434,6 +1527,17 @@
         "2606.22936",
         "2606.22778"
       ]
+    },
+    {
+      "ts": "2026-06-25T18:44:30.175576+00:00",
+      "mode": "emergent_concept",
+      "method": "hf_daily_3d + strict_subject_filter + LLM_flavor_score + 5-store_dedup + manual_pick",
+      "picks_count": 3,
+      "pick_ids": [
+        "2606.16316",
+        "2606.21627",
+        "2606.18831"
+      ]
     }
   ],
   "runs": [
@@ -1547,6 +1651,16 @@
         "2602.09379",
         "2606.22936",
         "2606.22778"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T18:44:30.175576+00:00",
+      "mode": "emergent_concept",
+      "theme": "LLM retrieval / index-side reasoning / RL-trained indexing + LLM agent evaluation / LLM-as-judge calibration / agentic meta-eval + LLM training / long-context RL / data-centric RL recipe (3 fresh themes absent from prior runs)",
+      "papers_added": [
+        "rl-index-reinforcement-learning-for-retrieval-index-reasoning-2606.16316",
+        "counsel-a-meta-evaluation-dataset-for-agentic-tasks-2606.21627",
+        "beyond-reward-engineering-a-data-recipe-for-long-context-reinforcement-learning-2606.18831"
       ]
     }
   ],
