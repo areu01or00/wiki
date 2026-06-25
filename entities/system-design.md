@@ -3591,4 +3591,8 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-06-25** | [Ask HN: How are you preparing for interviews nowadays? - Hacker News](https://news.ycombinator.com/item?id=48101373) | kw: Top SaaS Architecture Patterns in 2026
+- **2026-06-25** | [[PDF] Dive into Claude Code: The Design Space of Today's and Future AI](https://arxiv.org/pdf/2604.14228) | kw: Top SaaS Architecture Patterns in 2026
+- **2026-06-25** | [Why Senior Engineers Fail "Google SRE" Interviews (2026 Analysis)](https://news.ycombinator.com/item?id=46314406) | kw: Top SaaS Architecture Patterns in 2026
+
 - **2026-06-25** | [I Tried 40+ Software Architecture Resources: Here Are My Top 10 ...](https://medium.com/javarevisited/i-tried-40-software-architecture-resources-here-are-my-top-10-recommendations-for-2026-3bf667e54979) | kw: general

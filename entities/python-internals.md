@@ -3929,3 +3929,8 @@
 - **2026-06-11** | [What is the Global Interpreter Lock (GIL) in Python? Is It ...](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: global, interpreter, gil
 - **2026-06-11** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python, global, interpreter
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
+
+## Updates
+
+- **2026-06-25** | [Python 3.14 Free Threading: Is Support Planned?](https://kuloverse.site/blog/python-3-14-free-threading) | kw: Expert
+- **2026-06-25** | [5. Using Python on macOS — Python 3.14.6 documentation](https://docs.python.org/3/using/mac.html) | kw: Expert
