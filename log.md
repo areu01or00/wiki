@@ -542,3 +542,14 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Pitfalls hit: NONE in main flow (NEW: explicit date-DESC verification before prepend — sorted the 24849/25306/22875 entries manually before writing the block to avoid the 20:45 pitfall; first entry written is most-recent-date IV-CoT 06-24, then same-date PQSG 06-24, then older FedOT 06-22 — verified by regex extraction of top-3 entries immediately after ## Updates)
 - Per-run counter suffix on all /tmp/ artifacts: run2258
 - Theme-diversity discipline: continues non-agent-heavy recent streak; picks span T2V physical-plausibility eval + federated diffusion security + visual CoT structure-aware T2I
+
+- arxiv IDs added: 2606.26058, 2606.25473, 2606.11445
+- Parent updates: emergent-concepts.md ## Updates section prepended in date-DESC + reverse-insertion tiebreaker order (06-24 DomainShuttle → 06-24 Causal-rCM → 06-09 Forecasting)
+- State files: explore_context.json (90 in emergent_concept_papers, 90 in emergent_discoveries, 81 in chains[emergent-concepts].papers_found, 30 runs, 30 emergent_concept_search_runs, 32 in emergent_concept_search_log, entities_count=102); watch_profiles.json (90 top-level + 90 in llm-wiki + 90 in profiles.llm-wiki-explore last_result_hashes; 87 in profiles.llm-wiki-explore.last_results)
+- ensure_ascii detection: explore_context=False (raw em-dash bytes preserved), watch_profiles=True (escaped) — divergent stable state confirmed (19th consecutive run)
+- Step 7.5 entity↔state cross-check (post-write): 90 filesystem arxiv IDs (3 new entities) == 90 in emergent_concept_papers; all 3 new IDs present in both filesystem and state; entities_count claim = 102 actual = 102 (90 paper entities + 12 meta/topical entities)
+- Step 5.5 wikilink-resolution check: 0 broken across 3 new entity files (3+3+3 = 9 wikilinks resolved) AND 0 broken across all 11 wikilinks in the parent-update new block
+- Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes, 0 collisions with existing 87-hash pool
+- Pitfalls hit: NONE in main flow (DomainShuttle entity initially had a typo wikilink — wrote `reasoning-in-mask-diffusion` instead of `reasoning-mask-diffusion`; corrected via patch before the parent-update prepend; all 9 entity-file wikilinks + 11 parent-block wikilinks resolve to existing entities)
+- Per-run counter suffix on all /tmp/ artifacts: run2258
+- Theme-diversity discipline: continues non-agent-heavy recent streak; picks span T2V subject-driven open-domain editability + AR video diffusion distillation + LRM trust-anchor behavior forecasting (T2V + AR-diffusion + interpretability)

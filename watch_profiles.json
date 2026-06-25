@@ -766,7 +766,10 @@
         "83cc9c8c809c422bd508e4da1e1947d1",
         "160201b7f31139c27544d845486edf4b",
         "0e583a8ea0f319c13049306e9df9f5bf",
-        "1d2e49b8f3462c8ab3543c00214d34d7"
+        "1d2e49b8f3462c8ab3543c00214d34d7",
+        "2dafe7c035db3289aa0d73f4b1bbbf88",
+        "0539226107b579e610356d15938400bf",
+        "da563a5efcdaf75f0026e49a4a5a9c2e"
       ],
       "last_results": [
         {
@@ -1467,16 +1470,46 @@
           "discovered": "2026-06-25T22:58:26.213594+00:00",
           "hash": "1d2e49b8f3462c8ab3543c00214d34d7",
           "url": "https://arxiv.org/abs/2606.22875"
+        },
+        {
+          "arxiv_id": "2606.26058",
+          "slug": "domain-shuttle-freeform-open-domain-subject-driven-text-to-video-2606.26058",
+          "title": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
+          "url": "https://arxiv.org/abs/2606.26058",
+          "theme": "T2V subject-driven open-domain in-domain-vs-cross-domain editability",
+          "vector": "emergent_concept_search",
+          "hash": "2dafe7c035db3289aa0d73f4b1bbbf88",
+          "discovered": "2026-06-25T23:12:09.658648+00:00"
+        },
+        {
+          "arxiv_id": "2606.25473",
+          "slug": "causal-rcm-a-unified-teacher-forcing-and-self-forcing-open-recipe-for-autoregressive-diffusion-distillation-in-streaming-video-generation-and-interactive-world-models-2606.25473",
+          "title": "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
+          "url": "https://arxiv.org/abs/2606.25473",
+          "theme": "video-diffusion autoregressive-distillation streaming interactive-world-models CM+DMD complementarity",
+          "vector": "emergent_concept_search",
+          "hash": "0539226107b579e610356d15938400bf",
+          "discovered": "2026-06-25T23:12:09.658648+00:00"
+        },
+        {
+          "arxiv_id": "2606.11445",
+          "slug": "forecasting-future-behavior-as-a-learning-task-2606.11445",
+          "title": "Forecasting Future Behavior as a Learning Task",
+          "url": "https://arxiv.org/abs/2606.11445",
+          "theme": "interpretability large-reasoning-models behavior-forecasting safety-trust-anchor",
+          "vector": "emergent_concept_search",
+          "hash": "da563a5efcdaf75f0026e49a4a5a9c2e",
+          "discovered": "2026-06-25T23:12:09.658648+00:00"
         }
       ],
-      "last_run": "2026-06-25T22:58:26.213594+00:00",
-      "last_updated": "2026-06-25T21:32:12.732047+00:00",
-      "last_result_timestamp": "2026-06-25T20:45:00+00:00",
-      "last_run_key": "emergent_concept:2026-06-25T20:29:46.633598+00:00",
+      "last_run": "2026-06-25T23:12:09.658648+00:00",
+      "last_updated": "2026-06-25T23:12:09.658648+00:00",
+      "last_result_timestamp": "2026-06-25T23:12:09.658648+00:00",
+      "last_run_key": "hf_daily_emergent_concept_search",
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T22:58:26.213594+00:00",
+  "last_run": "2026-06-25T23:12:09.658648+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1564,12 +1597,15 @@
     "83cc9c8c809c422bd508e4da1e1947d1",
     "160201b7f31139c27544d845486edf4b",
     "0e583a8ea0f319c13049306e9df9f5bf",
-    "1d2e49b8f3462c8ab3543c00214d34d7"
+    "1d2e49b8f3462c8ab3543c00214d34d7",
+    "2dafe7c035db3289aa0d73f4b1bbbf88",
+    "0539226107b579e610356d15938400bf",
+    "da563a5efcdaf75f0026e49a4a5a9c2e"
   ],
-  "last_discovery": "2026-06-25T22:58:26.213594+00:00",
-  "last_updated": "2026-06-25T22:58:26.213594+00:00",
-  "__last_updated": "2026-06-25T22:58:26.213594+00:00",
-  "last_explore": "2026-06-25T22:58:26.213594+00:00",
+  "last_discovery": "2026-06-25T23:12:09.658648+00:00",
+  "last_updated": "2026-06-25T23:12:09.658648+00:00",
+  "__last_updated": "2026-06-25T23:12:09.658648+00:00",
+  "last_explore": "2026-06-25T23:12:09.658648+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1658,11 +1694,14 @@
       "83cc9c8c809c422bd508e4da1e1947d1",
       "160201b7f31139c27544d845486edf4b",
       "0e583a8ea0f319c13049306e9df9f5bf",
-      "1d2e49b8f3462c8ab3543c00214d34d7"
+      "1d2e49b8f3462c8ab3543c00214d34d7",
+      "2dafe7c035db3289aa0d73f4b1bbbf88",
+      "0539226107b579e610356d15938400bf",
+      "da563a5efcdaf75f0026e49a4a5a9c2e"
     ],
-    "last_discovery": "2026-06-25T22:58:26.213594+00:00",
-    "last_run": "2026-06-25T22:58:26.213594+00:00",
-    "last_updated": "2026-06-25T22:58:26.213594+00:00"
+    "last_discovery": "2026-06-25T23:12:09.658648+00:00",
+    "last_run": "2026-06-25T23:12:09.658648+00:00",
+    "last_updated": "2026-06-25T23:12:09.658648+00:00"
   },
   "last_pass_type": "emergent_concept"
 }
