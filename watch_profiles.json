@@ -220,16 +220,16 @@
         "Zuniweb",
         "Types",
         "Serverless",
-        "Problems"
+        "Problems",
+        "Centralized vs. Decentralized vs. Distributed Syst",
+        "Integration Patterns 2026",
+        "Top SaaS Architecture Patterns in 2026",
+        "Multi-Agent Orchestration Patterns",
+        "System Design Concepts Course and Interview Prep",
+        "If you want to get started with system design (in ",
+        "Modern Architecture Patterns (2026 Edition)"
       ],
       "last_result_hashes": [
-        "4a75975bbd7ceb861d5fe114d0669e90",
-        "94c1b0f099f1d566f3fdedccba3cf97b",
-        "66ae815700cacb4e96d1e78f07e63810",
-        "ba78e26f83ca072ccd4dba08b465f313",
-        "30eb2e1134419c9dd635b852dc30339c",
-        "3b3f82a1ce99e0255038b165da4fd365",
-        "dbf8e0c58091b15f2142c1ba6af512c4",
         "3e1426e7df71a88d744121a055d84039",
         "ae4755a77ae2a109465f9e2f6bb42920",
         "13abda52e0c11ca03b64ad68aa7e823f",
@@ -242,12 +242,27 @@
         "38fed1f7f7e8fdf53e3d73653ac59813",
         "fe8b0e305303da4803bf21ff16ddfd0f",
         "1ce27f21773843a02a08f5c0a69f282d",
-        "29d394dc2174dfd2f238de83ed7960da"
+        "29d394dc2174dfd2f238de83ed7960da",
+        "f808d13c3fbb1d0b9dcfa821011972b9",
+        "96d3a3ea85839fe8f92ece2b7d05a39a",
+        "7f55d36d484e57880341279532f3a5d5",
+        "82601ad43b0fe127ccdd116d7f69071f",
+        "9ef09709545d432e2dc99e2cf360fbe8",
+        "20c9af03d5ba04de769b9c8d55fbf657",
+        "296232a484ebb0a2303e19fa650f6b06"
       ],
-      "last_run": "2026-06-25 01:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-25 01:45 UTC",
+      "new_sub_topics_this_run": [
+        "Centralized vs. Decentralized vs. Distributed Syst",
+        "Integration Patterns 2026",
+        "Top SaaS Architecture Patterns in 2026",
+        "Multi-Agent Orchestration Patterns",
+        "System Design Concepts Course and Interview Prep",
+        "If you want to get started with system design (in ",
+        "Modern Architecture Patterns (2026 Edition)"
+      ],
+      "last_new_count": 7,
+      "_new_total_for_digest": 7
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -480,14 +495,12 @@
         "Gist",
         "Compiler Technology",
         "FOSDEM",
-        "technology"
+        "technology",
+        "2026 US LLVM Developers' Meeting",
+        "Creating a runtime using the LLVM_ENABLE_RUNTIMES ",
+        "LTS2026 is (finally) out"
       ],
       "last_result_hashes": [
-        "0752deea847709c0edfeaed050073ba1",
-        "21e7e56943e1f3c6033984add6de888e",
-        "2a99aa92c2ee226fd80a66a67f7f7b33",
-        "e342ff8a860694077a085fe53dbf8825",
-        "cd317287f340ce184cace786603ffa1a",
         "61d4cd30230534db328ac8f9b99e5570",
         "cce86a95c27c221910b49215668720b0",
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
@@ -502,12 +515,21 @@
         "bc913cc34f36e9de0dc4662d43d11430",
         "c44174c46d38a1a2eb8479317b66b16f",
         "163d465d29904ded149230da823d3010",
-        "86dae3049ea21c99dda81d25d2128ad8"
+        "86dae3049ea21c99dda81d25d2128ad8",
+        "f1925c0af6e39aa520ffa6a282ede525",
+        "7e0c886c34d50dec18b0453a098f97b1",
+        "a8f59b74ac26771a4b96594aedd7df11",
+        "d22d503f93e5d96a1625b4118e1e6696",
+        "d434102b183daf56cd998662e81d47b0"
       ],
-      "last_run": "2026-06-25 01:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-25 01:45 UTC",
+      "new_sub_topics_this_run": [
+        "2026 US LLVM Developers' Meeting",
+        "Creating a runtime using the LLVM_ENABLE_RUNTIMES ",
+        "LTS2026 is (finally) out"
+      ],
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -722,14 +744,14 @@
         "Beyond",
         "Types",
         "next",
-        "Labyrinth"
+        "Labyrinth",
+        "Efficient Selection of Type Annotations for Perfor",
+        "[2603.05649] Efficient Selection of Type Annotatio",
+        "Putting Gradual Types to Work",
+        "Elixir's Gradual Type System (1.17\u20131.20)",
+        "Guard Analysis and Safe Erasure Gradual Typing"
       ],
       "last_result_hashes": [
-        "0ba6a39eb53c900ab14c900766313e3b",
-        "6c257d065a3041b16049b05a47e582ff",
-        "e604f9de4b5b38d6f3cdd468ccb5bc6c",
-        "aa0d061579c15ed3e4275abee9ab0332",
-        "1fc5a7344dfa8513daffc26dea181d95",
         "5f164d470aec9abad0bab8bfb6cc05da",
         "1892288ce3bfda31458d852753d72f5f",
         "5cc1d4c55fe22c53ab06d0faccb4247c",
@@ -744,12 +766,23 @@
         "5f897f647d084721278d0446f68d3c56",
         "7aa66b1702a629995c6c3fefaff4c9b1",
         "592f29fe81f4b3a25b7c6786918e27be",
-        "ecf279dd4441dd4ce354964ef77f265d"
+        "ecf279dd4441dd4ce354964ef77f265d",
+        "b177475a05631b06f73e531cf8aa0a39",
+        "55852131fabfce2db4a4694561d1aa46",
+        "6dd02e9dbc82ee59e01eebd7931fcaa4",
+        "30ca0230688267960b258d9c681d38ad",
+        "393c2007828b49d14ae2ce8a8bf61873"
       ],
-      "last_run": "2026-06-25 01:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-25 01:45 UTC",
+      "new_sub_topics_this_run": [
+        "Efficient Selection of Type Annotations for Perfor",
+        "[2603.05649] Efficient Selection of Type Annotatio",
+        "Putting Gradual Types to Work",
+        "Elixir's Gradual Type System (1.17\u20131.20)",
+        "Guard Analysis and Safe Erasure Gradual Typing"
+      ],
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -984,14 +1017,14 @@
         "Functional Programming Online Courses",
         "Gist",
         "Types",
-        "Bluesky"
+        "Bluesky",
+        "What killed Haskell, could kill Rust, too",
+        "How I Learned Monads",
+        "Monad (functional programming)",
+        "FP lang for 2026",
+        "Good tutorial/book about functional programming?"
       ],
       "last_result_hashes": [
-        "538983624d291cb67a1eb2b4f666255a",
-        "51cffd976f50b13be10405badc67f944",
-        "94ef0698ab013c2d98aa984c8b196a6d",
-        "f5ae7cafb1aa26a0735857769a8fae90",
-        "1edc45764e006dd5cd68808237980341",
         "7ffa6e7486a839562c2e55edb916ccb2",
         "d250aefb29a35210e53228bb1d5cf418",
         "9989d974971c23b24bd2a5f66698bb6e",
@@ -1006,12 +1039,23 @@
         "f125fd763b14914e19f8692d969e2872",
         "587ec0689fe4ff24a80da6c961e9987b",
         "1a693609586122a5ba5a5cd611341c40",
-        "867d449835c01cb37e6aff5c0562cefe"
+        "867d449835c01cb37e6aff5c0562cefe",
+        "ab1a401478bf91151df62818473f5ef5",
+        "0a825892b16894ee5479d8cdc9ceb413",
+        "6265d0c7ea387b97e9eb7551bfd1a683",
+        "32a8b72620f9ad02c0fd61fc5abba7de",
+        "64b9213a9db6ffcf3ee048410614e9dc"
       ],
-      "last_run": "2026-06-25 01:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-25 01:45 UTC",
+      "new_sub_topics_this_run": [
+        "What killed Haskell, could kill Rust, too",
+        "How I Learned Monads",
+        "Monad (functional programming)",
+        "FP lang for 2026",
+        "Good tutorial/book about functional programming?"
+      ],
+      "last_new_count": 5,
+      "_new_total_for_digest": 5
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1271,16 +1315,15 @@
         "mastering",
         "Alternatives and detailed information of Datastructures Algorithms",
         "Problems",
-        "switched"
+        "switched",
+        "I Tried 30+ Data Structures and Algorithms Courses",
+        "Top 100 Data Structure and Algorithms DSA Intervie",
+        "Is DSA Still Relevant in 2026?",
+        "Unexpected end of JSON input",
+        "2026 Interview Prep!",
+        "Google 2026 Interview Preparation"
       ],
       "last_result_hashes": [
-        "12c592997364029e536d23e16e0392b2",
-        "bacd645a89aa8a8de0d02935f127ece3",
-        "7b86d151397bd3b26637162c987f0b1e",
-        "5e02bb10fe06fe048e2f6bbb19b9f089",
-        "47610ac487dedeb5823885888fa843e0",
-        "d804bc1cd109d800e72a9a6d5eed9716",
-        "f3767b2bdddda1680dde068053648cf8",
         "0b5da59d9a3ebba77944edc245227f43",
         "7827ab24e9d276e3b17d86a148741a99",
         "daf3217e5ff87575f984a2364b4a2a61",
@@ -1293,12 +1336,26 @@
         "e7148900f48ae2367f23420521baf764",
         "8ed17ba38cd79b6aac4eaa9c77b4d6d2",
         "c559f855463864f3db44a42b634b4fdd",
-        "67d42a80bf083219acf4557d94a8d31e"
+        "67d42a80bf083219acf4557d94a8d31e",
+        "067a06c1458101ee5f925722addecda2",
+        "01940b60629629b705bf12ccd164e5bb",
+        "fe020577933926e4f6cea53a7e140da0",
+        "c1786f9fbe09b833fc08718063125668",
+        "be6da1ea7a1c55bc0840c46dac040ce4",
+        "48e3ad168dd5302fac5e71eb85dfb4f7",
+        "6b281b913e5ddc475748ace3123f0549"
       ],
-      "last_run": "2026-06-25 01:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-25 01:45 UTC",
+      "new_sub_topics_this_run": [
+        "I Tried 30+ Data Structures and Algorithms Courses",
+        "Top 100 Data Structure and Algorithms DSA Intervie",
+        "Is DSA Still Relevant in 2026?",
+        "Unexpected end of JSON input",
+        "2026 Interview Prep!",
+        "Google 2026 Interview Preparation"
+      ],
+      "last_new_count": 7,
+      "_new_total_for_digest": 7
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1549,16 +1606,14 @@
         "Your Guide to the CPython Source Code \u2013 Real Python",
         "Tasks",
         "python/cpython",
-        "Minutes"
+        "Minutes",
+        "Understanding the Python Global Interpreter Lock (",
+        "What is the Global Interpreter Lock (GIL) in Pytho",
+        "The Future of Python Internals",
+        "What is the Python Global Interpreter Lock (GIL)",
+        "Understanding Python GIL..."
       ],
       "last_result_hashes": [
-        "c24e025d56cdbbb52113c9aa94a36dea",
-        "bbb596c3441904fed7dc7fa5f00eeb00",
-        "a454e6bd90dd4ae1795224af7e27c1bb",
-        "ef7731f8d34b5dbdb258f9e1a50ce0a7",
-        "4267214a3e558c4d98d146f1beba3d51",
-        "8a698a31014e8b25a69333a61ab1131f",
-        "2d58b6b89757b9188cc9683044d1aaf0",
         "d6afac3c08647a43bdbf31111905a4db",
         "17f40f751da9a1c9558ca7dbf958ae7e",
         "b2fbe6454e7c9d604f2d7586a436e138",
@@ -1571,12 +1626,25 @@
         "a1233cdbbbaf5c3624b23b99f9297143",
         "01314a1518733cd87281d4bc532aa8d4",
         "362d21404ee1fb6dfbc78509ec951aeb",
-        "bb53bcf4619919e64da0280659f0ab87"
+        "bb53bcf4619919e64da0280659f0ab87",
+        "3f53aaddb3c9ccc1340c0fbf20196bee",
+        "bccf28cb66143f121200c1e73b9cd51a",
+        "1c9e34c438b893768685d5e9b0743087",
+        "3ca0f5111ea998f95acd8c079ac9e8f2",
+        "c0d9870261fb93e027112cfed34316a5",
+        "44ede0fa7f964aee564e189fd251a80b",
+        "d312cb77ade078c8f1e9dac2e24a756b"
       ],
-      "last_run": "2026-06-25 01:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0,
-      "_new_total_for_digest": 0
+      "last_run": "2026-06-25 01:45 UTC",
+      "new_sub_topics_this_run": [
+        "Understanding the Python Global Interpreter Lock (",
+        "What is the Global Interpreter Lock (GIL) in Pytho",
+        "The Future of Python Internals",
+        "What is the Python Global Interpreter Lock (GIL)",
+        "Understanding Python GIL..."
+      ],
+      "last_new_count": 7,
+      "_new_total_for_digest": 7
     }
   },
   "last_run": "2026-06-25 01:32 UTC"

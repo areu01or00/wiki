@@ -1,3 +1,11 @@
+- **2026-06-25** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Edition)
+- **2026-06-25** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If you want to get started with system design (in 
+- **2026-06-25** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: Top SaaS Architecture Patterns in 2026
+- **2026-06-25** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: Integration Patterns 2026
+- **2026-06-25** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distributed Syst
+- **2026-06-25** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: System Design Concepts Course and Interview Prep
+- **2026-06-25** | [Multi-Agent Orchestration Patterns: Building Production Systems in...](https://www.frankx.ai/blog/multi-agent-orchestration-patterns-2026) | kw: Multi-Agent Orchestration Patterns
+
 - **2026-06-25** | [10 Essential System Design Patterns for Engineers - LinkedIn](https://www.linkedin.com/posts/alexandre-zajac_101-system-design-patterns-every-engineer-activity-7414341527348424705-HnA9) | kw: 10 essential system design patterns for
 - **2026-06-25** | [Master Microservice Event-Driven Architecture in 2026](https://www.john-pratt.com/microservice-event-driven) | kw: master microservice event-driven architecture in 2026
 - **2026-06-25** | [Microservices Architecture in 2026: Best Practices and Real-World](https://www.cortaralabs.com/blogs/microservices-architecture-2026) | kw: microservices architecture in 2026: best practices

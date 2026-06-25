@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-06-25** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and Safe Erasure Gradual Typing
+- **2026-06-25** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection of Type Annotations for Perfor
+- **2026-06-25** | [[2603.05649] Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649] Efficient Selection of Type Annotatio
+- **2026-06-25** | [Elixir's Gradual Type System (1.17–1.20): How the Compiler Finally ...](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: Elixir's Gradual Type System (1.17–1.20)
+- **2026-06-25** | [Putting Gradual Types to Work - NSF Public Access](https://par.nsf.gov/servlets/purl/10315909) | kw: Putting Gradual Types to Work
+
 - **2026-06-25** | [Gradual - Wikipedia](https://en.wikipedia.org/wiki/Gradual) | kw: gradual - wikipedia
 - **2026-06-25** | [Codex CLI for Python Type Safety: Agent-Driven Type Checking](https://codex.danielvaughan.com/2026/05/28/codex-cli-python-type-safety-agent-driven-type-checking-mypy-pyright-ty-pyrefly/) | kw: codex cli for python type safety:
 

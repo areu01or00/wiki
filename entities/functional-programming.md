@@ -1,3 +1,9 @@
+- **2026-06-25** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming)
+- **2026-06-25** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026
+- **2026-06-25** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Good tutorial/book about functional programming?
+- **2026-06-25** | [What killed Haskell, could kill Rust, too - GitHub - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: What killed Haskell, could kill Rust, too
+- **2026-06-25** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads
+
 - **2026-06-25** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional (mathematics) - wikipedia
 - **2026-06-25** | [Functional - Wikipedia](https://en.wikipedia.org/wiki/Functional) | kw: functional - wikipedia
 - **2026-06-25** | [FUNCTIONAL definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: functional definition in the cambridge english

@@ -1,3 +1,11 @@
+- **2026-06-25** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What is the Python Global Interpreter Lock (GIL)
+- **2026-06-25** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the Global Interpreter Lock (GIL) in Pytho
+- **2026-06-25** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python Memory Management
+- **2026-06-25** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: The Python GIL Controversy
+- **2026-06-25** | [The Future of Python Internals: Exploring GIL Removal and Other ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of Python Internals
+- **2026-06-25** | [Understanding Python GIL... | MoldStud](https://moldstud.com/articles/p-understanding-python-gil-key-questions-about-the-global-interpreter-lock) | kw: Understanding Python GIL...
+- **2026-06-25** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Understanding the Python Global Interpreter Lock (
+
 - **2026-06-25** | [Online Python Compiler and Visualizer - CodeChef](https://www.codechef.com/python-online-compiler) | kw: online python compiler and visualizer -
 - **2026-06-25** | [Free-threaded Python is here - Reddit](https://www.reddit.com/r/learnpython/comments/1sf5ict/freethreaded_python_is_here_but_checking_if_your/) | kw: free-threaded python is here - reddit
 

@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
+- **2026-06-25** | [2026 US LLVM Developers' Meeting](https://llvm.org/devmtg/2026-10/) | kw: 2026 US LLVM Developers' Meeting
+- **2026-06-25** | [LTS2026 is (finally) out : r/gamemaker - Reddit](https://www.reddit.com/r/gamemaker/comments/1tjqdro/lts2026_is_finally_out/) | kw: LTS2026 is (finally) out
+- **2026-06-25** | [Creating a runtime using the LLVM_ENABLE_RUNTIMES system](https://www.youtube.com/watch?v=eVRotqOrHrw) | kw: Creating a runtime using the LLVM_ENABLE_RUNTIMES 
+- **2026-06-25** | [Agenda : 2026 European LLVM Developers' Meeting - Swoogo](https://llvm.swoogo.com/2026eurollvm/agenda) | kw: Agenda
+
 - **2026-06-25** | [Reconciling high-level optimizations and low-level code in LLVM](https://dl.acm.org/doi/10.1145/3276495) | kw: reconciling high-level optimizations and low-level code
 - **2026-06-25** | [Introduction to the LLVM Compiler System - Slideshare](https://www.slideshare.net/slideshow/introduction-to-the-llvm-compiler-system/11263866) | kw: introduction to the llvm compiler system
 - **2026-06-25** | [Olympus-HPC/proteus: Programmable JIT Compilation - GitHub](https://github.com/Olympus-HPC/proteus) | kw: olympus-hpc/proteus: programmable jit compilation - github
