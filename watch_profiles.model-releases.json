@@ -30,10 +30,10 @@
         "a6ff5b944b57de41a2945b72764c31c3",
         "a3e43adbe6907912086709fce124c7d4"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 23
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 24
     },
     "anthropic-releases": {
       "query": "Anthropic Claude new model release Sonnet Opus API",
@@ -61,10 +61,10 @@
         "91eff2474fffadd156699623a82e471f",
         "c4dbdd50ce604444eccc70adf18bce89"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 23
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 24
     },
     "google-deepmind-releases": {
       "query": "Google DeepMind Gemini new model release API Gemma",
@@ -92,10 +92,10 @@
         "712ffdbe394f150a73c82e6262ca8345",
         "9c85733b518baf75e98c564c43113acc"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 23
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 24
     },
     "xai-releases": {
       "query": "xAI Grok new model release API weights",
@@ -123,10 +123,10 @@
         "20e6085d51f673f74629ac788cd5b720",
         "1e4e0b063928d48873f7ec5b896a7ad3"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 23
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 24
     },
     "meta-llama-releases": {
       "query": "Meta Llama new model release weights open source",
@@ -154,10 +154,10 @@
         "bf5918565eb7932acb2667d02d05ad9a",
         "90ff4c52ac943a3ee1a5fc4f19d7eb56"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 23
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 24
     },
     "mistral-releases": {
       "query": "Mistral AI new model release Mixtral weights",
@@ -185,10 +185,10 @@
         "5e66abd03f9e2112db6f203f0d7aad13",
         "5258dcdafde9f5d8e9bdbb6c34537052"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 22
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 23
     },
     "deepseek-releases": {
       "query": "DeepSeek new model release V3 R1 R2 weights API",
@@ -216,10 +216,10 @@
         "3ca45bdd4ca2616f10e6cd3d47a93dd4",
         "508e7d60d53a874ca79c381e180e38c9"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 22
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 23
     },
     "qwen-releases": {
       "query": "Alibaba Qwen new model release 3 3.5 weights API Tongyi",
@@ -247,10 +247,10 @@
         "287861fe6e6847e02d58ef837703f36e",
         "dd65bf5713cdf6b4f2f29f7a40d2b3b4"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 22
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 23
     },
     "glm-releases": {
       "query": "Zhipu GLM ChatGLM new model release weights API",
@@ -278,10 +278,10 @@
         "16923fbfb2f56990cffb539b7d73ee13",
         "6054cebbe9f490e2d8d31015fa1a72e7"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 23
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 24
     },
     "kimi-releases": {
       "query": "Moonshot Kimi new model release K2 weights API",
@@ -309,10 +309,10 @@
         "ff6788f13a705790a21717582d02d94f",
         "e1099b0447eef5d45e55bb94afc62da4"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 22
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 23
     },
     "huggingface-trending": {
       "query": "HuggingFace trending models new paper daily",
@@ -340,10 +340,10 @@
         "3fe3d302e2e5f52ad39b6421e83b9f3d",
         "6ee7956aaa984f323ef4995c7c6805b7"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 23
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 24
     },
     "llm-stats-updates": {
       "query": "LLM Stats new model launch tracker",
@@ -371,10 +371,10 @@
         "7a10d3c809bbc8d5059a86848ef2faf0",
         "b9be3306e7cad99ee79fc99063321da9"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 22
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 23
     },
     "arxiv-cs-cl": {
       "query": "arxiv cs.CL new language model submission",
@@ -402,10 +402,10 @@
         "73efedd3b49e782185969b5d009a2f3f",
         "78578205fd0c6c4354b8cc9ba757677c"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 23
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 24
     },
     "sakana-releases": {
       "query": "Sakana AI Fugu model release Japanese lab",
@@ -434,10 +434,10 @@
         "f14be5e6012c91111dea914a88e82047",
         "109104b8f3319adf3391ee36b10d9342"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 24
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 25
     },
     "swiss-ai-apertus": {
       "query": "Swiss AI Apertus EPFL ETH Zurich multilingual open model release",
@@ -466,10 +466,10 @@
         "6b2dccba3284f2feccb050fab15a1dc9",
         "80804fca7e7f93d49abf1250c3f5e489"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 23
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 24
     },
     "krea": {
       "query": "Krea AI Krea 2 image generation model open weights",
@@ -498,10 +498,10 @@
         "d42aee26eb6a1328736b4ad5231e0e8c",
         "258f4c428a6ebd856fe5d3856293703d"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 22
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 23
     },
     "MiniMax": {
       "query": "MiniMax AI MiniMax-M3 release new model multimodal MoE",
@@ -530,10 +530,10 @@
         "f2eafffd17edfc8b30c6a270251e3c8d",
         "961e6434878aa84a78124323fba356cf"
       ],
-      "last_run": "2026-06-25T00:34:19.398245Z",
+      "last_run": "2026-06-25T01:09:00Z",
       "last_update_hash": null,
-      "last_checked": "2026-06-24T20:53:36Z",
-      "run_count": 16
+      "last_checked": "2026-06-25T01:09:00Z",
+      "run_count": 17
     }
   }
 }
