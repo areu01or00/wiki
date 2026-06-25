@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T18:58:43.062081+00:00",
-  "__last_updated": "2026-06-25T18:58:43.062081+00:00",
-  "last_run": "2026-06-25T18:58:43.062081+00:00",
-  "last_explore": "2026-06-25T18:58:43.062081+00:00",
-  "last_global_explore": "2026-06-25T18:58:43.062081+00:00",
-  "last_discovery": "2026-06-25T18:58:43.062081+00:00",
-  "last_run_framing": "LLM agent training-data / open-data pipeline + LLM world models / agentic RL + LLM architecture / depth-aware capacity allocation (3 fresh themes)",
-  "last_framing": "LLM agent training-data / open-data pipeline + LLM world models / agentic RL + LLM architecture / depth-aware capacity allocation (3 fresh themes)",
-  "last_run_notes": "emergent-concept HF 3-day window (2026-06-23..25); 115 candidates -> 80 non-CV -> 46 fresh -> 3 picks (OpenThoughts-Agent / Qwen-AgentWorld / Tapered Language Models)",
+  "updated": "2026-06-25T18:58:00+00:00",
+  "__last_updated": "2026-06-25T18:58:00+00:00",
+  "last_run": "2026-06-25T18:58:00+00:00",
+  "last_explore": "2026-06-25T18:58:00+00:00",
+  "last_global_explore": "2026-06-25T18:58:00+00:00",
+  "last_discovery": "2026-06-25T18:58:00+00:00",
+  "last_run_framing": "emergent-concept, HF 3-day window 2026-06-23..25, agent-safety + reasoning theory themes",
+  "last_framing": "emergent-concept, HF 3-day window 2026-06-23..25, agent-safety + reasoning theory themes",
+  "last_run_notes": "Recipe C (all-new-entries-older-than-top); 3 picks across reasoning-theory (cs.LG) + agent-safety (cs.SE + cs.AI); commits atomic including emergent-concepts.md parent + 3 entity files + state files + log.md",
   "last_pass_type": "emergent_concept",
-  "last_run_method": "HF daily 3-day + parallel arxiv metadata + strict subject filter + kw/subj-priority scoring + 5-store dedup",
-  "run_method": "HF daily 3-day + parallel arxiv metadata + strict subject filter + kw/subj-priority scoring + 5-store dedup",
+  "last_run_method": "hf_daily_3day_strict_subject_filter",
+  "run_method": "hf_daily_3day_strict_subject_filter",
   "last_run_added": 3,
   "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "agent training data + world models + depth-aware architecture",
-  "emergent_theme": "agent training data + world models + depth-aware architecture",
+  "emergent_concept_theme": "LLM agent-safety multi-axis (privilege + context) + reasoning theory boundary",
+  "emergent_theme": "LLM agent-safety multi-axis (privilege + context) + reasoning theory boundary",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 51,
+  "entities_count": 54,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -505,10 +505,34 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-25T18:44:30.175576+00:00",
           "theme": "LLM training / long-context RL / data-centric RL recipe"
+        },
+        {
+          "arxiv_id": "2606.21884",
+          "slug": "a-verifiable-search-is-not-a-learnable-chain-of-thought-2606.21884",
+          "title": "A Verifiable Search Is Not a Learnable Chain-of-Thought",
+          "url": "https://arxiv.org/abs/2606.21884",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-25T18:58:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.20023",
+          "slug": "when-lower-privileges-suffice-investigating-over-privileged-tool-selection-in-llm-agents-2606.20023",
+          "title": "When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents",
+          "url": "https://arxiv.org/abs/2606.20023",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-25T18:58:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.23189",
+          "slug": "capable-but-careless-do-computer-use-agents-follow-contextual-integrity-2606.23189",
+          "title": "Capable but Careless: Do Computer-Use Agents Follow Contextual Integrity?",
+          "url": "https://arxiv.org/abs/2606.23189",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-25T18:58:00+00:00"
         }
       ],
-      "last_run": "2026-06-25T18:44:30.175576+00:00",
-      "last_explore": "2026-06-25T18:44:30.175576+00:00",
+      "last_run": "2026-06-25T18:58:00+00:00",
+      "last_explore": "2026-06-25T18:58:00+00:00",
       "last_run_added": 3,
       "papers_found_count": 27,
       "run_method": "emergent-concept",
@@ -855,6 +879,56 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-25T18:58:43.062081+00:00",
       "theme": "LLM architecture / depth-aware capacity allocation / scaling"
+    },
+    {
+      "arxiv_id": "2606.21884",
+      "slug": "a-verifiable-search-is-not-a-learnable-chain-of-thought-2606.21884",
+      "title": "A Verifiable Search Is Not a Learnable Chain-of-Thought",
+      "url": "https://arxiv.org/abs/2606.21884",
+      "subject": "Machine Learning (cs.LG)",
+      "date": "2026/06/20",
+      "authors": [
+        "Patel, Harsh"
+      ],
+      "discovered_at": "2026-06-25T18:58:00+00:00",
+      "discovery_method": "emergent-concept HF daily 3-day + strict subject non-CV filter + LLM-flavor scoring",
+      "discovered_in_run": "2026-06-25T18:58:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.20023",
+      "slug": "when-lower-privileges-suffice-investigating-over-privileged-tool-selection-in-llm-agents-2606.20023",
+      "title": "When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.20023",
+      "subject": "Software Engineering (cs.SE)",
+      "date": "2026/06/18",
+      "authors": [
+        "Yang, Kaiyue",
+        "Bu, Yuyan",
+        "Yi, Jingwei",
+        "Wang, Yuchi",
+        "Zhou, Biyu",
+        "Dai, Juntao",
+        "Hu, Songlin",
+        "Yang, Yaodong"
+      ],
+      "discovered_at": "2026-06-25T18:58:00+00:00",
+      "discovery_method": "emergent-concept HF daily 3-day + strict subject non-CV filter + LLM-flavor scoring",
+      "discovered_in_run": "2026-06-25T18:58:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.23189",
+      "slug": "capable-but-careless-do-computer-use-agents-follow-contextual-integrity-2606.23189",
+      "title": "Capable but Careless: Do Computer-Use Agents Follow Contextual Integrity?",
+      "url": "https://arxiv.org/abs/2606.23189",
+      "subject": "Artificial Intelligence (cs.AI)",
+      "date": "2026/06/22",
+      "authors": [
+        "Goel, Anmol",
+        "Gurevych, Iryna"
+      ],
+      "discovered_at": "2026-06-25T18:58:00+00:00",
+      "discovery_method": "emergent-concept HF daily 3-day + strict subject non-CV filter + LLM-flavor scoring",
+      "discovered_in_run": "2026-06-25T18:58:00+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -1172,6 +1246,24 @@
       "url": "https://arxiv.org/abs/2606.23670",
       "discovered": "2026-06-25T18:58:43.062081+00:00",
       "theme": "LLM architecture / depth-aware capacity allocation / scaling"
+    },
+    {
+      "arxiv_id": "2606.21884",
+      "slug": "a-verifiable-search-is-not-a-learnable-chain-of-thought-2606.21884",
+      "theme": "LLM reasoning theory / chain-of-thought-distillation failure mode",
+      "discovered_at": "2026-06-25T18:58:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.20023",
+      "slug": "when-lower-privileges-suffice-investigating-over-privileged-tool-selection-in-llm-agents-2606.20023",
+      "theme": "LLM agent-safety / tool-selection least-privilege alignment",
+      "discovered_at": "2026-06-25T18:58:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.23189",
+      "slug": "capable-but-careless-do-computer-use-agents-follow-contextual-integrity-2606.23189",
+      "theme": "LLM agent-safety / computer-use privacy / contextual-integrity",
+      "discovered_at": "2026-06-25T18:58:00+00:00"
     }
   ],
   "emergent_concept_search_log": [
@@ -1628,6 +1720,27 @@
       ],
       "thematic_framing": "LLM agent training data / open data pipeline / recipe distillation + LLM world models / agentic RL / environment simulation / foundation models + LLM architecture / depth-aware capacity allocation / scaling",
       "dedup_rate": "0/115 pre-existing on filesystem (post-pitfall-56 wiki, 48 entities); 46 fresh candidates after 5-store dedup; 3 picked: 2606.24855 (cs.AI, 2026-06-23), 2606.24597 (cs.CL, 2026-06-23), 2606.23670 (cs.LG, 2026-06-22)"
+    },
+    {
+      "ts": "2026-06-25T18:58:00+00:00",
+      "method": "HuggingFace daily papers (3 days: 2026-06-23..25) + parallel arxiv abs-page meta extraction + strict subject non-CV filter + LLM-flavor kw scoring",
+      "papers": [
+        "2606.21884",
+        "2606.20023",
+        "2606.23189"
+      ],
+      "slugs": [
+        "a-verifiable-search-is-not-a-learnable-chain-of-thought-2606.21884",
+        "when-lower-privileges-suffice-investigating-over-privileged-tool-selection-in-llm-agents-2606.20023",
+        "capable-but-careless-do-computer-use-agents-follow-contextual-integrity-2606.23189"
+      ],
+      "themes": [
+        "LLM reasoning theory / chain-of-thought-distillation failure mode (verifiable-search gap)",
+        "LLM agent-safety / tool-selection least-privilege alignment (privilege-axis alignment transfer failure)",
+        "LLM agent-safety / computer-use privacy / contextual-integrity (multi-axis agent autonomy)"
+      ],
+      "thematic_framing": "LLM agent autonomy under-evaluated safety axes (privilege + context) + chain-of-thought-distillation verifiable-rewards boundary",
+      "dedup_rate": "39/115 pre-existing on filesystem (post-pitfall-56 wiki, 51 entities, 39 arxiv IDs); 76 fresh candidates after subject non-CV filter (43 strict + 33 excluded by subject); 3 picked: 2606.23189 (cs.AI, 2026-06-22), 2606.21884 (cs.LG, 2026-06-20), 2606.20023 (cs.SE, 2026-06-18)"
     }
   ],
   "runs": [
@@ -1762,7 +1875,18 @@
         "qwen-agentworld-language-world-models-for-general-agents-2606.24597",
         "tapered-language-models-2606.23670"
       ]
+    },
+    {
+      "timestamp": "2026-06-25T18:58:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "LLM agent-safety (privilege + context) + reasoning theory (CoT-distillation boundary)",
+      "papers_added": [
+        "a-verifiable-search-is-not-a-learnable-chain-of-thought-2606.21884",
+        "when-lower-privileges-suffice-investigating-over-privileged-tool-selection-in-llm-agents-2606.20023",
+        "capable-but-careless-do-computer-use-agents-follow-contextual-integrity-2606.23189"
+      ],
+      "recipe": "C (all new entries older than existing top; N_EXISTING_TOP=len(new)+5)"
     }
   ],
-  "last_updated": "2026-06-25T18:58:43.062081+00:00"
+  "last_updated": "2026-06-25T18:58:00+00:00"
 }
