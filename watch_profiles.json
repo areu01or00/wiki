@@ -177,7 +177,7 @@
         "One",
         "The",
         "How to open and view System Information panel in Windows 11",
-        "System – Concept, Meaning, Definition and Characteristics",
+        "System \u2013 Concept, Meaning, Definition and Characteristics",
         "Prep",
         "Every",
         "Azure",
@@ -231,15 +231,10 @@
         "ae4755a77ae2a109465f9e2f6bb42920",
         "13abda52e0c11ca03b64ad68aa7e823f"
       ],
-      "last_run": "2026-06-25 00:16 UTC",
-      "new_sub_topics_this_run": [
-        "System – Concept, Meaning, Definition and Characteristics",
-        "What Is a System? Definition, Types, and Examples",
-        "System configuration tools in Windows | Microsoft Support",
-        "Systems theory - Wikipedia"
-      ],
-      "last_new_count": 9,
-      "_new_total_for_digest": 9
+      "last_run": "2026-06-25 00:30 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -366,7 +361,7 @@
         "summer",
         "medium",
         "with",
-        "“LLVM",
+        "\u201cLLVM",
         "Machine",
         "Building",
         "general",
@@ -463,6 +458,8 @@
         "implementing"
       ],
       "last_result_hashes": [
+        "405d2374e1cfca55007359c946592bb9",
+        "94f7ca1985d49d78cca3f5944556863d",
         "b4b1697fc63d5704d74c4c88d69cd644",
         "2e36db34c1a584712cd6f35f63aa33ba",
         "79f4ddf873dbf67c746be2d871fbeb46",
@@ -480,22 +477,21 @@
         "4a875ba6c9df4a6d863a675c9bbe1244",
         "da4da22ebe0b30bc79e1ad7a94e5310c",
         "926e4c8698aeb3f05ca52d73aa8010c7",
-        "ca9ade675eecf6183c340d40af57c779",
-        "32f4188675ea6aa9b99de9314a538fa1",
-        "8244346987304076c54b685fc98a31c8"
+        "ca9ade675eecf6183c340d40af57c779"
       ],
-      "last_run": "2026-06-25 00:16 UTC",
+      "last_run": "2026-06-25 00:30 UTC",
       "new_sub_topics_this_run": [
-        "LLNL Researchers Develop GPU JIT Compiler for Large-Scale HPC",
-        "2026 EuroLLVM Developers' Meeting - Agenda - Announcements",
-        "LLVM Compiler Infrastructure - Google Summer of Code",
-        "Just-in-time compilation - Wikipedia",
-        "Retrofitting JIT Compilers into C Interpreters - tratt.net",
-        "dstogov/ir: Lightweight JIT Compilation Framework - GitHub",
-        "JIT Design and Implementation - Julia Documentation"
+        {
+          "title": "Releases - Compiler Research",
+          "url": "https://compiler-research.org/releases"
+        },
+        {
+          "title": "r/LLVM - Reddit",
+          "url": "https://www.reddit.com/r/LLVM/"
+        }
       ],
-      "last_new_count": 9,
-      "_new_total_for_digest": 9
+      "last_new_count": 2,
+      "_new_total_for_digest": 2
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -556,7 +552,7 @@
         "theory",
         "Beyond",
         "Typing",
-        "Gábor",
+        "G\u00e1bor",
         "Astral",
         "Safe",
         "LuaJIT",
@@ -730,17 +726,10 @@
         "6c257d065a3041b16049b05a47e582ff",
         "e604f9de4b5b38d6f3cdd468ccb5bc6c"
       ],
-      "last_run": "2026-06-25 00:16 UTC",
-      "new_sub_topics_this_run": [
-        "A gradual type system for Elixir - ScienceDirect.com",
-        "Type system - Wikipedia",
-        "Free Video: Migrating Gradual Types - A Framework for Static and",
-        "Gradual typing with unification-based inference - ACM Digital Library",
-        "Static Blame for gradual typing | Journal of Functional Programming",
-        "What Is Gradual Typing? - ITU Online IT Training"
-      ],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_run": "2026-06-25 00:30 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -769,7 +758,7 @@
         "could",
         "Monad",
         "Types",
-        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
         "Haskell Weekly Newsletter",
         "Users",
         "Backend",
@@ -902,7 +891,7 @@
         "Order",
         "Idiomatic",
         "Curling",
-        "Community version of “Learn You a Haskell…” (2026 update)",
+        "Community version of \u201cLearn You a Haskell\u2026\u201d (2026 update)",
         "Pragmatic",
         "Functional Programming Online Courses",
         "Drew",
@@ -919,7 +908,7 @@
         "Co-Creator",
         "for",
         "effect",
-        "Rust1.74で追加された機能を使ってモナドを作ってみる",
+        "Rust1.74\u3067\u8ffd\u52a0\u3055\u308c\u305f\u6a5f\u80fd\u3092\u4f7f\u3063\u3066\u30e2\u30ca\u30c9\u3092\u4f5c\u3063\u3066\u307f\u308b",
         "tapf-monad-examples",
         "good",
         "Monads",
@@ -988,18 +977,10 @@
         "e2809728031a0a794b40bbdaef5a85f9",
         "2c6957e1f1d7ea7d57cfdd721fc5e962"
       ],
-      "last_run": "2026-06-25 00:16 UTC",
-      "new_sub_topics_this_run": [
-        "Haskell Foundation 2026 Update | Hacker News",
-        "Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026)",
-        "Community version of “Learn You a Haskell…” (2026 update)",
-        "I think I Finally Got Monads | Hendrik Erz",
-        "FP lang for 2026 : r/functionalprogramming - Reddit",
-        "Functional Programmers need to take a look at Zig - Lobsters",
-        "Issue 529 :: Haskell Weekly Newsletter"
-      ],
-      "last_new_count": 10,
-      "_new_total_for_digest": 10
+      "last_run": "2026-06-25 00:30 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1058,7 +1039,7 @@
         "interview",
         "Comprehensive",
         "Questions",
-        "datastructures-algorithms · GitHub Topics · GitHub",
+        "datastructures-algorithms \u00b7 GitHub Topics \u00b7 GitHub",
         "Commitment",
         "Structures",
         "Crack",
@@ -1111,7 +1092,7 @@
         "LeetCode vs NeetCode vs PracHub 2026 Interview Guide",
         "preparation",
         "PBC",
-        "data-structures · GitHub Topics · GitHub",
+        "data-structures \u00b7 GitHub Topics \u00b7 GitHub",
         "Grinding",
         "Handbook",
         "Learning",
@@ -1265,21 +1246,10 @@
         "5e02bb10fe06fe048e2f6bbb19b9f089",
         "47610ac487dedeb5823885888fa843e0"
       ],
-      "last_run": "2026-06-25 00:16 UTC",
-      "new_sub_topics_this_run": [
-        "datastructures-algorithms · GitHub Topics · GitHub",
-        "LeetCode Review (2026): Is It Worth It?",
-        "Alternatives and detailed information of Datastructures Algorithms",
-        "LeetCode - The World's Leading Online Programming Learning Platform",
-        "data-structures · GitHub Topics · GitHub",
-        "Data Structures and Algorithms Full Course- YouTube",
-        "The Best Way To Learn Algorithms and Data Structures",
-        "Do we really need Leetcode (Data Structures & Algorithms)... | Kaggle",
-        "Guideline for FAANG. Algorithm and Data structure (Leetcode)",
-        "[Update Links] Java Data Structures & Algorithms + LEETCODE"
-      ],
-      "last_new_count": 8,
-      "_new_total_for_digest": 8
+      "last_run": "2026-06-25 00:30 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1295,7 +1265,7 @@
         "Still",
         "Charting Python Parallel",
         "Matters",
-        "What Is the Python Global Interpreter Lock (GIL)? – Real Python",
+        "What Is the Python Global Interpreter Lock (GIL)? \u2013 Real Python",
         "Parallelism",
         "Optimization",
         "Future",
@@ -1370,7 +1340,7 @@
         "support",
         "Why",
         "Compiler,",
-        "Your Guide to the CPython Source Code – Real Python",
+        "Your Guide to the CPython Source Code \u2013 Real Python",
         "Python Memory Management",
         "How to fix Stop code Memory management (0x1A) error - YouTube",
         "Python vs Cpython - GeeksforGeeks",
@@ -1479,7 +1449,7 @@
         "GeeksforGeeks",
         "Build",
         "dev.to",
-        "internals·",
+        "internals\u00b7",
         "Fixes",
         "Science",
         "GitHub",
@@ -1544,21 +1514,11 @@
         "2d58b6b89757b9188cc9683044d1aaf0",
         "d6afac3c08647a43bdbf31111905a4db"
       ],
-      "last_run": "2026-06-25 00:16 UTC",
-      "new_sub_topics_this_run": [
-        "Internals of Python 3.x: Derive Maximum Code Performance",
-        "How Python Works Under the Hood: Memory, GIL, and Bytecode",
-        "Top 50 Python Interview Questions and Answers (2026 Guide)",
-        "Advanced Python Interview Questions & Answers | Medium",
-        "How to fix Stop code Memory management (0x1A) error - YouTube",
-        "Ace Your Python Interview in 2025",
-        "Top Python Interview Questions and Answers",
-        "What Is the Python Global Interpreter Lock (GIL)? – Real Python",
-        "Python Interview Questions: Key Features, Memory Management"
-      ],
-      "last_new_count": 9,
-      "_new_total_for_digest": 9
+      "last_run": "2026-06-25 00:30 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     }
   },
-  "last_run": "2026-06-25 00:16 UTC"
+  "last_run": "2026-06-25 00:30 UTC"
 }

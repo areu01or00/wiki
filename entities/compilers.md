@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [Releases - Compiler Research](https://compiler-research.org/releases) | kw: Releases - Compiler Research
+- **2026-06-25** | [r/LLVM - Reddit](https://www.reddit.com/r/LLVM/) | kw: r/LLVM - Reddit
+
 - **2026-06-25** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: jit wikipedia
 - **2026-06-25** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: llvm openprojects
 - **2026-06-25** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: gsoc 2026
