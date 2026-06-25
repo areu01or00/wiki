@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25",
-  "__last_updated": "2026-06-25T19:25:00+00:00",
-  "last_run": "2026-06-25T19:25:00+00:00",
-  "last_explore": "2026-06-25T19:25:00+00:00",
-  "last_global_explore": "2026-06-25T19:25:00+00:00",
-  "last_discovery": "2026-06-25T19:25:00+00:00",
-  "last_run_framing": "terminal-agent open-RL recipe + cross-domain foundation model + inference-time alignment-tax mitigation",
-  "last_framing": "terminal-agent open-RL recipe + cross-domain foundation model + inference-time alignment-tax mitigation",
-  "last_run_notes": "3 picks: 2606.23321, 2606.22138, 2606.21906",
-  "last_pass_type": "emergent-concept",
-  "last_run_method": "hf-3-day-window + parallel arxiv metadata + strict subject non-CV filter",
-  "run_method": "hf-3-day-window",
+  "updated": "2026-06-25T20:14:53.048457+00:00",
+  "__last_updated": "2026-06-25T20:14:53.048457+00:00",
+  "last_run": "2026-06-25T20:14:53.048457+00:00",
+  "last_explore": "2026-06-25T20:14:53.048457+00:00",
+  "last_global_explore": "2026-06-25T20:14:53.048457+00:00",
+  "last_discovery": "2026-06-25T20:14:53.048457+00:00",
+  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_agentic-data+sparse-attention+self-distillation",
+  "last_framing": "agentic multimodal data tailoring + query-head sparse-MoE + self-distillation with reflective trajectories",
+  "last_run_notes": "Explore: 3 new entity pages from emergent-concept search on HuggingFace 3-day window (2026-06-23..2026-06-25). Picks: DataClaw0 (agentic multimodal data tailoring, 2606.21337, cs.LG), Grouped Query Experts (MoE on GQA self-attention, 2606.20945, cs.LG), Learning from Your Own Mistakes (TAPO self-distillation with micro-reflective trajectories, 2606.18844, cs.LG). After 6-store cross-dedup, 26 of 76 HF non-CV candidates were fresh (66% pre-existing rate consistent with healthy wiki state).",
+  "last_pass_type": "emergent_concept_search",
+  "last_run_method": "HuggingFace daily papers (curl + regex parse) + strict subject filter + 6-store cross-dedup + arxiv_meta",
+  "run_method": "hf_daily_papers + arxiv_meta",
   "last_run_added": 3,
-  "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "terminal-agent open-RL recipe + cross-domain biological foundation model + inference-time alignment-tax mitigation",
-  "emergent_theme": "terminal-agent open-RL recipe + cross-domain biological foundation model + inference-time alignment-tax mitigation",
+  "exploration_type": "emergent-concept-search",
+  "emergent_concept_theme": "agentic multimodal data tailoring / query-head sparse-MoE / self-distillation with reflective trajectories",
+  "emergent_theme": "agentic data tailoring (DataClaw0) + query-head sparse-MoE (Grouped Query Experts) + reflective self-distillation (TAPO)",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 60,
+  "entities_count": 66,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -553,15 +553,69 @@
           "url": "https://arxiv.org/abs/2606.24083",
           "vector": "emergent-concept",
           "discovered": "2026-06-25T19:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.25013",
+          "slug": "do-thinking-tokens-help-with-safety-2606.25013",
+          "title": "Do Thinking Tokens Help with Safety?",
+          "url": "https://arxiv.org/abs/2606.25013",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:03:02.489091+00:00",
+          "theme": "LLM safety / reasoning-models / deliberation-skepticism"
+        },
+        {
+          "arxiv_id": "2606.20097",
+          "slug": "hydrahead-from-head-level-functional-heterogeneity-to-specialized-attention-hybridization-2606.20097",
+          "title": "HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization",
+          "url": "https://arxiv.org/abs/2606.20097",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:03:02.489091+00:00",
+          "theme": "LLM architecture / hybrid attention / head-level capacity allocation"
+        },
+        {
+          "arxiv_id": "2606.11897",
+          "slug": "notes2skills-from-lab-notebooks-to-certainty-aware-scientific-agent-skills-2606.11897",
+          "title": "Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills",
+          "url": "https://arxiv.org/abs/2606.11897",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:03:02.489091+00:00",
+          "theme": "scientific agents / lab-notebook-to-skill framework / certainty-aware agents"
+        },
+        {
+          "arxiv_id": "2606.21337",
+          "slug": "dataclaw0-agentic-tailoring-multimodal-data-from-raw-streams-2606.21337",
+          "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
+          "url": "https://arxiv.org/abs/2606.21337",
+          "theme": "LLM training-data / agentic-data-pipeline",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:14:53.048457+00:00"
+        },
+        {
+          "arxiv_id": "2606.20945",
+          "slug": "grouped-query-experts-mixture-of-experts-on-gqa-self-attention-2606.20945",
+          "title": "Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention",
+          "url": "https://arxiv.org/abs/2606.20945",
+          "theme": "LLM efficient-architecture / sparse-attention",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:14:53.048457+00:00"
+        },
+        {
+          "arxiv_id": "2606.18844",
+          "slug": "learning-from-your-own-mistakes-constructing-learnable-micro-reflective-trajectories-for-self-distillation-2606.18844",
+          "title": "Learning from Your Own Mistakes: Constructing Learnable Micro-Reflective Trajectories for Self-Distillation",
+          "url": "https://arxiv.org/abs/2606.18844",
+          "theme": "LLM reasoning / self-distillation / RL-training-method",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:14:53.048457+00:00"
         }
       ],
-      "last_run": "2026-06-25T18:58:00+00:00",
-      "last_explore": "2026-06-25T18:58:00+00:00",
+      "last_run": "2026-06-25T20:14:53.048457+00:00",
+      "last_explore": "2026-06-25T20:14:53.048457+00:00",
       "last_run_added": 3,
       "papers_found_count": 27,
       "run_method": "emergent-concept",
-      "last_explored": "2026-06-25T18:44:30.175576+00:00",
-      "last_run_notes": "RL-Index (index-side reasoning via GRPO) + Counsel (agentic LLMJ meta-eval) + Beyond Reward Engineering (data-recipe-first long-context RL) — 3 fresh themes"
+      "last_explored": "2026-06-25T20:14:53.048457+00:00",
+      "last_run_notes": "Explore: 3 new entity pages from emergent-concept search on HuggingFace 3-day window (2026-06-23..2026-06-25). Picks: DataClaw0 (agentic multimodal data tailoring, 2606.21337, cs.LG), Grouped Query Experts (MoE on GQA self-attention, 2606.20945, cs.LG), Learning from Your Own Mistakes (TAPO self-distillation with micro-reflective trajectories, 2606.18844, cs.LG). After 6-store cross-dedup, 26 of 76 HF non-CV candidates were fresh (66% pre-existing rate consistent with healthy wiki state)."
     }
   },
   "emergent_concept_papers": [
@@ -1019,6 +1073,57 @@
       "subject": "Computation and Language (cs.CL)",
       "date": "2026-06-20",
       "theme": "inference-time-alignment / layer-dynamics / training-free-alignment-mitigation"
+    },
+    {
+      "arxiv_id": "2606.25013",
+      "slug": "do-thinking-tokens-help-with-safety-2606.25013",
+      "title": "Do Thinking Tokens Help with Safety?",
+      "url": "https://arxiv.org/abs/2606.25013",
+      "theme": "LLM safety / reasoning-models / deliberation-skepticism",
+      "discovered": "2026-06-25T20:03:02.489091+00:00"
+    },
+    {
+      "arxiv_id": "2606.20097",
+      "slug": "hydrahead-from-head-level-functional-heterogeneity-to-specialized-attention-hybridization-2606.20097",
+      "title": "HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization",
+      "url": "https://arxiv.org/abs/2606.20097",
+      "theme": "LLM architecture / hybrid attention / head-level capacity allocation",
+      "discovered": "2026-06-25T20:03:02.489091+00:00"
+    },
+    {
+      "arxiv_id": "2606.11897",
+      "slug": "notes2skills-from-lab-notebooks-to-certainty-aware-scientific-agent-skills-2606.11897",
+      "title": "Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills",
+      "url": "https://arxiv.org/abs/2606.11897",
+      "theme": "scientific agents / lab-notebook-to-skill framework / certainty-aware agents",
+      "discovered": "2026-06-25T20:03:02.489091+00:00"
+    },
+    {
+      "arxiv_id": "2606.21337",
+      "slug": "dataclaw0-agentic-tailoring-multimodal-data-from-raw-streams-2606.21337",
+      "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
+      "url": "https://arxiv.org/abs/2606.21337",
+      "theme": "LLM training-data / agentic-data-pipeline",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:14:53.048457+00:00"
+    },
+    {
+      "arxiv_id": "2606.20945",
+      "slug": "grouped-query-experts-mixture-of-experts-on-gqa-self-attention-2606.20945",
+      "title": "Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention",
+      "url": "https://arxiv.org/abs/2606.20945",
+      "theme": "LLM efficient-architecture / sparse-attention",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:14:53.048457+00:00"
+    },
+    {
+      "arxiv_id": "2606.18844",
+      "slug": "learning-from-your-own-mistakes-constructing-learnable-micro-reflective-trajectories-for-self-distillation-2606.18844",
+      "title": "Learning from Your Own Mistakes: Constructing Learnable Micro-Reflective Trajectories for Self-Distillation",
+      "url": "https://arxiv.org/abs/2606.18844",
+      "theme": "LLM reasoning / self-distillation / RL-training-method",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:14:53.048457+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -1420,6 +1525,54 @@
       "subject": "Computation and Language (cs.CL)",
       "date": "2026-06-20",
       "theme": "inference-time-alignment / layer-dynamics / training-free-alignment-mitigation"
+    },
+    {
+      "arxiv_id": "2606.25013",
+      "title": "Do Thinking Tokens Help with Safety?",
+      "slug": "do-thinking-tokens-help-with-safety-2606.25013",
+      "url": "https://arxiv.org/abs/2606.25013",
+      "discovered": "2026-06-25T20:03:02.489091+00:00",
+      "theme": "LLM safety / reasoning-models / deliberation-skepticism"
+    },
+    {
+      "arxiv_id": "2606.20097",
+      "title": "HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization",
+      "slug": "hydrahead-from-head-level-functional-heterogeneity-to-specialized-attention-hybridization-2606.20097",
+      "url": "https://arxiv.org/abs/2606.20097",
+      "discovered": "2026-06-25T20:03:02.489091+00:00",
+      "theme": "LLM architecture / hybrid attention / head-level capacity allocation"
+    },
+    {
+      "arxiv_id": "2606.11897",
+      "title": "Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills",
+      "slug": "notes2skills-from-lab-notebooks-to-certainty-aware-scientific-agent-skills-2606.11897",
+      "url": "https://arxiv.org/abs/2606.11897",
+      "discovered": "2026-06-25T20:03:02.489091+00:00",
+      "theme": "scientific agents / lab-notebook-to-skill framework / certainty-aware agents"
+    },
+    {
+      "arxiv_id": "2606.21337",
+      "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
+      "slug": "dataclaw0-agentic-tailoring-multimodal-data-from-raw-streams-2606.21337",
+      "url": "https://arxiv.org/abs/2606.21337",
+      "discovered": "2026-06-25T20:14:53.048457+00:00",
+      "theme": "LLM training-data / agentic-data-pipeline"
+    },
+    {
+      "arxiv_id": "2606.20945",
+      "title": "Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention",
+      "slug": "grouped-query-experts-mixture-of-experts-on-gqa-self-attention-2606.20945",
+      "url": "https://arxiv.org/abs/2606.20945",
+      "discovered": "2026-06-25T20:14:53.048457+00:00",
+      "theme": "LLM efficient-architecture / sparse-attention"
+    },
+    {
+      "arxiv_id": "2606.18844",
+      "title": "Learning from Your Own Mistakes: Constructing Learnable Micro-Reflective Trajectories for Self-Distillation",
+      "slug": "learning-from-your-own-mistakes-constructing-learnable-micro-reflective-trajectories-for-self-distillation-2606.18844",
+      "url": "https://arxiv.org/abs/2606.18844",
+      "discovered": "2026-06-25T20:14:53.048457+00:00",
+      "theme": "LLM reasoning / self-distillation / RL-training-method"
     }
   ],
   "emergent_concept_search_log": [
@@ -1680,6 +1833,42 @@
       "arxiv_id": "2606.21906",
       "slug": "deeper-is-not-always-better-mitigating-the-alignment-tax-via-confident-layer-decoding-2606.21906",
       "theme": "inference-time-alignment / layer-dynamics / training-free-alignment-mitigation"
+    },
+    {
+      "ts": "2026-06-25T20:03:02.489091+00:00",
+      "papers_found": [
+        "do-thinking-tokens-help-with-safety-2606.25013",
+        "hydrahead-from-head-level-functional-heterogeneity-to-specialized-attention-hybridization-2606.20097",
+        "notes2skills-from-lab-notebooks-to-certainty-aware-scientific-agent-skills-2606.11897"
+      ],
+      "arxiv_ids": [
+        "2606.25013",
+        "2606.20097",
+        "2606.11897"
+      ],
+      "themes": [
+        "LLM safety / reasoning-models / deliberation-skepticism",
+        "LLM architecture / hybrid attention / head-level capacity allocation",
+        "scientific agents / lab-notebook-to-skill framework / certainty-aware agents"
+      ]
+    },
+    {
+      "ts": "2026-06-25T20:14:53.048457+00:00",
+      "papers_found": [
+        "dataclaw0-agentic-tailoring-multimodal-data-from-raw-streams-2606.21337",
+        "grouped-query-experts-mixture-of-experts-on-gqa-self-attention-2606.20945",
+        "learning-from-your-own-mistakes-constructing-learnable-micro-reflective-trajectories-for-self-distillation-2606.18844"
+      ],
+      "arxiv_ids": [
+        "2606.21337",
+        "2606.20945",
+        "2606.18844"
+      ],
+      "themes": [
+        "LLM training-data / agentic-data-pipeline",
+        "LLM efficient-architecture / sparse-attention",
+        "LLM reasoning / self-distillation / RL-training-method"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -1944,6 +2133,48 @@
       ],
       "thematic_framing": "terminal-agent open-RL recipe + cross-domain biological foundation model + inference-time alignment-tax mitigation",
       "dedup_rate": "43/116 pre-existing on filesystem (post-pitfall-56 wiki, 57 entities, 45 arxiv IDs); 35 fresh candidates after subject non-CV filter; 3 picked"
+    },
+    {
+      "ts": "2026-06-25T20:03:02.489091+00:00",
+      "method": "HuggingFace daily papers (2026-06-23..25 3-day window, 116 unique IDs) + custom fallback parser + arxiv meta extraction (10 workers)",
+      "papers": [
+        "2606.25013",
+        "2606.20097",
+        "2606.11897"
+      ],
+      "slugs": [
+        "do-thinking-tokens-help-with-safety-2606.25013",
+        "hydrahead-from-head-level-functional-heterogeneity-to-specialized-attention-hybridization-2606.20097",
+        "notes2skills-from-lab-notebooks-to-certainty-aware-scientific-agent-skills-2606.11897"
+      ],
+      "themes": [
+        "LLM safety / reasoning-models / deliberation-skepticism",
+        "LLM architecture / hybrid attention / head-level capacity allocation",
+        "scientific agents / lab-notebook-to-skill framework / certainty-aware agents"
+      ],
+      "thematic_framing": "LLM safety / reasoning-models / deliberation-skepticism, LLM architecture / hybrid attention / head-level capacity allocation, scientific agents / lab-notebook-to-skill framework / certainty-aware agents",
+      "dedup_rate": "31/76 non_cv_metadata fresh after 6-store dedup (45/76 pre-existing); 3 picked from fresh 31; themes rotated away from terminal-agent-RL/biological-FM/alignment-tax prior run"
+    },
+    {
+      "ts": "2026-06-25T20:14:53.048457+00:00",
+      "method": "HuggingFace daily papers (2026-06-23..2026-06-25) + strict subject filter + 6-store cross-dedup + arxiv_meta",
+      "papers": [
+        "2606.21337",
+        "2606.20945",
+        "2606.18844"
+      ],
+      "slugs": [
+        "dataclaw0-agentic-tailoring-multimodal-data-from-raw-streams-2606.21337",
+        "grouped-query-experts-mixture-of-experts-on-gqa-self-attention-2606.20945",
+        "learning-from-your-own-mistakes-constructing-learnable-micro-reflective-trajectories-for-self-distillation-2606.18844"
+      ],
+      "themes": [
+        "LLM training-data / agentic-data-pipeline",
+        "LLM efficient-architecture / sparse-attention",
+        "LLM reasoning / self-distillation / RL-training-method"
+      ],
+      "thematic_framing": "agentic data tailoring + MoE-on-attention sparse activation + self-distillation with reflective trajectories",
+      "dedup_rate": "76 non-CV HF candidates -> 26 fresh after 6-store dedup (66% pre-existing); 3 picked all fresh"
     }
   ],
   "runs": [
@@ -2110,6 +2341,26 @@
         "2606.23321",
         "2606.22138",
         "2606.21906"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T20:03:02.489091+00:00",
+      "mode": "emergent_concept",
+      "theme": "hybrid attention (head-level fusion) + scientific agents (certainty-aware skills) + safety/reasoning (deliberation skepticism) (3 fresh themes absent from prior 9 runs)",
+      "papers_added": [
+        "do-thinking-tokens-help-with-safety-2606.25013",
+        "hydrahead-from-head-level-functional-heterogeneity-to-specialized-attention-hybridization-2606.20097",
+        "notes2skills-from-lab-notebooks-to-certainty-aware-scientific-agent-skills-2606.11897"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T20:14:53.048457+00:00",
+      "mode": "emergent_concept",
+      "theme": "LLM training-data / agentic-data-pipeline, LLM efficient-architecture / sparse-attention, LLM reasoning / self-distillation / RL-training-method",
+      "papers_added": [
+        "dataclaw0-agentic-tailoring-multimodal-data-from-raw-streams-2606.21337",
+        "grouped-query-experts-mixture-of-experts-on-gqa-self-attention-2606.20945",
+        "learning-from-your-own-mistakes-constructing-learnable-micro-reflective-trajectories-for-self-distillation-2606.18844"
       ]
     }
   ],
