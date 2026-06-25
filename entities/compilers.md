@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
+- **2026-06-25** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with... - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: 2025 EuroLLVM
+- **2026-06-25** | [What is LLVM? The power behind Swift, Rust, Clang, and... | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What is LLVM? The power behind Swift, Rust, Clang,
+- **2026-06-25** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM JIT example for LLVM-5
+
 - **2026-06-25** | [809 software engineer jobs in Vancouver, BC, June 2026](https://www.glassdoor.ca/Job/vancouver-software-engineer-jobs-SRCH_IL.0,9_IC2278756_KO10,27.htm) | kw: 809 software
 - **2026-06-25** | [643 software engineer jobs in Vancouver, BC, June 2026](https://www.glassdoor.ca/Job/software-engineer-jobs-SRCH_IC2278756_KO0,17.htm) | kw: 643 software
 - **2026-06-25** | [581 Software Engineer jobs in Vancouver - LinkedIn](https://ca.linkedin.com/jobs/software-engineer-jobs-vancouver-bc) | kw: 581 Software

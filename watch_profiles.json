@@ -89,7 +89,7 @@
         "fde2e620a9be8833a9c15bcafc435062",
         "8830f5c5b6cd726238d8b95b8717a431"
       ],
-      "last_run": "2026-06-25 06:00 UTC",
+      "last_run": "2026-06-25 06:19 UTC",
       "new_sub_topics_this_run": [
         "System Wikipedia",
         "System film"
@@ -173,10 +173,6 @@
         "In-Demand software"
       ],
       "last_result_hashes": [
-        "7a90b23f67c6665e1dd3c96e7f231f6d",
-        "88d071cf15efb5e183e3cfb55286e4bb",
-        "32994be1a7e689a9a6f11781b3fd4c31",
-        "bf07a50e0f8ec405cff631a93887740b",
         "97a549ca28fbb96d1da5a5b7993e3644",
         "f56349b4e60ede46a648991d718829e1",
         "4574fe07c8777d7dd9e435a94605d5d4",
@@ -192,17 +188,25 @@
         "926e4c8698aeb3f05ca52d73aa8010c7",
         "c6982ba3f2387fa7efa4b53444c6c85e",
         "ca9ade675eecf6183c340d40af57c779",
-        "175deaafbda70b844243760536c5ec9d"
+        "175deaafbda70b844243760536c5ec9d",
+        "f1925c0af6e39aa520ffa6a282ede525",
+        "2b8946866c886624f1f07a6dc41a80bf",
+        "82bd6cb1694f9adc9d2067aafcbe6c25",
+        "86768d8752a6979c5c8cea02f676f762"
       ],
-      "last_run": "2026-06-25 06:00 UTC",
+      "last_run": "2026-06-25 06:19 UTC",
       "new_sub_topics_this_run": [
         "809 software",
         "643 software",
         "581 Software",
         "software engineer",
-        "In-Demand software"
+        "In-Demand software",
+        "The LLVM Compiler Infrastructure Project",
+        "2025 EuroLLVM",
+        "What is LLVM? The power behind Swift, Ru",
+        "A Minimal LLVM JIT example for LLVM-5"
       ],
-      "last_new_count": 5
+      "last_new_count": 4
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -274,7 +278,6 @@
         "Efficient Selection"
       ],
       "last_result_hashes": [
-        "1892288ce3bfda31458d852753d72f5f",
         "b177475a05631b06f73e531cf8aa0a39",
         "647cad759bd975f60fc3d8236d2a5230",
         "2944fb0b49eaf29412a77666f39991d9",
@@ -293,9 +296,10 @@
         "88dfcf74de33a1e88c9e9c90d0e55f9b",
         "fc735fa9ff4c8d2d83888648a67a3892",
         "a775d463940cda26049a2bbb97f4a0a9",
-        "8def5ac28caf3d0c145465a52adec4c4"
+        "8def5ac28caf3d0c145465a52adec4c4",
+        "0940c3cea7239d5389eb0d921777f44c"
       ],
-      "last_run": "2026-06-25 06:00 UTC",
+      "last_run": "2026-06-25 06:19 UTC",
       "new_sub_topics_this_run": [
         "Elixir v120",
         "Guard Analysis",
@@ -375,9 +379,6 @@
         "Pure Borrow"
       ],
       "last_result_hashes": [
-        "14cd387e800b8b80b658ad56297837b3",
-        "0a825892b16894ee5479d8cdc9ceb413",
-        "8c0ea0d18b37f3c9d2facb56f6b40861",
         "d41c8db6a25e3b0e29a3bf10cb5c7ec2",
         "f88808d81b42631027cb3a7bf97e43a3",
         "ca7ca59d81ef9f5c1da8e243ec9d6517",
@@ -394,17 +395,23 @@
         "2136ac778d12aee3561de89d5cb2371d",
         "ab1a401478bf91151df62818473f5ef5",
         "6ac17140976f4e3a7be22d2ec701d1ce",
-        "449f1936d11b3408b5111b8fbfc6e205"
+        "449f1936d11b3408b5111b8fbfc6e205",
+        "64b9213a9db6ffcf3ee048410614e9dc",
+        "2ce5775930209e8a8c3a28a2f7f1a4a5",
+        "48e396ad3bb766dd1b0be8823cba3259"
       ],
-      "last_run": "2026-06-25 06:00 UTC",
+      "last_run": "2026-06-25 06:19 UTC",
       "new_sub_topics_this_run": [
         "Hello Haskell",
         "lang r/functionalprogramming",
         "Functional Programmers",
         "Brutal Truth",
-        "Pure Borrow"
+        "Pure Borrow",
+        "How I Learned Monads: Not Through Haskel",
+        "Hello, Haskell: Getting Started in 2026",
+        "The Practical Value of Functional Progra"
       ],
-      "last_new_count": 5
+      "last_new_count": 3
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -476,8 +483,6 @@
         "Algorithms Data"
       ],
       "last_result_hashes": [
-        "b005463dec7c885ce4b60810c609473d",
-        "9f6a98f8ffeb48969df33e0a5ebb4ba7",
         "c559f855463864f3db44a42b634b4fdd",
         "1de5e6c214f5c903677b0790487ad033",
         "e9f35abfd88f89c69621cb462d294c7e",
@@ -495,16 +500,20 @@
         "6705f2d48d0252070292176640a51270",
         "9db2dd1ef6aa351897802aec83281fe2",
         "f822dd4d7a9290624864e5a92712ba08",
-        "3a5aa4dc7a08cf53617d8bc45fcdd95d"
+        "3a5aa4dc7a08cf53617d8bc45fcdd95d",
+        "c047a018ea3c082f89d714707176a9b7",
+        "01ddf5f9016e80c0617e0023227ad5ad"
       ],
-      "last_run": "2026-06-25 06:00 UTC",
+      "last_run": "2026-06-25 06:19 UTC",
       "new_sub_topics_this_run": [
         "algorithms-datastructures GitHub",
         "Leetcode data",
         "FAANG Interview",
-        "Algorithms Data"
+        "Algorithms Data",
+        "LeetCode Review (2026): Is It Worth It?",
+        "Design Add and Search Words Data Structu"
       ],
-      "last_new_count": 4
+      "last_new_count": 2
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -576,7 +585,6 @@
         "Fix windows"
       ],
       "last_result_hashes": [
-        "5d720d29ca8c62a4b504bc6f3f753b90",
         "bbb596c3441904fed7dc7fa5f00eeb00",
         "661f5f68f6928f4ea520218b2f607795",
         "175fe459d8ef35d2e78d3b0536243f87",
@@ -595,17 +603,19 @@
         "dd98088bd44f163005b52f39b2756953",
         "a6c58176fc7c15d04c6965b77938f5ae",
         "2b488ef7ce114fc1b91a56466211fbe2",
-        "83c76331b8d186cc5d695017f50eb5fb"
+        "83c76331b8d186cc5d695017f50eb5fb",
+        "a454e6bd90dd4ae1795224af7e27c1bb"
       ],
-      "last_run": "2026-06-25 06:00 UTC",
+      "last_run": "2026-06-25 06:19 UTC",
       "new_sub_topics_this_run": [
         "Internals Python",
         "What Python",
         "Best YouTube",
-        "Fix windows"
+        "Fix windows",
+        "Top 50 Python Interview Questions and An"
       ],
-      "last_new_count": 4
+      "last_new_count": 1
     }
   },
-  "last_run": "2026-06-25 06:00 UTC"
+  "last_run": "2026-06-25 06:19 UTC"
 }

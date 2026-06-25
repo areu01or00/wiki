@@ -1,3 +1,6 @@
+- **2026-06-25** | [LeetCode Review (2026): Is It Worth It?](https://coddy.tech/vs/leetcode) | kw: LeetCode Review (2026): Is It Worth It?
+- **2026-06-25** | [Design Add and Search Words Data Structure - LeetCode](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | kw: Design Add and Search Words Data Structure
+
 - **2026-06-25** | [algorithms-datastructures · GitHub Topics · GitHub](https://github.com/topics/algorithms-datastructures) | kw: algorithms-datastructures GitHub
 - **2026-06-25** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: Leetcode data
 - **2026-06-25** | [FAANG Interview Prep: The Complete Process (2026 Guide)](https://generalistprogrammer.com/tutorials/faang-interview-prep-complete-guide) | kw: FAANG Interview

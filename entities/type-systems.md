@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-06-25** | [Gradual typing - Wikipedia](https://en.m.wikipedia.org/wiki/Gradual_typing) | kw: Gradual typing
+
 - **2026-06-25** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v120
 - **2026-06-25** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis
 - **2026-06-25** | [Elixir's Gradual Type System (1.17-1.20): How the Compiler Finally](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: Elixirs Gradual
