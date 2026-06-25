@@ -553,3 +553,14 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Pitfalls hit: NONE in main flow (DomainShuttle entity initially had a typo wikilink — wrote `reasoning-in-mask-diffusion` instead of `reasoning-mask-diffusion`; corrected via patch before the parent-update prepend; all 9 entity-file wikilinks + 11 parent-block wikilinks resolve to existing entities)
 - Per-run counter suffix on all /tmp/ artifacts: run2258
 - Theme-diversity discipline: continues non-agent-heavy recent streak; picks span T2V subject-driven open-domain editability + AR video diffusion distillation + LRM trust-anchor behavior forecasting (T2V + AR-diffusion + interpretability)
+
+- arxiv IDs added: 2606.23503, 2606.23050, 2606.11075
+- Parent updates: emergent-concepts.md ## Updates section prepended in date-DESC order (06-22 UniverSat → 06-22 Unlimited OCR → 06-09 FlowBP)
+- State files: explore_context.json (93 in emergent_concept_papers, 93 in emergent_discoveries, 84 in chains[emergent-concepts].papers_found, 31 runs, 31 emergent_concept_search_runs, 33 in emergent_concept_search_log, entities_count=105); watch_profiles.json (93 top-level + 93 in llm-wiki + 93 in profiles.llm-wiki-explore last_result_hashes; 90 in profiles.llm-wiki-explore.last_results)
+- ensure_ascii detection: explore_context=False (raw em-dash bytes preserved), watch_profiles=True (escaped) — divergent stable state confirmed (20th consecutive run)
+- Step 7.5 entity↔state cross-check (post-write): 93 filesystem arxiv IDs == 93 in emergent_concept_papers; all 3 new IDs present in both filesystem and state; entities_count claim = 105 actual = 105 (93 paper entities + 12 meta/topical entities)
+- Step 5.5 wikilink-resolution check: 0 broken across 3 new entity files (3+3+3 = 9 wikilinks resolved) AND 0 broken across all 12 wikilinks in the parent-update new block (caught 1 forward-looking-placeholder slug in FlowBP Related Papers → replaced via lookup_slug with real existing distilling-examples-into-task-instructions-enhanced-in-context-2606.15641 entity)
+- Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes, 0 collisions with existing 90-hash pool
+- Pitfalls hit: NONE in main flow (forward-looking-placeholder slug pre-write audit caught `[[distilling-examples-into-task-instructions-2606.xxxxx]]` placeholder in FlowBP Related Papers → replaced with real existing `[[distilling-examples-into-task-instructions-enhanced-in-context-2606.15641]]` entity before write; 12/12 parent-block wikilinks resolve)
+- Per-run counter suffix on all /tmp/ artifacts: run2323
+- Theme-diversity discipline: continues non-agent-heavy recent streak; picks span EO backbone + OCR/document AI + T2I flow-matching training technique (one remote-sensing / one document / one training-technique)

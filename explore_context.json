@@ -2,30 +2,30 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T23:12:09.658648+00:00",
-  "__last_updated": "2026-06-25T23:12:09.658648+00:00",
-  "last_run": "2026-06-25T23:12:09.658648+00:00",
-  "last_explore": "2026-06-25T23:12:09.658648+00:00",
-  "last_global_explore": "2026-06-25T23:12:09.658648+00:00",
-  "last_discovery": "2026-06-25T23:12:09.658648+00:00",
-  "last_run_framing": "theme-diversity: T2V-subject-driven-open-domain (DomainShuttle) + AR-diffusion-distillation-streaming-world-models (Causal-rCM) + LRM-behavior-forecasting-trust-anchor (Forecasting)",
-  "last_framing": "theme-diversity: T2V-subject-driven-open-domain (DomainShuttle) + AR-diffusion-distillation-streaming-world-models (Causal-rCM) + LRM-behavior-forecasting-trust-anchor (Forecasting)",
-  "last_run_notes": "3 new entity pages from emergent-concept search on HF 4-source window: DomainShuttle (T2V subject-driven generation distinguishing in-domain fidelity vs cross-domain editability with explicit domain-shuttle mechanism + subject-irrelevant properties as a first-class axis), Causal-rCM (AR video diffusion distillation extending rCM's CM+DMD complementarity to autoregressive setting with unified teacher-forcing and self-forcing open recipe for streaming + interactive world models), Forecasting Future Behavior (LRM interpretability — diagnosis that trajectory-level explanation methods do not generalize to LRMs and trajectory natural-language is empirically unfaithful, so propose Behavior Forecaster as a learnable task that bypasses the explanation step entirely). Theme-diversity: T2V generation + video diffusion + LRM trust-anchor — continues non-agent-heavy streak with two generative-modeling angles (T2V generation + AR video diffusion) and one safety/interpretability angle.",
-  "last_pass_type": "emergent_concept",
+  "updated": "2026-06-25",
+  "__last_updated": "2026-06-25T23:28:16.399092+00:00",
+  "last_run": "2026-06-25T23:28:16.399092+00:00",
+  "last_explore": "2026-06-25T23:28:16.399092+00:00",
+  "last_global_explore": "2026-06-25T23:28:16.399092+00:00",
+  "last_discovery": "2026-06-25T23:28:16.399092+00:00",
+  "last_run_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) — breaks recent generative-modeling-heavy streak",
+  "last_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) — breaks recent generative-modeling-heavy streak",
+  "last_run_notes": "Run 32 (2026-06-25T23:28:16.399092+00:00): 3 new entity pages from emergent-concept search. Theme cluster: EO backbone (UniverSat — Universal Patch Encoder absorbing arbitrary-modality corpora under shared weights) + OCR/document-AI (Unlimited OCR — Reference Sliding Window Attention replaces decoder attention to keep KV cache constant under long-document transcription) + T2I flow-matching training technique (FlowBP — surrogate-trajectory framework unifying direct-gradient methods under four-axis design factorization). Strong theme-diversity — breaks recent generative-modeling-heavy streak with one remote-sensing / one OCR-document / one T2I-training technique pick. 0 broken wikilinks (post-write Step 5.5 audit caught and fixed one forward-looking-placeholder slug in FlowBP Related Papers). 5-store dedup: 117 raw unique IDs → 34 fresh → 23 LLM-relevant.",
+  "last_pass_type": "emergent_concept_search",
   "last_run_method": "hf_daily_emergent_concept_search",
   "run_method": "hf_daily_emergent_concept_search",
   "last_run_added": [
-    "2606.26058",
-    "2606.25473",
-    "2606.11445"
+    "universat-resolution-and-modality-agnostic-transformers-for-earth-observation",
+    "unlimited-ocr-works",
+    "exploring-the-design-space-of-reward-backpropagation-for-flow-matching"
   ],
   "exploration_type": "emergent_concept_search",
-  "emergent_concept_theme": "theme-diversity: T2V-subject-driven-open-domain (DomainShuttle) + AR-diffusion-distillation-streaming-world-models (Causal-rCM) + LRM-behavior-forecasting-trust-anchor (Forecasting)",
-  "emergent_theme": "theme-diversity: T2V-subject-driven-open-domain (DomainShuttle) + AR-diffusion-distillation-streaming-world-models (Causal-rCM) + LRM-behavior-forecasting-trust-anchor (Forecasting)",
+  "emergent_concept_theme": "earth-observation-resolution-modality-agnostic + OCR-document-AI-KV-cache-bounded-attention + flow-matching-reward-backprop-surrogate-trajectory",
+  "emergent_theme": "theme-diversity across EO / OCR / T2I-training (breaks recent generative-modeling-heavy streak)",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 102,
+  "entities_count": 105,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -898,6 +898,33 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-25T23:12:09.658648+00:00",
           "theme": "interpretability large-reasoning-models behavior-forecasting safety-trust-anchor"
+        },
+        {
+          "arxiv_id": "2606.23503",
+          "slug": "universat-resolution-and-modality-agnostic-transformers-for-earth-observation",
+          "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
+          "url": "https://arxiv.org/abs/2606.23503",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25",
+          "theme": "earth-observation-remote-sensing-resolution-modality-agnostic"
+        },
+        {
+          "arxiv_id": "2606.23050",
+          "slug": "unlimited-ocr-works",
+          "title": "Unlimited OCR Works",
+          "url": "https://arxiv.org/abs/2606.23050",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25",
+          "theme": "ocr-document-ai-kv-cache-attention-long-context"
+        },
+        {
+          "arxiv_id": "2606.11075",
+          "slug": "exploring-the-design-space-of-reward-backpropagation-for-flow-matching",
+          "title": "Exploring the Design Space of Reward Backpropagation for Flow Matching",
+          "url": "https://arxiv.org/abs/2606.11075",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25",
+          "theme": "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -1729,6 +1756,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-25T23:12:09.658648+00:00",
       "theme": "interpretability large-reasoning-models behavior-forecasting safety-trust-anchor"
+    },
+    {
+      "arxiv_id": "2606.23503",
+      "slug": "universat-resolution-and-modality-agnostic-transformers-for-earth-observation",
+      "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
+      "url": "https://arxiv.org/abs/2606.23503",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25",
+      "theme": "earth-observation-remote-sensing-resolution-modality-agnostic"
+    },
+    {
+      "arxiv_id": "2606.23050",
+      "slug": "unlimited-ocr-works",
+      "title": "Unlimited OCR Works",
+      "url": "https://arxiv.org/abs/2606.23050",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25",
+      "theme": "ocr-document-ai-kv-cache-attention-long-context"
+    },
+    {
+      "arxiv_id": "2606.11075",
+      "slug": "exploring-the-design-space-of-reward-backpropagation-for-flow-matching",
+      "title": "Exploring the Design Space of Reward Backpropagation for Flow Matching",
+      "url": "https://arxiv.org/abs/2606.11075",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25",
+      "theme": "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory"
     }
   ],
   "emergent_discoveries": [
@@ -2459,6 +2513,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-25T23:12:09.658648+00:00",
       "theme": "interpretability large-reasoning-models behavior-forecasting safety-trust-anchor"
+    },
+    {
+      "arxiv_id": "2606.23503",
+      "slug": "universat-resolution-and-modality-agnostic-transformers-for-earth-observation",
+      "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
+      "url": "https://arxiv.org/abs/2606.23503",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25",
+      "theme": "earth-observation-remote-sensing-resolution-modality-agnostic"
+    },
+    {
+      "arxiv_id": "2606.23050",
+      "slug": "unlimited-ocr-works",
+      "title": "Unlimited OCR Works",
+      "url": "https://arxiv.org/abs/2606.23050",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25",
+      "theme": "ocr-document-ai-kv-cache-attention-long-context"
+    },
+    {
+      "arxiv_id": "2606.11075",
+      "slug": "exploring-the-design-space-of-reward-backpropagation-for-flow-matching",
+      "title": "Exploring the Design Space of Reward Backpropagation for Flow Matching",
+      "url": "https://arxiv.org/abs/2606.11075",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25",
+      "theme": "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory"
     }
   ],
   "emergent_concept_search_log": [
@@ -3009,6 +3090,27 @@
       "run_method": "hf_daily_emergent_concept_search",
       "parent_prepend_order": "date-DESC + reverse-insertion tiebreaker",
       "wikilink_audit": "all 11 wikilinks in new block resolve to existing entities"
+    },
+    {
+      "ts": "2026-06-25T23:28:16.399092+00:00",
+      "method": "hf_daily_emergent_concept_search",
+      "papers": [
+        "2606.23503",
+        "2606.23050",
+        "2606.11075"
+      ],
+      "slugs": [
+        "universat-resolution-and-modality-agnostic-transformers-for-earth-observation",
+        "unlimited-ocr-works",
+        "exploring-the-design-space-of-reward-backpropagation-for-flow-matching"
+      ],
+      "themes": [
+        "earth-observation-remote-sensing-resolution-modality-agnostic",
+        "ocr-document-ai-kv-cache-attention-long-context",
+        "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory"
+      ],
+      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) — breaks recent generative-modeling-heavy streak",
+      "dedup_rate": "149 raw hits → 117 unique arxiv IDs → 34 fresh (filesystem dedup) → 23 LLM-relevant"
     }
   ],
   "emergent_concept_search_runs": [
@@ -3504,6 +3606,28 @@
       "thematic_framing": "theme-diversity: T2V-subject-driven-open-domain (DomainShuttle) + AR-diffusion-distillation-streaming-world-models (Causal-rCM) + LRM-behavior-forecasting-trust-anchor (Forecasting)",
       "dedup_rate": "61 raw HF candidates → 21 fresh after 5-store dedup → 21 LLM-relevant",
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-25T23:28:16.399092+00:00",
+      "method": "hf_daily_emergent_concept_search (3 day-pages 06-23/06-24/06-25 + default page; 06-26 returned HTTP 400; SVELTE_HYDRATER unescape + raw_decode JSON parser; LLM-keyword title filter; 5-store dedup)",
+      "papers": [
+        "2606.23503",
+        "2606.23050",
+        "2606.11075"
+      ],
+      "slugs": [
+        "universat-resolution-and-modality-agnostic-transformers-for-earth-observation",
+        "unlimited-ocr-works",
+        "exploring-the-design-space-of-reward-backpropagation-for-flow-matching"
+      ],
+      "themes": [
+        "earth-observation-remote-sensing-resolution-modality-agnostic",
+        "ocr-document-ai-kv-cache-attention-long-context",
+        "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory"
+      ],
+      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) — breaks recent generative-modeling-heavy streak",
+      "dedup_rate": "149 raw hits → 117 unique arxiv IDs → 34 fresh (filesystem dedup) → 23 LLM-relevant",
+      "pitfalls_hit": "NONE in main flow (placeholder-slug forward-looking-broken-wikilink caught pre-write; replaced via lookup_slug with real existing entity)"
     }
   ],
   "runs": [
@@ -3834,6 +3958,18 @@
       ],
       "entities_count_after": 102,
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "timestamp": "2026-06-25T23:28:16.399092+00:00",
+      "mode": "emergent_concept",
+      "theme": "earth-observation-resolution-modality-agnostic + OCR-document-AI-KV-cache-bounded-attention + flow-matching-reward-backprop-surrogate-trajectory",
+      "papers_added": [
+        "universat-resolution-and-modality-agnostic-transformers-for-earth-observation",
+        "unlimited-ocr-works",
+        "exploring-the-design-space-of-reward-backpropagation-for-flow-matching"
+      ],
+      "entities_count_after": 105,
+      "pitfalls_hit": "NONE in main flow (one forward-looking-broken-wikilink pre-write audit caught the placeholder slug; replaced with real existing entity before commit)"
     }
   ],
   "last_updated": "2026-06-25T22:08:00+00:00",

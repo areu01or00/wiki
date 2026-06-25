@@ -769,7 +769,10 @@
         "1d2e49b8f3462c8ab3543c00214d34d7",
         "2dafe7c035db3289aa0d73f4b1bbbf88",
         "0539226107b579e610356d15938400bf",
-        "da563a5efcdaf75f0026e49a4a5a9c2e"
+        "da563a5efcdaf75f0026e49a4a5a9c2e",
+        "b3d18003ba2620ed595eb5fceea409f6",
+        "6ee30840888be3d3e123e5b9c2753f35",
+        "f07e0b319c2a5f6421f22c8c38178794"
       ],
       "last_results": [
         {
@@ -1500,6 +1503,33 @@
           "vector": "emergent_concept_search",
           "hash": "da563a5efcdaf75f0026e49a4a5a9c2e",
           "discovered": "2026-06-25T23:12:09.658648+00:00"
+        },
+        {
+          "hash": "b3d18003ba2620ed595eb5fceea409f6",
+          "arxiv_id": "2606.23503",
+          "slug": "universat-resolution-and-modality-agnostic-transformers-for-earth-observation",
+          "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
+          "discovered": "2026-06-25",
+          "theme": "earth-observation-remote-sensing-resolution-modality-agnostic",
+          "run": "2026-06-25T23:28:16.399092+00:00"
+        },
+        {
+          "hash": "6ee30840888be3d3e123e5b9c2753f35",
+          "arxiv_id": "2606.23050",
+          "slug": "unlimited-ocr-works",
+          "title": "Unlimited OCR Works",
+          "discovered": "2026-06-25",
+          "theme": "ocr-document-ai-kv-cache-attention-long-context",
+          "run": "2026-06-25T23:28:16.399092+00:00"
+        },
+        {
+          "hash": "f07e0b319c2a5f6421f22c8c38178794",
+          "arxiv_id": "2606.11075",
+          "slug": "exploring-the-design-space-of-reward-backpropagation-for-flow-matching",
+          "title": "Exploring the Design Space of Reward Backpropagation for Flow Matching",
+          "discovered": "2026-06-25",
+          "theme": "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory",
+          "run": "2026-06-25T23:28:16.399092+00:00"
         }
       ],
       "last_run": "2026-06-25T23:12:09.658648+00:00",
@@ -1509,7 +1539,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T23:12:09.658648+00:00",
+  "last_run": "2026-06-25T23:28:16.399092+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1600,12 +1630,15 @@
     "1d2e49b8f3462c8ab3543c00214d34d7",
     "2dafe7c035db3289aa0d73f4b1bbbf88",
     "0539226107b579e610356d15938400bf",
-    "da563a5efcdaf75f0026e49a4a5a9c2e"
+    "da563a5efcdaf75f0026e49a4a5a9c2e",
+    "b3d18003ba2620ed595eb5fceea409f6",
+    "6ee30840888be3d3e123e5b9c2753f35",
+    "f07e0b319c2a5f6421f22c8c38178794"
   ],
-  "last_discovery": "2026-06-25T23:12:09.658648+00:00",
-  "last_updated": "2026-06-25T23:12:09.658648+00:00",
-  "__last_updated": "2026-06-25T23:12:09.658648+00:00",
-  "last_explore": "2026-06-25T23:12:09.658648+00:00",
+  "last_discovery": "2026-06-25T23:28:16.399092+00:00",
+  "last_updated": "2026-06-25T23:28:16.399092+00:00",
+  "__last_updated": "2026-06-25T23:28:16.399092+00:00",
+  "last_explore": "2026-06-25T23:28:16.399092+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1697,11 +1730,14 @@
       "1d2e49b8f3462c8ab3543c00214d34d7",
       "2dafe7c035db3289aa0d73f4b1bbbf88",
       "0539226107b579e610356d15938400bf",
-      "da563a5efcdaf75f0026e49a4a5a9c2e"
+      "da563a5efcdaf75f0026e49a4a5a9c2e",
+      "b3d18003ba2620ed595eb5fceea409f6",
+      "6ee30840888be3d3e123e5b9c2753f35",
+      "f07e0b319c2a5f6421f22c8c38178794"
     ],
     "last_discovery": "2026-06-25T23:12:09.658648+00:00",
     "last_run": "2026-06-25T23:12:09.658648+00:00",
     "last_updated": "2026-06-25T23:12:09.658648+00:00"
   },
-  "last_pass_type": "emergent_concept"
+  "last_pass_type": "emergent_concept_search"
 }
