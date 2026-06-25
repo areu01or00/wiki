@@ -230,7 +230,6 @@
         "Modern Architecture Patterns (2026 Edition)"
       ],
       "last_result_hashes": [
-        "fe8b0e305303da4803bf21ff16ddfd0f",
         "1ce27f21773843a02a08f5c0a69f282d",
         "29d394dc2174dfd2f238de83ed7960da",
         "f808d13c3fbb1d0b9dcfa821011972b9",
@@ -249,9 +248,10 @@
         "a4f767c8d886ec8f2fab1999efc97283",
         "ba3cc11f5958d5ab5a815f9aea7d63fb",
         "9b43446643af145b9f1d7629a19c8ad8",
-        "694eafe5ed78cb746d62ba47e0492d7d"
+        "694eafe5ed78cb746d62ba47e0492d7d",
+        "bb2281be641c13c087b3bfd94faf2e29"
       ],
-      "last_run": "2026-06-25 02:51 UTC",
+      "last_run": "2026-06-25 03:02 UTC",
       "new_sub_topics_this_run": [
         "Centralized vs. Decentralized vs. Distributed Syst",
         "Integration Patterns 2026",
@@ -500,10 +500,6 @@
         "LTS2026 is (finally) out"
       ],
       "last_result_hashes": [
-        "4a875ba6c9df4a6d863a675c9bbe1244",
-        "da4da22ebe0b30bc79e1ad7a94e5310c",
-        "926e4c8698aeb3f05ca52d73aa8010c7",
-        "ca9ade675eecf6183c340d40af57c779",
         "3c9718118369d7e2403bff65ca60bf76",
         "32f4188675ea6aa9b99de9314a538fa1",
         "bc913cc34f36e9de0dc4662d43d11430",
@@ -519,9 +515,13 @@
         "f56349b4e60ede46a648991d718829e1",
         "4574fe07c8777d7dd9e435a94605d5d4",
         "470d910ef73670290f5dc3d18c02cc14",
-        "fdd4ffbce27465b77708763f0a147e47"
+        "fdd4ffbce27465b77708763f0a147e47",
+        "85875fa4aeb3a7c10187eaf8cc0cac2f",
+        "f212b8bc83dbc58b61083167f860e67f",
+        "79f4ddf873dbf67c746be2d871fbeb46",
+        "b9a1444439c4370b71f553ef5c31cd7f"
       ],
-      "last_run": "2026-06-25 02:51 UTC",
+      "last_run": "2026-06-25 03:02 UTC",
       "new_sub_topics_this_run": [
         "2026 US LLVM Developers' Meeting",
         "Creating a runtime using the LLVM_ENABLE_RUNTIMES ",
@@ -752,7 +752,6 @@
         "Guard Analysis and Safe Erasure Gradual Typing"
       ],
       "last_result_hashes": [
-        "5c21446269dd12a54c717eb3e7a51427",
         "5e9409ad13ba2bf9ddddb09f8267a99c",
         "5f897f647d084721278d0446f68d3c56",
         "7aa66b1702a629995c6c3fefaff4c9b1",
@@ -771,9 +770,10 @@
         "1a9958a78e7ae39c78870e2584d0687d",
         "068a07b3862dfe7a7b75410740325108",
         "2817e8378b277cd3cfe64b421e8bd932",
-        "88dfcf74de33a1e88c9e9c90d0e55f9b"
+        "88dfcf74de33a1e88c9e9c90d0e55f9b",
+        "fc735fa9ff4c8d2d83888648a67a3892"
       ],
-      "last_run": "2026-06-25 02:51 UTC",
+      "last_run": "2026-06-25 03:02 UTC",
       "new_sub_topics_this_run": [
         "Efficient Selection of Type Annotations for Perfor",
         "[2603.05649] Efficient Selection of Type Annotatio",
@@ -1024,10 +1024,6 @@
         "Good tutorial/book about functional programming?"
       ],
       "last_result_hashes": [
-        "f125fd763b14914e19f8692d969e2872",
-        "587ec0689fe4ff24a80da6c961e9987b",
-        "1a693609586122a5ba5a5cd611341c40",
-        "867d449835c01cb37e6aff5c0562cefe",
         "ab1a401478bf91151df62818473f5ef5",
         "0a825892b16894ee5479d8cdc9ceb413",
         "6265d0c7ea387b97e9eb7551bfd1a683",
@@ -1043,9 +1039,13 @@
         "e55528583c075e31a35045fcb82d4f34",
         "1db5f717264d17e31600d898af5293af",
         "1d7970e84cd4f8c65e15448cb2b5fc0b",
-        "1ba86dd5c8314cde433def788cc0443c"
+        "1ba86dd5c8314cde433def788cc0443c",
+        "269341708d555d5819da5ef32f81a574",
+        "52aadfa3b6370a6961288afe7f75e34c",
+        "bab6dc04368dc487cd403e3a93312b56",
+        "cc9f3837164b6e0e6edde576a14a1c3f"
       ],
-      "last_run": "2026-06-25 02:51 UTC",
+      "last_run": "2026-06-25 03:02 UTC",
       "new_sub_topics_this_run": [
         "What killed Haskell, could kill Rust, too",
         "How I Learned Monads",
@@ -1327,8 +1327,6 @@
         "Google 2026 Interview Preparation"
       ],
       "last_result_hashes": [
-        "fe020577933926e4f6cea53a7e140da0",
-        "c1786f9fbe09b833fc08718063125668",
         "be6da1ea7a1c55bc0840c46dac040ce4",
         "48e3ad168dd5302fac5e71eb85dfb4f7",
         "6b281b913e5ddc475748ace3123f0549",
@@ -1346,9 +1344,11 @@
         "9c1dcb0817e3bca7398f9085df2e046d",
         "c081d373fdb54070daade9a235858c9b",
         "8b3a80ae022167a98409b08c2dfb8694",
-        "1132030510e2da410ab4f10496d87ebc"
+        "1132030510e2da410ab4f10496d87ebc",
+        "d727dd403674c8e79bf1452104697891",
+        "8b872e9c4137efc4de77b9e0bf4a2ba1"
       ],
-      "last_run": "2026-06-25 02:51 UTC",
+      "last_run": "2026-06-25 03:02 UTC",
       "new_sub_topics_this_run": [
         "I Tried 30+ Data Structures and Algorithms Courses",
         "Top 100 Data Structure and Algorithms DSA Intervie",
@@ -1616,11 +1616,6 @@
         "Understanding Python GIL..."
       ],
       "last_result_hashes": [
-        "1c9e34c438b893768685d5e9b0743087",
-        "3ca0f5111ea998f95acd8c079ac9e8f2",
-        "c0d9870261fb93e027112cfed34316a5",
-        "44ede0fa7f964aee564e189fd251a80b",
-        "d312cb77ade078c8f1e9dac2e24a756b",
         "bc46e2bcc23714c5243a5210b1d2f5ae",
         "dd98088bd44f163005b52f39b2756953",
         "a6c58176fc7c15d04c6965b77938f5ae",
@@ -1635,9 +1630,14 @@
         "b1ee147f4d765a2e836d0e6ebb25e4a0",
         "d965c4ac6e189c5e3ef5fefcd20c9dff",
         "a1233cdbbbaf5c3624b23b99f9297143",
-        "3977a42e266cba0d9724f6994662a434"
+        "3977a42e266cba0d9724f6994662a434",
+        "952e4cdd85ea50368b5178492a0c873c",
+        "b97e824f1e170dc724aea12741ad9890",
+        "cab51b9535106a9f6b476476901a2948",
+        "4ba531aedd0133f44b372ea8170dfc08",
+        "c644c61774b53593b05d98f55951400a"
       ],
-      "last_run": "2026-06-25 02:51 UTC",
+      "last_run": "2026-06-25 03:02 UTC",
       "new_sub_topics_this_run": [
         "Understanding the Python Global Interpreter Lock (",
         "What is the Global Interpreter Lock (GIL) in Pytho",
