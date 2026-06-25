@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "schema": "explore_context_v1",
+  "created": "2026-06-25T16:02:38.140074+00:00",
+  "updated": "2026-06-25T16:02:38.140074+00:00",
+  "__last_updated": "2026-06-25T16:02:38.140074+00:00",
+  "last_run": "2026-06-25T16:02:38.140074+00:00",
+  "last_explore": "2026-06-25T16:02:38.140074+00:00",
+  "last_global_explore": "2026-06-25T16:02:38.140074+00:00",
+  "last_discovery": "2026-06-25T16:02:38.140074+00:00",
+  "last_run_framing": "restore-from-backup-2026-06-25",
+  "last_framing": "restore-from-backup-2026-06-25",
+  "last_run_notes": "Restored from jobs.json.backup_20260502_134726 + run-2026-05-24 chain table after wiki-explore-agent-ops pitfall-56 diagnosis.",
+  "last_pass_type": "emergent-concept",
+  "last_run_method": "emergent-concept",
+  "run_method": "emergent-concept",
+  "last_run_added": 0,
+  "exploration_type": "emergent-concept",
+  "emergent_concept_theme": "restored",
+  "emergent_theme": "restored",
+  "chains_updated": [],
+  "entities_count": 0,
+  "chains": {
+    "attention-is-all-you-need": {
+      "slug": "attention-is-all-you-need",
+      "seed": "1706.03762",
+      "explored_vectors": [
+        "author_followup",
+        "cited_by",
+        "related_topics",
+        "cites"
+      ],
+      "papers_found": [],
+      "last_run": "2026-06-25T16:02:38.140096+00:00",
+      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "last_run_added": 0,
+      "papers_found_count": 29,
+      "run_method": "emergent-concept"
+    },
+    "bert-pre-training": {
+      "slug": "bert-pre-training",
+      "seed": "1810.04805",
+      "explored_vectors": [
+        "author_followup",
+        "cited_by",
+        "related_topics",
+        "cites"
+      ],
+      "papers_found": [],
+      "last_run": "2026-06-25T16:02:38.140096+00:00",
+      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "last_run_added": 0,
+      "papers_found_count": 9,
+      "run_method": "emergent-concept"
+    },
+    "gpt3-language-models": {
+      "slug": "gpt3-language-models",
+      "seed": "2005.14165",
+      "explored_vectors": [
+        "author_followup",
+        "cited_by",
+        "related_topics",
+        "cites"
+      ],
+      "papers_found": [],
+      "last_run": "2026-06-25T16:02:38.140096+00:00",
+      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "last_run_added": 0,
+      "papers_found_count": 39,
+      "run_method": "emergent-concept"
+    },
+    "llama-open-foundation": {
+      "slug": "llama-open-foundation",
+      "seed": "2302.13971",
+      "explored_vectors": [
+        "author_followup",
+        "cited_by",
+        "related_topics",
+        "cites"
+      ],
+      "papers_found": [],
+      "last_run": "2026-06-25T16:02:38.140096+00:00",
+      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "last_run_added": 0,
+      "papers_found_count": 7,
+      "run_method": "emergent-concept"
+    },
+    "mistral-7b": {
+      "slug": "mistral-7b",
+      "seed": "2310.06825",
+      "explored_vectors": [
+        "author_followup",
+        "cited_by",
+        "related_topics",
+        "cites"
+      ],
+      "papers_found": [],
+      "last_run": "2026-06-25T16:02:38.140096+00:00",
+      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "last_run_added": 0,
+      "papers_found_count": 28,
+      "run_method": "emergent-concept"
+    },
+    "teacher-guided-routing-sparse-vision-moe-2604.21330": {
+      "slug": "teacher-guided-routing-sparse-vision-moe-2604.21330",
+      "seed": "2604.21330",
+      "explored_vectors": [
+        "author_followup",
+        "cited_by",
+        "related_topics",
+        "cites"
+      ],
+      "papers_found": [],
+      "last_run": "2026-06-25T16:02:38.140096+00:00",
+      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "last_run_added": 0,
+      "papers_found_count": 7,
+      "run_method": "emergent-concept"
+    },
+    "deco-sparse-moe-dense-comparable-2605.10933": {
+      "slug": "deco-sparse-moe-dense-comparable-2605.10933",
+      "seed": "2605.10933",
+      "explored_vectors": [
+        "author_followup",
+        "cited_by",
+        "related_topics",
+        "cites"
+      ],
+      "papers_found": [],
+      "last_run": "2026-06-25T16:02:38.140096+00:00",
+      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "last_run_added": 0,
+      "papers_found_count": 7,
+      "run_method": "emergent-concept"
+    },
+    "da-mamba-domain-aware-state-space-model-2603.18757": {
+      "slug": "da-mamba-domain-aware-state-space-model-2603.18757",
+      "seed": "2603.18757",
+      "explored_vectors": [
+        "author_followup",
+        "cited_by",
+        "related_topics",
+        "cites"
+      ],
+      "papers_found": [],
+      "last_run": "2026-06-25T16:02:38.140096+00:00",
+      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "last_run_added": 0,
+      "papers_found_count": 18,
+      "run_method": "emergent-concept"
+    },
+    "emergent-concepts": {
+      "slug": "emergent-concepts",
+      "seed": "",
+      "explored_vectors": [
+        "author_followup",
+        "cited_by",
+        "related_topics",
+        "cites"
+      ],
+      "papers_found": [],
+      "last_run": "2026-06-25T16:02:38.140096+00:00",
+      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "last_run_added": 0,
+      "papers_found_count": 79,
+      "run_method": "emergent-concept"
+    }
+  },
+  "emergent_concept_papers": [],
+  "emergent_discoveries": [],
+  "emergent_concept_search_log": [],
+  "emergent_concept_search_runs": [],
+  "runs": []
+}
