@@ -4,8 +4,8 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-25T18:58:00+00:00",
   "__last_updated": "2026-06-25T18:58:00+00:00",
-  "last_run": "2026-06-25T18:58:00+00:00",
-  "last_explore": "2026-06-25T18:58:00+00:00",
+  "last_run": "2026-06-25T19:30:00+00:00",
+  "last_explore": "2026-06-25T19:30:00+00:00",
   "last_global_explore": "2026-06-25T18:58:00+00:00",
   "last_discovery": "2026-06-25T18:58:00+00:00",
   "last_run_framing": "emergent-concept, HF 3-day window 2026-06-23..25, agent-safety + reasoning theory themes",
@@ -529,6 +529,30 @@
           "url": "https://arxiv.org/abs/2606.23189",
           "vector": "emergent_concept",
           "discovered": "2026-06-25T18:58:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.23449",
+          "slug": "aohp-an-open-source-os-level-agent-harness-for-personalized-efficient-and-2606.23449",
+          "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+          "url": "https://arxiv.org/abs/2606.23449",
+          "vector": "emergent-concept",
+          "discovered": "2026-06-25T19:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.24530",
+          "slug": "naturebench-can-coding-agents-match-the-published-sota-of-nature-family-papers-2606.24530",
+          "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+          "url": "https://arxiv.org/abs/2606.24530",
+          "vector": "emergent-concept",
+          "discovered": "2026-06-25T19:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.24083",
+          "slug": "cavewoman-how-large-language-models-behave-under-linguistic-input-and-output-2606.24083",
+          "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+          "url": "https://arxiv.org/abs/2606.24083",
+          "vector": "emergent-concept",
+          "discovered": "2026-06-25T19:30:00+00:00"
         }
       ],
       "last_run": "2026-06-25T18:58:00+00:00",
@@ -929,6 +953,39 @@
       "discovered_at": "2026-06-25T18:58:00+00:00",
       "discovery_method": "emergent-concept HF daily 3-day + strict subject non-CV filter + LLM-flavor scoring",
       "discovered_in_run": "2026-06-25T18:58:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.23449",
+      "slug": "aohp-an-open-source-os-level-agent-harness-for-personalized-efficient-and-2606.23449",
+      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "url": "https://arxiv.org/abs/2606.23449",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:30:00+00:00",
+      "subject": "cs.AI",
+      "date": "2026-06-22",
+      "theme": "agent-infrastructure / OS-harness"
+    },
+    {
+      "arxiv_id": "2606.24530",
+      "slug": "naturebench-can-coding-agents-match-the-published-sota-of-nature-family-papers-2606.24530",
+      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+      "url": "https://arxiv.org/abs/2606.24530",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:30:00+00:00",
+      "subject": "cs.CL",
+      "date": "2026-06-23",
+      "theme": "agent-evaluation / scientific-replication"
+    },
+    {
+      "arxiv_id": "2606.24083",
+      "slug": "cavewoman-how-large-language-models-behave-under-linguistic-input-and-output-2606.24083",
+      "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+      "url": "https://arxiv.org/abs/2606.24083",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:30:00+00:00",
+      "subject": "cs.CL",
+      "date": "2026-06-23",
+      "theme": "inference-efficiency / prompt-vs-output-cost"
     }
   ],
   "emergent_discoveries": [
@@ -1264,6 +1321,39 @@
       "slug": "capable-but-careless-do-computer-use-agents-follow-contextual-integrity-2606.23189",
       "theme": "LLM agent-safety / computer-use privacy / contextual-integrity",
       "discovered_at": "2026-06-25T18:58:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.23449",
+      "slug": "aohp-an-open-source-os-level-agent-harness-for-personalized-efficient-and-2606.23449",
+      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "url": "https://arxiv.org/abs/2606.23449",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:30:00+00:00",
+      "subject": "cs.AI",
+      "date": "2026-06-22",
+      "theme": "agent-infrastructure / OS-harness"
+    },
+    {
+      "arxiv_id": "2606.24530",
+      "slug": "naturebench-can-coding-agents-match-the-published-sota-of-nature-family-papers-2606.24530",
+      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+      "url": "https://arxiv.org/abs/2606.24530",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:30:00+00:00",
+      "subject": "cs.CL",
+      "date": "2026-06-23",
+      "theme": "agent-evaluation / scientific-replication"
+    },
+    {
+      "arxiv_id": "2606.24083",
+      "slug": "cavewoman-how-large-language-models-behave-under-linguistic-input-and-output-2606.24083",
+      "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+      "url": "https://arxiv.org/abs/2606.24083",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:30:00+00:00",
+      "subject": "cs.CL",
+      "date": "2026-06-23",
+      "theme": "inference-efficiency / prompt-vs-output-cost"
     }
   ],
   "emergent_concept_search_log": [
@@ -1741,6 +1831,17 @@
       ],
       "thematic_framing": "LLM agent autonomy under-evaluated safety axes (privilege + context) + chain-of-thought-distillation verifiable-rewards boundary",
       "dedup_rate": "39/115 pre-existing on filesystem (post-pitfall-56 wiki, 51 entities, 39 arxiv IDs); 76 fresh candidates after subject non-CV filter (43 strict + 33 excluded by subject); 3 picked: 2606.23189 (cs.AI, 2026-06-22), 2606.21884 (cs.LG, 2026-06-20), 2606.20023 (cs.SE, 2026-06-18)"
+    },
+    {
+      "ts": "2026-06-25T19:30:00+00:00",
+      "mode": "emergent-concept",
+      "method": "hf-3-day-window",
+      "picks_count": 3,
+      "pick_ids": [
+        "2606.23449",
+        "2606.24530",
+        "2606.24083"
+      ]
     }
   ],
   "runs": [
@@ -1886,7 +1987,21 @@
         "capable-but-careless-do-computer-use-agents-follow-contextual-integrity-2606.23189"
       ],
       "recipe": "C (all new entries older than existing top; N_EXISTING_TOP=len(new)+5)"
+    },
+    {
+      "ts": "2026-06-25T19:30:00+00:00",
+      "type": "explore-pass",
+      "theme": "agent-infrastructure + agent-evaluation + inference-efficiency",
+      "papers_added": 3,
+      "pick_ids": [
+        "2606.23449",
+        "2606.24530",
+        "2606.24083"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T18:58:00+00:00"
+  "last_updated": "2026-06-25T18:58:00+00:00",
+  "last_run_iso": "2026-06-25T19:30:00+00:00",
+  "total_entity_count": 45,
+  "entity_files_added": 3
 }

@@ -721,7 +721,10 @@
         "a9aecec306f36a9e6ec918a920a527a9",
         "56de6fe55f4eb2b830dea0ff25cdb6fb",
         "065f921f7c5dc1870fa8c4d3b99f0a9d",
-        "406a58666dcf67beca5aae7af5d4b128"
+        "406a58666dcf67beca5aae7af5d4b128",
+        "756dcea45a5d9806a6252c196c48a9a7",
+        "e815e7e4adda74c9828830cede459431",
+        "51c76f0f47ffb6d2c4c915c0ec091f0d"
       ],
       "last_results": [
         {
@@ -1068,9 +1071,30 @@
           "slug": "capable-but-careless-do-computer-use-agents-follow-contextual-integrity-2606.23189",
           "hash": "406a58666dcf67beca5aae7af5d4b128",
           "ts": "2026-06-25T18:58:00+00:00"
+        },
+        {
+          "ts": "2026-06-25T19:30:00+00:00",
+          "arxiv_id": "2606.23449",
+          "slug": "aohp-an-open-source-os-level-agent-harness-for-personalized-efficient-and-2606.23449",
+          "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+          "vector": "emergent-concept"
+        },
+        {
+          "ts": "2026-06-25T19:30:00+00:00",
+          "arxiv_id": "2606.24530",
+          "slug": "naturebench-can-coding-agents-match-the-published-sota-of-nature-family-papers-2606.24530",
+          "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+          "vector": "emergent-concept"
+        },
+        {
+          "ts": "2026-06-25T19:30:00+00:00",
+          "arxiv_id": "2606.24083",
+          "slug": "cavewoman-how-large-language-models-behave-under-linguistic-input-and-output-2606.24083",
+          "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+          "vector": "emergent-concept"
         }
       ],
-      "last_run": "2026-06-25T18:58:00+00:00",
+      "last_run": "2026-06-25T19:30:00+00:00",
       "last_updated": "2026-06-25T18:58:43.062081+00:00",
       "last_result_timestamp": "2026-06-25T18:58:43.062081+00:00",
       "last_run_key": "emergent_concept_search_3_papers_2026-06-25",
@@ -1120,7 +1144,10 @@
     "a9aecec306f36a9e6ec918a920a527a9",
     "56de6fe55f4eb2b830dea0ff25cdb6fb",
     "065f921f7c5dc1870fa8c4d3b99f0a9d",
-    "406a58666dcf67beca5aae7af5d4b128"
+    "406a58666dcf67beca5aae7af5d4b128",
+    "756dcea45a5d9806a6252c196c48a9a7",
+    "e815e7e4adda74c9828830cede459431",
+    "51c76f0f47ffb6d2c4c915c0ec091f0d"
   ],
   "last_discovery": "2026-06-25T18:58:43.062081+00:00",
   "last_updated": "2026-06-25T18:58:43.062081+00:00",
@@ -1169,10 +1196,13 @@
       "a9aecec306f36a9e6ec918a920a527a9",
       "56de6fe55f4eb2b830dea0ff25cdb6fb",
       "065f921f7c5dc1870fa8c4d3b99f0a9d",
-      "406a58666dcf67beca5aae7af5d4b128"
+      "406a58666dcf67beca5aae7af5d4b128",
+      "756dcea45a5d9806a6252c196c48a9a7",
+      "e815e7e4adda74c9828830cede459431",
+      "51c76f0f47ffb6d2c4c915c0ec091f0d"
     ],
     "last_discovery": "2026-06-25T18:58:43.062081+00:00",
-    "last_run": "2026-06-25T18:58:00+00:00"
+    "last_run": "2026-06-25T19:30:00+00:00"
   },
   "last_pass_type": "emergent_concept"
 }
