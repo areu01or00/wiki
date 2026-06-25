@@ -19,6 +19,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 ## Updates
 - **2026-06-25** | [Liquid AI LFM2.5-230M: Built to Run Anywhere (open-weights edge LLM)](https://www.liquid.ai/blog/lfm2-5-230m) | kw: LFM2.5-230M | source: liquid-ai
 - **2026-06-25** | [LiquidAI/LFM2.5-230M - Hugging Face](https://huggingface.co/LiquidAI/LFM2.5-230M) | kw: LFM2.5-230M | source: liquid-ai
+- **2026-06-24** | [Introducing computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) | kw: Gemini 3.5 Flash computer use | source: google-deepmind-releases
+- **2026-06-24** | [Gemini 3.5 Flash computer use: Enterprise agent risk analysis](https://www.beri.net/article/gemini-3-5-flash-computer-use-enterprise-agent-risk-2026) | kw: Gemini 3.5 Flash computer use | source: google-deepmind-releases
 - **2026-06-24** | [Qwen-AgentWorld-35B-A3B: Language World Models for General Agents](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) | kw: Qwen-AgentWorld | source: qwen-releases
 - **2026-06-24** | [Riazi-8B: An Urdu Large Language Model for Mathematical Reasoning](https://arxiv.org/abs/2606.25568v1) | kw: Riazi-8B: An Urdu Large Language Model for Mathematical Reas | source: arxiv-cs-cl
 - **2026-06-23** | [An LLM-based Two-Stage Transformer Framework for Cross-Domain Bearing Fault Diagnosis with Limited Data](https://arxiv.org/abs/2606.24459v1) | kw: An LLM-based Two-Stage Transformer Framework for Cross-Domai | source: arxiv-cs-cl
