@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why
+- **2026-06-25** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with... - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: 2025
+- **2026-06-25** | [What is LLVM? The power behind Swift, Rust, Clang, and... | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What
+- **2026-06-25** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize
+
 - **2026-06-25** | [The 2026 EuroLLVM Developers' Meeting - hotcrp.llvm.org](https://hotcrp.llvm.org/eurollvm2026/) | kw: eurollvm, developers, meeting
 - **2026-06-25** | [2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/) | kw: european, llvm, developers
 - **2026-06-25** | [Releases · llvm/llvm-project - GitHub](https://github.com/llvm/llvm-project/releases) | kw: releases, llvm, project
