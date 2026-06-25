@@ -2,24 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T16:02:38.140074+00:00",
-  "__last_updated": "2026-06-25T16:02:38.140074+00:00",
-  "last_run": "2026-06-25T16:02:38.140074+00:00",
-  "last_explore": "2026-06-25T16:02:38.140074+00:00",
-  "last_global_explore": "2026-06-25T16:02:38.140074+00:00",
-  "last_discovery": "2026-06-25T16:02:38.140074+00:00",
-  "last_run_framing": "restore-from-backup-2026-06-25",
-  "last_framing": "restore-from-backup-2026-06-25",
-  "last_run_notes": "Restored from jobs.json.backup_20260502_134726 + run-2026-05-24 chain table after wiki-explore-agent-ops pitfall-56 diagnosis.",
-  "last_pass_type": "emergent-concept",
-  "last_run_method": "emergent-concept",
-  "run_method": "emergent-concept",
-  "last_run_added": 0,
-  "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "restored",
-  "emergent_theme": "restored",
-  "chains_updated": [],
-  "entities_count": 0,
+  "updated": "2026-06-25T16:13:26.227468+00:00",
+  "__last_updated": "2026-06-25T16:13:26.227468+00:00",
+  "last_run": "2026-06-25T16:13:26.227468+00:00",
+  "last_explore": "2026-06-25T16:13:26.227468+00:00",
+  "last_global_explore": "2026-06-25T16:13:26.227468+00:00",
+  "last_discovery": "2026-06-25T16:13:26.227468+00:00",
+  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_tool-use-kv-cache-jailbreak-detection_2026-06-25",
+  "last_framing": "tool-use structured-output alignment + KV-cache compression + jailbreak-detection entropy-dynamics (3 fresh themes from just-restored wiki)",
+  "last_run_notes": "Post-restore emergent-concept search: 247 unique arxiv IDs from 5-day HF window + 2026-06 monthly archive; 0 pre-existing (wiki at 12 entity files); 59 strict-non-CV candidates; 3 picks (25605 Constraint Tax / 24033 RoPE-Aware Bit Allocation / 25182 Intermediate Layers Entropy Dynamics) covering tool-use / KV-cache / safety themes. Prepended to emergent-concepts.md ## Updates in arxiv-id-desc order; smoke checks passed.",
+  "last_pass_type": "emergent_concept_search",
+  "last_run_method": "HuggingFace daily papers (5 days: 2026-06-21..25) + monthly archive (2026-06) + arxiv_meta via curl+citation_* + strict subject non-CV filter",
+  "run_method": "hf_daily_papers + arxiv_meta + strict_non_cv_filter",
+  "last_run_added": 3,
+  "exploration_type": "emergent-concept-search",
+  "emergent_concept_theme": "tool-use structured-output alignment (Constraint Tax) / inference efficiency KV-cache compression (RoPE-Aware Bit Allocation) / safety jailbreak-detection mechanistic interpretability (Intermediate Layers Entropy Dynamics) \u2014 3 fresh themes from just-restored wiki",
+  "emergent_theme": "tool-use structured-output alignment (Constraint Tax 2606.25605) + inference efficiency KV-cache compression (RoPE-Aware Bit Allocation 2606.24033) + safety jailbreak-detection mechanistic interpretability (Intermediate Layers Entropy Dynamics 2606.25182)",
+  "chains_updated": [
+    "emergent-concepts"
+  ],
+  "entities_count": 18,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -158,17 +160,152 @@
         "related_topics",
         "cites"
       ],
-      "papers_found": [],
-      "last_run": "2026-06-25T16:02:38.140096+00:00",
-      "last_explore": "2026-06-25T16:02:38.140096+00:00",
+      "papers_found": [
+        {
+          "arxiv_id": "2606.25605",
+          "slug": "constraint-tax-in-open-weight-llms-an-empirical-study-of-tool-calling-suppression-under-structured-output-constraints-2606.25605",
+          "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
+          "url": "https://arxiv.org/abs/2606.25605",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:13:26.227468+00:00",
+          "theme": "tool-use / structured-output alignment"
+        },
+        {
+          "arxiv_id": "2606.24033",
+          "slug": "rope-aware-bit-allocation-for-kv-cache-quantization-2606.24033",
+          "title": "RoPE-Aware Bit Allocation for KV-Cache Quantization",
+          "url": "https://arxiv.org/abs/2606.24033",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:13:26.227468+00:00",
+          "theme": "inference efficiency / KV-cache compression"
+        },
+        {
+          "arxiv_id": "2606.25182",
+          "slug": "what-intermediate-layers-know-detecting-jailbreaks-from-entropy-dynamics-2606.25182",
+          "title": "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics",
+          "url": "https://arxiv.org/abs/2606.25182",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T16:13:26.227468+00:00",
+          "theme": "safety / jailbreak detection / mechanistic interpretability"
+        }
+      ],
+      "last_run": "2026-06-25T16:13:26.227468+00:00",
+      "last_explore": "2026-06-25T16:13:26.227468+00:00",
       "last_run_added": 0,
       "papers_found_count": 79,
-      "run_method": "emergent-concept"
+      "run_method": "emergent-concept",
+      "last_explored": "2026-06-25T16:13:26.227468+00:00",
+      "last_run_notes": "Emergent-concept search run on 2026-06-25 (post-restore, wiki at 12 entity files): picked 3 fresh-theme 2026 papers from HuggingFace daily+monthly windows (5 days + 1 month) covering tool-use structured-output alignment, KV-cache compression, and jailbreak-detection themes. Strict subject-based non-CV filter applied per pitfall 52; 59 fresh non-CV candidates surfaced from 247 total unique IDs, 0 pre-existing (just-restored state). All 3 picks verified across 5 dedup stores."
     }
   },
-  "emergent_concept_papers": [],
-  "emergent_discoveries": [],
-  "emergent_concept_search_log": [],
-  "emergent_concept_search_runs": [],
-  "runs": []
+  "emergent_concept_papers": [
+    {
+      "arxiv_id": "2606.25605",
+      "slug": "constraint-tax-in-open-weight-llms-an-empirical-study-of-tool-calling-suppression-under-structured-output-constraints-2606.25605",
+      "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
+      "url": "https://arxiv.org/abs/2606.25605",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T16:13:26.227468+00:00",
+      "theme": "tool-use / structured-output alignment"
+    },
+    {
+      "arxiv_id": "2606.24033",
+      "slug": "rope-aware-bit-allocation-for-kv-cache-quantization-2606.24033",
+      "title": "RoPE-Aware Bit Allocation for KV-Cache Quantization",
+      "url": "https://arxiv.org/abs/2606.24033",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T16:13:26.227468+00:00",
+      "theme": "inference efficiency / KV-cache compression"
+    },
+    {
+      "arxiv_id": "2606.25182",
+      "slug": "what-intermediate-layers-know-detecting-jailbreaks-from-entropy-dynamics-2606.25182",
+      "title": "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics",
+      "url": "https://arxiv.org/abs/2606.25182",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T16:13:26.227468+00:00",
+      "theme": "safety / jailbreak detection / mechanistic interpretability"
+    }
+  ],
+  "emergent_discoveries": [
+    {
+      "arxiv_id": "2606.25605",
+      "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
+      "slug": "constraint-tax-in-open-weight-llms-an-empirical-study-of-tool-calling-suppression-under-structured-output-constraints-2606.25605",
+      "url": "https://arxiv.org/abs/2606.25605",
+      "discovered": "2026-06-25T16:13:26.227468+00:00",
+      "theme": "tool-use / structured-output alignment"
+    },
+    {
+      "arxiv_id": "2606.24033",
+      "title": "RoPE-Aware Bit Allocation for KV-Cache Quantization",
+      "slug": "rope-aware-bit-allocation-for-kv-cache-quantization-2606.24033",
+      "url": "https://arxiv.org/abs/2606.24033",
+      "discovered": "2026-06-25T16:13:26.227468+00:00",
+      "theme": "inference efficiency / KV-cache compression"
+    },
+    {
+      "arxiv_id": "2606.25182",
+      "title": "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics",
+      "slug": "what-intermediate-layers-know-detecting-jailbreaks-from-entropy-dynamics-2606.25182",
+      "url": "https://arxiv.org/abs/2606.25182",
+      "discovered": "2026-06-25T16:13:26.227468+00:00",
+      "theme": "safety / jailbreak detection / mechanistic interpretability"
+    }
+  ],
+  "emergent_concept_search_log": [
+    {
+      "ts": "2026-06-25T16:13:26.227468+00:00",
+      "papers_found": [
+        "constraint-tax-in-open-weight-llms-an-empirical-study-of-tool-calling-suppression-under-structured-output-constraints-2606.25605",
+        "rope-aware-bit-allocation-for-kv-cache-quantization-2606.24033",
+        "what-intermediate-layers-know-detecting-jailbreaks-from-entropy-dynamics-2606.25182"
+      ],
+      "arxiv_ids": [
+        "2606.25605",
+        "2606.24033",
+        "2606.25182"
+      ],
+      "themes": [
+        "tool-use / structured-output alignment",
+        "inference efficiency / KV-cache compression",
+        "safety / jailbreak detection / mechanistic interpretability"
+      ]
+    }
+  ],
+  "emergent_concept_search_runs": [
+    {
+      "ts": "2026-06-25T16:13:26.227468+00:00",
+      "method": "HuggingFace daily papers (5 days: 2026-06-21..25) + monthly archive (2026-06) + arxiv_meta via curl+citation_* + strict subject non-CV filter",
+      "papers": [
+        "2606.25605",
+        "2606.24033",
+        "2606.25182"
+      ],
+      "slugs": [
+        "constraint-tax-in-open-weight-llms-an-empirical-study-of-tool-calling-suppression-under-structured-output-constraints-2606.25605",
+        "rope-aware-bit-allocation-for-kv-cache-quantization-2606.24033",
+        "what-intermediate-layers-know-detecting-jailbreaks-from-entropy-dynamics-2606.25182"
+      ],
+      "themes": [
+        "tool-use / structured-output alignment",
+        "inference efficiency / KV-cache compression",
+        "safety / jailbreak detection / mechanistic interpretability"
+      ],
+      "thematic_framing": "tool-use structured-output alignment + KV-cache compression + jailbreak-detection entropy-dynamics",
+      "dedup_rate": "0/247 pre-existing on filesystem (just-restored state); 3 picks all globally new across 5 dedup stores"
+    }
+  ],
+  "runs": [
+    {
+      "timestamp": "2026-06-25T16:13:26.227468+00:00",
+      "mode": "emergent_concept",
+      "theme": "tool-use / structured-output alignment / inference efficiency / KV-cache compression / safety / jailbreak detection / mechanistic interpretability",
+      "papers_added": [
+        "constraint-tax-in-open-weight-llms-an-empirical-study-of-tool-calling-suppression-under-structured-output-constraints-2606.25605",
+        "rope-aware-bit-allocation-for-kv-cache-quantization-2606.24033",
+        "what-intermediate-layers-know-detecting-jailbreaks-from-entropy-dynamics-2606.25182"
+      ]
+    }
+  ]
 }
