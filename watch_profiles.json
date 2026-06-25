@@ -748,7 +748,10 @@
         "194daa43e02b593757c5b26d3f65e8f0",
         "49fbfbf1927b6f9b71641efb206bbc9f",
         "4e0d69cebf8fc964d691f7298c96ab0d",
-        "b3bd88fa30b5fce5bd6ef057d050f944"
+        "b3bd88fa30b5fce5bd6ef057d050f944",
+        "c511079921a2763d9baedcb25f5f38cf",
+        "b5263239d86c564e603c19a426ce6cbd",
+        "0c10763c8dbc1ade0b0c9c617e2bb2f9"
       ],
       "last_results": [
         {
@@ -1302,6 +1305,33 @@
           "arxiv_id": "2606.15932",
           "discovered": "2026-06-25T21:32:12.732047+00:00",
           "source": "hf_daily_emergent_concept_search"
+        },
+        {
+          "arxiv_id": "2606.21171",
+          "slug": "an-exploratory-case-study-of-llm-assisted-refactoring-and-gameplay-feature-generation-in-an-endless-runner-game-2606.21171",
+          "title": "An Exploratory Case Study of LLM-Assisted Refactoring and Gameplay Feature Generation in an Endless Runner Game",
+          "hash": "c511079921a2763d9baedcb25f5f38cf",
+          "discovered": "2026-06-25T21:47:00+00:00",
+          "theme": "LLM-coding / software-engineering / case-study",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.20781",
+          "slug": "world-action-models-a-survey-2606.20781",
+          "title": "World Action Models: A Survey",
+          "hash": "b5263239d86c564e603c19a426ce6cbd",
+          "discovered": "2026-06-25T21:47:00+00:00",
+          "theme": "survey / embodied world-models / action-models",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.14971",
+          "slug": "fastmix-fast-data-mixture-optimization-via-gradient-descent-2606.14971",
+          "title": "FastMix: Fast Data Mixture Optimization via Gradient Descent",
+          "hash": "0c10763c8dbc1ade0b0c9c617e2bb2f9",
+          "discovered": "2026-06-25T21:47:00+00:00",
+          "theme": "LLM training-data / data-mixture / bilevel-optimization",
+          "chain": "emergent-concepts"
         }
       ],
       "last_run": "2026-06-25T21:32:12.732047+00:00",
@@ -1381,7 +1411,10 @@
     "194daa43e02b593757c5b26d3f65e8f0",
     "49fbfbf1927b6f9b71641efb206bbc9f",
     "4e0d69cebf8fc964d691f7298c96ab0d",
-    "b3bd88fa30b5fce5bd6ef057d050f944"
+    "b3bd88fa30b5fce5bd6ef057d050f944",
+    "c511079921a2763d9baedcb25f5f38cf",
+    "b5263239d86c564e603c19a426ce6cbd",
+    "0c10763c8dbc1ade0b0c9c617e2bb2f9"
   ],
   "last_discovery": "2026-06-25T21:32:12.732047+00:00",
   "last_updated": "2026-06-25T21:32:12.732047+00:00",
@@ -1457,7 +1490,10 @@
       "194daa43e02b593757c5b26d3f65e8f0",
       "49fbfbf1927b6f9b71641efb206bbc9f",
       "4e0d69cebf8fc964d691f7298c96ab0d",
-      "b3bd88fa30b5fce5bd6ef057d050f944"
+      "b3bd88fa30b5fce5bd6ef057d050f944",
+      "c511079921a2763d9baedcb25f5f38cf",
+      "b5263239d86c564e603c19a426ce6cbd",
+      "0c10763c8dbc1ade0b0c9c617e2bb2f9"
     ],
     "last_discovery": "2026-06-25T21:09:00+00:00",
     "last_run": "2026-06-25T21:09:00+00:00"

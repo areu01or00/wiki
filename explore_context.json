@@ -4,14 +4,14 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-25T21:09:00+00:00",
   "__last_updated": "2026-06-25T20:45:00+00:00",
-  "last_run": "2026-06-25T21:31:02.948769+00:00",
-  "last_explore": "2026-06-25T21:31:02.948769+00:00",
-  "last_global_explore": "2026-06-25T21:31:02.948769+00:00",
-  "last_discovery": "2026-06-25T21:31:02.948769+00:00",
-  "last_run_framing": "emergent_concept_search",
-  "last_framing": "emergent_concept_search",
-  "last_run_notes": "Emergent-concept search run 23: 3 picks spanning deep-research physical-sciences (PhySciBench/DelveAgent), robotics multi-axis-diagnostic (EBench), and survey multimodal-code-intelligence (Beyond NL2Code).",
-  "last_pass_type": "emergent_concept_search",
+  "last_run": "2026-06-25T21:47:00+00:00",
+  "last_explore": "2026-06-25T21:47:00+00:00",
+  "last_global_explore": "2026-06-25T21:47:00+00:00",
+  "last_discovery": "2026-06-25T21:47:00+00:00",
+  "last_run_framing": "theme-diversity: training-systems + embodied-world-models survey + LLM-coding production",
+  "last_framing": "theme-diversity: training-systems + embodied-world-models survey + LLM-coding production",
+  "last_run_notes": "3 new entity pages from emergent-concept search on HF 3-day window: FastMix (data-mixture bilevel optimization), World Action Models Survey (embodied predictive-action), LLM Refactoring & Gameplay Case Study (GPT-4o in production codebase). Theme-diversity: training-systems + embodied-world-models survey + LLM-coding production.",
+  "last_pass_type": "emergent_concept",
   "last_run_method": "hf_daily_emergent_concept_search",
   "run_method": "hf_daily_emergent_concept_search",
   "last_run_added": [
@@ -20,10 +20,12 @@
     "2606.15932"
   ],
   "exploration_type": "emergent_concept_search",
-  "emergent_concept_theme": "deep-research physical-sciences + robotics multi-axis-diagnostic + survey multimodal-code-intelligence",
-  "emergent_theme": "deep-research physical-sciences + robotics multi-axis-diagnostic + survey multimodal-code-intelligence",
-  "chains_updated": "2026-06-25T21:31:02.948769+00:00",
-  "entities_count": 81,
+  "emergent_concept_theme": "LLM training-data data-mixture bilevel-optimization / embodied world-models action-models survey / LLM-coding production case-study",
+  "emergent_theme": "LLM training-data data-mixture bilevel-optimization / embodied world-models action-models survey / LLM-coding production case-study",
+  "chains_updated": [
+    "emergent-concepts"
+  ],
+  "entities_count": 84,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -723,15 +725,42 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-25T21:31:02.948769+00:00",
           "theme": "LLM survey / multimodal-code / taxonomy"
+        },
+        {
+          "arxiv_id": "2606.21171",
+          "slug": "an-exploratory-case-study-of-llm-assisted-refactoring-and-gameplay-feature-generation-in-an-endless-runner-game-2606.21171",
+          "title": "An Exploratory Case Study of LLM-Assisted Refactoring and Gameplay Feature Generation in an Endless Runner Game",
+          "url": "https://arxiv.org/abs/2606.21171",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T21:47:00+00:00",
+          "theme": "LLM-coding / software-engineering / case-study"
+        },
+        {
+          "arxiv_id": "2606.20781",
+          "slug": "world-action-models-a-survey-2606.20781",
+          "title": "World Action Models: A Survey",
+          "url": "https://arxiv.org/abs/2606.20781",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T21:47:00+00:00",
+          "theme": "survey / embodied world-models / action-models"
+        },
+        {
+          "arxiv_id": "2606.14971",
+          "slug": "fastmix-fast-data-mixture-optimization-via-gradient-descent-2606.14971",
+          "title": "FastMix: Fast Data Mixture Optimization via Gradient Descent",
+          "url": "https://arxiv.org/abs/2606.14971",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T21:47:00+00:00",
+          "theme": "LLM training-data / data-mixture / bilevel-optimization"
         }
       ],
-      "last_run": "2026-06-25T21:31:02.948769+00:00",
-      "last_explore": "2026-06-25T21:31:02.948769+00:00",
+      "last_run": "2026-06-25T21:47:00+00:00",
+      "last_explore": "2026-06-25T21:47:00+00:00",
       "last_run_added": 3,
-      "papers_found_count": 60,
+      "papers_found_count": 63,
       "run_method": "emergent-concept",
       "last_explored": "2026-06-25T20:14:53.048457+00:00",
-      "last_run_notes": "Explore: 3 new entity pages from emergent-concept search on HuggingFace 3-day window (2026-06-23..2026-06-25). Picks: DataClaw0 (agentic multimodal data tailoring, 2606.21337, cs.LG), Grouped Query Experts (MoE on GQA self-attention, 2606.20945, cs.LG), Learning from Your Own Mistakes (TAPO self-distillation with micro-reflective trajectories, 2606.18844, cs.LG). After 6-store cross-dedup, 26 of 76 HF non-CV candidates were fresh (66% pre-existing rate consistent with healthy wiki state)."
+      "last_run_notes": "Explore: 3 new entity pages from emergent-concept search on HuggingFace 3-day window (2026-06-23..2026-06-25). Picks: FastMix (bilevel data-mixture optimization, 2606.14971, cs.LG), World Action Models Survey (embodied predictive-action models, 2606.20781, cs.RO), LLM-Assisted Refactoring & Gameplay (empirical GPT-4o case study, 2606.21171, cs.SE). After 5-store cross-dedup, theme-diversity discipline maintained: training-systems + embodied world-models survey + LLM-coding production case-study (breaks agent-heavy streak)."
     }
   },
   "emergent_concept_papers": [
@@ -1381,6 +1410,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-25T21:31:02.948769+00:00",
       "theme": "LLM survey / multimodal-code / taxonomy"
+    },
+    {
+      "arxiv_id": "2606.21171",
+      "slug": "an-exploratory-case-study-of-llm-assisted-refactoring-and-gameplay-feature-generation-in-an-endless-runner-game-2606.21171",
+      "title": "An Exploratory Case Study of LLM-Assisted Refactoring and Gameplay Feature Generation in an Endless Runner Game",
+      "url": "https://arxiv.org/abs/2606.21171",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:47:00+00:00",
+      "theme": "LLM-coding / software-engineering / case-study"
+    },
+    {
+      "arxiv_id": "2606.20781",
+      "slug": "world-action-models-a-survey-2606.20781",
+      "title": "World Action Models: A Survey",
+      "url": "https://arxiv.org/abs/2606.20781",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:47:00+00:00",
+      "theme": "survey / embodied world-models / action-models"
+    },
+    {
+      "arxiv_id": "2606.14971",
+      "slug": "fastmix-fast-data-mixture-optimization-via-gradient-descent-2606.14971",
+      "title": "FastMix: Fast Data Mixture Optimization via Gradient Descent",
+      "url": "https://arxiv.org/abs/2606.14971",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:47:00+00:00",
+      "theme": "LLM training-data / data-mixture / bilevel-optimization"
     }
   ],
   "emergent_discoveries": [
@@ -1938,6 +1994,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-25T21:31:02.948769+00:00",
       "theme": "LLM survey / multimodal-code / taxonomy"
+    },
+    {
+      "arxiv_id": "2606.21171",
+      "slug": "an-exploratory-case-study-of-llm-assisted-refactoring-and-gameplay-feature-generation-in-an-endless-runner-game-2606.21171",
+      "title": "An Exploratory Case Study of LLM-Assisted Refactoring and Gameplay Feature Generation in an Endless Runner Game",
+      "url": "https://arxiv.org/abs/2606.21171",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:47:00+00:00",
+      "theme": "LLM-coding / software-engineering / case-study"
+    },
+    {
+      "arxiv_id": "2606.20781",
+      "slug": "world-action-models-a-survey-2606.20781",
+      "title": "World Action Models: A Survey",
+      "url": "https://arxiv.org/abs/2606.20781",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:47:00+00:00",
+      "theme": "survey / embodied world-models / action-models"
+    },
+    {
+      "arxiv_id": "2606.14971",
+      "slug": "fastmix-fast-data-mixture-optimization-via-gradient-descent-2606.14971",
+      "title": "FastMix: Fast Data Mixture Optimization via Gradient Descent",
+      "url": "https://arxiv.org/abs/2606.14971",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:47:00+00:00",
+      "theme": "LLM training-data / data-mixture / bilevel-optimization"
     }
   ],
   "emergent_concept_search_log": [
@@ -2340,6 +2423,38 @@
         "robotics / VLA / multi-axis-diagnostic benchmark",
         "LLM survey / multimodal-code / taxonomy"
       ]
+    },
+    {
+      "ts": "2026-06-25T21:47:00+00:00",
+      "mode": "emergent-concept-search",
+      "method": "HF daily papers 3-day window (2026-06-23..25) + LLM-keyword title filter + 5-store dedup",
+      "candidates_surveyed": 115,
+      "candidates_after_5store_dedup": 52,
+      "candidates_after_subject_filter": 25,
+      "papers_added": 3,
+      "picks": [
+        {
+          "arxiv_id": "2606.21171",
+          "title": "An Exploratory Case Study of LLM-Assisted Refactoring and Gameplay Feature Generation in an Endless Runner Game",
+          "subject": "cs.SE",
+          "date": "2026-06-19",
+          "theme": "LLM-coding / software-engineering / case-study"
+        },
+        {
+          "arxiv_id": "2606.20781",
+          "title": "World Action Models: A Survey",
+          "subject": "cs.RO/cs.AI/cs.CV",
+          "date": "2026-06-18",
+          "theme": "survey / embodied world-models / action-models"
+        },
+        {
+          "arxiv_id": "2606.14971",
+          "title": "FastMix: Fast Data Mixture Optimization via Gradient Descent",
+          "subject": "cs.LG/cs.CL",
+          "date": "2026-06-12",
+          "theme": "LLM training-data / data-mixture / bilevel-optimization"
+        }
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -2712,6 +2827,18 @@
       ],
       "thematic_framing": "deep-research physical-sciences (PhySciBench/DelveAgent) + robotics multi-axis-diagnostic (EBench) + survey multimodal-code-intelligence (Beyond NL2Code)",
       "dedup_rate": "54 fresh from 114 HF candidates across 3 days; 3 picked: 2606.18648 (cs.AI, 2026-06-17), 2606.18239 (cs.RO, 2026-06-16), 2606.15932 (cs.CL, 2026-06-14)"
+    },
+    {
+      "run": 24,
+      "run_iso": "2026-06-25T21:47:00+00:00",
+      "method": "hf_daily_emergent_concept_search",
+      "window": "2026-06-23..2026-06-25",
+      "picks": [
+        "2606.21171",
+        "2606.20781",
+        "2606.14971"
+      ],
+      "entity_count_after": 84
     }
   ],
   "runs": [
@@ -2945,15 +3072,25 @@
         "ebench-elemental-diagnosis-of-generalist-mobile-manipulation-policies-2606.18239",
         "beyond-nl2code-a-structured-survey-of-multimodal-code-intelligence-2606.15932"
       ]
+    },
+    {
+      "timestamp": "2026-06-25T21:47:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "LLM training-data data-mixture bilevel-optimization / embodied world-models action-models survey / LLM-coding production case-study",
+      "papers_added": [
+        "an-exploratory-case-study-of-llm-assisted-refactoring-and-gameplay-feature-generation-in-an-endless-runner-game-2606.21171",
+        "world-action-models-a-survey-2606.20781",
+        "fastmix-fast-data-mixture-optimization-via-gradient-descent-2606.14971"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T21:09:00+00:00",
-  "last_run_iso": "2026-06-25T21:09:00+00:00",
-  "total_entity_count": 78,
+  "last_updated": "2026-06-25T21:47:00+00:00",
+  "last_run_iso": "2026-06-25T21:47:00+00:00",
+  "total_entity_count": 84,
   "entity_files_added": [
-    "critique-of-agent-model-2606.23991.md",
-    "tropt-an-open-framework-for-unifying-and-advancing-discrete-text-optimization-2606.23496.md",
-    "libretto-giving-llm-agents-a-sense-of-musical-structure-2606.22708.md"
+    "an-exploratory-case-study-of-llm-assisted-refactoring-and-gameplay-feature-generation-in-an-endless-runner-game-2606.21171.md",
+    "world-action-models-a-survey-2606.20781.md",
+    "fastmix-fast-data-mixture-optimization-via-gradient-descent-2606.14971.md"
   ],
-  "pass_type": "emergent_concept_search"
+  "pass_type": "emergent_concept"
 }
