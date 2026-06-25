@@ -3932,5 +3932,10 @@
 
 ## Updates
 
+- **2026-06-25** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals Python
+- **2026-06-25** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: What Python
+- **2026-06-25** | [8 Best YouTube Channels for Python in 2026 (Ranked)](https://learnwithpath.com/blog/best-youtube-channels-for-python-2026) | kw: Best YouTube
+- **2026-06-25** | [Fix windows 10/11 blue screen stop code memory management error](https://www.youtube.com/watch?v=nko2Ay6nW38) | kw: Fix windows
+
 - **2026-06-25** | [Python 3.14 Free Threading: Is Support Planned?](https://kuloverse.site/blog/python-3-14-free-threading) | kw: Expert
 - **2026-06-25** | [5. Using Python on macOS — Python 3.14.6 documentation](https://docs.python.org/3/using/mac.html) | kw: Expert

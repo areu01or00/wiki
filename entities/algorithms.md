@@ -1,3 +1,8 @@
+- **2026-06-25** | [algorithms-datastructures · GitHub Topics · GitHub](https://github.com/topics/algorithms-datastructures) | kw: algorithms-datastructures GitHub
+- **2026-06-25** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: Leetcode data
+- **2026-06-25** | [FAANG Interview Prep: The Complete Process (2026 Guide)](https://generalistprogrammer.com/tutorials/faang-interview-prep-complete-guide) | kw: FAANG Interview
+- **2026-06-25** | [Algorithms and Data Structures Tutorial - Full Course for... - YouTube](https://www.youtube.com/watch?v=8hly31xKli0) | kw: Algorithms Data
+
 - **2026-06-25** | [Software - Wikipedia](https://en.m.wikipedia.org/wiki/Software) | kw: Software
 - **2026-06-25** | [Coding interviews: Everything you need to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/) | kw: Coding
 - **2026-06-25** | [jwasham/coding-interview-university: A complete computer science study ...](https://github.com/jwasham/coding-interview-university) | kw: jwasham/coding-interview-university

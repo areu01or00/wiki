@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [809 software engineer jobs in Vancouver, BC, June 2026](https://www.glassdoor.ca/Job/vancouver-software-engineer-jobs-SRCH_IL.0,9_IC2278756_KO10,27.htm) | kw: 809 software
+- **2026-06-25** | [643 software engineer jobs in Vancouver, BC, June 2026](https://www.glassdoor.ca/Job/software-engineer-jobs-SRCH_IC2278756_KO0,17.htm) | kw: 643 software
+- **2026-06-25** | [581 Software Engineer jobs in Vancouver - LinkedIn](https://ca.linkedin.com/jobs/software-engineer-jobs-vancouver-bc) | kw: 581 Software
+- **2026-06-25** | [software engineer jobs in Vancouver, BC - Indeed](https://ca.indeed.com/q-"software-engineer"-l-vancouver,-bc-jobs.html) | kw: software engineer
+- **2026-06-25** | [In-Demand software engineering Jobs in Vancouver](https://ca.indeed.com/explorer/software-engineering-jobs-vancouver,-bc) | kw: In-Demand software
+
 - **2026-06-25** | [How to build a JIT compiler in C++ with LLVM](https://isocpp.org/blog/2018/12/how-to-build-a-jit-compiler-in-cpp-with-llvm) | kw: build
 
 - **2026-06-25** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why

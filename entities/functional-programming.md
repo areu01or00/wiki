@@ -1,3 +1,9 @@
+- **2026-06-25** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello Haskell
+- **2026-06-25** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: lang r/functionalprogramming
+- **2026-06-25** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional Programmers
+- **2026-06-25** | [The Brutal Truth About Programming Languages in 2026](https://medium.com/@mohdinsafinzu/the-brutal-truth-about-programming-languages-in-2026-which-ones-will-break-you-and-which-ones-61a1ea1a245d) | kw: Brutal Truth
+- **2026-06-25** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026)](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: Pure Borrow
+
 - **2026-06-25** | [LeFUNK 2026 Leipzig Workshop on Functional Programming](https://discourse.haskell.org/t/lefunk-2026-leipzig-workshop-on-functional-programming/14296) | kw: lefunk, leipzig, workshop
 - **2026-06-25** | [PLDI 2026 - PLDI Keynotes](https://pldi26.sigplan.org/track/pldi-2026-pldi-keynotes) | kw: pldi, keynotes
 - **2026-06-25** | [PLDI conference series - PLDI 2027](https://conf.researchr.org/series/pldi) | kw: pldi, conference, series

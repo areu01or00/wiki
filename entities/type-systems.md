@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-25** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v120
+- **2026-06-25** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis
+- **2026-06-25** | [Elixir's Gradual Type System (1.17-1.20): How the Compiler Finally](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: Elixirs Gradual
+- **2026-06-25** | [Efficient Selection of Type Annotations for Performance Improvement in](https://programming-journal.org/2026/11/3/) | kw: Efficient Selection
+
 - **2026-06-25** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir
 - **2026-06-25** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating
 - **2026-06-25** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon
