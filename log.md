@@ -231,3 +231,15 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Pitfall-60 defensive isinstance guards for watch_profiles sub-profiles: both llm-wiki (dict) and profiles.llm-wiki-explore (dict) present, writes succeeded
 - Per-run counter suffix on all 5 /tmp/ artifacts: run1808 (per sibling-subagent /tmp/*.py interference fix)
 - log.md presence: yes; staged in same atomic commit
+
+## 2026-06-25 18:29 UTC (run1823)
+- Emergent-concept pass via 3-day HF window (2026-06-22..2026-06-25)
+- 115 raw HF papers → 52 after Step 2.5 strict subject filter → top-3 LLM-flavor picks
+- 3 new entity pages created:
+  - LingxiDiagBench (2602.09379, cs.AI, 2026-02-10): Chinese psychiatric-consultation multi-agent benchmark
+  - When Agents Commit Too Soon (2606.22936, cs.AI, 2026-06-22): premature-commitment diagnostic for long-horizon LLM agents
+  - HAKARI-Bench (2606.22778, cs.IR, 2026-06-22): lightweight retrieval-architecture benchmark
+- Parent [[emergent-concepts]] ## Updates: 3 entries prepended via MERGE-then-SORT (N_EXISTING_TOP=30, all existing entries >= min_new_date so new entries sort below)
+- State files: explore_context.json (33 in emergent_concept_papers, 33 in chains[emergent-concepts].papers_found), watch_profiles.json (33 top-level hashes + 33 in each sub-profile after orphan-fix pass)
+- Pitfalls hit: 62 (preamble-loss — first attempt lost preamble; recovered via git checkout + corrected recipe), 61 (boundary-header-doubling — first attempt doubled H2s; recovered via fixed tail-extraction logic)
+- Pitfalls cleanly avoided: 50 (cross-check pre-commit), 52 (strict subject filter), 28 (wikilink resolution check — caught broken rl-index link in HAKARI page, removed), 53 (list appends), 60 (defensive isinstance), 64 (chains_updated REPLACE not append), 65 (custom HF parser since bundled script missing — wrote /tmp/hf_discover_run1823.py)

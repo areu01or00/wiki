@@ -3,25 +3,25 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-25T17:58:13.532300+00:00",
-  "__last_updated": "2026-06-25T18:08:58+00:00",
-  "last_run": "2026-06-25T18:08:58+00:00",
-  "last_explore": "2026-06-25T18:08:58+00:00",
-  "last_global_explore": "2026-06-25T18:08:58+00:00",
-  "last_discovery": "2026-06-25T18:08:58+00:00",
+  "__last_updated": "2026-06-25T18:29:50.738474+00:00",
+  "last_run": "2026-06-25T18:29:50.738474+00:00",
+  "last_explore": "2026-06-25T18:29:50.738474+00:00",
+  "last_global_explore": "2026-06-25T18:29:50.738474+00:00",
+  "last_discovery": "2026-06-25T18:29:50.738474+00:00",
   "last_run_framing": "emergent_concept",
   "last_framing": "emergent_concept",
   "last_run_notes": "pretraining actor-critic ODM + data-constrained training-time-augmentation + calibrated-verifier-telemetry (3 fresh themes absent from prior runs)",
-  "last_pass_type": "emergent_concept_search",
-  "last_run_method": "HF 3-day window + strict subject filter + LLM-flavor title scoring + 5-store dedup + top-3 picks (cs.LG/cs.CL)",
-  "run_method": "hf_daily_papers_3day + arxiv_meta + strict_subject_filter",
+  "last_pass_type": "emergent-concept",
+  "last_run_method": "hf_daily_3d + strict_subject_filter + LLM_flavor_score",
+  "run_method": "hf_daily_3d + strict_subject_filter + LLM_flavor_score",
   "last_run_added": 3,
-  "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "pretraining data-mixing / data-constrained augmentation / agent verifier-telemetry",
-  "emergent_theme": "pretraining data-mixing / data-constrained augmentation / agent verifier-telemetry",
+  "exploration_type": "emergent-concept",
+  "emergent_concept_theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks",
+  "emergent_theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 42,
+  "entities_count": 33,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -457,10 +457,31 @@
           "theme": "pretraining-efficiency / online-data-mixing / actor-critic-RL",
           "subject": "Machine Learning (cs.LG)",
           "date": "2026-06-23"
+        },
+        {
+          "arxiv_id": "2602.09379",
+          "slug": "lingxidiagbench-a-multi-agent-framework-for-benchmarking-llms-in-chinese-psychiatric-consultation-and-diagnosis-2602.09379",
+          "title": "LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-25T18:29:50.738474+00:00"
+        },
+        {
+          "arxiv_id": "2606.22936",
+          "slug": "when-agents-commit-too-soon-diagnosing-premature-commitment-in-llm-agents-2606.22936",
+          "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-25T18:29:50.738474+00:00"
+        },
+        {
+          "arxiv_id": "2606.22778",
+          "slug": "hakari-bench-a-lightweight-benchmark-for-comparing-retrieval-architectures-and-efficiency-settings-under-unified-conditions-2606.22778",
+          "title": "HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-25T18:29:50.738474+00:00"
         }
       ],
-      "last_run": "2026-06-25T17:58:13.532300+00:00",
-      "last_explore": "2026-06-25T17:58:13.532300+00:00",
+      "last_run": "2026-06-25T18:29:50.738474+00:00",
+      "last_explore": "2026-06-25T18:29:50.738474+00:00",
       "last_run_added": 3,
       "papers_found_count": 27,
       "run_method": "emergent-concept",
@@ -735,6 +756,27 @@
       "theme": "pretraining-efficiency / online-data-mixing / actor-critic-RL",
       "subject": "Machine Learning (cs.LG)",
       "date": "2026-06-23"
+    },
+    {
+      "arxiv_id": "2602.09379",
+      "slug": "lingxidiagbench-a-multi-agent-framework-for-benchmarking-llms-in-chinese-psychiatric-consultation-and-diagnosis-2602.09379",
+      "title": "LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis",
+      "discovered_at": "2026-06-25T18:29:50.738474+00:00",
+      "source": "hf_daily_3d_run1823"
+    },
+    {
+      "arxiv_id": "2606.22936",
+      "slug": "when-agents-commit-too-soon-diagnosing-premature-commitment-in-llm-agents-2606.22936",
+      "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents",
+      "discovered_at": "2026-06-25T18:29:50.738474+00:00",
+      "source": "hf_daily_3d_run1823"
+    },
+    {
+      "arxiv_id": "2606.22778",
+      "slug": "hakari-bench-a-lightweight-benchmark-for-comparing-retrieval-architectures-and-efficiency-settings-under-unified-conditions-2606.22778",
+      "title": "HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions",
+      "discovered_at": "2026-06-25T18:29:50.738474+00:00",
+      "source": "hf_daily_3d_run1823"
     }
   ],
   "emergent_discoveries": [
@@ -980,6 +1022,30 @@
       "theme": "pretraining-efficiency / online-data-mixing / actor-critic-RL",
       "subject": "Machine Learning (cs.LG)",
       "date": "2026-06-23"
+    },
+    {
+      "arxiv_id": "2602.09379",
+      "slug": "lingxidiagbench-a-multi-agent-framework-for-benchmarking-llms-in-chinese-psychiatric-consultation-and-diagnosis-2602.09379",
+      "title": "LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis",
+      "date": "2026-06-25T18:29:50.738474+00:00",
+      "method": "hf_daily_3d",
+      "theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks"
+    },
+    {
+      "arxiv_id": "2606.22936",
+      "slug": "when-agents-commit-too-soon-diagnosing-premature-commitment-in-llm-agents-2606.22936",
+      "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents",
+      "date": "2026-06-25T18:29:50.738474+00:00",
+      "method": "hf_daily_3d",
+      "theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks"
+    },
+    {
+      "arxiv_id": "2606.22778",
+      "slug": "hakari-bench-a-lightweight-benchmark-for-comparing-retrieval-architectures-and-efficiency-settings-under-unified-conditions-2606.22778",
+      "title": "HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions",
+      "date": "2026-06-25T18:29:50.738474+00:00",
+      "method": "hf_daily_3d",
+      "theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks"
     }
   ],
   "emergent_concept_search_log": [
@@ -1170,6 +1236,22 @@
       ],
       "thematic_framing": "actor-critic ODM + data-constrained training-time augmentation + calibrated verifier telemetry for LLM agents (3 fresh themes absent from prior 10 runs)",
       "dedup_rate": "80/115 candidates passed strict subject filter (cs.CV/cs.GR/cs.MM excluded) + already-known dedup; 3 picked all cs.CL/cs.LG with combined subject+title-boost+recency score >= 117, overlap=0 vs prior themes"
+    },
+    {
+      "ts": "2026-06-25T18:29:50.738474+00:00",
+      "method": "hf_daily_3d + strict_subject_filter",
+      "window_start": "2026-06-22",
+      "window_end": "2026-06-25",
+      "candidates_total": 115,
+      "candidates_after_subject_filter": 52,
+      "candidates_after_llm_flavor": 52,
+      "picks_count": 3,
+      "pick_ids": [
+        "2602.09379",
+        "2606.22936",
+        "2606.22778"
+      ],
+      "theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks"
     }
   ],
   "emergent_concept_search_runs": [
@@ -1341,6 +1423,17 @@
         "2606.16246",
         "2505.23878"
       ]
+    },
+    {
+      "ts": "2026-06-25T18:29:50.738474+00:00",
+      "mode": "emergent-concept",
+      "method": "hf_daily_3d_run1823",
+      "picks_count": 3,
+      "pick_ids": [
+        "2602.09379",
+        "2606.22936",
+        "2606.22778"
+      ]
     }
   ],
   "runs": [
@@ -1444,7 +1537,18 @@
         "demystifying-training-time-augmentation-for-data-constrained-language-model-pretraining-2606.16246",
         "ac-odm-actor-critic-online-data-mixing-for-sample-efficient-llm-pretraining-2505.23878"
       ]
+    },
+    {
+      "ts": "2026-06-25T18:29:50.738474+00:00",
+      "type": "emergent-concept",
+      "theme": "LLM diagnostic-evaluation / multi-agent benchmarking / retrieval-pipeline benchmarks",
+      "papers_added": 3,
+      "paper_ids": [
+        "2602.09379",
+        "2606.22936",
+        "2606.22778"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T18:08:58+00:00"
+  "last_updated": "2026-06-25T18:29:50.738474+00:00"
 }
