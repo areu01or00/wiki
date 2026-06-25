@@ -745,7 +745,10 @@
         "65890a4fcd46da700a3d5e278d503fa0",
         "153de5005ccdcff0ef1791ef8d62d3b8",
         "0fa2f29c29c426c4c6fb5cc3fe770f4c",
-        "194daa43e02b593757c5b26d3f65e8f0"
+        "194daa43e02b593757c5b26d3f65e8f0",
+        "49fbfbf1927b6f9b71641efb206bbc9f",
+        "4e0d69cebf8fc964d691f7298c96ab0d",
+        "b3bd88fa30b5fce5bd6ef057d050f944"
       ],
       "last_results": [
         {
@@ -1278,16 +1281,37 @@
           "arxiv_id": "2606.22708",
           "discovered": "2026-06-25T21:09:00+00:00",
           "source": "hf_daily_emergent_concept_search"
+        },
+        {
+          "title": "Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark",
+          "url": "https://arxiv.org/abs/2606.18648",
+          "arxiv_id": "2606.18648",
+          "discovered": "2026-06-25T21:32:12.732047+00:00",
+          "source": "hf_daily_emergent_concept_search"
+        },
+        {
+          "title": "EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies",
+          "url": "https://arxiv.org/abs/2606.18239",
+          "arxiv_id": "2606.18239",
+          "discovered": "2026-06-25T21:32:12.732047+00:00",
+          "source": "hf_daily_emergent_concept_search"
+        },
+        {
+          "title": "Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence",
+          "url": "https://arxiv.org/abs/2606.15932",
+          "arxiv_id": "2606.15932",
+          "discovered": "2026-06-25T21:32:12.732047+00:00",
+          "source": "hf_daily_emergent_concept_search"
         }
       ],
-      "last_run": "2026-06-25T20:45:00+00:00",
-      "last_updated": "2026-06-25T20:45:00+00:00",
+      "last_run": "2026-06-25T21:32:12.732047+00:00",
+      "last_updated": "2026-06-25T21:32:12.732047+00:00",
       "last_result_timestamp": "2026-06-25T20:45:00+00:00",
       "last_run_key": "emergent_concept:2026-06-25T20:29:46.633598+00:00",
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T21:09:00+00:00",
+  "last_run": "2026-06-25T21:32:12.732047+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1354,12 +1378,15 @@
     "65890a4fcd46da700a3d5e278d503fa0",
     "153de5005ccdcff0ef1791ef8d62d3b8",
     "0fa2f29c29c426c4c6fb5cc3fe770f4c",
-    "194daa43e02b593757c5b26d3f65e8f0"
+    "194daa43e02b593757c5b26d3f65e8f0",
+    "49fbfbf1927b6f9b71641efb206bbc9f",
+    "4e0d69cebf8fc964d691f7298c96ab0d",
+    "b3bd88fa30b5fce5bd6ef057d050f944"
   ],
-  "last_discovery": "2026-06-25T21:09:00+00:00",
-  "last_updated": "2026-06-25T21:09:00+00:00",
-  "__last_updated": "2026-06-25T21:09:00+00:00",
-  "last_explore": "2026-06-25T21:09:00+00:00",
+  "last_discovery": "2026-06-25T21:32:12.732047+00:00",
+  "last_updated": "2026-06-25T21:32:12.732047+00:00",
+  "__last_updated": "2026-06-25T21:32:12.732047+00:00",
+  "last_explore": "2026-06-25T21:32:12.732047+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1427,7 +1454,10 @@
       "65890a4fcd46da700a3d5e278d503fa0",
       "153de5005ccdcff0ef1791ef8d62d3b8",
       "0fa2f29c29c426c4c6fb5cc3fe770f4c",
-      "194daa43e02b593757c5b26d3f65e8f0"
+      "194daa43e02b593757c5b26d3f65e8f0",
+      "49fbfbf1927b6f9b71641efb206bbc9f",
+      "4e0d69cebf8fc964d691f7298c96ab0d",
+      "b3bd88fa30b5fce5bd6ef057d050f944"
     ],
     "last_discovery": "2026-06-25T21:09:00+00:00",
     "last_run": "2026-06-25T21:09:00+00:00"
