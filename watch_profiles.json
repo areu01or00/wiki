@@ -244,27 +244,10 @@
         "1ce27f21773843a02a08f5c0a69f282d",
         "29d394dc2174dfd2f238de83ed7960da"
       ],
-      "last_run": "2026-06-25 01:22 UTC",
-      "new_sub_topics_this_run": [
-        {
-          "title": "10 Essential System Design Patterns for Engineers - LinkedIn",
-          "url": "https://www.linkedin.com/posts/alexandre-zajac_101-system-design-patterns-every-engineer-activity-7414341527348424705-HnA9"
-        },
-        {
-          "title": "Master Microservice Event-Driven Architecture in 2026",
-          "url": "https://www.john-pratt.com/microservice-event-driven"
-        },
-        {
-          "title": "Microservices Architecture in 2026: Best Practices and Real-World",
-          "url": "https://www.cortaralabs.com/blogs/microservices-architecture-2026"
-        },
-        {
-          "title": "Event-Driven Microservices Architectures: Principles, Patterns and Best",
-          "url": "https://wjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1137.pdf"
-        }
-      ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "last_run": "2026-06-25 01:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -521,27 +504,10 @@
         "163d465d29904ded149230da823d3010",
         "86dae3049ea21c99dda81d25d2128ad8"
       ],
-      "last_run": "2026-06-25 01:22 UTC",
-      "new_sub_topics_this_run": [
-        {
-          "title": "Reconciling high-level optimizations and low-level code in LLVM",
-          "url": "https://dl.acm.org/doi/10.1145/3276495"
-        },
-        {
-          "title": "Introduction to the LLVM Compiler System - Slideshare",
-          "url": "https://www.slideshare.net/slideshow/introduction-to-the-llvm-compiler-system/11263866"
-        },
-        {
-          "title": "Olympus-HPC/proteus: Programmable JIT Compilation - GitHub",
-          "url": "https://github.com/Olympus-HPC/proteus"
-        },
-        {
-          "title": "What exactly is LLVM? - Stack Overflow",
-          "url": "https://stackoverflow.com/questions/2354725/what-exactly-is-llvm"
-        }
-      ],
-      "last_new_count": 4,
-      "_new_total_for_digest": 4
+      "last_run": "2026-06-25 01:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -780,19 +746,10 @@
         "592f29fe81f4b3a25b7c6786918e27be",
         "ecf279dd4441dd4ce354964ef77f265d"
       ],
-      "last_run": "2026-06-25 01:22 UTC",
-      "new_sub_topics_this_run": [
-        {
-          "title": "Gradual - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Gradual"
-        },
-        {
-          "title": "Codex CLI for Python Type Safety: Agent-Driven Type Checking",
-          "url": "https://codex.danielvaughan.com/2026/05/28/codex-cli-python-type-safety-agent-driven-type-checking-mypy-pyright-ty-pyrefly/"
-        }
-      ],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_run": "2026-06-25 01:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -1051,31 +1008,10 @@
         "1a693609586122a5ba5a5cd611341c40",
         "867d449835c01cb37e6aff5c0562cefe"
       ],
-      "last_run": "2026-06-25 01:22 UTC",
-      "new_sub_topics_this_run": [
-        {
-          "title": "Functional (mathematics) - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Functional_(mathematics)"
-        },
-        {
-          "title": "Functional - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Functional"
-        },
-        {
-          "title": "FUNCTIONAL definition in the Cambridge English Dictionary",
-          "url": "https://dictionary.cambridge.org/us/dictionary/english/functional"
-        },
-        {
-          "title": "Documentation - Haskell",
-          "url": "https://www.haskell.org/documentation/"
-        },
-        {
-          "title": "Haskell",
-          "url": "https://wiki.haskell.org/Haskell"
-        }
-      ],
-      "last_new_count": 7,
-      "_new_total_for_digest": 7
+      "last_run": "2026-06-25 01:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -1359,31 +1295,10 @@
         "c559f855463864f3db44a42b634b4fdd",
         "67d42a80bf083219acf4557d94a8d31e"
       ],
-      "last_run": "2026-06-25 01:22 UTC",
-      "new_sub_topics_this_run": [
-        {
-          "title": "Design Add And Search Word Data Structure - LeetCode - YouTube",
-          "url": "https://www.youtube.com/watch?v=zDyoxl29yns"
-        },
-        {
-          "title": "dynamic-programming GitHub Topics GitHub",
-          "url": "https://web.archive.org/web/20251113044031/https://github.com/topics/dynamic-programming"
-        },
-        {
-          "title": "Grind 75: All 75 LeetCode Problems + Study Planner - Crackr AI",
-          "url": "https://crackr.dev/grind75"
-        },
-        {
-          "title": "FAANG Interview Prep: The Complete Process (2026 Guide)",
-          "url": "https://generalistprogrammer.com/tutorials/faang-interview-prep-complete-guide"
-        },
-        {
-          "title": "I Switched From LeetCode to AlgoMonster",
-          "url": "https://medium.com/javarevisited/i-switched-from-leetcode-to-algomonster-and-heres-what-happened-1143d2406e0d"
-        }
-      ],
-      "last_new_count": 5,
-      "_new_total_for_digest": 5
+      "last_run": "2026-06-25 01:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -1658,20 +1573,11 @@
         "362d21404ee1fb6dfbc78509ec951aeb",
         "bb53bcf4619919e64da0280659f0ab87"
       ],
-      "last_run": "2026-06-25 01:22 UTC",
-      "new_sub_topics_this_run": [
-        {
-          "title": "Online Python Compiler and Visualizer - CodeChef",
-          "url": "https://www.codechef.com/python-online-compiler"
-        },
-        {
-          "title": "Free-threaded Python is here - Reddit",
-          "url": "https://www.reddit.com/r/learnpython/comments/1sf5ict/freethreaded_python_is_here_but_checking_if_your/"
-        }
-      ],
-      "last_new_count": 2,
-      "_new_total_for_digest": 2
+      "last_run": "2026-06-25 01:32 UTC",
+      "new_sub_topics_this_run": [],
+      "last_new_count": 0,
+      "_new_total_for_digest": 0
     }
   },
-  "last_run": "2026-06-25 01:22 UTC"
+  "last_run": "2026-06-25 01:32 UTC"
 }
