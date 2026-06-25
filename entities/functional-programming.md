@@ -1,6 +1,13 @@
-# Functional Programming
+- **2026-06-25** | [Frequently asked questions | Gleam programming language](https://gleam.run/frequently-asked-questions/) | kw: frequently asked questions gleam programming language
+- **2026-06-25** | [Functional Programming & Haskell - Computerphile - YouTube](https://www.youtube.com/watch?v=LnX3B9oaKzw) | kw: functional programming haskell computerphile youtube
+- **2026-06-25** | [Gleam: The New Functional Language Developers Actually Want to...](https://www.pullflow.com/blog/gleam-functional-language-developers-actually-want-to-use) | kw: gleam new functional language developers actually
+- **2026-06-25** | [GitHub - michaelbull/kotlin-result: A multiplatform Result monad for...](https://github.com/michaelbull/kotlin-result) | kw: github michaelbull kotlin result multiplatform result
+- **2026-06-25** | [Я пишу бэкенд на Gleam. Вот что я понял за полгода / Хабр](https://habr.com/ru/articles/1012802/) | kw: пишу бэкенд gleam вот что понял
+- **2026-06-25** | [Gleam: A Basic Introduction - Peq42](https://peq42.com/blog/gleam-a-basic-introduction/) | kw: gleam basic introduction peq42
+- **2026-06-25** | [#fnconf #typescript #functionalprogramming | Functional Conference](https://www.linkedin.com/posts/functional-conf_fnconf-typescript-functionalprogramming-activity-7287295352968298497-TTyf) | kw: fnconf typescript functionalprogramming functional conference
+- **2026-06-25** | [Gleam Programming Language Tutorial: 70% Stack...](https://byteiota.com/gleam-programming-language-tutorial-70-stack-overflow-admiration/) | kw: gleam programming language tutorial stack
+- **2026-06-25** | [A place for all discussions related to Haskell | Forum](https://discourse.haskell.org/latest) | kw: place all discussions related haskell forum
 
-## Updates
 - **2026-06-25** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: hello haskell 2026
 - **2026-06-25** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: fp lang reddit
 - **2026-06-25** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: lobsters zig fp
@@ -12,7 +19,6 @@
 - **2026-06-25** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: learned monads rust
 - **2026-06-25** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: finally got monads
 
-- **2026-06-25** | [Functional programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming) | kw: Functional programming - Wikipedia
 - **2026-06-25** | [Co-Creator of Haskell: Functional Programming, Thinking in Types](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Co-Creator of Haskell: Functional Programming, Thinking in Types
 - **2026-06-25** | [The Functional Programming Paradigm: Concepts, Principles](https://ijsrm.net/index.php/ijsrm/article/view/7139) | kw: The Functional Programming Paradigm: Concepts, Principles
 - **2026-06-25** | [Are there functional programming languages that run on the GPU](https://stackoverflow.com/questions/21583480/are-there-functional-programming-languages-that-run-on-the-gpu) | kw: Are there functional programming languages that run on the GPU
@@ -71,7 +77,6 @@
 - **2026-06-24** | [Issue 522 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/522.html) | kw: functional programming
 - **2026-06-24** | [Functional Programming Online Courses - Serokell](https://serokell.io/courses) | kw: functional programming
 
-- **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional programming
 - **2026-06-24** | [FP lang for 2026 : r/functionalprogramming](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: functional programming
 - **2026-06-24** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional programming
 - **2026-06-24** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - PLDI 2026](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: functional programming
@@ -128,10 +133,6 @@
 - **2026-06-24** | [functional - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/functional) | kw: functional Wiktionary the free dictionary
 - **2026-06-24** | [FUNCTIONAL definition and meaning | Collins English Dictionary](www.collinsdictionary.com/dictionary/english/functional) | kw: FUNCTIONAL definition and meaning Collins English
 
-- **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional (mathematics)
-- **2026-06-24** | [Functional - Wikipedia](https://en.wikipedia.org/wiki/Functional) | kw: Functional
-- **2026-06-24** | [FUNCTIONAL | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: FUNCTIONAL | definition in the Cambridge
-- **2026-06-24** | [Functional - definition of functional by The Free Dictionary](https://www.thefreedictionary.com/functional) | kw: Functional
 - **2026-06-24** | [functional adjective - Definition, pictures, pronunciation and usage notes](https://www.oxfordlearnersdictionaries.com/definition/english/functional) | kw: functional adjective
 - **2026-06-24** | [Functional and Non Functional Requirements - GeeksforGeeks](https://www.geeksforgeeks.org/software-engineering/functional-vs-non-functional-requirements/) | kw: Functional and Non Functional Requiremen
 
@@ -159,7 +160,6 @@
 - **2026-06-24** | [Haskell Language](https://www.haskell.org/) | kw: Haskell Language
 - **2026-06-24** | [The Poor Man's Monad: It's Just a 2-Tuple](https://andrewjohnson4.substack.com/p/the-poor-mans-monad-its-just-a-2) | kw: The Poor Man's Monad
 
-- **2026-06-24** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional mathematics
 - **2026-06-24** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: fp lang
 - **2026-06-24** | [What killed Haskell, could kill Rust, too - Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: what killed
 - **2026-06-24** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: how learned
@@ -3733,7 +3733,6 @@
 
 - **2026-06-11** | [How I Learned Monads Not Through Haskell But Through Rust Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: monads, Haskell, rust
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms codegenes.net](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional, programming, rust
-- **2026-06-11** | [Functional programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming) | kw: functional, programming
 - **2026-06-11** | [Monad functional programming Wikipedia](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) | kw: functional, programming
 - **2026-06-11** | [Practical Value of Functional Programming Monads 2026](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads, functional, programming
 - **2026-06-11** | [Monads and Programming Good Math Bad Math](http://www.goodmath.org/blog/2012/08/19/monads-and-programming) | kw: monads, programming
@@ -3775,7 +3774,6 @@
 - **2026-06-11** | [The Practical Value of Functional Programming - Monad, Haskell, Elixir, Gleam](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: practical, value, functional
 - **2026-06-11** | [Haskell Guide 2026: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell, guide, 2026:
 
-- **2026-06-11** | [Functional programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming) | kw: monads, Haskell, Rust patterns
 - **2026-06-11** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: monads, Haskell, Rust patterns
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms?](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: monads, Haskell, Rust patterns
 
@@ -3851,7 +3849,6 @@
 - **2026-06-11** | [Monads Tutorial — Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: new
 
 - **2026-06-11** | [What are monads in functional programming and why are they useful? - Quora](https://www.quora.com/What-are-monads-in-functional-programming-and-why-are-they-useful-Are-they-a-generic-solution-to-the-problem-of-state-in-FP-or-Haskell-specific-Are-they-specific-to-Haskell-or-are-they-encountered-in-other-FP-languages) | kw: monads, Haskell
-- **2026-06-11** | [Functional programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming) | kw: monads, Haskell
 - **2026-06-11** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: monads, Haskell
 - **2026-06-11** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: monads, Haskell
 
@@ -3944,7 +3941,6 @@
 - **2026-06-11** | [FUNCTIONAL中文 (简体)翻译：剑桥词典](https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/functional) | kw: functional
 - **2026-06-11** | [functional_百度百科](https://baike.baidu.com/item/functional/2599905) | kw: functional
 - **2026-06-11** | [functional的解释和发音 「欧路词典」](https://dict.eudic.net/mdicts/en/functional) | kw: functional
-- **2026-06-11** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: functional
 
 - **2026-06-11** | [Rust: Functional Programming & Monads](https://medium.com/coderhack-com/functional-programming-with-monads-90230ccccb48) | kw: monads, Rust patterns, functional idioms
 - **2026-06-11** | [Master Monads: Unlock Functional Programming's Secret Weapon](https://notes.suhaib.in/docs/tech/latest/monads-demystified-the-math-driven-superpower-behind-functional-programming/) | kw: monads, functional idioms

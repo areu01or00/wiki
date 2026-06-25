@@ -1,6 +1,7 @@
-# Python Internals
+- **2026-06-25** | [I Benchmarked Python 3.14's Free-Threading on 5 Real Tasks ...](https://python.plainenglish.io/i-benchmarked-python-3-14s-free-threading-on-5-real-tasks-here-s-what-actually-happened-d7088b7e4fed) | kw: benchmarked python free threading real tasks
+- **2026-06-25** | [r/django on Reddit: With Python 3.14 free-threading support coming ...](https://www.reddit.com/r/django/comments/1lnekfg/with_python_314_freethreading_support_coming_up/) | kw: django reddit python free threading support
+- **2026-06-25** | [[Feature] Free-Threaded Python (3.14t / nogil) Support for SGLang](https://github.com/sgl-project/sglang/issues/22889) | kw: feature free threaded python 14t nogil
 
-## Updates
 - **2026-06-25** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python under the hood
 - **2026-06-25** | [Internals of Python 3.x: Derive Maximum Code Performance](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: internals of python 3.x book
 - **2026-06-25** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: real python gil

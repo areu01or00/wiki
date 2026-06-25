@@ -1,6 +1,13 @@
-# Algorithms
+- **2026-06-25** | [Is grinding DSA problems still worth it in 2026, or has the hiring meta ...](https://www.reddit.com/r/cscareerquestions/comments/1rc34r3/is_grinding_dsa_problems_still_worth_it_in_2026/) | kw: grinding dsa problems still worth 2026
+- **2026-06-25** | [How I Would Prepare for a FAANG Interview in 2026 (If I Had to Start ...](https://designgurus.substack.com/p/how-i-would-prepare-for-a-faang-interview) | kw: would prepare faang interview 2026 had
+- **2026-06-25** | [Step-by-Step Guide for FAANG Interviews in 2026 (Part 9 of 10)](https://medium.com/@emilyhustlenyc/step-by-step-guide-for-faang-interviews-in-2026-part-8-of-10-the-master-roadmap-62ba127920e9) | kw: step step guide faang interviews 2026
+- **2026-06-25** | [FAANG DSA Cheatsheet with 13 Groups of Patterns & 65 Problems](https://www.linkedin.com/posts/parikh-jain-79568798_solve-this-self-testing-dsa-cheatsheet-with-activity-7410551884542820352-TiTi) | kw: faang dsa cheatsheet groups patterns problems
+- **2026-06-25** | [FAANG is changing: How big tech interviews are evolving in 2026](https://medium.com/@fahimulhaq/faang-is-changing-how-big-tech-interviews-are-evolving-3d5585603913) | kw: faang changing big tech interviews evolving
+- **2026-06-25** | [FAANG | MAANG Recent Hard Questions Compiled - Discuss](https://leetcode.com/discuss/post/6926452/faang-maang-recent-hard-questions-compil-x4fc/) | kw: faang maang recent hard questions compiled
+- **2026-06-25** | [How to Pass a Technical Interview at Google, Meta, and Amazon in ...](https://techscreen.app/articles/how-to-pass-technical-interview-faang-2026) | kw: pass technical interview google meta amazon
+- **2026-06-25** | [I Failed 4 FAANG Interviews Before Learning This - DEV Community](https://dev.to/somadevtoo/i-failed-4-faang-interviews-before-learning-this-the-complete-coding-interview-preparation-guide-gjh) | kw: failed faang interviews before learning dev
+- **2026-06-25** | [Complete Preparation Kit to Crack FAANG in 2026 - YouTube](https://www.youtube.com/watch?v=SGR1KbXRHnY) | kw: complete preparation kit crack faang 2026
 
-## Updates
 - **2026-06-25** | [data-structures · GitHub Topics · GitHub](https://github.com/topics/data-structures) | kw: github data-structures
 - **2026-06-25** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: github dsa topics
 - **2026-06-25** | [Guideline for FAANG. Algorithm and Data structure (Leetcode)](https://medium.com/@nazmus20000/guideline-for-faang-d9c2502d4af4) | kw: faang guideline

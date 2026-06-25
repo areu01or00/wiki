@@ -1,6 +1,5 @@
-# System Design
+- **2026-06-25** | [Complete Distributed Systems Guide 2026 - College Nirnay](https://www.collegenirnay.com/articles/complete-guide-distributed-systems-beginners) | kw: complete distributed systems guide 2026 college
 
-## Updates
 - **2026-06-25** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system wikipedia
 - **2026-06-25** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: windows properties
 - **2026-06-25** | [What Is a System? Definition, Types, and Examples](https://scienceinsights.org/what-is-a-system-definition-types-and-examples/) | kw: system definition
