@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T17:14:01+00:00",
-  "__last_updated": "2026-06-25T17:14:01+00:00",
-  "last_run": "2026-06-25T17:14:01+00:00",
-  "last_explore": "2026-06-25T17:14:01+00:00",
-  "last_global_explore": "2026-06-25T17:14:01+00:00",
-  "last_discovery": "2026-06-25T17:14:01+00:00",
-  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_agentic_memory_context_engineering_retrieval",
-  "last_framing": "agentic-memory-evaluation + context-engineering + unified-retrieval-generation (3 fresh themes, all cs.CL/cs.AI)",
-  "last_run_notes": "HF 3-day + 1-month window. 207 unique IDs, 14 pre-existing (93% new). Pitfall 52 strict subject filter recovered 61 LLM candidates from 100 non_cv_metadata. 3 picks: MEMPROBE (agentic-memory evaluation / hidden-state-recovery / confabulation-detection), Plans Don't Persist (agent context-engineering / plan-persistence / eviction-policy), DREAM (retrieval / embedding-from-LM / unified-retrieval-generation).",
+  "updated": "2026-06-25T17:31:41+00:00",
+  "__last_updated": "2026-06-25T17:31:41+00:00",
+  "last_run": "2026-06-25T17:31:41+00:00",
+  "last_explore": "2026-06-25T17:31:41+00:00",
+  "last_global_explore": "2026-06-25T17:31:41+00:00",
+  "last_discovery": "2026-06-25T17:31:41+00:00",
+  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_multimodal-rag_math-rl_cross-domain-agent-rl",
+  "last_framing": "multimodal RAG + multimodal math RL + long-horizon cross-domain RL (3 fresh themes absent from prior N runs)",
+  "last_run_notes": "Run 2026-06-25 17:30 UTC: HF 3-day window (2026-06-23..2026-06-25) + monthly, Step 2.5 strict subject filter recovered 45 LLM-relevant candidates from 80 raw non_cv_metadata (script reported Non-CV: 80 but top 10 picks were 100% cs.CV before subject filtering). Dedup against 5 stores (top-level, llm-wiki, llm-wiki-explore.last_result_hashes, llm-wiki-explore.last_results, explore_context chains+emergent) returned 0% pre-existing (expected on just-restored wiki per pitfall 58a). 3 picks landed: ChartWalker (multimodal RAG / cross-chart / hierarchical-KG, cs.IR), VeriEvol (multimodal math reasoning / verifiable Evol-Instruct, cs.AI), Connect the Dots (long-horizon cross-domain-RL agent training, cs.LG). MERGE-then-SORT N=8 (3 new + 5 existing) applied to emergent-concepts.md ## Updates.",
   "last_pass_type": "emergent_concept_search",
-  "last_run_method": "HuggingFace daily papers (3-day window) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter (pitfall 52) + LLM-flavor title scoring + 5-store dedup",
-  "run_method": "hf_daily_emergent_concept",
+  "last_run_method": "HuggingFace daily papers (curl + grep) + Step 2.5 strict subject filter + arxiv meta extraction",
+  "run_method": "hf_daily_papers + subject_filter + arxiv_meta",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "agentic-memory evaluation + context-engineering plan-persistence + unified-retrieval-generation",
-  "emergent_theme": "MEMPROBE (hidden-state-recovery) + Plans Don't Persist (load-bearing agent state) + DREAM (embedding-from-LM)",
+  "emergent_concept_theme": "multimodal RAG (ChartWalker) / multimodal math RL-data-pipeline (VeriEvol) / long-horizon cross-domain-RL (CoD) (3 fresh themes)",
+  "emergent_theme": "multimodal RAG (ChartWalker, 2606.23997) + multimodal math RL (VeriEvol, 2606.23543) + long-horizon cross-domain RL (Connect the Dots, 2606.20002)",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 30,
+  "entities_count": 33,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -334,15 +334,42 @@
           "theme": "retrieval / embedding-from-LM / unified-retrieval-generation",
           "vector": "emergent_concept_search",
           "discovered": "2026-06-25T17:14:01+00:00"
+        },
+        {
+          "arxiv_id": "2606.23997",
+          "slug": "chartwalker-benchmarking-the-cross-chart-rag-task-with-hierarchical-knowledge-graphs-2606.23997",
+          "title": "ChartWalker: Benchmarking the Cross-Chart RAG Task with Hierarchical Knowledge Graphs",
+          "url": "https://arxiv.org/abs/2606.23997",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:31:41+00:00",
+          "theme": "multimodal RAG / cross-chart-reasoning / hierarchical-KG"
+        },
+        {
+          "arxiv_id": "2606.23543",
+          "slug": "verievol-scaling-multimodal-mathematical-reasoning-via-verifiable-evol-instruct-2606.23543",
+          "title": "VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct",
+          "url": "https://arxiv.org/abs/2606.23543",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:31:41+00:00",
+          "theme": "multimodal reasoning / RL-data-pipeline / verifiable-supervision"
+        },
+        {
+          "arxiv_id": "2606.20002",
+          "slug": "connect-the-dots-training-llms-for-long-lifecycle-agents-with-cross-domain-generalization-via-reinforcement-learning-2606.20002",
+          "title": "Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2606.20002",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:31:41+00:00",
+          "theme": "long-horizon agents / cross-domain-RL / agent-training"
         }
       ],
-      "last_run": "2026-06-25T17:14:01+00:00",
-      "last_explore": "2026-06-25T17:14:01+00:00",
+      "last_run": "2026-06-25T17:31:41+00:00",
+      "last_explore": "2026-06-25T17:31:41+00:00",
       "last_run_added": 3,
       "papers_found_count": 82,
       "run_method": "emergent-concept",
-      "last_explored": "2026-06-25T17:14:01+00:00",
-      "last_run_notes": "HF 3-day + 1-month window (2026-06-25 minus 3 days..2026-06-25). 207 unique IDs, 14 pre-existing (93% new). Pitfall 52 strict subject filter recovered 61 LLM candidates from 100 non_cv_metadata. 3 picks: MEMPROBE (agentic-memory evaluation / hidden-state-recovery), Plans Don't Persist (agent context-engineering / plan-persistence), DREAM (retrieval / embedding-from-LM)."
+      "last_explored": "2026-06-25T17:31:41+00:00",
+      "last_run_notes": "Run 2026-06-25 17:30 UTC: HF 3-day window (2026-06-23..2026-06-25) + monthly, Step 2.5 strict subject filter recovered 45 LLM-relevant candidates from 80 raw non_cv_metadata (script reported Non-CV: 80 but top 10 picks were 100% cs.CV before subject filtering). Dedup against 5 stores (top-level, llm-wiki, llm-wiki-explore.last_result_hashes, llm-wiki-explore.last_results, explore_context chains+emergent) returned 0% pre-existing (expected on just-restored wiki per pitfall 58a). 3 picks landed: ChartWalker (multimodal RAG / cross-chart / hierarchical-KG, cs.IR), VeriEvol (multimodal math reasoning / verifiable Evol-Instruct, cs.AI), Connect the Dots (long-horizon cross-domain-RL agent training, cs.LG). MERGE-then-SORT N=8 (3 new + 5 existing) applied to emergent-concepts.md ## Updates."
     }
   },
   "emergent_concept_papers": [
@@ -498,6 +525,30 @@
       "url": "https://arxiv.org/abs/2606.24667",
       "theme": "retrieval / embedding-from-LM / unified-retrieval-generation",
       "discovered": "2026-06-25T17:14:01+00:00"
+    },
+    {
+      "arxiv_id": "2606.23997",
+      "slug": "chartwalker-benchmarking-the-cross-chart-rag-task-with-hierarchical-knowledge-graphs-2606.23997",
+      "title": "ChartWalker: Benchmarking the Cross-Chart RAG Task with Hierarchical Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2606.23997",
+      "theme": "multimodal RAG / cross-chart-reasoning / hierarchical-KG",
+      "discovered": "2026-06-25T17:31:41+00:00"
+    },
+    {
+      "arxiv_id": "2606.23543",
+      "slug": "verievol-scaling-multimodal-mathematical-reasoning-via-verifiable-evol-instruct-2606.23543",
+      "title": "VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct",
+      "url": "https://arxiv.org/abs/2606.23543",
+      "theme": "multimodal reasoning / RL-data-pipeline / verifiable-supervision",
+      "discovered": "2026-06-25T17:31:41+00:00"
+    },
+    {
+      "arxiv_id": "2606.20002",
+      "slug": "connect-the-dots-training-llms-for-long-lifecycle-agents-with-cross-domain-generalization-via-reinforcement-learning-2606.20002",
+      "title": "Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.20002",
+      "theme": "long-horizon agents / cross-domain-RL / agent-training",
+      "discovered": "2026-06-25T17:31:41+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -632,6 +683,30 @@
       "url": "https://arxiv.org/abs/2606.24667",
       "discovered": "2026-06-25T17:14:01+00:00",
       "theme": "retrieval / embedding-from-LM / unified-retrieval-generation"
+    },
+    {
+      "arxiv_id": "2606.23997",
+      "title": "ChartWalker: Benchmarking the Cross-Chart RAG Task with Hierarchical Knowledge Graphs",
+      "slug": "chartwalker-benchmarking-the-cross-chart-rag-task-with-hierarchical-knowledge-graphs-2606.23997",
+      "url": "https://arxiv.org/abs/2606.23997",
+      "discovered": "2026-06-25T17:31:41+00:00",
+      "theme": "multimodal RAG / cross-chart-reasoning / hierarchical-KG"
+    },
+    {
+      "arxiv_id": "2606.23543",
+      "title": "VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct",
+      "slug": "verievol-scaling-multimodal-mathematical-reasoning-via-verifiable-evol-instruct-2606.23543",
+      "url": "https://arxiv.org/abs/2606.23543",
+      "discovered": "2026-06-25T17:31:41+00:00",
+      "theme": "multimodal reasoning / RL-data-pipeline / verifiable-supervision"
+    },
+    {
+      "arxiv_id": "2606.20002",
+      "title": "Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning",
+      "slug": "connect-the-dots-training-llms-for-long-lifecycle-agents-with-cross-domain-generalization-via-reinforcement-learning-2606.20002",
+      "url": "https://arxiv.org/abs/2606.20002",
+      "discovered": "2026-06-25T17:31:41+00:00",
+      "theme": "long-horizon agents / cross-domain-RL / agent-training"
     }
   ],
   "emergent_concept_search_log": [
@@ -740,6 +815,24 @@
         "agent context-engineering / plan-persistence / eviction-policy",
         "retrieval / embedding-from-LM / unified-retrieval-generation"
       ]
+    },
+    {
+      "ts": "2026-06-25T17:31:41+00:00",
+      "papers_found": [
+        "chartwalker-benchmarking-the-cross-chart-rag-task-with-hierarchical-knowledge-graphs-2606.23997",
+        "verievol-scaling-multimodal-mathematical-reasoning-via-verifiable-evol-instruct-2606.23543",
+        "connect-the-dots-training-llms-for-long-lifecycle-agents-with-cross-domain-generalization-via-reinforcement-learning-2606.20002"
+      ],
+      "arxiv_ids": [
+        "2606.23997",
+        "2606.23543",
+        "2606.20002"
+      ],
+      "themes": [
+        "multimodal RAG / cross-chart-reasoning / hierarchical-KG",
+        "multimodal reasoning / RL-data-pipeline / verifiable-supervision",
+        "long-horizon agents / cross-domain-RL / agent-training"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -847,6 +940,27 @@
       ],
       "thematic_framing": "agentic-memory-evaluation / context-engineering / unified-retrieval-generation",
       "dedup_rate": "207 unique IDs from HF, 14 pre-existing (93% new); strict subject filter recovered 61 LLM candidates from 100; 3 picks all FRESH"
+    },
+    {
+      "ts": "2026-06-25T17:31:41+00:00",
+      "method": "HuggingFace daily papers (2026-06-23..2026-06-25 + 2026-06 monthly) + arxiv_meta fetch via citation_* meta tags",
+      "papers": [
+        "2606.23997",
+        "2606.23543",
+        "2606.20002"
+      ],
+      "slugs": [
+        "chartwalker-benchmarking-the-cross-chart-rag-task-with-hierarchical-knowledge-graphs-2606.23997",
+        "verievol-scaling-multimodal-mathematical-reasoning-via-verifiable-evol-instruct-2606.23543",
+        "connect-the-dots-training-llms-for-long-lifecycle-agents-with-cross-domain-generalization-via-reinforcement-learning-2606.20002"
+      ],
+      "themes": [
+        "multimodal RAG / cross-chart-reasoning / hierarchical-KG",
+        "multimodal reasoning / RL-data-pipeline / verifiable-supervision",
+        "long-horizon agents / cross-domain-RL / agent-training"
+      ],
+      "thematic_framing": "multimodal RAG / multimodal math RL-data-pipeline / long-horizon cross-domain-RL",
+      "dedup_rate": "pre-existing 0% on just-restored wiki (45 candidates all fresh; expected per pitfall 58a)"
     }
   ],
   "runs": [
@@ -909,6 +1023,16 @@
         "memprobe-probing-longterm-agent-memory-via-hidden-userstate-recovery-2606.24595",
         "plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953",
         "dream-dense-retrieval-embeddings-via-autoregressive-modeling-2606.24667"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T17:31:41+00:00",
+      "mode": "emergent_concept",
+      "theme": "multimodal RAG + multimodal math RL + long-horizon cross-domain RL",
+      "papers_added": [
+        "chartwalker-benchmarking-the-cross-chart-rag-task-with-hierarchical-knowledge-graphs-2606.23997",
+        "verievol-scaling-multimodal-mathematical-reasoning-via-verifiable-evol-instruct-2606.23543",
+        "connect-the-dots-training-llms-for-long-lifecycle-agents-with-cross-domain-generalization-via-reinforcement-learning-2606.20002"
       ]
     }
   ],

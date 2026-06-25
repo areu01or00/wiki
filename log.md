@@ -134,3 +134,39 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 
 ### Tool budget
 - All write/commit operations completed cleanly.
+## 2026-06-25 17:32 UTC — Explore run (3 picks, all FRESH, multimodal RAG + math-RL + cross-domain-agent-RL themes)
+- **Window**: HuggingFace daily papers 2026-06-23..2026-06-25 (3-day, just-restored wiki default per pitfall 58a) + 1 monthly archive
+- **Total unique IDs**: 208 (30+29+56 daily + 105 monthly); 17 pre-existing in entities/ (92% new — expected on just-restored wiki)
+- **Pitfall 52 strict subject filter**: 80 non_cv_metadata → 45 LLM candidates (title-flavor upper bound rejected — script's `non_cv_count` is misleading without subject re-filter)
+- **Discovery**: HF daily papers via bundled `scripts/hf_arxiv_discovery.py --days 3 --months 1 --top-k 80`
+
+### Picks (3 fresh themes)
+| arxiv | title | subject | theme |
+|---|---|---|---|
+| 2606.23997 | ChartWalker | cs.IR | multimodal RAG / cross-chart-reasoning / hierarchical-KG |
+| 2606.23543 | VeriEvol | cs.AI | multimodal math reasoning / verifiable Evol-Instruct / RL-data-pipeline |
+| 2606.20002 | Connect the Dots | cs.LG | long-horizon agents / cross-domain-RL / agent-training |
+
+### State updates
+- `explore_context.json`: 18 fields refreshed; `chains.emergent-concepts.papers_found` +3 (18→21); `emergent_concept_papers` +3 (18→21); `emergent_discoveries` +3; `emergent_concept_search_log` +1 (6→7); `emergent_concept_search_runs` +1 (6→7); `runs` +1 (6→7); `entities_count` 30 → 33
+- `watch_profiles.json`: 3 new hashes to top-level (18→21), `llm-wiki` (15→18), `profiles.llm-wiki-explore` (15→18); 3 new records to `last_results` (15→18)
+
+### Cross-check
+- 21 arxiv IDs in entities/ ↔ 21 arxiv IDs in state — OK (no orphans, no extras)
+- Wikilink integrity: 12 [[slugs]] across 3 new entity files (3 each, all resolve against entities/) — PASS
+- Step 5.5 check: 1 broken link caught (the-periodic-table-of-llm-reasoning → the-periodic-table-of-llm-reasoning-a-structured-survey-...) and fixed pre-write
+- Pitfall 52 strict subject filter applied: top 3 picks are cs.IR / cs.AI / cs.LG (no cs.CV)
+- Pitfall 51 lstrip-prefix check: 21 bullet-prefixed entries after ## Updates — clean
+- Pitfall 61 header-duplication check: H2 count = 4 (Scope / Updates / Auto-Discovered Profiles / Chain Status) — clean
+- Encoding preserved: explore_context=False (raw em-dash), watch_profiles=True (escape sequences) — divergent state stable
+
+### Tool budget
+- All write/commit operations completed cleanly. No pitfall 46a/47 partial-bookkeeping risk.
+
+### MERGE-then-SORT detail
+- N_EXISTING_TOP = 3 (new) + 5 (existing top buffer) = 8
+- Extracted 8 existing entries (Autodata, Constraint Tax, iLLaDA, entropy-dynamics, agent-native-memory, DREAM, MEMPROBE, AGORA)
+- Merged 8 existing + 3 new = 11 entries, sorted arxiv-id-desc
+- Top 11 IDs: 25996, 25605, 25331, 25182, 24775, 24667, 24595, 24526, **23997 (NEW)**, **23543 (NEW)**, 20002 (NEW)
+- Three new entries landed at positions 9, 10, 11 (correct: lower arxiv-IDs than all 8 existing tops)
+- File size: 22,359 → 25,584 chars (+3,225 = expected delta)

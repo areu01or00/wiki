@@ -694,7 +694,10 @@
         "f7156f7a6c6231885871fab6b561b8c6",
         "3751f63f8ca5403c9561c007fa430ef2",
         "16dec5c182ae0dab6e105958ce388915",
-        "e61a5a82049c287cf0d7cf75bb3e8a9c"
+        "e61a5a82049c287cf0d7cf75bb3e8a9c",
+        "cf79e2c4aa684a1cdb11d024e8f02d48",
+        "be1301181ed833929c77fbdcc0bf0551",
+        "3bbe72529db1e11f59d79d56cb7f46cc"
       ],
       "last_results": [
         {
@@ -831,15 +834,42 @@
           "url": "https://arxiv.org/abs/2606.24667",
           "discovered": "2026-06-25T17:14:01+00:00",
           "theme": "retrieval / embedding-from-LM / unified-retrieval-generation"
+        },
+        {
+          "arxiv_id": "2606.23997",
+          "title": "ChartWalker: Benchmarking the Cross-Chart RAG Task with Hierarchical Knowledge Graphs",
+          "hash": "cf79e2c4aa684a1cdb11d024e8f02d48",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "multimodal RAG / cross-chart-reasoning / hierarchical-KG",
+          "discovered": "2026-06-25T17:31:41+00:00"
+        },
+        {
+          "arxiv_id": "2606.23543",
+          "title": "VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct",
+          "hash": "be1301181ed833929c77fbdcc0bf0551",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "multimodal reasoning / RL-data-pipeline / verifiable-supervision",
+          "discovered": "2026-06-25T17:31:41+00:00"
+        },
+        {
+          "arxiv_id": "2606.20002",
+          "title": "Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning",
+          "hash": "3bbe72529db1e11f59d79d56cb7f46cc",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "long-horizon agents / cross-domain-RL / agent-training",
+          "discovered": "2026-06-25T17:31:41+00:00"
         }
       ],
-      "last_run": "2026-06-25T17:14:01+00:00",
-      "last_updated": "2026-06-25T17:14:01+00:00",
-      "last_result_timestamp": "2026-06-25T17:14:01+00:00",
-      "last_run_key": "emergent_concept_search_3_papers_2026-06-25_16:42"
+      "last_run": "2026-06-25T17:31:41+00:00",
+      "last_updated": "2026-06-25T17:31:41+00:00",
+      "last_result_timestamp": "2026-06-25T17:31:41+00:00",
+      "last_run_key": "emergent_concept_search_3_papers_2026-06-25"
     }
   },
-  "last_run": "2026-06-25T17:14:01+00:00",
+  "last_run": "2026-06-25T17:31:41+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -858,12 +888,15 @@
     "f7156f7a6c6231885871fab6b561b8c6",
     "3751f63f8ca5403c9561c007fa430ef2",
     "16dec5c182ae0dab6e105958ce388915",
-    "e61a5a82049c287cf0d7cf75bb3e8a9c"
+    "e61a5a82049c287cf0d7cf75bb3e8a9c",
+    "cf79e2c4aa684a1cdb11d024e8f02d48",
+    "be1301181ed833929c77fbdcc0bf0551",
+    "3bbe72529db1e11f59d79d56cb7f46cc"
   ],
-  "last_discovery": "2026-06-25T17:14:01+00:00",
-  "last_updated": "2026-06-25T17:14:01+00:00",
-  "__last_updated": "2026-06-25T17:14:01+00:00",
-  "last_explore": "2026-06-25T17:14:01+00:00",
+  "last_discovery": "2026-06-25T17:31:41+00:00",
+  "last_updated": "2026-06-25T17:31:41+00:00",
+  "__last_updated": "2026-06-25T17:31:41+00:00",
+  "last_explore": "2026-06-25T17:31:41+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -880,9 +913,12 @@
       "f7156f7a6c6231885871fab6b561b8c6",
       "3751f63f8ca5403c9561c007fa430ef2",
       "16dec5c182ae0dab6e105958ce388915",
-      "e61a5a82049c287cf0d7cf75bb3e8a9c"
+      "e61a5a82049c287cf0d7cf75bb3e8a9c",
+      "cf79e2c4aa684a1cdb11d024e8f02d48",
+      "be1301181ed833929c77fbdcc0bf0551",
+      "3bbe72529db1e11f59d79d56cb7f46cc"
     ],
-    "last_discovery": "2026-06-25T17:14:01+00:00",
-    "last_run": "2026-06-25T17:14:01+00:00"
+    "last_discovery": "2026-06-25T17:31:41+00:00",
+    "last_run": "2026-06-25T17:31:41+00:00"
   }
 }
