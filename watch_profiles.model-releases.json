@@ -5,7 +5,7 @@
     "MiniMax": {
       "category": "auto-discovered",
       "discovered_at_cycle": 9,
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "a76b0f1eee118a1f58a1e7cd36199325",
         "97def2c49aa2d3b2e45177432bbadca7",
@@ -28,15 +28,15 @@
         "6c72d73034b8b194d78d7d8910d841dc",
         "82044c08b5b5bb0bbe98836d2ebf8bdd"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "MiniMax AI MiniMax-M3 release new model multimodal MoE",
-      "run_count": 20,
+      "run_count": 21,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "anthropic-releases": {
       "category": "major-lab",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "e1aac439ba2ecee9a3dd64faa62bcaa0",
         "9c3fc4a1d4d3f425510b614f7c291117",
@@ -59,15 +59,15 @@
         "1b190e2d2e2828062ffdfd9593fc3ca8",
         "149d0dee036bcb79e3f9fe7003a5f191"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Anthropic Claude new model release Sonnet Opus API",
-      "run_count": 27,
+      "run_count": 28,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "arxiv-cs-cl": {
       "category": "arxiv",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "ed276b967add611cc994d541e815a033",
         "2cd9ea942dcfa3e5f2f02ef49cb8d21e",
@@ -90,15 +90,15 @@
         "fce487bc135db26b1f49eb094964e066",
         "a166116e66e8424304c650b43894a401"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "arxiv cs.CL new language model submission",
-      "run_count": 27,
+      "run_count": 28,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "deepseek-releases": {
       "category": "chinese-open",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "fca7874966d7e398bf3e3907de159b7f",
         "9c5d81595d12ee938474e0e3687f5cea",
@@ -121,15 +121,15 @@
         "4a79d4ba2c1d4de2bc4674b6e3b6cac0",
         "7eca20588158dfdafd58ba31be949892"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "DeepSeek new model release V3 R1 R2 weights API",
-      "run_count": 26,
+      "run_count": 27,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "glm-releases": {
       "category": "chinese-open",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "65e69162886dde4a37226a2707a36318",
         "9100f5bef27c592af404d4673f1e2728",
@@ -152,15 +152,15 @@
         "820077feda267b6f3250330890b41190",
         "cf1d6924df2116503bbc67429eaa1368"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Zhipu GLM ChatGLM new model release weights API",
-      "run_count": 27,
+      "run_count": 28,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "google-deepmind-releases": {
       "category": "major-lab",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "b5915851d44c7a304849443f62b2831c",
         "208b31b1b484faac83388b6de1a27804",
@@ -183,15 +183,15 @@
         "5efb1ba51e7f3fbdbd8297d763da060f",
         "c79ac0528e207f030bd8b499b835ab6a"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Google DeepMind Gemini new model release API Gemma",
-      "run_count": 27,
+      "run_count": 28,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "huggingface-trending": {
       "category": "aggregator",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "1eaaf55aed15362d6cbb4ea4daa63fb9",
         "1633f4a6bceb175d16e402b537980089",
@@ -214,15 +214,15 @@
         "7633aff2eb4bd76560780aa3fc06a838",
         "5acde21094738a22132a393d49640fee"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "HuggingFace trending models new paper daily",
-      "run_count": 27,
+      "run_count": 28,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "kimi-releases": {
       "category": "chinese-open",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "5f4e8de035f5395812200b72cbc82773",
         "9b0734695e2ba71bb7ecd3b0115714f9",
@@ -245,16 +245,16 @@
         "2f3867f24ed63b67e880396431d39b27",
         "121c49763b57f511f534baa312031a20"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Moonshot Kimi new model release K2 weights API",
-      "run_count": 26,
+      "run_count": 27,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "krea": {
       "category": "auto-discovered",
       "discovered_at_cycle": 4,
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "bce7059f14c76355f908fb291e934976",
         "0c9e0af88d05b29201f906a2fadada1b",
@@ -277,15 +277,15 @@
         "2b93bbe4f15ef1063bd413ce9252c32a",
         "5364ba88d85b57471f986a002d1ef547"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Krea AI Krea 2 image generation model open weights",
-      "run_count": 26,
+      "run_count": 27,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "llm-stats-updates": {
       "category": "aggregator",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "c8680b8b18d4cdf600efc1b05ed2d4d9",
         "87916b942fb2be319a6ae259e1886898",
@@ -308,15 +308,15 @@
         "44e9d45fd2fc283c74916d8d036fb4f9",
         "74fe56bf3d35b78cb151dfc29dd6be26"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "LLM Stats new model launch tracker",
-      "run_count": 26,
+      "run_count": 27,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "meta-llama-releases": {
       "category": "major-lab",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "f9eee7c14ecf411b6174c34fcb114bf1",
         "acddab6ed3829ec4031a5f7837052c2f",
@@ -339,15 +339,15 @@
         "b2bad18ab2195cd75e23724641e139bc",
         "11da92a3ceb7e2e115d7a5700b3892e0"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Meta Llama new model release weights open source",
-      "run_count": 27,
+      "run_count": 28,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "mistral-releases": {
       "category": "major-lab",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "d016d62be6ab49e1ed19c42e567672d2",
         "1e3ced64ec84af740d5b81d166569a85",
@@ -370,15 +370,15 @@
         "1a01be4bdeaab9bff51699658b06f1b8",
         "90f6b259d5b9f97468634d36fda56b5c"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Mistral AI new model release Mixtral weights",
-      "run_count": 26,
+      "run_count": 27,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "openai-releases": {
       "category": "major-lab",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "08d294d560e6cfc890f00678c3efa48e",
         "8782ed5e2f18ad863acd515e66067221",
@@ -401,15 +401,15 @@
         "2027ec3aeea6e4478dca51b81266ae81",
         "93c4c40462336b8c14e392fe79573c43"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "OpenAI new model release GPT ChatGPT API announcement",
-      "run_count": 27,
+      "run_count": 28,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "qwen-releases": {
       "category": "chinese-open",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "53faffdbc8559a03b4d0793328df3f22",
         "7e078138f48011c55a1ad68dfffcc6ff",
@@ -432,16 +432,16 @@
         "91061ec140c93ad6cd9bb53303ae1032",
         "f15975f0217c16560e48a977ecd769f5"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Alibaba Qwen new model release 3 3.5 weights API Tongyi",
-      "run_count": 26,
+      "run_count": 27,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "sakana-releases": {
       "category": "auto-discovered",
       "discovered_at_cycle": 3,
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "sakana-fugu-release-2026-06-23",
         "09fcac3a6222663ba2695fc318941b0d",
@@ -464,16 +464,16 @@
         "d90c60f59dbf7b44c42b6447c2c238b0",
         "350d16bc6ea481bbfc5f6e9782252332"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Sakana AI Fugu model release Japanese lab",
-      "run_count": 28,
+      "run_count": 29,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "swiss-ai-apertus": {
       "category": "auto-discovered",
       "discovered_at_cycle": 3,
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "9d5c11a116de62032cc601aeced8d0bd",
         "apertus-sovereign-ai-2026-06-22",
@@ -496,15 +496,15 @@
         "b47ca555294262a39c1dde8bde2bbf12",
         "371977220c2e2722f381877d559dd0aa"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "Swiss AI Apertus EPFL ETH Zurich multilingual open model release",
-      "run_count": 27,
+      "run_count": 28,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "xai-releases": {
       "category": "major-lab",
-      "last_checked": "2026-06-25T01:53:00Z",
+      "last_checked": "2026-06-25T04:24:56.673398Z",
       "last_result_hashes": [
         "699edfe8300d9d5597563af46404a698",
         "6c96b6e05806d5b7fdf34bebe2632811",
@@ -527,10 +527,10 @@
         "39f8d8ab96c2754246529fa230a88e4f",
         "355fd4836e5d6b2f91cca5afad820828"
       ],
-      "last_run": "2026-06-25T03:41:31.164683Z",
+      "last_run": "2026-06-25T04:24:56.673398Z",
       "last_update_hash": null,
       "query": "xAI Grok new model release API weights",
-      "run_count": 27,
+      "run_count": 28,
       "wiki_page": "entities/model-releases-tracker.md"
     }
   },
