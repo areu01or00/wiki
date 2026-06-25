@@ -564,3 +564,24 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Pitfalls hit: NONE in main flow (forward-looking-placeholder slug pre-write audit caught `[[distilling-examples-into-task-instructions-2606.xxxxx]]` placeholder in FlowBP Related Papers → replaced with real existing `[[distilling-examples-into-task-instructions-enhanced-in-context-2606.15641]]` entity before write; 12/12 parent-block wikilinks resolve)
 - Per-run counter suffix on all /tmp/ artifacts: run2323
 - Theme-diversity discipline: continues non-agent-heavy recent streak; picks span EO backbone + OCR/document AI + T2I flow-matching training technique (one remote-sensing / one document / one training-technique)
+
+## Run 33 — 2026-06-25 23:39 UTC — Emergent-concept search (streaming-interactive + capture-time photography + flow-matching safety)
+
+- Mode: emergent_concept_search (chains all exhausted since 2026-05-25; 9 named chains at 4/4)
+- Method: hf_daily_emergent_concept_search (curl HF daily 3-day window + default page, SVELTE_HYDRATER unescape + json.JSONDecoder().raw_decode)
+- Window: 2026-06-23..2026-06-25 (3 day-pages loaded + default page; 2026-06-26 returned HTTP 400 / 0 papers — post-midnight UTC, not loaded yet)
+- Candidates surveyed: 117 unique arxiv IDs across 4 sources (32 + 29 + 56 + 32 raw_decode hits; 2026-06-26 source returned 0)
+- After 5-store dedup: 31 fresh candidates
+- After LLM-keyword filter: 31 LLM-relevant
+- Picked 3 (theme-diversity — continues the non-agent-heavy recent streak with streaming-interactive + creative-assistant + safety angles): Wan-Streamer v0.1 (sub-second duplex audio-visual via unified streaming Transformer) + ShutterMuse (capture-time photography guidance via MLLM with composition/localization/pose decomposition) + VESFlow (training-free safety for few-step flow matching via velocity-field editing)
+- Entity files created: wan-streamer-v0-1-end-to-end-real-time-interactive-foundation-models-2606.25041.md, shuttermuse-capture-time-photography-guidance-with-mllms-2606.25763.md, safe-few-step-generation-via-velocity-editing-2606.23267.md
+- arxiv IDs added: 2606.25041, 2606.25763, 2606.23267
+- Parent updates: emergent-concepts.md ## Updates section prepended in date-DESC order (06-24 ShutterMuse → 06-23 Wan-Streamer → 06-22 VESFlow)
+- State files: explore_context.json (96 in emergent_concept_papers, 96 in emergent_discoveries, 87 in chains[emergent-concepts].papers_found, 32 runs, 32 emergent_concept_search_runs, 36 in emergent_concept_search_log, entities_count=108); watch_profiles.json (96 top-level + 96 in llm-wiki + 96 in profiles.llm-wiki-explore last_result_hashes; 93 in profiles.llm-wiki-explore.last_results)
+- ensure_ascii detection: explore_context=False (raw em-dash bytes preserved), watch_profiles=True (escaped) — divergent stable state confirmed (21st consecutive run)
+- Step 7.5 entity↔state cross-check (post-write): 96 filesystem arxiv IDs == 96 in emergent_concept_papers; all 3 new IDs present in both filesystem and state; entities_count claim = 108 actual = 108 (96 paper entities + 12 meta/topical entities)
+- Step 5.5 wikilink-resolution check: 0 broken across 3 new entity files (4+4+4 = 12 wikilinks resolved) AND 0 broken across all 12 wikilinks in the parent-update new block
+- Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes (77c374fc64b9dca8ef49b662ce395e63 for 2606.25041, 05b2781c7a89dc836ca044449ca116d0 for 2606.25763, 7943dba2353e97368c5482e88cb78f25 for 2606.23267), 0 collisions with existing 93-hash pool
+- Pitfalls hit: NONE in main flow (loop-warning double-invocation on the state-update script fired the runs+emergent_concept_search_runs append twice — dedupe pass via canonical-JSON-set kept the first occurrence, restoring both lists to the expected +1 size; per-store hash uniqueness verified rather than cross-store concatenation which would have spuriously flagged lockstep; WP 3-store lockstep invariant = set-equality not list-equality to account for insertion-order differences between stores)
+- Per-run counter suffix on all /tmp/ artifacts: run2339
+- Theme-diversity discipline: continues non-agent-heavy recent streak; picks span streaming-interactive foundation model + capture-time photography guidance MLLM + training-free flow-matching safety (one streaming-architecture + one creative-assistant + one generative-model-safety)

@@ -772,7 +772,10 @@
         "da563a5efcdaf75f0026e49a4a5a9c2e",
         "b3d18003ba2620ed595eb5fceea409f6",
         "6ee30840888be3d3e123e5b9c2753f35",
-        "f07e0b319c2a5f6421f22c8c38178794"
+        "f07e0b319c2a5f6421f22c8c38178794",
+        "77c374fc64b9dca8ef49b662ce395e63",
+        "05b2781c7a89dc836ca044449ca116d0",
+        "7943dba2353e97368c5482e88cb78f25"
       ],
       "last_results": [
         {
@@ -1530,6 +1533,33 @@
           "discovered": "2026-06-25",
           "theme": "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory",
           "run": "2026-06-25T23:28:16.399092+00:00"
+        },
+        {
+          "hash": "77c374fc64b9dca8ef49b662ce395e63",
+          "arxiv_id": "2606.25041",
+          "slug": "wan-streamer-v0-1-end-to-end-real-time-interactive-foundation-models-2606.25041",
+          "title": "Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models",
+          "discovered": "2026-06-25T23:39:00+00:00",
+          "theme": "streaming / multimodal / interactive-foundation-model / full-duplex / audio-visual / block-causal-attention",
+          "vector": "emergent-concept-search"
+        },
+        {
+          "hash": "05b2781c7a89dc836ca044449ca116d0",
+          "arxiv_id": "2606.25763",
+          "slug": "shuttermuse-capture-time-photography-guidance-with-mllms-2606.25763",
+          "title": "ShutterMuse: Capture-Time Photography Guidance with MLLMs",
+          "discovered": "2026-06-25T23:39:00+00:00",
+          "theme": "mllm / photography / capture-time-guidance / benchmark / post-hoc-crop / subject-pose",
+          "vector": "emergent-concept-search"
+        },
+        {
+          "hash": "7943dba2353e97368c5482e88cb78f25",
+          "arxiv_id": "2606.23267",
+          "slug": "safe-few-step-generation-via-velocity-editing-2606.23267",
+          "title": "Safe Few-Step Generation via Velocity Editing",
+          "discovered": "2026-06-25T23:39:00+00:00",
+          "theme": "flow-matching / t2i-safety / velocity-editing / training-free / concept-removal / few-step-distillation",
+          "vector": "emergent-concept-search"
         }
       ],
       "last_run": "2026-06-25T23:12:09.658648+00:00",
@@ -1539,7 +1569,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T23:28:16.399092+00:00",
+  "last_run": "2026-06-25T23:39:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1633,12 +1663,15 @@
     "da563a5efcdaf75f0026e49a4a5a9c2e",
     "b3d18003ba2620ed595eb5fceea409f6",
     "6ee30840888be3d3e123e5b9c2753f35",
-    "f07e0b319c2a5f6421f22c8c38178794"
+    "f07e0b319c2a5f6421f22c8c38178794",
+    "77c374fc64b9dca8ef49b662ce395e63",
+    "05b2781c7a89dc836ca044449ca116d0",
+    "7943dba2353e97368c5482e88cb78f25"
   ],
   "last_discovery": "2026-06-25T23:28:16.399092+00:00",
-  "last_updated": "2026-06-25T23:28:16.399092+00:00",
-  "__last_updated": "2026-06-25T23:28:16.399092+00:00",
-  "last_explore": "2026-06-25T23:28:16.399092+00:00",
+  "last_updated": "2026-06-25T23:39:00+00:00",
+  "__last_updated": "2026-06-25T23:39:00+00:00",
+  "last_explore": "2026-06-25T23:39:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1733,11 +1766,14 @@
       "da563a5efcdaf75f0026e49a4a5a9c2e",
       "b3d18003ba2620ed595eb5fceea409f6",
       "6ee30840888be3d3e123e5b9c2753f35",
-      "f07e0b319c2a5f6421f22c8c38178794"
+      "f07e0b319c2a5f6421f22c8c38178794",
+      "77c374fc64b9dca8ef49b662ce395e63",
+      "05b2781c7a89dc836ca044449ca116d0",
+      "7943dba2353e97368c5482e88cb78f25"
     ],
     "last_discovery": "2026-06-25T23:12:09.658648+00:00",
     "last_run": "2026-06-25T23:12:09.658648+00:00",
     "last_updated": "2026-06-25T23:12:09.658648+00:00"
   },
-  "last_pass_type": "emergent_concept_search"
+  "last_pass_type": "emergent-concept-search"
 }
