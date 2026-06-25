@@ -501,3 +501,24 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Pitfalls hit: NONE in main flow (NEW finding: `json.JSONDecoder().raw_decode()` with anchor `dailyPapers&quot;:` — without the [ — cleanly parses the full paper array; replaces the original 3000-char regex window heuristic; documented in references/hf-daily-parsing-recipe.md)
 - Per-run counter suffix on all /tmp/ artifacts: run2223
 - Theme-diversity discipline: continues non-agent-heavy recent streak; picks span MLLM post-training label-free + robotics safety monitoring + creative-multimodal preference-reward
+
+## Run 28 — 2026-06-25 22:43 UTC — Emergent-concept search (T2I causal-reasoning counterfactual-benchmark + DiT evaluation discipline + robotics latent-action factorize)
+
+- Mode: emergent_concept_search (chains all exhausted since 2026-05-25; 9 named chains at 4/4)
+- Method: hf_daily_emergent_concept_search (curl HF daily + default pages, SVELTE_HYDRATER unescape + raw_decode JSON-parser, LLM-keyword title filter, 5-store dedup)
+- Window: 2026-06-23..2026-06-25 (3 day-pages + default page)
+- Candidates surveyed: 117 unique arxiv IDs across 4 sources (32+29+56+32 raw_decode hits)
+- After 5-store dedup: 43 fresh candidates
+- After LLM-keyword filter: 34 LLM-relevant
+- Picked 3 (theme-diversity — continues the non-agent-heavy recent streak): T2I causal-reasoning counterfactual-benchmark + DiT evaluation discipline + robotics latent-action factorize
+- Entity files created: are-text-to-image-models-inductivist-turkeys-counterfactual-benchmark-causal-2606.24548.md, diffusionbench-holistic-evaluation-diffusion-transformers-2606.24888.md, polar-factorizing-extent-mode-latent-actions-robot-policy-2606.21139.md
+- arxiv IDs added: 2606.24548, 2606.24888, 2606.21139
+- Parent updates: emergent-concepts.md ## Updates section prepended in date-DESC order (06-24 → 06-23 → 06-19)
+- State files: explore_context.json (84 in emergent_concept_papers, 84 in emergent_discoveries, 75 in chains[emergent-concepts].papers_found, 28 runs, 28 emergent_concept_search_runs, 30 in emergent_concept_search_log, entities_count=96); watch_profiles.json (84 top-level + 84 in llm-wiki + 84 in profiles.llm-wiki-explore last_result_hashes; 81 in profiles.llm-wiki-explore.last_results)
+- ensure_ascii detection: explore_context=False (raw em-dash bytes preserved), watch_profiles=True (escaped) — divergent stable state confirmed (17th consecutive run)
+- Step 7.5 entity↔state cross-check (post-write): 84 filesystem arxiv IDs; all 3 new IDs present in both filesystem and state; entities_count claim = 96 actual = 96 (84 paper entities + 12 meta/topical entities)
+- Step 5.5 wikilink-resolution check: 0 broken across 3 new entity files (4+4+4 = 12 wikilinks resolved) AND 0 broken across all 12 wikilinks in the parent-update new block
+- Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes (c692700ad7c33fa734efab968f30d63b, 195912b6ecd39f1dfbcbbaa141ba657c, 83cc9c8c809c422bd508e4da1e1947d1), 0 collisions with existing 81-hash pool
+- Pitfalls hit: NONE in main flow (new finding: idempotent state-update pattern verified — safe_extend checks before appending; the `runs` and `emergent_concept_search_runs` fields are lists of records, not int counters — appended records with structured fields)
+- Per-run counter suffix on all /tmp/ artifacts: run2243
+- Theme-diversity discipline: continues non-agent-heavy recent streak; picks span T2I causal-reasoning eval + DiT eval discipline + robotics representation factorize

@@ -760,7 +760,10 @@
         "a8e1eb609a6c02f0f0c5b20cef835dda",
         "1269452f4f36c20ab79ea486cf76727f",
         "63e18d510ef09799036f9dbbd691a63f",
-        "35a64d42ba6526a26e604955e4366337"
+        "35a64d42ba6526a26e604955e4366337",
+        "c692700ad7c33fa734efab968f30d63b",
+        "195912b6ecd39f1dfbcbbaa141ba657c",
+        "83cc9c8c809c422bd508e4da1e1947d1"
       ],
       "last_results": [
         {
@@ -1413,6 +1416,21 @@
           "title": "Improving Text-to-Music Generation with Human Preference Rewards",
           "hash": "35a64d42ba6526a26e604955e4366337",
           "discovered": "2026-06-25"
+        },
+        {
+          "arxiv_id": "2606.24548",
+          "slug": "are-text-to-image-models-inductivist-turkeys-counterfactual-benchmark-causal-2606.24548",
+          "discovered": "2026-06-25T22:43:01.866479+00:00"
+        },
+        {
+          "arxiv_id": "2606.24888",
+          "slug": "diffusionbench-holistic-evaluation-diffusion-transformers-2606.24888",
+          "discovered": "2026-06-25T22:43:01.866479+00:00"
+        },
+        {
+          "arxiv_id": "2606.21139",
+          "slug": "polar-factorizing-extent-mode-latent-actions-robot-policy-2606.21139",
+          "discovered": "2026-06-25T22:43:01.866479+00:00"
         }
       ],
       "last_run": "2026-06-25T21:32:12.732047+00:00",
@@ -1422,7 +1440,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T22:23:00+00:00",
+  "last_run": "2026-06-25T22:43:01.866479+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1504,11 +1522,14 @@
     "a8e1eb609a6c02f0f0c5b20cef835dda",
     "1269452f4f36c20ab79ea486cf76727f",
     "63e18d510ef09799036f9dbbd691a63f",
-    "35a64d42ba6526a26e604955e4366337"
+    "35a64d42ba6526a26e604955e4366337",
+    "c692700ad7c33fa734efab968f30d63b",
+    "195912b6ecd39f1dfbcbbaa141ba657c",
+    "83cc9c8c809c422bd508e4da1e1947d1"
   ],
   "last_discovery": "2026-06-25T22:23:00+00:00",
-  "last_updated": "2026-06-25T22:23:00+00:00",
-  "__last_updated": "2026-06-25T22:23:00+00:00",
+  "last_updated": "2026-06-25T22:43:01.866479+00:00",
+  "__last_updated": "2026-06-25T22:43:01.866479+00:00",
   "last_explore": "2026-06-25T22:23:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
@@ -1592,10 +1613,14 @@
       "a8e1eb609a6c02f0f0c5b20cef835dda",
       "1269452f4f36c20ab79ea486cf76727f",
       "63e18d510ef09799036f9dbbd691a63f",
-      "35a64d42ba6526a26e604955e4366337"
+      "35a64d42ba6526a26e604955e4366337",
+      "c692700ad7c33fa734efab968f30d63b",
+      "195912b6ecd39f1dfbcbbaa141ba657c",
+      "83cc9c8c809c422bd508e4da1e1947d1"
     ],
     "last_discovery": "2026-06-25T22:08:00+00:00",
-    "last_run": "2026-06-25T22:08:00+00:00"
+    "last_run": "2026-06-25T22:43:01.866479+00:00",
+    "last_updated": "2026-06-25T22:43:01.866479+00:00"
   },
   "last_pass_type": "emergent_concept"
 }

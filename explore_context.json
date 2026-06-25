@@ -2,30 +2,30 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T22:23:00+00:00",
-  "__last_updated": "2026-06-25T22:23:00+00:00",
-  "last_run": "2026-06-25T22:23:00+00:00",
-  "last_explore": "2026-06-25T22:23:00+00:00",
-  "last_global_explore": "2026-06-25T22:23:00+00:00",
-  "last_discovery": "2026-06-25T22:23:00+00:00",
-  "last_run_framing": "theme-diversity: MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward",
-  "last_framing": "theme-diversity: MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward",
-  "last_run_notes": "3 new entity pages from emergent-concept search on HF 4-source window: V-Zero (MLLM visual-reasoning post-training label-free on-policy-distillation + contrastive-evidence-gating), Foresight (robotics long-horizon-manipulation failure-detection with action-conditioned world-model latents + conformal-prediction), Improving Text-to-Music Generation with Human Preference Rewards (ATTM ICME 2026 efficiency-track entry using TuneJury twin pairwise ranker + expert iteration on 120M FluxAudio-S). Theme-diversity: MLLM post-training + robotics safety monitoring + creative-multimodal preference — continues non-agent-heavy streak.",
+  "updated": "2026-06-25T22:42:42.604070+00:00",
+  "__last_updated": "2026-06-25T22:42:42.604070+00:00",
+  "last_run": "2026-06-25T22:42:42.604070+00:00",
+  "last_explore": "2026-06-25T22:42:42.604070+00:00",
+  "last_global_explore": "2026-06-25T22:42:42.604070+00:00",
+  "last_discovery": "2026-06-25T22:42:42.604070+00:00",
+  "last_run_framing": "theme-diversity: T2I-causal-reasoning counterfactual-benchmark + DiT-evaluation discipline + robotics-latent-action factorize",
+  "last_framing": "theme-diversity: T2I-causal-reasoning counterfactual-benchmark + DiT-evaluation discipline + robotics-latent-action factorize",
+  "last_run_notes": "3 new entity pages from emergent-concept search on HF 4-source window: DiffusionBench (DiT holistic evaluation discipline distinguishing cost-scaled T2I eval from single-anchor ImageNet-FID setup), PoLAR (robotics latent-action factorize extent-from-mode via radial geometry), Inductivist Turkeys CF-World (T2I counterfactual benchmark distinguishing causal understanding from pattern matching via Russell turkey analogy). Theme-diversity: T2I causal-reasoning eval + DiT eval discipline + robotics representation factorize — continues non-agent-heavy streak with multimodal-eval and embodied-representation angles.",
   "last_pass_type": "emergent_concept",
   "last_run_method": "hf_daily_emergent_concept_search",
   "run_method": "hf_daily_emergent_concept_search",
   "last_run_added": [
-    "2606.25319",
-    "2606.23085",
-    "2606.21670"
+    "2606.24548",
+    "2606.24888",
+    "2606.21139"
   ],
   "exploration_type": "emergent_concept_search",
-  "emergent_concept_theme": "theme-diversity: MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward",
-  "emergent_theme": "theme-diversity: MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward",
+  "emergent_concept_theme": "theme-diversity: T2I-causal-reasoning counterfactual-benchmark + DiT-evaluation discipline + robotics-latent-action factorize",
+  "emergent_theme": "theme-diversity: T2I-causal-reasoning counterfactual-benchmark + DiT-evaluation discipline + robotics-latent-action factorize",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 93,
+  "entities_count": 96,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -785,6 +785,62 @@
           "vector": "emergent_concept_search",
           "theme": "text-to-music / human-preference-reward / expert-iteration / small-budget-recipe",
           "discovered": "2026-06-25T22:23:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.24548",
+          "slug": "are-text-to-image-models-inductivist-turkeys-counterfactual-benchmark-causal-2606.24548",
+          "title": "Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning",
+          "url": "https://arxiv.org/abs/2606.24548",
+          "date": "2026/06/24",
+          "theme": "multimodal / T2I-causal-reasoning / counterfactual-benchmark",
+          "subject": "Computer Vision and Pattern Recognition (cs.CV)",
+          "authors": [
+            "Lei, Jiayi",
+            "Pu, Yuandong",
+            "Han, Xingyu",
+            "Zhu, Rongpeng",
+            "Xu, Jing",
+            "Wang, Jinyao"
+          ],
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.24888",
+          "slug": "diffusionbench-holistic-evaluation-diffusion-transformers-2606.24888",
+          "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
+          "url": "https://arxiv.org/abs/2606.24888",
+          "date": "2026/06/23",
+          "theme": "evaluation / benchmark / DiT / holistic-eval",
+          "subject": "Computer Vision and Pattern Recognition (cs.CV)",
+          "authors": [
+            "Leng, Xingjian",
+            "Singh, Jaskirat",
+            "Liang, Zhanhao",
+            "Smith, Ethan",
+            "Bell, Martin",
+            "Saha, Aninda"
+          ],
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.21139",
+          "slug": "polar-factorizing-extent-mode-latent-actions-robot-policy-2606.21139",
+          "title": "PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning",
+          "url": "https://arxiv.org/abs/2606.21139",
+          "date": "2026/06/19",
+          "theme": "robotics / latent-action-representation / factorize / flow-matching",
+          "subject": "Robotics (cs.RO)",
+          "authors": [
+            "Jeong, Youngjoon",
+            "Yu, Jihwan",
+            "Jo, Minsoo",
+            "Chun, Junha",
+            "Kim, Taesup"
+          ],
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -1503,6 +1559,62 @@
       "vector": "emergent_concept_search",
       "theme": "text-to-music / human-preference-reward / expert-iteration / small-budget-recipe",
       "discovered": "2026-06-25T22:23:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.24548",
+      "slug": "are-text-to-image-models-inductivist-turkeys-counterfactual-benchmark-causal-2606.24548",
+      "title": "Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning",
+      "url": "https://arxiv.org/abs/2606.24548",
+      "date": "2026/06/24",
+      "theme": "multimodal / T2I-causal-reasoning / counterfactual-benchmark",
+      "subject": "Computer Vision and Pattern Recognition (cs.CV)",
+      "authors": [
+        "Lei, Jiayi",
+        "Pu, Yuandong",
+        "Han, Xingyu",
+        "Zhu, Rongpeng",
+        "Xu, Jing",
+        "Wang, Jinyao"
+      ],
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.24888",
+      "slug": "diffusionbench-holistic-evaluation-diffusion-transformers-2606.24888",
+      "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2606.24888",
+      "date": "2026/06/23",
+      "theme": "evaluation / benchmark / DiT / holistic-eval",
+      "subject": "Computer Vision and Pattern Recognition (cs.CV)",
+      "authors": [
+        "Leng, Xingjian",
+        "Singh, Jaskirat",
+        "Liang, Zhanhao",
+        "Smith, Ethan",
+        "Bell, Martin",
+        "Saha, Aninda"
+      ],
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.21139",
+      "slug": "polar-factorizing-extent-mode-latent-actions-robot-policy-2606.21139",
+      "title": "PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning",
+      "url": "https://arxiv.org/abs/2606.21139",
+      "date": "2026/06/19",
+      "theme": "robotics / latent-action-representation / factorize / flow-matching",
+      "subject": "Robotics (cs.RO)",
+      "authors": [
+        "Jeong, Youngjoon",
+        "Yu, Jihwan",
+        "Jo, Minsoo",
+        "Chun, Junha",
+        "Kim, Taesup"
+      ],
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -2120,6 +2232,62 @@
       "vector": "emergent_concept_search",
       "theme": "text-to-music / human-preference-reward / expert-iteration / small-budget-recipe",
       "discovered": "2026-06-25T22:23:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.24548",
+      "slug": "are-text-to-image-models-inductivist-turkeys-counterfactual-benchmark-causal-2606.24548",
+      "title": "Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning",
+      "url": "https://arxiv.org/abs/2606.24548",
+      "date": "2026/06/24",
+      "theme": "multimodal / T2I-causal-reasoning / counterfactual-benchmark",
+      "subject": "Computer Vision and Pattern Recognition (cs.CV)",
+      "authors": [
+        "Lei, Jiayi",
+        "Pu, Yuandong",
+        "Han, Xingyu",
+        "Zhu, Rongpeng",
+        "Xu, Jing",
+        "Wang, Jinyao"
+      ],
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.24888",
+      "slug": "diffusionbench-holistic-evaluation-diffusion-transformers-2606.24888",
+      "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2606.24888",
+      "date": "2026/06/23",
+      "theme": "evaluation / benchmark / DiT / holistic-eval",
+      "subject": "Computer Vision and Pattern Recognition (cs.CV)",
+      "authors": [
+        "Leng, Xingjian",
+        "Singh, Jaskirat",
+        "Liang, Zhanhao",
+        "Smith, Ethan",
+        "Bell, Martin",
+        "Saha, Aninda"
+      ],
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.21139",
+      "slug": "polar-factorizing-extent-mode-latent-actions-robot-policy-2606.21139",
+      "title": "PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning",
+      "url": "https://arxiv.org/abs/2606.21139",
+      "date": "2026/06/19",
+      "theme": "robotics / latent-action-representation / factorize / flow-matching",
+      "subject": "Robotics (cs.RO)",
+      "authors": [
+        "Jeong, Youngjoon",
+        "Yu, Jihwan",
+        "Jo, Minsoo",
+        "Chun, Junha",
+        "Kim, Taesup"
+      ],
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_concept_search_log": [
@@ -2601,6 +2769,27 @@
         "2606.21670"
       ],
       "theme": "MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward"
+    },
+    {
+      "run_id": "run2243_2026-06-25T22:42",
+      "timestamp": "2026-06-25T22:42:42.604070+00:00",
+      "method": "hf_daily_emergent_concept_search",
+      "window": "2026-06-23..2026-06-25",
+      "candidates_surveyed": 117,
+      "candidates_after_dedup": 43,
+      "candidates_llm_relevant": 34,
+      "picks": [
+        "2606.24548",
+        "2606.24888",
+        "2606.21139"
+      ],
+      "themes": [
+        "multimodal / T2I-causal-reasoning / counterfactual-benchmark",
+        "evaluation / benchmark / DiT / holistic-eval",
+        "robotics / latent-action-representation / factorize / flow-matching"
+      ],
+      "framing": "theme-diversity: T2I-causal-reasoning counterfactual-benchmark + DiT-evaluation discipline + robotics-latent-action factorize",
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "emergent_concept_search_runs": [
@@ -3030,6 +3219,28 @@
       "count": 3,
       "method": "hf_daily_emergent_concept_search",
       "theme": "MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward"
+    },
+    {
+      "ts": "2026-06-25T22:42:42.604070+00:00",
+      "method": "hf_daily_emergent_concept_search (curl HF daily + default pages, SVELTE_HYDRATER unescape + raw_decode JSON-parser, LLM-keyword title filter, 5-store dedup)",
+      "papers": [
+        "2606.24548",
+        "2606.24888",
+        "2606.21139"
+      ],
+      "slugs": [
+        "are-text-to-image-models-inductivist-turkeys-counterfactual-benchmark-causal-2606.24548",
+        "diffusionbench-holistic-evaluation-diffusion-transformers-2606.24888",
+        "polar-factorizing-extent-mode-latent-actions-robot-policy-2606.21139"
+      ],
+      "themes": [
+        "multimodal / T2I-causal-reasoning / counterfactual-benchmark",
+        "evaluation / benchmark / DiT / holistic-eval",
+        "robotics / latent-action-representation / factorize / flow-matching"
+      ],
+      "thematic_framing": "theme-diversity: T2I causal-reasoning counterfactual-benchmark + DiT evaluation discipline + robotics latent-action factorize",
+      "dedup_rate": "117 raw HF candidates across 4 sources → 43 fresh after 5-store dedup → 34 LLM-relevant",
+      "pitfalls_hit": "NONE in main flow (new finding: ensure_ascii divergent stable state confirmed; 3-store lockstep path schema verified; wikilink audit covers both entity files AND parent-update new block)"
     }
   ],
   "runs": [
@@ -3324,6 +3535,18 @@
       ],
       "count": 3,
       "notes": "3 new entity pages from emergent-concept search on HF 4-source window (2026-06-25 / 2026-06-24 / 2026-06-23 / default): V-Zero (MLLM post-training label-free on-policy-distillation + contrastive-evidence-gating), Foresight (robotics long-horizon-manipulation failure-detection with action-conditioned world-model latents + conformal-prediction calibration), Improving Text-to-Music Generation with Human Preference Rewards (ATTM ICME 2026 efficiency-track entry using TuneJury twin pairwise ranker + expert iteration on a 120M FluxAudio-S backbone). Theme-diversity: MLLM post-training + robotics safety monitoring + creative-multimodal preference — continues non-agent-heavy streak."
+    },
+    {
+      "timestamp": "2026-06-25T22:42:42.604070+00:00",
+      "mode": "emergent_concept",
+      "theme": "T2I causal-reasoning counterfactual-benchmark + DiT evaluation discipline + robotics latent-action factorize",
+      "papers_added": [
+        "are-text-to-image-models-inductivist-turkeys-counterfactual-benchmark-causal-2606.24548",
+        "diffusionbench-holistic-evaluation-diffusion-transformers-2606.24888",
+        "polar-factorizing-extent-mode-latent-actions-robot-policy-2606.21139"
+      ],
+      "entities_count_after": 96,
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "last_updated": "2026-06-25T22:08:00+00:00",
