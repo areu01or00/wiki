@@ -1,3 +1,12 @@
+- **2026-06-25** | [Software - Wikipedia](https://en.m.wikipedia.org/wiki/Software) | kw: Software
+- **2026-06-25** | [Coding interviews: Everything you need to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/) | kw: Coding
+- **2026-06-25** | [jwasham/coding-interview-university: A complete computer science study ...](https://github.com/jwasham/coding-interview-university) | kw: jwasham/coding-interview-university
+- **2026-06-25** | [A Comprehensive Guide to Preparing for the Software Engineering Interview](https://medium.com/@javisth/a-comprehensive-guide-to-preparing-for-the-software-engineering-interview-edad093c3b4) | kw: Comprehensive
+- **2026-06-25** | [Anonymous Coding & Technical Interview Prep for Software ...](https://interviewing.io/) | kw: Anonymous
+- **2026-06-25** | [How to Rock the Coding Interview – Tips That Helped Me Land Job ...](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/) | kw: Rock
+- **2026-06-25** | [AlgoExpert | Ace the Coding Interviews](https://www.algoexpert.io/product) | kw: AlgoExpert
+- **2026-06-25** | [yangshun/tech-interview-handbook - GitHub](https://github.com/yangshun/tech-interview-handbook) | kw: yangshun/tech-interview-handbook
+
 - **2026-06-25** | [Unexpected end of JSON input - Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Unexpected end of JSON input
 - **2026-06-25** | [I Tried 30+ Data Structures and Algorithms Courses - Medium](https://medium.com/javarevisited/i-tried-30-data-structures-and-algorithms-courses-here-are-my-top-5-recommendations-for-2026-124e64b5cf4c) | kw: I Tried 30+ Data Structures and Algorithms Courses
 - **2026-06-25** | [Top 100 Data Structure and Algorithms DSA Interview ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top 100 Data Structure and Algorithms DSA Intervie
