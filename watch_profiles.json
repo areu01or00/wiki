@@ -736,7 +736,10 @@
         "34b716c0c1cef5bb98920f93d16b1bd9",
         "32922e6a20cc8dbc1f7ef7d922e90c35",
         "0ad40d7acca10892766914088f90a88a",
-        "65b5ca74e9622aefa917c0bacb1a2b4a"
+        "65b5ca74e9622aefa917c0bacb1a2b4a",
+        "bfba1d85bf72de5fd92773fb28842997",
+        "a24c622d439cba5906414243683af474",
+        "a90e687e7f41e3249dc57fdfd585623d"
       ],
       "last_results": [
         {
@@ -1206,11 +1209,26 @@
           "theme": "LLM safety / open-weight deployment / capability separation",
           "vector": "emergent_concept_search",
           "discovered": "2026-06-25T20:29:46.633598+00:00"
+        },
+        {
+          "arxiv_id": "2606.19409",
+          "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+          "url": "https://arxiv.org/abs/2606.19409"
+        },
+        {
+          "arxiv_id": "2606.19750",
+          "title": "Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models",
+          "url": "https://arxiv.org/abs/2606.19750"
+        },
+        {
+          "arxiv_id": "2606.23608",
+          "title": "Causal Discovery in the Era of Agents",
+          "url": "https://arxiv.org/abs/2606.23608"
         }
       ],
-      "last_run": "2026-06-25T20:29:46.633598+00:00",
-      "last_updated": "2026-06-25T20:29:46.633598+00:00",
-      "last_result_timestamp": "2026-06-25T20:29:46.633598+00:00",
+      "last_run": "2026-06-25T20:45:00+00:00",
+      "last_updated": "2026-06-25T20:45:00+00:00",
+      "last_result_timestamp": "2026-06-25T20:45:00+00:00",
       "last_run_key": "emergent_concept:2026-06-25T20:29:46.633598+00:00",
       "last_pass_type": "emergent_concept"
     }
@@ -1273,7 +1291,10 @@
     "34b716c0c1cef5bb98920f93d16b1bd9",
     "32922e6a20cc8dbc1f7ef7d922e90c35",
     "0ad40d7acca10892766914088f90a88a",
-    "65b5ca74e9622aefa917c0bacb1a2b4a"
+    "65b5ca74e9622aefa917c0bacb1a2b4a",
+    "bfba1d85bf72de5fd92773fb28842997",
+    "a24c622d439cba5906414243683af474",
+    "a90e687e7f41e3249dc57fdfd585623d"
   ],
   "last_discovery": "2026-06-25T20:29:46.633598+00:00",
   "last_updated": "2026-06-25T20:29:46.633598+00:00",
@@ -1337,7 +1358,10 @@
       "34b716c0c1cef5bb98920f93d16b1bd9",
       "32922e6a20cc8dbc1f7ef7d922e90c35",
       "0ad40d7acca10892766914088f90a88a",
-      "65b5ca74e9622aefa917c0bacb1a2b4a"
+      "65b5ca74e9622aefa917c0bacb1a2b4a",
+      "bfba1d85bf72de5fd92773fb28842997",
+      "a24c622d439cba5906414243683af474",
+      "a90e687e7f41e3249dc57fdfd585623d"
     ],
     "last_discovery": "2026-06-25T20:29:46.633598+00:00",
     "last_run": "2026-06-25T20:29:46.633598+00:00"

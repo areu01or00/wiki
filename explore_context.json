@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T20:29:46.633598+00:00",
-  "__last_updated": "2026-06-25T20:29:46.633598+00:00",
-  "last_run": "2026-06-25T20:29:46.633598+00:00",
-  "last_explore": "2026-06-25T20:29:46.633598+00:00",
-  "last_global_explore": "2026-06-25T20:29:46.633598+00:00",
-  "last_discovery": "2026-06-25T20:29:46.633598+00:00",
-  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_agentic-systems-practitioner-reference+LLM-agent-training-data+LLM-safety",
-  "last_framing": "explore_agent_emergent_concept_search_3_papers_agentic-systems-practitioner-reference+LLM-agent-training-data+LLM-safety",
-  "last_run_notes": "Explore: 3 new entity pages from emergent-concept search on HuggingFace 3-day window (2026-06-23..2026-06-25). Picks: The Hitchhiker's Guide to Agentic AI: From Foundations to Sy (2606.24937, Artificial Intelligence () / CLI-Universe: Towards Verifiable Task Synthesis Engine for T (2606.22883, Artificial Intelligence () / Toward Open Weight Models Without Risks: Separating Public a (2606.21638, Cryptography and Security). After 6-store cross-dedup, 26 of 78 HF non-CV candidates were fresh (67% pre-existing rate consistent with healthy wiki state). scripts/ missing (pitfall 65) — used custom /tmp/hf_discover_run2023.py.",
+  "updated": "2026-06-25T20:45:00+00:00",
+  "__last_updated": "2026-06-25T20:45:00+00:00",
+  "last_run": "2026-06-25T20:45:00+00:00",
+  "last_explore": "2026-06-25T20:45:00+00:00",
+  "last_global_explore": "2026-06-25T20:45:00+00:00",
+  "last_discovery": "2026-06-25T20:45:00+00:00",
+  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_agent-runtime-substrate+LLM-RL-curriculum-geometry+LLM-causal-discovery-audit",
+  "last_framing": "explore_agent_emergent_concept_search_3_papers_agent-runtime-substrate+LLM-RL-curriculum-geometry+LLM-causal-discovery-audit",
+  "last_run_notes": "Explore: 3 new entity pages from emergent-concept search on HF 3-day window (2026-06-23..2026-06-25). Picks: OpenRath: Session-Centered Runtime State for Agent Systems (2606.19409, Software Engineering) / Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models (2606.19750, Machine Learning) / Causal Discovery in the Era of Agents (2606.23608, Artificial Intelligence). After 5-store cross-dedup, 3 of 38 HF LLM-relevant candidates were fresh (92% pre-existing rate consistent with mature wiki state; entity count now 72). All 3 new papers pass wikilink-resolution check (Step 5.5) and subject filter (cs.SE/cs.LG/cs.AI only).",
   "last_pass_type": "emergent_concept",
-  "last_run_method": "HuggingFace daily papers (curl + regex parse) + strict subject filter + 6-store cross-dedup + arxiv_meta",
+  "last_run_method": "HuggingFace daily papers (curl + regex parse) + strict subject filter + 5-store cross-dedup + arxiv_meta",
   "run_method": "hf_daily_papers + arxiv_meta",
   "last_run_added": 3,
   "exploration_type": "emergent_concept_search",
-  "emergent_concept_theme": "agentic-systems practitioner reference + terminal-agent verifiable task synthesis + open-weight capability separation",
-  "emergent_theme": "agentic-systems practitioner reference / cross-layer systems engineering / LLM agent training-data / terminal-agent verifiable task synthesis / LLM safety / open-weight deployment / capability separation",
+  "emergent_concept_theme": "agent-runtime substrate (PyTorch-like session model) + LLM RL curriculum geometry (Bayesian optimization over problem manifold) + LLM-augmented causal-discovery (epistemological audit of LM-as-causal-scientist framing)",
+  "emergent_theme": "agent-runtime substrate / PyTorch-like session model / multi-agent state consolidation / LLM RL curriculum geometry / Bayesian optimization over problem difficulty manifold / LLM-augmented causal-discovery / epistemological audit / LM-imitation-as-causal-evidence failure mode",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 69,
+  "entities_count": 72,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -607,6 +607,36 @@
           "theme": "LLM reasoning / self-distillation / RL-training-method",
           "vector": "emergent_concept_search",
           "discovered": "2026-06-25T20:14:53.048457+00:00"
+        },
+        {
+          "arxiv_id": "2606.19409",
+          "slug": "openrath-session-centered-runtime-state-for-agent-systems-2606.19409",
+          "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+          "url": "https://arxiv.org/abs/2606.19409",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:45:00+00:00",
+          "theme": "agent-runtime substrate / session-model / first-class-state abstraction",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.19750",
+          "slug": "manifold-bandits-bayesian-curriculum-learning-over-the-latent-geometry-of-large-language-models-2606.19750",
+          "title": "Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models",
+          "url": "https://arxiv.org/abs/2606.19750",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:45:00+00:00",
+          "theme": "LLM RL training efficiency / curriculum-learning geometry / Bayesian-optimization-over-difficulty",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.23608",
+          "slug": "causal-discovery-in-the-era-of-agents-2606.23608",
+          "title": "Causal Discovery in the Era of Agents",
+          "url": "https://arxiv.org/abs/2606.23608",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:45:00+00:00",
+          "theme": "LLM-augmented causal-discovery / epistemological-audit / agentic-scientific-reasoning",
+          "chain": "emergent-concepts"
         }
       ],
       "last_run": "2026-06-25T20:14:53.048457+00:00",
@@ -1151,6 +1181,36 @@
       "theme": "LLM safety / open-weight deployment / capability separation",
       "vector": "emergent_concept_search",
       "discovered": "2026-06-25T20:29:46.633598+00:00"
+    },
+    {
+      "arxiv_id": "2606.19409",
+      "slug": "openrath-session-centered-runtime-state-for-agent-systems-2606.19409",
+      "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+      "url": "https://arxiv.org/abs/2606.19409",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:45:00+00:00",
+      "subject": "Software Engineering (cs.SE)",
+      "theme": "agent-runtime substrate / session-model / first-class-state abstraction"
+    },
+    {
+      "arxiv_id": "2606.19750",
+      "slug": "manifold-bandits-bayesian-curriculum-learning-over-the-latent-geometry-of-large-language-models-2606.19750",
+      "title": "Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models",
+      "url": "https://arxiv.org/abs/2606.19750",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:45:00+00:00",
+      "subject": "Machine Learning (cs.LG)",
+      "theme": "LLM RL training efficiency / curriculum-learning geometry / Bayesian-optimization-over-difficulty"
+    },
+    {
+      "arxiv_id": "2606.23608",
+      "slug": "causal-discovery-in-the-era-of-agents-2606.23608",
+      "title": "Causal Discovery in the Era of Agents",
+      "url": "https://arxiv.org/abs/2606.23608",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:45:00+00:00",
+      "subject": "Artificial Intelligence (cs.AI)",
+      "theme": "LLM-augmented causal-discovery / epistemological-audit / agentic-scientific-reasoning"
     }
   ],
   "emergent_discoveries": [
@@ -1624,6 +1684,33 @@
       "url": "https://arxiv.org/abs/2606.21638",
       "discovered": "2026-06-25T20:29:46.633598+00:00",
       "theme": "LLM safety / open-weight deployment / capability separation"
+    },
+    {
+      "arxiv_id": "2606.19409",
+      "slug": "openrath-session-centered-runtime-state-for-agent-systems-2606.19409",
+      "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+      "url": "https://arxiv.org/abs/2606.19409",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:45:00+00:00",
+      "theme": "agent-runtime substrate / session-model / first-class-state abstraction"
+    },
+    {
+      "arxiv_id": "2606.19750",
+      "slug": "manifold-bandits-bayesian-curriculum-learning-over-the-latent-geometry-of-large-language-models-2606.19750",
+      "title": "Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models",
+      "url": "https://arxiv.org/abs/2606.19750",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:45:00+00:00",
+      "theme": "LLM RL training efficiency / curriculum-learning geometry / Bayesian-optimization-over-difficulty"
+    },
+    {
+      "arxiv_id": "2606.23608",
+      "slug": "causal-discovery-in-the-era-of-agents-2606.23608",
+      "title": "Causal Discovery in the Era of Agents",
+      "url": "https://arxiv.org/abs/2606.23608",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:45:00+00:00",
+      "theme": "LLM-augmented causal-discovery / epistemological-audit / agentic-scientific-reasoning"
     }
   ],
   "emergent_concept_search_log": [
@@ -1937,6 +2024,38 @@
         "agentic-systems practitioner reference / cross-layer systems engineering",
         "LLM agent training-data / terminal-agent verifiable task synthesis",
         "LLM safety / open-weight deployment / capability separation"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T20:45:00+00:00",
+      "mode": "emergent-concept-search",
+      "method": "HF daily papers 3-day window (2026-06-23..25) + strict subject non-CV filter + 5-store dedup",
+      "candidates_surveyed": 110,
+      "candidates_after_subject_filter": 38,
+      "candidates_fresh_after_dedup": 3,
+      "papers_added": 3,
+      "picks": [
+        {
+          "arxiv_id": "2606.19409",
+          "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+          "subject": "cs.SE",
+          "date": "2026-06-17",
+          "theme": "agent-runtime substrate / session-model"
+        },
+        {
+          "arxiv_id": "2606.19750",
+          "title": "Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models",
+          "subject": "cs.LG",
+          "date": "2026-06-18",
+          "theme": "LLM RL training efficiency / curriculum-learning geometry"
+        },
+        {
+          "arxiv_id": "2606.23608",
+          "title": "Causal Discovery in the Era of Agents",
+          "subject": "cs.AI",
+          "date": "2026-06-22",
+          "theme": "LLM-augmented causal-discovery / epistemological-audit"
+        }
       ]
     }
   ],
@@ -2265,6 +2384,11 @@
       ],
       "thematic_framing": "agentic-systems practitioner reference + terminal-agent verifiable task synthesis + open-weight capability separation",
       "dedup_rate": "78 non-CV HF candidates -> 26 fresh after 6-store dedup (67% pre-existing); 3 picked all fresh"
+    },
+    {
+      "timestamp": "2026-06-25T20:45:00+00:00",
+      "papers_added": 3,
+      "theme": "agent-runtime substrate / LLM RL curriculum geometry / LLM-augmented causal-discovery audit"
     }
   ],
   "runs": [
@@ -2462,6 +2586,13 @@
         "cli-universe-towards-verifiable-task-synthesis-engine-for-terminal-agents-2606.22883",
         "toward-open-weight-models-without-risks-separating-public-and-private-capabilities-in-llms-2606.21638"
       ]
+    },
+    {
+      "timestamp": "2026-06-25T20:45:00+00:00",
+      "type": "emergent_concept_search",
+      "method": "hf_daily_papers + arxiv_meta",
+      "papers_added": 3,
+      "themes": "agent-runtime substrate / LLM RL curriculum geometry / LLM-augmented causal-discovery audit"
     }
   ],
   "last_updated": "2026-06-25T19:25:00+00:00",
