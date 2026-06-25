@@ -739,7 +739,10 @@
         "65b5ca74e9622aefa917c0bacb1a2b4a",
         "bfba1d85bf72de5fd92773fb28842997",
         "a24c622d439cba5906414243683af474",
-        "a90e687e7f41e3249dc57fdfd585623d"
+        "a90e687e7f41e3249dc57fdfd585623d",
+        "c11196b43e09394d87a5c4e324758d18",
+        "d6e95be5647b0889952fdd87d5e40abe",
+        "65890a4fcd46da700a3d5e278d503fa0"
       ],
       "last_results": [
         {
@@ -1224,6 +1227,33 @@
           "arxiv_id": "2606.23608",
           "title": "Causal Discovery in the Era of Agents",
           "url": "https://arxiv.org/abs/2606.23608"
+        },
+        {
+          "arxiv_id": "2606.18829",
+          "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+          "hash": "c11196b43e09394d87a5c4e324758d18",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM agent memory / multi-principal / access control / shared memory governance",
+          "discovered": "2026-06-25T20:58:00.754440+00:00"
+        },
+        {
+          "arxiv_id": "2606.18381",
+          "title": "SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG",
+          "hash": "d6e95be5647b0889952fdd87d5e40abe",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM RAG / hierarchical retrieval / attention-guided / progressive embeddings",
+          "discovered": "2026-06-25T20:58:00.754440+00:00"
+        },
+        {
+          "arxiv_id": "2606.12871",
+          "title": "DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks",
+          "hash": "65890a4fcd46da700a3d5e278d503fa0",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM agent evaluation / search-agent benchmark / open-ended task suite",
+          "discovered": "2026-06-25T20:58:00.754440+00:00"
         }
       ],
       "last_run": "2026-06-25T20:45:00+00:00",
@@ -1294,12 +1324,15 @@
     "65b5ca74e9622aefa917c0bacb1a2b4a",
     "bfba1d85bf72de5fd92773fb28842997",
     "a24c622d439cba5906414243683af474",
-    "a90e687e7f41e3249dc57fdfd585623d"
+    "a90e687e7f41e3249dc57fdfd585623d",
+    "c11196b43e09394d87a5c4e324758d18",
+    "d6e95be5647b0889952fdd87d5e40abe",
+    "65890a4fcd46da700a3d5e278d503fa0"
   ],
-  "last_discovery": "2026-06-25T20:29:46.633598+00:00",
+  "last_discovery": "2026-06-25T20:58:00.754440+00:00",
   "last_updated": "2026-06-25T20:29:46.633598+00:00",
   "__last_updated": "2026-06-25T20:29:46.633598+00:00",
-  "last_explore": "2026-06-25T20:29:46.633598+00:00",
+  "last_explore": "2026-06-25T20:58:00.754440+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1361,7 +1394,10 @@
       "65b5ca74e9622aefa917c0bacb1a2b4a",
       "bfba1d85bf72de5fd92773fb28842997",
       "a24c622d439cba5906414243683af474",
-      "a90e687e7f41e3249dc57fdfd585623d"
+      "a90e687e7f41e3249dc57fdfd585623d",
+      "c11196b43e09394d87a5c4e324758d18",
+      "d6e95be5647b0889952fdd87d5e40abe",
+      "65890a4fcd46da700a3d5e278d503fa0"
     ],
     "last_discovery": "2026-06-25T20:29:46.633598+00:00",
     "last_run": "2026-06-25T20:29:46.633598+00:00"

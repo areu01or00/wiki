@@ -4,9 +4,9 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-25T20:45:00+00:00",
   "__last_updated": "2026-06-25T20:45:00+00:00",
-  "last_run": "2026-06-25T20:45:00+00:00",
+  "last_run": "2026-06-25T20:58:00.754440+00:00",
   "last_explore": "2026-06-25T20:45:00+00:00",
-  "last_global_explore": "2026-06-25T20:45:00+00:00",
+  "last_global_explore": "2026-06-25T20:58:00.754440+00:00",
   "last_discovery": "2026-06-25T20:45:00+00:00",
   "last_run_framing": "explore_agent_emergent_concept_search_3_papers_agent-runtime-substrate+LLM-RL-curriculum-geometry+LLM-causal-discovery-audit",
   "last_framing": "explore_agent_emergent_concept_search_3_papers_agent-runtime-substrate+LLM-RL-curriculum-geometry+LLM-causal-discovery-audit",
@@ -21,7 +21,7 @@
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 72,
+  "entities_count": 75,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -637,6 +637,36 @@
           "discovered": "2026-06-25T20:45:00+00:00",
           "theme": "LLM-augmented causal-discovery / epistemological-audit / agentic-scientific-reasoning",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.18829",
+          "slug": "gatemem-benchmarking-memory-governance-in-multi-principal-shared-memory-agents-2606.18829",
+          "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+          "url": "https://arxiv.org/abs/2606.18829",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:58:00.754440+00:00",
+          "subject": "Machine Learning (cs.LG)",
+          "theme": "LLM agent memory / multi-principal / access control / shared memory governance"
+        },
+        {
+          "arxiv_id": "2606.18381",
+          "slug": "sproutrag-attention-guided-tree-search-with-progressive-embeddings-for-long-2606.18381",
+          "title": "SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG",
+          "url": "https://arxiv.org/abs/2606.18381",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:58:00.754440+00:00",
+          "subject": "Computation and Language (cs.CL)",
+          "theme": "LLM RAG / hierarchical retrieval / attention-guided / progressive embeddings"
+        },
+        {
+          "arxiv_id": "2606.12871",
+          "slug": "dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-2606.12871",
+          "title": "DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks",
+          "url": "https://arxiv.org/abs/2606.12871",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T20:58:00.754440+00:00",
+          "subject": "Artificial Intelligence (cs.AI)",
+          "theme": "LLM agent evaluation / search-agent benchmark / open-ended task suite"
         }
       ],
       "last_run": "2026-06-25T20:14:53.048457+00:00",
@@ -1211,6 +1241,36 @@
       "discovered": "2026-06-25T20:45:00+00:00",
       "subject": "Artificial Intelligence (cs.AI)",
       "theme": "LLM-augmented causal-discovery / epistemological-audit / agentic-scientific-reasoning"
+    },
+    {
+      "arxiv_id": "2606.18829",
+      "slug": "gatemem-benchmarking-memory-governance-in-multi-principal-shared-memory-agents-2606.18829",
+      "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+      "url": "https://arxiv.org/abs/2606.18829",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:58:00.754440+00:00",
+      "subject": "Machine Learning (cs.LG)",
+      "theme": "LLM agent memory / multi-principal / access control / shared memory governance"
+    },
+    {
+      "arxiv_id": "2606.18381",
+      "slug": "sproutrag-attention-guided-tree-search-with-progressive-embeddings-for-long-2606.18381",
+      "title": "SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG",
+      "url": "https://arxiv.org/abs/2606.18381",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:58:00.754440+00:00",
+      "subject": "Computation and Language (cs.CL)",
+      "theme": "LLM RAG / hierarchical retrieval / attention-guided / progressive embeddings"
+    },
+    {
+      "arxiv_id": "2606.12871",
+      "slug": "dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-2606.12871",
+      "title": "DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks",
+      "url": "https://arxiv.org/abs/2606.12871",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T20:58:00.754440+00:00",
+      "subject": "Artificial Intelligence (cs.AI)",
+      "theme": "LLM agent evaluation / search-agent benchmark / open-ended task suite"
     }
   ],
   "emergent_discoveries": [
@@ -1711,7 +1771,10 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-25T20:45:00+00:00",
       "theme": "LLM-augmented causal-discovery / epistemological-audit / agentic-scientific-reasoning"
-    }
+    },
+    "gatemem-benchmarking-memory-governance-in-multi-principal-shared-memory-agents-2606.18829",
+    "sproutrag-attention-guided-tree-search-with-progressive-embeddings-for-long-2606.18381",
+    "dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-2606.12871"
   ],
   "emergent_concept_search_log": [
     {
@@ -2057,6 +2120,25 @@
           "theme": "LLM-augmented causal-discovery / epistemological-audit"
         }
       ]
+    },
+    {
+      "timestamp": "2026-06-25T20:58:00.754440+00:00",
+      "mode": "emergent_concept",
+      "theme": "LLM agent memory governance / hierarchical RAG / open-ended search-agent benchmark",
+      "candidates_discovered": 93,
+      "candidates_after_subject_filter": 20,
+      "candidates_after_5store_dedup": 20,
+      "papers_added": 3,
+      "arxiv_ids": [
+        "2606.18829",
+        "2606.18381",
+        "2606.12871"
+      ],
+      "slugs": [
+        "gatemem-benchmarking-memory-governance-in-multi-principal-shared-memory-agents-2606.18829",
+        "sproutrag-attention-guided-tree-search-with-progressive-embeddings-for-long-2606.18381",
+        "dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-2606.12871"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -2389,6 +2471,13 @@
       "timestamp": "2026-06-25T20:45:00+00:00",
       "papers_added": 3,
       "theme": "agent-runtime substrate / LLM RL curriculum geometry / LLM-augmented causal-discovery audit"
+    },
+    {
+      "timestamp": "2026-06-25T20:58:00.754440+00:00",
+      "type": "emergent_concept_search",
+      "method": "hf_daily_papers + arxiv_meta",
+      "papers_added": 3,
+      "themes": "LLM agent memory governance / hierarchical RAG with attention-guided progressive embeddings / open-ended search-agent benchmark"
     }
   ],
   "runs": [
@@ -2593,6 +2682,13 @@
       "method": "hf_daily_papers + arxiv_meta",
       "papers_added": 3,
       "themes": "agent-runtime substrate / LLM RL curriculum geometry / LLM-augmented causal-discovery audit"
+    },
+    {
+      "timestamp": "2026-06-25T20:58:00.754440+00:00",
+      "type": "emergent_concept_search",
+      "method": "hf_daily_papers + arxiv_meta",
+      "papers_added": 3,
+      "themes": "LLM agent memory governance / hierarchical RAG with attention-guided progressive embeddings / open-ended search-agent benchmark"
     }
   ],
   "last_updated": "2026-06-25T19:25:00+00:00",
