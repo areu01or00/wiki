@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [The 2026 EuroLLVM Developers' Meeting - hotcrp.llvm.org](https://hotcrp.llvm.org/eurollvm2026/) | kw: eurollvm, developers, meeting
+- **2026-06-25** | [2026 European LLVM Developers' Meeting](https://llvm.swoogo.com/2026eurollvm/) | kw: european, llvm, developers
+- **2026-06-25** | [Releases · llvm/llvm-project - GitHub](https://github.com/llvm/llvm-project/releases) | kw: releases, llvm, project
+
 - **2026-06-25** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
 - **2026-06-25** | [2026 US LLVM Developers' Meeting](https://llvm.org/devmtg/2026-10/) | kw: 2026 US LLVM Developers' Meeting
 - **2026-06-25** | [LTS2026 is (finally) out : r/gamemaker - Reddit](https://www.reddit.com/r/gamemaker/comments/1tjqdro/lts2026_is_finally_out/) | kw: LTS2026 is (finally) out

@@ -1,3 +1,8 @@
+- **2026-06-25** | [LeFUNK 2026 Leipzig Workshop on Functional Programming](https://discourse.haskell.org/t/lefunk-2026-leipzig-workshop-on-functional-programming/14296) | kw: lefunk, leipzig, workshop
+- **2026-06-25** | [PLDI 2026 - PLDI Keynotes](https://pldi26.sigplan.org/track/pldi-2026-pldi-keynotes) | kw: pldi, keynotes
+- **2026-06-25** | [PLDI conference series - PLDI 2027](https://conf.researchr.org/series/pldi) | kw: pldi, conference, series
+- **2026-06-25** | [Functional Computational Thinking — What is a monad? | HackerNoon](https://hackernoon.com/functional-computational-thinking-what-is-a-monad-2adea91154e) | kw: functional, computational, thinking
+
 - **2026-06-25** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming)
 - **2026-06-25** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for 2026
 - **2026-06-25** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Good tutorial/book about functional programming?
