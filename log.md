@@ -585,3 +585,25 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Pitfalls hit: NONE in main flow (loop-warning double-invocation on the state-update script fired the runs+emergent_concept_search_runs append twice — dedupe pass via canonical-JSON-set kept the first occurrence, restoring both lists to the expected +1 size; per-store hash uniqueness verified rather than cross-store concatenation which would have spuriously flagged lockstep; WP 3-store lockstep invariant = set-equality not list-equality to account for insertion-order differences between stores)
 - Per-run counter suffix on all /tmp/ artifacts: run2339
 - Theme-diversity discipline: continues non-agent-heavy recent streak; picks span streaming-interactive foundation model + capture-time photography guidance MLLM + training-free flow-matching safety (one streaming-architecture + one creative-assistant + one generative-model-safety)
+
+## Run 34 — 2026-06-25 23:53 UTC — Emergent-concept search (mobile GUI agent + linear-probe interpretability + CUA safety)
+
+- Mode: emergent_concept_search (chains all exhausted since 2026-05-25; 9 named chains at 4/4)
+- Method: hf_daily_emergent_concept_search (curl HF daily 3-day window + default page, SVELTE_HYDRATER unescape + json.JSONDecoder().raw_decode)
+- Window: 2026-06-23..2026-06-25 (3 day-pages + default page)
+- Candidates surveyed: 117 unique arxiv IDs across 4 sources
+- After 5-store dedup (top-level last_result_hashes + llm-wiki + profiles.llm-wiki-explore.last_result_hashes + profiles.llm-wiki-explore.last_results + chains.emergent-concepts.papers_found + filesystem entities): 28 fresh candidates
+- After LLM-keyword filter: 28 LLM-relevant (varied mix: GUI agents / probing / T2V / 3D / robotics / safety)
+- Picked 3 (theme-diversity — breaks the diffusion/video-heavy 5-run streak with NLP/interpretability + mobile-GUI + CUA-safety angles): MemGUI-Agent (end-to-end long-horizon mobile GUI agent via Context-as-Action policy) + Comparing Linear Probes with Mahalanobis Cosine Similarity (probe-comparison metric correction via test-data-covariance reweighting) + SkillHarness (runtime-safety-gated skill learning for Computer-Use Agents)
+- Entity files created: memgui-agent-end-to-end-long-horizon-mobile-gui-agent-proactive-context-2606.19926.md, comparing-linear-probes-mahalanobis-cosine-similarity-2606.19603.md, skillharness-harnessing-safe-skills-computer-use-agents-2606.20636.md
+- arxiv IDs added: 2606.19926, 2606.19603, 2606.20636
+- Parent updates: emergent-concepts.md ## Updates section prepended in date-DESC order (06-18 MemGUI → 06-17 Linear Probes → 06-02 SkillHarness); below them is the previous top entry (06-24 ShutterMuse from Run 33)
+- State files: explore_context.json (99 in emergent_concept_papers, 99 in emergent_discoveries, 90 in chains[emergent-concepts].papers_found, 33 runs, 33 emergent_concept_search_runs, entities_count=111); watch_profiles.json (99 top-level + 99 in llm-wiki + 99 in profiles.llm-wiki-explore last_result_hashes; 96 in profiles.llm-wiki-explore.last_results)
+- ensure_ascii detection: explore_context=False (raw em-dash bytes preserved), watch_profiles=True (escaped) — divergent stable state confirmed (22nd consecutive run)
+- Step 5.5 wikilink-resolution check: 0 broken across 3 new entity files (4+5+5 = 14 wikilinks resolved) AND 0 broken across all 12 wikilinks in the parent-update new block
+- WP 3-store lockstep invariant: SET-equality holds (not list-equality — handles insertion-order differences); per-store hash uniqueness verified separately (not cross-store concatenation which would falsely flag lockstep hashes as duplicates)
+- pitfall-68c idempotent run-record guard: NOW_ISO `2026-06-25T23:53:00+00:00` guarded via `{r.timestamp for r in runs}` before appending — prevents loop-warning double-invocation from inflating runs / emergent_concept_search_runs
+- pitfall-22 records-not-counters: runs and emergent_concept_search_runs appended as OrderedDict records (with ts / mode / theme / papers_added / etc.), NOT via += 1 — schema fields preserved for downstream reconstruction
+- Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes, 0 collisions with existing 96-hash pool
+- Theme-diversity discipline: continues breaking diffusion/video-heavy streak (last 5 runs were T2V-heavy / T2I-heavy / robotics-heavy / multimodal-heavy); picks span NLP/interpretability (linear-probe metric correction) + mobile-GUI agents (Context-as-Action policy) + CUA safety (runtime skill-invocation gating)
+- arxiv_id_set() helper applied to BOTH emergent_concept_papers AND chains.emergent-concepts.papers_found (both stores contain OrderedDict records post-Run-24, not bare strings — `set(...)` would crash)

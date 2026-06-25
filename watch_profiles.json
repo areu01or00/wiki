@@ -775,7 +775,10 @@
         "f07e0b319c2a5f6421f22c8c38178794",
         "77c374fc64b9dca8ef49b662ce395e63",
         "05b2781c7a89dc836ca044449ca116d0",
-        "7943dba2353e97368c5482e88cb78f25"
+        "7943dba2353e97368c5482e88cb78f25",
+        "5a00933d4e8e1f2013d301808adc8b9c",
+        "4a57152092c68785552130c33c2b24d7",
+        "bd85aca97d1823872d0e64762bd52961"
       ],
       "last_results": [
         {
@@ -1560,6 +1563,33 @@
           "discovered": "2026-06-25T23:39:00+00:00",
           "theme": "flow-matching / t2i-safety / velocity-editing / training-free / concept-removal / few-step-distillation",
           "vector": "emergent-concept-search"
+        },
+        {
+          "ts": "2026-06-25T23:53:00+00:00",
+          "arxiv_id": "2606.19603",
+          "slug": "comparing-linear-probes-mahalanobis-cosine-similarity-2606.19603",
+          "title": "Comparing Linear Probes with Mahalanobis Cosine Similarity",
+          "hash": "5a00933d4e8e1f2013d301808adc8b9c",
+          "theme": "representation-learning / linear-probe / interpretability / mahalanobis-cosine-similarity / cross-domain-generalization",
+          "discovered_via": "emergent_concept_search"
+        },
+        {
+          "ts": "2026-06-25T23:53:00+00:00",
+          "arxiv_id": "2606.19926",
+          "slug": "memgui-agent-end-to-end-long-horizon-mobile-gui-agent-proactive-context-2606.19926",
+          "title": "MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management",
+          "hash": "4a57152092c68785552130c33c2b24d7",
+          "theme": "mobile-gui-agent / long-horizon / proactive-context-management / memory-as-policy / qwen3-vl",
+          "discovered_via": "emergent_concept_search"
+        },
+        {
+          "ts": "2026-06-25T23:53:00+00:00",
+          "arxiv_id": "2606.20636",
+          "slug": "skillharness-harnessing-safe-skills-computer-use-agents-2606.20636",
+          "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents",
+          "hash": "bd85aca97d1823872d0e64762bd52961",
+          "theme": "computer-use-agents / skill-curation / runtime-safety-gating / continual-learning / harness-as-intermediary",
+          "discovered_via": "emergent_concept_search"
         }
       ],
       "last_run": "2026-06-25T23:12:09.658648+00:00",
@@ -1569,7 +1599,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T23:39:00+00:00",
+  "last_run": "2026-06-25T23:53:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1666,12 +1696,15 @@
     "f07e0b319c2a5f6421f22c8c38178794",
     "77c374fc64b9dca8ef49b662ce395e63",
     "05b2781c7a89dc836ca044449ca116d0",
-    "7943dba2353e97368c5482e88cb78f25"
+    "7943dba2353e97368c5482e88cb78f25",
+    "5a00933d4e8e1f2013d301808adc8b9c",
+    "4a57152092c68785552130c33c2b24d7",
+    "bd85aca97d1823872d0e64762bd52961"
   ],
-  "last_discovery": "2026-06-25T23:28:16.399092+00:00",
-  "last_updated": "2026-06-25T23:39:00+00:00",
-  "__last_updated": "2026-06-25T23:39:00+00:00",
-  "last_explore": "2026-06-25T23:39:00+00:00",
+  "last_discovery": "2026-06-25T23:53:00+00:00",
+  "last_updated": "2026-06-25T23:53:00+00:00",
+  "__last_updated": "2026-06-25T23:53:00+00:00",
+  "last_explore": "2026-06-25T23:53:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1769,11 +1802,14 @@
       "f07e0b319c2a5f6421f22c8c38178794",
       "77c374fc64b9dca8ef49b662ce395e63",
       "05b2781c7a89dc836ca044449ca116d0",
-      "7943dba2353e97368c5482e88cb78f25"
+      "7943dba2353e97368c5482e88cb78f25",
+      "5a00933d4e8e1f2013d301808adc8b9c",
+      "4a57152092c68785552130c33c2b24d7",
+      "bd85aca97d1823872d0e64762bd52961"
     ],
     "last_discovery": "2026-06-25T23:12:09.658648+00:00",
     "last_run": "2026-06-25T23:12:09.658648+00:00",
     "last_updated": "2026-06-25T23:12:09.658648+00:00"
   },
-  "last_pass_type": "emergent-concept-search"
+  "last_pass_type": "emergent_concept"
 }
