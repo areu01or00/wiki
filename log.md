@@ -480,3 +480,24 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Pitfalls hit: NONE in main flow
 - Per-run counter suffix on all /tmp/ artifacts: run2208
 - Theme-diversity discipline: continues non-agent-heavy recent streak; picks span embodied long-horizon-memory + mask-diffusion reasoning + ICL distillation B2B-conversations
+
+## Run 27 — 2026-06-25 22:23 UTC — Emergent-concept search (MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference)
+
+- Mode: emergent_concept_search (chains all exhausted since 2026-05-25; 9 named chains at 4/4)
+- Method: hf_daily_emergent_concept_search (curl HF daily + default pages, SVELTE_HYDRATER unescape recipe with **new** raw_decode JSON-parser pattern, LLM-keyword title filter, 5-store dedup)
+- Window: 2026-06-23..2026-06-25 (3 day-pages + default page)
+- Candidates surveyed: 117 unique arxiv IDs across 4 sources (32+29+56+32 after raw_decode refinement)
+- After 5-store dedup: 46 fresh candidates
+- After LLM-keyword filter: 20 LLM-relevant
+- Picked 3 (theme-diversity — continues the non-agent-heavy recent streak): MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward
+- Entity files created: v-zero-answer-label-free-on-policy-distillation-contrastive-evidence-2606.25319.md, foresight-failure-detection-long-horizon-robotic-manipulation-2606.23085.md, improving-text-to-music-generation-with-human-preference-2606.21670.md
+- arxiv IDs added: 2606.25319, 2606.23085, 2606.21670
+- Parent updates: emergent-concepts.md ## Updates section prepended in date-DESC order (06-24 → 06-22 → 06-19)
+- State files: explore_context.json (81 in emergent_concept_papers, 81 in emergent_discoveries, 72 in chains[emergent-concepts].papers_found, 27 runs, 27 emergent_concept_search_runs, 29 in emergent_concept_search_log, entities_count=93); watch_profiles.json (81 top-level + 81 in llm-wiki + 81 in profiles.llm-wiki-explore last_result_hashes; 78 in profiles.llm-wiki-explore.last_results)
+- ensure_ascii detection: explore_context=False (raw em-dash bytes preserved), watch_profiles=True (escaped) — divergent stable state confirmed (16th consecutive run)
+- Step 7.5 entity↔state cross-check (post-write): 81 filesystem arxiv IDs; all 3 new IDs present in both filesystem and state; entities_count claim = 93 actual = 93 (81 paper entities + 12 meta/topical entities)
+- Step 5.5 wikilink-resolution check: 0 broken across 3 new entity files (3+5+4 = 12 wikilinks resolved) AND 0 broken across all 12 wikilinks in the parent-update new block
+- Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes (1269452f4f36c20ab79ea486cf76727f, 63e18d510ef09799036f9dbbd691a63f, 35a64d42ba6526a26e604955e4366337), 0 collisions with existing 78-hash pool
+- Pitfalls hit: NONE in main flow (NEW finding: `json.JSONDecoder().raw_decode()` with anchor `dailyPapers&quot;:` — without the [ — cleanly parses the full paper array; replaces the original 3000-char regex window heuristic; documented in references/hf-daily-parsing-recipe.md)
+- Per-run counter suffix on all /tmp/ artifacts: run2223
+- Theme-diversity discipline: continues non-agent-heavy recent streak; picks span MLLM post-training label-free + robotics safety monitoring + creative-multimodal preference-reward

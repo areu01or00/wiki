@@ -757,7 +757,10 @@
         "cdefb031ef7bd53c0e1b143c7e86df17",
         "fb96cacad0f2d59a7dc3b9248b2cb3df",
         "29cd0420760a4a17c747dad4b0126da0",
-        "a8e1eb609a6c02f0f0c5b20cef835dda"
+        "a8e1eb609a6c02f0f0c5b20cef835dda",
+        "1269452f4f36c20ab79ea486cf76727f",
+        "63e18d510ef09799036f9dbbd691a63f",
+        "35a64d42ba6526a26e604955e4366337"
       ],
       "last_results": [
         {
@@ -1389,6 +1392,27 @@
           "discovered": "2026-06-25T22:08:00+00:00",
           "theme": "in-context-learning distillation / B2B-conversations / low-resource-NLP",
           "hash": "a8e1eb609a6c02f0f0c5b20cef835dda"
+        },
+        {
+          "arxiv_id": "2606.25319",
+          "slug": "v-zero-answer-label-free-on-policy-distillation-contrastive-evidence",
+          "title": "V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning",
+          "hash": "1269452f4f36c20ab79ea486cf76727f",
+          "discovered": "2026-06-25"
+        },
+        {
+          "arxiv_id": "2606.23085",
+          "slug": "foresight-failure-detection-long-horizon-robotic-manipulation",
+          "title": "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
+          "hash": "63e18d510ef09799036f9dbbd691a63f",
+          "discovered": "2026-06-25"
+        },
+        {
+          "arxiv_id": "2606.21670",
+          "slug": "improving-text-to-music-generation-with-human-preference",
+          "title": "Improving Text-to-Music Generation with Human Preference Rewards",
+          "hash": "35a64d42ba6526a26e604955e4366337",
+          "discovered": "2026-06-25"
         }
       ],
       "last_run": "2026-06-25T21:32:12.732047+00:00",
@@ -1398,7 +1422,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T21:32:12.732047+00:00",
+  "last_run": "2026-06-25T22:23:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1477,12 +1501,15 @@
     "cdefb031ef7bd53c0e1b143c7e86df17",
     "fb96cacad0f2d59a7dc3b9248b2cb3df",
     "29cd0420760a4a17c747dad4b0126da0",
-    "a8e1eb609a6c02f0f0c5b20cef835dda"
+    "a8e1eb609a6c02f0f0c5b20cef835dda",
+    "1269452f4f36c20ab79ea486cf76727f",
+    "63e18d510ef09799036f9dbbd691a63f",
+    "35a64d42ba6526a26e604955e4366337"
   ],
-  "last_discovery": "2026-06-25T21:32:12.732047+00:00",
-  "last_updated": "2026-06-25T22:08:00+00:00",
-  "__last_updated": "2026-06-25T21:32:12.732047+00:00",
-  "last_explore": "2026-06-25T21:32:12.732047+00:00",
+  "last_discovery": "2026-06-25T22:23:00+00:00",
+  "last_updated": "2026-06-25T22:23:00+00:00",
+  "__last_updated": "2026-06-25T22:23:00+00:00",
+  "last_explore": "2026-06-25T22:23:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1562,10 +1589,13 @@
       "cdefb031ef7bd53c0e1b143c7e86df17",
       "fb96cacad0f2d59a7dc3b9248b2cb3df",
       "29cd0420760a4a17c747dad4b0126da0",
-      "a8e1eb609a6c02f0f0c5b20cef835dda"
+      "a8e1eb609a6c02f0f0c5b20cef835dda",
+      "1269452f4f36c20ab79ea486cf76727f",
+      "63e18d510ef09799036f9dbbd691a63f",
+      "35a64d42ba6526a26e604955e4366337"
     ],
     "last_discovery": "2026-06-25T22:08:00+00:00",
     "last_run": "2026-06-25T22:08:00+00:00"
   },
-  "last_pass_type": "emergent_concept_search"
+  "last_pass_type": "emergent_concept"
 }

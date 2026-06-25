@@ -2,30 +2,30 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T22:08:00+00:00",
-  "__last_updated": "2026-06-25T22:08:00+00:00",
-  "last_run": "2026-06-25T22:08:00+00:00",
-  "last_explore": "2026-06-25T22:08:00+00:00",
-  "last_global_explore": "2026-06-25T22:08:00+00:00",
-  "last_discovery": "2026-06-25T22:08:00+00:00",
-  "last_run_framing": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations",
-  "last_framing": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations",
-  "last_run_notes": "3 new entity pages from emergent-concept search on HF 3-day window: WorldLines (embodied-agent long-horizon-memory household benchmark), Multi-Turn Reflective Masking (mask-diffusion reasoning test-time-scaling), Distilling Examples into Task Instructions (in-context-learning distillation B2B-conversations). Theme-diversity: long-horizon-memory embodied + non-AR reasoning primitive + ICL distillation — continues the non-agent-heavy recent runs.",
+  "updated": "2026-06-25T22:23:00+00:00",
+  "__last_updated": "2026-06-25T22:23:00+00:00",
+  "last_run": "2026-06-25T22:23:00+00:00",
+  "last_explore": "2026-06-25T22:23:00+00:00",
+  "last_global_explore": "2026-06-25T22:23:00+00:00",
+  "last_discovery": "2026-06-25T22:23:00+00:00",
+  "last_run_framing": "theme-diversity: MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward",
+  "last_framing": "theme-diversity: MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward",
+  "last_run_notes": "3 new entity pages from emergent-concept search on HF 4-source window: V-Zero (MLLM visual-reasoning post-training label-free on-policy-distillation + contrastive-evidence-gating), Foresight (robotics long-horizon-manipulation failure-detection with action-conditioned world-model latents + conformal-prediction), Improving Text-to-Music Generation with Human Preference Rewards (ATTM ICME 2026 efficiency-track entry using TuneJury twin pairwise ranker + expert iteration on 120M FluxAudio-S). Theme-diversity: MLLM post-training + robotics safety monitoring + creative-multimodal preference — continues non-agent-heavy streak.",
   "last_pass_type": "emergent_concept",
   "last_run_method": "hf_daily_emergent_concept_search",
   "run_method": "hf_daily_emergent_concept_search",
   "last_run_added": [
-    "2606.18847",
-    "2606.16700",
-    "2606.15641"
+    "2606.25319",
+    "2606.23085",
+    "2606.21670"
   ],
   "exploration_type": "emergent_concept_search",
-  "emergent_concept_theme": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations",
-  "emergent_theme": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations",
+  "emergent_concept_theme": "theme-diversity: MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward",
+  "emergent_theme": "theme-diversity: MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 90,
+  "entities_count": 93,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -758,10 +758,37 @@
         "2606.22807",
         "2606.18847",
         "2606.16700",
-        "2606.15641"
+        "2606.15641",
+        {
+          "arxiv_id": "2606.25319",
+          "slug": "v-zero-answer-label-free-on-policy-distillation-contrastive-evidence",
+          "title": "V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning",
+          "url": "https://arxiv.org/abs/2606.25319",
+          "vector": "emergent_concept_search",
+          "theme": "MLLM post-training / on-policy-distillation / answer-label-free / contrastive-evidence-gating",
+          "discovered": "2026-06-25T22:23:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.23085",
+          "slug": "foresight-failure-detection-long-horizon-robotic-manipulation",
+          "title": "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
+          "url": "https://arxiv.org/abs/2606.23085",
+          "vector": "emergent_concept_search",
+          "theme": "robotics / failure-detection / world-model-deployment-monitoring",
+          "discovered": "2026-06-25T22:23:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.21670",
+          "slug": "improving-text-to-music-generation-with-human-preference",
+          "title": "Improving Text-to-Music Generation with Human Preference Rewards",
+          "url": "https://arxiv.org/abs/2606.21670",
+          "vector": "emergent_concept_search",
+          "theme": "text-to-music / human-preference-reward / expert-iteration / small-budget-recipe",
+          "discovered": "2026-06-25T22:23:00+00:00"
+        }
       ],
-      "last_run": "2026-06-25T21:53:00+00:00",
-      "last_explore": "2026-06-25T21:53:00+00:00",
+      "last_run": "2026-06-25T22:23:00+00:00",
+      "last_explore": "2026-06-25T22:23:00+00:00",
       "last_run_added": 3,
       "papers_found_count": 66,
       "run_method": "emergent-concept",
@@ -1449,7 +1476,34 @@
     "2606.22807",
     "2606.18847",
     "2606.16700",
-    "2606.15641"
+    "2606.15641",
+    {
+      "arxiv_id": "2606.25319",
+      "slug": "v-zero-answer-label-free-on-policy-distillation-contrastive-evidence",
+      "title": "V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning",
+      "url": "https://arxiv.org/abs/2606.25319",
+      "vector": "emergent_concept_search",
+      "theme": "MLLM post-training / on-policy-distillation / answer-label-free / contrastive-evidence-gating",
+      "discovered": "2026-06-25T22:23:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.23085",
+      "slug": "foresight-failure-detection-long-horizon-robotic-manipulation",
+      "title": "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
+      "url": "https://arxiv.org/abs/2606.23085",
+      "vector": "emergent_concept_search",
+      "theme": "robotics / failure-detection / world-model-deployment-monitoring",
+      "discovered": "2026-06-25T22:23:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.21670",
+      "slug": "improving-text-to-music-generation-with-human-preference",
+      "title": "Improving Text-to-Music Generation with Human Preference Rewards",
+      "url": "https://arxiv.org/abs/2606.21670",
+      "vector": "emergent_concept_search",
+      "theme": "text-to-music / human-preference-reward / expert-iteration / small-budget-recipe",
+      "discovered": "2026-06-25T22:23:00+00:00"
+    }
   ],
   "emergent_discoveries": [
     {
@@ -2039,7 +2093,34 @@
     "2606.22807",
     "2606.18847",
     "2606.16700",
-    "2606.15641"
+    "2606.15641",
+    {
+      "arxiv_id": "2606.25319",
+      "slug": "v-zero-answer-label-free-on-policy-distillation-contrastive-evidence",
+      "title": "V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning",
+      "url": "https://arxiv.org/abs/2606.25319",
+      "vector": "emergent_concept_search",
+      "theme": "MLLM post-training / on-policy-distillation / answer-label-free / contrastive-evidence-gating",
+      "discovered": "2026-06-25T22:23:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.23085",
+      "slug": "foresight-failure-detection-long-horizon-robotic-manipulation",
+      "title": "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
+      "url": "https://arxiv.org/abs/2606.23085",
+      "vector": "emergent_concept_search",
+      "theme": "robotics / failure-detection / world-model-deployment-monitoring",
+      "discovered": "2026-06-25T22:23:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.21670",
+      "slug": "improving-text-to-music-generation-with-human-preference",
+      "title": "Improving Text-to-Music Generation with Human Preference Rewards",
+      "url": "https://arxiv.org/abs/2606.21670",
+      "vector": "emergent_concept_search",
+      "theme": "text-to-music / human-preference-reward / expert-iteration / small-budget-recipe",
+      "discovered": "2026-06-25T22:23:00+00:00"
+    }
   ],
   "emergent_concept_search_log": [
     {
@@ -2507,6 +2588,19 @@
       ],
       "method": "hf_daily_emergent_concept_search",
       "notes": "3 picks: WorldLines (long-horizon embodied-memory benchmark), Reflective Masking (MDM reasoning primitive), Distilling Examples into Task Instructions (ICL distillation B2B)"
+    },
+    {
+      "timestamp": "2026-06-25T22:23:00+00:00",
+      "run_id": "run2223",
+      "raw_count": 117,
+      "fresh_count": 46,
+      "llm_relevant_count": 20,
+      "picks": [
+        "2606.25319",
+        "2606.23085",
+        "2606.21670"
+      ],
+      "theme": "MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward"
     }
   ],
   "emergent_concept_search_runs": [
@@ -2925,6 +3019,17 @@
       ],
       "method": "hf_daily_emergent_concept_search",
       "framing": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations"
+    },
+    {
+      "timestamp": "2026-06-25T22:23:00+00:00",
+      "added": [
+        "2606.25319",
+        "2606.23085",
+        "2606.21670"
+      ],
+      "count": 3,
+      "method": "hf_daily_emergent_concept_search",
+      "theme": "MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward"
     }
   ],
   "runs": [
@@ -3206,6 +3311,19 @@
       "pass_type": "emergent_concept",
       "method": "hf_daily_emergent_concept_search",
       "notes": "HF 3-day window; 129 unique candidates across 5 sources (4 day-pages + default); 58 fresh after 5-store dedup; 30 LLM-relevant; picked 3 spanning distinct angles (embodied long-horizon-memory + MDM reasoning + ICL distillation)"
+    },
+    {
+      "timestamp": "2026-06-25T22:23:00+00:00",
+      "method": "hf_daily_emergent_concept_search",
+      "pass_type": "emergent_concept",
+      "framing": "theme-diversity: MLLM visual-reasoning post-training label-free + robotics failure-detection world-model + text-to-music human-preference-reward",
+      "added": [
+        "2606.25319",
+        "2606.23085",
+        "2606.21670"
+      ],
+      "count": 3,
+      "notes": "3 new entity pages from emergent-concept search on HF 4-source window (2026-06-25 / 2026-06-24 / 2026-06-23 / default): V-Zero (MLLM post-training label-free on-policy-distillation + contrastive-evidence-gating), Foresight (robotics long-horizon-manipulation failure-detection with action-conditioned world-model latents + conformal-prediction calibration), Improving Text-to-Music Generation with Human Preference Rewards (ATTM ICME 2026 efficiency-track entry using TuneJury twin pairwise ranker + expert iteration on a 120M FluxAudio-S backbone). Theme-diversity: MLLM post-training + robotics safety monitoring + creative-multimodal preference — continues non-agent-heavy streak."
     }
   ],
   "last_updated": "2026-06-25T22:08:00+00:00",
