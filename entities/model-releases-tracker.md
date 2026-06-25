@@ -17,6 +17,7 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-24** | [Riazi-8B: An Urdu Large Language Model for Mathematical Reasoning](https://arxiv.org/abs/2606.25568v1) | kw: Riazi-8B: An Urdu Large Language Model for Mathematical Reas | source: arxiv-cs-cl
 - **2026-06-23** | [An LLM-based Two-Stage Transformer Framework for Cross-Domain Bearing Fault Diagnosis with Limited Data](https://arxiv.org/abs/2606.24459v1) | kw: An LLM-based Two-Stage Transformer Framework for Cross-Domai | source: arxiv-cs-cl
 - **2026-06-23** | [Less is More: Quality-Aware Training Data Selection for Scientific Summarization](https://arxiv.org/abs/2606.24828v1) | kw: Less is More: Quality-Aware Training Data Selection for Scie | source: arxiv-cs-cl
 - **2026-06-23** | [Beyond Logprobs: A Multi-Signal Confidence Engine for LLM-Based Document Field Extraction](https://arxiv.org/abs/2606.24420v1) | kw: Beyond Logprobs: A Multi-Signal Confidence Engine for LLM-Ba | source: arxiv-cs-cl
