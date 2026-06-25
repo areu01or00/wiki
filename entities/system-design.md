@@ -3589,3 +3589,6 @@
 - **2026-06-11** | [Top 30 System Design Interview Questions (2026)](https://www.datainterview.com/blog/system-design-interview-questions) | kw: system, design, interview
 
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
+
+## Updates
+- **2026-06-25** | [I Tried 40+ Software Architecture Resources: Here Are My Top 10 ...](https://medium.com/javarevisited/i-tried-40-software-architecture-resources-here-are-my-top-10-recommendations-for-2026-3bf667e54979) | kw: general
