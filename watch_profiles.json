@@ -751,7 +751,10 @@
         "b3bd88fa30b5fce5bd6ef057d050f944",
         "c511079921a2763d9baedcb25f5f38cf",
         "b5263239d86c564e603c19a426ce6cbd",
-        "0c10763c8dbc1ade0b0c9c617e2bb2f9"
+        "0c10763c8dbc1ade0b0c9c617e2bb2f9",
+        "c2fafec7fb48abeb6aa58f27fa422f38",
+        "19b91f5ed8692c777373ececeb55840a",
+        "cdefb031ef7bd53c0e1b143c7e86df17"
       ],
       "last_results": [
         {
@@ -1332,6 +1335,33 @@
           "discovered": "2026-06-25T21:47:00+00:00",
           "theme": "LLM training-data / data-mixture / bilevel-optimization",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.24742",
+          "slug": "world-value-models-robotic-manipulation-2606.24742",
+          "title": "World Value Models for Robotic Manipulation",
+          "discovered": "2026-06-25T21:53:00+00:00",
+          "theme": "robotics / value-function / world-model data-selection",
+          "hash": "c2fafec7fb48abeb6aa58f27fa422f38",
+          "source": "hf_daily_emergent_concept_search"
+        },
+        {
+          "arxiv_id": "2606.20196",
+          "slug": "distill-once-adapt-life-long-dataset-distillation-continual-2606.20196",
+          "title": "Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation",
+          "discovered": "2026-06-25T21:53:00+00:00",
+          "theme": "continual-test-time-adaptation / dataset-distillation / source-free-robustness",
+          "hash": "19b91f5ed8692c777373ececeb55840a",
+          "source": "hf_daily_emergent_concept_search"
+        },
+        {
+          "arxiv_id": "2606.22807",
+          "slug": "kalm-reranker-v1-fast-not-late-interaction-compressed-2606.22807",
+          "title": "KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking",
+          "discovered": "2026-06-25T21:53:00+00:00",
+          "theme": "LLM reranker / retrieval-efficiency / encoder-decoder-decoupling",
+          "hash": "cdefb031ef7bd53c0e1b143c7e86df17",
+          "source": "hf_daily_emergent_concept_search"
         }
       ],
       "last_run": "2026-06-25T21:32:12.732047+00:00",
@@ -1414,7 +1444,10 @@
     "b3bd88fa30b5fce5bd6ef057d050f944",
     "c511079921a2763d9baedcb25f5f38cf",
     "b5263239d86c564e603c19a426ce6cbd",
-    "0c10763c8dbc1ade0b0c9c617e2bb2f9"
+    "0c10763c8dbc1ade0b0c9c617e2bb2f9",
+    "c2fafec7fb48abeb6aa58f27fa422f38",
+    "19b91f5ed8692c777373ececeb55840a",
+    "cdefb031ef7bd53c0e1b143c7e86df17"
   ],
   "last_discovery": "2026-06-25T21:32:12.732047+00:00",
   "last_updated": "2026-06-25T21:32:12.732047+00:00",
@@ -1493,7 +1526,10 @@
       "b3bd88fa30b5fce5bd6ef057d050f944",
       "c511079921a2763d9baedcb25f5f38cf",
       "b5263239d86c564e603c19a426ce6cbd",
-      "0c10763c8dbc1ade0b0c9c617e2bb2f9"
+      "0c10763c8dbc1ade0b0c9c617e2bb2f9",
+      "c2fafec7fb48abeb6aa58f27fa422f38",
+      "19b91f5ed8692c777373ececeb55840a",
+      "cdefb031ef7bd53c0e1b143c7e86df17"
     ],
     "last_discovery": "2026-06-25T21:09:00+00:00",
     "last_run": "2026-06-25T21:09:00+00:00"
