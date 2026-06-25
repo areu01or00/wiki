@@ -719,15 +719,18 @@
       "last_run_key": "emergent_concept_search_3_papers_2026-06-25"
     }
   },
-  "last_run": "2026-06-25T16:13:26.227468+00:00",
+  "last_run": "2026-06-25T16:14:44+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
-    "339968edc01332de74908945e0582c5d"
+    "339968edc01332de74908945e0582c5d",
+    "23ce456ff96df44a5dfb0e51911631c6",
+    "7aa5a28b0fdbbc7aae51408f90566e03",
+    "f3937af719873c58af74b850497884eb"
   ],
   "last_discovery": "2026-06-25T16:13:26.227468+00:00",
-  "last_updated": "2026-06-25T16:13:26.227468+00:00",
-  "__last_updated": "2026-06-25T16:13:26.227468+00:00",
+  "last_updated": "2026-06-25T16:14:44+00:00",
+  "__last_updated": "2026-06-25T16:14:44+00:00",
   "last_explore": "2026-06-25T16:13:26.227468+00:00",
   "llm-wiki": {
     "last_result_hashes": [
