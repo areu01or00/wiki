@@ -697,7 +697,10 @@
         "e61a5a82049c287cf0d7cf75bb3e8a9c",
         "cf79e2c4aa684a1cdb11d024e8f02d48",
         "be1301181ed833929c77fbdcc0bf0551",
-        "3bbe72529db1e11f59d79d56cb7f46cc"
+        "3bbe72529db1e11f59d79d56cb7f46cc",
+        "272647aca8c59c36186c72a4fdc57894",
+        "42aaa3ebcf384c4000dce810ce0796e6",
+        "f4054e780ef5191ed72b49667535a6db"
       ],
       "last_results": [
         {
@@ -861,15 +864,42 @@
           "chain": "emergent-concepts",
           "theme": "long-horizon agents / cross-domain-RL / agent-training",
           "discovered": "2026-06-25T17:31:41+00:00"
+        },
+        {
+          "arxiv_id": "2606.21710",
+          "title": "PrivacyAlign: Contextual Privacy Alignment for LLM Agents",
+          "hash": "272647aca8c59c36186c72a4fdc57894",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "agentic-privacy / contextual-alignment",
+          "discovered": "2026-06-25T17:43:19.950910+00:00"
+        },
+        {
+          "arxiv_id": "2606.24133",
+          "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
+          "hash": "42aaa3ebcf384c4000dce810ce0796e6",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "pretraining-efficiency / data-mixing / multi-objective-RL",
+          "discovered": "2026-06-25T17:43:19.950910+00:00"
+        },
+        {
+          "arxiv_id": "2606.23654",
+          "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+          "hash": "f4054e780ef5191ed72b49667535a6db",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "enterprise-agent-evaluation / real-workflow-benchmarking",
+          "discovered": "2026-06-25T17:43:19.950910+00:00"
         }
       ],
-      "last_run": "2026-06-25T17:31:41+00:00",
-      "last_updated": "2026-06-25T17:31:41+00:00",
-      "last_result_timestamp": "2026-06-25T17:31:41+00:00",
+      "last_run": "2026-06-25T17:43:19.950910+00:00",
+      "last_updated": "2026-06-25T17:43:19.950910+00:00",
+      "last_result_timestamp": "2026-06-25T17:43:19.950910+00:00",
       "last_run_key": "emergent_concept_search_3_papers_2026-06-25"
     }
   },
-  "last_run": "2026-06-25T17:31:41+00:00",
+  "last_run": "2026-06-25T17:43:19.950910+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -891,12 +921,15 @@
     "e61a5a82049c287cf0d7cf75bb3e8a9c",
     "cf79e2c4aa684a1cdb11d024e8f02d48",
     "be1301181ed833929c77fbdcc0bf0551",
-    "3bbe72529db1e11f59d79d56cb7f46cc"
+    "3bbe72529db1e11f59d79d56cb7f46cc",
+    "272647aca8c59c36186c72a4fdc57894",
+    "42aaa3ebcf384c4000dce810ce0796e6",
+    "f4054e780ef5191ed72b49667535a6db"
   ],
-  "last_discovery": "2026-06-25T17:31:41+00:00",
-  "last_updated": "2026-06-25T17:31:41+00:00",
-  "__last_updated": "2026-06-25T17:31:41+00:00",
-  "last_explore": "2026-06-25T17:31:41+00:00",
+  "last_discovery": "2026-06-25T17:43:19.950910+00:00",
+  "last_updated": "2026-06-25T17:43:19.950910+00:00",
+  "__last_updated": "2026-06-25T17:43:19.950910+00:00",
+  "last_explore": "2026-06-25T17:43:19.950910+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -916,9 +949,12 @@
       "e61a5a82049c287cf0d7cf75bb3e8a9c",
       "cf79e2c4aa684a1cdb11d024e8f02d48",
       "be1301181ed833929c77fbdcc0bf0551",
-      "3bbe72529db1e11f59d79d56cb7f46cc"
+      "3bbe72529db1e11f59d79d56cb7f46cc",
+      "272647aca8c59c36186c72a4fdc57894",
+      "42aaa3ebcf384c4000dce810ce0796e6",
+      "f4054e780ef5191ed72b49667535a6db"
     ],
-    "last_discovery": "2026-06-25T17:31:41+00:00",
-    "last_run": "2026-06-25T17:31:41+00:00"
+    "last_discovery": "2026-06-25T17:43:19.950910+00:00",
+    "last_run": "2026-06-25T17:43:19.950910+00:00"
   }
 }

@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T17:31:41+00:00",
-  "__last_updated": "2026-06-25T17:31:41+00:00",
-  "last_run": "2026-06-25T17:31:41+00:00",
-  "last_explore": "2026-06-25T17:31:41+00:00",
-  "last_global_explore": "2026-06-25T17:31:41+00:00",
-  "last_discovery": "2026-06-25T17:31:41+00:00",
-  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_multimodal-rag_math-rl_cross-domain-agent-rl",
-  "last_framing": "multimodal RAG + multimodal math RL + long-horizon cross-domain RL (3 fresh themes absent from prior N runs)",
-  "last_run_notes": "Run 2026-06-25 17:30 UTC: HF 3-day window (2026-06-23..2026-06-25) + monthly, Step 2.5 strict subject filter recovered 45 LLM-relevant candidates from 80 raw non_cv_metadata (script reported Non-CV: 80 but top 10 picks were 100% cs.CV before subject filtering). Dedup against 5 stores (top-level, llm-wiki, llm-wiki-explore.last_result_hashes, llm-wiki-explore.last_results, explore_context chains+emergent) returned 0% pre-existing (expected on just-restored wiki per pitfall 58a). 3 picks landed: ChartWalker (multimodal RAG / cross-chart / hierarchical-KG, cs.IR), VeriEvol (multimodal math reasoning / verifiable Evol-Instruct, cs.AI), Connect the Dots (long-horizon cross-domain-RL agent training, cs.LG). MERGE-then-SORT N=8 (3 new + 5 existing) applied to emergent-concepts.md ## Updates.",
+  "updated": "2026-06-25T17:43:19.950910+00:00",
+  "__last_updated": "2026-06-25T17:43:19.950910+00:00",
+  "last_run": "2026-06-25T17:43:19.950910+00:00",
+  "last_explore": "2026-06-25T17:43:19.950910+00:00",
+  "last_global_explore": "2026-06-25T17:43:19.950910+00:00",
+  "last_discovery": "2026-06-25T17:43:19.950910+00:00",
+  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_agentic-privacy-data-mixing-enterprise-eval",
+  "last_framing": "agentic-privacy + pretraining-data-mixing + enterprise-agent-benchmarking (3 fresh themes absent from prior N runs)",
+  "last_run_notes": "Run at 2026-06-25 17:39 UTC. Method: HF 3-day daily + monthly window (188 unique IDs, 60 candidates after pitfall-52 strict subject filter, 3 picked all fresh). Picks: PrivacyAlign (cs.CL) reframes privacy as contextual alignment for tool-using LLM agents; Holistic Data Scheduler (cs.LG) reframes online data mixing as multi-objective RL; EnterpriseClawBench (cs.CL) builds 852-task benchmark from real workplace sessions. All 3 entries prepended to emergent-concepts.md via merge-then-sort (top-8 re-sort, arxiv-ID desc; preamble preserved per pitfall 62).",
   "last_pass_type": "emergent_concept_search",
-  "last_run_method": "HuggingFace daily papers (curl + grep) + Step 2.5 strict subject filter + arxiv meta extraction",
-  "run_method": "hf_daily_papers + subject_filter + arxiv_meta",
+  "last_run_method": "HuggingFace daily papers (3-day window) + monthly archive + strict subject filter",
+  "run_method": "hf_daily_papers_3day + arxiv_meta + strict_subject_filter",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "multimodal RAG (ChartWalker) / multimodal math RL-data-pipeline (VeriEvol) / long-horizon cross-domain-RL (CoD) (3 fresh themes)",
-  "emergent_theme": "multimodal RAG (ChartWalker, 2606.23997) + multimodal math RL (VeriEvol, 2606.23543) + long-horizon cross-domain RL (Connect the Dots, 2606.20002)",
+  "emergent_concept_theme": "agentic-privacy / contextual-alignment / pretraining-efficiency / data-mixing / multi-objective-RL / enterprise-agent-evaluation / real-workflow-benchmarking (3 fresh themes absent from prior N runs)",
+  "emergent_theme": "agentic-privacy (privacyalign-contextual-privacy-alignmen) + pretraining-data-mixing (holistic-data-scheduler-for-llm-pre-trai) + enterprise-agent-benchmarking (enterpriseclawbench-benchmarking-agents-)",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 33,
+  "entities_count": 36,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -361,15 +361,42 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-25T17:31:41+00:00",
           "theme": "long-horizon agents / cross-domain-RL / agent-training"
+        },
+        {
+          "arxiv_id": "2606.21710",
+          "slug": "privacyalign-contextual-privacy-alignment-for-llm-agents-2606.21710",
+          "title": "PrivacyAlign: Contextual Privacy Alignment for LLM Agents",
+          "url": "https://arxiv.org/abs/2606.21710",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:43:19.950910+00:00",
+          "theme": "agentic-privacy / contextual-alignment"
+        },
+        {
+          "arxiv_id": "2606.24133",
+          "slug": "holistic-data-scheduler-for-llm-pre-training-via-multi-objective-reinforcement-learning-2606.24133",
+          "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2606.24133",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:43:19.950910+00:00",
+          "theme": "pretraining-efficiency / data-mixing / multi-objective-RL"
+        },
+        {
+          "arxiv_id": "2606.23654",
+          "slug": "enterpriseclawbench-benchmarking-agents-from-real-workplace-sessions-2606.23654",
+          "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+          "url": "https://arxiv.org/abs/2606.23654",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:43:19.950910+00:00",
+          "theme": "enterprise-agent-evaluation / real-workflow-benchmarking"
         }
       ],
-      "last_run": "2026-06-25T17:31:41+00:00",
-      "last_explore": "2026-06-25T17:31:41+00:00",
+      "last_run": "2026-06-25T17:43:19.950910+00:00",
+      "last_explore": "2026-06-25T17:43:19.950910+00:00",
       "last_run_added": 3,
       "papers_found_count": 82,
       "run_method": "emergent-concept",
-      "last_explored": "2026-06-25T17:31:41+00:00",
-      "last_run_notes": "Run 2026-06-25 17:30 UTC: HF 3-day window (2026-06-23..2026-06-25) + monthly, Step 2.5 strict subject filter recovered 45 LLM-relevant candidates from 80 raw non_cv_metadata (script reported Non-CV: 80 but top 10 picks were 100% cs.CV before subject filtering). Dedup against 5 stores (top-level, llm-wiki, llm-wiki-explore.last_result_hashes, llm-wiki-explore.last_results, explore_context chains+emergent) returned 0% pre-existing (expected on just-restored wiki per pitfall 58a). 3 picks landed: ChartWalker (multimodal RAG / cross-chart / hierarchical-KG, cs.IR), VeriEvol (multimodal math reasoning / verifiable Evol-Instruct, cs.AI), Connect the Dots (long-horizon cross-domain-RL agent training, cs.LG). MERGE-then-SORT N=8 (3 new + 5 existing) applied to emergent-concepts.md ## Updates."
+      "last_explored": "2026-06-25T17:43:19.950910+00:00",
+      "last_run_notes": "Emergent-concept pass: 3 fresh picks via HuggingFace 3-day window + strict subject filter (pitfall 52 recovery). Themes: agentic-privacy / contextual-alignment / pretraining-efficiency / data-mixing / multi-objective-RL / enterprise-agent-evaluation / real-workflow-benchmarking. All picks cs.CL/cs.LG, all scored >=4 LLM-flavor keywords in title. Dedup 60/188 candidates passed strict subject + already-known filter."
     }
   },
   "emergent_concept_papers": [
@@ -549,6 +576,30 @@
       "url": "https://arxiv.org/abs/2606.20002",
       "theme": "long-horizon agents / cross-domain-RL / agent-training",
       "discovered": "2026-06-25T17:31:41+00:00"
+    },
+    {
+      "arxiv_id": "2606.21710",
+      "slug": "privacyalign-contextual-privacy-alignment-for-llm-agents-2606.21710",
+      "title": "PrivacyAlign: Contextual Privacy Alignment for LLM Agents",
+      "url": "https://arxiv.org/abs/2606.21710",
+      "theme": "agentic-privacy / contextual-alignment",
+      "discovered": "2026-06-25T17:43:19.950910+00:00"
+    },
+    {
+      "arxiv_id": "2606.24133",
+      "slug": "holistic-data-scheduler-for-llm-pre-training-via-multi-objective-reinforcement-learning-2606.24133",
+      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.24133",
+      "theme": "pretraining-efficiency / data-mixing / multi-objective-RL",
+      "discovered": "2026-06-25T17:43:19.950910+00:00"
+    },
+    {
+      "arxiv_id": "2606.23654",
+      "slug": "enterpriseclawbench-benchmarking-agents-from-real-workplace-sessions-2606.23654",
+      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+      "url": "https://arxiv.org/abs/2606.23654",
+      "theme": "enterprise-agent-evaluation / real-workflow-benchmarking",
+      "discovered": "2026-06-25T17:43:19.950910+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -707,6 +758,30 @@
       "url": "https://arxiv.org/abs/2606.20002",
       "discovered": "2026-06-25T17:31:41+00:00",
       "theme": "long-horizon agents / cross-domain-RL / agent-training"
+    },
+    {
+      "arxiv_id": "2606.21710",
+      "title": "PrivacyAlign: Contextual Privacy Alignment for LLM Agents",
+      "slug": "privacyalign-contextual-privacy-alignment-for-llm-agents-2606.21710",
+      "url": "https://arxiv.org/abs/2606.21710",
+      "discovered": "2026-06-25T17:43:19.950910+00:00",
+      "theme": "agentic-privacy / contextual-alignment"
+    },
+    {
+      "arxiv_id": "2606.24133",
+      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
+      "slug": "holistic-data-scheduler-for-llm-pre-training-via-multi-objective-reinforcement-learning-2606.24133",
+      "url": "https://arxiv.org/abs/2606.24133",
+      "discovered": "2026-06-25T17:43:19.950910+00:00",
+      "theme": "pretraining-efficiency / data-mixing / multi-objective-RL"
+    },
+    {
+      "arxiv_id": "2606.23654",
+      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+      "slug": "enterpriseclawbench-benchmarking-agents-from-real-workplace-sessions-2606.23654",
+      "url": "https://arxiv.org/abs/2606.23654",
+      "discovered": "2026-06-25T17:43:19.950910+00:00",
+      "theme": "enterprise-agent-evaluation / real-workflow-benchmarking"
     }
   ],
   "emergent_concept_search_log": [
@@ -832,6 +907,24 @@
         "multimodal RAG / cross-chart-reasoning / hierarchical-KG",
         "multimodal reasoning / RL-data-pipeline / verifiable-supervision",
         "long-horizon agents / cross-domain-RL / agent-training"
+      ]
+    },
+    {
+      "ts": "2026-06-25T17:43:19.950910+00:00",
+      "papers_found": [
+        "privacyalign-contextual-privacy-alignment-for-llm-agents-2606.21710",
+        "holistic-data-scheduler-for-llm-pre-training-via-multi-objective-reinforcement-learning-2606.24133",
+        "enterpriseclawbench-benchmarking-agents-from-real-workplace-sessions-2606.23654"
+      ],
+      "arxiv_ids": [
+        "2606.21710",
+        "2606.24133",
+        "2606.23654"
+      ],
+      "themes": [
+        "agentic-privacy / contextual-alignment",
+        "pretraining-efficiency / data-mixing / multi-objective-RL",
+        "enterprise-agent-evaluation / real-workflow-benchmarking"
       ]
     }
   ],
@@ -961,6 +1054,27 @@
       ],
       "thematic_framing": "multimodal RAG / multimodal math RL-data-pipeline / long-horizon cross-domain-RL",
       "dedup_rate": "pre-existing 0% on just-restored wiki (45 candidates all fresh; expected per pitfall 58a)"
+    },
+    {
+      "ts": "2026-06-25T17:43:19.950910+00:00",
+      "method": "HuggingFace daily papers (3-day window 2026-06-25..2026-06-23) + monthly archive + strict subject filter (pitfall 52 recovery)",
+      "papers": [
+        "2606.21710",
+        "2606.24133",
+        "2606.23654"
+      ],
+      "slugs": [
+        "privacyalign-contextual-privacy-alignment-for-llm-agents-2606.21710",
+        "holistic-data-scheduler-for-llm-pre-training-via-multi-objective-reinforcement-learning-2606.24133",
+        "enterpriseclawbench-benchmarking-agents-from-real-workplace-sessions-2606.23654"
+      ],
+      "themes": [
+        "agentic-privacy / contextual-alignment",
+        "pretraining-efficiency / data-mixing / multi-objective-RL",
+        "enterprise-agent-evaluation / real-workflow-benchmarking"
+      ],
+      "thematic_framing": "agentic-privacy / pretraining-data-mixing / enterprise-agent-benchmarking (3 fresh themes absent from prior N runs)",
+      "dedup_rate": "60/188 candidates passed strict subject filter (cs.CV/cs.GR/cs.MM excluded) + already-known dedup; 3 picked all cs.CL/cs.LG with score >= 4 LLM-flavor keywords"
     }
   ],
   "runs": [
@@ -1033,6 +1147,16 @@
         "chartwalker-benchmarking-the-cross-chart-rag-task-with-hierarchical-knowledge-graphs-2606.23997",
         "verievol-scaling-multimodal-mathematical-reasoning-via-verifiable-evol-instruct-2606.23543",
         "connect-the-dots-training-llms-for-long-lifecycle-agents-with-cross-domain-generalization-via-reinforcement-learning-2606.20002"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T17:43:19.950910+00:00",
+      "mode": "emergent_concept",
+      "theme": "agentic-privacy / contextual-alignment / pretraining-efficiency / data-mixing / multi-objective-RL / enterprise-agent-evaluation / real-workflow-benchmarking",
+      "papers_added": [
+        "privacyalign-contextual-privacy-alignment-for-llm-agents-2606.21710",
+        "holistic-data-scheduler-for-llm-pre-training-via-multi-objective-reinforcement-learning-2606.24133",
+        "enterpriseclawbench-benchmarking-agents-from-real-workplace-sessions-2606.23654"
       ]
     }
   ],

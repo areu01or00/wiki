@@ -170,3 +170,22 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Top 11 IDs: 25996, 25605, 25331, 25182, 24775, 24667, 24595, 24526, **23997 (NEW)**, **23543 (NEW)**, 20002 (NEW)
 - Three new entries landed at positions 9, 10, 11 (correct: lower arxiv-IDs than all 8 existing tops)
 - File size: 22,359 → 25,584 chars (+3,225 = expected delta)
+
+### 2026-06-25 17:43 UTC — emergent-concept run (run-1739)
+- Method: HuggingFace 3-day daily (2026-06-25..2026-06-23) + monthly archive → 208 unique IDs
+- Script: hf_arxiv_discovery.py with --days 3 --months 1 --top-k 100
+- Pitfall 52 fired (script Non-CV=188 but top 10 were 100% cs.CV by primary-subject)
+- Applied Step 2.5 strict subject filter: 188 → 60 LLM candidates
+- LLM-flavor scoring picked top 3:
+  - PrivacyAlign (2606.21710, cs.CL, 2026-06-19): agentic-privacy / contextual-alignment
+  - Holistic Data Scheduler (2606.24133, cs.LG, 2026-06-23): pretraining-data-mixing / multi-objective-RL
+  - EnterpriseClawBench (2606.23654, cs.CL, 2026-06-22): enterprise-agent-evaluation / real-workflow-benchmarking
+- All 3 picks verified genuinely new (5-store dedup + filesystem endswith check)
+- All 3 entity files written; Step 5.5 wikilink-resolution check: 0 broken
+- Prepended to entities/emergent-concepts.md via MERGE-then-SORT (top-8 re-sort, arxiv-ID desc)
+- 11-entry merged pool (8 existing + 3 new); new entries landed positions 9, 10, 11
+- Preamble-preservation smoke check (pitfall 62): first line = `---` (frontmatter intact)
+- File-size sanity check: orig=25584 → new=28278 chars (exact match, no doubling)
+- State writes: explore_context.json (15+ top-level fields + chain-level) + watch_profiles.json (4 top + 2 sub-profile)
+- ensure_ascii detection: explore_context=False (raw em-dash), watch_profiles=True (escape) — stable divergent state
+- Step 7.5 entity↔state cross-check: 24 filesystem arxiv IDs == 24 state arxiv IDs, 0 orphans, 0 extras
