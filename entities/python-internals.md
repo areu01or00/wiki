@@ -1,6 +1,17 @@
 # Python Internals
 
 ## Updates
+- **2026-06-25** | [CPython Internals - GitHub Book](https://github.com/zpoint/CPython-Internals-The-Beijing-Edition) | kw: CPython Internals - GitHub Book
+- **2026-06-25** | [Python 3.13 What's New - Python.org](https://docs.python.org/3/whatsnew/3.13.html) | kw: Python 3.13 What's New - Python.org
+- **2026-06-25** | [PEP 750 - Template Strings Python](https://peps.python.org/pep-0750/) | kw: PEP 750 - Template Strings Python
+- **2026-06-25** | [Tail Call Optimization in Python - Real Python](https://realpython.com/python-tail-call/) | kw: Tail Call Optimization in Python - Real Python
+- **2026-06-25** | [Python GIL Removal Progress - Python.org](https://docs.python.org/3/howto/free-threading-python.html) | kw: Python GIL Removal Progress - Python.org
+- **2026-06-25** | [CPython Bytecode Interpreter - Python Docs](https://docs.python.org/3/reference/executionmodel.html) | kw: CPython Bytecode Interpreter - Python Docs
+- **2026-06-25** | [Inside Python Dict - Python Speed](https://pythonspeed.com/articles/python-dictionary-implementation/) | kw: Inside Python Dict - Python Speed
+- **2026-06-25** | [Python Memory Management - Python.org](https://docs.python.org/3/c-api/memory.html) | kw: Python Memory Management - Python.org
+- **2026-06-25** | [Python Compiler Architecture - Talk Python](https://talkpython.fm/episodes/show/450/cpython-compiler-architecture) | kw: Python Compiler Architecture - Talk Python
+- **2026-06-25** | [Disassembler for Python bytecode - docs](https://docs.python.org/3/library/dis.html) | kw: Disassembler for Python bytecode - docs
+
 - **2026-06-24** | [Best Python Courses + Tutorials | Codecademy](https://www.codecademy.com/catalog/language/python) | kw: Python Courses Tutorials Codecademy
 
 - **2026-06-24** | [400 Python Interview Questions with Answers 2026](https://www.udemy.com/course/python-interview-questions-with-answers/) | kw: 400 python interview questions with answers

@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
+- **2026-06-25** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: 2025 EuroLLVM - Integration of LLVM-JIT Compiler with - YouTube
+- **2026-06-25** | [What is LLVM? The power behind Swift, Rust, Clang | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What is LLVM? The power behind Swift, Rust, Clang - InfoWorld
+- **2026-06-25** | [A Minimal LLVM JIT example for LLVM-5](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM JIT example for LLVM-5
+- **2026-06-25** | [A LLVM JIT Prototype for Running an Energy-Saving Application](https://www.preprints.org/manuscript/202306.1834) | kw: A LLVM JIT Prototype for Running an Energy-Saving Application
+- **2026-06-25** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky
+- **2026-06-25** | [LLVM PPT Slideshare](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM PPT Slideshare
+- **2026-06-25** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: LLVM JIT Compilation
+
 - **2026-06-24** | [How Compilers Work: From Code to Execution - LinkedIn](https://www.linkedin.com/pulse/how-compilers-work-from-code-execution-luke-wilson-qwicc) | kw: compilers
 - **2026-06-24** | [Online C Compiler - online editor](https://www.onlinegdb.com/online_c_compiler) | kw: compilers
 - **2026-06-24** | [Online C++ Compiler - Programiz](https://www.programiz.com/cpp-programming/online-compiler/) | kw: compilers

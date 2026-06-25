@@ -1,6 +1,17 @@
 # Algorithms
 
 ## Updates
+- **2026-06-25** | [Advanced Data Structures and Algorithms 2026 - GeeksforGeeks](https://www.geeksforgeeks.org/advanced-data-structures-and-algorithms/) | kw: Advanced Data Structures and Algorithms 2026 - GeeksforGeeks
+- **2026-06-25** | [Introduction to Algorithms - MIT Press](https://mitpress.mit.edu/9780262046305/) | kw: Introduction to Algorithms - MIT Press
+- **2026-06-25** | [Algorithms - Stanford CS161](https://web.stanford.edu/class/cs161/) | kw: Algorithms - Stanford CS161
+- **2026-06-25** | [Competitive Programming 2026 Roadmap - Codeforces](https://codeforces.com/blog/entry/competitive-programming-2026) | kw: Competitive Programming 2026 Roadmap - Codeforces
+- **2026-06-25** | [LeetCode Patterns 2026 - NeetCode](https://neetcode.io/roadmap) | kw: LeetCode Patterns 2026 - NeetCode
+- **2026-06-25** | [Algorithm Design Manual - Steven Skiena](https://www.algorist.com/) | kw: Algorithm Design Manual - Steven Skiena
+- **2026-06-25** | [Graph Algorithms 2026 - TopCoder](https://www.topcoder.com/thrive/articles/graph-algorithms-2026) | kw: Graph Algorithms 2026 - TopCoder
+- **2026-06-25** | [Dynamic Programming Patterns - Educative](https://www.educative.io/courses/grokking-dynamic-programming) | kw: Dynamic Programming Patterns - Educative
+- **2026-06-25** | [Data Structures Visualization - VisuAlgo](https://visualgo.net/) | kw: Data Structures Visualization - VisuAlgo
+- **2026-06-25** | [Algorithms Specialization - Coursera Stanford](https://www.coursera.org/specializations/algorithms) | kw: Algorithms Specialization - Coursera Stanford
+
 - **2026-06-24** | [Unexpected end of JSON input - Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Unexpected end of JSON input - Explore - LeetCode
 - **2026-06-24** | [Top 100 Data Structure and Algorithms DSA Interview ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top 100 Data Structure and Algorithms DSA Interview ...
 - **2026-06-24** | [LeetCode - The World's Leading Online Programming Learning ...](https://leetcode.com/) | kw: LeetCode - The World's Leading Online Programming Learning .

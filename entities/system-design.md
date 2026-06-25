@@ -1,6 +1,12 @@
 # System Design
 
 ## Updates
+- **2026-06-25** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2
+- **2026-06-25** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12 Essential Distributed System Design Patterns Every Architect Should Know
+- **2026-06-25** | [50 System Design Patterns Every Engineer Should Know](https://stackinterview.dev/guides/50-system-design-patterns-2026) | kw: 50 System Design Patterns Every Engineer Should Know
+- **2026-06-25** | [From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI) | kw: From Monolith to Agentic AI - James Eastham - NDC London 2026
+- **2026-06-25** | [The Complete Guide to System Design in 2026 | InfraSketch Blog](https://infrasketch.net/blog/complete-guide-system-design) | kw: The Complete Guide to System Design in 2026 - InfraSketch Blog
+
 - **2026-06-24** | [Systems theory - Wikipedia](https://en.wikipedia.org/wiki/Systems_theory) | kw: Systems theory
 
 - **2026-06-24** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If you want to get started with system design (in 2026), lea

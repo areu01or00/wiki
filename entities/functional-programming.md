@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-25** | [Functional programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming) | kw: Functional programming - Wikipedia
+- **2026-06-25** | [Co-Creator of Haskell: Functional Programming, Thinking in Types](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Co-Creator of Haskell: Functional Programming, Thinking in Types
+- **2026-06-25** | [The Functional Programming Paradigm: Concepts, Principles](https://ijsrm.net/index.php/ijsrm/article/view/7139) | kw: The Functional Programming Paradigm: Concepts, Principles
+- **2026-06-25** | [Are there functional programming languages that run on the GPU](https://stackoverflow.com/questions/21583480/are-there-functional-programming-languages-that-run-on-the-gpu) | kw: Are there functional programming languages that run on the GPU
+- **2026-06-25** | [A Tale of Two Lambdas - A Haskeller's Journey into OCaml](https://www.classcentral.com/course/youtube-haskell-25-a-tale-of-two-lambdas-a-haskeller-s-journey-into-ocaml-508765) | kw: A Tale of Two Lambdas - A Haskeller's Journey into OCaml
+- **2026-06-25** | [What is Functional Programming - Alexandru Nedelcu](https://alexn.org/blog/2017/10/15/functional-programming/) | kw: What is Functional Programming - Alexandru Nedelcu
+- **2026-06-25** | [OCaml for the Masses - ACM Queue](https://spawn-queue.acm.org/doi/10.1145/2030256.2038036) | kw: OCaml for the Masses - ACM Queue
+- **2026-06-25** | [The Rise of Functional Programming Languages - LinkedIn](https://www.linkedin.com/pulse/rise-functional-programming-languages-luis-soares-m-sc-) | kw: The Rise of Functional Programming Languages - LinkedIn
+- **2026-06-25** | [Which computer language is better Haskell or OCaml Quora](https://www.quora.com/Which-computer-language-is-better-Haskell-or-OCaml-After-trying-out-OCaml-I-say-Haskell-is-way-better-but-thats-just-my-take-What-is-your-take-and-why) | kw: Which computer language is better Haskell or OCaml Quora
+- **2026-06-25** | [Connection between type theory lambda calculus and FP - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1siyiup/need_to_the_understand_the_connection_between/) | kw: Connection between type theory lambda calculus and FP - Reddit
+
 - **2026-06-24** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional programming in 2026: haskell vs.
 - **2026-06-24** | [The Practical Value of Functional Programming - Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: the practical value of functional programming
 - **2026-06-24** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: haskell guide [2026]: functional programming that

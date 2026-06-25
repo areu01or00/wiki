@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-06-25** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system - Wikipedia
+- **2026-06-25** | [A gradual type system for Elixir - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: A gradual type system for Elixir - ScienceDirect
+- **2026-06-25** | [Type Inference for Functional and Imperative Dynamic Languages PDF](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynamic Languages PDF
+- **2026-06-25** | [What type systems do you find interesting useful underrated](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems do you find interesting useful underrated
+
 - **2026-06-24** | [Static TypeScript](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/mplr19main-id10-p-41a6cf2-42682-final.pdf) | kw: static typescript
 - **2026-06-24** | [TypeScript vs JavaScript Differences - 2026 : Aalpha](https://www.aalpha.net/blog/typescript-vs-javascript-differences/) | kw: typescript vs javascript differences - 2026
 - **2026-06-24** | [Outstanding Features of TypeScript: Static Type Checking, Compiler...](https://bfotool.com/blog/outstanding-features-of-typescript-static-type-checking-compiler-module-system) | kw: outstanding features of typescript: static type
