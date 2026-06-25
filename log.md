@@ -107,3 +107,30 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 
 ### Tool budget
 - All write/commit operations completed cleanly. No pitfall 46a/47 partial-bookkeeping risk.
+
+## 2026-06-25 17:14 UTC — Explore run (3 picks, all FRESH, 0% pre-existing)
+- **Window**: HuggingFace daily papers 2026-06-22..2026-06-25 (3-day, just-restored wiki default per pitfall 58a) + 1 monthly archive
+- **Total unique IDs**: 207 (29+29+56 daily + 105 monthly); 14 pre-existing in entities/ (93% new — expected on just-restored wiki)
+- **Pitfall 52 strict subject filter**: 100 non_cv_metadata → 61 LLM candidates (title-flavor upper bound rejected)
+- **Discovery**: HF daily papers via bundled `scripts/hf_arxiv_discovery.py --days 3 --months 1 --top-k 100`
+
+### Picks (3 fresh themes, distinct from prior 7 runs)
+| arxiv | title | theme |
+|---|---|---|
+| 2606.24595 | MEMPROBE | agentic-memory evaluation / hidden-state-recovery / confabulation-detection |
+| 2606.22953 | Plans Don't Persist | agent context-engineering / plan-persistence / eviction-policy |
+| 2606.24667 | DREAM | retrieval / embedding-from-LM / unified-retrieval-generation |
+
+### State updates
+- `explore_context.json`: 18 fields refreshed; `chains.emergent-concepts.papers_found` +3 (15→18); `emergent_concept_papers` +3 (15→18); `emergent_discoveries` +3; `emergent_concept_search_log` +1 (5→6); `emergent_concept_search_runs` +1 (5→6); `runs` +1 (5→6); `entities_count` 27 → 30
+- `watch_profiles.json`: 3 new hashes to top-level (15→18), `llm-wiki` (12→15), `profiles.llm-wiki-explore` (12→15); 3 new records to `last_results` (12→15)
+
+### Cross-check
+- 18 arxiv IDs in entities/ ↔ 18 arxiv IDs in state — OK (no orphans, no extras)
+- Wikilink integrity: all 12 [[slugs]] across 3 new entity files resolve against entities/
+- Step 5.5 check: PASS
+- Pitfall 52 strict subject filter applied: top 3 picks are cs.CL / cs.AI / cs.CL (no cs.CV)
+- Pitfall 51 lstrip-prefix check: 18 bullet-prefixed entries after ## Updates — clean
+
+### Tool budget
+- All write/commit operations completed cleanly.

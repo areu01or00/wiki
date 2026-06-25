@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T16:59:44+00:00",
-  "__last_updated": "2026-06-25T16:59:44+00:00",
-  "last_run": "2026-06-25T16:59:44+00:00",
-  "last_explore": "2026-06-25T16:59:44+00:00",
-  "last_global_explore": "2026-06-25T16:59:44+00:00",
-  "last_discovery": "2026-06-25T16:59:44+00:00",
-  "last_run_framing": "2026-06-25T16:59:44+00:00",
-  "last_framing": "2026-06-25T16:59:44+00:00",
-  "last_run_notes": "HF 3-day + 1-month window (2026-06-23..2026-06-25). 206 unique IDs, 11 pre-existing (95% new). Pitfall 52 strict subject filter recovered 61 LLM candidates from 100 non_cv_metadata. 3 picks: EDV self-confirmation-trap (agentic-learning / multi-agent-consensus), PlanBench-XL (long-horizon tool planning), ReMMD (multimodal misinformation / persistent-memory-verification).",
-  "last_pass_type": "emergent_concept",
-  "last_run_method": "HuggingFace daily papers (2026-06-23..25) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter (pitfall 52) + LLM-flavor title scoring + 5-store dedup",
+  "updated": "2026-06-25T17:14:01+00:00",
+  "__last_updated": "2026-06-25T17:14:01+00:00",
+  "last_run": "2026-06-25T17:14:01+00:00",
+  "last_explore": "2026-06-25T17:14:01+00:00",
+  "last_global_explore": "2026-06-25T17:14:01+00:00",
+  "last_discovery": "2026-06-25T17:14:01+00:00",
+  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_agentic_memory_context_engineering_retrieval",
+  "last_framing": "agentic-memory-evaluation + context-engineering + unified-retrieval-generation (3 fresh themes, all cs.CL/cs.AI)",
+  "last_run_notes": "HF 3-day + 1-month window. 207 unique IDs, 14 pre-existing (93% new). Pitfall 52 strict subject filter recovered 61 LLM candidates from 100 non_cv_metadata. 3 picks: MEMPROBE (agentic-memory evaluation / hidden-state-recovery / confabulation-detection), Plans Don't Persist (agent context-engineering / plan-persistence / eviction-policy), DREAM (retrieval / embedding-from-LM / unified-retrieval-generation).",
+  "last_pass_type": "emergent_concept_search",
+  "last_run_method": "HuggingFace daily papers (3-day window) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter (pitfall 52) + LLM-flavor title scoring + 5-store dedup",
   "run_method": "hf_daily_emergent_concept",
   "last_run_added": 3,
-  "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "agentic-learning / long-horizon-planning / multimodal-verification",
-  "emergent_theme": "agentic-learning / long-horizon-planning / multimodal-verification",
+  "exploration_type": "emergent-concept-search",
+  "emergent_concept_theme": "agentic-memory evaluation + context-engineering plan-persistence + unified-retrieval-generation",
+  "emergent_theme": "MEMPROBE (hidden-state-recovery) + Plans Don't Persist (load-bearing agent state) + DREAM (embedding-from-LM)",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 27,
+  "entities_count": 30,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -307,15 +307,42 @@
           "discovered": "2026-06-25T16:59:44+00:00",
           "subject": "Artificial Intelligence (cs.AI)",
           "theme": "multimodal misinformation / agentic-verification / persistent-memory-evidence-set"
+        },
+        {
+          "arxiv_id": "2606.24595",
+          "slug": "memprobe-probing-longterm-agent-memory-via-hidden-userstate-recovery-2606.24595",
+          "title": "MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery",
+          "url": "https://arxiv.org/abs/2606.24595",
+          "theme": "agentic-memory evaluation / hidden-state-recovery / confabulation-detection",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:14:01+00:00"
+        },
+        {
+          "arxiv_id": "2606.22953",
+          "slug": "plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953",
+          "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
+          "url": "https://arxiv.org/abs/2606.22953",
+          "theme": "agent context-engineering / plan-persistence / eviction-policy",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:14:01+00:00"
+        },
+        {
+          "arxiv_id": "2606.24667",
+          "slug": "dream-dense-retrieval-embeddings-via-autoregressive-modeling-2606.24667",
+          "title": "DREAM: Dense Retrieval Embeddings via Autoregressive Modeling",
+          "url": "https://arxiv.org/abs/2606.24667",
+          "theme": "retrieval / embedding-from-LM / unified-retrieval-generation",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T17:14:01+00:00"
         }
       ],
-      "last_run": "2026-06-25T16:42:00+00:00",
-      "last_explore": "2026-06-25T16:42:00+00:00",
+      "last_run": "2026-06-25T17:14:01+00:00",
+      "last_explore": "2026-06-25T17:14:01+00:00",
       "last_run_added": 3,
       "papers_found_count": 82,
       "run_method": "emergent-concept",
-      "last_explored": "2026-06-25T16:42:00+00:00",
-      "last_run_notes": "3 new papers: EvoEmbedding (2606.21649), AGORA (2606.24526), FlowR2A (2606.24231). Themes: LLM embeddings + agent document-reasoning + flow-matching driving planning. MERGE-then-SORT prepend to emergent-concepts.md ## Updates."
+      "last_explored": "2026-06-25T17:14:01+00:00",
+      "last_run_notes": "HF 3-day + 1-month window (2026-06-25 minus 3 days..2026-06-25). 207 unique IDs, 14 pre-existing (93% new). Pitfall 52 strict subject filter recovered 61 LLM candidates from 100 non_cv_metadata. 3 picks: MEMPROBE (agentic-memory evaluation / hidden-state-recovery), Plans Don't Persist (agent context-engineering / plan-persistence), DREAM (retrieval / embedding-from-LM)."
     }
   },
   "emergent_concept_papers": [
@@ -447,6 +474,30 @@
       "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
       "discovered": "2026-06-25T16:59:44+00:00",
       "theme": "multimodal misinformation / agentic-verification / persistent-memory-evidence-set"
+    },
+    {
+      "arxiv_id": "2606.24595",
+      "slug": "memprobe-probing-longterm-agent-memory-via-hidden-userstate-recovery-2606.24595",
+      "title": "MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery",
+      "url": "https://arxiv.org/abs/2606.24595",
+      "theme": "agentic-memory evaluation / hidden-state-recovery / confabulation-detection",
+      "discovered": "2026-06-25T17:14:01+00:00"
+    },
+    {
+      "arxiv_id": "2606.22953",
+      "slug": "plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953",
+      "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
+      "url": "https://arxiv.org/abs/2606.22953",
+      "theme": "agent context-engineering / plan-persistence / eviction-policy",
+      "discovered": "2026-06-25T17:14:01+00:00"
+    },
+    {
+      "arxiv_id": "2606.24667",
+      "slug": "dream-dense-retrieval-embeddings-via-autoregressive-modeling-2606.24667",
+      "title": "DREAM: Dense Retrieval Embeddings via Autoregressive Modeling",
+      "url": "https://arxiv.org/abs/2606.24667",
+      "theme": "retrieval / embedding-from-LM / unified-retrieval-generation",
+      "discovered": "2026-06-25T17:14:01+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -557,6 +608,30 @@
       "arxiv_id": "2606.24112",
       "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
       "date": "2026-06-23"
+    },
+    {
+      "arxiv_id": "2606.24595",
+      "title": "MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery",
+      "slug": "memprobe-probing-longterm-agent-memory-via-hidden-userstate-recovery-2606.24595",
+      "url": "https://arxiv.org/abs/2606.24595",
+      "discovered": "2026-06-25T17:14:01+00:00",
+      "theme": "agentic-memory evaluation / hidden-state-recovery / confabulation-detection"
+    },
+    {
+      "arxiv_id": "2606.22953",
+      "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
+      "slug": "plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953",
+      "url": "https://arxiv.org/abs/2606.22953",
+      "discovered": "2026-06-25T17:14:01+00:00",
+      "theme": "agent context-engineering / plan-persistence / eviction-policy"
+    },
+    {
+      "arxiv_id": "2606.24667",
+      "title": "DREAM: Dense Retrieval Embeddings via Autoregressive Modeling",
+      "slug": "dream-dense-retrieval-embeddings-via-autoregressive-modeling-2606.24667",
+      "url": "https://arxiv.org/abs/2606.24667",
+      "discovered": "2026-06-25T17:14:01+00:00",
+      "theme": "retrieval / embedding-from-LM / unified-retrieval-generation"
     }
   ],
   "emergent_concept_search_log": [
@@ -647,6 +722,24 @@
         "multimodal misinformation / agentic-verification / persistent-memory-evidence-set"
       ],
       "note": "HF 3-day + 1-month window. 95% new (11 pre-existing on just-restored wiki per pitfall 58a). Strict subject filter recovered 61 LLM candidates. 3 picks thematically distinct from prior 7 runs (avoided tool-use/structured-output, KV-cache quantization, jailbreak-detection, agent-memory, agent-benchmarking, diffusion-LLM, synthetic-data themes)."
+    },
+    {
+      "ts": "2026-06-25T17:14:01+00:00",
+      "papers_found": [
+        "memprobe-probing-longterm-agent-memory-via-hidden-userstate-recovery-2606.24595",
+        "plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953",
+        "dream-dense-retrieval-embeddings-via-autoregressive-modeling-2606.24667"
+      ],
+      "arxiv_ids": [
+        "2606.24595",
+        "2606.22953",
+        "2606.24667"
+      ],
+      "themes": [
+        "agentic-memory evaluation / hidden-state-recovery / confabulation-detection",
+        "agent context-engineering / plan-persistence / eviction-policy",
+        "retrieval / embedding-from-LM / unified-retrieval-generation"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -733,6 +826,27 @@
         "2606.22388",
         "2606.24112"
       ]
+    },
+    {
+      "ts": "2026-06-25T17:14:01+00:00",
+      "method": "HuggingFace daily papers (3-day window 2026-06-22..2026-06-25) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter (pitfall 52) + LLM-flavor title scoring + 5-store dedup",
+      "papers": [
+        "2606.24595",
+        "2606.22953",
+        "2606.24667"
+      ],
+      "slugs": [
+        "memprobe-probing-longterm-agent-memory-via-hidden-userstate-recovery-2606.24595",
+        "plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953",
+        "dream-dense-retrieval-embeddings-via-autoregressive-modeling-2606.24667"
+      ],
+      "themes": [
+        "agentic-memory evaluation / hidden-state-recovery / confabulation-detection",
+        "agent context-engineering / plan-persistence / eviction-policy",
+        "retrieval / embedding-from-LM / unified-retrieval-generation"
+      ],
+      "thematic_framing": "agentic-memory-evaluation / context-engineering / unified-retrieval-generation",
+      "dedup_rate": "207 unique IDs from HF, 14 pre-existing (93% new); strict subject filter recovered 61 LLM candidates from 100; 3 picks all FRESH"
     }
   ],
   "runs": [
@@ -785,6 +899,16 @@
         "escaping-the-self-confirmation-trap-an-execute-distill-verify-paradigm-for-agentic-experience-learning-2606.24428",
         "planbench-xl-evaluating-long-horizon-planning-of-llm-tool-use-agents-in-large-scale-tool-ecosystems-2606.22388",
         "remmd-realistic-multilingual-multi-image-agentic-verification-for-multimodal-misinformation-detection-2606.24112"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T17:14:01+00:00",
+      "mode": "emergent_concept",
+      "theme": "agentic-memory-evaluation + agent-context-engineering + unified-retrieval-generation",
+      "papers_added": [
+        "memprobe-probing-longterm-agent-memory-via-hidden-userstate-recovery-2606.24595",
+        "plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953",
+        "dream-dense-retrieval-embeddings-via-autoregressive-modeling-2606.24667"
       ]
     }
   ],

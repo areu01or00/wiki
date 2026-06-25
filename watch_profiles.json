@@ -691,7 +691,10 @@
         "909b975261f3b8ea1e01ca070c28f078",
         "8d249e5ad54f30b05560dc9e5258f43d",
         "d438fbda895dc22d2bbeb16817c03af1",
-        "f7156f7a6c6231885871fab6b561b8c6"
+        "f7156f7a6c6231885871fab6b561b8c6",
+        "3751f63f8ca5403c9561c007fa430ef2",
+        "16dec5c182ae0dab6e105958ce388915",
+        "e61a5a82049c287cf0d7cf75bb3e8a9c"
       ],
       "last_results": [
         {
@@ -804,15 +807,39 @@
           "discovered": "2026-06-25T16:59:44+00:00",
           "theme": "multimodal misinformation / agentic-verification / persistent-memory-evidence-set",
           "vector": "emergent_concept"
+        },
+        {
+          "arxiv_id": "2606.24595",
+          "title": "MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery",
+          "slug": "memprobe-probing-longterm-agent-memory-via-hidden-userstate-recovery-2606.24595",
+          "url": "https://arxiv.org/abs/2606.24595",
+          "discovered": "2026-06-25T17:14:01+00:00",
+          "theme": "agentic-memory evaluation / hidden-state-recovery / confabulation-detection"
+        },
+        {
+          "arxiv_id": "2606.22953",
+          "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
+          "slug": "plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953",
+          "url": "https://arxiv.org/abs/2606.22953",
+          "discovered": "2026-06-25T17:14:01+00:00",
+          "theme": "agent context-engineering / plan-persistence / eviction-policy"
+        },
+        {
+          "arxiv_id": "2606.24667",
+          "title": "DREAM: Dense Retrieval Embeddings via Autoregressive Modeling",
+          "slug": "dream-dense-retrieval-embeddings-via-autoregressive-modeling-2606.24667",
+          "url": "https://arxiv.org/abs/2606.24667",
+          "discovered": "2026-06-25T17:14:01+00:00",
+          "theme": "retrieval / embedding-from-LM / unified-retrieval-generation"
         }
       ],
-      "last_run": "2026-06-25T16:59:44+00:00",
-      "last_updated": "2026-06-25T16:42:00+00:00",
-      "last_result_timestamp": "2026-06-25T16:42:00+00:00",
+      "last_run": "2026-06-25T17:14:01+00:00",
+      "last_updated": "2026-06-25T17:14:01+00:00",
+      "last_result_timestamp": "2026-06-25T17:14:01+00:00",
       "last_run_key": "emergent_concept_search_3_papers_2026-06-25_16:42"
     }
   },
-  "last_run": "2026-06-25T16:59:44+00:00",
+  "last_run": "2026-06-25T17:14:01+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -828,12 +855,15 @@
     "909b975261f3b8ea1e01ca070c28f078",
     "8d249e5ad54f30b05560dc9e5258f43d",
     "d438fbda895dc22d2bbeb16817c03af1",
-    "f7156f7a6c6231885871fab6b561b8c6"
+    "f7156f7a6c6231885871fab6b561b8c6",
+    "3751f63f8ca5403c9561c007fa430ef2",
+    "16dec5c182ae0dab6e105958ce388915",
+    "e61a5a82049c287cf0d7cf75bb3e8a9c"
   ],
-  "last_discovery": "2026-06-25T16:42:00+00:00",
-  "last_updated": "2026-06-25T16:42:00+00:00",
-  "__last_updated": "2026-06-25T16:42:00+00:00",
-  "last_explore": "2026-06-25T16:42:00+00:00",
+  "last_discovery": "2026-06-25T17:14:01+00:00",
+  "last_updated": "2026-06-25T17:14:01+00:00",
+  "__last_updated": "2026-06-25T17:14:01+00:00",
+  "last_explore": "2026-06-25T17:14:01+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -847,9 +877,12 @@
       "909b975261f3b8ea1e01ca070c28f078",
       "8d249e5ad54f30b05560dc9e5258f43d",
       "d438fbda895dc22d2bbeb16817c03af1",
-      "f7156f7a6c6231885871fab6b561b8c6"
+      "f7156f7a6c6231885871fab6b561b8c6",
+      "3751f63f8ca5403c9561c007fa430ef2",
+      "16dec5c182ae0dab6e105958ce388915",
+      "e61a5a82049c287cf0d7cf75bb3e8a9c"
     ],
-    "last_discovery": "2026-06-25T16:42:00+00:00",
-    "last_run": "2026-06-25T16:59:44+00:00"
+    "last_discovery": "2026-06-25T17:14:01+00:00",
+    "last_run": "2026-06-25T17:14:01+00:00"
   }
 }
