@@ -2,26 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T18:58:00+00:00",
-  "__last_updated": "2026-06-25T18:58:00+00:00",
-  "last_run": "2026-06-25T19:30:00+00:00",
-  "last_explore": "2026-06-25T19:30:00+00:00",
-  "last_global_explore": "2026-06-25T18:58:00+00:00",
-  "last_discovery": "2026-06-25T18:58:00+00:00",
-  "last_run_framing": "emergent-concept, HF 3-day window 2026-06-23..25, agent-safety + reasoning theory themes",
-  "last_framing": "emergent-concept, HF 3-day window 2026-06-23..25, agent-safety + reasoning theory themes",
-  "last_run_notes": "Recipe C (all-new-entries-older-than-top); 3 picks across reasoning-theory (cs.LG) + agent-safety (cs.SE + cs.AI); commits atomic including emergent-concepts.md parent + 3 entity files + state files + log.md",
-  "last_pass_type": "emergent_concept",
-  "last_run_method": "hf_daily_3day_strict_subject_filter",
-  "run_method": "hf_daily_3day_strict_subject_filter",
+  "updated": "2026-06-25",
+  "__last_updated": "2026-06-25T19:25:00+00:00",
+  "last_run": "2026-06-25T19:25:00+00:00",
+  "last_explore": "2026-06-25T19:25:00+00:00",
+  "last_global_explore": "2026-06-25T19:25:00+00:00",
+  "last_discovery": "2026-06-25T19:25:00+00:00",
+  "last_run_framing": "terminal-agent open-RL recipe + cross-domain foundation model + inference-time alignment-tax mitigation",
+  "last_framing": "terminal-agent open-RL recipe + cross-domain foundation model + inference-time alignment-tax mitigation",
+  "last_run_notes": "3 picks: 2606.23321, 2606.22138, 2606.21906",
+  "last_pass_type": "emergent-concept",
+  "last_run_method": "hf-3-day-window + parallel arxiv metadata + strict subject non-CV filter",
+  "run_method": "hf-3-day-window",
   "last_run_added": 3,
-  "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "LLM agent-safety multi-axis (privilege + context) + reasoning theory boundary",
-  "emergent_theme": "LLM agent-safety multi-axis (privilege + context) + reasoning theory boundary",
+  "exploration_type": "emergent-concept",
+  "emergent_concept_theme": "terminal-agent open-RL recipe + cross-domain biological foundation model + inference-time alignment-tax mitigation",
+  "emergent_theme": "terminal-agent open-RL recipe + cross-domain biological foundation model + inference-time alignment-tax mitigation",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 54,
+  "entities_count": 60,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -986,6 +986,39 @@
       "subject": "cs.CL",
       "date": "2026-06-23",
       "theme": "inference-efficiency / prompt-vs-output-cost"
+    },
+    {
+      "arxiv_id": "2606.23321",
+      "slug": "tmax-a-simple-recipe-for-terminal-agents-2606.23321",
+      "title": "Tmax: A simple recipe for terminal agents",
+      "url": "https://arxiv.org/abs/2606.23321",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:25:00+00:00",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-22",
+      "theme": "terminal-agents / open-RL-recipe / agent-training-data"
+    },
+    {
+      "arxiv_id": "2606.22138",
+      "slug": "biomatrix-towards-a-comprehensive-biological-foundation-model-spanning-the-modality-matrix-of-sequences-structures-and-language-2606.22138",
+      "title": "BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language",
+      "url": "https://arxiv.org/abs/2606.22138",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:25:00+00:00",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-20",
+      "theme": "biological-foundation-model / cross-domain-multimodal / decoder-only-pre-training"
+    },
+    {
+      "arxiv_id": "2606.21906",
+      "slug": "deeper-is-not-always-better-mitigating-the-alignment-tax-via-confident-layer-decoding-2606.21906",
+      "title": "Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding",
+      "url": "https://arxiv.org/abs/2606.21906",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:25:00+00:00",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-20",
+      "theme": "inference-time-alignment / layer-dynamics / training-free-alignment-mitigation"
     }
   ],
   "emergent_discoveries": [
@@ -1354,6 +1387,39 @@
       "subject": "cs.CL",
       "date": "2026-06-23",
       "theme": "inference-efficiency / prompt-vs-output-cost"
+    },
+    {
+      "arxiv_id": "2606.23321",
+      "slug": "tmax-a-simple-recipe-for-terminal-agents-2606.23321",
+      "title": "Tmax: A simple recipe for terminal agents",
+      "url": "https://arxiv.org/abs/2606.23321",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:25:00+00:00",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-22",
+      "theme": "terminal-agents / open-RL-recipe / agent-training-data"
+    },
+    {
+      "arxiv_id": "2606.22138",
+      "slug": "biomatrix-towards-a-comprehensive-biological-foundation-model-spanning-the-modality-matrix-of-sequences-structures-and-language-2606.22138",
+      "title": "BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language",
+      "url": "https://arxiv.org/abs/2606.22138",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:25:00+00:00",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-20",
+      "theme": "biological-foundation-model / cross-domain-multimodal / decoder-only-pre-training"
+    },
+    {
+      "arxiv_id": "2606.21906",
+      "slug": "deeper-is-not-always-better-mitigating-the-alignment-tax-via-confident-layer-decoding-2606.21906",
+      "title": "Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding",
+      "url": "https://arxiv.org/abs/2606.21906",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-25T19:25:00+00:00",
+      "subject": "Computation and Language (cs.CL)",
+      "date": "2026-06-20",
+      "theme": "inference-time-alignment / layer-dynamics / training-free-alignment-mitigation"
     }
   ],
   "emergent_concept_search_log": [
@@ -1596,6 +1662,24 @@
       "arxiv_id": "2606.23670",
       "slug": "tapered-language-models-2606.23670",
       "theme": "LLM architecture / depth-aware capacity allocation / scaling"
+    },
+    {
+      "ts": "2026-06-25T19:25:00+00:00",
+      "arxiv_id": "2606.23321",
+      "slug": "tmax-a-simple-recipe-for-terminal-agents-2606.23321",
+      "theme": "terminal-agents / open-RL-recipe / agent-training-data"
+    },
+    {
+      "ts": "2026-06-25T19:25:00+00:00",
+      "arxiv_id": "2606.22138",
+      "slug": "biomatrix-towards-a-comprehensive-biological-foundation-model-spanning-the-modality-matrix-of-sequences-structures-and-language-2606.22138",
+      "theme": "biological-foundation-model / cross-domain-multimodal / decoder-only-pre-training"
+    },
+    {
+      "ts": "2026-06-25T19:25:00+00:00",
+      "arxiv_id": "2606.21906",
+      "slug": "deeper-is-not-always-better-mitigating-the-alignment-tax-via-confident-layer-decoding-2606.21906",
+      "theme": "inference-time-alignment / layer-dynamics / training-free-alignment-mitigation"
     }
   ],
   "emergent_concept_search_runs": [
@@ -1842,6 +1926,24 @@
         "2606.24530",
         "2606.24083"
       ]
+    },
+    {
+      "ts": "2026-06-25T19:25:00+00:00",
+      "mode": "emergent-concept",
+      "method": "HuggingFace daily papers (3 days: 2026-06-23..25) + parallel arxiv abs-page meta extraction + strict subject non-CV filter + LLM-flavor kw scoring",
+      "picks_count": 3,
+      "pick_ids": [
+        "2606.23321",
+        "2606.22138",
+        "2606.21906"
+      ],
+      "themes": [
+        "terminal-agents / open-RL-recipe / agent-training-data",
+        "biological-foundation-model / cross-domain-multimodal / decoder-only-pre-training",
+        "inference-time-alignment / layer-dynamics / training-free-alignment-mitigation"
+      ],
+      "thematic_framing": "terminal-agent open-RL recipe + cross-domain biological foundation model + inference-time alignment-tax mitigation",
+      "dedup_rate": "43/116 pre-existing on filesystem (post-pitfall-56 wiki, 57 entities, 45 arxiv IDs); 35 fresh candidates after subject non-CV filter; 3 picked"
     }
   ],
   "runs": [
@@ -1998,10 +2100,21 @@
         "2606.24530",
         "2606.24083"
       ]
+    },
+    {
+      "ts": "2026-06-25T19:25:00+00:00",
+      "type": "explore-pass",
+      "theme": "terminal-agent open-RL recipe + cross-domain foundation model + inference-time alignment-tax mitigation",
+      "papers_added": 3,
+      "pick_ids": [
+        "2606.23321",
+        "2606.22138",
+        "2606.21906"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T18:58:00+00:00",
-  "last_run_iso": "2026-06-25T19:30:00+00:00",
-  "total_entity_count": 45,
+  "last_updated": "2026-06-25T19:25:00+00:00",
+  "last_run_iso": "2026-06-25T19:25:00+00:00",
+  "total_entity_count": 60,
   "entity_files_added": 3
 }
