@@ -1,6 +1,15 @@
 # Algorithms
 
 ## Updates
+- **2026-06-25** | [data-structures · GitHub Topics · GitHub](https://github.com/topics/data-structures) | kw: github data-structures
+- **2026-06-25** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: github dsa topics
+- **2026-06-25** | [Guideline for FAANG. Algorithm and Data structure (Leetcode)](https://medium.com/@nazmus20000/guideline-for-faang-d9c2502d4af4) | kw: faang guideline
+- **2026-06-25** | [The Best Way To Learn Algorithms and Data Structures](https://dev.to/salarc123/the-best-way-to-learn-algorithms-and-data-structures-24cn) | kw: best way learn
+- **2026-06-25** | [Data Structures and Algorithms Full Course- YouTube](https://www.youtube.com/watch?v=CBYHwZcbD-s) | kw: dsa full course yt
+- **2026-06-25** | [Do we really need Leetcode (Data Structures & Algorithms)... | Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: kaggle do we need
+- **2026-06-25** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: gitplanet dsa
+- **2026-06-25** | [[Update Links] Java Data Structures & Algorithms + LEETCODE](https://learningdl.net/java-data-structures-algorithms-leetcode-exercises/) | kw: java dsa course
+
 - **2026-06-25** | [Advanced Data Structures and Algorithms 2026 - GeeksforGeeks](https://www.geeksforgeeks.org/advanced-data-structures-and-algorithms/) | kw: Advanced Data Structures and Algorithms 2026 - GeeksforGeeks
 - **2026-06-25** | [Introduction to Algorithms - MIT Press](https://mitpress.mit.edu/9780262046305/) | kw: Introduction to Algorithms - MIT Press
 - **2026-06-25** | [Algorithms - Stanford CS161](https://web.stanford.edu/class/cs161/) | kw: Algorithms - Stanford CS161

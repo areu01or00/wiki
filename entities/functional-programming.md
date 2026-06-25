@@ -1,6 +1,17 @@
 # Functional Programming
 
 ## Updates
+- **2026-06-25** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: hello haskell 2026
+- **2026-06-25** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: fp lang reddit
+- **2026-06-25** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: lobsters zig fp
+- **2026-06-25** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026)](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: pldi pure borrow
+- **2026-06-25** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: arxiv pure borrow
+- **2026-06-25** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: haskell foundation hn
+- **2026-06-25** | [Issue 529 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/529.html) | kw: haskell weekly 529
+- **2026-06-25** | [Community version of “Learn You a Haskell…” (2026 update)](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: learn you haskell
+- **2026-06-25** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: learned monads rust
+- **2026-06-25** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: finally got monads
+
 - **2026-06-25** | [Functional programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming) | kw: Functional programming - Wikipedia
 - **2026-06-25** | [Co-Creator of Haskell: Functional Programming, Thinking in Types](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Co-Creator of Haskell: Functional Programming, Thinking in Types
 - **2026-06-25** | [The Functional Programming Paradigm: Concepts, Principles](https://ijsrm.net/index.php/ijsrm/article/view/7139) | kw: The Functional Programming Paradigm: Concepts, Principles

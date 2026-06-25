@@ -1,6 +1,16 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: jit wikipedia
+- **2026-06-25** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: llvm openprojects
+- **2026-06-25** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: gsoc 2026
+- **2026-06-25** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: fosdem orcjit
+- **2026-06-25** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: tratt c jit
+- **2026-06-25** | [2026 EuroLLVM Developers' Meeting - Agenda - Announcements](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725) | kw: eurollvm agenda
+- **2026-06-25** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: julia jit
+- **2026-06-25** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: ir framework
+- **2026-06-25** | [LLNL Researchers Develop GPU JIT Compiler for Large-Scale HPC](https://www.hpcwire.com/off-the-wire/llnl-researchers-develop-gpu-jit-compiler-for-large-scale-hpc-applications/) | kw: hpcwire gpu jit
+
 - **2026-06-25** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
 - **2026-06-25** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: 2025 EuroLLVM - Integration of LLVM-JIT Compiler with - YouTube
 - **2026-06-25** | [What is LLVM? The power behind Swift, Rust, Clang | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What is LLVM? The power behind Swift, Rust, Clang - InfoWorld

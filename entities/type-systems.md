@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-06-25** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: elixir type inference
+- **2026-06-25** | [Free Video: Migrating Gradual Types - A Framework for Static and](https://www.classcentral.com/course/youtube-popl-18-migrating-gradual-types-430793) | kw: popl migrating gradual
+
 - **2026-06-25** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: Type system - Wikipedia
 - **2026-06-25** | [A gradual type system for Elixir - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: A gradual type system for Elixir - ScienceDirect
 - **2026-06-25** | [Type Inference for Functional and Imperative Dynamic Languages PDF](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynamic Languages PDF

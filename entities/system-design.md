@@ -1,6 +1,16 @@
 # System Design
 
 ## Updates
+- **2026-06-25** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system wikipedia
+- **2026-06-25** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: windows properties
+- **2026-06-25** | [What Is a System? Definition, Types, and Examples](https://scienceinsights.org/what-is-a-system-definition-types-and-examples/) | kw: system definition
+- **2026-06-25** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: merriam-webster
+- **2026-06-25** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: imdb film
+- **2026-06-25** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-and-view-system-information-panel-in-windows) | kw: windows info
+- **2026-06-25** | [SYSTEM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/system) | kw: dictionary
+- **2026-06-25** | [System – Concept, Meaning, Definition and Characteristics](https://www.mbaknol.com/management-information-systems/the-concept-of-systems/) | kw: mbaknol
+- **2026-06-25** | [System configuration tools in Windows | Microsoft Support](https://support.microsoft.com/en-US/Windows/Experience/system-configuration-tools-in-windows) | kw: microsoft support
+
 - **2026-06-25** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2
 - **2026-06-25** | [12 Essential Distributed System Design Patterns Every Architect Should Know](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12 Essential Distributed System Design Patterns Every Architect Should Know
 - **2026-06-25** | [50 System Design Patterns Every Engineer Should Know](https://stackinterview.dev/guides/50-system-design-patterns-2026) | kw: 50 System Design Patterns Every Engineer Should Know
