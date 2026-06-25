@@ -2,26 +2,28 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-25T20:45:00+00:00",
+  "updated": "2026-06-25T21:09:00+00:00",
   "__last_updated": "2026-06-25T20:45:00+00:00",
-  "last_run": "2026-06-25T20:58:00.754440+00:00",
-  "last_explore": "2026-06-25T20:45:00+00:00",
-  "last_global_explore": "2026-06-25T20:58:00.754440+00:00",
-  "last_discovery": "2026-06-25T20:45:00+00:00",
-  "last_run_framing": "explore_agent_emergent_concept_search_3_papers_agent-runtime-substrate+LLM-RL-curriculum-geometry+LLM-causal-discovery-audit",
-  "last_framing": "explore_agent_emergent_concept_search_3_papers_agent-runtime-substrate+LLM-RL-curriculum-geometry+LLM-causal-discovery-audit",
-  "last_run_notes": "Explore: 3 new entity pages from emergent-concept search on HF 3-day window (2026-06-23..2026-06-25). Picks: OpenRath: Session-Centered Runtime State for Agent Systems (2606.19409, Software Engineering) / Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models (2606.19750, Machine Learning) / Causal Discovery in the Era of Agents (2606.23608, Artificial Intelligence). After 5-store cross-dedup, 3 of 38 HF LLM-relevant candidates were fresh (92% pre-existing rate consistent with mature wiki state; entity count now 72). All 3 new papers pass wikilink-resolution check (Step 5.5) and subject filter (cs.SE/cs.LG/cs.AI only).",
-  "last_pass_type": "emergent_concept",
-  "last_run_method": "HuggingFace daily papers (curl + regex parse) + strict subject filter + 5-store cross-dedup + arxiv_meta",
-  "run_method": "hf_daily_papers + arxiv_meta",
-  "last_run_added": 3,
-  "exploration_type": "emergent_concept_search",
-  "emergent_concept_theme": "agent-runtime substrate (PyTorch-like session model) + LLM RL curriculum geometry (Bayesian optimization over problem manifold) + LLM-augmented causal-discovery (epistemological audit of LM-as-causal-scientist framing)",
-  "emergent_theme": "agent-runtime substrate / PyTorch-like session model / multi-agent state consolidation / LLM RL curriculum geometry / Bayesian optimization over problem difficulty manifold / LLM-augmented causal-discovery / epistemological audit / LM-imitation-as-causal-evidence failure mode",
-  "chains_updated": [
-    "emergent-concepts"
+  "last_run": "2026-06-25T21:09:00+00:00",
+  "last_explore": "2026-06-25T21:09:00+00:00",
+  "last_global_explore": "2026-06-25T21:09:00+00:00",
+  "last_discovery": "2026-06-25T21:09:00+00:00",
+  "last_run_framing": "emergent_concept_search",
+  "last_framing": "emergent_concept_search",
+  "last_run_notes": "Emergent-concept search run 22: 3 picks spanning agent-epistemology (Critique of Agent Model), discrete-text-optimization framework (TROPT), and agent-multimodal-creative (Libretto).",
+  "last_pass_type": "emergent_concept_search",
+  "last_run_method": "hf_daily_emergent_concept_search",
+  "run_method": "hf_daily_emergent_concept_search",
+  "last_run_added": [
+    "2606.23991",
+    "2606.23496",
+    "2606.22708"
   ],
-  "entities_count": 75,
+  "exploration_type": "emergent_concept_search",
+  "emergent_concept_theme": "agent epistemology + discrete-text-optimization framework + agent-multimodal-creative",
+  "emergent_theme": "agent epistemology + discrete-text-optimization framework + agent-multimodal-creative",
+  "chains_updated": "2026-06-25T21:09:00+00:00",
+  "entities_count": 78,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -667,6 +669,33 @@
           "discovered": "2026-06-25T20:58:00.754440+00:00",
           "subject": "Artificial Intelligence (cs.AI)",
           "theme": "LLM agent evaluation / search-agent benchmark / open-ended task suite"
+        },
+        {
+          "arxiv_id": "2606.23991",
+          "slug": "critique-of-agent-model-2606.23991",
+          "title": "Critique of Agent Model",
+          "url": "https://arxiv.org/abs/2606.23991",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T21:09:00+00:00",
+          "theme": "agent epistemology / agency-internalism / GIC architecture"
+        },
+        {
+          "arxiv_id": "2606.23496",
+          "slug": "tropt-an-open-framework-for-unifying-and-advancing-discrete-text-optimization-2606.23496",
+          "title": "TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization",
+          "url": "https://arxiv.org/abs/2606.23496",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T21:09:00+00:00",
+          "theme": "LLM discrete-text-optimization / red-teaming framework / open-source-unification"
+        },
+        {
+          "arxiv_id": "2606.22708",
+          "slug": "libretto-giving-llm-agents-a-sense-of-musical-structure-2606.22708",
+          "title": "Libretto: Giving LLM Agents a Sense of Musical Structure",
+          "url": "https://arxiv.org/abs/2606.22708",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-25T21:09:00+00:00",
+          "theme": "LLM-agent creative/multimodal / symbolic-music / structured-representation"
         }
       ],
       "last_run": "2026-06-25T20:14:53.048457+00:00",
@@ -1271,6 +1300,33 @@
       "discovered": "2026-06-25T20:58:00.754440+00:00",
       "subject": "Artificial Intelligence (cs.AI)",
       "theme": "LLM agent evaluation / search-agent benchmark / open-ended task suite"
+    },
+    {
+      "arxiv_id": "2606.23991",
+      "slug": "critique-of-agent-model-2606.23991",
+      "title": "Critique of Agent Model",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:09:00+00:00",
+      "theme": "agent epistemology / agency-internalism / GIC architecture"
+    },
+    {
+      "arxiv_id": "2606.23496",
+      "slug": "tropt-an-open-framework-for-unifying-and-advancing-discrete-text-optimization-2606.23496",
+      "title": "TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization",
+      "url": "https://arxiv.org/abs/2606.23496",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:09:00+00:00",
+      "theme": "LLM discrete-text-optimization / red-teaming framework / open-source-unification"
+    },
+    {
+      "arxiv_id": "2606.22708",
+      "slug": "libretto-giving-llm-agents-a-sense-of-musical-structure-2606.22708",
+      "title": "Libretto: Giving LLM Agents a Sense of Musical Structure",
+      "url": "https://arxiv.org/abs/2606.22708",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:09:00+00:00",
+      "theme": "LLM-agent creative/multimodal / symbolic-music / structured-representation"
     }
   ],
   "emergent_discoveries": [
@@ -1774,7 +1830,34 @@
     },
     "gatemem-benchmarking-memory-governance-in-multi-principal-shared-memory-agents-2606.18829",
     "sproutrag-attention-guided-tree-search-with-progressive-embeddings-for-long-2606.18381",
-    "dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-2606.12871"
+    "dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-2606.12871",
+    {
+      "arxiv_id": "2606.23991",
+      "slug": "critique-of-agent-model-2606.23991",
+      "title": "Critique of Agent Model",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:09:00+00:00",
+      "theme": "agent epistemology / agency-internalism / GIC architecture"
+    },
+    {
+      "arxiv_id": "2606.23496",
+      "slug": "tropt-an-open-framework-for-unifying-and-advancing-discrete-text-optimization-2606.23496",
+      "title": "TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization",
+      "url": "https://arxiv.org/abs/2606.23496",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:09:00+00:00",
+      "theme": "LLM discrete-text-optimization / red-teaming framework / open-source-unification"
+    },
+    {
+      "arxiv_id": "2606.22708",
+      "slug": "libretto-giving-llm-agents-a-sense-of-musical-structure-2606.22708",
+      "title": "Libretto: Giving LLM Agents a Sense of Musical Structure",
+      "url": "https://arxiv.org/abs/2606.22708",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-25T21:09:00+00:00",
+      "theme": "LLM-agent creative/multimodal / symbolic-music / structured-representation"
+    }
   ],
   "emergent_concept_search_log": [
     {
@@ -2139,6 +2222,25 @@
         "sproutrag-attention-guided-tree-search-with-progressive-embeddings-for-long-2606.18381",
         "dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-2606.12871"
       ]
+    },
+    {
+      "run_iso": "2026-06-25T21:09:00+00:00",
+      "method": "hf_daily_emergent_concept_search",
+      "window_days": 3,
+      "candidates_total": 116,
+      "candidates_fresh": 57,
+      "candidates_llm_relevant": 53,
+      "picked": 3,
+      "themes": [
+        "agent epistemology / agency-internalism / GIC architecture",
+        "LLM discrete-text-optimization / red-teaming framework / open-source-unification",
+        "LLM-agent creative/multimodal / symbolic-music / structured-representation"
+      ],
+      "picks": [
+        "2606.23991",
+        "2606.23496",
+        "2606.22708"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -2478,6 +2580,18 @@
       "method": "hf_daily_papers + arxiv_meta",
       "papers_added": 3,
       "themes": "LLM agent memory governance / hierarchical RAG with attention-guided progressive embeddings / open-ended search-agent benchmark"
+    },
+    {
+      "run": 22,
+      "run_iso": "2026-06-25T21:09:00+00:00",
+      "method": "hf_daily_emergent_concept_search",
+      "window": "2026-06-23..2026-06-25",
+      "picks": [
+        "2606.23991",
+        "2606.23496",
+        "2606.22708"
+      ],
+      "entity_count_after": 78
     }
   ],
   "runs": [
@@ -2689,11 +2803,27 @@
       "method": "hf_daily_papers + arxiv_meta",
       "papers_added": 3,
       "themes": "LLM agent memory governance / hierarchical RAG with attention-guided progressive embeddings / open-ended search-agent benchmark"
+    },
+    {
+      "run": 22,
+      "run_iso": "2026-06-25T21:09:00+00:00",
+      "method": "hf_daily_emergent_concept_search",
+      "window": "2026-06-23..2026-06-25",
+      "picks": [
+        "2606.23991",
+        "2606.23496",
+        "2606.22708"
+      ],
+      "entity_count_after": 78
     }
   ],
-  "last_updated": "2026-06-25T19:25:00+00:00",
-  "last_run_iso": "2026-06-25T20:29:46.633598+00:00",
-  "total_entity_count": 60,
-  "entity_files_added": 3,
-  "pass_type": "emergent_concept"
+  "last_updated": "2026-06-25T21:09:00+00:00",
+  "last_run_iso": "2026-06-25T21:09:00+00:00",
+  "total_entity_count": 78,
+  "entity_files_added": [
+    "critique-of-agent-model-2606.23991.md",
+    "tropt-an-open-framework-for-unifying-and-advancing-discrete-text-optimization-2606.23496.md",
+    "libretto-giving-llm-agents-a-sense-of-musical-structure-2606.22708.md"
+  ],
+  "pass_type": "emergent_concept_search"
 }
