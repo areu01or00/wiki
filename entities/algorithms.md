@@ -4085,5 +4085,16 @@
 
 
 ## Updates
+- **2026-06-25** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..
+- **2026-06-25** | [Amazon Interview | SDE-1 | Selected - Discuss - LeetCode](https://leetcode.com/discuss/post/8029194) | kw: Amazon Interview
+- **2026-06-25** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms interview in 2026
+- **2026-06-25** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)
+- **2026-06-25** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode Isn't Dead in 2026
+- **2026-06-25** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are ...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: LeetCode Is Dead in 2026. Here Is What Top Companies Are ...
+- **2026-06-25** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: Data Structures/Algorithms to go over the day of the test
+- **2026-06-25** | [How to Pass Leetcode Interviews: The Ritual That Works](https://proandroiddev.com/how-to-pass-leetcode-interviews-the-ritual-that-works-a788ff2f4f27) | kw: How to Pass Leetcode Interviews: The Ritual That Works
+- **2026-06-25** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: Rethinking DSA for 2026 Interview Success
+- **2026-06-25** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Top 100 DSA Interview Questions
+
 
 - **2026-06-25** | [Kotak%20mahindra%20bank Interview Questions & Experiences 2026](https://www.codingkaro.in/jobs-internships/leetcode-interview-experience/Kotak+Mahindra+Bank) | kw: Kotak Mahindra interview

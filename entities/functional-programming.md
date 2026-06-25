@@ -1,3 +1,9 @@
+- **2026-06-25** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: What Is a Monad in Functional Programming?
+- **2026-06-25** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Monad tutorials timeline
+- **2026-06-25** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying MONADs: What you need to know!
+- **2026-06-25** | [Monads And Their Use in Modern Programming](https://www.linkedin.com/pulse/monads-use-modern-programming-enrique-ortu%C3%B1o-znk9f) | kw: Monads And Their Use in Modern Programming
+- **2026-06-25** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: Monads: A Powerful Concept in Functional Programming
+
 - **2026-06-25** | [How I Learned Monads: Not Through Haskell But Through Rust - Medium](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How I Learned Monads: Not Through Haskell But Thro
 - **2026-06-25** | [Hello, Haskell: Getting Started in 2026 · lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello, Haskell: Getting Started in 2026
 - **2026-06-25** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The Practical Value of Functional Programming

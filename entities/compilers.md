@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-06-25** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A LLVM JIT Prototype for Running an Energy-Saving...
+- **2026-06-25** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize JIT Compilation with LLVM's Next Generation API
+- **2026-06-25** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: LLVM JIT Compilation
+- **2026-06-25** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
+
 - **2026-06-25** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The LLVM Compiler Infrastructure Project
 - **2026-06-25** | [2025 EuroLLVM - Integration of LLVM-JIT Compiler with... - YouTube](https://www.youtube.com/watch?v=5vQs4NJB11k) | kw: 2025 EuroLLVM
 - **2026-06-25** | [What is LLVM? The power behind Swift, Rust, Clang, and... | InfoWorld](https://www.infoworld.com/article/2261861/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html) | kw: What is LLVM? The power behind Swift, Rust, Clang,

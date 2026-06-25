@@ -3591,6 +3591,17 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-06-25** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Edition)
+- **2026-06-25** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If you want to get started with system design (in 2026), learn these 16...
+- **2026-06-25** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: Top SaaS Architecture Patterns in 2026: From Monolith...
+- **2026-06-25** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: Integration Patterns 2026: Query Patterns (Consistency vs...)
+- **2026-06-25** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distributed Systems
+- **2026-06-25** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: System Design Concepts Course and Interview Prep
+- **2026-06-25** | [Multi-Agent Orchestration Patterns: Building Production Systems in...](https://www.frankx.ai/blog/multi-agent-orchestration-patterns-2026) | kw: Multi-Agent Orchestration Patterns: Building Production Systems in...
+- **2026-06-25** | [Prompt Engineering for Developers: 5 Production Patterns That Work...](https://www.groovyweb.co/blog/prompt-engineering-for-developers-production-patterns-2026) | kw: Prompt Engineering for Developers: 5 Production Patterns That Work...
+- **2026-06-25** | [I Have 73 Browser Tabs Open. ADHD Made Me a Better Architect.](https://chudi.dev/blog/adhd-systems-architecture-engineering) | kw: I Have 73 Browser Tabs Open. ADHD Made Me a Better Architect.
+- **2026-06-25** | [A pattern language for microservices](https://microservices.io/patterns/index.html) | kw: A pattern language for microservices
+
 - **2026-06-25** | [2 Patterns for Resilience Beyond Multi-AZ](https://blog.simukappu.com/resilience-beyond-multi-az-bulkheads-and-shock-absorbers-architecture-dojo-2024) | kw: resilience patterns
 - **2026-06-25** | [System Design: Mock System Design Interview: Design URL...](https://blog.felipefr.dev/mock-system-design-interview-design-url-shortener) | kw: URL shortener
 - **2026-06-25** | [AI Agent Architecture Patterns: ReAct, Plan-and-Execute, Multi-Agent](https://openclaw-ai.net/en/blog/ai-agent-architecture-patterns-2026) | kw: AI agent architecture

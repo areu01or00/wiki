@@ -3931,6 +3931,12 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-06-25** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: Python Tutorial
+- **2026-06-25** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: Python Operators
+- **2026-06-25** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: Online Python Compiler (Interpreter)
+- **2026-06-25** | [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) | kw: Introduction to Python
+- **2026-06-25** | [Download Python | Python.org](https://www.python.org/downloads/) | kw: Download Python
+
 
 - **2026-06-25** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Top 50 Python Interview Questions and Answers (202
 

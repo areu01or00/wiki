@@ -73,19 +73,19 @@
         "AI Agent Architecture Patterns: ReAct, Plan-and-Execute, Mul",
         "AI agent architecture",
         "Database Per Service vs Shared Database: Microservices Data.",
-        "microservices database"
+        "microservices database",
+        "Modern Architecture Patterns (2026 Edition)",
+        "If you want to get started with system design (in 2026), learn these 16...",
+        "Top SaaS Architecture Patterns in 2026: From Monolith...",
+        "Integration Patterns 2026: Query Patterns (Consistency vs...)",
+        "Centralized vs. Decentralized vs. Distributed Systems",
+        "System Design Concepts Course and Interview Prep",
+        "Multi-Agent Orchestration Patterns: Building Production Systems in...",
+        "Prompt Engineering for Developers: 5 Production Patterns That Work...",
+        "I Have 73 Browser Tabs Open. ADHD Made Me a Better Architect.",
+        "A pattern language for microservices"
       ],
       "last_result_hashes": [
-        "bb714ad6af53a799cae8059a4e4c6a28",
-        "5289353cd0420bc31c3dd763d49f1986",
-        "5a9c2a8c552b1efa7bcc9eea205a8b46",
-        "d4c47f619e9e965851bc79eb7c352836",
-        "94c1b0f099f1d566f3fdedccba3cf97b",
-        "91dac6710169bf7346d4292a6eb2d0c9",
-        "2329422a9910ab33981727a77f2ecd37",
-        "66ae815700cacb4e96d1e78f07e63810",
-        "30eb2e1134419c9dd635b852dc30339c",
-        "2d3506c3f6b37ad4e09360268ba56f6d",
         "bd9c53776405cab613029a2242f038c3",
         "3813a85c177e3ca3873baaa96742d8b5",
         "ad4481a7dbbc4df9fc46950e17d1fbb1",
@@ -95,20 +95,32 @@
         "4a75975bbd7ceb861d5fe114d0669e90",
         "e2648b84ec2d1b998a39b3fd67a6c7f1",
         "ca7da9ec39a8c21c806542d8b630d44a",
-        "e386d25ff1816abec2a4433c860ed876"
+        "e386d25ff1816abec2a4433c860ed876",
+        "f808d13c3fbb1d0b9dcfa821011972b9",
+        "96d3a3ea85839fe8f92ece2b7d05a39a",
+        "7f55d36d484e57880341279532f3a5d5",
+        "82601ad43b0fe127ccdd116d7f69071f",
+        "9ef09709545d432e2dc99e2cf360fbe8",
+        "20c9af03d5ba04de769b9c8d55fbf657",
+        "296232a484ebb0a2303e19fa650f6b06",
+        "81698e4cb907a3ce79c9ffd387bd1f0a",
+        "513266132bd394a9f3232c4e04ec4fc7",
+        "e5ea3ae7e71798914e21fe82d0de658b"
       ],
-      "last_run": "2026-06-25 06:32 UTC",
+      "last_run": "2026-06-25 06:47 UTC",
       "new_sub_topics_this_run": [
-        "2 Patterns for Resilience Beyond Multi-AZ",
-        "resilience patterns",
-        "System Design: Mock System Design Interview: Design URL...",
-        "URL shortener",
-        "AI Agent Architecture Patterns: ReAct, Plan-and-Execute, Mul",
-        "AI agent architecture",
-        "Database Per Service vs Shared Database: Microservices Data.",
-        "microservices database"
+        "Modern Architecture Patterns (2026 Edition)",
+        "If you want to get started with system design (in 2026), learn these 16...",
+        "Top SaaS Architecture Patterns in 2026: From Monolith...",
+        "Integration Patterns 2026: Query Patterns (Consistency vs...)",
+        "Centralized vs. Decentralized vs. Distributed Systems",
+        "System Design Concepts Course and Interview Prep",
+        "Multi-Agent Orchestration Patterns: Building Production Systems in...",
+        "Prompt Engineering for Developers: 5 Production Patterns That Work...",
+        "I Have 73 Browser Tabs Open. ADHD Made Me a Better Architect.",
+        "A pattern language for microservices"
       ],
-      "last_new_count": 4
+      "last_new_count": 10
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -184,13 +196,13 @@
         "643 software",
         "581 Software",
         "software engineer",
-        "In-Demand software"
+        "In-Demand software",
+        "A LLVM JIT Prototype for Running an Energy-Saving...",
+        "Revolutionize JIT Compilation with LLVM's Next Generation API",
+        "LLVM JIT Compilation",
+        "LLVM"
       ],
       "last_result_hashes": [
-        "97a549ca28fbb96d1da5a5b7993e3644",
-        "f56349b4e60ede46a648991d718829e1",
-        "4574fe07c8777d7dd9e435a94605d5d4",
-        "470d910ef73670290f5dc3d18c02cc14",
         "fdd4ffbce27465b77708763f0a147e47",
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
         "f212b8bc83dbc58b61083167f860e67f",
@@ -206,11 +218,20 @@
         "f1925c0af6e39aa520ffa6a282ede525",
         "2b8946866c886624f1f07a6dc41a80bf",
         "82bd6cb1694f9adc9d2067aafcbe6c25",
-        "86768d8752a6979c5c8cea02f676f762"
+        "86768d8752a6979c5c8cea02f676f762",
+        "b4b1697fc63d5704d74c4c88d69cd644",
+        "2e36db34c1a584712cd6f35f63aa33ba",
+        "cce86a95c27c221910b49215668720b0",
+        "34c166634f13431feef39c0866dcf8e7"
       ],
-      "last_run": "2026-06-25 06:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-25 06:47 UTC",
+      "new_sub_topics_this_run": [
+        "A LLVM JIT Prototype for Running an Energy-Saving...",
+        "Revolutionize JIT Compilation with LLVM's Next Generation API",
+        "LLVM JIT Compilation",
+        "LLVM"
+      ],
+      "last_new_count": 4
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -279,18 +300,18 @@
         "Elixir v120",
         "Guard Analysis",
         "Elixirs Gradual",
-        "Efficient Selection"
+        "Efficient Selection",
+        "Gradual typing",
+        "Gradual typing with unification-based inference",
+        "To what extent is type theory relevant to dynamically typed languages?",
+        "What Is Gradual Typing?",
+        "A gradual type system for Elixir",
+        "Static Blame for gradual typing",
+        "[PDF] Type Inference for Functional and Imperative Dynamic Languages",
+        "Elixir v1.20 released: now a gradually typed language",
+        "Future of high-level languages : r/ProgrammingLanguages"
       ],
       "last_result_hashes": [
-        "b177475a05631b06f73e531cf8aa0a39",
-        "647cad759bd975f60fc3d8236d2a5230",
-        "2944fb0b49eaf29412a77666f39991d9",
-        "55852131fabfce2db4a4694561d1aa46",
-        "6dd02e9dbc82ee59e01eebd7931fcaa4",
-        "30ca0230688267960b258d9c681d38ad",
-        "393c2007828b49d14ae2ce8a8bf61873",
-        "9690352f7009ebdc75a8f27458ec1898",
-        "0e40ec20e1a733a8136667ee5938762f",
         "0f283757319d5365f9f3d2ac8e848912",
         "6c257d065a3041b16049b05a47e582ff",
         "686812076d5de90d1c2ef77d554beb01",
@@ -301,11 +322,30 @@
         "fc735fa9ff4c8d2d83888648a67a3892",
         "a775d463940cda26049a2bbb97f4a0a9",
         "8def5ac28caf3d0c145465a52adec4c4",
-        "0940c3cea7239d5389eb0d921777f44c"
+        "0940c3cea7239d5389eb0d921777f44c",
+        "08183a095f9bb03fe7dd6ce06dfd5115",
+        "281dcc412b25b8e56702cc648bcf9932",
+        "474d9e795c4f52bbdf5cfdeabfe5907f",
+        "6d77d36d5d5faa4ef4e6858564ce52bc",
+        "125dbb0b4ca4da741d64d57bca463383",
+        "157412d23ae7600e6e71f1c5ad39564a",
+        "59a8a21374ae68e5d94fe6780980c29c",
+        "1892288ce3bfda31458d852753d72f5f",
+        "fbbaca7a81cd71c2a53da427867cb51c"
       ],
-      "last_run": "2026-06-25 06:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-25 06:47 UTC",
+      "new_sub_topics_this_run": [
+        "Gradual typing",
+        "Gradual typing with unification-based inference",
+        "To what extent is type theory relevant to dynamically typed languages?",
+        "What Is Gradual Typing?",
+        "A gradual type system for Elixir",
+        "Static Blame for gradual typing",
+        "[PDF] Type Inference for Functional and Imperative Dynamic Languages",
+        "Elixir v1.20 released: now a gradually typed language",
+        "Future of high-level languages : r/ProgrammingLanguages"
+      ],
+      "last_new_count": 9
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -357,7 +397,7 @@
         "Wikipedia",
         "Watch",
         "Borrowing",
-        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
         "Monads Explained Without",
         "Haskell Foundation 2026 Update | Hacker News",
         "Words",
@@ -375,14 +415,14 @@
         "lang r/functionalprogramming",
         "Functional Programmers",
         "Brutal Truth",
-        "Pure Borrow"
+        "Pure Borrow",
+        "What Is a Monad in Functional Programming?",
+        "Monad tutorials timeline",
+        "Demystifying MONADs: What you need to know!",
+        "Monads And Their Use in Modern Programming",
+        "Monads: A Powerful Concept in Functional Programming"
       ],
       "last_result_hashes": [
-        "d41c8db6a25e3b0e29a3bf10cb5c7ec2",
-        "f88808d81b42631027cb3a7bf97e43a3",
-        "ca7ca59d81ef9f5c1da8e243ec9d6517",
-        "e55528583c075e31a35045fcb82d4f34",
-        "1db5f717264d17e31600d898af5293af",
         "1d7970e84cd4f8c65e15448cb2b5fc0b",
         "1ba86dd5c8314cde433def788cc0443c",
         "269341708d555d5819da5ef32f81a574",
@@ -397,11 +437,22 @@
         "449f1936d11b3408b5111b8fbfc6e205",
         "64b9213a9db6ffcf3ee048410614e9dc",
         "2ce5775930209e8a8c3a28a2f7f1a4a5",
-        "48e396ad3bb766dd1b0be8823cba3259"
+        "48e396ad3bb766dd1b0be8823cba3259",
+        "480d402e9012f947099ff628259136e0",
+        "7f6eb77ff98a45cf3700b0445a0e2e46",
+        "30528bdc44cd273f71e20b4509f48e6d",
+        "b015dacd58845f8a0b72851fd852150b",
+        "93f73097d592fc6a2fe0abda2019b299"
       ],
-      "last_run": "2026-06-25 06:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-25 06:47 UTC",
+      "new_sub_topics_this_run": [
+        "What Is a Monad in Functional Programming?",
+        "Monad tutorials timeline",
+        "Demystifying MONADs: What you need to know!",
+        "Monads And Their Use in Modern Programming",
+        "Monads: A Powerful Concept in Functional Programming"
+      ],
+      "last_new_count": 5
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -415,9 +466,9 @@
         "complexities!",
         "cs161",
         "data-structures",
-        "data-structures · GitHub Topics · GitHub",
+        "data-structures \u00b7 GitHub Topics \u00b7 GitHub",
         "datastructures-algorithms",
-        "datastructures-algorithms · GitHub Topics · GitHub",
+        "datastructures-algorithms \u00b7 GitHub Topics \u00b7 GitHub",
         "design",
         "dev",
         "dynamic",
@@ -472,19 +523,19 @@
         "FAANG Interview",
         "Algorithms Data",
         "Kotak%20mahindra%20bank Interview Questions & Experiences 20",
-        "Kotak Mahindra interview"
+        "Kotak Mahindra interview",
+        "Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..",
+        "Amazon Interview",
+        "How to prepare for Data Structures & Algorithms interview in 2026",
+        "Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)",
+        "LeetCode Isn't Dead in 2026 \u2014 But It's No Longer Enough",
+        "LeetCode Is Dead in 2026. Here Is What Top Companies Are ...",
+        "Data Structures/Algorithms to go over the day of the test",
+        "How to Pass Leetcode Interviews: The Ritual That Works",
+        "Rethinking DSA for 2026 Interview Success",
+        "Top 100 DSA Interview Questions"
       ],
       "last_result_hashes": [
-        "db4e70fe3369b860a804f7230900f524",
-        "c559f855463864f3db44a42b634b4fdd",
-        "1de5e6c214f5c903677b0790487ad033",
-        "e9f35abfd88f89c69621cb462d294c7e",
-        "ec401c280dd19f2b40d32dbb452a7dd8",
-        "bacc4c268ab4d6ab4c074b284e41ab33",
-        "0d4c223d74df4fe83ef4d94e4912c198",
-        "875641e0e660008cbd2d527b761b06e9",
-        "40d81968e910e5de9b2aafee125543ae",
-        "58fccbdfcd7d0691f1590fc1159ab0b1",
         "07b45dd630b96d07812a67f4a9f4e608",
         "e1ed71951b7bcfcda8b8abda9127236d",
         "da312315785ba95b93df42236b566423",
@@ -494,14 +545,32 @@
         "9db2dd1ef6aa351897802aec83281fe2",
         "f822dd4d7a9290624864e5a92712ba08",
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
-        "c047a018ea3c082f89d714707176a9b7"
+        "c047a018ea3c082f89d714707176a9b7",
+        "91be5584dbf464075792ced4e3e82d74",
+        "cb455ff1bd98b88c3b3cbe35bc8f9e13",
+        "51bdec45c83dc444c8040f8f04671877",
+        "7827ab24e9d276e3b17d86a148741a99",
+        "1ff2c45205d19d05c322321f335f0949",
+        "7d4a56009e609966d5ca545b08860211",
+        "efaca53a4fb3332a168f55b43aac804a",
+        "6bb5f45745653c7264d8c29607bac581",
+        "35f3793cac8b78d908e7f2d7bb34859d",
+        "5e88f6c01a27285ecd0ce1dd293a399e"
       ],
-      "last_run": "2026-06-25 06:32 UTC",
+      "last_run": "2026-06-25 06:47 UTC",
       "new_sub_topics_this_run": [
-        "Kotak%20mahindra%20bank Interview Questions & Experiences 20",
-        "Kotak Mahindra interview"
+        "Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..",
+        "Amazon Interview",
+        "How to prepare for Data Structures & Algorithms interview in 2026",
+        "Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)",
+        "LeetCode Isn't Dead in 2026 \u2014 But It's No Longer Enough",
+        "LeetCode Is Dead in 2026. Here Is What Top Companies Are ...",
+        "Data Structures/Algorithms to go over the day of the test",
+        "How to Pass Leetcode Interviews: The Ritual That Works",
+        "Rethinking DSA for 2026 Interview Success",
+        "Top 100 DSA Interview Questions"
       ],
-      "last_new_count": 1
+      "last_new_count": 10
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -570,14 +639,14 @@
         "Internals Python",
         "What Python",
         "Best YouTube",
-        "Fix windows"
+        "Fix windows",
+        "Python Tutorial",
+        "Python Operators",
+        "Online Python Compiler (Interpreter)",
+        "Introduction to Python",
+        "Download Python"
       ],
       "last_result_hashes": [
-        "bbb596c3441904fed7dc7fa5f00eeb00",
-        "661f5f68f6928f4ea520218b2f607795",
-        "175fe459d8ef35d2e78d3b0536243f87",
-        "c644c61774b53593b05d98f55951400a",
-        "17f40f751da9a1c9558ca7dbf958ae7e",
         "10a6d6e786cdb44ade53e424b1cf9cd2",
         "a2fcdf777b793a14ffaf06cf960d7d37",
         "57ad949b13054a49134274f7b5cbab95",
@@ -592,12 +661,23 @@
         "a6c58176fc7c15d04c6965b77938f5ae",
         "2b488ef7ce114fc1b91a56466211fbe2",
         "83c76331b8d186cc5d695017f50eb5fb",
-        "a454e6bd90dd4ae1795224af7e27c1bb"
+        "a454e6bd90dd4ae1795224af7e27c1bb",
+        "eb0b3ec801d1a3e533436e346922f4e5",
+        "8c9ba4cb5a5e5722f9c0bc68313672d7",
+        "1f8e2c92ae5ada27a41135077afa335d",
+        "1d2c3f7c79b6739381eda440cbb16a95",
+        "ea5c38d19b30409d9d46cbd89420af5d"
       ],
-      "last_run": "2026-06-25 06:32 UTC",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 0
+      "last_run": "2026-06-25 06:47 UTC",
+      "new_sub_topics_this_run": [
+        "Python Tutorial",
+        "Python Operators",
+        "Online Python Compiler (Interpreter)",
+        "Introduction to Python",
+        "Download Python"
+      ],
+      "last_new_count": 5
     }
   },
-  "last_run": "2026-06-25 06:32 UTC"
+  "last_run": "2026-06-25 06:47 UTC"
 }
