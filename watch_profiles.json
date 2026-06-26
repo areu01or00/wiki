@@ -823,7 +823,10 @@
         "58ec421003ecd3700d71fdfe3798dfc5",
         "3cccfd90cb5b5e0b6abb036f1b5f2a01",
         "f546332de709619eeee9f4b24a187256",
-        "640fbde1914e0f6fae54f47cf635e39a"
+        "640fbde1914e0f6fae54f47cf635e39a",
+        "1a5d4902f11efbc9b2decb081b0cb436",
+        "5f05723b04b50bb37b5f685dabf451b3",
+        "6ce7b8b0b7b26786541bacc94b5bddd7"
       ],
       "last_results": [
         {
@@ -1957,16 +1960,72 @@
               "slug": "agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning-2606.03965"
             }
           ]
+        },
+        {
+          "arxiv_id": "2606.26904",
+          "slug": "robust-to-confidence-aware-tool-orchestration-for-robust-video-understanding-2606.26904",
+          "title": "Confidence-Aware Tool Orchestration for Robust Video Understanding",
+          "hash": "1a5d4902f11efbc9b2decb081b0cb436",
+          "timestamp": "2026-06-26T04:25:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.26300",
+          "slug": "the-verification-horizon-no-silver-bullet-for-coding-agent-rewards-2606.26300",
+          "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+          "hash": "5f05723b04b50bb37b5f685dabf451b3",
+          "timestamp": "2026-06-26T04:25:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.21959",
+          "slug": "openbiorq-unsolved-biomedical-research-questions-for-agents-2606.21959",
+          "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
+          "hash": "6ce7b8b0b7b26786541bacc94b5bddd7",
+          "timestamp": "2026-06-26T04:25:00+00:00"
+        },
+        {
+          "run_id": "run_2026-06-26T04:25:00+00:00",
+          "timestamp": "2026-06-26T04:25:00+00:00",
+          "mode": "emergent_concept",
+          "arxiv_ids": [
+            "2606.26904",
+            "2606.26300",
+            "2606.21959"
+          ],
+          "slugs": [
+            "robust-to-confidence-aware-tool-orchestration-for-robust-video-understanding-2606.26904",
+            "the-verification-horizon-no-silver-bullet-for-coding-agent-rewards-2606.26300",
+            "openbiorq-unsolved-biomedical-research-questions-for-agents-2606.21959"
+          ],
+          "themes": [
+            "calibrated-confidence-as-evidence-attribute",
+            "verification-co-evolution-with-generator",
+            "abstention-as-research-discipline"
+          ],
+          "thematic_framing": "verification-co-evolution + biomedical-research-faithfulness + calibrated-evidence-reliability (3-axis pivot from Run 37-49 streaks)",
+          "files": [
+            {
+              "arxiv_id": "2606.26904",
+              "slug": "robust-to-confidence-aware-tool-orchestration-for-robust-video-understanding-2606.26904"
+            },
+            {
+              "arxiv_id": "2606.26300",
+              "slug": "the-verification-horizon-no-silver-bullet-for-coding-agent-rewards-2606.26300"
+            },
+            {
+              "arxiv_id": "2606.21959",
+              "slug": "openbiorq-unsolved-biomedical-research-questions-for-agents-2606.21959"
+            }
+          ]
         }
       ],
-      "last_run": "2026-06-26T03:53:00+00:00",
-      "last_updated": "2026-06-26T03:53:00+00:00",
+      "last_run": "2026-06-26T04:25:00+00:00",
+      "last_updated": "2026-06-26T04:25:00+00:00",
       "last_result_timestamp": "2026-06-26T03:25:00+00:00",
       "last_run_key": "hf_daily_emergent_concept_search",
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-26T04:16:07.483914+00:00",
+  "last_run": "2026-06-26T04:25:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -2111,11 +2170,14 @@
     "58ec421003ecd3700d71fdfe3798dfc5",
     "3cccfd90cb5b5e0b6abb036f1b5f2a01",
     "f546332de709619eeee9f4b24a187256",
-    "640fbde1914e0f6fae54f47cf635e39a"
+    "640fbde1914e0f6fae54f47cf635e39a",
+    "1a5d4902f11efbc9b2decb081b0cb436",
+    "5f05723b04b50bb37b5f685dabf451b3",
+    "6ce7b8b0b7b26786541bacc94b5bddd7"
   ],
-  "last_discovery": "2026-06-26T04:16:07.483914+00:00",
-  "last_updated": "2026-06-26T04:16:07.483914+00:00",
-  "__last_updated": "2026-06-26T04:16:07.483914+00:00",
+  "last_discovery": "2026-06-26T04:25:00+00:00",
+  "last_updated": "2026-06-26T04:25:00+00:00",
+  "__last_updated": "2026-06-26T04:25:00+00:00",
   "last_explore": "2026-06-26T03:39:12+00:00",
   "llm-wiki": {
     "last_result_hashes": [
@@ -2262,11 +2324,14 @@
       "58ec421003ecd3700d71fdfe3798dfc5",
       "3cccfd90cb5b5e0b6abb036f1b5f2a01",
       "f546332de709619eeee9f4b24a187256",
-      "640fbde1914e0f6fae54f47cf635e39a"
+      "640fbde1914e0f6fae54f47cf635e39a",
+      "1a5d4902f11efbc9b2decb081b0cb436",
+      "5f05723b04b50bb37b5f685dabf451b3",
+      "6ce7b8b0b7b26786541bacc94b5bddd7"
     ],
-    "last_discovery": "2026-06-26T03:25:00+00:00",
-    "last_run": "2026-06-26T03:53:00+00:00",
-    "last_updated": "2026-06-26T03:53:00+00:00"
+    "last_discovery": "2026-06-26T04:25:00+00:00",
+    "last_run": "2026-06-26T04:25:00+00:00",
+    "last_updated": "2026-06-26T04:25:00+00:00"
   },
   "last_pass_type": "emergent_concept"
 }

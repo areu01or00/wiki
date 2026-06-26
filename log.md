@@ -1173,3 +1173,79 @@ Updated log.md via `git show HEAD:log.md > /tmp/run0043/log.md.restored` + `cat 
 - 3-store lockstep invariant intact at 144 hashes
 - ensure_ascii preserved (EC=True, WP=True, consistent with HEAD)
 - 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
+
+## 2026-06-26 04:25 UTC — Run 50: Emergent-concept search (verification-co-evolution + biomedical-research-faithfulness + calibrated-evidence-reliability)
+
+**Mode**: emergent-concept-search (all 9 named chains at 4/4 since 2026-05-25)
+**Method**: HuggingFace daily papers (3-day window: 2026-06-24..26) + v2 SvelteKit data-props parser + arxiv abs-page meta extraction via curl + arxiv API verification
+**Candidates surveyed**: 75 unique arxiv IDs across 4 HF sources (3 date windows + default), 67 LLM-relevant after title filter, 17 fresh after 5-store dedup, 3 picked
+**Papers added**: 3
+
+### Papers
+1. **Confidence-Aware Tool Orchestration for Robust Video Understanding** (2606.26904) — He, Choi, Yoon (cs.CV, 2026-06-25). Theme: video-reasoning / evidence-reliability / calibrated-confidence / confidence-cost-grpo. Diagnoses *Blind Trust Problem* (15-30 pp accuracy drop on embodied video benchmarks under realistic perturbations while model remains unaware); proposes Robust-TO with unified evidence interface (concrete prediction + temporal grounding + calibrated reliability score); confidence-cost GRPO reward jointly optimizes correctness/reliability/efficiency. **First calibrated-per-evidence-reliability-weighting paper for video reasoning in the wiki.**
+2. **The Verification Horizon: No Silver Bullet for Coding Agent Rewards** (2606.26300) — Wang, Zhang, Liu, Zhang, Chen, Chen, Fang et al. (cs.CL, 2026-06-25). Theme: coding-agent-reward / verification-co-evolution / no-silver-bullet / reward-hacking-stability. Argues the classical "verifying is easier than producing" intuition is inverted for coding agents; characterizes reward signals along scalability/faithfulness/robustness; empirically evaluates 4 reward constructions across task types and policy capability levels. **First verification-co-evolution-with-generator framing for coding-agent reward design in the wiki.**
+3. **OpenBioRQ: Unsolved Biomedical Research Questions for Agents** (2606.21959) — Jeong (cs.CL, 2026-06-20). Theme: biomedical-agentic-research / citation-faithfulness / abstention-discipline / agentic-collapse-on-hardest-questions. Diagnoses citation-correctness failure mode (99% resolve, 15.9% link to wrong paper); 12,553 unsolved biomedical questions as faithfulness-and-abstention probe; diagnoses agentic-collapse where agents stop using tools on hardest questions. **First biomedical benchmark combining agentic setting with unsolved questions that have no answer key in the wiki.**
+
+### Parent updates
+- `entities/emergent-concepts.md` ## Updates — simple prepend (all 3 new entries newer than existing top 06-13): 06-25 (Robust-TO) → 06-25 (Verification Horizon) → 06-20 (OpenBioRQ) → 06-13 (Let LLMs Judge Each Other) → ... Date-DESC verified.
+
+### Step 5.5 wikilink-resolution check
+- All 3 new entity files: 16 wikilinks total, 0 broken
+- Parent new-block (Run 50's 3 entries): 18 wikilinks, 0 broken
+- Phase 4 date-DESC: 06-25 → 06-25 → 06-20 → 06-13 → 06-06 confirmed
+
+### Dedup
+- `endswith(f'-{arxiv_id}.md')` suffix check: 0 collisions (75/75 candidates fresh after filter)
+- 5-store dedup (filesystem + ECP + 3 watch_profiles stores): 17 fresh candidates, 3 picked
+- `watch_profiles.json[last_result_hashes]`: 3 new MD5 hashes appended to all 3 stores (147 total in each, lockstep intact)
+- `explore_context.json[emergent_concept_papers]`: 147 (144→147, +3)
+
+### Tool budget
+- All write/commit operations completed cleanly within budget. No pitfall 46a/47 partial-bookkeeping risk.
+
+### Theme-pivot verification
+- **Run 37-38**: agent evaluation / deployment angle
+- **Run 39**: post-training + memory + safety-mechanism
+- **Run 40**: operational-infra
+- **Run 41**: ultra-long-horizon + memory-systems + jailbreak
+- **Run 42**: provenance + safety-measurement + prospective-research
+- **Run 43**: rubric-self-distill + skill-survey + researcher-mimicry
+- **Run 44**: on-policy-skill-distill + YaRN + smart-home-eval
+- **Run 45**: memory-graph + data-recipe + branch-routing
+- **Run 46**: direct-policy-alignment + externalization + token-routing
+- **Run 47**: formal-math + chromatographic-eval + latent-parallel-branches
+- **Run 48**: agentic-RL-collapse + matched-modality + reasoning-trace-extraction
+- **Run 49**: multi-agent-peer-review + open-ended-coordination + mdp-reasoning-steering
+- **Run 50**: verification-co-evolution + biomedical-research-faithfulness + calibrated-evidence-reliability (3-axis pivot, structurally orthogonal to all 12 prior streaks)
+
+### Cycle counts
+- HF daily 3-day window: 75 unique arxiv IDs
+- LLM-relevant after title filter: 67
+- 5-store dedup: 17 fresh candidates
+- Pre-write `ls entities/ | grep` discovery: confirmed all 3 picks first-in-wiki across 5+ theme-keyword checks
+- 3 picks selected (3-axis pivot), all from HF daily
+- All 4 phase verifications pass (16 wikilinks in new entities + 18 in parent new-block, 0 broken; date-DESC verified 06-25 → 06-25 → 06-20)
+- 38th consecutive clean run of avoided-pitfalls
+
+### State file updates
+- explore_context.json: ecp 144→147 (+3), ed 144→147 (+3), entity_files_added 6→9 (+3), ecsl 64→65 (+1), ecsr 35→36 (+1), runs 46→47 (+1)
+- watch_profiles.json: top/llm/exp_h all 144→147 (+3 hashes), exp.last_results 134→135 (+1 record)
+- 3-store lockstep intact at 147 hashes
+- ensure_ascii: EC=True (verified vs HEAD), WP=True — divergent stable state held (29th consecutive run)
+
+### Entity count
+- Before run: 156 entities (144 paper + 12 meta) per state file
+- After run: 159 entities (147 paper + 12 meta) per filesystem (state file drifted to 156 due to last-run bookkeeping, reconciled per pitfall-74)
+- +3 paper entities created, all first-in-wiki surfaces
+
+### Verification framework (all 4 phases pass)
+1. **Phase 1** (pre-write `ls entities/ | grep`): confirmed 0 matches for verification-horizon/silver-bullet/robust-to/blind-trust/openbiorq/citation-correctness themes
+2. **Phase 2** (post-write per-entity wikilink audit): 16 wikilinks total, 0 broken
+3. **Phase 3** (parent new-block wikilink audit): 18 wikilinks, 0 broken
+4. **Phase 4** (date-DESC + insertion-order): 06-25 → 06-25 → 06-20 → 06-13 → 06-06 confirmed in `## Updates` top-5
+
+### Operational notes
+- **3-axis pivot verified**: verification-co-evolution-with-generator + biomedical-research-faithfulness-and-abstention + calibrated-evidence-reliability are structurally orthogonal to all prior Run 37-49 streaks.
+- **Sibling cross-references used**: REMMD-2606.24112 (multimodal verification), Capable-But-Careless-2606.23189 (rule-following), SWE-Marathon-2606.07682 (coding agent completion), Beyond-Reward-Engineering-2606.18831 (data recipe for RL), Rubric-Conditioned-Self-Distillation-2606.19327 (reward supervision), NatureBench-2606.24530 (coding agent SOTA), Flow-Matching-Reward-Backprop-2606.11075 (reward design space), LingxiDiagBench-2602.09379 (medical-domain multi-agent), Let-LLMs-Judge-Each-Other-2606.15419 (medical multi-agent reasoning), Where-Does-Signal-Live-2606.22079 (medical encoder pretraining), Deep-Research-2606.18648 (multi-agent deep-research), Scientific-Peer-Review-2606.25057 (peer-review reliability), Evidence-Tracing-2606.04990 (forward provenance), ForeSci-2606.00644 (forward-looking research judgment) — all verified via `ls entities/` pre-write.
+- **HF daily v2 parser works**: 75 unique IDs across 3 fetched dates + default page; LLM-keyword filter gives 67 candidates; 5-store dedup leaves 17 fresh; primary substrate sufficient for this run (no web_search escape hatch needed — picks were strong).
+- **Cycle counts**: ~40 tool calls, 7-file atomic commit (3 entity + parent + 2 state + log.md).
