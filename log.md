@@ -1440,3 +1440,21 @@ Together these 3 axes bracket the *unified-system*-surface — three orthogonal 
 - **3-store lockstep verified**: top/llm-wiki/llm-wiki-explore each have 174 hashes, all SETS equal (pitfall-68a/b). Updated from 171 → 174.
 - **entities_count reconciled to filesystem truth**: 186 (was 183 before Run 60, added 3 entity files).
 - **Cycle counts**: ~30 tool calls; 7-file commit planned (3 entity + parent + 2 state + log.md).
+
+## 2026-06-26 09:09 UTC — Emergent-concept search Run 67 (3 fresh themes — training-free-PRM + query-conditioned-test-time-self-training + routing-free-MoE)
+
+Run 67 — pitfall-83 streak extended to 13 consecutive runs (longest in wiki history by 1 run). HF daily v2 returned 18 papers on 2026-06-26 with only 5 fresh after 5-store dedup and only 2 borderline LLM-keyword-matched. HF pool firmly CV/3D-heavy for mid-June 2026 (will likely persist into July).
+
+**Web_search 4-query DEEP-SUB-CLUSTER-ROTATION-IN-ANOTHER-PRIMITIVE-CLASS escape hatch per Rule 36c continued** — pivoted from Run 66's deployment-evaluation primitives to model-architecture + test-time-training + training-free-process-reward primitives: sub-axes of model-arch from Run 62's task-routing-theoretical + test-time from Runs 57/64 + reasoning from Run 47 that weren't the headline pick in prior runs. Axes: (a) off-the-shelf-LLM-as-process-scorer / chunk-level-guided-generation + (b) routing-free MoE / no centralized router / load-balancing-only + (c) test-time self-training / query-conditioned adaptation / parameter-efficient fine-tuning. Surfaced 16 fresh LLM candidates after 5-store dedup.
+
+**3 picks (date-DESC by online_date)**:
+1. **Off-the-Shelf LLMs as Process Scorers** (2606.01682, 06-04) — first training-free PRM alternative in the wiki via fixed-length chunk-level likelihood scoring on a stronger off-the-shelf LLM; CGS matches or outperforms Qwen2.5-Math-PRM-72B without reward-model training
+2. **Query-Conditioned Test-Time Self-Training** (2605.13369, 05-14) — first per-query test-time parameter-adaptation framework in the wiki via structurally-related-problem-solution-pair supervision derived from the input query
+3. **Routing-Free Mixture-of-Experts** (2604.00801, 04-01) — first routing-primitive-removed MoE architecture in the wiki; each expert decides activation autonomously via continuous gradient flow
+
+**3-axis DOMAIN-DIVERSITY DEEP-SUB-CLUSTER-OTHER-PRIMITIVE-CLASS PIVOT per Rule 36c continued** from Run 66 deployment-side primitives to architecture + training-free + test-time primitive-class triplet.
+
+3-store lockstep verified post-write (195/195/195); state-file JSON formatting preserved (diff +79/-2 additive only); pre-write + post-write wikilink audit passed.
+
+Commit: `43762e4` → push succeeded.
+
