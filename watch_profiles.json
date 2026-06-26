@@ -784,7 +784,10 @@
         "f23ea4399a182cab1601632b2b6eb936",
         "13ad4149179741733937c4e18b3c4c57",
         "3952db5b7ed2434790a5e91723c6ac62",
-        "893f2825fe72106b040318d177985cd2"
+        "893f2825fe72106b040318d177985cd2",
+        "464a0bb1914bc8f9f22f959178ff8e84",
+        "74132b3805d7749f8d932043fcd8c448",
+        "eb83bd81e5c70044fe14ce094ddf154b"
       ],
       "last_results": [
         {
@@ -1647,6 +1650,27 @@
           "url": "https://arxiv.org/abs/2606.19930",
           "discovered": "2026-06-26T00:24:00+00:00",
           "theme": "mobile-gui-agent / annotation-free-adaptation / hierarchical-policy / feedback-guided-optimization / app-specialization"
+        },
+        {
+          "arxiv_id": "2606.19704",
+          "slug": "beyond-static-leaderboards-predictive-validity-evaluation-llm-agents-2606.19704",
+          "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
+          "hash": "464a0bb1914bc8f9f22f959178ff8e84",
+          "discovered": "2026-06-26T00:39:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.13681",
+          "slug": "evoarena-tracking-memory-evolution-robust-llm-agents-dynamic-environments-2606.13681",
+          "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+          "hash": "74132b3805d7749f8d932043fcd8c448",
+          "discovered": "2026-06-26T00:39:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.00198",
+          "slug": "bagen-are-llm-agents-budget-aware-2606.00198",
+          "title": "BAGEN: Are LLM Agents Budget-Aware?",
+          "hash": "eb83bd81e5c70044fe14ce094ddf154b",
+          "discovered": "2026-06-26T00:39:00+00:00"
         }
       ],
       "last_run": "2026-06-25T23:12:09.658648+00:00",
@@ -1656,7 +1680,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-26T00:24:00+00:00",
+  "last_run": "2026-06-26T00:39:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1762,12 +1786,15 @@
     "f23ea4399a182cab1601632b2b6eb936",
     "13ad4149179741733937c4e18b3c4c57",
     "3952db5b7ed2434790a5e91723c6ac62",
-    "893f2825fe72106b040318d177985cd2"
+    "893f2825fe72106b040318d177985cd2",
+    "464a0bb1914bc8f9f22f959178ff8e84",
+    "74132b3805d7749f8d932043fcd8c448",
+    "eb83bd81e5c70044fe14ce094ddf154b"
   ],
-  "last_discovery": "2026-06-26T00:24:00+00:00",
-  "last_updated": "2026-06-26T00:24:00+00:00",
-  "__last_updated": "2026-06-26T00:24:00+00:00",
-  "last_explore": "2026-06-26T00:08:00+00:00",
+  "last_discovery": "2026-06-26T00:39:00+00:00",
+  "last_updated": "2026-06-26T00:39:00+00:00",
+  "__last_updated": "2026-06-26T00:39:00+00:00",
+  "last_explore": "2026-06-26T00:39:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1874,7 +1901,10 @@
       "f23ea4399a182cab1601632b2b6eb936",
       "13ad4149179741733937c4e18b3c4c57",
       "3952db5b7ed2434790a5e91723c6ac62",
-      "893f2825fe72106b040318d177985cd2"
+      "893f2825fe72106b040318d177985cd2",
+      "464a0bb1914bc8f9f22f959178ff8e84",
+      "74132b3805d7749f8d932043fcd8c448",
+      "eb83bd81e5c70044fe14ce094ddf154b"
     ],
     "last_discovery": "2026-06-25T23:12:09.658648+00:00",
     "last_run": "2026-06-25T23:12:09.658648+00:00",
