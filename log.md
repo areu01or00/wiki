@@ -788,3 +788,44 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - 129 entity count (117 paper + 12 meta)
 - 3-store lockstep invariant intact at 117 hashes
 - 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
+## Run 2026-06-26 01:54 UTC — Run 41 — Ultra-Long-Horizon Benchmark + Systems Memory + Jailbreak-Mechanism Discovery (3 axes pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infrastructure)
+
+**Mode**: Emergent-concept search (all 9 chains at 4/4 since 2026-05-25)
+**Picks**:
+1. [[swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682]] — SWE-Marathon (06-05) — 20 long-horizon tasks calibrated at the **4+ hour / 1M+ token** scale — first benchmark that exposes gaps in planning/long-context/memory at hour-scale (vs minute-scale prior benchmarks)
+2. [[safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614]] — Safety Paradox Posterior Attack (06-04) — single-query jailbreak exploiting safety awareness as a side channel: prompts model to emit the EXACT harmful response its internal classifier would flag — >90% attack success across 30+ LLMs
+3. [[agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448]] — Agent Memory Characterization (06-04) — first systems-level characterization of agent memory with 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision — distinct from framework-level surveys (Are-We-Ready) by measuring system behavior under realistic session lengths
+
+**Theme-pivot from MULTIPLE streaks (verified Run 41)**: deliberately pivots from BOTH Run 37-38 agent-evaluation-deployment streak AND Run 39 post-training/memory/safety-mechanism streak AND Run 40 operational-infrastructure umbrella. Three structurally orthogonal axes: ultra-long-horizon benchmark protocol (SWE-Marathon) + systems-level memory characterization (Agent Memory) + jailbreak-mechanism-discovery via safety-awareness-as-vulnerability (Safety Paradox Posterior Attack).
+
+**Result**: 7-file atomic commit (3 new entity files + parent emergent-concepts.md + explore_context.json + watch_profiles.json + log.md), pushed to origin/main.
+
+**All 4 phase verifications pass (Run 41)**:
+- Phase 1 (Pre-write `ls | grep`): theme-keyword discovery for each of 3 picks — verified first-in-wiki surface for each
+- Phase 2 (Post-write per-entity audit): 12 wikilinks across 3 new files (4+4+4), 0 broken on first pass (Run 35 forward-prevention via `ls | grep` worked)
+- Phase 3 (Parent new-block audit): 3 wikilinks in prepended block, 0 broken, 0 placeholder
+- Phase 4 (Date-DESC verification): top-3 entries verified as SWE-Marathon (06-05) → Safety Paradox (06-04, last-inserted same-date) → Agent Memory Char (06-04, first-inserted same-date), matching expected date-DESC + insertion-order tiebreaker
+
+**State-file schema gotchas all caught (verified Run 41)**:
+- emergent_concept_papers / emergent_discoveries / chains.papers_found / emergent_concept_search_log entries are dicts: arxiv_id_set() helper applied for dedup
+- runs and emergent_concept_search_runs are lists of records: OrderedDict append pattern with structured fields, idempotent timestamp guard
+- Idempotent run-record guard: timestamp-checked before append (no NameError, no partial-write state)
+- detect_ensure_ascii() helper verified EC=False (raw UTF-8) + WP=True (escaped) preserved
+
+**3-store lockstep invariant verified (Run 41)**:
+- SET-equality: set(top) == set(llm) == set(exp) — verified at 120 hashes each (was 117, +3)
+- Per-store uniqueness: 0 duplicates in any store
+- Pre-write assertion: 117 hashes each PASSED
+- Post-write re-verification: 120 hashes each PASSED
+
+**Cycle counts**:
+- 64 HF candidates in 4 sources (default + 06-26 + 06-25 + 06-24) → 14 fresh after 5-store dedup → 5 LLM-relevant (mostly CV/3D)
+- 11 web_search candidates (4 queries) → 11 fresh after 5-store dedup → 11 LLM-relevant (memory + safety + jailbreak)
+- 16 LLM-relevant total → 3 picks (theme-pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)
+- 12 wikilinks across 3 new entity files (4+4+4) → 0 broken on first pass (Run 35 forward-prevention worked)
+- 3 wikilinks in parent new-block → 0 broken, 0 placeholder
+- 29th consecutive clean run of avoided-pitfalls
+- 3 new hashes (7ab36c94, 44698880, 57e85705) all unique vs 117-hash pool
+- 132 entity count (120 paper + 12 meta)
+- 3-store lockstep invariant intact at 120 hashes
+- 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)

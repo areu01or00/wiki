@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-26T01:42:00+00:00",
   "__last_updated": "2026-06-26T01:42:00+00:00",
-  "last_run": "2026-06-26T01:42:00+00:00",
+  "last_run": "2026-06-26T02:01:10+00:00",
   "last_explore": "2026-06-26T01:42:00+00:00",
   "last_global_explore": "2026-06-26T01:17:00+00:00",
-  "last_discovery": "2026-06-26T01:17:00+00:00",
+  "last_discovery": "2026-06-26T02:01:10+00:00:3 papers added (2606.07682 + 2606.06448 + 2606.05614)",
   "last_run_framing": "post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry (pivots from Run 38 agent-evaluation-deployment streak to post-training + memory + safety-mechanism surfaces)",
   "last_framing": "agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks)",
-  "last_run_notes": "Run 37 — emergent-concept search. Theme-diversity: agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks). 3 picks spanning agent-runtime-design (BAGEN, budget-as-control-signal, first budget-awareness paper in wiki), agent-evaluation-methodology (Beyond-Static-Leaderboards, predictive-validity, first predictive-validity paper in wiki), and persistent-environment-benchmark (EvoArena, memory-evolution-tracking, first persistent-environment benchmark in wiki).",
+  "last_run_notes": "Run 41 (2026-06-26T02:01:10+00:00): 3 picks — SWE-Marathon (2606.07682, ultra-long-horizon benchmark protocol, 4+ hour/1M+ token scale) + Agent Memory Characterization (2606.06448, systems-level memory taxonomy + workload characterization) + Safety Paradox Posterior Attack (2606.05614, safety-awareness-as-vulnerability single-query jailbreak). Theme-pivot from Run 37-38 eval-deployment streak AND Run 39 post-training/memory/safety-mechanism streak AND Run 40 operational-infrastructure umbrella. Three structurally orthogonal axes: ultra-long-horizon benchmark protocol + systems-level memory characterization + jailbreak-mechanism-discovery.",
   "last_pass_type": "emergent_concept_search",
   "last_run_method": "hf_daily_emergent_concept_search + web_search_escape_hatch",
   "run_method": "emergent-concept-search",
@@ -1123,6 +1123,33 @@
           "vector": "emergent-concept-search",
           "discovered": "2026-06-26T01:42:00+00:00",
           "theme": "ontology-grounded-pre-deployment-verification + trust-certification"
+        },
+        {
+          "arxiv_id": "2606.07682",
+          "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
+          "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
+          "url": "https://arxiv.org/abs/2606.07682",
+          "vector": "ultra-long-horizon-benchmark-protocol",
+          "discovered": "2026-06-26T02:01:10+00:00",
+          "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
+        },
+        {
+          "arxiv_id": "2606.06448",
+          "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
+          "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+          "url": "https://arxiv.org/abs/2606.06448",
+          "vector": "systems-level-memory-characterization",
+          "discovered": "2026-06-26T02:01:10+00:00",
+          "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
+        },
+        {
+          "arxiv_id": "2606.05614",
+          "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
+          "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
+          "url": "https://arxiv.org/abs/2606.05614",
+          "vector": "safety-awareness-as-vulnerability",
+          "discovered": "2026-06-26T02:01:10+00:00",
+          "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -2200,6 +2227,33 @@
       "vector": "emergent-concept-search",
       "discovered": "2026-06-26T01:42:00+00:00",
       "theme": "ontology-grounded-pre-deployment-verification + trust-certification"
+    },
+    {
+      "arxiv_id": "2606.07682",
+      "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
+      "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
+      "url": "https://arxiv.org/abs/2606.07682",
+      "vector": "ultra-long-horizon-benchmark-protocol",
+      "discovered": "2026-06-26T02:01:10+00:00",
+      "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
+    },
+    {
+      "arxiv_id": "2606.06448",
+      "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
+      "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+      "url": "https://arxiv.org/abs/2606.06448",
+      "vector": "systems-level-memory-characterization",
+      "discovered": "2026-06-26T02:01:10+00:00",
+      "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
+    },
+    {
+      "arxiv_id": "2606.05614",
+      "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
+      "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
+      "url": "https://arxiv.org/abs/2606.05614",
+      "vector": "safety-awareness-as-vulnerability",
+      "discovered": "2026-06-26T02:01:10+00:00",
+      "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
     }
   ],
   "emergent_discoveries": [
@@ -3164,6 +3218,30 @@
       "vector": "emergent-concept-search",
       "discovered": "2026-06-26T01:42:00+00:00",
       "theme": "ontology-grounded-pre-deployment-verification + trust-certification"
+    },
+    {
+      "arxiv_id": "2606.07682",
+      "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
+      "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
+      "url": "https://arxiv.org/abs/2606.07682",
+      "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+      "discovered": "2026-06-26T02:01:10+00:00"
+    },
+    {
+      "arxiv_id": "2606.06448",
+      "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
+      "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+      "url": "https://arxiv.org/abs/2606.06448",
+      "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+      "discovered": "2026-06-26T02:01:10+00:00"
+    },
+    {
+      "arxiv_id": "2606.05614",
+      "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
+      "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
+      "url": "https://arxiv.org/abs/2606.05614",
+      "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+      "discovered": "2026-06-26T02:01:10+00:00"
     }
   ],
   "emergent_concept_search_log": [
@@ -3905,6 +3983,24 @@
       "llm_relevant_hf": 4,
       "web_search_candidates": 14,
       "dedup_rate": "12-of-62-fresh-HF + 14-fresh-web-search / 117-existing"
+    },
+    {
+      "arxiv_id": "2606.07682",
+      "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
+      "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+      "discovered": "2026-06-26T02:01:10+00:00"
+    },
+    {
+      "arxiv_id": "2606.06448",
+      "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
+      "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+      "discovered": "2026-06-26T02:01:10+00:00"
+    },
+    {
+      "arxiv_id": "2606.05614",
+      "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
+      "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+      "discovered": "2026-06-26T02:01:10+00:00"
     }
   ],
   "emergent_concept_search_runs": [
@@ -4598,6 +4694,28 @@
       "thematic_framing": "operational-infrastructure-for-agents — tool-use-memory + formal-pre-deployment-verification + automated-scientific-review (3 axes distinct from Run 37-38 agent-eval streak and Run 39 post-training+memory+safety-mechanism streak)",
       "dedup_rate": "12-of-62-fresh-HF + 14-fresh-web-search / 117-existing",
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-26T02:01:10+00:00",
+      "method": "HF daily (4 sources) + web_search (4 queries — agent memory, safety, training) + 5-store dedup",
+      "papers": [
+        "2606.07682",
+        "2606.06448",
+        "2606.05614"
+      ],
+      "slugs": [
+        "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
+        "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
+        "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614"
+      ],
+      "themes": [
+        "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+        "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+        "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
+      ],
+      "thematic_framing": "ultra-long-horizon-benchmark-protocol + systems-level-memory-characterization + jailbreak-mechanism-discovery (3 axes structurally orthogonal to Run 37-38 eval-deployment, Run 39 post-training/memory/safety, Run 40 operational-infrastructure)",
+      "dedup_rate": "14 fresh HF, 11 fresh web_search = 25 fresh candidates → 3 picks after LLM-keyword filter + theme-pivot discipline",
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "runs": [
@@ -5036,9 +5154,21 @@
       ],
       "entities_count_after": 132,
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "timestamp": "2026-06-26T02:01:10+00:00",
+      "mode": "emergent_concept",
+      "theme": "ultra-long-horizon-benchmark + systems-memory-characterization + jailbreak-mechanism (pivot from Run 37-40 streaks)",
+      "papers_added": [
+        "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
+        "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
+        "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614"
+      ],
+      "entities_count_after": 132,
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
-  "last_updated": "2026-06-26T01:02:11+00:00",
+  "last_updated": "2026-06-26T02:01:10+00:00",
   "last_run_iso": "2026-06-26T01:02:11+00:00",
   "total_entity_count": 123,
   "entity_files_added": [
@@ -5083,5 +5213,15 @@
       "slug": "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135",
       "theme": "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment"
     }
-  ]
+  ],
+  "last_run_mode": "emergent_concept",
+  "last_run_summary": {
+    "timestamp": "2026-06-26T02:01:10+00:00",
+    "picks": [
+      "2606.07682",
+      "2606.06448",
+      "2606.05614"
+    ],
+    "theme": "ultra-long-horizon-benchmark + systems-memory-characterization + jailbreak-mechanism (pivot from prior 4-run streaks)"
+  }
 }
