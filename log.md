@@ -1249,3 +1249,64 @@ Updated log.md via `git show HEAD:log.md > /tmp/run0043/log.md.restored` + `cat 
 - **Sibling cross-references used**: REMMD-2606.24112 (multimodal verification), Capable-But-Careless-2606.23189 (rule-following), SWE-Marathon-2606.07682 (coding agent completion), Beyond-Reward-Engineering-2606.18831 (data recipe for RL), Rubric-Conditioned-Self-Distillation-2606.19327 (reward supervision), NatureBench-2606.24530 (coding agent SOTA), Flow-Matching-Reward-Backprop-2606.11075 (reward design space), LingxiDiagBench-2602.09379 (medical-domain multi-agent), Let-LLMs-Judge-Each-Other-2606.15419 (medical multi-agent reasoning), Where-Does-Signal-Live-2606.22079 (medical encoder pretraining), Deep-Research-2606.18648 (multi-agent deep-research), Scientific-Peer-Review-2606.25057 (peer-review reliability), Evidence-Tracing-2606.04990 (forward provenance), ForeSci-2606.00644 (forward-looking research judgment) — all verified via `ls entities/` pre-write.
 - **HF daily v2 parser works**: 75 unique IDs across 3 fetched dates + default page; LLM-keyword filter gives 67 candidates; 5-store dedup leaves 17 fresh; primary substrate sufficient for this run (no web_search escape hatch needed — picks were strong).
 - **Cycle counts**: ~40 tool calls, 7-file atomic commit (3 entity + parent + 2 state + log.md).
+
+## 2026-06-26 05:00 UTC — Run 51: Emergent-concept search (context-gap + self-exploration + capability-routing)
+
+### Picks
+1. **Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation** (2606.26907, 06-25) — Zhang, Zekai; Li, Jiahao; Zhang, Jie; Gao, Kaiyuan et al. — Identifies the structural *Context Gap* failure mode where T2I models receive only the literal prompt yet need richer generation context for real-world requests; proposes Qwen-Image-Agent, a unified agentic framework that integrates plan, reason, search, memory, and feedback in a context-centric manner; introduces Image Agent Bench (IA-Bench) covering Plan, Reason, Search, and Memory capabilities.
+2. **In-Context World Modeling for Robotic Control** (2606.26025, 06-24) — Wang, Siyin; Shi, Junhao; Fei, Senyu et al. — Treats system identification as an in-context adaptation problem; VLA policies autonomously infer essential system variables from self-generated task-agnostic interactions, capturing world dynamics before task execution and adapting to novel camera viewpoints without parameter updates.
+3. **DanceOPD: On-Policy Generative Field Distillation** (2606.27377, 06-25) — Zhou, Wei; Zhu, Xiongwei; Xu, Zelin et al. — On-policy generative field distillation for flow-matching models; routes each sample to one capability field, queries one low-noise student-induced state, and trains with a simple velocity MSE objective; absorbs operator-defined fields (CFG) into the same framework; strengthens target capabilities while preserving anchor generation quality.
+
+### Theme pivot from Run 37-50
+- **Run 37-38**: agent evaluation / deployment angle
+- **Run 39**: post-training + memory + safety-mechanism
+- **Run 40**: operational-infra
+- **Run 41**: ultra-long-horizon + memory-systems + jailbreak
+- **Run 42**: provenance + safety-measurement + prospective-research
+- **Run 43**: rubric-self-distill + skill-survey + researcher-mimicry
+- **Run 44**: on-policy-skill-distill + YaRN + smart-home-eval
+- **Run 45**: memory-graph + data-recipe + branch-routing
+- **Run 46**: direct-policy-alignment + externalization + token-routing
+- **Run 47**: formal-math + chromatographic-eval + latent-parallel-branches
+- **Run 48**: agentic-RL-collapse + matched-modality + reasoning-trace-extraction
+- **Run 49**: multi-agent-peer-review + open-ended-coordination + mdp-reasoning-steering
+- **Run 50**: verification-co-evolution + biomedical-faithfulness + calibrated-evidence-reliability
+
+Run 51 pivots to **3 structurally orthogonal axes**:
+1. **Context-gap-as-task-definition** — agentic T2I framed as gap-filling between user context and generation context; IA-Bench as the Plan+Reason+Search+Memory capability-coverage eval surface
+2. **Self-exploration-as-system-identification** — VLA policies that infer system config from autonomous interactions (not demonstrations), enabling parameter-free adaptation to novel camera viewpoints and robot morphologies
+3. **Capability-routing-as-distillation-target** — flow-matching distillation that routes each sample to a capability field rather than joint multi-task supervision; on-policy field querying on student rollouts composes expert capabilities
+
+Together these 3 axes bracket the *unified-system*-surface — three orthogonal primitives for how to make a single model/agent do many things well (image-gen gap-filling + VLA system-id + flow-matching capability composition).
+
+### Cycle counts
+- HF daily 3-day window + default: 75 unique IDs (06-26 → 12, 06-25 → 33, 06-24 → 29, default → 1)
+- LLM-relevant after title filter: 67
+- After 5-store cross-dedup: 14 fresh candidates
+- Pre-write `ls entities/ | grep` discovery: confirmed all 3 picks first-in-wiki across 5+ theme-keyword checks
+- 3 picks selected (3-axis pivot), all from HF daily v2 parser
+- All 4 phase verifications pass (3 wikilinks in new entities + 9 in parent new-block, 0 broken; date-DESC verified 06-25 → 06-25 → 06-24 → 06-25 → 06-25 → 06-20)
+
+### State file updates
+- explore_context.json: ecp 147→150 (+3), ed 147→150 (+3), entity_files_added 9→12 (+3), ecsl 65→66 (+1), ecsr 36→37 (+1), runs 47→48 (+1)
+- watch_profiles.json: top/llm/exp_h all 147→150 (+3 hashes), exp.last_results 135→139 (+4 records)
+- 3-store lockstep intact at 150 hashes
+- ensure_ascii: EC=True, WP=True — divergent stable state held (31st consecutive run)
+
+### Entity count
+- Filesystem truth (post-run): 162 entities (150 paper + 12 meta)
+- State file reconciled to filesystem truth per pitfall-74 (entities_count=162)
+- +3 paper entities created, all first-in-wiki surfaces
+
+### Verification framework (all 4 phases pass)
+1. **Phase 1** (pre-write `ls entities/ | grep`): confirmed 0 matches for context-gap/qwen-image-agent/icwm/danceopd/capability-routing/system-identification themes
+2. **Phase 2** (post-write per-entity wikilink audit): 3 wikilinks total, 0 broken
+3. **Phase 3** (parent new-block wikilink audit): 9 wikilinks, 0 broken
+4. **Phase 4** (date-DESC + insertion-order): 06-25 → 06-25 → 06-24 → 06-25 → 06-25 → 06-20 confirmed in `## Updates` top-6
+
+### Operational notes
+- **3-axis pivot verified**: context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target are structurally orthogonal to all prior Run 37-50 streaks.
+- **Sibling cross-references used**: Qwen-AgentWorld-2606.24597 (sibling Qwen-family agentic), World-Value-Models-2606.24742 (sibling robotics world-model), Flow-Matching-Reward-Backprop-2606.11075 (sibling flow-matching reward) — all verified via `ls entities/` pre-write.
+- **HF daily v2 parser works**: 75 unique IDs across 3 fetched dates + default page; LLM-keyword filter gives 67 candidates; 5-store dedup leaves 14 fresh; primary substrate sufficient for this run (no web_search escape hatch needed).
+- **Cycle counts**: ~45 tool calls, 6-file atomic commit (3 entity + parent + 2 state + log.md).
+- **Run 51 file_write pitfall encountered**: First write_file for emergent-concepts.md used python heredoc to inject entries in the wrong order (Qwen/ICWM/DanceOPD by date, but ICWM=06-24 came between two 06-25 entries violating date-DESC); recovered via patch-mode with placeholder + reorder (3 patches total: placeholder ICWM, append ICWM after DanceOPD, then remove placeholder). Net cost: 3 extra patches but no broken wikilinks.

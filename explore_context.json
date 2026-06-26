@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-26",
-  "__last_updated": "2026-06-26T04:25:00+00:00",
-  "last_run": "2026-06-26T04:25:00+00:00",
-  "last_explore": "2026-06-26T04:25:00+00:00",
-  "last_global_explore": "2026-06-26T04:25:00+00:00",
-  "last_discovery": "2026-06-26T04:25:00+00:00",
-  "last_run_framing": "verification-co-evolution + biomedical-research-faithfulness + calibrated-evidence-reliability (3-axis pivot from Run 37-49 streaks)",
-  "last_framing": "verification-co-evolution + biomedical-research-faithfulness + calibrated-evidence-reliability (3-axis pivot from Run 37-49 streaks)",
-  "last_run_notes": "Run 48 (2026-06-26T03:53:00+00:00): 3 picks adopted from leftover sibling-session state per pitfall-73 \u2014 Why-Multi-Step-Tool-Use-RL-Collapses (2606.26027, 06-24, agentic-RL format-collapse pathology + interleaved-SFT stabilizer) + GUI-vs-CLI (2606.24551, 06-22, matched-modality variable for computer-use-agent evaluation) + Hidden-Thoughts-Are-Not-Secret (2606.00642, 05-30, reasoning-trace extraction via prompting-format amplification). 3-axis pivot from Run 38-47 streaks. Entity files + parent block + 3-store hashes already committed at 03:54 UTC (commit 7ee84ee); this run-record + log entry marks the cron-cycle that produced the discovery. All 4 phase verifications pass cleanly.",
+  "__last_updated": "2026-06-26T05:00:00+00:00",
+  "last_run": "2026-06-26T05:00:00+00:00",
+  "last_explore": "2026-06-26T05:00:00+00:00",
+  "last_global_explore": "2026-06-26T05:00:00+00:00",
+  "last_discovery": "2026-06-26T05:00:00+00:00",
+  "last_run_framing": "context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target",
+  "last_framing": "context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target",
+  "last_run_notes": "Run 51 (2026-06-26T05:00:00+00:00): 3 picks from HF daily 3-day v2 parser: Qwen-Image-Agent (2606.26907, 06-25, agentic-image-generation/context-gap-filling) + In-Context World Modeling (2606.26025, 06-24, vla/system-identification) + DanceOPD (2606.27377, 06-25, flow-matching/capability-routing) \u2014 3-axis pivot from Run 50 verification-co-evolution+biomedical-faithfulness+calibrated-evidence-reliability streaks",
   "last_pass_type": "emergent_concept",
-  "last_run_method": "adopt-leftover-sibling-session-state-pitfall-73",
+  "last_run_method": "hf-daily-v2-parser-3day-window-plus-default",
   "run_method": "emergent-concept-search",
-  "last_run_added": "2026-06-26T03:53:00+00:00",
+  "last_run_added": "2026-06-26T05:00:00+00:00",
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "verification-co-evolution + biomedical-research-faithfulness + calibrated-evidence-reliability (3-axis pivot from Run 37-49 streaks)",
-  "emergent_theme": "verification-co-evolution + biomedical-research-faithfulness + calibrated-evidence-reliability (3-axis pivot from Run 37-49 streaks)",
-  "chains_updated": "2026-06-26T04:25:00+00:00",
-  "entities_count": 159,
+  "emergent_concept_theme": "context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target",
+  "emergent_theme": "context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target",
+  "chains_updated": "2026-06-26T05:00:00+00:00",
+  "entities_count": 162,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1372,12 +1372,39 @@
           "discovered": "2026-06-26",
           "theme": "mdp-controller-for-budget-aware-reasoning",
           "source": "web_search"
+        },
+        {
+          "arxiv_id": "2606.26907",
+          "slug": "qwen-image-agent-bridging-the-context-gap-in-real-world-image-generation-2606.26907",
+          "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
+          "url": "https://arxiv.org/abs/2606.26907",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-26T05:00:00+00:00",
+          "theme": "agentic-image-generation / context-gap-filling"
+        },
+        {
+          "arxiv_id": "2606.26025",
+          "slug": "in-context-world-modeling-for-robotic-control-2606.26025",
+          "title": "In-Context World Modeling for Robotic Control",
+          "url": "https://arxiv.org/abs/2606.26025",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-26T05:00:00+00:00",
+          "theme": "vla / in-context-adaptation / system-identification"
+        },
+        {
+          "arxiv_id": "2606.27377",
+          "slug": "danceopd-on-policy-generative-field-distillation-2606.27377",
+          "title": "DanceOPD: On-Policy Generative Field Distillation",
+          "url": "https://arxiv.org/abs/2606.27377",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-26T05:00:00+00:00",
+          "theme": "flow-matching / capability-routing"
         }
       ],
-      "last_run": "2026-06-25T22:23:00+00:00",
-      "last_explore": "2026-06-25T22:23:00+00:00",
-      "last_run_added": 3,
-      "papers_found_count": 66,
+      "last_run": "2026-06-26T05:00:00+00:00",
+      "last_explore": "2026-06-26T05:00:00+00:00",
+      "last_run_added": "2026-06-26T05:00:00+00:00",
+      "papers_found_count": 138,
       "run_method": "emergent-concept",
       "last_explored": "2026-06-25T20:14:53.048457+00:00",
       "last_run_notes": "Explore: 3 new entity pages from emergent-concept search on HuggingFace 3-day window (2026-06-23..2026-06-25). Picks: FastMix (bilevel data-mixture optimization, 2606.14971, cs.LG), World Action Models Survey (embodied predictive-action models, 2606.20781, cs.RO), LLM-Assisted Refactoring & Gameplay (empirical GPT-4o case study, 2606.21171, cs.SE). After 5-store cross-dedup, theme-diversity discipline maintained: training-systems + embodied world-models survey + LLM-coding production case-study (breaks agent-heavy streak)."
@@ -2743,6 +2770,33 @@
       "theme": "biomedical-agentic-research / citation-faithfulness / abstention-discipline / agentic-collapse-on-hardest-questions",
       "discovered_at": "2026-06-26",
       "method": "emergent-concept HF daily"
+    },
+    {
+      "arxiv_id": "2606.26907",
+      "slug": "qwen-image-agent-bridging-the-context-gap-in-real-world-image-generation-2606.26907",
+      "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
+      "url": "https://arxiv.org/abs/2606.26907",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T05:00:00+00:00",
+      "theme": "agentic-image-generation / context-gap-filling / ia-bench / capability-coverage-eval"
+    },
+    {
+      "arxiv_id": "2606.26025",
+      "slug": "in-context-world-modeling-for-robotic-control-2606.26025",
+      "title": "In-Context World Modeling for Robotic Control",
+      "url": "https://arxiv.org/abs/2606.26025",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T05:00:00+00:00",
+      "theme": "vla / in-context-adaptation / system-identification / self-exploration / world-model-pretraining"
+    },
+    {
+      "arxiv_id": "2606.27377",
+      "slug": "danceopd-on-policy-generative-field-distillation-2606.27377",
+      "title": "DanceOPD: On-Policy Generative Field Distillation",
+      "url": "https://arxiv.org/abs/2606.27377",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T05:00:00+00:00",
+      "theme": "flow-matching / on-policy-distillation / multi-capability-composition / capability-routing"
     }
   ],
   "emergent_discoveries": [
@@ -3971,6 +4025,24 @@
       "theme": "biomedical-agentic-research / citation-faithfulness / abstention-discipline / agentic-collapse-on-hardest-questions",
       "discovered_at": "2026-06-26",
       "method": "emergent-concept HF daily"
+    },
+    {
+      "arxiv_id": "2606.26907",
+      "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
+      "slug": "qwen-image-agent-bridging-the-context-gap-in-real-world-image-generation-2606.26907",
+      "discovered": "2026-06-26T05:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.26025",
+      "title": "In-Context World Modeling for Robotic Control",
+      "slug": "in-context-world-modeling-for-robotic-control-2606.26025",
+      "discovered": "2026-06-26T05:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.27377",
+      "title": "DanceOPD: On-Policy Generative Field Distillation",
+      "slug": "danceopd-on-policy-generative-field-distillation-2606.27377",
+      "discovered": "2026-06-26T05:00:00+00:00"
     }
   ],
   "emergent_concept_search_log": [
@@ -4919,6 +4991,17 @@
       "thematic_framing": "verification-co-evolution + biomedical-research-faithfulness + calibrated-evidence-reliability (3-axis pivot from Run 37-49 streaks)",
       "dedup_rate": "17 fresh after 5-store dedup from 75 HF raw candidates (all 3 picks from HF daily)",
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-26T05:00:00+00:00",
+      "papers_found": [
+        "qwen-image-agent-bridging-the-context-gap-in-real-world-image-generation-2606.26907",
+        "in-context-world-modeling-for-robotic-control-2606.26025",
+        "danceopd-on-policy-generative-field-distillation-2606.27377"
+      ],
+      "method": "HuggingFace daily papers (3 days: 2026-06-24..26) + default page + v2 data-props parser + 5-store dedup",
+      "theme": "agentic-image-generation/context-gap + vla/system-identification + flow-matching/capability-routing",
+      "picks": 3
     }
   ],
   "emergent_concept_search_runs": [
@@ -5680,6 +5763,17 @@
         "2606.26300",
         "2606.21959"
       ]
+    },
+    {
+      "ts": "2026-06-26T05:00:00+00:00",
+      "method": "HuggingFace daily papers (3 days: 2026-06-24..26) + default page + v2 data-props parser + 5-store dedup",
+      "theme": "3-axis pivot from Run 50 verification-co-evolution+biomedical-faithfulness+calibrated-evidence-reliability streaks",
+      "picks": 3,
+      "arxiv_ids": [
+        "2606.26907",
+        "2606.26025",
+        "2606.27377"
+      ]
     }
   ],
   "runs": [
@@ -6221,11 +6315,24 @@
       ],
       "entities_count_after": 156,
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "timestamp": "2026-06-26T05:00:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target",
+      "method": "HuggingFace daily papers (3 days: 2026-06-24..26) + default page + v2 data-props parser + 5-store dedup",
+      "picks": 3,
+      "arxiv_ids": [
+        "2606.26907",
+        "2606.26025",
+        "2606.27377"
+      ],
+      "note": "Run 51 - 3-axis pivot from Run 50 streaks (verification-co-evolution + biomedical-faithfulness + calibrated-evidence-reliability)"
     }
   ],
   "last_updated": "2026-06-26",
-  "last_run_iso": "2026-06-26T04:25:00+00:00",
-  "total_entity_count": 159,
+  "last_run_iso": "2026-06-26T05:00:00+00:00",
+  "total_entity_count": 162,
   "entity_files_added": [
     "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
     "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
@@ -6259,7 +6366,10 @@
       "arxiv_id": "2606.21959",
       "slug": "openbiorq-unsolved-biomedical-research-questions-for-agents-2606.21959",
       "date": "2026-06-26"
-    }
+    },
+    "qwen-image-agent-bridging-the-context-gap-in-real-world-image-generation-2606.26907",
+    "in-context-world-modeling-for-robotic-control-2606.26025",
+    "danceopd-on-policy-generative-field-distillation-2606.27377"
   ],
   "pass_type": "emergent_concept",
   "emergent_discoveries_log": [
@@ -6297,8 +6407,19 @@
       "arxiv_id": "2606.19135",
       "slug": "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135",
       "theme": "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment"
+    },
+    {
+      "timestamp": "2026-06-26T05:00:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "theme-diversity: agentic-image-gen (context-gap) + vla system-id + flow-matching capability-routing \u2014 3-axis pivot",
+      "picks": 3,
+      "arxiv_ids": [
+        "2606.26907",
+        "2606.26025",
+        "2606.27377"
+      ]
     }
   ],
   "last_run_mode": "emergent_concept",
-  "last_run_summary": "Run 50 - 3 picks from HF daily 3-day v2 parser: Robust-TO (2606.26904, 06-25, calibrated-confidence-as-evidence-attribute for video reasoning) + Verification Horizon (2606.26300, 06-25, verification-co-evolution-with-generator for coding-agent reward design) + OpenBioRQ (2606.21959, 06-20, abstention-as-research-discipline + agentic-collapse-on-hardest-questions for biomedical research). 3-axis pivot from Run 37-49 streaks. All 4 phase verifications pass."
+  "last_run_summary": "Run 51 - 3 picks from HF daily 3-day v2 parser: Qwen-Image-Agent (2606.26907, 06-25, context-gap-as-task-definition) + ICWM (2606.26025, 06-24, self-exploration-as-system-identification) + DanceOPD (2606.27377, 06-25, capability-routing-as-distillation-target) \u2014 3-axis pivot from Run 50"
 }
