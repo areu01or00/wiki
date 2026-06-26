@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-26T08:00:40.453047+00:00",
-  "__last_updated": "2026-06-26T08:00:40.453047+00:00",
-  "last_run": "2026-06-26T08:00:40.453047+00:00",
-  "last_explore": "2026-06-26T08:00:40.453047+00:00",
-  "last_global_explore": "2026-06-26T08:00:40.453047+00:00",
-  "last_discovery": "2026-06-26T08:00:40.453047+00:00",
-  "last_run_framing": "MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination",
-  "last_framing": "Run 62 domain-pivot from Run 61 CoT-vs-output-controllability + parallel-drafting + SAE-reasoning-features axes to MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination axes per Rule 27",
-  "last_run_notes": "Run 62 \u2014 3 fresh LLM-centric papers via web_search 4-query ROTATED-template escape hatch (Rule 26 \u2014 pivoted from Run 61 safety+reasoning/control+inference-eff+model-arch axes to retrieval-faithfulness+eval-method+model-arch-theory axes, with fresh axes: theory-ML + multi-agent-reasoning). HF pool CV/3D-heavy for 8th consecutive run (pitfall-83 streak extended to Runs 55-62). web_search surfaced 3 fresh LLM candidates after 5-store dedup, picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 61 axes to MoE theoretical task-routing + RAG knowledge-conflict-resolution + per-sample distributional decontamination axes. 3-axis DOMAIN-DIVERSITY PIVOT.",
+  "updated": "2026-06-26T08:33:38.233536+00:00",
+  "__last_updated": "2026-06-26T08:33:38.233536+00:00",
+  "last_run": "2026-06-26T08:33:38.233536+00:00",
+  "last_explore": "2026-06-26T08:33:38.233536+00:00",
+  "last_global_explore": "2026-06-26T08:33:38.233536+00:00",
+  "last_discovery": "2026-06-26T08:33:38.233536+00:00",
+  "last_run_framing": "reasoning-failure-mode + agent-scaling-science + audio-language-hybrid-AR-NAR",
+  "last_framing": "Run 64 domain-pivot from Run 63 attribution-guided-continual-learning + uncertainty-quantification-for-hallucination-detection + revisiting-parameter-based-knowledge-editing axes to reasoning-failure-mode-survey + science-of-scaling-agent-systems + audio-language-hybrid-AR-NAR-training axes per Rule 27 + Rule 36 combined-axis query bracketing agent-reasoning-in-deployment",
+  "last_run_notes": "Run 64 \u2014 3 fresh LLM-centric papers via web_search 4-query COMBINED-AXIS escape hatch (Rule 36 \u2014 pivoted from Rule 35 new-axis cluster to combined-axis query bracketing agent-reasoning-in-deployment primitive-class, axes: reasoning-failure-mode + agent-scaling + embodied-agent + text-to-X multimodal). HF pool CV/3D-heavy for 10th consecutive run (pitfall-83 streak extended to Runs 55-64). web_search surfaced 13 fresh LLM candidates after 5-store dedup, picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 63 axes to reasoning-failures-2-axis-taxonomy + science-of-scaling-agent-systems-predictive-model + audio-language-hybrid-AR-NAR-training axes. 3-axis DOMAIN-DIVERSITY PIVOT per Rule 36.",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "emergent_concept_search_via_web_search_4query_rotated_template_escape_hatch",
+  "last_run_method": "emergent_concept_search_via_web_search_4query_combined_axis_escape_hatch",
   "run_method": "emergent-concept",
   "last_run_added": 3,
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination",
-  "emergent_theme": "MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination",
+  "emergent_concept_theme": "reasoning-failure-mode + agent-scaling-science + audio-language-hybrid-AR-NAR",
+  "emergent_theme": "reasoning-failure-mode + agent-scaling-science + audio-language-hybrid-AR-NAR",
   "chains_updated": 0,
-  "entities_count": 195,
+  "entities_count": 198,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3175,6 +3175,27 @@
       "title": "Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions",
       "slug": "uncertainty-quantification-for-hallucination-detection-in-llms-2510.12040",
       "discovered": "2026-06-26T08:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2602.06176",
+      "title": "Large Language Model Reasoning Failures",
+      "slug": "large-language-model-reasoning-failures-2602.06176",
+      "url": "https://arxiv.org/abs/2602.06176",
+      "discovered": "2026-06-26T08:33:38.233536+00:00"
+    },
+    {
+      "arxiv_id": "2512.08296",
+      "title": "Towards a Science of Scaling Agent Systems",
+      "slug": "towards-a-science-of-scaling-agent-systems-2512.08296",
+      "url": "https://arxiv.org/abs/2512.08296",
+      "discovered": "2026-06-26T08:33:38.233536+00:00"
+    },
+    {
+      "arxiv_id": "2509.20072",
+      "title": "From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training",
+      "slug": "audio-language-model-needs-non-autoregressive-joint-training-2509.20072",
+      "url": "https://arxiv.org/abs/2509.20072",
+      "discovered": "2026-06-26T08:33:38.233536+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -4663,6 +4684,30 @@
       "url": "https://arxiv.org/abs/2510.12040",
       "discovered": "2026-06-26T08:30:00+00:00",
       "theme": "uncertainty-quantification / hallucination-detection / calibration / llm-reliability / survey / epistemic-uncertainty / aleatoric-uncertainty"
+    },
+    {
+      "arxiv_id": "2602.06176",
+      "title": "Large Language Model Reasoning Failures",
+      "slug": "large-language-model-reasoning-failures-2602.06176",
+      "url": "https://arxiv.org/abs/2602.06176",
+      "discovered": "2026-06-26T08:33:38.233536+00:00",
+      "theme": "reasoning-failure-mode / reasoning-survey / embodied-vs-non-embodied / fundamental-vs-application-vs-robustness / graceful-failure"
+    },
+    {
+      "arxiv_id": "2512.08296",
+      "title": "Towards a Science of Scaling Agent Systems",
+      "slug": "towards-a-science-of-scaling-agent-systems-2512.08296",
+      "url": "https://arxiv.org/abs/2512.08296",
+      "discovered": "2026-06-26T08:33:38.233536+00:00",
+      "theme": "agent-scaling-science / multi-agent / coordination-saturation / centralized-verification / capability-saturation-effect"
+    },
+    {
+      "arxiv_id": "2509.20072",
+      "title": "From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training",
+      "slug": "audio-language-model-needs-non-autoregressive-joint-training-2509.20072",
+      "url": "https://arxiv.org/abs/2509.20072",
+      "discovered": "2026-06-26T08:33:38.233536+00:00",
+      "theme": "audio-language-model / non-autoregressive / absorbing-discrete-diffusion / modality-aware-attention / speech-to-speech"
     }
   ],
   "emergent_concept_search_log": [
@@ -5696,6 +5741,27 @@
       ],
       "axes_pivot": "memory+agent-eval+retrieval+alignment (Run 60) -> safety+reasoning/control+inference-eff+training-data+model-arch+eval-method (Run 61)",
       "notes": "Rule 26+33 forward-discipline pivot. 7th consecutive pitfall-83 streak. HF pool CV/3D-heavy confirmed structural to mid-June 2026."
+    },
+    {
+      "run": 64,
+      "timestamp": "2026-06-26T08:33:38.233536+00:00",
+      "hf_pool_papers": 51,
+      "hf_fresh": 9,
+      "hf_llm_keyword_matched": 2,
+      "web_search_candidates": 13,
+      "web_search_picks": 3,
+      "query_template": "combined-axis-rule-36-agent-reasoning-in-deployment",
+      "queries": [
+        "reasoning failure mode collapse long-tail arxiv 2026",
+        "agent scaling multi-agent coordination arxiv 2026",
+        "embodied agent robotics LLM arxiv 2026",
+        "text-to-X code image audio generation LLM arxiv 2026"
+      ],
+      "picks": [
+        "2602.06176",
+        "2512.08296",
+        "2509.20072"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -7284,6 +7350,21 @@
         "revisiting-parameter-based-knowledge-editing-in-llms-2606.00570",
         "attribution-guided-continual-learning-for-llms-2605.05285",
         "uncertainty-quantification-for-hallucination-detection-in-llms-2510.12040"
+      ]
+    },
+    {
+      "run_number": 64,
+      "timestamp": "2026-06-26T08:33:38.233536+00:00",
+      "method": "web_search_4query_combined_axis_escape_hatch_rule36",
+      "theme": "reasoning-failure-mode + agent-scaling-science + audio-language-hybrid-AR-NAR",
+      "added_count": 3,
+      "hf_pool_state": "cv_3d_heavy_10th_consecutive_run_pitfall_83_streak_extended",
+      "rule_invocations": [
+        "Rule_15c_pitfall_83_escape_hatch",
+        "Rule_26_query_template_rotation",
+        "Rule_27_domain_diversity_pivot",
+        "Rule_30_deliberate_skip",
+        "Rule_36_combined_axis_query"
       ]
     }
   ],

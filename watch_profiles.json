@@ -862,7 +862,10 @@
         "fc7a4dbe58ec6769642af9c1c1a004a8",
         "9ba3ddf9224ff166e5f8623b9c97c283",
         "27addff87e8cbd97176d52eef004e0e4",
-        "c2b6b9a8b909446decbf502401c3a5c5"
+        "c2b6b9a8b909446decbf502401c3a5c5",
+        "3fe00f1c62b3332756186f522dca014d",
+        "83d4870912e800423e8eacdc632b4fb5",
+        "a21880a89cb954e21f685fc9b4b76bdc"
       ],
       "last_results": [
         {
@@ -2253,6 +2256,33 @@
           "chain": "emergent-concepts",
           "theme": "Run-63 emergent-concept",
           "discovered": "2026-06-26T08:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2602.06176",
+          "title": "Large Language Model Reasoning Failures",
+          "hash": "3fe00f1c62b3332756186f522dca014d",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "Run-64 emergent-concept combined-axis-rule-36",
+          "discovered": "2026-06-26T08:33:38.233536+00:00"
+        },
+        {
+          "arxiv_id": "2512.08296",
+          "title": "Towards a Science of Scaling Agent Systems",
+          "hash": "83d4870912e800423e8eacdc632b4fb5",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "Run-64 emergent-concept combined-axis-rule-36",
+          "discovered": "2026-06-26T08:33:38.233536+00:00"
+        },
+        {
+          "arxiv_id": "2509.20072",
+          "title": "From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training",
+          "hash": "a21880a89cb954e21f685fc9b4b76bdc",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "Run-64 emergent-concept combined-axis-rule-36",
+          "discovered": "2026-06-26T08:33:38.233536+00:00"
         }
       ],
       "last_run": "63",
@@ -2266,7 +2296,8 @@
         "slug": "revisiting-parameter-based-knowledge-editing-in-llms-2606.00570",
         "discovered": "2026-06-26T08:30:00+00:00",
         "theme": "knowledge-editing / dimensional-collapse / retrieval-vs-parametric"
-      }
+      },
+      "updated_at": "2026-06-26T08:33:38.233536+00:00"
     }
   },
   "last_run": "2026-06-26T07:09:00+00:00",
@@ -2453,7 +2484,10 @@
     "fc7a4dbe58ec6769642af9c1c1a004a8",
     "9ba3ddf9224ff166e5f8623b9c97c283",
     "27addff87e8cbd97176d52eef004e0e4",
-    "c2b6b9a8b909446decbf502401c3a5c5"
+    "c2b6b9a8b909446decbf502401c3a5c5",
+    "3fe00f1c62b3332756186f522dca014d",
+    "83d4870912e800423e8eacdc632b4fb5",
+    "a21880a89cb954e21f685fc9b4b76bdc"
   ],
   "last_discovery": "2026-06-26T07:09:00+00:00",
   "last_updated": "2026-06-26T07:09:00+00:00",
@@ -2643,7 +2677,10 @@
       "fc7a4dbe58ec6769642af9c1c1a004a8",
       "9ba3ddf9224ff166e5f8623b9c97c283",
       "27addff87e8cbd97176d52eef004e0e4",
-      "c2b6b9a8b909446decbf502401c3a5c5"
+      "c2b6b9a8b909446decbf502401c3a5c5",
+      "3fe00f1c62b3332756186f522dca014d",
+      "83d4870912e800423e8eacdc632b4fb5",
+      "a21880a89cb954e21f685fc9b4b76bdc"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",
@@ -2713,7 +2750,8 @@
         "discovered": "2026-06-26T07:09:00+00:00"
       }
     ],
-    "last_pass_type": "emergent_concept"
+    "last_pass_type": "emergent_concept",
+    "updated_at": "2026-06-26T08:33:38.233536+00:00"
   },
   "last_pass_type": "emergent_concept_search_rotated_template",
   "last_results": [
