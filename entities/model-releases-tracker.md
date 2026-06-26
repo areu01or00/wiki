@@ -127,4 +127,5 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **inclusion-ai** — cycle 52 — InclusionAI Ling Ring Sing-Guard open weights model release
 - **deepreinforce-ai** — cycle 56 — DeepReinforce AI Ornith model release coding agent weights
 - **liquid-ai** — cycle 59 — Liquid AI LFM2.5 family edge LLM open weights model release
+- **kog-ai** — cycle 68 — Kog AI Laneformer 2B latency-first open weights
 
