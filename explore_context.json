@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-26",
-  "__last_updated": "2026-06-26T05:08:00+00:00",
-  "last_run": "2026-06-26T05:08:00+00:00",
-  "last_explore": "2026-06-26T05:08:00+00:00",
-  "last_global_explore": "2026-06-26T05:08:00+00:00",
-  "last_discovery": "2026-06-26T05:08:00+00:00",
-  "last_run_framing": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
-  "last_framing": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
-  "last_run_notes": "Run 53 (2026-06-26T05:08:00+00:00): RECOVERY from incomplete Run 52 (2026-06-26T04:55) \u2014 3 entity files adopted via pitfall-81 protocol: Hallucination-in-World-Models (2606.27326, 06-25, coverage-aware-hallucination-taxonomy) + InSight-Steerable-VLAs (2606.24884, 06-23, steerable-vla-autonomous-skill-acquisition) + EventVLA (2606.20092, 06-18, foresight-driven-keyframe-evidence-memory); 3-axis pivot from Run 50-51 streaks",
+  "__last_updated": "2026-06-26T05:30:00+00:00",
+  "last_run": "2026-06-26T05:30:00+00:00",
+  "last_explore": "2026-06-26T05:30:00+00:00",
+  "last_global_explore": "2026-06-26T05:30:00+00:00",
+  "last_discovery": "2026-06-26T05:30:00+00:00",
+  "last_run_framing": "speculative-decoding-parallel-tree-drafting + biological-reasoning-post-training-composition + multimodal-explainability-cross-modal-shortcut-diagnosis",
+  "last_framing": "speculative-decoding-parallel-tree-drafting + biological-reasoning-post-training-composition + multimodal-explainability-cross-modal-shortcut-diagnosis",
+  "last_run_notes": "Run 54 (2026-06-26T05:30:00+00:00): 3 fresh LLM-relevant papers via HF daily v2 (12 fresh after 5-store dedup); theme-pivot to inference-efficiency + domain-reasoning-training + multimodal-evaluation axes",
   "last_pass_type": "emergent_concept",
-  "last_run_method": "pitfall-81-recovery-protocol",
+  "last_run_method": "hf-daily-v2",
   "run_method": "emergent-concept-search",
-  "last_run_added": "2026-06-26T05:08:00+00:00",
+  "last_run_added": "2026-06-26T05:30:00+00:00",
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
-  "emergent_theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
-  "chains_updated": "2026-06-26T05:08:00+00:00",
-  "entities_count": 165,
+  "emergent_concept_theme": "speculative-decoding-parallel-tree-drafting + biological-reasoning-post-training-composition + multimodal-explainability-cross-modal-shortcut-diagnosis",
+  "emergent_theme": "speculative-decoding-parallel-tree-drafting + biological-reasoning-post-training-composition + multimodal-explainability-cross-modal-shortcut-diagnosis",
+  "chains_updated": "2026-06-26T05:30:00+00:00",
+  "entities_count": 168,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1399,11 +1399,38 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-26T05:00:00+00:00",
           "theme": "flow-matching / capability-routing"
+        },
+        {
+          "arxiv_id": "2606.18394",
+          "slug": "jetspec-breaking-the-scaling-ceiling-of-speculative-decoding-with-parallel-tree-2606.18394",
+          "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+          "url": "https://arxiv.org/abs/2606.18394",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-26T05:30:00+00:00",
+          "theme": "speculative-decoding-parallel-tree-drafting"
+        },
+        {
+          "arxiv_id": "2606.14740",
+          "slug": "gridvqa-x-a-framework-for-evaluating-multimodal-explainability-methods-2606.14740",
+          "title": "GridVQA-X: A Framework for Evaluating Multimodal Explainability Methods",
+          "url": "https://arxiv.org/abs/2606.14740",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-26T05:30:00+00:00",
+          "theme": "multimodal-explainability-cross-modal-shortcut-diagnosis"
+        },
+        {
+          "arxiv_id": "2606.16517",
+          "slug": "how-post-training-shapes-biological-reasoning-models-2606.16517",
+          "title": "How Post-Training Shapes Biological Reasoning Models",
+          "url": "https://arxiv.org/abs/2606.16517",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-26T05:30:00+00:00",
+          "theme": "biological-reasoning-post-training-composition"
         }
       ],
-      "last_run": "2026-06-26T05:00:00+00:00",
-      "last_explore": "2026-06-26T05:00:00+00:00",
-      "last_run_added": "2026-06-26T05:00:00+00:00",
+      "last_run": "2026-06-26T05:30:00+00:00",
+      "last_explore": "2026-06-26T05:30:00+00:00",
+      "last_run_added": 3,
       "papers_found_count": 138,
       "run_method": "emergent-concept",
       "last_explored": "2026-06-25T20:14:53.048457+00:00",
@@ -2815,6 +2842,33 @@
       "title": "EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies",
       "slug": "eventvla-event-driven-visual-evidence-memory-for-long-horizon-vision-language-action-policies-2606.20092",
       "url": "https://arxiv.org/abs/2606.20092"
+    },
+    {
+      "arxiv_id": "2606.18394",
+      "slug": "jetspec-breaking-the-scaling-ceiling-of-speculative-decoding-with-parallel-tree-2606.18394",
+      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "url": "https://arxiv.org/abs/2606.18394",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T05:30:00+00:00",
+      "theme": "speculative-decoding-parallel-tree-drafting"
+    },
+    {
+      "arxiv_id": "2606.14740",
+      "slug": "gridvqa-x-a-framework-for-evaluating-multimodal-explainability-methods-2606.14740",
+      "title": "GridVQA-X: A Framework for Evaluating Multimodal Explainability Methods",
+      "url": "https://arxiv.org/abs/2606.14740",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T05:30:00+00:00",
+      "theme": "multimodal-explainability-cross-modal-shortcut-diagnosis"
+    },
+    {
+      "arxiv_id": "2606.16517",
+      "slug": "how-post-training-shapes-biological-reasoning-models-2606.16517",
+      "title": "How Post-Training Shapes Biological Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.16517",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T05:30:00+00:00",
+      "theme": "biological-reasoning-post-training-composition"
     }
   ],
   "emergent_discoveries": [
@@ -4079,6 +4133,24 @@
       "title": "EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies",
       "slug": "eventvla-event-driven-visual-evidence-memory-for-long-horizon-vision-language-action-policies-2606.20092",
       "discovered": "2026-06-26T05:08:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.18394",
+      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "slug": "jetspec-breaking-the-scaling-ceiling-of-speculative-decoding-with-parallel-tree-2606.18394",
+      "discovered": "2026-06-26T05:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.14740",
+      "title": "GridVQA-X: A Framework for Evaluating Multimodal Explainability Methods",
+      "slug": "gridvqa-x-a-framework-for-evaluating-multimodal-explainability-methods-2606.14740",
+      "discovered": "2026-06-26T05:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.16517",
+      "title": "How Post-Training Shapes Biological Reasoning Models",
+      "slug": "how-post-training-shapes-biological-reasoning-models-2606.16517",
+      "discovered": "2026-06-26T05:30:00+00:00"
     }
   ],
   "emergent_concept_search_log": [
@@ -5048,6 +5120,16 @@
       ],
       "method": "Run 53 RECOVERY (pitfall-81 protocol) \u2014 adopted leftover entity files + parent-updates from Run 52 (2026-06-26T04:55) that were never committed; no re-discovery",
       "theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory (Run 52 3-axis pivot, completed at 05:08 UTC Run 53)"
+    },
+    {
+      "ts": "2026-06-26T05:30:00+00:00",
+      "papers_found": [
+        "jetspec-breaking-the-scaling-ceiling-of-speculative-decoding-with-parallel-tree-2606.18394",
+        "gridvqa-x-a-framework-for-evaluating-multimodal-explainability-methods-2606.14740",
+        "how-post-training-shapes-biological-reasoning-models-2606.16517"
+      ],
+      "method": "HF daily v2 (data-props extraction, Run 54)",
+      "theme": "speculative-decoding-parallel-tree-drafting + biological-reasoning-post-training-composition + multimodal-explainability-cross-modal-shortcut-diagnosis (3-axis pivot from Run 50-53 streaks)"
     }
   ],
   "emergent_concept_search_runs": [
@@ -5825,6 +5907,16 @@
       "ts": "2026-06-26T05:08:00+00:00",
       "method": "Run 53 RECOVERY \u2014 pitfall-81 mid-run recovery protocol",
       "theme": "Run 52 picks completed (Hallucination-World-Models + InSight + EventVLA)"
+    },
+    {
+      "timestamp": "2026-06-26T05:30:00+00:00",
+      "papers_found": [
+        "jetspec-breaking-the-scaling-ceiling-of-speculative-decoding-with-parallel-tree-2606.18394",
+        "gridvqa-x-a-framework-for-evaluating-multimodal-explainability-methods-2606.14740",
+        "how-post-training-shapes-biological-reasoning-models-2606.16517"
+      ],
+      "method": "HF daily v2",
+      "run_number": 54
     }
   ],
   "runs": [
@@ -6386,6 +6478,13 @@
       "theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
       "run_number": 53,
       "notes": "Run 53 RECOVERY via pitfall-81: adopted 3 entity files + parent emergent-concepts.md updates from incomplete Run 52 (04:55 UTC) that hit budget cap before commit; verified wikilink resolution, date-DESC ordering, and parent-update placement; committing now without re-running discovery"
+    },
+    {
+      "timestamp": "2026-06-26T05:30:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "speculative-decoding-parallel-tree-drafting + biological-reasoning-post-training-composition + multimodal-explainability-cross-modal-shortcut-diagnosis",
+      "run_number": 54,
+      "notes": "Run 54: 3 fresh LLM-relevant papers via HF daily v2 (12 fresh after 5-store dedup from 70 LLM-keyword candidates across 06-24/25/26 + default); theme-pivot to inference-efficiency + domain-reasoning-training + multimodal-evaluation axes (orthogonal to Run 50-53 streaks); JetSpec (2606.18394, 06-16) breaks speculative-decoding scaling ceiling via branch-wise causal conditioning; Biological-Reasoning-PostTraining (2606.16517, 06-15) shows post-training composition-not-accumulation primitive across 100+ models; GridVQA-X (2606.14740, 06-02) introduces closed-world diagnostic for MxAI evaluation"
     }
   ],
   "last_updated": "2026-06-26",
