@@ -838,7 +838,10 @@
         "2606.16517",
         "af3b691bee729cbb59c3cdd1f9f53093",
         "b8884f69b3eee6a4b3a9fa46daa28685",
-        "0d59c3c534c4d5cdc3d20f0ed9cc6889"
+        "0d59c3c534c4d5cdc3d20f0ed9cc6889",
+        "fa94dbc1ed0094016aee85e5d6166f8c",
+        "b651b69ddadbb3ebd061b6f0f484790b",
+        "cfe299b3a500ccaf121052e0810f3efe"
       ],
       "last_results": [
         {
@@ -2121,6 +2124,27 @@
           "chain": "emergent-concepts",
           "theme": "mechanistic-interpretability / mixture-of-experts / mlp / sparse-autoencoder / transformer-architecture",
           "discovered": "2026-06-26T05:49:05.852177+00:00"
+        },
+        {
+          "arxiv_id": "2605.21768",
+          "slug": "memory-r2-fair-credit-assignment-for-long-horizon-memory-augmented-llm-agents",
+          "discovered_run": 56,
+          "timestamp": "2026-06-26T06:00:00.000000+00:00",
+          "source": "web_search escape hatch"
+        },
+        {
+          "arxiv_id": "2605.19337",
+          "slug": "agentic-trading-when-llm-agents-meet-financial-markets",
+          "discovered_run": 56,
+          "timestamp": "2026-06-26T06:00:00.000000+00:00",
+          "source": "web_search escape hatch"
+        },
+        {
+          "arxiv_id": "2605.01687",
+          "slug": "multibreak-a-scalable-and-diverse-multi-turn-jailbreak-benchmark-for-evaluating-llm-safety",
+          "discovered_run": 56,
+          "timestamp": "2026-06-26T06:00:00.000000+00:00",
+          "source": "web_search escape hatch"
         }
       ],
       "last_run": "2026-06-26T05:49:05.852177+00:00",
@@ -2291,7 +2315,10 @@
     "2606.16517",
     "af3b691bee729cbb59c3cdd1f9f53093",
     "b8884f69b3eee6a4b3a9fa46daa28685",
-    "0d59c3c534c4d5cdc3d20f0ed9cc6889"
+    "0d59c3c534c4d5cdc3d20f0ed9cc6889",
+    "fa94dbc1ed0094016aee85e5d6166f8c",
+    "b651b69ddadbb3ebd061b6f0f484790b",
+    "cfe299b3a500ccaf121052e0810f3efe"
   ],
   "last_discovery": "2026-06-26T05:49:05.852177+00:00",
   "last_updated": "2026-06-26T05:49:05.852177+00:00",
@@ -2457,11 +2484,60 @@
       "2606.16517",
       "af3b691bee729cbb59c3cdd1f9f53093",
       "b8884f69b3eee6a4b3a9fa46daa28685",
-      "0d59c3c534c4d5cdc3d20f0ed9cc6889"
+      "0d59c3c534c4d5cdc3d20f0ed9cc6889",
+      "fa94dbc1ed0094016aee85e5d6166f8c",
+      "b651b69ddadbb3ebd061b6f0f484790b",
+      "cfe299b3a500ccaf121052e0810f3efe"
     ],
     "last_discovery": "2026-06-26T05:49:05.852177+00:00",
     "last_run": "2026-06-26T05:49:05.852177+00:00",
-    "last_updated": "2026-06-26T05:49:05.852177+00:00"
+    "last_updated": "2026-06-26T05:49:05.852177+00:00",
+    "last_results": [
+      {
+        "arxiv_id": "2605.21768",
+        "slug": "memory-r2-fair-credit-assignment-for-long-horizon-memory-augmented-llm-agents",
+        "discovered_run": 56,
+        "timestamp": "2026-06-26T06:00:00.000000+00:00",
+        "source": "web_search escape hatch"
+      },
+      {
+        "arxiv_id": "2605.19337",
+        "slug": "agentic-trading-when-llm-agents-meet-financial-markets",
+        "discovered_run": 56,
+        "timestamp": "2026-06-26T06:00:00.000000+00:00",
+        "source": "web_search escape hatch"
+      },
+      {
+        "arxiv_id": "2605.01687",
+        "slug": "multibreak-a-scalable-and-diverse-multi-turn-jailbreak-benchmark-for-evaluating-llm-safety",
+        "discovered_run": 56,
+        "timestamp": "2026-06-26T06:00:00.000000+00:00",
+        "source": "web_search escape hatch"
+      }
+    ]
   },
-  "last_pass_type": "emergent_concept"
+  "last_pass_type": "emergent_concept",
+  "last_results": [
+    {
+      "arxiv_id": "2605.21768",
+      "slug": "memory-r2-fair-credit-assignment-for-long-horizon-memory-augmented-llm-agents",
+      "discovered_run": 56,
+      "timestamp": "2026-06-26T06:00:00.000000+00:00",
+      "source": "web_search escape hatch"
+    },
+    {
+      "arxiv_id": "2605.19337",
+      "slug": "agentic-trading-when-llm-agents-meet-financial-markets",
+      "discovered_run": 56,
+      "timestamp": "2026-06-26T06:00:00.000000+00:00",
+      "source": "web_search escape hatch"
+    },
+    {
+      "arxiv_id": "2605.01687",
+      "slug": "multibreak-a-scalable-and-diverse-multi-turn-jailbreak-benchmark-for-evaluating-llm-safety",
+      "discovered_run": 56,
+      "timestamp": "2026-06-26T06:00:00.000000+00:00",
+      "source": "web_search escape hatch"
+    }
+  ]
 }

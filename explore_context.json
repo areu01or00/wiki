@@ -2923,6 +2923,27 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-26T05:45:00+00:00",
       "theme": "mechanistic-interpretability / mixture-of-experts / mlp / sparse-autoencoder / transformer-architecture"
+    },
+    {
+      "arxiv_id": "2605.21768",
+      "slug": "memory-r2-fair-credit-assignment-for-long-horizon-memory-augmented-llm-agents",
+      "discovered_run": 56,
+      "discovered_at": "2026-06-26T06:00:00.000000+00:00",
+      "source": "web_search escape hatch (HF pool CV/3D-heavy)"
+    },
+    {
+      "arxiv_id": "2605.19337",
+      "slug": "agentic-trading-when-llm-agents-meet-financial-markets",
+      "discovered_run": 56,
+      "discovered_at": "2026-06-26T06:00:00.000000+00:00",
+      "source": "web_search escape hatch (HF pool CV/3D-heavy)"
+    },
+    {
+      "arxiv_id": "2605.01687",
+      "slug": "multibreak-a-scalable-and-diverse-multi-turn-jailbreak-benchmark-for-evaluating-llm-safety",
+      "discovered_run": 56,
+      "discovered_at": "2026-06-26T06:00:00.000000+00:00",
+      "source": "web_search escape hatch (HF pool CV/3D-heavy)"
     }
   ],
   "emergent_discoveries": [
@@ -4219,6 +4240,30 @@
         "secret-mixtures-of-experts-inside-your-llm-2512.18452"
       ],
       "run_number": 55
+    },
+    {
+      "arxiv_id": "2605.21768",
+      "title": "Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents",
+      "slug": "memory-r2-fair-credit-assignment-for-long-horizon-memory-augmented-llm-agents",
+      "url": "https://arxiv.org/abs/2605.21768",
+      "discovered": "2026-06-26T06:00:00.000000+00:00",
+      "theme": "memory-agent / credit-assignment / GRPO / local-rerollouts"
+    },
+    {
+      "arxiv_id": "2605.19337",
+      "title": "Agentic Trading: When LLM Agents Meet Financial Markets",
+      "slug": "agentic-trading-when-llm-agents-meet-financial-markets",
+      "url": "https://arxiv.org/abs/2605.19337",
+      "discovered": "2026-06-26T06:00:00.000000+00:00",
+      "theme": "trading-agent / protocol-coded-survey / reproducibility-audit / expert-system-pipeline"
+    },
+    {
+      "arxiv_id": "2605.01687",
+      "title": "MultiBreak: A Scalable and Diverse Multi-Turn Jailbreak Benchmark for Evaluating LLM Safety",
+      "slug": "multibreak-a-scalable-and-diverse-multi-turn-jailbreak-benchmark-for-evaluating-llm-safety",
+      "url": "https://arxiv.org/abs/2605.01687",
+      "discovered": "2026-06-26T06:00:00.000000+00:00",
+      "theme": "multi-turn-jailbreak / safety-benchmark / active-learning-adversarial-coevolution"
     }
   ],
   "emergent_concept_search_log": [
@@ -6577,6 +6622,20 @@
       ],
       "run_number": 55,
       "notes": "Run 55: HF pool CV/3D-heavy (9 fresh non-LLM candidates), used web_search 4-query escape hatch; surfaced 9 fresh LLM candidates and picked 3 structurally orthogonal picks (memory-policy + agentic-reasoning-survey + mechanistic-interpretability); 3-axis pivot from Run 50-54 streaks"
+    },
+    {
+      "timestamp": "2026-06-26T06:00:00.000000+00:00",
+      "mode": "emergent_concept",
+      "theme": "local-rerollouts-as-trajectory-comparison-fairness-primitive + protocol-coded-evidence-ledger-as-trading-agent-evaluation-primitive + multi-turn-active-learning-adversarial-coevolution-as-safety-benchmark-primitive",
+      "method": "HuggingFace daily papers (3 days: 2026-06-24..26) + default page + v2 data-props parser + 5-store dedup + 4-query web_search escape hatch (HF pool CV/3D-heavy with 9 fresh non-LLM candidates)",
+      "picks": 3,
+      "arxiv_ids": [
+        "2605.21768",
+        "2605.19337",
+        "2605.01687"
+      ],
+      "run_number": 56,
+      "notes": "Run 56: HF pool CV/3D-heavy again (FLAT, FLUX3D, Semantic-Browsing, UnityShots, WordArt-OCR, Lite-Any-Stereo V2, ViQ, PhysiFormer, LeWorldModel — all 9 fresh CV/3D/video candidates), fired web_search 4-query escape hatch per pitfall-83; surfaced 14 fresh LLM candidates across memory/agent/safety axes; picked 3 structurally orthogonal picks: Memory-R2 (local-rerollouts-as-trajectory-comparison-fairness-primitive for memory-agent RL credit assignment), Agentic-Trading (protocol-coded-evidence-ledger-as-trading-agent-evaluation-primitive with R0-R3 reproducibility audit, first financial-domain entity in wiki), MultiBreak (multi-turn-active-learning-adversarial-coevolution-as-safety-benchmark-primitive with benign-category-blind-spot finding); 3-axis pivot from Run 55 memory-policy/agentic-reasoning/mechanistic-interpretability streaks to memory-credit-assignment/trading-evaluation-protocol/multi-turn-jailbreak axes"
     }
   ],
   "last_updated": "2026-06-26",

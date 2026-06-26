@@ -1330,3 +1330,26 @@ Together these 3 axes bracket the *unified-system*-surface — three orthogonal 
 - **Sibling cross-references used**: MMPO ↔ Agentic-Reasoning-survey (memory training-recipe ↔ survey memory layer), MMPO ↔ Why-Multi-Step-Tool-Use-RL-Collapses (memory-stabilization ↔ format-stabilization), Secret-MoE ↔ Grouped-Query-Experts-on-GQA (mechanistic-explanation ↔ attention-MoE), Secret-MoE ↔ Hitchhiker's-Guide-to-Agentic-AI (mechanistic-interpretation ↔ broader survey landscape).
 - **Pitfall-17 abstract fallback**: All 3 abstracts used `<meta name="citation_abstract" content="...">` fallback (primary `<blockquote class="abstract mathjax">` regex returned empty on current arxiv HTML for all 3 papers).
 - **Cycle counts**: ~50 tool calls so far, 6-file commit planned (3 entity + parent + 2 state + log.md).
+
+## 2026-06-26 06:00 UTC — Emergent-concept search (3 fresh themes: memory-credit-assignment + trading-evaluation-protocol + multi-turn-jailbreak)
+
+**Mode**: emergent-concept-search (all 9 named chains at 4/4 since 2026-05-25)
+**Method**: HuggingFace daily papers (3 days: 2026-06-24..26) + default page + v2 data-props parser + 5-store dedup + 4-query web_search escape hatch (HF pool CV/3D-heavy for the 2nd consecutive run)
+**Candidates surveyed**: 78 raw from HF daily → 71 LLM-relevant → 10 fresh post-5-store-dedup → all 10 are CV/3D/video (FLAT, FLUX3D, Semantic-Browsing, UnityShots, WordArt-OCR, Lite-Any-Stereo V2, ViQ, PhysiFormer, LeWorldModel, plus 1 Microgrids paper); fired web_search 4-query escape hatch per pitfall-83 → 14 fresh LLM candidates across memory/agent/safety axes; top 3 picks below
+**Papers added**: 3
+
+### Papers
+1. **Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents** (2605.21768) — Yan, Bahloul, Nie, Schwarzmann, Trivisonno, Tresp (cs.CL, 2026-05-20). Theme: memory-agent / credit-assignment / GRPO / local-rerollouts. LoGo-GRPO algorithm with local rerollouts from shared memory state + global trajectory-level objective; co-learning design for memory formation + evolution. **First LoGo-GRPO-with-local-rerollouts paper for memory-augmented long-horizon LLM agent credit assignment in the wiki.**
+2. **Agentic Trading: When LLM Agents Meet Financial Markets** (2605.19337) — Xia, You, Wang, Liu, Qi, Wu (cs.CL, 2026-05-19). Theme: trading-agent / protocol-coded-survey / reproducibility-audit / expert-system-pipeline. 77-study audit; 15/19 primary-subset studies are R0 (no reproducibility), 0 reach R3. **First R0-R3-coded protocol-incomparability audit of LLM-trading-agent literature in the wiki; first financial-domain entity in the wiki.**
+3. **MultiBreak: A Scalable and Diverse Multi-Turn Jailbreak Benchmark for Evaluating LLM Safety** (2605.01687) — Song, Liu, Yang, Chen, Feng, Zhu (cs.CL, 2026-05-03). Theme: multi-turn-jailbreak / safety-benchmark / active-learning-adversarial-coevolution. 10,389 prompts × 2,665 harmful intents; up to 54.0/34.6 ASR gain over second-best on DeepSeek-R1-7B/GPT-4.1-mini. **First active-learning-coevolved multi-turn jailbreak benchmark with benign-category-blind-spot finding in the wiki.**
+
+### Parent updates
+- `entities/emergent-concepts.md` ## Updates — MERGE-then-SORT prepend; new top-3 entries in date-DESC order: 05-20 (Memory-R2) → 05-19 (Agentic-Trading) → 05-03 (MultiBreak); existing top-4 (05-28, 01-18, 12-20 from Run 55) preserved in place. The 05-20 / 05-19 / 05-03 dates are all older than 06-26 but prepended at top because Run 56 is a new run with insertion-order tiebreaker per Rule 8.
+
+### Coordination notes
+- **Pitfall-83 fired again**: HF pool CV/3D-heavy for the 2nd consecutive run (Run 55 and Run 56); web_search 4-query escape hatch is the canonical response.
+- **Sibling cross-references used**: Memory-R2 ↔ MMPO (local-rerollouts-credit-allocation ↔ belief-entropy-self-supervised-proxy — bracket the memory-agent training surface), Memory-R2 ↔ Agentic-Reasoning-survey (training-algorithm primitive ↔ survey memory layer), Agentic-Trading ↔ Verification-Horizon (backtest-protocol-comparability ↔ reward-signal-fidelity), Agentic-Trading ↔ OpenBioRQ (historical-backtest-comparability ↔ forward-looking-research-faithfulness), MultiBreak ↔ What-Intermediate-Layers-Know (attack-benchmark ↔ defense-detection-via-entropy-dynamics), MultiBreak ↔ Geometry-of-Refusal (multi-turn-adversarial-manifestation ↔ linear-instability-characterization), MultiBreak ↔ PolicyAlign (evaluation-coverage ↔ alignment-recipe), MultiBreak ↔ Safety-Paradox (multi-turn-blind-spot ↔ non-monotonic-safety-investment).
+- **Pitfall-17 abstract fallback**: All 3 abstracts used `<meta name="citation_abstract" content="...">` fallback (primary regex returned empty on all 3 pages).
+- **First financial-domain entity in wiki**: Agentic-Trading introduces a new domain axis (finance) that no prior entity has covered.
+- **3-store lockstep verified**: top/llm-wiki/llm-wiki-explore each have 162 hashes, all SETS equal (pitfall-68a/b).
+- **Cycle counts**: ~50 tool calls so far; 6-file commit planned (3 entity + parent + 2 state + log.md).
