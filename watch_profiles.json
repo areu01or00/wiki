@@ -1921,14 +1921,14 @@
           "timestamp": "2026-06-26T03:54:47.817314+00:00"
         }
       ],
-      "last_run": "2026-06-26T03:25:00+00:00",
-      "last_updated": "2026-06-26T03:25:00+00:00",
+      "last_run": "2026-06-26T03:53:00+00:00",
+      "last_updated": "2026-06-26T03:53:00+00:00",
       "last_result_timestamp": "2026-06-26T03:25:00+00:00",
       "last_run_key": "hf_daily_emergent_concept_search",
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-26T03:54:47.817314+00:00",
+  "last_run": "2026-06-26T03:53:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -2073,7 +2073,7 @@
     "58ec421003ecd3700d71fdfe3798dfc5"
   ],
   "last_discovery": "2026-06-26T03:39:12+00:00",
-  "last_updated": "2026-06-26T03:54:47.817314+00:00",
+  "last_updated": "2026-06-26T03:53:00+00:00",
   "__last_updated": "2026-06-26T03:54:47.817314+00:00",
   "last_explore": "2026-06-26T03:39:12+00:00",
   "llm-wiki": {
@@ -2221,8 +2221,8 @@
       "58ec421003ecd3700d71fdfe3798dfc5"
     ],
     "last_discovery": "2026-06-26T03:25:00+00:00",
-    "last_run": "2026-06-26T03:25:00+00:00",
-    "last_updated": "2026-06-26T03:25:00+00:00"
+    "last_run": "2026-06-26T03:53:00+00:00",
+    "last_updated": "2026-06-26T03:53:00+00:00"
   },
-  "last_pass_type": "explore"
+  "last_pass_type": "emergent_concept"
 }
