@@ -3,23 +3,27 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-26",
-  "__last_updated": "2026-06-26T03:25:00+00:00",
-  "last_run": "2026-06-26T03:39:12+00:00",
+  "__last_updated": "2026-06-26T03:54:47.817314+00:00",
+  "last_run": "2026-06-26T03:54:47.817314+00:00",
   "last_explore": "2026-06-26T03:39:12+00:00",
   "last_global_explore": "2026-06-26T03:25:00+00:00",
   "last_discovery": "2026-06-26T03:25:00+00:00",
-  "last_run_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision (3-axis pivot from Run 38-45 streaks)",
-  "last_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision",
-  "last_run_notes": "Run 47 (2026-06-26T03:39:12+00:00): 3 picks — LEAP (2606.03303, agentic framework for Lean theorem proving — formal math proof as agentic surface, 06-02) + The Generalization Spectrum (2606.25450, chromatographic per-sample generalization as evaluation primitive, 06-24) + Towards Direct Latent-Space Synthesis for Parallel Branches (2606.14672, latent-space parallel-branch synthesis for agent workflows, 06-12). After 5-store cross-dedup, theme-pivot from Run 38-46 streaks (eval/post-train/memory/safety/externalization/on-policy-distill): 3-axis pivot to formal-math-agentic + chromatographic-eval + latent-space-parallel-branch-synthesis. All 4 phase verifications pass.",
-  "last_pass_type": "emergent_concept",
-  "last_run_method": "hf_daily_emergent_concept_search + web_search_escape_hatch + sibling-state-recovery",
+  "last_run_framing": "agentic-rl-collapse-diagnosis + modality-isolated-evaluation + reasoning-trace-extraction-attack",
+  "last_framing": "agentic-rl-collapse-diagnosis + modality-isolated-evaluation + reasoning-trace-extraction-attack",
+  "last_run_notes": "Run 47: agentic-RL-collapse + modality-isolated-evaluation + reasoning-trace-extraction-attack (3 first-in-wiki surfaces)",
+  "last_pass_type": "explore",
+  "last_run_method": "emergent-concept-search",
   "run_method": "emergent-concept-search",
-  "last_run_added": "2026-06-26T03:25:00+00:00",
-  "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision",
-  "emergent_theme": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision",
+  "last_run_added": [
+    "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
+    "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
+    "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642"
+  ],
+  "exploration_type": "emergent-concept",
+  "emergent_concept_theme": "agentic-rl-collapse-diagnosis + modality-isolated-evaluation + reasoning-trace-extraction-attack",
+  "emergent_theme": "agentic-rl-collapse-diagnosis + modality-isolated-evaluation + reasoning-trace-extraction-attack",
   "chains_updated": "2026-06-26T03:25:00+00:00",
-  "entities_count": 147,
+  "entities_count": 153,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1318,6 +1322,30 @@
           "vector": "emergent-concept",
           "discovered": "2026-06-26T03:39:12+00:00",
           "theme": "chromatographic-per-sample-generalization-evaluation"
+        },
+        {
+          "arxiv_id": "2606.26027",
+          "slug": "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
+          "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+          "url": "https://arxiv.org/abs/2606.26027",
+          "date": "2026-06-24",
+          "discovered": "2026-06-26T03:54:47.817314+00:00"
+        },
+        {
+          "arxiv_id": "2606.24551",
+          "slug": "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
+          "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
+          "url": "https://arxiv.org/abs/2606.24551",
+          "date": "2026-06-22",
+          "discovered": "2026-06-26T03:54:47.817314+00:00"
+        },
+        {
+          "arxiv_id": "2606.00642",
+          "slug": "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642",
+          "title": "Hidden Thoughts Are Not Secret: Reasoning Trace Exposure in LLMs",
+          "url": "https://arxiv.org/abs/2606.00642",
+          "date": "2026-05-30",
+          "discovered": "2026-06-26T03:54:47.817314+00:00"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -2605,6 +2633,33 @@
       "vector": "emergent-concept",
       "discovered": "2026-06-26T03:39:12+00:00",
       "theme": "chromatographic-per-sample-generalization-evaluation"
+    },
+    {
+      "arxiv_id": "2606.26027",
+      "slug": "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
+      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "url": "https://arxiv.org/abs/2606.26027",
+      "date": "2026-06-24",
+      "theme": "agentic-rl-collapse / control-token-pathology / supervisory-signal-stabilization / interleaved-sft",
+      "discovered": "2026-06-26T03:54:47.817314+00:00"
+    },
+    {
+      "arxiv_id": "2606.24551",
+      "slug": "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
+      "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2606.24551",
+      "date": "2026-06-22",
+      "theme": "computer-use-agent / interaction-modality / matched-benchmark / skill-coverage-bottleneck",
+      "discovered": "2026-06-26T03:54:47.817314+00:00"
+    },
+    {
+      "arxiv_id": "2606.00642",
+      "slug": "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642",
+      "title": "Hidden Thoughts Are Not Secret: Reasoning Trace Exposure in LLMs",
+      "url": "https://arxiv.org/abs/2606.00642",
+      "date": "2026-05-30",
+      "theme": "reasoning-trace-extraction / shadow-model-demonstrations / code-like-format-amplifier / distillation-privacy",
+      "discovered": "2026-06-26T03:54:47.817314+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -3755,6 +3810,27 @@
       "vector": "emergent-concept",
       "discovered": "2026-06-26T03:39:12+00:00",
       "theme": "chromatographic-per-sample-generalization-evaluation"
+    },
+    {
+      "arxiv_id": "2606.26027",
+      "slug": "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
+      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "date": "2026-06-24",
+      "discovered": "2026-06-26T03:54:47.817314+00:00"
+    },
+    {
+      "arxiv_id": "2606.24551",
+      "slug": "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
+      "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
+      "date": "2026-06-22",
+      "discovered": "2026-06-26T03:54:47.817314+00:00"
+    },
+    {
+      "arxiv_id": "2606.00642",
+      "slug": "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642",
+      "title": "Hidden Thoughts Are Not Secret: Reasoning Trace Exposure in LLMs",
+      "date": "2026-05-30",
+      "discovered": "2026-06-26T03:54:47.817314+00:00"
     }
   ],
   "emergent_concept_search_log": [
@@ -4641,6 +4717,24 @@
       "thematic_framing": "agentic-formal-theorem-proving + chromatographic-per-sample-generalization + latent-space-parallel-branch-synthesis (3-axis pivot from Run 38-46 eval/post-train/memory/safety/eval streak)",
       "pitfalls_hit": "NONE in main flow",
       "phase_verifications": "all 4 phases pass"
+    },
+    {
+      "ts": "2026-06-26T03:54:47.817314+00:00",
+      "arxiv_id": "2606.26027",
+      "slug": "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
+      "theme": "agentic-rl-collapse / control-token-pathology / supervisory-signal-stabilization / interleaved-sft"
+    },
+    {
+      "ts": "2026-06-26T03:54:47.817314+00:00",
+      "arxiv_id": "2606.24551",
+      "slug": "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
+      "theme": "computer-use-agent / interaction-modality / matched-benchmark / skill-coverage-bottleneck"
+    },
+    {
+      "ts": "2026-06-26T03:54:47.817314+00:00",
+      "arxiv_id": "2606.00642",
+      "slug": "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642",
+      "theme": "reasoning-trace-extraction / shadow-model-demonstrations / code-like-format-amplifier / distillation-privacy"
     }
   ],
   "emergent_concept_search_runs": [
@@ -5324,6 +5418,28 @@
       "thematic_framing": "agentic-formal-theorem-proving + chromatographic-per-sample-generalization + latent-space-parallel-branch-synthesis (3-axis pivot from Run 38-46 eval/post-train/memory/safety/eval streak)",
       "dedup_rate": "74 HF + 30 web_search -> 29 fresh -> 3 picks",
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-26T03:54:47.817314+00:00",
+      "method": "hf_daily+web_search+5store_dedup",
+      "papers": [
+        "2606.26027",
+        "2606.24551",
+        "2606.00642"
+      ],
+      "slugs": [
+        "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
+        "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
+        "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642"
+      ],
+      "themes": [
+        "agentic-rl-collapse / control-token-pathology / supervisory-signal-stabilization / interleaved-sft",
+        "computer-use-agent / interaction-modality / matched-benchmark / skill-coverage-bottleneck",
+        "reasoning-trace-extraction / shadow-model-demonstrations / code-like-format-amplifier / distillation-privacy"
+      ],
+      "thematic_framing": "agentic-rl-collapse-diagnosis + modality-isolated-evaluation + reasoning-trace-extraction-attack",
+      "dedup_rate": "23 fresh HF daily candidates, web_search supplements, 5-store clean",
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "runs": [
@@ -5817,15 +5933,27 @@
       ],
       "entities_count_after": 153,
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "timestamp": "2026-06-26T03:54:47.817314+00:00",
+      "mode": "emergent_concept",
+      "theme": "agentic-rl-collapse-diagnosis + modality-isolated-evaluation + reasoning-trace-extraction-attack",
+      "papers_added": [
+        "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
+        "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
+        "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642"
+      ],
+      "entities_count_after": 153,
+      "pitfalls_hit": "NONE in main flow; 2 broken wikilinks caught and fixed in audit (forward-looking unpicked candidate pattern)"
     }
   ],
-  "last_updated": "2026-06-26T02:54:00+00:00",
-  "last_run_iso": "2026-06-26T02:54:00+00:00",
-  "total_entity_count": 144,
+  "last_updated": "2026-06-26T03:54:47.817314+00:00",
+  "last_run_iso": "2026-06-26T03:54:47.817314+00:00",
+  "total_entity_count": 153,
   "entity_files_added": [
-    "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
-    "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
-    "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135"
+    "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
+    "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
+    "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642"
   ],
   "pass_type": "explore",
   "emergent_discoveries_log": [
@@ -5865,14 +5993,6 @@
       "theme": "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment"
     }
   ],
-  "last_run_mode": "emergent_concept",
-  "last_run_summary": {
-    "timestamp": "2026-06-26T02:01:10+00:00",
-    "picks": [
-      "2606.07682",
-      "2606.06448",
-      "2606.05614"
-    ],
-    "theme": "ultra-long-horizon-benchmark + systems-memory-characterization + jailbreak-mechanism (pivot from prior 4-run streaks)"
-  }
+  "last_run_mode": "emergent-concept",
+  "last_run_summary": "3 first-in-wiki surfaces: RL-collapse-via-control-tokens + GUI-vs-CLI-matched-modality-benchmark + reasoning-trace-exposure-via-prompting-format"
 }

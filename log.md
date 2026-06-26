@@ -1147,3 +1147,11 @@ Updated log.md via `git show HEAD:log.md > /tmp/run0043/log.md.restored` + `cat 
   - 144 entity count (132 paper + 12 meta)
   - 3-store lockstep invariant intact at 132 hashes
   - 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
+
+- Run 47 (2026-06-26 03:54 UTC) — 3 new entity pages from emergent-concept search (Multi-Step Tool-Use RL Collapse format-distribution-pathology-diagnosis + GUI vs CLI Matched-Modality-Execution-Bottlenecks + Hidden Thoughts Are Not Secret Reasoning-Trace-Exposure-via-Prompting-Format) — 3-axis pivot from Run 38-46 streaks (focus on tool-use-RL-collapse-diagnosis + matched-modality-evaluation + reasoning-trace-extraction-attack surfaces)
+- 35th consecutive clean run of avoided-pitfalls
+- 3 new hashes all unique vs 138-hash pool
+- 153 entity count (141 paper + 12 meta)
+- 3-store lockstep invariant intact at 141 hashes
+- ensure_ascii divergent stable state (preserved: EC=False, WP=True)
+- 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)

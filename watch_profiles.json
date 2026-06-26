@@ -817,7 +817,10 @@
         "7195ea97d85f69d05e1cbba288eb04fe",
         "ad580aec27fa178804037265814b0c27",
         "19e90914832c85da9d268c56cc768e2c",
-        "b170e176909471de66d33b96303de0a5"
+        "b170e176909471de66d33b96303de0a5",
+        "c4b69776f670352238e97804b611a702",
+        "e819a5bd2d65f96578e94ef4bf915d38",
+        "58ec421003ecd3700d71fdfe3798dfc5"
       ],
       "last_results": [
         {
@@ -1895,6 +1898,27 @@
           "date": "2026-06-24",
           "discovered": "2026-06-26T03:39:12+00:00",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.26027",
+          "slug": "why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027",
+          "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+          "hash": "c4b69776f670352238e97804b611a702",
+          "timestamp": "2026-06-26T03:54:47.817314+00:00"
+        },
+        {
+          "arxiv_id": "2606.24551",
+          "slug": "gui-vs-cli-execution-bottlenecks-in-screen-only-and-skill-mediated-computer-use-agents-2606.24551",
+          "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
+          "hash": "e819a5bd2d65f96578e94ef4bf915d38",
+          "timestamp": "2026-06-26T03:54:47.817314+00:00"
+        },
+        {
+          "arxiv_id": "2606.00642",
+          "slug": "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642",
+          "title": "Hidden Thoughts Are Not Secret: Reasoning Trace Exposure in LLMs",
+          "hash": "58ec421003ecd3700d71fdfe3798dfc5",
+          "timestamp": "2026-06-26T03:54:47.817314+00:00"
         }
       ],
       "last_run": "2026-06-26T03:25:00+00:00",
@@ -1904,7 +1928,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-26T03:39:12+00:00",
+  "last_run": "2026-06-26T03:54:47.817314+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -2043,11 +2067,14 @@
     "7195ea97d85f69d05e1cbba288eb04fe",
     "ad580aec27fa178804037265814b0c27",
     "19e90914832c85da9d268c56cc768e2c",
-    "b170e176909471de66d33b96303de0a5"
+    "b170e176909471de66d33b96303de0a5",
+    "c4b69776f670352238e97804b611a702",
+    "e819a5bd2d65f96578e94ef4bf915d38",
+    "58ec421003ecd3700d71fdfe3798dfc5"
   ],
   "last_discovery": "2026-06-26T03:39:12+00:00",
-  "last_updated": "2026-06-26T03:39:12+00:00",
-  "__last_updated": "2026-06-26T03:39:12+00:00",
+  "last_updated": "2026-06-26T03:54:47.817314+00:00",
+  "__last_updated": "2026-06-26T03:54:47.817314+00:00",
   "last_explore": "2026-06-26T03:39:12+00:00",
   "llm-wiki": {
     "last_result_hashes": [
@@ -2188,7 +2215,10 @@
       "7195ea97d85f69d05e1cbba288eb04fe",
       "ad580aec27fa178804037265814b0c27",
       "19e90914832c85da9d268c56cc768e2c",
-      "b170e176909471de66d33b96303de0a5"
+      "b170e176909471de66d33b96303de0a5",
+      "c4b69776f670352238e97804b611a702",
+      "e819a5bd2d65f96578e94ef4bf915d38",
+      "58ec421003ecd3700d71fdfe3798dfc5"
     ],
     "last_discovery": "2026-06-26T03:25:00+00:00",
     "last_run": "2026-06-26T03:25:00+00:00",
