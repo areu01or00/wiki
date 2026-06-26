@@ -977,4 +977,93 @@ The cron-mode pipeline (no `execute_code`, plain `terminal()` + `python3 /tmp/ru
 - 3 new hashes (e67e174b, 862126ea, f88d05df) all unique vs 120-hash pool
 - 135 entity count (123 paper + 12 meta)
 - 3-store lockstep invariant intact at 123 hashes
+- 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)## Run 43 (2026-06-26 02:24 UTC) — Run 43 — 3 new entity pages from emergent-concept search (Rubric-Conditioned Self-Distillation rubric-as-supervision + Agent Skill Evaluation Survey four-paradigm-skill-evolution + AARRI-Bench researcher-role-mimicry)
+
+**Mode**: Emergent-concept search (all 9 chains at 4/4 since 2026-05-25)
+**Picks**:
+1. **Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation** (2606.19327, 06-17) — Gu, Siyi; Chen, Jialin; Zhou, Sophia; Cohan, Arman; Ying, Rex — replaces chain-of-thought annotation (noisy/expensive) and scalar verified-reward RL (opaque credit assignment) with **rubric-conditioned self-distillation** — teacher conditioned on criterion-level rubrics provides token-level guidance on the student's own sampled trajectories. Surpasses GRPO by 1.0 points and OPSD by 0.9 points on average across science reasoning benchmarks. Reframes the supervision question from "what is the right reasoning trace?" to "what criteria should a strong response satisfy, and how do those criteria map to token-level credit?"
+2. **Agent Skill Evaluation and Evolution: Frameworks and Benchmarks** (2606.11435, 06-09) — Ding, Kexin; Zhou, Yang; Jin, Can; Tong, Feng; Zhou, Mu; Metaxas, Dimitris N. — surfaces the paradigm shift from isolated skill creation to automated, evaluation-driven skill evolution; categorizes skill evolution into four paradigms (execution feedback, trajectory distillation, compression, reinforcement learning) and analyzes six skill-centric benchmark categories to identify structural gaps.
+3. **Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle (AARRI-Bench)** (2606.07462, 06-05) — Wang, Jiayu; Lv, Weijiang; Fu, Bowen; Fu, Jing; Song, Jiayi; Zhang, Lingyu; Xue, Lanxuan; Chen, Luodi; Xin, Zepeng; Li, Kaiyu; Cao, Xiangyong — first installment of AARR series, evaluating whether LLM agents can *act like real researchers* (field sensitivity, research ethics, nuanced scientific judgment) rather than just complete research tasks. Best config (Mini-SWE-Agent + Claude Opus 4.7) achieves only 68.3% success.
+
+## 3-axis theme-pivot (Run 43)
+
+Run 43 audits the last 5+ runs' thematic framings and pivots to three structurally orthogonal axes:
+- **Run 37-38 (6 papers)**: agent-evaluation-deployment angle
+- **Run 39 (3 papers)**: post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry
+- **Run 40 (3 papers)**: operational-infrastructure-for-agents
+- **Run 41 (3 papers)**: ultra-long-horizon-benchmark + systems-level-memory-characterization + safety-awareness-as-vulnerability
+- **Run 42 (3 papers)**: provenance-verification + refusal-alignment-measurement + temporally-controlled-prospective-research-judgment
+
+Run 43's three picks have NO common umbrella with any prior streak:
+- Rubric-Conditioned Self-Distillation: *rubric-as-supervision* / *fine-grained-credit-assignment* axis
+- Agent Skill Evaluation Survey: *skill-evolution-as-discipline* / *four-paradigm-taxonomy* axis
+- AARRI-Bench: *researcher-role-mimicry-as-evaluation-surface* axis
+
+**Run 43 thematic_framing**: "rubric-conditioned-self-distillation + agent-skill-evolution-survey-four-paradigm-taxonomy + researcher-role-mimicry-benchmark (3-axis pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak-mechanism / Run 42 provenance+safety-measurement+prospective-research-judgment)"
+
+## Pitfall-66 hit and fixed (Run 43)
+
+The Run 43 write of AARRI-Bench entity (2606.07462) initially had 2 broken wikilinks:
+1. `[[llm-scientific-peer-review-survey-2606.25057]]` — wrong slug prefix (should be `llm-based-scientific-peer-review-methods-benchmarks-reliability-challenges-2606.25057`)
+2. `[[beyond-static-leaderboards-predictive-validity-methodology-agent-evaluation-2606.24455]]` — wrong arxiv ID suffix (should be 2606.19704)
+
+**Step 5.5 post-write audit caught both** (same `re.findall` + `set(os.listdir(...))` pattern). Patched via `lookup_slug(arxiv_id=...)` lookup. Re-audit confirmed 0 broken. This is the 7th pitfall-28 variant — partial-title-mental-reconstruction producing wrong arxiv-ID-suffix OR wrong slug-prefix; the audit catches both via canonical-slug-lookup-table comparison.
+
+## Forward-prevention via `ls entities/ | grep` (Run 43 verified)
+
+For each pick, pre-write `ls entities/ | grep -iE '<theme-keyword>'` returned:
+1. **AARRI-Bench (researcher-mimicry)**: 1 match (`connect-the-dots`) — used as cross-reference
+2. **Skill-Eval Survey (skill-evolution-survey)**: 2 matches (`notes2skills`, `skillharness`) — used as cross-references
+3. **Rubric-Self-Distill (rubric-distillation)**: 11 matches in distillation/post-training space — used 4 sibling cross-references (Progress Advantage, V-Zero, ReNIO, Distilling-Examples)
+
+Pre-write grep worked cleanly for 2 of 3 picks. The AARRI-Bench entity still needed post-write audit for the cross-references to prior surveys (llm-scientific-peer-review and beyond-static-leaderboards), which were caught and fixed.
+
+## HF daily pool: still thin on LLM (verified Run 43)
+
+HF daily 4-source window returned 68 unique candidates → 18 fresh after 5-store dedup → only 6 LLM-relevant (mostly CV/3D/imaging). The CV/3D-heavy weeks continue. web_search escape hatch remains primary discovery substrate.
+
+**2 of 3 picks came from web_search** (Rubric-Conditioned Self-Distillation from Q3 training-RLHF-post-training query, Agent Skill Evaluation Survey from Q1 agent-reasoning-memory query). AARRI-Bench came from Q4 agentic-eval-deployment-novel query.
+
+## 4-phase verification framework all passed (Run 43)
+
+- **Phase 1** (Pre-write `ls | grep`): 3 picks × 1 grep each = 3 queries; partial coverage (AARRI needed post-write audit for cross-survey refs)
+- **Phase 2** (Post-write per-entity audit): 12 wikilinks across 3 files (4+3+5) → 2 broken on first pass (AARRI entity), **fixed via patch + re-audit = 0 broken**
+- **Phase 3** (Parent new-block audit): 15 wikilinks in prepended block → 0 broken, 0 placeholder
+- **Phase 4** (Date-DESC + insertion-order tiebreaker): top-3 entries verified as Rubric-Self-Distill (06-17) → Skill-Eval-Survey (06-09) → AARRI-Bench (06-05)
+
+## State-file schema gotchas all caught (Run 43)
+
+- `emergent_concept_papers / emergent_discoveries / chains.papers_found / emergent_concept_search_log` entries are dicts: `arxiv_id_set()` helper applied
+- `runs` and `emergent_concept_search_runs` are lists of records: `OrderedDict` append pattern, idempotent timestamp guard
+- **Pitfall-69 load-bearing fix**: pre-write counts stored in variables BEFORE the write, assertions FIRST then cosmetic prints
+
+Post-write verification:
+- ecp: 123 → 126 (+3)
+- ed: 123 → 126 (+3)
+- chain.papers_found: 114 → 117 (+3)
+- ecslog: 55 → 56 (+1)
+- runs: 41 → 42 (+1)
+- ecsr: 41 → 42 (+1)
+
+## 3-store lockstep + encoding preservation (verified Run 43)
+
+- **SET-equality**: 126 hashes each (was 123)
+- **Per-store uniqueness**: 0 duplicates in any store
+- **ensure_ascii preservation**: EC=False (raw UTF-8) + WP=True (escaped) — divergent stable state held
+
+## log.md sibling-subagent race avoidance (verified Run 43)
+
+Updated log.md via `git show HEAD:log.md > /tmp/run0043/log.md.restored` + `cat restored new_entry > log.md.new` + `cp log.md.new /home/hermes/wiki/log.md` instead of `write_file`. No race encountered.
+
+## Cycle counts
+
+- 68 HF candidates in 4 sources → 18 fresh → 6 LLM-relevant (mostly CV/3D)
+- 3 web_search candidates (4 queries) → 3 fresh → 3 LLM-relevant
+- 9 LLM-relevant total → 3 picks (3-axis pivot)
+- 12 wikilinks across 3 new entity files (4+3+5) → 2 broken on first pass (AARRI entity), 0 after patch
+- 15 wikilinks in parent new-block → 0 broken, 0 placeholder
+- 31st consecutive clean run of avoided-pitfalls (1 partial-fix recovery via patch)
+- 3 new hashes (pending) all unique vs 123-hash pool
+- 138 entity count (126 paper + 12 meta)
+- 3-store lockstep invariant intact at 126 hashes
 - 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
