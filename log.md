@@ -1310,3 +1310,23 @@ Together these 3 axes bracket the *unified-system*-surface — three orthogonal 
 - **HF daily v2 parser works**: 75 unique IDs across 3 fetched dates + default page; LLM-keyword filter gives 67 candidates; 5-store dedup leaves 14 fresh; primary substrate sufficient for this run (no web_search escape hatch needed).
 - **Cycle counts**: ~45 tool calls, 6-file atomic commit (3 entity + parent + 2 state + log.md).
 - **Run 51 file_write pitfall encountered**: First write_file for emergent-concepts.md used python heredoc to inject entries in the wrong order (Qwen/ICWM/DanceOPD by date, but ICWM=06-24 came between two 06-25 entries violating date-DESC); recovered via patch-mode with placeholder + reorder (3 patches total: placeholder ICWM, append ICWM after DanceOPD, then remove placeholder). Net cost: 3 extra patches but no broken wikilinks.
+
+## Run 55 (2026-06-26 05:45 UTC)
+
+**Discovery**: HF daily v2 + 4-query web_search escape hatch
+**Picks**: 3 fresh LLM-centric papers (MMPO 2605.30159, Agentic-Reasoning 2601.12538, Secret-MoE 2512.18452)
+**Method**: HF daily 3 days + default page → 78 unique IDs → 70 LLM-relevant → 9 fresh candidates → all CV/3D/video, none LLM-centric → web_search 4-query escape hatch (memory-agent + agentic-reasoning + safety + MoE) → 9 fresh LLM candidates → top 3 by structural orthogonality
+
+### Phases
+1. **Phase 1** (pre-write `ls entities/`): verified wikilink targets exist before injection; found `deco-sparse-moe-dense-comparable-2605.10933` referenced in entry text but entity doesn't exist on disk → replaced with `grouped-query-experts-mixture-of-experts-on-gqa-self-attention-2606.20945` (already mentioned)
+2. **Phase 2** (post-write per-entity wikilink audit): 4+6+3 = 13 wikilinks across 3 entries, all resolve
+3. **Phase 3** (parent new-block wikilink audit): all wikilinks in new top-3 entries resolve
+4. **Phase 4** (date-DESC + insertion-order): 05-28 → 01-18 → 12-20 confirmed in `## Updates` top-3
+
+### Operational notes
+- **3-axis pivot verified**: belief-entropy-as-self-supervised-memory-quality-proxy + three-layer-environment-dynamics-agentic-reasoning-taxonomy + dense-MLP-as-secret-MoE are structurally orthogonal to all prior Run 37-54 streaks (no overlap with verification-co-evolution, biomedical-faithfulness, calibrated-evidence-reliability, context-gap-as-task-definition, self-exploration-as-system-identification, capability-routing-as-distillation-target, coverage-aware-hallucination-taxonomy, steerable-vla-autonomous-skill-acquisition, foresight-driven-keyframe-evidence-memory, speculative-decoding-parallel-tree-drafting, biological-reasoning-post-training-composition, or multimodal-explainability-cross-modal-shortcut-diagnosis axes).
+- **Theme pivot rationale**: HF daily pool was CV/3D-heavy this week with only 9 fresh candidates (PhysiFormer, ViQ, Fast LeWorldModel, FLAT, FLUX3D, WordArt-OCR, Lite-Any-Stereo, Semantic-Browsing, UnityShots) — all non-LLM-centric. Per Rule 15 escape-hatch protocol, fell back to 4-query web_search (memory-agent + agentic-reasoning + safety-jailbreak + MoE) which surfaced 9 fresh LLM candidates. Top 3 picks cover memory-training-recipe (MMPO), agentic-reasoning-taxonomy (Agentic-Reasoning survey), and mechanistic-MLP-interpretability (Secret-MoE) — three orthogonal axes that the CV-heavy HF pool wouldn't have surfaced.
+- **All 3 picks have older publication dates** (05-28, 01-18, 12-20) but were NEW to the wiki (not in any of 5 dedup stores). This is unusual — typically fresher arxiv IDs are picked, but the agentic-reasoning-survey paper (2601.12538) from January 2026 wasn't on the wiki yet because the wiki's emergent-concept discovery started mid-2026.
+- **Sibling cross-references used**: MMPO ↔ Agentic-Reasoning-survey (memory training-recipe ↔ survey memory layer), MMPO ↔ Why-Multi-Step-Tool-Use-RL-Collapses (memory-stabilization ↔ format-stabilization), Secret-MoE ↔ Grouped-Query-Experts-on-GQA (mechanistic-explanation ↔ attention-MoE), Secret-MoE ↔ Hitchhiker's-Guide-to-Agentic-AI (mechanistic-interpretation ↔ broader survey landscape).
+- **Pitfall-17 abstract fallback**: All 3 abstracts used `<meta name="citation_abstract" content="...">` fallback (primary `<blockquote class="abstract mathjax">` regex returned empty on current arxiv HTML for all 3 papers).
+- **Cycle counts**: ~50 tool calls so far, 6-file commit planned (3 entity + parent + 2 state + log.md).
