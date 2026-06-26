@@ -820,7 +820,10 @@
         "b170e176909471de66d33b96303de0a5",
         "c4b69776f670352238e97804b611a702",
         "e819a5bd2d65f96578e94ef4bf915d38",
-        "58ec421003ecd3700d71fdfe3798dfc5"
+        "58ec421003ecd3700d71fdfe3798dfc5",
+        "3cccfd90cb5b5e0b6abb036f1b5f2a01",
+        "f546332de709619eeee9f4b24a187256",
+        "640fbde1914e0f6fae54f47cf635e39a"
       ],
       "last_results": [
         {
@@ -1919,6 +1922,41 @@
           "title": "Hidden Thoughts Are Not Secret: Reasoning Trace Exposure in LLMs",
           "hash": "58ec421003ecd3700d71fdfe3798dfc5",
           "timestamp": "2026-06-26T03:54:47.817314+00:00"
+        },
+        {
+          "run_id": "run_2026-06-26T04:16:07.483914+00:00",
+          "timestamp": "2026-06-26T04:16:07.483914+00:00",
+          "mode": "emergent_concept",
+          "arxiv_ids": [
+            "2606.15419",
+            "2606.08340",
+            "2606.03965"
+          ],
+          "slugs": [
+            "let-llms-judge-each-other-multi-agent-peer-reviewed-reasoning-for-medical-question-answering-2606.15419",
+            "benchmarking-open-ended-multi-agent-coordination-in-language-agents-2606.08340",
+            "agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning-2606.03965"
+          ],
+          "themes": [
+            "peer-review-as-reasoning-selection",
+            "coordination-as-distinct-bottleneck",
+            "mdp-controller-for-budget-aware-reasoning"
+          ],
+          "thematic_framing": "multi-agent-peer-review-as-reasoning-selection + open-ended-coordination-as-distinct-bottleneck + mdp-formulated-reasoning-steering-controller",
+          "files": [
+            {
+              "arxiv_id": "2606.15419",
+              "slug": "let-llms-judge-each-other-multi-agent-peer-reviewed-reasoning-for-medical-question-answering-2606.15419"
+            },
+            {
+              "arxiv_id": "2606.08340",
+              "slug": "benchmarking-open-ended-multi-agent-coordination-in-language-agents-2606.08340"
+            },
+            {
+              "arxiv_id": "2606.03965",
+              "slug": "agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning-2606.03965"
+            }
+          ]
         }
       ],
       "last_run": "2026-06-26T03:53:00+00:00",
@@ -1928,7 +1966,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-26T03:53:00+00:00",
+  "last_run": "2026-06-26T04:16:07.483914+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -2070,11 +2108,14 @@
     "b170e176909471de66d33b96303de0a5",
     "c4b69776f670352238e97804b611a702",
     "e819a5bd2d65f96578e94ef4bf915d38",
-    "58ec421003ecd3700d71fdfe3798dfc5"
+    "58ec421003ecd3700d71fdfe3798dfc5",
+    "3cccfd90cb5b5e0b6abb036f1b5f2a01",
+    "f546332de709619eeee9f4b24a187256",
+    "640fbde1914e0f6fae54f47cf635e39a"
   ],
-  "last_discovery": "2026-06-26T03:39:12+00:00",
-  "last_updated": "2026-06-26T03:53:00+00:00",
-  "__last_updated": "2026-06-26T03:54:47.817314+00:00",
+  "last_discovery": "2026-06-26T04:16:07.483914+00:00",
+  "last_updated": "2026-06-26T04:16:07.483914+00:00",
+  "__last_updated": "2026-06-26T04:16:07.483914+00:00",
   "last_explore": "2026-06-26T03:39:12+00:00",
   "llm-wiki": {
     "last_result_hashes": [
@@ -2218,7 +2259,10 @@
       "b170e176909471de66d33b96303de0a5",
       "c4b69776f670352238e97804b611a702",
       "e819a5bd2d65f96578e94ef4bf915d38",
-      "58ec421003ecd3700d71fdfe3798dfc5"
+      "58ec421003ecd3700d71fdfe3798dfc5",
+      "3cccfd90cb5b5e0b6abb036f1b5f2a01",
+      "f546332de709619eeee9f4b24a187256",
+      "640fbde1914e0f6fae54f47cf635e39a"
     ],
     "last_discovery": "2026-06-26T03:25:00+00:00",
     "last_run": "2026-06-26T03:53:00+00:00",
