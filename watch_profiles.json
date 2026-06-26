@@ -841,7 +841,10 @@
         "0d59c3c534c4d5cdc3d20f0ed9cc6889",
         "fa94dbc1ed0094016aee85e5d6166f8c",
         "b651b69ddadbb3ebd061b6f0f484790b",
-        "cfe299b3a500ccaf121052e0810f3efe"
+        "cfe299b3a500ccaf121052e0810f3efe",
+        "2606.14589",
+        "2606.08162",
+        "2509.25370"
       ],
       "last_results": [
         {
@@ -2145,17 +2148,20 @@
           "discovered_run": 56,
           "timestamp": "2026-06-26T06:00:00.000000+00:00",
           "source": "web_search escape hatch"
-        }
+        },
+        "2606.14589",
+        "2606.08162",
+        "2509.25370"
       ],
-      "last_run": "2026-06-26T05:49:05.852177+00:00",
-      "last_updated": "2026-06-26T05:49:05.852177+00:00",
-      "last_result_timestamp": "2026-06-26T05:49:05.852177+00:00",
+      "last_run": "2026-06-26T06:09:00+00:00",
+      "last_updated": "2026-06-26T06:09:00+00:00",
+      "last_result_timestamp": "2026-06-26T06:09:00+00:00",
       "last_run_key": "run-53",
       "last_pass_type": "emergent_concept",
-      "last_discovery": "2026-06-26T05:49:05.852177+00:00"
+      "last_discovery": "2026-06-26T06:09:00+00:00"
     }
   },
-  "last_run": "2026-06-26T05:49:05.852177+00:00",
+  "last_run": "2026-06-26T06:09:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -2318,12 +2324,15 @@
     "0d59c3c534c4d5cdc3d20f0ed9cc6889",
     "fa94dbc1ed0094016aee85e5d6166f8c",
     "b651b69ddadbb3ebd061b6f0f484790b",
-    "cfe299b3a500ccaf121052e0810f3efe"
+    "cfe299b3a500ccaf121052e0810f3efe",
+    "2606.14589",
+    "2606.08162",
+    "2509.25370"
   ],
-  "last_discovery": "2026-06-26T05:49:05.852177+00:00",
-  "last_updated": "2026-06-26T05:49:05.852177+00:00",
-  "__last_updated": "2026-06-26T05:49:05.852177+00:00",
-  "last_explore": "2026-06-26T05:49:05.852177+00:00",
+  "last_discovery": "2026-06-26T06:09:00+00:00",
+  "last_updated": "2026-06-26T06:09:00+00:00",
+  "__last_updated": "2026-06-26T06:09:00+00:00",
+  "last_explore": "2026-06-26T06:09:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -2487,11 +2496,14 @@
       "0d59c3c534c4d5cdc3d20f0ed9cc6889",
       "fa94dbc1ed0094016aee85e5d6166f8c",
       "b651b69ddadbb3ebd061b6f0f484790b",
-      "cfe299b3a500ccaf121052e0810f3efe"
+      "cfe299b3a500ccaf121052e0810f3efe",
+      "2606.14589",
+      "2606.08162",
+      "2509.25370"
     ],
-    "last_discovery": "2026-06-26T05:49:05.852177+00:00",
-    "last_run": "2026-06-26T05:49:05.852177+00:00",
-    "last_updated": "2026-06-26T05:49:05.852177+00:00",
+    "last_discovery": "2026-06-26T06:09:00+00:00",
+    "last_run": "2026-06-26T06:09:00+00:00",
+    "last_updated": "2026-06-26T06:09:00+00:00",
     "last_results": [
       {
         "arxiv_id": "2605.21768",
@@ -2513,8 +2525,12 @@
         "discovered_run": 56,
         "timestamp": "2026-06-26T06:00:00.000000+00:00",
         "source": "web_search escape hatch"
-      }
-    ]
+      },
+      "2606.14589",
+      "2606.08162",
+      "2509.25370"
+    ],
+    "last_pass_type": "emergent_concept"
   },
   "last_pass_type": "emergent_concept",
   "last_results": [

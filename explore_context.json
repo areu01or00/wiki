@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-26",
-  "__last_updated": "2026-06-26T05:48:36.783842+00:00",
-  "last_run": "2026-06-26T05:48:36.783842+00:00",
-  "last_explore": "2026-06-26T05:48:36.783842+00:00",
-  "last_global_explore": "2026-06-26T05:48:36.783842+00:00",
-  "last_discovery": "2026-06-26T05:48:36.783842+00:00",
-  "last_run_framing": "belief-entropy-as-self-supervised-memory-quality-proxy + three-layer-environment-dynamics-agentic-reasoning-taxonomy + dense-MLP-as-secret-MoE",
-  "last_framing": "belief-entropy-as-self-supervised-memory-quality-proxy + three-layer-environment-dynamics-agentic-reasoning-taxonomy + dense-MLP-as-secret-MoE",
-  "last_run_notes": "Run 55 (2026-06-26T05:45:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch (HF pool was CV/3D-heavy this week with only 9 fresh candidates, all non-LLM — web_search surfaced 9 fresh LLM candidates, picked top 3 structurally orthogonal picks); 3-axis pivot from Run 50-54 streaks to memory-policy-self-supervised + agentic-reasoning-survey + mechanistic-MLP-as-MoE axes",
+  "updated": "2026-06-26T06:09:00+00:00",
+  "__last_updated": "2026-06-26T06:09:00+00:00",
+  "last_run": "2026-06-26T06:09:00+00:00",
+  "last_explore": "2026-06-26T06:09:00+00:00",
+  "last_global_explore": "2026-06-26T06:09:00+00:00",
+  "last_discovery": "2026-06-26T06:09:00+00:00",
+  "last_run_framing": "fail-plausible-LLM-as-narrator + entropy-principle-monotonic-disorder + agent-error-taxonomy-component-modular",
+  "last_framing": "fail-plausible-LLM-as-narrator + entropy-principle-monotonic-disorder + agent-error-taxonomy-component-modular",
+  "last_run_notes": "Run 57 (2026-06-26T06:09:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch (HF pool CV/3D-heavy for 3rd consecutive run — pitfall-83 fires again with 10 fresh non-LLM candidates; web_search surfaced 8 fresh LLM candidates, picked top 3 structurally orthogonal picks covering silent-failure-mechanism + production-runtime-failure-classification + modular-failure-taxonomy axes); 3-axis pivot from Run 55-56 memory-credit-assignment / trading-evaluation / multi-turn-jailbreak streaks to silent-failure / production-runtime / component-modular-failure-taxonomy axes",
   "last_pass_type": "emergent_concept",
   "last_run_method": "web_search-4-query-escape-hatch",
   "run_method": "emergent-concept-search",
-  "last_run_added": "2026-06-26T05:48:36.783842+00:00",
+  "last_run_added": "2026-06-26T06:09:00+00:00",
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "belief-entropy-as-self-supervised-memory-quality-proxy + three-layer-environment-dynamics-agentic-reasoning-taxonomy + dense-MLP-as-secret-MoE",
-  "emergent_theme": "belief-entropy-as-self-supervised-memory-quality-proxy + three-layer-environment-dynamics-agentic-reasoning-taxonomy + dense-MLP-as-secret-MoE",
-  "chains_updated": "2026-06-26T05:48:36.783842+00:00",
-  "entities_count": 171,
+  "emergent_concept_theme": "fail-plausible-LLM-as-narrator + entropy-principle-monotonic-disorder + agent-error-taxonomy-component-modular",
+  "emergent_theme": "fail-plausible-LLM-as-narrator + entropy-principle-monotonic-disorder + agent-error-taxonomy-component-modular",
+  "chains_updated": "2026-06-26T06:09:00+00:00",
+  "entities_count": 177,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1453,6 +1453,33 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-26T05:45:00+00:00",
           "theme": "mechanistic-interpretability / mixture-of-experts / mlp / sparse-autoencoder / transformer-architecture"
+        },
+        {
+          "arxiv_id": "2606.14589",
+          "slug": "when-errors-become-narratives-a-longitudinal-taxonomy-of-silent-failures-in-a-production-llm-agent-runtime-2606.14589",
+          "title": "When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime",
+          "url": "https://arxiv.org/abs/2606.14589",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-26T06:09:00+00:00",
+          "theme": "silent-failure / production-runtime / longitudinal-study / five-class-taxonomy / fail-plausible / LLM-as-narrator"
+        },
+        {
+          "arxiv_id": "2606.08162",
+          "slug": "silent-failure-in-llm-agent-systems-the-entropy-principle-2606.08162",
+          "title": "Silent Failure in LLM Agent Systems: The Entropy Principle",
+          "url": "https://arxiv.org/abs/2606.08162",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-26T06:09:00+00:00",
+          "theme": "silent-failure / entropy-principle / 22-properties / 6-lifecycle-layers / monotonic-disorder"
+        },
+        {
+          "arxiv_id": "2509.25370",
+          "slug": "where-llm-agents-fail-and-how-they-can-learn-from-failures-2509.25370",
+          "title": "Where LLM Agents Fail and How They Can Learn From Failures",
+          "url": "https://arxiv.org/abs/2509.25370",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-26T06:09:00+00:00",
+          "theme": "agent-failure-taxonomy / modular-classification / agent-error-bench / agent-debug / cascading-failure / root-cause-isolation"
         }
       ],
       "last_run": "2026-06-26T05:30:00+00:00",
@@ -2944,6 +2971,33 @@
       "discovered_run": 56,
       "discovered_at": "2026-06-26T06:00:00.000000+00:00",
       "source": "web_search escape hatch (HF pool CV/3D-heavy)"
+    },
+    {
+      "arxiv_id": "2606.14589",
+      "slug": "when-errors-become-narratives-a-longitudinal-taxonomy-of-silent-failures-in-a-production-llm-agent-runtime-2606.14589",
+      "title": "When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime",
+      "url": "https://arxiv.org/abs/2606.14589",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T06:09:00+00:00",
+      "theme": "silent-failure / production-runtime / longitudinal-study / five-class-taxonomy / fail-plausible / LLM-as-narrator"
+    },
+    {
+      "arxiv_id": "2606.08162",
+      "slug": "silent-failure-in-llm-agent-systems-the-entropy-principle-2606.08162",
+      "title": "Silent Failure in LLM Agent Systems: The Entropy Principle",
+      "url": "https://arxiv.org/abs/2606.08162",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T06:09:00+00:00",
+      "theme": "silent-failure / entropy-principle / 22-properties / 6-lifecycle-layers / monotonic-disorder"
+    },
+    {
+      "arxiv_id": "2509.25370",
+      "slug": "where-llm-agents-fail-and-how-they-can-learn-from-failures-2509.25370",
+      "title": "Where LLM Agents Fail and How They Can Learn From Failures",
+      "url": "https://arxiv.org/abs/2509.25370",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T06:09:00+00:00",
+      "theme": "agent-failure-taxonomy / modular-classification / agent-error-bench / agent-debug / cascading-failure / root-cause-isolation"
     }
   ],
   "emergent_discoveries": [
@@ -4264,6 +4318,30 @@
       "url": "https://arxiv.org/abs/2605.01687",
       "discovered": "2026-06-26T06:00:00.000000+00:00",
       "theme": "multi-turn-jailbreak / safety-benchmark / active-learning-adversarial-coevolution"
+    },
+    {
+      "arxiv_id": "2606.14589",
+      "title": "When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime",
+      "slug": "when-errors-become-narratives-a-longitudinal-taxonomy-of-silent-failures-in-a-production-llm-agent-runtime-2606.14589",
+      "url": "https://arxiv.org/abs/2606.14589",
+      "discovered": "2026-06-26T06:09:00+00:00",
+      "theme": "silent-failure / production-runtime / longitudinal-study / five-class-taxonomy / fail-plausible / LLM-as-narrator"
+    },
+    {
+      "arxiv_id": "2606.08162",
+      "title": "Silent Failure in LLM Agent Systems: The Entropy Principle",
+      "slug": "silent-failure-in-llm-agent-systems-the-entropy-principle-2606.08162",
+      "url": "https://arxiv.org/abs/2606.08162",
+      "discovered": "2026-06-26T06:09:00+00:00",
+      "theme": "silent-failure / entropy-principle / 22-properties / 6-lifecycle-layers / monotonic-disorder"
+    },
+    {
+      "arxiv_id": "2509.25370",
+      "title": "Where LLM Agents Fail and How They Can Learn From Failures",
+      "slug": "where-llm-agents-fail-and-how-they-can-learn-from-failures-2509.25370",
+      "url": "https://arxiv.org/abs/2509.25370",
+      "discovered": "2026-06-26T06:09:00+00:00",
+      "theme": "agent-failure-taxonomy / modular-classification / agent-error-bench / agent-debug / cascading-failure / root-cause-isolation"
     }
   ],
   "emergent_concept_search_log": [
@@ -6040,6 +6118,16 @@
       ],
       "method": "HF daily v2 + 4-query web_search escape hatch",
       "run_number": 55
+    },
+    {
+      "timestamp": "2026-06-26T06:09:00+00:00",
+      "papers_found": [
+        "2606.14589",
+        "2606.08162",
+        "2509.25370"
+      ],
+      "method": "web_search-4-query-escape-hatch",
+      "run_number": 57
     }
   ],
   "runs": [
@@ -6636,6 +6724,24 @@
       ],
       "run_number": 56,
       "notes": "Run 56: HF pool CV/3D-heavy again (FLAT, FLUX3D, Semantic-Browsing, UnityShots, WordArt-OCR, Lite-Any-Stereo V2, ViQ, PhysiFormer, LeWorldModel — all 9 fresh CV/3D/video candidates), fired web_search 4-query escape hatch per pitfall-83; surfaced 14 fresh LLM candidates across memory/agent/safety axes; picked 3 structurally orthogonal picks: Memory-R2 (local-rerollouts-as-trajectory-comparison-fairness-primitive for memory-agent RL credit assignment), Agentic-Trading (protocol-coded-evidence-ledger-as-trading-agent-evaluation-primitive with R0-R3 reproducibility audit, first financial-domain entity in wiki), MultiBreak (multi-turn-active-learning-adversarial-coevolution-as-safety-benchmark-primitive with benign-category-blind-spot finding); 3-axis pivot from Run 55 memory-policy/agentic-reasoning/mechanistic-interpretability streaks to memory-credit-assignment/trading-evaluation-protocol/multi-turn-jailbreak axes"
+    },
+    {
+      "timestamp": "2026-06-26T06:09:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "fail-plausible-LLM-as-narrator + entropy-principle-monotonic-disorder + agent-error-taxonomy-component-modular",
+      "method": "web_search-4-query-escape-hatch",
+      "picks": [
+        "2606.14589",
+        "2606.08162",
+        "2509.25370"
+      ],
+      "arxiv_ids": [
+        "2606.14589",
+        "2606.08162",
+        "2509.25370"
+      ],
+      "run_number": 57,
+      "notes": "Run 57 (2026-06-26T06:09:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch (HF pool CV/3D-heavy for 3rd consecutive run — pitfall-83 fires again with 10 fresh non-LLM candidates; web_search surfaced 8 fresh LLM candidates, picked top 3 structurally orthogonal picks covering silent-failure-mechanism + production-runtime-failure-classification + modular-failure-taxonomy axes); 3-axis pivot from Run 55-56 memory-credit-assignment / trading-evaluation / multi-turn-jailbreak streaks to silent-failure / production-runtime / component-modular-failure-taxonomy axes"
     }
   ],
   "last_updated": "2026-06-26",
