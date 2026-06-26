@@ -811,7 +811,10 @@
         "0982c2a957b063cf6cd906c76873e7bb",
         "f66b93622bf54461d4fac790085a882a",
         "d3224fc3276732b8f345c38cd6ac652e",
-        "7569169096de49e98d0663cf89423472"
+        "7569169096de49e98d0663cf89423472",
+        "39c3d65ab13615190a9709b11b4c658d",
+        "32142d2326a25cb2f7bf416b16048754",
+        "7195ea97d85f69d05e1cbba288eb04fe"
       ],
       "last_results": [
         {
@@ -1845,16 +1848,30 @@
           "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
           "date": "2026/06/04",
           "discovered": "2026-06-26T02:54:00+00:00"
+        },
+        {
+          "ts": "2026-06-26T03:25:00+00:00",
+          "slugs": [
+            "policyalign-direct-policy-based-safety-alignment-llms-2606.25442",
+            "externalization-llm-agents-unified-review-memory-skills-protocols-harness-engineering-2604.08224",
+            "taro-token-level-adaptive-routing-llm-test-time-alignment-2603.18411"
+          ],
+          "papers": [
+            "2606.25442",
+            "2604.08224",
+            "2603.18411"
+          ],
+          "thematic_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision"
         }
       ],
-      "last_run": "2026-06-25T23:12:09.658648+00:00",
-      "last_updated": "2026-06-25T23:12:09.658648+00:00",
-      "last_result_timestamp": "2026-06-25T23:12:09.658648+00:00",
+      "last_run": "2026-06-26T03:25:00+00:00",
+      "last_updated": "2026-06-26T03:25:00+00:00",
+      "last_result_timestamp": "2026-06-26T03:25:00+00:00",
       "last_run_key": "hf_daily_emergent_concept_search",
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-26T02:43:52Z",
+  "last_run": "2026-06-26T03:25:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1987,14 +2004,15 @@
     "0982c2a957b063cf6cd906c76873e7bb",
     "f66b93622bf54461d4fac790085a882a",
     "d3224fc3276732b8f345c38cd6ac652e",
-    "7569169096de49e98d0663cf89423472"
+    "7569169096de49e98d0663cf89423472",
+    "39c3d65ab13615190a9709b11b4c658d",
+    "32142d2326a25cb2f7bf416b16048754",
+    "7195ea97d85f69d05e1cbba288eb04fe"
   ],
-  "last_discovery": "2026-06-26T02:43:52Z",
-  "last_updated": "2026-06-26T02:54:00+00:00",
-  "__last_updated": "2026-06-26T02:54:00+00:00",
-  "last_explore": {
-    "timestamp": "2026-06-26T02:54:00+00:00"
-  },
+  "last_discovery": "2026-06-26T03:25:00+00:00",
+  "last_updated": "2026-06-26T03:25:00+00:00",
+  "__last_updated": "2026-06-26T03:25:00+00:00",
+  "last_explore": "2026-06-26T03:25:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -2128,11 +2146,14 @@
       "0982c2a957b063cf6cd906c76873e7bb",
       "f66b93622bf54461d4fac790085a882a",
       "d3224fc3276732b8f345c38cd6ac652e",
-      "7569169096de49e98d0663cf89423472"
+      "7569169096de49e98d0663cf89423472",
+      "39c3d65ab13615190a9709b11b4c658d",
+      "32142d2326a25cb2f7bf416b16048754",
+      "7195ea97d85f69d05e1cbba288eb04fe"
     ],
-    "last_discovery": "2026-06-25T23:12:09.658648+00:00",
-    "last_run": "2026-06-25T23:12:09.658648+00:00",
-    "last_updated": "2026-06-25T23:12:09.658648+00:00"
+    "last_discovery": "2026-06-26T03:25:00+00:00",
+    "last_run": "2026-06-26T03:25:00+00:00",
+    "last_updated": "2026-06-26T03:25:00+00:00"
   },
   "last_pass_type": "emergent_concept"
 }

@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-26",
-  "__last_updated": "2026-06-26T02:54:00+00:00",
-  "last_run": "2026-06-26T02:54:00+00:00",
-  "last_explore": "2026-06-26T02:54:00+00:00",
-  "last_global_explore": "2026-06-26T02:54:00+00:00",
-  "last_discovery": "2026-06-26T02:54:00+00:00",
-  "last_run_framing": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling (3-axis pivot from Run 38-44 streaks)",
-  "last_framing": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling",
-  "last_run_notes": "Run 45 (2026-06-26T02:54:00+00:00): 3 picks — Memory is Reconstructed, Not Retrieved (2606.06036, graph-conditioned reconstruction memory architecture, 06-04) + Where Does the Signal Live? (2606.22079, web-data recipe for medical encoder pretraining, 06-20) + Efficient and Trainable LLM Test-Time Scaling via Local Branch Routing (2606.25354, token-level branch routing for test-time compute, 06-24). Theme-pivot from Run 37-44 eval/post-training/operational-infra/ultra-long-horizon/provenance/agent-skill/streak-of-streaks — pivots to memory-graph-reconstruction (replacing static retrieve-then-reason pipeline with dynamic graph-conditioned reconstruction during inference), dense-terminology-data-curation (transferring web-scale data curation from decoder LLM pretraining to encoder MLM in dense-terminology domains like medicine), and trainable-test-time-branch-scaling (replacing single-threaded CoT sampling with token-level branch routing for inference-compute allocation). Three structurally orthogonal axes: graph-as-memory-reconstruction-substrate / signal-location-as-curation-primitive / token-level-branch-routing-as-test-time-scaling-paradigm.",
+  "__last_updated": "2026-06-26T03:25:00+00:00",
+  "last_run": "2026-06-26T03:25:00+00:00",
+  "last_explore": "2026-06-26T03:25:00+00:00",
+  "last_global_explore": "2026-06-26T03:25:00+00:00",
+  "last_discovery": "2026-06-26T03:25:00+00:00",
+  "last_run_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision (3-axis pivot from Run 38-45 streaks)",
+  "last_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision",
+  "last_run_notes": "Run 46 (2026-06-26T03:25:00+00:00): 3 picks — PolicyAlign (2606.25442, direct natural-language-policy-as-safety-alignment-specification surface + on-policy self-distillation + Policy-Sensitive Filtering, 06-24) + Externalization in LLM Agents (2604.08224, unified review of externalization-as-load-bearing-primitive for LLM-agent infrastructure across memory/skills/protocols/harness with weights-to-harness progression, 04-09) + TARo (2603.18411, token-level adaptive routing as test-time-alignment decision unit + step-wise reward models on mathematical traces, 03-19). Theme-pivot from Run 38-45 eval/post-training/operational-infra/ultra-long-horizon/provenance/agent-skill/memory-graph-reconstruction streaks — pivots to direct-policy-alignment (bypassing RLHF/DPO data pipeline via natural-language policy specification), externalization-as-unifying-primitive (reframing agent capability as runtime cognitive artifacts rather than model weights), and token-level-routing-as-test-time-alignment-decision (extending Run 45 LBR branch-level routing to reasoning alignment). Three structurally orthogonal axes: policy-natural-language-as-alignment-specification / externalization-as-load-bearing-agent-infrastructure / token-level-routing-as-alignment-decision. NOTE: Run 46 picks adopted from leftover state of a prior session (3 entity files untracked + parent Updates block pre-written but uncommitted); user preference for reusing existing infrastructure rather than rebuilding guided this adoption.",
   "last_pass_type": "emergent_concept",
-  "last_run_method": "hf_daily_emergent_concept_search + web_search_escape_hatch",
+  "last_run_method": "hf_daily_emergent_concept_search + web_search_escape_hatch + sibling-state-recovery",
   "run_method": "emergent-concept-search",
-  "last_run_added": "2026-06-26T02:54:00+00:00",
+  "last_run_added": "2026-06-26T03:25:00+00:00",
   "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling",
-  "emergent_theme": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling",
-  "chains_updated": "2026-06-26T02:54:00+00:00",
-  "entities_count": 144,
+  "emergent_concept_theme": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision",
+  "emergent_theme": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision",
+  "chains_updated": "2026-06-26T03:25:00+00:00",
+  "entities_count": 147,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1249,6 +1249,27 @@
           "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
           "vector": "emergent_concept",
           "discovered": "2026-06-26T02:54:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.25442",
+          "slug": "policyalign-direct-policy-based-safety-alignment-llms-2606.25442",
+          "title": "PolicyAlign: Direct Policy-Based Safety Alignment for Large Language Models",
+          "theme": "policy-natural-language-as-safety-alignment-specification + on-policy-self-distillation + policy-sensitive-filtering",
+          "discovered": "2026-06-26T03:25:00+00:00"
+        },
+        {
+          "arxiv_id": "2604.08224",
+          "slug": "externalization-llm-agents-unified-review-memory-skills-protocols-harness-engineering-2604.08224",
+          "title": "Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering",
+          "theme": "externalization-as-unifying-primitive + weights-to-harness-progression + cognitive-artifacts",
+          "discovered": "2026-06-26T03:25:00+00:00"
+        },
+        {
+          "arxiv_id": "2603.18411",
+          "slug": "taro-token-level-adaptive-routing-llm-test-time-alignment-2603.18411",
+          "title": "TARo: Token-level Adaptive Routing for LLM Test-time Alignment",
+          "theme": "token-level-routing-as-test-time-alignment-decision + step-wise-reward-modeling + cross-domain-reasoning",
+          "discovered": "2026-06-26T03:25:00+00:00"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -2461,6 +2482,33 @@
       "vector": "emergent_concept",
       "discovered": "2026-06-26T02:54:00+00:00",
       "theme": "memory-graph-reconstruction / dynamic-access / associative-graph"
+    },
+    {
+      "arxiv_id": "2606.25442",
+      "slug": "policyalign-direct-policy-based-safety-alignment-llms-2606.25442",
+      "title": "PolicyAlign: Direct Policy-Based Safety Alignment for Large Language Models",
+      "url": "https://arxiv.org/abs/2606.25442",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T03:25:00+00:00",
+      "theme": "policy-natural-language-as-safety-alignment-specification + on-policy-self-distillation + policy-sensitive-filtering"
+    },
+    {
+      "arxiv_id": "2604.08224",
+      "slug": "externalization-llm-agents-unified-review-memory-skills-protocols-harness-engineering-2604.08224",
+      "title": "Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering",
+      "url": "https://arxiv.org/abs/2604.08224",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T03:25:00+00:00",
+      "theme": "externalization-as-unifying-primitive + weights-to-harness-progression + cognitive-artifacts"
+    },
+    {
+      "arxiv_id": "2603.18411",
+      "slug": "taro-token-level-adaptive-routing-llm-test-time-alignment-2603.18411",
+      "title": "TARo: Token-level Adaptive Routing for LLM Test-time Alignment",
+      "url": "https://arxiv.org/abs/2603.18411",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T03:25:00+00:00",
+      "theme": "token-level-routing-as-test-time-alignment-decision + step-wise-reward-modeling + cross-domain-reasoning"
     }
   ],
   "emergent_discoveries": [
@@ -3542,6 +3590,27 @@
       "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
       "discovered": "2026-06-26T02:54:00+00:00",
       "theme": "memory-graph-reconstruction / dynamic-access / associative-graph"
+    },
+    {
+      "arxiv_id": "2606.25442",
+      "slug": "policyalign-direct-policy-based-safety-alignment-llms-2606.25442",
+      "title": "PolicyAlign: Direct Policy-Based Safety Alignment for Large Language Models",
+      "theme": "policy-natural-language-as-safety-alignment-specification + on-policy-self-distillation + policy-sensitive-filtering",
+      "discovered": "2026-06-26T03:25:00+00:00"
+    },
+    {
+      "arxiv_id": "2604.08224",
+      "slug": "externalization-llm-agents-unified-review-memory-skills-protocols-harness-engineering-2604.08224",
+      "title": "Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering",
+      "theme": "externalization-as-unifying-primitive + weights-to-harness-progression + cognitive-artifacts",
+      "discovered": "2026-06-26T03:25:00+00:00"
+    },
+    {
+      "arxiv_id": "2603.18411",
+      "slug": "taro-token-level-adaptive-routing-llm-test-time-alignment-2603.18411",
+      "title": "TARo: Token-level Adaptive Routing for LLM Test-time Alignment",
+      "theme": "token-level-routing-as-test-time-alignment-decision + step-wise-reward-modeling + cross-domain-reasoning",
+      "discovered": "2026-06-26T03:25:00+00:00"
     }
   ],
   "emergent_concept_search_log": [
@@ -4386,6 +4455,28 @@
       "thematic_framing": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling",
       "dedup_rate": "127 HF → 28 fresh → 12 LLM-relevant; 10 web_search fresh → 3 picks (1 HF, 2 web_search)",
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-26T03:25:00+00:00",
+      "method": "hf_daily_emergent_concept_search + web_search_escape_hatch",
+      "papers": [
+        "2606.25442",
+        "2604.08224",
+        "2603.18411"
+      ],
+      "slugs": [
+        "policyalign-direct-policy-based-safety-alignment-llms-2606.25442",
+        "externalization-llm-agents-unified-review-memory-skills-protocols-harness-engineering-2604.08224",
+        "taro-token-level-adaptive-routing-llm-test-time-alignment-2603.18411"
+      ],
+      "themes": [
+        "policy-natural-language-as-safety-alignment-specification + on-policy-self-distillation + policy-sensitive-filtering",
+        "externalization-as-unifying-primitive + weights-to-harness-progression + cognitive-artifacts",
+        "token-level-routing-as-test-time-alignment-decision + step-wise-reward-modeling + cross-domain-reasoning"
+      ],
+      "thematic_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision (3-axis pivot from Run 38-45 streaks; adopted from leftover Run 46 state)",
+      "dedup_rate": "128 HF -> 29 fresh LLM-relevant + ~15 web_search -> 3 picks",
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "emergent_concept_search_runs": [
@@ -4453,27 +4544,6 @@
       "dedup_rate": "0/108 pre-existing (just-restored state; all 3 picks clean across 4 hash stores and filesystem suffixes"
     },
     {
-      "ts": "2026-06-25T16:42:00+00:00",
-      "picks_count": 3,
-      "pick_ids": [
-        "2606.21649",
-        "2606.24526",
-        "2606.24231"
-      ],
-      "method": "HF daily+monthly 3-day + strict subject filter"
-    },
-    {
-      "ts": "2026-06-25T16:59:44.776520+00:00",
-      "mode": "emergent_concept",
-      "method": "HF 3-day + 1-month + strict subject filter",
-      "picks_count": 3,
-      "pick_ids": [
-        "2606.24428",
-        "2606.22388",
-        "2606.24112"
-      ]
-    },
-    {
       "ts": "2026-06-25T17:14:01+00:00",
       "method": "HuggingFace daily papers (3-day window 2026-06-22..2026-06-25) + arxiv abs-page meta extraction (10 parallel workers) + strict subject filter (pitfall 52) + LLM-flavor title scoring + 5-store dedup",
       "papers": [
@@ -4537,50 +4607,6 @@
       "dedup_rate": "60/188 candidates passed strict subject filter (cs.CV/cs.GR/cs.MM excluded) + already-known dedup; 3 picked all cs.CL/cs.LG with score >= 4 LLM-flavor keywords"
     },
     {
-      "ts": "2026-06-25T17:58:13.532300+00:00",
-      "mode": "emergent_concept",
-      "method": "HF 3-day + 1-month window + strict subject filter + LLM-flavor scoring + 5-store dedup",
-      "picks_count": 3,
-      "pick_ids": [
-        "2606.23104",
-        "2606.23049",
-        "2606.22565"
-      ]
-    },
-    {
-      "ts": "2026-06-25T18:08:58.000000+00:00",
-      "mode": "emergent_concept",
-      "method": "HF 3-day window + strict subject filter + LLM-flavor title scoring + 5-store dedup + combined subject+title+recency sort",
-      "picks_count": 3,
-      "pick_ids": [
-        "2606.21777",
-        "2606.16246",
-        "2505.23878"
-      ]
-    },
-    {
-      "ts": "2026-06-25T18:29:50.738474+00:00",
-      "mode": "emergent-concept",
-      "method": "hf_daily_3d_run1823",
-      "picks_count": 3,
-      "pick_ids": [
-        "2602.09379",
-        "2606.22936",
-        "2606.22778"
-      ]
-    },
-    {
-      "ts": "2026-06-25T18:44:30.175576+00:00",
-      "mode": "emergent_concept",
-      "method": "hf_daily_3d + strict_subject_filter + LLM_flavor_score + 5-store_dedup + manual_pick",
-      "picks_count": 3,
-      "pick_ids": [
-        "2606.16316",
-        "2606.21627",
-        "2606.18831"
-      ]
-    },
-    {
       "ts": "2026-06-25T18:58:43.062081+00:00",
       "method": "HuggingFace daily papers (3 days: 2026-06-23..25) + parallel arxiv abs-page meta extraction + strict subject non-CV filter + kw/subj-priority scoring",
       "papers": [
@@ -4621,35 +4647,6 @@
       ],
       "thematic_framing": "LLM agent autonomy under-evaluated safety axes (privilege + context) + chain-of-thought-distillation verifiable-rewards boundary",
       "dedup_rate": "39/115 pre-existing on filesystem (post-pitfall-56 wiki, 51 entities, 39 arxiv IDs); 76 fresh candidates after subject non-CV filter (43 strict + 33 excluded by subject); 3 picked: 2606.23189 (cs.AI, 2026-06-22), 2606.21884 (cs.LG, 2026-06-20), 2606.20023 (cs.SE, 2026-06-18)"
-    },
-    {
-      "ts": "2026-06-25T19:30:00+00:00",
-      "mode": "emergent-concept",
-      "method": "hf-3-day-window",
-      "picks_count": 3,
-      "pick_ids": [
-        "2606.23449",
-        "2606.24530",
-        "2606.24083"
-      ]
-    },
-    {
-      "ts": "2026-06-25T19:25:00+00:00",
-      "mode": "emergent-concept",
-      "method": "HuggingFace daily papers (3 days: 2026-06-23..25) + parallel arxiv abs-page meta extraction + strict subject non-CV filter + LLM-flavor kw scoring",
-      "picks_count": 3,
-      "pick_ids": [
-        "2606.23321",
-        "2606.22138",
-        "2606.21906"
-      ],
-      "themes": [
-        "terminal-agents / open-RL-recipe / agent-training-data",
-        "biological-foundation-model / cross-domain-multimodal / decoder-only-pre-training",
-        "inference-time-alignment / layer-dynamics / training-free-alignment-mitigation"
-      ],
-      "thematic_framing": "terminal-agent open-RL recipe + cross-domain biological foundation model + inference-time alignment-tax mitigation",
-      "dedup_rate": "43/116 pre-existing on filesystem (post-pitfall-56 wiki, 57 entities, 45 arxiv IDs); 35 fresh candidates after subject non-CV filter; 3 picked"
     },
     {
       "ts": "2026-06-25T20:03:02.489091+00:00",
@@ -4715,30 +4712,6 @@
       "dedup_rate": "78 non-CV HF candidates -> 26 fresh after 6-store dedup (67% pre-existing); 3 picked all fresh"
     },
     {
-      "timestamp": "2026-06-25T20:45:00+00:00",
-      "papers_added": 3,
-      "theme": "agent-runtime substrate / LLM RL curriculum geometry / LLM-augmented causal-discovery audit"
-    },
-    {
-      "timestamp": "2026-06-25T20:58:00.754440+00:00",
-      "type": "emergent_concept_search",
-      "method": "hf_daily_papers + arxiv_meta",
-      "papers_added": 3,
-      "themes": "LLM agent memory governance / hierarchical RAG with attention-guided progressive embeddings / open-ended search-agent benchmark"
-    },
-    {
-      "run": 22,
-      "run_iso": "2026-06-25T21:09:00+00:00",
-      "method": "hf_daily_emergent_concept_search",
-      "window": "2026-06-23..2026-06-25",
-      "picks": [
-        "2606.23991",
-        "2606.23496",
-        "2606.22708"
-      ],
-      "entity_count_after": 78
-    },
-    {
       "ts": "2026-06-25T21:31:02.948769+00:00",
       "method": "HuggingFace daily papers (3 days: 2026-06-23..25) + arxiv abs-page meta extraction (3 parallel workers) + LLM-relevance title filter",
       "papers": [
@@ -4758,52 +4731,6 @@
       ],
       "thematic_framing": "deep-research physical-sciences (PhySciBench/DelveAgent) + robotics multi-axis-diagnostic (EBench) + survey multimodal-code-intelligence (Beyond NL2Code)",
       "dedup_rate": "54 fresh from 114 HF candidates across 3 days; 3 picked: 2606.18648 (cs.AI, 2026-06-17), 2606.18239 (cs.RO, 2026-06-16), 2606.15932 (cs.CL, 2026-06-14)"
-    },
-    {
-      "run": 24,
-      "run_iso": "2026-06-25T21:47:00+00:00",
-      "method": "hf_daily_emergent_concept_search",
-      "window": "2026-06-23..2026-06-25",
-      "picks": [
-        "2606.21171",
-        "2606.20781",
-        "2606.14971"
-      ],
-      "entity_count_after": 84
-    },
-    {
-      "run": 24,
-      "started": "2026-06-25T21:53:00+00:00",
-      "finished": "2026-06-25T21:53:00+00:00",
-      "themes": [
-        "robotics / value-function / world-model data-selection",
-        "continual-test-time-adaptation / dataset-distillation / source-free-robustness",
-        "LLM reranker / retrieval-efficiency / encoder-decoder-decoupling"
-      ],
-      "papers_added": [
-        "2606.24742",
-        "2606.20196",
-        "2606.22807"
-      ],
-      "method": "hf_daily_emergent_concept_search",
-      "framing": "theme-diversity: robotics value-function world-model + continual-test-time-adaptation dataset-distillation + RAG reranker efficiency"
-    },
-    {
-      "run": 25,
-      "started": "2026-06-25T22:08:00+00:00",
-      "finished": "2026-06-25T22:08:00+00:00",
-      "themes": [
-        "embodied-agent / long-horizon-memory / household-assistance benchmark",
-        "mask-diffusion / reasoning / test-time-scaling",
-        "in-context-learning distillation / B2B-conversations / low-resource-NLP"
-      ],
-      "papers_added": [
-        "2606.18847",
-        "2606.16700",
-        "2606.15641"
-      ],
-      "method": "hf_daily_emergent_concept_search",
-      "framing": "theme-diversity: embodied-agent long-horizon-memory household-assistance benchmark + mask-diffusion reasoning test-time-scaling + in-context-learning distillation B2B-conversations"
     },
     {
       "timestamp": "2026-06-25T22:23:00+00:00",
@@ -5189,6 +5116,28 @@
       "thematic_framing": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling",
       "dedup_rate": "127 HF → 28 fresh → 12 LLM-relevant; 10 web_search fresh → 3 picks",
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-26T03:25:00+00:00",
+      "method": "hf_daily_emergent_concept_search + web_search_escape_hatch (with sibling-race-recovery of leftover state from prior session)",
+      "papers": [
+        "2606.25442",
+        "2604.08224",
+        "2603.18411"
+      ],
+      "slugs": [
+        "policyalign-direct-policy-based-safety-alignment-llms-2606.25442",
+        "externalization-llm-agents-unified-review-memory-skills-protocols-harness-engineering-2604.08224",
+        "taro-token-level-adaptive-routing-llm-test-time-alignment-2603.18411"
+      ],
+      "themes": [
+        "policy-natural-language-as-safety-alignment-specification + on-policy-self-distillation + policy-sensitive-filtering",
+        "externalization-as-unifying-primitive + weights-to-harness-progression + cognitive-artifacts",
+        "token-level-routing-as-test-time-alignment-decision + step-wise-reward-modeling + cross-domain-reasoning"
+      ],
+      "thematic_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision (3-axis pivot from Run 38-45 streaks; adopted from leftover Run 46 state)",
+      "dedup_rate": "128 HF -> 29 fresh LLM-relevant + web_search -> 3 picks",
+      "pitfalls_hit": "NONE in main flow (left-over state from prior session adopted — see Run 46 lessons)"
     }
   ],
   "runs": [
@@ -5221,17 +5170,6 @@
         "autodata-an-agentic-data-scientist-to-create-high-quality-synthetic-data-2606.25996",
         "are-we-ready-for-an-agent-native-memory-system-2606.24775"
       ]
-    },
-    {
-      "ts": "2026-06-25T16:42:00+00:00",
-      "type": "emergent_concept",
-      "picks": 3,
-      "pick_ids": [
-        "2606.21649",
-        "2606.24526",
-        "2606.24231"
-      ],
-      "method": "hf_daily_emergent_concept"
     },
     {
       "ts": "2026-06-25T16:59:44.776520+00:00",
@@ -5388,30 +5326,11 @@
       ]
     },
     {
-      "timestamp": "2026-06-25T20:45:00+00:00",
-      "type": "emergent_concept_search",
-      "method": "hf_daily_papers + arxiv_meta",
-      "papers_added": 3,
-      "themes": "agent-runtime substrate / LLM RL curriculum geometry / LLM-augmented causal-discovery audit"
-    },
-    {
       "timestamp": "2026-06-25T20:58:00.754440+00:00",
       "type": "emergent_concept_search",
       "method": "hf_daily_papers + arxiv_meta",
       "papers_added": 3,
       "themes": "LLM agent memory governance / hierarchical RAG with attention-guided progressive embeddings / open-ended search-agent benchmark"
-    },
-    {
-      "run": 22,
-      "run_iso": "2026-06-25T21:09:00+00:00",
-      "method": "hf_daily_emergent_concept_search",
-      "window": "2026-06-23..2026-06-25",
-      "picks": [
-        "2606.23991",
-        "2606.23496",
-        "2606.22708"
-      ],
-      "entity_count_after": 78
     },
     {
       "timestamp": "2026-06-25T21:31:02.948769+00:00",
@@ -5687,6 +5606,18 @@
       ],
       "entities_count_after": 144,
       "pitfalls_hit": "NONE in main flow; pre-write ls|grep caught how-inference-compute forward-looking unpicked-candidate wikilink before write — replaced with Periodic-Table-of-LLM-Reasoning"
+    },
+    {
+      "timestamp": "2026-06-26T03:25:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision",
+      "papers_added": [
+        "policyalign-direct-policy-based-safety-alignment-llms-2606.25442",
+        "externalization-llm-agents-unified-review-memory-skills-protocols-harness-engineering-2604.08224",
+        "taro-token-level-adaptive-routing-llm-test-time-alignment-2603.18411"
+      ],
+      "entities_count_after": 153,
+      "pitfalls_hit": "NONE in main flow (leftover state from prior session adopted per user preference for reusing existing infrastructure)"
     }
   ],
   "last_updated": "2026-06-26T02:54:00+00:00",
