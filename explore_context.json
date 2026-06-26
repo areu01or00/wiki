@@ -8,7 +8,7 @@
   "last_explore": "2026-06-26T09:00:00+00:00",
   "last_global_explore": "2026-06-26T09:00:00+00:00",
   "last_discovery": "2026-06-26T09:00:00+00:00",
-  "last_run_framing": "Run 67 \u2014 3-axis DOMAIN-DIVERSITY PIVOT to MODEL-ARCH + TEST-TIME-TRAINING + TRAINING-FREE-PRM cluster introducing deep-sub-cluster rotation within a different primitive-class per Rule 36c continued (after Run 66 probed deployment-evaluation primitives, Run 67 probes model-architecture + test-time-training + training-free-process-reward primitives \u2014 sub-axes of model-arch from Run 62 and test-time from Runs 57/64 that weren't the headline pick in prior runs); pivoting per Rule 27 from Run 66 MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization (deployment-side primitives) to training-free-process-reward-via-off-the-shelf-likelihood + routing-primitive-removed-MoE + per-query-test-time-self-training (architecture + training-free + test-time primitive-class triplet)",
+  "last_run_framing": "axis-inversion-probe-Rule-36d",
   "last_framing": "Run 66 deep-sub-cluster rotation per Rule 36c \u2014 pivoted from Run 65 PROBE-AXIS training-side primitives (knowledge-distillation + SFT-vs-RL + multi-objective-prompt-optimization) to deployment-evaluation primitives (MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization)",
   "last_run_notes": "Run 66 \u2014 3 fresh LLM-centric papers via web_search 4-query DEEP-SUB-CLUSTER-ROTATION escape hatch per Rule 36c (after Run 65 PROBE-AXIS escalation per Rule 36b). HF pool CV/3D-heavy for 12th consecutive run (pitfall-83 streak extended to Runs 55-66). HF daily v2 returned 18 + 33 + 29 papers across 2026-06-24/25/26 dates but only 14 fresh after 5-store dedup with only 6 borderline LLM-keyword-matched (CoffeeBench multi-agent-eval borderline, PhysiFormer mechanics, Fast LeWorldModel world model, UnityShots audio-video, FLAT/FLUX3D 3D). web_search surfaced 17 fresh LLM candidates via the deep-sub-cluster query template bracketing deployment-evaluation primitive-class (axes: LLM-evaluation framework benchmark + reasoning model robustness failure + multi-agent coordination benchmark + interpretability mechanistic circuit). Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 65 training-side primitives (on-policy-distillation + SFT-vs-RL + multi-objective-textual-gradient) to deployment-evaluation primitives (MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization). 3-axis DOMAIN-DIVERSITY DEEP-SUB-CLUSTER PIVOT per Rule 36c to architectural-bloat-as-failure-naming + sustainability-x-discrimination-as-co-designed + two-sided-honesty-retained-x-forgotten.",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
   "emergent_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
   "chains_updated": 0,
-  "entities_count": 207,
+  "entities_count": 210,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3256,6 +3256,30 @@
       "slug": "routing-free-mixture-of-experts-eliminating-centralized-routing-2604.00801",
       "discovered": "2026-06-26T09:09:00+00:00",
       "theme": "routing-free-MoE-architecture-removing-centralized-routing"
+    },
+    {
+      "arxiv_id": "2606.00395",
+      "title": "PR2: Predictive Routing Replay for MoE-Based LLM Reinforcement Learning",
+      "slug": "pr2-predictive-routing-replay-for-moe-based-llm-reinforcement-learning-2606.00395",
+      "url": "https://arxiv.org/abs/2606.00395",
+      "discovered": "2026-06-26T09:32:00+00:00",
+      "theme": "MoE-RL-stability / router-drift / importance-sampling-collapse / predictive-routing-replay / asymmetric-dual-phase-routing / router-evolution-predictor"
+    },
+    {
+      "arxiv_id": "2605.14589",
+      "title": "EndPrompt: Efficient Long-Context Extension via Terminal Anchoring",
+      "slug": "endprompt-efficient-long-context-extension-via-terminal-anchoring-2605.14589",
+      "url": "https://arxiv.org/abs/2605.14589",
+      "discovered": "2026-06-26T09:32:00+00:00",
+      "theme": "long-context / position-embedding / RoPE / context-extension / sparse-positional-supervision / terminal-anchoring / two-segment-construction / RoPE-Bernstein-smoothness-constraint"
+    },
+    {
+      "arxiv_id": "2604.25313",
+      "title": "Faithfulness-QA: A Counterfactual Entity Substitution Dataset for Training Context-Faithful RAG Models",
+      "slug": "faithfulness-qa-a-counterfactual-entity-substitution-dataset-for-training-context-faithful-rag-models-2604.25313",
+      "url": "https://arxiv.org/abs/2604.25313",
+      "discovered": "2026-06-26T09:32:00+00:00",
+      "theme": "RAG-faithfulness / counterfactual-entity-substitution / training-data / parametric-memory-conflict / retrieval-augmented-generation / typed-entity-bank / dual-role-dataset"
     }
   ],
   "emergent_discoveries": [
@@ -4840,6 +4864,30 @@
       "url": "https://arxiv.org/abs/2604.00801",
       "discovered": "2026-06-26T09:09:00+00:00",
       "theme": "routing-free-MoE-architecture-removing-centralized-routing"
+    },
+    {
+      "arxiv_id": "2606.00395",
+      "title": "PR2: Predictive Routing Replay for MoE-Based LLM Reinforcement Learning",
+      "slug": "pr2-predictive-routing-replay-for-moe-based-llm-reinforcement-learning-2606.00395",
+      "url": "https://arxiv.org/abs/2606.00395",
+      "discovered": "2026-06-26T09:32:00+00:00",
+      "theme": "MoE-RL-stability / router-drift / importance-sampling-collapse / predictive-routing-replay / asymmetric-dual-phase-routing / router-evolution-predictor"
+    },
+    {
+      "arxiv_id": "2605.14589",
+      "title": "EndPrompt: Efficient Long-Context Extension via Terminal Anchoring",
+      "slug": "endprompt-efficient-long-context-extension-via-terminal-anchoring-2605.14589",
+      "url": "https://arxiv.org/abs/2605.14589",
+      "discovered": "2026-06-26T09:32:00+00:00",
+      "theme": "long-context / position-embedding / RoPE / context-extension / sparse-positional-supervision / terminal-anchoring / two-segment-construction / RoPE-Bernstein-smoothness-constraint"
+    },
+    {
+      "arxiv_id": "2604.25313",
+      "title": "Faithfulness-QA: A Counterfactual Entity Substitution Dataset for Training Context-Faithful RAG Models",
+      "slug": "faithfulness-qa-a-counterfactual-entity-substitution-dataset-for-training-context-faithful-rag-models-2604.25313",
+      "url": "https://arxiv.org/abs/2604.25313",
+      "discovered": "2026-06-26T09:32:00+00:00",
+      "theme": "RAG-faithfulness / counterfactual-entity-substitution / training-data / parametric-memory-conflict / retrieval-augmented-generation / typed-entity-bank / dual-role-dataset"
     }
   ],
   "emergent_concept_search_log": [
@@ -6797,6 +6845,21 @@
       "candidates_surfaced": 3,
       "candidates_picked": 3,
       "axes_pivoted": "MoE theory + RAG knowledge-conflict + per-sample distributional decontamination"
+    },
+    {
+      "run_number": 68,
+      "timestamp": "2026-06-26T09:32:00+00:00",
+      "method": "web_search_4query_axis_inversion_probe_emergent_concept",
+      "queries_used": [
+        "predictive routing replay MoE reinforcement learning",
+        "long context extension terminal anchoring sparse positional supervision",
+        "RAG faithfulness counterfactual entity substitution training",
+        "reward model learned RLHF preference alignment"
+      ],
+      "candidates_surfaced": 18,
+      "candidates_picked": 3,
+      "axes_pivoted": "AXIS-INVERSION probe per Rule 36d inverted Run 67 axes: (routing-free-MoE -> predict-router-drift-MoE-RL) + (test-time-parameter-adaptation -> training-time-only-long-context-via-sparse-positional-supervision) + (training-free-PRM -> training-data-driven-RAG-faithfulness-via-counterfactual-conflict-injection); pivoted from Run 67 architecture + training-free + test-time primitive-class triplet to inverted primitive-class triplet (MoE-RL-stability + long-context-training-efficiency + RAG-faithfulness-as-training-data)",
+      "notes": "Run 68: 14th consecutive pitfall-83; HF daily v2 returned 18 papers on 2026-06-26 with only 5 fresh after 5-store dedup and only 1 LLM-keyword-matched; HF v3 href-regex pool 100% CV/3D-heavy; web_search axis-inversion query template bracketing inverse-axes surfaced fresh LLM candidates from PR2 + EndPrompt + Faithfulness-QA (older arxiv IDs per pitfall-84). 3 picks: PR2 (predict-router-drift-as-MoE-RL-stability-primitive + asymmetric-dual-phase-routing-as-MoE-RL-stability-primitive + router-evolution-predictor-as-lightweight-anticipation-primitive), EndPrompt (sparse-positional-supervision-as-long-context-extension-primitive + terminal-anchoring-as-semantic-continuity-preserving-positional-probe-primitive + RoPE-Bernstein-smoothness-constraint-as-extrapolation-stability-primitive), Faithfulness-QA (counterfactual-entity-substitution-as-data-construction-primitive + typed-entity-bank-as-conflict-injection-primitive + bidirectional-training-and-evaluation-role-as-dataset-design-primitive). Rule 36d axis-inversion probe WORKED."
     }
   ],
   "runs": [
@@ -7596,9 +7659,20 @@
         "Rule_27_domain_diversity_pivot",
         "Rule_36c_deep_sub_cluster_rotation_continued_other_primitive_class"
       ]
+    },
+    {
+      "run_number": 68,
+      "timestamp": "2026-06-26T09:32:00+00:00",
+      "method": "web_search_4query_axis_inversion_probe",
+      "picks": [
+        "pr2-predictive-routing-replay-for-moe-based-llm-reinforcement-learning-2606.00395",
+        "endprompt-efficient-long-context-extension-via-terminal-anchoring-2605.14589",
+        "faithfulness-qa-a-counterfactual-entity-substitution-dataset-for-training-context-faithful-rag-models-2604.25313"
+      ],
+      "theme": "AXIS-INVERSION probe per Rule 36d \u2014 predict-router-drift-MoE-RL + sparse-positional-supervision-for-long-context + counterfactual-entity-substitution-for-RAG-faithfulness"
     }
   ],
-  "last_updated": "2026-06-26T07:48:15.254813+00:00",
+  "last_updated": "2026-06-26T09:32:00+00:00",
   "last_run_iso": "2026-06-26T07:48:15.254813+00:00",
   "total_entity_count": 189,
   "entity_files_added": 3,
@@ -7653,5 +7727,11 @@
   ],
   "last_run_mode": "emergent-concept-rotated-template",
   "last_run_summary": "3 fresh picks: CoT-controllability-as-distinct-from-output-controllability (2603.05706), non-autoregressive-parallel-drafting-from-target-hidden-states (2601.19278), SAE-discovered-latent-reasoning-feature (2601.08058)",
-  "last_watched": "2026-06-26T06:54:00+00:00"
+  "last_watched": "2026-06-26T06:54:00+00:00",
+  "last_run_pitfalls": [
+    "pitfall-83 (14th consecutive)",
+    "pitfall-84 (older arxiv IDs still fresh)",
+    "pitfall-96 (slug-typo prevention via ls entities/ audit)",
+    "pitfall-98 (state-file JSON formatting preserved with default indent=2)"
+  ]
 }
