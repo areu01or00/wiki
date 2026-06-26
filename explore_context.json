@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-26",
-  "__last_updated": "2026-06-26T05:00:00+00:00",
-  "last_run": "2026-06-26T05:00:00+00:00",
-  "last_explore": "2026-06-26T05:00:00+00:00",
-  "last_global_explore": "2026-06-26T05:00:00+00:00",
-  "last_discovery": "2026-06-26T05:00:00+00:00",
-  "last_run_framing": "context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target",
-  "last_framing": "context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target",
-  "last_run_notes": "Run 51 (2026-06-26T05:00:00+00:00): 3 picks from HF daily 3-day v2 parser: Qwen-Image-Agent (2606.26907, 06-25, agentic-image-generation/context-gap-filling) + In-Context World Modeling (2606.26025, 06-24, vla/system-identification) + DanceOPD (2606.27377, 06-25, flow-matching/capability-routing) \u2014 3-axis pivot from Run 50 verification-co-evolution+biomedical-faithfulness+calibrated-evidence-reliability streaks",
+  "__last_updated": "2026-06-26T05:08:00+00:00",
+  "last_run": "2026-06-26T05:08:00+00:00",
+  "last_explore": "2026-06-26T05:08:00+00:00",
+  "last_global_explore": "2026-06-26T05:08:00+00:00",
+  "last_discovery": "2026-06-26T05:08:00+00:00",
+  "last_run_framing": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
+  "last_framing": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
+  "last_run_notes": "Run 53 (2026-06-26T05:08:00+00:00): RECOVERY from incomplete Run 52 (2026-06-26T04:55) \u2014 3 entity files adopted via pitfall-81 protocol: Hallucination-in-World-Models (2606.27326, 06-25, coverage-aware-hallucination-taxonomy) + InSight-Steerable-VLAs (2606.24884, 06-23, steerable-vla-autonomous-skill-acquisition) + EventVLA (2606.20092, 06-18, foresight-driven-keyframe-evidence-memory); 3-axis pivot from Run 50-51 streaks",
   "last_pass_type": "emergent_concept",
-  "last_run_method": "hf-daily-v2-parser-3day-window-plus-default",
+  "last_run_method": "pitfall-81-recovery-protocol",
   "run_method": "emergent-concept-search",
-  "last_run_added": "2026-06-26T05:00:00+00:00",
+  "last_run_added": "2026-06-26T05:08:00+00:00",
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target",
-  "emergent_theme": "context-gap-as-task-definition + self-exploration-as-system-identification + capability-routing-as-distillation-target",
-  "chains_updated": "2026-06-26T05:00:00+00:00",
-  "entities_count": 162,
+  "emergent_concept_theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
+  "emergent_theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
+  "chains_updated": "2026-06-26T05:08:00+00:00",
+  "entities_count": 165,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -2797,6 +2797,24 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-26T05:00:00+00:00",
       "theme": "flow-matching / on-policy-distillation / multi-capability-composition / capability-routing"
+    },
+    {
+      "arxiv_id": "2606.27326",
+      "title": "Hallucination in World Models is Predictable and Preventable",
+      "slug": "hallucination-in-world-models-is-predictable-and-preventable-2606.27326",
+      "url": "https://arxiv.org/abs/2606.27326"
+    },
+    {
+      "arxiv_id": "2606.24884",
+      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "slug": "insight-self-guided-skill-acquisition-via-steerable-vlas-2606.24884",
+      "url": "https://arxiv.org/abs/2606.24884"
+    },
+    {
+      "arxiv_id": "2606.20092",
+      "title": "EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies",
+      "slug": "eventvla-event-driven-visual-evidence-memory-for-long-horizon-vision-language-action-policies-2606.20092",
+      "url": "https://arxiv.org/abs/2606.20092"
     }
   ],
   "emergent_discoveries": [
@@ -4043,6 +4061,24 @@
       "title": "DanceOPD: On-Policy Generative Field Distillation",
       "slug": "danceopd-on-policy-generative-field-distillation-2606.27377",
       "discovered": "2026-06-26T05:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.27326",
+      "title": "Hallucination in World Models is Predictable and Preventable",
+      "slug": "hallucination-in-world-models-is-predictable-and-preventable-2606.27326",
+      "discovered": "2026-06-26T05:08:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.24884",
+      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "slug": "insight-self-guided-skill-acquisition-via-steerable-vlas-2606.24884",
+      "discovered": "2026-06-26T05:08:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.20092",
+      "title": "EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies",
+      "slug": "eventvla-event-driven-visual-evidence-memory-for-long-horizon-vision-language-action-policies-2606.20092",
+      "discovered": "2026-06-26T05:08:00+00:00"
     }
   ],
   "emergent_concept_search_log": [
@@ -5002,6 +5038,16 @@
       "method": "HuggingFace daily papers (3 days: 2026-06-24..26) + default page + v2 data-props parser + 5-store dedup",
       "theme": "agentic-image-generation/context-gap + vla/system-identification + flow-matching/capability-routing",
       "picks": 3
+    },
+    {
+      "ts": "2026-06-26T05:08:00+00:00",
+      "papers_found": [
+        "hallucination-in-world-models-is-predictable-and-preventable-2606.27326",
+        "insight-self-guided-skill-acquisition-via-steerable-vlas-2606.24884",
+        "eventvla-event-driven-visual-evidence-memory-for-long-horizon-vision-language-action-policies-2606.20092"
+      ],
+      "method": "Run 53 RECOVERY (pitfall-81 protocol) \u2014 adopted leftover entity files + parent-updates from Run 52 (2026-06-26T04:55) that were never committed; no re-discovery",
+      "theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory (Run 52 3-axis pivot, completed at 05:08 UTC Run 53)"
     }
   ],
   "emergent_concept_search_runs": [
@@ -5774,6 +5820,11 @@
         "2606.26025",
         "2606.27377"
       ]
+    },
+    {
+      "ts": "2026-06-26T05:08:00+00:00",
+      "method": "Run 53 RECOVERY \u2014 pitfall-81 mid-run recovery protocol",
+      "theme": "Run 52 picks completed (Hallucination-World-Models + InSight + EventVLA)"
     }
   ],
   "runs": [
@@ -6328,6 +6379,13 @@
         "2606.27377"
       ],
       "note": "Run 51 - 3-axis pivot from Run 50 streaks (verification-co-evolution + biomedical-faithfulness + calibrated-evidence-reliability)"
+    },
+    {
+      "timestamp": "2026-06-26T05:08:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory",
+      "run_number": 53,
+      "notes": "Run 53 RECOVERY via pitfall-81: adopted 3 entity files + parent emergent-concepts.md updates from incomplete Run 52 (04:55 UTC) that hit budget cap before commit; verified wikilink resolution, date-DESC ordering, and parent-update placement; committing now without re-running discovery"
     }
   ],
   "last_updated": "2026-06-26",
