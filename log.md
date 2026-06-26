@@ -1477,3 +1477,22 @@ Commit: `43762e4` → push succeeded.
 **3-store lockstep**: 201 → 204 hashes in TOP-LEVEL / llm-wiki / profiles.llm-wiki-explore (verified set equality).
 
 **Commit pending**: `Explore: 2026-06-26T09:54 UTC — Run 70`
+
+## Explore: 2026-06-26T10:09 UTC — Run 71
+
+**Mode**: emergent-concept search via web_search 4-query NEGATIVE-RESULT-PROBE escape hatch per Rule 38.
+
+**Pitfall-83 streak**: 17 consecutive runs (Runs 55-71). HF daily v2 returned 80 papers across 2026-06-24/25/26 but only 14 fresh after 5-store dedup with only 3 borderline LLM-keyword-matched (ViQ visual-quantization, CoffeeBench already surfaced Run 66, FLUX3D 3D scene gen). HF v3 href-regex pool 100% CV/3D-heavy. web_search surfaced fresh LLM candidates via Rule 38 negative-result-probe query template (known-difficult-axes: LLM fundamental-incompatibility-theorems + LLM alignment-tax measurements + training-data memorization-boundaries + compositional-generalization failure-modes).
+
+**Rule 38 NEGATIVE-RESULT-PROBE verified**: pivoted from Run 70 axis-orthogonality (training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering) primitive-class triplet to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff) primitive-class triplet. All 3 picks fully orthogonal to Run 68 + Run 69 + Run 70 axes.
+
+**3 picks (date-DESC ordered by online_date)**:
+1. **LLMs Can Leak Training Data But Do They Want To? A Propensity-Aware Evaluation of Memorization in LLMs** (2606.06286, 06-04) — propensity-vs-capability memorization evaluation framework
+2. **The Impossibility Triangle of Long-Context Modeling** (2605.05066, 05-06) — three-way architecture-information-theoretic bound
+3. **Value Alignment Tax: Measuring Value Trade-offs in LLM Alignment** (2602.12134, online 04-26, submitted 02-12) — Schwartz-grounded process-level value-tradeoff framework
+
+**entities_count**: 216 → 219 (filesystem truth rule, 3 new entity files).
+
+**3-store lockstep**: 204 → 207 hashes in TOP-LEVEL / llm-wiki / profiles.llm-wiki-explore (verified set equality).
+
+**Commit pending**: `Explore: 2026-06-26T10:09 UTC — Run 71`

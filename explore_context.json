@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-26T09:00:00+00:00",
-  "__last_updated": "2026-06-26T09:00:00+00:00",
-  "last_run": "2026-06-26T09:00:00+00:00",
-  "last_explore": "2026-06-26T09:00:00+00:00",
-  "last_global_explore": "2026-06-26T09:00:00+00:00",
-  "last_discovery": "2026-06-26T09:00:00+00:00",
-  "last_run_framing": "Rule 37 AXIS-ORTHOGONALITY-PROBE \u2014 energy-based-fine-tuning + defense-trilemma + synthetic-data-curriculum (orthogonal to Run 68 + Run 69)",
-  "last_framing": "Run 66 deep-sub-cluster rotation per Rule 36c \u2014 pivoted from Run 65 PROBE-AXIS training-side primitives (knowledge-distillation + SFT-vs-RL + multi-objective-prompt-optimization) to deployment-evaluation primitives (MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization)",
-  "last_run_notes": "Run 66 \u2014 3 fresh LLM-centric papers via web_search 4-query DEEP-SUB-CLUSTER-ROTATION escape hatch per Rule 36c (after Run 65 PROBE-AXIS escalation per Rule 36b). HF pool CV/3D-heavy for 12th consecutive run (pitfall-83 streak extended to Runs 55-66). HF daily v2 returned 18 + 33 + 29 papers across 2026-06-24/25/26 dates but only 14 fresh after 5-store dedup with only 6 borderline LLM-keyword-matched (CoffeeBench multi-agent-eval borderline, PhysiFormer mechanics, Fast LeWorldModel world model, UnityShots audio-video, FLAT/FLUX3D 3D). web_search surfaced 17 fresh LLM candidates via the deep-sub-cluster query template bracketing deployment-evaluation primitive-class (axes: LLM-evaluation framework benchmark + reasoning model robustness failure + multi-agent coordination benchmark + interpretability mechanistic circuit). Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 65 training-side primitives (on-policy-distillation + SFT-vs-RL + multi-objective-textual-gradient) to deployment-evaluation primitives (MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization). 3-axis DOMAIN-DIVERSITY DEEP-SUB-CLUSTER PIVOT per Rule 36c to architectural-bloat-as-failure-naming + sustainability-x-discrimination-as-co-designed + two-sided-honesty-retained-x-forgotten.",
+  "updated": "2026-06-26T10:09:00+00:00",
+  "__last_updated": "2026-06-26T10:09:00+00:00",
+  "last_run": "2026-06-26T10:09:00+00:00",
+  "last_explore": "2026-06-26T10:09:00+00:00",
+  "last_global_explore": "2026-06-26T10:09:00+00:00",
+  "last_discovery": "2026-06-26T10:09:00+00:00",
+  "last_run_framing": "Rule 38 NEGATIVE-RESULT-PROBE \u2014 memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (orthogonal to Run 68 + Run 69 + Run 70)",
+  "last_framing": "Run 71 negative-result-probe per Rule 38 \u2014 pivoted from Run 70 axis-orthogonality training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff)",
+  "last_run_notes": "Run 71 \u2014 3 fresh LLM-centric papers via web_search 4-query NEGATIVE-RESULT-PROBE escape hatch per Rule 38 (after Run 70 axis-orthogonality per Rule 37). HF pool CV/3D-heavy for 17th consecutive run (pitfall-83 streak extended to Runs 55-71). HF daily v2 returned 80 papers across 2026-06-24/25/26 dates but only 14 fresh after 5-store dedup with only 3 borderline LLM-keyword-matched (ViQ visual-quantization, CoffeeBench already surfaced Run 66, FLUX3D 3D scene gen). web_search surfaced fresh LLM candidates via the negative-result-probe query template bracketing known-difficult-axes: (a) LLM fundamental incompatibility theorems + (b) LLM alignment tax measurements + (c) training data memorization boundaries + (d) compositional generalization failure modes. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 70 training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff primitive-class triplet). 3-axis DOMAIN-DIVERSITY NEGATIVE-RESULT-PROBE PIVOT per Rule 38 to propensity-vs-capability-memorization-evaluation + architectural-impossibility-triangle-info-theoretic-bound + Schwartz-value-co-movement-process-level-tradeoff.",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "emergent_concept_search_via_web_search_4query_deep_sub_cluster_rotation_rule36c",
+  "last_run_method": "emergent_concept_search_via_web_search_4query_negative_result_probe_rule38",
   "run_method": "emergent-concept",
   "last_run_added": 3,
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
-  "emergent_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
+  "emergent_concept_theme": "memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax",
+  "emergent_theme": "memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax",
   "chains_updated": 0,
-  "entities_count": 216,
+  "entities_count": 219,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3322,6 +3322,30 @@
       "arxiv_id": "2603.24202",
       "slug": "scaling-rl-for-code-generation-with-synthetic-data-and-curriculum-2603.24202",
       "title": "Scaling RL for Code Generation with Synthetic Data and Curriculum"
+    },
+    {
+      "arxiv_id": "2606.06286",
+      "title": "LLMs Can Leak Training Data But Do They Want To? A Propensity-Aware Evaluation of Memorization in LLMs",
+      "slug": "llms-can-leak-training-data-but-do-they-want-to-a-propensity-aware-evaluation-of-memorization-in-llms-2606.06286",
+      "url": "https://arxiv.org/abs/2606.06286",
+      "discovered": "2026-06-26T10:09:00+00:00",
+      "theme": "memorization / propensity-as-leakage-willingness"
+    },
+    {
+      "arxiv_id": "2605.05066",
+      "title": "The Impossibility Triangle of Long-Context Modeling",
+      "slug": "the-impossibility-triangle-of-long-context-modeling-2605.05066",
+      "url": "https://arxiv.org/abs/2605.05066",
+      "discovered": "2026-06-26T10:09:00+00:00",
+      "theme": "long-context / impossibility-triangle / architecture-tradeoff-bound"
+    },
+    {
+      "arxiv_id": "2602.12134",
+      "title": "Value Alignment Tax: Measuring Value Trade-offs in LLM Alignment",
+      "slug": "value-alignment-tax-measuring-value-trade-offs-in-llm-alignment-2602.12134",
+      "url": "https://arxiv.org/abs/2602.12134",
+      "discovered": "2026-06-26T10:09:00+00:00",
+      "theme": "alignment-tax / Schwartz-value-co-movement / process-level-tradeoff"
     }
   ],
   "emergent_discoveries": [
@@ -4978,6 +5002,30 @@
       "url": "https://arxiv.org/abs/2603.24202",
       "discovered": "2026-06-26T09:54:00+00:00",
       "theme": "energy-based-fine-tuning + defense-trilemma + synthetic-data-curriculum (Rule 37 AXIS-ORTHOGONALITY-PROBE)"
+    },
+    {
+      "arxiv_id": "2606.06286",
+      "title": "LLMs Can Leak Training Data But Do They Want To? A Propensity-Aware Evaluation of Memorization in LLMs",
+      "slug": "llms-can-leak-training-data-but-do-they-want-to-a-propensity-aware-evaluation-of-memorization-in-llms-2606.06286",
+      "url": "https://arxiv.org/abs/2606.06286",
+      "discovered": "2026-06-26T10:09:00+00:00",
+      "theme": "memorization / propensity-as-leakage-willingness"
+    },
+    {
+      "arxiv_id": "2605.05066",
+      "title": "The Impossibility Triangle of Long-Context Modeling",
+      "slug": "the-impossibility-triangle-of-long-context-modeling-2605.05066",
+      "url": "https://arxiv.org/abs/2605.05066",
+      "discovered": "2026-06-26T10:09:00+00:00",
+      "theme": "long-context / impossibility-triangle / architecture-tradeoff-bound"
+    },
+    {
+      "arxiv_id": "2602.12134",
+      "title": "Value Alignment Tax: Measuring Value Trade-offs in LLM Alignment",
+      "slug": "value-alignment-tax-measuring-value-trade-offs-in-llm-alignment-2602.12134",
+      "url": "https://arxiv.org/abs/2602.12134",
+      "discovered": "2026-06-26T10:09:00+00:00",
+      "theme": "alignment-tax / Schwartz-value-co-movement / process-level-tradeoff"
     }
   ],
   "emergent_concept_search_log": [
@@ -7787,6 +7835,15 @@
         "2604.06436",
         "2603.24202"
       ]
+    },
+    {
+      "run": 71,
+      "date": "2026-06-26T10:09:00+00:00",
+      "method": "emergent_concept_search_via_web_search_4query_negative_result_probe_rule38",
+      "framing": "Rule 38 NEGATIVE-RESULT-PROBE \u2014 memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (orthogonal to Run 68 + Run 69 + Run 70)",
+      "picks_added": 3,
+      "pitfall_83_streak": 17,
+      "notes": "Rule 38 negative-result-probe escape hatch after Rule 37 axis-orthogonality. 3 fresh LLM candidates via web_search targeting known-difficult axes (impossibility-theorems + alignment-tax + memorization-boundaries + compositional-failure-modes). 17th consecutive pitfall-83 firing."
     }
   ],
   "last_updated": "2026-06-26T09:32:00+00:00",
