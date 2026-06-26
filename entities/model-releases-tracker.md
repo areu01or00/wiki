@@ -121,11 +121,11 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 *Profiles auto-added by discovery layer each cycle. Tracked from this cycle onwards.*
 
 - **sakana-releases** — cycle 3 — Sakana AI Fugu model release Japanese lab
-- **swiss-ai-apertus** — cycle 3 — Swiss AI Apertus EPFL ETH Zurich multilingual open model release
+- **swiss-ai-apertus** — cycle 3 — swiss-ai/apertus Hugging Face open weights multilingual (c73 reword: HF slug anchor per c72 L1 + variant 17)
 - **krea** — cycle 4 — Krea AI Krea 2 image generation model open weights
 - **MiniMax** — cycle 9 — MiniMax AI MiniMax-M3 release new model multimodal MoE
-- **inclusion-ai** — cycle 52 — InclusionAI Ling Ring Sing-Guard open weights model release
+- **inclusion-ai** — cycle 52 — InclusionAI Ant Group Ling-2.6 Ring-2.6 trillion parameter open weights model release (c72 reword VERIFIED WORKED, applied at start of c72)
 - **deepreinforce-ai** — cycle 56 — DeepReinforce AI Ornith model release coding agent weights
 - **liquid-ai** — cycle 59 — Liquid AI LFM2.5 family edge LLM open weights model release
-- **kog-ai** — cycle 68 — Kog AI Laneformer 2B latency-first open weights
+- **kog-ai** — cycle 68 — kogai Laneformer huggingface open weights latency-first (c73 reword: drop "KOG" acronym per c72 L1 + variant 18)
 

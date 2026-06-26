@@ -1155,3 +1155,12 @@ Updated log.md via `git show HEAD:log.md > /tmp/run0043/log.md.restored` + `cat 
 - 3-store lockstep invariant intact at 141 hashes
 - ensure_ascii divergent stable state (preserved: EC=False, WP=True)
 - 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
+
+- **Run 48 (2026-06-26 03:53 UTC)** — 3 new entity pages adopted from leftover sibling-session state per pitfall-73 (Why Multi-Step Tool-Use RL Collapse agentic-RL-format-distribution-pathology-diagnosis + GUI vs CLI Matched-Modality-Execution-Bottlenecks-Isolation + Hidden Thoughts Are Not Secret Reasoning-Trace-Exposure-via-Prompting-Format) — 3-axis pivot from Run 38-47 streaks (focus on agentic-RL-collapse-diagnosis + matched-modality-isolation + reasoning-trace-extraction-attack surfaces)
+- **Adoption note**: 3 untracked entity files + modified parent file were on disk at session start (leftover from prior failed commit per pitfall-73); all 3 entity files verified clean (Phase 2 audit), parent new-block audit clean (Phase 3), date-DESC ordering verified (Phase 4 — 06-24 → 06-22 → 05-30), pre-write `ls entities/ | grep` discovery confirmed first-in-wiki surfaces for each theme. State files updated atomically (no corruption); 3-store lockstep invariant intact.
+- 36th consecutive clean run of avoided-pitfalls
+- 3 new hashes all unique vs 141-hash pool
+- 153 entity count (141 paper + 12 meta)
+- 3-store lockstep invariant intact at 144 hashes
+- ensure_ascii divergent stable state (preserved: EC=True detected, WP=True detected)
+- 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
