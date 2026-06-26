@@ -808,7 +808,10 @@
         "c78a73f961a4651d4e71cde499fa85a5",
         "b838406f94eedb6d5661e44cb4ae8e39",
         "a7f121eb4291ab40d6efad48c1d46244",
-        "0982c2a957b063cf6cd906c76873e7bb"
+        "0982c2a957b063cf6cd906c76873e7bb",
+        "f66b93622bf54461d4fac790085a882a",
+        "d3224fc3276732b8f345c38cd6ac652e",
+        "7569169096de49e98d0663cf89423472"
       ],
       "last_results": [
         {
@@ -1824,6 +1827,24 @@
           "url": "https://arxiv.org/abs/2606.01912",
           "date": "2026/06/01",
           "theme": "environment-grounded-eval / smart-home-agent / sustained-agency-benchmark"
+        },
+        {
+          "id": "2606.25354",
+          "title": "Efficient and Trainable Language Model Test-Time Scaling via Local Branch Routing",
+          "date": "2026/06/24",
+          "discovered": "2026-06-26T02:54:00+00:00"
+        },
+        {
+          "id": "2606.22079",
+          "title": "Where Does the Signal Live? A Web Data Recipe for Medical Encoder Pretraining",
+          "date": "2026/06/20",
+          "discovered": "2026-06-26T02:54:00+00:00"
+        },
+        {
+          "id": "2606.06036",
+          "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
+          "date": "2026/06/04",
+          "discovered": "2026-06-26T02:54:00+00:00"
         }
       ],
       "last_run": "2026-06-25T23:12:09.658648+00:00",
@@ -1963,12 +1984,17 @@
     "c78a73f961a4651d4e71cde499fa85a5",
     "b838406f94eedb6d5661e44cb4ae8e39",
     "a7f121eb4291ab40d6efad48c1d46244",
-    "0982c2a957b063cf6cd906c76873e7bb"
+    "0982c2a957b063cf6cd906c76873e7bb",
+    "f66b93622bf54461d4fac790085a882a",
+    "d3224fc3276732b8f345c38cd6ac652e",
+    "7569169096de49e98d0663cf89423472"
   ],
   "last_discovery": "2026-06-26T02:43:52Z",
-  "last_updated": "2026-06-26T02:43:52Z",
-  "__last_updated": "2026-06-26T02:43:52Z",
-  "last_explore": "2026-06-26T02:43:52Z",
+  "last_updated": "2026-06-26T02:54:00+00:00",
+  "__last_updated": "2026-06-26T02:54:00+00:00",
+  "last_explore": {
+    "timestamp": "2026-06-26T02:54:00+00:00"
+  },
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -2099,11 +2125,14 @@
       "c78a73f961a4651d4e71cde499fa85a5",
       "b838406f94eedb6d5661e44cb4ae8e39",
       "a7f121eb4291ab40d6efad48c1d46244",
-      "0982c2a957b063cf6cd906c76873e7bb"
+      "0982c2a957b063cf6cd906c76873e7bb",
+      "f66b93622bf54461d4fac790085a882a",
+      "d3224fc3276732b8f345c38cd6ac652e",
+      "7569169096de49e98d0663cf89423472"
     ],
     "last_discovery": "2026-06-25T23:12:09.658648+00:00",
     "last_run": "2026-06-25T23:12:09.658648+00:00",
     "last_updated": "2026-06-25T23:12:09.658648+00:00"
   },
-  "last_pass_type": "emergent_concept_search"
+  "last_pass_type": "emergent_concept"
 }

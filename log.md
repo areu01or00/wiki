@@ -1081,3 +1081,69 @@ Updated log.md via `git show HEAD:log.md > /tmp/run0043/log.md.restored` + `cat 
 - 141 entity count (129 paper + 12 meta)
 - 3-store lockstep invariant intact at 129 hashes
 - 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
+
+## Run 45 — 2026-06-26 02:54 UTC
+
+- **Picks**: 3 new entity pages from emergent-concept search
+  - **Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents** (2606.06036, 06-04) — Ji, Shuo; Li, Yibo; Hooi, Bryan — replaces the static retrieve-then-reason memory pipeline with MRAgent, a Cue-Tag-Content associative graph + active reconstruction mechanism that adapts memory access to intermediate evidence uncovered during inference
+  - **Where Does the Signal Live? A Web Data Recipe for Medical Encoder Pretraining** (2606.22079, 06-20) — Huang, Bofeng; Sun, Jacques; Bouchacourt, Diane; Barascud, Nicolas; Fogel, Fajwel — investigates whether web-scale data curation (proven for decoder LLM pretraining) transfers to encoder MLM in dense-terminology domains like medicine; proposes signal-location-aware curation recipe combining domain-relevant document filtering with quality signals adapted to encoder MLM
+  - **Efficient and Trainable Language Model Test-Time Scaling via Local Branch Routing** (2606.25354, 06-24) — Yin, Yutong; Jin, Mingyu; Pan, Jin; et al. (15 authors) — Local Branch Routing (LBR), a token-level test-time scaling framework that expands a small local lookahead tree, forwards all sampled branches through the LM, and uses a lightweight router to select the best continuation — replacing single-threaded CoT with trainable token-level branch routing
+
+- **3-axis theme-pivot from Run 37-44 streaks** (audit of last 7 runs' framings):
+  - Run 38: agent-evaluation-deployment-protocols
+  - Run 39: post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry
+  - Run 40: tool-use-memory-mechanism + ontology-pre-deployment-verification + llm-peer-review-survey
+  - Run 41: ultra-long-horizon-benchmark + systems-memory-characterization + jailbreak-mechanism
+  - Run 42: evidence-tracing-execution-provenance + refusal-alignment-measurement + temporally-controlled-research-judgment
+  - Run 43: rubric-conditioned-self-distillation + agent-skill-evolution-survey + researcher-role-mimicry-benchmark
+  - Run 44: on-policy-skill-distillation + randomized-YaRN-length-generalization + SMH-Bench-environment-grounded-eval
+  - **Run 45**: graph-as-memory-reconstruction-substrate / signal-location-as-curation-primitive / token-level-branch-routing-as-test-time-scaling-paradigm (NO common umbrella with any prior streak)
+
+- **HF daily pool thinness continues**: 127 candidates in 4 sources → 28 fresh after 5-store dedup → 12 LLM-keyword-relevant (mostly CV/3D/robotics, 0 LLM-research from HF alone); 7 web_search queries surfaced 10 fresh LLM-research candidates; **3 picks: 1 from HF (not — all 3 came from web_search)**
+
+- **Forward-prevention via `ls | grep` worked cleanly** for all 3 picks:
+  - MRAgent (memory-graph): 0 prior `memory.graph|graph.memory|reconstruct.memory` matches; 5 memory-architecture siblings for cross-reference
+  - Where-Does-Signal-Live (data-curation-medical): 0 prior `web.data|medical.encoder|signal.live` matches; 2 data-recipe siblings for cross-reference
+  - LBR (test-time-scaling-trainable): 0 prior `local.branch|branch.routing|test.time.scal|lbr.` matches; 3 reasoning/inference siblings for cross-reference
+  - **Caught 1 forward-looking unpicked-candidate wikilink** (how-inference-compute-shapes-frontier-llm-evaluation-2606.17930 from web_search query 4) BEFORE write — replaced with Periodic-Table-of-LLM-Reasoning
+
+- **All 4 phase verifications pass** (Run 38 4-phase framework):
+  - Phase 1 (pre-write `ls | grep`): 5 queries captured all cross-reference slugs
+  - Phase 2 (post-write per-entity audit): 13 wikilinks across 3 files (6+3+4) → 0 broken, 0 placeholder
+  - Phase 3 (parent new-block audit): 16 wikilinks in prepended block → 0 broken, 0 placeholder
+  - Phase 4 (date-DESC verification): top-6 entries verified as 06-25 → 06-24 → 06-22 → 06-20 → 06-04 → 06-01 (mixed new + prior-run entries, all in DESC order)
+
+- **Date-DESC ordering subtlety**: The new block had to be MERGED with existing entries rather than simply PREPENDED because the existing top entry (OPID, 06-25) was newer than my oldest Run 45 pick (06-04). The merged order is 06-25(prior) → 06-24(LBR, new) → 06-22(prior) → 06-20(Where-Does-Signal-Live, new) → 06-04(MRAgent, new) → 06-01(prior). This preserves the date-DESC invariant at the cost of interleaving new and prior entries.
+
+- **State-file schema gotchas all caught** (verified Run 45):
+  - `emergent_concept_papers / emergent_discoveries / chains.papers_found` entries are dicts: `arxiv_id_set()` helper applied
+  - `runs` and `emergent_concept_search_runs` are lists of records: `OrderedDict` append pattern, idempotent timestamp guard verified
+  - **Pitfall-69 load-bearing fix verified**: pre-write counts stored in variables BEFORE the write, assertions FIRST then cosmetic prints — script completed without NameError or post-write partial-write risk
+
+- **Post-write verification**:
+  - ecp: 129 → 132 (+3)
+  - ed: 129 → 132 (+3)
+  - chain.papers_found: 120 → 123 (+3)
+  - ecsl: 57 → 58 (+1)
+  - runs: 43 → 44 (+1)
+  - ecsr: 43 → 44 (+1)
+
+- **3-store lockstep + encoding preservation** (verified Run 45):
+  - SET-equality: 132 hashes each (was 129)
+  - Per-store uniqueness: 0 duplicates in any store
+  - ensure_ascii preservation: EC=False (raw UTF-8) + WP=True (escaped) — divergent stable state held (33rd consecutive run)
+
+- **Canonical hashes for new picks**: f66b93622bf54461d4fac790085a882a, d3224fc3276732b8f345c38cd6ac652e, 7569169096de49e98d0663cf89423472
+
+- **log.md sibling-subagent race avoidance** (verified Run 45): used `git show HEAD:log.md > /tmp/run45/log.md.restored` + `cat restored new_entry > log.md.new` + `cp log.md.new /home/hermes/wiki/log.md` instead of `write_file`. No race encountered.
+
+- **Cycle counts**:
+  - 127 HF candidates in 4 sources → 28 fresh → 12 LLM-relevant (CV/3D/robotics-heavy week continues)
+  - 7 web_search queries → 10 fresh LLM-research candidates → 3 picks (all 3 from web_search escape hatch)
+  - 13 wikilinks across 3 new entity files (6+3+4) → 0 broken on first pass
+  - 16 wikilinks in parent new-block → 0 broken, 0 placeholder
+  - 33rd consecutive clean run of avoided-pitfalls
+  - 3 new hashes all unique vs 129-hash pool
+  - 144 entity count (132 paper + 12 meta)
+  - 3-store lockstep invariant intact at 132 hashes
+  - 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
