@@ -8,7 +8,7 @@
   "last_explore": "2026-06-26T10:09:00+00:00",
   "last_global_explore": "2026-06-26T10:09:00+00:00",
   "last_discovery": "2026-06-26T10:09:00+00:00",
-  "last_run_framing": "Rule 38 NEGATIVE-RESULT-PROBE \u2014 memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (orthogonal to Run 68 + Run 69 + Run 70)",
+  "last_run_framing": "Rule 39 ADVERSARIAL-AXIS-PROBE \u2014 epistemic-resilience-under-adversarial-context-injection + population-level-test-time-scaling-with-generative-verifier + span-level-error-localization-in-deep-research-agents (orthogonal to Run 68 + Run 69 + Run 70 + Run 71)",
   "last_framing": "Run 71 negative-result-probe per Rule 38 \u2014 pivoted from Run 70 axis-orthogonality training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff)",
   "last_run_notes": "Run 71 \u2014 3 fresh LLM-centric papers via web_search 4-query NEGATIVE-RESULT-PROBE escape hatch per Rule 38 (after Run 70 axis-orthogonality per Rule 37). HF pool CV/3D-heavy for 17th consecutive run (pitfall-83 streak extended to Runs 55-71). HF daily v2 returned 80 papers across 2026-06-24/25/26 dates but only 14 fresh after 5-store dedup with only 3 borderline LLM-keyword-matched (ViQ visual-quantization, CoffeeBench already surfaced Run 66, FLUX3D 3D scene gen). web_search surfaced fresh LLM candidates via the negative-result-probe query template bracketing known-difficult-axes: (a) LLM fundamental incompatibility theorems + (b) LLM alignment tax measurements + (c) training data memorization boundaries + (d) compositional generalization failure modes. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 70 training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff primitive-class triplet). 3-axis DOMAIN-DIVERSITY NEGATIVE-RESULT-PROBE PIVOT per Rule 38 to propensity-vs-capability-memorization-evaluation + architectural-impossibility-triangle-info-theoretic-bound + Schwartz-value-co-movement-process-level-tradeoff.",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax",
   "emergent_theme": "memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax",
   "chains_updated": 0,
-  "entities_count": 219,
+  "entities_count": 222,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3346,6 +3346,24 @@
       "url": "https://arxiv.org/abs/2602.12134",
       "discovered": "2026-06-26T10:09:00+00:00",
       "theme": "alignment-tax / Schwartz-value-co-movement / process-level-tradeoff"
+    },
+    {
+      "arxiv_id": "2606.12291",
+      "slug": "measuring-epistemic-resilience-of-llms-under-misleading-medical-context",
+      "discovered": "2026-06-26T10:27:32+00:00",
+      "run": 72
+    },
+    {
+      "arxiv_id": "2606.13473",
+      "slug": "maxproof-scaling-mathematical-proof-with-generative-verifier-rl-and-population-level-test-time-scaling",
+      "discovered": "2026-06-26T10:27:32+00:00",
+      "run": 72
+    },
+    {
+      "arxiv_id": "2606.02060",
+      "slug": "where-do-deep-research-agents-go-wrong-span-level-error-localization-in-agent-trajectories",
+      "discovered": "2026-06-26T10:27:32+00:00",
+      "run": 72
     }
   ],
   "emergent_discoveries": [
@@ -5026,6 +5044,30 @@
       "url": "https://arxiv.org/abs/2602.12134",
       "discovered": "2026-06-26T10:09:00+00:00",
       "theme": "alignment-tax / Schwartz-value-co-movement / process-level-tradeoff"
+    },
+    {
+      "arxiv_id": "2606.12291",
+      "title": "Measuring Epistemic Resilience of LLMs Under Misleading Medical Context",
+      "slug": "measuring-epistemic-resilience-of-llms-under-misleading-medical-context",
+      "url": "https://arxiv.org/abs/2606.12291",
+      "discovered": "2026-06-26T10:27:32+00:00",
+      "theme": "adversarial-axis-probe per Rule 39"
+    },
+    {
+      "arxiv_id": "2606.13473",
+      "title": "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling",
+      "slug": "maxproof-scaling-mathematical-proof-with-generative-verifier-rl-and-population-level-test-time-scaling",
+      "url": "https://arxiv.org/abs/2606.13473",
+      "discovered": "2026-06-26T10:27:32+00:00",
+      "theme": "adversarial-axis-probe per Rule 39"
+    },
+    {
+      "arxiv_id": "2606.02060",
+      "title": "Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories",
+      "slug": "where-do-deep-research-agents-go-wrong-span-level-error-localization-in-agent-trajectories",
+      "url": "https://arxiv.org/abs/2606.02060",
+      "discovered": "2026-06-26T10:27:32+00:00",
+      "theme": "adversarial-axis-probe per Rule 39"
     }
   ],
   "emergent_concept_search_log": [
@@ -6123,6 +6165,22 @@
       "candidates_after_dedup": 16,
       "picks": 3,
       "themes": "training-free-PRM + query-conditioned-test-time-self-training + routing-free-MoE"
+    },
+    {
+      "timestamp": "2026-06-26T10:27:32+00:00",
+      "method": "web_search_4query_adversarial_axis_probe_rule39",
+      "queries": [
+        "arxiv 2026 LLM mechanistic interpretability causal circuit discovery workshop paper ICLR",
+        "arxiv 2026 language model preference learning duality non-transitivity DPO KTO ORPO",
+        "arxiv 2026 LLM inference-time intervention activation steering linear representation failure mode",
+        "arxiv 2026 multi-turn conversation memory LLM cognitive architecture episodic semantic"
+      ],
+      "fresh_llm_candidates": 68,
+      "selected": [
+        "2606.12291",
+        "2606.13473",
+        "2606.02060"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -7844,6 +7902,15 @@
       "picks_added": 3,
       "pitfall_83_streak": 17,
       "notes": "Rule 38 negative-result-probe escape hatch after Rule 37 axis-orthogonality. 3 fresh LLM candidates via web_search targeting known-difficult axes (impossibility-theorems + alignment-tax + memorization-boundaries + compositional-failure-modes). 17th consecutive pitfall-83 firing."
+    },
+    {
+      "run": 72,
+      "date": "2026-06-26T10:27:32+00:00",
+      "method": "emergent_concept_search_via_web_search_4query_adversial_axis_probe_rule39",
+      "framing": "Rule 39 ADVERSARIAL-AXIS-PROBE \u2014 epistemic-resilience-under-adversarial-context-injection + population-level-test-time-scaling-with-generative-verifier + span-level-error-localization-in-deep-research-agents (orthogonal to Run 68 + Run 69 + Run 70 + Run 71)",
+      "picks_added": 3,
+      "pitfall_83_streak": 18,
+      "notes": "Rule 39 adversarial-axis-probe escape hatch after Rules 33\u219234\u219235\u219236\u219236b\u219236c\u219236c-continued\u219236d\u219236e\u219237\u219238 have been used. 3 fresh LLM candidates via web_search targeting adversarial surfaces (medical-context-injection epistemic-robustness + population-test-time-scaling-with-generative-verifier + span-level-error-localization). 18th consecutive pitfall-83 firing."
     }
   ],
   "last_updated": "2026-06-26T09:32:00+00:00",
