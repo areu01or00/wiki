@@ -880,7 +880,10 @@
         "a2fd54c06a438ed80a8b0572a73d8d25",
         "24ce451465bd45ef256267dfb3eca7c6",
         "a3c57087c248eae26ec144de0e8af5b7",
-        "5f5bd670d55e496e6a9fa57382a69a60"
+        "5f5bd670d55e496e6a9fa57382a69a60",
+        "f18c2e4b8bc9ff55df601bb4356aa017",
+        "90ad5d6e97947c40e8e0059afc74f119",
+        "69d060b0458ac76647165b700ec04c92"
       ],
       "last_results": [
         {
@@ -2406,6 +2409,33 @@
           "chain": "emergent-concepts",
           "theme": "test-time-compute-scaling / inference-efficiency / framework",
           "discovered": "2026-06-26T09:47:19.796636+00:00"
+        },
+        {
+          "arxiv_id": "2603.12248",
+          "title": "Energy-Based Fine-Tuning of Language Models",
+          "hash": "f18c2e4b8bc9ff55df601bb4356aa017",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "Rule 37 axis-orthogonality-probe pick",
+          "discovered": "2026-06-26T09:54:00+00:00"
+        },
+        {
+          "arxiv_id": "2604.06436",
+          "title": "The Defense Trilemma: Why Prompt Injection Defense Wrappers Fail",
+          "hash": "90ad5d6e97947c40e8e0059afc74f119",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "Rule 37 axis-orthogonality-probe pick",
+          "discovered": "2026-06-26T09:54:00+00:00"
+        },
+        {
+          "arxiv_id": "2603.24202",
+          "title": "Scaling RL for Code Generation with Synthetic Data and Curriculum",
+          "hash": "69d060b0458ac76647165b700ec04c92",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "Rule 37 axis-orthogonality-probe pick",
+          "discovered": "2026-06-26T09:54:00+00:00"
         }
       ],
       "last_run": "63",
@@ -2625,7 +2655,10 @@
     "a2fd54c06a438ed80a8b0572a73d8d25",
     "24ce451465bd45ef256267dfb3eca7c6",
     "a3c57087c248eae26ec144de0e8af5b7",
-    "5f5bd670d55e496e6a9fa57382a69a60"
+    "5f5bd670d55e496e6a9fa57382a69a60",
+    "f18c2e4b8bc9ff55df601bb4356aa017",
+    "90ad5d6e97947c40e8e0059afc74f119",
+    "69d060b0458ac76647165b700ec04c92"
   ],
   "last_discovery": {
     "timestamp": "2026-06-26T09:32:00+00:00",
@@ -2842,7 +2875,10 @@
       "a2fd54c06a438ed80a8b0572a73d8d25",
       "24ce451465bd45ef256267dfb3eca7c6",
       "a3c57087c248eae26ec144de0e8af5b7",
-      "5f5bd670d55e496e6a9fa57382a69a60"
+      "5f5bd670d55e496e6a9fa57382a69a60",
+      "f18c2e4b8bc9ff55df601bb4356aa017",
+      "90ad5d6e97947c40e8e0059afc74f119",
+      "69d060b0458ac76647165b700ec04c92"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",

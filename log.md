@@ -1458,3 +1458,22 @@ Run 67 — pitfall-83 streak extended to 13 consecutive runs (longest in wiki hi
 
 Commit: `43762e4` → push succeeded.
 
+
+## 2026-06-26 09:54 UTC — Emergent-concept search Run 70 (3 fresh themes — energy-based-fine-tuning + defense-trilemma + synthetic-data-curriculum)
+
+**Mode**: emergent-concept-search via web_search 4-query AXIS-ORTHOGONALITY-PROBE escape hatch per Rule 37
+
+**3 picks**:
+1. **Energy-Based Fine-Tuning of Language Models** ([2603.12248](https://arxiv.org/abs/2603.12248)) — Liu, Qiang; Park, Sungjin; Chen, Wei — sequence-level-feature-matching fine-tuning objective via strided block-parallel sampling; matches RLVR and outperforms SFT without reward/preference model.
+2. **The Defense Trilemma: Why Prompt Injection Defense Wrappers Fail** ([2604.06436](https://arxiv.org/abs/2604.06436)) — Zhang, Mingwei; Petrov, Aleksandar; Rivera, Carla — formal defense-trilemma theorem with three-tier result hierarchy + Lean-4 mechanical verification; continuity + utility + completeness cannot coexist.
+3. **Scaling RL for Code Generation with Synthetic Data and Curriculum** ([2603.24202](https://arxiv.org/abs/2603.24202)) — Wang, Hao; Chen, Linyi; Patel, Anish; Schmidt, Robert — multi-turn synthetic-data pipeline producing stepping-stone-curriculum for RL training at scale; teacher iteratively refines problems based on in-context student performance summaries.
+
+**Pitfall-83 streak**: 16 consecutive runs (Runs 55-70). HF daily v2 returned 18 papers on 2026-06-26 but only 1 fresh after 5-store dedup (CoffeeBench surfaced Run 66). HF v3 href-regex pool 100% CV/3D-heavy. web_search surfaced 8 fresh LLM candidates via Rule 37 axis-orthogonality query template (maximal orthogonality to Run 68 + Run 69).
+
+**Rule 37 AXIS-ORTHOGONALITY-PROBE verified**: pivoted from Run 68 (MoE-RL-stability + long-context-training-efficiency + RAG-faithfulness-as-training-data) and Run 69 (interpretability + medical-CoT + test-time-compute) primitive-class triplets to energy-based-fine-tuning + defense-trilemma + synthetic-data-curriculum (training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering) primitive-class triplet. All 3 picks fully orthogonal to Run 68 + Run 69 axes.
+
+**entities_count**: 213 → 216 (filesystem truth rule, 3 new entity files).
+
+**3-store lockstep**: 201 → 204 hashes in TOP-LEVEL / llm-wiki / profiles.llm-wiki-explore (verified set equality).
+
+**Commit pending**: `Explore: 2026-06-26T09:54 UTC — Run 70`
