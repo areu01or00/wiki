@@ -2,30 +2,30 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-26T00:08:00+00:00",
-  "__last_updated": "2026-06-26T00:08:00+00:00",
-  "last_run": "2026-06-26T00:08:00+00:00",
-  "last_explore": "2026-06-26T00:08:00+00:00",
-  "last_global_explore": "2026-06-26T00:08:00+00:00",
-  "last_discovery": "2026-06-26T00:08:00+00:00",
-  "last_run_framing": "speech/audio-MoE-distillation + medical-transformer-MIL + autonomous-driving-VLM-benchmark (theme-diversity breaking GUI/interpretability/CUA-safety + diffusion/video/T2V/3D streaks)",
-  "last_framing": "speech/audio-MoE-distillation + medical-transformer-MIL + autonomous-driving-VLM-benchmark (theme-diversity breaking GUI/interpretability/CUA-safety + diffusion/video/T2V/3D streaks)",
-  "last_run_notes": "Run 35 — emergent-concept search. Theme-diversity: speech/audio-MoE-distillation + medical-transformer-MIL + autonomous-driving-VLM-benchmark (theme-diversity breaking GUI/interpretability/CUA-safety + diffusion/video/T2V/3D streaks). 3 picks spanning speech/audio MoE-distillation, medical transformer MIL, and autonomous-driving VLM cross-cultural benchmark.",
+  "updated": "2026-06-26T00:24:00+00:00",
+  "__last_updated": "2026-06-26T00:24:00+00:00",
+  "last_run": "2026-06-26T00:24:00+00:00",
+  "last_explore": "2026-06-26T00:24:00+00:00",
+  "last_global_explore": "2026-06-26T00:24:00+00:00",
+  "last_discovery": "2026-06-26T00:24:00+00:00",
+  "last_run_framing": "4d-video-geometric-supervision + VLA-policy-head-efficiency + mobile-gui-annotation-free-hierarchical-adaptation (theme-diversity breaking T2V/video-gen/VLM-robotics streaks)",
+  "last_framing": "4d-video-geometric-supervision + VLA-policy-head-efficiency + mobile-gui-annotation-free-hierarchical-adaptation (theme-diversity breaking T2V/video-gen/VLM-robotics streaks)",
+  "last_run_notes": "Run 36 — emergent-concept search. Theme-diversity: 4d-video-geometric-supervision + VLA-policy-head-efficiency + mobile-gui-annotation-free-hierarchical-adaptation (theme-diversity breaking T2V/video-gen/VLM-robotics streaks). 3 picks spanning 4D-video-generation/multi-view-point-tracking (first-in-wiki surface), VLA-policy-head-efficiency (first-in-wiki surface), and mobile-gui-agent annotation-free hierarchical adaptation (sibling to MemGUI-Agent, distinct axis).",
   "last_pass_type": "emergent_concept",
   "last_run_method": "HF daily 3-day window + default page (4 sources, SVELTE_HYDRATER + raw_decode), 5-store dedup",
   "run_method": "HF daily 3-day window + default page (4 sources, SVELTE_HYDRATER + raw_decode), 5-store dedup",
   "last_run_added": [
-    "speaker-identity-non-verbal-vocalizations-conditional-distillation-mixture-experts-2606.21215",
-    "qg-mil-gated-transformer-aggregator-domain-agnostic-multiple-instance-learning-medical-2606.20027",
-    "robusto-2-benchmarking-humans-vlms-autonomous-driving-lima-new-york-city-2606.20980"
+    "mvtrack4gen-multi-view-point-tracking-geometric-supervision-4d-video-generation-2606.26087",
+    "policytrim-boosting-intrinsic-policy-efficiency-vla-models-2606.22540",
+    "mobileforge-annotation-free-adaptation-mobile-gui-agents-hierarchical-feedback-policy-optimization-2606.19930"
   ],
   "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "speech/audio-MoE-distillation + medical-transformer-MIL + autonomous-driving-VLM-benchmark (theme-diversity breaking GUI/interpretability/CUA-safety + diffusion/video/T2V/3D streaks)",
-  "emergent_theme": "speech/audio-MoE-distillation + medical-transformer-MIL + autonomous-driving-VLM-benchmark (theme-diversity breaking GUI/interpretability/CUA-safety + diffusion/video/T2V/3D streaks)",
+  "emergent_concept_theme": "4d-video-geometric-supervision + VLA-policy-head-efficiency + mobile-gui-annotation-free-hierarchical-adaptation (theme-diversity breaking T2V/video-gen/VLM-robotics streaks)",
+  "emergent_theme": "4d-video-geometric-supervision + VLA-policy-head-efficiency + mobile-gui-annotation-free-hierarchical-adaptation (theme-diversity breaking T2V/video-gen/VLM-robotics streaks)",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 114,
+  "entities_count": 117,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1006,6 +1006,27 @@
           "vector": "emergent_concept",
           "discovered": "2026-06-26T00:08:00+00:00",
           "theme": "autonomous-driving / VLM-action-model / geographical-OD / cross-cultural-benchmarking"
+        },
+        {
+          "arxiv_id": "2606.26087",
+          "slug": "mvtrack4gen-multi-view-point-tracking-geometric-supervision-4d-video-generation-2606.26087",
+          "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+          "vector": "emergent-concept",
+          "discovered": "2026-06-26T00:24:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.22540",
+          "slug": "policytrim-boosting-intrinsic-policy-efficiency-vla-models-2606.22540",
+          "title": "PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models",
+          "vector": "emergent-concept",
+          "discovered": "2026-06-26T00:24:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.19930",
+          "slug": "mobileforge-annotation-free-adaptation-mobile-gui-agents-hierarchical-feedback-policy-optimization-2606.19930",
+          "title": "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization",
+          "vector": "emergent-concept",
+          "discovered": "2026-06-26T00:24:00+00:00"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -1945,6 +1966,36 @@
       "vector": "emergent_concept",
       "discovered": "2026-06-26T00:08:00+00:00",
       "theme": "autonomous-driving / VLM-action-model / geographical-OD / cross-cultural-benchmarking"
+    },
+    {
+      "arxiv_id": "2606.26087",
+      "slug": "mvtrack4gen-multi-view-point-tracking-geometric-supervision-4d-video-generation-2606.26087",
+      "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+      "url": "https://arxiv.org/abs/2606.26087",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T00:24:00+00:00",
+      "submitted": "2026-06-24",
+      "theme": "4d-video-generation / multi-view-point-tracking / geometric-supervision / novel-view-synthesis / video-diffusion"
+    },
+    {
+      "arxiv_id": "2606.22540",
+      "slug": "policytrim-boosting-intrinsic-policy-efficiency-vla-models-2606.22540",
+      "title": "PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2606.22540",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T00:24:00+00:00",
+      "submitted": "2026-06-21",
+      "theme": "vla / policy-head-efficiency / post-training-pruning / deployment-cost-reduction / robotic-manipulation"
+    },
+    {
+      "arxiv_id": "2606.19930",
+      "slug": "mobileforge-annotation-free-adaptation-mobile-gui-agents-hierarchical-feedback-policy-optimization-2606.19930",
+      "title": "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization",
+      "url": "https://arxiv.org/abs/2606.19930",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T00:24:00+00:00",
+      "submitted": "2026-06-18",
+      "theme": "mobile-gui-agent / annotation-free-adaptation / hierarchical-policy / feedback-guided-optimization / app-specialization"
     }
   ],
   "emergent_discoveries": [
@@ -2783,6 +2834,36 @@
       "vector": "emergent_concept",
       "discovered": "2026-06-26T00:08:00+00:00",
       "theme": "autonomous-driving / VLM-action-model / geographical-OD / cross-cultural-benchmarking"
+    },
+    {
+      "arxiv_id": "2606.26087",
+      "slug": "mvtrack4gen-multi-view-point-tracking-geometric-supervision-4d-video-generation-2606.26087",
+      "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+      "url": "https://arxiv.org/abs/2606.26087",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T00:24:00+00:00",
+      "submitted": "2026-06-24",
+      "theme": "4d-video-generation / multi-view-point-tracking / geometric-supervision / novel-view-synthesis / video-diffusion"
+    },
+    {
+      "arxiv_id": "2606.22540",
+      "slug": "policytrim-boosting-intrinsic-policy-efficiency-vla-models-2606.22540",
+      "title": "PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2606.22540",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T00:24:00+00:00",
+      "submitted": "2026-06-21",
+      "theme": "vla / policy-head-efficiency / post-training-pruning / deployment-cost-reduction / robotic-manipulation"
+    },
+    {
+      "arxiv_id": "2606.19930",
+      "slug": "mobileforge-annotation-free-adaptation-mobile-gui-agents-hierarchical-feedback-policy-optimization-2606.19930",
+      "title": "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization",
+      "url": "https://arxiv.org/abs/2606.19930",
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T00:24:00+00:00",
+      "submitted": "2026-06-18",
+      "theme": "mobile-gui-agent / annotation-free-adaptation / hierarchical-policy / feedback-guided-optimization / app-specialization"
     }
   ],
   "emergent_concept_search_log": [
@@ -3423,6 +3504,26 @@
       "title": "Robusto-2: Benchmarking Humans & VLMs for Autonomous Driving in Lima & New York City",
       "vector": "emergent_concept",
       "theme": "autonomous-driving / VLM-action-model / geographical-OD / cross-cultural-benchmarking"
+    },
+    {
+      "date": "2026-06-26",
+      "papers_added": [
+        "2606.26087",
+        "2606.22540",
+        "2606.19930"
+      ],
+      "sources": [
+        "2026-06-25",
+        "2026-06-24",
+        "2026-06-23",
+        "default"
+      ],
+      "dedup_rate": "117 raw -> 22 fresh -> 14 LLM-relevant -> 3 picks",
+      "slugs": [
+        "mvtrack4gen-multi-view-point-tracking-geometric-supervision-4d-video-generation-2606.26087",
+        "policytrim-boosting-intrinsic-policy-efficiency-vla-models-2606.22540",
+        "mobileforge-annotation-free-adaptation-mobile-gui-agents-hierarchical-feedback-policy-optimization-2606.19930"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -4006,6 +4107,28 @@
       "thematic_framing": "speech/audio-MoE-distillation + medical-transformer-MIL + autonomous-driving-VLM-benchmark (theme-diversity breaking GUI/interpretability/CUA-safety + diffusion/video/T2V/3D streaks)",
       "dedup_rate": "14 fresh of 91 LLM-relevant of 117 unique arxiv IDs (4 sources)",
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-26T00:24:00+00:00",
+      "method": "HF daily 3-day window + default page (4 sources, SVELTE_HYDRATER + raw_decode), 5-store dedup",
+      "papers": [
+        "2606.26087",
+        "2606.22540",
+        "2606.19930"
+      ],
+      "slugs": [
+        "mvtrack4gen-multi-view-point-tracking-geometric-supervision-4d-video-generation-2606.26087",
+        "policytrim-boosting-intrinsic-policy-efficiency-vla-models-2606.22540",
+        "mobileforge-annotation-free-adaptation-mobile-gui-agents-hierarchical-feedback-policy-optimization-2606.19930"
+      ],
+      "themes": [
+        "4d-video-generation / multi-view-point-tracking / geometric-supervision / novel-view-synthesis / video-diffusion",
+        "vla / policy-head-efficiency / post-training-pruning / deployment-cost-reduction / robotic-manipulation",
+        "mobile-gui-agent / annotation-free-adaptation / hierarchical-policy / feedback-guided-optimization / app-specialization"
+      ],
+      "thematic_framing": "4d-video-geometric-supervision + VLA-policy-head-efficiency + mobile-gui-annotation-free-hierarchical-adaptation (theme-diversity breaking T2V/video-gen/VLM-robotics streaks)",
+      "dedup_rate": "117 raw -> 22 fresh -> 14 LLM-relevant -> 3 picks",
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "runs": [
@@ -4383,6 +4506,18 @@
         "robusto-2-benchmarking-humans-vlms-autonomous-driving-lima-new-york-city-2606.20980"
       ],
       "entities_count_after": 114,
+      "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "timestamp": "2026-06-26T00:24:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "4d-video-geometric-supervision + VLA-policy-head-efficiency + mobile-gui-annotation-free-hierarchical-adaptation (theme-diversity breaking T2V/video-gen/VLM-robotics streaks)",
+      "papers_added": [
+        "mvtrack4gen-multi-view-point-tracking-geometric-supervision-4d-video-generation-2606.26087",
+        "policytrim-boosting-intrinsic-policy-efficiency-vla-models-2606.22540",
+        "mobileforge-annotation-free-adaptation-mobile-gui-agents-hierarchical-feedback-policy-optimization-2606.19930"
+      ],
+      "entities_count_after": 117,
       "pitfalls_hit": "NONE in main flow"
     }
   ],
