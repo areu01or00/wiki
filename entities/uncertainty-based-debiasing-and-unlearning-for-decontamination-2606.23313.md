@@ -1,0 +1,34 @@
+---
+title: "Uncertainty-based Debiasing and Unlearning for Decontamination"
+created: 2026-06-26
+updated: 2026-06-26
+type: entity
+tags: [evaluation-methodology, decontamination, uncertainty, deep-ensembles, benchmark-fairness]
+sources: ["https://arxiv.org/abs/2606.23313"]
+---
+
+# Uncertainty-based Debiasing and Unlearning for Decontamination
+
+## Overview
+Benchmark-based evaluation is the dominant paradigm for assessing large language model (LLM) capabilities, yet data contamination inflates reported performance and undermines fair comparison. Existing decontamination methods are evaluated solely through aggregate accuracy, which can obscure substantial differences in per-sample model behaviour, and many require access to an uncontaminated model. In this paper, we propose a sample-level evaluation framework for decontamination that complements accuracy-based assessment with distributional distance metrics, measuring how closely a decontaminated model recovers the output distribution of an uncontaminated model on each sample. Building on this framework, we introduce Uncertainty-Based Decontamination (UBD), a family of methods that leverage deep ensembles of the contaminated model to estimate per-sample memorization without requiring a uncontaminated model or knowledge of which samples are contaminated. UBD estimates a per-sample correction scalar from ensemble uncertainty, which is used to construct a debiased target distribution that suppresses the inflated probability mass on correct answers induced by contamination. This target is then used either as a post-hoc output correction (debiasing) or as a soft training signal for parameter update (unlearning). Experiments on MMLU-Pro and MATH-MCQA across multiple LLM backbones demonstrate that UBD produces per-sample output distributions substantially closer to those of an uncontaminated model than paraphrasing or choice-permutation baselines, while preserving model performance on uncontaminated data.
+
+## Key Facts
+- **Authors**: Sun, Guangzhi; Zhan, Xiao; Gales, Mark
+- **Year**: 2026
+- **arXiv**: [2606.23313](https://arxiv.org/abs/2606.23313)
+
+## Key Contributions
+- *Sample-level evaluation framework* for decontamination that uses *distributional-distance metrics* to measure per-sample output distribution recovery, exposing failure modes that aggregate accuracy hides
+- Uncertainty-Based Decontamination (UBD) — a *contamination-aware* method that uses *deep ensembles* of the contaminated model itself to estimate per-sample memorization, requiring *no access to an uncontaminated model* and *no knowledge of which samples are contaminated*
+- A *per-sample correction scalar* derived from ensemble uncertainty that constructs a *debiased target distribution* — suppressing the inflated probability mass on correct answers induced by contamination
+- Dual-use design: the debiased target is usable as *post-hoc output correction* (debiasing) or as a *soft training signal* (unlearning) — bridging evaluation-time and training-time decontamination regimes
+- Empirical validation on MMLU-Pro and MATH-MCQA showing UBD recovers per-sample output distributions substantially closer to an uncontaminated model than paraphrasing or choice-permutation baselines, while preserving uncontaminated-data performance
+
+## Related Papers
+- [[agent-skill-evaluation-and-evolution-frameworks-benchmarks-2606.11435]] — Sibling agent-evaluation work — Agent-Skill-Evaluation provides *agent-skill evolution frameworks*, UBD provides the *decontamination* primitive such frameworks need to recover true skill-capability signal from contaminated benchmarks — together they bracket the agent-evaluation surface between *skill-evolution frameworks* (Agent-Skill-Evaluation) and *decontaminated capability measurement* (UBD))
+- [[multibreak-a-scalable-and-diverse-multi-turn-jailbreak-benchmark-for-evaluating-llm-safety-2605.01687]] — Sibling Run 56 safety-benchmark work — MultiBreak benchmarks *multi-turn jailbreak* safety, UBD provides the *decontamination framework* such safety benchmarks need to avoid inflated safety scores from contaminated eval sets — together they bracket the safety-evaluation surface between *multi-turn-jailbreak-benchmark construction* (MultiBreak) and *benchmark-decontamination-for-fair-comparison* (UBD))
+- [[hakari-bench-a-lightweight-benchmark-for-comparing-retrieval-architectures-and-efficiency-settings-under-unified-conditions-2606.22778]] — Sibling unified-conditions-retrieval-benchmark work — Hakari-Bench provides *unified-conditions retrieval benchmark*, UBD provides the *per-sample distributional-distance framework* such benchmarks can use to detect contamination in their evaluation sets — together they bracket the retrieval-benchmark surface between *unified-conditions benchmarking* (Hakari-Bench) and *per-sample decontamination* (UBD))
+- [[dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-2606.12871]] — Sibling open-ended-benchmark work — DailyReport benchmarks *search agents on open-ended daily tasks*, UBD provides the *aggregate-vs-distributional evaluation framework* that exposes contamination in such open-ended benchmarks — together they bracket the open-ended-evaluation surface between *open-ended search-agent benchmarks* (DailyReport) and *aggregate-vs-distributional decontamination* (UBD))
+- [[calvert-augmenting-agents-with-calibrated-verifier-telemetry-improves-action-and-learning-in-knowledge-intensive-tasks-2606.21777]] — Sibling Run 58 calibrated-verifier work — CalVert uses *calibrated verifier telemetry* for per-action knowledge-intensive decisions, UBD uses *deep-ensemble uncertainty* for per-sample decontamination — together they bracket the deep-ensemble-uncertainty surface between *per-action calibration in agents* (CalVert) and *per-sample decontamination in benchmarks* (UBD))
+- [[interpretability-can-be-actionable-2605.11161]] — Sibling Run 58 interpretability-actionability work — Interpretability-Can-Be-Actionable evaluates *interpretability methods by concreteness×validation*, UBD's *sample-level distributional-distance* metric passes that bar: concrete (per-sample correction scalar) and validated (output distributions closer to uncontaminated model) — extending the concreteness×validation grid to *decontamination-method evaluation*)
+- [[emergent-concepts]] (parent wiki page) entries on this page by surfacing *per-sample-distributional-distance-as-decontamination-metric* as the load-bearing primitive for fair LLM evaluation where the failure mode of *aggregate-accuracy-hides-per-sample-contamination* is structurally invisible to leaderboard scoring but becomes tractable when per-sample output distributions are compared to an uncontaminated model via deep-ensemble-uncertainty-derived correction scalars that bridge post-hoc-output-correction and soft-training-signal regimes.

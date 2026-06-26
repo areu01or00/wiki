@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-26T07:09:00+00:00",
-  "__last_updated": "2026-06-26T07:48:15.254813+00:00",
-  "last_run": "2026-06-26T07:48:15.254813+00:00",
-  "last_explore": "2026-06-26T07:48:15.254813+00:00",
-  "last_global_explore": "2026-06-26T07:48:15.254813+00:00",
-  "last_discovery": "2026-06-26T07:48:15.254813+00:00",
-  "last_run_framing": "CoT-controllability-as-distinct-from-output-controllability-primitive + non-autoregressive-parallel-drafting-from-target-hidden-states-primitive + SAE-discovered-latent-reasoning-feature-primitive",
-  "last_framing": "Run 61 domain-pivot from LRM-trace-diagnostics + multi-turn-reasoning-safety + long-horizon-planning-failure-mechanism (Run 60) to CoT-monitorability-controllability-asymmetry + diffusion-inspired-parallel-drafting + SAE-isolated-latent-reasoning-features axes per Rule 27",
-  "last_run_notes": "Run 61 \u2014 3 fresh LLM-centric papers via web_search 4-query ROTATED-template escape hatch (Rule 26+33). HF pool CV/3D-heavy for 7th consecutive run (pitfall-83 streak). Pivot from Run 60 axes to safety+reasoning/control+inference-eff+model-arch axes. 9 fresh LLM candidates after 5-store dedup, picked 3 structurally orthogonal (CoT-Controllability + DART + Latent-Computational-Mode). 3-axis DOMAIN-DIVERSITY PIVOT.",
+  "updated": "2026-06-26T08:00:40.453047+00:00",
+  "__last_updated": "2026-06-26T08:00:40.453047+00:00",
+  "last_run": "2026-06-26T08:00:40.453047+00:00",
+  "last_explore": "2026-06-26T08:00:40.453047+00:00",
+  "last_global_explore": "2026-06-26T08:00:40.453047+00:00",
+  "last_discovery": "2026-06-26T08:00:40.453047+00:00",
+  "last_run_framing": "MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination",
+  "last_framing": "Run 62 domain-pivot from Run 61 CoT-vs-output-controllability + parallel-drafting + SAE-reasoning-features axes to MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination axes per Rule 27",
+  "last_run_notes": "Run 62 \u2014 3 fresh LLM-centric papers via web_search 4-query ROTATED-template escape hatch (Rule 26 \u2014 pivoted from Run 61 safety+reasoning/control+inference-eff+model-arch axes to retrieval-faithfulness+eval-method+model-arch-theory axes, with fresh axes: theory-ML + multi-agent-reasoning). HF pool CV/3D-heavy for 8th consecutive run (pitfall-83 streak extended to Runs 55-62). web_search surfaced 3 fresh LLM candidates after 5-store dedup, picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 61 axes to MoE theoretical task-routing + RAG knowledge-conflict-resolution + per-sample distributional decontamination axes. 3-axis DOMAIN-DIVERSITY PIVOT.",
   "last_pass_type": "emergent-concept",
   "last_run_method": "emergent_concept_search_via_web_search_4query_rotated_template_escape_hatch",
   "run_method": "emergent-concept",
   "last_run_added": 3,
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "CoT-monitorability + diffusion-inspired-parallel-drafting + SAE-discovered-latent-reasoning",
-  "emergent_theme": "CoT-monitorability + diffusion-inspired-parallel-drafting + SAE-discovered-latent-reasoning",
+  "emergent_concept_theme": "MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination",
+  "emergent_theme": "MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination",
   "chains_updated": 0,
-  "entities_count": 189,
+  "entities_count": 192,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3133,6 +3133,30 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-26T07:48:15.254813+00:00",
       "theme": "mechanistic-interpretability / SAE / latent-reasoning / SAE-feature-steering"
+    },
+    {
+      "arxiv_id": "2606.14398",
+      "title": "A Theoretical Model for Task Routing in Mixture-of-Expert Transformers",
+      "slug": "a-theoretical-model-for-task-routing-in-mixture-of-expert-transformers-2606.14398",
+      "url": "https://arxiv.org/abs/2606.14398",
+      "discovered": "2026-06-26T08:00:40.453047+00:00",
+      "theme": "MoE theory + task-routing + discrete-language"
+    },
+    {
+      "arxiv_id": "2606.20245",
+      "title": "Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference",
+      "slug": "navigating-unreliable-parametric-and-contextual-knowledge-explicit-knowledge-conflict-resolution-2606.20245",
+      "url": "https://arxiv.org/abs/2606.20245",
+      "discovered": "2026-06-26T08:00:40.453047+00:00",
+      "theme": "RAG knowledge-conflict + multi-agent-reasoning + both-sources-unreliable"
+    },
+    {
+      "arxiv_id": "2606.23313",
+      "title": "Uncertainty-based Debiasing and Unlearning for Decontamination",
+      "slug": "uncertainty-based-debiasing-and-unlearning-for-decontamination-2606.23313",
+      "url": "https://arxiv.org/abs/2606.23313",
+      "discovered": "2026-06-26T08:00:40.453047+00:00",
+      "theme": "decontamination + per-sample-distributional-distance + deep-ensemble-uncertainty"
     }
   ],
   "emergent_discoveries": [
@@ -4573,6 +4597,30 @@
       "url": "https://arxiv.org/abs/2601.08058",
       "discovered": "2026-06-26T07:48:15.254813+00:00",
       "theme": "mechanistic-interpretability / SAE / latent-reasoning / SAE-feature-steering"
+    },
+    {
+      "arxiv_id": "2606.14398",
+      "title": "A Theoretical Model for Task Routing in Mixture-of-Expert Transformers",
+      "slug": "a-theoretical-model-for-task-routing-in-mixture-of-expert-transformers-2606.14398",
+      "url": "https://arxiv.org/abs/2606.14398",
+      "discovered": "2026-06-26T08:00:40.453047+00:00",
+      "theme": "MoE theory + task-routing + discrete-language"
+    },
+    {
+      "arxiv_id": "2606.20245",
+      "title": "Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference",
+      "slug": "navigating-unreliable-parametric-and-contextual-knowledge-explicit-knowledge-conflict-resolution-2606.20245",
+      "url": "https://arxiv.org/abs/2606.20245",
+      "discovered": "2026-06-26T08:00:40.453047+00:00",
+      "theme": "RAG knowledge-conflict + multi-agent-reasoning + both-sources-unreliable"
+    },
+    {
+      "arxiv_id": "2606.23313",
+      "title": "Uncertainty-based Debiasing and Unlearning for Decontamination",
+      "slug": "uncertainty-based-debiasing-and-unlearning-for-decontamination-2606.23313",
+      "url": "https://arxiv.org/abs/2606.23313",
+      "discovered": "2026-06-26T08:00:40.453047+00:00",
+      "theme": "decontamination + per-sample-distributional-distance + deep-ensemble-uncertainty"
     }
   ],
   "emergent_concept_search_log": [
@@ -6453,6 +6501,19 @@
         "a-latent-computational-mode-in-large-language-models-2601.08058"
       ],
       "notes": "Rule 26+33 forward-discipline pivot from Run 60 axes (i)+(v)+(vi) to (ii)+(iii)+(iv) \u2014 surfaced CoT-Controllability + DART + Latent-Computational-Mode from safety/reasoning-control/inference-eff/eval axes"
+    },
+    {
+      "run_number": 62,
+      "timestamp": "2026-06-26T08:00:40.453047+00:00",
+      "method": "web_search_4query_rotated_template",
+      "queries_used": [
+        "MoE task routing theory",
+        "RAG knowledge conflict resolution multi-agent",
+        "LLM decontamination uncertainty debiasing"
+      ],
+      "candidates_surfaced": 3,
+      "candidates_picked": 3,
+      "axes_pivoted": "MoE theory + RAG knowledge-conflict + per-sample distributional decontamination"
     }
   ],
   "runs": [
@@ -7143,6 +7204,30 @@
         "mechanistic-interpretability / SAE / latent-reasoning / SAE-feature-steering"
       ],
       "notes": "Run 61 \u2014 3 new entity pages from emergent-concept search via web_search 4-query ROTATED-template escape hatch (HF pool CV/3D-heavy for 7th consecutive run \u2014 pitfall-83 streak extended to Runs 55-61; HF daily v2 data-props returned 0, v3 href-regex fallback returned 18 papers but only 5 fresh after 5-store dedup and only 2 LLM-keyword-matched and neither was strong; web_search template rotated per Rule 26+33 forward-discipline from Run 60 memory+agent-eval+retrieval+alignment axes to safety+reasoning/control+inference-eff+training-data+model-arch+eval-method axes; surfaced 9 fresh LLM candidates after 5-store dedup; picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 60 LRM-trace-diagnostics + multi-turn-reasoning-safety + long-horizon-planning-failure-mechanism axes to CoT-monitorability-controllability-asymmetry + diffusion-inspired-parallel-drafting + SAE-isolated-latent-reasoning-features axes) \u2014 3-axis DOMAIN-DIVERSITY PIVOT"
+    },
+    {
+      "run_number": 62,
+      "timestamp": "2026-06-26T08:00:40.453047+00:00",
+      "method": "emergent_concept_search_via_web_search_4query_rotated_template_escape_hatch",
+      "candidates_surfaced": 3,
+      "candidates_picked": 3,
+      "theme": "MoE theoretical task-routing + RAG knowledge-conflict-resolution + per-sample distributional decontamination",
+      "axes_pivoted_from": "CoT-vs-output-controllability + parallel-drafting + SAE-reasoning-features (Run 61)",
+      "notes": "Run 62 \u2014 3-axis DOMAIN-DIVERSITY PIVOT to MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination axes. HF pool CV/3D-heavy for 8th consecutive run (pitfall-83 streak). web_search 4-query ROTATED-template per Rule 26.",
+      "picks": [
+        {
+          "arxiv_id": "2606.14398",
+          "theme": "MoE theory + task-routing"
+        },
+        {
+          "arxiv_id": "2606.20245",
+          "theme": "RAG knowledge-conflict-resolution + multi-agent"
+        },
+        {
+          "arxiv_id": "2606.23313",
+          "theme": "per-sample distributional decontamination"
+        }
+      ]
     }
   ],
   "last_updated": "2026-06-26T07:48:15.254813+00:00",

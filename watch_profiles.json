@@ -856,7 +856,10 @@
         "274e193c28b392268e79cecde6845b89",
         "c7ed8a73c1e70c2459bd917acfee892e",
         "e75ce0734482a7a7a626f6917234ad70",
-        "d9267200a0612b103cbbcd123a0fc01b"
+        "d9267200a0612b103cbbcd123a0fc01b",
+        "d3ce30fdb19f2b5e72f6c9f12933928e",
+        "ebb1469fe8f39a88174a7e16a5c31892",
+        "fc7a4dbe58ec6769642af9c1c1a004a8"
       ],
       "last_results": [
         {
@@ -2408,7 +2411,10 @@
     "274e193c28b392268e79cecde6845b89",
     "c7ed8a73c1e70c2459bd917acfee892e",
     "e75ce0734482a7a7a626f6917234ad70",
-    "d9267200a0612b103cbbcd123a0fc01b"
+    "d9267200a0612b103cbbcd123a0fc01b",
+    "d3ce30fdb19f2b5e72f6c9f12933928e",
+    "ebb1469fe8f39a88174a7e16a5c31892",
+    "fc7a4dbe58ec6769642af9c1c1a004a8"
   ],
   "last_discovery": "2026-06-26T07:09:00+00:00",
   "last_updated": "2026-06-26T07:09:00+00:00",
@@ -2592,7 +2598,10 @@
       "274e193c28b392268e79cecde6845b89",
       "c7ed8a73c1e70c2459bd917acfee892e",
       "e75ce0734482a7a7a626f6917234ad70",
-      "d9267200a0612b103cbbcd123a0fc01b"
+      "d9267200a0612b103cbbcd123a0fc01b",
+      "d3ce30fdb19f2b5e72f6c9f12933928e",
+      "ebb1469fe8f39a88174a7e16a5c31892",
+      "fc7a4dbe58ec6769642af9c1c1a004a8"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",
