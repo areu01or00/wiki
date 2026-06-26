@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-26T08:33:38.233536+00:00",
-  "__last_updated": "2026-06-26T08:33:38.233536+00:00",
-  "last_run": "2026-06-26T08:33:38.233536+00:00",
-  "last_explore": "2026-06-26T08:33:38.233536+00:00",
-  "last_global_explore": "2026-06-26T08:33:38.233536+00:00",
-  "last_discovery": "2026-06-26T08:33:38.233536+00:00",
-  "last_run_framing": "reasoning-failure-mode + agent-scaling-science + audio-language-hybrid-AR-NAR",
-  "last_framing": "Run 64 domain-pivot from Run 63 attribution-guided-continual-learning + uncertainty-quantification-for-hallucination-detection + revisiting-parameter-based-knowledge-editing axes to reasoning-failure-mode-survey + science-of-scaling-agent-systems + audio-language-hybrid-AR-NAR-training axes per Rule 27 + Rule 36 combined-axis query bracketing agent-reasoning-in-deployment",
-  "last_run_notes": "Run 64 \u2014 3 fresh LLM-centric papers via web_search 4-query COMBINED-AXIS escape hatch (Rule 36 \u2014 pivoted from Rule 35 new-axis cluster to combined-axis query bracketing agent-reasoning-in-deployment primitive-class, axes: reasoning-failure-mode + agent-scaling + embodied-agent + text-to-X multimodal). HF pool CV/3D-heavy for 10th consecutive run (pitfall-83 streak extended to Runs 55-64). web_search surfaced 13 fresh LLM candidates after 5-store dedup, picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 63 axes to reasoning-failures-2-axis-taxonomy + science-of-scaling-agent-systems-predictive-model + audio-language-hybrid-AR-NAR-training axes. 3-axis DOMAIN-DIVERSITY PIVOT per Rule 36.",
+  "updated": "2026-06-26T09:00:00+00:00",
+  "__last_updated": "2026-06-26T09:00:00+00:00",
+  "last_run": "2026-06-26T09:00:00+00:00",
+  "last_explore": "2026-06-26T09:00:00+00:00",
+  "last_global_explore": "2026-06-26T09:00:00+00:00",
+  "last_discovery": "2026-06-26T09:00:00+00:00",
+  "last_run_framing": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
+  "last_framing": "Run 66 deep-sub-cluster rotation per Rule 36c \u2014 pivoted from Run 65 PROBE-AXIS training-side primitives (knowledge-distillation + SFT-vs-RL + multi-objective-prompt-optimization) to deployment-evaluation primitives (MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization)",
+  "last_run_notes": "Run 66 \u2014 3 fresh LLM-centric papers via web_search 4-query DEEP-SUB-CLUSTER-ROTATION escape hatch per Rule 36c (after Run 65 PROBE-AXIS escalation per Rule 36b). HF pool CV/3D-heavy for 12th consecutive run (pitfall-83 streak extended to Runs 55-66). HF daily v2 returned 18 + 33 + 29 papers across 2026-06-24/25/26 dates but only 14 fresh after 5-store dedup with only 6 borderline LLM-keyword-matched (CoffeeBench multi-agent-eval borderline, PhysiFormer mechanics, Fast LeWorldModel world model, UnityShots audio-video, FLAT/FLUX3D 3D). web_search surfaced 17 fresh LLM candidates via the deep-sub-cluster query template bracketing deployment-evaluation primitive-class (axes: LLM-evaluation framework benchmark + reasoning model robustness failure + multi-agent coordination benchmark + interpretability mechanistic circuit). Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 65 training-side primitives (on-policy-distillation + SFT-vs-RL + multi-objective-textual-gradient) to deployment-evaluation primitives (MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization). 3-axis DOMAIN-DIVERSITY DEEP-SUB-CLUSTER PIVOT per Rule 36c to architectural-bloat-as-failure-naming + sustainability-x-discrimination-as-co-designed + two-sided-honesty-retained-x-forgotten.",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "emergent_concept_search_via_web_search_4query_combined_axis_escape_hatch",
+  "last_run_method": "emergent_concept_search_via_web_search_4query_deep_sub_cluster_rotation_rule36c",
   "run_method": "emergent-concept",
   "last_run_added": 3,
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "reasoning-failure-mode + agent-scaling-science + audio-language-hybrid-AR-NAR",
-  "emergent_theme": "reasoning-failure-mode + agent-scaling-science + audio-language-hybrid-AR-NAR",
+  "emergent_concept_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
+  "emergent_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
   "chains_updated": 0,
-  "entities_count": 201,
+  "entities_count": 204,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3214,6 +3214,27 @@
       "title": "Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models",
       "slug": "supervised-fine-tuning-versus-reinforcement-learning-a-study-of-post-training-methods-for-large-language-models-2603.13985",
       "discovered": "2026-06-26T08:39:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.13003",
+      "slug": "the-illusion-of-multi-agent-advantage-2606.13003",
+      "title": "The Illusion of Multi-Agent Advantage",
+      "discovered": "2026-06-26T09:00:00+00:00",
+      "theme": "MAS-advantage-falsification / architectural-bloat-diagnosis / cost-adjusted-evaluation-primitive"
+    },
+    {
+      "arxiv_id": "2606.06462",
+      "slug": "benchmark-everything-everywhere-all-at-once-2606.06462",
+      "title": "Benchmark Everything Everywhere All at Once",
+      "discovered": "2026-06-26T09:00:00+00:00",
+      "theme": "automated-benchmark-regeneration / sustainability-x-discrimination-co-design / continual-evaluation-anti-saturation"
+    },
+    {
+      "arxiv_id": "2605.08765",
+      "slug": "unlearners-can-lie-evaluating-and-improving-honesty-in-llm-unlearning-2605.08765",
+      "title": "Unlearners Can Lie: Evaluating and Improving Honesty in LLM Unlearning",
+      "discovered": "2026-06-26T09:00:00+00:00",
+      "theme": "unlearning-honesty-formalization / two-sided-retained-forgotten-honesty / feature-randomized-fine-tuning-as-recovery"
     }
   ],
   "emergent_discoveries": [
@@ -4750,6 +4771,30 @@
       "url": "https://arxiv.org/abs/2603.13985",
       "discovered": "2026-06-26T08:39:00+00:00",
       "theme": "post-training / sft-vs-rl / unified-objective-family"
+    },
+    {
+      "arxiv_id": "2606.13003",
+      "title": "The Illusion of Multi-Agent Advantage",
+      "slug": "the-illusion-of-multi-agent-advantage-2606.13003",
+      "url": "https://arxiv.org/abs/2606.13003",
+      "discovered": "2026-06-26T09:00:00+00:00",
+      "theme": "MAS-advantage-falsification / architectural-bloat-diagnosis / cost-adjusted-evaluation-primitive"
+    },
+    {
+      "arxiv_id": "2606.06462",
+      "title": "Benchmark Everything Everywhere All at Once",
+      "slug": "benchmark-everything-everywhere-all-at-once-2606.06462",
+      "url": "https://arxiv.org/abs/2606.06462",
+      "discovered": "2026-06-26T09:00:00+00:00",
+      "theme": "automated-benchmark-regeneration / sustainability-x-discrimination-co-design / continual-evaluation-anti-saturation"
+    },
+    {
+      "arxiv_id": "2605.08765",
+      "title": "Unlearners Can Lie: Evaluating and Improving Honesty in LLM Unlearning",
+      "slug": "unlearners-can-lie-evaluating-and-improving-honesty-in-llm-unlearning-2605.08765",
+      "url": "https://arxiv.org/abs/2605.08765",
+      "discovered": "2026-06-26T09:00:00+00:00",
+      "theme": "unlearning-honesty-formalization / two-sided-retained-forgotten-honesty / feature-randomized-fine-tuning-as-recovery"
     }
   ],
   "emergent_concept_search_log": [
@@ -5804,6 +5849,33 @@
         "2512.08296",
         "2509.20072"
       ]
+    },
+    {
+      "timestamp": "2026-06-26T09:00:00+00:00",
+      "theme": "Run-66 emergent-concept DEEP-SUB-CLUSTER-ROTATION-rule-36c (MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization)",
+      "vectors_explored": [
+        "emergent-concept"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2606.13003",
+          "slug": "the-illusion-of-multi-agent-advantage-2606.13003"
+        },
+        {
+          "arxiv_id": "2606.06462",
+          "slug": "benchmark-everything-everywhere-all-at-once-2606.06462"
+        },
+        {
+          "arxiv_id": "2605.08765",
+          "slug": "unlearners-can-lie-evaluating-and-improving-honesty-in-llm-unlearning-2605.08765"
+        }
+      ],
+      "hf_pool_size": 80,
+      "hf_fresh": 14,
+      "hf_llm_matched": 6,
+      "web_search_surfaced": 17,
+      "rule_invoked": "Rule-36c-deep-sub-cluster-rotation",
+      "axis_cluster": "LLM-evaluation framework + reasoning-failure + multi-agent-coord + interpretability (deployment-evaluation cluster \u2014 DEEP-SUB-CLUSTER from previously-probed primitives)"
     }
   ],
   "emergent_concept_search_runs": [
@@ -7435,6 +7507,20 @@
       "web_search_surfaced": 8,
       "rule_invoked": "Rule-36-PROBE-AXIS-escalation",
       "axis_cluster": "knowledge-distillation + post-training + prompt-optimization (all NEW \u2014 never used in Runs 55-64)"
+    },
+    {
+      "run_number": 66,
+      "timestamp": "2026-06-26T09:00:00+00:00",
+      "method": "web_search_4query_deep_sub_cluster_rotation_rule36c",
+      "theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
+      "added_count": 3,
+      "hf_pool_state": "cv_3d_heavy_12th_consecutive_run_pitfall_83_streak_extended",
+      "rule_invocations": [
+        "Rule_15c_pitfall_83_escape_hatch",
+        "Rule_26_query_template_rotation",
+        "Rule_27_domain_diversity_pivot",
+        "Rule_36c_deep_sub_cluster_rotation"
+      ]
     }
   ],
   "last_updated": "2026-06-26T07:48:15.254813+00:00",

@@ -868,7 +868,10 @@
         "a21880a89cb954e21f685fc9b4b76bdc",
         "96248aa37e122ec88a0a426c509ba60d",
         "f0d652621ff880b77619ca7f2b3b8361",
-        "0e1a33827922204a353002438af14f84"
+        "0e1a33827922204a353002438af14f84",
+        "794cfbd2a8bec41cda9ce61368277029",
+        "f049d54daf9f2f9992dfd7e46e110a7c",
+        "d63e97014e95baba1beb6e83b4c157b1"
       ],
       "last_results": [
         {
@@ -2313,6 +2316,33 @@
           "chain": "emergent-concepts",
           "theme": "Run-65 emergent-concept PROBE-AXIS-rule-36",
           "discovered": "2026-06-26T08:39:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.13003",
+          "title": "The Illusion of Multi-Agent Advantage",
+          "hash": "794cfbd2a8bec41cda9ce61368277029",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "MAS-advantage-falsification / architectural-bloat-diagnosis / cost-adjusted-evaluation-primitive",
+          "discovered": "2026-06-26T09:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.06462",
+          "title": "Benchmark Everything Everywhere All at Once",
+          "hash": "f049d54daf9f2f9992dfd7e46e110a7c",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "automated-benchmark-regeneration / sustainability-x-discrimination-co-design / continual-evaluation-anti-saturation",
+          "discovered": "2026-06-26T09:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2605.08765",
+          "title": "Unlearners Can Lie: Evaluating and Improving Honesty in LLM Unlearning",
+          "hash": "d63e97014e95baba1beb6e83b4c157b1",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "unlearning-honesty-formalization / two-sided-retained-forgotten-honesty / feature-randomized-fine-tuning-as-recovery",
+          "discovered": "2026-06-26T09:00:00+00:00"
         }
       ],
       "last_run": "63",
@@ -2330,7 +2360,7 @@
       "updated_at": "2026-06-26T08:33:38.233536+00:00"
     }
   },
-  "last_run": "2026-06-26T07:09:00+00:00",
+  "last_run": "2026-06-26T09:00:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -2520,12 +2550,15 @@
     "a21880a89cb954e21f685fc9b4b76bdc",
     "96248aa37e122ec88a0a426c509ba60d",
     "f0d652621ff880b77619ca7f2b3b8361",
-    "0e1a33827922204a353002438af14f84"
+    "0e1a33827922204a353002438af14f84",
+    "794cfbd2a8bec41cda9ce61368277029",
+    "f049d54daf9f2f9992dfd7e46e110a7c",
+    "d63e97014e95baba1beb6e83b4c157b1"
   ],
-  "last_discovery": "2026-06-26T08:39:00+00:00",
-  "last_updated": "2026-06-26T07:09:00+00:00",
-  "__last_updated": "2026-06-26T06:54:00+00:00",
-  "last_explore": "2026-06-26T08:39:00+00:00",
+  "last_discovery": "2026-06-26T09:00:00+00:00",
+  "last_updated": "2026-06-26T09:00:00+00:00",
+  "__last_updated": "2026-06-26T09:00:00+00:00",
+  "last_explore": "2026-06-26T09:00:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -2716,7 +2749,10 @@
       "a21880a89cb954e21f685fc9b4b76bdc",
       "96248aa37e122ec88a0a426c509ba60d",
       "f0d652621ff880b77619ca7f2b3b8361",
-      "0e1a33827922204a353002438af14f84"
+      "0e1a33827922204a353002438af14f84",
+      "794cfbd2a8bec41cda9ce61368277029",
+      "f049d54daf9f2f9992dfd7e46e110a7c",
+      "d63e97014e95baba1beb6e83b4c157b1"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",
@@ -2789,7 +2825,7 @@
     "last_pass_type": "emergent_concept",
     "updated_at": "2026-06-26T08:33:38.233536+00:00"
   },
-  "last_pass_type": "emergent_concept_search_rotated_template",
+  "last_pass_type": "emergent-concept",
   "last_results": [
     {
       "arxiv_id": "2605.21768",
@@ -2877,6 +2913,33 @@
       "chain": "emergent-concepts",
       "theme": "Run-65 emergent-concept PROBE-AXIS-rule-36",
       "discovered": "2026-06-26T08:39:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.13003",
+      "title": "The Illusion of Multi-Agent Advantage",
+      "hash": "794cfbd2a8bec41cda9ce61368277029",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "MAS-advantage-falsification / architectural-bloat-diagnosis / cost-adjusted-evaluation-primitive",
+      "discovered": "2026-06-26T09:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.06462",
+      "title": "Benchmark Everything Everywhere All at Once",
+      "hash": "f049d54daf9f2f9992dfd7e46e110a7c",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "automated-benchmark-regeneration / sustainability-x-discrimination-co-design / continual-evaluation-anti-saturation",
+      "discovered": "2026-06-26T09:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2605.08765",
+      "title": "Unlearners Can Lie: Evaluating and Improving Honesty in LLM Unlearning",
+      "hash": "d63e97014e95baba1beb6e83b4c157b1",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "unlearning-honesty-formalization / two-sided-retained-forgotten-honesty / feature-randomized-fine-tuning-as-recovery",
+      "discovered": "2026-06-26T09:00:00+00:00"
     }
   ]
 }
