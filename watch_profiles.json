@@ -397,7 +397,7 @@
         "Wikipedia",
         "Watch",
         "Borrowing",
-        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
         "Monads Explained Without",
         "Haskell Foundation 2026 Update | Hacker News",
         "Words",
@@ -466,9 +466,9 @@
         "complexities!",
         "cs161",
         "data-structures",
-        "data-structures · GitHub Topics · GitHub",
+        "data-structures \u00b7 GitHub Topics \u00b7 GitHub",
         "datastructures-algorithms",
-        "datastructures-algorithms · GitHub Topics · GitHub",
+        "datastructures-algorithms \u00b7 GitHub Topics \u00b7 GitHub",
         "design",
         "dev",
         "dynamic",
@@ -528,7 +528,7 @@
         "Amazon Interview",
         "How to prepare for Data Structures & Algorithms interview in 2026",
         "Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)",
-        "LeetCode Isn't Dead in 2026 — But It's No Longer Enough",
+        "LeetCode Isn't Dead in 2026 \u2014 But It's No Longer Enough",
         "LeetCode Is Dead in 2026. Here Is What Top Companies Are ...",
         "Data Structures/Algorithms to go over the day of the test",
         "How to Pass Leetcode Interviews: The Ritual That Works",
@@ -563,7 +563,7 @@
         "Amazon Interview",
         "How to prepare for Data Structures & Algorithms interview in 2026",
         "Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)",
-        "LeetCode Isn't Dead in 2026 — But It's No Longer Enough",
+        "LeetCode Isn't Dead in 2026 \u2014 But It's No Longer Enough",
         "LeetCode Is Dead in 2026. Here Is What Top Companies Are ...",
         "Data Structures/Algorithms to go over the day of the test",
         "How to Pass Leetcode Interviews: The Ritual That Works",
@@ -850,7 +850,10 @@
         "e9f3b09037a0cc2b",
         "bfb35081736ebd055bb32270c619b04c",
         "1623d58bd69d6c8978ff5683463ac9d9",
-        "057b8d2616af7a33be2fdaf3acf21366"
+        "057b8d2616af7a33be2fdaf3acf21366",
+        "284e22a56e487ff429f4029aabc2dbb8",
+        "56e1e747c8afa552f363b0c4df39f924",
+        "274e193c28b392268e79cecde6845b89"
       ],
       "last_results": [
         {
@@ -1779,7 +1782,7 @@
           "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
           "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+          "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
           "hash": "7ab36c943c7ed17c0f69721152af09fe"
         },
         {
@@ -1787,7 +1790,7 @@
           "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
           "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+          "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
           "hash": "446988809068c935fed05a57aff202ec"
         },
         {
@@ -1795,7 +1798,7 @@
           "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
           "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+          "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
           "hash": "57e85705a7bf5bf397116e1cd3ef9c15"
         },
         {
@@ -2163,7 +2166,7 @@
           "slug": "discretizing-reward-models-2606.21795",
           "discovered_run": 59,
           "timestamp": "2026-06-26T06:54:00+00:00",
-          "source": "web_search escape hatch (rotated template — reasoning/control+safety+training-data+inference-eff axes)"
+          "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
         },
         {
           "arxiv_id": "2606.18967",
@@ -2178,17 +2181,35 @@
           "discovered_run": 59,
           "timestamp": "2026-06-26T06:54:00+00:00",
           "source": "web_search escape hatch (rotated template)"
+        },
+        {
+          "title": "ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models",
+          "arxiv_id": "2606.23404",
+          "url": "https://arxiv.org/abs/2606.23404",
+          "discovered": "2026-06-26T07:09:00+00:00"
+        },
+        {
+          "title": "When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models",
+          "arxiv_id": "2606.10740",
+          "url": "https://arxiv.org/abs/2606.10740",
+          "discovered": "2026-06-26T07:09:00+00:00"
+        },
+        {
+          "title": "Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents",
+          "arxiv_id": "2601.22311",
+          "url": "https://arxiv.org/abs/2601.22311",
+          "discovered": "2026-06-26T07:09:00+00:00"
         }
       ],
-      "last_run": "2026-06-26T06:54:00+00:00",
-      "last_updated": "2026-06-26T06:54:00+00:00",
+      "last_run": "2026-06-26T07:09:00+00:00",
+      "last_updated": "2026-06-26T07:09:00+00:00",
       "last_result_timestamp": "2026-06-26T06:09:00+00:00",
-      "last_run_key": "run-53",
+      "last_run_key": "Run-60-emergent-concept-search",
       "last_pass_type": "emergent_concept",
-      "last_discovery": "2026-06-26T06:09:00+00:00"
+      "last_discovery": "2026-06-26T07:09:00+00:00"
     }
   },
-  "last_run": "2026-06-26T06:54:00+00:00",
+  "last_run": "2026-06-26T07:09:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -2360,10 +2381,13 @@
     "e9f3b09037a0cc2b",
     "bfb35081736ebd055bb32270c619b04c",
     "1623d58bd69d6c8978ff5683463ac9d9",
-    "057b8d2616af7a33be2fdaf3acf21366"
+    "057b8d2616af7a33be2fdaf3acf21366",
+    "284e22a56e487ff429f4029aabc2dbb8",
+    "56e1e747c8afa552f363b0c4df39f924",
+    "274e193c28b392268e79cecde6845b89"
   ],
-  "last_discovery": "2026-06-26T06:09:00+00:00",
-  "last_updated": "2026-06-26T06:54:00+00:00",
+  "last_discovery": "2026-06-26T07:09:00+00:00",
+  "last_updated": "2026-06-26T07:09:00+00:00",
   "__last_updated": "2026-06-26T06:54:00+00:00",
   "last_explore": "2026-06-26T06:54:00+00:00",
   "llm-wiki": {
@@ -2538,11 +2562,14 @@
       "e9f3b09037a0cc2b",
       "bfb35081736ebd055bb32270c619b04c",
       "1623d58bd69d6c8978ff5683463ac9d9",
-      "057b8d2616af7a33be2fdaf3acf21366"
+      "057b8d2616af7a33be2fdaf3acf21366",
+      "284e22a56e487ff429f4029aabc2dbb8",
+      "56e1e747c8afa552f363b0c4df39f924",
+      "274e193c28b392268e79cecde6845b89"
     ],
-    "last_discovery": "2026-06-26T06:09:00+00:00",
-    "last_run": "2026-06-26T06:54:00+00:00",
-    "last_updated": "2026-06-26T06:54:00+00:00",
+    "last_discovery": "2026-06-26T07:09:00+00:00",
+    "last_run": "2026-06-26T07:09:00+00:00",
+    "last_updated": "2026-06-26T07:09:00+00:00",
     "last_results": [
       {
         "arxiv_id": "2605.21768",
@@ -2573,7 +2600,7 @@
         "slug": "discretizing-reward-models-2606.21795",
         "discovered_run": 59,
         "timestamp": "2026-06-26T06:54:00+00:00",
-        "source": "web_search escape hatch (rotated template — reasoning/control+safety+training-data+inference-eff axes)"
+        "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
       },
       {
         "arxiv_id": "2606.18967",
@@ -2588,6 +2615,24 @@
         "discovered_run": 59,
         "timestamp": "2026-06-26T06:54:00+00:00",
         "source": "web_search escape hatch (rotated template)"
+      },
+      {
+        "title": "ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models",
+        "arxiv_id": "2606.23404",
+        "url": "https://arxiv.org/abs/2606.23404",
+        "discovered": "2026-06-26T07:09:00+00:00"
+      },
+      {
+        "title": "When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models",
+        "arxiv_id": "2606.10740",
+        "url": "https://arxiv.org/abs/2606.10740",
+        "discovered": "2026-06-26T07:09:00+00:00"
+      },
+      {
+        "title": "Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents",
+        "arxiv_id": "2601.22311",
+        "url": "https://arxiv.org/abs/2601.22311",
+        "discovered": "2026-06-26T07:09:00+00:00"
       }
     ],
     "last_pass_type": "emergent_concept"
@@ -2620,7 +2665,7 @@
       "slug": "discretizing-reward-models-2606.21795",
       "discovered_run": 59,
       "timestamp": "2026-06-26T06:54:00+00:00",
-      "source": "web_search escape hatch (rotated template — reasoning/control+safety+training-data+inference-eff axes)"
+      "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
     },
     {
       "arxiv_id": "2606.18967",
@@ -2635,6 +2680,24 @@
       "discovered_run": 59,
       "timestamp": "2026-06-26T06:54:00+00:00",
       "source": "web_search escape hatch (rotated template)"
+    },
+    {
+      "title": "ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models",
+      "arxiv_id": "2606.23404",
+      "url": "https://arxiv.org/abs/2606.23404",
+      "discovered": "2026-06-26T07:09:00+00:00"
+    },
+    {
+      "title": "When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models",
+      "arxiv_id": "2606.10740",
+      "url": "https://arxiv.org/abs/2606.10740",
+      "discovered": "2026-06-26T07:09:00+00:00"
+    },
+    {
+      "title": "Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents",
+      "arxiv_id": "2601.22311",
+      "url": "https://arxiv.org/abs/2601.22311",
+      "discovered": "2026-06-26T07:09:00+00:00"
     }
   ]
 }
