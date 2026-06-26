@@ -3,29 +3,25 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-26T00:39:00+00:00",
-  "__last_updated": "2026-06-26T00:39:00+00:00",
-  "last_run": "2026-06-26T00:39:00+00:00",
-  "last_explore": "2026-06-26T00:39:00+00:00",
-  "last_global_explore": "2026-06-26T00:39:00+00:00",
+  "__last_updated": "2026-06-26T01:02:11+00:00",
+  "last_run": "2026-06-26T01:02:11+00:00",
+  "last_explore": "2026-06-26T01:02:11+00:00",
+  "last_global_explore": "2026-06-26T01:02:11+00:00",
   "last_discovery": "2026-06-26T00:39:00+00:00",
   "last_run_framing": "agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks)",
   "last_framing": "agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks)",
   "last_run_notes": "Run 37 — emergent-concept search. Theme-diversity: agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks). 3 picks spanning agent-runtime-design (BAGEN, budget-as-control-signal, first budget-awareness paper in wiki), agent-evaluation-methodology (Beyond-Static-Leaderboards, predictive-validity, first predictive-validity paper in wiki), and persistent-environment-benchmark (EvoArena, memory-evolution-tracking, first persistent-environment benchmark in wiki).",
-  "last_pass_type": "emergent_concept",
-  "last_run_method": "HF daily 3-day window + default page (4 sources, SVELTE_HYDRATER + raw_decode), 5-store dedup, web_search refinement for agent-evaluation candidates",
-  "run_method": "HF daily 3-day window + default page (4 sources, SVELTE_HYDRATER + raw_decode), 5-store dedup, web_search refinement for agent-evaluation candidates",
-  "last_run_added": [
-    "beyond-static-leaderboards-predictive-validity-evaluation-llm-agents-2606.19704",
-    "evoarena-tracking-memory-evolution-robust-llm-agents-dynamic-environments-2606.13681",
-    "bagen-are-llm-agents-budget-aware-2606.00198"
-  ],
+  "last_pass_type": "explore",
+  "last_run_method": "emergent-concept-search (HF daily + web_search escape hatch)",
+  "run_method": "emergent-concept-search",
+  "last_run_added": 3,
   "exploration_type": "emergent_concept",
-  "emergent_concept_theme": "agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks)",
-  "emergent_theme": "agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks)",
+  "emergent_concept_theme": "agent-evaluation-and-deployment-protocols",
+  "emergent_theme": "agent-evaluation-and-deployment-protocols",
   "chains_updated": [
     "emergent-concepts"
   ],
-  "entities_count": 120,
+  "entities_count": 123,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1048,6 +1044,33 @@
           "title": "BAGEN: Are LLM Agents Budget-Aware?",
           "url": "https://arxiv.org/abs/2606.00198",
           "discovered": "2026-06-26T00:39:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.21409",
+          "slug": "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
+          "title": "Don't Blindly Trust It: How Unreliable Feedback Breaks Tool-Using LLM Agents",
+          "url": "https://arxiv.org/abs/2606.21409",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-26T01:02:11+00:00",
+          "theme": "feedback-reliability-as-deployment-condition / tool-using-agent / value-inversion / controlled-matched-loop"
+        },
+        {
+          "arxiv_id": "2606.19787",
+          "slug": "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
+          "title": "ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?",
+          "url": "https://arxiv.org/abs/2606.19787",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-26T01:02:11+00:00",
+          "theme": "operations-research-agent / execution-grounded-benchmark / end-to-end-evaluation / formalization-silent-failure"
+        },
+        {
+          "arxiv_id": "2606.19135",
+          "slug": "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135",
+          "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
+          "url": "https://arxiv.org/abs/2606.19135",
+          "vector": "emergent_concept",
+          "discovered": "2026-06-26T01:02:11+00:00",
+          "theme": "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -2044,6 +2067,33 @@
       "vector": "emergent_concept",
       "discovered": "2026-06-26T00:39:00+00:00",
       "theme": "agent-budget-awareness-budget-as-control-signal"
+    },
+    {
+      "arxiv_id": "2606.21409",
+      "slug": "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
+      "title": "Don't Blindly Trust It: How Unreliable Feedback Breaks Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2606.21409",
+      "vector": "emergent_concept",
+      "discovered": "2026-06-26T01:02:11+00:00",
+      "theme": "feedback-reliability-as-deployment-condition / tool-using-agent / value-inversion / controlled-matched-loop"
+    },
+    {
+      "arxiv_id": "2606.19787",
+      "slug": "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
+      "title": "ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?",
+      "url": "https://arxiv.org/abs/2606.19787",
+      "vector": "emergent_concept",
+      "discovered": "2026-06-26T01:02:11+00:00",
+      "theme": "operations-research-agent / execution-grounded-benchmark / end-to-end-evaluation / formalization-silent-failure"
+    },
+    {
+      "arxiv_id": "2606.19135",
+      "slug": "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135",
+      "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
+      "url": "https://arxiv.org/abs/2606.19135",
+      "vector": "emergent_concept",
+      "discovered": "2026-06-26T01:02:11+00:00",
+      "theme": "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment"
     }
   ],
   "emergent_discoveries": [
@@ -2933,6 +2983,30 @@
       "title": "BAGEN: Are LLM Agents Budget-Aware?",
       "url": "https://arxiv.org/abs/2606.00198",
       "discovered": "2026-06-26T00:39:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.21409",
+      "slug": "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
+      "title": "Don't Blindly Trust It: How Unreliable Feedback Breaks Tool-Using LLM Agents",
+      "vector": "emergent_concept",
+      "discovered": "2026-06-26T01:02:11+00:00",
+      "theme": "feedback-reliability-as-deployment-condition / tool-using-agent / value-inversion / controlled-matched-loop"
+    },
+    {
+      "arxiv_id": "2606.19787",
+      "slug": "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
+      "title": "ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?",
+      "vector": "emergent_concept",
+      "discovered": "2026-06-26T01:02:11+00:00",
+      "theme": "operations-research-agent / execution-grounded-benchmark / end-to-end-evaluation / formalization-silent-failure"
+    },
+    {
+      "arxiv_id": "2606.19135",
+      "slug": "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135",
+      "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
+      "vector": "emergent_concept",
+      "discovered": "2026-06-26T01:02:11+00:00",
+      "theme": "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment"
     }
   ],
   "emergent_concept_search_log": [
@@ -3614,6 +3688,27 @@
       "title": "BAGEN: Are LLM Agents Budget-Aware?",
       "url": "https://arxiv.org/abs/2606.00198",
       "discovered": "2026-06-26T00:39:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.21409",
+      "slug": "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
+      "title": "Don't Blindly Trust It: How Unreliable Feedback Breaks Tool-Using LLM Agents",
+      "theme": "feedback-reliability-as-deployment-condition / tool-using-agent / value-inversion / controlled-matched-loop",
+      "discovered": "2026-06-26T01:02:11+00:00"
+    },
+    {
+      "arxiv_id": "2606.19787",
+      "slug": "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
+      "title": "ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?",
+      "theme": "operations-research-agent / execution-grounded-benchmark / end-to-end-evaluation / formalization-silent-failure",
+      "discovered": "2026-06-26T01:02:11+00:00"
+    },
+    {
+      "arxiv_id": "2606.19135",
+      "slug": "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135",
+      "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
+      "theme": "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment",
+      "discovered": "2026-06-26T01:02:11+00:00"
     }
   ],
   "emergent_concept_search_runs": [
@@ -4241,6 +4336,28 @@
       "thematic_framing": "agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks)",
       "dedup_rate": "61 raw → 11 fresh (5-store) → 8 LLM-keyword → +6 from web_search → 3 picks (BAGEN/EvoArena/Beyond-Static-Leaderboards)",
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-26T01:02:11+00:00",
+      "method": "emergent-concept-search (HF daily 4-source bulk + web_search arxiv-specific queries as escape hatch for thin HF pool)",
+      "papers": [
+        "2606.21409",
+        "2606.19787",
+        "2606.19135"
+      ],
+      "slugs": [
+        "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
+        "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
+        "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135"
+      ],
+      "themes": [
+        "feedback-reliability-as-deployment-condition / tool-using-agent / value-inversion / controlled-matched-loop",
+        "operations-research-agent / execution-grounded-benchmark / end-to-end-evaluation / formalization-silent-failure",
+        "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment"
+      ],
+      "thematic_framing": "agent-evaluation-and-deployment-protocols",
+      "dedup_rate": "19 fresh from HF + 9 fresh from web_search after 5-store dedup, 28 LLM-relevant total",
+      "pitfalls_hit": "NONE in main flow; pre-write ls|grep forward-prevention caught zero gaps; post-write Step 5.5 audit caught 2 broken wikilinks in ORAgentBench entity which were patched before commit"
     }
   ],
   "runs": [
@@ -4643,17 +4760,29 @@
       ],
       "entities_count_after": 120,
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "timestamp": "2026-06-26T01:02:11+00:00",
+      "mode": "emergent_concept",
+      "theme": "agent-evaluation-and-deployment-protocols (communication-protocols-taxonomy + feedback-reliability-controlled-comparison + execution-grounded-OR-benchmark)",
+      "papers_added": [
+        "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
+        "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
+        "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135"
+      ],
+      "entities_count_after": 123,
+      "pitfalls_hit": "NONE in main flow; pitfall-28 audit caught 2 broken wikilinks in ORAgentBench entity (act-as-a-real-researcher pre-fix + typo bench-tropt), fixed before commit"
     }
   ],
-  "last_updated": "2026-06-25T23:53:00+00:00",
-  "last_run_iso": "2026-06-26T00:08:00+00:00",
-  "total_entity_count": 114,
+  "last_updated": "2026-06-26T01:02:11+00:00",
+  "last_run_iso": "2026-06-26T01:02:11+00:00",
+  "total_entity_count": 123,
   "entity_files_added": [
-    "speaker-identity-non-verbal-vocalizations-conditional-distillation-mixture-experts-2606.21215",
-    "qg-mil-gated-transformer-aggregator-domain-agnostic-multiple-instance-learning-medical-2606.20027",
-    "robusto-2-benchmarking-humans-vlms-autonomous-driving-lima-new-york-city-2606.20980"
+    "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
+    "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
+    "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135"
   ],
-  "pass_type": "emergent_concept",
+  "pass_type": "explore",
   "emergent_discoveries_log": [
     {
       "timestamp": "2026-06-25T22:58:26.213594+00:00",
@@ -4671,6 +4800,24 @@
       ],
       "entities_count_after": 99,
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-26T01:02:11+00:00",
+      "arxiv_id": "2606.21409",
+      "slug": "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
+      "theme": "feedback-reliability-as-deployment-condition / tool-using-agent / value-inversion / controlled-matched-loop"
+    },
+    {
+      "ts": "2026-06-26T01:02:11+00:00",
+      "arxiv_id": "2606.19787",
+      "slug": "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
+      "theme": "operations-research-agent / execution-grounded-benchmark / end-to-end-evaluation / formalization-silent-failure"
+    },
+    {
+      "ts": "2026-06-26T01:02:11+00:00",
+      "arxiv_id": "2606.19135",
+      "slug": "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135",
+      "theme": "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment"
     }
   ]
 }

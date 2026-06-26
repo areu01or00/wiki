@@ -787,36 +787,12 @@
         "893f2825fe72106b040318d177985cd2",
         "464a0bb1914bc8f9f22f959178ff8e84",
         "74132b3805d7749f8d932043fcd8c448",
-        "eb83bd81e5c70044fe14ce094ddf154b"
+        "eb83bd81e5c70044fe14ce094ddf154b",
+        "a1deadc361ae8b81045775f04ccb6ff5",
+        "45d62741c0f1d8b82bb15b6a096e7902",
+        "e93e5bd354201e99f9e9671b96cf031c"
       ],
       "last_results": [
-        {
-          "arxiv_id": "2606.25605",
-          "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
-          "hash": "9a371266785cc8a1a4edd680e2bbe849",
-          "vector": "emergent_concept_search",
-          "chain": "emergent-concepts",
-          "theme": "tool-use / structured-output alignment",
-          "discovered": "2026-06-25T16:13:26.227468+00:00"
-        },
-        {
-          "arxiv_id": "2606.24033",
-          "title": "RoPE-Aware Bit Allocation for KV-Cache Quantization",
-          "hash": "ad7cd67e9f39fa346d36b75c623c03c8",
-          "vector": "emergent_concept_search",
-          "chain": "emergent-concepts",
-          "theme": "inference efficiency / KV-cache compression",
-          "discovered": "2026-06-25T16:13:26.227468+00:00"
-        },
-        {
-          "arxiv_id": "2606.25182",
-          "title": "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics",
-          "hash": "339968edc01332de74908945e0582c5d",
-          "vector": "emergent_concept_search",
-          "chain": "emergent-concepts",
-          "theme": "safety / jailbreak detection / mechanistic interpretability",
-          "discovered": "2026-06-25T16:13:26.227468+00:00"
-        },
         {
           "arxiv_id": "2606.25331",
           "title": "Improved Large Language Diffusion Models",
@@ -1671,6 +1647,30 @@
           "title": "BAGEN: Are LLM Agents Budget-Aware?",
           "hash": "eb83bd81e5c70044fe14ce094ddf154b",
           "discovered": "2026-06-26T00:39:00+00:00"
+        },
+        {
+          "hash": "a1deadc361ae8b81045775f04ccb6ff5",
+          "arxiv_id": "2606.21409",
+          "slug": "dont-blindly-trust-it-how-unreliable-feedback-breaks-tool-using-llm-agents-2606.21409",
+          "title": "Don't Blindly Trust It: How Unreliable Feedback Breaks Tool-Using LLM Agents",
+          "discovered": "2026-06-26T01:02:11+00:00",
+          "theme": "feedback-reliability-as-deployment-condition / tool-using-agent / value-inversion / controlled-matched-loop"
+        },
+        {
+          "hash": "45d62741c0f1d8b82bb15b6a096e7902",
+          "arxiv_id": "2606.19787",
+          "slug": "oragentbench-can-llm-agents-solve-challenging-operations-research-tasks-end-to-end-2606.19787",
+          "title": "ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?",
+          "discovered": "2026-06-26T01:02:11+00:00",
+          "theme": "operations-research-agent / execution-grounded-benchmark / end-to-end-evaluation / formalization-silent-failure"
+        },
+        {
+          "hash": "e93e5bd354201e99f9e9671b96cf031c",
+          "arxiv_id": "2606.19135",
+          "slug": "a-technical-taxonomy-of-llm-agent-communication-protocols-2606.19135",
+          "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
+          "discovered": "2026-06-26T01:02:11+00:00",
+          "theme": "llm-agent-protocols / multi-agent-infrastructure / inter-agent-communication / taxonomy / distributed-deployment"
         }
       ],
       "last_run": "2026-06-25T23:12:09.658648+00:00",
@@ -1680,7 +1680,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-26T00:39:00+00:00",
+  "last_run": "2026-06-26T01:02:11+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1789,12 +1789,15 @@
     "893f2825fe72106b040318d177985cd2",
     "464a0bb1914bc8f9f22f959178ff8e84",
     "74132b3805d7749f8d932043fcd8c448",
-    "eb83bd81e5c70044fe14ce094ddf154b"
+    "eb83bd81e5c70044fe14ce094ddf154b",
+    "a1deadc361ae8b81045775f04ccb6ff5",
+    "45d62741c0f1d8b82bb15b6a096e7902",
+    "e93e5bd354201e99f9e9671b96cf031c"
   ],
-  "last_discovery": "2026-06-26T00:39:00+00:00",
-  "last_updated": "2026-06-26T00:39:00+00:00",
-  "__last_updated": "2026-06-26T00:39:00+00:00",
-  "last_explore": "2026-06-26T00:39:00+00:00",
+  "last_discovery": "2026-06-26T01:02:11+00:00",
+  "last_updated": "2026-06-26T01:02:11+00:00",
+  "__last_updated": "2026-06-26T01:02:11+00:00",
+  "last_explore": "2026-06-26T01:02:11+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1904,11 +1907,14 @@
       "893f2825fe72106b040318d177985cd2",
       "464a0bb1914bc8f9f22f959178ff8e84",
       "74132b3805d7749f8d932043fcd8c448",
-      "eb83bd81e5c70044fe14ce094ddf154b"
+      "eb83bd81e5c70044fe14ce094ddf154b",
+      "a1deadc361ae8b81045775f04ccb6ff5",
+      "45d62741c0f1d8b82bb15b6a096e7902",
+      "e93e5bd354201e99f9e9671b96cf031c"
     ],
     "last_discovery": "2026-06-25T23:12:09.658648+00:00",
     "last_run": "2026-06-25T23:12:09.658648+00:00",
     "last_updated": "2026-06-25T23:12:09.658648+00:00"
   },
-  "last_pass_type": "emergent_concept"
+  "last_pass_type": "explore"
 }
