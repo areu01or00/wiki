@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-26T06:32:00+00:00",
   "__last_updated": "2026-06-26T06:32:00+00:00",
-  "last_run": "2026-06-26T06:32:00+00:00",
+  "last_run": "2026-06-26T06:54:00+00:00",
   "last_explore": "2026-06-26T06:32:00+00:00",
   "last_global_explore": "2026-06-26T06:32:00+00:00",
   "last_discovery": "2026-06-26T06:32:00+00:00",
-  "last_run_framing": "world-model-levels-x-laws-capability-regime + variational-hypersphere-data-curation + actionability-interpretability-evaluation-criteria",
+  "last_run_framing": "reward-model-oversensitivity-as-structural-failure-mode + system-aware-self-speculative-decoding-for-non-stationary-RL-rollouts + draft-and-verify-mechanism-for-lossless-inference",
   "last_framing": "world-model-levels-x-laws-capability-regime + variational-hypersphere-data-curation + actionability-interpretability-evaluation-criteria",
-  "last_run_notes": "Run 58 (2026-06-26T06:32:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template (HF pool CV/3D-heavy for 4th consecutive run \u2014 pitfall-83 streak confirmed at 4 runs, but web_search query-template rotated per pitfall-90/23 to escape Run 55-56-57 saturation: pivoted from process-reward+interpretability+tool-use-reliability+long-context (Runs 55-56-57) to evaluation-methodology+training-data+interpretability+world-model axes; surfaced 24 fresh LLM candidates and picked 3 structurally orthogonal picks pivoting per pitfall-91 domain-diversity tracker from Runs 55-57 agent-failure surfaces (memory-credit-assignment / trading-eval / silent-failure-mechanism + component-modular-failure-taxonomy) to world-model-as-agent-foundation + data-curation-geometry + interpretability-actionability axes); 3-axis pivot to levels-x-laws-capability-regime + variational-hypersphere-data-curation + concreteness-x-validation-evaluation-criteria",
+  "last_run_notes": "Run 58 (2026-06-26T06:32:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template (HF pool CV/3D-heavy for 4th consecutive run — pitfall-83 streak confirmed at 4 runs, but web_search query-template rotated per pitfall-90/23 to escape Run 55-56-57 saturation: pivoted from process-reward+interpretability+tool-use-reliability+long-context (Runs 55-56-57) to evaluation-methodology+training-data+interpretability+world-model axes; surfaced 24 fresh LLM candidates and picked 3 structurally orthogonal picks pivoting per pitfall-91 domain-diversity tracker from Runs 55-57 agent-failure surfaces (memory-credit-assignment / trading-eval / silent-failure-mechanism + component-modular-failure-taxonomy) to world-model-as-agent-foundation + data-curation-geometry + interpretability-actionability axes); 3-axis pivot to levels-x-laws-capability-regime + variational-hypersphere-data-curation + concreteness-x-validation-evaluation-criteria",
   "last_pass_type": "emergent_concept",
   "last_run_method": "web_search-4-query-rotated-template",
   "run_method": "emergent-concept-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "world-model-levels-x-laws-capability-regime + variational-hypersphere-data-curation + actionability-interpretability-evaluation-criteria",
   "emergent_theme": "world-model-levels-x-laws-capability-regime + variational-hypersphere-data-curation + actionability-interpretability-evaluation-criteria",
   "chains_updated": "2026-06-26T06:32:00+00:00",
-  "entities_count": 180,
+  "entities_count": 183,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1131,7 +1131,7 @@
           "url": "https://arxiv.org/abs/2606.07682",
           "vector": "ultra-long-horizon-benchmark-protocol",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
+          "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
         },
         {
           "arxiv_id": "2606.06448",
@@ -1140,7 +1140,7 @@
           "url": "https://arxiv.org/abs/2606.06448",
           "vector": "systems-level-memory-characterization",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
+          "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
         },
         {
           "arxiv_id": "2606.05614",
@@ -1149,7 +1149,7 @@
           "url": "https://arxiv.org/abs/2606.05614",
           "vector": "safety-awareness-as-vulnerability",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
+          "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
         },
         {
           "arxiv_id": "2606.04990",
@@ -2565,7 +2565,7 @@
       "url": "https://arxiv.org/abs/2606.07682",
       "vector": "ultra-long-horizon-benchmark-protocol",
       "discovered": "2026-06-26T02:01:10+00:00",
-      "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
+      "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
     },
     {
       "arxiv_id": "2606.06448",
@@ -2574,7 +2574,7 @@
       "url": "https://arxiv.org/abs/2606.06448",
       "vector": "systems-level-memory-characterization",
       "discovered": "2026-06-26T02:01:10+00:00",
-      "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
+      "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
     },
     {
       "arxiv_id": "2606.05614",
@@ -2583,7 +2583,7 @@
       "url": "https://arxiv.org/abs/2606.05614",
       "vector": "safety-awareness-as-vulnerability",
       "discovered": "2026-06-26T02:01:10+00:00",
-      "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
+      "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
     },
     {
       "arxiv_id": "2606.04990",
@@ -3025,6 +3025,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-26T06:32:00+00:00",
       "theme": "interpretability / actionability / evaluation-criteria / position-paper / mechanistic-interpretability / deployment / five-domain-leverage"
+    },
+    {
+      "arxiv_id": "2606.21795",
+      "title": "Discretizing Reward Models",
+      "slug": "discretizing-reward-models-2606.21795",
+      "url": "https://arxiv.org/abs/2606.21795",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T06:54:00+00:00",
+      "theme": "reward-modeling / RLHF / oversensitivity / discretization / verifiable-rewards-alignment / RL-post-training"
+    },
+    {
+      "arxiv_id": "2606.18967",
+      "title": "EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts",
+      "slug": "efficientrollout-system-aware-self-speculative-decoding-for-rl-rollouts-2606.18967",
+      "url": "https://arxiv.org/abs/2606.18967",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T06:54:00+00:00",
+      "theme": "inference-efficiency / speculative-decoding / RL-rollouts / non-stationary-weights / GPU-load-adaptation"
+    },
+    {
+      "arxiv_id": "2605.17613",
+      "title": "VeriCache: Turning Lossy KV Cache into Lossless LLM Inference",
+      "slug": "vericache-turning-lossy-kv-cache-into-lossless-llm-inference-2605.17613",
+      "url": "https://arxiv.org/abs/2605.17613",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T06:54:00+00:00",
+      "theme": "inference-systems / KV-cache-compression / draft-and-verify / lossless-inference / long-context"
     }
   ],
   "emergent_discoveries": [
@@ -3995,7 +4022,7 @@
       "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
       "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
       "url": "https://arxiv.org/abs/2606.07682",
-      "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+      "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
@@ -4003,7 +4030,7 @@
       "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
       "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
       "url": "https://arxiv.org/abs/2606.06448",
-      "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+      "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
@@ -4011,7 +4038,7 @@
       "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
       "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
       "url": "https://arxiv.org/abs/2606.05614",
-      "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+      "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
@@ -4393,6 +4420,30 @@
       "url": "https://arxiv.org/abs/2605.11161",
       "discovered": "2026-06-26T06:32:00+00:00",
       "theme": "interpretability / actionability / evaluation-criteria / position-paper / mechanistic-interpretability / deployment / five-domain-leverage"
+    },
+    {
+      "arxiv_id": "2606.21795",
+      "title": "Discretizing Reward Models",
+      "slug": "discretizing-reward-models-2606.21795",
+      "url": "https://arxiv.org/abs/2606.21795",
+      "discovered": "2026-06-26T06:54:00+00:00",
+      "theme": "reward-modeling / RLHF / oversensitivity / discretization / verifiable-rewards-alignment / RL-post-training"
+    },
+    {
+      "arxiv_id": "2606.18967",
+      "title": "EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts",
+      "slug": "efficientrollout-system-aware-self-speculative-decoding-for-rl-rollouts-2606.18967",
+      "url": "https://arxiv.org/abs/2606.18967",
+      "discovered": "2026-06-26T06:54:00+00:00",
+      "theme": "inference-efficiency / speculative-decoding / RL-rollouts / non-stationary-weights / GPU-load-adaptation"
+    },
+    {
+      "arxiv_id": "2605.17613",
+      "title": "VeriCache: Turning Lossy KV Cache into Lossless LLM Inference",
+      "slug": "vericache-turning-lossy-kv-cache-into-lossless-llm-inference-2605.17613",
+      "url": "https://arxiv.org/abs/2605.17613",
+      "discovered": "2026-06-26T06:54:00+00:00",
+      "theme": "inference-systems / KV-cache-compression / draft-and-verify / lossless-inference / long-context"
     }
   ],
   "emergent_concept_search_log": [
@@ -4938,7 +4989,7 @@
         "interpretability large-reasoning-models behavior-forecasting safety-trust-anchor"
       ],
       "thematic_framing": "theme-diversity: T2V-subject-driven-open-domain (DomainShuttle) + AR-diffusion-distillation-streaming-world-models (Causal-rCM) + LRM-behavior-forecasting-trust-anchor (Forecasting)",
-      "dedup_rate": "61 raw HF candidates \u2192 21 fresh after 5-store dedup \u2192 21 LLM-relevant",
+      "dedup_rate": "61 raw HF candidates → 21 fresh after 5-store dedup → 21 LLM-relevant",
       "pitfalls_hit": "NONE in main flow",
       "run_method": "hf_daily_emergent_concept_search",
       "parent_prepend_order": "date-DESC + reverse-insertion tiebreaker",
@@ -4962,8 +5013,8 @@
         "ocr-document-ai-kv-cache-attention-long-context",
         "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory"
       ],
-      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) \u2014 breaks recent generative-modeling-heavy streak",
-      "dedup_rate": "149 raw hits \u2192 117 unique arxiv IDs \u2192 34 fresh (filesystem dedup) \u2192 23 LLM-relevant"
+      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) — breaks recent generative-modeling-heavy streak",
+      "dedup_rate": "149 raw hits → 117 unique arxiv IDs → 34 fresh (filesystem dedup) → 23 LLM-relevant"
     },
     {
       "ts": "2026-06-25T23:39:00+00:00",
@@ -5098,7 +5149,7 @@
     },
     {
       "ts": "2026-06-26T01:17:00+00:00",
-      "candidates_surveyed": "62 HF (4 pages: default + 06-26 + 06-25 + 06-24; 06-26 page empty due to midnight UTC race) + 4 web_search queries (LLM agent memory + safety + training/reward) \u2192 21 fresh after 5-store dedup",
+      "candidates_surveyed": "62 HF (4 pages: default + 06-26 + 06-25 + 06-24; 06-26 page empty due to midnight UTC race) + 4 web_search queries (LLM agent memory + safety + training/reward) → 21 fresh after 5-store dedup",
       "picks": [
         "progress-advantage-neglected-free-lunch-post-training-llm-agents-2606.26080",
         "trustmem-trustworthy-memory-consolidation-llm-agents-long-term-memory-2606.25161",
@@ -5138,19 +5189,19 @@
     {
       "arxiv_id": "2606.07682",
       "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
-      "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+      "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
       "arxiv_id": "2606.06448",
       "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
-      "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+      "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
       "arxiv_id": "2606.05614",
       "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
-      "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+      "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
@@ -5193,7 +5244,7 @@
         "researcher-role-mimicry-benchmark"
       ],
       "thematic_framing": "rubric-conditioned-self-distillation + agent-skill-evolution-survey-four-paradigm-taxonomy + researcher-role-mimicry-benchmark (3-axis pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak-mechanism / Run 42 provenance+safety-measurement+prospective-research-judgment)",
-      "dedup_rate": "68 HF candidates \u2192 18 fresh \u2192 6 LLM-relevant; 4 web_search queries \u2192 3 fresh LLM-research picks; 5-store dedup invariant intact",
+      "dedup_rate": "68 HF candidates → 18 fresh → 6 LLM-relevant; 4 web_search queries → 3 fresh LLM-research picks; 5-store dedup invariant intact",
       "pitfalls_hit": "pitfall-66 (slug-from-title mismatch on 2 wikilinks, fixed via lookup_slug)"
     },
     {
@@ -5235,7 +5286,7 @@
         "memory-graph-reconstruction / dynamic-access / associative-graph"
       ],
       "thematic_framing": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling",
-      "dedup_rate": "127 HF \u2192 28 fresh \u2192 12 LLM-relevant; 10 web_search fresh \u2192 3 picks (1 HF, 2 web_search)",
+      "dedup_rate": "127 HF → 28 fresh → 12 LLM-relevant; 10 web_search fresh → 3 picks (1 HF, 2 web_search)",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -5360,7 +5411,7 @@
         "insight-self-guided-skill-acquisition-via-steerable-vlas-2606.24884",
         "eventvla-event-driven-visual-evidence-memory-for-long-horizon-vision-language-action-policies-2606.20092"
       ],
-      "method": "Run 53 RECOVERY (pitfall-81 protocol) \u2014 adopted leftover entity files + parent-updates from Run 52 (2026-06-26T04:55) that were never committed; no re-discovery",
+      "method": "Run 53 RECOVERY (pitfall-81 protocol) — adopted leftover entity files + parent-updates from Run 52 (2026-06-26T04:55) that were never committed; no re-discovery",
       "theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory (Run 52 3-axis pivot, completed at 05:08 UTC Run 53)"
     },
     {
@@ -5372,6 +5423,27 @@
       ],
       "method": "HF daily v2 (data-props extraction, Run 54)",
       "theme": "speculative-decoding-parallel-tree-drafting + biological-reasoning-post-training-composition + multimodal-explainability-cross-modal-shortcut-diagnosis (3-axis pivot from Run 50-53 streaks)"
+    },
+    {
+      "timestamp": "2026-06-26T06:54:00+00:00",
+      "arxiv_id": "2606.21795",
+      "slug": "discretizing-reward-models-2606.21795",
+      "theme": "reward-modeling / RLHF / oversensitivity / discretization / verifiable-rewards-alignment / RL-post-training",
+      "source": "web_search escape hatch (rotated template)"
+    },
+    {
+      "timestamp": "2026-06-26T06:54:00+00:00",
+      "arxiv_id": "2606.18967",
+      "slug": "efficientrollout-system-aware-self-speculative-decoding-for-rl-rollouts-2606.18967",
+      "theme": "inference-efficiency / speculative-decoding / RL-rollouts / non-stationary-weights / GPU-load-adaptation",
+      "source": "web_search escape hatch (rotated template)"
+    },
+    {
+      "timestamp": "2026-06-26T06:54:00+00:00",
+      "arxiv_id": "2605.17613",
+      "slug": "vericache-turning-lossy-kv-cache-into-lossless-llm-inference-2605.17613",
+      "theme": "inference-systems / KV-cache-compression / draft-and-verify / lossless-inference / long-context",
+      "source": "web_search escape hatch (rotated template)"
     }
   ],
   "emergent_concept_search_runs": [
@@ -5657,7 +5729,7 @@
         "robotics / latent-action-representation / factorize / flow-matching"
       ],
       "thematic_framing": "theme-diversity: T2I causal-reasoning counterfactual-benchmark + DiT evaluation discipline + robotics latent-action factorize",
-      "dedup_rate": "117 raw HF candidates across 4 sources \u2192 43 fresh after 5-store dedup \u2192 34 LLM-relevant",
+      "dedup_rate": "117 raw HF candidates across 4 sources → 43 fresh after 5-store dedup → 34 LLM-relevant",
       "pitfalls_hit": "NONE in main flow (new finding: ensure_ascii divergent stable state confirmed; 3-store lockstep path schema verified; wikilink audit covers both entity files AND parent-update new block)"
     },
     {
@@ -5680,7 +5752,7 @@
       ],
       "thematic_framing": "theme-diversity: T2V-physical-plausibility-eval (PQSG scene-graph) + federated-diffusion-watermarking (FedOT chunked-watermark + LVT) + visual-CoT-structure-aware-T2I (IV-CoT structural-to-semantic cascade)",
       "dedup_rate": "61 HF candidates -> 24 fresh after arxiv-ID dedup -> 18 LLM-relevant after keyword filter -> 3 picked",
-      "pitfalls_hit": "NONE in main flow (NEW: explicit date-DESC verification before prepend \u2014 sorted 24849/25306/22875 manually before writing)"
+      "pitfalls_hit": "NONE in main flow (NEW: explicit date-DESC verification before prepend — sorted 24849/25306/22875 manually before writing)"
     },
     {
       "ts": "2026-06-25T23:12:09.658648+00:00",
@@ -5701,7 +5773,7 @@
         "interpretability large-reasoning-models behavior-forecasting safety-trust-anchor"
       ],
       "thematic_framing": "theme-diversity: T2V-subject-driven-open-domain (DomainShuttle) + AR-diffusion-distillation-streaming-world-models (Causal-rCM) + LRM-behavior-forecasting-trust-anchor (Forecasting)",
-      "dedup_rate": "61 raw HF candidates \u2192 21 fresh after 5-store dedup \u2192 21 LLM-relevant",
+      "dedup_rate": "61 raw HF candidates → 21 fresh after 5-store dedup → 21 LLM-relevant",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -5722,8 +5794,8 @@
         "ocr-document-ai-kv-cache-attention-long-context",
         "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory"
       ],
-      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) \u2014 breaks recent generative-modeling-heavy streak",
-      "dedup_rate": "149 raw hits \u2192 117 unique arxiv IDs \u2192 34 fresh (filesystem dedup) \u2192 23 LLM-relevant",
+      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) — breaks recent generative-modeling-heavy streak",
+      "dedup_rate": "149 raw hits → 117 unique arxiv IDs → 34 fresh (filesystem dedup) → 23 LLM-relevant",
       "pitfalls_hit": "NONE in main flow (placeholder-slug forward-looking-broken-wikilink caught pre-write; replaced via lookup_slug with real existing entity)"
     },
     {
@@ -5745,7 +5817,7 @@
         "flow-matching / t2i-safety / velocity-editing / training-free / concept-removal / few-step-distillation"
       ],
       "thematic_framing": "streaming-interactive + capture-time-photography + flow-matching-safety",
-      "dedup_rate": "117 raw \u2192 31 fresh \u2192 31 LLM-relevant (73.5% dedup rate)",
+      "dedup_rate": "117 raw → 31 fresh → 31 LLM-relevant (73.5% dedup rate)",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -5767,7 +5839,7 @@
         "computer-use-agents / skill-curation / runtime-safety-gating / continual-learning / harness-as-intermediary"
       ],
       "thematic_framing": "theme-diversity breaking diffusion-heavy streak: NLP/interpretability + mobile-GUI-agent + CUA-safety",
-      "dedup_rate": "117 HF candidates \u2192 28 fresh after 5-store dedup \u2192 3 picks (theme-diverse)",
+      "dedup_rate": "117 HF candidates → 28 fresh after 5-store dedup → 3 picks (theme-diverse)",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -5833,7 +5905,7 @@
         "agent-budget-awareness-budget-as-control-signal"
       ],
       "thematic_framing": "agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks)",
-      "dedup_rate": "61 raw \u2192 11 fresh (5-store) \u2192 8 LLM-keyword \u2192 +6 from web_search \u2192 3 picks (BAGEN/EvoArena/Beyond-Static-Leaderboards)",
+      "dedup_rate": "61 raw → 11 fresh (5-store) → 8 LLM-keyword → +6 from web_search → 3 picks (BAGEN/EvoArena/Beyond-Static-Leaderboards)",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -5877,8 +5949,8 @@
         "mechanistic-safety-geometry / logit-level-steering / linear-feature / bidirectional-defense"
       ],
       "thematic_framing": "post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry (pivots from Run 38 agent-evaluation-deployment streak to three genuinely distinct surfaces: free step-level scoring byproduct from RL post-training; memory-update-transition reliability along coverage/preservation/faithfulness axes; mechanistic safety geometry where refusal is a linearly decodable feature with architectural phase transitions and bidirectional exploit/defend control)",
-      "dedup_rate": "62 HF candidates (CV/3D-heavy pool) \u2192 12 fresh after 5-store dedup \u2192 5 LLM-relevant HF; 4 web_search queries surfaced 16 fresh candidates; combined \u2192 21 fresh total \u2192 3 picks",
-      "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass \u2014 fixed via patch with existing-entity siblings"
+      "dedup_rate": "62 HF candidates (CV/3D-heavy pool) → 12 fresh after 5-store dedup → 5 LLM-relevant HF; 4 web_search queries surfaced 16 fresh candidates; combined → 21 fresh total → 3 picks",
+      "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass — fixed via patch with existing-entity siblings"
     },
     {
       "ts": "2026-06-26T01:42:00+00:00",
@@ -5898,13 +5970,13 @@
         "tool-use-memory-mechanism + reflection-based-extraction",
         "ontology-grounded-pre-deployment-verification + trust-certification"
       ],
-      "thematic_framing": "operational-infrastructure-for-agents \u2014 tool-use-memory + formal-pre-deployment-verification + automated-scientific-review (3 axes distinct from Run 37-38 agent-eval streak and Run 39 post-training+memory+safety-mechanism streak)",
+      "thematic_framing": "operational-infrastructure-for-agents — tool-use-memory + formal-pre-deployment-verification + automated-scientific-review (3 axes distinct from Run 37-38 agent-eval streak and Run 39 post-training+memory+safety-mechanism streak)",
       "dedup_rate": "12-of-62-fresh-HF + 14-fresh-web-search / 117-existing",
       "pitfalls_hit": "NONE in main flow"
     },
     {
       "ts": "2026-06-26T02:01:10+00:00",
-      "method": "HF daily (4 sources) + web_search (4 queries \u2014 agent memory, safety, training) + 5-store dedup",
+      "method": "HF daily (4 sources) + web_search (4 queries — agent memory, safety, training) + 5-store dedup",
       "papers": [
         "2606.07682",
         "2606.06448",
@@ -5916,12 +5988,12 @@
         "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614"
       ],
       "themes": [
-        "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
-        "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
-        "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
+        "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+        "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+        "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
       ],
       "thematic_framing": "ultra-long-horizon-benchmark-protocol + systems-level-memory-characterization + jailbreak-mechanism-discovery (3 axes structurally orthogonal to Run 37-38 eval-deployment, Run 39 post-training/memory/safety, Run 40 operational-infrastructure)",
-      "dedup_rate": "14 fresh HF, 11 fresh web_search = 25 fresh candidates \u2192 3 picks after LLM-keyword filter + theme-pivot discipline",
+      "dedup_rate": "14 fresh HF, 11 fresh web_search = 25 fresh candidates → 3 picks after LLM-keyword filter + theme-pivot discipline",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -5965,7 +6037,7 @@
         "researcher-role-mimicry-benchmark"
       ],
       "thematic_framing": "rubric-conditioned-self-distillation + agent-skill-evolution-survey + researcher-role-mimicry-benchmark (3-axis pivot)",
-      "dedup_rate": "68 HF \u2192 18 fresh \u2192 6 LLM-relevant; 4 web_search queries \u2192 3 fresh picks",
+      "dedup_rate": "68 HF → 18 fresh → 6 LLM-relevant; 4 web_search queries → 3 fresh picks",
       "pitfalls_hit": "pitfall-66 fixed"
     },
     {
@@ -5987,7 +6059,7 @@
         "environment-grounded-eval / smart-home-agent / sustained-agency-benchmark"
       ],
       "thematic_framing": "on-policy-skill-distillation-for-agentic-RL + randomized-YaRN-length-generalization + SMH-Bench-environment-grounded-smart-home-eval (3-axis pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak / Run 42 provenance+safety-measurement+prospective-research / Run 43 rubric-self-distill+skill-survey+researcher-mimicry)",
-      "dedup_rate": "125 HF \u2192 27 fresh \u2192 9 LLM-relevant; 2 web_search batches; 3 picks from HF + meta-search",
+      "dedup_rate": "125 HF → 27 fresh → 9 LLM-relevant; 2 web_search batches; 3 picks from HF + meta-search",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -6009,7 +6081,7 @@
         "memory-graph-reconstruction / dynamic-access / associative-graph"
       ],
       "thematic_framing": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling",
-      "dedup_rate": "127 HF \u2192 28 fresh \u2192 12 LLM-relevant; 10 web_search fresh \u2192 3 picks",
+      "dedup_rate": "127 HF → 28 fresh → 12 LLM-relevant; 10 web_search fresh → 3 picks",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -6032,7 +6104,7 @@
       ],
       "thematic_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision (3-axis pivot from Run 38-45 streaks; adopted from leftover Run 46 state)",
       "dedup_rate": "128 HF -> 29 fresh LLM-relevant + web_search -> 3 picks",
-      "pitfalls_hit": "NONE in main flow (left-over state from prior session adopted \u2014 see Run 46 lessons)"
+      "pitfalls_hit": "NONE in main flow (left-over state from prior session adopted — see Run 46 lessons)"
     },
     {
       "ts": "2026-06-26T03:39:12+00:00",
@@ -6147,7 +6219,7 @@
     },
     {
       "ts": "2026-06-26T05:08:00+00:00",
-      "method": "Run 53 RECOVERY \u2014 pitfall-81 mid-run recovery protocol",
+      "method": "Run 53 RECOVERY — pitfall-81 mid-run recovery protocol",
       "theme": "Run 52 picks completed (Hallucination-World-Models + InSight + EventVLA)"
     },
     {
@@ -6452,7 +6524,7 @@
         "2606.21670"
       ],
       "count": 3,
-      "notes": "3 new entity pages from emergent-concept search on HF 4-source window (2026-06-25 / 2026-06-24 / 2026-06-23 / default): V-Zero (MLLM post-training label-free on-policy-distillation + contrastive-evidence-gating), Foresight (robotics long-horizon-manipulation failure-detection with action-conditioned world-model latents + conformal-prediction calibration), Improving Text-to-Music Generation with Human Preference Rewards (ATTM ICME 2026 efficiency-track entry using TuneJury twin pairwise ranker + expert iteration on a 120M FluxAudio-S backbone). Theme-diversity: MLLM post-training + robotics safety monitoring + creative-multimodal preference \u2014 continues non-agent-heavy streak."
+      "notes": "3 new entity pages from emergent-concept search on HF 4-source window (2026-06-25 / 2026-06-24 / 2026-06-23 / default): V-Zero (MLLM post-training label-free on-policy-distillation + contrastive-evidence-gating), Foresight (robotics long-horizon-manipulation failure-detection with action-conditioned world-model latents + conformal-prediction calibration), Improving Text-to-Music Generation with Human Preference Rewards (ATTM ICME 2026 efficiency-track entry using TuneJury twin pairwise ranker + expert iteration on a 120M FluxAudio-S backbone). Theme-diversity: MLLM post-training + robotics safety monitoring + creative-multimodal preference — continues non-agent-heavy streak."
     },
     {
       "timestamp": "2026-06-25T22:42:42.604070+00:00",
@@ -6584,7 +6656,7 @@
         "geometry-of-refusal-linear-instability-safety-aligned-llms-2606.22686"
       ],
       "entities_count_after": 126,
-      "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass \u2014 fixed by replacing with existing-entity siblings (Learning-from-Your-Own-Mistakes + Escaping-Self-Confirmation-Trap + ReNIO + PlanBench-XL)"
+      "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass — fixed by replacing with existing-entity siblings (Learning-from-Your-Own-Mistakes + Escaping-Self-Confirmation-Trap + ReNIO + PlanBench-XL)"
     },
     {
       "timestamp": "2026-06-26T01:42:00+00:00",
@@ -6656,7 +6728,7 @@
         "memory-is-reconstructed-not-retrieved-graph-memory-llm-agents-2606.06036"
       ],
       "entities_count_after": 144,
-      "pitfalls_hit": "NONE in main flow; pre-write ls|grep caught how-inference-compute forward-looking unpicked-candidate wikilink before write \u2014 replaced with Periodic-Table-of-LLM-Reasoning"
+      "pitfalls_hit": "NONE in main flow; pre-write ls|grep caught how-inference-compute forward-looking unpicked-candidate wikilink before write — replaced with Periodic-Table-of-LLM-Reasoning"
     },
     {
       "timestamp": "2026-06-26T03:25:00+00:00",
@@ -6705,7 +6777,7 @@
         "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642"
       ],
       "entities_count_after": 153,
-      "pitfalls_hit": "NONE in main flow; adopted leftover sibling-session state per pitfall-73 \u2014 prior commit 7ee84ee (03:54 UTC) had already added entity files + parent block + state hash entries; my cron session verified all 4 phase audits pass and added only the Run 48 run-record marker + 3-store lockstep timestamp update"
+      "pitfalls_hit": "NONE in main flow; adopted leftover sibling-session state per pitfall-73 — prior commit 7ee84ee (03:54 UTC) had already added entity files + parent block + state hash entries; my cron session verified all 4 phase audits pass and added only the Run 48 run-record marker + 3-store lockstep timestamp update"
     },
     {
       "timestamp": "2026-06-26T04:16:07.483914+00:00",
@@ -6784,7 +6856,7 @@
         "2605.01687"
       ],
       "run_number": 56,
-      "notes": "Run 56: HF pool CV/3D-heavy again (FLAT, FLUX3D, Semantic-Browsing, UnityShots, WordArt-OCR, Lite-Any-Stereo V2, ViQ, PhysiFormer, LeWorldModel \u2014 all 9 fresh CV/3D/video candidates), fired web_search 4-query escape hatch per pitfall-83; surfaced 14 fresh LLM candidates across memory/agent/safety axes; picked 3 structurally orthogonal picks: Memory-R2 (local-rerollouts-as-trajectory-comparison-fairness-primitive for memory-agent RL credit assignment), Agentic-Trading (protocol-coded-evidence-ledger-as-trading-agent-evaluation-primitive with R0-R3 reproducibility audit, first financial-domain entity in wiki), MultiBreak (multi-turn-active-learning-adversarial-coevolution-as-safety-benchmark-primitive with benign-category-blind-spot finding); 3-axis pivot from Run 55 memory-policy/agentic-reasoning/mechanistic-interpretability streaks to memory-credit-assignment/trading-evaluation-protocol/multi-turn-jailbreak axes"
+      "notes": "Run 56: HF pool CV/3D-heavy again (FLAT, FLUX3D, Semantic-Browsing, UnityShots, WordArt-OCR, Lite-Any-Stereo V2, ViQ, PhysiFormer, LeWorldModel — all 9 fresh CV/3D/video candidates), fired web_search 4-query escape hatch per pitfall-83; surfaced 14 fresh LLM candidates across memory/agent/safety axes; picked 3 structurally orthogonal picks: Memory-R2 (local-rerollouts-as-trajectory-comparison-fairness-primitive for memory-agent RL credit assignment), Agentic-Trading (protocol-coded-evidence-ledger-as-trading-agent-evaluation-primitive with R0-R3 reproducibility audit, first financial-domain entity in wiki), MultiBreak (multi-turn-active-learning-adversarial-coevolution-as-safety-benchmark-primitive with benign-category-blind-spot finding); 3-axis pivot from Run 55 memory-policy/agentic-reasoning/mechanistic-interpretability streaks to memory-credit-assignment/trading-evaluation-protocol/multi-turn-jailbreak axes"
     },
     {
       "timestamp": "2026-06-26T06:09:00+00:00",
@@ -6802,7 +6874,7 @@
         "2509.25370"
       ],
       "run_number": 57,
-      "notes": "Run 57 (2026-06-26T06:09:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch (HF pool CV/3D-heavy for 3rd consecutive run \u2014 pitfall-83 fires again with 10 fresh non-LLM candidates; web_search surfaced 8 fresh LLM candidates, picked top 3 structurally orthogonal picks covering silent-failure-mechanism + production-runtime-failure-classification + modular-failure-taxonomy axes); 3-axis pivot from Run 55-56 memory-credit-assignment / trading-evaluation / multi-turn-jailbreak streaks to silent-failure / production-runtime / component-modular-failure-taxonomy axes"
+      "notes": "Run 57 (2026-06-26T06:09:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch (HF pool CV/3D-heavy for 3rd consecutive run — pitfall-83 fires again with 10 fresh non-LLM candidates; web_search surfaced 8 fresh LLM candidates, picked top 3 structurally orthogonal picks covering silent-failure-mechanism + production-runtime-failure-classification + modular-failure-taxonomy axes); 3-axis pivot from Run 55-56 memory-credit-assignment / trading-evaluation / multi-turn-jailbreak streaks to silent-failure / production-runtime / component-modular-failure-taxonomy axes"
     },
     {
       "timestamp": "2026-06-26T06:32:00+00:00",
@@ -6820,10 +6892,28 @@
         "2605.11161"
       ],
       "run_number": 58,
-      "notes": "Run 58 (2026-06-26T06:32:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template (HF pool CV/3D-heavy for 4th consecutive run \u2014 pitfall-83 streak confirmed at 4 runs, but web_search query-template rotated per pitfall-90/23 to escape Run 55-56-57 saturation: pivoted from process-reward+interpretability+tool-use-reliability+long-context (Runs 55-56-57) to evaluation-methodology+training-data+interpretability+world-model axes; surfaced 24 fresh LLM candidates and picked 3 structurally orthogonal picks pivoting per pitfall-91 domain-diversity tracker from Runs 55-57 agent-failure surfaces (memory-credit-assignment / trading-eval / silent-failure-mechanism + component-modular-failure-taxonomy) to world-model-as-agent-foundation + data-curation-geometry + interpretability-actionability axes); 3-axis pivot to levels-x-laws-capability-regime + variational-hypersphere-data-curation + concreteness-x-validation-evaluation-criteria"
+      "notes": "Run 58 (2026-06-26T06:32:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template (HF pool CV/3D-heavy for 4th consecutive run — pitfall-83 streak confirmed at 4 runs, but web_search query-template rotated per pitfall-90/23 to escape Run 55-56-57 saturation: pivoted from process-reward+interpretability+tool-use-reliability+long-context (Runs 55-56-57) to evaluation-methodology+training-data+interpretability+world-model axes; surfaced 24 fresh LLM candidates and picked 3 structurally orthogonal picks pivoting per pitfall-91 domain-diversity tracker from Runs 55-57 agent-failure surfaces (memory-credit-assignment / trading-eval / silent-failure-mechanism + component-modular-failure-taxonomy) to world-model-as-agent-foundation + data-curation-geometry + interpretability-actionability axes); 3-axis pivot to levels-x-laws-capability-regime + variational-hypersphere-data-curation + concreteness-x-validation-evaluation-criteria"
+    },
+    {
+      "timestamp": "2026-06-26T06:54:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "reward-model-oversensitivity-as-structural-failure-mode + system-aware-self-speculative-decoding-for-non-stationary-RL-rollouts + draft-and-verify-mechanism-for-lossless-inference",
+      "method": "web_search-4-query-rotated-template-streak-rotation",
+      "picks": [
+        "2606.21795",
+        "2606.18967",
+        "2605.17613"
+      ],
+      "arxiv_ids": [
+        "2606.21795",
+        "2606.18967",
+        "2605.17613"
+      ],
+      "run_number": 59,
+      "notes": "Run 59 (2026-06-26T06:54:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template — HF pool CV/3D-heavy for 5th consecutive run (pitfall-83 streak extended to 5 runs: Runs 55+56+57+58+59), HF daily v2 (data-props) returned 0, v3 href-regex fallback returned 17 papers but only 5 fresh after 5-store dedup and only 1 LLM-keyword-matched (Discretizing-Reward-Models); web_search template rotated per Rule 26/27 from Run 58 evaluation-methodology+training-data+interpretability+world-model axes to reasoning/control+safety+training-data+inference-eff axes (memory+agent-eval cluster and alignment+planning cluster avoided because Runs 55-57 used memory/safety reasoning templates); 4 queries fired (chain-of-thought-planner-agent + alignment-constitutional-safety-benchmark + training-data-curation-quality-scoring + inference-efficiency-speculative-KV-cache) surfaced 5 fresh LLM candidates after 5-store dedup (3 already in wiki: 2606.03965 ACTS, 2601.12538 Agentic-Reasoning survey, 2606.25750 RAS; 5 fresh: 2603.14420 DataEvolve, 2605.05227 Online-Reweighting, 2606.18967 EfficientRollout, 2605.17613 VeriCache, 2606.21795 Discretizing-Reward-Models); picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 58 world-model/data-curation/interpretability-actionability to reward-model-quality + RL-rollout-latency + inference-systems-lossless-recovery axes; deliberately avoided 2603.14420 DataEvolve and 2605.05227 Online-Reweighting because both overlap with Run 58 GEM data-curation variational-hypersphere axis (Rule 27 domain-diversity pivots); 3-axis pivot to reward-modeling+RL-rollouts+inference-systems-lossless-recovery"
     }
   ],
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-26T06:54:00+00:00",
   "last_run_iso": "2026-06-26T05:00:00+00:00",
   "total_entity_count": 171,
   "entity_files_added": [
@@ -6904,7 +6994,7 @@
     {
       "timestamp": "2026-06-26T05:00:00+00:00",
       "mode": "emergent_concept",
-      "theme": "theme-diversity: agentic-image-gen (context-gap) + vla system-id + flow-matching capability-routing \u2014 3-axis pivot",
+      "theme": "theme-diversity: agentic-image-gen (context-gap) + vla system-id + flow-matching capability-routing — 3-axis pivot",
       "picks": 3,
       "arxiv_ids": [
         "2606.26907",
@@ -6914,5 +7004,6 @@
     }
   ],
   "last_run_mode": "emergent_concept",
-  "last_run_summary": "Run 51 - 3 picks from HF daily 3-day v2 parser: Qwen-Image-Agent (2606.26907, 06-25, context-gap-as-task-definition) + ICWM (2606.26025, 06-24, self-exploration-as-system-identification) + DanceOPD (2606.27377, 06-25, capability-routing-as-distillation-target) \u2014 3-axis pivot from Run 50"
+  "last_run_summary": "Run 51 - 3 picks from HF daily 3-day v2 parser: Qwen-Image-Agent (2606.26907, 06-25, context-gap-as-task-definition) + ICWM (2606.26025, 06-24, self-exploration-as-system-identification) + DanceOPD (2606.27377, 06-25, capability-routing-as-distillation-target) — 3-axis pivot from Run 50",
+  "last_watched": "2026-06-26T06:54:00+00:00"
 }
