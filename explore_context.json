@@ -19,7 +19,7 @@
   "emergent_concept_theme": "reasoning-failure-mode + agent-scaling-science + audio-language-hybrid-AR-NAR",
   "emergent_theme": "reasoning-failure-mode + agent-scaling-science + audio-language-hybrid-AR-NAR",
   "chains_updated": 0,
-  "entities_count": 198,
+  "entities_count": 201,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3196,6 +3196,24 @@
       "slug": "audio-language-model-needs-non-autoregressive-joint-training-2509.20072",
       "url": "https://arxiv.org/abs/2509.20072",
       "discovered": "2026-06-26T08:33:38.233536+00:00"
+    },
+    {
+      "arxiv_id": "2604.00626",
+      "title": "A Survey of On-Policy Distillation for Large Language Models",
+      "slug": "a-survey-of-on-policy-distillation-for-large-language-models-2604.00626",
+      "discovered": "2026-06-26T08:39:00+00:00"
+    },
+    {
+      "arxiv_id": "2605.26046",
+      "title": "When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges",
+      "slug": "when-gradients-collide-failure-modes-of-multi-objective-prompt-optimization-for-llm-judges-2605.26046",
+      "discovered": "2026-06-26T08:39:00+00:00"
+    },
+    {
+      "arxiv_id": "2603.13985",
+      "title": "Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models",
+      "slug": "supervised-fine-tuning-versus-reinforcement-learning-a-study-of-post-training-methods-for-large-language-models-2603.13985",
+      "discovered": "2026-06-26T08:39:00+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -4708,6 +4726,30 @@
       "url": "https://arxiv.org/abs/2509.20072",
       "discovered": "2026-06-26T08:33:38.233536+00:00",
       "theme": "audio-language-model / non-autoregressive / absorbing-discrete-diffusion / modality-aware-attention / speech-to-speech"
+    },
+    {
+      "arxiv_id": "2604.00626",
+      "title": "A Survey of On-Policy Distillation for Large Language Models",
+      "slug": "a-survey-of-on-policy-distillation-for-large-language-models-2604.00626",
+      "url": "https://arxiv.org/abs/2604.00626",
+      "discovered": "2026-06-26T08:39:00+00:00",
+      "theme": "on-policy-distillation / capability-transfer / student-rollout-aligned-supervision"
+    },
+    {
+      "arxiv_id": "2605.26046",
+      "title": "When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges",
+      "slug": "when-gradients-collide-failure-modes-of-multi-objective-prompt-optimization-for-llm-judges-2605.26046",
+      "url": "https://arxiv.org/abs/2605.26046",
+      "discovered": "2026-06-26T08:39:00+00:00",
+      "theme": "prompt-optimization / multi-objective-textual-gradient / llm-judges"
+    },
+    {
+      "arxiv_id": "2603.13985",
+      "title": "Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models",
+      "slug": "supervised-fine-tuning-versus-reinforcement-learning-a-study-of-post-training-methods-for-large-language-models-2603.13985",
+      "url": "https://arxiv.org/abs/2603.13985",
+      "discovered": "2026-06-26T08:39:00+00:00",
+      "theme": "post-training / sft-vs-rl / unified-objective-family"
     }
   ],
   "emergent_concept_search_log": [
@@ -7366,6 +7408,33 @@
         "Rule_30_deliberate_skip",
         "Rule_36_combined_axis_query"
       ]
+    },
+    {
+      "timestamp": "2026-06-26T08:39:00+00:00",
+      "theme": "Run-65 emergent-concept PROBE-AXIS-rule-36 (knowledge-distillation + SFT-vs-RL post-training + multi-objective prompt optimization textual-gradient collision)",
+      "vectors_explored": [
+        "emergent-concept"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2604.00626",
+          "slug": "a-survey-of-on-policy-distillation-for-large-language-models-2604.00626"
+        },
+        {
+          "arxiv_id": "2605.26046",
+          "slug": "when-gradients-collide-failure-modes-of-multi-objective-prompt-optimization-for-llm-judges-2605.26046"
+        },
+        {
+          "arxiv_id": "2603.13985",
+          "slug": "supervised-fine-tuning-versus-reinforcement-learning-a-study-of-post-training-methods-for-large-language-models-2603.13985"
+        }
+      ],
+      "hf_pool_size": 51,
+      "hf_fresh": 9,
+      "hf_llm_matched": 3,
+      "web_search_surfaced": 8,
+      "rule_invoked": "Rule-36-PROBE-AXIS-escalation",
+      "axis_cluster": "knowledge-distillation + post-training + prompt-optimization (all NEW \u2014 never used in Runs 55-64)"
     }
   ],
   "last_updated": "2026-06-26T07:48:15.254813+00:00",
