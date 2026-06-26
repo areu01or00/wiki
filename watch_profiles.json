@@ -871,7 +871,10 @@
         "0e1a33827922204a353002438af14f84",
         "794cfbd2a8bec41cda9ce61368277029",
         "f049d54daf9f2f9992dfd7e46e110a7c",
-        "d63e97014e95baba1beb6e83b4c157b1"
+        "d63e97014e95baba1beb6e83b4c157b1",
+        "1d876b61149a38c52a529e0b23b4ad46",
+        "26fc26cfd74977011219500972be2474",
+        "fbbbb288433da9cde5e2594eefcf13f5"
       ],
       "last_results": [
         {
@@ -2343,6 +2346,33 @@
           "chain": "emergent-concepts",
           "theme": "unlearning-honesty-formalization / two-sided-retained-forgotten-honesty / feature-randomized-fine-tuning-as-recovery",
           "discovered": "2026-06-26T09:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.01682",
+          "title": "Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning",
+          "hash": "1d876b61149a38c52a529e0b23b4ad46",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "training-free-PRM-via-chunk-level-likelihood-scoring",
+          "discovered": "2026-06-26T09:09:00+00:00"
+        },
+        {
+          "arxiv_id": "2605.13369",
+          "title": "Query-Conditioned Test-Time Self-Training for Large Language Models",
+          "hash": "26fc26cfd74977011219500972be2474",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "query-conditioned-test-time-self-training-via-parameter-efficient-fine-tuning",
+          "discovered": "2026-06-26T09:09:00+00:00"
+        },
+        {
+          "arxiv_id": "2604.00801",
+          "title": "Routing-Free Mixture-of-Experts",
+          "hash": "fbbbb288433da9cde5e2594eefcf13f5",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "routing-free-MoE-architecture-removing-centralized-routing",
+          "discovered": "2026-06-26T09:09:00+00:00"
         }
       ],
       "last_run": "63",
@@ -2553,7 +2583,10 @@
     "0e1a33827922204a353002438af14f84",
     "794cfbd2a8bec41cda9ce61368277029",
     "f049d54daf9f2f9992dfd7e46e110a7c",
-    "d63e97014e95baba1beb6e83b4c157b1"
+    "d63e97014e95baba1beb6e83b4c157b1",
+    "1d876b61149a38c52a529e0b23b4ad46",
+    "26fc26cfd74977011219500972be2474",
+    "fbbbb288433da9cde5e2594eefcf13f5"
   ],
   "last_discovery": "2026-06-26T09:00:00+00:00",
   "last_updated": "2026-06-26T09:00:00+00:00",
@@ -2752,7 +2785,10 @@
       "0e1a33827922204a353002438af14f84",
       "794cfbd2a8bec41cda9ce61368277029",
       "f049d54daf9f2f9992dfd7e46e110a7c",
-      "d63e97014e95baba1beb6e83b4c157b1"
+      "d63e97014e95baba1beb6e83b4c157b1",
+      "1d876b61149a38c52a529e0b23b4ad46",
+      "26fc26cfd74977011219500972be2474",
+      "fbbbb288433da9cde5e2594eefcf13f5"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",

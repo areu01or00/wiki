@@ -8,7 +8,7 @@
   "last_explore": "2026-06-26T09:00:00+00:00",
   "last_global_explore": "2026-06-26T09:00:00+00:00",
   "last_discovery": "2026-06-26T09:00:00+00:00",
-  "last_run_framing": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
+  "last_run_framing": "Run 67 \u2014 3-axis DOMAIN-DIVERSITY PIVOT to MODEL-ARCH + TEST-TIME-TRAINING + TRAINING-FREE-PRM cluster introducing deep-sub-cluster rotation within a different primitive-class per Rule 36c continued (after Run 66 probed deployment-evaluation primitives, Run 67 probes model-architecture + test-time-training + training-free-process-reward primitives \u2014 sub-axes of model-arch from Run 62 and test-time from Runs 57/64 that weren't the headline pick in prior runs); pivoting per Rule 27 from Run 66 MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization (deployment-side primitives) to training-free-process-reward-via-off-the-shelf-likelihood + routing-primitive-removed-MoE + per-query-test-time-self-training (architecture + training-free + test-time primitive-class triplet)",
   "last_framing": "Run 66 deep-sub-cluster rotation per Rule 36c \u2014 pivoted from Run 65 PROBE-AXIS training-side primitives (knowledge-distillation + SFT-vs-RL + multi-objective-prompt-optimization) to deployment-evaluation primitives (MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization)",
   "last_run_notes": "Run 66 \u2014 3 fresh LLM-centric papers via web_search 4-query DEEP-SUB-CLUSTER-ROTATION escape hatch per Rule 36c (after Run 65 PROBE-AXIS escalation per Rule 36b). HF pool CV/3D-heavy for 12th consecutive run (pitfall-83 streak extended to Runs 55-66). HF daily v2 returned 18 + 33 + 29 papers across 2026-06-24/25/26 dates but only 14 fresh after 5-store dedup with only 6 borderline LLM-keyword-matched (CoffeeBench multi-agent-eval borderline, PhysiFormer mechanics, Fast LeWorldModel world model, UnityShots audio-video, FLAT/FLUX3D 3D). web_search surfaced 17 fresh LLM candidates via the deep-sub-cluster query template bracketing deployment-evaluation primitive-class (axes: LLM-evaluation framework benchmark + reasoning model robustness failure + multi-agent coordination benchmark + interpretability mechanistic circuit). Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 65 training-side primitives (on-policy-distillation + SFT-vs-RL + multi-objective-textual-gradient) to deployment-evaluation primitives (MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization). 3-axis DOMAIN-DIVERSITY DEEP-SUB-CLUSTER PIVOT per Rule 36c to architectural-bloat-as-failure-naming + sustainability-x-discrimination-as-co-designed + two-sided-honesty-retained-x-forgotten.",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
   "emergent_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
   "chains_updated": 0,
-  "entities_count": 204,
+  "entities_count": 207,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3235,6 +3235,27 @@
       "title": "Unlearners Can Lie: Evaluating and Improving Honesty in LLM Unlearning",
       "discovered": "2026-06-26T09:00:00+00:00",
       "theme": "unlearning-honesty-formalization / two-sided-retained-forgotten-honesty / feature-randomized-fine-tuning-as-recovery"
+    },
+    {
+      "arxiv_id": "2606.01682",
+      "title": "Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning",
+      "slug": "off-the-shelf-llms-as-process-scorers-training-free-prm-alternative-chunk-level-guided-generation-2606.01682",
+      "discovered": "2026-06-26T09:09:00+00:00",
+      "theme": "training-free-PRM-via-chunk-level-likelihood-scoring"
+    },
+    {
+      "arxiv_id": "2605.13369",
+      "title": "Query-Conditioned Test-Time Self-Training for Large Language Models",
+      "slug": "query-conditioned-test-time-self-training-quest-per-query-adaptation-2605.13369",
+      "discovered": "2026-06-26T09:09:00+00:00",
+      "theme": "query-conditioned-test-time-self-training-via-parameter-efficient-fine-tuning"
+    },
+    {
+      "arxiv_id": "2604.00801",
+      "title": "Routing-Free Mixture-of-Experts",
+      "slug": "routing-free-mixture-of-experts-eliminating-centralized-routing-2604.00801",
+      "discovered": "2026-06-26T09:09:00+00:00",
+      "theme": "routing-free-MoE-architecture-removing-centralized-routing"
     }
   ],
   "emergent_discoveries": [
@@ -4795,6 +4816,30 @@
       "url": "https://arxiv.org/abs/2605.08765",
       "discovered": "2026-06-26T09:00:00+00:00",
       "theme": "unlearning-honesty-formalization / two-sided-retained-forgotten-honesty / feature-randomized-fine-tuning-as-recovery"
+    },
+    {
+      "arxiv_id": "2606.01682",
+      "title": "Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning",
+      "slug": "off-the-shelf-llms-as-process-scorers-training-free-prm-alternative-chunk-level-guided-generation-2606.01682",
+      "url": "https://arxiv.org/abs/2606.01682",
+      "discovered": "2026-06-26T09:09:00+00:00",
+      "theme": "training-free-PRM-via-chunk-level-likelihood-scoring"
+    },
+    {
+      "arxiv_id": "2605.13369",
+      "title": "Query-Conditioned Test-Time Self-Training for Large Language Models",
+      "slug": "query-conditioned-test-time-self-training-quest-per-query-adaptation-2605.13369",
+      "url": "https://arxiv.org/abs/2605.13369",
+      "discovered": "2026-06-26T09:09:00+00:00",
+      "theme": "query-conditioned-test-time-self-training-via-parameter-efficient-fine-tuning"
+    },
+    {
+      "arxiv_id": "2604.00801",
+      "title": "Routing-Free Mixture-of-Experts",
+      "slug": "routing-free-mixture-of-experts-eliminating-centralized-routing-2604.00801",
+      "url": "https://arxiv.org/abs/2604.00801",
+      "discovered": "2026-06-26T09:09:00+00:00",
+      "theme": "routing-free-MoE-architecture-removing-centralized-routing"
     }
   ],
   "emergent_concept_search_log": [
@@ -5876,6 +5921,22 @@
       "web_search_surfaced": 17,
       "rule_invoked": "Rule-36c-deep-sub-cluster-rotation",
       "axis_cluster": "LLM-evaluation framework + reasoning-failure + multi-agent-coord + interpretability (deployment-evaluation cluster \u2014 DEEP-SUB-CLUSTER from previously-probed primitives)"
+    },
+    {
+      "timestamp": "2026-06-26T09:09:00+00:00",
+      "run_number": 67,
+      "method": "web_search_4query_deep_sub_cluster_rotation",
+      "queries": [
+        "arxiv 2026 \"language model\" \"test-time scaling\" OR \"self-consistency\" OR \"process reward\" reasoning",
+        "arxiv 2026 \"knowledge graph\" OR \"retrieval augmented generation\" LLM grounded reasoning hallucination",
+        "arxiv 2026 \"agent\" \"tool use\" OR \"function calling\" benchmark failure analysis LLM",
+        "arxiv 2606 \"language model\" OR \"LLM\" survey emergent reasoning interpretability"
+      ],
+      "hf_pool_state": "cv_3d_heavy_13th_consecutive",
+      "candidates_returned": 16,
+      "candidates_after_dedup": 16,
+      "picks": 3,
+      "themes": "training-free-PRM + query-conditioned-test-time-self-training + routing-free-MoE"
     }
   ],
   "emergent_concept_search_runs": [
@@ -7520,6 +7581,20 @@
         "Rule_26_query_template_rotation",
         "Rule_27_domain_diversity_pivot",
         "Rule_36c_deep_sub_cluster_rotation"
+      ]
+    },
+    {
+      "run_number": 67,
+      "timestamp": "2026-06-26T09:09:00+00:00",
+      "method": "web_search_4query_deep_sub_cluster_rotation_rule36c_continued",
+      "theme": "training-free-PRM + query-conditioned-test-time-self-training + routing-free-MoE",
+      "added_count": 3,
+      "hf_pool_state": "cv_3d_heavy_13th_consecutive_run_pitfall_83_streak_extended",
+      "rule_invocations": [
+        "Rule_15c_pitfall_83_escape_hatch",
+        "Rule_26_query_template_rotation",
+        "Rule_27_domain_diversity_pivot",
+        "Rule_36c_deep_sub_cluster_rotation_continued_other_primitive_class"
       ]
     }
   ],
