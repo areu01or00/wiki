@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-26",
   "__last_updated": "2026-06-26T03:25:00+00:00",
-  "last_run": "2026-06-26T03:25:00+00:00",
-  "last_explore": "2026-06-26T03:25:00+00:00",
+  "last_run": "2026-06-26T03:39:12+00:00",
+  "last_explore": "2026-06-26T03:39:12+00:00",
   "last_global_explore": "2026-06-26T03:25:00+00:00",
   "last_discovery": "2026-06-26T03:25:00+00:00",
   "last_run_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision (3-axis pivot from Run 38-45 streaks)",
   "last_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision",
-  "last_run_notes": "Run 46 (2026-06-26T03:25:00+00:00): 3 picks — PolicyAlign (2606.25442, direct natural-language-policy-as-safety-alignment-specification surface + on-policy self-distillation + Policy-Sensitive Filtering, 06-24) + Externalization in LLM Agents (2604.08224, unified review of externalization-as-load-bearing-primitive for LLM-agent infrastructure across memory/skills/protocols/harness with weights-to-harness progression, 04-09) + TARo (2603.18411, token-level adaptive routing as test-time-alignment decision unit + step-wise reward models on mathematical traces, 03-19). Theme-pivot from Run 38-45 eval/post-training/operational-infra/ultra-long-horizon/provenance/agent-skill/memory-graph-reconstruction streaks — pivots to direct-policy-alignment (bypassing RLHF/DPO data pipeline via natural-language policy specification), externalization-as-unifying-primitive (reframing agent capability as runtime cognitive artifacts rather than model weights), and token-level-routing-as-test-time-alignment-decision (extending Run 45 LBR branch-level routing to reasoning alignment). Three structurally orthogonal axes: policy-natural-language-as-alignment-specification / externalization-as-load-bearing-agent-infrastructure / token-level-routing-as-alignment-decision. NOTE: Run 46 picks adopted from leftover state of a prior session (3 entity files untracked + parent Updates block pre-written but uncommitted); user preference for reusing existing infrastructure rather than rebuilding guided this adoption.",
+  "last_run_notes": "Run 47 (2026-06-26T03:39:12+00:00): 3 picks — LEAP (2606.03303, agentic framework for Lean theorem proving — formal math proof as agentic surface, 06-02) + The Generalization Spectrum (2606.25450, chromatographic per-sample generalization as evaluation primitive, 06-24) + Towards Direct Latent-Space Synthesis for Parallel Branches (2606.14672, latent-space parallel-branch synthesis for agent workflows, 06-12). After 5-store cross-dedup, theme-pivot from Run 38-46 streaks (eval/post-train/memory/safety/externalization/on-policy-distill): 3-axis pivot to formal-math-agentic + chromatographic-eval + latent-space-parallel-branch-synthesis. All 4 phase verifications pass.",
   "last_pass_type": "emergent_concept",
   "last_run_method": "hf_daily_emergent_concept_search + web_search_escape_hatch + sibling-state-recovery",
   "run_method": "emergent-concept-search",
@@ -1270,6 +1270,54 @@
           "title": "TARo: Token-level Adaptive Routing for LLM Test-time Alignment",
           "theme": "token-level-routing-as-test-time-alignment-decision + step-wise-reward-modeling + cross-domain-reasoning",
           "discovered": "2026-06-26T03:25:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.03303",
+          "slug": "leap-supercharging-llms-for-formal-mathematics-with-agentic-frameworks-2606.03303",
+          "title": "LEAP: Supercharging LLMs for Formal Mathematics with Agentic Frameworks",
+          "url": "https://arxiv.org/abs/2606.03303",
+          "date": "2026-06-02",
+          "authors": [
+            "Kung, Po-Nien",
+            "Song, Linfeng",
+            "Hwang, Dawsen",
+            "Yoon, Jinsung"
+          ],
+          "vector": "emergent-concept",
+          "discovered": "2026-06-26T03:39:12+00:00",
+          "theme": "agentic-formal-theorem-proving"
+        },
+        {
+          "arxiv_id": "2606.14672",
+          "slug": "towards-direct-latent-space-synthesis-for-parallel-branches-in-llm-agent-workflows-2606.14672",
+          "title": "Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows",
+          "url": "https://arxiv.org/abs/2606.14672",
+          "date": "2026-06-12",
+          "authors": [
+            "Liu, Shikun",
+            "Li, Mufei",
+            "Fu, Dongqi",
+            "Wang, Haoyu"
+          ],
+          "vector": "emergent-concept",
+          "discovered": "2026-06-26T03:39:12+00:00",
+          "theme": "latent-space-parallel-branch-synthesis"
+        },
+        {
+          "arxiv_id": "2606.25450",
+          "slug": "the-generalization-spectrum-a-chromatographic-approach-to-evaluating-learning-algorithms-2606.25450",
+          "title": "The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms",
+          "url": "https://arxiv.org/abs/2606.25450",
+          "date": "2026-06-24",
+          "authors": [
+            "Zhang, Jinghan",
+            "Cheng, Zerui",
+            "Chen, Shiqi",
+            "Zhang, Ge"
+          ],
+          "vector": "emergent-concept",
+          "discovered": "2026-06-26T03:39:12+00:00",
+          "theme": "chromatographic-per-sample-generalization-evaluation"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -2509,6 +2557,54 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-26T03:25:00+00:00",
       "theme": "token-level-routing-as-test-time-alignment-decision + step-wise-reward-modeling + cross-domain-reasoning"
+    },
+    {
+      "arxiv_id": "2606.03303",
+      "slug": "leap-supercharging-llms-for-formal-mathematics-with-agentic-frameworks-2606.03303",
+      "title": "LEAP: Supercharging LLMs for Formal Mathematics with Agentic Frameworks",
+      "url": "https://arxiv.org/abs/2606.03303",
+      "date": "2026-06-02",
+      "authors": [
+        "Kung, Po-Nien",
+        "Song, Linfeng",
+        "Hwang, Dawsen",
+        "Yoon, Jinsung"
+      ],
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T03:39:12+00:00",
+      "theme": "agentic-formal-theorem-proving"
+    },
+    {
+      "arxiv_id": "2606.14672",
+      "slug": "towards-direct-latent-space-synthesis-for-parallel-branches-in-llm-agent-workflows-2606.14672",
+      "title": "Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows",
+      "url": "https://arxiv.org/abs/2606.14672",
+      "date": "2026-06-12",
+      "authors": [
+        "Liu, Shikun",
+        "Li, Mufei",
+        "Fu, Dongqi",
+        "Wang, Haoyu"
+      ],
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T03:39:12+00:00",
+      "theme": "latent-space-parallel-branch-synthesis"
+    },
+    {
+      "arxiv_id": "2606.25450",
+      "slug": "the-generalization-spectrum-a-chromatographic-approach-to-evaluating-learning-algorithms-2606.25450",
+      "title": "The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms",
+      "url": "https://arxiv.org/abs/2606.25450",
+      "date": "2026-06-24",
+      "authors": [
+        "Zhang, Jinghan",
+        "Cheng, Zerui",
+        "Chen, Shiqi",
+        "Zhang, Ge"
+      ],
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T03:39:12+00:00",
+      "theme": "chromatographic-per-sample-generalization-evaluation"
     }
   ],
   "emergent_discoveries": [
@@ -3611,6 +3707,54 @@
       "title": "TARo: Token-level Adaptive Routing for LLM Test-time Alignment",
       "theme": "token-level-routing-as-test-time-alignment-decision + step-wise-reward-modeling + cross-domain-reasoning",
       "discovered": "2026-06-26T03:25:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.03303",
+      "slug": "leap-supercharging-llms-for-formal-mathematics-with-agentic-frameworks-2606.03303",
+      "title": "LEAP: Supercharging LLMs for Formal Mathematics with Agentic Frameworks",
+      "url": "https://arxiv.org/abs/2606.03303",
+      "date": "2026-06-02",
+      "authors": [
+        "Kung, Po-Nien",
+        "Song, Linfeng",
+        "Hwang, Dawsen",
+        "Yoon, Jinsung"
+      ],
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T03:39:12+00:00",
+      "theme": "agentic-formal-theorem-proving"
+    },
+    {
+      "arxiv_id": "2606.14672",
+      "slug": "towards-direct-latent-space-synthesis-for-parallel-branches-in-llm-agent-workflows-2606.14672",
+      "title": "Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows",
+      "url": "https://arxiv.org/abs/2606.14672",
+      "date": "2026-06-12",
+      "authors": [
+        "Liu, Shikun",
+        "Li, Mufei",
+        "Fu, Dongqi",
+        "Wang, Haoyu"
+      ],
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T03:39:12+00:00",
+      "theme": "latent-space-parallel-branch-synthesis"
+    },
+    {
+      "arxiv_id": "2606.25450",
+      "slug": "the-generalization-spectrum-a-chromatographic-approach-to-evaluating-learning-algorithms-2606.25450",
+      "title": "The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms",
+      "url": "https://arxiv.org/abs/2606.25450",
+      "date": "2026-06-24",
+      "authors": [
+        "Zhang, Jinghan",
+        "Cheng, Zerui",
+        "Chen, Shiqi",
+        "Zhang, Ge"
+      ],
+      "vector": "emergent-concept",
+      "discovered": "2026-06-26T03:39:12+00:00",
+      "theme": "chromatographic-per-sample-generalization-evaluation"
     }
   ],
   "emergent_concept_search_log": [
@@ -4477,6 +4621,26 @@
       "thematic_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision (3-axis pivot from Run 38-45 streaks; adopted from leftover Run 46 state)",
       "dedup_rate": "128 HF -> 29 fresh LLM-relevant + ~15 web_search -> 3 picks",
       "pitfalls_hit": "NONE in main flow"
+    },
+    {
+      "ts": "2026-06-26T03:39:12+00:00",
+      "method": "hf_daily_3day_window + 4_query_web_search_escape_hatch + 5store_dedup",
+      "candidates_total": 104,
+      "candidates_fresh": 29,
+      "candidates_picked": 3,
+      "picks": [
+        "2606.03303",
+        "2606.14672",
+        "2606.25450"
+      ],
+      "themes": [
+        "agentic-formal-theorem-proving",
+        "latent-space-parallel-branch-synthesis",
+        "chromatographic-per-sample-generalization-evaluation"
+      ],
+      "thematic_framing": "agentic-formal-theorem-proving + chromatographic-per-sample-generalization + latent-space-parallel-branch-synthesis (3-axis pivot from Run 38-46 eval/post-train/memory/safety/eval streak)",
+      "pitfalls_hit": "NONE in main flow",
+      "phase_verifications": "all 4 phases pass"
     }
   ],
   "emergent_concept_search_runs": [
@@ -5138,6 +5302,28 @@
       "thematic_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision (3-axis pivot from Run 38-45 streaks; adopted from leftover Run 46 state)",
       "dedup_rate": "128 HF -> 29 fresh LLM-relevant + web_search -> 3 picks",
       "pitfalls_hit": "NONE in main flow (left-over state from prior session adopted — see Run 46 lessons)"
+    },
+    {
+      "ts": "2026-06-26T03:39:12+00:00",
+      "method": "hf_daily_3day_window + 4_query_web_search_escape_hatch",
+      "papers": [
+        "2606.03303",
+        "2606.14672",
+        "2606.25450"
+      ],
+      "slugs": [
+        "leap-supercharging-llms-for-formal-mathematics-with-agentic-frameworks-2606.03303",
+        "towards-direct-latent-space-synthesis-for-parallel-branches-in-llm-agent-workflows-2606.14672",
+        "the-generalization-spectrum-a-chromatographic-approach-to-evaluating-learning-algorithms-2606.25450"
+      ],
+      "themes": [
+        "agentic-formal-theorem-proving",
+        "latent-space-parallel-branch-synthesis",
+        "chromatographic-per-sample-generalization-evaluation"
+      ],
+      "thematic_framing": "agentic-formal-theorem-proving + chromatographic-per-sample-generalization + latent-space-parallel-branch-synthesis (3-axis pivot from Run 38-46 eval/post-train/memory/safety/eval streak)",
+      "dedup_rate": "74 HF + 30 web_search -> 29 fresh -> 3 picks",
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "runs": [
@@ -5618,6 +5804,19 @@
       ],
       "entities_count_after": 153,
       "pitfalls_hit": "NONE in main flow (leftover state from prior session adopted per user preference for reusing existing infrastructure)"
+    },
+    {
+      "timestamp": "2026-06-26T03:39:12+00:00",
+      "mode": "emergent_concept",
+      "theme": "agentic-formal-theorem-proving + chromatographic-per-sample-generalization + latent-space-parallel-branch-synthesis",
+      "thematic_framing": "agentic-formal-theorem-proving + chromatographic-per-sample-generalization + latent-space-parallel-branch-synthesis (3-axis pivot from Run 38-46 eval/post-train/memory/safety/eval streak)",
+      "papers_added": [
+        "leap-supercharging-llms-for-formal-mathematics-with-agentic-frameworks-2606.03303",
+        "towards-direct-latent-space-synthesis-for-parallel-branches-in-llm-agent-workflows-2606.14672",
+        "the-generalization-spectrum-a-chromatographic-approach-to-evaluating-learning-algorithms-2606.25450"
+      ],
+      "entities_count_after": 153,
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "last_updated": "2026-06-26T02:54:00+00:00",
