@@ -19,7 +19,7 @@
   "emergent_concept_theme": "MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination",
   "emergent_theme": "MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination",
   "chains_updated": 0,
-  "entities_count": 192,
+  "entities_count": 195,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3157,6 +3157,24 @@
       "url": "https://arxiv.org/abs/2606.23313",
       "discovered": "2026-06-26T08:00:40.453047+00:00",
       "theme": "decontamination + per-sample-distributional-distance + deep-ensemble-uncertainty"
+    },
+    {
+      "arxiv_id": "2606.00570",
+      "title": "Revisiting Parameter-Based Knowledge Editing in Large Language Models: Theoretical Limits and Empirical Evidence",
+      "slug": "revisiting-parameter-based-knowledge-editing-in-llms-2606.00570",
+      "discovered": "2026-06-26T08:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2605.05285",
+      "title": "Attribution-Guided Continual Learning for Large Language Models",
+      "slug": "attribution-guided-continual-learning-for-llms-2605.05285",
+      "discovered": "2026-06-26T08:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2510.12040",
+      "title": "Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions",
+      "slug": "uncertainty-quantification-for-hallucination-detection-in-llms-2510.12040",
+      "discovered": "2026-06-26T08:30:00+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -4621,6 +4639,30 @@
       "url": "https://arxiv.org/abs/2606.23313",
       "discovered": "2026-06-26T08:00:40.453047+00:00",
       "theme": "decontamination + per-sample-distributional-distance + deep-ensemble-uncertainty"
+    },
+    {
+      "arxiv_id": "2606.00570",
+      "title": "Revisiting Parameter-Based Knowledge Editing in Large Language Models: Theoretical Limits and Empirical Evidence",
+      "slug": "revisiting-parameter-based-knowledge-editing-in-llms-2606.00570",
+      "url": "https://arxiv.org/abs/2606.00570",
+      "discovered": "2026-06-26T08:30:00+00:00",
+      "theme": "knowledge-editing / dimensional-collapse / reasoning-collapse / retrieval-vs-parametric / theoretical-limits"
+    },
+    {
+      "arxiv_id": "2605.05285",
+      "title": "Attribution-Guided Continual Learning for Large Language Models",
+      "slug": "attribution-guided-continual-learning-for-llms-2605.05285",
+      "url": "https://arxiv.org/abs/2605.05285",
+      "discovered": "2026-06-26T08:30:00+00:00",
+      "theme": "continual-learning / catastrophic-forgetting / llm-finetuning / parameter-importance / gradient-modulation"
+    },
+    {
+      "arxiv_id": "2510.12040",
+      "title": "Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions",
+      "slug": "uncertainty-quantification-for-hallucination-detection-in-llms-2510.12040",
+      "url": "https://arxiv.org/abs/2510.12040",
+      "discovered": "2026-06-26T08:30:00+00:00",
+      "theme": "uncertainty-quantification / hallucination-detection / calibration / llm-reliability / survey / epistemic-uncertainty / aleatoric-uncertainty"
     }
   ],
   "emergent_concept_search_log": [
@@ -7227,6 +7269,21 @@
           "arxiv_id": "2606.23313",
           "theme": "per-sample distributional decontamination"
         }
+      ]
+    },
+    {
+      "run_number": 63,
+      "timestamp": "2026-06-26T08:30:00+00:00",
+      "method": "emergent_concept_search",
+      "candidates_surfaced": 14,
+      "candidates_picked": 3,
+      "theme": "attribution-guided-continual-learning + uncertainty-quantification-survey + parameter-based-knowledge-editing-theoretical-limits",
+      "axes_pivoted_from": "MoE theoretical task-routing + RAG knowledge-conflict-resolution + per-sample distributional decontamination",
+      "notes": "Run 63 \u2014 3 new entity pages from emergent-concept search via web_search 4-query NEW-AXIS escape hatch (HF pool CV/3D-heavy for 9th consecutive run \u2014 pitfall-83 streak extended to Runs 55-63; HF daily v2 data-props returned 18+33 papers across 2026-06-25/26 dates but only 1 borderline LLM-keyword-matched (UnityShots); web_search template introduced NEW axes per Rule 35 \u2014 query rotation moved from Run 62 retrieval+interpretability+model-arch-theory+multi-agent-reasoning+decontamination (v)+(iv)+(new) cluster to (NEW) continual-learning/catastrophic-forgetting + (NEW) calibration/uncertainty + (NEW) multilingual/cross-lingual + (NEW) knowledge-editing; surfaced 14 fresh LLM candidates after 5-store dedup; picked 3 structurally orthogonal pivoting per Rule 27+Rule 35 domain-diversity new-axis introduction from Run 62 MoE-theoretical-task-routing + RAG-knowledge-conflict-resolution + per-sample-distributional-decontamination axes to attribution-guided-continual-learning + uncertainty-quantification-survey + parameter-based-knowledge-editing-theoretical-limits axes) \u2014 3-axis DOMAIN-DIVERSITY NEW-AXIS INTRODUCTION per Rule 35 to gradient-modulation-by-element-wise-parameter-importance + uncertainty-quantification-as-central-trustworthiness-framework + dimensional-collapse-as-theoretical-mechanism-for-reasoning-collapse",
+      "picks": [
+        "revisiting-parameter-based-knowledge-editing-in-llms-2606.00570",
+        "attribution-guided-continual-learning-for-llms-2605.05285",
+        "uncertainty-quantification-for-hallucination-detection-in-llms-2510.12040"
       ]
     }
   ],
