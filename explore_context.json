@@ -19,7 +19,7 @@
   "emergent_concept_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
   "emergent_theme": "MAS-advantage-falsification + automated-benchmark-regeneration + unlearning-honesty-formalization",
   "chains_updated": 0,
-  "entities_count": 210,
+  "entities_count": 213,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3280,6 +3280,33 @@
       "url": "https://arxiv.org/abs/2604.25313",
       "discovered": "2026-06-26T09:32:00+00:00",
       "theme": "RAG-faithfulness / counterfactual-entity-substitution / training-data / parametric-memory-conflict / retrieval-augmented-generation / typed-entity-bank / dual-role-dataset"
+    },
+    {
+      "arxiv_id": "2606.16939",
+      "slug": "scalable-circuit-learning-for-interpreting-large-language-models-2606.16939",
+      "title": "Scalable Circuit Learning for Interpreting Large Language Models",
+      "url": "https://arxiv.org/abs/2606.16939",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T09:47:19.796636+00:00",
+      "theme": "interpretability / SAE-circuit-discovery / scalable-circuit-learning"
+    },
+    {
+      "arxiv_id": "2606.21119",
+      "slug": "mammoexpert-benchmarking-chain-of-thought-reasoning-in-mammography-diagnosis-2606.21119",
+      "title": "MammoExpert: Benchmarking Chain-of-Thought Reasoning in Mammography Diagnosis",
+      "url": "https://arxiv.org/abs/2606.21119",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T09:47:19.796636+00:00",
+      "theme": "domain-specific-CoT / medical-imaging / interpretable-diagnosis"
+    },
+    {
+      "arxiv_id": "2606.06915",
+      "slug": "thinkbooster-a-unified-framework-for-seamless-test-time-scaling-2606.06915",
+      "title": "ThinkBooster: A Unified Framework for Seamless Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2606.06915",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-26T09:47:19.796636+00:00",
+      "theme": "test-time-compute-scaling / inference-efficiency / framework"
     }
   ],
   "emergent_discoveries": [
@@ -4888,6 +4915,30 @@
       "url": "https://arxiv.org/abs/2604.25313",
       "discovered": "2026-06-26T09:32:00+00:00",
       "theme": "RAG-faithfulness / counterfactual-entity-substitution / training-data / parametric-memory-conflict / retrieval-augmented-generation / typed-entity-bank / dual-role-dataset"
+    },
+    {
+      "arxiv_id": "2606.16939",
+      "title": "Scalable Circuit Learning for Interpreting Large Language Models",
+      "slug": "scalable-circuit-learning-for-interpreting-large-language-models-2606.16939",
+      "url": "https://arxiv.org/abs/2606.16939",
+      "discovered": "2026-06-26T09:47:19.796636+00:00",
+      "theme": "interpretability / SAE-circuit-discovery / scalable-circuit-learning"
+    },
+    {
+      "arxiv_id": "2606.21119",
+      "title": "MammoExpert: Benchmarking Chain-of-Thought Reasoning in Mammography Diagnosis",
+      "slug": "mammoexpert-benchmarking-chain-of-thought-reasoning-in-mammography-diagnosis-2606.21119",
+      "url": "https://arxiv.org/abs/2606.21119",
+      "discovered": "2026-06-26T09:47:19.796636+00:00",
+      "theme": "domain-specific-CoT / medical-imaging / interpretable-diagnosis"
+    },
+    {
+      "arxiv_id": "2606.06915",
+      "title": "ThinkBooster: A Unified Framework for Seamless Test-Time Scaling",
+      "slug": "thinkbooster-a-unified-framework-for-seamless-test-time-scaling-2606.06915",
+      "url": "https://arxiv.org/abs/2606.06915",
+      "discovered": "2026-06-26T09:47:19.796636+00:00",
+      "theme": "test-time-compute-scaling / inference-efficiency / framework"
     }
   ],
   "emergent_concept_search_log": [
@@ -6860,6 +6911,16 @@
       "candidates_picked": 3,
       "axes_pivoted": "AXIS-INVERSION probe per Rule 36d inverted Run 67 axes: (routing-free-MoE -> predict-router-drift-MoE-RL) + (test-time-parameter-adaptation -> training-time-only-long-context-via-sparse-positional-supervision) + (training-free-PRM -> training-data-driven-RAG-faithfulness-via-counterfactual-conflict-injection); pivoted from Run 67 architecture + training-free + test-time primitive-class triplet to inverted primitive-class triplet (MoE-RL-stability + long-context-training-efficiency + RAG-faithfulness-as-training-data)",
       "notes": "Run 68: 14th consecutive pitfall-83; HF daily v2 returned 18 papers on 2026-06-26 with only 5 fresh after 5-store dedup and only 1 LLM-keyword-matched; HF v3 href-regex pool 100% CV/3D-heavy; web_search axis-inversion query template bracketing inverse-axes surfaced fresh LLM candidates from PR2 + EndPrompt + Faithfulness-QA (older arxiv IDs per pitfall-84). 3 picks: PR2 (predict-router-drift-as-MoE-RL-stability-primitive + asymmetric-dual-phase-routing-as-MoE-RL-stability-primitive + router-evolution-predictor-as-lightweight-anticipation-primitive), EndPrompt (sparse-positional-supervision-as-long-context-extension-primitive + terminal-anchoring-as-semantic-continuity-preserving-positional-probe-primitive + RoPE-Bernstein-smoothness-constraint-as-extrapolation-stability-primitive), Faithfulness-QA (counterfactual-entity-substitution-as-data-construction-primitive + typed-entity-bank-as-conflict-injection-primitive + bidirectional-training-and-evaluation-role-as-dataset-design-primitive). Rule 36d axis-inversion probe WORKED."
+    },
+    {
+      "timestamp": "2026-06-26T09:47:19.796636+00:00",
+      "count": 3,
+      "theme": "TEMPORAL-ANCHOR-PROBE per Rule 36e \u2014 scalable-SAE-circuit-discovery + domain-specific-CoT-medical-imaging + test-time-compute-scaling-framework",
+      "picks": [
+        "scalable-circuit-learning-for-interpreting-large-language-models-2606.16939",
+        "mammoexpert-benchmarking-chain-of-thought-reasoning-in-mammography-diagnosis-2606.21119",
+        "thinkbooster-a-unified-framework-for-seamless-test-time-scaling-2606.06915"
+      ]
     }
   ],
   "runs": [
@@ -7670,6 +7731,12 @@
         "faithfulness-qa-a-counterfactual-entity-substitution-dataset-for-training-context-faithful-rag-models-2604.25313"
       ],
       "theme": "AXIS-INVERSION probe per Rule 36d \u2014 predict-router-drift-MoE-RL + sparse-positional-supervision-for-long-context + counterfactual-entity-substitution-for-RAG-faithfulness"
+    },
+    {
+      "theme": "TEMPORAL-ANCHOR-PROBE per Rule 36e \u2014 scalable-SAE-circuit-discovery + domain-specific-CoT-medical-imaging + test-time-compute-scaling-framework",
+      "timestamp": "2026-06-26T09:47:19.796636+00:00",
+      "vector": "emergent_concept_search",
+      "notes": "Run 69 \u2014 TEMPORAL-ANCHOR-PROBE per Rule 36e (15th consecutive pitfall-83). HF pool CV/3D-heavy. web_search surfaced 3 picks orthogonally pivoting per Rule 27 from Run 68 axis-inversion primitive-class triplet to interpretability + medical-CoT + test-time-compute primitive-class triplet. Fresh LLM candidates surfaced: 9 fresh after 5-store dedup, 3 structurally orthogonal to Run 68 picks. State-file JSON formatting preserved via default json.dump(ec, f, ensure_ascii=True, indent=2)."
     }
   ],
   "last_updated": "2026-06-26T09:32:00+00:00",
