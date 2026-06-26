@@ -778,7 +778,10 @@
         "7943dba2353e97368c5482e88cb78f25",
         "5a00933d4e8e1f2013d301808adc8b9c",
         "4a57152092c68785552130c33c2b24d7",
-        "bd85aca97d1823872d0e64762bd52961"
+        "bd85aca97d1823872d0e64762bd52961",
+        "84ce69fdedf686e5e03cf891897ef12e",
+        "2c999286489afbf5b759ae4bd3d8ed8c",
+        "f23ea4399a182cab1601632b2b6eb936"
       ],
       "last_results": [
         {
@@ -1590,6 +1593,33 @@
           "hash": "bd85aca97d1823872d0e64762bd52961",
           "theme": "computer-use-agents / skill-curation / runtime-safety-gating / continual-learning / harness-as-intermediary",
           "discovered_via": "emergent_concept_search"
+        },
+        {
+          "arxiv_id": "2606.21215",
+          "title": "Speaker Identity in Non-Verbal Vocalizations: Conditional Distillation and Mixture of Experts Approach",
+          "hash": "84ce69fdedf686e5e03cf891897ef12e",
+          "vector": "emergent_concept",
+          "chain": "emergent-concepts",
+          "theme": "speaker-verification / non-verbal-vocalizations / distillation / mixture-of-experts / expressive-tts / voice-conversion",
+          "discovered": "2026-06-26T00:08:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.20027",
+          "title": "QG-MIL: A Gated Transformer Aggregator for Domain-Agnostic Multiple Instance Learning in Medical Imaging",
+          "hash": "2c999286489afbf5b759ae4bd3d8ed8c",
+          "vector": "emergent_concept",
+          "chain": "emergent-concepts",
+          "theme": "medical-imaging / multiple-instance-learning / attention-concentration / gated-aggregator / cross-domain-generalization",
+          "discovered": "2026-06-26T00:08:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.20980",
+          "title": "Robusto-2: Benchmarking Humans & VLMs for Autonomous Driving in Lima & New York City",
+          "hash": "f23ea4399a182cab1601632b2b6eb936",
+          "vector": "emergent_concept",
+          "chain": "emergent-concepts",
+          "theme": "autonomous-driving / VLM-action-model / geographical-OD / cross-cultural-benchmarking",
+          "discovered": "2026-06-26T00:08:00+00:00"
         }
       ],
       "last_run": "2026-06-25T23:12:09.658648+00:00",
@@ -1599,7 +1629,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-25T23:53:00+00:00",
+  "last_run": "2026-06-26T00:08:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1699,12 +1729,15 @@
     "7943dba2353e97368c5482e88cb78f25",
     "5a00933d4e8e1f2013d301808adc8b9c",
     "4a57152092c68785552130c33c2b24d7",
-    "bd85aca97d1823872d0e64762bd52961"
+    "bd85aca97d1823872d0e64762bd52961",
+    "84ce69fdedf686e5e03cf891897ef12e",
+    "2c999286489afbf5b759ae4bd3d8ed8c",
+    "f23ea4399a182cab1601632b2b6eb936"
   ],
-  "last_discovery": "2026-06-25T23:53:00+00:00",
-  "last_updated": "2026-06-25T23:53:00+00:00",
-  "__last_updated": "2026-06-25T23:53:00+00:00",
-  "last_explore": "2026-06-25T23:53:00+00:00",
+  "last_discovery": "2026-06-26T00:08:00+00:00",
+  "last_updated": "2026-06-26T00:08:00+00:00",
+  "__last_updated": "2026-06-26T00:08:00+00:00",
+  "last_explore": "2026-06-26T00:08:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -1805,7 +1838,10 @@
       "7943dba2353e97368c5482e88cb78f25",
       "5a00933d4e8e1f2013d301808adc8b9c",
       "4a57152092c68785552130c33c2b24d7",
-      "bd85aca97d1823872d0e64762bd52961"
+      "bd85aca97d1823872d0e64762bd52961",
+      "84ce69fdedf686e5e03cf891897ef12e",
+      "2c999286489afbf5b759ae4bd3d8ed8c",
+      "f23ea4399a182cab1601632b2b6eb936"
     ],
     "last_discovery": "2026-06-25T23:12:09.658648+00:00",
     "last_run": "2026-06-25T23:12:09.658648+00:00",

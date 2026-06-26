@@ -607,3 +607,26 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes, 0 collisions with existing 96-hash pool
 - Theme-diversity discipline: continues breaking diffusion/video-heavy streak (last 5 runs were T2V-heavy / T2I-heavy / robotics-heavy / multimodal-heavy); picks span NLP/interpretability (linear-probe metric correction) + mobile-GUI agents (Context-as-Action policy) + CUA safety (runtime skill-invocation gating)
 - arxiv_id_set() helper applied to BOTH emergent_concept_papers AND chains.emergent-concepts.papers_found (both stores contain OrderedDict records post-Run-24, not bare strings — `set(...)` would crash)
+
+## Run 35 — 2026-06-26 00:08 UTC — Emergent-concept search (speech/audio MoE-distillation + medical transformer MIL + autonomous-driving VLM cross-cultural benchmark)
+
+- Mode: emergent_concept_search (chains all exhausted since 2026-05-25; 9 named chains at 4/4)
+- Method: hf_daily_emergent_concept_search (curl HF daily 3-day window + default page, SVELTE_HYDRATER unescape + json.JSONDecoder().raw_decode)
+- Window: 2026-06-23..2026-06-25 (3 day-pages + default page; 2026-06-26 not loaded — midnight UTC fetch race)
+- Candidates surveyed: 117 unique arxiv IDs across 4 sources (32 + 29 + 56 + 32 raw_decode hits, identical Run 34 numbers since HF daily pages are static for past dates)
+- After 5-store dedup (top-level last_result_hashes + llm-wiki + profiles.llm-wiki-explore.last_result_hashes + profiles.llm-wiki-explore.last_results + chains.emergent-concepts.papers_found + filesystem entities): 14 fresh candidates
+- After LLM-keyword filter: 14 LLM-relevant (mix of 3D/4D-video + VLA/robotics + speech/audio + medical/MIL + driving)
+- Picked 3 (theme-diversity — breaks recent diffusion/video/robotics/GUI/interpretability streaks with speech/audio MoE-distillation + medical transformer MIL + autonomous-driving VLM cross-cultural benchmark): Speaker Identity in NVV (Conditional Distillation + MoE over vocalization types) + QG-MIL (4-component gated transformer aggregator for cross-domain medical imaging) + Robusto-2 (full-factorial human-vs-VLM benchmark in Lima/NYC for AV OOD generalization)
+- Entity files created: speaker-identity-non-verbal-vocalizations-conditional-distillation-mixture-experts-2606.21215.md, qg-mil-gated-transformer-aggregator-domain-agnostic-multiple-instance-learning-medical-2606.20027.md, robusto-2-benchmarking-humans-vlms-autonomous-driving-lima-new-york-city-2606.20980.md
+- arxiv IDs added: 2606.21215, 2606.20027, 2606.20980
+- Parent updates: emergent-concepts.md ## Updates section prepended in date-DESC order (06-19 Speaker-NVV → 06-18 QG-MIL → 06-18 Robusto-2, same-date tiebreaker by insertion order); below them is the previous top entry (06-18 MemGUI-Agent from Run 34)
+- State files: explore_context.json (102 in emergent_concept_papers, 102 in emergent_discoveries, 93 in chains[emergent-concepts].papers_found, 34 runs, 34 emergent_concept_search_runs, entities_count=114); watch_profiles.json (102 top-level + 102 in llm-wiki + 102 in profiles.llm-wiki-explore last_result_hashes; 99 in profiles.llm-wiki-explore.last_results)
+- ensure_ascii detection: explore_context=False (raw em-dash bytes preserved), watch_profiles=True (escaped) — divergent stable state confirmed (23rd consecutive run)
+- Step 5.5 wikilink-resolution check: 0 broken across 3 new entity files (5+5+5 = 15 wikilinks resolved) AND 0 broken across all 15 wikilinks in the parent-update new block
+- WP 3-store lockstep invariant: SET-equality holds; per-store hash uniqueness verified separately (not cross-store concatenation which would falsely flag lockstep hashes as duplicates)
+- pitfall-68c idempotent run-record guard: NOW_ISO `2026-06-26T00:08:00+00:00` guarded via `{r.timestamp for r in runs}` before appending
+- pitfall-22 records-not-counters: runs and emergent_concept_search_runs appended as OrderedDict records, NOT via += 1
+- arxiv_id_set() helper applied to emergent_concept_papers, emergent_discoveries, AND chains.emergent-concepts.papers_found (all stores contain OrderedDict records, not bare strings)
+- Hash scheme for new last_result_hashes: MD5 of `emergent-concepts:{arxiv_id}:{slug}:{discovered}` — 3 unique hashes (84ce69fdedf686e5e03cf891897ef12e for 2606.21215, 2c999286489afbf5b759ae4bd3d8ed8c for 2606.20027, f23ea4399a182cab1601632b2b6eb936 for 2606.20980), 0 collisions with existing 99-hash pool
+- Theme-diversity discipline: continues breaking recent streaks (last 6 runs: GUI/interpretability/CUA-safety + streaming/capture-time/flow-safety + EO/OCR/flow + T2V-subject-driven + AR-diffusion-distillation-streaming + ... before that diffusion/video/T2I/3D/T2V/MDM/ICL-distillation); picks span speech/audio (NVV speaker verification) + medical/clinical (MIL aggregator cross-domain) + autonomous-driving (VLM cross-cultural benchmarking) — three genuinely distinct research surfaces
+- Per-run counter suffix on all /tmp/ artifacts: run0026
