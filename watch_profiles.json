@@ -805,7 +805,10 @@
         "f88d05df",
         "5c636d65bc2ea8fc5a8eb44863d3a901",
         "70e2ae8468a52b87013679c750a8948f",
-        "c78a73f961a4651d4e71cde499fa85a5"
+        "c78a73f961a4651d4e71cde499fa85a5",
+        "b838406f94eedb6d5661e44cb4ae8e39",
+        "a7f121eb4291ab40d6efad48c1d46244",
+        "0982c2a957b063cf6cd906c76873e7bb"
       ],
       "last_results": [
         {
@@ -1797,6 +1800,30 @@
           "url": "https://arxiv.org/abs/2606.07462",
           "discovered": "2026-06-26T02:30:41+00:00",
           "theme": "researcher-role-mimicry-benchmark"
+        },
+        {
+          "arxiv_id": "2606.26790",
+          "slug": "opid-on-policy-skill-distillation-for-agentic-reinforcement-learning-2606.26790",
+          "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2606.26790",
+          "date": "2026/06/25",
+          "theme": "on-policy-skill-distillation / dense-token-supervision / agentic-RL"
+        },
+        {
+          "arxiv_id": "2606.23687",
+          "slug": "randomized-yarn-improves-length-generalization-for-long-context-reasoning-2606.23687",
+          "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+          "url": "https://arxiv.org/abs/2606.23687",
+          "date": "2026/06/22",
+          "theme": "randomized-positional-encoding / length-generalization / long-context-reasoning"
+        },
+        {
+          "arxiv_id": "2606.01912",
+          "slug": "smh-bench-benchmarking-llm-agents-for-environment-grounded-reasoning-and-action-in-smart-homes-2606.01912",
+          "title": "SMH-Bench: Benchmarking LLM Agents for Environment-Grounded Reasoning and Action in Smart Homes",
+          "url": "https://arxiv.org/abs/2606.01912",
+          "date": "2026/06/01",
+          "theme": "environment-grounded-eval / smart-home-agent / sustained-agency-benchmark"
         }
       ],
       "last_run": "2026-06-25T23:12:09.658648+00:00",
@@ -1806,7 +1833,7 @@
       "last_pass_type": "emergent_concept"
     }
   },
-  "last_run": "2026-06-26T02:30:41+00:00",
+  "last_run": "2026-06-26T02:43:52Z",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -1933,12 +1960,15 @@
     "f88d05df",
     "5c636d65bc2ea8fc5a8eb44863d3a901",
     "70e2ae8468a52b87013679c750a8948f",
-    "c78a73f961a4651d4e71cde499fa85a5"
+    "c78a73f961a4651d4e71cde499fa85a5",
+    "b838406f94eedb6d5661e44cb4ae8e39",
+    "a7f121eb4291ab40d6efad48c1d46244",
+    "0982c2a957b063cf6cd906c76873e7bb"
   ],
-  "last_discovery": "2026-06-26T02:19:03+00:00",
-  "last_updated": "2026-06-26T02:30:41+00:00",
-  "__last_updated": "2026-06-26T02:30:41+00:00",
-  "last_explore": "2026-06-26T02:19:03+00:00",
+  "last_discovery": "2026-06-26T02:43:52Z",
+  "last_updated": "2026-06-26T02:43:52Z",
+  "__last_updated": "2026-06-26T02:43:52Z",
+  "last_explore": "2026-06-26T02:43:52Z",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -2066,11 +2096,14 @@
       "f88d05df",
       "5c636d65bc2ea8fc5a8eb44863d3a901",
       "70e2ae8468a52b87013679c750a8948f",
-      "c78a73f961a4651d4e71cde499fa85a5"
+      "c78a73f961a4651d4e71cde499fa85a5",
+      "b838406f94eedb6d5661e44cb4ae8e39",
+      "a7f121eb4291ab40d6efad48c1d46244",
+      "0982c2a957b063cf6cd906c76873e7bb"
     ],
     "last_discovery": "2026-06-25T23:12:09.658648+00:00",
     "last_run": "2026-06-25T23:12:09.658648+00:00",
     "last_updated": "2026-06-25T23:12:09.658648+00:00"
   },
-  "last_pass_type": "emergent-concept"
+  "last_pass_type": "emergent_concept_search"
 }

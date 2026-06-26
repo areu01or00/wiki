@@ -1204,6 +1204,30 @@
           "discovered": "2026-06-26T02:30:41+00:00",
           "theme": "researcher-role-mimicry-benchmark",
           "date": "2026-06-05"
+        },
+        {
+          "arxiv_id": "2606.26790",
+          "slug": "opid-on-policy-skill-distillation-for-agentic-reinforcement-learning-2606.26790",
+          "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2606.26790",
+          "date": "2026/06/25",
+          "theme": "on-policy-skill-distillation / dense-token-supervision / agentic-RL"
+        },
+        {
+          "arxiv_id": "2606.23687",
+          "slug": "randomized-yarn-improves-length-generalization-for-long-context-reasoning-2606.23687",
+          "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+          "url": "https://arxiv.org/abs/2606.23687",
+          "date": "2026/06/22",
+          "theme": "randomized-positional-encoding / length-generalization / long-context-reasoning"
+        },
+        {
+          "arxiv_id": "2606.01912",
+          "slug": "smh-bench-benchmarking-llm-agents-for-environment-grounded-reasoning-and-action-in-smart-homes-2606.01912",
+          "title": "SMH-Bench: Benchmarking LLM Agents for Environment-Grounded Reasoning and Action in Smart Homes",
+          "url": "https://arxiv.org/abs/2606.01912",
+          "date": "2026/06/01",
+          "theme": "environment-grounded-eval / smart-home-agent / sustained-agency-benchmark"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -2365,6 +2389,30 @@
       "discovered": "2026-06-26T02:30:41+00:00",
       "theme": "researcher-role-mimicry-benchmark",
       "date": "2026-06-05"
+    },
+    {
+      "arxiv_id": "2606.26790",
+      "slug": "opid-on-policy-skill-distillation-for-agentic-reinforcement-learning-2606.26790",
+      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.26790",
+      "date": "2026/06/25",
+      "theme": "on-policy-skill-distillation / dense-token-supervision / agentic-RL"
+    },
+    {
+      "arxiv_id": "2606.23687",
+      "slug": "randomized-yarn-improves-length-generalization-for-long-context-reasoning-2606.23687",
+      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+      "url": "https://arxiv.org/abs/2606.23687",
+      "date": "2026/06/22",
+      "theme": "randomized-positional-encoding / length-generalization / long-context-reasoning"
+    },
+    {
+      "arxiv_id": "2606.01912",
+      "slug": "smh-bench-benchmarking-llm-agents-for-environment-grounded-reasoning-and-action-in-smart-homes-2606.01912",
+      "title": "SMH-Bench: Benchmarking LLM Agents for Environment-Grounded Reasoning and Action in Smart Homes",
+      "url": "https://arxiv.org/abs/2606.01912",
+      "date": "2026/06/01",
+      "theme": "environment-grounded-eval / smart-home-agent / sustained-agency-benchmark"
     }
   ],
   "emergent_discoveries": [
@@ -3401,6 +3449,30 @@
       "discovered": "2026-06-26T02:30:41+00:00",
       "theme": "researcher-role-mimicry-benchmark",
       "date": "2026-06-05"
+    },
+    {
+      "arxiv_id": "2606.26790",
+      "slug": "opid-on-policy-skill-distillation-for-agentic-reinforcement-learning-2606.26790",
+      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.26790",
+      "date": "2026/06/25",
+      "theme": "on-policy-skill-distillation / dense-token-supervision / agentic-RL"
+    },
+    {
+      "arxiv_id": "2606.23687",
+      "slug": "randomized-yarn-improves-length-generalization-for-long-context-reasoning-2606.23687",
+      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+      "url": "https://arxiv.org/abs/2606.23687",
+      "date": "2026/06/22",
+      "theme": "randomized-positional-encoding / length-generalization / long-context-reasoning"
+    },
+    {
+      "arxiv_id": "2606.01912",
+      "slug": "smh-bench-benchmarking-llm-agents-for-environment-grounded-reasoning-and-action-in-smart-homes-2606.01912",
+      "title": "SMH-Bench: Benchmarking LLM Agents for Environment-Grounded Reasoning and Action in Smart Homes",
+      "url": "https://arxiv.org/abs/2606.01912",
+      "date": "2026/06/01",
+      "theme": "environment-grounded-eval / smart-home-agent / sustained-agency-benchmark"
     }
   ],
   "emergent_concept_search_log": [
@@ -4203,6 +4275,26 @@
       "thematic_framing": "rubric-conditioned-self-distillation + agent-skill-evolution-survey-four-paradigm-taxonomy + researcher-role-mimicry-benchmark (3-axis pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak-mechanism / Run 42 provenance+safety-measurement+prospective-research-judgment)",
       "dedup_rate": "68 HF candidates → 18 fresh → 6 LLM-relevant; 4 web_search queries → 3 fresh LLM-research picks; 5-store dedup invariant intact",
       "pitfalls_hit": "pitfall-66 (slug-from-title mismatch on 2 wikilinks, fixed via lookup_slug)"
+    },
+    {
+      "timestamp": "2026-06-26T02:43:52Z",
+      "run": "Run 44",
+      "mode": "emergent_concept",
+      "candidates_count": 9,
+      "fresh_after_5store": 9,
+      "picks_count": 3,
+      "slugs": [
+        "opid-on-policy-skill-distillation-for-agentic-reinforcement-learning-2606.26790",
+        "randomized-yarn-improves-length-generalization-for-long-context-reasoning-2606.23687",
+        "smh-bench-benchmarking-llm-agents-for-environment-grounded-reasoning-and-action-in-smart-homes-2606.01912"
+      ],
+      "themes": [
+        "on-policy-skill-distillation / dense-token-supervision / agentic-RL",
+        "randomized-positional-encoding / length-generalization / long-context-reasoning",
+        "environment-grounded-eval / smart-home-agent / sustained-agency-benchmark"
+      ],
+      "thematic_framing": "on-policy-skill-distillation-for-agentic-RL + randomized-YaRN-length-generalization + SMH-Bench-environment-grounded-smart-home-eval (3-axis pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak / Run 42 provenance+safety-measurement+prospective-research / Run 43 rubric-self-distill+skill-survey+researcher-mimicry)",
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "emergent_concept_search_runs": [
@@ -4962,6 +5054,28 @@
       "thematic_framing": "rubric-conditioned-self-distillation + agent-skill-evolution-survey + researcher-role-mimicry-benchmark (3-axis pivot)",
       "dedup_rate": "68 HF → 18 fresh → 6 LLM-relevant; 4 web_search queries → 3 fresh picks",
       "pitfalls_hit": "pitfall-66 fixed"
+    },
+    {
+      "ts": "2026-06-26T02:43:52Z",
+      "method": "HF daily 4-source + 4-query web_search escape hatch + 5-store dedup",
+      "papers": [
+        "2606.26790",
+        "2606.23687",
+        "2606.01912"
+      ],
+      "slugs": [
+        "opid-on-policy-skill-distillation-for-agentic-reinforcement-learning-2606.26790",
+        "randomized-yarn-improves-length-generalization-for-long-context-reasoning-2606.23687",
+        "smh-bench-benchmarking-llm-agents-for-environment-grounded-reasoning-and-action-in-smart-homes-2606.01912"
+      ],
+      "themes": [
+        "on-policy-skill-distillation / dense-token-supervision / agentic-RL",
+        "randomized-positional-encoding / length-generalization / long-context-reasoning",
+        "environment-grounded-eval / smart-home-agent / sustained-agency-benchmark"
+      ],
+      "thematic_framing": "on-policy-skill-distillation-for-agentic-RL + randomized-YaRN-length-generalization + SMH-Bench-environment-grounded-smart-home-eval (3-axis pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak / Run 42 provenance+safety-measurement+prospective-research / Run 43 rubric-self-distill+skill-survey+researcher-mimicry)",
+      "dedup_rate": "125 HF → 27 fresh → 9 LLM-relevant; 2 web_search batches; 3 picks from HF + meta-search",
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "runs": [
@@ -5436,6 +5550,18 @@
       ],
       "entities_count_after": 138,
       "pitfalls_hit": "pitfall-66 caught 2 wikilinks (wrong arxiv-id suffix), patched"
+    },
+    {
+      "timestamp": "2026-06-26T02:43:52Z",
+      "mode": "emergent_concept",
+      "theme": "on-policy-skill-distillation-for-agentic-RL + randomized-YaRN-length-generalization + SMH-Bench-environment-grounded-smart-home-eval (3-axis pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak / Run 42 provenance+safety-measurement+prospective-research / Run 43 rubric-self-distill+skill-survey+researcher-mimicry)",
+      "papers_added": [
+        "opid-on-policy-skill-distillation-for-agentic-reinforcement-learning-2606.26790",
+        "randomized-yarn-improves-length-generalization-for-long-context-reasoning-2606.23687",
+        "smh-bench-benchmarking-llm-agents-for-environment-grounded-reasoning-and-action-in-smart-homes-2606.01912"
+      ],
+      "entities_count_after": 141,
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "last_updated": "2026-06-26T02:01:10+00:00",

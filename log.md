@@ -1067,3 +1067,17 @@ Updated log.md via `git show HEAD:log.md > /tmp/run0043/log.md.restored` + `cat 
 - 138 entity count (126 paper + 12 meta)
 - 3-store lockstep invariant intact at 126 hashes
 - 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
+## Run 44 — 2026-06-26 02:38 UTC
+
+- Mode: emergent-concept search (all 9 chains at 4/4 since 2026-05-25)
+- Picks:
+  - OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning (2606.26790, 06-25) — on-policy skill-conditioned self-distillation providing dense token-level supervision for agentic RL, replacing sparse trajectory-level rewards and removing dependence on external skill memories
+  - Randomized YaRN Improves Length Generalization for Long-Context Reasoning (2606.23687, 06-22) — randomized positional-encoding during YaRN extension recovers long-context reasoning performance at 16K-128K windows, outperforming standard fine-tuning
+  - SMH-Bench: Benchmarking LLM Agents for Environment-Grounded Reasoning and Action in Smart Homes (2606.01912, 06-01) — first sustained-environment-grounded agent benchmark for evolving smart-home worlds beyond static instruction-to-API mapping
+- Theme pivot: 3-axis pivot from Run 37-38 agent-eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak / Run 42 provenance+safety-measurement+prospective-research / Run 43 rubric-self-distill+skill-survey+researcher-mimicry — Run 44 covers **on-policy-skill-distillation + randomized-YaRN-length-generalization + environment-grounded-smart-home-eval** (no overlap with prior streaks)
+- HF daily pool thinness: 125 candidates in 4 sources → 27 fresh → 9 LLM-keyword-relevant (CV/3D-heavy week continues, web_search escape hatch remained primary substrate)
+- All 4 phase verifications pass: pre-write `ls | grep` discovery, post-write per-entity wikilink audit (0 broken), parent new-block audit (0 broken), date-DESC ordering verified
+- 32nd consecutive clean run of avoided-pitfalls
+- 141 entity count (129 paper + 12 meta)
+- 3-store lockstep invariant intact at 129 hashes
+- 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
