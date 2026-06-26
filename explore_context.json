@@ -2,10 +2,10 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-26T01:17:00+00:00",
-  "__last_updated": "2026-06-26T01:17:00+00:00",
-  "last_run": "2026-06-26T01:17:00+00:00",
-  "last_explore": "2026-06-26T01:17:00+00:00",
+  "updated": "2026-06-26T01:42:00+00:00",
+  "__last_updated": "2026-06-26T01:42:00+00:00",
+  "last_run": "2026-06-26T01:42:00+00:00",
+  "last_explore": "2026-06-26T01:42:00+00:00",
   "last_global_explore": "2026-06-26T01:17:00+00:00",
   "last_discovery": "2026-06-26T01:17:00+00:00",
   "last_run_framing": "post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry (pivots from Run 38 agent-evaluation-deployment streak to post-training + memory + safety-mechanism surfaces)",
@@ -14,15 +14,11 @@
   "last_pass_type": "emergent_concept_search",
   "last_run_method": "hf_daily_emergent_concept_search + web_search_escape_hatch",
   "run_method": "emergent-concept-search",
-  "last_run_added": [
-    "progress-advantage-neglected-free-lunch-post-training-llm-agents-2606.26080",
-    "trustmem-trustworthy-memory-consolidation-llm-agents-long-term-memory-2606.25161",
-    "geometry-of-refusal-linear-instability-safety-aligned-llms-2606.22686"
-  ],
+  "last_run_added": "2026-06-26T01:42:00+00:00",
   "exploration_type": "emergent_concept",
   "emergent_concept_theme": "post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry",
   "emergent_theme": "post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry",
-  "chains_updated": "2026-06-26T01:17:00+00:00",
+  "chains_updated": "2026-06-26T01:42:00+00:00",
   "entities_count": 126,
   "chains": {
     "attention-is-all-you-need": {
@@ -1100,6 +1096,33 @@
           "vector": "emergent_concept_mechanistic_safety_geometry",
           "discovered": "2026-06-26T01:17:00+00:00",
           "theme": "mechanistic-safety-geometry / logit-level-steering / linear-feature / bidirectional-defense"
+        },
+        {
+          "arxiv_id": "2606.25057",
+          "slug": "llm-based-scientific-peer-review-methods-benchmarks-reliability-challenges-2606.25057",
+          "title": "LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges",
+          "url": "https://arxiv.org/abs/2606.25057",
+          "vector": "emergent-concept-search",
+          "discovered": "2026-06-26T01:42:00+00:00",
+          "theme": "llm-peer-review-survey + adversarial-robustness-inventory"
+        },
+        {
+          "arxiv_id": "2606.07909",
+          "slug": "memtoolagent-leveraging-memory-tool-using-agents-environment-user-feedback-2606.07909",
+          "title": "MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback",
+          "url": "https://arxiv.org/abs/2606.07909",
+          "vector": "emergent-concept-search",
+          "discovered": "2026-06-26T01:42:00+00:00",
+          "theme": "tool-use-memory-mechanism + reflection-based-extraction"
+        },
+        {
+          "arxiv_id": "2606.04037",
+          "slug": "toward-pre-deployment-assurance-enterprise-ai-agents-ontology-grounded-simulation-trust-certification-2606.04037",
+          "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+          "url": "https://arxiv.org/abs/2606.04037",
+          "vector": "emergent-concept-search",
+          "discovered": "2026-06-26T01:42:00+00:00",
+          "theme": "ontology-grounded-pre-deployment-verification + trust-certification"
         }
       ],
       "last_run": "2026-06-25T22:23:00+00:00",
@@ -2150,6 +2173,33 @@
       "vector": "emergent_concept_mechanistic_safety_geometry",
       "discovered": "2026-06-26T01:17:00+00:00",
       "theme": "mechanistic-safety-geometry / logit-level-steering / linear-feature / bidirectional-defense"
+    },
+    {
+      "arxiv_id": "2606.25057",
+      "slug": "llm-based-scientific-peer-review-methods-benchmarks-reliability-challenges-2606.25057",
+      "title": "LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges",
+      "url": "https://arxiv.org/abs/2606.25057",
+      "vector": "emergent-concept-search",
+      "discovered": "2026-06-26T01:42:00+00:00",
+      "theme": "llm-peer-review-survey + adversarial-robustness-inventory"
+    },
+    {
+      "arxiv_id": "2606.07909",
+      "slug": "memtoolagent-leveraging-memory-tool-using-agents-environment-user-feedback-2606.07909",
+      "title": "MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback",
+      "url": "https://arxiv.org/abs/2606.07909",
+      "vector": "emergent-concept-search",
+      "discovered": "2026-06-26T01:42:00+00:00",
+      "theme": "tool-use-memory-mechanism + reflection-based-extraction"
+    },
+    {
+      "arxiv_id": "2606.04037",
+      "slug": "toward-pre-deployment-assurance-enterprise-ai-agents-ontology-grounded-simulation-trust-certification-2606.04037",
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "vector": "emergent-concept-search",
+      "discovered": "2026-06-26T01:42:00+00:00",
+      "theme": "ontology-grounded-pre-deployment-verification + trust-certification"
     }
   ],
   "emergent_discoveries": [
@@ -3087,6 +3137,33 @@
       "url": "https://arxiv.org/abs/2606.22686",
       "vector": "emergent_concept_mechanistic_safety_geometry",
       "discovered": "2026-06-26T01:17:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.25057",
+      "slug": "llm-based-scientific-peer-review-methods-benchmarks-reliability-challenges-2606.25057",
+      "title": "LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges",
+      "url": "https://arxiv.org/abs/2606.25057",
+      "vector": "emergent-concept-search",
+      "discovered": "2026-06-26T01:42:00+00:00",
+      "theme": "llm-peer-review-survey + adversarial-robustness-inventory"
+    },
+    {
+      "arxiv_id": "2606.07909",
+      "slug": "memtoolagent-leveraging-memory-tool-using-agents-environment-user-feedback-2606.07909",
+      "title": "MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback",
+      "url": "https://arxiv.org/abs/2606.07909",
+      "vector": "emergent-concept-search",
+      "discovered": "2026-06-26T01:42:00+00:00",
+      "theme": "tool-use-memory-mechanism + reflection-based-extraction"
+    },
+    {
+      "arxiv_id": "2606.04037",
+      "slug": "toward-pre-deployment-assurance-enterprise-ai-agents-ontology-grounded-simulation-trust-certification-2606.04037",
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "vector": "emergent-concept-search",
+      "discovered": "2026-06-26T01:42:00+00:00",
+      "theme": "ontology-grounded-pre-deployment-verification + trust-certification"
     }
   ],
   "emergent_concept_search_log": [
@@ -3804,6 +3881,30 @@
         "2606.22686"
       ],
       "thematic_framing": "post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry (breaks Run 37-38 agent-evaluation-deployment streak with three distinct surfaces)"
+    },
+    {
+      "ts": "2026-06-26T01:42:00+00:00",
+      "papers": [
+        "2606.25057",
+        "2606.07909",
+        "2606.04037"
+      ],
+      "slugs": [
+        "llm-based-scientific-peer-review-methods-benchmarks-reliability-challenges-2606.25057",
+        "memtoolagent-leveraging-memory-tool-using-agents-environment-user-feedback-2606.07909",
+        "toward-pre-deployment-assurance-enterprise-ai-agents-ontology-grounded-simulation-trust-certification-2606.04037"
+      ],
+      "themes": [
+        "llm-peer-review-survey + adversarial-robustness-inventory",
+        "tool-use-memory-mechanism + reflection-based-extraction",
+        "ontology-grounded-pre-deployment-verification + trust-certification"
+      ],
+      "method": "HF-daily-3day + web_search-4queries + 5-store-dedup",
+      "hf_candidates": 62,
+      "fresh_after_dedup": 12,
+      "llm_relevant_hf": 4,
+      "web_search_candidates": 14,
+      "dedup_rate": "12-of-62-fresh-HF + 14-fresh-web-search / 117-existing"
     }
   ],
   "emergent_concept_search_runs": [
@@ -4475,6 +4576,28 @@
       "thematic_framing": "post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry (pivots from Run 38 agent-evaluation-deployment streak to three genuinely distinct surfaces: free step-level scoring byproduct from RL post-training; memory-update-transition reliability along coverage/preservation/faithfulness axes; mechanistic safety geometry where refusal is a linearly decodable feature with architectural phase transitions and bidirectional exploit/defend control)",
       "dedup_rate": "62 HF candidates (CV/3D-heavy pool) → 12 fresh after 5-store dedup → 5 LLM-relevant HF; 4 web_search queries surfaced 16 fresh candidates; combined → 21 fresh total → 3 picks",
       "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass — fixed via patch with existing-entity siblings"
+    },
+    {
+      "ts": "2026-06-26T01:42:00+00:00",
+      "method": "HF-daily-3day + web_search-4queries + 5-store-dedup + theme-pivot-from-Run-37-38-eval-streak-and-Run-39-post-training-memory-safety-streak",
+      "papers": [
+        "2606.25057",
+        "2606.07909",
+        "2606.04037"
+      ],
+      "slugs": [
+        "llm-based-scientific-peer-review-methods-benchmarks-reliability-challenges-2606.25057",
+        "memtoolagent-leveraging-memory-tool-using-agents-environment-user-feedback-2606.07909",
+        "toward-pre-deployment-assurance-enterprise-ai-agents-ontology-grounded-simulation-trust-certification-2606.04037"
+      ],
+      "themes": [
+        "llm-peer-review-survey + adversarial-robustness-inventory",
+        "tool-use-memory-mechanism + reflection-based-extraction",
+        "ontology-grounded-pre-deployment-verification + trust-certification"
+      ],
+      "thematic_framing": "operational-infrastructure-for-agents — tool-use-memory + formal-pre-deployment-verification + automated-scientific-review (3 axes distinct from Run 37-38 agent-eval streak and Run 39 post-training+memory+safety-mechanism streak)",
+      "dedup_rate": "12-of-62-fresh-HF + 14-fresh-web-search / 117-existing",
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "runs": [
@@ -4901,6 +5024,18 @@
       ],
       "entities_count_after": 126,
       "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass — fixed by replacing with existing-entity siblings (Learning-from-Your-Own-Mistakes + Escaping-Self-Confirmation-Trap + ReNIO + PlanBench-XL)"
+    },
+    {
+      "timestamp": "2026-06-26T01:42:00+00:00",
+      "mode": "emergent_concept",
+      "theme": "tool-use-memory-mechanism + ontology-grounded-pre-deployment-verification + llm-peer-review-survey",
+      "papers_added": [
+        "llm-based-scientific-peer-review-methods-benchmarks-reliability-challenges-2606.25057",
+        "memtoolagent-leveraging-memory-tool-using-agents-environment-user-feedback-2606.07909",
+        "toward-pre-deployment-assurance-enterprise-ai-agents-ontology-grounded-simulation-trust-certification-2606.04037"
+      ],
+      "entities_count_after": 132,
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "last_updated": "2026-06-26T01:02:11+00:00",

@@ -793,7 +793,10 @@
         "e93e5bd354201e99f9e9671b96cf031c",
         "5259ff30ce205b39b88da7eaf1bbb27c",
         "124839e4aa2f83a8eaecb5fb3fe3ef26",
-        "b75369bbfabae5e07899fa061546eefa"
+        "b75369bbfabae5e07899fa061546eefa",
+        "dbbf60325a1a3ab560c3a4eae59b67f8",
+        "18fc1730d2fa7969eb3fe508fb03ae73",
+        "cf41a36c313b752efc01978555b0a151"
       ],
       "last_results": [
         {
@@ -1692,6 +1695,30 @@
           "slug": "geometry-of-refusal-linear-instability-safety-aligned-llms-2606.22686",
           "hash": "b75369bbfabae5e07899fa061546eefa",
           "discovered": "2026-06-26T01:17:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.25057",
+          "slug": "llm-based-scientific-peer-review-methods-benchmarks-reliability-challenges-2606.25057",
+          "title": "LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges",
+          "discovered": "2026-06-26T01:42:00+00:00",
+          "method": "emergent-concept-search",
+          "theme": "llm-peer-review-survey + adversarial-robustness-inventory"
+        },
+        {
+          "arxiv_id": "2606.07909",
+          "slug": "memtoolagent-leveraging-memory-tool-using-agents-environment-user-feedback-2606.07909",
+          "title": "MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback",
+          "discovered": "2026-06-26T01:42:00+00:00",
+          "method": "emergent-concept-search",
+          "theme": "tool-use-memory-mechanism + reflection-based-extraction"
+        },
+        {
+          "arxiv_id": "2606.04037",
+          "slug": "toward-pre-deployment-assurance-enterprise-ai-agents-ontology-grounded-simulation-trust-certification-2606.04037",
+          "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+          "discovered": "2026-06-26T01:42:00+00:00",
+          "method": "emergent-concept-search",
+          "theme": "ontology-grounded-pre-deployment-verification + trust-certification"
         }
       ],
       "last_run": "2026-06-25T23:12:09.658648+00:00",
@@ -1816,11 +1843,14 @@
     "e93e5bd354201e99f9e9671b96cf031c",
     "5259ff30ce205b39b88da7eaf1bbb27c",
     "124839e4aa2f83a8eaecb5fb3fe3ef26",
-    "b75369bbfabae5e07899fa061546eefa"
+    "b75369bbfabae5e07899fa061546eefa",
+    "dbbf60325a1a3ab560c3a4eae59b67f8",
+    "18fc1730d2fa7969eb3fe508fb03ae73",
+    "cf41a36c313b752efc01978555b0a151"
   ],
   "last_discovery": "2026-06-26T01:17:00+00:00",
-  "last_updated": "2026-06-26T01:17:00+00:00",
-  "__last_updated": "2026-06-26T01:17:00+00:00",
+  "last_updated": "2026-06-26T01:42:00+00:00",
+  "__last_updated": "2026-06-26T01:42:00+00:00",
   "last_explore": "2026-06-26T01:17:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
@@ -1937,11 +1967,14 @@
       "e93e5bd354201e99f9e9671b96cf031c",
       "5259ff30ce205b39b88da7eaf1bbb27c",
       "124839e4aa2f83a8eaecb5fb3fe3ef26",
-      "b75369bbfabae5e07899fa061546eefa"
+      "b75369bbfabae5e07899fa061546eefa",
+      "dbbf60325a1a3ab560c3a4eae59b67f8",
+      "18fc1730d2fa7969eb3fe508fb03ae73",
+      "cf41a36c313b752efc01978555b0a151"
     ],
     "last_discovery": "2026-06-25T23:12:09.658648+00:00",
     "last_run": "2026-06-25T23:12:09.658648+00:00",
     "last_updated": "2026-06-25T23:12:09.658648+00:00"
   },
-  "last_pass_type": "emergent_concept_search"
+  "last_pass_type": "emergent-concept-search"
 }

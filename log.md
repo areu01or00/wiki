@@ -740,3 +740,51 @@ A parallel wiki-explore-agent run fired at 16:15 UTC during this session and com
 - web_search refinement surfaced 16 fresh LLM-research candidates that the HF CV/3D-heavy pool missed — extends Run 37-38 escape hatch pattern (Run 39 used 4 queries for higher recall, picking 3 from the union)
 - Per-run counter suffix on all /tmp/ artifacts: run0039
 - 7-file atomic commit pattern (3 new entity files + parent emergent-concepts.md + explore_context.json + watch_profiles.json + log.md)
+
+## Run 2026-06-26 01:42 UTC — Run 40 — Operational Infrastructure for Agents (3 axes distinct from Run 37-38 agent-eval streak and Run 39 post-training+memory+safety-mechanism streak)
+
+**Mode**: Emergent-concept search (all 9 chains at 4/4 since 2026-05-25)
+**Picks**:
+1. [[llm-based-scientific-peer-review-methods-benchmarks-reliability-challenges-2606.25057]] — LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges (06-23) — survey of automated scientific review with adversarial-robustness inventory (prompt injection, data poisoning, retrieval vulnerabilities, reward hacking) — treats automated peer review as a high-stakes, multi-objective decision problem
+2. [[memtoolagent-leveraging-memory-tool-using-agents-environment-user-feedback-2606.07909]] — MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback (06-06) — tool-use memory mechanism with reflection-based extraction (no LLM fine-tuning), 29%/80%/17% gains on WorkBench/NESTFUL/PEToolBench; first tool-call-history-as-memory-substrate framework
+3. [[toward-pre-deployment-assurance-enterprise-ai-agents-ontology-grounded-simulation-trust-certification-2606.04037]] — Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification (06-02) — first framework combining Agent Operational Envelope + ontology-to-scenario generation + machine-verifiable Trust Certificate; 1,800 scenarios across 5 industry-by-regulatory cells (US + Vietnam's 2025 AI Law)
+
+**Theme-pivot discipline (verified Run 40)**: deliberately pivots from BOTH the Run 37-38 agent-evaluation-deployment streak AND the Run 39 post-training+memory+safety-mechanism streak. Three structurally different axes on the agent-operational-infrastructure surface: automated scientific review (peer-review meta-task) + tool-use memory mechanism (tool-call substrate) + ontology-grounded pre-deployment verification (formal-methods surface). Each pick verified first-in-wiki via pre-write `ls entities/ | grep` returning empty for each surface keyword.
+
+**Web_search escape hatch (verified Run 40)**: HF daily 3-day window returned 62 unique candidates; only 12 fresh after 5-store dedup; only 4 LLM-relevant (heavily CV/3D-flavored). 4-query web_search expansion surfaced 14 fresh LLM-research candidates. Pre-flight count of LLM-relevant HF candidates (<5) triggered the 4-query pattern per Run 39 lesson.
+
+**All 4 phase verifications pass (Run 40)**:
+- Phase 1 (Pre-write `ls | grep`): theme-keyword discovery for each of 3 picks — verified first-in-wiki surface for each
+- Phase 2 (Post-write per-entity audit): 13 wikilinks across 3 new files (5+4+4), 0 broken on first pass (forward-prevention via Run 35 lesson worked — no audit-then-fix cycles needed)
+- Phase 3 (Parent new-block audit): 3 wikilinks in prepended block, 0 broken, 0 placeholder
+- Phase 4 (Date-DESC verification): top-3 entries verified as LLM Peer Review (06-23) → MemToolAgent (06-06) → Pre-Deployment Assurance (06-02), matching expected date-DESC order
+
+**State-file schema gotchas all caught (verified Run 40)**:
+- emergent_concept_papers entries are dicts: arxiv_id_set() helper applied for dedup
+- emergent_discoveries entries are dicts: same helper, same pattern
+- chains.emergent-concepts.papers_found entries are dicts: same helper, same pattern
+- runs and emergent_concept_search_runs are lists of records: OrderedDict append pattern with structured fields, idempotent timestamp guard
+- Idempotent run-record guard: timestamp-checked before append (no NameError, no partial-write state)
+
+**3-store lockstep invariant verified (Run 40)**:
+- SET-equality: set(top) == set(llm) == set(exp) — verified at 117 hashes each
+- Per-store uniqueness: len(store) == len(set(store)) separately for each store — verified 0 duplicates
+- Pre-write assertion: all 3 invariant checks PASSED (114 hashes each)
+- Post-write re-verification: all 3 invariant checks PASSED (117 hashes each)
+
+**ensure_ascii divergent stable state preserved (28th consecutive run)**:
+- explore_context.json: ensure_ascii=False (raw em-dash bytes preserved)
+- watch_profiles.json: ensure_ascii=True (escaped)
+- detect_ensure_ascii() helper read each file's first 8000 bytes before write and re-verified after write — both states preserved
+
+**Cycle counts**:
+- 62 HF candidates in 4 sources (default + 06-26 + 06-25 + 06-24) → 12 fresh after 5-store dedup → 4 LLM-relevant (mostly CV/3D — UnityShots, FLUX3D, GridVQA-X, EventVLA)
+- 14 web_search candidates (4 queries) → 14 fresh after 5-store dedup → 14 LLM-relevant (memory + agent-eval + safety + tool-use)
+- 18 LLM-relevant total → 3 picks (theme-pivot from Run 37-38 eval streak and Run 39 post-training+memory+safety streak)
+- 13 wikilinks across 3 new entity files (5+4+4) → 0 broken (Run 35 forward-prevention worked)
+- 3 wikilinks in parent new-block → 0 broken, 0 placeholder
+- 28th consecutive clean run of avoided-pitfalls
+- 3 new hashes (dbbf6032, 18fc1730, cf41a36c) all unique vs 114-hash pool
+- 129 entity count (117 paper + 12 meta)
+- 3-store lockstep invariant intact at 117 hashes
+- 7-file atomic commit pattern (3 new entity files + parent + 2 state + log.md)
