@@ -928,7 +928,10 @@
         "2601.21617",
         "2606.07367",
         "2606.01075",
-        "2605.20914"
+        "2605.20914",
+        "2606.08098",
+        "2604.14853",
+        "2602.23681"
       ],
       "last_results": [
         {
@@ -3003,6 +3006,42 @@
           "slug": "rise-reliable-improvement-in-self-evolving-vision-language-models-2605.20914",
           "online_date": "2026-05-26",
           "run_number": 85
+        },
+        {
+          "arxiv_id": "2606.08098",
+          "title": "When Does Delegation Beat Majority? A Delegation-Based Aggregator for Multi-Sample LLM Inference",
+          "hash": "260cb9be4026e191138c4bb7e3e1d63e",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "multi-sample-aggregation / propagation-based-delegation / letter-entropy / reasoning-geometry / unsupervised-aggregator / majority-voting-alternative",
+          "discovered": "2026-06-29T03:55:00+00:00",
+          "slug": "when-does-delegation-beat-majority-a-delegation-based-aggregator-for-multi-sample-llm-inference-2606.08098",
+          "online_date": "2026-06-11",
+          "run_number": 86
+        },
+        {
+          "arxiv_id": "2604.14853",
+          "title": "Adaptive Test-Time Compute Allocation for Reasoning LLMs via Constrained Policy Optimization",
+          "hash": "75b14f92b54e99704f1be3fcb1c99dcb",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "test-time-compute-allocation / constrained-policy-optimization / lagrangian-relaxation / solve-then-learn / budget-targeting",
+          "discovered": "2026-06-29T03:55:00+00:00",
+          "slug": "adaptive-test-time-compute-allocation-for-reasoning-llms-via-constrained-policy-optimization-2604.14853",
+          "online_date": "2026-04-16",
+          "run_number": 86
+        },
+        {
+          "arxiv_id": "2602.23681",
+          "title": "ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference",
+          "hash": "81623e2b3856160becc44b2402dec6d3",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "active-inference-grounded-routing / free-energy-fusion / difficulty-aware-fast-slow-agent / variational-free-energy / varentropy",
+          "discovered": "2026-06-29T03:55:00+00:00",
+          "slug": "odar-principled-adaptive-routing-for-llm-reasoning-via-active-inference-2602.23681",
+          "online_date": "2026-02-27",
+          "run_number": 86
         }
       ],
       "last_run": "2026-06-29T05:30:00+00:00",
@@ -3015,7 +3054,7 @@
       "last_run_framing": "Run 83 CAUSAL-INFERENCE-PROBE per Rule 50"
     }
   },
-  "last_run": "2026-06-29T03:30:00+00:00",
+  "last_run": "2026-06-29T03:55:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3265,10 +3304,13 @@
     "2601.21617",
     "2606.07367",
     "2606.01075",
-    "2605.20914"
+    "2605.20914",
+    "2606.08098",
+    "2604.14853",
+    "2602.23681"
   ],
   "last_discovery": "2026-06-29T05:30:00+00:00",
-  "last_updated": "2026-06-29T08:00:00+00:00",
+  "last_updated": "2026-06-29T03:55:00+00:00",
   "__last_updated": "2026-06-29T03:30:00+00:00",
   "last_explore": "2026-06-29T03:30:00+00:00",
   "llm-wiki": {
@@ -3521,7 +3563,10 @@
       "2601.21617",
       "2606.07367",
       "2606.01075",
-      "2605.20914"
+      "2605.20914",
+      "2606.08098",
+      "2604.14853",
+      "2602.23681"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T05:30:00+00:00",
@@ -3594,7 +3639,7 @@
     "last_pass_type": "emergent_concept",
     "updated_at": "2026-06-29T05:30:00+00:00"
   },
-  "last_pass_type": "emergent-concept-search",
+  "last_pass_type": "explore",
   "last_results": [
     {
       "arxiv_id": "2605.21768",
@@ -3774,6 +3819,6 @@
       "run_number": 83
     }
   ],
-  "last_run_framing": "Run 83 CAUSAL-INFERENCE-PROBE per Rule 50",
-  "updated": "2026-06-29T08:00:00+00:00"
+  "last_run_framing": "Rule 53 TEST-TIME-COMPUTE-SCALING-PROBE",
+  "updated": "2026-06-29T03:55:00+00:00"
 }
