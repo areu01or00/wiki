@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-06-29T23:55:00+00:00",
-  "last_run": 134,
-  "last_explore": "2026-06-29T23:55:00+00:00",
-  "last_global_explore": "2026-06-29T23:55:00+00:00",
-  "last_discovery": "2026-06-29T23:55:00+00:00",
-  "last_run_framing": "AGENTIC-PLANNING-COLLAPSE-PROBE \u2014 Rule 90",
-  "last_framing": "AGENTIC-PLANNING-COLLAPSE-PROBE (Rule 90): CONTEXT-DRIFT + ERROR-ATTRIBUTION + TYPED-TOOL-CONSTRAINT",
-  "last_run_notes": "Run 134: Rule 90 AGENTIC-PLANNING-COLLAPSE-PROBE: Context Drift + REFLECT Error Attribution + DisasterBench",
+  "last_run": 135,
+  "last_explore": "2026-06-29T20:15:36.919500+00:00",
+  "last_global_explore": "2026-06-29T20:15:36.919500+00:00",
+  "last_discovery": "2026-06-29T20:15:36.919500+00:00",
+  "last_run_framing": "EMERGENT-AGENTIC-BENCHMARK-PROBE \u2014 Rule 91",
+  "last_framing": "EMERGENT-AGENTIC-BENCHMARK-PROBE (Rule 91): SIDCONARENA + DECOUPLING-RECONNAISSANCE + CONSTRAINT-MANIFOLD-CONTROL",
+  "last_run_notes": "Run 135: Rule 91 EMERGENT-AGENTIC-BENCHMARK-PROBE: SidConArena + Decoupling-Reconnaissance + Safe-Generalizable",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 411,
+  "entities_count": 414,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5020,6 +5020,39 @@
       "url": "https://arxiv.org/abs/2605.27957",
       "discovered": "2026-06-29T23:55:00+00:00",
       "theme": "agentic-planning-collapse / typed-tool-constraint / benchmark"
+    },
+    {
+      "arxiv_id": "2606.27397",
+      "title": "SidConArena: An Environment Evaluating Agents in Open-Ended, Positive-Sum Bargaining Game",
+      "slug": "sidconarena-open-ended-positive-sum-bargaining-benchmark-2606.27397",
+      "url": "https://arxiv.org/abs/2606.27397",
+      "theme": "agent-eval / positive-sum bargaining benchmark / emergent-agentic-benchmark",
+      "discovered": "2026-06-29T20:15:36.919430+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "hash": "60ef4710bed7dd9264b90cd7abff090a"
+    },
+    {
+      "arxiv_id": "2606.25332",
+      "title": "Decoupling Reconnaissance and Exploitation: Measuring the Capability Boundaries of LLM-Based Web Penetration Testing",
+      "slug": "decoupling-reconnaissance-exploitation-capability-boundaries-llm-pentest-2606.25332",
+      "url": "https://arxiv.org/abs/2606.25332",
+      "theme": "agent-eval / decoupled reconnaissance-exploitation capability assessment",
+      "discovered": "2026-06-29T20:15:36.919444+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "hash": "73853584ba232d3a183998f7bd658973"
+    },
+    {
+      "arxiv_id": "2606.24010",
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "slug": "safe-generalizable-hierarchical-multi-agent-rl-constraint-manifold-2606.24010",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "theme": "agent-eval / safe multi-agent RL / constraint manifold control",
+      "discovered": "2026-06-29T20:15:36.919446+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "hash": "fd22045d1f87ba2c63c754333b1cd99c"
     }
   ],
   "emergent_discoveries": [
@@ -8206,6 +8239,30 @@
       "url": "https://arxiv.org/abs/2605.27957",
       "discovered": "2026-06-29T23:55:00+00:00",
       "theme": "agentic-planning-collapse / typed-tool-constraint / benchmark"
+    },
+    {
+      "arxiv_id": "2606.27397",
+      "title": "SidConArena: An Environment Evaluating Agents in Open-Ended, Positive-Sum Bargaining Game",
+      "slug": "sidconarena-open-ended-positive-sum-bargaining-benchmark-2606.27397",
+      "url": "https://arxiv.org/abs/2606.27397",
+      "discovered": "2026-06-29T20:15:36.919430+00:00",
+      "theme": "agent-eval / positive-sum bargaining benchmark / emergent-agentic-benchmark"
+    },
+    {
+      "arxiv_id": "2606.25332",
+      "title": "Decoupling Reconnaissance and Exploitation: Measuring the Capability Boundaries of LLM-Based Web Penetration Testing",
+      "slug": "decoupling-reconnaissance-exploitation-capability-boundaries-llm-pentest-2606.25332",
+      "url": "https://arxiv.org/abs/2606.25332",
+      "discovered": "2026-06-29T20:15:36.919444+00:00",
+      "theme": "agent-eval / decoupled reconnaissance-exploitation capability assessment"
+    },
+    {
+      "arxiv_id": "2606.24010",
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "slug": "safe-generalizable-hierarchical-multi-agent-rl-constraint-manifold-2606.24010",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "discovered": "2026-06-29T20:15:36.919446+00:00",
+      "theme": "agent-eval / safe multi-agent RL / constraint manifold control"
     }
   ],
   "emergent_concept_search_log": [
@@ -12969,6 +13026,18 @@
         "2605.27957"
       ],
       "notes": "Rule 90: context-drift + error-attribution + typed-tool-constraint"
+    },
+    {
+      "run": 135,
+      "timestamp": "2026-06-29T20:15:36.919494+00:00",
+      "method": "arxiv HTML search",
+      "theme": "EMERGENT-AGENTIC-BENCHMARK-PROBE (Rule 91)",
+      "picks": [
+        "2606.27397",
+        "2606.25332",
+        "2606.24010"
+      ],
+      "notes": "Rule 91: SidConArena + Decoupling-Reconnaissance + Safe-Generalizable"
     }
   ],
   "last_updated": "2026-06-29T19:06:28.349779+00:00",
