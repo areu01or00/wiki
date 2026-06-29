@@ -19,7 +19,7 @@
   "emergent_concept_theme": "memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax",
   "emergent_theme": "memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax",
   "chains_updated": 0,
-  "entities_count": 222,
+  "entities_count": 225,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1507,6 +1507,33 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-26T07:09:00+00:00",
           "theme": ""
+        },
+        {
+          "arxiv_id": "2606.07805",
+          "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
+          "slug": "beyond-goodharts-law-a-dynamic-benchmark-for-evaluating-compliance-in-multi-agent-systems-2606.07805",
+          "discovered": "2026-06-29T00:19:29.769494+00:00",
+          "theme": "goodhart-law-evaluation",
+          "online_date": "2026-06-05",
+          "run_number": 73
+        },
+        {
+          "arxiv_id": "2604.13602",
+          "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+          "slug": "reward-hacking-in-the-era-of-large-models-mechanisms-emergent-misalignment-challenges-2604.13602",
+          "discovered": "2026-06-29T00:19:29.769494+00:00",
+          "theme": "reward-hacking-unification",
+          "online_date": "2026-04-15",
+          "run_number": 73
+        },
+        {
+          "arxiv_id": "2512.00651",
+          "title": "Large Language Models for Software Engineering: A Reproducibility Crisis",
+          "slug": "large-language-models-for-software-engineering-a-reproducibility-crisis-2512.00651",
+          "discovered": "2026-06-29T00:19:29.769494+00:00",
+          "theme": "reproducibility-maturity-model",
+          "online_date": "2025-11-29",
+          "run_number": 73
         }
       ],
       "last_run": "2026-06-26T05:30:00+00:00",
@@ -3364,6 +3391,33 @@
       "slug": "where-do-deep-research-agents-go-wrong-span-level-error-localization-in-agent-trajectories",
       "discovered": "2026-06-26T10:27:32+00:00",
       "run": 72
+    },
+    {
+      "arxiv_id": "2606.07805",
+      "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
+      "slug": "beyond-goodharts-law-a-dynamic-benchmark-for-evaluating-compliance-in-multi-agent-systems-2606.07805",
+      "discovered": "2026-06-29T00:19:29.769494+00:00",
+      "theme": "goodhart-law-evaluation",
+      "online_date": "2026-06-05",
+      "run_number": 73
+    },
+    {
+      "arxiv_id": "2604.13602",
+      "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+      "slug": "reward-hacking-in-the-era-of-large-models-mechanisms-emergent-misalignment-challenges-2604.13602",
+      "discovered": "2026-06-29T00:19:29.769494+00:00",
+      "theme": "reward-hacking-unification",
+      "online_date": "2026-04-15",
+      "run_number": 73
+    },
+    {
+      "arxiv_id": "2512.00651",
+      "title": "Large Language Models for Software Engineering: A Reproducibility Crisis",
+      "slug": "large-language-models-for-software-engineering-a-reproducibility-crisis-2512.00651",
+      "discovered": "2026-06-29T00:19:29.769494+00:00",
+      "theme": "reproducibility-maturity-model",
+      "online_date": "2025-11-29",
+      "run_number": 73
     }
   ],
   "emergent_discoveries": [
@@ -5068,6 +5122,33 @@
       "url": "https://arxiv.org/abs/2606.02060",
       "discovered": "2026-06-26T10:27:32+00:00",
       "theme": "adversarial-axis-probe per Rule 39"
+    },
+    {
+      "arxiv_id": "2606.07805",
+      "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
+      "slug": "beyond-goodharts-law-a-dynamic-benchmark-for-evaluating-compliance-in-multi-agent-systems-2606.07805",
+      "url": "https://arxiv.org/abs/2606.07805",
+      "discovered": "2026-06-29T00:19:29.769494+00:00",
+      "theme": "goodhart-law-evaluation",
+      "online_date": "2026-06-05"
+    },
+    {
+      "arxiv_id": "2604.13602",
+      "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+      "slug": "reward-hacking-in-the-era-of-large-models-mechanisms-emergent-misalignment-challenges-2604.13602",
+      "url": "https://arxiv.org/abs/2604.13602",
+      "discovered": "2026-06-29T00:19:29.769494+00:00",
+      "theme": "reward-hacking-unification",
+      "online_date": "2026-04-15"
+    },
+    {
+      "arxiv_id": "2512.00651",
+      "title": "Large Language Models for Software Engineering: A Reproducibility Crisis",
+      "slug": "large-language-models-for-software-engineering-a-reproducibility-crisis-2512.00651",
+      "url": "https://arxiv.org/abs/2512.00651",
+      "discovered": "2026-06-29T00:19:29.769494+00:00",
+      "theme": "reproducibility-maturity-model",
+      "online_date": "2025-11-29"
     }
   ],
   "emergent_concept_search_log": [
@@ -7066,6 +7147,42 @@
         "mammoexpert-benchmarking-chain-of-thought-reasoning-in-mammography-diagnosis-2606.21119",
         "thinkbooster-a-unified-framework-for-seamless-test-time-scaling-2606.06915"
       ]
+    },
+    {
+      "run_number": 73,
+      "timestamp": "2026-06-29T00:19:29.769494+00:00",
+      "method": "web_search_4query_meta_probe_emergent_concept",
+      "queries_used": [
+        "arxiv 2026 \"evaluation methodology\" critique LLM benchmark validity publication bias",
+        "arxiv 2026 research methodology LLM scaling laws replication crisis",
+        "arxiv 2026 benchmark saturation contamination \"no longer meaningful\" LLM evaluation",
+        "arxiv 2026 \"reward hacking\" \"specification gaming\" LLM meta-analysis taxonomy"
+      ],
+      "theme": "meta-probe per Rule 40 \u2014 goodhart-law-evaluation + reward-hacking-unification + reproducibility-maturity-model",
+      "count": 3,
+      "picks": [
+        {
+          "arxiv_id": "2606.07805",
+          "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
+          "slug": "beyond-goodharts-law-a-dynamic-benchmark-for-evaluating-compliance-in-multi-agent-systems-2606.07805",
+          "theme": "goodhart-law-evaluation",
+          "online_date": "2026-06-05"
+        },
+        {
+          "arxiv_id": "2604.13602",
+          "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+          "slug": "reward-hacking-in-the-era-of-large-models-mechanisms-emergent-misalignment-challenges-2604.13602",
+          "theme": "reward-hacking-unification",
+          "online_date": "2026-04-15"
+        },
+        {
+          "arxiv_id": "2512.00651",
+          "title": "Large Language Models for Software Engineering: A Reproducibility Crisis",
+          "slug": "large-language-models-for-software-engineering-a-reproducibility-crisis-2512.00651",
+          "theme": "reproducibility-maturity-model",
+          "online_date": "2025-11-29"
+        }
+      ]
     }
   ],
   "runs": [
@@ -7911,6 +8028,41 @@
       "picks_added": 3,
       "pitfall_83_streak": 18,
       "notes": "Rule 39 adversarial-axis-probe escape hatch after Rules 33\u219234\u219235\u219236\u219236b\u219236c\u219236c-continued\u219236d\u219236e\u219237\u219238 have been used. 3 fresh LLM candidates via web_search targeting adversarial surfaces (medical-context-injection epistemic-robustness + population-test-time-scaling-with-generative-verifier + span-level-error-localization). 18th consecutive pitfall-83 firing."
+    },
+    {
+      "run_number": 73,
+      "timestamp": "2026-06-29T00:19:29.769494+00:00",
+      "method": "web_search_4query_meta_probe_emergent_concept",
+      "queries_used": [
+        "arxiv 2026 \"evaluation methodology\" critique LLM benchmark validity publication bias",
+        "arxiv 2026 research methodology LLM scaling laws replication crisis",
+        "arxiv 2026 benchmark saturation contamination \"no longer meaningful\" LLM evaluation",
+        "arxiv 2026 \"reward hacking\" \"specification gaming\" LLM meta-analysis taxonomy"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2606.07805",
+          "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
+          "slug": "beyond-goodharts-law-a-dynamic-benchmark-for-evaluating-compliance-in-multi-agent-systems-2606.07805",
+          "online_date": "2026-06-05",
+          "theme": "goodhart-law-evaluation"
+        },
+        {
+          "arxiv_id": "2604.13602",
+          "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+          "slug": "reward-hacking-in-the-era-of-large-models-mechanisms-emergent-misalignment-challenges-2604.13602",
+          "online_date": "2026-04-15",
+          "theme": "reward-hacking-unification"
+        },
+        {
+          "arxiv_id": "2512.00651",
+          "title": "Large Language Models for Software Engineering: A Reproducibility Crisis",
+          "slug": "large-language-models-for-software-engineering-a-reproducibility-crisis-2512.00651",
+          "online_date": "2025-11-29",
+          "theme": "reproducibility-maturity-model"
+        }
+      ],
+      "notes": "Rule 40 meta-probe escape hatch after Rules 33\u219234\u219235\u219236\u219236b\u219236c\u219236c-cont\u219236d\u219236e\u219237\u219238\u219239 have all been used. 3 fresh LLM candidates via web_search targeting meta-research surfaces (goodhart-law-evaluation + reward-hacking-unification + reproducibility-maturity-model primitive-class triplet). HF daily v2 returned 18+33+29 papers across 2026-06-26/27/28 dates but only 3 fresh LLM-keyword-matched (Running-the-Gauntlet agent-capabilities-eval, Information-Aware-KV-Cache-Compression, LISA visual-controllable) \u2014 all borderline/CV-flavored. Picked 3 structurally orthogonal pivoting per Rule 27 from Run 72 medical-adversarial-context + math-test-time-scaling + agent-trajectory-error-localization to goodhart-law-compliance + reward-hacking-compression + reproducibility-maturity-model primitive-class triplet \u2014 fully orthogonal to prior 5 runs."
     }
   ],
   "last_updated": "2026-06-26T09:32:00+00:00",
