@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-06-29T22:30:05.048825+00:00",
-  "last_run": 143,
+  "__last_updated": "2026-07-01T03:00:00+00:00",
+  "last_run": 144,
   "last_explore": "2026-07-01T02:00:00+00:00",
   "last_global_explore": "2026-07-01T02:00:00+00:00",
-  "last_discovery": "2026-07-01T02:00:00+00:00",
-  "last_run_framing": "MULTIAGENT-COMMUNICATION-PROTOCOL-PROBE (Rule 97)",
-  "last_framing": "MULTIAGENT-COMMUNICATION-PROTOCOL-PROBE: tap + Mesh Memory Protocol + MAS-PromptBench",
-  "last_run_notes": "Run 143: MULTIAGENT-COMMUNICATION-PROTOCOL-PROBE: tap + Mesh Memory Protocol + MAS-PromptBench",
+  "last_discovery": "2026-07-01T03:00:00+00:00",
+  "last_run_framing": "THEORY-OF-MIND + SOCIAL-REASONING + MODULAR-ARCH PROBE",
+  "last_framing": "THEORY-OF-MIND + SOCIAL-REASONING PROBE: MINDGAMES + SocialMemBench + OSCToM",
+  "last_run_notes": "Run 144: THEORY-OF-MIND + SOCIAL-REASONING + MODULAR-ARCH PROBE: MINDGAMES + SocialMemBench + OSCToM",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search LLM-INFERENCE-EFFICIENCY-PROBE",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 439,
+  "entities_count": 442,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1792,6 +1792,36 @@
           "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
           "url": "https://arxiv.org/abs/2606.23664",
           "discovered": "2026-07-01T02:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2605.29512",
+          "title": "MINDGAMES: A Live Arena for Evaluating Social and Strategic Reasoning in Multi-Agent LLMs",
+          "slug": "mindgames-a-live-arena-for-evaluating-social-and-strategic-reasoning-in-multi-agent-llms-2605.29512",
+          "url": "https://arxiv.org/abs/2605.29512",
+          "theme": "theory-of-mind / social-reasoning / multi-agent benchmark",
+          "discovered": "2026-07-01T03:00:00+00:00",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2605.17789",
+          "title": "SocialMemBench: Are AI Memory Systems Ready for Social Group Settings?",
+          "slug": "socialmembench-are-ai-memory-systems-ready-for-social-group-settings-2605.17789",
+          "url": "https://arxiv.org/abs/2605.17789",
+          "theme": "theory-of-mind / social-reasoning / memory in social groups",
+          "discovered": "2026-07-01T03:00:00+00:00",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2605.20423",
+          "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
+          "slug": "osctom-rl-guided-adversarial-generation-for-high-order-theory-of-mind-2605.20423",
+          "url": "https://arxiv.org/abs/2605.20423",
+          "theme": "theory-of-mind / social-reasoning / adversarial ToM generation",
+          "discovered": "2026-07-01T03:00:00+00:00",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts"
         }
       ],
       "last_run": "2026-07-01T02:00:00+00:00",
@@ -8602,6 +8632,30 @@
       "url": "https://arxiv.org/abs/2606.01556",
       "discovered": "2026-07-01T00:45:00+00:00",
       "theme": "inference-efficiency / LLM optimization"
+    },
+    {
+      "arxiv_id": "2605.29512",
+      "title": "MINDGAMES: A Live Arena for Evaluating Social and Strategic Reasoning in Multi-Agent LLMs",
+      "slug": "mindgames-a-live-arena-for-evaluating-social-and-strategic-reasoning-in-multi-agent-llms-2605.29512",
+      "url": "https://arxiv.org/abs/2605.29512",
+      "discovered": "2026-07-01T03:00:00+00:00",
+      "theme": "theory-of-mind / social-reasoning / multi-agent benchmark"
+    },
+    {
+      "arxiv_id": "2605.17789",
+      "title": "SocialMemBench: Are AI Memory Systems Ready for Social Group Settings?",
+      "slug": "socialmembench-are-ai-memory-systems-ready-for-social-group-settings-2605.17789",
+      "url": "https://arxiv.org/abs/2605.17789",
+      "discovered": "2026-07-01T03:00:00+00:00",
+      "theme": "theory-of-mind / social-reasoning / memory in social groups"
+    },
+    {
+      "arxiv_id": "2605.20423",
+      "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
+      "slug": "osctom-rl-guided-adversarial-generation-for-high-order-theory-of-mind-2605.20423",
+      "url": "https://arxiv.org/abs/2605.20423",
+      "discovered": "2026-07-01T03:00:00+00:00",
+      "theme": "theory-of-mind / social-reasoning / adversarial ToM generation"
     }
   ],
   "emergent_concept_search_log": [
@@ -11334,6 +11388,17 @@
         "2606.19812",
         "2606.22792"
       ]
+    },
+    {
+      "run": 144,
+      "theme": "THEORY-OF-MIND + SOCIAL-REASONING + MODULAR-ARCH PROBE",
+      "date": "2026-07-01T03:00:00+00:00",
+      "picks": [
+        "2605.29512",
+        "2605.17789",
+        "2605.20423"
+      ],
+      "method": "arxiv HTML search THEORY-OF-MIND-PROBE"
     }
   ],
   "runs": [
@@ -13527,6 +13592,11 @@
         "2604.19540",
         "2606.23664"
       ]
+    },
+    {
+      "run": 144,
+      "theme": "THEORY-OF-MIND + SOCIAL-REASONING + MODULAR-ARCH PROBE",
+      "date": "2026-07-01T03:00:00+00:00"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

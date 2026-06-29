@@ -2026,3 +2026,13 @@ Commit: `43762e4` → push succeeded.
 - 3-store lockstep confirmed (402 hashes in all 3 stores)
 - explore_context.json updated (397→400 emergent_discoveries, 132→133 runs)
 - watch_profiles.json updated (3 new hashes added)
+- Run 144 — 2026-07-01T03:00 UTC — THEORY-OF-MIND + SOCIAL-REASONING + MODULAR-ARCH PROBE
+- 3 new entity pages: MINDGAMES (2605.29512) + SocialMemBench (2605.17789) + OSCToM (2605.20423)
+- arxiv HTML search: 144 IDs from 4 queries (theory of mind/social reasoning/modular architecture/test-time scaling), 51 fresh after 5-store dedup
+- 3-axis Theory-of-Mind + Social-Reasoning + Modular-Arch discovery: live arena evaluation, social group memory failures, adversarial ToM generation
+- All wikilinks verified (9 total across 3 files, all resolve)
+- entities_count=442 reconciled to filesystem truth (439 + 3 new)
+- 3-store lockstep confirmed (426 hashes in all 3 stores)
+- explore_context.json updated
+- watch_profiles.json updated (3 new hashes added)
+
