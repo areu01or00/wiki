@@ -7132,6 +7132,30 @@
       "url": "https://arxiv.org/abs/2606.19354",
       "discovered": "2026-06-29T14:15:00+00:00",
       "theme": "test-time compute / verification granularity theory"
+    },
+    {
+      "arxiv_id": "2604.05876",
+      "title": "Mechanistic Circuit-Based Knowledge Editing in Large Language Models",
+      "slug": "mechanistic-circuit-based-knowledge-editing-in-large-language-models-2604.05876",
+      "url": "https://arxiv.org/abs/2604.05876",
+      "discovered": "2026-06-29T13:55:00+00:00",
+      "theme": "mechanistic-circuit-knowledge-editing"
+    },
+    {
+      "arxiv_id": "2606.27188",
+      "title": "A Process Harness for Uplifting Legacy Workflows to Agentic BPM",
+      "slug": "a-process-harness-for-uplifting-legacy-workflows-to-agentic-bpm-2606.27188",
+      "url": "https://arxiv.org/abs/2606.27188",
+      "discovered": "2026-06-29T13:55:00+00:00",
+      "theme": "agentic-workflow-bpm"
+    },
+    {
+      "arxiv_id": "2606.27684",
+      "title": "Intuition-Guided Latent Reasoning for LLM-Based Recommendation",
+      "slug": "intuition-guided-latent-reasoning-for-llm-based-recommendation-2606.27684",
+      "url": "https://arxiv.org/abs/2606.27684",
+      "discovered": "2026-06-29T13:55:00+00:00",
+      "theme": "latent-reasoning-recommendation"
     }
   ],
   "emergent_concept_search_log": [
@@ -11366,6 +11390,16 @@
         "2606.19354"
       ],
       "added": 3
+    },
+    {
+      "run_number": 114,
+      "timestamp": "2026-06-29T13:55:00+00:00",
+      "papers_found": [
+        "2604.05876",
+        "2606.27188",
+        "2606.27684"
+      ],
+      "theme": "mechanistic-circuit-knowledge-editing + agentic-workflow-bpm + latent-reasoning-recommendation"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",

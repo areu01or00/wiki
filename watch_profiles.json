@@ -1015,7 +1015,10 @@
         "7d7b2a66e04034bb87c5ac46ebcc7bb9",
         "a77ebf785524606a18b5107e65f9e332",
         "2ec64eab131c7f866098cb46a92e3961",
-        "c8706c72c33d37b6c4abb5e5148b5894"
+        "c8706c72c33d37b6c4abb5e5148b5894",
+        "2604.05876",
+        "2606.27188",
+        "2606.27684"
       ],
       "last_results": [
         {
@@ -4044,6 +4047,33 @@
           "online_date": "2026-06-29",
           "run_number": 114,
           "margin": ""
+        },
+        {
+          "arxiv_id": "2604.05876",
+          "title": "Mechanistic Circuit-Based Knowledge Editing in Large Language Models",
+          "hash": "4ee56600ce8fbeae80ff282d61877701",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "mechanistic-circuit-knowledge-editing",
+          "discovered": "2026-06-29T13:55:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.27188",
+          "title": "A Process Harness for Uplifting Legacy Workflows to Agentic BPM",
+          "hash": "c5ec28629180722992f6b121a2a7b74f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agentic-workflow-bpm",
+          "discovered": "2026-06-29T13:55:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.27684",
+          "title": "Intuition-Guided Latent Reasoning for LLM-Based Recommendation",
+          "hash": "7cc7a8fd1f391555f7d3603abf2820a3",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "latent-reasoning-recommendation",
+          "discovered": "2026-06-29T13:55:00+00:00"
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4393,7 +4423,10 @@
     "7d7b2a66e04034bb87c5ac46ebcc7bb9",
     "a77ebf785524606a18b5107e65f9e332",
     "2ec64eab131c7f866098cb46a92e3961",
-    "c8706c72c33d37b6c4abb5e5148b5894"
+    "c8706c72c33d37b6c4abb5e5148b5894",
+    "2604.05876",
+    "2606.27188",
+    "2606.27684"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -4736,7 +4769,10 @@
       "7d7b2a66e04034bb87c5ac46ebcc7bb9",
       "a77ebf785524606a18b5107e65f9e332",
       "2ec64eab131c7f866098cb46a92e3961",
-      "c8706c72c33d37b6c4abb5e5148b5894"
+      "c8706c72c33d37b6c4abb5e5148b5894",
+      "2606.27188",
+      "2606.27684",
+      "2604.05876"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",
