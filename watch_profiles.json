@@ -976,7 +976,10 @@
         "2401.17197",
         "2606.01243",
         "2602.07943",
-        "2601.10700"
+        "2601.10700",
+        "2605.23965",
+        "2605.01704",
+        "2602.07673"
       ],
       "last_results": [
         {
@@ -3642,6 +3645,42 @@
           "slug": "liberty-a-causal-framework-for-benchmarking-concept-based-explanations-of-llms-with-structural-counterfactuals-2601.10700",
           "online_date": "2026-01-18",
           "run_number": 101
+        },
+        {
+          "arxiv_id": "2605.23965",
+          "title": "LGMT: Logic-Grounded Metamorphic Testing for Evaluating the Reasoning Reliability of LLMs",
+          "hash": "192bad2b0da454cabc98a7566d58e7ee",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "invariance / FOL-metamorphic-testing / reasoning-reliability",
+          "discovered": "2026-06-29T13:30:00+00:00",
+          "slug": "lgmt-logic-grounded-metamorphic-testing-for-llm-reasoning-reliability-2605.23965",
+          "online_date": "2026-06-07",
+          "run_number": 102
+        },
+        {
+          "arxiv_id": "2605.01704",
+          "title": "The Reasoning Trap: An Information-Theoretic Bound on Closed-System Multi-Step LLM Reasoning",
+          "hash": "37e99d8c083237d55fb2285eb8471363",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "invariance / closed-system-reasoning / multi-agent-debate-faithfulness",
+          "discovered": "2026-06-29T13:30:00+00:00",
+          "slug": "the-reasoning-trap-information-theoretic-bound-on-closed-system-multi-step-llm-reasoning-2605.01704",
+          "online_date": "2026-05-05",
+          "run_number": 102
+        },
+        {
+          "arxiv_id": "2602.07673",
+          "title": "Blind to the Human Touch: Overlap Bias in LLM-Based Summary Evaluation",
+          "hash": "187dfb89093e29cd6d65b6f70886d675",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "invariance / overlap-bias / LLM-judge-evaluation",
+          "discovered": "2026-06-29T13:30:00+00:00",
+          "slug": "blind-to-the-human-touch-overlap-bias-in-llm-based-summary-evaluation-2602.07673",
+          "online_date": "2026-02-07",
+          "run_number": 102
         }
       ],
       "last_run": 100,
@@ -3654,7 +3693,7 @@
       "last_run_framing": "Run 100 \u2014 SAMPLE-EFFICIENCY-LIMIT-PROBE per Rule 67"
     }
   },
-  "last_run": 100,
+  "last_run": 102,
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3952,12 +3991,15 @@
     "2401.17197",
     "2606.01243",
     "2602.07943",
-    "2601.10700"
+    "2601.10700",
+    "2605.23965",
+    "2605.01704",
+    "2602.07673"
   ],
-  "last_discovery": "2026-06-29T12:30:00+00:00",
-  "last_updated": "2026-06-29T10:30:00+00:00",
-  "__last_updated": "2026-06-29T12:30:00+00:00",
-  "last_explore": "2026-06-29T12:30:00+00:00",
+  "last_discovery": "2026-06-29T13:30:00+00:00",
+  "last_updated": "2026-06-29T13:30:00+00:00",
+  "__last_updated": "2026-06-29T13:30:00+00:00",
+  "last_explore": "2026-06-29T13:30:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -4256,10 +4298,13 @@
       "2401.17197",
       "2606.01243",
       "2602.07943",
-      "2601.10700"
+      "2601.10700",
+      "2605.23965",
+      "2605.01704",
+      "2602.07673"
     ],
-    "last_discovery": "2026-06-29T12:30:00+00:00",
-    "last_run": 100,
+    "last_discovery": "2026-06-29T13:30:00+00:00",
+    "last_run": 102,
     "last_updated": "2026-06-29T12:30:00+00:00",
     "last_results": [
       {
@@ -4363,7 +4408,13 @@
       }
     ],
     "last_pass_type": "emergent-concept",
-    "updated_at": "2026-06-29T12:30:00+00:00"
+    "updated_at": "2026-06-29T12:30:00+00:00",
+    "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
+    "last_run_added": 3,
+    "last_explore": "2026-06-29T13:30:00+00:00",
+    "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
+    "updated": "2026-06-29T13:30:00+00:00",
+    "__last_updated": "2026-06-29T13:30:00+00:00"
   },
   "last_pass_type": "emergent-concept",
   "last_results": [
@@ -4407,8 +4458,8 @@
       "run_number": 100
     }
   ],
-  "last_run_framing": "Run 100 \u2014 SAMPLE-EFFICIENCY-LIMIT-PROBE per Rule 67",
-  "updated": "2026-06-29T12:30:00+00:00",
-  "last_run_method": "SAMPLE-EFFICIENCY-LIMIT-PROBE (Rule 67)",
+  "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
+  "updated": "2026-06-29T13:30:00+00:00",
+  "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
   "last_run_added": 3
 }

@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T13:00:00+00:00",
-  "__last_updated": "2026-06-29T13:00:00+00:00",
-  "last_run": 101,
-  "last_explore": "2026-06-29T13:00:00+00:00",
-  "last_global_explore": "2026-06-29T10:30:00+00:00",
-  "last_discovery": "2026-06-29T13:00:00+00:00",
-  "last_run_framing": "Run 101 \u2014 IDENTIFIABILITY-PROBE per Rule 68 \u2014 unobserved-confounder-causal-effect-identifiability-via-IV-discovery + SCM-grounded-counterfactual-identifiability-for-explanation-evaluation + latent-reasoning-vector-identifiability-via-probes-and-decode-time-interventions",
-  "last_framing": "Rule 68 IDENTIFIABILITY-PROBE \u2014 pick axes that probe identifiability primitives (unobserved-confounder causal effect isolation, instrumental-variable discovery from observational data, multi-agent proposer-critic-refiner for IV, structural-causal-model-grounded counterfactuals for benchmark construction, order-faithfulness metric for explanation evaluation, latent-reasoning-vector identifiability via structural/causal/geometric probes, training-free-decode-time interventions on latent reasoning, latent-reasoning causal-hub identification)",
-  "last_run_notes": "Rule 68 IDENTIFIABILITY-PROBE verified (47th consecutive pitfall-83 \u2014 longest in wiki history by 35 runs); 3 picks structurally orthogonal to Run 100 sample-efficiency primitives \u2014 picks cover 3 distinct sub-layers of identifiability primitive-class: (a) unobserved-confounder causal effect identifiability via IV discovery, (b) SCM-grounded counterfactual identifiability for explanation evaluation, (c) latent-reasoning-vector identifiability via probes and decode-time interventions. Pivoted from Run 100 best-arms-identification-exemplar-selection-for-ICL + data-pruning-as-deployment-enabler-for-LLM-fine-tuning + many-shot-ICL-scaling-laws-for-low-resource-deployment (sample-efficiency-limit primitive-class triplet) to unobserved-confounder-causal-effect-identifiability-via-IV-discovery + SCM-grounded-counterfactual-identifiability-for-explanation-evaluation + latent-reasoning-vector-identifiability-via-probes-and-decode-time-interventions (identifiability primitive-class triplet).",
+  "updated": "2026-06-29T13:30:00+00:00",
+  "__last_updated": "2026-06-29T13:30:00+00:00",
+  "last_run": 102,
+  "last_explore": "2026-06-29T13:30:00+00:00",
+  "last_global_explore": "2026-06-29T13:30:00+00:00",
+  "last_discovery": "2026-06-29T13:30:00+00:00",
+  "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
+  "last_framing": "Rule 69 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE \u2014 pick axes that probe invariance primitives for LLM under semantically-equivalent input perturbations (FOL-derived metamorphic-test construction, oracle-free cross-case consistency checking, closed-system-faithfulness information-theoretic bound, overlap-bias-LLM-judge evaluation, SFS claim-level faithfulness metric, evidence-grounded Socratic reasoning, granular-overlap-bias primitive, multi-agent-debate invariance-failure primitive)",
+  "last_run_notes": "Rule 69 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE verified (48th consecutive pitfall-83 \u2014 longest in wiki history by 36 runs); 3 picks structurally orthogonal to Run 101 identifiability primitives \u2014 picks cover 3 distinct sub-layers of invariance primitive-class: (a) generator-side reasoning invariance under FOL-derived logical-equivalence transformations, (b) closed-system reasoning invariance-failure with information-theoretic bound, (c) judge-side evaluation invariance under surface-overlap perturbations. Pivoted from Run 101 unobserved-confounder + SCM-grounded-counterfactual + latent-reasoning-vector identifiability (identifiability primitive-class triplet) to FOL-metamorphic-invariance + closed-system-faithfulness-bound + overlap-bias-LLM-judge-invariance (invariance-under-prompt-perturbation primitive-class triplet).",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "IDENTIFIABILITY-PROBE (Rule 68) via arxiv search HTML 4-query escape hatch",
+  "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
   "run_method": "emergent-concept-search-via-arxiv-search-HTML",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "identifiability",
-  "emergent_theme": "identifiability",
+  "emergent_concept_theme": "invariance-under-prompt-perturbation",
+  "emergent_theme": "invariance-under-prompt-perturbation",
   "chains_updated": 0,
-  "entities_count": 309,
+  "entities_count": 312,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4150,6 +4150,36 @@
     {
       "arxiv_id": "2601.10700",
       "title": "LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals"
+    },
+    {
+      "arxiv_id": "2605.23965",
+      "title": "LGMT: Logic-Grounded Metamorphic Testing for Evaluating the Reasoning Reliability of LLMs",
+      "slug": "lgmt-logic-grounded-metamorphic-testing-for-llm-reasoning-reliability-2605.23965",
+      "url": "https://arxiv.org/abs/2605.23965",
+      "theme": "invariance / FOL-metamorphic-testing / reasoning-reliability",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.01704",
+      "title": "The Reasoning Trap: An Information-Theoretic Bound on Closed-System Multi-Step LLM Reasoning",
+      "slug": "the-reasoning-trap-information-theoretic-bound-on-closed-system-multi-step-llm-reasoning-2605.01704",
+      "url": "https://arxiv.org/abs/2605.01704",
+      "theme": "invariance / closed-system-reasoning / multi-agent-debate-faithfulness",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2602.07673",
+      "title": "Blind to the Human Touch: Overlap Bias in LLM-Based Summary Evaluation",
+      "slug": "blind-to-the-human-touch-overlap-bias-in-llm-based-summary-evaluation-2602.07673",
+      "url": "https://arxiv.org/abs/2602.07673",
+      "theme": "invariance / overlap-bias / LLM-judge-evaluation",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -6562,6 +6592,30 @@
       "url": "https://arxiv.org/abs/2601.10700",
       "discovered": "2026-06-29T13:00:00+00:00",
       "theme": "SCM-grounded counterfactual identifiability for explanation evaluation"
+    },
+    {
+      "arxiv_id": "2605.23965",
+      "title": "LGMT: Logic-Grounded Metamorphic Testing for Evaluating the Reasoning Reliability of LLMs",
+      "slug": "lgmt-logic-grounded-metamorphic-testing-for-llm-reasoning-reliability-2605.23965",
+      "url": "https://arxiv.org/abs/2605.23965",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "theme": "invariance / FOL-metamorphic-testing / reasoning-reliability"
+    },
+    {
+      "arxiv_id": "2605.01704",
+      "title": "The Reasoning Trap: An Information-Theoretic Bound on Closed-System Multi-Step LLM Reasoning",
+      "slug": "the-reasoning-trap-information-theoretic-bound-on-closed-system-multi-step-llm-reasoning-2605.01704",
+      "url": "https://arxiv.org/abs/2605.01704",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "theme": "invariance / closed-system-reasoning / multi-agent-debate-faithfulness"
+    },
+    {
+      "arxiv_id": "2602.07673",
+      "title": "Blind to the Human Touch: Overlap Bias in LLM-Based Summary Evaluation",
+      "slug": "blind-to-the-human-touch-overlap-bias-in-llm-based-summary-evaluation-2602.07673",
+      "url": "https://arxiv.org/abs/2602.07673",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "theme": "invariance / overlap-bias / LLM-judge-evaluation"
     }
   ],
   "emergent_concept_search_log": [
@@ -9037,6 +9091,20 @@
           "primitive": "SCM-grounded counterfactual identifiability for explanation evaluation + order-faithfulness metric"
         }
       ]
+    },
+    {
+      "run": 102,
+      "date": "2026-06-29T13:30:00+00:00",
+      "rule": 69,
+      "theme": "invariance-under-prompt-perturbation",
+      "method": "arxiv search HTML 6-query",
+      "candidates_total": 52,
+      "candidates_llm_keyword_matched": 25,
+      "picks": [
+        "2605.23965",
+        "2605.01704",
+        "2602.07673"
+      ]
     }
   ],
   "runs": [
@@ -10526,6 +10594,19 @@
         "mediator moderator confounder identifiability LLM"
       ],
       "notes": "Rule 68 IDENTIFIABILITY-PROBE; unobserved-confounder causal effect identifiability via IV discovery + SCM-grounded counterfactual identifiability for explanation evaluation + latent-reasoning-vector identifiability via probes and decode-time interventions primitive triplet; arxiv search HTML substrate continues from Run 99/100"
+    },
+    {
+      "run": 102,
+      "date": "2026-06-29T13:30:00+00:00",
+      "rule": 69,
+      "theme": "invariance-under-prompt-perturbation",
+      "method": "arxiv search HTML 6-query INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE",
+      "pitfall_83_streak": 48,
+      "picks": [
+        "2605.23965",
+        "2605.01704",
+        "2602.07673"
+      ]
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
