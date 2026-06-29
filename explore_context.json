@@ -2,26 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T09:30:00+00:00",
-  "__last_updated": "2026-06-29T09:30:00+00:00",
-  "last_run": "2026-06-29T09:30:00+00:00",
-  "last_explore": "2026-06-29T09:30:00+00:00",
-  "last_global_explore": "2026-06-29T09:30:00+00:00",
-  "last_discovery": "2026-06-29T09:30:00+00:00",
-  "last_run_framing": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE \u2014 pick axes that probe multi-model combination diagnostics + task-vector weight-space merging + load-bearing-wall dimensions + activation-space-linearity distillation",
-  "last_framing": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE \u2014 pick axes that probe multi-model combination diagnostics + task-vector weight-space merging + load-bearing-wall dimensions + activation-space-linearity distillation",
+  "updated": "2026-06-29T05:47:05+00:00",
+  "__last_updated": "2026-06-29T05:47:05+00:00",
+  "last_run": "2026-06-29T05:47:05+00:00",
+  "last_explore": "2026-06-29T05:47:05+00:00",
+  "last_global_explore": "2026-06-29T05:47:05+00:00",
+  "last_discovery": "2026-06-29T05:47:05+00:00",
+  "last_run_framing": "Rule 59 COLLABORATIVE-LEARNING-PROBE \u2014 pick axes that probe collaborative-learning primitives (typed federated artifacts + transactive memory + cooperation laws + federated fine-tuning) for LLM agents",
+  "last_framing": "Rule 59 COLLABORATIVE-LEARNING-PROBE \u2014 pick axes that probe collaborative-learning primitives (typed federated artifacts + transactive memory + cooperation laws + federated fine-tuning) for LLM agents",
   "last_run_notes": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE verified (37th consecutive pitfall-83 \u2014 longest in wiki history by 24 runs); 3 picks structurally orthogonal to Run 90 multi-agent-coordination-collaboration primitives \u2014 picks cover 3 distinct sub-axes of model-combination-fusion primitive-class: (a) co-failure-ceiling theorem on multi-model combination gain across 67 frontier models with finite-sample certificate, (b) load-bearing-wall dimensions in task-vectors for model merging with anchored-core preservation, (c) activation-space-linearity distillation for merge-compatible fine-tuning at standard deployment cost. Pivoted from Run 90 execution-boundary-governance-organizational-layer + CSCW-grounded-collaborative-competence-methodology + internet-of-agentic-AI-cross-discipline-synthesis-framework (multi-agent-coordination-collaboration primitive-class triplet) to co-failure-ceiling-on-routing-voting-mixture-of-agents + anchored-core-preservation-in-task-vectors + activation-space-linearity-distillation-for-task-arithmetic (model-combination-fusion primitive-class triplet).",
   "last_pass_type": "emergent-concept-search",
-  "last_run_method": "web_search_4query_model_combination_fusion_primitive_probe_rule58",
+  "last_run_method": "web_search 4-query COLLABORATIVE-LEARNING-PROBE escape hatch per Rule 59",
   "run_method": "web_search_4query_model_combination_fusion_primitive_probe_rule58",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "model-combination-fusion",
-  "emergent_theme": "model-combination-fusion",
-  "chains_updated": [
-    "emergent-concepts"
-  ],
-  "entities_count": 279,
+  "emergent_concept_theme": "collaborative-learning",
+  "emergent_theme": "collaborative-learning",
+  "chains_updated": 0,
+  "entities_count": 282,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3846,6 +3844,36 @@
       "discovered": "2026-06-29T09:30:00+00:00",
       "discovered_at": "2026-06-29T09:30:00+00:00",
       "theme": "model-combination-fusion"
+    },
+    {
+      "arxiv_id": "2606.28182",
+      "slug": "cooperative-llm-agents-with-uncertainty-aware-task-allocation-2606.28182",
+      "title": "Cooperative LLM Agents with Uncertainty-Aware Task Allocation via LLawCo: Learning Laws of Cooperation for Embodied Multi-Agent Behavior",
+      "url": "https://arxiv.org/abs/2606.28182",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T05:47:05+00:00",
+      "discovered_at": "2026-06-29T05:47:05+00:00",
+      "theme": "collaborative-learning"
+    },
+    {
+      "arxiv_id": "2606.19911",
+      "slug": "multi-agent-transactive-memory-knowledge-sharing-across-heterogeneous-agent-populations-2606.19911",
+      "title": "Multi-Agent Transactive Memory: Knowledge Sharing across Heterogeneous Agent Populations",
+      "url": "https://arxiv.org/abs/2606.19911",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T05:47:05+00:00",
+      "discovered_at": "2026-06-29T05:47:05+00:00",
+      "theme": "collaborative-learning"
+    },
+    {
+      "arxiv_id": "2602.00911",
+      "slug": "synapse-federated-tool-routing-via-typed-compendium-artifacts-2602.00911",
+      "title": "Synapse: Federated Tool Routing via Typed Compendium Artifacts",
+      "url": "https://arxiv.org/abs/2602.00911",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T05:47:05+00:00",
+      "discovered_at": "2026-06-29T05:47:05+00:00",
+      "theme": "collaborative-learning"
     }
   ],
   "emergent_discoveries": [
@@ -6012,6 +6040,30 @@
       "url": "https://arxiv.org/abs/2605.18993",
       "discovered": "2026-06-29T09:30:00+00:00",
       "theme": "model-combination-fusion"
+    },
+    {
+      "arxiv_id": "2606.28182",
+      "title": "Cooperative LLM Agents with Uncertainty-Aware Task Allocation via LLawCo: Learning Laws of Cooperation for Embodied Multi-Agent Behavior",
+      "slug": "cooperative-llm-agents-with-uncertainty-aware-task-allocation-2606.28182",
+      "url": "https://arxiv.org/abs/2606.28182",
+      "discovered": "2026-06-29T05:47:05+00:00",
+      "theme": "collaborative-learning"
+    },
+    {
+      "arxiv_id": "2606.19911",
+      "title": "Multi-Agent Transactive Memory: Knowledge Sharing across Heterogeneous Agent Populations",
+      "slug": "multi-agent-transactive-memory-knowledge-sharing-across-heterogeneous-agent-populations-2606.19911",
+      "url": "https://arxiv.org/abs/2606.19911",
+      "discovered": "2026-06-29T05:47:05+00:00",
+      "theme": "collaborative-learning"
+    },
+    {
+      "arxiv_id": "2602.00911",
+      "title": "Synapse: Federated Tool Routing via Typed Compendium Artifacts",
+      "slug": "synapse-federated-tool-routing-via-typed-compendium-artifacts-2602.00911",
+      "url": "https://arxiv.org/abs/2602.00911",
+      "discovered": "2026-06-29T05:47:05+00:00",
+      "theme": "collaborative-learning"
     }
   ],
   "emergent_concept_search_log": [
@@ -7200,6 +7252,17 @@
       "candidates_surfaced": 4,
       "candidates_after_dedup": 3,
       "picks_added": 3
+    },
+    {
+      "run_number": 92,
+      "date": "2026-06-29T05:47:05+00:00",
+      "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE",
+      "picks": [
+        "2606.28182",
+        "2606.19911",
+        "2602.00911"
+      ],
+      "theme": "collaborative-learning"
     }
   ],
   "emergent_concept_search_runs": [
@@ -8280,6 +8343,18 @@
         "2606.18627",
         "2605.18993"
       ]
+    },
+    {
+      "run_number": 92,
+      "date": "2026-06-29T05:47:05+00:00",
+      "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE",
+      "theme": "collaborative-learning",
+      "picks": [
+        "2606.28182",
+        "2606.19911",
+        "2602.00911"
+      ],
+      "pitfall_83_streak": 38
     }
   ],
   "runs": [
@@ -9521,11 +9596,35 @@
         "2605.18993"
       ],
       "notes": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE verified (37th consecutive pitfall-83 \u2014 longest in wiki history by 24 runs); 3 picks structurally orthogonal to Run 90 multi-agent-coordination-collaboration primitives \u2014 picks cover 3 distinct sub-axes of model-combination-fusion primitive-class: (a) co-failure-ceiling theorem on multi-model combination gain across 67 frontier models with finite-sample certificate, (b) load-bearing-wall dimensions in task-vectors for model merging with anchored-core preservation, (c) activation-space-linearity distillation for merge-compatible fine-tuning at standard deployment cost. Pivoted from Run 90 execution-boundary-governance-organizational-layer + CSCW-grounded-collaborative-competence-methodology + internet-of-agentic-AI-cross-discipline-synthesis-framework (multi-agent-coordination-collaboration primitive-class triplet) to co-failure-ceiling-on-routing-voting-mixture-of-agents + anchored-core-preservation-in-task-vectors + activation-space-linearity-distillation-for-task-arithmetic (model-combination-fusion primitive-class triplet)."
+    },
+    {
+      "run_number": 92,
+      "date": "2026-06-29T05:47:05+00:00",
+      "mode": "emergent-concept-search",
+      "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE",
+      "theme": "collaborative-learning",
+      "picks_selected": [
+        "2606.28182",
+        "2606.19911",
+        "2602.00911"
+      ],
+      "hf_pool_status": "CV/3D-heavy; v2 data-props=11+25 papers with 11+25 fresh after 5-store dedup on 2026-06-29/28 but only 1+6 LLM-keyword-matched (mostly borderline safety/eval/agent-eval/VLM); web_search escape hatch",
+      "pitfall_83_streak": 38,
+      "candidates_surfaced": 11,
+      "web_search_queries": [
+        "\"synapse compendium\" federated knowledge exchange tool-routed LLM arxiv 2602",
+        "arxiv 2606 multi-agent collaborative fine-tuning shared memory distillation",
+        "\"formalizing latent thoughts\" axioms LLM representation arxiv 2606",
+        "arxiv 2606 multi-agent cross-task knowledge transfer protocol LLM consensus",
+        "arxiv 2606 2605 federated fine-tuning LLM multi-agent cross-client collaborative",
+        "arxiv 2026 multi-agent LLM experience replay shared bank knowledge distillation"
+      ],
+      "notes": "Rule 59 COLLABORATIVE-LEARNING-PROBE codified and verified (38th consecutive pitfall-83 \u2014 longest in wiki history by 25 runs); 3 picks structurally orthogonal to Run 91 model-combination-fusion primitives \u2014 picks cover 3 distinct sub-axes of collaborative-learning primitive-class: (a) cooperation-laws-as-policy primitive for embodied multi-agent alignment via reflection-on-past-failures (LLawCo), (b) transactive-memory extension to LLM-agent populations with agent-generated-trajectory retrieval (MATM), (c) typed federated artifacts with schema-validated per-field differential privacy for federated LLM tool routing (Synapse). Pivoted from Run 91 co-failure-ceiling-on-routing-voting-mixture-of-agents + load-bearing-wall-dimensions-in-task-vectors + activation-space-linearity-distillation-for-task-arithmetic (model-combination-fusion primitive-class triplet) to cooperation-laws-as-policy-for-embodied-multi-agent-alignment + transactive-memory-extending-RAG-to-agent-populations + typed-federated-artifacts-for-cross-client-tool-routing (collaborative-learning primitive-class triplet)."
     }
   ],
   "last_updated": "2026-06-29T05:30:00+00:00",
-  "last_run_iso": "2026-06-29T09:30:00+00:00",
-  "total_entity_count": 279,
+  "last_run_iso": "2026-06-29T05:47:05+00:00",
+  "total_entity_count": 270,
   "entity_files_added": 3,
   "pass_type": "emergent-concept-search",
   "emergent_discoveries_log": [
@@ -9595,15 +9694,35 @@
           "slug": "internet-of-agentic-ai-communication-coordination-collective-intelligence-at-scale"
         }
       ]
+    },
+    {
+      "arxiv_id": "2606.28182",
+      "title": "Cooperative LLM Agents with Uncertainty-Aware Task Allocation via LLawCo: Learning Laws of Cooperation for Embodied Multi-Agent Behavior",
+      "discovered": "2026-06-29T05:47:05+00:00",
+      "theme": "collaborative-learning",
+      "run_number": 92,
+      "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE"
+    },
+    {
+      "arxiv_id": "2606.19911",
+      "title": "Multi-Agent Transactive Memory: Knowledge Sharing across Heterogeneous Agent Populations",
+      "discovered": "2026-06-29T05:47:05+00:00",
+      "theme": "collaborative-learning",
+      "run_number": 92,
+      "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE"
+    },
+    {
+      "arxiv_id": "2602.00911",
+      "title": "Synapse: Federated Tool Routing via Typed Compendium Artifacts",
+      "discovered": "2026-06-29T05:47:05+00:00",
+      "theme": "collaborative-learning",
+      "run_number": 92,
+      "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE"
     }
   ],
   "last_run_mode": "emergent-concept-search",
-  "last_run_summary": "Run 91 \u2014 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE \u2014 3 picks: Co-Failure Ceiling across 67 frontier models + PACT Load-Bearing-Wall anchored-core preservation + Distilling Linearized Behavior into Non-Linear Fine-Tuning for Effective Task Arithmetic",
+  "last_run_summary": "Run 92 \u2014 Rule 59 COLLABORATIVE-LEARNING-PROBE \u2014 3 picks: 2606.28182 LLawCo cooperation laws + 2606.19911 Multi-Agent Transactive Memory + 2602.00911 Synapse federated tool routing",
   "last_watched": "2026-06-29T09:30:00+00:00",
-  "last_run_pitfalls": [
-    "pitfall-83 (37th consecutive)",
-    "pitfall-98 (state-file format preservation)",
-    "pitfall-21 (pre-write audit)"
-  ],
-  "last_run_theme": "model-combination-fusion"
+  "last_run_pitfalls": "pitfall-83 streak at 38 runs (extended); pitfall-129 execute_code blocked; pitfall-130 find -delete approval gate",
+  "last_run_theme": "collaborative-learning"
 }

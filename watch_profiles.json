@@ -946,7 +946,10 @@
         "2606.12835",
         "2606.27288",
         "2606.18627",
-        "2605.18993"
+        "2605.18993",
+        "2606.28182",
+        "2606.19911",
+        "2602.00911"
       ],
       "last_results": [
         {
@@ -3237,19 +3240,65 @@
           "slug": "distilling-linearized-behavior-into-non-linear-fine-tuning-for-effective-task-arithmetic-2605.18993",
           "online_date": "2026-05-22",
           "run_number": 91
+        },
+        {
+          "arxiv_id": "2606.28182",
+          "title": "Cooperative LLM Agents with Uncertainty-Aware Task Allocation via LLawCo: Learning Laws of Cooperation for Embodied Multi-Agent Behavior",
+          "hash": "99bcd461066aee9f5e0930b1d0da2abc",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "collaborative-learning / Rule 59 COLLABORATIVE-LEARNING-PROBE",
+          "discovered": "2026-06-29T05:47:05+00:00",
+          "slug": "cooperative-llm-agents-with-uncertainty-aware-task-allocation-2606.28182",
+          "online_date": "2026-06-26",
+          "run_number": 92
+        },
+        {
+          "arxiv_id": "2606.19911",
+          "title": "Multi-Agent Transactive Memory: Knowledge Sharing across Heterogeneous Agent Populations",
+          "hash": "2bbae2a37c3cb7eb90fb2422350da40f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "collaborative-learning / Rule 59 COLLABORATIVE-LEARNING-PROBE",
+          "discovered": "2026-06-29T05:47:05+00:00",
+          "slug": "multi-agent-transactive-memory-knowledge-sharing-across-heterogeneous-agent-populations-2606.19911",
+          "online_date": "2026-06-18",
+          "run_number": 92
+        },
+        {
+          "arxiv_id": "2602.00911",
+          "title": "Synapse: Federated Tool Routing via Typed Compendium Artifacts",
+          "hash": "f27f2a7d8c2881b25c383e86f2326cda",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "collaborative-learning / Rule 59 COLLABORATIVE-LEARNING-PROBE",
+          "discovered": "2026-06-29T05:47:05+00:00",
+          "slug": "synapse-federated-tool-routing-via-typed-compendium-artifacts-2602.00911",
+          "online_date": "2026-06-04",
+          "run_number": 92
         }
       ],
-      "last_run": "2026-06-29T05:30:00+00:00",
-      "last_updated": "2026-06-29T05:30:00+00:00",
-      "last_result_timestamp": "2026-06-29T05:30:00+00:00",
-      "last_run_key": "run-63-2026-06-26T08:30:00+00:00",
+      "last_run": {
+        "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE",
+        "theme": "collaborative-learning",
+        "picks": [
+          "2606.28182",
+          "2606.19911",
+          "2602.00911"
+        ],
+        "date": "2026-06-29T05:47:05+00:00",
+        "pitfall_83_streak": 38
+      },
+      "last_updated": "2026-06-29T05:47:05+00:00",
+      "last_result_timestamp": "2026-06-29T05:47:05+00:00",
+      "last_run_key": "Rule 59 COLLABORATIVE-LEARNING-PROBE",
       "last_pass_type": "emergent-concept-search",
-      "last_discovery": "2026-06-29T05:30:00+00:00",
-      "updated_at": "2026-06-29T05:30:00+00:00",
-      "last_run_framing": "Run 83 CAUSAL-INFERENCE-PROBE per Rule 50"
+      "last_discovery": "2026-06-29T05:47:05+00:00",
+      "updated_at": "2026-06-29T05:47:05+00:00",
+      "last_run_framing": "Rule 59 COLLABORATIVE-LEARNING-PROBE"
     }
   },
-  "last_run": "2026-06-29T03:55:00+00:00",
+  "last_run": "2026-06-29T05:47:05+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3517,10 +3566,13 @@
     "2606.12835",
     "2606.27288",
     "2606.18627",
-    "2605.18993"
+    "2605.18993",
+    "2606.28182",
+    "2606.19911",
+    "2602.00911"
   ],
-  "last_discovery": "2026-06-29T05:30:00+00:00",
-  "last_updated": "2026-06-29T09:30:00+00:00",
+  "last_discovery": "2026-06-29T05:47:05+00:00",
+  "last_updated": "2026-06-29T05:47:05+00:00",
   "__last_updated": "2026-06-29T03:30:00+00:00",
   "last_explore": "2026-06-29T03:30:00+00:00",
   "llm-wiki": {
@@ -3791,11 +3843,14 @@
       "2606.12835",
       "2606.27288",
       "2606.18627",
-      "2605.18993"
+      "2605.18993",
+      "2606.28182",
+      "2606.19911",
+      "2602.00911"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T05:30:00+00:00",
-    "last_updated": "2026-06-29T00:25:00.000000+00:00",
+    "last_updated": "2026-06-29T05:47:05+00:00",
     "last_results": [
       {
         "arxiv_id": "2605.21768",
@@ -3861,188 +3916,14 @@
         "discovered": "2026-06-26T07:09:00+00:00"
       }
     ],
-    "last_pass_type": "emergent_concept",
+    "last_pass_type": "emergent-concept-search",
     "updated_at": "2026-06-29T05:30:00+00:00"
   },
-  "last_pass_type": "explore",
+  "last_pass_type": "emergent-concept-search",
   "last_results": [
-    {
-      "arxiv_id": "2605.21768",
-      "slug": "memory-r2-fair-credit-assignment-for-long-horizon-memory-augmented-llm-agents",
-      "discovered_run": 56,
-      "timestamp": "2026-06-26T06:00:00.000000+00:00",
-      "source": "web_search escape hatch"
-    },
-    {
-      "arxiv_id": "2605.19337",
-      "slug": "agentic-trading-when-llm-agents-meet-financial-markets",
-      "discovered_run": 56,
-      "timestamp": "2026-06-26T06:00:00.000000+00:00",
-      "source": "web_search escape hatch"
-    },
-    {
-      "arxiv_id": "2605.01687",
-      "slug": "multibreak-a-scalable-and-diverse-multi-turn-jailbreak-benchmark-for-evaluating-llm-safety",
-      "discovered_run": 56,
-      "timestamp": "2026-06-26T06:00:00.000000+00:00",
-      "source": "web_search escape hatch"
-    },
-    {
-      "arxiv_id": "2606.21795",
-      "slug": "discretizing-reward-models-2606.21795",
-      "discovered_run": 59,
-      "timestamp": "2026-06-26T06:54:00+00:00",
-      "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
-    },
-    {
-      "arxiv_id": "2606.18967",
-      "slug": "efficientrollout-system-aware-self-speculative-decoding-for-rl-rollouts-2606.18967",
-      "discovered_run": 59,
-      "timestamp": "2026-06-26T06:54:00+00:00",
-      "source": "web_search escape hatch (rotated template)"
-    },
-    {
-      "arxiv_id": "2605.17613",
-      "slug": "vericache-turning-lossy-kv-cache-into-lossless-llm-inference-2605.17613",
-      "discovered_run": 59,
-      "timestamp": "2026-06-26T06:54:00+00:00",
-      "source": "web_search escape hatch (rotated template)"
-    },
-    {
-      "title": "ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models",
-      "arxiv_id": "2606.23404",
-      "url": "https://arxiv.org/abs/2606.23404",
-      "discovered": "2026-06-26T07:09:00+00:00"
-    },
-    {
-      "title": "When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models",
-      "arxiv_id": "2606.10740",
-      "url": "https://arxiv.org/abs/2606.10740",
-      "discovered": "2026-06-26T07:09:00+00:00"
-    },
-    {
-      "title": "Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents",
-      "arxiv_id": "2601.22311",
-      "url": "https://arxiv.org/abs/2601.22311",
-      "discovered": "2026-06-26T07:09:00+00:00"
-    },
-    {
-      "arxiv_id": "2604.00626",
-      "title": "A Survey of On-Policy Distillation for Large Language Models",
-      "hash": "96248aa37e122ec88a0a426c509ba60d",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "Run-65 emergent-concept PROBE-AXIS-rule-36",
-      "discovered": "2026-06-26T08:39:00+00:00"
-    },
-    {
-      "arxiv_id": "2605.26046",
-      "title": "When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges",
-      "hash": "f0d652621ff880b77619ca7f2b3b8361",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "Run-65 emergent-concept PROBE-AXIS-rule-36",
-      "discovered": "2026-06-26T08:39:00+00:00"
-    },
-    {
-      "arxiv_id": "2603.13985",
-      "title": "Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models",
-      "hash": "0e1a33827922204a353002438af14f84",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "Run-65 emergent-concept PROBE-AXIS-rule-36",
-      "discovered": "2026-06-26T08:39:00+00:00"
-    },
-    {
-      "arxiv_id": "2606.13003",
-      "title": "The Illusion of Multi-Agent Advantage",
-      "hash": "794cfbd2a8bec41cda9ce61368277029",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "MAS-advantage-falsification / architectural-bloat-diagnosis / cost-adjusted-evaluation-primitive",
-      "discovered": "2026-06-26T09:00:00+00:00"
-    },
-    {
-      "arxiv_id": "2606.06462",
-      "title": "Benchmark Everything Everywhere All at Once",
-      "hash": "f049d54daf9f2f9992dfd7e46e110a7c",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "automated-benchmark-regeneration / sustainability-x-discrimination-co-design / continual-evaluation-anti-saturation",
-      "discovered": "2026-06-26T09:00:00+00:00"
-    },
-    {
-      "arxiv_id": "2605.08765",
-      "title": "Unlearners Can Lie: Evaluating and Improving Honesty in LLM Unlearning",
-      "hash": "d63e97014e95baba1beb6e83b4c157b1",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "unlearning-honesty-formalization / two-sided-retained-forgotten-honesty / feature-randomized-fine-tuning-as-recovery",
-      "discovered": "2026-06-26T09:00:00+00:00"
-    },
-    {
-      "arxiv_id": "2606.00395",
-      "title": "PR2: Predictive Routing Replay for MoE-Based LLM Reinforcement Learning",
-      "hash": "493c0e4c22328b8d3166f45c519c1f4d",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "MoE-RL-stability / router-drift / importance-sampling-collapse / predictive-routing-replay / asymmetric-dual-phase-routing / router-evolution-predictor",
-      "discovered": "2026-06-26T09:32:00+00:00"
-    },
-    {
-      "arxiv_id": "2605.14589",
-      "title": "EndPrompt: Efficient Long-Context Extension via Terminal Anchoring",
-      "hash": "18ed2922da50634adcf1d33b0ed56065",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "long-context / position-embedding / RoPE / context-extension / sparse-positional-supervision / terminal-anchoring / two-segment-construction / RoPE-Bernstein-smoothness-constraint",
-      "discovered": "2026-06-26T09:32:00+00:00"
-    },
-    {
-      "arxiv_id": "2604.25313",
-      "title": "Faithfulness-QA: A Counterfactual Entity Substitution Dataset for Training Context-Faithful RAG Models",
-      "hash": "a2fd54c06a438ed80a8b0572a73d8d25",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "RAG-faithfulness / counterfactual-entity-substitution / training-data / parametric-memory-conflict / retrieval-augmented-generation / typed-entity-bank / dual-role-dataset",
-      "discovered": "2026-06-26T09:32:00+00:00"
-    },
-    {
-      "arxiv_id": "2606.21821",
-      "title": "Local Causal Attribution of Chain-of-Thought Reasoning",
-      "hash": "28b03a17b00a2fe30ef89e802e43f239",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "causal-inference / SCM-on-CoT-units / local-causal-attribution / black-box-trace-attribution / O(U)-forward-passes",
-      "discovered": "2026-06-29T05:30:00+00:00",
-      "slug": "local-causal-attribution-of-chain-of-thought-reasoning-2606.21821",
-      "online_date": "2026-06-20",
-      "run_number": 83
-    },
-    {
-      "arxiv_id": "2605.25998",
-      "title": "Causal Methods for LLM Development and Evaluation",
-      "hash": "1bfde96415d8109a25c4b043853ba90c",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "causal-inference / meta-causal-framework-for-LLM-development / intervention-identification-under-confounding / pipeline-design-causal-mapping",
-      "discovered": "2026-06-29T05:30:00+00:00",
-      "slug": "causal-methods-for-llm-development-and-evaluation-2605.25998",
-      "online_date": "2026-05-25",
-      "run_number": 83
-    },
-    {
-      "arxiv_id": "2605.24873",
-      "title": "Towards a Universal Causal Reasoner",
-      "hash": "4e0b64a7124e1d41afda733263de227f",
-      "vector": "emergent",
-      "chain": "emergent-concepts",
-      "theme": "causal-inference / universal-causal-reasoner-data-generation / Pearl-Causal-Ladder-coverage / causal-SFT-faithfulness-transfer",
-      "discovered": "2026-06-29T05:30:00+00:00",
-      "slug": "towards-a-universal-causal-reasoner-unico-2605.24873",
-      "online_date": "2026-05-24",
-      "run_number": 83
-    }
+    "2606.28182",
+    "2606.19911",
+    "2602.00911"
   ],
   "last_run_framing": "Rule 53 TEST-TIME-COMPUTE-SCALING-PROBE",
   "updated": "2026-06-29T03:55:00+00:00"
