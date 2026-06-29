@@ -19,7 +19,7 @@
   "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 366,
+  "entities_count": 369,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4507,6 +4507,30 @@
       "theme": "test-time compute / unified framework / modular reasoning",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27709",
+      "title": "Low-Agreeableness Persona Conditioning for Safe LLM Fine-Tuning",
+      "slug": "low-agreeableness-persona-conditioning-for-safe-llm-fine-tun-2606.27709",
+      "url": "https://arxiv.org/abs/2606.27709",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "theme": "safety-fine-tuning"
+    },
+    {
+      "arxiv_id": "2606.27681",
+      "title": "Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation",
+      "slug": "textual-belief-states-for-world-models-identifiable-represen-2606.27681",
+      "url": "https://arxiv.org/abs/2606.27681",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "theme": "world-model-representation"
+    },
+    {
+      "arxiv_id": "2606.25091",
+      "title": "Speculation at a Distance: Where Edge-Cloud Speculative Decoding Actually Pays Off",
+      "slug": "speculation-at-a-distance-where-edge-cloud-speculative-decod-2606.25091",
+      "url": "https://arxiv.org/abs/2606.25091",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "theme": "inference-deployment"
     }
   ],
   "emergent_discoveries": [
@@ -7333,6 +7357,30 @@
       "url": "https://arxiv.org/abs/2606.15874",
       "discovered": "2026-06-29",
       "theme": "llm-as-code-agentic-programming"
+    },
+    {
+      "arxiv_id": "2606.27709",
+      "title": "Low-Agreeableness Persona Conditioning for Safe LLM Fine-Tuning",
+      "slug": "low-agreeableness-persona-conditioning-for-safe-llm-fine-tun-2606.27709",
+      "url": "https://arxiv.org/abs/2606.27709",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "theme": "safety-fine-tuning"
+    },
+    {
+      "arxiv_id": "2606.27681",
+      "title": "Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation",
+      "slug": "textual-belief-states-for-world-models-identifiable-represen-2606.27681",
+      "url": "https://arxiv.org/abs/2606.27681",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "theme": "world-model-representation"
+    },
+    {
+      "arxiv_id": "2606.25091",
+      "title": "Speculation at a Distance: Where Edge-Cloud Speculative Decoding Actually Pays Off",
+      "slug": "speculation-at-a-distance-where-edge-cloud-speculative-decod-2606.25091",
+      "url": "https://arxiv.org/abs/2606.25091",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "theme": "inference-deployment"
     }
   ],
   "emergent_concept_search_log": [
@@ -9873,6 +9921,16 @@
         "2605.06480"
       ],
       "notes": "Run 106 \u2014 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE (Rule 73 candidate) \u2014 pivoted from Run 105 declarative-LM axes to functional-mechanistic-interpretability primitive-class triplet: (a) concept-annotation as SAE-evaluation substrate (2606.24716) + (b) weight-regularization as SAE-stability-and-steerability enabler (2603.04198) + (c) patch-effect-graph-kernel as circuit-comparison substrate (2605.06480); HF daily v2 returned CV/3D-heavy content (52nd consecutive pitfall-83 streak); arxiv API rate-limited 429; arxiv search HTML + web_search escape hatch fired for FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE via 6 axes; full orthogonality to Run 105 declarative-LM picks verified; Rule 73 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE codified candidate."
+    },
+    {
+      "run": 120,
+      "theme": "WARMTH-SAFETY-TRADEOFF + WORLD-MODEL-IDENTIFIABILITY + EDGE-CLOUD-SPECULATIVE-DECODING",
+      "timestamp": "2026-06-29T12:30:00+00:00",
+      "picks": [
+        "2606.27709",
+        "2606.27681",
+        "2606.25091"
+      ]
     }
   ],
   "runs": [
@@ -11622,6 +11680,40 @@
         "2606.06915"
       ],
       "notes": "3-axis discovery: SoftMoE soft differentiable routing (06-16), SIMMER latent world-model planning failure (06-12), ThinkBooster unified TTC framework (06-05)"
+    },
+    {
+      "run_number": 120,
+      "theme": "WARMTH-SAFETY-TRADEOFF + WORLD-MODEL-IDENTIFIABILITY + EDGE-CLOUD-SPECULATIVE-DECODING",
+      "picks": [
+        {
+          "arxiv_id": "2606.27709",
+          "title": "Low-Agreeableness Persona Conditioning for Safe LLM Fine-Tuning",
+          "slug": "low-agreeableness-persona-conditioning-for-safe-llm-fine-tun-2606.27709",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "safety-fine-tuning",
+          "discovered": "2026-06-29T12:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.27681",
+          "title": "Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation",
+          "slug": "textual-belief-states-for-world-models-identifiable-represen-2606.27681",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "world-model-representation",
+          "discovered": "2026-06-29T12:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.25091",
+          "title": "Speculation at a Distance: Where Edge-Cloud Speculative Decoding Actually Pays Off",
+          "slug": "speculation-at-a-distance-where-edge-cloud-speculative-decod-2606.25091",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "inference-deployment",
+          "discovered": "2026-06-29T12:30:00+00:00"
+        }
+      ],
+      "timestamp": "2026-06-29T12:30:00+00:00"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
