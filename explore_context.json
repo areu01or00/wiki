@@ -8,7 +8,7 @@
   "last_explore": "2026-06-29T15:00:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
   "last_discovery": "2026-06-29T15:00:00+00:00",
-  "last_run_framing": "test-time-compute + verifiable-prm + prm-taxonomy",
+  "last_run_framing": "MULTIMODAL-SAFETY + CASCADED-SERVING + PROGRESSIVE-MULTIMODAL-AGENT",
   "last_framing": "TEST-TIME-COMPUTE + VERIFIABLE-PRM + PRM-SUPERVISION",
   "last_run_notes": "Rule 77 CAUSAL-REASONING-PROBE (Run 115) extended to TEST-TIME-COMPUTE + PROCESS-REWARD + PRM-SUPERVISION in Run 116",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 357,
+  "entities_count": 360,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4429,6 +4429,30 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-29T15:00:00+00:00",
       "theme": "process-reward-model / survey"
+    },
+    {
+      "arxiv_id": "2606.22873",
+      "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
+      "slug": "singguard-a-policy-adaptive-multimodal-llm-guardrail-with-dynamic-reasoning-2606.22873",
+      "url": "https://arxiv.org/abs/2606.22873",
+      "discovered": "2026-06-29",
+      "theme": "Policy-adaptive multimodal guardrail with fast-slow reasoning spectrum"
+    },
+    {
+      "arxiv_id": "2606.27457",
+      "title": "Cluster, Route, Escalate: Cascaded Framework for Cost-Aware LLM Serving",
+      "slug": "cluster-route-escalate-cascaded-framework-for-cost-aware-llm-serving-2606.27457",
+      "url": "https://arxiv.org/abs/2606.27457",
+      "discovered": "2026-06-29",
+      "theme": "Two-stage cascaded serving with query clustering and quality-estimation cascade"
+    },
+    {
+      "arxiv_id": "2606.27974",
+      "title": "ProMSA: Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
+      "slug": "promsa-progressive-multimodal-search-agents-for-knowledge-based-visual-question-answering-2606.27974",
+      "url": "https://arxiv.org/abs/2606.27974",
+      "discovered": "2026-06-29",
+      "theme": "Progressive multimodal search agent with TN-GSPO RL for KB-VQA"
     }
   ],
   "emergent_discoveries": [
@@ -7207,6 +7231,30 @@
       "url": "https://arxiv.org/abs/2510.08049",
       "discovered": "2026-06-29T15:00:00+00:00",
       "theme": "process-reward-model / survey"
+    },
+    {
+      "arxiv_id": "2606.22873",
+      "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
+      "slug": "singguard-a-policy-adaptive-multimodal-llm-guardrail-with-dynamic-reasoning-2606.22873",
+      "url": "https://arxiv.org/abs/2606.22873",
+      "discovered": "2026-06-29",
+      "theme": "Policy-adaptive multimodal guardrail with fast-slow reasoning spectrum"
+    },
+    {
+      "arxiv_id": "2606.27457",
+      "title": "Cluster, Route, Escalate: Cascaded Framework for Cost-Aware LLM Serving",
+      "slug": "cluster-route-escalate-cascaded-framework-for-cost-aware-llm-serving-2606.27457",
+      "url": "https://arxiv.org/abs/2606.27457",
+      "discovered": "2026-06-29",
+      "theme": "Two-stage cascaded serving with query clustering and quality-estimation cascade"
+    },
+    {
+      "arxiv_id": "2606.27974",
+      "title": "ProMSA: Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
+      "slug": "promsa-progressive-multimodal-search-agents-for-knowledge-based-visual-question-answering-2606.27974",
+      "url": "https://arxiv.org/abs/2606.27974",
+      "discovered": "2026-06-29",
+      "theme": "Progressive multimodal search agent with TN-GSPO RL for KB-VQA"
     }
   ],
   "emergent_concept_search_log": [
@@ -11463,6 +11511,17 @@
       ],
       "theme": "test-time-compute + verifiable-prm + prm-taxonomy",
       "added": 3
+    },
+    {
+      "run_number": 117,
+      "date": "2026-06-29",
+      "theme": "MULTIMODAL-SAFETY + CASCADED-SERVING + PROGRESSIVE-MULTIMODAL-AGENT",
+      "papers": [
+        "2606.22873",
+        "2606.27457",
+        "2606.27974"
+      ],
+      "framing": "Three orthogonal axes: (1) policy-adaptive multimodal guardrail with runtime policy input and fast-slow reasoning, (2) two-stage cascaded serving with query clustering and quality-estimation cascade, (3) progressive multimodal search agent for KB-VQA with TN-GSPO RL"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
