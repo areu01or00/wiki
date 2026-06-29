@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T05:30:00+00:00",
-  "__last_updated": "2026-06-29T05:30:00+00:00",
-  "last_run": "2026-06-29T05:30:00+00:00",
+  "updated": "2026-06-29T03:30:00+00:00",
+  "__last_updated": "2026-06-29T03:30:00+00:00",
+  "last_run": "2026-06-29T03:30:00+00:00",
   "last_explore": "2026-06-29T05:30:00+00:00",
   "last_global_explore": "2026-06-29T05:30:00+00:00",
   "last_discovery": "2026-06-29T05:30:00+00:00",
-  "last_run_framing": "Run 83 CAUSAL-INFERENCE-PROBE per Rule 50 - SCM-on-CoT-units + universal causal reasoner + meta-causal-framework for LLM development",
+  "last_run_framing": "Run 84 GRAPH-STRUCTURED-REASONING-PROBE per Rule 51 \u2014 KG-grounded-embedding-space-reasoning-rule-rerank + graph-native-AI-systems-tutorial-synergies + KG-grounded-VLM-Entity-Reward-mechanism",
   "last_framing": "Run 71 negative-result-probe per Rule 38 \u2014 pivoted from Run 70 axis-orthogonality training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff)",
-  "last_run_notes": "29th consecutive pitfall-83; HF daily v2 returned 0 data-props, v3 href-regex 34 papers with 17 LLM-keyword-matched but most non-LLM; web_search CAUSAL-INFERENCE-PROBE surfaced 14 fresh LLM candidates",
-  "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search_4query_causal_inference_probe_rule50",
+  "last_run_notes": "Run 84 - GRAPH-STRUCTURED-REASONING-PROBE per Rule 51 - pivot from Run 83 causal-inference. 30th consecutive pitfall-83.",
+  "last_pass_type": "emergent-concept-search",
+  "last_run_method": "web_search_4query_graph_structured_reasoning_probe_rule51",
   "run_method": "emergent-concept",
   "last_run_added": 3,
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "uncertainty-quantification-probe-rule49",
+  "emergent_concept_theme": "graph-structured-reasoning",
   "emergent_theme": "uncertainty-quantification-probe-rule49",
   "chains_updated": 0,
-  "entities_count": 255,
+  "entities_count": 258,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3655,7 +3655,10 @@
       "url": "https://arxiv.org/abs/2605.24873",
       "discovered": "2026-06-29T05:30:00+00:00",
       "theme": "causal-inference / universal-causal-reasoner-data-generation / Pearl-Causal-Ladder-coverage / causal-SFT-faithfulness-transfer"
-    }
+    },
+    "2606.11560",
+    "2603.13266",
+    "2601.21617"
   ],
   "emergent_discoveries": [
     {
@@ -5626,6 +5629,30 @@
       "url": "https://arxiv.org/abs/2605.24873",
       "discovered": "2026-06-29T05:30:00+00:00",
       "theme": "causal-inference / universal-causal-reasoner-data-generation / Pearl-Causal-Ladder-coverage / causal-SFT-faithfulness-transfer"
+    },
+    {
+      "arxiv_id": "2606.11560",
+      "title": "LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems",
+      "slug": "llms-graphs-toward-graph-native-synergistic-ai-systems-2606.11560",
+      "url": "https://arxiv.org/abs/2606.11560",
+      "discovered": "2026-06-29T03:30:00+00:00",
+      "theme": "graph-structured-reasoning / LLM-KG-synergistic-integration / graph-native-AI-systems / three-synergies-framework"
+    },
+    {
+      "arxiv_id": "2603.13266",
+      "title": "Multi-hop Reasoning and Retrieval in Embedding Space",
+      "slug": "multi-hop-reasoning-and-retrieval-in-embedding-space-embrag-2603.13266",
+      "url": "https://arxiv.org/abs/2603.13266",
+      "discovered": "2026-06-29T03:30:00+00:00",
+      "theme": "graph-structured-reasoning / KG-grounded-embedding-space-reasoning / EMBRAG / multi-rule-reranker / KGQA"
+    },
+    {
+      "arxiv_id": "2601.21617",
+      "title": "PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Models",
+      "slug": "pathreasoner-r1-instilling-structured-reasoning-into-pathology-vision-language-models-2601.21617",
+      "url": "https://arxiv.org/abs/2601.21617",
+      "discovered": "2026-06-29T03:30:00+00:00",
+      "theme": "graph-structured-reasoning / KG-grounded-Entity-Reward-VLM / pathology-structured-reasoning / trajectory-masked-SFT-plus-reasoning-RL"
     }
   ],
   "emergent_concept_search_log": [
@@ -8903,15 +8930,32 @@
       "theme": "causal-inference",
       "notes": "Run 83 - CAUSAL-INFERENCE-PROBE per Rule 50 - local CoT-unit SCM causal attribution + universal causal reasoner data generation + meta-causal-framework for LLM development. Pivot from Run 82 uncertainty-quantification. 29th consecutive pitfall-83.",
       "timestamp": "2026-06-29T05:30:00+00:00"
+    },
+    {
+      "run_number": 84,
+      "method": "web_search_4query_graph_structured_reasoning_probe_rule51",
+      "theme": "graph-structured-reasoning",
+      "notes": "Run 84 - GRAPH-STRUCTURED-REASONING-PROBE per Rule 51 - KG-grounded-embedding-space-reasoning-rule-rerank + graph-native-AI-systems-tutorial-synergies + KG-grounded-VLM-Entity-Reward-mechanism. Pivot from Run 83 causal-inference. 30th consecutive pitfall-83.",
+      "picks": [
+        "2606.11560",
+        "2603.13266",
+        "2601.21617"
+      ],
+      "picks_titles": [
+        "LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems",
+        "Multi-hop Reasoning and Retrieval in Embedding Space",
+        "PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Models"
+      ],
+      "timestamp": "2026-06-29T03:30:00+00:00"
     }
   ],
   "last_updated": "2026-06-29T05:30:00+00:00",
-  "last_run_iso": "2026-06-29T05:30:00+00:00",
-  "total_entity_count": 255,
+  "last_run_iso": "2026-06-29T03:30:00+00:00",
+  "total_entity_count": 258,
   "entity_files_added": [
-    "local-causal-attribution-of-chain-of-thought-reasoning-2606.21821.md",
-    "causal-methods-for-llm-development-and-evaluation-2605.25998.md",
-    "towards-a-universal-causal-reasoner-unico-2605.24873.md"
+    "llms-graphs-toward-graph-native-synergistic-ai-systems-2606.11560",
+    "multi-hop-reasoning-and-retrieval-in-embedding-space-embrag-2603.13266",
+    "pathreasoner-r1-instilling-structured-reasoning-into-pathology-vision-language-models-2601.21617"
   ],
   "pass_type": "emergent-concept",
   "emergent_discoveries_log": [

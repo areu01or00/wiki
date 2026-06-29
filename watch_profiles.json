@@ -922,7 +922,10 @@
         "2603.22299",
         "2606.21821",
         "2605.25998",
-        "2605.24873"
+        "2605.24873",
+        "2606.11560",
+        "2603.13266",
+        "2601.21617"
       ],
       "last_results": [
         {
@@ -2925,6 +2928,42 @@
           "slug": "towards-a-universal-causal-reasoner-unico-2605.24873",
           "online_date": "2026-05-24",
           "run_number": 83
+        },
+        {
+          "arxiv_id": "2606.11560",
+          "title": "LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems",
+          "hash": "3c59838818e38de3e01fd6cd6283625b",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "graph-structured-reasoning / LLM-KG-synergistic-integration / graph-native-AI-systems / three-synergies-framework",
+          "discovered": "2026-06-29T03:30:00+00:00",
+          "slug": "llms-graphs-toward-graph-native-synergistic-ai-systems-2606.11560",
+          "online_date": "2026-06-10",
+          "run_number": 84
+        },
+        {
+          "arxiv_id": "2603.13266",
+          "title": "Multi-hop Reasoning and Retrieval in Embedding Space",
+          "hash": "5e427c9d4634c5d383c4eb3c6848ec88",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "graph-structured-reasoning / KG-grounded-embedding-space-reasoning / EMBRAG / multi-rule-reranker / KGQA",
+          "discovered": "2026-06-29T03:30:00+00:00",
+          "slug": "multi-hop-reasoning-and-retrieval-in-embedding-space-embrag-2603.13266",
+          "online_date": "2026-02-25",
+          "run_number": 84
+        },
+        {
+          "arxiv_id": "2601.21617",
+          "title": "PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Models",
+          "hash": "baf3c596346c9579fb428265d807e028",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "graph-structured-reasoning / KG-grounded-Entity-Reward-VLM / pathology-structured-reasoning / trajectory-masked-SFT-plus-reasoning-RL",
+          "discovered": "2026-06-29T03:30:00+00:00",
+          "slug": "pathreasoner-r1-instilling-structured-reasoning-into-pathology-vision-language-models-2601.21617",
+          "online_date": "2026-01-29",
+          "run_number": 84
         }
       ],
       "last_run": "2026-06-29T05:30:00+00:00",
@@ -2937,7 +2976,7 @@
       "last_run_framing": "Run 83 CAUSAL-INFERENCE-PROBE per Rule 50"
     }
   },
-  "last_run": "2026-06-29T05:30:00+00:00",
+  "last_run": "2026-06-29T03:30:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3181,12 +3220,15 @@
     "2603.22299",
     "2606.21821",
     "2605.25998",
-    "2605.24873"
+    "2605.24873",
+    "2606.11560",
+    "2603.13266",
+    "2601.21617"
   ],
   "last_discovery": "2026-06-29T05:30:00+00:00",
-  "last_updated": "2026-06-29T04:25:00+00:00",
-  "__last_updated": "2026-06-29T05:30:00+00:00",
-  "last_explore": "2026-06-29T05:30:00+00:00",
+  "last_updated": "2026-06-29T03:30:00+00:00",
+  "__last_updated": "2026-06-29T03:30:00+00:00",
+  "last_explore": "2026-06-29T03:30:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -3431,7 +3473,10 @@
       "2603.22299",
       "2606.21821",
       "2605.25998",
-      "2605.24873"
+      "2605.24873",
+      "2606.11560",
+      "2603.13266",
+      "2601.21617"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T05:30:00+00:00",
