@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T17:00:00+00:00",
   "__last_updated": "2026-06-29T17:30:00+00:00",
-  "last_run": 121,
-  "last_explore": "2026-06-29T17:30:00+00:00",
+  "last_run": 123,
+  "last_explore": "2026-06-29T18:00:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
-  "last_discovery": "2026-06-29T17:30:00+00:00",
-  "last_run_framing": "FINE-TUNING-SAFETY-FAILURE-MODE: REWARD-HACK-GENERALIZATION + SAFETY-TOKEN-CONSTRAINT + ALIGNMENT-PRESERVING-FINETUNING",
-  "last_framing": "FINE-TUNING-SAFETY-FAILURE-MODE: REWARD-HACK-GENERALIZATION + SAFETY-TOKEN-CONSTRAINT + ALIGNMENT-PRESERVING-FINETUNING",
-  "last_run_notes": "Run 121: 3-axis FINE-TUNING-SAFETY-FAILURE-MODE: reward hacking generalization (School of Reward Hacks) + safety-token constraint (Few Tokens) + alignment-preserving fine-tuning (GradShield) discovery",
+  "last_discovery": "2026-06-29T18:00:00+00:00",
+  "last_run_framing": "KNOWLEDGE-EDITING-FAILURE-MODE: UNIFICATION + SEMANTIC-ENTANGLEMENT + ANTI-REVERSAL",
+  "last_framing": "KNOWLEDGE-EDITING-FAILURE-MODE: UNIFICATION + SEMANTIC-ENTANGLEMENT + ANTI-REVERSAL",
+  "last_run_notes": "Run 123: 3-axis KNOWLEDGE-EDITING-FAILURE-MODE: KnowledgeSmith unified evaluation framework + ORE semantic disentanglement + RepSelect anti-reversal unlearning",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search 4-query TEST-TIME-COMPUTE + PROCESS-REWARD + PRM-SUPERVISION probe",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 375,
+  "entities_count": 378,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4576,6 +4576,36 @@
       "slug": "gradshield-alignment-preserving-finetuning-2605.14194",
       "discovered": "2026-06-29T17:30:00+00:00",
       "theme": "fine-tuning-safety-failure-mode"
+    },
+    {
+      "arxiv_id": "2510.02392",
+      "title": "KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning",
+      "slug": "knowledgesmith-uncovering-knowledge-updating-in-llms-with-model-editing-and-unlearning-2510.02392",
+      "url": "https://arxiv.org/abs/2510.02392",
+      "discovered": "2026-06-29T18:00:00+00:00",
+      "theme": "knowledge-editing-unlearning-mechanism-evaluation",
+      "chain": "emergent-concepts",
+      "vector": "emergent_concept_search"
+    },
+    {
+      "arxiv_id": "2606.22627",
+      "title": "Orthogonal Representation Editing: Decoupling Semantic Entanglement in Batch Knowledge Editing of LLMs",
+      "slug": "orthogonal-representation-editing-decoupling-semantic-entanglement-in-batch-knowledge-editing-of-llms-2606.22627",
+      "url": "https://arxiv.org/abs/2606.22627",
+      "discovered": "2026-06-29T18:00:00+00:00",
+      "theme": "batch-knowledge-editing-semantic-entanglement",
+      "chain": "emergent-concepts",
+      "vector": "emergent_concept_search"
+    },
+    {
+      "arxiv_id": "2606.17168",
+      "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
+      "slug": "repselect-robust-llm-unlearning-via-representation-selectivity-2606.17168",
+      "url": "https://arxiv.org/abs/2606.17168",
+      "discovered": "2026-06-29T18:00:00+00:00",
+      "theme": "robust-llm-unlearning-representation-selectivity",
+      "chain": "emergent-concepts",
+      "vector": "emergent_concept_search"
     }
   ],
   "emergent_discoveries": [
@@ -7474,6 +7504,30 @@
       "url": "https://arxiv.org/abs/2605.14194",
       "discovered": "2026-06-29T17:30:00+00:00",
       "theme": "fine-tuning-safety-failure-mode"
+    },
+    {
+      "arxiv_id": "2510.02392",
+      "title": "KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning",
+      "slug": "knowledgesmith-uncovering-knowledge-updating-in-llms-with-model-editing-and-unlearning-2510.02392",
+      "url": "https://arxiv.org/abs/2510.02392",
+      "discovered": "2026-06-29T18:00:00+00:00",
+      "theme": "knowledge-editing-unlearning-mechanism-evaluation"
+    },
+    {
+      "arxiv_id": "2606.22627",
+      "title": "Orthogonal Representation Editing: Decoupling Semantic Entanglement in Batch Knowledge Editing of LLMs",
+      "slug": "orthogonal-representation-editing-decoupling-semantic-entanglement-in-batch-knowledge-editing-of-llms-2606.22627",
+      "url": "https://arxiv.org/abs/2606.22627",
+      "discovered": "2026-06-29T18:00:00+00:00",
+      "theme": "batch-knowledge-editing-semantic-entanglement"
+    },
+    {
+      "arxiv_id": "2606.17168",
+      "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
+      "slug": "repselect-robust-llm-unlearning-via-representation-selectivity-2606.17168",
+      "url": "https://arxiv.org/abs/2606.17168",
+      "discovered": "2026-06-29T18:00:00+00:00",
+      "theme": "robust-llm-unlearning-representation-selectivity"
     }
   ],
   "emergent_concept_search_log": [
@@ -11915,6 +11969,17 @@
         }
       ],
       "notes": "Rule 79: fine-tuning failure modes orthogonal to warmth-safety (Run 120)"
+    },
+    {
+      "run": 123,
+      "timestamp": "2026-06-29T18:00:00+00:00",
+      "theme": "KNOWLEDGE-EDITING-FAILURE-MODE",
+      "papers_found": [
+        "2510.02392",
+        "2606.22627",
+        "2606.17168"
+      ],
+      "framing": "KNOWLEDGE-EDITING-FAILURE-MODE: UNIFICATION + SEMANTIC-ENTANGLEMENT + ANTI-REVERSAL"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
