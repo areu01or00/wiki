@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T06:08:00+00:00",
-  "__last_updated": "2026-06-29T06:08:00+00:00",
-  "last_run": "2026-06-29T06:08:00+00:00",
-  "last_explore": "2026-06-29T06:08:00+00:00",
-  "last_global_explore": "2026-06-29T09:50:00+00:00",
-  "last_discovery": "2026-06-29T09:50:00+00:00",
-  "last_run_framing": "environmental-evolution probe \u2014 autonomous environment-discovery + programmatic tool-interaction environment synthesis + difficulty-aligned co-evolutionary agent-environment game",
-  "last_framing": "Rule 60 CROSS-AGENT-TEACHING-PROBE \u2014 pick axes that probe cross-agent-teaching primitives (peer-teaching via typed outcome certificates across tokenizer-heterogeneous LLM families + group-as-evolutionary-unit experience sharing across evolutionary branches + parent-archive inheritance as cross-generation teaching substrate + agent-to-agent knowledge transfer protocols for distributed post-training)",
-  "last_run_notes": "Rule 60 CROSS-AGENT-TEACHING-PROBE verified (39th consecutive pitfall-83 \u2014 longest in wiki history by 26 runs); 3 picks structurally orthogonal to Run 92 collaborative-learning primitives \u2014 picks cover 3 distinct sub-axes of cross-agent-teaching primitive-class: (a) parent-archive inheritance as cross-generation teaching substrate in genetic-algorithm outer loop for code-generation populations, (b) peer-teaching via typed outcome certificates (SGT) with stability-support trade-off across tokenizer-heterogeneous LLM families, (c) group-as-evolutionary-unit with explicit cross-branch experience sharing for open-ended self-improvement. Pivoted from Run 92 cooperation-laws-as-policy-for-embodied-multi-agent-alignment + transactive-memory-extending-RAG-to-agent-populations + typed-federated-artifacts-for-cross-client-tool-routing (collaborative-learning primitive-class triplet) to peer-rollout-pooling-and-cross-policy-advantage-sharing-across-tokenizer-heterogeneous-LLMs + group-as-evolutionary-unit-with-explicit-experience-sharing + agent-seed-inheritance-from-parent-archives-in-genetic-algorithm-outer-loop (cross-agent-teaching primitive-class triplet).",
+  "updated": "2026-06-29T10:30:00+00:00",
+  "__last_updated": "2026-06-29T10:30:00+00:00",
+  "last_run": "2026-06-29T10:30:00+00:00",
+  "last_explore": "2026-06-29T10:30:00+00:00",
+  "last_global_explore": "2026-06-29T10:30:00+00:00",
+  "last_discovery": "2026-06-29T10:30:00+00:00",
+  "last_run_framing": "tokenizer-level probe \u2014 minimalist unigram + tokenization fairness + tokenization-free hierarchical",
+  "last_framing": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE \u2014 pick axes that probe tokenizer-level primitives (training-pipeline simplification of Unigram vs BPE trade-offs, byte-level/tokenization-free hierarchical architecture, multilingual token-fertility cost measurement, script-fertility gradient analysis, byte-compression control in tokenization-free models, token-list vs token-graph representation, compression-vs-morphology trade-off resolution)",
+  "last_run_notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet).",
   "last_pass_type": "emergent-concept search",
-  "last_run_method": "4-query ENVIRONMENTAL-EVOLUTION-PROBE per Rule 61",
-  "run_method": "web_search_4query_cross_agent_teaching_probe_rule60",
+  "last_run_method": "4-query TOKENIZER-LEVEL-PRIMITIVE-PROBE per Rule 62 (arxiv API cat:cs.CL+abs:tokenizer + variants)",
+  "run_method": "arxiv_api_tokenizer_level_primitive_probe_rule62",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "environmental-evolution",
-  "emergent_theme": "environmental-evolution",
+  "emergent_concept_theme": "tokenizer-level",
+  "emergent_theme": "tokenizer-level",
   "chains_updated": 0,
-  "entities_count": 288,
+  "entities_count": 291,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1561,10 +1561,40 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-29T03:00:00+00:00",
           "theme": "safety-alignment / alignment-tax / continual-learning / orthogonal-gradient-projection / catastrophic-forgetting"
+        },
+        {
+          "arxiv_id": "2606.27019",
+          "slug": "mingram-a-minimalist-unigram-tokenizer-with-high-compression-and-competitive-morphological-fidelity-2606.27019",
+          "title": "MinGram: A Minimalist Unigram Tokenizer with High Compression and Competitive Morphological Fidelity",
+          "url": "https://arxiv.org/abs/2606.27019",
+          "theme": "tokenizer-design / minimalist-unigram / compression-vs-morphology",
+          "discovered": "2026-06-29T10:30:00+00:00",
+          "vector": "emergent_concept_search",
+          "online_date": "2026-06-25"
+        },
+        {
+          "arxiv_id": "2606.24460",
+          "slug": "the-african-language-tax-quantifying-the-cost-latency-and-context-penalty-of-tokenizing-2606.24460",
+          "title": "The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing",
+          "url": "https://arxiv.org/abs/2606.24460",
+          "theme": "tokenizer-fairness / African-language-deployment-economics / digital-divide",
+          "discovered": "2026-06-29T10:30:00+00:00",
+          "vector": "emergent_concept_search",
+          "online_date": "2026-06-23"
+        },
+        {
+          "arxiv_id": "2605.30080",
+          "slug": "adaptive-targeted-dynamic-chunking-for-tokenization-free-hierarchical-model-2605.30080",
+          "title": "Adaptive Targeted Dynamic Chunking for Tokenization-Free Hierarchical Model",
+          "url": "https://arxiv.org/abs/2605.30080",
+          "theme": "tokenization-free / byte-level-hierarchical-architecture / curriculum-byte-compression",
+          "discovered": "2026-06-29T10:30:00+00:00",
+          "vector": "emergent_concept_search",
+          "online_date": "2026-05-28"
         }
       ],
-      "last_run": "2026-06-26T05:30:00+00:00",
-      "last_explore": "2026-06-26T05:30:00+00:00",
+      "last_run": "2026-06-29T10:30:00+00:00",
+      "last_explore": "2026-06-29T10:30:00+00:00",
       "last_run_added": 3,
       "papers_found_count": 138,
       "run_method": "emergent-concept",
@@ -3925,6 +3955,39 @@
       "url": "https://arxiv.org/abs/2512.19682",
       "discovered": "2026-06-29T06:08:00+00:00",
       "theme": "environmental-evolution / co-evolutionary-agent-environment-game / difficulty-aligned-curriculum primitive"
+    },
+    {
+      "arxiv_id": "2606.27019",
+      "slug": "mingram-a-minimalist-unigram-tokenizer-with-high-compression-and-competitive-morphological-fidelity-2606.27019",
+      "title": "MinGram: A Minimalist Unigram Tokenizer with High Compression and Competitive Morphological Fidelity",
+      "url": "https://arxiv.org/abs/2606.27019",
+      "theme": "tokenizer-design / minimalist-unigram / compression-vs-morphology",
+      "discovered": "2026-06-29T10:30:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "online_date": "2026-06-25"
+    },
+    {
+      "arxiv_id": "2606.24460",
+      "slug": "the-african-language-tax-quantifying-the-cost-latency-and-context-penalty-of-tokenizing-2606.24460",
+      "title": "The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing",
+      "url": "https://arxiv.org/abs/2606.24460",
+      "theme": "tokenizer-fairness / African-language-deployment-economics / digital-divide",
+      "discovered": "2026-06-29T10:30:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "online_date": "2026-06-23"
+    },
+    {
+      "arxiv_id": "2605.30080",
+      "slug": "adaptive-targeted-dynamic-chunking-for-tokenization-free-hierarchical-model-2605.30080",
+      "title": "Adaptive Targeted Dynamic Chunking for Tokenization-Free Hierarchical Model",
+      "url": "https://arxiv.org/abs/2605.30080",
+      "theme": "tokenization-free / byte-level-hierarchical-architecture / curriculum-byte-compression",
+      "discovered": "2026-06-29T10:30:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "online_date": "2026-05-28"
     }
   ],
   "emergent_discoveries": [
@@ -6163,6 +6226,30 @@
       "url": "https://arxiv.org/abs/2512.19682",
       "discovered": "2026-06-29T06:08:00+00:00",
       "theme": "environmental-evolution / co-evolutionary-agent-environment-game / difficulty-aligned-curriculum primitive"
+    },
+    {
+      "arxiv_id": "2606.27019",
+      "title": "MinGram: A Minimalist Unigram Tokenizer with High Compression and Competitive Morphological Fidelity",
+      "slug": "mingram-a-minimalist-unigram-tokenizer-with-high-compression-and-competitive-morphological-fidelity-2606.27019",
+      "url": "https://arxiv.org/abs/2606.27019",
+      "discovered": "2026-06-29T10:30:00+00:00",
+      "theme": "tokenizer-design / minimalist-unigram / compression-vs-morphology"
+    },
+    {
+      "arxiv_id": "2606.24460",
+      "title": "The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing",
+      "slug": "the-african-language-tax-quantifying-the-cost-latency-and-context-penalty-of-tokenizing-2606.24460",
+      "url": "https://arxiv.org/abs/2606.24460",
+      "discovered": "2026-06-29T10:30:00+00:00",
+      "theme": "tokenizer-fairness / African-language-deployment-economics / digital-divide"
+    },
+    {
+      "arxiv_id": "2605.30080",
+      "title": "Adaptive Targeted Dynamic Chunking for Tokenization-Free Hierarchical Model",
+      "slug": "adaptive-targeted-dynamic-chunking-for-tokenization-free-hierarchical-model-2605.30080",
+      "url": "https://arxiv.org/abs/2605.30080",
+      "discovered": "2026-06-29T10:30:00+00:00",
+      "theme": "tokenization-free / byte-level-hierarchical-architecture / curriculum-byte-compression"
     }
   ],
   "emergent_concept_search_log": [
@@ -7362,6 +7449,41 @@
         "2602.00911"
       ],
       "theme": "collaborative-learning"
+    },
+    {
+      "run_number": 95,
+      "timestamp": "2026-06-29T10:30:00+00:00",
+      "query_template": "TOKENIZER-LEVEL-PRIMITIVE-PROBE",
+      "rule": "62",
+      "queries": [
+        "cat:cs.CL+AND+abs:tokenizer",
+        "cat:cs.CL+AND+abs:subword+AND+abs:regularization",
+        "cat:cs.CL+AND+abs:byte-level",
+        "cat:cs.CL+AND+abs:multilingual+AND+abs:tokenization",
+        "cat:cs.CL+AND+abs:BPE+AND+abs:training",
+        "cat:cs.CL+AND+abs:vocabulary+AND+abs:compression",
+        "cat:cs.CL+AND+abs:token+AND+abs:efficiency+AND+abs:inference"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2606.27019",
+          "slug": "mingram-a-minimalist-unigram-tokenizer-with-high-compression-and-competitive-morphological-fidelity-2606.27019",
+          "title": "MinGram: A Minimalist Unigram Tokenizer with High Compression and Competitive Morphological Fidelity"
+        },
+        {
+          "arxiv_id": "2606.24460",
+          "slug": "the-african-language-tax-quantifying-the-cost-latency-and-context-penalty-of-tokenizing-2606.24460",
+          "title": "The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing"
+        },
+        {
+          "arxiv_id": "2605.30080",
+          "slug": "adaptive-targeted-dynamic-chunking-for-tokenization-free-hierarchical-model-2605.30080",
+          "title": "Adaptive Targeted Dynamic Chunking for Tokenization-Free Hierarchical Model"
+        }
+      ],
+      "fresh_count": 15,
+      "pick_count": 3,
+      "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet)."
     }
   ],
   "emergent_concept_search_runs": [
@@ -8479,6 +8601,15 @@
       ],
       "picks_count": 3,
       "notes": "Rule 61 ENVIRONMENTAL-EVOLUTION-PROBE surfaces 3 fresh LLM candidates across environmental-evolution surfaces: Agentic Environment-Task Discovery from MCP tools (Agent-World), SkelBuilder+ScenGenerator programmatic synthesis (EnvScaler), and \u03b1-Curriculum Reward co-evolutionary game (GenEnv)."
+    },
+    {
+      "run_number": 95,
+      "timestamp": "2026-06-29T10:30:00+00:00",
+      "theme": "tokenizer-level",
+      "rule": "62",
+      "method": "arxiv_api_tokenizer_level_primitive_probe",
+      "picks_added": 3,
+      "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet)."
     }
   ],
   "runs": [
@@ -9794,13 +9925,37 @@
         }
       ],
       "notes": "Run 94: web_search 4-query ENVIRONMENTAL-EVOLUTION-PROBE escape hatch per Rule 61 (HF pool CV/3D-heavy for 40th consecutive run \u2014 pitfall-83 streak extended to Runs 55-94, longest in wiki history by 27 runs). Rule 61 introduced after Rules 33-60 in sequence; pivoted from Run 93 cross-agent-teaching triplet to environmental-evolution triplet: environment-discovery-from-real-world-MCP-tools + programmatic-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator. 3 picks structurally orthogonal to all prior runs."
+    },
+    {
+      "run_number": 95,
+      "timestamp": "2026-06-29T10:30:00+00:00",
+      "theme": "tokenizer-level",
+      "rule": "62",
+      "method": "4-query TOKENIZER-LEVEL-PRIMITIVE-PROBE",
+      "picks_added": 3,
+      "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet).",
+      "framing": "tokenizer-level probe \u2014 minimalist unigram + tokenization fairness + tokenization-free hierarchical",
+      "picks": [
+        {
+          "arxiv_id": "2606.27019",
+          "slug": "mingram-a-minimalist-unigram-tokenizer-with-high-compression-and-competitive-morphological-fidelity-2606.27019"
+        },
+        {
+          "arxiv_id": "2606.24460",
+          "slug": "the-african-language-tax-quantifying-the-cost-latency-and-context-penalty-of-tokenizing-2606.24460"
+        },
+        {
+          "arxiv_id": "2605.30080",
+          "slug": "adaptive-targeted-dynamic-chunking-for-tokenization-free-hierarchical-model-2605.30080"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-29T06:08:00+00:00",
-  "last_run_iso": "2026-06-29T06:08:00+00:00",
-  "total_entity_count": 288,
+  "last_updated": "2026-06-29T10:30:00+00:00",
+  "last_run_iso": "2026-06-29T10:30:00+00:00",
+  "total_entity_count": 291,
   "entity_files_added": 3,
-  "pass_type": "emergent-concept search",
+  "pass_type": "emergent-concept-search",
   "emergent_discoveries_log": [
     {
       "timestamp": "2026-06-25T22:58:26.213594+00:00",
@@ -9894,15 +10049,15 @@
       "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE"
     }
   ],
-  "last_run_mode": "web_search",
-  "last_run_summary": "Rule 61 ENVIRONMENTAL-EVOLUTION-PROBE surfaced 3 fresh LLM candidates; 3 picks structurally orthogonal to Run 93 cross-agent-teaching.",
-  "last_watched": "2026-06-29T09:30:00+00:00",
+  "last_run_mode": "emergent-concept-search",
+  "last_run_summary": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE - 3 picks from arxiv API cs.CL abs:tokenizer/multilingual/byte-level queries",
+  "last_watched": "2026-06-29T10:30:00+00:00",
   "last_run_pitfalls": [
-    "83",
-    "98",
-    "120"
+    "pitfall-83 (40th consecutive)",
+    "pitfall-87 (emergent_discoveries list-of-dicts)",
+    "pitfall-98 (state-file JSON formatting)"
   ],
-  "last_run_theme": "environmental-evolution",
-  "emergent_concept_papers_count": 273,
-  "emergent_discoveries_count": 274
+  "last_run_theme": "tokenizer-level",
+  "emergent_concept_papers_count": 276,
+  "emergent_discoveries_count": 277
 }

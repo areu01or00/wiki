@@ -955,7 +955,10 @@
         "2602.04837",
         "2604.18292",
         "2601.05808",
-        "2512.19682"
+        "2512.19682",
+        "2606.27019",
+        "2606.24460",
+        "2605.30080"
       ],
       "last_results": [
         {
@@ -3354,19 +3357,58 @@
           "slug": "genenv-difficulty-aligned-co-evolution-between-llm-agents-and-environment-simulators-2512.19682",
           "online_date": "2025/12/23",
           "run_number": 94
+        },
+        {
+          "arxiv_id": "2606.27019",
+          "title": "MinGram: A Minimalist Unigram Tokenizer with High Compression and Competitive Morphological Fidelity",
+          "hash": "11ea868a841d47877d6b65e99483c84b",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "tokenizer-design / minimalist-unigram / compression-vs-morphology",
+          "discovered": "2026-06-29T10:30:00+00:00",
+          "slug": "mingram-a-minimalist-unigram-tokenizer-with-high-compression-and-competitive-morphological-fidelity-2606.27019",
+          "online_date": "2026-06-25",
+          "run_number": 95,
+          "source": "arxiv_api"
+        },
+        {
+          "arxiv_id": "2606.24460",
+          "title": "The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing",
+          "hash": "22d85a2463076b76cbaf21f537bb6f49",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "tokenizer-fairness / African-language-deployment-economics / digital-divide",
+          "discovered": "2026-06-29T10:30:00+00:00",
+          "slug": "the-african-language-tax-quantifying-the-cost-latency-and-context-penalty-of-tokenizing-2606.24460",
+          "online_date": "2026-06-23",
+          "run_number": 95,
+          "source": "arxiv_api"
+        },
+        {
+          "arxiv_id": "2605.30080",
+          "title": "Adaptive Targeted Dynamic Chunking for Tokenization-Free Hierarchical Model",
+          "hash": "4297eb7aebda444c18ed0c59447f2a24",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "tokenization-free / byte-level-hierarchical-architecture / curriculum-byte-compression",
+          "discovered": "2026-06-29T10:30:00+00:00",
+          "slug": "adaptive-targeted-dynamic-chunking-for-tokenization-free-hierarchical-model-2605.30080",
+          "online_date": "2026-05-28",
+          "run_number": 95,
+          "source": "arxiv_api"
         }
       ],
-      "last_run": "2026-06-29T06:08:00+00:00",
-      "last_updated": "2026-06-29T05:47:05+00:00",
-      "last_result_timestamp": "2026-06-29T05:47:05+00:00",
-      "last_run_key": "Rule 59 COLLABORATIVE-LEARNING-PROBE",
-      "last_pass_type": "emergent-concept-search",
-      "last_discovery": "2026-06-29T05:47:05+00:00",
-      "updated_at": "2026-06-29T05:47:05+00:00",
-      "last_run_framing": "Rule 59 COLLABORATIVE-LEARNING-PROBE"
+      "last_run": "2026-06-29T10:30:00+00:00",
+      "last_updated": "2026-06-29T10:30:00+00:00",
+      "last_result_timestamp": "2026-06-29T10:30:00+00:00",
+      "last_run_key": "run95-tokenizer-level-probe",
+      "last_pass_type": "emergent-concept search",
+      "last_discovery": "2026-06-29T10:30:00+00:00",
+      "updated_at": "2026-06-29T10:30:00+00:00",
+      "last_run_framing": "tokenizer-level probe \u2014 minimalist unigram + tokenization fairness + tokenization-free hierarchical"
     }
   },
-  "last_run": "2026-06-29T06:08:00+00:00",
+  "last_run": "2026-06-29T10:30:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3643,12 +3685,15 @@
     "2602.04837",
     "2604.18292",
     "2601.05808",
-    "2512.19682"
+    "2512.19682",
+    "2606.27019",
+    "2606.24460",
+    "2605.30080"
   ],
-  "last_discovery": "2026-06-29T05:47:05+00:00",
-  "last_updated": "2026-06-29T05:47:05+00:00",
-  "__last_updated": "2026-06-29T06:08:00+00:00",
-  "last_explore": "2026-06-29T03:30:00+00:00",
+  "last_discovery": "2026-06-29T10:30:00+00:00",
+  "last_updated": "2026-06-29T10:30:00+00:00",
+  "__last_updated": "2026-06-29T10:30:00+00:00",
+  "last_explore": "2026-06-29T10:30:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -3926,7 +3971,10 @@
       "2602.04837",
       "2604.18292",
       "2601.05808",
-      "2512.19682"
+      "2512.19682",
+      "2606.27019",
+      "2606.24460",
+      "2605.30080"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T06:08:00+00:00",
@@ -3999,14 +4047,14 @@
     "last_pass_type": "emergent-concept-search",
     "updated_at": "2026-06-29T05:30:00+00:00"
   },
-  "last_pass_type": "emergent-concept-search",
+  "last_pass_type": "emergent-concept search",
   "last_results": [
     "2606.28182",
     "2606.19911",
     "2602.00911"
   ],
-  "last_run_framing": "Rule 53 TEST-TIME-COMPUTE-SCALING-PROBE",
-  "updated": "2026-06-29T06:08:00+00:00",
-  "last_run_method": "4-query ENVIRONMENTAL-EVOLUTION-PROBE per Rule 61",
+  "last_run_framing": "tokenizer-level probe \u2014 minimalist unigram + tokenization fairness + tokenization-free hierarchical",
+  "updated": "2026-06-29T10:30:00+00:00",
+  "last_run_method": "4-query TOKENIZER-LEVEL-PRIMITIVE-PROBE per Rule 62",
   "last_run_added": 3
 }
