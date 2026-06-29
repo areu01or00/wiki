@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-06-29T22:30:05.048825+00:00",
-  "last_run": 141,
-  "last_explore": "2026-07-01T00:30:00+00:00",
+  "last_run": 142,
+  "last_explore": "2026-07-01T00:45:00+00:00",
   "last_global_explore": "2026-06-29T20:15:36.919500+00:00",
-  "last_discovery": "2026-07-01T00:30:00+00:00",
-  "last_run_framing": "LLM-REPRESENTATION-DIVERGENCE-PROBE (Rule 95)",
-  "last_framing": "LLM-INFERENCE-ADAPTIVE-PROBE: Context Recycling + ConcoLixir + EGG",
-  "last_run_notes": "Run 136: Rule 92 ADVERSARIAL-AGENTIC-FAILURE-PROBE: ShareLock + Memory-Poisoning-Taxonomy + Adaptive-PI-Defense",
+  "last_discovery": "2026-07-01T00:45:00+00:00",
+  "last_run_framing": "LLM-INFERENCE-EFFICIENCY-PROBE (Rule 96)",
+  "last_framing": "LLM-INFERENCE-EFFICIENCY-PROBE: AutoPass + Beyond FLOPs + TwinQuant",
+  "last_run_notes": "Run 142: LLM-INFERENCE-EFFICIENCY-PROBE: AutoPass + Beyond FLOPs + TwinQuant",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search LLM-REPRESENTATION-DIVERGENCE-PROBE",
+  "last_run_method": "arxiv HTML search LLM-INFERENCE-EFFICIENCY-PROBE",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 433,
+  "entities_count": 436,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5155,6 +5155,30 @@
       "arxiv_id": "2603.25187",
       "slug": "probing-lack-of-stable-internal-beliefs-llms-2603.25187",
       "discovered": "2026-06-29T22:30:05.048825+00:00"
+    },
+    {
+      "arxiv_id": "2606.20373",
+      "title": "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning",
+      "slug": "autopass-evidenceguided-llm-agents-for-compiler-performance-tuning-2606.20373",
+      "url": "https://arxiv.org/abs/2606.20373",
+      "discovered": "2026-07-01T00:45:00+00:00",
+      "theme": "inference-efficiency / LLM optimization"
+    },
+    {
+      "arxiv_id": "2606.09080",
+      "title": "Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy",
+      "slug": "beyond-flops-benchmarking-real-inference-acceleration-of-llm-pruning-under-a-gemmcentric-taxonomy-2606.09080",
+      "url": "https://arxiv.org/abs/2606.09080",
+      "discovered": "2026-07-01T00:45:00+00:00",
+      "theme": "inference-efficiency / LLM optimization"
+    },
+    {
+      "arxiv_id": "2606.01556",
+      "title": "TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization",
+      "slug": "twinquant-learnable-subspace-decomposition-for-4bit-llm-quantization-2606.01556",
+      "url": "https://arxiv.org/abs/2606.01556",
+      "discovered": "2026-07-01T00:45:00+00:00",
+      "theme": "inference-efficiency / LLM optimization"
     }
   ],
   "emergent_discoveries": [
@@ -8509,6 +8533,30 @@
       "url": "https://arxiv.org/abs/2603.25187",
       "discovered": "2026-06-29T22:30:05.048825+00:00",
       "theme": "LLM-REPRESENTATION-DIVERGENCE-PROBE"
+    },
+    {
+      "arxiv_id": "2606.20373",
+      "title": "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning",
+      "slug": "autopass-evidenceguided-llm-agents-for-compiler-performance-tuning-2606.20373",
+      "url": "https://arxiv.org/abs/2606.20373",
+      "discovered": "2026-07-01T00:45:00+00:00",
+      "theme": "inference-efficiency / LLM optimization"
+    },
+    {
+      "arxiv_id": "2606.09080",
+      "title": "Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy",
+      "slug": "beyond-flops-benchmarking-real-inference-acceleration-of-llm-pruning-under-a-gemmcentric-taxonomy-2606.09080",
+      "url": "https://arxiv.org/abs/2606.09080",
+      "discovered": "2026-07-01T00:45:00+00:00",
+      "theme": "inference-efficiency / LLM optimization"
+    },
+    {
+      "arxiv_id": "2606.01556",
+      "title": "TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization",
+      "slug": "twinquant-learnable-subspace-decomposition-for-4bit-llm-quantization-2606.01556",
+      "url": "https://arxiv.org/abs/2606.01556",
+      "discovered": "2026-07-01T00:45:00+00:00",
+      "theme": "inference-efficiency / LLM optimization"
     }
   ],
   "emergent_concept_search_log": [
@@ -13395,6 +13443,33 @@
       ],
       "framing": "Rule 95 LLM REPRESENTATION DIVERGENCE PROBE",
       "added": 3
+    },
+    {
+      "run": 142,
+      "timestamp": "2026-07-01T00:45:00+00:00",
+      "theme": "LLM-INFERENCE-EFFICIENCY-PROBE",
+      "picks": [
+        {
+          "arxiv_id": "2606.20373",
+          "title": "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning",
+          "slug": "autopass-evidenceguided-llm-agents-for-compiler-performance-tuning-2606.20373",
+          "vector": "emergent-concept-search"
+        },
+        {
+          "arxiv_id": "2606.09080",
+          "title": "Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy",
+          "slug": "beyond-flops-benchmarking-real-inference-acceleration-of-llm-pruning-under-a-gemmcentric-taxonomy-2606.09080",
+          "vector": "emergent-concept-search"
+        },
+        {
+          "arxiv_id": "2606.01556",
+          "title": "TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization",
+          "slug": "twinquant-learnable-subspace-decomposition-for-4bit-llm-quantization-2606.01556",
+          "vector": "emergent-concept-search"
+        }
+      ],
+      "method": "arxiv HTML search 6-query LLM-INFERENCE-EFFICIENCY-PROBE",
+      "notes": "3-axis probe: compiler-tuning agent / FLOPs-vs-latency gap / learnable quantization subspace"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
@@ -13501,16 +13576,10 @@
     }
   ],
   "last_run_mode": "emergent-concept",
-  "last_run_summary": "Mind-the-Heads (attention head topological alignment) + Truth-as-a-Trajectory (kinematic reasoning validity) + Probing-Stable-Beliefs (belief consistency)",
+  "last_run_summary": "AutoPass (compiler-tuning agent) + Beyond FLOPs (FLOPs-latency gap) + TwinQuant (learnable subspace quantization)",
   "last_watched": "2026-06-29T10:30:00+00:00",
-  "last_run_pitfalls": [
-    "pitfall-83 streak extended to 46 runs",
-    "pitfall-98 JSON formatting preservation",
-    "pitfall-71 ensure_ascii preservation",
-    "pitfall-21/31 pre-write audit verified (0 broken wikilinks)",
-    "pitfall-109 self-reference check passed"
-  ],
-  "last_run_theme": "LLM-REPRESENTATION-DIVERGENCE-PROBE",
+  "last_run_pitfalls": [],
+  "last_run_theme": "LLM-INFERENCE-EFFICIENCY-PROBE",
   "emergent_concept_papers_count": 372,
   "emergent_discoveries_count": 385,
   "last_run_picks_count": 3,
