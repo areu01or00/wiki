@@ -569,6 +569,7 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 56,
       "last_result_hashes": [
+        "dc71aa8ed863cfa03b2457916764c698",
         "0ca252737c9c34433c4b5f4b01a50a0e",
         "8d60836579b93fab4fa09dea374a913f",
         "d5ff138824bcd28e7d75e14ac4564d96",
@@ -587,11 +588,10 @@
         "26f1ec6b5645b478651c3dbcd4dbd041",
         "8fe2170c6b5c10f9cfaa720a5bbdcf89",
         "681936ed24794ce4081ed957ef016636",
-        "93c4c40462336b8c14e392fe79573c43",
-        "ceb9af9460c4f6bc1b3b7b9f4791b93d"
+        "93c4c40462336b8c14e392fe79573c43"
       ],
-      "last_run": "2026-06-29T21:31:59Z",
-      "run_count": 51,
+      "last_run": "2026-06-29T22:22:00",
+      "run_count": 52,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_update_hash": null
     },
@@ -662,8 +662,10 @@
     "yuvion-llm": {
       "query": "Yuvion new model release LLM adversarial safety",
       "category": "auto-discovered",
-      "run_count": 6,
+      "run_count": 8,
       "last_result_hashes": [
+        "d596e60d625b358f8065f5c4f42c38f7",
+        "4cb671e739163f74b2cf90be316c5830",
         "0ca252737c9c34433c4b5f4b01a50a0e",
         "8d60836579b93fab4fa09dea374a913f",
         "d5ff138824bcd28e7d75e14ac4564d96",
@@ -681,12 +683,10 @@
         "7d316d9aa330def5c2d13af95916014c",
         "26f1ec6b5645b478651c3dbcd4dbd041",
         "8fe2170c6b5c10f9cfaa720a5bbdcf89",
-        "681936ed24794ce4081ed957ef016636",
-        "93c4c40462336b8c14e392fe79573c43",
-        "ceb9af9460c4f6bc1b3b7b9f4791b93d"
+        "681936ed24794ce4081ed957ef016636"
       ],
       "discovered_at_cycle": "cycle 99",
-      "last_run": "2026-06-29T21:31:59Z",
+      "last_run": "2026-06-29T22:22:00",
       "last_checked": "2026-06-29T21:31:59.920036+00:00"
     }
   }

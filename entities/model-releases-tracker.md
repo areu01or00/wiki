@@ -17,6 +17,10 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-29** | [Ornith-1.0 Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/) | kw: Ornith-1 | source: deepreinforce-ai | 🔓 OPEN SOURCE
+- **2026-06-29** | [Yuvion LLM An Adversarially-Aware Large Language Model](https://arxiv.org/abs/2606.27632) | kw: Yuvion | source: yuvion-llm | 📄 BENCHMARK/PAPER
+- **2026-06-29** | [Yuvion LLM An Adversarially-Aware Large Language Model for Robust Content Safety](https://arxiv.org/html/2606.27632v1) | kw: Yuvion | source: yuvion-llm | 📄 BENCHMARK/PAPER
+
 
 - **2026-06-29** | [Best Open Source LLMs (2026) — Ranked by Benchmark Data](https://benchlm.ai/best/open-source) | kw: GLM-5.2 benchmarks leaderboard June 2026 | source: llm-stats-updates | 🚨 WEIGHTS DROP
 
