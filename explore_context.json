@@ -4,12 +4,12 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-06-29T23:30:00+00:00",
-  "last_run": "Run 138 \u2014 MULTIAGENT-REASONING-CONSISTENCY-PROBE (recovery from incomplete run, committed 3 entity files)",
-  "last_explore": "2026-06-29T23:30:00+00:00",
+  "last_run": "Run 139 \u2014 LLM-INFERENCE-ADAPTIVE-PROBE (3 papers)",
+  "last_explore": "2026-07-01T00:30:00+00:00",
   "last_global_explore": "2026-06-29T20:15:36.919500+00:00",
-  "last_discovery": "2026-06-29T20:15:36.919500+00:00",
-  "last_run_framing": "Run 138 \u2014 MULTIAGENT-REASONING-CONSISTENCY-PROBE (recovery from incomplete run)",
-  "last_framing": "ADVERSARIAL-AGENTIC-FAILURE-PROBE (Rule 92): ShareLock + Memory-Poisoning-Taxonomy + Adaptive-PI-Defense",
+  "last_discovery": "2026-07-01T00:30:00+00:00",
+  "last_run_framing": "Run 139 \u2014 LLM-INFERENCE-ADAPTIVE-PROBE",
+  "last_framing": "LLM-INFERENCE-ADAPTIVE-PROBE: Context Recycling + ConcoLixir + EGG",
   "last_run_notes": "Run 136: Rule 92 ADVERSARIAL-AGENTIC-FAILURE-PROBE: ShareLock + Memory-Poisoning-Taxonomy + Adaptive-PI-Defense",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 424,
+  "entities_count": 427,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5107,6 +5107,39 @@
       "url": "https://arxiv.org/abs/2606.17312",
       "discovered": "2026-06-30T21:05:00+00:00",
       "theme": "MULTIAGENT-REASONING-CONSISTENCY-PROBE"
+    },
+    {
+      "arxiv_id": "2606.26105",
+      "title": "Context Recycling for Long-Horizon LLM Inference",
+      "slug": "context-recycling-for-long-horizon-llm-inference-2606.26105",
+      "url": "https://arxiv.org/abs/2606.26105",
+      "date": "2026/06/05",
+      "theme": "llm-inference / active-context-recycling / long-horizon-conversational",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.26545",
+      "title": "ConcoLixir: Reactive LLM Discovery Oracles for Python Concolic Testing",
+      "slug": "concolixir-reactive-llm-discovery-oracles-for-python-concolic-testing-2606.26545",
+      "url": "https://arxiv.org/abs/2606.26545",
+      "date": "2026/06/25",
+      "theme": "llm-agent / concolic-testing / reactive-oracle",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.26758",
+      "title": "EGG: An Expert-Guided Agent Framework for Kernel Generation",
+      "slug": "egg-expert-guided-agent-framework-kernel-generation-2606.26758",
+      "url": "https://arxiv.org/abs/2606.26758",
+      "date": "2026/06/25",
+      "theme": "llm-agent / kernel-generation / hardware-software-co-design",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -8389,6 +8422,30 @@
       "url": "https://arxiv.org/abs/2606.17312",
       "discovered": "2026-06-30T21:05:00+00:00",
       "theme": "MULTIAGENT-REASONING-CONSISTENCY-PROBE"
+    },
+    {
+      "arxiv_id": "2606.26105",
+      "title": "Context Recycling for Long-Horizon LLM Inference",
+      "slug": "context-recycling-for-long-horizon-llm-inference-2606.26105",
+      "url": "https://arxiv.org/abs/2606.26105",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "theme": "llm-inference / active-context-recycling / long-horizon-conversational"
+    },
+    {
+      "arxiv_id": "2606.26545",
+      "title": "ConcoLixir: Reactive LLM Discovery Oracles for Python Concolic Testing",
+      "slug": "concolixir-reactive-llm-discovery-oracles-for-python-concolic-testing-2606.26545",
+      "url": "https://arxiv.org/abs/2606.26545",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "theme": "llm-agent / concolic-testing / reactive-oracle"
+    },
+    {
+      "arxiv_id": "2606.26758",
+      "title": "EGG: An Expert-Guided Agent Framework for Kernel Generation",
+      "slug": "egg-expert-guided-agent-framework-kernel-generation-2606.26758",
+      "url": "https://arxiv.org/abs/2606.26758",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "theme": "llm-agent / kernel-generation / hardware-software-co-design"
     }
   ],
   "emergent_concept_search_log": [
@@ -13224,6 +13281,18 @@
         "2606.17312"
       ],
       "notes": "Recovery: committed 3 entity files from incomplete run 138 (21:05 UTC). No re-discovery performed."
+    },
+    {
+      "run": 139,
+      "theme": "LLM-INFERENCE-ADAPTIVE-PROBE",
+      "papers": [
+        "2606.26105",
+        "2606.26545",
+        "2606.26758"
+      ],
+      "date": "2026-07-01T00:30:00+00:00",
+      "framing": "LLM-INFERENCE-ADAPTIVE-PROBE",
+      "method": "arxiv HTML search"
     }
   ],
   "last_updated": "2026-06-29T19:06:28.349779+00:00",
