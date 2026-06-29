@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T03:30:00.000000+00:00",
-  "__last_updated": "2026-06-29T04:25:00+00:00",
-  "last_run": "2026-06-29T04:25:00+00:00",
-  "last_explore": "2026-06-29T04:25:00+00:00",
-  "last_global_explore": "2026-06-26T10:09:00+00:00",
-  "last_discovery": "2026-06-29T04:25:00+00:00",
-  "last_run_framing": "Rule 49 UNCERTAINTY-QUANTIFICATION-PROBE \u2014 three-component-semantic-uncertainty-decomposition + kinematic-feature-density-ridge-selective-prediction + intra-layer-cross-layer-agreement-UQ (uncertainty-quantification primitive-class triplet orthogonal to Run 81 representation-engineering axes)",
+  "updated": "2026-06-29T05:30:00+00:00",
+  "__last_updated": "2026-06-29T05:30:00+00:00",
+  "last_run": "2026-06-29T05:30:00+00:00",
+  "last_explore": "2026-06-29T05:30:00+00:00",
+  "last_global_explore": "2026-06-29T05:30:00+00:00",
+  "last_discovery": "2026-06-29T05:30:00+00:00",
+  "last_run_framing": "Run 83 CAUSAL-INFERENCE-PROBE per Rule 50 - SCM-on-CoT-units + universal causal reasoner + meta-causal-framework for LLM development",
   "last_framing": "Run 71 negative-result-probe per Rule 38 \u2014 pivoted from Run 70 axis-orthogonality training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff)",
-  "last_run_notes": "Run 82 \u2014 3 fresh LLM-centric papers via web_search 4-query UNCERTAINTY-QUANTIFICATION-PROBE escape hatch per Rule 49 (after Run 48 representation-engineering-probe). HF pool CV/3D-heavy for 28th consecutive run (pitfall-83 streak extended to Runs 55-82, longest in wiki history by 15 runs). HF daily v2 data-props returned 0 on /papers/date/2026-06-29 and /papers/date/2026-06-28, v3 href-regex returned 0 matches on both pages. web_search surfaced 15 fresh LLM candidates via the uncertainty-quantification-probe query template bracketing 4 UQ axes: (a) calibration + selective prediction via conformal/decision-theoretic scoring + (b) intra-layer cross layer information-score UQ + (c) semantic-entropy epistemic-aleatoric decomposition + (d) evidential deep learning + conformal-RAG. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 81 superposition-aware-random-projection-steering + cross-layer-consistency-evolutionary-steering-refinement + white-box-black-box-surjectivity-separation-theorem axes to three-component-semantic-uncertainty-decomposition + kinematic-feature-density-ridge-selective-prediction + intra-layer-cross-layer-agreement-UQ axes. 3-axis DOMAIN-DIVERSITY UNCERTAINTY-QUANTIFICATION-PROBE PIVOT per Rule 49 to three-component-semantic-decomposition-of-input-ambiguity-knowledge-gaps-decoding-randomness + density-ridge-recovery-of-LLM-response-manifold-via-kinematic-features + intra-layer-cross-layer-agreement-scoring-for-single-forward-pass-UQ.",
+  "last_run_notes": "29th consecutive pitfall-83; HF daily v2 returned 0 data-props, v3 href-regex 34 papers with 17 LLM-keyword-matched but most non-LLM; web_search CAUSAL-INFERENCE-PROBE surfaced 14 fresh LLM candidates",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "emergent_concept_search_via_web_search_4query_cross_discipline_probe_rule41",
+  "last_run_method": "web_search_4query_causal_inference_probe_rule50",
   "run_method": "emergent-concept",
   "last_run_added": 3,
   "exploration_type": "emergent-concept",
   "emergent_concept_theme": "uncertainty-quantification-probe-rule49",
   "emergent_theme": "uncertainty-quantification-probe-rule49",
   "chains_updated": 0,
-  "entities_count": 252,
+  "entities_count": 255,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3631,6 +3631,30 @@
       "url": "https://arxiv.org/abs/2603.22299",
       "discovered": "2026-06-29T04:25:00+00:00",
       "theme": "uncertainty-quantification / intra-layer-cross-layer-agreement-UQ / single-forward-pass / probing-transfer-robustness / representation-grounded-UQ / cross-layer-information-score"
+    },
+    {
+      "arxiv_id": "2606.21821",
+      "title": "Local Causal Attribution of Chain-of-Thought Reasoning",
+      "slug": "local-causal-attribution-of-chain-of-thought-reasoning-2606.21821",
+      "url": "https://arxiv.org/abs/2606.21821",
+      "discovered": "2026-06-29T05:30:00+00:00",
+      "theme": "causal-inference / SCM-on-CoT-units / local-causal-attribution / black-box-trace-attribution / O(U)-forward-passes"
+    },
+    {
+      "arxiv_id": "2605.25998",
+      "title": "Causal Methods for LLM Development and Evaluation",
+      "slug": "causal-methods-for-llm-development-and-evaluation-2605.25998",
+      "url": "https://arxiv.org/abs/2605.25998",
+      "discovered": "2026-06-29T05:30:00+00:00",
+      "theme": "causal-inference / meta-causal-framework-for-LLM-development / intervention-identification-under-confounding / pipeline-design-causal-mapping"
+    },
+    {
+      "arxiv_id": "2605.24873",
+      "title": "Towards a Universal Causal Reasoner",
+      "slug": "towards-a-universal-causal-reasoner-unico-2605.24873",
+      "url": "https://arxiv.org/abs/2605.24873",
+      "discovered": "2026-06-29T05:30:00+00:00",
+      "theme": "causal-inference / universal-causal-reasoner-data-generation / Pearl-Causal-Ladder-coverage / causal-SFT-faithfulness-transfer"
     }
   ],
   "emergent_discoveries": [
@@ -5578,6 +5602,30 @@
       "url": "https://arxiv.org/abs/2603.22299",
       "discovered": "2026-06-29T04:25:00+00:00",
       "theme": "uncertainty-quantification / intra-layer-cross-layer-agreement-UQ / single-forward-pass / probing-transfer-robustness / representation-grounded-UQ / cross-layer-information-score"
+    },
+    {
+      "arxiv_id": "2606.21821",
+      "title": "Local Causal Attribution of Chain-of-Thought Reasoning",
+      "slug": "local-causal-attribution-of-chain-of-thought-reasoning-2606.21821",
+      "url": "https://arxiv.org/abs/2606.21821",
+      "discovered": "2026-06-29T05:30:00+00:00",
+      "theme": "causal-inference / SCM-on-CoT-units / local-causal-attribution / black-box-trace-attribution / O(U)-forward-passes"
+    },
+    {
+      "arxiv_id": "2605.25998",
+      "title": "Causal Methods for LLM Development and Evaluation",
+      "slug": "causal-methods-for-llm-development-and-evaluation-2605.25998",
+      "url": "https://arxiv.org/abs/2605.25998",
+      "discovered": "2026-06-29T05:30:00+00:00",
+      "theme": "causal-inference / meta-causal-framework-for-LLM-development / intervention-identification-under-confounding / pipeline-design-causal-mapping"
+    },
+    {
+      "arxiv_id": "2605.24873",
+      "title": "Towards a Universal Causal Reasoner",
+      "slug": "towards-a-universal-causal-reasoner-unico-2605.24873",
+      "url": "https://arxiv.org/abs/2605.24873",
+      "discovered": "2026-06-29T05:30:00+00:00",
+      "theme": "causal-inference / universal-causal-reasoner-data-generation / Pearl-Causal-Ladder-coverage / causal-SFT-faithfulness-transfer"
     }
   ],
   "emergent_concept_search_log": [
@@ -7756,6 +7804,15 @@
       "picks_selected": 3,
       "rule": "Rule 49 UNCERTAINTY-QUANTIFICATION-PROBE",
       "previous_rule": "Rule 48 REPRESENTATION-ENGINEERING-PROBE"
+    },
+    {
+      "run_number": 83,
+      "timestamp": "2026-06-29T05:30:00+00:00",
+      "method": "web_search_4query_causal_inference_probe_rule50",
+      "theme": "causal-inference",
+      "candidates_surfaced": 14,
+      "candidates_fresh": 14,
+      "picks": 3
     }
   ],
   "runs": [
@@ -8839,12 +8896,23 @@
       "hf_pool_status": "data-props=0, v3-href-regex=0, monthly-already-in-prior-runs (28th consecutive pitfall-83)",
       "fresh_llm_returned": 15,
       "orthogonality_verified": true
+    },
+    {
+      "run_number": 83,
+      "method": "web_search_4query_causal_inference_probe_rule50",
+      "theme": "causal-inference",
+      "notes": "Run 83 - CAUSAL-INFERENCE-PROBE per Rule 50 - local CoT-unit SCM causal attribution + universal causal reasoner data generation + meta-causal-framework for LLM development. Pivot from Run 82 uncertainty-quantification. 29th consecutive pitfall-83.",
+      "timestamp": "2026-06-29T05:30:00+00:00"
     }
   ],
-  "last_updated": "2026-06-29T00:25:00.000000+00:00",
-  "last_run_iso": "2026-06-29T00:25:00.000000+00:00",
-  "total_entity_count": 189,
-  "entity_files_added": 6,
+  "last_updated": "2026-06-29T05:30:00+00:00",
+  "last_run_iso": "2026-06-29T05:30:00+00:00",
+  "total_entity_count": 255,
+  "entity_files_added": [
+    "local-causal-attribution-of-chain-of-thought-reasoning-2606.21821.md",
+    "causal-methods-for-llm-development-and-evaluation-2605.25998.md",
+    "towards-a-universal-causal-reasoner-unico-2605.24873.md"
+  ],
   "pass_type": "emergent-concept",
   "emergent_discoveries_log": [
     {
@@ -8894,15 +8962,12 @@
       ]
     }
   ],
-  "last_run_mode": "emergent-concept-cross-discipline-probe",
-  "last_run_summary": "3 fresh picks: MA-ProofBench mathematical-analysis-theorem-proving (2606.13782), ZenBrain 7-neuroscience-layer-memory-architecture (2604.23878), HeLa-Mem Hebbian-learning-associative-memory (2604.16839)",
-  "last_watched": "2026-06-26T06:54:00+00:00",
+  "last_run_mode": "emergent-concept-search",
+  "last_run_summary": "Rule 50 causal-inference-probe: 14 fresh LLM candidates, 3 picks (AttriCoT 2606.21821 + Causal-Methods 2605.25998 + UniCo 2605.24873)",
+  "last_watched": "2026-06-29T05:30:00+00:00",
   "last_run_pitfalls": [
-    "pitfall-83 (20th consecutive)",
-    "pitfall-84 (older arxiv IDs still fresh)",
-    "pitfall-96 (slug-typo prevention via ls entities/ audit)",
-    "pitfall-98 (state-file JSON formatting preserved with default indent=2)",
-    "pitfall-104 (last_results schema 7 fields)",
-    "pitfall-110 (web_search candidate not entity \u2014 cannot use as Related Papers sibling)"
+    "83",
+    "100",
+    "98"
   ]
 }

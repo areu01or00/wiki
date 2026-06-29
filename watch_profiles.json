@@ -919,7 +919,10 @@
         "2603.12298",
         "2606.10198",
         "2603.24967",
-        "2603.22299"
+        "2603.22299",
+        "2606.21821",
+        "2605.25998",
+        "2605.24873"
       ],
       "last_results": [
         {
@@ -2886,19 +2889,55 @@
           "slug": "between-the-layers-lies-the-truth-uncertainty-estimation-via-intra-layer-local-information-scores-2603.22299",
           "online_date": "2026-03-17",
           "run_number": 82
+        },
+        {
+          "arxiv_id": "2606.21821",
+          "title": "Local Causal Attribution of Chain-of-Thought Reasoning",
+          "hash": "28b03a17b00a2fe30ef89e802e43f239",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "causal-inference / SCM-on-CoT-units / local-causal-attribution / black-box-trace-attribution / O(U)-forward-passes",
+          "discovered": "2026-06-29T05:30:00+00:00",
+          "slug": "local-causal-attribution-of-chain-of-thought-reasoning-2606.21821",
+          "online_date": "2026-06-20",
+          "run_number": 83
+        },
+        {
+          "arxiv_id": "2605.25998",
+          "title": "Causal Methods for LLM Development and Evaluation",
+          "hash": "1bfde96415d8109a25c4b043853ba90c",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "causal-inference / meta-causal-framework-for-LLM-development / intervention-identification-under-confounding / pipeline-design-causal-mapping",
+          "discovered": "2026-06-29T05:30:00+00:00",
+          "slug": "causal-methods-for-llm-development-and-evaluation-2605.25998",
+          "online_date": "2026-05-25",
+          "run_number": 83
+        },
+        {
+          "arxiv_id": "2605.24873",
+          "title": "Towards a Universal Causal Reasoner",
+          "hash": "4e0b64a7124e1d41afda733263de227f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "causal-inference / universal-causal-reasoner-data-generation / Pearl-Causal-Ladder-coverage / causal-SFT-faithfulness-transfer",
+          "discovered": "2026-06-29T05:30:00+00:00",
+          "slug": "towards-a-universal-causal-reasoner-unico-2605.24873",
+          "online_date": "2026-05-24",
+          "run_number": 83
         }
       ],
-      "last_run": "2026-06-29T03:25:00+00:00",
-      "last_updated": "2026-06-29T03:25:00+00:00",
-      "last_result_timestamp": "2026-06-26T08:30:00+00:00",
+      "last_run": "2026-06-29T05:30:00+00:00",
+      "last_updated": "2026-06-29T05:30:00+00:00",
+      "last_result_timestamp": "2026-06-29T05:30:00+00:00",
       "last_run_key": "run-63-2026-06-26T08:30:00+00:00",
-      "last_pass_type": "emergent_concept_search",
-      "last_discovery": "2026-06-29T03:25:00+00:00",
-      "updated_at": "2026-06-29T03:25:00+00:00",
-      "last_run_framing": "Rule 41 CROSS-DISCIPLINE-PROBE \u2014 formal-verification + neuroscience + hebbian-learning (orthogonal to Run 68-73)"
+      "last_pass_type": "emergent-concept-search",
+      "last_discovery": "2026-06-29T05:30:00+00:00",
+      "updated_at": "2026-06-29T05:30:00+00:00",
+      "last_run_framing": "Run 83 CAUSAL-INFERENCE-PROBE per Rule 50"
     }
   },
-  "last_run": "2026-06-29T04:25:00+00:00",
+  "last_run": "2026-06-29T05:30:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3139,12 +3178,15 @@
     "2603.12298",
     "2606.10198",
     "2603.24967",
-    "2603.22299"
+    "2603.22299",
+    "2606.21821",
+    "2605.25998",
+    "2605.24873"
   ],
-  "last_discovery": "2026-06-29T03:25:00+00:00",
+  "last_discovery": "2026-06-29T05:30:00+00:00",
   "last_updated": "2026-06-29T04:25:00+00:00",
-  "__last_updated": "2026-06-29T03:30:00.000000+00:00",
-  "last_explore": "2026-06-29T00:25:00.000000+00:00",
+  "__last_updated": "2026-06-29T05:30:00+00:00",
+  "last_explore": "2026-06-29T05:30:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -3386,10 +3428,13 @@
       "2603.12298",
       "2606.10198",
       "2603.24967",
-      "2603.22299"
+      "2603.22299",
+      "2606.21821",
+      "2605.25998",
+      "2605.24873"
     ],
-    "last_discovery": "2026-06-29T03:25:00+00:00",
-    "last_run": "2026-06-29T03:25:00+00:00",
+    "last_discovery": "2026-06-29T05:30:00+00:00",
+    "last_run": "2026-06-29T05:30:00+00:00",
     "last_updated": "2026-06-29T00:25:00.000000+00:00",
     "last_results": [
       {
@@ -3457,9 +3502,9 @@
       }
     ],
     "last_pass_type": "emergent_concept",
-    "updated_at": "2026-06-29T03:25:00+00:00"
+    "updated_at": "2026-06-29T05:30:00+00:00"
   },
-  "last_pass_type": "emergent-concept",
+  "last_pass_type": "emergent-concept-search",
   "last_results": [
     {
       "arxiv_id": "2605.21768",
@@ -3601,8 +3646,44 @@
       "chain": "emergent-concepts",
       "theme": "RAG-faithfulness / counterfactual-entity-substitution / training-data / parametric-memory-conflict / retrieval-augmented-generation / typed-entity-bank / dual-role-dataset",
       "discovered": "2026-06-26T09:32:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.21821",
+      "title": "Local Causal Attribution of Chain-of-Thought Reasoning",
+      "hash": "28b03a17b00a2fe30ef89e802e43f239",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "causal-inference / SCM-on-CoT-units / local-causal-attribution / black-box-trace-attribution / O(U)-forward-passes",
+      "discovered": "2026-06-29T05:30:00+00:00",
+      "slug": "local-causal-attribution-of-chain-of-thought-reasoning-2606.21821",
+      "online_date": "2026-06-20",
+      "run_number": 83
+    },
+    {
+      "arxiv_id": "2605.25998",
+      "title": "Causal Methods for LLM Development and Evaluation",
+      "hash": "1bfde96415d8109a25c4b043853ba90c",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "causal-inference / meta-causal-framework-for-LLM-development / intervention-identification-under-confounding / pipeline-design-causal-mapping",
+      "discovered": "2026-06-29T05:30:00+00:00",
+      "slug": "causal-methods-for-llm-development-and-evaluation-2605.25998",
+      "online_date": "2026-05-25",
+      "run_number": 83
+    },
+    {
+      "arxiv_id": "2605.24873",
+      "title": "Towards a Universal Causal Reasoner",
+      "hash": "4e0b64a7124e1d41afda733263de227f",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "causal-inference / universal-causal-reasoner-data-generation / Pearl-Causal-Ladder-coverage / causal-SFT-faithfulness-transfer",
+      "discovered": "2026-06-29T05:30:00+00:00",
+      "slug": "towards-a-universal-causal-reasoner-unico-2605.24873",
+      "online_date": "2026-05-24",
+      "run_number": 83
     }
   ],
-  "last_run_framing": "Rule 48 REPRESENTATION-ENGINEERING-PROBE \u2014 superposition-aware-random-projection-steering + cross-layer-consistency-evolutionary-steering-refinement + white-box-black-box-surjectivity-separation-theorem (representation-engineering primitive-class triplet orthogonal to Run 80 neuro-symbolic-grounding axes)",
-  "updated": "2026-06-29T03:30:00.000000+00:00"
+  "last_run_framing": "Run 83 CAUSAL-INFERENCE-PROBE per Rule 50",
+  "updated": "2026-06-29T05:30:00+00:00"
 }
