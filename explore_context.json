@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T18:05:46.380905+00:00",
   "__last_updated": "2026-06-29T19:00:00+00:00",
-  "last_run": 126,
-  "last_explore": "2026-06-29T19:00:00+00:00",
+  "last_run": 128,
+  "last_explore": "2026-06-29T20:30:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
-  "last_discovery": "2026-06-29T18:05:46.380905+00:00",
-  "last_run_framing": "CAUSAL-REPRESENTATION-PROBE: BELIEF-OR-CIRCUITRY + CAUSAL-VALIDITY-CRITERION + EMERGENT-CAUSAL-GEOMETRIC",
+  "last_discovery": "2026-06-29T20:30:00+00:00",
+  "last_run_framing": "EMERGENT-ADVERSARIAL-DEFENSE-PROBE: COMPUTE-AWARE-EVAL + SEMANTIC-GRAPH-DEFENSE + NON-MONOTONIC-ALIGNMENT",
   "last_framing": "MULTIAGENT-MEMORY-INTERFERENCE: MEMORY-LAUNDERING + CROSS-SESSION-STORED-INJECTION + SLEEPER-MEMORY-POISONING",
   "last_run_notes": "Run 124: 3-axis MULTIAGENT-MEMORY-INTERFERENCE: State Contamination memory-laundering + Cross-Session Stored Prompt Injection + Sleeper Memory Poisoning",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search 4-query TEST-TIME-COMPUTE + PROCESS-REWARD + PRM-SUPERVISION probe",
+  "last_run_method": "web_search 4-query EMERGENT-ADVERSARIAL-DEFENSE-PROBE",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 390,
+  "entities_count": 393,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1717,6 +1717,33 @@
           "discovered": "2026-06-29T18:05:46.380901+00:00",
           "theme": "causal-representation / causal-geometry / causal-interpretability",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.11409",
+          "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
+          "slug": "risk-under-pressure-compute-aware-evaluation-adversarial-robustness-2606.11409",
+          "url": "https://arxiv.org/abs/2606.11409",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T20:30:00+00:00",
+          "theme": "adversarial-defense / evaluation-metric"
+        },
+        {
+          "arxiv_id": "2605.27823",
+          "title": "Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security",
+          "slug": "disentangling-adversarial-prompts-semantic-graph-defense-2605.27823",
+          "url": "https://arxiv.org/abs/2605.27823",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T20:30:00+00:00",
+          "theme": "adversarial-defense / prompt-disentanglement"
+        },
+        {
+          "arxiv_id": "2606.00813",
+          "title": "Cross-Generational Transfer of Adversarial Attacks Reveals Non-Monotonic Safety Alignment in LLMs",
+          "slug": "cross-generational-transfer-adversarial-attacks-reveals-non-monotonic-safety-2606.00813",
+          "url": "https://arxiv.org/abs/2606.00813",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T20:30:00+00:00",
+          "theme": "adversarial-defense / alignment-regression"
         }
       ],
       "last_run": "2026-06-29T10:30:00+00:00",
@@ -4792,6 +4819,33 @@
       "theme": "causal-representation / causal-geometry / causal-interpretability",
       "date": "2026/05/26",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.11409",
+      "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
+      "slug": "risk-under-pressure-compute-aware-evaluation-adversarial-robustness-2606.11409",
+      "url": "https://arxiv.org/abs/2606.11409",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T20:30:00+00:00",
+      "theme": "adversarial-defense / evaluation-metric"
+    },
+    {
+      "arxiv_id": "2605.27823",
+      "title": "Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security",
+      "slug": "disentangling-adversarial-prompts-semantic-graph-defense-2605.27823",
+      "url": "https://arxiv.org/abs/2605.27823",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T20:30:00+00:00",
+      "theme": "adversarial-defense / prompt-disentanglement"
+    },
+    {
+      "arxiv_id": "2606.00813",
+      "title": "Cross-Generational Transfer of Adversarial Attacks Reveals Non-Monotonic Safety Alignment in LLMs",
+      "slug": "cross-generational-transfer-adversarial-attacks-reveals-non-monotonic-safety-2606.00813",
+      "url": "https://arxiv.org/abs/2606.00813",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T20:30:00+00:00",
+      "theme": "adversarial-defense / alignment-regression"
     }
   ],
   "emergent_discoveries": [
@@ -7834,6 +7888,30 @@
       "url": "https://arxiv.org/abs/2512.21404",
       "discovered": "2026-06-29T17:00:00+00:00",
       "theme": "ADVERSARIAL-REPRESENTATION-PROBE"
+    },
+    {
+      "arxiv_id": "2606.11409",
+      "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
+      "slug": "risk-under-pressure-compute-aware-evaluation-adversarial-robustness-2606.11409",
+      "url": "https://arxiv.org/abs/2606.11409",
+      "discovered": "2026-06-29T20:30:00+00:00",
+      "theme": "adversarial-defense / evaluation-metric"
+    },
+    {
+      "arxiv_id": "2605.27823",
+      "title": "Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security",
+      "slug": "disentangling-adversarial-prompts-semantic-graph-defense-2605.27823",
+      "url": "https://arxiv.org/abs/2605.27823",
+      "discovered": "2026-06-29T20:30:00+00:00",
+      "theme": "adversarial-defense / prompt-disentanglement"
+    },
+    {
+      "arxiv_id": "2606.00813",
+      "title": "Cross-Generational Transfer of Adversarial Attacks Reveals Non-Monotonic Safety Alignment in LLMs",
+      "slug": "cross-generational-transfer-adversarial-attacks-reveals-non-monotonic-safety-2606.00813",
+      "url": "https://arxiv.org/abs/2606.00813",
+      "discovered": "2026-06-29T20:30:00+00:00",
+      "theme": "adversarial-defense / alignment-regression"
     }
   ],
   "emergent_concept_search_log": [
@@ -9189,6 +9267,19 @@
         "2602.16698",
         "2602.04931"
       ]
+    },
+    {
+      "run": 128,
+      "query_type": "web_search",
+      "queries": [
+        "adversarial defense LLM 2026",
+        "LLM adversarial training robust optimization 2026",
+        "adversarial training LLM scale defense robustness evaluation 2026",
+        "LLM adversarial robustness interpretability detection defense 2026"
+      ],
+      "candidates_found": 9,
+      "fresh": 9,
+      "timestamp": "2026-06-29T20:30:00+00:00"
     }
   ],
   "emergent_concept_search_runs": [
@@ -10480,6 +10571,12 @@
       "run": 126,
       "timestamp": "2026-06-29T18:05:46.380905+00:00",
       "theme": "CAUSAL-REPRESENTATION-PROBE"
+    },
+    {
+      "run": 128,
+      "theme": "EMERGENT-ADVERSARIAL-DEFENSE-PROBE",
+      "papers_added": 3,
+      "timestamp": "2026-06-29T20:30:00+00:00"
     }
   ],
   "runs": [
@@ -12402,6 +12499,18 @@
         "backdoor-detection",
         "feature-level-adversarial-attack"
       ]
+    },
+    {
+      "run": 128,
+      "theme": "EMERGENT-ADVERSARIAL-DEFENSE-PROBE",
+      "method": "web_search 4-query",
+      "papers_added": 3,
+      "picks": [
+        "2606.11409",
+        "2605.27823",
+        "2606.00813"
+      ],
+      "timestamp": "2026-06-29T20:30:00+00:00"
     }
   ],
   "last_updated": "2026-06-29T19:00:00+00:00",

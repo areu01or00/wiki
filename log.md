@@ -1979,3 +1979,4 @@ Commit: `43762e4` → push succeeded.
 - pitfall-83 streak at 54 consecutive runs (longest in wiki history by 42)
 
 - Run 110 (2026-06-29): BEHAVIORAL-ECONOMICS-PROBE — A Utility-Behavior Gap (2606.22974) + When More Thinking Hurts (2604.10739) + Persona-Conditioned Risk Behavior (2603.15831); HF daily v2 18 papers, 6 LLM-keyword-matched, 3 fresh; 3+2+1 behavioral-economics axis triplet; entities_count=333 reconciled; pitfall-83 streak at 55.
+- Run 128 (2026-06-29): EMERGENT-ADVERSARIAL-DEFENSE-PROBE — Risk Under Pressure (2606.11409) + Disentangling Adversarial Prompts (2605.27823) + Cross-Generational Transfer (2606.00813); web_search 4-query EMERGENT-ADVERSARIAL-DEFENSE-PROBE; 9 fresh from 4 queries; 3+1+0 axis triplet (evaluation-metric + prompt-disentanglement + alignment-regression); entities_count=393 reconciled; wikilinks verified; commit dcb1193.
