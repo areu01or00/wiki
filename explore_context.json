@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T03:30:00.000000+00:00",
-  "__last_updated": "2026-06-29T03:30:00.000000+00:00",
-  "last_run": "2026-06-29T03:30:00.000000+00:00",
+  "__last_updated": "2026-06-29T03:55:00+00:00",
+  "last_run": "2026-06-29T03:55:00+00:00",
   "last_explore": "2026-06-26T10:09:00+00:00",
   "last_global_explore": "2026-06-26T10:09:00+00:00",
-  "last_discovery": "2026-06-29T03:30:00.000000+00:00",
-  "last_run_framing": "Rule 44 EMERGING-PRETRAINING-OBJECTIVE-PROBE \u2014 representation-space-continuous-supervision + auxiliary-head-future-summary + concept-level-replacement-of-token-supervision (post-NTP pretraining-objective primitives orthogonal to Run 76 failure-mode-catalog axes)",
+  "last_discovery": "2026-06-29T03:55:00+00:00",
+  "last_run_framing": "Rule 46 REWARD-MODEL-GEOMETRY-PROBE \u2014 pac-bayesian-prm-bounds + ordinal-decomposition-stochastic-rater-isolation + lattice-representation-hypothesis-symbol-grounding (reward-model-geometry primitive-class triplet orthogonal to Run 78 multi-agent-consensus axes)",
   "last_framing": "Run 71 negative-result-probe per Rule 38 \u2014 pivoted from Run 70 axis-orthogonality training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff)",
-  "last_run_notes": "Run 77 \u2014 3 fresh LLM-centric papers via web_search 4-query EMERGING-PRETRAINING-OBJECTIVE-PROBE escape hatch per Rule 44 (after Run 76 failure-mode-catalog per Rule 43). HF pool CV/3D-heavy for 23rd consecutive run (pitfall-83 streak extended to Runs 55-77). HF daily v2 returned 18+ papers on 2026-06-26/27/28/29 with 100% CV/3D-heavy composition and 0 LLM-keyword-matched. web_search surfaced fresh LLM candidates via the emerging-pretraining-objective-probe query template bracketing post-NTP axes: (a) in-representation dense continuous supervision as NTP augmentation + (b) auxiliary-head long-term future summary as NTP augmentation + (c) higher-level concept replacement of token-level supervision + (d) multi-token prediction extensions. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 76 architecture-of-errors-L1-L4 + audio-LM-hallucination-benchmark + alignment-tax-orthogonal-gradient-projection to representation-space-continuous-supervision + auxiliary-head-future-summary + concept-level-replacement. 3-axis DOMAIN-DIVERSITY EMERGING-PRETRAINING-OBJECTIVE-PROBE PIVOT per Rule 44 to NITP-implicit-token-self-distillation + future-summary-prediction-auxiliary-head + concept-level-semantic-replacement.",
+  "last_run_notes": "Run 79 \u2014 3 fresh LLM-centric papers via web_search 4-query REWARD-MODEL-GEOMETRY-PROBE escape hatch per Rule 46 (after Run 45 multi-agent-consensus-probe). HF pool CV/3D-heavy for 25th consecutive run (pitfall-83 streak extended to Runs 55-79, longest in wiki history by 12 runs). HF daily v2 data-props returned 0 on /papers/date/2026-06-29 and /papers/date/2026-06-28, v3 href-regex returned 0 matches on both pages. web_search surfaced 16 fresh LLM candidates via the reward-model-geometry-probe query template bracketing 4 reward-model-geometry axes: (a) PAC-Bayesian generalization bounds for PRMs trained with formal verification + (b) ordinal decomposition of discrete stochastic auto-rater rewards for robust policy optimization + (c) lattice representation hypothesis unifying linear-representation-hypothesis + formal-concept-analysis + (d) reward shaping with vision-language-models. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 78 multi-agent-consensus-protocol-via-Wald-SPRT + effective-team-size-scaling-law-via-Ringelmann-effect + coordination-as-first-class-architectural-layer axes to pac-bayesian-generalization-bounds-for-verification-trained-PRMs + ordinal-decomposition-of-stochastic-auto-rater-rewards + lattice-representation-hypothesis-unifying-linear-rep-and-FCA axes. 3-axis DOMAIN-DIVERSITY REWARD-MODEL-GEOMETRY-PROBE PIVOT per Rule 46 to pac-bayesian-formal-verification-trained-PRM-sample-complexity-bounds + ordinal-decomposition-stochasticity-isolation-primitive + concept-lattice-via-half-space-intersections-as-symbol-grounding-primitive.",
   "last_pass_type": "emergent-concept",
   "last_run_method": "emergent_concept_search_via_web_search_4query_cross_discipline_probe_rule41",
   "run_method": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
   "emergent_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
   "chains_updated": 0,
-  "entities_count": 240,
+  "entities_count": 243,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3526,7 +3526,37 @@
     },
     "2606.02646",
     "2605.19193",
-    "2605.03310"
+    "2605.03310",
+    {
+      "arxiv_id": "2606.20740",
+      "slug": "veribound-pac-bayesian-generalization-bounds-for-process-reward-models-trained-with-formal-verification-tools-2606.20740",
+      "title": "VeriBound: PAC-Bayesian Generalization Bounds for Process Reward Models Trained with Formal Verification Tools",
+      "url": "https://arxiv.org/abs/2606.20740",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "reward-model-geometry / pac-bayesian-prm-bounds / verification-trained-prm",
+      "online_date": "2026-06-20"
+    },
+    {
+      "arxiv_id": "2605.12667",
+      "slug": "odrpo-ordinal-decompositions-of-discrete-rewards-for-robust-policy-optimization-2605.12667",
+      "title": "ODRPO: Ordinal Decompositions of Discrete Rewards for Robust Policy Optimization",
+      "url": "https://arxiv.org/abs/2605.12667",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "reward-model-geometry / ordinal-decomposition / stochastic-rater-noise-isolation",
+      "online_date": "2026-05-13"
+    },
+    {
+      "arxiv_id": "2603.01227",
+      "slug": "the-lattice-representation-hypothesis-of-large-language-models-2603.01227",
+      "title": "The Lattice Representation Hypothesis of Large Language Models",
+      "url": "https://arxiv.org/abs/2603.01227",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "reward-model-geometry / lattice-representation-hypothesis / linear-rep-fca-unification",
+      "online_date": "2026-03-02"
+    }
   ],
   "emergent_discoveries": [
     {
@@ -5377,6 +5407,30 @@
       "url": "https://arxiv.org/abs/2605.03310",
       "discovered": "2026-06-29T01:39:20+00:00",
       "theme": "multi-agent-consensus-probe-rule45-coordination-architectural-layer"
+    },
+    {
+      "arxiv_id": "2606.20740",
+      "title": "VeriBound: PAC-Bayesian Generalization Bounds for Process Reward Models Trained with Formal Verification Tools",
+      "slug": "veribound-pac-bayesian-generalization-bounds-for-process-reward-models-trained-with-formal-verification-tools-2606.20740",
+      "url": "https://arxiv.org/abs/2606.20740",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "reward-model-geometry / pac-bayesian-prm-bounds / verification-trained-prm"
+    },
+    {
+      "arxiv_id": "2605.12667",
+      "title": "ODRPO: Ordinal Decompositions of Discrete Rewards for Robust Policy Optimization",
+      "slug": "odrpo-ordinal-decompositions-of-discrete-rewards-for-robust-policy-optimization-2605.12667",
+      "url": "https://arxiv.org/abs/2605.12667",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "reward-model-geometry / ordinal-decomposition / stochastic-rater-noise-isolation"
+    },
+    {
+      "arxiv_id": "2603.01227",
+      "title": "The Lattice Representation Hypothesis of Large Language Models",
+      "slug": "the-lattice-representation-hypothesis-of-large-language-models-2603.01227",
+      "url": "https://arxiv.org/abs/2603.01227",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "reward-model-geometry / lattice-representation-hypothesis / linear-rep-fca-unification"
     }
   ],
   "emergent_concept_search_log": [
@@ -8519,6 +8573,23 @@
       "web_search_template": "multi-agent-consensus-probe: debate-protocol + scaling-law + coordination-architecture + sycophancy-mitigation",
       "fresh_llm_returned": 5,
       "note": "Rule 45 multi-agent-consensus-probe WORKED, fresh-LLM return at typical base rate with full orthogonality to Run 77 emerging-pretraining-objective picks"
+    },
+    {
+      "run_number": 79,
+      "timestamp": "2026-06-29T03:55:00+00:00",
+      "mode": "emergent-concept-search-web_search-reward-model-geometry-probe-rule46",
+      "theme": "reward-model-geometry-probe-rule46",
+      "picks": [
+        "2606.20740",
+        "2605.12667",
+        "2603.01227"
+      ],
+      "pitfall-83-streak": 25,
+      "forward-discipline-rule": "46",
+      "hf_pool_status": "CV/3D-heavy 25th consecutive run, 0 fresh LLM-keyword-matched (HF daily v2 data-props returned 0, v3 href-regex returned 0)",
+      "web_search_template": "reward-model-geometry-probe: pac-bayesian-prm-bounds + ordinal-decomposition-stochastic-rater + lattice-representation-hypothesis-symbol-grounding + reward-shaping-vision-language-models",
+      "fresh_llm_returned": 16,
+      "note": "Rule 46 reward-model-geometry-probe WORKED, fresh-LLM return at typical base rate with full orthogonality to Run 78 multi-agent-consensus picks"
     }
   ],
   "last_updated": "2026-06-29T00:25:00.000000+00:00",

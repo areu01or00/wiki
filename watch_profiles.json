@@ -907,7 +907,10 @@
         "2601.11791",
         "2606.02646",
         "2605.19193",
-        "2605.03310"
+        "2605.03310",
+        "2606.20740",
+        "2605.12667",
+        "2603.01227"
       ],
       "last_results": [
         {
@@ -2730,6 +2733,42 @@
           "slug": "coordination-as-an-architectural-layer-for-llm-based-multi-agent-systems-2605.03310",
           "online_date": "2026-05-05",
           "run_number": 78
+        },
+        {
+          "arxiv_id": "2606.20740",
+          "title": "VeriBound: PAC-Bayesian Generalization Bounds for Process Reward Models Trained with Formal Verification Tools",
+          "hash": "56e95e301f9d4ea6494ef1b59019aeac",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "reward-model-geometry / pac-bayesian-prm-bounds / verification-trained-prm",
+          "discovered": "2026-06-29T03:55:00+00:00",
+          "slug": "veribound-pac-bayesian-generalization-bounds-for-process-reward-models-trained-with-formal-verification-tools-2606.20740",
+          "online_date": "2026-06-20",
+          "run_number": 79
+        },
+        {
+          "arxiv_id": "2605.12667",
+          "title": "ODRPO: Ordinal Decompositions of Discrete Rewards for Robust Policy Optimization",
+          "hash": "22392ee475e0c00f8063269a5b5b47e7",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "reward-model-geometry / ordinal-decomposition / stochastic-rater-noise-isolation",
+          "discovered": "2026-06-29T03:55:00+00:00",
+          "slug": "odrpo-ordinal-decompositions-of-discrete-rewards-for-robust-policy-optimization-2605.12667",
+          "online_date": "2026-05-13",
+          "run_number": 79
+        },
+        {
+          "arxiv_id": "2603.01227",
+          "title": "The Lattice Representation Hypothesis of Large Language Models",
+          "hash": "b0bf68ee68de799097b38c8be59b88df",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "reward-model-geometry / lattice-representation-hypothesis / linear-rep-fca-unification",
+          "discovered": "2026-06-29T03:55:00+00:00",
+          "slug": "the-lattice-representation-hypothesis-of-large-language-models-2603.01227",
+          "online_date": "2026-03-02",
+          "run_number": 79
         }
       ],
       "last_run": "2026-06-29T00:25:00+00:00",
@@ -2977,7 +3016,10 @@
     "2601.11791",
     "2606.02646",
     "2605.19193",
-    "2605.03310"
+    "2605.03310",
+    "2606.20740",
+    "2605.12667",
+    "2603.01227"
   ],
   "last_discovery": "2026-06-29T00:25:00.000000+00:00",
   "last_updated": "2026-06-29T00:25:00.000000+00:00",
@@ -3212,7 +3254,10 @@
       "2601.11791",
       "2606.02646",
       "2605.19193",
-      "2605.03310"
+      "2605.03310",
+      "2606.20740",
+      "2605.12667",
+      "2603.01227"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",
