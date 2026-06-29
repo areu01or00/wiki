@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T11:42:00+00:00",
   "__last_updated": "2026-06-29T11:42:00+00:00",
-  "last_run": 108,
-  "last_explore": "2026-06-29T11:59:17Z",
-  "last_global_explore": "2026-06-29T11:42:00+00:00",
-  "last_discovery": "2026-06-29T11:42:00+00:00",
-  "last_run_framing": "INFORMATION-GEOMETRIC-PRIMITIVE-PROBE",
-  "last_framing": "INFORMATION-GEOMETRIC-PRIMITIVE-PROBE",
-  "last_run_notes": "Rule 75 (candidate) introduced: PID + rate-distortion + optimal-transport primitive triplet",
+  "last_run": 110,
+  "last_explore": "2026-06-29T12:30:00Z",
+  "last_global_explore": "2026-06-29T12:30:00Z",
+  "last_discovery": "2026-06-29T12:30:00Z",
+  "last_run_framing": "BEHAVIORAL-ECONOMICS + TEST-TIME-COMPUTE-EFFICIENCY",
+  "last_framing": "BEHAVIORAL-ECONOMICS + TEST-TIME-COMPUTE-EFFICIENCY",
+  "last_run_notes": "Rule 76 (candidate) BEHAVIORAL-ECONOMICS-PROBE: utility-behavior gap + Kahneman-Tversky + persona-conditioned risk",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search 4-query INFORMATION-GEOMETRIC-PRIMITIVE-PROBE",
-  "run_method": "emergent-concept-search-via-arxiv-search-HTML",
+  "last_run_method": "HF daily v2 + web_search behavioral-economics 4-query escape hatch",
+  "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 330,
+  "entities_count": 333,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6973,6 +6973,30 @@
       "url": "https://arxiv.org/abs/2606.19527",
       "discovered": "2026-06-29",
       "theme": "metacognition/self-monitoring/self-correction"
+    },
+    {
+      "arxiv_id": "2606.22974",
+      "title": "A Utility-Behavior Gap in Large Language Models",
+      "slug": "a-utility-behavior-gap-in-large-language-models-2606.22974",
+      "url": "https://arxiv.org/abs/2606.22974",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "theme": "behavioral-economics / decision-making / test-time compute efficiency"
+    },
+    {
+      "arxiv_id": "2604.10739",
+      "title": "When More Thinking Hurts: Overthinking in LLM Test-Time Compute",
+      "slug": "when-more-thinking-hurts-overthinking-in-llm-test-time-compute-2604.10739",
+      "url": "https://arxiv.org/abs/2604.10739",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "theme": "behavioral-economics / decision-making / test-time compute efficiency"
+    },
+    {
+      "arxiv_id": "2603.15831",
+      "title": "Persona-Conditioned Risk Behavior in Large Language Models",
+      "slug": "persona-conditioned-risk-behavior-in-large-language-models-2603.15831",
+      "url": "https://arxiv.org/abs/2603.15831",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "theme": "behavioral-economics / decision-making / test-time compute efficiency"
     }
   ],
   "emergent_concept_search_log": [
@@ -11133,6 +11157,23 @@
         "2606.19527"
       ],
       "notes": "Metacognitive Self-Monitoring + Tree-Structured Self-Rectification + Emergent Alignment conscience-step discovery; 8-query arxiv HTML probe on 2026-06-29; all 3 confirmed fresh via 5-store dedup"
+    },
+    {
+      "run_number": 110,
+      "timestamp": "2026-06-29T12:30:00+00:00",
+      "theme": "behavioral-economics + test-time-compute-efficiency",
+      "framing": "BEHAVIORAL-ECONOMICS-PROBE: utility-behavior gap / prospect theory / persona-conditioned decision-making / overthinking / test-time compute efficiency primitive triplet",
+      "pick_count": 3,
+      "picks": [
+        "2606.22974",
+        "2604.10739",
+        "2603.15831"
+      ],
+      "completed_at": "2026-06-29T12:30:00Z",
+      "submitted_papers": 0,
+      "hf_daily_returned": 18,
+      "web_search_queries_fired": 4,
+      "notes": "Rule 76 BEHAVIORAL-ECONOMICS-PROBE (candidate). HF daily v2 returned 18 papers (6 LLM-keyword-matched, 6 FRESH after 5-store dedup); 3 picks: (a) A Utility-Behavior Gap (2606.22974) - first utility-behavior gap / Kahneman-Tversky prospect theory + (b) When More Thinking Hurts (2604.10739) - first overthinking / diminishing-marginal-returns + (c) Persona-Conditioned Risk Behavior (2603.15831) - first persona-conditioned decision-making with Kahneman-Tversky. Pitfall-83 streak extended to 55."
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
@@ -11250,7 +11291,7 @@
   ],
   "last_run_theme": "sample-efficiency-limit",
   "emergent_concept_papers_count": 279,
-  "emergent_discoveries_count": 280,
+  "emergent_discoveries_count": 322,
   "last_run_picks_count": 3,
   "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE"
 }

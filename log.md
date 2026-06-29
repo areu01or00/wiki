@@ -1978,3 +1978,4 @@ Commit: `43762e4` → push succeeded.
 - HF daily returned 0; web_search 4-query information-geometric fired
 - pitfall-83 streak at 54 consecutive runs (longest in wiki history by 42)
 
+- Run 110 (2026-06-29): BEHAVIORAL-ECONOMICS-PROBE — A Utility-Behavior Gap (2606.22974) + When More Thinking Hurts (2604.10739) + Persona-Conditioned Risk Behavior (2603.15831); HF daily v2 18 papers, 6 LLM-keyword-matched, 3 fresh; 3+2+1 behavioral-economics axis triplet; entities_count=333 reconciled; pitfall-83 streak at 55.
