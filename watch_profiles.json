@@ -961,7 +961,10 @@
         "2605.30080",
         "b36deec09839aa60ed40810e3e681388",
         "e891879985b50e75376cdc18a95326c0",
-        "c0c6f3d9ca33fea5bf51604b91f6dcf7"
+        "c0c6f3d9ca33fea5bf51604b91f6dcf7",
+        "2605.06152",
+        "2604.28182",
+        "2602.16967"
       ],
       "last_results": [
         {
@@ -3438,6 +3441,42 @@
           "online_date": "2026-05-07",
           "run_number": 96,
           "source": "web_search"
+        },
+        {
+          "arxiv_id": "2605.06152",
+          "title": "Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes",
+          "hash": "f79dd0ee1931a1e75e18b7bb8e134d67",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "emergent-capabilities / training-dynamics / numerical-precision / grokking",
+          "discovered": "2026-06-29T07:15:53.410787+00:00",
+          "slug": "grokking-or-glitching-how-low-precision-drives-slingshot-loss-spikes-2605.06152",
+          "online_date": "2026-05-26",
+          "run_number": 97
+        },
+        {
+          "arxiv_id": "2604.28182",
+          "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+          "hash": "201fcf32e6ef80447acfbcd9b661bc70",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "emergent-capabilities / post-training-safety / capability-elicitation / model-organisms",
+          "discovered": "2026-06-29T07:15:53.410787+00:00",
+          "slug": "exploration-hacking-can-llms-learn-to-resist-rl-training-2604.28182",
+          "online_date": "2026-04-30",
+          "run_number": 97
+        },
+        {
+          "arxiv_id": "2602.16967",
+          "title": "Early-Warning Signals of Grokking via Loss-Landscape Geometry",
+          "hash": "ba0bec374612a89ac258a9d9f4350be1",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "emergent-capabilities / grokking / loss-landscape / mechanistic-interpretability",
+          "discovered": "2026-06-29T07:15:53.410787+00:00",
+          "slug": "early-warning-signals-of-grokking-via-loss-landscape-geometry-2602.16967",
+          "online_date": "2026-04-03",
+          "run_number": 97
         }
       ],
       "last_run": "2026-06-29T10:30:00+00:00",
@@ -3733,7 +3772,10 @@
     "2605.30080",
     "b36deec09839aa60ed40810e3e681388",
     "e891879985b50e75376cdc18a95326c0",
-    "c0c6f3d9ca33fea5bf51604b91f6dcf7"
+    "c0c6f3d9ca33fea5bf51604b91f6dcf7",
+    "2605.06152",
+    "2604.28182",
+    "2602.16967"
   ],
   "last_discovery": "2606.24124",
   "last_updated": "2026-06-29T10:30:00+00:00",
@@ -4022,7 +4064,10 @@
       "2605.30080",
       "b36deec09839aa60ed40810e3e681388",
       "e891879985b50e75376cdc18a95326c0",
-      "c0c6f3d9ca33fea5bf51604b91f6dcf7"
+      "c0c6f3d9ca33fea5bf51604b91f6dcf7",
+      "2605.06152",
+      "2604.28182",
+      "2602.16967"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T06:08:00+00:00",

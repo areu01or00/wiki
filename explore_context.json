@@ -8,7 +8,7 @@
   "last_explore": "2026-06-29T10:30:00+00:00",
   "last_global_explore": "2026-06-29T10:30:00+00:00",
   "last_discovery": "2026-06-29T10:30:00+00:00",
-  "last_run_framing": "tokenizer-level probe \u2014 minimalist unigram + tokenization fairness + tokenization-free hierarchical",
+  "last_run_framing": "emergent-capabilities / Rule 64 EMERGENT-CAPABILITIES-PROBE / numerical-precision + grokking-early-warning + RL-resistance model-organisms",
   "last_framing": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE \u2014 pick axes that probe tokenizer-level primitives (training-pipeline simplification of Unigram vs BPE trade-offs, byte-level/tokenization-free hierarchical architecture, multilingual token-fertility cost measurement, script-fertility gradient analysis, byte-compression control in tokenization-free models, token-list vs token-graph representation, compression-vs-morphology trade-off resolution)",
   "last_run_notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet).",
   "last_pass_type": "emergent-concept search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "tokenizer-level",
   "emergent_theme": "tokenizer-level",
   "chains_updated": 0,
-  "entities_count": 291,
+  "entities_count": 297,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4030,6 +4030,33 @@
       "discovered": "2026-06-29T11:00:00+00:00",
       "run_number": 96,
       "theme": "axiomatic-formalization / latent-state-as-axiom-system / representation-quality-decoupled"
+    },
+    {
+      "arxiv_id": "2605.06152",
+      "slug": "grokking-or-glitching-how-low-precision-drives-slingshot-loss-spikes-2605.06152",
+      "title": "Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes",
+      "url": "https://arxiv.org/abs/2605.06152",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T07:15:37.154786+00:00",
+      "theme": "emergent-capabilities / training-dynamics / numerical-precision / grokking"
+    },
+    {
+      "arxiv_id": "2604.28182",
+      "slug": "exploration-hacking-can-llms-learn-to-resist-rl-training-2604.28182",
+      "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+      "url": "https://arxiv.org/abs/2604.28182",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T07:15:37.154786+00:00",
+      "theme": "emergent-capabilities / post-training-safety / capability-elicitation / model-organisms"
+    },
+    {
+      "arxiv_id": "2602.16967",
+      "slug": "early-warning-signals-of-grokking-via-loss-landscape-geometry-2602.16967",
+      "title": "Early-Warning Signals of Grokking via Loss-Landscape Geometry",
+      "url": "https://arxiv.org/abs/2602.16967",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T07:15:37.154786+00:00",
+      "theme": "emergent-capabilities / grokking / loss-landscape / mechanistic-interpretability"
     }
   ],
   "emergent_discoveries": [
@@ -6316,6 +6343,30 @@
       "url": "https://arxiv.org/abs/2606.27378",
       "discovered": "2026-06-29T11:00:00+00:00",
       "theme": "axiomatic-formalization / latent-state-as-axiom-system / representation-quality-decoupled"
+    },
+    {
+      "arxiv_id": "2605.06152",
+      "title": "Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes",
+      "slug": "grokking-or-glitching-how-low-precision-drives-slingshot-loss-spikes-2605.06152",
+      "url": "https://arxiv.org/abs/2605.06152",
+      "discovered": "2026-06-29T07:15:37.154786+00:00",
+      "theme": "emergent-capabilities / training-dynamics / numerical-precision / grokking"
+    },
+    {
+      "arxiv_id": "2604.28182",
+      "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+      "slug": "exploration-hacking-can-llms-learn-to-resist-rl-training-2604.28182",
+      "url": "https://arxiv.org/abs/2604.28182",
+      "discovered": "2026-06-29T07:15:37.154786+00:00",
+      "theme": "emergent-capabilities / post-training-safety / capability-elicitation / model-organisms"
+    },
+    {
+      "arxiv_id": "2602.16967",
+      "title": "Early-Warning Signals of Grokking via Loss-Landscape Geometry",
+      "slug": "early-warning-signals-of-grokking-via-loss-landscape-geometry-2602.16967",
+      "url": "https://arxiv.org/abs/2602.16967",
+      "discovered": "2026-06-29T07:15:37.154786+00:00",
+      "theme": "emergent-capabilities / grokking / loss-landscape / mechanistic-interpretability"
     }
   ],
   "emergent_concept_search_log": [
@@ -10056,6 +10107,28 @@
           "theme": "axiomatic-formalization / latent-state-as-axiom-system / representation-quality-decoupled"
         }
       ]
+    },
+    {
+      "theme": "emergent-capabilities",
+      "timestamp": "2026-06-29T07:15:37.154786+00:00",
+      "notes": "Rule 64 EMERGENT-CAPABILITIES-PROBE verified (43rd consecutive pitfall-83 \u2014 longest in wiki history by 30 runs). Introduced after Rules 33-63 in sequence. Pick axes that probe emergent-capability-mechanism primitives for LLM (numerical-precision-as-causal-mechanism-for-Slingshot-loss-spikes, loss-landscape-geometry-as-causal-early-warning-signal-for-grokking, model-organisms-of-strategic-RL-resistance-as-capability-elicitation-failure). 3 picks: 2605.06152 (Numerical Feature Inflation for Slingshot Mechanism), 2604.28182 (model-organism RL resistance), 2602.16967 (commutator-defect early-warning for grokking).",
+      "picks": [
+        {
+          "arxiv_id": "2605.06152",
+          "title": "Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes",
+          "slug": "grokking-or-glitching-how-low-precision-drives-slingshot-loss-spikes-2605.06152"
+        },
+        {
+          "arxiv_id": "2604.28182",
+          "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+          "slug": "exploration-hacking-can-llms-learn-to-resist-rl-training-2604.28182"
+        },
+        {
+          "arxiv_id": "2602.16967",
+          "title": "Early-Warning Signals of Grokking via Loss-Landscape Geometry",
+          "slug": "early-warning-signals-of-grokking-via-loss-landscape-geometry-2602.16967"
+        }
+      ]
     }
   ],
   "last_updated": "2026-06-29T10:30:00+00:00",
@@ -10166,5 +10239,6 @@
   ],
   "last_run_theme": "tokenizer-level",
   "emergent_concept_papers_count": 276,
-  "emergent_discoveries_count": 277
+  "emergent_discoveries_count": 277,
+  "last_run_picks_count": 3
 }

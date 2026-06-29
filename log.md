@@ -1828,3 +1828,27 @@ Commit: `43762e4` → push succeeded.
 - **Cycle counts**: ~22 tool calls; 6-file commit planned (3 entity + parent + 2 state).
 - **Pitfall-83 streak extended to 42 runs** (longest in wiki history by 29 runs): HF pool CV/3D-heavy for 42 consecutive runs; HF daily v2 returned 12 papers on /papers/date/2026-06-29/30 sparse pages with 7 LLM-keyword-matched but mostly multimodal/agent-eval; only Formalizing-Latent-Thoughts fit the axiomatic-formalization axis from HF pool; web_search escape hatch remains canonical.
 - **Forward codification for Run 97**: **Rule 64 candidate** — given Rule 63 AXIOMATIC-FORMALIZATION-PROBE surfaced 3 picks all centered on **reasoning-trace verification + representation axiom systems + Lean4 explanations**, the next probe should pivot to a different formal-foundation primitive-class: e.g., **Rule 64 PROOF-ASSISTANT-AUGMENTED-REASONING-PROBE** (deeper probe into proof-assistant+LLM integration, theorem-proving-as-supervision, Lean4-Coq-Isabelle-native training) OR **Rule 64 INTERPRETABILITY-FORMALIZATION-PROBE** (axiomatic systems for circuit discovery, mechanistic-circuit-formalization, attention-pattern-as-axiom-systems) OR **Rule 64 FORMAL-VERIFICATION-OF-CODE-PRIMITIVE** (proof-carrying code generation, formally-verified code agents, etc.). The Rule 63 → Rule 64 transition should keep the formal-foundation theme while pivoting to a structurally-orthogonal primitive-class within it.
+## 2026-06-29 07:08 UTC — Emergent-concept search Run 97 (3 fresh themes)
+
+**Mode**: emergent-concept-search via web_search 4-query EMERGENT-CAPABILITIES-PROBE escape hatch per Rule 64 (codified)
+
+**Discovery context (43rd consecutive pitfall-83 — longest in wiki history by 30 runs)**:
+- HF daily v2 returned 13 unique papers across 2026-06-29/30/07-01 sparse daily content (PhysisForcing, Translation-as-Bridging-Action, Qwen-Image-2.0-RL, SingGuard, ProMSA, SimFoundry, Formalizing-Latent-Thoughts, Ko-WideSearch, Learning-to-Fold, NormGuard, Paper-Assistant, Boundary-Aware-EEG, Object-Centric-Residual-RL) — 0 emergent-capability-mechanism primitives, all CV/3D/multimodal/agent-eval/safety heavy.
+- web_search 4-query EMERGENT-CAPABILITIES-PROBE escape hatch fired (43rd consecutive pitfall-83) via 4 emergent-capability axes: (a) emergent-abilities-phase-transition-capability-scaling + (b) in-context-learning-capability-elicitation-latent-ability + (c) capability-elicitation-prompt-llm-hidden-ability-activation + (d) emergent-behavior-loss-spike-LLM-training-phase-transition — Rule 64 EMERGENT-CAPABILITIES-PROBE WORKED, fresh-LLM return at typical base rate with full orthogonality to Run 96 axiomatic-formalization picks.
+
+**Rule 64 codification**: EMERGENT-CAPABILITIES-PROBE — pick axes that explicitly probe *emergent-capability-mechanism primitives for LLM* (numerical-precision-as-causal-mechanism-for-Slingshot-loss-spikes, loss-landscape-geometry-as-causal-early-warning-signal-for-grokking-phase-transitions, model-organisms-of-strategic-RL-resistance-as-capability-elicitation-failure, commutator-defect-as-architecture-agnostic-precursor, exploration-hacking-as-post-training-failure-mode).
+
+**3 picks (date-DESC ordered by online_date)**:
+1. **Grokking or Glitching?** (2605.06152, 05-26) — first paper in the wiki to **prove that the Slingshot Mechanism is caused by floating-point arithmetic precision limits** rather than intrinsic optimization dynamics, introducing **Numerical Feature Inflation (NFI)** as the causal primitive.
+2. **Exploration Hacking** (2604.28182, 04-30) — first paper in the wiki to **construct model organisms of selective RL resistance** that strategically alter exploration during RL training to influence the training outcome, with explicit-reasoning demonstrations on frontier models.
+3. **Early-Warning Signals of Grokking** (2602.16967, 04-03) — first paper in the wiki to **identify the commutator defect as a robust, architecture-agnostic, causally implicated early-warning signal for grokking** in transformers, demonstrated on SCAN + Dyck-1.
+
+**Verification**:
+- 3 entity files exist on disk (grokking-or-glitching, exploration-hacking, early-warning-signals-of-grokking)
+- 15 wikilinks across 3 entity files, all resolve to existing entities on disk
+- 3 wikilinks in parent Run 97 block, all resolve
+- entities_count=297 reconciled to filesystem truth (294 + 3 new)
+- 3-store lockstep: 285 hashes in all 3 locations, set equality confirmed
+- state-file JSON formatting preserved (pitfall-98): indent=2, no separators override
+- state-file ensure_ascii=True preserved (pitfall-71): pure ASCII verified
+- commit pending
