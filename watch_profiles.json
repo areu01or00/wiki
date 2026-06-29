@@ -1060,7 +1060,10 @@
         "fbbbb288433da9cde5e2594eefcf13f5",
         "fc7a4dbe58ec6769642af9c1c1a004a8",
         "fcacc38a542434c175824d6c0ab6d741",
-        "ff1e8b3ddd9f61bb37ed1663c658a1e1"
+        "ff1e8b3ddd9f61bb37ed1663c658a1e1",
+        "2606.22528",
+        "2606.19755",
+        "2605.10067"
       ],
       "last_results": [
         {
@@ -4618,7 +4621,10 @@
     "fbbbb288433da9cde5e2594eefcf13f5",
     "fc7a4dbe58ec6769642af9c1c1a004a8",
     "fcacc38a542434c175824d6c0ab6d741",
-    "ff1e8b3ddd9f61bb37ed1663c658a1e1"
+    "ff1e8b3ddd9f61bb37ed1663c658a1e1",
+    "2606.22528",
+    "2606.19755",
+    "2605.10067"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -5006,7 +5012,10 @@
       "fbbbb288433da9cde5e2594eefcf13f5",
       "fc7a4dbe58ec6769642af9c1c1a004a8",
       "fcacc38a542434c175824d6c0ab6d741",
-      "ff1e8b3ddd9f61bb37ed1663c658a1e1"
+      "ff1e8b3ddd9f61bb37ed1663c658a1e1",
+      "2606.22528",
+      "2606.19755",
+      "2605.10067"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",

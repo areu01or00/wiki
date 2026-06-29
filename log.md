@@ -1980,3 +1980,24 @@ Commit: `43762e4` → push succeeded.
 
 - Run 110 (2026-06-29): BEHAVIORAL-ECONOMICS-PROBE — A Utility-Behavior Gap (2606.22974) + When More Thinking Hurts (2604.10739) + Persona-Conditioned Risk Behavior (2603.15831); HF daily v2 18 papers, 6 LLM-keyword-matched, 3 fresh; 3+2+1 behavioral-economics axis triplet; entities_count=333 reconciled; pitfall-83 streak at 55.
 - Run 128 (2026-06-29): EMERGENT-ADVERSARIAL-DEFENSE-PROBE — Risk Under Pressure (2606.11409) + Disentangling Adversarial Prompts (2605.27823) + Cross-Generational Transfer (2606.00813); web_search 4-query EMERGENT-ADVERSARIAL-DEFENSE-PROBE; 9 fresh from 4 queries; 3+1+0 axis triplet (evaluation-metric + prompt-disentanglement + alignment-regression); entities_count=393 reconciled; wikilinks verified; commit dcb1193.
+
+## 2026-06-29 21:30 UTC — Emergent-concept search Run 130 (ADVERSARIAL-OFFENSE-CONTINUATION)
+
+**Mode**: emergent-concept-search via arxiv HTML search 4-query ADVERSARIAL-OFFENSE-CONTINUATION
+
+**Rule**: Rule 86 extension — ADVERSARIAL-OFFENSE-CONTINUATION
+- Prior runs: Run 129 (AJAR + Agentic Rewriting + Jailbreak Survey) established Rule 86 EMERGENT-ADVERSARIAL-OFFENSE-PROBE
+- This run extends Rule 86 with orthogonal axes: Governance Decay (context-compaction TOCTOU), SafeSpec (safety+speculative inference), Metis (metacognitive POMDP jailbreaking)
+
+**3 picks (date-DESC by online_date)**:
+1. **Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents** (2606.22528, 06-21) — first TOCTOU governance failure via context compaction; 34-67% constraint violations without explicit override; orthogonal to Rule 86 axes
+2. **SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling** (2606.19755, 06-18) — first safety-integrated speculative inference; latent safety head in verification stage; 2.06× speedup + 15% ASR reduction on Qwen3-32B
+3. **Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization** (2605.10067, 05-21) — first metacognitive POMDP jailbreaking; self-evolving causal defense diagnosis; substantially higher success than stochastic baselines
+
+**Verification**:
+- 3 entity files written to disk
+- All wikilinks verified (14 total across 3 files, all resolve)
+- entities_count=399 reconciled to filesystem truth (396 + 3 new)
+- 3-store lockstep confirmed (384 hashes in all 3 stores)
+- watch_profiles.json updated (3 new IDs added)
+- explore_context.json updated (379→382 emergent_discoveries, 126→127 runs)

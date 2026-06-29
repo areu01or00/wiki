@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T18:05:46.380905+00:00",
-  "__last_updated": "2026-06-29T21:00:00+00:00",
-  "last_run": 129,
-  "last_explore": "2026-06-29T21:00:00+00:00",
-  "last_global_explore": "2026-06-29T12:30:00Z",
-  "last_discovery": "2026-06-29T21:00:00+00:00",
-  "last_run_framing": "EMERGENT-ADVERSARIAL-OFFENSE-PROBE: ADAPTIVE-JAILBREAK + BLACK-BOX-PIPELINE + JAILBREAK-SURVEY",
+  "updated": "2026-06-29T19:06:28.349779+00:00",
+  "__last_updated": "2026-06-29T19:06:28.349779+00:00",
+  "last_run": 130,
+  "last_explore": "2026-06-29T19:06:28.349779+00:00",
+  "last_global_explore": "2026-06-29T19:06:28.349779+00:00",
+  "last_discovery": "2026-06-29T19:06:28.349779+00:00",
+  "last_run_framing": "ADVERSARIAL-OFFENSE-CONTINUATION \u2014 Rule 86 extension",
   "last_framing": "MULTIAGENT-MEMORY-INTERFERENCE: MEMORY-LAUNDERING + CROSS-SESSION-STORED-INJECTION + SLEEPER-MEMORY-POISONING",
   "last_run_notes": "Run 124: 3-axis MULTIAGENT-MEMORY-INTERFERENCE: State Contamination memory-laundering + Cross-Session Stored Prompt Injection + Sleeper Memory Poisoning",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search 4-query EMERGENT-ADVERSARIAL-DEFENSE-PROBE",
+  "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 396,
+  "entities_count": 399,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7990,6 +7990,30 @@
       "url": "https://arxiv.org/abs/2601.03594",
       "discovered": "2026-06-29T21:00:00+00:00",
       "theme": "jailbreak-survey-vlm-vulnerability-unified-defense"
+    },
+    {
+      "arxiv_id": "2606.22528",
+      "title": "Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents",
+      "slug": "governance-decay-how-context-compaction-silently-erases-safety-constraints-in-long-horizon-llm-agents-2606.22528",
+      "url": "https://arxiv.org/abs/2606.22528",
+      "discovered": "2026-06-29T21:30:00+00:00",
+      "theme": "context-compaction-safety-governance-toctou"
+    },
+    {
+      "arxiv_id": "2606.19755",
+      "title": "SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling",
+      "slug": "safespec-fast-and-safe-llm-via-dynamic-reflective-sampling-2606.19755",
+      "url": "https://arxiv.org/abs/2606.19755",
+      "discovered": "2026-06-29T21:30:00+00:00",
+      "theme": "speculative-inference-safety-integration"
+    },
+    {
+      "arxiv_id": "2605.10067",
+      "title": "Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization",
+      "slug": "metis-learning-to-jailbreak-llms-via-self-evolving-metacognitive-policy-optimization-2605.10067",
+      "url": "https://arxiv.org/abs/2605.10067",
+      "discovered": "2026-06-29T21:30:00+00:00",
+      "theme": "metacognitive-POMDP-jailbreaking-red-teaming"
     }
   ],
   "emergent_concept_search_log": [
@@ -12646,12 +12670,58 @@
         }
       ],
       "notes": "Rule 86 EMERGENT-ADVERSARIAL-OFFENSE-PROBE; 9 fresh LLM candidates from 9 unique arxiv IDs after 5-store dedup; 3 picks selected via Rule 27 domain-diversity + structurally-orthogonal principle"
+    },
+    {
+      "run_number": 130,
+      "date": "2026-06-29T19:06:28.349779+00:00",
+      "theme": "adversarial-offense-continuation",
+      "theme_full": "ADVERSARIAL-OFFENSE-CONTINUATION \u2014 Rule 86 extension",
+      "rule_codified": 86,
+      "num_fresh_candidates": 23,
+      "num_picks": 3,
+      "substrate": "arxiv HTML search 4-query ADVERSARIAL-OFFENSE-CONTINUATION",
+      "queries": [
+        "LLM adversarial attack generation adaptive 2026 arxiv",
+        "LLM jailbreak multi-turn orchestration 2026",
+        "adversarial data augmentation attack training language model 2026",
+        "semantic evasion strategies LLM adversarial 2026"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2606.22528",
+          "title": "Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents",
+          "slug": "governance-decay-how-context-compaction-silently-erases-safety-constraints-in-long-horizon-llm-agents-2606.22528",
+          "url": "https://arxiv.org/abs/2606.22528",
+          "discovered": "2026-06-29T21:30:00+00:00",
+          "theme": "context-compaction-safety-governance-toctou",
+          "online_date": "2026-06-21"
+        },
+        {
+          "arxiv_id": "2606.19755",
+          "title": "SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling",
+          "slug": "safespec-fast-and-safe-llm-via-dynamic-reflective-sampling-2606.19755",
+          "url": "https://arxiv.org/abs/2606.19755",
+          "discovered": "2026-06-29T21:30:00+00:00",
+          "theme": "speculative-inference-safety-integration",
+          "online_date": "2026-06-18"
+        },
+        {
+          "arxiv_id": "2605.10067",
+          "title": "Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization",
+          "slug": "metis-learning-to-jailbreak-llms-via-self-evolving-metacognitive-policy-optimization-2605.10067",
+          "url": "https://arxiv.org/abs/2605.10067",
+          "discovered": "2026-06-29T21:30:00+00:00",
+          "theme": "metacognitive-POMDP-jailbreaking-red-teaming",
+          "online_date": "2026-05-21"
+        }
+      ],
+      "notes": "Rule 86 extension ADVERSARIAL-OFFENSE-CONTINUATION; 23 fresh LLM candidates from arxiv HTML search; 3 picks; Governance Decay is first TOCTOU governance failure, SafeSpec is first safety-integrated speculative inference, Metis is first metacognitive POMDP jailbreaking"
     }
   ],
-  "last_updated": "2026-06-29T19:00:00+00:00",
-  "last_run_iso": "2026-06-29T19:00:00+00:00",
-  "total_entity_count": 294,
-  "entity_files_added": 6,
+  "last_updated": "2026-06-29T19:06:28.349779+00:00",
+  "last_run_iso": "2026-06-29T19:06:28.349779+00:00",
+  "total_entity_count": 399,
+  "entity_files_added": 3,
   "pass_type": "emergent-concept",
   "emergent_discoveries_log": [
     {
@@ -12752,7 +12822,7 @@
     }
   ],
   "last_run_mode": "emergent-concept",
-  "last_run_summary": "Run 100 SAMPLE-EFFICIENCY-LIMIT-PROBE per Rule 67 surfaced 60+ fresh LLM candidates via arxiv search HTML 4-query; 3 picks (2604.02596 many-shot ICL MT low-resource + 2506.08607 sample-efficient demonstration selection bandit + 2401.17197 data-efficient fine-tuning for recommendation) form the FT+ICL+deployment 3-layer sample-efficiency primitive-class triplet; entities_count=306, 3-store lockstep at 294 hashes",
+  "last_run_summary": "Governance Decay (TOCTOU governance), SafeSpec (safety+speculative inference), Metis (metacognitive POMDP jailbreaking)",
   "last_watched": "2026-06-29T10:30:00+00:00",
   "last_run_pitfalls": [
     "pitfall-83 streak extended to 46 runs",
@@ -12761,10 +12831,10 @@
     "pitfall-21/31 pre-write audit verified (0 broken wikilinks)",
     "pitfall-109 self-reference check passed"
   ],
-  "last_run_theme": "CAUSAL-REASONING-IN-LLM",
+  "last_run_theme": "adversarial-offense-continuation",
   "emergent_concept_papers_count": 357,
   "emergent_discoveries_count": 364,
   "last_run_picks_count": 3,
   "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE",
-  "last_run_timestamp": "2026-06-29T12:45:00Z"
+  "last_run_timestamp": "2026-06-29T19:06:28.349779+00:00"
 }
