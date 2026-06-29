@@ -8,7 +8,7 @@
   "last_explore": "2026-06-29T15:00:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
   "last_discovery": "2026-06-29T15:00:00+00:00",
-  "last_run_framing": "MULTIMODAL-SAFETY + CASCADED-SERVING + PROGRESSIVE-MULTIMODAL-AGENT",
+  "last_run_framing": "SAFETY-ROUTING + SKILL-GRAPH + LLM-AS-CODE",
   "last_framing": "TEST-TIME-COMPUTE + VERIFIABLE-PRM + PRM-SUPERVISION",
   "last_run_notes": "Rule 77 CAUSAL-REASONING-PROBE (Run 115) extended to TEST-TIME-COMPUTE + PROCESS-REWARD + PRM-SUPERVISION in Run 116",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 360,
+  "entities_count": 363,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4453,6 +4453,30 @@
       "url": "https://arxiv.org/abs/2606.27974",
       "discovered": "2026-06-29",
       "theme": "Progressive multimodal search agent with TN-GSPO RL for KB-VQA"
+    },
+    {
+      "arxiv_id": "2606.00686",
+      "title": "Dialectics of Alignment: Harnessing Unsafe Knowledge for Dynamic Safety Routing",
+      "slug": "dialectics-of-alignment-harnessing-unsafe-knowledge-for-dynamic-safety-routing-2606.00686",
+      "url": "https://arxiv.org/abs/2606.00686",
+      "discovered": "2026-06-29",
+      "theme": "safety-routing-dialectics"
+    },
+    {
+      "arxiv_id": "2606.03056",
+      "title": "SkillDAG: Self-Evolving Typed Skill Graphs for LLM Skill Selection at Scale",
+      "slug": "skilldag-self-evolving-typed-skill-graphs-for-llm-skill-selection-at-scale-2606.03056",
+      "url": "https://arxiv.org/abs/2606.03056",
+      "discovered": "2026-06-29",
+      "theme": "skill-graph-self-evolution"
+    },
+    {
+      "arxiv_id": "2606.15874",
+      "title": "LLM-as-Code: Agentic Programming for Agent Harness",
+      "slug": "llm-as-code-agentic-programming-for-agent-harness-2606.15874",
+      "url": "https://arxiv.org/abs/2606.15874",
+      "discovered": "2026-06-29",
+      "theme": "llm-as-code-agentic-programming"
     }
   ],
   "emergent_discoveries": [
@@ -7255,6 +7279,30 @@
       "url": "https://arxiv.org/abs/2606.27974",
       "discovered": "2026-06-29",
       "theme": "Progressive multimodal search agent with TN-GSPO RL for KB-VQA"
+    },
+    {
+      "arxiv_id": "2606.00686",
+      "title": "Dialectics of Alignment: Harnessing Unsafe Knowledge for Dynamic Safety Routing",
+      "slug": "dialectics-of-alignment-harnessing-unsafe-knowledge-for-dynamic-safety-routing-2606.00686",
+      "url": "https://arxiv.org/abs/2606.00686",
+      "discovered": "2026-06-29",
+      "theme": "safety-routing-dialectics"
+    },
+    {
+      "arxiv_id": "2606.03056",
+      "title": "SkillDAG: Self-Evolving Typed Skill Graphs for LLM Skill Selection at Scale",
+      "slug": "skilldag-self-evolving-typed-skill-graphs-for-llm-skill-selection-at-scale-2606.03056",
+      "url": "https://arxiv.org/abs/2606.03056",
+      "discovered": "2026-06-29",
+      "theme": "skill-graph-self-evolution"
+    },
+    {
+      "arxiv_id": "2606.15874",
+      "title": "LLM-as-Code: Agentic Programming for Agent Harness",
+      "slug": "llm-as-code-agentic-programming-for-agent-harness-2606.15874",
+      "url": "https://arxiv.org/abs/2606.15874",
+      "discovered": "2026-06-29",
+      "theme": "llm-as-code-agentic-programming"
     }
   ],
   "emergent_concept_search_log": [
@@ -11522,6 +11570,17 @@
         "2606.27974"
       ],
       "framing": "Three orthogonal axes: (1) policy-adaptive multimodal guardrail with runtime policy input and fast-slow reasoning, (2) two-stage cascaded serving with query clustering and quality-estimation cascade, (3) progressive multimodal search agent for KB-VQA with TN-GSPO RL"
+    },
+    {
+      "run_number": 118,
+      "date": "2026-06-29",
+      "theme": "SAFETY-ROUTING + SKILL-GRAPH + LLM-AS-CODE",
+      "papers": [
+        "2606.00686",
+        "2606.03056",
+        "2606.15874"
+      ],
+      "framing": "Three orthogonal axes: (1) dynamic safety routing via controlled knowledge integration vs erasure paradigm, (2) typed self-evolving skill DAG for LLM skill selection at scale, (3) LLM-as-Code agentic programming where program governs control flow and LLM is adaptive component"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
