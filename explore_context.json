@@ -4363,7 +4363,10 @@
     },
     "2604.15702",
     "2604.07165",
-    "2606.19527"
+    "2606.19527",
+    "2606.00437",
+    "2605.10158",
+    "2604.01411"
   ],
   "emergent_discoveries": [
     {
@@ -6997,6 +7000,30 @@
       "url": "https://arxiv.org/abs/2603.15831",
       "discovered": "2026-06-29T12:30:00+00:00",
       "theme": "behavioral-economics / decision-making / test-time compute efficiency"
+    },
+    {
+      "arxiv_id": "2606.00437",
+      "title": "EST-PRM: Stress-Testing Process Reward Models Before They Become Load-Bearing",
+      "slug": "est-prm-stress-testing-process-reward-models-before-they-become-load-bearing-2606.00437",
+      "url": "https://arxiv.org/abs/2606.00437",
+      "discovered": "2026-06-29T04:30:00+00:00",
+      "theme": "process-reward-model"
+    },
+    {
+      "arxiv_id": "2605.10158",
+      "title": "Unsupervised Process Reward Models",
+      "slug": "unsupervised-process-reward-models-2605.10158",
+      "url": "https://arxiv.org/abs/2605.10158",
+      "discovered": "2026-06-29T04:30:00+00:00",
+      "theme": "process-reward-model"
+    },
+    {
+      "arxiv_id": "2604.01411",
+      "title": "Test-Time Scaling Makes Overtraining Compute-Optimal",
+      "slug": "test-time-scaling-makes-overtraining-compute-optimal-2604.01411",
+      "url": "https://arxiv.org/abs/2604.01411",
+      "discovered": "2026-06-29T04:30:00+00:00",
+      "theme": "test-time-compute-scaling"
     }
   ],
   "emergent_concept_search_log": [
@@ -11174,6 +11201,17 @@
       "hf_daily_returned": 18,
       "web_search_queries_fired": 4,
       "notes": "Rule 76 BEHAVIORAL-ECONOMICS-PROBE (candidate). HF daily v2 returned 18 papers (6 LLM-keyword-matched, 6 FRESH after 5-store dedup); 3 picks: (a) A Utility-Behavior Gap (2606.22974) - first utility-behavior gap / Kahneman-Tversky prospect theory + (b) When More Thinking Hurts (2604.10739) - first overthinking / diminishing-marginal-returns + (c) Persona-Conditioned Risk Behavior (2603.15831) - first persona-conditioned decision-making with Kahneman-Tversky. Pitfall-83 streak extended to 55."
+    },
+    {
+      "run_number": 111,
+      "timestamp": "2026-06-29T04:30:00+00:00",
+      "theme": "PROCESS-REWARD-MODEL + TEST-TIME-SCALING-PRIMITIVE discovery",
+      "papers": [
+        "2606.00437",
+        "2605.10158",
+        "2604.01411"
+      ],
+      "status": "complete"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
