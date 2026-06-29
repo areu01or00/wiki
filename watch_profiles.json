@@ -952,7 +952,10 @@
         "2602.00911",
         "2604.14655",
         "2605.07244",
-        "2602.04837"
+        "2602.04837",
+        "2604.18292",
+        "2601.05808",
+        "2512.19682"
       ],
       "last_results": [
         {
@@ -3315,19 +3318,45 @@
           "slug": "group-evolving-agents-open-ended-self-improvement-via-experience-sharing-2602.04837",
           "online_date": "2026-02-04",
           "run_number": "93"
+        },
+        {
+          "arxiv_id": "2604.18292",
+          "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+          "hash": "16d4393ce1d4dccedc0cb9d2f1728790",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "environmental-evolution / real-world-environment-synthesis / continuous-self-evolving-agent-training primitive",
+          "discovered": "2026-06-29T06:08:00+00:00",
+          "slug": "agent-world-scaling-real-world-environment-synthesis-for-evolving-general-agent-intelligence-2604.18292",
+          "online_date": "2026/04/20",
+          "run_number": 94
+        },
+        {
+          "arxiv_id": "2601.05808",
+          "title": "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis",
+          "hash": "0300300d32fae4bd0ef023b7bca98e14",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "environmental-evolution / programmatic-environment-synthesis / multi-turn-multi-tool-benchmarks primitive",
+          "discovered": "2026-06-29T06:08:00+00:00",
+          "slug": "envscaler-scaling-tool-interactive-environments-for-llm-agent-via-programmatic-synthesis-2601.05808",
+          "online_date": "2026/04/17",
+          "run_number": 94
+        },
+        {
+          "arxiv_id": "2512.19682",
+          "title": "GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators",
+          "hash": "93de3179260dd84f0b7ebd4bf882753a",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "environmental-evolution / co-evolutionary-agent-environment-game / difficulty-aligned-curriculum primitive",
+          "discovered": "2026-06-29T06:08:00+00:00",
+          "slug": "genenv-difficulty-aligned-co-evolution-between-llm-agents-and-environment-simulators-2512.19682",
+          "online_date": "2025/12/23",
+          "run_number": 94
         }
       ],
-      "last_run": {
-        "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE",
-        "theme": "collaborative-learning",
-        "picks": [
-          "2606.28182",
-          "2606.19911",
-          "2602.00911"
-        ],
-        "date": "2026-06-29T05:47:05+00:00",
-        "pitfall_83_streak": 38
-      },
+      "last_run": "2026-06-29T06:08:00+00:00",
       "last_updated": "2026-06-29T05:47:05+00:00",
       "last_result_timestamp": "2026-06-29T05:47:05+00:00",
       "last_run_key": "Rule 59 COLLABORATIVE-LEARNING-PROBE",
@@ -3337,7 +3366,7 @@
       "last_run_framing": "Rule 59 COLLABORATIVE-LEARNING-PROBE"
     }
   },
-  "last_run": "2026-06-29T05:47:05+00:00",
+  "last_run": "2026-06-29T06:08:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3611,11 +3640,14 @@
     "2602.00911",
     "2604.14655",
     "2605.07244",
-    "2602.04837"
+    "2602.04837",
+    "2604.18292",
+    "2601.05808",
+    "2512.19682"
   ],
   "last_discovery": "2026-06-29T05:47:05+00:00",
   "last_updated": "2026-06-29T05:47:05+00:00",
-  "__last_updated": "2026-06-29T03:30:00+00:00",
+  "__last_updated": "2026-06-29T06:08:00+00:00",
   "last_explore": "2026-06-29T03:30:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
@@ -3891,10 +3923,13 @@
       "2602.00911",
       "2604.14655",
       "2605.07244",
-      "2602.04837"
+      "2602.04837",
+      "2604.18292",
+      "2601.05808",
+      "2512.19682"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
-    "last_run": "2026-06-29T05:30:00+00:00",
+    "last_run": "2026-06-29T06:08:00+00:00",
     "last_updated": "2026-06-29T05:47:05+00:00",
     "last_results": [
       {
@@ -3971,5 +4006,7 @@
     "2602.00911"
   ],
   "last_run_framing": "Rule 53 TEST-TIME-COMPUTE-SCALING-PROBE",
-  "updated": "2026-06-29T03:55:00+00:00"
+  "updated": "2026-06-29T06:08:00+00:00",
+  "last_run_method": "4-query ENVIRONMENTAL-EVOLUTION-PROBE per Rule 61",
+  "last_run_added": 3
 }

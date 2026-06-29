@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T09:50:00+00:00",
-  "__last_updated": "2026-06-29T09:50:00+00:00",
-  "last_run": "2026-06-29T09:50:00+00:00",
-  "last_explore": "2026-06-29T09:50:00+00:00",
+  "updated": "2026-06-29T06:08:00+00:00",
+  "__last_updated": "2026-06-29T06:08:00+00:00",
+  "last_run": "2026-06-29T06:08:00+00:00",
+  "last_explore": "2026-06-29T06:08:00+00:00",
   "last_global_explore": "2026-06-29T09:50:00+00:00",
   "last_discovery": "2026-06-29T09:50:00+00:00",
-  "last_run_framing": "Rule 60 CROSS-AGENT-TEACHING-PROBE \u2014 pick axes that probe cross-agent-teaching primitives (peer-teaching via typed outcome certificates across tokenizer-heterogeneous LLM families + group-as-evolutionary-unit experience sharing across evolutionary branches + parent-archive inheritance as cross-generation teaching substrate + agent-to-agent knowledge transfer protocols for distributed post-training)",
+  "last_run_framing": "environmental-evolution probe \u2014 autonomous environment-discovery + programmatic tool-interaction environment synthesis + difficulty-aligned co-evolutionary agent-environment game",
   "last_framing": "Rule 60 CROSS-AGENT-TEACHING-PROBE \u2014 pick axes that probe cross-agent-teaching primitives (peer-teaching via typed outcome certificates across tokenizer-heterogeneous LLM families + group-as-evolutionary-unit experience sharing across evolutionary branches + parent-archive inheritance as cross-generation teaching substrate + agent-to-agent knowledge transfer protocols for distributed post-training)",
   "last_run_notes": "Rule 60 CROSS-AGENT-TEACHING-PROBE verified (39th consecutive pitfall-83 \u2014 longest in wiki history by 26 runs); 3 picks structurally orthogonal to Run 92 collaborative-learning primitives \u2014 picks cover 3 distinct sub-axes of cross-agent-teaching primitive-class: (a) parent-archive inheritance as cross-generation teaching substrate in genetic-algorithm outer loop for code-generation populations, (b) peer-teaching via typed outcome certificates (SGT) with stability-support trade-off across tokenizer-heterogeneous LLM families, (c) group-as-evolutionary-unit with explicit cross-branch experience sharing for open-ended self-improvement. Pivoted from Run 92 cooperation-laws-as-policy-for-embodied-multi-agent-alignment + transactive-memory-extending-RAG-to-agent-populations + typed-federated-artifacts-for-cross-client-tool-routing (collaborative-learning primitive-class triplet) to peer-rollout-pooling-and-cross-policy-advantage-sharing-across-tokenizer-heterogeneous-LLMs + group-as-evolutionary-unit-with-explicit-experience-sharing + agent-seed-inheritance-from-parent-archives-in-genetic-algorithm-outer-loop (cross-agent-teaching primitive-class triplet).",
-  "last_pass_type": "emergent-concept-search",
-  "last_run_method": "web_search 4-query CROSS-AGENT-TEACHING-PROBE escape hatch per Rule 60",
+  "last_pass_type": "emergent-concept search",
+  "last_run_method": "4-query ENVIRONMENTAL-EVOLUTION-PROBE per Rule 61",
   "run_method": "web_search_4query_cross_agent_teaching_probe_rule60",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "cross-agent-teaching",
-  "emergent_theme": "cross-agent-teaching",
+  "emergent_concept_theme": "environmental-evolution",
+  "emergent_theme": "environmental-evolution",
   "chains_updated": 0,
-  "entities_count": 285,
+  "entities_count": 288,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3901,6 +3901,30 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-29T09:50:00+00:00",
       "theme": "cross-agent-teaching / group-evolutionary-unit / cross-branch-experience-sharing primitive"
+    },
+    {
+      "arxiv_id": "2604.18292",
+      "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+      "slug": "agent-world-scaling-real-world-environment-synthesis-for-evolving-general-agent-intelligence-2604.18292",
+      "url": "https://arxiv.org/abs/2604.18292",
+      "discovered": "2026-06-29T06:08:00+00:00",
+      "theme": "environmental-evolution / real-world-environment-synthesis / continuous-self-evolving-agent-training primitive"
+    },
+    {
+      "arxiv_id": "2601.05808",
+      "title": "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis",
+      "slug": "envscaler-scaling-tool-interactive-environments-for-llm-agent-via-programmatic-synthesis-2601.05808",
+      "url": "https://arxiv.org/abs/2601.05808",
+      "discovered": "2026-06-29T06:08:00+00:00",
+      "theme": "environmental-evolution / programmatic-environment-synthesis / multi-turn-multi-tool-benchmarks primitive"
+    },
+    {
+      "arxiv_id": "2512.19682",
+      "title": "GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators",
+      "slug": "genenv-difficulty-aligned-co-evolution-between-llm-agents-and-environment-simulators-2512.19682",
+      "url": "https://arxiv.org/abs/2512.19682",
+      "discovered": "2026-06-29T06:08:00+00:00",
+      "theme": "environmental-evolution / co-evolutionary-agent-environment-game / difficulty-aligned-curriculum primitive"
     }
   ],
   "emergent_discoveries": [
@@ -6115,6 +6139,30 @@
       "url": "https://arxiv.org/abs/2602.04837",
       "discovered": "2026-06-29T09:50:00+00:00",
       "theme": "cross-agent-teaching / group-evolutionary-unit / cross-branch-experience-sharing primitive"
+    },
+    {
+      "arxiv_id": "2604.18292",
+      "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+      "slug": "agent-world-scaling-real-world-environment-synthesis-for-evolving-general-agent-intelligence-2604.18292",
+      "url": "https://arxiv.org/abs/2604.18292",
+      "discovered": "2026-06-29T06:08:00+00:00",
+      "theme": "environmental-evolution / real-world-environment-synthesis / continuous-self-evolving-agent-training primitive"
+    },
+    {
+      "arxiv_id": "2601.05808",
+      "title": "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis",
+      "slug": "envscaler-scaling-tool-interactive-environments-for-llm-agent-via-programmatic-synthesis-2601.05808",
+      "url": "https://arxiv.org/abs/2601.05808",
+      "discovered": "2026-06-29T06:08:00+00:00",
+      "theme": "environmental-evolution / programmatic-environment-synthesis / multi-turn-multi-tool-benchmarks primitive"
+    },
+    {
+      "arxiv_id": "2512.19682",
+      "title": "GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators",
+      "slug": "genenv-difficulty-aligned-co-evolution-between-llm-agents-and-environment-simulators-2512.19682",
+      "url": "https://arxiv.org/abs/2512.19682",
+      "discovered": "2026-06-29T06:08:00+00:00",
+      "theme": "environmental-evolution / co-evolutionary-agent-environment-game / difficulty-aligned-curriculum primitive"
     }
   ],
   "emergent_concept_search_log": [
@@ -8418,6 +8466,19 @@
         "2602.04837"
       ],
       "pitfall_83_streak": 39
+    },
+    {
+      "run": 94,
+      "timestamp": "2026-06-29T06:08:00+00:00",
+      "method": "web_search 4-query ENVIRONMENTAL-EVOLUTION-PROBE per Rule 61",
+      "axes": [
+        "environment-discovery-from-real-world-MCP-tools",
+        "programmatic-environment-synthesis-via-skeleton-scenario-validators",
+        "difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator",
+        "environment-diversity-scaling-laws"
+      ],
+      "picks_count": 3,
+      "notes": "Rule 61 ENVIRONMENTAL-EVOLUTION-PROBE surfaces 3 fresh LLM candidates across environmental-evolution surfaces: Agentic Environment-Task Discovery from MCP tools (Agent-World), SkelBuilder+ScenGenerator programmatic synthesis (EnvScaler), and \u03b1-Curriculum Reward co-evolutionary game (GenEnv)."
     }
   ],
   "runs": [
@@ -9697,13 +9758,49 @@
       "discovered": "2026-06-29T09:50:00+00:00",
       "pitfall_83_streak": 39,
       "last_run_framing": "cross-agent-teaching (peer-teaching via typed outcome certificates + group-evolution peer-teaching + parent-archive inheritance teaching)"
+    },
+    {
+      "run_number": 94,
+      "timestamp": "2026-06-29T06:08:00+00:00",
+      "theme": "environmental-evolution",
+      "method": "web_search 4-query ENVIRONMENTAL-EVOLUTION-PROBE per Rule 61",
+      "streak_length": 40,
+      "primitives": [
+        "environment-discovery-from-real-world-MCP-tools",
+        "programmatic-tool-interaction-environment-synthesis",
+        "co-evolutionary-agent-environment-game"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2604.18292",
+          "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+          "slug": "agent-world-scaling-real-world-environment-synthesis-for-evolving-general-agent-intelligence-2604.18292",
+          "online_date": "2026-04-20",
+          "theme": "environmental-evolution / real-world-environment-synthesis / continuous-self-evolving-agent-training primitive"
+        },
+        {
+          "arxiv_id": "2601.05808",
+          "title": "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis",
+          "slug": "envscaler-scaling-tool-interactive-environments-for-llm-agent-via-programmatic-synthesis-2601.05808",
+          "online_date": "2026-04-17",
+          "theme": "environmental-evolution / programmatic-environment-synthesis / multi-turn-multi-tool-benchmarks primitive"
+        },
+        {
+          "arxiv_id": "2512.19682",
+          "title": "GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators",
+          "slug": "genenv-difficulty-aligned-co-evolution-between-llm-agents-and-environment-simulators-2512.19682",
+          "online_date": "2025-12-23",
+          "theme": "environmental-evolution / co-evolutionary-agent-environment-game / difficulty-aligned-curriculum primitive"
+        }
+      ],
+      "notes": "Run 94: web_search 4-query ENVIRONMENTAL-EVOLUTION-PROBE escape hatch per Rule 61 (HF pool CV/3D-heavy for 40th consecutive run \u2014 pitfall-83 streak extended to Runs 55-94, longest in wiki history by 27 runs). Rule 61 introduced after Rules 33-60 in sequence; pivoted from Run 93 cross-agent-teaching triplet to environmental-evolution triplet: environment-discovery-from-real-world-MCP-tools + programmatic-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator. 3 picks structurally orthogonal to all prior runs."
     }
   ],
-  "last_updated": "2026-06-29T05:30:00+00:00",
-  "last_run_iso": "2026-06-29T05:47:05+00:00",
-  "total_entity_count": 270,
+  "last_updated": "2026-06-29T06:08:00+00:00",
+  "last_run_iso": "2026-06-29T06:08:00+00:00",
+  "total_entity_count": 288,
   "entity_files_added": 3,
-  "pass_type": "emergent-concept-search",
+  "pass_type": "emergent-concept search",
   "emergent_discoveries_log": [
     {
       "timestamp": "2026-06-25T22:58:26.213594+00:00",
@@ -9797,9 +9894,15 @@
       "rule": "Rule 59 COLLABORATIVE-LEARNING-PROBE"
     }
   ],
-  "last_run_mode": "emergent-concept-search",
-  "last_run_summary": "Run 92 \u2014 Rule 59 COLLABORATIVE-LEARNING-PROBE \u2014 3 picks: 2606.28182 LLawCo cooperation laws + 2606.19911 Multi-Agent Transactive Memory + 2602.00911 Synapse federated tool routing",
+  "last_run_mode": "web_search",
+  "last_run_summary": "Rule 61 ENVIRONMENTAL-EVOLUTION-PROBE surfaced 3 fresh LLM candidates; 3 picks structurally orthogonal to Run 93 cross-agent-teaching.",
   "last_watched": "2026-06-29T09:30:00+00:00",
-  "last_run_pitfalls": "pitfall-83 streak at 38 runs (extended); pitfall-129 execute_code blocked; pitfall-130 find -delete approval gate",
-  "last_run_theme": "collaborative-learning"
+  "last_run_pitfalls": [
+    "83",
+    "98",
+    "120"
+  ],
+  "last_run_theme": "environmental-evolution",
+  "emergent_concept_papers_count": 273,
+  "emergent_discoveries_count": 274
 }
