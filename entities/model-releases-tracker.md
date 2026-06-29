@@ -18,7 +18,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
-- **2026-06-29** | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content And AI Safety](https://arxiv.org/abs/2606.27632) | kw: Yuvion LLM adversarial safety ICML | source: yuvion-llm
+- **2026-06-29** | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content And AI Safety](https://arxiv.org/abs/2606.27632v1) | kw: Yuvion LLM adversarial safety ICML | source: yuvion-llm
+- **2026-06-29** | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content And AI Safety — v1](https://arxiv.org/abs/2606.27632) | kw: Yuvion LLM adversarial safety ICML 2026 | source: arxiv-cs-cl
 - **2026-06-25** | [DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family](https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/) | kw: Ornith-1.0 deepreinforce coding RL | source: deepreinforce-ai
 - **2026-06-25** | [deepreinforce-ai/Ornith-1.0-9B - Hugging Face](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B) | kw: Ornith-1.0-9B open weights HF | source: deepreinforce-ai
 - **2026-06-29** | [Z.ai GLM-5.2 beats GPT-5.5 on long-horizon coding benchmarks](https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost) | kw: GLM-5.2 | source: glm-releases
@@ -63,7 +64,6 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-06-29** | [swiss-ai/Apertus-70B-Instruct-2509 - HuggingFace](https://huggingface.co/swiss-ai/Apertus-70B-Instruct-2509?inference_api=true) | kw: Apertus | source: swiss-ai-apertus
 - **2026-06-29** | [DeepSeek-V3 GitHub](https://github.com/deepseek-ai/DeepSeek-V3) | kw: DeepSeek-V3 | source: deepseek-releases
 - **2026-06-29** | [DeepSeek-V3 HuggingFace](https://huggingface.co/deepseek-ai/DeepSeek-V3) | kw: DeepSeek-V3 | source: deepseek-releases
-
 - **2026-06-26** | [Previewing GPT-5.6 Sol: a next-generation model - OpenAI](https://openai.com/index/previewing-gpt-5-6-sol/) | kw: GPT-5.6 Sol | source: openai-releases
 - **2026-06-26** | [GPT-5.6 Preview System Card - Deployment Safety Hub](https://deploymentsafety.openai.com/gpt-5-6-preview) | kw: GPT-5.6 | source: openai-releases
 - **2026-06-26** | [A preview of GPT-5.6 Sol, Terra, and Luna - OpenAI Help Center](https://help.openai.com/en/articles/20001325-a-preview-of-gpt-56-sol-terra-and-luna) | kw: GPT-5.6 | source: openai-releases
@@ -106,10 +106,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-06-24** | [Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E-Commerce](https://arxiv.org/abs/2606.24783) | kw: Paying to Know: Micro-Transaction Markets for Verified Product Information in Ag | source: arxiv-cs-cl
 - **2026-06-23** | [MiniMax Sparse Attention - arxiv.org](https://arxiv.org/abs/2606.13392) | kw: MiniMax Sparse Attention arxiv org | source: MiniMax
 - **2026-06-23** | [MiniMaxAI/MiniMax-M3 - Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3) | kw: MiniMaxAI MiniMax-M3 Hugging Face | source: MiniMax
-
 - **2026-06-23** | [Sakana Fugu — Multi-Agent System as a Model](https://sakana.ai/fugu/) | kw: Sakana Fugu Multi-Agent | source: sakana-releases
 - **2026-06-23** | [Mistral OCR 4: Structured Document Extraction API Guide](https://www.explainx.ai/blog/mistral-ocr-4-bounding-boxes-document-ai-api-2026) | kw: Mistral OCR 4 Structured Document | source: mistral-releases
-
 - **2026-06-23** | [Sakana Fugu: One Model to Command Them All - Official Release](https://sakana.ai/fugu-release/) | kw: Sakana Fugu Ultra Release | source: sakana-releases
 - **2026-06-23** | [GitHub - SakanaAI/fugu](https://github.com/SakanaAI/fugu/) | kw: Sakana Fugu GitHub | source: sakana-releases
 - **2026-06-23** | [Apertus: The Fully Open Foundation Model for Sovereign AI (2026)](https://www.explainx.ai/blog/apertus-open-foundation-model-sovereign-ai-2026) | kw: Apertus Sovereign AI | source: swiss-ai-apertus
@@ -117,9 +115,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-06-23** | [ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models](http://arxiv.org/abs/2606.23404v1) | kw: ReasoningLens Hierarchical Visualization and Diagnostic | source: arxiv-cs-cl
 - **2026-06-23** | [Tmax: A simple recipe for terminal agents](http://arxiv.org/abs/2606.23321v1) | kw: Tmax A simple recipe for | source: arxiv-cs-cl
 - **2026-06-23** | [DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models](http://arxiv.org/abs/2606.23181v1) | kw: DART Draft-Agreement Routing for Training-Free | source: arxiv-cs-cl
-- **2026-06-23** | [PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2606.23092v1) | kw: PIVOTSBench Evaluating Fine-Grained Interpersonal Relationship | source: arxiv-cs-cl
+- **2026-06-23** | [PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2606.23092v1) | kw: PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models | source: arxiv-cs-cl
 - **2026-06-23** | [Qwen3.6-35B-A3B model card on Hugging Face](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) | kw: Qwen3.6-35B-A3B | source: qwen-releases
-
 - **2026-06-23** | [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.22001) | kw: Randomized YaRN Improves Length | source: arxiv-cs-cl
 - **2026-06-23** | [Can LLMs Reliably Self-Report Adversarial Prefills](https://arxiv.org/abs/2606.22002) | kw: Can LLMs Reliably Self-Report | source: arxiv-cs-cl
 - **2026-06-23** | [Tapered Language Models](https://arxiv.org/abs/2606.22003) | kw: Tapered Language Models | source: arxiv-cs-cl
@@ -134,13 +131,11 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-06-23** | [Sakana Fugu: The Model That Outsmarts Claude Fable 5 - Labellerr](https://www.labellerr.com/blog/sakana-fugu-multi-agent-ai-system/) | kw: Sakana Fugu The Model | source: sakana-releases
 - **2026-06-23** | [Sakana Fugu Might Be the Most Important AI Release Nobody Noticed](https://medium.com/@kanishks772/sakana-fugu-might-be-the-most-important-ai-release-nobody-noticed-32b29c17a78b) | kw: Sakana Fugu Might Be | source: sakana-releases
 - **2026-06-23** | [Sakana AI Fugu Review: Fugu Ultra vs Claude Fable 5 - Coursiv](https://coursiv.io/blog/sakana-ai-fugu) | kw: Sakana AI Fugu Review | source: sakana-releases
-
 - **2026-06-23** | [Class Leading, Open-Source AI | Download Llama](https://developer.meta.com/ai/llama-downloads/) | kw: Llama 4 | source: meta-llama-releases
 - **2026-06-23** | [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) | kw: GPT-5.5 | source: openai-releases
 - **2026-06-23** | [No Claude Fable 5? No problem: Sakana achieves frontier performance](https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system) | kw: Claude Fable | source: sakana-releases
 - **2026-06-23** | [What Is GLM 5.2? The Open-Weight Model Competing with Claude](https://www.mindstudio.ai/blog/what-is-glm-5-2-open-weight-model-4) | kw: What | source: glm-releases
 - **2026-06-23** | [Z.ai's GLM-5 leaked through GitHub PRs and a zodiac easter egg](https://blog.devgenius.io/z-ais-glm-5-leaked-through-github-prs-and-a-zodiac-easter-egg-8716deb07f93) | kw: GLM-5 | source: glm-releases
-
 - **2026-06-23** | [ChatGPT New Features 2026 — GPT-5.5, Every Update (June 2026)](https://aiinsider.in/ai-learning/chatgpt-new-features-2025-2026/) | kw: GPT-5.5 | source: openai-releases
 - **2026-06-23** | [GLM-5 vs DeepSeek-V4-Pro-Max](https://llm-stats.com/models/compare/glm-5-vs-deepseek-v4-pro-max) | kw: GLM-5 | source: glm-releases
 - **2026-06-23** | [GLM-5.2: Zhipu AI's 1M-Token Open-Weight Coding Model](https://www.eigent.ai/blog/glm-5-2) | kw: GLM-5.2 | source: glm-releases
@@ -157,8 +152,6 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-06-23** | [The Llama 4 herd: The beginning of a new era of natively multimodal AI](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) | kw: Llama 4 | source: meta-llama-releases
 - **2026-06-23** | [Daily Papers - Hugging Face](https://huggingface.co/papers) | kw: Daily | source: huggingface-trending
 - **2026-06-23** | [Trending Papers - Hugging Face](https://huggingface.co/papers/trending) | kw: Trending | source: huggingface-trending
-
-
 - **2026-06-24** | [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](https://arxiv.org/abs/2606.24820v1) | kw: SHERLOC: Structured Diagnostic Localization for Code Repair Agents | source: arxiv-cs-cl
 - **2026-06-24** | [AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning](https://arxiv.org/abs/2606.24526v1) | kw: AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document | source: arxiv-cs-cl
 - **2026-06-24** | [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](https://arxiv.org/abs/2606.24530v1) | kw: NatureBench: Can Coding Agents Match the Published SOTA | source: arxiv-cs-cl
@@ -172,7 +165,6 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-06-24** | [Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural Narratives in Large Language Models](https://arxiv.org/abs/2606.24610v1) | kw: Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural | source: arxiv-cs-cl
 - **2026-06-24** | [AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability](https://arxiv.org/abs/2606.24589v1) | kw: AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and | source: arxiv-cs-cl
 
-
 ## Auto-Discovered Profiles
 *Profiles auto-added by discovery layer each cycle. Tracked from this cycle onwards.*
 
@@ -185,4 +177,3 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **liquid-ai** — cycle 59 — Liquid AI LFM2.5 family edge LLM open weights model release
 - **kog-ai** — cycle 68 — kogai laneformer-2b-it model card release (c89 reword: HF model-name anchor, c86 backlog applied 3 cycles late; replaces prior c73 "kogai Laneformer huggingface open weights latency-first")
 - **yuvion-llm** — cycle 99 — Yuvion LLM adversarial content safety model arXiv cs.CL Jun 2026 (auto-discovered via arXiv cs.CL new submission, new org not in known blocklist)
-
