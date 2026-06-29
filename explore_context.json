@@ -8,7 +8,7 @@
   "last_explore": "2026-06-29T12:30:00Z",
   "last_global_explore": "2026-06-29T12:30:00Z",
   "last_discovery": "2026-06-29T12:30:00Z",
-  "last_run_framing": "BEHAVIORAL-ECONOMICS + TEST-TIME-COMPUTE-EFFICIENCY",
+  "last_run_framing": "causal-credit-assignment-prm + counterfactual-relational-reasoning + counterfactual-pragmatic-reasoning",
   "last_framing": "BEHAVIORAL-ECONOMICS + TEST-TIME-COMPUTE-EFFICIENCY",
   "last_run_notes": "Rule 76 (candidate) BEHAVIORAL-ECONOMICS-PROBE: utility-behavior gap + Kahneman-Tversky + persona-conditioned risk",
   "last_pass_type": "emergent-concept",
@@ -4366,7 +4366,10 @@
     "2606.19527",
     "2606.00437",
     "2605.10158",
-    "2604.01411"
+    "2604.01411",
+    "2606.27739",
+    "2606.23667",
+    "2606.18624"
   ],
   "emergent_discoveries": [
     {
@@ -7024,6 +7027,30 @@
       "url": "https://arxiv.org/abs/2604.01411",
       "discovered": "2026-06-29T04:30:00+00:00",
       "theme": "test-time-compute-scaling"
+    },
+    {
+      "arxiv_id": "2606.27739",
+      "title": "The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment",
+      "slug": "the-weakest-link-tells-it-all-outcome-supervised-process-reward-modeling-via-learnable-credit-assignment-2606.27739",
+      "url": "https://arxiv.org/abs/2606.27739",
+      "discovered": "2026-06-29T12:45:00Z",
+      "theme": "causal-credit-assignment-prm"
+    },
+    {
+      "arxiv_id": "2606.23667",
+      "title": "The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data",
+      "slug": "the-table-says-otherwise-testing-llms-with-counterfactual-relational-data-2606.23667",
+      "url": "https://arxiv.org/abs/2606.23667",
+      "discovered": "2026-06-29T12:45:00Z",
+      "theme": "counterfactual-relational-reasoning"
+    },
+    {
+      "arxiv_id": "2606.18624",
+      "title": "PragReST: Self-Reinforcing Counterfactual Reasoning for Pragmatic Language Understanding",
+      "slug": "pragrest-self-reinforcing-counterfactual-reasoning-for-pragmatic-language-understanding-2606.18624",
+      "url": "https://arxiv.org/abs/2606.18624",
+      "discovered": "2026-06-29T12:45:00Z",
+      "theme": "counterfactual-pragmatic-reasoning"
     }
   ],
   "emergent_concept_search_log": [
@@ -11212,6 +11239,17 @@
         "2604.01411"
       ],
       "status": "complete"
+    },
+    {
+      "run_number": 112,
+      "timestamp": "2026-06-29T12:45:00Z",
+      "theme": "CAUSAL-REASONING + COUNTERFACTUAL-FAITHFULNESS + PRAGMATIC-REASONING discovery",
+      "picks": [
+        "2606.27739",
+        "2606.23667",
+        "2606.18624"
+      ],
+      "status": "completed"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
@@ -11331,5 +11369,6 @@
   "emergent_concept_papers_count": 279,
   "emergent_discoveries_count": 322,
   "last_run_picks_count": 3,
-  "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE"
+  "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE",
+  "last_run_timestamp": "2026-06-29T12:45:00Z"
 }

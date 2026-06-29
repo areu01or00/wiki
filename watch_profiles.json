@@ -1006,7 +1006,10 @@
         "2f4753aef2235d0f07fa466563dfd80b",
         "2606.00437",
         "2605.10158",
-        "2604.01411"
+        "2604.01411",
+        "f9b2d1b371f722d177b718447b07a043",
+        "c7f58bbdac19e5d023c47804aa145894",
+        "11b3ac4eb9b778ccdab8e27e2500e357"
       ],
       "last_results": [
         {
@@ -3933,6 +3936,42 @@
           "slug": "a-brain-like-synergistic-core-in-llms-drives-behaviour-and-learning-2601.06851",
           "online_date": "2026-01-11",
           "run_number": 108
+        },
+        {
+          "arxiv_id": "2606.27739",
+          "title": "The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment",
+          "hash": "f9b2d1b371f722d177b718447b07a043",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "causal-credit-assignment-prm",
+          "discovered": "2026-06-29T12:45:00Z",
+          "slug": "the-weakest-link-tells-it-all-outcome-supervised-process-reward-modeling-via-learnable-credit-assignment-2606.27739",
+          "online_date": "2026-06-26",
+          "run_number": 112
+        },
+        {
+          "arxiv_id": "2606.23667",
+          "title": "The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data",
+          "hash": "c7f58bbdac19e5d023c47804aa145894",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "counterfactual-relational-reasoning",
+          "discovered": "2026-06-29T12:45:00Z",
+          "slug": "the-table-says-otherwise-testing-llms-with-counterfactual-relational-data-2606.23667",
+          "online_date": "2026-06-22",
+          "run_number": 112
+        },
+        {
+          "arxiv_id": "2606.18624",
+          "title": "PragReST: Self-Reinforcing Counterfactual Reasoning for Pragmatic Language Understanding",
+          "hash": "11b3ac4eb9b778ccdab8e27e2500e357",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "counterfactual-pragmatic-reasoning",
+          "discovered": "2026-06-29T12:45:00Z",
+          "slug": "pragrest-self-reinforcing-counterfactual-reasoning-for-pragmatic-language-understanding-2606.18624",
+          "online_date": "2026-06-17",
+          "run_number": 112
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4273,7 +4312,10 @@
     "2f4753aef2235d0f07fa466563dfd80b",
     "2606.00437",
     "2605.10158",
-    "2604.01411"
+    "2604.01411",
+    "f9b2d1b371f722d177b718447b07a043",
+    "c7f58bbdac19e5d023c47804aa145894",
+    "11b3ac4eb9b778ccdab8e27e2500e357"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -4607,7 +4649,10 @@
       "2f4753aef2235d0f07fa466563dfd80b",
       "2606.00437",
       "2605.10158",
-      "2604.01411"
+      "2604.01411",
+      "f9b2d1b371f722d177b718447b07a043",
+      "c7f58bbdac19e5d023c47804aa145894",
+      "11b3ac4eb9b778ccdab8e27e2500e357"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",
