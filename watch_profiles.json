@@ -934,7 +934,10 @@
         "2602.23681",
         "2606.18430",
         "2602.18700",
-        "2601.08189"
+        "2601.08189",
+        "2606.26875",
+        "2606.24957",
+        "2605.02888"
       ],
       "last_results": [
         {
@@ -3081,6 +3084,42 @@
           "slug": "forgetmark-stealthy-fingerprint-embedding-via-targeted-unlearning-2601.08189",
           "online_date": "2026-01-20",
           "run_number": 87
+        },
+        {
+          "arxiv_id": "2606.26875",
+          "title": "Information-Aware KV Cache Compression for Long Reasoning",
+          "hash": "fe2d98d1aff0c4c180134eeb1b279f3f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma",
+          "discovered": "2026-06-29T04:26:56+00:00",
+          "slug": "information-aware-kv-cache-compression-for-long-reasoning-2606.26875",
+          "online_date": "2026-06-28",
+          "run_number": 88
+        },
+        {
+          "arxiv_id": "2606.24957",
+          "title": "Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding",
+          "hash": "e862a616ff5becd857db725b4b63fa3a",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma",
+          "discovered": "2026-06-29T04:26:56+00:00",
+          "slug": "dustin-draft-augmented-sparse-verification-for-efficient-long-context-generation-with-speculative-decoding-2606.24957",
+          "online_date": "2026-06-26",
+          "run_number": 88
+        },
+        {
+          "arxiv_id": "2605.02888",
+          "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+          "hash": "2993f6fcbba14bfc6142223a34c011e6",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma",
+          "discovered": "2026-06-29T04:26:56+00:00",
+          "slug": "speckv-adaptive-speculative-decoding-with-compression-aware-gamma-selection-2605.02888",
+          "online_date": "2026-05-05",
+          "run_number": 88
         }
       ],
       "last_run": "2026-06-29T05:30:00+00:00",
@@ -3349,7 +3388,10 @@
     "2602.23681",
     "2606.18430",
     "2602.18700",
-    "2601.08189"
+    "2601.08189",
+    "2606.26875",
+    "2606.24957",
+    "2605.02888"
   ],
   "last_discovery": "2026-06-29T05:30:00+00:00",
   "last_updated": "2026-06-29T03:55:00+00:00",
@@ -3611,7 +3653,10 @@
       "2602.23681",
       "2606.18430",
       "2602.18700",
-      "2601.08189"
+      "2601.08189",
+      "2606.26875",
+      "2606.24957",
+      "2605.02888"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T05:30:00+00:00",

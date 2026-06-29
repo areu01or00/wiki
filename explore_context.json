@@ -4,26 +4,26 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T03:55:00+00:00",
   "__last_updated": "2026-06-29T08:00:00+00:00",
-  "last_run": "2026-06-29T03:55:00+00:00",
-  "last_explore": "2026-06-29T03:55:00+00:00",
+  "last_run": "2026-06-29T04:26:56+00:00",
+  "last_explore": "2026-06-29T04:26:56+00:00",
   "last_global_explore": "2026-06-29T08:00:00+00:00",
-  "last_discovery": "2026-06-29T08:00:00+00:00",
-  "last_run_framing": "Rule 53 TEST-TIME-COMPUTE-SCALING-PROBE",
-  "last_framing": "self-improvement-loop",
-  "last_run_notes": "Run 85 - SELF-IMPROVEMENT-LOOP-PROBE per Rule 52 - Q-Evolve in-distribution agent RL critic + closed-loop-SE-generalization-gap-theoretical-analysis + RISE-VLM-dual-role-closed-loop-questioner-solver",
+  "last_discovery": "2026-06-29T04:26:56+00:00",
+  "last_run_framing": "Rule 55 INFERENCE-EFFICIENCY-PROBE",
+  "last_framing": "inference-efficiency",
+  "last_run_notes": "Run 88 - INFERENCE-EFFICIENCY-PROBE per Rule 55 - information-theoretic KV-cache eviction + draft-augmented sparse verification + compression-aware adaptive gamma-selection - 3-axis pivot to inference-side-efficiency primitive triplet",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search_4query_self_improvement_loop_probe_rule52",
-  "run_method": "web_search_4query_self_improvement_loop_probe_rule52",
+  "last_run_method": "web_search_4query_inference_efficiency_probe_rule55",
+  "run_method": "web_search_4query_inference_efficiency_probe_rule55",
   "last_run_added": [
-    "2606.07367",
-    "2606.01075",
-    "2605.20914"
+    "2606.26875",
+    "2606.24957",
+    "2605.02888"
   ],
   "exploration_type": "emergent-concept",
   "emergent_concept_theme": "self-improvement-loop",
   "emergent_theme": "self-improvement-loop",
   "chains_updated": 0,
-  "entities_count": 267,
+  "entities_count": 270,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3740,6 +3740,33 @@
       "discovered": "2026-06-29T04:15:00+00:00",
       "theme": "watermarking-model-fingerprinting / output-provenance-detection",
       "date": "2026-01-20"
+    },
+    {
+      "arxiv_id": "2606.26875",
+      "slug": "information-aware-kv-cache-compression-for-long-reasoning-2606.26875",
+      "title": "Information-Aware KV Cache Compression for Long Reasoning",
+      "url": "https://arxiv.org/abs/2606.26875",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T04:26:56+00:00",
+      "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma"
+    },
+    {
+      "arxiv_id": "2606.24957",
+      "slug": "dustin-draft-augmented-sparse-verification-for-efficient-long-context-generation-with-speculative-decoding-2606.24957",
+      "title": "Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding",
+      "url": "https://arxiv.org/abs/2606.24957",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T04:26:56+00:00",
+      "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma"
+    },
+    {
+      "arxiv_id": "2605.02888",
+      "slug": "speckv-adaptive-speculative-decoding-with-compression-aware-gamma-selection-2605.02888",
+      "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+      "url": "https://arxiv.org/abs/2605.02888",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T04:26:56+00:00",
+      "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma"
     }
   ],
   "emergent_discoveries": [
@@ -5810,6 +5837,30 @@
       "vector": "emergent",
       "discovered": "2026-06-29T04:15:00+00:00",
       "theme": "watermarking-model-fingerprinting"
+    },
+    {
+      "arxiv_id": "2606.26875",
+      "title": "Information-Aware KV Cache Compression for Long Reasoning",
+      "slug": "information-aware-kv-cache-compression-for-long-reasoning-2606.26875",
+      "url": "https://arxiv.org/abs/2606.26875",
+      "discovered": "2026-06-29T04:26:56+00:00",
+      "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma"
+    },
+    {
+      "arxiv_id": "2606.24957",
+      "title": "Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding",
+      "slug": "dustin-draft-augmented-sparse-verification-for-efficient-long-context-generation-with-speculative-decoding-2606.24957",
+      "url": "https://arxiv.org/abs/2606.24957",
+      "discovered": "2026-06-29T04:26:56+00:00",
+      "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma"
+    },
+    {
+      "arxiv_id": "2605.02888",
+      "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+      "slug": "speckv-adaptive-speculative-decoding-with-compression-aware-gamma-selection-2605.02888",
+      "url": "https://arxiv.org/abs/2605.02888",
+      "discovered": "2026-06-29T04:26:56+00:00",
+      "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma"
     }
   ],
   "emergent_concept_search_log": [
@@ -8022,6 +8073,17 @@
         "2601.08189"
       ],
       "method": "web_search_4query_watermarking_model_fingerprinting_probe_rule54"
+    },
+    {
+      "run_number": 88,
+      "method": "web_search_4query_inference_efficiency_probe_rule55",
+      "theme": "inference-efficiency",
+      "picks": [
+        "2606.26875",
+        "2606.24957",
+        "2605.02888"
+      ],
+      "timestamp": "2026-06-29T04:26:56+00:00"
     }
   ],
   "runs": [
@@ -9180,6 +9242,23 @@
         "ForgetMark: Stealthy Fingerprint Embedding via Targeted Unlearning"
       ],
       "timestamp": "2026-06-29T04:15:00+00:00"
+    },
+    {
+      "run_number": 88,
+      "method": "web_search_4query_inference_efficiency_probe_rule55",
+      "theme": "inference-efficiency",
+      "notes": "Rule 55 INFERENCE-EFFICIENCY-PROBE verified (34th consecutive pitfall-83 \u2014 longest in wiki history by 21 runs); 3 picks structurally orthogonal to Run 87 watermarking-model-fingerprinting primitives \u2014 picks cover 3 distinct sub-axes of inference-side-efficiency primitive-class: (a) information-theoretic KV-cache eviction under long-reasoning decoding, (b) draft-augmented sparse verification as 87.5%-latency-recovery primitive in long-context speculative decoding, (c) compression-aware adaptive gamma-selection preserving acceptance under KV-cache compression. Pivoted from Run 87 signature-filtering-watermark-detection-hardening + ActHook-trajectory-copyright-94.3-detection-AUC + ForgetMark-LoRA-fingerprint-100%-ownership-verification (watermarking-model-fingerprinting primitive-class triplet) to information-theoretic-KV-cache-eviction + draft-augmented-sparse-verification + compression-aware-adaptive-gamma-selection primitive-class triplet. HF daily v2 returned 10 papers on 2026-06-29 with 100% CV/3D/Robotics heavy (PhysisForcing, SingGuard, Translation-as-Bridging-Action, ProMSA, Qwen-Image-2.0-RL, Ko-WideSearch, Formalizing-Latent-Thoughts, NormGuard, Automating-Scientific-Review, SimFoundry). web_search surfaced 3 fresh LLM candidates.",
+      "picks": [
+        "2606.26875",
+        "2606.24957",
+        "2605.02888"
+      ],
+      "picks_titles": [
+        "Information-Aware KV Cache Compression for Long Reasoning",
+        "Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding",
+        "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection"
+      ],
+      "timestamp": "2026-06-29T04:26:56+00:00"
     }
   ],
   "last_updated": "2026-06-29T05:30:00+00:00",
