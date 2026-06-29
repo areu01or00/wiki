@@ -2,13 +2,13 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T19:00:00+00:00",
+  "updated": "2026-06-29T18:05:46.380905+00:00",
   "__last_updated": "2026-06-29T19:00:00+00:00",
-  "last_run": 125,
+  "last_run": 126,
   "last_explore": "2026-06-29T19:00:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
-  "last_discovery": "2026-06-29T18:30:00+00:00",
-  "last_run_framing": "CAUSAL-REASONING-IN-LLM: CAUSAL-RESPONSIBILITY-SCORE + COUNTERFACTUAL-CONFORMAL-CoT + CROSS-MODAL-COUNTERFACTUAL-RL",
+  "last_discovery": "2026-06-29T18:05:46.380905+00:00",
+  "last_run_framing": "CAUSAL-REPRESENTATION-PROBE: BELIEF-OR-CIRCUITRY + CAUSAL-VALIDITY-CRITERION + EMERGENT-CAUSAL-GEOMETRIC",
   "last_framing": "MULTIAGENT-MEMORY-INTERFERENCE: MEMORY-LAUNDERING + CROSS-SESSION-STORED-INJECTION + SLEEPER-MEMORY-POISONING",
   "last_run_notes": "Run 124: 3-axis MULTIAGENT-MEMORY-INTERFERENCE: State Contamination memory-laundering + Cross-Session Stored Prompt Injection + Sleeper Memory Poisoning",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 384,
+  "entities_count": 387,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1657,6 +1657,66 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-29T10:48:14+00:00",
           "theme": "declarative-lm"
+        },
+        {
+          "arxiv_id": "2605.08405",
+          "slug": "belief-or-circuitry-causal-evidence-for-in-context-graph-learning",
+          "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+          "url": "https://arxiv.org/abs/2605.08405",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T18:05:22.101898+00:00",
+          "theme": "causal-representation / causal-geometry / causal-interpretability",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2602.16698",
+          "slug": "causality-is-key-for-interpretability-claims-to-generalise",
+          "title": "Causality is Key for Interpretability Claims to Generalise",
+          "url": "https://arxiv.org/abs/2602.16698",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T18:05:22.101910+00:00",
+          "theme": "causal-representation / causal-geometry / causal-interpretability",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2602.04931",
+          "slug": "emergent-causal-geometric-dynamics-across-depth-in-large-language-models",
+          "title": "Emergent Causal-Geometric Dynamics Across Depth in Large Language Models",
+          "url": "https://arxiv.org/abs/2602.04931",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T18:05:22.101915+00:00",
+          "theme": "causal-representation / causal-geometry / causal-interpretability",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2605.08405",
+          "slug": "belief-or-circuitry-causal-evidence-for-in-context-graph-learning",
+          "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+          "url": "https://arxiv.org/abs/2605.08405",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T18:05:46.380884+00:00",
+          "theme": "causal-representation / causal-geometry / causal-interpretability",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2602.16698",
+          "slug": "causality-is-key-for-interpretability-claims-to-generalise",
+          "title": "Causality is Key for Interpretability Claims to Generalise",
+          "url": "https://arxiv.org/abs/2602.16698",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T18:05:46.380896+00:00",
+          "theme": "causal-representation / causal-geometry / causal-interpretability",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2602.04931",
+          "slug": "emergent-causal-geometric-dynamics-across-depth-in-large-language-models",
+          "title": "Emergent Causal-Geometric Dynamics Across Depth in Large Language Models",
+          "url": "https://arxiv.org/abs/2602.04931",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T18:05:46.380901+00:00",
+          "theme": "causal-representation / causal-geometry / causal-interpretability",
+          "chain": "emergent-concepts"
         }
       ],
       "last_run": "2026-06-29T10:30:00+00:00",
@@ -4666,6 +4726,72 @@
       "discovered": "2026-06-29T19:00:00+00:00",
       "theme": "causal-reasoning-in-llm",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.08405",
+      "slug": "belief-or-circuitry-causal-evidence-for-in-context-graph-learning",
+      "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+      "url": "https://arxiv.org/abs/2605.08405",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T18:05:22.101843+00:00",
+      "theme": "causal-representation / causal-geometry / causal-interpretability",
+      "date": "2026/05/08",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2602.16698",
+      "slug": "causality-is-key-for-interpretability-claims-to-generalise",
+      "title": "Causality is Key for Interpretability Claims to Generalise",
+      "url": "https://arxiv.org/abs/2602.16698",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T18:05:22.101875+00:00",
+      "theme": "causal-representation / causal-geometry / causal-interpretability",
+      "date": "2026/03/18",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2602.04931",
+      "slug": "emergent-causal-geometric-dynamics-across-depth-in-large-language-models",
+      "title": "Emergent Causal-Geometric Dynamics Across Depth in Large Language Models",
+      "url": "https://arxiv.org/abs/2602.04931",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T18:05:22.101880+00:00",
+      "theme": "causal-representation / causal-geometry / causal-interpretability",
+      "date": "2026/05/26",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.08405",
+      "slug": "belief-or-circuitry-causal-evidence-for-in-context-graph-learning",
+      "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+      "url": "https://arxiv.org/abs/2605.08405",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T18:05:46.380832+00:00",
+      "theme": "causal-representation / causal-geometry / causal-interpretability",
+      "date": "2026/05/08",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2602.16698",
+      "slug": "causality-is-key-for-interpretability-claims-to-generalise",
+      "title": "Causality is Key for Interpretability Claims to Generalise",
+      "url": "https://arxiv.org/abs/2602.16698",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T18:05:46.380861+00:00",
+      "theme": "causal-representation / causal-geometry / causal-interpretability",
+      "date": "2026/03/18",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2602.04931",
+      "slug": "emergent-causal-geometric-dynamics-across-depth-in-large-language-models",
+      "title": "Emergent Causal-Geometric Dynamics Across Depth in Large Language Models",
+      "url": "https://arxiv.org/abs/2602.04931",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T18:05:46.380866+00:00",
+      "theme": "causal-representation / causal-geometry / causal-interpretability",
+      "date": "2026/05/26",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -7636,6 +7762,54 @@
       "url": "https://arxiv.org/abs/2606.23206",
       "discovered": "2026-06-29T19:00:00+00:00",
       "theme": "causal-reasoning-in-llm"
+    },
+    {
+      "arxiv_id": "2605.08405",
+      "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+      "slug": "belief-or-circuitry-causal-evidence-for-in-context-graph-learning",
+      "url": "https://arxiv.org/abs/2605.08405",
+      "discovered": "2026-06-29T18:05:22.101884+00:00",
+      "theme": "causal-representation"
+    },
+    {
+      "arxiv_id": "2602.16698",
+      "title": "Causality is Key for Interpretability Claims to Generalise",
+      "slug": "causality-is-key-for-interpretability-claims-to-generalise",
+      "url": "https://arxiv.org/abs/2602.16698",
+      "discovered": "2026-06-29T18:05:22.101892+00:00",
+      "theme": "causal-representation"
+    },
+    {
+      "arxiv_id": "2602.04931",
+      "title": "Emergent Causal-Geometric Dynamics Across Depth in Large Language Models",
+      "slug": "emergent-causal-geometric-dynamics-across-depth-in-large-language-models",
+      "url": "https://arxiv.org/abs/2602.04931",
+      "discovered": "2026-06-29T18:05:22.101895+00:00",
+      "theme": "causal-representation"
+    },
+    {
+      "arxiv_id": "2605.08405",
+      "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+      "slug": "belief-or-circuitry-causal-evidence-for-in-context-graph-learning",
+      "url": "https://arxiv.org/abs/2605.08405",
+      "discovered": "2026-06-29T18:05:46.380873+00:00",
+      "theme": "causal-representation"
+    },
+    {
+      "arxiv_id": "2602.16698",
+      "title": "Causality is Key for Interpretability Claims to Generalise",
+      "slug": "causality-is-key-for-interpretability-claims-to-generalise",
+      "url": "https://arxiv.org/abs/2602.16698",
+      "discovered": "2026-06-29T18:05:46.380878+00:00",
+      "theme": "causal-representation"
+    },
+    {
+      "arxiv_id": "2602.04931",
+      "title": "Emergent Causal-Geometric Dynamics Across Depth in Large Language Models",
+      "slug": "emergent-causal-geometric-dynamics-across-depth-in-large-language-models",
+      "url": "https://arxiv.org/abs/2602.04931",
+      "discovered": "2026-06-29T18:05:46.380881+00:00",
+      "theme": "causal-representation"
     }
   ],
   "emergent_concept_search_log": [
@@ -8969,6 +9143,28 @@
       "fresh_after_dedup": 9,
       "papers_added": 3,
       "method": "web_search 4-query via Rule 82 CAUSAL-REASONING-IN-LLM-PROBE"
+    },
+    {
+      "timestamp": "2026-06-29T18:05:22.101919+00:00",
+      "action": "arxiv_html_search_causal_representation_probe",
+      "candidates_found": 132,
+      "fresh_after_dedup": 20,
+      "picks": [
+        "2605.08405",
+        "2602.16698",
+        "2602.04931"
+      ]
+    },
+    {
+      "timestamp": "2026-06-29T18:05:46.380905+00:00",
+      "action": "arxiv_html_search_causal_representation_probe",
+      "candidates_found": 132,
+      "fresh_after_dedup": 20,
+      "picks": [
+        "2605.08405",
+        "2602.16698",
+        "2602.04931"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -10250,6 +10446,16 @@
       "fresh_after_dedup": 9,
       "papers_added": 3,
       "method": "web_search 4-query via Rule 82 CAUSAL-REASONING-IN-LLM-PROBE"
+    },
+    {
+      "run": 126,
+      "timestamp": "2026-06-29T18:05:22.101919+00:00",
+      "theme": "CAUSAL-REPRESENTATION-PROBE"
+    },
+    {
+      "run": 126,
+      "timestamp": "2026-06-29T18:05:46.380905+00:00",
+      "theme": "CAUSAL-REPRESENTATION-PROBE"
     }
   ],
   "runs": [
@@ -12133,6 +12339,30 @@
       "papers_added": 3,
       "vector": "emergent_concept_search",
       "method": "web_search 4-query CAUSAL-REASONING-IN-LLM-PROBE (Rule 82)"
+    },
+    {
+      "run": 126,
+      "timestamp": "2026-06-29T18:05:22.101919+00:00",
+      "theme": "CAUSAL-REPRESENTATION-PROBE",
+      "picks": [
+        "2605.08405",
+        "2602.16698",
+        "2602.04931"
+      ],
+      "method": "arxiv HTML search 6-query CAUSAL-REPRESENTATION-PROBE",
+      "picks_added": 3
+    },
+    {
+      "run": 126,
+      "timestamp": "2026-06-29T18:05:46.380905+00:00",
+      "theme": "CAUSAL-REPRESENTATION-PROBE",
+      "picks": [
+        "2605.08405",
+        "2602.16698",
+        "2602.04931"
+      ],
+      "method": "arxiv HTML search 6-query CAUSAL-REPRESENTATION-PROBE",
+      "picks_added": 3
     }
   ],
   "last_updated": "2026-06-29T19:00:00+00:00",
