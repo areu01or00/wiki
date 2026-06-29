@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T13:30:00+00:00",
-  "__last_updated": "2026-06-29T13:30:00+00:00",
-  "last_run": "Run 104 \u2014 gradient-flow-coordination",
-  "last_explore": "2026-06-29T09:53:00+00:00",
-  "last_global_explore": "2026-06-29T09:53:00+00:00",
-  "last_discovery": "2026-06-29T09:53:00+00:00",
-  "last_run_framing": "Run 103 \u2014 REPRESENTATIONAL-GEOMETRY-PROBE per Rule 70 \u2014 trace-internal-representation-geometry-of-minimal-cores + training-stage-abstraction-phase-emergence-geometry + cross-model-shared-embedding-geometry",
-  "last_framing": "Rule 70 REPRESENTATIONAL-GEOMETRY-PROBE \u2014 pick axes that probe the intrinsic geometric structure of LLM representations (intrinsic dimensionality of token embeddings, minimal-cores of overcomplete reasoning traces, shared global+local geometry of LLM embeddings, abstraction-phase emergence in transformer training, dimension-reduction across layers, confidence-geometry for trace-level correctness)",
-  "last_run_notes": "Rule 70 REPRESENTATIONAL-GEOMETRY-PROBE verified (49th consecutive pitfall-83 \u2014 longest in wiki history by 37 runs); 3 picks structurally orthogonal to Run 102 invariance-under-prompt-perturbation primitives \u2014 picks cover 3 distinct sub-layers of representational-geometry primitive-class: (a) trace-internal representation geometry (minimal-cores), (b) cross-model shared embedding geometry (universality), (c) training-stage abstraction-phase emergence geometry (phase transition).",
+  "updated": "2026-06-29T11:42:00+00:00",
+  "__last_updated": "2026-06-29T11:42:00+00:00",
+  "last_run": "Run 107 \u2014 cognitive-load-at-inference-time",
+  "last_explore": "2026-06-29T11:42:00+00:00",
+  "last_global_explore": "2026-06-29T11:42:00+00:00",
+  "last_discovery": "2026-06-29T11:42:00+00:00",
+  "last_run_framing": "Run 107 \u2014 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE per Rule 74 (candidate) \u2014 BAPO-extended CoT-token-complexity-lower-bound + training-free token-level-trigger-mode-switch + multilingual test-time-scaling linguistic-bottleneck primitive triplet",
+  "last_framing": "Rule 74 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE \u2014 pick axes that probe cognitive-load primitives at inference time (BAPO bounded-attention-prefix-oracle CoT-token-complexity lower bounds for canonical hard tasks, training-free intermediate-budget reasoning control via token-level triggers, multilingual test-time-scaling generalizability-failure with per-language diminishing returns)",
+  "last_run_notes": "Rule 74 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE verified (53rd consecutive pitfall-83 \u2014 longest in wiki history by 41 runs); 3 picks structurally orthogonal to Run 106 functional-mechanistic-interpretability primitives \u2014 picks cover 3 distinct sub-layers of cognitive-load-at-inference-time primitive-class: (a) CoT-token-complexity theoretical lower bound (BAPO), (b) training-free intermediate-budget reasoning control (Mid-Think token triggers), (c) multilingual test-time-scaling linguistic-bottleneck (MCLM).",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "REPRESENTATIONAL-GEOMETRY-PROBE (Rule 70) via arxiv search HTML 8-query escape hatch",
+  "last_run_method": "COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE (Rule 74) via arxiv search HTML 4-query escape hatch",
   "run_method": "emergent-concept-search-via-arxiv-search-HTML",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "representational-geometry",
-  "emergent_theme": "representational-geometry",
+  "emergent_concept_theme": "cognitive-load-at-inference-time",
+  "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 324,
+  "entities_count": 327,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4300,6 +4300,36 @@
       "slug": "patch-effect-graph-kernels-for-llm-interpretability-2605.06480",
       "discovered": "2026-06-29T13:30:00+00:00",
       "theme": "functional-mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2601.07036",
+      "slug": "mid-think-training-free-intermediate-budget-reasoning-via-token-level-triggers-2601.07036",
+      "title": "Mid-Think: Training-Free Intermediate-Budget Reasoning via Token-Level Triggers",
+      "url": "https://arxiv.org/abs/2601.07036",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T11:43:54.542568Z",
+      "theme": "cognitive-load-at-inference-time",
+      "run_number": 107
+    },
+    {
+      "arxiv_id": "2602.02909",
+      "slug": "reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms-2602.02909",
+      "title": "Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs",
+      "url": "https://arxiv.org/abs/2602.02909",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T11:43:54.542568Z",
+      "theme": "cognitive-load-at-inference-time",
+      "run_number": 107
+    },
+    {
+      "arxiv_id": "2502.17407",
+      "slug": "linguistic-generalizability-of-test-time-scaling-in-mathematical-reasoning-2502.17407",
+      "title": "Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2502.17407",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T11:43:54.542568Z",
+      "theme": "cognitive-load-at-inference-time",
+      "run_number": 107
     }
   ],
   "emergent_discoveries": [
@@ -6832,6 +6862,36 @@
       "url": "https://arxiv.org/abs/2605.06480",
       "discovered": "2026-06-29T13:30:00+00:00",
       "theme": "functional-mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2601.07036",
+      "title": "Mid-Think: Training-Free Intermediate-Budget Reasoning via Token-Level Triggers",
+      "slug": "mid-think-training-free-intermediate-budget-reasoning-via-token-level-triggers-2601.07036",
+      "url": "https://arxiv.org/abs/2601.07036",
+      "discovered": "2026-06-29T11:43:54.542568Z",
+      "theme": "cognitive-load-at-inference-time",
+      "online_date": "2026-06-02",
+      "run_number": 107
+    },
+    {
+      "arxiv_id": "2602.02909",
+      "title": "Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs",
+      "slug": "reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms-2602.02909",
+      "url": "https://arxiv.org/abs/2602.02909",
+      "discovered": "2026-06-29T11:43:54.542568Z",
+      "theme": "cognitive-load-at-inference-time",
+      "online_date": "2026-05-27",
+      "run_number": 107
+    },
+    {
+      "arxiv_id": "2502.17407",
+      "title": "Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning",
+      "slug": "linguistic-generalizability-of-test-time-scaling-in-mathematical-reasoning-2502.17407",
+      "url": "https://arxiv.org/abs/2502.17407",
+      "discovered": "2026-06-29T11:43:54.542568Z",
+      "theme": "cognitive-load-at-inference-time",
+      "online_date": "2025-08-01",
+      "run_number": 107
     }
   ],
   "emergent_concept_search_log": [
@@ -10934,6 +10994,27 @@
         "2605.06480"
       ],
       "notes": "Run 106 \u2014 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE (Rule 73 candidate) \u2014 pivoted from Run 105 declarative-LM axes to functional-mechanistic-interpretability primitive-class triplet: (a) concept-annotation as SAE-evaluation substrate (2606.24716) + (b) weight-regularization as SAE-stability-and-steerability enabler (2603.04198) + (c) patch-effect-graph-kernel as circuit-comparison substrate (2605.06480); HF daily v2 returned CV/3D-heavy content (52nd consecutive pitfall-83 streak); arxiv API rate-limited 429; arxiv search HTML + web_search escape hatch fired for FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE via 6 axes; full orthogonality to Run 105 declarative-LM picks verified; Rule 73 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE codified candidate."
+    },
+    {
+      "run_number": 107,
+      "theme": "cognitive-load-at-inference-time",
+      "rule": "Rule 74 (candidate)",
+      "timestamp": "2026-06-29T11:43:54.542568Z",
+      "date": "2026-06-29",
+      "picks": [
+        "mid-think-training-free-intermediate-budget-reasoning-via-token-level-triggers-2601.07036",
+        "reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms-2602.02909",
+        "linguistic-generalizability-of-test-time-scaling-in-mathematical-reasoning-2502.17407"
+      ],
+      "arxiv_ids": [
+        "2601.07036",
+        "2602.02909",
+        "2502.17407"
+      ],
+      "notes": "Run 107 \u2014 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE per Rule 74 (candidate) \u2014 pivoted from Run 106 functional-mechanistic-interpretability axes to BAPO-extended CoT-token-complexity lower bounds + training-free token-level-trigger intermediate-budget reasoning control + multilingual test-time-scaling linguistic-bottleneck primitive triplet; first arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE pivoted from Run 106 functional-mechanistic-interpretability axes; pitfall-83 streak extended to 53 consecutive runs (longest in wiki history by 41 runs); Rule 74 codified for future runs.",
+      "cycle_count": "53 consecutive pitfall-83 firings",
+      "prior_axis": "Run 106 functional-mechanistic-interpretability (concept-annotation SAE-evaluation + patch-effect-graph-kernel circuit-comparison + weight-regularization SAE-stability-steerability)",
+      "new_axis": "Rule 74 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE (BAPO-extended CoT-token-complexity-lower-bound + training-free token-level-trigger-mode-switch + multilingual test-time-scaling linguistic-bottleneck)"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
@@ -11052,5 +11133,6 @@
   "last_run_theme": "sample-efficiency-limit",
   "emergent_concept_papers_count": 279,
   "emergent_discoveries_count": 280,
-  "last_run_picks_count": 3
+  "last_run_picks_count": 3,
+  "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE"
 }

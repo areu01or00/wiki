@@ -991,7 +991,10 @@
         "1c178886e9584556b0cd8113d4a9f4a0",
         "2606.24716",
         "2603.04198",
-        "2605.06480"
+        "2605.06480",
+        "2601.07036",
+        "2602.02909",
+        "2502.17407"
       ],
       "last_results": [
         {
@@ -3846,6 +3849,42 @@
           "online_date": "2026-05-07",
           "run_number": 106,
           "pick_order": 9
+        },
+        {
+          "arxiv_id": "2601.07036",
+          "title": "Mid-Think: Training-Free Intermediate-Budget Reasoning via Token-Level Triggers",
+          "hash": "9ea4159688590a99b059ed91ddd72474",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "cognitive-load-at-inference-time",
+          "discovered": "2026-06-29T11:43:54.542568Z",
+          "slug": "mid-think-training-free-intermediate-budget-reasoning-via-token-level-triggers-2601.07036",
+          "online_date": "2026-06-02",
+          "run_number": 107
+        },
+        {
+          "arxiv_id": "2602.02909",
+          "title": "Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs",
+          "hash": "ea187168e419407f6d60040791f58629",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "cognitive-load-at-inference-time",
+          "discovered": "2026-06-29T11:43:54.542568Z",
+          "slug": "reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms-2602.02909",
+          "online_date": "2026-05-27",
+          "run_number": 107
+        },
+        {
+          "arxiv_id": "2502.17407",
+          "title": "Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning",
+          "hash": "39c0c8678023e7fb13918fdf8709183c",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "cognitive-load-at-inference-time",
+          "discovered": "2026-06-29T11:43:54.542568Z",
+          "slug": "linguistic-generalizability-of-test-time-scaling-in-mathematical-reasoning-2502.17407",
+          "online_date": "2025-08-01",
+          "run_number": 107
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4171,7 +4210,10 @@
     "1c178886e9584556b0cd8113d4a9f4a0",
     "2606.24716",
     "2603.04198",
-    "2605.06480"
+    "2605.06480",
+    "2601.07036",
+    "2602.02909",
+    "2502.17407"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -4490,7 +4532,10 @@
       "1c178886e9584556b0cd8113d4a9f4a0",
       "2606.24716",
       "2603.04198",
-      "2605.06480"
+      "2605.06480",
+      "2601.07036",
+      "2602.02909",
+      "2502.17407"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",
