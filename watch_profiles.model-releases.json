@@ -569,6 +569,8 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 56,
       "last_result_hashes": [
+        "96020f484cbecedda0df563faa43ee50",
+        "c45ea0712480d83a4d000b0f6826517e",
         "19401802832f91933d6b5319d90b9cec",
         "c25382dd8dcd3714e043ee488c3f3e0d",
         "94078a31b00f361456f169d431f904ac",
@@ -586,12 +588,10 @@
         "9cab8a20b24743284bc7e25b34e84d4e",
         "257575a61338a6a4ddc77e2a349307e0",
         "694c1de3078ce7cbc8371c32325b2761",
-        "4eeef383eff30649bd3deda67bdc7913",
-        "059e5b58d74e3f3dfe939734406cd8b1",
-        "0ca252737c9c34433c4b5f4b01a50a0e"
+        "4eeef383eff30649bd3deda67bdc7913"
       ],
-      "last_run": "2026-06-29T14:29:25.783171+00:00",
-      "run_count": 44,
+      "last_run": "2026-06-29T16:04:57.190990+00:00",
+      "run_count": 46,
       "last_checked": "2026-06-29T14:29:25.783171+00:00",
       "last_update_hash": null
     },
@@ -658,6 +658,16 @@
       "query": "kogai laneformer-2b-it model card release",
       "run_count": 32,
       "wiki_page": "entities/model-releases-tracker.md"
+    },
+    "yuvion-llm": {
+      "query": "Yuvion new model release LLM adversarial safety",
+      "category": "auto-discovered",
+      "run_count": 1,
+      "last_result_hashes": [
+        "e473e9140936e014125647bcb09f5a04"
+      ],
+      "discovered_at_cycle": "cycle 99",
+      "last_run": "2026-06-29T16:04:57.190950+00:00"
     }
   }
 }

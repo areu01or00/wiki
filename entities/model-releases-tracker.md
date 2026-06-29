@@ -18,6 +18,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-06-29** | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content And AI Safety](https://arxiv.org/abs/2606.27632) | kw: Yuvion LLM adversarial safety ICML | source: yuvion-llm
+- **2026-06-25** | [DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family](https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/) | kw: Ornith-1.0 deepreinforce coding RL | source: deepreinforce-ai
+- **2026-06-25** | [deepreinforce-ai/Ornith-1.0-9B - Hugging Face](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B) | kw: Ornith-1.0-9B open weights HF | source: deepreinforce-ai
 - **2026-06-29** | [Z.ai GLM-5.2 beats GPT-5.5 on long-horizon coding benchmarks](https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost) | kw: GLM-5.2 | source: glm-releases
 - **2026-06-29** | [Introducing GPT-5.6 series: Sol, Terra, and Luna](https://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna/1384931) | kw: GPT-5.6 Sol Terra Luna | source: openai-releases
 - **2026-06-29** | [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) | kw: GPT-5.6 Sol | source: openai-releases
@@ -181,4 +184,5 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **deepreinforce-ai** — cycle 56 — DeepReinforce AI Ornith model release coding agent weights
 - **liquid-ai** — cycle 59 — Liquid AI LFM2.5 family edge LLM open weights model release
 - **kog-ai** — cycle 68 — kogai laneformer-2b-it model card release (c89 reword: HF model-name anchor, c86 backlog applied 3 cycles late; replaces prior c73 "kogai Laneformer huggingface open weights latency-first")
+- **yuvion-llm** — cycle 99 — Yuvion LLM adversarial content safety model arXiv cs.CL Jun 2026 (auto-discovered via arXiv cs.CL new submission, new org not in known blocklist)
 
