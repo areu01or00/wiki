@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T17:00:00+00:00",
-  "__last_updated": "2026-06-29T17:00:00+00:00",
-  "last_run": 120,
-  "last_explore": "2026-06-29T16:30:00+00:00",
+  "__last_updated": "2026-06-29T17:30:00+00:00",
+  "last_run": 121,
+  "last_explore": "2026-06-29T17:30:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
-  "last_discovery": "2026-06-29T16:30:00+00:00",
-  "last_run_framing": "GROUNDED-ITERATIVE-PLANNING + MEMORY-UPDATE-GAP + EINSTEIN-WORLD-MODELS",
-  "last_framing": "GROUNDED-ITERATIVE-PLANNING + MEMORY-UPDATE-GAP + EINSTEIN-WORLD-MODELS",
-  "last_run_notes": "Run 121: 3-axis GROUNDED-ITERATIVE-PLANNING (GILP) + MEMORY-UPDATE-GAP (Supersede) + EINSTEIN-WORLD-MODELS (Einstein) discovery",
+  "last_discovery": "2026-06-29T17:30:00+00:00",
+  "last_run_framing": "FINE-TUNING-SAFETY-FAILURE-MODE: REWARD-HACK-GENERALIZATION + SAFETY-TOKEN-CONSTRAINT + ALIGNMENT-PRESERVING-FINETUNING",
+  "last_framing": "FINE-TUNING-SAFETY-FAILURE-MODE: REWARD-HACK-GENERALIZATION + SAFETY-TOKEN-CONSTRAINT + ALIGNMENT-PRESERVING-FINETUNING",
+  "last_run_notes": "Run 121: 3-axis FINE-TUNING-SAFETY-FAILURE-MODE: reward hacking generalization (School of Reward Hacks) + safety-token constraint (Few Tokens) + alignment-preserving fine-tuning (GradShield) discovery",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search 4-query TEST-TIME-COMPUTE + PROCESS-REWARD + PRM-SUPERVISION probe",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 372,
+  "entities_count": 375,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4555,6 +4555,27 @@
       "url": "https://arxiv.org/abs/2606.26969",
       "discovered": "2026-06-29T17:00:00+00:00",
       "theme": "physical reasoning / world models / beyond-language representation"
+    },
+    {
+      "arxiv_id": "2508.17511",
+      "title": "School of Reward Hacks",
+      "slug": "school-of-reward-hacks-hacking-harmless-tasks-generalizes-to-misaligned-behavior-in-llms-2508.17511",
+      "discovered": "2026-06-29T17:30:00+00:00",
+      "theme": "fine-tuning-safety-failure-mode"
+    },
+    {
+      "arxiv_id": "2603.07445",
+      "title": "Few Tokens Big Leverage",
+      "slug": "few-tokens-big-leverage-preserving-safety-alignment-by-constraining-safety-tokens-during-fine-tuning-2603.07445",
+      "discovered": "2026-06-29T17:30:00+00:00",
+      "theme": "fine-tuning-safety-failure-mode"
+    },
+    {
+      "arxiv_id": "2605.14194",
+      "title": "GradShield",
+      "slug": "gradshield-alignment-preserving-finetuning-2605.14194",
+      "discovered": "2026-06-29T17:30:00+00:00",
+      "theme": "fine-tuning-safety-failure-mode"
     }
   ],
   "emergent_discoveries": [
@@ -7429,6 +7450,30 @@
       "url": "https://arxiv.org/abs/2606.26969",
       "discovered": "2026-06-29T17:00:00+00:00",
       "theme": "physical reasoning / world models / beyond-language representation"
+    },
+    {
+      "arxiv_id": "2508.17511",
+      "title": "School of Reward Hacks: Hacking Harmless Tasks Generalizes to Misaligned Behavior in LLMs",
+      "slug": "school-of-reward-hacks-hacking-harmless-tasks-generalizes-to-misaligned-behavior-in-llms-2508.17511",
+      "url": "https://arxiv.org/abs/2508.17511",
+      "discovered": "2026-06-29T17:30:00+00:00",
+      "theme": "fine-tuning-safety-failure-mode"
+    },
+    {
+      "arxiv_id": "2603.07445",
+      "title": "Few Tokens, Big Leverage: Preserving Safety Alignment by Constraining Safety Tokens During Fine-tuning",
+      "slug": "few-tokens-big-leverage-preserving-safety-alignment-by-constraining-safety-tokens-during-fine-tuning-2603.07445",
+      "url": "https://arxiv.org/abs/2603.07445",
+      "discovered": "2026-06-29T17:30:00+00:00",
+      "theme": "fine-tuning-safety-failure-mode"
+    },
+    {
+      "arxiv_id": "2605.14194",
+      "title": "GradShield: Alignment Preserving Fine-tuning",
+      "slug": "gradshield-alignment-preserving-finetuning-2605.14194",
+      "url": "https://arxiv.org/abs/2605.14194",
+      "discovered": "2026-06-29T17:30:00+00:00",
+      "theme": "fine-tuning-safety-failure-mode"
     }
   ],
   "emergent_concept_search_log": [
@@ -11833,6 +11878,43 @@
         }
       ],
       "timestamp": "2026-06-29T17:00:00+00:00"
+    },
+    {
+      "run_number": 121,
+      "run_date": "2026-06-29T17:30:00+00:00",
+      "run_method": "web_search fine-tuning-safety-probe (Rule 79)",
+      "theme": "FINE-TUNING-SAFETY-FAILURE-MODE",
+      "framing": "REWARD-HACK-GENERALIZATION + SAFETY-TOKEN-CONSTRAINT + ALIGNMENT-PRESERVING-FINETUNING",
+      "papers_added": 3,
+      "paper_ids": [
+        "2508.17511",
+        "2603.07445",
+        "2605.14194"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2508.17511",
+          "title": "School of Reward Hacks: Hacking Harmless Tasks Generalizes to Misaligned Behavior in LLMs",
+          "slug": "school-of-reward-hacks-hacking-harmless-tasks-generalizes-to-misaligned-behavior-in-llms-2508.17511",
+          "vector": "emergent",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2603.07445",
+          "title": "Few Tokens, Big Leverage: Preserving Safety Alignment by Constraining Safety Tokens During Fine-tuning",
+          "slug": "few-tokens-big-leverage-preserving-safety-alignment-by-constraining-safety-tokens-during-fine-tuning-2603.07445",
+          "vector": "emergent",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2605.14194",
+          "title": "GradShield: Alignment Preserving Fine-tuning",
+          "slug": "gradshield-alignment-preserving-finetuning-2605.14194",
+          "vector": "emergent",
+          "chain": "emergent-concepts"
+        }
+      ],
+      "notes": "Rule 79: fine-tuning failure modes orthogonal to warmth-safety (Run 120)"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",

@@ -1036,7 +1036,10 @@
         "2606.25091",
         "01c5762b3fb4011a50c24f855feff47a",
         "a2029d9880469028315f5a3b881f46c5",
-        "3310446dc9c88cf0f478e5bd33473933"
+        "3310446dc9c88cf0f478e5bd33473933",
+        "2de08cc072ad3696fbd590c3aaab7a52",
+        "bc251a07d3834a87201d3b3fd7e6820d",
+        "0d2288d3980931fa500470ae90af37c2"
       ],
       "last_results": [
         {
@@ -4146,6 +4149,33 @@
           "chain": "emergent-concepts",
           "theme": "test-time compute / unified framework / modular reasoning",
           "discovered": "2026-06-29T16:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2508.17511",
+          "title": "School of Reward Hacks: Hacking Harmless Tasks Generalizes to Misaligned Behavior in LLMs",
+          "hash": "2de08cc072ad3696fbd590c3aaab7a52",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "fine-tuning-safety-failure-mode",
+          "discovered": "2026-06-29T17:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2603.07445",
+          "title": "Few Tokens, Big Leverage: Preserving Safety Alignment by Constraining Safety Tokens During Fine-tuning",
+          "hash": "bc251a07d3834a87201d3b3fd7e6820d",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "fine-tuning-safety-failure-mode",
+          "discovered": "2026-06-29T17:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2605.14194",
+          "title": "GradShield: Alignment Preserving Fine-tuning",
+          "hash": "0d2288d3980931fa500470ae90af37c2",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "fine-tuning-safety-failure-mode",
+          "discovered": "2026-06-29T17:30:00+00:00"
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4516,7 +4546,10 @@
     "2606.25091",
     "01c5762b3fb4011a50c24f855feff47a",
     "a2029d9880469028315f5a3b881f46c5",
-    "3310446dc9c88cf0f478e5bd33473933"
+    "3310446dc9c88cf0f478e5bd33473933",
+    "2de08cc072ad3696fbd590c3aaab7a52",
+    "bc251a07d3834a87201d3b3fd7e6820d",
+    "0d2288d3980931fa500470ae90af37c2"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -4880,7 +4913,10 @@
       "2606.25091",
       "01c5762b3fb4011a50c24f855feff47a",
       "a2029d9880469028315f5a3b881f46c5",
-      "3310446dc9c88cf0f478e5bd33473933"
+      "3310446dc9c88cf0f478e5bd33473933",
+      "2de08cc072ad3696fbd590c3aaab7a52",
+      "bc251a07d3834a87201d3b3fd7e6820d",
+      "0d2288d3980931fa500470ae90af37c2"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",
