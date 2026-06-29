@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-06-29T22:30:05.048825+00:00",
-  "last_run": 142,
-  "last_explore": "2026-07-01T00:45:00+00:00",
-  "last_global_explore": "2026-06-29T20:15:36.919500+00:00",
-  "last_discovery": "2026-07-01T00:45:00+00:00",
-  "last_run_framing": "LLM-INFERENCE-EFFICIENCY-PROBE (Rule 96)",
-  "last_framing": "LLM-INFERENCE-EFFICIENCY-PROBE: AutoPass + Beyond FLOPs + TwinQuant",
-  "last_run_notes": "Run 142: LLM-INFERENCE-EFFICIENCY-PROBE: AutoPass + Beyond FLOPs + TwinQuant",
+  "last_run": 143,
+  "last_explore": "2026-07-01T02:00:00+00:00",
+  "last_global_explore": "2026-07-01T02:00:00+00:00",
+  "last_discovery": "2026-07-01T02:00:00+00:00",
+  "last_run_framing": "MULTIAGENT-COMMUNICATION-PROTOCOL-PROBE (Rule 97)",
+  "last_framing": "MULTIAGENT-COMMUNICATION-PROTOCOL-PROBE: tap + Mesh Memory Protocol + MAS-PromptBench",
+  "last_run_notes": "Run 143: MULTIAGENT-COMMUNICATION-PROTOCOL-PROBE: tap + Mesh Memory Protocol + MAS-PromptBench",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search LLM-INFERENCE-EFFICIENCY-PROBE",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 436,
+  "entities_count": 439,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1771,9 +1771,30 @@
           "discovered": "2026-06-29T21:00:00+00:00",
           "theme": "jailbreak-survey-vlm-vulnerability-unified-defense",
           "online_date": "2026-01-07"
+        },
+        {
+          "arxiv_id": "2606.14445",
+          "slug": "tap-file-based-protocol-heterogeneous-llm-agent-collaboration-2606.14445",
+          "title": "tap: A File-Based Protocol for Heterogeneous LLM Agent Collaboration",
+          "url": "https://arxiv.org/abs/2606.14445",
+          "discovered": "2026-07-01T02:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2604.19540",
+          "slug": "mesh-memory-protocol-semantic-infrastructure-multi-agent-llm-2604.19540",
+          "title": "Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems",
+          "url": "https://arxiv.org/abs/2604.19540",
+          "discovered": "2026-07-01T02:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.23664",
+          "slug": "mas-promptbench-when-does-prompt-optimization-improve-multi-agent-llm-2606.23664",
+          "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
+          "url": "https://arxiv.org/abs/2606.23664",
+          "discovered": "2026-07-01T02:00:00+00:00"
         }
       ],
-      "last_run": "2026-06-29T10:30:00+00:00",
+      "last_run": "2026-07-01T02:00:00+00:00",
       "last_explore": "2026-06-29T10:30:00+00:00",
       "last_run_added": 3,
       "papers_found_count": 138,
@@ -5179,6 +5200,30 @@
       "url": "https://arxiv.org/abs/2606.01556",
       "discovered": "2026-07-01T00:45:00+00:00",
       "theme": "inference-efficiency / LLM optimization"
+    },
+    {
+      "arxiv_id": "2606.14445",
+      "title": "tap: A File-Based Protocol for Heterogeneous LLM Agent Collaboration",
+      "slug": "tap-file-based-protocol-heterogeneous-llm-agent-collaboration-2606.14445",
+      "url": "https://arxiv.org/abs/2606.14445",
+      "discovered": "2026-07-01T02:00:00+00:00",
+      "theme": "multi-agent / communication protocol / heterogeneity"
+    },
+    {
+      "arxiv_id": "2604.19540",
+      "title": "Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems",
+      "slug": "mesh-memory-protocol-semantic-infrastructure-multi-agent-llm-2604.19540",
+      "url": "https://arxiv.org/abs/2604.19540",
+      "discovered": "2026-07-01T02:00:00+00:00",
+      "theme": "multi-agent / memory / semantic infrastructure / cross-session"
+    },
+    {
+      "arxiv_id": "2606.23664",
+      "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
+      "slug": "mas-promptbench-when-does-prompt-optimization-improve-multi-agent-llm-2606.23664",
+      "url": "https://arxiv.org/abs/2606.23664",
+      "discovered": "2026-07-01T02:00:00+00:00",
+      "theme": "multi-agent / benchmarking / prompt optimization"
     }
   ],
   "emergent_discoveries": [
@@ -13470,6 +13515,18 @@
       ],
       "method": "arxiv HTML search 6-query LLM-INFERENCE-EFFICIENCY-PROBE",
       "notes": "3-axis probe: compiler-tuning agent / FLOPs-vs-latency gap / learnable quantization subspace"
+    },
+    {
+      "run": 143,
+      "timestamp": "2026-07-01T02:00:00+00:00",
+      "method": "arxiv HTML search MULTIAGENT-COMMUNICATION-PROBE",
+      "theme": "multi-agent / communication protocol / heterogeneity",
+      "papers_added": 3,
+      "papers": [
+        "2606.14445",
+        "2604.19540",
+        "2606.23664"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
