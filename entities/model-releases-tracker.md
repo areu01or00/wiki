@@ -18,6 +18,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-06-29** | [Best Open Source LLMs (2026) — Ranked by Benchmark Data](https://benchlm.ai/best/open-source) | kw: GLM-5.2 benchmarks leaderboard June 2026 | source: llm-stats-updates | 🚨 WEIGHTS DROP
+
 - **2026-06-29** | [MiniMax announces MiniMax M3, an open-weights multimodal...](https://digg.com/tech/cijdqtkn) | kw: weights drop | source: MiniMax | 🚨 WEIGHTS DROP
 - **2026-06-29** | [MiniMax M3: Open-Weight 1M-Context Coding Model - Nerd Level Tech](https://nerdleveltech.com/minimax-m3-open-weight-1m-context-coding-model) | kw: weights drop | source: MiniMax | 🚨 WEIGHTS DROP
 - **2026-06-29** | [MiniMax M3: The Open-Weight Model That... - Engr Mejba Ahmed](https://www.mejba.me/blog/minimax-m3-open-weight-model-first-look) | kw: weights drop | source: MiniMax | 🚨 WEIGHTS DROP
