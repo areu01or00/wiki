@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-29 — Run 129) — 3-axis EMERGENT-ADVERSARIAL-OFFENSE-PROBE discovery**
+
+- **AJAR: Adaptive Jailbreak Architecture for Red-teaming** ([2601.10971](https://arxiv.org/abs/2601.10971)) — adaptive multi-turn jailbreak via MCP services; AJAR improves X-Teaming from 65.0% → 76.0% ASR on HarmBench; tool access reshapes attack surface asymmetrically (Crescendo drops with tools, ActorAttack rises)
+- **Agentic Adversarial Rewriting Exposes Architectural Vulnerabilities** ([2604.23483](https://arxiv.org/abs/2604.23483)) — two-agent semantic perturbation under black-box constraints; 19.95–40.34% evasion on LLM-based misinformation pipelines; four exploitation patterns targeting distinct pipeline stages; pattern-informed defense reduces evasion by 65.18%
+- **Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense** ([2601.03594](https://arxiv.org/abs/2601.03594)) — systematic survey of jailbreak attacks/defenses on LLMs and VLMs; three-dimensional framework (attack/defense/evaluation); unified defense principles across perception, generation, and parameter layers; spans text-only to multimodal
+
 **2026-06-29 — Run 128) — 3-axis EMERGENT-ADVERSARIAL-DEFENSE-PROBE discovery**
 
 - [[risk-under-pressure-compute-aware-evaluation-adversarial-robustness-2606.11409]] — Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models (06-09) — Malikeh Ehghaghi, Boglárka Ecsedi, Marsha Chechik, Colin Raffel — first paper in the wiki to introduce **compute-aware adversarial robustness evaluation** — replaces fixed-query-budget ASR with computational pressure (cumulative FLOPs) as the cost metric, revealing that ASR-at-fixed-budget systematically misleads about true attacker cost-effort tradeoffs; surfaces *compute-aware-evaluation-metric* and *attack-cost-sensitivity* as the load-bearing adversarial-defense primitives; distinct from Run 127 ADVERSARIAL-REPRESENTATION-PROBE (Risk Under Pressure is evaluation methodology, not adversarial feature manipulation or backdoor detection). **First compute-aware robustness evaluation framework for LLMs in the wiki**, verified via `ls entities/ | grep -iE "(compute.aware|risk.under.pressure)"` returning empty. 2026-06-09; discovered via web_search EMERGENT-ADVERSARIAL-DEFENSE-PROBE on 2026-06-29.

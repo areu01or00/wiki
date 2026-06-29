@@ -3,12 +3,12 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T18:05:46.380905+00:00",
-  "__last_updated": "2026-06-29T19:00:00+00:00",
-  "last_run": 128,
-  "last_explore": "2026-06-29T20:30:00+00:00",
+  "__last_updated": "2026-06-29T21:00:00+00:00",
+  "last_run": 129,
+  "last_explore": "2026-06-29T21:00:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
-  "last_discovery": "2026-06-29T20:30:00+00:00",
-  "last_run_framing": "EMERGENT-ADVERSARIAL-DEFENSE-PROBE: COMPUTE-AWARE-EVAL + SEMANTIC-GRAPH-DEFENSE + NON-MONOTONIC-ALIGNMENT",
+  "last_discovery": "2026-06-29T21:00:00+00:00",
+  "last_run_framing": "EMERGENT-ADVERSARIAL-OFFENSE-PROBE: ADAPTIVE-JAILBREAK + BLACK-BOX-PIPELINE + JAILBREAK-SURVEY",
   "last_framing": "MULTIAGENT-MEMORY-INTERFERENCE: MEMORY-LAUNDERING + CROSS-SESSION-STORED-INJECTION + SLEEPER-MEMORY-POISONING",
   "last_run_notes": "Run 124: 3-axis MULTIAGENT-MEMORY-INTERFERENCE: State Contamination memory-laundering + Cross-Session Stored Prompt Injection + Sleeper Memory Poisoning",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 393,
+  "entities_count": 396,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1744,6 +1744,33 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-06-29T20:30:00+00:00",
           "theme": "adversarial-defense / alignment-regression"
+        },
+        {
+          "arxiv_id": "2601.10971",
+          "title": "AJAR: Adaptive Jailbreak Architecture for Red-teaming",
+          "slug": "ajar-adaptive-jailbreak-architecture-red-teaming-2601.10971",
+          "url": "https://arxiv.org/abs/2601.10971",
+          "discovered": "2026-06-29T21:00:00+00:00",
+          "theme": "adaptive-multi-turn-jailbreak-red-teaming-MCP-agentic",
+          "online_date": "2026-01-16"
+        },
+        {
+          "arxiv_id": "2604.23483",
+          "title": "Agentic Adversarial Rewriting Exposes Architectural Vulnerabilities in Black-Box NLP Pipelines",
+          "slug": "agentic-adversarial-rewriting-exposes-nlp-pipeline-vulnerabilities-2604.23483",
+          "url": "https://arxiv.org/abs/2604.23483",
+          "discovered": "2026-06-29T21:00:00+00:00",
+          "theme": "black-box-adversarial-rewriting-NLP-pipeline-vulnerability",
+          "online_date": "2026-04-26"
+        },
+        {
+          "arxiv_id": "2601.03594",
+          "title": "Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense",
+          "slug": "jailbreaking-llms-vlms-mechanisms-evaluation-unified-defense-2601.03594",
+          "url": "https://arxiv.org/abs/2601.03594",
+          "discovered": "2026-06-29T21:00:00+00:00",
+          "theme": "jailbreak-survey-vlm-vulnerability-unified-defense",
+          "online_date": "2026-01-07"
         }
       ],
       "last_run": "2026-06-29T10:30:00+00:00",
@@ -4846,6 +4873,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-29T20:30:00+00:00",
       "theme": "adversarial-defense / alignment-regression"
+    },
+    {
+      "arxiv_id": "2601.10971",
+      "title": "AJAR: Adaptive Jailbreak Architecture for Red-teaming",
+      "slug": "ajar-adaptive-jailbreak-architecture-red-teaming-2601.10971",
+      "url": "https://arxiv.org/abs/2601.10971",
+      "discovered": "2026-06-29T21:00:00+00:00",
+      "theme": "adaptive-multi-turn-jailbreak-red-teaming-MCP-agentic",
+      "online_date": "2026-01-16"
+    },
+    {
+      "arxiv_id": "2604.23483",
+      "title": "Agentic Adversarial Rewriting Exposes Architectural Vulnerabilities in Black-Box NLP Pipelines",
+      "slug": "agentic-adversarial-rewriting-exposes-nlp-pipeline-vulnerabilities-2604.23483",
+      "url": "https://arxiv.org/abs/2604.23483",
+      "discovered": "2026-06-29T21:00:00+00:00",
+      "theme": "black-box-adversarial-rewriting-NLP-pipeline-vulnerability",
+      "online_date": "2026-04-26"
+    },
+    {
+      "arxiv_id": "2601.03594",
+      "title": "Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense",
+      "slug": "jailbreaking-llms-vlms-mechanisms-evaluation-unified-defense-2601.03594",
+      "url": "https://arxiv.org/abs/2601.03594",
+      "discovered": "2026-06-29T21:00:00+00:00",
+      "theme": "jailbreak-survey-vlm-vulnerability-unified-defense",
+      "online_date": "2026-01-07"
     }
   ],
   "emergent_discoveries": [
@@ -7912,6 +7966,30 @@
       "url": "https://arxiv.org/abs/2606.00813",
       "discovered": "2026-06-29T20:30:00+00:00",
       "theme": "adversarial-defense / alignment-regression"
+    },
+    {
+      "arxiv_id": "2601.10971",
+      "title": "AJAR: Adaptive Jailbreak Architecture for Red-teaming",
+      "slug": "ajar-adaptive-jailbreak-architecture-red-teaming-2601.10971",
+      "url": "https://arxiv.org/abs/2601.10971",
+      "discovered": "2026-06-29T21:00:00+00:00",
+      "theme": "adaptive-multi-turn-jailbreak-red-teaming-MCP-agentic"
+    },
+    {
+      "arxiv_id": "2604.23483",
+      "title": "Agentic Adversarial Rewriting Exposes Architectural Vulnerabilities in Black-Box NLP Pipelines",
+      "slug": "agentic-adversarial-rewriting-exposes-nlp-pipeline-vulnerabilities-2604.23483",
+      "url": "https://arxiv.org/abs/2604.23483",
+      "discovered": "2026-06-29T21:00:00+00:00",
+      "theme": "black-box-adversarial-rewriting-NLP-pipeline-vulnerability"
+    },
+    {
+      "arxiv_id": "2601.03594",
+      "title": "Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense",
+      "slug": "jailbreaking-llms-vlms-mechanisms-evaluation-unified-defense-2601.03594",
+      "url": "https://arxiv.org/abs/2601.03594",
+      "discovered": "2026-06-29T21:00:00+00:00",
+      "theme": "jailbreak-survey-vlm-vulnerability-unified-defense"
     }
   ],
   "emergent_concept_search_log": [
@@ -9280,6 +9358,12 @@
       "candidates_found": 9,
       "fresh": 9,
       "timestamp": "2026-06-29T20:30:00+00:00"
+    },
+    {
+      "date": "2026-06-29T21:00:00+00:00",
+      "theme": "EMERGENT-ADVERSARIAL-OFFENSE-PROBE",
+      "candidates_found": 9,
+      "papers_added": 3
     }
   ],
   "emergent_concept_search_runs": [
@@ -10577,6 +10661,11 @@
       "theme": "EMERGENT-ADVERSARIAL-DEFENSE-PROBE",
       "papers_added": 3,
       "timestamp": "2026-06-29T20:30:00+00:00"
+    },
+    {
+      "run_number": 129,
+      "date": "2026-06-29T21:00:00+00:00",
+      "theme": "emergent-adversarial-offense"
     }
   ],
   "runs": [
@@ -12511,6 +12600,52 @@
         "2606.00813"
       ],
       "timestamp": "2026-06-29T20:30:00+00:00"
+    },
+    {
+      "run_number": 129,
+      "date": "2026-06-29T21:00:00+00:00",
+      "theme": "emergent-adversarial-offense",
+      "theme_full": "EMERGENT-ADVERSARIAL-OFFENSE-PROBE per Rule 86",
+      "rule_codified": 86,
+      "num_fresh_candidates": 9,
+      "num_picks": 3,
+      "substrate": "arxiv HTML search 4-query EMERGENT-ADVERSARIAL-OFFENSE-PROBE escape hatch",
+      "queries": [
+        "LLM adversarial attack generation adaptive 2026 arxiv",
+        "LLM jailbreak multi-turn orchestration 2026",
+        "adversarial data augmentation attack training language model 2026",
+        "semantic evasion strategies LLM adversarial 2026"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2601.10971",
+          "title": "AJAR: Adaptive Jailbreak Architecture for Red-teaming",
+          "slug": "ajar-adaptive-jailbreak-architecture-red-teaming-2601.10971",
+          "url": "https://arxiv.org/abs/2601.10971",
+          "discovered": "2026-06-29T21:00:00+00:00",
+          "theme": "adaptive-multi-turn-jailbreak-red-teaming-MCP-agentic",
+          "online_date": "2026-01-16"
+        },
+        {
+          "arxiv_id": "2604.23483",
+          "title": "Agentic Adversarial Rewriting Exposes Architectural Vulnerabilities in Black-Box NLP Pipelines",
+          "slug": "agentic-adversarial-rewriting-exposes-nlp-pipeline-vulnerabilities-2604.23483",
+          "url": "https://arxiv.org/abs/2604.23483",
+          "discovered": "2026-06-29T21:00:00+00:00",
+          "theme": "black-box-adversarial-rewriting-NLP-pipeline-vulnerability",
+          "online_date": "2026-04-26"
+        },
+        {
+          "arxiv_id": "2601.03594",
+          "title": "Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense",
+          "slug": "jailbreaking-llms-vlms-mechanisms-evaluation-unified-defense-2601.03594",
+          "url": "https://arxiv.org/abs/2601.03594",
+          "discovered": "2026-06-29T21:00:00+00:00",
+          "theme": "jailbreak-survey-vlm-vulnerability-unified-defense",
+          "online_date": "2026-01-07"
+        }
+      ],
+      "notes": "Rule 86 EMERGENT-ADVERSARIAL-OFFENSE-PROBE; 9 fresh LLM candidates from 9 unique arxiv IDs after 5-store dedup; 3 picks selected via Rule 27 domain-diversity + structurally-orthogonal principle"
     }
   ],
   "last_updated": "2026-06-29T19:00:00+00:00",
