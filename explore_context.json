@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T11:42:00+00:00",
   "__last_updated": "2026-06-29T11:42:00+00:00",
-  "last_run": 110,
-  "last_explore": "2026-06-29T12:30:00Z",
+  "last_run": 113,
+  "last_explore": "2026-06-29T13:45:00Z",
   "last_global_explore": "2026-06-29T12:30:00Z",
-  "last_discovery": "2026-06-29T12:30:00Z",
-  "last_run_framing": "causal-credit-assignment-prm + counterfactual-relational-reasoning + counterfactual-pragmatic-reasoning",
+  "last_discovery": "2026-06-29T13:45:00Z",
+  "last_run_framing": "latent-state-trajectory + first-order-test-time-optimization + knowledge-distillation-epistemic-uncertainty",
   "last_framing": "BEHAVIORAL-ECONOMICS + TEST-TIME-COMPUTE-EFFICIENCY",
   "last_run_notes": "Rule 76 (candidate) BEHAVIORAL-ECONOMICS-PROBE: utility-behavior gap + Kahneman-Tversky + persona-conditioned risk",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily v2 + web_search behavioral-economics 4-query escape hatch",
+  "last_run_method": "web_search 4-query LATENT-REASONING + TEST-TIME-GRADIENT + EPISTEMIC-UNCERTAINTY-QUANTIFICATION probe",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 333,
+  "entities_count": 345,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4369,7 +4369,10 @@
     "2604.01411",
     "2606.27739",
     "2606.23667",
-    "2606.18624"
+    "2606.18624",
+    "2604.15726",
+    "2603.04948",
+    "2602.01956"
   ],
   "emergent_discoveries": [
     {
@@ -7051,6 +7054,30 @@
       "url": "https://arxiv.org/abs/2606.18624",
       "discovered": "2026-06-29T12:45:00Z",
       "theme": "counterfactual-pragmatic-reasoning"
+    },
+    {
+      "arxiv_id": "2604.15726",
+      "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
+      "slug": "llm-reasoning-is-latent-not-the-chain-of-thought-2604.15726",
+      "url": "https://arxiv.org/abs/2604.15726",
+      "discovered": "2026-06-29T13:45:00Z",
+      "theme": "LATENT-REASONING + TEST-TIME-GRADIENT + EPISTEMIC-UNCERTAINTY-QUANTIFICATION"
+    },
+    {
+      "arxiv_id": "2603.04948",
+      "title": "\u2207-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
+      "slug": "nabla-reasoner-llm-reasoning-via-test-time-gradient-descent-in-latent-space-2603.04948",
+      "url": "https://arxiv.org/abs/2603.04948",
+      "discovered": "2026-06-29T13:45:00Z",
+      "theme": "LATENT-REASONING + TEST-TIME-GRADIENT + EPISTEMIC-UNCERTAINTY-QUANTIFICATION"
+    },
+    {
+      "arxiv_id": "2602.01956",
+      "title": "Efficient Epistemic Uncertainty Estimation for Large Language Models via Knowledge Distillation",
+      "slug": "efficient-epistemic-uncertainty-estimation-for-large-language-models-via-knowledge-distillation-2602.01956",
+      "url": "https://arxiv.org/abs/2602.01956",
+      "discovered": "2026-06-29T13:45:00Z",
+      "theme": "LATENT-REASONING + TEST-TIME-GRADIENT + EPISTEMIC-UNCERTAINTY-QUANTIFICATION"
     }
   ],
   "emergent_concept_search_log": [
@@ -11250,6 +11277,30 @@
         "2606.18624"
       ],
       "status": "completed"
+    },
+    {
+      "run_number": 113,
+      "date": "2026-06-29",
+      "picks": [
+        {
+          "arxiv_id": "2604.15726",
+          "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
+          "slug": "llm-reasoning-is-latent-not-the-chain-of-thought-2604.15726"
+        },
+        {
+          "arxiv_id": "2603.04948",
+          "title": "\u2207-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
+          "slug": "nabla-reasoner-llm-reasoning-via-test-time-gradient-descent-in-latent-space-2603.04948"
+        },
+        {
+          "arxiv_id": "2602.01956",
+          "title": "Efficient Epistemic Uncertainty Estimation for Large Language Models via Knowledge Distillation",
+          "slug": "efficient-epistemic-uncertainty-estimation-for-large-language-models-via-knowledge-distillation-2602.01956"
+        }
+      ],
+      "theme": "LATENT-REASONING + TEST-TIME-GRADIENT + EPISTEMIC-UNCERTAINTY-QUANTIFICATION",
+      "method": "web_search 4-query LATENT-REASONING + UNCERTAINTY-QUANTIFICATION probe",
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
