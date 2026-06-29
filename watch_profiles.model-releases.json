@@ -504,6 +504,7 @@
       "category": "major-lab",
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
+        "bb81a60984a5a61800e063d5c107e90a",
         "0ca252737c9c34433c4b5f4b01a50a0e",
         "8d60836579b93fab4fa09dea374a913f",
         "d5ff138824bcd28e7d75e14ac4564d96",
@@ -522,13 +523,12 @@
         "26f1ec6b5645b478651c3dbcd4dbd041",
         "8fe2170c6b5c10f9cfaa720a5bbdcf89",
         "681936ed24794ce4081ed957ef016636",
-        "93c4c40462336b8c14e392fe79573c43",
-        "ceb9af9460c4f6bc1b3b7b9f4791b93d"
+        "93c4c40462336b8c14e392fe79573c43"
       ],
-      "last_run": "2026-06-29T23:14:55Z",
+      "last_run": "20260629_234942",
       "last_update_hash": null,
       "query": "xAI Grok new model release API weights",
-      "run_count": 91,
+      "run_count": 92,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "inclusion-ai": {
