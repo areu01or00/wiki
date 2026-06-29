@@ -19,7 +19,7 @@
   "emergent_concept_theme": "tokenizer-level",
   "emergent_theme": "tokenizer-level",
   "chains_updated": 0,
-  "entities_count": 300,
+  "entities_count": 303,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4075,6 +4075,42 @@
       "title": "A Low-Rank Subspace Analysis of LLM Interventions",
       "theme": "negative-result-as-primitive",
       "discovered": "2026-06-29T11:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2603.29025",
+      "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
+      "slug": "the-model-says-walk-how-surface-heuristics-override-implicit-constraints-in-llm-reasoning-2603.29025",
+      "url": "https://arxiv.org/abs/2603.29025",
+      "discovered": "2026-06-29T12:00:00+00:00",
+      "theme": "heuristic-override-benchmark",
+      "theme_short": "heuristic-override",
+      "run": 99,
+      "vector": "emergent",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.25151",
+      "title": "Representation Without Control: Testing the Realization Effect in Language Models",
+      "slug": "representation-without-control-testing-the-realization-effect-in-language-models-2605.25151",
+      "url": "https://arxiv.org/abs/2605.25151",
+      "discovered": "2026-06-29T12:00:00+00:00",
+      "theme": "realization-effect-causal-control",
+      "theme_short": "realization-effect",
+      "run": 99,
+      "vector": "emergent",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2408.08210",
+      "title": "Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models",
+      "slug": "does-reasoning-emerge-examining-the-probabilities-of-causation-in-large-language-models-2408.08210",
+      "url": "https://arxiv.org/abs/2408.08210",
+      "discovered": "2026-06-29T12:00:00+00:00",
+      "theme": "probability-of-causation-reasoning",
+      "theme_short": "probability-of-causation",
+      "run": 99,
+      "vector": "emergent",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -6415,6 +6451,30 @@
       "theme": "negative-result-as-primitive",
       "online_date": "2026-06-12",
       "run_number": 98
+    },
+    {
+      "arxiv_id": "2603.29025",
+      "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
+      "slug": "the-model-says-walk-how-surface-heuristics-override-implicit-constraints-in-llm-reasoning-2603.29025",
+      "url": "https://arxiv.org/abs/2603.29025",
+      "discovered": "2026-06-29T12:00:00+00:00",
+      "theme": "heuristic-override-benchmark"
+    },
+    {
+      "arxiv_id": "2605.25151",
+      "title": "Representation Without Control: Testing the Realization Effect in Language Models",
+      "slug": "representation-without-control-testing-the-realization-effect-in-language-models-2605.25151",
+      "url": "https://arxiv.org/abs/2605.25151",
+      "discovered": "2026-06-29T12:00:00+00:00",
+      "theme": "realization-effect-causal-control"
+    },
+    {
+      "arxiv_id": "2408.08210",
+      "title": "Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models",
+      "slug": "does-reasoning-emerge-examining-the-probabilities-of-causation-in-large-language-models-2408.08210",
+      "url": "https://arxiv.org/abs/2408.08210",
+      "discovered": "2026-06-29T12:00:00+00:00",
+      "theme": "probability-of-causation-reasoning"
     }
   ],
   "emergent_concept_search_log": [
@@ -8819,6 +8879,25 @@
           "primitive": "low-rank-behavior-subspace-interaction + asymmetric-control-points + intervention-side-effect-as-architectural-property"
         }
       ]
+    },
+    {
+      "run_number": 99,
+      "date": "2026-06-29T12:00:00+00:00",
+      "theme": "null-model-comparison",
+      "queries": [
+        "PNS probability necessity sufficiency LLM",
+        "shuffle perturbation LLM evaluation",
+        "null hypothesis LLM benchmark",
+        "causal null result LLM",
+        "ablation minimal pair reasoning LLM",
+        "necessity sufficiency reasoning LLM",
+        "controlled comparison LLM mechanistic"
+      ],
+      "picks": [
+        "2603.29025",
+        "2605.25151",
+        "2408.08210"
+      ]
     }
   ],
   "runs": [
@@ -10219,6 +10298,42 @@
       "theme": "negative-result-as-primitive",
       "timestamp": "2026-06-29T11:30:00+00:00",
       "picks_count": 3
+    },
+    {
+      "run_number": 99,
+      "date": "2026-06-29T12:00:00+00:00",
+      "theme": "null-model-comparison",
+      "theme_full": "NULL-MODEL-COMPARISON-PROBE per Rule 66",
+      "picks": [
+        {
+          "arxiv_id": "2603.29025",
+          "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
+          "slug": "the-model-says-walk-how-surface-heuristics-override-implicit-constraints-in-llm-reasoning-2603.29025",
+          "url": "https://arxiv.org/abs/2603.29025",
+          "discovered": "2026-06-29T12:00:00+00:00",
+          "theme": "heuristic-override-benchmark",
+          "online_date": "2026-06-09"
+        },
+        {
+          "arxiv_id": "2605.25151",
+          "title": "Representation Without Control: Testing the Realization Effect in Language Models",
+          "slug": "representation-without-control-testing-the-realization-effect-in-language-models-2605.25151",
+          "url": "https://arxiv.org/abs/2605.25151",
+          "discovered": "2026-06-29T12:00:00+00:00",
+          "theme": "realization-effect-causal-control",
+          "online_date": "2026-05-24"
+        },
+        {
+          "arxiv_id": "2408.08210",
+          "title": "Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models",
+          "slug": "does-reasoning-emerge-examining-the-probabilities-of-causation-in-large-language-models-2408.08210",
+          "url": "https://arxiv.org/abs/2408.08210",
+          "discovered": "2026-06-29T12:00:00+00:00",
+          "theme": "probability-of-causation-reasoning",
+          "online_date": "2024-08-15"
+        }
+      ],
+      "notes": "Run 99 NULL-MODEL-COMPARISON-PROBE per Rule 66; 45th consecutive pitfall-83 firing; arxiv API rate-limited 429; web_search largely stale; arxiv search HTML for 7 specific null-model queries returned 251 unique candidates, 25 fresh; 3 picks selected via Rule 27 domain-diversity + first-in-wiki framing + structurally-orthogonal principle"
     }
   ],
   "last_updated": "2026-06-29T10:30:00+00:00",
