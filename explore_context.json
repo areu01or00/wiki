@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-06-29T19:06:28.349779+00:00",
-  "last_run": 130,
-  "last_explore": "2026-06-29T19:06:28.349779+00:00",
-  "last_global_explore": "2026-06-29T19:06:28.349779+00:00",
-  "last_discovery": "2026-06-29T19:06:28.349779+00:00",
-  "last_run_framing": "ADVERSARIAL-OFFENSE-CONTINUATION \u2014 Rule 86 extension",
-  "last_framing": "MULTIAGENT-MEMORY-INTERFERENCE: MEMORY-LAUNDERING + CROSS-SESSION-STORED-INJECTION + SLEEPER-MEMORY-POISONING",
-  "last_run_notes": "Run 124: 3-axis MULTIAGENT-MEMORY-INTERFERENCE: State Contamination memory-laundering + Cross-Session Stored Prompt Injection + Sleeper Memory Poisoning",
+  "last_run": 131,
+  "last_explore": "2026-06-29T21:45:00+00:00",
+  "last_global_explore": "2026-06-29T21:45:00+00:00",
+  "last_discovery": "2026-06-29T21:45:00+00:00",
+  "last_run_framing": "ADVERSARIAL-OFFENSE-CONTINUATION \u2014 Rule 87 extension",
+  "last_framing": "ADVERSARIAL-OFFENSE-CONTINUATION (Rule 87): JAILBREAK-OPT + FRAGFUSE + AUTODOJO",
+  "last_run_notes": "Run 131: Rule 87 ADVERSARIAL-OFFENSE-CONTINUATION: JailbreakOPT (tool-organized jailbreak taxonomy) + FragFuse (memory fragmentation attack) + AutoDojo (IPI defense limits)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 399,
+  "entities_count": 402,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4900,6 +4900,36 @@
       "discovered": "2026-06-29T21:00:00+00:00",
       "theme": "jailbreak-survey-vlm-vulnerability-unified-defense",
       "online_date": "2026-01-07"
+    },
+    {
+      "arxiv_id": "2606.11425",
+      "title": "JailbreakOPT: Tool-Assisted Iterative Jailbreak Prompt Optimization",
+      "slug": "jailbreakopt-tool-assisted-iterative-jailbreak-prompt-optimization-2606.11425",
+      "url": "https://arxiv.org/abs/2606.11425",
+      "theme": "adversarial-attack / tool-organized-jailbreak-taxonomy",
+      "discovered": "2026-06-29T21:45:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.15609",
+      "title": "FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion",
+      "slug": "fragfuse-bypassing-access-control-of-llm-agents-via-memory-based-query-fragmentation-and-fusion-2606.15609",
+      "url": "https://arxiv.org/abs/2606.15609",
+      "theme": "adversarial-attack / memory-subsystem-attack",
+      "discovered": "2026-06-29T21:45:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.15057",
+      "title": "AutoDojo: Adaptive Black-Box Attacks Reveal the Limits of IPI Defenses and Task-Specification Effects in LLM Agents",
+      "slug": "autodojo-adaptive-black-box-attacks-reveal-limits-of-ipi-defenses-and-task-specification-effects-2606.15057",
+      "url": "https://arxiv.org/abs/2606.15057",
+      "theme": "adversarial-attack / indirect-prompt-injection-defense-limits",
+      "discovered": "2026-06-29T21:45:00+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -8014,6 +8044,30 @@
       "url": "https://arxiv.org/abs/2605.10067",
       "discovered": "2026-06-29T21:30:00+00:00",
       "theme": "metacognitive-POMDP-jailbreaking-red-teaming"
+    },
+    {
+      "arxiv_id": "2606.11425",
+      "title": "JailbreakOPT: Tool-Assisted Iterative Jailbreak Prompt Optimization",
+      "slug": "jailbreakopt-tool-assisted-iterative-jailbreak-prompt-optimization-2606.11425",
+      "url": "https://arxiv.org/abs/2606.11425",
+      "discovered": "2026-06-29T21:45:00+00:00",
+      "theme": "adversarial-attack / tool-organized-jailbreak-taxonomy"
+    },
+    {
+      "arxiv_id": "2606.15609",
+      "title": "FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion",
+      "slug": "fragfuse-bypassing-access-control-of-llm-agents-via-memory-based-query-fragmentation-and-fusion-2606.15609",
+      "url": "https://arxiv.org/abs/2606.15609",
+      "discovered": "2026-06-29T21:45:00+00:00",
+      "theme": "adversarial-attack / memory-subsystem-attack"
+    },
+    {
+      "arxiv_id": "2606.15057",
+      "title": "AutoDojo: Adaptive Black-Box Attacks Reveal the Limits of IPI Defenses and Task-Specification Effects in LLM Agents",
+      "slug": "autodojo-adaptive-black-box-attacks-reveal-limits-of-ipi-defenses-and-task-specification-effects-2606.15057",
+      "url": "https://arxiv.org/abs/2606.15057",
+      "discovered": "2026-06-29T21:45:00+00:00",
+      "theme": "adversarial-attack / indirect-prompt-injection-defense-limits"
     }
   ],
   "emergent_concept_search_log": [
@@ -12716,6 +12770,11 @@
         }
       ],
       "notes": "Rule 86 extension ADVERSARIAL-OFFENSE-CONTINUATION; 23 fresh LLM candidates from arxiv HTML search; 3 picks; Governance Decay is first TOCTOU governance failure, SafeSpec is first safety-integrated speculative inference, Metis is first metacognitive POMDP jailbreaking"
+    },
+    {
+      "run": 131,
+      "date": "2026-06-29T21:45:00+00:00",
+      "count": 3
     }
   ],
   "last_updated": "2026-06-29T19:06:28.349779+00:00",
@@ -12832,9 +12891,9 @@
     "pitfall-109 self-reference check passed"
   ],
   "last_run_theme": "adversarial-offense-continuation",
-  "emergent_concept_papers_count": 357,
-  "emergent_discoveries_count": 364,
+  "emergent_concept_papers_count": 372,
+  "emergent_discoveries_count": 385,
   "last_run_picks_count": 3,
   "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE",
-  "last_run_timestamp": "2026-06-29T19:06:28.349779+00:00"
+  "last_run_timestamp": "2026-06-29T21:45:00+00:00"
 }
