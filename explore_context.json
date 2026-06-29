@@ -19,7 +19,7 @@
   "emergent_concept_theme": "representational-geometry",
   "emergent_theme": "representational-geometry",
   "chains_updated": 0,
-  "entities_count": 318,
+  "entities_count": 321,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1630,6 +1630,33 @@
           "discovered": "2026-06-29T10:29:45+00:00",
           "run_number": 104,
           "theme": "gradient-flow-coordination"
+        },
+        {
+          "arxiv_id": "2606.11961",
+          "slug": "categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-2606.11961",
+          "title": "Categorical Prior Lock-in: Why In-Context Learning Fails for Structured Data",
+          "url": "https://arxiv.org/abs/2606.11961",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T10:48:14+00:00",
+          "theme": "declarative-lm"
+        },
+        {
+          "arxiv_id": "2605.30052",
+          "slug": "repot-recoverable-program-of-thought-via-checkpoint-repair-2605.30052",
+          "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
+          "url": "https://arxiv.org/abs/2605.30052",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T10:48:14+00:00",
+          "theme": "declarative-lm"
+        },
+        {
+          "arxiv_id": "2603.27299",
+          "slug": "declarative-router-policy-compilation-from-inference-routing-to-agent-orchestration-cross-layer-verification-2603.27299",
+          "title": "From Inference Routing to Agent Orchestration: Declarative Policy Compilation with Cross-Layer Verification",
+          "url": "https://arxiv.org/abs/2603.27299",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T10:48:14+00:00",
+          "theme": "declarative-lm"
         }
       ],
       "last_run": "2026-06-29T10:30:00+00:00",
@@ -4225,6 +4252,33 @@
       "url": "https://arxiv.org/abs/2606.27771",
       "discovered": "2026-06-29T10:29:45+00:00",
       "theme": "gradient-flow-coordination"
+    },
+    {
+      "arxiv_id": "2606.11961",
+      "slug": "categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-2606.11961",
+      "title": "Categorical Prior Lock-in: Why In-Context Learning Fails for Structured Data",
+      "url": "https://arxiv.org/abs/2606.11961",
+      "vector": "emergent",
+      "discovered": "2026-06-29T10:48:14+00:00",
+      "theme": "declarative-lm"
+    },
+    {
+      "arxiv_id": "2605.30052",
+      "slug": "repot-recoverable-program-of-thought-via-checkpoint-repair-2605.30052",
+      "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
+      "url": "https://arxiv.org/abs/2605.30052",
+      "vector": "emergent",
+      "discovered": "2026-06-29T10:48:14+00:00",
+      "theme": "declarative-lm"
+    },
+    {
+      "arxiv_id": "2603.27299",
+      "slug": "declarative-router-policy-compilation-from-inference-routing-to-agent-orchestration-cross-layer-verification-2603.27299",
+      "title": "From Inference Routing to Agent Orchestration: Declarative Policy Compilation with Cross-Layer Verification",
+      "url": "https://arxiv.org/abs/2603.27299",
+      "vector": "emergent",
+      "discovered": "2026-06-29T10:48:14+00:00",
+      "theme": "declarative-lm"
     }
   ],
   "emergent_discoveries": [
@@ -6709,6 +6763,30 @@
       "url": "https://arxiv.org/abs/2606.27771",
       "discovered": "2026-06-29T10:29:45+00:00",
       "theme": "gradient-flow-coordination"
+    },
+    {
+      "arxiv_id": "2606.11961",
+      "title": "Categorical Prior Lock-in: Why In-Context Learning Fails for Structured Data",
+      "slug": "categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-2606.11961",
+      "url": "https://arxiv.org/abs/2606.11961",
+      "discovered": "2026-06-29T10:48:14+00:00",
+      "theme": "declarative-lm"
+    },
+    {
+      "arxiv_id": "2605.30052",
+      "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
+      "slug": "repot-recoverable-program-of-thought-via-checkpoint-repair-2605.30052",
+      "url": "https://arxiv.org/abs/2605.30052",
+      "discovered": "2026-06-29T10:48:14+00:00",
+      "theme": "declarative-lm"
+    },
+    {
+      "arxiv_id": "2603.27299",
+      "title": "From Inference Routing to Agent Orchestration: Declarative Policy Compilation with Cross-Layer Verification",
+      "slug": "declarative-router-policy-compilation-from-inference-routing-to-agent-orchestration-cross-layer-verification-2603.27299",
+      "url": "https://arxiv.org/abs/2603.27299",
+      "discovered": "2026-06-29T10:48:14+00:00",
+      "theme": "declarative-lm"
     }
   ],
   "emergent_concept_search_log": [
@@ -7968,6 +8046,24 @@
         "2606.28187",
         "2511.07397",
         "2606.27771"
+      ]
+    },
+    {
+      "timestamp": "2026-06-29T10:48:14+00:00",
+      "run_number": 105,
+      "queries": [
+        "declarative LM programming language semantic structured generation 2026 arxiv",
+        "prompt programs DSL for LLM code-as-action programmatic LM 2026 arxiv",
+        "compositional generalization LLM primitives symbolic DSL execution 2026 arxiv",
+        "retrieval augmented code generation structured output tool use DSL 2026 arxiv"
+      ],
+      "substrate": "arxiv API + arxiv search HTML escape hatch",
+      "candidates": 4,
+      "fresh_after_dedup": 4,
+      "picks": [
+        "2606.11961",
+        "2605.30052",
+        "2603.27299"
       ]
     }
   ],
@@ -10758,6 +10854,18 @@
         "inference-time knowledge transfer language model 2026",
         "flow-matching reward norm RL post-training 2026"
       ]
+    },
+    {
+      "run_number": 105,
+      "timestamp": "2026-06-29T10:48:14+00:00",
+      "theme": "declarative-lm",
+      "last_run_framing": "DECLARATIVE-LM-PROBE per Rule 72 candidate \u2014 declarative-LM-as-program primitives: non-Turing-complete DSL as orchestration substrate + checkpoint-repair PoT replay + categorical-prior-lock-in ICL failure",
+      "picks": [
+        "2606.11961",
+        "2605.30052",
+        "2603.27299"
+      ],
+      "notes": "Run 105 \u2014 DECLARATIVE-LM-PROBE (Rule 72 candidate) \u2014 pivoted from Run 104 gradient-flow-coordination axes to declarative-LM-as-program primitive-class triplet: (a) declarative-DSL-as-LLM-orchestration-substrate (2603.27299) + (b) declarative-PoT-with-checkpoint-repair-replay (2605.30052) + (c) ICL-failure-as-categorical-prior-lock-in (2606.11961); HF daily v2 returned CV/3D-heavy content (51st consecutive pitfall-83 streak); arxiv API + arxiv search HTML escape hatch fired for DECLARATIVE-LM-PROBE via 4 axes; full orthogonality to Run 104 gradient-flow-coordination picks verified."
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",

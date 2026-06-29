@@ -985,7 +985,10 @@
         "4709e47e645e17664b6512380bea7614",
         "df158c26d79625a3593076845d89fc6f",
         "bd9586746a6948e725868082bc8a0281",
-        "198e2b2107df38ec1ec1fecba18afd56"
+        "198e2b2107df38ec1ec1fecba18afd56",
+        "d0e19e4739b7ea3eeb5baf293c7a1809",
+        "82f9b724872f0e07c5c0a583764bb37f",
+        "1c178886e9584556b0cd8113d4a9f4a0"
       ],
       "last_results": [
         {
@@ -3762,6 +3765,45 @@
           "online_date": "2026-06-26",
           "run_number": 104,
           "pick_order": 3
+        },
+        {
+          "arxiv_id": "2606.11961",
+          "title": "Categorical Prior Lock-in: Why In-Context Learning Fails for Structured Data",
+          "hash": "d0e19e4739b7ea3eeb5baf293c7a1809",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "declarative-lm",
+          "discovered": "2026-06-29T10:48:14+00:00",
+          "slug": "categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-2606.11961",
+          "online_date": "2026-06-10",
+          "run_number": 105,
+          "pick_order": 4
+        },
+        {
+          "arxiv_id": "2605.30052",
+          "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
+          "hash": "82f9b724872f0e07c5c0a583764bb37f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "declarative-lm",
+          "discovered": "2026-06-29T10:48:14+00:00",
+          "slug": "repot-recoverable-program-of-thought-via-checkpoint-repair-2605.30052",
+          "online_date": "2026-05-28",
+          "run_number": 105,
+          "pick_order": 5
+        },
+        {
+          "arxiv_id": "2603.27299",
+          "title": "From Inference Routing to Agent Orchestration: Declarative Policy Compilation with Cross-Layer Verification",
+          "hash": "1c178886e9584556b0cd8113d4a9f4a0",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "declarative-lm",
+          "discovered": "2026-06-29T10:48:14+00:00",
+          "slug": "declarative-router-policy-compilation-from-inference-routing-to-agent-orchestration-cross-layer-verification-2603.27299",
+          "online_date": "2026-03-28",
+          "run_number": 105,
+          "pick_order": 6
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4081,7 +4123,10 @@
     "4709e47e645e17664b6512380bea7614",
     "df158c26d79625a3593076845d89fc6f",
     "bd9586746a6948e725868082bc8a0281",
-    "198e2b2107df38ec1ec1fecba18afd56"
+    "198e2b2107df38ec1ec1fecba18afd56",
+    "d0e19e4739b7ea3eeb5baf293c7a1809",
+    "82f9b724872f0e07c5c0a583764bb37f",
+    "1c178886e9584556b0cd8113d4a9f4a0"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -4394,7 +4439,10 @@
       "4709e47e645e17664b6512380bea7614",
       "df158c26d79625a3593076845d89fc6f",
       "bd9586746a6948e725868082bc8a0281",
-      "198e2b2107df38ec1ec1fecba18afd56"
+      "198e2b2107df38ec1ec1fecba18afd56",
+      "d0e19e4739b7ea3eeb5baf293c7a1809",
+      "82f9b724872f0e07c5c0a583764bb37f",
+      "1c178886e9584556b0cd8113d4a9f4a0"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",
