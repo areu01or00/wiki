@@ -1078,7 +1078,10 @@
         "fefba0eb4dbab31b06e196c9267c380e",
         "60ef4710bed7dd9264b90cd7abff090a",
         "73853584ba232d3a183998f7bd658973",
-        "fd22045d1f87ba2c63c754333b1cd99c"
+        "fd22045d1f87ba2c63c754333b1cd99c",
+        "73d59cdce93ff5e10029f67e89b07b74",
+        "c78714aa121d3da5eeab88842a52c7a2",
+        "80c2a1be824d6ed5f99b32330de82d8c"
       ],
       "last_results": [
         {
@@ -4323,6 +4326,45 @@
           "chain": "emergent-concepts",
           "theme": "LLM agent observability / evidence-grounding defect / overtrust environmental signals",
           "discovered": "2026-06-29T23:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.27027",
+          "title": "ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP",
+          "hash": "73d59cdce93ff5e10029f67e89b07b74",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "ADVERSARIAL-AGENTIC-FAILURE-PROBE",
+          "discovered": "2026-06-29T23:30:00+00:00",
+          "slug": null,
+          "online_date": null,
+          "run_number": 136,
+          "margin": null
+        },
+        {
+          "arxiv_id": "2606.15441",
+          "title": "Defending against Adaptive Prompt Injection Attacks via Reasoning-enabled Task Alignment",
+          "hash": "c78714aa121d3da5eeab88842a52c7a2",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "ADVERSARIAL-AGENTIC-FAILURE-PROBE",
+          "discovered": "2026-06-29T23:30:00+00:00",
+          "slug": null,
+          "online_date": null,
+          "run_number": 136,
+          "margin": null
+        },
+        {
+          "arxiv_id": "2606.04329",
+          "title": "From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents",
+          "hash": "80c2a1be824d6ed5f99b32330de82d8c",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "ADVERSARIAL-AGENTIC-FAILURE-PROBE",
+          "discovered": "2026-06-29T23:30:00+00:00",
+          "slug": null,
+          "online_date": null,
+          "run_number": 136,
+          "margin": null
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4735,7 +4777,10 @@
     "fefba0eb4dbab31b06e196c9267c380e",
     "60ef4710bed7dd9264b90cd7abff090a",
     "73853584ba232d3a183998f7bd658973",
-    "fd22045d1f87ba2c63c754333b1cd99c"
+    "fd22045d1f87ba2c63c754333b1cd99c",
+    "73d59cdce93ff5e10029f67e89b07b74",
+    "c78714aa121d3da5eeab88842a52c7a2",
+    "80c2a1be824d6ed5f99b32330de82d8c"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -5141,7 +5186,10 @@
       "fefba0eb4dbab31b06e196c9267c380e",
       "60ef4710bed7dd9264b90cd7abff090a",
       "73853584ba232d3a183998f7bd658973",
-      "fd22045d1f87ba2c63c754333b1cd99c"
+      "fd22045d1f87ba2c63c754333b1cd99c",
+      "73d59cdce93ff5e10029f67e89b07b74",
+      "c78714aa121d3da5eeab88842a52c7a2",
+      "80c2a1be824d6ed5f99b32330de82d8c"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",

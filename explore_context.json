@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-06-29T23:55:00+00:00",
-  "last_run": 135,
-  "last_explore": "2026-06-29T20:15:36.919500+00:00",
+  "__last_updated": "2026-06-29T23:30:00+00:00",
+  "last_run": 136,
+  "last_explore": "2026-06-29T23:30:00+00:00",
   "last_global_explore": "2026-06-29T20:15:36.919500+00:00",
   "last_discovery": "2026-06-29T20:15:36.919500+00:00",
-  "last_run_framing": "EMERGENT-AGENTIC-BENCHMARK-PROBE \u2014 Rule 91",
-  "last_framing": "EMERGENT-AGENTIC-BENCHMARK-PROBE (Rule 91): SIDCONARENA + DECOUPLING-RECONNAISSANCE + CONSTRAINT-MANIFOLD-CONTROL",
-  "last_run_notes": "Run 135: Rule 91 EMERGENT-AGENTIC-BENCHMARK-PROBE: SidConArena + Decoupling-Reconnaissance + Safe-Generalizable",
+  "last_run_framing": "ADVERSARIAL-AGENTIC-FAILURE-PROBE \u2014 Rule 92",
+  "last_framing": "ADVERSARIAL-AGENTIC-FAILURE-PROBE (Rule 92): ShareLock + Memory-Poisoning-Taxonomy + Adaptive-PI-Defense",
+  "last_run_notes": "Run 136: Rule 92 ADVERSARIAL-AGENTIC-FAILURE-PROBE: ShareLock + Memory-Poisoning-Taxonomy + Adaptive-PI-Defense",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 414,
+  "entities_count": 417,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5053,6 +5053,36 @@
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts",
       "hash": "fd22045d1f87ba2c63c754333b1cd99c"
+    },
+    {
+      "arxiv_id": "2606.27027",
+      "title": "ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP",
+      "slug": "sharelock-a-stealthy-multi-tool-threshold-poisoning-attack-against-mcp-2606.27027",
+      "url": "https://arxiv.org/abs/2606.27027",
+      "discovered": "2026-06-29T23:30:00+00:00",
+      "theme": "multi-tool threshold poisoning / MCP protocol security / agentic adversarial attack",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.04329",
+      "title": "From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents",
+      "slug": "from-untrusted-input-to-trusted-memory-a-systematic-study-of-memory-poisoning-attacks-in-llm-agents-2606.04329",
+      "url": "https://arxiv.org/abs/2606.04329",
+      "discovered": "2026-06-29T23:30:00+00:00",
+      "theme": "memory poisoning / four write channels / agentic adversarial attack",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.15441",
+      "title": "Defending against Adaptive Prompt Injection Attacks via Reasoning-enabled Task Alignment",
+      "slug": "defending-against-adaptive-prompt-injection-attacks-via-reasoning-enabled-task-alignment-2606.15441",
+      "url": "https://arxiv.org/abs/2606.15441",
+      "discovered": "2026-06-29T23:30:00+00:00",
+      "theme": "adaptive prompt injection / task alignment defense / agentic adversarial defense",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -8263,6 +8293,30 @@
       "url": "https://arxiv.org/abs/2606.24010",
       "discovered": "2026-06-29T20:15:36.919446+00:00",
       "theme": "agent-eval / safe multi-agent RL / constraint manifold control"
+    },
+    {
+      "arxiv_id": "2606.27027",
+      "title": "ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP",
+      "slug": "sharelock-a-stealthy-multi-tool-threshold-poisoning-attack-against-mcp-2606.27027",
+      "url": "https://arxiv.org/abs/2606.27027",
+      "discovered": "2026-06-29T23:30:00+00:00",
+      "theme": "multi-tool threshold poisoning / MCP protocol security / agentic adversarial attack"
+    },
+    {
+      "arxiv_id": "2606.04329",
+      "title": "From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents",
+      "slug": "from-untrusted-input-to-trusted-memory-a-systematic-study-of-memory-poisoning-attacks-in-llm-agents-2606.04329",
+      "url": "https://arxiv.org/abs/2606.04329",
+      "discovered": "2026-06-29T23:30:00+00:00",
+      "theme": "memory poisoning / four write channels / agentic adversarial attack"
+    },
+    {
+      "arxiv_id": "2606.15441",
+      "title": "Defending against Adaptive Prompt Injection Attacks via Reasoning-enabled Task Alignment",
+      "slug": "defending-against-adaptive-prompt-injection-attacks-via-reasoning-enabled-task-alignment-2606.15441",
+      "url": "https://arxiv.org/abs/2606.15441",
+      "discovered": "2026-06-29T23:30:00+00:00",
+      "theme": "adaptive prompt injection / task alignment defense / agentic adversarial defense"
     }
   ],
   "emergent_concept_search_log": [
@@ -9655,6 +9709,20 @@
         "2605.11215",
         "2605.08828"
       ]
+    },
+    {
+      "run": 136,
+      "timestamp": "2026-06-29T23:30:00+00:00",
+      "query_theme": "ADVERSARIAL-AGENTIC-FAILURE-PROBE",
+      "queries_used": [
+        "LLM agentic prompt injection attack 2026",
+        "multi-turn jailbreak agentic system vulnerability 2026",
+        "LLM agent tool sandbox escape attack 2026",
+        "agentic jailbreak environmental manipulation 2026"
+      ],
+      "candidates_total": 52,
+      "candidates_fresh": 27,
+      "picks": 3
     }
   ],
   "emergent_concept_search_runs": [
@@ -13038,6 +13106,20 @@
         "2606.24010"
       ],
       "notes": "Rule 91: SidConArena + Decoupling-Reconnaissance + Safe-Generalizable"
+    },
+    {
+      "run": 136,
+      "timestamp": "2026-06-29T23:30:00+00:00",
+      "theme": "ADVERSARIAL-AGENTIC-FAILURE-PROBE",
+      "rule": "Rule 92",
+      "picks": [
+        "2606.27027",
+        "2606.04329",
+        "2606.15441"
+      ],
+      "method": "arxiv HTML search + web_search",
+      "fresh_count": 27,
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T19:06:28.349779+00:00",

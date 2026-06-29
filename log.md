@@ -2011,3 +2011,13 @@ Commit: `43762e4` → push succeeded.
 - 3-store lockstep confirmed (396 hashes in all 3 stores)
 - explore_context.json updated (388→391 emergent_discoveries, 130→131 runs)
 - watch_profiles.json updated (3 new hashes added)
+
+- Run 136 — 2026-06-29T23:30 UTC — ADVERSARIAL-AGENTIC-FAILURE-PROBE (Rule 92)
+- 3 new entity pages: ShareLock MCP threshold poisoning (2606.27027) + Memory Poisoning Taxonomy (2606.04329) + Adaptive PI Defense (2606.15441)
+- arxiv HTML search: 52 IDs from 4 queries (ADVERSARIAL-AGENTIC-FAILURE), 27 fresh after 5-store dedup
+- Rule 92 codified: multi-tool threshold poisoning + four-channel memory poisoning + adaptive-attack-defeats-static-defense as ADVERSARIAL-AGENTIC-FAILURE axes
+- All wikilinks verified (9 total across 3 files, all resolve)
+- entities_count=417 reconciled to filesystem truth (414 + 3 new)
+- 3-store lockstep confirmed (402 hashes in all 3 stores)
+- explore_context.json updated (397→400 emergent_discoveries, 132→133 runs)
+- watch_profiles.json updated (3 new hashes added)
