@@ -1018,7 +1018,10 @@
         "c8706c72c33d37b6c4abb5e5148b5894",
         "2604.05876",
         "2606.27188",
-        "2606.27684"
+        "2606.27684",
+        "b859a31c3e4596dfd0832bc5492db2e9",
+        "9328eb4a30bd42938d9d9cfd125f9f07",
+        "9c3775febadbe7153b15e616e1da5441"
       ],
       "last_results": [
         {
@@ -4074,6 +4077,33 @@
           "chain": "emergent-concepts",
           "theme": "latent-reasoning-recommendation",
           "discovered": "2026-06-29T13:55:00+00:00"
+        },
+        {
+          "arxiv_id": "2408.03314",
+          "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Parameters",
+          "hash": "b859a31c3e4596dfd0832bc5492db2e9",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "test-time-compute / scaling-laws",
+          "discovered": "2026-06-29T15:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2601.17223",
+          "title": "Beyond Outcome Verification: Verifiable Process Reward Models for Structured Reasoning",
+          "hash": "9328eb4a30bd42938d9d9cfd125f9f07",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "process-reward-model / verification",
+          "discovered": "2026-06-29T15:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2510.08049",
+          "title": "From Outcome Signals to Process Supervisions for Large Language Models",
+          "hash": "9c3775febadbe7153b15e616e1da5441",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "process-reward-model / survey",
+          "discovered": "2026-06-29T15:00:00+00:00"
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4426,7 +4456,10 @@
     "c8706c72c33d37b6c4abb5e5148b5894",
     "2604.05876",
     "2606.27188",
-    "2606.27684"
+    "2606.27684",
+    "b859a31c3e4596dfd0832bc5492db2e9",
+    "9328eb4a30bd42938d9d9cfd125f9f07",
+    "9c3775febadbe7153b15e616e1da5441"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -4772,7 +4805,10 @@
       "c8706c72c33d37b6c4abb5e5148b5894",
       "2606.27188",
       "2606.27684",
-      "2604.05876"
+      "2604.05876",
+      "b859a31c3e4596dfd0832bc5492db2e9",
+      "9328eb4a30bd42938d9d9cfd125f9f07",
+      "9c3775febadbe7153b15e616e1da5441"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",
