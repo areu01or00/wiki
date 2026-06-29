@@ -23,7 +23,7 @@
   "emergent_concept_theme": "self-improvement-loop",
   "emergent_theme": "self-improvement-loop",
   "chains_updated": 0,
-  "entities_count": 264,
+  "entities_count": 267,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3710,6 +3710,36 @@
       "online_date": "2026-02-27",
       "theme": "active-inference-grounded-routing / free-energy-fusion / difficulty-aware-fast-slow-agent / variational-free-energy / varentropy",
       "discovered": "2026-06-29T03:55:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.18430",
+      "slug": "signature-filtering-a-lightweight-enhancement-for-watermark-detection-2606.18430",
+      "title": "Signature Filtering: A Lightweight Enhancement for Watermark Detection",
+      "url": "https://arxiv.org/abs/2606.18430",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T04:15:00+00:00",
+      "theme": "watermarking-model-fingerprinting / output-provenance-detection",
+      "date": "2026-06-24"
+    },
+    {
+      "arxiv_id": "2602.18700",
+      "slug": "acthook-watermarking-llm-agent-trajectories-2602.18700",
+      "title": "ActHook: Watermarking LLM Agent Trajectories",
+      "url": "https://arxiv.org/abs/2602.18700",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T04:15:00+00:00",
+      "theme": "watermarking-model-fingerprinting / output-provenance-detection",
+      "date": "2026-05-04"
+    },
+    {
+      "arxiv_id": "2601.08189",
+      "slug": "forgetmark-stealthy-fingerprint-embedding-via-targeted-unlearning-2601.08189",
+      "title": "ForgetMark: Stealthy Fingerprint Embedding via Targeted Unlearning",
+      "url": "https://arxiv.org/abs/2601.08189",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T04:15:00+00:00",
+      "theme": "watermarking-model-fingerprinting / output-provenance-detection",
+      "date": "2026-01-20"
     }
   ],
   "emergent_discoveries": [
@@ -5753,6 +5783,33 @@
       "url": "https://arxiv.org/abs/2602.23681",
       "discovered": "2026-06-29T03:55:00+00:00",
       "theme": "active-inference-grounded-routing / free-energy-fusion / difficulty-aware-fast-slow-agent / variational-free-energy / varentropy"
+    },
+    {
+      "arxiv_id": "2606.18430",
+      "title": "Signature Filtering: A Lightweight Enhancement for Watermark Detection",
+      "slug": "signature-filtering-a-lightweight-enhancement-for-watermark-detection-2606.18430",
+      "url": "https://arxiv.org/abs/2606.18430",
+      "vector": "emergent",
+      "discovered": "2026-06-29T04:15:00+00:00",
+      "theme": "watermarking-model-fingerprinting"
+    },
+    {
+      "arxiv_id": "2602.18700",
+      "title": "ActHook: Watermarking LLM Agent Trajectories",
+      "slug": "acthook-watermarking-llm-agent-trajectories-2602.18700",
+      "url": "https://arxiv.org/abs/2602.18700",
+      "vector": "emergent",
+      "discovered": "2026-06-29T04:15:00+00:00",
+      "theme": "watermarking-model-fingerprinting"
+    },
+    {
+      "arxiv_id": "2601.08189",
+      "title": "ForgetMark: Stealthy Fingerprint Embedding via Targeted Unlearning",
+      "slug": "forgetmark-stealthy-fingerprint-embedding-via-targeted-unlearning-2601.08189",
+      "url": "https://arxiv.org/abs/2601.08189",
+      "vector": "emergent",
+      "discovered": "2026-06-29T04:15:00+00:00",
+      "theme": "watermarking-model-fingerprinting"
     }
   ],
   "emergent_concept_search_log": [
@@ -7949,6 +8006,22 @@
       "candidates_surfaced": 17,
       "candidates_fresh": 17,
       "picks": 3
+    },
+    {
+      "timestamp": "2026-06-29T04:15:00+00:00",
+      "queries": [
+        "LLM watermarking statistical token distribution shift 2026 arxiv",
+        "neural watermark language model embedding signature provenance detection 2026 arxiv",
+        "model fingerprinting logit distribution signature LLM identification 2026 arxiv",
+        "AI-generated text detection stylistic fingerprint synthetic text provenance 2026 arxiv"
+      ],
+      "theme": "watermarking-model-fingerprinting",
+      "picks": [
+        "2606.18430",
+        "2602.18700",
+        "2601.08189"
+      ],
+      "method": "web_search_4query_watermarking_model_fingerprinting_probe_rule54"
     }
   ],
   "runs": [
@@ -9090,6 +9163,23 @@
         "ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference"
       ],
       "timestamp": "2026-06-29T03:55:00+00:00"
+    },
+    {
+      "run_number": 87,
+      "method": "web_search_4query_watermarking_model_fingerprinting_probe_rule54",
+      "theme": "watermarking-model-fingerprinting",
+      "notes": "Rule 54 WATERMARKING-MODEL-FINGERPRINTING-PROBE verified (33rd consecutive pitfall-83 \u2014 longest in wiki history by 20 runs); 3 picks structurally orthogonal to Run 86 test-time-compute-scaling primitives \u2014 picks cover 3 distinct sub-axes of watermarking-model-fingerprinting primitive-class: (a) signature-filtering as detection-time hardening for statistical watermarks with MILP-learned signature sets (4 watermark families \u00d7 4 corpora \u00d7 6 LLMs, 8-31% \u2192 78-99% weak-signal detection), (b) hook-action insertion at agent decision points for trajectory-dataset copyright (94.3 detection AUC on Qwen-2.5-Coder-7B across math/web/SE agents), (c) targeted-unlearning LoRA fingerprint embedding with 100% ownership verification + robustness to model merging. Pivoted from Run 86 propagation-based-multi-sample-aggregation + constrained-policy-optimization-test-time-compute-allocation + active-inference-grounded-difficulty-aware-routing-with-free-energy-fusion (test-time-compute-scaling primitive-class triplet) to signature-filtering-as-detection-time-hardening + hook-action-as-trajectory-copyright-protection + targeted-unlearning-as-stealthy-fingerprint-embedding (watermarking-model-fingerprinting primitive-class triplet). HF daily v2 returned 10 papers on 2026-06-29 with 10 fresh after 5-store dedup but ZERO watermarking-model-fingerprinting primitives (all CV/3D/VLM/Robotics heavy). web_search surfaced 5 fresh LLM candidates.",
+      "picks": [
+        "2606.18430",
+        "2602.18700",
+        "2601.08189"
+      ],
+      "picks_titles": [
+        "Signature Filtering: A Lightweight Enhancement for Watermark Detection",
+        "ActHook: Watermarking LLM Agent Trajectories",
+        "ForgetMark: Stealthy Fingerprint Embedding via Targeted Unlearning"
+      ],
+      "timestamp": "2026-06-29T04:15:00+00:00"
     }
   ],
   "last_updated": "2026-06-29T05:30:00+00:00",

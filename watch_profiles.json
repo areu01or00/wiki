@@ -931,7 +931,10 @@
         "2605.20914",
         "2606.08098",
         "2604.14853",
-        "2602.23681"
+        "2602.23681",
+        "2606.18430",
+        "2602.18700",
+        "2601.08189"
       ],
       "last_results": [
         {
@@ -3042,6 +3045,42 @@
           "slug": "odar-principled-adaptive-routing-for-llm-reasoning-via-active-inference-2602.23681",
           "online_date": "2026-02-27",
           "run_number": 86
+        },
+        {
+          "arxiv_id": "2606.18430",
+          "title": "Signature Filtering: A Lightweight Enhancement for Watermark Detection",
+          "hash": "f773987375d336f1c8dc56f5a4b9fab7",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "watermarking-model-fingerprinting / output-provenance-detection",
+          "discovered": "2026-06-29T04:15:00+00:00",
+          "slug": "signature-filtering-a-lightweight-enhancement-for-watermark-detection-2606.18430",
+          "online_date": "2026-06-24",
+          "run_number": 87
+        },
+        {
+          "arxiv_id": "2602.18700",
+          "title": "ActHook: Watermarking LLM Agent Trajectories",
+          "hash": "9db9f90b987f09acf4208e65dbeb88fe",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "watermarking-model-fingerprinting / output-provenance-detection",
+          "discovered": "2026-06-29T04:15:00+00:00",
+          "slug": "acthook-watermarking-llm-agent-trajectories-2602.18700",
+          "online_date": "2026-05-04",
+          "run_number": 87
+        },
+        {
+          "arxiv_id": "2601.08189",
+          "title": "ForgetMark: Stealthy Fingerprint Embedding via Targeted Unlearning",
+          "hash": "56cc3885c8d5b11d6f022cefd36d4d01",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "watermarking-model-fingerprinting / output-provenance-detection",
+          "discovered": "2026-06-29T04:15:00+00:00",
+          "slug": "forgetmark-stealthy-fingerprint-embedding-via-targeted-unlearning-2601.08189",
+          "online_date": "2026-01-20",
+          "run_number": 87
         }
       ],
       "last_run": "2026-06-29T05:30:00+00:00",
@@ -3307,7 +3346,10 @@
     "2605.20914",
     "2606.08098",
     "2604.14853",
-    "2602.23681"
+    "2602.23681",
+    "2606.18430",
+    "2602.18700",
+    "2601.08189"
   ],
   "last_discovery": "2026-06-29T05:30:00+00:00",
   "last_updated": "2026-06-29T03:55:00+00:00",
@@ -3566,7 +3608,10 @@
       "2605.20914",
       "2606.08098",
       "2604.14853",
-      "2602.23681"
+      "2602.23681",
+      "2606.18430",
+      "2602.18700",
+      "2601.08189"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T05:30:00+00:00",
