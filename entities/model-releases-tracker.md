@@ -18,6 +18,49 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-06-29** | [Z.ai GLM-5.2 beats GPT-5.5 on long-horizon coding benchmarks](https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost) | kw: GLM-5.2 | source: glm-releases
+- **2026-06-29** | [Introducing GPT-5.6 series: Sol, Terra, and Luna](https://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna/1384931) | kw: GPT-5.6 Sol Terra Luna | source: openai-releases
+- **2026-06-29** | [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) | kw: GPT-5.6 Sol | source: openai-releases
+- **2026-06-29** | [GPT-5.6 Preview System Card - Deployment Safety Hub](https://deploymentsafety.openai.com/gpt-5-6-preview) | kw: GPT-5.6 | source: openai-releases
+- **2026-06-29** | [OpenAI Release Notes June 2026 Latest Updates](https://www.releasebot.io/updates/openai) | kw: GPT-5.6 | source: openai-releases
+- **2026-06-29** | [OpenAI Launches GPT-5.6 With Sol, Terra and Luna Models](https://memeburn.com/openai-launches-gpt-5-6-with-sol-terra-and-luna-models/) | kw: GPT-5.6 | source: openai-releases
+- **2026-06-29** | [MiniMax M3 open-weight multimodal model - Opper AI](https://opper.ai/minimax/m3) | kw: MiniMax M3 | source: MiniMax
+- **2026-06-29** | [MiniMax AI releases MiniMax M3 open-weight multimodal](https://digg.com/tech/a8ckwh19) | kw: MiniMax M3 | source: MiniMax
+- **2026-06-29** | [Zhipu GLM-6 Open-Weight Chinese Frontier](https://presenc.ai/research/glm-6-release-brief) | kw: GLM-6 | source: glm-releases
+- **2026-06-29** | [Zhipu AI releases GLM-5.2 open-weight AI model](https://datanorth.ai/news/zhipu-ai-releases-glm-5-2) | kw: GLM-5.2 | source: glm-releases
+- **2026-06-29** | [GLM 5.2 Just Dropped: Zhipu's New Open-Weights Flagship](https://www.webnuz.com/article/2026-06-14/GLM+5.2+Just+Dropped:+What+Zhipu's+New+Open-Weights+Flagship+Means+for+Developers) | kw: GLM-5.2 | source: glm-releases
+- **2026-06-29** | [GLM-5.2 Released: Zhipu AI's 1M Context Open-Source Model](https://aitoolly.com/ai-news/article/2026-06-14-zhipu-ai-releases-glm-52-a-fully-open-source-frontier-model-featuring-a-1m-context-window) | kw: GLM-5.2 | source: glm-releases
+- **2026-06-29** | [GLM-5.2 & GLM-5.1 & GLM-5 GitHub](https://github.com/zai-org/GLM-5) | kw: GLM-5.2 | source: glm-releases
+- **2026-06-29** | [Alibaba Qwen Model Lineage & Roadmap 2026: Qwen3 to Qwen3.6 Max](https://presenc.ai/research/alibaba-qwen-model-lineage-and-roadmap-2026) | kw: Qwen3 Qwen3.6 | source: qwen-releases
+- **2026-06-29** | [Alibaba Expands Qwen3 Family With 1T Parameter Max, Open Weights](https://www.deeplearning.ai/the-batch/alibaba-expands-qwen3-family-with-1-trillion-parameter-max-open-weights-qwen3-vl-and-qwen3-omni-voice-model) | kw: Qwen3 | source: qwen-releases
+- **2026-06-29** | [Alibaba unveils Qwen3.5 as China's chatbot race shifts to AI agents](https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html) | kw: Qwen3.5 | source: qwen-releases
+- **2026-06-29** | [Qwen 3.5 + 3.6 + 3.7 Max: Alibaba Open-Weights Guide 2026](https://codersera.com/blog/qwen-3-5-complete-guide-2026/) | kw: Qwen3.5 Qwen3.6 | source: qwen-releases
+- **2026-06-29** | [DeepSeek Version History: V1 to V4 Evolution Timeline](https://freedeepseekapi.com/history) | kw: DeepSeek V4 | source: deepseek-releases
+- **2026-06-29** | [DeepSeek API Documentation - Complete Reference 2026](https://deepseeksr1.com/api-docs/) | kw: DeepSeek V4 API | source: deepseek-releases
+- **2026-06-29** | [DeepSeek Change Log: V4-Pro and V4-Flash](https://api-docs.deepseek.com/updates/) | kw: DeepSeek V4 | source: deepseek-releases
+- **2026-06-29** | [Best Open Source LLMs June 2026 - Thunder Compute](https://www.thundercompute.com/blog/best-open-source-llms) | kw: Llama4 DeepSeek Qwen | source: meta-llama-releases
+- **2026-06-29** | [How to Run Llama 4 with Ollama - June 2026](https://www.thundercompute.com/blog/llama-4-ai-model-ollama) | kw: Llama 4 | source: meta-llama-releases
+- **2026-06-29** | [Mistral AI CEO teases new 'fat' model family for early access July](https://digg.com/tech/5oyrb6pf) | kw: Mistral new model July | source: mistral-releases
+- **2026-06-29** | [Mistral teases new fat model family for early access in July](https://cryptobriefing.com/mistral-new-fat-model/) | kw: Mistral new model July | source: mistral-releases
+- **2026-06-29** | [Mistral OCR 4 - June 23 2026](https://mistral.ai/news/) | kw: Mistral OCR 4 | source: mistral-releases
+- **2026-06-29** | [Anthropic files to go public - IPO June 2026](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) | kw: Anthropic IPO | source: anthropic-releases
+- **2026-06-29** | [Moonshot AI Releases Kimi K2.7-Code - June 12 2026](https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/) | kw: Kimi K2.7-Code | source: kimi-releases
+- **2026-06-29** | [Kimi K2.7-Code - HuggingFace](https://huggingface.co/moonshotai/Kimi-K2.7-Code) | kw: Kimi K2.7-Code | source: kimi-releases
+- **2026-06-29** | [Sakana Fugu: One Model to Command Them All](https://elephas.app/resources/sakana-fugu-one-model-to-command-them-all) | kw: Sakana Fugu | source: sakana-releases
+- **2026-06-29** | [Japan Just Dropped an AI That Beats Claude - Sakana Fugu](https://medium.com/the-ai-studio/japan-just-dropped-an-ai-that-beats-claude-sakana-fugu-6db9a9fafebc) | kw: Sakana Fugu | source: sakana-releases
+- **2026-06-29** | [Sakana AI Fugu multi-agent system rivals frontier models](https://www.labellerr.com/blog/sakana-fugu-multi-agent-ai-system/) | kw: Sakana Fugu | source: sakana-releases
+- **2026-06-29** | [Liquid AI LFM2.5-230M: Built to Run Anywhere](https://www.liquid.ai/blog/lfm2-5-230m) | kw: LFM2.5-230M | source: liquid-ai
+- **2026-06-29** | [Liquid AI LFM2.5-8B-A1B: Edge MoE model for tool calling](https://www.threads.com/@sung.kim.mw/post/DaBLo6SmKel/liquid-a-is-lfm-m-open-weight-and-run-fast-anywhere-cp-us-np-us-and-gp-us-m/) | kw: LFM2.5-8B | source: liquid-ai
+- **2026-06-29** | [Krea 2 Open-Source: RAW and Turbo Image Models](https://www.krea.ai/krea-2-open-source) | kw: Krea 2 | source: krea
+- **2026-06-29** | [Krea 2 Technical Report - 6 days ago](https://www.krea.ai/blog/krea-2-technical-report) | kw: Krea 2 | source: krea
+- **2026-06-29** | [Krea Opens Krea 2's 12B Image Model - Alpha Signal](https://alphasignal.ai/news/krea-opens-krea-2-s-12b-image-model-so-anyone-can-train-and-deploy) | kw: Krea 2 | source: krea
+- **2026-06-29** | [Cohere Command R2 API Launch - Enterprise LLM](https://techdailyshot.com/blog/cohere-command-r2-api-enterprise-llm-ops) | kw: Command R2 API | source: cohere-command
+- **2026-06-29** | [Cohere Command A+ Released](https://docs.cohere.com/changelog) | kw: Command A+ | source: cohere-command
+- **2026-06-29** | [InclusionAI Ring-2.6-1T: Trillion-Param Open Weights Reasoning](https://codersera.com/blog/ring-2-6-1t-ant-group-trillion-parameter-reasoning-model-2026/) | kw: Ring-2.6-1T | source: inclusion-ai
+- **2026-06-29** | [swiss-ai/Apertus-70B-Instruct-2509 - HuggingFace](https://huggingface.co/swiss-ai/Apertus-70B-Instruct-2509?inference_api=true) | kw: Apertus | source: swiss-ai-apertus
+- **2026-06-29** | [DeepSeek-V3 GitHub](https://github.com/deepseek-ai/DeepSeek-V3) | kw: DeepSeek-V3 | source: deepseek-releases
+- **2026-06-29** | [DeepSeek-V3 HuggingFace](https://huggingface.co/deepseek-ai/DeepSeek-V3) | kw: DeepSeek-V3 | source: deepseek-releases
+
 - **2026-06-26** | [Previewing GPT-5.6 Sol: a next-generation model - OpenAI](https://openai.com/index/previewing-gpt-5-6-sol/) | kw: GPT-5.6 Sol | source: openai-releases
 - **2026-06-26** | [GPT-5.6 Preview System Card - Deployment Safety Hub](https://deploymentsafety.openai.com/gpt-5-6-preview) | kw: GPT-5.6 | source: openai-releases
 - **2026-06-26** | [A preview of GPT-5.6 Sol, Terra, and Luna - OpenAI Help Center](https://help.openai.com/en/articles/20001325-a-preview-of-gpt-56-sol-terra-and-luna) | kw: GPT-5.6 | source: openai-releases
