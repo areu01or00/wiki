@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T03:30:00.000000+00:00",
-  "__last_updated": "2026-06-29T03:55:00+00:00",
-  "last_run": "2026-06-29T03:25:00+00:00",
-  "last_explore": "2026-06-29T03:25:00+00:00",
+  "__last_updated": "2026-06-29T04:25:00+00:00",
+  "last_run": "2026-06-29T04:25:00+00:00",
+  "last_explore": "2026-06-29T04:25:00+00:00",
   "last_global_explore": "2026-06-26T10:09:00+00:00",
-  "last_discovery": "2026-06-29T03:55:00+00:00",
-  "last_run_framing": "Rule 48 REPRESENTATION-ENGINEERING-PROBE \u2014 superposition-aware-random-projection-steering + cross-layer-consistency-evolutionary-steering-refinement + white-box-black-box-surjectivity-separation-theorem (representation-engineering primitive-class triplet orthogonal to Run 80 neuro-symbolic-grounding axes)",
+  "last_discovery": "2026-06-29T04:25:00+00:00",
+  "last_run_framing": "Rule 49 UNCERTAINTY-QUANTIFICATION-PROBE \u2014 three-component-semantic-uncertainty-decomposition + kinematic-feature-density-ridge-selective-prediction + intra-layer-cross-layer-agreement-UQ (uncertainty-quantification primitive-class triplet orthogonal to Run 81 representation-engineering axes)",
   "last_framing": "Run 71 negative-result-probe per Rule 38 \u2014 pivoted from Run 70 axis-orthogonality training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff)",
-  "last_run_notes": "Run 79 \u2014 3 fresh LLM-centric papers via web_search 4-query REWARD-MODEL-GEOMETRY-PROBE escape hatch per Rule 46 (after Run 45 multi-agent-consensus-probe). HF pool CV/3D-heavy for 25th consecutive run (pitfall-83 streak extended to Runs 55-79, longest in wiki history by 12 runs). HF daily v2 data-props returned 0 on /papers/date/2026-06-29 and /papers/date/2026-06-28, v3 href-regex returned 0 matches on both pages. web_search surfaced 16 fresh LLM candidates via the reward-model-geometry-probe query template bracketing 4 reward-model-geometry axes: (a) PAC-Bayesian generalization bounds for PRMs trained with formal verification + (b) ordinal decomposition of discrete stochastic auto-rater rewards for robust policy optimization + (c) lattice representation hypothesis unifying linear-representation-hypothesis + formal-concept-analysis + (d) reward shaping with vision-language-models. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 78 multi-agent-consensus-protocol-via-Wald-SPRT + effective-team-size-scaling-law-via-Ringelmann-effect + coordination-as-first-class-architectural-layer axes to pac-bayesian-generalization-bounds-for-verification-trained-PRMs + ordinal-decomposition-of-stochastic-auto-rater-rewards + lattice-representation-hypothesis-unifying-linear-rep-and-FCA axes. 3-axis DOMAIN-DIVERSITY REWARD-MODEL-GEOMETRY-PROBE PIVOT per Rule 46 to pac-bayesian-formal-verification-trained-PRM-sample-complexity-bounds + ordinal-decomposition-stochasticity-isolation-primitive + concept-lattice-via-half-space-intersections-as-symbol-grounding-primitive.",
+  "last_run_notes": "Run 82 \u2014 3 fresh LLM-centric papers via web_search 4-query UNCERTAINTY-QUANTIFICATION-PROBE escape hatch per Rule 49 (after Run 48 representation-engineering-probe). HF pool CV/3D-heavy for 28th consecutive run (pitfall-83 streak extended to Runs 55-82, longest in wiki history by 15 runs). HF daily v2 data-props returned 0 on /papers/date/2026-06-29 and /papers/date/2026-06-28, v3 href-regex returned 0 matches on both pages. web_search surfaced 15 fresh LLM candidates via the uncertainty-quantification-probe query template bracketing 4 UQ axes: (a) calibration + selective prediction via conformal/decision-theoretic scoring + (b) intra-layer cross layer information-score UQ + (c) semantic-entropy epistemic-aleatoric decomposition + (d) evidential deep learning + conformal-RAG. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 81 superposition-aware-random-projection-steering + cross-layer-consistency-evolutionary-steering-refinement + white-box-black-box-surjectivity-separation-theorem axes to three-component-semantic-uncertainty-decomposition + kinematic-feature-density-ridge-selective-prediction + intra-layer-cross-layer-agreement-UQ axes. 3-axis DOMAIN-DIVERSITY UNCERTAINTY-QUANTIFICATION-PROBE PIVOT per Rule 49 to three-component-semantic-decomposition-of-input-ambiguity-knowledge-gaps-decoding-randomness + density-ridge-recovery-of-LLM-response-manifold-via-kinematic-features + intra-layer-cross-layer-agreement-scoring-for-single-forward-pass-UQ.",
   "last_pass_type": "emergent-concept",
   "last_run_method": "emergent_concept_search_via_web_search_4query_cross_discipline_probe_rule41",
   "run_method": "emergent-concept",
   "last_run_added": 3,
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
-  "emergent_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
+  "emergent_concept_theme": "uncertainty-quantification-probe-rule49",
+  "emergent_theme": "uncertainty-quantification-probe-rule49",
   "chains_updated": 0,
-  "entities_count": 249,
+  "entities_count": 252,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3607,6 +3607,30 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-29T03:25:00+00:00",
       "theme": "representation-engineering / cross-layer-consistency / global-evolutionary-refinement"
+    },
+    {
+      "arxiv_id": "2606.10198",
+      "title": "Density Ridge Selective Prediction for LLM and VLM Hallucination Detection via Kinematic Feature Density of Hidden State Trajectories",
+      "slug": "density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-via-kinematic-feature-density-of-hidden-state-trajectories-2606.10198",
+      "url": "https://arxiv.org/abs/2606.10198",
+      "discovered": "2026-06-29T04:25:00+00:00",
+      "theme": "uncertainty-quantification / density-ridge-selective-prediction / kinematic-feature-map / response-manifold-recovery / hallucination-detection / modality-agnostic / cross-modal-llm-vlm"
+    },
+    {
+      "arxiv_id": "2603.24967",
+      "title": "The Anatomy of Uncertainty in LLMs: A Three-Component Semantic Framework for Input Ambiguity, Knowledge Gaps, and Decoding Randomness",
+      "slug": "the-anatomy-of-uncertainty-in-llms-a-three-component-semantic-framework-for-input-ambiguity-knowledge-gaps-and-decoding-randomness-2603.24967",
+      "url": "https://arxiv.org/abs/2603.24967",
+      "discovered": "2026-06-29T04:25:00+00:00",
+      "theme": "uncertainty-quantification / three-component-semantic-decomposition / input-ambiguity / knowledge-gap / decoding-randomness / targeted-intervention-methodology / actionable-remediation"
+    },
+    {
+      "arxiv_id": "2603.22299",
+      "title": "Between the Layers Lies the Truth: Uncertainty Estimation via Intra-Layer Local Information Scores",
+      "slug": "between-the-layers-lies-the-truth-uncertainty-estimation-via-intra-layer-local-information-scores-2603.22299",
+      "url": "https://arxiv.org/abs/2603.22299",
+      "discovered": "2026-06-29T04:25:00+00:00",
+      "theme": "uncertainty-quantification / intra-layer-cross-layer-agreement-UQ / single-forward-pass / probing-transfer-robustness / representation-grounded-UQ / cross-layer-information-score"
     }
   ],
   "emergent_discoveries": [
@@ -5530,6 +5554,30 @@
       "url": "https://arxiv.org/abs/2603.12298",
       "discovered": "2026-06-29T03:25:00+00:00",
       "theme": "representation-engineering / activation-steering / cross-layer-consistency / global-evolutionary-refinement / training-free / layer-agnostic-universal-steering"
+    },
+    {
+      "arxiv_id": "2606.10198",
+      "title": "Density Ridge Selective Prediction for LLM and VLM Hallucination Detection via Kinematic Feature Density of Hidden State Trajectories",
+      "slug": "density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-via-kinematic-feature-density-of-hidden-state-trajectories-2606.10198",
+      "url": "https://arxiv.org/abs/2606.10198",
+      "discovered": "2026-06-29T04:25:00+00:00",
+      "theme": "uncertainty-quantification / density-ridge-selective-prediction / kinematic-feature-map / response-manifold-recovery / hallucination-detection / modality-agnostic / cross-modal-llm-vlm"
+    },
+    {
+      "arxiv_id": "2603.24967",
+      "title": "The Anatomy of Uncertainty in LLMs: A Three-Component Semantic Framework for Input Ambiguity, Knowledge Gaps, and Decoding Randomness",
+      "slug": "the-anatomy-of-uncertainty-in-llms-a-three-component-semantic-framework-for-input-ambiguity-knowledge-gaps-and-decoding-randomness-2603.24967",
+      "url": "https://arxiv.org/abs/2603.24967",
+      "discovered": "2026-06-29T04:25:00+00:00",
+      "theme": "uncertainty-quantification / three-component-semantic-decomposition / input-ambiguity / knowledge-gap / decoding-randomness / targeted-intervention-methodology / actionable-remediation"
+    },
+    {
+      "arxiv_id": "2603.22299",
+      "title": "Between the Layers Lies the Truth: Uncertainty Estimation via Intra-Layer Local Information Scores",
+      "slug": "between-the-layers-lies-the-truth-uncertainty-estimation-via-intra-layer-local-information-scores-2603.22299",
+      "url": "https://arxiv.org/abs/2603.22299",
+      "discovered": "2026-06-29T04:25:00+00:00",
+      "theme": "uncertainty-quantification / intra-layer-cross-layer-agreement-UQ / single-forward-pass / probing-transfer-robustness / representation-grounded-UQ / cross-layer-information-score"
     }
   ],
   "emergent_concept_search_log": [
@@ -7698,6 +7746,16 @@
       "queries_used": 4,
       "candidates_surfaced": 23,
       "candidates_picked": 3
+    },
+    {
+      "run_number": 82,
+      "timestamp": "2026-06-29T04:25:00+00:00",
+      "mode": "web_search_4query_uncertainty_quantification_probe_rule49",
+      "queries_fired": 8,
+      "fresh_llm_candidates": 15,
+      "picks_selected": 3,
+      "rule": "Rule 49 UNCERTAINTY-QUANTIFICATION-PROBE",
+      "previous_rule": "Rule 48 REPRESENTATION-ENGINEERING-PROBE"
     }
   ],
   "runs": [
@@ -8746,6 +8804,41 @@
         "2604.09839",
         "2603.12298"
       ]
+    },
+    {
+      "run_number": 82,
+      "timestamp": "2026-06-29T04:25:00+00:00",
+      "mode": "emergent-concept-search",
+      "method": "web_search_4query_uncertainty_quantification_probe_rule49",
+      "rule": "Rule 49 UNCERTAINTY-QUANTIFICATION-PROBE",
+      "picks": [
+        "2606.10198",
+        "2603.24967",
+        "2603.22299"
+      ],
+      "picks_titles": [
+        "Density Ridge Selective Prediction for LLM and VLM Hallucination Detection via Kinematic Feature Density of Hidden State Trajectories",
+        "The Anatomy of Uncertainty in LLMs: A Three-Component Semantic Framework for Input Ambiguity, Knowledge Gaps, and Decoding Randomness",
+        "Between the Layers Lies the Truth: Uncertainty Estimation via Intra-Layer Local Information Scores"
+      ],
+      "picks_online_dates": [
+        "2026-06-10",
+        "2026-03-26",
+        "2026-03-17"
+      ],
+      "theme": "uncertainty-quantification",
+      "theme_axes": [
+        "three-component-semantic-uncertainty-decomposition",
+        "kinematic-feature-density-ridge-selective-prediction",
+        "intra-layer-cross-layer-agreement-UQ"
+      ],
+      "previous_run": "Run 81",
+      "previous_theme": "representation-engineering",
+      "domain_pivot_from": "Run 81 superposition-aware-random-projection-steering + cross-layer-consistency-evolutionary-steering-refinement + white-box-black-box-surjectivity-separation-theorem",
+      "domain_pivot_to": "Run 82 three-component-semantic-uncertainty-decomposition + kinematic-feature-density-ridge-selective-prediction + intra-layer-cross-layer-agreement-UQ",
+      "hf_pool_status": "data-props=0, v3-href-regex=0, monthly-already-in-prior-runs (28th consecutive pitfall-83)",
+      "fresh_llm_returned": 15,
+      "orthogonality_verified": true
     }
   ],
   "last_updated": "2026-06-29T00:25:00.000000+00:00",

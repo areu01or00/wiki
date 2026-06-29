@@ -916,7 +916,10 @@
         "2605.01293",
         "2606.15092",
         "2604.09839",
-        "2603.12298"
+        "2603.12298",
+        "2606.10198",
+        "2603.24967",
+        "2603.22299"
       ],
       "last_results": [
         {
@@ -2847,6 +2850,42 @@
           "slug": "global-evolutionary-steering-refining-activation-steering-control-via-cross-layer-consistency-2603.12298",
           "online_date": "2026-03-12",
           "run_number": 81
+        },
+        {
+          "arxiv_id": "2606.10198",
+          "title": "Density Ridge Selective Prediction for LLM and VLM Hallucination Detection via Kinematic Feature Density of Hidden State Trajectories",
+          "hash": "ec413f691805c98062a74fbbdb8967d8",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "uncertainty-quantification / density-ridge-selective-prediction / kinematic-feature-map / response-manifold-recovery / hallucination-detection / modality-agnostic / cross-modal-llm-vlm",
+          "discovered": "2026-06-29T04:25:00+00:00",
+          "slug": "density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-via-kinematic-feature-density-of-hidden-state-trajectories-2606.10198",
+          "online_date": "2026-06-10",
+          "run_number": 82
+        },
+        {
+          "arxiv_id": "2603.24967",
+          "title": "The Anatomy of Uncertainty in LLMs: A Three-Component Semantic Framework for Input Ambiguity, Knowledge Gaps, and Decoding Randomness",
+          "hash": "b95f8ac7d3c0285032eecd8e764b2015",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "uncertainty-quantification / three-component-semantic-decomposition / input-ambiguity / knowledge-gap / decoding-randomness / targeted-intervention-methodology / actionable-remediation",
+          "discovered": "2026-06-29T04:25:00+00:00",
+          "slug": "the-anatomy-of-uncertainty-in-llms-a-three-component-semantic-framework-for-input-ambiguity-knowledge-gaps-and-decoding-randomness-2603.24967",
+          "online_date": "2026-03-26",
+          "run_number": 82
+        },
+        {
+          "arxiv_id": "2603.22299",
+          "title": "Between the Layers Lies the Truth: Uncertainty Estimation via Intra-Layer Local Information Scores",
+          "hash": "6a2cc5f1ffed7bf2c6cd1d60a10e96c0",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "uncertainty-quantification / intra-layer-cross-layer-agreement-UQ / single-forward-pass / probing-transfer-robustness / representation-grounded-UQ / cross-layer-information-score",
+          "discovered": "2026-06-29T04:25:00+00:00",
+          "slug": "between-the-layers-lies-the-truth-uncertainty-estimation-via-intra-layer-local-information-scores-2603.22299",
+          "online_date": "2026-03-17",
+          "run_number": 82
         }
       ],
       "last_run": "2026-06-29T03:25:00+00:00",
@@ -2859,7 +2898,7 @@
       "last_run_framing": "Rule 41 CROSS-DISCIPLINE-PROBE \u2014 formal-verification + neuroscience + hebbian-learning (orthogonal to Run 68-73)"
     }
   },
-  "last_run": "2026-06-29T03:25:00+00:00",
+  "last_run": "2026-06-29T04:25:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3097,10 +3136,13 @@
     "2605.01293",
     "2606.15092",
     "2604.09839",
-    "2603.12298"
+    "2603.12298",
+    "2606.10198",
+    "2603.24967",
+    "2603.22299"
   ],
   "last_discovery": "2026-06-29T03:25:00+00:00",
-  "last_updated": "2026-06-29T03:25:00+00:00",
+  "last_updated": "2026-06-29T04:25:00+00:00",
   "__last_updated": "2026-06-29T03:30:00.000000+00:00",
   "last_explore": "2026-06-29T00:25:00.000000+00:00",
   "llm-wiki": {
@@ -3341,7 +3383,10 @@
       "2605.01293",
       "2606.15092",
       "2604.09839",
-      "2603.12298"
+      "2603.12298",
+      "2606.10198",
+      "2603.24967",
+      "2603.22299"
     ],
     "last_discovery": "2026-06-29T03:25:00+00:00",
     "last_run": "2026-06-29T03:25:00+00:00",
