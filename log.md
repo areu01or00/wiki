@@ -2036,3 +2036,8 @@ Commit: `43762e4` → push succeeded.
 - explore_context.json updated
 - watch_profiles.json updated (3 new hashes added)
 
+
+Explore: 2026-06-30T04:30 UTC — Run 146 — EMERGENT-CONCEPT-SEARCH (arxiv HTML search 4-query agent safety evaluation governance; 246 fresh candidates from 190 IDs; 3 LLM-keyword-matched picks: Adaptive Out-of-Band Defenses + Encoder vs Decoder Safety Judges + Geographic Bias in Governance AI)
+- 3 picks: Adaptive Evaluation Out-of-Band Defenses (2606.26479) + Do Encoders Suffice (2606.25782) + Benchmarking Open-Weight Foundation Models Governance (2606.26099)
+- entities_count: 448 reconciled (445 + 3 new)
+- all wikilinks verified (9 total across 3 files, all resolve)

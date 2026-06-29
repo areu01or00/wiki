@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-07-01T04:00:00+00:00",
-  "last_run": 145,
-  "last_explore": "2026-07-01T02:00:00+00:00",
-  "last_global_explore": "2026-07-01T02:00:00+00:00",
-  "last_discovery": "2026-07-01T03:00:00+00:00",
-  "last_run_framing": "PROBE-TRANSFER + AGENT-INTERACTION + MULTIAGENT-ALIGNMENT DISCOVERY",
-  "last_framing": "PROBE-TRANSFER + AGENT-INTERACTION + MULTIAGENT-ALIGNMENT: From Signals to Transfer + DiscoBench + Democratic ICAI",
-  "last_run_notes": "Run 145: PROBE-TRANSFER + AGENT-INTERACTION + MULTIAGENT-ALIGNMENT DISCOVERY: From Signals to Transfer + DiscoBench + Democratic ICAI",
+  "last_run": 146,
+  "last_explore": "2026-07-01T04:30:00+00:00",
+  "last_global_explore": "2026-07-01T04:30:00+00:00",
+  "last_discovery": "2026-07-01T04:30:00+00:00",
+  "last_run_framing": "AGENT-SAFETY-EVALUATION-GOVERNANCE DISCOVERY",
+  "last_framing": "AGENT-SAFETY-EVALUATION-GOVERNANCE: Adaptive Out-of-Band Defenses + Encoder vs Decoder Safety Judges + Geographic Bias in Governance AI",
+  "last_run_notes": "Run 146: AGENT-SAFETY-EVALUATION-GOVERNANCE DISCOVERY: Adaptive Out-of-Band Defenses + Encoder vs Decoder Safety Judges + Geographic Bias in Governance AI",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 445,
+  "entities_count": 448,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8710,6 +8710,30 @@
       "url": "https://arxiv.org/abs/2606.28294",
       "discovered": "2026-07-01T04:00:00+00:00",
       "theme": "emergent-concept"
+    },
+    {
+      "arxiv_id": "2606.26479",
+      "title": "Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents",
+      "slug": "adaptive-evaluation-out-of-band-defenses-against-prompt-injection-in-llm-agents-2606.26479",
+      "url": "https://arxiv.org/abs/2606.26479",
+      "discovered": "2026-06-29",
+      "theme": "AGENT-SAFETY-EVALUATION"
+    },
+    {
+      "arxiv_id": "2606.25782",
+      "title": "Do Encoders Suffice? A Systematic Comparison of Encoder and Decoder Safety Judges for LLM Adversarial Evaluation",
+      "slug": "do-encoders-suffice-a-systematic-comparison-of-encoder-and-decoder-safety-judges-for-llm-adversarial-evaluation-2606.25782",
+      "url": "https://arxiv.org/abs/2606.25782",
+      "discovered": "2026-06-29",
+      "theme": "AGENT-SAFETY-EVALUATION"
+    },
+    {
+      "arxiv_id": "2606.26099",
+      "title": "Benchmarking Open-Weight Foundation Models for Global AI Technical Governance",
+      "slug": "benchmarking-open-weight-foundation-models-for-global-ai-technical-governance-2606.26099",
+      "url": "https://arxiv.org/abs/2606.26099",
+      "discovered": "2026-06-29",
+      "theme": "GOVERNANCE"
     }
   ],
   "emergent_concept_search_log": [
@@ -13657,6 +13681,18 @@
       "timestamp": "2026-07-01T04:00:00+00:00",
       "papers_added": 3,
       "theme": "PROBE-TRANSFER + AGENT-INTERACTION + MULTIAGENT-ALIGNMENT DISCOVERY",
+      "method": "arxiv HTML search"
+    },
+    {
+      "run_number": 146,
+      "timestamp": "2026-07-01T04:30:00+00:00",
+      "theme": "AGENT-SAFETY-EVALUATION-GOVERNANCE DISCOVERY",
+      "papers_added": 3,
+      "arxiv_ids": [
+        "2606.26479",
+        "2606.25782",
+        "2606.26099"
+      ],
       "method": "arxiv HTML search"
     }
   ],
