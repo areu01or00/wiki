@@ -937,7 +937,10 @@
         "2601.08189",
         "2606.26875",
         "2606.24957",
-        "2605.02888"
+        "2605.02888",
+        "2605.08538",
+        "2603.07670",
+        "2601.09913"
       ],
       "last_results": [
         {
@@ -3120,6 +3123,42 @@
           "slug": "speckv-adaptive-speculative-decoding-with-compression-aware-gamma-selection-2605.02888",
           "online_date": "2026-05-05",
           "run_number": 88
+        },
+        {
+          "arxiv_id": "2605.08538",
+          "title": "Human-Inspired Memory Architecture for LLM Agents",
+          "hash": "20b473ab5352777b2cfdbe2d52a48fdc",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent-memory-architecture / biologically-grounded cognitive-mechanism architecture / synthetic-calibration-no-eval-leakage primitive theme",
+          "discovered": "2026-06-29T08:41:00+00:00",
+          "slug": "human-inspired-memory-architecture-for-llm-agents-2605.08538",
+          "online_date": "2026-05-08",
+          "run_number": 89
+        },
+        {
+          "arxiv_id": "2603.07670",
+          "title": "Memory for Autonomous LLM Agents: Mechanisms, Evaluation, and Emerging Frontiers",
+          "hash": "f0f54df2aaa59a4188a2e5a407cbd545",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent-memory-architecture / comprehensive-survey / three-dimensional-taxonomy primitive theme",
+          "discovered": "2026-06-29T08:41:00+00:00",
+          "slug": "memory-for-autonomous-llm-agents-mechanisms-evaluation-emerging-frontiers-2603.07670",
+          "online_date": "2026-03-08",
+          "run_number": 89
+        },
+        {
+          "arxiv_id": "2601.09913",
+          "title": "Continuum Memory Architectures for Long-Horizon LLM Agents",
+          "hash": "3f9031670aad006ed94ad5deeb5df1ff",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent-memory-architecture / continuum-memory-architecture / formal-architectural-primitive primitive theme",
+          "discovered": "2026-06-29T08:41:00+00:00",
+          "slug": "continuum-memory-architectures-for-long-horizon-llm-agents-2601.09913",
+          "online_date": "2026-01-14",
+          "run_number": 89
         }
       ],
       "last_run": "2026-06-29T05:30:00+00:00",
@@ -3391,7 +3430,10 @@
     "2601.08189",
     "2606.26875",
     "2606.24957",
-    "2605.02888"
+    "2605.02888",
+    "2605.08538",
+    "2603.07670",
+    "2601.09913"
   ],
   "last_discovery": "2026-06-29T05:30:00+00:00",
   "last_updated": "2026-06-29T03:55:00+00:00",
@@ -3656,7 +3698,10 @@
       "2601.08189",
       "2606.26875",
       "2606.24957",
-      "2605.02888"
+      "2605.02888",
+      "2605.08538",
+      "2603.07670",
+      "2601.09913"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T05:30:00+00:00",

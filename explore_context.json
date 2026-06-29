@@ -8,22 +8,22 @@
   "last_explore": "2026-06-29T04:26:56+00:00",
   "last_global_explore": "2026-06-29T08:00:00+00:00",
   "last_discovery": "2026-06-29T04:26:56+00:00",
-  "last_run_framing": "Rule 55 INFERENCE-EFFICIENCY-PROBE",
+  "last_run_framing": "Rule 56 AGENT-MEMORY-ARCHITECTURE-PROBE \u2014 biology-grounded cognitive-mechanism + continuum-memory formalization + comprehensive 2022-2026 survey primitive-taxonomy",
   "last_framing": "inference-efficiency",
   "last_run_notes": "Run 88 - INFERENCE-EFFICIENCY-PROBE per Rule 55 - information-theoretic KV-cache eviction + draft-augmented sparse verification + compression-aware adaptive gamma-selection - 3-axis pivot to inference-side-efficiency primitive triplet",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search_4query_inference_efficiency_probe_rule55",
   "run_method": "web_search_4query_inference_efficiency_probe_rule55",
   "last_run_added": [
-    "2606.26875",
-    "2606.24957",
-    "2605.02888"
+    "2605.08538",
+    "2603.07670",
+    "2601.09913"
   ],
   "exploration_type": "emergent-concept",
   "emergent_concept_theme": "self-improvement-loop",
   "emergent_theme": "self-improvement-loop",
   "chains_updated": 0,
-  "entities_count": 270,
+  "entities_count": 273,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3767,6 +3767,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-29T04:26:56+00:00",
       "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma"
+    },
+    {
+      "arxiv_id": "2605.08538",
+      "slug": "human-inspired-memory-architecture-for-llm-agents-2605.08538",
+      "title": "Human-Inspired Memory Architecture for LLM Agents",
+      "url": "https://arxiv.org/abs/2605.08538",
+      "vector": "emergent",
+      "discovered": "2026-06-29T08:41:00+00:00",
+      "theme": "agent-memory-architecture / biologically-grounded cognitive-mechanism architecture / synthetic-calibration-no-eval-leakage primitive theme"
+    },
+    {
+      "arxiv_id": "2603.07670",
+      "slug": "memory-for-autonomous-llm-agents-mechanisms-evaluation-emerging-frontiers-2603.07670",
+      "title": "Memory for Autonomous LLM Agents: Mechanisms, Evaluation, and Emerging Frontiers",
+      "url": "https://arxiv.org/abs/2603.07670",
+      "vector": "emergent",
+      "discovered": "2026-06-29T08:41:00+00:00",
+      "theme": "agent-memory-architecture / comprehensive-survey / three-dimensional-taxonomy primitive theme"
+    },
+    {
+      "arxiv_id": "2601.09913",
+      "slug": "continuum-memory-architectures-for-long-horizon-llm-agents-2601.09913",
+      "title": "Continuum Memory Architectures for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2601.09913",
+      "vector": "emergent",
+      "discovered": "2026-06-29T08:41:00+00:00",
+      "theme": "agent-memory-architecture / continuum-memory-architecture / formal-architectural-primitive primitive theme"
     }
   ],
   "emergent_discoveries": [
@@ -5861,6 +5888,30 @@
       "url": "https://arxiv.org/abs/2605.02888",
       "discovered": "2026-06-29T04:26:56+00:00",
       "theme": "inference-efficiency / KV-cache-eviction + sparse-verification + adaptive-gamma"
+    },
+    {
+      "arxiv_id": "2605.08538",
+      "title": "Human-Inspired Memory Architecture for LLM Agents",
+      "slug": "human-inspired-memory-architecture-for-llm-agents-2605.08538",
+      "url": "https://arxiv.org/abs/2605.08538",
+      "discovered": "2026-06-29T08:41:00+00:00",
+      "theme": "agent-memory-architecture / biologically-grounded cognitive-mechanism architecture / synthetic-calibration-no-eval-leakage primitive theme"
+    },
+    {
+      "arxiv_id": "2603.07670",
+      "title": "Memory for Autonomous LLM Agents: Mechanisms, Evaluation, and Emerging Frontiers",
+      "slug": "memory-for-autonomous-llm-agents-mechanisms-evaluation-emerging-frontiers-2603.07670",
+      "url": "https://arxiv.org/abs/2603.07670",
+      "discovered": "2026-06-29T08:41:00+00:00",
+      "theme": "agent-memory-architecture / comprehensive-survey / three-dimensional-taxonomy primitive theme"
+    },
+    {
+      "arxiv_id": "2601.09913",
+      "title": "Continuum Memory Architectures for Long-Horizon LLM Agents",
+      "slug": "continuum-memory-architectures-for-long-horizon-llm-agents-2601.09913",
+      "url": "https://arxiv.org/abs/2601.09913",
+      "discovered": "2026-06-29T08:41:00+00:00",
+      "theme": "agent-memory-architecture / continuum-memory-architecture / formal-architectural-primitive primitive theme"
     }
   ],
   "emergent_concept_search_log": [
@@ -8084,6 +8135,16 @@
         "2605.02888"
       ],
       "timestamp": "2026-06-29T04:26:56+00:00"
+    },
+    {
+      "run_number": 89,
+      "date": "2026-06-29T08:41:00+00:00",
+      "theme": "agent-memory-architecture",
+      "picks": [
+        "2605.08538",
+        "2603.07670",
+        "2601.09913"
+      ]
     }
   ],
   "runs": [
@@ -9259,6 +9320,28 @@
         "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection"
       ],
       "timestamp": "2026-06-29T04:26:56+00:00"
+    },
+    {
+      "run_number": 89,
+      "date": "2026-06-29T08:41:00+00:00",
+      "mode": "emergent-concept-search",
+      "rule": "Rule 56 AGENT-MEMORY-ARCHITECTURE-PROBE",
+      "theme": "agent-memory-architecture",
+      "pitfall_83_streak": 35,
+      "hf_pool_status": "CV/3D-heavy; v2 data-props=0, v3 href-regex=0; web_search escape hatch",
+      "web_search_queries": [
+        "agent memory architecture episodic semantic procedural working memory LLM retrieval augmented long-horizon 2026 arxiv",
+        "arxiv 2026 LLM agent memory consolidation hierarchical working memory retrieval",
+        "\"Mem0\" OR \"MemoryBank\" OR \"A-MEM\" agent memory framework 2026 arxiv",
+        "arxiv 2026 \"agent\" memory architecture \"cs.CL\" OR \"cs.AI\" episodic semantic"
+      ],
+      "candidates_surfaced": 10,
+      "picks_selected": [
+        "2605.08538",
+        "2603.07670",
+        "2601.09913"
+      ],
+      "notes": "Rule 56 AGENT-MEMORY-ARCHITECTURE-PROBE verified (35th consecutive pitfall-83, longest in wiki history by 22 runs); 3 picks all used agent-memory-architecture primitives \u2014 human-inspired-cognitive-mechanism architecture + continuum-memory architectural-primitive formalization + comprehensive 2022-early-2026 survey \u2014 pivoting per Rule 27 from Run 88 inference-efficiency primitives (KV-cache eviction + sparse verification + adaptive gamma) to write-side memory evolution primitives (biological-cognitive-mechanism + continuum-memory formalization + primitive-taxonomy survey)."
     }
   ],
   "last_updated": "2026-06-29T05:30:00+00:00",
