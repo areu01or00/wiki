@@ -1591,6 +1591,24 @@
           "discovered": "2026-06-29T10:30:00+00:00",
           "vector": "emergent_concept_search",
           "online_date": "2026-05-28"
+        },
+        {
+          "arxiv_id": "2606.24124",
+          "slug": "verytrace-verifying-reasoning-traces-through-compilable-formalism-2606.24124",
+          "run_number": 96,
+          "discovered": "2026-06-29T11:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.21867",
+          "slug": "forex-a-formal-verification-framework-for-explainable-reasoning-in-logical-fallacy-detection-and-annotation-2606.21867",
+          "run_number": 96,
+          "discovered": "2026-06-29T11:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.27378",
+          "slug": "formalizing-latent-thoughts-four-axioms-of-thought-representation-in-llms-2606.27378",
+          "run_number": 96,
+          "discovered": "2026-06-29T11:00:00+00:00"
         }
       ],
       "last_run": "2026-06-29T10:30:00+00:00",
@@ -3988,6 +4006,30 @@
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts",
       "online_date": "2026-05-28"
+    },
+    {
+      "arxiv_id": "2606.24124",
+      "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+      "slug": "verytrace-verifying-reasoning-traces-through-compilable-formalism-2606.24124",
+      "discovered": "2026-06-29T11:00:00+00:00",
+      "run_number": 96,
+      "theme": "axiomatic-formalization / trace-as-compilable-program / hybrid-verifier"
+    },
+    {
+      "arxiv_id": "2606.21867",
+      "title": "ForEx: A Formal Verification Framework for Explainable Reasoning in Logical Fallacy Detection and Annotation",
+      "slug": "forex-a-formal-verification-framework-for-explainable-reasoning-in-logical-fallacy-detection-and-annotation-2606.21867",
+      "discovered": "2026-06-29T11:00:00+00:00",
+      "run_number": 96,
+      "theme": "axiomatic-formalization / explanation-as-formal-proof / lean4-verification"
+    },
+    {
+      "arxiv_id": "2606.27378",
+      "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+      "slug": "formalizing-latent-thoughts-four-axioms-of-thought-representation-in-llms-2606.27378",
+      "discovered": "2026-06-29T11:00:00+00:00",
+      "run_number": 96,
+      "theme": "axiomatic-formalization / latent-state-as-axiom-system / representation-quality-decoupled"
     }
   ],
   "emergent_discoveries": [
@@ -6250,6 +6292,30 @@
       "url": "https://arxiv.org/abs/2605.30080",
       "discovered": "2026-06-29T10:30:00+00:00",
       "theme": "tokenization-free / byte-level-hierarchical-architecture / curriculum-byte-compression"
+    },
+    {
+      "arxiv_id": "2606.24124",
+      "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+      "slug": "verytrace-verifying-reasoning-traces-through-compilable-formalism-2606.24124",
+      "url": "https://arxiv.org/abs/2606.24124",
+      "discovered": "2026-06-29T11:00:00+00:00",
+      "theme": "axiomatic-formalization / trace-as-compilable-program / hybrid-verifier"
+    },
+    {
+      "arxiv_id": "2606.21867",
+      "title": "ForEx: A Formal Verification Framework for Explainable Reasoning in Logical Fallacy Detection and Annotation",
+      "slug": "forex-a-formal-verification-framework-for-explainable-reasoning-in-logical-fallacy-detection-and-annotation-2606.21867",
+      "url": "https://arxiv.org/abs/2606.21867",
+      "discovered": "2026-06-29T11:00:00+00:00",
+      "theme": "axiomatic-formalization / explanation-as-formal-proof / lean4-verification"
+    },
+    {
+      "arxiv_id": "2606.27378",
+      "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+      "slug": "formalizing-latent-thoughts-four-axioms-of-thought-representation-in-llms-2606.27378",
+      "url": "https://arxiv.org/abs/2606.27378",
+      "discovered": "2026-06-29T11:00:00+00:00",
+      "theme": "axiomatic-formalization / latent-state-as-axiom-system / representation-quality-decoupled"
     }
   ],
   "emergent_concept_search_log": [
@@ -7484,6 +7550,14 @@
       "fresh_count": 15,
       "pick_count": 3,
       "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet)."
+    },
+    {
+      "timestamp": "2026-06-29T11:00:00+00:00",
+      "run_number": 96,
+      "theme": "axiomatic-formalization",
+      "method": "web_search 4-query AXIOMATIC-FORMALIZATION-PROBE",
+      "candidates_surfaced": 3,
+      "candidates_picked": 3
     }
   ],
   "emergent_concept_search_runs": [
@@ -9947,6 +10021,39 @@
         {
           "arxiv_id": "2605.30080",
           "slug": "adaptive-targeted-dynamic-chunking-for-tokenization-free-hierarchical-model-2605.30080"
+        }
+      ]
+    },
+    {
+      "run_number": 96,
+      "timestamp": "2026-06-29T11:00:00+00:00",
+      "theme": "axiomatic-formalization",
+      "rule": "63",
+      "method": "web_search 4-query AXIOMATIC-FORMALIZATION-PROBE",
+      "picks_added": 3,
+      "notes": "Rule 63 AXIOMATIC-FORMALIZATION-PROBE verified (42nd consecutive pitfall-83). Introduced after Rules 33-62 in sequence (cycle \u2192 sub-cluster \u2192 new-axis \u2192 combined-axis \u2192 PROBE-AXIS \u2192 deep-sub-cluster \u2192 deep-sub-cluster-other-primitive \u2192 axis-inversion \u2192 temporal-anchor \u2192 axis-orthogonality \u2192 negative-result \u2192 adversarial-axis \u2192 meta-probe \u2192 cross-discipline \u2192 application-domain \u2192 failure-mode-catalog \u2192 emerging-pretraining-objective \u2192 multi-agent-consensus \u2192 reward-model-geometry \u2192 neuro-symbolic-grounding \u2192 representation-engineering \u2192 uncertainty-quantification \u2192 causal-inference \u2192 graph-structured-reasoning \u2192 self-improvement-loop \u2192 test-time-compute-scaling \u2192 watermarking-model-fingerprinting \u2192 inference-efficiency \u2192 agent-memory-architecture \u2192 multi-agent-coordination-collaboration \u2192 model-combination-fusion \u2192 collaborative-learning \u2192 cross-agent-teaching \u2192 environmental-evolution \u2192 tokenizer-level). Rule 63 specifically probes the *axiomatic/formal-foundation* primitive-class for LLM reasoning \u2014 primitives that govern how LLM representations, explanations, and reasoning traces can be encoded as formal axiom systems, formal proofs, or compilable programs. Distinct from neuro-symbolic grounding (Rule 47, which targets external-symbol grounding), from interpretability (Rule 48, which targets internal-mechanism discovery), from reasoning-trace-failure analysis (Run 64, which targeted failure-mode taxonomy), and from reasoning-evaluation benchmarks (which target benchmark scores). Run 96 surfaces three structural axes: (a) latent-state-as-axiom-system with quantitative measures independent of downstream accuracy, (b) natural-language-explanation-as-Lean4-proof with verification-of-derivability, (c) reasoning-trace-as-compilable-program with hybrid-deterministic-LLM-audit verification. Pivoted per Rule 27 from Run 95 minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet) to VeryTrace-trace-as-compilable-program + ForEx-explanation-as-Lean4-proof + Formalizing-Latent-Thoughts-latent-state-as-axiom-system (axiomatic-formalization primitive-class triplet \u2014 fully orthogonal to Run 95 tokenizer-level axes, orthogonal to Run 94 environmental-evolution axes, orthogonal to Run 93 cross-agent-teaching axes, orthogonal to Run 92 collaborative-learning axes, orthogonal to Run 91 model-combination-fusion axes). HF daily v2 returned 12 papers on /papers/date/2026-06-29/30 sparse pages (PhysisForcing, Translation-as-Bridging-Action, Qwen-Image-2.0-RL, SingGuard, ProMSA, Formalizing-Latent-Thoughts, Ko-WideSearch, SimFoundry, NormGuard, Paper-Assistant, Learning-to-Fold, Boundary-Aware-EEG), 7 LLM-keyword-matched (SingGuard, ProMSA, Formalizing-Latent-Thoughts, Ko-WideSearch, NormGuard, EEG-Agent) but mostly multimodal/agent-eval \u2014 only Formalizing-Latent-Thoughts fit axiomatic-formalization axis. web_search 4-query AXIOMATIC-FORMALIZATION-PROBE surfaced 3 high-quality candidates with structural orthogonality to Run 95 picks. AXIOMATIC-FORMALIZATION-PROBE WORKED \u2014 fresh-LLM return at typical base rate with full orthogonality to Run 95 tokenizer-level picks.",
+      "framing": "axiomatic-formalization probe \u2014 trace-as-compilable-program + explanation-as-Lean4-proof + latent-state-as-axiom-system",
+      "picks": [
+        {
+          "arxiv_id": "2606.24124",
+          "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+          "slug": "verytrace-verifying-reasoning-traces-through-compilable-formalism-2606.24124",
+          "online_date": "2026-06-23",
+          "theme": "axiomatic-formalization / trace-as-compilable-program / hybrid-verifier"
+        },
+        {
+          "arxiv_id": "2606.21867",
+          "title": "ForEx: A Formal Verification Framework for Explainable Reasoning in Logical Fallacy Detection and Annotation",
+          "slug": "forex-a-formal-verification-framework-for-explainable-reasoning-in-logical-fallacy-detection-and-annotation-2606.21867",
+          "online_date": "2026-06-20",
+          "theme": "axiomatic-formalization / explanation-as-formal-proof / lean4-verification"
+        },
+        {
+          "arxiv_id": "2606.27378",
+          "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+          "slug": "formalizing-latent-thoughts-four-axioms-of-thought-representation-in-llms-2606.27378",
+          "online_date": "2026-05-07",
+          "theme": "axiomatic-formalization / latent-state-as-axiom-system / representation-quality-decoupled"
         }
       ]
     }
