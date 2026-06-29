@@ -19,7 +19,7 @@
   "emergent_concept_theme": "representational-geometry",
   "emergent_theme": "representational-geometry",
   "chains_updated": 0,
-  "entities_count": 321,
+  "entities_count": 324,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4279,6 +4279,27 @@
       "vector": "emergent",
       "discovered": "2026-06-29T10:48:14+00:00",
       "theme": "declarative-lm"
+    },
+    {
+      "arxiv_id": "2606.24716",
+      "title": "Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations",
+      "slug": "evaluating-the-interpretability-of-sparse-autoencoders-with-concept-annotations-2606.24716",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "theme": "functional-mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2603.04198",
+      "title": "Stable and Steerable Sparse Autoencoders with Weight Regularization",
+      "slug": "stable-and-steerable-sparse-autoencoders-with-weight-regularization-2603.04198",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "theme": "functional-mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2605.06480",
+      "title": "Patch-Effect Graph Kernels for LLM Interpretability",
+      "slug": "patch-effect-graph-kernels-for-llm-interpretability-2605.06480",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "theme": "functional-mechanistic-interpretability"
     }
   ],
   "emergent_discoveries": [
@@ -6787,6 +6808,30 @@
       "url": "https://arxiv.org/abs/2603.27299",
       "discovered": "2026-06-29T10:48:14+00:00",
       "theme": "declarative-lm"
+    },
+    {
+      "arxiv_id": "2606.24716",
+      "title": "Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations",
+      "slug": "evaluating-the-interpretability-of-sparse-autoencoders-with-concept-annotations-2606.24716",
+      "url": "https://arxiv.org/abs/2606.24716",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "theme": "functional-mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2603.04198",
+      "title": "Stable and Steerable Sparse Autoencoders with Weight Regularization",
+      "slug": "stable-and-steerable-sparse-autoencoders-with-weight-regularization-2603.04198",
+      "url": "https://arxiv.org/abs/2603.04198",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "theme": "functional-mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2605.06480",
+      "title": "Patch-Effect Graph Kernels for LLM Interpretability",
+      "slug": "patch-effect-graph-kernels-for-llm-interpretability-2605.06480",
+      "url": "https://arxiv.org/abs/2605.06480",
+      "discovered": "2026-06-29T13:30:00+00:00",
+      "theme": "functional-mechanistic-interpretability"
     }
   ],
   "emergent_concept_search_log": [
@@ -9306,6 +9351,17 @@
         "2605.01704",
         "2602.07673"
       ]
+    },
+    {
+      "run_number": 106,
+      "timestamp": "2026-06-29T13:30:00+00:00",
+      "theme": "functional-mechanistic-interpretability",
+      "picks": [
+        "2606.24716",
+        "2603.04198",
+        "2605.06480"
+      ],
+      "notes": "Run 106 \u2014 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE (Rule 73 candidate) \u2014 pivoted from Run 105 declarative-LM axes to functional-mechanistic-interpretability primitive-class triplet: (a) concept-annotation as SAE-evaluation substrate (2606.24716) + (b) weight-regularization as SAE-stability-and-steerability enabler (2603.04198) + (c) patch-effect-graph-kernel as circuit-comparison substrate (2605.06480); HF daily v2 returned CV/3D-heavy content (52nd consecutive pitfall-83 streak); arxiv API rate-limited 429; arxiv search HTML + web_search escape hatch fired for FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE via 6 axes; full orthogonality to Run 105 declarative-LM picks verified; Rule 73 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE codified candidate."
     }
   ],
   "runs": [
@@ -10866,6 +10922,18 @@
         "2603.27299"
       ],
       "notes": "Run 105 \u2014 DECLARATIVE-LM-PROBE (Rule 72 candidate) \u2014 pivoted from Run 104 gradient-flow-coordination axes to declarative-LM-as-program primitive-class triplet: (a) declarative-DSL-as-LLM-orchestration-substrate (2603.27299) + (b) declarative-PoT-with-checkpoint-repair-replay (2605.30052) + (c) ICL-failure-as-categorical-prior-lock-in (2606.11961); HF daily v2 returned CV/3D-heavy content (51st consecutive pitfall-83 streak); arxiv API + arxiv search HTML escape hatch fired for DECLARATIVE-LM-PROBE via 4 axes; full orthogonality to Run 104 gradient-flow-coordination picks verified."
+    },
+    {
+      "run_number": 106,
+      "timestamp": "2026-06-29T13:30:00+00:00",
+      "theme": "functional-mechanistic-interpretability",
+      "last_run_framing": "FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE per Rule 73 candidate \u2014 primitives that turn mechanistic-interpretability findings into functional measurements, control primitives, and cross-prompt comparison substrates: SAE concept-annotation evaluation + weight-regularization as stability-and-steerability enabler + patch-effect-graph-kernel circuit comparison",
+      "picks": [
+        "2606.24716",
+        "2603.04198",
+        "2605.06480"
+      ],
+      "notes": "Run 106 \u2014 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE (Rule 73 candidate) \u2014 pivoted from Run 105 declarative-LM axes to functional-mechanistic-interpretability primitive-class triplet: (a) concept-annotation as SAE-evaluation substrate (2606.24716) + (b) weight-regularization as SAE-stability-and-steerability enabler (2603.04198) + (c) patch-effect-graph-kernel as circuit-comparison substrate (2605.06480); HF daily v2 returned CV/3D-heavy content (52nd consecutive pitfall-83 streak); arxiv API rate-limited 429; arxiv search HTML + web_search escape hatch fired for FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE via 6 axes; full orthogonality to Run 105 declarative-LM picks verified; Rule 73 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE codified candidate."
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",

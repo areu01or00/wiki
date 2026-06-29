@@ -988,7 +988,10 @@
         "198e2b2107df38ec1ec1fecba18afd56",
         "d0e19e4739b7ea3eeb5baf293c7a1809",
         "82f9b724872f0e07c5c0a583764bb37f",
-        "1c178886e9584556b0cd8113d4a9f4a0"
+        "1c178886e9584556b0cd8113d4a9f4a0",
+        "2606.24716",
+        "2603.04198",
+        "2605.06480"
       ],
       "last_results": [
         {
@@ -3804,6 +3807,45 @@
           "online_date": "2026-03-28",
           "run_number": 105,
           "pick_order": 6
+        },
+        {
+          "arxiv_id": "2606.24716",
+          "title": "Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations",
+          "hash": "4daf392c3854cad19ef6fee9dc8a29b2",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "functional-mechanistic-interpretability",
+          "discovered": "2026-06-29T13:30:00+00:00",
+          "slug": "evaluating-the-interpretability-of-sparse-autoencoders-with-concept-annotations-2606.24716",
+          "online_date": "2026-06-23",
+          "run_number": 106,
+          "pick_order": 7
+        },
+        {
+          "arxiv_id": "2603.04198",
+          "title": "Stable and Steerable Sparse Autoencoders with Weight Regularization",
+          "hash": "7b91f7d9e04aa2f9134ad9731068bee4",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "functional-mechanistic-interpretability",
+          "discovered": "2026-06-29T13:30:00+00:00",
+          "slug": "stable-and-steerable-sparse-autoencoders-with-weight-regularization-2603.04198",
+          "online_date": "2026-06-16",
+          "run_number": 106,
+          "pick_order": 8
+        },
+        {
+          "arxiv_id": "2605.06480",
+          "title": "Patch-Effect Graph Kernels for LLM Interpretability",
+          "hash": "21c93c2ed76c276d8afa175ddbeab928",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "functional-mechanistic-interpretability",
+          "discovered": "2026-06-29T13:30:00+00:00",
+          "slug": "patch-effect-graph-kernels-for-llm-interpretability-2605.06480",
+          "online_date": "2026-05-07",
+          "run_number": 106,
+          "pick_order": 9
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4126,7 +4168,10 @@
     "198e2b2107df38ec1ec1fecba18afd56",
     "d0e19e4739b7ea3eeb5baf293c7a1809",
     "82f9b724872f0e07c5c0a583764bb37f",
-    "1c178886e9584556b0cd8113d4a9f4a0"
+    "1c178886e9584556b0cd8113d4a9f4a0",
+    "2606.24716",
+    "2603.04198",
+    "2605.06480"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -4442,7 +4487,10 @@
       "198e2b2107df38ec1ec1fecba18afd56",
       "d0e19e4739b7ea3eeb5baf293c7a1809",
       "82f9b724872f0e07c5c0a583764bb37f",
-      "1c178886e9584556b0cd8113d4a9f4a0"
+      "1c178886e9584556b0cd8113d4a9f4a0",
+      "2606.24716",
+      "2603.04198",
+      "2605.06480"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",
