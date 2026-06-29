@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-06-29T19:06:28.349779+00:00",
-  "last_run": 131,
-  "last_explore": "2026-06-29T21:45:00+00:00",
-  "last_global_explore": "2026-06-29T21:45:00+00:00",
-  "last_discovery": "2026-06-29T21:45:00+00:00",
-  "last_run_framing": "ADVERSARIAL-OFFENSE-CONTINUATION \u2014 Rule 87 extension",
-  "last_framing": "ADVERSARIAL-OFFENSE-CONTINUATION (Rule 87): JAILBREAK-OPT + FRAGFUSE + AUTODOJO",
-  "last_run_notes": "Run 131: Rule 87 ADVERSARIAL-OFFENSE-CONTINUATION: JailbreakOPT (tool-organized jailbreak taxonomy) + FragFuse (memory fragmentation attack) + AutoDojo (IPI defense limits)",
+  "last_run": 132,
+  "last_explore": "2026-06-29T22:30:00+00:00",
+  "last_global_explore": "2026-06-29T22:30:00+00:00",
+  "last_discovery": "2026-06-29T22:30:00+00:00",
+  "last_run_framing": "INFRASTRUCTURE-SAFETY-PROBE \u2014 Rule 88",
+  "last_framing": "INFRASTRUCTURE-SAFETY-PROBE (Rule 88): ENVIRONMENT-INJECTED MEMORY POISONING + RESOURCE CONSUMPTION THREATS + LONG-TERM STATE POISONING",
+  "last_run_notes": "Run 132: Rule 88 INFRASTRUCTURE-SAFETY-PROBE: Environment-Injected Memory Poisoning + Resource Consumption Threats + Long-Term State Poisoning",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 402,
+  "entities_count": 405,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4930,6 +4930,36 @@
       "discovered": "2026-06-29T21:45:00+00:00",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2604.02623",
+      "title": "Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents",
+      "slug": "poison-once-exploit-forever-environment-injected-memory-poisoning-attacks-on-web-agents-2604.02623",
+      "url": "https://arxiv.org/abs/2604.02623",
+      "discovered": "2026-06-29T22:30:00+00:00",
+      "theme": "LLM infrastructure security / L3 memory poisoning / environment-memory interface exploitation",
+      "vector": "emergent",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.06731",
+      "title": "When Routine Chats Turn Toxic: Unintended Long-Term State Poisoning in Personalized Agents",
+      "slug": "when-routine-chats-turn-toxic-unintended-long-term-state-poisoning-in-personalized-agents-2605.06731",
+      "url": "https://arxiv.org/abs/2605.06731",
+      "discovered": "2026-06-29T22:30:00+00:00",
+      "theme": "LLM infrastructure security / unintended cumulative state contamination / value drift in persistent agents",
+      "vector": "emergent",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2603.16068",
+      "title": "Resource Consumption Threats in Large Language Models",
+      "slug": "resource-consumption-threats-in-large-language-models-2603.16068",
+      "url": "https://arxiv.org/abs/2603.16068",
+      "discovered": "2026-06-29T22:30:00+00:00",
+      "theme": "LLM infrastructure security / resource exhaustion as safety failure / token budget depletion",
+      "vector": "emergent",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -8068,6 +8098,30 @@
       "url": "https://arxiv.org/abs/2606.15057",
       "discovered": "2026-06-29T21:45:00+00:00",
       "theme": "adversarial-attack / indirect-prompt-injection-defense-limits"
+    },
+    {
+      "arxiv_id": "2604.02623",
+      "title": "Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents",
+      "slug": "poison-once-exploit-forever-environment-injected-memory-poisoning-attacks-on-web-agents-2604.02623",
+      "url": "https://arxiv.org/abs/2604.02623",
+      "discovered": "2026-06-29T22:30:00+00:00",
+      "theme": "LLM infrastructure security / L3 memory poisoning / environment-memory interface exploitation"
+    },
+    {
+      "arxiv_id": "2605.06731",
+      "title": "When Routine Chats Turn Toxic: Unintended Long-Term State Poisoning in Personalized Agents",
+      "slug": "when-routine-chats-turn-toxic-unintended-long-term-state-poisoning-in-personalized-agents-2605.06731",
+      "url": "https://arxiv.org/abs/2605.06731",
+      "discovered": "2026-06-29T22:30:00+00:00",
+      "theme": "LLM infrastructure security / unintended cumulative state contamination / value drift in persistent agents"
+    },
+    {
+      "arxiv_id": "2603.16068",
+      "title": "Resource Consumption Threats in Large Language Models",
+      "slug": "resource-consumption-threats-in-large-language-models-2603.16068",
+      "url": "https://arxiv.org/abs/2603.16068",
+      "discovered": "2026-06-29T22:30:00+00:00",
+      "theme": "LLM infrastructure security / resource exhaustion as safety failure / token budget depletion"
     }
   ],
   "emergent_concept_search_log": [
@@ -12775,6 +12829,18 @@
       "run": 131,
       "date": "2026-06-29T21:45:00+00:00",
       "count": 3
+    },
+    {
+      "run": 132,
+      "timestamp": "2026-06-29T22:30:00+00:00",
+      "framing": "INFRASTRUCTURE-SAFETY-PROBE",
+      "method": "web_search INFRASTRUCTURE-SAFETY-PROBE",
+      "added": 3,
+      "papers": [
+        "2604.02623",
+        "2605.06731",
+        "2603.16068"
+      ]
     }
   ],
   "last_updated": "2026-06-29T19:06:28.349779+00:00",

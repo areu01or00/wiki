@@ -1,3 +1,4 @@
+Explore: 2026-06-29T22:30 UTC — Run 132 INFRASTRUCTURE-SAFETY-PROBE (Rule 88): Environment-Injected Memory Poisoning (2604.02623) + Resource Consumption Threats (2603.16068) + Long-Term State Poisoning (2605.06731)
 ## 2026-06-29 13:30 UTC — Emergent-concept search Run 106 (3 fresh themes)
 
 **Mode**: emergent-concept-search via arxiv search HTML + web_search 6-query FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE escape hatch per Rule 73 (codified candidate)
