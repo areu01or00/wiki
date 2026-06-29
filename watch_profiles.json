@@ -1027,7 +1027,10 @@
         "2606.27974",
         "fcacc38a542434c175824d6c0ab6d741",
         "ff1e8b3ddd9f61bb37ed1663c658a1e1",
-        "22161e81a05bdb76208e9dc3a6d9fb3b"
+        "22161e81a05bdb76208e9dc3a6d9fb3b",
+        "2606.17952",
+        "2606.14574",
+        "2606.06915"
       ],
       "last_results": [
         {
@@ -4110,6 +4113,33 @@
           "chain": "emergent-concepts",
           "theme": "process-reward-model / survey",
           "discovered": "2026-06-29T15:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.17952",
+          "title": "SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs",
+          "hash": "a4d720354d63f42bbd3397c97404f29e",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "sparse architecture / soft routing / differentiable MoE",
+          "discovered": "2026-06-29T16:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.14574",
+          "title": "SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model",
+          "hash": "e490755969228e82217963e21462539e",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agentic planning / world-model benchmarking / latent failure",
+          "discovered": "2026-06-29T16:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.06915",
+          "title": "ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning",
+          "hash": "5f5bd670d55e496e6a9fa57382a69a60",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "test-time compute / unified framework / modular reasoning",
+          "discovered": "2026-06-29T16:30:00+00:00"
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4471,7 +4501,10 @@
     "2606.27974",
     "fcacc38a542434c175824d6c0ab6d741",
     "ff1e8b3ddd9f61bb37ed1663c658a1e1",
-    "22161e81a05bdb76208e9dc3a6d9fb3b"
+    "22161e81a05bdb76208e9dc3a6d9fb3b",
+    "2606.17952",
+    "2606.14574",
+    "2606.06915"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -4826,7 +4859,10 @@
       "2606.27974",
       "fcacc38a542434c175824d6c0ab6d741",
       "ff1e8b3ddd9f61bb37ed1663c658a1e1",
-      "22161e81a05bdb76208e9dc3a6d9fb3b"
+      "22161e81a05bdb76208e9dc3a6d9fb3b",
+      "2606.17952",
+      "2606.14574",
+      "2606.06915"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",
