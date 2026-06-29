@@ -19,7 +19,7 @@
   "emergent_concept_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
   "emergent_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
   "chains_updated": 0,
-  "entities_count": 243,
+  "entities_count": 246,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3556,6 +3556,30 @@
       "discovered": "2026-06-29T03:55:00+00:00",
       "theme": "reward-model-geometry / lattice-representation-hypothesis / linear-rep-fca-unification",
       "online_date": "2026-03-02"
+    },
+    {
+      "arxiv_id": "2603.12953",
+      "title": "Delta1 with LLM: Symbolic\u2013Neural Integration for Credible and Explainable Reasoning",
+      "slug": "delta1-with-llm-symbolic-neural-integration-for-credible-and-explainable-reasoning-2603.12953",
+      "url": "https://arxiv.org/abs/2603.12953",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "neuro-symbolic-grounding / explainability-by-construction / FTSC-theorem-generation / LLM-verbalization / minimal-unsatisfiable-clause-sets / polynomial-time-soundness"
+    },
+    {
+      "arxiv_id": "2602.21044",
+      "title": "LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification",
+      "slug": "logicgraph-benchmarking-multi-path-logical-reasoning-via-neuro-symbolic-generation-and-verification-2602.21044",
+      "url": "https://arxiv.org/abs/2602.21044",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "neuro-symbolic-grounding / multi-path-reasoning / divergent-reasoning / backward-logic-generation / semantic-instantiation / solver-verified-benchmark / divergence-gap-failure-mode"
+    },
+    {
+      "arxiv_id": "2605.01293",
+      "title": "Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks",
+      "slug": "lifting-traces-to-logic-programmatic-skill-induction-with-neuro-symbolic-learning-for-long-horizon-agentic-tasks-2605.01293",
+      "url": "https://arxiv.org/abs/2605.01293",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "neuro-symbolic-grounding / trace-to-logic-lifting / programmatic-skill-induction / logic-grounded-control-flow / dynamic-variable-binding / few-shot-generalisation"
     }
   ],
   "emergent_discoveries": [
@@ -5431,6 +5455,30 @@
       "url": "https://arxiv.org/abs/2603.01227",
       "discovered": "2026-06-29T03:55:00+00:00",
       "theme": "reward-model-geometry / lattice-representation-hypothesis / linear-rep-fca-unification"
+    },
+    {
+      "arxiv_id": "2603.12953",
+      "title": "Delta1 with LLM: Symbolic\u2013Neural Integration for Credible and Explainable Reasoning",
+      "slug": "delta1-with-llm-symbolic-neural-integration-for-credible-and-explainable-reasoning-2603.12953",
+      "url": "https://arxiv.org/abs/2603.12953",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "neuro-symbolic-grounding / explainability-by-construction / FTSC-theorem-generation / LLM-verbalization / minimal-unsatisfiable-clause-sets / polynomial-time-soundness"
+    },
+    {
+      "arxiv_id": "2602.21044",
+      "title": "LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification",
+      "slug": "logicgraph-benchmarking-multi-path-logical-reasoning-via-neuro-symbolic-generation-and-verification-2602.21044",
+      "url": "https://arxiv.org/abs/2602.21044",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "neuro-symbolic-grounding / multi-path-reasoning / divergent-reasoning / backward-logic-generation / semantic-instantiation / solver-verified-benchmark / divergence-gap-failure-mode"
+    },
+    {
+      "arxiv_id": "2605.01293",
+      "title": "Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks",
+      "slug": "lifting-traces-to-logic-programmatic-skill-induction-with-neuro-symbolic-learning-for-long-horizon-agentic-tasks-2605.01293",
+      "url": "https://arxiv.org/abs/2605.01293",
+      "discovered": "2026-06-29T03:55:00+00:00",
+      "theme": "neuro-symbolic-grounding / trace-to-logic-lifting / programmatic-skill-induction / logic-grounded-control-flow / dynamic-variable-binding / few-shot-generalisation"
     }
   ],
   "emergent_concept_search_log": [
@@ -6574,6 +6622,27 @@
       "title": "Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems",
       "theme": "multi-agent-consensus-probe-rule45-coordination-architectural-layer",
       "discovered": "2026-06-29T01:39:20+00:00"
+    },
+    {
+      "timestamp": "2026-06-29T03:55:00+00:00",
+      "run_number": 80,
+      "mode": "web_search_4_query_escape_hatch",
+      "probe_rule": "Rule 47 NEURO-SYMBOLIC-GROUNDING-PROBE",
+      "picks_count": 3,
+      "picks": [
+        {
+          "arxiv_id": "2603.12953",
+          "slug": "delta1-with-llm-symbolic-neural-integration-for-credible-and-explainable-reasoning-2603.12953"
+        },
+        {
+          "arxiv_id": "2602.21044",
+          "slug": "logicgraph-benchmarking-multi-path-logical-reasoning-via-neuro-symbolic-generation-and-verification-2602.21044"
+        },
+        {
+          "arxiv_id": "2605.01293",
+          "slug": "lifting-traces-to-logic-programmatic-skill-induction-with-neuro-symbolic-learning-for-long-horizon-agentic-tasks-2605.01293"
+        }
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -7563,6 +7632,12 @@
       "queries_used": 4,
       "candidates_surfaced": 11,
       "candidates_picked": 3
+    },
+    {
+      "run_number": 80,
+      "timestamp": "2026-06-29T03:55:00+00:00",
+      "mode": "web_search_4_query_escape_hatch",
+      "probe_rule": "Rule 47 NEURO-SYMBOLIC-GROUNDING-PROBE"
     }
   ],
   "runs": [
@@ -8590,6 +8665,13 @@
       "web_search_template": "reward-model-geometry-probe: pac-bayesian-prm-bounds + ordinal-decomposition-stochastic-rater + lattice-representation-hypothesis-symbol-grounding + reward-shaping-vision-language-models",
       "fresh_llm_returned": 16,
       "note": "Rule 46 reward-model-geometry-probe WORKED, fresh-LLM return at typical base rate with full orthogonality to Run 78 multi-agent-consensus picks"
+    },
+    {
+      "run_number": 80,
+      "theme": "neuro-symbolic-grounding-probe-rule47",
+      "notes": "Run 80 \u2014 NEURO-SYMBOLIC-GROUNDING-PROBE per Rule 47 \u2014 FTSC theorem generation + multi-path logical reasoning benchmark + trace-to-logic programmatic skill induction",
+      "timestamp": "2026-06-29T03:55:00+00:00",
+      "picks_count": 3
     }
   ],
   "last_updated": "2026-06-29T00:25:00.000000+00:00",

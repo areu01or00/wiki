@@ -910,7 +910,10 @@
         "2605.03310",
         "2606.20740",
         "2605.12667",
-        "2603.01227"
+        "2603.01227",
+        "2603.12953",
+        "2602.21044",
+        "2605.01293"
       ],
       "last_results": [
         {
@@ -2769,6 +2772,42 @@
           "slug": "the-lattice-representation-hypothesis-of-large-language-models-2603.01227",
           "online_date": "2026-03-02",
           "run_number": 79
+        },
+        {
+          "arxiv_id": "2603.12953",
+          "title": "Delta1 with LLM: Symbolic\u2013Neural Integration for Credible and Explainable Reasoning",
+          "hash": "1dfdf04ec74df9f1c4a6cde1651675e9",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "neuro-symbolic-grounding / explainability-by-construction / FTSC-theorem-generation / LLM-verbalization / minimal-unsatisfiable-clause-sets / polynomial-time-soundness",
+          "discovered": "2026-06-29T03:55:00+00:00",
+          "slug": "delta1-with-llm-symbolic-neural-integration-for-credible-and-explainable-reasoning-2603.12953",
+          "online_date": "2026-03-13",
+          "run_number": 80
+        },
+        {
+          "arxiv_id": "2602.21044",
+          "title": "LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification",
+          "hash": "e7ebf2d1683b01efb3eaac163fe966e8",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "neuro-symbolic-grounding / multi-path-reasoning / divergent-reasoning / backward-logic-generation / semantic-instantiation / solver-verified-benchmark / divergence-gap-failure-mode",
+          "discovered": "2026-06-29T03:55:00+00:00",
+          "slug": "logicgraph-benchmarking-multi-path-logical-reasoning-via-neuro-symbolic-generation-and-verification-2602.21044",
+          "online_date": "2026-02-24",
+          "run_number": 80
+        },
+        {
+          "arxiv_id": "2605.01293",
+          "title": "Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks",
+          "hash": "81e98dfcd7f4cad01853e63429066a85",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "neuro-symbolic-grounding / trace-to-logic-lifting / programmatic-skill-induction / logic-grounded-control-flow / dynamic-variable-binding / few-shot-generalisation",
+          "discovered": "2026-06-29T03:55:00+00:00",
+          "slug": "lifting-traces-to-logic-programmatic-skill-induction-with-neuro-symbolic-learning-for-long-horizon-agentic-tasks-2605.01293",
+          "online_date": "2026-05-02",
+          "run_number": 80
         }
       ],
       "last_run": "2026-06-29T00:25:00+00:00",
@@ -3019,7 +3058,10 @@
     "2605.03310",
     "2606.20740",
     "2605.12667",
-    "2603.01227"
+    "2603.01227",
+    "2603.12953",
+    "2602.21044",
+    "2605.01293"
   ],
   "last_discovery": "2026-06-29T00:25:00.000000+00:00",
   "last_updated": "2026-06-29T00:25:00.000000+00:00",
@@ -3257,7 +3299,10 @@
       "2605.03310",
       "2606.20740",
       "2605.12667",
-      "2603.01227"
+      "2603.01227",
+      "2603.12953",
+      "2602.21044",
+      "2605.01293"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",
