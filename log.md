@@ -1,3 +1,34 @@
+## 2026-06-29 09:30 UTC — Emergent-concept search Run 91 (3 fresh themes)
+
+**Mode**: emergent-concept-search via web_search 4-query MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE escape hatch per Rule 58
+
+### Picks (3 fresh LLM-centric papers)
+1. **When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models** (2606.27288) — Chen, Josef (cs.CL, 2026-06-25). Theme: model-combination-fusion / co-failure-ceiling-diagnostic / multi-model-combination primitive theme. Proves that for any policy whose output is one member-model answer, accuracy cannot exceed 1 − β, where β is the rate at which every model in the pool is simultaneously wrong on the same query; provides a Clopper-Pearson finite-sample certificate on the largest gain any router/vote/cascade could deliver before training the router; across 67 models from 21 providers, even tetrachoric-calibrated single-factor Gaussian-copula underprices β by ~2.5× on open-ended mathematics (observed β = 0.052 vs copula-implied 0.023, 90% CI 1.7–3.4, k = 17) and β = 0.079 on execution-graded code; re-asking GPQA-Diamond in free-response rather than multiple-choice form reopens the tail with β = 0.127 and a five-judge panel κ = 0.73–0.92, locating co-failure in answer format rather than subject matter; at matched single-model quality, low-ρ heterogeneous ensembles beat high-ρ Self-MoA, but on checkable tasks combining models rarely beats the single best model without a strong query-level routing signal — gains come from models failing on *different* questions, not from adding more models. **First co-failure-ceiling theorem with finite-sample certificate on multi-model combination gain across 67 frontier models in the wiki.**
+2. **PACT: Preserving Anchored Cores in Task-vectors for Model Merging** (2606.18627) — Shi, Ningyuan; Zhou, Zhipeng; Wang, Hao; Miao, Chunyan; Zhao, Peilin (cs.LG, 2026-06-17, online 06-23). Theme: model-combination-fusion / task-vector-weight-space-merging / load-bearing-wall-dimensions-primitive / anchored-core-preservation theme. Identifies Load-Bearing Wall (LBW) dimensions — task-critical knowledge that remains embedded in pre-trained weights rather than being fully transferred into task vectors — characterizing LBW from both scalar-weight and subspace perspectives (covering major merging paradigms); aligns task-vector orthogonal complements with the pre-trained-weight subspace, then removes the aligned subspace components before applying existing merging algorithms; PACT consistently enhances mainstream approaches (Ties-Merging, AdaMerging) and establishes new state-of-the-art performance across multiple benchmarks via a scalable randomized-SVD variant. **First Load-Bearing Wall (LBW) anchored-core-preservation framework for training-free task-vector model merging with new SOTA across vision and language in the wiki.**
+3. **Distilling Linearized Behavior into Non-Linear Fine-Tuning for Effective Task Arithmetic** (2605.18993) — Sommariva, Thomas; Morandi, Francesca; Calderara, Simone; Porrello, Angelo (cs.LG, 2026-05-18, online 05-22). Theme: model-combination-fusion / linearization-property-distillation-for-task-arithmetic / merge-compatible-fine-tuning / activation-space-linearity primitive theme. Bridges linear and standard non-linear fine-tuning for effective task arithmetic by showing that *linearity with respect to weight perturbations* (a parameter-space property) can be enforced through constraints in activation space during training; hidden representations from a curvature-regularized linearized teacher are distilled into a non-linear student via conventional fine-tuning, producing models that inherit the key composition-friendly properties of linearized models for task arithmetic while paying no inference-time overhead — solving the practical limitation that linearized models have limited expressivity during training and higher computational costs at inference time. **First activation-space-linearity-distillation framework for merging-compatible fine-tuning at standard deployment cost in the wiki.**
+
+### Parent updates
+3 entries prepended to `entities/emergent-concepts.md` in date-DESC order: 06-25 (Co-Failure Ceiling) → 06-17 (PACT) → 05-18 (Distilling Linearized Behavior).
+
+### State
+- entities_count: 279 (was 276 before Run 91; +3)
+- explore_context.json runs: 87
+- emergent_concept_papers: 264
+- emergent_discoveries: 265
+- 3-store lockstep verified: wp['last_result_hashes'] == wp['llm-wiki']['last_result_hashes'] == wp['profiles']['llm-wiki-explore']['last_result_hashes'] (267 entries each)
+- last_results: 243 entries (Run 91 added 3)
+- Pitfall-83 streak: 37 consecutive runs (longest in wiki history by 24 runs)
+
+### Verification
+- Pre-write `ls entities/ | grep -F "<slug-prefix>"` audit passed for all 9 sibling wikilinks across 3 new entity files
+- Post-write wikilink audit passed for all 3 new entity files
+- Date-DESC ordering verified in `entities/emergent-concepts.md` new block (06-25 → 06-17 → 05-18)
+- State-file JSON formatting preserved via `json.dump(..., indent=2)` (pitfall-98)
+- State-file ensure_ascii=True preserved (pitfall-71)
+
+### Rule 58 codified
+**MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE**: pick axes that explicitly probe *model-combination and fusion primitives for LLM* — co-failure ceiling on multi-model systems, task-vector composition and weight-space merging, load-bearing wall dimensions in pre-trained weights, linearity-as-activation-constraint distillation, multi-model combination diagnostic bounds, single-vs-multi-model ceiling theorems. 5-step execution mechanism: (a) identify primitive-class surfaces NOT covered by Rules 36d-57; (b) construct 4 query axes using MODEL-COMBINATION VOCABULARY; (c) verify picks share NO cross-references with prior 37 runs (Rule 27); (d) verify each pick's primitive-class is structurally different (co-failure ceiling + anchored-core preservation + activation-space linearity distillation); (e) verify "first X in the wiki" framing via `ls entities/ | grep -iE`. **Rule 59 candidate: TIME-COURSE-MODELING-PROBE** — pick axes that probe LLM behavior over time (temporal robustness, distribution-shift-by-time, time-evolving benchmarks, longitudinal-deployment patterns) — extends Run 91's model-combination static-composition primitives to temporal-co-occurrence dynamics.
+
 ## 2026-06-29 08:41 UTC — Emergent-concept search Run 89 (3 fresh themes)
 
 **Mode**: emergent-concept-search via web_search 4-query AGENT-MEMORY-ARCHITECTURE-PROBE escape hatch per Rule 56

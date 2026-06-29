@@ -2,28 +2,26 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T09:11:00+00:00",
-  "__last_updated": "2026-06-29T09:11:00+00:00",
-  "last_run": "2026-06-29T09:11:00+00:00",
-  "last_explore": "2026-06-29T09:11:00+00:00",
-  "last_global_explore": "2026-06-29T09:11:00+00:00",
-  "last_discovery": "2026-06-29T09:11:00+00:00",
-  "last_run_framing": "Rule 57 MULTI-AGENT-COORDINATION-COLLABORATION-PROBE \u2014 execution-boundary governance + CSCW-grounded collaborative competence + internet-of-agentic-AI cross-discipline synthesis",
-  "last_framing": "multi-agent-coordination-collaboration",
-  "last_run_notes": "Run 90 - MULTI-AGENT-COORDINATION-COLLABORATION-PROBE per Rule 57 - execution-boundary-governance + CSCW-grounded-evaluation-methodology + internet-of-agentic-AI-cross-discipline-synthesis - 3-axis pivot to execution-boundary + collaborative-competence + internet-of-agents primitive triplet",
-  "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search_4query_multi_agent_coordination_collaboration_probe_rule57",
-  "run_method": "web_search_4query_multi_agent_coordination_collaboration_probe_rule57",
-  "last_run_added": [
-    "2606.04306",
-    "2606.06399",
-    "2606.12835"
+  "updated": "2026-06-29T09:30:00+00:00",
+  "__last_updated": "2026-06-29T09:30:00+00:00",
+  "last_run": "2026-06-29T09:30:00+00:00",
+  "last_explore": "2026-06-29T09:30:00+00:00",
+  "last_global_explore": "2026-06-29T09:30:00+00:00",
+  "last_discovery": "2026-06-29T09:30:00+00:00",
+  "last_run_framing": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE \u2014 pick axes that probe multi-model combination diagnostics + task-vector weight-space merging + load-bearing-wall dimensions + activation-space-linearity distillation",
+  "last_framing": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE \u2014 pick axes that probe multi-model combination diagnostics + task-vector weight-space merging + load-bearing-wall dimensions + activation-space-linearity distillation",
+  "last_run_notes": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE verified (37th consecutive pitfall-83 \u2014 longest in wiki history by 24 runs); 3 picks structurally orthogonal to Run 90 multi-agent-coordination-collaboration primitives \u2014 picks cover 3 distinct sub-axes of model-combination-fusion primitive-class: (a) co-failure-ceiling theorem on multi-model combination gain across 67 frontier models with finite-sample certificate, (b) load-bearing-wall dimensions in task-vectors for model merging with anchored-core preservation, (c) activation-space-linearity distillation for merge-compatible fine-tuning at standard deployment cost. Pivoted from Run 90 execution-boundary-governance-organizational-layer + CSCW-grounded-collaborative-competence-methodology + internet-of-agentic-AI-cross-discipline-synthesis-framework (multi-agent-coordination-collaboration primitive-class triplet) to co-failure-ceiling-on-routing-voting-mixture-of-agents + anchored-core-preservation-in-task-vectors + activation-space-linearity-distillation-for-task-arithmetic (model-combination-fusion primitive-class triplet).",
+  "last_pass_type": "emergent-concept-search",
+  "last_run_method": "web_search_4query_model_combination_fusion_primitive_probe_rule58",
+  "run_method": "web_search_4query_model_combination_fusion_primitive_probe_rule58",
+  "last_run_added": 3,
+  "exploration_type": "emergent-concept-search",
+  "emergent_concept_theme": "model-combination-fusion",
+  "emergent_theme": "model-combination-fusion",
+  "chains_updated": [
+    "emergent-concepts"
   ],
-  "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "multi-agent-coordination-collaboration",
-  "emergent_theme": "multi-agent-coordination-collaboration",
-  "chains_updated": 0,
-  "entities_count": 276,
+  "entities_count": 279,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3818,6 +3816,36 @@
       "url": "https://arxiv.org/abs/2606.12835",
       "discovered": "2026-06-29T09:11:00+00:00",
       "theme": "multi-agent-coordination-collaboration / internet primitive theme"
+    },
+    {
+      "arxiv_id": "2606.27288",
+      "slug": "when-does-combining-language-models-help-a-co-failure-ceiling-on-routing-voting-and-mixture-of-agents-across-67-frontier-models-2606.27288",
+      "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+      "url": "https://arxiv.org/abs/2606.27288",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T09:30:00+00:00",
+      "discovered_at": "2026-06-29T09:30:00+00:00",
+      "theme": "model-combination-fusion"
+    },
+    {
+      "arxiv_id": "2606.18627",
+      "slug": "pact-preserving-anchored-cores-in-task-vectors-for-model-merging-2606.18627",
+      "title": "PACT: Preserving Anchored Cores in Task-vectors for Model Merging",
+      "url": "https://arxiv.org/abs/2606.18627",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T09:30:00+00:00",
+      "discovered_at": "2026-06-29T09:30:00+00:00",
+      "theme": "model-combination-fusion"
+    },
+    {
+      "arxiv_id": "2605.18993",
+      "slug": "distilling-linearized-behavior-into-non-linear-fine-tuning-for-effective-task-arithmetic-2605.18993",
+      "title": "Distilling Linearized Behavior into Non-Linear Fine-Tuning for Effective Task Arithmetic",
+      "url": "https://arxiv.org/abs/2605.18993",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T09:30:00+00:00",
+      "discovered_at": "2026-06-29T09:30:00+00:00",
+      "theme": "model-combination-fusion"
     }
   ],
   "emergent_discoveries": [
@@ -5960,6 +5988,30 @@
       "url": "https://arxiv.org/abs/2606.12835",
       "discovered": "2026-06-29T09:11:00+00:00",
       "theme": "multi-agent-coordination-collaboration / internet primitive theme"
+    },
+    {
+      "arxiv_id": "2606.27288",
+      "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+      "slug": "when-does-combining-language-models-help-a-co-failure-ceiling-on-routing-voting-and-mixture-of-agents-across-67-frontier-models-2606.27288",
+      "url": "https://arxiv.org/abs/2606.27288",
+      "discovered": "2026-06-29T09:30:00+00:00",
+      "theme": "model-combination-fusion"
+    },
+    {
+      "arxiv_id": "2606.18627",
+      "title": "PACT: Preserving Anchored Cores in Task-vectors for Model Merging",
+      "slug": "pact-preserving-anchored-cores-in-task-vectors-for-model-merging-2606.18627",
+      "url": "https://arxiv.org/abs/2606.18627",
+      "discovered": "2026-06-29T09:30:00+00:00",
+      "theme": "model-combination-fusion"
+    },
+    {
+      "arxiv_id": "2605.18993",
+      "title": "Distilling Linearized Behavior into Non-Linear Fine-Tuning for Effective Task Arithmetic",
+      "slug": "distilling-linearized-behavior-into-non-linear-fine-tuning-for-effective-task-arithmetic-2605.18993",
+      "url": "https://arxiv.org/abs/2605.18993",
+      "discovered": "2026-06-29T09:30:00+00:00",
+      "theme": "model-combination-fusion"
     }
   ],
   "emergent_concept_search_log": [
@@ -7136,6 +7188,18 @@
       "candidates_surfaced": 4,
       "candidates_after_dedup": 3,
       "picks_added": 3
+    },
+    {
+      "timestamp": "2026-06-29T09:30:00+00:00",
+      "run_number": 91,
+      "query_axis_1": "co-failure ceiling on multi-model combination 67 frontier models",
+      "query_axis_2": "task arithmetic weight-space merging cross-model composition",
+      "query_axis_3": "load-bearing wall dimensions pre-trained weights task vector anchored core",
+      "query_axis_4": "activation-space linearity distillation task arithmetic non-linear fine-tuning",
+      "method": "model-combination-fusion-primitive-probe-rule-58",
+      "candidates_surfaced": 4,
+      "candidates_after_dedup": 3,
+      "picks_added": 3
     }
   ],
   "emergent_concept_search_runs": [
@@ -8204,6 +8268,17 @@
         "2605.08538",
         "2603.07670",
         "2601.09913"
+      ]
+    },
+    {
+      "run_number": 91,
+      "ts": "2026-06-29T09:30:00+00:00",
+      "probe_rule": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE",
+      "picks_count": 3,
+      "arxiv_ids": [
+        "2606.27288",
+        "2606.18627",
+        "2605.18993"
       ]
     }
   ],
@@ -9424,17 +9499,35 @@
         "2606.12835"
       ],
       "notes": "Rule 57 MULTI-AGENT-COORDINATION-COLLABORATION-PROBE verified (36th consecutive pitfall-83 \u2014 longest in wiki history by 23 runs); 3 picks structurally orthogonal to Run 89 agent-memory-architecture primitives \u2014 picks cover 3 distinct sub-axes of multi-agent-coordination-collaboration primitive-class: (a) execution-boundary governance organizational-layer with 88%\u2192near-zero unsafe-execution reduction on adversarial AgenticPay, (b) CSCW-grounded collaborative competence evaluation framework with controlled interaction-condition manipulation, (c) internet-of-agentic-AI cross-discipline synthesis framework with six research challenges + adaptive-manufacturing + distributed-operational case studies. Pivoted from Run 89 biological-cognitive-mechanism-memory-architecture + continuum-memory architectural-primitive + comprehensive-memory-survey-three-dimensional-taxonomy (agent-memory-architecture primitive-class triplet) to execution-boundary-governance-organizational-layer + CSCW-grounded-collaborative-competence-methodology + internet-of-agentic-AI-cross-discipline-synthesis-framework (multi-agent-coordination-collaboration primitive-class triplet). 2606.08340 (alem) was a 5-store-dedup duplicate; 2606.01199 (TaskWeave) deliberately skipped per Rule 30 (overlaps Run 89 memory-architecture theme)."
+    },
+    {
+      "run_number": 91,
+      "date": "2026-06-29T09:30:00+00:00",
+      "mode": "emergent-concept-search",
+      "rule": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE",
+      "theme": "model-combination-fusion",
+      "pitfall_83_streak": 37,
+      "hf_pool_status": "CV/3D-heavy; v2 data-props=11+25 papers with 11+14 fresh after 5-store dedup on 2026-06-29/28 but only 1+6 LLM-keyword-matched (mostly borderline safety/eval/agent-eval); web_search escape hatch",
+      "web_search_queries": [
+        "arxiv 2606 model combination mixture of agents routing ensemble co-failure ceiling frontier models",
+        "arxiv 2606 OR 2605 model merging task arithmetic cross-model composition weight interpolation",
+        "arxiv 2606 load bearing wall pre-trained weights task vector anchored core model merging",
+        "arxiv 2606 OR 2605 distillation linearization activation space task arithmetic non-linear fine-tuning"
+      ],
+      "candidates_surfaced": 4,
+      "picks_selected": [
+        "2606.27288",
+        "2606.18627",
+        "2605.18993"
+      ],
+      "notes": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE verified (37th consecutive pitfall-83 \u2014 longest in wiki history by 24 runs); 3 picks structurally orthogonal to Run 90 multi-agent-coordination-collaboration primitives \u2014 picks cover 3 distinct sub-axes of model-combination-fusion primitive-class: (a) co-failure-ceiling theorem on multi-model combination gain across 67 frontier models with finite-sample certificate, (b) load-bearing-wall dimensions in task-vectors for model merging with anchored-core preservation, (c) activation-space-linearity distillation for merge-compatible fine-tuning at standard deployment cost. Pivoted from Run 90 execution-boundary-governance-organizational-layer + CSCW-grounded-collaborative-competence-methodology + internet-of-agentic-AI-cross-discipline-synthesis-framework (multi-agent-coordination-collaboration primitive-class triplet) to co-failure-ceiling-on-routing-voting-mixture-of-agents + anchored-core-preservation-in-task-vectors + activation-space-linearity-distillation-for-task-arithmetic (model-combination-fusion primitive-class triplet)."
     }
   ],
   "last_updated": "2026-06-29T05:30:00+00:00",
-  "last_run_iso": "2026-06-29T09:11:00+00:00",
-  "total_entity_count": 261,
-  "entity_files_added": [
-    "2606.04306",
-    "2606.06399",
-    "2606.12835"
-  ],
-  "pass_type": "emergent-concept",
+  "last_run_iso": "2026-06-29T09:30:00+00:00",
+  "total_entity_count": 279,
+  "entity_files_added": 3,
+  "pass_type": "emergent-concept-search",
   "emergent_discoveries_log": [
     {
       "timestamp": "2026-06-25T22:58:26.213594+00:00",
@@ -9505,12 +9598,12 @@
     }
   ],
   "last_run_mode": "emergent-concept-search",
-  "last_run_summary": "Rule 57 multi-agent-coordination-collaboration-probe: 3 picks (OCL 2606.04306 + CollabSim 2606.06399 + IoAI 2606.12835)",
-  "last_watched": "2026-06-29T05:30:00+00:00",
+  "last_run_summary": "Run 91 \u2014 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE \u2014 3 picks: Co-Failure Ceiling across 67 frontier models + PACT Load-Bearing-Wall anchored-core preservation + Distilling Linearized Behavior into Non-Linear Fine-Tuning for Effective Task Arithmetic",
+  "last_watched": "2026-06-29T09:30:00+00:00",
   "last_run_pitfalls": [
-    "83",
-    "100",
-    "98"
+    "pitfall-83 (37th consecutive)",
+    "pitfall-98 (state-file format preservation)",
+    "pitfall-21 (pre-write audit)"
   ],
-  "last_run_theme": "test-time-compute-scaling"
+  "last_run_theme": "model-combination-fusion"
 }
