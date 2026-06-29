@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T00:25:00.000000+00:00",
-  "__last_updated": "2026-06-29T00:25:00.000000+00:00",
-  "last_run": "2026-06-29T00:25:00+00:00",
+  "updated": "2026-06-29T03:30:00.000000+00:00",
+  "__last_updated": "2026-06-29T03:30:00.000000+00:00",
+  "last_run": "2026-06-29T03:30:00.000000+00:00",
   "last_explore": "2026-06-26T10:09:00+00:00",
   "last_global_explore": "2026-06-26T10:09:00+00:00",
-  "last_discovery": "2026-06-29T00:25:00.000000+00:00",
-  "last_run_framing": "Rule 42 APPLICATION-DOMAIN-PROBE \u2014 physician-EHR-clinical-workflow + multinational-dental-specialty-clinical-reasoning + beyond-issue-resolution-coding-agent-workflows (vertical-application primitives anchored to real industry verticals; orthogonal to Run 74 cross-discipline axes)",
+  "last_discovery": "2026-06-29T03:30:00.000000+00:00",
+  "last_run_framing": "Rule 44 EMERGING-PRETRAINING-OBJECTIVE-PROBE \u2014 representation-space-continuous-supervision + auxiliary-head-future-summary + concept-level-replacement-of-token-supervision (post-NTP pretraining-objective primitives orthogonal to Run 76 failure-mode-catalog axes)",
   "last_framing": "Run 71 negative-result-probe per Rule 38 \u2014 pivoted from Run 70 axis-orthogonality training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff)",
-  "last_run_notes": "Run 71 \u2014 3 fresh LLM-centric papers via web_search 4-query NEGATIVE-RESULT-PROBE escape hatch per Rule 38 (after Run 70 axis-orthogonality per Rule 37). HF pool CV/3D-heavy for 17th consecutive run (pitfall-83 streak extended to Runs 55-71). HF daily v2 returned 80 papers across 2026-06-24/25/26 dates but only 14 fresh after 5-store dedup with only 3 borderline LLM-keyword-matched (ViQ visual-quantization, CoffeeBench already surfaced Run 66, FLUX3D 3D scene gen). web_search surfaced fresh LLM candidates via the negative-result-probe query template bracketing known-difficult-axes: (a) LLM fundamental incompatibility theorems + (b) LLM alignment tax measurements + (c) training data memorization boundaries + (d) compositional generalization failure modes. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 70 training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff primitive-class triplet). 3-axis DOMAIN-DIVERSITY NEGATIVE-RESULT-PROBE PIVOT per Rule 38 to propensity-vs-capability-memorization-evaluation + architectural-impossibility-triangle-info-theoretic-bound + Schwartz-value-co-movement-process-level-tradeoff.",
+  "last_run_notes": "Run 77 \u2014 3 fresh LLM-centric papers via web_search 4-query EMERGING-PRETRAINING-OBJECTIVE-PROBE escape hatch per Rule 44 (after Run 76 failure-mode-catalog per Rule 43). HF pool CV/3D-heavy for 23rd consecutive run (pitfall-83 streak extended to Runs 55-77). HF daily v2 returned 18+ papers on 2026-06-26/27/28/29 with 100% CV/3D-heavy composition and 0 LLM-keyword-matched. web_search surfaced fresh LLM candidates via the emerging-pretraining-objective-probe query template bracketing post-NTP axes: (a) in-representation dense continuous supervision as NTP augmentation + (b) auxiliary-head long-term future summary as NTP augmentation + (c) higher-level concept replacement of token-level supervision + (d) multi-token prediction extensions. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 76 architecture-of-errors-L1-L4 + audio-LM-hallucination-benchmark + alignment-tax-orthogonal-gradient-projection to representation-space-continuous-supervision + auxiliary-head-future-summary + concept-level-replacement. 3-axis DOMAIN-DIVERSITY EMERGING-PRETRAINING-OBJECTIVE-PROBE PIVOT per Rule 44 to NITP-implicit-token-self-distillation + future-summary-prediction-auxiliary-head + concept-level-semantic-replacement.",
   "last_pass_type": "emergent-concept",
   "last_run_method": "emergent_concept_search_via_web_search_4query_cross_discipline_probe_rule41",
   "run_method": "emergent-concept",
   "last_run_added": 3,
   "exploration_type": "emergent-concept",
-  "emergent_concept_theme": "cross-discipline-probe-formal-verification+neuroscience+hebbian-learning",
-  "emergent_theme": "cross-discipline-probe-formal-verification+neuroscience+hebbian-learning",
+  "emergent_concept_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
+  "emergent_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
   "chains_updated": 0,
-  "entities_count": 231,
+  "entities_count": 237,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5326,6 +5326,30 @@
       "url": "https://arxiv.org/abs/2602.07892",
       "discovered": "2026-06-29T03:00:00+00:00",
       "theme": "safety-alignment / alignment-tax / continual-learning / orthogonal-gradient-projection / catastrophic-forgetting"
+    },
+    {
+      "arxiv_id": "2605.24956",
+      "title": "NITP: Next Implicit Token Prediction for LLM Pre-training",
+      "slug": "nitp-next-implicit-token-prediction-for-llm-pre-training-2605.24956",
+      "url": "https://arxiv.org/abs/2605.24956",
+      "discovered": "2026-06-29T03:30:00.000000+00:00",
+      "theme": "emerging-pretraining-objective-probe-rule44"
+    },
+    {
+      "arxiv_id": "2510.14751",
+      "title": "Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries",
+      "slug": "beyond-multi-token-prediction-pretraining-llms-with-future-summaries-2510.14751",
+      "url": "https://arxiv.org/abs/2510.14751",
+      "discovered": "2026-06-29T03:30:00.000000+00:00",
+      "theme": "emerging-pretraining-objective-probe-rule44"
+    },
+    {
+      "arxiv_id": "2601.11791",
+      "title": "Beyond Tokens: Concept-Level Training Objectives for LLMs",
+      "slug": "beyond-tokens-concept-level-training-objectives-for-llms-2601.11791",
+      "url": "https://arxiv.org/abs/2601.11791",
+      "discovered": "2026-06-29T03:30:00.000000+00:00",
+      "theme": "emerging-pretraining-objective-probe-rule44"
     }
   ],
   "emergent_concept_search_log": [
@@ -8413,6 +8437,26 @@
       "theme": "failure-mode-catalog / per-failure-mode primitive classification",
       "rule": "Rule 43 \u2014 FAILURE-MODE-CATALOG codified",
       "last_run_framing": "failure-mode-catalog axes (per-task-type / per-modality / per-deployment-context / per-training-stage)"
+    },
+    {
+      "run_number": 77,
+      "timestamp": "2026-06-29T03:30:00.000000+00:00",
+      "method": "web_search_4query_emerging_pretraining_objective_probe_rule44_emergent_concept",
+      "queries_used": [
+        "arxiv 2026 LLM pretraining novel objective function beyond next-token-prediction",
+        "arxiv 2026 LLM causal inference counterfactual reasoning benchmark",
+        "arxiv 2026 LLM cognitive primitive working memory theory of mind benchmark",
+        "arxiv 2026 LLM self-supervised pretraining novel objective function 2026"
+      ],
+      "theme": "emerging-pretraining-objective-probe-rule44",
+      "framing": "Rule 44 EMERGING-PRETRAINING-OBJECTIVE-PROBE \u2014 representation-space-continuous-supervision + auxiliary-head-future-summary + concept-level-replacement-of-token-supervision (post-NTP pretraining-objective primitives orthogonal to Run 76 failure-mode-catalog axes)",
+      "results_count": 3,
+      "picks": [
+        "2605.24956",
+        "2510.14751",
+        "2601.11791"
+      ],
+      "streak_count": 23
     }
   ],
   "last_updated": "2026-06-29T00:25:00.000000+00:00",

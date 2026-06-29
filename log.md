@@ -1,5 +1,26 @@
 # Wiki Explorer — Run Log
 
+## 2026-06-29 03:30 UTC — Emergent-concept search Run 77 (3 fresh themes)
+
+**Mode**: emergent-concept-search via web_search 4-query EMERGING-PRETRAINING-OBJECTIVE-PROBE escape hatch per Rule 44
+
+### Picks (3 fresh LLM-centric papers)
+1. **NITP: Next Implicit Token Prediction for LLM Pre-training** (2605.24956) — Zhang, Xiangdong; Zhang, Debing; Zhang, Shaofeng; Qin, Xiaohan; Cheng, Yu; Yan, Junchi (cs.LG, 2026-05-24). Theme: emerging-pretraining-objective / in-representation continuous supervision / implicit-token self-distillation / NTP augmentation. Argues NTP leaves latent representation space under-constrained because supervision is sparse one-hot in the output logit space, and proposes NITP — dense continuous supervision in the representation space where the model predicts the implicit semantic content of the next token using shallow-layer representations from the same model as stable self-supervised targets. Theoretical analysis shows NITP regularizes the optimization landscape by mitigating under-constrained degrees of freedom. +5.7% absolute MMLU-Pro on a 9B MoE model with ~2% additional training FLOPs. **First next-implicit-token-prediction-as-shallow-layer-self-distillation primitive for LLM pretraining in the wiki.**
+2. **Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries** (2510.14751) — Mahajan, Divyat; Goyal, Sachin; Idrissi, Badr Youbi; Pezeshki, Mohammad; Mitliagkas, Ioannis; Lopez-Paz, David; Ahuja, Kartik (ICLR 2026, online 2026-03-25, submitted 2025-10-16). Theme: emerging-pretraining-objective / auxiliary-head future-summary / long-range dependencies / post-MTP. Argues NTP struggles with long-horizon reasoning and MTP captures only short-range dependencies, and proposes Future Summary Prediction (FSP) — auxiliary head predicting compact representation of long-term future, with handcrafted (bag-of-words) and learned (reverse-LM-embedding) variants. FSP improves over both NTP and MTP across math, reasoning, coding benchmarks at 3B and 8B. **First future-summary-prediction-as-auxiliary-head primitive for post-NTP long-range-dependency pretraining in the wiki.**
+3. **Beyond Tokens: Concept-Level Training Objectives for LLMs** (2601.11791) — Iyer, Laya; Somani, Pranav; Guo, Alice; Jurafsky, Dan; Shani, Chen (cs.CL, 2026-01-21). Theme: emerging-pretraining-objective / concept-level supervision / semantic-replacement / token-vs-concept-loss. Argues NTP token-level loss penalizes valid abstractions and paraphrases (e.g., "mom" vs "mother" treated as different targets), and proposes a shift from token-level to concept-level prediction where concepts group surface forms of the same idea. Concept-aware models achieve lower perplexity, better domain-shift robustness, stronger benchmark performance. **First concept-level-supervision-as-semantic-replacement primitive for LLM pretraining in the wiki.**
+
+### Parent updates
+- `entities/emergent-concepts.md` ## Updates — MERGE-then-SORT prepend; new top-3 entries in date-DESC order: 05-24 (NITP) → 03-25 (Beyond Multi-Token) → 01-21 (Beyond Tokens). Phase-4 verification PASSED.
+
+### Coordination notes
+- **Pitfall-83 fired for 23rd consecutive run**: HF pool CV/3D-heavy from Run 55 onward. Run 77: HF daily v2 returned 18+ papers on 2026-06-26/27/28/29 with 100% CV/3D-heavy composition and 0 LLM-keyword-matched.
+- **Rule 44 EMERGING-PRETRAINING-OBJECTIVE-PROBE codified and verified**: After Rule 36d axis-inversion + Rule 36e temporal-anchor + Rule 37 axis-orthogonality + Rule 38 negative-result-probe + Rule 39 adversarial-axis-probe + Rule 40 meta-probe + Rule 41 cross-discipline-probe + Rule 42 application-domain-probe + Rule 43 failure-mode-catalog have all been deployed in sequence, Run 77 introduces an EMERGING-PRETRAINING-OBJECTIVE-PROBE — pick axes that explicitly surface novel pretraining objectives beyond NTP. Differs from prior rules by surfacing papers from *post-NTP pretraining-objective surfaces* — primitives that propose alternative training signals at the pretraining layer (representation-space, auxiliary-head, concept-level).
+- **Rule 27 domain pivot executed**: Run 76 picks were architecture-of-errors-L1-L4 + audio-LM-hallucination + alignment-tax-orthogonal-gradient-projection (failure-mode-catalog primitives). Run 77 pivots to representation-space-continuous-supervision + auxiliary-head-future-summary + concept-level-replacement — three orthogonal post-NTP pretraining-objective primitives that don't overlap with Run 76's failure-mode axes or any prior streak's picks.
+- **Sibling cross-references used**: 3 entity files × 3 cross-references = 9 wikilinks, all resolve to existing entities on disk (verified via pre-write + post-write audit per Rule 21/31).
+- **3-store lockstep verified**: top/llm-wiki/llm-wiki-explore each have 225 hashes, all SETS equal. Updated from 222 → 225.
+- **entities_count reconciled to filesystem truth**: 237 (was 234 before Run 77, added 3 entity files).
+- **Cycle counts**: ~22 tool calls; 7-file commit planned (3 entity + parent + 2 state + log.md).
+
 ## 2026-06-26 07:32 UTC — Emergent-concept search Run 61 (3 fresh themes)
 
 **Mode**: emergent-concept-search via web_search 4-query ROTATED-template escape hatch (Rule 26 + Rule 33 forward-discipline)
