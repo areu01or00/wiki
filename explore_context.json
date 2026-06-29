@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 387,
+  "entities_count": 390,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7810,6 +7810,30 @@
       "url": "https://arxiv.org/abs/2602.04931",
       "discovered": "2026-06-29T18:05:46.380881+00:00",
       "theme": "causal-representation"
+    },
+    {
+      "arxiv_id": "2508.10404",
+      "title": "Layer-Wise Perturbations via Sparse Autoencoders for Adversarial Text Generation",
+      "slug": "layer-wise-perturbations-via-sparse-autoencoders-for-adversarial-text-generation-2508.10404",
+      "url": "https://arxiv.org/abs/2508.10404",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "ADVERSARIAL-REPRESENTATION-PROBE"
+    },
+    {
+      "arxiv_id": "2510.13992",
+      "title": "Signature in Code Backdoor Detection, How Far Are We?",
+      "slug": "signature-in-code-backdoor-detection-how-far-are-we-2510.13992",
+      "url": "https://arxiv.org/abs/2510.13992",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "ADVERSARIAL-REPRESENTATION-PROBE"
+    },
+    {
+      "arxiv_id": "2512.21404",
+      "title": "LLM-Driven Feature-Level Adversarial Attacks on Android Malware Detectors",
+      "slug": "llm-driven-feature-level-adversarial-attacks-on-android-malware-detectors-2512.21404",
+      "url": "https://arxiv.org/abs/2512.21404",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "ADVERSARIAL-REPRESENTATION-PROBE"
     }
   ],
   "emergent_concept_search_log": [
@@ -12363,6 +12387,21 @@
       ],
       "method": "arxiv HTML search 6-query CAUSAL-REPRESENTATION-PROBE",
       "picks_added": 3
+    },
+    {
+      "run": 127,
+      "date": "2026-06-29T17:00:00+00:00",
+      "theme": "ADVERSARIAL-REPRESENTATION-PROBE",
+      "picks": [
+        "layer-wise-perturbations-via-sparse-autoencoders-for-adversarial-text-generation-2508.10404",
+        "signature-in-code-backdoor-detection-how-far-are-we-2510.13992",
+        "llm-driven-feature-level-adversarial-attacks-on-android-malware-detectors-2512.21404"
+      ],
+      "vectors_explored": [
+        "adversarial-representation",
+        "backdoor-detection",
+        "feature-level-adversarial-attack"
+      ]
     }
   ],
   "last_updated": "2026-06-29T19:00:00+00:00",
