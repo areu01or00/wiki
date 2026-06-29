@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T13:30:00+00:00",
   "__last_updated": "2026-06-29T13:30:00+00:00",
-  "last_run": 102,
-  "last_explore": "2026-06-29T13:30:00+00:00",
-  "last_global_explore": "2026-06-29T13:30:00+00:00",
-  "last_discovery": "2026-06-29T13:30:00+00:00",
-  "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
-  "last_framing": "Rule 69 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE \u2014 pick axes that probe invariance primitives for LLM under semantically-equivalent input perturbations (FOL-derived metamorphic-test construction, oracle-free cross-case consistency checking, closed-system-faithfulness information-theoretic bound, overlap-bias-LLM-judge evaluation, SFS claim-level faithfulness metric, evidence-grounded Socratic reasoning, granular-overlap-bias primitive, multi-agent-debate invariance-failure primitive)",
-  "last_run_notes": "Rule 69 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE verified (48th consecutive pitfall-83 \u2014 longest in wiki history by 36 runs); 3 picks structurally orthogonal to Run 101 identifiability primitives \u2014 picks cover 3 distinct sub-layers of invariance primitive-class: (a) generator-side reasoning invariance under FOL-derived logical-equivalence transformations, (b) closed-system reasoning invariance-failure with information-theoretic bound, (c) judge-side evaluation invariance under surface-overlap perturbations. Pivoted from Run 101 unobserved-confounder + SCM-grounded-counterfactual + latent-reasoning-vector identifiability (identifiability primitive-class triplet) to FOL-metamorphic-invariance + closed-system-faithfulness-bound + overlap-bias-LLM-judge-invariance (invariance-under-prompt-perturbation primitive-class triplet).",
+  "last_run": 103,
+  "last_explore": "2026-06-29T09:53:00+00:00",
+  "last_global_explore": "2026-06-29T09:53:00+00:00",
+  "last_discovery": "2026-06-29T09:53:00+00:00",
+  "last_run_framing": "Run 103 \u2014 REPRESENTATIONAL-GEOMETRY-PROBE per Rule 70 \u2014 trace-internal-representation-geometry-of-minimal-cores + training-stage-abstraction-phase-emergence-geometry + cross-model-shared-embedding-geometry",
+  "last_framing": "Rule 70 REPRESENTATIONAL-GEOMETRY-PROBE \u2014 pick axes that probe the intrinsic geometric structure of LLM representations (intrinsic dimensionality of token embeddings, minimal-cores of overcomplete reasoning traces, shared global+local geometry of LLM embeddings, abstraction-phase emergence in transformer training, dimension-reduction across layers, confidence-geometry for trace-level correctness)",
+  "last_run_notes": "Rule 70 REPRESENTATIONAL-GEOMETRY-PROBE verified (49th consecutive pitfall-83 \u2014 longest in wiki history by 37 runs); 3 picks structurally orthogonal to Run 102 invariance-under-prompt-perturbation primitives \u2014 picks cover 3 distinct sub-layers of representational-geometry primitive-class: (a) trace-internal representation geometry (minimal-cores), (b) cross-model shared embedding geometry (universality), (c) training-stage abstraction-phase emergence geometry (phase transition).",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
+  "last_run_method": "REPRESENTATIONAL-GEOMETRY-PROBE (Rule 70) via arxiv search HTML 8-query escape hatch",
   "run_method": "emergent-concept-search-via-arxiv-search-HTML",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "invariance-under-prompt-perturbation",
-  "emergent_theme": "invariance-under-prompt-perturbation",
+  "emergent_concept_theme": "representational-geometry",
+  "emergent_theme": "representational-geometry",
   "chains_updated": 0,
-  "entities_count": 312,
+  "entities_count": 315,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6616,6 +6616,30 @@
       "url": "https://arxiv.org/abs/2602.07673",
       "discovered": "2026-06-29T13:30:00+00:00",
       "theme": "invariance / overlap-bias / LLM-judge-evaluation"
+    },
+    {
+      "arxiv_id": "2605.14358",
+      "title": "Uncovering the Representation Geometry of Minimal Cores in Overcomplete Reasoning Traces",
+      "slug": "uncovering-the-representation-geometry-of-minimal-cores-in-overcomplete-reasoning-traces-2605.14358",
+      "url": "https://arxiv.org/abs/2605.14358",
+      "discovered": "2026-06-29T09:53:00+00:00",
+      "theme": "representational-geometry"
+    },
+    {
+      "arxiv_id": "2503.21073",
+      "title": "Shared Global and Local Geometry of Language Model Embeddings",
+      "slug": "shared-global-and-local-geometry-of-language-model-embeddings-2503.21073",
+      "url": "https://arxiv.org/abs/2503.21073",
+      "discovered": "2026-06-29T09:53:00+00:00",
+      "theme": "representational-geometry"
+    },
+    {
+      "arxiv_id": "2405.15471",
+      "title": "Emergence of a High-Dimensional Abstraction Phase in Language Transformers",
+      "slug": "emergence-of-a-high-dimensional-abstraction-phase-in-language-transformers-2405.15471",
+      "url": "https://arxiv.org/abs/2405.15471",
+      "discovered": "2026-06-29T09:53:00+00:00",
+      "theme": "representational-geometry"
     }
   ],
   "emergent_concept_search_log": [
@@ -10607,6 +10631,32 @@
         "2605.01704",
         "2602.07673"
       ]
+    },
+    {
+      "run_number": 103,
+      "date": "2026-06-29",
+      "theme": "representational-geometry",
+      "theme_full": "REPRESENTATIONAL-GEOMETRY-PROBE per Rule 70 \u2014 pick axes that probe the intrinsic geometric structure of LLM representations (intrinsic dimensionality, minimal-cores of reasoning traces, shared cross-model embedding geometry, abstraction-phase emergence in training)",
+      "rule_codified": "Rule 70 REPRESENTATIONAL-GEOMETRY-PROBE",
+      "num_fresh_candidates": 135,
+      "num_picks": 3,
+      "substrate": "arxiv search HTML 8-query",
+      "queries": [
+        "intrinsic dimensionality language model representation",
+        "representation manifold geometry transformer",
+        "representation space curvature LLM",
+        "concept basis representation invariance language model",
+        "persistent homology representation learning language model",
+        "intrinsic dimension hidden states neural network",
+        "low dimensional manifold representation language model",
+        "representation geometry probing LLM"
+      ],
+      "picks": [
+        "2605.14358",
+        "2503.21073",
+        "2405.15471"
+      ],
+      "notes": "49th consecutive pitfall-83. Arxiv search HTML escape hatch (Run 99 substrate) fired via 8 representational-geometry axes. 167 unique candidates, 135 fresh LLM candidates after 5-store dedup. 3 picks: minimal-cores representation geometry of overcomplete reasoning traces (2605.14358), shared global+local geometry of LLM embeddings (2503.21073), abstraction-phase emergence as geometric phase transition (2405.15471)."
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
