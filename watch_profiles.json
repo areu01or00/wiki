@@ -970,7 +970,10 @@
         "2606.14388",
         "2603.29025",
         "2605.25151",
-        "2408.08210"
+        "2408.08210",
+        "2604.02596",
+        "2506.08607",
+        "2401.17197"
       ],
       "last_results": [
         {
@@ -3564,19 +3567,55 @@
           "run_number": 99,
           "reviewed": true,
           "picked": true
+        },
+        {
+          "arxiv_id": "2604.02596",
+          "title": "An Empirical Study of Many-Shot In-Context Learning for Machine Translation of Low-Resource Languages",
+          "hash": "f71aa6490b1046b93b74bb3862f2f25f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "many-shot-ICL-low-resource",
+          "discovered": "2026-06-29T12:30:00+00:00",
+          "slug": "an-empirical-study-of-many-shot-in-context-learning-for-machine-translation-of-low-resource-languages-2604.02596",
+          "online_date": "2026-06-23",
+          "run_number": 100
+        },
+        {
+          "arxiv_id": "2506.08607",
+          "title": "Sample Efficient Demonstration Selection for In-Context Learning",
+          "hash": "f26fa42845d670ccc55e47278d74e825",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "best-arm-identification-ICL",
+          "discovered": "2026-06-29T12:30:00+00:00",
+          "slug": "sample-efficient-demonstration-selection-for-in-context-learning-2506.08607",
+          "online_date": "2025-06-10",
+          "run_number": 100
+        },
+        {
+          "arxiv_id": "2401.17197",
+          "title": "Data-efficient Fine-tuning for LLM-based Recommendation",
+          "hash": "869c5478cbe84fc0069cbbc39fd10733",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "data-pruning-LLM-fine-tuning",
+          "discovered": "2026-06-29T12:30:00+00:00",
+          "slug": "data-efficient-fine-tuning-for-llm-based-recommendation-2401.17197",
+          "online_date": "2024-06-04",
+          "run_number": 100
         }
       ],
-      "last_run": "2026-06-29T10:30:00+00:00",
-      "last_updated": "2026-06-29T10:30:00+00:00",
-      "last_result_timestamp": "2026-06-29T10:30:00+00:00",
-      "last_run_key": "run95-tokenizer-level-probe",
-      "last_pass_type": "emergent-concept search",
-      "last_discovery": "2026-06-29T10:30:00+00:00",
-      "updated_at": "2026-06-29T10:30:00+00:00",
-      "last_run_framing": "tokenizer-level probe \u2014 minimalist unigram + tokenization fairness + tokenization-free hierarchical"
+      "last_run": 100,
+      "last_updated": "2026-06-29T12:30:00+00:00",
+      "last_result_timestamp": "2026-06-29T12:30:00+00:00",
+      "last_run_key": "run-100-sample-efficiency-limit",
+      "last_pass_type": "emergent-concept",
+      "last_discovery": "2026-06-29T12:30:00+00:00",
+      "updated_at": "2026-06-29T12:30:00+00:00",
+      "last_run_framing": "Run 100 \u2014 SAMPLE-EFFICIENCY-LIMIT-PROBE per Rule 67"
     }
   },
-  "last_run": "2026-06-29T11:00:00+00:00",
+  "last_run": 100,
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3868,12 +3907,15 @@
     "2606.14388",
     "2603.29025",
     "2605.25151",
-    "2408.08210"
+    "2408.08210",
+    "2604.02596",
+    "2506.08607",
+    "2401.17197"
   ],
-  "last_discovery": "2606.24124",
+  "last_discovery": "2026-06-29T12:30:00+00:00",
   "last_updated": "2026-06-29T10:30:00+00:00",
-  "__last_updated": "2026-06-29T11:00:00+00:00",
-  "last_explore": "2026-06-29T11:00:00+00:00",
+  "__last_updated": "2026-06-29T12:30:00+00:00",
+  "last_explore": "2026-06-29T12:30:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -4166,11 +4208,14 @@
       "2606.14388",
       "2603.29025",
       "2605.25151",
-      "2408.08210"
+      "2408.08210",
+      "2604.02596",
+      "2506.08607",
+      "2401.17197"
     ],
-    "last_discovery": "2026-06-29T05:30:00+00:00",
-    "last_run": "2026-06-29T06:08:00+00:00",
-    "last_updated": "2026-06-29T05:47:05+00:00",
+    "last_discovery": "2026-06-29T12:30:00+00:00",
+    "last_run": 100,
+    "last_updated": "2026-06-29T12:30:00+00:00",
     "last_results": [
       {
         "arxiv_id": "2605.21768",
@@ -4234,19 +4279,91 @@
         "arxiv_id": "2601.22311",
         "url": "https://arxiv.org/abs/2601.22311",
         "discovered": "2026-06-26T07:09:00+00:00"
+      },
+      {
+        "arxiv_id": "2604.02596",
+        "title": "An Empirical Study of Many-Shot In-Context Learning for Machine Translation of Low-Resource Languages",
+        "hash": "f71aa6490b1046b93b74bb3862f2f25f",
+        "vector": "emergent",
+        "chain": "emergent-concepts",
+        "theme": "many-shot-ICL-low-resource",
+        "discovered": "2026-06-29T12:30:00+00:00",
+        "slug": "an-empirical-study-of-many-shot-in-context-learning-for-machine-translation-of-low-resource-languages-2604.02596",
+        "online_date": "2026-06-23",
+        "run_number": 100
+      },
+      {
+        "arxiv_id": "2506.08607",
+        "title": "Sample Efficient Demonstration Selection for In-Context Learning",
+        "hash": "f26fa42845d670ccc55e47278d74e825",
+        "vector": "emergent",
+        "chain": "emergent-concepts",
+        "theme": "best-arm-identification-ICL",
+        "discovered": "2026-06-29T12:30:00+00:00",
+        "slug": "sample-efficient-demonstration-selection-for-in-context-learning-2506.08607",
+        "online_date": "2025-06-10",
+        "run_number": 100
+      },
+      {
+        "arxiv_id": "2401.17197",
+        "title": "Data-efficient Fine-tuning for LLM-based Recommendation",
+        "hash": "869c5478cbe84fc0069cbbc39fd10733",
+        "vector": "emergent",
+        "chain": "emergent-concepts",
+        "theme": "data-pruning-LLM-fine-tuning",
+        "discovered": "2026-06-29T12:30:00+00:00",
+        "slug": "data-efficient-fine-tuning-for-llm-based-recommendation-2401.17197",
+        "online_date": "2024-06-04",
+        "run_number": 100
       }
     ],
-    "last_pass_type": "emergent-concept-search",
-    "updated_at": "2026-06-29T05:30:00+00:00"
+    "last_pass_type": "emergent-concept",
+    "updated_at": "2026-06-29T12:30:00+00:00"
   },
-  "last_pass_type": "explore",
+  "last_pass_type": "emergent-concept",
   "last_results": [
     "2606.28182",
     "2606.19911",
-    "2602.00911"
+    "2602.00911",
+    {
+      "arxiv_id": "2604.02596",
+      "title": "An Empirical Study of Many-Shot In-Context Learning for Machine Translation of Low-Resource Languages",
+      "hash": "f71aa6490b1046b93b74bb3862f2f25f",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "many-shot-ICL-low-resource",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "slug": "an-empirical-study-of-many-shot-in-context-learning-for-machine-translation-of-low-resource-languages-2604.02596",
+      "online_date": "2026-06-23",
+      "run_number": 100
+    },
+    {
+      "arxiv_id": "2506.08607",
+      "title": "Sample Efficient Demonstration Selection for In-Context Learning",
+      "hash": "f26fa42845d670ccc55e47278d74e825",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "best-arm-identification-ICL",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "slug": "sample-efficient-demonstration-selection-for-in-context-learning-2506.08607",
+      "online_date": "2025-06-10",
+      "run_number": 100
+    },
+    {
+      "arxiv_id": "2401.17197",
+      "title": "Data-efficient Fine-tuning for LLM-based Recommendation",
+      "hash": "869c5478cbe84fc0069cbbc39fd10733",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "data-pruning-LLM-fine-tuning",
+      "discovered": "2026-06-29T12:30:00+00:00",
+      "slug": "data-efficient-fine-tuning-for-llm-based-recommendation-2401.17197",
+      "online_date": "2024-06-04",
+      "run_number": 100
+    }
   ],
-  "last_run_framing": "axiomatic-formalization probe \u2014 trace-as-compilable-program + explanation-as-Lean4-proof + latent-state-as-axiom-system",
-  "updated": "2026-06-29T11:00:00+00:00",
-  "last_run_method": "web_search 4-query AXIOMATIC-FORMALIZATION-PROBE per Rule 63",
+  "last_run_framing": "Run 100 \u2014 SAMPLE-EFFICIENCY-LIMIT-PROBE per Rule 67",
+  "updated": "2026-06-29T12:30:00+00:00",
+  "last_run_method": "SAMPLE-EFFICIENCY-LIMIT-PROBE (Rule 67)",
   "last_run_added": 3
 }
