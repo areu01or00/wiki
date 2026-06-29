@@ -898,7 +898,10 @@
         "2604.16839",
         "2605.24636",
         "2605.08366",
-        "2605.02240"
+        "2605.02240",
+        "2605.30628",
+        "2604.19300",
+        "2602.07892"
       ],
       "last_results": [
         {
@@ -2613,6 +2616,42 @@
           "slug": "physicianbench-evaluating-llm-agents-in-real-world-ehr-environments-2605.02240",
           "online_date": "2026-05-04",
           "run_number": 75
+        },
+        {
+          "arxiv_id": "2605.30628",
+          "title": "The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability",
+          "hash": "564b21c2ba1beee429f90863f6c5b9d6",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "reliability / failure-modes / patch-local / impossibility-theorem",
+          "discovered": "2026-06-29T03:00:00+00:00",
+          "slug": "the-architecture-of-errors-from-universal-impossibility-to-patch-local-llm-reliability-2605.30628",
+          "online_date": "2026-05-28",
+          "run_number": 76
+        },
+        {
+          "arxiv_id": "2604.19300",
+          "title": "HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models",
+          "hash": "c77ecf1ad073cffb8451302afc3dd925",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "audio-language-model / hallucination / benchmark / modality-specific / speech-sound-music",
+          "discovered": "2026-06-29T03:00:00+00:00",
+          "slug": "halluaudio-a-comprehensive-benchmark-for-hallucination-detection-in-large-audio-language-models-2604.19300",
+          "online_date": "2026-04-21",
+          "run_number": 76
+        },
+        {
+          "arxiv_id": "2602.07892",
+          "title": "Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection",
+          "hash": "c9b14600009cec94fbf6ae179f63154d",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "safety-alignment / alignment-tax / continual-learning / orthogonal-gradient-projection / catastrophic-forgetting",
+          "discovered": "2026-06-29T03:00:00+00:00",
+          "slug": "safety-alignment-as-continual-learning-mitigating-the-alignment-tax-via-orthogonal-gradient-projection-2602.07892",
+          "online_date": "2026-02-08",
+          "run_number": 76
         }
       ],
       "last_run": "2026-06-29T00:25:00+00:00",
@@ -2851,7 +2890,10 @@
     "2604.16839",
     "2605.24636",
     "2605.08366",
-    "2605.02240"
+    "2605.02240",
+    "2605.30628",
+    "2604.19300",
+    "2602.07892"
   ],
   "last_discovery": "2026-06-29T00:25:00.000000+00:00",
   "last_updated": "2026-06-29T00:25:00.000000+00:00",
@@ -3077,7 +3119,10 @@
       "2604.16839",
       "2605.24636",
       "2605.08366",
-      "2605.02240"
+      "2605.02240",
+      "2605.30628",
+      "2604.19300",
+      "2602.07892"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",

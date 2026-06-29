@@ -1520,3 +1520,24 @@ Commit: `43762e4` → push succeeded.
 
 **Commit pending**: `Explore: 2026-06-29T01:30 UTC — Run 75`
 
+
+## Explore: 2026-06-29T03:00 UTC — Run 76
+
+**Mode**: emergent-concept search via web_search 4-query FAILURE-MODE-CATALOG escape hatch per Rule 43.
+
+**Pitfall-83 streak**: 22 consecutive runs (Runs 55-76). HF daily v2 returned 18 papers on 2026-06-26 with only 5 fresh after 5-store dedup, 0 LLM-keyword-matched (saturation symptom firmly structural to mid-June 2026 HF daily pool composition). HF v3 href-regex pool 100% CV/3D-heavy. HF monthly 2026-06 already in prior runs. web_search surfaced fresh LLM candidates via Rule 43 FAILURE-MODE-CATALOG query template (per-task-type failure taxonomy + per-modality multimodal-hallucination detection + per-deployment-context failure mode + per-training-stage catastrophic forgetting alignment tax).
+
+**Rule 43 FAILURE-MODE-CATALOG verified**: pivoted from Run 75 application-domain (medical-EHR-real-clinical-workflow + multinational-dental-specialty + beyond-issue-resolution-coding-agent-workflows) primitive-class triplet to failure-mode-catalog (architecture-of-errors L1-L4 ontological stratification + audio-LM hallucination benchmark + alignment-tax-as-continual-learning orthogonal-gradient-projection) primitive-class triplet. All 3 picks fully orthogonal to Run 75 vertical-application axes + Run 74 cross-discipline axes + Run 73 meta-research axes.
+
+**3 picks (date-DESC ordered by online_date)**:
+1. **The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability** (2605.30628, 05-28) — first formal failure-mode-ontological-stratification (L1-L4) with universal-impossibility-to-patch-local-achievement Proposition 1/2 in the wiki
+2. **HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models** (2604.19300, 04-21, ACL 2026) — first large-scale audio-domain hallucination benchmark (speech/sound/music, 5K+ human-verified QA pairs, four-dimensional evaluation protocol)
+3. **Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection** (2602.07892, 02-08, OGPSA) — first continual-learning-based alignment-tax mitigation with orthogonal-gradient-projection update rule (33.98%→42.74% SFT→DPO gain on Qwen2.5-7B-Instruct)
+
+**entities_count**: 231 → 234 (filesystem truth rule, 3 new entity files).
+
+**3-store lockstep**: 219 → 222 hashes in TOP-LEVEL / llm-wiki / profiles.llm-wiki-explore (verified set equality).
+
+**Pitfall-120 MIXED-SCHEMA in `last_results`**: index 147 contains a plain string `'2606.14589'` instead of a dict. Detected via isinstance(r, dict) guard, recovered via isinstance-aware dedup loop. Same class as pitfall-100 (emergent_discoveries mixed-schema) and pitfall-104 (Run 63's 7-field last_results — current schema now 11-field with slug + online_date + run_number added). The 3 hash stores in watch_profiles.json remain lists of plain strings (verified via `type(wp['last_result_hashes'][-1]).__name__ == 'str'`).
+
+**Commit pending**: `Explore: 2026-06-29T03:00 UTC — Run 76`

@@ -1534,6 +1534,33 @@
           "theme": "reproducibility-maturity-model",
           "online_date": "2025-11-29",
           "run_number": 73
+        },
+        {
+          "arxiv_id": "2605.30628",
+          "slug": "the-architecture-of-errors-from-universal-impossibility-to-patch-local-llm-reliability-2605.30628",
+          "title": "The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability",
+          "url": "https://arxiv.org/abs/2605.30628",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T03:00:00+00:00",
+          "theme": "reliability / failure-modes / patch-local / impossibility-theorem"
+        },
+        {
+          "arxiv_id": "2604.19300",
+          "slug": "halluaudio-a-comprehensive-benchmark-for-hallucination-detection-in-large-audio-language-models-2604.19300",
+          "title": "HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models",
+          "url": "https://arxiv.org/abs/2604.19300",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T03:00:00+00:00",
+          "theme": "audio-language-model / hallucination / benchmark / modality-specific / speech-sound-music"
+        },
+        {
+          "arxiv_id": "2602.07892",
+          "slug": "safety-alignment-as-continual-learning-mitigating-the-alignment-tax-via-orthogonal-gradient-projection-2602.07892",
+          "title": "Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection",
+          "url": "https://arxiv.org/abs/2602.07892",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-29T03:00:00+00:00",
+          "theme": "safety-alignment / alignment-tax / continual-learning / orthogonal-gradient-projection / catastrophic-forgetting"
         }
       ],
       "last_run": "2026-06-26T05:30:00+00:00",
@@ -3469,6 +3496,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-29T01:30:00+00:00",
       "theme": "medical/physician-ehr/clinical-workflow/application-domain-probe-rule42"
+    },
+    {
+      "arxiv_id": "2605.30628",
+      "slug": "the-architecture-of-errors-from-universal-impossibility-to-patch-local-llm-reliability-2605.30628",
+      "title": "The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability",
+      "url": "https://arxiv.org/abs/2605.30628",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T03:00:00+00:00",
+      "theme": "reliability / failure-modes / patch-local / impossibility-theorem"
+    },
+    {
+      "arxiv_id": "2604.19300",
+      "slug": "halluaudio-a-comprehensive-benchmark-for-hallucination-detection-in-large-audio-language-models-2604.19300",
+      "title": "HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models",
+      "url": "https://arxiv.org/abs/2604.19300",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T03:00:00+00:00",
+      "theme": "audio-language-model / hallucination / benchmark / modality-specific / speech-sound-music"
+    },
+    {
+      "arxiv_id": "2602.07892",
+      "slug": "safety-alignment-as-continual-learning-mitigating-the-alignment-tax-via-orthogonal-gradient-projection-2602.07892",
+      "title": "Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection",
+      "url": "https://arxiv.org/abs/2602.07892",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T03:00:00+00:00",
+      "theme": "safety-alignment / alignment-tax / continual-learning / orthogonal-gradient-projection / catastrophic-forgetting"
     }
   ],
   "emergent_discoveries": [
@@ -5248,6 +5302,30 @@
       "url": "https://arxiv.org/abs/2605.02240",
       "discovered": "2026-06-29T01:30:00+00:00",
       "theme": "medical/physician-ehr/clinical-workflow/application-domain-probe-rule42"
+    },
+    {
+      "arxiv_id": "2605.30628",
+      "title": "The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability",
+      "slug": "the-architecture-of-errors-from-universal-impossibility-to-patch-local-llm-reliability-2605.30628",
+      "url": "https://arxiv.org/abs/2605.30628",
+      "discovered": "2026-06-29T03:00:00+00:00",
+      "theme": "reliability / failure-modes / patch-local / impossibility-theorem"
+    },
+    {
+      "arxiv_id": "2604.19300",
+      "title": "HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models",
+      "slug": "halluaudio-a-comprehensive-benchmark-for-hallucination-detection-in-large-audio-language-models-2604.19300",
+      "url": "https://arxiv.org/abs/2604.19300",
+      "discovered": "2026-06-29T03:00:00+00:00",
+      "theme": "audio-language-model / hallucination / benchmark / modality-specific / speech-sound-music"
+    },
+    {
+      "arxiv_id": "2602.07892",
+      "title": "Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection",
+      "slug": "safety-alignment-as-continual-learning-mitigating-the-alignment-tax-via-orthogonal-gradient-projection-2602.07892",
+      "url": "https://arxiv.org/abs/2602.07892",
+      "discovered": "2026-06-29T03:00:00+00:00",
+      "theme": "safety-alignment / alignment-tax / continual-learning / orthogonal-gradient-projection / catastrophic-forgetting"
     }
   ],
   "emergent_concept_search_log": [
@@ -7355,6 +7433,13 @@
         "swe-atlas-benchmarking-coding-agents-beyond-issue-resolution-2605.08366",
         "physicianbench-evaluating-llm-agents-in-real-world-ehr-environments-2605.02240"
       ]
+    },
+    {
+      "run_number": 76,
+      "timestamp": "2026-06-29T03:00:00+00:00",
+      "queries_used": 4,
+      "candidates_surfaced": 11,
+      "candidates_picked": 3
     }
   ],
   "runs": [
@@ -8300,6 +8385,34 @@
       "outcome": "3 picks all from vertical-application primitives, zero cross-references with prior 20 runs",
       "recovery_applied": "pitfall-78 sort-recovery applied (05-04 \u2192 05-26 \u2192 05-08 recovered to 05-26 \u2192 05-08 \u2192 05-04); pitfall-110 caught 1 broken wikilink (2605.16517 not on disk, replaced)",
       "picks_count": 3
+    },
+    {
+      "run_number": 76,
+      "timestamp": "2026-06-29T03:00:00+00:00",
+      "method": "web_search_4query_failure_mode_catalog_rule43_emergent_concept",
+      "queries_used": [
+        "arxiv 2026 LLM failure mode taxonomy per task type reasoning code math QA error analysis",
+        "arxiv 2026 LLM multimodal hallucination failure mode vision-audio benchmark detection",
+        "arxiv 2026 LLM agent tool use failure mode trajectory error localization RAG",
+        "arxiv 2026 LLM training stage failure mode catastrophic forgetting fine-tuning alignment tax"
+      ],
+      "picks": [
+        "2605.30628",
+        "2604.19300",
+        "2602.07892"
+      ],
+      "picks_titles": [
+        "The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability",
+        "HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models",
+        "Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection"
+      ],
+      "candidates_fresh": 11,
+      "hf_fresh_llm": 0,
+      "hf_total": 18,
+      "web_search_queries": 4,
+      "theme": "failure-mode-catalog / per-failure-mode primitive classification",
+      "rule": "Rule 43 \u2014 FAILURE-MODE-CATALOG codified",
+      "last_run_framing": "failure-mode-catalog axes (per-task-type / per-modality / per-deployment-context / per-training-stage)"
     }
   ],
   "last_updated": "2026-06-29T00:25:00.000000+00:00",
