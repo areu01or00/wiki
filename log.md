@@ -1876,3 +1876,34 @@ Commit: `43762e4` → push succeeded.
 - state-file JSON formatting preserved (pitfall-98): indent=2, no separators override
 - state-file ensure_ascii=True preserved (pitfall-71): pure ASCII verified
 - commit pending
+
+## 2026-06-29 12:30 UTC — Emergent-concept search Run 100 (3 fresh themes)
+
+**Mode**: emergent-concept-search via arxiv search HTML 4-query SAMPLE-EFFICIENCY-LIMIT-PROBE escape hatch per Rule 67 (codified)
+
+**Discovery context (46th consecutive pitfall-83 — longest in wiki history by 33 runs)**:
+- HF daily v2 returned 14 papers on /papers/date/2026-06-29/30 sparse content (PhysisForcing, Translation-as-Bridging-Action, Qwen-Image-2.0-RL, SingGuard, ProMSA, SimFoundry, Formalizing-Latent-Thoughts, Ko-WideSearch, GBC, NormGuard, Paper-Assistant, Learning-to-Fold, Boundary-Aware-EEG, Object-Centric-Residual-RL) — 0 sample-efficiency-limit primitives, all CV/3D/multimodal/agent-eval heavy.
+- arxiv API rate-limited 429 (continues from late Run 98); web_search returned mostly stale results.
+- arxiv search HTML 4-query SAMPLE-EFFICIENCY-LIMIT-PROBE escape hatch fired per Rule 67 — pivoted from Run 99 minimal-pair-anchored-controlled-comparison + representational-decoding-causal-control-dissociation + probability-of-necessity-sufficiency-causation (null-model-comparison primitive-class triplet) to best-arms-identification-exemplar-selection-for-ICL + data-pruning-as-deployment-enabler-for-LLM-fine-tuning + many-shot-ICL-scaling-laws-for-low-resource-deployment (sample-efficiency-limit primitive-class triplet — fully orthogonal to Run 99 null-model-comparison axes).
+- The 3 picks form the **FT+ICL+deployment 3-layer sample-efficiency primitive-class triplet**: (a) exemplar-selection-as-best-arm-identification-ICL primitive (CASE algorithm) + (b) data-pruning-as-deployment-enabler-for-LLM-fine-tuning primitive (coreset selection) + (c) many-shot-ICL-as-low-resource-deployment primitive (sample-efficiency frontier for MT).
+
+**Rule 67 codification**: SAMPLE-EFFICIENCY-LIMIT-PROBE — pick axes that explicitly probe *sample-efficiency-limit primitives for LLM* (minimum-demonstrations-for-ICL, data-pruning-as-deployment-enabler for LLM fine-tuning, exemplar-selection as top-m best-arms identification, sample-efficient bandit formulation for demonstration discovery, many-shot ICL scaling laws under context-length budget constraints, low-resource-language ICL sample-efficiency frontier, coreset-selection for LLM domain-adaptation, bandit-theory-as-ICL-design-primitive).
+
+**3 picks (date-DESC ordered by online_date)**:
+1. **An Empirical Study of Many-Shot In-Context Learning for Machine Translation of Low-Resource Languages** (2604.02596, 06-23) — first paper in the wiki to systematically characterize **many-shot ICL scaling behavior for low-resource machine translation** — exposing the dual budget of context-length cost and per-example informativeness that governs ICL deployment in low-resource language communities.
+2. **Sample Efficient Demonstration Selection for In-Context Learning** (2506.08607, 06-10-2025) — first paper in the wiki to formulate **exemplar selection as a top-m best-arms identification problem from multi-armed bandit theory** — directly bridging bandit theory and LLM ICL via the CASE (Challenger Arm Sampling for Exemplar selection) algorithm.
+3. **Data-efficient Fine-tuning for LLM-based Recommendation** (2401.17197, 06-04-2024) — first paper in the wiki to propose **data pruning for efficient LLM-based recommendation** — identifying representative samples tailored for LLM few-shot fine-tuning as a coreset-selection problem.
+
+**Verification**:
+- 3 entity files exist on disk (an-empirical-study-of-many-shot-in-context-learning-for-machine-translation-of-low-resource-languages-2604.02596, sample-efficient-demonstration-selection-for-in-context-learning-2506.08607, data-efficient-fine-tuning-for-llm-based-recommendation-2401.17197)
+- 12 wikilinks across 3 entity files, all resolve to existing entities on disk
+- 3 wikilinks in parent Run 100 block (3 new picks), all resolve
+- entities_count=306 reconciled to filesystem truth (303 + 3 new)
+- 3-store lockstep: 294 hashes in all 3 locations, set equality confirmed
+- state-file JSON formatting preserved (pitfall-98): indent=2, no separators override, 10558+4368 lines (no collapse)
+- state-file ensure_ascii=True preserved (pitfall-71)
+- pre-write + post-write audit verified (0 broken wikilinks - pitfall-21/31)
+- commit 928ae28 → push to origin/main succeeded
+- Run 100 forward-discipline: Rule 68 candidate is MECHANISTIC-FIDELITY-PROBE — primitives probing whether mechanistic-interpretability claims match actual model behavior under perturbation (e.g., circuit-discovery-vs-behavior-dissociation tests, representation-realization-control three-way decomposition, feature-rotation invariance, etc.) OR IDENTIFIABILITY-PROBE — primitives probing whether interventions/measurements are identifiable from observational data alone (e.g., causal-effect-identifiability-in-LLM-prompting, treatment-effect-identification-via-instrumental-variables, observational-vs-experimental-decomposition).
+
+**Run 100 cycle counts**: ~22 tool calls; 6-file commit (3 new entity + 1 parent + 2 state); pushed to origin/main (`928ae28` confirmed).
