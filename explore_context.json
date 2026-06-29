@@ -2,15 +2,15 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T11:42:00+00:00",
-  "__last_updated": "2026-06-29T15:00:00+00:00",
-  "last_run": 119,
+  "updated": "2026-06-29T17:00:00+00:00",
+  "__last_updated": "2026-06-29T17:00:00+00:00",
+  "last_run": 120,
   "last_explore": "2026-06-29T16:30:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
   "last_discovery": "2026-06-29T16:30:00+00:00",
-  "last_run_framing": "LATENT-PLANNING-FAILURE + SOFT-ROUTING-MoE + UNIFIED-TTC-FRAMEWORK",
-  "last_framing": "LATENT-PLANNING-FAILURE + SOFT-ROUTING-MoE + UNIFIED-TTC-FRAMEWORK",
-  "last_run_notes": "Run 119: 3-axis LATENT-PLANNING-FAILURE (SIMMER) + SOFT-ROUTING-MoE (SoftMoE) + UNIFIED-TTC-FRAMEWORK (ThinkBooster) discovery",
+  "last_run_framing": "GROUNDED-ITERATIVE-PLANNING + MEMORY-UPDATE-GAP + EINSTEIN-WORLD-MODELS",
+  "last_framing": "GROUNDED-ITERATIVE-PLANNING + MEMORY-UPDATE-GAP + EINSTEIN-WORLD-MODELS",
+  "last_run_notes": "Run 121: 3-axis GROUNDED-ITERATIVE-PLANNING (GILP) + MEMORY-UPDATE-GAP (Supersede) + EINSTEIN-WORLD-MODELS (Einstein) discovery",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search 4-query TEST-TIME-COMPUTE + PROCESS-REWARD + PRM-SUPERVISION probe",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 369,
+  "entities_count": 372,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4531,6 +4531,30 @@
       "url": "https://arxiv.org/abs/2606.25091",
       "discovered": "2026-06-29T12:30:00+00:00",
       "theme": "inference-deployment"
+    },
+    {
+      "arxiv_id": "2606.27806",
+      "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+      "slug": "grounded-iterative-language-planning-how-parameterized-2606.27806",
+      "url": "https://arxiv.org/abs/2606.27806",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "agent planning / world-model hallucination reduction / grounded iterative planning"
+    },
+    {
+      "arxiv_id": "2606.27472",
+      "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+      "slug": "supersede-diagnosing-and-training-the-memory-update-gap-2606.27472",
+      "url": "https://arxiv.org/abs/2606.27472",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "agent memory diagnosis / memory-update gap / multi-session fact drift"
+    },
+    {
+      "arxiv_id": "2606.26969",
+      "title": "Einstein World Models",
+      "slug": "einstein-world-models-2606.26969",
+      "url": "https://arxiv.org/abs/2606.26969",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "physical reasoning / world models / beyond-language representation"
     }
   ],
   "emergent_discoveries": [
@@ -7381,6 +7405,30 @@
       "url": "https://arxiv.org/abs/2606.25091",
       "discovered": "2026-06-29T12:30:00+00:00",
       "theme": "inference-deployment"
+    },
+    {
+      "arxiv_id": "2606.27806",
+      "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+      "slug": "grounded-iterative-language-planning-how-parameterized-2606.27806",
+      "url": "https://arxiv.org/abs/2606.27806",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "agent planning / world-model hallucination reduction / grounded iterative planning"
+    },
+    {
+      "arxiv_id": "2606.27472",
+      "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+      "slug": "supersede-diagnosing-and-training-the-memory-update-gap-2606.27472",
+      "url": "https://arxiv.org/abs/2606.27472",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "agent memory diagnosis / memory-update gap / multi-session fact drift"
+    },
+    {
+      "arxiv_id": "2606.26969",
+      "title": "Einstein World Models",
+      "slug": "einstein-world-models-2606.26969",
+      "url": "https://arxiv.org/abs/2606.26969",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "physical reasoning / world models / beyond-language representation"
     }
   ],
   "emergent_concept_search_log": [
@@ -8669,6 +8717,33 @@
         "2606.19527"
       ],
       "source": "arxiv_search_html"
+    },
+    {
+      "arxiv_id": "2606.27806",
+      "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+      "slug": "grounded-iterative-language-planning-how-parameterized-2606.27806",
+      "url": "https://arxiv.org/abs/2606.27806",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "agent planning / world-model hallucination reduction / grounded iterative planning",
+      "run": 121
+    },
+    {
+      "arxiv_id": "2606.27472",
+      "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+      "slug": "supersede-diagnosing-and-training-the-memory-update-gap-2606.27472",
+      "url": "https://arxiv.org/abs/2606.27472",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "agent memory diagnosis / memory-update gap / multi-session fact drift",
+      "run": 121
+    },
+    {
+      "arxiv_id": "2606.26969",
+      "title": "Einstein World Models",
+      "slug": "einstein-world-models-2606.26969",
+      "url": "https://arxiv.org/abs/2606.26969",
+      "discovered": "2026-06-29T17:00:00+00:00",
+      "theme": "physical reasoning / world models / beyond-language representation",
+      "run": 121
     }
   ],
   "emergent_concept_search_runs": [
@@ -9931,6 +10006,16 @@
         "2606.27681",
         "2606.25091"
       ]
+    },
+    {
+      "run": 121,
+      "theme": "GROUNDED-ITERATIVE-PLANNING + MEMORY-UPDATE-GAP + EINSTEIN-WORLD-MODELS",
+      "papers": [
+        "2606.27806",
+        "2606.27472",
+        "2606.26969"
+      ],
+      "timestamp": "2026-06-29T17:00:00+00:00"
     }
   ],
   "runs": [
@@ -11714,6 +11799,40 @@
         }
       ],
       "timestamp": "2026-06-29T12:30:00+00:00"
+    },
+    {
+      "run_number": 121,
+      "theme": "GROUNDED-ITERATIVE-PLANNING + MEMORY-UPDATE-GAP + EINSTEIN-WORLD-MODELS",
+      "picks": [
+        {
+          "arxiv_id": "2606.27806",
+          "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+          "slug": "grounded-iterative-language-planning-how-parameterized-2606.27806",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent planning",
+          "discovered": "2026-06-29T17:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.27472",
+          "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+          "slug": "supersede-diagnosing-and-training-the-memory-update-gap-2606.27472",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent memory diagnosis",
+          "discovered": "2026-06-29T17:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.26969",
+          "title": "Einstein World Models",
+          "slug": "einstein-world-models-2606.26969",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "physical reasoning",
+          "discovered": "2026-06-29T17:00:00+00:00"
+        }
+      ],
+      "timestamp": "2026-06-29T17:00:00+00:00"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
