@@ -1,3 +1,34 @@
+## 2026-06-29 13:30 UTC — Emergent-concept search Run 102 (3 fresh themes)
+
+**Mode**: emergent-concept-search via arxiv search HTML 6-query INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE escape hatch per Rule 69 (codified)
+
+**Discovery context (48th consecutive pitfall-83 — longest in wiki history by 36 runs)**:
+- HF daily v2 returned 14 papers on /papers/date/2026-06-29/30 sparse content (PhysisForcing, Translation-as-Bridging-Action, Qwen-Image-2.0-RL, SingGuard, ProMSA, SimFoundry, Ko-WideSearch, GBC, NormGuard, Paper-Assistant, Learning-to-Fold, Boundary-Aware-EEG, Object-Centric-Residual-RL) — 0 invariance-under-prompt-perturbation primitives, all CV/3D/Robotics heavy.
+- arxiv API rate-limited 429 (continues from late Run 98); web_search returned mostly stale results.
+- arxiv search HTML 6-query INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE escape hatch fired per Rule 69 — pivoted from Run 101 unobserved-confounder-causal-effect-identifiability-via-IV-discovery + SCM-grounded-counterfactual-identifiability-for-explanation-evaluation + latent-reasoning-vector-identifiability-via-probes-and-decode-time-interventions (identifiability primitive-class triplet) to FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance (invariance-under-prompt-perturbation primitive-class triplet — fully orthogonal to Run 101 identifiability axes).
+- The 3 picks form the **FOL-metamorphic-invariance + closed-system-faithfulness-bound + overlap-bias-LLM-judge 3-layer invariance-under-prompt-perturbation primitive-class triplet**: (a) generator-side reasoning invariance under FOL-derived logical-equivalence transformations (LGMT) + (b) closed-system reasoning invariance-failure with information-theoretic bound (Reasoning Trap) + (c) judge-side evaluation invariance under surface-overlap perturbations (Overlap Bias).
+
+**Rule 69 codification**: INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE — pick axes that explicitly probe *invariance primitives for LLM under semantically-equivalent input perturbations* (FOL-derived metamorphic-test construction for reasoning reliability under logical equivalence transformations, multi-agent-debate invariance-failure with information-theoretic bound on closed-system reasoning, overlap-bias primitive for LLM-judge evaluation under surface-overlap perturbations with human references, oracle-free cross-case consistency checking primitive, symbol-level + conclusion-level sensitivity primitive, decomposer-invariant claim-level faithfulness metric, evidence-grounded Socratic reasoning primitive, granular-overlap-bias primitive, nine-LLM cross-architecture overlap-bias empirical-coverage primitive).
+
+**3 picks (date-DESC ordered by online_date)**:
+1. **LGMT: Logic-Grounded Metamorphic Testing for Evaluating the Reasoning Reliability of LLMs** (2605.23965, 06-07) — first paper in the wiki to **leverage first-order logic (FOL) to derive metamorphic relations from formal logical equivalences and construct semantically-invariant test cases** — moving LLM evaluation beyond isolated correctness toward robustness under logical invariance via oracle-free cross-case consistency checking.
+2. **The Reasoning Trap: An Information-Theoretic Bound on Closed-System Multi-Step LLM Reasoning** (2605.01704, 05-05) — first paper in the wiki to **identify that multi-agent-debate and closed-system reasoning preserves answer accuracy while degrading the reasoning behind those answers** — introducing the *Reasoning Trap* and its multi-agent special case *Debate Trap* with SFS (Supported Faithfulness Score) claim-level metric and information-theoretic bound on closed-system faithfulness.
+3. **Blind to the Human Touch: Overlap Bias in LLM-Based Summary Evaluation** (2602.07673, 02-07) — first paper in the wiki to **systematically quantify overlap-bias in LLM judges' ratings as a function of n-gram/Rouge overlap with human-written reference summaries** — testing 9 recent LLMs (1B-12B parameters, Gemma 3 + LLaMA variants).
+
+**Verification**:
+- 3 entity files exist on disk (lgmt-logic-grounded-metamorphic-testing-for-llm-reasoning-reliability-2605.23965, the-reasoning-trap-information-theoretic-bound-on-closed-system-multi-step-llm-reasoning-2605.01704, blind-to-the-human-touch-overlap-bias-in-llm-based-summary-evaluation-2602.07673)
+- 12 wikilinks across 3 entity files (4 per file: 3 cross-references + parent meta-page), all resolve to existing entities on disk after fixing 1 broken wikilink (pitfall-96 re-occurrence caught during pre-write audit — replaced `faithful-or-fabricated-...` with `liberty-...` since the former was a candidate but not an entity)
+- 3 wikilinks in parent Run 102 block (3 new picks), all resolve
+- entities_count=312 reconciled to filesystem truth (309 + 3 new)
+- 3-store lockstep: 300 hashes in all 3 locations, set equality confirmed (was 297, +3)
+- state-file JSON formatting preserved (pitfall-98): indent=2, no separators override
+- state-file ensure_ascii=True preserved (pitfall-71)
+- pre-write + post-write audit verified (0 broken wikilinks - pitfall-21/31)
+- commit 27fbb97 → push to origin/main succeeded
+- Run 102 forward-discipline: Rule 70 candidate is REPRESENTATIONAL-GEOMETRY-PROBE — primitives probing the geometric structure of LLM representations (intrinsic dimensionality, manifold structure, fiber-bundle structure, topological features) and how that geometry constrains what the model can/cannot represent.
+
+**Run 102 cycle counts**: ~24 tool calls; 6-file commit (3 new entity + 1 parent + 2 state); pushed to origin/main (`27fbb97` confirmed).
+
 ## 2026-06-29 05:47 UTC — Emergent-concept search Run 92 (3 fresh themes)
 
 **Mode**: emergent-concept-search via web_search 4-query COLLABORATIVE-LEARNING-PROBE escape hatch per Rule 59 (codified)
