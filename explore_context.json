@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T11:42:00+00:00",
   "__last_updated": "2026-06-29T14:15:00+00:00",
-  "last_run": 114,
+  "last_run": 115,
   "last_explore": "2026-06-29T14:15:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
   "last_discovery": "2026-06-29T14:15:00+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 348,
+  "entities_count": 351,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1131,7 +1131,7 @@
           "url": "https://arxiv.org/abs/2606.07682",
           "vector": "ultra-long-horizon-benchmark-protocol",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
+          "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
         },
         {
           "arxiv_id": "2606.06448",
@@ -1140,7 +1140,7 @@
           "url": "https://arxiv.org/abs/2606.06448",
           "vector": "systems-level-memory-characterization",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
+          "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
         },
         {
           "arxiv_id": "2606.05614",
@@ -1149,7 +1149,7 @@
           "url": "https://arxiv.org/abs/2606.05614",
           "vector": "safety-awareness-as-vulnerability",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
+          "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
         },
         {
           "arxiv_id": "2606.04990",
@@ -2742,7 +2742,7 @@
       "url": "https://arxiv.org/abs/2606.07682",
       "vector": "ultra-long-horizon-benchmark-protocol",
       "discovered": "2026-06-26T02:01:10+00:00",
-      "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
+      "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)"
     },
     {
       "arxiv_id": "2606.06448",
@@ -2751,7 +2751,7 @@
       "url": "https://arxiv.org/abs/2606.06448",
       "vector": "systems-level-memory-characterization",
       "discovered": "2026-06-26T02:01:10+00:00",
-      "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
+      "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)"
     },
     {
       "arxiv_id": "2606.05614",
@@ -2760,7 +2760,7 @@
       "url": "https://arxiv.org/abs/2606.05614",
       "vector": "safety-awareness-as-vulnerability",
       "discovered": "2026-06-26T02:01:10+00:00",
-      "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
+      "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
     },
     {
       "arxiv_id": "2606.04990",
@@ -3655,7 +3655,7 @@
     },
     {
       "arxiv_id": "2603.12953",
-      "title": "Delta1 with LLM: Symbolic\u2013Neural Integration for Credible and Explainable Reasoning",
+      "title": "Delta1 with LLM: Symbolic–Neural Integration for Credible and Explainable Reasoning",
       "slug": "delta1-with-llm-symbolic-neural-integration-for-credible-and-explainable-reasoning-2603.12953",
       "url": "https://arxiv.org/abs/2603.12953",
       "discovered": "2026-06-29T03:55:00+00:00",
@@ -5372,7 +5372,7 @@
       "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
       "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
       "url": "https://arxiv.org/abs/2606.07682",
-      "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+      "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
@@ -5380,7 +5380,7 @@
       "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
       "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
       "url": "https://arxiv.org/abs/2606.06448",
-      "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+      "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
@@ -5388,7 +5388,7 @@
       "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
       "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
       "url": "https://arxiv.org/abs/2606.05614",
-      "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+      "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
@@ -6280,7 +6280,7 @@
     },
     {
       "arxiv_id": "2603.12953",
-      "title": "Delta1 with LLM: Symbolic\u2013Neural Integration for Credible and Explainable Reasoning",
+      "title": "Delta1 with LLM: Symbolic–Neural Integration for Credible and Explainable Reasoning",
       "slug": "delta1-with-llm-symbolic-neural-integration-for-credible-and-explainable-reasoning-2603.12953",
       "url": "https://arxiv.org/abs/2603.12953",
       "discovered": "2026-06-29T03:55:00+00:00",
@@ -7095,7 +7095,7 @@
     },
     {
       "arxiv_id": "2603.04948",
-      "title": "\u2207-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
+      "title": "∇-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
       "slug": "nabla-reasoner-llm-reasoning-via-test-time-gradient-descent-in-latent-space-2603.04948",
       "url": "https://arxiv.org/abs/2603.04948",
       "discovered": "2026-06-29T13:45:00Z",
@@ -7701,7 +7701,7 @@
         "interpretability large-reasoning-models behavior-forecasting safety-trust-anchor"
       ],
       "thematic_framing": "theme-diversity: T2V-subject-driven-open-domain (DomainShuttle) + AR-diffusion-distillation-streaming-world-models (Causal-rCM) + LRM-behavior-forecasting-trust-anchor (Forecasting)",
-      "dedup_rate": "61 raw HF candidates \u2192 21 fresh after 5-store dedup \u2192 21 LLM-relevant",
+      "dedup_rate": "61 raw HF candidates → 21 fresh after 5-store dedup → 21 LLM-relevant",
       "pitfalls_hit": "NONE in main flow",
       "run_method": "hf_daily_emergent_concept_search",
       "parent_prepend_order": "date-DESC + reverse-insertion tiebreaker",
@@ -7725,8 +7725,8 @@
         "ocr-document-ai-kv-cache-attention-long-context",
         "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory"
       ],
-      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) \u2014 breaks recent generative-modeling-heavy streak",
-      "dedup_rate": "149 raw hits \u2192 117 unique arxiv IDs \u2192 34 fresh (filesystem dedup) \u2192 23 LLM-relevant"
+      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) — breaks recent generative-modeling-heavy streak",
+      "dedup_rate": "149 raw hits → 117 unique arxiv IDs → 34 fresh (filesystem dedup) → 23 LLM-relevant"
     },
     {
       "ts": "2026-06-25T23:39:00+00:00",
@@ -7861,7 +7861,7 @@
     },
     {
       "ts": "2026-06-26T01:17:00+00:00",
-      "candidates_surveyed": "62 HF (4 pages: default + 06-26 + 06-25 + 06-24; 06-26 page empty due to midnight UTC race) + 4 web_search queries (LLM agent memory + safety + training/reward) \u2192 21 fresh after 5-store dedup",
+      "candidates_surveyed": "62 HF (4 pages: default + 06-26 + 06-25 + 06-24; 06-26 page empty due to midnight UTC race) + 4 web_search queries (LLM agent memory + safety + training/reward) → 21 fresh after 5-store dedup",
       "picks": [
         "progress-advantage-neglected-free-lunch-post-training-llm-agents-2606.26080",
         "trustmem-trustworthy-memory-consolidation-llm-agents-long-term-memory-2606.25161",
@@ -7901,19 +7901,19 @@
     {
       "arxiv_id": "2606.07682",
       "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
-      "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+      "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
       "arxiv_id": "2606.06448",
       "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
-      "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+      "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
       "arxiv_id": "2606.05614",
       "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
-      "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+      "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
       "discovered": "2026-06-26T02:01:10+00:00"
     },
     {
@@ -7956,7 +7956,7 @@
         "researcher-role-mimicry-benchmark"
       ],
       "thematic_framing": "rubric-conditioned-self-distillation + agent-skill-evolution-survey-four-paradigm-taxonomy + researcher-role-mimicry-benchmark (3-axis pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak-mechanism / Run 42 provenance+safety-measurement+prospective-research-judgment)",
-      "dedup_rate": "68 HF candidates \u2192 18 fresh \u2192 6 LLM-relevant; 4 web_search queries \u2192 3 fresh LLM-research picks; 5-store dedup invariant intact",
+      "dedup_rate": "68 HF candidates → 18 fresh → 6 LLM-relevant; 4 web_search queries → 3 fresh LLM-research picks; 5-store dedup invariant intact",
       "pitfalls_hit": "pitfall-66 (slug-from-title mismatch on 2 wikilinks, fixed via lookup_slug)"
     },
     {
@@ -7998,7 +7998,7 @@
         "memory-graph-reconstruction / dynamic-access / associative-graph"
       ],
       "thematic_framing": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling",
-      "dedup_rate": "127 HF \u2192 28 fresh \u2192 12 LLM-relevant; 10 web_search fresh \u2192 3 picks (1 HF, 2 web_search)",
+      "dedup_rate": "127 HF → 28 fresh → 12 LLM-relevant; 10 web_search fresh → 3 picks (1 HF, 2 web_search)",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -8123,7 +8123,7 @@
         "insight-self-guided-skill-acquisition-via-steerable-vlas-2606.24884",
         "eventvla-event-driven-visual-evidence-memory-for-long-horizon-vision-language-action-policies-2606.20092"
       ],
-      "method": "Run 53 RECOVERY (pitfall-81 protocol) \u2014 adopted leftover entity files + parent-updates from Run 52 (2026-06-26T04:55) that were never committed; no re-discovery",
+      "method": "Run 53 RECOVERY (pitfall-81 protocol) — adopted leftover entity files + parent-updates from Run 52 (2026-06-26T04:55) that were never committed; no re-discovery",
       "theme": "coverage-aware-hallucination-taxonomy + steerable-vla-autonomous-skill-acquisition + foresight-driven-keyframe-evidence-memory (Run 52 3-axis pivot, completed at 05:08 UTC Run 53)"
     },
     {
@@ -8236,7 +8236,7 @@
       "hf_llm_matched": 6,
       "web_search_surfaced": 17,
       "rule_invoked": "Rule-36c-deep-sub-cluster-rotation",
-      "axis_cluster": "LLM-evaluation framework + reasoning-failure + multi-agent-coord + interpretability (deployment-evaluation cluster \u2014 DEEP-SUB-CLUSTER from previously-probed primitives)"
+      "axis_cluster": "LLM-evaluation framework + reasoning-failure + multi-agent-coord + interpretability (deployment-evaluation cluster — DEEP-SUB-CLUSTER from previously-probed primitives)"
     },
     {
       "timestamp": "2026-06-26T09:09:00+00:00",
@@ -8389,7 +8389,7 @@
       ],
       "fresh_count": 15,
       "pick_count": 3,
-      "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet)."
+      "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 — longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives — picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet)."
     },
     {
       "timestamp": "2026-06-29T11:00:00+00:00",
@@ -8729,7 +8729,7 @@
         "robotics / latent-action-representation / factorize / flow-matching"
       ],
       "thematic_framing": "theme-diversity: T2I causal-reasoning counterfactual-benchmark + DiT evaluation discipline + robotics latent-action factorize",
-      "dedup_rate": "117 raw HF candidates across 4 sources \u2192 43 fresh after 5-store dedup \u2192 34 LLM-relevant",
+      "dedup_rate": "117 raw HF candidates across 4 sources → 43 fresh after 5-store dedup → 34 LLM-relevant",
       "pitfalls_hit": "NONE in main flow (new finding: ensure_ascii divergent stable state confirmed; 3-store lockstep path schema verified; wikilink audit covers both entity files AND parent-update new block)"
     },
     {
@@ -8752,7 +8752,7 @@
       ],
       "thematic_framing": "theme-diversity: T2V-physical-plausibility-eval (PQSG scene-graph) + federated-diffusion-watermarking (FedOT chunked-watermark + LVT) + visual-CoT-structure-aware-T2I (IV-CoT structural-to-semantic cascade)",
       "dedup_rate": "61 HF candidates -> 24 fresh after arxiv-ID dedup -> 18 LLM-relevant after keyword filter -> 3 picked",
-      "pitfalls_hit": "NONE in main flow (NEW: explicit date-DESC verification before prepend \u2014 sorted 24849/25306/22875 manually before writing)"
+      "pitfalls_hit": "NONE in main flow (NEW: explicit date-DESC verification before prepend — sorted 24849/25306/22875 manually before writing)"
     },
     {
       "ts": "2026-06-25T23:12:09.658648+00:00",
@@ -8773,7 +8773,7 @@
         "interpretability large-reasoning-models behavior-forecasting safety-trust-anchor"
       ],
       "thematic_framing": "theme-diversity: T2V-subject-driven-open-domain (DomainShuttle) + AR-diffusion-distillation-streaming-world-models (Causal-rCM) + LRM-behavior-forecasting-trust-anchor (Forecasting)",
-      "dedup_rate": "61 raw HF candidates \u2192 21 fresh after 5-store dedup \u2192 21 LLM-relevant",
+      "dedup_rate": "61 raw HF candidates → 21 fresh after 5-store dedup → 21 LLM-relevant",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -8794,8 +8794,8 @@
         "ocr-document-ai-kv-cache-attention-long-context",
         "flow-matching-reward-backprop-t2i-alignment-surrogate-trajectory"
       ],
-      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) \u2014 breaks recent generative-modeling-heavy streak",
-      "dedup_rate": "149 raw hits \u2192 117 unique arxiv IDs \u2192 34 fresh (filesystem dedup) \u2192 23 LLM-relevant",
+      "thematic_framing": "theme-diversity (EO backbone + OCR/document AI + T2I flow-matching reward-BP training technique) — breaks recent generative-modeling-heavy streak",
+      "dedup_rate": "149 raw hits → 117 unique arxiv IDs → 34 fresh (filesystem dedup) → 23 LLM-relevant",
       "pitfalls_hit": "NONE in main flow (placeholder-slug forward-looking-broken-wikilink caught pre-write; replaced via lookup_slug with real existing entity)"
     },
     {
@@ -8817,7 +8817,7 @@
         "flow-matching / t2i-safety / velocity-editing / training-free / concept-removal / few-step-distillation"
       ],
       "thematic_framing": "streaming-interactive + capture-time-photography + flow-matching-safety",
-      "dedup_rate": "117 raw \u2192 31 fresh \u2192 31 LLM-relevant (73.5% dedup rate)",
+      "dedup_rate": "117 raw → 31 fresh → 31 LLM-relevant (73.5% dedup rate)",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -8839,7 +8839,7 @@
         "computer-use-agents / skill-curation / runtime-safety-gating / continual-learning / harness-as-intermediary"
       ],
       "thematic_framing": "theme-diversity breaking diffusion-heavy streak: NLP/interpretability + mobile-GUI-agent + CUA-safety",
-      "dedup_rate": "117 HF candidates \u2192 28 fresh after 5-store dedup \u2192 3 picks (theme-diverse)",
+      "dedup_rate": "117 HF candidates → 28 fresh after 5-store dedup → 3 picks (theme-diverse)",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -8905,7 +8905,7 @@
         "agent-budget-awareness-budget-as-control-signal"
       ],
       "thematic_framing": "agent-budget-awareness + agent-evaluation-methodology-predictive-validity + dynamic-environment-benchmark-memory-evolution (theme-diversity breaking 4D-video/VLA/GUI streaks)",
-      "dedup_rate": "61 raw \u2192 11 fresh (5-store) \u2192 8 LLM-keyword \u2192 +6 from web_search \u2192 3 picks (BAGEN/EvoArena/Beyond-Static-Leaderboards)",
+      "dedup_rate": "61 raw → 11 fresh (5-store) → 8 LLM-keyword → +6 from web_search → 3 picks (BAGEN/EvoArena/Beyond-Static-Leaderboards)",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -8949,8 +8949,8 @@
         "mechanistic-safety-geometry / logit-level-steering / linear-feature / bidirectional-defense"
       ],
       "thematic_framing": "post-training-implicit-advantage + memory-transition-reliability + mechanistic-safety-geometry (pivots from Run 38 agent-evaluation-deployment streak to three genuinely distinct surfaces: free step-level scoring byproduct from RL post-training; memory-update-transition reliability along coverage/preservation/faithfulness axes; mechanistic safety geometry where refusal is a linearly decodable feature with architectural phase transitions and bidirectional exploit/defend control)",
-      "dedup_rate": "62 HF candidates (CV/3D-heavy pool) \u2192 12 fresh after 5-store dedup \u2192 5 LLM-relevant HF; 4 web_search queries surfaced 16 fresh candidates; combined \u2192 21 fresh total \u2192 3 picks",
-      "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass \u2014 fixed via patch with existing-entity siblings"
+      "dedup_rate": "62 HF candidates (CV/3D-heavy pool) → 12 fresh after 5-store dedup → 5 LLM-relevant HF; 4 web_search queries surfaced 16 fresh candidates; combined → 21 fresh total → 3 picks",
+      "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass — fixed via patch with existing-entity siblings"
     },
     {
       "ts": "2026-06-26T01:42:00+00:00",
@@ -8970,13 +8970,13 @@
         "tool-use-memory-mechanism + reflection-based-extraction",
         "ontology-grounded-pre-deployment-verification + trust-certification"
       ],
-      "thematic_framing": "operational-infrastructure-for-agents \u2014 tool-use-memory + formal-pre-deployment-verification + automated-scientific-review (3 axes distinct from Run 37-38 agent-eval streak and Run 39 post-training+memory+safety-mechanism streak)",
+      "thematic_framing": "operational-infrastructure-for-agents — tool-use-memory + formal-pre-deployment-verification + automated-scientific-review (3 axes distinct from Run 37-38 agent-eval streak and Run 39 post-training+memory+safety-mechanism streak)",
       "dedup_rate": "12-of-62-fresh-HF + 14-fresh-web-search / 117-existing",
       "pitfalls_hit": "NONE in main flow"
     },
     {
       "ts": "2026-06-26T02:01:10+00:00",
-      "method": "HF daily (4 sources) + web_search (4 queries \u2014 agent memory, safety, training) + 5-store dedup",
+      "method": "HF daily (4 sources) + web_search (4 queries — agent memory, safety, training) + 5-store dedup",
       "papers": [
         "2606.07682",
         "2606.06448",
@@ -8988,12 +8988,12 @@
         "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614"
       ],
       "themes": [
-        "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
-        "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
-        "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
+        "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+        "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+        "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)"
       ],
       "thematic_framing": "ultra-long-horizon-benchmark-protocol + systems-level-memory-characterization + jailbreak-mechanism-discovery (3 axes structurally orthogonal to Run 37-38 eval-deployment, Run 39 post-training/memory/safety, Run 40 operational-infrastructure)",
-      "dedup_rate": "14 fresh HF, 11 fresh web_search = 25 fresh candidates \u2192 3 picks after LLM-keyword filter + theme-pivot discipline",
+      "dedup_rate": "14 fresh HF, 11 fresh web_search = 25 fresh candidates → 3 picks after LLM-keyword filter + theme-pivot discipline",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -9037,7 +9037,7 @@
         "researcher-role-mimicry-benchmark"
       ],
       "thematic_framing": "rubric-conditioned-self-distillation + agent-skill-evolution-survey + researcher-role-mimicry-benchmark (3-axis pivot)",
-      "dedup_rate": "68 HF \u2192 18 fresh \u2192 6 LLM-relevant; 4 web_search queries \u2192 3 fresh picks",
+      "dedup_rate": "68 HF → 18 fresh → 6 LLM-relevant; 4 web_search queries → 3 fresh picks",
       "pitfalls_hit": "pitfall-66 fixed"
     },
     {
@@ -9059,7 +9059,7 @@
         "environment-grounded-eval / smart-home-agent / sustained-agency-benchmark"
       ],
       "thematic_framing": "on-policy-skill-distillation-for-agentic-RL + randomized-YaRN-length-generalization + SMH-Bench-environment-grounded-smart-home-eval (3-axis pivot from Run 37-38 eval / Run 39 post-training+memory+safety / Run 40 operational-infra / Run 41 ultra-long-horizon+memory-systems+jailbreak / Run 42 provenance+safety-measurement+prospective-research / Run 43 rubric-self-distill+skill-survey+researcher-mimicry)",
-      "dedup_rate": "125 HF \u2192 27 fresh \u2192 9 LLM-relevant; 2 web_search batches; 3 picks from HF + meta-search",
+      "dedup_rate": "125 HF → 27 fresh → 9 LLM-relevant; 2 web_search batches; 3 picks from HF + meta-search",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -9081,7 +9081,7 @@
         "memory-graph-reconstruction / dynamic-access / associative-graph"
       ],
       "thematic_framing": "memory-graph-reconstruction + dense-terminology-data-curation + trainable-test-time-branch-scaling",
-      "dedup_rate": "127 HF \u2192 28 fresh \u2192 12 LLM-relevant; 10 web_search fresh \u2192 3 picks",
+      "dedup_rate": "127 HF → 28 fresh → 12 LLM-relevant; 10 web_search fresh → 3 picks",
       "pitfalls_hit": "NONE in main flow"
     },
     {
@@ -9104,7 +9104,7 @@
       ],
       "thematic_framing": "direct-policy-alignment + externalization-as-unifying-primitive + token-level-routing-as-test-time-alignment-decision (3-axis pivot from Run 38-45 streaks; adopted from leftover Run 46 state)",
       "dedup_rate": "128 HF -> 29 fresh LLM-relevant + web_search -> 3 picks",
-      "pitfalls_hit": "NONE in main flow (left-over state from prior session adopted \u2014 see Run 46 lessons)"
+      "pitfalls_hit": "NONE in main flow (left-over state from prior session adopted — see Run 46 lessons)"
     },
     {
       "ts": "2026-06-26T03:39:12+00:00",
@@ -9219,7 +9219,7 @@
     },
     {
       "ts": "2026-06-26T05:08:00+00:00",
-      "method": "Run 53 RECOVERY \u2014 pitfall-81 mid-run recovery protocol",
+      "method": "Run 53 RECOVERY — pitfall-81 mid-run recovery protocol",
       "theme": "Run 52 picks completed (Hallucination-World-Models + InSight + EventVLA)"
     },
     {
@@ -9290,7 +9290,7 @@
         "dart-diffusion-inspired-speculative-decoding-for-fast-llm-inference-2601.19278",
         "a-latent-computational-mode-in-large-language-models-2601.08058"
       ],
-      "notes": "Rule 26+33 forward-discipline pivot from Run 60 axes (i)+(v)+(vi) to (ii)+(iii)+(iv) \u2014 surfaced CoT-Controllability + DART + Latent-Computational-Mode from safety/reasoning-control/inference-eff/eval axes"
+      "notes": "Rule 26+33 forward-discipline pivot from Run 60 axes (i)+(v)+(vi) to (ii)+(iii)+(iv) — surfaced CoT-Controllability + DART + Latent-Computational-Mode from safety/reasoning-control/inference-eff/eval axes"
     },
     {
       "run_number": 62,
@@ -9323,7 +9323,7 @@
     {
       "timestamp": "2026-06-26T09:47:19.796636+00:00",
       "count": 3,
-      "theme": "TEMPORAL-ANCHOR-PROBE per Rule 36e \u2014 scalable-SAE-circuit-discovery + domain-specific-CoT-medical-imaging + test-time-compute-scaling-framework",
+      "theme": "TEMPORAL-ANCHOR-PROBE per Rule 36e — scalable-SAE-circuit-discovery + domain-specific-CoT-medical-imaging + test-time-compute-scaling-framework",
       "picks": [
         "scalable-circuit-learning-for-interpreting-large-language-models-2606.16939",
         "mammoexpert-benchmarking-chain-of-thought-reasoning-in-mammography-diagnosis-2606.21119",
@@ -9340,7 +9340,7 @@
         "arxiv 2026 benchmark saturation contamination \"no longer meaningful\" LLM evaluation",
         "arxiv 2026 \"reward hacking\" \"specification gaming\" LLM meta-analysis taxonomy"
       ],
-      "theme": "meta-probe per Rule 40 \u2014 goodhart-law-evaluation + reward-hacking-unification + reproducibility-maturity-model",
+      "theme": "meta-probe per Rule 40 — goodhart-law-evaluation + reward-hacking-unification + reproducibility-maturity-model",
       "count": 3,
       "picks": [
         {
@@ -9414,7 +9414,7 @@
       "run": 75,
       "date": "2026-06-29T01:30:00+00:00",
       "method": "web_search_4query_application_domain_probe_rule42",
-      "framing": "Rule 42 APPLICATION-DOMAIN-PROBE \u2014 vertical-application primitives",
+      "framing": "Rule 42 APPLICATION-DOMAIN-PROBE — vertical-application primitives",
       "queries": [
         "medical-AI clinical-EHR LLM-agent",
         "multinational-specialty-clinical-reasoning",
@@ -9560,7 +9560,7 @@
         "environment-diversity-scaling-laws"
       ],
       "picks_count": 3,
-      "notes": "Rule 61 ENVIRONMENTAL-EVOLUTION-PROBE surfaces 3 fresh LLM candidates across environmental-evolution surfaces: Agentic Environment-Task Discovery from MCP tools (Agent-World), SkelBuilder+ScenGenerator programmatic synthesis (EnvScaler), and \u03b1-Curriculum Reward co-evolutionary game (GenEnv)."
+      "notes": "Rule 61 ENVIRONMENTAL-EVOLUTION-PROBE surfaces 3 fresh LLM candidates across environmental-evolution surfaces: Agentic Environment-Task Discovery from MCP tools (Agent-World), SkelBuilder+ScenGenerator programmatic synthesis (EnvScaler), and α-Curriculum Reward co-evolutionary game (GenEnv)."
     },
     {
       "run_number": 95,
@@ -9569,14 +9569,14 @@
       "rule": "62",
       "method": "arxiv_api_tokenizer_level_primitive_probe",
       "picks_added": 3,
-      "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet)."
+      "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 — longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives — picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet)."
     },
     {
       "run_number": 98,
       "theme": "negative-result-as-primitive",
       "rule_codified": 65,
       "timestamp": "2026-06-29T11:30:00+00:00",
-      "description": "Run 98 introduces NEGATIVE-RESULT-AS-PRIMITIVE-PROBE \u2014 pre-registered controlled negative results as architectural primitives, pivoting from Run 97 emergent-capabilities-probe",
+      "description": "Run 98 introduces NEGATIVE-RESULT-AS-PRIMITIVE-PROBE — pre-registered controlled negative results as architectural primitives, pivoting from Run 97 emergent-capabilities-probe",
       "query_axes": [
         "pre-registered controlled study null result on intervention/scaffolding",
         "cross-model-activation-transfer causal-injection negative-result",
@@ -9641,7 +9641,7 @@
       "theme": "identifiability",
       "rule_codified": 68,
       "timestamp": "2026-06-29T13:00:00+00:00",
-      "description": "Run 101 introduces IDENTIFIABILITY-PROBE \u2014 pick axes that probe identifiability primitives (unobserved-confounder causal effect isolation, instrumental-variable discovery, SCM-grounded counterfactuals, latent-reasoning-vector identifiability), pivoting from Run 100 sample-efficiency-limit-probe",
+      "description": "Run 101 introduces IDENTIFIABILITY-PROBE — pick axes that probe identifiability primitives (unobserved-confounder causal effect isolation, instrumental-variable discovery, SCM-grounded counterfactuals, latent-reasoning-vector identifiability), pivoting from Run 100 sample-efficiency-limit-probe",
       "query_axes": [
         "unobserved-confounder causal effect identifiability via IV discovery",
         "SCM-grounded counterfactual identifiability for explanation evaluation",
@@ -9695,7 +9695,7 @@
         "2603.04198",
         "2605.06480"
       ],
-      "notes": "Run 106 \u2014 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE (Rule 73 candidate) \u2014 pivoted from Run 105 declarative-LM axes to functional-mechanistic-interpretability primitive-class triplet: (a) concept-annotation as SAE-evaluation substrate (2606.24716) + (b) weight-regularization as SAE-stability-and-steerability enabler (2603.04198) + (c) patch-effect-graph-kernel as circuit-comparison substrate (2605.06480); HF daily v2 returned CV/3D-heavy content (52nd consecutive pitfall-83 streak); arxiv API rate-limited 429; arxiv search HTML + web_search escape hatch fired for FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE via 6 axes; full orthogonality to Run 105 declarative-LM picks verified; Rule 73 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE codified candidate."
+      "notes": "Run 106 — FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE (Rule 73 candidate) — pivoted from Run 105 declarative-LM axes to functional-mechanistic-interpretability primitive-class triplet: (a) concept-annotation as SAE-evaluation substrate (2606.24716) + (b) weight-regularization as SAE-stability-and-steerability enabler (2603.04198) + (c) patch-effect-graph-kernel as circuit-comparison substrate (2605.06480); HF daily v2 returned CV/3D-heavy content (52nd consecutive pitfall-83 streak); arxiv API rate-limited 429; arxiv search HTML + web_search escape hatch fired for FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE via 6 axes; full orthogonality to Run 105 declarative-LM picks verified; Rule 73 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE codified candidate."
     }
   ],
   "runs": [
@@ -9959,7 +9959,7 @@
         "2606.21670"
       ],
       "count": 3,
-      "notes": "3 new entity pages from emergent-concept search on HF 4-source window (2026-06-25 / 2026-06-24 / 2026-06-23 / default): V-Zero (MLLM post-training label-free on-policy-distillation + contrastive-evidence-gating), Foresight (robotics long-horizon-manipulation failure-detection with action-conditioned world-model latents + conformal-prediction calibration), Improving Text-to-Music Generation with Human Preference Rewards (ATTM ICME 2026 efficiency-track entry using TuneJury twin pairwise ranker + expert iteration on a 120M FluxAudio-S backbone). Theme-diversity: MLLM post-training + robotics safety monitoring + creative-multimodal preference \u2014 continues non-agent-heavy streak."
+      "notes": "3 new entity pages from emergent-concept search on HF 4-source window (2026-06-25 / 2026-06-24 / 2026-06-23 / default): V-Zero (MLLM post-training label-free on-policy-distillation + contrastive-evidence-gating), Foresight (robotics long-horizon-manipulation failure-detection with action-conditioned world-model latents + conformal-prediction calibration), Improving Text-to-Music Generation with Human Preference Rewards (ATTM ICME 2026 efficiency-track entry using TuneJury twin pairwise ranker + expert iteration on a 120M FluxAudio-S backbone). Theme-diversity: MLLM post-training + robotics safety monitoring + creative-multimodal preference — continues non-agent-heavy streak."
     },
     {
       "timestamp": "2026-06-25T22:42:42.604070+00:00",
@@ -10091,7 +10091,7 @@
         "geometry-of-refusal-linear-instability-safety-aligned-llms-2606.22686"
       ],
       "entities_count_after": 126,
-      "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass \u2014 fixed by replacing with existing-entity siblings (Learning-from-Your-Own-Mistakes + Escaping-Self-Confirmation-Trap + ReNIO + PlanBench-XL)"
+      "pitfalls_hit": "NONE in main flow; pitfall-28 pitfall-66 audit caught 3 broken wikilinks in Progress Advantage Related Papers on first pass — fixed by replacing with existing-entity siblings (Learning-from-Your-Own-Mistakes + Escaping-Self-Confirmation-Trap + ReNIO + PlanBench-XL)"
     },
     {
       "timestamp": "2026-06-26T01:42:00+00:00",
@@ -10163,7 +10163,7 @@
         "memory-is-reconstructed-not-retrieved-graph-memory-llm-agents-2606.06036"
       ],
       "entities_count_after": 144,
-      "pitfalls_hit": "NONE in main flow; pre-write ls|grep caught how-inference-compute forward-looking unpicked-candidate wikilink before write \u2014 replaced with Periodic-Table-of-LLM-Reasoning"
+      "pitfalls_hit": "NONE in main flow; pre-write ls|grep caught how-inference-compute forward-looking unpicked-candidate wikilink before write — replaced with Periodic-Table-of-LLM-Reasoning"
     },
     {
       "timestamp": "2026-06-26T03:25:00+00:00",
@@ -10212,7 +10212,7 @@
         "hidden-thoughts-are-not-secret-reasoning-trace-exposure-in-llms-2606.00642"
       ],
       "entities_count_after": 153,
-      "pitfalls_hit": "NONE in main flow; adopted leftover sibling-session state per pitfall-73 \u2014 prior commit 7ee84ee (03:54 UTC) had already added entity files + parent block + state hash entries; my cron session verified all 4 phase audits pass and added only the Run 48 run-record marker + 3-store lockstep timestamp update"
+      "pitfalls_hit": "NONE in main flow; adopted leftover sibling-session state per pitfall-73 — prior commit 7ee84ee (03:54 UTC) had already added entity files + parent block + state hash entries; my cron session verified all 4 phase audits pass and added only the Run 48 run-record marker + 3-store lockstep timestamp update"
     },
     {
       "timestamp": "2026-06-26T04:16:07.483914+00:00",
@@ -10291,7 +10291,7 @@
         "2605.01687"
       ],
       "run_number": 56,
-      "notes": "Run 56: HF pool CV/3D-heavy again (FLAT, FLUX3D, Semantic-Browsing, UnityShots, WordArt-OCR, Lite-Any-Stereo V2, ViQ, PhysiFormer, LeWorldModel \u2014 all 9 fresh CV/3D/video candidates), fired web_search 4-query escape hatch per pitfall-83; surfaced 14 fresh LLM candidates across memory/agent/safety axes; picked 3 structurally orthogonal picks: Memory-R2 (local-rerollouts-as-trajectory-comparison-fairness-primitive for memory-agent RL credit assignment), Agentic-Trading (protocol-coded-evidence-ledger-as-trading-agent-evaluation-primitive with R0-R3 reproducibility audit, first financial-domain entity in wiki), MultiBreak (multi-turn-active-learning-adversarial-coevolution-as-safety-benchmark-primitive with benign-category-blind-spot finding); 3-axis pivot from Run 55 memory-policy/agentic-reasoning/mechanistic-interpretability streaks to memory-credit-assignment/trading-evaluation-protocol/multi-turn-jailbreak axes"
+      "notes": "Run 56: HF pool CV/3D-heavy again (FLAT, FLUX3D, Semantic-Browsing, UnityShots, WordArt-OCR, Lite-Any-Stereo V2, ViQ, PhysiFormer, LeWorldModel — all 9 fresh CV/3D/video candidates), fired web_search 4-query escape hatch per pitfall-83; surfaced 14 fresh LLM candidates across memory/agent/safety axes; picked 3 structurally orthogonal picks: Memory-R2 (local-rerollouts-as-trajectory-comparison-fairness-primitive for memory-agent RL credit assignment), Agentic-Trading (protocol-coded-evidence-ledger-as-trading-agent-evaluation-primitive with R0-R3 reproducibility audit, first financial-domain entity in wiki), MultiBreak (multi-turn-active-learning-adversarial-coevolution-as-safety-benchmark-primitive with benign-category-blind-spot finding); 3-axis pivot from Run 55 memory-policy/agentic-reasoning/mechanistic-interpretability streaks to memory-credit-assignment/trading-evaluation-protocol/multi-turn-jailbreak axes"
     },
     {
       "timestamp": "2026-06-26T06:09:00+00:00",
@@ -10309,7 +10309,7 @@
         "2509.25370"
       ],
       "run_number": 57,
-      "notes": "Run 57 (2026-06-26T06:09:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch (HF pool CV/3D-heavy for 3rd consecutive run \u2014 pitfall-83 fires again with 10 fresh non-LLM candidates; web_search surfaced 8 fresh LLM candidates, picked top 3 structurally orthogonal picks covering silent-failure-mechanism + production-runtime-failure-classification + modular-failure-taxonomy axes); 3-axis pivot from Run 55-56 memory-credit-assignment / trading-evaluation / multi-turn-jailbreak streaks to silent-failure / production-runtime / component-modular-failure-taxonomy axes"
+      "notes": "Run 57 (2026-06-26T06:09:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch (HF pool CV/3D-heavy for 3rd consecutive run — pitfall-83 fires again with 10 fresh non-LLM candidates; web_search surfaced 8 fresh LLM candidates, picked top 3 structurally orthogonal picks covering silent-failure-mechanism + production-runtime-failure-classification + modular-failure-taxonomy axes); 3-axis pivot from Run 55-56 memory-credit-assignment / trading-evaluation / multi-turn-jailbreak streaks to silent-failure / production-runtime / component-modular-failure-taxonomy axes"
     },
     {
       "timestamp": "2026-06-26T06:32:00+00:00",
@@ -10327,7 +10327,7 @@
         "2605.11161"
       ],
       "run_number": 58,
-      "notes": "Run 58 (2026-06-26T06:32:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template (HF pool CV/3D-heavy for 4th consecutive run \u2014 pitfall-83 streak confirmed at 4 runs, but web_search query-template rotated per pitfall-90/23 to escape Run 55-56-57 saturation: pivoted from process-reward+interpretability+tool-use-reliability+long-context (Runs 55-56-57) to evaluation-methodology+training-data+interpretability+world-model axes; surfaced 24 fresh LLM candidates and picked 3 structurally orthogonal picks pivoting per pitfall-91 domain-diversity tracker from Runs 55-57 agent-failure surfaces (memory-credit-assignment / trading-eval / silent-failure-mechanism + component-modular-failure-taxonomy) to world-model-as-agent-foundation + data-curation-geometry + interpretability-actionability axes); 3-axis pivot to levels-x-laws-capability-regime + variational-hypersphere-data-curation + concreteness-x-validation-evaluation-criteria"
+      "notes": "Run 58 (2026-06-26T06:32:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template (HF pool CV/3D-heavy for 4th consecutive run — pitfall-83 streak confirmed at 4 runs, but web_search query-template rotated per pitfall-90/23 to escape Run 55-56-57 saturation: pivoted from process-reward+interpretability+tool-use-reliability+long-context (Runs 55-56-57) to evaluation-methodology+training-data+interpretability+world-model axes; surfaced 24 fresh LLM candidates and picked 3 structurally orthogonal picks pivoting per pitfall-91 domain-diversity tracker from Runs 55-57 agent-failure surfaces (memory-credit-assignment / trading-eval / silent-failure-mechanism + component-modular-failure-taxonomy) to world-model-as-agent-foundation + data-curation-geometry + interpretability-actionability axes); 3-axis pivot to levels-x-laws-capability-regime + variational-hypersphere-data-curation + concreteness-x-validation-evaluation-criteria"
     },
     {
       "timestamp": "2026-06-26T06:54:00+00:00",
@@ -10345,7 +10345,7 @@
         "2605.17613"
       ],
       "run_number": 59,
-      "notes": "Run 59 (2026-06-26T06:54:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template \u2014 HF pool CV/3D-heavy for 5th consecutive run (pitfall-83 streak extended to 5 runs: Runs 55+56+57+58+59), HF daily v2 (data-props) returned 0, v3 href-regex fallback returned 17 papers but only 5 fresh after 5-store dedup and only 1 LLM-keyword-matched (Discretizing-Reward-Models); web_search template rotated per Rule 26/27 from Run 58 evaluation-methodology+training-data+interpretability+world-model axes to reasoning/control+safety+training-data+inference-eff axes (memory+agent-eval cluster and alignment+planning cluster avoided because Runs 55-57 used memory/safety reasoning templates); 4 queries fired (chain-of-thought-planner-agent + alignment-constitutional-safety-benchmark + training-data-curation-quality-scoring + inference-efficiency-speculative-KV-cache) surfaced 5 fresh LLM candidates after 5-store dedup (3 already in wiki: 2606.03965 ACTS, 2601.12538 Agentic-Reasoning survey, 2606.25750 RAS; 5 fresh: 2603.14420 DataEvolve, 2605.05227 Online-Reweighting, 2606.18967 EfficientRollout, 2605.17613 VeriCache, 2606.21795 Discretizing-Reward-Models); picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 58 world-model/data-curation/interpretability-actionability to reward-model-quality + RL-rollout-latency + inference-systems-lossless-recovery axes; deliberately avoided 2603.14420 DataEvolve and 2605.05227 Online-Reweighting because both overlap with Run 58 GEM data-curation variational-hypersphere axis (Rule 27 domain-diversity pivots); 3-axis pivot to reward-modeling+RL-rollouts+inference-systems-lossless-recovery"
+      "notes": "Run 59 (2026-06-26T06:54:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template — HF pool CV/3D-heavy for 5th consecutive run (pitfall-83 streak extended to 5 runs: Runs 55+56+57+58+59), HF daily v2 (data-props) returned 0, v3 href-regex fallback returned 17 papers but only 5 fresh after 5-store dedup and only 1 LLM-keyword-matched (Discretizing-Reward-Models); web_search template rotated per Rule 26/27 from Run 58 evaluation-methodology+training-data+interpretability+world-model axes to reasoning/control+safety+training-data+inference-eff axes (memory+agent-eval cluster and alignment+planning cluster avoided because Runs 55-57 used memory/safety reasoning templates); 4 queries fired (chain-of-thought-planner-agent + alignment-constitutional-safety-benchmark + training-data-curation-quality-scoring + inference-efficiency-speculative-KV-cache) surfaced 5 fresh LLM candidates after 5-store dedup (3 already in wiki: 2606.03965 ACTS, 2601.12538 Agentic-Reasoning survey, 2606.25750 RAS; 5 fresh: 2603.14420 DataEvolve, 2605.05227 Online-Reweighting, 2606.18967 EfficientRollout, 2605.17613 VeriCache, 2606.21795 Discretizing-Reward-Models); picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 58 world-model/data-curation/interpretability-actionability to reward-model-quality + RL-rollout-latency + inference-systems-lossless-recovery axes; deliberately avoided 2603.14420 DataEvolve and 2605.05227 Online-Reweighting because both overlap with Run 58 GEM data-curation variational-hypersphere axis (Rule 27 domain-diversity pivots); 3-axis pivot to reward-modeling+RL-rollouts+inference-systems-lossless-recovery"
     },
     {
       "timestamp": "2026-06-26T07:09:00+00:00",
@@ -10363,7 +10363,7 @@
         "2601.22311"
       ],
       "run_number": 60,
-      "notes": "Run 60 (2026-06-26T07:09:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template (HF pool CV/3D-heavy for 6th consecutive run \u2014 pitfall-83 streak extended to 55+56+57+58+59+60); HF daily v2 data-props returned 0, v3 href-regex fallback returned 13 fresh but 12 CV/3D + 1 non-LLM (Microgrids) \u2014 only 1 LLM-keyword-matched; web_search template rotated per Rule 26 from Run 59 reasoning/control+safety+training-data+inference-eff to memory+agent-eval+retrieval+alignment axes; surfaced 17 fresh LLM candidates after 5-store dedup; 3 picks structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 59 reward-model-quality+RL-rollout-latency+inference-lossless-recovery to LRM-trace-diagnostics + multi-turn-reasoning-safety + long-horizon-planning-failure-mechanism axes"
+      "notes": "Run 60 (2026-06-26T07:09:00+00:00): 3 fresh LLM-centric papers via 4-query web_search escape hatch with rotated template (HF pool CV/3D-heavy for 6th consecutive run — pitfall-83 streak extended to 55+56+57+58+59+60); HF daily v2 data-props returned 0, v3 href-regex fallback returned 13 fresh but 12 CV/3D + 1 non-LLM (Microgrids) — only 1 LLM-keyword-matched; web_search template rotated per Rule 26 from Run 59 reasoning/control+safety+training-data+inference-eff to memory+agent-eval+retrieval+alignment axes; surfaced 17 fresh LLM candidates after 5-store dedup; 3 picks structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 59 reward-model-quality+RL-rollout-latency+inference-lossless-recovery to LRM-trace-diagnostics + multi-turn-reasoning-safety + long-horizon-planning-failure-mechanism axes"
     },
     {
       "run_id": 61,
@@ -10385,7 +10385,7 @@
         "inference-efficiency / speculative-decoding / diffusion-LLM / parallel-drafting",
         "mechanistic-interpretability / SAE / latent-reasoning / SAE-feature-steering"
       ],
-      "notes": "Run 61 \u2014 3 new entity pages from emergent-concept search via web_search 4-query ROTATED-template escape hatch (HF pool CV/3D-heavy for 7th consecutive run \u2014 pitfall-83 streak extended to Runs 55-61; HF daily v2 data-props returned 0, v3 href-regex fallback returned 18 papers but only 5 fresh after 5-store dedup and only 2 LLM-keyword-matched and neither was strong; web_search template rotated per Rule 26+33 forward-discipline from Run 60 memory+agent-eval+retrieval+alignment axes to safety+reasoning/control+inference-eff+training-data+model-arch+eval-method axes; surfaced 9 fresh LLM candidates after 5-store dedup; picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 60 LRM-trace-diagnostics + multi-turn-reasoning-safety + long-horizon-planning-failure-mechanism axes to CoT-monitorability-controllability-asymmetry + diffusion-inspired-parallel-drafting + SAE-isolated-latent-reasoning-features axes) \u2014 3-axis DOMAIN-DIVERSITY PIVOT"
+      "notes": "Run 61 — 3 new entity pages from emergent-concept search via web_search 4-query ROTATED-template escape hatch (HF pool CV/3D-heavy for 7th consecutive run — pitfall-83 streak extended to Runs 55-61; HF daily v2 data-props returned 0, v3 href-regex fallback returned 18 papers but only 5 fresh after 5-store dedup and only 2 LLM-keyword-matched and neither was strong; web_search template rotated per Rule 26+33 forward-discipline from Run 60 memory+agent-eval+retrieval+alignment axes to safety+reasoning/control+inference-eff+training-data+model-arch+eval-method axes; surfaced 9 fresh LLM candidates after 5-store dedup; picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 60 LRM-trace-diagnostics + multi-turn-reasoning-safety + long-horizon-planning-failure-mechanism axes to CoT-monitorability-controllability-asymmetry + diffusion-inspired-parallel-drafting + SAE-isolated-latent-reasoning-features axes) — 3-axis DOMAIN-DIVERSITY PIVOT"
     },
     {
       "run_number": 62,
@@ -10395,7 +10395,7 @@
       "candidates_picked": 3,
       "theme": "MoE theoretical task-routing + RAG knowledge-conflict-resolution + per-sample distributional decontamination",
       "axes_pivoted_from": "CoT-vs-output-controllability + parallel-drafting + SAE-reasoning-features (Run 61)",
-      "notes": "Run 62 \u2014 3-axis DOMAIN-DIVERSITY PIVOT to MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination axes. HF pool CV/3D-heavy for 8th consecutive run (pitfall-83 streak). web_search 4-query ROTATED-template per Rule 26.",
+      "notes": "Run 62 — 3-axis DOMAIN-DIVERSITY PIVOT to MoE theoretical task-routing + RAG knowledge-conflict-resolution multi-agent + per-sample distributional decontamination axes. HF pool CV/3D-heavy for 8th consecutive run (pitfall-83 streak). web_search 4-query ROTATED-template per Rule 26.",
       "picks": [
         {
           "arxiv_id": "2606.14398",
@@ -10419,7 +10419,7 @@
       "candidates_picked": 3,
       "theme": "attribution-guided-continual-learning + uncertainty-quantification-survey + parameter-based-knowledge-editing-theoretical-limits",
       "axes_pivoted_from": "MoE theoretical task-routing + RAG knowledge-conflict-resolution + per-sample distributional decontamination",
-      "notes": "Run 63 \u2014 3 new entity pages from emergent-concept search via web_search 4-query NEW-AXIS escape hatch (HF pool CV/3D-heavy for 9th consecutive run \u2014 pitfall-83 streak extended to Runs 55-63; HF daily v2 data-props returned 18+33 papers across 2026-06-25/26 dates but only 1 borderline LLM-keyword-matched (UnityShots); web_search template introduced NEW axes per Rule 35 \u2014 query rotation moved from Run 62 retrieval+interpretability+model-arch-theory+multi-agent-reasoning+decontamination (v)+(iv)+(new) cluster to (NEW) continual-learning/catastrophic-forgetting + (NEW) calibration/uncertainty + (NEW) multilingual/cross-lingual + (NEW) knowledge-editing; surfaced 14 fresh LLM candidates after 5-store dedup; picked 3 structurally orthogonal pivoting per Rule 27+Rule 35 domain-diversity new-axis introduction from Run 62 MoE-theoretical-task-routing + RAG-knowledge-conflict-resolution + per-sample-distributional-decontamination axes to attribution-guided-continual-learning + uncertainty-quantification-survey + parameter-based-knowledge-editing-theoretical-limits axes) \u2014 3-axis DOMAIN-DIVERSITY NEW-AXIS INTRODUCTION per Rule 35 to gradient-modulation-by-element-wise-parameter-importance + uncertainty-quantification-as-central-trustworthiness-framework + dimensional-collapse-as-theoretical-mechanism-for-reasoning-collapse",
+      "notes": "Run 63 — 3 new entity pages from emergent-concept search via web_search 4-query NEW-AXIS escape hatch (HF pool CV/3D-heavy for 9th consecutive run — pitfall-83 streak extended to Runs 55-63; HF daily v2 data-props returned 18+33 papers across 2026-06-25/26 dates but only 1 borderline LLM-keyword-matched (UnityShots); web_search template introduced NEW axes per Rule 35 — query rotation moved from Run 62 retrieval+interpretability+model-arch-theory+multi-agent-reasoning+decontamination (v)+(iv)+(new) cluster to (NEW) continual-learning/catastrophic-forgetting + (NEW) calibration/uncertainty + (NEW) multilingual/cross-lingual + (NEW) knowledge-editing; surfaced 14 fresh LLM candidates after 5-store dedup; picked 3 structurally orthogonal pivoting per Rule 27+Rule 35 domain-diversity new-axis introduction from Run 62 MoE-theoretical-task-routing + RAG-knowledge-conflict-resolution + per-sample-distributional-decontamination axes to attribution-guided-continual-learning + uncertainty-quantification-survey + parameter-based-knowledge-editing-theoretical-limits axes) — 3-axis DOMAIN-DIVERSITY NEW-AXIS INTRODUCTION per Rule 35 to gradient-modulation-by-element-wise-parameter-importance + uncertainty-quantification-as-central-trustworthiness-framework + dimensional-collapse-as-theoretical-mechanism-for-reasoning-collapse",
       "picks": [
         "revisiting-parameter-based-knowledge-editing-in-llms-2606.00570",
         "attribution-guided-continual-learning-for-llms-2605.05285",
@@ -10466,7 +10466,7 @@
       "hf_llm_matched": 3,
       "web_search_surfaced": 8,
       "rule_invoked": "Rule-36-PROBE-AXIS-escalation",
-      "axis_cluster": "knowledge-distillation + post-training + prompt-optimization (all NEW \u2014 never used in Runs 55-64)"
+      "axis_cluster": "knowledge-distillation + post-training + prompt-optimization (all NEW — never used in Runs 55-64)"
     },
     {
       "run_number": 66,
@@ -10505,18 +10505,18 @@
         "endprompt-efficient-long-context-extension-via-terminal-anchoring-2605.14589",
         "faithfulness-qa-a-counterfactual-entity-substitution-dataset-for-training-context-faithful-rag-models-2604.25313"
       ],
-      "theme": "AXIS-INVERSION probe per Rule 36d \u2014 predict-router-drift-MoE-RL + sparse-positional-supervision-for-long-context + counterfactual-entity-substitution-for-RAG-faithfulness"
+      "theme": "AXIS-INVERSION probe per Rule 36d — predict-router-drift-MoE-RL + sparse-positional-supervision-for-long-context + counterfactual-entity-substitution-for-RAG-faithfulness"
     },
     {
-      "theme": "TEMPORAL-ANCHOR-PROBE per Rule 36e \u2014 scalable-SAE-circuit-discovery + domain-specific-CoT-medical-imaging + test-time-compute-scaling-framework",
+      "theme": "TEMPORAL-ANCHOR-PROBE per Rule 36e — scalable-SAE-circuit-discovery + domain-specific-CoT-medical-imaging + test-time-compute-scaling-framework",
       "timestamp": "2026-06-26T09:47:19.796636+00:00",
       "vector": "emergent_concept_search",
-      "notes": "Run 69 \u2014 TEMPORAL-ANCHOR-PROBE per Rule 36e (15th consecutive pitfall-83). HF pool CV/3D-heavy. web_search surfaced 3 picks orthogonally pivoting per Rule 27 from Run 68 axis-inversion primitive-class triplet to interpretability + medical-CoT + test-time-compute primitive-class triplet. Fresh LLM candidates surfaced: 9 fresh after 5-store dedup, 3 structurally orthogonal to Run 68 picks. State-file JSON formatting preserved via default json.dump(ec, f, ensure_ascii=True, indent=2)."
+      "notes": "Run 69 — TEMPORAL-ANCHOR-PROBE per Rule 36e (15th consecutive pitfall-83). HF pool CV/3D-heavy. web_search surfaced 3 picks orthogonally pivoting per Rule 27 from Run 68 axis-inversion primitive-class triplet to interpretability + medical-CoT + test-time-compute primitive-class triplet. Fresh LLM candidates surfaced: 9 fresh after 5-store dedup, 3 structurally orthogonal to Run 68 picks. State-file JSON formatting preserved via default json.dump(ec, f, ensure_ascii=True, indent=2)."
     },
     {
       "run_number": 70,
       "timestamp": "2026-06-26T09:54:00+00:00",
-      "theme": "AXIS-ORTHOGONALITY-PROBE per Rule 37 \u2014 energy-based-fine-tuning + defense-trilemma-theoretical-impossibility + synthetic-data-curriculum-stepping-stone-RL (training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering primitive-class triplet, fully orthogonal to Run 68 MoE-RL + Run 69 test-time-compute axes)",
+      "theme": "AXIS-ORTHOGONALITY-PROBE per Rule 37 — energy-based-fine-tuning + defense-trilemma-theoretical-impossibility + synthetic-data-curriculum-stepping-stone-RL (training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering primitive-class triplet, fully orthogonal to Run 68 MoE-RL + Run 69 test-time-compute axes)",
       "pitfall_83_streak": 16,
       "picks": [
         "2603.12248",
@@ -10528,7 +10528,7 @@
       "run": 71,
       "date": "2026-06-26T10:09:00+00:00",
       "method": "emergent_concept_search_via_web_search_4query_negative_result_probe_rule38",
-      "framing": "Rule 38 NEGATIVE-RESULT-PROBE \u2014 memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (orthogonal to Run 68 + Run 69 + Run 70)",
+      "framing": "Rule 38 NEGATIVE-RESULT-PROBE — memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (orthogonal to Run 68 + Run 69 + Run 70)",
       "picks_added": 3,
       "pitfall_83_streak": 17,
       "notes": "Rule 38 negative-result-probe escape hatch after Rule 37 axis-orthogonality. 3 fresh LLM candidates via web_search targeting known-difficult axes (impossibility-theorems + alignment-tax + memorization-boundaries + compositional-failure-modes). 17th consecutive pitfall-83 firing."
@@ -10537,10 +10537,10 @@
       "run": 72,
       "date": "2026-06-26T10:27:32+00:00",
       "method": "emergent_concept_search_via_web_search_4query_adversial_axis_probe_rule39",
-      "framing": "Rule 39 ADVERSARIAL-AXIS-PROBE \u2014 epistemic-resilience-under-adversarial-context-injection + population-level-test-time-scaling-with-generative-verifier + span-level-error-localization-in-deep-research-agents (orthogonal to Run 68 + Run 69 + Run 70 + Run 71)",
+      "framing": "Rule 39 ADVERSARIAL-AXIS-PROBE — epistemic-resilience-under-adversarial-context-injection + population-level-test-time-scaling-with-generative-verifier + span-level-error-localization-in-deep-research-agents (orthogonal to Run 68 + Run 69 + Run 70 + Run 71)",
       "picks_added": 3,
       "pitfall_83_streak": 18,
-      "notes": "Rule 39 adversarial-axis-probe escape hatch after Rules 33\u219234\u219235\u219236\u219236b\u219236c\u219236c-continued\u219236d\u219236e\u219237\u219238 have been used. 3 fresh LLM candidates via web_search targeting adversarial surfaces (medical-context-injection epistemic-robustness + population-test-time-scaling-with-generative-verifier + span-level-error-localization). 18th consecutive pitfall-83 firing."
+      "notes": "Rule 39 adversarial-axis-probe escape hatch after Rules 33→34→35→36→36b→36c→36c-continued→36d→36e→37→38 have been used. 3 fresh LLM candidates via web_search targeting adversarial surfaces (medical-context-injection epistemic-robustness + population-test-time-scaling-with-generative-verifier + span-level-error-localization). 18th consecutive pitfall-83 firing."
     },
     {
       "run_number": 73,
@@ -10575,7 +10575,7 @@
           "theme": "reproducibility-maturity-model"
         }
       ],
-      "notes": "Rule 40 meta-probe escape hatch after Rules 33\u219234\u219235\u219236\u219236b\u219236c\u219236c-cont\u219236d\u219236e\u219237\u219238\u219239 have all been used. 3 fresh LLM candidates via web_search targeting meta-research surfaces (goodhart-law-evaluation + reward-hacking-unification + reproducibility-maturity-model primitive-class triplet). HF daily v2 returned 18+33+29 papers across 2026-06-26/27/28 dates but only 3 fresh LLM-keyword-matched (Running-the-Gauntlet agent-capabilities-eval, Information-Aware-KV-Cache-Compression, LISA visual-controllable) \u2014 all borderline/CV-flavored. Picked 3 structurally orthogonal pivoting per Rule 27 from Run 72 medical-adversarial-context + math-test-time-scaling + agent-trajectory-error-localization to goodhart-law-compliance + reward-hacking-compression + reproducibility-maturity-model primitive-class triplet \u2014 fully orthogonal to prior 5 runs."
+      "notes": "Rule 40 meta-probe escape hatch after Rules 33→34→35→36→36b→36c→36c-cont→36d→36e→37→38→39 have all been used. 3 fresh LLM candidates via web_search targeting meta-research surfaces (goodhart-law-evaluation + reward-hacking-unification + reproducibility-maturity-model primitive-class triplet). HF daily v2 returned 18+33+29 papers across 2026-06-26/27/28 dates but only 3 fresh LLM-keyword-matched (Running-the-Gauntlet agent-capabilities-eval, Information-Aware-KV-Cache-Compression, LISA visual-controllable) — all borderline/CV-flavored. Picked 3 structurally orthogonal pivoting per Rule 27 from Run 72 medical-adversarial-context + math-test-time-scaling + agent-trajectory-error-localization to goodhart-law-compliance + reward-hacking-compression + reproducibility-maturity-model primitive-class triplet — fully orthogonal to prior 5 runs."
     },
     {
       "run_number": 74,
@@ -10616,7 +10616,7 @@
           "cross_discipline_primitive": "cross-discipline-neuroscience-hebbian"
         }
       ],
-      "notes": "Rule 41 cross-discipline-probe escape hatch after Rules 33\u219234\u219235\u219236\u219236b\u219236c\u219236c-cont\u219236d\u219236e\u219237\u219238\u219239\u219240 have all been used. 3 fresh LLM candidates via web_search targeting cross-discipline surfaces (formal-verification-theorem-proving-in-mathematical-analysis + neuroscience-grounded-memory-architecture + Hebbian-learning-associative-memory primitive-class triplet). HF daily v2 returned 25 papers on 2026-06-28 with 8 fresh LLM-keyword-matched (mostly CV/3D-heavy). web_search surfaced 19 fresh LLM candidates across 4 cross-discipline axes. Pivoting from Run 73 meta-research probes (goodhart-law-evaluation + reward-hacking-theoretical-unification + reproducibility-maturity-model) to cross-discipline primitives (formal-verification + neuroscience + Hebbian-learning) using adjacent fields' vocabulary and methods. Pitfall-83 streak extended to 20 consecutive runs.",
+      "notes": "Rule 41 cross-discipline-probe escape hatch after Rules 33→34→35→36→36b→36c→36c-cont→36d→36e→37→38→39→40 have all been used. 3 fresh LLM candidates via web_search targeting cross-discipline surfaces (formal-verification-theorem-proving-in-mathematical-analysis + neuroscience-grounded-memory-architecture + Hebbian-learning-associative-memory primitive-class triplet). HF daily v2 returned 25 papers on 2026-06-28 with 8 fresh LLM-keyword-matched (mostly CV/3D-heavy). web_search surfaced 19 fresh LLM candidates across 4 cross-discipline axes. Pivoting from Run 73 meta-research probes (goodhart-law-evaluation + reward-hacking-theoretical-unification + reproducibility-maturity-model) to cross-discipline primitives (formal-verification + neuroscience + Hebbian-learning) using adjacent fields' vocabulary and methods. Pitfall-83 streak extended to 20 consecutive runs.",
       "pitfall_83_streak": 20,
       "cross_references_verified": true,
       "picks_added": 3
@@ -10631,15 +10631,15 @@
         "arxiv 2026 \"code generation\" LLM software engineering benchmark SWE-bench enterprise",
         "arxiv 2026 \"finance trading\" LLM agent portfolio risk benchmark financial"
       ],
-      "theme": "APPLICATION-DOMAIN-PROBE per Rule 42 \u2014 physician-EHR-clinical-workflow + multinational-dental-specialty-clinical-reasoning + beyond-issue-resolution-coding-agent-workflows (vertical-application primitives anchored to real industry verticals)",
-      "framing": "Rule 42 APPLICATION-DOMAIN-PROBE \u2014 pivoting per Rule 27 from Run 74 cross-discipline axes (formal-verification \u00d7 mathematical-analysis + neuroscience \u00d7 memory + Hebbian-learning \u00d7 associative-memory) to vertical-application axes (medical-AI \u00d7 dentistry \u00d7 software-engineering)",
+      "theme": "APPLICATION-DOMAIN-PROBE per Rule 42 — physician-EHR-clinical-workflow + multinational-dental-specialty-clinical-reasoning + beyond-issue-resolution-coding-agent-workflows (vertical-application primitives anchored to real industry verticals)",
+      "framing": "Rule 42 APPLICATION-DOMAIN-PROBE — pivoting per Rule 27 from Run 74 cross-discipline axes (formal-verification × mathematical-analysis + neuroscience × memory + Hebbian-learning × associative-memory) to vertical-application axes (medical-AI × dentistry × software-engineering)",
       "forward_discipline_rule": "42",
       "streak_extension": "pitfall-83 streak extended to 21 consecutive runs (Runs 55-75)",
       "hf_daily_v2": "25 papers on 2026-06-29 with only 5 fresh LLM-keyword-matched after 5-store dedup",
       "hf_v3_href": "100% CV/3D-heavy",
       "web_search_template": "APPLICATION-DOMAIN-PROBE bracketing 4 vertical-application axes",
       "outcome": "3 picks all from vertical-application primitives, zero cross-references with prior 20 runs",
-      "recovery_applied": "pitfall-78 sort-recovery applied (05-04 \u2192 05-26 \u2192 05-08 recovered to 05-26 \u2192 05-08 \u2192 05-04); pitfall-110 caught 1 broken wikilink (2605.16517 not on disk, replaced)",
+      "recovery_applied": "pitfall-78 sort-recovery applied (05-04 → 05-26 → 05-08 recovered to 05-26 → 05-08 → 05-04); pitfall-110 caught 1 broken wikilink (2605.16517 not on disk, replaced)",
       "picks_count": 3
     },
     {
@@ -10667,7 +10667,7 @@
       "hf_total": 18,
       "web_search_queries": 4,
       "theme": "failure-mode-catalog / per-failure-mode primitive classification",
-      "rule": "Rule 43 \u2014 FAILURE-MODE-CATALOG codified",
+      "rule": "Rule 43 — FAILURE-MODE-CATALOG codified",
       "last_run_framing": "failure-mode-catalog axes (per-task-type / per-modality / per-deployment-context / per-training-stage)"
     },
     {
@@ -10681,7 +10681,7 @@
         "arxiv 2026 LLM self-supervised pretraining novel objective function 2026"
       ],
       "theme": "emerging-pretraining-objective-probe-rule44",
-      "framing": "Rule 44 EMERGING-PRETRAINING-OBJECTIVE-PROBE \u2014 representation-space-continuous-supervision + auxiliary-head-future-summary + concept-level-replacement-of-token-supervision (post-NTP pretraining-objective primitives orthogonal to Run 76 failure-mode-catalog axes)",
+      "framing": "Rule 44 EMERGING-PRETRAINING-OBJECTIVE-PROBE — representation-space-continuous-supervision + auxiliary-head-future-summary + concept-level-replacement-of-token-supervision (post-NTP pretraining-objective primitives orthogonal to Run 76 failure-mode-catalog axes)",
       "results_count": 3,
       "picks": [
         "2605.24956",
@@ -10727,7 +10727,7 @@
     {
       "run_number": 80,
       "theme": "neuro-symbolic-grounding-probe-rule47",
-      "notes": "Run 80 \u2014 NEURO-SYMBOLIC-GROUNDING-PROBE per Rule 47 \u2014 FTSC theorem generation + multi-path logical reasoning benchmark + trace-to-logic programmatic skill induction",
+      "notes": "Run 80 — NEURO-SYMBOLIC-GROUNDING-PROBE per Rule 47 — FTSC theorem generation + multi-path logical reasoning benchmark + trace-to-logic programmatic skill induction",
       "timestamp": "2026-06-29T03:55:00+00:00",
       "picks_count": 3
     },
@@ -10825,7 +10825,7 @@
       "run_number": 86,
       "method": "web_search_4query_test_time_compute_scaling_probe_rule53",
       "theme": "test-time-compute-scaling",
-      "notes": "Rule 53 TEST-TIME-COMPUTE-SCALING-PROBE verified (32nd consecutive pitfall-83 \u2014 longest in wiki history by 19 runs); 3 picks structurally orthogonal to Run 85 self-improvement-loop primitives \u2014 picks cover 3 distinct sub-axes of test-time-compute-scaling primitive-class: (a) propagation-based-multi-sample-aggregation via letter-entropy and reasoning-geometry (PPV beats majority voting on MMLU-Pro +1.5pp/+2.24pp), (b) constrained-policy-optimization-test-time-compute-allocation via Lagrangian relaxation Solve-then-Learn pipeline (12.8% improvement on MATH under matched budget, 91%+ imitation accuracy), (c) active-inference-grounded-difficulty-aware-routing-with-free-energy-fusion (98.2% MATH, 54.8% HLE, -82% compute on Llama 4+DeepSeek open-source stack). Pivoted from Run 85 agent-side-in-distribution-RL-critic + closed-loop-SE-generalization-gap-theoretical-analysis + VLM-dual-role-questioner-solver closed-loop to constrained-policy-optimization-budget-allocation + active-inference-routing-with-free-energy-fusion + propagation-based-multi-sample-aggregation primitive-class triplet. HF daily v2 returned 9+25=34 papers across 2026-06-28/29 with 20 fresh after 5-store dedup but ZERO pure test-time-compute-scaling primitives (all CV/3D/agents/eval). web_search surfaced 17 fresh LLM candidates.",
+      "notes": "Rule 53 TEST-TIME-COMPUTE-SCALING-PROBE verified (32nd consecutive pitfall-83 — longest in wiki history by 19 runs); 3 picks structurally orthogonal to Run 85 self-improvement-loop primitives — picks cover 3 distinct sub-axes of test-time-compute-scaling primitive-class: (a) propagation-based-multi-sample-aggregation via letter-entropy and reasoning-geometry (PPV beats majority voting on MMLU-Pro +1.5pp/+2.24pp), (b) constrained-policy-optimization-test-time-compute-allocation via Lagrangian relaxation Solve-then-Learn pipeline (12.8% improvement on MATH under matched budget, 91%+ imitation accuracy), (c) active-inference-grounded-difficulty-aware-routing-with-free-energy-fusion (98.2% MATH, 54.8% HLE, -82% compute on Llama 4+DeepSeek open-source stack). Pivoted from Run 85 agent-side-in-distribution-RL-critic + closed-loop-SE-generalization-gap-theoretical-analysis + VLM-dual-role-questioner-solver closed-loop to constrained-policy-optimization-budget-allocation + active-inference-routing-with-free-energy-fusion + propagation-based-multi-sample-aggregation primitive-class triplet. HF daily v2 returned 9+25=34 papers across 2026-06-28/29 with 20 fresh after 5-store dedup but ZERO pure test-time-compute-scaling primitives (all CV/3D/agents/eval). web_search surfaced 17 fresh LLM candidates.",
       "picks": [
         "2606.08098",
         "2604.14853",
@@ -10842,7 +10842,7 @@
       "run_number": 87,
       "method": "web_search_4query_watermarking_model_fingerprinting_probe_rule54",
       "theme": "watermarking-model-fingerprinting",
-      "notes": "Rule 54 WATERMARKING-MODEL-FINGERPRINTING-PROBE verified (33rd consecutive pitfall-83 \u2014 longest in wiki history by 20 runs); 3 picks structurally orthogonal to Run 86 test-time-compute-scaling primitives \u2014 picks cover 3 distinct sub-axes of watermarking-model-fingerprinting primitive-class: (a) signature-filtering as detection-time hardening for statistical watermarks with MILP-learned signature sets (4 watermark families \u00d7 4 corpora \u00d7 6 LLMs, 8-31% \u2192 78-99% weak-signal detection), (b) hook-action insertion at agent decision points for trajectory-dataset copyright (94.3 detection AUC on Qwen-2.5-Coder-7B across math/web/SE agents), (c) targeted-unlearning LoRA fingerprint embedding with 100% ownership verification + robustness to model merging. Pivoted from Run 86 propagation-based-multi-sample-aggregation + constrained-policy-optimization-test-time-compute-allocation + active-inference-grounded-difficulty-aware-routing-with-free-energy-fusion (test-time-compute-scaling primitive-class triplet) to signature-filtering-as-detection-time-hardening + hook-action-as-trajectory-copyright-protection + targeted-unlearning-as-stealthy-fingerprint-embedding (watermarking-model-fingerprinting primitive-class triplet). HF daily v2 returned 10 papers on 2026-06-29 with 10 fresh after 5-store dedup but ZERO watermarking-model-fingerprinting primitives (all CV/3D/VLM/Robotics heavy). web_search surfaced 5 fresh LLM candidates.",
+      "notes": "Rule 54 WATERMARKING-MODEL-FINGERPRINTING-PROBE verified (33rd consecutive pitfall-83 — longest in wiki history by 20 runs); 3 picks structurally orthogonal to Run 86 test-time-compute-scaling primitives — picks cover 3 distinct sub-axes of watermarking-model-fingerprinting primitive-class: (a) signature-filtering as detection-time hardening for statistical watermarks with MILP-learned signature sets (4 watermark families × 4 corpora × 6 LLMs, 8-31% → 78-99% weak-signal detection), (b) hook-action insertion at agent decision points for trajectory-dataset copyright (94.3 detection AUC on Qwen-2.5-Coder-7B across math/web/SE agents), (c) targeted-unlearning LoRA fingerprint embedding with 100% ownership verification + robustness to model merging. Pivoted from Run 86 propagation-based-multi-sample-aggregation + constrained-policy-optimization-test-time-compute-allocation + active-inference-grounded-difficulty-aware-routing-with-free-energy-fusion (test-time-compute-scaling primitive-class triplet) to signature-filtering-as-detection-time-hardening + hook-action-as-trajectory-copyright-protection + targeted-unlearning-as-stealthy-fingerprint-embedding (watermarking-model-fingerprinting primitive-class triplet). HF daily v2 returned 10 papers on 2026-06-29 with 10 fresh after 5-store dedup but ZERO watermarking-model-fingerprinting primitives (all CV/3D/VLM/Robotics heavy). web_search surfaced 5 fresh LLM candidates.",
       "picks": [
         "2606.18430",
         "2602.18700",
@@ -10859,7 +10859,7 @@
       "run_number": 88,
       "method": "web_search_4query_inference_efficiency_probe_rule55",
       "theme": "inference-efficiency",
-      "notes": "Rule 55 INFERENCE-EFFICIENCY-PROBE verified (34th consecutive pitfall-83 \u2014 longest in wiki history by 21 runs); 3 picks structurally orthogonal to Run 87 watermarking-model-fingerprinting primitives \u2014 picks cover 3 distinct sub-axes of inference-side-efficiency primitive-class: (a) information-theoretic KV-cache eviction under long-reasoning decoding, (b) draft-augmented sparse verification as 87.5%-latency-recovery primitive in long-context speculative decoding, (c) compression-aware adaptive gamma-selection preserving acceptance under KV-cache compression. Pivoted from Run 87 signature-filtering-watermark-detection-hardening + ActHook-trajectory-copyright-94.3-detection-AUC + ForgetMark-LoRA-fingerprint-100%-ownership-verification (watermarking-model-fingerprinting primitive-class triplet) to information-theoretic-KV-cache-eviction + draft-augmented-sparse-verification + compression-aware-adaptive-gamma-selection primitive-class triplet. HF daily v2 returned 10 papers on 2026-06-29 with 100% CV/3D/Robotics heavy (PhysisForcing, SingGuard, Translation-as-Bridging-Action, ProMSA, Qwen-Image-2.0-RL, Ko-WideSearch, Formalizing-Latent-Thoughts, NormGuard, Automating-Scientific-Review, SimFoundry). web_search surfaced 3 fresh LLM candidates.",
+      "notes": "Rule 55 INFERENCE-EFFICIENCY-PROBE verified (34th consecutive pitfall-83 — longest in wiki history by 21 runs); 3 picks structurally orthogonal to Run 87 watermarking-model-fingerprinting primitives — picks cover 3 distinct sub-axes of inference-side-efficiency primitive-class: (a) information-theoretic KV-cache eviction under long-reasoning decoding, (b) draft-augmented sparse verification as 87.5%-latency-recovery primitive in long-context speculative decoding, (c) compression-aware adaptive gamma-selection preserving acceptance under KV-cache compression. Pivoted from Run 87 signature-filtering-watermark-detection-hardening + ActHook-trajectory-copyright-94.3-detection-AUC + ForgetMark-LoRA-fingerprint-100%-ownership-verification (watermarking-model-fingerprinting primitive-class triplet) to information-theoretic-KV-cache-eviction + draft-augmented-sparse-verification + compression-aware-adaptive-gamma-selection primitive-class triplet. HF daily v2 returned 10 papers on 2026-06-29 with 100% CV/3D/Robotics heavy (PhysisForcing, SingGuard, Translation-as-Bridging-Action, ProMSA, Qwen-Image-2.0-RL, Ko-WideSearch, Formalizing-Latent-Thoughts, NormGuard, Automating-Scientific-Review, SimFoundry). web_search surfaced 3 fresh LLM candidates.",
       "picks": [
         "2606.26875",
         "2606.24957",
@@ -10892,7 +10892,7 @@
         "2603.07670",
         "2601.09913"
       ],
-      "notes": "Rule 56 AGENT-MEMORY-ARCHITECTURE-PROBE verified (35th consecutive pitfall-83, longest in wiki history by 22 runs); 3 picks all used agent-memory-architecture primitives \u2014 human-inspired-cognitive-mechanism architecture + continuum-memory architectural-primitive formalization + comprehensive 2022-early-2026 survey \u2014 pivoting per Rule 27 from Run 88 inference-efficiency primitives (KV-cache eviction + sparse verification + adaptive gamma) to write-side memory evolution primitives (biological-cognitive-mechanism + continuum-memory formalization + primitive-taxonomy survey)."
+      "notes": "Rule 56 AGENT-MEMORY-ARCHITECTURE-PROBE verified (35th consecutive pitfall-83, longest in wiki history by 22 runs); 3 picks all used agent-memory-architecture primitives — human-inspired-cognitive-mechanism architecture + continuum-memory architectural-primitive formalization + comprehensive 2022-early-2026 survey — pivoting per Rule 27 from Run 88 inference-efficiency primitives (KV-cache eviction + sparse verification + adaptive gamma) to write-side memory evolution primitives (biological-cognitive-mechanism + continuum-memory formalization + primitive-taxonomy survey)."
     },
     {
       "run_number": 90,
@@ -10914,7 +10914,7 @@
         "2606.06399",
         "2606.12835"
       ],
-      "notes": "Rule 57 MULTI-AGENT-COORDINATION-COLLABORATION-PROBE verified (36th consecutive pitfall-83 \u2014 longest in wiki history by 23 runs); 3 picks structurally orthogonal to Run 89 agent-memory-architecture primitives \u2014 picks cover 3 distinct sub-axes of multi-agent-coordination-collaboration primitive-class: (a) execution-boundary governance organizational-layer with 88%\u2192near-zero unsafe-execution reduction on adversarial AgenticPay, (b) CSCW-grounded collaborative competence evaluation framework with controlled interaction-condition manipulation, (c) internet-of-agentic-AI cross-discipline synthesis framework with six research challenges + adaptive-manufacturing + distributed-operational case studies. Pivoted from Run 89 biological-cognitive-mechanism-memory-architecture + continuum-memory architectural-primitive + comprehensive-memory-survey-three-dimensional-taxonomy (agent-memory-architecture primitive-class triplet) to execution-boundary-governance-organizational-layer + CSCW-grounded-collaborative-competence-methodology + internet-of-agentic-AI-cross-discipline-synthesis-framework (multi-agent-coordination-collaboration primitive-class triplet). 2606.08340 (alem) was a 5-store-dedup duplicate; 2606.01199 (TaskWeave) deliberately skipped per Rule 30 (overlaps Run 89 memory-architecture theme)."
+      "notes": "Rule 57 MULTI-AGENT-COORDINATION-COLLABORATION-PROBE verified (36th consecutive pitfall-83 — longest in wiki history by 23 runs); 3 picks structurally orthogonal to Run 89 agent-memory-architecture primitives — picks cover 3 distinct sub-axes of multi-agent-coordination-collaboration primitive-class: (a) execution-boundary governance organizational-layer with 88%→near-zero unsafe-execution reduction on adversarial AgenticPay, (b) CSCW-grounded collaborative competence evaluation framework with controlled interaction-condition manipulation, (c) internet-of-agentic-AI cross-discipline synthesis framework with six research challenges + adaptive-manufacturing + distributed-operational case studies. Pivoted from Run 89 biological-cognitive-mechanism-memory-architecture + continuum-memory architectural-primitive + comprehensive-memory-survey-three-dimensional-taxonomy (agent-memory-architecture primitive-class triplet) to execution-boundary-governance-organizational-layer + CSCW-grounded-collaborative-competence-methodology + internet-of-agentic-AI-cross-discipline-synthesis-framework (multi-agent-coordination-collaboration primitive-class triplet). 2606.08340 (alem) was a 5-store-dedup duplicate; 2606.01199 (TaskWeave) deliberately skipped per Rule 30 (overlaps Run 89 memory-architecture theme)."
     },
     {
       "run_number": 91,
@@ -10936,7 +10936,7 @@
         "2606.18627",
         "2605.18993"
       ],
-      "notes": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE verified (37th consecutive pitfall-83 \u2014 longest in wiki history by 24 runs); 3 picks structurally orthogonal to Run 90 multi-agent-coordination-collaboration primitives \u2014 picks cover 3 distinct sub-axes of model-combination-fusion primitive-class: (a) co-failure-ceiling theorem on multi-model combination gain across 67 frontier models with finite-sample certificate, (b) load-bearing-wall dimensions in task-vectors for model merging with anchored-core preservation, (c) activation-space-linearity distillation for merge-compatible fine-tuning at standard deployment cost. Pivoted from Run 90 execution-boundary-governance-organizational-layer + CSCW-grounded-collaborative-competence-methodology + internet-of-agentic-AI-cross-discipline-synthesis-framework (multi-agent-coordination-collaboration primitive-class triplet) to co-failure-ceiling-on-routing-voting-mixture-of-agents + anchored-core-preservation-in-task-vectors + activation-space-linearity-distillation-for-task-arithmetic (model-combination-fusion primitive-class triplet)."
+      "notes": "Rule 58 MODEL-COMBINATION-FUSION-PRIMITIVE-PROBE verified (37th consecutive pitfall-83 — longest in wiki history by 24 runs); 3 picks structurally orthogonal to Run 90 multi-agent-coordination-collaboration primitives — picks cover 3 distinct sub-axes of model-combination-fusion primitive-class: (a) co-failure-ceiling theorem on multi-model combination gain across 67 frontier models with finite-sample certificate, (b) load-bearing-wall dimensions in task-vectors for model merging with anchored-core preservation, (c) activation-space-linearity distillation for merge-compatible fine-tuning at standard deployment cost. Pivoted from Run 90 execution-boundary-governance-organizational-layer + CSCW-grounded-collaborative-competence-methodology + internet-of-agentic-AI-cross-discipline-synthesis-framework (multi-agent-coordination-collaboration primitive-class triplet) to co-failure-ceiling-on-routing-voting-mixture-of-agents + anchored-core-preservation-in-task-vectors + activation-space-linearity-distillation-for-task-arithmetic (model-combination-fusion primitive-class triplet)."
     },
     {
       "run_number": 92,
@@ -10960,7 +10960,7 @@
         "arxiv 2606 2605 federated fine-tuning LLM multi-agent cross-client collaborative",
         "arxiv 2026 multi-agent LLM experience replay shared bank knowledge distillation"
       ],
-      "notes": "Rule 59 COLLABORATIVE-LEARNING-PROBE codified and verified (38th consecutive pitfall-83 \u2014 longest in wiki history by 25 runs); 3 picks structurally orthogonal to Run 91 model-combination-fusion primitives \u2014 picks cover 3 distinct sub-axes of collaborative-learning primitive-class: (a) cooperation-laws-as-policy primitive for embodied multi-agent alignment via reflection-on-past-failures (LLawCo), (b) transactive-memory extension to LLM-agent populations with agent-generated-trajectory retrieval (MATM), (c) typed federated artifacts with schema-validated per-field differential privacy for federated LLM tool routing (Synapse). Pivoted from Run 91 co-failure-ceiling-on-routing-voting-mixture-of-agents + load-bearing-wall-dimensions-in-task-vectors + activation-space-linearity-distillation-for-task-arithmetic (model-combination-fusion primitive-class triplet) to cooperation-laws-as-policy-for-embodied-multi-agent-alignment + transactive-memory-extending-RAG-to-agent-populations + typed-federated-artifacts-for-cross-client-tool-routing (collaborative-learning primitive-class triplet)."
+      "notes": "Rule 59 COLLABORATIVE-LEARNING-PROBE codified and verified (38th consecutive pitfall-83 — longest in wiki history by 25 runs); 3 picks structurally orthogonal to Run 91 model-combination-fusion primitives — picks cover 3 distinct sub-axes of collaborative-learning primitive-class: (a) cooperation-laws-as-policy primitive for embodied multi-agent alignment via reflection-on-past-failures (LLawCo), (b) transactive-memory extension to LLM-agent populations with agent-generated-trajectory retrieval (MATM), (c) typed federated artifacts with schema-validated per-field differential privacy for federated LLM tool routing (Synapse). Pivoted from Run 91 co-failure-ceiling-on-routing-voting-mixture-of-agents + load-bearing-wall-dimensions-in-task-vectors + activation-space-linearity-distillation-for-task-arithmetic (model-combination-fusion primitive-class triplet) to cooperation-laws-as-policy-for-embodied-multi-agent-alignment + transactive-memory-extending-RAG-to-agent-populations + typed-federated-artifacts-for-cross-client-tool-routing (collaborative-learning primitive-class triplet)."
     },
     {
       "run": 93,
@@ -11010,7 +11010,7 @@
           "theme": "environmental-evolution / co-evolutionary-agent-environment-game / difficulty-aligned-curriculum primitive"
         }
       ],
-      "notes": "Run 94: web_search 4-query ENVIRONMENTAL-EVOLUTION-PROBE escape hatch per Rule 61 (HF pool CV/3D-heavy for 40th consecutive run \u2014 pitfall-83 streak extended to Runs 55-94, longest in wiki history by 27 runs). Rule 61 introduced after Rules 33-60 in sequence; pivoted from Run 93 cross-agent-teaching triplet to environmental-evolution triplet: environment-discovery-from-real-world-MCP-tools + programmatic-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator. 3 picks structurally orthogonal to all prior runs."
+      "notes": "Run 94: web_search 4-query ENVIRONMENTAL-EVOLUTION-PROBE escape hatch per Rule 61 (HF pool CV/3D-heavy for 40th consecutive run — pitfall-83 streak extended to Runs 55-94, longest in wiki history by 27 runs). Rule 61 introduced after Rules 33-60 in sequence; pivoted from Run 93 cross-agent-teaching triplet to environmental-evolution triplet: environment-discovery-from-real-world-MCP-tools + programmatic-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator. 3 picks structurally orthogonal to all prior runs."
     },
     {
       "run_number": 95,
@@ -11019,8 +11019,8 @@
       "rule": "62",
       "method": "4-query TOKENIZER-LEVEL-PRIMITIVE-PROBE",
       "picks_added": 3,
-      "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet).",
-      "framing": "tokenizer-level probe \u2014 minimalist unigram + tokenization fairness + tokenization-free hierarchical",
+      "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 — longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives — picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet).",
+      "framing": "tokenizer-level probe — minimalist unigram + tokenization fairness + tokenization-free hierarchical",
       "picks": [
         {
           "arxiv_id": "2606.27019",
@@ -11043,8 +11043,8 @@
       "rule": "63",
       "method": "web_search 4-query AXIOMATIC-FORMALIZATION-PROBE",
       "picks_added": 3,
-      "notes": "Rule 63 AXIOMATIC-FORMALIZATION-PROBE verified (42nd consecutive pitfall-83). Introduced after Rules 33-62 in sequence (cycle \u2192 sub-cluster \u2192 new-axis \u2192 combined-axis \u2192 PROBE-AXIS \u2192 deep-sub-cluster \u2192 deep-sub-cluster-other-primitive \u2192 axis-inversion \u2192 temporal-anchor \u2192 axis-orthogonality \u2192 negative-result \u2192 adversarial-axis \u2192 meta-probe \u2192 cross-discipline \u2192 application-domain \u2192 failure-mode-catalog \u2192 emerging-pretraining-objective \u2192 multi-agent-consensus \u2192 reward-model-geometry \u2192 neuro-symbolic-grounding \u2192 representation-engineering \u2192 uncertainty-quantification \u2192 causal-inference \u2192 graph-structured-reasoning \u2192 self-improvement-loop \u2192 test-time-compute-scaling \u2192 watermarking-model-fingerprinting \u2192 inference-efficiency \u2192 agent-memory-architecture \u2192 multi-agent-coordination-collaboration \u2192 model-combination-fusion \u2192 collaborative-learning \u2192 cross-agent-teaching \u2192 environmental-evolution \u2192 tokenizer-level). Rule 63 specifically probes the *axiomatic/formal-foundation* primitive-class for LLM reasoning \u2014 primitives that govern how LLM representations, explanations, and reasoning traces can be encoded as formal axiom systems, formal proofs, or compilable programs. Distinct from neuro-symbolic grounding (Rule 47, which targets external-symbol grounding), from interpretability (Rule 48, which targets internal-mechanism discovery), from reasoning-trace-failure analysis (Run 64, which targeted failure-mode taxonomy), and from reasoning-evaluation benchmarks (which target benchmark scores). Run 96 surfaces three structural axes: (a) latent-state-as-axiom-system with quantitative measures independent of downstream accuracy, (b) natural-language-explanation-as-Lean4-proof with verification-of-derivability, (c) reasoning-trace-as-compilable-program with hybrid-deterministic-LLM-audit verification. Pivoted per Rule 27 from Run 95 minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet) to VeryTrace-trace-as-compilable-program + ForEx-explanation-as-Lean4-proof + Formalizing-Latent-Thoughts-latent-state-as-axiom-system (axiomatic-formalization primitive-class triplet \u2014 fully orthogonal to Run 95 tokenizer-level axes, orthogonal to Run 94 environmental-evolution axes, orthogonal to Run 93 cross-agent-teaching axes, orthogonal to Run 92 collaborative-learning axes, orthogonal to Run 91 model-combination-fusion axes). HF daily v2 returned 12 papers on /papers/date/2026-06-29/30 sparse pages (PhysisForcing, Translation-as-Bridging-Action, Qwen-Image-2.0-RL, SingGuard, ProMSA, Formalizing-Latent-Thoughts, Ko-WideSearch, SimFoundry, NormGuard, Paper-Assistant, Learning-to-Fold, Boundary-Aware-EEG), 7 LLM-keyword-matched (SingGuard, ProMSA, Formalizing-Latent-Thoughts, Ko-WideSearch, NormGuard, EEG-Agent) but mostly multimodal/agent-eval \u2014 only Formalizing-Latent-Thoughts fit axiomatic-formalization axis. web_search 4-query AXIOMATIC-FORMALIZATION-PROBE surfaced 3 high-quality candidates with structural orthogonality to Run 95 picks. AXIOMATIC-FORMALIZATION-PROBE WORKED \u2014 fresh-LLM return at typical base rate with full orthogonality to Run 95 tokenizer-level picks.",
-      "framing": "axiomatic-formalization probe \u2014 trace-as-compilable-program + explanation-as-Lean4-proof + latent-state-as-axiom-system",
+      "notes": "Rule 63 AXIOMATIC-FORMALIZATION-PROBE verified (42nd consecutive pitfall-83). Introduced after Rules 33-62 in sequence (cycle → sub-cluster → new-axis → combined-axis → PROBE-AXIS → deep-sub-cluster → deep-sub-cluster-other-primitive → axis-inversion → temporal-anchor → axis-orthogonality → negative-result → adversarial-axis → meta-probe → cross-discipline → application-domain → failure-mode-catalog → emerging-pretraining-objective → multi-agent-consensus → reward-model-geometry → neuro-symbolic-grounding → representation-engineering → uncertainty-quantification → causal-inference → graph-structured-reasoning → self-improvement-loop → test-time-compute-scaling → watermarking-model-fingerprinting → inference-efficiency → agent-memory-architecture → multi-agent-coordination-collaboration → model-combination-fusion → collaborative-learning → cross-agent-teaching → environmental-evolution → tokenizer-level). Rule 63 specifically probes the *axiomatic/formal-foundation* primitive-class for LLM reasoning — primitives that govern how LLM representations, explanations, and reasoning traces can be encoded as formal axiom systems, formal proofs, or compilable programs. Distinct from neuro-symbolic grounding (Rule 47, which targets external-symbol grounding), from interpretability (Rule 48, which targets internal-mechanism discovery), from reasoning-trace-failure analysis (Run 64, which targeted failure-mode taxonomy), and from reasoning-evaluation benchmarks (which target benchmark scores). Run 96 surfaces three structural axes: (a) latent-state-as-axiom-system with quantitative measures independent of downstream accuracy, (b) natural-language-explanation-as-Lean4-proof with verification-of-derivability, (c) reasoning-trace-as-compilable-program with hybrid-deterministic-LLM-audit verification. Pivoted per Rule 27 from Run 95 minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet) to VeryTrace-trace-as-compilable-program + ForEx-explanation-as-Lean4-proof + Formalizing-Latent-Thoughts-latent-state-as-axiom-system (axiomatic-formalization primitive-class triplet — fully orthogonal to Run 95 tokenizer-level axes, orthogonal to Run 94 environmental-evolution axes, orthogonal to Run 93 cross-agent-teaching axes, orthogonal to Run 92 collaborative-learning axes, orthogonal to Run 91 model-combination-fusion axes). HF daily v2 returned 12 papers on /papers/date/2026-06-29/30 sparse pages (PhysisForcing, Translation-as-Bridging-Action, Qwen-Image-2.0-RL, SingGuard, ProMSA, Formalizing-Latent-Thoughts, Ko-WideSearch, SimFoundry, NormGuard, Paper-Assistant, Learning-to-Fold, Boundary-Aware-EEG), 7 LLM-keyword-matched (SingGuard, ProMSA, Formalizing-Latent-Thoughts, Ko-WideSearch, NormGuard, EEG-Agent) but mostly multimodal/agent-eval — only Formalizing-Latent-Thoughts fit axiomatic-formalization axis. web_search 4-query AXIOMATIC-FORMALIZATION-PROBE surfaced 3 high-quality candidates with structural orthogonality to Run 95 picks. AXIOMATIC-FORMALIZATION-PROBE WORKED — fresh-LLM return at typical base rate with full orthogonality to Run 95 tokenizer-level picks.",
+      "framing": "axiomatic-formalization probe — trace-as-compilable-program + explanation-as-Lean4-proof + latent-state-as-axiom-system",
       "picks": [
         {
           "arxiv_id": "2606.24124",
@@ -11072,7 +11072,7 @@
     {
       "theme": "emergent-capabilities",
       "timestamp": "2026-06-29T07:15:37.154786+00:00",
-      "notes": "Rule 64 EMERGENT-CAPABILITIES-PROBE verified (43rd consecutive pitfall-83 \u2014 longest in wiki history by 30 runs). Introduced after Rules 33-63 in sequence. Pick axes that probe emergent-capability-mechanism primitives for LLM (numerical-precision-as-causal-mechanism-for-Slingshot-loss-spikes, loss-landscape-geometry-as-causal-early-warning-signal-for-grokking, model-organisms-of-strategic-RL-resistance-as-capability-elicitation-failure). 3 picks: 2605.06152 (Numerical Feature Inflation for Slingshot Mechanism), 2604.28182 (model-organism RL resistance), 2602.16967 (commutator-defect early-warning for grokking).",
+      "notes": "Rule 64 EMERGENT-CAPABILITIES-PROBE verified (43rd consecutive pitfall-83 — longest in wiki history by 30 runs). Introduced after Rules 33-63 in sequence. Pick axes that probe emergent-capability-mechanism primitives for LLM (numerical-precision-as-causal-mechanism-for-Slingshot-loss-spikes, loss-landscape-geometry-as-causal-early-warning-signal-for-grokking, model-organisms-of-strategic-RL-resistance-as-capability-elicitation-failure). 3 picks: 2605.06152 (Numerical Feature Inflation for Slingshot Mechanism), 2604.28182 (model-organism RL resistance), 2602.16967 (commutator-defect early-warning for grokking).",
       "picks": [
         {
           "arxiv_id": "2605.06152",
@@ -11203,7 +11203,7 @@
       "run_number": 103,
       "date": "2026-06-29",
       "theme": "representational-geometry",
-      "theme_full": "REPRESENTATIONAL-GEOMETRY-PROBE per Rule 70 \u2014 pick axes that probe the intrinsic geometric structure of LLM representations (intrinsic dimensionality, minimal-cores of reasoning traces, shared cross-model embedding geometry, abstraction-phase emergence in training)",
+      "theme_full": "REPRESENTATIONAL-GEOMETRY-PROBE per Rule 70 — pick axes that probe the intrinsic geometric structure of LLM representations (intrinsic dimensionality, minimal-cores of reasoning traces, shared cross-model embedding geometry, abstraction-phase emergence in training)",
       "rule_codified": "Rule 70 REPRESENTATIONAL-GEOMETRY-PROBE",
       "num_fresh_candidates": 135,
       "num_picks": 3,
@@ -11249,25 +11249,25 @@
       "run_number": 105,
       "timestamp": "2026-06-29T10:48:14+00:00",
       "theme": "declarative-lm",
-      "last_run_framing": "DECLARATIVE-LM-PROBE per Rule 72 candidate \u2014 declarative-LM-as-program primitives: non-Turing-complete DSL as orchestration substrate + checkpoint-repair PoT replay + categorical-prior-lock-in ICL failure",
+      "last_run_framing": "DECLARATIVE-LM-PROBE per Rule 72 candidate — declarative-LM-as-program primitives: non-Turing-complete DSL as orchestration substrate + checkpoint-repair PoT replay + categorical-prior-lock-in ICL failure",
       "picks": [
         "2606.11961",
         "2605.30052",
         "2603.27299"
       ],
-      "notes": "Run 105 \u2014 DECLARATIVE-LM-PROBE (Rule 72 candidate) \u2014 pivoted from Run 104 gradient-flow-coordination axes to declarative-LM-as-program primitive-class triplet: (a) declarative-DSL-as-LLM-orchestration-substrate (2603.27299) + (b) declarative-PoT-with-checkpoint-repair-replay (2605.30052) + (c) ICL-failure-as-categorical-prior-lock-in (2606.11961); HF daily v2 returned CV/3D-heavy content (51st consecutive pitfall-83 streak); arxiv API + arxiv search HTML escape hatch fired for DECLARATIVE-LM-PROBE via 4 axes; full orthogonality to Run 104 gradient-flow-coordination picks verified."
+      "notes": "Run 105 — DECLARATIVE-LM-PROBE (Rule 72 candidate) — pivoted from Run 104 gradient-flow-coordination axes to declarative-LM-as-program primitive-class triplet: (a) declarative-DSL-as-LLM-orchestration-substrate (2603.27299) + (b) declarative-PoT-with-checkpoint-repair-replay (2605.30052) + (c) ICL-failure-as-categorical-prior-lock-in (2606.11961); HF daily v2 returned CV/3D-heavy content (51st consecutive pitfall-83 streak); arxiv API + arxiv search HTML escape hatch fired for DECLARATIVE-LM-PROBE via 4 axes; full orthogonality to Run 104 gradient-flow-coordination picks verified."
     },
     {
       "run_number": 106,
       "timestamp": "2026-06-29T13:30:00+00:00",
       "theme": "functional-mechanistic-interpretability",
-      "last_run_framing": "FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE per Rule 73 candidate \u2014 primitives that turn mechanistic-interpretability findings into functional measurements, control primitives, and cross-prompt comparison substrates: SAE concept-annotation evaluation + weight-regularization as stability-and-steerability enabler + patch-effect-graph-kernel circuit comparison",
+      "last_run_framing": "FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE per Rule 73 candidate — primitives that turn mechanistic-interpretability findings into functional measurements, control primitives, and cross-prompt comparison substrates: SAE concept-annotation evaluation + weight-regularization as stability-and-steerability enabler + patch-effect-graph-kernel circuit comparison",
       "picks": [
         "2606.24716",
         "2603.04198",
         "2605.06480"
       ],
-      "notes": "Run 106 \u2014 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE (Rule 73 candidate) \u2014 pivoted from Run 105 declarative-LM axes to functional-mechanistic-interpretability primitive-class triplet: (a) concept-annotation as SAE-evaluation substrate (2606.24716) + (b) weight-regularization as SAE-stability-and-steerability enabler (2603.04198) + (c) patch-effect-graph-kernel as circuit-comparison substrate (2605.06480); HF daily v2 returned CV/3D-heavy content (52nd consecutive pitfall-83 streak); arxiv API rate-limited 429; arxiv search HTML + web_search escape hatch fired for FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE via 6 axes; full orthogonality to Run 105 declarative-LM picks verified; Rule 73 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE codified candidate."
+      "notes": "Run 106 — FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE (Rule 73 candidate) — pivoted from Run 105 declarative-LM axes to functional-mechanistic-interpretability primitive-class triplet: (a) concept-annotation as SAE-evaluation substrate (2606.24716) + (b) weight-regularization as SAE-stability-and-steerability enabler (2603.04198) + (c) patch-effect-graph-kernel as circuit-comparison substrate (2605.06480); HF daily v2 returned CV/3D-heavy content (52nd consecutive pitfall-83 streak); arxiv API rate-limited 429; arxiv search HTML + web_search escape hatch fired for FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE via 6 axes; full orthogonality to Run 105 declarative-LM picks verified; Rule 73 FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE codified candidate."
     },
     {
       "run_number": 107,
@@ -11285,7 +11285,7 @@
         "2602.02909",
         "2502.17407"
       ],
-      "notes": "Run 107 \u2014 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE per Rule 74 (candidate) \u2014 pivoted from Run 106 functional-mechanistic-interpretability axes to BAPO-extended CoT-token-complexity lower bounds + training-free token-level-trigger intermediate-budget reasoning control + multilingual test-time-scaling linguistic-bottleneck primitive triplet; first arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE pivoted from Run 106 functional-mechanistic-interpretability axes; pitfall-83 streak extended to 53 consecutive runs (longest in wiki history by 41 runs); Rule 74 codified for future runs.",
+      "notes": "Run 107 — COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE per Rule 74 (candidate) — pivoted from Run 106 functional-mechanistic-interpretability axes to BAPO-extended CoT-token-complexity lower bounds + training-free token-level-trigger intermediate-budget reasoning control + multilingual test-time-scaling linguistic-bottleneck primitive triplet; first arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE pivoted from Run 106 functional-mechanistic-interpretability axes; pitfall-83 streak extended to 53 consecutive runs (longest in wiki history by 41 runs); Rule 74 codified for future runs.",
       "cycle_count": "53 consecutive pitfall-83 firings",
       "prior_axis": "Run 106 functional-mechanistic-interpretability (concept-annotation SAE-evaluation + patch-effect-graph-kernel circuit-comparison + weight-regularization SAE-stability-steerability)",
       "new_axis": "Rule 74 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE (BAPO-extended CoT-token-complexity-lower-bound + training-free token-level-trigger-mode-switch + multilingual test-time-scaling linguistic-bottleneck)"
@@ -11367,7 +11367,7 @@
         },
         {
           "arxiv_id": "2603.04948",
-          "title": "\u2207-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
+          "title": "∇-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
           "slug": "nabla-reasoner-llm-reasoning-via-test-time-gradient-descent-in-latent-space-2603.04948"
         },
         {
@@ -11446,7 +11446,7 @@
     {
       "timestamp": "2026-06-26T05:00:00+00:00",
       "mode": "emergent_concept",
-      "theme": "theme-diversity: agentic-image-gen (context-gap) + vla system-id + flow-matching capability-routing \u2014 3-axis pivot",
+      "theme": "theme-diversity: agentic-image-gen (context-gap) + vla system-id + flow-matching capability-routing — 3-axis pivot",
       "picks": 3,
       "arxiv_ids": [
         "2606.26907",
