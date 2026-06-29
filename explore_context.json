@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T12:30:00+00:00",
-  "__last_updated": "2026-06-29T12:30:00+00:00",
-  "last_run": 100,
-  "last_explore": "2026-06-29T12:30:00+00:00",
+  "updated": "2026-06-29T13:00:00+00:00",
+  "__last_updated": "2026-06-29T13:00:00+00:00",
+  "last_run": 101,
+  "last_explore": "2026-06-29T13:00:00+00:00",
   "last_global_explore": "2026-06-29T10:30:00+00:00",
-  "last_discovery": "2026-06-29T12:30:00+00:00",
-  "last_run_framing": "Run 100 \u2014 SAMPLE-EFFICIENCY-LIMIT-PROBE per Rule 67 \u2014 best-arm-identification-exemplar-selection-ICL + data-pruning-LLM-fine-tuning-coreset + many-shot-ICL-low-resource-deployment",
-  "last_framing": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE \u2014 pick axes that probe tokenizer-level primitives (training-pipeline simplification of Unigram vs BPE trade-offs, byte-level/tokenization-free hierarchical architecture, multilingual token-fertility cost measurement, script-fertility gradient analysis, byte-compression control in tokenization-free models, token-list vs token-graph representation, compression-vs-morphology trade-off resolution)",
-  "last_run_notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet).",
+  "last_discovery": "2026-06-29T13:00:00+00:00",
+  "last_run_framing": "Run 101 \u2014 IDENTIFIABILITY-PROBE per Rule 68 \u2014 unobserved-confounder-causal-effect-identifiability-via-IV-discovery + SCM-grounded-counterfactual-identifiability-for-explanation-evaluation + latent-reasoning-vector-identifiability-via-probes-and-decode-time-interventions",
+  "last_framing": "Rule 68 IDENTIFIABILITY-PROBE \u2014 pick axes that probe identifiability primitives (unobserved-confounder causal effect isolation, instrumental-variable discovery from observational data, multi-agent proposer-critic-refiner for IV, structural-causal-model-grounded counterfactuals for benchmark construction, order-faithfulness metric for explanation evaluation, latent-reasoning-vector identifiability via structural/causal/geometric probes, training-free-decode-time interventions on latent reasoning, latent-reasoning causal-hub identification)",
+  "last_run_notes": "Rule 68 IDENTIFIABILITY-PROBE verified (47th consecutive pitfall-83 \u2014 longest in wiki history by 35 runs); 3 picks structurally orthogonal to Run 100 sample-efficiency primitives \u2014 picks cover 3 distinct sub-layers of identifiability primitive-class: (a) unobserved-confounder causal effect identifiability via IV discovery, (b) SCM-grounded counterfactual identifiability for explanation evaluation, (c) latent-reasoning-vector identifiability via probes and decode-time interventions. Pivoted from Run 100 best-arms-identification-exemplar-selection-for-ICL + data-pruning-as-deployment-enabler-for-LLM-fine-tuning + many-shot-ICL-scaling-laws-for-low-resource-deployment (sample-efficiency-limit primitive-class triplet) to unobserved-confounder-causal-effect-identifiability-via-IV-discovery + SCM-grounded-counterfactual-identifiability-for-explanation-evaluation + latent-reasoning-vector-identifiability-via-probes-and-decode-time-interventions (identifiability primitive-class triplet).",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "SAMPLE-EFFICIENCY-LIMIT-PROBE (Rule 67) via arxiv search HTML 4-query escape hatch",
+  "last_run_method": "IDENTIFIABILITY-PROBE (Rule 68) via arxiv search HTML 4-query escape hatch",
   "run_method": "emergent-concept-search-via-arxiv-search-HTML",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "sample-efficiency-limit",
-  "emergent_theme": "sample-efficiency-limit",
+  "emergent_concept_theme": "identifiability",
+  "emergent_theme": "identifiability",
   "chains_updated": 0,
-  "entities_count": 306,
+  "entities_count": 309,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4138,6 +4138,18 @@
       "discovered": "2026-06-29T12:30:00+00:00",
       "theme": "data-pruning-LLM-fine-tuning",
       "online_date": "2024-06-04"
+    },
+    {
+      "arxiv_id": "2606.01243",
+      "title": "Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention"
+    },
+    {
+      "arxiv_id": "2602.07943",
+      "title": "IV Co-Scientist: Multi-Agent LLM Framework for Causal Instrumental Variable Discovery"
+    },
+    {
+      "arxiv_id": "2601.10700",
+      "title": "LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals"
     }
   ],
   "emergent_discoveries": [
@@ -6526,6 +6538,30 @@
       "url": "https://arxiv.org/abs/2401.17197",
       "discovered": "2026-06-29T12:30:00+00:00",
       "theme": "data-pruning-LLM-fine-tuning"
+    },
+    {
+      "arxiv_id": "2606.01243",
+      "title": "Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention",
+      "slug": "unlocking-the-black-box-of-latent-reasoning-an-interpretability-guided-approach-to-intervention-2606.01243",
+      "url": "https://arxiv.org/abs/2606.01243",
+      "discovered": "2026-06-29T13:00:00+00:00",
+      "theme": "latent-reasoning-vector identifiability + causal-hub identification + decode-time intervention"
+    },
+    {
+      "arxiv_id": "2602.07943",
+      "title": "IV Co-Scientist: Multi-Agent LLM Framework for Causal Instrumental Variable Discovery",
+      "slug": "iv-co-scientist-multi-agent-llm-framework-for-causal-instrumental-variable-discovery-2602.07943",
+      "url": "https://arxiv.org/abs/2602.07943",
+      "discovered": "2026-06-29T13:00:00+00:00",
+      "theme": "unobserved-confounder causal effect identifiability via IV discovery"
+    },
+    {
+      "arxiv_id": "2601.10700",
+      "title": "LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals",
+      "slug": "liberty-a-causal-framework-for-benchmarking-concept-based-explanations-of-llms-with-structural-counterfactuals-2601.10700",
+      "url": "https://arxiv.org/abs/2601.10700",
+      "discovered": "2026-06-29T13:00:00+00:00",
+      "theme": "SCM-grounded counterfactual identifiability for explanation evaluation"
     }
   ],
   "emergent_concept_search_log": [
@@ -8965,6 +9001,42 @@
       "num_picks": 3,
       "substrate": "arxiv search HTML 4-query (HF pool 0 LLM-keyword-matched, 46th consecutive pitfall-83)",
       "notes": "Rule 67 SAMPLE-EFFICIENCY-LIMIT-PROBE; best-arm-identification-for-exemplar-selection + data-pruning-for-LLM-fine-tuning + many-shot-ICL-low-resource-deployment primitive triplet; arxiv search HTML substrate continues from Run 99"
+    },
+    {
+      "run_number": 101,
+      "theme": "identifiability",
+      "rule_codified": 68,
+      "timestamp": "2026-06-29T13:00:00+00:00",
+      "description": "Run 101 introduces IDENTIFIABILITY-PROBE \u2014 pick axes that probe identifiability primitives (unobserved-confounder causal effect isolation, instrumental-variable discovery, SCM-grounded counterfactuals, latent-reasoning-vector identifiability), pivoting from Run 100 sample-efficiency-limit-probe",
+      "query_axes": [
+        "unobserved-confounder causal effect identifiability via IV discovery",
+        "SCM-grounded counterfactual identifiability for explanation evaluation",
+        "latent-reasoning-vector identifiability via structural/causal/geometric probes",
+        "multi-agent proposer-critic-refiner for instrumental-variable discovery"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2606.01243",
+          "title": "Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention",
+          "slug": "unlocking-the-black-box-of-latent-reasoning-an-interpretability-guided-approach-to-intervention-2606.01243",
+          "online_date": "2026-05-31",
+          "primitive": "latent-reasoning-vector identifiability + causal-hub identification + training-free-decode-time intervention"
+        },
+        {
+          "arxiv_id": "2602.07943",
+          "title": "IV Co-Scientist: Multi-Agent LLM Framework for Causal Instrumental Variable Discovery",
+          "slug": "iv-co-scientist-multi-agent-llm-framework-for-causal-instrumental-variable-discovery-2602.07943",
+          "online_date": "2026-04-06",
+          "primitive": "unobserved-confounder causal effect identifiability via IV discovery + two-stage evaluation framework"
+        },
+        {
+          "arxiv_id": "2601.10700",
+          "title": "LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals",
+          "slug": "liberty-a-causal-framework-for-benchmarking-concept-based-explanations-of-llms-with-structural-counterfactuals-2601.10700",
+          "online_date": "2026-01-18",
+          "primitive": "SCM-grounded counterfactual identifiability for explanation evaluation + order-faithfulness metric"
+        }
+      ]
     }
   ],
   "runs": [
@@ -10437,6 +10509,23 @@
         }
       ],
       "notes": "Run 100 SAMPLE-EFFICIENCY-LIMIT-PROBE per Rule 67; 46th consecutive pitfall-83 firing; arxiv search HTML 4-query returned 60+ fresh LLM candidates after 5-store dedup; 3 picks selected via Rule 27 domain-diversity + first-in-wiki framing + structurally-orthogonal principle - exemplar-selection-best-arm-identification-ICL + data-pruning-LLM-fine-tuning-coreset + many-shot-ICL-low-resource-deployment triplet (FT + ICL + deployment 3-layer coverage)"
+    },
+    {
+      "run_number": 101,
+      "date": "2026-06-29T13:00:00+00:00",
+      "theme": "identifiability",
+      "theme_full": "IDENTIFIABILITY-PROBE per Rule 68",
+      "rule_codified": 68,
+      "num_fresh_candidates": 57,
+      "num_picks": 3,
+      "substrate": "arxiv search HTML 4-query IDENTIFIABILITY-PROBE escape hatch (HF pool 0 LLM-keyword-matched, 47th consecutive pitfall-83)",
+      "queries": [
+        "identifiability causal intervention LLM",
+        "instrumental variable confounding language model",
+        "causal effect identification text generative model",
+        "mediator moderator confounder identifiability LLM"
+      ],
+      "notes": "Rule 68 IDENTIFIABILITY-PROBE; unobserved-confounder causal effect identifiability via IV discovery + SCM-grounded counterfactual identifiability for explanation evaluation + latent-reasoning-vector identifiability via probes and decode-time interventions primitive triplet; arxiv search HTML substrate continues from Run 99/100"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
