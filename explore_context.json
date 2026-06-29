@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 427,
+  "entities_count": 430,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8446,6 +8446,30 @@
       "url": "https://arxiv.org/abs/2606.26758",
       "discovered": "2026-07-01T00:30:00+00:00",
       "theme": "llm-agent / kernel-generation / hardware-software-co-design"
+    },
+    {
+      "arxiv_id": "2606.24952",
+      "title": "Perfect Detection, Failed Control: The Geometry of Knowing vs. Steering in Language Models",
+      "slug": "perfect-detection-failed-control-geometry-knowing-vs-steering-llm-2606.24952",
+      "url": "https://arxiv.org/abs/2606.24952",
+      "discovered": "2026-06-29T22:13:16.467860+00:00",
+      "theme": "interpretability / controllability / steering geometry"
+    },
+    {
+      "arxiv_id": "2606.24996",
+      "title": "From Forecasting Leaderboards to Deployment Decisions: A Fail-Closed Certification Protocol",
+      "slug": "from-forecasting-leaderboards-to-deployment-decisions-fail-closed-certification-2606.24996",
+      "url": "https://arxiv.org/abs/2606.24996",
+      "discovered": "2026-06-29T22:13:16.467860+00:00",
+      "theme": "deployment / certification / evaluation"
+    },
+    {
+      "arxiv_id": "2606.25407",
+      "title": "Teach-to-Reason: Competition-Guided Reasoning with a Self-Improving Teacher",
+      "slug": "teach-to-reason-competition-guided-reasoning-self-improving-teacher-2606.25407",
+      "url": "https://arxiv.org/abs/2606.25407",
+      "discovered": "2026-06-29T22:13:16.467860+00:00",
+      "theme": "reasoning / chain-of-thought / distillation"
     }
   ],
   "emergent_concept_search_log": [
@@ -13293,6 +13317,18 @@
       "date": "2026-07-01T00:30:00+00:00",
       "framing": "LLM-INFERENCE-ADAPTIVE-PROBE",
       "method": "arxiv HTML search"
+    },
+    {
+      "run": 140,
+      "theme": "EMERGENT-CONCEPT-SEARCH",
+      "papers": [
+        "2606.24952",
+        "2606.24996",
+        "2606.25407"
+      ],
+      "date": "2026-06-29T22:13:16.467860+00:00",
+      "framing": "EMERGENT-CONCEPT-SEARCH",
+      "method": "arxiv HTML search 4-query planning/reasoning/LLM"
     }
   ],
   "last_updated": "2026-06-29T19:06:28.349779+00:00",

@@ -1,4 +1,9 @@
 Explore: 2026-06-29T22:30 UTC — Run 132 INFRASTRUCTURE-SAFETY-PROBE (Rule 88): Environment-Injected Memory Poisoning (2604.02623) + Resource Consumption Threats (2603.16068) + Long-Term State Poisoning (2605.06731)
+Explore: 2026-06-29T23:55 UTC — Run 140 — EMERGENT-CONCEPT-SEARCH (arxiv HTML search 4-query planning/reasoning/LLM integration; 20 fresh candidates from 45 IDs; 3 LLM-keyword-matched picks: Perfect Detection Failed Control + Forecasting Leaderboards Deployment + Teach-to-Reason)
+- 3 picks: Perfect Detection Failed Control (2606.24952) + Forecasting Leaderboards Deployment Decisions (2606.24996) + Teach-to-Reason (2606.25407)
+- entities_count: 430 reconciled (427 + 3 new)
+- all wikilinks verified (7 total across 3 files, all resolve)
+
 ## 2026-06-29 13:30 UTC — Emergent-concept search Run 106 (3 fresh themes)
 
 **Mode**: emergent-concept-search via arxiv search HTML + web_search 6-query FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE escape hatch per Rule 73 (codified candidate)
