@@ -913,7 +913,10 @@
         "2603.01227",
         "2603.12953",
         "2602.21044",
-        "2605.01293"
+        "2605.01293",
+        "2606.15092",
+        "2604.09839",
+        "2603.12298"
       ],
       "last_results": [
         {
@@ -2808,25 +2811,55 @@
           "slug": "lifting-traces-to-logic-programmatic-skill-induction-with-neuro-symbolic-learning-for-long-horizon-agentic-tasks-2605.01293",
           "online_date": "2026-05-02",
           "run_number": 80
+        },
+        {
+          "arxiv_id": "2606.15092",
+          "title": "High-Dimensional Random Projection for Activation Steering in Language Models (HiDRA)",
+          "hash": "0807c33744c30d18bb2824d8e157a5f4",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "representation-engineering / activation-steering / superposition-hypothesis / random-projection / discriminative-structure-recovery",
+          "discovered": "2026-06-29T03:25:00+00:00",
+          "slug": "high-dimensional-random-projection-for-activation-steering-hidra-2606.15092",
+          "online_date": "2026-06-13",
+          "run_number": 81
+        },
+        {
+          "arxiv_id": "2604.09839",
+          "title": "Steered LLM Activations are Non-Surjective",
+          "hash": "a4419a3c631069db56a3c1624efc1e69",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "representation-engineering / non-surjectivity-theorem / formal-separation / intervention-class-distinction",
+          "discovered": "2026-06-29T03:25:00+00:00",
+          "slug": "steered-llm-activations-are-non-surjective-2604.09839",
+          "online_date": "2026-04-10",
+          "run_number": 81
+        },
+        {
+          "arxiv_id": "2603.12298",
+          "title": "Global Evolutionary Steering: Refining Activation Steering Control via Cross-Layer Consistency",
+          "hash": "acf579adb18891f72dcdecbd53abaa0f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "representation-engineering / cross-layer-consistency / global-evolutionary-refinement",
+          "discovered": "2026-06-29T03:25:00+00:00",
+          "slug": "global-evolutionary-steering-refining-activation-steering-control-via-cross-layer-consistency-2603.12298",
+          "online_date": "2026-03-12",
+          "run_number": 81
         }
       ],
-      "last_run": "2026-06-29T00:25:00+00:00",
-      "last_updated": "2026-06-26T08:30:00+00:00",
+      "last_run": "2026-06-29T03:25:00+00:00",
+      "last_updated": "2026-06-29T03:25:00+00:00",
       "last_result_timestamp": "2026-06-26T08:30:00+00:00",
       "last_run_key": "run-63-2026-06-26T08:30:00+00:00",
       "last_pass_type": "emergent_concept_search",
-      "last_discovery": {
-        "arxiv_id": "2606.00570",
-        "title": "Revisiting Parameter-Based Knowledge Editing in Large Language Models: Theoretical Limits and Empirical Evidence",
-        "slug": "revisiting-parameter-based-knowledge-editing-in-llms-2606.00570",
-        "discovered": "2026-06-26T08:30:00+00:00",
-        "theme": "knowledge-editing / dimensional-collapse / retrieval-vs-parametric"
-      },
-      "updated_at": "2026-06-26T08:33:38.233536+00:00",
+      "last_discovery": "2026-06-29T03:25:00+00:00",
+      "updated_at": "2026-06-29T03:25:00+00:00",
       "last_run_framing": "Rule 41 CROSS-DISCIPLINE-PROBE \u2014 formal-verification + neuroscience + hebbian-learning (orthogonal to Run 68-73)"
     }
   },
-  "last_run": "2026-06-29T00:25:00+00:00",
+  "last_run": "2026-06-29T03:25:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -3061,10 +3094,13 @@
     "2603.01227",
     "2603.12953",
     "2602.21044",
-    "2605.01293"
+    "2605.01293",
+    "2606.15092",
+    "2604.09839",
+    "2603.12298"
   ],
-  "last_discovery": "2026-06-29T00:25:00.000000+00:00",
-  "last_updated": "2026-06-29T00:25:00.000000+00:00",
+  "last_discovery": "2026-06-29T03:25:00+00:00",
+  "last_updated": "2026-06-29T03:25:00+00:00",
   "__last_updated": "2026-06-29T03:30:00.000000+00:00",
   "last_explore": "2026-06-29T00:25:00.000000+00:00",
   "llm-wiki": {
@@ -3302,10 +3338,13 @@
       "2603.01227",
       "2603.12953",
       "2602.21044",
-      "2605.01293"
+      "2605.01293",
+      "2606.15092",
+      "2604.09839",
+      "2603.12298"
     ],
-    "last_discovery": "2026-06-26T07:09:00+00:00",
-    "last_run": "2026-06-26T07:09:00+00:00",
+    "last_discovery": "2026-06-29T03:25:00+00:00",
+    "last_run": "2026-06-29T03:25:00+00:00",
     "last_updated": "2026-06-29T00:25:00.000000+00:00",
     "last_results": [
       {
@@ -3373,7 +3412,7 @@
       }
     ],
     "last_pass_type": "emergent_concept",
-    "updated_at": "2026-06-26T08:33:38.233536+00:00"
+    "updated_at": "2026-06-29T03:25:00+00:00"
   },
   "last_pass_type": "emergent-concept",
   "last_results": [
@@ -3519,6 +3558,6 @@
       "discovered": "2026-06-26T09:32:00+00:00"
     }
   ],
-  "last_run_framing": "Rule 39 ADVERSARIAL-AXIS-PROBE \u2014 epistemic-resilience-under-adversarial-context-injection + population-level-test-time-scaling-with-generative-verifier + span-level-error-localization-in-deep-research-agents (orthogonal to Run 68 + Run 69 + Run 70 + Run 71)",
+  "last_run_framing": "Rule 48 REPRESENTATION-ENGINEERING-PROBE \u2014 superposition-aware-random-projection-steering + cross-layer-consistency-evolutionary-steering-refinement + white-box-black-box-surjectivity-separation-theorem (representation-engineering primitive-class triplet orthogonal to Run 80 neuro-symbolic-grounding axes)",
   "updated": "2026-06-29T03:30:00.000000+00:00"
 }

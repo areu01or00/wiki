@@ -4,11 +4,11 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T03:30:00.000000+00:00",
   "__last_updated": "2026-06-29T03:55:00+00:00",
-  "last_run": "2026-06-29T03:55:00+00:00",
-  "last_explore": "2026-06-26T10:09:00+00:00",
+  "last_run": "2026-06-29T03:25:00+00:00",
+  "last_explore": "2026-06-29T03:25:00+00:00",
   "last_global_explore": "2026-06-26T10:09:00+00:00",
   "last_discovery": "2026-06-29T03:55:00+00:00",
-  "last_run_framing": "Rule 46 REWARD-MODEL-GEOMETRY-PROBE \u2014 pac-bayesian-prm-bounds + ordinal-decomposition-stochastic-rater-isolation + lattice-representation-hypothesis-symbol-grounding (reward-model-geometry primitive-class triplet orthogonal to Run 78 multi-agent-consensus axes)",
+  "last_run_framing": "Rule 48 REPRESENTATION-ENGINEERING-PROBE \u2014 superposition-aware-random-projection-steering + cross-layer-consistency-evolutionary-steering-refinement + white-box-black-box-surjectivity-separation-theorem (representation-engineering primitive-class triplet orthogonal to Run 80 neuro-symbolic-grounding axes)",
   "last_framing": "Run 71 negative-result-probe per Rule 38 \u2014 pivoted from Run 70 axis-orthogonality training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff)",
   "last_run_notes": "Run 79 \u2014 3 fresh LLM-centric papers via web_search 4-query REWARD-MODEL-GEOMETRY-PROBE escape hatch per Rule 46 (after Run 45 multi-agent-consensus-probe). HF pool CV/3D-heavy for 25th consecutive run (pitfall-83 streak extended to Runs 55-79, longest in wiki history by 12 runs). HF daily v2 data-props returned 0 on /papers/date/2026-06-29 and /papers/date/2026-06-28, v3 href-regex returned 0 matches on both pages. web_search surfaced 16 fresh LLM candidates via the reward-model-geometry-probe query template bracketing 4 reward-model-geometry axes: (a) PAC-Bayesian generalization bounds for PRMs trained with formal verification + (b) ordinal decomposition of discrete stochastic auto-rater rewards for robust policy optimization + (c) lattice representation hypothesis unifying linear-representation-hypothesis + formal-concept-analysis + (d) reward shaping with vision-language-models. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 78 multi-agent-consensus-protocol-via-Wald-SPRT + effective-team-size-scaling-law-via-Ringelmann-effect + coordination-as-first-class-architectural-layer axes to pac-bayesian-generalization-bounds-for-verification-trained-PRMs + ordinal-decomposition-of-stochastic-auto-rater-rewards + lattice-representation-hypothesis-unifying-linear-rep-and-FCA axes. 3-axis DOMAIN-DIVERSITY REWARD-MODEL-GEOMETRY-PROBE PIVOT per Rule 46 to pac-bayesian-formal-verification-trained-PRM-sample-complexity-bounds + ordinal-decomposition-stochasticity-isolation-primitive + concept-lattice-via-half-space-intersections-as-symbol-grounding-primitive.",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
   "emergent_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
   "chains_updated": 0,
-  "entities_count": 246,
+  "entities_count": 249,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3580,6 +3580,33 @@
       "url": "https://arxiv.org/abs/2605.01293",
       "discovered": "2026-06-29T03:55:00+00:00",
       "theme": "neuro-symbolic-grounding / trace-to-logic-lifting / programmatic-skill-induction / logic-grounded-control-flow / dynamic-variable-binding / few-shot-generalisation"
+    },
+    {
+      "arxiv_id": "2606.15092",
+      "slug": "high-dimensional-random-projection-for-activation-steering-hidra-2606.15092",
+      "title": "High-Dimensional Random Projection for Activation Steering in Language Models (HiDRA)",
+      "url": "https://arxiv.org/abs/2606.15092",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T03:25:00+00:00",
+      "theme": "representation-engineering / superposition-hypothesis / random-projection / discriminative-recovery"
+    },
+    {
+      "arxiv_id": "2604.09839",
+      "slug": "steered-llm-activations-are-non-surjective-2604.09839",
+      "title": "Steered LLM Activations are Non-Surjective",
+      "url": "https://arxiv.org/abs/2604.09839",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T03:25:00+00:00",
+      "theme": "representation-engineering / non-surjectivity-theorem / formal-separation / intervention-class-distinction"
+    },
+    {
+      "arxiv_id": "2603.12298",
+      "slug": "global-evolutionary-steering-refining-activation-steering-control-via-cross-layer-consistency-2603.12298",
+      "title": "Global Evolutionary Steering: Refining Activation Steering Control via Cross-Layer Consistency",
+      "url": "https://arxiv.org/abs/2603.12298",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T03:25:00+00:00",
+      "theme": "representation-engineering / cross-layer-consistency / global-evolutionary-refinement"
     }
   ],
   "emergent_discoveries": [
@@ -5479,6 +5506,30 @@
       "url": "https://arxiv.org/abs/2605.01293",
       "discovered": "2026-06-29T03:55:00+00:00",
       "theme": "neuro-symbolic-grounding / trace-to-logic-lifting / programmatic-skill-induction / logic-grounded-control-flow / dynamic-variable-binding / few-shot-generalisation"
+    },
+    {
+      "arxiv_id": "2606.15092",
+      "title": "High-Dimensional Random Projection for Activation Steering in Language Models (HiDRA)",
+      "slug": "high-dimensional-random-projection-for-activation-steering-hidra-2606.15092",
+      "url": "https://arxiv.org/abs/2606.15092",
+      "discovered": "2026-06-29T03:25:00+00:00",
+      "theme": "representation-engineering / activation-steering / superposition-hypothesis / random-projection / discriminative-structure-recovery"
+    },
+    {
+      "arxiv_id": "2604.09839",
+      "title": "Steered LLM Activations are Non-Surjective",
+      "slug": "steered-llm-activations-are-non-surjective-2604.09839",
+      "url": "https://arxiv.org/abs/2604.09839",
+      "discovered": "2026-06-29T03:25:00+00:00",
+      "theme": "representation-engineering / activation-steering / non-surjectivity-theorem / formal-separation / white-box-vs-black-box / intervention-class-distinction"
+    },
+    {
+      "arxiv_id": "2603.12298",
+      "title": "Global Evolutionary Steering: Refining Activation Steering Control via Cross-Layer Consistency",
+      "slug": "global-evolutionary-steering-refining-activation-steering-control-via-cross-layer-consistency-2603.12298",
+      "url": "https://arxiv.org/abs/2603.12298",
+      "discovered": "2026-06-29T03:25:00+00:00",
+      "theme": "representation-engineering / activation-steering / cross-layer-consistency / global-evolutionary-refinement / training-free / layer-agnostic-universal-steering"
     }
   ],
   "emergent_concept_search_log": [
@@ -7638,6 +7689,15 @@
       "timestamp": "2026-06-29T03:55:00+00:00",
       "mode": "web_search_4_query_escape_hatch",
       "probe_rule": "Rule 47 NEURO-SYMBOLIC-GROUNDING-PROBE"
+    },
+    {
+      "run_number": 81,
+      "timestamp": "2026-06-29T03:25:00+00:00",
+      "mode": "web_search_4_query_escape_hatch",
+      "probe_rule": "Rule 48 REPRESENTATION-ENGINEERING-PROBE",
+      "queries_used": 4,
+      "candidates_surfaced": 23,
+      "candidates_picked": 3
     }
   ],
   "runs": [
@@ -8672,12 +8732,26 @@
       "notes": "Run 80 \u2014 NEURO-SYMBOLIC-GROUNDING-PROBE per Rule 47 \u2014 FTSC theorem generation + multi-path logical reasoning benchmark + trace-to-logic programmatic skill induction",
       "timestamp": "2026-06-29T03:55:00+00:00",
       "picks_count": 3
+    },
+    {
+      "run_number": 81,
+      "timestamp": "2026-06-29T03:25:00+00:00",
+      "mode": "web_search_4_query_escape_hatch",
+      "probe_rule": "Rule 48 REPRESENTATION-ENGINEERING-PROBE",
+      "queries_used": 4,
+      "candidates_surfaced": 23,
+      "candidates_picked": 3,
+      "picks": [
+        "2606.15092",
+        "2604.09839",
+        "2603.12298"
+      ]
     }
   ],
   "last_updated": "2026-06-29T00:25:00.000000+00:00",
   "last_run_iso": "2026-06-29T00:25:00.000000+00:00",
   "total_entity_count": 189,
-  "entity_files_added": 3,
+  "entity_files_added": 6,
   "pass_type": "emergent-concept",
   "emergent_discoveries_log": [
     {
