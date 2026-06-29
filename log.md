@@ -1,3 +1,31 @@
+## 2026-06-29 13:30 UTC — Emergent-concept search Run 106 (3 fresh themes)
+
+**Mode**: emergent-concept-search via arxiv search HTML + web_search 6-query FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE escape hatch per Rule 73 (codified candidate)
+
+**Discovery context (52nd consecutive pitfall-83 — longest in wiki history by 40 runs)**:
+HF daily v2 returned 15 papers on /papers/date/2026-06-29/30 sparse content (PhysisForcing, Translation-as-Bridging-Action, Qwen-Image-2.0-RL, SingGuard, ProMSA, SimFoundry, GBC, NormGuard, Paper-Assistant, Learning-to-Fold, Boundary-Aware-EEG, Object-Centric-Residual-RL) all CV/3D/Robotics heavy. arxiv API rate-limited 429 (continues from late Run 98). web_search + arxiv search HTML escape hatch fired for functional-mechanistic-interpretability primitives via 6 axes: circuit discovery + sparse autoencoder feature + circuit function + path patching + attention head role + mechanistic interpretability function.
+
+**Rule 73 codification**: FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE — pick axes that explicitly probe *functional-mechanistic-interpretability primitives for LLM* (concept-annotation as SAE-evaluation substrate, synCUB/synCOCO paired-image benchmarks, Fully-Binary Matching Pursuit (FBMP) many-to-one concept matching, Targeted Attribute Perturbation Alignment Score (TAPAScore) functional validation, cross-seed SAE-feature-stability, L1/L2 weight-regularization-as-stability-mechanism, paired stability-and-steerability evaluation criteria, regularization-aligns-textual-explanations-with-functional-controllability, activation-patching profiles as graphs over model components, three graph-construction methods (direct-influence via causal mediation + partial-correlation + co-influence), edge-slot locality as discriminative-feature primitive, GPT-2-Small-IOI validation substrate, screened-paired-patching validation, rigorous prompt-only and raw-patch-effect control baselines).
+
+**3 picks (date-DESC ordered by online_date)**:
+1. **Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations** (2606.24716, 06-23) — first paper in the wiki to formalize **human-grounded intervention-style SAE evaluation via concept-annotation + synCUB/synCOCO paired-image benchmarks + FBMP many-to-one concept-matching + TAPAScore functional validation** — replacing proxy metrics/qualitative inspection with explicit semantic-correspondence measurement validated by targeted attribute perturbations.
+2. **Stable and Steerable Sparse Autoencoders with Weight Regularization** (2603.04198, 06-16 online / 03-04 sub) — first paper in the wiki to address **cross-seed SAE-feature-stability via L1/L2 weight-regularization with paired stability-and-steerability evaluation criteria + auto-interpretability-as-steering-success-predictor finding** — L2 weight regularization + tied initialization + unit-norm decoder constraints dramatically increases cross-seed feature consistency; a small L2 weight penalty on TopK SAEs roughly doubles steering success rates.
+3. **Patch-Effect Graph Kernels for LLM Interpretability** (2605.06480, 05-07) — first paper in the wiki to formalize **patch-effect graph kernels as mechanistic-interpretability circuit-comparison substrate with three graph-construction methods (CI/PC/co-influence) and screened-paired-patching validation on GPT-2 Small IOI** — reframing activation-patching profiles as graphs over model components and comparing them via graph kernels that scale across diverse prompts/task families where raw patch-effect tensors are high-dimensional and unstructured.
+
+**Verification**:
+- 3 entity files exist on disk (evaluating-the-interpretability-of-sparse-autoencoders-with-concept-annotations-2606.24716, stable-and-steerable-sparse-autoencoders-with-weight-regularization-2603.04198, patch-effect-graph-kernels-for-llm-interpretability-2605.06480)
+- 13 wikilinks across 3 entity files (4+4+5), all resolve to existing entities on disk
+- 3 wikilinks in parent Run 106 block (3 new picks), all resolve
+- entities_count=324 reconciled to filesystem truth (321 + 3 new)
+- 3-store lockstep: 312 hashes in all 3 locations, set equality confirmed
+- state-file JSON formatting preserved (pitfall-98): indent=2, no separators override
+- state-file ensure_ascii=True preserved (pitfall-71)
+- pre-write + post-write audit verified (0 broken wikilinks - pitfall-21/31/96/107)
+- commit de4a4fe → push to origin/main succeeded
+- Run 106 forward-discipline: Rule 74 candidate is TRAINING-DATA-INTERVENTION-PROBE — primitives probing interventions on training data as the load-bearing primitive (counterfactual data augmentation, data attribution/influence functions, training-data attribution for specific behaviors) OR MODEL-IDENTITY-PROBE — primitives probing the structural identity of LLMs (fingerprinting, watermarking as identity, similarity metrics, capability equivalence classes).
+
+**Run 106 cycle counts**: ~28 tool calls; 8-file commit (3 new entity + 1 parent + 2 state + 1 model-releases-sister-cron + 1 lessons doc); pushed to origin/main (`da80b20` confirmed).
+
 ## 2026-06-29 13:30 UTC — Emergent-concept search Run 102 (3 fresh themes)
 
 **Mode**: emergent-concept-search via arxiv search HTML 6-query INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE escape hatch per Rule 69 (codified)
