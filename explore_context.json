@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T17:00:00+00:00",
   "__last_updated": "2026-06-29T17:30:00+00:00",
-  "last_run": 123,
-  "last_explore": "2026-06-29T18:00:00+00:00",
+  "last_run": 124,
+  "last_explore": "2026-06-29T18:30:00+00:00",
   "last_global_explore": "2026-06-29T12:30:00Z",
-  "last_discovery": "2026-06-29T18:00:00+00:00",
-  "last_run_framing": "KNOWLEDGE-EDITING-FAILURE-MODE: UNIFICATION + SEMANTIC-ENTANGLEMENT + ANTI-REVERSAL",
-  "last_framing": "KNOWLEDGE-EDITING-FAILURE-MODE: UNIFICATION + SEMANTIC-ENTANGLEMENT + ANTI-REVERSAL",
-  "last_run_notes": "Run 123: 3-axis KNOWLEDGE-EDITING-FAILURE-MODE: KnowledgeSmith unified evaluation framework + ORE semantic disentanglement + RepSelect anti-reversal unlearning",
+  "last_discovery": "2026-06-29T18:30:00+00:00",
+  "last_run_framing": "MULTIAGENT-MEMORY-INTERFERENCE: MEMORY-LAUNDERING + CROSS-SESSION-STORED-INJECTION + SLEEPER-MEMORY-POISONING",
+  "last_framing": "MULTIAGENT-MEMORY-INTERFERENCE: MEMORY-LAUNDERING + CROSS-SESSION-STORED-INJECTION + SLEEPER-MEMORY-POISONING",
+  "last_run_notes": "Run 124: 3-axis MULTIAGENT-MEMORY-INTERFERENCE: State Contamination memory-laundering + Cross-Session Stored Prompt Injection + Sleeper Memory Poisoning",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search 4-query TEST-TIME-COMPUTE + PROCESS-REWARD + PRM-SUPERVISION probe",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "information-geometric",
-  "emergent_theme": "cognitive-load-at-inference-time",
+  "emergent_concept_theme": "agent-memory / security",
+  "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 378,
+  "entities_count": 381,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4606,6 +4606,36 @@
       "theme": "robust-llm-unlearning-representation-selectivity",
       "chain": "emergent-concepts",
       "vector": "emergent_concept_search"
+    },
+    {
+      "arxiv_id": "2605.16746",
+      "title": "State Contamination in Memory-Augmented LLM Agents",
+      "slug": "state-contamination-in-memory-augmented-llm-agents-2605.16746",
+      "url": "https://arxiv.org/abs/2605.16746",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T18:30:00+00:00",
+      "theme": "memory-laundering / sub-threshold-propagation / state-control",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.04425",
+      "title": "What If Prompt Injection Never Left? Exploring Cross-Session Stored Prompt Injection in Agentic Systems",
+      "slug": "what-if-prompt-injection-never-left-exploring-cross-session-stored-prompt-injection-in-agentic-systems-2606.04425",
+      "url": "https://arxiv.org/abs/2606.04425",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T18:30:00+00:00",
+      "theme": "cross-session-stored-prompt-injection / system-level-vulnerability / persistence-taxonomy",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.15338",
+      "title": "Hidden in Memory: Sleeper Memory Poisoning in LLM Agents",
+      "slug": "hidden-in-memory-sleeper-memory-poisoning-in-llm-agents-2605.15338",
+      "url": "https://arxiv.org/abs/2605.15338",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T18:30:00+00:00",
+      "theme": "sleeper-memory-poisoning / adversarial-memory-injection / delayed-attack",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -7528,6 +7558,30 @@
       "url": "https://arxiv.org/abs/2606.17168",
       "discovered": "2026-06-29T18:00:00+00:00",
       "theme": "robust-llm-unlearning-representation-selectivity"
+    },
+    {
+      "arxiv_id": "2605.16746",
+      "title": "State Contamination in Memory-Augmented LLM Agents",
+      "slug": "state-contamination-in-memory-augmented-llm-agents-2605.16746",
+      "url": "https://arxiv.org/abs/2605.16746",
+      "discovered": "2026-06-29T18:30:00+00:00",
+      "theme": "memory-laundering / sub-threshold-propagation / state-control"
+    },
+    {
+      "arxiv_id": "2606.04425",
+      "title": "What If Prompt Injection Never Left? Exploring Cross-Session Stored Prompt Injection in Agentic Systems",
+      "slug": "what-if-prompt-injection-never-left-exploring-cross-session-stored-prompt-injection-in-agentic-systems-2606.04425",
+      "url": "https://arxiv.org/abs/2606.04425",
+      "discovered": "2026-06-29T18:30:00+00:00",
+      "theme": "cross-session-stored-prompt-injection / system-level-vulnerability / persistence-taxonomy"
+    },
+    {
+      "arxiv_id": "2605.15338",
+      "title": "Hidden in Memory: Sleeper Memory Poisoning in LLM Agents",
+      "slug": "hidden-in-memory-sleeper-memory-poisoning-in-llm-agents-2605.15338",
+      "url": "https://arxiv.org/abs/2605.15338",
+      "discovered": "2026-06-29T18:30:00+00:00",
+      "theme": "sleeper-memory-poisoning / adversarial-memory-injection / delayed-attack"
     }
   ],
   "emergent_concept_search_log": [
@@ -8843,6 +8897,15 @@
       "discovered": "2026-06-29T17:00:00+00:00",
       "theme": "physical reasoning / world models / beyond-language representation",
       "run": 121
+    },
+    {
+      "run": 124,
+      "timestamp": "2026-06-29T18:30:00+00:00",
+      "query_type": "MULTIAGENT-MEMORY-INTERFERENCE-PROBE",
+      "candidates_found": 11,
+      "fresh_after_dedup": 10,
+      "papers_added": 3,
+      "method": "web_search 4-query via Rule 81 MULTIAGENT-MEMORY-INTERFERENCE-PROBE"
     }
   ],
   "emergent_concept_search_runs": [
@@ -11980,6 +12043,15 @@
         "2606.17168"
       ],
       "framing": "KNOWLEDGE-EDITING-FAILURE-MODE: UNIFICATION + SEMANTIC-ENTANGLEMENT + ANTI-REVERSAL"
+    },
+    {
+      "run": 124,
+      "timestamp": "2026-06-29T18:30:00+00:00",
+      "theme": "MULTIAGENT-MEMORY-INTERFERENCE",
+      "framing": "MULTIAGENT-MEMORY-INTERFERENCE: MEMORY-LAUNDERING + CROSS-SESSION-STORED-INJECTION + SLEEPER-MEMORY-POISONING",
+      "papers_added": 3,
+      "vector": "emergent_concept_search",
+      "method": "web_search 4-query MULTIAGENT-MEMORY-INTERFERENCE-PROBE (Rule 81)"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
