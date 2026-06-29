@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-06-29T19:06:28.349779+00:00",
-  "last_run": 133,
-  "last_explore": "2026-06-29T23:30:00+00:00",
-  "last_global_explore": "2026-06-29T23:30:00+00:00",
-  "last_discovery": "2026-06-29T23:30:00+00:00",
-  "last_run_framing": "DEPLOYMENT-FAILURE-TAXONOMY-PROBE \u2014 Rule 89",
-  "last_framing": "DEPLOYMENT-FAILURE-TAXONOMY-PROBE (Rule 89): FALSE SUCCESS + RECOVER CHECKPOINT RESILIENCE + EVIDENCE-GROUNDING DEFECTS",
-  "last_run_notes": "Run 133: Rule 89 DEPLOYMENT-FAILURE-TAXONOMY-PROBE: False Success + ReCoVer + Evidence-Grounding Defects",
+  "__last_updated": "2026-06-29T23:55:00+00:00",
+  "last_run": 134,
+  "last_explore": "2026-06-29T23:55:00+00:00",
+  "last_global_explore": "2026-06-29T23:55:00+00:00",
+  "last_discovery": "2026-06-29T23:55:00+00:00",
+  "last_run_framing": "AGENTIC-PLANNING-COLLAPSE-PROBE \u2014 Rule 90",
+  "last_framing": "AGENTIC-PLANNING-COLLAPSE-PROBE (Rule 90): CONTEXT-DRIFT + ERROR-ATTRIBUTION + TYPED-TOOL-CONSTRAINT",
+  "last_run_notes": "Run 134: Rule 90 AGENTIC-PLANNING-COLLAPSE-PROBE: Context Drift + REFLECT Error Attribution + DisasterBench",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 408,
+  "entities_count": 411,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4996,6 +4996,30 @@
       "theme": "LLM agent observability / evidence-grounding defect / overtrust environmental signals / scaffolding reliability",
       "subject": "Artificial Intelligence (cs.AI)",
       "date": "2026/05/09"
+    },
+    {
+      "arxiv_id": "2606.21666",
+      "slug": "hallucination-as-context-drift-synchronization-protocols-for-multi-agent-llm-systems-2606.21666",
+      "title": "Hallucination as Context Drift: Synchronization Protocols for Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2606.21666",
+      "discovered": "2026-06-29T23:55:00+00:00",
+      "theme": "agentic-planning-collapse / context-drift / multi-agent-hallucination"
+    },
+    {
+      "arxiv_id": "2606.09071",
+      "slug": "reflect-intervention-supported-error-attribution-for-silent-failures-in-llm-agent-traces-2606.09071",
+      "title": "REFLECT: Intervention-Supported Error Attribution for Silent Failures in LLM Agent Traces",
+      "url": "https://arxiv.org/abs/2606.09071",
+      "discovered": "2026-06-29T23:55:00+00:00",
+      "theme": "agentic-planning-collapse / error-attribution / silent-failure"
+    },
+    {
+      "arxiv_id": "2605.27957",
+      "slug": "disasterbench-benchmarking-llm-planning-under-typed-tool-interface-constraints-2605.27957",
+      "title": "DisasterBench: Benchmarking LLM Planning under Typed Tool Interface Constraints",
+      "url": "https://arxiv.org/abs/2605.27957",
+      "discovered": "2026-06-29T23:55:00+00:00",
+      "theme": "agentic-planning-collapse / typed-tool-constraint / benchmark"
     }
   ],
   "emergent_discoveries": [
@@ -8158,6 +8182,30 @@
       "url": "https://arxiv.org/abs/2603.16068",
       "discovered": "2026-06-29T22:30:00+00:00",
       "theme": "LLM infrastructure security / resource exhaustion as safety failure / token budget depletion"
+    },
+    {
+      "arxiv_id": "2606.21666",
+      "title": "Hallucination as Context Drift: Synchronization Protocols for Multi-Agent LLM Systems",
+      "slug": "hallucination-as-context-drift-synchronization-protocols-for-multi-agent-llm-systems-2606.21666",
+      "url": "https://arxiv.org/abs/2606.21666",
+      "discovered": "2026-06-29T23:55:00+00:00",
+      "theme": "agentic-planning-collapse / context-drift / multi-agent-hallucination"
+    },
+    {
+      "arxiv_id": "2606.09071",
+      "title": "REFLECT: Intervention-Supported Error Attribution for Silent Failures in LLM Agent Traces",
+      "slug": "reflect-intervention-supported-error-attribution-for-silent-failures-in-llm-agent-traces-2606.09071",
+      "url": "https://arxiv.org/abs/2606.09071",
+      "discovered": "2026-06-29T23:55:00+00:00",
+      "theme": "agentic-planning-collapse / error-attribution / silent-failure"
+    },
+    {
+      "arxiv_id": "2605.27957",
+      "title": "DisasterBench: Benchmarking LLM Planning under Typed Tool Interface Constraints",
+      "slug": "disasterbench-benchmarking-llm-planning-under-typed-tool-interface-constraints-2605.27957",
+      "url": "https://arxiv.org/abs/2605.27957",
+      "discovered": "2026-06-29T23:55:00+00:00",
+      "theme": "agentic-planning-collapse / typed-tool-constraint / benchmark"
     }
   ],
   "emergent_concept_search_log": [
@@ -12909,6 +12957,18 @@
       ],
       "framing": "DEPLOYMENT-FAILURE-TAXONOMY-PROBE \u2014 Rule 89",
       "notes": "Rule 89: cold-start latency, versioning, checkpoint corruption, observability gaps. Picks: false-success (2606.09863), ReCoVer (2605.11215), overtrust evidence (2605.08828)"
+    },
+    {
+      "run_number": 134,
+      "run_type": "emergent-concept",
+      "theme": "AGENTIC-PLANNING-COLLAPSE-PROBE (Rule 90)",
+      "date": "2026-06-29",
+      "papers_added": [
+        "2606.21666",
+        "2606.09071",
+        "2605.27957"
+      ],
+      "notes": "Rule 90: context-drift + error-attribution + typed-tool-constraint"
     }
   ],
   "last_updated": "2026-06-29T19:06:28.349779+00:00",

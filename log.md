@@ -2002,3 +2002,12 @@ Commit: `43762e4` → push succeeded.
 - 3-store lockstep confirmed (384 hashes in all 3 stores)
 - watch_profiles.json updated (3 new IDs added)
 - explore_context.json updated (379→382 emergent_discoveries, 126→127 runs)
+- Run 134 — 2026-06-29T23:55 UTC — AGENTIC-PLANNING-COLLAPSE-PROBE (Rule 90)
+- 3 new entity pages: Hallucination as Context Drift (2606.21666) + REFLECT Error Attribution (2606.09071) + DisasterBench Planning Benchmark (2605.27957)
+- arxiv HTML search: 141 IDs from 4 queries, 126 fresh after 5-store dedup
+- Rule 90 codified: context-drift + error-attribution + typed-tool-constraint as AGENTIC-PLANNING-COLLAPSE axes
+- All wikilinks verified (10 total across 3 files, all resolve)
+- entities_count=411 reconciled to filesystem truth (408 + 3 new)
+- 3-store lockstep confirmed (396 hashes in all 3 stores)
+- explore_context.json updated (388→391 emergent_discoveries, 130→131 runs)
+- watch_profiles.json updated (3 new hashes added)
