@@ -949,7 +949,10 @@
         "2605.18993",
         "2606.28182",
         "2606.19911",
-        "2602.00911"
+        "2602.00911",
+        "2604.14655",
+        "2605.07244",
+        "2602.04837"
       ],
       "last_results": [
         {
@@ -3276,6 +3279,42 @@
           "slug": "synapse-federated-tool-routing-via-typed-compendium-artifacts-2602.00911",
           "online_date": "2026-06-04",
           "run_number": 92
+        },
+        {
+          "arxiv_id": "2604.14655",
+          "title": "AgentGA: Evolving Code Solutions in Agent-Seed Space via Inherited Parent Archives",
+          "hash": "24c956f12ddb0dde2d87ab3f8e7fb4ef",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "cross-agent-teaching / agent-seed-inheritance / parent-archive-teaching primitive",
+          "discovered": "2026-06-29T09:50:00+00:00",
+          "slug": "agentga-evolving-code-solutions-in-agent-seed-space-via-inherited-parent-archives-2604.14655",
+          "online_date": "2026-05-11",
+          "run_number": "93"
+        },
+        {
+          "arxiv_id": "2605.07244",
+          "title": "Mutual Reinforcement Learning: Experience Sharing Across Heterogeneous LLM Policies",
+          "hash": "e51fcc0d4dea218e2d3350e4e326ace8",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "cross-agent-teaching / peer-teaching-via-typed-outcome-certificates / heterogeneous-LLM-population primitive",
+          "discovered": "2026-06-29T09:50:00+00:00",
+          "slug": "mutual-reinforcement-learning-experience-sharing-across-heterogeneous-llm-policies-2605.07244",
+          "online_date": "2026-05-08",
+          "run_number": "93"
+        },
+        {
+          "arxiv_id": "2602.04837",
+          "title": "Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing",
+          "hash": "a7f4a581f7dae6232e7a36bc83ae9fa4",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "cross-agent-teaching / group-evolutionary-unit / cross-branch-experience-sharing primitive",
+          "discovered": "2026-06-29T09:50:00+00:00",
+          "slug": "group-evolving-agents-open-ended-self-improvement-via-experience-sharing-2602.04837",
+          "online_date": "2026-02-04",
+          "run_number": "93"
         }
       ],
       "last_run": {
@@ -3569,7 +3608,10 @@
     "2605.18993",
     "2606.28182",
     "2606.19911",
-    "2602.00911"
+    "2602.00911",
+    "2604.14655",
+    "2605.07244",
+    "2602.04837"
   ],
   "last_discovery": "2026-06-29T05:47:05+00:00",
   "last_updated": "2026-06-29T05:47:05+00:00",
@@ -3846,7 +3888,10 @@
       "2605.18993",
       "2606.28182",
       "2606.19911",
-      "2602.00911"
+      "2602.00911",
+      "2604.14655",
+      "2605.07244",
+      "2602.04837"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T05:30:00+00:00",
