@@ -19,7 +19,7 @@
   "emergent_concept_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
   "emergent_theme": "emerging-pretraining-objective-probe-rule44-post-ntp",
   "chains_updated": 0,
-  "entities_count": 237,
+  "entities_count": 240,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3523,7 +3523,10 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-29T03:00:00+00:00",
       "theme": "safety-alignment / alignment-tax / continual-learning / orthogonal-gradient-projection / catastrophic-forgetting"
-    }
+    },
+    "2606.02646",
+    "2605.19193",
+    "2605.03310"
   ],
   "emergent_discoveries": [
     {
@@ -5350,6 +5353,30 @@
       "url": "https://arxiv.org/abs/2601.11791",
       "discovered": "2026-06-29T03:30:00.000000+00:00",
       "theme": "emerging-pretraining-objective-probe-rule44"
+    },
+    {
+      "arxiv_id": "2606.02646",
+      "title": "The Ringelmann Effect in Multi-Agent LLM Systems: A Scaling Law for Effective Team Size",
+      "slug": "the-ringelmann-effect-in-multi-agent-llm-systems-a-scaling-law-for-effective-team-size-2606.02646",
+      "url": "https://arxiv.org/abs/2606.02646",
+      "discovered": "2026-06-29T01:39:20+00:00",
+      "theme": "multi-agent-consensus-probe-rule45-effective-team-size-scaling-law"
+    },
+    {
+      "arxiv_id": "2605.19193",
+      "title": "Sequential Consensus for Multi-Agent LLM Debates: A Wald-SPRT compute governor with calibration-based failure detection",
+      "slug": "sequential-consensus-for-multi-agent-llm-debates-a-wald-sprt-compute-governor-with-calibration-based-failure-detection-2605.19193",
+      "url": "https://arxiv.org/abs/2605.19193",
+      "discovered": "2026-06-29T01:39:20+00:00",
+      "theme": "multi-agent-consensus-probe-rule45-wald-sprt-compute-governor"
+    },
+    {
+      "arxiv_id": "2605.03310",
+      "title": "Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems",
+      "slug": "coordination-as-an-architectural-layer-for-llm-based-multi-agent-systems-2605.03310",
+      "url": "https://arxiv.org/abs/2605.03310",
+      "discovered": "2026-06-29T01:39:20+00:00",
+      "theme": "multi-agent-consensus-probe-rule45-coordination-architectural-layer"
     }
   ],
   "emergent_concept_search_log": [
@@ -6475,6 +6502,24 @@
       "candidates_surfaced": 19,
       "candidates_after_dedup": 3,
       "picks_added": 3
+    },
+    {
+      "arxiv_id": "2606.02646",
+      "title": "The Ringelmann Effect in Multi-Agent LLM Systems: A Scaling Law for Effective Team Size",
+      "theme": "multi-agent-consensus-probe-rule45-effective-team-size-scaling-law",
+      "discovered": "2026-06-29T01:39:20+00:00"
+    },
+    {
+      "arxiv_id": "2605.19193",
+      "title": "Sequential Consensus for Multi-Agent LLM Debates: A Wald-SPRT compute governor with calibration-based failure detection",
+      "theme": "multi-agent-consensus-probe-rule45-wald-sprt-compute-governor",
+      "discovered": "2026-06-29T01:39:20+00:00"
+    },
+    {
+      "arxiv_id": "2605.03310",
+      "title": "Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems",
+      "theme": "multi-agent-consensus-probe-rule45-coordination-architectural-layer",
+      "discovered": "2026-06-29T01:39:20+00:00"
     }
   ],
   "emergent_concept_search_runs": [
@@ -8457,6 +8502,23 @@
         "2601.11791"
       ],
       "streak_count": 23
+    },
+    {
+      "run_number": 78,
+      "timestamp": "2026-06-29T01:39:20+00:00",
+      "mode": "emergent-concept-search-web_search-multi-agent-consensus-probe-rule45",
+      "theme": "multi-agent-consensus-probe-rule45",
+      "picks": [
+        "2606.02646",
+        "2605.19193",
+        "2605.03310"
+      ],
+      "pitfall-83-streak": 24,
+      "forward-discipline-rule": "45",
+      "hf_pool_status": "CV/3D-heavy 24th consecutive run, 1 fresh LLM-keyword-matched (CoffeeBench)",
+      "web_search_template": "multi-agent-consensus-probe: debate-protocol + scaling-law + coordination-architecture + sycophancy-mitigation",
+      "fresh_llm_returned": 5,
+      "note": "Rule 45 multi-agent-consensus-probe WORKED, fresh-LLM return at typical base rate with full orthogonality to Run 77 emerging-pretraining-objective picks"
     }
   ],
   "last_updated": "2026-06-29T00:25:00.000000+00:00",
