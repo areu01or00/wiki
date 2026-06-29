@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-07-01T03:00:00+00:00",
-  "last_run": 144,
+  "__last_updated": "2026-07-01T04:00:00+00:00",
+  "last_run": 145,
   "last_explore": "2026-07-01T02:00:00+00:00",
   "last_global_explore": "2026-07-01T02:00:00+00:00",
   "last_discovery": "2026-07-01T03:00:00+00:00",
-  "last_run_framing": "THEORY-OF-MIND + SOCIAL-REASONING + MODULAR-ARCH PROBE",
-  "last_framing": "THEORY-OF-MIND + SOCIAL-REASONING PROBE: MINDGAMES + SocialMemBench + OSCToM",
-  "last_run_notes": "Run 144: THEORY-OF-MIND + SOCIAL-REASONING + MODULAR-ARCH PROBE: MINDGAMES + SocialMemBench + OSCToM",
+  "last_run_framing": "PROBE-TRANSFER + AGENT-INTERACTION + MULTIAGENT-ALIGNMENT DISCOVERY",
+  "last_framing": "PROBE-TRANSFER + AGENT-INTERACTION + MULTIAGENT-ALIGNMENT: From Signals to Transfer + DiscoBench + Democratic ICAI",
+  "last_run_notes": "Run 145: PROBE-TRANSFER + AGENT-INTERACTION + MULTIAGENT-ALIGNMENT DISCOVERY: From Signals to Transfer + DiscoBench + Democratic ICAI",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search LLM-INFERENCE-EFFICIENCY-PROBE",
+  "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 442,
+  "entities_count": 445,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5254,6 +5254,36 @@
       "url": "https://arxiv.org/abs/2606.23664",
       "discovered": "2026-07-01T02:00:00+00:00",
       "theme": "multi-agent / benchmarking / prompt optimization"
+    },
+    {
+      "arxiv_id": "2606.27679",
+      "title": "From Signals to Transfer: A Factorised Study of Probe-Based Uncertainty Estimation in Large Language Models",
+      "slug": "from-signals-to-transfer-probe-based-uncertainty-estimation-llm-2606.27679",
+      "url": "https://arxiv.org/abs/2606.27679",
+      "discovered": "2026-07-01T04:00:00+00:00",
+      "theme": "emergent-concept",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27669",
+      "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
+      "slug": "discobench-clarification-aware-deep-search-llm-search-agents-2606.27669",
+      "url": "https://arxiv.org/abs/2606.27669",
+      "discovered": "2026-07-01T04:00:00+00:00",
+      "theme": "emergent-concept",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.28294",
+      "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
+      "slug": "democratic-icai-debate-steering-principles-preferences-2606.28294",
+      "url": "https://arxiv.org/abs/2606.28294",
+      "discovered": "2026-07-01T04:00:00+00:00",
+      "theme": "emergent-concept",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -8656,6 +8686,30 @@
       "url": "https://arxiv.org/abs/2605.20423",
       "discovered": "2026-07-01T03:00:00+00:00",
       "theme": "theory-of-mind / social-reasoning / adversarial ToM generation"
+    },
+    {
+      "arxiv_id": "2606.27679",
+      "title": "From Signals to Transfer: A Factorised Study of Probe-Based Uncertainty Estimation in Large Language Models",
+      "slug": "from-signals-to-transfer-probe-based-uncertainty-estimation-llm-2606.27679",
+      "url": "https://arxiv.org/abs/2606.27679",
+      "discovered": "2026-07-01T04:00:00+00:00",
+      "theme": "emergent-concept"
+    },
+    {
+      "arxiv_id": "2606.27669",
+      "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
+      "slug": "discobench-clarification-aware-deep-search-llm-search-agents-2606.27669",
+      "url": "https://arxiv.org/abs/2606.27669",
+      "discovered": "2026-07-01T04:00:00+00:00",
+      "theme": "emergent-concept"
+    },
+    {
+      "arxiv_id": "2606.28294",
+      "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
+      "slug": "democratic-icai-debate-steering-principles-preferences-2606.28294",
+      "url": "https://arxiv.org/abs/2606.28294",
+      "discovered": "2026-07-01T04:00:00+00:00",
+      "theme": "emergent-concept"
     }
   ],
   "emergent_concept_search_log": [
@@ -13597,6 +13651,13 @@
       "run": 144,
       "theme": "THEORY-OF-MIND + SOCIAL-REASONING + MODULAR-ARCH PROBE",
       "date": "2026-07-01T03:00:00+00:00"
+    },
+    {
+      "run": 145,
+      "timestamp": "2026-07-01T04:00:00+00:00",
+      "papers_added": 3,
+      "theme": "PROBE-TRANSFER + AGENT-INTERACTION + MULTIAGENT-ALIGNMENT DISCOVERY",
+      "method": "arxiv HTML search"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
