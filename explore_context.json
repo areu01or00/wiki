@@ -4360,7 +4360,10 @@
       "submission_date": "2026-01-11",
       "run_number": 108,
       "theme": "information-geometric"
-    }
+    },
+    "2604.15702",
+    "2604.07165",
+    "2606.19527"
   ],
   "emergent_discoveries": [
     {
@@ -6946,6 +6949,30 @@
       "url": "https://arxiv.org/abs/2601.06851",
       "discovered": "2026-06-29T11:59:17Z",
       "theme": "information-geometric"
+    },
+    {
+      "arxiv_id": "2604.15702",
+      "title": "The Metacognitive Monitoring Battery: A Cross-Domain Benchmark for LLM Self-Monitoring",
+      "slug": "the-metacognitive-monitoring-battery-a-cross-domain-benchmark-for-llm-self-monitoring-2604.15702",
+      "url": "https://arxiv.org/abs/2604.15702",
+      "discovered": "2026-06-29",
+      "theme": "metacognition/self-monitoring/self-correction"
+    },
+    {
+      "arxiv_id": "2604.07165",
+      "title": "Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization",
+      "slug": "reason-in-chains-learn-in-trees-self-rectification-and-grafting-for-multi-turn-agent-policy-optimization-2604.07165",
+      "url": "https://arxiv.org/abs/2604.07165",
+      "discovered": "2026-06-29",
+      "theme": "metacognition/self-monitoring/self-correction"
+    },
+    {
+      "arxiv_id": "2606.19527",
+      "title": "Emergent Alignment",
+      "slug": "emergent-alignment-2606.19527",
+      "url": "https://arxiv.org/abs/2606.19527",
+      "discovered": "2026-06-29",
+      "theme": "metacognition/self-monitoring/self-correction"
     }
   ],
   "emergent_concept_search_log": [
@@ -8224,6 +8251,16 @@
         "2605.30052",
         "2603.27299"
       ]
+    },
+    {
+      "date": "2026-06-29",
+      "query_theme": "metacognition/self-monitoring/self-correction/reasoning",
+      "papers_found": [
+        "2604.15702",
+        "2604.07165",
+        "2606.19527"
+      ],
+      "source": "arxiv_search_html"
     }
   ],
   "emergent_concept_search_runs": [
@@ -11086,6 +11123,16 @@
       "hf_daily_returned": 0,
       "web_search_queries_fired": 4,
       "notes": "Rule 75 INFORMATION-GEOMETRIC-PRIMITIVE-PROBE codified candidate. Pitfall-83 streak at 54 consecutive runs (longest in wiki history by 42 runs). HF daily v2 returned 0 papers; web_search 4-query fired."
+    },
+    {
+      "run_number": 109,
+      "date": "2026-06-29",
+      "papers_found": [
+        "2604.15702",
+        "2604.07165",
+        "2606.19527"
+      ],
+      "notes": "Metacognitive Self-Monitoring + Tree-Structured Self-Rectification + Emergent Alignment conscience-step discovery; 8-query arxiv HTML probe on 2026-06-29; all 3 confirmed fresh via 5-store dedup"
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
