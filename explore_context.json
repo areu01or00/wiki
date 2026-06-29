@@ -8,7 +8,7 @@
   "last_explore": "2026-06-29T10:30:00+00:00",
   "last_global_explore": "2026-06-29T10:30:00+00:00",
   "last_discovery": "2026-06-29T10:30:00+00:00",
-  "last_run_framing": "emergent-capabilities / Rule 64 EMERGENT-CAPABILITIES-PROBE / numerical-precision + grokking-early-warning + RL-resistance model-organisms",
+  "last_run_framing": "Run 98 \u2014 NEGATIVE-RESULT-AS-PRIMITIVE-PROBE per Rule 65 \u2014 corpus-statistics-as-rule-fate-determinant + low-rank-subspace-as-control-points + agent-tool-deference-as-capability-amplifier",
   "last_framing": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE \u2014 pick axes that probe tokenizer-level primitives (training-pipeline simplification of Unigram vs BPE trade-offs, byte-level/tokenization-free hierarchical architecture, multilingual token-fertility cost measurement, script-fertility gradient analysis, byte-compression control in tokenization-free models, token-list vs token-graph representation, compression-vs-morphology trade-off resolution)",
   "last_run_notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet).",
   "last_pass_type": "emergent-concept search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "tokenizer-level",
   "emergent_theme": "tokenizer-level",
   "chains_updated": 0,
-  "entities_count": 297,
+  "entities_count": 300,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4057,6 +4057,24 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-29T07:15:37.154786+00:00",
       "theme": "emergent-capabilities / grokking / loss-landscape / mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2606.26050",
+      "title": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+      "theme": "negative-result-as-primitive",
+      "discovered": "2026-06-29T11:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.14476",
+      "title": "When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More",
+      "theme": "negative-result-as-primitive",
+      "discovered": "2026-06-29T11:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.14388",
+      "title": "A Low-Rank Subspace Analysis of LLM Interventions",
+      "theme": "negative-result-as-primitive",
+      "discovered": "2026-06-29T11:30:00+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -6367,6 +6385,36 @@
       "url": "https://arxiv.org/abs/2602.16967",
       "discovered": "2026-06-29T07:15:37.154786+00:00",
       "theme": "emergent-capabilities / grokking / loss-landscape / mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2606.26050",
+      "title": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+      "slug": "natural-ungrokking-asymmetric-control-of-which-rules-survive-pretraining-2606.26050",
+      "url": "https://arxiv.org/abs/2606.26050",
+      "discovered": "2026-06-29T11:30:00+00:00",
+      "theme": "negative-result-as-primitive",
+      "online_date": "2026-06-24",
+      "run_number": 98
+    },
+    {
+      "arxiv_id": "2606.14476",
+      "title": "When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More",
+      "slug": "when-the-tool-decides-llm-agents-defer-blindly-to-graph-neural-network-tools-and-stronger-backbones-defer-more-2606.14476",
+      "url": "https://arxiv.org/abs/2606.14476",
+      "discovered": "2026-06-29T11:30:00+00:00",
+      "theme": "negative-result-as-primitive",
+      "online_date": "2026-06-12",
+      "run_number": 98
+    },
+    {
+      "arxiv_id": "2606.14388",
+      "title": "A Low-Rank Subspace Analysis of LLM Interventions",
+      "slug": "a-low-rank-subspace-analysis-of-llm-interventions-2606.14388",
+      "url": "https://arxiv.org/abs/2606.14388",
+      "discovered": "2026-06-29T11:30:00+00:00",
+      "theme": "negative-result-as-primitive",
+      "online_date": "2026-06-12",
+      "run_number": 98
     }
   ],
   "emergent_concept_search_log": [
@@ -8735,6 +8783,42 @@
       "method": "arxiv_api_tokenizer_level_primitive_probe",
       "picks_added": 3,
       "notes": "Rule 62 TOKENIZER-LEVEL-PRIMITIVE-PROBE verified (40th consecutive pitfall-83 \u2014 longest in wiki history by 27 runs); 3 picks structurally orthogonal to Run 94 environmental-evolution primitives \u2014 picks cover 3 distinct sub-axes of tokenizer-level primitive-class: (a) minimalist-Unigram-with-BPE-seed-and-Hard-EM resolving the compression-vs-morphology trade-off, (b) African-language token-fertility-premium quantification with deployment-economics translation, (c) curriculum-driven adaptive byte-compression control in tokenization-free hierarchical architecture. Pivoted from Run 94 environment-discovery-from-real-world-MCP-tools + programmatic-tool-interaction-environment-synthesis-via-skeleton-scenario-validators + difficulty-aligned-co-evolutionary-game-between-agent-and-environment-simulator (environmental-evolution primitive-class triplet) to minimalist-Unigram-with-BPE-seed-and-Hard-EM + tokenization-fairness-digital-divide-across-20-African-languages + tokenization-free-hierarchical-byte-level-model-with-curriculum-compression (tokenizer-level primitive-class triplet)."
+    },
+    {
+      "run_number": 98,
+      "theme": "negative-result-as-primitive",
+      "rule_codified": 65,
+      "timestamp": "2026-06-29T11:30:00+00:00",
+      "description": "Run 98 introduces NEGATIVE-RESULT-AS-PRIMITIVE-PROBE \u2014 pre-registered controlled negative results as architectural primitives, pivoting from Run 97 emergent-capabilities-probe",
+      "query_axes": [
+        "pre-registered controlled study null result on intervention/scaffolding",
+        "cross-model-activation-transfer causal-injection negative-result",
+        "agent-judgment-deference-as-capability-amplifier",
+        "corpus-statistics-as-rule-fate-decider + asymmetric-recovery-control"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2606.26050",
+          "title": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+          "slug": "natural-ungrokking-asymmetric-control-of-which-rules-survive-pretraining-2606.26050",
+          "online_date": "2026-06-24",
+          "primitive": "corpus-statistics-as-rule-fate-determinant + asymmetric-recovery-control + displacement-as-forgetting-mechanism"
+        },
+        {
+          "arxiv_id": "2606.14476",
+          "title": "When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More",
+          "slug": "when-the-tool-decides-llm-agents-defer-blindly-to-graph-neural-network-tools-and-stronger-backbones-defer-more-2606.14476",
+          "online_date": "2026-06-12",
+          "primitive": "agent-judgment-collapse + capability-deference-not-reasoning + tool-pinning-as-bypass"
+        },
+        {
+          "arxiv_id": "2606.14388",
+          "title": "A Low-Rank Subspace Analysis of LLM Interventions",
+          "slug": "a-low-rank-subspace-analysis-of-llm-interventions-2606.14388",
+          "online_date": "2026-06-12",
+          "primitive": "low-rank-behavior-subspace-interaction + asymmetric-control-points + intervention-side-effect-as-architectural-property"
+        }
+      ]
     }
   ],
   "runs": [
@@ -10129,6 +10213,12 @@
           "slug": "early-warning-signals-of-grokking-via-loss-landscape-geometry-2602.16967"
         }
       ]
+    },
+    {
+      "run_number": 98,
+      "theme": "negative-result-as-primitive",
+      "timestamp": "2026-06-29T11:30:00+00:00",
+      "picks_count": 3
     }
   ],
   "last_updated": "2026-06-29T10:30:00+00:00",

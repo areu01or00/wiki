@@ -964,7 +964,10 @@
         "c0c6f3d9ca33fea5bf51604b91f6dcf7",
         "2605.06152",
         "2604.28182",
-        "2602.16967"
+        "2602.16967",
+        "2606.26050",
+        "2606.14476",
+        "2606.14388"
       ],
       "last_results": [
         {
@@ -3477,6 +3480,45 @@
           "slug": "early-warning-signals-of-grokking-via-loss-landscape-geometry-2602.16967",
           "online_date": "2026-04-03",
           "run_number": 97
+        },
+        {
+          "arxiv_id": "2606.26050",
+          "title": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+          "hash": "1c7cdda45952f700b43985434593b45a",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "negative-result-as-primitive",
+          "discovered": "2026-06-29T11:30:00+00:00",
+          "slug": "natural-ungrokking-asymmetric-control-of-which-rules-survive-pretraining-2606.26050",
+          "online_date": "2026-06-24",
+          "run_number": 98,
+          "source": "web_search"
+        },
+        {
+          "arxiv_id": "2606.14476",
+          "title": "When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More",
+          "hash": "29804d168659be7febc9c7d068c1330c",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "negative-result-as-primitive",
+          "discovered": "2026-06-29T11:30:00+00:00",
+          "slug": "when-the-tool-decides-llm-agents-defer-blindly-to-graph-neural-network-tools-and-stronger-backbones-defer-more-2606.14476",
+          "online_date": "2026-06-12",
+          "run_number": 98,
+          "source": "web_search"
+        },
+        {
+          "arxiv_id": "2606.14388",
+          "title": "A Low-Rank Subspace Analysis of LLM Interventions",
+          "hash": "9764b5757caa9336b2ab50761b4a8f87",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "negative-result-as-primitive",
+          "discovered": "2026-06-29T11:30:00+00:00",
+          "slug": "a-low-rank-subspace-analysis-of-llm-interventions-2606.14388",
+          "online_date": "2026-06-12",
+          "run_number": 98,
+          "source": "web_search"
         }
       ],
       "last_run": "2026-06-29T10:30:00+00:00",
@@ -3775,7 +3817,10 @@
     "c0c6f3d9ca33fea5bf51604b91f6dcf7",
     "2605.06152",
     "2604.28182",
-    "2602.16967"
+    "2602.16967",
+    "2606.26050",
+    "2606.14476",
+    "2606.14388"
   ],
   "last_discovery": "2606.24124",
   "last_updated": "2026-06-29T10:30:00+00:00",
@@ -4067,7 +4112,10 @@
       "c0c6f3d9ca33fea5bf51604b91f6dcf7",
       "2605.06152",
       "2604.28182",
-      "2602.16967"
+      "2602.16967",
+      "2606.26050",
+      "2606.14476",
+      "2606.14388"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T06:08:00+00:00",
