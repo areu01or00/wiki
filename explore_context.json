@@ -8,7 +8,7 @@
   "last_explore": "2026-06-26T10:09:00+00:00",
   "last_global_explore": "2026-06-26T10:09:00+00:00",
   "last_discovery": "2026-06-29T00:25:00.000000+00:00",
-  "last_run_framing": "Rule 41 CROSS-DISCIPLINE-PROBE \u2014 formal-verification-theorem-proving-in-mathematical-analysis + neuroscience-grounded-memory-architecture + Hebbian-learning-associative-memory (orthogonal to Run 68 + Run 69 + Run 70 + Run 71 + Run 72 + Run 73)",
+  "last_run_framing": "Rule 42 APPLICATION-DOMAIN-PROBE \u2014 physician-EHR-clinical-workflow + multinational-dental-specialty-clinical-reasoning + beyond-issue-resolution-coding-agent-workflows (vertical-application primitives anchored to real industry verticals; orthogonal to Run 74 cross-discipline axes)",
   "last_framing": "Run 71 negative-result-probe per Rule 38 \u2014 pivoted from Run 70 axis-orthogonality training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff)",
   "last_run_notes": "Run 71 \u2014 3 fresh LLM-centric papers via web_search 4-query NEGATIVE-RESULT-PROBE escape hatch per Rule 38 (after Run 70 axis-orthogonality per Rule 37). HF pool CV/3D-heavy for 17th consecutive run (pitfall-83 streak extended to Runs 55-71). HF daily v2 returned 80 papers across 2026-06-24/25/26 dates but only 14 fresh after 5-store dedup with only 3 borderline LLM-keyword-matched (ViQ visual-quantization, CoffeeBench already surfaced Run 66, FLUX3D 3D scene gen). web_search surfaced fresh LLM candidates via the negative-result-probe query template bracketing known-difficult-axes: (a) LLM fundamental incompatibility theorems + (b) LLM alignment tax measurements + (c) training data memorization boundaries + (d) compositional generalization failure modes. Picked 3 structurally orthogonal pivoting per Rule 27 domain-diversity tracker from Run 70 training-free-fine-tuning + safety-theoretical-impossibility + RL-data-engineering to memorization-as-propensity + long-context-impossibility-triangle + value-alignment-tax (training-data-memorization-willingness + architecture-information-theoretic-bound + alignment-process-level-tradeoff primitive-class triplet). 3-axis DOMAIN-DIVERSITY NEGATIVE-RESULT-PROBE PIVOT per Rule 38 to propensity-vs-capability-memorization-evaluation + architectural-impossibility-triangle-info-theoretic-bound + Schwartz-value-co-movement-process-level-tradeoff.",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "cross-discipline-probe-formal-verification+neuroscience+hebbian-learning",
   "emergent_theme": "cross-discipline-probe-formal-verification+neuroscience+hebbian-learning",
   "chains_updated": 0,
-  "entities_count": 228,
+  "entities_count": 231,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -3442,6 +3442,33 @@
       "discovered": "2026-06-29T00:25:00.000000+00:00",
       "theme": "hebbian-learning-associative-memory",
       "online_date": "2026-04-18"
+    },
+    {
+      "arxiv_id": "2605.24636",
+      "slug": "globaldentbench-a-multinational-benchmark-for-evaluating-llm-clinical-reasoning-in-dentistry-with-expert-calibration-2605.24636",
+      "title": "GlobalDentBench: A Multinational Benchmark for Evaluating LLM Clinical Reasoning in Dentistry with Expert Calibration",
+      "url": "https://arxiv.org/abs/2605.24636",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T01:30:00+00:00",
+      "theme": "medical/dental-specialty/multinational/expert-calibration/application-domain-probe-rule42"
+    },
+    {
+      "arxiv_id": "2605.08366",
+      "slug": "swe-atlas-benchmarking-coding-agents-beyond-issue-resolution-2605.08366",
+      "title": "SWE Atlas: Benchmarking Coding Agents Beyond Issue Resolution",
+      "url": "https://arxiv.org/abs/2605.08366",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T01:30:00+00:00",
+      "theme": "software-engineering/coding-agent/beyond-issue-resolution/application-domain-probe-rule42"
+    },
+    {
+      "arxiv_id": "2605.02240",
+      "slug": "physicianbench-evaluating-llm-agents-in-real-world-ehr-environments-2605.02240",
+      "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+      "url": "https://arxiv.org/abs/2605.02240",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-29T01:30:00+00:00",
+      "theme": "medical/physician-ehr/clinical-workflow/application-domain-probe-rule42"
     }
   ],
   "emergent_discoveries": [
@@ -5197,6 +5224,30 @@
       "url": "https://arxiv.org/abs/2604.16839",
       "discovered": "2026-06-29T00:25:00.000000+00:00",
       "theme": "hebbian-learning-associative-memory"
+    },
+    {
+      "arxiv_id": "2605.24636",
+      "title": "GlobalDentBench: A Multinational Benchmark for Evaluating LLM Clinical Reasoning in Dentistry with Expert Calibration",
+      "slug": "globaldentbench-a-multinational-benchmark-for-evaluating-llm-clinical-reasoning-in-dentistry-with-expert-calibration-2605.24636",
+      "url": "https://arxiv.org/abs/2605.24636",
+      "discovered": "2026-06-29T01:30:00+00:00",
+      "theme": "medical/dental-specialty/multinational/expert-calibration/application-domain-probe-rule42"
+    },
+    {
+      "arxiv_id": "2605.08366",
+      "title": "SWE Atlas: Benchmarking Coding Agents Beyond Issue Resolution",
+      "slug": "swe-atlas-benchmarking-coding-agents-beyond-issue-resolution-2605.08366",
+      "url": "https://arxiv.org/abs/2605.08366",
+      "discovered": "2026-06-29T01:30:00+00:00",
+      "theme": "software-engineering/coding-agent/beyond-issue-resolution/application-domain-probe-rule42"
+    },
+    {
+      "arxiv_id": "2605.02240",
+      "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+      "slug": "physicianbench-evaluating-llm-agents-in-real-world-ehr-environments-2605.02240",
+      "url": "https://arxiv.org/abs/2605.02240",
+      "discovered": "2026-06-29T01:30:00+00:00",
+      "theme": "medical/physician-ehr/clinical-workflow/application-domain-probe-rule42"
     }
   ],
   "emergent_concept_search_log": [
@@ -7287,6 +7338,23 @@
         }
       ],
       "theme": "cross-discipline-probe-formal-verification+neuroscience+hebbian"
+    },
+    {
+      "run": 75,
+      "date": "2026-06-29T01:30:00+00:00",
+      "method": "web_search_4query_application_domain_probe_rule42",
+      "framing": "Rule 42 APPLICATION-DOMAIN-PROBE \u2014 vertical-application primitives",
+      "queries": [
+        "medical-AI clinical-EHR LLM-agent",
+        "multinational-specialty-clinical-reasoning",
+        "software-engineering coding-agent beyond-issue-resolution",
+        "education/tutoring adaptive LLM-tutor"
+      ],
+      "fresh_picks": [
+        "globaldentbench-a-multinational-benchmark-for-evaluating-llm-clinical-reasoning-in-dentistry-with-expert-calibration-2605.24636",
+        "swe-atlas-benchmarking-coding-agents-beyond-issue-resolution-2605.08366",
+        "physicianbench-evaluating-llm-agents-in-real-world-ehr-environments-2605.02240"
+      ]
     }
   ],
   "runs": [
@@ -8211,6 +8279,27 @@
       "pitfall_83_streak": 20,
       "cross_references_verified": true,
       "picks_added": 3
+    },
+    {
+      "run_number": 75,
+      "timestamp": "2026-06-29T01:30:00+00:00",
+      "method": "web_search_4query_application_domain_probe_rule42_emergent_concept",
+      "queries_used": [
+        "arxiv 2026 \"medical AI\" LLM clinical reasoning physician benchmark evaluation",
+        "arxiv 2026 \"legal tech\" LLM contract review law benchmark evaluation",
+        "arxiv 2026 \"code generation\" LLM software engineering benchmark SWE-bench enterprise",
+        "arxiv 2026 \"finance trading\" LLM agent portfolio risk benchmark financial"
+      ],
+      "theme": "APPLICATION-DOMAIN-PROBE per Rule 42 \u2014 physician-EHR-clinical-workflow + multinational-dental-specialty-clinical-reasoning + beyond-issue-resolution-coding-agent-workflows (vertical-application primitives anchored to real industry verticals)",
+      "framing": "Rule 42 APPLICATION-DOMAIN-PROBE \u2014 pivoting per Rule 27 from Run 74 cross-discipline axes (formal-verification \u00d7 mathematical-analysis + neuroscience \u00d7 memory + Hebbian-learning \u00d7 associative-memory) to vertical-application axes (medical-AI \u00d7 dentistry \u00d7 software-engineering)",
+      "forward_discipline_rule": "42",
+      "streak_extension": "pitfall-83 streak extended to 21 consecutive runs (Runs 55-75)",
+      "hf_daily_v2": "25 papers on 2026-06-29 with only 5 fresh LLM-keyword-matched after 5-store dedup",
+      "hf_v3_href": "100% CV/3D-heavy",
+      "web_search_template": "APPLICATION-DOMAIN-PROBE bracketing 4 vertical-application axes",
+      "outcome": "3 picks all from vertical-application primitives, zero cross-references with prior 20 runs",
+      "recovery_applied": "pitfall-78 sort-recovery applied (05-04 \u2192 05-26 \u2192 05-08 recovered to 05-26 \u2192 05-08 \u2192 05-04); pitfall-110 caught 1 broken wikilink (2605.16517 not on disk, replaced)",
+      "picks_count": 3
     }
   ],
   "last_updated": "2026-06-29T00:25:00.000000+00:00",

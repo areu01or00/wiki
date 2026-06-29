@@ -895,7 +895,10 @@
         "9beee46272512796d707547c7d48e849",
         "2606.13782",
         "2604.23878",
-        "2604.16839"
+        "2604.16839",
+        "2605.24636",
+        "2605.08366",
+        "2605.02240"
       ],
       "last_results": [
         {
@@ -2574,6 +2577,42 @@
           "slug": "hela-mem-hebbian-learning-and-associative-memory-for-llm-agents-2604.16839",
           "online_date": "2026-04-18",
           "run_number": 74
+        },
+        {
+          "arxiv_id": "2605.24636",
+          "title": "GlobalDentBench: A Multinational Benchmark for Evaluating LLM Clinical Reasoning in Dentistry with Expert Calibration",
+          "hash": "76cff01789a220b14eb5058708b62660",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "medical/dental-specialty/multinational/expert-calibration/application-domain-probe-rule42",
+          "discovered": "2026-06-29T01:30:00+00:00",
+          "slug": "globaldentbench-a-multinational-benchmark-for-evaluating-llm-clinical-reasoning-in-dentistry-with-expert-calibration-2605.24636",
+          "online_date": "2026-05-26",
+          "run_number": 75
+        },
+        {
+          "arxiv_id": "2605.08366",
+          "title": "SWE Atlas: Benchmarking Coding Agents Beyond Issue Resolution",
+          "hash": "8315755604bf0080e107bdad9f215234",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "software-engineering/coding-agent/beyond-issue-resolution/application-domain-probe-rule42",
+          "discovered": "2026-06-29T01:30:00+00:00",
+          "slug": "swe-atlas-benchmarking-coding-agents-beyond-issue-resolution-2605.08366",
+          "online_date": "2026-05-08",
+          "run_number": 75
+        },
+        {
+          "arxiv_id": "2605.02240",
+          "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+          "hash": "43ba0fca2054297af87a80f1b7f95947",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "medical/physician-ehr/clinical-workflow/application-domain-probe-rule42",
+          "discovered": "2026-06-29T01:30:00+00:00",
+          "slug": "physicianbench-evaluating-llm-agents-in-real-world-ehr-environments-2605.02240",
+          "online_date": "2026-05-04",
+          "run_number": 75
         }
       ],
       "last_run": "2026-06-29T00:25:00+00:00",
@@ -2809,7 +2848,10 @@
     "9beee46272512796d707547c7d48e849",
     "2606.13782",
     "2604.23878",
-    "2604.16839"
+    "2604.16839",
+    "2605.24636",
+    "2605.08366",
+    "2605.02240"
   ],
   "last_discovery": "2026-06-29T00:25:00.000000+00:00",
   "last_updated": "2026-06-29T00:25:00.000000+00:00",
@@ -3032,7 +3074,10 @@
       "9beee46272512796d707547c7d48e849",
       "2606.13782",
       "2604.23878",
-      "2604.16839"
+      "2604.16839",
+      "2605.24636",
+      "2605.08366",
+      "2605.02240"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",

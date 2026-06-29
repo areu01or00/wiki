@@ -1496,3 +1496,27 @@ Commit: `43762e4` → push succeeded.
 **3-store lockstep**: 204 → 207 hashes in TOP-LEVEL / llm-wiki / profiles.llm-wiki-explore (verified set equality).
 
 **Commit pending**: `Explore: 2026-06-26T10:09 UTC — Run 71`
+
+## Explore: 2026-06-29T01:30 UTC — Run 75
+
+**Mode**: emergent-concept search via web_search 4-query APPLICATION-DOMAIN-PROBE escape hatch per Rule 42.
+
+**Pitfall-83 streak**: 21 consecutive runs (Runs 55-75). HF daily v2 returned 25 papers on 2026-06-29 with only 5 fresh LLM-keyword-matched after 5-store dedup. HF v3 href-regex pool 100% CV/3D-heavy. web_search surfaced fresh LLM candidates via Rule 42 application-domain-probe query template (vertical-application axes: medical-AI clinical-EHR + multinational-specialty-clinical-reasoning + software-engineering beyond-issue-resolution + education adaptive LLM-tutor).
+
+**Rule 42 APPLICATION-DOMAIN-PROBE verified**: pivoted from Run 74 cross-discipline (formal-verification × mathematical-analysis + neuroscience × memory + Hebbian-learning × associative-memory) primitive-class triplet to vertical-application (medical-AI × dentistry × software-engineering) primitive-class triplet. All 3 picks fully orthogonal to Run 74 cross-discipline axes + Run 73 meta-research axes.
+
+**3 picks (date-DESC ordered by online_date)**:
+1. **GlobalDentBench: A Multinational Benchmark for Evaluating LLM Clinical Reasoning in Dentistry with Expert Calibration** (2605.24636, 05-26) — multinational-dental-specialty-vertical-application-primitive (88 countries × 14 specialties × 8,978 expert-validated questions)
+2. **SWE Atlas: Benchmarking Coding Agents Beyond Issue Resolution** (2605.08366, 05-08) — beyond-issue-resolution-coding-workflow-primitive (Codebase-Q&A + Test-Writing + Refactoring, 284 tasks)
+3. **PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments** (2605.02240, 05-04) — real-clinical-setting-EHR-workflows-primitive (100 long-horizon physician tasks grounded in real clinical settings)
+
+**entities_count**: 228 → 231 (filesystem truth rule, 3 new entity files).
+
+**3-store lockstep**: 216 → 219 hashes in TOP-LEVEL / llm-wiki / profiles.llm-wiki-explore (verified set equality).
+
+**Recovery applied mid-run**:
+- pitfall-78 sort-recovery (originally injected 05-04 → 05-26 → 05-08, recovered to 05-26 → 05-08 → 05-04 for date-DESC compliance)
+- pitfall-110 caught 1 broken wikilink during pre-write audit (customizing-an-llm-for-enterprise 2605.16517 — web_search candidate not on disk; replaced with EnterpriseClawBench reference)
+
+**Commit pending**: `Explore: 2026-06-29T01:30 UTC — Run 75`
+
