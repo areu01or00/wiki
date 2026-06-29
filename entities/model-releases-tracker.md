@@ -17,7 +17,17 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+
+- **2026-06-26** | [Previewing GPT-5.6 Sol: a next-generation model - OpenAI](https://openai.com/index/previewing-gpt-5-6-sol/) | kw: GPT-5.6 Sol | source: openai-releases
+- **2026-06-26** | [GPT-5.6 Preview System Card - Deployment Safety Hub](https://deploymentsafety.openai.com/gpt-5-6-preview) | kw: GPT-5.6 | source: openai-releases
+- **2026-06-26** | [A preview of GPT-5.6 Sol, Terra, and Luna - OpenAI Help Center](https://help.openai.com/en/articles/20001325-a-preview-of-gpt-56-sol-terra-and-luna) | kw: GPT-5.6 | source: openai-releases
 - **2026-06-25** | [Liquid AI LFM2.5-230M: Built to Run Anywhere (open-weights edge LLM)](https://www.liquid.ai/blog/lfm2-5-230m) | kw: LFM2.5-230M | source: liquid-ai
+- **2026-06-26** | [White House asks OpenAI to limit GPT 5.6 release - CNN](https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house) | kw: GPT-5.6 | source: openai-releases
+- **2026-06-26** | [OpenAI limits new AI models to trusted partners - CNBC](https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html) | kw: GPT-5.6 | source: openai-releases
+- **2026-06-26** | [OpenAI Released GPT-5.6 Sol With Limited Access - CybersecurityNews](https://cybersecuritynews.com/gpt-5-6-release/) | kw: GPT-5.6 | source: openai-releases
+- **2026-06-26** | [Introducing GPT-5.6 series: Sol, Terra, and Luna - OpenAI community](https://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna/1384931) | kw: GPT-5.6 Sol | source: openai-releases
+- **2026-06-26** | [GPT-5.6 Sol, Terra and Luna: OpenAI's New Model Family - Digital Applied](https://www.digitalapplied.com/blog/gpt-5-6-sol-terra-luna-preview-guide-2026) | kw: GPT-5.6 | source: openai-releases
+- **2026-06-26** | [GPT-5.6 Review: Sol, Terra, and Luna Explained - BuildFastWithAI](https://www.buildfastwithai.com/blogs/gpt-5-6-review-sol-terra-luna-2026) | kw: GPT-5.6 | source: openai-releases
 - **2026-06-25** | [LiquidAI/LFM2.5-230M - Hugging Face](https://huggingface.co/LiquidAI/LFM2.5-230M) | kw: LFM2.5-230M | source: liquid-ai
 - **2026-06-24** | [Introducing computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) | kw: Gemini 3.5 Flash computer use | source: google-deepmind-releases
 - **2026-06-24** | [Gemini 3.5 Flash computer use: Enterprise agent risk analysis](https://www.beri.net/article/gemini-3-5-flash-computer-use-enterprise-agent-risk-2026) | kw: Gemini 3.5 Flash computer use | source: google-deepmind-releases
