@@ -892,7 +892,10 @@
         "86f7322795950eeb4dead7c93fd4b881",
         "8b25faf7c337693aa455befeab10b468",
         "586c843a05f1161b5b5ad38bdddd2148",
-        "9beee46272512796d707547c7d48e849"
+        "9beee46272512796d707547c7d48e849",
+        "2606.13782",
+        "2604.23878",
+        "2604.16839"
       ],
       "last_results": [
         {
@@ -2535,9 +2538,45 @@
           "slug": "large-language-models-for-software-engineering-a-reproducibility-crisis-2512.00651",
           "online_date": "2025-11-29",
           "run_number": 73
+        },
+        {
+          "arxiv_id": "2606.13782",
+          "title": "MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis",
+          "hash": "00ebd75f84ee881ac3e3ef26120e6f87",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "formal-verification-theorem-proving-in-mathematical-analysis",
+          "discovered": "2026-06-29T00:25:00.000000+00:00",
+          "slug": "ma-proofbench-a-two-tiered-evaluation-of-llms-for-theorem-proving-in-mathematica-2606.13782",
+          "online_date": "2026-06-15",
+          "run_number": 74
+        },
+        {
+          "arxiv_id": "2604.23878",
+          "title": "ZenBrain: A Neuroscience-Inspired 7-Layer Memory Architecture for Autonomous AI Systems",
+          "hash": "b9ea949720dbb3e73cadd0d2f3075c5b",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "neuroscience-grounded-memory-architecture",
+          "discovered": "2026-06-29T00:25:00.000000+00:00",
+          "slug": "zenbrain-a-neuroscience-inspired-7-layer-memory-architecture-for-autonomous-ai-s-2604.23878",
+          "online_date": "2026-05-02",
+          "run_number": 74
+        },
+        {
+          "arxiv_id": "2604.16839",
+          "title": "HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents",
+          "hash": "033f92437d238f0fc7eeec197983c716",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "hebbian-learning-associative-memory",
+          "discovered": "2026-06-29T00:25:00.000000+00:00",
+          "slug": "hela-mem-hebbian-learning-and-associative-memory-for-llm-agents-2604.16839",
+          "online_date": "2026-04-18",
+          "run_number": 74
         }
       ],
-      "last_run": "63",
+      "last_run": "2026-06-29T00:25:00+00:00",
       "last_updated": "2026-06-26T08:30:00+00:00",
       "last_result_timestamp": "2026-06-26T08:30:00+00:00",
       "last_run_key": "run-63-2026-06-26T08:30:00+00:00",
@@ -2549,10 +2588,11 @@
         "discovered": "2026-06-26T08:30:00+00:00",
         "theme": "knowledge-editing / dimensional-collapse / retrieval-vs-parametric"
       },
-      "updated_at": "2026-06-26T08:33:38.233536+00:00"
+      "updated_at": "2026-06-26T08:33:38.233536+00:00",
+      "last_run_framing": "Rule 41 CROSS-DISCIPLINE-PROBE \u2014 formal-verification + neuroscience + hebbian-learning (orthogonal to Run 68-73)"
     }
   },
-  "last_run": "2026-06-26T09:00:00+00:00",
+  "last_run": "2026-06-29T00:25:00+00:00",
   "last_result_hashes": [
     "9a371266785cc8a1a4edd680e2bbe849",
     "ad7cd67e9f39fa346d36b75c623c03c8",
@@ -2766,21 +2806,15 @@
     "86f7322795950eeb4dead7c93fd4b881",
     "8b25faf7c337693aa455befeab10b468",
     "586c843a05f1161b5b5ad38bdddd2148",
-    "9beee46272512796d707547c7d48e849"
+    "9beee46272512796d707547c7d48e849",
+    "2606.13782",
+    "2604.23878",
+    "2604.16839"
   ],
-  "last_discovery": {
-    "timestamp": "2026-06-26T09:32:00+00:00",
-    "picks": [
-      "pr2-predictive-routing-replay-for-moe-based-llm-reinforcement-learning-2606.00395",
-      "endprompt-efficient-long-context-extension-via-terminal-anchoring-2605.14589",
-      "faithfulness-qa-a-counterfactual-entity-substitution-dataset-for-training-context-faithful-rag-models-2604.25313"
-    ],
-    "theme": "axis-inversion-probe-Rule-36d",
-    "method": "web_search_4query_axis_inversion_probe_emergent_concept"
-  },
-  "last_updated": "2026-06-26T09:32:00+00:00",
-  "__last_updated": "2026-06-26T09:32:00+00:00",
-  "last_explore": "2026-06-26T09:32:00+00:00",
+  "last_discovery": "2026-06-29T00:25:00.000000+00:00",
+  "last_updated": "2026-06-29T00:25:00.000000+00:00",
+  "__last_updated": "2026-06-29T00:25:00.000000+00:00",
+  "last_explore": "2026-06-29T00:25:00.000000+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "9a371266785cc8a1a4edd680e2bbe849",
@@ -2995,11 +3029,14 @@
       "86f7322795950eeb4dead7c93fd4b881",
       "8b25faf7c337693aa455befeab10b468",
       "586c843a05f1161b5b5ad38bdddd2148",
-      "9beee46272512796d707547c7d48e849"
+      "9beee46272512796d707547c7d48e849",
+      "2606.13782",
+      "2604.23878",
+      "2604.16839"
     ],
     "last_discovery": "2026-06-26T07:09:00+00:00",
     "last_run": "2026-06-26T07:09:00+00:00",
-    "last_updated": "2026-06-26T07:09:00+00:00",
+    "last_updated": "2026-06-29T00:25:00.000000+00:00",
     "last_results": [
       {
         "arxiv_id": "2605.21768",
