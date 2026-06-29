@@ -940,7 +940,10 @@
         "2605.02888",
         "2605.08538",
         "2603.07670",
-        "2601.09913"
+        "2601.09913",
+        "2606.04306",
+        "2606.06399",
+        "2606.12835"
       ],
       "last_results": [
         {
@@ -3159,6 +3162,42 @@
           "slug": "continuum-memory-architectures-for-long-horizon-llm-agents-2601.09913",
           "online_date": "2026-01-14",
           "run_number": 89
+        },
+        {
+          "arxiv_id": "2606.04306",
+          "title": "Organizational Control Layer: Governance Infrastructure at the Execution Boundary of LLM Agent Systems",
+          "hash": "2a79609e0ecf23a6907b23741c6e755e",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "multi-agent-coordination-collaboration / organizational primitive theme",
+          "discovered": "2026-06-29T09:11:00+00:00",
+          "slug": "organizational-control-layer-governance-infrastructure-at-the-execution-boundary-of-llm-agent-systems",
+          "online_date": "2026-06-03",
+          "run_number": 90
+        },
+        {
+          "arxiv_id": "2606.06399",
+          "title": "CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments",
+          "hash": "5174a7dbd0b693ff444786a3dec34328",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "multi-agent-coordination-collaboration / collabsim primitive theme",
+          "discovered": "2026-06-29T09:11:00+00:00",
+          "slug": "collabsim-cscw-grounded-methodology-for-investigating-collaborative-competence-of-llm-agents-through-controlled-multi-agent-experiments",
+          "online_date": "2026-06-06",
+          "run_number": 90
+        },
+        {
+          "arxiv_id": "2606.12835",
+          "title": "The Internet of Agentic AI: Communication, Coordination, and Collective Intelligence at Scale",
+          "hash": "1979b943f07e744dc44645a184a1468d",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "multi-agent-coordination-collaboration / internet primitive theme",
+          "discovered": "2026-06-29T09:11:00+00:00",
+          "slug": "internet-of-agentic-ai-communication-coordination-collective-intelligence-at-scale",
+          "online_date": "2026-06-11",
+          "run_number": 90
         }
       ],
       "last_run": "2026-06-29T05:30:00+00:00",
@@ -3433,7 +3472,10 @@
     "2605.02888",
     "2605.08538",
     "2603.07670",
-    "2601.09913"
+    "2601.09913",
+    "2606.04306",
+    "2606.06399",
+    "2606.12835"
   ],
   "last_discovery": "2026-06-29T05:30:00+00:00",
   "last_updated": "2026-06-29T03:55:00+00:00",
@@ -3701,7 +3743,10 @@
       "2605.02888",
       "2605.08538",
       "2603.07670",
-      "2601.09913"
+      "2601.09913",
+      "2606.04306",
+      "2606.06399",
+      "2606.12835"
     ],
     "last_discovery": "2026-06-29T05:30:00+00:00",
     "last_run": "2026-06-29T05:30:00+00:00",
