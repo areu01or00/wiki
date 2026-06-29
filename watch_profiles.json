@@ -994,7 +994,10 @@
         "2605.06480",
         "2601.07036",
         "2602.02909",
-        "2502.17407"
+        "2502.17407",
+        "2604.07569",
+        "2603.04355",
+        "2601.06851"
       ],
       "last_results": [
         {
@@ -3885,6 +3888,42 @@
           "slug": "linguistic-generalizability-of-test-time-scaling-in-mathematical-reasoning-2502.17407",
           "online_date": "2025-08-01",
           "run_number": 107
+        },
+        {
+          "arxiv_id": "2604.07569",
+          "title": "Learning is Forgetting: LLM Training As Lossy Compression",
+          "hash": "55062c38f0f9b8ce3db56cfbdaa4fbd2",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "information-geometric",
+          "discovered": "2026-06-29T11:59:17Z",
+          "slug": "learning-is-forgetting-llm-training-as-lossy-compression-2604.07569",
+          "online_date": "2026-04-08",
+          "run_number": 108
+        },
+        {
+          "arxiv_id": "2603.04355",
+          "title": "Efficient Refusal Ablation in LLM through Optimal Transport",
+          "hash": "d0703c46df81b9d18233c5de67fab34c",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "information-geometric",
+          "discovered": "2026-06-29T11:59:17Z",
+          "slug": "efficient-refusal-ablation-in-llm-through-optimal-transport-2603.04355",
+          "online_date": "2026-03-04",
+          "run_number": 108
+        },
+        {
+          "arxiv_id": "2601.06851",
+          "title": "A Brain-like Synergistic Core in LLMs Drives Behaviour and Learning",
+          "hash": "d354a0008e50ead75d9f10552d5615ab",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "information-geometric",
+          "discovered": "2026-06-29T11:59:17Z",
+          "slug": "a-brain-like-synergistic-core-in-llms-drives-behaviour-and-learning-2601.06851",
+          "online_date": "2026-01-11",
+          "run_number": 108
         }
       ],
       "last_run": "Run 104 \u2014 gradient-flow-coordination",
@@ -4213,7 +4252,10 @@
     "2605.06480",
     "2601.07036",
     "2602.02909",
-    "2502.17407"
+    "2502.17407",
+    "2604.07569",
+    "2603.04355",
+    "2601.06851"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -4535,7 +4577,10 @@
       "2605.06480",
       "2601.07036",
       "2602.02909",
-      "2502.17407"
+      "2502.17407",
+      "2604.07569",
+      "2603.04355",
+      "2601.06851"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",

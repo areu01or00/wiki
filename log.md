@@ -1970,3 +1970,11 @@ Commit: `43762e4` → push succeeded.
 **Run 107 forward-discipline**: Rule 74 candidate is COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE — primitives that quantify how much reasoning resource is consumed per query (BAPO-extended CoT-token-complexity lower bounds, training-free token-level-trigger mode-switch control, multilingual test-time-scaling linguistic-bottleneck). Distinct from Run 106 functional-mechanistic-interpretability (where the load-bearing axis is *CoT-token-complexity-lower-bound* rather than *functional-measurement-of-discovered-features*), and from Run 105 declarative-LM (where the load-bearing axis is *token-level-mode-control-trigger* rather than *declarative-program-execution*).
 
 **Run 107 cycle counts**: ~16 tool calls; 6-file commit (3 new entity + 1 parent + 2 state); pending push to origin/main.
+## Run 108 — INFORMATION-GEOMETRIC-PRIMITIVE-PROBE per Rule 75 (candidate) — 2026-06-29 11:53 UTC
+- 3 picks: Lossy-Compression-IB-Bound (2604.07569), OT-Distributional-Refusal-Ablation (2603.04355), Brain-like-Synergistic-Core-PID (2601.06851)
+- All 3 picks first-in-wiki information-geometric primitives
+- 3-store lockstep: 318 hashes each (was 315)
+- entities_count: 330 reconciled to filesystem truth (was 327)
+- HF daily returned 0; web_search 4-query information-geometric fired
+- pitfall-83 streak at 54 consecutive runs (longest in wiki history by 42)
+

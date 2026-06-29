@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T11:42:00+00:00",
   "__last_updated": "2026-06-29T11:42:00+00:00",
-  "last_run": "Run 107 \u2014 cognitive-load-at-inference-time",
-  "last_explore": "2026-06-29T11:42:00+00:00",
+  "last_run": 108,
+  "last_explore": "2026-06-29T11:59:17Z",
   "last_global_explore": "2026-06-29T11:42:00+00:00",
   "last_discovery": "2026-06-29T11:42:00+00:00",
-  "last_run_framing": "Run 107 \u2014 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE per Rule 74 (candidate) \u2014 BAPO-extended CoT-token-complexity-lower-bound + training-free token-level-trigger-mode-switch + multilingual test-time-scaling linguistic-bottleneck primitive triplet",
-  "last_framing": "Rule 74 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE \u2014 pick axes that probe cognitive-load primitives at inference time (BAPO bounded-attention-prefix-oracle CoT-token-complexity lower bounds for canonical hard tasks, training-free intermediate-budget reasoning control via token-level triggers, multilingual test-time-scaling generalizability-failure with per-language diminishing returns)",
-  "last_run_notes": "Rule 74 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE verified (53rd consecutive pitfall-83 \u2014 longest in wiki history by 41 runs); 3 picks structurally orthogonal to Run 106 functional-mechanistic-interpretability primitives \u2014 picks cover 3 distinct sub-layers of cognitive-load-at-inference-time primitive-class: (a) CoT-token-complexity theoretical lower bound (BAPO), (b) training-free intermediate-budget reasoning control (Mid-Think token triggers), (c) multilingual test-time-scaling linguistic-bottleneck (MCLM).",
+  "last_run_framing": "INFORMATION-GEOMETRIC-PRIMITIVE-PROBE",
+  "last_framing": "INFORMATION-GEOMETRIC-PRIMITIVE-PROBE",
+  "last_run_notes": "Rule 75 (candidate) introduced: PID + rate-distortion + optimal-transport primitive triplet",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE (Rule 74) via arxiv search HTML 4-query escape hatch",
+  "last_run_method": "web_search 4-query INFORMATION-GEOMETRIC-PRIMITIVE-PROBE",
   "run_method": "emergent-concept-search-via-arxiv-search-HTML",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "cognitive-load-at-inference-time",
+  "emergent_concept_theme": "information-geometric",
   "emergent_theme": "cognitive-load-at-inference-time",
   "chains_updated": 0,
-  "entities_count": 327,
+  "entities_count": 330,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -4330,6 +4330,36 @@
       "discovered": "2026-06-29T11:43:54.542568Z",
       "theme": "cognitive-load-at-inference-time",
       "run_number": 107
+    },
+    {
+      "arxiv_id": "2604.07569",
+      "title": "Learning is Forgetting: LLM Training As Lossy Compression",
+      "slug": "learning-is-forgetting-llm-training-as-lossy-compression-2604.07569",
+      "url": "https://arxiv.org/abs/2604.07569",
+      "discovered": "2026-06-29T11:59:17Z",
+      "submission_date": "2026-04-08",
+      "run_number": 108,
+      "theme": "information-geometric"
+    },
+    {
+      "arxiv_id": "2603.04355",
+      "title": "Efficient Refusal Ablation in LLM through Optimal Transport",
+      "slug": "efficient-refusal-ablation-in-llm-through-optimal-transport-2603.04355",
+      "url": "https://arxiv.org/abs/2603.04355",
+      "discovered": "2026-06-29T11:59:17Z",
+      "submission_date": "2026-03-04",
+      "run_number": 108,
+      "theme": "information-geometric"
+    },
+    {
+      "arxiv_id": "2601.06851",
+      "title": "A Brain-like Synergistic Core in LLMs Drives Behaviour and Learning",
+      "slug": "a-brain-like-synergistic-core-in-llms-drives-behaviour-and-learning-2601.06851",
+      "url": "https://arxiv.org/abs/2601.06851",
+      "discovered": "2026-06-29T11:59:17Z",
+      "submission_date": "2026-01-11",
+      "run_number": 108,
+      "theme": "information-geometric"
     }
   ],
   "emergent_discoveries": [
@@ -6892,6 +6922,30 @@
       "theme": "cognitive-load-at-inference-time",
       "online_date": "2025-08-01",
       "run_number": 107
+    },
+    {
+      "arxiv_id": "2604.07569",
+      "title": "Learning is Forgetting: LLM Training As Lossy Compression",
+      "slug": "learning-is-forgetting-llm-training-as-lossy-compression-2604.07569",
+      "url": "https://arxiv.org/abs/2604.07569",
+      "discovered": "2026-06-29T11:59:17Z",
+      "theme": "information-geometric"
+    },
+    {
+      "arxiv_id": "2603.04355",
+      "title": "Efficient Refusal Ablation in LLM through Optimal Transport",
+      "slug": "efficient-refusal-ablation-in-llm-through-optimal-transport-2603.04355",
+      "url": "https://arxiv.org/abs/2603.04355",
+      "discovered": "2026-06-29T11:59:17Z",
+      "theme": "information-geometric"
+    },
+    {
+      "arxiv_id": "2601.06851",
+      "title": "A Brain-like Synergistic Core in LLMs Drives Behaviour and Learning",
+      "slug": "a-brain-like-synergistic-core-in-llms-drives-behaviour-and-learning-2601.06851",
+      "url": "https://arxiv.org/abs/2601.06851",
+      "discovered": "2026-06-29T11:59:17Z",
+      "theme": "information-geometric"
     }
   ],
   "emergent_concept_search_log": [
@@ -11015,6 +11069,23 @@
       "cycle_count": "53 consecutive pitfall-83 firings",
       "prior_axis": "Run 106 functional-mechanistic-interpretability (concept-annotation SAE-evaluation + patch-effect-graph-kernel circuit-comparison + weight-regularization SAE-stability-steerability)",
       "new_axis": "Rule 74 COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE (BAPO-extended CoT-token-complexity-lower-bound + training-free token-level-trigger-mode-switch + multilingual test-time-scaling linguistic-bottleneck)"
+    },
+    {
+      "run_number": 108,
+      "rule": "Rule 75 (candidate)",
+      "theme": "information-geometric",
+      "framing": "INFORMATION-GEOMETRIC-PRIMITIVE-PROBE: PID synergy/redundancy + rate-distortion framing of training + OT-distributional-alignment-mapping primitive triplet",
+      "pick_count": 3,
+      "picks": [
+        "2604.07569",
+        "2603.04355",
+        "2601.06851"
+      ],
+      "completed_at": "2026-06-29T11:59:17Z",
+      "submitted_papers": 0,
+      "hf_daily_returned": 0,
+      "web_search_queries_fired": 4,
+      "notes": "Rule 75 INFORMATION-GEOMETRIC-PRIMITIVE-PROBE codified candidate. Pitfall-83 streak at 54 consecutive runs (longest in wiki history by 42 runs). HF daily v2 returned 0 papers; web_search 4-query fired."
     }
   ],
   "last_updated": "2026-06-29T12:30:00+00:00",
