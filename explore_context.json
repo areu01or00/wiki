@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "multiagent-memory-interference",
   "chains_updated": 0,
-  "entities_count": 417,
+  "entities_count": 420,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8317,6 +8317,30 @@
       "url": "https://arxiv.org/abs/2606.15441",
       "discovered": "2026-06-29T23:30:00+00:00",
       "theme": "adaptive prompt injection / task alignment defense / agentic adversarial defense"
+    },
+    {
+      "arxiv_id": "2606.08831",
+      "title": "Inference-Time Conformal Reasoning with Valid Factuality Control for Large Language Models",
+      "slug": "itcr-inference-time-conformal-reasoning-with-valid-factuality-control-for-llms-2606.08831",
+      "url": "https://arxiv.org/abs/2606.08831",
+      "discovered": "2026-07-01T00:00:00+00:00",
+      "theme": "UNCERTAINTY-REASONING-STRUCTURE-PROBE"
+    },
+    {
+      "arxiv_id": "2606.19812",
+      "title": "Human-on-the-Loop Orchestration for AI-Assisted Legal Discovery",
+      "slug": "human-on-the-loop-orchestration-ai-assisted-legal-discovery-2606.19812",
+      "url": "https://arxiv.org/abs/2606.19812",
+      "discovered": "2026-07-01T00:00:00+00:00",
+      "theme": "UNCERTAINTY-REASONING-STRUCTURE-PROBE"
+    },
+    {
+      "arxiv_id": "2606.22792",
+      "title": "The Origins of Stochasticity: Comprehensive Investigations on Uncertainty Quantification for Large Language Models",
+      "slug": "origins-of-stochasticity-comprehensive-investigations-on-uncertainty-quantification-for-llms-2606.22792",
+      "url": "https://arxiv.org/abs/2606.22792",
+      "discovered": "2026-07-01T00:00:00+00:00",
+      "theme": "UNCERTAINTY-REASONING-STRUCTURE-PROBE"
     }
   ],
   "emergent_concept_search_log": [
@@ -11025,6 +11049,16 @@
       "run_number": 129,
       "date": "2026-06-29T21:00:00+00:00",
       "theme": "emergent-adversarial-offense"
+    },
+    {
+      "run_number": 137,
+      "timestamp": "2026-07-01T00:00:00+00:00",
+      "theme": "UNCERTAINTY-REASONING-STRUCTURE-PROBE",
+      "papers_found": [
+        "2606.08831",
+        "2606.19812",
+        "2606.22792"
+      ]
     }
   ],
   "runs": [
@@ -13120,6 +13154,17 @@
       "method": "arxiv HTML search + web_search",
       "fresh_count": 27,
       "added": 3
+    },
+    {
+      "run_number": 137,
+      "timestamp": "2026-07-01T00:00:00+00:00",
+      "theme": "UNCERTAINTY-REASONING-STRUCTURE-PROBE",
+      "papers_found": [
+        "2606.08831",
+        "2606.19812",
+        "2606.22792"
+      ],
+      "vector": "emergent-concepts"
     }
   ],
   "last_updated": "2026-06-29T19:06:28.349779+00:00",
