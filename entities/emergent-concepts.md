@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-03 — Run 213) — CODING AGENT INTERACTIVE EVALUATION / MULTI-AGENT ECONOMIC BENCHMARKING / SIM-TO-REAL SCENE GENERATION**
+
+- [[swe-together-evaluating-coding-agents-in-interactive-user-sessions-2606.29957]]
+  SWE-Together: First multi-turn coding agent benchmark reconstructed from real user-agent coding sessions — curates 109 repository-level tasks from 11,260 recorded sessions, evaluating agents that must adapt to clarifying goals, user constraints, and correction signals across multiple turns.
+
+- [[coffeebench-benchmarking-long-horizon-llm-agents-in-heterogeneous-multi-agent-economies-2606.16613]]
+  CoffeeBench: First benchmark for evaluating LLM agents in long-horizon multi-agent economic systems — agents must communicate, negotiate, and transact while pursuing individual objectives over extended periods; captures emergent economic behaviors in agent economies.
+
+- [[simfoundry-modular-and-automated-scene-generation-for-policy-learning-and-evaluation-2606.28276]]
+  SimFoundry: First modular system for zero-shot real-to-sim scene construction from video — generates sim-ready digital twins supporting object/scene/task editing; policies trained on SimFoundry transfer zero-shot to challenging real-world scenes.
+
 **2026-07-03 — Run 212) — KV CACHE GEOMETRY-AWARE SCHEDULING / MULTI-BITWIDTH QUANTIZATION / ENERGY-AWARE ON-DEVICE INFERENCE**
 
 - [[geometry-aware-online-scheduling-llm-serving-2606.22327]]
