@@ -1,3 +1,8 @@
+Explore: 2026-07-01T13:00 UTC — Run 163: ADVERSARIAL-AGENTIC-FAILURE discovery (Rule 103)
+- 2602.09222: MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks (adaptive red-teaming via agent trajectory; 44 new attacks discovered across 4 web apps; 3 cross-application prompt injection attacks; first adaptive injection surface identification)
+- 2604.24118: AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization (OS virtualization-inspired defense; semantic privilege separation; 0.65% attack success rate with 1.45% utility loss; first semantic visor for agent security)
+- 2606.28270: Agent-Native Immune System (ANIS): Architecture, Taxonomy, and Engineering (six-layer Immune Tower L0-L5; Agent Virus/Vaccine taxonomy; Continual Immune Learning; first biologically inspired endogenous immune architecture for LLM agents)
+---
 
 Explore: 2026-07-01T12:00 UTC — Run 161: AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK discovery
 - 2606.30616: Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent (agent-horizon scaling via long-horizon trajectories + heterogeneous agent abilities; 35B MoE achieving trillion-parameter-level)

@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 163) — 3-axis ADVERSARIAL-AGENTIC-FAILURE discovery (Rule 103)**
+
+- [[muzzle-adaptive-agentic-red-teaming-web-agents-indirect-prompt-injection-attacks-2602.09222]] — MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks — first adaptive red-teaming framework using agent trajectory to automatically identify high-salience injection surfaces and iteratively refine context-aware attacks; discovers 44 new attacks across 4 web applications including 3 cross-application prompt injection attacks; 2602.09222 (cs.CR, cs.AI).
+- [[agentvisor-defending-llm-agents-prompt-injection-semantic-virtualization-2604.24118]] — AgentVisor: Semantic Virtualization Defense for LLM Agents — first OS virtualization-inspired defense framework treating the agent as untrusted guest with trusted semantic visor; reduces attack success rate to 0.65% with only 1.45% utility decrease; 2604.24118 (cs.CR).
+- [[agent-native-immune-system-architecture-taxonomy-engineering-2606.28270]] — Agent-Native Immune System (ANIS): Architecture, Taxonomy, and Engineering — first biologically inspired endogenous immune architecture embedded in agent cognitive loop; six-layer Immune Tower (L0-L5) with Barrier Immunity; unified Agent Virus/Vaccine taxonomy; Continual Immune Learning via Harness Triad; 2606.28270 (cs.AI, cs.MA).
+
 **2026-07-01 — Run 162) — 3-axis AGENTIC-PLANNING-ORCHESTRATION + BENCHMARK NOISE-FLOOR + EVOLVING-WORKFLOW-SYNTHESIS discovery (Rule 102)**
 
 - [[how-much-coordination-gain-is-real-a-paired-noise-floor-protocol-for-multi-agent-llm-benchmarks-2606.20695]] — How Much Coordination Gain Is Real? — first paired noise-floor protocol showing 7/10 multi-agent coordination architectures report effects below benchmark noise floor; coordination-active pass@k as minimum reporting standard; ET-MCP substrate for isolating reader-side choices.
