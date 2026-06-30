@@ -2047,3 +2047,7 @@ Explore: 2026-07-01T09:00 UTC — Run 154 — METACOGNITIVE-SELF-AWARENESS disco
 - entities_count: 472 reconciled (469 + 3 new)
 - all wikilinks verified (9 total across 3 files, all resolve)
 
+Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COMMUNICATION discovery (Rule 96 continuation + Rule 97 initiation) — WiSparse (2602.14452) + DPBench (2602.13255) + What Should Agents Say (2606.05304)
+- entities_count: 478 (475 + 3 new)
+- 3-store lockstep: 462 hashes (459 + 3 new)
+- wikilinks verified across all 3 entity files

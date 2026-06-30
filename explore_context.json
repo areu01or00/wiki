@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-07-01T09:30:00+00:00",
-  "last_run": 155,
-  "last_explore": "2026-07-01T09:30:00+00:00",
+  "last_run": 156,
+  "last_explore": "2026-06-30T02:35:21.127927+00:00",
   "last_global_explore": "2026-07-01T09:30:00+00:00",
-  "last_discovery": "2026-07-01T09:30:00+00:00",
-  "last_run_framing": "LLM INFERENCE EFFICIENCY discovery (Rule 96 continuation)",
-  "last_framing": "LLM-INFERENCE-EFFICIENCY",
+  "last_discovery": "2026-06-30T02:35:21.127927+00:00",
+  "last_run_framing": "INFERENCE EFFICIENCY + MULTIAGENT-COMMUNICATION discovery (Rule 96 continuation + Rule 97 initiation)",
+  "last_framing": "INFERENCE-EFFICIENCY-MULTIAGENT",
   "last_run_notes": "Run 155: LLM INFERENCE EFFICIENCY: When More Sampling Hurts (2606.28661) + EntMTP (2606.27550) + Cache-Resident LLM Inference (2606.25353)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search + web_search",
+  "last_run_method": "web_search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 475,
+  "entities_count": 478,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5470,6 +5470,36 @@
       "theme": "inference efficiency / hardware memory hierarchy / cache-resident LLM",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2602.14452",
+      "title": "WiSparse: Boosting LLM Inference Efficiency with Weight-Aware Mixed Activation Sparsity",
+      "slug": "wisparse-boosting-inference-efficiency-weight-aware-mixed-2602.14452",
+      "url": "https://arxiv.org/abs/2602.14452",
+      "discovered": "2026-06-30T02:35:21.127927+00:00",
+      "theme": "inference efficiency / activation sparsity",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2602.13255",
+      "title": "DPBench: Structural Determinants of Multi-Agent LLM Coordination Under Simultaneous Resource Contention",
+      "slug": "dpbench-structural-determinants-multi-agent-coordination-under-2602.13255",
+      "url": "https://arxiv.org/abs/2602.13255",
+      "discovered": "2026-06-30T02:35:21.127927+00:00",
+      "theme": "multi-agent coordination / resource contention",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.05304",
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "slug": "what-should-agents-say-action-state-communication-2606.05304",
+      "url": "https://arxiv.org/abs/2606.05304",
+      "discovered": "2026-06-30T02:35:21.127927+00:00",
+      "theme": "multi-agent communication / action-state protocol",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -9070,6 +9100,30 @@
       "url": "https://arxiv.org/abs/2606.25353",
       "discovered": "2026-07-01T09:30:00+00:00",
       "theme": "inference efficiency / hardware memory hierarchy / cache-resident LLM"
+    },
+    {
+      "arxiv_id": "2602.14452",
+      "title": "WiSparse: Boosting LLM Inference Efficiency with Weight-Aware Mixed Activation Sparsity",
+      "slug": "wisparse-boosting-inference-efficiency-weight-aware-mixed-2602.14452",
+      "url": "https://arxiv.org/abs/2602.14452",
+      "discovered": "2026-06-30T02:35:21.127927+00:00",
+      "theme": "inference efficiency / activation sparsity"
+    },
+    {
+      "arxiv_id": "2602.13255",
+      "title": "DPBench: Structural Determinants of Multi-Agent LLM Coordination Under Simultaneous Resource Contention",
+      "slug": "dpbench-structural-determinants-multi-agent-coordination-under-2602.13255",
+      "url": "https://arxiv.org/abs/2602.13255",
+      "discovered": "2026-06-30T02:35:21.127927+00:00",
+      "theme": "multi-agent coordination / resource contention"
+    },
+    {
+      "arxiv_id": "2606.05304",
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "slug": "what-should-agents-say-action-state-communication-2606.05304",
+      "url": "https://arxiv.org/abs/2606.05304",
+      "discovered": "2026-06-30T02:35:21.127927+00:00",
+      "theme": "multi-agent communication / action-state protocol"
     }
   ],
   "emergent_concept_search_log": [
@@ -14213,6 +14267,18 @@
         "2606.25353"
       ],
       "added": 3
+    },
+    {
+      "run": 156,
+      "date": "2026-06-30T02:35:21.127927+00:00",
+      "papers_added": 3,
+      "theme": "INFERENCE EFFICIENCY + MULTIAGENT-COMMUNICATION",
+      "method": "web_search",
+      "picks": [
+        "2602.14452",
+        "2602.13255",
+        "2606.05304"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
