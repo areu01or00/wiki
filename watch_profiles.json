@@ -1189,7 +1189,10 @@
         "a77a34d531b5e609f727f88ff9cd87ee",
         "3f27cc722e6a72580bae901169ee747b",
         "9345c604a5486a34b13f818e551fb933",
-        "0ea0f152ad2ad6e856227201880eb4bc"
+        "0ea0f152ad2ad6e856227201880eb4bc",
+        "430355721feab1827a807fa280006216",
+        "c5e628bd4462ef72eb2bd64f768dd96d",
+        "203cd931814fa89c97075f736cf39091"
       ],
       "last_results": [
         {
@@ -4996,7 +4999,10 @@
     "a77a34d531b5e609f727f88ff9cd87ee",
     "3f27cc722e6a72580bae901169ee747b",
     "9345c604a5486a34b13f818e551fb933",
-    "0ea0f152ad2ad6e856227201880eb4bc"
+    "0ea0f152ad2ad6e856227201880eb4bc",
+    "430355721feab1827a807fa280006216",
+    "c5e628bd4462ef72eb2bd64f768dd96d",
+    "203cd931814fa89c97075f736cf39091"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -5513,7 +5519,10 @@
       "a77a34d531b5e609f727f88ff9cd87ee",
       "3f27cc722e6a72580bae901169ee747b",
       "9345c604a5486a34b13f818e551fb933",
-      "0ea0f152ad2ad6e856227201880eb4bc"
+      "0ea0f152ad2ad6e856227201880eb4bc",
+      "430355721feab1827a807fa280006216",
+      "c5e628bd4462ef72eb2bd64f768dd96d",
+      "203cd931814fa89c97075f736cf39091"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

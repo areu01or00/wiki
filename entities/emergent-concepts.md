@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 172) — CERTAINTY ROBUSTNESS / STRATEGY DIVERSITY / BELIEF-REVISION DELIBERATION DISCOVERY**
+
+- [[hidden-anchors-in-multi-agent-llm-deliberation-2606.19494]] — Hidden Anchors in Multi-Agent LLM Deliberation — hidden anchor mechanism drives belief revision beyond group conformity; extends DeGroot/Friedkin-Johnsen opinion dynamics to capture internal belief persistence; models deliberation as context repair for drifted belief states; first hidden-anchor belief-revision mechanism in multi-agent deliberation; 2606.19494.
+- [[beyond-accuracy-evaluating-strategy-diversity-in-llm-mathematical-reasoning-2605.09292]] — Beyond Accuracy: Evaluating Strategy Diversity in LLM Mathematical Reasoning — strategy-level evaluation framework with 217 AoPS-derived strategy families; demonstrates frontier models show pronounced decoupling between accuracy and strategy diversity; dual-AI coding with human adjudication for strategy annotation; first strategy-taxonomy evaluation in the wiki; 2605.09292.
+- [[certainty-robustness-evaluating-llm-stability-under-self-challenging-prompts-2603.03330]] — Certainty Robustness: Evaluating LLM Stability Under Self-Challenging Prompts — two-turn challenge protocol measuring stability vs adaptability tradeoff; distinguishes rigid overconfidence from appropriate revision under genuine evidence; first self-challenge stability evaluation in the wiki; 2603.03330.
+
 **2026-06-30 — Run 171) — COGNITIVE-SIMULATION / DUAL-PROCESS-REASONING / THEORY-OF-MIND DISCOVERY (Rule 107/108/109 continuation)**
 
 - [[prime-planning-retrieval-integrated-memory-for-enhanced-reasoning-2509.22315]] — PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning — dual-process System 1 (fast intuitive) + System 2 (slow deliberate) multi-agent reasoning; uncertainty-triggered switching; enables open-source LLaMA 3 to match GPT-4/4o on multi-hop reasoning; first dual-process-as-agent-pipeline in the wiki; 2509.22315.

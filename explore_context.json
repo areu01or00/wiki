@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 171,
-  "last_explore": "2026-06-30T14:30:00+00:00",
+  "last_run": 172,
+  "last_explore": "2026-06-30T15:30:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-06-30T14:30:00+00:00",
-  "last_run_framing": "COGNITIVE-ARCHITECTURE INTEGRATION / METACOGNITIVE REASONING / SYMBOLIC PLANNING",
+  "last_discovery": "2026-06-30T15:30:00+00:00",
+  "last_run_framing": "CERTAINTY ROBUSTNESS / STRATEGY DIVERSITY / BELIEF-REVISION DELIBERATION",
   "last_framing": "COGNITIVE-ARCHITECTURE + METACOGNITION + SYMBOLIC PLANNING",
-  "last_run_notes": "Run 170: Think2 (2602.18806) + SPIRAL (2512.23167) + Cognitive LLMs (2408.09176)",
+  "last_run_notes": "Run 172: Certainty Robustness (2603.03330) + Beyond Accuracy (2605.09292) + Hidden Anchors (2606.19494)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -5872,6 +5872,36 @@
       "url": "https://arxiv.org/abs/2509.22315",
       "discovered": "2026-06-30T06:41:00+00:00",
       "theme": "dual-process / System-1 / System-2 / multi-agent-reasoning / memory-planning"
+    },
+    {
+      "arxiv_id": "2603.03330",
+      "title": "Certainty Robustness",
+      "slug": "certainty-robustness-evaluating-llm-stability-under-self-challenging-prompts-2603.03330",
+      "url": "https://arxiv.org/abs/2603.03330",
+      "discovered": "2026-06-30T15:30:00+00:00",
+      "theme": "llm-evaluation / uncertainty / stability-adaptability tradeoff",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.09292",
+      "title": "Beyond Accuracy",
+      "slug": "beyond-accuracy-evaluating-strategy-diversity-in-llm-mathematical-reasoning-2605.09292",
+      "url": "https://arxiv.org/abs/2605.09292",
+      "discovered": "2026-06-30T15:30:00+00:00",
+      "theme": "llm-evaluation / strategy-taxonomy / mathematical-reasoning",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.19494",
+      "title": "Hidden Anchors",
+      "slug": "hidden-anchors-in-multi-agent-llm-deliberation-2606.19494",
+      "url": "https://arxiv.org/abs/2606.19494",
+      "discovered": "2026-06-30T15:30:00+00:00",
+      "theme": "multi-agent / belief-revision / opinion-dynamics / deliberation",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -9814,6 +9844,30 @@
       "url": "https://arxiv.org/abs/2509.22315",
       "discovered": "2026-06-30T06:41:00+00:00",
       "theme": "dual-process / System-1 / System-2 / multi-agent-reasoning / memory-planning"
+    },
+    {
+      "arxiv_id": "2603.03330",
+      "title": "Certainty Robustness",
+      "slug": "certainty-robustness-evaluating-llm-stability-under-self-challenging-prompts-2603.03330",
+      "url": "https://arxiv.org/abs/2603.03330",
+      "discovered": "2026-06-30T15:30:00+00:00",
+      "theme": "llm-evaluation / uncertainty / stability-adaptability tradeoff"
+    },
+    {
+      "arxiv_id": "2605.09292",
+      "title": "Beyond Accuracy",
+      "slug": "beyond-accuracy-evaluating-strategy-diversity-in-llm-mathematical-reasoning-2605.09292",
+      "url": "https://arxiv.org/abs/2605.09292",
+      "discovered": "2026-06-30T15:30:00+00:00",
+      "theme": "llm-evaluation / strategy-taxonomy / mathematical-reasoning"
+    },
+    {
+      "arxiv_id": "2606.19494",
+      "title": "Hidden Anchors",
+      "slug": "hidden-anchors-in-multi-agent-llm-deliberation-2606.19494",
+      "url": "https://arxiv.org/abs/2606.19494",
+      "discovered": "2026-06-30T15:30:00+00:00",
+      "theme": "multi-agent / belief-revision / opinion-dynamics / deliberation"
     }
   ],
   "emergent_concept_search_log": [
@@ -15226,6 +15280,18 @@
           "theme": "dual-process / System-1 / System-2 / multi-agent-reasoning / memory-planning"
         }
       ]
+    },
+    {
+      "run_number": 172,
+      "theme": "CERTAINTY ROBUSTNESS / STRATEGY DIVERSITY / BELIEF-REVISION DELIBERATION",
+      "date": "2026-06-30",
+      "papers_found": [
+        "2603.03330",
+        "2605.09292",
+        "2606.19494"
+      ],
+      "method": "web_search emergent-concept search",
+      "vector": "emergent_concept_search"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
