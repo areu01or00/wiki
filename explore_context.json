@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-07-01T05:00:00+00:00",
-  "last_run": 149,
-  "last_explore": "2026-07-01T05:30:00+00:00",
+  "last_run": 150,
+  "last_explore": "2026-07-01T06:00:00+00:00",
   "last_global_explore": "2026-07-01T04:30:00+00:00",
   "last_discovery": "2026-07-01T05:30:00+00:00",
-  "last_run_framing": "KNOWLEDGE-RETENTION + LONG-CONTEXT-FORGING + MULTILINGUAL-UNLEARNING DISCOVERY",
+  "last_run_framing": "LEARNABLE-LATENT-MEMORY + INTERACTIVE-SELF-EVOLUTION + EMBODIED-SPATIAL-MEMORY",
   "last_framing": "KNOWLEDGE-RETENTION + LONG-CONTEXT-FORGING + MULTILINGUAL-UNLEARNING DISCOVERY",
-  "last_run_notes": "Run 149: KNOWLEDGE-RETENTION + LONG-CONTEXT-FORGING + MULTILINGUAL-UNLEARNING DISCOVERY: Optimizer-Model Consistency + SCOUT + Multilingual Unlearning",
+  "last_run_notes": "Run 150: LEARNABLE-LATENT-MEMORY + INTERACTIVE-SELF-EVOLUTION + EMBODIED-SPATIAL-MEMORY: ElasticMem + TabClaw + HoloAgent-0",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 457,
+  "entities_count": 460,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5308,6 +5308,36 @@
       "url": "https://arxiv.org/abs/2606.26982",
       "discovered": "2026-07-01T04:30:00+00:00",
       "theme": "behavioral safety / framing sensitivity / mental health AI / deployment evaluation"
+    },
+    {
+      "arxiv_id": "2605.30690",
+      "title": "ElasticMem: Latent Memory as a Learnable Resource for LLM Agents",
+      "slug": "elasticmem-latent-memory-as-a-learnable-resource-for-llm-agents-2605.30690",
+      "url": "https://arxiv.org/abs/2605.30690",
+      "discovered": "2026-07-01T06:00:00+00:00",
+      "theme": "learnable-latent-memory / agent-memory / parametric-representation",
+      "vector": "emergent-concept-search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.10316",
+      "title": "TabClaw: An Interactive and Self-Evolving Agent for Spreadsheet Manipulation and Table Reasoning",
+      "slug": "tabclaw-an-interactive-and-self-evolving-agent-for-spreadsheet-manipulation-and-table-reasoning-2606.10316",
+      "url": "https://arxiv.org/abs/2606.10316",
+      "discovered": "2026-07-01T06:00:00+00:00",
+      "theme": "interactive-self-evolution / structured-data-reasoning / preference-learning",
+      "vector": "emergent-concept-search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.23565",
+      "title": "HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory",
+      "slug": "holoagent-0-a-unified-embodied-agent-framework-with-3d-spatial-memory-2606.23565",
+      "url": "https://arxiv.org/abs/2606.23565",
+      "discovered": "2026-07-01T06:00:00+00:00",
+      "theme": "embodied-spatial-memory / continuous-representation / physical-agent",
+      "vector": "emergent-concept-search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -13832,6 +13862,52 @@
         }
       ],
       "notes": "Run 149: arxiv HTML 4-query with knowledge/forgetting/retrieval/benchmark keywords; 30 fresh candidates from 123 IDs; 3 structurally orthogonal picks: optimizer-model consistency (fine-tuning knowledge retention), SCOUT (information foraging long-context), multilingual unlearning (cross-lingual forgetting transfer)"
+    },
+    {
+      "run_number": 150,
+      "date": "2026-07-01T06:00:00+00:00",
+      "theme": "learnable-latent-memory / interactive-self-evolution / embodied-spatial-memory",
+      "theme_full": "LEARNABLE-LATENT-MEMORY + INTERACTIVE-SELF-EVOLUTION + EMBODIED-SPATIAL-MEMORY",
+      "rule_codified": null,
+      "num_fresh_candidates": 172,
+      "num_picks": 3,
+      "substrate": "arxiv HTML search 4-query (memory/reasoning/agent/tool keywords)",
+      "queries": [
+        "LLM memory reasoning planning 2026",
+        "LLM safety alignment evaluation 2026",
+        "LLM inference optimization 2026",
+        "LLM agent tool use 2026"
+      ],
+      "picks": [
+        {
+          "arxiv_id": "2605.30690",
+          "title": "ElasticMem: Latent Memory as a Learnable Resource for LLM Agents",
+          "slug": "elasticmem-latent-memory-as-a-learnable-resource-for-llm-agents-2605.30690",
+          "url": "https://arxiv.org/abs/2605.30690",
+          "discovered": "2026-07-01T06:00:00+00:00",
+          "theme": "learnable-latent-memory / agent-memory / parametric-representation",
+          "online_date": "2026-05-16"
+        },
+        {
+          "arxiv_id": "2606.10316",
+          "title": "TabClaw: An Interactive and Self-Evolving Agent for Spreadsheet Manipulation and Table Reasoning",
+          "slug": "tabclaw-an-interactive-and-self-evolving-agent-for-spreadsheet-manipulation-and-table-reasoning-2606.10316",
+          "url": "https://arxiv.org/abs/2606.10316",
+          "discovered": "2026-07-01T06:00:00+00:00",
+          "theme": "interactive-self-evolution / structured-data-reasoning / preference-learning",
+          "online_date": "2026-06-16"
+        },
+        {
+          "arxiv_id": "2606.23565",
+          "title": "HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory",
+          "slug": "holoagent-0-a-unified-embodied-agent-framework-with-3d-spatial-memory-2606.23565",
+          "url": "https://arxiv.org/abs/2606.23565",
+          "discovered": "2026-07-01T06:00:00+00:00",
+          "theme": "embodied-spatial-memory / continuous-representation / physical-agent",
+          "online_date": "2026-06-23"
+        }
+      ],
+      "notes": "Run 150: arxiv HTML 4-query; 194 total IDs from 4 queries, 172 fresh after 5-store dedup; 3 structurally orthogonal picks: ElasticMem (learnable latent memory), TabClaw (interactive self-evolution), HoloAgent-0 (embodied spatial memory)"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
