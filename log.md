@@ -2083,6 +2083,18 @@ Commit: `43762e4` → push succeeded.
 - Run 110 (2026-06-29): BEHAVIORAL-ECONOMICS-PROBE — A Utility-Behavior Gap (2606.22974) + When More Thinking Hurts (2604.10739) + Persona-Conditioned Risk Behavior (2603.15831); HF daily v2 18 papers, 6 LLM-keyword-matched, 3 fresh; 3+2+1 behavioral-economics axis triplet; entities_count=333 reconciled; pitfall-83 streak at 55.
 - Run 128 (2026-06-29): EMERGENT-ADVERSARIAL-DEFENSE-PROBE — Risk Under Pressure (2606.11409) + Disentangling Adversarial Prompts (2605.27823) + Cross-Generational Transfer (2606.00813); web_search 4-query EMERGENT-ADVERSARIAL-DEFENSE-PROBE; 9 fresh from 4 queries; 3+1+0 axis triplet (evaluation-metric + prompt-disentanglement + alignment-regression); entities_count=393 reconciled; wikilinks verified; commit dcb1193.
 
+## 2026-07-02T15:45:00 UTC — Run 205
+
+**Theme**: FINE-TUNING REVERSION / CODE AGENT STRUCTURAL REASONING / AGENT GENERALIZATION BENCHMARKING
+
+**Picks**:
+1. Gravitational Interpretation of Fine-Tuning Reversion (2606.28525) — geometric alignment reversion via v_rev direction in activation space; blocking reduces harmfulness from 19.0% to 8.5%
+2. Deterministic Anchoring (2606.26979) — lightweight static analysis for code agents; structural facts as deterministic anchors halve run-to-run variance
+3. GauntletBench (2606.14397) — agent generalization benchmark on challenging professional applications; frontier agents achieve only 19.1% success vs 80%+ for humans
+
+**Discovery**: HF daily 5 dates (180 papers, 52 fresh after 5-store dedup, 17 LLM-keyword-filtered) → 3 structurally orthogonal picks within alignment/agent evaluation theme.
+
+**Commit**: 3 entity files + emergent-concepts.md Updates + explore_context.json + watch_profiles.json
 ## 2026-06-29 21:30 UTC — Emergent-concept search Run 130 (ADVERSARIAL-OFFENSE-CONTINUATION)
 
 **Mode**: emergent-concept-search via arxiv HTML search 4-query ADVERSARIAL-OFFENSE-CONTINUATION

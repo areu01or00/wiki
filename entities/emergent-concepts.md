@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 205) — FINE-TUNING REVERSION / CODE AGENT STRUCTURAL REASONING / AGENT GENERALIZATION BENCHMARKING**
+
+- [[a-gravitational-interpretation-of-fine-tuning-reversion-2606.28525]]
+  Gravitational Interpretation of Fine-Tuning Reversion: First geometric interpretation of fine-tuning reversion — dominant early pre-training manifolds create persistent reversion components (v_rev) pointing back toward original behaviors; blocking v_rev reduces harmfulness from 19.0% to 8.5% with minimal task cost.
+
+- [[how-much-static-structure-do-code-agents-need-a-study-of-deterministic-anchoring-2606.26979]]
+  Deterministic Anchoring: First analysis of lightweight static analysis as deterministic anchors for code agents — structural facts injected as plain-text comments discipline probabilistic exploration and halve run-to-run variance; lightweight topology is optimal for most repositories.
+
+- [[running-the-gauntlet-re-evaluating-the-capabilities-of-agents-beyond-familiar-environments-2606.14397]]
+  GauntletBench: First comprehensive agent generalization benchmark on challenging professional applications — frontier agents achieve only 19.1% success vs 80%+ for non-expert humans; reveals substantial gap between agent capabilities and complex real-world requirements.
 **2026-06-30 — Run 204) — RLVR EXPERIENCE REPLAY / MULTI-AGENT DEBATE CORRELATION / HALLUCINATION ROTATION DETECTION**
 
 - [[experience-augmented-policy-optimization-for-llm-reasoning-2606.30420]]

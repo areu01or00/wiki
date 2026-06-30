@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 204,
-  "last_explore": "2026-06-30T15:45:00.000000+00:00",
-  "last_global_explore": "2026-06-30T15:45:00.000000+00:00",
-  "last_discovery": "2026-06-30+00:00",
-  "last_run_framing": "GUI GROUNDING / WORLD MODELING DYNAMICS / TEST-TIME COMPUTE",
-  "last_framing": "single-forward GUI grounding / action-conditioned world model dynamics / test-time context augmentation",
-  "last_run_notes": "Run 202: InnerZoom (2606.30084) + A2World (2606.29501) + Decoacted (2604.04373)",
+  "last_run": 205,
+  "last_explore": "2026-07-02T15:45:00.000000+00:00",
+  "last_global_explore": "2026-07-02T15:45:00.000000+00:00",
+  "last_discovery": "2026-07-02+00:00",
+  "last_run_framing": "FINE-TUNING REVERSION / CODE AGENT STRUCTURAL REASONING / AGENT GENERALIZATION BENCHMARKING",
+  "last_framing": "geometric alignment reversion / deterministic anchoring for code agents / agent generalization under unfamiliar environments",
+  "last_run_notes": "Run 205: Gravitational Fine-Tuning Reversion (2606.28525) + Deterministic Anchoring (2606.26979) + GauntletBench (2606.14397)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + web_search emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "gui-grounding / world-modeling / test-time-compute",
   "emergent_theme": "gui-grounding-world-modeling-test-time-compute",
   "chains_updated": 0,
-  "entities_count": 625,
+  "entities_count": 628,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6619,6 +6619,33 @@
       "url": "https://arxiv.org/abs/2606.29545",
       "discovered": "2026-06-30T15:48:51+00:00",
       "theme": "hallucination-rotation-detection"
+    },
+    {
+      "arxiv_id": "2606.28525",
+      "title": "A Gravitational Interpretation of Fine-Tuning Reversion",
+      "slug": "a-gravitational-interpretation-of-fine-tuning-reversion-2606.28525",
+      "url": "https://arxiv.org/abs/2606.28525",
+      "discovered": "2026-07-02T15:45:00.000000+00:00",
+      "theme": "alignment / safety / fine-tuning reversion",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.26979",
+      "title": "How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring",
+      "slug": "how-much-static-structure-do-code-agents-need-a-study-of-deterministic-anchoring-2606.26979",
+      "url": "https://arxiv.org/abs/2606.26979",
+      "discovered": "2026-07-02T15:45:00.000000+00:00",
+      "theme": "code agents / static analysis / deterministic anchoring",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.14397",
+      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "slug": "running-the-gauntlet-re-evaluating-the-capabilities-of-agents-beyond-familiar-environments-2606.14397",
+      "url": "https://arxiv.org/abs/2606.14397",
+      "discovered": "2026-07-02T15:45:00.000000+00:00",
+      "theme": "agent benchmarking / generalization / challenging environments",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -11320,6 +11347,33 @@
       "url": "https://arxiv.org/abs/2606.29545",
       "discovered": "2026-06-30T15:48:51+00:00",
       "theme": "hallucination-rotation-detection"
+    },
+    {
+      "arxiv_id": "2606.28525",
+      "title": "A Gravitational Interpretation of Fine-Tuning Reversion",
+      "slug": "a-gravitational-interpretation-of-fine-tuning-reversion-2606.28525",
+      "url": "https://arxiv.org/abs/2606.28525",
+      "discovered": "2026-07-02T15:45:00.000000+00:00",
+      "theme": "alignment / safety / fine-tuning reversion",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.26979",
+      "title": "How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring",
+      "slug": "how-much-static-structure-do-code-agents-need-a-study-of-deterministic-anchoring-2606.26979",
+      "url": "https://arxiv.org/abs/2606.26979",
+      "discovered": "2026-07-02T15:45:00.000000+00:00",
+      "theme": "code agents / static analysis / deterministic anchoring",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.14397",
+      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "slug": "running-the-gauntlet-re-evaluating-the-capabilities-of-agents-beyond-familiar-environments-2606.14397",
+      "url": "https://arxiv.org/abs/2606.14397",
+      "discovered": "2026-07-02T15:45:00.000000+00:00",
+      "theme": "agent benchmarking / generalization / challenging environments",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_concept_search_log": [
@@ -17212,6 +17266,24 @@
         "2606.30420",
         "2606.29270",
         "2606.29545"
+      ]
+    },
+    {
+      "run": 205,
+      "date": "2026-07-02",
+      "picks": [
+        "2606.28525",
+        "2606.26979",
+        "2606.14397"
+      ],
+      "theme": "FINE-TUNING REVERSION / CODE AGENT STRUCTURAL REASONING / AGENT GENERALIZATION BENCHMARKING",
+      "framing": "geometric alignment reversion / deterministic anchoring / agent generalization under unfamiliar environments",
+      "papers_added": 3,
+      "method": "HF daily + arxiv HTML emergent-concept discovery",
+      "added": [
+        "a-gravitational-interpretation-of-fine-tuning-reversion-2606.28525",
+        "how-much-static-structure-do-code-agents-need-a-study-of-deterministic-anchoring-2606.26979",
+        "running-the-gauntlet-re-evaluating-the-capabilities-of-agents-beyond-familiar-environments-2606.14397"
       ]
     }
   ],
