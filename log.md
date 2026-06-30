@@ -1,3 +1,18 @@
+## Run 191 — 2026-07-02
+
+**Theme**: FUNCTIONAL ENTROPY UQ / BEHAVIORAL CALIBRATION / INTERACTIONAL ALIGNMENT FAILURES
+
+**Picks**:
+1. Functional Entropy (2605.28500) — Uncertainty quantification for functional correctness in LLM-generated code; functional entropy outperforms token/sequence entropy; CQR-UQ post-hoc calibration
+2. CaliDist (2606.05799) — Behavioral robustness to distraction as calibration axis; models with high standard calibration poorly calibrated under semantically distracting inputs
+3. LCAM (2606.08131) — Interactional alignment failures diagnostic framework; authority framing, uncertainty expression, reassurance quality, decision influence axes
+
+**Method**: arxiv HTML search 4-query (uncertainty calibration + mechanistic interpretability + persistent memory + constitutional AI axes) → 200 IDs, 181 fresh after 5-store dedup
+**Orthogonality**: Run 190 used RL shortcut detection + Pair-GRPO + Hindsight reasoning distillation; Run 191 pivots to uncertainty quantification methodology + behavioral calibration + interactional alignment diagnostic — structurally orthogonal axes
+
+**Discovery**: arxiv HTML search (181 fresh IDs from 4 queries); 3 picked for functional entropy UQ methodology + behavioral calibration robustness + interactional alignment diagnostic framing
+---
+
 
 ## Run 183 — 2026-06-30
 

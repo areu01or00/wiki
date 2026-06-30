@@ -2,15 +2,15 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-30T11:03:53.649968+00:00",
-  "__last_updated": "2026-06-30T11:59:29.718068+00:00",
-  "last_run": 190,
+  "updated": "2026-07-02T12:30:00.000000+00:00",
+  "__last_updated": "2026-07-02T12:30:00.000000+00:00",
+  "last_run": 191,
   "last_explore": "2026-07-02T11:40:00.000000+00:00",
   "last_global_explore": "2026-07-02T11:40:00.000000+00:00",
   "last_discovery": "2026-07-02+00:00",
-  "last_run_framing": "RL SHORTCUT DETECTION / PAIR-GRPO STABLE ALIGNMENT / HINDSIGHT REASONING DISTILLATION",
-  "last_framing": "RL shortcut detection / Pair-GRPO stable alignment / Hindsight reasoning distillation",
-  "last_run_notes": "Run 189: Hint-Anchored Reasoning (2606.29481) + AURA LLM-as-Judge (2606.19714) + HMARS Multi-Agent Memory (2606.28349)",
+  "last_run_framing": "FUNCTIONAL ENTROPY UQ / BEHAVIORAL CALIBRATION / INTERACTIONAL ALIGNMENT FAILURES",
+  "last_framing": "functional entropy UQ / behavioral calibration / interactional alignment failures",
+  "last_run_notes": "Run 191: Functional Entropy UQ (2605.28500) + CaliDist Behavioral Calibration (2606.05799) + LCAM Interactional Alignment (2606.08131)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + web_search orthogonal emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "evaluation / efficiency / benchmarking",
   "emergent_theme": "evaluation-efficiency",
   "chains_updated": 0,
-  "entities_count": 583,
+  "entities_count": 586,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6316,6 +6316,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-30T11:59:29.717451+00:00",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.28500",
+      "title": "Functional Entropy: Predicting Functional Correctness in LLM-Generated Code with Uncertainty Quantification",
+      "slug": "functional-entropy-predicting-functional-correctness-in-llm-generated-code-with-uncertainty-quantification-2605.28500",
+      "url": "https://arxiv.org/abs/2605.28500",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T12:30:00.000000+00:00",
+      "theme": "uncertainty-quantification / code-generation / functional-correctness",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.05799",
+      "title": "CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction",
+      "slug": "calidist-calibrating-large-language-models-via-behavioral-robustness-to-distraction-2606.05799",
+      "url": "https://arxiv.org/abs/2606.05799",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T12:30:00.000000+00:00",
+      "theme": "calibration / behavioral-robustness / distraction",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.08131",
+      "title": "LCAM: A Framework for Diagnosing Interactional Alignment Failures in Conversational AI",
+      "slug": "lcam-a-framework-for-diagnosing-interactional-alignment-failures-in-conversational-ai-2606.08131",
+      "url": "https://arxiv.org/abs/2606.08131",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T12:30:00.000000+00:00",
+      "theme": "alignment / conversational-AI / interactional-failures",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -10704,6 +10734,30 @@
       "url": "https://arxiv.org/abs/2603.10359",
       "discovered": "2026-06-30T11:59:29.717451+00:00",
       "theme": "Reasoning distillation / Hindsight entropy / teacher-student capability transfer"
+    },
+    {
+      "arxiv_id": "2605.28500",
+      "title": "Functional Entropy: Predicting Functional Correctness in LLM-Generated Code with Uncertainty Quantification",
+      "slug": "functional-entropy-predicting-functional-correctness-in-llm-generated-code-with-uncertainty-quantification-2605.28500",
+      "url": "https://arxiv.org/abs/2605.28500",
+      "discovered": "2026-07-02T12:30:00.000000+00:00",
+      "theme": "uncertainty-quantification / code-generation / functional-correctness"
+    },
+    {
+      "arxiv_id": "2606.05799",
+      "title": "CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction",
+      "slug": "calidist-calibrating-large-language-models-via-behavioral-robustness-to-distraction-2606.05799",
+      "url": "https://arxiv.org/abs/2606.05799",
+      "discovered": "2026-07-02T12:30:00.000000+00:00",
+      "theme": "calibration / behavioral-robustness / distraction"
+    },
+    {
+      "arxiv_id": "2606.08131",
+      "title": "LCAM: A Framework for Diagnosing Interactional Alignment Failures in Conversational AI",
+      "slug": "lcam-a-framework-for-diagnosing-interactional-alignment-failures-in-conversational-ai-2606.08131",
+      "url": "https://arxiv.org/abs/2606.08131",
+      "discovered": "2026-07-02T12:30:00.000000+00:00",
+      "theme": "alignment / conversational-AI / interactional-failures"
     }
   ],
   "emergent_concept_search_log": [
@@ -13496,6 +13550,11 @@
       "rule": "Rule 107/108/109",
       "candidates_considered": 31,
       "picks": 3
+    },
+    {
+      "run": 191,
+      "timestamp": "2026-07-02T12:30:00.000000+00:00",
+      "theme": "uncertainty-calibration / interactional-alignment / code-generation"
     }
   ],
   "runs": [
@@ -16403,6 +16462,17 @@
       ],
       "method": "arxiv HTML 4-query + web_search orthogonal emergent-concept discovery",
       "framing": "RL SHORTCUT DETECTION / PAIR-GRPO STABLE ALIGNMENT / HINDSIGHT REASONING DISTILLATION"
+    },
+    {
+      "run": 191,
+      "timestamp": "2026-07-02T12:30:00.000000+00:00",
+      "framing": "FUNCTIONAL ENTROPY UQ / BEHAVIORAL CALIBRATION / INTERACTIONAL ALIGNMENT FAILURES",
+      "picks": [
+        "2605.28500",
+        "2606.05799",
+        "2606.08131"
+      ],
+      "method": "arxiv HTML 4-query + web_search orthogonal emergent-concept discovery"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

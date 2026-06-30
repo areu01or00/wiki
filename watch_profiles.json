@@ -1246,7 +1246,10 @@
         "ff1e8b3ddd9f61bb37ed1663c658a1e1",
         "2606.09092",
         "2605.06375",
-        "2603.10359"
+        "2603.10359",
+        "d28b0bd9b7b1a6d59e35c8d1da4bc7b9",
+        "a0af4e8804d7cf627af162e2258db1bb",
+        "722bbf24c17b333313d62e6ff84a3989"
       ],
       "last_results": [
         {
@@ -4638,6 +4641,33 @@
           "chain": "emergent-concepts",
           "theme": "multi-agent memory / long-context reasoning / hierarchical memory",
           "discovered": "2026-07-02T11:40:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2605.28500",
+          "title": "Functional Entropy: Predicting Functional Correctness in LLM-Generated Code with Uncertainty Quantification",
+          "hash": "d28b0bd9b7b1a6d59e35c8d1da4bc7b9",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "uncertainty-quantification / code-generation / functional-correctness",
+          "discovered": "2026-07-02T12:30:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2606.05799",
+          "title": "CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction",
+          "hash": "a0af4e8804d7cf627af162e2258db1bb",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "calibration / behavioral-robustness / distraction",
+          "discovered": "2026-07-02T12:30:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2606.08131",
+          "title": "LCAM: A Framework for Diagnosing Interactional Alignment Failures in Conversational AI",
+          "hash": "722bbf24c17b333313d62e6ff84a3989",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "alignment / conversational-AI / interactional-failures",
+          "discovered": "2026-07-02T12:30:00.000000+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5218,7 +5248,10 @@
     "ff1e8b3ddd9f61bb37ed1663c658a1e1",
     "2606.09092",
     "2605.06375",
-    "2603.10359"
+    "2603.10359",
+    "d28b0bd9b7b1a6d59e35c8d1da4bc7b9",
+    "a0af4e8804d7cf627af162e2258db1bb",
+    "722bbf24c17b333313d62e6ff84a3989"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -5792,7 +5825,10 @@
       "ff1e8b3ddd9f61bb37ed1663c658a1e1",
       "2606.09092",
       "2605.06375",
-      "2603.10359"
+      "2603.10359",
+      "d28b0bd9b7b1a6d59e35c8d1da4bc7b9",
+      "a0af4e8804d7cf627af162e2258db1bb",
+      "722bbf24c17b333313d62e6ff84a3989"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
