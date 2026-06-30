@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 209,
-  "last_explore": "2026-07-02T18:00:00.000000+00:00",
-  "last_global_explore": "2026-07-02T18:00:00.000000+00:00",
+  "last_run": 210,
+  "last_explore": "2026-06-30T17:49:00.519243+00:00",
+  "last_global_explore": "2026-06-30T17:49:00.519262+00:00",
   "last_discovery": "2026-07-02+00:00",
-  "last_run_framing": "MULTIMODAL RLHF DISTILLATION / SPARSE ATTENTION EFFICIENCY / TOOL-USE RL COLLAPSE",
-  "last_framing": "multimodal rlhf distillation / sparse attention efficiency / tool-use rl collapse",
-  "last_run_notes": "Run 209: Qwen-Image-2.0-RL (2606.27608) + Simplified Sparse Attention (2604.20920) + Tool-Use RL Collapse (2606.26027)",
+  "last_run_framing": "CONVERSATIONAL ESCALATION NVC / KNOWLEDGE GRAPH GROUNDING UNDER INCOMPLETENESS / ON-POLICY SELF-DISTILLATION DIVERSITY COLLAPSE",
+  "last_framing": "conversational escalation nvc / knowledge graph grounding / on-policy self-distillation diversity collapse",
+  "last_run_notes": "Run 210: NVC De-escalation (2606.26106) + KG Grounding Incompleteness (2606.30247) + Self-Distillation Diversity Collapse (2606.26091)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + web_search emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "gui-grounding / world-modeling / test-time-compute",
-  "emergent_theme": "gui-grounding-world-modeling-test-time-compute",
+  "emergent_concept_theme": "conversational safety / knowledge graph grounding / self-distillation diversity",
+  "emergent_theme": "conversational-safety-knowledge-graph-grounding-self-distillation",
   "chains_updated": 0,
-  "entities_count": 639,
+  "entities_count": 642,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6691,7 +6691,10 @@
     },
     "2606.27608",
     "2604.20920",
-    "2606.26027"
+    "2606.26027",
+    "2606.26106",
+    "2606.30247",
+    "2606.26091"
   ],
   "emergent_discoveries": [
     {
@@ -11515,6 +11518,30 @@
       "url": "https://arxiv.org/abs/2606.26027",
       "discovered": "2026-06-30",
       "theme": "tool-use-rl-collapse"
+    },
+    {
+      "arxiv_id": "2606.26106",
+      "title": "Reducing Conversational Escalation in Large Language Model Dialogue with Nonviolent Communication Constraints",
+      "slug": "reducing-conversational-escalation-llm-dialogue-nonviolent-communication-constraints-2606.26106",
+      "url": "https://arxiv.org/abs/2606.26106",
+      "discovered": "2026-06-30T17:49:00.519310+00:00",
+      "theme": "conversational safety / knowledge graph grounding / self-distillation diversity"
+    },
+    {
+      "arxiv_id": "2606.30247",
+      "title": "Grounding LLM Reasoning under Incomplete Graph Evidence",
+      "slug": "grounding-llm-reasoning-under-incomplete-graph-evidence-2606.30247",
+      "url": "https://arxiv.org/abs/2606.30247",
+      "discovered": "2026-06-30T17:49:00.519316+00:00",
+      "theme": "conversational safety / knowledge graph grounding / self-distillation diversity"
+    },
+    {
+      "arxiv_id": "2606.26091",
+      "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+      "slug": "on-policy-self-distillation-sampled-demonstrations-reduces-output-diversity-2606.26091",
+      "url": "https://arxiv.org/abs/2606.26091",
+      "discovered": "2026-06-30T17:49:00.519324+00:00",
+      "theme": "conversational safety / knowledge graph grounding / self-distillation diversity"
     }
   ],
   "emergent_concept_search_log": [
@@ -17478,6 +17505,17 @@
       ],
       "run_method": "emergent-concept-search-via-hf-daily",
       "discovered": "2026-06-30"
+    },
+    {
+      "run_number": 210,
+      "date": "2026-07-02",
+      "theme": "conversational safety / knowledge graph grounding / self-distillation diversity",
+      "picks": [
+        "2606.26106",
+        "2606.30247",
+        "2606.26091"
+      ],
+      "framing": "CONVERSATIONAL ESCALATION NVC / KNOWLEDGE GRAPH GROUNDING UNDER INCOMPLETENESS / ON-POLICY SELF-DISTILLATION DIVERSITY COLLAPSE"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 210) — CONVERSATIONAL ESCALATION NVC / KNOWLEDGE GRAPH GROUNDING UNDER INCOMPLETENESS / ON-POLICY SELF-DISTILLATION DIVERSITY COLLAPSE**
+
+- [[reducing-conversational-escalation-llm-dialogue-nonviolent-communication-constraints-2606.26106]]
+  Conversational Escalation NVC: First systematic study of LLM de-escalation via Nonviolent Communication constraints — reformulates NVC principles as process-oriented guidelines that discourage blame attribution and encourage clarification before advice; dual-agent simulation shows significant escalatory-response reduction while maintaining helpfulness.
+
+- [[grounding-llm-reasoning-under-incomplete-graph-evidence-2606.30247]]
+  KG Grounding Under Incompleteness: First theoretical no-free-lunch characterization of LLM reasoning grounding under incomplete knowledge graph evidence — shows no hard rule can simultaneously reject false and retain true unobserved trajectories; soft grounding via KL-regularized deformation of LLM prior.
+
+- [[on-policy-self-distillation-sampled-demonstrations-reduces-output-diversity-2606.26091]]
+  Self-Distillation Diversity Collapse: First characterization of diversity-accuracy tradeoff in on-policy self-distillation — rollout diversity decreases and pass@k curves flatten; root cause is compounding bias where teacher is conditioned on sampled correct rollouts.
+
 **2026-07-02 — Run 209) — MULTIMODAL RLHF DISTILLATION / SPARSE ATTENTION EFFICIENCY / TOOL-USE RL COLLAPSE**
 
 - [[qwen-image-20-rl-technical-report-2606.27608]]
