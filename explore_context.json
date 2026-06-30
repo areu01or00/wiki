@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-07-02T12:30:00.000000+00:00",
-  "last_run": 191,
+  "last_run": 192,
   "last_explore": "2026-07-02T11:40:00.000000+00:00",
   "last_global_explore": "2026-07-02T11:40:00.000000+00:00",
   "last_discovery": "2026-07-02+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "evaluation / efficiency / benchmarking",
   "emergent_theme": "evaluation-efficiency",
   "chains_updated": 0,
-  "entities_count": 586,
+  "entities_count": 589,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6346,6 +6346,30 @@
       "discovered": "2026-07-02T12:30:00.000000+00:00",
       "theme": "alignment / conversational-AI / interactional-failures",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.29713",
+      "title": "SEVA: Self-Evolving Verification Agent with Process Reward for Fact Attribution",
+      "slug": "seva-self-evolving-verification-agent-process-reward-fact-attribution-2606.29713",
+      "url": "https://arxiv.org/abs/2606.29713",
+      "discovered": "2026-06-30T12:37:06.363931+00:00",
+      "theme": "process reward / verification / formal reasoning"
+    },
+    {
+      "arxiv_id": "2606.20068",
+      "title": "Process-Verified Reinforcement Learning for Theorem Proving via Lean",
+      "slug": "process-verified-reinforcement-theorem-proving-lean-2606.20068",
+      "url": "https://arxiv.org/abs/2606.20068",
+      "discovered": "2026-06-30T12:37:06.363931+00:00",
+      "theme": "process reward / verification / formal reasoning"
+    },
+    {
+      "arxiv_id": "2606.01091",
+      "title": "Deep Research as Rubric for Reinforcement Learning",
+      "slug": "rubric-reinforcement-2606.01091",
+      "url": "https://arxiv.org/abs/2606.01091",
+      "discovered": "2026-06-30T12:37:06.363931+00:00",
+      "theme": "process reward / verification / formal reasoning"
     }
   ],
   "emergent_discoveries": [
@@ -10758,6 +10782,30 @@
       "url": "https://arxiv.org/abs/2606.08131",
       "discovered": "2026-07-02T12:30:00.000000+00:00",
       "theme": "alignment / conversational-AI / interactional-failures"
+    },
+    {
+      "arxiv_id": "2606.29713",
+      "title": "SEVA: Self-Evolving Verification Agent with Process Reward for Fact Attribution",
+      "slug": "seva-self-evolving-verification-agent-process-reward-fact-attribution-2606.29713",
+      "url": "https://arxiv.org/abs/2606.29713",
+      "discovered": "2026-06-30T12:37:06.363931+00:00",
+      "theme": "process reward / verification / formal reasoning"
+    },
+    {
+      "arxiv_id": "2606.20068",
+      "title": "Process-Verified Reinforcement Learning for Theorem Proving via Lean",
+      "slug": "process-verified-reinforcement-theorem-proving-lean-2606.20068",
+      "url": "https://arxiv.org/abs/2606.20068",
+      "discovered": "2026-06-30T12:37:06.363931+00:00",
+      "theme": "process reward / verification / formal reasoning"
+    },
+    {
+      "arxiv_id": "2606.01091",
+      "title": "Deep Research as Rubric for Reinforcement Learning",
+      "slug": "rubric-reinforcement-2606.01091",
+      "url": "https://arxiv.org/abs/2606.01091",
+      "discovered": "2026-06-30T12:37:06.363931+00:00",
+      "theme": "process reward / verification / formal reasoning"
     }
   ],
   "emergent_concept_search_log": [
@@ -16473,6 +16521,20 @@
         "2606.08131"
       ],
       "method": "arxiv HTML 4-query + web_search orthogonal emergent-concept discovery"
+    },
+    {
+      "run_number": 192,
+      "theme": "structured verification / formal reasoning process oracle / rubric construction",
+      "framing": "structured verification / formal reasoning process oracle / rubric construction",
+      "timestamp": "2026-06-30T12:37:06.363931+00:00",
+      "vectors_explored": [
+        "emergent-concept"
+      ],
+      "papers_found": [
+        "2606.29713",
+        "2606.20068",
+        "2606.01091"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

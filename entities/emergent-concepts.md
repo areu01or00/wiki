@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 192) — STRUCTURED VERIFICATION / FORMAL REASONING PROCESS ORACLE / RUBRIC CONSTRUCTION**
+
+- [[seva-self-evolving-verification-agent-process-reward-fact-attribution-2606.29713]]
+  SEVA: Self-Evolving Verification Agent with Process Reward for Fact Attribution — First structured verification agent with 5-component process reward; GRPO gradient restoration via 70/30 process/outcome weighting; benchmark-specialist emergence (generalist not reached at 4x data); ClearFacts 3B matches GPT-4o-mini F1; orthogonal to existing PRM/verification axes.
+- [[process-verified-reinforcement-theorem-proving-lean-2606.20068]]
+  Process-VR: Lean as Process-Level Reward Oracle for Theorem Proving — First use of Lean proof assistant as symbolic process oracle during RL training; tactic-level vs outcome-level advantage comparison; first-error propagation + first-token credit; orthogonal to existing PRM/theorem-proving axes.
+- [[rubric-reinforcement-2606.01091]]
+  DR-Rubric: Deep Research as Rubric for GRPO — Rubric construction reframed as evidence-driven research process; Stage I agentic search + Stage II GRPO constraint distillation; bootstrap self-rubric generation without frontier model; orthogonal to verification and formal-reasoning axes.
+
+
 **2026-07-02 — Run 190) — RL SHORTCUT DETECTION / PAIR-GRPO STABLE ALIGNMENT / HINDSIGHT REASONING DISTILLATION**
 
 - [[shortcuts-reasoning-robust-post-training-theory-mind-reinforcement-learning-2606.09092]]
