@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 174,
-  "last_explore": "2026-06-30T21:00:00+00:00",
+  "last_run": 175,
+  "last_explore": "2026-07-01T13:00:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-06-30T21:00:00+00:00",
-  "last_run_framing": "PROBING METHODOLOGY / PROMPT-STEERING GEOMETRY / ICA INTERPRETABILITY",
+  "last_discovery": "2026-07-01T13:00:00+00:00",
+  "last_run_framing": "KNOWLEDGE UPDATE ARCHITECTURE / RL vs SFT PARADIGM COMPARISON / MID-REASONING INSTABILITY DETECTION",
   "last_framing": "COGNITIVE-ARCHITECTURE + METACOGNITION + SYMBOLIC PLANNING",
   "last_run_notes": "Run 174: Linear Probes (2606.02907) + ICA Lens (2606.11722) + Decomposing Prompting (2606.03093)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search",
+  "last_run_method": "arxiv HTML search (4 queries: fine-tune-generalization + catastrophic-forgetting + domain-adaptation-ood + ft-sample-efficiency) \u2192 68 IDs \u2192 65 fresh after 5-store dedup",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "cognitive-architecture / metacognitive-reasoning / symbolic-planning",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 535,
+  "entities_count": 538,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5905,7 +5905,19 @@
     },
     "linguistic-firewall-geometry-defense-multi-agent-systems-routing-2606.30555-2606.30555",
     "the-mirage-of-optimizing-training-policies-2606.29526-2606.29526",
-    "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354"
+    "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354",
+    {
+      "arxiv_id": "2606.15778",
+      "slug": "dyna-dynamic-episodic-memory-networks-for-augmenting-large-language-models-with-temporal-knowledge-graphs-in-continuous-learning-2606.15778"
+    },
+    {
+      "arxiv_id": "2602.03073",
+      "slug": "tms-trajectory-mixed-supervision-for-reward-free-on-policy-sft-2602.03073"
+    },
+    {
+      "arxiv_id": "2602.02863",
+      "slug": "i-may-not-have-articulated-myself-clearly-diagnosing-dynamic-instability-in-llm-reasoning-at-inference-time-2602.02863"
+    }
   ],
   "emergent_discoveries": [
     {
@@ -9919,6 +9931,30 @@
       "url": "https://arxiv.org/abs/2606.03093",
       "discovered": "2026-06-30T21:00:00+00:00",
       "theme": "prompt steering / representational geometry"
+    },
+    {
+      "arxiv_id": "2606.15778",
+      "title": "DYNA: Dynamic Episodic Memory Networks for Augmenting Large Language Models with Temporal Knowledge Graphs in Continuous Learning",
+      "slug": "dyna-dynamic-episodic-memory-networks-for-augmenting-large-language-models-with-temporal-knowledge-graphs-in-continuous-learning-2606.15778",
+      "url": "https://arxiv.org/abs/2606.15778",
+      "discovered": "2026-07-01T13:00:00+00:00",
+      "theme": "knowledge update / temporal knowledge graph / continual learning / frozen LLM augmentation"
+    },
+    {
+      "arxiv_id": "2602.03073",
+      "title": "TMS: Trajectory-Mixed Supervision for Reward-Free, On-Policy SFT",
+      "slug": "tms-trajectory-mixed-supervision-for-reward-free-on-policy-sft-2602.03073",
+      "url": "https://arxiv.org/abs/2602.03073",
+      "discovered": "2026-07-01T13:00:00+00:00",
+      "theme": "RL vs SFT comparison / on-policy training / supervision mismatch / reward-free fine-tuning"
+    },
+    {
+      "arxiv_id": "2602.02863",
+      "title": "I May Not Have Articulated Myself Clearly: Diagnosing Dynamic Instability in LLM Reasoning at Inference Time",
+      "slug": "i-may-not-have-articulated-myself-clearly-diagnosing-dynamic-instability-in-llm-reasoning-at-inference-time-2602.02863",
+      "url": "https://arxiv.org/abs/2602.02863",
+      "discovered": "2026-07-01T13:00:00+00:00",
+      "theme": "reasoning reliability / mid-chain instability detection / JSD entropy / inference-time diagnostics"
     }
   ],
   "emergent_concept_search_log": [
@@ -15369,6 +15405,18 @@
       ],
       "method": "arxiv HTML search + web_search",
       "timestamp": "2026-06-30T21:00:00+00:00"
+    },
+    {
+      "run": 175,
+      "timestamp": "2026-07-01T13:00:00+00:00",
+      "framing": "KNOWLEDGE UPDATE ARCHITECTURE / RL vs SFT PARADIGM COMPARISON / MID-REASONING INSTABILITY DETECTION",
+      "method": "arxiv HTML search 4-query",
+      "theme": "knowledge-update / rl-vs-sft / reasoning-instability-detection",
+      "papers_added": [
+        "2606.15778",
+        "2602.03073",
+        "2602.02863"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 175) — KNOWLEDGE UPDATE ARCHITECTURE / RL vs SFT PARADIGM COMPARISON / MID-REASONING INSTABILITY DETECTION DISCOVERY**
+
+- [[dyna-dynamic-episodic-memory-networks-for-augmenting-large-language-models-with-temporal-knowledge-graphs-in-continuous-learning-2606.15778]] — DYNA: Dynamic Episodic Memory Networks — temporal knowledge graph as external episodic memory for frozen LLMs; random walk + centrality retrieval augments LLM responses without gradient updates; addresses knowledge obsolescence and catastrophic forgetting simultaneously; first temporal knowledge graph as frozen-LLM memory in the wiki; 2606.15778.
+- [[tms-trajectory-mixed-supervision-for-reward-free-on-policy-sft-2602.03073]] — TMS: Trajectory-Mixed Supervision — reward-free on-policy SFT bridging RL vs SFT paradigm gap via trajectory mixing; addresses Supervision Mismatch (SFT brittleness from static expert data distribution); eliminates reward engineering while retaining RL-like capability retention; first reward-free on-policy SFT via trajectory mixing in the wiki; 2602.03073.
+- [[i-may-not-have-articulated-myself-clearly-diagnosing-dynamic-instability-in-llm-reasoning-at-inference-time-2602.02863]] — Reasoning Instability Detection — mid-chain reasoning breakdown detection via JSD consecutive-step distributional shift + entropy; uses only inference-time API observables (logprobs); detects failures before wrong final answer; first mid-reasoning instability detection via JSD + entropy in the wiki; 2602.02863.
+
 **2026-06-30 — Run 174) — PROBING METHODOLOGY / PROMPT-STEERING GEOMETRY / ICA INTERPRETABILITY DISCOVERY**
 
 - [[linear-probes-detect-task-format-not-reasoning-mode-in-language-model-hidden-states-2606.02907]] — Linear Probes Detect Task Format, Not Reasoning Mode, in Language Model Hidden States — rigorous test of linear probing for reasoning-mode detection across deductive/inductive/abductive benchmarks; found apparent geometric separation entirely driven by format confounds; first paper demonstrating linear-probe geometry does NOT track reasoning mode in LLM hidden states; 2606.02907.
