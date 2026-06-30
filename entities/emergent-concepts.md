@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 190) — RL SHORTCUT DETECTION / PAIR-GRPO STABLE ALIGNMENT / HINDSIGHT REASONING DISTILLATION**
+
+- [[shortcuts-reasoning-robust-post-training-theory-mind-reinforcement-learning-2606.09092]] — From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with RL; first systematic identification of shortcut artifacts in RL-based ToM post-training; published ToM gains confounded by task pattern exploitation; robust post-training methodology controls for shortcut artifacts; first RL shortcut detection for ToM post-training in the wiki; 2606.09092.
+- [[unified-pair-grpo-family-implicit-explicit-preference-constraints-stable-general-alignment-2605.06375]] — Pair-GRPO Family: Unified framework for stable RL alignment via implicit-to-explicit preference constraints; addresses RLHF instability through explicit constraint formulation; reduces gradient variance in pairwise preference learning; first unified Pair-GRPO framework in the wiki; 2605.06375.
+- [[heal-hindsight-entropy-assisted-learning-reasoning-distillation-2603.10359]] — HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation; overcomes static-filter limitation of standard rejection sampling in LRM-to-LM distillation; hindsight entropy enables teacher to recover from failure cases on corner problems; first hindsight entropy reasoning distillation in the wiki; 2603.10359.
+
 **2026-07-02 — Run 189) — REASONING SHORTCUTS / LLM-AS-JUDGE AUDITING / HIERARCHICAL MULTI-AGENT MEMORY**
 
 - [[hint-anchored-reasoning-without-shortcuts-2606.29481]] — Hint-Anchored Reasoning: First systematic study of Pre-RL data overlap as a distinct RL shortcut failure mode; models exploit memorization shortcuts by memorizing correct answers and fabricating post-hoc reasoning; hint-anchored pairwise aggregation detects and corrects shortcut exploitation; first RL reasoning shortcut detection paper in the wiki; 2606.29481.

@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T11:03:53.649968+00:00",
-  "__last_updated": "2026-06-30T11:03:53.649968+00:00",
-  "last_run": 189,
+  "__last_updated": "2026-06-30T11:59:29.718068+00:00",
+  "last_run": 190,
   "last_explore": "2026-07-02T11:40:00.000000+00:00",
   "last_global_explore": "2026-07-02T11:40:00.000000+00:00",
   "last_discovery": "2026-07-02+00:00",
-  "last_run_framing": "REASONING SHORTCUTS / LLM-AS-JUDGE AUDITING / HIERARCHICAL MULTI-AGENT MEMORY",
-  "last_framing": "reasoning shortcuts / LLM judge evaluation / multi-agent memory",
+  "last_run_framing": "RL SHORTCUT DETECTION / PAIR-GRPO STABLE ALIGNMENT / HINDSIGHT REASONING DISTILLATION",
+  "last_framing": "RL shortcut detection / Pair-GRPO stable alignment / Hindsight reasoning distillation",
   "last_run_notes": "Run 189: Hint-Anchored Reasoning (2606.29481) + AURA LLM-as-Judge (2606.19714) + HMARS Multi-Agent Memory (2606.28349)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search 4-query + arxiv HTML emergent-concept discovery",
+  "last_run_method": "arxiv HTML 4-query + web_search orthogonal emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "evaluation / efficiency / benchmarking",
   "emergent_theme": "evaluation-efficiency",
   "chains_updated": 0,
-  "entities_count": 580,
+  "entities_count": 583,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6286,6 +6286,36 @@
       "vector": "multi-agent memory systems",
       "discovered": "2026-07-02T11:40:00.000000+00:00",
       "theme": "multi-agent memory / long-context reasoning / hierarchical memory"
+    },
+    {
+      "arxiv_id": "2606.09092",
+      "title": "From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning",
+      "slug": "shortcuts-reasoning-robust-post-training-theory-mind-reinforcement-learning-2606.09092",
+      "url": "https://arxiv.org/abs/2606.09092",
+      "theme": "RL shortcut detection / ToM post-training / robust fine-tuning",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T11:59:29.717436+00:00",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.06375",
+      "title": "A Unified Pair-GRPO Family: From Implicit to Explicit Preference Constraints for Stable and General RL Alignment",
+      "slug": "unified-pair-grpo-family-implicit-explicit-preference-constraints-stable-general-alignment-2605.06375",
+      "url": "https://arxiv.org/abs/2605.06375",
+      "theme": "RLHF stability / Pair-GRPO / preference constraint optimization",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T11:59:29.717449+00:00",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2603.10359",
+      "title": "HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation",
+      "slug": "heal-hindsight-entropy-assisted-learning-reasoning-distillation-2603.10359",
+      "url": "https://arxiv.org/abs/2603.10359",
+      "theme": "Reasoning distillation / Hindsight entropy / teacher-student capability transfer",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T11:59:29.717451+00:00",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -10650,6 +10680,30 @@
       "url": "https://arxiv.org/abs/2606.28349",
       "discovered": "2026-07-02T11:40:00.000000+00:00",
       "theme": "multi-agent memory / long-context reasoning / hierarchical memory"
+    },
+    {
+      "arxiv_id": "2606.09092",
+      "title": "From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning",
+      "slug": "shortcuts-reasoning-robust-post-training-theory-mind-reinforcement-learning-2606.09092",
+      "url": "https://arxiv.org/abs/2606.09092",
+      "discovered": "2026-06-30T11:59:29.717436+00:00",
+      "theme": "RL shortcut detection / ToM post-training / robust fine-tuning"
+    },
+    {
+      "arxiv_id": "2605.06375",
+      "title": "A Unified Pair-GRPO Family: From Implicit to Explicit Preference Constraints for Stable and General RL Alignment",
+      "slug": "unified-pair-grpo-family-implicit-explicit-preference-constraints-stable-general-alignment-2605.06375",
+      "url": "https://arxiv.org/abs/2605.06375",
+      "discovered": "2026-06-30T11:59:29.717449+00:00",
+      "theme": "RLHF stability / Pair-GRPO / preference constraint optimization"
+    },
+    {
+      "arxiv_id": "2603.10359",
+      "title": "HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation",
+      "slug": "heal-hindsight-entropy-assisted-learning-reasoning-distillation-2603.10359",
+      "url": "https://arxiv.org/abs/2603.10359",
+      "discovered": "2026-06-30T11:59:29.717451+00:00",
+      "theme": "Reasoning distillation / Hindsight entropy / teacher-student capability transfer"
     }
   ],
   "emergent_concept_search_log": [
@@ -16337,6 +16391,18 @@
         "2606.28349"
       ],
       "added": 3
+    },
+    {
+      "run": 190,
+      "date": "2026-06-30",
+      "theme": "RL shortcut detection / Pair-GRPO stable alignment / Hindsight reasoning distillation",
+      "picks": [
+        "2606.09092",
+        "2605.06375",
+        "2603.10359"
+      ],
+      "method": "arxiv HTML 4-query + web_search orthogonal emergent-concept discovery",
+      "framing": "RL SHORTCUT DETECTION / PAIR-GRPO STABLE ALIGNMENT / HINDSIGHT REASONING DISTILLATION"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
