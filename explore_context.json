@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 177,
+  "last_run": 178,
   "last_explore": "2026-07-01T14:00:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
   "last_discovery": "2026-07-01T14:00:00+00:00",
-  "last_run_framing": "LORA FORGETTING / UNIFIED INFERENCE SCALING / MULTI-AGENT TOPOLOGY CO-EVOLUTION",
+  "last_run_framing": "HETEROGENEOUS ROBOTIC EXPERT COORDINATION / SOCIAL INTELLIGENCE DISTILLATION / UNCERTAINTY-DRIVEN SELF-EVOLUTION",
   "last_framing": "COGNITIVE-ARCHITECTURE + METACOGNITION + SYMBOLIC PLANNING",
   "last_run_notes": "Run 174: Linear Probes (2606.02907) + ICA Lens (2606.11722) + Decomposing Prompting (2606.03093)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search (4 queries: LLM test-time adaptation + reward model overoptimization + chain-of-thought faithfulness + uncertainty quantification) \u2192 113 IDs \u2192 117 fresh after 5-store dedup \u2192 3 fresh LLM-relevant picks",
+  "last_run_method": "arxiv HTML search 4-query + 5-store dedup",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "cognitive-architecture / metacognitive-reasoning / symbolic-planning",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 544,
+  "entities_count": 547,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5971,6 +5971,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-30T10:47:00.000000+00:00",
       "theme": "agentic-memory / hierarchical-memory-navigation / long-horizon-reasoning"
+    },
+    {
+      "arxiv_id": "2606.25404",
+      "slug": "heart-coordination-heterogeneous-expert-agents-for-physically-grounded-robotic-task-planning-2606.25404",
+      "title": "HEART: Coordination of Heterogeneous Expert Agents for Physically Grounded Robotic Task Planning",
+      "url": "https://arxiv.org/abs/2606.25404",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T14:30:00+00:00",
+      "theme": "heterogeneous-expert-agents / robotic-task-planning / token-budget-coordination"
+    },
+    {
+      "arxiv_id": "2606.12018",
+      "slug": "modf-sir-multi-agent-omni-modal-distilled-framework-for-social-intelligence-reasoning-2606.12018",
+      "title": "MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning",
+      "url": "https://arxiv.org/abs/2606.12018",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T14:30:00+00:00",
+      "theme": "multi-agent-social-intelligence / knowledge-distillation / omni-modal-reasoning"
+    },
+    {
+      "arxiv_id": "2602.21158",
+      "slug": "selaur-self-evolving-llm-agent-via-uncertainty-aware-rewards-2602.21158",
+      "title": "SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards",
+      "url": "https://arxiv.org/abs/2602.21158",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T14:30:00+00:00",
+      "theme": "uncertainty-aware-rewards / self-evolution / multi-step-decision-making"
     }
   ],
   "emergent_discoveries": [
@@ -10057,6 +10084,17 @@
       "url": "https://arxiv.org/abs/2606.11680",
       "discovered": "2026-06-30T10:47:00.000000+00:00",
       "theme": "agentic-memory / hierarchical-memory-navigation / long-horizon-reasoning"
+    },
+    {
+      "timestamp": "2026-07-01T14:30:00+00:00",
+      "run": 178,
+      "theme": "HETEROGENEOUS ROBOTIC EXPERT COORDINATION / SOCIAL INTELLIGENCE DISTILLATION / UNCERTAINTY-DRIVEN SELF-EVOLUTION",
+      "papers": [
+        "2606.25404",
+        "2606.12018",
+        "2602.21158"
+      ],
+      "method": "arxiv HTML search 4-query + 5-store dedup"
     }
   ],
   "emergent_concept_search_log": [
@@ -15558,6 +15596,18 @@
       ],
       "theme": "AGENTIC MEMORY UNIFICATION / MULTI-AGENT PATHWISE COORDINATION / HIERARCHICAL MEMORY NAVIGATION",
       "method": "web_search 4-query emergent-concept via arxiv candidate titles; 3 FRESH after 5-store dedup"
+    },
+    {
+      "run": 178,
+      "timestamp": "2026-07-01T14:30:00+00:00",
+      "framing": "HETEROGENEOUS ROBOTIC EXPERT COORDINATION / SOCIAL INTELLIGENCE DISTILLATION / UNCERTAINTY-DRIVEN SELF-EVOLUTION",
+      "theme": "heterogeneous-expert-coordination / social-intelligence-distillation / uncertainty-self-evolution",
+      "method": "arxiv HTML search + web_search 4-query",
+      "picks": [
+        "2606.25404",
+        "2606.12018",
+        "2602.21158"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

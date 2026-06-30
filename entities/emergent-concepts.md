@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 178) — HETEROGENEOUS ROBOTIC EXPERT COORDINATION / SOCIAL INTELLIGENCE DISTILLATION / UNCERTAINTY-DRIVEN SELF-EVOLUTION DISCOVERY**
+
+- [[heart-coordination-heterogeneous-expert-agents-for-physically-grounded-robotic-task-planning-2606.25404]] — HEART: Coordination of Heterogeneous Expert Agents for Physically Grounded Robotic Task Planning — decomposes complex robotic instructions into atomic reasoning tasks allocated across role-specialized expert LLMs under a token budget; addresses feasibility/reachability/logical-order failures of single-LLM planners; token budget-aware communication protocol; first heterogeneous expert decomposition for physical task planning in the wiki; 2606.25404.
+- [[modf-sir-multi-agent-omni-modal-distilled-framework-for-social-intelligence-reasoning-2606.12018]] — MODF-SIR: Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning — lightweight MLLM-based multi-agent collaborative framework for social intelligence; knowledge distillation at training and inference; precise localization of multi-modal social data + long-tail event extraction; first social intelligence distillation framework in the wiki; 2606.12018.
+- [[selaur-self-evolving-llm-agent-via-uncertainty-aware-rewards-2602.21158]] — SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards — uses intrinsic LLM uncertainty as a self-supervised reward signal for multi-step decision-making agents; uncertainty reflects confidence, reveals where exploration is needed, offers learning cues from failed trajectories; no external reward engineering required; first uncertainty-as-reward self-evolution framework in the wiki; 2602.21158.
+
 **2026-07-01 — Run 177) — AGENTIC MEMORY UNIFICATION / MULTI-AGENT PATHWISE COORDINATION / HIERARCHICAL MEMORY NAVIGATION DISCOVERY**
 
 - [[agentic-memory-agemem-learning-unified-long-term-and-short-term-memory-management-for-llm-agents-2601.01885]] — AgeMem: Unified Long-Term and Short-Term Memory Management — integrates LTM and STM as policy-learned tool actions via three-stage progressive RL with step-wise GRPO; autonomously decides what/when to store, retrieve, update, summarize, discard; outperforms memory-augmented baselines across 5 long-horizon benchmarks; first unified LTM+STM joint optimization via learned memory-as-tool policy; 2601.01885.
