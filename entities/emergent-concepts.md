@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 179) — TRUSTWORTHY MULTI-AGENT SIGNALING / MONTE CARLO PROCESS SUPERVISION / COMPUTER-USE UNCERTAINTY QUANTIFICATION DISCOVERY**
+
+- [[argent-signaling-protocol-multi-agent-semantic-drift-2606.19356]] — Argent Signaling Protocol: Trustworthy Multi-Agent Systems — lightweight metadata protocol classifying multi-agent LLM outputs as grounded+complete / grounded+incomplete / ungrounded; enables rejection at protocol layer before semantic verification; addresses semantic drift taxonomy (message-level hallucination, context contamination, belief divergence); first protocol-layer groundedness classification in the wiki; 2606.19356.
+- [[monte-carlo-process-supervision-chain-of-thought-reasoning-2603.17815]] — Monte Carlo Process Supervision for CoT Reasoning — Monte Carlo Net Information Gain (MCNIG) as process supervision signal for multi-step LLM reasoning; each step receives credit proportional to expected reduction in answer uncertainty; step-level credit assignment without human labels; 8-12% improvement over outcome supervision on 5+ step reasoning; first MCNIG-based process supervision in the wiki; 2603.17815.
+- [[uncertainty-quantification-computer-use-agents-vlm-2606.25760]] — Uncertainty Quantification for Computer-Use VLAgents — benchmark measuring UQ calibration for VLM-based GUI agents; shows UQ rankings unstable across agents/benchmarks/interfaces; identifies entropy/MI/ensemble disagreement as most deployment-appropriate methods for high-stakes computer-use rejection; first computer-use VLM UQ benchmark in the wiki; 2606.25760.
+
 **2026-07-01 — Run 178) — HETEROGENEOUS ROBOTIC EXPERT COORDINATION / SOCIAL INTELLIGENCE DISTILLATION / UNCERTAINTY-DRIVEN SELF-EVOLUTION DISCOVERY**
 
 - [[heart-coordination-heterogeneous-expert-agents-for-physically-grounded-robotic-task-planning-2606.25404]] — HEART: Coordination of Heterogeneous Expert Agents for Physically Grounded Robotic Task Planning — decomposes complex robotic instructions into atomic reasoning tasks allocated across role-specialized expert LLMs under a token budget; addresses feasibility/reachability/logical-order failures of single-LLM planners; token budget-aware communication protocol; first heterogeneous expert decomposition for physical task planning in the wiki; 2606.25404.

@@ -680,6 +680,9 @@
     },
     "llm-wiki-explore": {
       "last_result_hashes": [
+        "14a3be51896a69bfa40306bcc8c8b869",
+        "0977ca96cce550b5089f5c1b3ccb4450",
+        "119b9f11331f393daf1a09fbc5aef59e",
         "008836d96bbfcdb68bd92cda0b33539a",
         "01c5762b3fb4011a50c24f855feff47a",
         "02b26134ce07e712ff1c5bdffa42dfb3",
@@ -1213,6 +1216,33 @@
         "9eed184f24af523aec389e8f712bfe33"
       ],
       "last_results": [
+        {
+          "arxiv_id": "2606.19356",
+          "title": "Trustworthy Multi-Agent Systems: Mitigating Semantic Drift with the Argent Signaling Protocol",
+          "hash": "14a3be51896a69bfa40306bcc8c8b869",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "",
+          "discovered": "2026-07-01T15:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2603.17815",
+          "title": "Process Supervision for Chain-of-Thought Reasoning via Monte Carlo Net Information Gain",
+          "hash": "0977ca96cce550b5089f5c1b3ccb4450",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "",
+          "discovered": "2026-07-01T15:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.25760",
+          "title": "Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models",
+          "hash": "119b9f11331f393daf1a09fbc5aef59e",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "",
+          "discovered": "2026-07-01T15:00:00+00:00"
+        },
         {
           "arxiv_id": "2606.25331",
           "title": "Improved Large Language Diffusion Models",
@@ -4508,6 +4538,9 @@
   },
   "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
   "last_result_hashes": [
+    "14a3be51896a69bfa40306bcc8c8b869",
+    "0977ca96cce550b5089f5c1b3ccb4450",
+    "119b9f11331f393daf1a09fbc5aef59e",
     "008836d96bbfcdb68bd92cda0b33539a",
     "01c5762b3fb4011a50c24f855feff47a",
     "02b26134ce07e712ff1c5bdffa42dfb3",
@@ -5046,6 +5079,9 @@
   "last_explore": "2026-06-29T13:30:00+00:00",
   "llm-wiki": {
     "last_result_hashes": [
+      "14a3be51896a69bfa40306bcc8c8b869",
+      "0977ca96cce550b5089f5c1b3ccb4450",
+      "119b9f11331f393daf1a09fbc5aef59e",
       "008836d96bbfcdb68bd92cda0b33539a",
       "01c5762b3fb4011a50c24f855feff47a",
       "02b26134ce07e712ff1c5bdffa42dfb3",
