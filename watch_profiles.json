@@ -1123,7 +1123,10 @@
         "c0804ac518e533da72766287de08e9b7",
         "27ec941ef6b2f26f8222b579d6c5f6f9",
         "e60444369f821f14d0c00d19c3c3631d",
-        "46b1bd2a1991a25f899c26a4bcb8ef12"
+        "46b1bd2a1991a25f899c26a4bcb8ef12",
+        "8a61b95984064a96f8ca4183c66c18c7",
+        "4292dc750c4f238b1c1b4b13084038a8",
+        "ad35a9aa6f3202274cd6ba399fd4a460"
       ],
       "last_results": [
         {
@@ -4864,7 +4867,10 @@
     "c0804ac518e533da72766287de08e9b7",
     "27ec941ef6b2f26f8222b579d6c5f6f9",
     "e60444369f821f14d0c00d19c3c3631d",
-    "46b1bd2a1991a25f899c26a4bcb8ef12"
+    "46b1bd2a1991a25f899c26a4bcb8ef12",
+    "8a61b95984064a96f8ca4183c66c18c7",
+    "4292dc750c4f238b1c1b4b13084038a8",
+    "ad35a9aa6f3202274cd6ba399fd4a460"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-29T13:30:00+00:00",
@@ -5315,7 +5321,10 @@
       "c0804ac518e533da72766287de08e9b7",
       "27ec941ef6b2f26f8222b579d6c5f6f9",
       "e60444369f821f14d0c00d19c3c3631d",
-      "46b1bd2a1991a25f899c26a4bcb8ef12"
+      "46b1bd2a1991a25f899c26a4bcb8ef12",
+      "8a61b95984064a96f8ca4183c66c18c7",
+      "4292dc750c4f238b1c1b4b13084038a8",
+      "ad35a9aa6f3202274cd6ba399fd4a460"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 104 \u2014 gradient-flow-coordination",

@@ -3,8 +3,8 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-07-01T05:00:00+00:00",
-  "last_run": 150,
+  "__last_updated": "2026-07-01T07:00:00+00:00",
+  "last_run": 151,
   "last_explore": "2026-07-01T06:00:00+00:00",
   "last_global_explore": "2026-07-01T04:30:00+00:00",
   "last_discovery": "2026-07-01T05:30:00+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 460,
+  "entities_count": 463,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5337,6 +5337,36 @@
       "discovered": "2026-07-01T06:00:00+00:00",
       "theme": "embodied-spatial-memory / continuous-representation / physical-agent",
       "vector": "emergent-concept-search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.21399",
+      "title": "Calibration Is Not Control: Why LLM-Agent Oversight Needs Intervention",
+      "slug": "calibration-is-not-control-llm-agent-oversight-needs-intervention-2606.21399",
+      "url": "https://arxiv.org/abs/2606.21399",
+      "discovered": "2026-07-01T07:00:00+00:00",
+      "theme": "INTERVENTION-CENTRIC OVERSIGHT / calibration / agent-safety",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.03969",
+      "title": "Quantifying Faithful Confidence Expression in Large Reasoning Models",
+      "slug": "quantifying-faithful-confidence-expression-large-reasoning-models-2606.03969",
+      "url": "https://arxiv.org/abs/2606.03969",
+      "discovered": "2026-07-01T07:00:00+00:00",
+      "theme": "FAITHFUL CALIBRATION IN LRMS / uncertainty / reasoning",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2604.10585",
+      "title": "Calibration Collapse Under Sycophancy Fine-Tuning: How Reward Hacking Breaks Uncertainty Quantification in LLMs",
+      "slug": "calibration-collapse-under-sycophancy-fine-tuning-reward-hacking-2604.10585",
+      "url": "https://arxiv.org/abs/2604.10585",
+      "discovered": "2026-07-01T07:00:00+00:00",
+      "theme": "CALIBRATION-SYCOPHANCY-REWARD HACKING / fine-tuning / safety",
+      "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
     }
   ],
@@ -13908,6 +13938,24 @@
         }
       ],
       "notes": "Run 150: arxiv HTML 4-query; 194 total IDs from 4 queries, 172 fresh after 5-store dedup; 3 structurally orthogonal picks: ElasticMem (learnable latent memory), TabClaw (interactive self-evolution), HoloAgent-0 (embodied spatial memory)"
+    },
+    {
+      "run": 151,
+      "timestamp": "2026-07-01T07:00:00+00:00",
+      "method": "arxiv HTML search",
+      "papers_found": [
+        "2606.21399",
+        "2606.03969",
+        "2604.10585"
+      ],
+      "framing": "INTERVENTION-CENTRIC OVERSIGHT + FAITHFUL CALIBRATION IN LRMS + CALIBRATION-SYCOPHANCY-REWARD HACKING",
+      "theme": "CALIBRATION-SYCOPHANCY-REWARD HACKING / fine-tuning / safety",
+      "last_run_framing": "INTERVENTION-CENTRIC OVERSIGHT + FAITHFUL CALIBRATION IN LRMS + CALIBRATION-SYCOPHANCY-REWARD HACKING",
+      "last_framing": "INTERVENTION-CENTRIC OVERSIGHT + FAITHFUL CALIBRATION IN LRMS + CALIBRATION-SYCOPHANCY-REWARD HACKING",
+      "last_run_notes": "Run 151: INTERVENTION-CENTRIC OVERSIGHT + FAITHFUL CALIBRATION IN LRMS + CALIBRATION-SYCOPHANCY-REWARD HACKING: calibration + quantifying + calibration",
+      "last_run_added": 3,
+      "last_run_method": "arxiv HTML search",
+      "last_discovery": "2026-07-01T07:00:00+00:00"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
