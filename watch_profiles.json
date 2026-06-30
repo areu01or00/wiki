@@ -1369,7 +1369,10 @@
         "5bc12a8697b8ccae5409e6b0c9d1aa45",
         "2606.19382",
         "2606.03910",
-        "2606.29894"
+        "2606.29894",
+        "2605.25603",
+        "2606.29171",
+        "2606.08779"
       ],
       "last_results": [
         {
@@ -5364,6 +5367,33 @@
           "chain": "emergent-concepts",
           "theme": "llm-benchmark / agentic-AI / information-retrieval",
           "discovered": "2026-07-04T00:23:00+00:00"
+        },
+        {
+          "arxiv_id": "2605.25603",
+          "title": "Detecting Unfaithful Chain-of-Thought via Circuit-Guided Internal-External Discrepancy",
+          "hash": "966b2cc85a9a2bc2e0764c32561f29ce",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "CoT faithfulness / circuit-level interpretability / internal-external discrepancy",
+          "discovered": "2026-07-04T00:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.29171",
+          "title": "Symbolic Mechanistic Data Attribution: Tracing Training Influence to Learned Behavioral Policies",
+          "hash": "23bb70a9f64d6bd3b45a6f66ecfe7484",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "symbolic data attribution / SAE features / training data shapley / behavioral policy decomposition",
+          "discovered": "2026-07-04T00:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.08779",
+          "title": "Reformulate LLM Reinforcement Learning for Efficient Training under Black-box Discrepancy",
+          "hash": "01ab53fabcad3ccf3aeefb17178a0d04",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "RL training efficiency / train-inference discrepancy / DCMDP / Lagrangian relaxation",
+          "discovered": "2026-07-04T00:30:00+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -6067,7 +6097,10 @@
     "5bc12a8697b8ccae5409e6b0c9d1aa45",
     "2606.19382",
     "2606.03910",
-    "2606.29894"
+    "2606.29894",
+    "2605.25603",
+    "2606.29171",
+    "2606.08779"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T22:05:37+00:00",
@@ -6764,7 +6797,10 @@
       "5bc12a8697b8ccae5409e6b0c9d1aa45",
       "2606.19382",
       "2606.03910",
-      "2606.29894"
+      "2606.29894",
+      "2605.25603",
+      "2606.29171",
+      "2606.08779"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

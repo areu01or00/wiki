@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 232) — CIRCUIT-LEVEL COT UNFAITHFULNESS / SYMBOLIC DATA ATTRIBUTION / TRAIN-INFERENCE DISCREPANCY RL**
+
+- [[detecting-unfaithful-chain-of-thought-via-circuit-guided-internal-external-discrepancy-2605.25603]]
+  CIE-Scorer: Circuit-guided Internal-External Discrepancy Scorer for CoT unfaithfulness detection — aligns model's internal computational circuit traces with external reasoning graphs via Fused Gromov-Wasserstein distance. First circuit-level CoT faithfulness detection paper in the wiki.
+
+- [[symbolic-mechanistic-data-attribution-tracing-training-influence-to-learned-behavioral-policies-2606.29171]]
+  SMDA: Symbolic Mechanistic Data Attribution — Ridge regression over SAE features to decompose how SFT training pairs shift policy through feature-activation and output-probability pathways. First symbolic data attribution for behavioral policy analysis in the wiki.
+
+- [[reformulate-llm-reinforcement-learning-for-efficient-training-under-black-box-discrepancy-2606.08779]]
+  DCMDP: Discrepancy-Constrained MDP for LLM RL — dual-objective coupling reward maximization with training-inference alignment, Lagrangian relaxation for adaptive discrepancy control. First black-box discrepancy characterization for MoE and heterogeneous training-deployment in the wiki.
+
 **2026-07-04 — Run 231) — INDUSTRIAL MULTI-AGENT SCHEDULING / KV-CACHE NETWORK ROUTING / MATH RETRIEVER BENCHMARK**
 
 - [[dynamo-dynamic-asset-management-orchestration-via-topological-multi-agent-schedu-2606.19382]]

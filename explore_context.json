@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-07-04T00:15:00.000000+00:00",
-  "last_run": 231,
-  "last_explore": "2026-07-04T00:23:00.000000+00:00",
+  "last_run": 232,
+  "last_explore": "2026-07-04T00:30:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-04",
-  "last_run_framing": "INDUSTRIAL MULTI-AGENT SCHEDULING / KV-CACHE NETWORK ROUTING / MATH RETRIEVER BENCHMARK",
+  "last_run_framing": "CIRCUIT-LEVEL COT UNFAITHFULNESS / SYMBOLIC DATA ATTRIBUTION / TRAIN-INFERENCE DISCREPANCY RL",
   "last_framing": "industrial multi-agent scheduling / disaggregated inference / math retriever benchmark",
-  "last_run_notes": "Run 231: DynAMO (2606.19382) + NetKV (2606.03910) + SABER-Math (2606.29894)",
+  "last_run_notes": "Run 232: CIE-Scorer (2605.25603) + SMDA (2606.29171) + DCMDP (2606.08779)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 705,
+  "entities_count": 708,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7039,6 +7039,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-04T00:23:00+00:00",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.25603",
+      "title": "Detecting Unfaithful Chain-of-Thought via Circuit-Guided Internal-External Discrepancy",
+      "slug": "detecting-unfaithful-chain-of-thought-via-circuit-guided-internal-external-discrepancy-2605.25603",
+      "url": "https://arxiv.org/abs/2605.25603",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-04T00:30:00+00:00",
+      "theme": "CoT faithfulness / circuit-level interpretability / internal-external discrepancy"
+    },
+    {
+      "arxiv_id": "2606.29171",
+      "title": "Symbolic Mechanistic Data Attribution: Tracing Training Influence to Learned Behavioral Policies",
+      "slug": "symbolic-mechanistic-data-attribution-tracing-training-influence-to-learned-behavioral-policies-2606.29171",
+      "url": "https://arxiv.org/abs/2606.29171",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-04T00:30:00+00:00",
+      "theme": "symbolic data attribution / SAE features / training data shapley / behavioral policy decomposition"
+    },
+    {
+      "arxiv_id": "2606.08779",
+      "title": "Reformulate LLM Reinforcement Learning for Efficient Training under Black-box Discrepancy",
+      "slug": "reformulate-llm-reinforcement-learning-for-efficient-training-under-black-box-discrepancy-2606.08779",
+      "url": "https://arxiv.org/abs/2606.08779",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-04T00:30:00+00:00",
+      "theme": "RL training efficiency / train-inference discrepancy / DCMDP / Lagrangian relaxation"
     }
   ],
   "emergent_discoveries": [
@@ -12365,6 +12392,30 @@
       "url": "https://arxiv.org/abs/2606.29894",
       "discovered": "2026-07-04T00:23:00+00:00",
       "theme": "llm-benchmark / agentic-AI / information-retrieval / mathematical-reasoning"
+    },
+    {
+      "arxiv_id": "2605.25603",
+      "title": "Detecting Unfaithful Chain-of-Thought via Circuit-Guided Internal-External Discrepancy",
+      "slug": "detecting-unfaithful-chain-of-thought-via-circuit-guided-internal-external-discrepancy-2605.25603",
+      "url": "https://arxiv.org/abs/2605.25603",
+      "discovered": "2026-07-04T00:30:00+00:00",
+      "theme": "CoT faithfulness / circuit-level interpretability / internal-external discrepancy"
+    },
+    {
+      "arxiv_id": "2606.29171",
+      "title": "Symbolic Mechanistic Data Attribution: Tracing Training Influence to Learned Behavioral Policies",
+      "slug": "symbolic-mechanistic-data-attribution-tracing-training-influence-to-learned-behavioral-policies-2606.29171",
+      "url": "https://arxiv.org/abs/2606.29171",
+      "discovered": "2026-07-04T00:30:00+00:00",
+      "theme": "symbolic data attribution / SAE features / training data shapley / behavioral policy decomposition"
+    },
+    {
+      "arxiv_id": "2606.08779",
+      "title": "Reformulate LLM Reinforcement Learning for Efficient Training under Black-box Discrepancy",
+      "slug": "reformulate-llm-reinforcement-learning-for-efficient-training-under-black-box-discrepancy-2606.08779",
+      "url": "https://arxiv.org/abs/2606.08779",
+      "discovered": "2026-07-04T00:30:00+00:00",
+      "theme": "RL training efficiency / train-inference discrepancy / DCMDP / Lagrangian relaxation"
     }
   ],
   "emergent_concept_search_log": [
@@ -18626,6 +18677,17 @@
       "framing": "industrial multi-agent scheduling / disaggregated inference / math retriever benchmark",
       "method": "arxiv HTML 4-query + abstract inspection + LLM keyword filter",
       "picks_count": 3
+    },
+    {
+      "run": 232,
+      "date": "2026-07-04T00:30:00+00:00",
+      "count": 3,
+      "picks": [
+        "2605.25603",
+        "2606.29171",
+        "2606.08779"
+      ],
+      "theme": "circuit-level interpretability / RL training efficiency"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
