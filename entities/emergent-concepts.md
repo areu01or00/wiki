@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 184) — LLM SELF-MODELING / OLYMPIAD REASONING / DEEP RESEARCH VERIFICATION**
+
+- [[selective-deficits-in-llm-mental-self-modeling-in-a-behavior-based-test-of-theory-of-mind-2603.26089]] — Selective Deficits in LLM Mental Self-Modeling: Novel behavior-based ToM test requiring subjects to act on mental states rather than describe them; finds frontier LLMs fail self-modeling unless afforded reasoning-trace scratchpad; cognitive-load effects suggest limited-capacity working memory for mental representations; first behavior-based self-modeling failure taxonomy in the wiki; 2603.26089.
+- [[achieving-gold-medal-level-olympiad-reasoning-via-simple-and-unified-scaling-2605.13301]] — Gold-Medal Olympiad Reasoning via Unified Scaling: SU-01 recipe — reverse-perplexity SFT + two-stage RL (verifiable rewards → proof-level RL) + test-time scaling; 30B-A3B backbone achieves gold-medal on IMO 2025/USAMO 2026 and IPhO 2024/2025; 100K-token stable reasoning trajectories; first unified post-training + test-time scaling recipe for olympiad-level reasoning in the wiki; 2605.13301.
+- [[inference-time-scaling-of-verification-self-evolving-deep-research-agents-via-test-time-rubric-guided-verification-2601.15808]] — Inference-Time Verification Scaling: DeepVerifier rubric-based outcome reward verifier for Deep Research Agents; asymmetry-of-verification principle outperforms agent-as-judge by 12-48% F1; DRA Failure Taxonomy (5 major, 13 sub-categories); 8-11% accuracy gains on GAIA and XBench-DeepSearch; first inference-time verification scaling framework in the wiki; 2601.15808.
+
 **2026-06-30 — Run 183) — WORLD MODEL INTERNALIZATION / LLM-SECURITY ORACLE FRAMEWORK / ALEATORIC ICL UNCERTAINTY QUANTIFICATION**
 
 - [[internalizing-the-future-a-unified-agentic-training-paradigm-for-world-model-planning-2606.27483]] — Internalizing the Future: Three-stage training paradigm (WM-AMT + FE-SFT + FC-RL) for grounded and calibrated internal world modeling in LLM agents; addresses the format-capability gap where fine-tuning on look-ahead traces produces mimicry without genuine predictive grounding; first unified three-stage internal world-model training paradigm in the wiki; 2606.27483.
