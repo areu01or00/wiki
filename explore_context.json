@@ -5368,6 +5368,24 @@
       "theme": "CALIBRATION-SYCOPHANCY-REWARD HACKING / fine-tuning / safety",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.26587",
+      "title": "SharQ: Bridging Activation Sparsity and FP4 Quantization for LLM Inference",
+      "slug": "sharq-bridging-activation-sparsity-and-fp4-quantization-for-llm-inference-2606.26587",
+      "url": "https://arxiv.org/abs/2606.26587"
+    },
+    {
+      "arxiv_id": "2606.01927",
+      "title": "Scaling LLM Inference Beyond Amdahl's Limits via Eliminating Non-Scalable Overheads",
+      "slug": "scaling-llm-inference-beyond-amdahls-limits-via-eliminating-non-scalable-overheads-2606.01927",
+      "url": "https://arxiv.org/abs/2606.01927"
+    },
+    {
+      "arxiv_id": "2603.00578",
+      "title": "Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs",
+      "slug": "draft-thinking-learning-efficient-reasoning-in-long-chain-of-thought-llms-2603.00578",
+      "url": "https://arxiv.org/abs/2603.00578"
     }
   ],
   "emergent_discoveries": [
@@ -8872,6 +8890,30 @@
       "theme": "multi-agent planning / personalization / education / programming",
       "run_number": 148,
       "rule": "Rule 94 PLANNING-DECOMPOSITION-PROBE"
+    },
+    {
+      "arxiv_id": "2606.26587",
+      "title": "SharQ: Bridging Activation Sparsity and FP4 Quantization for LLM Inference",
+      "slug": "sharq-bridging-activation-sparsity-and-fp4-quantization-for-llm-inference-2606.26587",
+      "url": "https://arxiv.org/abs/2606.26587",
+      "discovered": "2026-06-30",
+      "theme": "LLM INFERENCE EFFICIENCY"
+    },
+    {
+      "arxiv_id": "2606.01927",
+      "title": "Scaling LLM Inference Beyond Amdahl's Limits via Eliminating Non-Scalable Overheads",
+      "slug": "scaling-llm-inference-beyond-amdahls-limits-via-eliminating-non-scalable-overheads-2606.01927",
+      "url": "https://arxiv.org/abs/2606.01927",
+      "discovered": "2026-06-30",
+      "theme": "LLM INFERENCE EFFICIENCY"
+    },
+    {
+      "arxiv_id": "2603.00578",
+      "title": "Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs",
+      "slug": "draft-thinking-learning-efficient-reasoning-in-long-chain-of-thought-llms-2603.00578",
+      "url": "https://arxiv.org/abs/2603.00578",
+      "discovered": "2026-06-30",
+      "theme": "LLM INFERENCE EFFICIENCY"
     }
   ],
   "emergent_concept_search_log": [
@@ -13956,6 +13998,17 @@
       "last_run_added": 3,
       "last_run_method": "arxiv HTML search",
       "last_discovery": "2026-07-01T07:00:00+00:00"
+    },
+    {
+      "run_number": 152,
+      "date": "2026-06-30",
+      "theme": "LLM INFERENCE EFFICIENCY",
+      "papers": [
+        "2606.26587",
+        "2606.01927",
+        "2603.00578"
+      ],
+      "rule": "Rule 96: LLM-INFERENCE-EFFICIENCY-PROBE"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
