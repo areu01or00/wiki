@@ -2,9 +2,9 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-29T19:06:28.349779+00:00",
+  "updated": "2026-07-01T12:00:00.000000+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 160,
+  "last_run": 161,
   "last_explore": "2026-07-01T11:30:00.000000+00:00",
   "last_global_explore": "2026-07-01T11:30:00.000000+00:00",
   "last_discovery": "2026-07-01T11:30:00.000000+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 493,
+  "entities_count": 496,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5638,6 +5638,30 @@
       "url": "https://arxiv.org/abs/2606.28057",
       "discovered": "2026-07-01",
       "theme": "AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY"
+    },
+    {
+      "arxiv_id": "2606.30616",
+      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "slug": "scaling-the-horizon-not-the-parameters-reaching-trillion-parameter-performance-with-a-35b-agent-2606.30616",
+      "url": "https://arxiv.org/abs/2606.30616",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK"
+    },
+    {
+      "arxiv_id": "2606.30251",
+      "title": "TACO: Tool-Augmented Credit Optimization for Agentic Tool Use",
+      "slug": "taco-tool-augmented-credit-optimization-for-agentic-tool-use-2606.30251",
+      "url": "https://arxiv.org/abs/2606.30251",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK"
+    },
+    {
+      "arxiv_id": "2606.10156",
+      "title": "\u03c4-Rec: A Verifiable Benchmark for Agentic Recommender Systems",
+      "slug": "tau-rec-a-verifiable-benchmark-for-agentic-recommender-systems-2606.10156",
+      "url": "https://arxiv.org/abs/2606.10156",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK"
     }
   ],
   "emergent_discoveries": [
@@ -9334,6 +9358,30 @@
       "url": "https://arxiv.org/abs/2606.28057",
       "discovered": "2026-07-01",
       "theme": "AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY"
+    },
+    {
+      "arxiv_id": "2606.30616",
+      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "slug": "scaling-the-horizon-not-the-parameters-reaching-trillion-parameter-performance-with-a-35b-agent-2606.30616",
+      "url": "https://arxiv.org/abs/2606.30616",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK"
+    },
+    {
+      "arxiv_id": "2606.30251",
+      "title": "TACO: Tool-Augmented Credit Optimization for Agentic Tool Use",
+      "slug": "taco-tool-augmented-credit-optimization-for-agentic-tool-use-2606.30251",
+      "url": "https://arxiv.org/abs/2606.30251",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK"
+    },
+    {
+      "arxiv_id": "2606.10156",
+      "title": "\u03c4-Rec: A Verifiable Benchmark for Agentic Recommender Systems",
+      "slug": "tau-rec-a-verifiable-benchmark-for-agentic-recommender-systems-2606.10156",
+      "url": "https://arxiv.org/abs/2606.10156",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK"
     }
   ],
   "emergent_concept_search_log": [
@@ -14550,6 +14598,17 @@
         "2602.05073"
       ],
       "theme": "METACOGNITIVE SELF-MONITORING + SELF-TRAINING COLLAPSE + INTROSPECTION ADAPTERS"
+    },
+    {
+      "run": 161,
+      "timestamp": "2026-07-01T12:00:00.000000+00:00",
+      "papers_added": 3,
+      "paper_ids": [
+        "2606.30616",
+        "2606.30251",
+        "2606.10156"
+      ],
+      "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK discovery"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

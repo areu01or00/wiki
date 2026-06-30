@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 161) — 3-axis AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK discovery**
+
+- [[scaling-the-horizon-not-the-parameters-reaching-trillion-parameter-performance-with-a-35b-agent-2606.30616]] — Scaling the Horizon: 35B MoE achieving trillion-parameter-level performance by scaling agent horizon (long-horizon trajectories + heterogeneous agent abilities) — first agent-horizon-scaling paper in the wiki.
+- [[taco-tool-augmented-credit-optimization-for-agentic-tool-use-2606.30251]] — TACO: Tool-Augmented Credit Optimization for Agentic Tool Use — first self-supervised tool-contribution attribution without external judge model (DAPR + probe token mechanism).
+- [[tau-rec-a-verifiable-benchmark-for-agentic-recommender-systems-2606.10156]] — τ-Rec: Verifiable Benchmark for Agentic Recommender Systems — first verifiable reward benchmark replacing subjective LLM-as-judge evaluation for agentic recommenders (RTE mechanism + pass^k reliability metric).
+
 **2026-07-01 — Run 160) — 3-axis AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY discovery**
 
 - [[agentodyssey-open-ended-long-horizon-text-game-generation-for-test-time-continual-learning-agents-2606.24893]] — AgentOdyssey: Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents (2606-.2-48) — first procedural text game generation benchmark for evaluating test-time continual learning agents — introduces open-ended text games with rich world dynamics that interleave learning and inference throughout deployment, moving beyond the ML assumption that test time is inference-only; surfaces *test-time-learning-interleaving* and *procedural-world-dynamics* as load-bearing AGENTIC-TEST-TIME-CONTINUAL-LEARNING primitives; orthogonal to existing test-time compute scaling and agent memory papers.

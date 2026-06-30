@@ -1,4 +1,12 @@
 
+Explore: 2026-07-01T12:00 UTC — Run 161: AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK discovery
+- 2606.30616: Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent (agent-horizon scaling via long-horizon trajectories + heterogeneous agent abilities; 35B MoE achieving trillion-parameter-level)
+- 2606.30251: TACO: Tool-Augmented Credit Optimization for Agentic Tool Use (DAPR + probe token mechanism for self-supervised tool-contribution attribution; first judge-free credit assignment for multimodal code-tool agents)
+- 2606.10156: τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems (verifiable rewards replacing LLM-as-judge; RTE mechanism + pass^k reliability metric; first verifiable-reward agentic-recommender benchmark)
+- entities_count: 496 reconciled (493 + 3 new)
+- all wikilinks verified (9 wikilinks across 3 files, all resolve)
+- Rule 102 candidate: AGENTIC-PLANNING-ORCHESTRATION-PROBE — planning and orchestration failure modes in multi-step agentic pipelines
+
 Explore: 2026-06-30T10:30 UTC — Run 158: CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS (arxiv HTML search + web_search; 12 fresh candidates from 113 IDs; 3 structurally orthogonal picks)
 - 2606.16920: Demystifying Variance in Circuit Discovery of LLMs (circuit-level MI methodology)
 - 2604.00130: Hierarchical Chain-of-Thought Prompting (structured reasoning)
