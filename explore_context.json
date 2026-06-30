@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-30T10:30:00+00:00",
-  "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 185,
-  "last_explore": "2026-07-02T00:00:00.000000+00:00",
+  "updated": "2026-06-30T11:03:53.649968+00:00",
+  "__last_updated": "2026-06-30T11:03:53.649968+00:00",
+  "last_run": 186,
+  "last_explore": "2026-06-30T11:03:53.649968+00:00",
   "last_global_explore": "2026-07-02T00:00:00.000000+00:00",
   "last_discovery": "2026-07-02+00:00",
-  "last_run_framing": "ALIGNMENT EDITING / KNOWLEDGE EDITING RELIABILITY / AGENT SKILL DISTILLATION",
-  "last_framing": "alignment editing vs jailbreak / KE adversarial elicitation / trajectory skill distillation",
-  "last_run_notes": "Run 185: EVA alignment editing (2605.14750) + Illusion of Erasure KE reliability (2606.23276) + Trace2Skill trajectory distillation (2603.25158)",
+  "last_run_framing": "UNCERTAINTY CALIBRATION BENCHMARKING / AGENT GEOMETRIC KNOWLEDGE DISENTANGLEMENT / TEST-TIME ADAPTATION WITHOUT GRADIENTS",
+  "last_framing": "uncertainty calibration / continual learning / test-time adaptation",
+  "last_run_notes": "Run 186: Uncertainty Calibration Benchmarking (2602.00279) + Agent-Dice Geometric Consensus (2601.03641) + JitRL Test-Time Adaptation (2601.18510)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search 4-query + arxiv HTML fallback + 5-store dedup",
+  "last_run_method": "web_search 4-query + arxiv HTML emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "evaluation / efficiency / benchmarking",
   "emergent_theme": "evaluation-efficiency",
   "chains_updated": 0,
-  "entities_count": 568,
+  "entities_count": 571,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6181,6 +6181,36 @@
       "theme": "Deep Research Agents / inference-time verification / self-evolution / rubric-guided meta-evaluation",
       "chain": "emergent-concepts",
       "date": "2026/06/30"
+    },
+    {
+      "arxiv_id": "2602.00279",
+      "title": "Benchmarking Uncertainty Calibration in Large Language Model Long-Form Question Answering",
+      "slug": "uncertainty-calibration-benchmarking-llm-long-form-qa-2602.00279",
+      "url": "https://arxiv.org/abs/2602.00279",
+      "discovered": "2026-06-30T11:03:53.649968+00:00",
+      "theme": "LLM uncertainty quantification / calibration benchmarking / scientific QA methodology",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2601.03641",
+      "title": "Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning",
+      "slug": "agent-dice-geometric-consensus-agent-continual-learning-2601.03641",
+      "url": "https://arxiv.org/abs/2601.03641",
+      "discovered": "2026-06-30T11:03:53.649968+00:00",
+      "theme": "LLM agent continual learning / geometric disentanglement / stability-plasticity dilemma",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2601.18510",
+      "title": "Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates",
+      "slug": "jitrl-just-in-time-reinforcement-learning-llm-agents-2601.18510",
+      "url": "https://arxiv.org/abs/2601.18510",
+      "discovered": "2026-06-30T11:03:53.649968+00:00",
+      "theme": "LLM agent adaptation / test-time policy optimization / continual learning without gradients",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -10449,6 +10479,36 @@
       "url": "https://arxiv.org/abs/2603.25158",
       "discovered": "2026-07-02T00:00:00.000000+00:00",
       "theme": "LLM agents / skill distillation / trajectory learning"
+    },
+    {
+      "arxiv_id": "2602.00279",
+      "title": "Benchmarking Uncertainty Calibration in Large Language Model Long-Form Question Answering",
+      "slug": "uncertainty-calibration-benchmarking-llm-long-form-qa-2602.00279",
+      "url": "https://arxiv.org/abs/2602.00279",
+      "discovered": "2026-06-30T11:03:53.649968+00:00",
+      "theme": "LLM uncertainty quantification / calibration benchmarking / scientific QA methodology",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2601.03641",
+      "title": "Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning",
+      "slug": "agent-dice-geometric-consensus-agent-continual-learning-2601.03641",
+      "url": "https://arxiv.org/abs/2601.03641",
+      "discovered": "2026-06-30T11:03:53.649968+00:00",
+      "theme": "LLM agent continual learning / geometric disentanglement / stability-plasticity dilemma",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2601.18510",
+      "title": "Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates",
+      "slug": "jitrl-just-in-time-reinforcement-learning-llm-agents-2601.18510",
+      "url": "https://arxiv.org/abs/2601.18510",
+      "discovered": "2026-06-30T11:03:53.649968+00:00",
+      "theme": "LLM agent adaptation / test-time policy optimization / continual learning without gradients",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_concept_search_log": [
@@ -16090,6 +16150,19 @@
           "slug": "trace2skill-distill-trajectory-local-lessons-into-transferable-agent-skills-2603.25158"
         }
       ]
+    },
+    {
+      "run": 186,
+      "date": "2026-06-30T11:03:53.649968+00:00",
+      "framing": "UNCERTAINTY CALIBRATION BENCHMARKING / AGENT GEOMETRIC KNOWLEDGE DISENTANGLEMENT / TEST-TIME ADAPTATION WITHOUT GRADIENTS",
+      "theme": "uncertainty calibration / continual learning / test-time adaptation",
+      "picks": [
+        "2602.00279",
+        "2601.03641",
+        "2601.18510"
+      ],
+      "method": "arxiv HTML search + web_search 4-query emergent-concept discovery",
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

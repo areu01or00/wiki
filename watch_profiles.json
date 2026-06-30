@@ -1231,7 +1231,10 @@
         "32105489d4cb69a60c49a4feae557372",
         "2605.14750",
         "2606.23276",
-        "2603.25158"
+        "2603.25158",
+        "db6a1ab48ee563d05d12459b26c33e89",
+        "e30141bad71c29fe53ab8df3e6f2b216",
+        "76d9861e42fa4b009c8dfa13db5e55ba"
       ],
       "last_results": [
         {
@@ -4569,6 +4572,33 @@
           "chain": "emergent-concepts",
           "theme": "",
           "discovered": "2026-07-01T15:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2602.00279",
+          "title": "Benchmarking Uncertainty Calibration in Large Language Model Long-Form Question Answering",
+          "hash": "db6a1ab48ee563d05d12459b26c33e89",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "uncertainty-quantification / calibration",
+          "discovered": "2026-06-30T11:03:53.649968+00:00"
+        },
+        {
+          "arxiv_id": "2601.03641",
+          "title": "Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning",
+          "hash": "e30141bad71c29fe53ab8df3e6f2b216",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "continual-learning / llm-agents",
+          "discovered": "2026-06-30T11:03:53.649968+00:00"
+        },
+        {
+          "arxiv_id": "2601.18510",
+          "title": "Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates",
+          "hash": "76d9861e42fa4b009c8dfa13db5e55ba",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "continual-learning / test-time-adaptation",
+          "discovered": "2026-06-30T11:03:53.649968+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5134,7 +5164,10 @@
     "32105489d4cb69a60c49a4feae557372",
     "2605.14750",
     "2606.23276",
-    "2603.25158"
+    "2603.25158",
+    "db6a1ab48ee563d05d12459b26c33e89",
+    "e30141bad71c29fe53ab8df3e6f2b216",
+    "76d9861e42fa4b009c8dfa13db5e55ba"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -5693,7 +5726,10 @@
       "32105489d4cb69a60c49a4feae557372",
       "2605.14750",
       "2606.23276",
-      "2603.25158"
+      "2603.25158",
+      "db6a1ab48ee563d05d12459b26c33e89",
+      "e30141bad71c29fe53ab8df3e6f2b216",
+      "76d9861e42fa4b009c8dfa13db5e55ba"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

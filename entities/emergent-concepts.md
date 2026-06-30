@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 186) — UNCERTAINTY CALIBRATION BENCHMARKING / AGENT GEOMETRIC KNOWLEDGE DISENTANGLEMENT / TEST-TIME ADAPTATION WITHOUT GRADIENTS**
+
+- [[uncertainty-calibration-benchmarking-llm-long-form-qa-2602.00279]] — Uncertainty Calibration Benchmarking: First large-scale benchmark for evaluating UQ metrics in reasoning-demanding scientific QA; systematic calibration study across multiple LLM architectures; reveals fact-retrieval vs reasoning QA have different calibration profiles; first scientific-QA calibration benchmark in the wiki; 2602.00279.
+- [[agent-dice-geometric-consensus-agent-continual-learning-2601.03641]] — Agent-Dice: Geometric consensus framework disentangling common vs task-specific knowledge in LLM agents; addresses stability-plasticity dilemma via geometric knowledge separation; enables continual knowledge updates without catastrophic forgetting; first geometric-consensus continual learning paper in the wiki; 2601.03641.
+- [[jitrl-just-in-time-reinforcement-learning-llm-agents-2601.18510]] — JitRL: Training-free test-time policy optimization without gradient updates; dynamic non-parametric policy adapts at inference time; enables continual LLM agent adaptation post-deployment without retraining; first training-free test-time adaptation framework in the wiki; 2601.18510.
+
 **2026-07-02 — Run 185) — ALIGNMENT EDITING / KNOWLEDGE EDITING RELIABILITY / AGENT SKILL DISTILLATION**
 
 - [[eva-editing-for-versatile-alignment-against-jailbreaks-2605.14750]] — EVA Alignment Editing: First unified alignment editing framework for both textual and visual jailbreak attacks; edits safety-related knowledge directly in model weights via targeted knowledge erasure; adversarial trigger identification + preservation of benign capabilities; 13 jailbreak vectors × 8 frontier models evaluated; first versatile alignment editing covering text+vision in the wiki; 2605.14750.
