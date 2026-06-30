@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T10:30:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 184,
-  "last_explore": "2026-06-30T23:00:00.000000+00:00",
-  "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-06-30+00:00",
-  "last_run_framing": "LLM SELF-MODELING / OLYMPIAD REASONING / DEEP RESEARCH VERIFICATION",
-  "last_framing": "ToM self-modeling / olympiad reasoning / agent verification",
-  "last_run_notes": "Run 184: Selective Deficits LLM Mental Self-Modeling ToM (2603.26089) + Gold-Medal Olympiad Reasoning SU-01 (2605.13301) + Inference-Time Verification Scaling DeepVerifier (2601.15808)",
+  "last_run": 185,
+  "last_explore": "2026-07-02T00:00:00.000000+00:00",
+  "last_global_explore": "2026-07-02T00:00:00.000000+00:00",
+  "last_discovery": "2026-07-02+00:00",
+  "last_run_framing": "ALIGNMENT EDITING / KNOWLEDGE EDITING RELIABILITY / AGENT SKILL DISTILLATION",
+  "last_framing": "alignment editing vs jailbreak / KE adversarial elicitation / trajectory skill distillation",
+  "last_run_notes": "Run 185: EVA alignment editing (2605.14750) + Illusion of Erasure KE reliability (2606.23276) + Trace2Skill trajectory distillation (2603.25158)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search 4-query + arxiv HTML fallback + 5-store dedup",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "evaluation / efficiency / benchmarking",
   "emergent_theme": "evaluation-efficiency",
   "chains_updated": 0,
-  "entities_count": 565,
+  "entities_count": 568,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -10425,6 +10425,30 @@
       "url": "https://arxiv.org/abs/2601.15808",
       "discovered": "2026-06-30T23:00:00.000000+00:00",
       "theme": "Deep Research Agents / inference-time verification / self-evolution / rubric-guided meta-evaluation"
+    },
+    {
+      "arxiv_id": "2605.14750",
+      "title": "EVA: Editing for Versatile Alignment against Jailbreaks",
+      "slug": "eva-editing-for-versatile-alignment-against-jailbreaks-2605.14750",
+      "url": "https://arxiv.org/abs/2605.14750",
+      "discovered": "2026-07-02T00:00:00.000000+00:00",
+      "theme": "LLM alignment / jailbreak defense / safety editing"
+    },
+    {
+      "arxiv_id": "2606.23276",
+      "title": "Exposing the Illusion of Erasure in Knowledge Editing for LLMs",
+      "slug": "exposing-the-illusion-of-erasure-in-knowledge-editing-for-llms-2606.23276",
+      "url": "https://arxiv.org/abs/2606.23276",
+      "discovered": "2026-07-02T00:00:00.000000+00:00",
+      "theme": "LLM knowledge editing / adversarial elicitation / reliability"
+    },
+    {
+      "arxiv_id": "2603.25158",
+      "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
+      "slug": "trace2skill-distill-trajectory-local-lessons-into-transferable-agent-skills-2603.25158",
+      "url": "https://arxiv.org/abs/2603.25158",
+      "discovered": "2026-07-02T00:00:00.000000+00:00",
+      "theme": "LLM agents / skill distillation / trajectory learning"
     }
   ],
   "emergent_concept_search_log": [
@@ -16042,6 +16066,30 @@
       "framing": "ToM self-modeling / olympiad reasoning / agent verification",
       "method": "arxiv HTML search 4-query + web_search fallback + 5-store dedup",
       "added": 3
+    },
+    {
+      "run": 185,
+      "date": "2026-07-02T00:00:00+00:00",
+      "theme": "alignment editing / knowledge editing reliability / agent skill distillation",
+      "framing": "alignment editing vs jailbreak / KE adversarial elicitation / trajectory skill distillation",
+      "added": 3,
+      "picks": [
+        {
+          "arxiv_id": "2605.14750",
+          "title": "EVA: Editing for Versatile Alignment against Jailbreaks",
+          "slug": "eva-editing-for-versatile-alignment-against-jailbreaks-2605.14750"
+        },
+        {
+          "arxiv_id": "2606.23276",
+          "title": "Exposing the Illusion of Erasure in Knowledge Editing for LLMs",
+          "slug": "exposing-the-illusion-of-erasure-in-knowledge-editing-for-llms-2606.23276"
+        },
+        {
+          "arxiv_id": "2603.25158",
+          "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
+          "slug": "trace2skill-distill-trajectory-local-lessons-into-transferable-agent-skills-2603.25158"
+        }
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

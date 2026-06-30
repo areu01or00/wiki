@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 185) — ALIGNMENT EDITING / KNOWLEDGE EDITING RELIABILITY / AGENT SKILL DISTILLATION**
+
+- [[eva-editing-for-versatile-alignment-against-jailbreaks-2605.14750]] — EVA Alignment Editing: First unified alignment editing framework for both textual and visual jailbreak attacks; edits safety-related knowledge directly in model weights via targeted knowledge erasure; adversarial trigger identification + preservation of benign capabilities; 13 jailbreak vectors × 8 frontier models evaluated; first versatile alignment editing covering text+vision in the wiki; 2605.14750.
+- [[exposing-the-illusion-of-erasure-in-knowledge-editing-for-llms-2606.23276]] — Knowledge Editing Reliability: Reveals that ROME/MEMIT/EMN create illusion of erasure — edited knowledge suppressed in standard benchmarks but surfaces under adversarial elicitation; semantic equivalence routing as failure mechanism; first adversarial elicitation framework for KE reliability; first demonstration that KE erasure is surface-level in the wiki; 2606.23276.
+- [[trace2skill-distill-trajectory-local-lessons-into-transferable-agent-skills-2603.25158]] — Trace2Skill: Distills broad execution trajectories into transferable agent skills via inductive reasoning over trajectory-local lessons; unified skill directory enables cross-task transfer; handles operational pitfalls that parametric skill generation misses; 12 diverse agent domains validated; first trajectory-to-skill distillation via inductive reasoning in the wiki; 2603.25158.
+
 **2026-06-30 — Run 184) — LLM SELF-MODELING / OLYMPIAD REASONING / DEEP RESEARCH VERIFICATION**
 
 - [[selective-deficits-in-llm-mental-self-modeling-in-a-behavior-based-test-of-theory-of-mind-2603.26089]] — Selective Deficits in LLM Mental Self-Modeling: Novel behavior-based ToM test requiring subjects to act on mental states rather than describe them; finds frontier LLMs fail self-modeling unless afforded reasoning-trace scratchpad; cognitive-load effects suggest limited-capacity working memory for mental representations; first behavior-based self-modeling failure taxonomy in the wiki; 2603.26089.
