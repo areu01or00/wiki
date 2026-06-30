@@ -2,9 +2,9 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-30T05:37:49+00:00",
+  "updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 170,
+  "last_run": 171,
   "last_explore": "2026-06-30T14:30:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
   "last_discovery": "2026-06-30T14:30:00+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "cognitive-architecture / metacognitive-reasoning / symbolic-planning",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 526,
+  "entities_count": 529,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5848,6 +5848,30 @@
       "url": "https://arxiv.org/abs/2408.09176",
       "discovered": "2026-06-30T14:30:00+00:00",
       "theme": "cognitive-architecture / llm-integration / Soar-ACT-R / manufacturing-decision-making / structured-reasoning"
+    },
+    {
+      "arxiv_id": "2501.09056",
+      "title": "Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition",
+      "slug": "decompose-tom-enhancing-theory-mind-reasoning-through-simulation-and-task-decomposition-2501.09056",
+      "url": "https://arxiv.org/abs/2501.09056",
+      "discovered": "2026-06-30T06:41:00+00:00",
+      "theme": "cognitive-simulation / theory-of-mind / simulation-theory / task-decomposition"
+    },
+    {
+      "arxiv_id": "2502.21017",
+      "title": "PersuasiveToM: A Benchmark for Evaluating Machine Theory of Mind in Persuasive Dialogues",
+      "slug": "persuasivetom-benchmark-evaluating-machine-theory-mind-in-persuasive-dialogues-2502.21017",
+      "url": "https://arxiv.org/abs/2502.21017",
+      "discovered": "2026-06-30T06:41:00+00:00",
+      "theme": "theory-of-mind / benchmarking / persuasion / mental-state-tracking"
+    },
+    {
+      "arxiv_id": "2509.22315",
+      "title": "PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning",
+      "slug": "prime-planning-retrieval-integrated-memory-for-enhanced-reasoning-2509.22315",
+      "url": "https://arxiv.org/abs/2509.22315",
+      "discovered": "2026-06-30T06:41:00+00:00",
+      "theme": "dual-process / System-1 / System-2 / multi-agent-reasoning / memory-planning"
     }
   ],
   "emergent_discoveries": [
@@ -9766,6 +9790,30 @@
       "url": "https://arxiv.org/abs/2408.09176",
       "discovered": "2026-06-30T14:30:00+00:00",
       "theme": "cognitive-architecture / llm-integration / Soar-ACT-R / manufacturing-decision-making / structured-reasoning"
+    },
+    {
+      "arxiv_id": "2501.09056",
+      "title": "Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition",
+      "slug": "decompose-tom-enhancing-theory-mind-reasoning-through-simulation-and-task-decomposition-2501.09056",
+      "url": "https://arxiv.org/abs/2501.09056",
+      "discovered": "2026-06-30T06:41:00+00:00",
+      "theme": "cognitive-simulation / theory-of-mind / simulation-theory / task-decomposition"
+    },
+    {
+      "arxiv_id": "2502.21017",
+      "title": "PersuasiveToM: A Benchmark for Evaluating Machine Theory of Mind in Persuasive Dialogues",
+      "slug": "persuasivetom-benchmark-evaluating-machine-theory-mind-in-persuasive-dialogues-2502.21017",
+      "url": "https://arxiv.org/abs/2502.21017",
+      "discovered": "2026-06-30T06:41:00+00:00",
+      "theme": "theory-of-mind / benchmarking / persuasion / mental-state-tracking"
+    },
+    {
+      "arxiv_id": "2509.22315",
+      "title": "PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning",
+      "slug": "prime-planning-retrieval-integrated-memory-for-enhanced-reasoning-2509.22315",
+      "url": "https://arxiv.org/abs/2509.22315",
+      "discovered": "2026-06-30T06:41:00+00:00",
+      "theme": "dual-process / System-1 / System-2 / multi-agent-reasoning / memory-planning"
     }
   ],
   "emergent_concept_search_log": [
@@ -12534,6 +12582,13 @@
         "2606.14302",
         "2603.21396"
       ]
+    },
+    {
+      "timestamp": "2026-06-30T06:41:00+00:00",
+      "run": 171,
+      "rule": "Rule 107/108/109",
+      "candidates_considered": 31,
+      "picks": 3
     }
   ],
   "runs": [
@@ -15145,6 +15200,30 @@
         {
           "arxiv_id": "2408.09176",
           "slug": "cognitive-llms-towards-integrating-cognitive-architectures-and-large-language-models-2408.09176"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-30T06:41:00+00:00",
+      "run_number": 171,
+      "mode": "emergent-concept",
+      "probe_rule": "Rule 107 (COGNITIVE-SIMULATION) + Rule 108 (SYMBOLIC-NEURO-HYBRID) + Rule 109 (DUAL-PROCESS-REASONING)",
+      "picks_count": 3,
+      "picks": [
+        {
+          "arxiv_id": "2501.09056",
+          "slug": "decompose-tom-enhancing-theory-mind-reasoning-through-simulation-and-task-decomposition-2501.09056",
+          "theme": "cognitive-simulation / theory-of-mind / simulation-theory / task-decomposition"
+        },
+        {
+          "arxiv_id": "2502.21017",
+          "slug": "persuasivetom-benchmark-evaluating-machine-theory-mind-in-persuasive-dialogues-2502.21017",
+          "theme": "theory-of-mind / benchmarking / persuasion / mental-state-tracking"
+        },
+        {
+          "arxiv_id": "2509.22315",
+          "slug": "prime-planning-retrieval-integrated-memory-for-enhanced-reasoning-2509.22315",
+          "theme": "dual-process / System-1 / System-2 / multi-agent-reasoning / memory-planning"
         }
       ]
     }

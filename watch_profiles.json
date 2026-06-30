@@ -1186,7 +1186,10 @@
         "b850d93a311719ff7643dd59d50ae9d4",
         "225ea414b961a539ef2c2a1483efb709",
         "6dc3f488c7d6521fba5385abad917818",
-        "a77a34d531b5e609f727f88ff9cd87ee"
+        "a77a34d531b5e609f727f88ff9cd87ee",
+        "3f27cc722e6a72580bae901169ee747b",
+        "9345c604a5486a34b13f818e551fb933",
+        "0ea0f152ad2ad6e856227201880eb4bc"
       ],
       "last_results": [
         {
@@ -4472,8 +4475,8 @@
           "margin": null
         }
       ],
-      "last_run": "Run 104 \u2014 gradient-flow-coordination",
-      "last_updated": "2026-06-29T10:29:45+00:00",
+      "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
+      "last_updated": "2026-06-30T06:41:00+00:00",
       "last_result_timestamp": "2026-06-29T12:30:00+00:00",
       "last_run_key": "run-100-sample-efficiency-limit",
       "last_pass_type": "emergent-concept",
@@ -4482,7 +4485,7 @@
       "last_run_framing": "Run 100 \u2014 SAMPLE-EFFICIENCY-LIMIT-PROBE per Rule 67"
     }
   },
-  "last_run": 102,
+  "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
   "last_result_hashes": [
     "008836d96bbfcdb68bd92cda0b33539a",
     "01c5762b3fb4011a50c24f855feff47a",
@@ -4990,10 +4993,13 @@
     "b850d93a311719ff7643dd59d50ae9d4",
     "225ea414b961a539ef2c2a1483efb709",
     "6dc3f488c7d6521fba5385abad917818",
-    "a77a34d531b5e609f727f88ff9cd87ee"
+    "a77a34d531b5e609f727f88ff9cd87ee",
+    "3f27cc722e6a72580bae901169ee747b",
+    "9345c604a5486a34b13f818e551fb933",
+    "0ea0f152ad2ad6e856227201880eb4bc"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
-  "last_updated": "2026-06-29T13:30:00+00:00",
+  "last_updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-29T13:30:00+00:00",
   "last_explore": "2026-06-29T13:30:00+00:00",
   "llm-wiki": {
@@ -5504,11 +5510,14 @@
       "b850d93a311719ff7643dd59d50ae9d4",
       "225ea414b961a539ef2c2a1483efb709",
       "6dc3f488c7d6521fba5385abad917818",
-      "a77a34d531b5e609f727f88ff9cd87ee"
+      "a77a34d531b5e609f727f88ff9cd87ee",
+      "3f27cc722e6a72580bae901169ee747b",
+      "9345c604a5486a34b13f818e551fb933",
+      "0ea0f152ad2ad6e856227201880eb4bc"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
-    "last_run": "Run 104 \u2014 gradient-flow-coordination",
-    "last_updated": "2026-06-29T10:29:45+00:00",
+    "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
+    "last_updated": "2026-06-30T06:41:00+00:00",
     "last_results": [
       {
         "arxiv_id": "2605.21768",

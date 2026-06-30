@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 171) — COGNITIVE-SIMULATION / DUAL-PROCESS-REASONING / THEORY-OF-MIND DISCOVERY (Rule 107/108/109 continuation)**
+
+- [[prime-planning-retrieval-integrated-memory-for-enhanced-reasoning-2509.22315]] — PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning — dual-process System 1 (fast intuitive) + System 2 (slow deliberate) multi-agent reasoning; uncertainty-triggered switching; enables open-source LLaMA 3 to match GPT-4/4o on multi-hop reasoning; first dual-process-as-agent-pipeline in the wiki; 2509.22315.
+- [[persuasivetom-benchmark-evaluating-machine-theory-mind-in-persuasive-dialogues-2502.21017]] — PersuasiveToM: Benchmark for Evaluating Machine Theory of Mind in Persuasive Dialogues — first ToM benchmark for persuasion contexts; tracks evolving desires/beliefs/intentions; reveals even leading LLMs struggle with dynamic mental state tracking in extended dialogues; first persuasion-context ToM benchmark in the wiki; 2502.21017.
+- [[decompose-tom-enhancing-theory-mind-reasoning-through-simulation-and-task-decomposition-2501.09056]] — Decompose-ToM: Enhancing Theory of Mind Reasoning via Simulation and Task Decomposition — cognitive psychology Simulation Theory applied as LLM inference algorithm; recursive perspective simulation decomposed into 4 functions; no additional training required; first simulation-theory-driven ToM enhancement in the wiki; 2501.09056.
+
 **2026-06-30 — Run 170) — COGNITIVE-ARCHITECTURE INTEGRATION / METACOGNITIVE REASONING / SYMBOLIC PLANNING discovery**
 
 - [[think2-grounded-metacognitive-reasoning-in-large-language-models-2602.18806]] — Think$^2$: Grounded Metacognitive Reasoning in Large Language Models — psychologically grounded metacognitive framework operationalizing Ann Brown's regulatory cycle (Planning, Monitoring, Evaluation) as a structured prompting architecture; dual-process MetaController for adaptive effort allocation; first paper to ground metacognitive regulation theory directly into LLM prompting; 2602.18806.
