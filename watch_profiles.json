@@ -1213,7 +1213,10 @@
         "ff1e8b3ddd9f61bb37ed1663c658a1e1",
         "a0386feca1ad1762f93a0e9e59a663cc",
         "5bed412238204a37f90626146bdd2295",
-        "9eed184f24af523aec389e8f712bfe33"
+        "9eed184f24af523aec389e8f712bfe33",
+        "2606.29887",
+        "2606.28480",
+        "2606.30534"
       ],
       "last_results": [
         {
@@ -4524,6 +4527,33 @@
           "online_date": null,
           "run_number": 136,
           "margin": null
+        },
+        {
+          "arxiv_id": "2606.29887",
+          "title": "SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing",
+          "hash": "c7e9e345bbf44825dfb485254a62367a",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "",
+          "discovered": "2026-07-01T15:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.28480",
+          "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+          "hash": "f009ef5462afbf574db2c683809acbc0",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "",
+          "discovered": "2026-07-01T15:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.30534",
+          "title": "Orca: The World is in Your Mind",
+          "hash": "a6e732d86d462dc13540cdcb0b9c17ec",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "",
+          "discovered": "2026-07-01T15:30:00+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5071,7 +5101,10 @@
     "ff1e8b3ddd9f61bb37ed1663c658a1e1",
     "a0386feca1ad1762f93a0e9e59a663cc",
     "5bed412238204a37f90626146bdd2295",
-    "9eed184f24af523aec389e8f712bfe33"
+    "9eed184f24af523aec389e8f712bfe33",
+    "2606.29887",
+    "2606.28480",
+    "2606.30534"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -5612,7 +5645,10 @@
       "ff1e8b3ddd9f61bb37ed1663c658a1e1",
       "a0386feca1ad1762f93a0e9e59a663cc",
       "5bed412238204a37f90626146bdd2295",
-      "9eed184f24af523aec389e8f712bfe33"
+      "9eed184f24af523aec389e8f712bfe33",
+      "2606.29887",
+      "2606.28480",
+      "2606.30534"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

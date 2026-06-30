@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 179,
-  "last_explore": "2026-07-01T15:00:00+00:00",
+  "last_run": 180,
+  "last_explore": "2026-07-01T15:30:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-07-01T15:00:00+00:00",
-  "last_run_framing": "TRUSTWORTHY MULTI-AGENT SIGNALING / MONTE CARLO PROCESS SUPERVISION / COMPUTER-USE UNCERTAINTY QUANTIFICATION",
-  "last_framing": "multi-agent-communication-protocols / process-supervision-credit-assignment / uncertainty-quantification-for-computer-use-agents",
+  "last_discovery": "2026-07-01T15:30:00+00:00",
+  "last_run_framing": "POLICY GUARDRAILING / TERMINAL AGENT BENCHMARKING / WORLD FOUNDATION MODEL",
+  "last_framing": "in-context-policy-guardrails / terminal-use-agent-benchmark / world-foundation-model",
   "last_run_notes": "Run 174: Linear Probes (2606.02907) + ICA Lens (2606.11722) + Decomposing Prompting (2606.03093)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search 4-query + 5-store dedup",
+  "last_run_method": "arxiv HTML search 4-query + HF daily + 5-store dedup",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "cognitive-architecture / metacognitive-reasoning / symbolic-planning",
+  "emergent_concept_theme": "safety-benchmark / agent-benchmarking / world-modeling",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 550,
+  "entities_count": 553,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6022,6 +6022,30 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T14:30:00+00:00",
       "theme": "uncertainty-aware-rewards / self-evolution / multi-step-decision-making"
+    },
+    {
+      "arxiv_id": "2606.29887",
+      "title": "SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing",
+      "slug": "safepyramid-a-hierarchical-benchmark-for-in-context-policy-guardrailing-2606.29887",
+      "url": "https://arxiv.org/abs/2606.29887",
+      "discovered": "2026-07-01T15:30:00+00:00",
+      "theme": "in-context policy guardrails / hierarchical safety benchmark"
+    },
+    {
+      "arxiv_id": "2606.28480",
+      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+      "slug": "tua-bench-a-benchmark-for-general-purpose-terminal-use-agents-2606.28480",
+      "url": "https://arxiv.org/abs/2606.28480",
+      "discovered": "2026-07-01T15:30:00+00:00",
+      "theme": "terminal-use agents / general-purpose computer-use benchmark"
+    },
+    {
+      "arxiv_id": "2606.30534",
+      "title": "Orca: The World is in Your Mind",
+      "slug": "orca-the-world-is-in-your-mind-2606.30534",
+      "url": "https://arxiv.org/abs/2606.30534",
+      "discovered": "2026-07-01T15:30:00+00:00",
+      "theme": "world foundation model / next-state-prediction / multimodal"
     }
   ],
   "emergent_discoveries": [
@@ -10143,6 +10167,30 @@
         "2602.21158"
       ],
       "method": "arxiv HTML search 4-query + 5-store dedup"
+    },
+    {
+      "arxiv_id": "2606.29887",
+      "title": "SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing",
+      "slug": "safepyramid-a-hierarchical-benchmark-for-in-context-policy-guardrailing-2606.29887",
+      "url": "https://arxiv.org/abs/2606.29887",
+      "discovered": "2026-07-01T15:30:00+00:00",
+      "theme": "in-context policy guardrails / hierarchical safety benchmark"
+    },
+    {
+      "arxiv_id": "2606.28480",
+      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+      "slug": "tua-bench-a-benchmark-for-general-purpose-terminal-use-agents-2606.28480",
+      "url": "https://arxiv.org/abs/2606.28480",
+      "discovered": "2026-07-01T15:30:00+00:00",
+      "theme": "terminal-use agents / general-purpose computer-use benchmark"
+    },
+    {
+      "arxiv_id": "2606.30534",
+      "title": "Orca: The World is in Your Mind",
+      "slug": "orca-the-world-is-in-your-mind-2606.30534",
+      "url": "https://arxiv.org/abs/2606.30534",
+      "discovered": "2026-07-01T15:30:00+00:00",
+      "theme": "world foundation model / next-state-prediction / multimodal"
     }
   ],
   "emergent_concept_search_log": [
@@ -15666,6 +15714,35 @@
         "2606.25404",
         "2606.12018",
         "2602.21158"
+      ]
+    },
+    {
+      "run": 180,
+      "timestamp": "2026-07-01T15:30:00+00:00",
+      "picks": [
+        {
+          "arxiv_id": "2606.29887",
+          "slug": "safepyramid-a-hierarchical-benchmark-for-in-context-policy-guardrailing-2606.29887",
+          "theme": "in-context policy guardrails / hierarchical safety benchmark"
+        },
+        {
+          "arxiv_id": "2606.28480",
+          "slug": "tua-bench-a-benchmark-for-general-purpose-terminal-use-agents-2606.28480",
+          "theme": "terminal-use agents / general-purpose computer-use benchmark"
+        },
+        {
+          "arxiv_id": "2606.30534",
+          "slug": "orca-the-world-is-in-your-mind-2606.30534",
+          "theme": "world foundation model / next-state-prediction / multimodal"
+        }
+      ],
+      "theme": "POLICY GUARDRAILING / TERMINAL AGENT BENCHMARKING / WORLD FOUNDATION MODEL",
+      "method": "arxiv HTML search 4-query + HF daily + 5-store dedup",
+      "papers_added": 3,
+      "paper_ids": [
+        "2606.29887",
+        "2606.28480",
+        "2606.30534"
       ]
     }
   ],

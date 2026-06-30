@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 180) — POLICY GUARDRAILING / TERMINAL AGENT BENCHMARKING / WORLD FOUNDATION MODEL DISCOVERY**
+
+- [[safepyramid-a-hierarchical-benchmark-for-in-context-policy-guardrailing-2606.29887]] — SafePyramid: Hierarchical Benchmark for In-context Policy Guardrailing — in-context guardrails that predict violations from application-specific policies in context rather than predefined taxonomies; L0/L1/L2 difficulty across 61,699 natural-language rules; GPT-5.5 achieves only 12.9% on hardest L2 level; first in-context policy-guardrailing benchmark in the wiki; 2606.29887.
+- [[tua-bench-a-benchmark-for-general-purpose-terminal-use-agents-2606.28480]] — TUA-Bench: General-Purpose Terminal-Use Agents Benchmark — 120 real-world tasks across document editing, email, live-web search, and scientific workflows; Claude Code + Opus 4.8 achieves 65.8%; first general-purpose terminal-use agent benchmark covering non-programming digital activities in the wiki; 2606.28480.
+- [[orca-the-world-is-in-your-mind-2606.30534]] — Orca: General World Foundation Model — Next-State-Prediction unified world latent space from multimodal signals; unconscious (dense video) + conscious (language-described events) learning; 125K hours video + 160M event annotations; frozen backbone + lightweight decoders; first unified NSP world foundation model in the wiki; 2606.30534.
+
 **2026-07-01 — Run 179) — TRUSTWORTHY MULTI-AGENT SIGNALING / MONTE CARLO PROCESS SUPERVISION / COMPUTER-USE UNCERTAINTY QUANTIFICATION DISCOVERY**
 
 - [[argent-signaling-protocol-multi-agent-semantic-drift-2606.19356]] — Argent Signaling Protocol: Trustworthy Multi-Agent Systems — lightweight metadata protocol classifying multi-agent LLM outputs as grounded+complete / grounded+incomplete / ungrounded; enables rejection at protocol layer before semantic verification; addresses semantic drift taxonomy (message-level hallucination, context contamination, belief divergence); first protocol-layer groundedness classification in the wiki; 2606.19356.
