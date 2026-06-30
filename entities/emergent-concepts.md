@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 195) — LLM FORMAL VERIFICATION / LLM DEBUGGING METHODOLOGY / CLINICAL AGENTIC AI REASONING**
+
+- [[automating-formal-verification-with-agent-guided-tree-search-2605.27485]]
+  Automating Formal Verification with Agent-Guided Tree Search: First agentic loop with mathlib search for LLM-driven verified-code generation in Lean; two tree-search formulations (state-based and context-based orchestrators); GPT-5.4 reaches 95.0% on 423 Lean specs at $K=50$ LLM calls; orthogonal to existing PRM/theorem-proving axes.
+
+- [[a-systematic-approach-for-large-language-models-debugging-2604.23027]]
+  A Systematic Approach for LLM Debugging: First unified framework treating LLMs as observable systems — evaluation + interpretability + error-analysis integrated; model-agnostic methodology from issue detection to model refinement; enables practitioners to diagnose weaknesses without standardized benchmarks.
+
+- [[thinking-like-a-clinician-a-cognitive-ai-agent-for-clinical-diagnosis-2604.23605]]
+  DxChain: First cognitive AI agent for clinical diagnosis via panoramic profiling and adversarial debate; three-phase cognitive trajectory (Memory Anchoring, Navigation, Verification); Medical Tree-of-Thoughts algorithm achieves state-of-the-art on MIMIC-IV-Ext benchmarks; orthogonal to existing agentic evaluation and clinical AI axes.
+
 **2026-07-02 — Run 194) — LLM INTROSPECTION / WEAKLY-SUPERVISED GUI AGENT / LONG-FORM JUDGE BENCHMARKING**
 
 - [[me-myself-and-pi-evaluating-and-explaining-llm-introspection-2603.20276]]

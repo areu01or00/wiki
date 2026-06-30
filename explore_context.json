@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-07-02T12:30:00.000000+00:00",
-  "last_run": 193,
-  "last_explore": "2026-07-02T12:50:00.000000+00:00",
+  "last_run": 195,
+  "last_explore": "2026-07-02T13:45:00.000000+00:00",
   "last_global_explore": "2026-07-02T11:40:00.000000+00:00",
   "last_discovery": "2026-07-02+00:00",
-  "last_run_framing": "AGENTIC AI RISK / LLM-ORCHESTRATED DIGITAL TWIN / DOMAIN-SPECIFIC KG-REASONING",
-  "last_framing": "agentic AI risk / LLM-orchestrated digital twin / domain-specific KG-reasoning",
-  "last_run_notes": "Run 193: Belief at Risk agentic AI risk quantification (2606.15473) + CONDUCTOR LLM-orchestrated digital twin (2606.24609) + Travel KG-Reasoning (2606.29254)",
+  "last_run_framing": "LLM FORMAL VERIFICATION / LLM DEBUGGING METHODOLOGY / CLINICAL AGENTIC AI REASONING",
+  "last_framing": "formal verification / LLM debugging methodology / clinical agentic AI reasoning",
+  "last_run_notes": "Run 195: Automating Formal Verification with Agent-Guided Tree Search (2605.27485) + A Systematic Approach for LLM Debugging (2604.23027) + Thinking Like a Clinician DxChain (2604.23605)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + web_search emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic AI risk / digital twin / domain-specific reasoning / KG-augmented LLM",
   "emergent_theme": "agentic-risk-digital-twin-kg-reasoning",
   "chains_updated": 0,
-  "entities_count": 595,
+  "entities_count": 598,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6397,6 +6397,36 @@
       "discovered": "2026-07-02T12:50:00+00:00",
       "theme": "domain-specific KG-reasoning / knowledge graph-augmented LLM / travel domain / reasoning failure",
       "vector": "emergent_concept_search"
+    },
+    {
+      "arxiv_id": "2605.27485",
+      "slug": "automating-formal-verification-with-agent-guided-tree-search-2605.27485",
+      "title": "Automating Formal Verification with Agent-Guided Tree Search",
+      "url": "https://arxiv.org/abs/2605.27485",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T13:45:00+00:00",
+      "theme": "formal verification / tree search / LLM-agent",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2604.23027",
+      "slug": "a-systematic-approach-for-large-language-models-debugging-2604.23027",
+      "title": "A Systematic Approach for Large Language Models Debugging",
+      "url": "https://arxiv.org/abs/2604.23027",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T13:45:00+00:00",
+      "theme": "LLM debugging / evaluation / interpretability",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2604.23605",
+      "slug": "thinking-like-a-clinician-a-cognitive-ai-agent-for-clinical-diagnosis-2604.23605",
+      "title": "Thinking Like a Clinician: A Cognitive AI Agent for Clinical Diagnosis via Panoramic Profiling and Adversarial Debate",
+      "url": "https://arxiv.org/abs/2604.23605",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T13:45:00+00:00",
+      "theme": "clinical AI / adversarial debate / medical agent",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -10881,6 +10911,30 @@
       "url": "https://arxiv.org/abs/2606.29705",
       "discovered": "2026-07-02T13:30:00+00:00",
       "theme": "GUI agent / weakly-supervised / visual grounding"
+    },
+    {
+      "arxiv_id": "2605.27485",
+      "title": "Automating Formal Verification with Agent-Guided Tree Search",
+      "slug": "automating-formal-verification-with-agent-guided-tree-search-2605.27485",
+      "url": "https://arxiv.org/abs/2605.27485",
+      "discovered": "2026-07-02T13:45:00+00:00",
+      "theme": "formal verification / tree search / LLM-agent"
+    },
+    {
+      "arxiv_id": "2604.23027",
+      "title": "A Systematic Approach for Large Language Models Debugging",
+      "slug": "a-systematic-approach-for-large-language-models-debugging-2604.23027",
+      "url": "https://arxiv.org/abs/2604.23027",
+      "discovered": "2026-07-02T13:45:00+00:00",
+      "theme": "LLM debugging / evaluation / interpretability"
+    },
+    {
+      "arxiv_id": "2604.23605",
+      "title": "Thinking Like a Clinician: A Cognitive AI Agent for Clinical Diagnosis via Panoramic Profiling and Adversarial Debate",
+      "slug": "thinking-like-a-clinician-a-cognitive-ai-agent-for-clinical-diagnosis-2604.23605",
+      "url": "https://arxiv.org/abs/2604.23605",
+      "discovered": "2026-07-02T13:45:00+00:00",
+      "theme": "clinical AI / adversarial debate / medical agent"
     }
   ],
   "emergent_concept_search_log": [
@@ -16649,6 +16703,18 @@
       ],
       "theme": "LLM INTROSPECTION / WEAKLY-SUPERVISED GUI AGENT / LONG-FORM JUDGE BENCHMARKING",
       "method": "HF daily + web_search emergent-concept-discovery"
+    },
+    {
+      "run": 195,
+      "date": "2026-07-02",
+      "theme": "LLM FORMAL VERIFICATION / LLM DEBUGGING METHODOLOGY / CLINICAL AGENTIC AI REASONING",
+      "picks": [
+        "2605.27485",
+        "2604.23027",
+        "2604.23605"
+      ],
+      "framing": "formal verification / LLM debugging methodology / clinical agentic AI reasoning",
+      "method": "arxiv HTML search + web_search emergent-concept discovery"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
