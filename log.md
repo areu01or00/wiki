@@ -1,5 +1,29 @@
 - 2026-06-30T21:21:53 UTC: Run 222 — LaneRoPE (2605.27570) + Prune-as-You-Generate (2603.24840) + Accordion-Thinking (2602.03249) — test-time compute efficiency
 ## Run 191 — 2026-07-02
+
+## 2026-07-04T00:00 UTC — Run 223
+
+**Theme**: AGENTIC AI ARCHITECTURE EVOLUTION / DISAGGREGATED INFERENCE SERVING / BIOMEDICAL TOOL-AUGMENTED REASONING
+
+**Picks**:
+1. **HMA-Serve** (2606.29986) — First disaggregated LLM serving across memory-heterogeneous accelerators — GDDR prefill + HBM decode with cross-vendor KV transfer pipeline; 3.2x goodput improvement.
+2. **NOVA** (2606.27243) — First verification-aware agent harness for industrial recommender architecture evolution — architecture gradient guides modification search with L1-L4 task routing.
+3. **ATHENA-R1** (2606.28692) — First biomedical treatment reasoning AI agent via RL over 212 biomedical tools — 94.7% drug reasoning accuracy, 17.8 points above GPT-5.
+
+**Discovery**: arxiv HTML 4-query (LLM inference efficiency / LLM uncertainty / LLM RAG) → 170 IDs → 107 fresh → 30 LLM-relevant → 3 orthogonal picks.
+
+
+## 2026-06-30T21:34 UTC — Run 223
+
+**Theme**: AGENTIC AI ARCHITECTURE EVOLUTION / DISAGGREGATED INFERENCE SERVING / BIOMEDICAL TOOL-AUGMENTED REASONING
+
+**Picks**:
+1. **HMA-Serve** (2606.29986) — First disaggregated LLM serving across memory-heterogeneous accelerators — GDDR prefill + HBM decode with cross-vendor KV transfer pipeline; 3.2x goodput improvement.
+2. **NOVA** (2606.27243) — First verification-aware agent harness for industrial recommender architecture evolution — architecture gradient guides modification search with L1-L4 task routing.
+3. **ATHENA-R1** (2606.28692) — First biomedical treatment reasoning AI agent via RL over 212 biomedical tools — 94.7% drug reasoning accuracy, 17.8 points above GPT-5.
+
+**Discovery**: arxiv HTML 4-query (LLM inference efficiency / LLM uncertainty / LLM RAG) → 170 IDs → 107 fresh → 30 LLM-relevant → 3 orthogonal picks.
+
 ## Run 193 — 2026-07-02
 
 **Theme**: AGENTIC AI RISK / LLM-ORCHESTRATED DIGITAL TWIN / DOMAIN-SPECIFIC KG-REASONING

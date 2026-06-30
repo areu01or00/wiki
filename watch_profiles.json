@@ -1342,7 +1342,10 @@
         "2606.05513",
         "e39f0816cabb1feab6f4445f5c3989c2",
         "8b8ce4b6f7fc7b5aced3e177a117d3a9",
-        "0001a8b02ff9eea9da583c400d8590a2"
+        "0001a8b02ff9eea9da583c400d8590a2",
+        "59b7fe1c9f0064031f6632a325a7311d",
+        "9bc230a4bf74a83cbe502776bb2a0f55",
+        "20f71ffc2c4dda5b703e8aba76661962"
       ],
       "last_results": [
         {
@@ -5148,6 +5151,33 @@
           "chain": "emergent-concepts",
           "theme": "test-time-compute-efficiency",
           "discovered": "2026-07-04"
+        },
+        {
+          "arxiv_id": "2606.29986",
+          "title": "HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators",
+          "hash": "59b7fe1c9f0064031f6632a325a7311d",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "inference efficiency / memory disaggregation / KV-cache transfer / cross-vendor serving",
+          "discovered": "2026-07-04"
+        },
+        {
+          "arxiv_id": "2606.27243",
+          "title": "NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems",
+          "hash": "9bc230a4bf74a83cbe502776bb2a0f55",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agentic architecture evolution / industrial recommender / verification-aware RL / silent failure detection",
+          "discovered": "2026-07-04"
+        },
+        {
+          "arxiv_id": "2606.28692",
+          "title": "An AI Agent for Treatment Reasoning over a Biomedical Tool Universe",
+          "hash": "20f71ffc2c4dda5b703e8aba76661962",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "biomedical AI agent / treatment reasoning / RL over tool universe / iterative evidence gathering",
+          "discovered": "2026-07-04"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5824,7 +5854,10 @@
     "2606.05513",
     "e39f0816cabb1feab6f4445f5c3989c2",
     "8b8ce4b6f7fc7b5aced3e177a117d3a9",
-    "0001a8b02ff9eea9da583c400d8590a2"
+    "0001a8b02ff9eea9da583c400d8590a2",
+    "59b7fe1c9f0064031f6632a325a7311d",
+    "9bc230a4bf74a83cbe502776bb2a0f55",
+    "20f71ffc2c4dda5b703e8aba76661962"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -6494,7 +6527,10 @@
       "2606.05513",
       "e39f0816cabb1feab6f4445f5c3989c2",
       "8b8ce4b6f7fc7b5aced3e177a117d3a9",
-      "0001a8b02ff9eea9da583c400d8590a2"
+      "0001a8b02ff9eea9da583c400d8590a2",
+      "59b7fe1c9f0064031f6632a325a7311d",
+      "9bc230a4bf74a83cbe502776bb2a0f55",
+      "20f71ffc2c4dda5b703e8aba76661962"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

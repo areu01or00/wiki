@@ -4,12 +4,12 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-06-30T00:00:00+00:00",
-  "last_run": 222,
+  "last_run": 223,
   "last_explore": "2026-07-04T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-04",
-  "last_run_framing": "test-time compute efficiency: KV-cache optimization / RLVR rollout pruning / CoT step summarization",
-  "last_framing": "test-time compute efficiency: KV-cache optimization / RLVR rollout pruning / CoT step summarization",
+  "last_run_framing": "agentic AI architecture evolution / disaggregated inference serving / biomedical tool-augmented reasoning",
+  "last_framing": "agentic AI architecture evolution / disaggregated inference serving / biomedical tool-augmented reasoning",
   "last_run_notes": "Run 222: LaneRoPE (2605.27570) + Prune-as-You-Generate (2603.24840) + Accordion-Thinking (2602.03249)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "test-time compute efficiency / KV-cache optimization / RLVR training efficiency / CoT reasoning",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 678,
+  "entities_count": 681,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6871,6 +6871,36 @@
       "url": "https://arxiv.org/abs/2602.03249",
       "discovered": "2026-07-04T00:00:00+00:00",
       "theme": "test-time-compute-efficiency"
+    },
+    {
+      "arxiv_id": "2606.29986",
+      "title": "HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators",
+      "slug": "hbm-is-not-all-you-need-efficient-disaggregated-llm-serving-across-memory-heterogeneous-accelerators-2606.29986",
+      "url": "https://arxiv.org/abs/2606.29986",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "inference efficiency / memory disaggregation / KV-cache transfer / cross-vendor serving",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27243",
+      "title": "NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems",
+      "slug": "nova-a-verification-aware-agent-harness-for-architecture-evolution-in-industrial-recommender-systems-2606.27243",
+      "url": "https://arxiv.org/abs/2606.27243",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "agentic architecture evolution / industrial recommender / verification-aware RL / silent failure detection",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.28692",
+      "title": "An AI Agent for Treatment Reasoning over a Biomedical Tool Universe",
+      "slug": "athena-r1-an-ai-agent-for-treatment-reasoning-over-a-biomedical-tool-universe-2606.28692",
+      "url": "https://arxiv.org/abs/2606.28692",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "biomedical AI agent / treatment reasoning / RL over tool universe / iterative evidence gathering",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -11975,6 +12005,36 @@
       "url": "https://arxiv.org/abs/2602.03249",
       "discovered": "2026-07-04T00:00:00+00:00",
       "theme": "test-time-compute-efficiency"
+    },
+    {
+      "arxiv_id": "2606.29986",
+      "title": "HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators",
+      "slug": "hbm-is-not-all-you-need-efficient-disaggregated-llm-serving-across-memory-heterogeneous-accelerators-2606.29986",
+      "url": "https://arxiv.org/abs/2606.29986",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "inference efficiency / memory disaggregation / KV-cache transfer / cross-vendor serving",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27243",
+      "title": "NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems",
+      "slug": "nova-a-verification-aware-agent-harness-for-architecture-evolution-in-industrial-recommender-systems-2606.27243",
+      "url": "https://arxiv.org/abs/2606.27243",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "agentic architecture evolution / industrial recommender / verification-aware RL / silent failure detection",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.28692",
+      "title": "An AI Agent for Treatment Reasoning over a Biomedical Tool Universe",
+      "slug": "athena-r1-an-ai-agent-for-treatment-reasoning-over-a-biomedical-tool-universe-2606.28692",
+      "url": "https://arxiv.org/abs/2606.28692",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "biomedical AI agent / treatment reasoning / RL over tool universe / iterative evidence gathering",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_concept_search_log": [
@@ -18109,6 +18169,23 @@
         "2602.03249"
       ],
       "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection"
+    },
+    {
+      "run": 223,
+      "date": "2026-07-04",
+      "theme": "agentic AI architecture evolution / disaggregated inference serving / biomedical tool-augmented reasoning",
+      "picks": [
+        "2606.29986",
+        "2606.27243",
+        "2606.28692"
+      ],
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "papers_found": [
+        "2606.29986",
+        "2606.27243",
+        "2606.28692"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

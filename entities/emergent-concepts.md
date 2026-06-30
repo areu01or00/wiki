@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 223) — AGENTIC AI + INFERENCE EFFICIENCY + BIOMEDICAL REASONING**
+
+- [[hbm-is-not-all-you-need-efficient-disaggregated-llm-serving-across-memory-heterogeneous-accelerators-2606.29986]]
+  HMA-Serve: First disaggregated LLM serving across memory-heterogeneous accelerators (GDDR+HBM) — cross-vendor KV transfer pipeline achieving 3.2x goodput improvement and 4.8x goodput-per-dollar; phase-wise quantization applied independently to prefill and decode phases.
+
+- [[nova-a-verification-aware-agent-harness-for-architecture-evolution-in-industrial-recommender-systems-2606.27243]]
+  NOVA: First verification-aware agent harness for industrial recommender architecture evolution — architecture gradient guides modification search with L1-L4 task routing, blocking silent failures; 13x cycle shortening in production deployment.
+
+- [[athena-r1-an-ai-agent-for-treatment-reasoning-over-a-biomedical-tool-universe-2606.28692]]
+  ATHENA-R1: First biomedical treatment reasoning AI agent via RL over 212 biomedical tools — reaches 94.7% accuracy on drug reasoning tasks, 17.8 points above GPT-5; two-level self-learning framework with multi-agent trajectory construction.
+
 **2026-07-04 — Run 222) — TEST-TIME COMPUTE EFFICIENCY: KV-CACHE OPTIMIZATION / RLVR ROLLOUT PRUNING / COT STEP SUMMARIZATION**
 
 - [[lanerope-positional-encoding-collaborative-parallel-reasoning-generation-2605.27570]]
