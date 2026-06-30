@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-03 — Run 221) — CONTEXT DRIFT HALLUCINATION / SELF-EVOLVING STREAMING AGENTS / EHR-GROUNDED CLINICAL AGENT EVALUATION**
+
+- [[hallucination-as-context-drift-synchronization-protocols-for-multi-agent-2606.21666]]
+  Hallucination as Context Drift: First diagnosis of context drift — divergence of internal knowledge states between concurrent agents — as a primary hallucination source in multi-agent LLM systems. Introduces Context Divergence Score (CDS) and Shared State Verification Protocol (SSVP). Full-broadcast synchronization increases hallucination rate by 34%; SSVP reduces HR from 0.658 to 0.463 with 58% fewer API calls. **First context-synchronization-as-primitive paper in the wiki.**
+
+- [[aipatient-arena-ehr-grounded-evaluation-of-large-language-models-2606.17474]]
+  AIPatient Arena: First EHR-grounded evaluation framework for clinical LLM consultation agents across 8 competence dimensions using patient-specific knowledge graphs. Evaluated on 437+186 patients. Key insight: final-answer accuracy (Dx 2.63-3.55/5) insufficient; process-based evaluation (repetitive questioning, omission of history, inadequate uncertainty handling) provides actionable pre-deployment signal. **First workflow-oriented EHR-grounded medical LLM evaluation paper in the wiki.**
+
+- [[epievolve-self-evolving-agents-for-streaming-pandemic-forecasting-under-2606.05513]]
+  EpiEvolve: First self-evolving LLM agent for streaming pandemic forecasting with hierarchical episodic memory, reflection on delayed labels, and regime-aware retrieval. Fixed-weight LLM + memory + distillation achieves 0.629 accuracy vs 0.325 CDC ensemble; reduces regime-shift recovery lag from 5 to 2 weeks. **First streaming-regime-shift self-evolving agent paper in the wiki.**
+
 **2026-07-01 — Run 220) — AGENTIC SELF-CALIBRATION / MULTIMODAL SELF-EVOLUTION / AERIAL NAVIGATION VERIFICATION**
 
 - [[kbsd-knowledge-boundary-self-distillation-behavioral-calibration-agentic-search-2606.29863]]

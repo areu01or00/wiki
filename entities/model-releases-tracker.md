@@ -19,6 +19,45 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 ## Updates
 
 
+- **2026-06-30** | [Kog Inference launches Laneformer 2B, delivering 3,000 tokens per second on MI300X](https://www.kog.ai/blog/laneformer-2b-launch) | kw: kog-ai | source: kog-ai
+- **2026-06-30** | [LLM News Today (June 2026) – AI Model Releases - LLM Stats](https://llm-stats.com/ai-news) | kw: llm-stats-updates | source: llm-stats-updates
+- **2026-06-30** | [MiniMaxAI/MiniMax-M3 · Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3) | kw: MiniMax | source: MiniMax
+- **2026-06-30** | [Best AI for Long Context 2026 - Top Long Context Models - LLM Stats](https://llm-stats.com/leaderboards/best-ai-for-long-context) | kw: llm-stats-updates | source: llm-stats-updates
+- **2026-06-30** | [GitHub - MiniMax-AI/MiniMax-M3](https://github.com/MiniMax-AI/MiniMax-M3/) | kw: MiniMax | source: MiniMax
+- **2026-06-30** | [MiniMax-M3/README.md at main · MiniMax-AI/MiniMax-M3](https://github.com/MiniMax-AI/MiniMax-M3/blob/main/README.md) | kw: MiniMax | source: MiniMax
+- **2026-06-30** | [minimax-m3 Model by Minimaxai | NVIDIA NIM](https://build.nvidia.com/minimaxai/minimax-m3/fine-tune) | kw: MiniMax | source: MiniMax
+- **2026-06-30** | [Introducing Ornith 1.0 - Agentic Coding LLMs - YouTube](https://www.youtube.com/watch?v=uD4-uy0GmHE) | kw: deepreinforce-ai | source: deepreinforce-ai
+- **2026-06-30** | [DeepSeek | 深度求索](https://www.deepseek.com/) | kw: deepseek-releases | source: deepseek-releases
+- **2026-06-30** | [deepseek-ai/DeepSeek-V4-Pro · Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | kw: deepseek-releases | source: deepseek-releases
+- **2026-06-30** | [China's Zhipu AI sparks new 'DeepSeek moment' with cost ...](https://www.scmp.com/tech/big-tech/article/3358434/chinas-zhipu-ai-sparks-new-deepseek-moment-cost-effective-coding-model) | kw: glm-releases | source: glm-releases
+- **2026-06-30** | [Daily Papers - Hugging Face](https://huggingface.co/papers/date/2026-06-17) | kw: huggingface-trending | source: huggingface-trending
+- **2026-06-30** | [Daily Papers - Hugging Face](https://huggingface.co/papers?q=foundation+models) | kw: huggingface-trending | source: huggingface-trending
+- **2026-06-30** | [inclusionAI/Ring-1T - Hugging Face](https://huggingface.co/inclusionAI/Ring-1T) | kw: inclusion-ai | source: inclusion-ai
+- **2026-06-30** | [Interview: Ant Group's open model ambitions - Interconnects AI](https://www.interconnects.ai/p/inside-a-chinese-frontier-lab-inclusion) | kw: inclusion-ai | source: inclusion-ai
+- **2026-06-30** | [API Overview - Kimi API Platform](https://platform.kimi.ai/docs/api/overview) | kw: kimi-releases | source: kimi-releases
+- **2026-06-30** | [Kimi AI](https://kimi-ai.chat/) | kw: kimi-releases | source: kimi-releases
+- **2026-06-30** | [Walmart | Save Money. Live better.](https://www.walmart.com/) | kw: kog-ai | source: kog-ai
+- **2026-06-30** | [Krea: AI Creative Suite for Images, Video & 3D](https://www.krea.ai/) | kw: krea | source: krea
+- **2026-06-30** | [Krea AI · Create, Enhance & Imagine](https://kreaai.app/) | kw: krea | source: krea
+- **2026-06-30** | [Krea raises $83M to be the one-stop shop for GenAI creatives](https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/) | kw: krea | source: krea
+- **2026-06-30** | [Krea 2 — AI Image Model by Krea AI | Artlist AI](https://artlist.io/ai/models/krea-ai) | kw: krea | source: krea
+- **2026-06-30** | [Liquid Definition - Examples of Liquids - Science Notes and...](https://www.sciencelearner.com/-liquid-state-of-matter) | kw: liquid-ai | source: liquid-ai
+- **2026-06-30** | [Liquid Definition in Chemistry - ThoughtCo](https://www.thoughtco.com/definition-of-liquid-604558) | kw: liquid-ai | source: liquid-ai
+- **2026-06-30** | [SWE-Bench Verified Leaderboard - LLM Stats](https://llm-stats.com/benchmarks/swe-bench-verified) | kw: llm-stats-updates | source: llm-stats-updates
+- **2026-06-30** | [Introducing LongCat-2.0 - , a large-scale MoE language model with ...](https://www.reddit.com/r/LocalLLaMA/comments/1uj7egu/introducing_longcat20_a_largescale_moe_language/) | kw: meituan-longcat | source: meituan-longcat
+- **2026-06-30** | [Introducing Llama 3.1: Our most capable models to date - Meta AI](https://ai.meta.com/blog/meta-llama-3-1/) | kw: meta-llama-releases | source: meta-llama-releases
+- **2026-06-30** | [Meta Llama - Hugging Face](https://huggingface.co/meta-llama) | kw: meta-llama-releases | source: meta-llama-releases
+- **2026-06-30** | [GPT-4 | OpenAI](https://openai.com/index/gpt-4/) | kw: openai-releases | source: openai-releases
+- **2026-06-30** | [OpenAI](https://openai.smapply.org/) | kw: openai-releases | source: openai-releases
+- **2026-06-30** | [API Platform | OpenAI](https://openai.com/api/) | kw: openai-releases | source: openai-releases
+- **2026-06-30** | [Sakana AI's "Fugu" from a Claude user's view — orchestration as a ...](https://www.reddit.com/r/ClaudeAI/comments/1ud87za/sakana_ais_fugu_from_a_claude_users_view/) | kw: sakana-releases | source: sakana-releases
+- **2026-06-30** | [A Japanese AI lab just built a system that rivals some of ... - Instagram](https://www.instagram.com/p/DZ-_e4iCYeF/) | kw: sakana-releases | source: sakana-releases
+- **2026-06-30** | [Sakana AI — Building Frontier AI in Japan](https://sakana.ai/) | kw: sakana-releases | source: sakana-releases
+- **2026-06-30** | [Company: Accelerating Scientific Discovery | xAI](https://x.ai/company) | kw: xai-releases | source: xai-releases
+- **2026-06-30** | [xAI (@xai) / Posts / X - Twitter](https://x.com/xai) | kw: xai-releases | source: xai-releases
+- **2026-06-30** | [Musk's xAI, SpaceX merger valued at $1.25 trillion, the biggest...](https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html) | kw: xai-releases | source: xai-releases
+- **2026-06-30** | [Trustworthy-AI-Group/Adversarial_Examples_Papers: A list ... - GitHub](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers) | kw: yuvion-llm | source: yuvion-llm
+- **2026-06-30** | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content And AI Safety](https://arxiv.org/abs/2606.27632) | kw: yuvion-llm | source: yuvion-llm
 - **2026-06-30** | [Mistral launches OCR 4, turning document extraction into a full enterprise AI play](https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play) | kw: weights drop | source: mistral | WEIGHTS DROP | API LAUNCH
 - **2026-06-30** | [GLM 5.2 Release - 1M Context, Coding-First (June 2026)](https://codersera.com/blog/glm-5-2-release-1m-context-coding-2026/) | kw: weights drop | source: zhipu-glm | WEIGHTS DROP | API LAUNCH
 - **2026-06-30** | [Huawei Open-Sources openPangu 2.0 to Boost Enterprise AI](https://www.asiabusinessoutlook.com/news/huawei-opensources-openpangu-20-to-boost-enterprise-ai-innovation-nwid-12129.html) | kw: open source | source: huawei | OPEN SOURCE | API LAUNCH
