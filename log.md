@@ -6,6 +6,15 @@ Explore: 2026-06-30T10:30 UTC — Run 158: CIRCUIT-DISCOVERY-VARIANCE + HIERARCH
 - entities_count: 484 reconciled (481 + 3 new)
 - all wikilinks verified (3 wikilinks across 3 files, all resolve)
 
+
+Explore: 2026-07-01T11:30 UTC — Run 160: METACOGNITIVE SELF-MONITORING + SELF-TRAINING COLLAPSE + INTROSPECTION ADAPTERS discovery
+- 2606.21090: Self-Improvement Can Self-Regress: Rise-and-Collapse Failure Mode of LLM Self-Training (rise-and-collapse failure mode in REINFORCE self-training; CARE/ES/GRPO interventions)
+- 2604.16812: Introspection Adapters: Training LLMs to Report Their Learned Behaviors (LoRA-based behavioral self-reporting; generalizes to unseen fine-tune methods)
+- 2602.05073: Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities (ACL 2026; first general formulation of agent UQ; 4 technical challenges; tau^2-bench evaluation)
+- entities_count: 493 reconciled (490 + 3 new)
+- all wikilinks verified (4 wikilinks across 3 files, all resolve)
+- Rule 101 candidate: INTERNAL SELF-SUPERVISION PROBE — LLMs that supervise, critique, and correct their own reasoning without external feedback
+
 Explore: 2026-06-29T22:30 UTC — Run 132 INFRASTRUCTURE-SAFETY-PROBE (Rule 88): Environment-Injected Memory Poisoning (2604.02623) + Resource Consumption Threats (2603.16068) + Long-Term State Poisoning (2605.06731)
 Explore: 2026-06-29T23:55 UTC — Run 140 — EMERGENT-CONCEPT-SEARCH (arxiv HTML search 4-query planning/reasoning/LLM integration; 20 fresh candidates from 45 IDs; 3 LLM-keyword-matched picks: Perfect Detection Failed Control + Forecasting Leaderboards Deployment + Teach-to-Reason)
 - 3 picks: Perfect Detection Failed Control (2606.24952) + Forecasting Leaderboards Deployment Decisions (2606.24996) + Teach-to-Reason (2606.25407)
