@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 196) — WORLD MODEL / SPEECH-TEXT LATENT MODALITY / VIDEO-TUTORIAL AGENTIC GENERALIZATION**
+
+- [[dreamforge-world-0-1-preview-a-low-compute-real-time-controllable-world-model-2606.30292]]
+  DreamForge-World 0.1: First low-compute real-time world model for consumer-GPU interactive simulation — adapts LongLive 1 autoregressive video stack with residual action pathway (Matrix-Game inspired); low-compute adaptation strategy enabling broad interactive capability coverage on consumer hardware; orthogonal to frontier-scale world simulators prioritizing fidelity over accessibility.
+
+- [[interleaved-speech-language-models-latently-work-in-text-2606.22473]]
+  Interleaved Speech LMs: First systematic analysis of speech-text interleaving producing text-like latent representations without explicit text generation — across multiple model families/sizes; speech-text modality interaction in latent space; improves speech-only capabilities while developing text-representations; first latent modality bridging analysis in the wiki.
+
+- [[bridging-videoqa-and-video-guided-agentic-tasks-via-generalized-keyframe-extraction-2606.29445]]
+  VideoQA-to-Agentic Generalization: First framework treating keyframe extraction as the critical bridge between static VideoQA and dynamic agentic behavior — procedural generalization from video tutorials to GUI control and long-horizon agentic tasks; addresses shallow-visual-cue over-reliance in existing MLLM benchmarks.
+
 **2026-07-02 — Run 195) — LLM FORMAL VERIFICATION / LLM DEBUGGING METHODOLOGY / CLINICAL AGENTIC AI REASONING**
 
 - [[automating-formal-verification-with-agent-guided-tree-search-2605.27485]]

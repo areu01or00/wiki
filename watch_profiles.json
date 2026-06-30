@@ -1261,7 +1261,10 @@
         "2602.07673",
         "2606.22873",
         "2606.27709",
-        "284e22a56e487ff429f4029aabc2dbb8"
+        "284e22a56e487ff429f4029aabc2dbb8",
+        "2606.30292",
+        "2606.22473",
+        "2606.29445"
       ],
       "last_results": [
         {
@@ -4707,6 +4710,33 @@
           "chain": "emergent-concepts",
           "theme": "domain-specific KG-reasoning / knowledge graph-augmented LLM / travel domain / reasoning failure",
           "discovered": "2026-07-02T12:50:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.30292",
+          "title": "DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model",
+          "hash": "e995fc2d4a1ca6ffb67748a45809dae6",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "world-model-speech-video-multimodal",
+          "discovered": "2026-06-30T13:45:02.121245+00:00"
+        },
+        {
+          "arxiv_id": "2606.22473",
+          "title": "Interleaved Speech Language Models Latently Work In Text",
+          "hash": "277a02301b26f0a9454bfe0ff2a408c1",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "world-model-speech-video-multimodal",
+          "discovered": "2026-06-30T13:45:02.121245+00:00"
+        },
+        {
+          "arxiv_id": "2606.29445",
+          "title": "Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction",
+          "hash": "a809d7ca2c390aecbc8c1a8b2405df6c",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "world-model-speech-video-multimodal",
+          "discovered": "2026-06-30T13:45:02.121245+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5302,7 +5332,10 @@
     "2602.07673",
     "2606.22873",
     "2606.27709",
-    "284e22a56e487ff429f4029aabc2dbb8"
+    "284e22a56e487ff429f4029aabc2dbb8",
+    "2606.30292",
+    "2606.22473",
+    "2606.29445"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -5891,7 +5924,10 @@
       "2602.07673",
       "2606.22873",
       "2606.27709",
-      "284e22a56e487ff429f4029aabc2dbb8"
+      "284e22a56e487ff429f4029aabc2dbb8",
+      "2606.30292",
+      "2606.22473",
+      "2606.29445"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
