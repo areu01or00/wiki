@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 198) — LLM UNCERTAINTY QUANTIFICATION: EVIDENCE-BASED RANKING / UQ GRANULARITY / UNCERTAINTY-DRIVEN DEBATE COLLAPSE PREVENTION**
+
+- [[evirank-evidence-based-confidence-estimation-for-llm-based-ranking-2606.04727]]
+  EviRank: Evidence-Based Confidence Estimation for LLM-Based Ranking: First evidence-based confidence framework for LLM ranking outputs — evidence quality assessment vs global QA-style confidence; pairwise comparison ranking requires different UQ primitives than single-answer QA; addresses reliability gap in LLM recommendation systems; orthogonal to existing UQ papers (conformal, entropy, Bayesian methods).
+
+- [[not-all-uncertainty-is-equal-how-uncertainty-granularity-shapes-human-verification-in-llm-assisted-decision-making-2605.28571]]
+  Uncertainty Granularity: How uncertainty display granularity shapes human verification in LLM-assisted decision making — user studies showing fine vs coarse uncertainty displays produce different trust calibration patterns; design implications for deployed LLM uncertainty systems; first human-factors UQ granularity study in the wiki.
+
+- [[the-value-of-variance-mitigating-debate-collapse-in-multi-agent-systems-via-uncertainty-driven-policy-optimization-2602.07186]]
+  Value of Variance: Mitigating Debate Collapse in Multi-Agent LLM Systems via Uncertainty-Driven Policy Optimization: Identifies "debate collapse" failure mode in multi-agent LLM deliberation; uses response variance as early warning signal; uncertainty-driven policy prevents premature convergence on wrong answers; first debate collapse + variance-driven policy paper in the wiki.
+
 **2026-07-02 — Run 197) — EXPERT REASONING DISTILLATION / AUTONOMOUS RED TEAMING / PRM ADVERSARIAL ROBUSTNESS**
 
 - [[making-expert-reasoning-learnable-with-self-distillation-2602.02405]]

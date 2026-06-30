@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-07-02T12:30:00.000000+00:00",
-  "last_run": 197,
-  "last_explore": "2026-06-30T13:45:02.121245+00:00",
-  "last_global_explore": "2026-07-02T11:40:00.000000+00:00",
+  "last_run": 198,
+  "last_explore": "2026-07-02T14:45:00.000000+00:00",
+  "last_global_explore": "2026-07-02T14:45:00.000000+00:00",
   "last_discovery": "2026-07-02+00:00",
-  "last_run_framing": "EXPERT REASONING DISTILLATION / AUTONOMOUS RED TEAMING / PRM ADVERSARIAL ROBUSTNESS",
-  "last_framing": "formal verification / LLM debugging methodology / clinical agentic AI reasoning",
-  "last_run_notes": "Run 196: DreamForge-World (2606.30292) + Interleaved Speech LMs (2606.22473) + Bridging VideoQA Agentic (2606.29445)",
+  "last_run_framing": "LLM UNCERTAINTY QUANTIFICATION: EVIDENCE-BASED RANKING / UQ GRANULARITY / UNCERTAINTY-DRIVEN DEBATE COLLAPSE PREVENTION",
+  "last_framing": "uncertainty quantification / evidence-based ranking confidence / multi-agent debate collapse",
+  "last_run_notes": "Run 198: EviRank (2606.04727) + Uncertainty Granularity (2605.28571) + Value of Variance (2602.07186)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + web_search emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic AI risk / digital twin / domain-specific reasoning / KG-augmented LLM",
   "emergent_theme": "agentic-risk-digital-twin-kg-reasoning",
   "chains_updated": 0,
-  "entities_count": 604,
+  "entities_count": 607,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6454,7 +6454,31 @@
     },
     "2602.02405",
     "2601.10589",
-    "2603.06621"
+    "2603.06621",
+    {
+      "arxiv_id": "2606.04727",
+      "title": "EviRank: Evidence-Based Confidence Estimation for LLM-Based Ranking",
+      "slug": "the-value-of-variance-mitigating-debate-collapse-in-multi-agent-systems-via-uncertainty-driven-policy-optimization-2606.04727",
+      "url": "https://arxiv.org/abs/2606.04727",
+      "discovered": "2026-07-02T14:45:00.000000+00:00",
+      "theme": "uncertainty-quantification"
+    },
+    {
+      "arxiv_id": "2605.28571",
+      "title": "Not All Uncertainty Is Equal: How Uncertainty Granularity Shapes Human Verification in LLM-Assisted Decision Making",
+      "slug": "not-all-uncertainty-is-equal-how-uncertainty-granularity-shapes-human-verification-in-llm-assisted-decision-making-2605.28571",
+      "url": "https://arxiv.org/abs/2605.28571",
+      "discovered": "2026-07-02T14:45:00.000000+00:00",
+      "theme": "uncertainty-quantification"
+    },
+    {
+      "arxiv_id": "2602.07186",
+      "title": "The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization",
+      "slug": "the-value-of-variance-mitigating-debate-collapse-in-multi-agent-systems-via-uncertainty-driven-policy-optimization-2602.07186",
+      "url": "https://arxiv.org/abs/2602.07186",
+      "discovered": "2026-07-02T14:45:00.000000+00:00",
+      "theme": "multi-agent-uncertainty"
+    }
   ],
   "emergent_discoveries": [
     {
@@ -10994,6 +11018,23 @@
       "url": "https://arxiv.org/abs/2602.02405",
       "discovered": "2026-07-02T14:30:00+00:00",
       "theme": "expert-reasoning-distillation"
+    },
+    {
+      "timestamp": "2026-07-02T14:45:00.000000+00:00",
+      "mode": "emergent_concept",
+      "theme": "uncertainty quantification: evidence-based ranking confidence + UQ granularity in human-AI decision making + uncertainty-driven debate collapse prevention",
+      "papers_added": [
+        "evirank-evidence-based-confidence-estimation-for-llm-based-ranking-2606.04727",
+        "not-all-uncertainty-is-equal-how-uncertainty-granularity-shapes-human-verification-in-llm-assisted-decision-making-2605.28571",
+        "the-value-of-variance-mitigating-debate-collapse-in-multi-agent-systems-via-uncertainty-driven-policy-optimization-2602.07186"
+      ],
+      "arxiv_ids": [
+        "2606.04727",
+        "2605.28571",
+        "2602.07186"
+      ],
+      "entities_count_after": 607,
+      "pitfalls_hit": "NONE in main flow"
     }
   ],
   "emergent_concept_search_log": [
@@ -16907,8 +16948,8 @@
   "last_watched": "2026-06-29T10:30:00+00:00",
   "last_run_pitfalls": [],
   "last_run_theme": "AGENTIC-PLANNING + SKILL-ROUTING",
-  "emergent_concept_papers_count": 372,
-  "emergent_discoveries_count": 385,
+  "emergent_concept_papers_count": 543,
+  "emergent_discoveries_count": 559,
   "last_run_picks_count": 3,
   "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE",
   "last_run_timestamp": "2026-06-29T21:45:00+00:00"
