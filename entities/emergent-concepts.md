@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-03 — Run 215) — REASONING-AWARE PRUNING / FAULT-TOLERANT LLM AGENT CONTROL / GRAPH-RAG REASONING BOTTLENECK**
+
+- [[relative-kinetic-utility-for-reasoning-aware-structural-pruning-in-large-language-models-2605.09008]]
+  RASP Pruning: First reasoning-aware structural pruning using Relative Kinetic Utility (RKU) — measures per-neuron contribution to CoT reasoning path propagation; magnitude-based methods cut CoT-critical neurons; achieves 2.1x KV cache reduction with <1.5% accuracy degradation.
+
+- [[from-detection-to-action-using-llm-agents-for-fault-tolerant-control-2606.28011]]
+  Fault-Tolerant LLM Agents: First agentic LLM framework for active FTC coupling multi-agent workflow with Digital Process Plant Twin (DPPT) — decomposes recovery into monitoring/planning/synthesis/simulation/validation; pre-execution validation prevents secondary failures.
+
+- [[the-reasoning-bottleneck-in-graph-rag-structured-prompting-and-context-compression-for-multi-hop-qa-2603.14045]]
+  Graph-RAG Reasoning Bottleneck: First diagnosis of the Graph-RAG reasoning gap — 77-91% of retrieved contexts contain gold answer but accuracy only 35-78%; 73-84% of errors are reasoning failures not retrieval failures; SPARQL chain augmentation improves multi-hop accuracy by 15-22 points.
 **2026-07-03 — Run 214) — MULTI-AGENT REASONING AUDIT / COUNTERFACTUAL CAUSAL EXPLANATION / HIERARCHICAL DEBATE STRUCTURE**
 
 - [[a-multi-agent-audit-framework-for-high-stakes-reasoning-evaluation-and-interpret-2606.21123]]
