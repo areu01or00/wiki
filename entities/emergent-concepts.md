@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 230) — META-COGNITIVE AGENTS / CREATIVE REASONING BENCHMARKING / HUMAN-LLM CO-PLANNING**
+
+- [[ma2p-a-meta-cognitive-autonomous-intelligent-agents-framework-for-complex-persuasion-2605.18572]]
+  MA²P: Meta-cognitive multi-agent framework for complex persuasion — coordinates mental-state inference, strategy execution, and memory with a meta-cognitive configurator for domain-adaptive persuasion strategy selection. **First meta-cognitive LLM persuasion agent paper in the wiki.**
+
+- [[creativitybench-evaluating-agent-creative-reasoning-via-affordance-based-tool-repurposing-2605.02910]]
+  CreativityBench: First benchmark for affordance-based creative tool repurposing in LLMs — 14K tasks requiring non-canonical object use based on physical affordance reasoning. Reveals that strong reasoning and CoT do not transfer to creative tool discovery. **First creative affordance reasoning benchmark paper in the wiki.**
+
+- [[how-to-steer-your-multi-agent-system-human-llm-collaborative-planning-2605.23023]]
+  AMBIPOM: Human-LLM collaborative planning framework with process-level supervision — formalizes a 3-axis design space (mode × scope × level) for steering multi-agent systems. **First human-LLM co-planning process supervision paper in the wiki.**
+
 **2026-06-30 — Run 229)**
 
 - [[muse-a-unified-agentic-harness-for-mllms-2606.03005]] — MUSE: Unified execution harness for MLLMs without retraining — elicits capabilities from frozen models via structured scaffold

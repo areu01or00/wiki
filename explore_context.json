@@ -4,8 +4,8 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-07-04T00:15:00.000000+00:00",
-  "last_run": 229,
-  "last_explore": "2026-06-30T23:01:51.909392",
+  "last_run": 230,
+  "last_explore": "2026-06-30T23:17:16.789549+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-06-30",
   "last_run_framing": "RLVR CREDIT ASSIGNMENT / LLM HUMAN RELIANCE TYPOLOGY / MLLM EXECUTION HARNESS",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 699,
+  "entities_count": 702,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6988,6 +6988,30 @@
       "discovered": "2026-06-30T22:33:43.517334+00:00",
       "theme": "knowledge distillation / embedding / layer alignment",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.18572",
+      "title": "MA$^{2}$P: A Meta-Cognitive Autonomous Intelligent Agents Framework for Complex Persuasion",
+      "slug": "ma2p-a-meta-cognitive-autonomous-intelligent-agents-framework-for-complex-persuasion-2605.18572",
+      "url": "https://arxiv.org/abs/2605.18572",
+      "discovered": "2026-06-30T23:17:16.789549+00:00",
+      "theme": "llm agents / meta-cognition / multi-agent persuasion / mental-state inference"
+    },
+    {
+      "arxiv_id": "2605.02910",
+      "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+      "slug": "creativitybench-evaluating-agent-creative-reasoning-via-affordance-based-tool-repurposing-2605.02910",
+      "url": "https://arxiv.org/abs/2605.02910",
+      "discovered": "2026-06-30T23:17:16.789549+00:00",
+      "theme": "llm agent benchmarking / creative reasoning / affordance-based tool repurposing"
+    },
+    {
+      "arxiv_id": "2605.23023",
+      "title": "How to Steer Your Multi-Agent System: Human-LLM Collaborative Planning",
+      "slug": "how-to-steer-your-multi-agent-system-human-llm-collaborative-planning-2605.23023",
+      "url": "https://arxiv.org/abs/2605.23023",
+      "discovered": "2026-06-30T23:17:16.789549+00:00",
+      "theme": "llm multi-agent / human-ai collaboration / planning transparency / process supervision"
     }
   ],
   "emergent_discoveries": [
@@ -12266,6 +12290,30 @@
       "url": "https://arxiv.org/abs/2606.03005",
       "discovered": "2026-06-30T23:01:51.909436",
       "theme": "multimodal llm / agentic execution scaffold / frozen model capability elicitation"
+    },
+    {
+      "arxiv_id": "2605.18572",
+      "title": "MA$^{2}$P: A Meta-Cognitive Autonomous Intelligent Agents Framework for Complex Persuasion",
+      "slug": "ma2p-a-meta-cognitive-autonomous-intelligent-agents-framework-for-complex-persuasion-2605.18572",
+      "url": "https://arxiv.org/abs/2605.18572",
+      "discovered": "2026-06-30T23:17:16.789549+00:00",
+      "theme": "llm agents / meta-cognition / multi-agent persuasion / mental-state inference"
+    },
+    {
+      "arxiv_id": "2605.02910",
+      "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+      "slug": "creativitybench-evaluating-agent-creative-reasoning-via-affordance-based-tool-repurposing-2605.02910",
+      "url": "https://arxiv.org/abs/2605.02910",
+      "discovered": "2026-06-30T23:17:16.789549+00:00",
+      "theme": "llm agent benchmarking / creative reasoning / affordance-based tool repurposing"
+    },
+    {
+      "arxiv_id": "2605.23023",
+      "title": "How to Steer Your Multi-Agent System: Human-LLM Collaborative Planning",
+      "slug": "how-to-steer-your-multi-agent-system-human-llm-collaborative-planning-2605.23023",
+      "url": "https://arxiv.org/abs/2605.23023",
+      "discovered": "2026-06-30T23:17:16.789549+00:00",
+      "theme": "llm multi-agent / human-ai collaboration / planning transparency / process supervision"
     }
   ],
   "emergent_concept_search_log": [
@@ -18501,6 +18549,19 @@
       ],
       "run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
       "date": "2026-06-30"
+    },
+    {
+      "run": 230,
+      "date": "2026-06-30T23:17:16.789549+00:00",
+      "picks": [
+        "2605.18572",
+        "2605.02910",
+        "2605.23023"
+      ],
+      "theme": "META-COGNITIVE AGENTS / CREATIVE REASONING BENCHMARKING / HUMAN-LLM CO-PLANNING",
+      "framing": "meta-cognitive reasoning / creative affordance reasoning / human-ai collaborative planning",
+      "method": "arxiv HTML 4-query + abstract inspection",
+      "picks_count": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

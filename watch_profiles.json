@@ -1363,7 +1363,10 @@
         "2ea723753368462acaf36c07abb5c1d0",
         "2606.18810",
         "2606.28749",
-        "2606.03005"
+        "2606.03005",
+        "fb23608cc94219dce6c0e74665d4ef07",
+        "ad9b09b98a611de64ae1b501129cf9a9",
+        "5bc12a8697b8ccae5409e6b0c9d1aa45"
       ],
       "last_results": [
         {
@@ -5304,6 +5307,33 @@
           "chain": "emergent-concepts",
           "theme": "multimodal llm / agentic execution scaffold / frozen model capability elicitation",
           "discovered": "2026-06-30T23:01:51.937072"
+        },
+        {
+          "arxiv_id": "2605.18572",
+          "title": "",
+          "hash": "fb23608cc94219dce6c0e74665d4ef07",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "meta-cognitive agents / creative reasoning / human-llm co-planning",
+          "discovered": "2026-06-30T00:00:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2605.02910",
+          "title": "",
+          "hash": "ad9b09b98a611de64ae1b501129cf9a9",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "meta-cognitive agents / creative reasoning / human-llm co-planning",
+          "discovered": "2026-06-30T00:00:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2605.23023",
+          "title": "",
+          "hash": "5bc12a8697b8ccae5409e6b0c9d1aa45",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "meta-cognitive agents / creative reasoning / human-llm co-planning",
+          "discovered": "2026-06-30T00:00:00.000000+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -6001,7 +6031,10 @@
     "2ea723753368462acaf36c07abb5c1d0",
     "2606.18810",
     "2606.28749",
-    "2606.03005"
+    "2606.03005",
+    "fb23608cc94219dce6c0e74665d4ef07",
+    "ad9b09b98a611de64ae1b501129cf9a9",
+    "5bc12a8697b8ccae5409e6b0c9d1aa45"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T22:05:37+00:00",
@@ -6692,7 +6725,10 @@
       "2ea723753368462acaf36c07abb5c1d0",
       "2606.18810",
       "2606.28749",
-      "2606.03005"
+      "2606.03005",
+      "fb23608cc94219dce6c0e74665d4ef07",
+      "ad9b09b98a611de64ae1b501129cf9a9",
+      "5bc12a8697b8ccae5409e6b0c9d1aa45"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
