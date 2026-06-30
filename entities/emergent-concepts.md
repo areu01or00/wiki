@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 199) — RLVR ZERO-HIT SUPERVISION / EVIDENCE-DRIVEN VIDEO REFLECTION / AGENTIC AI FINANCIAL SECURITY**
+
+- [[latentrevise-learning-from-zero-hit-reasoning-2606.29938]]
+  LatentRevise: First latent revision method for zero-hit RLVR prompts — optimizes reasoning prefix embeddings under dual complementary gradients (away from failed continuation, toward gold answer); recovers training signal where standard RLVR fails on hard prompts with low correct-trajectory probability.
+
+- [[reflect-r1-evidence-driven-reflection-for-self-correction-in-long-video-understanding-2606.27922]]
+  Reflect-R1: First evidence-driven self-correction framework for long video understanding — 3-stage pipeline (intuition/verification/arbitration); SD-GRPO stage-decoupled RL; 120K dataset; achieves state-of-the-art on VideoMME and LongVideoBench.
+
+- [[agent-security-meets-regulatory-reality-a-practitioner-systematization-of-autonomous-agent-threats-and-controls-in-regulated-financial-systems-2606.29142]]
+  Agent Security in Regulated Finance: First practitioner systematization mapping 6 agentic threat categories (prompt injection, tool abuse, auditability, etc.) onto US/EU financial regulation (ECOA, Reg B, EU AI Act, GDPR Art. 22); 4 production architectural patterns; 3 negative results.
+
 **2026-07-02 — Run 198) — LLM UNCERTAINTY QUANTIFICATION: EVIDENCE-BASED RANKING / UQ GRANULARITY / UNCERTAINTY-DRIVEN DEBATE COLLAPSE PREVENTION**
 
 - [[evirank-evidence-based-confidence-estimation-for-llm-based-ranking-2606.04727]]
