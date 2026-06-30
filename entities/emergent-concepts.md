@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 167) — SELF-EVOLVING WORLD MODELS + AGENTIC KERNEL SPECULATION + KV-CACHE COVERAGE DISCOVERY**
+
+- [[worldevolver-self-evolving-world-models-for-llm-agent-planning-2606.30639]] — WorldEvolver: Self-Evolving World Models for LLM Agent Planning — episodic + semantic memory modules that revise world model context at deployment time without retraining; selective foresight filters low-confidence predictions; test-time memory revision boosts both world model accuracy and downstream planning success; 2606.30639.
+- [[specgen-accelerating-agentic-kernel-optimization-with-speculative-generation-2606.17518]] — SpecGen: Agentic Kernel Optimization via Speculative Generation — forks non-reasoning generations at reasoning trace trigger points; parallel kernel validation/profiling against ongoing reasoning; remote KV cache as speculative prefix storage; 2.41× speedup on H200; 2606.17518.
+- [[coverage-driven-kv-cache-eviction-kvec-2606.29563]] — K-VEC: Coverage-Driven KV Cache Eviction — cross-head/cross-layer coverage module prioritizes token retention over attention-weight sparsity; up to 10.35 points improvement over prior eviction strategies at same memory budget; addresses mutual-information degradation in coverage-reducing baselines; 2606.29563.
+
 **2026-06-30 — Run 166) — MULTI-AGENT CONCURRENCY CONTROL + LONG-CONTEXT SPARSE ATTENTION + EDGE RAG PROMPT COMPRESSION discovery**
 
 - [[coagent-concurrency-control-multi-agent-systems-2606.15376]] — CoAgent: Concurrency Control for Multi-Agent Systems — introduces MTPO (Monotonic Trajectory Pre-Order) protocol replacing blocking locks with advisory control; runtime informs agents of conflicts, each agent judges and repairs invalidated state; stays within 5% of serial correctness at 1.4× speedup; lifts task pass rate from 45/71 to 63/71 at 0.80× time and 0.86× cost; 2606.15376.

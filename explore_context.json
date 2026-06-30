@@ -2,15 +2,15 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-30T04:31:09.954824+00:00",
+  "updated": "2026-06-30T05:37:49+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 165,
-  "last_explore": "2026-07-01T11:00:00.000000+00:00",
+  "last_run": 167,
+  "last_explore": "2026-06-30T05:37:49+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-07-01T11:00:00.000000+00:00",
-  "last_run_framing": "SELECTIVE-FORGETTING / TOKEN-LEVEL-UNLEARNING / MULTI-AGENT-TEST-TIME-SCALING",
-  "last_framing": "MULTIAGENT-SECURITY-PROTOCOL",
-  "last_run_notes": "Run 165: ATWU (2606.06320) + Selective Forgetting LRMs (2604.03571) + TMAS (2605.10344)",
+  "last_discovery": "2026-06-30T05:37:49+00:00",
+  "last_run_framing": "SELF-EVOLVING WORLD MODELS / AGENTIC KERNEL SPECULATION / KV-CACHE COVERAGE",
+  "last_framing": "AGENTIC-SYSTEMS / INFERENCE-EFFICIENCY",
+  "last_run_notes": "Run 167: WorldEvolver (2606.30639) + SpecGen (2606.17518) + K-VEC (2606.29563)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 511,
+  "entities_count": 514,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5743,7 +5743,34 @@
     },
     "2606.15376",
     "2606.13392",
-    "2606.20571"
+    "2606.20571",
+    {
+      "arxiv_id": "2606.30639",
+      "title": "Self-Evolving World Models for LLM Agent Planning",
+      "slug": "worldevolver-self-evolving-world-models-for-llm-agent-planning-2606.30639",
+      "url": "https://arxiv.org/abs/2606.30639",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T05:37:49+00:00",
+      "theme": "world model / test-time memory revision / agentic planning"
+    },
+    {
+      "arxiv_id": "2606.17518",
+      "title": "SpecGen: Accelerating Agentic Kernel Optimization with Speculative Generation",
+      "slug": "specgen-accelerating-agentic-kernel-optimization-with-speculative-generation-2606.17518",
+      "url": "https://arxiv.org/abs/2606.17518",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T05:37:49+00:00",
+      "theme": "agentic AI / kernel optimization / speculative generation / GPU efficiency"
+    },
+    {
+      "arxiv_id": "2606.29563",
+      "title": "Coverage-Driven KV Cache Eviction for Efficient and Improved Inference of LLM",
+      "slug": "coverage-driven-kv-cache-eviction-kvec-2606.29563",
+      "url": "https://arxiv.org/abs/2606.29563",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T05:37:49+00:00",
+      "theme": "inference efficiency / KV-cache / memory management / long-context"
+    }
   ],
   "emergent_discoveries": [
     {
@@ -9586,6 +9613,33 @@
       "url": "https://arxiv.org/abs/2606.20571",
       "discovered": "2026-06-30T05:16",
       "theme": "edge-ai-prompt-compression"
+    },
+    {
+      "arxiv_id": "2606.30639",
+      "title": "Self-Evolving World Models for LLM Agent Planning",
+      "slug": "worldevolver-self-evolving-world-models-for-llm-agent-planning-2606.30639",
+      "url": "https://arxiv.org/abs/2606.30639",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T05:37:49+00:00",
+      "theme": "world model / test-time memory revision / agentic planning"
+    },
+    {
+      "arxiv_id": "2606.17518",
+      "title": "SpecGen: Accelerating Agentic Kernel Optimization with Speculative Generation",
+      "slug": "specgen-accelerating-agentic-kernel-optimization-with-speculative-generation-2606.17518",
+      "url": "https://arxiv.org/abs/2606.17518",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T05:37:49+00:00",
+      "theme": "agentic AI / kernel optimization / speculative generation / GPU efficiency"
+    },
+    {
+      "arxiv_id": "2606.29563",
+      "title": "Coverage-Driven KV Cache Eviction for Efficient and Improved Inference of LLM",
+      "slug": "coverage-driven-kv-cache-eviction-kvec-2606.29563",
+      "url": "https://arxiv.org/abs/2606.29563",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T05:37:49+00:00",
+      "theme": "inference efficiency / KV-cache / memory management / long-context"
     }
   ],
   "emergent_concept_search_log": [
@@ -14909,6 +14963,20 @@
         "2606.20571"
       ],
       "mode": "emergent-concept"
+    },
+    {
+      "run": 167,
+      "date": "2026-06-30",
+      "papers_added": 3,
+      "paper_ids": [
+        "2606.30639",
+        "2606.17518",
+        "2606.29563"
+      ],
+      "theme": "world model / inference efficiency / agentic AI",
+      "framing": "SELF-EVOLVING WORLD MODELS + AGENTIC KERNEL SPECULATION + KV-CACHE COVERAGE",
+      "method": "web_search via arxiv HTML search + 4-query agentic/self-supervision probe",
+      "notes": "Rule 105 candidate: AGENTIC-SELF-SUPERVISION-PROBE"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
