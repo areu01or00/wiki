@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 206) — EMBODY WORLD MODELS / CODE EXECUTION COST / ASYNC PIPELINE PARALLEL LLM TRAINING**
+
+- [[vesta-a-generalist-embodied-reasoning-model-2606.20905]]
+  Vesta: First unified embodied generalist consolidating localization, spatial reasoning, navigation, and long-horizon planning into a single foundation model — replaces expensive multi-model specialist stacks with cascading error propagation.
+
+- [[to-run-or-not-to-run-analyzing-cost-effectiveness-of-code-execution-in-llm-based-program-repair-2606.26978]]
+  Code Execution Cost-Effectiveness: First systematic analysis of the generate-run-revise paradigm in LLM program repair agents — provides decision framework for when code execution improves patch quality enough to justify its cost vs when it is wasted compute.
+
+- [[one-step-gradient-delay-async-pipeline-parallel-llm-pretraining-2606.30634]]
+  One-Step Gradient Delay: First empirical validation that one-step gradient staleness (async pipeline parallelism) does not degrade final model quality — PipeDream-2BW eliminates pipeline bubbles while maintaining synchronous-training-level accuracy.
 **2026-07-02 — Run 205) — FINE-TUNING REVERSION / CODE AGENT STRUCTURAL REASONING / AGENT GENERALIZATION BENCHMARKING**
 
 - [[a-gravitational-interpretation-of-fine-tuning-reversion-2606.28525]]

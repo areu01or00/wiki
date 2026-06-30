@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 205,
+  "last_run": 206,
   "last_explore": "2026-07-02T15:45:00.000000+00:00",
   "last_global_explore": "2026-07-02T15:45:00.000000+00:00",
   "last_discovery": "2026-07-02+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "gui-grounding / world-modeling / test-time-compute",
   "emergent_theme": "gui-grounding-world-modeling-test-time-compute",
   "chains_updated": 0,
-  "entities_count": 628,
+  "entities_count": 631,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6646,7 +6646,10 @@
       "discovered": "2026-07-02T15:45:00.000000+00:00",
       "theme": "agent benchmarking / generalization / challenging environments",
       "chain": "emergent-concepts"
-    }
+    },
+    "2606.20905",
+    "2606.26978",
+    "2606.30634"
   ],
   "emergent_discoveries": [
     {
@@ -11374,6 +11377,30 @@
       "discovered": "2026-07-02T15:45:00.000000+00:00",
       "theme": "agent benchmarking / generalization / challenging environments",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.20905",
+      "title": "vesta a generalist embodied reasoning model",
+      "slug": "vesta-a-generalist-embodied-reasoning-model",
+      "url": "https://arxiv.org/abs/2606.20905",
+      "discovered": "2026-07-02T16:30:00+00:00",
+      "theme": "embodied-world-model / code-execution-cost / async-pipeline-parallel"
+    },
+    {
+      "arxiv_id": "2606.26978",
+      "title": "to run or not to run analyzing cost effectiveness of code execution in llm based program repair",
+      "slug": "to-run-or-not-to-run-analyzing-cost-effectiveness-of-code-execution-in-llm-based-program-repair",
+      "url": "https://arxiv.org/abs/2606.26978",
+      "discovered": "2026-07-02T16:30:00+00:00",
+      "theme": "embodied-world-model / code-execution-cost / async-pipeline-parallel"
+    },
+    {
+      "arxiv_id": "2606.30634",
+      "title": "one step gradient delay async pipeline parallel llm pretraining",
+      "slug": "one-step-gradient-delay-async-pipeline-parallel-llm-pretraining",
+      "url": "https://arxiv.org/abs/2606.30634",
+      "discovered": "2026-07-02T16:30:00+00:00",
+      "theme": "embodied-world-model / code-execution-cost / async-pipeline-parallel"
     }
   ],
   "emergent_concept_search_log": [
@@ -17285,6 +17312,18 @@
         "how-much-static-structure-do-code-agents-need-a-study-of-deterministic-anchoring-2606.26979",
         "running-the-gauntlet-re-evaluating-the-capabilities-of-agents-beyond-familiar-environments-2606.14397"
       ]
+    },
+    {
+      "run_number": 206,
+      "theme": "embodied world models / code execution cost-effectiveness / async pipeline parallel LLM training",
+      "picks": [
+        "2606.20905",
+        "2606.26978",
+        "2606.30634"
+      ],
+      "vector": "emergent-concepts",
+      "chain": "emergent-concepts",
+      "date": "2026-07-02"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
