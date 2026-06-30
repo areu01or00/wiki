@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-07-04T00:15:00.000000+00:00",
-  "last_run": 230,
-  "last_explore": "2026-06-30T23:17:16.789549+00:00",
+  "last_run": 231,
+  "last_explore": "2026-07-04T00:23:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
-  "last_discovery": "2026-06-30",
-  "last_run_framing": "RLVR CREDIT ASSIGNMENT / LLM HUMAN RELIANCE TYPOLOGY / MLLM EXECUTION HARNESS",
-  "last_framing": "formal methods / llm reliability / gui agent document guidance",
-  "last_run_notes": "Run 229: Self-Conditioned Credit Assignment (2606.18810) + LLM Reliance Typology (2606.28749) + MUSE MLLM Harness (2606.03005)",
+  "last_discovery": "2026-07-04",
+  "last_run_framing": "INDUSTRIAL MULTI-AGENT SCHEDULING / KV-CACHE NETWORK ROUTING / MATH RETRIEVER BENCHMARK",
+  "last_framing": "industrial multi-agent scheduling / disaggregated inference / math retriever benchmark",
+  "last_run_notes": "Run 231: DynAMO (2606.19382) + NetKV (2606.03910) + SABER-Math (2606.29894)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 702,
+  "entities_count": 705,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7012,6 +7012,33 @@
       "url": "https://arxiv.org/abs/2605.23023",
       "discovered": "2026-06-30T23:17:16.789549+00:00",
       "theme": "llm multi-agent / human-ai collaboration / planning transparency / process supervision"
+    },
+    {
+      "arxiv_id": "2606.19382",
+      "title": "DynAMO: Dynamic Asset Management Orchestration via Topological Multi-Agent Scheduling",
+      "slug": "dynamo-dynamic-asset-management-orchestration-via-topological-multi-agent-schedu-2606.19382",
+      "url": "https://arxiv.org/abs/2606.19382",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-04T00:23:00+00:00",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.03910",
+      "title": "NetKV: Network-Aware Decode Instance Selection for Disaggregated LLM Inference",
+      "slug": "netkv-network-aware-decode-instance-selection-for-disaggregated-llm-inference-2606.03910",
+      "url": "https://arxiv.org/abs/2606.03910",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-04T00:23:00+00:00",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.29894",
+      "title": "SABER-Math: Automated Benchmark for Information Retrieval Evaluation in Mathematics",
+      "slug": "saber-math-automated-benchmark-for-information-retrieval-evaluation-in-mathemati-2606.29894",
+      "url": "https://arxiv.org/abs/2606.29894",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-04T00:23:00+00:00",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -12314,6 +12341,30 @@
       "url": "https://arxiv.org/abs/2605.23023",
       "discovered": "2026-06-30T23:17:16.789549+00:00",
       "theme": "llm multi-agent / human-ai collaboration / planning transparency / process supervision"
+    },
+    {
+      "arxiv_id": "2606.19382",
+      "title": "DynAMO: Dynamic Asset Management Orchestration via Topological Multi-Agent Scheduling",
+      "slug": "dynamo-dynamic-asset-management-orchestration-via-topological-multi-agent-schedu-2606.19382",
+      "url": "https://arxiv.org/abs/2606.19382",
+      "discovered": "2026-07-04T00:23:00+00:00",
+      "theme": "llm-agents / industrial-AI / multi-agent-scheduling / safety"
+    },
+    {
+      "arxiv_id": "2606.03910",
+      "title": "NetKV: Network-Aware Decode Instance Selection for Disaggregated LLM Inference",
+      "slug": "netkv-network-aware-decode-instance-selection-for-disaggregated-llm-inference-2606.03910",
+      "url": "https://arxiv.org/abs/2606.03910",
+      "discovered": "2026-07-04T00:23:00+00:00",
+      "theme": "llm-inference / kv-cache / disaggregated-serving / memory-efficiency"
+    },
+    {
+      "arxiv_id": "2606.29894",
+      "title": "SABER-Math: Automated Benchmark for Information Retrieval Evaluation in Mathematics",
+      "slug": "saber-math-automated-benchmark-for-information-retrieval-evaluation-in-mathemati-2606.29894",
+      "url": "https://arxiv.org/abs/2606.29894",
+      "discovered": "2026-07-04T00:23:00+00:00",
+      "theme": "llm-benchmark / agentic-AI / information-retrieval / mathematical-reasoning"
     }
   ],
   "emergent_concept_search_log": [
@@ -18561,6 +18612,19 @@
       "theme": "META-COGNITIVE AGENTS / CREATIVE REASONING BENCHMARKING / HUMAN-LLM CO-PLANNING",
       "framing": "meta-cognitive reasoning / creative affordance reasoning / human-ai collaborative planning",
       "method": "arxiv HTML 4-query + abstract inspection",
+      "picks_count": 3
+    },
+    {
+      "run": 231,
+      "date": "2026-07-04T00:23:00+00:00",
+      "picks": [
+        "2606.19382",
+        "2606.03910",
+        "2606.29894"
+      ],
+      "theme": "INDUSTRIAL MULTI-AGENT SCHEDULING / KV-CACHE NETWORK ROUTING / MATH RETRIEVER BENCHMARK",
+      "framing": "industrial multi-agent scheduling / disaggregated inference / math retriever benchmark",
+      "method": "arxiv HTML 4-query + abstract inspection + LLM keyword filter",
       "picks_count": 3
     }
   ],

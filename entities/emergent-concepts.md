@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 231) — INDUSTRIAL MULTI-AGENT SCHEDULING / KV-CACHE NETWORK ROUTING / MATH RETRIEVER BENCHMARK**
+
+- [[dynamo-dynamic-asset-management-orchestration-via-topological-multi-agent-schedu-2606.19382]]
+  DynAMO: Plan-then-Execute LLM multi-agent engine for Industry 4.0 asset lifecycle automation — topological workflow graph generation with latency and safety constraints. Complements HMA-Serve disaggregated serving work from Run 223. **First topological multi-agent scheduling paper in the wiki.**
+
+- [[netkv-network-aware-decode-instance-selection-for-disaggregated-llm-inference-2606.03910]]
+  NetKV: Network-topology-aware decode instance selection for disaggregated LLM inference — KV cache network transfer time as first-class TTFT budget constraint. Complements HMA-Serve (memory heterogeneity) and geometry-aware scheduling (Run 222) with a network-layer focus. **First KV-cache network routing paper in the wiki.**
+
+- [[saber-math-automated-benchmark-for-information-retrieval-evaluation-in-mathemati-2606.29894]]
+  SABER-Math: First benchmark isolating retriever effectiveness in mathematical agentic AI systems — enables controlled comparison of IR choices for math theorem/problem database search. **First math-specific retriever benchmark for agentic AI in the wiki.**
+
 **2026-06-30 — Run 230) — META-COGNITIVE AGENTS / CREATIVE REASONING BENCHMARKING / HUMAN-LLM CO-PLANNING**
 
 - [[ma2p-a-meta-cognitive-autonomous-intelligent-agents-framework-for-complex-persuasion-2605.18572]]

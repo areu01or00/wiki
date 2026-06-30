@@ -1366,7 +1366,10 @@
         "2606.03005",
         "fb23608cc94219dce6c0e74665d4ef07",
         "ad9b09b98a611de64ae1b501129cf9a9",
-        "5bc12a8697b8ccae5409e6b0c9d1aa45"
+        "5bc12a8697b8ccae5409e6b0c9d1aa45",
+        "2606.19382",
+        "2606.03910",
+        "2606.29894"
       ],
       "last_results": [
         {
@@ -5334,6 +5337,33 @@
           "chain": "emergent-concepts",
           "theme": "meta-cognitive agents / creative reasoning / human-llm co-planning",
           "discovered": "2026-06-30T00:00:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2606.19382",
+          "title": "DynAMO: Dynamic Asset Management Orchestration via Topological Multi-Agent Scheduling",
+          "hash": "cef0b1b6526e97cdaa013cd60f97e740",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "llm-agents / industrial-AI / multi-agent-scheduling",
+          "discovered": "2026-07-04T00:23:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.03910",
+          "title": "NetKV: Network-Aware Decode Instance Selection for Disaggregated LLM Inference",
+          "hash": "48b402dbf57bee577822bfac7fe974ca",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "llm-inference / kv-cache / disaggregated-serving",
+          "discovered": "2026-07-04T00:23:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.29894",
+          "title": "SABER-Math: Automated Benchmark for Information Retrieval Evaluation in Mathematics",
+          "hash": "7a2847d064988fa2fb509df4d552f190",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "llm-benchmark / agentic-AI / information-retrieval",
+          "discovered": "2026-07-04T00:23:00+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -6034,7 +6064,10 @@
     "2606.03005",
     "fb23608cc94219dce6c0e74665d4ef07",
     "ad9b09b98a611de64ae1b501129cf9a9",
-    "5bc12a8697b8ccae5409e6b0c9d1aa45"
+    "5bc12a8697b8ccae5409e6b0c9d1aa45",
+    "2606.19382",
+    "2606.03910",
+    "2606.29894"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T22:05:37+00:00",
@@ -6728,7 +6761,10 @@
       "2606.03005",
       "fb23608cc94219dce6c0e74665d4ef07",
       "ad9b09b98a611de64ae1b501129cf9a9",
-      "5bc12a8697b8ccae5409e6b0c9d1aa45"
+      "5bc12a8697b8ccae5409e6b0c9d1aa45",
+      "2606.19382",
+      "2606.03910",
+      "2606.29894"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
