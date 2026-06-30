@@ -1357,7 +1357,10 @@
         "2512.01457",
         "ca7b6671da4ec17289735db5189498f1",
         "d698cb52c009d4232baabd3701f0ebd3",
-        "4794808034078d5e2e310716dfff6651"
+        "4794808034078d5e2e310716dfff6651",
+        "100cf7d45960c9fc06028c9bfe247674",
+        "271abdc197542168af0780d9972422ee",
+        "2ea723753368462acaf36c07abb5c1d0"
       ],
       "last_results": [
         {
@@ -5244,6 +5247,33 @@
           "chain": "emergent-concepts",
           "theme": "knowledge distillation / embedding / layer alignment",
           "discovered": "2026-06-30T22:33:43.517125+00:00"
+        },
+        {
+          "arxiv_id": "2605.17475",
+          "title": "Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair",
+          "hash": "100cf7d45960c9fc06028c9bfe247674",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "emergent concept",
+          "discovered": "2026-07-04T00:15:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2512.24058",
+          "title": "Beyond Hallucinations: A Composite Score for Measuring Reliability in Open-Source Large Language Models",
+          "hash": "271abdc197542168af0780d9972422ee",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "emergent concept",
+          "discovered": "2026-07-04T00:15:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2605.18048",
+          "title": "DocOS: Towards Proactive Document-Guided Actions in GUI Agents",
+          "hash": "2ea723753368462acaf36c07abb5c1d0",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "emergent concept",
+          "discovered": "2026-07-04T00:15:00.000000+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5935,7 +5965,10 @@
     "2512.01457",
     "ca7b6671da4ec17289735db5189498f1",
     "d698cb52c009d4232baabd3701f0ebd3",
-    "4794808034078d5e2e310716dfff6651"
+    "4794808034078d5e2e310716dfff6651",
+    "100cf7d45960c9fc06028c9bfe247674",
+    "271abdc197542168af0780d9972422ee",
+    "2ea723753368462acaf36c07abb5c1d0"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T22:05:37+00:00",
@@ -6620,7 +6653,10 @@
       "2512.01457",
       "ca7b6671da4ec17289735db5189498f1",
       "d698cb52c009d4232baabd3701f0ebd3",
-      "4794808034078d5e2e310716dfff6651"
+      "4794808034078d5e2e310716dfff6651",
+      "100cf7d45960c9fc06028c9bfe247674",
+      "271abdc197542168af0780d9972422ee",
+      "2ea723753368462acaf36c07abb5c1d0"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

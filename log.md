@@ -1,3 +1,4 @@
+- 2026-07-04T00:15:00 UTC: Run 228 — Event-B Agent (2605.17475) + Beyond Hallucinations (2512.24058) + DocOS (2605.18048) — formal verification agents / llm reliability scoring / document-guided gui agents
 - 2026-06-30T21:21:53 UTC: Run 222 — LaneRoPE (2605.27570) + Prune-as-You-Generate (2603.24840) + Accordion-Thinking (2602.03249) — test-time compute efficiency
 ## Run 191 — 2026-07-02
 

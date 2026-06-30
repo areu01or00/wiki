@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 228) — FORMAL VERIFICATION AGENTS / LLM RELIABILITY SCORING / DOCUMENT-GUIDED GUI AGENTS**
+
+- [[event-b-agent-towards-llm-agent-for-formal-model-synthesis-and-repair-2605.17475]]
+  Event-B Agent: First LLM agent framework using Event-B as formal specification substrate for iterative synthesis and proof repair — bridges correct-by-construction software engineering with LLM agentic reasoning. **First formal verification + LLM agent synthesis paper in the wiki.**
+
+- [[beyond-hallucinations-a-composite-score-for-measuring-reliability-in-open-source-large-language-models-2512.24058]]
+  Beyond Hallucinations: Composite reliability score for open-source LLMs (LLaMA, Mistral, Gemma) combining hallucination rate, calibration error, and robustness under distribution shift — reveals systematic reliability differences across model families. **First composite LLM reliability scoring paper in the wiki.**
+
+- [[docos-towards-proactive-document-guided-actions-in-gui-agents-2605.18048]]
+  DocOS: Proactive document-guided GUI agent framework enabling zero-shot generalization to unseen tools via documentation reasoning rather than static parametric knowledge — addresses the long-tailed task generalization gap. **First document-guided GUI agent paper in the wiki.**
+
 **2026-07-04 — Run 227) — MULTI-AGENT CODE GENERATION / MULTI-USER GOVERNANCE / EMBEDDING DISTILLATION**
 
 - [[codeteam-llm-powered-multi-agent-framework-for-repository-level-code-generation-2606.22082]]
