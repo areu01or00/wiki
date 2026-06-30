@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-07-01T08:00:00+00:00",
-  "last_run": 154,
-  "last_explore": "2026-07-01T09:00:00+00:00",
-  "last_global_explore": "2026-07-01T09:00:00+00:00",
-  "last_discovery": "2026-07-01T09:00:00+00:00",
-  "last_run_framing": "METACOGNITIVE-SELF-AWARENESS discovery",
-  "last_framing": "METACOGNITIVE-SELF-AWARENESS",
-  "last_run_notes": "Run 154: METACOGNITIVE-SELF-AWARENESS: KAPRO (2606.20661) + RePro (2606.14302) + Mechanisms of Introspective Awareness (2603.21396)",
+  "__last_updated": "2026-07-01T09:30:00+00:00",
+  "last_run": 155,
+  "last_explore": "2026-07-01T09:30:00+00:00",
+  "last_global_explore": "2026-07-01T09:30:00+00:00",
+  "last_discovery": "2026-07-01T09:30:00+00:00",
+  "last_run_framing": "LLM INFERENCE EFFICIENCY discovery (Rule 96 continuation)",
+  "last_framing": "LLM-INFERENCE-EFFICIENCY",
+  "last_run_notes": "Run 155: LLM INFERENCE EFFICIENCY: When More Sampling Hurts (2606.28661) + EntMTP (2606.27550) + Cache-Resident LLM Inference (2606.25353)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search + web_search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 472,
+  "entities_count": 475,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5440,6 +5440,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T09:00:00+00:00",
       "theme": "LLM metacognition / self-awareness / introspective reasoning"
+    },
+    {
+      "arxiv_id": "2606.28661",
+      "slug": "when-more-sampling-hurts-modal-ceiling-correlation-ceiling-test-time-scaling-2606.28661",
+      "title": "When More Sampling Hurts: The Modal Ceiling and Correlation Ceiling of Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2606.28661",
+      "discovered": "2026-07-01T09:30:00+00:00",
+      "theme": "test-time compute scaling / inference efficiency / modal ceiling / identifiability gap",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27550",
+      "slug": "entmtp-entropy-guided-multi-token-prediction-llm-inference-acceleration-2606.27550",
+      "title": "EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction",
+      "url": "https://arxiv.org/abs/2606.27550",
+      "discovered": "2026-07-01T09:30:00+00:00",
+      "theme": "speculative decoding / entropy-guided multi-token prediction / inference efficiency",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.25353",
+      "slug": "cache-resident-llm-inference-gb-scale-last-level-caches-2606.25353",
+      "title": "Cache-Resident LLM Inference in GB-Scale Last-Level Caches",
+      "url": "https://arxiv.org/abs/2606.25353",
+      "discovered": "2026-07-01T09:30:00+00:00",
+      "theme": "inference efficiency / hardware memory hierarchy / cache-resident LLM",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -9016,6 +9046,30 @@
       "url": "https://arxiv.org/abs/2603.21396",
       "discovered": "2026-07-01T09:00:00+00:00",
       "theme": "LLM metacognition / self-awareness / introspective reasoning"
+    },
+    {
+      "arxiv_id": "2606.28661",
+      "title": "When More Sampling Hurts: The Modal Ceiling and Correlation Ceiling of Test-Time Scaling",
+      "slug": "when-more-sampling-hurts-modal-ceiling-correlation-ceiling-test-time-scaling-2606.28661",
+      "url": "https://arxiv.org/abs/2606.28661",
+      "discovered": "2026-07-01T09:30:00+00:00",
+      "theme": "test-time compute scaling / inference efficiency / modal ceiling / identifiability gap"
+    },
+    {
+      "arxiv_id": "2606.27550",
+      "title": "EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction",
+      "slug": "entmtp-entropy-guided-multi-token-prediction-llm-inference-acceleration-2606.27550",
+      "url": "https://arxiv.org/abs/2606.27550",
+      "discovered": "2026-07-01T09:30:00+00:00",
+      "theme": "speculative decoding / entropy-guided multi-token prediction / inference efficiency"
+    },
+    {
+      "arxiv_id": "2606.25353",
+      "title": "Cache-Resident LLM Inference in GB-Scale Last-Level Caches",
+      "slug": "cache-resident-llm-inference-gb-scale-last-level-caches-2606.25353",
+      "url": "https://arxiv.org/abs/2606.25353",
+      "discovered": "2026-07-01T09:30:00+00:00",
+      "theme": "inference efficiency / hardware memory hierarchy / cache-resident LLM"
     }
   ],
   "emergent_concept_search_log": [
@@ -14148,6 +14202,17 @@
       ],
       "theme": "METACOGNITIVE-SELF-AWARENESS discovery",
       "method": "arxiv HTML search + web_search"
+    },
+    {
+      "run": 155,
+      "timestamp": "2026-07-01T09:30:00+00:00",
+      "theme": "LLM INFERENCE EFFICIENCY discovery (Rule 96 continuation)",
+      "picks": [
+        "2606.28661",
+        "2606.27550",
+        "2606.25353"
+      ],
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
