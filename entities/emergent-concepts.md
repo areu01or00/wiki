@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 209) — MULTIMODAL RLHF DISTILLATION / SPARSE ATTENTION EFFICIENCY / TOOL-USE RL COLLAPSE**
+
+- [[qwen-image-20-rl-technical-report-2606.27608]]
+  Qwen-Image-2.0-RL: First unified RLHF+OPD post-training pipeline for multimodal diffusion models — composite reward models via VLM chain-of-thought scoring enable GRPO training across T2I generation and image editing with merged policy distillation.
+
+- [[simplified-sparse-attention-via-gist-tokens-2604.20920]]
+  Simplified Sparse Attention (SSA): First gist-token sparse attention requiring no architectural changes — continued pretraining with gist-token attention masks teaches selective chunk unfolding; outperforms full attention on RAG at 5.7 points after continued pretraining.
+
+- [[why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027]]
+  Tool-Use RL Collapse: First systematic analysis of catastrophic collapse in multi-step tool-use RL — probability spikes in control tokens cause format failures while capability remains intact; interleaved SFT+RL stabilizes training but degrades under OOD evaluation.
+
 **2026-07-02 — Run 208) — VARIATIONAL BAYESIAN PEFT / ARTIFICIAL UNCERTAINTY INDUCTION / LONG-CONTEXT ATTENTION EFFICIENCY**
 
 - [[scalable-variational-bayesian-finetuning-llms-via-orthogonalized-lowrank-2604.03388]]
