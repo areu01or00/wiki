@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-06-30T00:00:00+00:00",
-  "last_run": 223,
+  "last_run": 224,
   "last_explore": "2026-07-04T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-04",
-  "last_run_framing": "agentic AI architecture evolution / disaggregated inference serving / biomedical tool-augmented reasoning",
-  "last_framing": "agentic AI architecture evolution / disaggregated inference serving / biomedical tool-augmented reasoning",
-  "last_run_notes": "Run 222: LaneRoPE (2605.27570) + Prune-as-You-Generate (2603.24840) + Accordion-Thinking (2602.03249)",
+  "last_run_framing": "training-free inference efficiency / RLVR theory / gradient-based interpretability",
+  "last_framing": "training-free inference efficiency / RLVR theory / gradient-based interpretability",
+  "last_run_notes": "Run 224: NLL-Guided Layer Selection (2606.27791) + Grad Detect (2606.24790) + RLVR vs SFT Theory (2606.22938)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "test-time compute efficiency / KV-cache optimization / RLVR training efficiency / CoT reasoning",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 681,
+  "entities_count": 684,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6901,6 +6901,36 @@
       "theme": "biomedical AI agent / treatment reasoning / RL over tool universe / iterative evidence gathering",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27791",
+      "title": "NLL-Guided Full-Attention Layer Selection for Training-Free Sliding-Window Adaptation",
+      "slug": "nll-guided-full-attention-layer-selection-for-training-free-sliding-window-adaptation-2606.27791",
+      "url": "https://arxiv.org/abs/2606.27791",
+      "discovered": "2026-06-30T21:46:15.738986+00:00",
+      "theme": "inference-efficiency / reasoning / hallucination-detection",
+      "chain": "emergent-concepts",
+      "vector": "emergent-concept-search"
+    },
+    {
+      "arxiv_id": "2606.24790",
+      "title": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
+      "slug": "grad-detect-gradient-based-hallucination-detection-in-llms-2606.24790",
+      "url": "https://arxiv.org/abs/2606.24790",
+      "discovered": "2026-06-30T21:46:15.738986+00:00",
+      "theme": "inference-efficiency / reasoning / hallucination-detection",
+      "chain": "emergent-concepts",
+      "vector": "emergent-concept-search"
+    },
+    {
+      "arxiv_id": "2606.22938",
+      "title": "Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently",
+      "slug": "provable-benefits-of-rlvr-over-sft-for-reasoning-models-learning-to-backtrack-efficiently-2606.22938",
+      "url": "https://arxiv.org/abs/2606.22938",
+      "discovered": "2026-06-30T21:46:15.738986+00:00",
+      "theme": "inference-efficiency / reasoning / hallucination-detection",
+      "chain": "emergent-concepts",
+      "vector": "emergent-concept-search"
     }
   ],
   "emergent_discoveries": [
@@ -12035,6 +12065,30 @@
       "theme": "biomedical AI agent / treatment reasoning / RL over tool universe / iterative evidence gathering",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27791",
+      "title": "NLL-Guided Full-Attention Layer Selection for Training-Free Sliding-Window Adaptation",
+      "slug": "nll-guided-full-attention-layer-selection-for-training-free-sliding-window-adaptation-2606.27791",
+      "url": "https://arxiv.org/abs/2606.27791",
+      "discovered": "2026-06-30T21:46:15.738986+00:00",
+      "theme": "inference-efficiency / reasoning / hallucination-detection"
+    },
+    {
+      "arxiv_id": "2606.24790",
+      "title": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
+      "slug": "grad-detect-gradient-based-hallucination-detection-in-llms-2606.24790",
+      "url": "https://arxiv.org/abs/2606.24790",
+      "discovered": "2026-06-30T21:46:15.738986+00:00",
+      "theme": "inference-efficiency / reasoning / hallucination-detection"
+    },
+    {
+      "arxiv_id": "2606.22938",
+      "title": "Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently",
+      "slug": "provable-benefits-of-rlvr-over-sft-for-reasoning-models-learning-to-backtrack-efficiently-2606.22938",
+      "url": "https://arxiv.org/abs/2606.22938",
+      "discovered": "2026-06-30T21:46:15.738986+00:00",
+      "theme": "inference-efficiency / reasoning / hallucination-detection"
     }
   ],
   "emergent_concept_search_log": [
@@ -18186,6 +18240,18 @@
         "2606.27243",
         "2606.28692"
       ]
+    },
+    {
+      "run_number": 224,
+      "theme": "training-free inference efficiency / RLVR theory / gradient-based interpretability",
+      "framing": "training-free inference efficiency / RLVR theory / gradient-based interpretability",
+      "picks": [
+        "2606.27791",
+        "2606.24790",
+        "2606.22938"
+      ],
+      "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
+      "date": "2026-06-30T21:46:15.738986+00:00"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

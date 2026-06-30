@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 224) — TRAINING-FREE INFERENCE EFFICIENCY / RLVR THEORY / GRADIENT-BASED INTERPRETABILITY**
+
+- [[nll-guided-full-attention-layer-selection-for-training-free-sliding-window-adaptation-2606.27791]]
+  NLL-Guided Layer Selection: First training-free method for hybrid full/sliding-window attention that measures per-layer importance via NLL degradation on answer tokens — achieves 64.6% accuracy with 1/4 full-attention layers (vs 1/2 periodic baseline) on LongMemEval; ~15min calibration, no fine-tuning. **First NLL-guided attention selection paper in the wiki.**
+
+- [[grad-detect-gradient-based-hallucination-detection-in-llms-2606.24790]]
+  Grad Detect: First gradient-based hallucination detection via layer-wise gradient patterns from single forward-backward pass — final 5 layers concentrate 97% of discriminative gradient signal; outperforms confidence-based and sampling-based baselines. **First gradient-layer-analysis hallucination detection paper in the wiki.**
+
+- [[provable-benefits-of-rlvr-over-sft-for-reasoning-models-learning-to-backtrack-efficiently-2606.22938]]
+  RLVR vs SFT Theory: First theoretical proof of exponential compute separation between RLVR and SFT for reasoning models — RLVR learns efficient backtracking from dead ends; SFT cannot. Reasoning traces distillable to base models. **First formal theory comparing RLVR and SFT in the wiki.**
+
 **2026-07-04 — Run 223) — AGENTIC AI + INFERENCE EFFICIENCY + BIOMEDICAL REASONING**
 
 - [[hbm-is-not-all-you-need-efficient-disaggregated-llm-serving-across-memory-heterogeneous-accelerators-2606.29986]]
