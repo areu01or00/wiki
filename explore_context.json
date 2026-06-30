@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-06-30T00:00:00+00:00",
-  "last_run": 224,
+  "last_run": 225,
   "last_explore": "2026-07-04T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-04",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "test-time compute efficiency / KV-cache optimization / RLVR training efficiency / CoT reasoning",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 684,
+  "entities_count": 687,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6931,6 +6931,30 @@
       "theme": "inference-efficiency / reasoning / hallucination-detection",
       "chain": "emergent-concepts",
       "vector": "emergent-concept-search"
+    },
+    {
+      "arxiv_id": "2606.15070",
+      "slug": "stop-when-further-reasoning-won't-help-attention-state-adaptive-generation-in-reasoning-models-2606.15070",
+      "title": "Stop When Further Reasoning Won't Help: Attention-State Adaptive Generation in Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.15070",
+      "discovered": "2026-06-30T22:05:21+00:00",
+      "theme": "reasoning efficiency / test-time compute / chain-of-thought"
+    },
+    {
+      "arxiv_id": "2606.05684",
+      "slug": "adamem-test-time-adaptive-memory-for-language-agents-2606.05684",
+      "title": "AdaMEM: Test-Time Adaptive Memory for Language Agents",
+      "url": "https://arxiv.org/abs/2606.05684",
+      "discovered": "2026-06-30T22:05:21+00:00",
+      "theme": "agent memory / test-time adaptation / long-horizon"
+    },
+    {
+      "arxiv_id": "2605.26132",
+      "slug": "self-verified-distillation-your-language-model-is-secretly-its-own-synthetic-data-pipeline-2605.26132",
+      "title": "Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline",
+      "url": "https://arxiv.org/abs/2605.26132",
+      "discovered": "2026-06-30T22:05:21+00:00",
+      "theme": "self-improvement / distillation / post-training"
     }
   ],
   "emergent_discoveries": [
@@ -12089,6 +12113,30 @@
       "url": "https://arxiv.org/abs/2606.22938",
       "discovered": "2026-06-30T21:46:15.738986+00:00",
       "theme": "inference-efficiency / reasoning / hallucination-detection"
+    },
+    {
+      "arxiv_id": "2606.15070",
+      "title": "Stop When Further Reasoning Won't Help: Attention-State Adaptive Generation in Reasoning Models",
+      "slug": "stop-when-further-reasoning-won't-help-attention-state-adaptive-generation-in-reasoning-models-2606.15070",
+      "url": "https://arxiv.org/abs/2606.15070",
+      "discovered": "2026-06-30T22:05:21+00:00",
+      "theme": "reasoning efficiency / test-time compute"
+    },
+    {
+      "arxiv_id": "2606.05684",
+      "title": "AdaMEM: Test-Time Adaptive Memory for Language Agents",
+      "slug": "adamem-test-time-adaptive-memory-for-language-agents-2606.05684",
+      "url": "https://arxiv.org/abs/2606.05684",
+      "discovered": "2026-06-30T22:05:21+00:00",
+      "theme": "agent memory / test-time adaptation"
+    },
+    {
+      "arxiv_id": "2605.26132",
+      "title": "Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline",
+      "slug": "self-verified-distillation-your-language-model-is-secretly-its-own-synthetic-data-pipeline-2605.26132",
+      "url": "https://arxiv.org/abs/2605.26132",
+      "discovered": "2026-06-30T22:05:21+00:00",
+      "theme": "self-improvement / distillation"
     }
   ],
   "emergent_concept_search_log": [
@@ -18252,6 +18300,18 @@
       ],
       "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
       "date": "2026-06-30T21:46:15.738986+00:00"
+    },
+    {
+      "run_number": 225,
+      "date": "2026-07-04",
+      "theme": "REASONING EFFICIENCY / AGENT MEMORY / SELF-DISTILLATION",
+      "picks": [
+        "2606.15070",
+        "2606.05684",
+        "2605.26132"
+      ],
+      "vector": "emergent-concepts",
+      "chains": []
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

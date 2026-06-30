@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 225) — REASONING EFFICIENCY / AGENT MEMORY / SELF-DISTILLATION**
+
+- [[stop-when-further-reasoning-won't-help-attention-state-adaptive-generation-in-reasoning-models-2606.15070]]
+  Attention-State Stopping: First learned stopping criterion for large reasoning models that monitors attention-state drift during CoT generation to decide when additional reasoning steps hurt rather than help — reduces token count while improving accuracy. **First attention-state-based stopping paper in the wiki.**
+
+- [[adamem-test-time-adaptive-memory-for-language-agents-2606.05684]]
+  AdaMEM: Test-time adaptive memory for language agents that dynamically retrieves from past experience at each step (not just episode initiation), addressing the rigidity problem where static memory becomes misaligned during long-horizon tasks. **First test-time adaptive episodic memory paper in the wiki.**
+
+- [[self-verified-distillation-your-language-model-is-secretly-its-own-synthetic-data-pipeline-2605.26132]]
+  Self-Verified Distillation: LLMs can self-improve using only unlabeled prompts with no external teachers — the model generates synthetic questions, produces answers, then verifies its own outputs to create DPO preference pairs. First self-generated preference labels without any annotation pipeline. **First self-verified self-distillation paper in the wiki.**
+
 **2026-07-04 — Run 224) — TRAINING-FREE INFERENCE EFFICIENCY / RLVR THEORY / GRADIENT-BASED INTERPRETABILITY**
 
 - [[nll-guided-full-attention-layer-selection-for-training-free-sliding-window-adaptation-2606.27791]]

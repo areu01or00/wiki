@@ -1348,7 +1348,10 @@
         "20f71ffc2c4dda5b703e8aba76661962",
         "2606.27791",
         "2606.24790",
-        "2606.22938"
+        "2606.22938",
+        "2606.15070",
+        "2606.05684",
+        "2605.26132"
       ],
       "last_results": [
         {
@@ -5181,6 +5184,33 @@
           "chain": "emergent-concepts",
           "theme": "biomedical AI agent / treatment reasoning / RL over tool universe / iterative evidence gathering",
           "discovered": "2026-07-04"
+        },
+        {
+          "arxiv_id": "2606.15070",
+          "title": "Stop When Further Reasoning Won't Help: Attention-State Adaptive Generation in Reasoning Models",
+          "hash": "d43c12759a9e173a9e44e46578fd8763",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "reasoning efficiency / test-time compute",
+          "discovered": "2026-06-30T22:05:37+00:00"
+        },
+        {
+          "arxiv_id": "2606.05684",
+          "title": "AdaMEM: Test-Time Adaptive Memory for Language Agents",
+          "hash": "e1bf1dbbeded86937368139263dc8565",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent memory / test-time adaptation",
+          "discovered": "2026-06-30T22:05:37+00:00"
+        },
+        {
+          "arxiv_id": "2605.26132",
+          "title": "Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline",
+          "hash": "c68cd558f4f6805473db90e50804e221",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "self-improvement / distillation",
+          "discovered": "2026-06-30T22:05:37+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5863,12 +5893,15 @@
     "20f71ffc2c4dda5b703e8aba76661962",
     "2606.27791",
     "2606.24790",
-    "2606.22938"
+    "2606.22938",
+    "2606.15070",
+    "2606.05684",
+    "2605.26132"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
-  "last_updated": "2026-06-30T06:41:00+00:00",
-  "__last_updated": "2026-06-29T13:30:00+00:00",
-  "last_explore": "2026-06-29T13:30:00+00:00",
+  "last_updated": "2026-06-30T22:05:37+00:00",
+  "__last_updated": "2026-06-30T22:05:37+00:00",
+  "last_explore": "2026-06-30T22:05:37+00:00",
   "llm-wiki": {
     "last_result_hashes": [
       "2401.17197",
@@ -6539,7 +6572,10 @@
       "20f71ffc2c4dda5b703e8aba76661962",
       "2606.27791",
       "2606.24790",
-      "2606.22938"
+      "2606.22938",
+      "2606.15070",
+      "2606.05684",
+      "2605.26132"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -6724,7 +6760,7 @@
     }
   ],
   "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
-  "updated": "2026-06-29T13:30:00+00:00",
+  "updated": "2026-06-30T22:05:37+00:00",
   "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
   "last_run_added": 3
 }
