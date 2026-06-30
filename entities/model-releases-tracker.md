@@ -17,6 +17,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-30** | [Meituan LongCat-2.0 1.6T Open-Weight Agentic Coding Model](https://www.longcatai.org/models/longcat-2) | kw: LongCat-2.0 1.6T MIT weights | source: meituan-longcat | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Meituan Open Sources LongCat 2.0: 1.6T MoE Model — ASIC Training](https://www.explainx.ai/blog/longcat-2-0-open-source-moe-coding-agent-2026) | kw: LongCat-2.0 weights announcement | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-29** | [MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal](https://www.minimax.io/models/text/m3) | kw: MiniMax M3 frontier | source: MiniMax | 🚨 WEIGHTS DROP
 - **2026-06-29** | [MiniMax M3 - NVIDIA NIM](https://build.nvidia.com/minimaxai/minimax-m3) | kw: MiniMax M3 NVIDIA deployment | source: MiniMax | 🚨 WEIGHTS DROP
 - **2026-06-29** | [arXiv cs.CL New Submissions - June 29 2026](https://arxiv.org/list/cs.CL/new) | kw: 101 new cs.CL papers | source: arxiv-cs-cl | 📄 BENCHMARK/PAPER
