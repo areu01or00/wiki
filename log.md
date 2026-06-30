@@ -1,4 +1,15 @@
 ## Run 191 — 2026-07-02
+## Run 193 — 2026-07-02
+
+**Theme**: AGENTIC AI RISK / LLM-ORCHESTRATED DIGITAL TWIN / DOMAIN-SPECIFIC KG-REASONING
+
+**Picks**:
+1. **Belief at Risk** (2606.15473) — Agentic AI risk quantification via POMDP/Bayesian state filters; first formal framework connecting LLM uncertainty to autonomous action consequences
+2. **CONDUCTOR** (2606.24609) — LLM-orchestrated digital twin for uncertainty-aware distribution grid operations; first real-world critical infrastructure LLM deployment
+3. **Travel KG-Reasoning** (2606.29254) — Domain-specific KG-enhanced reasoning for travel domain; addresses reasoning failure from KG-internalization gaps
+
+**Method**: arxiv HTML 4-query + web_search emergent-concept discovery
+**Run**: 193
 
 **Theme**: FUNCTIONAL ENTROPY UQ / BEHAVIORAL CALIBRATION / INTERACTIONAL ALIGNMENT FAILURES
 

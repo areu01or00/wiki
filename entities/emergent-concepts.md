@@ -17,6 +17,15 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 193) — AGENTIC AI RISK / LLM-ORCHESTRATED DIGITAL TWIN / DOMAIN-SPECIFIC KG-REASONING**
+
+- [[belief-at-risk-quantifying-agentic-ai-model-risk-with-llm-inferred-bayesian-state-filters-2606.15473]]
+  Belief at Risk: First formal POMDP/Bayesian framework for quantifying agentic AI model risk — uncertain beliefs coupled to autonomous actions; LLM-inferred state filters; coherent risk measures (CVaR/EVaR); control-dependent loss functionals; orthogonal to existing risk/agentic evaluation axes.
+- [[conductor-an-llm-orchestrated-digital-twin-for-uncertainty-aware-distribution-grid-operations-2606.24609]]
+  CONDUCTOR: First LLM-orchestrated digital twin for uncertainty-aware distribution grid operations — bridges synthetic-benchmark LLM frameworks and real-world critical infrastructure deployment; physics-based digital twin substrate; stochastic grid optimization; orthogonal to existing LLM-orchestration/infrastructure axes.
+- [[travel-oriented-reasoning-large-language-model-via-domain-specific-knowledge-graphs-2606.29254]]
+  Travel KG-Reasoning: First domain-specific KG-enhanced reasoning LLM for travel domain — addresses confident-but-unfounded reasoning failure from internalized KG gaps; KG schema traversal as reasoning primitive; orthogonal to general KG-RAG and reasoning literature.
+
 **2026-06-30 — Run 192) — STRUCTURED VERIFICATION / FORMAL REASONING PROCESS ORACLE / RUBRIC CONSTRUCTION**
 
 - [[seva-self-evolving-verification-agent-process-reward-fact-attribution-2606.29713]]
