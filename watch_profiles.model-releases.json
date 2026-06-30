@@ -5,6 +5,8 @@
       "discovered_at_cycle": 9,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
+        "57c931c6e6c8eb4e04923a5a6c2750fb",
+        "4699f136627139cb9969b72a929b94cc",
         "0ca252737c9c34433c4b5f4b01a50a0e",
         "8d60836579b93fab4fa09dea374a913f",
         "d5ff138824bcd28e7d75e14ac4564d96",
@@ -22,14 +24,12 @@
         "7d316d9aa330def5c2d13af95916014c",
         "26f1ec6b5645b478651c3dbcd4dbd041",
         "8fe2170c6b5c10f9cfaa720a5bbdcf89",
-        "681936ed24794ce4081ed957ef016636",
-        "82044c08b5b5bb0bbe98836d2ebf8bdd",
-        "7eb59ea1553c476c8e44554da6c3c4c8"
+        "681936ed24794ce4081ed957ef016636"
       ],
-      "last_run": "20260630_124304",
+      "last_run": "2026-06-30T13:24:28+00:00",
       "last_update_hash": null,
       "query": "MiniMax AI MiniMax-M3 release new model multimodal MoE",
-      "run_count": 101,
+      "run_count": 103,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "anthropic-releases": {
@@ -693,8 +693,12 @@
       "name": "Meituan LongCat",
       "query": "Meituan LongCat new model release LLM announced",
       "category": "auto-discovered",
-      "run_count": 12,
+      "run_count": 17,
       "last_result_hashes": [
+        "22e341b4482111d5fbb094bf0f0c8952",
+        "fa841b51a1b563139d25f79720988052",
+        "987e090fa91b3273d6014b73a0aa1251",
+        "367021ae1c3c952cc36c99062fce4b23",
         "ee900088279819d7d3414172cf148346",
         "298eaab18ba11cafc66677f21418b8c4",
         "0e4ae45ece240d26266b698ef71a08c1",
@@ -704,13 +708,14 @@
       ],
       "discovered_at_cycle": "c106-20260630",
       "notes": "Auto-discovered c106 via x_search: LongCat-2.0 announced June 30, 2026",
-      "last_run": "20260630_124304"
+      "last_run": "2026-06-30T13:24:28+00:00"
     },
     "huawei": {
       "query": "Huawei OpenPangu new model release open weights LLM",
       "category": "auto-discovered",
-      "run_count": 8,
+      "run_count": 9,
       "last_result_hashes": [
+        "ae9adff26804bfce9131752b3f201456",
         "2cdf317c10cea9295f8229dafa17371d",
         "107054faf62bb332dbd4862887473b78",
         "c684b1b0cbbcb08a407c0a3c09b1b8ae",
@@ -719,7 +724,7 @@
       ],
       "discovered_at_cycle": "c107-20260630",
       "source": "x_search",
-      "last_run": "20260630_124304"
+      "last_run": "2026-06-30T13:24:28+00:00"
     },
     "internscience": {
       "query": "InternScience Agents-A1 new model release LLM weights",

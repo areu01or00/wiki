@@ -17,6 +17,14 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-30** | [LongCat-2.0: 1.6T MoE Open Model — ASIC Training](https://explainx.ai/blog/longcat-2-0-open-source-moe-coding-agent-2026) | kw: LongCat-2.0 1.6T weights MIT MoE | source: meituan-longcat | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Meituan open sources LongCat-2.0, the 1.6T near-frontier agentic coding model](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips) | kw: LongCat-2.0 1.6T MIT weights | source: meituan-longcat | 🚨 WEIGHTS DROP
+- **2026-06-30** | [China's Meituan says new AI model trained on domestic chips](https://finance.yahoo.com/technology/ai/articles/chinas-meituan-says-ai-model-084400924.html) | kw: LongCat-2.0 domestic Ascend chips | source: meituan-longcat | 🔓 OPEN SOURCE
+- **2026-06-30** | [LongCat-2.0 - 1.6T Agentic Coding LLM](https://www.longcatai.org/models/longcat-2) | kw: LongCat-2.0 official model page | source: meituan-longcat | 🔓 OPEN SOURCE
+- **2026-06-30** | [LLM News Today June 2026 - LLM Stats](https://llm-stats.com/ai-news) | kw: LongCat-2.0 Meituan | source: meituan-longcat | 🔓 OPEN SOURCE
+- **2026-06-30** | [Huawei Released openPangu 2.0 (Will open source on June 30)](https://www.reddit.com/r/LocalLLaMA/comments/1u3q1j9/huawei_released_openpangu_20_will_open_source_on/) | kw: OpenPangu-2.0-Flash 92B open weights | source: huawei | 🚨 WEIGHTS DROP
+- **2026-06-30** | [7 Top Mixture of Experts AI Models for Developers in 2026](https://www.labellerr.com/blog/top-open-source-ai-coding-models-2026) | kw: MiniMax MoE models ranking June 2026 | source: MiniMax | 🔓 OPEN SOURCE
+- **2026-06-30** | [[June 2026] AI & Machine Learning Monthly Newsletter](https://zerotomastery.io/blog/ai-and-machine-learning-monthly-newsletter) | kw: MiniMax MoE ranking June 2026 | source: MiniMax | 🔓 OPEN SOURCE
 - **2026-06-30** | [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent — InternScience Agents-A1 (arXiv:2606.30616)](https://arxiv.org/abs/2606.30616) | kw: Agents-A1 35B MoE open weights HF/GitHub agentic coding | source: internscience | 🚨 WEIGHTS DROP | 📄 BENCHMARK/PAPER | 🔓 OPEN SOURCE
 - **2026-06-30** | [Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips) | kw: LongCat-2.0 1.6T weights MIT MoE | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-30** | [Meituan LongCat-2.0 1.6T Open-Weight Agentic Coding Model](https://www.longcatai.org/models/longcat-2) | kw: LongCat-2.0 1.6T MIT weights | source: meituan-longcat | 🚨 WEIGHTS DROP
