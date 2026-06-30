@@ -1,7 +1,7 @@
 ---
 title: Emergent Concepts
 created: 2026-05-20
-updated: 2026-06-30
+updated: 2026-07-02
 type: meta
 tags: [meta, emergent-concept, llm-research, chain-tracking]
 last_watched: "2026-06-29T03:25:00+00:00"
@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 189) — REASONING SHORTCUTS / LLM-AS-JUDGE AUDITING / HIERARCHICAL MULTI-AGENT MEMORY**
+
+- [[hint-anchored-reasoning-without-shortcuts-2606.29481]] — Hint-Anchored Reasoning: First systematic study of Pre-RL data overlap as a distinct RL shortcut failure mode; models exploit memorization shortcuts by memorizing correct answers and fabricating post-hoc reasoning; hint-anchored pairwise aggregation detects and corrects shortcut exploitation; first RL reasoning shortcut detection paper in the wiki; 2606.29481.
+- [[aura-adaptive-uncertainty-aware-refinement-llm-judge-2606.19714]] — AURA: Adaptive Uncertainty-aware Refinement for LLM-as-a-Judge auditing; uses conformal prediction to quantify judge uncertainty and identify systematic bias patterns; uncertainty quantification enables targeted judge refinement rather than full retraining; first conformal prediction application to LLM-as-Judge auditing in the wiki; 2606.19714.
+- [[hmars-hierarchical-multi-agent-memory-long-context-2606.28349]] — HMARS: Hierarchical Multi-Agent Memory System for Long-Context Reasoning; specialized agents manage memory at different temporal granularities; enables proactive retrieval vs passive RAG chunk retrieval; first hierarchical multi-agent memory system for long-context reasoning in the wiki; 2606.28349.
+
 **2026-06-30 — Run 188) — ON-POLICY DISTILLATION STALENESS / THRESHOLD-FREE KV CACHE / VIDEO TEMPORAL-LOGICAL REASONING BENCHMARK**
 
 - [[asyncopd-how-stale-can-on-policy-distillation-be-2606.24143]] — AsyncOPD: First systematic study of stale-policy data effects in on-policy distillation for LLMs; asynchronous OPD pipelines decouple rollout generation from learner updates but introduce staleness; reasoning-heavy workloads suffer more from staleness than knowledge tasks; first empirical tradeoff curve for OPD staleness-quality in the wiki; 2606.24143.
