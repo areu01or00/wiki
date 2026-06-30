@@ -1,3 +1,4 @@
+- 2026-06-30T21:21:53 UTC: Run 222 — LaneRoPE (2605.27570) + Prune-as-You-Generate (2603.24840) + Accordion-Thinking (2602.03249) — test-time compute efficiency
 ## Run 191 — 2026-07-02
 ## Run 193 — 2026-07-02
 

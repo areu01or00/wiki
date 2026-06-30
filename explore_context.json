@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-06-30T00:00:00+00:00",
-  "last_run": 221,
-  "last_explore": "2026-07-03T00:00:00.000000+00:00",
+  "last_run": 222,
+  "last_explore": "2026-07-04T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
-  "last_discovery": "2026-07-03",
-  "last_run_framing": "context drift hallucination / self-evolving streaming agents / EHR-grounded clinical evaluation",
-  "last_framing": "knowledge boundary self-distillation / self-evolving multimodal agents / closed-loop aerial VLN",
-  "last_run_notes": "Run 221: Context Drift (2606.21666) + EpiEvolve (2606.05513) + AIPatient Arena (2606.17474)",
+  "last_discovery": "2026-07-04",
+  "last_run_framing": "test-time compute efficiency: KV-cache optimization / RLVR rollout pruning / CoT step summarization",
+  "last_framing": "test-time compute efficiency: KV-cache optimization / RLVR rollout pruning / CoT step summarization",
+  "last_run_notes": "Run 222: LaneRoPE (2605.27570) + Prune-as-You-Generate (2603.24840) + Accordion-Thinking (2602.03249)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "conversational safety / knowledge graph grounding / self-distillation diversity",
+  "emergent_concept_theme": "test-time compute efficiency / KV-cache optimization / RLVR training efficiency / CoT reasoning",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 675,
+  "entities_count": 678,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6847,6 +6847,30 @@
       "discovered": "2026-07-03T20:40:00+00:00",
       "theme": "emergent concept",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.27570",
+      "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+      "slug": "lanerope-positional-encoding-collaborative-parallel-reasoning-generation-2605.27570",
+      "url": "https://arxiv.org/abs/2605.27570",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "test-time-compute-efficiency"
+    },
+    {
+      "arxiv_id": "2603.24840",
+      "title": "Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR",
+      "slug": "prune-you-generate-online-rollout-pruning-faster-better-2603.24840",
+      "url": "https://arxiv.org/abs/2603.24840",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "test-time-compute-efficiency"
+    },
+    {
+      "arxiv_id": "2602.03249",
+      "title": "Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning",
+      "slug": "accordion-thinking-self-regulated-step-summaries-efficient-readable-2602.03249",
+      "url": "https://arxiv.org/abs/2602.03249",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "test-time-compute-efficiency"
     }
   ],
   "emergent_discoveries": [
@@ -11927,6 +11951,30 @@
       "url": "https://arxiv.org/abs/2606.05513",
       "discovered": "2026-07-03T20:40:00+00:00",
       "theme": "emergent concept"
+    },
+    {
+      "arxiv_id": "2605.27570",
+      "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+      "slug": "lanerope-positional-encoding-collaborative-parallel-reasoning-generation-2605.27570",
+      "url": "https://arxiv.org/abs/2605.27570",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "test-time-compute-efficiency"
+    },
+    {
+      "arxiv_id": "2603.24840",
+      "title": "Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR",
+      "slug": "prune-you-generate-online-rollout-pruning-faster-better-2603.24840",
+      "url": "https://arxiv.org/abs/2603.24840",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "test-time-compute-efficiency"
+    },
+    {
+      "arxiv_id": "2602.03249",
+      "title": "Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning",
+      "slug": "accordion-thinking-self-regulated-step-summaries-efficient-readable-2602.03249",
+      "url": "https://arxiv.org/abs/2602.03249",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "test-time-compute-efficiency"
     }
   ],
   "emergent_concept_search_log": [
@@ -18050,6 +18098,17 @@
       ],
       "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
       "entities_added": 3
+    },
+    {
+      "run": 222,
+      "date": "2026-07-04",
+      "theme": "test-time compute efficiency",
+      "picks": [
+        "2605.27570",
+        "2603.24840",
+        "2602.03249"
+      ],
+      "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

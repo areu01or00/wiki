@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 222) — TEST-TIME COMPUTE EFFICIENCY: KV-CACHE OPTIMIZATION / RLVR ROLLOUT PRUNING / COT STEP SUMMARIZATION**
+
+- [[lanerope-positional-encoding-collaborative-parallel-reasoning-generation-2605.27570]]
+  LaneRoPE: First positional encoding enabling KV-cache reuse across parallel best-of-N reasoning branches — 2.1x KV-cache reduction without fine-tuning; collaborative parallel generation shares intermediate states across branches.
+
+- [[prune-you-generate-online-rollout-pruning-faster-better-2603.24840]]
+  Prune as You Generate: First online rollout pruning for RLVR — dynamically eliminates low-advantage tokens during GRPO/DAPO sampling, reducing rollout count while maintaining final reward.
+
+- [[accordion-thinking-self-regulated-step-summaries-efficient-readable-2602.03249]]
+  Accordion-Thinking: First self-regulated CoT step summarization — LLM learns to compress less-critical reasoning steps via dynamic KV summarization, reducing attention complexity while preserving accuracy.
+
 **2026-07-03 — Run 221) — CONTEXT DRIFT HALLUCINATION / SELF-EVOLVING STREAMING AGENTS / EHR-GROUNDED CLINICAL AGENT EVALUATION**
 
 - [[hallucination-as-context-drift-synchronization-protocols-for-multi-agent-2606.21666]]

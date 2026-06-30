@@ -1339,7 +1339,10 @@
         "2606.28397",
         "2606.21666",
         "2606.17474",
-        "2606.05513"
+        "2606.05513",
+        "e39f0816cabb1feab6f4445f5c3989c2",
+        "8b8ce4b6f7fc7b5aced3e177a117d3a9",
+        "0001a8b02ff9eea9da583c400d8590a2"
       ],
       "last_results": [
         {
@@ -5118,6 +5121,33 @@
           "chain": "emergent-concepts",
           "theme": "agentic-ai",
           "discovered": "2026-06-30T20:32:59.985283"
+        },
+        {
+          "arxiv_id": "2605.27570",
+          "title": "",
+          "hash": "e39f0816cabb1feab6f4445f5c3989c2",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "test-time-compute-efficiency",
+          "discovered": "2026-07-04"
+        },
+        {
+          "arxiv_id": "2603.24840",
+          "title": "",
+          "hash": "8b8ce4b6f7fc7b5aced3e177a117d3a9",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "test-time-compute-efficiency",
+          "discovered": "2026-07-04"
+        },
+        {
+          "arxiv_id": "2602.03249",
+          "title": "",
+          "hash": "0001a8b02ff9eea9da583c400d8590a2",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "test-time-compute-efficiency",
+          "discovered": "2026-07-04"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5791,7 +5821,10 @@
     "2606.28397",
     "2606.21666",
     "2606.17474",
-    "2606.05513"
+    "2606.05513",
+    "e39f0816cabb1feab6f4445f5c3989c2",
+    "8b8ce4b6f7fc7b5aced3e177a117d3a9",
+    "0001a8b02ff9eea9da583c400d8590a2"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -6458,7 +6491,10 @@
       "2606.28397",
       "2606.21666",
       "2606.17474",
-      "2606.05513"
+      "2606.05513",
+      "e39f0816cabb1feab6f4445f5c3989c2",
+      "8b8ce4b6f7fc7b5aced3e177a117d3a9",
+      "0001a8b02ff9eea9da583c400d8590a2"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
