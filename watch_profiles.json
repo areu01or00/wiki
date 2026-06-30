@@ -1324,7 +1324,10 @@
         "1b3bf610d60ac8192e486da30a555a7f",
         "2606.29876",
         "2606.29654",
-        "2606.30093"
+        "2606.30093",
+        "2606.18286",
+        "2606.04484",
+        "2606.22942"
       ],
       "last_results": [
         {
@@ -4983,6 +4986,33 @@
           "chain": "emergent-concepts",
           "theme": "kv cache geometry-aware scheduling / multi-bitwidth quantization / energy-aware on-device inference",
           "discovered": "2026-07-03T19:30:00.519324+00:00"
+        },
+        {
+          "arxiv_id": "2606.18286",
+          "title": "CODEBLOCK: Learning to Supervise Code at the Right Granularity",
+          "hash": "2e6dd41bf66b5ae905d34c0115ca1957",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "llm post-training/instruction-tuning",
+          "discovered": "2026-06-30T00:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.04484",
+          "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
+          "hash": "1cb54ca1af352497f86f670d87c4f356",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "llm post-training/instruction-tuning",
+          "discovered": "2026-06-30T00:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.22942",
+          "title": "Understanding Knowledge Distillation in Post-Training: When It Helps and When It Fails",
+          "hash": "6b87d7ed329be29b1a9350f4b58b19c5",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "llm post-training/instruction-tuning",
+          "discovered": "2026-06-30T00:00:00+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5641,7 +5671,10 @@
     "1b3bf610d60ac8192e486da30a555a7f",
     "2606.29876",
     "2606.29654",
-    "2606.30093"
+    "2606.30093",
+    "2606.18286",
+    "2606.04484",
+    "2606.22942"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -6293,7 +6326,10 @@
       "1b3bf610d60ac8192e486da30a555a7f",
       "2606.29876",
       "2606.29654",
-      "2606.30093"
+      "2606.30093",
+      "2606.18286",
+      "2606.04484",
+      "2606.22942"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

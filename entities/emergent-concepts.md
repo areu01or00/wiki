@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 217) — CODEBLOCK TOKEN-LEVEL SFT SUPERVISION / AGENTJET SWARM AGENTIC RL TRAINING / KNOWLEDGE DISTILLATION FAILURE MODES**
+
+- [[codeblock-learning-to-supervise-code-at-the-right-granularity-2606.18286]]
+  CODEBLOCK: First token-granularity supervision framework for code LLMs — applies statement-level vs token-level loss weighting based on contribution to final code quality; syntax/indentation/variable-naming tokens carry different learning signal weight than algorithmic content tokens; shows improved code generation at equal token counts.
+
+- [[agentjet-a-flexible-swarm-training-framework-for-agentic-reinforcement-learning-2606.04484]]
+  AgentJet: First decoupled swarm training framework for LLM agent RL — separates swarm server nodes (agent population dynamics) from learner nodes (model optimization); enables large-scale behavioral diversity exploration without rollout bottleneck; orthogonal to centralized agentic RL frameworks from prior runs.
+
+- [[knowledge-distillation-in-post-training-when-it-helps-and-when-it-fails-2606.22942]]
+  KD Failure Modes: First systematic study of Knowledge Distillation failure modes in LLM post-training — identifies 4 failure modes (capacity mismatch, data distribution shift, teacher overfitting, feature space insufficiency) with diagnostic framework for predicting KD success before training; orthogonal to instruction-tuning and SFT efficiency papers.
+
 **2026-06-29 — Run 216) — CLINICAL REASONING GRAPHS / BUDGETED ACT-OR-DEFER MULTI-AGENT DELIBERATION / EFFICIENT TOKEN CO-OCCURRENCE GRAPHRAG**
 
 - [[clinical-reasoning-graphs-structured-evaluation-of-llm-diagnostic-reasoning-reveals-competence-without-consistency-2606.29876]]
