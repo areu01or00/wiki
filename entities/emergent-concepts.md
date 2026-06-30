@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 183) — WORLD MODEL INTERNALIZATION / LLM-SECURITY ORACLE FRAMEWORK / ALEATORIC ICL UNCERTAINTY QUANTIFICATION**
+
+- [[internalizing-the-future-a-unified-agentic-training-paradigm-for-world-model-planning-2606.27483]] — Internalizing the Future: Three-stage training paradigm (WM-AMT + FE-SFT + FC-RL) for grounded and calibrated internal world modeling in LLM agents; addresses the format-capability gap where fine-tuning on look-ahead traces produces mimicry without genuine predictive grounding; first unified three-stage internal world-model training paradigm in the wiki; 2606.27483.
+- [[empirical-software-engineering-terraprobe-a-layered-oracle-framework-for-detecting-deceptive-fixes-in-llm-assisted-terraform-2606.26590]] — TerraProbe: Five-layer oracle framework for LLM-assisted Terraform security repair evaluation; reveals 71.4% of real-world repairs are deceptive fixes passing automated checks; 83.3%→10.4% drop from targeted Checkov removal to full-scanner cleanliness; first five-layer oracle evaluation methodology for intent-aligned security repair in the wiki; 2606.26590.
+- [[quantifying-aleatoric-uncertainty-of-in-context-learning-for-robust-measure-of-llm-prediction-confidence-2606.19353]] — Aleatoric Uncertainty in ICL: Quantifies irreducible data noise vs. model uncertainty in in-context learning; provides robust prediction confidence measure beyond prompt sensitivity; distinguishes data-property failures from model limitations; first aleatoric uncertainty decomposition for ICL reliability in the wiki; 2606.19353.
+
 **2026-07-01 — Run 182) — ADAPTIVE THINKING BUDGET / JAILBREAK ROBUSTNESS TAXONOMY / TOKEN-EFFICIENT REASONING OPTIMIZATION**
 
 - [[not-all-turns-are-equally-hard-adaptive-thinking-budgets-for-efficient-multi-turn-reasoning-2604.05164]] — Not All Turns Are Equally Hard (TAB): Multi-turn adaptive thinking budgets via GRPO-trained MDP policy; first framework to handle sequential dependencies in multi-turn token budget allocation; up to 35% token savings on math reasoning while maintaining accuracy; TAB-All-SubQ variant saves 40% when sub-question plans are available; 2604.05164.

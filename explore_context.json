@@ -4,11 +4,11 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T10:30:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 182,
-  "last_explore": "2026-07-01T19:30:00.000000+00:00",
+  "last_run": 183,
+  "last_explore": "2026-06-30T23:00:00.000000+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-06-30T10:30:00+00:00",
-  "last_run_framing": "ADAPTIVE THINKING BUDGET / JAILBREAK ROBUSTNESS TAXONOMY / TOKEN-EFFICIENT REASONING OPTIMIZATION",
+  "last_discovery": "2026-06-30T23:00:00+00:00",
+  "last_run_framing": "WORLD MODEL INTERNALIZATION / LLM-SECURITY ORACLE FRAMEWORK / ALEATORIC ICL UNCERTAINTY QUANTIFICATION",
   "last_framing": "token-efficiency / benchmark-meta-evaluation / agentic-web-search",
   "last_run_notes": "Run 181: TAB adaptive thinking budget (2604.05164) + SoK jailbreak robustness (2605.05058) + IAPO token-efficient reasoning (2602.19049)",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "evaluation / efficiency / benchmarking",
   "emergent_theme": "evaluation-efficiency",
   "chains_updated": 0,
-  "entities_count": 559,
+  "entities_count": 562,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1849,6 +1849,27 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-07-01T11:30:00.000000+00:00",
           "theme": "uncertainty quantification / agent / safety / benchmarking / foundational framework"
+        },
+        {
+          "arxiv_id": "2606.27483",
+          "slug": "internalizing-the-future-a-unified-agentic-training-paradigm-for-world-model-planning-2606.27483",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-30T23:00:00+00:00",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.26590",
+          "slug": "empirical-software-engineering-terraprobe-a-layered-oracle-framework-for-detecting-deceptive-fixes-in-llm-assisted-terraform-2606.26590",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-30T23:00:00+00:00",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.19353",
+          "slug": "quantifying-aleatoric-uncertainty-of-in-context-learning-for-robust-measure-of-llm-prediction-confidence-2606.19353",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-06-30T23:00:00+00:00",
+          "chain": "emergent-concepts"
         }
       ],
       "last_run": "2026-07-01T02:00:00+00:00",
@@ -6100,6 +6121,33 @@
       "discovered": "2026-07-01T19:30:00.000000+00:00",
       "theme": "token-efficient reasoning / information-theoretic advantage / conditional mutual information",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27483",
+      "slug": "internalizing-the-future-a-unified-agentic-training-paradigm-for-world-model-planning-2606.27483",
+      "title": "Internalizing The Future A Unified Agentic Training Paradigm For World Model Pla",
+      "url": "https://arxiv.org/abs/2606.27483",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T23:00:00+00:00",
+      "theme": ""
+    },
+    {
+      "arxiv_id": "2606.26590",
+      "slug": "empirical-software-engineering-terraprobe-a-layered-oracle-framework-for-detecting-deceptive-fixes-in-llm-assisted-terraform-2606.26590",
+      "title": "Empirical Software Engineering Terraprobe A Layered Oracle Framework For Detecti",
+      "url": "https://arxiv.org/abs/2606.26590",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T23:00:00+00:00",
+      "theme": ""
+    },
+    {
+      "arxiv_id": "2606.19353",
+      "slug": "quantifying-aleatoric-uncertainty-of-in-context-learning-for-robust-measure-of-llm-prediction-confidence-2606.19353",
+      "title": "Quantifying Aleatoric Uncertainty Of In Context Learning For Robust Measure Of L",
+      "url": "https://arxiv.org/abs/2606.19353",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T23:00:00+00:00",
+      "theme": ""
     }
   ],
   "emergent_discoveries": [
@@ -10296,6 +10344,30 @@
       "url": "https://arxiv.org/abs/2602.19049",
       "discovered": "2026-07-01T19:30:00.000000+00:00",
       "theme": "token-efficient reasoning / information-theoretic advantage"
+    },
+    {
+      "arxiv_id": "2606.27483",
+      "title": "internalizing the future a unified agentic training paradigm",
+      "slug": "internalizing-the-future-a-unified-agentic-training-paradigm-for-world-model-planning-2606.27483",
+      "url": "https://arxiv.org/abs/2606.27483",
+      "discovered": "2026-06-30T23:00:00+00:00",
+      "theme": ""
+    },
+    {
+      "arxiv_id": "2606.26590",
+      "title": "empirical software engineering terraprobe a layered oracle f",
+      "slug": "empirical-software-engineering-terraprobe-a-layered-oracle-framework-for-detecting-deceptive-fixes-in-llm-assisted-terraform-2606.26590",
+      "url": "https://arxiv.org/abs/2606.26590",
+      "discovered": "2026-06-30T23:00:00+00:00",
+      "theme": ""
+    },
+    {
+      "arxiv_id": "2606.19353",
+      "title": "quantifying aleatoric uncertainty of in context learning for",
+      "slug": "quantifying-aleatoric-uncertainty-of-in-context-learning-for-robust-measure-of-llm-prediction-confidence-2606.19353",
+      "url": "https://arxiv.org/abs/2606.19353",
+      "discovered": "2026-06-30T23:00:00+00:00",
+      "theme": ""
     }
   ],
   "emergent_concept_search_log": [
@@ -15884,6 +15956,18 @@
       ],
       "added": 3,
       "method": "web_search 4-query + urllib arxiv fetch + 5-store dedup"
+    },
+    {
+      "run_number": 175,
+      "date": "2026-06-30",
+      "theme": "WORLD MODEL INTERNALIZATION / LLM-SECURITY ORACLE FRAMEWORK / ALEATORIC ICL UNCERTAINTY QUANTIFICATION",
+      "papers": [
+        "2606.27483",
+        "2606.26590",
+        "2606.19353"
+      ],
+      "vector": "emergent_concept_search",
+      "method": "arxiv-html-search+web-search"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

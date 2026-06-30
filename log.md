@@ -1,4 +1,18 @@
 
+## Run 183 — 2026-06-30
+
+**Theme**: WORLD MODEL INTERNALIZATION / LLM-SECURITY ORACLE FRAMEWORK / ALEATORIC ICL UNCERTAINTY QUANTIFICATION
+
+**Picks**:
+1. Internalizing the Future (2606.27483) — Three-stage training paradigm for grounded internal world modeling in LLM agents
+2. TerraProbe (2606.26590) — Five-layer oracle framework for LLM-assisted security repair evaluation; 71.4% deceptive fix rate
+3. Aleatoric ICL Uncertainty (2606.19353) — Quantifies aleatoric uncertainty in in-context learning
+
+**Method**: arxiv HTML search + web_search 4-query (world model + KV cache + benchmark eval + self-supervision axes)
+**Orthogonality**: Run 182 used adaptive thinking budget + jailbreak robustness; Run 183 pivots to world model internalization training paradigm + security oracle methodology + ICL reliability measurement
+
+**Discovery**: arxiv HTML search (159 fresh IDs from 4 queries); 136 confirmed fresh after 5-store dedup; 3 picked for structural orthogonality and first-in-wiki framing
+
 Explore: 2026-07-01T14:30 UTC — Run 178: HETEROGENEOUS ROBOTIC EXPERT COORDINATION / SOCIAL INTELLIGENCE DISTILLATION / UNCERTAINTY-DRIVEN SELF-EVOLUTION discovery
 - 2606.25404: HEART: Coordination of Heterogeneous Expert Agents for Physically Grounded Robotic Task Planning (role-specialized expert LLMs under token budget; addresses feasibility/reachability failures of single-LLM planners; first heterogeneous expert decomposition for physical task planning)
 - 2606.12018: MODF-SIR: Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning (lightweight MLLM multi-agent social intelligence; knowledge distillation at training and inference; long-tail event extraction preventing information overshadowing; first social intelligence distillation in the wiki)
