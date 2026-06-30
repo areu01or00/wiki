@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 220) — AGENTIC SELF-CALIBRATION / MULTIMODAL SELF-EVOLUTION / AERIAL NAVIGATION VERIFICATION**
+
+- [[kbsd-knowledge-boundary-self-distillation-behavioral-calibration-agentic-search-2606.29863]]
+  KbSD: Knowledge Boundary Self-Distillation — First self-distillation framework for behavioral calibration in agentic search systems, teaching LLMs when to trust parametric memory vs. retrieved evidence vs. abstain. Addresses reward sparsity in RL-based agentic systems via knowledge-boundary aware self-distillation.
+
+- [[manimagent-self-evolving-multimodal-agents-visual-education-2606.30296]]
+  ManimAgent: Self-Evolving Multimodal Agents — First multimodal agent carrying implicit activation patterns across reflection rounds (cross-task procedural memory), applied to scientific animation generation via the Manim library. Solves episodic forgetting in multi-round reflection systems.
+
+- [[closer-vln-closed-loop-self-verified-retrieval-augmented-reasoning-aerial-vision-language-navigation-2606.28397]]
+  CLOSER-VLN: Closed-Loop Self-Verified VLN — First aerial vision-language navigation agent with closed-loop self-verification before action execution, preventing cascading errors from open-loop decision-commitment patterns.
+
 **2026-07-03 — Run 219) — LLM PROGRAM OPTIMIZATION / VLA MANIPULATION ALIGNMENT / AGENTIC NAVIGATION PARAMETERIZATION**
 
 - [[llm-program-optimization-via-retrieval-augmented-search-2501.18916]]

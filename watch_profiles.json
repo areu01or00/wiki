@@ -1333,7 +1333,10 @@
         "8a4edb37a4bbf44b5972d7dfef122681",
         "794fb0682d24fb4c68911aaa5b429854",
         "4c1ea20e08a04d9fc2f3710325e4bf86",
-        "512e0a97ab57e7b99dc37bd9ca17e203"
+        "512e0a97ab57e7b99dc37bd9ca17e203",
+        "2606.29863",
+        "2606.30296",
+        "2606.28397"
       ],
       "last_results": [
         {
@@ -5085,6 +5088,33 @@
           "online_date": "2026-06-01",
           "run_number": 219,
           "margin": "N/A"
+        },
+        {
+          "arxiv_id": "2606.29863",
+          "title": "KbSD: Knowledge Boundary aware Self-Distillation for Behavioral Calibration in Agentic Search",
+          "hash": "fa7ecd2a4e1c7657934abcdef1688a6a",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agentic-ai",
+          "discovered": "2026-06-30T20:32:59.985251"
+        },
+        {
+          "arxiv_id": "2606.30296",
+          "title": "ManimAgent: Self-Evolving Multimodal Agents for Visual Education",
+          "hash": "8afab4d81deb841357c235fa2cb78dfc",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agentic-ai",
+          "discovered": "2026-06-30T20:32:59.985274"
+        },
+        {
+          "arxiv_id": "2606.28397",
+          "title": "CLOSER-VLN: Closed-Loop Self-Verified Retrieval-Augmented Reasoning for Aerial Vision-Language Navigation",
+          "hash": "f779033a910a910cad9fdccdc5680e1a",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agentic-ai",
+          "discovered": "2026-06-30T20:32:59.985283"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5752,7 +5782,10 @@
     "8a4edb37a4bbf44b5972d7dfef122681",
     "794fb0682d24fb4c68911aaa5b429854",
     "4c1ea20e08a04d9fc2f3710325e4bf86",
-    "512e0a97ab57e7b99dc37bd9ca17e203"
+    "512e0a97ab57e7b99dc37bd9ca17e203",
+    "2606.29863",
+    "2606.30296",
+    "2606.28397"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -6413,7 +6446,10 @@
       "8a4edb37a4bbf44b5972d7dfef122681",
       "794fb0682d24fb4c68911aaa5b429854",
       "4c1ea20e08a04d9fc2f3710325e4bf86",
-      "512e0a97ab57e7b99dc37bd9ca17e203"
+      "512e0a97ab57e7b99dc37bd9ca17e203",
+      "2606.29863",
+      "2606.30296",
+      "2606.28397"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

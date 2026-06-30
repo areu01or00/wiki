@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-06-30T00:00:00+00:00",
-  "last_run": 219,
+  "last_run": 220,
   "last_explore": "2026-07-03T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
-  "last_discovery": "2026-06-30",
-  "last_run_framing": "LLM program optimization / VLA manipulation alignment / agentic navigation parameterization",
-  "last_framing": "codeblock token-level sft supervision / agentjet swarm agentic rl training / knowledge distillation failure modes",
-  "last_run_notes": "Run 219: RAS (2501.18916) + Qwen-RobotManip (2606.17846) + Qwen-RobotNav (2606.18112)",
+  "last_discovery": "2026-07-01",
+  "last_run_framing": "agentic self-calibration / multimodal self-evolution / aerial navigation verification",
+  "last_framing": "knowledge boundary self-distillation / self-evolving multimodal agents / closed-loop aerial VLN",
+  "last_run_notes": "Run 220: KbSD (2606.29863) + ManimAgent (2606.30296) + CLOSER-VLN (2606.28397)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "conversational safety / knowledge graph grounding / self-distillation diversity",
   "emergent_theme": "conversational-safety-knowledge-graph-grounding-self-distillation",
   "chains_updated": 0,
-  "entities_count": 669,
+  "entities_count": 672,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6805,6 +6805,30 @@
       "theme": "program-optimization / VLA alignment / agentic navigation",
       "vector": "emergent_concept",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.29863",
+      "title": "KbSD: Knowledge Boundary aware Self-Distillation for Behavioral Calibration in Agentic Search",
+      "slug": "",
+      "url": "https://arxiv.org/abs/2606.29863",
+      "discovered": "2026-06-30T20:32:59.949154",
+      "theme": "agentic-ai"
+    },
+    {
+      "arxiv_id": "2606.30296",
+      "title": "ManimAgent: Self-Evolving Multimodal Agents for Visual Education",
+      "slug": "",
+      "url": "https://arxiv.org/abs/2606.30296",
+      "discovered": "2026-06-30T20:32:59.949174",
+      "theme": "agentic-ai"
+    },
+    {
+      "arxiv_id": "2606.28397",
+      "title": "CLOSER-VLN: Closed-Loop Self-Verified Retrieval-Augmented Reasoning for Aerial Vision-Language Navigation",
+      "slug": "",
+      "url": "https://arxiv.org/abs/2606.28397",
+      "discovered": "2026-06-30T20:32:59.949177",
+      "theme": "agentic-ai"
     }
   ],
   "emergent_discoveries": [
@@ -11845,6 +11869,30 @@
       "url": "https://arxiv.org/abs/2606.18112",
       "discovered": "2026-07-03",
       "theme": "program-optimization / VLA alignment / agentic navigation"
+    },
+    {
+      "arxiv_id": "2606.29863",
+      "title": "KbSD: Knowledge Boundary aware Self-Distillation for Behavioral Calibration in Agentic Search",
+      "slug": "",
+      "url": "https://arxiv.org/abs/2606.29863",
+      "discovered": "2026-06-30T20:32:59.949201",
+      "theme": "agentic-ai"
+    },
+    {
+      "arxiv_id": "2606.30296",
+      "title": "ManimAgent: Self-Evolving Multimodal Agents for Visual Education",
+      "slug": "",
+      "url": "https://arxiv.org/abs/2606.30296",
+      "discovered": "2026-06-30T20:32:59.949211",
+      "theme": "agentic-ai"
+    },
+    {
+      "arxiv_id": "2606.28397",
+      "title": "CLOSER-VLN: Closed-Loop Self-Verified Retrieval-Augmented Reasoning for Aerial Vision-Language Navigation",
+      "slug": "",
+      "url": "https://arxiv.org/abs/2606.28397",
+      "discovered": "2026-06-30T20:32:59.949220",
+      "theme": "agentic-ai"
     }
   ],
   "emergent_concept_search_log": [
@@ -17943,6 +17991,17 @@
         "emergent_concept_search"
       ],
       "papers_found_count": 3
+    },
+    {
+      "run": 220,
+      "date": "2026-07-01",
+      "theme": "AGENTIC SELF-CALIBRATION / MULTIMODAL SELF-EVOLUTION / AERIAL NAVIGATION VERIFICATION",
+      "picks": [
+        "2606.29863",
+        "2606.30296",
+        "2606.28397"
+      ],
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

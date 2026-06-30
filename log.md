@@ -2217,3 +2217,9 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 
 **Discovery**: HF daily 3 dates (99 unique) → 15 LLM candidates → 3 orthogonal picks (program optimization, VLA alignment, navigation parameterization)
 **Commit**: 669 entities, 3-store lockstep verified (654/654/654), wikilink audit passed
+
+## Run 220 — 2026-07-01 UTC
+- Picks: KbSD (2606.29863) + ManimAgent (2606.30296) + CLOSER-VLN (2606.28397)
+- Theme: agentic self-calibration / multimodal self-evolution / aerial navigation verification
+- HF fresh: 3 LLM candidates from 72 deduped | arxiv HTML: 45 fresh IDs from 1 query
+- Entities: 672 | EC last_run: 220 | WP 3-store: 657
