@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 204) — RLVR EXPERIENCE REPLAY / MULTI-AGENT DEBATE CORRELATION / HALLUCINATION ROTATION DETECTION**
+
+- [[experience-augmented-policy-optimization-for-llm-reasoning-2606.30420]]
+  EAPO: First experience-augmented RLVR method — reuses historical reasoning trajectories to reduce sample complexity in RLVR training; provides dense token-level supervision from accumulated experience without external retrieval.
+
+- [[minority-sentinel-when-to-overturn-majority-voting-in-multi-agent-llm-debates-2606.29270]]
+  Minority Sentinel: First analysis of correlated error suppression in multi-agent LLM debates — majority systematically suppresses minority correct opinions; proposes overturn mechanism when Condorcet assumptions fail.
+
+- [[aurora-asymmetry-and-update-induced-rotation-for-robust-hallucination-detection-in-llms-2606.29545]]
+  AURORA: First rotation-based hallucination detection — exploits asymmetry and update-induced hidden-state rotation as robust hallucination signal across model families.
+
 **2026-06-30 — Run 203) — REASONING SHORTCUTS / CONTINUAL DPO FAILURE / EXECUTIVE STRATEGIC BENCHMARK**
 
 - [[paradox-outcome-optimization-reasoning-shortcuts-llms-2606.00674]]

@@ -17,6 +17,13 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-30** | [Ornith 1.0 Beats Claude at Coding - Runs on One GPU](https://byteiota.com/ornith-1-0-beats-claude-at-coding-runs-on-one-gpu/) | source: deepreinforce-ai
+- **2026-06-30** | [Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding | DeepReinforce Blog](https://deep-reinforce.com/ornith_1_0.html) | source: deepreinforce-ai | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Krea-2-Turbo Image Model - Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1uj638x/krea2turbo_image_model/) | source: krea
+- **2026-06-30** | [A preview of GPT-5.6 Sol, Terra, and Luna | OpenAI Help Center](https://help.openai.com/en/articles/20001325-a-preview-of-gpt-56-sol-terra-and-luna) | source: openai-releases
+- **2026-06-30** | [xAI says Grok 4.5 is now in private beta at SpaceX and Tesla](https://www.facebook.com/cointelegraph/posts/-latest-xai-says-grok-45-is-now-in-private-beta-at-spacex-and-tesla/) | source: xai-releases
+- **2026-06-30** | [GPT-5.5 is here! Available in the API, Codex and ChatGPT today](https://community.openai.com/t/gpt-5-5-is-here-available-in-the-api-codex-and-chatgpt-today/1379630) | source: openai-releases | 🚨 API LAUNCH
+- **2026-06-30** | [LongCat-2.0 Weights on Hugging Face](https://huggingface.co/meituan-longcat/LongCat-2.0) | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-30** | [LongCat-2.0: 1.6T MoE Open Model — ASIC Training](https://explainx.ai/blog/longcat-2-0-open-source-moe-coding-agent-2026) | kw: LongCat-2.0 1.6T weights MIT MoE | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-30** | [Meituan open sources LongCat-2.0, the 1.6T near-frontier agentic coding model](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips) | kw: LongCat-2.0 1.6T MIT weights | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-30** | [China's Meituan says new AI model trained on domestic chips](https://finance.yahoo.com/technology/ai/articles/chinas-meituan-says-ai-model-084400924.html) | kw: LongCat-2.0 domestic Ascend chips | source: meituan-longcat | 🔓 OPEN SOURCE
