@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 168) — COMPUTER-USE AGENT BENCHMARKING + POLICY ADHERENCE VERIFICATION + COGNITIVE REASONING EPISODE ANALYSIS discovery**
+
+- [[osworld20-benchmarking-computer-use-agents-on-long-horizon-real-world-tasks-2606.29537]] — OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks — 108 long-horizon computer-use workflows averaging 318 tool calls; Claude Opus 4.8 completes only 20.6% at 500 steps; agents lose track of constraints, miss hidden state, guess rather than ask; first long-horizon realism benchmark capturing cross-source reasoning and implicit-state inference; 2606.29537.
+- [[policyguard-a-dialogue-grounded-sub-agent-verifier-for-policy-adherence-in-llm-a-2606.29225]] — PolicyGuard: Dialogue-Grounded Sub-Agent Verifier for Policy Adherence — sub-agent verifier shares agent's dialogue view, reasons over policy in context, provides actionable next-turn feedback; +12.0/+6.0/+12.0 pp PASS4 improvement on tau^2-BENCH across GPT-5.4/Claude Sonnet 4.6/Gemini 2.5 Pro; first dialogue-grounded policy adherence framework; 2606.29225.
+- [[cognitive-episodes-in-llm-reasoning-traces-enable-interpretable-human-item-diffi-2606.28186]] — Cognitive Episodes in LLM Reasoning Traces: Epi2Diff framework maps LRM reasoning traces into cognitively grounded episode sequences; 8.1% average relative gain over supervised LLM fine-tuning baselines; first cognitively-grounded episode analysis for interpretable human item difficulty prediction; 2606.28186.
+
 **2026-06-30 — Run 167) — SELF-EVOLVING WORLD MODELS + AGENTIC KERNEL SPECULATION + KV-CACHE COVERAGE DISCOVERY**
 
 - [[worldevolver-self-evolving-world-models-for-llm-agent-planning-2606.30639]] — WorldEvolver: Self-Evolving World Models for LLM Agent Planning — episodic + semantic memory modules that revise world model context at deployment time without retraining; selective foresight filters low-confidence predictions; test-time memory revision boosts both world model accuracy and downstream planning success; 2606.30639.
