@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-03 — Run 211) — NEURAL SCENE WORLD MODELS / FORMAL MATHEMATICS THEOREM DEPENDENCY GRAPHS / LINEAR MODEL TIME-SERIES FORECASTING**
+
+- [[walking-in-the-implicit-interactive-world-exploration-via-neural-scene-representation-2606.30045]]
+  Neural Scene World Models: First scene-centric paradigm for interactive video generation — rolls out stochastic transition of compact Neural Implicit Scene (NIS) state rather than entangled frame latents, enabling explicit scene dynamics prediction and interpretable state-space factorization.
+
+- [[theoremgraph-bridging-formal-and-informal-mathematics-2606.25363]]
+  Formal Mathematics Dependency Graphs: First unified statement-level dependency graph spanning informal math (11.7M arXiv theorems) and formal libraries (Coq/Isabelle/Lean) — recovers 18.3M cross-repository theorem dependencies enabling structured theorem retrieval and proof navigation.
+
+- [[how-good-can-linear-models-be-for-time-series-forecasting-2606.27282]]
+  Linear Model Time-Series Forecasting: First systematic challenge to the "larger is better" trend in time-series — shows properly tuned Ridge regression plus preprocessing closes most of the accuracy gap at far lower compute, reframing the role of model capacity versus data quality.
+
 **2026-07-02 — Run 210) — CONVERSATIONAL ESCALATION NVC / KNOWLEDGE GRAPH GROUNDING UNDER INCOMPLETENESS / ON-POLICY SELF-DISTILLATION DIVERSITY COLLAPSE**
 
 - [[reducing-conversational-escalation-llm-dialogue-nonviolent-communication-constraints-2606.26106]]
