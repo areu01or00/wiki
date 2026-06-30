@@ -1,3 +1,12 @@
+Explore: 2026-06-30T14:30 UTC — Run 170: COGNITIVE-ARCHITECTURE INTEGRATION / METACOGNITIVE REASONING / SYMBOLIC PLANNING discovery
+- 2602.18806: Think$^2$: Grounded Metacognitive Reasoning in Large Language Models (Ann Brown's regulatory cycle as prompting architecture; dual-process MetaController for adaptive effort allocation; first grounding metacognitive regulation theory into LLM prompting)
+- 2512.23167: SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search (three specialized LLM agents in MCTS loop; grounded and reflective search; addresses linear-reasoning brittleness; novel cognitive architecture + symbolic planning integration)
+- 2408.09176: Cognitive LLMs: Towards Integrating Cognitive Architectures and LLMs for Manufacturing Decision-making (Soar/ACT-R integration with LLMs; addresses noisy inference via cognitively motivated processing stages; structured decision-making in manufacturing)
+- entities_count: 526 reconciled (523 + 3 new)
+- theme: cognitive-architecture + metacognition + symbolic planning (orthogonal to prior self-supervision runs 165-169)
+- method: arxiv HTML search 4-query (cognitive architecture + metacognition + system2 + multi-perspective)
+- 3-store lockstep: 507 hashes in all 3 stores (504 + 3 new)
+
 Explore: 2026-06-30T04:45 UTC — Run 164: MULTIAGENT-SECURITY-PROTOCOL discovery (Rule 104)
 - 2605.15207: TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination (sequential fine-tuning coordination collapse; trust-region constraints bound agent weight drift; shared-context distribution mismatch compounds under independent updates)
 - 2606.07940: SGTO-MAS: Secure Gorilla Troops Optimization for Multi-Agent LLM Systems (GTO-inspired swarm intelligence agent selection; threat-aware query analysis; trust-weighted consensus aggregation)

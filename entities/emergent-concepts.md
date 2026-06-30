@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 170) — COGNITIVE-ARCHITECTURE INTEGRATION / METACOGNITIVE REASONING / SYMBOLIC PLANNING discovery**
+
+- [[think2-grounded-metacognitive-reasoning-in-large-language-models-2602.18806]] — Think$^2$: Grounded Metacognitive Reasoning in Large Language Models — psychologically grounded metacognitive framework operationalizing Ann Brown's regulatory cycle (Planning, Monitoring, Evaluation) as a structured prompting architecture; dual-process MetaController for adaptive effort allocation; first paper to ground metacognitive regulation theory directly into LLM prompting; 2602.18806.
+- [[spiral-symbolic-llm-planning-via-grounded-and-reflective-search-2512.23167]] — SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search — cognitive architecture of three specialized LLM agents embedded in MCTS loop; addresses linear-reasoning brittleness via grounded and reflective search; novel cognitive architecture integration with symbolic planning; 2512.23167.
+- [[cognitive-llms-towards-integrating-cognitive-architectures-and-large-language-models-2408.09176]] — Cognitive LLMs: Towards Integrating Cognitive Architectures and LLMs for Manufacturing Decision-making — resolves constrained Cognitive Architecture reasoning vs. noisy LLM inference dichotomy; first systematic integration of Soar/ACT-R with LLMs for structured decision-making; cognitively motivated processing stages for reliable manufacturing reasoning; 2408.09176.
+
 **2026-06-30 — Run 169) — LLM SELF-SUPERVISION / SELF-CRITIQUE / AGENTIC REFLECTION discovery**
 
 - [[metaresearcher-scaling-deep-research-via-self-reflective-reinforcement-learning-in-adversarial-virtual-environments-2606.19893]] — MetaResearcher: Scaling Deep Research via Self-Reflective RL in Adversarial Virtual Environments — multi-agent self-reflective GRPO with evolving adversarial world, discovery-oriented tasks (hypothesis generation + contradiction resolution), and Scout/Filter/Synthesizer swarm coordination; zero marginal API training cost via LiteResearcher; targets GAIA and Xbench-DS; first multi-agent self-reflective-RL-with-adversarial-world paper in the wiki; 2606.19893.
