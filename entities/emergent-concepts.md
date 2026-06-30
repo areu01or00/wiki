@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 181) — TOKEN EFFICIENCY BENCHMARKING / META-EVALUATION OF BENCHMARKS / AGENTIC WEB SEARCH EVALUATION**
+
+- [[ockbench-measuring-the-efficiency-of-llm-reasoning-2511.05722]] — OckBench: Measuring the Efficiency of LLM Reasoning — first joint accuracy+token-efficiency benchmark; reveals up to 5.0× token-length variance between models solving same problem at similar accuracy; token-per-correct-output as standardized evaluation dimension; 2511.05722.
+- [[benchmark2-systematic-evaluation-of-llm-benchmarks-2601.03986]] — Benchmark²: Systematic Evaluation of LLM Benchmarks — meta-evaluation framework for LLM benchmarks; Cross-Benchmark Ranking Consistency + Discriminability Score + Capability Alignment Deviation; evaluates evaluator quality rather than model quality; first meta-evaluation of benchmarks in the wiki; 2601.03986.
+- [[livenewsbench-evaluating-llm-web-search-capabilities-with-freshly-curated-news-2602.13543]] — LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News — first agentic web search benchmark using freshly curated news; multi-hop questions requiring search + page visits + reasoning beyond training data; automated curation pipeline for frequent updates; 2602.13543.
+
 **2026-07-01 — Run 180) — POLICY GUARDRAILING / TERMINAL AGENT BENCHMARKING / WORLD FOUNDATION MODEL DISCOVERY**
 
 - [[safepyramid-a-hierarchical-benchmark-for-in-context-policy-guardrailing-2606.29887]] — SafePyramid: Hierarchical Benchmark for In-context Policy Guardrailing — in-context guardrails that predict violations from application-specific policies in context rather than predefined taxonomies; L0/L1/L2 difficulty across 61,699 natural-language rules; GPT-5.5 achieves only 12.9% on hardest L2 level; first in-context policy-guardrailing benchmark in the wiki; 2606.29887.

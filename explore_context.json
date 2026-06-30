@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-06-30T06:41:00+00:00",
+  "updated": "2026-06-30T10:30:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 180,
-  "last_explore": "2026-07-01T15:30:00+00:00",
+  "last_run": 181,
+  "last_explore": "2026-06-30T10:30:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-07-01T15:30:00+00:00",
-  "last_run_framing": "POLICY GUARDRAILING / TERMINAL AGENT BENCHMARKING / WORLD FOUNDATION MODEL",
-  "last_framing": "in-context-policy-guardrails / terminal-use-agent-benchmark / world-foundation-model",
+  "last_discovery": "2026-06-30T10:30:00+00:00",
+  "last_run_framing": "TOKEN EFFICIENCY BENCHMARKING / META-EVALUATION OF LLM BENCHMARKS / AGENTIC WEB SEARCH EVALUATION",
+  "last_framing": "token-efficiency / benchmark-meta-evaluation / agentic-web-search",
   "last_run_notes": "Run 174: Linear Probes (2606.02907) + ICA Lens (2606.11722) + Decomposing Prompting (2606.03093)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search 4-query + HF daily + 5-store dedup",
+  "last_run_method": "web_search 4-query + arxiv HTML fallback + 5-store dedup",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "safety-benchmark / agent-benchmarking / world-modeling",
-  "emergent_theme": "representation-divergence",
+  "emergent_concept_theme": "evaluation / efficiency / benchmarking",
+  "emergent_theme": "evaluation-efficiency",
   "chains_updated": 0,
-  "entities_count": 553,
+  "entities_count": 556,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6046,6 +6046,33 @@
       "url": "https://arxiv.org/abs/2606.30534",
       "discovered": "2026-07-01T15:30:00+00:00",
       "theme": "world foundation model / next-state-prediction / multimodal"
+    },
+    {
+      "arxiv_id": "2511.05722",
+      "title": "OckBench: Measuring the Efficiency of LLM Reasoning",
+      "slug": "ockbench-measuring-the-efficiency-of-llm-reasoning-2511.05722",
+      "url": "https://arxiv.org/abs/2511.05722",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T10:30:00+00:00",
+      "theme": "token efficiency benchmarking / accuracy tradeoffs / inference efficiency"
+    },
+    {
+      "arxiv_id": "2601.03986",
+      "title": "Benchmark\u00b2: Systematic Evaluation of LLM Benchmarks",
+      "slug": "benchmark2-systematic-evaluation-of-llm-benchmarks-2601.03986",
+      "url": "https://arxiv.org/abs/2601.03986",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T10:30:00+00:00",
+      "theme": "meta-evaluation / benchmark quality assessment / evaluator consistency"
+    },
+    {
+      "arxiv_id": "2602.13543",
+      "title": "LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News",
+      "slug": "livenewsbench-evaluating-llm-web-search-capabilities-with-freshly-curated-news-2602.13543",
+      "url": "https://arxiv.org/abs/2602.13543",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T10:30:00+00:00",
+      "theme": "agentic web search evaluation / live information access / multi-hop reasoning"
     }
   ],
   "emergent_discoveries": [
@@ -10191,6 +10218,33 @@
       "url": "https://arxiv.org/abs/2606.30534",
       "discovered": "2026-07-01T15:30:00+00:00",
       "theme": "world foundation model / next-state-prediction / multimodal"
+    },
+    {
+      "arxiv_id": "2511.05722",
+      "title": "OckBench: Measuring the Efficiency of LLM Reasoning",
+      "slug": "ockbench-measuring-the-efficiency-of-llm-reasoning-2511.05722",
+      "url": "https://arxiv.org/abs/2511.05722",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T10:30:00+00:00",
+      "theme": "token efficiency benchmarking / accuracy tradeoffs / inference efficiency"
+    },
+    {
+      "arxiv_id": "2601.03986",
+      "title": "Benchmark\u00b2: Systematic Evaluation of LLM Benchmarks",
+      "slug": "benchmark2-systematic-evaluation-of-llm-benchmarks-2601.03986",
+      "url": "https://arxiv.org/abs/2601.03986",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T10:30:00+00:00",
+      "theme": "meta-evaluation / benchmark quality assessment / evaluator consistency"
+    },
+    {
+      "arxiv_id": "2602.13543",
+      "title": "LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News",
+      "slug": "livenewsbench-evaluating-llm-web-search-capabilities-with-freshly-curated-news-2602.13543",
+      "url": "https://arxiv.org/abs/2602.13543",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T10:30:00+00:00",
+      "theme": "agentic web search evaluation / live information access / multi-hop reasoning"
     }
   ],
   "emergent_concept_search_log": [
@@ -15743,6 +15797,29 @@
         "2606.29887",
         "2606.28480",
         "2606.30534"
+      ]
+    },
+    {
+      "run": 181,
+      "theme": "TOKEN EFFICIENCY BENCHMARKING / META-EVALUATION OF LLM BENCHMARKS / AGENTIC WEB SEARCH EVALUATION",
+      "framing": "token-efficiency / benchmark-meta-evaluation / agentic-web-search",
+      "added": 3,
+      "picks": [
+        {
+          "arxiv_id": "2511.05722",
+          "title": "OckBench",
+          "slug": "ockbench-measuring-the-efficiency-of-llm-reasoning-2511.05722"
+        },
+        {
+          "arxiv_id": "2601.03986",
+          "title": "Benchmark\u00b2",
+          "slug": "benchmark2-systematic-evaluation-of-llm-benchmarks-2601.03986"
+        },
+        {
+          "arxiv_id": "2602.13543",
+          "title": "LiveNewsBench",
+          "slug": "livenewsbench-evaluating-llm-web-search-capabilities-with-freshly-curated-news-2602.13543"
+        }
       ]
     }
   ],
