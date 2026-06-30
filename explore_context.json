@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T05:37:49+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 168,
-  "last_explore": "2026-06-30T06:30:00+00:00",
+  "last_run": 169,
+  "last_explore": "2026-06-30T10:30:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-06-30T06:30:00+00:00",
-  "last_run_framing": "COMPUTER-USE AGENT BENCHMARKING / POLICY ADHERENCE VERIFICATION / COGNITIVE REASONING EPISODE ANALYSIS",
-  "last_framing": "AGENTIC-SYSTEMS / INFERENCE-EFFICIENCY",
-  "last_run_notes": "Run 168: OSWorld2.0 (2606.29537) + PolicyGuard (2606.29225) + Cognitive Episodes (2606.28186)",
+  "last_discovery": "2026-06-30T10:30:00+00:00",
+  "last_run_framing": "LLM SELF-SUPERVISION / SELF-CRITIQUE / AGENTIC REFLECTION",
+  "last_framing": "AGENTIC-SELF-SUPERVISION / SELF-CRITIQUE",
+  "last_run_notes": "Run 169: MetaResearcher (2606.19893) + Teaching LRMs Effective Reflection (2601.12720) + ReFlect (2605.05737)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "agent-memory / security",
+  "emergent_concept_theme": "self-supervision / self-critique / reflection",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 517,
+  "entities_count": 523,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5800,6 +5800,30 @@
       "theme": "LLM reasoning evaluation / cognitive episode analysis",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.19893",
+      "title": "MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments",
+      "slug": "metaresearcher-scaling-deep-research-via-self-reflective-reinforcement-learning-in-adversarial-virtual-environments-2606.19893",
+      "url": "https://arxiv.org/abs/2606.19893",
+      "discovered": "2026-06-30T10:30:00+00:00",
+      "theme": "LLM self-supervision / multi-agent RL / adversarial world / meta-reward"
+    },
+    {
+      "arxiv_id": "2601.12720",
+      "title": "Teaching Large Reasoning Models Effective Reflection",
+      "slug": "teaching-large-reasoning-models-effective-reflection-2601.12720",
+      "url": "https://arxiv.org/abs/2601.12720",
+      "discovered": "2026-06-30T10:30:00+00:00",
+      "theme": "LLM reasoning / self-critique training / RLERR / superficial reflection filtering"
+    },
+    {
+      "arxiv_id": "2605.05737",
+      "title": "ReFlect: An Effective Harness System for Complex Long-Horizon LLM Reasoning",
+      "slug": "reflect-an-effective-harness-system-for-complex-long-horizon-llm-reasoning-2605.05737",
+      "url": "https://arxiv.org/abs/2605.05737",
+      "discovered": "2026-06-30T10:30:00+00:00",
+      "theme": "LLM reasoning harness / error detection-recovery / self-critique robustness / long-horizon reasoning"
     }
   ],
   "emergent_discoveries": [
@@ -15042,6 +15066,18 @@
         "2606.28186"
       ],
       "method": "HF daily + emergent-concept search"
+    },
+    {
+      "run": 169,
+      "date": "2026-06-30T10:30:00+00:00",
+      "method": "emergent-concept-search-via-web-search",
+      "theme": "LLM SELF-SUPERVISION / SELF-CRITIQUE / AGENTIC REFLECTION",
+      "papers_added": 3,
+      "paper_ids": [
+        "2606.19893",
+        "2601.12720",
+        "2605.05737"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
