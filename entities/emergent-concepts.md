@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 182) — ADAPTIVE THINKING BUDGET / JAILBREAK ROBUSTNESS TAXONOMY / TOKEN-EFFICIENT REASONING OPTIMIZATION**
+
+- [[not-all-turns-are-equally-hard-adaptive-thinking-budgets-for-efficient-multi-turn-reasoning-2604.05164]] — Not All Turns Are Equally Hard (TAB): Multi-turn adaptive thinking budgets via GRPO-trained MDP policy; first framework to handle sequential dependencies in multi-turn token budget allocation; up to 35% token savings on math reasoning while maintaining accuracy; TAB-All-SubQ variant saves 40% when sub-question plans are available; 2604.05164.
+- [[sok-robustness-in-large-language-models-against-jailbreak-attacks-2605.05058]] — SoK: Jailbreak Robustness in LLMs: Security Cube multi-dimensional taxonomy of jailbreak attacks and defenses; 13 attacks × 5 defenses benchmarked; establishes that narrow ASR metrics miss multi-dimensional security landscape; first comprehensive SoK of jailbreak landscape in the wiki; 2605.05058.
+- [[iapo-information-aware-policy-optimization-for-token-efficient-reasoning-2602.19049]] — IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning; assigns token-wise advantages via conditional mutual information with final answer; 36% reasoning length reduction while maintaining accuracy; monotonic token reduction guarantee; first information-theoretic token-level advantage framework; 2602.19049.
+
 **2026-06-30 — Run 181) — TOKEN EFFICIENCY BENCHMARKING / META-EVALUATION OF BENCHMARKS / AGENTIC WEB SEARCH EVALUATION**
 
 - [[ockbench-measuring-the-efficiency-of-llm-reasoning-2511.05722]] — OckBench: Measuring the Efficiency of LLM Reasoning — first joint accuracy+token-efficiency benchmark; reveals up to 5.0× token-length variance between models solving same problem at similar accuracy; token-per-correct-output as standardized evaluation dimension; 2511.05722.

@@ -1219,7 +1219,10 @@
         "2606.30534",
         "2511.05722",
         "2601.03986",
-        "2602.13543"
+        "2602.13543",
+        "2604.05164",
+        "2605.05058",
+        "2602.19049"
       ],
       "last_results": [
         {
@@ -5110,7 +5113,10 @@
     "2606.30534",
     "2511.05722",
     "2601.03986",
-    "2602.13543"
+    "2602.13543",
+    "2604.05164",
+    "2605.05058",
+    "2602.19049"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -5657,7 +5663,10 @@
       "2606.30534",
       "2511.05722",
       "2601.03986",
-      "2602.13543"
+      "2602.13543",
+      "2604.05164",
+      "2605.05058",
+      "2602.19049"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5812,6 +5821,33 @@
       "slug": "data-efficient-fine-tuning-for-llm-based-recommendation-2401.17197",
       "online_date": "2024-06-04",
       "run_number": 100
+    },
+    {
+      "arxiv_id": "2604.05164",
+      "title": "Not All Turns Are Equally Hard: Adaptive Thinking Budgets For Efficient Multi-Turn Reasoning",
+      "hash": "2604.05164",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "adaptive thinking budget / multi-turn sequential compute",
+      "discovered": "2026-07-01T19:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2605.05058",
+      "title": "SoK: Robustness in Large Language Models against Jailbreak Attacks",
+      "hash": "2605.05058",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "jailbreak taxonomy / security cube",
+      "discovered": "2026-07-01T19:30:00+00:00"
+    },
+    {
+      "arxiv_id": "2602.19049",
+      "title": "IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning",
+      "hash": "2602.19049",
+      "vector": "emergent",
+      "chain": "emergent-concepts",
+      "theme": "token-efficient reasoning / information-theoretic advantage",
+      "discovered": "2026-07-01T19:30:00+00:00"
     }
   ],
   "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",

@@ -2127,3 +2127,12 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 - Entities: 3 new
 - Method: HF daily 2026-06-29/30 + emergent-concept search
 - Status: SUCCESS
+
+- Run: 182
+- Date: 2026-07-01T19:30:00 UTC
+- Theme: ADAPTIVE THINKING BUDGET / JAILBREAK ROBUSTNESS TAXONOMY / TOKEN-EFFICIENT REASONING OPTIMIZATION
+- Picks: TAB (2604.05164) + SoK Jailbreak Robustness (2605.05058) + IAPO (2602.19049)
+- Entities: 3 new
+- Method: web_search 4-query + urllib arxiv fetch + 5-store dedup
+- Status: SUCCESS
+
