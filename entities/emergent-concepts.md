@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 208) — VARIATIONAL BAYESIAN PEFT / ARTIFICIAL UNCERTAINTY INDUCTION / LONG-CONTEXT ATTENTION EFFICIENCY**
+
+- [[scalable-variational-bayesian-finetuning-llms-via-orthogonalized-lowrank-2604.03388]]
+  Scalable Variational Bayesian PEFT: First orthogonal-LORA variational Bayesian approach for principled UQ in fine-tuned LLMs — enables self-assessment of reliability for safety-critical downstream deployments without sacrificing parameter efficiency.
+
+- [[inducing-artificial-uncertainty-language-models-2605.13595]]
+  Artificial Uncertainty Induction: First method enabling LLM self-assessment of uncertainty without supervised data — induces artificial uncertainty for safety-critical applications where labeled challenging examples are unavailable.
+
+- [[match-modulating-attention-via-incontext-retrieval-for-longcontext-2606.29844]]
+  MATCH Long-Context Attention: First in-context retrieval modulation for long-document efficiency — dynamically adjusts attention via retrieved context, achieving both quadratic-cost reduction and high fidelity for long-document understanding.
+
 **2026-06-30 — Run 207) — LLM AGENT BOUNDARY GROUNDING / LONG-TAIL WORLD MODEL EVALUATION / AGENTIC DFAM ROCKETS**
 
 - [[what-the-llm-should-not-say-boundary-aware-context-grounding-2606.26519]]
