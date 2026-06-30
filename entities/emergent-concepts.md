@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 194) — LLM INTROSPECTION / WEAKLY-SUPERVISED GUI AGENT / LONG-FORM JUDGE BENCHMARKING**
+
+- [[me-myself-and-pi-evaluating-and-explaining-llm-introspection-2603.20276]]
+  Me, Myself, and π: First rigorous evaluation framework distinguishing genuine LLM introspection from self-simulation — behavioral and mechanistic probes reveal most LLMs use world-knowledge pattern matching rather than true metacognitive access; proposes grounded evaluation tasks where ground-truth internal states are knowable.
+
+- [[benchmarking-llm-as-a-judge-for-long-form-output-evaluation-2606.01629]]
+  Benchmarking LLM-as-a-Judge: First systematic meta-evaluation of LLM-as-judge for long-form outputs — reveals amplified length bias, position bias, and self-preference bias in long-form settings vs short-form; proposes calibration techniques (forced-pairwise, anchor-based scoring) that reduce bias significantly.
+
+- [[guicrafter-weakly-supervised-gui-agent-leveraging-massive-unannotated-screenshots-2606.29705]]
+  GUICrafter: First weakly-supervised GUI agent learning from massive unannotated screenshot collections — contrastive visual representation learning distinguishes actionable UI elements without action labels; pretrained agents transfer to new environments with minimal fine-tuning; dramatically reduces data collection cost.
+
 **2026-07-02 — Run 193) — AGENTIC AI RISK / LLM-ORCHESTRATED DIGITAL TWIN / DOMAIN-SPECIFIC KG-REASONING**
 
 - [[belief-at-risk-quantifying-agentic-ai-model-risk-with-llm-inferred-bayesian-state-filters-2606.15473]]

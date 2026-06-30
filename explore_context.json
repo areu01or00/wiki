@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic AI risk / digital twin / domain-specific reasoning / KG-augmented LLM",
   "emergent_theme": "agentic-risk-digital-twin-kg-reasoning",
   "chains_updated": 0,
-  "entities_count": 592,
+  "entities_count": 595,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -10857,6 +10857,30 @@
       "url": "https://arxiv.org/abs/2606.29254",
       "discovered": "2026-07-02T12:50:00+00:00",
       "theme": "domain-specific KG-reasoning / knowledge graph-augmented LLM / travel domain / reasoning failure"
+    },
+    {
+      "arxiv_id": "2603.20276",
+      "title": "Me, Myself, and \u03c0: Evaluating and Explaining LLM Introspection",
+      "slug": "me-myself-and-pi-evaluating-and-explaining-llm-introspection-2603.20276",
+      "url": "https://arxiv.org/abs/2603.20276",
+      "discovered": "2026-07-02T13:30:00+00:00",
+      "theme": "LLM introspection / metacognition evaluation / self-simulation"
+    },
+    {
+      "arxiv_id": "2606.01629",
+      "title": "Benchmarking LLM-as-a-Judge for Long-Form Output Evaluation",
+      "slug": "benchmarking-llm-as-a-judge-for-long-form-output-evaluation-2606.01629",
+      "url": "https://arxiv.org/abs/2606.01629",
+      "discovered": "2026-07-02T13:30:00+00:00",
+      "theme": "LLM-as-judge / long-form evaluation / evaluation bias"
+    },
+    {
+      "arxiv_id": "2606.29705",
+      "title": "GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots",
+      "slug": "guicrafter-weakly-supervised-gui-agent-leveraging-massive-unannotated-screenshots-2606.29705",
+      "url": "https://arxiv.org/abs/2606.29705",
+      "discovered": "2026-07-02T13:30:00+00:00",
+      "theme": "GUI agent / weakly-supervised / visual grounding"
     }
   ],
   "emergent_concept_search_log": [
@@ -13654,6 +13678,20 @@
       "run": 191,
       "timestamp": "2026-07-02T12:30:00.000000+00:00",
       "theme": "uncertainty-calibration / interactional-alignment / code-generation"
+    },
+    {
+      "run": 194,
+      "timestamp": "2026-07-02T13:30:00+00:00",
+      "theme": "LLM INTROSPECTION / WEAKLY-SUPERVISED GUI AGENT / LONG-FORM JUDGE BENCHMARKING",
+      "method": "HF daily + web_search emergent-concept-discovery",
+      "papers_added": 3,
+      "paper_ids": [
+        "2603.20276",
+        "2606.01629",
+        "2606.29705"
+      ],
+      "framing": "LLM metacognition evaluation / weakly-supervised grounding / LLM-as-judge long-form bias",
+      "notes": "Rule 101 INTERNAL SELF-SUPERVISION continuation \u2014 picked introspection eval orthogonal to Rule 101 internal-self-supervision axis from Run 160. GUICrafter orthogonal to Run 193 GUI-agent axis. LLM-as-judge long-form eval orthogonal to Run 189 LLM-judge axis."
     }
   ],
   "runs": [
@@ -16600,6 +16638,17 @@
       ],
       "framing": "AGENTIC AI RISK / LLM-ORCHESTRATED DIGITAL TWIN / DOMAIN-SPECIFIC KG-REASONING",
       "notes": "Run 193: Belief at Risk agentic AI risk quantification via POMDP/Bayesian state filters + CONDUCTOR LLM-orchestrated digital twin for power grid uncertainty + Travel KG-Reasoning via domain-specific knowledge graph \u2014 3 structurally orthogonal axes: quantitative risk theory / LLM orchestration under uncertainty / domain-specific KG-reasoning failure modes"
+    },
+    {
+      "run": 194,
+      "date": "2026-07-02",
+      "picks": [
+        "2603.20276",
+        "2606.01629",
+        "2606.29705"
+      ],
+      "theme": "LLM INTROSPECTION / WEAKLY-SUPERVISED GUI AGENT / LONG-FORM JUDGE BENCHMARKING",
+      "method": "HF daily + web_search emergent-concept-discovery"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
