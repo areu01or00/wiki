@@ -26,10 +26,10 @@
         "82044c08b5b5bb0bbe98836d2ebf8bdd",
         "7eb59ea1553c476c8e44554da6c3c4c8"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "MiniMax AI MiniMax-M3 release new model multimodal MoE",
-      "run_count": 96,
+      "run_count": 97,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "anthropic-releases": {
@@ -57,10 +57,10 @@
         "681936ed24794ce4081ed957ef016636",
         "93c4c40462336b8c14e392fe79573c43"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "Anthropic Claude new model release Sonnet Opus API",
-      "run_count": 102,
+      "run_count": 103,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "arxiv-cs-cl": {
@@ -119,10 +119,10 @@
         "93c4c40462336b8c14e392fe79573c43",
         "ceb9af9460c4f6bc1b3b7b9f4791b93d"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "DeepSeek new model release V3 R1 R2 weights API",
-      "run_count": 100,
+      "run_count": 101,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "glm-releases": {
@@ -150,10 +150,10 @@
         "8fe2170c6b5c10f9cfaa720a5bbdcf89",
         "681936ed24794ce4081ed957ef016636"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "Zhipu GLM ChatGLM new model release weights API",
-      "run_count": 102,
+      "run_count": 103,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "google-deepmind-releases": {
@@ -181,10 +181,10 @@
         "8fe2170c6b5c10f9cfaa720a5bbdcf89",
         "c3e00c888a422ac08941381e5ad9211a"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "Google DeepMind Gemini new model release API Gemma",
-      "run_count": 102,
+      "run_count": 103,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "huggingface-trending": {
@@ -212,10 +212,10 @@
         "93c4c40462336b8c14e392fe79573c43",
         "ceb9af9460c4f6bc1b3b7b9f4791b93d"
       ],
-      "last_run": "2026-06-30T07:26:31.921587+00:00",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "HuggingFace trending models new paper daily",
-      "run_count": 98,
+      "run_count": 99,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "kimi-releases": {
@@ -243,10 +243,10 @@
         "681936ed24794ce4081ed957ef016636",
         "93c4c40462336b8c14e392fe79573c43"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "Kimi K2 K2.6 K2.7 release weights API new model",
-      "run_count": 100,
+      "run_count": 101,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "krea": {
@@ -275,10 +275,10 @@
         "26f1ec6b5645b478651c3dbcd4dbd041",
         "8fe2170c6b5c10f9cfaa720a5bbdcf89"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "Krea AI Krea 2 image generation model open weights",
-      "run_count": 100,
+      "run_count": 101,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "llm-stats-updates": {
@@ -306,10 +306,10 @@
         "681936ed24794ce4081ed957ef016636",
         "93c4c40462336b8c14e392fe79573c43"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "llm-stats.com open-weights leaderboard release tracker",
-      "run_count": 100,
+      "run_count": 101,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "meta-llama-releases": {
@@ -337,10 +337,10 @@
         "8fe2170c6b5c10f9cfaa720a5bbdcf89",
         "681936ed24794ce4081ed957ef016636"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "Meta Llama new model release weights open source",
-      "run_count": 102,
+      "run_count": 103,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "mistral-releases": {
@@ -368,10 +368,10 @@
         "93c4c40462336b8c14e392fe79573c43",
         "ceb9af9460c4f6bc1b3b7b9f4791b93d"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "Mistral AI new model release Mixtral weights",
-      "run_count": 100,
+      "run_count": 101,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "openai-releases": {
@@ -399,10 +399,10 @@
         "93c4c40462336b8c14e392fe79573c43",
         "ceb9af9460c4f6bc1b3b7b9f4791b93d"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "OpenAI new model release GPT ChatGPT API announcement",
-      "run_count": 101,
+      "run_count": 102,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "qwen-releases": {
@@ -430,10 +430,10 @@
         "8fe2170c6b5c10f9cfaa720a5bbdcf89",
         "681936ed24794ce4081ed957ef016636"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "Qwen3 Qwen3.5 Tongyi LLM open weights Alibaba release",
-      "run_count": 101,
+      "run_count": 102,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "sakana-releases": {
@@ -462,10 +462,10 @@
         "93c4c40462336b8c14e392fe79573c43",
         "ceb9af9460c4f6bc1b3b7b9f4791b93d"
       ],
-      "last_run": "2026-06-30T07:26:31.921587+00:00",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "Sakana AI Fugu model release Japanese lab",
-      "run_count": 99,
+      "run_count": 100,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "swiss-ai-apertus": {
@@ -494,10 +494,10 @@
         "93c4c40462336b8c14e392fe79573c43",
         "ceb9af9460c4f6bc1b3b7b9f4791b93d"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "swiss-ai/apertus Hugging Face open weights multilingual",
-      "run_count": 100,
+      "run_count": 101,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "xai-releases": {
@@ -525,10 +525,10 @@
         "681936ed24794ce4081ed957ef016636",
         "93c4c40462336b8c14e392fe79573c43"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "xAI Grok new model release API weights",
-      "run_count": 100,
+      "run_count": 101,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "inclusion-ai": {
@@ -558,8 +558,8 @@
         "93c4c40462336b8c14e392fe79573c43",
         "ceb9af9460c4f6bc1b3b7b9f4791b93d"
       ],
-      "last_run": "2026-06-30",
-      "run_count": 62,
+      "last_run": "2026-06-30T08:50:34+00:00",
+      "run_count": 63,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_update_hash": null
     },
@@ -569,6 +569,7 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 56,
       "last_result_hashes": [
+        "2f19e390a896a77dc6b3b287ab1aaf7a",
         "dc71aa8ed863cfa03b2457916764c698",
         "0ca252737c9c34433c4b5f4b01a50a0e",
         "8d60836579b93fab4fa09dea374a913f",
@@ -587,11 +588,10 @@
         "7d316d9aa330def5c2d13af95916014c",
         "26f1ec6b5645b478651c3dbcd4dbd041",
         "8fe2170c6b5c10f9cfaa720a5bbdcf89",
-        "681936ed24794ce4081ed957ef016636",
-        "93c4c40462336b8c14e392fe79573c43"
+        "681936ed24794ce4081ed957ef016636"
       ],
-      "last_run": "2026-06-30",
-      "run_count": 62,
+      "last_run": "2026-06-30T08:50:34+00:00",
+      "run_count": 65,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_update_hash": null
     },
@@ -622,8 +622,8 @@
         "26f1ec6b5645b478651c3dbcd4dbd041",
         "8fe2170c6b5c10f9cfaa720a5bbdcf89"
       ],
-      "last_run": "2026-06-30",
-      "run_count": 57,
+      "last_run": "2026-06-30T08:50:34+00:00",
+      "run_count": 59,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_update_hash": null
     },
@@ -653,16 +653,16 @@
         "93c4c40462336b8c14e392fe79573c43",
         "ceb9af9460c4f6bc1b3b7b9f4791b93d"
       ],
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_update_hash": null,
       "query": "kogai laneformer-2b-it model card release",
-      "run_count": 47,
+      "run_count": 49,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "yuvion-llm": {
       "query": "Yuvion new model release LLM adversarial safety",
       "category": "auto-discovered",
-      "run_count": 18,
+      "run_count": 20,
       "last_result_hashes": [
         "4901fa2af7cbde10a774f3d3179f2831",
         "44a728fec32ad8fe24f282e7316a2f1f",
@@ -686,14 +686,14 @@
         "7d316d9aa330def5c2d13af95916014c"
       ],
       "discovered_at_cycle": "cycle 99",
-      "last_run": "2026-06-30",
+      "last_run": "2026-06-30T08:50:34+00:00",
       "last_checked": "2026-06-29T21:31:59.920036+00:00"
     },
     "meituan-longcat": {
       "name": "Meituan LongCat",
       "query": "Meituan LongCat new model release LLM announced",
       "category": "auto-discovered",
-      "run_count": 3,
+      "run_count": 5,
       "last_result_hashes": [
         "ee900088279819d7d3414172cf148346",
         "298eaab18ba11cafc66677f21418b8c4",
@@ -701,7 +701,18 @@
       ],
       "discovered_at_cycle": "c106-20260630",
       "notes": "Auto-discovered c106 via x_search: LongCat-2.0 announced June 30, 2026",
-      "last_run": "2026-06-30"
+      "last_run": "2026-06-30T08:50:34+00:00"
+    },
+    "huawei": {
+      "query": "Huawei OpenPangu new model release open weights LLM",
+      "category": "auto-discovered",
+      "run_count": 2,
+      "last_result_hashes": [
+        "2cdf317c10cea9295f8229dafa17371d"
+      ],
+      "discovered_at_cycle": "c107-20260630",
+      "source": "x_search",
+      "last_run": "2026-06-30T08:50:34+00:00"
     }
   },
   "last_updated": "2026-06-30T06:43:04.865244+00:00"
