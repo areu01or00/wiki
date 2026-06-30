@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 197) — EXPERT REASONING DISTILLATION / AUTONOMOUS RED TEAMING / PRM ADVERSARIAL ROBUSTNESS**
+
+- [[making-expert-reasoning-learnable-with-self-distillation-2602.02405]]
+  Making Expert Reasoning Learnable with Self-Distillation: DAIL two-step self-distillation bridges expert solution distribution gap via contrastive objective — achieves 31% pass@128 gains with <1000 expert solutions; enables out-of-DG generalization without stronger teacher model; orthogonal to existing self-distillation and reward-supervision axes.
+
+- [[be-your-own-red-teamer-safety-alignment-via-self-play-and-reflective-experience-replay-2601.10589]]
+  Be Your Own Red Teamer: Safety Self-Play (SSP) — single LLM as concurrent Attacker-Defender in unified RL loop for autonomous evolving jailbreaks; Reflective Experience Replay with UCB sampling focuses on low-reward failure cases; outperforms static adversarial dataset baselines and establishes new proactive safety alignment benchmark.
+
+- [[reward-under-attack-analyzing-the-robustness-and-hackability-of-process-reward-models-2603.06621]]
+  Reward Under Attack: State-of-the-art PRMs are systematically exploitable — gradient attacks inflate rewards on invalid trajectories, RL-trained policies achieve >0.9 PRM reward with <4% ground-truth accuracy; current PRMs function as fluency detectors not reasoning verifiers; PRM-BiasBench and diagnostic toolkit released.
+
 **2026-07-02 — Run 196) — WORLD MODEL / SPEECH-TEXT LATENT MODALITY / VIDEO-TUTORIAL AGENTIC GENERALIZATION**
 
 - [[dreamforge-world-0-1-preview-a-low-compute-real-time-controllable-world-model-2606.30292]]
