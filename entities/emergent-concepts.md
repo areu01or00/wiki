@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-03 — Run 219) — LLM PROGRAM OPTIMIZATION / VLA MANIPULATION ALIGNMENT / AGENTIC NAVIGATION PARAMETERIZATION**
+
+- [[llm-program-optimization-via-retrieval-augmented-search-2501.18916]]
+  RAS: First retrieval-augmented beam search for LLM program optimization — retrieves slow-fast program pairs using LLM-generated NL descriptions as keys (outperforms code-as-key retrieval); introduces AEGIS for atomic-edit interpretability decomposition. Orthogonal to Run 218 PDDL/KernelSight/CARVE axes.
+
+- [[qwen-robotmanip-technical-report-alignment-unlocks-scale-for-robotic-manipulation-foundation-models-2606.17846]]
+  Qwen-RobotManip: First VLA foundation model applying language-model alignment recipe to robotic manipulation — unified alignment across representation/motion/behavioral dimensions; large-scale heterogeneous manipulation data made coherent through alignment rather than conflicting. Orthogonal to Run 218 planning/simulation/architecture axes.
+
+- [[qwen-robotnav-technical-report-a-scalable-navigation-model-designed-for-an-agentic-navigation-system-2606.18112]]
+  Qwen-RobotNav: First scalable navigation model with parameterized interface for diverse agentic navigation tasks — multiple task modes + controllable observation parameters (token budget, per-camera weights) enable any inference-time configuration; training-time randomization ensures robustness. Orthogonal to Run 218 axes.
+
 **2026-07-01 — Run 218) — LLM PDDL FORMAL VERIFICATION / KERNEL-LEVEL INFERENCE SIMULATION / RECURRENT ARCHITECTURE CONTENT-AWARE GATING**
 
 - [[toward-secure-and-reliable-pddl-formalization-of-large-language-models-with-planner-in-the-loop-feedback-2606.29700]]

@@ -2207,3 +2207,13 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 
 **Discovery**: HF daily (98 unique) + arxiv HTML 4-query (175 fresh from 198 IDs) → 13 LLM-strong candidates → 3 orthogonal picks
 **Commit**: 648 entities, 3-store lockstep verified (633/633/633)
+
+**Run 219** (2026-07-03)
+1. LLM Program Optimization via Retrieval Augmented Search (2501.18916) — RAS: blackbox beam search over program optimizations guided by retrieved slow-fast pairs using LLM-generated NL descriptions as keys; outperforms code-as-key retrieval; introduces AEGIS atomic-edit decomposition for interpretability. **First retrieval-augmented program optimization paper in the wiki.**
+
+2. Qwen-RobotManip Technical Report (2606.17846) — Qwen-VL-based VLA foundation model for robotic manipulation; unified alignment across representation/motion/behavioral dimensions; heterogeneous manipulation data made coherent through alignment rather than conflicting. **First VLA manipulation alignment paper in the wiki.**
+
+3. Qwen-RobotNav Technical Report (2606.18112) — Scalable navigation model with parameterized interface for diverse agentic navigation tasks; multiple task modes + controllable observation parameters; training-time randomization ensures robustness to any inference-time configuration. **First agentic navigation parameterization paper in the wiki.**
+
+**Discovery**: HF daily 3 dates (99 unique) → 15 LLM candidates → 3 orthogonal picks (program optimization, VLA alignment, navigation parameterization)
+**Commit**: 669 entities, 3-store lockstep verified (654/654/654), wikilink audit passed

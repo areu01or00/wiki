@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-06-30T00:00:00+00:00",
-  "last_run": 218,
-  "last_explore": "2026-06-30T00:00:00.000000+00:00",
+  "last_run": 219,
+  "last_explore": "2026-07-03T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-06-30",
-  "last_run_framing": "LLM PDDL formal verification / kernel-level inference simulation / recurrent architecture content-aware gating",
+  "last_run_framing": "LLM program optimization / VLA manipulation alignment / agentic navigation parameterization",
   "last_framing": "codeblock token-level sft supervision / agentjet swarm agentic rl training / knowledge distillation failure modes",
-  "last_run_notes": "Run 217: CODEBLOCK (2606.18286) + AgentJet (2606.04484) + KD Post-Training (2606.22942)",
+  "last_run_notes": "Run 219: RAS (2501.18916) + Qwen-RobotManip (2606.17846) + Qwen-RobotNav (2606.18112)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "conversational safety / knowledge graph grounding / self-distillation diversity",
   "emergent_theme": "conversational-safety-knowledge-graph-grounding-self-distillation",
   "chains_updated": 0,
-  "entities_count": 666,
+  "entities_count": 669,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6775,6 +6775,36 @@
       "url": "https://arxiv.org/abs/2606.22942",
       "theme": "knowledge-distillation / post-training / llm efficiency / failure mode taxonomy",
       "discovered": "2026-06-30T00:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2501.18916",
+      "slug": "llm-program-optimization-via-retrieval-augmented-search",
+      "title": "LLM Program Optimization via Retrieval Augmented Search",
+      "url": "https://arxiv.org/abs/2501.18916",
+      "discovered": "2026-07-03",
+      "theme": "program-optimization / VLA alignment / agentic navigation",
+      "vector": "emergent_concept",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.17846",
+      "slug": "qwen-robotmanip-technical-report-alignment-unlocks-scale-for-robotic-manipulation-foundation-models",
+      "title": "Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models",
+      "url": "https://arxiv.org/abs/2606.17846",
+      "discovered": "2026-07-03",
+      "theme": "program-optimization / VLA alignment / agentic navigation",
+      "vector": "emergent_concept",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.18112",
+      "slug": "qwen-robotnav-technical-report-a-scalable-navigation-model-designed-for-an-agentic-navigation-system",
+      "title": "Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System",
+      "url": "https://arxiv.org/abs/2606.18112",
+      "discovered": "2026-07-03",
+      "theme": "program-optimization / VLA alignment / agentic navigation",
+      "vector": "emergent_concept",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -11791,6 +11821,30 @@
       "url": "https://arxiv.org/abs/2606.27229",
       "discovered": "2026-07-01T00:00:00+00:00",
       "theme": "LLM PDDL formal verification / kernel-level inference simulation / recurrent architecture content-aware gating"
+    },
+    {
+      "arxiv_id": "2501.18916",
+      "title": "LLM Program Optimization via Retrieval Augmented Search",
+      "slug": "llm-program-optimization-via-retrieval-augmented-search",
+      "url": "https://arxiv.org/abs/2501.18916",
+      "discovered": "2026-07-03",
+      "theme": "program-optimization / VLA alignment / agentic navigation"
+    },
+    {
+      "arxiv_id": "2606.17846",
+      "title": "Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models",
+      "slug": "qwen-robotmanip-technical-report-alignment-unlocks-scale-for-robotic-manipulation-foundation-models",
+      "url": "https://arxiv.org/abs/2606.17846",
+      "discovered": "2026-07-03",
+      "theme": "program-optimization / VLA alignment / agentic navigation"
+    },
+    {
+      "arxiv_id": "2606.18112",
+      "title": "Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System",
+      "slug": "qwen-robotnav-technical-report-a-scalable-navigation-model-designed-for-an-agentic-navigation-system",
+      "url": "https://arxiv.org/abs/2606.18112",
+      "discovered": "2026-07-03",
+      "theme": "program-optimization / VLA alignment / agentic navigation"
     }
   ],
   "emergent_concept_search_log": [
@@ -17875,6 +17929,20 @@
         "2606.27229"
       ],
       "run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection"
+    },
+    {
+      "run_number": 219,
+      "date": "2026-07-03",
+      "theme": "LLM PROGRAM OPTIMIZATION / VLA MANIPULATION ALIGNMENT / AGENTIC NAVIGATION PARAMETERIZATION",
+      "picks": [
+        "2501.18916",
+        "2606.17846",
+        "2606.18112"
+      ],
+      "vectors": [
+        "emergent_concept_search"
+      ],
+      "papers_found_count": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
