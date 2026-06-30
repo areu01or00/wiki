@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 227) — MULTI-AGENT CODE GENERATION / MULTI-USER GOVERNANCE / EMBEDDING DISTILLATION**
+
+- [[codeteam-llm-powered-multi-agent-framework-for-repository-level-code-generation-2606.22082]]
+  CodeTeam: Multi-agent framework (Architect, CTO, Developer, QA) for repository-level code generation from NL requirements — separates planning, design selection, implementation, iterative debugging with bounded context and Git-based coordination. Achieves 42.3% pass rate on NL2Repo-Bench. **First multi-agent repository-level code generation paper in the wiki.**
+
+- [[harness-mu-safe-governed-harness-for-multi-user-llm-agents-2606.21856]]
+  Harness-MU: First model-agnostic infrastructure for multi-user LLM agents — decouples language generation from safety orchestration via deterministic execution hooks for permission enforcement. Achieves 0.28–0.39 utility improvement and 48.9pp instruction-following gain on Muses-Bench. **First multi-principal governance infrastructure paper in the wiki.**
+
+- [[talas-teacher-anchored-layer-alignment-for-embedding-distillation-2606.21851]]
+  TALAS: Teacher-Anchored Layer Alignment with ASAM for embedding distillation — selectively distills upper layers only, bridges lower layers via layer-aligned self-distillation with geometric constraints. Superior training efficiency on sentence embedding benchmarks. **First teacher-anchored layer alignment paper in the wiki.**
+
 **2026-07-04 — Run 226) — INTROSPECTION / CROSS-LINGUAL CULTURAL CONSENSUS / LONG-CONTEXT COMPRESSION**
 
 - [[longattncomp-cross-family-context-compression-for-long-context-reasoning-2606.01336]]
@@ -25,7 +36,7 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - [[cross-lingual-consensus-aligning-multilingual-cultural-knowledge-via-multilingual-self-consistency-2605.22137]]
   Cross-Lingual Consensus: First diagnosis of Western-centric bias as a cross-lingual retrieval problem — LLMs have rich cultural knowledge in non-English representations but English prompts block access. Multilingual self-consistency voting across 15 languages surfaces global cultural consensus. **First cross-lingual cultural consensus paper in the wiki.**
 
-- [[2512.01457]]
+- [[zero-overhead-introspection-probing-head-for-task-success-2512.01457]]
   Zero-Overhead Introspection: First zero-overhead introspection framework for LLMs — a small probing head (1-3% parameters) predicts task success from hidden states during generation, enabling adaptive test-time compute without auxiliary models or extra tokens. **First zero-overhead introspection / adaptive test-time compute paper in the wiki.**
 
 **2026-07-04 — Run 225) — REASONING EFFICIENCY / AGENT MEMORY / SELF-DISTILLATION**

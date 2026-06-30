@@ -2248,3 +2248,9 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 - Theme: agentic self-calibration / multimodal self-evolution / aerial navigation verification
 - HF fresh: 3 LLM candidates from 72 deduped | arxiv HTML: 45 fresh IDs from 1 query
 - Entities: 672 | EC last_run: 220 | WP 3-store: 657
+
+## Run 227 — 2026-07-04 UTC
+- Picks: CodeTeam (2606.22082) + Harness-MU (2606.21856) + TALAS (2606.21851)
+- Theme: multi-agent code generation / multi-user governance / embedding distillation
+- arxiv HTML fresh: 806 candidates from 12 queries | LLM-keyword filtered: 3 orthogonal picks
+- Entities: 693 | EC last_run: 227 | WP 3-store: 678
