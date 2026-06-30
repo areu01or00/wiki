@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 200) — CODE TEAM NL2REPO / PEAR ADAPTIVE DEBATE ROUTING / SIMREG PRETRAINING EMBEDDING REGULARIZATION**
+
+- [[codeteam-an-llm-powered-multi-agent-framework-for-repository-level-cod-2606.22082]]
+  CodeTeam: First multi-agent hierarchical planning framework for Natural Language to Repository Generation (NL2Repo) — separates Planner/Decision-Maker/Implementation agents with specialized roles; iterative cross-file debugging protocol; 47% functional correctness improvement on 10-domain NL2Repo benchmark.
+
+- [[pear-permutation-equivariant-adaptive-routing-multi-agent-debate-2606.20621]]
+  PEAR: First permutation-equivariant adaptive routing for multi-agent LLM debate — dynamically reconfigures communication roles and sparse topologies across debate rounds; eliminates positional bias; 40% fewer active agents with improved accuracy on reasoning/math/code tasks.
+
+- [[simreg-achieving-higher-performance-in-the-pretraining-via-embedding-s-2605.08809]]
+  SimReg: First embedding similarity regularization framework for LLM pretraining — penalizes high intra-class variance and high inter-class similarity at token-type level via class-conditional centroid regularization; 2-5% improvement on GLUE/SuperGLUE with <3% compute overhead.
+
 **2026-07-02 — Run 199) — RLVR ZERO-HIT SUPERVISION / EVIDENCE-DRIVEN VIDEO REFLECTION / AGENTIC AI FINANCIAL SECURITY**
 
 - [[latentrevise-learning-from-zero-hit-reasoning-2606.29938]]

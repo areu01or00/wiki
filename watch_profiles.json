@@ -1273,7 +1273,10 @@
         "2602.07186",
         "c3bd19ef60d5ed355e316cf14d81dc6e",
         "e0cc745f54973027189f2797d82ba051",
-        "cfe02d5dec0ac5792c34f7bc3ae117a8"
+        "cfe02d5dec0ac5792c34f7bc3ae117a8",
+        "ca7b6671da4ec17289735db5189498f1",
+        "cfcba9ce6e5fa374381e7648e8c90d1a",
+        "4298699582a36e78bb112b1556ad4905"
       ],
       "last_results": [
         {
@@ -4785,6 +4788,45 @@
           "online_date": "2026-07-02",
           "run_number": 199,
           "margin": 0.0
+        },
+        {
+          "arxiv_id": "2606.22082",
+          "title": "CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation",
+          "hash": "ca7b6671da4ec17289735db5189498f1",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM multi-agent code generation / NL2Repo / hierarchical planning",
+          "discovered": "2026-06-30T14:00:00+00:00",
+          "slug": "codeteam-an-llm-powered-multi-agent-framework-for-repository-level-cod-2606.22082",
+          "online_date": "2026-06-30",
+          "run_number": 200,
+          "margin": ""
+        },
+        {
+          "arxiv_id": "2606.20621",
+          "title": "PEAR: Permutation-Equivariant Adaptive Routing Multi-Agent Debate",
+          "hash": "cfcba9ce6e5fa374381e7648e8c90d1a",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM multi-agent debate / adaptive routing / permutation equivariance",
+          "discovered": "2026-06-30T14:00:00+00:00",
+          "slug": "pear-permutation-equivariant-adaptive-routing-multi-agent-debate-2606.20621",
+          "online_date": "2026-06-30",
+          "run_number": 200,
+          "margin": ""
+        },
+        {
+          "arxiv_id": "2605.08809",
+          "title": "SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization",
+          "hash": "4298699582a36e78bb112b1556ad4905",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "LLM pretraining / embedding regularization / representation learning",
+          "discovered": "2026-06-30T14:00:00+00:00",
+          "slug": "simreg-achieving-higher-performance-in-the-pretraining-via-embedding-s-2605.08809",
+          "online_date": "2025-08",
+          "run_number": 200,
+          "margin": ""
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5392,7 +5434,10 @@
     "2602.07186",
     "c3bd19ef60d5ed355e316cf14d81dc6e",
     "e0cc745f54973027189f2797d82ba051",
-    "cfe02d5dec0ac5792c34f7bc3ae117a8"
+    "cfe02d5dec0ac5792c34f7bc3ae117a8",
+    "ca7b6671da4ec17289735db5189498f1",
+    "cfcba9ce6e5fa374381e7648e8c90d1a",
+    "4298699582a36e78bb112b1556ad4905"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -5993,7 +6038,10 @@
       "2602.07186",
       "c3bd19ef60d5ed355e316cf14d81dc6e",
       "e0cc745f54973027189f2797d82ba051",
-      "cfe02d5dec0ac5792c34f7bc3ae117a8"
+      "cfe02d5dec0ac5792c34f7bc3ae117a8",
+      "ca7b6671da4ec17289735db5189498f1",
+      "cfcba9ce6e5fa374381e7648e8c90d1a",
+      "4298699582a36e78bb112b1556ad4905"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

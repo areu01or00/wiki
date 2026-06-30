@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 199,
+  "last_run": 200,
   "last_explore": "2026-07-02T14:45:00.000000+00:00",
   "last_global_explore": "2026-07-02T14:45:00.000000+00:00",
-  "last_discovery": "2026-07-02+00:00",
-  "last_run_framing": "RLVR ZERO-HIT SUPERVISION / EVIDENCE-DRIVEN VIDEO REFLECTION / AGENTIC AI FINANCIAL SECURITY",
-  "last_framing": "RLVR self-supervision / zero-hit reasoning / latent embedding revision / evidence-driven multimodal reflection / agentic financial security",
-  "last_run_notes": "Run 199: LatentRevise (2606.29938) + Reflect-R1 (2606.27922) + Agent Security Regulated Finance (2606.29142)",
+  "last_discovery": "2026-06-30+00:00",
+  "last_run_framing": "CODE TEAM NL2REPO / PEAR ADAPTIVE DEBATE ROUTING / SIMREG PRETRAINING EMBEDDING REGULARIZATION",
+  "last_framing": "multi-agent code generation / adaptive debate routing / pretraining embedding regularization",
+  "last_run_notes": "Run 200: CodeTeam (2606.22082) + PEAR (2606.20621) + SimReg (2605.08809)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + web_search emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic AI risk / digital twin / domain-specific reasoning / KG-augmented LLM",
   "emergent_theme": "agentic-risk-digital-twin-kg-reasoning",
   "chains_updated": 0,
-  "entities_count": 610,
+  "entities_count": 613,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6508,6 +6508,36 @@
       "discovered": "2026-06-30T14:31:14+00:00",
       "theme": "emergent concept discovery",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.22082",
+      "title": "CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation",
+      "slug": "codeteam-an-llm-powered-multi-agent-framework-for-repository-level-cod-2606.22082",
+      "url": "https://arxiv.org/abs/2606.22082",
+      "discovered": "2026-06-30T14:00:00+00:00",
+      "theme": "LLM multi-agent code generation / NL2Repo / hierarchical planning",
+      "chain": "emergent-concepts",
+      "vector": "emergent_concept_search"
+    },
+    {
+      "arxiv_id": "2606.20621",
+      "title": "PEAR: Permutation-Equivariant Adaptive Routing Multi-Agent Debate",
+      "slug": "pear-permutation-equivariant-adaptive-routing-multi-agent-debate-2606.20621",
+      "url": "https://arxiv.org/abs/2606.20621",
+      "discovered": "2026-06-30T14:00:00+00:00",
+      "theme": "LLM multi-agent debate / adaptive routing / permutation equivariance",
+      "chain": "emergent-concepts",
+      "vector": "emergent_concept_search"
+    },
+    {
+      "arxiv_id": "2605.08809",
+      "title": "SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization",
+      "slug": "simreg-achieving-higher-performance-in-the-pretraining-via-embedding-s-2605.08809",
+      "url": "https://arxiv.org/abs/2605.08809",
+      "discovered": "2026-06-30T14:00:00+00:00",
+      "theme": "LLM pretraining / embedding regularization / representation learning",
+      "chain": "emergent-concepts",
+      "vector": "emergent_concept_search"
     }
   ],
   "emergent_discoveries": [
@@ -11089,6 +11119,30 @@
       "url": "https://arxiv.org/abs/2606.29142",
       "discovered": "2026-06-30T14:31:14+00:00",
       "theme": "emergent concept discovery"
+    },
+    {
+      "arxiv_id": "2606.22082",
+      "title": "CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation",
+      "slug": "codeteam-an-llm-powered-multi-agent-framework-for-repository-level-cod-2606.22082",
+      "url": "https://arxiv.org/abs/2606.22082",
+      "discovered": "2026-06-30T14:00:00+00:00",
+      "theme": "LLM multi-agent code generation / NL2Repo / hierarchical planning"
+    },
+    {
+      "arxiv_id": "2606.20621",
+      "title": "PEAR: Permutation-Equivariant Adaptive Routing Multi-Agent Debate",
+      "slug": "pear-permutation-equivariant-adaptive-routing-multi-agent-debate-2606.20621",
+      "url": "https://arxiv.org/abs/2606.20621",
+      "discovered": "2026-06-30T14:00:00+00:00",
+      "theme": "LLM multi-agent debate / adaptive routing / permutation equivariance"
+    },
+    {
+      "arxiv_id": "2605.08809",
+      "title": "SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization",
+      "slug": "simreg-achieving-higher-performance-in-the-pretraining-via-embedding-s-2605.08809",
+      "url": "https://arxiv.org/abs/2605.08809",
+      "discovered": "2026-06-30T14:00:00+00:00",
+      "theme": "LLM pretraining / embedding regularization / representation learning"
     }
   ],
   "emergent_concept_search_log": [
@@ -16904,6 +16958,22 @@
       ],
       "added": 3,
       "method": "arxiv HTML 4-query + web_search emergent-concept discovery"
+    },
+    {
+      "run_number": 200,
+      "date": "2026-06-30",
+      "theme": "CODE TEAM NL2REPO / PEAR ADAPTIVE DEBATE ROUTING / SIMREG PRETRAINING EMBEDDING REGULARIZATION",
+      "picks": [
+        "2606.22082",
+        "2606.20621",
+        "2605.08809"
+      ],
+      "vector": "emergent_concept_search",
+      "papers_found": [
+        "2606.22082",
+        "2606.20621",
+        "2605.08809"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
