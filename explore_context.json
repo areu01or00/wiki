@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 172,
+  "last_run": 173,
   "last_explore": "2026-06-30T15:30:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
   "last_discovery": "2026-06-30T15:30:00+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "cognitive-architecture / metacognitive-reasoning / symbolic-planning",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 529,
+  "entities_count": 532,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5902,7 +5902,10 @@
       "theme": "multi-agent / belief-revision / opinion-dynamics / deliberation",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
-    }
+    },
+    "linguistic-firewall-geometry-defense-multi-agent-systems-routing-2606.30555-2606.30555",
+    "the-mirage-of-optimizing-training-policies-2606.29526-2606.29526",
+    "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354"
   ],
   "emergent_discoveries": [
     {
@@ -9868,6 +9871,30 @@
       "url": "https://arxiv.org/abs/2606.19494",
       "discovered": "2026-06-30T15:30:00+00:00",
       "theme": "multi-agent / belief-revision / opinion-dynamics / deliberation"
+    },
+    {
+      "arxiv_id": "2606.30555",
+      "title": "Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing",
+      "slug": "linguistic-firewall-geometry-defense-multi-agent-systems-routing-2606.30555",
+      "url": "https://arxiv.org/abs/2606.30555",
+      "discovered": "2026-06-30",
+      "theme": "multi-agent routing security / geometric attack surface"
+    },
+    {
+      "arxiv_id": "2606.29526",
+      "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
+      "slug": "the-mirage-of-optimizing-training-policies-2606.29526",
+      "url": "https://arxiv.org/abs/2606.29526",
+      "discovered": "2026-06-30",
+      "theme": "training-inference mismatch / RL policy optimization"
+    },
+    {
+      "arxiv_id": "2606.29354",
+      "title": "When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning",
+      "slug": "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354",
+      "url": "https://arxiv.org/abs/2606.29354",
+      "discovered": "2026-06-30",
+      "theme": "multi-agent symbolic communication / emergent language"
     }
   ],
   "emergent_concept_search_log": [
@@ -15292,6 +15319,20 @@
       ],
       "method": "web_search emergent-concept search",
       "vector": "emergent_concept_search"
+    },
+    {
+      "run_number": 173,
+      "date": "2026-06-30",
+      "theme": "MULTI-AGENT ROUTING SECURITY / TRAINING-INFERENCE MISMATCH / SYMBOLIC COMMUNICATION",
+      "framing": "GEOMETRIC ATTACK SURFACE / RL POLICY MONOTONICITY / EMERGENT LANGUAGE",
+      "papers_found": [
+        "linguistic-firewall-geometry-defense-multi-agent-systems-routing-2606.30555-2606.30555",
+        "the-mirage-of-optimizing-training-policies-2606.29526-2606.29526",
+        "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354"
+      ],
+      "vectors_explored": [
+        "emergent-concept"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
