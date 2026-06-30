@@ -17,6 +17,7 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-30** | [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent — InternScience Agents-A1 (arXiv:2606.30616)](https://arxiv.org/abs/2606.30616) | kw: Agents-A1 35B MoE open weights HF/GitHub agentic coding | source: internscience | 🚨 WEIGHTS DROP | 📄 BENCHMARK/PAPER | 🔓 OPEN SOURCE
 - **2026-06-30** | [Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips) | kw: LongCat-2.0 1.6T weights MIT MoE | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-30** | [Meituan LongCat-2.0 1.6T Open-Weight Agentic Coding Model](https://www.longcatai.org/models/longcat-2) | kw: LongCat-2.0 1.6T MIT weights | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-30** | [Meituan Open Sources LongCat 2.0: 1.6T MoE Model — ASIC Training](https://www.explainx.ai/blog/longcat-2-0-open-source-moe-coding-agent-2026) | kw: LongCat-2.0 weights announcement | source: meituan-longcat | 🚨 WEIGHTS DROP
@@ -367,3 +368,4 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **yuvion-llm** — cycle 99 — Yuvion LLM adversarial content safety model arXiv cs.CL Jun 2026 (auto-discovered via arXiv cs.CL new submission, new org not in known blocklist)
 - **meituan-longcat** — cycle 106 — Meituan LongCat-2.0 open-weight MoE model announced Jun 30 2026 via x_search: 1.6T params, 1M context, trained on Huawei Ascend chips, open weights on HuggingFace
 - **huawei** — cycle 107 — Huawei OpenPangu-2.0-Flash open weights MoE model released Jun 30 2026 via x_search: 92B total / 6B active, 512K context, Apache/Ascend stack, weights on HF
+- **internscience** — cycle 109 — InternScience Agents-A1 35B MoE agentic model released Jun 30 2026 via x_search: arXiv:2606.30616, weights+code on HF/GitHub, trillion-parameter performance via horizon scaling
