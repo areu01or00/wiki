@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-07-01T09:30:00+00:00",
-  "last_run": 156,
-  "last_explore": "2026-06-30T02:35:21.127927+00:00",
-  "last_global_explore": "2026-07-01T09:30:00+00:00",
-  "last_discovery": "2026-06-30T02:35:21.127927+00:00",
-  "last_run_framing": "INFERENCE EFFICIENCY + MULTIAGENT-COMMUNICATION discovery (Rule 96 continuation + Rule 97 initiation)",
-  "last_framing": "INFERENCE-EFFICIENCY-MULTIAGENT",
-  "last_run_notes": "Run 155: LLM INFERENCE EFFICIENCY: When More Sampling Hurts (2606.28661) + EntMTP (2606.27550) + Cache-Resident LLM Inference (2606.25353)",
+  "last_run": 157,
+  "last_explore": "2026-07-01T10:30:00.000000+00:00",
+  "last_global_explore": "2026-07-01T10:30:00.000000+00:00",
+  "last_discovery": "2026-07-01T10:30:00.000000+00:00",
+  "last_run_framing": "DEPTH-SCALING + MECHANISTIC-INTERPRETABILITY + SCIENTIFIC-AGENTIC-BENCHMARK discovery",
+  "last_framing": "DEPTH-SCALING + MECHANISTIC-INTERPRETABILITY + SCIENTIFIC-AGENTIC-BENCHMARK",
+  "last_run_notes": "Run 157: Complexity Ceiling Benchmark (depth-scaling reasoning decay) + Do Agents Think Deeper (layer-wise depth allocation) + TerraBench (heterogeneous scientific data reasoning)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search",
+  "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 478,
+  "entities_count": 481,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5500,6 +5500,33 @@
       "theme": "multi-agent communication / action-state protocol",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.29278",
+      "title": "The Complexity Ceiling Benchmark: A Multi-Domain Evaluation of Sequential Reasoning Under Depth Scaling",
+      "slug": "complexity-ceiling-benchmark-multi-domain-evaluation-sequential-reasoning-depth-scaling-2606.29278",
+      "url": "https://arxiv.org/abs/2606.29278",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-01T10:30:00.000000+00:00",
+      "theme": "depth-scaling reasoning decay / evaluation methodology"
+    },
+    {
+      "arxiv_id": "2605.27935",
+      "title": "Do Agents Think Deeper? A Mechanistic Investigation of Layer-Wise Dynamics in Sequential Planning",
+      "slug": "do-agents-think-deeper-mechanistic-investigation-layer-wise-dynamics-sequential-planning-2605.27935",
+      "url": "https://arxiv.org/abs/2605.27935",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-01T10:30:00.000000+00:00",
+      "theme": "layer-wise depth allocation in agentic trajectories / mechanistic interpretability"
+    },
+    {
+      "arxiv_id": "2606.13148",
+      "title": "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?",
+      "slug": "terrabench-can-agents-reason-heterogeneous-earth-system-data-2606.13148",
+      "url": "https://arxiv.org/abs/2606.13148",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-01T10:30:00.000000+00:00",
+      "theme": "heterogeneous scientific data reasoning / agent benchmark"
     }
   ],
   "emergent_discoveries": [
@@ -9124,6 +9151,30 @@
       "url": "https://arxiv.org/abs/2606.05304",
       "discovered": "2026-06-30T02:35:21.127927+00:00",
       "theme": "multi-agent communication / action-state protocol"
+    },
+    {
+      "arxiv_id": "2606.29278",
+      "title": "The Complexity Ceiling Benchmark: A Multi-Domain Evaluation of Sequential Reasoning Under Depth Scaling",
+      "slug": "complexity-ceiling-benchmark-multi-domain-evaluation-sequential-reasoning-depth-scaling-2606.29278",
+      "url": "https://arxiv.org/abs/2606.29278",
+      "discovered": "2026-07-01T10:30:00.000000+00:00",
+      "theme": "depth-scaling reasoning decay / evaluation methodology"
+    },
+    {
+      "arxiv_id": "2605.27935",
+      "title": "Do Agents Think Deeper? A Mechanistic Investigation of Layer-Wise Dynamics in Sequential Planning",
+      "slug": "do-agents-think-deeper-mechanistic-investigation-layer-wise-dynamics-sequential-planning-2605.27935",
+      "url": "https://arxiv.org/abs/2605.27935",
+      "discovered": "2026-07-01T10:30:00.000000+00:00",
+      "theme": "layer-wise depth allocation in agentic trajectories / mechanistic interpretability"
+    },
+    {
+      "arxiv_id": "2606.13148",
+      "title": "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?",
+      "slug": "terrabench-can-agents-reason-heterogeneous-earth-system-data-2606.13148",
+      "url": "https://arxiv.org/abs/2606.13148",
+      "discovered": "2026-07-01T10:30:00.000000+00:00",
+      "theme": "heterogeneous scientific data reasoning / agent benchmark"
     }
   ],
   "emergent_concept_search_log": [
@@ -14279,6 +14330,20 @@
         "2602.13255",
         "2606.05304"
       ]
+    },
+    {
+      "run": 157,
+      "timestamp": "2026-07-01T10:30:00.000000+00:00",
+      "theme": "DEPTH-SCALING + MECHANISTIC-INTERPRETABILITY + SCIENTIFIC-AGENTIC-BENCHMARK discovery",
+      "method": "arxiv HTML search",
+      "papers_added": 3,
+      "papers": [
+        "2606.29278",
+        "2605.27935",
+        "2606.13148"
+      ],
+      "framing": "DEPTH-SCALING + MECHANISTIC-INTERPRETABILITY + SCIENTIFIC-AGENTIC-BENCHMARK",
+      "notes": "Run 157: Depth-scaling reasoning decay (Complexity Ceiling Benchmark) + layer-wise depth allocation in agentic trajectories (Do Agents Think Deeper) + heterogeneous scientific data reasoning (TerraBench) \u2014 3 structurally orthogonal axes"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
