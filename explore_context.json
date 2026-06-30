@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-07-01T09:30:00+00:00",
-  "last_run": 157,
-  "last_explore": "2026-07-01T10:30:00.000000+00:00",
-  "last_global_explore": "2026-07-01T10:30:00.000000+00:00",
-  "last_discovery": "2026-07-01T10:30:00.000000+00:00",
-  "last_run_framing": "DEPTH-SCALING + MECHANISTIC-INTERPRETABILITY + SCIENTIFIC-AGENTIC-BENCHMARK discovery",
-  "last_framing": "DEPTH-SCALING + MECHANISTIC-INTERPRETABILITY + SCIENTIFIC-AGENTIC-BENCHMARK",
-  "last_run_notes": "Run 157: Complexity Ceiling Benchmark (depth-scaling reasoning decay) + Do Agents Think Deeper (layer-wise depth allocation) + TerraBench (heterogeneous scientific data reasoning)",
+  "__last_updated": "2026-06-30T10:30:00.000000+00:00",
+  "last_run": 158,
+  "last_explore": "2026-06-30T10:30:00.000000+00:00",
+  "last_global_explore": "2026-06-30T10:30:00.000000+00:00",
+  "last_discovery": "2026-06-30T10:30:00.000000+00:00",
+  "last_run_framing": "CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS discovery",
+  "last_framing": "CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS",
+  "last_run_notes": "Run 158: Circuit discovery variance (2606.16920) + Hierarchical CoT reasoning (2604.00130) + Subgoal-driven long-horizon agents (2603.19685)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search",
+  "last_run_method": "arxiv HTML search + web_search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 481,
+  "entities_count": 484,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5527,6 +5527,36 @@
       "vector": "emergent_concept",
       "discovered": "2026-07-01T10:30:00.000000+00:00",
       "theme": "heterogeneous scientific data reasoning / agent benchmark"
+    },
+    {
+      "arxiv_id": "2606.16920",
+      "title": "Demystifying Variance in Circuit Discovery of LLMs",
+      "slug": "demystifying-variance-in-circuit-discovery-of-llms-2606.16920",
+      "url": "https://arxiv.org/abs/2606.16920",
+      "discovered": "2026-06-30T10:30:00.000000+00:00",
+      "theme": "mechanistic-interpretability / circuit-discovery / variance-analysis",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2604.00130",
+      "title": "Hierarchical Chain-of-Thought Prompting: Enhancing LLM Reasoning Performance and Efficiency",
+      "slug": "hierarchical-chain-of-thought-prompting-enhancing-llm-reasoning-2604.00130",
+      "url": "https://arxiv.org/abs/2604.00130",
+      "discovered": "2026-06-30T10:30:00.000000+00:00",
+      "theme": "chain-of-thought / hierarchical-reasoning / prompting-efficiency",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2603.19685",
+      "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+      "slug": "a-subgoal-driven-framework-for-improving-long-horizon-llm-agents-2603.19685",
+      "url": "https://arxiv.org/abs/2603.19685",
+      "discovered": "2026-06-30T10:30:00.000000+00:00",
+      "theme": "llm-agents / subgoal-planning / long-horizon-task-completion",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -14344,6 +14374,20 @@
       ],
       "framing": "DEPTH-SCALING + MECHANISTIC-INTERPRETABILITY + SCIENTIFIC-AGENTIC-BENCHMARK",
       "notes": "Run 157: Depth-scaling reasoning decay (Complexity Ceiling Benchmark) + layer-wise depth allocation in agentic trajectories (Do Agents Think Deeper) + heterogeneous scientific data reasoning (TerraBench) \u2014 3 structurally orthogonal axes"
+    },
+    {
+      "run": 158,
+      "timestamp": "2026-06-30T10:30:00.000000+00:00",
+      "theme": "CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS discovery",
+      "method": "arxiv HTML search + web_search",
+      "papers_added": 3,
+      "papers": [
+        "2606.16920",
+        "2604.00130",
+        "2603.19685"
+      ],
+      "framing": "CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS",
+      "notes": "Run 158: Circuit discovery variance (2606.16920) + Hierarchical CoT reasoning (2604.00130) + Subgoal-driven long-horizon agents (2603.19685) \u2014 3 structurally orthogonal axes: circuit-level MI methodology vs. reasoning structure vs. agent planning"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
