@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 175,
-  "last_explore": "2026-07-01T13:00:00+00:00",
+  "last_run": 176,
+  "last_explore": "2026-07-01T14:00:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-07-01T13:00:00+00:00",
-  "last_run_framing": "KNOWLEDGE UPDATE ARCHITECTURE / RL vs SFT PARADIGM COMPARISON / MID-REASONING INSTABILITY DETECTION",
+  "last_discovery": "2026-07-01T14:00:00+00:00",
+  "last_run_framing": "LORA FORGETTING / UNIFIED INFERENCE SCALING / MULTI-AGENT TOPOLOGY CO-EVOLUTION",
   "last_framing": "COGNITIVE-ARCHITECTURE + METACOGNITION + SYMBOLIC PLANNING",
   "last_run_notes": "Run 174: Linear Probes (2606.02907) + ICA Lens (2606.11722) + Decomposing Prompting (2606.03093)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search (4 queries: fine-tune-generalization + catastrophic-forgetting + domain-adaptation-ood + ft-sample-efficiency) \u2192 68 IDs \u2192 65 fresh after 5-store dedup",
+  "last_run_method": "arxiv HTML search (4 queries: LLM test-time adaptation + reward model overoptimization + chain-of-thought faithfulness + uncertainty quantification) \u2192 113 IDs \u2192 117 fresh after 5-store dedup \u2192 3 fresh LLM-relevant picks",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "cognitive-architecture / metacognitive-reasoning / symbolic-planning",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 538,
+  "entities_count": 541,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5917,6 +5917,33 @@
     {
       "arxiv_id": "2602.02863",
       "slug": "i-may-not-have-articulated-myself-clearly-diagnosing-dynamic-instability-in-llm-reasoning-at-inference-time-2602.02863"
+    },
+    {
+      "arxiv_id": "2605.29498",
+      "title": "Mask the Target: A Plug-and-Play Regularizer Against LoRA Forgetting",
+      "slug": "mask-the-target-2605.29498",
+      "url": "https://arxiv.org/abs/2605.29498",
+      "discovered": "2026-07-01T14:00:00+00:00",
+      "theme": "emergent-concept-discovery",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.30898",
+      "title": "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling",
+      "slug": "uniscale-2605.30898",
+      "url": "https://arxiv.org/abs/2605.30898",
+      "discovered": "2026-07-01T14:00:00+00:00",
+      "theme": "emergent-concept-discovery",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.09539",
+      "title": "TacoMAS: Test-Time Co-Evolution of Topology and Capability in LLM-based Multi-Agent Systems",
+      "slug": "tacomas-2605.09539",
+      "url": "https://arxiv.org/abs/2605.09539",
+      "discovered": "2026-07-01T14:00:00+00:00",
+      "theme": "emergent-concept-discovery",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -9955,6 +9982,30 @@
       "url": "https://arxiv.org/abs/2602.02863",
       "discovered": "2026-07-01T13:00:00+00:00",
       "theme": "reasoning reliability / mid-chain instability detection / JSD entropy / inference-time diagnostics"
+    },
+    {
+      "arxiv_id": "2605.29498",
+      "title": "Mask the Target: A Plug-and-Play Regularizer Against LoRA Forgetting",
+      "slug": "mask-the-target-2605.29498",
+      "url": "https://arxiv.org/abs/2605.29498",
+      "discovered": "2026-07-01T14:00:00+00:00",
+      "theme": "emergent-concept-discovery"
+    },
+    {
+      "arxiv_id": "2605.30898",
+      "title": "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling",
+      "slug": "uniscale-2605.30898",
+      "url": "https://arxiv.org/abs/2605.30898",
+      "discovered": "2026-07-01T14:00:00+00:00",
+      "theme": "emergent-concept-discovery"
+    },
+    {
+      "arxiv_id": "2605.09539",
+      "title": "TacoMAS: Test-Time Co-Evolution of Topology and Capability in LLM-based Multi-Agent Systems",
+      "slug": "tacomas-2605.09539",
+      "url": "https://arxiv.org/abs/2605.09539",
+      "discovered": "2026-07-01T14:00:00+00:00",
+      "theme": "emergent-concept-discovery"
     }
   ],
   "emergent_concept_search_log": [
@@ -15417,6 +15468,17 @@
         "2602.03073",
         "2602.02863"
       ]
+    },
+    {
+      "run": 176,
+      "date": "2026-06-30",
+      "theme": "LORA FORGETTING / UNIFIED INFERENCE SCALING / MULTI-AGENT TOPOLOGY CO-EVOLUTION",
+      "papers": [
+        "2605.29498",
+        "2605.30898",
+        "2605.09539"
+      ],
+      "method": "arxiv HTML search + 5-store dedup"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
