@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 158,
-  "last_explore": "2026-06-30T10:30:00.000000+00:00",
-  "last_global_explore": "2026-06-30T10:30:00.000000+00:00",
-  "last_discovery": "2026-06-30T10:30:00.000000+00:00",
-  "last_run_framing": "CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS discovery",
-  "last_framing": "CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS",
-  "last_run_notes": "Run 158: Circuit discovery variance (2606.16920) + Hierarchical CoT reasoning (2604.00130) + Subgoal-driven long-horizon agents (2603.19685)",
+  "last_run": 159,
+  "last_explore": "2026-06-30T11:00:00.000000+00:00",
+  "last_global_explore": "2026-06-30T11:00:00.000000+00:00",
+  "last_discovery": "2026-06-30T11:00:00.000000+00:00",
+  "last_run_framing": "METACOGNITIVE SELF-MONITORING discovery (Rule 99 \u2014 LLM SELF-REFLECTION / METACOGNITIVE MONITORING)",
+  "last_framing": "METACOGNITIVE SELF-MONITORING",
+  "last_run_notes": "Run 159: LLM Doesn't Know What It Doesn't Know (2606.19509) + Hint Tuning (2605.08665) + OPPO Bayesian Credit Assignment (2605.21851)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search + web_search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 484,
+  "entities_count": 487,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5557,6 +5557,36 @@
       "theme": "llm-agents / subgoal-planning / long-horizon-task-completion",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.19509",
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "slug": "llm-doesn-t-know-what-it-doesn-t-know-detecting-epistemic-blind-spots-via-cross-model-attribution-divergence-on-clinical-tabular-data-2606.19509",
+      "url": "https://arxiv.org/abs/2606.19509",
+      "discovered": "2026-06-30T11:00:00.000000+00:00",
+      "theme": "llm metacognition self-monitoring",
+      "vector": "emergent_concept",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.08665",
+      "title": "Hint Tuning: Less Data Makes Better Reasoners",
+      "slug": "hint-tuning-less-data-makes-better-reasoners-2605.08665",
+      "url": "https://arxiv.org/abs/2605.08665",
+      "discovered": "2026-06-30T11:00:00.000000+00:00",
+      "theme": "llm metacognition self-monitoring",
+      "vector": "emergent_concept",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.21851",
+      "title": "OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning",
+      "slug": "oppo-bayesian-value-recursion-for-token-level-credit-assignment-in-llm-reasoning-2605.21851",
+      "url": "https://arxiv.org/abs/2605.21851",
+      "discovered": "2026-06-30T11:00:00.000000+00:00",
+      "theme": "llm metacognition self-monitoring",
+      "vector": "emergent_concept",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -9205,6 +9235,30 @@
       "url": "https://arxiv.org/abs/2606.13148",
       "discovered": "2026-07-01T10:30:00.000000+00:00",
       "theme": "heterogeneous scientific data reasoning / agent benchmark"
+    },
+    {
+      "arxiv_id": "2606.19509",
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "slug": "llm-doesn-t-know-what-it-doesn-t-know-detecting-epistemic-blind-spots-via-cross-model-attribution-divergence-on-clinical-tabular-data-2606.19509",
+      "url": "https://arxiv.org/abs/2606.19509",
+      "discovered": "2026-06-30T11:00:00.000000+00:00",
+      "theme": "llm metacognition self-monitoring"
+    },
+    {
+      "arxiv_id": "2605.08665",
+      "title": "Hint Tuning: Less Data Makes Better Reasoners",
+      "slug": "hint-tuning-less-data-makes-better-reasoners-2605.08665",
+      "url": "https://arxiv.org/abs/2605.08665",
+      "discovered": "2026-06-30T11:00:00.000000+00:00",
+      "theme": "llm metacognition self-monitoring"
+    },
+    {
+      "arxiv_id": "2605.21851",
+      "title": "OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning",
+      "slug": "oppo-bayesian-value-recursion-for-token-level-credit-assignment-in-llm-reasoning-2605.21851",
+      "url": "https://arxiv.org/abs/2605.21851",
+      "discovered": "2026-06-30T11:00:00.000000+00:00",
+      "theme": "llm metacognition self-monitoring"
     }
   ],
   "emergent_concept_search_log": [
@@ -14388,6 +14442,17 @@
       ],
       "framing": "CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS",
       "notes": "Run 158: Circuit discovery variance (2606.16920) + Hierarchical CoT reasoning (2604.00130) + Subgoal-driven long-horizon agents (2603.19685) \u2014 3 structurally orthogonal axes: circuit-level MI methodology vs. reasoning structure vs. agent planning"
+    },
+    {
+      "run": 159,
+      "date": "2026-06-30",
+      "theme": "METACOGNITIVE SELF-MONITORING",
+      "papers_found": [
+        "2606.19509",
+        "2605.08665",
+        "2605.21851"
+      ],
+      "method": "arxiv HTML search"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
