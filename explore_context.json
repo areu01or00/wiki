@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 206,
+  "last_run": 207,
   "last_explore": "2026-07-02T15:45:00.000000+00:00",
   "last_global_explore": "2026-07-02T15:45:00.000000+00:00",
   "last_discovery": "2026-07-02+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "gui-grounding / world-modeling / test-time-compute",
   "emergent_theme": "gui-grounding-world-modeling-test-time-compute",
   "chains_updated": 0,
-  "entities_count": 631,
+  "entities_count": 621,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6649,7 +6649,31 @@
     },
     "2606.20905",
     "2606.26978",
-    "2606.30634"
+    "2606.30634",
+    {
+      "arxiv_id": "2606.26519",
+      "title": "What the LLM Should Not Say: Boundary-Aware Context Grounding for A Seven-Channel EEG Agent",
+      "slug": "what-the-llm-should-not-say-boundary-aware-context-grounding-2606.26519",
+      "url": "https://arxiv.org/abs/2606.26519",
+      "discovered": "2026-06-30T16:48:17.216766+00:00",
+      "theme": "llm-agent-grounding / world-model-eval / agentic-manufacturing"
+    },
+    {
+      "arxiv_id": "2606.24256",
+      "title": "Trimming the Long-Tail of Visual World Modeling Evaluation",
+      "slug": "trimming-the-long-tail-of-visual-world-modeling-evaluation-2606.24256",
+      "url": "https://arxiv.org/abs/2606.24256",
+      "discovered": "2026-06-30T16:48:17.216766+00:00",
+      "theme": "llm-agent-grounding / world-model-eval / agentic-manufacturing"
+    },
+    {
+      "arxiv_id": "2606.00097",
+      "title": "RocketSmith: Agentic Additive Manufacturing of High-Powered Rockets",
+      "slug": "rocketsmith-agentic-additive-manufacturing-of-high-powered-rockets-2606.00097",
+      "url": "https://arxiv.org/abs/2606.00097",
+      "discovered": "2026-06-30T16:48:17.216766+00:00",
+      "theme": "llm-agent-grounding / world-model-eval / agentic-manufacturing"
+    }
   ],
   "emergent_discoveries": [
     {
@@ -11401,6 +11425,30 @@
       "url": "https://arxiv.org/abs/2606.30634",
       "discovered": "2026-07-02T16:30:00+00:00",
       "theme": "embodied-world-model / code-execution-cost / async-pipeline-parallel"
+    },
+    {
+      "arxiv_id": "2606.26519",
+      "title": "What the LLM Should Not Say: Boundary-Aware Context Grounding for A Seven-Channel EEG Agent",
+      "slug": "what-the-llm-should-not-say-boundary-aware-context-grounding-2606.26519",
+      "url": "https://arxiv.org/abs/2606.26519",
+      "discovered": "2026-06-30T16:48:17.216766+00:00",
+      "theme": "llm-agent-grounding / world-model-eval / agentic-manufacturing"
+    },
+    {
+      "arxiv_id": "2606.24256",
+      "title": "Trimming the Long-Tail of Visual World Modeling Evaluation",
+      "slug": "trimming-the-long-tail-of-visual-world-modeling-evaluation-2606.24256",
+      "url": "https://arxiv.org/abs/2606.24256",
+      "discovered": "2026-06-30T16:48:17.216766+00:00",
+      "theme": "llm-agent-grounding / world-model-eval / agentic-manufacturing"
+    },
+    {
+      "arxiv_id": "2606.00097",
+      "title": "RocketSmith: Agentic Additive Manufacturing of High-Powered Rockets",
+      "slug": "rocketsmith-agentic-additive-manufacturing-of-high-powered-rockets-2606.00097",
+      "url": "https://arxiv.org/abs/2606.00097",
+      "discovered": "2026-06-30T16:48:17.216766+00:00",
+      "theme": "llm-agent-grounding / world-model-eval / agentic-manufacturing"
     }
   ],
   "emergent_concept_search_log": [
@@ -17324,6 +17372,18 @@
       "vector": "emergent-concepts",
       "chain": "emergent-concepts",
       "date": "2026-07-02"
+    },
+    {
+      "run": 207,
+      "theme": "LLM AGENT BOUNDARY GROUNDING / LONG-TAIL WORLD MODEL EVALUATION / AGENTIC DFAM ROCKETS",
+      "picks": [
+        "2606.26519",
+        "2606.24256",
+        "2606.00097"
+      ],
+      "vector": "emergent-concepts",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T16:48:17.216766+00:00"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

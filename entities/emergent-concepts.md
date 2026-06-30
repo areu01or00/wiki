@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 207) — LLM AGENT BOUNDARY GROUNDING / LONG-TAIL WORLD MODEL EVALUATION / AGENTIC DFAM ROCKETS**
+
+- [[what-the-llm-should-not-say-boundary-aware-context-grounding-2606.26519]]
+  Boundary-Aware Context Grounding: First system explicitly grounding LLM agents in hardware- and implementation-aware context for scientific sensor data (seven-channel EEG) — the allowlisted-context-pack pattern provides a general mechanism for calibrating what an agent accepts, qualifies, or refuses based on physical measurement constraints.
+
+- [[trimming-the-long-tail-of-visual-world-modeling-evaluation-2606.24256]]
+  Tailor-Bench Long-Tail World Model Evaluation: First benchmark systematically evaluating visual world models on irregular physical interactions (Unconventional and Impossible scenarios) — reveals clear long-tail gap where models fail to generalize beyond common physical interactions and rely on superficial visual patterns.
+
+- [[rocketsmith-agentic-additive-manufacturing-of-high-powered-rockets-2606.00097]]
+  RocketSmith Agentic DFAM: First LLM-orchestrated agentic system for additive manufacturing of high-powered rockets — LLM orchestrates subagents to validate flight stability and generate parametric designs; four rockets developed and flight tested with 80% altitude-prediction consistency.
 **2026-07-02 — Run 206) — EMBODY WORLD MODELS / CODE EXECUTION COST / ASYNC PIPELINE PARALLEL LLM TRAINING**
 
 - [[vesta-a-generalist-embodied-reasoning-model-2606.20905]]
