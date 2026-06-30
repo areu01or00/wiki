@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 200,
-  "last_explore": "2026-07-02T14:45:00.000000+00:00",
-  "last_global_explore": "2026-07-02T14:45:00.000000+00:00",
+  "last_run": 201,
+  "last_explore": "2026-06-30T15:15:00.000000+00:00",
+  "last_global_explore": "2026-06-30T15:15:00.000000+00:00",
   "last_discovery": "2026-06-30+00:00",
-  "last_run_framing": "CODE TEAM NL2REPO / PEAR ADAPTIVE DEBATE ROUTING / SIMREG PRETRAINING EMBEDDING REGULARIZATION",
-  "last_framing": "multi-agent code generation / adaptive debate routing / pretraining embedding regularization",
-  "last_run_notes": "Run 200: CodeTeam (2606.22082) + PEAR (2606.20621) + SimReg (2605.08809)",
+  "last_run_framing": "REWARD MODELING / SAFETY TRAP / PERSONALIZED FEEDBACK",
+  "last_framing": "implicit reward modeling / selective safety evaluation / personalized RL feedback",
+  "last_run_notes": "Run 201: ImplicitRM (2603.23184) + PERSA (2605.01123) + Safety Is Not Universal (2601.04389)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + web_search emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic AI risk / digital twin / domain-specific reasoning / KG-augmented LLM",
   "emergent_theme": "agentic-risk-digital-twin-kg-reasoning",
   "chains_updated": 0,
-  "entities_count": 613,
+  "entities_count": 616,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6538,6 +6538,36 @@
       "theme": "LLM pretraining / embedding regularization / representation learning",
       "chain": "emergent-concepts",
       "vector": "emergent_concept_search"
+    },
+    {
+      "arxiv_id": "2603.23184",
+      "title": "ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment",
+      "slug": "implicitrm-unbiased-reward-modeling-from-implicit-preference-data-for-llm-alignment-2603.23184",
+      "url": "https://arxiv.org/abs/2603.23184",
+      "theme": "reward-modeling / safety / personalized-feedback",
+      "discovered": "2026-06-30T15:15:00.000000+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.01123",
+      "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs",
+      "slug": "persa-reinforcement-learning-for-professor-style-personalized-feedback-with-llms-2605.01123",
+      "url": "https://arxiv.org/abs/2605.01123",
+      "theme": "reward-modeling / safety / personalized-feedback",
+      "discovered": "2026-06-30T15:15:00.000000+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2601.04389",
+      "title": "Safety Is Not Universal: The Selective Safety Trap in LLM Alignment",
+      "slug": "safety-is-not-universal-the-selective-safety-trap-in-llm-alignment-2601.04389",
+      "url": "https://arxiv.org/abs/2601.04389",
+      "theme": "reward-modeling / safety / personalized-feedback",
+      "discovered": "2026-06-30T15:15:00.000000+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -11143,6 +11173,30 @@
       "url": "https://arxiv.org/abs/2605.08809",
       "discovered": "2026-06-30T14:00:00+00:00",
       "theme": "LLM pretraining / embedding regularization / representation learning"
+    },
+    {
+      "arxiv_id": "2603.23184",
+      "title": "ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment",
+      "slug": "implicitrm-unbiased-reward-modeling-from-implicit-preference-data-for-llm-alignment-2603.23184",
+      "url": "https://arxiv.org/abs/2603.23184",
+      "discovered": "2026-06-30T15:15:00.000000+00:00",
+      "theme": "reward-modeling / safety / personalized-feedback"
+    },
+    {
+      "arxiv_id": "2605.01123",
+      "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs",
+      "slug": "persa-reinforcement-learning-for-professor-style-personalized-feedback-with-llms-2605.01123",
+      "url": "https://arxiv.org/abs/2605.01123",
+      "discovered": "2026-06-30T15:15:00.000000+00:00",
+      "theme": "reward-modeling / safety / personalized-feedback"
+    },
+    {
+      "arxiv_id": "2601.04389",
+      "title": "Safety Is Not Universal: The Selective Safety Trap in LLM Alignment",
+      "slug": "safety-is-not-universal-the-selective-safety-trap-in-llm-alignment-2601.04389",
+      "url": "https://arxiv.org/abs/2601.04389",
+      "discovered": "2026-06-30T15:15:00.000000+00:00",
+      "theme": "reward-modeling / safety / personalized-feedback"
     }
   ],
   "emergent_concept_search_log": [
@@ -16974,6 +17028,18 @@
         "2606.20621",
         "2605.08809"
       ]
+    },
+    {
+      "run": 201,
+      "date": "2026-06-30",
+      "theme": "reward-modeling / safety / personalized-feedback",
+      "picks": [
+        "2603.23184",
+        "2605.01123",
+        "2601.04389"
+      ],
+      "framing": "implicit reward modeling / selective safety evaluation / personalized RL feedback",
+      "notes": "Run 201: 2603.23184 + 2605.01123 + 2601.04389"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

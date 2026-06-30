@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 201) — REWARD MODELING / SAFETY TRAP / PERSONALIZED FEEDBACK**
+
+- [[implicitrm-unbiased-reward-modeling-from-implicit-preference-data-for-llm-alignment-2603.23184]]
+  ImplicitRM: First reward modeling approach that learns from implicit (non-experimental) preference data — removes costly explicit feedback collection dependency; unbiased reward estimation at scale for RLHF.
+
+- [[persa-reinforcement-learning-for-professor-style-personalized-feedback-with-llms-2605.01123]]
+  PERSA: First RL framework for professor-style personalized LLM feedback — aligns feedback tone to specific instructor personas without degrading diagnostic accuracy; RL-based style-vs-quality tradeoff resolution.
+
+- [[safety-is-not-universal-the-selective-safety-trap-in-llm-alignment-2601.04389]]
+  Safety Is Not Universal: First systematic analysis of the "Selective Safety Trap" in LLM alignment — generic safety aggregates hide population-specific vulnerabilities; disaggregated evaluation methodology required for genuine safety generalization.
+
 **2026-06-30 — Run 200) — CODE TEAM NL2REPO / PEAR ADAPTIVE DEBATE ROUTING / SIMREG PRETRAINING EMBEDDING REGULARIZATION**
 
 - [[codeteam-an-llm-powered-multi-agent-framework-for-repository-level-cod-2606.22082]]
