@@ -19,6 +19,50 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 ## Updates
 
 
+- **2026-06-30** | [Mistral launches OCR 4, turning document extraction into a full enterprise AI play](https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play) | kw: weights drop | source: mistral | WEIGHTS DROP | API LAUNCH
+- **2026-06-30** | [GLM 5.2 Release - 1M Context, Coding-First (June 2026)](https://codersera.com/blog/glm-5-2-release-1m-context-coding-2026/) | kw: weights drop | source: zhipu-glm | WEIGHTS DROP | API LAUNCH
+- **2026-06-30** | [Huawei Open-Sources openPangu 2.0 to Boost Enterprise AI](https://www.asiabusinessoutlook.com/news/huawei-opensources-openpangu-20-to-boost-enterprise-ai-innovation-nwid-12129.html) | kw: open source | source: huawei | OPEN SOURCE | API LAUNCH
+- **2026-06-30** | [KikoCis/Agents-A1-IQ2_M-GGUF - Hugging Face](https://huggingface.co/KikoCis/Agents-A1-IQ2_M-GGUF) | kw: weights drop | source: internscience | WEIGHTS DROP
+- **2026-06-30** | [Kog Laneformer 2B: The Latency-First Model Behind Kog Inference](https://huggingface.co/blog/kogai/kog-laneformer-2b-the-latency-first-model) | kw: weights drop | source: kog-ai | WEIGHTS DROP
+- **2026-06-30** | [Introducing Claude Sonnet 5 - Anthropic](https://www.anthropic.com/news/claude-sonnet-5) | kw: official announcement | source: anthropic | OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Anthropic launches Claude Sonnet 5 as a cheaper way to run agents](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) | kw: api launch | source: anthropic | API LAUNCH
+- **2026-06-30** | [Anthropic launches cheaper Claude Sonnet 5 model, as tech searches for AI savings](https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo) | kw: api launch | source: anthropic | API LAUNCH
+- **2026-06-30** | [North Mini Code: Agentic Coding Model for Developers - Cohere](https://cohere.com/blog/north-mini-code) | kw: api launch | source: cohere | API LAUNCH
+- **2026-06-30** | [Cohere North Mini Code: An Open 30B Agentic Coding Model](www.digitalapplied.com/blog/cohere-north-mini-code-open-source-30b-coding-model-release) | kw: open source | source: cohere | OPEN SOURCE
+- **2026-06-30** | [Ornith 1.0 - Open-Source Agentic Coding Models](https://ornith.site/) | kw: open source | source: deepreinforce | OPEN SOURCE
+- **2026-06-30** | [China s Meituan says new AI model trained on domestic chips](https://www.reuters.com/world/china/chinas-meituan-says-new-ai-model-trained-domestic-chips-2026-06-30/) | kw: open source | source: meituan-longcat | OPEN SOURCE
+- **2026-06-30** | [Building a hill-climbing machine: Launching seven new MAI models](https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/) | kw: api launch | source: microsoft | API LAUNCH
+- **2026-06-30** | [Mistral OCR 4 : SOTA OCR for Document Intelligence](https://mistral.ai/news/ocr-4/) | kw: benchmark/paper | source: mistral | BENCHMARK/PAPER
+- **2026-06-30** | [Mistral AI Releases Compact Open-Source Model, Intensifying Competition](https://www.winzheng.com/en/article/mistral-ai-compact-open-source-model-edge-deployment) | kw: open source | source: mistral | OPEN SOURCE
+- **2026-06-30** | [NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Cosmos-3-the-Open-Frontier-Foundation-Model-for-Physical-AI/default.aspx) | kw: api launch | source: nvidia | API LAUNCH
+- **2026-06-30** | [OpenAI Platform](https://openai.com/api/) | kw: api launch | source: openai | API LAUNCH
+- **2026-06-30** | [Sakana Fugu: Multi-Agent System as a Model](https://sakana.ai/fugu/) | kw: benchmark/paper | source: sakana-ai | BENCHMARK/PAPER
+- **2026-06-30** | [Sakana AI Launches Sakana Fugu](https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/) | kw: api launch | source: sakana-ai | API LAUNCH
+- **2026-06-30** | [Stability AI](https://stability.ai/) | kw: open source | source: stability-ai | OPEN SOURCE
+- **2026-06-30** | [01 - Wikipedia](https://en.wikipedia.org/wiki/01) | kw: weights drop | source: 01ai-yi | WEIGHTS DROP
+- **2026-06-30** | [Alibaba unveils Qwen-Robot series with three foundation models for embodied AI](https://technode.com/2026/06/17/alibaba-unveils-qwen-robot-series-with-three-foundation-models-for-embodied-ai/) | kw: weights drop | source: alibaba-qwen | WEIGHTS DROP
+- **2026-06-30** | [Alibaba Qwen-Robot: 3 Embodied AI Models Target Robotics](https://chinabizinsider.com/alibabas-qwen-enters-robotics-with-embodied-ai-suite-to-tackle-hardware-fragmentation/) | kw: weights drop | source: alibaba-qwen | WEIGHTS DROP
+- **2026-06-30** | [Amazon Nova Model Release Timeline](https://hidekazu-konishi.com/entry/amazon_nova_model_release_timeline.html) | kw: weights drop | source: amazon | WEIGHTS DROP
+- **2026-06-30** | [Amazon Nova models - Amazon Bedrock - AWS Documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-nova.html) | kw: weights drop | source: amazon | WEIGHTS DROP
+- **2026-06-30** | [Gemini Updates by Google - June 2026 - Releasebot](https://releasebot.io/updates/google/gemini) | kw: weights drop | source: google-deepmind | WEIGHTS DROP
+- **2026-06-30** | [News - Google DeepMind](https://deepmind.google/blog/) | kw: weights drop | source: google-deepmind | WEIGHTS DROP
+- **2026-06-30** | [Agents-A1 GPU Requirements: VRAM and Cheapest GPU - Spheron](https://www.spheron.network/tools/gpu-recommender/InternScience/Agents-A1/) | kw: weights drop | source: internscience | WEIGHTS DROP
+- **2026-06-30** | [LocalLlama - Reddit](www.reddit.com/r/LocalLLaMA/best/) | kw: weights drop | source: internscience | WEIGHTS DROP
+- **2026-06-30** | [Kog ships Laneformer 2B with 3,000 tokens/sec on MI300X](https://aiweekly.co/alerts/kog-ships-laneformer-2b-with-3000-tokenssec-on-mi300x) | kw: weights drop | source: kog-ai | WEIGHTS DROP
+- **2026-06-30** | [Liquid AI Introduces LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M](https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/) | kw: weights drop | source: liquid-ai | WEIGHTS DROP
+- **2026-06-30** | [Llama (language model) - Wikipedia](https://en.wikipedia.org/wiki/Llama_(language_model)) | kw: weights drop | source: meta-ai | WEIGHTS DROP
+- **2026-06-30** | [Meta plans to release AI-powered prediction market app](https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai) | kw: weights drop | source: meta-ai | WEIGHTS DROP
+- **2026-06-30** | [Microsoft Build 2026: 7 New Microsoft AI Models](https://www.linkedin.com/pulse/microsoft-build-2026-7-new-ai-models-christian-coello-qgu4e/) | kw: weights drop | source: microsoft | WEIGHTS DROP
+- **2026-06-30** | [Moonshot AI - Wikipedia](https://en.wikipedia.org/wiki/Moonshot_AI) | kw: weights drop | source: moonshot-kimi | WEIGHTS DROP
+- **2026-06-30** | [Moonshot AI](https://www.moonshot.ai/) | kw: weights drop | source: moonshot-kimi | WEIGHTS DROP
+- **2026-06-30** | [NVIDIA Unveils RTX Spark Superchip for laptops and desktop PCs at Computex 2026](https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory) | kw: weights drop | source: nvidia | WEIGHTS DROP
+- **2026-06-30** | [OpenAI - Wikipedia](https://en.wikipedia.org/wiki/OpenAI) | kw: weights drop | source: openai | WEIGHTS DROP
+- **2026-06-30** | [Stability AI - Wikipedia](https://en.wikipedia.org/wiki/Stability_AI) | kw: weights drop | source: stability-ai | WEIGHTS DROP
+- **2026-06-30** | [xAI (company) - Wikipedia](https://en.wikipedia.org/wiki/XAI_(company)) | kw: weights drop | source: xai | WEIGHTS DROP
+- **2026-06-30** | [xAI - Creators of Grok, the AI Chatbot](https://x.ai/) | kw: weights drop | source: xai | WEIGHTS DROP
+- **2026-06-30** | [Grok 4: The World's Most Powerful AI Model - xAI](https://grok4.me/) | kw: weights drop | source: xai | WEIGHTS DROP
+- **2026-06-30** | [Zhipu GLM-6 Release Brief - presenc.ai](https://presenc.ai/research/glm-6-release-brief) | kw: weights drop | source: zhipu-glm | WEIGHTS DROP
+
 - **2026-06-30** | [Ornith 1.0 Beats Claude at Coding - Runs on One GPU](https://byteiota.com/ornith-1-0-beats-claude-at-coding-runs-on-one-gpu/) | source: deepreinforce-ai
 - **2026-06-30** | [Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding | DeepReinforce Blog](https://deep-reinforce.com/ornith_1_0.html) | source: deepreinforce-ai | 📣 OFFICIAL ANNOUNCEMENT
 - **2026-06-30** | [Krea-2-Turbo Image Model - Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1uj638x/krea2turbo_image_model/) | source: krea

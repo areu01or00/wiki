@@ -601,7 +601,6 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 59,
       "last_result_hashes": [
-        "24ce73c5f90621bf39f7f9c8b1483924",
         "e6cf46f8a069993628758aadab52a25a",
         "cc03a9a819daa9c639b1f434a73fec68",
         "f424cb6e233b8ebf3e95876b734f4786",
@@ -620,10 +619,11 @@
         "93372f00c732bc0ccead269608f2c49a",
         "7d316d9aa330def5c2d13af95916014c",
         "b2ff45d038ec3a8762c653d9faeb90a3",
-        "8fe2170c6b5c10f9cfaa720a5bbdcf89"
+        "8fe2170c6b5c10f9cfaa720a5bbdcf89",
+        "aa3b0fa2bd589b971062246b204f25a5"
       ],
-      "last_run": "2026-06-30T19:09:45+00:00",
-      "run_count": 70,
+      "last_run": "2026-06-30T20:07:06.896583+00:00",
+      "run_count": 71,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_update_hash": null
     },
@@ -632,8 +632,6 @@
       "discovered_at_cycle": 68,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
-        "e6cf46f8a069993628758aadab52a25a",
-        "ceb9af9460c4f6bc1b3b7b9f4791b93d",
         "cc03a9a819daa9c639b1f434a73fec68",
         "f424cb6e233b8ebf3e95876b734f4786",
         "5a5743a3d00b7bea5031274148b47e48",
@@ -651,12 +649,14 @@
         "7d316d9aa330def5c2d13af95916014c",
         "681936ed24794ce4081ed957ef016636",
         "b2ff45d038ec3a8762c653d9faeb90a3",
-        "8fe2170c6b5c10f9cfaa720a5bbdcf89"
+        "8fe2170c6b5c10f9cfaa720a5bbdcf89",
+        "4fc4196e29ffaa241e68917bab135e51",
+        "e3a47bec574e60156c70ccc6ce2c8054"
       ],
-      "last_run": "2026-06-30T19:09:45+00:00",
+      "last_run": "2026-06-30T20:07:06.896583+00:00",
       "last_update_hash": null,
       "query": "kogai laneformer-2b-it model card release",
-      "run_count": 60,
+      "run_count": 61,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "yuvion-llm": {
@@ -693,7 +693,7 @@
       "name": "Meituan LongCat",
       "query": "Meituan LongCat new model release LLM announced",
       "category": "auto-discovered",
-      "run_count": 25,
+      "run_count": 26,
       "last_result_hashes": [
         "0e4ae45ece240d26266b698ef71a08c1",
         "ee900088279819d7d3414172cf148346",
@@ -711,16 +711,17 @@
         "1063aeb0234473621da3b9822ae1581f",
         "fa841b51a1b563139d25f79720988052",
         "987e090fa91b3273d6014b73a0aa1251",
-        "a162e06cfef19f57d15ad38596c7aeaa"
+        "a162e06cfef19f57d15ad38596c7aeaa",
+        "470225dd0ed02b2af048264a0aacda03"
       ],
       "discovered_at_cycle": "c106-20260630",
       "notes": "Auto-discovered c106 via x_search: LongCat-2.0 announced June 30, 2026",
-      "last_run": "2026-06-30T19:09:45+00:00"
+      "last_run": "2026-06-30T20:07:06.896583+00:00"
     },
     "huawei": {
       "query": "Huawei OpenPangu new model release open weights LLM",
       "category": "auto-discovered",
-      "run_count": 17,
+      "run_count": 18,
       "last_result_hashes": [
         "2cdf317c10cea9295f8229dafa17371d",
         "53d1da3298c070e10253475eb7fb8abf",
@@ -729,23 +730,27 @@
         "097a357ea6a1b4a9115b494704c8e87c",
         "c684b1b0cbbcb08a407c0a3c09b1b8ae",
         "ae9adff26804bfce9131752b3f201456",
-        "f92acf272d0f0ee4e087bccd480a8d20"
+        "f92acf272d0f0ee4e087bccd480a8d20",
+        "2137401a1e023441843b0a15461f3ad3"
       ],
       "discovered_at_cycle": "c107-20260630",
       "source": "x_search",
-      "last_run": "2026-06-30T19:09:45+00:00"
+      "last_run": "2026-06-30T20:07:06.896583+00:00"
     },
     "internscience": {
       "query": "InternScience Agents-A1 new model release LLM weights",
       "category": "auto-discovered",
-      "run_count": 11,
+      "run_count": 12,
       "last_result_hashes": [
         "93c5f34b76e67ae4d09ba61dd935b563",
-        "7675ec83a1f8eaa9e70ba4b40151c3c1"
+        "7675ec83a1f8eaa9e70ba4b40151c3c1",
+        "514c2bb9b7ef61f023997dc314057811",
+        "e513c4cfff496f0e8b5b865b166610d2",
+        "b6c8719311495499ff9fb30494de01bd"
       ],
       "discovered_at_cycle": "20260630_110808",
       "notes": "Auto-discovered c109 via x_search: InternScience/Agents-A1 35B MoE agent model, arXiv:2606.30616, released Jun 30 2026. Agentic long-horizon model.",
-      "last_run": "2026-06-30T19:09:45+00:00"
+      "last_run": "2026-06-30T20:07:06.896583+00:00"
     }
   }
 }
