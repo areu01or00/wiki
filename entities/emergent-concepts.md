@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 202) — GUI GROUNDING / WORLD MODELING DYNAMICS / TEST-TIME COMPUTE**
+
+- [[one-forward-beats-two-innerzoom-for-accurate-and-efficient-gui-grounding-2606.30084]]
+  InnerZoom: First single-forward MLLM GUI grounding approach — bypasses multi-step autoregressive coordinate decoding via spatial zoom tokens; dynamically re-encodes relevant GUI region for accurate, efficient click/tap grounding.
+
+- [[learning-transferable-dynamics-priors-from-action-to-world-modeling-2606.29501]]
+  A2World: First action-conditioned world modeling approach for learning transferable dynamics priors — pretraining on action-driven visual scene evolution captures reusable interaction dynamics beyond appearance-level video generation; transfers across tasks and domains.
+
+- [[decocted-experience-improves-test-time-inference-in-llm-agents-2604.04373]]
+  Decoacted Experience: First systematic study of context as a complementary scaling axis for test-time LLM inference — shows naive test-time compute scaling is inefficient for agentic tasks; targeted context construction provides better improvement-per-token.
+
 **2026-06-30 — Run 201) — REWARD MODELING / SAFETY TRAP / PERSONALIZED FEEDBACK**
 
 - [[implicitrm-unbiased-reward-modeling-from-implicit-preference-data-for-llm-alignment-2603.23184]]

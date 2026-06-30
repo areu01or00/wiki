@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 201,
-  "last_explore": "2026-06-30T15:15:00.000000+00:00",
-  "last_global_explore": "2026-06-30T15:15:00.000000+00:00",
+  "last_run": 202,
+  "last_explore": "2026-06-30T15:45:00.000000+00:00",
+  "last_global_explore": "2026-06-30T15:45:00.000000+00:00",
   "last_discovery": "2026-06-30+00:00",
-  "last_run_framing": "REWARD MODELING / SAFETY TRAP / PERSONALIZED FEEDBACK",
-  "last_framing": "implicit reward modeling / selective safety evaluation / personalized RL feedback",
-  "last_run_notes": "Run 201: ImplicitRM (2603.23184) + PERSA (2605.01123) + Safety Is Not Universal (2601.04389)",
+  "last_run_framing": "GUI GROUNDING / WORLD MODELING DYNAMICS / TEST-TIME COMPUTE",
+  "last_framing": "single-forward GUI grounding / action-conditioned world model dynamics / test-time context augmentation",
+  "last_run_notes": "Run 202: InnerZoom (2606.30084) + A2World (2606.29501) + Decoacted (2604.04373)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + web_search emergent-concept discovery",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "agentic AI risk / digital twin / domain-specific reasoning / KG-augmented LLM",
-  "emergent_theme": "agentic-risk-digital-twin-kg-reasoning",
+  "emergent_concept_theme": "gui-grounding / world-modeling / test-time-compute",
+  "emergent_theme": "gui-grounding-world-modeling-test-time-compute",
   "chains_updated": 0,
-  "entities_count": 616,
+  "entities_count": 619,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6568,6 +6568,30 @@
       "discovered": "2026-06-30T15:15:00.000000+00:00",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.30084",
+      "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
+      "slug": "one-forward-beats-two-innerzoom-for-accurate-and-efficient-gui-grounding-2606.30084",
+      "url": "https://arxiv.org/abs/2606.30084",
+      "discovered": "2026-06-30T15:45:00.000000+00:00",
+      "theme": "gui-grounding-world-modeling-test-time-compute"
+    },
+    {
+      "arxiv_id": "2606.29501",
+      "title": "Learning Transferable Dynamics Priors from Action to World Modeling",
+      "slug": "learning-transferable-dynamics-priors-from-action-to-world-modeling-2606.29501",
+      "url": "https://arxiv.org/abs/2606.29501",
+      "discovered": "2026-06-30T15:45:00.000000+00:00",
+      "theme": "gui-grounding-world-modeling-test-time-compute"
+    },
+    {
+      "arxiv_id": "2604.04373",
+      "title": "Decocted Experience Improves Test-Time Inference in LLM Agents",
+      "slug": "decocted-experience-improves-test-time-inference-in-llm-agents-2604.04373",
+      "url": "https://arxiv.org/abs/2604.04373",
+      "discovered": "2026-06-30T15:45:00.000000+00:00",
+      "theme": "gui-grounding-world-modeling-test-time-compute"
     }
   ],
   "emergent_discoveries": [
@@ -11197,6 +11221,30 @@
       "url": "https://arxiv.org/abs/2601.04389",
       "discovered": "2026-06-30T15:15:00.000000+00:00",
       "theme": "reward-modeling / safety / personalized-feedback"
+    },
+    {
+      "arxiv_id": "2606.30084",
+      "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
+      "slug": "one-forward-beats-two-innerzoom-for-accurate-and-efficient-gui-grounding-2606.30084",
+      "url": "https://arxiv.org/abs/2606.30084",
+      "discovered": "2026-06-30T15:45:00.000000+00:00",
+      "theme": "gui-grounding-world-modeling-test-time-compute"
+    },
+    {
+      "arxiv_id": "2606.29501",
+      "title": "Learning Transferable Dynamics Priors from Action to World Modeling",
+      "slug": "learning-transferable-dynamics-priors-from-action-to-world-modeling-2606.29501",
+      "url": "https://arxiv.org/abs/2606.29501",
+      "discovered": "2026-06-30T15:45:00.000000+00:00",
+      "theme": "gui-grounding-world-modeling-test-time-compute"
+    },
+    {
+      "arxiv_id": "2604.04373",
+      "title": "Decocted Experience Improves Test-Time Inference in LLM Agents",
+      "slug": "decocted-experience-improves-test-time-inference-in-llm-agents-2604.04373",
+      "url": "https://arxiv.org/abs/2604.04373",
+      "discovered": "2026-06-30T15:45:00.000000+00:00",
+      "theme": "gui-grounding-world-modeling-test-time-compute"
     }
   ],
   "emergent_concept_search_log": [
@@ -17040,6 +17088,19 @@
       ],
       "framing": "implicit reward modeling / selective safety evaluation / personalized RL feedback",
       "notes": "Run 201: 2603.23184 + 2605.01123 + 2601.04389"
+    },
+    {
+      "run": 202,
+      "theme": "gui-grounding / world-modeling dynamics / test-time compute",
+      "date": "2026-06-30",
+      "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
+      "picks": [
+        "2606.30084",
+        "2606.29501",
+        "2604.04373"
+      ],
+      "framing": "single-forward GUI grounding / action-conditioned world model dynamics / test-time context augmentation",
+      "last_run": "2026-06-30T15:45:00.000000+00:00"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
