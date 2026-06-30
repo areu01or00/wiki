@@ -17,6 +17,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-30** | [Buckle Up: The Bad Guys Now Have A Model As Powerful As Mythos](https://www.forbes.com/sites/craigsmith/2026/06/28/buckle-up-the-bad-guys-now-have-a-model-as-powerful-as-mythos/) | kw: 2 days ago | source: glm-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Z.ai's GLM-5.2 Brings 1M-Token Context to Open-Weight Coding](https://aiweekly.co/alerts/zais-glm-52-brings-1m-token-context-to-open-weight-coding) | kw: 1 day ago | source: glm-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [OpenAI just Shipped Three Models in One day](https://medium.com/@ai_93276/openai-just-shipped-three-models-in-one-day-472dfe4051c5) | kw: 2 days ago | source: openai-releases | 📣 OFFICIAL ANNOUNCEMENT
 
 - **2026-06-30** | [MiniMax M3 : NVFP4 for Quad DGX Spark - NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/minimax-m3-nvfp4-for-quad-dgx-spark/372123) | kw: MiniMax | source: MiniMax | 📣 OFFICIAL ANNOUNCEMENT
 - **2026-06-30** | [Data Story: How MiniMax M3 Reversed Its Own Engineering Decision](https://kili-technology.com/blog/data-story-minimax-m3) | kw: MiniMax | source: MiniMax | 📣 OFFICIAL ANNOUNCEMENT

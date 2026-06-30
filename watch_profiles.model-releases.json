@@ -129,6 +129,8 @@
       "category": "chinese-open",
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
+        "6b86f639881804a7193ab48daae2c003",
+        "0a1ea205ee62e1637fedac7fc401385b",
         "3d655dc80ed2b5bf869ec1489c0b3091",
         "c0ae3286101f77f4176998284f769cdf",
         "38c97c3a0601234bcc698f35c65f711e",
@@ -146,14 +148,12 @@
         "93c4c40462336b8c14e392fe79573c43",
         "e3e1efcd436e9492ad1e15e1c43f41f5",
         "34450a7951cf34013649a2558eaee9f2",
-        "0327a5e92e0d0854dfa577ddacdb2cd2",
-        "7260ebd21fb8eb33d2b79133bfe333d4",
-        "941ce7ad6aada5e019f1084ac58ea8f3"
+        "0327a5e92e0d0854dfa577ddacdb2cd2"
       ],
-      "last_run": "20260630_230134",
+      "last_run": "20260630_234526",
       "last_update_hash": null,
       "query": "Zhipu GLM ChatGLM new model release weights API",
-      "run_count": 118,
+      "run_count": 120,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "google-deepmind-releases": {
@@ -378,6 +378,7 @@
       "category": "major-lab",
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
+        "6eb5c305dc2f7e4b522b726a2fd89e60",
         "3d655dc80ed2b5bf869ec1489c0b3091",
         "c0ae3286101f77f4176998284f769cdf",
         "38c97c3a0601234bcc698f35c65f711e",
@@ -396,13 +397,12 @@
         "e3e1efcd436e9492ad1e15e1c43f41f5",
         "34450a7951cf34013649a2558eaee9f2",
         "0327a5e92e0d0854dfa577ddacdb2cd2",
-        "7260ebd21fb8eb33d2b79133bfe333d4",
-        "941ce7ad6aada5e019f1084ac58ea8f3"
+        "7260ebd21fb8eb33d2b79133bfe333d4"
       ],
-      "last_run": "20260630_230134",
+      "last_run": "20260630_234526",
       "last_update_hash": null,
       "query": "OpenAI new model release GPT ChatGPT API announcement",
-      "run_count": 118,
+      "run_count": 119,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "qwen-releases": {
