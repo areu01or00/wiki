@@ -17,6 +17,12 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-30** | [MiniMax AI releases MiniMax M3, an open-weight multimodal model...](https://digg.com/tech/a8ckwh19) | kw: MiniMax | source: MiniMax | 🚨 WEIGHTS DROP
+- **2026-06-30** | [LFM2.5 Retrievers: Bi-directional LFMs for Fast... — Liquid AI](https://www.liquid.ai/blog/lfm2-5-retrievers) | kw: liquid-ai | source: liquid-ai | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Introducing LFM2.5-1.2B-Thinking: On-Device Reasoning Model](https://www.linkedin.com/posts/liquid-ai-inc_today-we-release-lfm25-12b-thinking-a-activity-7419400860063047680-8RqH) | kw: liquid-ai | source: liquid-ai | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content ...](https://arxiv.org/html/2606.27632v1) | kw: yuvion-llm | source: yuvion-llm | 📄 BENCHMARK/PAPER
+- **2026-06-30** | [Yuvion VL: A Multimodal Foundation Model for Adversarial Content](https://arxiv.org/html/2606.25034v2) | kw: yuvion-llm | source: yuvion-llm | 📄 BENCHMARK/PAPER
+- **2026-06-30** | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content ...](https://arxiv.org/abs/2606.27632) | kw: yuvion-llm | source: yuvion-llm | 📄 BENCHMARK/PAPER
 - **2026-06-29** | [Ornith-1.0 Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/) | kw: Ornith-1 | source: deepreinforce-ai | 🔓 OPEN SOURCE
 - **2026-06-29** | [Yuvion LLM An Adversarially-Aware Large Language Model](https://arxiv.org/abs/2606.27632) | kw: Yuvion | source: yuvion-llm | 📄 BENCHMARK/PAPER
 - **2026-06-29** | [Yuvion LLM An Adversarially-Aware Large Language Model for Robust Content Safety](https://arxiv.org/html/2606.27632v1) | kw: Yuvion | source: yuvion-llm | 📄 BENCHMARK/PAPER
