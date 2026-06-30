@@ -3,12 +3,12 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-07-01T04:00:00+00:00",
-  "last_run": 146,
+  "__last_updated": "2026-07-01T04:30:00+00:00",
+  "last_run": 147,
   "last_explore": "2026-07-01T04:30:00+00:00",
   "last_global_explore": "2026-07-01T04:30:00+00:00",
   "last_discovery": "2026-07-01T04:30:00+00:00",
-  "last_run_framing": "AGENT-SAFETY-EVALUATION-GOVERNANCE DISCOVERY",
+  "last_run_framing": "FINE-TUNING-SAFETY + INTERPRETABILITY-SYCOPHANCY + BEHAVIORAL-SAFETY DISCOVERY",
   "last_framing": "AGENT-SAFETY-EVALUATION-GOVERNANCE: Adaptive Out-of-Band Defenses + Encoder vs Decoder Safety Judges + Geographic Bias in Governance AI",
   "last_run_notes": "Run 146: AGENT-SAFETY-EVALUATION-GOVERNANCE DISCOVERY: Adaptive Out-of-Band Defenses + Encoder vs Decoder Safety Judges + Geographic Bias in Governance AI",
   "last_pass_type": "emergent-concept",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 448,
+  "entities_count": 451,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5284,6 +5284,30 @@
       "theme": "emergent-concept",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27091",
+      "title": "Inherited Circuits, Learned Semantics: How Fine-Tuning Creates Evasion Vulnerabilities Invisible to Standard Evaluation",
+      "slug": "inherited-circuits-learned-semantics-how-fine-tuning-creates-evasion-vulnerabilities-invisible-to-standard-evaluation-2606.27091",
+      "url": "https://arxiv.org/abs/2606.27091",
+      "discovered": "2026-07-01T04:30:00+00:00",
+      "theme": "fine-tuning safety / evasion vulnerability / circuit inheritance"
+    },
+    {
+      "arxiv_id": "2606.26155",
+      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "slug": "detecting-and-controlling-sycophancy-with-cascading-linear-features-2606.26155",
+      "url": "https://arxiv.org/abs/2606.26155",
+      "discovered": "2026-07-01T04:30:00+00:00",
+      "theme": "interpretability / sycophancy / activation steering / linear features"
+    },
+    {
+      "arxiv_id": "2606.26982",
+      "title": "Auditing Framing-Sensitive Behavioral Instability in Large Language Models for Mental Health Interactions",
+      "slug": "auditing-framing-sensitive-behavioral-instability-in-large-language-models-for-mental-health-interactions-2606.26982",
+      "url": "https://arxiv.org/abs/2606.26982",
+      "discovered": "2026-07-01T04:30:00+00:00",
+      "theme": "behavioral safety / framing sensitivity / mental health AI / deployment evaluation"
     }
   ],
   "emergent_discoveries": [
@@ -8734,6 +8758,30 @@
       "url": "https://arxiv.org/abs/2606.26099",
       "discovered": "2026-06-29",
       "theme": "GOVERNANCE"
+    },
+    {
+      "arxiv_id": "2606.27091",
+      "title": "Inherited Circuits, Learned Semantics: How Fine-Tuning Creates Evasion Vulnerabilities Invisible to Standard Evaluation",
+      "slug": "inherited-circuits-learned-semantics-how-fine-tuning-creates-evasion-vulnerabilities-invisible-to-standard-evaluation-2606.27091",
+      "url": "https://arxiv.org/abs/2606.27091",
+      "discovered": "2026-07-01T04:30:00+00:00",
+      "theme": "fine-tuning safety / evasion vulnerability / circuit inheritance"
+    },
+    {
+      "arxiv_id": "2606.26155",
+      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "slug": "detecting-and-controlling-sycophancy-with-cascading-linear-features-2606.26155",
+      "url": "https://arxiv.org/abs/2606.26155",
+      "discovered": "2026-07-01T04:30:00+00:00",
+      "theme": "interpretability / sycophancy / activation steering / linear features"
+    },
+    {
+      "arxiv_id": "2606.26982",
+      "title": "Auditing Framing-Sensitive Behavioral Instability in Large Language Models for Mental Health Interactions",
+      "slug": "auditing-framing-sensitive-behavioral-instability-in-large-language-models-for-mental-health-interactions-2606.26982",
+      "url": "https://arxiv.org/abs/2606.26982",
+      "discovered": "2026-07-01T04:30:00+00:00",
+      "theme": "behavioral safety / framing sensitivity / mental health AI / deployment evaluation"
     }
   ],
   "emergent_concept_search_log": [
@@ -13694,6 +13742,17 @@
         "2606.26099"
       ],
       "method": "arxiv HTML search"
+    },
+    {
+      "run": 147,
+      "date": "2026-07-01T04:30:00+00:00",
+      "papers_found": [
+        "2606.27091",
+        "2606.26155",
+        "2606.26982"
+      ],
+      "theme": "FINE-TUNING-SAFETY + INTERPRETABILITY-SYCOPHANCY + BEHAVIORAL-SAFETY",
+      "method": "arxiv HTML search 4-query (safety/alignment/robustness/red teaming)"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

@@ -1,4 +1,9 @@
 Explore: 2026-06-29T22:30 UTC — Run 132 INFRASTRUCTURE-SAFETY-PROBE (Rule 88): Environment-Injected Memory Poisoning (2604.02623) + Resource Consumption Threats (2603.16068) + Long-Term State Poisoning (2605.06731)
+Explore: 2026-06-29T23:55 UTC — Run 140 — EMERGENT-CONCEPT-SEARCH (arxiv HTML search 4-query planning/reasoning/LLM integration; 20 fresh candidates from 45 IDs; 3 LLM-keyword-matched picks: Perfect Detection Failed Control + Forecasting Leaderboards Deployment + Teach-to-Reason)
+- 3 picks: Perfect Detection Failed Control (2606.24952) + Forecasting Leaderboards Deployment Decisions (2606.24996) + Teach-to-Reason (2606.25407)
+- entities_count: 430 reconciled (427 + 3 new)
+- all wikilinks verified (7 total across 3 files, all resolve)
+
 ## 2026-06-29 13:30 UTC — Emergent-concept search Run 106 (3 fresh themes)
 
 **Mode**: emergent-concept-search via arxiv search HTML + web_search 6-query FUNCTIONAL-MECHANISTIC-INTERPRETABILITY-PROBE escape hatch per Rule 73 (codified candidate)
@@ -2021,4 +2026,24 @@ Commit: `43762e4` → push succeeded.
 - 3-store lockstep confirmed (402 hashes in all 3 stores)
 - explore_context.json updated (397→400 emergent_discoveries, 132→133 runs)
 - watch_profiles.json updated (3 new hashes added)
-Explore: 2026-07-01T00:00 UTC — Run 137 UNCERTAINTY-REASONING-STRUCTURE-PROBE: ITCR Conformal Reasoning (2606.08831) + HOTL Legal Discovery (2606.19812) + Origins of Stochasticity UQ Taxonomy (2606.22792)
+- Run 144 — 2026-07-01T03:00 UTC — THEORY-OF-MIND + SOCIAL-REASONING + MODULAR-ARCH PROBE
+- 3 new entity pages: MINDGAMES (2605.29512) + SocialMemBench (2605.17789) + OSCToM (2605.20423)
+- arxiv HTML search: 144 IDs from 4 queries (theory of mind/social reasoning/modular architecture/test-time scaling), 51 fresh after 5-store dedup
+- 3-axis Theory-of-Mind + Social-Reasoning + Modular-Arch discovery: live arena evaluation, social group memory failures, adversarial ToM generation
+- All wikilinks verified (9 total across 3 files, all resolve)
+- entities_count=442 reconciled to filesystem truth (439 + 3 new)
+- 3-store lockstep confirmed (426 hashes in all 3 stores)
+- explore_context.json updated
+- watch_profiles.json updated (3 new hashes added)
+
+
+Explore: 2026-06-30T04:30 UTC — Run 146 — EMERGENT-CONCEPT-SEARCH (arxiv HTML search 4-query agent safety evaluation governance; 246 fresh candidates from 190 IDs; 3 LLM-keyword-matched picks: Adaptive Out-of-Band Defenses + Encoder vs Decoder Safety Judges + Geographic Bias in Governance AI)
+- 3 picks: Adaptive Evaluation Out-of-Band Defenses (2606.26479) + Do Encoders Suffice (2606.25782) + Benchmarking Open-Weight Foundation Models Governance (2606.26099)
+- entities_count: 448 reconciled (445 + 3 new)
+- all wikilinks verified (9 total across 3 files, all resolve)
+Explore: 2026-07-01T04:30 UTC — Run 147 — EMERGENT-CONCEPT-SEARCH (arxiv HTML search 4-query safety/alignment/robustness/red teaming; 175 fresh candidates from 200 IDs; 3 LLM-keyword-matched picks: Inherited Circuits (fine-tuning evasion) + Cascading Linear Features (sycophancy control) + Framing-Sensitive Behavioral Instability (mental health AI))
+- 3 picks: Inherited Circuits (2606.27091) + Cascading Linear Features (2606.26155) + Framing-Sensitive Behavioral Instability (2606.26982)
+- entities_count: 451 reconciled (448 + 3 new)
+- all wikilinks verified (9 total across 3 files, all resolve)
+- 3-store lockstep confirmed (435 hashes in all 3 stores)
+
