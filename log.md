@@ -1,3 +1,11 @@
+
+Explore: 2026-07-01T14:30 UTC — Run 178: HETEROGENEOUS ROBOTIC EXPERT COORDINATION / SOCIAL INTELLIGENCE DISTILLATION / UNCERTAINTY-DRIVEN SELF-EVOLUTION discovery
+- 2606.25404: HEART: Coordination of Heterogeneous Expert Agents for Physically Grounded Robotic Task Planning (role-specialized expert LLMs under token budget; addresses feasibility/reachability failures of single-LLM planners; first heterogeneous expert decomposition for physical task planning)
+- 2606.12018: MODF-SIR: Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning (lightweight MLLM multi-agent social intelligence; knowledge distillation at training and inference; long-tail event extraction preventing information overshadowing; first social intelligence distillation in the wiki)
+- 2602.21158: SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards (intrinsic uncertainty as self-supervised reward signal; no external reward engineering; step-level credit assignment from failed trajectories; first uncertainty-as-reward self-evolution framework)
+- entities_count: 547 reconciled (544 + 3 new)
+- all wikilinks verified (9 wikilinks across 3 files, all resolve)
+- 3-store lockstep: 531 hashes in all 3 stores (528 + 3 new)
 Explore: 2026-06-30T14:30 UTC — Run 170: COGNITIVE-ARCHITECTURE INTEGRATION / METACOGNITIVE REASONING / SYMBOLIC PLANNING discovery
 - 2602.18806: Think$^2$: Grounded Metacognitive Reasoning in Large Language Models (Ann Brown's regulatory cycle as prompting architecture; dual-process MetaController for adaptive effort allocation; first grounding metacognitive regulation theory into LLM prompting)
 - 2512.23167: SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search (three specialized LLM agents in MCTS loop; grounded and reflective search; addresses linear-reasoning brittleness; novel cognitive architecture + symbolic planning integration)
