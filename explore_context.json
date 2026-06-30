@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 487,
+  "entities_count": 490,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5587,6 +5587,30 @@
       "theme": "llm metacognition self-monitoring",
       "vector": "emergent_concept",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.24893",
+      "title": "AgentOdyssey: Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents",
+      "slug": "agentodyssey-open-ended-long-horizon-text-game-generation-for-test-time-continual-learning-agents-2606.24893",
+      "url": "https://arxiv.org/abs/2606.24893",
+      "discovered": "2026-07-01",
+      "theme": "AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY"
+    },
+    {
+      "arxiv_id": "2606.27537",
+      "title": "MemoBench: Benchmarking World Modeling in Dynamically Changing Environments",
+      "slug": "memobench-benchmarking-world-modeling-in-dynamically-changing-environments-2606.27537",
+      "url": "https://arxiv.org/abs/2606.27537",
+      "discovered": "2026-07-01",
+      "theme": "AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY"
+    },
+    {
+      "arxiv_id": "2606.28057",
+      "title": "MultiHashFormer: Hash-based Generative Language Models",
+      "slug": "multihashformer-hash-based-generative-language-models-2606.28057",
+      "url": "https://arxiv.org/abs/2606.28057",
+      "discovered": "2026-07-01",
+      "theme": "AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY"
     }
   ],
   "emergent_discoveries": [
@@ -9259,6 +9283,30 @@
       "url": "https://arxiv.org/abs/2605.21851",
       "discovered": "2026-06-30T11:00:00.000000+00:00",
       "theme": "llm metacognition self-monitoring"
+    },
+    {
+      "arxiv_id": "2606.24893",
+      "title": "AgentOdyssey: Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents",
+      "slug": "agentodyssey-open-ended-long-horizon-text-game-generation-for-test-time-continual-learning-agents-2606.24893",
+      "url": "https://arxiv.org/abs/2606.24893",
+      "discovered": "2026-07-01",
+      "theme": "AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY"
+    },
+    {
+      "arxiv_id": "2606.27537",
+      "title": "MemoBench: Benchmarking World Modeling in Dynamically Changing Environments",
+      "slug": "memobench-benchmarking-world-modeling-in-dynamically-changing-environments-2606.27537",
+      "url": "https://arxiv.org/abs/2606.27537",
+      "discovered": "2026-07-01",
+      "theme": "AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY"
+    },
+    {
+      "arxiv_id": "2606.28057",
+      "title": "MultiHashFormer: Hash-based Generative Language Models",
+      "slug": "multihashformer-hash-based-generative-language-models-2606.28057",
+      "url": "https://arxiv.org/abs/2606.28057",
+      "discovered": "2026-07-01",
+      "theme": "AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY"
     }
   ],
   "emergent_concept_search_log": [
@@ -14453,6 +14501,17 @@
         "2605.21851"
       ],
       "method": "arxiv HTML search"
+    },
+    {
+      "run": 160,
+      "date": "2026-07-01",
+      "theme": "AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY",
+      "papers_found": [
+        "2606.24893",
+        "2606.27537",
+        "2606.28057"
+      ],
+      "method": "HF daily + emergent-concept search"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
