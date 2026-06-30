@@ -17,6 +17,22 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-30** | [Krea 2 Technical Report Open-Weights Image Model](https://explainx.ai/blog/krea-2-technical-report-open-weights-image-model-2026) | source: krea | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Google launches open-source model Gemma 4](https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it) | source: google-deepmind-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [MiniMax M3 Brings Open-Weight Frontier AI with 1M Context](https://devgent.org/en/minimax-m3-open-source-en/) | source: MiniMax | 🚨 WEIGHTS DROP
+- **2026-06-30** | [GLM 5.2 Just Dropped: What Zhipu New Open-Weights Flagship](https://www.webnuz.com/article/2026-06-14/GLM+5.2+Just+Dropped:+What+Zhipu) | source: glm-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [GLM-5.2 Review: Zhipu Open-Weight Coding Model](https://theplanettools.ai/tools/glm-5-2) | source: glm-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Kimi K2.6 Leading Open-Source Model in Coding & Agent](https://www.kimi.com/ai-models/kimi-k2-6) | source: kimi-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Krea 2 12B Open-Weights Image Model](https://braindetox.kr/en/posts/krea2_open_image_model_2026.html) | source: krea | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Krea AI Open-Sources Krea 2 12B-Parameter Image Model](https://noqta.tn/en/news/krea-ai-krea-2-open-source-image-generation-2026) | source: krea | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Meta Llama 4.5 Mid-Cycle Open-Weight Refresh](https://presenc.ai/research/llama-4-5-release-brief) | source: meta-llama-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [How Meta Llama 4 Launch Is Shaking Up the Open-Source AI Ecosystem](https://techdailyshot.com/blog/meta-llama-4-launch-impact-open-source) | source: meta-llama-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Qwen 3.5 Alibaba open-weights multimodal model](https://qwen.ai/blog?id=qwen3.5) | source: qwen-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Qwen 3.5 397B Open-Weight Multimodal AI Model](https://www.thesys.dev/blogs/qwen-3-5) | source: qwen-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Introducing Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) | source: anthropic-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Introducing Gemma 4 12B: unified encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) | source: google-deepmind-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Today introducing Gemma 4 newest family of open models](https://www.facebook.com/Google/videos/today-were-introducing-gemma-4-our-newest-family-of-open-models-built-from-the-s/1003051045378073/) | source: google-deepmind-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Introducing LFM2.5 Next Generation of On-Device AI](https://www.liquid.ai/blog/introducing-lfm2-5-the-next-generation-of-on-device-ai) | source: liquid-ai | 📣 OFFICIAL ANNOUNCEMENT
 - **2026-06-30** | [MiniMax AI releases MiniMax M3, an open-weight multimodal model...](https://digg.com/tech/a8ckwh19) | kw: MiniMax | source: MiniMax | 🚨 WEIGHTS DROP
 - **2026-06-30** | [LFM2.5 Retrievers: Bi-directional LFMs for Fast... — Liquid AI](https://www.liquid.ai/blog/lfm2-5-retrievers) | kw: liquid-ai | source: liquid-ai | 📣 OFFICIAL ANNOUNCEMENT
 - **2026-06-30** | [Introducing LFM2.5-1.2B-Thinking: On-Device Reasoning Model](https://www.linkedin.com/posts/liquid-ai-inc_today-we-release-lfm25-12b-thinking-a-activity-7419400860063047680-8RqH) | kw: liquid-ai | source: liquid-ai | 📣 OFFICIAL ANNOUNCEMENT
