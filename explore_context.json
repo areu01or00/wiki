@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 203,
+  "last_run": 204,
   "last_explore": "2026-06-30T15:45:00.000000+00:00",
   "last_global_explore": "2026-06-30T15:45:00.000000+00:00",
   "last_discovery": "2026-06-30+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "gui-grounding / world-modeling / test-time-compute",
   "emergent_theme": "gui-grounding-world-modeling-test-time-compute",
   "chains_updated": 0,
-  "entities_count": 622,
+  "entities_count": 625,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6595,7 +6595,31 @@
     },
     "2606.00674",
     "2606.21089",
-    "2606.17459"
+    "2606.17459",
+    {
+      "arxiv_id": "2606.30420",
+      "title": "Experience Augmented Policy Optimization for LLM Reasoning",
+      "slug": "experience-augmented-policy-optimization-for-llm-reasoning-2606.30420",
+      "url": "https://arxiv.org/abs/2606.30420",
+      "discovered": "2026-06-30T15:48:51+00:00",
+      "theme": "rlvr-experience-replay"
+    },
+    {
+      "arxiv_id": "2606.29270",
+      "title": "Minority Sentinel: When to Overturn Majority Voting in Multi-Agent LLM Debates",
+      "slug": "minority-sentinel-when-to-overturn-majority-voting-in-multi-agent-llm-debates-2606.29270",
+      "url": "https://arxiv.org/abs/2606.29270",
+      "discovered": "2026-06-30T15:48:51+00:00",
+      "theme": "multi-agent-debate-correlation"
+    },
+    {
+      "arxiv_id": "2606.29545",
+      "title": "AURORA: Asymmetry and Update-Induced Rotation for Robust Hallucination Detection in LLMs",
+      "slug": "aurora-asymmetry-and-update-induced-rotation-for-robust-hallucination-detection-in-llms-2606.29545",
+      "url": "https://arxiv.org/abs/2606.29545",
+      "discovered": "2026-06-30T15:48:51+00:00",
+      "theme": "hallucination-rotation-detection"
+    }
   ],
   "emergent_discoveries": [
     {
@@ -11272,6 +11296,30 @@
       "url": "https://arxiv.org/abs/2606.17459",
       "discovered": "2026-06-30T16:15:00.000000+00:00",
       "theme": "LLM-executive-strategic-benchmark"
+    },
+    {
+      "arxiv_id": "2606.30420",
+      "title": "Experience Augmented Policy Optimization for LLM Reasoning",
+      "slug": "experience-augmented-policy-optimization-for-llm-reasoning-2606.30420",
+      "url": "https://arxiv.org/abs/2606.30420",
+      "discovered": "2026-06-30T15:48:51+00:00",
+      "theme": "rlvr-experience-replay"
+    },
+    {
+      "arxiv_id": "2606.29270",
+      "title": "Minority Sentinel: When to Overturn Majority Voting in Multi-Agent LLM Debates",
+      "slug": "minority-sentinel-when-to-overturn-majority-voting-in-multi-agent-llm-debates-2606.29270",
+      "url": "https://arxiv.org/abs/2606.29270",
+      "discovered": "2026-06-30T15:48:51+00:00",
+      "theme": "multi-agent-debate-correlation"
+    },
+    {
+      "arxiv_id": "2606.29545",
+      "title": "AURORA: Asymmetry and Update-Induced Rotation for Robust Hallucination Detection in LLMs",
+      "slug": "aurora-asymmetry-and-update-induced-rotation-for-robust-hallucination-detection-in-llms-2606.29545",
+      "url": "https://arxiv.org/abs/2606.29545",
+      "discovered": "2026-06-30T15:48:51+00:00",
+      "theme": "hallucination-rotation-detection"
     }
   ],
   "emergent_concept_search_log": [
@@ -17155,6 +17203,16 @@
       ],
       "framing": "reward-induced manifold collapse / scientific amnesia / multi-role executive benchmark",
       "last_run": "2026-06-30T16:15:00.000000+00:00"
+    },
+    {
+      "run": 204,
+      "date": "2026-06-30T15:48:51+00:00",
+      "theme": "rlvr-experience-replay / multi-agent-debate-correlation / hallucination-rotation-detection",
+      "picks": [
+        "2606.30420",
+        "2606.29270",
+        "2606.29545"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

@@ -1285,7 +1285,10 @@
         "51608d6f4cbfd8199f07b11e1f682838",
         "2606.00674",
         "2606.21089",
-        "2606.17459"
+        "2606.17459",
+        "2606.30420",
+        "2606.29270",
+        "2606.29545"
       ],
       "last_results": [
         {
@@ -4836,6 +4839,33 @@
           "online_date": "2025-08",
           "run_number": 200,
           "margin": ""
+        },
+        {
+          "arxiv_id": "2606.30420",
+          "title": "Experience Augmented Policy Optimization for LLM Reasoning",
+          "hash": "bcb80485c4cf0f7eb91fb42d3a2a88a8",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "rlvr-experience-replay",
+          "discovered": "2026-06-30T15:48:51+00:00"
+        },
+        {
+          "arxiv_id": "2606.29270",
+          "title": "Minority Sentinel: When to Overturn Majority Voting in Multi-Agent LLM Debates",
+          "hash": "8b5cca7f3d7aa6f8952320534ddafa6f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "multi-agent-debate-correlation",
+          "discovered": "2026-06-30T15:48:51+00:00"
+        },
+        {
+          "arxiv_id": "2606.29545",
+          "title": "AURORA: Asymmetry and Update-Induced Rotation for Robust Hallucination Detection in LLMs",
+          "hash": "d07815afe6def13d9dc9db0018daddf2",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "hallucination-rotation-detection",
+          "discovered": "2026-06-30T15:48:51+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5455,7 +5485,10 @@
     "51608d6f4cbfd8199f07b11e1f682838",
     "2606.00674",
     "2606.21089",
-    "2606.17459"
+    "2606.17459",
+    "2606.30420",
+    "2606.29270",
+    "2606.29545"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -6068,7 +6101,10 @@
       "51608d6f4cbfd8199f07b11e1f682838",
       "2606.00674",
       "2606.21089",
-      "2606.17459"
+      "2606.17459",
+      "2606.30420",
+      "2606.29270",
+      "2606.29545"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
