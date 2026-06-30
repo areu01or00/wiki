@@ -17,6 +17,10 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-29** | [MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal](https://www.minimax.io/models/text/m3) | kw: MiniMax M3 frontier | source: MiniMax | 🚨 WEIGHTS DROP
+- **2026-06-29** | [MiniMax M3 - NVIDIA NIM](https://build.nvidia.com/minimaxai/minimax-m3) | kw: MiniMax M3 NVIDIA deployment | source: MiniMax | 🚨 WEIGHTS DROP
+- **2026-06-29** | [arXiv cs.CL New Submissions - June 29 2026](https://arxiv.org/list/cs.CL/new) | kw: 101 new cs.CL papers | source: arxiv-cs-cl | 📄 BENCHMARK/PAPER
+- **2026-06-30** | [AI News Today June 30 2026 - Gemini Pro Released Today](https://www.buildfastwithai.com/blogs/ai-news-today-june-30-2026) | kw: Gemini Pro released today | source: google-deepmind-releases | 📣 OFFICIAL ANNOUNCEMENT
 - **2026-06-30** | [Krea 2 Technical Report Open-Weights Image Model](https://explainx.ai/blog/krea-2-technical-report-open-weights-image-model-2026) | source: krea | 🚨 WEIGHTS DROP
 - **2026-06-30** | [Google launches open-source model Gemma 4](https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it) | source: google-deepmind-releases | 🚨 WEIGHTS DROP
 - **2026-06-30** | [MiniMax M3 Brings Open-Weight Frontier AI with 1M Context](https://devgent.org/en/minimax-m3-open-source-en/) | source: MiniMax | 🚨 WEIGHTS DROP
