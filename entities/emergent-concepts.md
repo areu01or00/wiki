@@ -1,7 +1,7 @@
 ---
 title: Emergent Concepts
 created: 2026-05-20
-updated: 2026-07-01
+updated: 2026-06-30
 type: meta
 tags: [meta, emergent-concept, llm-research, chain-tracking]
 last_watched: "2026-06-29T03:25:00+00:00"
@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 166) — MULTI-AGENT CONCURRENCY CONTROL + LONG-CONTEXT SPARSE ATTENTION + EDGE RAG PROMPT COMPRESSION discovery**
+
+- [[coagent-concurrency-control-multi-agent-systems-2606.15376]] — CoAgent: Concurrency Control for Multi-Agent Systems — introduces MTPO (Monotonic Trajectory Pre-Order) protocol replacing blocking locks with advisory control; runtime informs agents of conflicts, each agent judges and repairs invalidated state; stays within 5% of serial correctness at 1.4× speedup; lifts task pass rate from 45/71 to 63/71 at 0.80× time and 0.86× cost; 2606.15376.
+- [[minimax-sparse-attention-2606.13392]] — MiniMax Sparse Attention — blockwise sparse attention built on GQA with lightweight Index Branch for Top-k KV block selection; 28.4× per-token compute reduction at 1M context with on-par accuracy; 14.2×/7.6× wall-clock speedup on H800; powers a production multimodal 109B model; 2606.13392.
+- [[less-is-more-lightweight-prompt-compression-question-answering-edge-devices-2606.20571]] — CORE: Lightweight Prompt Compression for Edge QA — two-stage sentence-level compression requiring no SLM (NER answer set + semantic clue set + orthogonal residual retrieval); ≥30.19% accuracy improvement, ≥50.47% memory reduction, ≥1.94× speedup on edge device; 95.74% energy reduction vs LLMLingua2; 2606.20571.
+
 **2026-07-01 — Run 165) — SELECTIVE-FORGETTING / TOKEN-LEVEL-UNLEARNING / MULTI-AGENT-TEST-TIME-SCALING discovery**
 
 - [[tmas-scaling-test-time-compute-via-multi-agent-synergy-2605.10344]] — TMAS: Scaling Test-Time Compute via Multi-Agent Synergy — organizes inference as collaborative process among specialized agents with hierarchical memories (experience bank + guideline bank); hybrid reward RL jointly preserves reasoning capability, experience utilization, and exploration; stronger iterative scaling than existing test-time scaling baselines; 2605.10344.

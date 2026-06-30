@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 508,
+  "entities_count": 511,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5740,7 +5740,10 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-06-30T04:45:00+00:00",
       "theme": "multi-agent Byzantine fault tolerance / consensus / robustness"
-    }
+    },
+    "2606.15376",
+    "2606.13392",
+    "2606.20571"
   ],
   "emergent_discoveries": [
     {
@@ -9559,6 +9562,30 @@
       "url": "https://arxiv.org/abs/2605.10344",
       "discovered": "2026-07-01T11:00:00.000000+00:00",
       "theme": "test-time compute scaling / multi-agent reasoning / inference efficiency"
+    },
+    {
+      "arxiv_id": "2606.15376",
+      "title": "CoAgent: Concurrency Control for Multi-Agent Systems",
+      "slug": "coagent-concurrency-control-multi-agent-systems-2606.15376",
+      "url": "https://arxiv.org/abs/2606.15376",
+      "discovered": "2026-06-30T05:16",
+      "theme": "multi-agent-concurrency-control"
+    },
+    {
+      "arxiv_id": "2606.13392",
+      "title": "MiniMax Sparse Attention",
+      "slug": "minimax-sparse-attention-2606.13392",
+      "url": "https://arxiv.org/abs/2606.13392",
+      "discovered": "2026-06-30T05:16",
+      "theme": "long-context-sparse-attention"
+    },
+    {
+      "arxiv_id": "2606.20571",
+      "title": "Less is More: Lightweight Prompt Compression for Question Answering Applications on Edge Devices",
+      "slug": "less-is-more-lightweight-prompt-compression-question-answering-edge-devices-2606.20571",
+      "url": "https://arxiv.org/abs/2606.20571",
+      "discovered": "2026-06-30T05:16",
+      "theme": "edge-ai-prompt-compression"
     }
   ],
   "emergent_concept_search_log": [
@@ -10985,6 +11012,16 @@
       "timestamp": "2026-07-01T09:00:00+00:00",
       "query_theme": "LLM metacognition / self-awareness",
       "papers_found": 3
+    },
+    {
+      "run": "Run 166",
+      "date": "2026-06-30T05:16",
+      "theme": "MULTI-AGENT CONCURRENCY CONTROL + LONG-CONTEXT SPARSE ATTENTION + EDGE RAG PROMPT COMPRESSION",
+      "picks": [
+        "2606.15376",
+        "2606.13392",
+        "2606.20571"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -14861,6 +14898,17 @@
       "vector": "emergent-concept",
       "method": "web_search",
       "framing": "SELECTIVE-FORGETTING / TOKEN-LEVEL-UNLEARNING / MULTI-AGENT-TEST-TIME-SCALING"
+    },
+    {
+      "run_number": 166,
+      "date": "2026-06-30T05:16",
+      "theme": "MULTI-AGENT CONCURRENCY CONTROL + LONG-CONTEXT SPARSE ATTENTION + EDGE RAG PROMPT COMPRESSION",
+      "picks": [
+        "2606.15376",
+        "2606.13392",
+        "2606.20571"
+      ],
+      "mode": "emergent-concept"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
