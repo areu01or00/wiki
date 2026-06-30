@@ -49,6 +49,7 @@
 
 **Discovery**: arxiv HTML search (181 fresh IDs from 4 queries); 3 picked for functional entropy UQ methodology + behavioral calibration robustness + interactional alignment diagnostic framing
 ---
+**2026-06-30T00:00:00 UTC** — Run 229: RLVR Credit Assignment / LLM Human Reliance Typology / MLLM Execution Harness — [2606.18810](https://arxiv.org/abs/2606.18810), [2606.28749](https://arxiv.org/abs/2606.28749), [2606.03005](https://arxiv.org/abs/2606.03005)
 
 
 ## Run 183 — 2026-06-30

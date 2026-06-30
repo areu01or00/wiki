@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-07-04T00:15:00.000000+00:00",
-  "last_run": 228,
-  "last_explore": "2026-07-04T00:15:00.000000+00:00",
+  "last_run": 229,
+  "last_explore": "2026-06-30T23:01:51.909392",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
-  "last_discovery": "2026-07-04",
-  "last_run_framing": "FORMAL VERIFICATION AGENTS / LLM RELIABILITY SCORING / DOCUMENT-GUIDED GUI AGENTS",
+  "last_discovery": "2026-06-30",
+  "last_run_framing": "RLVR CREDIT ASSIGNMENT / LLM HUMAN RELIANCE TYPOLOGY / MLLM EXECUTION HARNESS",
   "last_framing": "formal methods / llm reliability / gui agent document guidance",
-  "last_run_notes": "Run 228: Event-B Agent (2605.17475) + Beyond Hallucinations (2512.24058) + DocOS (2605.18048)",
+  "last_run_notes": "Run 229: Self-Conditioned Credit Assignment (2606.18810) + LLM Reliance Typology (2606.28749) + MUSE MLLM Harness (2606.03005)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 696,
+  "entities_count": 699,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -12242,6 +12242,30 @@
       "url": "https://arxiv.org/abs/2605.18048",
       "discovered": "2026-07-04T00:15:00.000000+00:00",
       "theme": "gui agents / document-guided / proactive planning"
+    },
+    {
+      "arxiv_id": "2606.18810",
+      "title": "Learning from Own Solutions: Self-Conditioned Credit Assignment for Reinforcement Learning with Verifiable Rewards",
+      "slug": "learning-from-own-solutions-self-conditioned-credit-assignment-for-reinforcement-learning-with-verifiable-rewards-2606.18810",
+      "url": "https://arxiv.org/abs/2606.18810",
+      "discovered": "2026-06-30T23:01:51.909418",
+      "theme": "rlvr credit assignment / self-conditioned credit / token-level reasoning"
+    },
+    {
+      "arxiv_id": "2606.28749",
+      "title": "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers",
+      "slug": "four-types-of-llm-reliance-predictors-among-undergraduate-writers-2606.28749",
+      "url": "https://arxiv.org/abs/2606.28749",
+      "discovered": "2026-06-30T23:01:51.909430",
+      "theme": "llm human reliance / academic writing / mixed-methods evaluation"
+    },
+    {
+      "arxiv_id": "2606.03005",
+      "title": "MUSE: A Unified Agentic Harness for MLLMs",
+      "slug": "muse-a-unified-agentic-harness-for-mllms-2606.03005",
+      "url": "https://arxiv.org/abs/2606.03005",
+      "discovered": "2026-06-30T23:01:51.909436",
+      "theme": "multimodal llm / agentic execution scaffold / frozen model capability elicitation"
     }
   ],
   "emergent_concept_search_log": [
@@ -18465,6 +18489,18 @@
       "papers_found": [],
       "added": 3,
       "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection"
+    },
+    {
+      "run_number": 229,
+      "theme": "RLVR CREDIT ASSIGNMENT / LLM HUMAN RELIANCE TYPOLOGY / MLLM EXECUTION HARNESS",
+      "framing": "self-conditioned credit assignment / llm reliance / multimodal agentic scaffold",
+      "picks": [
+        "2606.18810",
+        "2606.28749",
+        "2606.03005"
+      ],
+      "run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
+      "date": "2026-06-30"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

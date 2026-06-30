@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 229)**
+
+- [[muse-a-unified-agentic-harness-for-mllms-2606.03005]] — MUSE: Unified execution harness for MLLMs without retraining — elicits capabilities from frozen models via structured scaffold
+- [[four-types-of-llm-reliance-predictors-among-undergraduate-writers-2606.28749]] — Four types of LLM reliance in undergraduate academic writing — qualitative typology beyond frequency measures
+- [[learning-from-own-solutions-self-conditioned-credit-assignment-for-reinforcement-learning-with-verifiable-rewards-2606.18810]] — Self-conditioned credit assignment for RLVR — model identifies pivotal tokens from own rollouts without external PRM
+
 **2026-07-04 — Run 228) — FORMAL VERIFICATION AGENTS / LLM RELIABILITY SCORING / DOCUMENT-GUIDED GUI AGENTS**
 
 - [[event-b-agent-towards-llm-agent-for-formal-model-synthesis-and-repair-2605.17475]]

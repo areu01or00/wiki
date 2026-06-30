@@ -1360,7 +1360,10 @@
         "4794808034078d5e2e310716dfff6651",
         "100cf7d45960c9fc06028c9bfe247674",
         "271abdc197542168af0780d9972422ee",
-        "2ea723753368462acaf36c07abb5c1d0"
+        "2ea723753368462acaf36c07abb5c1d0",
+        "2606.18810",
+        "2606.28749",
+        "2606.03005"
       ],
       "last_results": [
         {
@@ -5274,6 +5277,33 @@
           "chain": "emergent-concepts",
           "theme": "emergent concept",
           "discovered": "2026-07-04T00:15:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2606.18810",
+          "title": "Learning from Own Solutions: Self-Conditioned Credit Assignment for Reinforcement Learning with Verifiable Rewards",
+          "hash": "9cf00870e7194df117e1ecc4856192e8",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "rlvr credit assignment / self-conditioned credit / token-level reasoning",
+          "discovered": "2026-06-30T23:01:51.937043"
+        },
+        {
+          "arxiv_id": "2606.28749",
+          "title": "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers",
+          "hash": "ec8362990dc9920dc0d7884d6e3a9e62",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "llm human reliance / academic writing / mixed-methods evaluation",
+          "discovered": "2026-06-30T23:01:51.937067"
+        },
+        {
+          "arxiv_id": "2606.03005",
+          "title": "MUSE: A Unified Agentic Harness for MLLMs",
+          "hash": "c6ceeb045cf29fbef4b9a545e2dee515",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "multimodal llm / agentic execution scaffold / frozen model capability elicitation",
+          "discovered": "2026-06-30T23:01:51.937072"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5968,7 +5998,10 @@
     "4794808034078d5e2e310716dfff6651",
     "100cf7d45960c9fc06028c9bfe247674",
     "271abdc197542168af0780d9972422ee",
-    "2ea723753368462acaf36c07abb5c1d0"
+    "2ea723753368462acaf36c07abb5c1d0",
+    "2606.18810",
+    "2606.28749",
+    "2606.03005"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T22:05:37+00:00",
@@ -6656,7 +6689,10 @@
       "4794808034078d5e2e310716dfff6651",
       "100cf7d45960c9fc06028c9bfe247674",
       "271abdc197542168af0780d9972422ee",
-      "2ea723753368462acaf36c07abb5c1d0"
+      "2ea723753368462acaf36c07abb5c1d0",
+      "2606.18810",
+      "2606.28749",
+      "2606.03005"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
