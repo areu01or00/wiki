@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 162) — 3-axis AGENTIC-PLANNING-ORCHESTRATION + BENCHMARK NOISE-FLOOR + EVOLVING-WORKFLOW-SYNTHESIS discovery (Rule 102)**
+
+- [[how-much-coordination-gain-is-real-a-paired-noise-floor-protocol-for-multi-agent-llm-benchmarks-2606.20695]] — How Much Coordination Gain Is Real? — first paired noise-floor protocol showing 7/10 multi-agent coordination architectures report effects below benchmark noise floor; coordination-active pass@k as minimum reporting standard; ET-MCP substrate for isolating reader-side choices.
+- [[from-reaction-to-anticipation-proactive-failure-recovery-through-agentic-task-graph-for-robotic-manipulation-2605.11951]] — AgentChord: Proactive Failure Recovery via Agentic Task Graph — first proactive failure recovery via pre-compiled anticipatory branches in directed task graphs; three-role choreography (Composer/Arranger/Conductor) without re-planning latency; RSS 2026.
+- [[mimosa-framework-toward-evolving-multi-agent-systems-for-scientific-research-2603.28986]] — Mimosa: Evolving Multi-Agent Workflows via Meta-Orchestration — first self-improving multi-agent framework that synthesizes and refines task-specific workflows through experimental feedback; MCP-based dynamic tool discovery; LLM-judge feedback loop drives workflow evolution.
+
 **2026-07-01 — Run 161) — 3-axis AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK discovery**
 
 - [[scaling-the-horizon-not-the-parameters-reaching-trillion-parameter-performance-with-a-35b-agent-2606.30616]] — Scaling the Horizon: 35B MoE achieving trillion-parameter-level performance by scaling agent horizon (long-horizon trajectories + heterogeneous agent abilities) — first agent-horizon-scaling paper in the wiki.

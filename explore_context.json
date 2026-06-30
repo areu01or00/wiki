@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T12:00:00.000000+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 161,
-  "last_explore": "2026-07-01T11:30:00.000000+00:00",
-  "last_global_explore": "2026-07-01T11:30:00.000000+00:00",
-  "last_discovery": "2026-07-01T11:30:00.000000+00:00",
-  "last_run_framing": "METACOGNITIVE SELF-MONITORING + SELF-TRAINING COLLAPSE + INTROSPECTION ADAPTERS discovery",
-  "last_framing": "METACOGNITIVE SELF-MONITORING + SELF-TRAINING",
-  "last_run_notes": "Run 160: Self-Improvement Can Self-Regress (2606.21090) + Introspection Adapters (2604.16812) + Uncertainty Quantification in LLM Agents (2602.05073)",
+  "last_run": 162,
+  "last_explore": "2026-06-30T04:15:05.679789+00:00",
+  "last_global_explore": "2026-06-30T04:15:05.679789+00:00",
+  "last_discovery": "2026-06-30T04:15:05.679789+00:00",
+  "last_run_framing": "agentic-planning-orchestration / benchmark-noise-floor / evolving-workflow-synthesis",
+  "last_framing": "AGENTIC-PLANNING-ORCHESTRATION",
+  "last_run_notes": "Run 162: How Much Coordination Gain (2606.20695) + AgentChord (2605.11951) + Mimosa (2603.28986)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search + web_search",
+  "last_run_method": "web_search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 496,
+  "entities_count": 499,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5662,6 +5662,30 @@
       "url": "https://arxiv.org/abs/2606.10156",
       "discovered": "2026-07-01T12:00:00.000000+00:00",
       "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK"
+    },
+    {
+      "arxiv_id": "2606.20695",
+      "title": "How Much Coordination Gain Is Real? A Paired Noise-Floor Protocol for Multi-Agent LLM Benchmarks",
+      "slug": "how-much-coordination-gain-is-real-a-paired-noise-floor-protocol-for-multi-agent-llm-benchmarks-2606.20695",
+      "url": "https://arxiv.org/abs/2606.20695",
+      "discovered": "2026-06-30T04:15:05.679789+00:00",
+      "theme": "agentic-planning-orchestration / benchmark-noise-floor / evolving-workflow-synthesis"
+    },
+    {
+      "arxiv_id": "2605.11951",
+      "title": "From Reaction to Anticipation: Proactive Failure Recovery through Agentic Task Graph for Robotic Manipulation",
+      "slug": "from-reaction-to-anticipation-proactive-failure-recovery-through-agentic-task-graph-for-robotic-manipulation-2605.11951",
+      "url": "https://arxiv.org/abs/2605.11951",
+      "discovered": "2026-06-30T04:15:05.679789+00:00",
+      "theme": "agentic-planning-orchestration / benchmark-noise-floor / evolving-workflow-synthesis"
+    },
+    {
+      "arxiv_id": "2603.28986",
+      "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
+      "slug": "mimosa-framework-toward-evolving-multi-agent-systems-for-scientific-research-2603.28986",
+      "url": "https://arxiv.org/abs/2603.28986",
+      "discovered": "2026-06-30T04:15:05.679789+00:00",
+      "theme": "agentic-planning-orchestration / benchmark-noise-floor / evolving-workflow-synthesis"
     }
   ],
   "emergent_discoveries": [
@@ -9382,6 +9406,30 @@
       "url": "https://arxiv.org/abs/2606.10156",
       "discovered": "2026-07-01T12:00:00.000000+00:00",
       "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK"
+    },
+    {
+      "arxiv_id": "2606.20695",
+      "title": "How Much Coordination Gain Is Real? A Paired Noise-Floor Protocol for Multi-Agent LLM Benchmarks",
+      "slug": "how-much-coordination-gain-is-real-a-paired-noise-floor-protocol-for-multi-agent-llm-benchmarks-2606.20695",
+      "url": "https://arxiv.org/abs/2606.20695",
+      "discovered": "2026-06-30T04:15:05.679789+00:00",
+      "theme": "agentic-planning-orchestration / benchmark-noise-floor / evolving-workflow-synthesis"
+    },
+    {
+      "arxiv_id": "2605.11951",
+      "title": "From Reaction to Anticipation: Proactive Failure Recovery through Agentic Task Graph for Robotic Manipulation",
+      "slug": "from-reaction-to-anticipation-proactive-failure-recovery-through-agentic-task-graph-for-robotic-manipulation-2605.11951",
+      "url": "https://arxiv.org/abs/2605.11951",
+      "discovered": "2026-06-30T04:15:05.679789+00:00",
+      "theme": "agentic-planning-orchestration / benchmark-noise-floor / evolving-workflow-synthesis"
+    },
+    {
+      "arxiv_id": "2603.28986",
+      "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
+      "slug": "mimosa-framework-toward-evolving-multi-agent-systems-for-scientific-research-2603.28986",
+      "url": "https://arxiv.org/abs/2603.28986",
+      "discovered": "2026-06-30T04:15:05.679789+00:00",
+      "theme": "agentic-planning-orchestration / benchmark-noise-floor / evolving-workflow-synthesis"
     }
   ],
   "emergent_concept_search_log": [
@@ -14609,6 +14657,31 @@
         "2606.10156"
       ],
       "theme": "AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK discovery"
+    },
+    {
+      "run_number": 162,
+      "timestamp": "2026-06-30T04:15:05.679789+00:00",
+      "papers_added": 3,
+      "theme": "agentic-planning-orchestration / benchmark-noise-floor / evolving-workflow-synthesis",
+      "picks": [
+        {
+          "arxiv_id": "2606.20695",
+          "title": "How Much Coordination Gain Is Real? A Paired Noise-Floor Protocol for Multi-Agent LLM Benchmarks",
+          "slug": "how-much-coordination-gain-is-real-a-paired-noise-floor-protocol-for-multi-agent-llm-benchmarks-2606.20695"
+        },
+        {
+          "arxiv_id": "2605.11951",
+          "title": "From Reaction to Anticipation: Proactive Failure Recovery through Agentic Task Graph for Robotic Manipulation",
+          "slug": "from-reaction-to-anticipation-proactive-failure-recovery-through-agentic-task-graph-for-robotic-manipulation-2605.11951"
+        },
+        {
+          "arxiv_id": "2603.28986",
+          "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
+          "slug": "mimosa-framework-toward-evolving-multi-agent-systems-for-scientific-research-2603.28986"
+        }
+      ],
+      "method": "web_search",
+      "last_run_framing": "AGENTIC-PLANNING-ORCHESTRATION + BENCHMARK NOISE-FLOOR + EVOLVING-WORKFLOW-SYNTHESIS discovery (Rule 102)"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
