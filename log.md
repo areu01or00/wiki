@@ -1,3 +1,11 @@
+
+Explore: 2026-06-30T10:30 UTC — Run 158: CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS (arxiv HTML search + web_search; 12 fresh candidates from 113 IDs; 3 structurally orthogonal picks)
+- 2606.16920: Demystifying Variance in Circuit Discovery of LLMs (circuit-level MI methodology)
+- 2604.00130: Hierarchical Chain-of-Thought Prompting (structured reasoning)
+- 2603.19685: A Subgoal-driven Framework for Improving Long-Horizon LLM Agents (agent planning)
+- entities_count: 484 reconciled (481 + 3 new)
+- all wikilinks verified (3 wikilinks across 3 files, all resolve)
+
 Explore: 2026-06-29T22:30 UTC — Run 132 INFRASTRUCTURE-SAFETY-PROBE (Rule 88): Environment-Injected Memory Poisoning (2604.02623) + Resource Consumption Threats (2603.16068) + Long-Term State Poisoning (2605.06731)
 Explore: 2026-06-29T23:55 UTC — Run 140 — EMERGENT-CONCEPT-SEARCH (arxiv HTML search 4-query planning/reasoning/LLM integration; 20 fresh candidates from 45 IDs; 3 LLM-keyword-matched picks: Perfect Detection Failed Control + Forecasting Leaderboards Deployment + Teach-to-Reason)
 - 3 picks: Perfect Detection Failed Control (2606.24952) + Forecasting Leaderboards Deployment Decisions (2606.24996) + Teach-to-Reason (2606.25407)
