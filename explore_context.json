@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-07-01T07:00:00+00:00",
-  "last_run": 151,
-  "last_explore": "2026-07-01T06:00:00+00:00",
+  "__last_updated": "2026-07-01T08:00:00+00:00",
+  "last_run": 153,
+  "last_explore": "2026-07-01T08:00:00+00:00",
   "last_global_explore": "2026-07-01T04:30:00+00:00",
   "last_discovery": "2026-07-01T05:30:00+00:00",
-  "last_run_framing": "LEARNABLE-LATENT-MEMORY + INTERACTIVE-SELF-EVOLUTION + EMBODIED-SPATIAL-MEMORY",
-  "last_framing": "KNOWLEDGE-RETENTION + LONG-CONTEXT-FORGING + MULTILINGUAL-UNLEARNING DISCOVERY",
-  "last_run_notes": "Run 150: LEARNABLE-LATENT-MEMORY + INTERACTIVE-SELF-EVOLUTION + EMBODIED-SPATIAL-MEMORY: ElasticMem + TabClaw + HoloAgent-0",
+  "last_run_framing": "ADVERSARIAL-AGENTIC-FAILURE discovery",
+  "last_framing": "ADVERSARIAL-AGENTIC-FAILURE",
+  "last_run_notes": "Run 153: ADVERSARIAL-AGENTIC-FAILURE: Goal-Autopilot + Malicious-Skill-Detection + Tool-Description-Poisoning",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 463,
+  "entities_count": 469,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5386,6 +5386,33 @@
       "title": "Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs",
       "slug": "draft-thinking-learning-efficient-reasoning-in-long-chain-of-thought-llms-2603.00578",
       "url": "https://arxiv.org/abs/2603.00578"
+    },
+    {
+      "arxiv_id": "2606.20922",
+      "slug": "think-twice-before-you-act-protecting-llm-agents-against-tool-description-poisoning-via-isolated-planning-2606.20922",
+      "title": "Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning",
+      "url": "https://arxiv.org/abs/2606.20922",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T08:00:00+00:00",
+      "theme": "agent security / adversarial agentic failure"
+    },
+    {
+      "arxiv_id": "2606.23416",
+      "slug": "detecting-malicious-agent-skills-in-the-wild-using-attention-2606.23416",
+      "title": "Detecting Malicious Agent Skills in the Wild using Attention",
+      "url": "https://arxiv.org/abs/2606.23416",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T08:00:00+00:00",
+      "theme": "agent security / adversarial agentic failure"
+    },
+    {
+      "arxiv_id": "2606.11688",
+      "slug": "goal-autopilot-a-verifiable-anti-fabrication-firewall-for-unattended-long-horizon-agents-2606.11688",
+      "title": "Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2606.11688",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T08:00:00+00:00",
+      "theme": "agent security / adversarial agentic failure"
     }
   ],
   "emergent_discoveries": [
@@ -8914,6 +8941,30 @@
       "url": "https://arxiv.org/abs/2603.00578",
       "discovered": "2026-06-30",
       "theme": "LLM INFERENCE EFFICIENCY"
+    },
+    {
+      "arxiv_id": "2606.20922",
+      "title": "Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning",
+      "slug": "think-twice-before-you-act-protecting-llm-agents-against-tool-description-poisoning-via-isolated-planning-2606.20922",
+      "url": "https://arxiv.org/abs/2606.20922",
+      "discovered": "2026-07-01T08:00:00+00:00",
+      "theme": "agent security / adversarial agentic failure"
+    },
+    {
+      "arxiv_id": "2606.23416",
+      "title": "Detecting Malicious Agent Skills in the Wild using Attention",
+      "slug": "detecting-malicious-agent-skills-in-the-wild-using-attention-2606.23416",
+      "url": "https://arxiv.org/abs/2606.23416",
+      "discovered": "2026-07-01T08:00:00+00:00",
+      "theme": "agent security / adversarial agentic failure"
+    },
+    {
+      "arxiv_id": "2606.11688",
+      "title": "Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents",
+      "slug": "goal-autopilot-a-verifiable-anti-fabrication-firewall-for-unattended-long-horizon-agents-2606.11688",
+      "url": "https://arxiv.org/abs/2606.11688",
+      "discovered": "2026-07-01T08:00:00+00:00",
+      "theme": "agent security / adversarial agentic failure"
     }
   ],
   "emergent_concept_search_log": [
@@ -14009,6 +14060,17 @@
         "2603.00578"
       ],
       "rule": "Rule 96: LLM-INFERENCE-EFFICIENCY-PROBE"
+    },
+    {
+      "run_number": 153,
+      "date": "2026-07-01",
+      "papers": [
+        "2606.20922",
+        "2606.23416",
+        "2606.11688"
+      ],
+      "theme": "ADVERSARIAL-AGENTIC-FAILURE",
+      "rule": "Rule 92: ADVERSARIAL-AGENTIC-FAILURE-PROBE"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
