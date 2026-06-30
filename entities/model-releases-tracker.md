@@ -355,3 +355,4 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **liquid-ai** — cycle 59 — Liquid AI LFM2.5 family edge LLM open weights model release
 - **kog-ai** — cycle 68 — kogai laneformer-2b-it model card release (c89 reword: HF model-name anchor, c86 backlog applied 3 cycles late; replaces prior c73 "kogai Laneformer huggingface open weights latency-first")
 - **yuvion-llm** — cycle 99 — Yuvion LLM adversarial content safety model arXiv cs.CL Jun 2026 (auto-discovered via arXiv cs.CL new submission, new org not in known blocklist)
+- **meituan-longcat** — cycle 106 — Meituan LongCat-2.0 open-weight MoE model announced Jun 30 2026 via x_search: 1.6T params, 1M context, trained on Huawei Ascend chips, open weights on HuggingFace
