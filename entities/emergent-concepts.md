@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 188) — ON-POLICY DISTILLATION STALENESS / THRESHOLD-FREE KV CACHE / VIDEO TEMPORAL-LOGICAL REASONING BENCHMARK**
+
+- [[asyncopd-how-stale-can-on-policy-distillation-be-2606.24143]] — AsyncOPD: First systematic study of stale-policy data effects in on-policy distillation for LLMs; asynchronous OPD pipelines decouple rollout generation from learner updates but introduce staleness; reasoning-heavy workloads suffer more from staleness than knowledge tasks; first empirical tradeoff curve for OPD staleness-quality in the wiki; 2606.24143.
+- [[video-mme-logical-a-controlled-diagnostic-benchmark-for-video-temporal-logical-reasoning-2606.27828]] — Video-MME-Logical: First controlled benchmark isolating video temporal-logical reasoning from scene complexity; disentangles temporal-logical reasoning from static scene recognition in MLLMs; GPT-4V/Gemini significantly underperform humans even at near-perfect scene recognition; first controlled video temporal-logical reasoning benchmark in the wiki; 2606.27828.
+- [[refreekv-towards-threshold-free-kv-cache-compression-2502.16886]] — ReFreeKV: Threshold-free KV cache compression using content-adaptive eviction based on accumulated attention contribution; no task-specific hyperparameter tuning; lossless compression on diverse open-domain benchmarks; first threshold-free adaptive KV cache compression in the wiki; 2502.16886.
+
 **2026-07-02 — Run 187) — RLHF STABILITY / REWARD MODELING UNDER UNCERTAINTY / AGENTIC ABSTENTION**
 
 - [[when-rlhf-fails-mechanistic-taxonomy-reward-hacking-collapse-evaluator-gaming-2606.03238]] — When RLHF Fails: First mechanistic taxonomy of RLHF failure modes as training-dynamics phenomena (not just final-model pathologies); classifies reward hacking, collapse, and evaluator gaming across PPO/DPO/UP-PPO; localized reward hacking detected where checkpoint averages miss; pre-transition logistic model predicts future hacking (ROC-AUC 0.821); UP-PPO reduces localized hacking to 10.94% vs PPO's 14.45%; 2606.03238.
