@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-29T19:06:28.349779+00:00",
-  "__last_updated": "2026-07-01T04:30:00+00:00",
-  "last_run": 147,
+  "__last_updated": "2026-07-01T05:00:00+00:00",
+  "last_run": 148,
   "last_explore": "2026-07-01T04:30:00+00:00",
   "last_global_explore": "2026-07-01T04:30:00+00:00",
-  "last_discovery": "2026-07-01T04:30:00+00:00",
-  "last_run_framing": "FINE-TUNING-SAFETY + INTERPRETABILITY-SYCOPHANCY + BEHAVIORAL-SAFETY DISCOVERY",
-  "last_framing": "AGENT-SAFETY-EVALUATION-GOVERNANCE: Adaptive Out-of-Band Defenses + Encoder vs Decoder Safety Judges + Geographic Bias in Governance AI",
-  "last_run_notes": "Run 146: AGENT-SAFETY-EVALUATION-GOVERNANCE DISCOVERY: Adaptive Out-of-Band Defenses + Encoder vs Decoder Safety Judges + Geographic Bias in Governance AI",
+  "last_discovery": "2026-07-01T05:00:00+00:00",
+  "last_run_framing": "AGENTIC-PLANNING + SKILL-ROUTING + PERSONALIZED-PLANNING DISCOVERY",
+  "last_framing": "AGENTIC-PLANNING + SKILL-ROUTING + PERSONALIZED-PLANNING DISCOVERY",
+  "last_run_notes": "Run 148: AGENTIC-PLANNING + SKILL-ROUTING + PERSONALIZED-PLANNING DISCOVERY: HIPIF + SkillWeaver + PersonalPlan",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-HF-daily-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agent-memory / security",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 451,
+  "entities_count": 454,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8782,6 +8782,36 @@
       "url": "https://arxiv.org/abs/2606.26982",
       "discovered": "2026-07-01T04:30:00+00:00",
       "theme": "behavioral safety / framing sensitivity / mental health AI / deployment evaluation"
+    },
+    {
+      "arxiv_id": "2606.10507",
+      "title": "HIPIF: Hierarchical Planning and Information Folding for Long-Horizon LLM Agent Learning",
+      "slug": "hipif-hierarchical-planning-and-information-folding-for-long-horizon-llm-agent-learning-2606.10507",
+      "url": "https://arxiv.org/abs/2606.10507",
+      "discovered": "2026-07-01T05:00:00+00:00",
+      "theme": "agentic planning / long-horizon / hierarchical-reinforcement-learning",
+      "run_number": 148,
+      "rule": "Rule 94 PLANNING-DECOMPOSITION-PROBE"
+    },
+    {
+      "arxiv_id": "2606.18051",
+      "title": "Compositional Skill Routing for LLM Agents: Decompose, Retrieve, and Compose",
+      "slug": "compositional-skill-routing-for-llm-agents-decompose-retrieve-and-compose-2606.18051",
+      "url": "https://arxiv.org/abs/2606.18051",
+      "discovered": "2026-07-01T05:00:00+00:00",
+      "theme": "skill routing / tool-use / retrieval-augmented-compositional-planning",
+      "run_number": 148,
+      "rule": "Rule 94 PLANNING-DECOMPOSITION-PROBE"
+    },
+    {
+      "arxiv_id": "2606.18633",
+      "title": "PersonalPlan: Planning Multi-Agent Systems for Personalized Programming Learning",
+      "slug": "personalplan-planning-multi-agent-systems-for-personalized-programming-learning-2606.18633",
+      "url": "https://arxiv.org/abs/2606.18633",
+      "discovered": "2026-07-01T05:00:00+00:00",
+      "theme": "multi-agent planning / personalization / education / programming",
+      "run_number": 148,
+      "rule": "Rule 94 PLANNING-DECOMPOSITION-PROBE"
     }
   ],
   "emergent_concept_search_log": [
@@ -13753,6 +13783,18 @@
       ],
       "theme": "FINE-TUNING-SAFETY + INTERPRETABILITY-SYCOPHANCY + BEHAVIORAL-SAFETY",
       "method": "arxiv HTML search 4-query (safety/alignment/robustness/red teaming)"
+    },
+    {
+      "run": 148,
+      "date": "2026-07-01T05:00:00+00:00",
+      "papers_added": 3,
+      "arxiv_ids": [
+        "2606.10507",
+        "2606.18051",
+        "2606.18633"
+      ],
+      "theme": "AGENTIC-PLANNING + SKILL-ROUTING + PERSONALIZED-PLANNING DISCOVERY",
+      "method": "arxiv HTML search 4-query PLANNING-DECOMPOSITION-PROBE"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
@@ -13862,7 +13904,7 @@
   "last_run_summary": "AutoPass (compiler-tuning agent) + Beyond FLOPs (FLOPs-latency gap) + TwinQuant (learnable subspace quantization)",
   "last_watched": "2026-06-29T10:30:00+00:00",
   "last_run_pitfalls": [],
-  "last_run_theme": "LLM-INFERENCE-EFFICIENCY-PROBE",
+  "last_run_theme": "AGENTIC-PLANNING + SKILL-ROUTING",
   "emergent_concept_papers_count": 372,
   "emergent_discoveries_count": 385,
   "last_run_picks_count": 3,
