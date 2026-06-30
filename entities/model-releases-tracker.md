@@ -17,6 +17,7 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-06-30** | [Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips) | kw: LongCat-2.0 1.6T weights MIT MoE | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-30** | [Meituan LongCat-2.0 1.6T Open-Weight Agentic Coding Model](https://www.longcatai.org/models/longcat-2) | kw: LongCat-2.0 1.6T MIT weights | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-30** | [Meituan Open Sources LongCat 2.0: 1.6T MoE Model — ASIC Training](https://www.explainx.ai/blog/longcat-2-0-open-source-moe-coding-agent-2026) | kw: LongCat-2.0 weights announcement | source: meituan-longcat | 🚨 WEIGHTS DROP
 - **2026-06-29** | [MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal](https://www.minimax.io/models/text/m3) | kw: MiniMax M3 frontier | source: MiniMax | 🚨 WEIGHTS DROP
