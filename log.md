@@ -2041,3 +2041,9 @@ Explore: 2026-06-30T04:30 UTC — Run 146 — EMERGENT-CONCEPT-SEARCH (arxiv HTM
 - 3 picks: Adaptive Evaluation Out-of-Band Defenses (2606.26479) + Do Encoders Suffice (2606.25782) + Benchmarking Open-Weight Foundation Models Governance (2606.26099)
 - entities_count: 448 reconciled (445 + 3 new)
 - all wikilinks verified (9 total across 3 files, all resolve)
+Explore: 2026-07-01T09:00 UTC — Run 154 — METACOGNITIVE-SELF-AWARENESS discovery (KAPRO + RePro + Mechanisms of Introspective Awareness)
+- Theme: METACOGNITIVE-SELF-AWARENESS — self-awareness benchmarking, progress-aware training, and mechanistic introspection
+- 3 picks: KAPRO (2606.20661) + RePro (2606.14302) + Mechanisms of Introspective Awareness (2603.21396)
+- entities_count: 472 reconciled (469 + 3 new)
+- all wikilinks verified (9 total across 3 files, all resolve)
+
