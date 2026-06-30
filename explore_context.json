@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-06-30T00:00:00+00:00",
-  "last_run": 225,
+  "last_run": 226,
   "last_explore": "2026-07-04T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-04",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "test-time compute efficiency / KV-cache optimization / RLVR training efficiency / CoT reasoning",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 687,
+  "entities_count": 690,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6955,7 +6955,10 @@
       "url": "https://arxiv.org/abs/2605.26132",
       "discovered": "2026-06-30T22:05:21+00:00",
       "theme": "self-improvement / distillation / post-training"
-    }
+    },
+    "2606.01336",
+    "2605.22137",
+    "2512.01457"
   ],
   "emergent_discoveries": [
     {
@@ -12137,6 +12140,30 @@
       "url": "https://arxiv.org/abs/2605.26132",
       "discovered": "2026-06-30T22:05:21+00:00",
       "theme": "self-improvement / distillation"
+    },
+    {
+      "arxiv_id": "2606.01336",
+      "title": "LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning",
+      "slug": "2606.01336",
+      "url": "https://arxiv.org/abs/2606.01336",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "long-context / context-compression"
+    },
+    {
+      "arxiv_id": "2605.22137",
+      "title": "Cross-Lingual Consensus: Aligning Multilingual Cultural Knowledge via Multilingual Self-Consistency",
+      "slug": "2605.22137",
+      "url": "https://arxiv.org/abs/2605.22137",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "multilingual / cross-lingual / cultural"
+    },
+    {
+      "arxiv_id": "2512.01457",
+      "title": "Zero-Overhead Introspection for Adaptive Test-Time Compute",
+      "slug": "2512.01457",
+      "url": "https://arxiv.org/abs/2512.01457",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "introspection / test-time-compute / meta-cognition"
     }
   ],
   "emergent_concept_search_log": [
@@ -14962,6 +14989,15 @@
       ],
       "framing": "Reward-Induced Manifold Collapse via outcome-based RL information shortcut / Scientific Amnesia in continual DPO / Multi-Role Executive Benchmark for strategic reasoning",
       "notes": "arxiv HTML 4-query escape hatch (reasoning failure mode / calibration / knowledge editing) returned 129 fresh IDs; HF pool contributed 17 LLM candidates; 3 structurally orthogonal picks selected."
+    },
+    {
+      "date": "2026-07-04T00:00:00+00:00",
+      "theme": "introspection / cross-lingual / long-context",
+      "papers_found": [
+        "2606.01336",
+        "2605.22137",
+        "2512.01457"
+      ]
     }
   ],
   "runs": [
@@ -18312,6 +18348,17 @@
       ],
       "vector": "emergent-concepts",
       "chains": []
+    },
+    {
+      "date": "2026-07-04T00:00:00+00:00",
+      "theme": "INTROSPECTION / CROSS-LINGUAL CULTURAL CONSENSUS / LONG-CONTEXT COMPRESSION",
+      "picks": [
+        "2606.01336",
+        "2605.22137",
+        "2512.01457"
+      ],
+      "vector": "emergent-concepts",
+      "chain": "emergent-concepts"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

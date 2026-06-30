@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 226) — INTROSPECTION / CROSS-LINGUAL CULTURAL CONSENSUS / LONG-CONTEXT COMPRESSION**
+
+- [[longattncomp-cross-family-context-compression-for-long-context-reasoning-2606.01336]]
+  LongAttnComp: Cross-family context compression for long-context reasoning that fine-tunes a lightweight cross-attention scoring layer with token-level chunking and token-budget top-p algorithm, achieving better accuracy-efficiency tradeoffs than training-free methods on 100k+ token inputs. **First cross-family context compression paper in the wiki.**
+
+- [[cross-lingual-consensus-aligning-multilingual-cultural-knowledge-via-multilingual-self-consistency-2605.22137]]
+  Cross-Lingual Consensus: First diagnosis of Western-centric bias as a cross-lingual retrieval problem — LLMs have rich cultural knowledge in non-English representations but English prompts block access. Multilingual self-consistency voting across 15 languages surfaces global cultural consensus. **First cross-lingual cultural consensus paper in the wiki.**
+
+- [[2512.01457]]
+  Zero-Overhead Introspection: First zero-overhead introspection framework for LLMs — a small probing head (1-3% parameters) predicts task success from hidden states during generation, enabling adaptive test-time compute without auxiliary models or extra tokens. **First zero-overhead introspection / adaptive test-time compute paper in the wiki.**
+
 **2026-07-04 — Run 225) — REASONING EFFICIENCY / AGENT MEMORY / SELF-DISTILLATION**
 
 - [[stop-when-further-reasoning-won't-help-attention-state-adaptive-generation-in-reasoning-models-2606.15070]]
