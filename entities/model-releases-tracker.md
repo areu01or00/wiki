@@ -18,6 +18,27 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-06-30** | [MiniMax M3 : NVFP4 for Quad DGX Spark - NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/minimax-m3-nvfp4-for-quad-dgx-spark/372123) | kw: MiniMax | source: MiniMax | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Data Story: How MiniMax M3 Reversed Its Own Engineering Decision](https://kili-technology.com/blog/data-story-minimax-m3) | kw: MiniMax | source: MiniMax | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Claude Sonnet 5 | Hacker News](https://news.ycombinator.com/item?id=48736605) | kw: anthropic-releases | source: anthropic-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [DeepSeek AI Blog (2026)](https://deepseek.ai/blog) | kw: deepseek-releases | source: deepseek-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [The Complete Guide to DeepSeek Models: V3, R1, V4 and Beyond](https://www.bentoml.com/blog/the-complete-guide-to-deepseek-models-from-v3-to-r1-and-beyond) | kw: deepseek-releases | source: deepseek-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Ant Group Unveils Ling AI Model Family](https://via.tt.se/pressmeddelande/4091990/ant-group-unveils-ling-ai-model-family-and-launches-trillion-parameter-language-model-ling-1t) | kw: inclusion-ai | source: inclusion-ai | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [CoreWeave Leads on Artificial Analysis for Kimi K2.7 Code Inference](https://www.coreweave.com/blog/kimi-k2-7-code-now-available-on-serverless-inference-with-leading-benchmark-price-performance) | kw: kimi-releases | source: kimi-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Kimi K2.7 Code - API, Specs, Playground & Pricing](https://developer.puter.com/ai/moonshotai/kimi-k2.7-code/) | kw: kimi-releases | source: kimi-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Download Krea AI App | Krea AI](https://kreaai.app/download) | kw: krea | source: krea | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Krea AI - The Most Powerful AI Suite for Creatives](https://krea-ai.online/) | kw: krea | source: krea | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Liquid Definition, Behavior, Examples, Properties, and Types](www.chemistrylearner.com/liquid.html) | kw: liquid-ai | source: liquid-ai | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [LLM Rankings June 2026: Fable 5 Is #1 and Offline](https://awesomeagents.ai/leaderboards/overall-llm-rankings-jun-2026/) | kw: llm-stats-updates | source: llm-stats-updates | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [LLM Leaderboard 2026 - Rank & Compare 100+ AI Models](https://whatllm.org/explore) | kw: llm-stats-updates | source: llm-stats-updates | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Meta Llama 4 Ultimate Capabilities Cheatsheet — AI Mindset](https://www.ai-mindset.ai/meta-llama-cheatsheet) | kw: meta-llama-releases | source: meta-llama-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Models Overview - Mistral Docs](https://docs.mistral.ai/models/overview) | kw: mistral-releases | source: mistral-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Changelog | Mistral Docs](https://docs.mistral.ai/resources/changelogs) | kw: mistral-releases | source: mistral-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Qwen Versions — every Alibaba Qwen and Tongyi Qianwen release](https://mungomash.com/ai/qwen/versions/) | kw: qwen-releases | source: qwen-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [Qwen 3 Full Model Lineup Guide 2026: 0.6B to 72B](https://baeseokjae.github.io/posts/qwen-3-full-lineup-guide-2026/) | kw: qwen-releases | source: qwen-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [SAKANA SUSHI | ALL YOU CAN EAT SUSHI - DRAGON FACTORY](https://www.dragonfactories.com/sakana) | kw: sakana-releases | source: sakana-releases | 📣 OFFICIAL ANNOUNCEMENT
+
+
 - **2026-06-30** | [Where are Qwen3.7 open weights models?](https://www.reddit.com/r/Qwen_AI/comments/1uim6wm/where_are_qwen37_open_weights_models/) | kw: Qwen3.7 open weights community Jun 2026 | source: qwen-releases | 🚨 WEIGHTS DROP
 - **2026-06-30** | [Moonshot AI Kimi: Bold Ambition with Controlled Expansion](https://www.36kr.com/b/1131027613397376) | kw: Kimi Moonshot AI business expansion Jun 2026 | source: kimi-releases | 📣 OFFICIAL ANNOUNCEMENT
 - **2026-06-30** | [LLM Leaderboard 2026 — Compare 270 AI Models Across 249 Benchmarks](https://openrouter.ai/models) | kw: LLM Leaderboard 2026 270 models 249 benchmarks | source: llm-stats-updates | 📄 BENCHMARK/PAPER
