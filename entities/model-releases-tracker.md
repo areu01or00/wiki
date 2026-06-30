@@ -18,6 +18,12 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-06-30** | [Where are Qwen3.7 open weights models?](https://www.reddit.com/r/Qwen_AI/comments/1uim6wm/where_are_qwen37_open_weights_models/) | kw: Qwen3.7 open weights community Jun 2026 | source: qwen-releases | 🚨 WEIGHTS DROP
+- **2026-06-30** | [Moonshot AI Kimi: Bold Ambition with Controlled Expansion](https://www.36kr.com/b/1131027613397376) | kw: Kimi Moonshot AI business expansion Jun 2026 | source: kimi-releases | 📣 OFFICIAL ANNOUNCEMENT
+- **2026-06-30** | [LLM Leaderboard 2026 — Compare 270 AI Models Across 249 Benchmarks](https://openrouter.ai/models) | kw: LLM Leaderboard 2026 270 models 249 benchmarks | source: llm-stats-updates | 📄 BENCHMARK/PAPER
+- **2026-06-30** | [Grok 4.5 Review: xAI's 1.5T V9 Model Explained (Beta, June 2026)](https://technixide.com/grok-4-5/) | kw: Grok 4.5 V9 review beta June 2026 | source: xai-releases | 📄 BENCHMARK/PAPER
+- **2026-06-30** | [Elon Musk says Grok is getting even smarter](https://www.instagram.com/p/DGrZxZRhSVe/) | kw: Grok smarter xAI update Jun 2026 | source: xai-releases | 📣 OFFICIAL ANNOUNCEMENT
+
 
 - **2026-06-30** | [Kog Inference launches Laneformer 2B, delivering 3,000 tokens per second on MI300X](https://www.kog.ai/blog/laneformer-2b-launch) | kw: kog-ai | source: kog-ai
 - **2026-06-30** | [LLM News Today (June 2026) – AI Model Releases - LLM Stats](https://llm-stats.com/ai-news) | kw: llm-stats-updates | source: llm-stats-updates
