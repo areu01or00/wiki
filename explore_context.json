@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 202,
+  "last_run": 203,
   "last_explore": "2026-06-30T15:45:00.000000+00:00",
   "last_global_explore": "2026-06-30T15:45:00.000000+00:00",
   "last_discovery": "2026-06-30+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "gui-grounding / world-modeling / test-time-compute",
   "emergent_theme": "gui-grounding-world-modeling-test-time-compute",
   "chains_updated": 0,
-  "entities_count": 619,
+  "entities_count": 622,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6592,7 +6592,10 @@
       "url": "https://arxiv.org/abs/2604.04373",
       "discovered": "2026-06-30T15:45:00.000000+00:00",
       "theme": "gui-grounding-world-modeling-test-time-compute"
-    }
+    },
+    "2606.00674",
+    "2606.21089",
+    "2606.17459"
   ],
   "emergent_discoveries": [
     {
@@ -11245,6 +11248,30 @@
       "url": "https://arxiv.org/abs/2604.04373",
       "discovered": "2026-06-30T15:45:00.000000+00:00",
       "theme": "gui-grounding-world-modeling-test-time-compute"
+    },
+    {
+      "arxiv_id": "2606.00674",
+      "title": "The Paradox of Outcome Optimization: A Causal Information-Theoretic Bound on Reasoning Shortcuts in LLMs",
+      "slug": "paradox-outcome-optimization-reasoning-shortcuts-llms-2606.00674",
+      "url": "https://arxiv.org/abs/2606.00674",
+      "discovered": "2026-06-30T16:15:00.000000+00:00",
+      "theme": "reasoning-shortcut-RL-alignment"
+    },
+    {
+      "arxiv_id": "2606.21089",
+      "title": "Repeated post-training is not Self-improving: Diagnosing Scientific Amnesia in Continual DPO Pipelines",
+      "slug": "repeated-post-training-not-self-improving-scientific-amnesia-dpo-2606.21089",
+      "url": "https://arxiv.org/abs/2606.21089",
+      "discovered": "2026-06-30T16:15:00.000000+00:00",
+      "theme": "continual-DPO-self-training-failure"
+    },
+    {
+      "arxiv_id": "2606.17459",
+      "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
+      "slug": "can-llms-be-ceos-benchmarking-strategic-resource-reallocation-multi-role-2606.17459",
+      "url": "https://arxiv.org/abs/2606.17459",
+      "discovered": "2026-06-30T16:15:00.000000+00:00",
+      "theme": "LLM-executive-strategic-benchmark"
     }
   ],
   "emergent_concept_search_log": [
@@ -14056,6 +14083,20 @@
       ],
       "framing": "LLM metacognition evaluation / weakly-supervised grounding / LLM-as-judge long-form bias",
       "notes": "Rule 101 INTERNAL SELF-SUPERVISION continuation \u2014 picked introspection eval orthogonal to Rule 101 internal-self-supervision axis from Run 160. GUICrafter orthogonal to Run 193 GUI-agent axis. LLM-as-judge long-form eval orthogonal to Run 189 LLM-judge axis."
+    },
+    {
+      "run": 203,
+      "timestamp": "2026-06-30T16:15:00+00:00",
+      "theme": "REASONING SHORTCUTS / CONTINUAL DPO FAILURE / EXECUTIVE STRATEGIC BENCHMARK",
+      "method": "HF daily + arxiv HTML + web_search emergent-concept-discovery",
+      "papers_added": 3,
+      "paper_ids": [
+        "2606.00674",
+        "2606.21089",
+        "2606.17459"
+      ],
+      "framing": "Reward-Induced Manifold Collapse via outcome-based RL information shortcut / Scientific Amnesia in continual DPO / Multi-Role Executive Benchmark for strategic reasoning",
+      "notes": "arxiv HTML 4-query escape hatch (reasoning failure mode / calibration / knowledge editing) returned 129 fresh IDs; HF pool contributed 17 LLM candidates; 3 structurally orthogonal picks selected."
     }
   ],
   "runs": [
@@ -17101,6 +17142,19 @@
       ],
       "framing": "single-forward GUI grounding / action-conditioned world model dynamics / test-time context augmentation",
       "last_run": "2026-06-30T15:45:00.000000+00:00"
+    },
+    {
+      "run": 203,
+      "theme": "reasoning shortcuts / continual DPO failure / executive strategic benchmark",
+      "date": "2026-06-30",
+      "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
+      "picks": [
+        "2606.00674",
+        "2606.21089",
+        "2606.17459"
+      ],
+      "framing": "reward-induced manifold collapse / scientific amnesia / multi-role executive benchmark",
+      "last_run": "2026-06-30T16:15:00.000000+00:00"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

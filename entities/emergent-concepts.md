@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 203) — REASONING SHORTCUTS / CONTINUAL DPO FAILURE / EXECUTIVE STRATEGIC BENCHMARK**
+
+- [[paradox-outcome-optimization-reasoning-shortcuts-llms-2606.00674]]
+  The Paradox of Outcome Optimization: First causal information-theoretic analysis of Reward-Induced Manifold Collapse — proves outcome-based RL creates an information shortcut between reward signal and reasoning chain, preventing compositional generalization; process-based rewards overcome this.
+
+- [[repeated-post-training-not-self-improving-scientific-amnesia-dpo-2606.21089]]
+  Scientific Amnesia: First systematic documentation of a new failure mode in continual DPO pipelines — preserves old capabilities while degrading new task acquisition efficiency; KL divergence between reference and post-DPO policy is the key predictor; adaptive buffer reduces by 40%.
+
+- [[can-llms-be-ceos-benchmarking-strategic-resource-reallocation-multi-role-2606.17459]]
+  MREB Benchmark: First multi-role executive simulation for LLMs playing CEO/CFO/CTO/COO simultaneously — 34% performance drop when integrating conflicting recommendations vs single-role tasks; reveals positional bias and priority-weighting failures in strategic reasoning.
+
 **2026-06-30 — Run 202) — GUI GROUNDING / WORLD MODELING DYNAMICS / TEST-TIME COMPUTE**
 
 - [[one-forward-beats-two-innerzoom-for-accurate-and-efficient-gui-grounding-2606.30084]]
