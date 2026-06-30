@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:30:00.000000+00:00",
   "__last_updated": "2026-06-30T14:31:14+00:00",
-  "last_run": 213,
-  "last_explore": "2026-06-30T17:49:00.519243+00:00",
-  "last_global_explore": "2026-06-30T17:49:00.519262+00:00",
-  "last_discovery": "2026-07-02+00:00",
-  "last_run_framing": "CODING AGENT INTERACTIVE EVALUATION / MULTI-AGENT ECONOMIC BENCHMARKING / SIM-TO-REAL SCENE GENERATION",
-  "last_framing": "coding agent interactive evaluation / multi-agent economic benchmarking / sim-to-real scene generation",
-  "last_run_notes": "Run 213: SWE-Together (2606.29957) + CoffeeBench (2606.16613) + SimFoundry (2606.28276)",
+  "last_run": 214,
+  "last_explore": "2026-07-03T20:30:00.000000+00:00",
+  "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
+  "last_discovery": "2026-07-03+00:00",
+  "last_run_framing": "MULTI-AGENT REASONING AUDIT / COUNTERFACTUAL CAUSAL EXPLANATION / HIERARCHICAL DEBATE STRUCTURE",
+  "last_framing": "multi-agent reasoning audit / counterfactual causal explanation / hierarchical debate structure",
+  "last_run_notes": "Run 214: Multi-Agent Audit Framework (2606.21123) + Counterfactual Causal Graphs (2606.05972) + CHAL Hierarchical Debate (2605.12718)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML 4-query + web_search emergent-concept discovery",
+  "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "conversational safety / knowledge graph grounding / self-distillation diversity",
   "emergent_theme": "conversational-safety-knowledge-graph-grounding-self-distillation",
   "chains_updated": 0,
-  "entities_count": 651,
+  "entities_count": 654,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -6721,7 +6721,10 @@
     },
     "geometry-aware-online-scheduling-llm-serving-2606.22327",
     "multi-bitwidth-quantization-llms-additive-codebooks-2606.12876",
-    "enerinfer-energy-aware-on-device-llm-inference-2606.23001"
+    "enerinfer-energy-aware-on-device-llm-inference-2606.23001",
+    "2606.21123",
+    "2606.05972",
+    "2605.12718"
   ],
   "emergent_discoveries": [
     {
@@ -11617,6 +11620,30 @@
       "url": "https://arxiv.org/abs/2606.28276",
       "discovered": "2026-07-03T20:00:00+00:00",
       "theme": "embodied agent / sim-to-real transfer / scene generation"
+    },
+    {
+      "arxiv_id": "2606.21123",
+      "title": "A Multi-Agent Audit Framework for High-Stakes Reasoning: Evaluation and Interpretability in Clinical Mental Health Screening",
+      "slug": "a-multi-agent-audit-framework-for-high-stakes-reasoning-evaluation-and-interpret-2606.21123",
+      "url": "https://arxiv.org/abs/2606.21123",
+      "discovered": "2026-07-03",
+      "theme": "multi-agent reasoning audit"
+    },
+    {
+      "arxiv_id": "2606.05972",
+      "title": "LLM Explainability with Counterfactual Chains and Causal Graphs",
+      "slug": "llm-explainability-with-counterfactual-chains-and-causal-graphs-2606.05972",
+      "url": "https://arxiv.org/abs/2606.05972",
+      "discovered": "2026-07-03",
+      "theme": "counterfactual causal explanation"
+    },
+    {
+      "arxiv_id": "2605.12718",
+      "title": "CHAL: Council of Hierarchical Agentic Language",
+      "slug": "chal-council-of-hierarchical-agentic-language-2605.12718",
+      "url": "https://arxiv.org/abs/2605.12718",
+      "discovered": "2026-07-03",
+      "theme": "hierarchical debate structure"
     }
   ],
   "emergent_concept_search_log": [
@@ -17627,6 +17654,19 @@
       "chain": "emergent-concepts",
       "date": "2026-07-03",
       "added": 3
+    },
+    {
+      "run_number": 214,
+      "date": "2026-07-03",
+      "theme": "MULTI-AGENT REASONING AUDIT / COUNTERFACTUAL CAUSAL EXPLANATION / HIERARCHICAL DEBATE STRUCTURE",
+      "framing": "multi-agent / causal / debate",
+      "picks": [
+        "2606.21123",
+        "2606.05972",
+        "2605.12718"
+      ],
+      "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
+      "notes": "arxiv HTML search across 4 queries returned 184 fresh IDs; LLM-keyword filter + abstract inspection yielded 3 structurally orthogonal picks"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

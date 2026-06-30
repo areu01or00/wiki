@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-03 — Run 214) — MULTI-AGENT REASONING AUDIT / COUNTERFACTUAL CAUSAL EXPLANATION / HIERARCHICAL DEBATE STRUCTURE**
+
+- [[a-multi-agent-audit-framework-for-high-stakes-reasoning-evaluation-and-interpret-2606.21123]]
+  Multi-Agent Audit Framework: First multi-agent collaborative verification framework for high-stakes LLM reasoning — simulates multi-step cross-verification to detect hallucination and improve interpretability in zero-shot clinical mental health screening.
+
+- [[llm-explainability-with-counterfactual-chains-and-causal-graphs-2606.05972]]
+  Counterfactual Causal Graphs: First causal graph modeling of LLM inference itself for introspective explainability — uses counterfactual chains to reveal how LLMs organize high-level concepts during prediction; metrics independent of benchmark scores.
+
+- [[chal-council-of-hierarchical-agentic-language-2605.12718]]
+  CHAL Hierarchical Debate: First structural critique of multi-agent debate failure modes in LLMs — identifies martingale belief trajectories, majority voting dominance, and confidence escalation as key limitations; proposes hierarchical council as an alternative.
+
 **2026-07-03 — Run 213) — CODING AGENT INTERACTIVE EVALUATION / MULTI-AGENT ECONOMIC BENCHMARKING / SIM-TO-REAL SCENE GENERATION**
 
 - [[swe-together-evaluating-coding-agents-in-interactive-user-sessions-2606.29957]]
