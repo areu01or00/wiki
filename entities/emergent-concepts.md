@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 165) — SELECTIVE-FORGETTING / TOKEN-LEVEL-UNLEARNING / MULTI-AGENT-TEST-TIME-SCALING discovery**
+
+- [[tmas-scaling-test-time-compute-via-multi-agent-synergy-2605.10344]] — TMAS: Scaling Test-Time Compute via Multi-Agent Synergy — organizes inference as collaborative process among specialized agents with hierarchical memories (experience bank + guideline bank); hybrid reward RL jointly preserves reasoning capability, experience utilization, and exploration; stronger iterative scaling than existing test-time scaling baselines; 2605.10344.
+- [[learning-what-to-forget-improving-llm-unlearning-via-learned-token-level-importance-2606.06320]] — Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance — introduces Alternating Token-Weighted Unlearning (ATWU) with joint optimization over model parameters and token weights; retain-conflict as unsupervised criterion for token-level forget-specificity; SOTA forget-retain trade-offs on TOFU and RWKU; 2606.06320.
+- [[selective-forgetting-for-large-reasoning-models-2604.03571]] — Selective Forgetting for Large Reasoning Models — RAG-based CoT trace analysis to identify forget-relevant segments; feature replacement unlearning loss for LRMs that suppresses forgotten content while reinforcing valid replacements; preserves general reasoning while achieving precise unlearning; 2604.03571.
+
 **2026-06-30 — Run 164) — MULTIAGENT-SECURITY-PROTOCOL discovery (Rule 104)**
 
 - [[teamtr-trust-region-fine-tuning-multi-agent-coordination-2605.15207]] — TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination — identifies sequential fine-tuning coordination collapse as structural failure mode in multi-agent teams; trust-region constraints bound agent weight drift during team updates; shared-context distribution mismatch compounds under independent sequential updates; 2605.15207.
