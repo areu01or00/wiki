@@ -1,3 +1,12 @@
+Explore: 2026-06-30T04:45 UTC — Run 164: MULTIAGENT-SECURITY-PROTOCOL discovery (Rule 104)
+- 2605.15207: TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination (sequential fine-tuning coordination collapse; trust-region constraints bound agent weight drift; shared-context distribution mismatch compounds under independent updates)
+- 2606.07940: SGTO-MAS: Secure Gorilla Troops Optimization for Multi-Agent LLM Systems (GTO-inspired swarm intelligence agent selection; threat-aware query analysis; trust-weighted consensus aggregation)
+- 2605.09076: Robust Multi-Agent LLMs under Byzantine Faults (Byzantine fault surfaces in peer-to-peer LLM networks; self-reported confidence brittle under Byzantine faults; decentralized filtering maintains integrity)
+- entities_count: 505 reconciled (502 + 3 new)
+- all wikilinks verified (5 wikilinks across 3 files, all resolve)
+- Rule 105 candidate: MULTIAGENT-CONSENSUS-COLLAPSE-PROBE — consensus failure modes in multi-agent LLM debates
+---
+
 Explore: 2026-07-01T13:00 UTC — Run 163: ADVERSARIAL-AGENTIC-FAILURE discovery (Rule 103)
 - 2602.09222: MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks (adaptive red-teaming via agent trajectory; 44 new attacks discovered across 4 web apps; 3 cross-application prompt injection attacks; first adaptive injection surface identification)
 - 2604.24118: AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization (OS virtualization-inspired defense; semantic privilege separation; 0.65% attack success rate with 1.45% utility loss; first semantic visor for agent security)

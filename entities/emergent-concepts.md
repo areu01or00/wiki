@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 164) — MULTIAGENT-SECURITY-PROTOCOL discovery (Rule 104)**
+
+- [[teamtr-trust-region-fine-tuning-multi-agent-coordination-2605.15207]] — TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination — identifies sequential fine-tuning coordination collapse as structural failure mode in multi-agent teams; trust-region constraints bound agent weight drift during team updates; shared-context distribution mismatch compounds under independent sequential updates; 2605.15207.
+- [[sgtomas-secure-gorilla-troops-optimization-multi-agent-systems-2606.07940]] — SGTO-MAS: Secure Gorilla Troops Optimization for Multi-Agent LLM Systems — GTO-inspired swarm intelligence agent selection with threat-aware query analysis and trust-weighted consensus aggregation; balances performance, security, and computational cost; 2606.07940.
+- [[robust-multiagent-llms-under-byzantine-faults-2605.09076]] — Robust Multi-Agent LLMs under Byzantine Faults — characterizes Byzantine fault surfaces in peer-to-peer LLM multi-agent networks; self-reported confidence and leader-based coordination are both brittle under Byzantine faults; decentralized filtering maintains system integrity under adversarial conditions; 2605.09076.
+
 **2026-07-01 — Run 163) — 3-axis ADVERSARIAL-AGENTIC-FAILURE discovery (Rule 103)**
 
 - [[muzzle-adaptive-agentic-red-teaming-web-agents-indirect-prompt-injection-attacks-2602.09222]] — MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks — first adaptive red-teaming framework using agent trajectory to automatically identify high-salience injection surfaces and iteratively refine context-aware attacks; discovers 44 new attacks across 4 web applications including 3 cross-application prompt injection attacks; 2602.09222 (cs.CR, cs.AI).
