@@ -17,6 +17,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+
+
 - **2026-06-30** | [Ornith 1.0 Beats Claude at Coding - Runs on One GPU](https://byteiota.com/ornith-1-0-beats-claude-at-coding-runs-on-one-gpu/) | source: deepreinforce-ai
 - **2026-06-30** | [Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding | DeepReinforce Blog](https://deep-reinforce.com/ornith_1_0.html) | source: deepreinforce-ai | 📣 OFFICIAL ANNOUNCEMENT
 - **2026-06-30** | [Krea-2-Turbo Image Model - Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1uj638x/krea2turbo_image_model/) | source: krea
@@ -69,6 +71,48 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-06-30** | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content ...](https://arxiv.org/html/2606.27632v1) | kw: yuvion-llm | source: yuvion-llm | 📄 BENCHMARK/PAPER
 - **2026-06-30** | [Yuvion VL: A Multimodal Foundation Model for Adversarial Content](https://arxiv.org/html/2606.25034v2) | kw: yuvion-llm | source: yuvion-llm | 📄 BENCHMARK/PAPER
 - **2026-06-30** | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content ...](https://arxiv.org/abs/2606.27632) | kw: yuvion-llm | source: yuvion-llm | 📄 BENCHMARK/PAPER
+- **2026-06-30** | [DeepReinforce Releases Ornith-1.0 Agentic Coding Models](https://letsdatascience.com/news/deepreinforce-releases-ornith-10-agentic-coding-models-ab5849e1) | kw: official-announcement | source: deepreinforce-ai
+- **2026-06-30** | [Meituan open-sources LongCat-2.0 1.6T-parameter LLM trained on Chinese chips](https://app.dealroom.co/news/note/meituan-open-sources-longcat-2-0-a-1-6t-parameter-llm-trained-on-chinese-chips) | kw: weights-drop | source: meituan-longcat
+- **2026-06-30** | [Meituan claims Chinas biggest AI model trained on local chips](https://www.scmp.com/tech/tech-trends/article/3358854/china-debuts-biggest-ai-model-trained-local-chips-meituan-releases-longcat-20) | kw: official-announcement | source: meituan-longcat
+- **2026-06-30** | [Meituan LongCat releases flagship model LongCat-2.0 remio AI](https://www.remio.ai/post/meituan-longcat-releases-flagship-model-longcat-2-0) | kw: official-announcement | source: meituan-longcat
+- **2026-06-30** | [LongCat-2.0 1.6T Agentic Coding LLM 1M Context Open Source](https://www.longcatai.org/models/longcat-2.html) | kw: weights-drop | source: meituan-longcat
+- **2026-06-30** | [Zhipu surges 33% as Wall Street raises bets on China...](https://www.cnbc.com/2026/06/15/china-ai-zhipu-minimax-artificial-intelligence-race-washington-trump-anthropic.html) | kw: official-announcement | source: glm-releases
+- **2026-06-30** | [Qwen Just Quietly Became Most Dangerous Open Source AI](https://medium.com/@stawils/qwen-just-quietly-became-the-most-dangerous-open-source-ai-model-b5bcf7b2743c) | kw: weights-drop | source: qwen-releases
+- **2026-06-30** | [No Claude Fable 5 Sakana achieves frontier with Fugu](https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system) | kw: official-announcement | source: sakana-releases
+- **2026-06-30** | [Ornith-1.0 Self-Scaffolding LLMs for Agentic Coding](https://deep-reinforce.com/ornith_1_0.html) | kw: official-announcement | source: deepreinforce-ai
+- **2026-06-30** | [MiniMax M3 in vLLM: 1M-Token Context from Day One](https://24-ai.news/en/news/2026-06-12/vllm-minimax-m3-day0/) | kw: official-announcement | source: MiniMax
+- **2026-06-30** | [Kimi K2 - Open Agentic Intelligence by MoonshotAI](https://kimik2.com/) | kw: weights-drop | source: kimi-releases
+- **2026-06-30** | [Meituan LongCat 2.0 Tested Chinas 1.6T OPEN MODEL](https://www.youtube.com/watch?v=Lh_QUSgEWwg) | kw: official-announcement | source: meituan-longcat
+- **2026-06-30** | [Gemma models overview - Google AI for Developers](https://ai.google.dev/gemma/docs) | kw: official-announcement | source: google-deepmind-releases
+- **2026-06-30** | [MiniMax M3: Open-Weight 1M-Context Coding Model](https://nerdleveltech.com/minimax-m3-open-weight-1m-context-coding-model) | kw: weights-drop | source: MiniMax
+- **2026-06-30** | [Alibaba CEO Qwen will remain open-source Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1rl6lnl/alibaba_ceo_qwen_will_remain_opensource/) | kw: weights-drop | source: qwen-releases
+- **2026-06-30** | [Kimi AI with K2.6 Better Coding Smarter Agents](https://www.kimi.com/en) | kw: official-announcement | source: kimi-releases
+- **2026-06-30** | [Qwen-3 Alibaba Cloud Next Gen Open Source LLM](https://qwen-3.com/en) | kw: weights-drop | source: qwen-releases
+- **2026-06-30** | [minimax-m3 Model by Minimaxai | NVIDIA NIM](https://build.nvidia.com/minimaxai/minimax-m3) | kw: official-announcement | source: MiniMax
+- **2026-06-30** | [What Is Qwen 3.5 Alibaba open-weight model](https://www.mindstudio.ai/blog/what-is-qwen-3-5-alibaba-open-weight-model) | kw: weights-drop | source: qwen-releases
+- **2026-06-30** | [What Is Qwen Alibaba Open-Weight AI Family](https://geotoolbox.ai/blog/what-is-qwen) | kw: weights-drop | source: qwen-releases
+- **2026-06-30** | [Qwen3.6 Open Source Model Beats 397B Giant](https://www.remio.ai/post/qwen3-6-open-source-model-beats-a-397b-giant-while-alibaba-quietly-closes-weights-on-its-flagshi) | kw: weights-drop | source: qwen-releases
+- **2026-06-30** | [SWE-Bench Verified Leaderboard LLM Stats](https://llm-stats.com/benchmarks/swe-bench-verified) | kw: benchmark-paper | source: llm-stats-updates
+- **2026-06-30** | [Grok 4 Worlds Most Powerful AI Model xAI](https://grok4.me/) | kw: official-announcement | source: xai-releases
+- **2026-06-30** | [Gemma open-weight LLM library - GitHub](https://github.com/google-deepmind/gemma) | kw: weights-drop | source: google-deepmind-releases
+- **2026-06-30** | [MiniMaxAI/MiniMax-M3 | Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3) | kw: weights-drop | source: MiniMax
+- **2026-06-30** | [Open LLM Leaderboard Hugging Face](https://huggingface.co/open-llm-leaderboard) | kw: weights-drop | source: llm-stats-updates
+- **2026-06-30** | [Qwen Alibaba Cloud Int OpenRouter](https://openrouter.ai/qwen/qwen3.5-35b-a3b) | kw: api-launch | source: qwen-releases
+- **2026-06-30** | [API Overview Kimi API Platform](https://platform.kimi.ai/docs/api/overview) | kw: api-launch | source: kimi-releases
+- **2026-06-30** | [Gemini 3.5 - Google DeepMind](https://deepmind.google/models/gemini/) | kw: official-announcement | source: google-deepmind-releases
+- **2026-06-30** | [Top 10 Open-Weight LLMs 2026](https://techjacksolutions.com/ai-tools/rankings/top-open-weight-llms/) | kw: weights-drop | source: llm-stats-updates
+- **2026-06-30** | [Gemma 4 - Google DeepMind](https://deepmind.google/models/gemma/gemma-4/) | kw: official-announcement | source: google-deepmind-releases
+- **2026-06-30** | [Gemma - Google DeepMind](https://deepmind.google/models/gemma/) | kw: weights-drop | source: google-deepmind-releases
+- **2026-06-30** | [ZHIPU AI OPEN PLATFORM](https://open.bigmodel.cn/) | kw: official-announcement | source: glm-releases
+- **2026-06-30** | [Models - Hugging Face](https://huggingface.co/models) | kw: weights-drop | source: huggingface-trending
+- **2026-06-30** | [Kimi API Platform](https://platform.kimi.ai/) | kw: api-launch | source: kimi-releases
+- **2026-06-30** | [China's Zhipu is booming with Anthropic and OpenAI held back](https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html) | kw: weights-drop | source: glm-releases
+- **2026-06-30** | [US lab released Ornith-1.0 open weight model which benches](https://www.reddit.com/r/opencodeCLI/comments/1ugtg2n/us_lab_released_ornith10_open_weight_model_which/) | kw: official-announcement | source: deepreinforce-ai
+- **2026-06-30** | [MiniMax M3 Guide: Benchmarks, Pricing, API Access...](https://minimax-ai.chat/models/minimax-m3/) | kw: api-launch | source: MiniMax
+- **2026-06-30** | [DeepReinforce Open Sources Ornith-1.0 Coding Models](www.opensourceforu.com/2026/06/deepreinforce-open-sources-ornith-1-0-coding-models/) | kw: weights-drop | source: deepreinforce-ai
+- **2026-06-30** | [Introducing Ornith 1.0 Agentic Coding LLMs YouTube](https://www.youtube.com/watch?v=uD4-uy0GmHE) | kw: official-announcement | source: deepreinforce-ai
+- **2026-06-30** | [China's Zhipu AI sparks new 'DeepSeek moment'](https://www.scmp.com/tech/big-tech/article/3358434/chinas-zhipu-ai-sparks-new-deepseek-moment-cost-effective-coding-model) | kw: official-announcement | source: glm-releases
+
 - **2026-06-29** | [Ornith-1.0 Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/) | kw: Ornith-1 | source: deepreinforce-ai | 🔓 OPEN SOURCE
 - **2026-06-29** | [Yuvion LLM An Adversarially-Aware Large Language Model](https://arxiv.org/abs/2606.27632) | kw: Yuvion | source: yuvion-llm | 📄 BENCHMARK/PAPER
 - **2026-06-29** | [Yuvion LLM An Adversarially-Aware Large Language Model for Robust Content Safety](https://arxiv.org/html/2606.27632v1) | kw: Yuvion | source: yuvion-llm | 📄 BENCHMARK/PAPER
