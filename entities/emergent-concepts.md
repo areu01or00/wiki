@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 174) — PROBING METHODOLOGY / PROMPT-STEERING GEOMETRY / ICA INTERPRETABILITY DISCOVERY**
+
+- [[linear-probes-detect-task-format-not-reasoning-mode-in-language-model-hidden-states-2606.02907]] — Linear Probes Detect Task Format, Not Reasoning Mode, in Language Model Hidden States — rigorous test of linear probing for reasoning-mode detection across deductive/inductive/abductive benchmarks; found apparent geometric separation entirely driven by format confounds; first paper demonstrating linear-probe geometry does NOT track reasoning mode in LLM hidden states; 2606.02907.
+- [[ica-lens-interpreting-language-models-without-training-another-dictionary-2606.11722]] — ICA Lens: Interpreting Language Models Without Training Another Dictionary — activation geometry before dictionary learning as first-pass interpretability lens; much interpretable structure already visible in raw activations before SAE training; reduces computational overhead of SAE-based interpretability; first ICA-lens pre-dictionary geometry paper in the wiki; 2606.11722.
+- [[decomposing-how-prompting-steers-behavior-2606.03093]] — Decomposing How Prompting Steers Behavior — nested geometric decomposition treating prompting as transformation of representational geometry; stimulus-invariant alignment (translation → rigid → scaling → sequential axis scaling); quantifies how prompt types reorganize activation space at each transformer layer; first framework to decompose prompting effects into interpretable geometric components; 2606.03093.
+
 **2026-06-30 — Run 172) — CERTAINTY ROBUSTNESS / STRATEGY DIVERSITY / BELIEF-REVISION DELIBERATION DISCOVERY**
 
 - [[hidden-anchors-in-multi-agent-llm-deliberation-2606.19494]] — Hidden Anchors in Multi-Agent LLM Deliberation — hidden anchor mechanism drives belief revision beyond group conformity; extends DeGroot/Friedkin-Johnsen opinion dynamics to capture internal belief persistence; models deliberation as context repair for drifted belief states; first hidden-anchor belief-revision mechanism in multi-agent deliberation; 2606.19494.

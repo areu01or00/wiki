@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 173,
-  "last_explore": "2026-06-30T15:30:00+00:00",
+  "last_run": 174,
+  "last_explore": "2026-06-30T21:00:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
-  "last_discovery": "2026-06-30T15:30:00+00:00",
-  "last_run_framing": "CERTAINTY ROBUSTNESS / STRATEGY DIVERSITY / BELIEF-REVISION DELIBERATION",
+  "last_discovery": "2026-06-30T21:00:00+00:00",
+  "last_run_framing": "PROBING METHODOLOGY / PROMPT-STEERING GEOMETRY / ICA INTERPRETABILITY",
   "last_framing": "COGNITIVE-ARCHITECTURE + METACOGNITION + SYMBOLIC PLANNING",
-  "last_run_notes": "Run 172: Certainty Robustness (2603.03330) + Beyond Accuracy (2605.09292) + Hidden Anchors (2606.19494)",
+  "last_run_notes": "Run 174: Linear Probes (2606.02907) + ICA Lens (2606.11722) + Decomposing Prompting (2606.03093)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "cognitive-architecture / metacognitive-reasoning / symbolic-planning",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 532,
+  "entities_count": 535,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9895,6 +9895,30 @@
       "url": "https://arxiv.org/abs/2606.29354",
       "discovered": "2026-06-30",
       "theme": "multi-agent symbolic communication / emergent language"
+    },
+    {
+      "arxiv_id": "2606.02907",
+      "title": "Linear Probes Detect Task Format, Not Reasoning Mode, in Language Model Hidden States",
+      "slug": "linear-probes-detect-task-format-not-reasoning-mode-in-language-model-hidden-states-2606.02907",
+      "url": "https://arxiv.org/abs/2606.02907",
+      "discovered": "2026-06-30T21:00:00+00:00",
+      "theme": "probing methodology / representation-geometry"
+    },
+    {
+      "arxiv_id": "2606.11722",
+      "title": "ICA Lens: Interpreting Language Models Without Training Another Dictionary",
+      "slug": "ica-lens-interpreting-language-models-without-training-another-dictionary-2606.11722",
+      "url": "https://arxiv.org/abs/2606.11722",
+      "discovered": "2026-06-30T21:00:00+00:00",
+      "theme": "interpretability / activation-geometry"
+    },
+    {
+      "arxiv_id": "2606.03093",
+      "title": "Decomposing How Prompting Steers Behavior",
+      "slug": "decomposing-how-prompting-steers-behavior-2606.03093",
+      "url": "https://arxiv.org/abs/2606.03093",
+      "discovered": "2026-06-30T21:00:00+00:00",
+      "theme": "prompt steering / representational geometry"
     }
   ],
   "emergent_concept_search_log": [
@@ -15333,6 +15357,18 @@
       "vectors_explored": [
         "emergent-concept"
       ]
+    },
+    {
+      "run_number": 174,
+      "theme": "probing methodology / prompt-steering geometry / ica interpretability",
+      "framing": "PROBING METHODOLOGY / PROMPT-STEERING GEOMETRY / ICA INTERPRETABILITY",
+      "papers_found": [
+        "2606.02907",
+        "2606.11722",
+        "2606.03093"
+      ],
+      "method": "arxiv HTML search + web_search",
+      "timestamp": "2026-06-30T21:00:00+00:00"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
