@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 218) — LLM PDDL FORMAL VERIFICATION / KERNEL-LEVEL INFERENCE SIMULATION / RECURRENT ARCHITECTURE CONTENT-AWARE GATING**
+
+- [[toward-secure-and-reliable-pddl-formalization-of-large-language-models-with-planner-in-the-loop-feedback-2606.29700]]
+  PDDL Formalization: First planner-in-the-loop framework for LLM-generated PDDL specifications — uses validator and planner diagnostics to repair non-executable NL-to-PDDL translations; combines LoRA SFT + offline DPO + inference-time planner repair; highlights value of externally verifiable formalization for safety-sensitive LLM deployment in planning systems. Orthogonal to Run 217 CODEBLOCK/KD/AgentJet axes.
+
+- [[kernelsight-lm-a-kernel-level-llm-inference-simulator-2606.28565]]
+  KernelSight-LM: First kernel-level LLM inference simulator — models token-level execution with roofline kernel model + learned efficiency term + communication model + host-overhead model; predicts per-kernel latency on unseen GPU generation to 12.1% error (1.8x better than roofline baseline); supports hardware/software co-design and capacity planning. Orthogonal to Run 217 axes.
+
+- [[carve-content-aware-recurrent-with-value-efficiency-for-chunk-parallel-linear-attention-2606.27229]]
+  CARVE: First content-aware key-axis erase gating for delta-rule recurrent architectures — resolves three coupled defects in GDN-2 through one principle (erase only on key axis); proves necessary condition for WY-form triangular chunk solver validity; achieves WikiText perplexity 15.72 (4.5-sigma vs GDN-2); leads all recurrent baselines on nine reasoning benchmarks. Orthogonal to Run 217 axes.
+
 **2026-06-30 — Run 217) — CODEBLOCK TOKEN-LEVEL SFT SUPERVISION / AGENTJET SWARM AGENTIC RL TRAINING / KNOWLEDGE DISTILLATION FAILURE MODES**
 
 - [[codeblock-learning-to-supervise-code-at-the-right-granularity-2606.18286]]

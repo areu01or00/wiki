@@ -1327,7 +1327,10 @@
         "2606.30093",
         "2606.18286",
         "2606.04484",
-        "2606.22942"
+        "2606.22942",
+        "d91fd61f33b09949b909fd2cb6db87c7",
+        "13e9a646af6ad9c3573b8ef03fb4bb0f",
+        "8a4edb37a4bbf44b5972d7dfef122681"
       ],
       "last_results": [
         {
@@ -5013,6 +5016,33 @@
           "chain": "emergent-concepts",
           "theme": "llm post-training/instruction-tuning",
           "discovered": "2026-06-30T00:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.29700",
+          "title": "Toward Secure and Reliable PDDL Formalization of Large Language Models with Planner-in-the-Loop Feedback",
+          "hash": "d91fd61f33b09949b909fd2cb6db87c7",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "LLM PDDL formal verification / kernel-level inference simulation / recurrent architecture content-aware gating",
+          "discovered": "2026-07-01T00:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.28565",
+          "title": "KernelSight-LM: A Kernel-Level LLM Inference Simulator",
+          "hash": "13e9a646af6ad9c3573b8ef03fb4bb0f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "LLM PDDL formal verification / kernel-level inference simulation / recurrent architecture content-aware gating",
+          "discovered": "2026-07-01T00:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.27229",
+          "title": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
+          "hash": "8a4edb37a4bbf44b5972d7dfef122681",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "LLM PDDL formal verification / kernel-level inference simulation / recurrent architecture content-aware gating",
+          "discovered": "2026-07-01T00:00:00+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5674,7 +5704,10 @@
     "2606.30093",
     "2606.18286",
     "2606.04484",
-    "2606.22942"
+    "2606.22942",
+    "d91fd61f33b09949b909fd2cb6db87c7",
+    "13e9a646af6ad9c3573b8ef03fb4bb0f",
+    "8a4edb37a4bbf44b5972d7dfef122681"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -6329,7 +6362,10 @@
       "2606.30093",
       "2606.18286",
       "2606.04484",
-      "2606.22942"
+      "2606.22942",
+      "d91fd61f33b09949b909fd2cb6db87c7",
+      "13e9a646af6ad9c3573b8ef03fb4bb0f",
+      "8a4edb37a4bbf44b5972d7dfef122681"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
