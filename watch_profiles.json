@@ -1309,7 +1309,10 @@
         "2606.26091",
         "2606.30045",
         "2606.25363",
-        "2606.27282"
+        "2606.27282",
+        "ed435b1ad31db398c20193ff3d762910",
+        "ceb261245b6d7bf30ffc769da041878c",
+        "d17be09a8d0fa1a1edcc59c8492fb4ab"
       ],
       "last_results": [
         {
@@ -4941,6 +4944,33 @@
           "chain": "emergent-concepts",
           "theme": "conversational safety / knowledge graph grounding / self-distillation diversity",
           "discovered": "2026-06-30T17:49:00.519447+00:00"
+        },
+        {
+          "arxiv_id": "2606.22327",
+          "title": "Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice",
+          "hash": "ed435b1ad31db398c20193ff3d762910",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "kv cache geometry-aware scheduling / multi-bitwidth quantization / energy-aware on-device inference",
+          "discovered": "2026-07-03T19:30:00.519324+00:00"
+        },
+        {
+          "arxiv_id": "2606.12876",
+          "title": "Multi-Bitwidth Quantization for LLMs Using Additive Codebooks",
+          "hash": "ceb261245b6d7bf30ffc769da041878c",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "kv cache geometry-aware scheduling / multi-bitwidth quantization / energy-aware on-device inference",
+          "discovered": "2026-07-03T19:30:00.519324+00:00"
+        },
+        {
+          "arxiv_id": "2606.23001",
+          "title": "EnerInfer: Energy-Aware On-Device LLM Inference",
+          "hash": "d17be09a8d0fa1a1edcc59c8492fb4ab",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "kv cache geometry-aware scheduling / multi-bitwidth quantization / energy-aware on-device inference",
+          "discovered": "2026-07-03T19:30:00.519324+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -5584,7 +5614,10 @@
     "2606.26091",
     "2606.30045",
     "2606.25363",
-    "2606.27282"
+    "2606.27282",
+    "ed435b1ad31db398c20193ff3d762910",
+    "ceb261245b6d7bf30ffc769da041878c",
+    "d17be09a8d0fa1a1edcc59c8492fb4ab"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T06:41:00+00:00",
@@ -6221,7 +6254,10 @@
       "2606.26091",
       "2606.30045",
       "2606.25363",
-      "2606.27282"
+      "2606.27282",
+      "ed435b1ad31db398c20193ff3d762910",
+      "ceb261245b6d7bf30ffc769da041878c",
+      "d17be09a8d0fa1a1edcc59c8492fb4ab"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

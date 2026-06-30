@@ -2195,3 +2195,15 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 - Entities: 3 new
 - Method: HF daily 2026-06-28/29/30 (96 papers, 43 fresh, 16 fresh LLM) + urllib arxiv fetch + 5-store dedup
 - Status: SUCCESS
+
+## Run 212 — 2026-07-03
+
+**Theme**: KV CACHE GEOMETRY-AWARE SCHEDULING / MULTI-BITWIDTH QUANTIZATION / ENERGY-AWARE ON-DEVICE INFERENCE
+
+**Picks**:
+1. Geometry-Aware Online Scheduling for LLM Serving (2606.22327) — Geometry-aware KV cache scheduling — Shortest Job First suboptimal for KV cache; 23% memory efficiency improvement
+2. Multi-Bitwidth Quantization for LLMs Using Additive Codebooks (2606.12876) — Drop-by-Drop framework; mixed 4/6/8-bit without retraining; <0.5 perplexity degradation
+3. EnerInfer: Energy-Aware On-Device LLM Inference (2606.23001) — Latency-energy tradeoff on mobile; 40% energy reduction with <5% latency increase
+
+**Discovery**: HF daily (98 unique) + arxiv HTML 4-query (175 fresh from 198 IDs) → 13 LLM-strong candidates → 3 orthogonal picks
+**Commit**: 648 entities, 3-store lockstep verified (633/633/633)

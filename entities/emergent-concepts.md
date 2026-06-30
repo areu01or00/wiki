@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-03 — Run 212) — KV CACHE GEOMETRY-AWARE SCHEDULING / MULTI-BITWIDTH QUANTIZATION / ENERGY-AWARE ON-DEVICE INFERENCE**
+
+- [[geometry-aware-online-scheduling-llm-serving-2606.22327]]
+  Geometry-Aware LLM Serving: First geometry-aware KV cache scheduling — reveals Shortest Job First is suboptimal for KV cache because it ignores spatial locality; proposes geometry-aware approach exploiting 2D cache footprint structure; up to 23% memory efficiency improvement.
+
+- [[multi-bitwidth-quantization-llms-additive-codebooks-2606.12876]]
+  Multi-Bitwidth Quantization (Drop-by-Drop): First additive codebook-based multi-bitwidth post-training quantization enabling runtime precision control — mixed 4/6/8-bit on same weight matrices without retraining; <0.5 perplexity degradation at 4-bit.
+
+- [[enerinfer-energy-aware-on-device-llm-inference-2606.23001]]
+  Energy-Aware On-Device LLM Inference: First systematic study of latency-energy tradeoff in on-device inference — reveals configuration slack where energy-optimal points differ from latency-optimal; up to 40% energy reduction with <5% latency increase on mobile 7B-class models.
+
 **2026-07-03 — Run 211) — NEURAL SCENE WORLD MODELS / FORMAL MATHEMATICS THEOREM DEPENDENCY GRAPHS / LINEAR MODEL TIME-SERIES FORECASTING**
 
 - [[walking-in-the-implicit-interactive-world-exploration-via-neural-scene-representation-2606.30045]]
