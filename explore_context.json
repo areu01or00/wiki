@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T06:41:00+00:00",
   "__last_updated": "2026-06-30T10:30:00.000000+00:00",
-  "last_run": 176,
+  "last_run": 177,
   "last_explore": "2026-07-01T14:00:00+00:00",
   "last_global_explore": "2026-07-01T11:00:00.000000+00:00",
   "last_discovery": "2026-07-01T14:00:00+00:00",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "cognitive-architecture / metacognitive-reasoning / symbolic-planning",
   "emergent_theme": "representation-divergence",
   "chains_updated": 0,
-  "entities_count": 541,
+  "entities_count": 544,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -5944,6 +5944,33 @@
       "discovered": "2026-07-01T14:00:00+00:00",
       "theme": "emergent-concept-discovery",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2601.01885",
+      "slug": "agentic-memory-agemem-learning-unified-long-term-and-short-term-memory-management-for-llm-agents-2601.01885",
+      "title": "Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2601.01885",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T10:47:00.000000+00:00",
+      "theme": "agentic-memory / unified-LTM-STM / reinforcement-learning"
+    },
+    {
+      "arxiv_id": "2606.00008",
+      "slug": "agents-on-a-tree-atom-pathwise-coordination-for-multi-objective-molecular-optimization-2606.00008",
+      "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+      "url": "https://arxiv.org/abs/2606.00008",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T10:47:00.000000+00:00",
+      "theme": "multi-agent / pathwise-coordination / tree-search / molecular-optimization"
+    },
+    {
+      "arxiv_id": "2606.11680",
+      "slug": "organize-then-retrieve-hierarchical-memory-navigation-for-efficient-long-horizon-llm-agents-2606.11680",
+      "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2606.11680",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T10:47:00.000000+00:00",
+      "theme": "agentic-memory / hierarchical-memory-navigation / long-horizon-reasoning"
     }
   ],
   "emergent_discoveries": [
@@ -10006,6 +10033,30 @@
       "url": "https://arxiv.org/abs/2605.09539",
       "discovered": "2026-07-01T14:00:00+00:00",
       "theme": "emergent-concept-discovery"
+    },
+    {
+      "arxiv_id": "2601.01885",
+      "title": "Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents",
+      "slug": "agentic-memory-agemem-learning-unified-long-term-and-short-term-memory-management-for-llm-agents-2601.01885",
+      "url": "https://arxiv.org/abs/2601.01885",
+      "discovered": "2026-06-30T10:47:00.000000+00:00",
+      "theme": "agentic-memory / unified-LTM-STM / reinforcement-learning"
+    },
+    {
+      "arxiv_id": "2606.00008",
+      "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+      "slug": "agents-on-a-tree-atom-pathwise-coordination-for-multi-objective-molecular-optimization-2606.00008",
+      "url": "https://arxiv.org/abs/2606.00008",
+      "discovered": "2026-06-30T10:47:00.000000+00:00",
+      "theme": "multi-agent / pathwise-coordination / tree-search / molecular-optimization"
+    },
+    {
+      "arxiv_id": "2606.11680",
+      "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Long-Horizon LLM Agents",
+      "slug": "organize-then-retrieve-hierarchical-memory-navigation-for-efficient-long-horizon-llm-agents-2606.11680",
+      "url": "https://arxiv.org/abs/2606.11680",
+      "discovered": "2026-06-30T10:47:00.000000+00:00",
+      "theme": "agentic-memory / hierarchical-memory-navigation / long-horizon-reasoning"
     }
   ],
   "emergent_concept_search_log": [
@@ -11441,6 +11492,23 @@
         "2606.15376",
         "2606.13392",
         "2606.20571"
+      ]
+    },
+    {
+      "run": 177,
+      "timestamp": "2026-06-30T10:47:00.000000+00:00",
+      "queries": [
+        "LLM reasoning reliability error detection failure mode 2026",
+        "LLM benchmark evaluation methodology robustness 2026",
+        "LLM calibration uncertainty quantification reasoning 2026",
+        "LLM agent memory planning long-horizon task 2026"
+      ],
+      "candidates_found": 9,
+      "fresh_after_dedup": 3,
+      "picks": [
+        "2601.01885",
+        "2606.00008",
+        "2606.11680"
       ]
     }
   ],
@@ -15479,6 +15547,17 @@
         "2605.09539"
       ],
       "method": "arxiv HTML search + 5-store dedup"
+    },
+    {
+      "run": 177,
+      "timestamp": "2026-06-30T10:47:00.000000+00:00",
+      "picks": [
+        "2601.01885",
+        "2606.00008",
+        "2606.11680"
+      ],
+      "theme": "AGENTIC MEMORY UNIFICATION / MULTI-AGENT PATHWISE COORDINATION / HIERARCHICAL MEMORY NAVIGATION",
+      "method": "web_search 4-query emergent-concept via arxiv candidate titles; 3 FRESH after 5-store dedup"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

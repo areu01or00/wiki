@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 177) — AGENTIC MEMORY UNIFICATION / MULTI-AGENT PATHWISE COORDINATION / HIERARCHICAL MEMORY NAVIGATION DISCOVERY**
+
+- [[agentic-memory-agemem-learning-unified-long-term-and-short-term-memory-management-for-llm-agents-2601.01885]] — AgeMem: Unified Long-Term and Short-Term Memory Management — integrates LTM and STM as policy-learned tool actions via three-stage progressive RL with step-wise GRPO; autonomously decides what/when to store, retrieve, update, summarize, discard; outperforms memory-augmented baselines across 5 long-horizon benchmarks; first unified LTM+STM joint optimization via learned memory-as-tool policy; 2601.01885.
+- [[agents-on-a-tree-atom-pathwise-coordination-for-multi-objective-molecular-optimization-2606.00008]] — ATOM: Agents on a Tree — tree-structured multi-agent coordination for multi-objective molecular optimization; each node = specialist agent; coordination is pathwise (along branches) not global consensus; global memory enables balanced exploration/exploitation; improved Pareto coverage and hypervolume; first tree-structured pathwise multi-agent coordination framework; 2606.00008.
+- [[organize-then-retrieve-hierarchical-memory-navigation-for-efficient-long-horizon-llm-agents-2606.11680]] — OTR: Organize then Retrieve — hierarchical memory organization as first-class pre-processing phase separate from retrieval; two-phase architecture (organize into hierarchical schemas → contextual query of organized memory); reduces context pressure in long-horizon tasks; first hierarchical memory organization/pre-retrieval structuring paper; 2606.11680.
+
 **2026-07-01 — Run 175) — KNOWLEDGE UPDATE ARCHITECTURE / RL vs SFT PARADIGM COMPARISON / MID-REASONING INSTABILITY DETECTION DISCOVERY**
 
 - [[dyna-dynamic-episodic-memory-networks-for-augmenting-large-language-models-with-temporal-knowledge-graphs-in-continuous-learning-2606.15778]] — DYNA: Dynamic Episodic Memory Networks — temporal knowledge graph as external episodic memory for frozen LLMs; random walk + centrality retrieval augments LLM responses without gradient updates; addresses knowledge obsolescence and catastrophic forgetting simultaneously; first temporal knowledge graph as frozen-LLM memory in the wiki; 2606.15778.
