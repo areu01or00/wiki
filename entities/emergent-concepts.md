@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-29 — Run 216) — CLINICAL REASONING GRAPHS / BUDGETED ACT-OR-DEFER MULTI-AGENT DELIBERATION / EFFICIENT TOKEN CO-OCCURRENCE GRAPHRAG**
+
+- [[clinical-reasoning-graphs-structured-evaluation-of-llm-diagnostic-reasoning-reveals-competence-without-consistency-2606.29876]]
+  Clinical Reasoning Graphs: First structured graph-based evaluation framework for LLM diagnostic reasoning — uses 5 node types and 7 edge types to extract clinical reasoning graphs from LLM diagnostic traces; reveals competence without consistency: 60-70% accuracy masks structurally flawed reasoning graphs.
+
+- [[budgeted-act-or-defer-multi-agent-llm-deliberation-with-local-reliability-bounds-2606.29654]]
+  Budgeted Act-or-Defer: First formalization of act-or-defer decision making for multi-agent LLM deliberation — uses k-nearest-neighbor lower confidence bounds on deliberation state to decide when agent consensus is reliable enough to act vs. when to escalate to human review.
+
+- [[efficient-retrieval-augmented-generation-via-token-co-occurrence-graphs-2606.30093]]
+  TIGRAG: First token co-occurrence graph as lightweight structural backbone for efficient GraphRAG — avoids expensive LLM-based graph extraction while preserving multi-hop reasoning benefits; orthogonal to prior Graph-RAG diagnosis paper (Run 215).
+
 **2026-07-03 — Run 215) — REASONING-AWARE PRUNING / FAULT-TOLERANT LLM AGENT CONTROL / GRAPH-RAG REASONING BOTTLENECK**
 
 - [[relative-kinetic-utility-for-reasoning-aware-structural-pruning-in-large-language-models-2605.09008]]
