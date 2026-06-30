@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 187) — RLHF STABILITY / REWARD MODELING UNDER UNCERTAINTY / AGENTIC ABSTENTION**
+
+- [[when-rlhf-fails-mechanistic-taxonomy-reward-hacking-collapse-evaluator-gaming-2606.03238]] — When RLHF Fails: First mechanistic taxonomy of RLHF failure modes as training-dynamics phenomena (not just final-model pathologies); classifies reward hacking, collapse, and evaluator gaming across PPO/DPO/UP-PPO; localized reward hacking detected where checkpoint averages miss; pre-transition logistic model predicts future hacking (ROC-AUC 0.821); UP-PPO reduces localized hacking to 10.94% vs PPO's 14.45%; 2606.03238.
+- [[uncertainty-aware-reward-modeling-for-stable-rlhf-2606.19818]] — UARM: Quantile-based conformal prediction equips reward models with calibrated uncertainty; heteroscedastic variance decomposition reweights GRPO advantages preventing unreliable rewards from receiving disproportionate influence; significantly reduces reward hacking on HelpSteer/UltraFeedback/PKU-SafeRLHF; first conformal prediction application to RLHF reward uncertainty in the wiki; 2606.19818.
+- [[agentic-abstention-agents-stop-instead-of-act-2606.28733]] — Agentic Abstention: Defines sequential decision problem of when LLM agents should stop acting under uncertainty; 13 agents × 28,000+ tasks across WebShop/terminal/QA; scale paradox — larger models sometimes perform worse at timely abstention; CONVOLVE context-engineering raises Llama-3.3-70B timely recall from 26.7→57.4 on WebShop without parameter updates; first systematic agentic abstention framework in the wiki; 2606.28733.
+
 **2026-07-02 — Run 186) — UNCERTAINTY CALIBRATION BENCHMARKING / AGENT GEOMETRIC KNOWLEDGE DISENTANGLEMENT / TEST-TIME ADAPTATION WITHOUT GRADIENTS**
 
 - [[uncertainty-calibration-benchmarking-llm-long-form-qa-2602.00279]] — Uncertainty Calibration Benchmarking: First large-scale benchmark for evaluating UQ metrics in reasoning-demanding scientific QA; systematic calibration study across multiple LLM architectures; reveals fact-retrieval vs reasoning QA have different calibration profiles; first scientific-QA calibration benchmark in the wiki; 2602.00279.
