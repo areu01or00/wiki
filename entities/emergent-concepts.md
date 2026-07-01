@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 261) — DENSE SUPERVISION BENCHMARKING / REFLECTION CALIBRATION / MULTI-TURN RED-TEAMING**
+
+- [[qval-cheaply-evaluating-dense-supervision-signals-for-long-horizon-llm-agents-2606.32034]]
+  QVal: First training-free evaluation framework for dense supervision signals (Q-alignment metric — whether signals order actions by reference-policy Q-values). 21 methods benchmarked; simple prompting outperforms literature methods; performance clusters by family. Orthogonal to downstream-training evaluation approaches. Cross-ref: [[clustered-self-assessment-uncertainty-quantification-llms-2606.03846]], [[est-prm-stress-testing-process-reward-models-before-they-become-load-bearing-2606.00437]].
+
+- [[closing-the-reflection-gap-a-free-calibration-bonus-for-agentic-rl-2606.14211]]
+  RefGRPO: Addresses the reflection gap in LLM agents (mis-assessing own outputs after environment feedback) via outcome-contrast calibration bonus — no extra reward model needed. Reduces underconfidence 44.4%→7.7% and improves accuracy 75.1%→76.5% on text-to-SQL. First environment-outcome-contrast reflection calibration in the wiki. Cross-ref: [[clustered-self-assessment-uncertainty-quantification-llms-2606.03846]], [[latent-confidence-alignment-for-llm-self-assessment-2606.21937]].
+
+- [[nrt-bench-benchmarking-multi-turn-red-teaming-of-llm-operator-agents-in-safety-critical-control-rooms-2606.20408]]
+  NRT-Bench: Multi-turn red-teaming benchmark for LLM operator agents in nuclear power plant control rooms. Objective harm signal (CSF loss); vulnerabilities are nearly disjoint across models; defensive interventions are strongly model-dependent. First multi-turn operator red-teaming benchmark with objective harm signal in the wiki. Cross-ref: [[ajar-adaptive-jailbreak-architecture-red-teaming-2601.10971]], [[be-your-own-red-teamer-safety-alignment-via-self-play-and-reflective-experience-replay-2601.10589]].
+
 **2026-07-01 — Run 260) — METACOGNITIVE UNCERTAINTY / MULTI-BLOCK DIFFUSION LM / KOREAN WEB AGENT BENCHMARK**
 
 - [[reinforcement-learning-with-metacognitive-feedback-elicits-faithful-uncertainty-expression-in-llms-2606.32032]]
