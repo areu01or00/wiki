@@ -17,6 +17,35 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+
+- **2026-07-01** | [Claude Sonnet 5 Ships As Anthropic Default: Agentic Performance Closes Opus Gap](https://www.techtimes.com/articles/319409/20260701/claude-sonnet-5-ships-anthropic-default-agentic-performance-closes-opus-gap.htm) | kw: api-launch | score: 5 | source: anthropic-releases
+- **2026-07-01** | [Claude Release History: Every Model From Claude 1 to Claude Opus 4.8](https://tygartmedia.com/claude-release-history/) | kw: api-launch | score: 8 | source: anthropic-releases
+- **2026-07-01** | [Claude Model Release Timeline - Model Family Tree (Claude Sonnet 5 June 30)](https://hidekazu-konishi.com/entry/anthropic_claude_model_release_timeline.html) | kw: api-launch | score: 8 | source: anthropic-releases
+- **2026-07-01** | [Huawei openPangu 2.0: Gradual Open-Sourcing Starting June 30 (Reddit)](https://www.reddit.com/r/LocalLLaMA/comments/1u3q1j9/huawei_released_openpangu_20_will_open_source_on/) | kw: weights-drop | score: 8 | source: huawei
+- **2026-07-01** | [Huawei openPangu 2.0: Architecture, Weights, Technical Report](https://www.ai-all.info/en/ai-models/openpangu-2-0) | kw: weights-drop | score: 8 | source: huawei
+- **2026-07-01** | [Huawei openPangu 2.0 — Latest June 29-30 Releases](https://scouts.yutori.com/d2d26030-513d-44a4-85cb-07756c8a0242) | kw: weights-drop | score: 6 | source: huawei
+- **2026-07-01** | [Meituan LongCat-2.0: 1.6T MoE Open Weights with 1M Context](https://www.longcatai.org/) | kw: weights-drop | score: 4 | source: meituan
+- **2026-07-01** | [Meituan LongCat-2.0: Open-Source Coding Model with 1M Context (June 30)](https://winbuzzer.com/2026/06/30/meituan-opens-longcat-20-coding-model-with-1m-context-xcxwbn/) | kw: weights-drop | score: 4 | source: meituan
+- **2026-07-01** | [Meituan LongCat-2.0: 1.6T-parameter Open-Weight MoE (digg)](https://digg.com/tech/va380veu) | kw: weights-drop | score: 4 | source: meituan-longcat
+- **2026-07-01** | [DeepReinforce Ornith-1.0: MIT-licensed Coding Model Family, 9B-397B](https://www.oflight.co.jp/en/columns/ornith-1-0-deepreinforce-agentic-coding-2026-06) | kw: weights-drop | score: 6 | source: deepreinforce-ai
+- **2026-07-01** | [DeepReinforce Releases Ornith-1.0, Beats Claude Opus 4.7 on Terminal-Bench](https://pub.towardsai.net/another-opensource-self-improving-model-challenging-the-frontier-labs-was-just-released-052259db69fd) | kw: weights-drop | score: 4 | source: deepreinforce
+- **2026-07-01** | [Moonshot AI Kimi K2.7 Code: Open Weights Released June 12 (Hugging Face)](https://huggingface.co/moonshotai/Kimi-K2.7-Code) | kw: weights-drop | score: 6 | source: moonshot-ai
+- **2026-07-01** | [Moonshot AI Kimi K2.7 Code: Open-Source Coding Agent Model](https://developer.puter.com/ai/moonshotai/kimi-k2.7-code/) | kw: weights-drop | score: 6 | source: moonshot-ai
+- **2026-07-01** | [Moonshot AI Kimi K2.7 Code: Specs, Benchmarks, Pricing](https://felloai.com/kimi-k2-7-code/) | kw: weights-drop | score: 5 | source: kimi
+- **2026-07-01** | [Moonshot AI Kimi K2.7 Code: Full 1.06T MoE Weights](https://www.kimi.com/resources/kimi-k2-7-code) | kw: weights-drop | score: 5 | source: kimi
+- **2026-07-01** | [MiniMax M3: What Actually Changed (And Why the Headline Benchmark Is Already Out of Date)](https://medium.com/candemir13/minimax-m3-what-actually-changed-and-why-the-headline-benchmark-is-already-out-of-date-b5151c34c388) | kw: weights-drop | score: 5 | source: MiniMax
+- **2026-07-01** | [MiniMax M3: Open Weights NOT YET Released, API Available](https://aimodelwatch.dev/models/minimax-m3) | kw: weights-drop | score: 5 | source: minimax
+- **2026-07-01** | [Krea 2 Open Weights Released June 23 (Raw + Turbo)](https://kompozy.io/news/krea-2-open-weights) | kw: weights-drop | score: 4 | source: krea
+- **2026-07-01** | [Sakana AI Fugu Ultra: 1M Context Multi-Agent System Released June 2026](https://airating.io/en/models/sakana-fugu-ultra) | kw: weights-drop | score: 6 | source: sakana-ai
+- **2026-07-01** | [InternScience Agents-A1: 35B MoE Open Weights on Hugging Face](https://aibriefs.news/card/d572d1c5-2992-4757-b17f-ea96104ad860) | kw: weights-drop | score: 6 | source: internscience
+- **2026-07-01** | [DeepSeek V4-Pro: 1.6T Open Weights, April 2026 Launch](https://deepseek.ai/deepseek-v4) | kw: api-launch | score: 4 | source: deepseek
+- **2026-07-01** | [DeepSeek V4-Flash: 1.6T Open Weights Launching July 2026](https://www.10punto10.eu/en/blog/deepseek-v4-pro-and-v4-flash-what-changes-with-the-16t-open-weight-model/) | kw: weights-drop | score: 5 | source: deepseek
+- **2026-07-01** | [Meta FAIR Code World Model: 32B Dense Open Weights for Code Generation](https://aiobserver.co/meta-fair-released-code-world-model-cwm-a-32-billion-parameter-open-weights-llm-to-advance-research-on-code-generation-with-world-models/) | kw: weights-drop | score: 5 | source: amd
+- **2026-07-01** | [AI Updates Today July 2026 — Latest Model Releases](https://llm-stats.com/llm-updates) | kw: api-launch | score: 6 | source: llm-stats-updates
+- **2026-07-01** | [AMALIA Technical Report: Fully Open Source Portuguese LLM](https://arxiv.org/html/2603.26511v1) | kw: weights-drop | score: 5 | source: amalia-llm
+- **2026-07-01** | [Yuvion LLM: Adversarially-Aware LLM for Content Safety (arXiv)](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers) | kw: weights-drop | score: 5 | source: yuvion
+- **2026-07-01** | [Switzerland Launches Apertus: First National Open-Source LLM](https://zugtimes.com/switzerland-launches-apertus-the-nations-first-open-source-llm-for-public-and-business-use/) | kw: weights-drop | score: 5 | source: swiss-ai-apertus
+
 - **2026-07-01** | [Meituan open-sources LongCat-2.0, a 1.6T-parameter LLM trained on Chinese chips](https://app.dealroom.co/news/note/meituan-open-sources-longcat-2-0-a-1-6t-parameter-llm-trained-on-chinese-chips) | kw: weights drop | score: 9 | source: meituan
 - **2026-07-01** | [GLM 5.2 Release -- 1M Context, Coding-First (June 2026)](https://codersera.com/blog/glm-5-2-release-1m-context-coding-2026/) | kw: api launch | score: 8 | source: zhipu-ai
 - **2026-07-01** | [Zai_org releases GLM-5.2, an open-weight model with 753B parameters](https://digg.com/tech/55orgyfd) | kw: api launch | score: 6 | source: zhipu-ai
