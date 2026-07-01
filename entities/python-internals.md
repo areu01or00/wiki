@@ -3931,6 +3931,17 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [cpython-internals · GitHub Topics · GitHub](https://github.com/topics/cpython-internals) | kw: cpython-internals
+- **2026-07-01** | [python - How is CPython implemented? - Stack Overflow](https://stackoverflow.com/questions/71050098/how-is-cpython-implemented) | kw: python
+- **2026-07-01** | [CPython Internals Book – Real Python](https://realpython.com/products/cpython-internals-book/) | kw: CPython
+- **2026-07-01** | [CPython's internals](https://devguide.python.org/internals/) | kw: CPython's
+- **2026-07-01** | [zpoint/CPython-Internals | DeepWiki](https://deepwiki.com/zpoint/CPython-Internals) | kw: zpoint/CPython-Internals
+- **2026-07-01** | [CPython internals: A ten-hour codewalk through the Python...](https://www.youtube.com/playlist?list=PLWkTsO24LpD-k7AgYKEpb2M2SZn-NlKTo) | kw: CPython
+- **2026-07-01** | [CPython Internals: Your Guide to the Python 3 Interpreter: Shaw...](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter/dp/1775093344) | kw: CPython
+- **2026-07-01** | [Tutorial - CPython internals: A ten-hour codewalk through the Python...](https://www.techbliss.org/index.php?threads/cpython-internals-a-ten-hour-codewalk-through-the-python-interpreter-source-code-by-philip-guo.707/) | kw: Tutorial
+- **2026-07-01** | [CPython Runtime Internals: Key Data Structures & Runtime...](https://blog.codingconfessions.com/p/cpython-runtime-internals) | kw: CPython
+- **2026-07-01** | [Python internals: Arbitrary-precision integer implementation](https://rushter.com/blog/python-integer-implementation/) | kw: Python
+
 - **2026-07-01** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: python-internals
 - **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python-internals
 - **2026-07-01** | [How Python's GIL Works - Codefinity](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: python-internals

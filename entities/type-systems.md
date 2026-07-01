@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type
+- **2026-07-01** | [Pytype Python Analyze: Infer Check Stubgen Protocols 2026](https://johal.in/pytype-python-analyze-infer-check-stubgen-protocols-2026-4/) | kw: Pytype
+- **2026-07-01** | [Gradual Typing with Unication-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual
+- **2026-07-01** | [(PDF) Gradual typing for generic type-and-effect systems](https://www.academia.edu/79165611/Gradual_typing_for_generic_type_and_effect_systems) | kw: (PDF)
+
 - **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type-systems
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type-systems
