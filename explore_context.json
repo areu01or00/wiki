@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T19:15:00.000000+00:00",
-  "__last_updated": "2026-07-01T18:50:00+00:00",
-  "last_run": 299,
-  "last_explore": "2026-07-01T17:50:00.000000+00:00",
+  "__last_updated": "2026-07-01T20:00:00.000000+00:00",
+  "last_run": 300,
+  "last_explore": "2026-07-01T20:00:00.000000+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
-  "last_discovery": "MULTI-AGENT STEGANOGRAPHY / DOMAIN-SPECIFIC PLANNING / MIXTURE-MODEL ENSEMBLING",
-  "last_run_framing": "MULTI-AGENT SECURITY / DOMAIN-SPECIFIC PLANNING / LLM ENSEMBLING",
+  "last_discovery": "RLHF / SAFETY CALIBRATION / AGENT EVALUATION",
+  "last_run_framing": "CRITIC-FREE RLHF / OVER-REFUSAL CALIBRATION / AGENT TASK SENSITIVITY",
   "last_framing": "DIVERSITYAGENTDIFFUSION",
   "last_run_notes": "Run 298: 2606.28425, 2606.29399, 2605.00419",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily (CV-heavy) + web_search multi-agent/ensembling/reasoning queries \u2014 Rule 36h PROBE-AXIS multi-agent coordination + model architecture",
+  "last_run_method": "Rule 36h PROBE-AXIS instruction-tuning + ICL + prompt-engineering via arxiv HTML search",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "self-improvement / strategy memory / flow reasoning",
-  "emergent_theme": "self-improvement / strategy memory / flow reasoning",
+  "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
+  "emergent_theme": "instruction-tuning + RLHF + agent-evaluation",
   "chains_updated": 0,
-  "entities_count": 910,
+  "entities_count": 913,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8731,6 +8731,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T19:15:00+00:00",
       "theme": "multi-agent / workflow-steering / security / planner-executor"
+    },
+    {
+      "arxiv_id": "2606.29758",
+      "slug": "ps-ppo-prefix-sampling-ppo-for-critic-free-rlhf-2606.29758",
+      "title": "PS-PPO: Prefix-Sampling PPO for Critic-Free RLHF",
+      "url": "https://arxiv.org/abs/2606.29758",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-01T20:00:00+00:00",
+      "theme": "RLHF / critic-free alignment / prefix-sampling",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31748",
+      "slug": "addressing-over-refusal-in-llms-with-competing-rewards-2606.31748",
+      "title": "Addressing Over-Refusal in LLMs with Competing Rewards",
+      "url": "https://arxiv.org/abs/2606.31748",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-01T20:00:00+00:00",
+      "theme": "safety alignment / over-refusal / competing rewards calibration",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.26918",
+      "slug": "diagnosing-task-insensitivity-in-language-agents-2606.26918",
+      "title": "Diagnosing Task Insensitivity in Language Agents",
+      "url": "https://arxiv.org/abs/2606.26918",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-01T20:00:00+00:00",
+      "theme": "LLM agent evaluation / task insensitivity / OOD robustness",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -20248,6 +20278,21 @@
       ],
       "theme": "agentic credit assignment / llm agent security taxonomy / workflow-formation vulnerabilities",
       "method": "HF daily + web_search multi-agent security queries"
+    },
+    {
+      "run_number": 300,
+      "date": "2026-07-01",
+      "theme": "CRITIC-FREE RLHF / OVER-REFUSAL CALIBRATION / AGENT TASK SENSITIVITY",
+      "theme_axis": "instruction-tuning + RLHF + agent-evaluation",
+      "picks": [
+        "2606.29758",
+        "2606.31748",
+        "2606.26918"
+      ],
+      "method": "Rule 36h PROBE-AXIS: instruction-tuning + ICL + prompt-engineering; HF CV-heavy escape to arxiv HTML search",
+      "papers_found": 439,
+      "fresh_llm": 25,
+      "run_type": "emergent-concept"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 300: Critic-Free RLHF / Over-Refusal Calibration / Agent Task Sensitivity (Rule 36h PROBE-AXIS: instruction-tuning + ICL + prompt-engineering)
+
+- [[ps-ppo-prefix-sampling-ppo-for-critic-free-rlhf-2606.29758]]
+  [PS-PPO: Prefix-Sampling PPO for Critic-Free RLHF](https://arxiv.org/abs/2606.29758) — Hwang, Doo Hwan; Kim, Kee-Eung — prefix-sampling replaces learned critic for advantage estimation in PPO, enabling critic-free RLHF that matches full-critic PPO on reasoning benchmarks at lower memory overhead. **First critic-free RLHF sampling baseline paper in the wiki.**
+
+- [[addressing-over-refusal-in-llms-with-competing-rewards-2606.31748]]
+  [Addressing Over-Refusal in LLMs with Competing Rewards](https://arxiv.org/abs/2606.31748) — Kim, Taeyoun; Kumar, Aviral — formalizes over-refusal as competing reward miscalibration between safety and helpfulness, proposing reward-composition technique that explicitly balances signals during training for better Pareto curves. **First competing-rewards safety calibration paper in the wiki.**
+
+- [[diagnosing-task-insensitivity-in-language-agents-2606.26918]]
+  [Diagnosing Task Insensitivity in Language Agents](https://arxiv.org/abs/2606.26918) — Liu, Jingyu; Wu, Xiaopeng; Chen, Kehan + 2 — systematic diagnosis of task insensitivity as a distinct agent failure mode: models conflate task identity with surface context, failing to adapt when task constraints shift mid-execution. **First task-insensitivity diagnostic framework for LLM agents in the wiki.**
+
 ### 2026-07-01 — Run 299: Agentic Credit Assignment / LLM Agent Security Taxonomy / Workflow-Formation Vulnerabilities (Rule 36h PROBE-AXIS: multi-agent security + embodied coordination)
 
 - [[triage-role-typed-credit-assignment-for-agentic-reinforcement-learning-2606.32017]]
