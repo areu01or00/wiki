@@ -31,6 +31,15 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Monad functional programming Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional programming
+- **2026-07-01** | [7 Best Free Haskell Courses for 2026 Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: functional programming
+- **2026-07-01** | [Rust Functional Programming and Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional programming
+- **2026-07-01** | [Monads and Monad-Like Patterns in Rust Exploring Functional](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional programming
+- **2026-07-01** | [Monads and Effects Bartosz Milewski Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: functional programming
+- **2026-07-01** | [What Is a Monad in Functional Programming Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: functional programming
+- **2026-07-01** | [Monads A Powerful Concept in Functional Programming Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: functional programming
+- **2026-07-01** | [monad in Functional programming DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: functional programming
+
 - **2026-07-01** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional programming
 - **2026-07-01** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional programming
 - **2026-07-01** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional programming

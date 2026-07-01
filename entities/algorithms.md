@@ -4117,6 +4117,16 @@
 
 
 ## Updates
+- **2026-07-01** | [Coding Interview Prep 2026 LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms
+- **2026-07-01** | [The Ultimate Leetcode Roadmap Data Structures and Algorithms Simplified Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
+- **2026-07-01** | [ashishps1 awesome-leetcode-resources GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: algorithms
+- **2026-07-01** | [NeetCode Coding Interview Prep Courses Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-07-01** | [Namaste DSA Sheet To Crack FAANG and PBCs Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
+- **2026-07-01** | [I Tried 20 Plus Java DSA Courses with LeetCode Exercises on Udemy Medium](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: algorithms
+- **2026-07-01** | [LeetCode The Worlds Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: algorithms
+- **2026-07-01** | [Data Structures and Algorithms Interview Guide 2026 TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: algorithms
+- **2026-07-01** | [Data Structure I LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: algorithms
+
 - **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
 - **2026-07-01** | [leetcode · GitHub Topics · GitHub](https://github.com/topics/leetcode) | kw: algorithms
 - **2026-07-01** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: algorithms

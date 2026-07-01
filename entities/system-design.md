@@ -3619,6 +3619,12 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System Design for Agentic AI Systems: From Distributed Systems](https://www.abstractalgorithms.dev/system-design-for-agentic-ai-systems-from-distributed-principles-to-production) | kw: system design
+- **2026-07-01** | [Design Patterns](https://refactoring.guru/design-patterns) | kw: system design
+- **2026-07-01** | [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) | kw: system design
+- **2026-07-01** | [Architectural Patterns Moving Beyond Cloud-Native to Local-First InfoQ](https://www.infoq.com/podcasts/natural-evolution-cloud-native/) | kw: system design
+- **2026-07-01** | [What are microservices?](https://microservices.io/) | kw: system design
+
 - **2026-07-01** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system design
 - **2026-07-01** | [How I Build a Distributed System in 2026: Principles, Patterns, and ...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: system design
 - **2026-07-01** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: system design

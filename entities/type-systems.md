@@ -41,6 +41,13 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Elixir v1.20 released now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type systems
+- **2026-07-01** | [Navigating the Language Labyrinth A 2026 Matrix Analysis of typing and paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type systems
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance arXiv](https://arxiv.org/pdf/2603.05649) | kw: type systems
+- **2026-07-01** | [PyCon US 2026 Typing Summit Recap](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: type systems
+- **2026-07-01** | [What type systems do you find interesting useful underrated Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: type systems
+- **2026-07-01** | [Local Contextual Type Inference Proceedings of the ACM](https://dl.acm.org/doi/10.1145/3776653) | kw: type systems
+
 
 - **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir
 - **2026-07-01** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type
