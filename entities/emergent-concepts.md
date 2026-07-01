@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 305: Safety-Mechanisms / Red-Teaming / Alignment Floor (Rule 36h PROBE-AXIS: safety-mechanisms RLHF red-teaming jailbreak-defense)
+
+- [[ai-infra-guard-multi-layer-agent-red-teaming-2606.31227]] — [AI-Infra-Guard: Securing the AI Agent — Multi-Layer Agent Red Teaming Framework](https://arxiv.org/abs/2606.31227): Yang, Yong; Zheng, Xing; Wu, Huiyu + 7 — introduces multi-layer red teaming paradigm distinguishing attack surfaces at the model layer, MCP protocol layer, agent platform layer, and tool/API layer, with AI-Infra-Guard open-source framework for layered adversarial evaluation. **First multi-layer AI-infra red teaming framework in the wiki.**
+
+- [[adversabench-automated-llm-red-teaming-2606.24589]] — [AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation](https://arxiv.org/abs/2606.24589): Khandelwal, Khanak — end-to-end red-teaming pipeline with five structured mutation operators, three-judge panel confirmation, and cross-model transferability analysis across GPT/Claude/Gemini/Llama families. **First five-operator adversarial prompt mutation pipeline with multi-judge confirmation in the wiki.**
+
+- [[alignment-floor-persona-customization-breaks-safety-2605.27382]] — [The Alignment Floor: How Persona Customization Breaks Safety in Weakly-Aligned LLMs](https://arxiv.org/abs/2605.27382): Zhang, Xing; Wang, Guanghui; Cui, Yanwei + 4 — defines alignment floor Δ_floor(m) as the range of sycophancy rates across persona conditions, showing lightweight fine-tuning widens this floor and creates exploitable safety degradation surfaces. **First alignment floor quantitative metric in the wiki.**
+
 - [[clarus-coordinating-autonomous-research-agents-web-scale-scientific-collaboration-2606.30246]] — [Clarus: Coordinating Autonomous Research Agents toward Web-Scale Scientific Collaboration](https://arxiv.org/abs/2606.30246): Guo, Zihan; Chen, Zeyi; Chen, Zhiyu + 15 — proposes coordination infrastructure for web-scale multi-agent scientific collaboration networks, enabling agents to share provenance, debate findings, and build on each other's work across open research ecosystems. **First multi-agent-scientific-collaboration-infrastructure paper in the wiki.**
 
 - [[theoretical-limits-of-language-model-alignment-2605.07105]] — [Theoretical Limits of Language Model Alignment](https://arxiv.org/abs/2605.07105): Paes, Lucas Monteiro; Mackraz, Natalie; Theobald, Barry-John + 1 — establishes formal bounds connecting reward function distance to alignment degradation, proving that ensembling mitigates reward hacking under the base model distance condition. **First theoretical-limits-of-alignment paper in the wiki.**

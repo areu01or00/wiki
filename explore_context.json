@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T22:00:00.000000+00:00",
   "__last_updated": "2026-07-01T20:00:00.000000+00:00",
-  "last_run": 304,
-  "last_explore": "2026-07-01T22:00:00.000000+00:00",
-  "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
-  "last_discovery": "SAFETY-MECHANISMS / SCIENTIFIC-AI-AUTOMATION / ALIGNMENT THEORY",
-  "last_run_framing": "SAFETY-MECHANISMS / SCIENTIFIC-AI-AUTOMATION / ALIGNMENT THEORY",
+  "last_run": 305,
+  "last_explore": "2026-07-02T00:38:00.000000+00:00",
+  "last_global_explore": "2026-07-02T00:38:00.000000+00:00",
+  "last_discovery": "Safety-Mechanisms / Red-Teaming / Alignment Floor",
+  "last_run_framing": "Safety-Mechanisms / Red-Teaming / Alignment Floor",
   "last_framing": "DIVERSITYAGENTDIFFUSION",
-  "last_run_notes": "Run 304: 2606.30246, 2605.07105, 2601.04034",
+  "last_run_notes": "Run 305: 2606.31227, 2606.24589, 2605.27382",
   "last_pass_type": "emergent-concept",
   "last_run_method": "Rule 36h PROBE-AXIS: safety-mechanisms + scientific-AI-automation",
   "run_method": "emergent-concept-search-via-web-search-discovery",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
   "chains_updated": 0,
-  "entities_count": 925,
+  "entities_count": 928,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8881,6 +8881,36 @@
       "discovered": "2026-07-01T20:15:27.366407+00:00",
       "theme": "safety-mechanisms / jailbreak-defense / honeypot / multi-agent-defense",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31227",
+      "slug": "ai-infra-guard-multi-layer-agent-red-teaming-2606.31227",
+      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+      "url": "https://arxiv.org/abs/2606.31227",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "theme": "safety-mechanisms / red-teaming / alignment-floor",
+      "discovered": "2026-07-01T20:32:53+00:00"
+    },
+    {
+      "arxiv_id": "2606.24589",
+      "slug": "adversabench-automated-llm-red-teaming-2606.24589",
+      "title": "AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation",
+      "url": "https://arxiv.org/abs/2606.24589",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "theme": "safety-mechanisms / red-teaming / alignment-floor",
+      "discovered": "2026-07-01T20:32:53+00:00"
+    },
+    {
+      "arxiv_id": "2605.27382",
+      "slug": "alignment-floor-persona-customization-breaks-safety-2605.27382",
+      "title": "The Alignment Floor: How Persona Customization Breaks Safety in Weakly-Aligned LLMs",
+      "url": "https://arxiv.org/abs/2605.27382",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts",
+      "theme": "safety-mechanisms / red-teaming / alignment-floor",
+      "discovered": "2026-07-01T20:32:53+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -15707,6 +15737,30 @@
       "url": "https://arxiv.org/abs/2601.04034",
       "discovered": "2026-07-01T20:15:27.366407+00:00",
       "theme": "safety-mechanisms / jailbreak-defense / honeypot / multi-agent-defense"
+    },
+    {
+      "arxiv_id": "2606.31227",
+      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+      "slug": "ai-infra-guard-multi-layer-agent-red-teaming-2606.31227",
+      "url": "https://arxiv.org/abs/2606.31227",
+      "discovered": "2026-07-01T20:32:53+00:00",
+      "theme": "safety-mechanisms / red-teaming / alignment-floor"
+    },
+    {
+      "arxiv_id": "2606.24589",
+      "title": "AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation",
+      "slug": "adversabench-automated-llm-red-teaming-2606.24589",
+      "url": "https://arxiv.org/abs/2606.24589",
+      "discovered": "2026-07-01T20:32:53+00:00",
+      "theme": "safety-mechanisms / red-teaming / alignment-floor"
+    },
+    {
+      "arxiv_id": "2605.27382",
+      "title": "The Alignment Floor: How Persona Customization Breaks Safety in Weakly-Aligned LLMs",
+      "slug": "alignment-floor-persona-customization-breaks-safety-2605.27382",
+      "url": "https://arxiv.org/abs/2605.27382",
+      "discovered": "2026-07-01T20:32:53+00:00",
+      "theme": "safety-mechanisms / red-teaming / alignment-floor"
     }
   ],
   "emergent_concept_search_log": [
@@ -20567,6 +20621,39 @@
       "theme": "SAFETY-MECHANISMS / SCIENTIFIC-AI-AUTOMATION / ALIGNMENT THEORY",
       "run_method": "Rule 36h PROBE-AXIS: safety-mechanisms + scientific-AI-automation",
       "timestamp": "2026-07-01T20:15:27.366407+00:00"
+    },
+    {
+      "run_number": 305,
+      "date": "2026-07-02",
+      "papers_found": [
+        {
+          "arxiv_id": "2606.31227",
+          "slug": "ai-infra-guard-multi-layer-agent-red-teaming-2606.31227",
+          "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+          "url": "https://arxiv.org/abs/2606.31227",
+          "vector": "emergent_concept_search",
+          "theme": "safety-mechanisms / red-teaming / alignment-floor"
+        },
+        {
+          "arxiv_id": "2606.24589",
+          "slug": "adversabench-automated-llm-red-teaming-2606.24589",
+          "title": "AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation",
+          "url": "https://arxiv.org/abs/2606.24589",
+          "vector": "emergent_concept_search",
+          "theme": "safety-mechanisms / red-teaming / alignment-floor"
+        },
+        {
+          "arxiv_id": "2605.27382",
+          "slug": "alignment-floor-persona-customization-breaks-safety-2605.27382",
+          "title": "The Alignment Floor: How Persona Customization Breaks Safety in Weakly-Aligned LLMs",
+          "url": "https://arxiv.org/abs/2605.27382",
+          "vector": "emergent_concept_search",
+          "theme": "safety-mechanisms / red-teaming / alignment-floor"
+        }
+      ],
+      "run_method": "Rule 36h PROBE-AXIS: safety-mechanisms RLHF red-teaming jailbreak-defense",
+      "last_framing": "Safety-Mechanisms / Red-Teaming / Alignment Floor",
+      "theme": "safety-mechanisms / red-teaming / alignment-floor"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
