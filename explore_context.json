@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T08:00:00.000000+00:00",
   "__last_updated": "2026-07-02T08:00:00.000000+00:00",
-  "last_run": 310,
-  "last_explore": "2026-07-02T09:00:00.000000+00:00",
-  "last_global_explore": "2026-07-02T09:00:00.000000+00:00",
-  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Local Flatness OOD / Capability Minimization Safety / Spectral DPP Data Selection",
-  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: calibration-under-distribution-shift / safety-mechanisms / data-selection",
+  "last_run": 312,
+  "last_explore": "2026-07-02T10:30:00.000000+00:00",
+  "last_global_explore": "2026-07-02T10:30:00.000000+00:00",
+  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Reasoning Robustness / Memory Failure Modes / Metacognitive Compliance Trap",
+  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: reasoning-collapse-under-perturbation / memory-architectural-constraints / adversarial-metacognition-degradation",
   "last_framing": "DEEP-SUB-CLUSTER PROBE-AXIS",
-  "last_run_notes": "Run 310: 2606.29952, 2606.13884, 2606.19411",
+  "last_run_notes": "Run 312: 2604.08571, 2605.26667, 2605.02398",
   "last_pass_type": "emergent-concept",
   "last_run_method": "Rule 36h PROBE-AXIS: quantization-temperature safety interaction + uncertainty-gated few-shot reranking + quantifiable-complexity monadic FOL benchmark (deep-sub-cluster from consumed primaries)",
   "run_method": "emergent-concept-search-via-web-search-discovery",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
   "chains_updated": 0,
-  "entities_count": 943,
+  "entities_count": 949,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9079,6 +9079,33 @@
       "vector": "deep-sub-cluster: exemplar-order-effects / collaborative-coding / self-training calibration",
       "theme": "exemplar-correctness-failure / interactive-coding-benchmark / internal-self-calibration",
       "discovered": "2026-07-01T22:22:11.053049"
+    },
+    {
+      "arxiv_id": "2604.08571",
+      "slug": "robust-reasoning-benchmark-2604.08571",
+      "title": "Robust Reasoning Benchmark",
+      "url": "https://arxiv.org/abs/2604.08571",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T10:30:00+00:00",
+      "theme": "reasoning-robustness / memory-failure / metacognitive-compliance"
+    },
+    {
+      "arxiv_id": "2605.26667",
+      "slug": "memfail-stress-testing-failure-modes-of-llm-memory-systems-2605.26667",
+      "title": "MemFail: Stress-Testing Failure Modes of LLM Memory Systems",
+      "url": "https://arxiv.org/abs/2605.26667",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T10:30:00+00:00",
+      "theme": "reasoning-robustness / memory-failure / metacognitive-compliance"
+    },
+    {
+      "arxiv_id": "2605.02398",
+      "slug": "the-compliance-trap-how-structural-constraints-degrade-frontier-ai-metacognition-2605.02398",
+      "title": "The Compliance Trap",
+      "url": "https://arxiv.org/abs/2605.02398",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T10:30:00+00:00",
+      "theme": "reasoning-robustness / memory-failure / metacognitive-compliance"
     }
   ],
   "emergent_discoveries": [
@@ -20994,6 +21021,19 @@
         "2603.16500"
       ],
       "method": "Rule 36h PROBE-AXIS (deep-sub-cluster from consumed primaries: exemplar-order-effects / collaborative-coding / self-training calibration)",
+      "added": 3
+    },
+    {
+      "run": 312,
+      "date": "2026-07-02T10:30:00+00:00",
+      "theme": "Deep-Sub-Cluster PROBE-AXIS: reasoning robustness / memory failure modes / metacognitive compliance trap",
+      "framing": "Deep-Sub-Cluster PROBE-AXIS: reasoning-collapse-under-perturbation / memory-architectural-constraints / adversarial-metacognition-degradation",
+      "picks": [
+        "2604.08571",
+        "2605.26667",
+        "2605.02398"
+      ],
+      "method": "HF daily 5 dates (174 papers) + web_search 4-query (reasoning robustness + memory failure + metacognition adversarial) + 5-store dedup",
       "added": 3
     }
   ],

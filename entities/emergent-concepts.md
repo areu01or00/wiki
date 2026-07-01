@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 312: Deep-Sub-Cluster PROBE-AXIS: Reasoning Robustness / Memory Failure Modes / Metacognitive Compliance Trap (Rule 36c: reasoning-collapse-under-perturbation / memory-architectural-constraints / adversarial-metacognition-degradation)
+
+- [[robust-reasoning-benchmark-2604.08571]] — [Robust Reasoning Benchmark](https://arxiv.org/abs/2604.08571) — Golikov, Pavel; Opryshko, Evgenii; Pekhimenko, Gennady + 1 — 13-perturbation evaluation pipeline for LLM reasoning robustness; reveals up to 54pp accuracy degradation under structural noise including cognitive thrashing, tokenization breakdown, and reasoning collapse. **First perturbation-robustness taxonomy for mathematical reasoning in the wiki.**
+
+- [[memfail-stress-testing-failure-modes-of-llm-memory-systems-2605.26667]] — [MemFail: Stress-Testing Failure Modes of LLM Memory Systems](https://arxiv.org/abs/2605.26667) — Garg, Ishir; Kolhe, Neel; Song, Dawn + 1 — systematic stress test exposing architectural failure modes in external memory systems (catastrophic forgetting, retrieval interference, temporal grounding failure); proves these failures are inherent to flat KV-store designs. **First architectural-constraint memory failure taxonomy in the wiki.**
+
+- [[the-compliance-trap-how-structural-constraints-degrade-frontier-ai-metacognition-2605.02398]] — [The Compliance Trap: How Structural Constraints Degrade Frontier AI Metacognition Under Adversarial Pressure](https://arxiv.org/abs/2605.02398) — Kumar, Rahul — metacognitive stability failure under adversarial pressure where safety training paradoxically amplifies cognitive degradation via constrained-reasoning collapse, false-consensus escalation, and clarificationphasia. **First metacognitive-compliance-trap failure taxonomy in the wiki.**
+
 ### 2026-07-02 — Run 311: Deep-Sub-Cluster PROBE-AXIS: Exemplar Correctness Failure / Interactive Coding Benchmark / Internal Self-Calibration (Rule 36h: exemplar-order-effects / collaborative-coding / self-training calibration)
 
 - [[swe-interact-reimagining-swe-benchmarks-as-user-driven-long-horizon-coding-sessions-2606.30573]] — [SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions](https://arxiv.org/abs/2606.30573) — Raghavendra, Mohit; Gunjal, Anisha; Sabharwal, Aakash + 1 — new testbed for interactive, user-driven coding agent evaluation; reveals 40-50pp gap between frontier model performance on static vs interactive SWE tasks. **First interactive-collaborative-coding-benchmark paper in the wiki.**
