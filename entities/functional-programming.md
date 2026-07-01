@@ -1,4 +1,9 @@
 ## Updates
+- **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: functional-programming
+- **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional-programming
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: functional-programming
+- **2026-07-01** | [Issue 529 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/529.html) | kw: functional-programming
+
 
 - **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming &
 - **2026-07-01** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/patterns-rust/10/7/) | kw: Monads and Monad-Like Patterns

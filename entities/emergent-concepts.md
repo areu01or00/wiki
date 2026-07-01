@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 248) — KV-CACHE EVICTION LEARNABLE INDEXER / LLM SECURITY BENCHMARK METHODOLOGY / AGENTIC WORLD MODEL ACQUISITION**
+
+- [[indexmem-learned-kv-cache-eviction-with-latent-memory-2605.25475]]
+  IndexMem: Learned KV-Cache Eviction with Latent Memory: IndexMem replaces heuristic KV-cache eviction policies with a learnable indexer that predicts KV-token importance from the evolving attention context, enabling selective retention of high-value activations during long-context inference. Trained importance scoring reduces memory footprint while preserving model quality — orthogonal to prior recency/attention-weight heuristics. Published May 2025. **First learnable KV-cache eviction framework with latent memory module in the wiki.**
+
+- [[gate-ai-llm-security-benchmark-evaluation-methodology-2606.02959]]
+  Gate AI: LLM Security Benchmark Evaluation Methodology: Addresses per-dataset threshold tuning and undisclosed operating points that inflate published prompt-injection/jailbreak detector metrics. Evaluation harness scored across 16 public benchmarks (12,111 samples) via 5-fold StratifiedKFold cross-validation — provides reproducible methodology for LLM security evaluation. Reveals many published detector evaluations are unreliable. Published June 2026. **First rigorous cross-validation-based benchmark methodology for LLM security detectors in the wiki.**
+
+- [[can-llm-agents-infer-world-models-evidence-from-agentic-automata-learning-2606.16576]]
+  Can LLM Agents Infer World Models? Agentic Automata Learning: Tests whether tool-calling LLM agents can actively acquire world models via membership and equivalence queries against a hidden deterministic finite automaton. Establishes empirical conditions for world-model acquisition in agents — contrasting with passive world-model construction (WorldEvolver, Internalizing the Future) by focusing on the active inference mechanism. Published June 2026. **First active world-model acquisition framework for LLM agents via automata learning in the wiki.**
 **2026-07-01 — Run 247) — LLM SQL QUERY REWRITING / MULTI-AGENT ENTERPRISE DEPLOYMENT / STREAMING VIDEO-LLM WITH HIERARCHICAL MEMORY**
 
 - [[requel-robust-llm-assisted-query-rewriting-and-optimization-2606.20853]]

@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type-systems
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type-systems
+- **2026-07-01** | [Typed and Confused: Studying the Unexpected Dangers of Gradual...](https://www.staicu.org/publications/ase2024.pdf) | kw: type-systems
+- **2026-07-01** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb) | kw: type-systems
+- **2026-07-01** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: type-systems
+- **2026-07-01** | [The Dynamic Practice and Static Theory of Gradual Typing](http://dagstuhl.sunsite.rwth-aachen.de/volltexte/2019/10549/pdf/LIPIcs-SNAPL-2019-6.pdf) | kw: type-systems
+- **2026-07-01** | [The Ins and Outs of Gradual Type Inference](https://www.cs.umd.edu/~aseem/popl2012.pptx) | kw: type-systems
+
 - **2026-07-01** | [Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/pdf/2603.05649) | kw: Efficient
 - **2026-07-01** | [PyCon US 2026 Typing Summit Recap](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon
 - **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type
