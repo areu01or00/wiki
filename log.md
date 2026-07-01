@@ -2313,3 +2313,8 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 - Theme: agentic commerce / solver-grounded CAD reasoning / agentic workflow taxonomy
 - Picks: ShopX (2606.31693) / Embodied CAD (2606.31252) / Characterizing LLM Agentic Workflows (2606.29116)
 - Status: committed
+## Run 260 — 2026-07-01T07:30 UTC
+**Theme**: METACOGNITIVE UNCERTAINTY / MULTI-BLOCK DIFFUSION LM / KOREAN WEB AGENT BENCHMARK
+**Picks**: 2606.32032 (MetacognitiveFeedback), 2606.29215 (MultiBD-LMs), 2606.27595 (Ko-WideSearch)
+**Discover**: HF daily 2026-07-01 + 2026-06-30 + 2026-06-29 → 93 total, ~28 fresh after 5-store dedup → abstract inspection → 3 orthogonal picks
+**Status**: SUCCESS
