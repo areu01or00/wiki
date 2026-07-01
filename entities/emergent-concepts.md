@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+
+### 2026-07-01 — Run 286: LLM-as-Judge Reporting / VLA Reasoning Efficiency / Self-Evolving LLM UQ
+
+- [[reasoning-aware-speculative-decoding-for-efficient-vision-language-action-models-in-autonomous-driving-2606.31160]]
+  Reasoning-aware Speculative Decoding for Efficient VLA Models in Autonomous Driving — targets the autoregressive chain-of-causation (CoC) reasoning step that dominates VLA inference latency in autonomous driving, leaving the cheap parallel trajectory head untouched. First paper to decompose VLA latency into reasoning vs. action and specifically accelerate the reasoning component. **First reasoning-aware speculative decoding for VLA in wiki.**
+
+- [[how-to-correctly-report-llm-as-a-judge-evaluations-2511.21140]]
+  How to Correctly Report LLM-as-a-Judge Evaluations — addresses systematic bias in naive LLM-as-Judge scoring from imperfect judge sensitivity/specificity, providing a plug-in framework for bias-corrected evaluation scores and rigorous statistical reporting. Complements benchmarking-llm-as-a-judge with methodological rigor on evaluation reporting. **First methodological framework for bias-corrected LLM-as-Judge reporting in wiki.**
+
+- [[robust-uncertainty-quantification-for-self-evolving-llms-via-continual-domain-pretraining-2510.22931]]
+  Robust UQ for Self-Evolving LLMs via Continual Domain Pretraining — bridges uncertainty quantification with continual learning for self-evolving LLMs, showing that naive UQ fails under CL distributional shift and proposing a robust framework maintaining calibrated confidence as models evolve. **First robust UQ for continual-learning self-evolving LLMs in wiki.**
 ### 2026-07-01 — Run 285: On-Policy Distillation / Legal Reasoning Benchmark / Automatic Prompt Optimization
 
 - [[dd-gepa-prompt-optimization-for-dialogue-disentanglement-focusing-on-task-instruction-and-utterance-representation-2606.07894]]

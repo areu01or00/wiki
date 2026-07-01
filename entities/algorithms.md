@@ -4117,6 +4117,16 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Data Structure and
+- **2026-07-01** | [leetcode · GitHub Topics · GitHub](https://github.com/topics/leetcode) | kw: leetcode · GitHub
+- **2026-07-01** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: Comprehensive List of
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: Problems - LeetCode
+- **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: Data Structures and
+- **2026-07-01** | [#leetcode #codinginterview #softwareengineering #datastructures...](https://www.linkedin.com/posts/aryan-raj-dev_leetcode-codinginterview-softwareengineering-activity-7465991876924428288-XhIQ) | kw: #leetcode #codinginterview #softwareengineering
+- **2026-07-01** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms · GitHub
+- **2026-07-01** | [LeetCode Review | Will LeetCode Make You A Better Coder?](https://thecodebytes.com/leetcode-review/) | kw: LeetCode Review |
+- **2026-07-01** | [Interview Coder - AI Interview Assistant for Technical Interviews](https://www.interviewcoder.co/) | kw: Interview Coder -
+
 - **2026-07-01** | [LeetCode Isn't Dead in 2026 - But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-its-no-longer-enough-fed7727d9d04) | kw: topic
 - **2026-07-01** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: topic
 - **2026-07-01** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: topic

@@ -33,6 +33,15 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM - Wikipedia
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize JIT Compilation
+- **2026-07-01** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures in JIT
+- **2026-07-01** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM | PPT
+- **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A LLVM JIT
+- **2026-07-01** | [In this article, we will compile the LLVM IR into object code.](https://iq.opengenus.org/compiling-to-object-code/) | kw: In this article,
+- **2026-07-01** | [2017 LLVM Developers' Meeting: M. Zolotukhin "LLVM Compile-Time...](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: 2017 LLVM Developers'
+
 - **2026-07-01** | [LLVM Project Blog](https://llvm.org/blog/) | kw: topic
 - **2026-07-01** | [Polymorphic Type inference for dynamic languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: topic
 
