@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T12:45:00.000000+00:00",
-  "__last_updated": "2026-07-01T12:20:12.000000+00:00",
-  "last_run": 276,
+  "updated": "2026-07-01T12:50:00.000000+00:00",
+  "__last_updated": "2026-07-01T12:50:00.000000+00:00",
+  "last_run": 277,
   "last_explore": "2026-07-01T11:07:00.269351+00:00",
   "last_global_explore": "2026-07-01T12:45:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "RL TRAINING DYNAMICS / MULTIMODAL AGENTIC SEARCH / LATENT VS EXPLICIT REASONING",
-  "last_framing": "agentic evaluation / bounded-memory eviction / rag hallucination / multi-agent complexity",
-  "last_run_notes": "Run 276: 2606.30789 / 2606.31504 / 2606.31779",
+  "last_run_framing": "AUTONOMOUS AGENT DEVELOPMENT / AGENTIC SKILL EVALUATION / LONG-TERM AGENT MEMORY",
+  "last_framing": "AUTONOMOUS AGENT DEVELOPMENT / AGENTIC SKILL EVALUATION / LONG-TERM AGENT MEMORY",
+  "last_run_notes": "Run 277: 2606.04455 / 2606.17819 / 2606.22844",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML 8-query search (380 IDs, 357 unique, 283 fresh after 5-store dedup, 3 orthogonal LLM picks)",
+  "last_run_method": "web_search emergent-concept discovery (11 fresh candidates, 3 orthogonal LLM picks)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agentic skill composition / evidential scientific reasoning / RL reward shaping",
   "emergent_theme": "scene-aware agent planning / VLM-guided RL / scientific evidential agents",
   "chains_updated": 0,
-  "entities_count": 838,
+  "entities_count": 841,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8107,6 +8107,30 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T12:20:12+00:00",
       "theme": "latent reasoning / chain-of-thought / looped transformers / LOTUS"
+    },
+    {
+      "arxiv_id": "2606.04455",
+      "title": "The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?",
+      "url": "https://arxiv.org/abs/2606.04455",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:50:16+00:00",
+      "theme": "autonomous agent development / recursive self-improvement / benchmark"
+    },
+    {
+      "arxiv_id": "2606.17819",
+      "title": "A Framework for Evaluating Agentic Skills at Scale",
+      "url": "https://arxiv.org/abs/2606.17819",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:50:16+00:00",
+      "theme": "agentic skill evaluation / benchmark methodology / skill reuse"
+    },
+    {
+      "arxiv_id": "2606.22844",
+      "title": "RaMem: Contextual Reinstatement for Long-term Agentic Memory",
+      "url": "https://arxiv.org/abs/2606.22844",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:50:16+00:00",
+      "theme": "long-term agent memory / context collapse / evidence-anchored retrieval"
     }
   ],
   "emergent_discoveries": [
@@ -18741,6 +18765,17 @@
       ],
       "framing": "RL TRAINING DYNAMICS / MULTIMODAL AGENTIC SEARCH / LATENT VS EXPLICIT REASONING",
       "theme": "RL training dynamics / multimodal agentic search / latent vs explicit reasoning"
+    },
+    {
+      "run": 277,
+      "date": "2026-07-01",
+      "papers": [
+        "2606.04455",
+        "2606.17819",
+        "2606.22844"
+      ],
+      "framing": "AUTONOMOUS AGENT DEVELOPMENT / AGENTIC SKILL EVALUATION / LONG-TERM AGENT MEMORY",
+      "theme": "autonomous agent development benchmark / agentic skill evaluation methodology / long-term memory context collapse"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
@@ -18851,8 +18886,8 @@
   "last_watched": "2026-06-29T10:30:00+00:00",
   "last_run_pitfalls": [],
   "last_run_theme": "INFERENCE EFFICIENCY / SECURITY EVALUATION / WORLD MODEL ACQUISITION",
-  "emergent_concept_papers_count": 546,
-  "emergent_discoveries_count": 705,
+  "emergent_concept_papers_count": 743,
+  "emergent_discoveries_count": 768,
   "last_run_picks_count": 3,
   "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE",
   "last_run_timestamp": "2026-07-01T00:00:00+00:00",
