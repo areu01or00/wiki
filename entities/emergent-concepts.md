@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 268) — AGENT INTERACTION DATA SYNTHESIS / CROSS-LINGUAL PARAMETRIC KNOWLEDGE / SEMANTIC KV-CACHE COMPRESSION**
+
+- [[scaling-agentic-capabilities-via-grounded-interaction-synthesis-2606.02001]]
+  Agent Data Synthesis: First framework (GAIS) for grounded agentic interaction synthesis at scale — uses MCP server protocols + structure-guided planning to generate diverse agent training data. Orthogonal to prior runs' agentic planning, data synthesis, and KV-cache efficiency papers.
+
+- [[cross-lingual-exploration-for-parametric-knowledge-2606.24579]]
+  Multilingual Knowledge: First systematic analysis of cross-lingual parametric knowledge exploration in LLMs — four dimensions governing multilingual factual retrieval, compute Pareto frontier vs native-language scaling. Orthogonal to prior runs' knowledge conflict resolution and multilingual unlearning papers.
+
+- [[compresskv-semantic-retrieval-guided-kv-cache-compression-for-resource-efficient-long-context-llm-inference-2606.24467]]
+  KV-Cache Efficiency: First semantic retrieval head (SRH) approach to KV-cache compression — preserves 97% of full-cache performance with 3% KV storage on LongBench. Orthogonal to prior runs' context recycling and coverage-driven KV eviction papers.
 **2026-07-01 — Run 267) — DIFFUSION LANGUAGE MODEL ANALYSIS / EMBODIED PLANNING / AGENT DEMONSTRATION READING**
 
 - [[title-diffusion-language-models-an-experimental-analysis-2606.19475]]

@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-02T12:00:00.000000+00:00",
+  "updated": "2026-07-01T09:34:09.474205+00:00",
   "__last_updated": "2026-07-02T12:00:00.000000+00:00",
-  "last_run": 267,
-  "last_explore": "2026-07-01T09:09:00.000000+00:00",
-  "last_global_explore": "2026-07-01T09:09:00.000000+00:00",
+  "last_run": 268,
+  "last_explore": "2026-07-01T09:34:09.474205+00:00",
+  "last_global_explore": "2026-07-01T09:34:09.474205+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "DIFFUSION LANGUAGE MODEL ANALYSIS / EMBODIED PLANNING / AGENT DEMONSTRATION READING",
-  "last_framing": "diffusion language model / embodied planning / agent demonstration reading",
-  "last_run_notes": "Run 267: 2606.19475 / 2606.31260 / 2606.20978",
+  "last_run_framing": "AGENT INTERACTION DATA SYNTHESIS / CROSS-LINGUAL PARAMETRIC KNOWLEDGE / SEMANTIC KV-CACHE COMPRESSION",
+  "last_framing": "agent interaction data synthesis / cross-lingual parametric knowledge / semantic KV-cache compression",
+  "last_run_notes": "Run 268: 2606.02001 / 2606.24579 / 2606.24467",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search 4-query (200 IDs, 9 fresh, 3 picked)",
+  "last_run_method": "arxiv HTML search 4-query (193 IDs, 390 fresh, 7 LLM-filtered, 3 picked)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 814,
+  "entities_count": 817,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7936,6 +7936,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T09:09:00+00:00",
       "theme": "LLM agent authoring / programming by demonstration / procedural knowledge structuring"
+    },
+    {
+      "arxiv_id": "2606.02001",
+      "title": "Scaling Agentic Capabilities via Grounded Interaction Synthesis",
+      "slug": "scaling-agentic-capabilities-via-grounded-interaction-synthesis-2606.02001",
+      "url": "https://arxiv.org/abs/2606.02001",
+      "theme": "agent training data synthesis / grounded interaction / MCP protocol",
+      "discovered": "2026-07-01T09:34:09.474205+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.24579",
+      "title": "Cross-Lingual Exploration for Parametric Knowledge",
+      "slug": "cross-lingual-exploration-for-parametric-knowledge-2606.24579",
+      "url": "https://arxiv.org/abs/2606.24579",
+      "theme": "multilingual LLM / parametric knowledge / cross-lingual exploration",
+      "discovered": "2026-07-01T09:34:09.474205+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.24467",
+      "title": "CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference",
+      "slug": "compresskv-semantic-retrieval-guided-kv-cache-compression-for-resource-efficient-long-context-llm-inference-2606.24467",
+      "url": "https://arxiv.org/abs/2606.24467",
+      "theme": "inference efficiency / KV-cache compression / semantic retrieval heads",
+      "discovered": "2026-07-01T09:34:09.474205+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -14033,6 +14063,30 @@
       "url": "https://arxiv.org/abs/2602.13529",
       "discovered": "2026-07-01T12:00:00.000000+00:00",
       "theme": "federated PII safety / privacy gating"
+    },
+    {
+      "arxiv_id": "2606.02001",
+      "title": "Scaling Agentic Capabilities via Grounded Interaction Synthesis",
+      "slug": "scaling-agentic-capabilities-via-grounded-interaction-synthesis-2606.02001",
+      "url": "https://arxiv.org/abs/2606.02001",
+      "discovered": "2026-07-01T09:34:09.474205+00:00",
+      "theme": "agent training data synthesis / grounded interaction / MCP protocol"
+    },
+    {
+      "arxiv_id": "2606.24579",
+      "title": "Cross-Lingual Exploration for Parametric Knowledge",
+      "slug": "cross-lingual-exploration-for-parametric-knowledge-2606.24579",
+      "url": "https://arxiv.org/abs/2606.24579",
+      "discovered": "2026-07-01T09:34:09.474205+00:00",
+      "theme": "multilingual LLM / parametric knowledge / cross-lingual exploration"
+    },
+    {
+      "arxiv_id": "2606.24467",
+      "title": "CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference",
+      "slug": "compresskv-semantic-retrieval-guided-kv-cache-compression-for-resource-efficient-long-context-llm-inference-2606.24467",
+      "url": "https://arxiv.org/abs/2606.24467",
+      "discovered": "2026-07-01T09:34:09.474205+00:00",
+      "theme": "inference efficiency / KV-cache compression / semantic retrieval heads"
     }
   ],
   "emergent_concept_search_log": [
@@ -15516,6 +15570,20 @@
         "2601.11816",
         "2605.22138",
         "2601.16986"
+      ]
+    },
+    {
+      "run": 268,
+      "date": "2026-07-01T09:34:09.474205+00:00",
+      "query_type": "arxiv HTML 4-query",
+      "candidates_found": 193,
+      "fresh_after_dedup": 390,
+      "llm_filtered": 7,
+      "picked": 3,
+      "picks": [
+        "2606.02001",
+        "2606.24579",
+        "2606.24467"
       ]
     }
   ],
@@ -18287,6 +18355,18 @@
         "2606.20978"
       ],
       "added": 3
+    },
+    {
+      "run": 268,
+      "date": "2026-07-01",
+      "theme": "agent interaction data synthesis / cross-lingual parametric knowledge / semantic KV-cache compression",
+      "picks": [
+        "2606.02001",
+        "2606.24579",
+        "2606.24467"
+      ],
+      "method": "arxiv HTML search 4-query",
+      "framing": "AGENT INTERACTION DATA SYNTHESIS / CROSS-LINGUAL PARAMETRIC KNOWLEDGE / SEMANTIC KV-CACHE COMPRESSION"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
