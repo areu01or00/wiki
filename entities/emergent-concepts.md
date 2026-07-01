@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 256) — BINARY-QUESTION LLM EVALUATION / EXPERIENTIAL RULE-POLICY JOINT LEARNING / SMOOTH SAFE RL POLICY COMPOSITION**
+
+- [[ask-dont-judge-binary-questions-for-interpretable-llm-evaluation-and-self-improvement-2606.27226]]
+  BINEVAL: Binary question decomposition for interpretable LLM evaluation — replaces opaque holistic scoring with targeted yes/no question decomposition. Each binary question is individually actionable for model self-improvement. Evaluators answer structured questions rather than generating opaque scores. First binary-question decomposition framework for interpretable LLM evaluation and self-improvement in the wiki. Cross-ref: [[benchmarking-llm-as-a-judge-for-long-form-output-evaluation-2606.01629]], [[a-multi-agent-audit-framework-for-high-stakes-reasoning-evaluation-and-interpret-2606.21123]].
+
+- [[joint-learning-of-experiential-rules-and-policies-for-large-language-model-agents-2606.27136]]
+  JointRL: Unified framework learning both experiential rules (natural-language promptable knowledge) and policy parameters simultaneously from accumulated multi-step interaction experience. Bridges previously separate paradigms of external rule prompting and in-weight policy learning. Evaluated in multi-step interactive environments. First joint rule+policy learning from experiential interaction data in the wiki. Cross-ref: [[plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953]], [[escaping-the-self-confirmation-trap-an-execute-distill-verify-paradigm-for-agentic-experience-learning-2606.24428]].
+
+- [[safe-online-learning-via-smooth-safety-structured-policy-composition-2606.31320]]
+  AutoSafe: Smooth safety-structured policy composition for safe online RL — integrates structured safety monitoring directly into the action generation process, enabling risk-dependent transitions between performance-driven and safety-preserving modes without safety-induced discontinuities. Validated on continuous-control benchmarks and physical cart-pole. First smooth safety-structured policy composition framework for safe online LLM RL in the wiki. Cross-ref: [[self-reset-learning-to-self-recover-from-unsafe-reasoning-trajectories-2605.08936]], [[ajar-adaptive-jailbreak-architecture-red-teaming-2601.10971]].
+
 **2026-07-01 — Run 255) — TEST-TIME COMPUTE EFFICIENCY / STRUCTURAL REASONING PROFILING / TRAINING-FREE RAG STATE COMPRESSION**
 
 - [[fork-think-with-confidence-parallel-reasoning-via-confidence-based-forking-2606.31484]]

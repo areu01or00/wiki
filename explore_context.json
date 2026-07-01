@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T05:00:00.000000+00:00",
-  "__last_updated": "2026-07-01T05:00:00.000000+00:00",
-  "last_run": 255,
-  "last_explore": "2026-07-01T05:00:00.000000+00:00",
+  "__last_updated": "2026-07-02T00:00:00.000000+00:00",
+  "last_run": 256,
+  "last_explore": "2026-07-02T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
-  "last_discovery": "2026-07-01",
-  "last_run_framing": "TEST-TIME COMPUTE EFFICIENCY / STRUCTURAL REASONING PROFILING / TRAINING-FREE RAG STATE COMPRESSION",
-  "last_framing": "test-time compute efficiency / structural reasoning profiling / training-free RAG state compression",
-  "last_run_notes": "Run 255: 2606.31484 / 2606.29067 / 2606.28361",
+  "last_discovery": "2026-07-02",
+  "last_run_framing": "BINARY-QUESTION LLM EVALUATION / EXPERIENTIAL RULE-POLICY JOINT LEARNING / SMOOTH SAFE RL POLICY COMPOSITION",
+  "last_framing": "binary-question llm evaluation / experiential rule-policy joint learning / smooth safe rl policy composition",
+  "last_run_notes": "Run 256: 2606.27226 / 2606.27136 / 2606.31320",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search + web_search refinement",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 778,
+  "entities_count": 781,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7609,6 +7609,36 @@
       "url": "https://arxiv.org/abs/2606.28361",
       "discovered": "2026-07-01T05:00:00+00:00",
       "theme": "RAG / inference efficiency / training-free state compression"
+    },
+    {
+      "arxiv_id": "2606.27226",
+      "title": "Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+      "slug": "ask-dont-judge-binary-questions-for-interpretable-llm-evaluation-and-self-improvement-2606.27226",
+      "url": "https://arxiv.org/abs/2606.27226",
+      "discovered": "2026-07-02T00:00:00+00:00",
+      "theme": "LLM evaluation / interpretability / binary question decomposition",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27136",
+      "title": "Joint Learning of Experiential Rules and Policies for Large Language Model Agents",
+      "slug": "joint-learning-of-experiential-rules-and-policies-for-large-language-model-agents-2606.27136",
+      "url": "https://arxiv.org/abs/2606.27136",
+      "discovered": "2026-07-02T00:00:00+00:00",
+      "theme": "LLM agents / experiential rule learning / joint rule+policy optimization",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31320",
+      "title": "Safe Online Learning via Smooth Safety-Structured Policy Composition",
+      "slug": "safe-online-learning-via-smooth-safety-structured-policy-composition-2606.31320",
+      "url": "https://arxiv.org/abs/2606.31320",
+      "discovered": "2026-07-02T00:00:00+00:00",
+      "theme": "safe RL / policy composition / online learning / smooth safety",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -13466,6 +13496,30 @@
       "url": "https://arxiv.org/abs/2606.30391",
       "discovered": "2026-07-01T12:00:00+00:00",
       "theme": "serverless-llm-serving-energy-efficiency"
+    },
+    {
+      "arxiv_id": "2606.27226",
+      "title": "Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+      "slug": "ask-dont-judge-binary-questions-for-interpretable-llm-evaluation-and-self-improvement-2606.27226",
+      "url": "https://arxiv.org/abs/2606.27226",
+      "discovered": "2026-07-02T00:00:00+00:00",
+      "theme": "LLM evaluation / interpretability / binary question decomposition"
+    },
+    {
+      "arxiv_id": "2606.27136",
+      "title": "Joint Learning of Experiential Rules and Policies for Large Language Model Agents",
+      "slug": "joint-learning-of-experiential-rules-and-policies-for-large-language-model-agents-2606.27136",
+      "url": "https://arxiv.org/abs/2606.27136",
+      "discovered": "2026-07-02T00:00:00+00:00",
+      "theme": "LLM agents / experiential rule learning / joint rule+policy optimization"
+    },
+    {
+      "arxiv_id": "2606.31320",
+      "title": "Safe Online Learning via Smooth Safety-Structured Policy Composition",
+      "slug": "safe-online-learning-via-smooth-safety-structured-policy-composition-2606.31320",
+      "url": "https://arxiv.org/abs/2606.31320",
+      "discovered": "2026-07-02T00:00:00+00:00",
+      "theme": "safe RL / policy composition / online learning / smooth safety"
     }
   ],
   "emergent_concept_search_log": [
@@ -17547,6 +17601,17 @@
         "2606.28361"
       ],
       "method": "arxiv HTML search + web_search refinement"
+    },
+    {
+      "run": 256,
+      "date": "2026-07-02",
+      "theme": "binary-question llm evaluation / experiential rule-policy joint learning / smooth safe rl policy composition",
+      "papers_added": 3,
+      "paper_slugs": [
+        "ask-dont-judge-binary-questions-for-interpretable-llm-evaluation-and-self-improvement-2606.27226",
+        "joint-learning-of-experiential-rules-and-policies-for-large-language-model-agents-2606.27136",
+        "safe-online-learning-via-smooth-safety-structured-policy-composition-2606.31320"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
