@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type systems
+- **2026-07-01** | [The Dynamic Practice and Static Theory of Gradual Typing](http://dagstuhl.sunsite.rwth-aachen.de/volltexte/2019/10549/pdf/LIPIcs-SNAPL-2019-6.pdf) | kw: type systems
+- **2026-07-01** | [Newest 'static-typing' Questions - Programming Language Design and...](https://langdev.stackexchange.com/questions/tagged/static-typing?tab=Newest) | kw: type systems
+
 - **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1.20 released: now a gradually t
 - **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth: A 202
 - **2026-07-01** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type system  ty - Astral Docs

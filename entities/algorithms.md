@@ -4085,6 +4085,10 @@
 
 
 ## Updates
+- **2026-07-01** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
+- **2026-07-01** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: algorithms
+- **2026-07-01** | [LeetCode vs NeetCode vs PracHub (2026 Interview Guide)](https://prachub.com/resources/leetcode-vs-neetcode-vs-prachub-2026-interview-guide) | kw: algorithms
+
 - **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Data Structure and Algorithm Patterns fo
 - **2026-07-01** | [leetcode-questions - GitHub Topics](https://github.com/topics/leetcode-questions) | kw: leetcode-questions - GitHub Topics
 - **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: Problems - LeetCode

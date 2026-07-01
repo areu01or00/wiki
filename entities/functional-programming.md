@@ -1,4 +1,14 @@
 ## Updates
+- **2026-07-01** | [Functional Programming - State Monads in Haskell - Stack Overflow](https://stackoverflow.com/questions/10237072/state-monads-in-haskell) | kw: functional programming
+- **2026-07-01** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: functional programming
+- **2026-07-01** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | kw: functional programming
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional programming
+- **2026-07-01** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional programming
+- **2026-07-01** | [Monads and Effects | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: functional programming
+- **2026-07-01** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: functional programming
+- **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: functional programming
+- **2026-07-01** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: functional programming
+
 
 - **2026-07-01** | [Haskell as a next choice of programming language - Reddit](https://www.reddit.com/r/haskell/comments/1riy9lw/haskell_as_a_next_choice_of_programming_language/) | kw: Functional Programming
 - **2026-07-01** | [Monads in Functional Programming: a Practical Note | Medium](https://medium.com/@bobbypriam/monads-in-functional-programming-a-practical-note-53488f94b20c) | kw: Functional Programming
