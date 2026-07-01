@@ -128,6 +128,9 @@
         "Work"
       ],
       "last_result_hashes": [
+        "4384e21ab04f94bd31ae778eb8a02f5a",
+        "ffda69e5991ca9bbcc66fe745069e68a",
+        "5270d6a20585f3aa8ad5357b32f30260",
         "82601ad43b0fe127ccdd116d7f69071f",
         "034c8842156c2b1235263f9d2feebba9",
         "9ef09709545d432e2dc99e2cf360fbe8",
@@ -144,14 +147,11 @@
         "30eb2e1134419c9dd635b852dc30339c",
         "3b3f82a1ce99e0255038b165da4fd365",
         "2d3506c3f6b37ad4e09360268ba56f6d",
-        "a52a0d1b52755d773e5321d0928b741d",
-        "dbf8e0c58091b15f2142c1ba6af512c4",
-        "07550bd5bf7eb2464189443840582802",
-        "6bf898a8699853824c1bc5d6177dfec2"
+        "a52a0d1b52755d773e5321d0928b741d"
       ],
-      "last_run": "2026-07-01T08:06:11.306107+00:00",
+      "last_run": "2026-07-01T08:19:47.219133+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 9
+      "last_new_count": 3
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -283,6 +283,10 @@
         "developments"
       ],
       "last_result_hashes": [
+        "4a875ba6c9df4a6d863a675c9bbe1244",
+        "da4da22ebe0b30bc79e1ad7a94e5310c",
+        "ca9ade675eecf6183c340d40af57c779",
+        "c6982ba3f2387fa7efa4b53444c6c85e",
         "1382ef81b8b46a33f9229b1c7749d06f",
         "2e36db34c1a584712cd6f35f63aa33ba",
         "1f9f462c9e3d253208d535dfd96e44dc",
@@ -298,15 +302,11 @@
         "900931c5b2c5293e36692a6fb82f7599",
         "9e6485456aeca3c9d6c03a72d84a494e",
         "a3ccc9918610b0d49ee1bfa6202e4563",
-        "b4b1697fc63d5704d74c4c88d69cd644",
-        "b681ab67f5cd09c9dc64291fd55d9db5",
-        "f1925c0af6e39aa520ffa6a282ede525",
-        "85875fa4aeb3a7c10187eaf8cc0cac2f",
-        "f1925c0af6e39aa520ffa6a282ede525"
+        "b4b1697fc63d5704d74c4c88d69cd644"
       ],
-      "last_run": "2026-07-01T08:06:11.306107+00:00",
+      "last_run": "2026-07-01T08:19:47.219133+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 7
+      "last_new_count": 4
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -431,6 +431,8 @@
         "AGT"
       ],
       "last_result_hashes": [
+        "3d295b86c0e0645244b18ac5226ded2c",
+        "a515b1afa3d80a6d17628a9311cdbf2d",
         "0f283757319d5365f9f3d2ac8e848912",
         "10a59e2ab5bcc4c0710cbe6131b13188",
         "d144e7e888bdb85adccd73e3eb61bba3",
@@ -448,13 +450,11 @@
         "789454b647569a5574922bed23692672",
         "7981958bc7ccf67e1ee7b3d27ac6ee66",
         "83fcabd225ef0467b1baf3fb99542e4b",
-        "87065c9439c433c819c4f5a68841256d",
-        "a9eda9372fc91b1c982c7e93d2368c68",
-        "fc735fa9ff4c8d2d83888648a67a3892"
+        "87065c9439c433c819c4f5a68841256d"
       ],
-      "last_run": "2026-07-01T08:06:11.306107+00:00",
+      "last_run": "2026-07-01T08:19:47.219133+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 3
+      "last_new_count": 2
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -730,6 +730,10 @@
         "These"
       ],
       "last_result_hashes": [
+        "e9982adc9c86a63af2b3901bd99ea94f",
+        "7d4a56009e609966d5ca545b08860211",
+        "7827ab24e9d276e3b17d86a148741a99",
+        "8b3a80ae022167a98409b08c2dfb8694",
         "37b18b3ee5841dc8d78ef02edf927dc9",
         "10d7129c85efbc86e21b710b48cc3f38",
         "0d60efabc2d1f6bd114568e764ab6821",
@@ -745,15 +749,11 @@
         "89e7f172eeae4c358ffa14425da7ef96",
         "c11da843ae28f07d36ef0c5d170b16aa",
         "0ef9a05173ac761d2e18c2f87800c7fd",
-        "ff8047902608746589560cffb7b792a9",
-        "dc902c467d5ebb0ae6192f827a56225c",
-        "f822dd4d7a9290624864e5a92712ba08",
-        "f7f0913e896756c80b86386485ae3832",
-        "88da8bff727eabc44a2d44ef7af540a6"
+        "ff8047902608746589560cffb7b792a9"
       ],
-      "last_run": "2026-07-01T08:06:11.306107+00:00",
+      "last_run": "2026-07-01T08:19:47.219133+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 8
+      "last_new_count": 4
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -881,6 +881,10 @@
         "Dive"
       ],
       "last_result_hashes": [
+        "d5e5543997956979736472fec0d56604",
+        "238dd6ae5d2a4f3308b871fdae7cc7d8",
+        "0783ed1ac79d4001c3d6f90d7d161251",
+        "3ca0f5111ea998f95acd8c079ac9e8f2",
         "c24e025d56cdbbb52113c9aa94a36dea",
         "a454e6bd90dd4ae1795224af7e27c1bb",
         "bc93563023cab6e39a1c592d0b30419f",
@@ -896,15 +900,11 @@
         "7b5a68c5d3748b14bdba97a0ef22a06e",
         "15a7206ce9d32c657cb866ee87f368ea",
         "a46963ec9cfe80ae0b10fae67daa3a0b",
-        "4a66d45418529695adad316642e0ca12",
-        "17f40f751da9a1c9558ca7dbf958ae7e",
-        "b2fbe6454e7c9d604f2d7586a436e138",
-        "a1233cdbbbaf5c3624b23b99f9297143",
-        "c644c61774b53593b05d98f55951400a"
+        "4a66d45418529695adad316642e0ca12"
       ],
-      "last_run": "2026-07-01T08:06:11.306107+00:00",
+      "last_run": "2026-07-01T08:19:47.219133+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_new_count": 4
     },
     "llm-wiki-explore": {
       "last_result_hashes": [

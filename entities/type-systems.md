@@ -1,6 +1,10 @@
 # Type Systems
 
 ## Updates
+
+- **2026-07-01** | [Putting gradual types to work](https://arxiv.org/pdf/2101.12299) | kw: Types, gradual
+- **2026-07-01** | [Gradual Typing for Smalltalk](https://www.readkong.com/page/gradual-typing-for-smalltalk-7442783) | kw: gradual, Gradual typing
+
 - **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: wikipedia
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: pookietech
 - **2026-07-01** | [Newest 'static-typing' Questions](https://langdev.stackexchange.com/questions/tagged/static-typing?tab=Newest) | kw: questions
