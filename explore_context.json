@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T00:00:00+00:00",
   "__last_updated": "2026-07-01T00:00:00+00:00",
-  "last_run": 236,
+  "last_run": 237,
   "last_explore": "2026-07-04T00:30:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 720,
+  "entities_count": 723,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7165,6 +7165,21 @@
       "url": "https://arxiv.org/abs/2606.05296",
       "discovered": "2026-07-01T00:00:00+00:00",
       "theme": "black-box agent / Monte Carlo / agentic RL"
+    },
+    {
+      "arxiv_id": "2606.03535",
+      "title": "Can LLM Rerankers Predict Their Own Ranking Performance?",
+      "slug": "can-llm-rerankers-predict-their-own-ranking-performance-2606.03535"
+    },
+    {
+      "arxiv_id": "2605.19220",
+      "title": "Position: Uncertainty Quantification in LLMs is Just Unsupervised Clustering",
+      "slug": "position-uncertainty-quantification-in-llms-is-just-unsupervised-clustering-2605.19220"
+    },
+    {
+      "arxiv_id": "2606.23030",
+      "title": "Have You Ever Seen Them? Entity-level Membership Inference through Interrogating Large Language Models",
+      "slug": "have-you-ever-seen-them-entity-level-membership-inference-through-interrogating-large-language-models-2606.23030"
     }
   ],
   "emergent_discoveries": [
@@ -12614,6 +12629,30 @@
       "url": "https://arxiv.org/abs/2606.05296",
       "discovered": "2026-07-01T00:00:00+00:00",
       "theme": "black-box agent / Monte Carlo / agentic RL"
+    },
+    {
+      "arxiv_id": "2606.03535",
+      "title": "Can LLM Rerankers Predict Their Own Ranking Performance?",
+      "slug": "can-llm-rerankers-predict-their-own-ranking-performance-2606.03535",
+      "url": "https://arxiv.org/abs/2606.03535",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "retrieval, meta-learning, self-evaluation"
+    },
+    {
+      "arxiv_id": "2605.19220",
+      "title": "Position: Uncertainty Quantification in LLMs is Just Unsupervised Clustering",
+      "slug": "position-uncertainty-quantification-in-llms-is-just-unsupervised-clustering-2605.19220",
+      "url": "https://arxiv.org/abs/2605.19220",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "uncertainty-quantification, calibration, theory"
+    },
+    {
+      "arxiv_id": "2606.23030",
+      "title": "Have You Ever Seen Them? Entity-level Membership Inference through Interrogating Large Language Models",
+      "slug": "have-you-ever-seen-them-entity-level-membership-inference-through-interrogating-large-language-models-2606.23030",
+      "url": "https://arxiv.org/abs/2606.23030",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "privacy, membership-inference, security"
     }
   ],
   "emergent_concept_search_log": [
@@ -18960,6 +18999,16 @@
       "framing": "COLLECTIVE INTELLIGENCE LOTTERY / TOXICITY MITIGATION REPLICATION / AGENTIC MONTE CARLO BLACK-BOX OPTIMIZATION",
       "theme": "multi-agent / safety / agentic RL",
       "rule": "Rule 107 arxiv HTML primary at 700+ entities"
+    },
+    {
+      "run": 237,
+      "theme": "LLM SELF-EVALUATION META-LEARNING / UQ CALIBRATION THEORY / ENTITY-LEVEL MEMBERSHIP INFERENCE",
+      "picks": [
+        "2606.03535",
+        "2605.19220",
+        "2606.23030"
+      ],
+      "timestamp": "2026-07-04T00:00:00+00:00"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

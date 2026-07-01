@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 237) — LLM SELF-EVALUATION META-LEARNING / UQ CALIBRATION THEORY / ENTITY-LEVEL MEMBERSHIP INFERENCE**
+
+- [[can-llm-rerankers-predict-their-own-ranking-performance-2606.03535]]
+  Can LLM Rerankers Predict Their Own Ranking Performance?: Shows LLM rerankers can self-predict ranking performance via internal model signals (attention patterns, logit distributions) without external predictors. Enables adaptive reranking strategies that skip or modify low-confidence queries. **First self-meta-evaluation framework for LLM reranking in the wiki.**
+
+- [[have-you-ever-seen-them-entity-level-membership-inference-through-interrogating-large-language-models-2606.23030]]
+  Have You Ever Seen Them? Entity-level Membership Inference through Interrogating LLMs: Proposes entity-level membership inference attacks — whether named entities appeared in LLM training data — via carefully designed prompting strategies. Significant implications for privacy compliance (GDPR right-to-be-forgotten requests). **First entity-level (vs text-level) membership inference framework in the wiki.**
+
+- [[position-uncertainty-quantification-in-llms-is-just-unsupervised-clustering-2605.19220]]
+  Position: Uncertainty Quantification in LLMs is Just Unsupervised Clustering: Position paper arguing mainstream UQ methods for LLMs are unsupervised clustering algorithms, not true uncertainty estimation. Demonstrates softmax entropy, MC dropout, hidden-state distance all produce cluster-like structures poorly correlated with prediction errors. **First formal epistemological critique of LLM uncertainty quantification foundations in the wiki.**
+
 **2026-07-01 — Run 236) — COLLECTIVE INTELLIGENCE LOTTERY / TOXICITY MITIGATION REPLICATION / AGENTIC MONTE CARLO BLACK-BOX OPTIMIZATION**
 
 - [[when-is-collective-intelligence-a-lottery-multi-agent-scaling-laws-for-memetic-d-2603.24676]]

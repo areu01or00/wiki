@@ -1384,7 +1384,10 @@
         "2606.28971",
         "e05c9970350716391e7c2ebd128ae2cd",
         "817140f623bbf950a558db8174cdb874",
-        "3841ad44912db657aa06bcfcaef7ccac"
+        "3841ad44912db657aa06bcfcaef7ccac",
+        "2606.03535",
+        "2605.19220",
+        "2606.23030"
       ],
       "last_results": [
         {
@@ -5487,6 +5490,33 @@
           "chain": "emergent-concepts",
           "theme": "llm-agents / self-evolving / image-restoration / planning / episodic-memory",
           "discovered": "2026-07-01T00:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.03535",
+          "title": "Can LLM Rerankers Predict Their Own Ranking Performance?",
+          "hash": "b27ce0f542f70f73b762237f1a3f28aa",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "retrieval, meta-learning, self-evaluation / uncertainty, calibration, theory / privacy, membership-inference",
+          "discovered": "2026-07-04T00:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2605.19220",
+          "title": "Position: Uncertainty Quantification in LLMs is Just Unsupervised Clustering",
+          "hash": "82498209c2bc72f4501841446de3fb7d",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "retrieval, meta-learning, self-evaluation / uncertainty, calibration, theory / privacy, membership-inference",
+          "discovered": "2026-07-04T00:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.23030",
+          "title": "Have You Ever Seen Them? Entity-level Membership Inference through Interrogating Large Language Models",
+          "hash": "c97bd9a48dd0a7efe196fbf2e3c82af3",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "retrieval, meta-learning, self-evaluation / uncertainty, calibration, theory / privacy, membership-inference",
+          "discovered": "2026-07-04T00:00:00+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -6205,7 +6235,10 @@
     "2606.28971",
     "e05c9970350716391e7c2ebd128ae2cd",
     "817140f623bbf950a558db8174cdb874",
-    "3841ad44912db657aa06bcfcaef7ccac"
+    "3841ad44912db657aa06bcfcaef7ccac",
+    "2606.03535",
+    "2605.19220",
+    "2606.23030"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T22:05:37+00:00",
@@ -6917,7 +6950,10 @@
       "2606.28971",
       "e05c9970350716391e7c2ebd128ae2cd",
       "817140f623bbf950a558db8174cdb874",
-      "3841ad44912db657aa06bcfcaef7ccac"
+      "3841ad44912db657aa06bcfcaef7ccac",
+      "2606.03535",
+      "2605.19220",
+      "2606.23030"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
