@@ -4117,6 +4117,8 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews... - YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+
 - **2026-07-01** | [Los leetcode repositorios principales - Proyectos de GitHub...](https://git-stars.org/es/repositories/topic/leetcode) | kw: Los
 
 - **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms

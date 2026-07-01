@@ -31,6 +31,10 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: functional programming
+- **2026-07-01** | [Rust: Functional Programming & Monads - readmedium](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional programming
+- **2026-07-01** | [Demystifying MONADs: What you need to know! - toolify.ai](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: functional programming
+
 - **2026-07-01** | [What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: What
 - **2026-07-01** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: Monads:
 
