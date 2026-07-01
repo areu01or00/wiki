@@ -2,15 +2,15 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T00:00:00.000000+00:00",
-  "__last_updated": "2026-07-01T00:00:00.000000+00:00",
-  "last_run": 235,
+  "updated": "2026-07-01T00:00:00+00:00",
+  "__last_updated": "2026-07-01T00:00:00+00:00",
+  "last_run": 236,
   "last_explore": "2026-07-04T00:30:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "HIERARCHICAL EXPERIMENTALIST AGENTS / MICROSERVICE FAILURE DIAGNOSIS BENCHMARK / SELF-EVOLVING AGENTIC IMAGE RESTORATION",
-  "last_framing": "industrial multi-agent scheduling / disaggregated inference / math retriever benchmark",
-  "last_run_notes": "Run 235: Hierarchical Experimentalist Agents (2606.29315) + Microservice Failure Diagnosis Benchmark (2606.29193) + Self-Evolving Agentic Image Restoration (2606.28971)",
+  "last_run_framing": "COLLECTIVE INTELLIGENCE LOTTERY / TOXICITY MITIGATION REPLICATION / AGENTIC MONTE CARLO BLACK-BOX OPTIMIZATION",
+  "last_framing": "multi-agent scaling laws / LLM safety replication / black-box agentic RL",
+  "last_run_notes": "Run 236: Collective Intelligence Lottery (2603.24676) + Toxicity Mitigation Replication (2605.14087) + Agentic Monte Carlo (2606.05296)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 717,
+  "entities_count": 720,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7144,6 +7144,27 @@
       "url": "https://arxiv.org/abs/2606.28971",
       "discovered": "2026-07-01T00:30:00+00:00",
       "theme": "llm-agents / self-evolving / image-restoration / planning / episodic-memory"
+    },
+    {
+      "arxiv_id": "2603.24676",
+      "title": "When Is Collective Intelligence a Lottery? Multi-Agent Scaling Laws for Memetic Drift in LLMs",
+      "url": "https://arxiv.org/abs/2603.24676",
+      "discovered": "2026-07-01T00:00:00+00:00",
+      "theme": "multi-agent / collective intelligence / memetic drift / scaling laws"
+    },
+    {
+      "arxiv_id": "2605.14087",
+      "title": "Measuring and Mitigating Toxicity in Large Language Models: A Comprehensive Replication Study",
+      "url": "https://arxiv.org/abs/2605.14087",
+      "discovered": "2026-07-01T00:00:00+00:00",
+      "theme": "LLM safety / toxicity mitigation / alignment replication"
+    },
+    {
+      "arxiv_id": "2606.05296",
+      "title": "Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents",
+      "url": "https://arxiv.org/abs/2606.05296",
+      "discovered": "2026-07-01T00:00:00+00:00",
+      "theme": "black-box agent / Monte Carlo / agentic RL"
     }
   ],
   "emergent_discoveries": [
@@ -12569,6 +12590,30 @@
       "url": "https://arxiv.org/abs/2606.28971",
       "discovered": "2026-07-01T00:30:00+00:00",
       "theme": "llm-agents / self-evolving / image-restoration / planning / episodic-memory"
+    },
+    {
+      "arxiv_id": "2603.24676",
+      "title": "When Is Collective Intelligence a Lottery? Multi-Agent Scaling Laws for Memetic Drift in LLMs",
+      "slug": "when-is-collective-intelligence-a-lottery-multi-agent-scaling-laws-for-memetic-d-2603.24676",
+      "url": "https://arxiv.org/abs/2603.24676",
+      "discovered": "2026-07-01T00:00:00+00:00",
+      "theme": "multi-agent / collective intelligence / memetic drift / scaling laws"
+    },
+    {
+      "arxiv_id": "2605.14087",
+      "title": "Measuring and Mitigating Toxicity in Large Language Models: A Comprehensive Replication Study",
+      "slug": "measuring-and-mitigating-toxicity-in-large-language-models-a-comprehensive-repli-2605.14087",
+      "url": "https://arxiv.org/abs/2605.14087",
+      "discovered": "2026-07-01T00:00:00+00:00",
+      "theme": "LLM safety / toxicity mitigation / alignment replication"
+    },
+    {
+      "arxiv_id": "2606.05296",
+      "title": "Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents",
+      "slug": "agentic-monte-carlo-simulating-reinforcement-learning-for-black-box-agents-2606.05296",
+      "url": "https://arxiv.org/abs/2606.05296",
+      "discovered": "2026-07-01T00:00:00+00:00",
+      "theme": "black-box agent / Monte Carlo / agentic RL"
     }
   ],
   "emergent_concept_search_log": [
@@ -18902,6 +18947,19 @@
       ],
       "theme": "HIERARCHICAL EXPERIMENTALIST AGENTS / MICROSERVICE FAILURE DIAGNOSIS BENCHMARK / SELF-EVOLVING AGENTIC IMAGE RESTORATION",
       "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection"
+    },
+    {
+      "run": 236,
+      "date": "2026-07-01T00:00:00+00:00",
+      "count": 3,
+      "picks": [
+        "2603.24676",
+        "2605.14087",
+        "2606.05296"
+      ],
+      "framing": "COLLECTIVE INTELLIGENCE LOTTERY / TOXICITY MITIGATION REPLICATION / AGENTIC MONTE CARLO BLACK-BOX OPTIMIZATION",
+      "theme": "multi-agent / safety / agentic RL",
+      "rule": "Rule 107 arxiv HTML primary at 700+ entities"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 236) — COLLECTIVE INTELLIGENCE LOTTERY / TOXICITY MITIGATION REPLICATION / AGENTIC MONTE CARLO BLACK-BOX OPTIMIZATION**
+
+- [[when-is-collective-intelligence-a-lottery-multi-agent-scaling-laws-for-memetic-d-2603.24676]]
+  When Is Collective Intelligence a Lottery? Multi-Agent Scaling Laws for Memetic Drift in LLMs: Studies whether multi-agent LLM outcomes reflect genuine collective reasoning or memetic drift — agents converging on arbitrary labels rather than grounded meanings. Establishes scaling laws showing collective intelligence degrades predictably into a "lottery" above critical agent-count thresholds. Larger models are NOT immune and exhibit stronger self-confirmation effects. **First scaling-law characterization of memetic drift in multi-agent LLM systems in the wiki.**
+
+- [[measuring-and-mitigating-toxicity-in-large-language-models-a-comprehensive-repli-2605.14087]]
+  Measuring and Mitigating Toxicity in Large Language Models: Comprehensive replication study of toxicity mitigation techniques across 5 model families and 12 methods. Reveals several widely-cited detoxification approaches fail to replicate in controlled settings. Establishes utility-safety Pareto frontier showing most methods sacrifice 15-30% task performance. **First large-scale replication study of LLM toxicity mitigation techniques in the wiki.**
+
+- [[agentic-monte-carlo-simulating-reinforcement-learning-for-black-box-agents-2606.05296]]
+  Agentic Monte Carlo: Simulating RL for Black-Box Agents: Addresses applying RL signals to API-only proprietary LLMs where parameter optimization is impossible. Uses Monte Carlo trajectory simulation with a white-box proxy to simulate black-box policy under counterfactual actions, enabling credit assignment without weight updates. Significant improvements on multi-step reasoning vs static prompting baselines. **First Monte Carlo simulation framework for black-box LLM agent optimization in the wiki.**
+
 **2026-07-01 — Run 235) — HIERARCHICAL EXPERIMENTALIST AGENTS / MICROSERVICE FAILURE DIAGNOSIS BENCHMARK / SELF-EVOLVING AGENTIC IMAGE RESTORATION**
 
 - [[hierarchical-experimentalist-agents-2606.29315]]

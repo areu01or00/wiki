@@ -1381,7 +1381,10 @@
         "babc3e0fe3b9e2171ceb7a9d2aaaeef6",
         "2606.29315",
         "2606.29193",
-        "2606.28971"
+        "2606.28971",
+        "e05c9970350716391e7c2ebd128ae2cd",
+        "817140f623bbf950a558db8174cdb874",
+        "3841ad44912db657aa06bcfcaef7ccac"
       ],
       "last_results": [
         {
@@ -6199,7 +6202,10 @@
     "babc3e0fe3b9e2171ceb7a9d2aaaeef6",
     "2606.29315",
     "2606.29193",
-    "2606.28971"
+    "2606.28971",
+    "e05c9970350716391e7c2ebd128ae2cd",
+    "817140f623bbf950a558db8174cdb874",
+    "3841ad44912db657aa06bcfcaef7ccac"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T22:05:37+00:00",
@@ -6908,7 +6914,10 @@
       "babc3e0fe3b9e2171ceb7a9d2aaaeef6",
       "2606.29315",
       "2606.29193",
-      "2606.28971"
+      "2606.28971",
+      "e05c9970350716391e7c2ebd128ae2cd",
+      "817140f623bbf950a558db8174cdb874",
+      "3841ad44912db657aa06bcfcaef7ccac"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
