@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T06:15:00.000000+00:00",
-  "__last_updated": "2026-07-01T06:15:00.000000+00:00",
-  "last_run": 250,
+  "updated": "2026-07-01T04:25:00.000000+00:00",
+  "__last_updated": "2026-07-01T04:25:00.000000+00:00",
+  "last_run": 251,
   "last_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "EVOLUTIONARY SEARCH INTERNALIZATION / ADAPTIVE BLOCK-SIZE SPECULATIVE DECODING / LEARNED CONTEXT QUERY FOR VIDEO WORLD MODELS",
-  "last_framing": "evolutionary search internalization / adaptive block-size speculative decoding / learned context query for video world models",
-  "last_run_notes": "Run 249: 2606.29082 / 2606.31315 / 2606.31734",
+  "last_run_framing": "GRAPH-STRUCTURED SESSION MEMORY / MOBILE TRUSTZONE LLM SERVING / SELF-RECOVERY FROM UNSAFE REASONING TRAJECTORIES",
+  "last_framing": "graph-structured session memory / mobile TrustZone LLM serving / self-recovery from unsafe reasoning trajectories",
+  "last_run_notes": "Run 251: 2606.06337 / 2606.23370 / 2605.08936",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search + arxiv HTML extraction",
+  "last_run_method": "arxiv HTML search + web_search refinement",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "uncertainty quantification / conformal prediction / pipeline / reward modeling",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 763,
+  "entities_count": 766,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7528,6 +7528,36 @@
       "url": "https://arxiv.org/abs/2603.04406",
       "discovered": "2026-07-01T04:20:11.798694+00:00",
       "theme": "retrieval / rag / training / faithfulness / rl"
+    },
+    {
+      "arxiv_id": "2606.06337",
+      "title": "TokenMizer: Graph-Structured Session Memory for Long-Horizon LLM Context Management",
+      "slug": "tokenmizer-graph-structured-session-memory-for-long-horizon-llm-context-management-2606.06337",
+      "url": "https://arxiv.org/abs/2606.06337",
+      "discovered": "2026-07-01T04:25:00+00:00",
+      "theme": "context management / graph memory / long-horizon sessions / inference efficiency",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.23370",
+      "title": "FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation",
+      "slug": "flexserve-fast-secure-llm-serving-mobile-devices-flexible-resource-isolation-2606.23370",
+      "url": "https://arxiv.org/abs/2606.23370",
+      "discovered": "2026-07-01T04:25:00+00:00",
+      "theme": "mobile LLM serving / security / TrustZone / privacy / inference efficiency",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.08936",
+      "title": "Self-ReSET: Learning to Self-Recover from Unsafe Reasoning Trajectories",
+      "slug": "self-reset-learning-to-self-recover-from-unsafe-reasoning-trajectories-2605.08936",
+      "url": "https://arxiv.org/abs/2605.08936",
+      "discovered": "2026-07-01T04:25:00+00:00",
+      "theme": "safety / reasoning models / self-correction / adversarial robustness / RL",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -13289,6 +13319,30 @@
       "url": "https://arxiv.org/abs/2603.04406",
       "discovered": "2026-07-01T04:20:11.798694+00:00",
       "theme": "retrieval / rag / training / faithfulness / rl"
+    },
+    {
+      "arxiv_id": "2606.06337",
+      "title": "TokenMizer: Graph-Structured Session Memory for Long-Horizon LLM Context Management",
+      "slug": "tokenmizer-graph-structured-session-memory-for-long-horizon-llm-context-management-2606.06337",
+      "url": "https://arxiv.org/abs/2606.06337",
+      "discovered": "2026-07-01T04:25:00+00:00",
+      "theme": "context management / graph memory / long-horizon sessions / inference efficiency"
+    },
+    {
+      "arxiv_id": "2606.23370",
+      "title": "FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation",
+      "slug": "flexserve-fast-secure-llm-serving-mobile-devices-flexible-resource-isolation-2606.23370",
+      "url": "https://arxiv.org/abs/2606.23370",
+      "discovered": "2026-07-01T04:25:00+00:00",
+      "theme": "mobile LLM serving / security / TrustZone / privacy / inference efficiency"
+    },
+    {
+      "arxiv_id": "2605.08936",
+      "title": "Self-ReSET: Learning to Self-Recover from Unsafe Reasoning Trajectories",
+      "slug": "self-reset-learning-to-self-recover-from-unsafe-reasoning-trajectories-2605.08936",
+      "url": "https://arxiv.org/abs/2605.08936",
+      "discovered": "2026-07-01T04:25:00+00:00",
+      "theme": "safety / reasoning models / self-correction / adversarial robustness / RL"
     }
   ],
   "emergent_concept_search_log": [
@@ -17311,6 +17365,17 @@
       ],
       "vector": "emergent_concept_search",
       "status": "success"
+    },
+    {
+      "run": 251,
+      "date": "2026-07-01",
+      "theme": "graph-structured session memory / mobile TrustZone LLM serving / self-recovery from unsafe reasoning trajectories",
+      "papers": [
+        "2606.06337",
+        "2606.23370",
+        "2605.08936"
+      ],
+      "method": "arxiv HTML search + web_search"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
