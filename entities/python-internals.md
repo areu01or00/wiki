@@ -3943,6 +3943,14 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: web
+- **2026-07-01** | [How to fix Stop code Memory management (0x1A) error in... - YouTube](https://www.youtube.com/watch?v=zaKOAbNeWiE) | kw: web
+- **2026-07-01** | [MEMORY_MANAGEMENT (0x1A) в Windows 10/11: как исправить...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: web
+- **2026-07-01** | [[PDF] Python Internals For Developers - eBooks Review](https://ardhindie.com/pdf/python-internals-for-developers) | kw: web
+- **2026-07-01** | [How to pass Python interviews and get a ₹10 LPA job | LinkedIn](https://www.linkedin.com/posts/coderrange_coderrange-pythoninterview-pythonjobs-activity-7342096982506688512-7QsR) | kw: web
+- **2026-07-01** | [Python Developer REST APIs at Worx-ai | Django Job Board](https://djangojobboard.com/626/python-developer-rest-apis-worx-ai/) | kw: web
+- **2026-07-01** | [Memory Management in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/operating-systems/memory-management-in-operating-systems/) | kw: web
+
 - **2026-07-01** | [Memory Management — Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: 
 - **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: 
 - **2026-07-01** | [How Python's GIL Works - Codefinity](https://codefinity.com/blog/How-Pythons-GIL-Works) | kw: 

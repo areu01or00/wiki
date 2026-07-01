@@ -3619,6 +3619,12 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Design Rocket - Learn AI Design system.](https://designrocket.io/) | kw: web
+- **2026-07-01** | [Design Patterns](https://refactoring.guru/design-patterns) | kw: web
+- **2026-07-01** | [Architectural Patterns: Moving Beyond Cloud-Native to... - InfoQ](https://www.infoq.com/podcasts/natural-evolution-cloud-native/) | kw: web
+- **2026-07-01** | [Home - Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) | kw: web
+- **2026-07-01** | [Sidecar Pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar) | kw: web
+
 - **2026-07-01** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: 
 - **2026-07-01** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: 
 - **2026-07-01** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: 

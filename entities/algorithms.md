@@ -4117,6 +4117,16 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: web
+- **2026-07-01** | [algorithms-datastructures · GitHub Topics · GitHub](https://github.com/topics/algorithms-datastructures) | kw: web
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: web
+- **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: web
+- **2026-07-01** | [Master key data structures and algorithms with LeetCode... | LinkedIn](https://www.linkedin.com/posts/slothdevs_algorithms-datastructures-leetcode-activity-7379706524392329217-fWj3) | kw: web
+- **2026-07-01** | [List: Interview | Curated by phani kumar Veluri | Medium](https://medium.com/@veluri.phanikumar/list/interview-f344114e5baa) | kw: web
+- **2026-07-01** | [Interview Coder - AI Interview Assistant for Technical Interviews](https://www.interviewcoder.co/) | kw: web
+- **2026-07-01** | [Data Structure and Algortihm Explanation | TikTok](https://www.tiktok.com/discover/data-structure-and-algortihm-explanation) | kw: web
+- **2026-07-01** | [Los algorithms-and-data-structures repositorios... | Git Stars](https://git-stars.org/es/repositories/topic/algorithms-and-data-structures) | kw: web
+
 - **2026-07-01** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: 
 - **2026-07-01** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) | kw: 
 - **2026-07-01** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: 
