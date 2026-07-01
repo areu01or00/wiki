@@ -3943,6 +3943,12 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
+- **2026-07-01** | [Memory Management — Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: python-internals
+- **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python-internals
+- **2026-07-01** | [How Python's GIL Works - Codefinity](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: python-internals
+- **2026-07-01** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: python-internals
+
 - **2026-07-01** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python-internals
 - **2026-07-01** | [Welcome to Python.org](https://www.python.org/) | kw: python-internals
 - **2026-07-01** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: python-internals

@@ -385,7 +385,10 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-07-01** | [Huawei openPangu 2.0 Flash: 92B MoE Open-Source Weights Drop](https://aiproductivity.ai/news/huawei-openpangu-2-flash-92b-open-source/) | kw: WEIGHTS DROP | OPEN SOURCE | source: huawei
 - **2026-07-01** | [DeepSeek V4 Official Launch + Peak/Off-Peak Pricing](https://www.reddit.com/r/DeepSeek/comments/1uio6yf/deepseek_v4_official_launch_peakoffpeak_pricing/) | kw: OFFICIAL ANNOUNCEMENT | API LAUNCH | source: deepseek-releases
 - **2026-07-01** | [Liquid AI LFM2.5-230M Open-Weight Released June 25, 2026](https://www.llmreference.com/model/lfm-2-5-230m) | kw: WEIGHTS DROP | OPEN SOURCE | source: liquid-ai
-- **2026-07-01** | [Google Delays Gemini 3.5 Pro Launch to July 2026](https://www.androidpolice.com/google-gemini-3-5-pro-launch-delay-july-2026/) | kw: OFFICIAL ANNOUNCEMENT | source: google-deepmind-releases
+- **2026-07-01** | [Google Delays Gemini 3.5 Pro Launch to July 2026](https://www.androidpolice.com/google-gemini-35-pro-launch-delay-july-2026/) | kw: OFFICIAL ANNOUNCEMENT | source: google-deepmind-releases
+- **2026-07-01** | [NVIDIA Nemotron-TwoTower-30B-A3B: Block-wise Diffusion + AR Hybrid, Open Weights](https://huggingface.co/nvidia/Nemotron-TwoTower-30B-A3B-Base-BF16) | kw: WEIGHTS DROP | diffusion language model | AR + diffusion hybrid | 2.42X throughput | NVIDIA Nemotron Open Model License | source: nvidia-research
+- **2026-07-01** | [DeepSeek DeepSpec: Full-Stack Speculative Decoding Training Codebase + DSpark](https://github.com/deepseek-ai/DeepSpec) | kw: BENCHMARK/PAPER | OFFICIAL ANNOUNCEMENT | open source | speculative decoding | MIT license | DSpark + Eagle3 algorithms | source: x_search
+- **2026-07-01** | [Google TabFM: Open-Weight Tabular Data Foundation Model](https://ai.google.dev/gemini-api/docs/changelog) | kw: WEIGHTS DROP | tabular data | open weights | Google DeepMind | source: x_search
 
 ## Auto-Discovered Profiles
 

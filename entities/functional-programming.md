@@ -31,6 +31,9 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: functional-programming
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: functional-programming
+
 - **2026-07-01** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional-programming
 
 - **2026-07-01** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The

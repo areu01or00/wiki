@@ -3619,6 +3619,10 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: system-design
+- **2026-07-01** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: system-design
+- **2026-07-01** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: system-design
+
 - **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system-design
 - **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: system-design
 - **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design

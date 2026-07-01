@@ -33,6 +33,12 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+- **2026-07-01** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: compilers
+- **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compilers
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: compilers
+
 - **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why
 - **2026-07-01** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A
 - **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures
