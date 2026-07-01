@@ -3943,6 +3943,12 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python-internals
+- **2026-07-01** | [Welcome to Python.org](https://www.python.org/) | kw: python-internals
+- **2026-07-01** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: python-internals
+- **2026-07-01** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: python-internals
+- **2026-07-01** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: python-internals
+
 - **2026-07-01** | [Python Memory Management and GIL. Python Untold | by Puneet...](https://python.plainenglish.io/python-untold-976da8cf2006) | kw: Python
 - **2026-07-01** | [Python Interview Questions: Hiring Guide by Experience](https://www.boundev.com/blog/python-interview-questions-hiring-guide) | kw: Python
 - **2026-07-01** | [Python GIL: Защита интерпретатора #shorts - YouTube](https://www.youtube.com/shorts/2HoWArfIUT0) | kw: Python

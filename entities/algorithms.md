@@ -4117,6 +4117,13 @@
 
 
 ## Updates
+- **2026-07-01** | [data-structures · GitHub Topics · GitHub](https://github.com/topics/data-structures) | kw: algorithms
+- **2026-07-01** | [LeetCode - The World Leading Online Programming Learning Platform](https://leetcode.com/) | kw: algorithms
+- **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: algorithms
+- **2026-07-01** | [datastructures-algorithms · GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms
+- **2026-07-01** | [Do we really need Leetcode (Data Structures & Algorithms)... | Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: algorithms
+
 - **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are
 - **2026-07-01** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How
 - **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are ...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: LeetCode
