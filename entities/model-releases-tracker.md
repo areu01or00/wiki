@@ -18,9 +18,22 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-07-01** | [Meituan Trains LongCat-2.0 on Domestic 50000-Chip Cluster](https://letsdatascience.com/news/meituan-trains-longcat-20-on-domestic-50000-chip-cluster-9e94573c) | kw: meituan | source: meituan | score: 9
+- **2026-07-01** | [LongCat-2.0 - 1.6T Agentic Coding LLM | 1M Context, Open Source](https://www.longcatai.org/models/longcat-2.html) | kw: meituan | source: meituan | score: 9
+- **2026-07-01** | [Google DeepMind jumps back into open source AI race with new Gemma models](https://www.linkedin.com/posts/women-and-ai_google-deepmind-jumps-back-into-open-source-activity-7166079512848375808-MNQT) | kw: google-deepmind-releases | source: google-deepmind-releases | score: 8
+- **2026-07-01** | [Ant Group Unveils Ling AI Model Family and Launches Trillion-Parameter](https://www.antgroup.com/en/news-media/press-releases/1759982400000) | kw: inclusion-ai | source: inclusion-ai | score: 7
+- **2026-07-01** | [Yuvion LLM: An Adversarially-Aware Large Language Model (arXiv 2606.27632)](https://arxiv.org/abs/2606.27632) | kw: yuvion | source: yuvion | score: 7
+- **2026-07-01** | [Claude Sonnet 5: Complete Guide to Benchmarks, Pricing, and...](https://www.aimadetools.com/blog/claude-sonnet-5-complete-guide/) | kw: anthropic-releases | source: anthropic-releases | score: 5
+- **2026-07-01** | [AI Model Release Tracker: GPT, Claude, Gemini & More | OutYet.ai](https://outyet.ai/) | kw: google-deepmind-releases | source: google-deepmind-releases | score: 5
+- **2026-07-01** | [Blog - Hugging Face](https://huggingface.co/blog) | kw: kog-ai | source: kog-ai | score: 5
+- **2026-07-01** | [Introducing LFM2: The Fastest On-Device Foundation Models... - Liquid AI](https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models) | kw: liquid-ai | source: liquid-ai | score: 5
+- **2026-07-01** | [AI Updates Today (June 2026) – Latest AI Model Releases - LLM Stats](https://llm-stats.com/llm-updates) | kw: llm-stats-updates | source: llm-stats-updates | score: 5
+- **2026-07-01** | [LLM News Today (July 2026) – AI Model Releases - LLM Stats](https://llm-stats.com/ai-news) | kw: llm-stats-updates | source: llm-stats-updates | score: 5
+- **2026-07-01** | [China's Meituan Says New AI Model Trained on Domestic Chips](https://klse.i3investor.com/web/blog/detail/ceomorningbrief/2026-07-01-story-h501601150-China_39_s_Meituan_Says_New_AI_Model_Trained_on_Domestic_Chips) | kw: meituan | source: meituan | score: 5
+- **2026-07-01** | [Introducing Meta Llama 3: The most capable openly available LLM ...](https://ai.meta.com/blog/meta-llama-3/) | kw: meta-llama-releases | source: meta-llama-releases | score: 5
+- **2026-07-01** | [Mixtral of experts | Mistral AI](https://mistral.ai/news/mixtral-of-experts?ref=machinelearningexpedition.com) | kw: mistral-releases | source: mistral-releases | score: 5
 
 - **2026-07-01** | [Anthropic upgrades Claude with new Sonnet 5 model, details here](https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/) | kw: anthropic-releases | source: anthropic-releases | score: 7
-- **2026-07-01** | [Anthropic Launches Claude Opus 4.8 With Gains in Coding and Honesty](https://www.macrumors.com/2026/05/28/anthropic-claude-opus-4-8/) | kw: anthropic-releases | source: anthropic-releases | score: 7
 - **2026-07-01** | [Introducing Gemma 4 12B: a unified, encoder-free multimodal Model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) | kw: google-deepmind-releases | source: google-deepmind-releases | score: 7
 - **2026-07-01** | [Introducing LFM2: The Fastest On-Device Foundation... - Liquid AI](https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models) | kw: liquid-ai | source: liquid-ai | score: 7
 - **2026-07-01** | [KOG Stock Price Quote | Morningstar](https://www.morningstar.com/stocks/xcnq/kog/quote) | kw: kog-ai | source: kog-ai | score: 5
