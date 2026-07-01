@@ -17,6 +17,11 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [Google Gemma 3: New multimodal, 128K context, 140+ languages](https://huggingface.co/blog/gemma3) | kw: open weights, multimodal, Gemma 3, Google | source: google-deepmind-releases
+- **2026-07-01** | [Meta Llama 4 Maverick & Scout: Open-weight MoE, 10M context](https://huggingface.co/blog/llama4-release) | kw: open weights, Llama 4, Meta, MoE | source: meta-llama-releases
+- **2026-07-01** | [OpenAI retiring o3 and GPT-4.5 from ChatGPT (model sunset)](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) | kw: model retirement, o3, GPT-4.5, OpenAI | source: openai-releases
+- **2026-07-01** | [DeepReinforce Ornith-1.0: MIT-licensed open-weight coding model, self-scaffolding RL](https://deep-reinforce.com/ornith_1_0.html) | kw: open weights, coding, Ornith-1.0, DeepReinforce | source: deepreinforce-ai
+- **2026-07-01** | [DeepReinforce Ornith-1.0 on GitHub + 200+ HN points, 40 comments](https://www.developersdigest.tech/blog/ornith-1-open-source-self-improving-coding-model) | kw: open weights, GitHub, coding, Ornith-1.0 | source: deepreinforce-ai
 - **2026-07-01** | [LFM2.5-230M: Built to Run Anywhere — Blog - Liquid AI](https://www.liquid.ai/blog/lfm2-5-230m) | kw: WEIGHTS DROP | OFFICIAL ANNOUNCEMENT | source: liquid-ai
 - **2026-07-01** | [Sakana AI releases Fugu multi-agent orchestration model - Overview](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lIcHYtMkVSRzF4WkxELWpGNWxDZ0FQAQ?hl=en-IN&gl=IN&ceid=IN:en) | kw: OFFICIAL ANNOUNCEMENT | source: sakana-releases
 - **2026-07-01** | [Welcome Gemma 3: Google's all new multimodal, multilingual, long context open weights](https://huggingface.co/blog/gemma3) | kw: WEIGHTS DROP | source: google-deepmind-releases

@@ -160,7 +160,6 @@
       "category": "major-lab",
       "last_checked": "2026-07-01T04:11:26.432935+00:00",
       "last_result_hashes": [
-        "8b2ac8213ef105aa56d746f264975642",
         "568d8d8fbceb4dd0855ff088e716170e",
         "054043a6a472d5121d7583faed18573c",
         "ba48bbe34fb7be7f121688ffbf71e24a",
@@ -179,12 +178,13 @@
         "d1be222bc56b185dc2449101de634a1c",
         "411b8578a08bb6debc471b8f39792e6d",
         "5c4404e3ab7ea5389d65f0a0cf21973e",
-        "e3e1efcd436e9492ad1e15e1c43f41f5"
+        "e3e1efcd436e9492ad1e15e1c43f41f5",
+        "5f4c79a5d4cadff716ed1f87f27d61ed"
       ],
-      "last_run": "20260701_151948",
+      "last_run": "20260701_160502",
       "last_update_hash": null,
       "query": "Google DeepMind Gemini new model release API Gemma",
-      "run_count": 137,
+      "run_count": 138,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "huggingface-trending": {
@@ -316,7 +316,6 @@
       "category": "major-lab",
       "last_checked": "2026-07-01T04:11:26.432997+00:00",
       "last_result_hashes": [
-        "931d6572e7067b2e96a470a8079effcf",
         "d49764c09abe774521a65ddc869c2be7",
         "2c7d0995371e779a0c5fa0264c5b6642",
         "d1f764c828f9cc4dcda996bfa856cdd4",
@@ -335,12 +334,13 @@
         "f8b95a025c93cc303db71e7fe8d698c7",
         "c29e6a676aa89b904891f3ae8c3b628a",
         "2dab13061ccb2164cc582054976f526c",
-        "f9eee7c14ecf411b6174c34fcb114bf1"
+        "f9eee7c14ecf411b6174c34fcb114bf1",
+        "55638a6d00efa9f2dec01bfd54a065d7"
       ],
-      "last_run": "20260701_075249",
+      "last_run": "20260701_160502",
       "last_update_hash": null,
       "query": "Meta Llama new model release weights open source",
-      "run_count": 129,
+      "run_count": 130,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "mistral-releases": {
@@ -378,7 +378,6 @@
       "category": "major-lab",
       "last_checked": "2026-07-01T12:15:28.658258+00:00",
       "last_result_hashes": [
-        "19313a15deaa439c252bcedf5495f3a7",
         "add6a09471f386f6725a77468dab5328",
         "d9dd834e11813fa9fa1ccf99fbf2cab9",
         "347939ada43727749ee911dcbe821b99",
@@ -397,12 +396,13 @@
         "f8b95a025c93cc303db71e7fe8d698c7",
         "320310c7839a0a7df7c54294bf33ff96",
         "385713ea0b08f9c1d6ce56c846270c50",
-        "c29e6a676aa89b904891f3ae8c3b628a"
+        "c29e6a676aa89b904891f3ae8c3b628a",
+        "f8afd8c69595dae25d800430f5b71efe"
       ],
-      "last_run": "20260701_151948",
+      "last_run": "20260701_160502",
       "last_update_hash": null,
       "query": "OpenAI new model release GPT ChatGPT API announcement",
-      "run_count": 135,
+      "run_count": 136,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "qwen-releases": {
@@ -569,8 +569,6 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 56,
       "last_result_hashes": [
-        "8388f9fcb4463a8fec4ba6f6c3f5bf01",
-        "481c059b7fcc448e2501ff8c274e17df",
         "f6e7593de5e20b017c604b229796acbb",
         "78cd279932fc619f76e16c4baf538b6b",
         "5a1dac5503ee520f69ca9c3904c0185b",
@@ -588,10 +586,12 @@
         "7260ebd21fb8eb33d2b79133bfe333d4",
         "abd881b5ec446957fa5a312edc648ecc",
         "93c4c40462336b8c14e392fe79573c43",
-        "b0e1165192321fda53ac34daf7511bd0"
+        "b0e1165192321fda53ac34daf7511bd0",
+        "1f9c8270b0765c11a8e0b5b4e80ecf06",
+        "cb038986e78a5c325ba2c49057b52010"
       ],
-      "last_run": "20260701_151948",
-      "run_count": 96,
+      "last_run": "20260701_160502",
+      "run_count": 98,
       "last_checked": "2026-07-01T12:15:28.658254+00:00",
       "last_update_hash": null
     },
