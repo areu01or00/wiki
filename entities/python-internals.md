@@ -3943,6 +3943,11 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python programming language
+- **2026-07-01** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: What is the
+- **2026-07-01** | [The Future of Python Internals: Exploring GIL Removal and Other ...](https://developers-heaven.net/blog/the-future-of-python-internals-exploring-gil-removal-and-other-optimizations/) | kw: The Future of
+- **2026-07-01** | [Python Global Interpreter Lock (GIL): Understanding, Workarounds, and ...](https://dev.to/bshadmehr/python-global-interpreter-lock-gil-understanding-workarounds-and-parallelism-4dkn) | kw: Python Global Interpreter
+
 - **2026-07-01** | _source: wiki-watch_
   - [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
   - [Memory Management — Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: python-internals

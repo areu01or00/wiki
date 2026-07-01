@@ -31,6 +31,17 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad functional programming
+- **2026-07-01** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Co-Creator of Haskell
+- **2026-07-01** | [Monads in Functional Programming: a Practical Note | by Bobby Priam](https://medium.com/@bobbypriam/monads-in-functional-programming-a-practical-note-53488f94b20c) | kw: Monads in Functional
+- **2026-07-01** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP lang for
+- **2026-07-01** | [What killed Haskell, could kill Rust, too - GitHub Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: What killed Haskell
+- **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello Haskell
+- **2026-07-01** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell Foundation 2026
+- **2026-07-01** | [Issue 522 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/522.html) | kw: Issue 522
+- **2026-07-01** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Good tutorialbook about
+- **2026-07-01** | [Functional Programming Online Courses - Serokell](https://serokell.io/courses) | kw: Functional Programming Online
+
 - **2026-07-01** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: FUNCTIONAL
 - **2026-07-01** | [FUNCTIONAL | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: FUNCTIONAL
 - **2026-07-01** | [Functional - definition of functional by The Free Dictionary](https://www.thefreedictionary.com/functional) | kw: Functional

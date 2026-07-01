@@ -41,6 +41,15 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v120 released
+- **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of
+- **2026-07-01** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard Analysis and
+- **2026-07-01** | [Elixirs Gradual Type System (1.17–1.20): How the Compiler Finally ...](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: Elixirs Gradual Type
+- **2026-07-01** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual Typing Programming
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/abs/2603.05649) | kw: Efficient Selection of
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient Selection of
+- **2026-07-01** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345) | kw: Guard Analysis and
+
 - **2026-07-01** | _source: wiki-watch_
   - [Navigating the Language Labyrinth: A 2026 Matrix Analysis of typing and paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
   - [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type-systems
