@@ -1,4 +1,15 @@
 ## Updates
+- **2026-07-01** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional (mathematics) -
+- **2026-07-01** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: FUNCTIONAL Definition &
+- **2026-07-01** | [FUNCTIONAL Synonyms: 118 Similar and Opposite Words - Merriam-Webster](https://www.merriam-webster.com/thesaurus/functional) | kw: FUNCTIONAL Synonyms: 118
+- **2026-07-01** | [Functional Medicine NorthWest](https://functionalmedicinenw.com/) | kw: Functional Medicine NorthWest
+- **2026-07-01** | [FUNCTIONAL | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/functional) | kw: FUNCTIONAL | English
+- **2026-07-01** | [Functional - definition of functional by The Free Dictionary](https://www.thefreedictionary.com/functional) | kw: Functional - definition
+- **2026-07-01** | [Functional Therapy Group Physical Therapy Redmond Duvall...](https://ftgphysicaltherapy.com/) | kw: Functional Therapy Group
+- **2026-07-01** | [Functional - Definition, Meaning & Synonyms | Vocabulary.com](https://www.vocabulary.com/dictionary/functional) | kw: Functional - Definition,
+- **2026-07-01** | [Function | 100 Healthy Years](https://www.functionhealth.com/) | kw: Function | 100
+- **2026-07-01** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional (mathematics) -
+
 - **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure
 - **2026-07-01** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/) | kw: Kabbalah,
 - **2026-07-01** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell

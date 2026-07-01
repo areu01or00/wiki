@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [c++ - LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: c++ - LLVM:
+- **2026-07-01** | [Remote native JIT compilation and debugging with LLVM](https://weliveindetail.github.io/blog/post/2021/03/29/remote-compile-and-debug.html) | kw: Remote native JIT
+- **2026-07-01** | [Getting Started with LLVM](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/course/spring2018/CS131/llvm.pdf) | kw: Getting Started with
+- **2026-07-01** | [2021 LLVM Dev Mtg "ORCv2 -- LLVM JIT APIs Deep Dive" - YouTube](https://www.youtube.com/watch?v=i-inxFudrgI) | kw: 2021 LLVM Dev
+
 - **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: 3.
 - **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why
 - **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize

@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 250) — MODULAR SKILLPACK SPECIALIZATION / COMPOSITIONAL JAILBREAKING MUTATOR CHAINS / CONTRASTIVE RL FOR CONTEXT-FAITHFUL RAG**
+
+- [[skill-weaving-efficient-llm-improvement-via-modular-skillpacks-2605.22205]]
+  Skill Weaving: Modular Skillpack Specialization under Fixed Memory Budgets: SkillWeave partitions full LLM capabilities into skillpacks — lightweight domain-specific delta modules — reorganizing and refining the model's internal knowledge under fixed memory budgets. SkillZip compresses skillpacks for low-latency execution. On multi-task and agentic benchmarks, a 9B SkillWeave model outperforms several baselines and surpasses a 32B monolithic LLM with 4x speedup. **First modular skillpack framework under fixed memory budgets for LLM specialization in the wiki.** Cross-ref: [[reason-and-verify-a-framework-for-faithful-retrieval-augmented-generation-2603.10143]].
+
+- [[compositional-jailbreaking-empirical-analysis-mutator-chain-interactions-aligned-llms-2605.15598]]
+  Compositional Jailbreaking: Mutator Chain Interactions in Aligned LLMs: Systematic study of sequential jailbreak transformation composition ("mutator chaining") applied to aligned LLMs. Twelve baseline mutators evaluated across all ordered pairs on harmful prompt benchmarks. Findings: most combinations fail (destructive interference), but a small fraction produce synergistic attack success rate improvements — revealing structural properties of safety alignment invisible to single-strategy evaluations. **First systematic compositional mutator chaining analysis for jailbreak attack science in the wiki.** Cross-ref: [[jailbreaking-llms-vlms-mechanisms-evaluation-unified-defense-2601.03594]], [[ajar-adaptive-jailbreak-architecture-red-teaming-2601.10971]].
+
+- [[ctrl-rag-contrastive-likelihood-reward-reinforcement-learning-context-faithful-rag-2603.04406]]
+  CTRL-RAG: Contrastive Likelihood Reward for Context-Faithful RAG: CTRL-RAG introduces Contrastive Likelihood Reward (CLR) — directly optimizes log-likelihood gap between responses conditioned with vs without supporting evidence — encouraging evidence grounding and context confidence. First "internal-external" hybrid reward framework for RAG faithfulness without relying on unreliable external reward signals. Achieves strong performance on single-hop, multi-hop, vertical-domain, and faithfulness benchmarks. **First contrastive RL approach for context-faithful RAG training in the wiki.** Cross-ref: [[reason-and-verify-a-framework-for-faithful-retrieval-augmented-generation-2603.10143]], [[faithfulness-qa-a-counterfactual-entity-substitution-dataset-for-training-context-faithful-rag-models-2604.25313]].
 **2026-07-01 — Run 249) — EVOLUTIONARY SEARCH INTERNALIZATION / ADAPTIVE BLOCK-SIZE SPECULATIVE DECODING / LEARNED CONTEXT QUERY FOR VIDEO WORLD MODELS**
 
 - [[evolution-fine-tuning-learning-to-discover-across-371-optimization-tasks-2606.29082]]

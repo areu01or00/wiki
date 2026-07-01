@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: Putting gradual types
+- **2026-07-01** | [The Ins and Outs of Gradual Type Inference Avik Chaudhuri Basil...](https://www.cs.umd.edu/~aseem/popl2012.pptx) | kw: The Ins and
+
 - **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type
 - **2026-07-01** | [Pytype Python Analyze: Infer Check Stubgen Protocols 2026](https://johal.in/pytype-python-analyze-infer-check-stubgen-protocols-2026-4/) | kw: Pytype
 - **2026-07-01** | [Gradual Typing with Unication-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual
