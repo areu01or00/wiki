@@ -33,6 +33,16 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: compilers
+
+- **2026-07-01** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: compilers
+
+- **2026-07-01** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: compilers
+
+- **2026-07-01** | [Unmasking the World of LLVM IR Based JIT Execution](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/) | kw: compilers
+
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: compilers
+
 - **2026-07-01** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
 - **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
 - **2026-07-01** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: compilers

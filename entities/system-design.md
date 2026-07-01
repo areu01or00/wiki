@@ -3619,6 +3619,24 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
+
+- **2026-07-01** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system-design
+
+- **2026-07-01** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: system-design
+
+- **2026-07-01** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: system-design
+
+- **2026-07-01** | [From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI) | kw: system-design
+
+- **2026-07-01** | [10 System Design Patterns You Must Know in 2026 - MockExperts](https://www.mockexperts.com/blog/10-system-design-patterns-you-must-know-2026) | kw: system-design
+
+- **2026-07-01** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: system-design
+
+- **2026-07-01** | [Complete Distributed Systems Guide 2026 - College Nirnay](https://www.collegenirnay.com/articles/complete-guide-distributed-systems-beginners) | kw: system-design
+
+- **2026-07-01** | [This Is What Actually Scales in 2026 | by Kavya](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: system-design
+
 - **2026-07-01** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: system-design
 - **2026-07-01** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: system-design
 - **2026-07-01** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: system-design

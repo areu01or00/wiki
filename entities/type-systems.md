@@ -41,6 +41,14 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Static Analysis Mypy: Strict Typing Configurations 2026 | Johal AI Hub](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: type-systems
+
+- **2026-07-01** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: type-systems
+
+- **2026-07-01** | [Duck Typing vs Type System (2026) | Nice Pick](https://nicepick.dev/compare/duck-typing-vs-type-system) | kw: type-systems
+
+- **2026-07-01** | [TypeScript Gradual Typing | Compile N Run](https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/) | kw: type-systems
+
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
 - **2026-07-01** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb) | kw: type-systems
 
