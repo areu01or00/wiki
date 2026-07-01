@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 309: Deep-Sub-Cluster PROBE-AXIS: Quantization-Safety / Few-Shot Reranking / Formal-Logic Benchmark (Rule 36h: QAT interaction / exemplar-order effects / monadic FOL evaluation)
+
+- [[joint-effect-quantization-temperature-llm-safety-alignment-factorial-analysis-2606.29581]] — [The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis](https://arxiv.org/abs/2606.29581): Prasad, Hari; Pal, Ritam — first factorial study of quantization × temperature interaction on safety alignment; reveals non-additive degradation across six model families at INT4+moderate-temperature. **First QAT-safety interaction paper in the wiki.**
+
+- [[when-reranking-hurts-uncertainty-based-gating-few-shot-reranking-2606.31087]] — [When Reranking Hurts: Uncertainty-Based Gating for Few-Shot Reranking](https://arxiv.org/abs/2606.31087): Dabod, Orian; Cohen, Amir; Stanovsky, Gabriel — identifies that exemplar reranking actively degrades performance via distributional mismatch; proposes Training-Free Gated Reranking using model uncertainty to skip reranking. **First uncertainty-gated exemplar-reranking failure mode paper in the wiki.**
+
+- [[qmf-benchmarking-llm-reasoning-via-quantifiable-monadic-first-order-logic-test-case-generation-2606.20227]] — [QMFOL: Benchmarking Large Language Model Reasoning via Quantifiable Monadic First-Order Logic Test Case Generation](https://arxiv.org/abs/2606.20227): Zheng, Xinyi; Shi, Ling; Yu, Tianlong + 3 — automated FOL reasoning benchmark with quantifiable complexity control; separates logical from semantic complexity for the first time. **First quantifiable-complexity monadic FOL reasoning benchmark in the wiki.**
+
 ### 2026-07-02 — Run 308: Deep-Sub-Cluster PROBE-AXIS: Calibration-Driven MoE / Inductive Reasoning / Guardrail Evasion (Rule 36h: MoE calibration-under-shift / inductive-reasoning / adversarial-guardrail-bypass)
 
 - [[clear-moe-shared-basis-expert-extraction-frozen-vit-2606.28516]] — [CLEAR-MoE: Shared-Basis Expert Extraction from Frozen Vision Transformers via Calibration-Driven Layer Selection](https://arxiv.org/abs/2606.28516): Hossain, Md Irtiza; Ayesha, Humaira; Sifat, Junaid Ahmed — four-phase post-training pipeline converting frozen ViT into sparse MoE without backbone weight updates; selects FFN layers by calibration-driven scoring (sparsity, clusterability, output sensitivity). **First calibration-driven MoE architecture discovery pipeline in the wiki.**

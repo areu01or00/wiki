@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T08:00:00.000000+00:00",
   "__last_updated": "2026-07-02T08:00:00.000000+00:00",
-  "last_run": 308,
-  "last_explore": "2026-07-02T08:00:00.000000+00:00",
-  "last_global_explore": "2026-07-02T08:00:00.000000+00:00",
-  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Calibration-Driven MoE / Inductive Reasoning / Guardrail Evasion",
-  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: calibration-driven MoE / probabilistic-program induction / guardrail-evasion LODO evaluation",
+  "last_run": 309,
+  "last_explore": "2026-07-02T08:30:00.000000+00:00",
+  "last_global_explore": "2026-07-02T08:30:00.000000+00:00",
+  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Quantization-Safety / Few-Shot Reranking / Formal-Logic Benchmark (Rule 36h)",
+  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: QAT interaction / exemplar-order effects / monadic FOL evaluation",
   "last_framing": "DEEP-SUB-CLUSTER PROBE-AXIS",
-  "last_run_notes": "Run 308: 2606.28516, 2606.09856, 2504.11168",
+  "last_run_notes": "Run 309: 2606.29581, 2606.31087, 2606.20227",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "Rule 36h PROBE-AXIS: calibration-driven MoE + probabilistic-program inductive reasoning + adversarial guardrail evasion",
+  "last_run_method": "Rule 36h PROBE-AXIS: quantization-temperature safety interaction + uncertainty-gated few-shot reranking + quantifiable-complexity monadic FOL benchmark (deep-sub-cluster from consumed primaries)",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
   "chains_updated": 0,
-  "entities_count": 937,
+  "entities_count": 940,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8998,6 +8998,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-02T08:00:00.000000+00:00",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.29581",
+      "title": "The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis",
+      "slug": "joint-effect-quantization-temperature-llm-safety-alignment-factorial-analysis-2606.29581",
+      "url": "https://arxiv.org/abs/2606.29581",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T08:30:00.000000+00:00",
+      "theme": "quantization-safety interaction / deployment configuration"
+    },
+    {
+      "arxiv_id": "2606.31087",
+      "title": "When Reranking Hurts: Uncertainty-Based Gating for Few-Shot Reranking",
+      "slug": "when-reranking-hurts-uncertainty-based-gating-few-shot-reranking-2606.31087",
+      "url": "https://arxiv.org/abs/2606.31087",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T08:30:00.000000+00:00",
+      "theme": "exemplar-order effects / uncertainty-gated retrieval"
+    },
+    {
+      "arxiv_id": "2606.20227",
+      "title": "QMFOL: Benchmarking Large Language Model Reasoning via Quantifiable Monadic First-Order Logic Test Case Generation",
+      "slug": "qmf-benchmarking-llm-reasoning-via-quantifiable-monadic-first-order-logic-test-case-generation-2606.20227",
+      "url": "https://arxiv.org/abs/2606.20227",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T08:30:00.000000+00:00",
+      "theme": "formal-logic reasoning / quantifiable-complexity evaluation"
     }
   ],
   "emergent_discoveries": [
@@ -20830,6 +20857,18 @@
         "2605.29395"
       ],
       "status": "success"
+    },
+    {
+      "run": 309,
+      "date": "2026-07-02T08:30:00.000000+00:00",
+      "theme": "Deep-Sub-Cluster PROBE-AXIS: Quantization-Safety / Few-Shot Reranking / Formal-Logic Benchmark",
+      "picks": [
+        "2606.29581",
+        "2606.31087",
+        "2606.20227"
+      ],
+      "method": "Rule 36h PROBE-AXIS: QAT interaction + exemplar-order effects + monadic FOL evaluation (deep-sub-cluster from consumed primaries)",
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
