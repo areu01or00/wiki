@@ -33,6 +33,11 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
+- **2026-07-01** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: compilers
+- **2026-07-01** | [2017 LLVM Developers Meeting - Compile-Time Optimization](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: compilers
+- **2026-07-01** | [A LLVM JIT Prototype for Energy-Saving Computing | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: compilers
+
 - **2026-07-01** | [2026 EuroLLVM Developers' Meeting](https://llvm.org/devmtg/2026-04/) | kw: LLVM
 
 - **2026-07-01** | [Easy::jit: A just-in-time compiler for C++ - GitHub](https://github.com/jmmartinez/easy-just-in-time) | kw: jit

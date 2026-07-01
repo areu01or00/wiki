@@ -3619,6 +3619,15 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) | kw: system-design
+- **2026-07-01** | [System Design for Agentic AI Systems: From Distributed Systems](https://www.abstractalgorithms.dev/system-design-for-agentic-ai-systems-from-distributed-principles-to-production) | kw: system-design
+- **2026-07-01** | [Interface Architecture and Design System Engineering](https://zemgraphics.com/) | kw: system-design
+- **2026-07-01** | [Design Rocket - Learn AI Design system.](https://designrocket.io/) | kw: system-design
+- **2026-07-01** | [Design Patterns](https://refactoring.guru/design-patterns) | kw: system-design
+- **2026-07-01** | [Home - Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) | kw: system-design
+- **2026-07-01** | [Architectural Patterns: Moving Beyond Cloud-Native to... - InfoQ](https://www.infoq.com/podcasts/natural-evolution-cloud-native/) | kw: system-design
+- **2026-07-01** | [What are microservices?](https://microservices.io/) | kw: system-design
+
 - **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
 
 - **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating

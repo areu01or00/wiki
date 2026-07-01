@@ -41,6 +41,14 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Gradual typing - Wikipedia](https://en.m.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance Improvement](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-07-01** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: type-systems
+- **2026-07-01** | [Guard Analysis and Safe Erasure Gradual Typing for Elixir](https://arxiv.org/abs/2408.14345) | kw: type-systems
+- **2026-07-01** | [Efficient Selection of Type Annotations - Programming Conference 2026](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
+- **2026-07-01** | [Elixir Gradual Type System (1.17-1.20) - Gabriel Ortuno](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: type-systems
+- **2026-07-01** | [Putting Gradual Types to Work - NSF](https://par.nsf.gov/servlets/purl/10315909) | kw: type-systems
+
 - **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: gradual
 
 - **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: gradual

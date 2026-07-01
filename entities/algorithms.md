@@ -4117,6 +4117,13 @@
 
 
 ## Updates
+- **2026-07-01** | [leetcode-csharp - GitHub Topics](https://github.com/topics/leetcode-csharp) | kw: algorithms
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: algorithms
+- **2026-07-01** | [datastructures-algorithms - GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [Master key data structures and algorithms with LeetCode - LinkedIn](https://www.linkedin.com/posts/slothdevs_algorithms-datastructures-leetcode-activity-7379706524392329217-fWj3) | kw: algorithms
+- **2026-07-01** | [Interview Coder - AI Interview Assistant](https://www.interviewcoder.co/) | kw: algorithms
+- **2026-07-01** | [Interview curated list - Medium](https://medium.com/@veluri.phanikumar/list/interview-f344114e5baa) | kw: algorithms
+
 - **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: leetcode
 
 - **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: leetcode

@@ -3943,6 +3943,9 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: python
+- **2026-07-01** | [MEMORY_MANAGEMENT 0x1A error fix Windows 10/11](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: python
+
 - **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python
 
 - **2026-07-01** | [The Python Interview Question That Stumps 80% of... | Level Up Coding](https://levelup.gitconnected.com/the-python-interview-question-that-stumps-80-of-senior-developers-and-how-to-master-it-c74bbc5cb9c0) | kw: interview
