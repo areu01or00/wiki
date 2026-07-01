@@ -18,6 +18,12 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-07-01** | [DeepSeek V4 Launches in Mid-July with Peak-Valley Pricing](https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing) | kw: deepseek-releases | score: 6
+- **2026-07-01** | [DeepSeek to launch V4 in mid-July with new peak-time API pricing](https://technode.com/2026/06/30/deepseek-to-launch-v4-in-mid-july-with-new-peak-time-api-pricing/) | kw: deepseek-releases | score: 6
+- **2026-07-01** | [DeepSeek V4 Official Release: Peak Pricing Guide](https://explainx.ai/blog/deepseek-v4-official-release-peak-pricing-mid-july-2026) | kw: deepseek-releases | score: 6
+- **2026-07-01** | [DeepSeek V4 Official Launch + Peak/Off-Peak Pricing](https://www.reddit.com/r/DeepSeek/comments/1uio6yf/deepseek_v4_official_launch_peakoffpeak_pricing/) | kw: deepseek-releases | score: 6
+- **2026-07-01** | [Is Google Delaying Gemini 3.5 Pro Launch to July for Further Testing?](https://www.androidpolice.com/google-gemini-3-5-pro-launch-delay-july-2026/) | kw: google-deepmind-releases | score: 6
+- **2026-07-01** | [Google delays Gemini 3.5 Pro launch to July 2026](https://9to5google.com/2026/06/29/google-gemini-35-pro-launch-delay/) | kw: google-deepmind-releases | score: 6
 - **2026-07-01** | [Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine](https://blog.kog.ai/kog-laneformer-2b-the-latency-first-model-behind-kog-inference-engine/) | kw: kog-ai | score: 8
 - **2026-07-01** | [Kog Labs](https://blog.kog.ai/) | kw: kog-ai | score: 8
 
