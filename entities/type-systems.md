@@ -41,6 +41,24 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating
+
+- **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static
+
+- **2026-07-01** | [Pyre Strict Typing: Facebook Static Analyzer for Python Projects 2026](https://johal.in/pyre-strict-typing-facebooks-static-analyzer-for-python-projects-2026-2/) | kw: Pyre
+
+- **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type
+
+- **2026-07-01** | [TypeScript Gradual Typing](https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/) | kw: TypeScript
+
+- **2026-07-01** | [gradual-typing GitHub Topics](https://github.com/topics/gradual-typing) | kw: gradual
+
+- **2026-07-01** | [The Dynamic Practice and Static Theory of Gradual Typing](https://mgree.github.io/papers/snapl2019.pdf) | kw: Dynamic
+
+- **2026-07-01** | [Gradual typing for generic type-and-effect systems](https://www.academia.edu/79165611/Gradual_typing_for_generic_type_and_effect_systems) | kw: Gradual
+
+- **2026-07-01** | [Types of type systems in programming](https://pandaquests.medium.com/types-of-type-systems-in-programming-d1f923b64eb5) | kw: Types
+
 - **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type-systems
 - **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
 - **2026-07-01** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type-systems

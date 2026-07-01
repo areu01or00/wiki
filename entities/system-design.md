@@ -3619,6 +3619,26 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
+
+- **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating
+
+- **2026-07-01** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: open
+
+- **2026-07-01** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: SYSTEM
+
+- **2026-07-01** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: System
+
+- **2026-07-01** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-information-panel-in-windows) | kw: open
+
+- **2026-07-01** | [SYSTEM Synonyms: 90 Similar Words - Merriam-Webster](https://www.merriam-webster.com/thesaurus/system) | kw: SYSTEM
+
+- **2026-07-01** | [System | All Journal Issues | ScienceDirect.com](https://www.sciencedirect.com/journal/system/issues) | kw: System
+
+- **2026-07-01** | [System | Journal | ScienceDirect.com](https://www.sciencedirect.com/journal/system) | kw: System
+
+- **2026-07-01** | [System - definition of system by The Free Dictionary](https://www.thefreedictionary.com/system) | kw: System
+
 - **2026-07-01** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
 - **2026-07-01** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: system-design
 - **2026-07-01** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: system-design
