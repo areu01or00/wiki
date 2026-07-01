@@ -18,6 +18,18 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 295: Instruction-Tuning Data Selection / Legal-Benchmark Gap / Task-Specific Distillation Scaling
+
+- [[online-data-selection-for-instruction-tuning-via-gaussian-processes-2606.30077]]
+  [Online Data Selection for Instruction Tuning via Gaussian Processes](https://arxiv.org/abs/2606.30077) — Wang, Jun; Nguyen, Quoc Phong; Monteil, Julien + 1 — first Gaussian Process-based online data selection framework for instruction tuning, dynamically curating training data based on model learning signals. **First GP-based online data selection framework for LLM instruction tuning in wiki.**
+
+- [[scaling-laws-for-task-specific-llm-distillation-2606.24747]]
+  [Scaling Laws for Task-Specific LLM Distillation](https://arxiv.org/abs/2606.24747) — Ghita, Lavinia; Desai, Dhruv; Boier, Ioana — first formal scaling laws framework for task-specific LLM distillation, characterizing teacher-student size trade-offs and optimal data budgets per task complexity. **First scaling laws framework for task-specific LLM distillation in wiki.**
+
+- [[legal-reasoning-is-not-lawyering-rethinking-legal-benchmarks-for-pro-se-access-to-justice-2606.23716]]
+  [Legal Reasoning Is Not Lawyering: Rethinking Legal Benchmarks for Pro Se Access to Justice](https://arxiv.org/abs/2606.23716) — Lou, Andrew; Shin, David — first paper systematically demonstrating the gap between legal reasoning benchmark performance and practical lawyering ability, with implications for access-to-justice AI deployment. **First paper documenting the reasoning-vs-lawyering gap in access-to-justice AI in wiki.**
+
+
 ### 2026-07-01 — Run 294: Strategy vs Phrasing Diversity / Agent-Vulnerability Communication / Diffusion RL-Distillation Interaction
 
 - [[are-we-measuring-strategy-or-phrasing-the-gap-between-surface-and-approach-level-diversity-in-llm-math-reasoning-2606.29985]]
