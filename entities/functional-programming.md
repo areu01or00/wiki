@@ -1,3 +1,6 @@
+- **2026-07-01** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell
+- **2026-07-01** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad
+
 - **2026-07-01** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: monad
 - **2026-07-01** | [Monads and Effects | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: monad
 - **2026-07-01** | [Monads (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: monad

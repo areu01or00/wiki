@@ -3931,6 +3931,14 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python (programming language) - Wikipedia](https://en.m.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
+- **2026-07-01** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: Best
+- **2026-07-01** | [PyPI · The Python Package Index](https://pypi.org/) | kw: PyPI
+
+- **2026-07-01** | [Python (programming language) - Wikipedia](https://en.m.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
+- **2026-07-01** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: Best
+- **2026-07-01** | [PyPI · The Python Package Index](https://pypi.org/) | kw: PyPI
+
 - **2026-07-01** | [Memory Management and GIL in Python: Python Guide (2026) | Edugators](https://www.edugators.com/python-online-training/advanced/python-memory-gil) | kw: GIL
 - **2026-07-01** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: GIL
 - **2026-07-01** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: GIL

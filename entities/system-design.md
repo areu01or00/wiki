@@ -3591,6 +3591,10 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [What are microservices?](https://microservices.io/) | kw: microservices?
+
+- **2026-07-01** | [What are microservices?](https://microservices.io/) | kw: microservices?
+
 - **2026-07-01** | [Modern Software Architecture Patterns That Scale In 2026](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: 
 - **2026-07-01** | [What Is the Basic Architecture of a Distributed System?](https://sivaro.in/articles/what-is-the-basic-architecture-of-a-distributed-system/) | kw: distributed
 - **2026-07-01** | [Notification Fanout Architecture — exashard](https://exashard.com/posts/notification-fanout-architecture/) | kw: 

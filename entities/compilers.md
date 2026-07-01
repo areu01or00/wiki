@@ -1,6 +1,20 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [CS153: Compilers Lecture 1: Introduction - Harvard University](https://groups.seas.harvard.edu/courses/cs153/2018fa/lectures/Lec01-Intro.pdf) | kw: CS153:
+- **2026-07-01** | [Compilers - Stanford University](https://web.stanford.edu/class/cs143/lectures/lecture01.pdf) | kw: Compilers
+- **2026-07-01** | [CS 45, Lecture 7 Compilers - Stanford University](https://web.stanford.edu/class/cs45/lectures/7-compilers.pdf) | kw: Lecture
+- **2026-07-01** | [Compilers - GitHub Pages](https://iitd-plos.github.io/col729/refs/ALSUdragonbook.pdf) | kw: Compilers
+- **2026-07-01** | [Compilers PDF - cdn.bookey.app](https://cdn.bookey.app/files/pdf/book/en/compilers.pdf) | kw: Compilers
+- **2026-07-01** | [GitHub - debo-31/JIT-LLVM: Just-In-Time compilation is a method to...](https://github.com/debo-31/JIT-LLVM) | kw: GitHub
+
+- **2026-07-01** | [CS153: Compilers Lecture 1: Introduction - Harvard University](https://groups.seas.harvard.edu/courses/cs153/2018fa/lectures/Lec01-Intro.pdf) | kw: CS153:
+- **2026-07-01** | [Compilers - Stanford University](https://web.stanford.edu/class/cs143/lectures/lecture01.pdf) | kw: Compilers
+- **2026-07-01** | [CS 45, Lecture 7 Compilers - Stanford University](https://web.stanford.edu/class/cs45/lectures/7-compilers.pdf) | kw: Lecture
+- **2026-07-01** | [Compilers - GitHub Pages](https://iitd-plos.github.io/col729/refs/ALSUdragonbook.pdf) | kw: Compilers
+- **2026-07-01** | [Compilers PDF - cdn.bookey.app](https://cdn.bookey.app/files/pdf/book/en/compilers.pdf) | kw: Compilers
+- **2026-07-01** | [GitHub - debo-31/JIT-LLVM: Just-In-Time compilation is a method to...](https://github.com/debo-31/JIT-LLVM) | kw: GitHub
+
 - **2026-07-01** | [A Deep Dive into LLVM: The Future of Compiler Technology | Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: LLVM
 - **2026-07-01** | [2017 LLVM Developers' Meeting: M. Zolotukhin "LLVM Compile-Time...](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: LLVM
 

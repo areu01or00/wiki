@@ -4085,6 +4085,26 @@
 
 
 ## Updates
+- **2026-07-01** | [faang-interview · GitHub Topics · GitHub](https://github.com/topics/faang-interview) | kw: faang-interview
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: Problems
+- **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: Alternatives
+- **2026-07-01** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: Best
+- **2026-07-01** | [Do we really need Leetcode (Data Structures & Algorithms)... | Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: really
+- **2026-07-01** | [[Update Links] Java Data Structures & Algorithms + LEETCODE...](https://learningdl.net/java-data-structures-algorithms-leetcode-exercises/) | kw: [Update
+- **2026-07-01** | [Union Find in 5 minutes — Data Structures & Algorithms - YouTube](https://www.youtube.com/watch?v=ayW5B2W9hfo) | kw: Union
+- **2026-07-01** | [Data Structures & Algorithms Roadmap: Learn DSA | LinkedIn](https://www.linkedin.com/posts/s-wakhare_datastructures-algorithms-codinginterview-activity-7417375485132750848-uysh) | kw: Data
+- **2026-07-01** | [Los leetcode repositorios principales - Proyectos de GitHub... | Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: leetcode
+
+- **2026-07-01** | [faang-interview · GitHub Topics · GitHub](https://github.com/topics/faang-interview) | kw: faang-interview
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: Problems
+- **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: Alternatives
+- **2026-07-01** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: Best
+- **2026-07-01** | [Do we really need Leetcode (Data Structures & Algorithms)... | Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: really
+- **2026-07-01** | [[Update Links] Java Data Structures & Algorithms + LEETCODE...](https://learningdl.net/java-data-structures-algorithms-leetcode-exercises/) | kw: [Update
+- **2026-07-01** | [Union Find in 5 minutes — Data Structures & Algorithms - YouTube](https://www.youtube.com/watch?v=ayW5B2W9hfo) | kw: Union
+- **2026-07-01** | [Data Structures & Algorithms Roadmap: Learn DSA | LinkedIn](https://www.linkedin.com/posts/s-wakhare_datastructures-algorithms-codinginterview-activity-7417375485132750848-uysh) | kw: Data
+- **2026-07-01** | [Los leetcode repositorios principales - Proyectos de GitHub... | Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: leetcode
+
 - **2026-07-01** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: 
 - **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: 
 - **2026-07-01** | [Algorithms | An Open Access Journal from MDPI](https://www.mdpi.com/journal/algorithms) | kw: 

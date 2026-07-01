@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau
+- **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: inference
+- **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Inference
+- **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236/Gradual_typing_for_functional_languages) | kw: (PDF)
+
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau
+- **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: inference
+- **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Inference
+- **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236/Gradual_typing_for_functional_languages) | kw: (PDF)
+
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: 
 - **2026-07-01** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: 
 - **2026-07-01** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: 
