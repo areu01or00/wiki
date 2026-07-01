@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 252) — CAUSAL PERTURBATIVE ELICITATION / DYNAMIC RUBRIC REWARDS / ACTIVATION CONSISTENCY SAFETY**
+
+- [[mechanistically-eliciting-latent-behaviors-in-language-2606.29604]]
+  CPE (Causal Perturbative Elicitation): Unsupervised method for discovering diverse, generalizable perturbations of LLM internals that surface hidden behavioral modes — providing mechanistic interpretability lens into latent capabilities and risks. First causal perturbative elicitation framework for LLM behavioral mode discovery in the wiki. Cross-ref: [[mechanistic-circuit-based-knowledge-editing-in-large-language-models-2604.05876]], [[layer-wise-perturbations-via-sparse-autoencoders-for-adversarial-text-generation-2508.10404]].
+
+- [[evorubrics-dynamic-rubrics-rewards-adversarial-llm-reinforcement-2606.23038]]
+  EvoRubrics: Dynamic Rubric-based Rewards via Adversarial Co-Evolution for LLM RL. Evolves rubrics throughout training to maintain alignment with the evolving policy — addressing the fundamental mismatch between static pre-constructed rubrics and dynamic training. Interpretable and fine-grained RL optimization signals. First dynamically-evolved rubric reward framework for LLM RL in the wiki. Cross-ref: [[discretizing-reward-models-2606.21795]], [[learning-from-own-solutions-self-conditioned-credit-assignment-for-reinforcement-learning-with-verifiable-rewards-2606.18810]].
+
+- [[mitigating-adaptive-attacks-against-reasoning-models-2605.28467]]
+  Activation Consistency Training: Fine-tuning objective enforcing identical behavior on clean vs adversarially-perturbed chain-of-thought — defending reasoning models against adaptive jailbreaks and prompt injection attacks. Studies consistency training as defense for extended CoT reasoning. First activation-consistency defense framework for reasoning model chain-of-thought in the wiki. Cross-ref: [[compositional-jailbreaking-empirical-analysis-mutator-chain-interactions-aligned-llms-2605.15598]], [[jailbreakopt-tool-assisted-iterative-jailbreak-prompt-optimization-2606.11425]].
+
 **2026-07-01 — Run 251) — GRAPH-STRUCTURED SESSION MEMORY / MOBILE TRUSTZONE LLM SERVING / SELF-RECOVERY FROM UNSAFE REASONING TRAJECTORIES**
 
 - [[tokenmizer-graph-structured-session-memory-for-long-horizon-llm-context-management-2606.06337]]
