@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 298: Multi-Agent Security / Domain-Specific Planning / LLM Ensembling (Rule 36h PROBE-AXIS: multi-agent coordination + model architecture)
+
+- [[llm-guided-planning-for-multi-hop-reasoning-over-multimodal-nuclear-regulatory-documents-2606.29399]]
+  [LLM-Guided Planning for Multi-hop Reasoning over Multimodal Nuclear Regulatory Documents](https://arxiv.org/abs/2606.29399) — Jeon, Mingyu; Kim, Bokyeong; Cho, Suwan + 2 — first application of LLM-as-planner to nuclear regulatory multi-hop document reasoning, decomposing evidence assembly across tens of thousands of pages spanning multiple chapters. **First nuclear-regulatory-domain LLM planning paper in the wiki.**
+
+- [[tool-use-enables-undetectable-steganography-in-multi-agent-llm-systems-2606.28425]]
+  [Tool Use Enables Undetectable Steganography in Multi-Agent LLM Systems](https://arxiv.org/abs/2606.28425) — Rippin, Jimmy Laurence; Marshall, Simon C.; Africa, David Demitri + 1 — first identification of tool-use-mediated steganography as a distinct multi-agent LLM risk, embedding covert channels inside API call parameters that bypass standard monitoring. **First steganographic covert-channel multi-agent security paper in the wiki.**
+
+- [[rethinking-llm-ensembling-from-the-perspective-of-mixture-models-2605.00419]]
+  [Rethinking LLM Ensembling from the Perspective of Mixture Models](https://arxiv.org/abs/2605.00419) — Fu, Jiale; Jiang, Yuchu; Wu, Peijun + 3 — first principled mixture-model framing of LLM ensembling with EM-theoretic grounding, showing capability-segmented routing outperforms uniform averaging on heterogeneous task distributions. **First mixture-model-theoretic LLM ensembling paper in the wiki.**
+
 ### 2026-07-01 — Run 297: Reasoning Primitive Extraction / Operadic Consistency / RIFT Rubric Failure Taxonomy (Rule 36c: deep-sub-cluster rotation within prompt-engineering + eval-methodology + failure-mode-catalog)
 
 - [[operadic-consistency-label-free-compositional-reasoning-failures-2606.13649]]

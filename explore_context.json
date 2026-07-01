@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T14:30:00.000000+00:00",
-  "__last_updated": "2026-07-01T16:45:11+00:00",
-  "last_run": 297,
+  "__last_updated": "2026-07-01T18:50:00+00:00",
+  "last_run": 298,
   "last_explore": "2026-07-01T17:50:00.000000+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
-  "last_discovery": "REASONING-PRIMITIVE-EXTRACTION / OPERADIC-CONSISTENCY / RUBRIC-FAILURE-TAXONOMY",
-  "last_run_framing": "REASONING PRIMITIVE / OPERADIC CONSISTENCY / RUBRIC FAILURE TAXONOMY",
+  "last_discovery": "MULTI-AGENT STEGANOGRAPHY / DOMAIN-SPECIFIC PLANNING / MIXTURE-MODEL ENSEMBLING",
+  "last_run_framing": "MULTI-AGENT SECURITY / DOMAIN-SPECIFIC PLANNING / LLM ENSEMBLING",
   "last_framing": "DIVERSITYAGENTDIFFUSION",
-  "last_run_notes": "Run 297: 2606.02994, 2606.13649, 2604.01375",
+  "last_run_notes": "Run 298: 2606.28425, 2606.29399, 2605.00419",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily (CV-heavy) + arxiv HTML search (calibration/uncertainty/ICL axes) + web_search \u2014 Rule 36h PROBE-AXIS calibration/uncertainty + Rule 15d escape hatch",
+  "last_run_method": "HF daily (CV-heavy) + web_search multi-agent/ensembling/reasoning queries \u2014 Rule 36h PROBE-AXIS multi-agent coordination + model architecture",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "self-improvement / strategy memory / flow reasoning",
   "emergent_theme": "self-improvement / strategy memory / flow reasoning",
   "chains_updated": 0,
-  "entities_count": 898,
+  "entities_count": 907,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -15407,6 +15407,30 @@
       "url": "https://arxiv.org/abs/2604.01375",
       "discovered": "2026-07-01T18:30:00+00:00",
       "theme": "reasoning primitive / compositional failure / rubric evaluation"
+    },
+    {
+      "arxiv_id": "2606.28425",
+      "title": "Tool Use Enables Undetectable Steganography in Multi-Agent LLM Systems",
+      "slug": "tool-use-enables-undetectable-steganography-in-multi-agent-llm-systems-2606.28425",
+      "url": "https://arxiv.org/abs/2606.28425",
+      "discovered": "2026-07-01T18:50:00+00:00",
+      "theme": "multi-agent / planning / ensembling"
+    },
+    {
+      "arxiv_id": "2606.29399",
+      "title": "LLM-Guided Planning for Multi-hop Reasoning over Multimodal Nuclear Regulatory Documents",
+      "slug": "llm-guided-planning-for-multi-hop-reasoning-over-multimodal-nuclear-regulatory-documents-2606.29399",
+      "url": "https://arxiv.org/abs/2606.29399",
+      "discovered": "2026-07-01T18:50:00+00:00",
+      "theme": "multi-agent / planning / ensembling"
+    },
+    {
+      "arxiv_id": "2605.00419",
+      "title": "Rethinking LLM Ensembling from the Perspective of Mixture Models",
+      "slug": "rethinking-llm-ensembling-from-the-perspective-of-mixture-models-2605.00419",
+      "url": "https://arxiv.org/abs/2605.00419",
+      "discovered": "2026-07-01T18:50:00+00:00",
+      "theme": "multi-agent / planning / ensembling"
     }
   ],
   "emergent_concept_search_log": [
@@ -20143,6 +20167,21 @@
           "slug": "rift-rubric-failure-mode-taxonomy-automated-diagnostics-2604.01375"
         }
       ]
+    },
+    {
+      "run": 298,
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T18:50:00+00:00",
+      "papers_added": 3,
+      "paper_ids": [
+        "2606.28425",
+        "2606.29399",
+        "2605.00419"
+      ],
+      "theme": "multi-agent security / domain-specific planning / mixture-model ensembling",
+      "framing": "MULTI-AGENT SECURITY / DOMAIN-SPECIFIC PLANNING / LLM ENSEMBLING",
+      "method": "HF daily (CV-heavy) + web_search multi-agent/ensembling/reasoning queries \u2014 Rule 36h PROBE-AXIS multi-agent coordination + model architecture",
+      "notes": "HF daily pool CV/3D-heavy; Rule 15d escape hatch fired; web_search surfaced 5 fresh candidates; 3 structurally orthogonal picks"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
