@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T12:30:00.000000+00:00",
   "__last_updated": "2026-07-01T12:30:00.000000+00:00",
-  "last_run": 271,
-  "last_explore": "2026-07-01T12:45:00.000000+00:00",
-  "last_global_explore": "2026-07-01T12:45:00.000000+00:00",
+  "last_run": 272,
+  "last_explore": "2026-07-01T10:46:35.775423+00:00",
+  "last_global_explore": "2026-07-01T10:46:35.775438+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "COGNITION LAYER ARCHITECTURES / SELF-EVOLVING AGENT SAFETY / ANTICIPATORY MEMORY",
-  "last_framing": "cognition layer architectures / self-evolving agent safety / anticipatory memory",
-  "last_run_notes": "Run 271: 2606.23075 / 2606.15405 / 2606.12563",
+  "last_run_framing": "LOGICAL FALLACY ROBUSTNESS / DIFFUSION LLM SELF-DISTILLATION / KV-CACHE TRAINABILITY",
+  "last_framing": "logical fallacy robustness / diffusion llm self-distillation / kv-cache trainability",
+  "last_run_notes": "Run 272: 2606.31039 / 2606.18195 / 2605.05971",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 3-date (99 papers, 40 fresh, 21 LLM, 3 orthogonal picks)",
+  "last_run_method": "arxiv HTML 4-query search (200 IDs, 18 fresh, 14 LLM, 3 orthogonal picks)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 826,
+  "entities_count": 829,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1957,12 +1957,39 @@
           "discovered": "2026-07-01T06:18:02+00:00",
           "theme": "alignment safety / ethical instruction processing / compliance vs internalization",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.31039",
+          "title": "Truth or Sophistry? LoFa: A Benchmark for LLM Robustness Against Logical Fallacies",
+          "url": "https://arxiv.org/abs/2606.31039",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T10:46:53.151431+00:00",
+          "theme": "logical fallacy robustness / llm safety evaluation",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.18195",
+          "title": "Learning from the Self-future: On-policy Self-distillation for dLLMs",
+          "url": "https://arxiv.org/abs/2606.18195",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T10:46:53.151431+00:00",
+          "theme": "diffusion llm self-distillation / post-training",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2605.05971",
+          "title": "Training Transformers for KV Cache Compressibility",
+          "url": "https://arxiv.org/abs/2605.05971",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T10:46:53.151431+00:00",
+          "theme": "kv cache compressibility / training-time optimization",
+          "chain": "emergent-concepts"
         }
       ],
-      "last_run": "2026-07-01T02:00:00+00:00",
+      "last_run": "2026-07-01T10:46:53.151431+00:00",
       "last_explore": "2026-06-29T10:30:00+00:00",
       "last_run_added": 3,
-      "papers_found_count": 138,
+      "papers_found_count": 204,
       "run_method": "emergent-concept",
       "last_explored": "2026-06-25T20:14:53.048457+00:00",
       "last_run_notes": "Explore: 3 new entity pages from emergent-concept search on HuggingFace 3-day window (2026-06-23..2026-06-25). Picks: FastMix (bilevel data-mixture optimization, 2606.14971, cs.LG), World Action Models Survey (embodied predictive-action models, 2606.20781, cs.RO), LLM-Assisted Refactoring & Gameplay (empirical GPT-4o case study, 2606.21171, cs.SE). After 5-store cross-dedup, theme-diversity discipline maintained: training-systems + embodied world-models survey + LLM-coding production case-study (breaks agent-heavy streak)."
@@ -14195,6 +14222,30 @@
       "url": "https://arxiv.org/abs/2606.12563",
       "discovered": "2026-07-01T12:45:00+00:00",
       "theme": "tree search as cognition layer / multi-agent hypothesis evaluation / shared working memory"
+    },
+    {
+      "arxiv_id": "2606.31039",
+      "title": "Truth or Sophistry? LoFa: A Benchmark for LLM Robustness Against Logical Fallacies",
+      "slug": "2606.31039",
+      "url": "https://arxiv.org/abs/2606.31039",
+      "discovered": "2026-07-01T10:46:35.775466+00:00",
+      "theme": "emergent-concept"
+    },
+    {
+      "arxiv_id": "2606.18195",
+      "title": "Learning from the Self-future: On-policy Self-distillation for dLLMs",
+      "slug": "2606.18195",
+      "url": "https://arxiv.org/abs/2606.18195",
+      "discovered": "2026-07-01T10:46:35.775466+00:00",
+      "theme": "emergent-concept"
+    },
+    {
+      "arxiv_id": "2605.05971",
+      "title": "Training Transformers for KV Cache Compressibility",
+      "slug": "2605.05971",
+      "url": "https://arxiv.org/abs/2605.05971",
+      "discovered": "2026-07-01T10:46:35.775466+00:00",
+      "theme": "emergent-concept"
     }
   ],
   "emergent_concept_search_log": [
@@ -17107,6 +17158,18 @@
       "theme": "neurosymbolic / uncertainty quantification / error prediction ambiguity",
       "date": "2026-07-01",
       "papers_added": 3
+    },
+    {
+      "run": 272,
+      "timestamp": "2026-07-01T10:46:35.775466+00:00",
+      "papers_added": 3,
+      "paper_ids": [
+        "2606.31039",
+        "2606.18195",
+        "2605.05971"
+      ],
+      "method": "arxiv HTML 4-query search",
+      "theme": "logical fallacy robustness / diffusion llm self-distillation / kv-cache trainability"
     }
   ],
   "runs": [

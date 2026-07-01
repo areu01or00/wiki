@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 272) — LOGICAL FALLACY ROBUSTNESS / DIFFUSION LLM SELF-DISTILLATION / KV-CACHE TRAINABILITY**
+
+- [[truth-or-sophistry-lofa-a-benchmark-for-llm-robustness-again-2606.31039]]
+  Logical Fallacy Robustness: First benchmark evaluating LLM resistance to fallacious persuasion (not just detection) — uses multi-agent pipeline pairing factual Q with fallacious arguments, multi-round debate framework, and LFR@k metric separating fallacy robustness from knowledge limitations. Reveals distinct vulnerability profiles across LLM families. Orthogonal to prior runs' safety evaluation papers.
+
+- [[learning-from-the-self-future-on-policy-self-distillation-fo-2606.18195]]
+  Diffusion LLM Self-Distillation: First OPSD framework tailored for diffusion LLMs (d-OPSD) — uses self-generated answers as suffix conditioning (not left-to-right prefixes), step-level supervision aligned with denoising process. Achieves ~10% of RLVR optimization steps with consistent improvement on 4 reasoning benchmarks. Orthogonal to prior runs' diffusion LLM and self-distillation papers.
+
+- [[training-transformers-for-kv-cache-compressibility-2605.05971]]
+  KV Cache Trainability: First theoretical framework formalizing KV compressibility as learned representation property — proves compressible vs non-compressible implementations exist for same function. Proposes KV-CAT continued pretraining with train-time KV slot masking to learn compressible representations. Improves downstream post-hoc compression quality-budget tradeoff. Orthogonal to prior runs' KV cache optimization papers.
+
 **2026-07-01 — Run 271) — COGNITION LAYER ARCHITECTURES / SELF-EVOLVING AGENT SAFETY / ANTICIPATORY MEMORY**
 
 - [[safety-in-self-evolving-llm-agent-systems-threats-amplification-and-2606.23075]]
