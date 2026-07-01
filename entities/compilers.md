@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructure Project
+- **2026-07-01** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: Retrofitting JIT Compilers into C Interpreters
+- **2026-07-01** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT Design and Implementation
+- **2026-07-01** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir) | kw: dstogov/ir
+- **2026-07-01** | [Unmasking the World of LLVM IR Based JIT Execution](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/) | kw: Unmasking the World of LLVM IR Based JIT Execution
+
 - **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: Compilers
 - **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Compilers
 - **2026-07-01** | [2017 LLVM Developers Meeting: M. Zolotukhin](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: Compilers

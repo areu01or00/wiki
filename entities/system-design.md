@@ -3591,6 +3591,16 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
+- **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating system
+- **2026-07-01** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: How to open System Properties in Control Panel in 
+- **2026-07-01** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: SYSTEM Definition & Meaning
+- **2026-07-01** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: What does System mean?
+- **2026-07-01** | [System | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/system) | kw: System
+- **2026-07-01** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-and-view-system-information-panel-in-windows) | kw: How to open and view System Information panel in W
+- **2026-07-01** | [SYSTEM | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/system) | kw: SYSTEM
+- **2026-07-01** | [SYSTEM Synonyms: 90 Similar Words - Merriam-Webster](https://www.merriam-webster.com/thesaurus/system) | kw: SYSTEM Synonyms
+
 - **2026-07-01** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: System Design
 - **2026-07-01** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: System Design
 - **2026-07-01** | [10 System Design Patterns You Must Know in 2026 - MockExperts](https://www.mockexperts.com/blog/10-system-design-patterns-you-must-know-2026) | kw: System Design

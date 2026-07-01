@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic Typing
+- **2026-07-01** | [Typed and Confused: Studying the Unexpected Dangers of Gradual...](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed and Confused
+- **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: Putting gradual types to work
+- **2026-07-01** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: Pyre Migrate Django
+
 - **2026-07-01** | [Type inference of all constructs and the next 15 months - Elixir Blog](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type Systems
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Type Systems
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Type Systems

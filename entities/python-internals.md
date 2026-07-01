@@ -3931,6 +3931,8 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: Advanced Python Interview Questions & Answers
+
 - **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: Python Internals
 - **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: Python Internals
 - **2026-07-01** | [Beyond basics: async, type hints, packaging, and production Python](https://jobcannon.io/skills/python-advanced) | kw: Python Internals
