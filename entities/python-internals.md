@@ -3931,6 +3931,16 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free-Threading and UV Change Everything...
+- **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites you)
+- **2026-07-01** | [How Python's GIL Works - Codefinity](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: How Python's GIL Works - Codefinity
+- **2026-07-01** | [Using `malloc_trim` to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using `malloc_trim` to help with memory management
+- **2026-07-01** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Understanding the Python Global Interpreter Lock (GIL)
+- **2026-07-01** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye GIL: Exploring free-threaded mode in Python 3.1...
+- **2026-07-01** | [Memory Management | Python - AlgoMaster.io](https://algomaster.io/learn/python/memory-management) | kw: Memory Management | Python - AlgoMaster.io
+- **2026-07-01** | [Python 3.14 and the End of the GIL - Towards Data Science](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) | kw: Python 3.14 and the End of the GIL - Towards Data Scien...
+- **2026-07-01** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What is the Python Global Interpreter Lock (GIL) - Geek...
+
 - **2026-07-01** | [Python (programming language) - Wikipedia](https://en.m.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
 
 - **2026-07-01** | [Memory Management and GIL in Python: Python Guide (2026) | Edugators](https://www.edugators.com/python-online-training/advanced/python-memory-gil) | kw: Memory Management and
