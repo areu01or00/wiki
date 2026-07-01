@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 316: DEEP-SUB-CLUSTER — CALIBRATION PROBE (overconfidence + compositional generalization + domain-specific benchmarking)
+
+- [[calibrating-overconfidence-without-sacrificing-confidence-probe-conditioned-head-intervention-for-llms-2606.09876]] — [Calibrating Overconfidence Without Sacrificing Confidence: Probe-Conditioned Head Intervention for LLMs](https://arxiv.org/abs/2606.09876) — Li, Ke; Zhang, Chongzhe; Zeng, Zifan + 3 — targeted attention-head probing to surgically correct overconfidence without eroding warranted confidence on correct answers. **First probe-conditioned head intervention for LLM calibration in the wiki.**
+
+- [[gis-scholar-bench-benchmarking-llm-overconfidence-in-gis-research-2606.08036]] — [GIScholarBench: Benchmarking LLM Overconfidence in GIS Research](https://arxiv.org/abs/2606.08036) — Li, Zongrng; Yang, Mingzheng; Zou, Lei + 8 — domain-specific benchmark exposing three distinct overconfidence failure modes in GIS scholarly workflows. **First domain-specific overconfidence benchmark (GIS research) in the wiki.**
+
+- [[learning-to-reason-with-curriculum-ii-compositional-generalization-2606.27721]] — [Learning to Reason with Curriculum II: Compositional Generalization](https://arxiv.org/abs/2606.27721) — Rajaraman, Nived; Huang, Audrey; Dudik, Miroslav + 3 — curriculum-based training that explicitly teaches compositional decomposition as a distinct skill, with theoretical foundations for why decomposition beats end-to-end learning. **First curriculum-based compositional generalization theory paper in the wiki.**
+
 ### 2026-07-02 — Run 315: META-LEARNING / COMPOSITIONAL-GENERALIZATION / CROSS-LINGUAL-TRANSFER PROBE (Rule 36h untried pool: meta-learning + compositional generalization + cross-lingual)
 
 - [[meta-router-learning-to-route-llms-from-implicit-cost-performance-preferences-via-meta-learning-2606.06178]] — [Learning to Route LLMs from Implicit Cost-Performance Preferences via Meta-Learning](https://arxiv.org/abs/2606.06178) — Zeng, Jiahao; Tang, Ming; Ding, Ningning — meta-learning-based LLM router that learns from implicit cost-performance preferences, enabling adaptive routing decisions without explicit feedback. **First meta-learning-based LLM routing paper in the wiki.**
