@@ -1,4 +1,8 @@
 ## Updates
+- **2026-07-01** | [FUNCTIONAL Synonyms: 118 Similar and Opposite Words - ...](https://www.merriam-webster.com/thesaurus/functional) | kw: FUNCTIONAL
+- **2026-07-01** | [FUNCTIONAL definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: FUNCTIONAL
+- **2026-07-01** | [Functional - definition of by The Free Dictionary](https://www.thefreedictionary.com/functional) | kw: Functional
+
 - **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: functional-programming
 
 - **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: functional-programming

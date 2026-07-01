@@ -3931,6 +3931,9 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [MEMORY_MANAGEMENT (0x1A) в Windows 10/11: как исправить...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: MEMORY_MANAGEMENT
+- **2026-07-01** | [GitHub - skyfirews/prep · GitHub](https://github.com/skyfirews/prep) | kw: GitHub
+
 - **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python-internals
 
 - **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: python-internals

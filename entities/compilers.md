@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: 3.
+- **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize
+- **2026-07-01** | [2017 LLVM Developers' Meeting: M. Zolotukhin "LLVM Compile-Time..."](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: 2017
+- **2026-07-01** | [Paper Title (use style: paper title)](https://clausiuspress.com/conferences/ACSS/CNCI+2020/CNCI050.pdf) | kw: Paper
+
 - **2026-07-01** | [clang - LLVM jit and native - Stack Overflow](https://stackoverflow.com/questions/3509215/llvm-jit-and-native) | kw: compilers
 
 - **2026-07-01** | [llvm-frontend · GitHub Topics · GitHub](https://github.com/topics/llvm-frontend) | kw: compilers

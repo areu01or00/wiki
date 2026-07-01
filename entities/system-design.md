@@ -3591,6 +3591,17 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
+- **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating
+- **2026-07-01** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: How
+- **2026-07-01** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: SYSTEM
+- **2026-07-01** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: System
+- **2026-07-01** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: What
+- **2026-07-01** | [System | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/system) | kw: System
+- **2026-07-01** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-and-view-system-information-panel-in-windows) | kw: How
+- **2026-07-01** | [SYSTEM | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/system) | kw: SYSTEM
+- **2026-07-01** | [SYSTEM Synonyms: 90 Similar Words - Merriam-Webster](https://www.merriam-webster.com/thesaurus/system) | kw: SYSTEM
+
 - **2026-07-01** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
 
 - **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
