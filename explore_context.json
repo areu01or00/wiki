@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T19:15:00.000000+00:00",
+  "updated": "2026-07-01T22:00:00.000000+00:00",
   "__last_updated": "2026-07-01T20:00:00.000000+00:00",
-  "last_run": 302,
-  "last_explore": "2026-07-01T19:44:23.791123+00:00",
+  "last_run": 303,
+  "last_explore": "2026-07-01T22:00:00.000000+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
-  "last_discovery": "CALIBRATION / UNCERTAINTY QUANTIFICATION / POST-DEPLOYMENT MONITORING",
-  "last_run_framing": "CALIBRATION / UNCERTAINTY QUANTIFICATION / POST-DEPLOYMENT MONITORING",
+  "last_discovery": "PROMPT ENGINEERING / IN-CONTEXT LEARNING / CHAIN-OF-THOUGHT DECOMPOSITION",
+  "last_run_framing": "PROMPT ENGINEERING / IN-CONTEXT LEARNING / CHAIN-OF-THOUGHT DECOMPOSITION",
   "last_framing": "DIVERSITYAGENTDIFFUSION",
   "last_run_notes": "Run 298: 2606.28425, 2606.29399, 2605.00419",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "Rule 36h PROBE-AXIS: calibration + uncertainty + post-deployment monitoring",
+  "last_run_method": "Rule 36h PROBE-AXIS: prompt-engineering/ICL",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "instruction-tuning + RLHF + agent-evaluation",
   "chains_updated": 0,
-  "entities_count": 919,
+  "entities_count": 922,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8824,6 +8824,33 @@
       "discovered": "2026-07-01",
       "online_date": "2025-06-09",
       "run_number": 301
+    },
+    {
+      "arxiv_id": "2507.16003",
+      "title": "Learning without training: The implicit dynamics of in-context learning",
+      "slug": "learning-without-training-implicit-dynamics-in-context-learning-2507.16003",
+      "url": "https://arxiv.org/abs/2507.16003",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T22:00:00.000000+00:00",
+      "theme": "ICL mechanism / implicit algorithmic emulation"
+    },
+    {
+      "arxiv_id": "2409.01466",
+      "title": "Enhancing LLM-Based Text Classification in Political Science: Automatic Prompt Optimization and Dynamic Exemplar Selection for Few-Shot Learning",
+      "slug": "enhancing-llm-text-classification-political-science-automatic-prompt-optimization-dynamic-exemplar-2409.01466",
+      "url": "https://arxiv.org/abs/2409.01466",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T22:00:00.000000+00:00",
+      "theme": "automatic prompt optimization / dynamic exemplar selection"
+    },
+    {
+      "arxiv_id": "2604.08872",
+      "title": "How does Chain of Thought decompose complex tasks?",
+      "slug": "how-does-chain-of-thought-decompose-complex-tasks-2604.08872",
+      "url": "https://arxiv.org/abs/2604.08872",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T22:00:00.000000+00:00",
+      "theme": "CoT decomposition / power-law scaling / reasoning structure"
     }
   ],
   "emergent_discoveries": [
@@ -20443,6 +20470,42 @@
       "emergent_concept_search_runs": 1,
       "vector": "emergent_concept_search",
       "notes": "HF pool CV/3D-heavy \u2192 Rule 15d escape hatch \u2192 web_search calibration/uncertainty/ICL \u2192 3 fresh picks; all 3 structurally orthogonal to Runs 289-301 cluster on self-improvement/strategy-memory"
+    },
+    {
+      "run_number": 303,
+      "timestamp": "2026-07-01T22:00:00.000000+00:00",
+      "theme": "prompt-engineering / in-context learning / chain-of-thought decomposition",
+      "papers_found": [
+        {
+          "arxiv_id": "2507.16003",
+          "title": "Learning without training: The implicit dynamics of in-context learning",
+          "slug": "learning-without-training-implicit-dynamics-in-context-learning-2507.16003",
+          "url": "https://arxiv.org/abs/2507.16003",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T22:00:00.000000+00:00",
+          "theme": "ICL mechanism / implicit algorithmic emulation"
+        },
+        {
+          "arxiv_id": "2409.01466",
+          "title": "Enhancing LLM-Based Text Classification in Political Science: Automatic Prompt Optimization and Dynamic Exemplar Selection for Few-Shot Learning",
+          "slug": "enhancing-llm-text-classification-political-science-automatic-prompt-optimization-dynamic-exemplar-2409.01466",
+          "url": "https://arxiv.org/abs/2409.01466",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T22:00:00.000000+00:00",
+          "theme": "automatic prompt optimization / dynamic exemplar selection"
+        },
+        {
+          "arxiv_id": "2604.08872",
+          "title": "How does Chain of Thought decompose complex tasks?",
+          "slug": "how-does-chain-of-thought-decompose-complex-tasks-2604.08872",
+          "url": "https://arxiv.org/abs/2604.08872",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T22:00:00.000000+00:00",
+          "theme": "CoT decomposition / power-law scaling / reasoning structure"
+        }
+      ],
+      "method": "Rule 36h PROBE-AXIS: prompt-engineering/ICL",
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
