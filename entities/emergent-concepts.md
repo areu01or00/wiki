@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 253) — AGENTIC COMMERCE FOUNDATION MODEL / SOLVER-GROUNDED CAD AGENTS / AGENTIC WORKFLOW TAXONOMY**
+
+- [[shopx-foundation-model-intent-item-fulfillment-agentic-shopping-2606.31693]]
+  ShopX: Foundation model for intent-to-item fulfillment in agentic shopping — moves beyond page/feed-based browsing to intent-driven experiences orchestrated by LLM agents. Addresses the gap between language understanding and item-space fulfillment by enabling direct LLM agent navigation and purchase within shopping environments. Evaluated on agentic shopping tasks demonstrating improved intent resolution over pipeline-based approaches. **First foundation model for intent-to-item fulfillment in agentic shopping in the wiki.** Cross-ref: [[counsel-a-meta-evaluation-dataset-for-agentic-tasks-2606.21627]], [[planbench-xl-evaluating-long-horizon-planning-of-llm-tool-use-agents-in-large-scale-tool-ecosystems-2606.22388]], [[self-reset-learning-to-self-recover-from-unsafe-reasoning-trajectories-2605.08936]].
+
+- [[embodied-cad-solver-grounded-llm-agents-parametric-brep-assembly-2606.31252]]
+  Embodied CAD: Solver-grounded LLM agents for parametric B-Rep assembly modeling — integrates geometric constraint solvers with LLM agents for reliable CAD code generation beyond syntactically valid but geometrically incorrect outputs. Every feature, placement, and assembly relation is verified against an exact geometric kernel before acceptance. First systematic solver-grounding approach for LLM CAD agent reliability in the wiki. Cross-ref: [[specgen-accelerating-agentic-kernel-optimization-with-speculative-generation-2606.17518]], [[think-twice-before-you-act-protecting-llm-agents-against-tool-description-poisoning-via-isolated-planning-2606.20922]], [[why-reasoning-fails-to-plan-a-planning-centric-analysis-of-long-horizon-decision-making-in-llm-agents-2601.22311]].
+
+- [[characterizing-llm-agentic-workflows-n8n-ecosystem-2606.29116]]
+  Characterizing LLM Agentic Workflows: First systematic taxonomy of LLM agentic workflows in production no-code automation (N8n ecosystem). Characterizes failure modes, capability gaps, and design anti-patterns when non-expert users design multi-step agentic workflows combining natural language with external services and APIs. Complements existing agent evaluation frameworks with a deployment-grounded taxonomy. **First systematic taxonomy of agentic workflow patterns in no-code automation ecosystems in the wiki.** Cross-ref: [[a-process-harness-for-uplifting-legacy-workflows-to-agentic-bpm-2606.27188]], [[counsel-a-meta-evaluation-dataset-for-agentic-tasks-2606.21627]], [[llm-as-code-agentic-programming-for-agent-harness-2606.15874]].
+
 **2026-07-01 — Run 252) — CAUSAL PERTURBATIVE ELICITATION / DYNAMIC RUBRIC REWARDS / ACTIVATION CONSISTENCY SAFETY**
 
 - [[mechanistically-eliciting-latent-behaviors-in-language-2606.29604]]

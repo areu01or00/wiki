@@ -114,6 +114,11 @@
         "satya jit"
       ],
       "last_result_hashes": [
+        "b1adc2b930d77212d7e65d03d9bccdc6",
+        "96d3a3ea85839fe8f92ece2b7d05a39a",
+        "82601ad43b0fe127ccdd116d7f69071f",
+        "034c8842156c2b1235263f9d2feebba9",
+        "bde460c23ed451d82e4d081ce9d44718",
         "20c9af03d5ba04de769b9c8d55fbf657",
         "9ef09709545d432e2dc99e2cf360fbe8",
         "296232a484ebb0a2303e19fa650f6b06",
@@ -128,16 +133,11 @@
         "e386d25ff1816abec2a4433c860ed876",
         "2766e65a5aea62ec3b5085cde4b173c8",
         "6ca995a4a92b1bf2cd7d783da5eb36c5",
-        "fde2e620a9be8833a9c15bcafc435062",
-        "8fe868b960dfea03be8fbf825bbe889c",
-        "694eafe5ed78cb746d62ba47e0492d7d",
-        "5034d117445eeeead756d27e0f1bc843",
-        "723a72e43818348046e4c9cd461691bb",
-        "a2af7deb9fb81d185b2fef5f41efe226"
+        "fde2e620a9be8833a9c15bcafc435062"
       ],
-      "last_run": "2026-07-01 04:34 UTC",
+      "last_run": "2026-07-01 04:53 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 4
+      "last_new_count": 5
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -259,6 +259,8 @@
         "Program"
       ],
       "last_result_hashes": [
+        "34c166634f13431feef39c0866dcf8e7",
+        "fa245584d41c964b09194de5b11ad824",
         "1382ef81b8b46a33f9229b1c7749d06f",
         "2e36db34c1a584712cd6f35f63aa33ba",
         "86768d8752a6979c5c8cea02f676f762",
@@ -276,13 +278,11 @@
         "c6982ba3f2387fa7efa4b53444c6c85e",
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
         "f1925c0af6e39aa520ffa6a282ede525",
-        "4a875ba6c9df4a6d863a675c9bbe1244",
-        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
-        "32f4188675ea6aa9b99de9314a538fa1"
+        "4a875ba6c9df4a6d863a675c9bbe1244"
       ],
-      "last_run": "2026-07-01 04:34 UTC",
+      "last_run": "2026-07-01 04:53 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 5
+      "last_new_count": 2
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -387,6 +387,14 @@
         "Astral"
       ],
       "last_result_hashes": [
+        "0f283757319d5365f9f3d2ac8e848912",
+        "6c257d065a3041b16049b05a47e582ff",
+        "10a59e2ab5bcc4c0710cbe6131b13188",
+        "686812076d5de90d1c2ef77d554beb01",
+        "87065c9439c433c819c4f5a68841256d",
+        "e9fb384f23954fc19514a38fff3f0175",
+        "29ff16a013639480476846321ab4599c",
+        "445fff1e467d63454cdb890e62ba6898",
         "2817e8378b277cd3cfe64b421e8bd932",
         "83fcabd225ef0467b1baf3fb99542e4b",
         "34c4a47fce24cf4a10a673b28a7219c2",
@@ -398,19 +406,11 @@
         "fc735fa9ff4c8d2d83888648a67a3892",
         "955254271b43d5d60d327be56bfcec27",
         "61d24c6e5157e06f6618b84043de48bf",
-        "864c624f541aa32da64f03c0bca119ed",
-        "ebddfe8dc78273e26817862ee01ad6d5",
-        "3b75bee49f1f057b646aa55135066aa0",
-        "0252b8777b2d55e7c510b57f349edc35",
-        "8a08ccec47830b92ffbdd1aa70de4d27",
-        "3957c9b5584def92bd0694435da48bf4",
-        "016a6aad979803c405d5a27e3c1e54a5",
-        "4e2eab6a28df902325e371ffc7564026",
-        "162482d74929676822bdb4fd8bc5ccaa"
+        "864c624f541aa32da64f03c0bca119ed"
       ],
-      "last_run": "2026-07-01 04:34 UTC",
+      "last_run": "2026-07-01 04:53 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 10
+      "last_new_count": 8
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -512,6 +512,14 @@
         "Good"
       ],
       "last_result_hashes": [
+        "d72551ba06612f74d3e5d4b0a773e3b8",
+        "269341708d555d5819da5ef32f81a574",
+        "63a68c2b7252fb21470c8ffd8fbffe00",
+        "bab6dc04368dc487cd403e3a93312b56",
+        "dd25820f790098fdc7dc382c38902ef4",
+        "480d402e9012f947099ff628259136e0",
+        "df332d266a9393afd65af20ab5899d2a",
+        "30528bdc44cd273f71e20b4509f48e6d",
         "5f0c21350e867da0497138104e88c638",
         "4deb2229b99526c0217a682251a412b4",
         "1487a63c3bdfb2d6e4c5d5da4f272036",
@@ -523,19 +531,11 @@
         "d250aefb29a35210e53228bb1d5cf418",
         "be9da9017ce6e02348e052f2e7dda252",
         "dbce4e6cdd1ef898baaf1e4d0f4b78a3",
-        "3dab99b5330ccd20db91a26c202fbc1e",
-        "2c6957e1f1d7ea7d57cfdd721fc5e962",
-        "fd7245a507ee42d32b983d418fd66dfc",
-        "aeec3d820faa527f0263be90c3663a85",
-        "563b1efac9c22cffc34472e219211fc5",
-        "387ce332eb1b37bfba2517605e07a785",
-        "cc9f3837164b6e0e6edde576a14a1c3f",
-        "7b5c9b650d498b2bcfab4df80e2871bc",
-        "ab1a401478bf91151df62818473f5ef5"
+        "3dab99b5330ccd20db91a26c202fbc1e"
       ],
-      "last_run": "2026-07-01 04:35 UTC",
+      "last_run": "2026-07-01 04:53 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_new_count": 8
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -646,6 +646,12 @@
         "LeetCode Is Dead in 2026. Here Is What Top Companies Are ..."
       ],
       "last_result_hashes": [
+        "b005463dec7c885ce4b60810c609473d",
+        "ff8047902608746589560cffb7b792a9",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "7656c442825566c6a43d7d4c3400ad61",
+        "93cbce645143b311058001790ea37366",
+        "e33659f524dbe2cfe828a9cbc5903ead",
         "b8ea900b3f0bf673c4e45caddd9508ee",
         "7b86d151397bd3b26637162c987f0b1e",
         "f822dd4d7a9290624864e5a92712ba08",
@@ -659,15 +665,9 @@
         "efaca53a4fb3332a168f55b43aac804a",
         "cb455ff1bd98b88c3b3cbe35bc8f9e13",
         "6bb5f45745653c7264d8c29607bac581",
-        "23a31c98fb8d3039632d683313900890",
-        "dc902c467d5ebb0ae6192f827a56225c",
-        "9f6a98f8ffeb48969df33e0a5ebb4ba7",
-        "5e02bb10fe06fe048e2f6bbb19b9f089",
-        "d25b68b62003c1960f054de943a13a69",
-        "c2edcbe2175b83dff51f6a4fd2bd1634",
-        "f7f0913e896756c80b86386485ae3832"
+        "23a31c98fb8d3039632d683313900890"
       ],
-      "last_run": "2026-07-01 04:35 UTC",
+      "last_run": "2026-07-01 04:53 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 6
     },
@@ -777,6 +777,11 @@
         "Astral"
       ],
       "last_result_hashes": [
+        "dd98088bd44f163005b52f39b2756953",
+        "a6c58176fc7c15d04c6965b77938f5ae",
+        "8eda8fd96ab2be56921cba54f0d1777a",
+        "69a9d904c88077426001079498f97d6a",
+        "6a4af48d2987d8780c0948375ba78d1f",
         "952e4cdd85ea50368b5178492a0c873c",
         "1cf455284bb0983215069efb06784c61",
         "57c085892adfb8eb151771c2479e369a",
@@ -791,16 +796,11 @@
         "07414e8bcc3244ed491bc7b3010c58df",
         "efcf7336ee088d006b866b306b330eab",
         "bb8c7260c963e90eea22e851c950996c",
-        "6c10d6a5e8327edbc729528b20323442",
-        "2744d1a811d65caa247b4c718d796a45",
-        "28a498a7564089844faa1da0769f9f3b",
-        "26592a2f314b31b070faaaf9c54cbc4a",
-        "b2fbe6454e7c9d604f2d7586a436e138",
-        "1189a4003f7249301c49e97db90cf82d"
+        "6c10d6a5e8327edbc729528b20323442"
       ],
-      "last_run": "2026-07-01 04:35 UTC",
+      "last_run": "2026-07-01 04:53 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 9
+      "last_new_count": 5
     },
     "llm-wiki-explore": {
       "last_result_hashes": [
@@ -1564,7 +1564,10 @@
         "4188bddda77fa98d04823fde9ba8edc8",
         "2606.29604",
         "2606.23038",
-        "2605.28467"
+        "2605.28467",
+        "02bfdb8cbe8bdcc9d7eb2b9db3d4dbf9",
+        "372da7bd3ee99f08f8ffd6e2b9526cd4",
+        "19563f3bed06f5ae44242547fede37f4"
       ],
       "last_results": [
         {
@@ -7339,7 +7342,10 @@
     "4188bddda77fa98d04823fde9ba8edc8",
     "2606.29604",
     "2606.23038",
-    "2605.28467"
+    "2605.28467",
+    "02bfdb8cbe8bdcc9d7eb2b9db3d4dbf9",
+    "372da7bd3ee99f08f8ffd6e2b9526cd4",
+    "19563f3bed06f5ae44242547fede37f4"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -8107,7 +8113,10 @@
       "4188bddda77fa98d04823fde9ba8edc8",
       "2606.29604",
       "2606.23038",
-      "2605.28467"
+      "2605.28467",
+      "02bfdb8cbe8bdcc9d7eb2b9db3d4dbf9",
+      "372da7bd3ee99f08f8ffd6e2b9526cd4",
+      "19563f3bed06f5ae44242547fede37f4"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

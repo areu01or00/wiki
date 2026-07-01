@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T04:25:00.000000+00:00",
   "__last_updated": "2026-07-01T04:25:00.000000+00:00",
-  "last_run": 252,
-  "last_explore": "2026-07-01T03:30:00.000000+00:00",
+  "last_run": 253,
+  "last_explore": "2026-07-01T04:57:00.000000+00:00",
   "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "GRAPH-STRUCTURED SESSION MEMORY / MOBILE TRUSTZONE LLM SERVING / SELF-RECOVERY FROM UNSAFE REASONING TRAJECTORIES",
-  "last_framing": "graph-structured session memory / mobile TrustZone LLM serving / self-recovery from unsafe reasoning trajectories",
-  "last_run_notes": "Run 251: 2606.06337 / 2606.23370 / 2605.08936",
+  "last_run_framing": "AGENTIC COMMERCE FOUNDATION MODEL / SOLVER-GROUNDED CAD AGENTS / AGENTIC WORKFLOW TAXONOMY",
+  "last_framing": "agentic commerce foundation model / solver-grounded CAD agents / agentic workflow taxonomy",
+  "last_run_notes": "Run 253: 2606.31693 / 2606.31252 / 2606.29116",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search + web_search refinement",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "uncertainty quantification / conformal prediction / pipeline / reward modeling",
+  "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 769,
+  "entities_count": 772,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -13370,6 +13370,30 @@
       "url": "https://arxiv.org/abs/2605.28467",
       "discovered": "2026-07-01T07:15:00",
       "theme": "emergent-concept"
+    },
+    {
+      "arxiv_id": "2606.31693",
+      "title": "ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping",
+      "slug": "shopx-foundation-model-intent-item-fulfillment-agentic-shopping-2606.31693",
+      "url": "https://arxiv.org/abs/2606.31693",
+      "discovered": "2026-07-01T04:57:00.000000+00:00",
+      "theme": "agentic commerce / intent resolution / shopping workflow foundation model"
+    },
+    {
+      "arxiv_id": "2606.31252",
+      "title": "Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling",
+      "slug": "embodied-cad-solver-grounded-llm-agents-parametric-brep-assembly-2606.31252",
+      "url": "https://arxiv.org/abs/2606.31252",
+      "discovered": "2026-07-01T04:57:00.000000+00:00",
+      "theme": "LLM agents / CAD geometric reasoning / solver-grounded agentic planning"
+    },
+    {
+      "arxiv_id": "2606.29116",
+      "title": "Characterizing Large Language Model Agentic Workflows: A Study on N8n Ecosystem",
+      "slug": "characterizing-llm-agentic-workflows-n8n-ecosystem-2606.29116",
+      "url": "https://arxiv.org/abs/2606.29116",
+      "discovered": "2026-07-01T04:57:00.000000+00:00",
+      "theme": "agentic workflow taxonomy / low-code automation / n8n ecosystem characterization"
     }
   ],
   "emergent_concept_search_log": [
@@ -17414,6 +17438,19 @@
         "2605.28467"
       ],
       "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "status": "complete"
+    },
+    {
+      "run": 253,
+      "date": "2026-07-01",
+      "theme": "agentic commerce foundation model / solver-grounded CAD agents / agentic workflow taxonomy",
+      "papers_found": [
+        "2606.31693",
+        "2606.31252",
+        "2606.29116"
+      ],
+      "vector": "emergent_concept_search",
       "chain": "emergent-concepts",
       "status": "complete"
     }

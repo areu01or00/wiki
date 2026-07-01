@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [LLVM \| PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
+- **2026-07-01** | [Paper Title (use style: paper title)](https://clausiuspress.com/conferences/ACSS/CNCI+2020/CNCI050.pdf) | kw: Paper
+
 - **2026-07-01** | [c++ - LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: c++ - LLVM:
 - **2026-07-01** | [Remote native JIT compilation and debugging with LLVM](https://weliveindetail.github.io/blog/post/2021/03/29/remote-compile-and-debug.html) | kw: Remote native JIT
 - **2026-07-01** | [Getting Started with LLVM](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/course/spring2018/CS131/llvm.pdf) | kw: Getting Started with
