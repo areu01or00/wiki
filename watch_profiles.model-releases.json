@@ -36,6 +36,8 @@
       "category": "major-lab",
       "last_checked": "2026-07-01T21:32:48+00:00",
       "last_result_hashes": [
+        "662309c7603c553f9dd54c0fdcd20202",
+        "af70ae05c1f3134e4575154f39f475a8",
         "39df9893",
         "b9322ea16136f3c40d9e49e2a85d05e8",
         "4b1aa795472ecc7f71d04a61915f9ec4",
@@ -53,14 +55,12 @@
         "b5127c65d56d67754f6b9efd7a911f6b",
         "1c8dbfc78e723aa3402ee150d9983516",
         "b8a7eef61952b2e592fb4948d369a04c",
-        "3598ffddfa005806cc1aa09f65035a6c",
-        "634f333a59163f269b1d06e30be66311",
-        "b4fe3d5595800d078bcf58d8f1c9eec8"
+        "3598ffddfa005806cc1aa09f65035a6c"
       ],
-      "last_run": "20260701_213225",
+      "last_run": "2026-07-01T22:52:27",
       "last_update_hash": null,
       "query": "Anthropic Claude new model release Sonnet Opus API",
-      "run_count": 145,
+      "run_count": 147,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "arxiv-cs-cl": {
@@ -504,6 +504,7 @@
       "category": "major-lab",
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
+        "f5b50d62cd912de06cc512467fe1d378",
         "b007d05d02c12ab6918725ef0498cc50",
         "4ac7eae6f1f574dc07b446d5fa7a033a",
         "15805eda0dd2f01f8e4b181c01603620",
@@ -522,13 +523,12 @@
         "79f7b95fb700893985a81ab6d4b7568e",
         "f92acf272d0f0ee4e087bccd480a8d20",
         "5f3475d553e76d368d482270d0e1ba13",
-        "c17cd4c61088907116e73c1ce45dd318",
-        "c5363f9780b08b53f827031cbd82c84d"
+        "c17cd4c61088907116e73c1ce45dd318"
       ],
-      "last_run": "2026-07-01 18:17:00 UTC",
+      "last_run": "2026-07-01T22:52:27",
       "last_update_hash": null,
       "query": "xAI Grok new model release API weights",
-      "run_count": 138,
+      "run_count": 139,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "inclusion-ai": {
@@ -688,8 +688,9 @@
       "name": "Meituan LongCat",
       "query": "Meituan LongCat new model release LLM announced",
       "category": "auto-discovered",
-      "run_count": 54,
+      "run_count": 55,
       "last_result_hashes": [
+        "fba340902cec1db94a383fe3ec03f6ca",
         "d8f091a4fdea6d5556d60dbd96bb54b9",
         "c744a50532be5cec460464fe8146e60d",
         "110a37a1d39fd0ff025e934146e4fe4c",
@@ -708,12 +709,11 @@
         "cff8005540ce8cf07e25e53ee14275e7",
         "3eb1ca5896333fb68a757e71de0c23da",
         "2628b89dab1a59fca961f70c82e782c1",
-        "b96f0ecd709ea37bdc2f5aab707bc4ed",
-        "ee54869169c248da4396bad3de7bb1db"
+        "b96f0ecd709ea37bdc2f5aab707bc4ed"
       ],
       "discovered_at_cycle": "c106-20260630",
       "notes": "Auto-discovered c106 via x_search: LongCat-2.0 announced June 30, 2026",
-      "last_run": "20260701_194318",
+      "last_run": "2026-07-01T22:52:27",
       "last_checked": "2026-07-01T20:00:30.196135+00:00"
     },
     "huawei": {
@@ -1157,8 +1157,9 @@
       "query": "NVIDIA Nemotron TwoTower new model release LLM open weights",
       "category": "auto-discovered",
       "discovered_at_cycle": "20260701_213225",
-      "run_count": 2,
+      "run_count": 3,
       "last_result_hashes": [
+        "6ac7ba4831f5f28619d0cba51e2ff3e3",
         "05d5fb4f",
         "7aac47ab",
         "dd786549",
@@ -1169,7 +1170,7 @@
         "dc931f23"
       ],
       "notes": "Auto-discovered via x_search: Nemotron-Labs-TwoTower-30B-A3B open weights July 1 2026. Block-wise AR diffusion LLM, 2.42\u00d7 speedup. arXiv:2606.26493. Also NVFP4 quantizations for Mistral Medium 3.5 128B and Qwen3.6 27B.",
-      "last_run": "20260701_213225",
+      "last_run": "2026-07-01T22:52:27",
       "last_checked": "2026-07-01T21:32:48+00:00",
       "wiki_page": "entities/model-releases-tracker.md"
     }

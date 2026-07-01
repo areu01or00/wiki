@@ -18,6 +18,12 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-07-01** | [Claude Sonnet 5 Official Launch — New Default Across All Plans](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) | kw: API LAUNCH | score: 9 | source: anthropic-claude
+- **2026-07-01** | [Claude Fable 5 Redeployment — Global Restore After US Export Controls Lifted](https://www.anthropic.com/news/redeploying-fable-5) | kw: OFFICIAL ANNOUNCEMENT | score: 8 | source: anthropic-claude
+- **2026-07-01** | [xAI Voice Agent Builder — No-Code Voice Agent Platform, Beta Launch](https://cryptobriefing.com/xai-voice-agent-builder-beta-pricing/) | kw: API LAUNCH | score: 7 | source: xai-grok
+- **2026-07-01** | [NVIDIA Nemotron-Labs-TwoTower: 2.42× Faster Diffusion LLM, Open Weights](https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/) | kw: WEIGHTS DROP | score: 8 | source: nvidia-nemotron
+- **2026-07-01** | [Meituan LongCat-2.0 Open Weights — 1.6T MoE, 1M Context, MIT License](https://huggingface.co/meituan-longcat/LongCat-2.0) | kw: WEIGHTS DROP | score: 8 | source: meituan-longcat
+
 - **2026-07-01** | [NVIDIA Nemotron-Labs-TwoTower-30B-A3B: Block-wise AR Diffusion LLM, Open Weights](https://huggingface.co/nvidia/Nemotron-TwoTower-30B-A3B-Base-BF16) | kw: WEIGHTS DROP | BENCHMARK/PAPER | score: 9 | source: nvidia-research
 - **2026-07-01** | [NVIDIA releases NVFP4-quantized Mistral-Medium-3.5-128B (Blackwell-optimized)](https://huggingface.co/nvidia/Mistral-Medium-3.5-128B-NVFP4) | kw: WEIGHTS DROP | score: 7 | source: nvidia-research
 - **2026-07-01** | [NVIDIA releases NVFP4-quantized Qwen3.6-27B (Blackwell-optimized)](https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4) | kw: WEIGHTS DROP | score: 7 | source: nvidia-research
