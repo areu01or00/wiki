@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 265) — GOVERNANCE PLANNING / SELF-REGULATED REASONING / KV-CACHE EFFICIENCY FOR AGENTIC DEPLOYMENT**
+
+- [[polaris-typed-planning-governed-execution-agentic-ai-2601.11816]]
+  POLARIS: First governed orchestration framework for enterprise back-office agentic AI — typed plan synthesis (type-checked DAGs) + rubric-guided reasoning module selects policy-compliant plan + validator-gated execution checkpoints. Makes agentic workflows auditable and policy-aligned by construction. Orthogonal to prior runs' agentic-benchmarking and agentic-memory papers. Cross-ref: [[self-regulated-agentic-reasoning-simulative-planning-2605.22138]], [[crystal-kv-efficient-kv-cache-management-chain-thought-2601.16986]].
+
+- [[self-regulated-agentic-reasoning-simulative-planning-2605.22138]]
+  SR²AM: First three-system agentic reasoning decomposition (simulative reasoning + self-regulation + reactive execution) — self-regulation module learns when to invoke planning vs fast reactive execution. Reduces token usage while maintaining accuracy vs wasteful end-to-end chain-of-thought. Orthogonal to prior runs' verification-as-reward and process-reward papers. Cross-ref: [[polaris-typed-planning-governed-execution-agentic-ai-2601.11816]], [[crystal-kv-efficient-kv-cache-management-chain-thought-2601.16986]].
+
+- [[crystal-kv-efficient-kv-cache-management-chain-thought-2601.16986]]
+  Crystal-KV: First answer-first KV cache management for CoT reasoning models — maps answer preferences into think-stage attention maps, applies differentiated eviction. Designed for long-output reasoning models (o1/o3/R1-class) where KV cache memory is the deployment bottleneck. Orthogonal to prior runs' KV-cache quantization and sparse-attention papers. Cross-ref: [[self-regulated-agentic-reasoning-simulative-planning-2605.22138]], [[polaris-typed-planning-governed-execution-agentic-ai-2601.11816]].
+
 **2026-07-02 — Run 264) — OPERATOR-LEVEL VISUAL SKIPPING / COMPLIANCE-ROUTING / REAL-WORLD CLINICAL BENCHMARKING**
 
 - [[attend-transform-or-silence-operator-level-visual-skipping-2606.31903]]
