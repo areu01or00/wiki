@@ -3943,6 +3943,17 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | source: python-internals
+- **2026-07-01** | [Welcome to Python.org](https://www.python.org/) | source: python-internals
+- **2026-07-01** | [PY4E - Python for Everybody](https://www.py4e.com/) | source: python-internals
+- **2026-07-01** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | source: python-internals
+- **2026-07-01** | [PyPI · The Python Package Index](https://pypi.org/) | source: python-internals
+- **2026-07-01** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | source: python-internals
+- **2026-07-01** | [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/) | source: python-internals
+- **2026-07-01** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | source: python-internals
+- **2026-07-01** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | source: python-internals
+- **2026-07-01** | [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) | source: python-internals
+
 - **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: python internals
 - **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: python internals
 - **2026-07-01** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: python internals

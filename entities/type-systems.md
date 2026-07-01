@@ -41,6 +41,13 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb) | source: type-systems
+- **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | source: type-systems
+- **2026-07-01** | [Gradual Typing with Unication-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | source: type-systems
+- **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | source: type-systems
+- **2026-07-01** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | source: type-systems
+- **2026-07-01** | [Formal Verification and Type Systems... | Software Patterns Lexicon](https://softwarepatternslexicon.com/js/emerging-technologies-and-advanced-topics/formal-verification-and-type-systems-with-typescript/) | source: type-systems
+
 - **2026-07-01** | [Gradual typing - Wikipedia](https://en.m.wikipedia.org/wiki/Gradual_typing) | kw: type systems
 - **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type systems
 
