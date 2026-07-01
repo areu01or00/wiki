@@ -17,6 +17,12 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [FenomAI/North-Mini-Code-1.0-AWQ ... - Hugging Face](https://huggingface.co/FenomAI/North-Mini-Code-1.0-AWQ-INT4) | kw: weights drop | source: fenom-ai
+- **2026-07-01** | [swiss-ai/Apertus-70B-2509 - Hugging Face](https://huggingface.co/swiss-ai/Apertus-70B-2509) | kw: weights drop | source: swiss-ai-apertus
+- **2026-07-01** | [Claude Sonnet 5 System Card - Anthropic](https://www.anthropic.com/claude-sonnet-5-system-card) | kw: benchmark/paper | source: anthropic-releases
+- **2026-07-01** | [47thtechcorner/RayCodes_LFM2.5: Liquid AI LFM 2.5 Released...](https://github.com/47thtechcorner/RayCodes_LFM2.5) | kw: official announcement | source: liquid-ai
+- **2026-07-01** | [Gemma models overview | Google AI for Developers](https://ai.google.dev/gemma/docs) | kw: official announcement | source: google-deepmind-releases
+- **2026-07-01** | [Sakana Fugu: One Model to Command Them All](https://sakana.ai/fugu-release/) | kw: official announcement | source: sakana-releases
 - **2026-07-01** | [U.S. Lifts Restrictions on Anthropic's Most Powerful A.I. Models](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html) | kw: OFFICIAL ANNOUNCEMENT | source: anthropic-releases
 - **2026-07-01** | [deepseek-ai (DeepSeek) — Hugging Face org updated 18 hours ago](https://huggingface.co/deepseek-ai) | kw: WEIGHTS DROP | source: deepseek-releases
 - **2026-07-01** | [GLM-5.2: Zhipu AI's 1M-Token Open-Weight Coding Model](https://www.eigent.ai/blog/glm-5-2) | kw: OPEN SOURCE | WEIGHTS DROP | source: glm-releases

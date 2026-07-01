@@ -36,7 +36,6 @@
       "category": "major-lab",
       "last_checked": "2026-07-01T04:11:26.432972+00:00",
       "last_result_hashes": [
-        "262d3b110567849dd7e9500f3e09d631",
         "953a75e442d4f6d2e51c73f5542e602b",
         "b9322ea16136f3c40d9e49e2a85d05e8",
         "83cd188dee7327963280d17b5d140ba6",
@@ -55,12 +54,13 @@
         "e473e9140936e014125647bcb09f5a04",
         "941ce7ad6aada5e019f1084ac58ea8f3",
         "8b27943f048a4c8353eff080991b1694",
-        "b0e1165192321fda53ac34daf7511bd0"
+        "b0e1165192321fda53ac34daf7511bd0",
+        "3598ffddfa005806cc1aa09f65035a6c"
       ],
-      "last_run": "20260701_095652",
+      "last_run": "20260701_104158",
       "last_update_hash": null,
       "query": "Anthropic Claude new model release Sonnet Opus API",
-      "run_count": 127,
+      "run_count": 128,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "arxiv-cs-cl": {
@@ -160,7 +160,6 @@
       "category": "major-lab",
       "last_checked": "2026-07-01T04:11:26.432935+00:00",
       "last_result_hashes": [
-        "63c106cd1fc9f208834cfe697a858bd7",
         "399ec75d29549d1ae70d514e6a725556",
         "c17cd4c61088907116e73c1ce45dd318",
         "7260ebd21fb8eb33d2b79133bfe333d4",
@@ -179,12 +178,13 @@
         "47aa337b05ed1e8548bd1de1d5a817e7",
         "941ce7ad6aada5e019f1084ac58ea8f3",
         "b0e1165192321fda53ac34daf7511bd0",
-        "34450a7951cf34013649a2558eaee9f2"
+        "34450a7951cf34013649a2558eaee9f2",
+        "156b80349aeef681286eb7f5ef3ecd4a"
       ],
-      "last_run": "20260701_075249",
+      "last_run": "20260701_104158",
       "last_update_hash": null,
       "query": "Google DeepMind Gemini new model release API Gemma",
-      "run_count": 126,
+      "run_count": 127,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "huggingface-trending": {
@@ -441,7 +441,6 @@
       "discovered_at_cycle": 3,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
-        "941ce7ad6aada5e019f1084ac58ea8f3",
         "8cecb4ddbc6342b531b278925d1e329c",
         "72fcc419c1e6226c3b5da19e765de5c9",
         "f8b95a025c93cc303db71e7fe8d698c7",
@@ -460,12 +459,13 @@
         "c0ae3286101f77f4176998284f769cdf",
         "9201fac546220f2614e8d7197257a9b8",
         "37e3720c37d51ed4011726988943a44b",
-        "9fb16fd25cf085e3eaea373cc2791990"
+        "9fb16fd25cf085e3eaea373cc2791990",
+        "6124ead75a70ca719594e6d161b88746"
       ],
-      "last_run": "20260701_060329",
+      "last_run": "20260701_104158",
       "last_update_hash": null,
       "query": "Sakana AI Fugu model release Japanese lab",
-      "run_count": 120,
+      "run_count": 121,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "swiss-ai-apertus": {
@@ -473,7 +473,6 @@
       "discovered_at_cycle": 3,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
-        "1a1bd5e825fab4768f98b5aa19272998",
         "62a8564769480c9675553699cec5341f",
         "67a1a62a373d64ec1dc65d26ec36fad2",
         "74c3fe6a3b984777be4a39ddf11459a1",
@@ -492,12 +491,13 @@
         "941ce7ad6aada5e019f1084ac58ea8f3",
         "892d2e8be0a365b3b0206f5ff729f1d5",
         "37bcf05ec685e6cb2c6028da9bbeed66",
-        "38c97c3a0601234bcc698f35c65f711e"
+        "38c97c3a0601234bcc698f35c65f711e",
+        "076721b7c0558fe2c926c303bc45d96f"
       ],
-      "last_run": "20260701_075249",
+      "last_run": "20260701_104158",
       "last_update_hash": null,
       "query": "swiss-ai/apertus Hugging Face open weights multilingual",
-      "run_count": 124,
+      "run_count": 125,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "xai-releases": {
@@ -601,7 +601,6 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 59,
       "last_result_hashes": [
-        "c17cd4c61088907116e73c1ce45dd318",
         "e5d437be0fd584407d780f2474d43c9f",
         "93c4c40462336b8c14e392fe79573c43",
         "19f62e0ddc688e45564176c454a69d92",
@@ -620,10 +619,11 @@
         "51eac4040fd05aee1958454d9084fa9f",
         "021f76e47c8cf492962d1bb585a1f08b",
         "b0e1165192321fda53ac34daf7511bd0",
-        "0327a5e92e0d0854dfa577ddacdb2cd2"
+        "0327a5e92e0d0854dfa577ddacdb2cd2",
+        "9ab8ebea5e7a8d2918cb2e1cc201d1ac"
       ],
-      "last_run": "20260701_064945",
-      "run_count": 83,
+      "last_run": "20260701_104158",
+      "run_count": 84,
       "last_checked": "2026-07-01T04:11:26.432984+00:00",
       "last_update_hash": null
     },
@@ -784,13 +784,14 @@
       "category": "auto-discovered",
       "discovered_at_cycle": "c118-20260630",
       "query": "FenomAI new model release LLM weights open source",
-      "run_count": 4,
+      "run_count": 5,
       "last_result_hashes": [
         "fcb334010793b7dd784353ba2dbfa2ba",
         "5ce2b921498bc750d9c7bb24c79727bd",
-        "ed3f0e47d999c6a0555e45667c81980e"
+        "ed3f0e47d999c6a0555e45667c81980e",
+        "b539c33532b5dec04e5883dcdb15f8b4"
       ],
-      "last_run": "20260701_082750",
+      "last_run": "20260701_104158",
       "wiki_page": "entities/model-releases-tracker.md",
       "notes": "Auto-discovered c118 via HF sort=created: FenomAI/GLM-5.2-AWQ-INT4 and FenomAI/MiniMax-M3-AWQ-INT4 \u2014 quantization variants of known models, likely personal fine-tune hub"
     },
