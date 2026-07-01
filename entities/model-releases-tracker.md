@@ -18,7 +18,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
-
+- **2026-07-01** | [Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine](https://blog.kog.ai/kog-laneformer-2b-the-latency-first-model-behind-kog-inference-engine/) | kw: kog-ai | score: 8
+- **2026-07-01** | [Kog Labs](https://blog.kog.ai/) | kw: kog-ai | score: 8
 
 ## Auto-Discovered Profiles
 *Profiles auto-added by discovery layer each cycle. Tracked from this cycle onwards.*
