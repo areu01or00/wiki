@@ -2,15 +2,15 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T05:00:00.000000+00:00",
+  "updated": "2026-07-02T00:00:00.000000+00:00",
   "__last_updated": "2026-07-02T00:00:00.000000+00:00",
-  "last_run": 260,
-  "last_explore": "2026-07-01T07:30:00.000000+00:00",
+  "last_run": 261,
+  "last_explore": "2026-07-02T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "METACOGNITIVE UNCERTAINTY / MULTI-BLOCK DIFFUSION LM / KOREAN WEB AGENT BENCHMARK",
-  "last_framing": "metacognitive feedback / multi-block concurrent diffusion / breadth-first web agent enumeration",
-  "last_run_notes": "Run 259: 2606.15563 / 2606.11599 / 2606.16368",
+  "last_run_framing": "DENSE SUPERVISION BENCHMARKING / REFLECTION CALIBRATION / MULTI-TURN RED-TEAMING",
+  "last_framing": "training-free dense supervision eval / outcome-contrast calibration / objective multi-turn adversarial harm",
+  "last_run_notes": "Run 261: 2606.32034 / 2606.14211 / 2606.20408",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search via HF daily 2026-07-01 + 2026-06-30 + 2026-06-29",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 793,
+  "entities_count": 796,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7747,6 +7747,30 @@
       "discovered": "2026-07-01T07:30:00.000000+00:00",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.32034",
+      "slug": "qval-cheaply-evaluating-dense-supervision-signals-for-long-horizon-llm-agents-2606.32034",
+      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2606.32034",
+      "discovered": "2026-07-02T00:00:00+00:00",
+      "theme": "LLM agent evaluation methodology / dense supervision / process reward benchmarking / training-free eval"
+    },
+    {
+      "arxiv_id": "2606.14211",
+      "slug": "closing-the-reflection-gap-a-free-calibration-bonus-for-agentic-rl-2606.14211",
+      "title": "Closing the Reflection Gap: A Free Calibration Bonus for Agentic RL",
+      "url": "https://arxiv.org/abs/2606.14211",
+      "discovered": "2026-07-02T00:00:00+00:00",
+      "theme": "LLM agents / self-reflection calibration / agentic RL / environment-outcome contrast / self-assessment"
+    },
+    {
+      "arxiv_id": "2606.20408",
+      "slug": "nrt-bench-benchmarking-multi-turn-red-teaming-of-llm-operator-agents-in-safety-critical-control-rooms-2606.20408",
+      "title": "NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms",
+      "url": "https://arxiv.org/abs/2606.20408",
+      "discovered": "2026-07-02T00:00:00+00:00",
+      "theme": "LLM agents / safety / red-teaming / multi-agent / adversarial robustness / safety-critical systems"
     }
   ],
   "emergent_discoveries": [
@@ -15201,6 +15225,17 @@
         "2606.00008",
         "2606.11680"
       ]
+    },
+    {
+      "run": 261,
+      "date": "2026-07-02T00:00:00+00:00",
+      "theme": "dense supervision / reflection calibration / multi-turn red-teaming",
+      "picks": [
+        "2606.32034",
+        "2606.14211",
+        "2606.20408"
+      ],
+      "method": "HF daily 2026-07-01 + arxiv HTML search via web_search LLM queries"
     }
   ],
   "emergent_concept_search_runs": [
