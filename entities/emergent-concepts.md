@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 241) — LUMOS SEMANTIC OS LAYER / CAVEAGENT STATEFUL RUNTIME OPERATORS / PARASITE PROMPT POISONING SUPPLY CHAIN**
+
+- [[lumos-a-semantic-operating-system-layer-for-accessibility-grounded-ai-agents-2606.30697]]
+  LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents: Proposes a machine-readable OS abstraction layer replacing pixel-based interfaces with semantic state representations — reducing computer-use agent token costs 10-100x by querying structured OS state instead of interpreting screenshots. Published 2026. **First semantic operating-system abstraction layer for LLM computer-use agents in the wiki.**
+
+- [[caveagent-transforming-llms-into-stateful-runtime-operators-2601.01569]]
+  CaveAgent: Transforming LLMs into Stateful Runtime Operators: Inverts the agent paradigm from "LLM-as-Text-Generator-with-Tools" to "LLM-as-Runtime-Operator" — persistent dual-stream architecture maintaining text context and runtime state separately, solving context drift in long-horizon tasks. **First dual-stream runtime-operator architecture for stateful LLM agents in the wiki.**
+
+- [[parasite-conditional-system-prompt-poisoning-to-hijack-llms-2505.16888]]
+  PARASITE: Conditional System Prompt Poisoning to Hijack LLMs: Identifies a supply-chain vulnerability where adversaries inject "sleeper agent" prompts into public marketplaces — conditional poisoning activates only under specific triggers, making it stealthy and hard to detect. Published 2025. **First formal characterization of conditional prompt poisoning supply-chain attacks in the wiki.**
+
 **2026-07-01 — Run 240) — METACOGNITIVE SELF-ASSESSMENT / PROCESS SUPERVISED RL ADVANTAGE SHAPING / LLM UNLEARNING AUDITING**
 
 - [[latent-confidence-alignment-for-llm-self-assessment-2606.21937]]

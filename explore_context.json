@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-04T00:00:00+00:00",
-  "__last_updated": "2026-07-04T00:00:00+00:00",
-  "last_run": 240,
-  "last_explore": "2026-07-01T01:46:52.961622+00:00",
+  "__last_updated": "2026-07-01T02:02:35+00:00",
+  "last_run": 241,
+  "last_explore": "2026-07-01T01:46:00+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "METACOGNITIVE SELF-ASSESSMENT / PROCESS SUPERVISED RL ADVANTAGE SHAPING / LLM UNLEARNING AUDITING",
+  "last_run_framing": "LUMOS SEMANTIC OS LAYER / CAVEAGENT STATEFUL RUNTIME OPERATORS / PARASITE PROMPT POISONING SUPPLY CHAIN",
   "last_framing": "multi-agent scaling laws / LLM safety replication / black-box agentic RL",
-  "last_run_notes": "Run 240: Latent Confidence Alignment (2606.21937) + PASS (2606.29296) + PreUnlearn (2606.18473)",
+  "last_run_notes": "Run 241: LUMOS (2606.30697) + CaveAgent (2601.01569) + PARASITE (2505.16888)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 732,
+  "entities_count": 735,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7234,6 +7234,33 @@
       "discovered": "2026-07-01T01:46:52.961622+00:00",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.30697",
+      "slug": "lumos-a-semantic-operating-system-layer-for-accessibility-grounded-ai-agents-2606.30697",
+      "title": "LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents",
+      "url": "https://arxiv.org/abs/2606.30697",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T01:46:00+00:00",
+      "theme": "agent-infrastructure / semantic-os / computer-use / accessibility"
+    },
+    {
+      "arxiv_id": "2601.01569",
+      "slug": "caveagent-transforming-llms-into-stateful-runtime-operators-2601.01569",
+      "title": "CaveAgent: Transforming LLMs into Stateful Runtime Operators",
+      "url": "https://arxiv.org/abs/2601.01569",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T01:46:00+00:00",
+      "theme": "agent-architecture / stateful-runtime / tool-use / context-management"
+    },
+    {
+      "arxiv_id": "2505.16888",
+      "slug": "parasite-conditional-system-prompt-poisoning-to-hijack-llms-2505.16888",
+      "title": "PARASITE: Conditional System Prompt Poisoning to Hijack LLMs",
+      "url": "https://arxiv.org/abs/2505.16888",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T01:46:00+00:00",
+      "theme": "security / adversarial / prompt-injection / supply-chain-vulnerability"
     }
   ],
   "emergent_discoveries": [
@@ -12779,6 +12806,30 @@
       "url": "https://arxiv.org/abs/2606.18473",
       "discovered": "2026-07-01T01:46:52.961622+00:00",
       "theme": "LLM unlearning / knowledge editing auditing"
+    },
+    {
+      "arxiv_id": "2606.30697",
+      "title": "LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents",
+      "slug": "lumos-a-semantic-operating-system-layer-for-accessibility-grounded-ai-agents-2606.30697",
+      "url": "https://arxiv.org/abs/2606.30697",
+      "discovered": "2026-07-01T01:46:00+00:00",
+      "theme": "agent-infrastructure / semantic-os / computer-use / accessibility"
+    },
+    {
+      "arxiv_id": "2601.01569",
+      "title": "CaveAgent: Transforming LLMs into Stateful Runtime Operators",
+      "slug": "caveagent-transforming-llms-into-stateful-runtime-operators-2601.01569",
+      "url": "https://arxiv.org/abs/2601.01569",
+      "discovered": "2026-07-01T01:46:00+00:00",
+      "theme": "agent-architecture / stateful-runtime / tool-use / context-management"
+    },
+    {
+      "arxiv_id": "2505.16888",
+      "title": "PARASITE: Conditional System Prompt Poisoning to Hijack LLMs",
+      "slug": "parasite-conditional-system-prompt-poisoning-to-hijack-llms-2505.16888",
+      "url": "https://arxiv.org/abs/2505.16888",
+      "discovered": "2026-07-01T01:46:00+00:00",
+      "theme": "security / adversarial / prompt-injection / supply-chain-vulnerability"
     }
   ],
   "emergent_concept_search_log": [
@@ -19171,6 +19222,18 @@
         "2606.18473"
       ],
       "method": "arxiv HTML 4-query via urllib + LLM-keyword filter"
+    },
+    {
+      "run": 241,
+      "date": "2026-07-01",
+      "theme": "LUMOS SEMANTIC OS LAYER / CAVEAGENT STATEFUL RUNTIME OPERATORS / PARASITE PROMPT POISONING SUPPLY CHAIN",
+      "picks": [
+        "2606.30697",
+        "2601.01569",
+        "2505.16888"
+      ],
+      "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
+      "framing": "agent-infrastructure / stateful-runtime / adversarial-security"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
