@@ -1,6 +1,12 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type-systems
+- **2026-07-01** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: type-systems
+- **2026-07-01** | [[PDF] Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type-systems
+- **2026-07-01** | [Free Video: Migrating Gradual Types - A Framework for Static and ...](https://www.classcentral.com/course/youtube-popl-18-migrating-gradual-types-430793) | kw: type-systems
+- **2026-07-01** | [Future of high-level languages : r/ProgrammingLanguages - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/12x46f5/future_of_highlevel_languages/) | kw: type-systems
+
 - **2026-07-01** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: type-systems
 - **2026-07-01** | [Learn Touch Typing Free - TypingClub](http://www.typingclub.com/) | kw: type-systems
 - **2026-07-01** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: type-systems

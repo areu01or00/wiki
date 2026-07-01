@@ -4085,6 +4085,16 @@
 
 
 ## Updates
+- **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
+- **2026-07-01** | [Algorithms | An Open Access Journal from MDPI](https://www.mdpi.com/journal/algorithms) | kw: algorithms
+- **2026-07-01** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: algorithms
+- **2026-07-01** | [Algorithms | Computer science theory | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: algorithms
+- **2026-07-01** | [The Algorithms - GitHub](https://github.com/TheAlgorithms) | kw: algorithms
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-01** | [faang-interview · GitHub Topics · GitHub](https://github.com/topics/faang-interview) | kw: algorithms
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: algorithms
+- **2026-07-01** | [Top algorithms-datastructures Repositories - GitHub... | Git Stars](https://git-stars.org/repositories/topic/algorithms-datastructures) | kw: algorithms
+
 - **2026-07-01** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: Algorithms
 - **2026-07-01** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: Algorithms
 - **2026-07-01** | [GitHub - heydi424/DSA-Handbook-for-Coding-Interviews_2026](https://github.com/heydi424/DSA-Handbook-for-Coding-Interviews_2026) | kw: Algorithms

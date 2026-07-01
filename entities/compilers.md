@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: compilers
+- **2026-07-01** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: compilers
+- **2026-07-01** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: compilers
+- **2026-07-01** | [A Deep Dive into LLVM: The Future of Compiler Technology | Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: compilers
+- **2026-07-01** | [2017 LLVM Developers' Meeting: M. Zolotukhin 'LLVM Compile-Time...](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: compilers
+- **2026-07-01** | [Just in Time Compilation Explained](https://www.freecodecamp.org/news/just-in-time-compilation-explained/) | kw: compilers
+
 - **2026-07-01** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: Compilers
 - **2026-07-01** | [The LLVM Compiler Infrastructure Project - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: Compilers
 - **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: Compilers
