@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T08:00:00.000000+00:00",
   "__last_updated": "2026-07-02T08:00:00.000000+00:00",
-  "last_run": 312,
-  "last_explore": "2026-07-02T10:30:00.000000+00:00",
-  "last_global_explore": "2026-07-02T10:30:00.000000+00:00",
-  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Reasoning Robustness / Memory Failure Modes / Metacognitive Compliance Trap",
-  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: reasoning-collapse-under-perturbation / memory-architectural-constraints / adversarial-metacognition-degradation",
+  "last_run": 313,
+  "last_explore": "2026-07-02T11:00:00.000000+00:00",
+  "last_global_explore": "2026-07-02T11:00:00.000000+00:00",
+  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Jailbreak Mechanistic Evidence / ToM Self-Attribution Dissociation / Subjective WTP Inference",
+  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: attention-head-jailbreak-mechanism / safety-fine-tuning-dissociation / preference-elicitation-bias",
   "last_framing": "DEEP-SUB-CLUSTER PROBE-AXIS",
-  "last_run_notes": "Run 312: 2604.08571, 2605.26667, 2605.02398",
+  "last_run_notes": "Run 313: 2606.28153, 2603.28925, 2602.09802",
   "last_pass_type": "emergent-concept",
   "last_run_method": "Rule 36h PROBE-AXIS: quantization-temperature safety interaction + uncertainty-gated few-shot reranking + quantifiable-complexity monadic FOL benchmark (deep-sub-cluster from consumed primaries)",
   "run_method": "emergent-concept-search-via-web-search-discovery",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
   "chains_updated": 0,
-  "entities_count": 949,
+  "entities_count": 952,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9106,6 +9106,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-02T10:30:00+00:00",
       "theme": "reasoning-robustness / memory-failure / metacognitive-compliance"
+    },
+    {
+      "arxiv_id": "2606.28153",
+      "slug": "robust-harmful-features-under-jailbreak-attacks-mechanistic-evidence-from-attention-head-specialization-in-large-language-models-2606.28153",
+      "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.28153",
+      "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "theme": "safety-mechanisms / jailbreak / attention-heads",
+      "discovered": "2026-07-02T11:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2603.28925",
+      "slug": "theory-of-mind-and-self-attributions-of-mentality-are-dissociable-in-llms-2603.28925",
+      "title": "Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs",
+      "url": "https://arxiv.org/abs/2603.28925",
+      "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "theme": "safety-mechanisms / ToM / self-awareness",
+      "discovered": "2026-07-02T11:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2602.09802",
+      "slug": "would-a-large-language-model-pay-extra-for-a-view-inferring-willingness-to-pay-from-subjective-choices-2602.09802",
+      "title": "Would a Large Language Model Pay Extra for a View? Inferring Willingness to Pay from Subjective Choices",
+      "url": "https://arxiv.org/abs/2602.09802",
+      "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "theme": "preference-modeling / subjective-decision-making",
+      "discovered": "2026-07-02T11:00:00+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -16052,6 +16082,30 @@
       "url": "https://arxiv.org/abs/2603.16500",
       "discovered": "2026-07-01T22:22:11.053394",
       "theme": "exemplar-correctness-failure / interactive-coding-benchmark / internal-self-calibration"
+    },
+    {
+      "arxiv_id": "2606.28153",
+      "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
+      "slug": "robust-harmful-features-under-jailbreak-attacks-mechanistic-evidence-from-attention-head-specialization-in-large-language-models-2606.28153",
+      "url": "https://arxiv.org/abs/2606.28153",
+      "discovered": "2026-07-02T11:00:00+00:00",
+      "theme": "safety-mechanisms / jailbreak / attention-heads"
+    },
+    {
+      "arxiv_id": "2603.28925",
+      "title": "Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs",
+      "slug": "theory-of-mind-and-self-attributions-of-mentality-are-dissociable-in-llms-2603.28925",
+      "url": "https://arxiv.org/abs/2603.28925",
+      "discovered": "2026-07-02T11:00:00+00:00",
+      "theme": "safety-mechanisms / ToM / self-awareness"
+    },
+    {
+      "arxiv_id": "2602.09802",
+      "title": "Would a Large Language Model Pay Extra for a View? Inferring Willingness to Pay from Subjective Choices",
+      "slug": "would-a-large-language-model-pay-extra-for-a-view-inferring-willingness-to-pay-from-subjective-choices-2602.09802",
+      "url": "https://arxiv.org/abs/2602.09802",
+      "discovered": "2026-07-02T11:00:00+00:00",
+      "theme": "preference-modeling / subjective-decision-making"
     }
   ],
   "emergent_concept_search_log": [
@@ -21034,6 +21088,18 @@
         "2605.02398"
       ],
       "method": "HF daily 5 dates (174 papers) + web_search 4-query (reasoning robustness + memory failure + metacognition adversarial) + 5-store dedup",
+      "added": 3
+    },
+    {
+      "run": 313,
+      "date": "2026-07-02T11:00:00+00:00",
+      "theme": "Deep-Sub-Cluster PROBE-AXIS: Jailbreak Mechanistic Evidence / ToM Self-Attribution Dissociation / Subjective WTP Inference",
+      "picks": [
+        "2606.28153",
+        "2603.28925",
+        "2602.09802"
+      ],
+      "method": "Rule 36c deep-sub-cluster: HF daily \u2192 web_search (safety ToM + jailbreak + preference elicitation)",
       "added": 3
     }
   ],
