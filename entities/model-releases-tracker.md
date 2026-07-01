@@ -17,7 +17,6 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
-
 - **2026-07-01** | [MiniMax AI releases MiniMax M3, an open-weight multimodal model...](https://digg.com/tech/a8ckwh19) | kw: OPEN SOURCE | OFFICIAL ANNOUNCEMENT | source: MiniMax
 - **2026-07-01** | [MiniMax-M3: Leading open weights model, once the weights are...](https://artificialanalysis.ai/articles/minimax-m3) | kw: OPEN SOURCE | WEIGHTS DROP | source: MiniMax
 - **2026-07-01** | [MiniMax M3 Goes Open Source: A 428B-Parameter MoE Beast With...](https://freeai.help/blog/minimax-m3-goes-open-source-a-428b-parameter_en) | kw: OPEN SOURCE | source: MiniMax
@@ -151,6 +150,13 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-07-01** | [10 Best NEW Games To Play In July 2026 YouTube](https://www.youtube.com/watch?v=_7Nvp9iwG94) | kw: api launch | source: fenom-ai
 - **2026-07-01** | [PlayStation Plus Free Games July 2026 Forbes](https://www.forbes.com/sites/erikkain/2026/06/28/ps-plus-july-2026-predictions-leaks-reveal/) | kw: api launch | source: fenom-ai
 - **2026-07-01** | [100 Days At Sea codes July 2026 Eurogamer](https://www.eurogamer.net/roblox-100-days-at-sea-codes) | kw: api launch | source: fenom-ai
+
+- **2026-07-01** | [xAI plans Grok 4.5 rollout with 1.5T parameters in July, 2T in August](https://cryptobriefing.com/xai-grok-models-1-5t-2t-rollout/) | kw: WEIGHTS DROP | OFFICIAL ANNOUNCEMENT | source: xai-releases
+- **2026-07-01** | [Sakana AI Launches Sakana Fugu Multi-Agent Orchestration Model](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lIcHYtMkVSRzF4WkxELWpGNWxDZ0FQAQ) | kw: OFFICIAL ANNOUNCEMENT | API LAUNCH | source: sakana-releases
+- **2026-07-01** | [Huawei openPangu 2.0 Flash: 92B MoE Open-Source Weights Drop](https://aiproductivity.ai/news/huawei-openpangu-2-flash-92b-open-source/) | kw: WEIGHTS DROP | OPEN SOURCE | source: huawei
+- **2026-07-01** | [DeepSeek V4 Official Launch + Peak/Off-Peak Pricing](https://www.reddit.com/r/DeepSeek/comments/1uio6yf/deepseek_v4_official_launch_peakoffpeak_pricing/) | kw: OFFICIAL ANNOUNCEMENT | API LAUNCH | source: deepseek-releases
+- **2026-07-01** | [Liquid AI LFM2.5-230M Open-Weight Released June 25, 2026](https://www.llmreference.com/model/lfm-2-5-230m) | kw: WEIGHTS DROP | OPEN SOURCE | source: liquid-ai
+- **2026-07-01** | [Google Delays Gemini 3.5 Pro Launch to July 2026](https://www.androidpolice.com/google-gemini-3-5-pro-launch-delay-july-2026/) | kw: OFFICIAL ANNOUNCEMENT | source: google-deepmind-releases
 
 ## Auto-Discovered Profiles
 
