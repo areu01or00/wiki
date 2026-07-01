@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 249) — EVOLUTIONARY SEARCH INTERNALIZATION / ADAPTIVE BLOCK-SIZE SPECULATIVE DECODING / LEARNED CONTEXT QUERY FOR VIDEO WORLD MODELS**
+
+- [[evolution-fine-tuning-learning-to-discover-across-371-optimization-tasks-2606.29082]]
+  Evolution Fine-Tuning (EFT): Teaches LLMs to acquire iterative evolutionary search capabilities — which parts of a solution to mutate, when to backtrack, and how to reuse discovered insights across tasks — by converting evolutionary search trajectories from 371 optimization tasks into supervision via the Finch Collection (156K trajectories). Fine-tuned models surpass base counterparts by 10.22% on 22 held-out tasks and can pair with test-time RL for SOTA on circle-packing and Erdős minimum-overlap problems. **First "discovery agent practice phase" internalization of evolutionary search in LLM weights in the wiki.**
+
+- [[blockpilot-instance-adaptive-policy-learning-for-diffusion-based-speculative-decoding-2606.31315]]
+  BlockPilot: Instance-Adaptive Policy for Diffusion-based Speculative Decoding: Learns a lightweight policy that predicts optimal block size from prefilling representations, replacing fixed block-size assumptions in diffusion-based speculative decoding. Single-shot prediction after prefilling introduces no per-token overhead; achieves 5.92 acceptance length and 4.20× speedup on Qwen3-4B. **First learned instance-adaptive block-size policy for diffusion-based speculative decoding in the wiki.**
+
+- [[memlearner-learning-to-query-context-memory-for-video-world-models-2606.31734]]
+  MemLearner: Learning to Query Context Memory for Video World Models: Addresses memory inconsistency in video world models via query tokens that bridge context and predicted tokens — learns what to retrieve from context rather than using fixed rule-based windows. Leverages pre-trained visual priors without additional module training; significantly outperforms prior world models under occlusion and dynamic object scenarios. **First learned query-based context memory for video world models in the wiki.**
 **2026-07-01 — Run 248) — KV-CACHE EVICTION LEARNABLE INDEXER / LLM SECURITY BENCHMARK METHODOLOGY / AGENTIC WORLD MODEL ACQUISITION**
 
 - [[indexmem-learned-kv-cache-eviction-with-latent-memory-2605.25475]]
