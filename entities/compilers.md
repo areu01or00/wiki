@@ -33,6 +33,9 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst
+- **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ... - GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit3.rst
+
 - **2026-07-01** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | source: compilers
 - **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | source: compilers
 - **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | source: compilers

@@ -3619,6 +3619,15 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) | kw: list
+- **2026-07-01** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: centralized
+- **2026-07-01** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: system
+- **2026-07-01** | [What Is the Basic Architecture of a Distributed System?](https://sivaro.in/articles/what-is-the-basic-architecture-of-a-distributed-system-3/) | kw: what
+- **2026-07-01** | [Interface Architecture and Design System Engineering](https://zemgraphics.com/) | kw: interface
+- **2026-07-01** | [Architectural Patterns: Moving Beyond Cloud-Native to... - InfoQ](https://www.infoq.com/podcasts/natural-evolution-cloud-native/) | kw: architectural
+- **2026-07-01** | [Home - Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) | kw: home
+- **2026-07-01** | [What are microservices?](https://microservices.io/) | kw: what
+
 - **2026-07-01** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | source: system-design
 - **2026-07-01** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | source: system-design
 - **2026-07-01** | [How to open and view System Information panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-information-panel-in-windows) | source: system-design

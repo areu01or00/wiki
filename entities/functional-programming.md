@@ -31,6 +31,16 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: haskell
+- **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: hello,
+- **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: pure
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: pure
+- **2026-07-01** | [The Brutal Truth About Programming Languages in 2026: Which ...](https://medium.com/@mohdinsafinzu/the-brutal-truth-about-programming-languages-in-2026-which-ones-will-break-you-and-which-ones-61a1ea1a245d) | kw: the
+- **2026-07-01** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/) | kw: kabbalah,
+- **2026-07-01** | [Community version of "Learn You a Haskell..." (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: community
+- **2026-07-01** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: i
+
 - **2026-07-01** | [functional programming - State Monads in Haskell - Stack Overflow](https://stackoverflow.com/questions/10237072/state-monads-in-haskell) | source: functional-programming
 - **2026-07-01** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | source: functional-programming
 - **2026-07-01** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | source: functional-programming

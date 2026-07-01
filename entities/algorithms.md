@@ -4117,6 +4117,12 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: data
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: problems
+- **2026-07-01** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms
+- **2026-07-01** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: neetcode
+- **2026-07-01** | [Los leetcode repositorios principales - Proyectos de GitHub... | Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: los
+
 - **2026-07-01** | [leetcode · GitHub Topics · GitHub](https://github.com/topics/leetcode) | source: algorithms
 - **2026-07-01** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | source: algorithms
 - **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | source: algorithms
