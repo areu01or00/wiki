@@ -4085,6 +4085,15 @@
 
 
 ## Updates
+- **2026-07-01** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: leet
+- **2026-07-01** | [GitHub - heydi424/DSA-Handbook-for-Coding-Interviews_2026](https://github.com/heydi424/DSA-Handbook-for-Coding-Interviews_2026) | kw: git
+- **2026-07-01** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms...](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: medium
+- **2026-07-01** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: git
+- **2026-07-01** | [2026 DSA Master Cheat Sheet for Coding Interviews](https://www.linkedin.com/posts/veerendra-manvi_dsa-datastructures-algorithms-activity-7476243600125882368-Kr9Z) | kw: interviews
+- **2026-07-01** | [Namaste DSA Sheet | To Crack FAANG & PBC's Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: interviews
+- **2026-07-01** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: tech
+- **2026-07-01** | [AlgoMaster.io — Master Software Engineering Interviews](https://algomaster.io/) | kw: algo
+
 - **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
 - **2026-07-01** | [faang-interview · GitHub Topics](https://github.com/topics/faang-interview) | kw: algorithms
 - **2026-07-01** | [Top algorithms-datastructures Repositories - Git Stars](https://git-stars.org/repositories/topic/algorithms-datastructures) | kw: algorithms

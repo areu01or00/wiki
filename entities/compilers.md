@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: stackoverflow
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: toolify
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: eli
+- **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving...](https://www.preprints.org/manuscript/202306.1834) | kw: preprints
+- **2026-07-01** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: slideshare
+- **2026-07-01** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: compilation
+- **2026-07-01** | [2017 LLVM Developers' Meeting: M. Zolotukhin](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: zolotukhin
+
 - **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compilers
 
 - **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers

@@ -1,4 +1,10 @@
 ## Updates
+- **2026-07-01** | [Haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: overflow
+- **2026-07-01** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: rust
+- **2026-07-01** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: in
+- **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: toolify
+- **2026-07-01** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: grokipedia
+
 - **2026-07-01** | [Co-Creator of Haskell: Functional Programming, Thinking in Types, and the Future - developing.dev](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: functional-programming
 - **2026-07-01** | [What killed Haskell, could kill Rust, too - GitHub Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: functional-programming
 - **2026-07-01** | [Haskell as a next choice of programming language - Reddit](https://www.reddit.com/r/haskell/comments/1riy9lw/haskell_as_a_next_choice_of_programming_language/) | kw: functional-programming

@@ -3591,6 +3591,16 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: alok-mishra
+- **2026-07-01** | [What Is the Basic Architecture of a Distributed System?](https://sivaro.in/articles/what-is-the-basic-architecture-of-a-distributed-system/) | kw: sivaro
+- **2026-07-01** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: geeksfor
+- **2026-07-01** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: you
+- **2026-07-01** | [Multi-Agent Orchestration Patterns: Building Production Systems in...](https://www.frankx.ai/blog/multi-agent-orchestration-patterns-2026) | kw: frankx
+- **2026-07-01** | [Notification Fanout Architecture — exashard](https://exashard.com/posts/notification-fanout-architecture/) | kw: exashard
+- **2026-07-01** | [Prompt Engineering for Developers: 5 Production Patterns That Work...](https://www.groovyweb.co/blog/prompt-engineering-for-developers-production-patterns-2026) | kw: groovyweb
+- **2026-07-01** | [8 Powerful Event-Driven Architecture Patterns](https://gtwebs.com/architecture/event-driven-architecture-patterns/) | kw: patterns
+- **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: axoniq
+
 - **2026-07-01** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
 - **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
 - **2026-07-01** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: system-design

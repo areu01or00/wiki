@@ -3931,6 +3931,13 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: performance
+- **2026-07-01** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: excendra
+- **2026-07-01** | [MEMORY_MANAGEMENT 0x1A in Windows 10/11](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: compmaster
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance](https://scanlibs.com/internals-python-3-performance/) | kw: performance
+- **2026-07-01** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: answers
+- **2026-07-01** | [GitHub - skyfirews/prep](https://github.com/skyfirews/prep) | kw: git
+
 - **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
 - **2026-07-01** | [What's new in Python 3.14 — Python 3.14.6 documentation](https://docs.python.org/3/whatsnew/3.14.html) | kw: python-internals
 - **2026-07-01** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: python-internals
