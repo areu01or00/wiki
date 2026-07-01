@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir v1.20 released: now a gradually t
+- **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyrinth: A 202
+- **2026-07-01** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type system  ty - Astral Docs
+- **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type inference of all constructs and the
+- **2026-07-01** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems do you find interestin
+- **2026-07-01** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US 2026 Typing Summit Recap - Bern
+- **2026-07-01** | [Enhancing Deep Type Inference Using Dynamic Analysis for Python](https://dl.acm.org/doi/10.1145/3771544) | kw: Enhancing Deep Type Inference Using Dyna
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type Annotations
+- **2026-07-01** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: To what extent is type theory relevant t
+
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static vs. Dynamic Typing
 - **2026-07-01** | [Typed and Confused: Studying the Unexpected Dangers of Gradual...](https://www.staicu.org/publications/ase2024.pdf) | kw: Typed and Confused
 - **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: Putting gradual types to work

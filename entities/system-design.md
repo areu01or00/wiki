@@ -3591,6 +3591,16 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Modern Software Architecture Patterns That Scale In 2026](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern Software Architecture Patterns Th
+- **2026-07-01** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If you want to get started with system d
+- **2026-07-01** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: System Design Concepts Course and Interv
+- **2026-07-01** | [What Is the Basic Architecture of a Distributed System?](https://sivaro.in/articles/what-is-the-basic-architecture-of-a-distributed-system/) | kw: What Is the Basic Architecture of a Dist
+- **2026-07-01** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distri
+- **2026-07-01** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: Integration Patterns 2026: Query Pattern
+- **2026-07-01** | [8 Powerful Event-Driven Architecture Patterns](https://gtwebs.com/architecture/event-driven-architecture-patterns/) | kw: 8 Powerful Event-Driven Architecture Pat
+- **2026-07-01** | [5 Mistakes to Avoid When Learning System Design | InterviewNoodle](https://interviewnoodle.com/5-mistakes-to-avoid-when-learning-system-design-5fa1c96a6dd2) | kw: 5 Mistakes to Avoid When Learning System
+- **2026-07-01** | [System Design: Distributed Tracing System...](https://www.techinterview.org/post/3233464366/system-design-distributed-tracing/) | kw: System Design: Distributed Tracing Syste
+
 - **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
 - **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating system
 - **2026-07-01** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: How to open System Properties in Control Panel in 

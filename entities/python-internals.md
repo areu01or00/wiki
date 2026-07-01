@@ -3931,6 +3931,9 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How to fix Stop code Memory management (0x1A) error in... - YouTube](https://www.youtube.com/watch?v=zaKOAbNeWiE) | kw: How to fix Stop code Memory management (
+- **2026-07-01** | [MEMORY_MANAGEMENT (0x1A) in Windows 10/11: how to fix...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: MEMORY_MANAGEMENT (0x1A) in Windows 10/1
+
 - **2026-07-01** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: Advanced Python Interview Questions & Answers
 
 - **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: Python Internals
