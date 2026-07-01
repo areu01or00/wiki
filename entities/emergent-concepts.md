@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 239) — TEXTUAL BAYES PROMPT UNCERTAINTY / FAITHFUL RAG VERIFICATION / ZIPSERV LOSSLESS COMPRESSION**
+
+- [[textual-bayes-quantifying-prompt-uncertainty-in-llm-based-systems-2506.10060]]
+  Textual Bayes: Frames LLM-based systems as Bayesian probabilistic models — quantifying uncertainty over textual parameters and downstream predictions via prior beliefs expressed in free-form text. Published ICLR 2026. **First Bayesian textual-parameter uncertainty quantification framework for black-box LLM APIs in the wiki.**
+
+- [[reason-and-verify-a-framework-for-faithful-retrieval-augmented-generation-2603.10143]]
+  Reason and Verify: Integrates explicit reasoning and faithfulness verification into RAG — neural query rewriting, cross-encoder reranking, and rationale generation grounding sub-claims in retrieved evidence spans. **First reasoning-integrated faithfulness verification framework for RAG in the wiki.**
+
+- [[zipserv-fast-and-memory-efficient-llm-inference-with-hardware-aware-lossless-compression-2603.17435]]
+  ZipServ: Lossless compression co-designed with GPU architectures — solves SIMT parallelism breakage from variable-length entropy bitstreams that cause inference slowdowns in existing compression methods. **First hardware-aware lossless compression framework for bit-exact LLM serving in the wiki.**
 **2026-07-04 — Run 238) — LOOPTRAP ADVERSARIAL TERMINATION POISONING / ADAMEM LEARNED MEMORY WRITE-CONTROL / SKILLGRAD SKILL OPTIMIZATION AS GRADIENT DESCENT**
 
 - [[looptrap-termination-poisoning-attacks-on-llm-agents-2605.05846]]

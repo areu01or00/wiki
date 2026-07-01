@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-04T00:00:00+00:00",
   "__last_updated": "2026-07-04T00:00:00+00:00",
-  "last_run": 238,
+  "last_run": 239,
   "last_explore": "2026-07-04T00:30:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
-  "last_discovery": "2026-07-01",
-  "last_run_framing": "LOOPTRAP ADVERSARIAL TERMINATION POISONING / ADAMEM LEARNED MEMORY WRITE-CONTROL / SKILLGRAD SKILL OPTIMIZATION AS GRADIENT DESCENT",
+  "last_discovery": "2026-07-04",
+  "last_run_framing": "TEXTUAL BAYES PROMPT UNCERTAINTY / FAITHFUL RAG VERIFICATION / ZIPSERV LOSSLESS COMPRESSION",
   "last_framing": "multi-agent scaling laws / LLM safety replication / black-box agentic RL",
-  "last_run_notes": "Run 238: LoopTrap Termination Poisoning (2605.05846) + AdaMem Learned Memory Write-Control (2606.21144) + SkillGrad Skill Optimization (2605.27760)",
+  "last_run_notes": "Run 239: Textual Bayes Prompt Uncertainty (2506.10060) + Reason and Verify Faithful RAG (2603.10143) + ZipServ Lossless Compression (2603.17435)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 726,
+  "entities_count": 729,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -12701,6 +12701,30 @@
       "url": "https://arxiv.org/abs/2605.27760",
       "discovered": "2026-07-04T00:00:00+00:00",
       "theme": "agent-learning / skill-optimization / gradient-descent"
+    },
+    {
+      "arxiv_id": "2506.10060",
+      "title": "Textual Bayes: Quantifying Prompt Uncertainty in LLM-Based Systems",
+      "slug": "textual-bayes-quantifying-prompt-uncertainty-in-llm-based-systems-2506.10060",
+      "url": "https://arxiv.org/abs/2506.10060",
+      "discovered": "2026-07-04T00:30:00.000000+00:00",
+      "theme": "uncertainty-quantification / bayesian-methods / prompt-sensitivity"
+    },
+    {
+      "arxiv_id": "2603.10143",
+      "title": "Reason and Verify: A Framework for Faithful Retrieval-Augmented Generation",
+      "slug": "reason-and-verify-a-framework-for-faithful-retrieval-augmented-generation-2603.10143",
+      "url": "https://arxiv.org/abs/2603.10143",
+      "discovered": "2026-07-04T00:30:00.000000+00:00",
+      "theme": "retrieval-augmented-generation / faithfulness / hallucination-mitigation"
+    },
+    {
+      "arxiv_id": "2603.17435",
+      "title": "ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression",
+      "slug": "zipserv-fast-and-memory-efficient-llm-inference-with-hardware-aware-lossless-compression-2603.17435",
+      "url": "https://arxiv.org/abs/2603.17435",
+      "discovered": "2026-07-04T00:30:00.000000+00:00",
+      "theme": "inference-efficiency / memory-optimization / kv-cache / compression"
     }
   ],
   "emergent_concept_search_log": [
@@ -19071,6 +19095,17 @@
         "emergent-concept"
       ],
       "method": "arxiv HTML 6-query + abstract inspection"
+    },
+    {
+      "run_number": 239,
+      "date": "2026-07-04",
+      "theme": "uncertainty / faithfulness / compression",
+      "picks": [
+        "2506.10060",
+        "2603.10143",
+        "2603.17435"
+      ],
+      "framing": "TEXTUAL BAYES / FAITHFUL RAG / ZIPSERV"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
