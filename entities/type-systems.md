@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type-systems
+
 - **2026-07-01** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: 0e40ec20
 - **2026-07-01** | [TypeScript: Static or Dynamic? The war is over. | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: 324570ea
 - **2026-07-01** | [Type Systems Comparison - Wikantik](https://wiki.wikantik.com/wiki/TypeSystemsComparison) | kw: 5f39c42f
