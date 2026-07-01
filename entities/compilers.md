@@ -33,6 +33,17 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: compilers
+- **2026-07-01** | [llvm-compile-time-tracker.com](https://llvm-compile-time-tracker.com/) | kw: compilers
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
+- **2026-07-01** | [GitHub - debo-31/JIT-LLVM: Just-In-Time compilation is a method to...](https://github.com/debo-31/JIT-LLVM) | kw: compilers
+- **2026-07-01** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: compilers
+- **2026-07-01** | [A Deep Dive into LLVM: The Future of Compiler Technology | Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: compilers
+- **2026-07-01** | [LLVM JIT compilation of panproto expressions for accelerated data...](https://lib.rs/crates/panproto-jit) | kw: compilers
+- **2026-07-01** | [Just in Time Compilation Explained](https://www.freecodecamp.org/news/just-in-time-compilation-explained/) | kw: compilers
+- **2026-07-01** | [Join WasmEdge's LFX Mentorship Program Spring 2026 Boosting Your...](https://www.secondstate.io/articles/lfx-mentorship-spring-2026/) | kw: compilers
+- **2026-07-01** | [PostgreSQL Begins Landing LLVM JIT Support For Faster... - Phoronix](https://www.phoronix.com/news/PostgreSQL-LLVM-JIT-Landing) | kw: compilers
+
 - **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM Compiler Infrastructure
 - **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures in JIT
 
