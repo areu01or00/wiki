@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T14:30:00.000000+00:00",
   "__last_updated": "2026-07-01T16:45:11+00:00",
-  "last_run": 293,
-  "last_explore": "2026-07-01T17:31:14+00:00",
+  "last_run": 294,
+  "last_explore": "2026-07-01T17:50:00.000000+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "Verbalized Uncertainty Calibration / Defeasible Reasoning Scaffolding / Retrieval-Specific Overconfidence",
-  "last_framing": "UNCALVDOCALRETRAG",
-  "last_run_notes": "Run 293: 2606.27023, 2606.26366, 2606.22728",
+  "last_run_framing": "Strategy vs Phrasing Diversity / Agent-Vulnerability Communication / Diffusion RL-Distillation Interaction",
+  "last_framing": "DIVERSITYAGENTDIFFUSION",
+  "last_run_notes": "Run 294: 2606.29985, 2606.28125, 2606.30414",
   "last_pass_type": "emergent-concept",
   "last_run_method": "HF daily (CV-heavy) + arxiv HTML search (calibration/uncertainty/ICL axes) + web_search \u2014 Rule 36h PROBE-AXIS calibration/uncertainty + Rule 15d escape hatch",
   "run_method": "emergent-concept-search-via-web-search-discovery",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "self-improvement / strategy memory / flow reasoning",
   "emergent_theme": "self-improvement / strategy memory / flow reasoning",
   "chains_updated": 0,
-  "entities_count": 892,
+  "entities_count": 895,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -15227,6 +15227,30 @@
       "url": "https://arxiv.org/abs/2606.22728",
       "discovered": "2026-07-01T17:31:14+00:00",
       "theme": "retrieval confidence / diagnostic / overconfidence / RAG reliability"
+    },
+    {
+      "arxiv_id": "2606.29985",
+      "title": "Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning",
+      "slug": "are-we-measuring-strategy-or-phrasing-the-gap-between-surface-and-approach-level-diversity-in-llm-math-reasoning-2606.29985",
+      "url": "https://arxiv.org/abs/2606.29985",
+      "discovered": "2026-07-01T17:50:00.000000+00:00",
+      "theme": "approach-level vs surface-level reasoning diversity / benchmark design"
+    },
+    {
+      "arxiv_id": "2606.28125",
+      "title": "How Humans, Bots, and Agents Communicate About Vulnerabilities in Pull Requests",
+      "slug": "how-humans-bots-and-agents-communicate-about-vulnerabilities-in-pull-requests-2606.28125",
+      "url": "https://arxiv.org/abs/2606.28125",
+      "discovered": "2026-07-01T17:50:00.000000+00:00",
+      "theme": "agent security collaboration / vulnerability communication patterns"
+    },
+    {
+      "arxiv_id": "2606.30414",
+      "title": "Diffusion Fine-tuning with Rewarded Moment Matching Distillation",
+      "slug": "diffusion-fine-tuning-with-rewarded-moment-matching-distillation-2606.30414",
+      "url": "https://arxiv.org/abs/2606.30414",
+      "discovered": "2026-07-01T17:50:00.000000+00:00",
+      "theme": "diffusion post-training / distillation-RL interaction"
     }
   ],
   "emergent_concept_search_log": [
@@ -18184,6 +18208,17 @@
       ],
       "method": "arxiv HTML 4-query search",
       "theme": "logical fallacy robustness / diffusion llm self-distillation / kv-cache trainability"
+    },
+    {
+      "timestamp": "2026-07-01T17:50:00.000000+00:00",
+      "run_number": 294,
+      "papers_added": [
+        "2606.29985",
+        "2606.28125",
+        "2606.30414"
+      ],
+      "framing": "Strategy vs Phrasing Diversity / Agent-Vulnerability Communication / Diffusion RL-Distillation Interaction",
+      "query_axes": "instruction-tuning / SFT-vs-RLHF / domain-specific-reasoning (legal/medical)"
     }
   ],
   "runs": [
@@ -19873,6 +19908,18 @@
       "framing": "Verbalized Uncertainty Calibration / Defeasible Reasoning Scaffolding / Retrieval-Specific Overconfidence",
       "method": "HF daily + arxiv HTML search + web_search",
       "theme": "calibration / uncertainty / ICL (Rule 36h)"
+    },
+    {
+      "run_number": 294,
+      "timestamp": "2026-07-01T17:50:00.000000+00:00",
+      "papers_added": [
+        "2606.29985",
+        "2606.28125",
+        "2606.30414"
+      ],
+      "framing": "Strategy vs Phrasing Diversity / Agent-Vulnerability Communication / Diffusion RL-Distillation Interaction",
+      "theme": "reasoning-diversity / agent-security / diffusion-post-training",
+      "run_method": "HF daily (CV-heavy) + web_search instruction-tuning/domain-specific-reasoning"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

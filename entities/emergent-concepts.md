@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 294: Strategy vs Phrasing Diversity / Agent-Vulnerability Communication / Diffusion RL-Distillation Interaction
+
+- [[are-we-measuring-strategy-or-phrasing-the-gap-between-surface-and-approach-level-diversity-in-llm-math-reasoning-2606.29985]]
+  Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning — Lee, Sangmook; Kim, Minbeom; Kim, Jeonghye + 3 — first formal distinction between approach-level and surface-level diversity in LLM reasoning, showing high surface diversity does not imply high approach diversity, with implications for benchmark design. **First paper systematically distinguishing approach-level from surface-level reasoning diversity in wiki.**
+
+- [[diffusion-fine-tuning-with-rewarded-moment-matching-distillation-2606.30414]]
+  Diffusion Fine-tuning with Rewarded Moment Matching Distillation — Jacq, Alexis; Couairon, Guillaume; De Bortoli, Valentin + 3 — first systematic study of distillation-RL interaction in diffusion post-training, proposing rewarded moment matching distillation that bridges both phases for improved alignment. **First paper studying distillation-RL interaction in diffusion post-training in wiki.**
+
+- [[how-humans-bots-and-agents-communicate-about-vulnerabilities-in-pull-requests-2606.28125]]
+  How Humans, Bots, and Agents Communicate About Vulnerabilities in Pull Requests — Rooijendijk, Pien; Treude, Christoph; Wessel, Mairieli — comparative analysis of explicit vs. implicit security language patterns across human, bot, and agent actors in PR vulnerability discussions. **First comparative study of agent vs. human vulnerability communication patterns in wiki.**
+
 ### 2026-07-01 — Run 293: Verbalized Uncertainty Calibration / Defeasible Reasoning Scaffolding / Retrieval-Specific Overconfidence
 
 - [[just-how-sure-are-you-improving-verbalized-uncertainty-calibration-in-llms-2606.27023]]

@@ -1797,7 +1797,10 @@
         "2606.27634",
         "2606.27023",
         "2606.26366",
-        "2606.22728"
+        "2606.22728",
+        "2606.29985",
+        "2606.28125",
+        "2606.30414"
       ],
       "last_results": [
         {
@@ -6731,6 +6734,45 @@
           "online_date": "2026-06-22",
           "run_number": 293,
           "margin": 0.0
+        },
+        {
+          "arxiv_id": "2606.29985",
+          "title": "Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning",
+          "hash": "2606.29985",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "approach-level vs surface-level reasoning diversity / benchmark design",
+          "discovered": "2026-07-01T17:50:00.000000+00:00",
+          "slug": "are-we-measuring-strategy-or-phrasing-the-gap-between-surface-and-approach-level-diversity-in-llm-math-reasoning-2606.29985",
+          "online_date": "2026-06-29",
+          "run_number": 294,
+          "margin": 0.0
+        },
+        {
+          "arxiv_id": "2606.28125",
+          "title": "How Humans, Bots, and Agents Communicate About Vulnerabilities in Pull Requests",
+          "hash": "2606.28125",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "agent security collaboration / vulnerability communication patterns",
+          "discovered": "2026-07-01T17:50:00.000000+00:00",
+          "slug": "how-humans-bots-and-agents-communicate-about-vulnerabilities-in-pull-requests-2606.28125",
+          "online_date": "2026-06-26",
+          "run_number": 294,
+          "margin": 0.0
+        },
+        {
+          "arxiv_id": "2606.30414",
+          "title": "Diffusion Fine-tuning with Rewarded Moment Matching Distillation",
+          "hash": "2606.30414",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "diffusion post-training / distillation-RL interaction",
+          "discovered": "2026-07-01T17:50:00.000000+00:00",
+          "slug": "diffusion-fine-tuning-with-rewarded-moment-matching-distillation-2606.30414",
+          "online_date": "2026-06-29",
+          "run_number": 294,
+          "margin": 0.0
         }
       ],
       "last_run": "2026-07-01T17:31:14+00:00",
@@ -8500,7 +8542,10 @@
     "2606.27634",
     "2606.27023",
     "2606.26366",
-    "2606.22728"
+    "2606.22728",
+    "2606.29985",
+    "2606.28125",
+    "2606.30414"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -9397,7 +9442,10 @@
       "2606.27634",
       "2606.27023",
       "2606.26366",
-      "2606.22728"
+      "2606.22728",
+      "2606.29985",
+      "2606.28125",
+      "2606.30414"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "2026-07-02 00:00 UTC",
