@@ -3591,6 +3591,13 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: system-design
+- **2026-07-01** | [What Is the Basic Architecture of a Distributed System?](https://sivaro.in/articles/what-is-the-basic-architecture-of-a-distributed-system/) | kw: system-design
+- **2026-07-01** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: system-design
+- **2026-07-01** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: system-design
+- **2026-07-01** | [Notification Fanout Architecture — exashard](https://exashard.com/posts/notification-fanout-architecture/) | kw: system-design
+- **2026-07-01** | [Prompt Engineering for Developers: 5 Production Patterns That Work...](https://www.groovyweb.co/blog/prompt-engineering-for-developers-production-patterns-2026) | kw: system-design
+
 - **2026-07-01** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system
 - **2026-07-01** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: system
 - **2026-07-01** | [12 Essential Distributed System Design Patterns Every Architect ...](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: system

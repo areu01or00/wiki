@@ -1,4 +1,13 @@
 ## Updates
+- **2026-07-01** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: functional-programming
+- **2026-07-01** | [Haskell as a next choice of programming language - Reddit](https://www.reddit.com/r/haskell/comments/1riy9lw/haskell_as_a_next_choice_of_programming_language/) | kw: functional-programming
+- **2026-07-01** | [What killed Haskell, could kill Rust, too - GitHub Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: functional-programming
+- **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: functional-programming
+- **2026-07-01** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: functional-programming
+- **2026-07-01** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: functional-programming
+- **2026-07-01** | [Issue 522 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/522.html) | kw: functional-programming
+- **2026-07-01** | [Functional Programming Online Courses - Serokell](https://serokell.io/courses) | kw: functional-programming
+
 - **2026-07-01** | [monads GitHub Topics](https://github.com/topics/monads) | kw: functional
 - **2026-07-01** | [Haskell Team PM 2026 Functional Type-Safe Monads](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: functional
 - **2026-07-01** | [Getting started with Haskell - Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell) | kw: functional

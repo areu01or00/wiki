@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [TypeRacer - Play Typing Games and Race Friends](https://play.typeracer.com/) | kw: type-systems
+
 - **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type
 - **2026-07-01** | [TypeScript: Static or Dynamic? The war is over.](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: type

@@ -4085,6 +4085,11 @@
 
 
 ## Updates
+- **2026-07-01** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
+- **2026-07-01** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: algorithms
+- **2026-07-01** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: algorithms
+- **2026-07-01** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: algorithms
+
 - **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
 - **2026-07-01** | [How to prepare for Data Structures Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
 - **2026-07-01** | [LeetCode Isnt Dead in 2026 But Its No Longer Enough](https://medium.com/the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: algorithms

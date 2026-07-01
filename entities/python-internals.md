@@ -3931,6 +3931,9 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Memory Management | Python - AlgoMaster.io](https://algomaster.io/learn/python/memory-management) | kw: python-internals
+- **2026-07-01** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading's ...](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: python-internals
+
 - **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/kenancan-dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python
 - **2026-07-01** | [Memory Management Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: Python
 - **2026-07-01** | [How Pythons GIL actually works and when it bites you](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Python
