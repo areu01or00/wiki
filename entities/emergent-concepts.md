@@ -18,6 +18,13 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 281: Open-World Agents / Tri-Role Safety / Multimodal Memory Benchmark
+
+- [[openlife-toward-open-world-artificial-life-with-autonomous-llm-agents-2606.31046]] — OpenLife: Open-world ALife with autonomous LLM agents (06-30)
+- [[h2hmem-a-multimodal-memory-benchmark-for-agents-in-human-human-2606.09461]] — H2HMem: Multimodal memory in human-human interaction (06-08)
+- [[triplay-rl-tri-role-self-play-reinforcement-learning-for-llm-safety-2601.18292]] — TriPlay-RL: Tri-role self-play for LLM safety alignment (01-26)
+
+
 **2026-07-01 — Run 280) — AI GOVERNANCE / COLLECTIVE SKILL LEARNING / MULTI-UAV COORDINATION BENCHMARK**
 
 - [[multiuav-plat-an-llm-oriented-platform-benchmark-and-framework-for-multi-uav-col-2606.31073]]
