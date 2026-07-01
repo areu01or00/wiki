@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 315: META-LEARNING / COMPOSITIONAL-GENERALIZATION / CROSS-LINGUAL-TRANSFER PROBE (Rule 36h untried pool: meta-learning + compositional generalization + cross-lingual)
+
+- [[meta-router-learning-to-route-llms-from-implicit-cost-performance-preferences-via-meta-learning-2606.06178]] — [Learning to Route LLMs from Implicit Cost-Performance Preferences via Meta-Learning](https://arxiv.org/abs/2606.06178) — Zeng, Jiahao; Tang, Ming; Ding, Ningning — meta-learning-based LLM router that learns from implicit cost-performance preferences, enabling adaptive routing decisions without explicit feedback. **First meta-learning-based LLM routing paper in the wiki.**
+
+- [[from-reasoning-traces-to-reusable-modules-understanding-compositional-generalization-in-language-model-reasoning-2606.18089]] — [From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning](https://arxiv.org/abs/2606.18089) — Kong, Lingjing; Liu, Xin; Chen, Guangyi + 9 — hierarchical latent selection model showing SFT+RL success driven by compositional generalization from reusable reasoning modules; provides interpretable framework for why post-training pipelines work for reasoning. **First hierarchical-reasoning-module compositional generalization paper in the wiki.**
+
+- [[are-multilingual-models-actually-improving-isolating-true-cross-lingual-transfer-2606.21954]] — [Are Multilingual Models Actually Improving? Isolating True Cross-Lingual Transfer](https://arxiv.org/abs/2606.21954) — Bajpai, Prasoon; Briakou, Eleftheria; Cherry, Colin + 2 — identifies conflation of source-language gains with cross-lingual transfer improvement; proposes isolated metric separating genuine transfer from general source accuracy gains. **First cross-lingual transfer isolation methodology paper in the wiki.**
+
 ### 2026-07-02 — Run 314: MATHEMATICAL-REASONING / RAG-HALLUCINATION / MULTI-AGENT-GAME-THEORY PROBE (Rule 36h: formal verification math reasoning + graph RAG + hierarchical control)
 
 - [[reducing-hallucinations-graph-based-RAG-2606.05901]] — [Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation](https://arxiv.org/abs/2606.05901) — Wedge, Christopher J.; Stutter, Joshua; Dixon, Danny + 1 — graph-based RAG reduces hallucination by 11.1% on TriviaQA while cutting retrieval frequency by 14pp vs flat-chunk RAG; self-correction loop validates context before generation. **First graph-structured RAG hallucination paper in the wiki.**

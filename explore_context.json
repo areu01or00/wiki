@@ -9136,6 +9136,39 @@
       "chain": "emergent-concepts",
       "theme": "preference-modeling / subjective-decision-making",
       "discovered": "2026-07-02T11:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.06178",
+      "title": "Learning to Route LLMs from Implicit Cost-Performance Preferences via Meta-Learning",
+      "slug": "meta-router-learning-to-route-llms-from-implicit-cost-performance-preferences-via-meta-learning-2606.06178",
+      "url": "https://arxiv.org/abs/2606.06178",
+      "vector": "Rule 36h PROBE-AXIS",
+      "chain": "emergent-concept",
+      "discovered": "2026-07-01T23:28:59Z",
+      "online_date": "2026-06-06",
+      "run_number": 315
+    },
+    {
+      "arxiv_id": "2606.18089",
+      "title": "From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning",
+      "slug": "from-reasoning-traces-to-reusable-modules-understanding-compositional-generalization-in-language-model-reasoning-2606.18089",
+      "url": "https://arxiv.org/abs/2606.18089",
+      "vector": "Rule 36h PROBE-AXIS",
+      "chain": "emergent-concept",
+      "discovered": "2026-07-01T23:28:59Z",
+      "online_date": "2026-06-18",
+      "run_number": 315
+    },
+    {
+      "arxiv_id": "2606.21954",
+      "title": "Are Multilingual Models Actually Improving? Isolating True Cross-Lingual Transfer",
+      "slug": "are-multilingual-models-actually-improving-isolating-true-cross-lingual-transfer-2606.21954",
+      "url": "https://arxiv.org/abs/2606.21954",
+      "vector": "Rule 36h PROBE-AXIS",
+      "chain": "emergent-concept",
+      "discovered": "2026-07-01T23:28:59Z",
+      "online_date": "2026-06-21",
+      "run_number": 315
     }
   ],
   "emergent_discoveries": [
@@ -16106,6 +16139,30 @@
       "url": "https://arxiv.org/abs/2602.09802",
       "discovered": "2026-07-02T11:00:00+00:00",
       "theme": "preference-modeling / subjective-decision-making"
+    },
+    {
+      "arxiv_id": "2606.06178",
+      "title": "Learning to Route LLMs from Implicit Cost-Performance Preferences via Meta-Learning",
+      "slug": "meta-router-learning-to-route-llms-from-implicit-cost-performance-preferences-via-meta-learning-2606.06178",
+      "url": "https://arxiv.org/abs/2606.06178",
+      "discovered": "2026-07-01T23:28:59Z",
+      "theme": "META-LEARNING / COMPOSITIONAL-GENERALIZATION / CROSS-LINGUAL-TRANSFER"
+    },
+    {
+      "arxiv_id": "2606.18089",
+      "title": "From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning",
+      "slug": "from-reasoning-traces-to-reusable-modules-understanding-compositional-generalization-in-language-model-reasoning-2606.18089",
+      "url": "https://arxiv.org/abs/2606.18089",
+      "discovered": "2026-07-01T23:28:59Z",
+      "theme": "META-LEARNING / COMPOSITIONAL-GENERALIZATION / CROSS-LINGUAL-TRANSFER"
+    },
+    {
+      "arxiv_id": "2606.21954",
+      "title": "Are Multilingual Models Actually Improving? Isolating True Cross-Lingual Transfer",
+      "slug": "are-multilingual-models-actually-improving-isolating-true-cross-lingual-transfer-2606.21954",
+      "url": "https://arxiv.org/abs/2606.21954",
+      "discovered": "2026-07-01T23:28:59Z",
+      "theme": "META-LEARNING / COMPOSITIONAL-GENERALIZATION / CROSS-LINGUAL-TRANSFER"
     }
   ],
   "emergent_concept_search_log": [
@@ -21112,6 +21169,18 @@
         "2606.20014"
       ],
       "method": "HF daily 5 dates \u2192 CV/3D-heavy \u2192 Rule 15d escape hatch \u2192 web_search \u2192 3 picks",
+      "added": 3
+    },
+    {
+      "run": 315,
+      "date": "2026-07-01T23:28:59Z",
+      "theme": "META-LEARNING / COMPOSITIONAL-GENERALIZATION / CROSS-LINGUAL-TRANSFER PROBE (Rule 36h untried pool)",
+      "picks": [
+        "2606.06178",
+        "2606.18089",
+        "2606.21954"
+      ],
+      "method": "web_search + HF daily emergent-concept",
       "added": 3
     }
   ],
