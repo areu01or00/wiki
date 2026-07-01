@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 255) — TEST-TIME COMPUTE EFFICIENCY / STRUCTURAL REASONING PROFILING / TRAINING-FREE RAG STATE COMPRESSION**
+
+- [[fork-think-with-confidence-parallel-reasoning-via-confidence-based-forking-2606.31484]]
+  Fork-Think: Decides-fork-then-thinks — inverts think-first-then-decide paradigm in LLM parallel reasoning. Identifies forking points via model confidence in a single seeding path, then triggers thinking and aggregates multiple continuations. Reduces token consumption by up to 30% and runtime by up to 57% while matching or exceeding accuracy. First decide-first-then-think paradigm for parallel reasoning efficiency in the wiki. Cross-ref: [[thinkprobe-structural-profiling-of-llm-reasoning-traces-via-thought-graphs-2606.29067]], [[concise-training-free-conclusion-chain-state-compression-for-cost-efficient-multi-step-rag-2606.28361]].
+
+- [[thinkprobe-structural-profiling-of-llm-reasoning-traces-via-thought-graphs-2606.29067]]
+  ThinkProbe: Structural profiling of LLM reasoning traces via Thought Graphs (8 node types, 6 edge types) and 19-metric five-dimensional cognitive profile (5D-CP: Breadth, Depth, Structure, Metacognitive, Efficiency). Applied to 4,200 traces from 7 reasoning models — reveals reasoning structure is a stable model-level property. Between-model variance exceeds between-domain variance by 4x across 4 of 5 cognitive dimensions. First structural-profiling framework exposing model-level cognitive profiles invisible to accuracy-only evaluation in the wiki. Cross-ref: [[fork-think-with-confidence-parallel-reasoning-via-confidence-based-forking-2606.31484]], [[concise-training-free-conclusion-chain-state-compression-for-cost-efficient-multi-step-rag-2606.28361]].
+
+- [[concise-training-free-conclusion-chain-state-compression-for-cost-efficient-multi-step-rag-2606.28361]]
+  ConCise: Training-free conclusion-chain state compression for multi-step RAG — replaces raw-text accumulation with append-only chain of structured conclusions, compressing context growth from O(N²) to O(N). Fused generation emits reasoning and conclusions in single API call. 64.63% average token savings while maintaining acceptable accuracy across 12 paired configurations. Deployment-friendly: no pretrained modules or GPU KV cache access required. First training-free conclusion-chain protocol for API-native multi-step RAG in the wiki. Cross-ref: [[fork-think-with-confidence-parallel-reasoning-via-confidence-based-forking-2606.31484]], [[thinkprobe-structural-profiling-of-llm-reasoning-traces-via-thought-graphs-2606.29067]].
+
 **2026-07-01 — Run 254) — SPARSE ATTENTION REPAIR / VLM CAUSAL GROUNDING ARBITER / ENERGY-AWARE GPU SCHEDULING FOR SERVERLESS LLM**
 
 - [[prr-predict-reuse-and-repair-accelerating-dynamic-sparse-attention-for-long-context-2606.30389]]
