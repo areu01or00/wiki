@@ -25,5 +25,4 @@ Jailbreak attacks bypass LLM safety alignment, yet their mechanisms remain poorl
 - Provides evidence for attention head specialization in safety-critical vs harmful content processing
 
 ## Related Papers
-- [[the-compliance-trap-how-structural-constraints-degrade-frontier-ai-metacognition-under-adversarial-pressure-2605.02398]] — Compliance Trap paper from prior run surfaces metacognitive degradation under adversarial pressure; this paper provides the mechanistic attention-head substrate for that macro-level phenomenon
-- [[2606.28153]] — Self-reference: mechanistic attention evidence for the compliance-trap phenomenon
+- [[the-compliance-trap-how-structural-constraints-degrade-frontier-ai-metacognition-2605.02398]] — Compliance Trap paper from prior run surfaces metacognitive degradation under adversarial pressure; this paper provides the mechanistic attention-head substrate for that macro-level phenomenon

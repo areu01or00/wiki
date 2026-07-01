@@ -25,4 +25,4 @@ Safety fine-tuning in LLMs suppresses mind-attribution tendencies — including 
 - Has implications for alignment: models can remain effective mental-state modelers while having self-attribution suppressed
 
 ## Related Papers
-- [[the-compliance-trap-how-structural-constraints-degrade-frontier-ai-metacognition-under-adversarial-pressure-2605.02398]] — Compliance Trap paper covers metacognitive stability under adversarial pressure; this paper provides the complementary finding that safety fine-tuning dissociation between self and other is cognitively stable, not a degradation pathway
+- [[the-compliance-trap-how-structural-constraints-degrade-frontier-ai-metacognition-2605.02398]] — Compliance Trap paper covers metacognitive stability under adversarial pressure; this paper provides the complementary finding that safety fine-tuning dissociation between self and other is cognitively stable, not a degradation pathway
