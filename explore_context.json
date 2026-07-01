@@ -2,15 +2,15 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T12:30:00.000000+00:00",
+  "updated": "2026-07-01T12:45:00.000000+00:00",
   "__last_updated": "2026-07-01T11:07:00.269333+00:00",
-  "last_run": 273,
+  "last_run": 274,
   "last_explore": "2026-07-01T11:07:00.269351+00:00",
-  "last_global_explore": "2026-07-01T11:07:00.269354+00:00",
+  "last_global_explore": "2026-07-01T12:45:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "SCENE-AWARE AGENT PLANNING / RL REWARD SHAPING / SCIENTIFIC EVIDENTIAL AGENTS",
-  "last_framing": "scene-aware agent planning / rl reward shaping / scientific evidential agents",
-  "last_run_notes": "Run 273: 2606.29932 / 2606.27180 / 2606.29776",
+  "last_run_framing": "AGENTIC COMPLEXITY EVALUATION / MEMORY-EVICTION BOUNDED-RETENTION / TOKEN-LEVEL RAG HALLUCINATION DETECTION",
+  "last_framing": "agentic evaluation / bounded-memory eviction / rag hallucination / multi-agent complexity",
+  "last_run_notes": "Run 274: 2606.30524 / 2606.29178 / 2606.31033",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 8-query search (380 IDs, 357 unique, 283 fresh after 5-store dedup, 3 orthogonal LLM picks)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic skill composition / evidential scientific reasoning / RL reward shaping",
   "emergent_theme": "scene-aware agent planning / VLM-guided RL / scientific evidential agents",
   "chains_updated": 0,
-  "entities_count": 832,
+  "entities_count": 835,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -14294,6 +14294,30 @@
       "url": "https://arxiv.org/abs/2606.27180",
       "discovered": "2026-07-01T11:07:00.25+00:00",
       "theme": "RL reward shaping / VLM guidance / potential-based functions / sparse reward optimization"
+    },
+    {
+      "arxiv_id": "2606.30524",
+      "title": "The Illusion of Agentic Complexity in README.md Generation: Evaluating Single-Agent vs. Multi-Agent RAG Systems",
+      "slug": "arxiv_id=2606.30524",
+      "url": "https://arxiv.org/abs/2606.30524",
+      "discovered": "2026-07-01T12:45:00.000000+00:00",
+      "theme": "agentic-complexity-evaluation / multi-agent architecture / README generation / RealWorldAgentEval"
+    },
+    {
+      "arxiv_id": "2606.29178",
+      "title": "Selective Memory Retention for Long-Horizon LLM Agents",
+      "slug": "arxiv_id=2606.29178",
+      "url": "https://arxiv.org/abs/2606.29178",
+      "discovered": "2026-07-01T12:45:00.000000+00:00",
+      "theme": "memory-eviction / bounded-retention / TraceRetain / long-horizon agent memory"
+    },
+    {
+      "arxiv_id": "2606.31033",
+      "title": "CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations",
+      "slug": "arxiv_id=2606.31033",
+      "url": "https://arxiv.org/abs/2606.31033",
+      "discovered": "2026-07-01T12:45:00.000000+00:00",
+      "theme": "rag hallucination detection / token-level / comparative representations / fine-grained grounding"
     }
   ],
   "emergent_concept_search_log": [
@@ -18654,6 +18678,17 @@
       ],
       "framing": "SCENE-AWARE AGENT PLANNING / RL REWARD SHAPING / SCIENTIFIC EVIDENTIAL AGENTS",
       "theme": "agentic skill composition / evidential scientific reasoning / RL reward shaping"
+    },
+    {
+      "run": 274,
+      "date": "2026-07-01",
+      "papers": [
+        "2606.30524",
+        "2606.29178",
+        "2606.31033"
+      ],
+      "framing": "AGENTIC COMPLEXITY EVALUATION / MEMORY-EVICTION BOUNDED-RETENTION / TOKEN-LEVEL RAG HALLUCINATION DETECTION",
+      "theme": "agentic evaluation / bounded-memory eviction / rag hallucination / multi-agent complexity"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
@@ -18765,7 +18800,7 @@
   "last_run_pitfalls": [],
   "last_run_theme": "INFERENCE EFFICIENCY / SECURITY EVALUATION / WORLD MODEL ACQUISITION",
   "emergent_concept_papers_count": 546,
-  "emergent_discoveries_count": 702,
+  "emergent_discoveries_count": 705,
   "last_run_picks_count": 3,
   "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE",
   "last_run_timestamp": "2026-07-01T00:00:00+00:00",

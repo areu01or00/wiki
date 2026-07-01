@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 274) — AGENTIC COMPLEXITY EVALUATION / MEMORY-EVICTION BOUNDED-RETENTION / TOKEN-LEVEL RAG HALLUCINATION DETECTION**
+
+- [[cortex-token-level-hallucination-detection-in-rag-2606.31033]]
+  CORTEX: Token-level hallucination detection in RAG via comparative internal representations — identifies ungrounded content at token granularity by comparing RAG-generated vs retrieval-only internal representations. **First comparative-representation-based token-level RAG hallucination detection in wiki.**
+
+- [[the-illusion-of-agentic-complexity-in-readme-generation-2606.30524]]
+  Agentic Complexity Evaluation: Evaluates whether multi-agent architectures genuinely improve README generation tasks — finds architectural complexity often masks rather than resolves capability gaps. **First LLM agent architectural complexity evaluation for repository-level documentation in wiki.**
+
+- [[selective-memory-retention-for-long-horizon-llm-agents-2606.29178]]
+  TraceRetain: Bounded memory retention framework for long-horizon LLM agents — scores entries by interpretable features (success, age, access frequency, redundancy, specificity, downstream utility) and evicts lowest-scoring at capacity. **First bounded-memory eviction scoring with explicit downstream utility signal in wiki.**
+
 **2026-07-01 — Run 273) — SCENE-AWARE AGENT PLANNING / RL REWARD SHAPING / SCIENTIFIC EVIDENTIAL AGENTS**
 
 - [[saga-scene-aware-goal-evolving-agents-long-horizon-civrealm-strategy-planning-2606.29932]]
