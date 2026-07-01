@@ -4117,6 +4117,14 @@
 
 
 ## Updates
+- **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Big
+- **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are ...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: Is
+- **2026-07-01** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: to
+- **2026-07-01** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: Isn't
+- **2026-07-01** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: Alone
+- **2026-07-01** | [Google 2026 Interview Preparation - Complete Weekly Roadmap](https://gist.github.com/carefree-ladka/6d1722421f9e1e46bd2dbdb5ea1b4684) | kw: 2026
+- **2026-07-01** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: 100
+
 - **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has it changed?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Tech
 - **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are Actually Asking Senior Engineers Instead](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: Dead
 - **2026-07-01** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: LeetCode

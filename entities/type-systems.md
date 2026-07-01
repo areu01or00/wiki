@@ -41,6 +41,8 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: inference
+
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Language
 - **2026-07-01** | [Static vs Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Dynamic
 - **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: types

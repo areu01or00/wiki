@@ -128,6 +128,7 @@
         "Work"
       ],
       "last_result_hashes": [
+        "ea6e5bcb8d506faaea620477605191d7",
         "23dccf78cf7ab50592e18a719ab77220",
         "694eafe5ed78cb746d62ba47e0492d7d",
         "bb2281be641c13c087b3bfd94faf2e29",
@@ -146,10 +147,9 @@
         "cbfa47470f26d1f20fb546857391dae9",
         "89a92316f41a5050a2cfe852301aaa2a",
         "8dadff570517dc4270ac037695cde56d",
-        "4384e21ab04f94bd31ae778eb8a02f5a",
-        "2baf71dbca0480fe91118f7db9610202"
+        "4384e21ab04f94bd31ae778eb8a02f5a"
       ],
-      "last_run": "2026-07-01T14:18:39.400044+00:00",
+      "last_run": "2026-07-01T14:33:45.505107+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 4
     },
@@ -283,6 +283,12 @@
         "developments"
       ],
       "last_result_hashes": [
+        "2e36db34c1a584712cd6f35f63aa33ba",
+        "86768d8752a6979c5c8cea02f676f762",
+        "79f4ddf873dbf67c746be2d871fbeb46",
+        "b4b1697fc63d5704d74c4c88d69cd644",
+        "266dbbfd9257fa64c8462f66ef2e902c",
+        "257b82021f6075fe2ba87fd6fa06d9bc",
         "7105bfcc3e636b79fcbb54c88c94f1b8",
         "6cfd3bf8197543310bb62b859ab44b2f",
         "0e5b105be67d2d11f3664ebcd5f1fad1",
@@ -296,15 +302,9 @@
         "f1925c0af6e39aa520ffa6a282ede525",
         "1382ef81b8b46a33f9229b1c7749d06f",
         "c7f41a3fcfb1432a2c8f4814cd11ad30",
-        "58a8198c4a5657fc48e1c5274def4d8e",
-        "969cd9654c8797a74badfbe8a94dde89",
-        "9b644d35647ec5b15b6745d588311c0b",
-        "fce3ed2a0159a574f4254aead98f48df",
-        "cce86a95c27c221910b49215668720b0",
-        "61993a57c9a4b84e9682a7158e47db24",
-        "8ab6f84eae9f2cb3a649d1902bca86c0"
+        "58a8198c4a5657fc48e1c5274def4d8e"
       ],
-      "last_run": "2026-07-01T14:18:39.400044+00:00",
+      "last_run": "2026-07-01T14:33:45.505129+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 10
     },
@@ -431,6 +431,7 @@
         "AGT"
       ],
       "last_result_hashes": [
+        "6c257d065a3041b16049b05a47e582ff",
         "0252b8777b2d55e7c510b57f349edc35",
         "8a08ccec47830b92ffbdd1aa70de4d27",
         "3957c9b5584def92bd0694435da48bf4",
@@ -449,10 +450,9 @@
         "16af5ba33eea9f9b6db255441ee2ad03",
         "29ff16a013639480476846321ab4599c",
         "ec0692c5e051bc908b94d68809732668",
-        "83fcabd225ef0467b1baf3fb99542e4b",
-        "b701fe0d605717120e72261e6b019507"
+        "83fcabd225ef0467b1baf3fb99542e4b"
       ],
-      "last_run": "2026-07-01T14:18:39.400044+00:00",
+      "last_run": "2026-07-01T14:33:45.505134+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 6
     },
@@ -517,7 +517,7 @@
         "without",
         "Borrowing",
         "Bring",
-        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
         "Monads Explained Without",
         "Laws",
         "lines",
@@ -576,6 +576,14 @@
         "Elixir"
       ],
       "last_result_hashes": [
+        "c38dcbed1cc31892345ff0a98364564f",
+        "269341708d555d5819da5ef32f81a574",
+        "a5f4c387d2ec205be1dbd8922dda23da",
+        "bab6dc04368dc487cd403e3a93312b56",
+        "480d402e9012f947099ff628259136e0",
+        "dd25820f790098fdc7dc382c38902ef4",
+        "df332d266a9393afd65af20ab5899d2a",
+        "0c082ec34d87f915fa337ac2f8540872",
         "8229635d8f380180c52db6c50609ea3f",
         "dbce4e6cdd1ef898baaf1e4d0f4b78a3",
         "2c6957e1f1d7ea7d57cfdd721fc5e962",
@@ -587,17 +595,9 @@
         "0f2d3172728b4c41fd9effec2767c946",
         "5aaddde029ff1604bf3a5332a980ff88",
         "ab1a401478bf91151df62818473f5ef5",
-        "2afa435e92e47b9f6d00b58b15c79f36",
-        "123ce1aeb419f14fadd1176672d1a63b",
-        "f806b99d6c88a0d1ff677fdb2892f61a",
-        "63a68c2b7252fb21470c8ffd8fbffe00",
-        "cc9f3837164b6e0e6edde576a14a1c3f",
-        "a726a94cf0af9bc5d97352717acc87e4",
-        "7c5087aba9be74c21a92f4c31b0e14d6",
-        "e0511b0cebd60248be88dd72d009b72c",
-        "7328024e78346ee8d9fe8f0931cb30ac"
+        "2afa435e92e47b9f6d00b58b15c79f36"
       ],
-      "last_run": "2026-07-01T14:18:39.400044+00:00",
+      "last_run": "2026-07-01T14:33:45.505138+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 10
     },
@@ -645,14 +645,14 @@
         "programming",
         "coding",
         "wikipedia",
-        "LeetCode Isn't Dead in 2026 — But It's No Longer Enough",
+        "LeetCode Isn't Dead in 2026 \u2014 But It's No Longer Enough",
         "word",
         "sedgewick",
         "topics",
         "Datastructures",
         "wayne",
         "prepare",
-        "datastructures-algorithms · GitHub Topics · GitHub",
+        "datastructures-algorithms \u00b7 GitHub Topics \u00b7 GitHub",
         "data-structures",
         "algorithm",
         "grind",
@@ -680,7 +680,7 @@
         "theory",
         "dynamic-programming",
         "Data Structures/Algorithms to go over the day of the test",
-        "data-structures · GitHub Topics · GitHub",
+        "data-structures \u00b7 GitHub Topics \u00b7 GitHub",
         "Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)",
         "How to Pass Leetcode Interviews: The Ritual That Works",
         "ashishps1",
@@ -730,6 +730,13 @@
         "These"
       ],
       "last_result_hashes": [
+        "867c193f14d86dba8e19be9953c4f21a",
+        "7d4a56009e609966d5ca545b08860211",
+        "51bdec45c83dc444c8040f8f04671877",
+        "1ff2c45205d19d05c322321f335f0949",
+        "8b3a80ae022167a98409b08c2dfb8694",
+        "53afc8b458c8c087f3014abd21812a77",
+        "5e88f6c01a27285ecd0ce1dd293a399e",
         "5e02bb10fe06fe048e2f6bbb19b9f089",
         "8d15aafde38b4f7003d03f97cfdf9d18",
         "7b86d151397bd3b26637162c987f0b1e",
@@ -742,16 +749,9 @@
         "97d6faca842ad78242996da77b1fa6b6",
         "754cab7730dfb42c656b55f7cba27e64",
         "104309f7e9293468d2f174ddf1891d8a",
-        "7827ab24e9d276e3b17d86a148741a99",
-        "09ba496b616b5669fa2b754644948f8b",
-        "5390b2c9e3987469be32a32aef653cad",
-        "efaca53a4fb3332a168f55b43aac804a",
-        "35f3793cac8b78d908e7f2d7bb34859d",
-        "6bb5f45745653c7264d8c29607bac581",
-        "ef1af1fbc0c1e07ce8058a7bb56a9c6d",
-        "2f06c97ec60cb9dfcc8aa79a6e5417be"
+        "7827ab24e9d276e3b17d86a148741a99"
       ],
-      "last_run": "2026-07-01T14:18:39.400044+00:00",
+      "last_run": "2026-07-01T14:33:45.505141+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 10
     },
@@ -881,6 +881,10 @@
         "Dive"
       ],
       "last_result_hashes": [
+        "69a9d904c88077426001079498f97d6a",
+        "1f8e2c92ae5ada27a41135077afa335d",
+        "8c9ba4cb5a5e5722f9c0bc68313672d7",
+        "1d2c3f7c79b6739381eda440cbb16a95",
         "a454e6bd90dd4ae1795224af7e27c1bb",
         "15a7206ce9d32c657cb866ee87f368ea",
         "4267214a3e558c4d98d146f1beba3d51",
@@ -896,13 +900,9 @@
         "31336ded29a2c13a42f4462d87a2462e",
         "110a8e788c45246e31c009a987e06458",
         "57d195fd70579cfd4bca806a93d7494b",
-        "64629fda4c4b5acfb0a374c8843caaf1",
-        "57c085892adfb8eb151771c2479e369a",
-        "952e4cdd85ea50368b5178492a0c873c",
-        "1cf455284bb0983215069efb06784c61",
-        "a05bb00b6f0691fcd51f6a31994cfe87"
+        "64629fda4c4b5acfb0a374c8843caaf1"
       ],
-      "last_run": "2026-07-01T14:18:39.400044+00:00",
+      "last_run": "2026-07-01T14:33:45.505144+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 9
     },
@@ -1761,7 +1761,10 @@
         "fd22045d1f87ba2c63c754333b1cd99c",
         "fe0fb6dcca6404aa65de4902fae9441e",
         "fefba0eb4dbab31b06e196c9267c380e",
-        "ff1e8b3ddd9f61bb37ed1663c658a1e1"
+        "ff1e8b3ddd9f61bb37ed1663c658a1e1",
+        "a71dec3bbcc25640281ed213e46095e4",
+        "2d2d8c7cd88bdf86d22ed1ef00d672b7",
+        "278ffc2f53197862d21e23591722a9f2"
       ],
       "last_results": [
         {
@@ -2717,7 +2720,7 @@
           "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
           "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+          "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
           "hash": "7ab36c943c7ed17c0f69721152af09fe"
         },
         {
@@ -2725,7 +2728,7 @@
           "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
           "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+          "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
           "hash": "446988809068c935fed05a57aff202ec"
         },
         {
@@ -2733,7 +2736,7 @@
           "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
           "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+          "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
           "hash": "57e85705a7bf5bf397116e1cd3ef9c15"
         },
         {
@@ -3101,7 +3104,7 @@
           "slug": "discretizing-reward-models-2606.21795",
           "discovered_run": 59,
           "timestamp": "2026-06-26T06:54:00+00:00",
-          "source": "web_search escape hatch (rotated template — reasoning/control+safety+training-data+inference-eff axes)"
+          "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
         },
         {
           "arxiv_id": "2606.18967",
@@ -3650,7 +3653,7 @@
         },
         {
           "arxiv_id": "2603.12953",
-          "title": "Delta1 with LLM: Symbolic–Neural Integration for Credible and Explainable Reasoning",
+          "title": "Delta1 with LLM: Symbolic\u2013Neural Integration for Credible and Explainable Reasoning",
           "hash": "1dfdf04ec74df9f1c4a6cde1651675e9",
           "vector": "emergent",
           "chain": "emergent-concepts",
@@ -4763,7 +4766,7 @@
         },
         {
           "arxiv_id": "2603.04948",
-          "title": "∇-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
+          "title": "\u2207-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
           "hash": "989d4c22ddd8a05da91e3ba5dc015628",
           "vector": "emergent",
           "chain": "emergent-concepts",
@@ -6323,6 +6326,39 @@
           "slug": "prism-planning-and-reasoning-with-intent-in-simulated-embodied-environments-2605.11534",
           "online_date": "2026-05-12",
           "run_number": 282
+        },
+        {
+          "arxiv_id": "2606.21740",
+          "title": "Training the Orchestrator: A Supervised Approach to End-to-end PDDL Planning with LLM Agents",
+          "hash": "a71dec3bbcc25640281ed213e46095e4",
+          "vector": "emergent_concept_search",
+          "theme": "llm-agent planning / supervised orchestrator / pddl",
+          "discovered": "2026-07-01T14:30:00+00:00",
+          "slug": "training-the-orchestrator-a-supervised-approach-to-end-to-end-2606.21740",
+          "online_date": "2026-06-19",
+          "run_number": 283
+        },
+        {
+          "arxiv_id": "2606.22485",
+          "title": "VADAOrchestra: Neurosymbolic Orchestration of Adaptive Reasoning Workflows",
+          "hash": "2d2d8c7cd88bdf86d22ed1ef00d672b7",
+          "vector": "emergent_concept_search",
+          "theme": "neurosymbolic orchestration / adaptive reasoning / bpm",
+          "discovered": "2026-07-01T14:30:00+00:00",
+          "slug": "vadaorchestra-neurosymbolic-orchestration-of-adaptive-reasoning-workflows-2606.22485",
+          "online_date": "2026-06-21",
+          "run_number": 283
+        },
+        {
+          "arxiv_id": "2606.31169",
+          "title": "Beyond Single Character: Evaluating MLLMs for Sentence-Level Oracle Bone Inscription Understanding",
+          "hash": "278ffc2f53197862d21e23591722a9f2",
+          "vector": "emergent_concept_search",
+          "theme": "multimodal llm / cultural heritage / benchmark evaluation",
+          "discovered": "2026-07-01T14:30:00+00:00",
+          "slug": "beyond-single-character-evaluating-mllms-for-sentence-level-oracle-2606.31169",
+          "online_date": "2026-06-30",
+          "run_number": 283
         }
       ],
       "last_run": "2026-07-01T14:30:00.000000+00:00",
@@ -8056,7 +8092,10 @@
     "fd22045d1f87ba2c63c754333b1cd99c",
     "fe0fb6dcca6404aa65de4902fae9441e",
     "fefba0eb4dbab31b06e196c9267c380e",
-    "ff1e8b3ddd9f61bb37ed1663c658a1e1"
+    "ff1e8b3ddd9f61bb37ed1663c658a1e1",
+    "a71dec3bbcc25640281ed213e46095e4",
+    "2d2d8c7cd88bdf86d22ed1ef00d672b7",
+    "278ffc2f53197862d21e23591722a9f2"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -8920,7 +8959,10 @@
       "2606.31073",
       "2606.31046",
       "2601.18292",
-      "2606.09461"
+      "2606.09461",
+      "2606.21740",
+      "2606.22485",
+      "2606.31169"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "2026-07-02 00:00 UTC",
@@ -8955,7 +8997,7 @@
         "slug": "discretizing-reward-models-2606.21795",
         "discovered_run": 59,
         "timestamp": "2026-06-26T06:54:00+00:00",
-        "source": "web_search escape hatch (rotated template — reasoning/control+safety+training-data+inference-eff axes)"
+        "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
       },
       {
         "arxiv_id": "2606.18967",
@@ -9064,7 +9106,7 @@
     ],
     "last_pass_type": "emergent-concept",
     "updated_at": "2026-06-29T12:30:00+00:00",
-    "last_run_framing": "Run 102 — INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 — FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
+    "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
     "last_run_added": 3,
     "last_explore": "2026-06-29T13:30:00+00:00",
     "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
@@ -9140,7 +9182,7 @@
       "discovered": "2026-07-01T19:30:00+00:00"
     }
   ],
-  "last_run_framing": "Run 102 — INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 — FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
+  "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
   "updated": "2026-07-01 03:34 UTC",
   "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
   "last_run_added": 3

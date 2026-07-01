@@ -33,6 +33,13 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: JIT
+- **2026-07-01** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: Minimal
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: in
+- **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: LLVM
+- **2026-07-01** | [2017 LLVM Developers' Meeting: M. Zolotukhin "LLVM Compile-Time...](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: LLVM
+- **2026-07-01** | [Mono LLVM | Mono](https://www.mono-project.com/docs/advanced/mono-llvm/) | kw: LLVM
+
 - **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: Compiler
 - **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: llvm
 - **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Compilation

@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 283: Orchestrator Training / Neurosymbolic Workflow / MLLM Cultural Heritage Reasoning
+
+- [[beyond-single-character-evaluating-mllms-for-sentence-level-oracle-2606.31169]]
+  Beyond Single Character / S-OBI: First sentence-level MLLM benchmark for Oracle Bone Inscription — tests long-form coherence and contextual dependencies across multiple characters, moving beyond character-level recognition to meaning-level historical reasoning. **First cultural-heritage multimodal benchmark in wiki.**
+
+- [[vadaorchestra-neurosymbolic-orchestration-of-adaptive-reasoning-workflows-2606.22485]]
+  VADAOrchestra: Neurosymbolic orchestration bridging BPM rigor (determinism, auditability) with LLM flexibility — runtime-adaptive reasoning workflows where action course evolves with new context. **First neurosymbolic adaptive reasoning orchestration paper in wiki.**
+
+- [[training-the-orchestrator-a-supervised-approach-to-end-to-end-2606.21740]]
+  HALO Orchestrator Training: Supervised learning for LLM-agent orchestrator using PDDL planning traces — replaces costly per-step frontier LLM calls with a lightweight learned policy, retaining classical planner for sound verification. **First supervised orchestrator training via PDDL traces in wiki.**
+
 ### 2026-07-01 — Run 282: CoT Bias-Mechanistic / Multi-Agent Scaling / Embodied Agent Module Diagnostics
 
 - [[mechanics-of-bias-and-reasoning-interpreting-the-impact-of-chain-of-thought-prompting-on-gender-bias-in-llms-2605.20410]]

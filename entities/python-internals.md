@@ -3943,6 +3943,11 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [PyPI · The Python Package Index](https://pypi.org/) | kw: ·
+- **2026-07-01** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: Python
+- **2026-07-01** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: Operators
+- **2026-07-01** | [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) | kw: to
+
 - **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Free
 - **2026-07-01** | [Memory Management - Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: Python
 - **2026-07-01** | [How Pythons GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: GIL
