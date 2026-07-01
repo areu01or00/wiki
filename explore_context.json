@@ -8650,6 +8650,33 @@
       "url": "https://arxiv.org/abs/2606.23716",
       "vector": "emergent-concept",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.04465",
+      "slug": "sepo-self-evolving-prompt-agent-for-system-prompt-optimization-2606.04465",
+      "title": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization",
+      "url": "https://arxiv.org/abs/2606.04465",
+      "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "discovered": "2026-07-01T18:15:00"
+    },
+    {
+      "arxiv_id": "2606.26173",
+      "slug": "alg-evolv-llm-driven-meta-evolution-algorithmic-trading-programs-2606.26173",
+      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "url": "https://arxiv.org/abs/2606.26173",
+      "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "discovered": "2026-07-01T18:15:00"
+    },
+    {
+      "arxiv_id": "2606.07342",
+      "slug": "llm-guided-evolution-for-medical-decision-pipelines-2606.07342",
+      "title": "LLM-Guided Evolution for Medical Decision Pipelines",
+      "url": "https://arxiv.org/abs/2606.07342",
+      "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "discovered": "2026-07-01T18:15:00"
     }
   ],
   "emergent_discoveries": [
@@ -15305,6 +15332,30 @@
       "theme": "legal-benchmark-gap",
       "run_number": 295,
       "rule": "Rule 36h PROBE-AXIS: domain-specific reasoning (legal)"
+    },
+    {
+      "arxiv_id": "2606.04465",
+      "title": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization",
+      "slug": "sepo-self-evolving-prompt-agent-for-system-prompt-optimization-2606.04465",
+      "url": "https://arxiv.org/abs/2606.04465",
+      "discovered": "2026-07-01T18:15:00",
+      "theme": "self-referential prompt evolution / LLM-guided evolutionary domain adaptation"
+    },
+    {
+      "arxiv_id": "2606.26173",
+      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "slug": "alg-evolv-llm-driven-meta-evolution-algorithmic-trading-programs-2606.26173",
+      "url": "https://arxiv.org/abs/2606.26173",
+      "discovered": "2026-07-01T18:15:00",
+      "theme": "self-referential prompt evolution / LLM-guided evolutionary domain adaptation"
+    },
+    {
+      "arxiv_id": "2606.07342",
+      "title": "LLM-Guided Evolution for Medical Decision Pipelines",
+      "slug": "llm-guided-evolution-for-medical-decision-pipelines-2606.07342",
+      "url": "https://arxiv.org/abs/2606.07342",
+      "discovered": "2026-07-01T18:15:00",
+      "theme": "self-referential prompt evolution / LLM-guided evolutionary domain adaptation"
     }
   ],
   "emergent_concept_search_log": [
@@ -18273,6 +18324,16 @@
       ],
       "framing": "Strategy vs Phrasing Diversity / Agent-Vulnerability Communication / Diffusion RL-Distillation Interaction",
       "query_axes": "instruction-tuning / SFT-vs-RLHF / domain-specific-reasoning (legal/medical)"
+    },
+    {
+      "run": 296,
+      "date": "2026-07-01T18:15:00",
+      "theme": "self-referential prompt evolution / LLM-guided evolutionary domain adaptation",
+      "papers": [
+        "2606.04465",
+        "2606.26173",
+        "2606.07342"
+      ]
     }
   ],
   "runs": [
@@ -19996,6 +20057,19 @@
       "method": "arxiv HTML 4-query instruction tuning / legal reasoning / knowledge distillation + LLM-keyword filter + abstract inspection",
       "framing": "Rule 36h PROBE-AXIS: instruction-tuning / SFT-vs-RLHF / domain-specific reasoning (legal) \u2014 first PROBE-AXIS use on instruction-tuning axis",
       "notes": "arxiv HTML search 4-query (51 IDs, 45 fresh, 35 LLM-keyword, 3 picked) \u2014 Rule 36h PROBE-AXIS continuation: instruction-tuning + domain-specific reasoning + knowledge-distillation"
+    },
+    {
+      "run_number": 296,
+      "run_date": "2026-07-01T18:15:00",
+      "theme": "self-referential prompt evolution / LLM-guided evolutionary domain adaptation (Rule 36c: deep-sub-cluster within prompt-engineering)",
+      "last_run_framing": "Rule 36c deep-sub-cluster rotation: SePO (self-referential prompt optimization) + AlgoEvolve (LLM-guided evolution for domain adaptation) + LLM-Guided Evolution Medical. Orthogonal to Runs 292-295 (continual-learning, calibration/uncertainty, reasoning-diversity, instruction-tuning). Picks share self-improvement via evolutionary mechanisms but span different domains (NLP prompts, financial trading, medical pipelines).",
+      "papers_found": [
+        "2606.04465",
+        "2606.26173",
+        "2606.07342"
+      ],
+      "vector_type": "emergent-concept",
+      "status": "complete"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 296: Self-Referential Prompt Evolution / LLM-Guided Evolutionary Domain Adaptation (Rule 36c: deep-sub-cluster rotation within prompt-engineering)
+
+- [[alg-evolv-llm-driven-meta-evolution-algorithmic-trading-programs-2606.26173]]
+  [AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs](https://arxiv.org/abs/2606.26173) — Sharma, Dhruv; Shroff, Gautam — first application of LLM-as-semantic-mutation-operator to non-stationary, noisy financial domain, demonstrating evolutionary discovery of adaptive trading strategies that outperform static code baselines in changing market conditions. **First LLM-driven meta-evolution paper applied to algorithmic trading in wiki.**
+
+- [[llm-guided-evolution-for-medical-decision-pipelines-2606.07342]]
+  [LLM-Guided Evolution for Medical Decision Pipelines](https://arxiv.org/abs/2606.07342) — Sviridov, Ivan; Oskin, Artem; Panin, Ivan + 4 — first application of LLM-guided MAP-Elites evolution to clinical decision pipelines, replacing costly fine-tuning with inference-time evolutionary search over pipeline configurations guided by LLM feedback. **First LLM-guided MAP-Elites paper for medical decision pipelines in wiki.**
+
+- [[sepo-self-evolving-prompt-agent-for-system-prompt-optimization-2606.04465]]
+  [SePO: Self-Evolving Prompt Agent for System Prompt Optimization](https://arxiv.org/abs/2606.04465) — Tao, Wangcheng; Wu, Han; Wong, Weng-Fai — first framework where the prompt optimization agent treats its own system prompt as learnable, enabling self-referential evolutionary improvement of the meta-level prompt agent itself without gradient access. **First self-referential prompt optimization loop (prompt agent improving its own instructions) in wiki.**
+
 ### 2026-07-01 — Run 295: Instruction-Tuning Data Selection / Legal-Benchmark Gap / Task-Specific Distillation Scaling
 
 - [[online-data-selection-for-instruction-tuning-via-gaussian-processes-2606.30077]]
