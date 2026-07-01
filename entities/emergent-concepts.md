@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 259) — DELEGATED AI GOVERNANCE / ACTIVATION STEERING PREDICTION / SEMANTIC CONSTRAINT EVALUATION**
+
+- [[minimal-oversight-uncertainty-aware-governance-for-delegated-ai-systems-2606.15563]]
+  Minimal Oversight: First-principles governance framework (MSO — Minimum Sufficient Oversight) for AI systems that delegate decisions to specialized models. Fisher information manifold, water-filling delegation allocation, masking-as-governance-pathology. First principled delegation-governance framework in the wiki. Cross-ref: [[worldevolver-self-evolving-world-models-for-llm-agent-planning-2606.30639]], [[what-intermediate-layers-know-detecting-jailbreaks-from-entropy-dynamics-2606.25182]].
+
+- [[when-is-your-llm-steerable-2606.11599]]
+  When is Your LLM Steerable?: ASTEER testbed (1.4M steered generations, 150 concepts) for predicting activation steering success from early hidden-state dynamics. GBDT achieves ~0.7 macro-F1 without full rollout. First predict-steering-from-early-states paper in the wiki. Cross-ref: [[minimal-oversight-uncertainty-aware-governance-for-delegated-ai-systems-2606.15563]], [[what-intermediate-layers-know-detecting-jailbreaks-from-entropy-dynamics-2606.25182]].
+
+- [[evaluating-llm-personalization-via-semantic-constraint-verification-2606.16368]]
+  NLICV: Semantic constraint verification for LLM personalization evaluation via NLI model. Four-mode taxonomy (personalization / generalization / sycophancy / failure). 2100x faster than LLM-as-judge. First semantic-NLI-based personalization evaluation paper in the wiki. Cross-ref: [[when-is-your-llm-steerable-2606.11599]], [[agents-last-exam-2606.05405]], [[counsel-a-meta-evaluation-dataset-for-agentic-tasks-2606.21627]].
+
 **2026-07-01 — Run 258) — NEUROSYMBOLIC WORLD MODELS / UNCERTAINTY QUANTIFICATION / ERROR PREDICTION AMBIGUITY**
 
 - [[cristal-method-neurosymbolic-analysis-ai-synthesized-world-models-2606.29799]]

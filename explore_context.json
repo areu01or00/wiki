@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T05:00:00.000000+00:00",
   "__last_updated": "2026-07-02T00:00:00.000000+00:00",
-  "last_run": 258,
-  "last_explore": "2026-07-01T06:18:02+00:00",
+  "last_run": 259,
+  "last_explore": "2026-07-01T06:45:00+00:00",
   "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "NEUROSYMBOLIC WORLD MODELS / UNCERTAINTY QUANTIFICATION / ERROR PREDICTION AMBIGUITY",
+  "last_run_framing": "DELEGATED AI GOVERNANCE / ACTIVATION STEERING PREDICTION / SEMANTIC CONSTRAINT EVALUATION",
   "last_framing": "binary-question llm evaluation / experiential rule-policy joint learning / smooth safe rl policy composition",
-  "last_run_notes": "Run 258: 2606.29799 / 2606.03846 / 2606.02093",
+  "last_run_notes": "Run 259: 2606.15563 / 2606.11599 / 2606.16368",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search + web_search refinement",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 787,
+  "entities_count": 790,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -13670,6 +13670,30 @@
       "url": "https://arxiv.org/abs/2606.02093",
       "discovered": "2026-07-01",
       "theme": "neurosymbolic / uncertainty quantification"
+    },
+    {
+      "arxiv_id": "2606.15563",
+      "title": "Minimal Oversight: Uncertainty-Aware Governance for Delegated AI Systems",
+      "slug": "minimal-oversight-uncertainty-aware-governance-for-delegated-ai-systems-2606.15563",
+      "url": "https://arxiv.org/abs/2606.15563",
+      "discovered": "2026-07-01T06:45:00+00:00",
+      "theme": "delegated AI governance / uncertainty-aware delegation / MSO principle"
+    },
+    {
+      "arxiv_id": "2606.11599",
+      "title": "When is Your LLM Steerable?",
+      "slug": "when-is-your-llm-steerable-2606.11599",
+      "url": "https://arxiv.org/abs/2606.11599",
+      "discovered": "2026-07-01T06:45:00+00:00",
+      "theme": "activation steering prediction / early hidden-state dynamics / ASTEER testbed"
+    },
+    {
+      "arxiv_id": "2606.16368",
+      "title": "Evaluating LLM Personalization via Semantic Constraint Verification",
+      "slug": "evaluating-llm-personalization-via-semantic-constraint-verification-2606.16368",
+      "url": "https://arxiv.org/abs/2606.16368",
+      "discovered": "2026-07-01T06:45:00+00:00",
+      "theme": "LLM personalization evaluation / NLI semantic constraint / four-mode taxonomy"
     }
   ],
   "emergent_concept_search_log": [
@@ -17798,6 +17822,18 @@
       "theme": "neurosymbolic / uncertainty quantification / error prediction ambiguity",
       "date": "2026-07-01",
       "papers_added": 3
+    },
+    {
+      "run": 259,
+      "date": "2026-07-01T06:45:00+00:00",
+      "theme": "DELEGATED AI GOVERNANCE / ACTIVATION STEERING PREDICTION / SEMANTIC CONSTRAINT EVALUATION",
+      "picks": [
+        "2606.15563",
+        "2606.11599",
+        "2606.16368"
+      ],
+      "method": "arxiv HTML search + abstract inspection + orthogonality check",
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
