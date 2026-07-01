@@ -33,6 +33,14 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
+- **2026-07-01** | [1. Building a JIT: Starting out with... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: compilers
+- **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: compilers
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: compilers
+- **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: compilers
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+
 - **2026-07-01** | [Building a JIT Per-function Lazy - LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: compilers
 - **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: compilers
 - **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers

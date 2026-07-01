@@ -31,6 +31,14 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional-programming
+- **2026-07-01** | [State Monads in Haskell - Stack Overflow](https://stackoverflow.com/questions/10237072/state-monads-in-haskell) | kw: functional-programming
+- **2026-07-01** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | kw: functional-programming
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional-programming
+- **2026-07-01** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional-programming
+- **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: functional-programming
+- **2026-07-01** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: functional-programming
+
 - **2026-07-01** | [Functional Programming in 2026 Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional programming
 - **2026-07-01** | [The Practical Value of Functional Programming Monad Functor Pure](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional programming
 - **2026-07-01** | [Haskell Guide 2026 Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional programming

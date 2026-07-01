@@ -3943,6 +3943,15 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python-internals
+- **2026-07-01** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: python-internals
+- **2026-07-01** | [PyPI · The Python Package Index](https://pypi.org/) | kw: python-internals
+- **2026-07-01** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: python-internals
+- **2026-07-01** | [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/) | kw: python-internals
+- **2026-07-01** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: python-internals
+- **2026-07-01** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: python-internals
+- **2026-07-01** | [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) | kw: python-internals
+
 - **2026-07-01** | [Python programming language Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python internals
 - **2026-07-01** | [Welcome to Python.org](https://www.python.org/) | kw: python internals
 - **2026-07-01** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: python internals

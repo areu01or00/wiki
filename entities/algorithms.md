@@ -4117,6 +4117,15 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-01** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: algorithms
+- **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: algorithms
+- **2026-07-01** | [#leetcode #codinginterview #softwareengineering #datastructures...](https://www.linkedin.com/posts/aryan-raj-dev_leetcode-codinginterview-softwareengineering-activity-7465991876924428288-XhIQ) | kw: algorithms
+- **2026-07-01** | [datastructures-algorithms · GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-07-01** | [LeetCode Review | Will LeetCode Make You A Better Coder?](https://thecodebytes.com/leetcode-review/) | kw: algorithms
+- **2026-07-01** | [Interview Coder - AI Interview Assistant for Technical Interviews](https://www.interviewcoder.co/) | kw: algorithms
+
 - **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
 - **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: algorithms
 - **2026-07-01** | [datastructures-algorithms GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
