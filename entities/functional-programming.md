@@ -31,6 +31,12 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional (mathematics) - Wikipedia
+- **2026-07-01** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: FUNCTIONAL Definition & Meaning - Merria
+- **2026-07-01** | [FUNCTIONAL Synonyms: 118 Similar and Opposite Words](https://www.merriam-webster.com/thesaurus/functional) | kw: FUNCTIONAL Synonyms: 118 Similar and Opp
+- **2026-07-01** | [FUNCTIONAL | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/functional) | kw: FUNCTIONAL
+- **2026-07-01** | [Portland's Functional & Regenerative Medicine Clinic | FoRM...](https://formhealthpdx.com/) | kw: Portland's Functional & Regenerative Med
+
 - **2026-07-01** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional programming monads haskell rust 2026
 - **2026-07-01** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional programming monads haskell rust 2026
 - **2026-07-01** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional programming monads haskell rust 2026

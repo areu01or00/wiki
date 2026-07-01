@@ -41,6 +41,12 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: Learn to Type
+- **2026-07-01** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: Monkeytype
+- **2026-07-01** | [Learn Touch Typing Free - TypingClub](http://www.typingclub.com/) | kw: Learn Touch Typing Free - TypingClub
+- **2026-07-01** | [Typing Lessons - Learn To Type And Improve Typing Speed Free](https://www.typing.com/student/lessons) | kw: Typing Lessons - Learn To Type And Impro
+- **2026-07-01** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: TypingTest.com - Complete a Typing Test 
+
 - **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems gradual typing type inference 2026
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type systems gradual typing type inference 2026
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type systems gradual typing type inference 2026

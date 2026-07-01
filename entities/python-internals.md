@@ -3943,6 +3943,12 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Global interpreter lock - Wikipedia](https://en.wikipedia.org/wiki/Global_interpreter_lock) | kw: Global interpreter lock - Wikipedia
+- **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter Lo
+- **2026-07-01** | [GlobalInterpreterLock](https://wiki.python.org/moin/GlobalInterpreterLock) | kw: GlobalInterpreterLock
+- **2026-07-01** | [Free-Threaded Django Apps in 2026: ThreadPoolRouter + No-GIL...](https://medium.com/@yogeshkrishnanseeniraj/free-threaded-django-apps-in-2026-threadpoolrouter-no-gil-wins-for-background-tasks-real-prod-7fa17d3e6103) | kw: Free-Threaded Django Apps in 2026: Threa
+- **2026-07-01** | [Python 3.13 Free-Threaded Mode: Removing the GIL and...](https://zeonedge.com/blog/python-313-free-threaded-mode-gil-removal-performance) | kw: Python 3.13 Free-Threaded Mode: Removing
+
 - **2026-07-01** | [Python - Python Internals: Memory Management & the Global Interpreter ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python internals GIL memory management 2026
 - **2026-07-01** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Python internals GIL memory management 2026
 - **2026-07-01** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python internals GIL memory management 2026
