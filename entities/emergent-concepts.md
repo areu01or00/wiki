@@ -18,6 +18,19 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 284: Domain-Benchmark / KV-Cache Quantization / Epistemic Safety
+
+- [[rabitqcache-rotated-binary-quantization-for-kvcache-in-long-context-llm-inference-2606.31519]]
+  RaBitQCache: Randomized rotate-and-quantize binary KVCache compression for long-context LLM inference — addresses memory bottleneck of massive KVCache with rotated binary quantization that avoids static Top-k limitations. **First rotated-binary-KVCache quantization paper in wiki.**
+
+- [[can-ai-reason-like-an-urban-planner-benchmarking-large-language-models-against-professional-judgment-2606.11678]]
+  UPBench: Domain-specific professional-reasoning benchmark (urban planning × Bloom's taxonomy 4×5 matrix) — first systematic test of LLM replication of expert human judgment vs. statistical token generation. **First domain-professional-reasoning benchmark in wiki.**
+
+- [[agentic-safety-is-an-epistemic-property-not-a-behavioral-one-2606.28347]]
+  Agentic Safety Epistemics: Reframes AI safety as epistemic property of belief states, not behavioral snapshots — addresses the gap in RLHF/alignment pipelines for dynamic, self-improving agents. **First epistemic-safety-reframing paper in wiki.**
+
+
+
 ### 2026-07-01 — Run 283: Orchestrator Training / Neurosymbolic Workflow / MLLM Cultural Heritage Reasoning
 
 - [[beyond-single-character-evaluating-mllms-for-sentence-level-oracle-2606.31169]]

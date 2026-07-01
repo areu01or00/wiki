@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T14:30:00.000000+00:00",
   "__last_updated": "2026-07-01T14:30:00.000000+00:00",
-  "last_run": 283,
-  "last_explore": "2026-07-01T14:30:00.000000+00:00",
-  "last_global_explore": "2026-07-01T14:30:00.000000+00:00",
+  "last_run": 284,
+  "last_explore": "2026-07-01T14:50:00.000000+00:00",
+  "last_global_explore": "2026-07-01T14:50:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "Orchestrator Training / Neurosymbolic Workflow / MLLM Cultural Heritage Reasoning",
-  "last_framing": "CHAIN-OF-THOUGHT DECONSTRUCTION / ALGORITHM SCHEDULING / TRAJECTORY STEERING",
-  "last_run_notes": "Run 283: 2606.31169 / 2606.22485 / 2606.21740",
+  "last_run_framing": "Domain-Benchmark / KV-Cache Quantization / Epistemic Safety",
+  "last_framing": "DOMAIN-SPECIFIC BENCHMARK / KV-CACHE BINARY QUANTIZATION / SAFETY AS EPISTEMIC PROPERTY",
+  "last_run_notes": "Run 284: 2606.31519 / 2606.11678 / 2606.28347",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search (Rule 36b probe-axis); 4-query arxiv HTML + web_search; 22 fresh LLM candidates from 29 total after 5-store dedup",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "chain-of-thought deconstruction / algorithm scheduling / reasoning trajectory steering",
   "emergent_theme": "chain-of-thought deconstruction / algorithm scheduling / reasoning trajectory steering",
   "chains_updated": 0,
-  "entities_count": 862,
+  "entities_count": 865,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8299,6 +8299,33 @@
       "discovered": "2026-07-01T14:30:00+00:00",
       "chain": "emergent-concepts",
       "date": "2026-06-19"
+    },
+    {
+      "arxiv_id": "2606.31519",
+      "slug": "rabitqcache-rotated-binary-quantization-for-kvcache-in-long-context-llm-inference-2606.31519",
+      "title": "RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference",
+      "url": "https://arxiv.org/abs/2606.31519",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T14:50:00+00:00",
+      "theme": "inference efficiency / KVCache binary quantization"
+    },
+    {
+      "arxiv_id": "2606.11678",
+      "slug": "can-ai-reason-like-an-urban-planner-benchmarking-large-language-models-against-professional-judgment-2606.11678",
+      "title": "Can AI Reason Like an Urban Planner? Benchmarking Large Language Models Against Professional Judgment",
+      "url": "https://arxiv.org/abs/2606.11678",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T14:50:00+00:00",
+      "theme": "domain-specific reasoning benchmark / urban planning"
+    },
+    {
+      "arxiv_id": "2606.28347",
+      "slug": "agentic-safety-is-an-epistemic-property-not-a-behavioral-one-2606.28347",
+      "title": "Agentic Safety is an Epistemic Property, Not a Behavioral One",
+      "url": "https://arxiv.org/abs/2606.28347",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T14:50:00+00:00",
+      "theme": "safety alignment / epistemic reframing"
     }
   ],
   "emergent_discoveries": [
@@ -14660,6 +14687,30 @@
       "url": "https://arxiv.org/abs/2606.21740",
       "discovered": "2026-07-01T14:30:00+00:00",
       "theme": "llm-agent planning / supervised orchestrator / pddl"
+    },
+    {
+      "arxiv_id": "2606.31519",
+      "title": "RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference",
+      "slug": "rabitqcache-rotated-binary-quantization-for-kvcache-in-long-context-llm-inference-2606.31519",
+      "url": "https://arxiv.org/abs/2606.31519",
+      "discovered": "2026-07-01T14:50:00+00:00",
+      "theme": "inference efficiency / KVCache binary quantization"
+    },
+    {
+      "arxiv_id": "2606.11678",
+      "title": "Can AI Reason Like an Urban Planner? Benchmarking Large Language Models Against Professional Judgment",
+      "slug": "can-ai-reason-like-an-urban-planner-benchmarking-large-language-models-against-professional-judgment-2606.11678",
+      "url": "https://arxiv.org/abs/2606.11678",
+      "discovered": "2026-07-01T14:50:00+00:00",
+      "theme": "domain-specific reasoning benchmark / urban planning"
+    },
+    {
+      "arxiv_id": "2606.28347",
+      "title": "Agentic Safety is an Epistemic Property, Not a Behavioral One",
+      "slug": "agentic-safety-is-an-epistemic-property-not-a-behavioral-one-2606.28347",
+      "url": "https://arxiv.org/abs/2606.28347",
+      "discovered": "2026-07-01T14:50:00+00:00",
+      "theme": "safety alignment / epistemic reframing"
     }
   ],
   "emergent_concept_search_log": [
@@ -19169,6 +19220,19 @@
       ],
       "theme": "orchestrator training / neurosymbolic workflow / multimodal cultural heritage",
       "method": "arxiv HTML search + web_search probe (Rule 36b probe-axis); HF daily DNS failure escalated immediately to web_search"
+    },
+    {
+      "run_number": 284,
+      "date": "2026-07-01",
+      "theme": "Domain-Benchmark / KV-Cache Quantization / Epistemic Safety",
+      "framing": "DOMAIN-SPECIFIC BENCHMARK / KV-CACHE BINARY QUANTIZATION / SAFETY AS EPISTEMIC PROPERTY",
+      "papers_added": [
+        "2606.31519",
+        "2606.11678",
+        "2606.28347"
+      ],
+      "total_papers": 764,
+      "notes": "Run 284: HF DNS failure (Name/service not known) \u2014 escalated to web_search primary; 4-query web_search surfaced 7 fresh LLM candidates from 13 candidates after 5-store dedup; picked 3 structurally orthogonal: domain-benchmark / KVCache / epistemic-safety"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
