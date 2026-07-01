@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://www.elixir-lang.org/blog/2024/09/01/elixir-v1-20-released/) | kw: elixir v1.20
+- **2026-07-01** | [Static Blame for gradual typing](https://cs.brown.edu/~max/people.html) | kw: static blame
+- **2026-07-01** | [Luau · GitHub](https://github.com/luau-lang/luau) | kw: luau github
+- **2026-07-01** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2352226724000060) | kw: gradual type
+
 - **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating
 - **2026-07-01** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type
 - **2026-07-01** | [Enhancing Deep Type Inference Using Dynamic Analysis for Python](https://dl.acm.org/doi/10.1145/3771544) | kw: enhancing

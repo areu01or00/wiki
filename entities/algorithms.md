@@ -4085,6 +4085,8 @@
 
 
 ## Updates
+- **2026-07-01** | [2026 DSA Master Cheat Sheet for Coding Interviews - LinkedIn](https://www.linkedin.com/posts/veerendra-manvi_dsa-datastructures-algorithms-activity-7476243600125882368-Kr9Z) | kw: master cheat
+
 - **2026-07-01** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: rethinking
 - **2026-07-01** | [Google 2026 Interview Preparation - Complete Weekly Roadmap](https://gist.github.com/carefree-ladka/6d1722421f9e1e46bd2dbdb5ea1b4684) | kw: google
 - **2026-07-01** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: top
