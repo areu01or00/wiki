@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T22:00:00.000000+00:00",
+  "updated": "2026-07-02T00:50:00.000000+00:00",
   "__last_updated": "2026-07-01T20:00:00.000000+00:00",
-  "last_run": 305,
-  "last_explore": "2026-07-02T00:38:00.000000+00:00",
-  "last_global_explore": "2026-07-02T00:38:00.000000+00:00",
-  "last_discovery": "Safety-Mechanisms / Red-Teaming / Alignment Floor",
-  "last_run_framing": "Safety-Mechanisms / Red-Teaming / Alignment Floor",
+  "last_run": 306,
+  "last_explore": "2026-07-02T00:50:00.000000+00:00",
+  "last_global_explore": "2026-07-02T00:50:00.000000+00:00",
+  "last_discovery": "Narrative-Safety / Uncertainty-Aware Ranking / Future-Aware Guardrails",
+  "last_run_framing": "Narrative-Safety / Uncertainty-Aware Ranking / Future-Aware Guardrails",
   "last_framing": "DIVERSITYAGENTDIFFUSION",
-  "last_run_notes": "Run 305: 2606.31227, 2606.24589, 2605.27382",
+  "last_run_notes": "Run 306: 2606.28981, 2606.13737, 2605.29395",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "Rule 36h PROBE-AXIS: safety-mechanisms + scientific-AI-automation",
+  "last_run_method": "Rule 36h PROBE-AXIS: narrative-alignment + uncertainty-calibration + streaming-guardrails",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
   "chains_updated": 0,
-  "entities_count": 928,
+  "entities_count": 931,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8911,6 +8911,33 @@
       "chain": "emergent-concepts",
       "theme": "safety-mechanisms / red-teaming / alignment-floor",
       "discovered": "2026-07-01T20:32:53+00:00"
+    },
+    {
+      "arxiv_id": "2606.28981",
+      "slug": "bad-company-corrupts-good-morals-understanding-and-measuring-narrative-induced-m-2606.28981",
+      "title": "Bad company corrupts good morals: Understanding and Measuring Narrative-Induced Moral Reasoning Degradation in LLMs",
+      "url": "https://arxiv.org/abs/2606.28981",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-02T00:50:00+00:00",
+      "theme": "safety-mechanisms / narrative-alignment / moral-corruption"
+    },
+    {
+      "arxiv_id": "2606.13737",
+      "slug": "freostreamenhancing-stream-guardrails-via-future-aware-reasoning-and-safety-alig-2606.13737",
+      "title": "FreoStream: Enhancing Stream Guardrails via Future-Aware Reasoning and Safety-Aligned Optimization",
+      "url": "https://arxiv.org/abs/2606.13737",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-02T00:50:00+00:00",
+      "theme": "streaming-safety / guardrails / future-aware-reasoning"
+    },
+    {
+      "arxiv_id": "2605.29395",
+      "slug": "low-rank-for-rank-uncertainty-aware-task-specific-llm-ranking-under-sparse-pairw-2605.29395",
+      "title": "Low Rank for Rank: Uncertainty-Aware Task-Specific LLM Ranking under Sparse Pairwise Comparisons",
+      "url": "https://arxiv.org/abs/2605.29395",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-02T00:50:00+00:00",
+      "theme": "uncertainty-quantification / LLM-ranking / calibration"
     }
   ],
   "emergent_discoveries": [
@@ -18750,6 +18777,12 @@
         "2506.08125"
       ],
       "method": "web_search: reasoning efficiency + calibration + synthetic data generation"
+    },
+    {
+      "run": 306,
+      "date": "2026-07-02",
+      "count": 3,
+      "theme": "NARRATIVE-SAFETY / UNCERTAINTY-AWARE RANKING / FUTURE-AWARE GUARDRAILS"
     }
   ],
   "runs": [
@@ -20654,6 +20687,17 @@
       "run_method": "Rule 36h PROBE-AXIS: safety-mechanisms RLHF red-teaming jailbreak-defense",
       "last_framing": "Safety-Mechanisms / Red-Teaming / Alignment Floor",
       "theme": "safety-mechanisms / red-teaming / alignment-floor"
+    },
+    {
+      "run_number": 306,
+      "timestamp": "2026-07-02T00:50:00+00:00",
+      "theme": "NARRATIVE-SAFETY / UNCERTAINTY-AWARE RANKING / FUTURE-AWARE GUARDRAILS",
+      "papers": [
+        "2606.28981",
+        "2606.13737",
+        "2605.29395"
+      ],
+      "status": "success"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

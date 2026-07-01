@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 306: Narrative-Safety / Uncertainty-Aware Ranking / Future-Aware Guardrails (Rule 36h PROBE-AXIS: narrative-alignment + uncertainty-calibration + streaming-guardrails)
+
+- [[bad-company-corrupts-good-morals-understanding-and-measuring-narrative-induced-m-2606.28981]] — [Bad company corrupts good morals: Understanding and Measuring Narrative-Induced Moral Reasoning Degradation in LLMs](https://arxiv.org/abs/2606.28981): Yu, Wanying; Ma, Boyang; Sun, Zhibo Eric + 2 — identifies narrative-induced moral reasoning degradation as a distinct safety failure mode where extended non-adversarial narrative exposure corrupts safety-aligned moral reasoning in AI companion/educator deployments. **First narrative-corrosion safety failure mode paper in the wiki.**
+
+- [[freostreamenhancing-stream-guardrails-via-future-aware-reasoning-and-safety-alig-2606.13737]] — [FreoStream: Enhancing Stream Guardrails via Future-Aware Reasoning and Safety-Aligned Optimization](https://arxiv.org/abs/2606.13737): Wang, Jianwei; Shen, Guoyang; Wu, Yanhong + 5 — introduces future-aware reasoning into token-level stream safety guardrails, enabling the detector to anticipate downstream token trajectories and reduce false-positive blocking of sensitive-but-safe content. **First future-aware stream guardrail paper in the wiki.**
+
+- [[low-rank-for-rank-uncertainty-aware-task-specific-llm-ranking-under-sparse-pairw-2605.29395]] — [Low Rank for Rank: Uncertainty-Aware Task-Specific LLM Ranking under Sparse Pairwise Comparisons](https://arxiv.org/abs/2605.29395): Li, Jiachun; Simchi-Levi, David; Sun, Will Wei — low-rank structured uncertainty model enabling accurate task-specific LLM ranking under sparse Chatbot Arena-style pairwise comparisons, closing the calibration gap between global leaderboard position and per-task model performance. **First low-rank sparse-comparison LLM ranking paper in the wiki.**
+
 ### 2026-07-02 — Run 305: Safety-Mechanisms / Red-Teaming / Alignment Floor (Rule 36h PROBE-AXIS: safety-mechanisms RLHF red-teaming jailbreak-defense)
 
 - [[ai-infra-guard-multi-layer-agent-red-teaming-2606.31227]] — [AI-Infra-Guard: Securing the AI Agent — Multi-Layer Agent Red Teaming Framework](https://arxiv.org/abs/2606.31227): Yang, Yong; Zheng, Xing; Wu, Huiyu + 7 — introduces multi-layer red teaming paradigm distinguishing attack surfaces at the model layer, MCP protocol layer, agent platform layer, and tool/API layer, with AI-Infra-Guard open-source framework for layered adversarial evaluation. **First multi-layer AI-infra red teaming framework in the wiki.**
