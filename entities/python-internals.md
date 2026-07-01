@@ -3931,6 +3931,13 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: python-internals
+- **2026-07-01** | [The GIL Explained - Engineers of AI](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: python-internals
+- **2026-07-01** | [Advanced Python Interview Questions & Answers - Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: python-internals
+- **2026-07-01** | [MEMORY_MANAGEMENT in Windows - compmaster](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: python-internals
+- **2026-07-01** | [Internals of Python 3.x - scanlibs](https://scanlibs.com/internals-python-3-performance/) | kw: python-internals
+- **2026-07-01** | [Top Python Interview Questions and Answers - EmbeddedPrep](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: python-internals
+
 - **2026-07-01** | [Python Interview Questions: Key Features, Memory Management...](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: python-internals
 
 

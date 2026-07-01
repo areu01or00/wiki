@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: compilers
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: compilers
+
 - **2026-07-01** | [CS 45, Lecture 7 Compilers - Stanford University](https://web.stanford.edu/class/cs45/lectures/7-compilers.pdf) | kw: compilers
 - **2026-07-01** | [Compilers - GitHub Pages](https://iitd-plos.github.io/col729/refs/ALSUdragonbook.pdf) | kw: compilers
 - **2026-07-01** | [Compilers PDF - cdn.bookey.app](https://cdn.bookey.app/files/pdf/book/en/compilers.pdf) | kw: compilers

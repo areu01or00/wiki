@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: type-systems
+- **2026-07-01** | [Learn Touch Typing Free - TypingClub](http://www.typingclub.com/) | kw: type-systems
+- **2026-07-01** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: type-systems
+- **2026-07-01** | [Typing Lessons - Learn To Type And Improve Typing Speed Free - ...](https://www.typing.com/student/lessons) | kw: type-systems
+- **2026-07-01** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: type-systems
+- **2026-07-01** | [TypeRacer - Play Typing Games and Race Friends](https://play.typeracer.com/) | kw: type-systems
+- **2026-07-01** | [Ratatype — Online Touch Typing Tutor and Typing Lessons](https://www.ratatype.com/) | kw: type-systems
+- **2026-07-01** | [Nitro Type | Competitive Typing Game | Race Your Friends](https://www.nitrotype.com/) | kw: type-systems
+- **2026-07-01** | [type () function in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-type-function/) | kw: type-systems
+
 - **2026-07-01** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
 - **2026-07-01** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: type-systems
 - **2026-07-01** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: type-systems

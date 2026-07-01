@@ -1,4 +1,15 @@
 ## Updates
+- **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: functional-programming
+- **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: functional-programming
+- **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional-programming
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing) | kw: functional-programming
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: functional-programming
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: functional-programming
+- **2026-07-01** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: functional-programming
+- **2026-07-01** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/) | kw: functional-programming
+- **2026-07-01** | [The Brutal Truth About Programming Languages in 2026: Which ...](https://medium.com/@mohdinsafinzu/the-brutal-truth-about-programming-languages-in-2026-which-ones-will-break-you-and-which-ones-61a1ea1a245d) | kw: functional-programming
+- **2026-07-01** | [Issue 529 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/529.html) | kw: functional-programming
+
 - **2026-07-01** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: functional-programming
 - **2026-07-01** | [FUNCTIONAL | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: functional-programming
 - **2026-07-01** | [FUNCTIONAL Definition & Meaning | Britannica Dictionary](https://www.britannica.com/dictionary/functional) | kw: functional-programming
