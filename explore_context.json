@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-02T00:50:00.000000+00:00",
-  "__last_updated": "2026-07-01T20:00:00.000000+00:00",
-  "last_run": 307,
+  "updated": "2026-07-02T08:00:00.000000+00:00",
+  "__last_updated": "2026-07-02T08:00:00.000000+00:00",
+  "last_run": 308,
   "last_explore": "2026-07-02T08:00:00.000000+00:00",
   "last_global_explore": "2026-07-02T08:00:00.000000+00:00",
-  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Decoding-Constraint Jailbreak + MoE Calibration Under Shift + Automated Multi-Defense Attack",
-  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: grammar-constraint exploit / adversarial feature extraction / soft-vs-hard routing calibration",
+  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Calibration-Driven MoE / Inductive Reasoning / Guardrail Evasion",
+  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: calibration-driven MoE / probabilistic-program induction / guardrail-evasion LODO evaluation",
   "last_framing": "DEEP-SUB-CLUSTER PROBE-AXIS",
-  "last_run_notes": "Run 307: 2606.11817, 2606.20544, 2606.16751",
+  "last_run_notes": "Run 308: 2606.28516, 2606.09856, 2504.11168",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "Rule 36h PROBE-AXIS: narrative-alignment + uncertainty-calibration + streaming-guardrails",
+  "last_run_method": "Rule 36h PROBE-AXIS: calibration-driven MoE + probabilistic-program inductive reasoning + adversarial guardrail evasion",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
   "chains_updated": 0,
-  "entities_count": 934,
+  "entities_count": 937,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8968,6 +8968,36 @@
       "vector": "emergent_concept",
       "discovered": "2026-07-02T00:50:00+00:00",
       "theme": "uncertainty-quantification / LLM-ranking / calibration"
+    },
+    {
+      "arxiv_id": "2606.28516",
+      "slug": "clear-moe-shared-basis-expert-extraction-frozen-vit-2606.28516",
+      "title": "CLEAR-MoE: Shared-Basis Expert Extraction from Frozen Vision Transformers via Calibration-Driven Layer Selection",
+      "url": "https://arxiv.org/abs/2606.28516",
+      "theme": "calibration-driven MoE architecture discovery / frozen-to-sparse conversion",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T08:00:00.000000+00:00",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.09856",
+      "slug": "probabilistic-programs-inductive-reasoning-llm-2606.09856",
+      "title": "Using Probabilistic Programs to Train Inductive Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.09856",
+      "theme": "inductive reasoning / probabilistic programs / ambiguous evidence",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T08:00:00.000000+00:00",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2504.11168",
+      "slug": "bypassing-llm-guardrails-evasion-attacks-prompt-injection-jailbreak-detection-2504.11168",
+      "title": "Bypassing LLM Guardrails: An Empirical Analysis of Evasion Attacks against Prompt Injection and Jailbreak Detection Systems",
+      "url": "https://arxiv.org/abs/2504.11168",
+      "theme": "guardrail bypass / LODO evaluation / adversarial AML evasion",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T08:00:00.000000+00:00",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -15842,6 +15872,30 @@
       "url": "https://arxiv.org/abs/2605.27382",
       "discovered": "2026-07-01T20:32:53+00:00",
       "theme": "safety-mechanisms / red-teaming / alignment-floor"
+    },
+    {
+      "arxiv_id": "2606.28516",
+      "title": "CLEAR-MoE: Shared-Basis Expert Extraction from Frozen Vision Transformers via Calibration-Driven Layer Selection",
+      "slug": "clear-moe-shared-basis-expert-extraction-frozen-vit-2606.28516",
+      "url": "https://arxiv.org/abs/2606.28516",
+      "discovered": "2026-07-02T08:00:00.000000+00:00",
+      "theme": "calibration-driven MoE architecture discovery / frozen-to-sparse conversion"
+    },
+    {
+      "arxiv_id": "2606.09856",
+      "title": "Using Probabilistic Programs to Train Inductive Reasoning in Large Language Models",
+      "slug": "probabilistic-programs-inductive-reasoning-llm-2606.09856",
+      "url": "https://arxiv.org/abs/2606.09856",
+      "discovered": "2026-07-02T08:00:00.000000+00:00",
+      "theme": "inductive reasoning / probabilistic programs / ambiguous evidence"
+    },
+    {
+      "arxiv_id": "2504.11168",
+      "title": "Bypassing LLM Guardrails: An Empirical Analysis of Evasion Attacks against Prompt Injection and Jailbreak Detection Systems",
+      "slug": "bypassing-llm-guardrails-evasion-attacks-prompt-injection-jailbreak-detection-2504.11168",
+      "url": "https://arxiv.org/abs/2504.11168",
+      "discovered": "2026-07-02T08:00:00.000000+00:00",
+      "theme": "guardrail bypass / LODO evaluation / adversarial AML evasion"
     }
   ],
   "emergent_concept_search_log": [
@@ -18840,6 +18894,18 @@
     }
   ],
   "runs": [
+    {
+      "run": 308,
+      "date": "2026-07-02T08:00:00.000000+00:00",
+      "theme": "calibration-driven MoE + probabilistic-program inductive reasoning + adversarial guardrail evasion",
+      "picks": [
+        "2606.28516",
+        "2606.09856",
+        "2504.11168"
+      ],
+      "method": "Rule 36h PROBE-AXIS: Deep-Sub-Cluster (calibration-driven MoE / probabilistic-program induction / guardrail-evasion LODO evaluation)",
+      "added": 3
+    },
     {
       "run": 307,
       "date": "2026-07-02T08:00:00+00:00",
