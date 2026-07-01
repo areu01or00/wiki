@@ -4117,6 +4117,15 @@
 
 
 ## Updates
+- **2026-07-01** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms
+- **2026-07-01** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
+- **2026-07-01** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: algorithms
+- **2026-07-01** | [awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: algorithms
+- **2026-07-01** | [LeetCode monthly problem 2026 - GitHub](https://github.com/mohanapriyan2006/Data-Structure-Algorithm_DSA/blob/main/LeetCode_monthly_problem_2026/2026_leetcode_june.md) | kw: algorithms
+- **2026-07-01** | [Namaste DSA Sheet | To Crack FAANG and PBCs Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: algorithms
+- **2026-07-01** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-07-01** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: algorithms
+
 - **2026-07-01** | [leetcode-questions · GitHub Topics](https://github.com/topics/leetcode-questions) | kw: leetcode-questions · GitHub Topics
 - **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: Problems - LeetCode
 - **2026-07-01** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: Comprehensive List of 50 Frequently Aske

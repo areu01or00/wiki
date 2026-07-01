@@ -41,6 +41,17 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
+- **2026-07-01** | [Static Analysis Mypy: Strict Typing Configurations 2026](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: type-systems
+- **2026-07-01** | [TypeScript: Static or Dynamic? The war is over.](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: type-systems
+- **2026-07-01** | [Duck Typing vs Type System (2026)](https://nicepick.dev/compare/duck-typing-vs-type-system) | kw: type-systems
+- **2026-07-01** | [gradual-typing - GitHub Topics](https://github.com/topics/gradual-typing) | kw: type-systems
+- **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type-systems
+- **2026-07-01** | [TypeScript Gradual Typing](https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/) | kw: type-systems
+- **2026-07-01** | [Gradual Typing: A New Perspective](https://www.irif.fr/~gc/papers/popl19.pdf) | kw: type-systems
+- **2026-07-01** | [Planet = erlang.](http://planeterlang.com/) | kw: type-systems
+
 - **2026-07-01** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: Learn to Type
 - **2026-07-01** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: Monkeytype
 - **2026-07-01** | [Learn Touch Typing Free - TypingClub](http://www.typingclub.com/) | kw: Learn Touch Typing Free - TypingClub

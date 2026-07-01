@@ -3619,6 +3619,9 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Master System Design Roadmap 2026](https://www.linkedin.com/posts/rocky-bhatia-a4801010_master-system-design-in-2026-one-visual-activity-7418616191402942464--RPc) | kw: system-design
+- **2026-07-01** | [This Is What Actually Scales in 2026](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: system-design
+
 - **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System - Wikipedia
 - **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating system - Wikipedia
 - **2026-07-01** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: How to open System Properties in Control
