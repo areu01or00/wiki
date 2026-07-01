@@ -1,3 +1,7 @@
+- **2026-07-01** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: monad
+- **2026-07-01** | [Monads and Effects | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: monad
+- **2026-07-01** | [Monads (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: monad
+
 - **2026-06-25** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: What Is a Monad in Functional Programming?
 - **2026-06-25** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Monad tutorials timeline
 - **2026-06-25** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying MONADs: What you need to know!

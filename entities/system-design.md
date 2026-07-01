@@ -3591,6 +3591,13 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Modern Software Architecture Patterns That Scale In 2026](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: 
+- **2026-07-01** | [What Is the Basic Architecture of a Distributed System?](https://sivaro.in/articles/what-is-the-basic-architecture-of-a-distributed-system/) | kw: distributed
+- **2026-07-01** | [Notification Fanout Architecture — exashard](https://exashard.com/posts/notification-fanout-architecture/) | kw: 
+- **2026-07-01** | [8 Powerful Event-Driven Architecture Patterns](https://gtwebs.com/architecture/event-driven-architecture-patterns/) | kw: 
+- **2026-07-01** | [English Dialogue for Informatics Engineering - Distributed Systems...](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: distributed
+- **2026-07-01** | [System Design: Distributed Tracing System...](https://www.techinterview.org/post/3233464366/system-design-distributed-tracing/) | kw: distributed
+
 - **2026-06-25** | [Modern Architecture Patterns (2026 Edition) | by Uchit | Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Edition)
 - **2026-06-25** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If you want to get started with system design (in 2026), learn these 16...
 - **2026-06-25** | [Top SaaS Architecture Patterns in 2026: From Monolith... | Jishu Labs](https://jishulabs.com/blog/saas-architecture-patterns-2026) | kw: Top SaaS Architecture Patterns in 2026: From Monolith...

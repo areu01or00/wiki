@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [A Deep Dive into LLVM: The Future of Compiler Technology | Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: LLVM
+- **2026-07-01** | [2017 LLVM Developers' Meeting: M. Zolotukhin "LLVM Compile-Time...](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: LLVM
+
 - **2026-06-25** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A LLVM JIT Prototype for Running an Energy-Saving...
 - **2026-06-25** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize JIT Compilation with LLVM's Next Generation API
 - **2026-06-25** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: LLVM JIT Compilation

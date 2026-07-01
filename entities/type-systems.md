@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: 
+- **2026-07-01** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: 
+- **2026-07-01** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: 
+- **2026-07-01** | [Gradual typing - Wikiwand](https://www.wikiwand.com/en/articles/Gradual_typing) | kw: 
+- **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: 
+- **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: 
+
 - **2026-06-25** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: Gradual typing
 - **2026-06-25** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: Gradual typing with unification-based inference
 - **2026-06-25** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: To what extent is type theory relevant to dynamically typed languages?

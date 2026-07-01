@@ -4085,6 +4085,14 @@
 
 
 ## Updates
+- **2026-07-01** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: 
+- **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: 
+- **2026-07-01** | [Algorithms | An Open Access Journal from MDPI](https://www.mdpi.com/journal/algorithms) | kw: 
+- **2026-07-01** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: 
+- **2026-07-01** | [Algorithms | Computer science theory | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: 
+- **2026-07-01** | [The Algorithms - GitHub](https://github.com/TheAlgorithms) | kw: 
+- **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026 ... - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: 
+
 - **2026-06-25** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ..
 - **2026-06-25** | [Amazon Interview | SDE-1 | Selected - Discuss - LeetCode](https://leetcode.com/discuss/post/8029194) | kw: Amazon Interview
 - **2026-06-25** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms interview in 2026
