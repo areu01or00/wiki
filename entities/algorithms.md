@@ -4117,6 +4117,12 @@
 
 
 ## Updates
+
+- **2026-07-01** | [List of algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms) | kw: list
+- **2026-07-01** | [Introduction to Algorithms - MIT Press](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) | kw: introduction
+- **2026-07-01** | [Algorithms | Computer science theory | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) | kw: algorithms
+- **2026-07-01** | [Algorithms | An Open Access Journal from MDPI](https://www.mdpi.com/journal/algorithms) | kw: algorithms
+- **2026-07-01** | [ALGORITHM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/algorithm) | kw: algorithm
 - **2026-07-01** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: wikipedia
 - **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: for
 - **2026-07-01** | [Algorithms in Computer Science: A Complete Beginner's Guide with...](https://medium.com/@mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis-7ae156894d2f) | kw: computer

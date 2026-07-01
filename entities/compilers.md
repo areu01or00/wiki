@@ -33,6 +33,12 @@
 # Compilers
 
 ## Updates
+
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: llvm
+- **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: llvm
+- **2026-07-01** | [2026 EuroLLVM Developers Meeting](https://llvm.org/devmtg/2026-04/) | kw: 2026
+- **2026-07-01** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: jit
+- **2026-07-01** | [Unmasking the World of LLVM IR Based JIT Execution](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/) | kw: unmasking
 - **2026-07-01** | [IQTest.com--The Original Free Online IQ Test](https://iqtest.com/) | kw: Online
 - **2026-07-01** | [Take the Test - IQTest.com](https://iqtest.com/take-the-test/) | kw: LLVM JIT Compilation
 - **2026-07-01** | [Sample Exercise Result - IQTest.com](https://iqtest.com/quiz-result/sample-exercise-result/) | kw: LLVM JIT Compilation
