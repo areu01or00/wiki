@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 263) — AGENTIC IDEATION / KV-CACHE HEAD ADAPTATION / GRAPHRAG DECISION FRAMEWORK**
+
+- [[agenticideation-sample-efficient-agentic-trajectories-synthesis-for-scientific-ideation-agents-2606.31229]]
+  Agentic-Ideation: First 10× sample-efficient oracle-guided trajectory synthesis for scientific ideation agents. Defines comprehensive tool space (3 external + 3 cognitive tools), uses reference-idea oracle to direct multi-agent trajectory generation vs aimless trial-and-error. Masking strategy on tool execution results focuses model on decision logic. +11.91% quality vs SOTA workflow-based baseline. Orthogonal to existing agentic-memory and agentic-benchmarking papers. Cross-ref: [[plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953]], [[autodata-an-agentic-data-scientist-to-create-high-quality-synthetic-data-2606.25996]], [[calvert-augmenting-agents-with-calibrated-verifier-telemetry-improves-action-and-learning-in-knowledge-intensive-tasks-2606.21777]].
+
+- [[hardkv-head-adaptive-regularization-for-decoding-time-kv-compression-2606.28831]]
+  HARD-KV: First Cascade Cache hierarchy + Logits Calibration that bridges dynamic head-adaptive compression with rigid vLLM CUDA Graphs/PagedAttention constraints. Solves the "Static-Dynamic mismatch" in long-context inference. Achieves 2× throughput improvement at 10k+ tokens while maintaining high-fidelity generation. Orthogonal to existing quantization-heavy KV-cache papers. Cross-ref: [[rope-aware-bit-allocation-for-kv-cache-quantization-2606.24033]], [[refreekv-towards-threshold-free-kv-cache-compression-2502.16886]], [[kernelsight-lm-a-kernel-level-llm-inference-simulator-2606.28565]].
+
+- [[is-graphrag-needed-from-basic-rag-to-graph-agentic-solutions-with-context-optimization-2606.25656]]
+  GraphRAG Decision: First taxonomy + evaluation framework for when GraphRAG vs Modular RAG vs Agentic RAG is appropriate. Identifies retrieval-generation gap where expanded retrieval does not proportionally improve generation quality. Novel context engineering reduces token usage 19%-53% for GraphRAG/Agentic RAG. Orthogonal to existing RAG-structure papers. Cross-ref: [[the-reasoning-bottleneck-in-graph-rag-structured-prompting-and-context-compression-for-multi-hop-qa-2603.14045]], [[chartwalker-benchmarking-the-cross-chart-rag-task-with-hierarchical-knowledge-graphs-2606.23997]].
+
 **2026-07-02 — Run 262) — SLM INFERENCE EFFICIENCY / CONTEXT ROT MITIGATION / COLLECTIVE GENAI EDUCATION IMPACT**
 
 - [[little-brains-big-feats-exploring-compact-language-models-2606.30062]]

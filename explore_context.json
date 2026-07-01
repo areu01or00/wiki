@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T00:00:00.000000+00:00",
   "__last_updated": "2026-07-02T00:00:00.000000+00:00",
-  "last_run": 262,
-  "last_explore": "2026-07-02T00:00:00.000000+00:00",
+  "last_run": 263,
+  "last_explore": "2026-07-01T08:19:00+00:00",
   "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "SLM INFERENCE EFFICIENCY / CONTEXT ROT MITIGATION / COLLECTIVE GENAI EDUCATION IMPACT",
-  "last_framing": "small-model RAG benchmarking / context rot degradation / collective GenAI education impact",
-  "last_run_notes": "Run 261: 2606.32034 / 2606.14211 / 2606.20408",
+  "last_run_framing": "AGENTIC IDEATION / KV-CACHE HEAD ADAPTATION / GRAPHRAG DECISION FRAMEWORK",
+  "last_framing": "agentic ideation / KV-cache head adaptation / graphrag decision framework",
+  "last_run_notes": "Run 263: 2606.31229 / 2606.28831 / 2606.25656",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 2026-07-01 + 2026-06-30 + 2026-06-29 via href pattern, 12 LLM-keyword-filtered, 10 FRESH after 5-store, 3 picked",
+  "last_run_method": "arxiv HTML search 4-query primary (190 IDs, 184 fresh, 16 LLM-filtered), 3 picked",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 799,
+  "entities_count": 802,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7795,6 +7795,33 @@
       "url": "https://arxiv.org/abs/2606.27938",
       "discovered": "2026-07-02T00:00:00.000000+00:00",
       "theme": "genai-impact / education / collective-competence-dynamics"
+    },
+    {
+      "arxiv_id": "2606.31229",
+      "title": "Agentic-Ideation: Sample Efficient Agentic Trajectories Synthesis for Scientific Ideation Agents",
+      "slug": "agenticideation-sample-efficient-agentic-trajectories-synthesis-for-scientific-ideation-agents-2606.31229",
+      "url": "https://arxiv.org/abs/2606.31229",
+      "theme": "agentic ideation / scientific reasoning / trajectory synthesis",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T08:19:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.28831",
+      "title": "HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression",
+      "slug": "hardkv-head-adaptive-regularization-for-decoding-time-kv-compression-2606.28831",
+      "url": "https://arxiv.org/abs/2606.28831",
+      "theme": "inference efficiency / KV-cache compression / long-context",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T08:19:00+00:00"
+    },
+    {
+      "arxiv_id": "2606.25656",
+      "title": "Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization",
+      "slug": "is-graphrag-needed-from-basic-rag-to-graph-agentic-solutions-with-context-optimization-2606.25656",
+      "url": "https://arxiv.org/abs/2606.25656",
+      "theme": "RAG taxonomy / graph-based RAG / agentic RAG",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T08:19:00+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -13820,6 +13847,30 @@
       "url": "https://arxiv.org/abs/2606.27938",
       "discovered": "2026-07-02T00:00:00.000000+00:00",
       "theme": "genai-impact / education / collective-competence-dynamics"
+    },
+    {
+      "arxiv_id": "2606.31229",
+      "title": "Agentic-Ideation: Sample Efficient Agentic Trajectories Synthesis for Scientific Ideation Agents",
+      "slug": "agenticideation-sample-efficient-agentic-trajectories-synthesis-for-scientific-ideation-agents-2606.31229",
+      "url": "https://arxiv.org/abs/2606.31229",
+      "discovered": "2026-07-01T08:19:00+00:00",
+      "theme": "agentic ideation / scientific reasoning / trajectory synthesis"
+    },
+    {
+      "arxiv_id": "2606.28831",
+      "title": "HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression",
+      "slug": "hardkv-head-adaptive-regularization-for-decoding-time-kv-compression-2606.28831",
+      "url": "https://arxiv.org/abs/2606.28831",
+      "discovered": "2026-07-01T08:19:00+00:00",
+      "theme": "inference efficiency / KV-cache compression / long-context"
+    },
+    {
+      "arxiv_id": "2606.25656",
+      "title": "Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization",
+      "slug": "is-graphrag-needed-from-basic-rag-to-graph-agentic-solutions-with-context-optimization-2606.25656",
+      "url": "https://arxiv.org/abs/2606.25656",
+      "discovered": "2026-07-01T08:19:00+00:00",
+      "theme": "RAG taxonomy / graph-based RAG / agentic RAG"
     }
   ],
   "emergent_concept_search_log": [
@@ -15284,6 +15335,16 @@
         "2606.20408"
       ],
       "method": "HF daily 2026-07-01 + arxiv HTML search via web_search LLM queries"
+    },
+    {
+      "run": 263,
+      "date": "2026-07-01T08:19:00+00:00",
+      "vector": "emergent_concept_search",
+      "papers": [
+        "2606.31229",
+        "2606.28831",
+        "2606.25656"
+      ]
     }
   ],
   "emergent_concept_search_runs": [
@@ -17995,6 +18056,17 @@
         "2606.29718",
         "2606.27938"
       ]
+    },
+    {
+      "run": 263,
+      "date": "2026-07-01T08:19:00+00:00",
+      "vector": "emergent_concept_search",
+      "papers": [
+        "2606.31229",
+        "2606.28831",
+        "2606.25656"
+      ],
+      "theme": "agentic ideation / KV-cache compression / graphrag taxonomy"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
