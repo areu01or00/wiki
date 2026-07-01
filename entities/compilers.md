@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [CS153: Compilers Lecture 1: Introduction - Harvard University](https://groups.seas.harvard.edu/courses/cs153/2018fa/lectures/Lec01-Intro.pdf) | kw: compilers
+- **2026-07-01** | [Compilers - Stanford University](https://web.stanford.edu/class/cs143/lectures/lecture01.pdf) | kw: compilers
+- **2026-07-01** | [CS 45, Lecture 7 Compilers - Stanford University](https://web.stanford.edu/class/cs45/lectures/7-compilers.pdf) | kw: compilers
+- **2026-07-01** | [Compilers - GitHub Pages](https://iitd-plos.github.io/col729/refs/ALSUdragonbook.pdf) | kw: compilers
+- **2026-07-01** | [Compilers PDF - cdn.bookey.app](https://cdn.bookey.app/files/pdf/book/en/compilers.pdf) | kw: compilers
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+- **2026-07-01** | [GitHub - debo-31/JIT-LLVM: Just-In-Time compilation](https://github.com/debo-31/JIT-LLVM) | kw: compilers
+
 - **2026-07-01** | [LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: llvm:
 - **2026-07-01** | [llvm-frontend · GitHub Topics · GitHub](https://github.com/topics/llvm-frontend) | kw: llvm-frontend
 - **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: adventures

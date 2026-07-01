@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 257) — LONG-HORIZON PLANNING BENCHMARK / EVAL-SAFETY MEASUREMENT GAP / ETHICAL INSTRUCTION INTERNALIZATION**
+
+- [[sokobench-evaluating-long-horizon-planning-and-reasoning-in-large-language-models-2601.20856]]
+  SokoBench: Systematic assessment of LRM long-horizon planning via Sokoban puzzles — finds consistent performance degradation beyond 25 moves, suggesting fundamental architectural constraints on forward planning that test-time scaling cannot overcome. PDDL tooling provides only modest improvements. First long-horizon planning degradation threshold study in the wiki. Cross-ref: [[ask-dont-judge-binary-questions-for-interpretable-llm-evaluation-and-self-improvement-2606.27226]].
+
+- [[evalsafetygap-hybrid-survey-and-conceptual-framework-for-llm-evaluation-safety-failures-2606.30219]]
+  EvalSafetyGap: Hybrid survey + ten-model audit identifying fundamental measurement problem in LLM eval and safety — benchmark scores improve while latent safety properties remain unverified. EvalSafetyGap organizes evaluation-side vs alignment-side proxy failures under optimization pressure. Goodhart's Law + Instability Decomposition + Alignment Trilemma as diagnostic tools. Ten-model audit shows capability/robustness correlation statistically indeterminate (r=+0.232, p=0.520). Safety gap is governance/disclosure-driven, not behavioral. First eval-safety measurement gap synthesis in the wiki. Cross-ref: [[be-your-own-red-teamer-safety-alignment-via-self-play-and-reflective-experience-replay-2601.10589]], [[ask-dont-judge-binary-questions-for-interpretable-llm-evaluation-and-self-improvement-2606.27226]].
+
+- [[how-do-language-models-process-ethical-instructions-deliberation-consistency-other-recognition-2604.00021]]
+  EthicalInstructions: 600+ multi-agent simulations revealing four distinct processing types (Output Filter, Defensive Repetition, Critical Internalization, Principled Consistency). Core finding: safety, compliance, and ethical internalization are largely dissociable — models can produce safe outputs without any ethical processing. Processing type interacts with instruction format only in high-deliberation models. Structural correspondence to clinical offender treatment patterns. First empirical dissociation of safety/compliance/ethical internalization in the wiki. Cross-ref: [[be-your-own-red-teamer-safety-alignment-via-self-play-and-reflective-experience-replay-2601.10589]], [[est-prm-stress-testing-process-reward-models-before-they-become-load-bearing-2606.00437]], [[ask-dont-judge-binary-questions-for-interpretable-llm-evaluation-and-self-improvement-2606.27226]].
+
 **2026-07-02 — Run 256) — BINARY-QUESTION LLM EVALUATION / EXPERIENTIAL RULE-POLICY JOINT LEARNING / SMOOTH SAFE RL POLICY COMPOSITION**
 
 - [[ask-dont-judge-binary-questions-for-interpretable-llm-evaluation-and-self-improvement-2606.27226]]

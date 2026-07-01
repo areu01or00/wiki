@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type-systems
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-parigm-matrix) | kw: type-systems
+- **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
+- **2026-07-01** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: type-systems
+
 - **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://www.elixir-lang.org/blog/2024/09/01/elixir-v1-20-released/) | kw: elixir v1.20
 - **2026-07-01** | [Static Blame for gradual typing](https://cs.brown.edu/~max/people.html) | kw: static blame
 - **2026-07-01** | [Luau · GitHub](https://github.com/luau-lang/luau) | kw: luau github

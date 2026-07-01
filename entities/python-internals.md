@@ -3931,6 +3931,11 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: python-internals
+- **2026-07-01** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python-internals
+- **2026-07-01** | [Python 3.14 and the End of the GIL - Towards Data Science](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) | kw: python-internals
+- **2026-07-01** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading's ...](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: python-internals
+
 - **2026-07-01** | [Welcome to Python.org](https://www.python.org/) | kw: welcome
 - **2026-07-01** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: py4e
 - **2026-07-01** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: best

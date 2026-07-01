@@ -114,6 +114,15 @@
         "satya jit"
       ],
       "last_result_hashes": [
+        "b1adc2b930d77212d7e65d03d9bccdc6",
+        "96d3a3ea85839fe8f92ece2b7d05a39a",
+        "82601ad43b0fe127ccdd116d7f69071f",
+        "034c8842156c2b1235263f9d2feebba9",
+        "9ef09709545d432e2dc99e2cf360fbe8",
+        "20c9af03d5ba04de769b9c8d55fbf657",
+        "8a3ff4e073d640c7a5be2cc492d2a969",
+        "89a92316f41a5050a2cfe852301aaa2a",
+        "bde460c23ed451d82e4d081ce9d44718",
         "ab3f44e9efe813320153d6438a0b104e",
         "2efe47add6349b1a23f9e1b4a923ec6b",
         "64e900ff8986f325e4783fe3286a829d",
@@ -124,20 +133,11 @@
         "5003ed2b8035673a993196a3dbbda1a6",
         "b820bb31d51643f3e7190e90100e94ac",
         "94c1b0f099f1d566f3fdedccba3cf97b",
-        "a6b685038fa74d4ba00fac8c2deaab7d",
-        "66ae815700cacb4e96d1e78f07e63810",
-        "30eb2e1134419c9dd635b852dc30339c",
-        "3b3f82a1ce99e0255038b165da4fd365",
-        "2d3506c3f6b37ad4e09360268ba56f6d",
-        "a52a0d1b52755d773e5321d0928b741d",
-        "dbf8e0c58091b15f2142c1ba6af512c4",
-        "07550bd5bf7eb2464189443840582802",
-        "6bf898a8699853824c1bc5d6177dfec2",
-        "4c14e58d528ed9c64454f1c0df41e64a"
+        "a6b685038fa74d4ba00fac8c2deaab7d"
       ],
-      "last_run": "2026-07-01 05:52 UTC",
+      "last_run": "2026-07-01 06:00 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 10
+      "last_new_count": 9
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -259,6 +259,13 @@
         "Program"
       ],
       "last_result_hashes": [
+        "878e6b4236785adf8d62572fc2ce517b",
+        "a3ccc9918610b0d49ee1bfa6202e4563",
+        "482c8782b361cd7fb64c8fa0bbda252c",
+        "1cac0d61efc81ef80496a1832cd59472",
+        "b681ab67f5cd09c9dc64291fd55d9db5",
+        "f1925c0af6e39aa520ffa6a282ede525",
+        "5f44db862cb95a66200d5bc278bf5050",
         "560c6e4001b31fbba96c10c2b18a820e",
         "900931c5b2c5293e36692a6fb82f7599",
         "eb4831f9d9b33e436b2a14ab0d8d196b",
@@ -271,18 +278,11 @@
         "2e36db34c1a584712cd6f35f63aa33ba",
         "9e6485456aeca3c9d6c03a72d84a494e",
         "fa245584d41c964b09194de5b11ad824",
-        "86768d8752a6979c5c8cea02f676f762",
-        "b4b1697fc63d5704d74c4c88d69cd644",
-        "79f4ddf873dbf67c746be2d871fbeb46",
-        "cce86a95c27c221910b49215668720b0",
-        "7105bfcc3e636b79fcbb54c88c94f1b8",
-        "266dbbfd9257fa64c8462f66ef2e902c",
-        "0aaf4f680b9999c0be679d57ab0172cc",
-        "7d0b717005814217330e578b0fbdc8fb"
+        "86768d8752a6979c5c8cea02f676f762"
       ],
-      "last_run": "2026-07-01 05:52 UTC",
+      "last_run": "2026-07-01 06:00 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 5
+      "last_new_count": 7
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -387,6 +387,10 @@
         "Astral"
       ],
       "last_result_hashes": [
+        "0f283757319d5365f9f3d2ac8e848912",
+        "00f2422c3424a00917d6773bc99bfbd5",
+        "fc735fa9ff4c8d2d83888648a67a3892",
+        "955254271b43d5d60d327be56bfcec27",
         "713bd107b5b8998c71b3501279f69d4c",
         "3f5972390cbcae958062de1144d8cc58",
         "15f84f7776888360cab22fb63c253ccf",
@@ -402,13 +406,9 @@
         "6c257d065a3041b16049b05a47e582ff",
         "10a59e2ab5bcc4c0710cbe6131b13188",
         "686812076d5de90d1c2ef77d554beb01",
-        "87065c9439c433c819c4f5a68841256d",
-        "e9fb384f23954fc19514a38fff3f0175",
-        "29ff16a013639480476846321ab4599c",
-        "445fff1e467d63454cdb890e62ba6898",
-        "2817e8378b277cd3cfe64b421e8bd932"
+        "87065c9439c433c819c4f5a68841256d"
       ],
-      "last_run": "2026-07-01 05:52 UTC",
+      "last_run": "2026-07-01 06:00 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 4
     },
@@ -512,6 +512,15 @@
         "Good"
       ],
       "last_result_hashes": [
+        "14cd387e800b8b80b658ad56297837b3",
+        "fd7245a507ee42d32b983d418fd66dfc",
+        "aeec3d820faa527f0263be90c3663a85",
+        "563b1efac9c22cffc34472e219211fc5",
+        "8229635d8f380180c52db6c50609ea3f",
+        "be9da9017ce6e02348e052f2e7dda252",
+        "3dab99b5330ccd20db91a26c202fbc1e",
+        "dbce4e6cdd1ef898baaf1e4d0f4b78a3",
+        "2d6dfe1231b4857b105350ee51d0d36a",
         "ab1a401478bf91151df62818473f5ef5",
         "c38dcbed1cc31892345ff0a98364564f",
         "269341708d555d5819da5ef32f81a574",
@@ -522,20 +531,11 @@
         "99524e05f28f5499f9092cc0d05e7d7a",
         "480d402e9012f947099ff628259136e0",
         "0c082ec34d87f915fa337ac2f8540872",
-        "a864ccd837a569d08705e7543c1c32b3",
-        "3ede6e883bf824682972cc5c1972475d",
-        "39190c0011704e7f1a9c773aba5fc7d7",
-        "30528bdc44cd273f71e20b4509f48e6d",
-        "5f0c21350e867da0497138104e88c638",
-        "4deb2229b99526c0217a682251a412b4",
-        "1487a63c3bdfb2d6e4c5d5da4f272036",
-        "7849c4b20c1f881bbdfb853bb6d0f4b2",
-        "e37c56fa24f6c8bf6b742c9bf04a0114",
-        "7e695a36672398933c1ecfde1250fc66"
+        "a864ccd837a569d08705e7543c1c32b3"
       ],
-      "last_run": "2026-07-01 05:52 UTC",
+      "last_run": "2026-07-01 06:00 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 3
+      "last_new_count": 9
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -646,6 +646,9 @@
         "LeetCode Is Dead in 2026. Here Is What Top Companies Are ..."
       ],
       "last_result_hashes": [
+        "ff8047902608746589560cffb7b792a9",
+        "8d15aafde38b4f7003d03f97cfdf9d18",
+        "7656c442825566c6a43d7d4c3400ad61",
         "e3051f3b01701fbbc0624fc803efb9d4",
         "35f3793cac8b78d908e7f2d7bb34859d",
         "53afc8b458c8c087f3014abd21812a77",
@@ -662,12 +665,9 @@
         "6705f2d48d0252070292176640a51270",
         "0ef9a05173ac761d2e18c2f87800c7fd",
         "7827ab24e9d276e3b17d86a148741a99",
-        "51bdec45c83dc444c8040f8f04671877",
-        "7d4a56009e609966d5ca545b08860211",
-        "1ff2c45205d19d05c322321f335f0949",
-        "efaca53a4fb3332a168f55b43aac804a"
+        "51bdec45c83dc444c8040f8f04671877"
       ],
-      "last_run": "2026-07-01 05:52 UTC",
+      "last_run": "2026-07-01 06:00 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 3
     },
@@ -777,6 +777,10 @@
         "Astral"
       ],
       "last_result_hashes": [
+        "d312cb77ade078c8f1e9dac2e24a756b",
+        "952e4cdd85ea50368b5178492a0c873c",
+        "1cf455284bb0983215069efb06784c61",
+        "0748d906424e2ae290506a343825189a",
         "dd98088bd44f163005b52f39b2756953",
         "a6c58176fc7c15d04c6965b77938f5ae",
         "8eda8fd96ab2be56921cba54f0d1777a",
@@ -792,15 +796,11 @@
         "17f40f751da9a1c9558ca7dbf958ae7e",
         "9d8d8e4fe4ee482c0f51f3eebd6c0b6a",
         "17592c18441fcc449e08337053621ea2",
-        "07414e8bcc3244ed491bc7b3010c58df",
-        "efcf7336ee088d006b866b306b330eab",
-        "bb8c7260c963e90eea22e851c950996c",
-        "6c10d6a5e8327edbc729528b20323442",
-        "10a6d6e786cdb44ade53e424b1cf9cd2"
+        "07414e8bcc3244ed491bc7b3010c58df"
       ],
-      "last_run": "2026-07-01 05:52 UTC",
+      "last_run": "2026-07-01 06:00 UTC",
       "new_sub_topics_this_run": [],
-      "last_new_count": 2
+      "last_new_count": 4
     },
     "llm-wiki-explore": {
       "last_result_hashes": [
