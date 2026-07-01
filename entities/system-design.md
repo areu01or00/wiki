@@ -3591,6 +3591,17 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [.NET Microservices Design Patterns in 2026: A Production-Grade Guide](https://dev.to/vikrant_bagal_afae3e25ca7/net-microservices-design-patterns-in-2026-a-production-grade-guide-pid) | kw: .NET Microservices Design Patterns in 2026: A Prod
+- **2026-07-01** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern Software Architecture Patterns That Scale I
+- **2026-07-01** | [Modern Architecture Patterns (2026 Edition) | by Uchit - Medium](https://medium.com/@uchit86/modern-architecture-patterns-2026-edition-e526aeaf85d7) | kw: Modern Architecture Patterns (2026 Edition)
+- **2026-07-01** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems (2026)](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9 Essential Software Architecture Patterns for Sca
+- **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three Bold Predictions for Distributed Systems in 
+- **2026-07-01** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: Top 10 Microservices Architecture Best Practices f
+- **2026-07-01** | [Cloud Native Architecture Patterns: 10 Essential Types (2026 Guide)](https://clearfuze.com/blog/cloud-native-architecture-patterns/) | kw: Cloud Native Architecture Patterns: 10 Essential T
+- **2026-07-01** | [Complete Distributed Systems Guide 2026 - College Nirnay](https://www.collegenirnay.com/articles/complete-guide-distributed-systems-beginners) | kw: Complete Distributed Systems Guide 2026
+- **2026-07-01** | [Event-Driven Microservices Guide (2026) - TurboDocx](https://www.turbodocx.com/blog/microservices-event-driven-architecture) | kw: Event
+- **2026-07-01** | [10 System Design Patterns You Must Know in 2026 - MockExperts](https://www.mockexperts.com/blog/10-system-design-patterns-you-must-know-2026) | kw: 10 System Design Patterns You Must Know in 2026
+
 - **2026-07-01** | [10 Software Architecture Patterns Every Developer... | Witty Coder](https://wittycoder.in/blog/software-architecture-patterns-2026) | kw: 10 Software Architecture Patte
 - **2026-07-01** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If you want to get started wit
 - **2026-07-01** | [Top 10 Frontend System Design Patterns Every... | Frontend Junction](https://www.frontend-junction.com/blog/frontend-system-design-patterns-2026) | kw: Top 10 Frontend System Design 

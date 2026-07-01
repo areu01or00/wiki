@@ -3931,6 +3931,15 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free
+- **2026-07-01** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock
+- **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites
+- **2026-07-01** | [Faster Python: Unlocking the Python Global Interpreter Lock](https://blog.jetbrains.com/pycharm/2025/07/faster-python-unlocking-the-python-global-interpreter-lock/) | kw: Faster Python: Unlocking the Python Global Interpr
+- **2026-07-01** | [Ladies and gentlemen, Python 3.14 has finally answered our prayers...](https://www.linkedin.com/posts/pauliusztin_ladies-and-gentlemen-python-314-has-finally-activity-7383841606283632640-MxB6) | kw: Ladies and gentlemen, Python 3.14 has finally answ
+- **2026-07-01** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Understanding the Python Global Interpreter Lock (
+- **2026-07-01** | [CPython-Internals/Interpreter/gil/gil.md at master - GitHub](https://github.com/zpoint/CPython-Internals/blob/master/Interpreter/gil/gil.md) | kw: CPython
+- **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter Lock (GIL)?
+
 - **2026-07-01** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Top 50 Python Interview Questi
 - **2026-07-01** | [8 Best YouTube Channels for Python in 2026 (Ranked)](https://learnwithpath.com/blog/best-youtube-channels-for-python-2026) | kw: 8 Best YouTube Channels for Py
 

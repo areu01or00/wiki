@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Use of JIT compiler infrastructure at Apple and CERN](https://indico.cern.ch/event/1675931/) | kw: Use of JIT compiler infrastructure at Apple and CE
+- **2026-07-01** | [JIT Design and Implementation | The Julia Language](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT Design and Implementation
+
 - **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM Compiler Infrastructure -
 - **2026-07-01** | [2026 EuroLLVM Developers' Meeting - LLVM.org](https://llvm.org/devmtg/2026-04/) | kw: 2026 EuroLLVM Developers' Meet
 - **2026-07-01** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: Retrofitting JIT Compilers int

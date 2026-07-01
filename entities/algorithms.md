@@ -4085,6 +4085,17 @@
 
 
 ## Updates
+- **2026-07-01** | [Best coding interview prep resource in 2026 (Grokking vs LeetCode ...)](https://www.reddit.com/r/leetcode/comments/1qft3d3/best_coding_interview_prep_resource_in_2026/) | kw: Best coding interview prep resource in 2026 (Grokk
+- **2026-07-01** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms in
+- **2026-07-01** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy ...](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: I Tried 20+ Java DSA Courses with LeetCode Exercis
+- **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are ...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: LeetCode Is Dead in 2026. Here Is What Top Compani
+- **2026-07-01** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most Asked LeetCode Problems in 2026 (40 Companies
+- **2026-07-01** | [How to Pass Leetcode Interviews: The Ritual That Works](https://proandroiddev.com/how-to-pass-leetcode-interviews-the-ritual-that-works-a788ff2f4f27) | kw: How to Pass Leetcode Interviews: The Ritual That W
+- **2026-07-01** | [Best Coding Interview Prep Platforms in 2026 - Scrimba](https://scrimba.com/articles/best-coding-interview-prep-platforms-2026/) | kw: Best Coding Interview Prep Platforms in 2026
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Data Structure and Algorithm Patterns for LeetCode
+- **2026-07-01** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Top 100 DSA Interview Questions
+- **2026-07-01** | [50 DSA + LeetCode problems for interview prep - LinkedIn](https://www.linkedin.com/posts/abhay-singh-a64b89192_dsa-leetcode-interviewprep-activity-7329454179985317888-aaqw) | kw: 50 DSA + LeetCode problems for interview prep
+
 - **2026-07-01** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms · Gi
 - **2026-07-01** | [10 Best Free Courses on Algorithms and Data Structures](https://dev.to/johongirr/10-best-free-courses-on-algorithms-and-data-structures-4di6) | kw: 10 Best Free Courses on Algori
 - **2026-07-01** | [Do we really need Leetcode (Data Structures & Algorithms)... | Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: Do we really need Leetcode (Da

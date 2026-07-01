@@ -114,6 +114,16 @@
         "satya jit"
       ],
       "last_result_hashes": [
+        "c41ad893d11ce6093c1f1a29ba45812a",
+        "bb2281be641c13c087b3bfd94faf2e29",
+        "4da1571b208871b432f8ae967f0103c8",
+        "6275c29c7f32b88f4661685011aeb5f6",
+        "ea6e5bcb8d506faaea620477605191d7",
+        "5aeac4fa30fb41ccddd5bdbec41ec241",
+        "9ee955eaf1cbe1cdb85edc1616cbe650",
+        "6ca995a4a92b1bf2cd7d783da5eb36c5",
+        "a43d2480da2fc14d3d0f3c3459173441",
+        "5034d117445eeeead756d27e0f1bc843",
         "7fc22a1369af93e71d7874ffa2ce017f",
         "96d3a3ea85839fe8f92ece2b7d05a39a",
         "016b05b8261ef6dbe6f748223becf886",
@@ -123,19 +133,9 @@
         "b3733d83924b953fc3046b72af811dcf",
         "b1adc2b930d77212d7e65d03d9bccdc6",
         "034c8842156c2b1235263f9d2feebba9",
-        "9ef09709545d432e2dc99e2cf360fbe8",
-        "20c9af03d5ba04de769b9c8d55fbf657",
-        "4c14e58d528ed9c64454f1c0df41e64a",
-        "8a3ff4e073d640c7a5be2cc492d2a969",
-        "ea6e5bcb8d506faaea620477605191d7",
-        "694eafe5ed78cb746d62ba47e0492d7d",
-        "a4f767c8d886ec8f2fab1999efc97283",
-        "5034d117445eeeead756d27e0f1bc843",
-        "fde2e620a9be8833a9c15bcafc435062",
-        "f3be4f2d493863d686275604c66b2c5a",
-        "a2af7deb9fb81d185b2fef5f41efe226"
+        "9ef09709545d432e2dc99e2cf360fbe8"
       ],
-      "last_run": "2026-07-01 03:03 UTC",
+      "last_run": "2026-07-01 03:21 UTC",
       "new_sub_topics_this_run": [
         "interview",
         "prep",
@@ -150,7 +150,7 @@
         "that",
         "concepts"
       ],
-      "last_new_count": 6
+      "last_new_count": 10
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -272,6 +272,8 @@
         "Program"
       ],
       "last_result_hashes": [
+        "648083769a978e805bbb401b852069ec",
+        "e00df634ab22a0acd62edec031835179",
         "7d0b717005814217330e578b0fbdc8fb",
         "497722584ba1ee7b95f866c5d9ba8a76",
         "da4da22ebe0b30bc79e1ad7a94e5310c",
@@ -289,11 +291,9 @@
         "85875fa4aeb3a7c10187eaf8cc0cac2f",
         "f1925c0af6e39aa520ffa6a282ede525",
         "4a875ba6c9df4a6d863a675c9bbe1244",
-        "b7fb7f6500799d0f60cb61fb935e7903",
-        "ca9ade675eecf6183c340d40af57c779",
-        "7d03b1751e0eb8cf4ac5d67a7d1edcfb"
+        "b7fb7f6500799d0f60cb61fb935e7903"
       ],
-      "last_run": "2026-07-01 03:03 UTC",
+      "last_run": "2026-07-01 03:21 UTC",
       "new_sub_topics_this_run": [
         "look",
         "tutorial",
@@ -329,7 +329,7 @@
         "fermat",
         "java"
       ],
-      "last_new_count": 9
+      "last_new_count": 2
     },
     "type-systems": {
       "query": "type systems gradual typing type inference 2026",
@@ -717,6 +717,16 @@
         "LeetCode Is Dead in 2026. Here Is What Top Companies Are ..."
       ],
       "last_result_hashes": [
+        "620fc8e9c9b4b1ad2685486abd95786b",
+        "51bdec45c83dc444c8040f8f04671877",
+        "6fdbb4d12c268aa99dc77b0f603c47b1",
+        "7d4a56009e609966d5ca545b08860211",
+        "7827ab24e9d276e3b17d86a148741a99",
+        "6bb5f45745653c7264d8c29607bac581",
+        "c2edcbe2175b83dff51f6a4fd2bd1634",
+        "f7f0913e896756c80b86386485ae3832",
+        "5e88f6c01a27285ecd0ce1dd293a399e",
+        "56eac99cdf04acdb22464b5063df2b93",
         "f822dd4d7a9290624864e5a92712ba08",
         "ca8e5100d809875f1f9f9b10b85ec256",
         "7b86d151397bd3b26637162c987f0b1e",
@@ -726,19 +736,9 @@
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
         "25375a273703fbd792f71e66ba982f05",
         "0ef9a05173ac761d2e18c2f87800c7fd",
-        "0489aad2d21bb4d175bb495c58d6d210",
-        "16061021938788e98e9d4f91c8316a6b",
-        "23a31c98fb8d3039632d683313900890",
-        "dc902c467d5ebb0ae6192f827a56225c",
-        "9f6a98f8ffeb48969df33e0a5ebb4ba7",
-        "2572dc66503aec039f36916141a20b6d",
-        "8d15aafde38b4f7003d03f97cfdf9d18",
-        "750fd152325f4dc2beb725d52cc9fce7",
-        "368b365fc3f9f77ec20e5cfc99fa3da2",
-        "4c92991b4c2b27039072e3ebc410da51",
-        "c11da843ae28f07d36ef0c5d170b16aa"
+        "0489aad2d21bb4d175bb495c58d6d210"
       ],
-      "last_run": "2026-07-01 03:03 UTC",
+      "last_run": "2026-07-01 03:21 UTC",
       "new_sub_topics_this_run": [
         "data",
         "programming",
@@ -750,7 +750,7 @@
         "online",
         "structures"
       ],
-      "last_new_count": 3
+      "last_new_count": 10
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -858,6 +858,14 @@
         "Astral"
       ],
       "last_result_hashes": [
+        "17f40f751da9a1c9558ca7dbf958ae7e",
+        "601c908415755e9857c165d01aa52cc1",
+        "a1233cdbbbaf5c3624b23b99f9297143",
+        "186472734b3375b680871e13a0117ace",
+        "f556e654c5c4707e54935afca3fc12d0",
+        "d312cb77ade078c8f1e9dac2e24a756b",
+        "c90455bc8c312e42563f7c444591fd3f",
+        "57ad949b13054a49134274f7b5cbab95",
         "a454e6bd90dd4ae1795224af7e27c1bb",
         "661f5f68f6928f4ea520218b2f607795",
         "dd98088bd44f163005b52f39b2756953",
@@ -869,17 +877,9 @@
         "1d2c3f7c79b6739381eda440cbb16a95",
         "17f40f751da9a1c9558ca7dbf958ae7e",
         "6a4af48d2987d8780c0948375ba78d1f",
-        "6e6443d73616a81cc7ebcc90431f7471",
-        "81dce9a3456c995b63d1d7c65fe526d4",
-        "3977a42e266cba0d9724f6994662a434",
-        "b0c6b7ec5e1d01c9879d33f2c94c3c8a",
-        "d312cb77ade078c8f1e9dac2e24a756b",
-        "57c085892adfb8eb151771c2479e369a",
-        "952e4cdd85ea50368b5178492a0c873c",
-        "1cf455284bb0983215069efb06784c61",
-        "10a6d6e786cdb44ade53e424b1cf9cd2"
+        "6e6443d73616a81cc7ebcc90431f7471"
       ],
-      "last_run": "2026-07-01 03:03 UTC",
+      "last_run": "2026-07-01 03:21 UTC",
       "new_sub_topics_this_run": [
         "compiler",
         "operators",
@@ -894,7 +894,7 @@
         "w3schools",
         "everybody"
       ],
-      "last_new_count": 7
+      "last_new_count": 8
     },
     "llm-wiki-explore": {
       "last_result_hashes": [
