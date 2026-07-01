@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 244) — UNCERTAINTY-AWARE REWARD MODELING / ADAPTIVE CONFORMAL SEMANTIC ENTROPY / PIPELINE-AWARE CONFORMAL PREDICTION**
+
+- [[llms-uncertainty-quantification-via-adaptive-conformal-semantic-entropy-2605.04295]]
+  LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy: LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy (ACSE): Proposes adaptive conformal semantic entropy for quantifying uncertainty in LLM outputs. Operates on semantic equivalence classes rather than token-level probabilities, measuring entropy over meaning-preserving output groups to detect hallucination and overconfidence. First adaptive conformal method using semantic equivalence classes for LLM uncertainty quantification.
+- [[pasc-pipeline-aware-conformal-prediction-with-joint-coverage-guarantees-for-multi-stage-nlp-and-llm-pipelines-2605.18812]]
+  PASC: Pipeline-Aware Conformal Prediction with Joint Coverage Guarantees for Multi-Stage NLP and LLM Pipelines: PASC: Pipeline-Aware Conformal Prediction: Proposes pipeline-aware conformal prediction for multi-stage NLP and LLM systems where errors cascade across stages. Provides joint coverage guarantees across all pipeline stages simultaneously, unlike standard conformal prediction which assumes single-model exchangeability. First conformal prediction framework with pipeline-aware joint coverage for multi-stage NLP/LLM pipelines.
+- [[rewarduq-a-unified-framework-for-uncertainty-aware-reward-models-2602.24040]]
+  RewardUQ: A Unified Framework for Uncertainty-Aware Reward Models: RewardUQ: Unified Uncertainty-Aware Reward Framework: Proposes a unified framework for uncertainty-aware reward modeling that captures both epistemic and aleatoric uncertainty in LLM alignment. Decomposes reward uncertainty into knowledge uncertainty and annotation uncertainty, enabling safer RLHF by abstaining from high-uncertainty reward regions. First unified framework for uncertainty-aware reward modeling decomposing epistemic from aleatoric uncertainty in LLM alignment.
 **2026-07-01 — Run 243) — ENVIRONMENT-FREE CODING VERIFIER / PRIVILEGE ILLUSION DISTILLATION / DELAYED VERIFICATION BELIEF INSTABILITY**
 
 - [[dockerless-environment-free-program-verifier-for-coding-agents-2606.28436]]
