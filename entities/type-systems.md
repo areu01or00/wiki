@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: Monkeytype
+- **2026-07-01** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: Learn
+- **2026-07-01** | [Learn Touch Typing Free - TypingClub](http://www.typingclub.com/) | kw: Learn
+- **2026-07-01** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: TypingTest.com
+- **2026-07-01** | [TypeRacer - Play Typing Games and Race Friends](https://play.typeracer.com/) | kw: TypeRacer
+- **2026-07-01** | [Nitro Type | Competitive Typing Game | Race Your Friends](https://www.nitrotype.com/) | kw: Nitro
+- **2026-07-01** | [TypeTest.io - Test Your Typing Speed and Improve Your WPM](https://typetest.io/) | kw: TypeTest.io
+- **2026-07-01** | [Free Online Typing Tutor - SpeedTypingOnline](https://www.speedtypingonline.com/typing-tutor) | kw: Free
+- **2026-07-01** | [Touch Typing Practice Online](https://www.typingstudy.com/) | kw: Touch
+
 - **2026-07-01** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: Efficient
 - **2026-07-01** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard
 - **2026-07-01** | [Elixir's Gradual Type System (1.17–1.20): How the Compiler Finally ...](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: Elixir's

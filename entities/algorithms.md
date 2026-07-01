@@ -4085,6 +4085,16 @@
 
 
 ## Updates
+- **2026-07-01** | [Unexpected end of JSON input - Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Unexpected
+- **2026-07-01** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy ...](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: I
+- **2026-07-01** | [Top 100 Data Structure and Algorithms DSA Interview ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top
+- **2026-07-01** | [Solving LeetCode's Top Interview Questions in Java [2026] - Udemy](https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/?srsltid=AfmBOorBXhnrXUAGJ98yR2IhSz3NIv2MeGV81vMaPV3IWPXSQzcQexW2) | kw: Solving
+- **2026-07-01** | [Coding Interviews in 2026: Everything You Need to Prepare](https://www.tutort.net/blogs/coding-interviews-in-2026-everything-you-need-to-prepare) | kw: Coding
+- **2026-07-01** | [LeetCode - The World's Leading Online Programming Learning ...](https://leetcode.com/) | kw: LeetCode
+- **2026-07-01** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) | kw: Data
+- **2026-07-01** | [Awesome LeetCode resources to learn Data Structures and ... - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: Awesome
+- **2026-07-01** | [Top 5 LeetCode Alternatives for Tech Interviews in 2026 - PracHub](https://prachub.com/resources/top-5-leetcode-alternatives-for-tech-interviews-in-2026) | kw: Top
+
 - **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What
 - **2026-07-01** | [Algorithms in Computer Science: A Complete Beginner's Guide with...](https://medium.com/@mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis-7ae156894d2f) | kw: Algorithms
 - **2026-07-01** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: Algorithms,

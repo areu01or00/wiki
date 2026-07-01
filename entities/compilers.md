@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [2026 EuroLLVM Developers' Meeting - LLVM.org](https://llvm.org/devmtg/2026-04/) | kw: 2026
+- **2026-07-01** | [Easy::jit: A just-in-time compiler for C++ - GitHub](https://github.com/jmmartinez/easy-just-in-time) | kw: Easy::jit:
+
 - **2026-07-01** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time
 - **2026-07-01** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT
 - **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: The

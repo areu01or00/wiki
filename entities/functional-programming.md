@@ -1,4 +1,14 @@
 ## Updates
+- **2026-07-01** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: FUNCTIONAL
+- **2026-07-01** | [FUNCTIONAL | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: FUNCTIONAL
+- **2026-07-01** | [Functional - definition of functional by The Free Dictionary](https://www.thefreedictionary.com/functional) | kw: Functional
+- **2026-07-01** | [Functional Definition & Meaning | Britannica Dictionary](https://www.britannica.com/dictionary/functional) | kw: Functional
+- **2026-07-01** | [FUNCTIONAL definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/functional) | kw: FUNCTIONAL
+- **2026-07-01** | [functional - WordReference.com Dictionary of English](https://www.wordreference.com/definition/functional) | kw: functional
+- **2026-07-01** | [functional, adj. & n. meanings, etymology and more | Oxford...](https://www.oed.com/dictionary/functional_adj) | kw: functional,
+- **2026-07-01** | [functional - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/functional) | kw: functional
+- **2026-07-01** | [functional adjective - Definition, pictures, pronunciation and...](https://www.oxfordlearnersdictionaries.com/definition/english/functional) | kw: functional
+
 - **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: Haskell
 - **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional
 - **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure

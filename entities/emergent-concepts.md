@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+**2026-07-01 — Run 277) — AUTONOMOUS AGENT DEVELOPMENT / AGENTIC SKILL EVALUATION / LONG-TERM AGENT MEMORY**
+
+- [[ramem-contextual-reinstatement-for-long-term-agentic-memory-2606.22844]]
+  RaMem: First context-collapse formalization + four-stage evidence-anchored retrieval for long-term agent memory — achieves 10%+ F1 gains over strong baselines. **First context-collapse failure mode + contextual reinstatement framework in wiki.**
+
+- [[a-framework-for-evaluating-agentic-skills-at-scale-2606.17819]]
+  SkillsBench: First reusable methodology for evaluating individual agent skills independently of backbone — 500 skills, 1,000 tasks, 19 model configurations. **First scalable skill-evaluation framework in wiki.**
+
+- [[the-meta-agent-challenge-are-current-agents-capable-of-autonomous-agent-development-2606.04455]]
+  MAC benchmark: Tests whether frontier models can autonomously develop agent systems — most fail to match human baselines; only proprietary frontier models approach parity. **First recursive-self-improvement benchmark for LLM agents in wiki.**
+
 **2026-07-01 — Run 276) — RL TRAINING DYNAMICS / MULTIMODAL AGENTIC SEARCH / LATENT VS EXPLICIT REASONING**
 
 - [[bridging-the-gap-between-latent-and-explicit-reasoning-with-looped-transformers-2606.31779]]

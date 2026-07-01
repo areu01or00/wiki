@@ -3931,6 +3931,16 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How
+- **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: What
+- **2026-07-01** | [The GIL Explained — What It Is, What It Isn't, and How to Work Around It](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: The
+- **2026-07-01** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Top
+- **2026-07-01** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: Advanced
+- **2026-07-01** | [MEMORY_MANAGEMENT (0x1A) в Windows 10/11: как исправить...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: MEMORY_MANAGEMENT
+- **2026-07-01** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: Top
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: Internals
+- **2026-07-01** | [GitHub - skyfirews/prep · GitHub](https://github.com/skyfirews/prep) | kw: GitHub
+
 - **2026-07-01** | [Memory Management and GIL in Python: Python Guide (2026) | Edugators](https://www.edugators.com/python-online-training/advanced/python-memory-gil) | kw: Memory
 - **2026-07-01** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Memory
 - **2026-07-01** | [Python - Python Internals: Memory Management & the Global Interpreter ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python
