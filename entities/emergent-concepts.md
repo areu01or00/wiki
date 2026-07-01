@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 292: Continual Learning Survey / SAE-Guided Regularization / SLM Sequential Personalization
+
+- [[continual-learning-for-sequential-personalization-of-small-language-mo-2606.27634]]
+  Continual Learning for Sequential Personalization of Small Language Models — Paula, Thomas S.; Kupssinskü, Lucas S.; Barros, Rodrigo C. — first systematic study of catastrophic forgetting in sequential SLM personalization on edge devices, finding SLMs have distinct forgetting profiles (higher intra-task interference, lower replay recovery) from larger LLMs. **First SLM sequential personalization paper in wiki.**
+
+- [[from-weights-to-features-sae-guided-activation-regularization-for-llm--2606.26629]]
+  From Weights to Features: SAE-Guided Activation Regularization for LLM Continual Learning — Ning, Evan; Xue, Wei; Lou, Dong; Guo, Yike — SAE-guided activation regularization at the feature level to solve catastrophic forgetting, addressing the polysemanticity problem where EWC-style weight-space regularization collapses for LLMs. **First SAE-decomposition-as-regularization-target paper in wiki.**
+
+- [[llm-evolution-as-an-industry-scale-ecosystem-a-lifecycle-perspective-o-2606.24901]]
+  LLM Evolution as an Industry-Scale Ecosystem: A Lifecycle Perspective on Continual Learning — Jiang, Hao; Yang, Enneng; Zhu, Guojie + 10 — reformulates industrial continual learning as a full lifecycle problem (data → eval → deploy → monitor), critiquing static benchmark saturation. **First industrial-scale LLM lifecycle CL survey in wiki.**
+
 ### 2026-07-01 — Run 291: Self-Improvement Survey / Bidirectional Evolutionary Search / Trajectory-Informed Memory
 
 - [[self-improving-language-models-with-bidirectional-evolutionary-search-2605.28814]]
