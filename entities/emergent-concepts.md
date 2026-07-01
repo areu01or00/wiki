@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 313: Deep-Sub-Cluster PROBE-AXIS: Jailbreak Mechanistic Evidence / ToM Self-Attribution Dissociation / Subjective WTP Inference (Rule 36c: attention-head-jailbreak-mechanism / safety-fine-tuning-dissociation / preference-elicitation-bias)
+
+- [[robust-harmful-features-under-jailbreak-attacks-mechanistic-evidence-from-attention-head-specialization-in-large-language-models-2606.28153]] — [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](https://arxiv.org/abs/2606.28153) — Yin, Yanchen; Han, Dongqi; Li, Linghui — jailbreak attacks selectively suppress specific attention heads rather than eliminating safety features wholesale; identifies two functionally differentiated harmful feature types. **First mechanistic attention-head substrate evidence for jailbreak bypass in the wiki.**
+
+- [[theory-of-mind-and-self-attributions-of-mentality-are-dissociable-in-llms-2603.28925]] — [Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs](https://arxiv.org/abs/2603.28925) — Kim, Junsol; Street, Winnie; Rocca, Roberta + 4 — safety fine-tuning that suppresses self-consciousness does NOT degrade ToM capabilities; behavioral and mechanistic dissociation between self-attribution and other-modeling. **First ToM-self-attribution-dissociation paper in the wiki.**
+
+- [[would-a-large-language-model-pay-extra-for-a-view-inferring-willingness-to-pay-from-subjective-choices-2602.09802]] — [Would a Large Language Model Pay Extra for a View? Inferring Willingness to Pay from Subjective Choices](https://arxiv.org/abs/2602.09802) — Reusens, Manon; Goethals, Sofie; Calders, Toon + 1 — frontier LLMs can infer user preferences reasonably well but exhibit systematic biases (anchoring, scope neglect) vs human WTP patterns in travel/purchasing scenarios. **First willingness-to-pay subjective-choice modeling paper in the wiki.**
+
 ### 2026-07-02 — Run 312: Deep-Sub-Cluster PROBE-AXIS: Reasoning Robustness / Memory Failure Modes / Metacognitive Compliance Trap (Rule 36c: reasoning-collapse-under-perturbation / memory-architectural-constraints / adversarial-metacognition-degradation)
 
 - [[robust-reasoning-benchmark-2604.08571]] — [Robust Reasoning Benchmark](https://arxiv.org/abs/2604.08571) — Golikov, Pavel; Opryshko, Evgenii; Pekhimenko, Gennady + 1 — 13-perturbation evaluation pipeline for LLM reasoning robustness; reveals up to 54pp accuracy degradation under structural noise including cognitive thrashing, tokenization breakdown, and reasoning collapse. **First perturbation-robustness taxonomy for mathematical reasoning in the wiki.**

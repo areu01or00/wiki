@@ -41,6 +41,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: gradual
+
+- **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: gradual
+
+- **2026-07-01** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: gradual
+
+- **2026-07-01** | [Gradual Typing with Unication-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: gradual
+
+- **2026-07-01** | [Formal Verification and Type Systems... | Software Patterns Lexicon](https://softwarepatternslexicon.com/js/emerging-technologies-and-advanced-topics/formal-verification-and-type-systems-with-typescript/) | kw: typescript
+
 - **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: released
 - **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: of
 - **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Language

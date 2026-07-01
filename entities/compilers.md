@@ -33,6 +33,10 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [2026 EuroLLVM Developers' Meeting](https://llvm.org/devmtg/2026-04/) | kw: LLVM
+
+- **2026-07-01** | [Easy::jit: A just-in-time compiler for C++ - GitHub](https://github.com/jmmartinez/easy-just-in-time) | kw: jit
+
 - **2026-07-01** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: Wikipedia
 - **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Compilation
 - **2026-07-01** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: PPT

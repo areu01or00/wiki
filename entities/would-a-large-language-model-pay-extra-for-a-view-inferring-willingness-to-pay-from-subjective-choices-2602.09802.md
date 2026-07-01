@@ -14,7 +14,6 @@ As LLMs are increasingly deployed in travel assistance and purchasing support ap
 
 ## Key Facts
 - **Authors**: Reusens, Manon; Goethals, Sofie; Calders, Toon + 1
-- **Year**: 2026
 - **arXiv**: [2602.09802](https://arxiv.org/abs/2602.09802)
 - **Date**: 2026-02-10
 

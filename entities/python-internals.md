@@ -3943,6 +3943,10 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python
+
+- **2026-07-01** | [The Python Interview Question That Stumps 80% of... | Level Up Coding](https://levelup.gitconnected.com/the-python-interview-question-that-stumps-80-of-senior-developers-and-how-to-master-it-c74bbc5cb9c0) | kw: interview
+
 - **2026-07-01** | [Memory Management in Python - Real Python](https://realpython.com/python-memory-management/) | kw: in
 - **2026-07-01** | [The GIL Explained | EngineersOfAI](https://engineersofai.com/docs/python/python-systems-and-internals/module+1+_+cpython+internals/the-gil-explained) | kw: Explained
 - **2026-07-01** | [Advanced Python Internals: GIL, Multithreading - DEV Community](https://dev.to/aman_kumar_6d5d23b9b1ed02/advanced-python-internals-gil-multithreading-20mk) | kw: Internals

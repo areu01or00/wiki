@@ -4117,6 +4117,26 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: leetcode
+
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: leetcode
+
+- **2026-07-01** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: github
+
+- **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: leetcode
+
+- **2026-07-01** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: neetcode
+
+- **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: datastructures
+
+- **2026-07-01** | [Los leetcode repositorios principales - Proyectos de GitHub... | Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: leetcode
+
+- **2026-07-01** | [My Senior Android Engineer Interview Experience with Tinder | Medium](https://medium.com/@YodgorbekKomilo/my-senior-android-engineer-interview-experience-with-tinder-389d7c44b24a) | kw: interview
+
+- **2026-07-01** | [algorithms-datastructures - 技术专题深度解读 | GitHub 中文社区](https://github-cn.com/topics/algorithms-datastructures) | kw: github
+
+- **2026-07-01** | [neetcode · GitHub Topics · GitHub](https://github.com/topics/neetcode) | kw: neetcode
+
 - **2026-07-01** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: Wikipedia
 - **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: an
 - **2026-07-01** | [Algorithms in Computer Science: A Complete Beginners Guide](https://medium.com/@mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis-7ae156894d2f) | kw: Computer

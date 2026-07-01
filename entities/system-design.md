@@ -3619,6 +3619,14 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
+
+- **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating
+
+- **2026-07-01** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: System
+
+- **2026-07-01** | [System | All Journal Issues | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/system/issues) | kw: System
+
 - **2026-07-01** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: Guide
 - **2026-07-01** | [Cloud Design Patterns - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/) | kw: Patterns
 
