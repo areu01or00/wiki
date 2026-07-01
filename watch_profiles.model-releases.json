@@ -129,6 +129,7 @@
       "category": "chinese-open",
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
+        "ef43599a7b623b364a9a254e324d7208",
         "c0ae3286101f77f4176998284f769cdf",
         "38c97c3a0601234bcc698f35c65f711e",
         "bed6d853b6ed2647d8d1ec676384d376",
@@ -147,19 +148,19 @@
         "34450a7951cf34013649a2558eaee9f2",
         "0327a5e92e0d0854dfa577ddacdb2cd2",
         "d7117e53ec7738be1ed9af4b147a7cb8",
-        "c909e96fac94ef11585e16d0a900214d",
-        "bd0fe7158ae634ad47c380bf3191908a"
+        "c909e96fac94ef11585e16d0a900214d"
       ],
-      "last_run": "20260701_014619",
+      "last_run": "20260701_030944",
       "last_update_hash": null,
       "query": "Zhipu GLM ChatGLM new model release weights API",
-      "run_count": 122,
+      "run_count": 123,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "google-deepmind-releases": {
       "category": "major-lab",
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
+        "0c0fa2d8f5617114b403ea42e51d51d8",
         "c0ae3286101f77f4176998284f769cdf",
         "38c97c3a0601234bcc698f35c65f711e",
         "bed6d853b6ed2647d8d1ec676384d376",
@@ -178,13 +179,12 @@
         "34450a7951cf34013649a2558eaee9f2",
         "0327a5e92e0d0854dfa577ddacdb2cd2",
         "7260ebd21fb8eb33d2b79133bfe333d4",
-        "941ce7ad6aada5e019f1084ac58ea8f3",
-        "aea103ec6001e0100ed500c8afaaf4c1"
+        "941ce7ad6aada5e019f1084ac58ea8f3"
       ],
-      "last_run": "20260701_014619",
+      "last_run": "20260701_030944",
       "last_update_hash": null,
       "query": "Google DeepMind Gemini new model release API Gemma",
-      "run_count": 120,
+      "run_count": 121,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "huggingface-trending": {
@@ -441,6 +441,7 @@
       "discovered_at_cycle": 3,
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
+        "400f8b3980fdcc036de85bc75129ccea",
         "c0ae3286101f77f4176998284f769cdf",
         "38c97c3a0601234bcc698f35c65f711e",
         "bed6d853b6ed2647d8d1ec676384d376",
@@ -459,13 +460,12 @@
         "34450a7951cf34013649a2558eaee9f2",
         "0327a5e92e0d0854dfa577ddacdb2cd2",
         "7260ebd21fb8eb33d2b79133bfe333d4",
-        "941ce7ad6aada5e019f1084ac58ea8f3",
-        "7cd4eb45cdcfc6b02f5474f8763fcee1"
+        "941ce7ad6aada5e019f1084ac58ea8f3"
       ],
-      "last_run": "20260701_014619",
+      "last_run": "20260701_030944",
       "last_update_hash": null,
       "query": "Sakana AI Fugu model release Japanese lab",
-      "run_count": 116,
+      "run_count": 117,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "swiss-ai-apertus": {
@@ -601,6 +601,7 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 59,
       "last_result_hashes": [
+        "27bc92e3e63d1a49732b36e137b92ca9",
         "3d655dc80ed2b5bf869ec1489c0b3091",
         "c0ae3286101f77f4176998284f769cdf",
         "38c97c3a0601234bcc698f35c65f711e",
@@ -619,11 +620,10 @@
         "e3e1efcd436e9492ad1e15e1c43f41f5",
         "34450a7951cf34013649a2558eaee9f2",
         "0327a5e92e0d0854dfa577ddacdb2cd2",
-        "9c1340ddbcefe7eab705ae8a2982b833",
-        "c7e5c5c2445e67d5521c5810d4ca30d4"
+        "9c1340ddbcefe7eab705ae8a2982b833"
       ],
-      "last_run": "20260701_014619",
-      "run_count": 78,
+      "last_run": "20260701_030944",
+      "run_count": 79,
       "last_checked": "2026-07-01T00:30:00+00:00",
       "last_update_hash": null
     },
@@ -693,8 +693,10 @@
       "name": "Meituan LongCat",
       "query": "Meituan LongCat new model release LLM announced",
       "category": "auto-discovered",
-      "run_count": 32,
+      "run_count": 33,
       "last_result_hashes": [
+        "cf61524bf95161257c180e431dfbee5d",
+        "7132b3cf97e46433fbee0f773513baef",
         "d7a3d54a09e7d0eca61351c6087e8e8b",
         "ed174fbb6438bf88b28105454d508db6",
         "175dcade9f7c9642d8ed980f8fb72b6c",
@@ -712,13 +714,11 @@
         "51cff88491f119163d96713cc87ba02c",
         "f184d7b139a49322cf11dd17829f5bc9",
         "6e2cffa44c4e1691cd00622a2ef72e2b",
-        "75f159db65e1785d0fcd575360b735ff",
-        "63db8360a36d852e7d6fd488bf300aad",
-        "fa029037d4c891d052f70cd64d8ed9f7"
+        "75f159db65e1785d0fcd575360b735ff"
       ],
       "discovered_at_cycle": "c106-20260630",
       "notes": "Auto-discovered c106 via x_search: LongCat-2.0 announced June 30, 2026",
-      "last_run": "20260701_021537"
+      "last_run": "20260701_030944"
     },
     "huawei": {
       "query": "Huawei OpenPangu new model release open weights LLM",
