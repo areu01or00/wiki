@@ -537,6 +537,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-06-24** | [Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural Narratives in Large Language Models](https://arxiv.org/abs/2606.24610v1) | kw: Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural | source: arxiv-cs-cl
 - **2026-06-24** | [AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability](https://arxiv.org/abs/2606.24589v1) | kw: AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and | source: arxiv-cs-cl
 
+- **2026-07-01** | [openPangu 2.0 KuCoin launch Jun 30](https://www.kucoin.com/news/flash/huawei-launches-openpangu-2-0-with-50-5b-parameters-and-512k-context) | kw: API LAUNCH | source: huawei
+
 ## Auto-Discovered Profiles
 *Profiles auto-added by discovery layer each cycle. Tracked from this cycle onwards.*
 
