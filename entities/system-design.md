@@ -3619,6 +3619,13 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system design
+- **2026-07-01** | [How I Build a Distributed System in 2026: Principles, Patterns, and ...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: system design
+- **2026-07-01** | [Distributed Systems Patterns Every Backend Engineer Must Know in 2026](https://devstarsj.github.io/2026/03/26/distributed-systems-patterns-guide-2026/) | kw: system design
+- **2026-07-01** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026/) | kw: system design
+- **2026-07-01** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system design
+- **2026-07-01** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system design
+
 
 - **2026-07-01** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: you
 - **2026-07-01** | [Background Jobs and Queues: 2026 Engineering Reference](https://www.digitalapplied.com/blog/background-job-queue-patterns-2026-engineering-reference) | kw: background

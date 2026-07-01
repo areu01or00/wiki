@@ -3943,6 +3943,13 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python internals
+- **2026-07-01** | [The GIL Explained — What It Is, What It Isn't, and How to Work Around It](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: python internals
+- **2026-07-01** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: python internals
+- **2026-07-01** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: python internals
+- **2026-07-01** | [Python Interview Questions: Key Features, Memory Management...](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: python internals
+- **2026-07-01** | [Beyond basics: async, type hints, packaging, and production Python](https://jobcannon.io/skills/python-advanced) | kw: python internals
+
 
 - **2026-07-01** | [Memory Management — Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: memory
 - **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: pythons

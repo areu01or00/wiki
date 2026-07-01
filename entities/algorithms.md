@@ -4117,6 +4117,15 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-01** | [leetcode · GitHub Topics · GitHub](https://github.com/topics/leetcode) | kw: algorithms
+- **2026-07-01** | [Comprehensive List of 50 Frequently Asked DSA and LeetCode...](https://umarfarooquekhan.medium.com/comprehensive-list-of-50-frequently-asked-dsa-and-leetcode-interview-problems-with-links-e3f0302e4732) | kw: algorithms
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: algorithms
+- **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: algorithms
+- **2026-07-01** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [Los leetcode repositorios principales - Proyectos de GitHub... | Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: algorithms
+
 
 - **2026-07-01** | [List of algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms) | kw: list
 - **2026-07-01** | [Introduction to Algorithms - MIT Press](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) | kw: introduction

@@ -31,6 +31,15 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional programming
+- **2026-07-01** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional programming
+- **2026-07-01** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional programming
+- **2026-07-01** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional programming
+- **2026-07-01** | [Haskell Stadium: A Deep Dive into Functional Programming's Arena](https://www.elmelaab.net/haskell-stadium/) | kw: functional programming
+- **2026-07-01** | [Functional Programming in Rust - Medium](https://medium.com/rust-rock/functional-programming-in-rust-2198a970de95) | kw: functional programming
+- **2026-07-01** | [Monads are Omnipresent in Rust - bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: functional programming
+- **2026-07-01** | [Hello, Haskell: Getting Started in 2026 · lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: functional programming
+
 
 - **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monad
 - **2026-07-01** | [7 Best Free Haskell Courses for 2026 — Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: best
