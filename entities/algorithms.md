@@ -4117,6 +4117,17 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: algorithms
+- **2026-07-01** | [datastructures-algorithms GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [Leetcode data structures beginner problems DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms
+- **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [NeetCode Coding Interview Prep Courses Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-07-01** | [Los leetcode repositorios principales Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: algorithms
+- **2026-07-01** | [My Senior Android Engineer Interview Experience with Tinder Medium](https://medium.com/@YodgorbekKomilo/my-senior-android-engineer-interview-experience-with-tinder-389d7c44b24a) | kw: algorithms
+- **2026-07-01** | [algorithms-datastructures GitHub Chinese Community](https://github-cn.com/topics/algorithms-datastructures) | kw: algorithms
+- **2026-07-01** | [Data Structure and Algorithm Explanation TikTok](https://www.tiktok.com/discover/data-structure-and-algortihm-explanation) | kw: algorithms
+
 - **2026-07-01** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: asked
 - **2026-07-01** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: interview
 

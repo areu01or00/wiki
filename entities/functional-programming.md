@@ -31,6 +31,16 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Functional Programming in 2026 Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: functional programming
+- **2026-07-01** | [The Practical Value of Functional Programming Monad Functor Pure](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: functional programming
+- **2026-07-01** | [Haskell Guide 2026 Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: functional programming
+- **2026-07-01** | [How I Learned Monads Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: functional programming
+- **2026-07-01** | [Does Rust Support Functional Programming Idioms Exploring Filter Map](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: functional programming
+- **2026-07-01** | [Haskell Stadium A Deep Dive into Functional Programming Arena](https://www.elmelaab.net/haskell-stadium/) | kw: functional programming
+- **2026-07-01** | [Functional Programming in Rust Medium](https://medium.com/rust-rock/functional-programming-in-rust-2198a970de95) | kw: functional programming
+- **2026-07-01** | [Monads are Omnipresent in Rust bertiqwerty](https://www.bertiqwerty.com/en/posts/monad/) | kw: functional programming
+- **2026-07-01** | [Hello Haskell Getting Started in 2026](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: functional programming
+
 - **2026-07-01** | [Issue 529 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/529.html) | kw: issue
 - **2026-07-01** | [Community version of "Learn You a Haskell…" (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: community
 
