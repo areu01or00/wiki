@@ -1,6 +1,8 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [type () function in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-type-function/) | kw: type-systems
+
 - **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type systems
 - **2026-07-01** | [The Dynamic Practice and Static Theory of Gradual Typing](http://dagstuhl.sunsite.rwth-aachen.de/volltexte/2019/10549/pdf/LIPIcs-SNAPL-2019-6.pdf) | kw: type systems

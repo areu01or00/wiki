@@ -4085,6 +4085,14 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: algorithms
+- **2026-07-01** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms
+- **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [Los leetcode repositorios principales - Proyectos de GitHub... | Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: algorithms
+- **2026-07-01** | [My Senior Android Engineer Interview Experience with Tinder | Medium](https://medium.com/@YodgorbekKomilo/my-senior-android-engineer-interview-with-tinder-389d7c44b24a) | kw: algorithms
+- **2026-07-01** | [neetcode · GitHub Topics · GitHub](https://github.com/topics/neetcode) | kw: algorithms
+
 - **2026-07-01** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
 - **2026-07-01** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: algorithms
 - **2026-07-01** | [LeetCode vs NeetCode vs PracHub (2026 Interview Guide)](https://prachub.com/resources/leetcode-vs-neetcode-vs-prachub-2026-interview-guide) | kw: algorithms
