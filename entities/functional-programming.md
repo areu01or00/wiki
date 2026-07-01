@@ -31,6 +31,10 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional programming
+- **2026-07-01** | [7 Best Free Haskell Courses for 2026](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: functional programming
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional programming
+
 - **2026-07-01** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional (mathematics) - Wikipedia
 - **2026-07-01** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: FUNCTIONAL Definition & Meaning - Merria
 - **2026-07-01** | [FUNCTIONAL Synonyms: 118 Similar and Opposite Words](https://www.merriam-webster.com/thesaurus/functional) | kw: FUNCTIONAL Synonyms: 118 Similar and Opp

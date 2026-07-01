@@ -4117,6 +4117,8 @@
 
 
 ## Updates
+- **2026-07-01** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+
 - **2026-07-01** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms
 - **2026-07-01** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
 - **2026-07-01** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/) | kw: algorithms

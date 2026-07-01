@@ -283,8 +283,6 @@
         "developments"
       ],
       "last_result_hashes": [
-        "7d0b717005814217330e578b0fbdc8fb",
-        "497722584ba1ee7b95f866c5d9ba8a76",
         "da4da22ebe0b30bc79e1ad7a94e5310c",
         "ca9ade675eecf6183c340d40af57c779",
         "c6982ba3f2387fa7efa4b53444c6c85e",
@@ -302,9 +300,11 @@
         "6cfd3bf8197543310bb62b859ab44b2f",
         "0e5b105be67d2d11f3664ebcd5f1fad1",
         "fa245584d41c964b09194de5b11ad824",
-        "dc3f9e9c8ab79b25fd7c215d116fd33e"
+        "dc3f9e9c8ab79b25fd7c215d116fd33e",
+        "c7f41a3fcfb1432a2c8f4814cd11ad30",
+        "6e76d5990761a54f756d319e37fddbb0"
       ],
-      "last_run": "2026-07-01T17:34:05.530710+00:00",
+      "last_run": "2026-07-01T17:47:25.033777+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -431,8 +431,6 @@
         "AGT"
       ],
       "last_result_hashes": [
-        "a3687d388b554d6f342102d30b6e029d",
-        "88dfcf74de33a1e88c9e9c90d0e55f9b",
         "0e99faa80316ba7e2d573f17baed4ac2",
         "975a1b475e0a58b8c26e87f4d85fdf65",
         "34e12ad7b389cad21a1d1c5801960e63",
@@ -450,9 +448,11 @@
         "0f283757319d5365f9f3d2ac8e848912",
         "10a59e2ab5bcc4c0710cbe6131b13188",
         "fc735fa9ff4c8d2d83888648a67a3892",
-        "34939ab67a7a61b2d12862278df90c35"
+        "34939ab67a7a61b2d12862278df90c35",
+        "0940c3cea7239d5389eb0d921777f44c",
+        "1892288ce3bfda31458d852753d72f5f"
       ],
-      "last_run": "2026-07-01T17:34:05.530758+00:00",
+      "last_run": "2026-07-01T17:47:25.033777+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 10
     },
@@ -576,9 +576,6 @@
         "Elixir"
       ],
       "last_result_hashes": [
-        "342907b148d6a4bf9c823bdbba89b871",
-        "dbce4e6cdd1ef898baaf1e4d0f4b78a3",
-        "dd25820f790098fdc7dc382c38902ef4",
         "3dab99b5330ccd20db91a26c202fbc1e",
         "93f73097d592fc6a2fe0abda2019b299",
         "0c082ec34d87f915fa337ac2f8540872",
@@ -595,9 +592,12 @@
         "5f0c21350e867da0497138104e88c638",
         "5d7c2c05d1473ae3fb2f90abd8c197dc",
         "7849c4b20c1f881bbdfb853bb6d0f4b2",
-        "02e622828e68b351637ea52a51bde6db"
+        "02e622828e68b351637ea52a51bde6db",
+        "ab1a401478bf91151df62818473f5ef5",
+        "f2f316e6f0bfa69dd892c922d4cc7226",
+        "cc9f3837164b6e0e6edde576a14a1c3f"
       ],
-      "last_run": "2026-07-01T17:34:05.530772+00:00",
+      "last_run": "2026-07-01T17:47:25.033777+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 0
     },
@@ -730,7 +730,6 @@
         "These"
       ],
       "last_result_hashes": [
-        "37b18b3ee5841dc8d78ef02edf927dc9",
         "60233ba12f224764b5938c3634b02e6a",
         "9bae7c320eaa49023b76088f638f22f3",
         "89319d12665156dcafa1ec5e682a6f3d",
@@ -749,9 +748,10 @@
         "ff8047902608746589560cffb7b792a9",
         "9f6a98f8ffeb48969df33e0a5ebb4ba7",
         "2572dc66503aec039f36916141a20b6d",
-        "f822dd4d7a9290624864e5a92712ba08"
+        "f822dd4d7a9290624864e5a92712ba08",
+        "8d15aafde38b4f7003d03f97cfdf9d18"
       ],
-      "last_run": "2026-07-01T17:34:05.530816+00:00",
+      "last_run": "2026-07-01T17:47:25.033777+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 8
     },
@@ -881,9 +881,6 @@
         "Dive"
       ],
       "last_result_hashes": [
-        "713aa76fd3e5c36cf7d3d8caea96c0bc",
-        "31336ded29a2c13a42f4462d87a2462e",
-        "a1233cdbbbaf5c3624b23b99f9297143",
         "c644c61774b53593b05d98f55951400a",
         "b0c6b7ec5e1d01c9879d33f2c94c3c8a",
         "dbd37a4229fff83fce7f6802c6805f45",
@@ -900,9 +897,12 @@
         "238dd6ae5d2a4f3308b871fdae7cc7d8",
         "1c9e34c438b893768685d5e9b0743087",
         "d5e5543997956979736472fec0d56604",
-        "3f53aaddb3c9ccc1340c0fbf20196bee"
+        "3f53aaddb3c9ccc1340c0fbf20196bee",
+        "c24e025d56cdbbb52113c9aa94a36dea",
+        "bbb596c3441904fed7dc7fa5f00eeb00",
+        "4267214a3e558c4d98d146f1beba3d51"
       ],
-      "last_run": "2026-07-01T17:34:05.530863+00:00",
+      "last_run": "2026-07-01T17:47:25.033777+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 10
     },
