@@ -2,15 +2,15 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T00:00:00+00:00",
-  "__last_updated": "2026-07-01T00:00:00+00:00",
-  "last_run": 237,
+  "updated": "2026-07-04T00:00:00+00:00",
+  "__last_updated": "2026-07-04T00:00:00+00:00",
+  "last_run": 238,
   "last_explore": "2026-07-04T00:30:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "COLLECTIVE INTELLIGENCE LOTTERY / TOXICITY MITIGATION REPLICATION / AGENTIC MONTE CARLO BLACK-BOX OPTIMIZATION",
+  "last_run_framing": "LOOPTRAP ADVERSARIAL TERMINATION POISONING / ADAMEM LEARNED MEMORY WRITE-CONTROL / SKILLGRAD SKILL OPTIMIZATION AS GRADIENT DESCENT",
   "last_framing": "multi-agent scaling laws / LLM safety replication / black-box agentic RL",
-  "last_run_notes": "Run 236: Collective Intelligence Lottery (2603.24676) + Toxicity Mitigation Replication (2605.14087) + Agentic Monte Carlo (2606.05296)",
+  "last_run_notes": "Run 238: LoopTrap Termination Poisoning (2605.05846) + AdaMem Learned Memory Write-Control (2606.21144) + SkillGrad Skill Optimization (2605.27760)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 723,
+  "entities_count": 726,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7180,6 +7180,30 @@
       "arxiv_id": "2606.23030",
       "title": "Have You Ever Seen Them? Entity-level Membership Inference through Interrogating Large Language Models",
       "slug": "have-you-ever-seen-them-entity-level-membership-inference-through-interrogating-large-language-models-2606.23030"
+    },
+    {
+      "arxiv_id": "2605.05846",
+      "title": "LoopTrap: Termination Poisoning Attacks on LLM Agents",
+      "slug": "looptrap-termination-poisoning-attacks-on-llm-agents-2605.05846",
+      "url": "https://arxiv.org/abs/2605.05846",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "agent-security / adversarial / termination-poisoning"
+    },
+    {
+      "arxiv_id": "2606.21144",
+      "title": "AdaMem: Learning What to Remember for Personalized Long-Horizon LLM Agents",
+      "slug": "adamem-learning-what-to-remember-for-personalized-long-horizon-llm-agents-2606.21144",
+      "url": "https://arxiv.org/abs/2606.21144",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "agent-memory / inference-efficiency / write-control"
+    },
+    {
+      "arxiv_id": "2605.27760",
+      "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent",
+      "slug": "skillgrad-optimizing-agent-skills-like-gradient-descent-2605.27760",
+      "url": "https://arxiv.org/abs/2605.27760",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "agent-learning / skill-optimization / gradient-descent"
     }
   ],
   "emergent_discoveries": [
@@ -12653,6 +12677,30 @@
       "url": "https://arxiv.org/abs/2606.23030",
       "discovered": "2026-07-04T00:00:00+00:00",
       "theme": "privacy, membership-inference, security"
+    },
+    {
+      "arxiv_id": "2605.05846",
+      "title": "LoopTrap: Termination Poisoning Attacks on LLM Agents",
+      "slug": "looptrap-termination-poisoning-attacks-on-llm-agents-2605.05846",
+      "url": "https://arxiv.org/abs/2605.05846",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "agent-security / adversarial / termination-poisoning"
+    },
+    {
+      "arxiv_id": "2606.21144",
+      "title": "AdaMem: Learning What to Remember for Personalized Long-Horizon LLM Agents",
+      "slug": "adamem-learning-what-to-remember-for-personalized-long-horizon-llm-agents-2606.21144",
+      "url": "https://arxiv.org/abs/2606.21144",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "agent-memory / inference-efficiency / write-control"
+    },
+    {
+      "arxiv_id": "2605.27760",
+      "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent",
+      "slug": "skillgrad-optimizing-agent-skills-like-gradient-descent-2605.27760",
+      "url": "https://arxiv.org/abs/2605.27760",
+      "discovered": "2026-07-04T00:00:00+00:00",
+      "theme": "agent-learning / skill-optimization / gradient-descent"
     }
   ],
   "emergent_concept_search_log": [
@@ -19009,6 +19057,20 @@
         "2606.23030"
       ],
       "timestamp": "2026-07-04T00:00:00+00:00"
+    },
+    {
+      "run": 238,
+      "date": "2026-07-04",
+      "theme": "LOOPTRAP ADVERSARIAL TERMINATION POISONING / ADAMEM LEARNED MEMORY WRITE-CONTROL / SKILLGRAD SKILL OPTIMIZATION AS GRADIENT DESCENT",
+      "picks": [
+        "2605.05846",
+        "2606.21144",
+        "2605.27760"
+      ],
+      "vectors": [
+        "emergent-concept"
+      ],
+      "method": "arxiv HTML 6-query + abstract inspection"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

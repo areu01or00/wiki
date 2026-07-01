@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-04 — Run 238) — LOOPTRAP ADVERSARIAL TERMINATION POISONING / ADAMEM LEARNED MEMORY WRITE-CONTROL / SKILLGRAD SKILL OPTIMIZATION AS GRADIENT DESCENT**
+
+- [[looptrap-termination-poisoning-attacks-on-llm-agents-2605.05846]]
+  LoopTrap: Termination Poisoning Attacks on LLM Agents: Shows adversaries can poison LLM agent termination conditions via context injection — causing infinite loops or premature exit. The self-evaluation step in iterative agent loops is the attack surface. **First termination poisoning attack paper in the wiki.**
+
+- [[adamem-learning-what-to-remember-for-personalized-long-horizon-llm-agents-2606.21144]]
+  AdaMem: Learning What to Remember for Personalized Long-Horizon LLM Agents: Learns write-control policies for LLM agent memory — predicting retrieval utility at write time to decide what to store. Addresses "remember everything" problem causing context overflow and compute waste. **First learned write-control policy for agent memory in the wiki.**
+
+- [[skillgrad-optimizing-agent-skills-like-gradient-descent-2605.27760]]
+  SkillGrad: Optimizing Agent Skills Like Gradient Descent: Treats agent skill evolution as gradient descent on procedural knowledge files. Replaces heuristic reflection with explicit optimization signals for systematic skill improvement. **First gradient-descent framing for agent skill optimization in the wiki.**
+
 **2026-07-04 — Run 237) — LLM SELF-EVALUATION META-LEARNING / UQ CALIBRATION THEORY / ENTITY-LEVEL MEMBERSHIP INFERENCE**
 
 - [[can-llm-rerankers-predict-their-own-ranking-performance-2606.03535]]
