@@ -114,6 +114,13 @@
         "satya jit"
       ],
       "last_result_hashes": [
+        "7fc22a1369af93e71d7874ffa2ce017f",
+        "96d3a3ea85839fe8f92ece2b7d05a39a",
+        "016b05b8261ef6dbe6f748223becf886",
+        "82601ad43b0fe127ccdd116d7f69071f",
+        "6f832133342421ab53bb46eb5125730b",
+        "81698e4cb907a3ce79c9ffd387bd1f0a",
+        "b3733d83924b953fc3046b72af811dcf",
         "b1adc2b930d77212d7e65d03d9bccdc6",
         "034c8842156c2b1235263f9d2feebba9",
         "9ef09709545d432e2dc99e2cf360fbe8",
@@ -126,16 +133,9 @@
         "5034d117445eeeead756d27e0f1bc843",
         "fde2e620a9be8833a9c15bcafc435062",
         "f3be4f2d493863d686275604c66b2c5a",
-        "a2af7deb9fb81d185b2fef5f41efe226",
-        "89a92316f41a5050a2cfe852301aaa2a",
-        "bde460c23ed451d82e4d081ce9d44718",
-        "4384e21ab04f94bd31ae778eb8a02f5a",
-        "5270d6a20585f3aa8ad5357b32f30260",
-        "5270d6a20585f3aa8ad5357b32f30260",
-        "4a75975bbd7ceb861d5fe114d0669e90",
-        "e2648b84ec2d1b998a39b3fd67a6c7f1"
+        "a2af7deb9fb81d185b2fef5f41efe226"
       ],
-      "last_run": "2026-07-01 02:49 UTC",
+      "last_run": "2026-07-01 03:03 UTC",
       "new_sub_topics_this_run": [
         "interview",
         "prep",
@@ -272,6 +272,11 @@
         "Program"
       ],
       "last_result_hashes": [
+        "7d0b717005814217330e578b0fbdc8fb",
+        "497722584ba1ee7b95f866c5d9ba8a76",
+        "da4da22ebe0b30bc79e1ad7a94e5310c",
+        "c6982ba3f2387fa7efa4b53444c6c85e",
+        "ac224ecee6fc1b4cc9ba1f13c5b1a941",
         "b7d3464c157a4d7b6a9b324450e9451c",
         "abb2652aa71466accd2990a041e3a4e7",
         "88cc964a32a15635341d81f11a8aa1db",
@@ -286,14 +291,9 @@
         "4a875ba6c9df4a6d863a675c9bbe1244",
         "b7fb7f6500799d0f60cb61fb935e7903",
         "ca9ade675eecf6183c340d40af57c779",
-        "7d03b1751e0eb8cf4ac5d67a7d1edcfb",
-        "c7f41a3fcfb1432a2c8f4814cd11ad30",
-        "f9703565407b55af009f30e5bf55cacc",
-        "878e6b4236785adf8d62572fc2ce517b",
-        "a3ccc9918610b0d49ee1bfa6202e4563",
-        "482c8782b361cd7fb64c8fa0bbda252c"
+        "7d03b1751e0eb8cf4ac5d67a7d1edcfb"
       ],
-      "last_run": "2026-07-01 02:49 UTC",
+      "last_run": "2026-07-01 03:03 UTC",
       "new_sub_topics_this_run": [
         "look",
         "tutorial",
@@ -434,6 +434,14 @@
         "Astral"
       ],
       "last_result_hashes": [
+        "559820eef1609a803073fbdaec85d213",
+        "309f66f29e1d046c77d14541fdd68a0c",
+        "3ee155bc89731d74821dbdede14aa8be",
+        "686812076d5de90d1c2ef77d554beb01",
+        "1a9958a78e7ae39c78870e2584d0687d",
+        "c9b701151ca3fd8730a2984a30e6ff1d",
+        "6d77d36d5d5faa4ef4e6858564ce52bc",
+        "30ac2d43919f96f20a0bb63c41bcff69",
         "fc735fa9ff4c8d2d83888648a67a3892",
         "955254271b43d5d60d327be56bfcec27",
         "87065c9439c433c819c4f5a68841256d",
@@ -445,17 +453,9 @@
         "b177475a05631b06f73e531cf8aa0a39",
         "55852131fabfce2db4a4694561d1aa46",
         "c27bd09606797b3f58cbe6cdf1d93070",
-        "beeedf0eb943e4fd48338920e80f36e8",
-        "10a59e2ab5bcc4c0710cbe6131b13188",
-        "068a07b3862dfe7a7b75410740325108",
-        "2817e8378b277cd3cfe64b421e8bd932",
-        "753230be85a1109e179c29172aee977c",
-        "6c439a5c2847300ba753765d00120639",
-        "e9a83c4375edfd1f258d2eaff8ebc810",
-        "0f283757319d5365f9f3d2ac8e848912",
-        "6c257d065a3041b16049b05a47e582ff"
+        "beeedf0eb943e4fd48338920e80f36e8"
       ],
-      "last_run": "2026-07-01 02:49 UTC",
+      "last_run": "2026-07-01 03:03 UTC",
       "new_sub_topics_this_run": [
         "ultimate",
         "vlad",
@@ -567,6 +567,13 @@
         "Good"
       ],
       "last_result_hashes": [
+        "cc9f3837164b6e0e6edde576a14a1c3f",
+        "7b5c9b650d498b2bcfab4df80e2871bc",
+        "9dc84a749b268ef8593a03aacd0df1eb",
+        "ea88e7791ba77ef858bb935fcb22db5c",
+        "612263630e8df09275c9c2dc58bb6981",
+        "0c082ec34d87f915fa337ac2f8540872",
+        "2dca246b4f4f1a80d6ea12480b959dd2",
         "ab1a401478bf91151df62818473f5ef5",
         "63a68c2b7252fb21470c8ffd8fbffe00",
         "dd25820f790098fdc7dc382c38902ef4",
@@ -579,16 +586,9 @@
         "be9da9017ce6e02348e052f2e7dda252",
         "dbce4e6cdd1ef898baaf1e4d0f4b78a3",
         "3dab99b5330ccd20db91a26c202fbc1e",
-        "2d6dfe1231b4857b105350ee51d0d36a",
-        "387ce332eb1b37bfba2517605e07a785",
-        "99524e05f28f5499f9092cc0d05e7d7a",
-        "4e44754224375df6518382c035dbe42a",
-        "269341708d555d5819da5ef32f81a574",
-        "df332d266a9393afd65af20ab5899d2a",
-        "269341708d555d5819da5ef32f81a574",
-        "df332d266a9393afd65af20ab5899d2a"
+        "2d6dfe1231b4857b105350ee51d0d36a"
       ],
-      "last_run": "2026-07-01 02:49 UTC",
+      "last_run": "2026-07-01 03:03 UTC",
       "new_sub_topics_this_run": [
         "design",
         "ultimate",
@@ -717,6 +717,10 @@
         "LeetCode Is Dead in 2026. Here Is What Top Companies Are ..."
       ],
       "last_result_hashes": [
+        "f822dd4d7a9290624864e5a92712ba08",
+        "ca8e5100d809875f1f9f9b10b85ec256",
+        "7b86d151397bd3b26637162c987f0b1e",
+        "4293e57a82454c19f7abd416c8ffcefb",
         "89e7f172eeae4c358ffa14425da7ef96",
         "6705f2d48d0252070292176640a51270",
         "3a5aa4dc7a08cf53617d8bc45fcdd95d",
@@ -732,13 +736,9 @@
         "750fd152325f4dc2beb725d52cc9fce7",
         "368b365fc3f9f77ec20e5cfc99fa3da2",
         "4c92991b4c2b27039072e3ebc410da51",
-        "c11da843ae28f07d36ef0c5d170b16aa",
-        "a857c814273e0c7625339c1a17718eac",
-        "6cb86379e72e1d25cd77868b56bbad8a",
-        "ff8047902608746589560cffb7b792a9",
-        "5e02bb10fe06fe048e2f6bbb19b9f089"
+        "c11da843ae28f07d36ef0c5d170b16aa"
       ],
-      "last_run": "2026-07-01 02:49 UTC",
+      "last_run": "2026-07-01 03:03 UTC",
       "new_sub_topics_this_run": [
         "data",
         "programming",
@@ -858,6 +858,8 @@
         "Astral"
       ],
       "last_result_hashes": [
+        "a454e6bd90dd4ae1795224af7e27c1bb",
+        "661f5f68f6928f4ea520218b2f607795",
         "dd98088bd44f163005b52f39b2756953",
         "a6c58176fc7c15d04c6965b77938f5ae",
         "eb0b3ec801d1a3e533436e346922f4e5",
@@ -875,11 +877,9 @@
         "57c085892adfb8eb151771c2479e369a",
         "952e4cdd85ea50368b5178492a0c873c",
         "1cf455284bb0983215069efb06784c61",
-        "10a6d6e786cdb44ade53e424b1cf9cd2",
-        "c24e025d56cdbbb52113c9aa94a36dea",
-        "bbb596c3441904fed7dc7fa5f00eeb00"
+        "10a6d6e786cdb44ade53e424b1cf9cd2"
       ],
-      "last_run": "2026-07-01 02:49 UTC",
+      "last_run": "2026-07-01 03:03 UTC",
       "new_sub_topics_this_run": [
         "compiler",
         "operators",

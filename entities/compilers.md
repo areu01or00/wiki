@@ -1,6 +1,12 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM Compiler Infrastructure -
+- **2026-07-01** | [2026 EuroLLVM Developers' Meeting - LLVM.org](https://llvm.org/devmtg/2026-04/) | kw: 2026 EuroLLVM Developers' Meet
+- **2026-07-01** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: Retrofitting JIT Compilers int
+- **2026-07-01** | [Easy::jit: A just-in-time compiler for C++ - GitHub](https://github.com/jmmartinez/easy-just-in-time) | kw: Easy::jit: A just-in-time comp
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: The LLVM Compiler Infrastructu
+
 - **2026-07-01** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler
 - **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: compiler

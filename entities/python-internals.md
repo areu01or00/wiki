@@ -3931,6 +3931,9 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Top 50 Python Interview Questi
+- **2026-07-01** | [8 Best YouTube Channels for Python in 2026 (Ranked)](https://learnwithpath.com/blog/best-youtube-channels-for-python-2026) | kw: 8 Best YouTube Channels for Py
+
 - **2026-07-01** | [Welcome to Python.org](https://www.python.org/) | kw: welcome
 - **2026-07-01** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: python
 - **2026-07-01** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: python

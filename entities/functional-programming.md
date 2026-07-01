@@ -1,3 +1,13 @@
+## Updates
+
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming &
+- **2026-07-01** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/patterns-rust/10/7/) | kw: Monads and Monad-Like Patterns
+- **2026-07-01** | [Using rust functional programming with monads | Medium](https://medium.com/coderhack-com/using-rust-functional-programming-with-monads-0767b7b894d0) | kw: Using rust functional programm
+- **2026-07-01** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: haskell - What is a monad? - S
+- **2026-07-01** | [7 Best Free Haskell Courses for 2026 — Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: 7 Best Free Haskell Courses fo
+- **2026-07-01** | [Just how much can you do with functions? | Haskell, Functional...](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: Just how much can you do with 
+- **2026-07-01** | [monad · GitHub Topics · GitHub](https://github.com/topics/monad) | kw: monad · GitHub Topics · GitHub
+
 - **2026-07-01** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell
 - **2026-07-01** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad
 

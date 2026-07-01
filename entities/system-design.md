@@ -3591,6 +3591,14 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [10 Software Architecture Patterns Every Developer... | Witty Coder](https://wittycoder.in/blog/software-architecture-patterns-2026) | kw: 10 Software Architecture Patte
+- **2026-07-01** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If you want to get started wit
+- **2026-07-01** | [Top 10 Frontend System Design Patterns Every... | Frontend Junction](https://www.frontend-junction.com/blog/frontend-system-design-patterns-2026) | kw: Top 10 Frontend System Design 
+- **2026-07-01** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: Integration Patterns 2026: Que
+- **2026-07-01** | [Service-Oriented Architecture (SOA) Explained | System Design HLD](https://www.youtube.com/watch?v=BjNuYHuY1zg) | kw: Service-Oriented Architecture 
+- **2026-07-01** | [Prompt Engineering for Developers: 5 Production Patterns That Work...](https://www.groovyweb.co/blog/prompt-engineering-for-developers-production-patterns-2026) | kw: Prompt Engineering for Develop
+- **2026-07-01** | [Design Issues of Distributed System (1).pptx](https://www.slideshare.net/slideshow/design-issues-of-distributed-system-1-pptx/272027019) | kw: Design Issues of Distributed S
+
 - **2026-07-01** | [Modern Software Architecture Patterns That Scale In 2026](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: modern
 - **2026-07-01** | [What Is the Basic Architecture of a Distributed System?](https://sivaro.in/articles/what-is-the-basic-architecture-of-a-distributed-system/) | kw: basic
 - **2026-07-01** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: centralized

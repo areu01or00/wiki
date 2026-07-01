@@ -1,6 +1,15 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyri
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type An
+- **2026-07-01** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US 2026 Typing Summit Re
+- **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional 
+- **2026-07-01** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What type systems do you find 
+- **2026-07-01** | [Local Contextual Type Inference | Proceedings of the ACM on ...](https://dl.acm.org/doi/10.1145/3776653) | kw: Local Contextual Type Inferenc
+- **2026-07-01** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing/) | kw: What Is Gradual Typing? - ITU 
+- **2026-07-01** | [NJPLS May 2026](https://njpls.org/may2026.html) | kw: NJPLS May 2026
+
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: static
 - **2026-07-01** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: typescript
 - **2026-07-01** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: github
