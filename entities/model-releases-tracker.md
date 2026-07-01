@@ -17,6 +17,49 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [Models - Minimax AI Chat](https://minimax-ai.chat/models/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: MiniMax
+- **2026-07-01** | [Claude (AI) - Wikipedia](https://en.wikipedia.org/wiki/Claude_(language_model)) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: anthropic-releases
+- **2026-07-01** | [Claude Opus 4.8 Guide 2026: Pronunciation, Pricing & When to Use...](https://ai.zenken.co.jp/en/post/claude-opus-model-guide-2026/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: anthropic-releases
+- **2026-07-01** | [Claude Sonnet 5 | Awesome Agents](https://awesomeagents.ai/models/claude-sonnet-5/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: anthropic-releases
+- **2026-07-01** | [DeepSeek - Wikipedia](https://en.wikipedia.org/wiki/DeepSeek) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT, OPEN SOURCE | source: deepseek-releases
+- **2026-07-01** | [DeepSeek V4 Preview Release](https://api-docs.deepseek.com/news/news260424) | kw: WEIGHTS DROP, BENCHMARK/PAPER, OFFICIAL ANNOUNCEMENT, OPEN SOURCE | source: deepseek-releases
+- **2026-07-01** | [DeepSeek V4 VSCode: How to Use DeepSeek V4 in... - Chat-Deep.ai](https://chat-deep.ai/guide/deepseek-v4-vscode/) | kw: WEIGHTS DROP, API LAUNCH, OFFICIAL ANNOUNCEMENT | source: deepseek-releases
+- **2026-07-01** | [DeepSeek Releases V4 Preview: Open-Weight MoE Model with...](https://onai2.com/blog/deepseek-v4-preview-moe-million-tokens/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: deepseek-releases
+- **2026-07-01** | [DeepSeek V4 Rumored to Launch During Spring Festival — What to...](https://www.cometapi.com/deepseek-v4-rumored-to-launch-during-spring-festival/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: deepseek-releases
+- **2026-07-01** | [Google DeepMind jumps back into open source AI race with new...](https://www.linkedin.com/posts/women-and-ai_google-deepmind-jumps-back-into-open-source-activity-7166079512848375808-MNQT) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT, OPEN SOURCE | source: google-deepmind-releases
+- **2026-07-01** | [Moonshot AI - Wikipedia](https://en.wikipedia.org/wiki/Moonshot_AI) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: kimi-releases
+- **2026-07-01** | [Kimi K2.7 Code Benchmarks, Pricing & Context Window](https://llm-stats.com/models/kimi-k2.7-code) | kw: WEIGHTS DROP, BENCHMARK/PAPER, OFFICIAL ANNOUNCEMENT | source: kimi-releases
+- **2026-07-01** | [Meta Llama 4: The Complete Open-Source AI Model Guide 2026](https://explainx.ai/blog/meta-llama-4-open-source-models-guide-2026) | kw: WEIGHTS DROP, OPEN SOURCE | source: meta-llama-releases
+- **2026-07-01** | [Llama Versions — every Meta Llama model from LLaMA 1 through Llama 4 ...](https://mungomash.com/ai/llama/versions/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: meta-llama-releases
+- **2026-07-01** | [Llama 4 Complete Guide: Scout, Maverick, and Behemoth Explained (2026)](https://www.aimadetools.com/blog/llama-4-complete-guide/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT, OPEN SOURCE | source: meta-llama-releases
+- **2026-07-01** | [Meta Llama 4 Complete Guide 2026: Scout, Maverick, and Behemoth](https://aifirstfounders.com/blog/llama-4-complete-guide-2026.html) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: meta-llama-releases
+- **2026-07-01** | [What is Mistral AI? Everything to know about the OpenAI...](https://techcrunch.com/2025/09/09/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) | kw: WEIGHTS DROP, OPEN SOURCE | source: mistral-releases
+- **2026-07-01** | [Qwen: Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: qwen-releases
+- **2026-07-01** | [Qwen Just Quietly Became the Most Dangerous Open-Source AI ...](https://medium.com/@stawils/qwen-just-quietly-became-the-most-dangerous-open-source-ai-model-b5bcf7b2743c) | kw: WEIGHTS DROP, OPEN SOURCE | source: qwen-releases
+- **2026-07-01** | [State of Open Source on Hugging Face: Spring 2026](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026) | kw: WEIGHTS DROP, API LAUNCH, OPEN SOURCE | source: huggingface-trending
+- **2026-07-01** | [New AI model releases, papers, and open source on June 11-12 ...](https://fazm.ai/t/new-ai-model-releases-papers-open-source-june-11-12-2026) | kw: WEIGHTS DROP, BENCHMARK/PAPER, OFFICIAL ANNOUNCEMENT, OPEN SOURCE | source: huggingface-trending
+- **2026-07-01** | [Reviving PapersWithCode (by Hugging Face)](https://www.reddit.com/r/MachineLearning/comments/1tgmwqr/reviving_paperswithcode_by_hugging_face_p/) | kw: WEIGHTS DROP, BENCHMARK/PAPER | source: huggingface-trending
+- **2026-07-01** | [xAI Grok 4.2: The 2026 AI Revolution for Developers](https://chats-llm.com/en/blog/grok-4-2-release) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: xai-releases
+- **2026-07-01** | [A Thorough Explanation of the Krea 2 Technical Report](https://note.com/ai_driven/n/nec95e2223dcd?hl=en) | kw: WEIGHTS DROP, BENCHMARK/PAPER | source: krea
+- **2026-07-01** | [Llama (language model) - Wikipedia](https://en.wikipedia.org/wiki/Llama_(language_model)) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: arxiv-cs-cl
+- **2026-07-01** | [A bot to filter today arxiv papers - GitHub](https://gist.github.com/Hu-chi/3a753d04f97fbe05bbd3bf9c3c195d8b) | kw: WEIGHTS DROP, BENCHMARK/PAPER | source: arxiv-cs-cl
+- **2026-07-01** | [Switzerland Releases Apertus, a Fully Open Multilingual Model](https://kompozy.io/news/apertus-open-sovereign-ai-model) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT, OPEN SOURCE | source: swiss-ai-apertus
+- **2026-07-01** | [Apertus Mini brings Swiss open AI models to smaller devices](https://runtimewire.com/article/apertus-mini-swiss-ai-sovereign-models) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: swiss-ai-apertus
+- **2026-07-01** | [InclusionAI | AI Wiki](https://aiwiki.ai/wiki/inclusionai) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: inclusion-ai
+- **2026-07-01** | [Ling-2.6-1T Is Now Open Source: Ant Group's Trillion-Parameter MoE](https://www.runyard.dev/blog/ling-2-6-1t-trillion-parameter-open-source-model) | kw: WEIGHTS DROP, OPEN SOURCE | source: inclusion-ai
+- **2026-07-01** | [Ant Group Unveils Ling AI Model Family](https://aijourn.com/ant-group-unveils-ling-ai-model-family-and-launches-trillion-parameter-language-model-ling-1t-2/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT, OPEN SOURCE | source: inclusion-ai
+- **2026-07-01** | [Ant Group has launched the world's first open-source trillion-parameter model](https://min.news/en/news/6e4b2b999e35812ce358c68911de56f8.html) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT, OPEN SOURCE | source: inclusion-ai
+- **2026-07-01** | [Liquid AI LFM2.5-230M: On-Device Agent Model](https://www.creativeainews.com/blog/liquid-ai-lfm2-5-230m-on-device-2026/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: liquid-ai
+- **2026-07-01** | [Liquid AI LFM 2.5-230M: 230M Model Beats 1B Transformer...](https://byteiota.com/liquid-ai-lfm25-230m-edge-ai/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: liquid-ai
+- **2026-07-01** | [LFM2.5-1.2B-Thinking - API Pricing & Benchmarks | OpenRouter](https://openrouter.ai/liquid/lfm-2.5-1.2b-thinking:free) | kw: WEIGHTS DROP, API LAUNCH, BENCHMARK/PAPER | source: liquid-ai
+- **2026-07-01** | [LFM2.5-230M Benchmarks 2026](https://benchlm.ai/models/lfm2-5-230m) | kw: WEIGHTS DROP, BENCHMARK/PAPER | source: liquid-ai
+- **2026-07-01** | [AI Leaderboard 2026](https://llm-stats.com/) | kw: WEIGHTS DROP, OPEN SOURCE | source: kog-ai
+- **2026-07-01** | [LongCat-2.0 - 1.6T Agentic Coding LLM | 1M Context, Open Source](https://www.longcatai.org/models/longcat-2.html) | kw: WEIGHTS DROP, OPEN SOURCE | source: meituan-longcat
+- **2026-07-01** | [LongCat-2.0: China's 1.6T Open-Source Coding Model](https://felloai.com/longcat-2-0/) | kw: WEIGHTS DROP, OPEN SOURCE | source: meituan-longcat
+- **2026-07-01** | [openPangu 2.0 - Huawei's Open-Source Upgraded Pangu Large Model](https://www.ai-all.info/en/ai-models/openpangu-2-0) | kw: WEIGHTS DROP, OPEN SOURCE | source: huawei
+- **2026-07-01** | [Huawei launches AI data centre infrastructure platform](https://www.instagram.com/p/DYoN7sxHOyL/) | kw: WEIGHTS DROP, API LAUNCH, OFFICIAL ANNOUNCEMENT | source: huawei
+- **2026-07-01** | [Import AI 454: Automating alignment research; safety study of OpenPangu](https://importai.substack.com/p/import-ai-454-automating-alignment) | kw: WEIGHTS DROP, BENCHMARK/PAPER | source: huawei
+
 
 - **2026-07-01** | [Gemma — Google DeepMind](https://deepmind.google/models/gemma/) | kw: official | source: google-deepmind-releases
 - **2026-07-01** | [Kimi K2 - Open Agentic Intelligence by MoonshotAI](https://kimik2.com/) | kw: official | source: kimi-releases
@@ -58,17 +101,20 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-07-01** | [Kog Labs](https://blog.kog.ai/) | kw: kog-ai | score: 8
 
 ## Auto-Discovered Profiles
-*Profiles auto-added by discovery layer each cycle. Tracked from this cycle onwards.*
 
-- **sakana-releases** — cycle 3 — Sakana AI Fugu model release Japanese lab
-- **swiss-ai-apertus** — cycle 3 — swiss-ai/apertus Hugging Face open weights multilingual (c73 reword: HF slug anchor per c72 L1 + variant 17)
-- **krea** — cycle 4 — Krea AI Krea 2 image generation model open weights
-- **MiniMax** — cycle 9 — MiniMax AI MiniMax-M3 release new model multimodal MoE
-- **inclusion-ai** — cycle 52 — inclusionAI Ring-1T Ling billion parameter Ant Group (c89 reword: specific model name anchors, c86 backlog applied 3 cycles late; replaces prior c83 "inclusionAI foundation model open weights")
-- **deepreinforce-ai** — cycle 56 — DeepReinforce AI Ornith model release coding agent weights
-- **liquid-ai** — cycle 59 — Liquid AI LFM2.5 family edge LLM open weights model release
-- **kog-ai** — cycle 68 — kogai laneformer-2b-it model card release (c89 reword: HF model-name anchor, c86 backlog applied 3 cycles late; replaces prior c73 "kogai Laneformer huggingface open weights latency-first")
-- **yuvion-llm** — cycle 99 — Yuvion LLM adversarial content safety model arXiv cs.CL Jun 2026 (auto-discovered via arXiv cs.CL new submission, new org not in known blocklist)
-- **meituan-longcat** — cycle 106 — Meituan LongCat-2.0 open-weight MoE model announced Jun 30 2026 via x_search: 1.6T params, 1M context, trained on Huawei Ascend chips, open weights on HuggingFace
-- **huawei** — cycle 107 — Huawei OpenPangu-2.0-Flash open weights MoE model released Jun 30 2026 via x_search: 92B total / 6B active, 512K context, Apache/Ascend stack, weights on HF
-- **internscience** — cycle 109 — InternScience Agents-A1 35B MoE agentic model released Jun 30 2026 via x_search: arXiv:2606.30616, weights+code on HF/GitHub, trillion-parameter performance via horizon scaling
+| Profile ID | Org | Query | Discovered |
+|---|---|---|---|
+| MiniMax | MiniMax AI MiniMax-M3 release | MiniMax AI MiniMax-M3 release new model multimodal MoE | 9 |
+| krea | Krea AI Krea 2 image generation model open weights | Krea AI Krea 2 image generation model open weights | 4 |
+| sakana-releases | Sakana AI Fugu model release Japanese lab | Sakana AI Fugu model release Japanese lab | 3 |
+| swiss-ai-apertus | swiss-ai/apertus Hugging Face open weights multilingual | swiss-ai/apertus Hugging Face open weights multilingual | 3 |
+| inclusion-ai | inclusionAI Ring-1T Ling billion parameter Ant Group | inclusionAI Ring-1T Ling billion parameter Ant Group | 52 |
+| deepreinforce-ai | DeepReinforce AI Ornith model release coding agent weights | DeepReinforce AI Ornith model release coding agent weights | 56 |
+| liquid-ai | Liquid AI LFM2.5 | Liquid AI LFM2.5 new model release LLM | 59 |
+| kog-ai | kogai laneformer-2b-it model card release | kogai laneformer-2b-it model card release | 68 |
+| yuvion-llm | Yuvion | Yuvion new model release LLM adversarial safety | cycle 99 |
+| meituan-longcat | Meituan LongCat | Meituan LongCat new model release LLM announced | c106-20260630 |
+| huawei | Huawei OpenPangu | Huawei OpenPangu new model release open weights LLM | c107-20260630 |
+| internscience | InternScience Agents-A1 | InternScience Agents-A1 new model release LLM weights | 20260630_110808 |
+| fenom-ai | FenomAI | FenomAI new model release LLM weights open source | c118-20260630 |
+| vakyam-ai | Vakyam AI Raaga V1 | Vakyam AI Raaga V1 new model release speech TTS voice | c130-20260701 |
