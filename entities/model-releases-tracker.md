@@ -18,6 +18,12 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+
+- **2026-07-01** | [Anthropic upgrades Claude with new Sonnet 5 model, details here](https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/) | kw: anthropic-releases | source: anthropic-releases | score: 7
+- **2026-07-01** | [Anthropic Launches Claude Opus 4.8 With Gains in Coding and Honesty](https://www.macrumors.com/2026/05/28/anthropic-claude-opus-4-8/) | kw: anthropic-releases | source: anthropic-releases | score: 7
+- **2026-07-01** | [Introducing Gemma 4 12B: a unified, encoder-free multimodal Model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) | kw: google-deepmind-releases | source: google-deepmind-releases | score: 7
+- **2026-07-01** | [Introducing LFM2: The Fastest On-Device Foundation... - Liquid AI](https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models) | kw: liquid-ai | source: liquid-ai | score: 7
+- **2026-07-01** | [KOG Stock Price Quote | Morningstar](https://www.morningstar.com/stocks/xcnq/kog/quote) | kw: kog-ai | source: kog-ai | score: 5
 - **2026-07-01** | [DeepSeek News | Today's Latest Stories | Reuters](https://www.reuters.com/technology/deepseek/) | kw: api-launch | source: deepseek-releases
 - **2026-07-01** | [What Is Kimi? The Complete Guide to Moonshot AI's Chatbot and...](https://emergent.sh/learn/what-is-kimi) | kw: api-launch | source: kimi-releases
 - **2026-07-01** | [Introducing LFM2.5: The Next Generation of On-Device AI - liquid.ai](https://www.liquid.ai/blog/introducing-lfm2-5-the-next-generation-of-on-device-ai) | kw: api-launch | source: liquid-ai
