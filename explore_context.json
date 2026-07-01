@@ -8077,7 +8077,10 @@
       "url": "https://arxiv.org/abs/2606.27180",
       "discovered": "2026-07-01T11:07:00.25+00:00",
       "theme": "RL reward shaping / VLM guidance / potential-based functions / sparse reward optimization"
-    }
+    },
+    "2606.05395",
+    "2606.28016",
+    "2603.03862"
   ],
   "emergent_discoveries": [
     {
@@ -18689,6 +18692,17 @@
       ],
       "framing": "AGENTIC COMPLEXITY EVALUATION / MEMORY-EVICTION BOUNDED-RETENTION / TOKEN-LEVEL RAG HALLUCINATION DETECTION",
       "theme": "agentic evaluation / bounded-memory eviction / rag hallucination / multi-agent complexity"
+    },
+    {
+      "run": 275,
+      "date": "2026-07-01",
+      "papers": [
+        "2606.05395",
+        "2606.28016",
+        "2603.03862"
+      ],
+      "framing": "FORMAL VERIFICATION FOR EMBODY AGENTS / TEMPORAL PLANNING IN AUTOREGRESSIVE VIDEO / LLM CLINICAL THERAPY FIDELITY",
+      "theme": "formal verification / embodied agent skill learning / temporal video planning / clinical LLM evaluation"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

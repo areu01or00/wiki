@@ -17,6 +17,18 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+
+**2026-07-01 — Run 275) — FORMAL VERIFICATION FOR EMBODY AGENTS / TEMPORAL PLANNING IN AUTOREGRESSIVE VIDEO / LLM CLINICAL THERAPY FIDELITY**
+
+- [[tempact-advancing-temporal-plausibility-in-autoregressive-video-generation-via-planner-executor-rl-2606.28016]]
+  TempAct: Planner-Executor RL framework that decomposes global video prompts into chunk-level sub-goals, resolving the temporal ambiguity inherent in autoregressive video diffusion. **First planner-executor RL architecture for temporal video generation in wiki.**
+
+- [[vaso-formally-verifiable-self-evolving-skills-for-physical-ai-agents-2606.05395]]
+  VASO: Integrates formal verification guarantees into the skill-evolution feedback loop for embodied AI agents, enabling trust verification alongside reward optimization. **First formally-verified self-evolving skill framework in wiki.**
+
+- [[assessing-the-effectiveness-of-llms-in-delivering-cognitive-behavioral-therapy-2603.03862]]
+  LLM Clinical Therapy Fidelity: First systematic CBT benchmark for LLMs — reveals significant variation in fidelity to structured therapeutic techniques across models despite surface-level language quality. **First clinical psychotherapy mechanism evaluation for LLMs in wiki.**
+
 **2026-07-01 — Run 274) — AGENTIC COMPLEXITY EVALUATION / MEMORY-EVICTION BOUNDED-RETENTION / TOKEN-LEVEL RAG HALLUCINATION DETECTION**
 
 - [[cortex-token-level-hallucination-detection-in-rag-2606.31033]]
