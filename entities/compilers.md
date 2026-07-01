@@ -33,6 +33,12 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: Wikipedia
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Compilation
+- **2026-07-01** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: PPT
+- **2026-07-01** | [2017 LLVM Developers Meeting](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: Developers
+- **2026-07-01** | [Compiling to Object Code](https://iq.opengenus.org/compiling-to-object-code/) | kw: Object
+
 - **2026-07-01** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: compilers
 
 - **2026-07-01** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: compilers

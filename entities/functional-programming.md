@@ -31,6 +31,17 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: programming
+- **2026-07-01** | [Monads Tutorial - Monday Morning Haskell](https://mmhaskell.com/monads/tutorial) | kw: 
+- **2026-07-01** | [Haskell: Monads. A 5-minute introduction - YouTube](https://www.youtube.com/watch?v=_Gk_lwhJMzk) | kw: A
+- **2026-07-01** | [monad - GitHub Topics](https://github.com/topics/monad) | kw: GitHub
+- **2026-07-01** | [Getting started with Haskell - Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell) | kw: with
+- **2026-07-01** | [Monad - HaskellWiki](https://wiki.haskell.org/Monad) | kw: HaskellWiki
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Programming
+- **2026-07-01** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: Functional
+- **2026-07-01** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: programming
+- **2026-07-01** | [Monads for the Curious Programmer, Part 1 | Bartosz Milewski](https://bartoszmilewski.com/2011/01/09/monads-for-the-curious-programmer-part-1/) | kw: the
+
 - **2026-07-01** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: functional-programming
 
 - **2026-07-01** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: functional-programming

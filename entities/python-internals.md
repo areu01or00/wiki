@@ -3943,6 +3943,17 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Memory Management in Python - Real Python](https://realpython.com/python-memory-management/) | kw: in
+- **2026-07-01** | [The GIL Explained | EngineersOfAI](https://engineersofai.com/docs/python/python-systems-and-internals/module+1+_+cpython+internals/the-gil-explained) | kw: Explained
+- **2026-07-01** | [Advanced Python Internals: GIL, Multithreading - DEV Community](https://dev.to/aman_kumar_6d5d23b9b1ed02/advanced-python-internals-gil-multithreading-20mk) | kw: Internals
+- **2026-07-01** | [PEP 703 - Making the Global Interpreter Lock Optional | peps.python.org](https://peps.python.org/pep-0703/) | kw: 
+- **2026-07-01** | [Memory Management in Python - Honeybadger Developer Blog](https://www.honeybadger.io/blog/memory-management-in-python/) | kw: in
+- **2026-07-01** | [Memory Management in Python - Scaler Topics](https://www.scaler.com/topics/memory-management-in-python/) | kw: in
+- **2026-07-01** | [Multithreading in Python (Beginner Guide): Threads, the GIL](https://pycoderoom.site/multithreading-in-python-beginner-guide/) | kw: Python
+- **2026-07-01** | [Internals of Python 3.x](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Python
+- **2026-07-01** | [CPython Internals: Reference Counting, Cycle Detection](https://www.abstractalgorithms.dev/cpython-internals-reference-counting-gc) | kw: Reference
+- **2026-07-01** | [david-vael (David Vael) - GitHub](https://github.com/david-vael) | kw: Vael
+
 - **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: python-internals
 
 - **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: python-internals
