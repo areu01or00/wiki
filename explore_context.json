@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T08:00:00.000000+00:00",
   "__last_updated": "2026-07-02T08:00:00.000000+00:00",
-  "last_run": 313,
-  "last_explore": "2026-07-02T11:00:00.000000+00:00",
-  "last_global_explore": "2026-07-02T11:00:00.000000+00:00",
-  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Jailbreak Mechanistic Evidence / ToM Self-Attribution Dissociation / Subjective WTP Inference",
-  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: attention-head-jailbreak-mechanism / safety-fine-tuning-dissociation / preference-elicitation-bias",
-  "last_framing": "DEEP-SUB-CLUSTER PROBE-AXIS",
-  "last_run_notes": "Run 313: 2606.28153, 2603.28925, 2602.09802",
+  "last_run": 314,
+  "last_explore": "2026-07-02T12:00:00.000000+00:00",
+  "last_global_explore": "2026-07-02T12:00:00.000000+00:00",
+  "last_discovery": "Rule 36h PROBE-AXIS: mathematical-reasoning / RAG-hallucination / multi-agent-game-theory",
+  "last_run_framing": "Rule 36h PROBE-AXIS: mathematical-reasoning / RAG-hallucination / multi-agent-game-theory",
+  "last_framing": "RULE 36H PROBE-AXIS",
+  "last_run_notes": "Run 314: 2606.05901, 2511.18760, 2606.20014",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "Rule 36h PROBE-AXIS: quantization-temperature safety interaction + uncertainty-gated few-shot reranking + quantifiable-complexity monadic FOL benchmark (deep-sub-cluster from consumed primaries)",
+  "last_run_method": "HF daily 5 dates (120 papers) \u2192 CV/3D-heavy \u2192 Rule 15d escape hatch \u2192 web_search \u2192 6 fresh \u2192 3 picks",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
   "chains_updated": 0,
-  "entities_count": 952,
+  "entities_count": 955,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -21100,6 +21100,18 @@
         "2602.09802"
       ],
       "method": "Rule 36c deep-sub-cluster: HF daily \u2192 web_search (safety ToM + jailbreak + preference elicitation)",
+      "added": 3
+    },
+    {
+      "run": 314,
+      "date": "2026-07-02T12:00:00.000000+00:00",
+      "theme": "Rule 36h PROBE-AXIS: MATHEMATICAL-REASONING / RAG-HALLUCINATION / MULTI-AGENT-GAME-THEORY",
+      "picks": [
+        "2606.05901",
+        "2511.18760",
+        "2606.20014"
+      ],
+      "method": "HF daily 5 dates \u2192 CV/3D-heavy \u2192 Rule 15d escape hatch \u2192 web_search \u2192 3 picks",
       "added": 3
     }
   ],

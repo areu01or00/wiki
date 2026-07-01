@@ -17,7 +17,15 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
-### 2026-07-02 — Run 313: Deep-Sub-Cluster PROBE-AXIS: Jailbreak Mechanistic Evidence / ToM Self-Attribution Dissociation / Subjective WTP Inference (Rule 36c: attention-head-jailbreak-mechanism / safety-fine-tuning-dissociation / preference-elicitation-bias)
+### 2026-07-02 — Run 314: MATHEMATICAL-REASONING / RAG-HALLUCINATION / MULTI-AGENT-GAME-THEORY PROBE (Rule 36h: formal verification math reasoning + graph RAG + hierarchical control)
+
+- [[reducing-hallucinations-graph-based-RAG-2606.05901]] — [Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation](https://arxiv.org/abs/2606.05901) — Wedge, Christopher J.; Stutter, Joshua; Dixon, Danny + 1 — graph-based RAG reduces hallucination by 11.1% on TriviaQA while cutting retrieval frequency by 14pp vs flat-chunk RAG; self-correction loop validates context before generation. **First graph-structured RAG hallucination paper in the wiki.**
+
+- [[hermes-efficient-verifiable-mathematical-reasoning-2511.18760]] — [HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs](https://arxiv.org/abs/2511.18760) — Ospanov, Azim; Feng, Zijin; Sun, Jiacheng + 3 — formal checking of intermediate reasoning steps to prevent drift, with a proof-continuity memory module across multi-step derivations; bridges informal LLM math with Lean/Rocq-style formal verification. **First verifiable-math-reasoning with explicit proof-continuity memory in the wiki.**
+
+- [[hierarchical-control-multi-agent-games-llm-planning-2606.20014]] — [Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution](https://arxiv.org/abs/2606.20014) — Hösch, Jannik; Sestini, Alessandro; Fuchs, Florian + 5 — LLM as strategic planner + RL as reactive controller; scales to partial-observability multi-agent settings where pure RL fails; bridges symbolic planning with learned control. **First hierarchical-control LLM+RL multi-agent paper in the wiki.**
+
+### 2026-07-02 — Run 313: Deep-Sub-Cluster PROBE-AXIS: Jailbreak Mechanistic Evidence
 
 - [[robust-harmful-features-under-jailbreak-attacks-mechanistic-evidence-from-attention-head-specialization-in-large-language-models-2606.28153]] — [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](https://arxiv.org/abs/2606.28153) — Yin, Yanchen; Han, Dongqi; Li, Linghui — jailbreak attacks selectively suppress specific attention heads rather than eliminating safety features wholesale; identifies two functionally differentiated harmful feature types. **First mechanistic attention-head substrate evidence for jailbreak bypass in the wiki.**
 
