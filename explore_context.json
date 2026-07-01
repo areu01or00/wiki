@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T14:30:00.000000+00:00",
-  "__last_updated": "2026-07-01T14:30:00.000000+00:00",
-  "last_run": 285,
+  "__last_updated": "2026-07-01T15:20:02+00:00",
+  "last_run": 286,
   "last_explore": "2026-07-01T15:30:00.000000+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "On-Policy Distillation / Legal Reasoning Benchmark / Automatic Prompt Optimization",
+  "last_run_framing": "LLM-as-Judge Reporting / VLA Reasoning Efficiency / Self-Evolving LLM UQ",
   "last_framing": "ON-POLICY DISTRILLATION / DOMAIN-SPECIFIC LEGAL REASONING BENCHMARK / AUTOMATIC PROMPT OPTIMIZATION",
   "last_run_notes": "Run 285: 2605.28014 / 2605.28183 / 2606.07894",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search (Rule 36b probe-axis); 4-query arxiv HTML + web_search; 22 fresh LLM candidates from 29 total after 5-store dedup",
+  "last_run_method": "web_search via Rule 36b probe-axis; arxiv HTML search; HF daily 0 (DNS failure); 13 fresh LLM candidates",
   "run_method": "emergent-concept-search-via-web-search-probe-axis",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "on-policy distillation / domain-specific legal reasoning / automatic prompt optimization",
   "emergent_theme": "on-policy distillation / domain-specific legal reasoning / automatic prompt optimization",
   "chains_updated": 0,
-  "entities_count": 868,
+  "entities_count": 871,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8356,6 +8356,39 @@
       "discovered": "2026-07-01T15:30:00.000000+00:00",
       "theme": "automatic prompt optimization / dialogue disentanglement / GEPA",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2511.21140",
+      "slug": "how-to-correctly-report-llm-as-a-judge-evaluations-2511.21140",
+      "title": "How to Correctly Report LLM-as-a-Judge Evaluations",
+      "url": "https://arxiv.org/abs/2511.21140",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T15:20:02+00:00",
+      "theme": "llm evaluation / inference efficiency / continual learning",
+      "date": "2025-11-26",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31160",
+      "slug": "reasoning-aware-speculative-decoding-for-efficient-vision-language-action-models-in-autonomous-driving-2606.31160",
+      "title": "Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving",
+      "url": "https://arxiv.org/abs/2606.31160",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T15:20:02+00:00",
+      "theme": "llm evaluation / inference efficiency / continual learning",
+      "date": "2026-06-30",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2510.22931",
+      "slug": "robust-uncertainty-quantification-for-self-evolving-llms-via-continual-domain-pretraining-2510.22931",
+      "title": "Robust Uncertainty Quantification for Self-Evolving Large Language Models via Continual Domain Pretraining",
+      "url": "https://arxiv.org/abs/2510.22931",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T15:20:02+00:00",
+      "theme": "llm evaluation / inference efficiency / continual learning",
+      "date": "2025-10-27",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -14765,6 +14798,30 @@
       "url": "https://arxiv.org/abs/2606.07894",
       "discovered": "2026-07-01T15:30:00.000000+00:00",
       "theme": "automatic prompt optimization / dialogue disentanglement / GEPA"
+    },
+    {
+      "arxiv_id": "2511.21140",
+      "title": "How to Correctly Report LLM-as-a-Judge Evaluations",
+      "slug": "how-to-correctly-report-llm-as-a-judge-evaluations-2511.21140",
+      "url": "https://arxiv.org/abs/2511.21140",
+      "discovered": "2026-07-01T15:20:02+00:00",
+      "theme": "llm evaluation / inference efficiency / continual learning"
+    },
+    {
+      "arxiv_id": "2606.31160",
+      "title": "Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving",
+      "slug": "reasoning-aware-speculative-decoding-for-efficient-vision-language-action-models-in-autonomous-driving-2606.31160",
+      "url": "https://arxiv.org/abs/2606.31160",
+      "discovered": "2026-07-01T15:20:02+00:00",
+      "theme": "llm evaluation / inference efficiency / continual learning"
+    },
+    {
+      "arxiv_id": "2510.22931",
+      "title": "Robust Uncertainty Quantification for Self-Evolving Large Language Models via Continual Domain Pretraining",
+      "slug": "robust-uncertainty-quantification-for-self-evolving-llms-via-continual-domain-pretraining-2510.22931",
+      "url": "https://arxiv.org/abs/2510.22931",
+      "discovered": "2026-07-01T15:20:02+00:00",
+      "theme": "llm evaluation / inference efficiency / continual learning"
     }
   ],
   "emergent_concept_search_log": [
@@ -19300,6 +19357,18 @@
       ],
       "total_papers": 868,
       "notes": "Run 285: Rule 36b PROBE-AXIS \u2014 instruction-tuning / domain-specific-legal-reasoning / automatic-prompt-optimization; 4 web_search queries from PROBE-AXIS pool surfaced 5 fresh candidates after 5-store dedup; picked 3 structurally orthogonal: on-policy-distillation / German-legal-reasoning-benchmark / automatic-prompt-optimization (dialogue)"
+    },
+    {
+      "run_number": 286,
+      "date": "2026-07-01T15:20:02+00:00",
+      "theme": "LLM-as-Judge Reporting / VLA Reasoning Efficiency / Self-Evolving LLM UQ",
+      "papers_added": [
+        "2511.21140",
+        "2606.31160",
+        "2510.22931"
+      ],
+      "method": "web_search via Rule 36b probe-axis; arxiv HTML search; HF daily 0 (DNS failure); 13 fresh LLM candidates from 164 total after 5-store dedup",
+      "framing": "LLM-AS-JUDGE REPORTING / VLA REASONING EFFICIENCY / SELF-EVOLVING LLM UQ"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
