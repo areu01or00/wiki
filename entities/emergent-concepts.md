@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 260) — METACOGNITIVE UNCERTAINTY / MULTI-BLOCK DIFFUSION LM / KOREAN WEB AGENT BENCHMARK**
+
+- [[reinforcement-learning-with-metacognitive-feedback-elicits-faithful-uncertainty-expression-in-llms-2606.32032]]
+  MetacognitiveFeedback: RL with metacognitive feedback trains LLMs to express calibrated uncertainty — addressing hallucination-with-confidence, knowledge-boundary blindness, and internal uncertainty misrepresentation. First RL-metacognitive-feedback framework for faithful uncertainty expression in LLMs. Cross-ref: [[between-the-layers-lies-the-truth-uncertainty-estimation-via-intra-layer-local-information-scores-2603.22299]], [[clustered-self-assessment-uncertainty-quantification-llms-2606.03846]].
+
+- [[multi-block-diffusion-language-models-2606.29215]]
+  MultiBD-LMs: Multi-Block Diffusion language models enabling concurrent decoding of consecutive blocks for inter-block parallelism. Multi-block Teacher Forcing (MultiTF) bridges training/inference gap; Block Buffer achieves 9.34 tokens/forward-pass (2.7x acceleration). First multi-block concurrent diffusion decoding for LMs in the wiki. Cross-ref: [[reinforcement-learning-with-metacognitive-feedback-elicits-faithful-uncertainty-expression-in-llms-2606.32032]], [[ko-widesearch-a-korean-breadth-search-benchmark-for-exhaustive-set-enumeration-by-web-agents-2606.27595]].
+
+- [[ko-widesearch-a-korean-breadth-search-benchmark-for-exhaustive-set-enumeration-by-web-agents-2606.27595]]
+  Ko-WideSearch: First breadth-first web agent benchmark (vs standard depth-first) for exhaustive set enumeration in Korean. Addresses English-centric benchmarking gap; automated synthesize-and-verify pipeline certifies gold-set completeness. Orthogonal to depth-first agent benchmarks (WebArena, GAIA, Mind2Web). First Korean-language breadth-search agent benchmark in the wiki. Cross-ref: [[agora-an-archive-grounded-benchmark-for-agentic-workplace-document-reasoning-2606.24526]], [[enterpriseclawbench-benchmarking-agents-from-real-workplace-sessions-2606.23654]], [[coffeebench-benchmarking-long-horizon-llm-agents-in-heterogeneous-multi-agent-economies-2606.16613]].
+
 **2026-07-01 — Run 259) — DELEGATED AI GOVERNANCE / ACTIVATION STEERING PREDICTION / SEMANTIC CONSTRAINT EVALUATION**
 
 - [[minimal-oversight-uncertainty-aware-governance-for-delegated-ai-systems-2606.15563]]
