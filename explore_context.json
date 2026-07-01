@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T14:30:00.000000+00:00",
-  "__last_updated": "2026-07-01T15:20:02+00:00",
-  "last_run": 288,
-  "last_explore": "2026-07-01T16:45:00+00:00",
+  "__last_updated": "2026-07-01T15:58:59+00:00",
+  "last_run": 289,
+  "last_explore": "2026-07-01T15:58:59+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "Agent Procedural Memory / Multi-Teacher On-Policy Distillation / Lexical Grounding",
-  "last_framing": "AGTMEMMOP / LEXCONS",
+  "last_run_framing": "Difficulty Routing Self-Distillation / Strategy Memory Continual Learning / Flow Reasoning",
+  "last_framing": "DRIFTISMRFM",
   "last_run_notes": "Run 288: 2606.23127 / 2606.30406 / 2606.22207",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 4-date (131 papers, 50 fresh, 23 LLM-keyword); emergent-concept discovery only; 3 new entities",
-  "run_method": "emergent-concept-search-via-HF-daily-discovery",
+  "last_run_method": "web_search self-improvement LLM 2026 + HF daily confirmation; emergent-concept discovery",
+  "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "embodied navigation / skill memory / self-directed program repair",
-  "emergent_theme": "embodied navigation / skill memory / self-directed program repair",
+  "emergent_concept_theme": "self-improvement / strategy memory / flow reasoning",
+  "emergent_theme": "self-improvement / strategy memory / flow reasoning",
   "chains_updated": 0,
-  "entities_count": 877,
+  "entities_count": 880,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8455,6 +8455,33 @@
       "theme": "grounded word learning lexical consensus",
       "date": "2026/06/20",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31191",
+      "title": "ISM: Self-Improving Strategy Memory for Continual Mathematical Reasoning",
+      "slug": "ism-self-improving-strategy-memory-continual-mathematical-reasoning-2606.31191",
+      "url": "https://arxiv.org/abs/2606.31191",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T15:58:59+00:00",
+      "theme": "frozen-LLM strategy-memory schema / episodic-hard-resets / continual-mathematical-reasoning"
+    },
+    {
+      "arxiv_id": "2606.30345",
+      "title": "DRIFT: Difficulty Routing Self-DIstillation with Rhythm-Gated Exploration and Success BuFfer Training",
+      "slug": "drift-difficulty-routing-self-distillation-rhythm-gated-exploration-2606.30345",
+      "url": "https://arxiv.org/abs/2606.30345",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T15:58:59+00:00",
+      "theme": "difficulty-routing self-distillation / rhythm-gating / success-buffer / stable-self-improvement"
+    },
+    {
+      "arxiv_id": "2606.29150",
+      "title": "Flow Reasoning Models: Scaling Reasoning Through Iterative Self-Refinement",
+      "slug": "flow-reasoning-models-scaling-reasoning-iterative-self-refinement-2606.29150",
+      "url": "https://arxiv.org/abs/2606.29150",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T15:58:59+00:00",
+      "theme": "discrete-flow-reasoning / iterative-self-refinement / structured-problem-solving / self-conditioning"
     }
   ],
   "emergent_discoveries": [
@@ -14936,6 +14963,30 @@
       "url": "https://arxiv.org/abs/2606.22207",
       "discovered": "2026-07-01T16:45:00+00:00",
       "theme": "grounded word learning lexical consensus"
+    },
+    {
+      "arxiv_id": "2606.31191",
+      "title": "ISM: Self-Improving Strategy Memory for Continual Mathematical Reasoning",
+      "slug": "ism-self-improving-strategy-memory-continual-mathematical-reasoning-2606.31191",
+      "url": "https://arxiv.org/abs/2606.31191",
+      "discovered": "2026-07-01T15:58:59+00:00",
+      "theme": "frozen-LLM strategy-memory schema / episodic-hard-resets / continual-mathematical-reasoning"
+    },
+    {
+      "arxiv_id": "2606.30345",
+      "title": "DRIFT: Difficulty Routing Self-DIstillation with Rhythm-Gated Exploration and Success BuFfer Training",
+      "slug": "drift-difficulty-routing-self-distillation-rhythm-gated-exploration-2606.30345",
+      "url": "https://arxiv.org/abs/2606.30345",
+      "discovered": "2026-07-01T15:58:59+00:00",
+      "theme": "difficulty-routing self-distillation / rhythm-gating / success-buffer / stable-self-improvement"
+    },
+    {
+      "arxiv_id": "2606.29150",
+      "title": "Flow Reasoning Models: Scaling Reasoning Through Iterative Self-Refinement",
+      "slug": "flow-reasoning-models-scaling-reasoning-iterative-self-refinement-2606.29150",
+      "url": "https://arxiv.org/abs/2606.29150",
+      "discovered": "2026-07-01T15:58:59+00:00",
+      "theme": "discrete-flow-reasoning / iterative-self-refinement / structured-problem-solving / self-conditioning"
     }
   ],
   "emergent_concept_search_log": [
@@ -19508,6 +19559,19 @@
       "theme": "agent-procedural-memory / multi-teacher-distillation / lexical-grounding",
       "method": "HF daily 4-date emergent-concept discovery",
       "framing": "AGTMEMMOP / LEXCONS"
+    },
+    {
+      "run_number": 289,
+      "timestamp": "2026-07-01T15:58:59+00:00",
+      "papers_added": 3,
+      "papers": [
+        "2606.31191",
+        "2606.30345",
+        "2606.29150"
+      ],
+      "theme": "difficulty-routing-self-distillation / strategy-memory-continual-learning / flow-reasoning",
+      "method": "web_search self-improvement LLM 2026 + HF daily confirmation",
+      "framing": "DRIFTISMRFM"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

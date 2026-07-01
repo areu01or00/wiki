@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 289: Difficulty Routing Self-Distillation / Strategy Memory Continual Learning / Flow Reasoning
+
+- [[ism-self-improving-strategy-memory-continual-mathematical-reasoning-2606.31191]]
+  ISM: Self-Improving Strategy Memory for Continual Mathematical Reasoning — Dixit, Prakhar; Oates, Tim — self-evolving memory-augmented system for frozen LLMs that extracts, stores, and retrieves strategy schemas via hybrid rule-based + learned pattern matching, with episodic hard resets to prevent catastrophic forgetting. **First frozen-LLM strategy-memory schema with episodic resets in wiki.**
+
+- [[drift-difficulty-routing-self-distillation-rhythm-gated-exploration-2606.30345]]
+  DRIFT: Difficulty Routing Self-DIstillation with Rhythm-Gated Exploration and Success BuFfer Training — Luo, Haisen; Liu, Yiwei; Wang, Haoning + 13 — difficulty-guided sample routing combined with success-buffered distillation and rhythm gating to enable stable self-improvement without external supervision. **First difficulty-routing + success-buffer self-distillation in wiki.**
+
+- [[flow-reasoning-models-scaling-reasoning-iterative-self-refinement-2606.29150]]
+  Flow Reasoning Models: Scaling Reasoning Through Iterative Self-Refinement — Helbling, Alec; Bryutkin, Andrey; Martino, Mauro + 2 — applies discrete flow matching to structured reasoning (Sudoku, Zebra puzzles), framing reasoning as iterative state refinement with self-conditioning for mid-flow constraint violation detection. **First discrete flow model applied to structured reasoning self-refinement in wiki.**
+
 ### 2026-07-01 — Run 288: Agent Procedural Memory / Multi-Teacher On-Policy Distillation / Lexical Grounding
 
 - [[mopd-multi-teacher-on-policy-distillation-for-capability-integration-in-llm-post-training-2606.30406]]
