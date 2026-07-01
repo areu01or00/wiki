@@ -4085,6 +4085,21 @@
 
 
 ## Updates
+- **2026-07-01** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-01** | [leetcode-python · GitHub Topics · GitHub](https://github.com/topics/leetcode-python) | kw: algorithms
+- **2026-07-01** | [Comprehensive Data Structure and Algorithm Study... - LeetCode](https://leetcode.com/discuss/post/494279/comprehensive-data-structure-and-algorithm-study-guide/) | kw: algorithms
+- **2026-07-01** | [Guideline for FAANG. Algorithm and Data structure (Leetcode](https://medium.com/@nazmus20000/guideline-for-faang-d9c2502d4af4) | kw: algorithms
+- **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: algorithms
+- **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms
+- **2026-07-01** | [Master key data structures and algorithms with LeetCode... | LinkedIn](https://www.linkedin.com/posts/slothdevs_algorithms-datastructures-leetcode-activity-7379706524392329217-fWj3) | kw: algorithms
+- **2026-07-01** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
+- **2026-07-01** | [Algorithms | An Open Access Journal from MDPI](https://www.mdpi.com/journal/algorithms) | kw: algorithms
+- **2026-07-01** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: algorithms
+- **2026-07-01** | [The Algorithms - GitHub](https://github.com/TheAlgorithms) | kw: algorithms
+- **2026-07-01** | [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: algorithms
+
 - **2026-07-01** | [faang-interview · GitHub Topics · GitHub](https://github.com/topics/faang-interview) | kw: faang-interview
 - **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: Problems
 - **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: Alternatives

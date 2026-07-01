@@ -1,6 +1,15 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: compilers
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+- **2026-07-01** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: compilers
+- **2026-07-01** | [2026 EuroLLVM Developers Meeting - LLVM.org](https://llvm.org/devmtg/2026-04/) | kw: compilers
+- **2026-07-01** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: compilers
+- **2026-07-01** | [Unmasking the World of LLVM IR Based JIT Execution](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/) | kw: compilers
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
+- **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving...](https://www.preprints.org/manuscript/202306.1834) | kw: compilers
+
 - **2026-07-01** | [CS153: Compilers Lecture 1: Introduction - Harvard University](https://groups.seas.harvard.edu/courses/cs153/2018fa/lectures/Lec01-Intro.pdf) | kw: CS153:
 - **2026-07-01** | [Compilers - Stanford University](https://web.stanford.edu/class/cs143/lectures/lecture01.pdf) | kw: Compilers
 - **2026-07-01** | [CS 45, Lecture 7 Compilers - Stanford University](https://web.stanford.edu/class/cs45/lectures/7-compilers.pdf) | kw: Lecture
