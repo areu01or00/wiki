@@ -2319,3 +2319,8 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 **Picks**: 2606.32032 (MetacognitiveFeedback), 2606.29215 (MultiBD-LMs), 2606.27595 (Ko-WideSearch)
 **Discover**: HF daily 2026-07-01 + 2026-06-30 + 2026-06-29 → 93 total, ~28 fresh after 5-store dedup → abstract inspection → 3 orthogonal picks
 **Status**: SUCCESS
+## 2026-07-01T14:30:00 UTC — Run 282
+**Theme**: COT BIAS-MECHANISTIC / MULTI-AGENT SCALING / EMBODIED AGENT MODULE DIAGNOSTICS
+**Picks**: 2605.20410 (Mechanics-of-Bias-and-Reasoning), 2606.00655 (Scaling-Multi-Agent), 2605.11534 (PRISM)
+**Discover**: HF DNS failure confirmed (per pitfall-277); escalated to web_search immediately; 15 fresh LLM candidates from 4 queries; 3 orthogonal picks selected
+**Status**: SUCCESS

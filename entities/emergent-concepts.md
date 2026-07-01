@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 282: CoT Bias-Mechanistic / Multi-Agent Scaling / Embodied Agent Module Diagnostics
+
+- [[mechanics-of-bias-and-reasoning-interpreting-the-impact-of-chain-of-thought-prompting-on-gender-bias-in-llms-2605.20410]]
+  Mechanics of Bias and Reasoning: First decomposition of CoT prompting's dual effect on gender bias — mitigation in some dimensions, amplification in others. Combines benchmark eval with mechanistic interpretability. **First mechanistic CoT bias decomposition paper in wiki.**
+
+- [[scaling-behavior-of-single-llm-driven-multi-agent-systems-2606.00655]]
+  Scaling Multi-Agent Systems: First scaling laws for single-LLM-driven MAS collective behavior — identifies non-linear phase transitions as agent count increases. **First collective intelligence scaling characterization in wiki.**
+
+- [[prism-planning-and-reasoning-with-intent-in-simulated-embodied-environments-2605.11534]]
+  PRISM: Module-level diagnostic benchmark for embodied agents (object ID / sub-goal / action sequencing) — addresses the measurement problem where success/failure metrics conflate distinct cognitive modules. **First fine-grained embodied agent module diagnostics in wiki.**
+
 ### 2026-07-01 — Run 281: Open-World Agents / Tri-Role Safety / Multimodal Memory Benchmark
 
 - [[openlife-toward-open-world-artificial-life-with-autonomous-llm-agents-2606.31046]] — OpenLife: Open-world ALife with autonomous LLM agents (06-30)
