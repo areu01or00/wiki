@@ -3943,6 +3943,15 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How Python Works Under the Hood: Memory GIL and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python-internals
+- **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: python-internals
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: python-internals
+- **2026-07-01** | [The GIL Explained — What It Is What It Isn't and How to Work Around It](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: python-internals
+- **2026-07-01** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: python-internals
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: python-internals
+- **2026-07-01** | [Python Interview Questions: Key Features Memory Management...](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: python-internals
+- **2026-07-01** | [Beyond basics: async type hints packaging and production Python](https://jobcannon.io/skills/python-advanced) | kw: python-internals
+
 - **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python internals
 - **2026-07-01** | [How Python's GIL actually works (and when it bites you) - dev.to](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python internals
 - **2026-07-01** | [Using malloc_trim to help with memory management - discuss.python.org](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: python internals

@@ -41,6 +41,12 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
+- **2026-07-01** | [gradual-typing · GitHub Topics · GitHub](https://github.com/topics/gradual-typing) | kw: type-systems
+- **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type-systems
+- **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: type-systems
+
 - **2026-07-01** | [Gradual typing - Wikipedia](https://en.m.wikipedia.org/wiki/Gradual_typing) | kw: type systems
 - **2026-07-01** | [Type inference of all constructs and the next 15 months - Elixir](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type systems
 - **2026-07-01** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: type systems

@@ -33,6 +33,8 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Benderskys website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: compilers
+
 - **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compilers
 - **2026-07-01** | [2026 EuroLLVM Developers' Meeting - LLVM.org](https://llvm.org/devmtg/2026-04/) | kw: compilers
 
