@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-06-30 — Run 233) — BIDIRECTIONAL COT REPAIR / LATENT MULTI-AGENT COMMUNICATION / CONTEXT-AWARE RL FOR AGENTS**
+
+- [[imbuing-large-language-models-with-bidirectional-logic-for-robust-chain-repair-2606.05030]]
+  TRI (Teleological Reasoning Infilling): Bidirectional logic via PSM sequence rearrangement with sentinel tokens — enables surgical repair of corrupted CoT segments without full trace regeneration. DPO with symbolic Lean 4 / Python verifier eliminates LLM-judge sycophancy. **First bidirectional CoT repair framework in the wiki.**
+
+- [[beyond-tokens-a-unified-framework-for-latent-communication-in-llm-based-multi-ag-2606.05711]]
+  LatentComm Framework: 3-axis taxonomy (WHAT × WHICH × HOW) organizing 18 latent communication methods in LLM multi-agent systems — embeddings, hidden states, KV-caches; latent-space/layer alignment; concatenation, cross-attention, cache restoration. Surfaces latent communication as a distinct research area. **First unified taxonomy of latent multi-agent communication in the wiki.**
+
+- [[context-aware-rl-for-agentic-and-multimodal-llms-2606.17053]]
+  ContextRL: Contrastive context selection as RL auxiliary objective for long-horizon reasoning and multimodal grounding — +2.2% over GRPO on 5 long-horizon benchmarks, +1.8% on 12 VQA benchmarks. Fine-grained context selection objective is orthogonal to outcome-based RL. **First context-contrastive RL objective for agentic multimodal LLMs in the wiki.**
+
 **2026-07-04 — Run 232) — CIRCUIT-LEVEL COT UNFAITHFULNESS / SYMBOLIC DATA ATTRIBUTION / TRAIN-INFERENCE DISCREPANCY RL**
 
 - [[detecting-unfaithful-chain-of-thought-via-circuit-guided-internal-external-discrepancy-2605.25603]]

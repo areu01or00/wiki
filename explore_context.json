@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-06-30T00:00:00.000000+00:00",
   "__last_updated": "2026-07-04T00:15:00.000000+00:00",
-  "last_run": 232,
+  "last_run": 233,
   "last_explore": "2026-07-04T00:30:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-04",
-  "last_run_framing": "CIRCUIT-LEVEL COT UNFAITHFULNESS / SYMBOLIC DATA ATTRIBUTION / TRAIN-INFERENCE DISCREPANCY RL",
+  "last_run_framing": "BIDIRECTIONAL COT REPAIR / LATENT MULTI-AGENT COMMUNICATION / CONTEXT-AWARE RL FOR AGENTS",
   "last_framing": "industrial multi-agent scheduling / disaggregated inference / math retriever benchmark",
-  "last_run_notes": "Run 232: CIE-Scorer (2605.25603) + SMDA (2606.29171) + DCMDP (2606.08779)",
+  "last_run_notes": "Run 233: TRI (2606.05030) + LatentComm Framework (2606.05711) + ContextRL (2606.17053)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 708,
+  "entities_count": 711,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7066,6 +7066,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-04T00:30:00+00:00",
       "theme": "RL training efficiency / train-inference discrepancy / DCMDP / Lagrangian relaxation"
+    },
+    {
+      "arxiv_id": "2606.05030",
+      "title": "Imbuing Large Language Models with Bidirectional Logic for Robust Chain Repair",
+      "slug": "imbuing-large-language-models-with-bidirectional-logic-for-robust-chain-repair-2606.05030",
+      "url": "https://arxiv.org/abs/2606.05030",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T00:00:00+00:00",
+      "theme": "chain-of-thought / bidirectional reasoning / DPO"
+    },
+    {
+      "arxiv_id": "2606.05711",
+      "title": "Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems",
+      "slug": "beyond-tokens-a-unified-framework-for-latent-communication-in-llm-based-multi-ag-2606.05711",
+      "url": "https://arxiv.org/abs/2606.05711",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T00:00:00+00:00",
+      "theme": "latent communication / multi-agent / taxonomy"
+    },
+    {
+      "arxiv_id": "2606.17053",
+      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+      "slug": "context-aware-rl-for-agentic-and-multimodal-llms-2606.17053",
+      "url": "https://arxiv.org/abs/2606.17053",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T00:00:00+00:00",
+      "theme": "context-aware RL / multimodal agents / contrastive grounding"
     }
   ],
   "emergent_discoveries": [
@@ -12416,6 +12443,33 @@
       "url": "https://arxiv.org/abs/2606.08779",
       "discovered": "2026-07-04T00:30:00+00:00",
       "theme": "RL training efficiency / train-inference discrepancy / DCMDP / Lagrangian relaxation"
+    },
+    {
+      "arxiv_id": "2606.05030",
+      "title": "Imbuing Large Language Models with Bidirectional Logic for Robust Chain Repair",
+      "slug": "imbuing-large-language-models-with-bidirectional-logic-for-robust-chain-repair-2606.05030",
+      "url": "https://arxiv.org/abs/2606.05030",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T00:00:00+00:00",
+      "theme": "chain-of-thought / bidirectional reasoning / DPO"
+    },
+    {
+      "arxiv_id": "2606.05711",
+      "title": "Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems",
+      "slug": "beyond-tokens-a-unified-framework-for-latent-communication-in-llm-based-multi-ag-2606.05711",
+      "url": "https://arxiv.org/abs/2606.05711",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T00:00:00+00:00",
+      "theme": "latent communication / multi-agent / taxonomy"
+    },
+    {
+      "arxiv_id": "2606.17053",
+      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+      "slug": "context-aware-rl-for-agentic-and-multimodal-llms-2606.17053",
+      "url": "https://arxiv.org/abs/2606.17053",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-06-30T00:00:00+00:00",
+      "theme": "context-aware RL / multimodal agents / contrastive grounding"
     }
   ],
   "emergent_concept_search_log": [
@@ -18688,6 +18742,45 @@
         "2606.08779"
       ],
       "theme": "circuit-level interpretability / RL training efficiency"
+    },
+    {
+      "run": 233,
+      "date": "2026-06-30",
+      "picks": [
+        "2606.05030"
+      ],
+      "theme": "chain-of-thought / bidirectional reasoning / DPO",
+      "vector": "emergent_concept_search",
+      "papers_found": [
+        "2606.05030"
+      ],
+      "hash": "b2d8f2748bf072cf5eb4f2da157b663d"
+    },
+    {
+      "run": 233,
+      "date": "2026-06-30",
+      "picks": [
+        "2606.05711"
+      ],
+      "theme": "latent communication / multi-agent / taxonomy",
+      "vector": "emergent_concept_search",
+      "papers_found": [
+        "2606.05711"
+      ],
+      "hash": "7f82e86092066c411e5e65810ebea781"
+    },
+    {
+      "run": 233,
+      "date": "2026-06-30",
+      "picks": [
+        "2606.17053"
+      ],
+      "theme": "context-aware RL / multimodal agents / contrastive grounding",
+      "vector": "emergent_concept_search",
+      "papers_found": [
+        "2606.17053"
+      ],
+      "hash": "1b9b938456ba658fdb84ad1c11bcebae"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
