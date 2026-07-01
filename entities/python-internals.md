@@ -3943,6 +3943,16 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python Memory Management and GIL. Python Untold | by Puneet...](https://python.plainenglish.io/python-untold-976da8cf2006) | kw: Python
+- **2026-07-01** | [Python Interview Questions: Hiring Guide by Experience](https://www.boundev.com/blog/python-interview-questions-hiring-guide) | kw: Python
+- **2026-07-01** | [Python GIL: Защита интерпретатора #shorts - YouTube](https://www.youtube.com/shorts/2HoWArfIUT0) | kw: Python
+- **2026-07-01** | [CPython Internals Explained: A Practical Guide to Python's Interpreter...](https://www.amazon.com/CPython-Internals-Explained-Interpreter-Optimization/dp/B0FVVXQV4C) | kw: CPython
+- **2026-07-01** | [Fynd | Python Developer I/II | Mumbai - Discuss - LeetCode](https://leetcode.com/discuss/post/7183172/fynd-python-developer-iii-mumbai-by-anon-af3d/) | kw: Fynd
+- **2026-07-01** | [Python GIL Problem Explained: Why Mojo Could Finally Fix... - KruN](https://krun.pro/python-gil-mojo/) | kw: Python
+- **2026-07-01** | [The Python Interview Roadmap: What to Learn, In... - DEV Community](https://dev.to/touheedkhan/the-python-interview-roadmap-what-to-learn-in-what-order-before-someone-asks-you-about-the-gil-38ej) | kw: The
+- **2026-07-01** | [MEMORY_MANAGEMENT (0x1A) в Windows 10/11: как исправить...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: MEMORY_MANAGEMENT
+- **2026-07-01** | [Зачем нужен Python Global Interpreter Lock и как он... | Tproger](https://tproger.ru/translations/global-interpreter-lock-guide) | kw: Зачем
+
 - **2026-07-01** | [Python in 2026 Free-Threading and UV Change Everything Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python internals
 - **2026-07-01** | [Memory Management Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: python internals
 - **2026-07-01** | [How Pythons GIL actually works and when it bites you](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python internals

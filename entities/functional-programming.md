@@ -31,6 +31,15 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [The Practical Value of Functional Programming — Monad ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The
+- **2026-07-01** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional
+- **2026-07-01** | [Haskell Guide [2026]: Functional Programming That Changes How ...](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell
+- **2026-07-01** | [Does Rust Support Functional Programming Idioms? Exploring ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does
+- **2026-07-01** | [Haskell Stadium: A Deep Dive into Functional Programming's ...](https://www.elmelaab.net/haskell-stadium/) | kw: Haskell
+- **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: Haskell
+- **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello,
+- **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional
+
 - **2026-07-01** | [Monad functional programming Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional programming
 - **2026-07-01** | [7 Best Free Haskell Courses for 2026 Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: functional programming
 - **2026-07-01** | [Rust Functional Programming and Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional programming

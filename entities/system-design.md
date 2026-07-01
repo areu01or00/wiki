@@ -3619,6 +3619,10 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: System
+- **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three
+- **2026-07-01** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: Distributed
+
 - **2026-07-01** | [System Design for Agentic AI Systems: From Distributed Systems](https://www.abstractalgorithms.dev/system-design-for-agentic-ai-systems-from-distributed-principles-to-production) | kw: system design
 - **2026-07-01** | [Design Patterns](https://refactoring.guru/design-patterns) | kw: system design
 - **2026-07-01** | [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) | kw: system design

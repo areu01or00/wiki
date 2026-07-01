@@ -41,6 +41,15 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating
+- **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static
+- **2026-07-01** | [GitHub - darknecrocities/InterLang: InferLang: A Type-Inference...](https://github.com/darknecrocities/InterLang) | kw: GitHub
+- **2026-07-01** | [LambdaNet: Probabilistic Type Inference using Graph... | OpenReview](https://openreview.net/forum?id=Hkx6hANtwH) | kw: LambdaNet:
+- **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: Putting
+- **2026-07-01** | [Newest 'static-typing' Questions - Programming Language Design...](https://langdev.stackexchange.com/questions/tagged/static-typing?tab=Newest) | kw: Newest
+- **2026-07-01** | [The ins and outs of gradual type inference | Proceedings of the 39th...](https://dl.acm.org/doi/10.1145/2103656.2103714?cookieSet=1) | kw: The
+
 - **2026-07-01** | [Elixir v1.20 released now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type systems
 - **2026-07-01** | [Navigating the Language Labyrinth A 2026 Matrix Analysis of typing and paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type systems
 - **2026-07-01** | [Efficient Selection of Type Annotations for Performance arXiv](https://arxiv.org/pdf/2603.05649) | kw: type systems

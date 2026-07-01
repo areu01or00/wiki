@@ -33,6 +33,12 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why
+- **2026-07-01** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures
+- **2026-07-01** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: LLVM
+- **2026-07-01** | [Search: [llvm] - Bookmarks](https://links.cpollet.io/?searchtags=llvm) | kw: Search:
+
 - **2026-07-01** | [Compilers and Modern Language Runtimes LLVM JIT GC V8 TurboFan](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-07-01** | [compiler-course-2026 llvm docs tutorial BuildingAJIT1.rst GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
 - **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: compilers
