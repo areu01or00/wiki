@@ -31,6 +31,12 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello,
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure
+- **2026-07-01** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell
+- **2026-07-01** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/) | kw: Kabbalah,
+- **2026-07-01** | [The Brutal Truth About Programming Languages in 2026](https://medium.com/@mohdinsafinzu/the-brutal-truth-about-programming-languages-in-2026-which-ones-will-break-you-and-which-ones-61a1ea1a245d) | kw: The
+
 - **2026-07-01** | [monads - GitHub Topics](https://github.com/topics/monads) | kw: fp
 - **2026-07-01** | [Haskell Team PM 2026 - Functional Type-Safe Monads](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: fp
 - **2026-07-01** | [Getting started with Haskell - Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell) | kw: fp

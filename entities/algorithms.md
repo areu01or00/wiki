@@ -4117,6 +4117,13 @@
 
 
 ## Updates
+- **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are
+- **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are Asking](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: LeetCode
+- **2026-07-01** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most
+- **2026-07-01** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode
+- **2026-07-01** | [Rethinking DSA for 2026 Interview Success](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: Rethinking
+- **2026-07-01** | [How to Pass Leetcode Interviews: The Ritual That Works](https://proandroiddev.com/how-to-pass-leetcode-interviews-the-ritual-that-works-a788ff2f4f27) | kw: How
+
 - **2026-07-01** | [leetcode-csharp - GitHub Topics](https://github.com/topics/leetcode-csharp) | kw: algorithms
 - **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: algorithms
 - **2026-07-01** | [datastructures-algorithms - GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms

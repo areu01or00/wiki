@@ -3619,6 +3619,10 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
+- **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three
+- **2026-07-01** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50
+
 - **2026-07-01** | [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) | kw: system-design
 - **2026-07-01** | [System Design for Agentic AI Systems: From Distributed Systems](https://www.abstractalgorithms.dev/system-design-for-agentic-ai-systems-from-distributed-principles-to-production) | kw: system-design
 - **2026-07-01** | [Interface Architecture and Design System Engineering](https://zemgraphics.com/) | kw: system-design

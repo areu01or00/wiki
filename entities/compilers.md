@@ -33,6 +33,11 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: 3.
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize
+- **2026-07-01** | [A Deep Dive into LLVM: The Future of Compiler Technology | Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: A
+- **2026-07-01** | [LLVM JIT compilation of panproto expressions](https://lib.rs/crates/panproto-jit) | kw: LLVM
+
 - **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
 - **2026-07-01** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: compilers
 - **2026-07-01** | [2017 LLVM Developers Meeting - Compile-Time Optimization](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: compilers

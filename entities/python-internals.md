@@ -3943,6 +3943,13 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python
+- **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How
+- **2026-07-01** | [How Python's GIL Works](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: How
+- **2026-07-01** | [Using malloc_trim to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using
+- **2026-07-01** | [Memory Management | Python - AlgoMaster.io](https://algomaster.io/learn/python/memory-management) | kw: Memory
+- **2026-07-01** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What
+
 - **2026-07-01** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: python
 - **2026-07-01** | [MEMORY_MANAGEMENT 0x1A error fix Windows 10/11](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: python
 
