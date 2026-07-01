@@ -1,6 +1,11 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: Compilers
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Compilers
+- **2026-07-01** | [2017 LLVM Developers Meeting: M. Zolotukhin](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: Compilers
+- **2026-07-01** | [Paper Title - Clausius Press](https://clausiuspress.com/conferences/ACSS/CNCI+2020/CNCI050.pdf) | kw: Compilers
+
 - **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize
 
 - **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: compilers

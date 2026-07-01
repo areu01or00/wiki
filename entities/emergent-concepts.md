@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 270) — PERSISTENT DECISION HISTORY / SELF-EVOLVING MULTI-AGENT DATA CONSTRUCTION / SPEECH SAFETY ACROSS LANGUAGES**
+
+- [[dataevolver-self-evolving-multi-agent-data-construction-for-text-rich-image-generation-2606.31537]]
+  Self-Evolving Multi-Agent Data: First self-evolving multi-agent data construction framework (Retriever-Verifier-Critic-Generator) that recycles rejected sample failure signals as actionable feedback for the next construction round. Improves OCR-F1 85.3% on TextScenesHQ vs strongest baseline. Orthogonal to prior runs' agentic data synthesis papers.
+
+- [[redvox-safety-and-fairness-gaps-in-speech-models-across-languages-2606.26968]]
+  Speech Safety Benchmark: First multilingual speech safety and fairness benchmark covering real voices across 5 languages with unsafe/stereotypical requests. Finds 8% of SOTA speech model releases document multilingual safety analysis. Vulnerabilities persist, worsen in non-English, and amplify under spoken input. Orthogonal to prior runs' text safety benchmarking papers.
+
+- [[skillhone-a-harness-for-continual-agent-skill-evolution-through-persistent-decision-history-2606.08671]]
+  Continual Skill Evolution: First harness treating persistent decision history as first-class artifact of agent skill evolution — enables cross-session refinement without rediscovering past rationale. Outperforms deep-research agent by 15.8 points on GAIA, 3.2 on WebWalkerQA-EN. Orthogonal to prior runs' bounded-run skill optimization papers.
+
 **2026-07-01 — Run 269) — SUBAGENT ORCHESTRATION BENCHMARK / END-TO-END SPREADSHEET WORKFLOW AGENT / NEURAL PROCEDURAL MEMORY**
 
 - [[clawarena-team-benchmarking-subagent-orchestration-and-dynamic-workflows-in-language-model-agents-2606.31174]]

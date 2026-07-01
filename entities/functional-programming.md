@@ -1,4 +1,9 @@
 ## Updates
+
+- **2026-07-01** | [Haskell as a next choice of programming language - Reddit](https://www.reddit.com/r/haskell/comments/1riy9lw/haskell_as_a_next_choice_of_programming_language/) | kw: Functional Programming
+- **2026-07-01** | [Monads in Functional Programming: a Practical Note | Medium](https://medium.com/@bobbypriam/monads-in-functional-programming-a-practical-note-53488f94b20c) | kw: Functional Programming
+- **2026-07-01** | [What killed Haskell, could kill Rust, too - GitHub Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: Functional Programming
+
 - **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Functional Programming
 - **2026-07-01** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Functional Programming
 - **2026-07-01** | [Monads in Functional Programming: a Practical Note | by Bobby Priam](https://medium.com/@bobbypriam/monads-in-functional-programming-a-practical-note-53488f94b20c) | kw: Functional Programming

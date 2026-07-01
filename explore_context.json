@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T09:34:09.474205+00:00",
-  "__last_updated": "2026-07-02T12:00:00.000000+00:00",
-  "last_run": 269,
-  "last_explore": "2026-07-01T09:34:09.474205+00:00",
-  "last_global_explore": "2026-07-01T09:34:09.474205+00:00",
+  "__last_updated": "2026-07-01T12:30:00.000000+00:00",
+  "last_run": 270,
+  "last_explore": "2026-07-01T12:30:00.000000+00:00",
+  "last_global_explore": "2026-07-01T12:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "SUBAGENT ORCHESTRATION BENCHMARK / END-TO-END SPREADSHEET WORKFLOW AGENT / NEURAL PROCEDURAL MEMORY",
-  "last_framing": "agent interaction data synthesis / cross-lingual parametric knowledge / semantic KV-cache compression",
-  "last_run_notes": "Run 268: 2606.02001 / 2606.24579 / 2606.24467",
+  "last_run_framing": "PERSISTENT DECISION HISTORY / SELF-EVOLVING MULTI-AGENT DATA CONSTRUCTION / SPEECH SAFETY ACROSS LANGUAGES",
+  "last_framing": "persistent decision history / self-evolving data construction feedback loop / multilingual speech safety",
+  "last_run_notes": "Run 270: 2606.08671 / 2606.31537 / 2606.26968",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search 8-query (375 IDs, 318 fresh, 29 LLM-candidates, 3 orthogonal picks)",
+  "last_run_method": "HF daily 3-date (99 papers, 40 fresh, 21 LLM, 3 orthogonal picks)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 820,
+  "entities_count": 823,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1969,6 +1969,36 @@
     }
   },
   "emergent_concept_papers": [
+    {
+      "arxiv_id": "2606.08671",
+      "slug": "skillhone-a-harness-for-continual-agent-skill-evolution-through-persistent-decision-history-2606.08671",
+      "title": "SkillHone: A Harness for Continual Agent Skill Evolution Through Persistent Decision History",
+      "url": "https://arxiv.org/abs/2606.08671",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:30:00.000000+00:00",
+      "theme": "agent-skill / continual-learning / persistent-memory / decision-history",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.26968",
+      "slug": "redvox-safety-and-fairness-gaps-in-speech-models-across-languages-2606.26968",
+      "title": "RedVox: Safety and Fairness Gaps in Speech Models Across Languages",
+      "url": "https://arxiv.org/abs/2606.26968",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:30:00.000000+00:00",
+      "theme": "speech-model / safety / fairness / multilingual / benchmark",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31537",
+      "slug": "dataevolver-self-evolving-multi-agent-data-construction-for-text-rich-image-generation-2606.31537",
+      "title": "DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation",
+      "url": "https://arxiv.org/abs/2606.31537",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:30:00.000000+00:00",
+      "theme": "multi-agent / data-construction / self-evolution / feedback-loop",
+      "chain": "emergent-concepts"
+    },
     {
       "arxiv_id": "2606.19356",
       "slug": "argent-signaling-protocol-multi-agent-semantic-drift-2606.19356",
@@ -14145,6 +14175,17 @@
   ],
   "emergent_concept_search_log": [
     {
+      "run": 270,
+      "date": "2026-07-01",
+      "theme": "persistent decision history / self-evolving data construction / speech safety",
+      "method": "HF daily 3-date",
+      "picks": [
+        "2606.31537",
+        "2606.26968",
+        "2606.08671"
+      ]
+    },
+    {
       "ts": "2026-06-25T16:13:26.227468+00:00",
       "papers_found": [
         "constraint-tax-in-open-weight-llms-an-empirical-study-of-tool-calling-suppression-under-structured-output-constraints-2606.25605",
@@ -17045,6 +17086,18 @@
     }
   ],
   "runs": [
+    {
+      "run": 270,
+      "date": "2026-07-01T12:30:00+00:00",
+      "theme": "persistent decision history / self-evolving data construction / speech safety",
+      "picks": [
+        "2606.31537",
+        "2606.26968",
+        "2606.08671"
+      ],
+      "method": "HF daily 3-date",
+      "added": 3
+    },
     {
       "run": 24,
       "started": "2026-06-25T21:53:00+00:00",
