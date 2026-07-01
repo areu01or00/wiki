@@ -1,4 +1,13 @@
 ## Updates
+- **2026-07-01** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: functional-programming
+- **2026-07-01** | [FUNCTIONAL | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: functional-programming
+- **2026-07-01** | [FUNCTIONAL Definition & Meaning | Britannica Dictionary](https://www.britannica.com/dictionary/functional) | kw: functional-programming
+- **2026-07-01** | [FUNCTIONAL Definition & Meaning | Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/functional) | kw: functional-programming
+- **2026-07-01** | [functional - WordReference.com Dictionary of English](https://www.wordreference.com/definition/functional) | kw: functional-programming
+- **2026-07-01** | [functional, adj. & n. meanings, etymology and more | Oxford...](https://www.oed.com/dictionary/functional_adj) | kw: functional-programming
+- **2026-07-01** | [functional - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/functional) | kw: functional-programming
+- **2026-07-01** | [functional adjective - Oxford Learners Dictionaries](https://www.oxfordlearnersdictionaries.com/definition/english/functional) | kw: functional-programming
+
 - **2026-07-01** | [Haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: overflow
 - **2026-07-01** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: rust
 - **2026-07-01** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: in

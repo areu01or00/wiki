@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [CS 45, Lecture 7 Compilers - Stanford University](https://web.stanford.edu/class/cs45/lectures/7-compilers.pdf) | kw: compilers
+- **2026-07-01** | [Compilers - GitHub Pages](https://iitd-plos.github.io/col729/refs/ALSUdragonbook.pdf) | kw: compilers
+- **2026-07-01** | [Compilers PDF - cdn.bookey.app](https://cdn.bookey.app/files/pdf/book/en/compilers.pdf) | kw: compilers
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+- **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compilers
+- **2026-07-01** | [2026 EuroLLVM Developers' Meeting - LLVM.org](https://llvm.org/devmtg/2026-04/) | kw: compilers
+
 
 - **2026-07-01** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: LLVM, llvm
 - **2026-07-01** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: compiler, Interpreters

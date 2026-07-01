@@ -3931,6 +3931,8 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python Interview Questions: Key Features, Memory Management...](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: python-internals
+
 
 - **2026-07-01** | [Memory Management and GIL in Python: Python Guide (2026) | Edugators](https://www.edugators.com/python-online-training/advanced/python-memory-gil) | kw: guide, memory
 - **2026-07-01** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: guide, memory

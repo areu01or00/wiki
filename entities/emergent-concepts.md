@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 264) — OPERATOR-LEVEL VISUAL SKIPPING / COMPLIANCE-ROUTING / REAL-WORLD CLINICAL BENCHMARKING**
+
+- [[attend-transform-or-silence-operator-level-visual-skipping-2606.31903]]
+  Attend-Skip: First operator-level (attention/FFN) skipping framework for multimodal LLMs — preserves full visual-token sequence while selectively bypassing redundant operators per layer. Achieves 33.7% TFLOPs reduction on Qwen3-VL at 99.5% performance. Orthogonal to existing layer-skipping and token-pruning papers. Cross-ref: [[hardkv-head-adaptive-regularization-for-decoding-time-kv-compression-2606.28831]], [[kernelsight-lm-a-kernel-level-llm-inference-simulator-2606.28565]], [[is-graphrag-needed-from-basic-rag-to-graph-agentic-solutions-with-context-optimization-2606.25656]].
+
+- [[compliancegate-classifier-gated-multi-tier-llm-routing-for-2606.31163]]
+  ComplianceGate: First classifier-gated pre-inference routing architecture for regulated-industry LLM deployment — PII queries route to local endpoints before any LLM computation. Achieves 39% latency reduction and 33-52% cost savings with 99.2% PII classification accuracy. Orthogonal to existing MoE-routing and test-time-scaling papers. Cross-ref: [[grace-granularity-regulated-adaptive-computational-efficiency-for-optimal-verification-in-test-time-scaling-2606.19354]], [[a-theoretical-model-for-task-routing-in-mixture-of-expert-transformers-2606.14398]], [[beyond-goodharts-law-a-dynamic-benchmark-for-evaluating-compliance-in-multi-agent-systems-2606.07805]].
+
+- [[expert-evaluation-of-clinical-ai-tools-on-real-2606.28960]]
+  Clinical-Bench: First real-world Point-of-Care clinical query benchmark (Real-POCQi, 620 queries, 30 specialties, 149 physician graders) — frontier LLMs consistently outperformed by specialized clinical tool by 25-39 percentage points. LLM judges found to systematically flatter weaker models vs expert judges. Orthogonal to existing exam-style and hypothetical clinical benchmarks. Cross-ref: [[agents-last-exam-2606.05405]], [[enterpriseclawbench-benchmarking-agents-from-real-workplace-sessions-2606.23654]], [[nrt-bench-benchmarking-multi-turn-red-teaming-of-llm-operator-agents-in-safety-critical-control-rooms-2606.20408]].
+
 **2026-07-01 — Run 263) — AGENTIC IDEATION / KV-CACHE HEAD ADAPTATION / GRAPHRAG DECISION FRAMEWORK**
 
 - [[agenticideation-sample-efficient-agentic-trajectories-synthesis-for-scientific-ideation-agents-2606.31229]]

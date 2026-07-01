@@ -3591,6 +3591,17 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
+- **2026-07-01** | [The Complete Guide to System Design in 2026](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
+- **2026-07-01** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: system-design
+- **2026-07-01** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system-design
+- **2026-07-01** | [10 System Design Patterns You Must Know in 2026](https://www.mockexperts.com/blog/10-system-design-patterns-you-must-know-2026) | kw: system-design
+- **2026-07-01** | [12 Essential Distributed System Design Patterns Every Architect ...](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: system-design
+- **2026-07-01** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: system-design
+- **2026-07-01** | [From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI) | kw: system-design
+- **2026-07-01** | [The Complete Guide to System Design in 2026 | InfraSketch Blog](https://infrasketch.net/blog/complete-guide-system-design) | kw: system-design
+- **2026-07-01** | [This Is What Actually Scales in 2026](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: system-design
+
 
 - **2026-07-01** | [Design Patterns](https://refactoring.guru/design-patterns) | kw: pattern, design
 - **2026-07-01** | [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) | kw: integration patterns, pattern

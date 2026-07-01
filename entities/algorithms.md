@@ -4085,6 +4085,15 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: algorithms
+- **2026-07-01** | [datastructures-algorithms · GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms
+- **2026-07-01** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: algorithms
+- **2026-07-01** | [Los leetcode repositorios principales - Proyectos de GitHub](https://git-stars.org/es/repositories/topic/leetcode) | kw: algorithms
+- **2026-07-01** | [My Senior Android Engineer Interview Experience with Tinder](https://medium.com/@YodgorbekKomilo/my-senior-android-engineer-interview-experience-with-tinder-389d7c44b24a) | kw: algorithms
+- **2026-07-01** | [neetcode · GitHub Topics](https://github.com/topics/neetcode) | kw: algorithms
+
 
 - **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026 ... - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: reddit, still
 - **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are ...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: leetcode, Leetcode

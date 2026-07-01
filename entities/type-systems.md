@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Gradual typing - Wikipedia](https://en.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
+- **2026-07-01** | [Gradual typing with unification-based inference - ACM Digital Library](https://dl.acm.org/doi/10.1145/1408681.1408688) | kw: type-systems
+- **2026-07-01** | [A gradual type system for Elixir - ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2590118421000551) | kw: type-systems
+- **2026-07-01** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing/) | kw: type-systems
+- **2026-07-01** | [Static Blame for gradual typing | Journal of Functional Programming](https://www.cambridge.org/core/product/A2CADE75A6BB303599A9FF8367DF9628) | kw: type-systems
+- **2026-07-01** | [Elixir 1.20 Gradual Typing: No Annotations, Real Bug Catches](https://byteiota.com/elixir-1-20-gradual-typing-no-annotations/) | kw: type-systems
+- **2026-07-01** | [What is a type system, really? - Lambda Land](https://lambdaland.org/posts/2023-01-17_what_is_a_type_system_really/) | kw: type-systems
+
 
 - **2026-07-01** | [Putting gradual types to work](https://arxiv.org/pdf/2101.12299) | kw: Types, gradual
 - **2026-07-01** | [Gradual Typing for Smalltalk](https://www.readkong.com/page/gradual-typing-for-smalltalk-7442783) | kw: gradual, Gradual typing
