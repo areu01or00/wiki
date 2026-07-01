@@ -3619,6 +3619,11 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [50 System Design Patterns Every Engineer Should Know](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50
+- **2026-07-01** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9
+- **2026-07-01** | [12 Essential Distributed System Design Patterns Every Architect](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: 12
+- **2026-07-01** | [This Is What Actually Scales in 2026](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: This
+
 - **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Bold
 
 - **2026-07-01** | [English Dialogue for Informatics Engineering - Distributed Systems...](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: for

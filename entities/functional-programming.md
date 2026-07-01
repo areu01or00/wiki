@@ -31,6 +31,13 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Functional programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming) | kw: Functional
+- **2026-07-01** | [FP lang for 2026 - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP
+- **2026-07-01** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell
+- **2026-07-01** | [Monad tutorials timeline - HaskellWiki](https://wiki.haskell.org/Monad_tutorials_timeline) | kw: Monad
+- **2026-07-01** | [A beginner-friendly guide to functional programming languages](https://www.devpebble.com/blog/functional-programming-languages/) | kw: A
+- **2026-07-01** | [Why I Hope I Get to Write a Lot of F# in 2026](https://cekrem.github.io/posts/why-i-hope-i-get-to-write-a-lot-of-fsharp-in-2026/) | kw: Why
+
 - **2026-07-01** | [monads · GitHub Topics · GitHub](https://github.com/topics/monads) | kw: ·
 - **2026-07-01** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Team
 - **2026-07-01** | [functional programming - Getting started with Haskell - Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell) | kw: programming
