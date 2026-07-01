@@ -31,6 +31,9 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [functional programming - Why are side-effects modeled as monads...](https://stackoverflow.com/questions/2488646/why-are-side-effects-modeled-as-monads-in-haskell) | kw: functional-programming
+- **2026-07-01** | [monad-transformers · GitHub Topics · GitHub](https://github.com/topics/monad-transformers) | kw: functional-programming
+
 - **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional-programming
 - **2026-07-01** | [State Monads in Haskell - Stack Overflow](https://stackoverflow.com/questions/10237072/state-monads-in-haskell) | kw: functional-programming
 - **2026-07-01** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | kw: functional-programming

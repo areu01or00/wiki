@@ -3619,6 +3619,11 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
+- **2026-07-01** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: system-design
+- **2026-07-01** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: system-design
+- **2026-07-01** | [Complete Distributed Systems Guide 2026 - College Nirnay](https://www.collegenirnay.com/articles/complete-guide-distributed-systems-beginners) | kw: system-design
+
 - **2026-07-01** | [System Design for Agentic AI Systems: From Distributed Systems...](https://www.abstractalgorithms.dev/system-design-for-agentic-ai-systems-from-distributed-principles-to-production) | kw: system-design
 
 - **2026-07-01** | [What Is the Basic Architecture of a Distributed System?](https://sivaro.in/articles/what-is-the-basic-architecture-of-a-distributed-system/) | kw: system design

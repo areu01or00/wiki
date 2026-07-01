@@ -41,6 +41,15 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type-systems
+- **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type-systems
+- **2026-07-01** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: type-systems
+- **2026-07-01** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: type-systems
+- **2026-07-01** | [Local Contextual Type Inference | Proceedings of the ACM on ...](https://dl.acm.org/doi/10.1145/3776653) | kw: type-systems
+- **2026-07-01** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing/) | kw: type-systems
+- **2026-07-01** | [Statically Typed vs Dynamically Typed Languages - Medium](https://medium.com/towardsdev/statically-typed-vs-dynamically-typed-languages-a-comprehensive-deep-dive-e30c09ec4439) | kw: type-systems
+
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type-systems
 - **2026-07-01** | [Gradual Typing with Unication-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: type-systems

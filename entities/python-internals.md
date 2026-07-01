@@ -3943,6 +3943,17 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
+- **2026-07-01** | [Memory Management — Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: python-internals
+- **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python-internals
+- **2026-07-01** | [How Python's GIL Works - Codefinity](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: python-internals
+- **2026-07-01** | [Using `malloc_trim` to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: python-internals
+- **2026-07-01** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: python-internals
+- **2026-07-01** | [Memory Management | Python - AlgoMaster.io](https://algomaster.io/learn/python/memory-management) | kw: python-internals
+- **2026-07-01** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: python-internals
+- **2026-07-01** | [Python 3.14 and the End of the GIL - Towards Data Science](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) | kw: python-internals
+- **2026-07-01** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading's ...](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: python-internals
+
 - **2026-07-01** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: python-internals
 - **2026-07-01** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: python-internals
 - **2026-07-01** | [PyPI · The Python Package Index](https://pypi.org/) | kw: python-internals
