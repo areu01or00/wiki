@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T12:50:00.000000+00:00",
-  "__last_updated": "2026-07-01T13:10:00.000000+00:00",
-  "last_run": 278,
-  "last_explore": "2026-07-01T13:10:00.000000+00:00",
-  "last_global_explore": "2026-07-01T13:10:00.000000+00:00",
+  "updated": "2026-07-01T13:04:00.000000+00:00",
+  "__last_updated": "2026-07-01T13:04:00.000000+00:00",
+  "last_run": 279,
+  "last_explore": "2026-07-01T13:04:00.000000+00:00",
+  "last_global_explore": "2026-07-01T13:04:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "AGENT TOKEN ECONOMICS / TOOL-USE EFFICIENCY / MULTIMODAL SAFETY TRANSFER",
-  "last_framing": "AGENT TOKEN ECONOMICS / TOOL-USE EFFICIENCY / MULTIMODAL SAFETY TRANSFER",
-  "last_run_notes": "Run 277: 2606.04455 / 2606.17819 / 2606.22844",
+  "last_run_framing": "CHAIN-OF-THOUGHT DECONSTRUCTION / ALGORITHM SCHEDULING / TRAJECTORY STEERING",
+  "last_framing": "CHAIN-OF-THOUGHT DECONSTRUCTION / ALGORITHM SCHEDULING / TRAJECTORY STEERING",
+  "last_run_notes": "Run 279: 2606.30128 / 2606.29999 / 2606.28589",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "web_search emergent-concept discovery (11 fresh candidates, 3 orthogonal LLM picks)",
+  "last_run_method": "web_search (Rule 36b probe-axis) + arxiv HTML fallback; 19 fresh LLM candidates from 4 queries",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "agent token-economics / tool-use efficiency / multimodal safety transfer",
-  "emergent_theme": "agent token-economics / tool-use efficiency / multimodal safety transfer",
+  "emergent_concept_theme": "chain-of-thought deconstruction / algorithm scheduling / reasoning trajectory steering",
+  "emergent_theme": "chain-of-thought deconstruction / algorithm scheduling / reasoning trajectory steering",
   "chains_updated": 0,
-  "entities_count": 847,
+  "entities_count": 850,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1983,6 +1983,36 @@
           "vector": "emergent_concept_search",
           "discovered": "2026-07-01T10:46:53.151431+00:00",
           "theme": "kv cache compressibility / training-time optimization",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.30128",
+          "title": "Does Verbose Chain-of-Thought Really Help? In-Distribution Evidence that Content, Not Length, Matters",
+          "slug": "verbose-cot-content-not-length-2606.30128",
+          "url": "https://arxiv.org/abs/2606.30128",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T13:04:00+00:00",
+          "theme": "chain-of-thought deconstruction / content vs length / CoT utility decomposition",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.29999",
+          "title": "AlgoSkill: Learning to Design Algorithms by Scheduling Human-Like Skills",
+          "slug": "algoskill-algorithm-scheduling-human-like-skills-2606.29999",
+          "url": "https://arxiv.org/abs/2606.29999",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T13:04:00+00:00",
+          "theme": "algorithm design / skill scheduling / human-like task decomposition",
+          "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2606.28589",
+          "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+          "slug": "search-truth-representation-editing-llm-trajectories-2606.28589",
+          "url": "https://arxiv.org/abs/2606.28589",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T13:04:00+00:00",
+          "theme": "reasoning trajectory steering / representation editing / RepE for dynamic reasoning",
           "chain": "emergent-concepts"
         }
       ],
@@ -8155,6 +8185,30 @@
       "url": "https://arxiv.org/abs/2606.31876",
       "discovered": "2026-07-01T13:10:00.000000+00:00",
       "theme": "multimodal safety / refusal directions / activation-space alignment"
+    },
+    {
+      "arxiv_id": "2606.30128",
+      "title": "Does Verbose Chain-of-Thought Really Help? In-Distribution Evidence that Content, Not Length, Matters",
+      "slug": "verbose-cot-content-not-length-2606.30128",
+      "url": "https://arxiv.org/abs/2606.30128",
+      "discovered": "2026-07-01T13:04:00+00:00",
+      "theme": "chain-of-thought deconstruction / content vs length / CoT utility decomposition"
+    },
+    {
+      "arxiv_id": "2606.29999",
+      "title": "AlgoSkill: Learning to Design Algorithms by Scheduling Human-Like Skills",
+      "slug": "algoskill-algorithm-scheduling-human-like-skills-2606.29999",
+      "url": "https://arxiv.org/abs/2606.29999",
+      "discovered": "2026-07-01T13:04:00+00:00",
+      "theme": "algorithm design / skill scheduling / human-like task decomposition"
+    },
+    {
+      "arxiv_id": "2606.28589",
+      "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+      "slug": "search-truth-representation-editing-llm-trajectories-2606.28589",
+      "url": "https://arxiv.org/abs/2606.28589",
+      "discovered": "2026-07-01T13:04:00+00:00",
+      "theme": "reasoning trajectory steering / representation editing / RepE for dynamic reasoning"
     }
   ],
   "emergent_discoveries": [
@@ -18838,6 +18892,18 @@
       "vector": "emergent_concept_search",
       "framing": "token-economics / MCTS-tool-planning / refusal-direction-transfer",
       "method": "web_search + arxiv HTML emergent-concept discovery, 3 orthogonal picks from agent-infrastructure, planning-efficiency, safety-transfer axes"
+    },
+    {
+      "run_number": 279,
+      "date": "2026-07-01",
+      "theme": "CHAIN-OF-THOUGHT DECONSTRUCTION / ALGORITHM SCHEDULING / TRAJECTORY STEERING",
+      "method": "web_search (Rule 36b probe-axis: prompt-engineering/instruction-tuning/knowledge-distillation/long-horizon-planning) + arxiv HTML fallback; 19 fresh LLM candidates from 4 queries; HF DNS confirmed down",
+      "papers_added": [
+        "2606.30128",
+        "2606.29999",
+        "2606.28589"
+      ],
+      "notes": "Run 278: 2606.30128 / 2606.29999 / 2606.28589"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
