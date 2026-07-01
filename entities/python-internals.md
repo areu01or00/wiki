@@ -3931,6 +3931,13 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals
+- **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/) | kw: What
+- **2026-07-01** | [The GIL Explained — What It Is, What It Isnt, and How to Work Around It](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: The
+- **2026-07-01** | [Advanced Python Interview Questions & Answers](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: Advanced
+- **2026-07-01** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: Top
+
 - **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python in 2026: Free
 - **2026-07-01** | [Thread states and the global interpreter lock - Python 3.14.6 docs](https://docs.python.org/3/c-api/threads.html) | kw: Thread states and the global interpreter lock
 - **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How Python's GIL actually works (and when it bites

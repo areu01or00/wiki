@@ -4085,6 +4085,13 @@
 
 
 ## Updates
+- **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What
+- **2026-07-01** | [Algorithms | An Open Access Journal from MDPI](https://www.mdpi.com/journal/algorithms) | kw: Algorithms
+- **2026-07-01** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: Algorithms,
+- **2026-07-01** | [The Algorithms - GitHub](https://github.com/TheAlgorithms) | kw: The
+- **2026-07-01** | [data-structures | GitHub Topics](https://github.com/topics/data-structures) | kw: data-structures
+- **2026-07-01** | [LeetCode - The Worlds Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode
+
 - **2026-07-01** | [Best coding interview prep resource in 2026 (Grokking vs LeetCode ...)](https://www.reddit.com/r/leetcode/comments/1qft3d3/best_coding_interview_prep_resource_in_2026/) | kw: Best coding interview prep resource in 2026 (Grokk
 - **2026-07-01** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How to prepare for Data Structures & Algorithms in
 - **2026-07-01** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy ...](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: I Tried 20+ Java DSA Courses with LeetCode Exercis

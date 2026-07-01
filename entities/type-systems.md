@@ -1,6 +1,11 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/pdf/2603.05649) | kw: Efficient
+- **2026-07-01** | [PyCon US 2026 Typing Summit Recap](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon
+- **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: Type
+- **2026-07-01** | [Local Contextual Type Inference | Proceedings of ACM](https://dl.acm.org/doi/10.1145/3776653) | kw: Local
+
 - **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating the Language Labyri
 - **2026-07-01** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection of Type An
 - **2026-07-01** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon US 2026 Typing Summit Re

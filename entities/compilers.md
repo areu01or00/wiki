@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize
+- **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving...](https://www.preprints.org/manuscript/202306.1834) | kw: A
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures
+
 - **2026-07-01** | [Use of JIT compiler infrastructure at Apple and CERN](https://indico.cern.ch/event/1675931/) | kw: Use of JIT compiler infrastructure at Apple and CE
 - **2026-07-01** | [JIT Design and Implementation | The Julia Language](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT Design and Implementation
 
