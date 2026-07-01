@@ -36,8 +36,6 @@
       "category": "major-lab",
       "last_checked": "2026-07-01T12:15:28.658269+00:00",
       "last_result_hashes": [
-        "1ba505548d84",
-        "a324f919a272fc0e32d2045fc02be9b4",
         "a97557e484fc5ae98abe8451f968f1a1",
         "1c8dbfc78e723aa3402ee150d9983516",
         "b5127c65d56d67754f6b9efd7a911f6b",
@@ -55,12 +53,14 @@
         "83cd188dee7327963280d17b5d140ba6",
         "c17cd4c61088907116e73c1ce45dd318",
         "7260ebd21fb8eb33d2b79133bfe333d4",
-        "45b53fa649f74c2bc6e08222a4cfe9cc"
+        "45b53fa649f74c2bc6e08222a4cfe9cc",
+        "5971cec1abfdc9cd24a347eda4e0999a",
+        "134bea09a35bdfaef096170a54a36c8c"
       ],
-      "last_run": "20260701_162500",
+      "last_run": "20260701_173639",
       "last_update_hash": null,
       "query": "Anthropic Claude new model release Sonnet Opus API",
-      "run_count": 138,
+      "run_count": 139,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "arxiv-cs-cl": {
@@ -98,7 +98,6 @@
       "category": "chinese-open",
       "last_checked": "2026-07-01T00:30:00+00:00",
       "last_result_hashes": [
-        "3a11f565d7abef7a10ad0bae7897f354",
         "0671f7e540393df6e7d86207ce52d500",
         "353ddade17e4b9d6d8d3ab423d0663bc",
         "66509bd72c5f4e1fbd2a0da5475f6e75",
@@ -117,12 +116,13 @@
         "c17cd4c61088907116e73c1ce45dd318",
         "7260ebd21fb8eb33d2b79133bfe333d4",
         "8750e977eefce8ae316ed15b57309a66",
-        "93c4c40462336b8c14e392fe79573c43"
+        "93c4c40462336b8c14e392fe79573c43",
+        "af6d2287355bcc01d5b17a7d6558ee05"
       ],
-      "last_run": "20260701_151948",
+      "last_run": "20260701_173639",
       "last_update_hash": null,
       "query": "DeepSeek new model release V3 R1 R2 weights API",
-      "run_count": 134,
+      "run_count": 135,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "glm-releases": {
@@ -160,7 +160,6 @@
       "category": "major-lab",
       "last_checked": "2026-07-01T04:11:26.432935+00:00",
       "last_result_hashes": [
-        "00cdefa6bf6d",
         "568d8d8fbceb4dd0855ff088e716170e",
         "054043a6a472d5121d7583faed18573c",
         "ba48bbe34fb7be7f121688ffbf71e24a",
@@ -179,12 +178,13 @@
         "d1be222bc56b185dc2449101de634a1c",
         "411b8578a08bb6debc471b8f39792e6d",
         "5c4404e3ab7ea5389d65f0a0cf21973e",
-        "e3e1efcd436e9492ad1e15e1c43f41f5"
+        "e3e1efcd436e9492ad1e15e1c43f41f5",
+        "5ce1874459dce60b2f6f9b105d65afbb"
       ],
-      "last_run": "20260701_162500",
+      "last_run": "20260701_173639",
       "last_update_hash": null,
       "query": "Google DeepMind Gemini new model release API Gemma",
-      "run_count": 139,
+      "run_count": 140,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "huggingface-trending": {
@@ -222,7 +222,6 @@
       "category": "chinese-open",
       "last_checked": "2026-07-01T00:30:00+00:00",
       "last_result_hashes": [
-        "b98f69cb0da57acf251881987ec4597a",
         "594d455f23cb9d685caa66bd309925a2",
         "e74d26906b7c2a5282d390c399a453ce",
         "66f89f48a4d9f93eff0e408e1f5542e1",
@@ -241,12 +240,13 @@
         "2915b32061e4349ba8f40d0704f68ef4",
         "a3c03bd2826bf321e1a190e3cf34efe5",
         "e3d404f5dfe304aa10e04c3969c66d4e",
-        "121c49763b57f511f534baa312031a20"
+        "121c49763b57f511f534baa312031a20",
+        "f61e7367f98df0499b88740bd210c4e8"
       ],
-      "last_run": "20260701_151948",
+      "last_run": "20260701_173639",
       "last_update_hash": null,
       "query": "Kimi K2 K2.6 K2.7 release weights API new model",
-      "run_count": 133,
+      "run_count": 134,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "krea": {
@@ -409,7 +409,6 @@
       "category": "chinese-open",
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
-        "7106bf4b7641384ac733087596edf04a",
         "1bbd5d1be59327d6339160ec9fe6c2a9",
         "1950ef15f6b461f8257250c51d14151d",
         "7e213a5d208090fa276791c6417d59b0",
@@ -428,12 +427,13 @@
         "8be3b42ee62c3be9e209068aca63a002",
         "e3e1efcd436e9492ad1e15e1c43f41f5",
         "5c4404e3ab7ea5389d65f0a0cf21973e",
-        "f8b95a025c93cc303db71e7fe8d698c7"
+        "f8b95a025c93cc303db71e7fe8d698c7",
+        "d4f590effc51c09b78456161395057b9"
       ],
-      "last_run": "20260701_151948",
+      "last_run": "20260701_173639",
       "last_update_hash": null,
       "query": "Qwen3 Qwen3.5 Tongyi LLM open weights Alibaba release",
-      "run_count": 132,
+      "run_count": 133,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "sakana-releases": {
@@ -569,8 +569,6 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 56,
       "last_result_hashes": [
-        "f7da402c1383",
-        "f6e7593de5e20b017c604b229796acbb",
         "78cd279932fc619f76e16c4baf538b6b",
         "5a1dac5503ee520f69ca9c3904c0185b",
         "00820c936e8f983c5d575948fbd90790",
@@ -588,10 +586,12 @@
         "abd881b5ec446957fa5a312edc648ecc",
         "93c4c40462336b8c14e392fe79573c43",
         "b0e1165192321fda53ac34daf7511bd0",
-        "1f9c8270b0765c11a8e0b5b4e80ecf06"
+        "1f9c8270b0765c11a8e0b5b4e80ecf06",
+        "7ccf30e84a5c96f79e89f1a39c606125",
+        "58426b4131fd4a1dee4f3dc3d87e0cac"
       ],
-      "last_run": "20260701_162500",
-      "run_count": 99,
+      "last_run": "20260701_173639",
+      "run_count": 100,
       "last_checked": "2026-07-01T12:15:28.658254+00:00",
       "last_update_hash": null
     },
@@ -724,10 +724,8 @@
     "huawei": {
       "query": "Huawei OpenPangu new model release open weights LLM",
       "category": "auto-discovered",
-      "run_count": 39,
+      "run_count": 40,
       "last_result_hashes": [
-        "52664b2b175a",
-        "ca8cc675271a1927e2e56e048fe137c9",
         "dba6519f0a3d5adfb5347d2ca765c609",
         "c771abd31b8b81b20b26ff59286de126",
         "07f8cdb1e4ea728499a0ed1e79fee36a",
@@ -745,11 +743,13 @@
         "52664b2b175a6bd2df3f548281cb0700",
         "50c4d74a0c6162191763d7e8fbda360f",
         "3e91772ea4d1a7335e6399eec142ceff",
-        "1a942f131e75bd28987130ba1c4eebc5"
+        "1a942f131e75bd28987130ba1c4eebc5",
+        "fa2d383bc26ce2667362069899991230",
+        "8932d4c4e17b0a21d92bba243b738e44"
       ],
       "discovered_at_cycle": "c107-20260630",
       "source": "x_search",
-      "last_run": "20260701_162500"
+      "last_run": "20260701_173639"
     },
     "internscience": {
       "query": "InternScience Agents-A1 new model release LLM weights",
@@ -976,6 +976,15 @@
       "last_result_hashes": [],
       "discovered_at_cycle": "c144-20260701",
       "wiki_page": "entities/model-releases-tracker.md"
+    },
+    "amalia-llm": {
+      "query": "AMALIA LLM Portugal national open source model release weights",
+      "category": "auto-discovered",
+      "run_count": 0,
+      "last_result_hashes": [],
+      "discovered_at_cycle": "c145",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "last_run": "20260701_173639"
     }
   }
 }

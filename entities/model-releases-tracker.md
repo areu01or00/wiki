@@ -17,6 +17,26 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [DeepSeek V4 Preview: Two API Models, 1M Context... - Slow Hifi](https://slowhifi.com/deepseek-v4-preview-two-api-models-1m-context-default-and-a-hard-cutover-date/) | kw: benchmark/paper | source: deepseek-releases
+
+- **2026-07-01** | [Kimi K2.6: 1T MoE Open Weights, Agent Swarm, Pricing (2026)](https://codersera.com/blog/kimi-k2-6-complete-guide-2026/) | kw: open source | source: kimi-releases
+
+- **2026-07-01** | [Alibaba Releases Qwen3.5-397B Open-Weight Multimodal Model](https://aihola.com/article/alibaba-qwen35-open-weight-release) | kw: open source | source: qwen-releases
+
+- **2026-07-01** | [Google's Gemma 4 open-weights model has surpassed 200 million...](https://www.instagram.com/reel/DaHfuSvTXmV/) | kw: open source | source: google-deepmind-releases
+
+- **2026-07-01** | [DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family...](https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/) | kw: weights drop | source: deepreinforce-ai
+
+- **2026-07-01** | [DeepReinforce releases Ornith-1.0 open-source coding models](https://www.testingcatalog.com/deepreinforce-releases-ornith-1-0-open-source-coding-models/) | kw: benchmark/paper | source: deepreinforce-ai
+
+- **2026-07-01** | [Huawei open-sources OpenPangu-2.0-Flash, 92B-parameter open source AI model](https://pandaily.com/huawei-openpangu-2.0-flash-open-source-jun2026) | kw: open source | source: huawei
+
+- **2026-07-01** | [Huawei Open-Sources 92B-Parameter openPangu-2.0-Flash Model](https://www.kucoin.com/news/flash/huawei-open-sources-9-2b-parameter-openpangu-2-0-flash-model) | kw: weights drop | source: huawei
+
+- **2026-07-01** | [Anthropic Releases Claude Sonnet 5 With Near-Opus Performance](https://www.ghacks.net/2026/07/01/anthropic-releases-claude-sonnet-5-with-near-opus-performance-restores-fable-5-and-mythos-5-after-us-lifts-export-controls/) | kw: official announcement | source: anthropic-releases
+
+- **2026-07-01** | [Anthropic Launches Claude Sonnet 5 as Its New Default AI Model](https://windowsreport.com/anthropic-launches-claude-sonnet-5-as-its-new-default-ai-model/) | kw: official announcement | source: anthropic-releases
+
 - **2026-07-01** | [MiniMax M3: The First Open-Weights Model to Combine Three Frontier Capabilities](https://x.com/MiniMax_AI/status/2061266317815296322) | kw: WEIGHTS DROP | OFFICIAL ANNOUNCEMENT | multimodal | coding | agentic | source: minimax
 - **2026-07-01** | [Anthropic launches Claude Sonnet 5 as a cheaper way to run agents](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) | kw: OFFICIAL ANNOUNCEMENT | API LAUNCH | Sonnet 5 | source: anthropic-releases
 - **2026-07-01** | [Japan Just Dropped an AI That Beats Claude — Sakana Fugu](https://medium.com/the-ai-studio/japan-just-dropped-an-ai-that-beats-claude-sakana-fugu-6db9a9fafebc) | kw: OFFICIAL ANNOUNCEMENT | multi-agent | Fugu | source: sakana-releases
@@ -203,6 +223,7 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Auto-Discovered Profiles
 
+| amalia-llm | AMALIA LLM | Portugal national LLM, open weights | [amalia-llm](https://huggingface.co/amalia-llm) | auto-discovered | c145 |
 | Profile ID | Org | Query | Discovered |
 |---|---|---|---|
 | MiniMax | MiniMax AI MiniMax-M3 release | MiniMax AI MiniMax-M3 release new model multimodal MoE | 9 |
