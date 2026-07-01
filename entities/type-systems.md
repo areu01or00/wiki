@@ -41,6 +41,13 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau
+- **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type
+- **2026-07-01** | [Design and Evaluation of Gradual Typing for Python](https://www.researchgate.net/publication/277918557_Design_and_Evaluation_of_Gradual_Typing_for_Python) | kw: Design
+- **2026-07-01** | [Abstracting Gradual Typing (AGT)](https://www.emergentmind.com/topics/abstracting-gradual-typing-agt) | kw: Abstracting
+- **2026-07-01** | [Dynamic Type Inference for Gradual Hindley–Milner Typing | PDF](https://www.slideshare.net/slideshow/dynamic-type-inference-for-gradual-hindleymilner-typing/128937161) | kw: Dynamic
+- **2026-07-01** | [Gradual Typing for Objects](https://www.academia.edu/99423053/Gradual_Typing_for_Objects) | kw: Gradual
+
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
 - **2026-07-01** | [Static Analysis Mypy: Strict Typing Configurations 2026 | Johal AI Hub](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: type-systems
