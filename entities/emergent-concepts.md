@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 287: Embodied Agent Skill Memory / Human Routine Navigation / Self-Directed APR Debugging
+
+- [[humembr-learning-human-routines-for-predictive-embodied-navigation-2606.30404]]
+  HUMEMBR: Learning Human Routines for Predictive Embodied Navigation — Huber, Samira; Pelzer, Klaas; Nguyen, Duc M. + 2 — robots model and predict human behavioral routines to anticipate where individuals will be in human-centered environments, enabling proactive navigation beyond current-position planning. **First human routine prediction for embodied navigation in wiki.**
+
+- [[atlasva-self-evolving-visual-skill-memory-for-teacher-free-vlm-agents-2605.17933]]
+  AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents — Wang, Pan; Hu, Yihao; Liu, Xiujin + 3 — VLM agents autonomously encode, retrieve, and refine visual skills without proprietary teacher models, enabling self-evolving visual routine reuse across long-horizon tasks. **First teacher-free self-evolving visual skill memory in wiki.**
+
+- [[debugrepair-enhancing-llm-based-automated-program-repair-via-self-directed-debugging-2604.19305]]
+  DebugRepair: Enhancing LLM-Based Automated Program Repair via Self-Directed Debugging — Wu, Linhao; Pei, Yifei; Yang, Zhen + 9 — LLM generates and tests its own debugging hypotheses (root-cause-guided) rather than relying solely on symptom-level test execution feedback (stack traces). **First self-directed root-cause debugging for LLM-based APR in wiki.**
+
 ### 2026-07-01 — Run 286: LLM-as-Judge Reporting / VLA Reasoning Efficiency / Self-Evolving LLM UQ
 
 - [[reasoning-aware-speculative-decoding-for-efficient-vision-language-action-models-in-autonomous-driving-2606.31160]]
