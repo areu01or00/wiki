@@ -18,6 +18,12 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-07-01** | [NVIDIA Nemotron-Labs-TwoTower-30B-A3B: Block-wise AR Diffusion LLM, Open Weights](https://huggingface.co/nvidia/Nemotron-TwoTower-30B-A3B-Base-BF16) | kw: WEIGHTS DROP | BENCHMARK/PAPER | score: 9 | source: nvidia-research
+- **2026-07-01** | [NVIDIA releases NVFP4-quantized Mistral-Medium-3.5-128B (Blackwell-optimized)](https://huggingface.co/nvidia/Mistral-Medium-3.5-128B-NVFP4) | kw: WEIGHTS DROP | score: 7 | source: nvidia-research
+- **2026-07-01** | [NVIDIA releases NVFP4-quantized Qwen3.6-27B (Blackwell-optimized)](https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4) | kw: WEIGHTS DROP | score: 7 | source: nvidia-research
+- **2026-07-01** | [FactoryAI releases Droid Shield 2.0 open-source agent safety/secret detection weights](https://huggingface.co/factoryai/shield-risk-r16-c15) | kw: WEIGHTS DROP | OPEN SOURCE | score: 7 | source: factory-ai
+- **2026-07-01** | [U.S. lifts export restrictions on Anthropic's most powerful AI models](https://www.dw.com/en/anthropic-claude-fable-mythos-us-lifts-restrictions-on-ai-models/a-77779879) | kw: OFFICIAL ANNOUNCEMENT | score: 8 | source: anthropic-releases
+- **2026-07-01** | [Nemotron-Labs-TwoTower: Block-wise Autoregressive Diffusion Language Model (arXiv:2606.26493)](https://arxiv.org/abs/2606.26493) | kw: BENCHMARK/PAPER | score: 8 | source: arxiv-cs-cl
 - **2026-07-01** | [Claude Sonnet 5 Ships As Anthropic Default: Agentic Performance Closes Opus Gap](https://www.techtimes.com/articles/319409/20260701/claude-sonnet-5-ships-anthropic-default-agentic-performance-closes-opus-gap.htm) | kw: api-launch | score: 5 | source: anthropic-releases
 - **2026-07-01** | [Claude Release History: Every Model From Claude 1 to Claude Opus 4.8](https://tygartmedia.com/claude-release-history/) | kw: api-launch | score: 8 | source: anthropic-releases
 - **2026-07-01** | [Claude Model Release Timeline - Model Family Tree (Claude Sonnet 5 June 30)](https://hidekazu-konishi.com/entry/anthropic_claude_model_release_timeline.html) | kw: api-launch | score: 8 | source: anthropic-releases
@@ -400,3 +406,5 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 | internscience | InternScience Agents-A1 | InternScience Agents-A1 new model release LLM weights | 20260630_110808 |
 | fenom-ai | FenomAI | FenomAI new model release LLM weights open source | c118-20260630 |
 | vakyam-ai | Vakyam AI Raaga V1 | Vakyam AI Raaga V1 new model release speech TTS voice | c130-20260701 |
+| nvidia-research | NVIDIA Research | NVIDIA Nemotron TwoTower new model release LLM open weights | 20260701_213225 |
+| factory-ai | FactoryAI | FactoryAI Droid Shield new model release agent safety weights | 20260701_213225 |

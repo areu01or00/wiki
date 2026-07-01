@@ -34,8 +34,9 @@
     },
     "anthropic-releases": {
       "category": "major-lab",
-      "last_checked": "2026-07-01T20:00:30.196135+00:00",
+      "last_checked": "2026-07-01T21:32:48+00:00",
       "last_result_hashes": [
+        "39df9893",
         "b9322ea16136f3c40d9e49e2a85d05e8",
         "4b1aa795472ecc7f71d04a61915f9ec4",
         "dc2138a41bac0be6b98e9ee0cb7503f9",
@@ -54,19 +55,19 @@
         "b8a7eef61952b2e592fb4948d369a04c",
         "3598ffddfa005806cc1aa09f65035a6c",
         "634f333a59163f269b1d06e30be66311",
-        "b4fe3d5595800d078bcf58d8f1c9eec8",
-        "af9de73d2167d7ef92c62f81ef0181cd"
+        "b4fe3d5595800d078bcf58d8f1c9eec8"
       ],
-      "last_run": "20260701_194318",
+      "last_run": "20260701_213225",
       "last_update_hash": null,
       "query": "Anthropic Claude new model release Sonnet Opus API",
-      "run_count": 144,
+      "run_count": 145,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "arxiv-cs-cl": {
       "category": "arxiv",
-      "last_checked": "2026-07-01T20:00:30.196135+00:00",
+      "last_checked": "2026-07-01T21:32:48+00:00",
       "last_result_hashes": [
+        "dc931f23",
         "a6cd0f23b8a1b8ba2bbabba2ec4048d4",
         "93372f00c732bc0ccead269608f2c49a",
         "a453ed804fc19fa749b3884928503e91",
@@ -85,13 +86,12 @@
         "764437321013ff5bd269056423fd8881",
         "6e025c7f589e2c310e8b7943a118a884",
         "799080b6824487c0d4a4da77c87a2a68",
-        "2711ef897d04e2f4b0785f46e399ea1d",
-        "242e56e48d348f335bfb2d3f3fb938f4"
+        "2711ef897d04e2f4b0785f46e399ea1d"
       ],
-      "last_run": "20260701_194318",
+      "last_run": "20260701_213225",
       "last_update_hash": null,
       "query": "arxiv cs.CL new language model submission",
-      "run_count": 117,
+      "run_count": 118,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "deepseek-releases": {
@@ -1109,24 +1109,20 @@
       "discovered_at_cycle": 142
     },
     "factory-ai": {
-      "query": "FactoryAI Droid Shield model release weights",
-      "wiki_page": "entities/model-releases-tracker.md",
+      "id": "factory-ai",
+      "name": "FactoryAI",
+      "query": "FactoryAI Droid Shield new model release agent safety weights",
       "category": "auto-discovered",
-      "discovered_at_cycle": "c147",
+      "discovered_at_cycle": "20260701_213225",
+      "run_count": 2,
       "last_result_hashes": [
-        "d27fca36813c83cd53a63b617dbc5ea3",
-        "74dccc1ab1ebbc27b930a53509670824",
-        "9dd5f2f184614c0ec4e90a8928772988",
-        "bb839bd3aa9a7a0e57fa270ce7857691",
-        "413df86deefcddbea63363364ce9b61e",
-        "9480dbc19aa1f4dc5b49d0dd2069dd22",
-        "dedb409921124f88ef881f2584712fe4",
-        "a90cb0c6b7ad7b5acb3a7ffcaa0afe98"
+        "443e66a7",
+        "443e66a7"
       ],
-      "last_run": "20260701_194318",
-      "run_count": 1,
-      "last_checked": "2026-07-01T20:00:30.196135+00:00",
-      "last_update_hash": null
+      "notes": "Auto-discovered via x_search: Droid Shield 2.0 open weights for agent risk detection, released July 1 2026. HF: factoryai/shield-risk-r16-c15, factoryai/shield-dg-r64-c15.",
+      "last_run": "20260701_213225",
+      "last_checked": "2026-07-01T21:32:48+00:00",
+      "wiki_page": "entities/model-releases-tracker.md"
     },
     "amalia-llm": {
       "query": "AMALIA LLM Portugal national open source model release weights",
@@ -1154,6 +1150,28 @@
       "wiki_page": "entities/model-releases-tracker.md",
       "last_run": "20260701_194318",
       "last_checked": "2026-07-01T20:00:30.196135+00:00"
+    },
+    "nvidia-research": {
+      "id": "nvidia-research",
+      "name": "NVIDIA Research",
+      "query": "NVIDIA Nemotron TwoTower new model release LLM open weights",
+      "category": "auto-discovered",
+      "discovered_at_cycle": "20260701_213225",
+      "run_count": 2,
+      "last_result_hashes": [
+        "05d5fb4f",
+        "7aac47ab",
+        "dd786549",
+        "dc931f23",
+        "05d5fb4f",
+        "7aac47ab",
+        "dd786549",
+        "dc931f23"
+      ],
+      "notes": "Auto-discovered via x_search: Nemotron-Labs-TwoTower-30B-A3B open weights July 1 2026. Block-wise AR diffusion LLM, 2.42\u00d7 speedup. arXiv:2606.26493. Also NVFP4 quantizations for Mistral Medium 3.5 128B and Qwen3.6 27B.",
+      "last_run": "20260701_213225",
+      "last_checked": "2026-07-01T21:32:48+00:00",
+      "wiki_page": "entities/model-releases-tracker.md"
     }
   }
 }
