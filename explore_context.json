@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T03:15:00.000000+00:00",
   "__last_updated": "2026-07-01T03:15:04.367796+00:00",
-  "last_run": 245,
-  "last_explore": "2026-07-01T03:15:00.000000+00:00",
-  "last_global_explore": "2026-07-01T03:15:00.000000+00:00",
+  "last_run": 246,
+  "last_explore": "2026-07-01T03:30:00.000000+00:00",
+  "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "GRAPH DEPENDENCY TRACING / MEDICAL SAFETY ALIGNMENT BENCHMARK / INFERENCE-TIME FAILURE-DRIVEN SELF-IMPROVEMENT",
-  "last_framing": "agent graph dependency / medical safety / failure-driven self-improvement",
+  "last_run_framing": "NON-CONVERSATIONAL TOM / RSI ADAPTIVE TOKEN SELECTION / ALIGNMENT DYNAMICS VIA CRYSTALLIZATION",
+  "last_framing": "non-conversational ToM / RLVR token filtering / thermodynamic alignment dynamics",
   "last_run_notes": "Run 245: GRADE (2606.22741) + MedHarm (2606.28332) + Failure-Driven Self-Improvement (2606.31270)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search + LLM double-filter + web_search title extraction",
+  "last_run_method": "arxiv HTML search + LLM double-filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "uncertainty quantification / conformal prediction / pipeline / reward modeling",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 748,
+  "entities_count": 751,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7402,6 +7402,30 @@
       "theme": "agent-training / self-improvement / failure-data",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31916",
+      "title": "Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action",
+      "slug": "ncp-tom-non-conversational-planning-theory-of-mind-2606.31916",
+      "url": "https://arxiv.org/abs/2606.31916",
+      "discovered": "2026-07-01T03:30:00.000000+00:00",
+      "theme": "LLM ToM / belief-state induction / agentic planning / non-conversational persuasion"
+    },
+    {
+      "arxiv_id": "2606.31575",
+      "title": "Which Tokens Matter? Adaptive Token Selection for RLVR with the Relative Surprisal Index",
+      "slug": "rsi-selection-adaptive-token-filtering-rlvr-2606.31575",
+      "url": "https://arxiv.org/abs/2606.31575",
+      "discovered": "2026-07-01T03:30:00.000000+00:00",
+      "theme": "RLVR training / token filtering / information-theoretic metrics / RL efficiency"
+    },
+    {
+      "arxiv_id": "2606.29933",
+      "title": "Towards Physical Intuitions for Alignment Dynamics: A Case Study With Randomness Crystallization",
+      "slug": "physical-intuitions-alignment-dynamics-crystallization-2606.29933",
+      "url": "https://arxiv.org/abs/2606.29933",
+      "discovered": "2026-07-01T03:30:00.000000+00:00",
+      "theme": "alignment theory / phase transitions / training dynamics / thermodynamic analogy"
     }
   ],
   "emergent_discoveries": [
@@ -13043,6 +13067,30 @@
       "url": "https://arxiv.org/abs/2602.24040",
       "discovered": "2026-07-01T02:45:00.000000+00:00",
       "theme": "uncertainty-aware reward modeling / RLHF / epistemic uncertainty"
+    },
+    {
+      "arxiv_id": "2606.31916",
+      "title": "Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action",
+      "slug": "ncp-tom-non-conversational-planning-theory-of-mind-2606.31916",
+      "url": "https://arxiv.org/abs/2606.31916",
+      "discovered": "2026-07-01T03:30:00.000000+00:00",
+      "theme": "LLM ToM / belief-state induction / agentic planning / non-conversational persuasion"
+    },
+    {
+      "arxiv_id": "2606.31575",
+      "title": "Which Tokens Matter? Adaptive Token Selection for RLVR with the Relative Surprisal Index",
+      "slug": "rsi-selection-adaptive-token-filtering-rlvr-2606.31575",
+      "url": "https://arxiv.org/abs/2606.31575",
+      "discovered": "2026-07-01T03:30:00.000000+00:00",
+      "theme": "RLVR training / token filtering / information-theoretic metrics / RL efficiency"
+    },
+    {
+      "arxiv_id": "2606.29933",
+      "title": "Towards Physical Intuitions for Alignment Dynamics: A Case Study With Randomness Crystallization",
+      "slug": "physical-intuitions-alignment-dynamics-crystallization-2606.29933",
+      "url": "https://arxiv.org/abs/2606.29933",
+      "discovered": "2026-07-01T03:30:00.000000+00:00",
+      "theme": "alignment theory / phase transitions / training dynamics / thermodynamic analogy"
     }
   ],
   "emergent_concept_search_log": [
@@ -19503,6 +19551,19 @@
       "framing": "GRAPH DEPENDENCY TRACING / MEDICAL SAFETY ALIGNMENT BENCHMARK / INFERENCE-TIME FAILURE-DRIVEN SELF-IMPROVEMENT",
       "method": "arxiv HTML search + LLM double-filter + web_search title extraction",
       "added": 3
+    },
+    {
+      "run": 246,
+      "date": "2026-07-01T03:30:00.000000+00:00",
+      "added": 3,
+      "picks": [
+        "2606.31916",
+        "2606.31575",
+        "2606.29933"
+      ],
+      "theme": "non-conversational ToM / RLVR token filtering / thermodynamic alignment dynamics",
+      "vector": "emergent-concept",
+      "method": "arxiv HTML search + LLM double-filter"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

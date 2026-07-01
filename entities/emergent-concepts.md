@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 246) — NON-CONVERSATIONAL TOM / RSI ADAPTIVE TOKEN SELECTION / ALIGNMENT DYNAMICS VIA CRYSTALLIZATION**
+
+- [[ncp-tom-non-conversational-planning-theory-of-mind-2606.31916]]
+  NCP-ToM: Non-Conversational Planning Theory of Mind: Introduces Non-Conversational Planning ToM (NCP-ToM) — evaluating LLMs' ability to induce belief states via physical/action planning rather than dialogue. GPT-5 achieves ~80% on agentic ToM tasks, outperforming humans; all models show true-belief > false-belief asymmetry. Published June 2026. **First non-conversational ToM via action-planning benchmark for LLMs in the wiki.**
+
+- [[rsi-selection-adaptive-token-filtering-rlvr-2606.31575]]
+  RSI: Relative Surprisal Index for RLVR Token Selection: Introduces the Relative Surprisal Index (RSI) coupling token entropy with selected-token probability to resolve the RLVR token prioritization dilemma. RSI-S filtering achieves 2-3pp improvement over GRPO on AIME/AMC across Qwen2.5-1.5B/3B/7B. Published June 2026. **First principled information-theoretic reconciliation of contradictory high-entropy vs low-probability token paradigms in RLVR.**
+
+- [[physical-intuitions-alignment-dynamics-crystallization-2606.29933]]
+  Alignment Dynamics via Crystallization: Applies thermodynamic phase-transition theory (Crystallization: liquid→nucleation→settling phases) to alignment post-training dynamics. First framework connecting physical thermodynamics to alignment training — argues alignment fundamentally cannot change certain structural aspects. Published June 2026. **First physical-science vocabulary for alignment training dynamics in the wiki.**
 **2026-07-01 — Run 245) — GRAPH DEPENDENCY TRACING / MEDICAL SAFETY ALIGNMENT BENCHMARK / INFERENCE-TIME FAILURE-DRIVEN SELF-IMPROVEMENT**
 
 - [[grade-graph-representation-of-llm-agent-dependency-and-execution-2606.22741]]
