@@ -3591,6 +3591,14 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+
+- **2026-07-01** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: system-design
+- **2026-07-01** | [What Is the Basic Architecture of a Distributed System?](https://sivaro.in/articles/what-is-the-basic-architecture-of-a-distributed-system/) | kw: system-design
+- **2026-07-01** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: system-design
+- **2026-07-01** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: system-design
+- **2026-07-01** | [8 Powerful Event-Driven Architecture Patterns](https://gtwebs.com/architecture/event-driven-architecture-patterns/) | kw: system-design
+- **2026-07-01** | [English Dialogue for Informatics Engineering - Distributed Systems...](https://englishteststore.net/lesson/english-for-informatics/english-dialogue-for-informatics-engineering-distributed-systems-architecture/) | kw: system-design
+
 - **2026-07-01** | [Complete Distributed Systems Guide 2026 - College Nirnay](https://www.collegenirnay.com/articles/complete-guide-distributed-systems-beginners) | kw: complete,distributed,systems
 
 - **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: Wikipedia

@@ -4085,6 +4085,17 @@
 
 
 ## Updates
+
+- **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
+- **2026-07-01** | [Algorithms in Computer Science: A Complete Beginner's Guide with...](https://medium.com/@mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis-7ae156894d2f) | kw: algorithms
+- **2026-07-01** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: algorithms
+- **2026-07-01** | [Introduction to Algorithms | Electrical Engineering and Computer...](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: algorithms
+- **2026-07-01** | [What is an Algorithm? Complete Beginner's Guide to Algorithms](https://codelucky.com/algorithms/) | kw: algorithms
+- **2026-07-01** | [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: algorithms
+- **2026-07-01** | [Algorithm | Definition, Types, & Facts | Britannica](https://www.britannica.com/science/algorithm) | kw: algorithms
+- **2026-07-01** | [What Is an Algorithm? Understanding the Logic Behind Modern...](https://www.sciencenewstoday.org/what-is-an-algorithm-understanding-the-logic-behind-modern-computing) | kw: algorithms
+- **2026-07-01** | [What is an Algorithm? A Simple Guide for Beginners](https://www.guvi.in/blog/what-is-an-algorithm/) | kw: algorithms
+
 - **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: data,structure,algorithm
 - **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: problems,leetcode,leetcode
 - **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: data,structures,algorithms

@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+
+- **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
+- **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type-systems
+- **2026-07-01** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: type-systems
+- **2026-07-01** | [Local Contextual Type Inference | Proceedings of the ACM on ...](https://dl.acm.org/doi/10.1145/3776653) | kw: type-systems
+- **2026-07-01** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing/) | kw: type-systems
+- **2026-07-01** | [NJPLS May 2026](https://njpls.org/may2026.html) | kw: type-systems
+
 - **2026-07-01** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What
 - **2026-07-01** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: what
 
