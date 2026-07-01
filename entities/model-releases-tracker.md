@@ -17,6 +17,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [LFM2.5-230M: Built to Run Anywhere — Blog - Liquid AI](https://www.liquid.ai/blog/lfm2-5-230m) | kw: WEIGHTS DROP | OFFICIAL ANNOUNCEMENT | source: liquid-ai
+- **2026-07-01** | [Sakana AI releases Fugu multi-agent orchestration model - Overview](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lIcHYtMkVSRzF4WkxELWpGNWxDZ0FQAQ?hl=en-IN&gl=IN&ceid=IN:en) | kw: OFFICIAL ANNOUNCEMENT | source: sakana-releases
+- **2026-07-01** | [Welcome Gemma 3: Google's all new multimodal, multilingual, long context open weights](https://huggingface.co/blog/gemma3) | kw: WEIGHTS DROP | source: google-deepmind-releases
 - **2026-07-01** | [Meituan LongCat-2.0 — 1.6T MoE Open-Source Coding Model Released June 30 2026](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips) | kw: WEIGHTS DROP | source: meituan-longcat
 - **2026-07-01** | [Huawei openPangu 2.0 Flash — 92B Open-Weight Open-Sourced June 30 2026](https://macdate.com/en/blog/openpangu-2-open-source-no-nvidia-ascend-20260701.html) | kw: WEIGHTS DROP | OFFICIAL ANNOUNCEMENT | source: huawei
 - **2026-07-01** | [Meituan Opens LongCat-2.0 Coding Model With 1M Context](https://winbuzzer.com/2026/06/30/meituan-opens-longcat-20-coding-model-with-1m-context-xcxwbn/) | kw: WEIGHTS DROP | source: meituan-longcat

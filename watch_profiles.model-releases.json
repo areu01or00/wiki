@@ -160,7 +160,6 @@
       "category": "major-lab",
       "last_checked": "2026-07-01T04:11:26.432935+00:00",
       "last_result_hashes": [
-        "d4cbcd85f01cf3b6cdbf927064eb9364",
         "99d746ba5e877aa7e6a2b46bfae510a8",
         "55a7e976e6f782cf05ef01375ffb59e4",
         "d246c9f3bf71bba3bd6420554111df75",
@@ -179,19 +178,19 @@
         "e473e9140936e014125647bcb09f5a04",
         "5e6f3d4f5b09780b5899106c44f3f1e5",
         "d044d5e26e174c0554f90e0f27a97cad",
-        "47aa337b05ed1e8548bd1de1d5a817e7"
+        "47aa337b05ed1e8548bd1de1d5a817e7",
+        "0c0fa2d8f5617114b403ea42e51d51d8"
       ],
-      "last_run": "2026-07-01T13:55:33.486028+00:00",
+      "last_run": "2026-07-01T14:48:17.630692Z",
       "last_update_hash": null,
       "query": "Google DeepMind Gemini new model release API Gemma",
-      "run_count": 128,
+      "run_count": 129,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "huggingface-trending": {
       "category": "aggregator",
       "last_checked": "2026-06-29T21:31:59.920036+00:00",
       "last_result_hashes": [
-        "fbb20d26cbcbdbde35860c675dab0af9",
         "b1d9cdf1f34784ce90144389e45145a3",
         "0c6b7bfe25e1d23e006c3a7f87cefdde",
         "ccbd92112f37b5a95e6c1d656d1fab02",
@@ -210,12 +209,13 @@
         "d6cc23f20f8fcadf2c2265f4d9062c18",
         "c0ae3286101f77f4176998284f769cdf",
         "70d04a7181526459bdb2d509bacba716",
-        "b0e1165192321fda53ac34daf7511bd0"
+        "b0e1165192321fda53ac34daf7511bd0",
+        "69477490a9a92b02bb65b24197393511"
       ],
-      "last_run": "20260701_075249",
+      "last_run": "2026-07-01T14:48:17.630692Z",
       "last_update_hash": null,
       "query": "HuggingFace trending models new paper daily",
-      "run_count": 122,
+      "run_count": 123,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "kimi-releases": {
@@ -450,7 +450,6 @@
         "8cecb4ddbc6342b531b278925d1e329c",
         "72fcc419c1e6226c3b5da19e765de5c9",
         "f8b95a025c93cc303db71e7fe8d698c7",
-        "d5d84a9fe940343b221df744ab60b24c",
         "f92acf272d0f0ee4e087bccd480a8d20",
         "5c4404e3ab7ea5389d65f0a0cf21973e",
         "c29e6a676aa89b904891f3ae8c3b628a",
@@ -460,12 +459,13 @@
         "985ce213a337fe9a5112289662afb85d",
         "93c4c40462336b8c14e392fe79573c43",
         "b0e1165192321fda53ac34daf7511bd0",
-        "af4975d6aa17881e3a455f1d818479ec"
+        "af4975d6aa17881e3a455f1d818479ec",
+        "400f8b3980fdcc036de85bc75129ccea"
       ],
-      "last_run": "2026-07-01T13:55:33.486028+00:00",
+      "last_run": "2026-07-01T14:48:17.630692Z",
       "last_update_hash": null,
       "query": "Sakana AI Fugu model release Japanese lab",
-      "run_count": 122,
+      "run_count": 123,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "swiss-ai-apertus": {
@@ -569,10 +569,6 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 56,
       "last_result_hashes": [
-        "0ca252737c9c34433c4b5f4b01a50a0e",
-        "5c4395d513899c88be569860a0678fa9",
-        "3dd80ee89fe27004a02f601d6a988315",
-        "b4c2818bf992e393260656e555fa9ec0",
         "03b7a4c8295c25907fec6574941b7f37",
         "701a0e9deedf07f77e65afeee0f1f52f",
         "7868a877f2ce2c68d6979f82b4d1b38a",
@@ -588,10 +584,14 @@
         "b0e1165192321fda53ac34daf7511bd0",
         "d1be222bc56b185dc2449101de634a1c",
         "328ac8f4b1afaecdc85376fc69c2ff38",
-        "e3e1efcd436e9492ad1e15e1c43f41f5"
+        "e3e1efcd436e9492ad1e15e1c43f41f5",
+        "51acfd9bb411c88546f1dfc15b68ffbb",
+        "371c2b2b787f2adaa89c774882277777",
+        "72a963f4d088951e32e74740cc0d312c",
+        "8d60836579b93fab4fa09dea374a913f"
       ],
-      "last_run": "2026-07-01T13:55:33.486028+00:00",
-      "run_count": 88,
+      "last_run": "2026-07-01T14:48:17.630692Z",
+      "run_count": 89,
       "last_checked": "2026-07-01T12:15:28.658254+00:00",
       "last_update_hash": null
     },
@@ -601,7 +601,6 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 59,
       "last_result_hashes": [
-        "877424a923ca4f7112bc0dbd4f4ec181",
         "e033e4ca28d3389d3195cf0c8b0cc64d",
         "e87945ef3e26a7502f01707ad752b5e7",
         "e86d3a6db2982f9b2ed5116e672ca7e6",
@@ -620,10 +619,11 @@
         "f8eb7d13daba301f79066c64ba7602c4",
         "c29e6a676aa89b904891f3ae8c3b628a",
         "992a345e45aaf8269488b5cf7855831d",
-        "b928ef4b0e3deccdd13473d10d225f77"
+        "b928ef4b0e3deccdd13473d10d225f77",
+        "c7e5c5c2445e67d5521c5810d4ca30d4"
       ],
-      "last_run": "2026-07-01T13:55:33.486028+00:00",
-      "run_count": 85,
+      "last_run": "2026-07-01T14:48:17.630692Z",
+      "run_count": 86,
       "last_checked": "2026-07-01T04:11:26.432984+00:00",
       "last_update_hash": null
     },
