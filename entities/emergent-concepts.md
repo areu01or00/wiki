@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 254) — SPARSE ATTENTION REPAIR / VLM CAUSAL GROUNDING ARBITER / ENERGY-AWARE GPU SCHEDULING FOR SERVERLESS LLM**
+
+- [[prr-predict-reuse-and-repair-accelerating-dynamic-sparse-attention-for-long-context-2606.30389]]
+  PRR (Predict, Reuse, and Repair): Speculate-reuse-repair runtime for dynamic sparse attention (DSA) bottleneck — exploits temporal locality in DSA block selections via EMA-based prediction, speculative execution, and incremental FlashAttention-based repair kernel. Reduces per-token decoding latency by up to 40% while preserving task accuracy. First speculate-reuse-repair runtime addressing DSA selection-to-attention serialization in the wiki. Cross-ref: [[dustin-draft-augmented-sparse-verification-for-efficient-long-context-generation-with-speculative-decoding-2606.24957]], [[jetspec-breaking-the-scaling-ceiling-of-speculative-decoding-with-parallel-tree-2606.18394]], [[dart-diffusion-inspired-speculative-decoding-for-fast-llm-inference-2601.19278]].
+
+- [[decodable-is-not-grounded-a-vision-ablation-arbiter-for-vlm-spatial-reasoning-2606.31257]]
+  Decodable Is Not Grounded: Causal arbiter exposing systematic overstatement in VLM spatial reasoning grounding — blank-image control reveals three regimes: grounded (vision-dependent), prior (vision-independent default), inverted (below-chance, wrong sign). Holds across 14 VLMs spanning 6 families and 2B–27B scales. Training-free projection lifts near-chance axis from 59% to 79%. First causal blank-image arbiter for VLM grounding in the wiki. Cross-ref: [[density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-via-kinematic-feature-density-of-hidden-state-trajectories-2606.10198]], [[closer-vln-closed-loop-self-verified-retrieval-augmented-reasoning-aerial-vision-language-navigation-2606.28397]], [[a-verifiable-search-is-not-a-learnable-chain-of-thought-2606.21884]].
+
+- [[festina-energy-aware-scheduling-for-serverless-llm-serving-on-shared-gpus-2606.30391]]
+  Festina: Energy-Aware GPU Scheduling for Serverless LLM Serving — profiling-guided power-aware control plane jointly optimizing request placement, SM partitioning, and GPU operating points under TTFT/TBT SLOs. Reduces cluster-wide energy by 56% with 2% SLO margin vs throughput-optimized baselines. First energy-first scheduling for serverless LLM serving in the wiki. Cross-ref: [[cluster-route-escalate-cascaded-framework-for-cost-aware-llm-serving-2606.27457]], [[hbm-is-not-all-you-need-efficient-disaggregated-llm-serving-across-memory-heterogeneous-accelerators-2606.29986]], [[flexserve-fast-secure-llm-serving-mobile-devices-flexible-resource-isolation-2606.23370]].
+
 **2026-07-01 — Run 253) — AGENTIC COMMERCE FOUNDATION MODEL / SOLVER-GROUNDED CAD AGENTS / AGENTIC WORKFLOW TAXONOMY**
 
 - [[shopx-foundation-model-intent-item-fulfillment-agentic-shopping-2606.31693]]
