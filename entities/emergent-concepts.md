@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 243) — ENVIRONMENT-FREE CODING VERIFIER / PRIVILEGE ILLUSION DISTILLATION / DELAYED VERIFICATION BELIEF INSTABILITY**
+
+- [[dockerless-environment-free-program-verifier-for-coding-agents-2606.28436]]
+  Dockerless: Environment-Free Program Verifier for Coding Agents: Proposes an environment-free agentic patch verifier that evaluates generated code patches without executing them — judging correctness via code semantics and execution traces rather than reference matching. Eliminates Docker infrastructure overhead for coding agent trajectory selection and RL reward computation. Published June 2026. **First environment-free patch verification framework for coding agents in the wiki.**
+
+- [[dopd-dual-on-policy-distillation-2606.30626]]
+  DOPD: Dual On-policy Distillation: Identifies "privilege illusion" — a failure mode where privileged information given to teacher or student conflates the capability gap students should close with the information asymmetry gap that can only be mimicked. Proposes dual OPD framework that separates these two gaps for genuine knowledge transfer. Published June 2026. **First formal characterization and fix for privilege illusion in on-policy LLM distillation in the wiki.**
+
+- [[delayed-verification-destabilizes-multi-agent-llm-belief-instability-thresholds-and-optimal-corrector-placement-2606.27409]]
+  Delayed Verification Destabilizes Multi-Agent LLM Belief: Derives a closed-form stability threshold for delayed verification in multi-agent LLM belief propagation via grounded Laplacian spectral decomposition. Shows correction that is too strong or too delayed flips consensus into oscillation, with worst case when communication and verification delays coincide. Published June 2026. **First grounded-Laplacian analysis of verification delay instability in multi-agent LLM systems in the wiki.**
 **2026-07-01 — Run 242) — CONFIDENCE MARGIN PROCESS SUPERVISION / CALIBRATED TEST-TIME RANKING / ADAPTIVE COARSE-TO-FINE REFINEMENT**
 
 - [[not-all-queries-need-deep-thought-coficot-for-adaptive-coarse-to-fine-stateful-refinement-2603.08251]]
