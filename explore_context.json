@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-04T00:00:00+00:00",
   "__last_updated": "2026-07-04T00:00:00+00:00",
-  "last_run": 239,
-  "last_explore": "2026-07-04T00:30:00.000000+00:00",
+  "last_run": 240,
+  "last_explore": "2026-07-01T01:46:52.961622+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
-  "last_discovery": "2026-07-04",
-  "last_run_framing": "TEXTUAL BAYES PROMPT UNCERTAINTY / FAITHFUL RAG VERIFICATION / ZIPSERV LOSSLESS COMPRESSION",
+  "last_discovery": "2026-07-01",
+  "last_run_framing": "METACOGNITIVE SELF-ASSESSMENT / PROCESS SUPERVISED RL ADVANTAGE SHAPING / LLM UNLEARNING AUDITING",
   "last_framing": "multi-agent scaling laws / LLM safety replication / black-box agentic RL",
-  "last_run_notes": "Run 239: Textual Bayes Prompt Uncertainty (2506.10060) + Reason and Verify Faithful RAG (2603.10143) + ZipServ Lossless Compression (2603.17435)",
+  "last_run_notes": "Run 240: Latent Confidence Alignment (2606.21937) + PASS (2606.29296) + PreUnlearn (2606.18473)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 729,
+  "entities_count": 732,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7204,6 +7204,36 @@
       "url": "https://arxiv.org/abs/2605.27760",
       "discovered": "2026-07-04T00:00:00+00:00",
       "theme": "agent-learning / skill-optimization / gradient-descent"
+    },
+    {
+      "arxiv_id": "2606.21937",
+      "slug": "latent-confidence-alignment-for-llm-self-assessment-2606.21937",
+      "title": "Latent Confidence Alignment for LLM Self-Assessment",
+      "url": "https://arxiv.org/abs/2606.21937",
+      "theme": "metacognitive self-assessment / uncertainty quantification",
+      "discovered": "2026-07-01T01:46:52.961622+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.29296",
+      "slug": "process-advantage-signal-shaping-a-paradigm-agnostic-middleware-for-process-supe-2606.29296",
+      "title": "Process Advantage Signal Shaping: A Paradigm-Agnostic Middleware for Process-Supervised RL in LLM Reasoners",
+      "url": "https://arxiv.org/abs/2606.29296",
+      "theme": "process-supervised RL / advantage shaping",
+      "discovered": "2026-07-01T01:46:52.961622+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.18473",
+      "slug": "preunlearn-auditing-collateral-knowledge-damage-before-large-language-model-unle-2606.18473",
+      "title": "PreUnlearn: Auditing Collateral Knowledge Damage Before Large Language Model Unlearning",
+      "url": "https://arxiv.org/abs/2606.18473",
+      "theme": "LLM unlearning / knowledge editing auditing",
+      "discovered": "2026-07-01T01:46:52.961622+00:00",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -12725,6 +12755,30 @@
       "url": "https://arxiv.org/abs/2603.17435",
       "discovered": "2026-07-04T00:30:00.000000+00:00",
       "theme": "inference-efficiency / memory-optimization / kv-cache / compression"
+    },
+    {
+      "arxiv_id": "2606.21937",
+      "title": "Latent Confidence Alignment for LLM Self-Assessment",
+      "slug": "latent-confidence-alignment-for-llm-self-assessment-2606.21937",
+      "url": "https://arxiv.org/abs/2606.21937",
+      "discovered": "2026-07-01T01:46:52.961622+00:00",
+      "theme": "metacognitive self-assessment / uncertainty quantification"
+    },
+    {
+      "arxiv_id": "2606.29296",
+      "title": "Process Advantage Signal Shaping: A Paradigm-Agnostic Middleware for Process-Supervised RL in LLM Reasoners",
+      "slug": "process-advantage-signal-shaping-a-paradigm-agnostic-middleware-for-process-supe-2606.29296",
+      "url": "https://arxiv.org/abs/2606.29296",
+      "discovered": "2026-07-01T01:46:52.961622+00:00",
+      "theme": "process-supervised RL / advantage shaping"
+    },
+    {
+      "arxiv_id": "2606.18473",
+      "title": "PreUnlearn: Auditing Collateral Knowledge Damage Before Large Language Model Unlearning",
+      "slug": "preunlearn-auditing-collateral-knowledge-damage-before-large-language-model-unle-2606.18473",
+      "url": "https://arxiv.org/abs/2606.18473",
+      "discovered": "2026-07-01T01:46:52.961622+00:00",
+      "theme": "LLM unlearning / knowledge editing auditing"
     }
   ],
   "emergent_concept_search_log": [
@@ -19106,6 +19160,17 @@
         "2603.17435"
       ],
       "framing": "TEXTUAL BAYES / FAITHFUL RAG / ZIPSERV"
+    },
+    {
+      "run": 240,
+      "run_date": "2026-07-01",
+      "theme": "metacognitive self-assessment / process-supervised RL advantage shaping / LLM unlearning auditing",
+      "picks": [
+        "2606.21937",
+        "2606.29296",
+        "2606.18473"
+      ],
+      "method": "arxiv HTML 4-query via urllib + LLM-keyword filter"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

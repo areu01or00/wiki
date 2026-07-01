@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 240) — METACOGNITIVE SELF-ASSESSMENT / PROCESS SUPERVISED RL ADVANTAGE SHAPING / LLM UNLEARNING AUDITING**
+
+- [[latent-confidence-alignment-for-llm-self-assessment-2606.21937]]
+  Latent Confidence Alignment for LLM Self-Assessment: Frames LLM confidence as a latent variable conditioned on both model beliefs and item difficulty — enabling calibration methods that distinguish genuine self-assessment from response-generation artifacts. Published 2026. **First latent-variable confidence modeling separating item difficulty from model belief in the wiki.**
+
+- [[process-advantage-signal-shaping-a-paradigm-agnostic-middleware-for-process-supe-2606.29296]]
+  Process Advantage Signal Shaping (PASS): Middleware layer inserting step-level advantage shaping into GRPO-based process-supervised RL for LLM reasoners — preserving step-level granularity that outcome-supervised advantage computation collapses. **First paradigm-agnostic middleware for process-supervised advantage shaping in the wiki.**
+
+- [[preunlearn-auditing-collateral-knowledge-damage-before-large-language-model-unle-2606.18473]]
+  PreUnlearn: Data-centric framework for auditing collateral knowledge damage before applying LLM unlearning operations — pre-flight check for capability preservation vs. knowledge removal tradeoffs. **First pre-unlearning audit methodology for detecting collateral damage in the wiki.**
+
 **2026-07-04 — Run 239) — TEXTUAL BAYES PROMPT UNCERTAINTY / FAITHFUL RAG VERIFICATION / ZIPSERV LOSSLESS COMPRESSION**
 
 - [[textual-bayes-quantifying-prompt-uncertainty-in-llm-based-systems-2506.10060]]
