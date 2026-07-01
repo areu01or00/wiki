@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 251) — GRAPH-STRUCTURED SESSION MEMORY / MOBILE TRUSTZONE LLM SERVING / SELF-RECOVERY FROM UNSAFE REASONING TRAJECTORIES**
+
+- [[tokenmizer-graph-structured-session-memory-for-long-horizon-llm-context-management-2606.06337]]
+  TokenMizer: Graph-Structured Session Memory for Long-Horizon LLM Context Management: Models LLM session history as a typed knowledge graph (14 node types, 7 edge types) instead of flat text. Hybrid extraction pipeline populates graph incrementally; 3-tier checkpoint system produces 78-token average resume blocks (2x smaller than 159-170 token baselines). 8-layer compression pipeline; semantic cache for repeated queries. +9-17pp decision recall, 58.7% file recall vs flat-text retention. **First typed knowledge graph session memory framework for long-horizon LLM context management in the wiki.** Cross-ref: [[plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953]], [[memlearner-learning-to-query-context-memory-for-video-world-models-2606.31734]].
+
+- [[flexserve-fast-secure-llm-serving-mobile-devices-flexible-resource-isolation-2606.23370]]
+  FlexServe: Fast and Secure LLM Serving for Mobile with Flexible Resource Isolation: Decouples access permission from management permission in ARM TrustZone, enabling efficient secure LLM inference without traditional TrustZone inflexibility. Recallable Resource Isolation for Flex-Mem and Flex-NPU; achieves 10.05x TTFT speedup over strawman, 2.44x over optimized strawman. **First recallable resource isolation framework for TrustZone-based mobile LLM serving in the wiki.** Cross-ref: [[privacyalign-contextual-privacy-alignment-for-llm-agents-2606.21710]], [[are-we-ready-for-an-agent-native-memory-system-2606.24775]].
+
+- [[self-reset-learning-to-self-recover-from-unsafe-reasoning-trajectories-2605.08936]]
+  Self-ReSET: Learning to Self-Recover from Unsafe Reasoning Trajectories: Pure RL framework equipping Large Reasoning Models with intrinsic self-recovery from adversarial safety error trajectories. Collects model's own error trajectories and reuses them as RL initial states, solving distribution mismatch between static training data and dynamic on-policy traces. Achieves OOD jailbreak robustness while maintaining general utility. **First on-policy self-error trajectory reuse for LRM self-recovery in the wiki.** Cross-ref: [[ajar-adaptive-jailbreak-architecture-red-teaming-2601.10971]], [[learning-from-failure-inference-time-self-improvement-for-computer-use-agents-2606.31270]].
 **2026-07-01 — Run 250) — MODULAR SKILLPACK SPECIALIZATION / COMPOSITIONAL JAILBREAKING MUTATOR CHAINS / CONTRASTIVE RL FOR CONTEXT-FAITHFUL RAG**
 
 - [[skill-weaving-efficient-llm-improvement-via-modular-skillpacks-2605.22205]]
