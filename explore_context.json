@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T02:30:00+00:00",
   "__last_updated": "2026-07-01T02:29:04.367796+00:00",
-  "last_run": 243,
-  "last_explore": "2026-07-01T02:29:04.367796+00:00",
-  "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
+  "last_run": 244,
+  "last_explore": "2026-07-01T02:45:00.000000+00:00",
+  "last_global_explore": "2026-07-01T02:45:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "ENVIRONMENT-FREE CODING VERIFIER / PRIVILEGE ILLUSION DISTILLATION / DELAYED VERIFICATION BELIEF INSTABILITY",
-  "last_framing": "coding agent verification / knowledge distillation / multi-agent stability",
-  "last_run_notes": "Run 243: Dockerless (2606.28436) + DOPD (2606.30626) + Delayed Verification (2606.27409)",
+  "last_run_framing": "UNCERTAINTY-AWARE REWARD MODELING / ADAPTIVE CONFORMAL SEMANTIC ENTROPY / PIPELINE-AWARE CONFORMAL PREDICTION",
+  "last_framing": "uncertainty quantification / reward modeling / conformal prediction",
+  "last_run_notes": "Run 244: ACSE (2605.04295) + PASC (2605.18812) + RewardUQ (2602.24040)",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 3 dates + abstract LLM filter",
+  "last_run_method": "arxiv HTML search + LLM double-filter + web_search title extraction",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
+  "emergent_concept_theme": "uncertainty quantification / conformal prediction / pipeline / reward modeling",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 742,
+  "entities_count": 745,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7315,6 +7315,33 @@
       "url": "https://arxiv.org/abs/2606.27409",
       "discovered": "2026-07-01",
       "theme": "multi-agent belief instability"
+    },
+    {
+      "arxiv_id": "2605.04295",
+      "title": "LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy",
+      "slug": "llms-uncertainty-quantification-via-adaptive-conformal-semantic-entropy-2605.04295",
+      "url": "https://arxiv.org/abs/2605.04295",
+      "discovered": "2026-07-01T02:45:00.000000+00:00",
+      "theme": "uncertainty-quantification / conformal prediction / semantic entropy",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.18812",
+      "title": "PASC: Pipeline-Aware Conformal Prediction with Joint Coverage Guarantees for Multi-Stage NLP and LLM Pipelines",
+      "slug": "pasc-pipeline-aware-conformal-prediction-with-joint-coverage-guarantees-for-multi-stage-nlp-and-llm-pipelines-2605.18812",
+      "url": "https://arxiv.org/abs/2605.18812",
+      "discovered": "2026-07-01T02:45:00.000000+00:00",
+      "theme": "conformal prediction / pipeline / multi-stage NLP",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2602.24040",
+      "title": "RewardUQ: A Unified Framework for Uncertainty-Aware Reward Models",
+      "slug": "rewarduq-a-unified-framework-for-uncertainty-aware-reward-models-2602.24040",
+      "url": "https://arxiv.org/abs/2602.24040",
+      "discovered": "2026-07-01T02:45:00.000000+00:00",
+      "theme": "uncertainty-aware reward modeling / RLHF / epistemic uncertainty",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -12932,6 +12959,30 @@
       "url": "https://arxiv.org/abs/2606.27409",
       "discovered": "2026-07-01",
       "theme": "multi-agent belief instability"
+    },
+    {
+      "arxiv_id": "2605.04295",
+      "title": "LLMs Uncertainty Quantification via Adaptive Conformal Semantic Entropy",
+      "slug": "llms-uncertainty-quantification-via-adaptive-conformal-semantic-entropy-2605.04295",
+      "url": "https://arxiv.org/abs/2605.04295",
+      "discovered": "2026-07-01T02:45:00.000000+00:00",
+      "theme": "uncertainty-quantification / conformal prediction / semantic entropy"
+    },
+    {
+      "arxiv_id": "2605.18812",
+      "title": "PASC: Pipeline-Aware Conformal Prediction with Joint Coverage Guarantees for Multi-Stage NLP and LLM Pipelines",
+      "slug": "pasc-pipeline-aware-conformal-prediction-with-joint-coverage-guarantees-for-multi-stage-nlp-and-llm-pipelines-2605.18812",
+      "url": "https://arxiv.org/abs/2605.18812",
+      "discovered": "2026-07-01T02:45:00.000000+00:00",
+      "theme": "conformal prediction / pipeline / multi-stage NLP"
+    },
+    {
+      "arxiv_id": "2602.24040",
+      "title": "RewardUQ: A Unified Framework for Uncertainty-Aware Reward Models",
+      "slug": "rewarduq-a-unified-framework-for-uncertainty-aware-reward-models-2602.24040",
+      "url": "https://arxiv.org/abs/2602.24040",
+      "discovered": "2026-07-01T02:45:00.000000+00:00",
+      "theme": "uncertainty-aware reward modeling / RLHF / epistemic uncertainty"
     }
   ],
   "emergent_concept_search_log": [
@@ -19370,6 +19421,14 @@
       "framing": "ENVIRONMENT-FREE CODING VERIFIER / PRIVILEGE ILLUSION DISTILLATION / DELAYED VERIFICATION BELIEF INSTABILITY",
       "theme": "coding agent verification / knowledge distillation / multi-agent stability",
       "method": "HF daily 3 dates + abstract LLM filter",
+      "added": 3
+    },
+    {
+      "run_number": 244,
+      "timestamp": "2026-07-01T02:45:00.000000+00:00",
+      "theme": "uncertainty-aware reward modeling / adaptive conformal semantic entropy / pipeline-aware conformal prediction",
+      "framing": "UNCERTAINTY-AWARE REWARD MODELING / ADAPTIVE CONFORMAL SEMANTIC ENTROPY / PIPELINE-AWARE CONFORMAL PREDICTION",
+      "notes": "Run 244: ACSE (2605.04295) + PASC (2605.18812) + RewardUQ (2602.24040)",
       "added": 3
     }
   ],

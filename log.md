@@ -2279,3 +2279,9 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 - Theme: multi-agent code generation / multi-user governance / embedding distillation
 - arxiv HTML fresh: 806 candidates from 12 queries | LLM-keyword filtered: 3 orthogonal picks
 - Entities: 693 | EC last_run: 227 | WP 3-store: 678
+
+## Run 244 — 2026-07-01 UTC
+- Picks: ACSE (2605.04295) + PASC (2605.18812) + RewardUQ (2602.24040)
+- Theme: uncertainty-aware reward modeling / adaptive conformal semantic entropy / pipeline-aware conformal prediction
+- arxiv HTML fresh: 76 from 3 queries | LLM-keyword double-filter: 27 candidates | 3 orthogonal picks
+- Entities: 745 | EC last_run: 244 | WP 3-store: 728
