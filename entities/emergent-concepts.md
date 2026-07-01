@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 299: Agentic Credit Assignment / LLM Agent Security Taxonomy / Workflow-Formation Vulnerabilities (Rule 36h PROBE-AXIS: multi-agent security + embodied coordination)
+
+- [[triage-role-typed-credit-assignment-for-agentic-reinforcement-learning-2606.32017]]
+  [TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.32017) — Xu, Yuanda; Zhou, Zhengze; Sang, Hejian + 5 — role-typed credit assignment separating environment-facing actions (search, click, edit, navigation) from internal reasoning tokens, replacing uniform GRPO credit with per-role advantage estimates that recover learnable signal from failed rollouts. **First credit-assignment primitive that distinguishes action types within agentic RL loops in the wiki.**
+
+- [[toward-secure-llm-agents-threat-surfaces-attacks-defenses-and-evaluation-2606.10749]]
+  [Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749) — Ling, Yuchen; Yu, Shengcheng; Chen, Zhenyu + 1 — first comprehensive threat taxonomy for LLM agent deployments: control-flow redirection, tool privilege misuse, memory corruption, and multi-agent coordination attacks, positioning LLM agent security as a systems co-design problem. **First systematic security framework specifically targeting multi-agent LLM systems in the wiki.**
+
+- [[flowsteer-prompt-only-workflow-steering-exposes-planning-time-vulnerabilities-in-multi-agent-llm-systems-2605.11514]]
+  [FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.11514) — Li, Fanxiao; Wu, Jiaying; Fu, Tingchao + 3 — first identification of planner-executor architecture as an attack surface: workflow-formation prompts can redirect multi-agent coordination without modifying infrastructure, requiring no code changes or API modifications. **First planner-executor architecture vulnerability paper in the wiki.**
+
 ### 2026-07-01 — Run 298: Multi-Agent Security / Domain-Specific Planning / LLM Ensembling (Rule 36h PROBE-AXIS: multi-agent coordination + model architecture)
 
 - [[llm-guided-planning-for-multi-hop-reasoning-over-multimodal-nuclear-regulatory-documents-2606.29399]]

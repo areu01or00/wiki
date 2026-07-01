@@ -2,9 +2,9 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T14:30:00.000000+00:00",
+  "updated": "2026-07-01T19:15:00.000000+00:00",
   "__last_updated": "2026-07-01T18:50:00+00:00",
-  "last_run": 298,
+  "last_run": 299,
   "last_explore": "2026-07-01T17:50:00.000000+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
   "last_discovery": "MULTI-AGENT STEGANOGRAPHY / DOMAIN-SPECIFIC PLANNING / MIXTURE-MODEL ENSEMBLING",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "self-improvement / strategy memory / flow reasoning",
   "emergent_theme": "self-improvement / strategy memory / flow reasoning",
   "chains_updated": 0,
-  "entities_count": 907,
+  "entities_count": 910,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8704,6 +8704,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T18:30:00+00:00",
       "theme": "reasoning primitive / compositional failure / rubric evaluation"
+    },
+    {
+      "arxiv_id": "2606.32017",
+      "slug": "triage-role-typed-credit-assignment-for-agentic-reinforcement-learning-2606.32017",
+      "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.32017",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T19:15:00+00:00",
+      "theme": "agentic-rl / credit-assignment / multi-agent"
+    },
+    {
+      "arxiv_id": "2606.10749",
+      "slug": "toward-secure-llm-agents-threat-surfaces-attacks-defenses-and-evaluation-2606.10749",
+      "title": "Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation",
+      "url": "https://arxiv.org/abs/2606.10749",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T19:15:00+00:00",
+      "theme": "llm-security / multi-agent-security / agentic-systems"
+    },
+    {
+      "arxiv_id": "2605.11514",
+      "slug": "flowsteer-prompt-only-workflow-steering-exposes-planning-time-vulnerabilities-in-multi-agent-llm-systems-2605.11514",
+      "title": "FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2605.11514",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T19:15:00+00:00",
+      "theme": "multi-agent / workflow-steering / security / planner-executor"
     }
   ],
   "emergent_discoveries": [
@@ -15431,6 +15458,33 @@
       "url": "https://arxiv.org/abs/2605.00419",
       "discovered": "2026-07-01T18:50:00+00:00",
       "theme": "multi-agent / planning / ensembling"
+    },
+    {
+      "arxiv_id": "2606.32017",
+      "slug": "triage-role-typed-credit-assignment-for-agentic-reinforcement-learning-2606.32017",
+      "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.32017",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T19:15:00+00:00",
+      "theme": "agentic-rl / credit-assignment / multi-agent"
+    },
+    {
+      "arxiv_id": "2606.10749",
+      "slug": "toward-secure-llm-agents-threat-surfaces-attacks-defenses-and-evaluation-2606.10749",
+      "title": "Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation",
+      "url": "https://arxiv.org/abs/2606.10749",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T19:15:00+00:00",
+      "theme": "llm-security / multi-agent-security / agentic-systems"
+    },
+    {
+      "arxiv_id": "2605.11514",
+      "slug": "flowsteer-prompt-only-workflow-steering-exposes-planning-time-vulnerabilities-in-multi-agent-llm-systems-2605.11514",
+      "title": "FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2605.11514",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T19:15:00+00:00",
+      "theme": "multi-agent / workflow-steering / security / planner-executor"
     }
   ],
   "emergent_concept_search_log": [
@@ -20182,6 +20236,18 @@
       "framing": "MULTI-AGENT SECURITY / DOMAIN-SPECIFIC PLANNING / LLM ENSEMBLING",
       "method": "HF daily (CV-heavy) + web_search multi-agent/ensembling/reasoning queries \u2014 Rule 36h PROBE-AXIS multi-agent coordination + model architecture",
       "notes": "HF daily pool CV/3D-heavy; Rule 15d escape hatch fired; web_search surfaced 5 fresh candidates; 3 structurally orthogonal picks"
+    },
+    {
+      "run": 299,
+      "date": "2026-07-01T19:15:00.000000+00:00",
+      "papers_added": 3,
+      "papers": [
+        "2606.32017",
+        "2606.10749",
+        "2605.11514"
+      ],
+      "theme": "agentic credit assignment / llm agent security taxonomy / workflow-formation vulnerabilities",
+      "method": "HF daily + web_search multi-agent security queries"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
