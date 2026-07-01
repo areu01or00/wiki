@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 297: Reasoning Primitive Extraction / Operadic Consistency / RIFT Rubric Failure Taxonomy (Rule 36c: deep-sub-cluster rotation within prompt-engineering + eval-methodology + failure-mode-catalog)
+
+- [[operadic-consistency-label-free-compositional-reasoning-failures-2606.13649]]
+  [Operadic Consistency: Label-Free Signal for Compositional Reasoning Failures in LLMs](https://arxiv.org/abs/2606.13649) — Bottman, Nathaniel; Liu, Yinhong; Richardson, Kyle — novel operad-theoretic signal for detecting compositional reasoning chain failures without ground-truth labels; type-signature violations predict downstream collapse. **First operad-theoretic LLM failure detection paper in the wiki.**
+
+- [[inducing-reasoning-primitives-from-agent-traces-2606.02994]]
+  [Inducing Reasoning Primitives from Agent Traces](https://arxiv.org/abs/2606.02994) — Lei, Zhihan; Yan, Jiarui; Momo, Joshua + 1 — single-pass method mining ReAct traces to extract reusable compositional reasoning primitives, externalizing routines currently trapped in scratchpad state. **First trace-mined reasoning primitive library in the wiki.**
+
+- [[rift-rubric-failure-mode-taxonomy-automated-diagnostics-2604.01375]]
+  [RIFT: A Rubric Failure Mode Taxonomy and Automated Diagnostics](https://arxiv.org/abs/2604.01375) — Qi, Zhengyang; Dickens, Charles; Pham, Derek + 4 — first systematic taxonomy of rubric failure modes in LLM evaluation benchmarks (gaming, misalignment, score inflation), with automated diagnostics. **First rubric-failure taxonomy paper in the wiki.**
+
 ### 2026-07-01 — Run 296: Self-Referential Prompt Evolution / LLM-Guided Evolutionary Domain Adaptation (Rule 36c: deep-sub-cluster rotation within prompt-engineering)
 
 - [[alg-evolv-llm-driven-meta-evolution-algorithmic-trading-programs-2606.26173]]
