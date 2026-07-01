@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T12:45:00.000000+00:00",
-  "__last_updated": "2026-07-01T11:07:00.269333+00:00",
-  "last_run": 274,
+  "__last_updated": "2026-07-01T12:20:12.000000+00:00",
+  "last_run": 276,
   "last_explore": "2026-07-01T11:07:00.269351+00:00",
   "last_global_explore": "2026-07-01T12:45:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "AGENTIC COMPLEXITY EVALUATION / MEMORY-EVICTION BOUNDED-RETENTION / TOKEN-LEVEL RAG HALLUCINATION DETECTION",
+  "last_run_framing": "RL TRAINING DYNAMICS / MULTIMODAL AGENTIC SEARCH / LATENT VS EXPLICIT REASONING",
   "last_framing": "agentic evaluation / bounded-memory eviction / rag hallucination / multi-agent complexity",
-  "last_run_notes": "Run 274: 2606.30524 / 2606.29178 / 2606.31033",
+  "last_run_notes": "Run 276: 2606.30789 / 2606.31504 / 2606.31779",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 8-query search (380 IDs, 357 unique, 283 fresh after 5-store dedup, 3 orthogonal LLM picks)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic skill composition / evidential scientific reasoning / RL reward shaping",
   "emergent_theme": "scene-aware agent planning / VLM-guided RL / scientific evidential agents",
   "chains_updated": 0,
-  "entities_count": 835,
+  "entities_count": 838,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8080,7 +8080,34 @@
     },
     "2606.05395",
     "2606.28016",
-    "2603.03862"
+    "2603.03862",
+    {
+      "arxiv_id": "2606.30789",
+      "slug": "predictable-grpo-a-closed-form-model-of-training-dynamics-2606.30789",
+      "title": "Predictable GRPO: A Closed-Form Model of Training Dynamics",
+      "url": "https://arxiv.org/abs/2606.30789",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:20:12+00:00",
+      "theme": "RL training dynamics / closed-form model / GRPO divergence threshold"
+    },
+    {
+      "arxiv_id": "2606.31504",
+      "slug": "simplesearch-vl-a-simple-recipe-for-multimodal-agentic-deep-search-2606.31504",
+      "title": "SimpleSearch-VL: A Simple Recipe for Multimodal Agentic Deep Search",
+      "url": "https://arxiv.org/abs/2606.31504",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:20:12+00:00",
+      "theme": "multimodal agentic search / FAR / evidence-verified CoT"
+    },
+    {
+      "arxiv_id": "2606.31779",
+      "slug": "bridging-the-gap-between-latent-and-explicit-reasoning-with-looped-transformers-2606.31779",
+      "title": "Bridging the Gap Between Latent and Explicit Reasoning with Looped Transformers",
+      "url": "https://arxiv.org/abs/2606.31779",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:20:12+00:00",
+      "theme": "latent reasoning / chain-of-thought / looped transformers / LOTUS"
+    }
   ],
   "emergent_discoveries": [
     {
@@ -18703,6 +18730,17 @@
       ],
       "framing": "FORMAL VERIFICATION FOR EMBODY AGENTS / TEMPORAL PLANNING IN AUTOREGRESSIVE VIDEO / LLM CLINICAL THERAPY FIDELITY",
       "theme": "formal verification / embodied agent skill learning / temporal video planning / clinical LLM evaluation"
+    },
+    {
+      "run": 276,
+      "date": "2026-07-01",
+      "papers": [
+        "2606.30789",
+        "2606.31504",
+        "2606.31779"
+      ],
+      "framing": "RL TRAINING DYNAMICS / MULTIMODAL AGENTIC SEARCH / LATENT VS EXPLICIT REASONING",
+      "theme": "RL training dynamics / multimodal agentic search / latent vs explicit reasoning"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

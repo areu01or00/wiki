@@ -1,3 +1,4 @@
+Explore: 2026-07-01T12:20:30+00:00 UTC — Run 276: RL Training Dynamics / Multimodal Agentic Search / Latent vs Explicit Reasoning
 ## Run 245 — 2026-07-01T03:15 UTC
 **Theme**: GRAPH DEPENDENCY TRACING / MEDICAL SAFETY ALIGNMENT BENCHMARK / INFERENCE-TIME FAILURE-DRIVEN SELF-IMPROVEMENT
 **Picks**: 2606.22741 (GRADE), 2606.28332 (MedHarm), 2606.31270 (Failure-Driven Self-Improvement)

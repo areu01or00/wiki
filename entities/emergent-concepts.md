@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+**2026-07-01 — Run 276) — RL TRAINING DYNAMICS / MULTIMODAL AGENTIC SEARCH / LATENT VS EXPLICIT REASONING**
+
+- [[bridging-the-gap-between-latent-and-explicit-reasoning-with-looped-transformers-2606.31779]]
+  LOTUS (Looped Transformers): First latent-CoT method competitive with explicit CoT — bridges the gap by supervising latent reasoning states in parallel rather than sequentially. **First latent-CoT with parallel latent supervision in wiki.**
+
+- [[simplesearch-vl-a-simple-recipe-for-multimodal-agentic-deep-search-2606.31504]]
+  SimpleSearch-VL: Multimodal agentic search via Factorized Adaptive Rollout (FAR) + evidence-verified CoT reasoning. 15-16pt improvement over Qwen3-VL baselines with only 5K supervised + 2K RL data. **First far + evidence-verified-CoT multimodal search agent in wiki.**
+
+- [[predictable-grpo-a-closed-form-model-of-training-dynamics-2606.30789]]
+  Predictable GRPO: First closed-form model of GRPO training dynamics — predicts divergence past a refresh-interval threshold, providing theoretical grounding for RL post-training instability. **First closed-form RL training dynamics model for GRPO in wiki.**
+
 **2026-07-01 — Run 275) — FORMAL VERIFICATION FOR EMBODY AGENTS / TEMPORAL PLANNING IN AUTOREGRESSIVE VIDEO / LLM CLINICAL THERAPY FIDELITY**
 
 - [[tempact-advancing-temporal-plausibility-in-autoregressive-video-generation-via-planner-executor-rl-2606.28016]]
