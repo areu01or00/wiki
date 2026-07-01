@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: llvm:
+- **2026-07-01** | [llvm-frontend · GitHub Topics · GitHub](https://github.com/topics/llvm-frontend) | kw: llvm-frontend
+- **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: adventures
+- **2026-07-01** | [Remote native JIT compilation and debugging with LLVM](https://weliveindetail.github.io/blog/post/2021/03/29/remote-compile-and-debug.html) | kw: remote
+- **2026-07-01** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: llvm
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: revolutionize
+- **2026-07-01** | [Mono LLVM | Mono](https://www.mono-project.com/docs/advanced/mono-llvm/) | kw: mono
+
 - **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: 3.
 - **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why
 - **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize

@@ -3931,6 +3931,14 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Welcome to Python.org](https://www.python.org/) | kw: welcome
+- **2026-07-01** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: py4e
+- **2026-07-01** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: best
+- **2026-07-01** | [PyPI · The Python Package Index](https://pypi.org/) | kw: pypi
+- **2026-07-01** | [Memory Management — Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: memory
+- **2026-07-01** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: goodbye
+- **2026-07-01** | [Using malloc_trim to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: using
+
 - **2026-07-01** | [MEMORY_MANAGEMENT (0x1A) в Windows 10/11: как исправить...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: MEMORY_MANAGEMENT
 - **2026-07-01** | [GitHub - skyfirews/prep · GitHub](https://github.com/skyfirews/prep) | kw: GitHub
 

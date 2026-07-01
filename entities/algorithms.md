@@ -4085,6 +4085,10 @@
 
 
 ## Updates
+- **2026-07-01** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: rethinking
+- **2026-07-01** | [Google 2026 Interview Preparation - Complete Weekly Roadmap](https://gist.github.com/carefree-ladka/6d1722421f9e1e46bd2dbdb5ea1b4684) | kw: google
+- **2026-07-01** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: top
+
 - **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: Data
 - **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: Leetcode
 - **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: Alternatives

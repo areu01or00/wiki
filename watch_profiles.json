@@ -114,6 +114,15 @@
         "satya jit"
       ],
       "last_result_hashes": [
+        "ab3f44e9efe813320153d6438a0b104e",
+        "2efe47add6349b1a23f9e1b4a923ec6b",
+        "64e900ff8986f325e4783fe3286a829d",
+        "f44e8f319a82e4326a1f822b5b40ca96",
+        "c68ceb8c1b3e8e683f0f57a813c78232",
+        "5aeac4fa30fb41ccddd5bdbec41ec241",
+        "1885661cefe9c39654b0f1458625c8e0",
+        "5003ed2b8035673a993196a3dbbda1a6",
+        "b820bb31d51643f3e7190e90100e94ac",
         "94c1b0f099f1d566f3fdedccba3cf97b",
         "a6b685038fa74d4ba00fac8c2deaab7d",
         "66ae815700cacb4e96d1e78f07e63810",
@@ -124,18 +133,9 @@
         "dbf8e0c58091b15f2142c1ba6af512c4",
         "07550bd5bf7eb2464189443840582802",
         "6bf898a8699853824c1bc5d6177dfec2",
-        "4c14e58d528ed9c64454f1c0df41e64a",
-        "8a3ff4e073d640c7a5be2cc492d2a969",
-        "89a92316f41a5050a2cfe852301aaa2a",
-        "64436da3e814c17d55a211e9fe5fc400",
-        "ea6e5bcb8d506faaea620477605191d7",
-        "a4f767c8d886ec8f2fab1999efc97283",
-        "bb2281be641c13c087b3bfd94faf2e29",
-        "5e40d84c27922d7191778e20c118b6e9",
-        "e386d25ff1816abec2a4433c860ed876",
-        "2766e65a5aea62ec3b5085cde4b173c8"
+        "4c14e58d528ed9c64454f1c0df41e64a"
       ],
-      "last_run": "2026-07-01 05:32 UTC",
+      "last_run": "2026-07-01 05:52 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 10
     },
@@ -259,6 +259,13 @@
         "Program"
       ],
       "last_result_hashes": [
+        "560c6e4001b31fbba96c10c2b18a820e",
+        "900931c5b2c5293e36692a6fb82f7599",
+        "eb4831f9d9b33e436b2a14ab0d8d196b",
+        "e7f3aa100a7e5ef01bffafe76cbf9393",
+        "34c166634f13431feef39c0866dcf8e7",
+        "c7f41a3fcfb1432a2c8f4814cd11ad30",
+        "257b82021f6075fe2ba87fd6fa06d9bc",
         "175deaafbda70b844243760536c5ec9d",
         "1382ef81b8b46a33f9229b1c7749d06f",
         "2e36db34c1a584712cd6f35f63aa33ba",
@@ -271,16 +278,9 @@
         "7105bfcc3e636b79fcbb54c88c94f1b8",
         "266dbbfd9257fa64c8462f66ef2e902c",
         "0aaf4f680b9999c0be679d57ab0172cc",
-        "7d0b717005814217330e578b0fbdc8fb",
-        "ca9ade675eecf6183c340d40af57c779",
-        "7d03b1751e0eb8cf4ac5d67a7d1edcfb",
-        "497722584ba1ee7b95f866c5d9ba8a76",
-        "da4da22ebe0b30bc79e1ad7a94e5310c",
-        "c6982ba3f2387fa7efa4b53444c6c85e",
-        "85875fa4aeb3a7c10187eaf8cc0cac2f",
-        "f1925c0af6e39aa520ffa6a282ede525"
+        "7d0b717005814217330e578b0fbdc8fb"
       ],
-      "last_run": "2026-07-01 05:32 UTC",
+      "last_run": "2026-07-01 05:52 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 5
     },
@@ -387,6 +387,10 @@
         "Astral"
       ],
       "last_result_hashes": [
+        "fca44b52cd35b31b8253d8b03603819a",
+        "5cc1d4c55fe22c53ab06d0faccb4247c",
+        "79c81dfdfd47f8fe1260db6a7132a00d",
+        "474d9e795c4f52bbdf5cfdeabfe5907f",
         "1892288ce3bfda31458d852753d72f5f",
         "559820eef1609a803073fbdaec85d213",
         "309f66f29e1d046c77d14541fdd68a0c",
@@ -402,13 +406,9 @@
         "83fcabd225ef0467b1baf3fb99542e4b",
         "34c4a47fce24cf4a10a673b28a7219c2",
         "59c05d93247c557125a557bf1acd2b58",
-        "1a9958a78e7ae39c78870e2584d0687d",
-        "c9b701151ca3fd8730a2984a30e6ff1d",
-        "6d77d36d5d5faa4ef4e6858564ce52bc",
-        "30ac2d43919f96f20a0bb63c41bcff69",
-        "fc735fa9ff4c8d2d83888648a67a3892"
+        "1a9958a78e7ae39c78870e2584d0687d"
       ],
-      "last_run": "2026-07-01 05:32 UTC",
+      "last_run": "2026-07-01 05:52 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 4
     },
@@ -512,6 +512,16 @@
         "Good"
       ],
       "last_result_hashes": [
+        "ab1a401478bf91151df62818473f5ef5",
+        "c38dcbed1cc31892345ff0a98364564f",
+        "269341708d555d5819da5ef32f81a574",
+        "a5f4c387d2ec205be1dbd8922dda23da",
+        "63a68c2b7252fb21470c8ffd8fbffe00",
+        "cc9f3837164b6e0e6edde576a14a1c3f",
+        "bab6dc04368dc487cd403e3a93312b56",
+        "99524e05f28f5499f9092cc0d05e7d7a",
+        "480d402e9012f947099ff628259136e0",
+        "0c082ec34d87f915fa337ac2f8540872",
         "a864ccd837a569d08705e7543c1c32b3",
         "3ede6e883bf824682972cc5c1972475d",
         "39190c0011704e7f1a9c773aba5fc7d7",
@@ -521,19 +531,9 @@
         "1487a63c3bdfb2d6e4c5d5da4f272036",
         "7849c4b20c1f881bbdfb853bb6d0f4b2",
         "e37c56fa24f6c8bf6b742c9bf04a0114",
-        "7e695a36672398933c1ecfde1250fc66",
-        "f9ad9cdcd711028b970fbfccaf494520",
-        "df8b315ed7138deecba459d352901486",
-        "d250aefb29a35210e53228bb1d5cf418",
-        "be9da9017ce6e02348e052f2e7dda252",
-        "dbce4e6cdd1ef898baaf1e4d0f4b78a3",
-        "3dab99b5330ccd20db91a26c202fbc1e",
-        "14cd387e800b8b80b658ad56297837b3",
-        "fd7245a507ee42d32b983d418fd66dfc",
-        "aeec3d820faa527f0263be90c3663a85",
-        "563b1efac9c22cffc34472e219211fc5"
+        "7e695a36672398933c1ecfde1250fc66"
       ],
-      "last_run": "2026-07-01 05:32 UTC",
+      "last_run": "2026-07-01 05:52 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 3
     },
@@ -646,6 +646,9 @@
         "LeetCode Is Dead in 2026. Here Is What Top Companies Are ..."
       ],
       "last_result_hashes": [
+        "35f3793cac8b78d908e7f2d7bb34859d",
+        "53afc8b458c8c087f3014abd21812a77",
+        "5e88f6c01a27285ecd0ce1dd293a399e",
         "dc902c467d5ebb0ae6192f827a56225c",
         "9f6a98f8ffeb48969df33e0a5ebb4ba7",
         "5e02bb10fe06fe048e2f6bbb19b9f089",
@@ -662,12 +665,9 @@
         "7d4a56009e609966d5ca545b08860211",
         "1ff2c45205d19d05c322321f335f0949",
         "efaca53a4fb3332a168f55b43aac804a",
-        "cb455ff1bd98b88c3b3cbe35bc8f9e13",
-        "6bb5f45745653c7264d8c29607bac581",
-        "23a31c98fb8d3039632d683313900890",
-        "e9982adc9c86a63af2b3901bd99ea94f"
+        "cb455ff1bd98b88c3b3cbe35bc8f9e13"
       ],
-      "last_run": "2026-07-01 05:32 UTC",
+      "last_run": "2026-07-01 05:52 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 3
     },
@@ -777,6 +777,13 @@
         "Astral"
       ],
       "last_result_hashes": [
+        "dd98088bd44f163005b52f39b2756953",
+        "a6c58176fc7c15d04c6965b77938f5ae",
+        "8eda8fd96ab2be56921cba54f0d1777a",
+        "69a9d904c88077426001079498f97d6a",
+        "6a4af48d2987d8780c0948375ba78d1f",
+        "3977a42e266cba0d9724f6994662a434",
+        "b0c6b7ec5e1d01c9879d33f2c94c3c8a",
         "a46963ec9cfe80ae0b10fae67daa3a0b",
         "4a66d45418529695adad316642e0ca12",
         "cb9c1629e8e72eadff0b889c8814cfb5",
@@ -789,16 +796,9 @@
         "efcf7336ee088d006b866b306b330eab",
         "bb8c7260c963e90eea22e851c950996c",
         "6c10d6a5e8327edbc729528b20323442",
-        "10a6d6e786cdb44ade53e424b1cf9cd2",
-        "5d720d29ca8c62a4b504bc6f3f753b90",
-        "bbb596c3441904fed7dc7fa5f00eeb00",
-        "7b5a68c5d3748b14bdba97a0ef22a06e",
-        "a454e6bd90dd4ae1795224af7e27c1bb",
-        "15a7206ce9d32c657cb866ee87f368ea",
-        "7103360156c8e6d465039238ada20318",
-        "ac7cec136d6cb0e44c36409321880589"
+        "10a6d6e786cdb44ade53e424b1cf9cd2"
       ],
-      "last_run": "2026-07-01 05:32 UTC",
+      "last_run": "2026-07-01 05:52 UTC",
       "new_sub_topics_this_run": [],
       "last_new_count": 2
     },

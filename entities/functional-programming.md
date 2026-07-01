@@ -1,4 +1,15 @@
 ## Updates
+- **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monad
+- **2026-07-01** | [monads · GitHub Topics · GitHub](https://github.com/topics/monads) | kw: monads
+- **2026-07-01** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: haskell
+- **2026-07-01** | [functional programming - Getting started with Haskell - Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell) | kw: functional
+- **2026-07-01** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | kw: monads
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: rust:
+- **2026-07-01** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: monads
+- **2026-07-01** | [Monads and Effects | Bartosz Milewski Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: monads
+- **2026-07-01** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: what
+- **2026-07-01** | [Just how much can you do with functions? | Haskell, Functional...](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: just
+
 - **2026-07-01** | [FUNCTIONAL Synonyms: 118 Similar and Opposite Words - ...](https://www.merriam-webster.com/thesaurus/functional) | kw: FUNCTIONAL
 - **2026-07-01** | [FUNCTIONAL definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/functional) | kw: FUNCTIONAL
 - **2026-07-01** | [Functional - definition of by The Free Dictionary](https://www.thefreedictionary.com/functional) | kw: Functional

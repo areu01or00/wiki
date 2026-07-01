@@ -3591,6 +3591,16 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Microservices Architecture and Distributed Systems](https://zuniweb.com/blog/microservices-architecture-for-data-driven-applications-patterns-and-best-practices/) | kw: microservices
+- **2026-07-01** | [Microservices Design Patterns: The Comprehensive Architectural Guide](https://netalith.com/blogs/microservices-architecture/microservices-design-patterns-guide-2026) | kw: microservices
+- **2026-07-01** | [Microservices Architecture Patterns in 2026: Mastering Distributed Systems Design](https://www.andrewhansen.au/microservices-architecture-patterns-in-2026-mastering-distributed-systems-design/) | kw: microservices
+- **2026-07-01** | [Microservices Architecture in 2026: Building Scalable Distributed Systems](https://scga.hk/blog/microservices-architecture-2026) | kw: microservices
+- **2026-07-01** | [Microservices Architecture in 2026: Advanced Insights and Best Practices](https://www.theprotec.com/blog/2026/microservices-architecture-advanced-insights-best-practices/) | kw: microservices
+- **2026-07-01** | [Top 10 Microservices Architecture Best Practices for 2026](https://www.tekrecruiter.com/post/top-10-microservices-architecture-best-practices-for-2026) | kw: top
+- **2026-07-01** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: distributed
+- **2026-07-01** | [Microservices Architecture Patterns: Building Resilient, Scalable Distributed Systems](https://medium.com/@sanwarhossain/microservices-architecture-patterns-building-resilient-scalable-distributed-systems-d0b8a421ef6b) | kw: microservices
+- **2026-07-01** | [Microservices Architecture Guide 2026: Building Scalable Distributed Systems](https://miracl.in/blog/microservices-architecture-guide-2026/) | kw: microservices
+
 - **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
 - **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating
 - **2026-07-01** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: How
