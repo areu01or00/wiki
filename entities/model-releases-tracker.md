@@ -17,6 +17,119 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [OpenAI releases GPT-5.6 models to 20 partners, public launch expected by July 2026](https://cryptobriefing.com/openai-releases-gpt-56-models-to-20-partners-public-launch-expected-by-july-2026/) | kw: api launch | score: 9 | source: openai-releases
+- **2026-07-01** | [Introducing Claude 4 \ Anthropic](https://www.anthropic.com/news/claude-4) | kw: official announcement | score: 9 | source: anthropic-releases
+- **2026-07-01** | [Google launches Gemma 4, a new open-source model: How to try it](https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it) | kw: weights drop | score: 9 | source: google-deepmind-releases
+- **2026-07-01** | [Today we're introducing Gemma 4 — our newest family of open models](https://www.facebook.com/Google/videos/today-were-introducing-gemma-4-our-newest-family-of-open-models-built-from-the-s/1003051045378073/) | kw: official announcement | score: 9 | source: google-deepmind-releases
+- **2026-07-01** | [DeepSeek V4 Official Launch + Peak/Off-Peak Pricing - Reddit](https://www.reddit.com/r/DeepSeek/comments/1uio6yf/deepseek_v4_official_launch_peakoffpeak_pricing/) | kw: api launch | score: 9 | source: deepseek-releases
+- **2026-07-01** | [DeepSeek V4 (2026) — 1T Params, Benchmarks & Pricing](https://deepseek.ai/deepseek-v4) | kw: benchmark/paper | score: 9 | source: deepseek-releases
+- **2026-07-01** | [DeepSeek announced the official version of V4 for mid-July 2026](https://x.com/TechBuzzChina/status/2071745549917688075) | kw: official announcement | score: 9 | source: deepseek-releases
+- **2026-07-01** | [DeepSeek V4 Is Earning Agentic Token Share — OpenRouter Blog](https://openrouter.ai/blog/insights/deepseek-v4-adoption/) | kw: open source | score: 9 | source: deepseek-releases
+- **2026-07-01** | [DeepSeek to launch V4 in mid-July with new peak-time API pricing](https://technode.com/2026/06/30/deepseek-to-launch-v4-in-mid-july-with-new-peak-time-api-pricing/) | kw: weights drop | score: 9 | source: deepseek-releases
+- **2026-07-01** | [When Is DeepSeek V5 Coming Out? The Honest 2026 Answer](https://thomas-wiegold.com/blog/when-is-deepseek-v5-coming-out/) | kw: open source | score: 9 | source: deepseek-releases
+- **2026-07-01** | [Latest AI Model Releases — July 2026](https://aireleasetracker.com/latest) | kw: api launch | score: 8 | source: openai-releases
+- **2026-07-01** | [Google DeepMind](https://deepmind.google/) | kw: open source | score: 8 | source: google-deepmind-releases
+- **2026-07-01** | [Grok 4.5 Review: xAI's 1.5T V9 Model Explained (Beta, June 2026)](https://www.buildfastwithai.com/blogs/grok-4-5-review-xai-v9-beta-2026) | kw: open source | score: 8 | source: xai-releases
+- **2026-07-01** | [Welcome Llama 3 - Meta's new open LLM](https://huggingface.co/blog/llama3) | kw: weights drop | score: 8 | source: meta-llama-releases
+- **2026-07-01** | [Kimi K2.7 Code Review: Open-Source 1T Parameter...](https://flowtivity.ai/blog/kimi-k2-7-code-review/) | kw: weights drop | score: 8 | source: kimi-releases
+- **2026-07-01** | [Kimi K2.6 Explained: Moonshot AI's Open-Source Model That Ties GPT-5.5 Coding](https://miraflow.ai/blog/kimi-k2-6-explained-moonshot-ai-open-source-model-ties-gpt-5-5-coding) | kw: weights drop | score: 8 | source: kimi-releases
+- **2026-07-01** | [Qwen AI — Open-Source LLMs, Vision, Audio & Coding Models (2026)](https://qwen-ai.com/) | kw: weights drop | score: 8 | source: qwen-releases
+- **2026-07-01** | [Zhipu AI: China's Zhipu Unveils AI Model Trained on Huawei Chips](https://adtools.org/buyers-guide/ai-news-zhipu-glm-image-model-release) | kw: weights drop | score: 8 | source: glm-releases
+- **2026-07-01** | [Examples of Early Stopping in HuggingFace Transformers | W&B](https://wandb.ai/ayush-thakur/huggingface/reports/Examples-of-Early-Stopping-in-HuggingFace-Transformers--Vmlldzo0MzE2MTM) | kw: weights drop | score: 8 | source: amalia-llm
+- **2026-07-01** | [LongCat-2.0 - 1.6T Agentic Coding LLM | 1M Context, Open Source](https://www.longcatai.org/models/longcat-2) | kw: weights drop | score: 8 | source: amalia-llm
+- **2026-07-01** | [Meituan launches LongCat-2.0, a 1.6 trillion parameter open-weights...](https://digg.com/tech/xwizy4em) | kw: weights drop | score: 8 | source: meituan-longcat
+- **2026-07-01** | [Meituan's LongCat-2.0: A Homegrown AI Marvel — Web Pulse](https://wpnews.pro/news/meituan-s-longcat-2-0-a-homegrown-ai-marvel) | kw: weights drop | score: 8 | source: meituan-longcat
+- **2026-07-01** | [xAI Launches Grok Voice Agent Builder Beta for Developers - basenor](https://www.basenor.com/blogs/news/xai-launches-grok-voice-agent-builder-beta-for-developers) | kw: api launch | score: 8 | source: xai
+- **2026-07-01** | [Mistral AI - Wikipedia](https://en.wikipedia.org/wiki/Mistral_AI) | kw: weights drop | score: 8 | source: mistral-ai
+- **2026-07-01** | [OpenAI Launches GPT-5.6 Sol, Beats Mythos On TerminalBench](https://officechai.com/ai/openai-launches-gpt-5-6-sol-beats-mythos-on-terminalbench/) | kw: api launch | score: 7 | source: openai-releases
+- **2026-07-01** | [OpenAI unveils GPT-5.6 Sol, Terra and Luna | Let's Data Science](https://letsdatascience.com/news/openai-unveils-gpt-56-sol-terra-and-luna-cf7d34df) | kw: official announcement | score: 7 | source: openai-releases
+- **2026-07-01** | [OpenAI Launches GPT-5.6 With Sol, Terra, and Luna Models](https://memeburn.com/openai-launches-gpt-5-6-with-sol-terra-and-luna-models/) | kw: api launch | score: 7 | source: openai-releases
+- **2026-07-01** | [Anthropic launches Claude Sonnet 5 as a cheaper way to run agents | TechCrunch](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) | kw: api launch | score: 7 | source: anthropic-releases
+- **2026-07-01** | [Introducing Gemma 4 12B](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) | kw: official announcement | score: 7 | source: google-deepmind-releases
+- **2026-07-01** | [Grok - AI Chat & Video - Apps on Google Play](https://play.google.com/store/apps/details?id=ai.x.grok) | kw: open source | score: 7 | source: xai-releases
+- **2026-07-01** | [Meta Llama 3: The most capable openly available LLM to date](https://ollama.com/library/llama3) | kw: open source | score: 7 | source: meta-llama-releases
+- **2026-07-01** | [DeepSeek V4 is here: How it compares to ChatGPT, Claude, Gemini](https://mashable.com/article/deepseek-v4-preview-comparison-chatgpt-claude-gemini) | kw: open source | score: 7 | source: deepseek-releases
+- **2026-07-01** | [Org profile for Mistral AI on Hugging Face](https://huggingface.co/mistralai) | kw: weights drop | score: 7 | source: mistral-releases
+- **2026-07-01** | [Qwen](https://qwen.ai/home?ref=itsfoss.com) | kw: open source | score: 7 | source: mistral-releases
+- **2026-07-01** | [SAKANA - Updated June 2026 - 12513 Photos & 7023 Reviews...](https://www.yelp.com/biz/sakana-las-vegas-4) | kw: open source | score: 7 | source: sakana-releases
+- **2026-07-01** | [Kog Laneformer 2B generates 3000 tokens per second... | Асектор](https://asector.ru/focus/kog_laneformer_2b_generiruet_3000_tokenov_v) | kw: open source | score: 7 | source: kog-ai
+- **2026-07-01** | [Horoscope for July 2026 for Sagittarius](https://horo.mail.ru/prediction/sagittarius/july-2026/) | kw: open source | score: 7 | source: kog-ai
+- **2026-07-01** | [SpaceXAI introduces no-code voice agent builder - Seeking Alpha](https://seekingalpha.com/news/4609077-spacexai-introduces-no-code-voice-agent-builder) | kw: open source | score: 7 | source: xai
+- **2026-07-01** | [AI News Today July 1 2026: 15 Biggest Stories](https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026) | kw: open source | score: 7 | source: mistral-ai
+- **2026-07-01** | [AI News Today July 1 2026: 15 Biggest Stories](https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026) | kw: open source | score: 7 | source: openai-releases-2
+- **2026-07-01** | [Previewing GPT-5.6 Sol: a next-generation model - OpenAI](https://openai.com/index/previewing-gpt-5-6-sol/) | kw: open source | score: 6 | source: openai-releases
+- **2026-07-01** | [OpenAI Research | Release](https://openai.com/research/index/release/) | kw: api launch | score: 6 | source: openai-releases
+- **2026-07-01** | [GPT-5.6 Sol, Terra & Luna: Pricing, Benchmarks & Access (2026)](https://www.explainx.ai/blog/gpt-5-6-release-date-features-benchmarks-2026) | kw: benchmark/paper | score: 6 | source: openai-releases
+- **2026-07-01** | [Claude Sonnet 5 vs Opus 4.8 (2026): 60% Cheaper on Paper](https://ofox.ai/blog/claude-sonnet-5-vs-opus-4-8-2026/) | kw: benchmark/paper | score: 6 | source: anthropic-releases
+- **2026-07-01** | [Claude Sonnet 5 - API Pricing & Benchmarks | OpenRouter](https://openrouter.ai/anthropic/claude-sonnet-5) | kw: api launch | score: 6 | source: anthropic-releases
+- **2026-07-01** | [Gemma — Google DeepMind](https://deepmind.google/models/gemma/) | kw: weights drop | score: 6 | source: google-deepmind-releases
+- **2026-07-01** | [Google's latest DiffusionGemma open AI model comes with a 4x speed boost](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) | kw: open source | score: 6 | source: google-deepmind-releases
+- **2026-07-01** | [XAI | Elon Musk, Artificial Intelligence, X, Grok...](https://www.britannica.com/money/xAI) | kw: open source | score: 6 | source: xai-releases
+- **2026-07-01** | [llama-3.3-70b-instruct Model by Meta | NVIDIA NIM](https://build.nvidia.com/meta/llama-3_3-70b-instruct) | kw: open source | score: 6 | source: meta-llama-releases
+- **2026-07-01** | [Models | OpenRouter](https://openrouter.ai/models) | kw: weights drop | score: 6 | source: meta-llama-releases
+- **2026-07-01** | [GitHub - meta-llama/llama3: The official Meta Llama 3 GitHub site](https://github.com/meta-llama/llama3) | kw: official announcement | score: 6 | source: meta-llama-releases
+- **2026-07-01** | [Best Uncensored Local LLMs by VRAM Tier (2026) | InsiderLLM](https://insiderllm.com/guides/best-uncensored-local-llms/) | kw: open source | score: 6 | source: meta-llama-releases
+- **2026-07-01** | [meta.ai](https://www.meta.ai/) | kw: open source | score: 6 | source: meta-llama-releases
+- **2026-07-01** | [DeepSeek V4 API Migration: Update Model Names Before July](https://wavespeed.ai/blog/posts/blog-deepseek-v4-model-name-migration/) | kw: api launch | score: 6 | source: deepseek-releases
+- **2026-07-01** | [Mistral Large Latest – AI Model on LangRouter](https://langrouter.ai/models/mistral-large-latest) | kw: weights drop | score: 6 | source: mistral-releases
+- **2026-07-01** | [API | Mistral AI](https://mistral.ai/pricing/api/) | kw: api launch | score: 6 | source: mistral-releases
+- **2026-07-01** | [mistral-nemo](https://ollama.com/library/mistral-nemo) | kw: open source | score: 6 | source: mistral-releases
+- **2026-07-01** | [Small-3, the new AI from French Mistral that challenges DeepSeek](https://wazup-intech.com/us/small-3-the-new-ai-from-the-french-mistral-which-challenges-deepseek/) | kw: open source | score: 6 | source: mistral-releases
+- **2026-07-01** | [Learn Ollama in 15 Minutes - Run LLM Models Locally for...](https://www.youtube.com/watch?v=UtSSMs6ObqY) | kw: open source | score: 6 | source: mistral-releases
+- **2026-07-01** | [FT article](https://www.ft.com/content/cf939ea4-d96c-4908-896a-48a74381f251) | kw: open source | score: 6 | source: mistral-releases
+- **2026-07-01** | [Moonshot AI's Kimi K2.7-Code Targets Token Efficiency in Agentic Coding](https://devops.com/moonshot-ais-kimi-k2-7-code-targets-token-efficiency-in-agentic-coding/) | kw: open source | score: 6 | source: kimi-releases
+- **2026-07-01** | [Kimi K2 - Open Agentic Intelligence | 1T MoE | Moonshot AI](https://kimik2ai.com/k2/) | kw: open source | score: 6 | source: kimi-releases
+- **2026-07-01** | [Kimi K2.6 for Developers: Benchmarks and API Workflow](https://www.verdent.ai/guides/kimi-k2-6-developers) | kw: api launch | score: 6 | source: kimi-releases
+- **2026-07-01** | [Convert Model Weights — mlc-llm 0.1.0 documentation](https://llm.mlc.ai/docs/compilation/convert_weights.html) | kw: weights drop | score: 6 | source: amalia-llm
+- **2026-07-01** | [kogai/laneformer-2b-it · Hugging Face](https://huggingface.co/kogai/laneformer-2b-it) | kw: weights drop | score: 6 | source: kog-ai
+- **2026-07-01** | [Kog Laneformer 2B: The Latency-First Model Behind Kog Inference...](https://blog.kog.ai/kog-laneformer-2b-the-latency-first-model-behind-kog-inference-engine/) | kw: weights drop | score: 6 | source: kog-ai
+- **2026-07-01** | [How to get AI RVC voice models - Weights & Hugging Face - YouTube](https://www.youtube.com/watch?v=5c6zfLdFdgs) | kw: weights drop | score: 6 | source: kog-ai
+- **2026-07-01** | [xAI Grok: What It Is and How to Use It in 2026 - Voiceflow](https://www.voiceflow.com/blog/grok) | kw: open source | score: 6 | source: xai
+- **2026-07-01** | [xAI - Grokipedia](https://grokipedia.com/page/XAI_(company)) | kw: open source | score: 6 | source: xai
+- **2026-07-01** | [DeepSeek V4 (2026) — 1T Params, Benchmarks & Pricing](https://deepseek.ai/deepseek-v4) | kw: benchmark/paper | score: 6 | source: openai-releases-2
+- **2026-07-01** | [xAI — Creators of Grok, the AI Chatbot](https://x.ai/) | kw: open source | score: 5 | source: xai-releases
+- **2026-07-01** | [Moonshot AI](https://www.moonshot.ai/) | kw: open source | score: 5 | source: kimi-releases
+- **2026-07-01** | [Moonshot AI Releases Kimi K2.7-Code - MarkTechPost](https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/) | kw: api launch | score: 5 | source: kimi-releases
+- **2026-07-01** | [Alibaba Cloud Model Studio - Alibaba Cloud](https://www.alibabacloud.com/en/product/modelstudio) | kw: weights drop | score: 5 | source: qwen-releases
+- **2026-07-01** | [Qwen 3.7 vs Kimi K2.7: Open Agentic Coder 2026 | Codersera](https://codersera.com/blog/qwen-3-7-vs-kimi-k2-7-coding-2026/) | kw: open source | score: 5 | source: qwen-releases
+- **2026-07-01** | [Qwen3.5 Multimodal Model Live on OpenRouter | LinkedIn](https://www.linkedin.com/posts/openrouter_qwen35-plus-2026-02-15-api-pricing-providers-activity-7429172816438116352-IOz1) | kw: open source | score: 5 | source: qwen-releases
+- **2026-07-01** | [I Tested Alibaba Qwen3.6-35B-A3B vs Google Gemma](https://pub.towardsai.net/i-tested-alibaba-qwen3-6-35b-a3b-30cc4658a382) | kw: open source | score: 5 | source: qwen-releases
+- **2026-07-01** | [Qwen 3.7 Max (+Free API): WHY IS NO ONE TALKING... - YouTube](https://www.youtube.com/watch?v=V23RFc13ml4) | kw: api launch | score: 5 | source: qwen-releases
+- **2026-07-01** | [Org profile for Qwen on Hugging Face](https://huggingface.co/Qwen) | kw: weights drop | score: 5 | source: qwen-releases
+- **2026-07-01** | [Qwen-AgentWorld review | AI just dropped](https://aijustdropped.com/model/qwen-agentworld) | kw: weights drop | score: 5 | source: qwen-releases
+- **2026-07-01** | [Zhipu GLM-5.1 in 2026: The Open Model Trained Without...](https://convly.ai/zhipu-glm-explained-2026/) | kw: open source | score: 5 | source: glm-releases
+- **2026-07-01** | [Zhipu GLM-4.7 Sweeps Programming Competition](https://www.aibase.com/news/24075) | kw: open source | score: 5 | source: glm-releases
+- **2026-07-01** | [GLM-5.2 API Pricing (Free) - 76 Providers](https://lmspeed.net/model/glm-5-2) | kw: weights drop | score: 5 | source: glm-releases
+- **2026-07-01** | [Zhipu AI GLM Review (2026): Z.ai for Budget-Conscious Devs](https://vibecoding.app/blog/zhipu-ai-glm-coding-plan-review) | kw: open source | score: 5 | source: glm-releases
+- **2026-07-01** | [Zhipu AI GLM-5 AI | Release Date, Expected Features, Pricing](https://zelili.com/tools/zhipu-glm-5/) | kw: api launch | score: 5 | source: glm-releases
+- **2026-07-01** | [Learn Ollama in 15 Minutes - Run LLM Models Locally for... - YouTube](https://www.youtube.com/watch?v=UtSSMs6ObqY) | kw: open source | score: 5 | source: amalia-llm
+- **2026-07-01** | [vLLM vs TensorRT-LLM vs SGLang: H100 Benchmarks (2026)](https://www.spheron.network/blog/vllm-vs-tensorrt-llm-vs-sglang-benchmarks/) | kw: benchmark/paper | score: 5 | source: amalia-llm
+- **2026-07-01** | [What Is The Best Hardware for Running Local LLMs in 2026...](https://medium.com/data-science-collective/what-is-the-best-hardware-for-running-local-llms-in-2026-mac-vs-5090-vs-cloud-ff023b660442) | kw: open source | score: 5 | source: amalia-llm
+- **2026-07-01** | [GitHub - huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | kw: open source | score: 5 | source: amalia-llm
+- **2026-07-01** | [Local LLM on laptop 2026](https://chimitdorzhi.tech/blog/lokalnyy-llm-na-noutbuke-2026/) | kw: open source | score: 5 | source: amalia-llm
+- **2026-07-01** | [SAKANA SUSHI | ALL YOU CAN EAT SUSHI - DRAGON FACTORY](https://www.dragonfactories.com/sakana) | kw: open source | score: 5 | source: sakana-releases
+- **2026-07-01** | [Sakana AI — Building Frontier AI in Japan](https://sakana.ai/) | kw: open source | score: 5 | source: sakana-releases
+- **2026-07-01** | [Sakana | Las Vegas NV - Facebook](https://www.facebook.com/sakanavegas/) | kw: open source | score: 5 | source: sakana-releases
+- **2026-07-01** | [Home | Sakana Sushi & Japanese Cuisine](https://www.sakanaeasthanover.com/) | kw: open source | score: 5 | source: sakana-releases
+- **2026-07-01** | [Sakana Sushi (All You Can Eat), Las Vegas - Menu, Reviews](https://www.restaurantji.com/nv/las-vegas/sakana-sushi-/) | kw: open source | score: 5 | source: sakana-releases
+- **2026-07-01** | [LongCat-2.0 Benchmarks 2026: Scores, Rankings...](https://benchlm.ai/models/longcat-2-0) | kw: weights drop | score: 5 | source: meituan-longcat
+- **2026-07-01** | [GitHub - meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) | kw: open source | score: 5 | source: meituan-longcat
+- **2026-07-01** | [meituan-longcat/LongCat-2.0 · Hugging Face](https://huggingface.co/meituan-longcat/LongCat-2.0) | kw: weights drop | score: 5 | source: meituan-longcat
+- **2026-07-01** | [LongCat API Platform Change Log | API Docs](https://longcat.chat/platform/docs/ChangeLog.html) | kw: api launch | score: 5 | source: meituan-longcat
+- **2026-07-01** | [Meituan's LongCat AI Just Trained a Trillion-Parameter Model on Chinese Chips](https://www.remio.ai/post/meituan-s-longcat-ai-just-trained-a-trillion-parameter-model-on-chinese-chips-nvidia-was-not-invite) | kw: open source | score: 5 | source: meituan-longcat
+- **2026-07-01** | [Kog hits 3K t/s on MI300X, no kernel switches... - DEV Community](https://dev.to/creeta/kog-hits-3k-ts-on-mi300x-no-kernel-switches-test-it-now-55dh) | kw: open source | score: 5 | source: kog-ai
+- **2026-07-01** | [Best Hardware for Running Local LLMs in 2026...](https://medium.com/data-science-collective/what-is-the-best-hardware-for-running-local-llms-in-2026-mac-vs-5090-vs-cloud-ff023b660442) | kw: open source | score: 5 | source: kog-ai
+- **2026-07-01** | [xAI — Creators of Grok](https://x.ai/) | kw: open source | score: 5 | source: xai
+- **2026-07-01** | [Grok 4 - xAI](https://x.ai/news/grok-4) | kw: open source | score: 5 | source: xai
+- **2026-07-01** | [AI Tools for Commercial Real Estate (Summer 2026 Edition)](https://www.adventuresincre.com/ai-tools-commercial-real-estate/) | kw: open source | score: 5 | source: xai
+- **2026-07-01** | [xAI Grok 4.1 Fast (Deprecated) - Oracle Help Center](https://docs.oracle.com/en-us/iaas/Content/generative-ai/xai-grok-4-1-fast.htm) | kw: open source | score: 5 | source: xai
+- **2026-07-01** | [Frontier AI LLMs, assistants, agents, services | Mistral](https://mistral.ai/) | kw: open source | score: 5 | source: mistral-ai
+- **2026-07-01** | [Mistral AI in talks to raise €3 billion at €20 billion value](https://finance.yahoo.com/sectors/technology/articles/mistral-ai-talks-raise-3-140229292.html) | kw: open source | score: 5 | source: mistral-ai
+- **2026-07-01** | [This Week in AI — June 25 – July 1, 2026 - Engincan Veske](engincanveske.substack.com/p/this-week-in-ai-june-25-july-1-2026) | kw: open source | score: 5 | source: mistral-ai
+- **2026-07-01** | [Mistral AI selects Montréal for its Canadian hub](https://www.montrealinternational.com/en/news/mistral-ai-selects-montreal-for-its-canadian-hub/) | kw: open source | score: 5 | source: mistral-ai
+- **2026-07-01** | [OpenAI Codex CLI - GitHub](https://github.com/openai/codex) | kw: open source | score: 5 | source: openai-releases-2
+- **2026-07-01** | [Claude Sonnet 5 vs Opus 4.8 (2026): 60% Cheaper on Paper](https://ofox.ai/blog/claude-sonnet-5-vs-opus-4-8-2026/) | kw: benchmark/paper | score: 5 | source: openai-releases-2
+
 - **2026-07-01** | [DeepSeek V4 Preview: Two API Models, 1M Context... - Slow Hifi](https://slowhifi.com/deepseek-v4-preview-two-api-models-1m-context-default-and-a-hard-cutover-date/) | kw: benchmark/paper | source: deepseek-releases
 
 - **2026-07-01** | [Kimi K2.6: 1T MoE Open Weights, Agent Swarm, Pricing (2026)](https://codersera.com/blog/kimi-k2-6-complete-guide-2026/) | kw: open source | source: kimi-releases
