@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 310: Deep-Sub-Cluster PROBE-AXIS: Local Flatness OOD / Capability Minimization Safety / Spectral DPP Data Selection (Rule 36h: calibration-under-distribution-shift / safety-mechanisms / data-selection)
+
+- [[exploiting-local-flatness-for-efficient-out-of-distribution-detection-2606.29952]] — [Exploiting Local Flatness for Efficient Out-of-Distribution Detection](https://arxiv.org/abs/2606.29952) — Park, Seonghwan; Jung, Hyunji; Lee, Dongyeop — local loss landscape flatness as geometric OOD detection signal for deep networks, no retraining required. **First loss-flatness-as-OOD-signal paper in the wiki.**
+
+- [[capability-minimization-as-a-safety-primitive-risk-aware-causal-gating-for-least-privilege-llm-agents-2606.13884]] — [Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents](https://arxiv.org/abs/2606.13884) — Iyer, Laxmipriya Ganesh; Babu, Rahul Suresh — RACG framework treating capability minimization as first-class safety primitive, not alignment afterthought. **First least-privilege-capability-control paper in the wiki.**
+
+- [[spectral-dpps-via-nepv-a-scalable-continuous-relaxation-of-determinantal-map-for-diversity-aware-data-selection-2606.19411]] — [Spectral DPPs via NEPv: A Scalable Continuous Relaxation of Determinantal MAP for Diversity-Aware Data Selection](https://arxiv.org/abs/2606.19411) — Da Xu, Richard Yi — GPU-friendly DPP-MAP relaxation for million-scale diversity-aware data curation in LLM training pipelines. **First DPP-for-LLM-training-data-selection paper in the wiki.**
+
 ### 2026-07-02 — Run 309: Deep-Sub-Cluster PROBE-AXIS: Quantization-Safety / Few-Shot Reranking / Formal-Logic Benchmark (Rule 36h: QAT interaction / exemplar-order effects / monadic FOL evaluation)
 
 - [[joint-effect-quantization-temperature-llm-safety-alignment-factorial-analysis-2606.29581]] — [The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis](https://arxiv.org/abs/2606.29581): Prasad, Hari; Pal, Ritam — first factorial study of quantization × temperature interaction on safety alignment; reveals non-additive degradation across six model families at INT4+moderate-temperature. **First QAT-safety interaction paper in the wiki.**
