@@ -4085,6 +4085,16 @@
 
 
 ## Updates
+- **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What
+- **2026-07-01** | [Algorithms in Computer Science: A Complete Beginner's Guide with...](https://medium.com/@mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis-7ae156894d2f) | kw: Algorithms
+- **2026-07-01** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: Algorithms,
+- **2026-07-01** | [Introduction to Algorithms | Electrical Engineering and Computer...](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: Introduction
+- **2026-07-01** | [What is an Algorithm? Complete Beginner's Guide to Algorithms](https://codelucky.com/algorithms/) | kw: What
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Data
+- **2026-07-01** | [data-structures · GitHub Topics · GitHub](https://github.com/topics/data-structures) | kw: data-structures
+- **2026-07-01** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode
+- **2026-07-01** | [Guideline for FAANG. Algorithm and Data structure (Leetcode](https://medium.com/@nazmus20000/guideline-for-faang-d9c2502d4af4) | kw: Guideline
+
 - **2026-07-01** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
 - **2026-07-01** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: algorithms
 - **2026-07-01** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: algorithms

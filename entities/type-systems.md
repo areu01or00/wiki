@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: Efficient
+- **2026-07-01** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/abs/2408.14345) | kw: Guard
+- **2026-07-01** | [Elixir's Gradual Type System (1.17–1.20): How the Compiler Finally ...](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: Elixir's
+- **2026-07-01** | [Gradual Typing – Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: Gradual
+- **2026-07-01** | [[2603.05649] Efficient Selection of Type Annotations for Performance ...](https://arxiv.org/abs/2603.05649) | kw: [2603.05649]
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: Efficient
+- **2026-07-01** | [Guard Analysis and Safe Erasure Gradual Typing: a Type System for Elixir](https://arxiv.org/pdf/2408.14345) | kw: Guard
+
 - **2026-07-01** | [TypeRacer - Play Typing Games and Race Friends](https://play.typeracer.com/) | kw: type-systems
 
 - **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type

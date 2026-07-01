@@ -1,4 +1,13 @@
 ## Updates
+- **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: Haskell
+- **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: Pure
+- **2026-07-01** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/) | kw: Kabbalah,
+- **2026-07-01** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: I
+- **2026-07-01** | [Issue 529 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/529.html) | kw: Issue
+- **2026-07-01** | [Community version of "Learn You a Haskell…" (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community
+
 - **2026-07-01** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: functional-programming
 - **2026-07-01** | [Haskell as a next choice of programming language - Reddit](https://www.reddit.com/r/haskell/comments/1riy9lw/haskell_as_a_next_choice_of_programming_language/) | kw: functional-programming
 - **2026-07-01** | [What killed Haskell, could kill Rust, too - GitHub Gist](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b) | kw: functional-programming
