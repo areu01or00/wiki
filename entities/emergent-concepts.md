@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 258) — NEUROSYMBOLIC WORLD MODELS / UNCERTAINTY QUANTIFICATION / ERROR PREDICTION AMBIGUITY**
+
+- [[cristal-method-neurosymbolic-analysis-ai-synthesized-world-models-2606.29799]]
+  CRISTAL: Neurosymbolic framework (Coherent Reliable Intentional Synthesis of Truthful Analysis Logic) for automating complex analysis workflows via AI-synthesized world models. Addresses structural uncertainty, noisy data, tight attention budgets, and trajectory collapse in multi-step agentic domains. First neurosymbolic world-model analysis framework in the wiki. Cross-ref: [[human-on-the-loop-orchestration-ai-assisted-legal-discovery-2606.19812]], [[worldevolver-self-evolving-world-models-for-llm-agent-planning-2606.30639]].
+
+- [[clustered-self-assessment-uncertainty-quantification-llms-2606.03846]]
+  ClusteredSelf-Assessment: Simple clustering-based self-assessment enabling LLMs to estimate their own uncertainty without external verification. Flags plausible-but-factually-incorrect responses via clustered representation analysis. Orthogonal to semantic entropy and conformal prediction approaches. First clustered self-assessment for LLM UQ in the wiki. Cross-ref: [[llms-uncertainty-quantification-via-adaptive-conformal-semantic-entropy-2605.04295]], [[itcr-inference-time-conformal-reasoning-with-valid-factuality-control-for-llms-2606.08831]].
+
+- [[role-ambiguity-error-prediction-uncertainty-quantification-2606.02093]]
+  AmbiguityErrorPrediction: Distinguishes epistemic vs aleatoric uncertainty in LLM error prediction — standard UQ conflates model ignorance with input ambiguity. Error prediction requires decomposing uncertainty sources, not just aggregate scores. First systematic analysis of ambiguity as a separate UQ axis for LLM evaluation in the wiki. Cross-ref: [[clustered-self-assessment-uncertainty-quantification-llms-2606.03846]], [[origins-of-stochasticity-comprehensive-investigations-on-uncertainty-quantification-for-llms-2606.22792]].
+
 **2026-07-01 — Run 257) — LONG-HORIZON PLANNING BENCHMARK / EVAL-SAFETY MEASUREMENT GAP / ETHICAL INSTRUCTION INTERNALIZATION**
 
 - [[sokobench-evaluating-long-horizon-planning-and-reasoning-in-large-language-models-2601.20856]]
