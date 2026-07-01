@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T00:00:00.000000+00:00",
   "__last_updated": "2026-07-02T00:00:00.000000+00:00",
-  "last_run": 261,
+  "last_run": 262,
   "last_explore": "2026-07-02T00:00:00.000000+00:00",
   "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "DENSE SUPERVISION BENCHMARKING / REFLECTION CALIBRATION / MULTI-TURN RED-TEAMING",
-  "last_framing": "training-free dense supervision eval / outcome-contrast calibration / objective multi-turn adversarial harm",
+  "last_run_framing": "SLM INFERENCE EFFICIENCY / CONTEXT ROT MITIGATION / COLLECTIVE GENAI EDUCATION IMPACT",
+  "last_framing": "small-model RAG benchmarking / context rot degradation / collective GenAI education impact",
   "last_run_notes": "Run 261: 2606.32034 / 2606.14211 / 2606.20408",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search via HF daily 2026-07-01 + 2026-06-30 + 2026-06-29",
+  "last_run_method": "HF daily 2026-07-01 + 2026-06-30 + 2026-06-29 via href pattern, 12 LLM-keyword-filtered, 10 FRESH after 5-store, 3 picked",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 796,
+  "entities_count": 799,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7771,6 +7771,30 @@
       "url": "https://arxiv.org/abs/2606.20408",
       "discovered": "2026-07-02T00:00:00+00:00",
       "theme": "LLM agents / safety / red-teaming / multi-agent / adversarial robustness / safety-critical systems"
+    },
+    {
+      "arxiv_id": "2606.30062",
+      "title": "Little Brains, Big Feats: Exploring Compact Language Models",
+      "slug": "little-brains-big-feats-exploring-compact-language-models-2606.30062",
+      "url": "https://arxiv.org/abs/2606.30062",
+      "discovered": "2026-07-02T00:00:00.000000+00:00",
+      "theme": "compact-models / on-device-RAG / inference-efficiency"
+    },
+    {
+      "arxiv_id": "2606.29718",
+      "title": "Diagnosing and Mitigating Context Rot in Long-horizon Search",
+      "slug": "diagnosing-and-mitigating-context-rot-in-long-horizon-search-2606.29718",
+      "url": "https://arxiv.org/abs/2606.29718",
+      "discovered": "2026-07-02T00:00:00.000000+00:00",
+      "theme": "context-rot / long-context-degradation / context-management"
+    },
+    {
+      "arxiv_id": "2606.27938",
+      "title": "Students using GenAI lag behind in problem-solving competence: an agent-based study of classroom networks",
+      "slug": "students-using-genai-lag-behind-in-problem-solving-competence-2606.27938",
+      "url": "https://arxiv.org/abs/2606.27938",
+      "discovered": "2026-07-02T00:00:00.000000+00:00",
+      "theme": "genai-impact / education / collective-competence-dynamics"
     }
   ],
   "emergent_discoveries": [
@@ -13772,6 +13796,30 @@
       "url": "https://arxiv.org/abs/2606.27595",
       "discovered": "2026-07-01T07:30:00.000000+00:00",
       "theme": "LLM agents / web agent benchmarking / breadth-first enumeration / Korean"
+    },
+    {
+      "arxiv_id": "2606.30062",
+      "title": "Little Brains, Big Feats: Exploring Compact Language Models",
+      "slug": "little-brains-big-feats-exploring-compact-language-models-2606.30062",
+      "url": "https://arxiv.org/abs/2606.30062",
+      "discovered": "2026-07-02T00:00:00.000000+00:00",
+      "theme": "compact-models / on-device-RAG / inference-efficiency"
+    },
+    {
+      "arxiv_id": "2606.29718",
+      "title": "Diagnosing and Mitigating Context Rot in Long-horizon Search",
+      "slug": "diagnosing-and-mitigating-context-rot-in-long-horizon-search-2606.29718",
+      "url": "https://arxiv.org/abs/2606.29718",
+      "discovered": "2026-07-02T00:00:00.000000+00:00",
+      "theme": "context-rot / long-context-degradation / context-management"
+    },
+    {
+      "arxiv_id": "2606.27938",
+      "title": "Students using GenAI lag behind in problem-solving competence: an agent-based study of classroom networks",
+      "slug": "students-using-genai-lag-behind-in-problem-solving-competence-2606.27938",
+      "url": "https://arxiv.org/abs/2606.27938",
+      "discovered": "2026-07-02T00:00:00.000000+00:00",
+      "theme": "genai-impact / education / collective-competence-dynamics"
     }
   ],
   "emergent_concept_search_log": [
@@ -17934,6 +17982,18 @@
         "2606.32032",
         "2606.29215",
         "2606.27595"
+      ]
+    },
+    {
+      "run": 262,
+      "date": "2026-07-02",
+      "theme": "SLM INFERENCE EFFICIENCY / CONTEXT ROT MITIGATION / COLLECTIVE GENAI EDUCATION IMPACT",
+      "framing": "small-model RAG benchmarking / context rot degradation / collective GenAI education impact",
+      "method": "HF daily href pattern, 12 LLM-keyword-filtered, 10 FRESH, 3 picked",
+      "papers": [
+        "2606.30062",
+        "2606.29718",
+        "2606.27938"
       ]
     }
   ],

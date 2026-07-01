@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-02 — Run 262) — SLM INFERENCE EFFICIENCY / CONTEXT ROT MITIGATION / COLLECTIVE GENAI EDUCATION IMPACT**
+
+- [[little-brains-big-feats-exploring-compact-language-models-2606.30062]]
+  Little Brains: First systematic SLM benchmarking in RAG generation stage — finds on-device RAG with small models runs without GPU hardware at reasonable time. Demonstrates SLM+RAG can match larger models on certain task types. Orthogonal to existing retrieval-stage and context-extension papers. Cross-ref: [[governance-decay-how-context-compaction-silently-erases-safety-constraints-in-long-horizon-llm-agents-2606.22528]], [[endprompt-efficient-long-context-extension-via-terminal-anchoring-2605.14589]], [[evoembedding-evolvable-representations-for-long-context-retrieval-and-agentic-memory-2606.21649]].
+
+- [[diagnosing-and-mitigating-context-rot-in-long-horizon-search-2606.29718]]
+  Context Rot: First systematic study of context rot in deep search scenarios — finds models increasingly give up or answer prematurely as context grows. Proposes context management (7 methods, 3 categories) + rot-aware rejection sampling as mitigations, combinable for additive gains. First explicit context-rot-as-degradation paper in the wiki. Cross-ref: [[governance-decay-how-context-compaction-silently-erases-safety-constraints-in-long-horizon-llm-agents-2606.22528]], [[plans-dont-persist-why-context-management-is-load-bearing-for-llm-agents-2606.22953]], [[randomized-yarn-improves-length-generalization-for-long-context-reasoning-2606.23687]].
+
+- [[students-using-genai-lag-behind-in-problem-solving-competence-2606.27938]]
+  GenAI Classroom: Agent-based model of GenAI's collective impact on classroom PSC dynamics — finds GenAI use diminishes competence development and widens lower-tier share. Collective outcomes perspective challenges individual-level GenAI learning studies. First agent-based social-systems analysis of GenAI education impact in the wiki. Cross-ref: [[why-multi-step-tool-use-reinforcement-learning-collapses-and-how-supervisory-signals-fix-it-2606.26027]], [[ask-dont-judge-binary-questions-for-interpretable-llm-evaluation-and-self-improvement-2606.27226]].
+
 **2026-07-02 — Run 261) — DENSE SUPERVISION BENCHMARKING / REFLECTION CALIBRATION / MULTI-TURN RED-TEAMING**
 
 - [[qval-cheaply-evaluating-dense-supervision-signals-for-long-horizon-llm-agents-2606.32034]]
