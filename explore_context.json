@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T12:30:00.000000+00:00",
   "__last_updated": "2026-07-01T12:30:00.000000+00:00",
-  "last_run": 270,
-  "last_explore": "2026-07-01T12:30:00.000000+00:00",
-  "last_global_explore": "2026-07-01T12:30:00.000000+00:00",
+  "last_run": 271,
+  "last_explore": "2026-07-01T12:45:00.000000+00:00",
+  "last_global_explore": "2026-07-01T12:45:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "PERSISTENT DECISION HISTORY / SELF-EVOLVING MULTI-AGENT DATA CONSTRUCTION / SPEECH SAFETY ACROSS LANGUAGES",
-  "last_framing": "persistent decision history / self-evolving data construction feedback loop / multilingual speech safety",
-  "last_run_notes": "Run 270: 2606.08671 / 2606.31537 / 2606.26968",
+  "last_run_framing": "COGNITION LAYER ARCHITECTURES / SELF-EVOLVING AGENT SAFETY / ANTICIPATORY MEMORY",
+  "last_framing": "cognition layer architectures / self-evolving agent safety / anticipatory memory",
+  "last_run_notes": "Run 271: 2606.23075 / 2606.15405 / 2606.12563",
   "last_pass_type": "emergent-concept",
   "last_run_method": "HF daily 3-date (99 papers, 40 fresh, 21 LLM, 3 orthogonal picks)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 823,
+  "entities_count": 826,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -14171,6 +14171,30 @@
       "url": "https://arxiv.org/abs/2606.29824",
       "discovered": "2026-07-01T12:00:00.000000+00:00",
       "theme": "agent memory / implicit activation steering / procedural knowledge encoding"
+    },
+    {
+      "arxiv_id": "2606.23075",
+      "title": "Safety in Self-Evolving LLM Agent Systems: Threats, Amplification, and Case Studies",
+      "slug": "safety-in-self-evolving-llm-agent-systems-threats-amplification-and-2606.23075",
+      "url": "https://arxiv.org/abs/2606.23075",
+      "discovered": "2026-07-01T12:45:00+00:00",
+      "theme": "self-evolving agent safety / adversarial amplification / MLAS matrix"
+    },
+    {
+      "arxiv_id": "2606.15405",
+      "title": "T-Mem: Memory That Anticipates, Not Archives",
+      "slug": "t-mem-memory-that-anticipates-not-archives-2606.15405",
+      "url": "https://arxiv.org/abs/2606.15405",
+      "discovered": "2026-07-01T12:45:00+00:00",
+      "theme": "anticipatory memory / reachability-bounded retrieval / long-term conversational memory"
+    },
+    {
+      "arxiv_id": "2606.12563",
+      "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+      "slug": "arbor-tree-search-as-a-cognition-layer-for-autonomous-agents-2606.12563",
+      "url": "https://arxiv.org/abs/2606.12563",
+      "discovered": "2026-07-01T12:45:00+00:00",
+      "theme": "tree search as cognition layer / multi-agent hypothesis evaluation / shared working memory"
     }
   ],
   "emergent_concept_search_log": [
@@ -18486,6 +18510,17 @@
       ],
       "method": "arxiv HTML search 8-query",
       "added": 3
+    },
+    {
+      "run": 271,
+      "timestamp": "2026-07-01T10:34:09+00:00",
+      "theme": "cognition layer architectures / self-evolving agent safety / anticipatory memory",
+      "picks": [
+        "2606.23075",
+        "2606.15405",
+        "2606.12563"
+      ],
+      "method": "arxiv HTML 8-query search + web_search refinement"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

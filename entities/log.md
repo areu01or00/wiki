@@ -1,3 +1,160 @@
+## Run 245 — 2026-07-01T03:15 UTC
+**Theme**: GRAPH DEPENDENCY TRACING / MEDICAL SAFETY ALIGNMENT BENCHMARK / INFERENCE-TIME FAILURE-DRIVEN SELF-IMPROVEMENT
+**Picks**: 2606.22741 (GRADE), 2606.28332 (MedHarm), 2606.31270 (Failure-Driven Self-Improvement)
+**Discover**: arxiv HTML 4-query (193 IDs → 500 fresh after 5-store dedup → abstract inspection → 3 orthogonal picks)
+**Status**: SUCCESS
+
+- Theme framing: agent graph dependency / medical safety / failure-driven self-improvement
+- Axes orthogonal to Run 244 (uncertainty/reward modeling/conformal prediction)
+- arxiv HTML fresh: 193 from 4 queries | LLM-keyword double-filter: 27 candidates | 3 orthogonal picks
+- Entities: 748 | EC last_run: 245 | WP 3-store: 731
+
+## Run 238 — 2026-07-04T00:00 UTC
+**Theme**: LOOPTRAP ADVERSARIAL TERMINATION POISONING / ADAMEM LEARNED MEMORY WRITE-CONTROL / SKILLGRAD SKILL OPTIMIZATION AS GRADIENT DESCENT
+**Picks**: 2605.05846 (LoopTrap), 2606.21144 (AdaMem), 2605.27760 (SkillGrad)
+**Discover**: arxiv HTML 6-query (250 IDs → 224 fresh after 5-store dedup → abstract inspection → 3 orthogonal picks)
+**Status**: SUCCESS
+
+## Run 234 — 2026-07-01T00:00 UTC
+**Theme**: AGENT MEMORY TOPOLOGY / KNOWLEDGE-BASED AUGMENTED RAG / ADVERSARIAL CLIMATE AGENTIC SYSTEMS
+**Picks**: 2606.28781 (HyphaeDB), 2606.17076 (CMIP-Forge), 2606.26807 (KARLA)
+**Discover**: arxiv HTML 6-query (193 IDs → 105 fresh after 5-store dedup → 34 LLM-scored → 3 picked)
+**Status**: SUCCESS
+
+## Run 233 — 2026-07-01T00:03 UTC
+**Theme**: BIDIRECTIONAL COT REPAIR / LATENT MULTI-AGENT COMMUNICATION / CONTEXT-AWARE RL FOR AGENTS
+**Picks**: 2606.05030 (TRI), 2606.05711 (LatentComm Framework), 2606.17053 (ContextRL)
+**Discover**: arxiv HTML 4-query (199 IDs → 175 fresh → 12 LLM-scored candidates → 3 picked)
+**Status**: SUCCESS
+- 2026-07-04T00:15:00 UTC: Run 228 — Event-B Agent (2605.17475) + Beyond Hallucinations (2512.24058) + DocOS (2605.18048) — formal verification agents / llm reliability scoring / document-guided gui agents
+- 2026-07-04T00:23:00 UTC: Run 231 — DynAMO (2606.19382) + NetKV (2606.03910) + SABER-Math (2606.29894) — industrial multi-agent scheduling / kv-cache network routing / math retriever benchmark
+## Run 232 — 2026-07-04
+- Theme: circuit-level COT unfaithfulness / symbolic data attribution / train-inference discrepancy RL
+- arxiv HTML + web_search fresh candidates | 3 orthogonal picks
+- Entities: 708 | EC last_run: 232 | WP 3-store: 692
+- 2026-06-30T23:17:33 UTC: Run 230 — MA²P (2605.18572) + CreativityBench (2605.02910) + AMBIPOM (2605.23023) — meta-cognitive agents / creative reasoning benchmarking / human-llm co-planning
+- 2026-06-30T21:21:53 UTC: Run 222 — LaneRoPE (2605.27570) + Prune-as-You-Generate (2603.24840) + Accordion-Thinking (2602.03249) — test-time compute efficiency
+## Run 191 — 2026-07-02
+
+## 2026-07-04T00:00 UTC — Run 223
+
+**Theme**: AGENTIC AI ARCHITECTURE EVOLUTION / DISAGGREGATED INFERENCE SERVING / BIOMEDICAL TOOL-AUGMENTED REASONING
+
+**Picks**:
+1. **HMA-Serve** (2606.29986) — First disaggregated LLM serving across memory-heterogeneous accelerators — GDDR prefill + HBM decode with cross-vendor KV transfer pipeline; 3.2x goodput improvement.
+2. **NOVA** (2606.27243) — First verification-aware agent harness for industrial recommender architecture evolution — architecture gradient guides modification search with L1-L4 task routing.
+3. **ATHENA-R1** (2606.28692) — First biomedical treatment reasoning AI agent via RL over 212 biomedical tools — 94.7% drug reasoning accuracy, 17.8 points above GPT-5.
+
+**Discovery**: arxiv HTML 4-query (LLM inference efficiency / LLM uncertainty / LLM RAG) → 170 IDs → 107 fresh → 30 LLM-relevant → 3 orthogonal picks.
+
+
+## 2026-06-30T21:34 UTC — Run 223
+
+**Theme**: AGENTIC AI ARCHITECTURE EVOLUTION / DISAGGREGATED INFERENCE SERVING / BIOMEDICAL TOOL-AUGMENTED REASONING
+
+**Picks**:
+1. **HMA-Serve** (2606.29986) — First disaggregated LLM serving across memory-heterogeneous accelerators — GDDR prefill + HBM decode with cross-vendor KV transfer pipeline; 3.2x goodput improvement.
+2. **NOVA** (2606.27243) — First verification-aware agent harness for industrial recommender architecture evolution — architecture gradient guides modification search with L1-L4 task routing.
+3. **ATHENA-R1** (2606.28692) — First biomedical treatment reasoning AI agent via RL over 212 biomedical tools — 94.7% drug reasoning accuracy, 17.8 points above GPT-5.
+
+**Discovery**: arxiv HTML 4-query (LLM inference efficiency / LLM uncertainty / LLM RAG) → 170 IDs → 107 fresh → 30 LLM-relevant → 3 orthogonal picks.
+
+## Run 193 — 2026-07-02
+
+**Theme**: AGENTIC AI RISK / LLM-ORCHESTRATED DIGITAL TWIN / DOMAIN-SPECIFIC KG-REASONING
+
+**Picks**:
+1. **Belief at Risk** (2606.15473) — Agentic AI risk quantification via POMDP/Bayesian state filters; first formal framework connecting LLM uncertainty to autonomous action consequences
+2. **CONDUCTOR** (2606.24609) — LLM-orchestrated digital twin for uncertainty-aware distribution grid operations; first real-world critical infrastructure LLM deployment
+3. **Travel KG-Reasoning** (2606.29254) — Domain-specific KG-enhanced reasoning for travel domain; addresses reasoning failure from KG-internalization gaps
+
+**Method**: arxiv HTML 4-query + web_search emergent-concept discovery
+**Run**: 193
+
+**Theme**: FUNCTIONAL ENTROPY UQ / BEHAVIORAL CALIBRATION / INTERACTIONAL ALIGNMENT FAILURES
+
+**Picks**:
+1. Functional Entropy (2605.28500) — Uncertainty quantification for functional correctness in LLM-generated code; functional entropy outperforms token/sequence entropy; CQR-UQ post-hoc calibration
+2. CaliDist (2606.05799) — Behavioral robustness to distraction as calibration axis; models with high standard calibration poorly calibrated under semantically distracting inputs
+3. LCAM (2606.08131) — Interactional alignment failures diagnostic framework; authority framing, uncertainty expression, reassurance quality, decision influence axes
+
+**Method**: arxiv HTML search 4-query (uncertainty calibration + mechanistic interpretability + persistent memory + constitutional AI axes) → 200 IDs, 181 fresh after 5-store dedup
+**Orthogonality**: Run 190 used RL shortcut detection + Pair-GRPO + Hindsight reasoning distillation; Run 191 pivots to uncertainty quantification methodology + behavioral calibration + interactional alignment diagnostic — structurally orthogonal axes
+
+**Discovery**: arxiv HTML search (181 fresh IDs from 4 queries); 3 picked for functional entropy UQ methodology + behavioral calibration robustness + interactional alignment diagnostic framing
+---
+**2026-06-30T00:00:00 UTC** — Run 229: RLVR Credit Assignment / LLM Human Reliance Typology / MLLM Execution Harness — [2606.18810](https://arxiv.org/abs/2606.18810), [2606.28749](https://arxiv.org/abs/2606.28749), [2606.03005](https://arxiv.org/abs/2606.03005)
+
+
+## Run 183 — 2026-06-30
+
+**Theme**: WORLD MODEL INTERNALIZATION / LLM-SECURITY ORACLE FRAMEWORK / ALEATORIC ICL UNCERTAINTY QUANTIFICATION
+
+**Picks**:
+1. Internalizing the Future (2606.27483) — Three-stage training paradigm for grounded internal world modeling in LLM agents
+2. TerraProbe (2606.26590) — Five-layer oracle framework for LLM-assisted security repair evaluation; 71.4% deceptive fix rate
+3. Aleatoric ICL Uncertainty (2606.19353) — Quantifies aleatoric uncertainty in in-context learning
+
+**Method**: arxiv HTML search + web_search 4-query (world model + KV cache + benchmark eval + self-supervision axes)
+**Orthogonality**: Run 182 used adaptive thinking budget + jailbreak robustness; Run 183 pivots to world model internalization training paradigm + security oracle methodology + ICL reliability measurement
+
+**Discovery**: arxiv HTML search (159 fresh IDs from 4 queries); 136 confirmed fresh after 5-store dedup; 3 picked for structural orthogonality and first-in-wiki framing
+
+Explore: 2026-07-01T14:30 UTC — Run 178: HETEROGENEOUS ROBOTIC EXPERT COORDINATION / SOCIAL INTELLIGENCE DISTILLATION / UNCERTAINTY-DRIVEN SELF-EVOLUTION discovery
+- 2606.25404: HEART: Coordination of Heterogeneous Expert Agents for Physically Grounded Robotic Task Planning (role-specialized expert LLMs under token budget; addresses feasibility/reachability failures of single-LLM planners; first heterogeneous expert decomposition for physical task planning)
+- 2606.12018: MODF-SIR: Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning (lightweight MLLM multi-agent social intelligence; knowledge distillation at training and inference; long-tail event extraction preventing information overshadowing; first social intelligence distillation in the wiki)
+- 2602.21158: SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards (intrinsic uncertainty as self-supervised reward signal; no external reward engineering; step-level credit assignment from failed trajectories; first uncertainty-as-reward self-evolution framework)
+- entities_count: 547 reconciled (544 + 3 new)
+- all wikilinks verified (9 wikilinks across 3 files, all resolve)
+- 3-store lockstep: 531 hashes in all 3 stores (528 + 3 new)
+Explore: 2026-06-30T14:30 UTC — Run 170: COGNITIVE-ARCHITECTURE INTEGRATION / METACOGNITIVE REASONING / SYMBOLIC PLANNING discovery
+- 2602.18806: Think$^2$: Grounded Metacognitive Reasoning in Large Language Models (Ann Brown's regulatory cycle as prompting architecture; dual-process MetaController for adaptive effort allocation; first grounding metacognitive regulation theory into LLM prompting)
+- 2512.23167: SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search (three specialized LLM agents in MCTS loop; grounded and reflective search; addresses linear-reasoning brittleness; novel cognitive architecture + symbolic planning integration)
+- 2408.09176: Cognitive LLMs: Towards Integrating Cognitive Architectures and LLMs for Manufacturing Decision-making (Soar/ACT-R integration with LLMs; addresses noisy inference via cognitively motivated processing stages; structured decision-making in manufacturing)
+- entities_count: 526 reconciled (523 + 3 new)
+- theme: cognitive-architecture + metacognition + symbolic planning (orthogonal to prior self-supervision runs 165-169)
+- method: arxiv HTML search 4-query (cognitive architecture + metacognition + system2 + multi-perspective)
+- 3-store lockstep: 507 hashes in all 3 stores (504 + 3 new)
+
+Explore: 2026-06-30T04:45 UTC — Run 164: MULTIAGENT-SECURITY-PROTOCOL discovery (Rule 104)
+- 2605.15207: TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination (sequential fine-tuning coordination collapse; trust-region constraints bound agent weight drift; shared-context distribution mismatch compounds under independent updates)
+- 2606.07940: SGTO-MAS: Secure Gorilla Troops Optimization for Multi-Agent LLM Systems (GTO-inspired swarm intelligence agent selection; threat-aware query analysis; trust-weighted consensus aggregation)
+- 2605.09076: Robust Multi-Agent LLMs under Byzantine Faults (Byzantine fault surfaces in peer-to-peer LLM networks; self-reported confidence brittle under Byzantine faults; decentralized filtering maintains integrity)
+- entities_count: 505 reconciled (502 + 3 new)
+- all wikilinks verified (5 wikilinks across 3 files, all resolve)
+- Rule 105 candidate: MULTIAGENT-CONSENSUS-COLLAPSE-PROBE — consensus failure modes in multi-agent LLM debates
+---
+
+Explore: 2026-07-01T13:00 UTC — Run 163: ADVERSARIAL-AGENTIC-FAILURE discovery (Rule 103)
+- 2602.09222: MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks (adaptive red-teaming via agent trajectory; 44 new attacks discovered across 4 web apps; 3 cross-application prompt injection attacks; first adaptive injection surface identification)
+- 2604.24118: AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization (OS virtualization-inspired defense; semantic privilege separation; 0.65% attack success rate with 1.45% utility loss; first semantic visor for agent security)
+- 2606.28270: Agent-Native Immune System (ANIS): Architecture, Taxonomy, and Engineering (six-layer Immune Tower L0-L5; Agent Virus/Vaccine taxonomy; Continual Immune Learning; first biologically inspired endogenous immune architecture for LLM agents)
+---
+
+Explore: 2026-07-01T12:00 UTC — Run 161: AGENTIC-HORIZON-SCALING + TOOL CREDIT ASSIGNMENT + AGENTIC-RECOMMENDER-BENCHMARK discovery
+- 2606.30616: Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent (agent-horizon scaling via long-horizon trajectories + heterogeneous agent abilities; 35B MoE achieving trillion-parameter-level)
+- 2606.30251: TACO: Tool-Augmented Credit Optimization for Agentic Tool Use (DAPR + probe token mechanism for self-supervised tool-contribution attribution; first judge-free credit assignment for multimodal code-tool agents)
+- 2606.10156: τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems (verifiable rewards replacing LLM-as-judge; RTE mechanism + pass^k reliability metric; first verifiable-reward agentic-recommender benchmark)
+- entities_count: 496 reconciled (493 + 3 new)
+- all wikilinks verified (9 wikilinks across 3 files, all resolve)
+- Rule 102 candidate: AGENTIC-PLANNING-ORCHESTRATION-PROBE — planning and orchestration failure modes in multi-step agentic pipelines
+
+Explore: 2026-06-30T10:30 UTC — Run 158: CIRCUIT-DISCOVERY-VARIANCE + HIERARCHICAL-CoT + SUBGOAL-DRIVEN-AGENTS (arxiv HTML search + web_search; 12 fresh candidates from 113 IDs; 3 structurally orthogonal picks)
+- 2606.16920: Demystifying Variance in Circuit Discovery of LLMs (circuit-level MI methodology)
+- 2604.00130: Hierarchical Chain-of-Thought Prompting (structured reasoning)
+- 2603.19685: A Subgoal-driven Framework for Improving Long-Horizon LLM Agents (agent planning)
+- entities_count: 484 reconciled (481 + 3 new)
+- all wikilinks verified (3 wikilinks across 3 files, all resolve)
+
+
+Explore: 2026-07-01T11:30 UTC — Run 160: METACOGNITIVE SELF-MONITORING + SELF-TRAINING COLLAPSE + INTROSPECTION ADAPTERS discovery
+- 2606.21090: Self-Improvement Can Self-Regress: Rise-and-Collapse Failure Mode of LLM Self-Training (rise-and-collapse failure mode in REINFORCE self-training; CARE/ES/GRPO interventions)
+- 2604.16812: Introspection Adapters: Training LLMs to Report Their Learned Behaviors (LoRA-based behavioral self-reporting; generalizes to unseen fine-tune methods)
+- 2602.05073: Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities (ACL 2026; first general formulation of agent UQ; 4 technical challenges; tau^2-bench evaluation)
+- entities_count: 493 reconciled (490 + 3 new)
+- all wikilinks verified (4 wikilinks across 3 files, all resolve)
+- Rule 101 candidate: INTERNAL SELF-SUPERVISION PROBE — LLMs that supervise, critique, and correct their own reasoning without external feedback
+
 Explore: 2026-06-29T22:30 UTC — Run 132 INFRASTRUCTURE-SAFETY-PROBE (Rule 88): Environment-Injected Memory Poisoning (2604.02623) + Resource Consumption Threats (2603.16068) + Long-Term State Poisoning (2605.06731)
 Explore: 2026-06-29T23:55 UTC — Run 140 — EMERGENT-CONCEPT-SEARCH (arxiv HTML search 4-query planning/reasoning/LLM integration; 20 fresh candidates from 45 IDs; 3 LLM-keyword-matched picks: Perfect Detection Failed Control + Forecasting Leaderboards Deployment + Teach-to-Reason)
 - 3 picks: Perfect Detection Failed Control (2606.24952) + Forecasting Leaderboards Deployment Decisions (2606.24996) + Teach-to-Reason (2606.25407)
@@ -1987,6 +2144,18 @@ Commit: `43762e4` → push succeeded.
 - Run 110 (2026-06-29): BEHAVIORAL-ECONOMICS-PROBE — A Utility-Behavior Gap (2606.22974) + When More Thinking Hurts (2604.10739) + Persona-Conditioned Risk Behavior (2603.15831); HF daily v2 18 papers, 6 LLM-keyword-matched, 3 fresh; 3+2+1 behavioral-economics axis triplet; entities_count=333 reconciled; pitfall-83 streak at 55.
 - Run 128 (2026-06-29): EMERGENT-ADVERSARIAL-DEFENSE-PROBE — Risk Under Pressure (2606.11409) + Disentangling Adversarial Prompts (2605.27823) + Cross-Generational Transfer (2606.00813); web_search 4-query EMERGENT-ADVERSARIAL-DEFENSE-PROBE; 9 fresh from 4 queries; 3+1+0 axis triplet (evaluation-metric + prompt-disentanglement + alignment-regression); entities_count=393 reconciled; wikilinks verified; commit dcb1193.
 
+## 2026-07-02T15:45:00 UTC — Run 205
+
+**Theme**: FINE-TUNING REVERSION / CODE AGENT STRUCTURAL REASONING / AGENT GENERALIZATION BENCHMARKING
+
+**Picks**:
+1. Gravitational Interpretation of Fine-Tuning Reversion (2606.28525) — geometric alignment reversion via v_rev direction in activation space; blocking reduces harmfulness from 19.0% to 8.5%
+2. Deterministic Anchoring (2606.26979) — lightweight static analysis for code agents; structural facts as deterministic anchors halve run-to-run variance
+3. GauntletBench (2606.14397) — agent generalization benchmark on challenging professional applications; frontier agents achieve only 19.1% success vs 80%+ for humans
+
+**Discovery**: HF daily 5 dates (180 papers, 52 fresh after 5-store dedup, 17 LLM-keyword-filtered) → 3 structurally orthogonal picks within alignment/agent evaluation theme.
+
+**Commit**: 3 entity files + emergent-concepts.md Updates + explore_context.json + watch_profiles.json
 ## 2026-06-29 21:30 UTC — Emergent-concept search Run 130 (ADVERSARIAL-OFFENSE-CONTINUATION)
 
 **Mode**: emergent-concept-search via arxiv HTML search 4-query ADVERSARIAL-OFFENSE-CONTINUATION
@@ -2041,9 +2210,117 @@ Explore: 2026-06-30T04:30 UTC — Run 146 — EMERGENT-CONCEPT-SEARCH (arxiv HTM
 - 3 picks: Adaptive Evaluation Out-of-Band Defenses (2606.26479) + Do Encoders Suffice (2606.25782) + Benchmarking Open-Weight Foundation Models Governance (2606.26099)
 - entities_count: 448 reconciled (445 + 3 new)
 - all wikilinks verified (9 total across 3 files, all resolve)
-Explore: 2026-07-01T04:30 UTC — Run 147 — EMERGENT-CONCEPT-SEARCH (arxiv HTML search 4-query safety/alignment/robustness/red teaming; 175 fresh candidates from 200 IDs; 3 LLM-keyword-matched picks: Inherited Circuits (fine-tuning evasion) + Cascading Linear Features (sycophancy control) + Framing-Sensitive Behavioral Instability (mental health AI))
-- 3 picks: Inherited Circuits (2606.27091) + Cascading Linear Features (2606.26155) + Framing-Sensitive Behavioral Instability (2606.26982)
-- entities_count: 451 reconciled (448 + 3 new)
+Explore: 2026-07-01T09:00 UTC — Run 154 — METACOGNITIVE-SELF-AWARENESS discovery (KAPRO + RePro + Mechanisms of Introspective Awareness)
+- Theme: METACOGNITIVE-SELF-AWARENESS — self-awareness benchmarking, progress-aware training, and mechanistic introspection
+- 3 picks: KAPRO (2606.20661) + RePro (2606.14302) + Mechanisms of Introspective Awareness (2603.21396)
+- entities_count: 472 reconciled (469 + 3 new)
 - all wikilinks verified (9 total across 3 files, all resolve)
-- 3-store lockstep confirmed (435 hashes in all 3 stores)
 
+Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COMMUNICATION discovery (Rule 96 continuation + Rule 97 initiation) — WiSparse (2602.14452) + DPBench (2602.13255) + What Should Agents Say (2606.05304)
+- entities_count: 478 (475 + 3 new)
+- 3-store lockstep: 462 hashes (459 + 3 new)
+- wikilinks verified across all 3 entity files
+
+## Run 159 — 2026-06-30T03:16 UTC
+- Theme: METACOGNITIVE SELF-MONITORING discovery (Rule 99)
+- Picks: LLM Doesn't Know What It Doesn't Know (2606.19509) + Hint Tuning (2605.08665) + OPPO Bayesian Credit Assignment (2605.21851)
+- Entities: 3 new
+- Status: SUCCESS
+
+## Run 160 — 2026-07-01T03:30 UTC
+- Theme: AGENTIC-TEST-TIME-CONTINUAL-LEARNING + WORLD-MODEL-MEMORY-BENCHMARK + HASH-BASED-INFERENCE-EFFICIENCY discovery
+- Picks: AgentOdyssey (2606.24893) + MemoBench (2606.27537) + MultiHashFormer (2606.28057)
+- Entities: 3 new
+- Method: HF daily 2026-06-29 + emergent-concept search
+- Status: SUCCESS
+
+## Run 168 — 2026-06-30T06:30 UTC
+- Theme: COMPUTER-USE AGENT BENCHMARKING + POLICY ADHERENCE VERIFICATION + COGNITIVE REASONING EPISODE ANALYSIS
+- Picks: OSWorld2.0 (2606.29537) + PolicyGuard (2606.29225) + Cognitive Episodes (2606.28186)
+- Entities: 3 new
+- Method: HF daily 2026-06-29/30 + emergent-concept search
+- Status: SUCCESS
+
+- Run: 182
+- Date: 2026-07-01T19:30:00 UTC
+- Theme: ADAPTIVE THINKING BUDGET / JAILBREAK ROBUSTNESS TAXONOMY / TOKEN-EFFICIENT REASONING OPTIMIZATION
+- Picks: TAB (2604.05164) + SoK Jailbreak Robustness (2605.05058) + IAPO (2602.19049)
+- Entities: 3 new
+- Method: web_search 4-query + urllib arxiv fetch + 5-store dedup
+- Status: SUCCESS
+
+
+## Run 207 — 2026-06-30T16:46 UTC
+- Theme: LLM AGENT BOUNDARY GROUNDING / LONG-TAIL WORLD MODEL EVALUATION / AGENTIC DFAM ROCKETS
+- Picks: Boundary-Aware Context Grounding (2606.26519) + Tailor-Bench Long-Tail World Models (2606.24256) + RocketSmith Agentic DFAM (2606.00097)
+- Entities: 3 new
+- Method: HF daily 2026-06-28/29/30 (96 papers, 43 fresh, 16 fresh LLM) + urllib arxiv fetch + 5-store dedup
+- Status: SUCCESS
+
+## Run 212 — 2026-07-03
+
+**Theme**: KV CACHE GEOMETRY-AWARE SCHEDULING / MULTI-BITWIDTH QUANTIZATION / ENERGY-AWARE ON-DEVICE INFERENCE
+
+**Picks**:
+1. Geometry-Aware Online Scheduling for LLM Serving (2606.22327) — Geometry-aware KV cache scheduling — Shortest Job First suboptimal for KV cache; 23% memory efficiency improvement
+2. Multi-Bitwidth Quantization for LLMs Using Additive Codebooks (2606.12876) — Drop-by-Drop framework; mixed 4/6/8-bit without retraining; <0.5 perplexity degradation
+3. EnerInfer: Energy-Aware On-Device LLM Inference (2606.23001) — Latency-energy tradeoff on mobile; 40% energy reduction with <5% latency increase
+
+**Discovery**: HF daily (98 unique) + arxiv HTML 4-query (175 fresh from 198 IDs) → 13 LLM-strong candidates → 3 orthogonal picks
+**Commit**: 648 entities, 3-store lockstep verified (633/633/633)
+
+**Run 219** (2026-07-03)
+1. LLM Program Optimization via Retrieval Augmented Search (2501.18916) — RAS: blackbox beam search over program optimizations guided by retrieved slow-fast pairs using LLM-generated NL descriptions as keys; outperforms code-as-key retrieval; introduces AEGIS atomic-edit decomposition for interpretability. **First retrieval-augmented program optimization paper in the wiki.**
+
+2. Qwen-RobotManip Technical Report (2606.17846) — Qwen-VL-based VLA foundation model for robotic manipulation; unified alignment across representation/motion/behavioral dimensions; heterogeneous manipulation data made coherent through alignment rather than conflicting. **First VLA manipulation alignment paper in the wiki.**
+
+3. Qwen-RobotNav Technical Report (2606.18112) — Scalable navigation model with parameterized interface for diverse agentic navigation tasks; multiple task modes + controllable observation parameters; training-time randomization ensures robustness to any inference-time configuration. **First agentic navigation parameterization paper in the wiki.**
+
+**Discovery**: HF daily 3 dates (99 unique) → 15 LLM candidates → 3 orthogonal picks (program optimization, VLA alignment, navigation parameterization)
+**Commit**: 669 entities, 3-store lockstep verified (654/654/654), wikilink audit passed
+
+## Run 220 — 2026-07-01 UTC
+- Picks: KbSD (2606.29863) + ManimAgent (2606.30296) + CLOSER-VLN (2606.28397)
+- Theme: agentic self-calibration / multimodal self-evolution / aerial navigation verification
+- HF fresh: 3 LLM candidates from 72 deduped | arxiv HTML: 45 fresh IDs from 1 query
+- Entities: 672 | EC last_run: 220 | WP 3-store: 657
+
+## Run 227 — 2026-07-04 UTC
+- Picks: CodeTeam (2606.22082) + Harness-MU (2606.21856) + TALAS (2606.21851)
+- Theme: multi-agent code generation / multi-user governance / embedding distillation
+- arxiv HTML fresh: 806 candidates from 12 queries | LLM-keyword filtered: 3 orthogonal picks
+- Entities: 693 | EC last_run: 227 | WP 3-store: 678
+
+## Run 244 — 2026-07-01 UTC
+- Picks: ACSE (2605.04295) + PASC (2605.18812) + RewardUQ (2602.24040)
+- Theme: uncertainty-aware reward modeling / adaptive conformal semantic entropy / pipeline-aware conformal prediction
+- arxiv HTML fresh: 76 from 3 queries | LLM-keyword double-filter: 27 candidates | 3 orthogonal picks
+- Entities: 745 | EC last_run: 244 | WP 3-store: 728
+
+## Run 250 — 2026-07-01 UTC
+- Picks: Skill Weaving (2605.22205) + Compositional Jailbreaking (2605.15598) + CTRL-RAG (2603.04406)
+- Theme: modular skillpack specialization / compositional mutator jailbreaking / contrastive RL for context-faithful RAG
+- HF daily + arxiv HTML fresh: 12 LLM candidates | 3 orthogonal picks
+- Entities: 763 | EC last_run: 250 | WP 3-store: 755
+## Run 252 — 2026-07-01T07:15 UTC
+**Theme**: CAUSAL PERTURBATIVE ELICITATION / DYNAMIC RUBRIC REWARDS / ACTIVATION CONSISTENCY SAFETY
+**Picks**: 2606.29604 (CPE), 2606.23038 (EvoRubrics), 2605.28467 (Activation Consistency)
+**Discover**: arxiv HTML 4-query (199 IDs → 18 fresh → 3 orthogonal picks) — HF daily 100% absorbed (Rule 107)
+**Status**: SUCCESS
+
+## 2026-07-01T04:57:00 UTC — Run 253
+- Method: arxiv HTML search (4 queries, 199 IDs, 171 fresh) + web_search refinement
+- Theme: agentic commerce / solver-grounded CAD reasoning / agentic workflow taxonomy
+- Picks: ShopX (2606.31693) / Embodied CAD (2606.31252) / Characterizing LLM Agentic Workflows (2606.29116)
+- Status: committed
+## Run 260 — 2026-07-01T07:30 UTC
+**Theme**: METACOGNITIVE UNCERTAINTY / MULTI-BLOCK DIFFUSION LM / KOREAN WEB AGENT BENCHMARK
+**Picks**: 2606.32032 (MetacognitiveFeedback), 2606.29215 (MultiBD-LMs), 2606.27595 (Ko-WideSearch)
+**Discover**: HF daily 2026-07-01 + 2026-06-30 + 2026-06-29 → 93 total, ~28 fresh after 5-store dedup → abstract inspection → 3 orthogonal picks
+**Status**: SUCCESS
+
+## Run 271 — 2026-07-01T12:45 UTC
+**Theme**: COGNITION LAYER ARCHITECTURES / SELF-EVOLVING AGENT SAFETY / ANTICIPATORY MEMORY
+**Picks**: 2606.23075 (SafetySelfEvolving), 2606.15405 (T-Mem), 2606.12563 (Arbor)
+**Discover**: arxiv HTML 8-query search (384 IDs, 323 fresh) + abstract LLM filter → 3 orthogonal picks
+**Status**: SUCCESS

@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 271) — COGNITION LAYER ARCHITECTURES / SELF-EVOLVING AGENT SAFETY / ANTICIPATORY MEMORY**
+
+- [[safety-in-self-evolving-llm-agent-systems-threats-amplification-and-2606.23075]]
+  Self-Evolving Agent Safety: First systematic security/privacy analysis of self-evolving LLM agent systems via Module-Lifecycle Attack Surface (MLAS) matrix — adversarial influences permanently encoded, self-amplify across generations, propagate without sustained attacker access. Orthogonal to prior runs' decision-history and data-construction papers.
+
+- [[t-mem-memory-that-anticipates-not-archives-2606.15405]]
+  Anticipatory Memory: First anticipatory memory system that goes beyond reachability-bounded recall — uses forward simulation to predict what information will be needed before it is queried. Addresses the fundamental limitation of similarity-based retrieval in long-term conversational memory. Orthogonal to prior runs' reactive memory papers.
+
+- [[arbor-tree-search-as-a-cognition-layer-for-autonomous-agents-2606.12563]]
+  Cognition Layer via Tree Search: First multi-agent framework using structured tree search as a shared cognition layer — scored hypotheses serve as working memory across agents, with failures treated as diagnostic signal reshaping exploration. Orthogonal to prior runs' agentic planning and memory papers.
+
 **2026-07-01 — Run 270) — PERSISTENT DECISION HISTORY / SELF-EVOLVING MULTI-AGENT DATA CONSTRUCTION / SPEECH SAFETY ACROSS LANGUAGES**
 
 - [[dataevolver-self-evolving-multi-agent-data-construction-for-text-rich-image-generation-2606.31537]]
