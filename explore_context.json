@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T03:15:00.000000+00:00",
   "__last_updated": "2026-07-01T03:15:04.367796+00:00",
-  "last_run": 246,
+  "last_run": 247,
   "last_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "uncertainty quantification / conformal prediction / pipeline / reward modeling",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 751,
+  "entities_count": 754,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7426,6 +7426,30 @@
       "url": "https://arxiv.org/abs/2606.29933",
       "discovered": "2026-07-01T03:30:00.000000+00:00",
       "theme": "alignment theory / phase transitions / training dynamics / thermodynamic analogy"
+    },
+    {
+      "arxiv_id": "2606.20853",
+      "title": "ReSequel: Robust LLM-assisted Query Rewriting and Optimization using Templatization and Sampling",
+      "slug": "requel-robust-llm-assisted-query-rewriting-and-optimization-2606.20853",
+      "url": "https://arxiv.org/abs/2606.20853",
+      "discovered": "2026-07-01T03:29:08.731615Z",
+      "theme": "LLM SQL query rewriting / DB optimization"
+    },
+    {
+      "arxiv_id": "2606.18502",
+      "title": "Towards Scalable Customization and Deployment of Multi-Agent Systems for Enterprise Applications",
+      "slug": "towards-scalable-customization-and-deployment-of-multi-agent-systems-2606.18502",
+      "url": "https://arxiv.org/abs/2606.18502",
+      "discovered": "2026-07-01T03:29:08.731638Z",
+      "theme": "multi-agent enterprise deployment / inference optimization"
+    },
+    {
+      "arxiv_id": "2606.17798",
+      "title": "LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams",
+      "slug": "livestarpro-proactive-streaming-video-understanding-2606.17798",
+      "url": "https://arxiv.org/abs/2606.17798",
+      "discovered": "2026-07-01T03:29:08.731641Z",
+      "theme": "streaming video-LLM / hierarchical memory"
     }
   ],
   "emergent_discoveries": [
@@ -13091,6 +13115,30 @@
       "url": "https://arxiv.org/abs/2606.29933",
       "discovered": "2026-07-01T03:30:00.000000+00:00",
       "theme": "alignment theory / phase transitions / training dynamics / thermodynamic analogy"
+    },
+    {
+      "arxiv_id": "2606.20853",
+      "title": "ReSequel: Robust LLM-assisted Query Rewriting and Optimization using Templatization and Sampling",
+      "slug": "requel-robust-llm-assisted-query-rewriting-and-optimization-2606.20853",
+      "url": "https://arxiv.org/abs/2606.20853",
+      "discovered": "2026-07-01T03:29:08.731644Z",
+      "theme": "LLM SQL query rewriting / DB optimization"
+    },
+    {
+      "arxiv_id": "2606.18502",
+      "title": "Towards Scalable Customization and Deployment of Multi-Agent Systems for Enterprise Applications",
+      "slug": "towards-scalable-customization-and-deployment-of-multi-agent-systems-2606.18502",
+      "url": "https://arxiv.org/abs/2606.18502",
+      "discovered": "2026-07-01T03:29:08.731646Z",
+      "theme": "multi-agent enterprise deployment / inference optimization"
+    },
+    {
+      "arxiv_id": "2606.17798",
+      "title": "LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams",
+      "slug": "livestarpro-proactive-streaming-video-understanding-2606.17798",
+      "url": "https://arxiv.org/abs/2606.17798",
+      "discovered": "2026-07-01T03:29:08.731649Z",
+      "theme": "streaming video-LLM / hierarchical memory"
     }
   ],
   "emergent_concept_search_log": [
@@ -19564,6 +19612,16 @@
       "theme": "non-conversational ToM / RLVR token filtering / thermodynamic alignment dynamics",
       "vector": "emergent-concept",
       "method": "arxiv HTML search + LLM double-filter"
+    },
+    {
+      "run_number": 247,
+      "theme": "LLM SQL query rewriting / multi-agent enterprise deployment / streaming video-LLM with hierarchical memory",
+      "date": "2026-07-01",
+      "papers": [
+        "2606.20853",
+        "2606.18502",
+        "2606.17798"
+      ]
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 247) — LLM SQL QUERY REWRITING / MULTI-AGENT ENTERPRISE DEPLOYMENT / STREAMING VIDEO-LLM WITH HIERARCHICAL MEMORY**
+
+- [[requel-robust-llm-assisted-query-rewriting-and-optimization-2606.20853]]
+  ReSequel: Robust LLM-assisted Query Rewriting and Optimization: ReSequel is an outer optimization layer on top of existing DBMSs that rewrites SQL queries using LLMs. Leveraging catalog and statistical metadata to infer template-specific rules, it generates, verifies, and ranks rewritten query variants on sampled data for correctness guarantees. Achieves workload-level speedups up to 16x over native DBMSs and 22x over prior LLM-based systems. Published June 2026. **First LLM-guided query templatization with metadata-driven verification in the wiki.**
+
+- [[towards-scalable-customization-and-deployment-of-multi-agent-systems-2606.18502]]
+  Scalable Multi-Agent Enterprise Deployment: Unified framework for customization and efficient deployment of multi-agent LLM systems in enterprise settings. Combines continual pretraining + SFT + preference optimization (Agentic Model Customization) with speculative decoding + FP8 quantization (Inference Optimization). Achieves 4.48x throughput improvement while maintaining performance. Published June 2026. **First systematic framework addressing both domain adaptation AND inference efficiency for multi-agent LLM systems.**
+
+- [[livestarpro-proactive-streaming-video-understanding-2606.17798]]
+  LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory: LiveStarPro addresses three simultaneous challenges in Video-LLM streaming: real-time processing, autonomous response timing, and long-horizon contextual memory preservation. Key innovations: Streaming Verification Decoding (SVeD), Streaming Causal Attention Masks (SCAM), and Tree-Structured Hierarchical Memory (TSHM). Achieves 28.9% improvement in semantic correctness and 18.2% reduction in timing error. Published June 2026. **First tree-structured hierarchical memory for unbounded video stream context in the wiki.**
 **2026-07-01 — Run 246) — NON-CONVERSATIONAL TOM / RSI ADAPTIVE TOKEN SELECTION / ALIGNMENT DYNAMICS VIA CRYSTALLIZATION**
 
 - [[ncp-tom-non-conversational-planning-theory-of-mind-2606.31916]]
