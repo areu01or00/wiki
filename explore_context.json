@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T19:15:00.000000+00:00",
   "__last_updated": "2026-07-01T20:00:00.000000+00:00",
-  "last_run": 301,
-  "last_explore": "2026-07-01T21:00:00.000000+00:00",
+  "last_run": 302,
+  "last_explore": "2026-07-01T19:44:23.791123+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
-  "last_discovery": "REASONING EFFICIENCY / TOKEN SIGNIFICANCE / REASONING STRUCTURE",
-  "last_run_framing": "REASONING EFFICIENCY / TOKEN SIGNIFICANCE / REASONING STRUCTURE",
+  "last_discovery": "CALIBRATION / UNCERTAINTY QUANTIFICATION / POST-DEPLOYMENT MONITORING",
+  "last_run_framing": "CALIBRATION / UNCERTAINTY QUANTIFICATION / POST-DEPLOYMENT MONITORING",
   "last_framing": "DIVERSITYAGENTDIFFUSION",
   "last_run_notes": "Run 298: 2606.28425, 2606.29399, 2605.00419",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "Rule 36h PROBE-AXIS: reasoning efficiency + token efficiency + reasoning structure",
+  "last_run_method": "Rule 36h PROBE-AXIS: calibration + uncertainty + post-deployment monitoring",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "instruction-tuning + RLHF + agent-evaluation",
   "chains_updated": 0,
-  "entities_count": 916,
+  "entities_count": 919,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -2053,6 +2053,36 @@
     }
   },
   "emergent_concept_papers": [
+    {
+      "arxiv_id": "2606.19868",
+      "slug": "a-systematic-evaluation-of-black-box-uncertainty-estimation-methods-for-large-language-models-2606.19868",
+      "title": "A Systematic Evaluation of Black-Box Uncertainty Estimation Methods for Large Language Models",
+      "url": "https://arxiv.org/abs/2606.19868",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T21:30:00+00:00",
+      "theme": "black-box-uncertainty-estimation / systematic-evaluation / hallucination-detection",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31371",
+      "slug": "calibrating-the-evaluator-does-probability-calibration-mitigate-preference-coupling-in-llm-agent-feedback-loops-2606.31371",
+      "title": "Calibrating the Evaluator: Does Probability Calibration Mitigate Preference Coupling in LLM Agent Feedback Loops?",
+      "url": "https://arxiv.org/abs/2606.31371",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T21:30:00+00:00",
+      "theme": "probability-calibration / evaluator-calibration / preference-coupling / agent-feedback-loops",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.07624",
+      "slug": "sequential-statistical-inference-for-large-language-models-representation-validity-and-monitoring-2606.07624",
+      "title": "Sequential statistical inference for Large Language Models: Representation, validity, and monitoring",
+      "url": "https://arxiv.org/abs/2606.07624",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T21:30:00+00:00",
+      "theme": "sequential-statistical-inference / post-deployment-LLM-monitoring / adaptive-system-properties",
+      "chain": "emergent-concepts"
+    },
     {
       "arxiv_id": "2606.08671",
       "slug": "skillhone-a-harness-for-continual-agent-skill-evolution-through-persistent-decision-history-2606.08671",
@@ -8797,6 +8827,30 @@
     }
   ],
   "emergent_discoveries": [
+    {
+      "arxiv_id": "2606.19868",
+      "title": "A Systematic Evaluation of Black-Box Uncertainty Estimation Methods for Large Language Models",
+      "slug": "a-systematic-evaluation-of-black-box-uncertainty-estimation-methods-for-large-language-models-2606.19868",
+      "url": "https://arxiv.org/abs/2606.19868",
+      "discovered": "2026-07-01T21:30:00+00:00",
+      "theme": "black-box-uncertainty-estimation / systematic-evaluation / hallucination-detection"
+    },
+    {
+      "arxiv_id": "2606.31371",
+      "title": "Calibrating the Evaluator: Does Probability Calibration Mitigate Preference Coupling in LLM Agent Feedback Loops?",
+      "slug": "calibrating-the-evaluator-does-probability-calibration-mitigate-preference-coupling-in-llm-agent-feedback-loops-2606.31371",
+      "url": "https://arxiv.org/abs/2606.31371",
+      "discovered": "2026-07-01T21:30:00+00:00",
+      "theme": "probability-calibration / evaluator-calibration / preference-coupling / agent-feedback-loops"
+    },
+    {
+      "arxiv_id": "2606.07624",
+      "title": "Sequential statistical inference for Large Language Models: Representation, validity, and monitoring",
+      "slug": "sequential-statistical-inference-for-large-language-models-representation-validity-and-monitoring-2606.07624",
+      "url": "https://arxiv.org/abs/2606.07624",
+      "discovered": "2026-07-01T21:30:00+00:00",
+      "theme": "sequential-statistical-inference / post-deployment-LLM-monitoring / adaptive-system-properties"
+    },
     {
       "arxiv_id": "2606.19356",
       "title": "Trustworthy Multi-Agent Systems: Mitigating Semantic Drift with the Argent Signaling Protocol",
@@ -20373,6 +20427,22 @@
       ],
       "theme": "reasoning-efficiency-token-significance-reasoning-structure",
       "method": "Rule 36h PROBE-AXIS: reasoning efficiency + token efficiency + reasoning structure"
+    },
+    {
+      "run_number": 302,
+      "date": "2026-07-01T19:44:23.791101+00:00",
+      "papers_added": 3,
+      "papers": [
+        "2606.07624",
+        "2606.31371",
+        "2606.19868"
+      ],
+      "theme": "CALIBRATION / UNCERTAINTY QUANTIFICATION / POST-DEPLOYMENT MONITORING (Rule 36h PROBE-AXIS)",
+      "run_method": "Rule 36h PROBE-AXIS: calibration + uncertainty + post-deployment monitoring (HF CV/3D-heavy escape hatch via web_search)",
+      "last_run_framing": "CALIBRATION / UNCERTAINTY QUANTIFICATION / POST-DEPLOYMENT MONITORING",
+      "emergent_concept_search_runs": 1,
+      "vector": "emergent_concept_search",
+      "notes": "HF pool CV/3D-heavy \u2192 Rule 15d escape hatch \u2192 web_search calibration/uncertainty/ICL \u2192 3 fresh picks; all 3 structurally orthogonal to Runs 289-301 cluster on self-improvement/strategy-memory"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
