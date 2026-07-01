@@ -1737,7 +1737,10 @@
         "b4a045063109e51a2a642f0d905fd890",
         "ee885b93c3c554856fef81ac682cc295",
         "a2bb698f5eb25e7f230461eb02023c6b",
-        "f2998b56eadc3256cd3d60968fcc149f"
+        "f2998b56eadc3256cd3d60968fcc149f",
+        "77d4b231a219f97c06f37f422117142f",
+        "33b8aec1842d1d29cafb8b2e8949c796",
+        "7cc52f54363698382a8807214ba87a53"
       ],
       "last_results": [
         {
@@ -6029,6 +6032,33 @@
           "chain": "emergent-concepts",
           "theme": "agent memory / implicit activation steering / procedural knowledge encoding",
           "discovered": "2026-07-01T12:00:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2606.29932",
+          "title": "SAGA: Scene-Aware, Goal-Evolving Agents for Long-Horizon CivRealm Strategy Planning",
+          "hash": "77d4b231a219f97c06f37f422117142f",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent planning / scene-awareness / strategy games / long-horizon reasoning",
+          "discovered": "2026-07-01T11:07:00.25+00:00"
+        },
+        {
+          "arxiv_id": "2606.29776",
+          "title": "Towards Generalizable and Evidential NMR-Based Molecular Structure Elucidation via Large Language Model Agent",
+          "hash": "33b8aec1842d1d29cafb8b2e8949c796",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "scientific LLM agent / NMR spectroscopy / evidence-grounded reasoning / molecular discovery",
+          "discovered": "2026-07-01T11:07:00.25+00:00"
+        },
+        {
+          "arxiv_id": "2606.27180",
+          "title": "Automating Potential-based Reward Shaping with Vision Language Model Guidance",
+          "hash": "7cc52f54363698382a8807214ba87a53",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "RL reward shaping / VLM guidance / potential-based functions / sparse reward optimization",
+          "discovered": "2026-07-01T11:07:00.25+00:00"
         }
       ],
       "last_run": "2026-07-02 00:00 UTC",
@@ -6904,7 +6934,10 @@
     "b4a045063109e51a2a642f0d905fd890",
     "ee885b93c3c554856fef81ac682cc295",
     "a2bb698f5eb25e7f230461eb02023c6b",
-    "f2998b56eadc3256cd3d60968fcc149f"
+    "f2998b56eadc3256cd3d60968fcc149f",
+    "77d4b231a219f97c06f37f422117142f",
+    "33b8aec1842d1d29cafb8b2e8949c796",
+    "7cc52f54363698382a8807214ba87a53"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -7741,7 +7774,10 @@
       "b4a045063109e51a2a642f0d905fd890",
       "ee885b93c3c554856fef81ac682cc295",
       "a2bb698f5eb25e7f230461eb02023c6b",
-      "f2998b56eadc3256cd3d60968fcc149f"
+      "f2998b56eadc3256cd3d60968fcc149f",
+      "77d4b231a219f97c06f37f422117142f",
+      "33b8aec1842d1d29cafb8b2e8949c796",
+      "7cc52f54363698382a8807214ba87a53"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "2026-07-02 00:00 UTC",

@@ -25,4 +25,4 @@ VLM-PBRS automates the design of potential functions for potential-based reward 
 
 ## Related Papers
 - [[renio-reweighting-negative-trajectory-importance-for-llm-on-policy-distillation-2606.23104]] — ReNIO: on-policy distillation with negative trajectory importance (RL training pipeline, complementary PBRS addresses early exploration)
-- [[self-improvement-can-self-regress-2606.21090]] — Self-Improvement Can Self-Regress: RL collapse failure modes (RL training instability context)
+- [[self-improvement-can-self-regress-rise-and-collapse-llm-self-training-2606.21090]] — Self-Improvement Can Self-Regress: RL collapse failure modes (RL training instability context)

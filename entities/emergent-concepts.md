@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 273) — SCENE-AWARE AGENT PLANNING / RL REWARD SHAPING / SCIENTIFIC EVIDENTIAL AGENTS**
+
+- [[saga-scene-aware-goal-evolving-agents-long-horizon-civrealm-strategy-planning-2606.29932]]
+  SAGA: Scene-aware, goal-evolving agents for long-horizon CivRealm strategy planning — Map-Semantic Scene Graph + RL scene encoding, goal-evolving hierarchical planning, cross-game generalization. **First map-semantic scene graph encoding for LLM strategy agents in wiki.**
+- [[potential-based-reward-shaping-vlm-guidance-2606.27180]]
+  VLM-PBRS: Automating potential-based reward shaping via VLM guidance — solves sparse reward exploration without reward hacking. PBRS guarantees policy optimality preservation. **First automated PBRS via VLM in wiki.**
+- [[evidential-nmr-molecular-structure-llm-agent-2606.29776]]
+  NMRAgent: Evidential reasoning LLM agent for NMR molecular structure elucidation — combines database retrieval depth with de novo generation interpretability. **First scientific evidential reasoning agent for NMR spectroscopy in wiki.**
+
+
 **2026-07-01 — Run 272) — LOGICAL FALLACY ROBUSTNESS / DIFFUSION LLM SELF-DISTILLATION / KV-CACHE TRAINABILITY**
 
 - [[truth-or-sophistry-lofa-a-benchmark-for-llm-robustness-again-2606.31039]]

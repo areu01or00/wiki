@@ -25,4 +25,4 @@ NMRAgent addresses the trade-off between database retrieval (cannot identify nov
 
 ## Related Papers
 - [[verievol-scaling-multimodal-mathematical-reasoning-via-verifiable-evol-instruct-2606.23543]] — VeriEvol: verifiable multimodal reasoning via Evol-Instruct (complementary verification reasoning framework)
-- [[llm-guided-planning-multi-hop-reasoning-multimodal-nuclear-documents-2606.29399]] — LLM-guided multi-hop planning over multimodal regulatory documents (same multi-hop planning theme, different domain)
+- [[athena-r1-an-ai-agent-for-treatment-reasoning-over-a-biomedical-tool-universe-2606.28692]] — Athena-R1: biomedical tool-universe agent for treatment reasoning (parallel evidential agent framework, different scientific domain)
