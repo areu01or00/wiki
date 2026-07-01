@@ -29,6 +29,8 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - [[flow-reasoning-models-scaling-reasoning-iterative-self-refinement-2606.29150]]
   Flow Reasoning Models: Scaling Reasoning Through Iterative Self-Refinement — Helbling, Alec; Bryutkin, Andrey; Martino, Mauro + 2 — applies discrete flow matching to structured reasoning (Sudoku, Zebra puzzles), framing reasoning as iterative state refinement with self-conditioning for mid-flow constraint violation detection. **First discrete flow model applied to structured reasoning self-refinement in wiki.**
 
+
+
 ### 2026-07-01 — Run 288: Agent Procedural Memory / Multi-Teacher On-Policy Distillation / Lexical Grounding
 
 - [[mopd-multi-teacher-on-policy-distillation-for-capability-integration-in-llm-post-training-2606.30406]]
@@ -39,6 +41,18 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 
 - [[lexical-consensus-grounded-word-learning-and-shared-meaning-in-artificial-agents-2606.22207]]
   Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents — Vera, Patricio M. — benchmark for whether agents can acquire, stabilize, and negotiate shared lexical meanings through grounded interaction with human partners. **First lexical-consensus / grounded-word-learning benchmark in wiki.**
+
+
+### 2026-07-01 — Run 290: Scientific Review Agent / Autoformalization Robustness / Zero-Shot VLA Transfer
+
+- [[towards-automating-scientific-review-with-googles-paper-assistant-tool-2606.28277]]
+  Towards Automating Scientific Review with Google's Paper Assistant Tool — Jayaram, Rajesh; Tyler, Drew; Woodruff, David + 4 — AI agent deployed as scientific peer reviewer to address the systemic bottleneck of human review at AI-accelerated publication volume. **First AI-agent scientific peer reviewer in wiki.**
+
+- [[object-centric-residual-rl-for-zero-shot-sim-to-real-vla-enhancement-2606.18953]]
+  Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement — Kim, Kinam; Saito, Namiko; Kim, Heecheol + 3 — object-centric residual RL trained in simulation distills zero-shot real-robot transfer into VLA models without real-world fine-tuning. **First object-centric residual RL for zero-shot VLA sim-to-real transfer in wiki.**
+
+- [[evaluating-the-robustness-of-proof-autoformalization-in-lean-4-2606.14867]]
+  Evaluating the Robustness of Proof Autoformalization in Lean 4 — Gui, Zhengtao; Yang, Sheng; Shi, Zhouxing — benchmark for LLM proof autoformalization robustness on noisy real-world informal proofs vs curated clean datasets, revealing systematic brittleness under domain shift. **First robustness benchmark for proof autoformalization under informal proof noise in wiki.**
 
 ### 2026-07-01 — Run 287: Embodied Agent Skill Memory / Human Routine Navigation / Self-Directed APR Debugging
 
