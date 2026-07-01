@@ -17,6 +17,10 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [U.S. Lifts Restrictions on Anthropic's Most Powerful A.I. Models](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html) | kw: OFFICIAL ANNOUNCEMENT | source: anthropic-releases
+- **2026-07-01** | [deepseek-ai (DeepSeek) — Hugging Face org updated 18 hours ago](https://huggingface.co/deepseek-ai) | kw: WEIGHTS DROP | source: deepseek-releases
+- **2026-07-01** | [GLM-5.2: Zhipu AI's 1M-Token Open-Weight Coding Model](https://www.eigent.ai/blog/glm-5-2) | kw: OPEN SOURCE | WEIGHTS DROP | source: glm-releases
+- **2026-07-01** | [InternScience/Agents-A1-Q8_0-GGUF — 35B MoE Agentic Model (Apache-2.0)](https://huggingface.co/InternScience/Agents-A1-Q8_0-GGUF) | kw: WEIGHTS DROP | OPEN SOURCE | source: internscience
 - **2026-07-01** | [MiniMax AI releases MiniMax M3, an open-weight multimodal model...](https://digg.com/tech/a8ckwh19) | kw: OPEN SOURCE | OFFICIAL ANNOUNCEMENT | source: MiniMax
 - **2026-07-01** | [MiniMax-M3: Leading open weights model, once the weights are...](https://artificialanalysis.ai/articles/minimax-m3) | kw: OPEN SOURCE | WEIGHTS DROP | source: MiniMax
 - **2026-07-01** | [MiniMax M3 Goes Open Source: A 428B-Parameter MoE Beast With...](https://freeai.help/blog/minimax-m3-goes-open-source-a-428b-parameter_en) | kw: OPEN SOURCE | source: MiniMax
