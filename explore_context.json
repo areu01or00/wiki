@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:00:00.000000+00:00",
   "__last_updated": "2026-07-02T12:00:00.000000+00:00",
-  "last_run": 265,
-  "last_explore": "2026-07-02T12:00:00.000000+00:00",
-  "last_global_explore": "2026-07-02T12:00:00.000000+00:00",
-  "last_discovery": "2026-07-02",
-  "last_run_framing": "GOVERNANCE PLANNING / SELF-REGULATED REASONING / KV-CACHE EFFICIENCY FOR AGENTIC DEPLOYMENT",
-  "last_framing": "governance planning / self-regulated reasoning / KV-cache efficiency for agentic deployment",
-  "last_run_notes": "Run 265: 2601.11816 / 2605.22138 / 2601.16986",
+  "last_run": 266,
+  "last_explore": "2026-07-01T12:00:00.000000+00:00",
+  "last_global_explore": "2026-07-01T12:00:00.000000+00:00",
+  "last_discovery": "2026-07-01",
+  "last_run_framing": "LLM AGENT PRIVACY / SPLIT-LEARNING DATA LEAKAGE / FEDERATED PII SAFETY",
+  "last_framing": "llm agent privacy / split-learning data leakage / federated pii safety",
+  "last_run_notes": "Run 266: 2606.26627 / 2606.14210 / 2602.13529",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML search 4-query primary (190 IDs, 184 fresh, 16 LLM-filtered), 3 picked",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 808,
+  "entities_count": 811,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7879,6 +7879,36 @@
       "url": "https://arxiv.org/abs/2601.16986",
       "discovered": "2026-07-02T12:00:00+00:00",
       "theme": "KV cache compression / CoT reasoning / answer-first principle"
+    },
+    {
+      "arxiv_id": "2606.26627",
+      "title": "Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents",
+      "slug": "agents-that-know-too-much-a-data-centric-survey-of-privacy-in-llm-agents-2606.26627",
+      "url": "https://arxiv.org/abs/2606.26627",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "llm agent privacy / data-centric taxonomy",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.14210",
+      "title": "From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models",
+      "slug": "from-prompts-to-responses-dual-sided-data-leakage-and-defense-in-split-large-language-models-2606.14210",
+      "url": "https://arxiv.org/abs/2606.14210",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "split-learning privacy / dual-sided leakage",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2602.13529",
+      "title": "SecureGate: Learning When to Reveal PII Safely via Token-Gated Dual-Adapters for Federated LLMs",
+      "slug": "securegate-learning-when-to-reveal-pii-safely-via-token-gated-dual-adapters-for-federated-llms-2602.13529",
+      "url": "https://arxiv.org/abs/2602.13529",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "federated PII safety / privacy gating",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -13952,6 +13982,30 @@
       "url": "https://arxiv.org/abs/2606.28960",
       "discovered": "2026-07-01T08:34:06.658874+00:00",
       "theme": "LLM evaluation / clinical benchmark / real-world queries"
+    },
+    {
+      "arxiv_id": "2606.26627",
+      "title": "Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents",
+      "slug": "agents-that-know-too-much-a-data-centric-survey-of-privacy-in-llm-agents-2606.26627",
+      "url": "https://arxiv.org/abs/2606.26627",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "llm agent privacy / data-centric taxonomy"
+    },
+    {
+      "arxiv_id": "2606.14210",
+      "title": "From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models",
+      "slug": "from-prompts-to-responses-dual-sided-data-leakage-and-defense-in-split-large-language-models-2606.14210",
+      "url": "https://arxiv.org/abs/2606.14210",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "split-learning privacy / dual-sided leakage"
+    },
+    {
+      "arxiv_id": "2602.13529",
+      "title": "SecureGate: Learning When to Reveal PII Safely via Token-Gated Dual-Adapters for Federated LLMs",
+      "slug": "securegate-learning-when-to-reveal-pii-safely-via-token-gated-dual-adapters-for-federated-llms-2602.13529",
+      "url": "https://arxiv.org/abs/2602.13529",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "federated PII safety / privacy gating"
     }
   ],
   "emergent_concept_search_log": [
@@ -18182,6 +18236,18 @@
       ],
       "framing": "GOVERNANCE PLANNING / SELF-REGULATED REASONING / KV-CACHE EFFICIENCY FOR AGENTIC DEPLOYMENT",
       "method": "HF daily (17 papers) + arxiv HTML web_search (200 IDs) \u2192 8 fresh \u2192 3 picked"
+    },
+    {
+      "run": 266,
+      "timestamp": "2026-07-01T12:00:00.000000+00:00",
+      "picks": [
+        "2606.26627",
+        "2606.14210",
+        "2602.13529"
+      ],
+      "theme": "llm agent privacy / split-learning data leakage / federated pii safety",
+      "framing": "LLM AGENT PRIVACY / SPLIT-LEARNING DATA LEAKAGE / FEDERATED PII SAFETY",
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

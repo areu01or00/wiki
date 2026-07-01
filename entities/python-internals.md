@@ -3931,6 +3931,8 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Python Internals
+
 - **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: python-internals
 - **2026-07-01** | [The GIL Explained - Engineers of AI](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: python-internals
 - **2026-07-01** | [Advanced Python Interview Questions & Answers - Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: python-internals

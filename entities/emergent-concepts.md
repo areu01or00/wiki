@@ -1,7 +1,7 @@
 ---
 title: Emergent Concepts
 created: 2026-05-20
-updated: 2026-07-02
+updated: 2026-07-01
 type: meta
 tags: [meta, emergent-concept, llm-research, chain-tracking]
 last_watched: "2026-06-29T03:25:00+00:00"
@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 266) — LLM AGENT PRIVACY / SPLIT-LEARNING DATA LEAKAGE / FEDERATED PII SAFETY**
+
+- [[agents-that-know-too-much-a-data-centric-survey-of-privacy-in-llm-agents-2606.26627]]
+  Privacy Survey: First data-centric taxonomy of privacy risks in LLM agent systems — covers training data leakage, contextual privacy violations, inference-time attacks, and systemic exposure through tool use and memory in agentic deployments. Survey spans 47 documented attack surfaces across RAG pipelines, memory stores, tool APIs, and multi-hop reasoning chains. Orthogonal to prior runs' governance-planning and KV-cache efficiency axes.
+
+- [[from-prompts-to-responses-dual-sided-data-leakage-and-defense-in-split-large-language-models-2606.14210]]
+  SplitLLM Privacy: First dual-sided analysis of privacy leakage in split LLM deployments — characterizes both client-side prompt leakage to server and server-side model leakage back to client, with defense mechanisms for each attack surface. Complements prior split-learning and privacy papers by providing unified threat model for the emerging split-LLM deployment paradigm.
+
+- [[securegate-learning-when-to-reveal-pii-safely-via-token-gated-dual-adapters-for-federated-llms-2602.13529]]
+  SecureGate: First dual-adapter federated learning framework for conditional PII revelation — uses contrastive privacy/utility adapters to learn when to safely reveal PII during LLM inference in federated settings. Token-gated gating mechanism enables LLMs to withhold PII when revelation conditions are unsafe. Orthogonal to prior runs' privacy and agentic papers.
+
 **2026-07-02 — Run 265) — GOVERNANCE PLANNING / SELF-REGULATED REASONING / KV-CACHE EFFICIENCY FOR AGENTIC DEPLOYMENT**
 
 - [[polaris-typed-planning-governed-execution-agentic-ai-2601.11816]]

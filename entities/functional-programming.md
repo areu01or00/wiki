@@ -1,4 +1,11 @@
 ## Updates
+- **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Functional Programming
+- **2026-07-01** | [Co-Creator of Haskell: Functional Programming, Thinking in Types ...](https://www.developing.dev/p/co-creator-of-haskell-functional) | kw: Functional Programming
+- **2026-07-01** | [Monads in Functional Programming: a Practical Note | by Bobby Priam](https://medium.com/@bobbypriam/monads-in-functional-programming-a-practical-note-53488f94b20c) | kw: Functional Programming
+- **2026-07-01** | [Good tutorial/book about functional programming? - Rust Users Forum](https://users.rust-lang.org/t/good-tutorial-book-about-functional-programming/50881) | kw: Functional Programming
+- **2026-07-01** | [Issue 522 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/522.html) | kw: Functional Programming
+- **2026-07-01** | [Functional Programming Online Courses - Serokell](https://serokell.io/courses) | kw: Functional Programming
+
 - **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: functional-programming
 - **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: functional-programming
 - **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional-programming
