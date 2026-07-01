@@ -31,6 +31,15 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [7 Best Free Haskell Courses for 2026 — Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: topic
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: topic
+- **2026-07-01** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: topic
+- **2026-07-01** | [Monads and Effects | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: topic
+- **2026-07-01** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: topic
+- **2026-07-01** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: topic
+- **2026-07-01** | [functional programming - What is the difference... - Stack Overflow](https://stackoverflow.com/questions/5856709/what-is-the-difference-between-liftm-and-mapm-in-haskell) | kw: topic
+- **2026-07-01** | [monad · GitHub Topics · GitHub](https://github.com/topics/monad) | kw: topic
+
 - **2026-07-01** | [Functional programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming) | kw: Functional
 - **2026-07-01** | [FP lang for 2026 - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: FP
 - **2026-07-01** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell

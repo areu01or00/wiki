@@ -41,6 +41,9 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: topic
+- **2026-07-01** | [Formal Verification and Type Systems... | Software Patterns Lexicon](https://softwarepatternslexicon.com/js/emerging-technologies-and-advanced-topics/formal-verification-and-type-systems-with-typescript/) | kw: topic
+
 - **2026-07-01** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: Efficient
 - **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: Elixir
 - **2026-07-01** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation/) | kw: Gradual

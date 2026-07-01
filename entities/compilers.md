@@ -33,6 +33,9 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [LLVM Project Blog](https://llvm.org/blog/) | kw: topic
+- **2026-07-01** | [Polymorphic Type inference for dynamic languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: topic
+
 - **2026-07-01** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time
 - **2026-07-01** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT
 - **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: LLVM
