@@ -41,6 +41,8 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Duck Typing vs Type System (2026) | Nice Pick](https://nicepick.dev/compare/duck-typing-vs-type-system) | kw: type-systems
+
 - **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: topic
 - **2026-07-01** | [Formal Verification and Type Systems... | Software Patterns Lexicon](https://softwarepatternslexicon.com/js/emerging-technologies-and-advanced-topics/formal-verification-and-type-systems-with-typescript/) | kw: topic
 
