@@ -1752,7 +1752,10 @@
         "2606.31779",
         "9153fc3f779d64b4e351d96292694f49",
         "e1d96d696af43a8d8ec760ee8345a104",
-        "6782c3085c5d26920692d1ce6f7fb6b4"
+        "6782c3085c5d26920692d1ce6f7fb6b4",
+        "6715ce5b1a09abc2de0e85915f57359c",
+        "e372f1747180fc34f3c2fdf11738e801",
+        "e3be8134c9eb0475bb41c94485ae94c6"
       ],
       "last_results": [
         {
@@ -6143,6 +6146,45 @@
           "slug": "ramem-contextual-reinstatement-for-long-term-agentic-memory-2606.22844",
           "online_date": "2026-06-22",
           "run_number": 277
+        },
+        {
+          "arxiv_id": "2605.09104",
+          "title": "Token Economics for LLM Agents: A Dual-View Study from Computing and Economics",
+          "hash": "6715ce5b1a09abc2de0e85915f57359c",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "agent token-economics / dual-view framework / adaptive allocation",
+          "discovered": "2026-07-01T13:10:00.000000+00:00",
+          "slug": "token-economics-for-llm-agents-a-dual-view-study-from-computing-and-ec-2605.09104",
+          "online_date": "2026-05-09",
+          "run_number": 278,
+          "margin": 0.0
+        },
+        {
+          "arxiv_id": "2603.12740",
+          "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+          "hash": "e372f1747180fc34f3c2fdf11738e801",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "tool-use efficiency / MCTS planning / bidirectional pruning",
+          "discovered": "2026-07-01T13:10:00.000000+00:00",
+          "slug": "tooltree-efficient-llm-agent-tool-planning-via-dual-feedback-monte-car-2603.12740",
+          "online_date": "2026-03-13",
+          "run_number": 278,
+          "margin": 0.0
+        },
+        {
+          "arxiv_id": "2606.31876",
+          "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
+          "hash": "e3be8134c9eb0475bb41c94485ae94c6",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "multimodal safety / refusal directions / activation-space alignment",
+          "discovered": "2026-07-01T13:10:00.000000+00:00",
+          "slug": "harnessing-textual-refusal-directions-for-multimodal-safety-2606.31876",
+          "online_date": "2026-06-30",
+          "run_number": 278,
+          "margin": 0.0
         }
       ],
       "last_run": "2026-07-02 00:00 UTC",
@@ -7033,7 +7075,10 @@
     "2606.31779",
     "9153fc3f779d64b4e351d96292694f49",
     "e1d96d696af43a8d8ec760ee8345a104",
-    "6782c3085c5d26920692d1ce6f7fb6b4"
+    "6782c3085c5d26920692d1ce6f7fb6b4",
+    "6715ce5b1a09abc2de0e85915f57359c",
+    "e372f1747180fc34f3c2fdf11738e801",
+    "e3be8134c9eb0475bb41c94485ae94c6"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -7885,7 +7930,10 @@
       "2606.31779",
       "9153fc3f779d64b4e351d96292694f49",
       "e1d96d696af43a8d8ec760ee8345a104",
-      "6782c3085c5d26920692d1ce6f7fb6b4"
+      "6782c3085c5d26920692d1ce6f7fb6b4",
+      "6715ce5b1a09abc2de0e85915f57359c",
+      "e372f1747180fc34f3c2fdf11738e801",
+      "e3be8134c9eb0475bb41c94485ae94c6"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "2026-07-02 00:00 UTC",
