@@ -42,6 +42,26 @@
 
 ## Updates
 - **2026-07-01** | [Gradual typing - Wikipedia](https://en.m.wikipedia.org/wiki/Gradual_typing) | kw: type-systems
+- **2026-07-01** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: Learn
+
+- **2026-07-01** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: Monkeytype
+
+- **2026-07-01** | [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/) | kw: Learn
+
+- **2026-07-01** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: TypingTest.com
+
+- **2026-07-01** | [TypeRacer - Play Typing Games and Race Friends](https://play.typeracer.com/) | kw: TypeRacer
+
+- **2026-07-01** | [Nitro Type | Competitive Typing Game | Race Your Friends](https://www.nitrotype.com/) | kw: Nitro
+
+- **2026-07-01** | [TypeTest.io - Test Your Typing Speed and Improve Your WPM](https://typetest.io/) | kw: TypeTest.io
+
+- **2026-07-01** | [Touch Typing Practice Online](https://www.typingstudy.com/) | kw: Touch
+
+- **2026-07-01** | [Free Online Typing Tutor - SpeedTypingOnline](https://www.speedtypingonline.com/typing-tutor) | kw: Free
+
+- **2026-07-01** | [Practice](https://www.keybr.com/) | kw: Practice
+
 - **2026-07-01** | [Efficient Selection of Type Annotations for Performance Improvement](https://programming-journal.org/2026/11/3/) | kw: type-systems
 - **2026-07-01** | [Gradual Typing - Programming Research Group](https://prg.is.titech.ac.jp/projects/typesystem/gradual-typing/) | kw: type-systems
 - **2026-07-01** | [Guard Analysis and Safe Erasure Gradual Typing for Elixir](https://arxiv.org/abs/2408.14345) | kw: type-systems

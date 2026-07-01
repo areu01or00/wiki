@@ -4118,6 +4118,20 @@
 
 ## Updates
 - **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are
+- **2026-07-01** | [leetcode-python · GitHub Topics · GitHub](https://github.com/topics/leetcode-python) | kw: leetcode-python
+
+- **2026-07-01** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode
+
+- **2026-07-01** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: Alternatives
+
+- **2026-07-01** | [Struggling with Data Structures and Algorithms? - Yo Motherboard](https://yomotherboard.com/question/struggling-with-data-structures-and-algorithms-heres-how-to-improve/) | kw: Struggling
+
+- **2026-07-01** | [Do we really need Leetcode (Data Structures & Algorithms)... | Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: Do
+
+- **2026-07-01** | [LeetCode 701 Insert into a Binary Search Tree Solution... | NeetCode](https://neetcode.io/) | kw: LeetCode
+
+- **2026-07-01** | [Link to reddit.com](https://www.reddit.com/r/leetcode/comments/179bg3w/i_need_a_concise_list_of_data_structures_and/) | kw: Link
+
 - **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are Asking](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: LeetCode
 - **2026-07-01** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most
 - **2026-07-01** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: LeetCode

@@ -3620,6 +3620,10 @@
 
 ## Updates
 - **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
+- **2026-07-01** | [Sidecar Pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar) | kw: Sidecar
+
+- **2026-07-01** | [CSS Architecture Patterns Every Frontend Team Should Know](https://javascript.plainenglish.io/css-architecture-patterns-every-frontend-team-should-know-341c08c9f129) | kw: CSS
+
 - **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three
 - **2026-07-01** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50
 

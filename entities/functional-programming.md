@@ -32,6 +32,12 @@
 
 ## Updates
 - **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello,
+- **2026-07-01** | [functional programming - State Monads in Haskell - Stack Overflow](https://stackoverflow.com/questions/10237072/state-monads-in-haskell) | kw: functional
+
+- **2026-07-01** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | kw: Monads
+
+- **2026-07-01** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: Monads:
+
 - **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure
 - **2026-07-01** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell
 - **2026-07-01** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/) | kw: Kabbalah,

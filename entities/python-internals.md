@@ -3944,6 +3944,26 @@
 
 ## Updates
 - **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python
+- **2026-07-01** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
+
+- **2026-07-01** | [Welcome to Python.org](https://www.python.org/) | kw: Welcome
+
+- **2026-07-01** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: PY4E
+
+- **2026-07-01** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: Best
+
+- **2026-07-01** | [PyPI · The Python Package Index](https://pypi.org/) | kw: PyPI
+
+- **2026-07-01** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: Python
+
+- **2026-07-01** | [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/) | kw: Online
+
+- **2026-07-01** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: Online
+
+- **2026-07-01** | [Python Operators - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-operators/) | kw: Python
+
+- **2026-07-01** | [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) | kw: Introduction
+
 - **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How
 - **2026-07-01** | [How Python's GIL Works](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: How
 - **2026-07-01** | [Using malloc_trim to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using
