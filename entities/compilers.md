@@ -1,6 +1,13 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
+- **2026-07-01** | [llvm-frontend · GitHub Topics](https://github.com/topics/llvm-frontend) | kw: compilers
+- **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving...](https://www.preprints.org/manuscript/202306.1834) | kw: compilers
+- **2026-07-01** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: compilers
+- **2026-07-01** | [Mono LLVM](https://www.mono-project.com/docs/advanced/mono-llvm/) | kw: compilers
+- **2026-07-01** | [PostgreSQL Source Code: src/backend/jit/llvm/llvmjit.c](https://doxygen.postgresql.org/llvmjit_8c.html) | kw: compilers
+
 - **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: adventures,jit,compilation
 - **2026-07-01** | [2017 LLVM Developers' Meeting: M. Zolotukhin "LLVM Compile-Time...](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: 2017,llvm,developers
 

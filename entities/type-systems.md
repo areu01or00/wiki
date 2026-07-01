@@ -1,6 +1,14 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type
+- **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type
+- **2026-07-01** | [TypeScript: Static or Dynamic? The war is over.](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: type
+- **2026-07-01** | [GitHub - kevle6/Gradual_Typing](https://github.com/kevle6/Gradual_Typing) | kw: type
+- **2026-07-01** | [Gradual typing - Wikiwand](https://www.wikiwand.com/en/articles/Gradual_typing) | kw: type
+- **2026-07-01** | [Gradual typing - Grokipedia](https://grokipedia.com/page/Gradual_typing) | kw: type
+- **2026-07-01** | [Gradual typing for functional languages (PDF)](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: type
+
 
 - **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
 - **2026-07-01** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: type-systems

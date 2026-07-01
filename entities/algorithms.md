@@ -4085,6 +4085,14 @@
 
 
 ## Updates
+- **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
+- **2026-07-01** | [How to prepare for Data Structures Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: algorithms
+- **2026-07-01** | [LeetCode Isnt Dead in 2026 But Its No Longer Enough](https://medium.com/the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: algorithms
+- **2026-07-01** | [Data Structures/Algorithms to go over the day of the test](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: algorithms
+- **2026-07-01** | [Rethinking DSA for 2026 Interview Success](https://www.linkedin.com/posts/prince-singh_314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: algorithms
+- **2026-07-01** | [LeetCode Alone Wont Save You in 2026 Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: algorithms
+- **2026-07-01** | [Top 100 DSA Interview Questions](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: algorithms
+
 
 - **2026-07-01** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
 - **2026-07-01** | [Algorithms in Computer Science: A Complete Beginner's Guide with...](https://medium.com/@mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis-7ae156894d2f) | kw: algorithms
