@@ -31,6 +31,13 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional
+- **2026-07-01** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The
+- **2026-07-01** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell
+- **2026-07-01** | [How I Learned Monads: Not Through Haskell But Through Rust](https://medium.com/@saehwanpark/how-i-learned-monads-not-through-haskell-but-through-rust-f4233f7779c7) | kw: How
+- **2026-07-01** | [Does Rust Support Functional Programming Idioms? Exploring Filter/Map ...](https://www.codegenes.net/blog/does-will-rust-support-functional-programming-idioms/) | kw: Does
+- **2026-07-01** | [Kabbalah, Haskell, and the ST Monad - snoyman.com](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/) | kw: Kabbalah,
+
 - **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: functional-programming
 - **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional-programming
 - **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: functional-programming

@@ -33,6 +33,12 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
+- **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+- **2026-07-01** | [Python JIT compiler project under threat after steering council says ...](https://www.theregister.com/devops/2026/06/08/python-jit-compiler-may-be-removed/5252079) | kw: Python
+- **2026-07-01** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The
+- **2026-07-01** | [LLVM Implementation for Java JIT Compilers: A Deep Dive](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: LLVM
+
 - **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: compilers
 - **2026-07-01** | [llvm-compile-time-tracker.com](https://llvm-compile-time-tracker.com/) | kw: compilers
 - **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
