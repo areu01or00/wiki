@@ -3943,6 +3943,17 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How Python 3.14, the Death of the GIL, and AI Agents are Redefining...](https://www.linkedin.com/pulse/how-python-314-death-gil-ai-agents-redefining-2026-mayank-singh-yycdc) | kw: 3.14,
+- **2026-07-01** | [Python Killed the GIL. Go Still Wins. | by Daniel Valev | May, 2026](https://towardsdev.com/python-killed-the-gil-go-still-wins-14735a67b5e0) | kw: killed
+- **2026-07-01** | [Python support for free threading — Python 3.14.6 documentation](https://docs.python.org/3/howto/free-threading-python.html) | kw: support
+- **2026-07-01** | [Python 3.14 Free-Threaded Mode: GIL Removal Performance Analysis](https://uc4n.com/blog/python-3-14-free-threaded-gil-removal) | kw: 3.14
+- **2026-07-01** | [Python 3.14 Removed the GIL. My App Got 8x Faster. | Stackademic](https://blog.stackademic.com/python-3-14-removed-the-gil-my-app-got-8x-faster-56566c7b7a39) | kw: 3.14
+- **2026-07-01** | [Python 3.14's Free-Threading: Your Threads... | Level Up Coding](https://levelup.gitconnected.com/python-3-14s-free-threading-your-threads-finally-run-in-parallel-b82919a80b82) | kw: 3.14's
+- **2026-07-01** | [Race Conditions and Memory Corruption in Python 3.13/3.14...](https://tech-champion.com/programming/python-programming/race-conditions-and-memory-corruption-in-python-3-13-3-14-free-threaded-no-gil-builds/) | kw: race
+- **2026-07-01** | [Python's GIL Is Gone — What That Actually Means for Your Code](https://python.plainenglish.io/pythons-gil-is-gone-what-that-actually-means-for-your-code-8ac535b5d879) | kw: python's
+- **2026-07-01** | [Python Without GIL: Real Performance Testing in Python... | Medium](https://medium.com/@inprogrammer/python-without-gil-real-performance-testing-in-python-3-13-free-threading-5bdb34f73125) | kw: without
+- **2026-07-01** | [Python 3.13 GIL: Unlock True Parallelism with the Free-Threaded Build](https://www.stork.ai/blog/youre-using-python-313-wrong) | kw: 3.13
+
 - **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python-internals
 - **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: python-internals
 - **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: python-internals

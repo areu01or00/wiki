@@ -31,6 +31,9 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Issue 529 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/529.html) | kw: issue
+- **2026-07-01** | [Community version of "Learn You a Haskell…" (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: community
+
 - **2026-07-01** | [Issue 529 :: Haskell Weekly Newsletter](https://haskellweekly.news/issue/529.html) | kw: functional-programming
 - **2026-07-01** | [Community version of Learn You a Haskell... (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: functional-programming
 

@@ -4117,6 +4117,9 @@
 
 
 ## Updates
+- **2026-07-01** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: asked
+- **2026-07-01** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: interview
+
 - **2026-07-01** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: algorithms
 - **2026-07-01** | [LeetCode Isn't Dead in 2026 - But It's No Longer Enough - Medium](https://medium.com/the_atomic_architect/leetcode-isnt-dead-in-2026-but-its-no-longer-enough-fed7727d9d04) | kw: algorithms
 - **2026-07-01** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: algorithms
