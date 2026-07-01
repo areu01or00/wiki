@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 234) — AGENT MEMORY TOPOLOGY / KNOWLEDGE-BASED AUGMENTED RAG / ADVERSARIAL CLIMATE AGENTIC SYSTEMS**
+
+- [[hyphaedb-a-living-knowledge-topology-for-agent-first-memory-2606.28781]]
+  HyphaeDB: Agent-native memory infrastructure — reinterprets HNSW vector graph topology as a communication fabric for multi-agent AI systems, not just a search index. Knowledge propagates via gossip protocol with energy-based attenuation; emergent behaviors (contradiction detection, pattern crystallization, consensus formation) arise from topology + propagation + local rules. Reference deployment in Swarm-Driven Development multi-agent software engineering. **First HNSW-as-communication-fabric paper in the wiki.**
+
+- [[cmip-forge-an-agentic-system-that-retrieves-computes-and-self-reviews-climate-science-2606.17076]]
+  CMIP-Forge: Hybrid RAG + autonomous analysis for climate science (6,581 CMIP6 publications, 101,828 chunks). Tool-augmented worker + independent reviewer panel with Defense-in-Depth architecture (AST static analysis, adversarial peer-review protocol). Failure modes: sycophantic regression, unresolved REVISE verdicts, stub code submission — all diagnosable from immutable telemetry. **First adversarial peer-review loop for agentic climate science RAG in the wiki.**
+
+- [[karla-knowledge-base-augmented-retrieval-for-language-models-2606.26807]]
+  KARLA: Token-triggered knowledge base retrieval — LLM generates special tokens that trigger KB queries during generation. Factual updates via KB edits (no retraining), transparent fact tracing, smaller models match larger model accuracy. Improves factual grounding in short and long-form generation. **First token-triggered KB retrieval enabling parameter-free factual updates in the wiki.**
+
 **2026-06-30 — Run 233) — BIDIRECTIONAL COT REPAIR / LATENT MULTI-AGENT COMMUNICATION / CONTEXT-AWARE RL FOR AGENTS**
 
 - [[imbuing-large-language-models-with-bidirectional-logic-for-robust-chain-repair-2606.05030]]
