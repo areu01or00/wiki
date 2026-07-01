@@ -1,3 +1,35 @@
+- **2026-07-01** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
+
+- **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: The
+
+- **2026-07-01** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: 1.
+
+- **2026-07-01** | [GitHub - llvm/llvm-project: The LLVM Project is a collection of modular ...](https://github.com/llvm/llvm-project) | kw: GitHub
+
+- **2026-07-01** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
+
+- **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ... - GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst
+
+- **2026-07-01** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The
+
+- **2026-07-01** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
+
+- **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
+
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: The
+
+- **2026-07-01** | [1. Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: 1.
+
+- **2026-07-01** | [GitHub - llvm/llvm-project: The LLVM Project is a collection of modular ...](https://github.com/llvm/llvm-project) | kw: GitHub
+
+- **2026-07-01** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: Just-In-Time
+
+- **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ... - GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst
+
+- **2026-07-01** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: The
+
 # Compilers
 
 ## Updates

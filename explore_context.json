@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T12:50:00.000000+00:00",
-  "__last_updated": "2026-07-01T12:50:00.000000+00:00",
-  "last_run": 277,
-  "last_explore": "2026-07-01T11:07:00.269351+00:00",
-  "last_global_explore": "2026-07-01T12:45:00.000000+00:00",
+  "__last_updated": "2026-07-01T13:10:00.000000+00:00",
+  "last_run": 278,
+  "last_explore": "2026-07-01T13:10:00.000000+00:00",
+  "last_global_explore": "2026-07-01T13:10:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "AUTONOMOUS AGENT DEVELOPMENT / AGENTIC SKILL EVALUATION / LONG-TERM AGENT MEMORY",
-  "last_framing": "AUTONOMOUS AGENT DEVELOPMENT / AGENTIC SKILL EVALUATION / LONG-TERM AGENT MEMORY",
+  "last_run_framing": "AGENT TOKEN ECONOMICS / TOOL-USE EFFICIENCY / MULTIMODAL SAFETY TRANSFER",
+  "last_framing": "AGENT TOKEN ECONOMICS / TOOL-USE EFFICIENCY / MULTIMODAL SAFETY TRANSFER",
   "last_run_notes": "Run 277: 2606.04455 / 2606.17819 / 2606.22844",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search emergent-concept discovery (11 fresh candidates, 3 orthogonal LLM picks)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "agentic skill composition / evidential scientific reasoning / RL reward shaping",
-  "emergent_theme": "scene-aware agent planning / VLM-guided RL / scientific evidential agents",
+  "emergent_concept_theme": "agent token-economics / tool-use efficiency / multimodal safety transfer",
+  "emergent_theme": "agent token-economics / tool-use efficiency / multimodal safety transfer",
   "chains_updated": 0,
-  "entities_count": 841,
+  "entities_count": 847,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8131,6 +8131,30 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T12:50:16+00:00",
       "theme": "long-term agent memory / context collapse / evidence-anchored retrieval"
+    },
+    {
+      "arxiv_id": "2605.09104",
+      "title": "Token Economics for LLM Agents: A Dual-View Study from Computing and Economics",
+      "slug": "token-economics-for-llm-agents-a-dual-view-study-from-computing-and-ec-2605.09104",
+      "url": "https://arxiv.org/abs/2605.09104",
+      "discovered": "2026-07-01T13:10:00.000000+00:00",
+      "theme": "agent token-economics / dual-view framework / adaptive allocation"
+    },
+    {
+      "arxiv_id": "2603.12740",
+      "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+      "slug": "tooltree-efficient-llm-agent-tool-planning-via-dual-feedback-monte-car-2603.12740",
+      "url": "https://arxiv.org/abs/2603.12740",
+      "discovered": "2026-07-01T13:10:00.000000+00:00",
+      "theme": "tool-use efficiency / MCTS planning / bidirectional pruning"
+    },
+    {
+      "arxiv_id": "2606.31876",
+      "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
+      "slug": "harnessing-textual-refusal-directions-for-multimodal-safety-2606.31876",
+      "url": "https://arxiv.org/abs/2606.31876",
+      "discovered": "2026-07-01T13:10:00.000000+00:00",
+      "theme": "multimodal safety / refusal directions / activation-space alignment"
     }
   ],
   "emergent_discoveries": [
@@ -14372,6 +14396,30 @@
       "url": "https://arxiv.org/abs/2606.31033",
       "discovered": "2026-07-01T12:45:00.000000+00:00",
       "theme": "rag hallucination detection / token-level / comparative representations / fine-grained grounding"
+    },
+    {
+      "arxiv_id": "2605.09104",
+      "title": "Token Economics for LLM Agents: A Dual-View Study from Computing and Economics",
+      "slug": "token-economics-for-llm-agents-a-dual-view-study-from-computing-and-ec-2605.09104",
+      "url": "https://arxiv.org/abs/2605.09104",
+      "discovered": "2026-07-01T13:10:00.000000+00:00",
+      "theme": "agent token-economics / dual-view framework / adaptive allocation"
+    },
+    {
+      "arxiv_id": "2603.12740",
+      "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+      "slug": "tooltree-efficient-llm-agent-tool-planning-via-dual-feedback-monte-car-2603.12740",
+      "url": "https://arxiv.org/abs/2603.12740",
+      "discovered": "2026-07-01T13:10:00.000000+00:00",
+      "theme": "tool-use efficiency / MCTS planning / bidirectional pruning"
+    },
+    {
+      "arxiv_id": "2606.31876",
+      "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
+      "slug": "harnessing-textual-refusal-directions-for-multimodal-safety-2606.31876",
+      "url": "https://arxiv.org/abs/2606.31876",
+      "discovered": "2026-07-01T13:10:00.000000+00:00",
+      "theme": "multimodal safety / refusal directions / activation-space alignment"
     }
   ],
   "emergent_concept_search_log": [
@@ -18776,6 +18824,20 @@
       ],
       "framing": "AUTONOMOUS AGENT DEVELOPMENT / AGENTIC SKILL EVALUATION / LONG-TERM AGENT MEMORY",
       "theme": "autonomous agent development benchmark / agentic skill evaluation methodology / long-term memory context collapse"
+    },
+    {
+      "run_number": 278,
+      "date": "2026-07-01",
+      "theme": "AGENT TOKEN ECONOMICS / TOOL-USE EFFICIENCY / MULTIMODAL SAFETY TRANSFER",
+      "papers_added": 3,
+      "paper_ids": [
+        "2605.09104",
+        "2603.12740",
+        "2606.31876"
+      ],
+      "vector": "emergent_concept_search",
+      "framing": "token-economics / MCTS-tool-planning / refusal-direction-transfer",
+      "method": "web_search + arxiv HTML emergent-concept discovery, 3 orthogonal picks from agent-infrastructure, planning-efficiency, safety-transfer axes"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
