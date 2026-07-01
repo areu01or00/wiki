@@ -1004,6 +1004,17 @@
       "discovered_at_cycle": "c145",
       "wiki_page": "entities/model-releases-tracker.md",
       "last_run": "2026-07-01 18:17:00 UTC"
+    },
+    "factory-ai": {
+      "query": "FactoryAI Droid Shield model release weights",
+      "wiki_page": "entities/model-releases-tracker.md",
+      "category": "auto-discovered",
+      "discovered_at_cycle": "c147",
+      "last_result_hashes": [],
+      "last_run": "20260701_190224",
+      "run_count": 0,
+      "last_checked": "2026-07-01T19:02:24+00:00",
+      "last_update_hash": null
     }
   }
 }

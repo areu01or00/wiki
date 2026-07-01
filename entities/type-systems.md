@@ -41,6 +41,15 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
+- **2026-07-01** | [Static Analysis Mypy: Strict Typing Configurations 2026 | Johal AI Hub](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: type-systems
+- **2026-07-01** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: type-systems
+- **2026-07-01** | [Duck Typing vs Type System (2026) | Nice Pick](https://nicepick.dev/compare/duck-typing-vs-type-system) | kw: type-systems
+- **2026-07-01** | [gradual-typing · GitHub Topics · GitHub](https://github.com/topics/gradual-typing) | kw: type-systems
+- **2026-07-01** | [TypeScript Gradual Typing | Compile N Run](https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/) | kw: type-systems
+- **2026-07-01** | [Planet = erlang.](http://planeterlang.com/?trk=public_profile_project-button) | kw: type-systems
+
 - **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: 
 - **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: 
 - **2026-07-01** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: 

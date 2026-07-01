@@ -31,6 +31,13 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: functional-programming
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional-programming
+- **2026-07-01** | [Monads and Effects | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: functional-programming
+- **2026-07-01** | [Haskell's IO & Monads | Functional Programming](https://aicenter.github.io/FUP/lectures/lecture10.html) | kw: functional-programming
+- **2026-07-01** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: functional-programming
+- **2026-07-01** | [Monads in Functional Programming: a Practical Note | Medium](https://medium.com/@bobbypriam/monads-in-functional-programming-a-practical-note-53488f94b20c) | kw: functional-programming
+
 - **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: 
 - **2026-07-01** | [GitHub - nsu-syspro/haskell-monads-2026: haskell-monads created...](https://github.com/nsu-syspro/haskell-monads-2026) | kw: 
 
