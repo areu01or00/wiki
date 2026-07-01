@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T12:00:00.000000+00:00",
   "__last_updated": "2026-07-02T12:00:00.000000+00:00",
-  "last_run": 266,
-  "last_explore": "2026-07-01T12:00:00.000000+00:00",
-  "last_global_explore": "2026-07-01T12:00:00.000000+00:00",
+  "last_run": 267,
+  "last_explore": "2026-07-01T09:09:00.000000+00:00",
+  "last_global_explore": "2026-07-01T09:09:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "LLM AGENT PRIVACY / SPLIT-LEARNING DATA LEAKAGE / FEDERATED PII SAFETY",
-  "last_framing": "llm agent privacy / split-learning data leakage / federated pii safety",
-  "last_run_notes": "Run 266: 2606.26627 / 2606.14210 / 2602.13529",
+  "last_run_framing": "DIFFUSION LANGUAGE MODEL ANALYSIS / EMBODIED PLANNING / AGENT DEMONSTRATION READING",
+  "last_framing": "diffusion language model / embodied planning / agent demonstration reading",
+  "last_run_notes": "Run 267: 2606.19475 / 2606.31260 / 2606.20978",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search 4-query primary (190 IDs, 184 fresh, 16 LLM-filtered), 3 picked",
+  "last_run_method": "arxiv HTML search 4-query (200 IDs, 9 fresh, 3 picked)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 811,
+  "entities_count": 814,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7909,6 +7909,33 @@
       "discovered": "2026-07-01T12:00:00.000000+00:00",
       "theme": "federated PII safety / privacy gating",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.19475",
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "slug": "title-diffusion-language-models-an-experimental-analysis-2606.19475",
+      "url": "https://arxiv.org/abs/2606.19475",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T09:09:00+00:00",
+      "theme": "diffusion language model / non-autoregressive generation / LLM paradigm comparison"
+    },
+    {
+      "arxiv_id": "2606.31260",
+      "title": "Plan Right, Then Plan Tight: Symbolic RL for Efficient Embodied Reasoning",
+      "slug": "title-plan-right-then-plan-tight-symbolic-rl-for-efficient-embodied-reasoning-2606.31260",
+      "url": "https://arxiv.org/abs/2606.31260",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T09:09:00+00:00",
+      "theme": "embodied AI / symbolic planning / RL / physical scene reasoning"
+    },
+    {
+      "arxiv_id": "2606.20978",
+      "title": "How Should Agents Read Demonstrations? Hierarchical Structure Beats Flat Action Logs",
+      "slug": "title-how-should-agents-read-demonstrations?-hierarchical-structure-beats-flat-action-logs-2606.20978",
+      "url": "https://arxiv.org/abs/2606.20978",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T09:09:00+00:00",
+      "theme": "LLM agent authoring / programming by demonstration / procedural knowledge structuring"
     }
   ],
   "emergent_discoveries": [
@@ -18247,6 +18274,18 @@
       ],
       "theme": "llm agent privacy / split-learning data leakage / federated pii safety",
       "framing": "LLM AGENT PRIVACY / SPLIT-LEARNING DATA LEAKAGE / FEDERATED PII SAFETY",
+      "added": 3
+    },
+    {
+      "run": 267,
+      "date": "2026-07-01",
+      "method": "arxiv HTML search 4-query (200 IDs, 9 fresh, 3 picked)",
+      "framing": "DIFFUSION LANGUAGE MODEL ANALYSIS / EMBODIED PLANNING / AGENT DEMONSTRATION READING",
+      "picks": [
+        "2606.19475",
+        "2606.31260",
+        "2606.20978"
+      ],
       "added": 3
     }
   ],

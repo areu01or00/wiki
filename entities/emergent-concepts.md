@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 267) — DIFFUSION LANGUAGE MODEL ANALYSIS / EMBODIED PLANNING / AGENT DEMONSTRATION READING**
+
+- [[title-diffusion-language-models-an-experimental-analysis-2606.19475]]
+  Diffusion LLM Analysis: First systematic experimental analysis of Diffusion Language Models vs autoregressive LLMs — evaluates DLMs across reasoning, generation quality, and efficiency benchmarks. Provides the first comprehensive comparison of iterative denoising text generation vs next-token prediction. Orthogonal to prior runs' diffusion/processing papers.
+
+- [[title-plan-right-then-plan-tight-symbolic-rl-for-efficient-embodied-reasoning-2606.31260]]
+  Embodied Planning: First symbolic RL approach for efficient embodied task planning — combines symbolic plan generation with reinforcement learning for household/assistive/service robot action sequences. Orthogonal to prior runs' agentic planning, KV-cache efficiency, and governance papers.
+
+- [[title-how-should-agents-read-demonstrations?-hierarchical-structure-beats-flat-action-logs-2606.20978]]
+  Agent Authoring: First analysis of hierarchical structure for LLM agent demonstration reading — Programming by Demonstration (PbD) with hierarchical action log structuring enables non-programmers to author agents. Orthogonal to prior runs' agentic authoring, planning, and benchmark papers.
 **2026-07-01 — Run 266) — LLM AGENT PRIVACY / SPLIT-LEARNING DATA LEAKAGE / FEDERATED PII SAFETY**
 
 - [[agents-that-know-too-much-a-data-centric-survey-of-privacy-in-llm-agents-2606.26627]]
