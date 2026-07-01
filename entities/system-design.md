@@ -3619,6 +3619,14 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: Wikipedia
+- **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Wikipedia
+- **2026-07-01** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: Windows
+- **2026-07-01** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: system
+- **2026-07-01** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: system
+- **2026-07-01** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: what
+- **2026-07-01** | [System | All Journal Issues | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/system/issues) | kw: system
+
 - **2026-07-01** | [Design Rocket - Learn AI Design system.](https://designrocket.io/) | kw: web
 - **2026-07-01** | [Design Patterns](https://refactoring.guru/design-patterns) | kw: web
 - **2026-07-01** | [Architectural Patterns: Moving Beyond Cloud-Native to... - InfoQ](https://www.infoq.com/podcasts/natural-evolution-cloud-native/) | kw: web

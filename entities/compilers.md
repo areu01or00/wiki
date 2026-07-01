@@ -33,6 +33,17 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [IQTest.com--The Original Free Online IQ Test](https://iqtest.com/) | kw: Online
+- **2026-07-01** | [Take the Test - IQTest.com](https://iqtest.com/take-the-test/) | kw: LLVM JIT Compilation
+- **2026-07-01** | [Sample Exercise Result - IQTest.com](https://iqtest.com/quiz-result/sample-exercise-result/) | kw: LLVM JIT Compilation
+- **2026-07-01** | [What Is the Complete Intelligence Profile? - IQTest.com](https://iqtest.com/2017/05/what-is-the-complete-intelligence-profile/) | kw: LLVM JIT Compilation
+- **2026-07-01** | [Blog - IQTest.com](https://iqtest.com/blog/) | kw: LLVM JIT Compilation
+- **2026-07-01** | [Shop - IQTest.com](https://iqtest.com/shop/) | kw: LLVM JIT Compilation
+- **2026-07-01** | [Quizzes Archive - IQTest.com](https://iqtest.com/quiz/) | kw: LLVM JIT Compilation
+- **2026-07-01** | [IQTest.com](https://iqtest.com/feed/) | kw: LLVM JIT Compilation
+- **2026-07-01** | [IQTest.com](https://iqtest.com/?m=admin&c=index&a=login) | kw: LLVM JIT Compilation
+- **2026-07-01** | [How Do I Mean? Free IQTuneUp #2 - IQTest.com](https://iqtest.com/iqtuneups/free-iqtuneup-2/) | kw: LLVM JIT Compilation
+
 - **2026-07-01** | [2026 EuroLLVM Developers Meeting](https://llvm.org/devmtg/2026-04/) | kw: web
 
 - **2026-07-01** | [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: 
