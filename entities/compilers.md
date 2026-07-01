@@ -33,6 +33,8 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: 
+
 - **2026-07-01** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Benderskys website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: compilers
 
 - **2026-07-01** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: compilers

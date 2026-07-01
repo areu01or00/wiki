@@ -4117,6 +4117,16 @@
 
 
 ## Updates
+- **2026-07-01** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: 
+- **2026-07-01** | [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) | kw: 
+- **2026-07-01** | [LeetCode Alone Won't Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: 
+- **2026-07-01** | [Study Plan - LeetCode](https://leetcode.com/studyplan/) | kw: 
+- **2026-07-01** | [I Tried 50+ Coding Interview Courses on Udemy: Here Are My Best 6 for 2026](https://medium.com/javarevisited/i-tried-50-coding-interview-courses-on-udemy-here-are-my-best-6-for-2026-ce3a5bf420ca) | kw: 
+- **2026-07-01** | [Top 21 Data Structure & Algorithms Questions to Ace DSA Interview in 2026](https://skillcureacademy.com/blogs/top-dsa-interview-questions-2026/) | kw: 
+- **2026-07-01** | [2026 DSA Master Cheat Sheet for Coding Interviews - LinkedIn](https://www.linkedin.com/posts/veerendra-manvi_dsa-datastructures-algorithms-activity-7476243600125882368-Kr9Z) | kw: 
+- **2026-07-01** | [Most Asked LeetCode Interview Questions: Essential Questions - upGrad](https://www.upgrad.com/blog/leetcode-interview-questions/) | kw: 
+- **2026-07-01** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: 
+
 - **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
 - **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are ...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: algorithms
 - **2026-07-01** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: algorithms

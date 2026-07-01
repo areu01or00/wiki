@@ -41,6 +41,12 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Efficient Selection of Type Annotations for Performance Improvement in Gradual Typing](https://arxiv.org/abs/2603.05649) | kw: 
+- **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: 
+- **2026-07-01** | [Gradual Typing - Language Design and Implementation](https://comp.anu.edu.au/study/projects/gradual-typing-language-design-and-implementation/) | kw: 
+- **2026-07-01** | [Type-Based Gradual Typing Performance Optimization](https://dl.acm.org/doi/abs/10.1145/3632931) | kw: 
+- **2026-07-01** | [Typed and Confused: Studying the Unexpected Dangers of Gradual Typing](https://dl.acm.org/doi/10.1145/3691620.3695549) | kw: 
+
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
 - **2026-07-01** | [gradual-typing · GitHub Topics · GitHub](https://github.com/topics/gradual-typing) | kw: type-systems
