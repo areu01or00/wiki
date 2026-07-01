@@ -3,8 +3,9 @@
     "MiniMax": {
       "category": "auto-discovered",
       "discovered_at_cycle": 9,
-      "last_checked": "2026-06-29T21:31:59.920036+00:00",
+      "last_checked": "2026-07-01T12:15:28.658262+00:00",
       "last_result_hashes": [
+        "f980bb66e91fe8e1de1e2484395730fb",
         "3383998d84500bb0b76fe91a4778dbe6",
         "f4ee9b996d01111bc2bba72c0271dc3b",
         "d557278bd0994e4b78ec4ea0a717d6ba",
@@ -23,19 +24,19 @@
         "2f435e8bd91f28cffa856255fc9b35fd",
         "3d8ab1c3ffd9bdd080b00d158191c7e0",
         "dc3bef89c6a76863beb5fafae5232e60",
-        "14c858a0b53cc4f70369fd4896c59f14",
-        "b564d52a253687eb4f890c15b3b86e5d"
+        "14c858a0b53cc4f70369fd4896c59f14"
       ],
-      "last_run": "20260701_082750",
+      "last_run": "20260701_120004",
       "last_update_hash": null,
       "query": "MiniMax AI MiniMax-M3 release new model multimodal MoE",
-      "run_count": 125,
+      "run_count": 126,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "anthropic-releases": {
       "category": "major-lab",
-      "last_checked": "2026-07-01T04:11:26.432972+00:00",
+      "last_checked": "2026-07-01T12:15:28.658269+00:00",
       "last_result_hashes": [
+        "af9de73d2167d7ef92c62f81ef0181cd",
         "953a75e442d4f6d2e51c73f5542e602b",
         "b9322ea16136f3c40d9e49e2a85d05e8",
         "83cd188dee7327963280d17b5d140ba6",
@@ -54,13 +55,12 @@
         "e473e9140936e014125647bcb09f5a04",
         "941ce7ad6aada5e019f1084ac58ea8f3",
         "8b27943f048a4c8353eff080991b1694",
-        "b0e1165192321fda53ac34daf7511bd0",
-        "3598ffddfa005806cc1aa09f65035a6c"
+        "b0e1165192321fda53ac34daf7511bd0"
       ],
-      "last_run": "20260701_104158",
+      "last_run": "20260701_120004",
       "last_update_hash": null,
       "query": "Anthropic Claude new model release Sonnet Opus API",
-      "run_count": 128,
+      "run_count": 129,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "arxiv-cs-cl": {
@@ -376,8 +376,9 @@
     },
     "openai-releases": {
       "category": "major-lab",
-      "last_checked": "2026-06-29T21:31:59.920036+00:00",
+      "last_checked": "2026-07-01T12:15:28.658258+00:00",
       "last_result_hashes": [
+        "2c914f6f2bd4d7ec20e9bdadb44b3d7b",
         "db0084456b43f5d7aec3bff1596ac695",
         "91273d031cc1db76ab7113395edb980b",
         "ca721a31494cc36cf306a3333d14ed5e",
@@ -396,13 +397,12 @@
         "add6a09471f386f6725a77468dab5328",
         "1b4cf63cbeee0a25dfaa0d1b931b9387",
         "1bc3bb76664873d3611faba24520b331",
-        "4407870c3df16b5d493238e14b8ade5a",
-        "e016dbb13b671b64004fae4e3a08bab3"
+        "4407870c3df16b5d493238e14b8ade5a"
       ],
-      "last_run": "20260701_075249",
+      "last_run": "20260701_120004",
       "last_update_hash": null,
       "query": "OpenAI new model release GPT ChatGPT API announcement",
-      "run_count": 125,
+      "run_count": 126,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "qwen-releases": {
@@ -569,6 +569,7 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 56,
       "last_result_hashes": [
+        "c45ea0712480d83a4d000b0f6826517e",
         "b1857a46767d01fe3a6b2fe2a253d965",
         "11ab4f530cf392461ce5b0e920e64f3d",
         "f8b95a025c93cc303db71e7fe8d698c7",
@@ -587,12 +588,11 @@
         "0ca252737c9c34433c4b5f4b01a50a0e",
         "891ab35a1265b16c64b2ea97fe017e69",
         "15ae448e51bd6de05f2d59197bdb8be9",
-        "3a5460545b4b6a494dc0db6090fe7a5c",
-        "5ebdc1678daa88d2dbcaee7e5ccdddd1"
+        "3a5460545b4b6a494dc0db6090fe7a5c"
       ],
-      "last_run": "20260701_060329",
-      "run_count": 86,
-      "last_checked": "2026-06-29T21:31:59.920036+00:00",
+      "last_run": "20260701_120004",
+      "run_count": 87,
+      "last_checked": "2026-07-01T12:15:28.658254+00:00",
       "last_update_hash": null
     },
     "liquid-ai": {
@@ -630,8 +630,9 @@
     "kog-ai": {
       "category": "auto-discovered",
       "discovered_at_cycle": 68,
-      "last_checked": "2026-07-01T04:11:26.432978+00:00",
+      "last_checked": "2026-07-01T12:15:28.658266+00:00",
       "last_result_hashes": [
+        "e3a47bec574e60156c70ccc6ce2c8054",
         "cf9b757a12720cd788d7225831cbfa3e",
         "39dc9c63b21e191afe02347d2661817b",
         "f92acf272d0f0ee4e087bccd480a8d20",
@@ -650,20 +651,20 @@
         "c29e6a676aa89b904891f3ae8c3b628a",
         "b0e1165192321fda53ac34daf7511bd0",
         "6e087f1e28525164c1e0ca52eae1c6b9",
-        "7df74383c60a15139c3141c47b0b524e",
-        "0327a5e92e0d0854dfa577ddacdb2cd2"
+        "7df74383c60a15139c3141c47b0b524e"
       ],
-      "last_run": "20260701_064945",
+      "last_run": "20260701_120004",
       "last_update_hash": null,
       "query": "kogai laneformer-2b-it model card release",
-      "run_count": 70,
+      "run_count": 71,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "yuvion-llm": {
       "query": "Yuvion new model release LLM adversarial safety",
       "category": "auto-discovered",
-      "run_count": 38,
+      "run_count": 39,
       "last_result_hashes": [
+        "37772e630eac5c5abd62a0eeba41f112",
         "44a728fec32ad8fe24f282e7316a2f1f",
         "764437321013ff5bd269056423fd8881",
         "7faadc34810f45f61b00ce6189f9ad69",
@@ -682,19 +683,20 @@
         "3f156d5309e024233f5bc6252fd56434",
         "b0a0ce3d30b06a1c09553a80df95d0fb",
         "1cff9bb13420b6958f183a5ac9c11b81",
-        "a484e2579ba3cf031fbc9e96529be568",
-        "0db0cf638e933a1709b77aa4115bef69"
+        "a484e2579ba3cf031fbc9e96529be568"
       ],
       "discovered_at_cycle": "cycle 99",
-      "last_run": "20260701_052443",
-      "last_checked": "2026-06-29T21:31:59.920036+00:00"
+      "last_run": "20260701_120004",
+      "last_checked": "2026-07-01T12:15:28.658248+00:00"
     },
     "meituan-longcat": {
       "name": "Meituan LongCat",
       "query": "Meituan LongCat new model release LLM announced",
       "category": "auto-discovered",
-      "run_count": 35,
+      "run_count": 36,
       "last_result_hashes": [
+        "aebf2577649879dee55d0cfed973aa12",
+        "2c1e39224975f4284cecf84640ced39d",
         "6e2cffa44c4e1691cd00622a2ef72e2b",
         "f184d7b139a49322cf11dd17829f5bc9",
         "ed174fbb6438bf88b28105454d508db6",
@@ -712,13 +714,12 @@
         "987e090fa91b3273d6014b73a0aa1251",
         "9639e60be3581c0b5d70b0426e11da44",
         "51cff88491f119163d96713cc87ba02c",
-        "2e09b648d1ec6b1b5a56a05b5a07ba92",
-        "3eb1ca5896333fb68a757e71de0c23da",
-        "0e4ae45ece240d26266b698ef71a08c1"
+        "2e09b648d1ec6b1b5a56a05b5a07ba92"
       ],
       "discovered_at_cycle": "c106-20260630",
       "notes": "Auto-discovered c106 via x_search: LongCat-2.0 announced June 30, 2026",
-      "last_run": "20260701_064945"
+      "last_run": "20260701_120004",
+      "last_checked": "2026-07-01T12:15:28.658221+00:00"
     },
     "huawei": {
       "query": "Huawei OpenPangu new model release open weights LLM",

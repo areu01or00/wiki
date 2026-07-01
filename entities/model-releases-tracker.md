@@ -17,6 +17,14 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [Meituan Opens LongCat-2.0 Coding Model With 1M Context](https://winbuzzer.com/2026/06/30/meituan-opens-longcat-20-coding-model-with-1m-context-xcxwbn/) | kw: WEIGHTS DROP | source: meituan-longcat
+- **2026-07-01** | [Meituan releases LongCat-2.0, a 1.6-trillion-parameter open-weight model](https://digg.com/tech/va380veu) | kw: WEIGHTS DROP | OPEN SOURCE | source: meituan-longcat
+- **2026-07-01** | [[2606.27632] Yuvion LLM: An Adversarially-Aware Large Language Model](https://arxiv.org/abs/2606.27632) | kw: BENCHMARK/PAPER | source: yuvion-llm
+- **2026-07-01** | [DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family](https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/) | kw: WEIGHTS DROP | OPEN SOURCE | source: deepreinforce-ai
+- **2026-07-01** | [Previewing GPT-5.6 Sol: a next-generation model | OpenAI](https://openai.com/index/previewing-gpt-5-6-sol/) | kw: API LAUNCH | OFFICIAL ANNOUNCEMENT | source: openai-releases
+- **2026-07-01** | [GitHub - MiniMax-AI/MiniMax-M3](https://github.com/MiniMax-AI/MiniMax-M3/) | kw: WEIGHTS DROP | source: MiniMax
+- **2026-07-01** | [Kog ships Laneformer 2B with 3,000 tokens/sec on MI300X](https://aiweekly.co/alerts/kog-ships-laneformer-2b-with-3000-tokenssec-on-mi300x) | kw: WEIGHTS DROP | source: kog-ai
+- **2026-07-01** | [Anthropic upgrades Claude with new Sonnet 5 model](https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/) | kw: OFFICIAL ANNOUNCEMENT | source: anthropic-releases
 - **2026-07-01** | [FenomAI/North-Mini-Code-1.0-AWQ ... - Hugging Face](https://huggingface.co/FenomAI/North-Mini-Code-1.0-AWQ-INT4) | kw: weights drop | source: fenom-ai
 - **2026-07-01** | [swiss-ai/Apertus-70B-2509 - Hugging Face](https://huggingface.co/swiss-ai/Apertus-70B-2509) | kw: weights drop | source: swiss-ai-apertus
 - **2026-07-01** | [Claude Sonnet 5 System Card - Anthropic](https://www.anthropic.com/claude-sonnet-5-system-card) | kw: benchmark/paper | source: anthropic-releases
