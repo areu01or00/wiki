@@ -41,6 +41,12 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type-systems
+- **2026-07-01** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type-systems
+- **2026-07-01** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type-systems
+- **2026-07-01** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
+- **2026-07-01** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: type-systems
+
 - **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: luau
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: navigating
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: static

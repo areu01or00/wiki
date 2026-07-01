@@ -33,6 +33,10 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
+- **2026-07-01** | [llvm-compile-time-tracker.com](https://llvm-compile-time-tracker.com/) | kw: compilers
+- **2026-07-01** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: compilers
+
 - **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit1.rst
 - **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ... - GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs/tutorial/buildingajit3.rst
 

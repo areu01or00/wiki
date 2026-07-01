@@ -3619,6 +3619,12 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: system-design
+- **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
+- **2026-07-01** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: system-design
+- **2026-07-01** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: system-design
+- **2026-07-01** | [How I Build a Distributed System in 2026: Principles, Patterns, and ...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: system-design
+
 - **2026-07-01** | [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) | kw: list
 - **2026-07-01** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: centralized
 - **2026-07-01** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: system
