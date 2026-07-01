@@ -693,8 +693,9 @@
       "name": "Meituan LongCat",
       "query": "Meituan LongCat new model release LLM announced",
       "category": "auto-discovered",
-      "run_count": 36,
+      "run_count": 37,
       "last_result_hashes": [
+        "75953353d38fa087374a1be005b00d0c",
         "aebf2577649879dee55d0cfed973aa12",
         "2c1e39224975f4284cecf84640ced39d",
         "6e2cffa44c4e1691cd00622a2ef72e2b",
@@ -713,19 +714,20 @@
         "aa466030cac7a40d585a119c290d9575",
         "987e090fa91b3273d6014b73a0aa1251",
         "9639e60be3581c0b5d70b0426e11da44",
-        "51cff88491f119163d96713cc87ba02c",
-        "2e09b648d1ec6b1b5a56a05b5a07ba92"
+        "51cff88491f119163d96713cc87ba02c"
       ],
       "discovered_at_cycle": "c106-20260630",
       "notes": "Auto-discovered c106 via x_search: LongCat-2.0 announced June 30, 2026",
-      "last_run": "20260701_120004",
+      "last_run": "20260701_124706",
       "last_checked": "2026-07-01T12:15:28.658221+00:00"
     },
     "huawei": {
       "query": "Huawei OpenPangu new model release open weights LLM",
       "category": "auto-discovered",
-      "run_count": 27,
+      "run_count": 29,
       "last_result_hashes": [
+        "52664b2b175a6bd2df3f548281cb0700",
+        "52664b2b175a6bd2df3f548281cb0700",
         "50c4d74a0c6162191763d7e8fbda360f",
         "3e91772ea4d1a7335e6399eec142ceff",
         "1a942f131e75bd28987130ba1c4eebc5",
@@ -743,13 +745,11 @@
         "0da44416f427f6e422f5d5fddf2424ef",
         "88c3c9cec72ab5d0aa2530baf6a4a7e6",
         "cebba5b0f5b65254f6330bb43ea76d68",
-        "ba0a09ef0cfa839554ee7a590c125bf8",
-        "c02b1f243552c2ab4a83b6fc2394db8a",
-        "ae9adff26804bfce9131752b3f201456"
+        "ba0a09ef0cfa839554ee7a590c125bf8"
       ],
       "discovered_at_cycle": "c107-20260630",
       "source": "x_search",
-      "last_run": "20260701_064945"
+      "last_run": "20260701_124706"
     },
     "internscience": {
       "query": "InternScience Agents-A1 new model release LLM weights",

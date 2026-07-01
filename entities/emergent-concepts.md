@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+**2026-07-01 — Run 278) — AGENT TOKEN ECONOMICS / TOOL-USE EFFICIENCY / MULTIMODAL SAFETY TRANSFER**
+
+- [[harnessing-textual-refusal-directions-for-multimodal-safety-2606.31876]]
+  Harnessing Refusal Directions: First work transferring textual refusal directions to multimodal (VLM) safety — projects alignment signals across modalities without full retraining. **First refusal-direction transfer from text to multimodal in wiki.**
+
+- [[token-economics-for-llm-agents-a-dual-view-study-from-computing-and-ec-2605.09104]]
+  Token Economics: Dual-view token economics model (computing-cost + economic-value) for LLM agent loops — first systematic analysis of tokens as economic primitives in agentic AI. **First token-economics framework in wiki.**
+
+- [[tooltree-efficient-llm-agent-tool-planning-via-dual-feedback-monte-car-2603.12740]]
+  ToolTree: Dual-feedback MCTS + bidirectional pruning for tool-use planning in LLM agents — significantly reduces search space while maintaining solution quality. **First MCTS-based tool-use planning paper in wiki.**
+
 **2026-07-01 — Run 277) — AUTONOMOUS AGENT DEVELOPMENT / AGENTIC SKILL EVALUATION / LONG-TERM AGENT MEMORY**
 
 - [[ramem-contextual-reinstatement-for-long-term-agentic-memory-2606.22844]]

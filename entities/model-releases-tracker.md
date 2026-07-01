@@ -17,6 +17,8 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [Meituan LongCat-2.0 — 1.6T MoE Open-Source Coding Model Released June 30 2026](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips) | kw: WEIGHTS DROP | source: meituan-longcat
+- **2026-07-01** | [Huawei openPangu 2.0 Flash — 92B Open-Weight Open-Sourced June 30 2026](https://macdate.com/en/blog/openpangu-2-open-source-no-nvidia-ascend-20260701.html) | kw: WEIGHTS DROP | OFFICIAL ANNOUNCEMENT | source: huawei
 - **2026-07-01** | [Meituan Opens LongCat-2.0 Coding Model With 1M Context](https://winbuzzer.com/2026/06/30/meituan-opens-longcat-20-coding-model-with-1m-context-xcxwbn/) | kw: WEIGHTS DROP | source: meituan-longcat
 - **2026-07-01** | [Meituan releases LongCat-2.0, a 1.6-trillion-parameter open-weight model](https://digg.com/tech/va380veu) | kw: WEIGHTS DROP | OPEN SOURCE | source: meituan-longcat
 - **2026-07-01** | [[2606.27632] Yuvion LLM: An Adversarially-Aware Large Language Model](https://arxiv.org/abs/2606.27632) | kw: BENCHMARK/PAPER | source: yuvion-llm
