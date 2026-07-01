@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 311: Deep-Sub-Cluster PROBE-AXIS: Exemplar Correctness Failure / Interactive Coding Benchmark / Internal Self-Calibration (Rule 36h: exemplar-order-effects / collaborative-coding / self-training calibration)
+
+- [[swe-interact-reimagining-swe-benchmarks-as-user-driven-long-horizon-coding-sessions-2606.30573]] — [SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions](https://arxiv.org/abs/2606.30573) — Raghavendra, Mohit; Gunjal, Anisha; Sabharwal, Aakash + 1 — new testbed for interactive, user-driven coding agent evaluation; reveals 40-50pp gap between frontier model performance on static vs interactive SWE tasks. **First interactive-collaborative-coding-benchmark paper in the wiki.**
+
+- [[when-correct-demonstrations-hurt-rethinking-the-role-of-exemplars-in-in-context-learning-2605.26350]] — [When Correct Demonstrations Hurt: Rethinking the Role of Exemplars in In-Context Learning](https://arxiv.org/abs/2605.26350) — Qiu, Chenghao; Peng, Chunli; Yang, Yufeng + 2 — correct demonstrations can reduce ICL accuracy via distributional misalignment, label ambiguity, and spurious correlation amplification; entropy-based exemplar selection criterion outperforms ground-truth correctness. **First exemplar-correctness-failure paper in the wiki.**
+
+- [[from-the-inside-out-progressive-distribution-refinement-for-confidence-calibration-2603.16500]] — [From the Inside Out: Progressive Distribution Refinement for Confidence Calibration](https://arxiv.org/abs/2603.16500) — Yang, Xizhong; Xia, Yinan; Wang, Huiming + 1 — Progressive Distribution Refinement uses model's own internal activation geometry as self-reward for calibration, achieving 15-23% ECE reduction across 6 LLM families without external validators. **First internal-geometry-as-self-reward calibration paper in the wiki.**
+
 ### 2026-07-02 — Run 310: Deep-Sub-Cluster PROBE-AXIS: Local Flatness OOD / Capability Minimization Safety / Spectral DPP Data Selection (Rule 36h: calibration-under-distribution-shift / safety-mechanisms / data-selection)
 
 - [[exploiting-local-flatness-for-efficient-out-of-distribution-detection-2606.29952]] — [Exploiting Local Flatness for Efficient Out-of-Distribution Detection](https://arxiv.org/abs/2606.29952) — Park, Seonghwan; Jung, Hyunji; Lee, Dongyeop — local loss landscape flatness as geometric OOD detection signal for deep networks, no retraining required. **First loss-flatness-as-OOD-signal paper in the wiki.**

@@ -9052,6 +9052,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-02T09:00:00.000000+00:00",
       "theme": "data selection / diversity / DPP"
+    },
+    {
+      "arxiv_id": "2605.26350",
+      "slug": "when-correct-demonstrations-hurt-rethinking-the-role-of-exemplars-in-in-context-learning-2605.26350",
+      "title": "When Correct Demonstrations Hurt: Rethinking the Role of Exemplars in In-Context Learning",
+      "url": "https://arxiv.org/abs/2605.26350",
+      "vector": "deep-sub-cluster: exemplar-order-effects / collaborative-coding / self-training calibration",
+      "theme": "exemplar-correctness-failure / interactive-coding-benchmark / internal-self-calibration",
+      "discovered": "2026-07-01T22:22:11.052869"
+    },
+    {
+      "arxiv_id": "2606.30573",
+      "slug": "swe-interact-reimagining-swe-benchmarks-as-user-driven-long-horizon-coding-sessions-2606.30573",
+      "title": "SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions",
+      "url": "https://arxiv.org/abs/2606.30573",
+      "vector": "deep-sub-cluster: exemplar-order-effects / collaborative-coding / self-training calibration",
+      "theme": "exemplar-correctness-failure / interactive-coding-benchmark / internal-self-calibration",
+      "discovered": "2026-07-01T22:22:11.052962"
+    },
+    {
+      "arxiv_id": "2603.16500",
+      "slug": "from-the-inside-out-progressive-distribution-refinement-for-confidence-calibration-2603.16500",
+      "title": "From the Inside Out: Progressive Distribution Refinement for Confidence Calibration",
+      "url": "https://arxiv.org/abs/2603.16500",
+      "vector": "deep-sub-cluster: exemplar-order-effects / collaborative-coding / self-training calibration",
+      "theme": "exemplar-correctness-failure / interactive-coding-benchmark / internal-self-calibration",
+      "discovered": "2026-07-01T22:22:11.053049"
     }
   ],
   "emergent_discoveries": [
@@ -15974,6 +16001,30 @@
       "url": "https://arxiv.org/abs/2606.19411",
       "discovered": "2026-07-02T09:00:00.000000+00:00",
       "theme": "data selection / diversity / DPP"
+    },
+    {
+      "arxiv_id": "2605.26350",
+      "title": "When Correct Demonstrations Hurt: Rethinking the Role of Exemplars in In-Context Learning",
+      "slug": "when-correct-demonstrations-hurt-rethinking-the-role-of-exemplars-in-in-context-learning-2605.26350",
+      "url": "https://arxiv.org/abs/2605.26350",
+      "discovered": "2026-07-01T22:22:11.053199",
+      "theme": "exemplar-correctness-failure / interactive-coding-benchmark / internal-self-calibration"
+    },
+    {
+      "arxiv_id": "2606.30573",
+      "title": "SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions",
+      "slug": "swe-interact-reimagining-swe-benchmarks-as-user-driven-long-horizon-coding-sessions-2606.30573",
+      "url": "https://arxiv.org/abs/2606.30573",
+      "discovered": "2026-07-01T22:22:11.053304",
+      "theme": "exemplar-correctness-failure / interactive-coding-benchmark / internal-self-calibration"
+    },
+    {
+      "arxiv_id": "2603.16500",
+      "title": "From the Inside Out: Progressive Distribution Refinement for Confidence Calibration",
+      "slug": "from-the-inside-out-progressive-distribution-refinement-for-confidence-calibration-2603.16500",
+      "url": "https://arxiv.org/abs/2603.16500",
+      "discovered": "2026-07-01T22:22:11.053394",
+      "theme": "exemplar-correctness-failure / interactive-coding-benchmark / internal-self-calibration"
     }
   ],
   "emergent_concept_search_log": [
@@ -20931,6 +20982,18 @@
         "2606.19411"
       ],
       "method": "Rule 36h PROBE-AXIS: calibration-under-distribution-shift / safety-mechanisms / data-selection (deep-sub-cluster from consumed primaries)",
+      "added": 3
+    },
+    {
+      "run": 311,
+      "date": "2026-07-01T22:22:11.052717",
+      "theme": "Deep-Sub-Cluster PROBE-AXIS: Exemplar Correctness Failure / Interactive Coding Benchmark / Internal Self-Calibration",
+      "picks": [
+        "2605.26350",
+        "2606.30573",
+        "2603.16500"
+      ],
+      "method": "Rule 36h PROBE-AXIS (deep-sub-cluster from consumed primaries: exemplar-order-effects / collaborative-coding / self-training calibration)",
       "added": 3
     }
   ],
