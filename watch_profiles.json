@@ -1525,7 +1525,10 @@
         "12d81f03c0cfdb3f9898b29278b5a4e3",
         "2606.30697",
         "2601.01569",
-        "2505.16888"
+        "2505.16888",
+        "2603.08251",
+        "2604.23333",
+        "2604.16535"
       ],
       "last_results": [
         {
@@ -5682,6 +5685,33 @@
           "chain": "emergent-concepts",
           "theme": "agent-learning / skill-optimization / gradient-descent",
           "discovered": "2026-07-04T00:00:00+00:00"
+        },
+        {
+          "arxiv_id": "2603.08251",
+          "title": "CoFiCot: Adaptive Coarse-to-Fine Stateful Refinement",
+          "hash": "2603.08251",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "test-time-compute / adaptive-inference",
+          "discovered": "2026-07-01T02:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2604.23333",
+          "title": "Process Supervision of Confidence Margin for Calibrated LLM Reasoning",
+          "hash": "2604.23333",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "reasoning / calibration / test-time-compute",
+          "discovered": "2026-07-01T02:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2604.16535",
+          "title": "SCATR: Simple Calibrated Test-Time Ranking",
+          "hash": "2604.16535",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "test-time-compute / calibration / ranking",
+          "discovered": "2026-07-01T02:30:00+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -6420,7 +6450,10 @@
     "12d81f03c0cfdb3f9898b29278b5a4e3",
     "2606.30697",
     "2601.01569",
-    "2505.16888"
+    "2505.16888",
+    "2603.08251",
+    "2604.23333",
+    "2604.16535"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -7146,7 +7179,10 @@
       "12d81f03c0cfdb3f9898b29278b5a4e3",
       "2606.30697",
       "2601.01569",
-      "2505.16888"
+      "2505.16888",
+      "2603.08251",
+      "2604.23333",
+      "2604.16535"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

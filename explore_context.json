@@ -2,15 +2,15 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-04T00:00:00+00:00",
-  "__last_updated": "2026-07-01T02:02:35+00:00",
-  "last_run": 241,
+  "updated": "2026-07-01T02:30:00+00:00",
+  "__last_updated": "2026-07-01T02:30:00+00:00",
+  "last_run": 242,
   "last_explore": "2026-07-01T01:46:00+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "LUMOS SEMANTIC OS LAYER / CAVEAGENT STATEFUL RUNTIME OPERATORS / PARASITE PROMPT POISONING SUPPLY CHAIN",
+  "last_run_framing": "CONFIDENCE MARGIN PROCESS SUPERVISION / CALIBRATED TEST-TIME RANKING / ADAPTIVE COARSE-TO-FINE REFINEMENT",
   "last_framing": "multi-agent scaling laws / LLM safety replication / black-box agentic RL",
-  "last_run_notes": "Run 241: LUMOS (2606.30697) + CaveAgent (2601.01569) + PARASITE (2505.16888)",
+  "last_run_notes": "Run 242: CoFiCot (2603.08251) + RLCM (2604.23333) + SCATR (2604.16535)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 735,
+  "entities_count": 739,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7261,6 +7261,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T01:46:00+00:00",
       "theme": "security / adversarial / prompt-injection / supply-chain-vulnerability"
+    },
+    {
+      "arxiv_id": "2603.08251",
+      "slug": "not-all-queries-need-deep-thought-coficot-for-adaptive-coarse-to-fine-stateful-refinement-2603.08251",
+      "title": "CoFiCot: Adaptive Coarse-to-Fine Stateful Refinement",
+      "url": "https://arxiv.org/abs/2603.08251",
+      "discovered": "2026-07-01T02:30:00+00:00",
+      "theme": "test-time-compute / adaptive-inference",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2604.23333",
+      "slug": "process-supervision-of-confidence-margin-for-calibrated-llm-reasoning-2604.23333",
+      "title": "Process Supervision of Confidence Margin for Calibrated LLM Reasoning",
+      "url": "https://arxiv.org/abs/2604.23333",
+      "discovered": "2026-07-01T02:30:00+00:00",
+      "theme": "reasoning / calibration / test-time-compute",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2604.16535",
+      "slug": "scatr-simple-calibrated-test-time-ranking-2604.16535",
+      "title": "SCATR: Simple Calibrated Test-Time Ranking",
+      "url": "https://arxiv.org/abs/2604.16535",
+      "discovered": "2026-07-01T02:30:00+00:00",
+      "theme": "test-time-compute / calibration / ranking",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -12830,6 +12860,30 @@
       "url": "https://arxiv.org/abs/2505.16888",
       "discovered": "2026-07-01T01:46:00+00:00",
       "theme": "security / adversarial / prompt-injection / supply-chain-vulnerability"
+    },
+    {
+      "arxiv_id": "2603.08251",
+      "title": "CoFiCot: Adaptive Coarse-to-Fine Stateful Refinement",
+      "slug": "not-all-queries-need-deep-thought-coficot-for-adaptive-coarse-to-fine-stateful-refinement-2603.08251",
+      "url": "https://arxiv.org/abs/2603.08251",
+      "discovered": "2026-07-01T02:30:00+00:00",
+      "theme": "test-time-compute / adaptive-inference"
+    },
+    {
+      "arxiv_id": "2604.23333",
+      "title": "Process Supervision of Confidence Margin for Calibrated LLM Reasoning",
+      "slug": "process-supervision-of-confidence-margin-for-calibrated-llm-reasoning-2604.23333",
+      "url": "https://arxiv.org/abs/2604.23333",
+      "discovered": "2026-07-01T02:30:00+00:00",
+      "theme": "reasoning / calibration / test-time-compute"
+    },
+    {
+      "arxiv_id": "2604.16535",
+      "title": "SCATR: Simple Calibrated Test-Time Ranking",
+      "slug": "scatr-simple-calibrated-test-time-ranking-2604.16535",
+      "url": "https://arxiv.org/abs/2604.16535",
+      "discovered": "2026-07-01T02:30:00+00:00",
+      "theme": "test-time-compute / calibration / ranking"
     }
   ],
   "emergent_concept_search_log": [
@@ -19234,6 +19288,18 @@
       ],
       "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
       "framing": "agent-infrastructure / stateful-runtime / adversarial-security"
+    },
+    {
+      "run_number": 242,
+      "date": "2026-07-01",
+      "theme": "confidence margin process supervision / calibrated test-time ranking / adaptive coarse-to-fine refinement",
+      "picks": [
+        "2603.08251",
+        "2604.23333",
+        "2604.16535"
+      ],
+      "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
+      "framing": "CONFIDENCE MARGIN PROCESS SUPERVISION / CALIBRATED TEST-TIME RANKING / ADAPTIVE COARSE-TO-FINE REFINEMENT"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

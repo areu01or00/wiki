@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 242) — CONFIDENCE MARGIN PROCESS SUPERVISION / CALIBRATED TEST-TIME RANKING / ADAPTIVE COARSE-TO-FINE REFINEMENT**
+
+- [[not-all-queries-need-deep-thought-coficot-for-adaptive-coarse-to-fine-stateful-refinement-2603.08251]]
+  CoFiCot: Adaptive Coarse-to-Fine Stateful Refinement: Addresses the uniform computation paradox in test-time compute scaling — allocating identical resources causes over-correction on simple tasks and under-refinement on complex ones. CoFiCot dynamically tailors inference strategies to problem difficulty via a coarse-to-fine adaptive framework. Published March 2026. **First coarse-to-fine adaptive test-time compute allocation framework resolving the uniform allocation paradox in the wiki.**
+
+- [[process-supervision-of-confidence-margin-for-calibrated-llm-reasoning-2604.23333]]
+  Process Supervision of Confidence Margin (RLCM): Introduces process-level reinforcement learning with confidence margins — penalizing both overconfident and underconfident reasoning steps to produce calibrated confidence signals at each step. Enables trustworthy confidence-based downstream control without hallucination risk. Published April 2024. **First calibrated confidence-margin process supervision framework for LLM reasoning in the wiki.**
+
+- [[scatr-simple-calibrated-test-time-ranking-2604.16535]]
+  SCATR: Simple Calibrated Test-Time Ranking: Learns calibrated ranking for Best-of-N selection under the parallel-scaling test-time compute paradigm. Provides principled uncertainty-aware scoring without requiring per-step rewards at inference time. Published April 2024. **First calibrated test-time ranking framework for LLM reasoning under the parallel-scaling TTS paradigm in the wiki.**
+
 **2026-07-01 — Run 241) — LUMOS SEMANTIC OS LAYER / CAVEAGENT STATEFUL RUNTIME OPERATORS / PARASITE PROMPT POISONING SUPPLY CHAIN**
 
 - [[lumos-a-semantic-operating-system-layer-for-accessibility-grounded-ai-agents-2606.30697]]
