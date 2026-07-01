@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 288: Agent Procedural Memory / Multi-Teacher On-Policy Distillation / Lexical Grounding
+
+- [[mopd-multi-teacher-on-policy-distillation-for-capability-integration-in-llm-post-training-2606.30406]]
+  MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training — Ma, Wenhan; Wei, Jianyu; Zhao, Liang + 10 — multiple specialized teachers provide on-policy signal simultaneously, enabling efficient integration of diverse capabilities into a single student model without capability regression. **First multi-teacher on-policy distillation for multi-capability LLM integration in wiki.**
+
+- [[managing-procedural-memory-in-llm-agents-control-adaptation-and-evaluation-2606.23127]]
+  Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation — Belikova, Julia; Parchiev, Rauf; Egorov, Evgeny + 4 — introduces AFTER benchmark (382 enterprise tasks, 6 roles, 22 skills) for evaluating procedural memory acquisition, stabilization, and adaptive transfer in LLM agents. **First procedural memory benchmark for enterprise LLM agents in wiki.**
+
+- [[lexical-consensus-grounded-word-learning-and-shared-meaning-in-artificial-agents-2606.22207]]
+  Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents — Vera, Patricio M. — benchmark for whether agents can acquire, stabilize, and negotiate shared lexical meanings through grounded interaction with human partners. **First lexical-consensus / grounded-word-learning benchmark in wiki.**
+
 ### 2026-07-01 — Run 287: Embodied Agent Skill Memory / Human Routine Navigation / Self-Directed APR Debugging
 
 - [[humembr-learning-human-routines-for-predictive-embodied-navigation-2606.30404]]
