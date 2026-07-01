@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+**2026-07-01 — Run 280) — AI GOVERNANCE / COLLECTIVE SKILL LEARNING / MULTI-UAV COORDINATION BENCHMARK**
+
+- [[multiuav-plat-an-llm-oriented-platform-benchmark-and-framework-for-multi-uav-col-2606.31073]]
+  MultiUAV-Plat: First LLM-agent simulation platform for multi-UAV collaborative task planning — captures aerial constraints (partial observability, spatial coverage, multi-vehicle coordination) absent from generic LLM-agent benchmarks. **First multi-UAV collaborative planning benchmark in wiki.**
+
+- [[adaptive-ai-delegation-under-uncertainty-a-bayesian-governance-policy-for-sequen-2606.29406]]
+  Adaptive AI Delegation: Frames AI governance as a sequential Bayesian decision problem — dynamically allocates decision authority to AI recommendations as evidence quality and risk tolerance evolve. **First sequential Bayesian governance policy in wiki.**
+
+- [[openclaw-skill-collective-skill-tree-search-for-agentic-large-language-models-2606.16774]]
+  OpenClaw-Skill: Collective Skill Tree Search (CSTS) — multiple LLM agents collaboratively construct structured skill trees via tree search, generalizing across tool use, reasoning, and environment interaction. **First collective intelligence skill tree construction paper in wiki.**
+
 **2026-07-01 — Run 279) — CHAIN-OF-THOUGHT DECONSTRUCTION / ALGORITHM SCHEDULING / TRAJECTORY STEERING**
 
 - [[verbose-cot-content-not-length-2606.30128]]

@@ -2,15 +2,15 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-01T13:04:00.000000+00:00",
-  "__last_updated": "2026-07-01T13:04:00.000000+00:00",
-  "last_run": 279,
+  "updated": "2026-07-01T13:30:00.000000+00:00",
+  "__last_updated": "2026-07-01T13:30:00.000000+00:00",
+  "last_run": 280,
   "last_explore": "2026-07-01T13:04:00.000000+00:00",
   "last_global_explore": "2026-07-01T13:04:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "CHAIN-OF-THOUGHT DECONSTRUCTION / ALGORITHM SCHEDULING / TRAJECTORY STEERING",
+  "last_run_framing": "BAYESIAN DECISION THEORY / COLLECTIVE SKILL INTELLIGENCE / AERIAL ROBOTICS COORDINATION",
   "last_framing": "CHAIN-OF-THOUGHT DECONSTRUCTION / ALGORITHM SCHEDULING / TRAJECTORY STEERING",
-  "last_run_notes": "Run 279: 2606.30128 / 2606.29999 / 2606.28589",
+  "last_run_notes": "Run 280: 2606.29406 / 2606.16774 / 2606.31073",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search (Rule 36b probe-axis) + arxiv HTML fallback; 19 fresh LLM candidates from 4 queries",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "chain-of-thought deconstruction / algorithm scheduling / reasoning trajectory steering",
   "emergent_theme": "chain-of-thought deconstruction / algorithm scheduling / reasoning trajectory steering",
   "chains_updated": 0,
-  "entities_count": 850,
+  "entities_count": 853,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8209,6 +8209,33 @@
       "url": "https://arxiv.org/abs/2606.28589",
       "discovered": "2026-07-01T13:04:00+00:00",
       "theme": "reasoning trajectory steering / representation editing / RepE for dynamic reasoning"
+    },
+    {
+      "arxiv_id": "2606.29406",
+      "title": "Adaptive AI Delegation under Uncertainty: A Bayesian Governance Policy for Sequential Decision Authority",
+      "slug": "adaptive-ai-delegation-under-uncertainty-a-bayesian-governance-policy-for-sequen-2606.29406",
+      "url": "https://arxiv.org/abs/2606.29406",
+      "theme": "agent governance / uncertainty / decision authority / bayesian",
+      "discovered": "2026-07-01T13:30:00+00:00",
+      "vector": "emergent_concept_search"
+    },
+    {
+      "arxiv_id": "2606.16774",
+      "title": "OpenClaw-Skill: Collective Skill Tree Search for Agentic Large Language Models",
+      "slug": "openclaw-skill-collective-skill-tree-search-for-agentic-large-language-models-2606.16774",
+      "url": "https://arxiv.org/abs/2606.16774",
+      "theme": "skill learning / collective intelligence / tree search / multi-agent skill construction",
+      "discovered": "2026-07-01T13:30:00+00:00",
+      "vector": "emergent_concept_search"
+    },
+    {
+      "arxiv_id": "2606.31073",
+      "title": "MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and Framework for Multi-UAV Collaborative Task Planning",
+      "slug": "multiuav-plat-an-llm-oriented-platform-benchmark-and-framework-for-multi-uav-col-2606.31073",
+      "url": "https://arxiv.org/abs/2606.31073",
+      "theme": "multi-agent / benchmarking / UAV / collaborative planning / aerial robotics",
+      "discovered": "2026-07-01T13:30:00+00:00",
+      "vector": "emergent_concept_search"
     }
   ],
   "emergent_discoveries": [
@@ -14474,6 +14501,30 @@
       "url": "https://arxiv.org/abs/2606.31876",
       "discovered": "2026-07-01T13:10:00.000000+00:00",
       "theme": "multimodal safety / refusal directions / activation-space alignment"
+    },
+    {
+      "arxiv_id": "2606.29406",
+      "title": "Adaptive AI Delegation under Uncertainty: A Bayesian Governance Policy for Sequential Decision Authority",
+      "slug": "adaptive-ai-delegation-under-uncertainty-a-bayesian-governance-policy-for-sequen-2606.29406",
+      "url": "https://arxiv.org/abs/2606.29406",
+      "discovered": "2026-07-01T13:30:00+00:00",
+      "theme": "agent governance / uncertainty / decision authority / bayesian"
+    },
+    {
+      "arxiv_id": "2606.16774",
+      "title": "OpenClaw-Skill: Collective Skill Tree Search for Agentic Large Language Models",
+      "slug": "openclaw-skill-collective-skill-tree-search-for-agentic-large-language-models-2606.16774",
+      "url": "https://arxiv.org/abs/2606.16774",
+      "discovered": "2026-07-01T13:30:00+00:00",
+      "theme": "skill learning / collective intelligence / tree search / multi-agent skill construction"
+    },
+    {
+      "arxiv_id": "2606.31073",
+      "title": "MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and Framework for Multi-UAV Collaborative Task Planning",
+      "slug": "multiuav-plat-an-llm-oriented-platform-benchmark-and-framework-for-multi-uav-col-2606.31073",
+      "url": "https://arxiv.org/abs/2606.31073",
+      "discovered": "2026-07-01T13:30:00+00:00",
+      "theme": "multi-agent / benchmarking / UAV / collaborative planning / aerial robotics"
     }
   ],
   "emergent_concept_search_log": [
@@ -18904,6 +18955,19 @@
         "2606.28589"
       ],
       "notes": "Run 278: 2606.30128 / 2606.29999 / 2606.28589"
+    },
+    {
+      "run": 280,
+      "date": "2026-07-01",
+      "picks": [
+        "2606.29406",
+        "2606.16774",
+        "2606.31073"
+      ],
+      "theme": "AI governance / collective skill learning / multi-UAV coordination benchmark",
+      "framing": "BAYESIAN DECISION THEORY / COLLECTIVE SKILL INTELLIGENCE / AERIAL ROBOTICS COORDINATION",
+      "method": "web_search + arxiv HTML 8-query (373 IDs, 284 fresh) \u2014 HF DNS failed, escalated to web_search primary",
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
