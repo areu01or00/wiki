@@ -4,7 +4,7 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T06:15:00.000000+00:00",
   "__last_updated": "2026-07-01T06:15:00.000000+00:00",
-  "last_run": 249,
+  "last_run": 250,
   "last_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_global_explore": "2026-07-01T03:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "uncertainty quantification / conformal prediction / pipeline / reward modeling",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 760,
+  "entities_count": 763,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -1900,6 +1900,33 @@
           "theme": "agent-training / self-improvement / failure-data",
           "vector": "emergent_concept_search",
           "chain": "emergent-concepts"
+        },
+        {
+          "arxiv_id": "2605.22205",
+          "slug": "skill-weaving-efficient-llm-improvement-via-modular-skillpacks-2605.22205",
+          "title": "Skill Weaving: Efficient LLM Improvement via Modular Skillpacks",
+          "url": "https://arxiv.org/abs/2605.22205",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T04:20:11.798694+00:00",
+          "theme": "training / inference-efficiency / modular-architecture"
+        },
+        {
+          "arxiv_id": "2605.15598",
+          "slug": "compositional-jailbreaking-empirical-analysis-mutator-chain-interactions-aligned-llms-2605.15598",
+          "title": "Compositional Jailbreaking: An Empirical Analysis of Mutator Chain Interactions in Aligned LLMs",
+          "url": "https://arxiv.org/abs/2605.15598",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T04:20:11.798694+00:00",
+          "theme": "safety / adversarial / jailbreak / alignment"
+        },
+        {
+          "arxiv_id": "2603.04406",
+          "slug": "ctrl-rag-contrastive-likelihood-reward-reinforcement-learning-context-faithful-rag-2603.04406",
+          "title": "CTRL-RAG: Contrastive Likelihood Reward Based Reinforcement Learning for Context-Faithful RAG Models",
+          "url": "https://arxiv.org/abs/2603.04406",
+          "vector": "emergent_concept_search",
+          "discovered": "2026-07-01T04:20:11.798694+00:00",
+          "theme": "retrieval / rag / training / faithfulness / rl"
         }
       ],
       "last_run": "2026-07-01T02:00:00+00:00",
@@ -7477,6 +7504,30 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T06:15:00.000000+00:00",
       "theme": "learned context query / video world model memory / occlusion-aware retrieval"
+    },
+    {
+      "arxiv_id": "2605.22205",
+      "slug": "skill-weaving-efficient-llm-improvement-via-modular-skillpacks-2605.22205",
+      "title": "Skill Weaving: Efficient LLM Improvement via Modular Skillpacks",
+      "url": "https://arxiv.org/abs/2605.22205",
+      "discovered": "2026-07-01T04:20:11.798694+00:00",
+      "theme": "training / inference-efficiency / modular-architecture"
+    },
+    {
+      "arxiv_id": "2605.15598",
+      "slug": "compositional-jailbreaking-empirical-analysis-mutator-chain-interactions-aligned-llms-2605.15598",
+      "title": "Compositional Jailbreaking: An Empirical Analysis of Mutator Chain Interactions in Aligned LLMs",
+      "url": "https://arxiv.org/abs/2605.15598",
+      "discovered": "2026-07-01T04:20:11.798694+00:00",
+      "theme": "safety / adversarial / jailbreak / alignment"
+    },
+    {
+      "arxiv_id": "2603.04406",
+      "slug": "ctrl-rag-contrastive-likelihood-reward-reinforcement-learning-context-faithful-rag-2603.04406",
+      "title": "CTRL-RAG: Contrastive Likelihood Reward Based Reinforcement Learning for Context-Faithful RAG Models",
+      "url": "https://arxiv.org/abs/2603.04406",
+      "discovered": "2026-07-01T04:20:11.798694+00:00",
+      "theme": "retrieval / rag / training / faithfulness / rl"
     }
   ],
   "emergent_discoveries": [
@@ -13214,6 +13265,30 @@
       "url": "https://arxiv.org/abs/2606.31734",
       "discovered": "2026-07-01T06:15:00.000000+00:00",
       "theme": "learned context query / video world model memory / occlusion-aware retrieval"
+    },
+    {
+      "arxiv_id": "2605.22205",
+      "title": "Skill Weaving: Efficient LLM Improvement via Modular Skillpacks",
+      "slug": "skill-weaving-efficient-llm-improvement-via-modular-skillpacks-2605.22205",
+      "url": "https://arxiv.org/abs/2605.22205",
+      "discovered": "2026-07-01T04:20:11.798694+00:00",
+      "theme": "training / inference-efficiency / modular-architecture"
+    },
+    {
+      "arxiv_id": "2605.15598",
+      "title": "Compositional Jailbreaking: An Empirical Analysis of Mutator Chain Interactions in Aligned LLMs",
+      "slug": "compositional-jailbreaking-empirical-analysis-mutator-chain-interactions-aligned-llms-2605.15598",
+      "url": "https://arxiv.org/abs/2605.15598",
+      "discovered": "2026-07-01T04:20:11.798694+00:00",
+      "theme": "safety / adversarial / jailbreak / alignment"
+    },
+    {
+      "arxiv_id": "2603.04406",
+      "title": "CTRL-RAG: Contrastive Likelihood Reward Based Reinforcement Learning for Context-Faithful RAG Models",
+      "slug": "ctrl-rag-contrastive-likelihood-reward-reinforcement-learning-context-faithful-rag-2603.04406",
+      "url": "https://arxiv.org/abs/2603.04406",
+      "discovered": "2026-07-01T04:20:11.798694+00:00",
+      "theme": "retrieval / rag / training / faithfulness / rl"
     }
   ],
   "emergent_concept_search_log": [
@@ -17224,6 +17299,18 @@
       "date": "2026-07-01T06:15:00.000000+00:00",
       "theme": "EVOLUTIONARY SEARCH INTERNALIZATION / ADAPTIVE BLOCK-SIZE SPECULATIVE DECODING / LEARNED CONTEXT QUERY FOR VIDEO WORLD MODELS",
       "papers_added": 3
+    },
+    {
+      "run_number": 250,
+      "theme": "MODULAR SKILLPACK SPECIALIZATION / COMPOSITIONAL JAILBREAKING / CONTRASTIVE RL FOR CONTEXT-FAITHFUL RAG",
+      "date": "2026-07-01T04:20:11.798694+00:00",
+      "picks": [
+        "2605.22205",
+        "2605.15598",
+        "2603.04406"
+      ],
+      "vector": "emergent_concept_search",
+      "status": "success"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

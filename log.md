@@ -2296,3 +2296,9 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 - Theme: uncertainty-aware reward modeling / adaptive conformal semantic entropy / pipeline-aware conformal prediction
 - arxiv HTML fresh: 76 from 3 queries | LLM-keyword double-filter: 27 candidates | 3 orthogonal picks
 - Entities: 745 | EC last_run: 244 | WP 3-store: 728
+
+## Run 250 — 2026-07-01 UTC
+- Picks: Skill Weaving (2605.22205) + Compositional Jailbreaking (2605.15598) + CTRL-RAG (2603.04406)
+- Theme: modular skillpack specialization / compositional mutator jailbreaking / contrastive RL for context-faithful RAG
+- HF daily + arxiv HTML fresh: 12 LLM candidates | 3 orthogonal picks
+- Entities: 763 | EC last_run: 250 | WP 3-store: 755
