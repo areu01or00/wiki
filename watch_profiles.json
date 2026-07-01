@@ -1378,7 +1378,10 @@
         "1b9b938456ba658fdb84ad1c11bcebae",
         "84df6bbdd48fb31a048a096f47c459a2",
         "e4a94ae11deb77e928442e177803ca27",
-        "babc3e0fe3b9e2171ceb7a9d2aaaeef6"
+        "babc3e0fe3b9e2171ceb7a9d2aaaeef6",
+        "2606.29315",
+        "2606.29193",
+        "2606.28971"
       ],
       "last_results": [
         {
@@ -5454,6 +5457,33 @@
           "chain": "emergent-concepts",
           "theme": "agent-memory-rag",
           "discovered": "2026-07-01T00:00:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2606.29315",
+          "title": "Hierarchical Experimentalist Agents",
+          "hash": "a25f2d685723f5fde4fceb58a517a764",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "llm-agents / hierarchical-experimentation / tool-use / active-data-gathering",
+          "discovered": "2026-07-01T00:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.29193",
+          "title": "A Multi-Dataset Benchmark for Evaluating LLM Agents in Microservice Failure Diagnosis",
+          "hash": "2c2811cbd02d3815ed7c46175d181db1",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "llm-agents / benchmarking / microservice-failure-diagnosis / agentops",
+          "discovered": "2026-07-01T00:30:00+00:00"
+        },
+        {
+          "arxiv_id": "2606.28971",
+          "title": "Self-Evolving Agentic Image Restoration via Deliberate Planning and Intuitive Execution",
+          "hash": "72df98b2b84c41433924f5e69a509fd9",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "llm-agents / self-evolving / image-restoration / planning / episodic-memory",
+          "discovered": "2026-07-01T00:30:00+00:00"
         }
       ],
       "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",
@@ -6166,7 +6196,10 @@
     "1b9b938456ba658fdb84ad1c11bcebae",
     "84df6bbdd48fb31a048a096f47c459a2",
     "e4a94ae11deb77e928442e177803ca27",
-    "babc3e0fe3b9e2171ceb7a9d2aaaeef6"
+    "babc3e0fe3b9e2171ceb7a9d2aaaeef6",
+    "2606.29315",
+    "2606.29193",
+    "2606.28971"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-06-30T22:05:37+00:00",
@@ -6872,7 +6905,10 @@
       "1b9b938456ba658fdb84ad1c11bcebae",
       "84df6bbdd48fb31a048a096f47c459a2",
       "e4a94ae11deb77e928442e177803ca27",
-      "babc3e0fe3b9e2171ceb7a9d2aaaeef6"
+      "babc3e0fe3b9e2171ceb7a9d2aaaeef6",
+      "2606.29315",
+      "2606.29193",
+      "2606.28971"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "Run 171 \u2014 cognitive-simulation / dual-process-reasoning / theory-of-mind",

@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T00:00:00.000000+00:00",
   "__last_updated": "2026-07-01T00:00:00.000000+00:00",
-  "last_run": 234,
+  "last_run": 235,
   "last_explore": "2026-07-04T00:30:00.000000+00:00",
   "last_global_explore": "2026-07-03T20:30:00.000000+00:00",
-  "last_discovery": "2026-07-04",
-  "last_run_framing": "BIDIRECTIONAL COT REPAIR / LATENT MULTI-AGENT COMMUNICATION / CONTEXT-AWARE RL FOR AGENTS",
+  "last_discovery": "2026-07-01",
+  "last_run_framing": "HIERARCHICAL EXPERIMENTALIST AGENTS / MICROSERVICE FAILURE DIAGNOSIS BENCHMARK / SELF-EVOLVING AGENTIC IMAGE RESTORATION",
   "last_framing": "industrial multi-agent scheduling / disaggregated inference / math retriever benchmark",
-  "last_run_notes": "Run 233: TRI (2606.05030) + LatentComm Framework (2606.05711) + ContextRL (2606.17053)",
+  "last_run_notes": "Run 235: Hierarchical Experimentalist Agents (2606.29315) + Microservice Failure Diagnosis Benchmark (2606.29193) + Self-Evolving Agentic Image Restoration (2606.28971)",
   "last_pass_type": "emergent-concept",
   "last_run_method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "formal verification / llm reliability / gui agent / proactive document guidance",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 714,
+  "entities_count": 717,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7120,6 +7120,30 @@
       "discovered": "2026-07-01T00:00:00.000000+00:00",
       "theme": "agent-memory-rag",
       "hash": "babc3e0fe3b9e2171ceb7a9d2aaaeef6"
+    },
+    {
+      "arxiv_id": "2606.29315",
+      "slug": "hierarchical-experimentalist-agents-2606.29315",
+      "title": "Hierarchical Experimentalist Agents",
+      "url": "https://arxiv.org/abs/2606.29315",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "theme": "llm-agents / hierarchical-experimentation / tool-use / active-data-gathering"
+    },
+    {
+      "arxiv_id": "2606.29193",
+      "slug": "a-multi-dataset-benchmark-for-evaluating-llm-agents-in-microservice-failure-diagnosis-2606.29193",
+      "title": "A Multi-Dataset Benchmark for Evaluating LLM Agents in Microservice Failure Diagnosis",
+      "url": "https://arxiv.org/abs/2606.29193",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "theme": "llm-agents / benchmarking / microservice-failure-diagnosis / agentops"
+    },
+    {
+      "arxiv_id": "2606.28971",
+      "slug": "self-evolving-agentic-image-restoration-via-deliberate-planning-and-intuitive-execution-2606.28971",
+      "title": "Self-Evolving Agentic Image Restoration via Deliberate Planning and Intuitive Execution",
+      "url": "https://arxiv.org/abs/2606.28971",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "theme": "llm-agents / self-evolving / image-restoration / planning / episodic-memory"
     }
   ],
   "emergent_discoveries": [
@@ -12521,6 +12545,30 @@
       "url": "https://arxiv.org/abs/2606.26807",
       "discovered": "2026-07-01T00:00:00.000000+00:00",
       "theme": "agent-memory-rag"
+    },
+    {
+      "arxiv_id": "2606.29315",
+      "title": "Hierarchical Experimentalist Agents",
+      "slug": "hierarchical-experimentalist-agents-2606.29315",
+      "url": "https://arxiv.org/abs/2606.29315",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "theme": "llm-agents / hierarchical-experimentation / tool-use / active-data-gathering"
+    },
+    {
+      "arxiv_id": "2606.29193",
+      "title": "A Multi-Dataset Benchmark for Evaluating LLM Agents in Microservice Failure Diagnosis",
+      "slug": "a-multi-dataset-benchmark-for-evaluating-llm-agents-in-microservice-failure-diagnosis-2606.29193",
+      "url": "https://arxiv.org/abs/2606.29193",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "theme": "llm-agents / benchmarking / microservice-failure-diagnosis / agentops"
+    },
+    {
+      "arxiv_id": "2606.28971",
+      "title": "Self-Evolving Agentic Image Restoration via Deliberate Planning and Intuitive Execution",
+      "slug": "self-evolving-agentic-image-restoration-via-deliberate-planning-and-intuitive-execution-2606.28971",
+      "url": "https://arxiv.org/abs/2606.28971",
+      "discovered": "2026-07-01T00:30:00+00:00",
+      "theme": "llm-agents / self-evolving / image-restoration / planning / episodic-memory"
     }
   ],
   "emergent_concept_search_log": [
@@ -18842,6 +18890,17 @@
         "2606.26807"
       ],
       "theme": "AGENT MEMORY TOPOLOGY / KNOWLEDGE-BASED AUGMENTED RAG / ADVERSARIAL CLIMATE AGENTIC SYSTEMS",
+      "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection"
+    },
+    {
+      "run": 235,
+      "date": "2026-07-01",
+      "picks": [
+        "2606.29315",
+        "2606.29193",
+        "2606.28971"
+      ],
+      "theme": "HIERARCHICAL EXPERIMENTALIST AGENTS / MICROSERVICE FAILURE DIAGNOSIS BENCHMARK / SELF-EVOLVING AGENTIC IMAGE RESTORATION",
       "method": "arxiv HTML 4-query + LLM-keyword filter + abstract inspection"
     }
   ],

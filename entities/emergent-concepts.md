@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 235) — HIERARCHICAL EXPERIMENTALIST AGENTS / MICROSERVICE FAILURE DIAGNOSIS BENCHMARK / SELF-EVOLVING AGENTIC IMAGE RESTORATION**
+
+- [[hierarchical-experimentalist-agents-2606.29315]]
+  Hierarchical Experimentalist Agents (HEA): LLM agents perform hierarchical scientific experimentation in novel domains — forming hypotheses, designing multi-step experiments, executing tool-based trials, and iteratively refining theories based on observed evidence. Agents actively probe the environment to gather novel empirical data rather than relying on pre-existing knowledge or fixed post-training. **First hierarchical experimentalist agents that use LLM-driven hypothesis formation + tool-grounded active data gathering in the wiki.**
+
+- [[a-multi-dataset-benchmark-for-evaluating-llm-agents-in-microservice-failure-diagnosis-2606.29193]]
+  Microservice Failure Diagnosis Benchmark: Large-scale benchmark evaluating LLM agents in AgentOps — scores both final diagnostic answers AND the systematic reasoning process leading to those diagnoses. Covers multimodal observability data (traces, metrics, logs) from microservice environments. Addresses the gap where most benchmarks only score outcomes without assessing diagnostic reasoning quality. **First process-oriented benchmarking framework for LLM agents in microservice failure diagnosis in the wiki.**
+
+- [[self-evolving-agentic-image-restoration-via-deliberate-planning-and-intuitive-execution-2606.28971]]
+  Self-Evolving Agentic Image Restoration: Dual-system architecture combining deliberate LLM planning with intuitive reactive execution for image restoration. Addresses greedy search failure (exploration-exploitation balance) and episodic amnesia (information underutilization) in existing agentic IR frameworks. Agents improve policies over time through experience. **First self-evolving agentic image restoration framework combining deliberate planning with intuitive execution in the wiki.**
+
 **2026-07-01 — Run 234) — AGENT MEMORY TOPOLOGY / KNOWLEDGE-BASED AUGMENTED RAG / ADVERSARIAL CLIMATE AGENTIC SYSTEMS**
 
 - [[hyphaedb-a-living-knowledge-topology-for-agent-first-memory-2606.28781]]
