@@ -144,6 +144,14 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-07-01** | [Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine](https://blog.kog.ai/kog-laneformer-2b-the-latency-first-model-behind-kog-inference-engine/) | kw: kog-ai | score: 8
 - **2026-07-01** | [Kog Labs](https://blog.kog.ai/) | kw: kog-ai | score: 8
 
+- **2026-07-01** | [AI Updates Today (July 2026) – Latest AI Model Releases](https://llm-stats.com/llm-updates) | kw: api launch | source: MiniMax
+- **2026-07-01** | [Latest AI Model Releases — July 2026](https://aireleasetracker.com/latest) | kw: weights drop | source: MiniMax
+- **2026-07-01** | [Anthropic Launches Claude Sonnet 5 With Near-Opus Performance](https://www.macrumors.com/2026/06/30/anthropic-claude-sonnet-5/) | kw: api launch | source: anthropic-releases
+- **2026-07-01** | [LLM Stats AI Updates Today July 2026](https://llm-stats.com/llm-updates) | kw: weights drop | source: mistral-releases
+- **2026-07-01** | [10 Best NEW Games To Play In July 2026 YouTube](https://www.youtube.com/watch?v=_7Nvp9iwG94) | kw: api launch | source: fenom-ai
+- **2026-07-01** | [PlayStation Plus Free Games July 2026 Forbes](https://www.forbes.com/sites/erikkain/2026/06/28/ps-plus-july-2026-predictions-leaks-reveal/) | kw: api launch | source: fenom-ai
+- **2026-07-01** | [100 Days At Sea codes July 2026 Eurogamer](https://www.eurogamer.net/roblox-100-days-at-sea-codes) | kw: api launch | source: fenom-ai
+
 ## Auto-Discovered Profiles
 
 | Profile ID | Org | Query | Discovered |
