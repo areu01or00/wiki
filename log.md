@@ -2302,3 +2302,8 @@ Explore: 2026-07-01T10:00 UTC — Run 156: INFERENCE EFFICIENCY + MULTIAGENT-COM
 - Theme: modular skillpack specialization / compositional mutator jailbreaking / contrastive RL for context-faithful RAG
 - HF daily + arxiv HTML fresh: 12 LLM candidates | 3 orthogonal picks
 - Entities: 763 | EC last_run: 250 | WP 3-store: 755
+## Run 252 — 2026-07-01T07:15 UTC
+**Theme**: CAUSAL PERTURBATIVE ELICITATION / DYNAMIC RUBRIC REWARDS / ACTIVATION CONSISTENCY SAFETY
+**Picks**: 2606.29604 (CPE), 2606.23038 (EvoRubrics), 2605.28467 (Activation Consistency)
+**Discover**: arxiv HTML 4-query (199 IDs → 18 fresh → 3 orthogonal picks) — HF daily 100% absorbed (Rule 107)
+**Status**: SUCCESS
