@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T22:00:00.000000+00:00",
   "__last_updated": "2026-07-01T20:00:00.000000+00:00",
-  "last_run": 303,
+  "last_run": 304,
   "last_explore": "2026-07-01T22:00:00.000000+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
-  "last_discovery": "PROMPT ENGINEERING / IN-CONTEXT LEARNING / CHAIN-OF-THOUGHT DECOMPOSITION",
-  "last_run_framing": "PROMPT ENGINEERING / IN-CONTEXT LEARNING / CHAIN-OF-THOUGHT DECOMPOSITION",
+  "last_discovery": "SAFETY-MECHANISMS / SCIENTIFIC-AI-AUTOMATION / ALIGNMENT THEORY",
+  "last_run_framing": "SAFETY-MECHANISMS / SCIENTIFIC-AI-AUTOMATION / ALIGNMENT THEORY",
   "last_framing": "DIVERSITYAGENTDIFFUSION",
-  "last_run_notes": "Run 298: 2606.28425, 2606.29399, 2605.00419",
+  "last_run_notes": "Run 304: 2606.30246, 2605.07105, 2601.04034",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "Rule 36h PROBE-AXIS: prompt-engineering/ICL",
+  "last_run_method": "Rule 36h PROBE-AXIS: safety-mechanisms + scientific-AI-automation",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
-  "emergent_theme": "instruction-tuning + RLHF + agent-evaluation",
+  "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
   "chains_updated": 0,
-  "entities_count": 922,
+  "entities_count": 925,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8851,6 +8851,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T22:00:00.000000+00:00",
       "theme": "CoT decomposition / power-law scaling / reasoning structure"
+    },
+    {
+      "arxiv_id": "2606.30246",
+      "slug": "clarus-coordinating-autonomous-research-agents-web-scale-scientific-collaboration-2606.30246",
+      "title": "Clarus: Coordinating Autonomous Research Agents toward Web-Scale Scientific Collaboration",
+      "url": "https://arxiv.org/abs/2606.30246",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T20:15:27.366407+00:00",
+      "theme": "scientific-AI-automation / multi-agent-research / web-scale-collaboration",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.07105",
+      "slug": "theoretical-limits-of-language-model-alignment-2605.07105",
+      "title": "Theoretical Limits of Language Model Alignment",
+      "url": "https://arxiv.org/abs/2605.07105",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T20:15:27.366407+00:00",
+      "theme": "alignment-theory / safety-mechanisms / reward-hacking / theoretical-limits",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2601.04034",
+      "slug": "honeytrap-deceiving-large-language-model-attackers-honeypot-traps-2601.04034",
+      "title": "HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense",
+      "url": "https://arxiv.org/abs/2601.04034",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T20:15:27.366407+00:00",
+      "theme": "safety-mechanisms / jailbreak-defense / honeypot / multi-agent-defense",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -15653,6 +15683,30 @@
       "url": "https://arxiv.org/abs/2506.08125",
       "discovered": "2026-07-01",
       "theme": "reasoning-efficiency"
+    },
+    {
+      "arxiv_id": "2606.30246",
+      "title": "Clarus: Coordinating Autonomous Research Agents toward Web-Scale Scientific Collaboration",
+      "slug": "clarus-coordinating-autonomous-research-agents-web-scale-scientific-collaboration-2606.30246",
+      "url": "https://arxiv.org/abs/2606.30246",
+      "discovered": "2026-07-01T20:15:27.366407+00:00",
+      "theme": "scientific-AI-automation / multi-agent-research / web-scale-collaboration"
+    },
+    {
+      "arxiv_id": "2605.07105",
+      "title": "Theoretical Limits of Language Model Alignment",
+      "slug": "theoretical-limits-of-language-model-alignment-2605.07105",
+      "url": "https://arxiv.org/abs/2605.07105",
+      "discovered": "2026-07-01T20:15:27.366407+00:00",
+      "theme": "alignment-theory / safety-mechanisms / reward-hacking / theoretical-limits"
+    },
+    {
+      "arxiv_id": "2601.04034",
+      "title": "HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense",
+      "slug": "honeytrap-deceiving-large-language-model-attackers-honeypot-traps-2601.04034",
+      "url": "https://arxiv.org/abs/2601.04034",
+      "discovered": "2026-07-01T20:15:27.366407+00:00",
+      "theme": "safety-mechanisms / jailbreak-defense / honeypot / multi-agent-defense"
     }
   ],
   "emergent_concept_search_log": [
@@ -20506,6 +20560,13 @@
       ],
       "method": "Rule 36h PROBE-AXIS: prompt-engineering/ICL",
       "added": 3
+    },
+    {
+      "run_number": 304,
+      "papers_added": 3,
+      "theme": "SAFETY-MECHANISMS / SCIENTIFIC-AI-AUTOMATION / ALIGNMENT THEORY",
+      "run_method": "Rule 36h PROBE-AXIS: safety-mechanisms + scientific-AI-automation",
+      "timestamp": "2026-07-01T20:15:27.366407+00:00"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
