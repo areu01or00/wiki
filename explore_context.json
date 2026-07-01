@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T14:30:00.000000+00:00",
   "__last_updated": "2026-07-01T16:45:11+00:00",
-  "last_run": 292,
-  "last_explore": "2026-07-01T17:07:34+00:00",
+  "last_run": 293,
+  "last_explore": "2026-07-01T17:31:14+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "Continual Learning Survey / SAE-Guided Regularization / SLM Sequential Personalization",
-  "last_framing": "CLSURVEYSAEREGSLMPERS",
-  "last_run_notes": "Run 292: 2606.27634, 2606.26629, 2606.24901",
+  "last_run_framing": "Verbalized Uncertainty Calibration / Defeasible Reasoning Scaffolding / Retrieval-Specific Overconfidence",
+  "last_framing": "UNCALVDOCALRETRAG",
+  "last_run_notes": "Run 293: 2606.27023, 2606.26366, 2606.22728",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 5-date emergent-concept discovery + web_search continual learning probe; Rule 36h pivot from self-improvement cluster (Runs 289-291)",
+  "last_run_method": "HF daily (CV-heavy) + arxiv HTML search (calibration/uncertainty/ICL axes) + web_search \u2014 Rule 36h PROBE-AXIS calibration/uncertainty + Rule 15d escape hatch",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "self-improvement / strategy memory / flow reasoning",
   "emergent_theme": "self-improvement / strategy memory / flow reasoning",
   "chains_updated": 0,
-  "entities_count": 889,
+  "entities_count": 892,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8596,6 +8596,36 @@
       "discovered": "2026-07-01T17:07:34+00:00",
       "theme": "continual learning / industrial LLM / lifecycle management / static benchmark critique",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.27023",
+      "slug": "just-how-sure-are-you-improving-verbalized-uncertainty-calibration-in-llms-2606.27023",
+      "title": "Just how sure are you? Improving Verbalized Uncertainty Calibration in LLMs",
+      "url": "https://arxiv.org/abs/2606.27023",
+      "vector": "emergent_concept_search",
+      "theme": "verbalized uncertainty / confidence calibration / LLM self-reporting",
+      "discovered": "2026-07-01T17:31:14+00:00",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.26366",
+      "slug": "narration-of-thought-inference-time-scaffolding-for-defeasible-reasoning-2606.26366",
+      "title": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Reasoning",
+      "url": "https://arxiv.org/abs/2606.26366",
+      "vector": "emergent_concept_search",
+      "theme": "inference-time reasoning / defeasible reasoning scaffolds / chain-of-thought extension",
+      "discovered": "2026-07-01T17:31:14+00:00",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.22728",
+      "slug": "when-confidence-takes-the-wrong-path-diagnosing-retrieval-specific-overconfidence-in-llms-2606.22728",
+      "title": "When Confidence Takes the Wrong Path: Diagnosing Retrieval-Specific Overconfidence in LLMs",
+      "url": "https://arxiv.org/abs/2606.22728",
+      "vector": "emergent_concept_search",
+      "theme": "retrieval confidence / diagnostic / overconfidence / RAG reliability",
+      "discovered": "2026-07-01T17:31:14+00:00",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -15173,6 +15203,30 @@
       "url": "https://arxiv.org/abs/2606.24901",
       "discovered": "2026-07-01T17:07:34+00:00",
       "theme": "continual learning / industrial LLM / lifecycle management / static benchmark critique"
+    },
+    {
+      "arxiv_id": "2606.27023",
+      "title": "Just how sure are you? Improving Verbalized Uncertainty Calibration in LLMs",
+      "slug": "just-how-sure-are-you-improving-verbalized-uncertainty-calibration-in-llms-2606.27023",
+      "url": "https://arxiv.org/abs/2606.27023",
+      "discovered": "2026-07-01T17:31:14+00:00",
+      "theme": "verbalized uncertainty / confidence calibration / LLM self-reporting"
+    },
+    {
+      "arxiv_id": "2606.26366",
+      "title": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Reasoning",
+      "slug": "narration-of-thought-inference-time-scaffolding-for-defeasible-reasoning-2606.26366",
+      "url": "https://arxiv.org/abs/2606.26366",
+      "discovered": "2026-07-01T17:31:14+00:00",
+      "theme": "inference-time reasoning / defeasible reasoning scaffolds / chain-of-thought extension"
+    },
+    {
+      "arxiv_id": "2606.22728",
+      "title": "When Confidence Takes the Wrong Path: Diagnosing Retrieval-Specific Overconfidence in LLMs",
+      "slug": "when-confidence-takes-the-wrong-path-diagnosing-retrieval-specific-overconfidence-in-llms-2606.22728",
+      "url": "https://arxiv.org/abs/2606.22728",
+      "discovered": "2026-07-01T17:31:14+00:00",
+      "theme": "retrieval confidence / diagnostic / overconfidence / RAG reliability"
     }
   ],
   "emergent_concept_search_log": [
@@ -16704,6 +16758,17 @@
         "2601.18292",
         "2606.09461"
       ]
+    },
+    {
+      "run": 293,
+      "timestamp": "2026-07-01T17:31:14+00:00",
+      "source": "HF daily + arxiv HTML search + web_search",
+      "papers_found": [
+        "2606.27023",
+        "2606.26366",
+        "2606.22728"
+      ],
+      "framing": "Verbalized Uncertainty Calibration / Defeasible Reasoning Scaffolding / Retrieval-Specific Overconfidence"
     }
   ],
   "emergent_concept_search_runs": [
@@ -19795,6 +19860,19 @@
       "theme": "continual learning / catastrophic forgetting / industrial LLM lifecycle",
       "framing": "CONTINUAL LEARNING / SAE FEATURE REGULARIZATION / SLM PERSONALIZATION",
       "method": "HF daily 5-date + web_search continual learning probe; Rule 36h PROBE-AXIS pivot from self-improvement cluster"
+    },
+    {
+      "run_number": 293,
+      "date": "2026-07-01",
+      "papers_added": 3,
+      "paper_ids": [
+        "2606.27023",
+        "2606.26366",
+        "2606.22728"
+      ],
+      "framing": "Verbalized Uncertainty Calibration / Defeasible Reasoning Scaffolding / Retrieval-Specific Overconfidence",
+      "method": "HF daily + arxiv HTML search + web_search",
+      "theme": "calibration / uncertainty / ICL (Rule 36h)"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",

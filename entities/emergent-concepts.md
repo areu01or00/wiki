@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 293: Verbalized Uncertainty Calibration / Defeasible Reasoning Scaffolding / Retrieval-Specific Overconfidence
+
+- [[just-how-sure-are-you-improving-verbalized-uncertainty-calibration-in-llms-2606.27023]]
+  Just how sure are you? Improving Verbalized Uncertainty Calibration in LLMs — Senoglu, Eren; Toschi, Federico; Brunello, Nicolo — first systematic empirical study of verbalized uncertainty calibration across 5 domains (medical, legal, factual, mathematical, commonsense), finding LLMs systematically miscalibrate verbalized confidence, and proposing a prompting-based intervention improving verbalized uncertainty reliability by ~18%. **First empirical study of verbalized uncertainty calibration with V-Cal metric in wiki.**
+
+- [[narration-of-thought-inference-time-scaffolding-for-defeasible-reasoning-2606.26366]]
+  Narration-of-Thought: Inference-Time Scaffolding for Defeasible Reasoning — Cooper, Patrick; Velasquez, Alvaro — inference-time prompting scaffold generating explicit assumption-narration and counterargument tracks to enable belief revision before committing to an answer, improving defeasible reasoning by +23% over standard chain-of-thought without fine-tuning. **First inference-time defeasible reasoning scaffold (Narration-of-Thought) in wiki.**
+
+- [[when-confidence-takes-the-wrong-path-diagnosing-retrieval-specific-overconfidence-in-llms-2606.22728]]
+  When Confidence Takes the Wrong Path: Diagnosing Retrieval-Specific Overconfidence in LLMs — Julka, Sahib — systematic diagnosis of retrieval-specific overconfidence as a distinct failure class where LLM confidence tracks parametric knowledge but not retrieved evidence quality, with RAG-Conf-Diag benchmark and confidence-reset mitigation technique. **First systematic diagnosis of retrieval-specific overconfidence as a named failure class in wiki.**
+
 ### 2026-07-01 — Run 292: Continual Learning Survey / SAE-Guided Regularization / SLM Sequential Personalization
 
 - [[continual-learning-for-sequential-personalization-of-small-language-mo-2606.27634]]
