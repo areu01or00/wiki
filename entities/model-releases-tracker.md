@@ -17,6 +17,50 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+
+- **2026-07-01** | [MiniMax AI releases MiniMax M3, an open-weight multimodal model...](https://digg.com/tech/a8ckwh19) | kw: OPEN SOURCE | OFFICIAL ANNOUNCEMENT | source: MiniMax
+- **2026-07-01** | [MiniMax-M3: Leading open weights model, once the weights are...](https://artificialanalysis.ai/articles/minimax-m3) | kw: OPEN SOURCE | WEIGHTS DROP | source: MiniMax
+- **2026-07-01** | [MiniMax M3 Goes Open Source: A 428B-Parameter MoE Beast With...](https://freeai.help/blog/minimax-m3-goes-open-source-a-428b-parameter_en) | kw: OPEN SOURCE | source: MiniMax
+- **2026-07-01** | [How to Access Claude 3 API for Opus and Sonnet Models... | Beebom](https://beebom.com/how-access-claude-3-api-opus-sonnet-models-examples/) | kw: API LAUNCH | source: anthropic-releases
+- **2026-07-01** | [Cohere launches open weights model Command A+ - LinkedIn](https://www.linkedin.com/pulse/cohere-launches-open-weights-model-command-more-than-ywoie) | kw: OPEN SOURCE | WEIGHTS DROP | API LAUNCH | source: cohere-releases
+- **2026-07-01** | [DeepSeek-V3.1 Release | DeepSeek API Docs](https://api-docs.deepseek.com/news/news250821) | kw: API LAUNCH | OFFICIAL ANNOUNCEMENT | source: deepseek-releases
+- **2026-07-01** | [DeepSeek-V3/README_WEIGHTS.md at main - GitHub](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/README_WEIGHTS.md) | kw: WEIGHTS DROP | source: deepseek-releases
+- **2026-07-01** | [DeepSeek-R1 Release | DeepSeek API Docs](https://api-docs.deepseek.com/news/news250120) | kw: API LAUNCH | OFFICIAL ANNOUNCEMENT | source: deepseek-releases
+- **2026-07-01** | [README_WEIGHTS.md - deepseek-ai/DeepSeek-V3 at main](https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/main/README_WEIGHTS.md) | kw: WEIGHTS DROP | source: deepseek-releases
+- **2026-07-01** | [GLM-5.2: Zhipu AI 1M-Token Open-Weight Coding Model - Eigent AI](https://www.eigent.ai/blog/glm-5-2) | kw: OPEN SOURCE | source: glm-releases
+- **2026-07-01** | [What Is Gemma 4? Google Open-Weight Model Family - MindStudio](https://www.mindstudio.ai/blog/what-is-gemma-4-google-open-weight-model) | kw: OPEN SOURCE | source: google-deepmind-releases
+- **2026-07-01** | [Google Gemma 4 open-weights surpasses 200 million - Instagram](www.instagram.com/reel/DaHfuSvTXmV/) | kw: OPEN SOURCE | WEIGHTS DROP | source: google-deepmind-releases
+- **2026-07-01** | [Kimi K2.7 Code - Kimi API Platform](https://platform.kimi.ai/docs/guide/kimi-k2-7-code-quickstart) | kw: API LAUNCH | source: kimi-releases
+- **2026-07-01** | [Kimi K2.6 - Kimi API Platform](https://platform.kimi.ai/docs/guide/kimi-k2-6-quickstart) | kw: API LAUNCH | source: kimi-releases
+- **2026-07-01** | [KREA API - AI Image Generation, Upscaling & Video API](https://www.krea.ai/features/api) | kw: API LAUNCH | source: krea
+- **2026-07-01** | [Replicate - Run open-source machine learning models with a cloud API](https://replicate.com/) | kw: OPEN SOURCE | API LAUNCH | source: krea
+- **2026-07-01** | [Top 10 Open-Weight LLMs in 2026 (Ranked by Arena Elo)](https://techjacksolutions.com/ai-tools/rankings/top-open-weight-llms/) | kw: OPEN SOURCE | source: llm-stats-updates
+- **2026-07-01** | [Llama 3: Meta AI State-of-the-Art Open Source LLM - Encord](https://www.encord.com/blog/meta-releases-llama-3/) | kw: OPEN SOURCE | source: meta-llama-releases
+- **2026-07-01** | [Class Leading, Open-Source AI - Download Llama](https://www.llama.com/llama-downloads/) | kw: OPEN SOURCE | source: meta-llama-releases
+- **2026-07-01** | [Mistral just launched their new large open weights model - X](https://x.com/ArtificialAnlys/status/1995946145236001168) | kw: OPEN SOURCE | WEIGHTS DROP | API LAUNCH | source: mistral-releases
+- **2026-07-01** | [GPT-5.6 is government-gated: what it means if you build on AI APIs](https://apidog.com/blog/gpt-5-6-government-preview/) | kw: API LAUNCH | source: openai-releases
+- **2026-07-01** | [Qwen AI - Open-Source LLMs, Vision, Audio & Coding Models 2026](https://qwen-ai.com/) | kw: OPEN SOURCE | source: qwen-releases
+- **2026-07-01** | [Apertus: a fully open, transparent, multilingual language model - ETH Zurich](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html) | kw: OPEN SOURCE | source: swiss-ai-apertus
+- **2026-07-01** | [Apertus: Swiss Open Source LLM - OSI Discuss](https://discuss.opensource.org/t/apertus-swiss-open-source-llm/1286) | kw: OPEN SOURCE | source: swiss-ai-apertus
+- **2026-07-01** | [Apertus AI - Fully Open Foundation Model for Sovereign AI](https://apertvs.ai/) | kw: OPEN SOURCE | source: swiss-ai-apertus
+- **2026-07-01** | [Elon Musk said on X that the AI model Grok 4.5 is now in the private beta testing](https://www.facebook.com/yicaiglobal/posts/elon-musk-said-on-x-that-the-ai-model-grok-45-is-now-in-the-private-beta-testing/1452177050286957/) | kw: API LAUNCH | source: xai-releases
+- **2026-07-01** | [AI21 Labs Business Breakdown and Founding Story - Contrary Research](https://research.contrary.com/company/ai21-labs) | kw: BENCHMARK/PAPER | source: ai21-releases
+- **2026-07-01** | [Large Language Model Release, April 2026 News...](https://fazm.ai/t/large-language-model-release-april-2026-news) | kw: OFFICIAL ANNOUNCEMENT | source: anthropic-releases
+- **2026-07-01** | [Huggingface trending papers - YouTube](https://www.youtube.com/playlist?list=PLaqtT9NC6DWIki6jQXi4x63ylNxelslic) | kw: BENCHMARK/PAPER | source: huggingface-trending
+- **2026-07-01** | [Distill AI - AI research, distilled](https://www.distillai.ai/) | kw: BENCHMARK/PAPER | source: huggingface-trending
+- **2026-07-01** | [Release - LLM-jp](https://llm-jp.nii.ac.jp/en/release-en/) | kw: OFFICIAL ANNOUNCEMENT | source: llm-jp-leocom
+- **2026-07-01** | [Release of LLM-jp-3 MoE Series - NII](https://llmc.nii.ac.jp/en/topics/release-of-llm-jp-3-moe-series/) | kw: OFFICIAL ANNOUNCEMENT | source: llm-jp-leocom
+- **2026-07-01** | [AI Updates Today (July 2026) - Latest AI Model Releases](https://llm-stats.com/llm-updates) | kw: OFFICIAL ANNOUNCEMENT | source: llm-stats-updates
+- **2026-07-01** | [LLM News Today (July 2026) - AI Model Releases](https://llm-stats.com/ai-news) | kw: OFFICIAL ANNOUNCEMENT | source: llm-stats-updates
+- **2026-07-01** | [What a week since we released Meta Llama 3!](https://www.linkedin.com/posts/ahmad-al-dahle_what-a-week-since-we-released-meta-llama-activity-7189374536633532417-AyuO) | kw: OFFICIAL ANNOUNCEMENT | source: meta-llama-releases
+- **2026-07-01** | [Meta releases its first open AI model that can process images - The Verge](https://www.theverge.com/2024/9/25/24253774/meta-ai-vision-model-llama-3-2-announced) | kw: OFFICIAL ANNOUNCEMENT | source: meta-llama-releases
+- **2026-07-01** | [Mistral just released Mistral 3 - Reddit r/LocalLLaMA](www.reddit.com/r/LocalLLaMA/comments/1pceipb/mistral_just_released_mistral_3_a_full_openweight/) | kw: OFFICIAL ANNOUNCEMENT | source: mistral-releases
+- **2026-07-01** | [Sakana Fugu Might Be the Most Important AI Release Nobody Noticed - Medium](https://medium.com/@kanishks772/sakana-fugu-might-be-the-most-important-ai-release-nobody-noticed-32b29c17a78b) | kw: OFFICIAL ANNOUNCEMENT | source: sakana-ai
+- **2026-07-01** | [New AI Model Release Sakana Fugu Created 3D Games In Minutes - Reddit](https://www.reddit.com/r/AISEOInsider/comments/1uee7gm/new_ai_model_release_sakana_fugu_created_3d_games/) | kw: OFFICIAL ANNOUNCEMENT | source: sakana-ai
+- **2026-07-01** | [Apertus: Democratizing Open and Compliant LLMs - arXiv](https://arxiv.org/abs/2509.14233) | kw: BENCHMARK/PAPER | source: swiss-ai-apertus
+- **2026-07-01** | [News: Research, Product and Company Updates | xAI](https://x.ai/news) | kw: BENCHMARK/PAPER | source: xai-releases
+- **2026-07-01** | [MiniMax M3 Guide: Benchmarks, Pricing, API Access - Minimax Ai](https://minimax-ai.chat/models/minimax-m3/) | kw: API LAUNCH | BENCHMARK/PAPER | source: MiniMax
+- **2026-07-01** | [Overview - Perplexity API](https://docs.perplexity.ai/) | kw: API LAUNCH | source: perplexity-releases
 - **2026-07-01** | [Models - Minimax AI Chat](https://minimax-ai.chat/models/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: MiniMax
 - **2026-07-01** | [Claude (AI) - Wikipedia](https://en.wikipedia.org/wiki/Claude_(language_model)) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: anthropic-releases
 - **2026-07-01** | [Claude Opus 4.8 Guide 2026: Pronunciation, Pricing & When to Use...](https://ai.zenken.co.jp/en/post/claude-opus-model-guide-2026/) | kw: WEIGHTS DROP, OFFICIAL ANNOUNCEMENT | source: anthropic-releases
