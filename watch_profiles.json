@@ -1719,7 +1719,10 @@
         "e1f3b1813e8074108ff30cad6d9e7eb6",
         "3820eecef3897a81c824b1c05f7918b7",
         "d4e68d47b1e641a3fae19cebf32e17f0",
-        "ecf4fabcd4e36fdf00241c12db9a4bb1"
+        "ecf4fabcd4e36fdf00241c12db9a4bb1",
+        "72244e94e88affbb11bc068d9a3aa90c",
+        "b4332fbb8d0d0fc74e633bc3bd768e98",
+        "4f58e55f1db2af856ffefa2a7f801f51"
       ],
       "last_results": [
         {
@@ -5984,6 +5987,33 @@
           "chain": "emergent-concepts",
           "theme": "delegated AI governance / activation steering / semantic constraint evaluation",
           "discovered": "2026-07-01"
+        },
+        {
+          "arxiv_id": "2606.31174",
+          "title": "ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents",
+          "hash": "72244e94e88affbb11bc068d9a3aa90c",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent orchestration benchmark / subagent team management / dynamic workflow evaluation",
+          "discovered": "2026-07-01T12:00:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2606.29955",
+          "title": "SpreadsheetBench 2: Evaluating Agents on End-to-end Business Spreadsheet Workflows",
+          "hash": "b4332fbb8d0d0fc74e633bc3bd768e98",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent benchmark / spreadsheet workflow / end-to-end business task evaluation",
+          "discovered": "2026-07-01T12:00:00.000000+00:00"
+        },
+        {
+          "arxiv_id": "2606.29824",
+          "title": "Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering",
+          "hash": "4f58e55f1db2af856ffefa2a7f801f51",
+          "vector": "emergent",
+          "chain": "emergent-concepts",
+          "theme": "agent memory / implicit activation steering / procedural knowledge encoding",
+          "discovered": "2026-07-01T12:00:00.000000+00:00"
         }
       ],
       "last_run": "2026-07-02 00:00 UTC",
@@ -6841,7 +6871,10 @@
     "e1f3b1813e8074108ff30cad6d9e7eb6",
     "3820eecef3897a81c824b1c05f7918b7",
     "d4e68d47b1e641a3fae19cebf32e17f0",
-    "ecf4fabcd4e36fdf00241c12db9a4bb1"
+    "ecf4fabcd4e36fdf00241c12db9a4bb1",
+    "72244e94e88affbb11bc068d9a3aa90c",
+    "b4332fbb8d0d0fc74e633bc3bd768e98",
+    "4f58e55f1db2af856ffefa2a7f801f51"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -7660,7 +7693,10 @@
       "e1f3b1813e8074108ff30cad6d9e7eb6",
       "3820eecef3897a81c824b1c05f7918b7",
       "d4e68d47b1e641a3fae19cebf32e17f0",
-      "ecf4fabcd4e36fdf00241c12db9a4bb1"
+      "ecf4fabcd4e36fdf00241c12db9a4bb1",
+      "72244e94e88affbb11bc068d9a3aa90c",
+      "b4332fbb8d0d0fc74e633bc3bd768e98",
+      "4f58e55f1db2af856ffefa2a7f801f51"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "2026-07-02 00:00 UTC",

@@ -17,6 +17,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 269) — SUBAGENT ORCHESTRATION BENCHMARK / END-TO-END SPREADSHEET WORKFLOW AGENT / NEURAL PROCEDURAL MEMORY**
+
+- [[clawarena-team-benchmarking-subagent-orchestration-and-dynamic-workflows-in-language-model-agents-2606.31174]]
+  Orchestration Benchmark: First benchmark isolating singular-model team management ability — whether one LLM can direct subagents, delegate subtasks, and synthesize parallel asynchronous returns. Distinguishes task-solving from team-management performance. Orthogonal to prior runs' agentic benchmark papers.
+
+- [[spreadsheetbench-2-evaluating-agents-on-end-to-end-business-spreadsheet-workflows-2606.29955]]
+  Spreadsheet Agent Benchmark: First end-to-end business spreadsheet workflow benchmark for LLM agents — covers generation, debugging, and visualization chains in realistic financial/business settings. Distinguishes workflow-level task completion from isolated formula/cell operations. Orthogonal to prior runs' planning benchmark papers.
+
+- [[neural-procedural-memory-empowering-llm-agents-with-implicit-activation-steering-2606.29824]]
+  Neural Memory: First implicit activation steering approach to agent procedural memory — encodes procedural knowledge directly into LLM activations rather than symbolic RAG context injection. Addresses text-action disconnect in existing memory systems. Orthogonal to prior runs' agent memory papers.
+
 **2026-07-01 — Run 268) — AGENT INTERACTION DATA SYNTHESIS / CROSS-LINGUAL PARAMETRIC KNOWLEDGE / SEMANTIC KV-CACHE COMPRESSION**
 
 - [[scaling-agentic-capabilities-via-grounded-interaction-synthesis-2606.02001]]

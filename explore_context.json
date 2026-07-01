@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T09:34:09.474205+00:00",
   "__last_updated": "2026-07-02T12:00:00.000000+00:00",
-  "last_run": 268,
+  "last_run": 269,
   "last_explore": "2026-07-01T09:34:09.474205+00:00",
   "last_global_explore": "2026-07-01T09:34:09.474205+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "AGENT INTERACTION DATA SYNTHESIS / CROSS-LINGUAL PARAMETRIC KNOWLEDGE / SEMANTIC KV-CACHE COMPRESSION",
+  "last_run_framing": "SUBAGENT ORCHESTRATION BENCHMARK / END-TO-END SPREADSHEET WORKFLOW AGENT / NEURAL PROCEDURAL MEMORY",
   "last_framing": "agent interaction data synthesis / cross-lingual parametric knowledge / semantic KV-cache compression",
   "last_run_notes": "Run 268: 2606.02001 / 2606.24579 / 2606.24467",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "arxiv HTML search 4-query (193 IDs, 390 fresh, 7 LLM-filtered, 3 picked)",
+  "last_run_method": "arxiv HTML search 8-query (375 IDs, 318 fresh, 29 LLM-candidates, 3 orthogonal picks)",
   "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "agentic commerce / CAD geometric reasoning / agentic workflow taxonomy",
   "emergent_theme": "context-drift-hallucination-self-evolving-streaming-agents-ehr-grounded-clinical",
   "chains_updated": 0,
-  "entities_count": 817,
+  "entities_count": 820,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -7966,6 +7966,36 @@
       "discovered": "2026-07-01T09:34:09.474205+00:00",
       "vector": "emergent_concept_search",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31174",
+      "slug": "clawarena-team-benchmarking-subagent-orchestration-and-dynamic-workflows-in-language-model-agents-2606.31174",
+      "title": "ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents",
+      "url": "https://arxiv.org/abs/2606.31174",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "agent orchestration benchmark / subagent team management / dynamic workflow evaluation",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.29955",
+      "slug": "spreadsheetbench-2-evaluating-agents-on-end-to-end-business-spreadsheet-workflows-2606.29955",
+      "title": "SpreadsheetBench 2: Evaluating Agents on End-to-end Business Spreadsheet Workflows",
+      "url": "https://arxiv.org/abs/2606.29955",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "agent benchmark / spreadsheet workflow / end-to-end business task evaluation",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.29824",
+      "slug": "neural-procedural-memory-empowering-llm-agents-with-implicit-activation-steering-2606.29824",
+      "title": "Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering",
+      "url": "https://arxiv.org/abs/2606.29824",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "agent memory / implicit activation steering / procedural knowledge encoding",
+      "vector": "emergent_concept_search",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -14087,6 +14117,30 @@
       "url": "https://arxiv.org/abs/2606.24467",
       "discovered": "2026-07-01T09:34:09.474205+00:00",
       "theme": "inference efficiency / KV-cache compression / semantic retrieval heads"
+    },
+    {
+      "arxiv_id": "2606.31174",
+      "title": "ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents",
+      "slug": "clawarena-team-benchmarking-subagent-orchestration-and-dynamic-workflows-in-language-model-agents-2606.31174",
+      "url": "https://arxiv.org/abs/2606.31174",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "agent orchestration benchmark / subagent team management / dynamic workflow evaluation"
+    },
+    {
+      "arxiv_id": "2606.29955",
+      "title": "SpreadsheetBench 2: Evaluating Agents on End-to-end Business Spreadsheet Workflows",
+      "slug": "spreadsheetbench-2-evaluating-agents-on-end-to-end-business-spreadsheet-workflows-2606.29955",
+      "url": "https://arxiv.org/abs/2606.29955",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "agent benchmark / spreadsheet workflow / end-to-end business task evaluation"
+    },
+    {
+      "arxiv_id": "2606.29824",
+      "title": "Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering",
+      "slug": "neural-procedural-memory-empowering-llm-agents-with-implicit-activation-steering-2606.29824",
+      "url": "https://arxiv.org/abs/2606.29824",
+      "discovered": "2026-07-01T12:00:00.000000+00:00",
+      "theme": "agent memory / implicit activation steering / procedural knowledge encoding"
     }
   ],
   "emergent_concept_search_log": [
@@ -18367,6 +18421,18 @@
       ],
       "method": "arxiv HTML search 4-query",
       "framing": "AGENT INTERACTION DATA SYNTHESIS / CROSS-LINGUAL PARAMETRIC KNOWLEDGE / SEMANTIC KV-CACHE COMPRESSION"
+    },
+    {
+      "run": 269,
+      "date": "2026-07-01",
+      "theme": "SUBAGENT ORCHESTRATION BENCHMARK / END-TO-END SPREADSHEET WORKFLOW AGENT / NEURAL PROCEDURAL MEMORY",
+      "picks": [
+        "2606.31174",
+        "2606.29955",
+        "2606.29824"
+      ],
+      "method": "arxiv HTML search 8-query",
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
