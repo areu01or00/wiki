@@ -31,6 +31,17 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-01** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: programming
+- **2026-07-01** | [monads - GitHub Topics](https://github.com/topics/monads) | kw: Topics
+- **2026-07-01** | [Haskell Team PM 2026 - Functional Type-Safe Monads - GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: PM
+- **2026-07-01** | [Getting started with Haskell - Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell) | kw: with
+- **2026-07-01** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | kw: Haskell
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Programming
+- **2026-07-01** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monad
+- **2026-07-01** | [What Is a Monad in Functional Programming? - Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: Monad
+- **2026-07-01** | [Monads and Effects - Bartosz Milewski Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: Effects
+- **2026-07-01** | [Just how much can you do with functions? Haskell, Functional...](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: much
+
 - **2026-07-01** | [Functional Programming in 2026: Haskell vs. Gleam vs. Rust](https://www.penchef.com/software-engineering/functional-programming-2026-haskell-gleam-rust) | kw: Functional
 - **2026-07-01** | [The Practical Value of Functional Programming — Monad, Functor, Pure ...](https://www.youngju.dev/blog/culture/2026-04-15-functional-programming-monad-haskell-elixir-erlang-gleam-effect-ts-practical-value-deep-dive-guide-2025.en) | kw: The
 - **2026-07-01** | [Haskell Guide [2026]: Functional Programming That Changes How You Think](https://precisionaiacademy.com/blog/haskell-guide-2026) | kw: Haskell

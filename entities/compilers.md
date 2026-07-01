@@ -33,6 +33,17 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: Compiler
+- **2026-07-01** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: llvm
+- **2026-07-01** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Compilation
+- **2026-07-01** | [A Minimal LLVM JIT example for LLVM-5 - GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: JIT
+- **2026-07-01** | [Adventures in JIT compilation Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: JIT
+- **2026-07-01** | [LLVM - PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
+- **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving - Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: Prototype
+- **2026-07-01** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: Compilation
+- **2026-07-01** | [2017 LLVM Developers Meeting - YouTube](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: Meeting
+- **2026-07-01** | [Mono LLVM - Mono Project](https://www.mono-project.com/docs/advanced/mono-llvm/) | kw: Mono
+
 - **2026-07-01** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers
 - **2026-07-01** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst
 - **2026-07-01** | [Python JIT compiler project under threat after steering council says ...](https://www.theregister.com/devops/2026/06/08/python-jit-compiler-may-be-removed/5252079) | kw: Python
