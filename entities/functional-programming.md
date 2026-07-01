@@ -1,4 +1,9 @@
 ## Updates
+
+- **2026-07-01** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | kw: functional-programming
+- **2026-07-01** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional-programming
+- **2026-07-01** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional-programming
+
 - **2026-07-01** | [monads - GitHub Topics](https://github.com/topics/monads) | kw: 2afa435e
 
 - **2026-07-01** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: functional-programming

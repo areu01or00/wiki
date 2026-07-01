@@ -4085,6 +4085,9 @@
 
 
 ## Updates
+
+- **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026 ... - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
+
 - **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026... - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: af18b500
 - **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: 68268dde
 - **2026-07-01** | [LeetCode Isnt Dead in 2026 -- But Its No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: 3115a09c
