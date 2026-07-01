@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 307: Deep-Sub-Cluster PROBE-AXIS: Decoding-Constraint Jailbreak + MoE Calibration Under Shift + Automated Multi-Defense Attack (Rule 36h: grammar-constraint exploit / adversarial feature extraction / soft-vs-hard routing calibration)
+
+- [[grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-2606.11817]] — [Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code](https://arxiv.org/abs/2606.11817): Zhang, Yitong; Lu, Shiteng; Li, Jia — reveals that Grammar-Constrained Decoding (GCD) — a reliability technique for code generation — is itself an attack surface (CodeSpear); proposes CodeShield using honeypot code generation under GCD. **First GCD-as-jailbreak-attack-surface paper in the wiki.**
+
+- [[toward-calibrated-mixture-of-experts-under-distribution-shift-2606.20544]] — [Toward Calibrated Mixture-of-Experts Under Distribution Shift](https://arxiv.org/abs/2606.20544): Wong, Gina; Prinster, Drew; Saria, Suchi + 2 — establishes that expert calibration is sufficient for hard-routed MoE calibration under distribution shift but insufficient for soft-routed models; proposes adversarial reweighting. **First soft-vs-hard routing calibration theory paper in the wiki.**
+
+- [[automated-jailbreak-attack-targeting-multiple-defense-strategies-2606.16751]] — [Automated Jailbreak Attack Targeting Multiple Defense Strategies](https://arxiv.org/abs/2606.16751): Wang, Qi; Wan, Chengcheng; He, Weijia + 4 — UNIATTACK framework extracts minimal high-impact attack features from existing attacks, optimizes via attacker LLM, composes flexible templates achieving 64-248% ASR improvement over baselines at 0.03-4.96% cost. **First automated multi-defense-feature-extraction jailbreak paper in the wiki.**
+
 ### 2026-07-02 — Run 306: Narrative-Safety / Uncertainty-Aware Ranking / Future-Aware Guardrails (Rule 36h PROBE-AXIS: narrative-alignment + uncertainty-calibration + streaming-guardrails)
 
 - [[bad-company-corrupts-good-morals-understanding-and-measuring-narrative-induced-m-2606.28981]] — [Bad company corrupts good morals: Understanding and Measuring Narrative-Induced Moral Reasoning Degradation in LLMs](https://arxiv.org/abs/2606.28981): Yu, Wanying; Ma, Boyang; Sun, Zhibo Eric + 2 — identifies narrative-induced moral reasoning degradation as a distinct safety failure mode where extended non-adversarial narrative exposure corrupts safety-aligned moral reasoning in AI companion/educator deployments. **First narrative-corrosion safety failure mode paper in the wiki.**

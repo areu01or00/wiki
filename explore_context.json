@@ -4,13 +4,13 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T00:50:00.000000+00:00",
   "__last_updated": "2026-07-01T20:00:00.000000+00:00",
-  "last_run": 306,
-  "last_explore": "2026-07-02T00:50:00.000000+00:00",
-  "last_global_explore": "2026-07-02T00:50:00.000000+00:00",
-  "last_discovery": "Narrative-Safety / Uncertainty-Aware Ranking / Future-Aware Guardrails",
-  "last_run_framing": "Narrative-Safety / Uncertainty-Aware Ranking / Future-Aware Guardrails",
-  "last_framing": "DIVERSITYAGENTDIFFUSION",
-  "last_run_notes": "Run 306: 2606.28981, 2606.13737, 2605.29395",
+  "last_run": 307,
+  "last_explore": "2026-07-02T08:00:00.000000+00:00",
+  "last_global_explore": "2026-07-02T08:00:00.000000+00:00",
+  "last_discovery": "Deep-Sub-Cluster PROBE-AXIS: Decoding-Constraint Jailbreak + MoE Calibration Under Shift + Automated Multi-Defense Attack",
+  "last_run_framing": "Deep-Sub-Cluster PROBE-AXIS: grammar-constraint exploit / adversarial feature extraction / soft-vs-hard routing calibration",
+  "last_framing": "DEEP-SUB-CLUSTER PROBE-AXIS",
+  "last_run_notes": "Run 307: 2606.11817, 2606.20544, 2606.16751",
   "last_pass_type": "emergent-concept",
   "last_run_method": "Rule 36h PROBE-AXIS: narrative-alignment + uncertainty-calibration + streaming-guardrails",
   "run_method": "emergent-concept-search-via-web-search-discovery",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
   "chains_updated": 0,
-  "entities_count": 931,
+  "entities_count": 934,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -2053,6 +2053,36 @@
     }
   },
   "emergent_concept_papers": [
+    {
+      "arxiv_id": "2606.16751",
+      "slug": "automated-jailbreak-attack-targeting-multiple-defense-strategies-2606.16751",
+      "title": "Automated Jailbreak Attack Targeting Multiple Defense Strategies",
+      "url": "https://arxiv.org/abs/2606.16751",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T08:00:00+00:00",
+      "theme": "safety / calibration / adversarial",
+      "date": "2026-06-15"
+    },
+    {
+      "arxiv_id": "2606.20544",
+      "slug": "toward-calibrated-mixture-of-experts-under-distribution-shift-2606.20544",
+      "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "url": "https://arxiv.org/abs/2606.20544",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T08:00:00+00:00",
+      "theme": "safety / calibration / adversarial",
+      "date": "2026-06-18"
+    },
+    {
+      "arxiv_id": "2606.11817",
+      "slug": "grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-2606.11817",
+      "title": "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code",
+      "url": "https://arxiv.org/abs/2606.11817",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T08:00:00+00:00",
+      "theme": "safety / calibration / adversarial",
+      "date": "2026-06-10"
+    },
     {
       "arxiv_id": "2606.19868",
       "slug": "a-systematic-evaluation-of-black-box-uncertainty-estimation-methods-for-large-language-models-2606.19868",
@@ -8941,6 +8971,30 @@
     }
   ],
   "emergent_discoveries": [
+    {
+      "arxiv_id": "2606.16751",
+      "title": "Automated Jailbreak Attack Targeting Multiple Defense Strategies",
+      "slug": "automated-jailbreak-attack-targeting-multiple-defense-strategies-2606.16751",
+      "url": "https://arxiv.org/abs/2606.16751",
+      "discovered": "2026-07-02T08:00:00+00:00",
+      "theme": "safety / calibration / adversarial"
+    },
+    {
+      "arxiv_id": "2606.20544",
+      "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "slug": "toward-calibrated-mixture-of-experts-under-distribution-shift-2606.20544",
+      "url": "https://arxiv.org/abs/2606.20544",
+      "discovered": "2026-07-02T08:00:00+00:00",
+      "theme": "safety / calibration / adversarial"
+    },
+    {
+      "arxiv_id": "2606.11817",
+      "title": "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code",
+      "slug": "grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-2606.11817",
+      "url": "https://arxiv.org/abs/2606.11817",
+      "discovered": "2026-07-02T08:00:00+00:00",
+      "theme": "safety / calibration / adversarial"
+    },
     {
       "arxiv_id": "2606.19868",
       "title": "A Systematic Evaluation of Black-Box Uncertainty Estimation Methods for Large Language Models",
@@ -18786,6 +18840,18 @@
     }
   ],
   "runs": [
+    {
+      "run": 307,
+      "date": "2026-07-02T08:00:00+00:00",
+      "theme": "safety / calibration / adversarial",
+      "picks": [
+        "2606.11817",
+        "2606.20544",
+        "2606.16751"
+      ],
+      "method": "Rule 36h deep-sub-cluster PROBE-AXIS",
+      "added": 3
+    },
     {
       "run": 270,
       "date": "2026-07-01T12:30:00+00:00",
