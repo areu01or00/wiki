@@ -4085,6 +4085,14 @@
 
 
 ## Updates
+- **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026 ... - Reddit](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: algorithms
+
+- **2026-07-01** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: algorithms
+
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+
+- **2026-07-01** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: algorithms
+
 - **2026-07-01** | [algorithms-datastructures · GitHub Topics · GitHub](https://github.com/topics/algorithms-datastructures) | kw: algorithms-datastructures
 - **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: Problems
 - **2026-07-01** | [NeetCode \| Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: NeetCode

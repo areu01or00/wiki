@@ -1,6 +1,14 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [clang - LLVM jit and native - Stack Overflow](https://stackoverflow.com/questions/3509215/llvm-jit-and-native) | kw: compilers
+
+- **2026-07-01** | [llvm-frontend · GitHub Topics · GitHub](https://github.com/topics/llvm-frontend) | kw: compilers
+
+- **2026-07-01** | [Remote native JIT compilation and debugging with LLVM](https://weliveindetail.github.io/blog/post/2021/03/29/remote-compile-and-debug.html) | kw: compilers
+
+- **2026-07-01** | [Mono LLVM | Mono](https://www.mono-project.com/docs/advanced/mono-llvm/) | kw: compilers
+
 - **2026-07-01** | [LLVM \| PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
 - **2026-07-01** | [Paper Title (use style: paper title)](https://clausiuspress.com/conferences/ACSS/CNCI+2020/CNCI050.pdf) | kw: Paper
 
