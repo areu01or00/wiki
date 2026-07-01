@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-01 — Run 301: Reasoning Efficiency / Token Significance / Reasoning Structure (Rule 36h PROBE-AXIS: reasoning efficiency)
+
+- [[reasoning-structure-large-language-models-2606.03883]]
+  [Reasoning Structure of Large Language Models](https://arxiv.org/abs/2606.03883) — Berdoz, Frédéric; Lanzendörfer, Luca A.; Farestam, Fabian + 1 — proposes reasoning structure as a measurable topological object, introducing efficiency metrics based on logical flow concentration that reveal why identical accuracy scores hide fundamentally different reasoning strategies. **First reasoning-structure-as-topological-object paper in the wiki.**
+
+- [[token-significance-efficient-reasoning-rl-2506.08125]]
+  [Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning](https://arxiv.org/abs/2506.08125) — Liu, Hanbing; Cao, Lang; Ren, Yuanyi + 5 — discovers that RL-based reasoning efficiency improvement operates by learning token significance, enabling pruning of noisy CoT tokens without accuracy loss. **First RL token-significance reasoning efficiency paper in the wiki.**
+
+- [[variational-posterior-guidance-efficient-reasoning-2605.11019]]
+  [Efficient LLM Reasoning via Variational Posterior Guidance with Efficiency Awareness](https://arxiv.org/abs/2605.11019) — Chen, Zizhao; Li, Yuying; Lin, Siting + 1 — first application of variational inference theory to LLM reasoning efficiency, addressing the overthinking problem by guiding CoT generation toward shorter, more concentrated logical chains. **First variational-inference reasoning efficiency paper in the wiki.**
 
 ### 2026-07-01 — Run 300: Critic-Free RLHF / Over-Refusal Calibration / Agent Task Sensitivity (Rule 36h PROBE-AXIS: instruction-tuning + ICL + prompt-engineering)
 

@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T19:15:00.000000+00:00",
   "__last_updated": "2026-07-01T20:00:00.000000+00:00",
-  "last_run": 300,
-  "last_explore": "2026-07-01T20:00:00.000000+00:00",
+  "last_run": 301,
+  "last_explore": "2026-07-01T21:00:00.000000+00:00",
   "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
-  "last_discovery": "RLHF / SAFETY CALIBRATION / AGENT EVALUATION",
-  "last_run_framing": "CRITIC-FREE RLHF / OVER-REFUSAL CALIBRATION / AGENT TASK SENSITIVITY",
+  "last_discovery": "REASONING EFFICIENCY / TOKEN SIGNIFICANCE / REASONING STRUCTURE",
+  "last_run_framing": "REASONING EFFICIENCY / TOKEN SIGNIFICANCE / REASONING STRUCTURE",
   "last_framing": "DIVERSITYAGENTDIFFUSION",
   "last_run_notes": "Run 298: 2606.28425, 2606.29399, 2605.00419",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "Rule 36h PROBE-AXIS instruction-tuning + ICL + prompt-engineering via arxiv HTML search",
+  "last_run_method": "Rule 36h PROBE-AXIS: reasoning efficiency + token efficiency + reasoning structure",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
   "emergent_theme": "instruction-tuning + RLHF + agent-evaluation",
   "chains_updated": 0,
-  "entities_count": 913,
+  "entities_count": 916,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8761,6 +8761,39 @@
       "discovered": "2026-07-01T20:00:00+00:00",
       "theme": "LLM agent evaluation / task insensitivity / OOD robustness",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.11019",
+      "slug": "variational-posterior-guidance-efficient-reasoning-2605.11019",
+      "title": "Efficient LLM Reasoning via Variational Posterior Guidance with Efficiency Awareness",
+      "url": "https://arxiv.org/abs/2605.11019",
+      "vector": "reasoning-efficiency",
+      "chain": "emergent-concepts",
+      "discovered": "2026-07-01",
+      "online_date": "2026-05-10",
+      "run_number": 301
+    },
+    {
+      "arxiv_id": "2606.03883",
+      "slug": "reasoning-structure-large-language-models-2606.03883",
+      "title": "Reasoning Structure of Large Language Models",
+      "url": "https://arxiv.org/abs/2606.03883",
+      "vector": "reasoning-efficiency",
+      "chain": "emergent-concepts",
+      "discovered": "2026-07-01",
+      "online_date": "2026-06-02",
+      "run_number": 301
+    },
+    {
+      "arxiv_id": "2506.08125",
+      "slug": "token-significance-efficient-reasoning-rl-2506.08125",
+      "title": "Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2506.08125",
+      "vector": "reasoning-efficiency",
+      "chain": "emergent-concepts",
+      "discovered": "2026-07-01",
+      "online_date": "2025-06-09",
+      "run_number": 301
     }
   ],
   "emergent_discoveries": [
@@ -15515,6 +15548,30 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T19:15:00+00:00",
       "theme": "multi-agent / workflow-steering / security / planner-executor"
+    },
+    {
+      "arxiv_id": "2605.11019",
+      "title": "Efficient LLM Reasoning via Variational Posterior Guidance with Efficiency Awareness",
+      "slug": "variational-posterior-guidance-efficient-reasoning-2605.11019",
+      "url": "https://arxiv.org/abs/2605.11019",
+      "discovered": "2026-07-01",
+      "theme": "reasoning-efficiency"
+    },
+    {
+      "arxiv_id": "2606.03883",
+      "title": "Reasoning Structure of Large Language Models",
+      "slug": "reasoning-structure-large-language-models-2606.03883",
+      "url": "https://arxiv.org/abs/2606.03883",
+      "discovered": "2026-07-01",
+      "theme": "reasoning-efficiency"
+    },
+    {
+      "arxiv_id": "2506.08125",
+      "title": "Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning",
+      "slug": "token-significance-efficient-reasoning-rl-2506.08125",
+      "url": "https://arxiv.org/abs/2506.08125",
+      "discovered": "2026-07-01",
+      "theme": "reasoning-efficiency"
     }
   ],
   "emergent_concept_search_log": [
@@ -18493,6 +18550,17 @@
         "2606.26173",
         "2606.07342"
       ]
+    },
+    {
+      "run": 301,
+      "timestamp": "2026-07-01T21:00:00.000000+00:00",
+      "papers_added": 3,
+      "arxiv_ids": [
+        "2605.11019",
+        "2606.03883",
+        "2506.08125"
+      ],
+      "method": "web_search: reasoning efficiency + calibration + synthetic data generation"
     }
   ],
   "runs": [
@@ -20293,6 +20361,18 @@
       "papers_found": 439,
       "fresh_llm": 25,
       "run_type": "emergent-concept"
+    },
+    {
+      "run": 301,
+      "timestamp": "2026-07-01T21:00:00.000000+00:00",
+      "papers_added": 3,
+      "arxiv_ids": [
+        "2605.11019",
+        "2606.03883",
+        "2506.08125"
+      ],
+      "theme": "reasoning-efficiency-token-significance-reasoning-structure",
+      "method": "Rule 36h PROBE-AXIS: reasoning efficiency + token efficiency + reasoning structure"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
