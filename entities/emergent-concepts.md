@@ -17,6 +17,18 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-01 — Run 285: On-Policy Distillation / Legal Reasoning Benchmark / Automatic Prompt Optimization
+
+- [[dd-gepa-prompt-optimization-for-dialogue-disentanglement-focusing-on-task-instruction-and-utterance-representation-2606.07894]]
+  DD-GEPA: Automatic prompt optimization for dialogue disentanglement via GEPA (Gradient-based Evolutionary Prompt Adaptation) — decomposes prompt into task instruction + utterance representation + output instruction components, jointly optimized. First automatic prompt optimization specifically for multi-party dialogue structure. **First dialogue-disentanglement prompt optimization paper in wiki.**
+
+- [[benger-benchmarking-llm-systems-on-subsumption-based-legal-reasoning-in-german-law-2605.28183]]
+  BenGER: Benchmark for German Law subsumption-based legal reasoning — 596 exam-style free-text legal case tasks + 531 doctrinal reasoning tasks across multiple difficulty levels. First systematic benchmark for German legal subsumption (matching concrete facts to abstract legal norms). **First German-law subsumption reasoning benchmark in wiki.**
+
+- [[rosd-reflective-on-policy-self-distillation-for-language-model-reasoning-across-domains-2605.28014]]
+  ROSD: Reflective On-Policy Self-Distillation — addresses OPSD failure modes (confirmation bias from verified-solution conditioning, lack of task-specific adaptation) with reflective conditioning and domain-aware adaptation. +12% avg improvement across 8 reasoning domains. **First reflective-conditioning OPSD paper in wiki.**
+
+
 
 ### 2026-07-01 — Run 284: Domain-Benchmark / KV-Cache Quantization / Epistemic Safety
 

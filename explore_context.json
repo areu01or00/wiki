@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-01T14:30:00.000000+00:00",
   "__last_updated": "2026-07-01T14:30:00.000000+00:00",
-  "last_run": 284,
-  "last_explore": "2026-07-01T14:50:00.000000+00:00",
-  "last_global_explore": "2026-07-01T14:50:00.000000+00:00",
+  "last_run": 285,
+  "last_explore": "2026-07-01T15:30:00.000000+00:00",
+  "last_global_explore": "2026-07-01T15:30:00.000000+00:00",
   "last_discovery": "2026-07-01",
-  "last_run_framing": "Domain-Benchmark / KV-Cache Quantization / Epistemic Safety",
-  "last_framing": "DOMAIN-SPECIFIC BENCHMARK / KV-CACHE BINARY QUANTIZATION / SAFETY AS EPISTEMIC PROPERTY",
-  "last_run_notes": "Run 284: 2606.31519 / 2606.11678 / 2606.28347",
+  "last_run_framing": "On-Policy Distillation / Legal Reasoning Benchmark / Automatic Prompt Optimization",
+  "last_framing": "ON-POLICY DISTRILLATION / DOMAIN-SPECIFIC LEGAL REASONING BENCHMARK / AUTOMATIC PROMPT OPTIMIZATION",
+  "last_run_notes": "Run 285: 2605.28014 / 2605.28183 / 2606.07894",
   "last_pass_type": "emergent-concept",
   "last_run_method": "web_search (Rule 36b probe-axis); 4-query arxiv HTML + web_search; 22 fresh LLM candidates from 29 total after 5-store dedup",
-  "run_method": "emergent-concept-search-via-arxiv-HTML-plus-web-search",
+  "run_method": "emergent-concept-search-via-web-search-probe-axis",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "chain-of-thought deconstruction / algorithm scheduling / reasoning trajectory steering",
-  "emergent_theme": "chain-of-thought deconstruction / algorithm scheduling / reasoning trajectory steering",
+  "emergent_concept_theme": "on-policy distillation / domain-specific legal reasoning / automatic prompt optimization",
+  "emergent_theme": "on-policy distillation / domain-specific legal reasoning / automatic prompt optimization",
   "chains_updated": 0,
-  "entities_count": 865,
+  "entities_count": 868,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -8326,6 +8326,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-01T14:50:00+00:00",
       "theme": "safety alignment / epistemic reframing"
+    },
+    {
+      "arxiv_id": "2605.28014",
+      "slug": "rosd-reflective-on-policy-self-distillation-for-language-model-reasoning-across-domains-2605.28014",
+      "title": "ROSD: Reflective On-Policy Self-Distillation for Language Model Reasoning across Domains",
+      "url": "https://arxiv.org/abs/2605.28014",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T15:30:00.000000+00:00",
+      "theme": "on-policy distillation / reflective reasoning / instruction-tuning",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2605.28183",
+      "slug": "benger-benchmarking-llm-systems-on-subsumption-based-legal-reasoning-in-german-law-2605.28183",
+      "title": "BenGER: Benchmarking LLM Systems on Subsumption-Based Legal Reasoning in German Law",
+      "url": "https://arxiv.org/abs/2605.28183",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T15:30:00.000000+00:00",
+      "theme": "domain-specific legal reasoning benchmark / German law / subsumption",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.07894",
+      "slug": "dd-gepa-prompt-optimization-for-dialogue-disentanglement-focusing-on-task-instruction-and-utterance-representation-2606.07894",
+      "title": "DD-GEPA: Prompt Optimization for Dialogue Disentanglement Focusing on Task Instruction and Utterance Representation",
+      "url": "https://arxiv.org/abs/2606.07894",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-01T15:30:00.000000+00:00",
+      "theme": "automatic prompt optimization / dialogue disentanglement / GEPA",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -14711,6 +14741,30 @@
       "url": "https://arxiv.org/abs/2606.28347",
       "discovered": "2026-07-01T14:50:00+00:00",
       "theme": "safety alignment / epistemic reframing"
+    },
+    {
+      "arxiv_id": "2605.28014",
+      "title": "ROSD: Reflective On-Policy Self-Distillation for Language Model Reasoning across Domains",
+      "slug": "rosd-reflective-on-policy-self-distillation-for-language-model-reasoning-across-domains-2605.28014",
+      "url": "https://arxiv.org/abs/2605.28014",
+      "discovered": "2026-07-01T15:30:00.000000+00:00",
+      "theme": "on-policy distillation / reflective reasoning / instruction-tuning"
+    },
+    {
+      "arxiv_id": "2605.28183",
+      "title": "BenGER: Benchmarking LLM Systems on Subsumption-Based Legal Reasoning in German Law",
+      "slug": "benger-benchmarking-llm-systems-on-subsumption-based-legal-reasoning-in-german-law-2605.28183",
+      "url": "https://arxiv.org/abs/2605.28183",
+      "discovered": "2026-07-01T15:30:00.000000+00:00",
+      "theme": "domain-specific legal reasoning benchmark / German law / subsumption"
+    },
+    {
+      "arxiv_id": "2606.07894",
+      "title": "DD-GEPA: Prompt Optimization for Dialogue Disentanglement Focusing on Task Instruction and Utterance Representation",
+      "slug": "dd-gepa-prompt-optimization-for-dialogue-disentanglement-focusing-on-task-instruction-and-utterance-representation-2606.07894",
+      "url": "https://arxiv.org/abs/2606.07894",
+      "discovered": "2026-07-01T15:30:00.000000+00:00",
+      "theme": "automatic prompt optimization / dialogue disentanglement / GEPA"
     }
   ],
   "emergent_concept_search_log": [
@@ -19233,6 +19287,19 @@
       ],
       "total_papers": 764,
       "notes": "Run 284: HF DNS failure (Name/service not known) \u2014 escalated to web_search primary; 4-query web_search surfaced 7 fresh LLM candidates from 13 candidates after 5-store dedup; picked 3 structurally orthogonal: domain-benchmark / KVCache / epistemic-safety"
+    },
+    {
+      "run_number": 285,
+      "date": "2026-07-01",
+      "theme": "On-Policy Distillation / Legal Reasoning Benchmark / Automatic Prompt Optimization",
+      "framing": "ON-POLICY DISTRILLATION / DOMAIN-SPECIFIC LEGAL REASONING BENCHMARK / AUTOMATIC PROMPT OPTIMIZATION",
+      "papers_added": [
+        "2605.28014",
+        "2605.28183",
+        "2606.07894"
+      ],
+      "total_papers": 868,
+      "notes": "Run 285: Rule 36b PROBE-AXIS \u2014 instruction-tuning / domain-specific-legal-reasoning / automatic-prompt-optimization; 4 web_search queries from PROBE-AXIS pool surfaced 5 fresh candidates after 5-store dedup; picked 3 structurally orthogonal: on-policy-distillation / German-legal-reasoning-benchmark / automatic-prompt-optimization (dialogue)"
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
@@ -19343,8 +19410,8 @@
   "last_watched": "2026-06-29T10:30:00+00:00",
   "last_run_pitfalls": [],
   "last_run_theme": "INFERENCE EFFICIENCY / SECURITY EVALUATION / WORLD MODEL ACQUISITION",
-  "emergent_concept_papers_count": 743,
-  "emergent_discoveries_count": 768,
+  "emergent_concept_papers_count": 764,
+  "emergent_discoveries_count": 786,
   "last_run_picks_count": 3,
   "emergent_method": "arxiv search HTML 4-query COGNITIVE-LOAD-AT-INFERENCE-TIME-PROBE",
   "last_run_timestamp": "2026-07-01T00:00:00+00:00",
