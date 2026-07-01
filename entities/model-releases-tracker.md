@@ -17,6 +17,11 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+
+- **2026-07-01** | [DeepSeek News | Today's Latest Stories | Reuters](https://www.reuters.com/technology/deepseek/) | kw: api-launch | source: deepseek-releases
+- **2026-07-01** | [What Is Kimi? The Complete Guide to Moonshot AI's Chatbot and...](https://emergent.sh/learn/what-is-kimi) | kw: api-launch | source: kimi-releases
+- **2026-07-01** | [Introducing LFM2.5: The Next Generation of On-Device AI - liquid.ai](https://www.liquid.ai/blog/introducing-lfm2-5-the-next-generation-of-on-device-ai) | kw: api-launch | source: liquid-ai
+- **2026-07-01** | [Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at ...](https://novalogiq.com/2026/06/26/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere/) | kw: api-launch | source: liquid-ai
 - **2026-06-30** | [Buckle Up: The Bad Guys Now Have A Model As Powerful As Mythos](https://www.forbes.com/sites/craigsmith/2026/06/28/buckle-up-the-bad-guys-now-have-a-model-as-powerful-as-mythos/) | kw: 2 days ago | source: glm-releases | 📣 OFFICIAL ANNOUNCEMENT
 - **2026-06-30** | [Z.ai's GLM-5.2 Brings 1M-Token Context to Open-Weight Coding](https://aiweekly.co/alerts/zais-glm-52-brings-1m-token-context-to-open-weight-coding) | kw: 1 day ago | source: glm-releases | 🚨 WEIGHTS DROP
 - **2026-06-30** | [OpenAI just Shipped Three Models in One day](https://medium.com/@ai_93276/openai-just-shipped-three-models-in-one-day-472dfe4051c5) | kw: 2 days ago | source: openai-releases | 📣 OFFICIAL ANNOUNCEMENT

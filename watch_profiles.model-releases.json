@@ -96,8 +96,9 @@
     },
     "deepseek-releases": {
       "category": "chinese-open",
-      "last_checked": "2026-06-29T21:31:59.920036+00:00",
+      "last_checked": "2026-07-01T00:30:00+00:00",
       "last_result_hashes": [
+        "b4af6faccb9d012c9716b774c0357596",
         "3d655dc80ed2b5bf869ec1489c0b3091",
         "c0ae3286101f77f4176998284f769cdf",
         "38c97c3a0601234bcc698f35c65f711e",
@@ -116,13 +117,12 @@
         "e3e1efcd436e9492ad1e15e1c43f41f5",
         "34450a7951cf34013649a2558eaee9f2",
         "0327a5e92e0d0854dfa577ddacdb2cd2",
-        "7260ebd21fb8eb33d2b79133bfe333d4",
-        "941ce7ad6aada5e019f1084ac58ea8f3"
+        "7260ebd21fb8eb33d2b79133bfe333d4"
       ],
-      "last_run": "20260630_230134",
+      "last_run": "20260701_003000",
       "last_update_hash": null,
       "query": "DeepSeek new model release V3 R1 R2 weights API",
-      "run_count": 116,
+      "run_count": 117,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "glm-releases": {
@@ -220,8 +220,9 @@
     },
     "kimi-releases": {
       "category": "chinese-open",
-      "last_checked": "2026-06-29T21:31:59.920036+00:00",
+      "last_checked": "2026-07-01T00:30:00+00:00",
       "last_result_hashes": [
+        "597e8ed2287f9c4bf165c823708d0a8b",
         "3d655dc80ed2b5bf869ec1489c0b3091",
         "c0ae3286101f77f4176998284f769cdf",
         "38c97c3a0601234bcc698f35c65f711e",
@@ -240,13 +241,12 @@
         "e3e1efcd436e9492ad1e15e1c43f41f5",
         "34450a7951cf34013649a2558eaee9f2",
         "0327a5e92e0d0854dfa577ddacdb2cd2",
-        "7260ebd21fb8eb33d2b79133bfe333d4",
-        "941ce7ad6aada5e019f1084ac58ea8f3"
+        "7260ebd21fb8eb33d2b79133bfe333d4"
       ],
-      "last_run": "20260630_230134",
+      "last_run": "20260701_003000",
       "last_update_hash": null,
       "query": "Kimi K2 K2.6 K2.7 release weights API new model",
-      "run_count": 116,
+      "run_count": 117,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "krea": {
@@ -601,6 +601,8 @@
       "category": "auto-discovered",
       "discovered_at_cycle": 59,
       "last_result_hashes": [
+        "be89b7a3d9412a3f2cfe7f4a2792ac34",
+        "0f9d56d385b771bb6b59b73a6b42700c",
         "3d655dc80ed2b5bf869ec1489c0b3091",
         "c0ae3286101f77f4176998284f769cdf",
         "38c97c3a0601234bcc698f35c65f711e",
@@ -618,13 +620,11 @@
         "93c4c40462336b8c14e392fe79573c43",
         "e3e1efcd436e9492ad1e15e1c43f41f5",
         "34450a7951cf34013649a2558eaee9f2",
-        "0327a5e92e0d0854dfa577ddacdb2cd2",
-        "7260ebd21fb8eb33d2b79133bfe333d4",
-        "941ce7ad6aada5e019f1084ac58ea8f3"
+        "0327a5e92e0d0854dfa577ddacdb2cd2"
       ],
-      "last_run": "20260630_230134",
-      "run_count": 75,
-      "last_checked": "2026-06-29T21:31:59.920036+00:00",
+      "last_run": "20260701_003000",
+      "run_count": 76,
+      "last_checked": "2026-07-01T00:30:00+00:00",
       "last_update_hash": null
     },
     "kog-ai": {
