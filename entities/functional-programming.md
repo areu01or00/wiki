@@ -1,4 +1,12 @@
 ## Updates
+- **2026-07-01** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: functional-programming
+- **2026-07-01** | [Gleam is Pragmatic - software is fun - Drew Olson](https://blog.drewolson.org/gleam-is-pragmatic/) | kw: functional-programming
+- **2026-07-01** | [Playing with Gleam - Chander Ramesh - Medium](https://c5r.medium.com/playing-with-gleam-17d45400d872) | kw: functional-programming
+- **2026-07-01** | [Why are functional languages like Haskell unpopular? | William Fabre](https://www.linkedin.com/posts/william-raendchen-154728112_why-are-functional-languages-like-haskell-activity-7402067286993420288-L5LH) | kw: functional-programming
+- **2026-07-01** | [Concurrent functional programming languages - Ada Beat](https://adabeat.com/fp/concurrent-functional-programming-languages/) | kw: functional-programming
+- **2026-07-01** | [Elixir vs Haskell: What's the Difference? - Erlang Solutions](https://www.erlang-solutions.com/blog/elixir-vs-haskell-whats-the-difference/) | kw: functional-programming
+- **2026-07-01** | [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/) | kw: functional-programming
+
 - **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: functional-programming
 - **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: functional-programming
 - **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional-programming

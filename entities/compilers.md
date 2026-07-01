@@ -1,6 +1,9 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: compilers
+- **2026-07-01** | [LLVM Weekly - a weekly newsletter covering developments in ...](https://llvmweekly.org/) | kw: compilers
+
 - **2026-07-01** | [CS153: Compilers Lecture 1: Introduction - Harvard University](https://groups.seas.harvard.edu/courses/cs153/2018fa/lectures/Lec01-Intro.pdf) | kw: compilers
 - **2026-07-01** | [Compilers - Stanford University](https://web.stanford.edu/class/cs143/lectures/lecture01.pdf) | kw: compilers
 - **2026-07-01** | [CS 45, Lecture 7 Compilers - Stanford University](https://web.stanford.edu/class/cs45/lectures/7-compilers.pdf) | kw: compilers

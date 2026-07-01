@@ -1,6 +1,13 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Typed and Confused: Studying the Unexpected Dangers of Gradual...](https://www.staicu.org/publications/ase2024.pdf) | kw: type-systems
+- **2026-07-01** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: type-systems
+- **2026-07-01** | [Design and Evaluation of Gradual Typing for Python](https://www.researchgate.net/publication/277918557_Design_and_Evaluation_of_Gradual_Typing_for_Python) | kw: type-systems
+- **2026-07-01** | [The Dynamic Practice and Static Theory of Gradual Typing](https://mgree.github.io/papers/snapl2019.pdf) | kw: type-systems
+- **2026-07-01** | [Abstracting Gradual Typing (AGT)](https://www.emergentmind.com/topics/abstracting-gradual-typing-agt) | kw: type-systems
+- **2026-07-01** | [Abstracting gradual typing](https://www.academia.edu/103434840/Abstracting_gradual_typing) | kw: type-systems
+
 - **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type-systems
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-parigm-matrix) | kw: type-systems
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
