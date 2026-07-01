@@ -17,6 +17,16 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+**2026-07-01 — Run 245) — GRAPH DEPENDENCY TRACING / MEDICAL SAFETY ALIGNMENT BENCHMARK / INFERENCE-TIME FAILURE-DRIVEN SELF-IMPROVEMENT**
+
+- [[grade-graph-representation-of-llm-agent-dependency-and-execution-2606.22741]]
+  GRADE: Graph Representation of LLM Agent Dependency and Execution: GRADE proposes a dual-layer graph representation for LLM agent execution traces — execution edges (what ran in what order) and dependency edges (what each step relied on, rarely logged). The dependency layer predicts failure where run-size is weak, and under leave-one-corpus-out transfer stays above chance on every held-out class. Published June 2026. **First graph-theoretic dependency edge modeling for LLM agent failure prediction in the wiki.**
+
+- [[when-medical-safety-alignment-fails-a-benchmark-for-evaluating-llms-on-high-risk-medical-queries-2606.28332]]
+  When Medical Safety Alignment Fails: MedHarm benchmark (1,100 high-risk medical queries across 10 safety-critical categories) reveals that aligned models produce unsafe medical responses; medical fine-tuning amplifies harmful specificity; guardrails introduce brittle blocking. Key insight: medical safety cannot be inferred from general alignment. Published June 2026. **First high-risk medical safety benchmark with domain-specific refusal/alignment stress testing in the wiki.**
+
+- [[learning-from-failure-inference-time-self-improvement-for-computer-use-agents-2606.31270]]
+  Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents: Failure-driven self-improvement loop — LLM diagnoses failure modes, proposes inference-time solutions, generates code patches. OSWorld validation: 42.3% → 48.9% with no training cost. Published June 2026. **First failure-driven inference-time self-improvement framework for computer-use agents in the wiki.**
 **2026-07-01 — Run 244) — UNCERTAINTY-AWARE REWARD MODELING / ADAPTIVE CONFORMAL SEMANTIC ENTROPY / PIPELINE-AWARE CONFORMAL PREDICTION**
 
 - [[llms-uncertainty-quantification-via-adaptive-conformal-semantic-entropy-2605.04295]]

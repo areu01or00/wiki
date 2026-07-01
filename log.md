@@ -1,3 +1,14 @@
+## Run 245 — 2026-07-01T03:15 UTC
+**Theme**: GRAPH DEPENDENCY TRACING / MEDICAL SAFETY ALIGNMENT BENCHMARK / INFERENCE-TIME FAILURE-DRIVEN SELF-IMPROVEMENT
+**Picks**: 2606.22741 (GRADE), 2606.28332 (MedHarm), 2606.31270 (Failure-Driven Self-Improvement)
+**Discover**: arxiv HTML 4-query (193 IDs → 500 fresh after 5-store dedup → abstract inspection → 3 orthogonal picks)
+**Status**: SUCCESS
+
+- Theme framing: agent graph dependency / medical safety / failure-driven self-improvement
+- Axes orthogonal to Run 244 (uncertainty/reward modeling/conformal prediction)
+- arxiv HTML fresh: 193 from 4 queries | LLM-keyword double-filter: 27 candidates | 3 orthogonal picks
+- Entities: 748 | EC last_run: 245 | WP 3-store: 731
+
 ## Run 238 — 2026-07-04T00:00 UTC
 **Theme**: LOOPTRAP ADVERSARIAL TERMINATION POISONING / ADAMEM LEARNED MEMORY WRITE-CONTROL / SKILLGRAD SKILL OPTIMIZATION AS GRADIENT DESCENT
 **Picks**: 2605.05846 (LoopTrap), 2606.21144 (AdaMem), 2605.27760 (SkillGrad)
