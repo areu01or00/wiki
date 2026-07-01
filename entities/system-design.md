@@ -3591,6 +3591,10 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: Wikipedia
+- **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating
+- **2026-07-01** | [Master System Design Roadmap 2026](https://www.linkedin.com/posts/rocky-bhatia-a4801010_master-system-design-in-2026-one-visual-activity-7418616191402942464--RPc) | kw: Roadmap
+
 - **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system-design
 - **2026-07-01** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
 - **2026-07-01** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: system-design

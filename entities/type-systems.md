@@ -1,6 +1,9 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What
+- **2026-07-01** | [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: what
+
 - **2026-07-01** | [type () function in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/python-type-function/) | kw: type-systems
 
 - **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems

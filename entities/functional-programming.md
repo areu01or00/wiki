@@ -1,4 +1,13 @@
 ## Updates
+- **2026-07-01** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello
+- **2026-07-01** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: compared
+- **2026-07-01** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Programmers
+- **2026-07-01** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: Pure
+- **2026-07-01** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/) | kw: Kabbalah
+- **2026-07-01** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Foundation
+- **2026-07-01** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: Finally
+- **2026-07-01** | [Community version of Learn You a Haskell... (2026 Update)](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: version
+
 - **2026-07-01** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: functional-programming
 - **2026-07-01** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: functional-programming
 - **2026-07-01** | [Just how much can you do with functions? | Haskell, Functional...](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: functional-programming

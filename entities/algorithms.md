@@ -4085,6 +4085,11 @@
 
 
 ## Updates
+- **2026-07-01** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: 2026
+- **2026-07-01** | [LeetCode Isn't Dead in 2026 - But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: Dead
+- **2026-07-01** | [Data Structures/Algorithms to go over the day of the test - LeetCode](https://leetcode.com/discuss/interview-question/820191/data-structuresalgorithms-to-go-over-the-day-of-the-test/) | kw: over
+- **2026-07-01** | [LeetCode Alone Won't Save You in 2026 - Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl) | kw: Alone
+
 - **2026-07-01** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: algorithms
 - **2026-07-01** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
 - **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms

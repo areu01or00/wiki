@@ -3931,6 +3931,14 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: Hood
+- **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: What
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Derive
+- **2026-07-01** | [The GIL Explained - What It Is, What It Isn't, and How to Work Around It](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: What
+- **2026-07-01** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Answers
+- **2026-07-01** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: Advanced
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance](https://scanlibs.com/internals-python-3-performance/) | kw: Derive
+
 - **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
 - **2026-07-01** | [Memory Management — Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: python-internals
 - **2026-07-01** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python-internals
