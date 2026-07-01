@@ -4117,6 +4117,16 @@
 
 
 ## Updates
+- **2026-07-01** | _source: wiki-watch_
+  - [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
+  - [Algorithms in Computer Science: A Complete Beginner Guide](https://medium.com/@mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis-7ae156894d2f) | kw: algorithms
+  - [Introduction to Algorithms | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: algorithms
+  - [What is an Algorithm? Complete Beginners Guide to Algorithms](https://codelucky.com/algorithms/) | kw: algorithms
+  - [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: algorithms
+  - [Algorithm | Definition, Types, & Facts | Britannica](https://www.britannica.com/science/algorithm) | kw: algorithms
+  - [What Is an Algorithm? Understanding the Logic Behind Modern Computing](https://www.sciencenewstoday.org/what-is-an-algorithm-understanding-the-logic-behind-modern-computing) | kw: algorithms
+  - [What is an Algorithm? A Simple Guide for Beginners](https://www.guvi.in/blog/what-is-algorithm/) | kw: algorithms
+
 - **2026-07-01** | [Unexpected end of JSON input - Explore - LeetCode](https://leetcode.com/explore/learn/card/system-design/) | kw: Unexpected
 - **2026-07-01** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy ...](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84) | kw: I
 - **2026-07-01** | [Top 100 Data Structure and Algorithms DSA Interview ...](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | kw: Top

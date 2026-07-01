@@ -18,6 +18,18 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+**2026-07-01 — Run 279) — CHAIN-OF-THOUGHT DECONSTRUCTION / ALGORITHM SCHEDULING / TRAJECTORY STEERING**
+
+- [[verbose-cot-content-not-length-2606.30128]]
+  Verbose CoT: First decomposition of chain-of-thought utility into content vs length — finds length/computation is NOT the source; semantic content of intermediate steps drives CoT gains. **First causal decomposition of CoT into content vs length primitives in wiki.**
+
+- [[algoskill-algorithm-scheduling-human-like-skills-2606.29999]]
+  AlgoSkill: Schedules human-like skill sub-tasks for algorithm design — identifies problem structure, reads constraints, selects paradigm, checks correctness, refines complexity. **First skill-scheduling framework for LLM algorithm design in wiki.**
+
+- [[search-truth-representation-editing-llm-trajectories-2606.28589]]
+  Search for Truth: Representation Editing (RepE) for steering LLM reasoning trajectories — bridges RepE static control to dynamic multi-step reasoning. **First RepE application to dynamic reasoning trajectory steering in wiki.**
+
+
 **2026-07-01 — Run 278) — AGENT TOKEN ECONOMICS / TOOL-USE EFFICIENCY / MULTIMODAL SAFETY TRANSFER**
 
 - [[harnessing-textual-refusal-directions-for-multimodal-safety-2606.31876]]

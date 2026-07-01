@@ -41,6 +41,14 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | _source: wiki-watch_
+  - [Navigating the Language Labyrinth: A 2026 Matrix Analysis of typing and paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems
+  - [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: type-systems
+  - [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: type-systems
+  - [Efficient Selection of Type Annotations for Performance - arXiv](https://arxiv.org/pdf/2603.05649) | kw: type-systems
+  - [Enhancing Deep Type Inference Using Dynamic Analysis for Python](https://dl.acm.org/doi/10.1145/3771544) | kw: type-systems
+  - [To what extent is type theory relevant to dynamically typed languages?](https://langdev.stackexchange.com/questions/2704/to-what-extent-is-type-theory-relevant-to-dynamically-typed-languages) | kw: type-systems
+
 - **2026-07-01** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: Monkeytype
 - **2026-07-01** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: Learn
 - **2026-07-01** | [Learn Touch Typing Free - TypingClub](http://www.typingclub.com/) | kw: Learn
