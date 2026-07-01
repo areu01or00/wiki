@@ -3931,6 +3931,8 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythonbook.io/python/python-internals/) | kw: global
+
 - **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: python-internals
 - **2026-07-01** | [How to fix Stop code Memory management (0x1A) error in... - YouTube](https://www.youtube.com/watch?v=zaKOAbNeWiE) | kw: python-internals
 

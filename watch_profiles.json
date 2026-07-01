@@ -881,6 +881,7 @@
         "Dive"
       ],
       "last_result_hashes": [
+        "87467f746a936c763396e34488251465",
         "7103360156c8e6d465039238ada20318",
         "53353cefb2d837c6392d5b025e1e1ebd",
         "4267214a3e558c4d98d146f1beba3d51",
@@ -899,10 +900,9 @@
         "57ad949b13054a49134274f7b5cbab95",
         "3cd7178d02a50aae1a836b2288bd4cc3",
         "474c152f8f7f6147ea15e1f25fff436b",
-        "c184c87b6bcc32160dd90adfa4f68f1c",
-        "52c26d6078b841fe6553e86f0cf984a5"
+        "c184c87b6bcc32160dd90adfa4f68f1c"
       ],
-      "last_run": "2026-07-01T09:17:35.168298+00:00",
+      "last_run": "2026-07-01T09:35:33.284788+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 2
     },
@@ -6028,7 +6028,7 @@
       "last_run": "2026-07-01T08:48:19.442712+00:00"
     }
   },
-  "last_run": "2026-07-01 06:40 UTC",
+  "last_run": "2026-07-01T09:35:33.284788+00:00",
   "last_result_hashes": [
     "0001a8b02ff9eea9da583c400d8590a2",
     "008836d96bbfcdb68bd92cda0b33539a",
