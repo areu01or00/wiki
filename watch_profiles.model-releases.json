@@ -596,11 +596,9 @@
       "last_update_hash": null
     },
     "liquid-ai": {
-      "query": "Liquid AI LFM2.5 new model release LLM",
-      "wiki_page": "entities/model-releases-tracker.md",
-      "category": "auto-discovered",
-      "discovered_at_cycle": 59,
       "last_result_hashes": [
+        "a494f75f3ade1d2d31557a1dff3a30fe",
+        "052ba7bae4c1be42c26034a0c2c9c0af",
         "af97312c855f",
         "60256ef7d988292ed0ffced183ca3ddb",
         "021f76e47c8cf492962d1bb585a1f08b",
@@ -618,14 +616,10 @@
         "93c4c40462336b8c14e392fe79573c43",
         "19f62e0ddc688e45564176c454a69d92",
         "a03089d29fd2160df5710b4bb3098e23",
-        "bd4f197804fd9d747e2249e4a7f923a3",
-        "79bd294cf265851395db7ff661964917",
-        "e2791246e6a6e7a0ca48dddfe7787fd6"
+        "bd4f197804fd9d747e2249e4a7f923a3"
       ],
-      "last_run": "20260701_162500",
-      "run_count": 94,
-      "last_checked": "2026-07-01T04:11:26.432984+00:00",
-      "last_update_hash": null
+      "last_run": "2026-07-01T19:10:33.696155Z",
+      "run_count": 95
     },
     "kog-ai": {
       "category": "auto-discovered",
@@ -841,22 +835,21 @@
       "discovered_at_cycle": 142
     },
     "sakana-ai": {
-      "id": "sakana-ai",
-      "name": "Sakana AI",
-      "query": "Sakana AI new model release LLM weights",
-      "category": "auto-discovered",
-      "run_count": 0,
-      "last_result_hashes": [],
-      "discovered_at_cycle": 142
+      "last_result_hashes": [
+        "8f2de29ec86d12d5eda66c2b8139cbae",
+        "f96d098910ede6f1ed057ea18a6a8376"
+      ],
+      "last_run": "2026-07-01T19:10:33.696428Z",
+      "run_count": 1
     },
     "qwen": {
-      "id": "qwen",
-      "name": "Qwen",
-      "query": "Qwen new model release LLM weights",
-      "category": "auto-discovered",
-      "run_count": 0,
-      "last_result_hashes": [],
-      "discovered_at_cycle": 142
+      "last_result_hashes": [
+        "29fcd37f520ba3e026c3e6f56deb390c",
+        "52ed9b7fe9f3ff4a6d70c9a489a2f9f7",
+        "7bc7997cec6f7a78b11a2df348c532df"
+      ],
+      "last_run": "2026-07-01T19:10:33.696310Z",
+      "run_count": 1
     },
     "fenomai": {
       "id": "fenomai",
@@ -886,21 +879,20 @@
       "discovered_at_cycle": 142
     },
     "meituan": {
-      "id": "meituan",
-      "name": "Meituan",
-      "query": "Meituan new model release LLM weights",
-      "category": "auto-discovered",
-      "run_count": 0,
-      "last_result_hashes": [],
-      "discovered_at_cycle": 142
+      "last_result_hashes": [
+        "9c6cb5be9b548a5d3351bef27ee06d8c",
+        "8face92ac07f05f7b0c33059858fe2fe",
+        "72249ca06dae8fe986aab285ad810070",
+        "2f6eafa8ff66097a550e1ccef24d4254"
+      ],
+      "last_run": "2026-07-01T19:10:33.696538Z",
+      "run_count": 1
     },
     "xai": {
-      "id": "xai",
-      "name": "xAI",
-      "query": "xAI new model release LLM weights",
-      "category": "auto-discovered",
-      "run_count": 8,
       "last_result_hashes": [
+        "c35247ef86b32fa002bd8fc61ae18c5a",
+        "4219548ac3032febf6e2a5126ebd1786",
+        "9bdc44e78eb564d8b72c60904084bcf3",
         "ddd449b9df73a139cb9b6eed43c99085",
         "76828fb416e838e34dcde1d695feff69",
         "8e0b6d02fc2b751a703592052bb70ba3",
@@ -910,8 +902,8 @@
         "3afc6126bb2a58b7384097c8bd629d72",
         "92e7eed5e74a5c672f5109c6a93f466f"
       ],
-      "discovered_at_cycle": 142,
-      "last_run": "2026-07-01 18:17:00 UTC"
+      "last_run": "2026-07-01T19:10:33.696369Z",
+      "run_count": 9
     },
     "amd": {
       "id": "amd",
@@ -935,22 +927,20 @@
       "last_run": "20260701_162500"
     },
     "zhipu-ai": {
-      "id": "zhipu-ai",
-      "name": "Zhipu AI",
-      "query": "Zhipu AI new model release LLM weights",
-      "category": "auto-discovered",
-      "run_count": 0,
-      "last_result_hashes": [],
-      "discovered_at_cycle": 142
+      "last_result_hashes": [
+        "53a9f11963c45d1b73d932edc801f99b",
+        "a911b2e865c57a650e10f09ab325f0ea",
+        "d1d7d863d92735e2899572f623ce4b88"
+      ],
+      "last_run": "2026-07-01T19:10:33.696253Z",
+      "run_count": 1
     },
     "yuvion": {
-      "id": "yuvion",
-      "name": "Yuvion",
-      "query": "Yuvion new model release LLM weights",
-      "category": "auto-discovered",
-      "run_count": 0,
-      "last_result_hashes": [],
-      "discovered_at_cycle": 142
+      "last_result_hashes": [
+        "f6b380cb4391ca8fd01f4af73f692930"
+      ],
+      "last_run": "2026-07-01T19:10:33.696454Z",
+      "run_count": 1
     },
     "kimi": {
       "id": "kimi",
@@ -980,12 +970,15 @@
       "discovered_at_cycle": 142
     },
     "factory-ai": {
-      "query": "Factory AI Droid Shield 2.0 model release weights",
+      "query": "FactoryAI Droid Shield model release weights",
+      "wiki_page": "entities/model-releases-tracker.md",
       "category": "auto-discovered",
-      "run_count": 0,
+      "discovered_at_cycle": "c147",
       "last_result_hashes": [],
-      "discovered_at_cycle": "c144-20260701",
-      "wiki_page": "entities/model-releases-tracker.md"
+      "last_run": "20260701_190224",
+      "run_count": 0,
+      "last_checked": "2026-07-01T19:02:24+00:00",
+      "last_update_hash": null
     },
     "amalia-llm": {
       "query": "AMALIA LLM Portugal national open source model release weights",
@@ -1004,17 +997,6 @@
       "discovered_at_cycle": "c145",
       "wiki_page": "entities/model-releases-tracker.md",
       "last_run": "2026-07-01 18:17:00 UTC"
-    },
-    "factory-ai": {
-      "query": "FactoryAI Droid Shield model release weights",
-      "wiki_page": "entities/model-releases-tracker.md",
-      "category": "auto-discovered",
-      "discovered_at_cycle": "c147",
-      "last_result_hashes": [],
-      "last_run": "20260701_190224",
-      "run_count": 0,
-      "last_checked": "2026-07-01T19:02:24+00:00",
-      "last_update_hash": null
     }
   }
 }

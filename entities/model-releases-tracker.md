@@ -17,6 +17,24 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-01** | [Meituan open-sources LongCat-2.0, a 1.6T-parameter LLM trained on Chinese chips](https://app.dealroom.co/news/note/meituan-open-sources-longcat-2-0-a-1-6t-parameter-llm-trained-on-chinese-chips) | kw: weights drop | score: 9 | source: meituan
+- **2026-07-01** | [GLM 5.2 Release -- 1M Context, Coding-First (June 2026)](https://codersera.com/blog/glm-5-2-release-1m-context-coding-2026/) | kw: api launch | score: 8 | source: zhipu-ai
+- **2026-07-01** | [Zai_org releases GLM-5.2, an open-weight model with 753B parameters](https://digg.com/tech/55orgyfd) | kw: api launch | score: 6 | source: zhipu-ai
+- **2026-07-01** | [China's Meituan says new AI model trained on domestic chips - Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/chinas-meituan-says-ai-model-084400924.html) | kw: official announcement | score: 6 | source: meituan
+- **2026-07-01** | [LongCat-2.0: China's Most Unexpected AI Model - Geopolitechs](https://www.geopolitechs.org/p/longcat-20-chinas-most-unexpected) | kw: official announcement | score: 5 | source: meituan
+- **2026-07-01** | [LongCat-2.0, a Chinese-made AI model with 1.6 trillion parameters - Gigazine](https://gigazine.net/gsc_news/en/20260701-longcat-2-0/) | kw: official announcement | score: 5 | source: meituan
+- **2026-07-01** | [LFM2.5-8B-A1B: An Even Better On-Device Mixture of Experts -- Blog](https://www.liquid.ai/blog/lfm2-5-8b-a1b) | kw: official announcement | score: 5 | source: liquid-ai
+- **2026-07-01** | [Liquid AI's smallest model yet LFM2.5-230M beats ... - VentureBeat](https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere) | kw: official announcement | score: 5 | source: liquid-ai
+- **2026-07-01** | [Qwen3.5: Towards Native Multimodal Agents - Alibaba Cloud](https://www.alibabacloud.com/blog/602894) | kw: official announcement | score: 5 | source: qwen
+- **2026-07-01** | [Qwen3.5 small models: Everything you need to know](https://artificialanalysis.ai/articles/qwen3-5-small-models) | kw: official announcement | score: 5 | source: qwen
+- **2026-07-01** | [Deploy Qwen3.7 Max on GPU Cloud: MoE Setup Guide (2026)](https://www.spheron.network/blog/deploy-qwen3-7-max-gpu-cloud/) | kw: official announcement | score: 5 | source: qwen
+- **2026-07-01** | [Sakana Fugu -- Multi-Agent System as a Model](https://sakana.ai/fugu/) | kw: official announcement | score: 5 | source: sakana-ai
+- **2026-07-01** | [Sakana Fugu Technical Report - arXiv.org](https://arxiv.org/abs/2606.21228) | kw: benchmark/paper | score: 5 | source: sakana-ai
+- **2026-07-01** | [Grok 4 -- xAI | FindLLM](https://findllm.ai/en/model/grok-4) | kw: official announcement | score: 5 | source: xai
+- **2026-07-01** | [xAI plans aggressive rollout of Grok models, with 1.5T parameters in July and 2T in August](https://wpnews.pro/news/xai-plans-aggressive-rollout-of-grok-models-with-1-5t-parameters-in-july-and-2t) | kw: official announcement | score: 5 | source: xai
+- **2026-07-01** | [Grok 4.5 | Awesome Agents](https://awesomeagents.ai/models/grok-4-5/) | kw: official announcement | score: 5 | source: xai
+- **2026-07-01** | [Yuvion VL redefines AI safety with adversarial precision](https://miningtechnologyinsights.com/2026/06/25/yuvion-vl-redefines-ai-safety-with-adversarial-precision/) | kw: official announcement | score: 5 | source: yuvion
+- **2026-07-01** | [GLM-5.2: 1M Context & Top Coding Benchmarks at $1.40/M](https://automatio.ai/models/glm-5-2) | kw: benchmark/paper | score: 5 | source: zhipu-ai
 - **2026-07-01** | [OpenAI releases GPT-5.6 models to 20 partners, public launch expected by July 2026](https://cryptobriefing.com/openai-releases-gpt-56-models-to-20-partners-public-launch-expected-by-july-2026/) | kw: api launch | score: 9 | source: openai-releases
 - **2026-07-01** | [Introducing Claude 4 \ Anthropic](https://www.anthropic.com/news/claude-4) | kw: official announcement | score: 9 | source: anthropic-releases
 - **2026-07-01** | [Google launches Gemma 4, a new open-source model: How to try it](https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it) | kw: weights drop | score: 9 | source: google-deepmind-releases
