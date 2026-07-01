@@ -1,6 +1,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Type system - Wikipedia](https://en.wikipedia.org/wiki/Type_system) | kw: 0e40ec20
+- **2026-07-01** | [TypeScript: Static or Dynamic? The war is over. | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: 324570ea
+- **2026-07-01** | [Type Systems Comparison - Wikantik](https://wiki.wikantik.com/wiki/TypeSystemsComparison) | kw: 5f39c42f
+- **2026-07-01** | [gradual-typing - GitHub Topics](https://github.com/topics/gradual-typing) | kw: a9eda937
+- **2026-07-01** | [Gradual typing in Python - GeeksforGeeks](https://www.geeksforgeeks.org/python/gradual-typing-in-python/) | kw: 7981958b
+- **2026-07-01** | [TypeScript Gradual Typing | Compile N Run](https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/) | kw: f0a289d9
+- **2026-07-01** | [30 Best general-purpose programming languages as of 2026 - Slant](https://www.slant.co/topics/15491/~general-purpose-programming-languages) | kw: 7306a843
+- **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: 445fff1e
+- **2026-07-01** | [Why Every Programming Language Is Adopting the Same Type...](https://medium.com/@sohail_saifii/why-every-programming-language-is-adopting-the-same-type-system-93e97d0fc111) | kw: 17bf3808
+
 - **2026-07-01** | [Typed and Confused: Studying the Unexpected Dangers of Gradual...](https://www.staicu.org/publications/ase2024.pdf) | kw: type-systems
 - **2026-07-01** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: type-systems
 - **2026-07-01** | [Design and Evaluation of Gradual Typing for Python](https://www.researchgate.net/publication/277918557_Design_and_Evaluation_of_Gradual_Typing_for_Python) | kw: type-systems

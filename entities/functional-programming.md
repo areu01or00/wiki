@@ -1,4 +1,6 @@
 ## Updates
+- **2026-07-01** | [monads - GitHub Topics](https://github.com/topics/monads) | kw: 2afa435e
+
 - **2026-07-01** | [FP lang for 2026 : r/functionalprogramming - Reddit](https://www.reddit.com/r/functionalprogramming/comments/1rhvvl4/fp_lang_for_2026/) | kw: functional-programming
 - **2026-07-01** | [Gleam is Pragmatic - software is fun - Drew Olson](https://blog.drewolson.org/gleam-is-pragmatic/) | kw: functional-programming
 - **2026-07-01** | [Playing with Gleam - Chander Ramesh - Medium](https://c5r.medium.com/playing-with-gleam-17d45400d872) | kw: functional-programming

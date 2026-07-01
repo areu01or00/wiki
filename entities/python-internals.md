@@ -3931,6 +3931,17 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: 10a6d6e7
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: 5d720d29
+- **2026-07-01** | [What Is the Python Global Interpreter Lock (GIL)? -- Real Python](https://realpython.com/python-gil/) | kw: 06224ba6
+- **2026-07-01** | [The GIL Explained -- What It Is, What It Isnt, and How to Work Around It](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: 6ae6e6f8
+- **2026-07-01** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: a454e6bd
+- **2026-07-01** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: 15a7206c
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: 71033601
+- **2026-07-01** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: 4267214a
+- **2026-07-01** | [Python Interview Questions: Key Features, Memory Management...](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: ac7cec13
+- **2026-07-01** | [Beyond basics: async, type hints, packaging, and production Python](https://jobcannon.io/skills/python-advanced) | kw: bffce401
+
 - **2026-07-01** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: python-internals
 - **2026-07-01** | [Memory Management and GIL in Python: Python Guide (2026) | Edugators](https://www.edugators.com/python-online-training/advanced/python-memory-gil) | kw: python-internals
 - **2026-07-01** | [Python - Python Internals: Memory Management & the Global Interpreter ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: python-internals

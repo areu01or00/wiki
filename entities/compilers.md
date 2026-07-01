@@ -1,6 +1,10 @@
 # Compilers
 
 ## Updates
+- **2026-07-01** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: 85875fa4
+- **2026-07-01** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: 4a875ba6
+- **2026-07-01** | [2026 EuroLLVM Developers Meeting - LLVM.org](https://llvm.org/devmtg/2026-04/) | kw: b7fb7f65
+
 - **2026-07-01** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: compilers
 - **2026-07-01** | [LLVM Weekly - a weekly newsletter covering developments in ...](https://llvmweekly.org/) | kw: compilers
 
