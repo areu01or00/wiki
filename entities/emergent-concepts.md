@@ -18,6 +18,17 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-01 — Run 291: Self-Improvement Survey / Bidirectional Evolutionary Search / Trajectory-Informed Memory
+
+- [[self-improving-language-models-with-bidirectional-evolutionary-search-2605.28814]]
+  Self-Improving Language Models with Bidirectional Evolutionary Search (BES) — Xu, Guowei; Qi, Zhenting; Su, Huangyuan + 4 — BES augments best-of-N and tree search with backward recombination operators that mix partial solution fragments, solving the entropy-collapse problem where narrow autoregressive expansion converges to locally optimal responses. **First bidirectional evolutionary search algorithm applied to LLM self-improvement in wiki.**
+
+- [[self-improvement-of-large-language-models-a-technical-overview-and-future-outlook-2603.25681]]
+  Self-Improvement of LLMs: A Technical Overview and Future Outlook — Yang, Haoyan; Xerri, Mario; Park, Solha + 4 — comprehensive taxonomy of LLM self-improvement paradigms (self-evolution, self-training, self-rewarding, self-verification, reflective reasoning), formal limits analysis, and survey of 40+ methods. **First comprehensive self-improvement taxonomy survey in wiki.**
+
+- [[trajectory-informed-memory-generation-for-self-improving-agent-systems-2603.10600]]
+  Trajectory-Informed Memory Generation for Self-Improving Agent Systems (A-MEM) — Fang, Gaodan; Isahagian, Vatche; Jayaram, K. R. + 4 — A-MEM automatically extracts actionable learnings from LLM agent execution trajectories and stores them as retrievable memory, with dual retrieval (cosine-similarity + LLM-guided). **First trajectory-to-memory conversion framework for LLM agents in wiki.**
+
 ### 2026-07-01 — Run 289: Difficulty Routing Self-Distillation / Strategy Memory Continual Learning / Flow Reasoning
 
 - [[ism-self-improving-strategy-memory-continual-mathematical-reasoning-2606.31191]]
