@@ -41,6 +41,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-01** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type systems gradual typing type inference 2026
+- **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type systems gradual typing type inference 2026
+- **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type systems gradual typing type inference 2026
+- **2026-07-01** | [gradual-typing · GitHub Topics · GitHub](https://github.com/topics/gradual-typing) | kw: type systems gradual typing type inference 2026
+- **2026-07-01** | [TypeScript Gradual Typing | Compile N Run](https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/) | kw: type systems gradual typing type inference 2026
+- **2026-07-01** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: type systems gradual typing type inference 2026
+- **2026-07-01** | [Pytype Python Analyze: Infer Check Stubgen Protocols 2026](https://johal.in/pytype-python-analyze-infer-check-stubgen-protocols-2026-4/) | kw: type systems gradual typing type inference 2026
+- **2026-07-01** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb) | kw: type systems gradual typing type inference 2026
+- **2026-07-01** | [(PDF) Gradual typing for functional languages](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: type systems gradual typing type inference 2026
+
 - **2026-07-01** | [Navigating the 2026 Language Landscape: A Typing and Paradigm](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating
 
 - **2026-07-01** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static

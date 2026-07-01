@@ -4117,6 +4117,17 @@
 
 
 ## Updates
+- **2026-07-01** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms data structures LeetCode interview 2026
+- **2026-07-01** | [leetcode-csharp · GitHub Topics · GitHub](https://github.com/topics/leetcode-csharp) | kw: algorithms data structures LeetCode interview 2026
+- **2026-07-01** | [Problems - LeetCode](https://leetcode.com/problemset/algorithms/) | kw: algorithms data structures LeetCode interview 2026
+- **2026-07-01** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms data structures LeetCode interview 2026
+- **2026-07-01** | [Master key data structures and algorithms with LeetCode... | LinkedIn](https://www.linkedin.com/posts/slothdevs_algorithms-datastructures-leetcode-activity-7379706524392329217-fWj3) | kw: algorithms data structures LeetCode interview 2026
+- **2026-07-01** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms data structures LeetCode interview 2026
+- **2026-07-01** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms data structures LeetCode interview 2026
+- **2026-07-01** | [List: Interview | Curated by phani kumar Veluri | Medium](https://medium.com/@veluri.phanikumar/list/interview-f344114e5baa) | kw: algorithms data structures LeetCode interview 2026
+- **2026-07-01** | [Interview Coder - AI Interview Assistant for Technical Interviews](https://www.interviewcoder.co/) | kw: algorithms data structures LeetCode interview 2026
+- **2026-07-01** | [Data Structure and Algortihm Explanation | TikTok](https://www.tiktok.com/discover/data-structure-and-algortihm-explanation) | kw: algorithms data structures LeetCode interview 2026
+
 - **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Tech
 
 - **2026-07-01** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: LeetCode

@@ -3943,6 +3943,17 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-01** | [Python - Python Internals: Memory Management & the Global Interpreter ...](https://evidhya.com/subjects/python/python-internals-memory-management-the-global-interpreter-lock-gil) | kw: Python internals GIL memory management 2026
+- **2026-07-01** | [Memory Management & GIL: Python Guide (2026) | Edugators](https://www.edugators.com/python/advanced/python-memory-gil) | kw: Python internals GIL memory management 2026
+- **2026-07-01** | [Python Memory Management: GIL Deep Dive | Medium](https://medium.com/@a.mortezaie/from-variables-to-the-gil-a-deep-dive-into-python-memory-garbage-collection-immortal-objects-f4a623cf0f7c) | kw: Python internals GIL memory management 2026
+- **2026-07-01** | [Memory Management and GIL in Python: Python Guide (2026) | Edugators](https://www.edugators.com/python-online-training/advanced/python-memory-gil) | kw: Python internals GIL memory management 2026
+- **2026-07-01** | [What is the Python Global Interpreter Lock (GIL)](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: Python internals GIL memory management 2026
+- **2026-07-01** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythonbook.io/python/python-internals/) | kw: Python internals GIL memory management 2026
+- **2026-07-01** | [What is the Global Interpreter Lock (GIL) in Python? Is It ... - Medium](https://medium.com/@Alexcole3/what-is-the-global-interpreter-lock-gil-and-is-it-going-away-in-2026-a3237bf77a10) | kw: Python internals GIL memory management 2026
+- **2026-07-01** | [Mastering The Global Interpreter Lock (GIL) | Python Programming ...](https://course4all.com/python/py-gil-internals/) | kw: Python internals GIL memory management 2026
+- **2026-07-01** | [The Python GIL Controversy: Why Multi-Core Parallelism Remains Broken ...](https://www.javacodegeeks.com/2026/01/the-python-gil-controversy-why-multi-core-parallelism-remains-broken-and-why-it-might-not-matter.html) | kw: Python internals GIL memory management 2026
+- **2026-07-01** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Python internals GIL memory management 2026
+
 - **2026-07-01** | [Memory Management -- Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: Memory
 
 - **2026-07-01** | [How Pythons GIL actually works](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: Pythons

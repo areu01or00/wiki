@@ -965,6 +965,14 @@
       "run_count": 0,
       "last_result_hashes": [],
       "discovered_at_cycle": 142
+    },
+    "factory-ai": {
+      "query": "Factory AI Droid Shield 2.0 model release weights",
+      "category": "auto-discovered",
+      "run_count": 0,
+      "last_result_hashes": [],
+      "discovered_at_cycle": "c144-20260701",
+      "wiki_page": "entities/model-releases-tracker.md"
     }
   }
 }

@@ -3619,6 +3619,12 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-01** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system design distributed systems architecture patterns 2026
+- **2026-07-01** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: system design distributed systems architecture patterns 2026
+- **2026-07-01** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: system design distributed systems architecture patterns 2026
+- **2026-07-01** | [Master System Design Roadmap 2026 | Rocky Bhatia posted on the ...](https://www.linkedin.com/posts/rocky-bhatia-a4801010_master-system-design-in-2026-one-visual-activity-7418616191402942464--RPc) | kw: system design distributed systems architecture patterns 2026
+- **2026-07-01** | [This Is What Actually Scales in 2026 | by Kavya's Programming Path](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: system design distributed systems architecture patterns 2026
+
 - **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System
 
 - **2026-07-01** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating
