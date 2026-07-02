@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 318: DEEP-SUB-CLUSTER — CONFORMAL RISK CERTIFICATION / INFERENCE-TIME REWARD HACKING / TOKENIZATION SCALING LAWS
+
+- [[when-can-conformal-risk-control-certify-llm-outputs-2606.29054]] — [When Can Conformal Risk Control Certify LLM Outputs?](https://arxiv.org/abs/2606.29054) — Kotte, Varun — formal PAC-style coverage guarantees for LLM structured generation; identifies impossibility conditions when LLM calibration is simultaneously overconfident and task loss is non-decomposable; adaptive CRC variants recover coverage under distribution shift. **First conformal-risk-control-formal-guarantee paper in the wiki.**
+
+- [[inference-time-reward-hacking-in-large-language-models-2506.19248]] — [Inference-Time Reward Hacking in Large Language Models](https://arxiv.org/abs/2506.19248) — Khalaf, Hadi; Verdun, Claudio Mayrink; Oesterling, Alex + 2 — taxonomy of gradient-free reward model exploitation at inference time; reward model ensembles and regularized BoN sampling as mitigations; connects to Goodhart's Law in LLM deployment. **First inference-time-reward-hacking taxonomy paper in the wiki.**
+
+- [[compute-optimal-tokenization-2605.01188]] — [Compute Optimal Tokenization](https://arxiv.org/abs/2605.01188) — Limisiewicz, Tomasz; Pagnoni, Artidoro; Iyer, Srini + 6 — joint optimization of tokenizer compression rate and model scaling laws; optimal compression decreases with compute (not constant); latent tokenization for adjustable per-language compression. **First tokenization-scaling-law joint optimization paper in the wiki.**
+
 ### 2026-07-02 — Run 317: DEEP-SUB-CLUSTER — REASONING EFFICIENCY / SAFETY MECHANISMS / REPRESENTATION GEOMETRY
 
 - [[anisotropy-decides-cosine-vs-rank-metrics-for-text-embeddings-2606.29571]] — [Anisotropy Decides Cosine vs. Rank Metrics for Text Embeddings](https://arxiv.org/abs/2606.29571) — Parupudi, V. S. Raghu — resolves the cosine-vs-rank metric debate by identifying embedding anisotropy as the geometric decision boundary; 19-metric study showing rank metrics dominate for high-anisotropy embeddings. **First anisotropy-driven metric selection framework for LLM text embeddings in the wiki.**
