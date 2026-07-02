@@ -4117,6 +4117,15 @@
 
 
 ## Updates
+- **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-02** | [algorithms-datastructures · GitHub Topics · GitHub](https://github.com/topics/algorithms-datastructures) | kw: algorithms
+- **2026-07-02** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms
+- **2026-07-02** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: algorithms
+- **2026-07-02** | [Master key data structures and algorithms with LeetCode... | LinkedIn](https://www.linkedin.com/posts/slothdevs_algorithms-datastructures-leetcode-activity-7379706524392329217-fWj3) | kw: algorithms
+- **2026-07-02** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-07-02** | [List: Interview | Curated by phani kumar Veluri | Medium](https://medium.com/@veluri.phanikumar/list/interview-f344114e5baa) | kw: algorithms
+- **2026-07-02** | [Interview Coder - AI Interview Assistant for Technical Interviews](https://www.interviewcoder.co/) | kw: algorithms
+
 - **2026-07-02** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: Algorithm
 
 - **2026-07-02** | [What is an Algorithm | Introduction to Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What
