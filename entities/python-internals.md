@@ -3943,6 +3943,13 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-02** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How Python Works Under the Hood: Memory, GIL, and Bytecode
+- **2026-07-02** | [What Is the Python Global Interpreter Lock (GIL)? -- Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter Lock (GIL)? -- Real Python
+- **2026-07-02** | [MEMORY_MANAGEMENT (0x1A) in Windows 10/11: how to fix...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: MEMORY_MANAGEMENT (0x1A) in Windows 10/11: how to fix...
+- **2026-07-02** | [How to fix Stop code Memory management (0x1A) error in... - YouTube](https://www.youtube.com/watch?v=zaKOAbNeWiE) | kw: How to fix Stop code Memory management (0x1A) error in... - YouTube
+- **2026-07-02** | [Fynd | Python Developer I/II | Mumbai - Discuss - LeetCode](https://leetcode.com/discuss/post/7183172/fynd-python-developer-iii-mumbai-by-anon-af3d/) | kw: Fynd | Python Developer I/II | Mumbai - Discuss - LeetCode
+- **2026-07-02** | [GitHub - skyfirews/prep - GitHub](https://github.com/skyfirews/prep) | kw: GitHub - skyfirews/prep - GitHub
+
 - **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals, Python, Derive, Maximum, Code
 - **2026-07-02** | [How to fix Stop code Memory management error - YouTube](https://www.youtube.com/watch?v=zaKOAbNeWiE) | kw: How, fix, Stop, code, Memory
 - **2026-07-02** | [MEMORY_MANAGEMENT error in Windows 10/11](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: MEMORY, MANAGEMENT, error, Windows

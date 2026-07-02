@@ -33,6 +33,15 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM - Wikipedia
+- **2026-07-02** | [c++ - LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: c++ - LLVM: simple example of a just-in-time compilation
+- **2026-07-02** | [A Minimal LLVM JIT example for LLVM-5 - GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM JIT example for LLVM-5 - GitHub
+- **2026-07-02** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website
+- **2026-07-02** | [Remote native JIT compilation and debugging with LLVM](https://weliveindetail.github.io/blog/post/2021/03/29/remote-compile-and-debug.html) | kw: Remote native JIT compilation and debugging with LLVM
+- **2026-07-02** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM | PPT
+- **2026-07-02** | [In this article, we will compile the LLVM IR into object code.](https://iq.opengenus.org/compiling-to-object-code/) | kw: In this article, we will compile the LLVM IR into object code.
+- **2026-07-02** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org
+
 - **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just, time, compilation, Wikipedia
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: LLVM, Compiler, Infrastructure, Project
 - **2026-07-02** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: Compilers, Modern, Language, Runtimes, LLVM

@@ -3619,6 +3619,15 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: Integration Patterns 2026: Query Patterns (Consistency vs...)
+- **2026-07-02** | [System Design Concepts Course and Interview Prep - YouTube](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: System Design Concepts Course and Interview Prep - YouTube
+- **2026-07-02** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks
+- **2026-07-02** | [Multi-Agent Orchestration Patterns: Building Production Systems in...](https://www.frankx.ai/blog/multi-agent-orchestration-patterns-2026) | kw: Multi-Agent Orchestration Patterns: Building Production Systems in...
+- **2026-07-02** | [Prompt Engineering for Developers: 5 Production Patterns That Work...](https://www.groovyweb.co/blog/prompt-engineering-for-developers-production-patterns-2026) | kw: Prompt Engineering for Developers: 5 Production Patterns That Work...
+- **2026-07-02** | [Notification Fanout Architecture -- exashard](https://exashard.com/posts/notification-fanout-architecture/) | kw: Notification Fanout Architecture -- exashard
+- **2026-07-02** | [A pattern language for microservices](https://microservices.io/patterns/index.html) | kw: A pattern language for microservices
+- **2026-07-02** | [Microservices Migration with Python and Service Decomposition...](https://johal.in/microservices-migration-with-python-and-service-decomposition-patterns-2026-3/) | kw: Microservices Migration with Python and Service Decomposition...
+
 - **2026-07-02** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three, Bold, Predictions, Distributed, Systems
 - **2026-07-02** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: System, Design, Patterns, Every, Engineer
 - **2026-07-02** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: Modern, Software, Architecture, Patterns, That

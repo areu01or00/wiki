@@ -41,6 +41,10 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynamic Languages
+- **2026-07-02** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing/) | kw: What Is Gradual Typing? - ITU Online IT Training
+- **2026-07-02** | [Statically Typed vs Dynamically Typed Languages - Medium](https://medium.com/towardsdev/statically-typed-vs-dynamically-typed-languages-a-comprehensive-deep-dive-e30c09ec4439) | kw: Statically Typed vs Dynamically Typed Languages - Medium
+
 - **2026-07-02** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type, system, Astral, Docs
 - **2026-07-02** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, Language, Labyrinth, Matrix, Analysis
 - **2026-07-02** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: Con, Typing, Summit, Recap, Bernat

@@ -31,6 +31,13 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: Monad (functional programming) - Wikipedia
+- **2026-07-02** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum
+- **2026-07-02** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | kw: Monads in Haskell, explained without the jargon (2026)
+- **2026-07-02** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Rust: Functional Programming & Monads
+- **2026-07-02** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: What Is a Monad in Functional Programming? | Built In
+- **2026-07-02** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying MONADs: What you need to know!
+
 - **2026-07-02** | [Monads and Monad-Like Patterns in Rust: Exploring Functional...](https://softwarepatternslexicon.com/patterns-rust/10/7/) | kw: Monads, Monad, Like, Patterns, Rust
 - **2026-07-02** | [Using rust functional programming with monads | Medium](https://medium.com/coderhack-com/using-rust-functional-programming-with-monads-0767b7b894d0) | kw: Using, rust, functional, programming, monads
 - **2026-07-02** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: haskell, What, monad, Stack, Overflow
