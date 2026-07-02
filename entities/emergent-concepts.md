@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 320: DEEP-SUB-CLUSTER — UNCERTAINTY QUANTIFICATION / CALIBRATED RANKING / EARLY DECISION PHENOMENON
+
+- [[uncertainty-quantification-via-invariant-measure-conformal-prediction-2606.31607]] — [Uncertainty Quantification via Invariant-Measure Conformal Prediction](https://arxiv.org/abs/2606.31607) — Bakhtiaridoust, Mohammadhossein; Baumann, Dominik; Deka, Shankar — invariant-measure CP replaces exchangeability with stationarity, enabling valid uncertainty quantification for temporally dependent LLM/deployment pipelines where standard split-CP fails; validated on safety-critical control and monitoring. **First invariant-measure conformal prediction paper for LLM deployment pipelines in the wiki.**
+
+- [[from-uncertain-judgments-to-calibrated-rankings-conformal-elo-estimation-for-llm-evaluation-2606.13221]] — [From Uncertain Judgments to Calibrated Rankings: Conformal Elo Estimation for LLM Evaluation](https://arxiv.org/abs/2606.13221) — Kargi, Bora; Salinas, David — conformal prediction applied to LLM-as-a-judge pipelines, providing finite-sample coverage guarantees for ranking intervals and quantifying judge-human disagreement from position bias/self-preference/intransitivity; reduces annotation cost ~40% while maintaining coverage. **First conformal ranking method for LLM evaluation in the wiki.**
+
+- [[large-language-models-decide-early-and-explain-later-2604.22266]] — [Large Language Models Decide Early and Explain Later](https://arxiv.org/abs/2604.22266) — Datta, Ayan; Zhao, Zhixue; Verma, Bhuvanesh + 3 — empirically demonstrates LLM answers are determined at an early CoT position in 70%+ of cases; later tokens are post-decision rationalization that increase latency without improving quality; framework for identifying decision point enables ~30-40% inference token reduction. **First early-decision quantification framework for chain-of-thought reasoning in the wiki.**
+
 ### 2026-07-02 — Run 319: DEEP-SUB-CLUSTER — CASE-BASED CALIBRATION / REASONING EFFICIENCY DECOMPOSITION / NEURAL REPRESENTATION GEOMETRY
 
 - [[case-based-calibration-adaptive-reasoning-execution-llm-tool-use-2605.15041]] — [Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use](https://arxiv.org/abs/2605.15041) — Pang, Renning; Lan, Tian; Liu, Leyuan + 3 — CAST framework uses historical tool-use cases as calibration substrate for balancing reasoning depth with structural validity; +5.85pp BFCLv2, -26% reasoning length. **First case-based calibration framework for LLM tool-use reasoning depth in the wiki.**
