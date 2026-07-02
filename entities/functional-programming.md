@@ -31,6 +31,9 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Rust patterns — list of Rust libraries/crates // Lib.rs](https://lib.rs/rust-patterns)
+- **2026-07-02** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e)
+
 - **2026-07-02** | [7 Best Free Haskell Courses for 2026 — Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: 7
 - **2026-07-02** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: Monad
 - **2026-07-02** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: Monads:

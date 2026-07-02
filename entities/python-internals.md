@@ -3943,6 +3943,15 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947)
+- **2026-07-02** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/)
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/)
+- **2026-07-02** | [How to fix Stop code Memory management (0x1A) error in... - YouTube](https://www.youtube.com/watch?v=zaKOAbNeWiE)
+- **2026-07-02** | [MEMORY_MANAGEMENT (0x1A) в Windows 10/11: как исправить...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html)
+- **2026-07-02** | [How to pass Python interviews and get a ₹10 LPA job | LinkedIn](https://www.linkedin.com/posts/coderrange_coderrange-pythoninterview-pythonjobs-activity-7342096982506688512-7QsR)
+- **2026-07-02** | [GitHub - anmol-programmer/MASTER-PYTHON-FULL-LIST-OF...](https://github.com/anmol-programmer/MASTER-PYTHON-FULL-LIST-OF-PROGRAM)
+- **2026-07-02** | [Python Developer REST APIs at Worx-ai | Django Job Board](https://djangojobboard.com/626/python-developer-rest-apis-worx-ai/)
+
 - **2026-07-02** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How
 - **2026-07-02** | [Using malloc_trim to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using
 - **2026-07-02** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: 5

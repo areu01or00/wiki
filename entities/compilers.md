@@ -33,6 +33,16 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+- **2026-07-02** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/)
+- **2026-07-02** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure)
+- **2026-07-02** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
+- **2026-07-02** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/)
+- **2026-07-02** | [Unmasking the World of LLVM IR Based JIT Execution](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/)
+- **2026-07-02** | [dstogov/ir: Lightweight JIT Compilation Framework - GitHub](https://github.com/dstogov/ir)
+- **2026-07-02** | [Validating JIT Compilers via Compilation Space Exploration](https://dl.acm.org/doi/full/10.1145/3715102)
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html)
+
 - **2026-07-02** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: 3.
 - **2026-07-02** | [llvm-compile-time-tracker.com](https://llvm-compile-time-tracker.com/) | kw: llvm-compile-time-tracker.com
 - **2026-07-02** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize
