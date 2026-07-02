@@ -33,6 +33,20 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [clang - LLVM jit and native - Stack Overflow](https://stackoverflow.com/questions/3509215/llvm-jit-and-native) | kw: clang
+
+- **2026-07-02** | [A Minimal LLVM JIT example for LLVM-5 - GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A
+
+- **2026-07-02** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures
+
+- **2026-07-02** | [LLVM | PPT - Slideshare](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
+
+- **2026-07-02** | [A LLVM JIT Prototype for Running an Energy-Saving - Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A
+
+- **2026-07-02** | [2017 LLVM Developers Meeting - YouTube](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: 2017
+
+- **2026-07-02** | [Implementing JIT Compilation - IQ OpenGenus](https://iq.opengenus.org/compiling-to-object-code/) | kw: Implementing
+
 
 - **2026-07-02** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: building
 

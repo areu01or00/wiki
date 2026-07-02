@@ -128,10 +128,6 @@
         "Work"
       ],
       "last_result_hashes": [
-        "47081d16d27f658f6ab015f3daa4e583",
-        "7e7fcdad236f0dfe6f3f57c0cc5fc3d2",
-        "8dadff570517dc4270ac037695cde56d",
-        "ea6e5bcb8d506faaea620477605191d7",
         "e386d25ff1816abec2a4433c860ed876",
         "d3099c6517032e4d8a49b61853da6add",
         "a4f767c8d886ec8f2fab1999efc97283",
@@ -147,9 +143,13 @@
         "6bf898a8699853824c1bc5d6177dfec2",
         "3b3f82a1ce99e0255038b165da4fd365",
         "95605972d984dc3d355deccfbf8ccffc",
-        "89a4edeb9a628f8383e555ba4289914f"
+        "89a4edeb9a628f8383e555ba4289914f",
+        "2d3506c3f6b37ad4e09360268ba56f6d",
+        "eafe3e7d631192260b472389e2a65678",
+        "3e1426e7df71a88d744121a055d84039",
+        "fcefd736638d64ae4b988ccf49ce6703"
       ],
-      "last_run": "2026-07-02T01:06:36.326826+0000",
+      "last_run": "2026-07-02T01:18:59.774788+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 8
     },
@@ -283,13 +283,6 @@
         "developments"
       ],
       "last_result_hashes": [
-        "525a160983d7b911b472e962fb56cbde",
-        "f1925c0af6e39aa520ffa6a282ede525",
-        "1382ef81b8b46a33f9229b1c7749d06f",
-        "86768d8752a6979c5c8cea02f676f762",
-        "2e36db34c1a584712cd6f35f63aa33ba",
-        "79f4ddf873dbf67c746be2d871fbeb46",
-        "34c166634f13431feef39c0866dcf8e7",
         "b4b1697fc63d5704d74c4c88d69cd644",
         "266dbbfd9257fa64c8462f66ef2e902c",
         "5a2bb77893906d8b42b54eaf1ac58942",
@@ -302,9 +295,16 @@
         "6cfd3bf8197543310bb62b859ab44b2f",
         "0e5b105be67d2d11f3664ebcd5f1fad1",
         "6cd3b5abf114ac185b5dc411d1d972ce",
-        "43e89730b2b4c6ac034d9ce9bb2b192e"
+        "43e89730b2b4c6ac034d9ce9bb2b192e",
+        "e5f79623e10107b149ccb05e170c4eed",
+        "58a8198c4a5657fc48e1c5274def4d8e",
+        "cd317287f340ce184cace786603ffa1a",
+        "17709a81ecd3e3bb90f1e457a2c048ce",
+        "fce3ed2a0159a574f4254aead98f48df",
+        "61993a57c9a4b84e9682a7158e47db24",
+        "f835eb4901be8da361fff9fb9d5ae31d"
       ],
-      "last_run": "2026-07-02T01:06:36.326826+0000",
+      "last_run": "2026-07-02T01:18:59.774788+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 8
     },
@@ -431,12 +431,6 @@
         "AGT"
       ],
       "last_result_hashes": [
-        "29569acd7e8f8399d40871a8a821ad2d",
-        "0f283757319d5365f9f3d2ac8e848912",
-        "a3687d388b554d6f342102d30b6e029d",
-        "16af5ba33eea9f9b6db255441ee2ad03",
-        "0e99faa80316ba7e2d573f17baed4ac2",
-        "975a1b475e0a58b8c26e87f4d85fdf65",
         "464e7164b41aa9604df315c6c7bc9779",
         "dcaaf7e99809627d0edecfed58b9498d",
         "f0a289d95b39737fb60d8c6d295f1db5",
@@ -450,9 +444,15 @@
         "fec2b873d9beacb4318bf6b1e7679b3c",
         "8a08ccec47830b92ffbdd1aa70de4d27",
         "f8f1ccd4a760b87cc8acfbb885dd79b1",
-        "d58d761c05a23b543f3f1dc549c04173"
+        "d58d761c05a23b543f3f1dc549c04173",
+        "686812076d5de90d1c2ef77d554beb01",
+        "29ff16a013639480476846321ab4599c",
+        "83fcabd225ef0467b1baf3fb99542e4b",
+        "b701fe0d605717120e72261e6b019507",
+        "ec0692c5e051bc908b94d68809732668",
+        "eb4a6ab3a59bdb649aa771c2bcf6c3f9"
       ],
-      "last_run": "2026-07-02T01:06:36.326826+0000",
+      "last_run": "2026-07-02T01:18:59.774788+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 10
     },
@@ -576,13 +576,6 @@
         "Elixir"
       ],
       "last_result_hashes": [
-        "a700862f5d2d2d9493366c33bdca68c9",
-        "c627d377e0cbf2a2824007c6d94c429c",
-        "56c38eaf30f74133fc4026cd77fd9e76",
-        "1aee3cdb7f84bcb4a36c088266e46971",
-        "293b11c46d76ef40dc123ce1533a89d0",
-        "99524e05f28f5499f9092cc0d05e7d7a",
-        "40b1e83e5dc43bca320cb1d0f95cbf13",
         "c607e9aabd66bd844ea16e2c91cf5bc9",
         "79359cbdfffe242ef4a0c5bad8ff46e9",
         "e85357e678b6e6f98e8d8361a1c36aee",
@@ -595,9 +588,16 @@
         "dd25820f790098fdc7dc382c38902ef4",
         "30528bdc44cd273f71e20b4509f48e6d",
         "480d402e9012f947099ff628259136e0",
-        "df332d266a9393afd65af20ab5899d2a"
+        "df332d266a9393afd65af20ab5899d2a",
+        "f7f29e5eeb98546e2b4e21ea454bb228",
+        "b5290a95b5cbffcb5b80b0654efeeba4",
+        "cc9f3837164b6e0e6edde576a14a1c3f",
+        "a726a94cf0af9bc5d97352717acc87e4",
+        "7c5087aba9be74c21a92f4c31b0e14d6",
+        "632f992a554fc102525d029dacc79d7f",
+        "5b1f608b6d47d4cb85ce9668b73b253b"
       ],
-      "last_run": "2026-07-02T01:06:36.326826+0000",
+      "last_run": "2026-07-02T01:18:59.774788+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 9
     },
@@ -730,16 +730,6 @@
         "These"
       ],
       "last_result_hashes": [
-        "b8ea900b3f0bf673c4e45caddd9508ee",
-        "74137392faf0cd29b8f26b5ae47bd3f5",
-        "aea0f57e06b1fe8e829cd99419deb134",
-        "a0c42e82f933de0e107601fe11b8fe4a",
-        "96f20868cfe71c3714a61c4a1d5e0b19",
-        "4847d18b16c54ed200dc5166596191ca",
-        "b1519018516079c257add4fccc03b7e7",
-        "d25b68b62003c1960f054de943a13a69",
-        "5f9682348ff09dc17685c9546a7c222b",
-        "933ec0b3cafe4d2fbcdfccdd85d2f585",
         "867c193f14d86dba8e19be9953c4f21a",
         "7827ab24e9d276e3b17d86a148741a99",
         "51bdec45c83dc444c8040f8f04671877",
@@ -749,9 +739,19 @@
         "f7f0913e896756c80b86386485ae3832",
         "6bb5f45745653c7264d8c29607bac581",
         "be6da1ea7a1c55bc0840c46dac040ce4",
-        "5e88f6c01a27285ecd0ce1dd293a399e"
+        "5e88f6c01a27285ecd0ce1dd293a399e",
+        "25375a273703fbd792f71e66ba982f05",
+        "2b6773843051b806fc648da0662c0c3a",
+        "2e3f3020047da7fe0427222ec5ba0787",
+        "4c92991b4c2b27039072e3ebc410da51",
+        "8072606228e0dfe67fd443b0b74bc5e1",
+        "ae7ea95b3d1b7b574a9af425d57cff0f",
+        "a857c814273e0c7625339c1a17718eac",
+        "295831fd0d7c8db566586f7f2ceec53a",
+        "8a2fd3ac12167971591fa76eef1a7787",
+        "560e79319f380fbc23cb05e0835b8ef1"
       ],
-      "last_run": "2026-07-02T01:06:36.326826+0000",
+      "last_run": "2026-07-02T01:18:59.774788+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 10
     },
@@ -881,16 +881,6 @@
         "Dive"
       ],
       "last_result_hashes": [
-        "10a6d6e786cdb44ade53e424b1cf9cd2",
-        "57ad949b13054a49134274f7b5cbab95",
-        "0763ea341fdeffad9b1390df2709c92c",
-        "9699be5b44e27ce1cba42d614a7412c3",
-        "a454e6bd90dd4ae1795224af7e27c1bb",
-        "474c152f8f7f6147ea15e1f25fff436b",
-        "4c49f6dec0d14d07b95a41319c26009f",
-        "6645d2503b1cca80a5a732f79176563d",
-        "eeca25286351a745d9a8c1b5e759f386",
-        "2d58b6b89757b9188cc9683044d1aaf0",
         "5d720d29ca8c62a4b504bc6f3f753b90",
         "bbb596c3441904fed7dc7fa5f00eeb00",
         "7103360156c8e6d465039238ada20318",
@@ -900,9 +890,19 @@
         "dba37bd96bf9c229b7f5aa23a40cdf9d",
         "229a6737901270fcad52302d4162597f",
         "65e04870da78f3fed5dcc7fff90e659e",
-        "ead183515ad9a6b7505956a8e693a7ae"
+        "ead183515ad9a6b7505956a8e693a7ae",
+        "17f40f751da9a1c9558ca7dbf958ae7e",
+        "6a4af48d2987d8780c0948375ba78d1f",
+        "31912f4f2a01f7fc06fde7494494d26e",
+        "c644c61774b53593b05d98f55951400a",
+        "3977a42e266cba0d9724f6994662a434",
+        "57c085892adfb8eb151771c2479e369a",
+        "ce7bd5a8b42f939d64742fe1ba101102",
+        "f04ff041b29f9e8e9412695179cb1a10",
+        "1cf455284bb0983215069efb06784c61",
+        "952e4cdd85ea50368b5178492a0c873c"
       ],
-      "last_run": "2026-07-02T01:06:36.326826+0000",
+      "last_run": "2026-07-02T01:18:59.774788+00:00",
       "new_sub_topics_this_run": [],
       "last_new_count": 10
     },

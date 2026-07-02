@@ -4117,6 +4117,26 @@
 
 
 ## Updates
+- **2026-07-02** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: Algorithm
+
+- **2026-07-02** | [What is an Algorithm | Introduction to Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: What
+
+- **2026-07-02** | [Algorithms in Computer Science: A Complete Beginner's Guide](https://medium.com/@mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis-7ae156894d2f) | kw: Algorithms
+
+- **2026-07-02** | [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) | kw: Algorithms,
+
+- **2026-07-02** | [Introduction to Algorithms | MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: Introduction
+
+- **2026-07-02** | [What is an Algorithm? Complete Beginner's Guide - codelucky](https://codelucky.com/algorithms/) | kw: What
+
+- **2026-07-02** | [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: DSA
+
+- **2026-07-02** | [Algorithm | Definition, Types, & Facts - Britannica](https://www.britannica.com/science/algorithm) | kw: Algorithm
+
+- **2026-07-02** | [What Is an Algorithm? Understanding the Logic - ScienceNewsToday](https://www.sciencenewstoday.org/what-is-an-algorithm-understanding-the-logic-behind-modern-computing) | kw: What
+
+- **2026-07-02** | [What is an Algorithm? A Simple Guide for Beginners - Guvi](https://www.guvi.in/blog/what-is-an-algorithm/) | kw: What
+
 
 - **2026-07-02** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: interviews
 

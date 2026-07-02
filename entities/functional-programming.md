@@ -31,6 +31,20 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Haskell Team PM 2026 | Functional Type-Safe Monads - GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: Haskell
+
+- **2026-07-02** | [What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: What
+
+- **2026-07-02** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: Rust:
+
+- **2026-07-02** | [Monads and Monad-Like Patterns in Rust](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: Monads
+
+- **2026-07-02** | [What Is a Monad in Functional Programming? - Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: What
+
+- **2026-07-02** | [Just how much can you do with functions? | Haskell, Functional - YouTube](https://www.youtube.com/watch?v=rEgOP6MVGAM) | kw: Just
+
+- **2026-07-02** | [monad - GitHub Topics](https://github.com/topics/monad) | kw: monad
+
 
 - **2026-07-02** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: monad
 

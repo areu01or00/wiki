@@ -41,6 +41,18 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type
+
+- **2026-07-02** | [Putting gradual types to work](https://scispace.com/pdf/putting-gradual-types-to-work-5g4l9bpcvm.pdf) | kw: Putting
+
+- **2026-07-02** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: Pyre
+
+- **2026-07-02** | [Gradual typing for functional languages - ResearchGate](https://www.researchgate.net/publication/213883236_Gradual_typing_for_functional_languages) | kw: Gradual
+
+- **2026-07-02** | [Gradual Typing with Unication-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: Gradual
+
+- **2026-07-02** | [Formal Verification and Type Systems - Software Patterns Lexicon](https://softwarepatternslexicon.com/js/emerging-technologies-and-advanced-topics/formal-verification-and-type-systems-with-typescript/) | kw: Formal
+
 
 - **2026-07-02** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: learn
 

@@ -3943,6 +3943,26 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-02** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python
+
+- **2026-07-02** | [Memory Management — Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: Memory
+
+- **2026-07-02** | [How Python's GIL actually works (and when it bites you) - Dev.to](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How
+
+- **2026-07-02** | [How Python's GIL Works - Codefinity](https://codefinity.com/blog/How-Python's-GIL-Works) | kw: How
+
+- **2026-07-02** | [Goodbye GIL: Exploring free-threaded mode in Python 3.14 - LinkedIn](https://www.linkedin.com/pulse/goodbye-gil-exploring-free-threaded-mode-python-314-adarsh-divakaran-a93ac) | kw: Goodbye
+
+- **2026-07-02** | [Memory Management | Python - AlgoMaster.io](https://algomaster.io/learn/python/memory-management) | kw: Memory
+
+- **2026-07-02** | [Understanding the Python Global Interpreter Lock (GIL) - Substack](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: Understanding
+
+- **2026-07-02** | [Tearing Off the GIL Veil: A Deep Dive into Python Multithreading](https://medium.com/codex/tearing-off-the-gil-veil-a-deep-dive-into-python-multithreadings-inner-mechanics-a94c92546e79) | kw: Tearing
+
+- **2026-07-02** | [Python 3.14 and the End of the GIL - Towards Data Science](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) | kw: Python
+
+- **2026-07-02** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What
+
 
 - **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: internals
 
