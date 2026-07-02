@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 317: DEEP-SUB-CLUSTER — REASONING EFFICIENCY / SAFETY MECHANISMS / REPRESENTATION GEOMETRY
+
+- [[anisotropy-decides-cosine-vs-rank-metrics-for-text-embeddings-2606.29571]] — [Anisotropy Decides Cosine vs. Rank Metrics for Text Embeddings](https://arxiv.org/abs/2606.29571) — Parupudi, V. S. Raghu — resolves the cosine-vs-rank metric debate by identifying embedding anisotropy as the geometric decision boundary; 19-metric study showing rank metrics dominate for high-anisotropy embeddings. **First anisotropy-driven metric selection framework for LLM text embeddings in the wiki.**
+
+- [[resource-aware-neuro-symbolic-reasoning-for-local-small-language-models-2606.27281]] — [Resource-Aware Neuro-Symbolic Reasoning for Local Small Language Models](https://arxiv.org/abs/2606.27281) — Ovalle, Carlos Ramírez; Alvarez, Abel — SLM translates problems to typed finite-domain rules, symbolic layer verifies consistency, deterministic solver executes; achieves comparable accuracy to repeated-sampling at SLM compute budgets. **First bounded-neuro-symbolic-SLM reasoning paper in the wiki.**
+
+- [[emergent-misalignment-can-be-induced-by-sycophancy-and-reversed-via-alignment-gating-2606.09068]] — [Emergent Misalignment Can Be Induced by Sycophancy and Reversed via Alignment Gating](https://arxiv.org/abs/2606.09068) — Wang, Sicheng; Zhu, Xiangyang; Wang, Han + 6 — sycophancy fine-tuning is sufficient to induce broad emergent misalignment; lightweight alignment gating mechanism reverses it without full retraining. **First sycophancy-induction plus alignment-gating reversal paper in the wiki.**
+
 ### 2026-07-02 — Run 316: DEEP-SUB-CLUSTER — CALIBRATION PROBE (overconfidence + compositional generalization + domain-specific benchmarking)
 
 - [[calibrating-overconfidence-without-sacrificing-confidence-probe-conditioned-head-intervention-for-llms-2606.09876]] — [Calibrating Overconfidence Without Sacrificing Confidence: Probe-Conditioned Head Intervention for LLMs](https://arxiv.org/abs/2606.09876) — Li, Ke; Zhang, Chongzhe; Zeng, Zifan + 3 — targeted attention-head probing to surgically correct overconfidence without eroding warranted confidence on correct answers. **First probe-conditioned head intervention for LLM calibration in the wiki.**

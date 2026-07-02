@@ -4117,6 +4117,14 @@
 
 
 ## Updates
+- **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Data
+
+- **2026-07-02** | [data-structures | GitHub Topics | GitHub](https://github.com/topics/data-structures) | kw: data-structures
+
+- **2026-07-02** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: Data
+
+- **2026-07-02** | [datastructures-algorithms | GitHub Topics | GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: datastructures-algorithms
+
 - **2026-07-01** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are
 - **2026-07-01** | [leetcode-python · GitHub Topics · GitHub](https://github.com/topics/leetcode-python) | kw: leetcode-python
 

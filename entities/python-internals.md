@@ -3943,6 +3943,20 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-02** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How
+
+- **2026-07-02** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: What
+
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals
+
+- **2026-07-02** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: Top
+
+- **2026-07-02** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: Advanced
+
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: Internals
+
+- **2026-07-02** | [Fynd | Python Developer I/II | Mumbai - Discuss - LeetCode](https://leetcode.com/discuss/post/7183172/fynd-python-developer-iii-mumbai-by-anon-af3d/) | kw: Fynd
+
 - **2026-07-01** | [Python in 2026: Free-Threading and UV Change Everything](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: Python
 - **2026-07-01** | [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)) | kw: Python
 

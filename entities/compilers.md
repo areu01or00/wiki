@@ -33,6 +33,18 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time
+
+- **2026-07-02** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT
+
+- **2026-07-02** | [2026 EuroLLVM Developers' Meeting](https://llvm.org/devmtg/2026-04/) | kw: 2026
+
+- **2026-07-02** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: JIT
+
+- **2026-07-02** | [Unmasking the World of LLVM IR Based JIT Execution](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/) | kw: Unmasking
+
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/OpenProjects.html) | kw: The
+
 - **2026-07-01** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: 3.
 - **2026-07-01** | [llvm-compile-time-tracker.com](https://llvm-compile-time-tracker.com/) | kw: llvm-compile-time-tracker.com
 
