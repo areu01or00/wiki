@@ -31,6 +31,12 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional programming
+- **2026-07-02** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/kabbalah-haskell-st-monad/) | kw: functional programming
+- **2026-07-02** | [Community version of “Learn You a Haskell…” (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: functional programming
+- **2026-07-02** | [I think I Finally Got Monads - Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: functional programming
+- **2026-07-02** | [Abilities for the monadically inclined · Unison programming language](https://www.unison-lang.org/docs/fundamentals/abilities/for-monadically-inclined/) | kw: functional programming
+
 - **2026-07-02** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional-programming
 - **2026-07-02** | [monads - GitHub Topics](https://github.com/topics/monads) | kw: functional-programming
 - **2026-07-02** | [Haskell Team PM 2026: Functional Type-Safe Monads](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: functional-programming

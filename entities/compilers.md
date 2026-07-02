@@ -33,6 +33,10 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
+- **2026-07-02** | [2026 EuroLLVM Developers' Meeting](https://llvm.org/devmtg/2026-04/) | kw: compilers
+- **2026-07-02** | [Easy::jit: A just-in-time compiler for C++ - GitHub](https://github.com/jmmartinez/easy-just-in-time) | kw: compilers
+
 - **2026-07-02** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: compilers
 - **2026-07-02** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: compilers

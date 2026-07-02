@@ -4117,6 +4117,17 @@
 
 
 ## Updates
+- **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-02** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-02** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: algorithms
+- **2026-07-02** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms
+- **2026-07-02** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: algorithms
+- **2026-07-02** | [Los leetcode repositorios principales - Proyectos de GitHub... - Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: algorithms
+- **2026-07-02** | [NeetCode - Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: algorithms
+- **2026-07-02** | [My Senior Android Engineer Interview Experience with Tinder - Medium](https://medium.com/@YodgorbekKomilo/my-senior-android-engineer-interview-experience-with-tinder-389d7c44b24a) | kw: algorithms
+- **2026-07-02** | [LeetCode Sharpens Problem-Solving Skills for Software... - LinkedIn](https://www.linkedin.com/posts/mansi-garg-018494215_leetcode-datastructures-algorithms-activity-7424486215959257088-GONe) | kw: algorithms
+- **2026-07-02** | [Data Structure and Algortihm Explanation - TikTok](https://www.tiktok.com/discover/data-structure-and-algortihm-explanation) | kw: algorithms
+
 - **2026-07-02** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
 - **2026-07-02** | [What is an Algorithm: Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
 - **2026-07-02** | [Algorithms in Computer Science: A Complete Beginner Guide](https://medium.com/mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis) | kw: algorithms

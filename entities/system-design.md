@@ -3619,6 +3619,11 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [Distributed Systems Patterns 2026 - pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: system design
+- **2026-07-02** | [How I Build a Distributed System in 2026: Principles, Patterns, and ..](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: system design
+- **2026-07-02** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: system design
+- **2026-07-02** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026/) | kw: system design
+
 - **2026-07-02** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system-design
 - **2026-07-02** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: system-design
 - **2026-07-02** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: system-design
