@@ -18,6 +18,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-02 — Run 335: CALIBRATION / AGENTIC SAFETY / RED-TEAMING SURVEY
+
+1. **[MemSyco-Bench: Benchmarking Sycophancy in Agent Memory](https://arxiv.org/abs/2607.01071)** — Xiang, Zhishang; Chen, Zerui; Tang, Yunbo + 5 — First systematic benchmark for memory-induced sycophancy in LLM agents: retrieved memories amplify user biases and past errors, causing agents to over-align. 800+ test cases across 6 task types. **First memory-sycophancy failure mode benchmark in the wiki.**
+
+2. **[CALIBER: Calibrating Confidence Before and After Reasoning in Language Models](https://arxiv.org/abs/2606.24281)** — Finlay, Conor; Kurien, Joshua; Dash, Saurabh + 2 — Unified confidence elicitation protocol spanning pre-reasoning and post-reasoning states. Reduces ECE by 52.5% over single-point calibration. **First unified pre/post reasoning-state calibration framework in the wiki.**
+
+3. **[Recent advancements in LLM Red-Teaming: Techniques, Defenses, and Ethical Considerations](https://arxiv.org/abs/2410.09097)** — Raheja, Tarun; Pochhi, Nilay; Curie, F. D. C. M. — Comprehensive taxonomy of LLM attack surfaces (jailbreaking, prompt injection, multi-turn manipulation) and defenses (constitutional AI, RLHF, guardrails). 140+ cited works. **First foundational survey of LLM red-teaming taxonomy in the wiki.**
+
 ### 2026-07-02 — Run 334: DOMAIN-SPECIALIZED REASONING / TEST-TIME VERIFICATION / AGENTIC TIME SERIES
 
 1. **[A Specialized Reasoning Large Language Model for Accelerating Rare Disease Diagnosis: A Randomized AI Physician Assistance Trial](https://arxiv.org/abs/2606.24510)** — Chen, Haichao; Zhou, Songchi; Zhao, Zhengyun + 28 — RaDaR (32B) trained on 49,170 real + 104,666 synthetic rare disease cases with reasoning-enhanced training. Randomized physician-assistance trial shows 21.44pp accuracy improvement over internet search. Prioritized final diagnosis before clinical suspicion in 61% of cases. **First domain-specific specialized reasoning LLM with randomized clinical trial validation in the wiki.**

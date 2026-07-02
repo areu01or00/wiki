@@ -635,7 +635,7 @@
         "wikipedia",
         "Concurrent",
         "milewski",
-        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
         "Learned",
         "Community",
         "Monad tutorials timeline",
@@ -883,7 +883,7 @@
         "leetcodeheavy",
         "page",
         "Big",
-        "datastructures-algorithms · GitHub Topics · GitHub",
+        "datastructures-algorithms \u00b7 GitHub Topics \u00b7 GitHub",
         "algorithms",
         "DEV",
         "Structures/Algorithms",
@@ -918,11 +918,11 @@
         "algorithm",
         "Interviews",
         "structures",
-        "LeetCode Isn't Dead in 2026 — But It's No Longer Enough",
+        "LeetCode Isn't Dead in 2026 \u2014 But It's No Longer Enough",
         "platform",
         "Data Structures/Algorithms to go over the day of the test",
         "june",
-        "data-structures · GitHub Topics · GitHub",
+        "data-structures \u00b7 GitHub Topics \u00b7 GitHub",
         "data-structures",
         "hours",
         "Structures",
@@ -2778,7 +2778,10 @@
         "linguistic-firewall-geometry-defense-multi-agent-systems-routing-2606.30555-2606.30555",
         "multi-bitwidth-quantization-llms-additive-codebooks-2606.12876",
         "the-mirage-of-optimizing-training-policies-2606.29526-2606.29526",
-        "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354"
+        "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354",
+        "2606.24281",
+        "2607.01071",
+        "2410.09097"
       ],
       "last_results": [
         {
@@ -3847,7 +3850,7 @@
           "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
           "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+          "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
           "hash": "7ab36c943c7ed17c0f69721152af09fe"
         },
         {
@@ -3855,7 +3858,7 @@
           "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
           "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+          "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
           "hash": "446988809068c935fed05a57aff202ec"
         },
         {
@@ -3863,7 +3866,7 @@
           "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
           "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+          "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
           "hash": "57e85705a7bf5bf397116e1cd3ef9c15"
         },
         {
@@ -4072,7 +4075,7 @@
           "slug": "discretizing-reward-models-2606.21795",
           "discovered_run": 59,
           "timestamp": "2026-06-26T06:54:00+00:00",
-          "source": "web_search escape hatch (rotated template — reasoning/control+safety+training-data+inference-eff axes)"
+          "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
         },
         {
           "arxiv_id": "2606.18967",
@@ -4621,7 +4624,7 @@
         },
         {
           "arxiv_id": "2603.12953",
-          "title": "Delta1 with LLM: Symbolic–Neural Integration for Credible and Explainable Reasoning",
+          "title": "Delta1 with LLM: Symbolic\u2013Neural Integration for Credible and Explainable Reasoning",
           "hash": "1dfdf04ec74df9f1c4a6cde1651675e9",
           "vector": "emergent",
           "chain": "emergent-concepts",
@@ -5734,7 +5737,7 @@
         },
         {
           "arxiv_id": "2603.04948",
-          "title": "∇-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
+          "title": "\u2207-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
           "hash": "989d4c22ddd8a05da91e3ba5dc015628",
           "vector": "emergent",
           "chain": "emergent-concepts",
@@ -8698,9 +8701,48 @@
           "online_date": "2026-06-03",
           "run_number": 334,
           "margin": 0.0
+        },
+        {
+          "arxiv_id": "2606.24281",
+          "title": "CALIBER: Calibrating Confidence Before and After Reasoning in Language Models",
+          "hash": "2606.24281",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "calibration / reasoning efficiency",
+          "discovered": "2026-07-02T05:29:26.128866+00:00",
+          "slug": "caliber-calibrating-confidence-before-and-after-reasoning-in-language-models-2606.24281",
+          "online_date": "2026-06-23",
+          "run_number": 335,
+          "margin": 0.0
+        },
+        {
+          "arxiv_id": "2607.01071",
+          "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+          "hash": "2607.01071",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "agentic memory / safety-mechanisms",
+          "discovered": "2026-07-02T05:29:26.128866+00:00",
+          "slug": "memsyco-bench-benchmarking-sycophancy-in-agent-memory-2607.01071",
+          "online_date": "2026-07-01",
+          "run_number": 335,
+          "margin": 0.0
+        },
+        {
+          "arxiv_id": "2410.09097",
+          "title": "Recent advancements in LLM Red-Teaming: Techniques, Defenses, and Ethical Considerations",
+          "hash": "2410.09097",
+          "vector": "emergent_concept_search",
+          "chain": "emergent-concepts",
+          "theme": "red-teaming / safety taxonomy",
+          "discovered": "2026-07-02T05:29:26.128866+00:00",
+          "slug": "recent-advancements-in-llm-red-teaming-techniques-defenses-and-ethical-considerations-2410.09097",
+          "online_date": "2024-10-09",
+          "run_number": 335,
+          "margin": 0.0
         }
       ],
-      "last_run": "2026-07-01T21:33:57.787677+00:00",
+      "last_run": "2026-07-02T05:29:26.128866+00:00",
       "last_updated": "2026-07-01T14:30:00.000000+00:00",
       "last_result_timestamp": "2026-07-01T14:30:00+00:00",
       "last_run_key": "llm-wiki-explore",
@@ -10325,7 +10367,10 @@
     "linguistic-firewall-geometry-defense-multi-agent-systems-routing-2606.30555-2606.30555",
     "multi-bitwidth-quantization-llms-additive-codebooks-2606.12876",
     "the-mirage-of-optimizing-training-policies-2606.29526-2606.29526",
-    "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354"
+    "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354",
+    "2606.24281",
+    "2607.01071",
+    "2410.09097"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -11913,7 +11958,10 @@
       "linguistic-firewall-geometry-defense-multi-agent-systems-routing-2606.30555-2606.30555",
       "multi-bitwidth-quantization-llms-additive-codebooks-2606.12876",
       "the-mirage-of-optimizing-training-policies-2606.29526-2606.29526",
-      "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354"
+      "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354",
+      "2606.24281",
+      "2607.01071",
+      "2410.09097"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "2026-07-02 00:00 UTC",
@@ -11948,7 +11996,7 @@
         "slug": "discretizing-reward-models-2606.21795",
         "discovered_run": 59,
         "timestamp": "2026-06-26T06:54:00+00:00",
-        "source": "web_search escape hatch (rotated template — reasoning/control+safety+training-data+inference-eff axes)"
+        "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
       },
       {
         "arxiv_id": "2606.18967",
@@ -12057,7 +12105,7 @@
     ],
     "last_pass_type": "emergent-concept",
     "updated_at": "2026-06-29T12:30:00+00:00",
-    "last_run_framing": "Run 102 — INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 — FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
+    "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
     "last_run_added": 3,
     "last_explore": "2026-07-01T16:23:23+00:00",
     "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
@@ -12310,7 +12358,7 @@
     "2606.29961",
     "2604.13072"
   ],
-  "last_run_framing": "Run 102 — INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 — FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
+  "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
   "updated": "2026-07-01T22:18:28.187824+00:00",
   "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
   "last_run_added": 3
