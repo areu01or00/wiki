@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 323: HF-ONLY DISCOVERY: RepoRescue + Tokenizer Benchmark + VLA Knowledge Retention
+
+1. **[RepoRescue: An Empirical Study of LLM Agents on Whole-Repository Compatibility Rescue](https://arxiv.org/abs/2607.01213)** — Lin, Zhihao; Zhou, Mingyi; Sun, Zhensu + 4 — compatibility rescue as a distinct LLM-agent task: adapting old repositories to modern runtimes/dependencies rather than fixing bugs. **First whole-repository compatibility rescue benchmark in the wiki.**
+2. **[The Galaxy's Guide to the Tokenizer: A Benchmark for Scientific Foundation Models](https://arxiv.org/abs/2606.25610)** — Sanjaripour, Sogol; Smith, Michael J.; Pérez-Carrasco, Manuel + 3 — controlled benchmark isolating tokenizer choice (Affine/AIM/JetFormer/VQ-VAE) as a determinant of scientific representation quality in astronomical imaging. **First tokenizer-comparison benchmark for scientific foundation models in the wiki.**
+3. **[Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](https://arxiv.org/abs/2606.19297)** — Kachaev, Nikita; Moskalenko, Andrey; Skripkin, Matvey + 10 — Act2Answer protocol distinguishes VLA knowledge gaps from control generalization failures; shows consistent knowledge degradation after robotics fine-tuning. **First VLA knowledge-retention diagnosis paper in the wiki.**
+
 ### 2026-07-02 — Run 322: DEEP-SUB-CLUSTER: FEDERATED CONFORMAL RAG / REWARD BIAS SUBSTITUTION / SYCOPHANCY DISENTANGLEMENT
 
 - [[anytime-valid-federated-conformal-rag-llm-swarms-2605.29139]] — [Anytime-Valid Federated Conformal RAG for LLM Swarms](https://arxiv.org/abs/2605.29139) — Dubey, Prasanjit; Huo, Xiaoming — anytime-valid extension of conformal prediction for federated LLM RAG, providing distribution-free coverage guarantees at any stopping time. **First anytime-valid conformal RAG for LLM swarms in the wiki.**
