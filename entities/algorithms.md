@@ -4117,6 +4117,11 @@
 
 
 ## Updates
+- **2026-07-02** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
+- **2026-07-02** | [What is an Algorithm: Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
+- **2026-07-02** | [Algorithms in Computer Science: A Complete Beginner Guide](https://medium.com/mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis) | kw: algorithms
+- **2026-07-02** | [Introduction to Algorithms | MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: algorithms
+
 - **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: wiki-watch
 - **2026-07-02** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026)
 - **2026-07-02** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829)

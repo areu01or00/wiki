@@ -31,6 +31,12 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional-programming
+- **2026-07-02** | [monads - GitHub Topics](https://github.com/topics/monads) | kw: functional-programming
+- **2026-07-02** | [Haskell Team PM 2026: Functional Type-Safe Monads](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: functional-programming
+- **2026-07-02** | [Getting started with Haskell - Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell) | kw: functional-programming
+- **2026-07-02** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional-programming
+
 - **2026-07-02** | [What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: wiki-watch
 - **2026-07-02** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/)
 - **2026-07-02** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/)

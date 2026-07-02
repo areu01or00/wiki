@@ -3619,6 +3619,12 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system-design
+- **2026-07-02** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: system-design
+- **2026-07-02** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: system-design
+- **2026-07-02** | [SYSTEM Synonyms: 90 Similar Words - Merriam-Webster](https://www.merriam-webster.com/thesaurus/system) | kw: system-design
+- **2026-07-02** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: system-design
+
 - **2026-07-02** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: wiki-watch
 - **2026-07-02** | [Distributed Systems | Architecture Patterns GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns)
 

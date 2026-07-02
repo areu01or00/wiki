@@ -33,6 +33,12 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: compilers
+- **2026-07-02** | [Compilers and Modern Language Runtimes](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: compilers
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: compilers
+- **2026-07-02** | [compiler-course-2026 BuildingAJIT1 tutorial](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+
 - **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 - **2026-07-02** | [3. Building a JIT: Per-function Lazy... LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html)
 - **2026-07-02** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit)

@@ -41,6 +41,11 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type-systems
+- **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-07-02** | [Static vs Dynamic Typing: The Ultimate Guide to Type Systems](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
+- **2026-07-02** | [Static Analysis Mypy: Strict Typing Configurations 2026](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: type-systems
+
 - **2026-07-02** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: wiki-watch
 - **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix)
 - **2026-07-02** | [Static vs Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/)
