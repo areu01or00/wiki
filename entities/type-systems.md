@@ -41,6 +41,12 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon
+
+- **2026-07-02** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What
+
+- **2026-07-02** | [Local Contextual Type Inference | Proceedings of the ACM on ...](https://dl.acm.org/doi/10.1145/3776653) | kw: Local
+
 - **2026-07-02** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing/) | kw: Static
 - **2026-07-02** | [Top 5 Programming Languages Dominating 2026 - DEV Community](https://dev.to/md8_habibullah/top-5-programming-languages-dominating-2026-1e6f) | kw: Top
 - **2026-07-02** | [Future of high-level languages : r/ProgrammingLanguages - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/12x46f5/future_of_highlevel_languages/) | kw: Future

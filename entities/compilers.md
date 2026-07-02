@@ -33,6 +33,22 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM
+
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The
+
+- **2026-07-02** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A
+
+- **2026-07-02** | [2017 LLVM Developers' Meeting: M. Zolotukhin "LLVM Compile-Time..."](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: 2017
+
+- **2026-07-02** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures
+
+- **2026-07-02** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
+
+- **2026-07-02** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A
+
+- **2026-07-02** | [In this article, we will compile the LLVM IR into object code.](https://iq.opengenus.org/compiling-to-object-code/) | kw: In
+
 - **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project - LLVM Dev Mtg 2026](https://llvm.org/devmtg/2026-04/) | kw: LLVM
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project - LLVM Dev Mtg 2026-01](https://llvm.org/devmtg/2026-01/) | kw: LLVM

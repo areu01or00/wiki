@@ -3619,6 +3619,22 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If
+
+- **2026-07-02** | [Background Jobs and Queues: 2026 Engineering Reference](https://www.digitalapplied.com/blog/background-job-queue-patterns-2026-engineering-reference) | kw: Background
+
+- **2026-07-02** | [Integration Patterns 2026: Query Patterns (Consistency vs...)](https://alok-mishra.com/2026/01/20/integration-patterns-2026-query-patterns/) | kw: Integration
+
+- **2026-07-02** | [Multi-Agent Orchestration Patterns: Building Production Systems in...](https://www.frankx.ai/blog/multi-agent-orchestration-patterns-2026) | kw: Multi
+
+- **2026-07-02** | [Notification Fanout Architecture — exashard](https://exashard.com/posts/notification-fanout-architecture/) | kw: Notification
+
+- **2026-07-02** | [Prompt Engineering for Developers: 5 Production Patterns That Work...](https://www.groovyweb.co/blog/prompt-engineering-for-developers-production-patterns-2026) | kw: Prompt
+
+- **2026-07-02** | [Interface Architecture and Design System Engineering](https://zemgraphics.com/) | kw: Interface
+
+- **2026-07-02** | [A pattern language for microservices](https://microservices.io/patterns/index.html) | kw: A
+
 - **2026-07-02** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three
 - **2026-07-02** | [50 System Design Patterns Every Engineer Should Know in 90 ...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50
 - **2026-07-02** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: Complete
