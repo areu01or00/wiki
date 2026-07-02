@@ -3619,6 +3619,17 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: web-search
+- **2026-07-02** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: web-search
+- **2026-07-02** | [System | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/system) | kw: web-search
+- **2026-07-02** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: web-search
+- **2026-07-02** | [System configuration tools in Windows | Microsoft Support](https://support.microsoft.com/en-US/Windows/Experience/system-configuration-tools-in-windows) | kw: web-search
+- **2026-07-02** | [Systeme.io - The only tool you need to launch your online ...](https://systeme.io/) | kw: web-search
+- **2026-07-02** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: web-search
+- **2026-07-02** | [What does System mean? - Definitions.net](https://www.definitions.net/definition/System) | kw: web-search
+- **2026-07-02** | [5 System Information Tools in Windows 11](https://www.thewindowsclub.com/system-information-tool-msinfo32) | kw: web-search
+- **2026-07-02** | [SYSTEM | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/system) | kw: web-search
+
 - **2026-07-02** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three
 - **2026-07-02** | [I Designed 25 Distributed Systems in 25 Days. Here is the One Hidden Pattern I Found](https://medium.com/@cachecowboy/i-designed-25-distributed-systems-in-25-days-here-is-the-one-hidden-pattern-i-found-8db2608cd904) | kw: I
 - **2026-07-02** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The

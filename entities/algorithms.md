@@ -4117,6 +4117,16 @@
 
 
 ## Updates
+- **2026-07-02** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: web-search
+- **2026-07-02** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ... - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: web-search
+- **2026-07-02** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: web-search
+- **2026-07-02** | [Namaste DSA Sheet | To Crack FAANG & PBC's Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: web-search
+- **2026-07-02** | [2026 DSA Master Cheat Sheet for Coding Interviews - LinkedIn](https://www.linkedin.com/posts/veerendra-manvi_dsa-datastructures-algorithms-activity-7476243600125882368-Kr9Z) | kw: web-search
+- **2026-07-02** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: web-search
+- **2026-07-02** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: web-search
+- **2026-07-02** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide) | kw: web-search
+- **2026-07-02** | [Top 21 Data Structure & Algorithms Questions to Ace DSA Interview in 2026?](https://skillcureacademy.com/blogs/top-dsa-interview-questions-2026/) | kw: web-search
+
 - **2026-07-02** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most
 - **2026-07-02** | [How to crack any coding interview in 2026 using the reverse ...](https://medium.com/@fahimulhaq/how-to-crack-any-coding-interview-using-the-reverse-thinking-method-a03f6a5e7e3e) | kw: How
 - **2026-07-02** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: Rethinking

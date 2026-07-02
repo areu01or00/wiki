@@ -41,6 +41,12 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: web-search
+- **2026-07-02** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: web-search
+- **2026-07-02** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: web-search
+- **2026-07-02** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing/) | kw: web-search
+- **2026-07-02** | [Statically Typed vs Dynamically Typed Languages - Medium](https://medium.com/towardsdev/statically-typed-vs-dynamically-typed-languages-a-comprehensive-deep-dive-e30c09ec4439) | kw: web-search
+
 - **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating
 - **2026-07-02** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static
 - **2026-07-02** | [Static Analysis Mypy: Strict Typing Configurations 2026 | Johal AI Hub](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: Static

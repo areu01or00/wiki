@@ -33,6 +33,17 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: web-search
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: web-search
+- **2026-07-02** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: web-search
+- **2026-07-02** | [2026 EuroLLVM Developers' Meeting](https://llvm.org/devmtg/2026-04/) | kw: web-search
+- **2026-07-02** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure) | kw: web-search
+- **2026-07-02** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html) | kw: web-search
+- **2026-07-02** | [JIT Design and Implementation - Julia Documentation](https://docs.julialang.org/en/v1/devdocs/jit/) | kw: web-search
+- **2026-07-02** | [Validating JIT Compilers via Compilation Space Exploration](https://dl.acm.org/doi/full/10.1145/3715102) | kw: web-search
+- **2026-07-02** | [Easy::jit: A just-in-time compiler for C++ - GitHub](https://github.com/jmmartinez/easy-just-in-time) | kw: web-search
+- **2026-07-02** | [Unmasking the World of LLVM IR Based JIT Execution](https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/) | kw: web-search
+
 - **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: The
 - **2026-07-02** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT
