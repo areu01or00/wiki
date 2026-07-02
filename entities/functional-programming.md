@@ -31,6 +31,14 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional-programming
+- **2026-07-02** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional-programming
+- **2026-07-02** | [7 Best Free Haskell Courses for 2026 — Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: functional-programming
+- **2026-07-02** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: functional-programming
+- **2026-07-02** | [functional programming - Why are side-effects modeled as monads...](https://stackoverflow.com/questions/2488646/why-are-side-effects-modeled-as-monads-in-haskell) | kw: functional-programming
+- **2026-07-02** | [Functional programming concepts, examples, algorithms and ideas.](https://caiorss.github.io/Functional-Programming/haskell/Functional_Programming_Concepts.html) | kw: functional-programming
+- **2026-07-02** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: functional-programming
+
 - **2026-07-02** | [Haskell Team PM 2026 | Functional Type-Safe Monads | GitScrum](https://gitscrum.com/en/solutions/verticals/haskell-teams) | kw: functional-programming
 - **2026-07-02** | [haskell - What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: functional-programming
 - **2026-07-02** | [Monads in Haskell, explained without the jargon (2026)](https://coldwa.st/e/blog/2026-06-14-haskell-monads.html) | kw: functional-programming

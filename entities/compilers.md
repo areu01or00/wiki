@@ -33,6 +33,16 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
+- **2026-07-02** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ... - GitHub](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-01/) | kw: compilers
+- **2026-07-02** | [Building a JIT: Starting out with KaleidoscopeJIT - LLVM](https://llvm.org/docs/tutorial/BuildingAJIT1.html) | kw: compilers
+- **2026-07-02** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst at ... - GitHub](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compilers
+- **2026-07-02** | [Just-In-Time (JIT) Compiler with LLVM - Create Your Own Programming ...](https://createlang.rs/01_calculator/jit_intro.html) | kw: compilers
+- **2026-07-02** | [Python JIT compiler project under threat after steering council says ...](https://www.theregister.com/devops/2026/06/08/python-jit-compiler-may-be-removed/5252079) | kw: compilers
+- **2026-07-02** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: compilers
+- **2026-07-02** | [LLVM Implementation for Java JIT Compilers: A Deep Dive](https://thamizhelango.medium.com/llvm-implementation-for-java-jit-compilers-a-deep-dive-2141f25f35ec) | kw: compilers
+
 - **2026-07-02** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: compilers
 - **2026-07-02** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: compilers
 - **2026-07-02** | [GitHub - debo-31/JIT-LLVM: Just-In-Time compilation is a method to...](https://github.com/debo-31/JIT-LLVM) | kw: compilers

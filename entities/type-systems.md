@@ -41,6 +41,10 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: type-systems
+- **2026-07-02** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://2026.programming-conference.org/details/programming-2026-papers/7/Efficient-Selection-of-Type-Annotations-for-Performance-Improvement-in-Gradual-Typing) | kw: type-systems
+- **2026-07-02** | [Elixir's Gradual Type System (1.17–1.20): How the Compiler Finally ...](https://gabrielortuno.substack.com/p/elixirs-gradual-type-system-117120) | kw: type-systems
+
 - **2026-07-02** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type-systems
 - **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-07-02** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems

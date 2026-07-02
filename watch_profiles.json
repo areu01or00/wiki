@@ -125,9 +125,20 @@
         "Engineering",
         "Developers",
         "That",
-        "Work"
+        "Work",
+        "Query",
+        "Centralized",
+        "GeeksforGeeks",
+        "Decentralized",
+        "Consistency",
+        "Distributed",
+        "Integration"
       ],
       "last_result_hashes": [
+        "82601ad43b0fe127ccdd116d7f69071f",
+        "9ef09709545d432e2dc99e2cf360fbe8",
+        "296232a484ebb0a2303e19fa650f6b06",
+        "81698e4cb907a3ce79c9ffd387bd1f0a",
         "20c9af03d5ba04de769b9c8d55fbf657",
         "4384e21ab04f94bd31ae778eb8a02f5a",
         "c3ab1edafa7d6d5c088f9e2f5ebc8003",
@@ -143,15 +154,19 @@
         "7e7fcdad236f0dfe6f3f57c0cc5fc3d2",
         "1885661cefe9c39654b0f1458625c8e0",
         "a4f767c8d886ec8f2fab1999efc97283",
-        "be6431b62c4b712f6f0fa4fe7d011e37",
-        "4c14e58d528ed9c64454f1c0df41e64a",
-        "3bcfeb45124d86f7dcf9756f255a389d",
-        "2baf71dbca0480fe91118f7db9610202",
-        "169277342a0b583e1f897013fb3ec1d5"
+        "be6431b62c4b712f6f0fa4fe7d011e37"
       ],
-      "last_run": "2026-07-02T04:05:50.624152+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 2
+      "last_run": "2026-07-02T04:20:22.766704+00:00",
+      "new_sub_topics_this_run": [
+        "Query",
+        "Centralized",
+        "GeeksforGeeks",
+        "Decentralized",
+        "Consistency",
+        "Distributed",
+        "Integration"
+      ],
+      "last_new_count": 4
     },
     "compilers": {
       "query": "compilers LLVM JIT compilation 2026",
@@ -280,9 +295,28 @@
         "weekly",
         "newsletter",
         "covering",
-        "developments"
+        "developments",
+        "Your",
+        "council",
+        "KaleidoscopeJIT",
+        "Dive",
+        "Project",
+        "Infrastructure",
+        "Runtimes",
+        "Language",
+        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1",
+        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3"
       ],
       "last_result_hashes": [
+        "b7d3464c157a4d7b6a9b324450e9451c",
+        "abb2652aa71466accd2990a041e3a4e7",
+        "88cc964a32a15635341d81f11a8aa1db",
+        "272052674db344025c77fa7d56b06ed6",
+        "0e8a0226b69abb703b30693fb544a14d",
+        "3d4b74ce59781d7b09a8dce4e68d1434",
+        "d6d43ca49fde7475642a230422ef95ce",
+        "5cefefefe6afc297697ed1187181b6a1",
+        "f14226d60d35bdf464d7dc54cd2027ed",
         "ca9ade675eecf6183c340d40af57c779",
         "cd317287f340ce184cace786603ffa1a",
         "4a875ba6c9df4a6d863a675c9bbe1244",
@@ -293,19 +327,21 @@
         "3e55c4c90d16a997330ccaaeda6e762e",
         "4228061e1750c0bbe9a9dff8e3c37f9b",
         "f1925c0af6e39aa520ffa6a282ede525",
-        "87583f379c841c4b0cda606e4d51f416",
-        "175deaafbda70b844243760536c5ec9d",
-        "2e36db34c1a584712cd6f35f63aa33ba",
-        "6a66cbf1dd452e004a7ce7639fa0ddf9",
-        "34c166634f13431feef39c0866dcf8e7",
-        "7105bfcc3e636b79fcbb54c88c94f1b8",
-        "266dbbfd9257fa64c8462f66ef2e902c",
-        "6cfd3bf8197543310bb62b859ab44b2f",
-        "fa245584d41c964b09194de5b11ad824",
-        "dc3f9e9c8ab79b25fd7c215d116fd33e"
+        "87583f379c841c4b0cda606e4d51f416"
       ],
-      "last_run": "2026-07-02T04:05:50.624152+00:00",
-      "new_sub_topics_this_run": [],
+      "last_run": "2026-07-02T04:20:22.766704+00:00",
+      "new_sub_topics_this_run": [
+        "Your",
+        "council",
+        "KaleidoscopeJIT",
+        "Dive",
+        "Project",
+        "Infrastructure",
+        "Runtimes",
+        "Language",
+        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1",
+        "compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3"
+      ],
       "last_new_count": 9
     },
     "type-systems": {
@@ -428,9 +464,22 @@
         "Static",
         "Theory",
         "Abstracting",
-        "AGT"
+        "AGT",
+        "Selection",
+        "Efficient",
+        "Performance",
+        "Type",
+        "Elixir",
+        "System",
+        "Compiler",
+        "Finally",
+        "Annotations",
+        "Improvement"
       ],
       "last_result_hashes": [
+        "55852131fabfce2db4a4694561d1aa46",
+        "c3606e016fa3c7725224e51c9fcd0964",
+        "30ca0230688267960b258d9c681d38ad",
         "29ff16a013639480476846321ab4599c",
         "f0a289d95b39737fb60d8c6d295f1db5",
         "686812076d5de90d1c2ef77d554beb01",
@@ -447,14 +496,22 @@
         "b177475a05631b06f73e531cf8aa0a39",
         "0f283757319d5365f9f3d2ac8e848912",
         "10a59e2ab5bcc4c0710cbe6131b13188",
-        "fc735fa9ff4c8d2d83888648a67a3892",
-        "2817e8378b277cd3cfe64b421e8bd932",
-        "f29f9119e0a37d3fd9535faaea1cea50",
-        "445fff1e467d63454cdb890e62ba6898"
+        "fc735fa9ff4c8d2d83888648a67a3892"
       ],
-      "last_run": "2026-07-02T04:05:50.624152+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_run": "2026-07-02T04:20:22.766704+00:00",
+      "new_sub_topics_this_run": [
+        "Selection",
+        "Efficient",
+        "Performance",
+        "Type",
+        "Elixir",
+        "System",
+        "Compiler",
+        "Finally",
+        "Annotations",
+        "Improvement"
+      ],
+      "last_new_count": 3
     },
     "functional-programming": {
       "query": "functional programming monads haskell rust 2026",
@@ -517,7 +574,7 @@
         "without",
         "Borrowing",
         "Bring",
-        "The Practical Value of Functional Programming \u2014 Monad, Functor, Pure ...",
+        "The Practical Value of Functional Programming — Monad, Functor, Pure ...",
         "Monads Explained Without",
         "Laws",
         "lines",
@@ -573,9 +630,26 @@
         "Concurrent",
         "Ada",
         "Beat",
-        "Elixir"
+        "Elixir",
+        "Monads",
+        "ideas",
+        "Free",
+        "side-effects",
+        "modeled",
+        "algorithms",
+        "Best",
+        "Functional",
+        "examples",
+        "What"
       ],
       "last_result_hashes": [
+        "ab1a401478bf91151df62818473f5ef5",
+        "cc9f3837164b6e0e6edde576a14a1c3f",
+        "612263630e8df09275c9c2dc58bb6981",
+        "480d402e9012f947099ff628259136e0",
+        "2232b0169df17706ce45aa3e4bdbd2ce",
+        "4f2fed46dc5ff0e84a8f9470186db717",
+        "4785f257c28540b037a1cab665f2ef51",
         "dd25820f790098fdc7dc382c38902ef4",
         "df332d266a9393afd65af20ab5899d2a",
         "93f73097d592fc6a2fe0abda2019b299",
@@ -588,18 +662,22 @@
         "bab6dc04368dc487cd403e3a93312b56",
         "fd7245a507ee42d32b983d418fd66dfc",
         "dbce4e6cdd1ef898baaf1e4d0f4b78a3",
-        "8229635d8f380180c52db6c50609ea3f",
-        "d41c8db6a25e3b0e29a3bf10cb5c7ec2",
-        "5b1f608b6d47d4cb85ce9668b73b253b",
-        "3dab99b5330ccd20db91a26c202fbc1e",
-        "269341708d555d5819da5ef32f81a574",
-        "ea88e7791ba77ef858bb935fcb22db5c",
-        "63a68c2b7252fb21470c8ffd8fbffe00",
-        "0c082ec34d87f915fa337ac2f8540872"
+        "8229635d8f380180c52db6c50609ea3f"
       ],
-      "last_run": "2026-07-02T04:05:50.624152+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 4
+      "last_run": "2026-07-02T04:20:22.766704+00:00",
+      "new_sub_topics_this_run": [
+        "Monads",
+        "ideas",
+        "Free",
+        "side-effects",
+        "modeled",
+        "algorithms",
+        "Best",
+        "Functional",
+        "examples",
+        "What"
+      ],
+      "last_new_count": 7
     },
     "algorithms": {
       "query": "algorithms data structures LeetCode interview 2026",
@@ -645,14 +723,14 @@
         "programming",
         "coding",
         "wikipedia",
-        "LeetCode Isn't Dead in 2026 \u2014 But It's No Longer Enough",
+        "LeetCode Isn't Dead in 2026 — But It's No Longer Enough",
         "word",
         "sedgewick",
         "topics",
         "Datastructures",
         "wayne",
         "prepare",
-        "datastructures-algorithms \u00b7 GitHub Topics \u00b7 GitHub",
+        "datastructures-algorithms · GitHub Topics · GitHub",
         "data-structures",
         "algorithm",
         "grind",
@@ -680,7 +758,7 @@
         "theory",
         "dynamic-programming",
         "Data Structures/Algorithms to go over the day of the test",
-        "data-structures \u00b7 GitHub Topics \u00b7 GitHub",
+        "data-structures · GitHub Topics · GitHub",
         "Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)",
         "How to Pass Leetcode Interviews: The Ritual That Works",
         "ashishps1",
@@ -751,9 +829,9 @@
         "a857c814273e0c7625339c1a17718eac",
         "6137240175e41cb755c082218ed8a641"
       ],
-      "last_run": "2026-07-02T04:05:50.624152+00:00",
+      "last_run": "2026-07-02T04:20:22.766704+00:00",
       "new_sub_topics_this_run": [],
-      "last_new_count": 6
+      "last_new_count": 0
     },
     "python-internals": {
       "query": "Python internals GIL memory management 2026",
@@ -878,9 +956,29 @@
         "Workarounds",
         "w3resource",
         "Deep",
-        "Dive"
+        "Dive",
+        "Tutorial",
+        "Tutorials",
+        "Welcome",
+        "Package",
+        "Codecademy",
+        "W3Schools",
+        "Best",
+        "PY4E",
+        "Everybody",
+        "Editor"
       ],
       "last_result_hashes": [
+        "bc46e2bcc23714c5243a5210b1d2f5ae",
+        "dd98088bd44f163005b52f39b2756953",
+        "a6c58176fc7c15d04c6965b77938f5ae",
+        "8eda8fd96ab2be56921cba54f0d1777a",
+        "69a9d904c88077426001079498f97d6a",
+        "eb0b3ec801d1a3e533436e346922f4e5",
+        "83c76331b8d186cc5d695017f50eb5fb",
+        "1f8e2c92ae5ada27a41135077afa335d",
+        "8c9ba4cb5a5e5722f9c0bc68313672d7",
+        "1d2c3f7c79b6739381eda440cbb16a95",
         "bbb596c3441904fed7dc7fa5f00eeb00",
         "7b5a68c5d3748b14bdba97a0ef22a06e",
         "a454e6bd90dd4ae1795224af7e27c1bb",
@@ -890,21 +988,22 @@
         "4267214a3e558c4d98d146f1beba3d51",
         "bffce401539ef96e10f4298db9919bae",
         "3b1304fe2d4ed4e74046663c3b0c64e8",
-        "229a6737901270fcad52302d4162597f",
-        "87467f746a936c763396e34488251465",
-        "d5e5543997956979736472fec0d56604",
-        "ead183515ad9a6b7505956a8e693a7ae",
-        "17f40f751da9a1c9558ca7dbf958ae7e",
-        "512c4ece61be1a4d213313b0fbe6ac1d",
-        "31912f4f2a01f7fc06fde7494494d26e",
-        "3f53aaddb3c9ccc1340c0fbf20196bee",
-        "c644c61774b53593b05d98f55951400a",
-        "3977a42e266cba0d9724f6994662a434",
-        "5d720d29ca8c62a4b504bc6f3f753b90"
+        "229a6737901270fcad52302d4162597f"
       ],
-      "last_run": "2026-07-02T04:05:50.624152+00:00",
-      "new_sub_topics_this_run": [],
-      "last_new_count": 1
+      "last_run": "2026-07-02T04:20:22.766704+00:00",
+      "new_sub_topics_this_run": [
+        "Tutorial",
+        "Tutorials",
+        "Welcome",
+        "Package",
+        "Codecademy",
+        "W3Schools",
+        "Best",
+        "PY4E",
+        "Everybody",
+        "Editor"
+      ],
+      "last_new_count": 10
     },
     "llm-wiki-explore": {
       "last_result_hashes": [
@@ -3548,7 +3647,7 @@
           "slug": "swe-marathon-can-agents-autonomously-complete-ultra-long-horizon-software-work-2606.07682",
           "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "ultra-long-horizon-benchmark-protocol \u2014 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
+          "theme": "ultra-long-horizon-benchmark-protocol — 4+ hour / 1M+ token tasks calibrated against state-of-the-art SE agent baseline (pivot from Run 37-38 eval + Run 39 post-training/memory/safety + Run 40 operational-infrastructure)",
           "hash": "7ab36c943c7ed17c0f69721152af09fe"
         },
         {
@@ -3556,7 +3655,7 @@
           "slug": "agent-memory-characterization-and-system-implications-of-stateful-long-horizon-workloads-2606.06448",
           "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "systems-level memory characterization \u2014 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
+          "theme": "systems-level memory characterization — 4-axis taxonomy (storage/extraction/consolidation/control) + controlled workload experiments on cost/latency/recall/revision (distinct from framework-level survey Are-We-Ready)",
           "hash": "446988809068c935fed05a57aff202ec"
         },
         {
@@ -3564,7 +3663,7 @@
           "slug": "safety-paradox-how-enhanced-safety-awareness-leaves-llms-vulnerable-to-posterior-attack-2606.05614",
           "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
           "discovered": "2026-06-26T02:01:10+00:00",
-          "theme": "safety-awareness-as-vulnerability \u2014 single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
+          "theme": "safety-awareness-as-vulnerability — single-query jailbreak exploiting safety awareness as a side channel; >90% ASR across 30+ LLMs (distinct from Geometry-of-Refusal linear-instability and What-Intermediate-Layers-Know entropy-detection)",
           "hash": "57e85705a7bf5bf397116e1cd3ef9c15"
         },
         {
@@ -3773,7 +3872,7 @@
           "slug": "discretizing-reward-models-2606.21795",
           "discovered_run": 59,
           "timestamp": "2026-06-26T06:54:00+00:00",
-          "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
+          "source": "web_search escape hatch (rotated template — reasoning/control+safety+training-data+inference-eff axes)"
         },
         {
           "arxiv_id": "2606.18967",
@@ -4322,7 +4421,7 @@
         },
         {
           "arxiv_id": "2603.12953",
-          "title": "Delta1 with LLM: Symbolic\u2013Neural Integration for Credible and Explainable Reasoning",
+          "title": "Delta1 with LLM: Symbolic–Neural Integration for Credible and Explainable Reasoning",
           "hash": "1dfdf04ec74df9f1c4a6cde1651675e9",
           "vector": "emergent",
           "chain": "emergent-concepts",
@@ -5435,7 +5534,7 @@
         },
         {
           "arxiv_id": "2603.04948",
-          "title": "\u2207-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
+          "title": "∇-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
           "hash": "989d4c22ddd8a05da91e3ba5dc015628",
           "vector": "emergent",
           "chain": "emergent-concepts",
@@ -11538,7 +11637,7 @@
         "slug": "discretizing-reward-models-2606.21795",
         "discovered_run": 59,
         "timestamp": "2026-06-26T06:54:00+00:00",
-        "source": "web_search escape hatch (rotated template \u2014 reasoning/control+safety+training-data+inference-eff axes)"
+        "source": "web_search escape hatch (rotated template — reasoning/control+safety+training-data+inference-eff axes)"
       },
       {
         "arxiv_id": "2606.18967",
@@ -11647,7 +11746,7 @@
     ],
     "last_pass_type": "emergent-concept",
     "updated_at": "2026-06-29T12:30:00+00:00",
-    "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
+    "last_run_framing": "Run 102 — INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 — FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
     "last_run_added": 3,
     "last_explore": "2026-07-01T16:23:23+00:00",
     "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
@@ -11894,7 +11993,7 @@
       "run_number": 331
     }
   ],
-  "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
+  "last_run_framing": "Run 102 — INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 — FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
   "updated": "2026-07-01T22:18:28.187824+00:00",
   "last_run_method": "INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE (Rule 69) via arxiv search HTML 6-query escape hatch",
   "last_run_added": 3
