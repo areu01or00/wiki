@@ -18,6 +18,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-02 — Run 331: SPEEDUP PARADOX / BADGER AGENTIC BENCHMARK / TIMESAGE-MT MULTI-TURN REASONING
+
+1. **[The Speedup Paradox: Rethinking Inference Speed-Quality Trade-off in Embodied Tasks](https://arxiv.org/abs/2606.28529)** — Wang, Yujin; Chen, Junli; Li, Yixuan + 4 — systematic analysis of when lossy efficient-inference techniques (quantization, pruning) help vs. hurt embodied agent tasks where per-step degradation compounds across trajectories. **First speedup-paradox analysis for embodied LLM agents in the wiki.**
+
+2. **[BADGER: Bridging Agentic and Deterministic Evaluation for Generative Enterprise Reasoning](https://arxiv.org/abs/2606.02109)** — Serrao, Shannon; Chatterjee, Soumitra; Strori, Dorina + 2 — unified benchmark jointly stressing archive-groundedness, agentic exploration, and deterministic SQL execution accuracy for enterprise LLM reasoning pipelines. **First enterprise-agentic-reasoning benchmark in the wiki.**
+
+3. **[TimeSage-MT: A Multi-Turn Benchmark for Evaluating Agentic Time Series Reasoning](https://arxiv.org/abs/2606.01498)** — Kong, Yaxuan; Yao, Qingren; Nie, Yuqi + 7 — 240 tasks, 2,680 dialogue turns spanning 8 real-world domains for multi-turn agentic time series reasoning. **First multi-turn agentic time series reasoning benchmark in the wiki.**
+
 ### 2026-07-02 — Run 330: ADAPTIVE TOKEN BUDGETING / COLLABORATIVE REASONING / UNCERTAINTY-MINIMISATION INFERENCE
 
 1. **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](https://arxiv.org/abs/2505.11274)** — Li, Zheng; Dong, Qingxiu; Ma, Jingyuan + 3 — trains LLMs to self-estimate required reasoning budget based on query difficulty, achieving adaptive token efficiency without sacrificing quality. **First self-budgeting primitive for LLM token allocation in the wiki.**

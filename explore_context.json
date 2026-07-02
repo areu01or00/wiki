@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-02T14:35:00.000000+00:00",
-  "__last_updated": "2026-07-02T03:00:03.805791+00:00",
-  "last_run": 330,
+  "updated": "2026-07-02T16:00:00.000000+00:00",
+  "__last_updated": "2026-07-02T16:00:00.000000+00:00",
+  "last_run": 331,
   "last_explore": "2026-07-02T03:15:02.941262+00:00",
   "last_global_explore": "2026-07-02T03:15:02.941294+00:00",
-  "last_discovery": "HF daily + web_search: Reward Hacking Activation Monitoring / Structured Context Eviction / Anisotropy-Controllable Embedding",
-  "last_run_framing": "DEEP-SUB-CLUSTER: adaptive token budgeting + collaborative reasoning + uncertainty-minimisation (inference-efficiency axis)",
-  "last_framing": "Rule 36c DEEP-SUB-CLUSTER: reward-hacking activation monitoring (safety-mechanisms sub-axis) + structured context eviction via typed episodes and dependency graphs (context-management sub-axis) + anisotropy-controllable embedding via dispersion regularization (representation-geometry sub-axis)",
-  "last_run_notes": "Run 328: 2606.06223, 2606.11213, 2605.29322",
+  "last_discovery": "HF daily thin + web_search 3-query: Speedup Paradox / BADGER / TimeSage-MT",
+  "last_run_framing": "HF daily thin (10 papers) \u2192 web_search primary \u2192 3 orthogonal picks (inference paradox / agentic benchmark / multi-turn reasoning)",
+  "last_framing": "DEEP-SUB-CLUSTER fallback (untried pool exhausted): inference-efficiency-paradox (embodied speedup) + agentic-enterprise-benchmark + multi-turn-time-series-reasoning",
+  "last_run_notes": "Run 331: 2606.28529, 2606.02109, 2606.01498",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 3 dates (96 papers) \u2192 10 fresh LLM candidates \u2192 Rule 15d escape hatch \u2192 web_search 4-query \u2192 8 fresh \u2192 3 structurally orthogonal picks (adaptive token budgeting + collaborative reasoning + uncertainty-minimisation inference)",
+  "last_run_method": "HF daily 5 dates (150 papers) \u2192 thin (Rule 15d escape hatch) \u2192 web_search 3-query \u2192 9 candidates \u2192 3 fresh orthogonal picks",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "reasoning-efficiency / safety-mechanisms / representation-geometry",
   "emergent_theme": "HF-only discovery (no web_search escape hatch needed)",
   "chains_updated": 0,
-  "entities_count": 1000,
+  "entities_count": 1006,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9571,6 +9571,39 @@
       "discovered": "2026-07-02T15:55:00+00:00",
       "theme": "inference-efficiency",
       "date": "2026-03-07"
+    },
+    {
+      "arxiv_id": "2606.28529",
+      "slug": "speedup-paradox-rethinking-inference-speed-quality-trade-off-in-embodied-tasks-2606.28529",
+      "title": "The Speedup Paradox: Rethinking Inference Speed-Quality Trade-off in Embodied Tasks",
+      "url": "https://arxiv.org/abs/2606.28529",
+      "vector": "emergent-concept-web_search",
+      "chain": "emergent-concepts",
+      "theme": "inference-efficiency-agent-eval-benchmarking",
+      "discovered": "2026-07-02T16:00:00+00:00",
+      "run_number": 331
+    },
+    {
+      "arxiv_id": "2606.02109",
+      "slug": "badger-bridging-agentic-and-deterministic-evaluation-for-generative-enterprise-reasoning-2606.02109",
+      "title": "BADGER: Bridging Agentic and Deterministic Evaluation for Generative Enterprise Reasoning",
+      "url": "https://arxiv.org/abs/2606.02109",
+      "vector": "emergent-concept-web_search",
+      "chain": "emergent-concepts",
+      "theme": "inference-efficiency-agent-eval-benchmarking",
+      "discovered": "2026-07-02T16:00:00+00:00",
+      "run_number": 331
+    },
+    {
+      "arxiv_id": "2606.01498",
+      "slug": "timesage-mt-a-multi-turn-benchmark-for-evaluating-agentic-time-series-reasoning-2606.01498",
+      "title": "TimeSage-MT: A Multi-Turn Benchmark for Evaluating Agentic Time Series Reasoning",
+      "url": "https://arxiv.org/abs/2606.01498",
+      "vector": "emergent-concept-web_search",
+      "chain": "emergent-concepts",
+      "theme": "inference-efficiency-agent-eval-benchmarking",
+      "discovered": "2026-07-02T16:00:00+00:00",
+      "run_number": 331
     }
   ],
   "emergent_discoveries": [
@@ -16883,6 +16916,30 @@
       "url": "https://arxiv.org/abs/2603.07159",
       "discovered": "2026-07-02T15:55:00+00:00",
       "theme": "inference-efficiency"
+    },
+    {
+      "arxiv_id": "2606.28529",
+      "title": "The Speedup Paradox: Rethinking Inference Speed-Quality Trade-off in Embodied Tasks",
+      "slug": "speedup-paradox-rethinking-inference-speed-quality-trade-off-in-embodied-tasks-2606.28529",
+      "url": "https://arxiv.org/abs/2606.28529",
+      "discovered": "2026-07-02T16:00:00+00:00",
+      "theme": "inference-efficiency-agent-eval-benchmarking"
+    },
+    {
+      "arxiv_id": "2606.02109",
+      "title": "BADGER: Bridging Agentic and Deterministic Evaluation for Generative Enterprise Reasoning",
+      "slug": "badger-bridging-agentic-and-deterministic-evaluation-for-generative-enterprise-reasoning-2606.02109",
+      "url": "https://arxiv.org/abs/2606.02109",
+      "discovered": "2026-07-02T16:00:00+00:00",
+      "theme": "inference-efficiency-agent-eval-benchmarking"
+    },
+    {
+      "arxiv_id": "2606.01498",
+      "title": "TimeSage-MT: A Multi-Turn Benchmark for Evaluating Agentic Time Series Reasoning",
+      "slug": "timesage-mt-a-multi-turn-benchmark-for-evaluating-agentic-time-series-reasoning-2606.01498",
+      "url": "https://arxiv.org/abs/2606.01498",
+      "discovered": "2026-07-02T16:00:00+00:00",
+      "theme": "inference-efficiency-agent-eval-benchmarking"
     }
   ],
   "emergent_concept_search_log": [
@@ -22105,6 +22162,18 @@
         "2603.07159"
       ],
       "method": "HF daily 3 dates (96 papers) \u2192 10 fresh LLM candidates \u2192 Rule 15d escape hatch \u2192 web_search 4-query \u2192 8 fresh \u2192 3 structurally orthogonal picks (adaptive token budgeting + collaborative reasoning + uncertainty-minimisation inference)",
+      "added": 3
+    },
+    {
+      "run": 331,
+      "date": "2026-07-02T16:00:00+00:00",
+      "theme": "inference-efficiency-agent-eval-benchmarking",
+      "picks": [
+        "2606.28529",
+        "2606.02109",
+        "2606.01498"
+      ],
+      "method": "HF daily thin \u2192 web_search primary \u2192 3 orthogonal picks",
       "added": 3
     }
   ],
