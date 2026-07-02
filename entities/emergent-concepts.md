@@ -18,6 +18,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-02 — Run 339: SELF-IMPROVEMENT PRIMITIVES — SYMBOLIC REFINEMENT / ENVIRONMENT-BUILDING RL / DOMAIN ARITHMETIC VLA
+
+1. **[Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework](https://arxiv.org/abs/2606.27757)** — Zhang, Jiajing; Jiang, Jiamei; Zhang, Chenyang + 3 — Symbolic external checkers verify plan feasibility at each step, enabling LLM to iteratively self-correct in long-horizon decision tasks without ground-truth supervision. **First symbolic-feedback-driven self-refinement for LLM planning in the wiki.**
+
+2. **[Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis](https://arxiv.org/abs/2605.14392)** — Shi, Yucheng; Liang, Zhenwen; Panaganti, Kishan + 3 — Reframes self-improvement from data-generation loop to environment-construction loop — model constructs reusable executable environments that sample instances, compute references, and score responses. Verifiable environment synthesis for zero-data reasoning RL. **First environment-construction self-improvement primitive in the wiki.**
+
+3. **[Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts](https://arxiv.org/abs/2607.00666)** — Kang, Taewook; Kim, Taeheon; Shin, Donghyun + 1 — Analogy-based one-shot VLA transfer across robots/camera poses without multi-demonstration training. Domain Arithmetic learns transferable domain-invariant representations. **First one-shot cross-robot VLA transfer via analogy/analogy-based domain adaptation in the wiki.**
+
 ### 2026-07-02 — Run 338: CAUSAL REPRESENTATION / CIRCUIT INTERPRETABILITY / TOKEN-STATE WORLD MODEL THEORY
 
 1. **[Discrete Causal Representations from Heterogeneous Domains: A Bayesian Approach with Social Survey Applications](https://arxiv.org/abs/2606.06288)** — Garg, Ankur; Stettler, Michael; Schein, Aaron + 1 — Bayesian framework for identifying discrete causal representations across heterogeneous data sources where measurement models vary across domains. Social survey applications where same latent attitudes are measured via different question formats. Demonstrates domain heterogeneity aids rather than hinders causal variable discovery. **First Bayesian CRL identification framework across heterogeneous measurement models in the wiki.**

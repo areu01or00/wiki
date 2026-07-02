@@ -9802,6 +9802,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-02T06:36:00.000000+00:00",
       "theme": "world models / LLM theory / token prediction as world model subset"
+    },
+    {
+      "arxiv_id": "2606.27757",
+      "slug": "symbolic-feedback-iterative-self-refinement-llm-planning-2606.27757",
+      "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+      "url": "https://arxiv.org/abs/2606.27757",
+      "vector": "self-improvement-planning-environment-synthesis",
+      "chain": "emergent-concept",
+      "discovered": "2026-07-02T07:15:00.000000+00:00"
+    },
+    {
+      "arxiv_id": "2605.14392",
+      "slug": "learning-to-build-the-environment-self-evolving-reasoning-rl-2605.14392",
+      "title": "Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis",
+      "url": "https://arxiv.org/abs/2605.14392",
+      "vector": "self-improvement-planning-environment-synthesis",
+      "chain": "emergent-concept",
+      "discovered": "2026-07-02T07:15:00.000000+00:00"
+    },
+    {
+      "arxiv_id": "2607.00666",
+      "slug": "domain-arithmetic-one-shot-vla-adaptation-under-environmental-shifts-2607.00666",
+      "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
+      "url": "https://arxiv.org/abs/2607.00666",
+      "vector": "self-improvement-planning-environment-synthesis",
+      "chain": "emergent-concept",
+      "discovered": "2026-07-02T07:15:00.000000+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -17282,6 +17309,30 @@
       "url": "https://arxiv.org/abs/2606.28127",
       "discovered": "2026-07-02T06:36:00.000000+00:00",
       "theme": "world models / LLM theory / token prediction as world model subset"
+    },
+    {
+      "arxiv_id": "2606.27757",
+      "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+      "slug": "symbolic-feedback-iterative-self-refinement-llm-planning-2606.27757",
+      "url": "https://arxiv.org/abs/2606.27757",
+      "discovered": "2026-07-02T07:15:00.000000+00:00",
+      "theme": "self-improvement primitives \u2014 symbolic refinement / environment-building RL / domain arithmetic VLA"
+    },
+    {
+      "arxiv_id": "2605.14392",
+      "title": "Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis",
+      "slug": "learning-to-build-the-environment-self-evolving-reasoning-rl-2605.14392",
+      "url": "https://arxiv.org/abs/2605.14392",
+      "discovered": "2026-07-02T07:15:00.000000+00:00",
+      "theme": "self-improvement primitives \u2014 symbolic refinement / environment-building RL / domain arithmetic VLA"
+    },
+    {
+      "arxiv_id": "2607.00666",
+      "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
+      "slug": "domain-arithmetic-one-shot-vla-adaptation-under-environmental-shifts-2607.00666",
+      "url": "https://arxiv.org/abs/2607.00666",
+      "discovered": "2026-07-02T07:15:00.000000+00:00",
+      "theme": "self-improvement primitives \u2014 symbolic refinement / environment-building RL / domain arithmetic VLA"
     }
   ],
   "emergent_concept_search_log": [
@@ -22588,6 +22639,18 @@
         "2606.28127"
       ],
       "method": "HF daily 5 dates (155 papers, 95 LLM-keyword) + web_search 3-query",
+      "added": 3
+    },
+    {
+      "run": 339,
+      "date": "2026-07-02T07:15:00.000000+00:00",
+      "theme": "self-improvement primitives \u2014 symbolic refinement / environment-building RL / domain arithmetic VLA",
+      "picks": [
+        "2606.27757",
+        "2605.14392",
+        "2607.00666"
+      ],
+      "method": "HF daily 3 dates (101 papers, 18 fresh) + web_search 4-query (self-improv/planning/UQ)",
       "added": 3
     }
   ],
