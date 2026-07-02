@@ -26,5 +26,5 @@ BioInsight is a multi-agent system that moves beyond static biomedical report ge
 
 ## Related Papers
 - [[remmd-realistic-multilingual-multi-image-agentic-verification-for-multimodal-misinformation-detection-2606.24112]] — Multi-agent verification via typed intermediate artifacts (parallel to BioInsight's typed evidence decomposition)
-- [[agentscope-a-heterogeneous-agent-infrastructure-for-multi-agent-simulation-2606.24933]] — Heterogeneous multi-agent infrastructure for simulation (sibling architecture primitive)
+- [[coffeebench-benchmarking-long-horizon-llm-agents-in-heterogeneous-multi-agent-economies-2606.16613]] — Benchmarking long-horizon LLM agents in heterogeneous multi-agent economies (multi-agent simulation infrastructure)
 - [[calvert-augmenting-agents-with-calibrated-verifier-telemetry-improves-action-and-learning-in-knowledge-intensive-tasks-2606.21777]] — Calibrated verifier telemetry for knowledge-intensive tasks (parallel evidence-verification primitive)

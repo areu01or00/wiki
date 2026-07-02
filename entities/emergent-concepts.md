@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 324: SCIENTIFIC-AI-AUTOMATION / TEST-TIME PREFERENCE REALIGNMENT / LONG-HORIZON AGENT EVALUATION
+
+1. **[BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery](https://arxiv.org/abs/2606.20997)** — Wang, Jieyi; Li, Bingxuan; Jiang, Nanyi + 9 — multi-agent biomedical discovery system that decomposes evidence retrieval from mechanistic reasoning, producing typed intermediate artifacts (ranked pathways, evidence packets, reasoning notes, interactive interfaces) from the same structured evidence. **First multi-agent biomedical discovery system with interactive provenance-preserving interface generation in the wiki.**
+2. **[REAR: Test-time Preference Realignment through Reward Decomposition](https://arxiv.org/abs/2606.30339)** — Zhang, Fuxiang; Wang, Pengcheng; Li, Chenran + 6 — decomposes reward into question-related and preference-related components for training-free test-time preference realignment; integrates with best-of-N and tree search TTS algorithms. **First reward-decomposition-based test-time preference realignment framework in the wiki.**
+3. **[CEO-Bench: Can Agents Play the Long Game?](https://arxiv.org/abs/2606.18543)** — Chen, Haozhe; Narasimhan, Karthik; Liu, Zhuang — 500-day startup simulation requiring sustained adaptive progress: analyzing noisy business databases, coordinating pricing/marketing/budgeting decisions, and adapting to a changing world. Only Claude Opus 4.8 and GPT-5.5 finish above the $1M starting balance. **First startup-simulation long-horizon agent benchmark in the wiki.**
+
 ### 2026-07-02 — Run 323: HF-ONLY DISCOVERY: RepoRescue + Tokenizer Benchmark + VLA Knowledge Retention
 
 1. **[RepoRescue: An Empirical Study of LLM Agents on Whole-Repository Compatibility Rescue](https://arxiv.org/abs/2607.01213)** — Lin, Zhihao; Zhou, Mingyi; Sun, Zhensu + 4 — compatibility rescue as a distinct LLM-agent task: adapting old repositories to modern runtimes/dependencies rather than fixing bugs. **First whole-repository compatibility rescue benchmark in the wiki.**
