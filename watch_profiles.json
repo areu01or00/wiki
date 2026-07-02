@@ -2781,7 +2781,10 @@
         "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354",
         "2606.24281",
         "2607.01071",
-        "2410.09097"
+        "2410.09097",
+        "2607.01218",
+        "2607.01191",
+        "2607.00678"
       ],
       "last_results": [
         {
@@ -8740,6 +8743,15 @@
           "online_date": "2024-10-09",
           "run_number": 335,
           "margin": 0.0
+        },
+        {
+          "arxiv_id": "2607.01218"
+        },
+        {
+          "arxiv_id": "2607.01191"
+        },
+        {
+          "arxiv_id": "2607.00678"
         }
       ],
       "last_run": "2026-07-02T05:29:26.128866+00:00",
@@ -10370,7 +10382,10 @@
     "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354",
     "2606.24281",
     "2607.01071",
-    "2410.09097"
+    "2410.09097",
+    "2607.01218",
+    "2607.01191",
+    "2607.00678"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -11961,7 +11976,10 @@
       "when-llms-develop-languages-symbolic-communication-efficient-multi-agent-reasoning-2606.29354-2606.29354",
       "2606.24281",
       "2607.01071",
-      "2410.09097"
+      "2410.09097",
+      "2607.01218",
+      "2607.01191",
+      "2607.00678"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "2026-07-02 00:00 UTC",
@@ -12356,7 +12374,16 @@
     "2606.31718",
     "2606.32029",
     "2606.29961",
-    "2604.13072"
+    "2604.13072",
+    {
+      "arxiv_id": "2607.01218"
+    },
+    {
+      "arxiv_id": "2607.01191"
+    },
+    {
+      "arxiv_id": "2607.00678"
+    }
   ],
   "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
   "updated": "2026-07-01T22:18:28.187824+00:00",

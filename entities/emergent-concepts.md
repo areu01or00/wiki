@@ -18,6 +18,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-02 — Run 336: STATE-PREDICTION DISENTANGLEMENT / PERCEPTION-REASONING DECOUPLING / MOBILE-MANIPULATION WAM
+
+1. **[The State-Prediction Separation Hypothesis](https://arxiv.org/abs/2607.01218)** — Monea, Giovanni; Godey, Nathan; Brantley, Kianté + 1 — Formulates and validates the hypothesis that disentangling a Transformer's dual roles (next-token prediction vs. state storage) into separate computation streams yields better data and compute efficiency. Improves validation loss and downstream task performance by 2-3 percentage points across scales. **First two-stream state-prediction-disentangled Transformer architecture in the wiki.**
+
+2. **[Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning](https://arxiv.org/abs/2607.01191)** — Li, Hongxing; Huang, Xiufeng; Li, Dingming + 11 — Two-stage framework: Perceiver module localizes question-relevant evidence in high-resolution images, then Reasoner answers based on cropped regions. PRA-GRPO alternates perception-focused and reasoning-focused updates via role-aware RL. P2R-4B achieves 93.2% on V-Star. **First perception-reasoning decoupled architecture for fine-grained VQA in the wiki.**
+
+3. **[ABot-M0.5: Unified Mobility-and-Manipulation World Action Model](https://arxiv.org/abs/2607.00678)** — Chen, Ronghan; Yang, Yandan; Tang, Zuojin + 18 — World Action Model addressing three mobile-manipulation misalignments: temporal granularity, action-space entanglement, and train-test inconsistency. Dual-level Mixture-of-Transformers with intermediate latent actions and dream-forcing training. State-of-the-art on long-horizon task success and fine-grained control accuracy. **First three-alignment-level WAM architecture for unified mobile manipulation in the wiki.**
+
 ### 2026-07-02 — Run 335: CALIBRATION / AGENTIC SAFETY / RED-TEAMING SURVEY
 
 1. **[MemSyco-Bench: Benchmarking Sycophancy in Agent Memory](https://arxiv.org/abs/2607.01071)** — Xiang, Zhishang; Chen, Zerui; Tang, Yunbo + 5 — First systematic benchmark for memory-induced sycophancy in LLM agents: retrieved memories amplify user biases and past errors, causing agents to over-align. 800+ test cases across 6 task types. **First memory-sycophancy failure mode benchmark in the wiki.**
