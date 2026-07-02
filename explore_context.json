@@ -3,23 +3,23 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T14:35:00.000000+00:00",
-  "__last_updated": "2026-07-02T14:50:00.000000+00:00",
-  "last_run": 325,
+  "__last_updated": "2026-07-02T03:00:03.805791+00:00",
+  "last_run": 327,
   "last_explore": "2026-07-02T02:32:22.124792+00:00",
   "last_global_explore": "2026-07-02T02:32:22.124816+00:00",
   "last_discovery": "web_search: Reward Hacking Monitoring + AVIS + RFT Failure Management",
-  "last_run_framing": "REWARD HACKING MONITORING / ADAPTIVE VLM TEST-TIME SCALING / AUTOMATIC RFT FAILURE MANAGEMENT",
-  "last_framing": "Rule 36c DEEP-SUB-CLUSTER: reward-hacking monitoring (safety-mechanisms) + adaptive VLM test-time scaling (TTE) + automatic RFT failure management (post-training)",
-  "last_run_notes": "Run 325: 2604.23488, 2606.11576, 2605.04431",
+  "last_run_framing": "LLM-AS-JUDGE TASK ASYMMETRY / ATTENTION PRUNING FAITHFULNESS / INTERNAL REPRESENTATION CONFORMAL PREDICTION",
+  "last_framing": "Rule 36c DEEP-SUB-CLUSTER: LLM-as-judge task asymmetry (evaluation methodology) + attention pruning faithfulness+calibration (model compression) + internal representation conformal prediction (calibration theory)",
+  "last_run_notes": "Run 327: 2606.28050, 2606.24970, 2604.16217",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 3 dates (91 papers) -> 38 fresh after 5-store dedup -> 7 LLM-keyword candidates -> web_search 3-query -> 3 structurally orthogonal picks (reward-hacking monitoring, adaptive VLM test-time scaling, automatic RFT failure management)",
+  "last_run_method": "HF daily 3 dates (92 papers) -> 9 fresh LLM candidates (all CV/3D-heavy) -> Rule 15d escape hatch -> web_search 3-query deep-sub-cluster (calibration theory + evaluation methodology + model compression) -> 6 fresh candidates -> 3 structurally orthogonal picks",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "reasoning-efficiency / safety-mechanisms / representation-geometry",
   "emergent_theme": "HF-only discovery (no web_search escape hatch needed)",
   "chains_updated": 0,
-  "entities_count": 988,
+  "entities_count": 991,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9457,6 +9457,33 @@
       "url": "https://arxiv.org/abs/2607.00446",
       "vector": "emergent-concept",
       "discovered": "2026-07-02T14:45:00.000000+00:00"
+    },
+    {
+      "arxiv_id": "2606.28050",
+      "slug": "can-llms-judge-better-than-they-generate-evaluating-task-asymmetry-mechanistic-i-2606.28050",
+      "title": "Can LLMs Judge Better Than They Generate? Evaluating Task Asymmetry, Mechanistic Interpretability and Transferability for In-Context QA",
+      "url": "https://arxiv.org/abs/2606.28050",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T03:00:03.805829+00:00",
+      "theme": "llm-as-judge / task-asymmetry / mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2606.24970",
+      "slug": "don-39-t-go-breaking-my-llm-the-impact-of-pruning-attention-layers-on-explanatio-2606.24970",
+      "title": "Don't Go Breaking My LLM: The Impact of Pruning Attention Layers on Explanation Faithfulness and Confidence Calibration",
+      "url": "https://arxiv.org/abs/2606.24970",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T03:00:03.805829+00:00",
+      "theme": "model-compression / pruning / calibration / faithfulness"
+    },
+    {
+      "arxiv_id": "2604.16217",
+      "slug": "beyond-surface-statistics-robust-conformal-prediction-for-llms-via-internal-repr-2604.16217",
+      "title": "Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations",
+      "url": "https://arxiv.org/abs/2604.16217",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T03:00:03.805829+00:00",
+      "theme": "calibration / conformal-prediction / internal-representations"
     }
   ],
   "emergent_discoveries": [
@@ -16673,6 +16700,30 @@
       "theme": "automatic-rft-failure-management",
       "run_number": 325,
       "rule": "Rule 36c DEEP-SUB-CLUSTER: automatic RFT failure management"
+    },
+    {
+      "arxiv_id": "2606.28050",
+      "title": "Can LLMs Judge Better Than They Generate? Evaluating Task Asymmetry, Mechanistic Interpretability and Transferability for In-Context QA",
+      "slug": "can-llms-judge-better-than-they-generate-evaluating-task-asymmetry-mechanistic-i-2606.28050",
+      "url": "https://arxiv.org/abs/2606.28050",
+      "discovered": "2026-07-02T03:00:03.805829+00:00",
+      "theme": "llm-as-judge / task-asymmetry / mechanistic-interpretability"
+    },
+    {
+      "arxiv_id": "2606.24970",
+      "title": "Don't Go Breaking My LLM: The Impact of Pruning Attention Layers on Explanation Faithfulness and Confidence Calibration",
+      "slug": "don-39-t-go-breaking-my-llm-the-impact-of-pruning-attention-layers-on-explanatio-2606.24970",
+      "url": "https://arxiv.org/abs/2606.24970",
+      "discovered": "2026-07-02T03:00:03.805829+00:00",
+      "theme": "model-compression / pruning / calibration / faithfulness"
+    },
+    {
+      "arxiv_id": "2604.16217",
+      "title": "Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations",
+      "slug": "beyond-surface-statistics-robust-conformal-prediction-for-llms-via-internal-repr-2604.16217",
+      "url": "https://arxiv.org/abs/2604.16217",
+      "discovered": "2026-07-02T03:00:03.805829+00:00",
+      "theme": "calibration / conformal-prediction / internal-representations"
     }
   ],
   "emergent_concept_search_log": [
@@ -21848,6 +21899,18 @@
       ],
       "method": "HF daily 3 dates -> emergent concept selection",
       "added": 3
+    },
+    {
+      "run": 327,
+      "date": "2026-07-02T03:00:03.805829+00:00",
+      "theme": "LLM-AS-JUDGE TASK ASYMMETRY / ATTENTION PRUNING FAITHFULNESS / INTERNAL REPRESENTATION CONFORMAL PREDICTION",
+      "picks": [
+        "2606.28050",
+        "2606.24970",
+        "2604.16217"
+      ],
+      "method": "HF daily 3 dates (92 papers) -> 9 fresh LLM candidates (CV/3D-heavy) -> Rule 15d escape hatch -> web_search 3-query -> 6 fresh candidates -> 3 structurally orthogonal picks",
+      "added": 3
     }
   ],
   "last_updated": "2026-07-02T01:06:37.289942+00:00",
@@ -21954,14 +22017,14 @@
     }
   ],
   "last_run_mode": "emergent-concept",
-  "last_run_summary": "Anisotropy Embedding Metric + Neuro-Symbolic SLM Reasoning + Sycophancy Misalignment Reversal",
-  "last_watched": "2026-07-02T13:30:00.000000+00:00",
+  "last_run_summary": "LLM-as-Judge Task Asymmetry / Attention Pruning Faithfulness / Internal Representation Conformal Prediction",
+  "last_watched": "2026-07-02T03:00:03.805826+00:00",
   "last_run_pitfalls": [],
   "last_run_theme": "INSTRUCTION-TUNING DATA SELECTION / LEGAL BENCHMARK GAP / TASK-SPECIFIC DISTILLATION SCALING",
-  "emergent_concept_papers_count": 875,
-  "emergent_discoveries_count": 888,
+  "emergent_concept_papers_count": 878,
+  "emergent_discoveries_count": 891,
   "last_run_picks_count": 3,
   "emergent_method": "HF daily 3 dates \u2192 thin LLM pool \u2192 arxiv HTML 4-query deep-sub-cluster",
-  "last_run_timestamp": "2026-07-02T13:30:00.000000+00:00",
+  "last_run_timestamp": "2026-07-02T03:00:03.805820+00:00",
   "emergent_discovery": "DEEP-SUB-CLUSTER: counterfactual credit assignment / adaptive rubric reward / reward hacking in agents"
 }
