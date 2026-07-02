@@ -33,6 +33,16 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: LLVM Compiler Infrastructure
+- **2026-07-02** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: llvm considered unsuitable
+- **2026-07-02** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: Minimal LLVM example
+- **2026-07-02** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize Compilation LLVM's
+- **2026-07-02** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures compilation: Part
+- **2026-07-02** | [LLVM | PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
+- **2026-07-02** | [A LLVM JIT Prototype for Running an Energy-Saving... | Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: LLVM Prototype Running
+- **2026-07-02** | [2017 LLVM Developers' Meeting: M. Zolotukhin "LLVM Compile-Time...](https://www.youtube.com/watch?v=bYHMwyyZ6Mk) | kw: 2017 LLVM Developers'
+- **2026-07-02** | [In this article, we will compile the LLVM IR into object code.](https://iq.opengenus.org/compiling-to-object-code/) | kw: article, will compile
+
 - **2026-07-02** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8, TurboFan ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project - April 2026 Dev Meeting](https://llvm.org/devmtg/2026-04/) | kw: compilers
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project - Jan 2026 Dev Meeting](https://llvm.org/devmtg/2026-01/) | kw: compilers

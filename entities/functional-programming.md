@@ -31,6 +31,17 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional (mathematics) Wikipedia
+- **2026-07-02** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: FUNCTIONAL Definition Meaning
+- **2026-07-02** | [FUNCTIONAL | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/functional) | kw: FUNCTIONAL English meaning
+- **2026-07-02** | [FUNCTIONAL Synonyms: 118 Similar and Opposite Words | Merriam ...](https://www.merriam-webster.com/thesaurus/functional) | kw: FUNCTIONAL Synonyms: Similar
+- **2026-07-02** | [Functional Now](https://www.functionalnow.com/) | kw: Functional
+- **2026-07-02** | [Functional Medicine Cincinnati, OH | Aligned Modern Health](https://alignedmodernhealth.com/locations/ohio/cincinnati-functional-medicine/) | kw: Functional Medicine Cincinnati,
+- **2026-07-02** | [Find a Practitioner | The Institute for Functional Medicine](https://www.ifm.org/find-a-practitioner) | kw: Find Practitioner Institute
+- **2026-07-02** | [FUNCTIONAL | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/dictionary/english/functional) | kw: FUNCTIONAL definition Cambridge
+- **2026-07-02** | [Functional - definition of Functional by The Free Dictionary](https://www.thefreedictionary.com/functional) | kw: Functional definition Functional
+- **2026-07-02** | [| The Institute for Functional Medicine](https://www.ifm.org/functional-medicine) | kw: Institute Functional Medicine
+
 - **2026-07-02** | [Monad (functional programming) — Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional programming
 - **2026-07-02** | [Rust: Functional Programming & Monads — Medium](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional programming
 - **2026-07-02** | [Monads and Monad-Like Patterns in Rust — Software Patterns Lexicon](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional programming
