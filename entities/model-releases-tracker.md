@@ -398,6 +398,12 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - **2026-07-01** | [DeepSeek DeepSpec: Full-Stack Speculative Decoding Training Codebase + DSpark](https://github.com/deepseek-ai/DeepSpec) | kw: BENCHMARK/PAPER | OFFICIAL ANNOUNCEMENT | open source | speculative decoding | MIT license | DSpark + Eagle3 algorithms | source: x_search
 - **2026-07-01** | [Google TabFM: Open-Weight Tabular Data Foundation Model](https://ai.google.dev/gemini-api/docs/changelog) | kw: WEIGHTS DROP | tabular data | open weights | Google DeepMind | source: x_search
 
+- **2026-07-02** | [Anthropic Newsroom](https://www.anthropic.com/news) | kw: | score: 5 | source: anthropic
+- **2026-07-02** | [OpenAI News - 2 days ago](https://openai.com/news/) | kw: | score: 5 | source: openai-releases
+- **2026-07-02** | [Agents-A1 released June 30 2026 under Apache-2.0](https://wpnews.pro/news/agents-a1-achieves-1t-model-performance-through-long-task-training-not-bigger) | kw: | score: 6 | source: internscience
+- **2026-07-02** | [Huawei openPangu 2.0 Launches Two Versions - June 30 2026](https://news.aibase.com/news/29268) | kw: | score: 5 | source: huawei
+- **2026-07-02** | [Huawei openPangu-2.0-Flash: 92B Total 6B Active MoE - June 30 2026](https://www.banandre.com/blog/huawei-openpangu-20-505b-moe-open-source-giant) | kw: | score: 5 | source: huawei
+
 ## Auto-Discovered Profiles
 
 | amalia-llm | AMALIA LLM | Portugal national LLM, open weights | [amalia-llm](https://huggingface.co/amalia-llm) | auto-discovered | c145 |
