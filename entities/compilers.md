@@ -33,6 +33,13 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: Just-in-time
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project - LLVM Dev Mtg 2026](https://llvm.org/devmtg/2026-04/) | kw: LLVM
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project - LLVM Dev Mtg 2026-01](https://llvm.org/devmtg/2026-01/) | kw: LLVM
+- **2026-07-02** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compiler-course-2026/llvm/docs
+- **2026-07-02** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT3.rst](https://github.com/4elodoy-Molovek/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT3.rst) | kw: compiler-course-2026/llvm/docs
+- **2026-07-02** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: OrcJIT
+
 - **2026-07-02** | [Compilers and Modern Language Runtimes — LLVM, JIT, GC, V8 ...](https://www.youngju.dev/blog/culture/2026-04-15-compiler-runtime-llvm-jit-gc-v8-turbofan-maglev-inline-caching-escape-analysis-rust-monomorphization-deep-dive-guide-2025.en) | kw: compilers
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/devmtg/2026-04/) | kw: compilers
 - **2026-07-02** | [compiler-course-2026/llvm/docs/tutorial/BuildingAJIT1.rst at ...](https://github.com/VALancaster/compiler-course-2026/blob/course-spring-2026/llvm/docs/tutorial/BuildingAJIT1.rst) | kw: compilers

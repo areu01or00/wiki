@@ -41,6 +41,13 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Static vs Dynamic Typing in 2026: A Practical Guide for Tech Leaders](https://www.unosquare.com/blog/finding-the-best-fit-between-dynamic-typing-vs-static-typing/) | kw: Static
+- **2026-07-02** | [Top 5 Programming Languages Dominating 2026 - DEV Community](https://dev.to/md8_habibullah/top-5-programming-languages-dominating-2026-1e6f) | kw: Top
+- **2026-07-02** | [Future of high-level languages : r/ProgrammingLanguages - Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/12x46f5/future_of_highlevel_languages/) | kw: Future
+- **2026-07-02** | [7 In-Demand Programming Languages of 2026 - Scala Teams](https://www.scalateams.com/blog/programming-languages-2026) | kw: 7
+- **2026-07-02** | [The most popular programming languages in 2026 - Innowise](https://innowise.com/blog/top-proprogramming-languages/) | kw: most
+- **2026-07-02** | [Jeremy Siek - GitHub Pages](https://jsiek.github.io/home/) | kw: Jeremy
+
 - **2026-07-02** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: type-systems
 - **2026-07-02** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type-systems
 - **2026-07-02** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: type-systems

@@ -31,6 +31,17 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: Haskell
+- **2026-07-02** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/) | kw: Hello,
+- **2026-07-02** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional
+- **2026-07-02** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290) | kw: Pure
+- **2026-07-02** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - discourse](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) | kw: Pure
+- **2026-07-02** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983) | kw: Haskell
+- **2026-07-02** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/) | kw: Kabbalah,
+- **2026-07-02** | [Community version of Learn You a Haskell... (2026 Update)](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: Community
+- **2026-07-02** | [I think I Finally Got Monads | Hendrik Erz](https://www.hendrik-erz.de/post/i-think-i-finally-got-monads) | kw: I
+- **2026-07-02** | [Abilities for the monadically inclined · Unison programming language](https://www.unison-lang.org/docs/fundamentals/abilities/for-monadically-inclined/) | kw: Abilities
+
 - **2026-07-02** | [Monads: A Powerful Concept in Functional Programming](https://www.scnresearch.com/monads-a-powerful-concept-in-functional-programming) | kw: functional-programming
 - **2026-07-02** | [How I Learned Monads: Not Through Haskell But Through Rust](https://www.haskellthoughts.com/how-i-learned-monads-not-through-haskell-but-through-rust) | kw: functional-programming
 - **2026-07-02** | [Monads And Their Use in Modern Programming](https://medium.com/@devpractical/monads-and-their-use-in-modern-programming-1d5a8c52e05f) | kw: functional-programming
