@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T08:00:00.000000+00:00",
   "__last_updated": "2026-07-02T08:00:00.000000+00:00",
-  "last_run": 316,
-  "last_explore": "2026-07-02T12:00:00.000000+00:00",
-  "last_global_explore": "2026-07-02T12:00:00.000000+00:00",
-  "last_discovery": "DEEP-SUB-CLUSTER: calibration probe (probe-conditioned head intervention + GIScholarBench + curriculum compositional generalization)",
-  "last_run_framing": "DEEP-SUB-CLUSTER: calibration probe (overconfidence + compositional generalization + domain-specific benchmarking)",
-  "last_framing": "RULE 36H PROBE-AXIS",
-  "last_run_notes": "Run 314: 2606.05901, 2511.18760, 2606.20014",
+  "last_run": 317,
+  "last_explore": "2026-07-02T13:30:00.000000+00:00",
+  "last_global_explore": "2026-07-02T13:30:00.000000+00:00",
+  "last_discovery": "DEEP-SUB-CLUSTER: reasoning efficiency (neuro-symbolic SLM) + safety mechanisms (sycophancy-induced misalignment) + representation geometry (anisotropy-metric coupling)",
+  "last_run_framing": "DEEP-SUB-CLUSTER: reasoning efficiency + safety mechanisms + representation geometry",
+  "last_framing": "DEEP-SUB-CLUSTER (Rule 36c)",
+  "last_run_notes": "Run 317: 2606.29571, 2606.27281, 2606.09068",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 5 dates (120 papers) \u2192 CV/3D-heavy \u2192 Rule 15d escape hatch \u2192 web_search \u2192 6 fresh \u2192 3 picks",
+  "last_run_method": "HF daily 3 dates (84 papers, 29 LLM candidates) \u2192 thin LLM pool \u2192 arxiv HTML 4-query deep-sub-cluster \u2192 4 fresh candidates \u2192 3 structurally orthogonal picks",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
-  "emergent_concept_theme": "instruction-tuning + RLHF + agent-evaluation",
-  "emergent_theme": "safety-mechanisms / scientific-AI-automation / alignment-theory",
+  "emergent_concept_theme": "reasoning-efficiency / safety-mechanisms / representation-geometry",
+  "emergent_theme": "DEEP-SUB-CLUSTER: reasoning efficiency + safety mechanisms + representation geometry",
   "chains_updated": 0,
-  "entities_count": 961,
+  "entities_count": 964,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9199,6 +9199,33 @@
       "discovered": "2026-07-02T12:40:00+00:00",
       "theme": "reasoning / curriculum learning / compositional generalization",
       "online_date": "2026-06-26"
+    },
+    {
+      "arxiv_id": "2606.29571",
+      "title": "Anisotropy Decides Cosine vs. Rank Metrics for Text Embeddings",
+      "slug": "anisotropy-decides-cosine-vs-rank-metrics-for-text-embeddings-2606.29571",
+      "url": "https://arxiv.org/abs/2606.29571",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T13:30:00.000000+00:00",
+      "theme": "embeddings / representation geometry / anisotropy-metric coupling"
+    },
+    {
+      "arxiv_id": "2606.27281",
+      "title": "Resource-Aware Neuro-Symbolic Reasoning for Local Small Language Models",
+      "slug": "resource-aware-neuro-symbolic-reasoning-for-local-small-language-models-2606.27281",
+      "url": "https://arxiv.org/abs/2606.27281",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T13:30:00.000000+00:00",
+      "theme": "reasoning efficiency / neuro-symbolic / SLM deployment"
+    },
+    {
+      "arxiv_id": "2606.09068",
+      "title": "Emergent Misalignment Can Be Induced by Sycophancy and Reversed via Alignment Gating",
+      "slug": "emergent-misalignment-can-be-induced-by-sycophancy-and-reversed-via-alignment-gating-2606.09068",
+      "url": "https://arxiv.org/abs/2606.09068",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T13:30:00.000000+00:00",
+      "theme": "safety mechanisms / emergent misalignment / alignment gating"
     }
   ],
   "emergent_discoveries": [
@@ -16217,6 +16244,30 @@
       "url": "https://arxiv.org/abs/2606.27721",
       "discovered": "2026-07-02T12:40:00+00:00",
       "theme": "reasoning / curriculum learning / compositional generalization"
+    },
+    {
+      "arxiv_id": "2606.29571",
+      "title": "Anisotropy Decides Cosine vs. Rank Metrics for Text Embeddings",
+      "slug": "anisotropy-decides-cosine-vs-rank-metrics-for-text-embeddings-2606.29571",
+      "url": "https://arxiv.org/abs/2606.29571",
+      "discovered": "2026-07-02T13:30:00.000000+00:00",
+      "theme": "embeddings / representation geometry"
+    },
+    {
+      "arxiv_id": "2606.27281",
+      "title": "Resource-Aware Neuro-Symbolic Reasoning for Local Small Language Models",
+      "slug": "resource-aware-neuro-symbolic-reasoning-for-local-small-language-models-2606.27281",
+      "url": "https://arxiv.org/abs/2606.27281",
+      "discovered": "2026-07-02T13:30:00.000000+00:00",
+      "theme": "reasoning efficiency / neuro-symbolic"
+    },
+    {
+      "arxiv_id": "2606.09068",
+      "title": "Emergent Misalignment Can Be Induced by Sycophancy and Reversed via Alignment Gating",
+      "slug": "emergent-misalignment-can-be-induced-by-sycophancy-and-reversed-via-alignment-gating-2606.09068",
+      "url": "https://arxiv.org/abs/2606.09068",
+      "discovered": "2026-07-02T13:30:00.000000+00:00",
+      "theme": "safety mechanisms / alignment"
     }
   ],
   "emergent_concept_search_log": [
@@ -21248,6 +21299,19 @@
       ],
       "method": "HF daily 3 dates (120 papers) \u2192 0 fresh \u2192 web_search 4-query \u2192 5 fresh \u2192 3 picks",
       "added": 3
+    },
+    {
+      "run_number": 317,
+      "date": "2026-07-02T13:30:00.000000+00:00",
+      "theme": "DEEP-SUB-CLUSTER: REASONING EFFICIENCY (neuro-symbolic SLM) / SAFETY MECHANISMS (sycophancy misalignment) / REPRESENTATION GEOMETRY (anisotropy-metric coupling)",
+      "framing": "DEEP-SUB-CLUSTER: reasoning efficiency + safety mechanisms + representation geometry",
+      "picks": [
+        "2606.29571",
+        "2606.27281",
+        "2606.09068"
+      ],
+      "method": "HF daily 3 dates (84 papers) \u2192 thin LLM pool \u2192 arxiv HTML 4-query deep-sub-cluster \u2192 3 structurally orthogonal picks",
+      "added": 3
     }
   ],
   "last_updated": "2026-06-29T22:30:05.048825+00:00",
@@ -21354,14 +21418,14 @@
     }
   ],
   "last_run_mode": "emergent-concept",
-  "last_run_summary": "Online Data Selection for Instruction Tuning via Gaussian Processes + Scaling Laws for Task-Specific LLM Distillation + Legal Reasoning Is Not Lawyering (Legal Benchmark Gap)",
-  "last_watched": "2026-06-29T10:30:00+00:00",
+  "last_run_summary": "Anisotropy Embedding Metric + Neuro-Symbolic SLM Reasoning + Sycophancy Misalignment Reversal",
+  "last_watched": "2026-07-02T13:30:00.000000+00:00",
   "last_run_pitfalls": [],
   "last_run_theme": "INSTRUCTION-TUNING DATA SELECTION / LEGAL BENCHMARK GAP / TASK-SPECIFIC DISTILLATION SCALING",
-  "emergent_concept_papers_count": 767,
-  "emergent_discoveries_count": 789,
+  "emergent_concept_papers_count": 770,
+  "emergent_discoveries_count": 792,
   "last_run_picks_count": 3,
-  "emergent_method": "arxiv HTML 4-query (instruction tuning / domain specific reasoning / SFT RLHF comparison / legal reasoning LLM)",
-  "last_run_timestamp": "2026-07-01T17:55:00+00:00",
+  "emergent_method": "HF daily 3 dates \u2192 thin LLM pool \u2192 arxiv HTML 4-query deep-sub-cluster",
+  "last_run_timestamp": "2026-07-02T13:30:00.000000+00:00",
   "emergent_discovery": "ONLINE-DATA-SELECTION / SCALING-LAWS-DISTILLATION / LEGAL-BENCHMARK-GAP"
 }
