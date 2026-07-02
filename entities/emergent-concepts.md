@@ -18,6 +18,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-02 — Run 334: DOMAIN-SPECIALIZED REASONING / TEST-TIME VERIFICATION / AGENTIC TIME SERIES
+
+1. **[A Specialized Reasoning Large Language Model for Accelerating Rare Disease Diagnosis: A Randomized AI Physician Assistance Trial](https://arxiv.org/abs/2606.24510)** — Chen, Haichao; Zhou, Songchi; Zhao, Zhengyun + 28 — RaDaR (32B) trained on 49,170 real + 104,666 synthetic rare disease cases with reasoning-enhanced training. Randomized physician-assistance trial shows 21.44pp accuracy improvement over internet search. Prioritized final diagnosis before clinical suspicion in 61% of cases. **First domain-specific specialized reasoning LLM with randomized clinical trial validation in the wiki.**
+
+2. **[Test-Time Verification for Text-to-SQL via Outcome Reward Models](https://arxiv.org/abs/2606.30851)** — Tritto, Mattia; Farano, Giuseppe; Di Palma, Dario + 4 — GradeSQL applies Outcome Reward Models (ORMs) as semantic scoring functions for test-time verification in Text-to-SQL, replacing heuristic execution-success signals. ORM-based Best-of-N outperforms majority voting by up to +4.33% on BIRD. **First ORM-based test-time verification for structured query generation in the wiki.**
+
+3. **[Harnessing Generalist Agents for Contextualized Time Series](https://arxiv.org/abs/2606.05404)** — Li, Zihao; Jin, Kaifeng; Bei, Yuanchen + 8 — TimeClaw agentic harness equips generalist LLMs with temporal tool runtime, episodic multimodal memory, and experience-driven capability evolution for open-ended temporal reasoning across energy/finance/weather domains. **First agentic harness framework for time series-native LLM reasoning in the wiki.**
+
 ### 2026-07-02 — Run 333: DATA REFERENCING ERRORS / ON-DEVICE MEMORY AGENTS / LIVE CLAW BENCH
 
 1. **[When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](https://arxiv.org/abs/2606.32029)** — Yang, Yuqing; Zhu, Qi; Han, Zhen + 5 — first systematic benchmark for data referencing errors (DREs) in table-reading LLMs. Despite understanding table structure, LLMs incorrectly cite or omit values. Introduces DRE taxonomy and mitigation via targeted fine-tuning and retrieval-augmented verification. **First data-referencing-error taxonomy for table-reading LLMs in the wiki.**
