@@ -41,6 +41,13 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [How TypeScript Infers Types Through Async Generators in 2026](https://medium.com/@jsmanifest/how-typescript-infers-types-through-async-generators-in-2026-df72c2f70980) | kw: type systems
+- **2026-07-02** | [Gradual Typing with Unication-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: type systems
+- **2026-07-02** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: type systems
+- **2026-07-02** | [(PDF) Design and Evaluation of Gradual Typing for Python](https://www.researchgate.net/publication/277918557_Design_and_Evaluation_of_Gradual_Typing_for_Python) | kw: type systems
+- **2026-07-02** | [(PDF) Gradual Typing for Objects](https://www.academia.edu/99423053/Gradual_Typing_for_Objects) | kw: type systems
+- **2026-07-02** | [Dynamic Type Inference for Gradual Hindley–Milner Typing | PDF](https://www.slideshare.net/slideshow/dynamic-type-inference-for-gradual-hindleymilner-typing/128937161) | kw: type systems
+
 - **2026-07-02** | [Type Inference for Functional and Imperative Dynamic Languages](https://mlaurent.ovh/publications/type_inference_imp.pdf) | kw: Type Inference for Functional and Imperative Dynamic Languages
 - **2026-07-02** | [What Is Gradual Typing? - ITU Online IT Training](https://www.ituonline.com/tech-definitions/what-is-gradual-typing/) | kw: What Is Gradual Typing? - ITU Online IT Training
 - **2026-07-02** | [Statically Typed vs Dynamically Typed Languages - Medium](https://medium.com/towardsdev/statically-typed-vs-dynamically-typed-languages-a-comprehensive-deep-dive-e30c09ec4439) | kw: Statically Typed vs Dynamically Typed Languages - Medium

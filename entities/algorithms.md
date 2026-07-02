@@ -4117,6 +4117,13 @@
 
 
 ## Updates
+- **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-02** | [leetcode · GitHub Topics · GitHub](https://github.com/topics/leetcode) | kw: algorithms
+- **2026-07-02** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-02** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: algorithms
+- **2026-07-02** | [Los leetcode repositorios principales - Proyectos de GitHub... | Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: algorithms
+- **2026-07-02** | [50Days of DSA JavaScript Data Structures Algorithms LEETCODE...](https://www.techcracked.com/2024/07/javascript-data-structures-algorithms.html) | kw: algorithms
+
 - **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=F2FmTdLtb_4) | kw: Data Structure and Algorithm Patterns for LeetCode Interviews...
 - **2026-07-02** | [leetcode - GitHub Topics](https://github.com/topics/leetcode) | kw: leetcode - GitHub Topics
 - **2026-07-02** | [Data Structures and Algorithms in Python: DSA Course](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: Data Structures and Algorithms in Python: DSA Course

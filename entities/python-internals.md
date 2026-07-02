@@ -3943,6 +3943,15 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-02** | [Welcome to Python.org](https://www.python.org/) | kw: python internals
+- **2026-07-02** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: python internals
+- **2026-07-02** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: python internals
+- **2026-07-02** | [PyPI · The Python Package Index](https://pypi.org/) | kw: python internals
+- **2026-07-02** | [Python Tutorial - W3Schools](https://www.w3schools.com/python/) | kw: python internals
+- **2026-07-02** | [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/) | kw: python internals
+- **2026-07-02** | [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/) | kw: python internals
+- **2026-07-02** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: python internals
+
 - **2026-07-02** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: How Python Works Under the Hood: Memory, GIL, and Bytecode
 - **2026-07-02** | [What Is the Python Global Interpreter Lock (GIL)? -- Real Python](https://realpython.com/python-gil/) | kw: What Is the Python Global Interpreter Lock (GIL)? -- Real Python
 - **2026-07-02** | [MEMORY_MANAGEMENT (0x1A) in Windows 10/11: how to fix...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: MEMORY_MANAGEMENT (0x1A) in Windows 10/11: how to fix...

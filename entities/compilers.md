@@ -33,6 +33,8 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22](https://www.servethehome.com/the-case-for-compilers-a-look-at-spec-cpu-2026-on-llvm-22/) | kw: compilers
+
 - **2026-07-02** | [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM) | kw: LLVM - Wikipedia
 - **2026-07-02** | [c++ - LLVM: simple example of a just-in-time compilation](https://stackoverflow.com/questions/42982070/llvm-simple-example-of-a-just-in-time-compilation) | kw: c++ - LLVM: simple example of a just-in-time compilation
 - **2026-07-02** | [A Minimal LLVM JIT example for LLVM-5 - GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: A Minimal LLVM JIT example for LLVM-5 - GitHub
