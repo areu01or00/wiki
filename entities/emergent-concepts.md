@@ -18,6 +18,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-02 — Run 333: DATA REFERENCING ERRORS / ON-DEVICE MEMORY AGENTS / LIVE CLAW BENCH
+
+1. **[When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](https://arxiv.org/abs/2606.32029)** — Yang, Yuqing; Zhu, Qi; Han, Zhen + 5 — first systematic benchmark for data referencing errors (DREs) in table-reading LLMs. Despite understanding table structure, LLMs incorrectly cite or omit values. Introduces DRE taxonomy and mitigation via targeted fine-tuning and retrieval-augmented verification. **First data-referencing-error taxonomy for table-reading LLMs in the wiki.**
+
+2. **[DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation](https://arxiv.org/abs/2606.29961)** — Hosseini, Peyman; Bohdal, Ondrej; Alajrami, Ahmed + 6 — dual-space distillation (working memory + episodic memory) compresses capable multi-turn LLM agents into lightweight on-device models. Solves the practical deployment problem of memory-augmented agents requiring large models, long contexts, and repeated inference. **First on-device memory agent via dual-space distillation in the wiki.**
+
+3. **[LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks](https://arxiv.org/abs/2604.13072)** — Long, Xiang; Du, Li; Xu, Yilong + 11 — first benchmark evaluating LLM assistants in stateful, open-ended software environments with dual-fidelity: task distribution fidelity + interface fidelity. Addresses the fundamental evaluation fidelity problem for personal assistant agents. **First stateful-real-world-assistant fidelity benchmark in the wiki.**
+
 ### 2026-07-02 — Run 332: SECURITY-FIDELITY TRADEOFF / FLEXISLM DYNAMIC FRAME RATE / CROSS-LINGUAL RELATION EXTRACTION
 
 1. **[Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense](https://arxiv.org/abs/2606.30783)** — Hermon, Mitchell; Gupta, Rahul; Ruan, Weitong + 2 — identifies a fundamental security-fidelity tradeoff in prompt injection defense: suppressing untrusted text (for security) corrupts tasks that must preserve it (translation, document editing). Across 1,168 examples and 48 configurations, no model or defense achieves both high security and high fidelity. Decision-theoretic analysis shows the correct behavior depends on deployment context, not the defense alone. **First security-fidelity tradeoff benchmark for prompt injection in the wiki.**
