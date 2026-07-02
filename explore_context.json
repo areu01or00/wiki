@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-02T06:04:05.000000+00:00",
-  "__last_updated": "2026-07-02T06:04:05.000000+00:00",
-  "last_run": 337,
+  "updated": "2026-07-02T06:36:00.000000+00:00",
+  "__last_updated": "2026-07-02T06:36:00.000000+00:00",
+  "last_run": 338,
   "last_explore": "2026-07-02T06:04:05.%f+00:00",
   "last_global_explore": "2026-07-02T06:04:05.%f+00:00",
   "last_discovery": "HF daily 4 dates (130 papers, 42 fresh) + arxiv HTML 4-query (192 IDs, 7 fresh LLM)",
-  "last_run_framing": "HF CV/3D-heavy + arxiv HTML search: vehicle routing + human-in-the-loop agentic + agricultural multi-agent",
-  "last_framing": "VEHICLE ROUTING / HUMAN-IN-THE-LOOP AGENTIC / AGRICULTURAL MULTI-AGENT",
-  "last_run_notes": "Run 335: 2606.24281, 2607.01071, 2410.09097",
+  "last_run_framing": "HF CV/3D-heavy + web_search: causal representation / circuit interpretability / token-state world model theory",
+  "last_framing": "CAUSAL REPRESENTATION / CIRCUIT INTERPRETABILITY / TOKEN-STATE WORLD MODEL THEORY",
+  "last_run_notes": "Run 338: 2606.06288, 2606.24026, 2606.28127",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 3 dates (98 papers) + 5 fresh LLM from HF + web_search 5-query + 6 fresh web_search candidates",
+  "last_run_method": "HF daily 5 dates (155 papers, 95 LLM-keyword) + web_search 3-query (causal representation + circuit interpretability + world model theory)",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "reasoning-efficiency / safety-mechanisms / representation-geometry",
   "emergent_theme": "HF-only discovery (no web_search escape hatch needed)",
   "chains_updated": 0,
-  "entities_count": 1021,
+  "entities_count": 1024,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9775,6 +9775,33 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-02T06:04:05.%f+00:00",
       "theme": "multi-agent-llm / domain-specific-llm / simulation / agricultural-ai"
+    },
+    {
+      "arxiv_id": "2606.06288",
+      "slug": "discrete-causal-representations-from-heterogeneous-domains-a-bayesian-approach-with-social-survey-applications-2606.06288",
+      "title": "Discrete Causal Representations from Heterogeneous Domains: A Bayesian Approach with Social Survey Applications",
+      "url": "https://arxiv.org/abs/2606.06288",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T06:36:00.000000+00:00",
+      "theme": "causal representation learning / bayesian CRL / heterogeneous domain shift"
+    },
+    {
+      "arxiv_id": "2606.24026",
+      "slug": "can-language-model-agents-be-helpful-circuit-explainers-in-mechanistic-interpretability-2606.24026",
+      "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T06:36:00.000000+00:00",
+      "theme": "mechanistic interpretability / circuit analysis / LLM agents as explainers"
+    },
+    {
+      "arxiv_id": "2606.28127",
+      "slug": "from-tokens-to-states-llms-as-a-special-case-of-world-models-and-the-continuous-path-beyond-2606.28127",
+      "title": "From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond",
+      "url": "https://arxiv.org/abs/2606.28127",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T06:36:00.000000+00:00",
+      "theme": "world models / LLM theory / token prediction as world model subset"
     }
   ],
   "emergent_discoveries": [
@@ -17231,6 +17258,30 @@
       "url": "https://arxiv.org/abs/2607.00454",
       "discovered": "2026-07-02T06:04:05.%f+00:00",
       "theme": "multi-agent-llm / domain-specific-llm / simulation / agricultural-ai"
+    },
+    {
+      "arxiv_id": "2606.06288",
+      "title": "Discrete Causal Representations from Heterogeneous Domains: A Bayesian Approach with Social Survey Applications",
+      "slug": "discrete-causal-representations-from-heterogeneous-domains-a-bayesian-approach-with-social-survey-applications-2606.06288",
+      "url": "https://arxiv.org/abs/2606.06288",
+      "discovered": "2026-07-02T06:36:00.000000+00:00",
+      "theme": "causal representation learning / bayesian CRL / heterogeneous domain shift"
+    },
+    {
+      "arxiv_id": "2606.24026",
+      "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "slug": "can-language-model-agents-be-helpful-circuit-explainers-in-mechanistic-interpretability-2606.24026",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "discovered": "2026-07-02T06:36:00.000000+00:00",
+      "theme": "mechanistic interpretability / circuit analysis / LLM agents as explainers"
+    },
+    {
+      "arxiv_id": "2606.28127",
+      "title": "From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond",
+      "slug": "from-tokens-to-states-llms-as-a-special-case-of-world-models-and-the-continuous-path-beyond-2606.28127",
+      "url": "https://arxiv.org/abs/2606.28127",
+      "discovered": "2026-07-02T06:36:00.000000+00:00",
+      "theme": "world models / LLM theory / token prediction as world model subset"
     }
   ],
   "emergent_concept_search_log": [
@@ -22525,6 +22576,18 @@
         "2607.00454"
       ],
       "method": "HF daily 4 dates (130 papers, 42 fresh) + arxiv HTML 4-query (192 IDs, 7 fresh LLM)",
+      "added": 3
+    },
+    {
+      "run": 338,
+      "date": "2026-07-02T06:36:00.000000+00:00",
+      "theme": "causal representation / circuit interpretability / token-state world model theory",
+      "picks": [
+        "2606.06288",
+        "2606.24026",
+        "2606.28127"
+      ],
+      "method": "HF daily 5 dates (155 papers, 95 LLM-keyword) + web_search 3-query",
       "added": 3
     }
   ],

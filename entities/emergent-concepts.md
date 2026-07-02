@@ -18,6 +18,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-02 — Run 338: CAUSAL REPRESENTATION / CIRCUIT INTERPRETABILITY / TOKEN-STATE WORLD MODEL THEORY
+
+1. **[Discrete Causal Representations from Heterogeneous Domains: A Bayesian Approach with Social Survey Applications](https://arxiv.org/abs/2606.06288)** — Garg, Ankur; Stettler, Michael; Schein, Aaron + 1 — Bayesian framework for identifying discrete causal representations across heterogeneous data sources where measurement models vary across domains. Social survey applications where same latent attitudes are measured via different question formats. Demonstrates domain heterogeneity aids rather than hinders causal variable discovery. **First Bayesian CRL identification framework across heterogeneous measurement models in the wiki.**
+
+2. **[Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?](https://arxiv.org/abs/2606.24026)** — Khan, Ayan Antik; Kohli, Harsh; Yao, Yuekun + 2 — First systematic study of LLM agents as circuit explainers — agents take SAE/circuit localization outputs and generate functional hypotheses. Benchmark for explanation quality: testability, specificity, and actionability. Agents generate plausible circuit hypotheses but struggle with causal reasoning about component interactions. **First LLM-agent-as-circuit-explainer paper in the wiki.**
+
+3. **[From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond](https://arxiv.org/abs/2606.28127)** — Dubois, Paul — Formal proof that every autoregressive LLM is a strict subset of world models. Introduces "world model depth" axis and three mechanisms pushing LLMs from token prediction toward world simulation: world-state scaffolding, cross-episodic representation binding, and intervention-directed fine-tuning. Resolves LeCun vs. deep learning dichotomy. **First formal token-prediction-as-world-model-subset proof in the wiki.**
+
 ### 2026-07-02 — Run 337: VEHICLE ROUTING / HUMAN-IN-THE-LOOP AGENTIC / AGRICULTURAL MULTI-AGENT
 
 1. **[Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/abs/2607.00604)** — Xiu, Xianchao; Shen, Chong; Zhu, Yanjiao + 1 — Survey of LLM approaches to VRP (NP-hard combinatorial optimization in logistics), covering natural-language constraint specification, dynamic re-routing, and LLM strengths in multi-constraint optimization. **First vehicle-routing combinatorial optimization paper in the wiki.**
