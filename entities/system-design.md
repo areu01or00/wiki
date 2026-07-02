@@ -3619,6 +3619,15 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system design
+- **2026-07-02** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: system design
+- **2026-07-02** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: system design
+- **2026-07-02** | [Master System Design Roadmap 2026 | Rocky Bhatia posted on the ...](https://www.linkedin.com/posts/rocky-bhatia-a4801010_master-system-design-in-2026-one-visual-activity-7418616191402942464--RPc) | kw: system design
+- **2026-07-02** | [10 System Design Patterns You Must Know in 2026 - MockExperts](https://www.mockexperts.com/blog/10-system-design-patterns-you-must-know-2026) | kw: system design
+- **2026-07-02** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: system design
+- **2026-07-02** | [Complete Distributed Systems Guide 2026 - College Nirnay](https://www.collegenirnay.com/articles/complete-guide-distributed-systems-beginners) | kw: system design
+- **2026-07-02** | [This Is What Actually Scales in 2026 | by Kavya's Programming Path](https://medium.com/javarevisited/forget-microservices-these-3-architecture-patterns-scale-better-in-2026-0194729ae6e3) | kw: system design
+
 - **2026-07-02** | [Operating system - Wikipedia](https://en.wikipedia.org/wiki/Operating_system) | kw: Operating
 
 - **2026-07-01** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: System

@@ -31,6 +31,14 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Monad (functional programming) — Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: functional programming
+- **2026-07-02** | [Rust: Functional Programming & Monads — Medium](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: functional programming
+- **2026-07-02** | [Monads and Monad-Like Patterns in Rust — Software Patterns Lexicon](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional programming
+- **2026-07-02** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: functional programming
+- **2026-07-02** | [Monad (functional programming) — Grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: functional programming
+- **2026-07-02** | [Rust patterns — list of Rust libraries/crates // Lib.rs](https://lib.rs/rust-patterns) | kw: functional programming
+- **2026-07-02** | [monad in Functional programming — DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e) | kw: functional programming
+
 - **2026-07-02** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/) | kw: Haskell
 
 - **2026-07-02** | [Functional Programmers need to take a look at Zig | Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: Functional

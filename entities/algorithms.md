@@ -4117,6 +4117,17 @@
 
 
 ## Updates
+- **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews... — YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-02** | [leetcode-python · GitHub Topics](https://github.com/topics/leetcode-python) | kw: algorithms
+- **2026-07-02** | [Comprehensive Data Structure and Algorithm Study Guide — LeetCode](https://leetcode.com/discuss/post/494279/comprehensive-data-structure-and-algorithm-study-guide/) | kw: algorithms
+- **2026-07-02** | [Leetcode data structures beginner problems — DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: algorithms
+- **2026-07-02** | [Alternatives and detailed information of Datastructures Algorithms — GitPlanet](https://gitplanet.com/project/datastructures-algorithms) | kw: algorithms
+- **2026-07-02** | [Struggling with Data Structures and Algorithms? — Yo Motherboard](https://yomotherboard.com/question/struggling-with-data-structures-and-algorithms-heres-how-to-improve/) | kw: algorithms
+- **2026-07-02** | [Do we really need Leetcode (Data Structures & Algorithms)... — Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: algorithms
+- **2026-07-02** | [List: Interview | Curated by phani kumar Veluri — Medium](https://medium.com/@veluri.phanikumar/list/interview-f344114e5baa) | kw: algorithms
+- **2026-07-02** | [Los leetcode repositorios principales — Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: algorithms
+- **2026-07-02** | [Leetcode badge 2026 post — LinkedIn](https://www.linkedin.com/posts/mofijul02anish_leetcode-datastructures-algorithms-activity-7435275744882204672-ncl1) | kw: algorithms
+
 - **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: Data
 
 - **2026-07-02** | [data-structures | GitHub Topics | GitHub](https://github.com/topics/data-structures) | kw: data-structures
