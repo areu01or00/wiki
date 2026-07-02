@@ -18,6 +18,49 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+- **2026-07-02** | [MiniMaxAI/MiniMax-M3 — Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3) | kw: WEIGHTS DROP | score: 8 | source: MiniMax
+- **2026-07-02** | [Measuring the Gap Between Human and LLM Research Ideas](https://arxiv.org/abs/2607.00001) | kw: BENCHMARK/PAPER | score: 5 | source: arxiv-cs-cl
+- **2026-07-02** | [Is One Layer Enough? Training A Single Transformer Layer](https://arxiv.org/abs/2607.00002) | kw: BENCHMARK/PAPER | score: 5 | source: arxiv-cs-cl
+- **2026-07-02** | [AutoMem: Automated Learning of Memory as a Cognitive Skill](https://arxiv.org/abs/2607.00003) | kw: BENCHMARK/PAPER | score: 5 | source: arxiv-cs-cl
+- **2026-07-02** | [Theoria: Rewrite-Acceptability Verification](https://arxiv.org/abs/2607.00004) | kw: BENCHMARK/PAPER | score: 5 | source: arxiv-cs-cl
+- **2026-07-02** | [AGC-Bench: Measuring Artificial General Creativity](https://arxiv.org/abs/2607.00010) | kw: BENCHMARK/PAPER | score: 5 | source: arxiv-cs-cl
+- **2026-07-02** | [GLM-5.2 by Zhipu AI: MIT-licensed 744B open-weight MoE with 1M context](https://www.mindstudio.ai/blog/what-is-glm-5-2-open-weight-model-1m-context) | kw: WEIGHTS DROP | OPEN SOURCE | score: 10 | source: glm-releases
+- **2026-07-02** | [GLM-5: 744B Open-Weight MoE at $1/M Tokens](https://automatio.ai/models/glm-5) | kw: OFFICIAL ANNOUNCEMENT | score: 6 | source: glm-releases
+- **2026-07-02** | [Gemma 4 12B: unified encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) | kw: OFFICIAL ANNOUNCEMENT | score: 5 | source: google-deepmind-releases
+- **2026-07-02** | [Gemma 3n — Google DeepMind](https://deepmind.google/models/gemma/gemma-3n/) | kw: OFFICIAL ANNOUNCEMENT | score: 5 | source: google-deepmind-releases
+- **2026-07-02** | [Krea 2 Open-Source: RAW and Turbo Image Models](https://www.krea.ai/krea-2-open-source) | kw: WEIGHTS DROP | OPEN SOURCE | score: 9 | source: huggingface-trending
+- **2026-07-02** | [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report) | kw: BENCHMARK/PAPER | score: 5 | source: huggingface-trending
+- **2026-07-02** | [Kimi K2.6 — Moonshot AI](https://www.kimi.com/) | kw: WEIGHTS DROP | OFFICIAL ANNOUNCEMENT | OPEN SOURCE | score: 9 | source: kimi-releases
+- **2026-07-02** | [Kimi K2.6 API Platform](https://platform.kimi.ai/docs/models) | kw: API LAUNCH | score: 5 | source: kimi-releases
+- **2026-07-02** | [AI Updates Today (July 2026) — LLM Stats](https://llm-stats.com/llm-updates) | kw: OFFICIAL ANNOUNCEMENT | score: 9 | source: llm-stats-updates
+- **2026-07-02** | [Meta Llama 4 Released: Native Multimodal + Long...](https://aiskillnav.com/en/news/meta-llama-4-release-multimodal-open-source-2026) | kw: OFFICIAL ANNOUNCEMENT | score: 6 | source: meta-llama-releases
+- **2026-07-02** | [Mistral AI — official releases](https://mistral.ai/news/) | kw: OFFICIAL ANNOUNCEMENT | score: 5 | source: mistral-releases
+- **2026-07-02** | [OpenAI o3-pro — Model Release Notes](https://help.openai.com/en/articles/9624314-model-release-notes) | kw: OFFICIAL ANNOUNCEMENT | score: 5 | source: openai-releases
+- **2026-07-02** | [Alibaba Releases Qwen3.5-397B Open-Weight Multimodal Model](https://aihola.com/article/alibaba-qwen35-open-weight-release) | kw: OFFICIAL ANNOUNCEMENT | OPEN SOURCE | score: 7 | source: qwen-releases
+- **2026-07-02** | [Qwen 3.7 Open Weights Watch](https://insiderllm.com/guides/qwen-3-7-preview-scored-57-aai-27b-35b-open-weights-watch/) | kw: WEIGHTS DROP | score: 9 | source: qwen-releases
+- **2026-07-02** | [Sakana AI Fugu — multi-agent orchestration model](https://www.sakana.ai/fugu-release) | kw: API LAUNCH | OFFICIAL ANNOUNCEMENT | score: 5 | source: sakana-releases
+- **2026-07-02** | [Sakana AI — Sudoku-Bench](https://sakana.ai/sudoku-bench/) | kw: BENCHMARK/PAPER | score: 5 | source: sakana-releases
+- **2026-07-02** | [Apertus — Swiss open-weight LLM](https://en.wikipedia.org/wiki/Apertus_(LLM)) | kw: OPEN SOURCE | score: 7 | source: swiss-ai-apertus
+- **2026-07-02** | [Grok Build 0.1 — xAI API](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/partner-models/grok/grok-4-20) | kw: API LAUNCH | score: 5 | source: xai-releases
+- **2026-07-02** | [xAI Grok models on Hugging Face — open weights](https://explainx.ai/blog/xai-grok-hugging-face-open-weights-2026) | kw: WEIGHTS DROP | score: 7 | source: xai-releases
+- **2026-07-02** | [Ornith-1.0: DeepReinforce's Open-Source Coding Model Family](https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/) | kw: WEIGHTS DROP | OPEN SOURCE | score: 10 | source: deepreinforce-ai
+- **2026-07-02** | [LFM2.5-230M — Liquid AI](https://huggingface.co/LiquidAI/LFM2.5-230M) | kw: WEIGHTS DROP | score: 8 | source: liquid-ai
+- **2026-07-02** | [LongCat-2.0: 1.6T Open-Source Agentic Coding Model](https://www.longcatai.org/models/longcat-2) | kw: WEIGHTS DROP | OPEN SOURCE | score: 10 | source: meituan-longcat
+- **2026-07-02** | [Huawei open-sources openPangu-2.0-Flash (92B total / 6B active)](https://pandaily.com/huawei-openpangu-2.0-flash-open-source-jun2026) | kw: WEIGHTS DROP | OPEN SOURCE | score: 10 | source: huawei
+- **2026-07-02** | [Agents-A1: 35B MoE Agentic Model](https://internscience.github.io/Agents-A1/) | kw: BENCHMARK/PAPER | score: 6 | source: internscience
+- **2026-07-02** | [Sakana AI Fugu — Agent Orchestration Model](https://www.sakana.ai/fugu-release) | kw: API LAUNCH | score: 5 | source: sakana-ai
+- **2026-07-02** | [Qwen3.5-397B Open-Weight MoE — Apache 2.0](https://aihola.com/article/alibaba-qwen35-open-weight-release) | kw: OPEN SOURCE | score: 10 | source: qwen
+- **2026-07-02** | [Ornith-1.0: MIT-licensed open-weights coding model family](https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/) | kw: WEIGHTS DROP | OPEN SOURCE | score: 10 | source: deepreinforce
+- **2026-07-02** | [Kimi K2.6: 1T MoE Open Weights, Agent Swarm](https://huggingface.co/moonshotai/Kimi-K2.6) | kw: WEIGHTS DROP | score: 9 | source: moonshot-ai
+- **2026-07-02** | [LongCat-2.0 — Meituan open-sourced 1.6T MoE](https://www.longcatai.org/models/longcat-2) | kw: WEIGHTS DROP | OPEN SOURCE | score: 10 | source: meituan
+- **2026-07-02** | [Grok Build 0.1 — agentic coding beta](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/partner-models/grok/grok-4-20) | kw: OFFICIAL ANNOUNCEMENT | score: 5 | source: xai
+- **2026-07-02** | [MiniMax M3: 428B multimodal MoE, 1M context, open-sourced](https://aiweekly.co/alerts/minimax-open-sources-m3-428b-multimodal-moe-with-1m-context) | kw: WEIGHTS DROP | OPEN SOURCE | score: 10 | source: minimax
+- **2026-07-02** | [GLM-5.2: 744B open-weight MoE, MIT license, 1M context](https://www.mindstudio.ai/blog/what-is-glm-5-2-open-weight-model-1m-context) | kw: WEIGHTS DROP | OPEN SOURCE | score: 10 | source: zhipu-ai
+- **2026-07-02** | [Kimi K2.6 open weights on Hugging Face](https://huggingface.co/moonshotai/Kimi-K2.6) | kw: WEIGHTS DROP | score: 9 | source: kimi
+- **2026-07-02** | [DeepSeek V4 Preview: Open weights, 1M context](https://api-docs.deepseek.com/news/news260424) | kw: WEIGHTS DROP | API LAUNCH | OPEN SOURCE | score: 10 | source: deepseek
+- **2026-07-02** | [Portugal open-sources Amalia, its first national AI model](https://thenextweb.com/news/portugal-open-source-ai-model-amalia) | kw: WEIGHTS DROP | OPEN SOURCE | score: 9 | source: amalia-llm
+- **2026-07-02** | [Nemotron-Labs-TwoTower: Diffusion Language Model — open weights](https://unrollnow.com/status/2072394812301480067) | kw: WEIGHTS DROP | BENCHMARK/PAPER | score: 9 | source: nvidia-research
+
 - **2026-07-02** | [GLM-5.2: Z.ai Open-Weights Coder Beats GPT-5.5 at 1/6 the Cost](https://rits.shanghai.nyu.edu/ai/glm-5-2-z-ais-open-weights-coder-beats-gpt-5-5-at-1-6-the-cost/) | kw: WEIGHTS DROP | score: 7 | source: glm-releases
 - **2026-07-02** | [GLM-5.2 Open Weights Live: Top Coding Benchmark](https://www.techtimes.com/articles/318543/20260617/glm-52-open-weights-live-top-coding-benchmark-api-use-carries-china-data-risk.htm) | kw: WEIGHTS DROP | score: 9 | source: glm-releases
 - **2026-07-02** | [Gemma 4 Guide: E2B E4B 26B MoE and 31B Open Weights (2026)](https://codersera.com/blog/gemma-4-complete-guide-2026/) | kw: WEIGHTS DROP | score: 4 | source: google-deepmind-releases
