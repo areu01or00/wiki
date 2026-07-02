@@ -3619,6 +3619,17 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: Three
+- **2026-07-02** | [I Designed 25 Distributed Systems in 25 Days. Here is the One Hidden Pattern I Found](https://medium.com/@cachecowboy/i-designed-25-distributed-systems-in-25-days-here-is-the-one-hidden-pattern-i-found-8db2608cd904) | kw: I
+- **2026-07-02** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: The
+- **2026-07-02** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production) | kw: Modern
+- **2026-07-02** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems) | kw: A
+- **2026-07-02** | [50 System Design Patterns Every Engineer Should Know in 90...](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50
+- **2026-07-02** | [From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI) | kw: From
+- **2026-07-02** | [10 System Design Patterns You Must Know in 2026 - MockExperts](https://www.mockexperts.com/blog/10-system-design-patterns-you-must-know-in-2026) | kw: 10
+- **2026-07-02** | [Complete Distributed Systems Guide 2026 - College Nirnay](https://www.collegenirnay.com/articles/complete-guide-distributed-systems-beginners) | kw: Complete
+
+
 - **2026-07-02** | [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) | kw: List
 
 - **2026-07-02** | [Design Rocket - Learn AI Design system.](https://designrocket.io/) | kw: Design

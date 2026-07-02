@@ -4117,6 +4117,14 @@
 
 
 ## Updates
+- **2026-07-02** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: Most
+- **2026-07-02** | [How to crack any coding interview in 2026 using the reverse ...](https://medium.com/@fahimulhaq/how-to-crack-any-coding-interview-using-the-reverse-thinking-method-a03f6a5e7e3e) | kw: How
+- **2026-07-02** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: Rethinking
+- **2026-07-02** | [LeetCode vs NeetCode vs PracHub (2026 Interview Guide)](https://www.prachub.com/resources/leetcode-vs-neetcode-vs-prachub-2026-interview-guide) | kw: LeetCode
+- **2026-07-02** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: Top
+- **2026-07-02** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: Are
+
+
 - **2026-07-02** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How
 
 - **2026-07-02** | [How to crack any coding interview in 2026 using the reverse thinking method](https://medium.com/@fahimulhaq/how-to-crack-any-coding-interview-using-the-reverse-thinking-method-a03f6a5e7e3e) | kw: How
