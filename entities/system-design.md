@@ -3619,6 +3619,16 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: wiki-watch
+- **2026-07-02** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: wiki-watch
+- **2026-07-02** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: wiki-watch
+- **2026-07-02** | [How I Build a Distributed System in 2026: Principles, Patterns, and ...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: wiki-watch
+- **2026-07-02** | [Distributed Systems | Architecture Patterns · GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns) | kw: wiki-watch
+- **2026-07-02** | [Grokking System Design in 2026: Guide for Interview Prep](https://www.systemdesignhandbook.com/guides/grokking-system-design-in-2026/) | kw: wiki-watch
+- **2026-07-02** | [Three Bold Predictions for Distributed Systems in 2026](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: wiki-watch
+- **2026-07-02** | [The Coming Paradigm Shift in Distributed Systems Architecture](https://gabogil.com/2026/01/20/the-coming-paradigm-shift-in-distributed-systems-architecture/) | kw: wiki-watch
+- **2026-07-02** | [9 Essential Software Architecture Patterns for Scalable Distributed ...](https://javarevisited.wordpress.com/2026/05/22/9-essential-software-architecture-patterns-for-scalable-distributed-systems-in-2026/) | kw: wiki-watch
+- **2026-07-02** | [What is a Distributed System? Architecture, Design, and Scaling Guide](https://netalith.com/blogs/system-design/comprehensive-guide-distributed-systems-architecture-2026) | kw: wiki-watch
 - **2026-07-02** | [Sidecar Pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar)
 
 - **2026-07-02** | [Distributed Database: CAP Theorem and Consistency Patterns 2026](https://johal.in/distributed-database-cap-theorem-and-consistency-patterns-2026/) | kw: Distributed

@@ -4117,6 +4117,16 @@
 
 
 ## Updates
+- **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: wiki-watch
+- **2026-07-02** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: wiki-watch
+- **2026-07-02** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: wiki-watch
+- **2026-07-02** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: wiki-watch
+- **2026-07-02** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: wiki-watch
+- **2026-07-02** | [NeetCode | Coding Interview Prep, Courses, Versus Mode](https://neetcode.io/) | kw: wiki-watch
+- **2026-07-02** | [Los leetcode repositorios principales - Proyectos de GitHub... | Git Stars](https://git-stars.org/es/repositories/topic/leetcode) | kw: wiki-watch
+- **2026-07-02** | [List: Interview | Curated by phani kumar Veluri | Medium](https://medium.com/@veluri.phanikumar/list/interview-f344114e5baa) | kw: wiki-watch
+- **2026-07-02** | [algorithms-datastructures - 技术专题深度解读 | GitHub 中文社区](https://github-cn.com/topics/algorithms-datastructures) | kw: wiki-watch
+- **2026-07-02** | [neetcode · GitHub Topics · GitHub](https://github.com/topics/neetcode) | kw: wiki-watch
 - **2026-07-02** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04)
 
 - **2026-07-02** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: Algorithm

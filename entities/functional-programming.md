@@ -31,6 +31,7 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: wiki-watch
 - **2026-07-02** | [Rust patterns — list of Rust libraries/crates // Lib.rs](https://lib.rs/rust-patterns)
 - **2026-07-02** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e)
 
