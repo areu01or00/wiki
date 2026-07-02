@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 328: REWARD HACKING ACTIVATION MONITORING / STRUCTURED CONTEXT EVICTION / ANISOTROPY-CONTROLLABLE EMBEDDING
+
+1. **[From Reward-Hack Activations to Agentic Risk States: Context-Calibrated Mechanistic Monitoring in LLM Agents](https://arxiv.org/abs/2606.06223)** — Wilhelm, Patrick; Kao, Odej — activation-based reward-hack monitoring in ReAct agents with context-calibrated scores, token-level entropy, and decision-context features for early-warning of reward-hacking trajectory drift. **First context-calibrated mechanistic monitoring of reward-hacking activations in the wiki.**
+
+2. **[Beyond Compaction: Structured Context Eviction for Long-Horizon Agents](https://arxiv.org/abs/2606.11213)** — Semenov, Andrew; Dorofeev, Svyatoslav — Context Window Lifecycle (CWL) with typed episodes, explicit dependency graphs, and a deterministic LLM-free graduated eviction policy enabling effectively unbounded working horizon for long-horizon agents. **First structured eviction policy using agent-authored dependency graphs in the wiki.**
+
+3. **[ACE: Anisotropy-Controllable Embedding for LLM-enhanced Sequential Recommendation](https://arxiv.org/abs/2605.29322)** — Lee, Dongcheol; Kim, Hye-young; Lee, Jongwuk — anisotropy-controllable embedding via dispersion regularization term balancing geometric uniformity with semantic preservation, improving fine-tuning stability for LLM-enhanced recommendation backbones. **First anisotropy-controllable embedding method in the wiki.**
+
 ### 2026-07-02 — Run 327: LLM-AS-JUDGE TASK ASYMMETRY / ATTENTION PRUNING FAITHFULNESS / INTERNAL REPRESENTATION CONFORMAL PREDICTION
 
 1. **[Can LLMs Judge Better Than They Generate? Evaluating Task Asymmetry, Mechanistic Interpretability and Transferability for In-Context QA](https://arxiv.org/abs/2606.28050)** — Bandyopadhyay, Sambaran — controlled study finding that generation and judgment activate distinct internal representations in LLMs, with mechanistic interpretability revealing different circuits; judgment capability transfers poorly to unseen tasks, challenging the universality assumption of LLM-as-Judge. **First task-asymmetry mechanistic analysis of LLM-as-Judge in the wiki.**
