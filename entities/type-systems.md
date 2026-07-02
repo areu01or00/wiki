@@ -41,6 +41,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Duck Typing vs Type System (2026) | Nice Pick](https://nicepick.dev/compare/duck-typing-vs-type-system) | kw: web
+- **2026-07-02** | [Gradual Typing: A New Perspective](https://www.irif.fr/~gc/papers/popl19.pdf) | kw: web
+- **2026-07-02** | [How TypeScript Infers Types Through Async Generators in 2026](https://medium.com/@jsmanifest/how-typescript-infers-types-through-async-generators-in-2026-df72c2f70980) | kw: medium
+- **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: blog
+- **2026-07-02** | [Static Analysis Mypy: Strict Typing Configurations 2026 | Johal AI Hub](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: web
+- **2026-07-02** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: blog
+- **2026-07-02** | [TypeScript Gradual Typing | Compile N Run](https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/) | kw: web
+- **2026-07-02** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: web
+- **2026-07-02** | [gradual-typing · GitHub Topics · GitHub](https://github.com/topics/gradual-typing) | kw: github
+
 - **2026-07-02** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: web-search
 - **2026-07-02** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: web-search
 - **2026-07-02** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: web-search

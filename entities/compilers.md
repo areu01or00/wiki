@@ -33,6 +33,16 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [3. Building a JIT: Per-function Lazy... — LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html) | kw: llvm
+- **2026-07-02** | [A Deep Dive into LLVM: The Future of Compiler Technology | Medium](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761) | kw: medium
+- **2026-07-02** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: github
+- **2026-07-02** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky's website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: web
+- **2026-07-02** | [Paper Title (use style: paper title)](https://clausiuspress.com/conferences/ACSS/CNCI+2020/CNCI050.pdf) | kw: web
+- **2026-07-02** | [Revolutionize JIT Compilation with LLVM's Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: web
+- **2026-07-02** | [Search: [llvm] - Bookmarks](https://links.cpollet.io/?searchtags=llvm) | kw: web
+- **2026-07-02** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: community
+- **2026-07-02** | [llvm-compile-time-tracker.com](https://llvm-compile-time-tracker.com/) | kw: web
+
 - **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation) | kw: web-search
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: web-search
 - **2026-07-02** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: web-search

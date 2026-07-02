@@ -3619,6 +3619,8 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [5 System Information Tools in Windows 11 - The Windows Club](https://www.thewindowsclub.com/system-information-tool-msinfo32) | kw: web
+
 - **2026-07-02** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: web-search
 - **2026-07-02** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: web-search
 - **2026-07-02** | [System | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/system) | kw: web-search
