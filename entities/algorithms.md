@@ -4117,6 +4117,14 @@
 
 
 ## Updates
+- **2026-07-02** | [Namaste DSA Sheet | To Crack FAANG & PBC's Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: Namaste, DSA, Sheet, Crack, FAANG
+- **2026-07-02** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms ...](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: Ultimate, Leetcode, Roadmap, Data, Structures
+- **2026-07-02** | [2026 DSA Master Cheat Sheet for Coding Interviews - LinkedIn](https://www.linkedin.com/posts/veerendra-manvi_dsa-datastructures-algorithms-activity-7476243600125882368-Kr9Z) | kw: DSA, Master, Cheat, Sheet, Coding
+- **2026-07-02** | [LeetCode - The World's Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) | kw: Leet, Code, World, Leading, Programming
+- **2026-07-02** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: How, prepare, Data, Structures, Algorithms
+- **2026-07-02** | [algorithms-datastructures · GitHub Topics · GitHub](https://github.com/topics/algorithms-datastructures) | kw: algorithms, datastructures, Git, Hub, Topics
+- **2026-07-02** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: Leetcode, data, structures, beginner, problems
+
 - **2026-07-02** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: algorithms
 - **2026-07-02** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms... - Medium](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: algorithms
 - **2026-07-02** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: algorithms

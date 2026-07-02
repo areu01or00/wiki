@@ -41,6 +41,13 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Type system | ty - Astral Docs](https://docs.astral.sh/ty/features/type-system/) | kw: Type, system, Astral, Docs
+- **2026-07-02** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating, Language, Labyrinth, Matrix, Analysis
+- **2026-07-02** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: Con, Typing, Summit, Recap, Bernat
+- **2026-07-02** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient, Selection, Type, Annotations, Performance
+- **2026-07-02** | [Enhancing Deep Type Inference Using Dynamic Analysis for Python](https://dl.acm.org/doi/10.1145/3771544) | kw: Enhancing, Deep, Type, Inference, Using
+- **2026-07-02** | [Elixir 1.20 Gradual Typing: No Annotations, Real Bug Catches](https://byteiota.com/elixir-1-20-gradual-typing-no-annotations/) | kw: Elixir, Gradual, Typing, Annotations, Real
+
 - **2026-07-02** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: type-systems
 
 - **2026-07-02** | [Efficient Selection of Type Annotations for Performance Improvement in ...](https://programming-journal.org/2026/11/3/) | kw: type-systems

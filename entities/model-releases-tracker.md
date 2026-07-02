@@ -450,3 +450,38 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 | vakyam-ai | Vakyam AI Raaga V1 | Vakyam AI Raaga V1 new model release speech TTS voice | c130-20260701 |
 | nvidia-research | NVIDIA Research | NVIDIA Nemotron TwoTower new model release LLM open weights | 20260701_213225 |
 | factory-ai | FactoryAI | FactoryAI Droid Shield new model release agent safety weights | 20260701_213225 |
+
+
+## Recent Releases
+
+🔵 **[LongCat-2.0 released June 30 2026 - 1.6T parameter open-source MoE](https://ai-tldr.dev/releases/meituan-longcat-2-0/)**
+> Meituan agentic coding model with MIT license.
+<div style="text-align:right"><em>Score:95</em> · <em>Category:code</em> · <em>Added:2026-07-02</em> · <em>Hash:#1223d95af6492914</em></div>
+
+🟢 **[Kimi K2.6: 1T MoE Open Weights released April 20 2026](https://codersera.com/blog/kimi-k2-6-complete-guide-2026/)**
+> Moonshot AI flagship open-weights model 1T-parameter MoE 32B active per token.
+<div style="text-align:right"><em>Score:90</em> · <em>Category:open-weights</em> · <em>Added:2026-07-02</em> · <em>Hash:#32e7eb70b7636e33</em></div>
+
+🟢 **[Kimi K2.6 released April 20 2026 open-weight](https://codersera.com/blog/kimi-k2-6-complete-guide-2026/)**
+> Moonshot AI 1T MoE open-weights model.
+<div style="text-align:right"><em>Score:90</em> · <em>Category:open-weights</em> · <em>Added:2026-07-02</em> · <em>Hash:#538eb33822abcb7b</em></div>
+
+🔵 **[Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/)**
+> MIT licensed open weights model from DeepReinforce released June 26 2026.
+<div style="text-align:right"><em>Score:85</em> · <em>Category:code</em> · <em>Added:2026-07-02</em> · <em>Hash:#0205e99d42ff7536</em></div>
+
+🟢 **[Agents-A1 35B MoE released InternScience Shanghai AI Lab](https://internscience.github.io/Agents-A1/)**
+> Agentic model for real agent workflows Apache 2.0 on Hugging Face.
+<div style="text-align:right"><em>Score:85</em> · <em>Category:open-weights</em> · <em>Added:2026-07-02</em> · <em>Hash:#015ae22f2078cf4c</em></div>
+
+🟢 **[Llama 5 launched April 8 2026 with staged weight release](https://theplanettools.ai/tools/llama-5)**
+> Meta open weights frontier model rated 8.0/10.
+<div style="text-align:right"><em>Score:80</em> · <em>Category:open-weights</em> · <em>Added:2026-07-02</em> · <em>Hash:#f7f216ec411e1803</em></div>
+
+🔵 **[LongCat-2.0 SWE-bench Pro score 59.5](https://ai-tldr.dev/releases/meituan-longcat-2-0/)**
+> 1.6T parameter open-source MoE for agentic coding.
+<div style="text-align:right"><em>Score:80</em> · <em>Category:code</em> · <em>Added:2026-07-02</em> · <em>Hash:#4bd0c729aee486d0</em></div>
+
+🔵 **[Ornith-1.0 DeepReinforce open-source coding model MIT license](https://simonwillison.net/2026/Jun/29/ornith/)**
+> First model from DeepReinforce, MIT licensed open weights for agentic coding.
+<div style="text-align:right"><em>Score:75</em> · <em>Category:code</em> · <em>Added:2026-07-02</em> · <em>Hash:#53f1a110283d7c88</em></div>

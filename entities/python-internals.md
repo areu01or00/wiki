@@ -3943,6 +3943,14 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: Internals, Python, Derive, Maximum, Code
+- **2026-07-02** | [How to fix Stop code Memory management error - YouTube](https://www.youtube.com/watch?v=zaKOAbNeWiE) | kw: How, fix, Stop, code, Memory
+- **2026-07-02** | [MEMORY_MANAGEMENT error in Windows 10/11](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: MEMORY, MANAGEMENT, error, Windows
+- **2026-07-02** | [Python Internals For Developers - eBooks Review](https://ardhindie.com/pdf/python-internals-for-developers) | kw: Python, Internals, Developers, Books, Review
+- **2026-07-02** | [How to pass Python interviews](https://www.linkedin.com/posts/coderrange_coderrange-pythoninterview-pythonjobs-activity-7342096982506688512-7QsR) | kw: How, pass, Python, interviews
+- **2026-07-02** | [Python Developer REST APIs at Worx-ai | Django Job Board](https://djangojobboard.com/626/python-developer-rest-apis-worx-ai/) | kw: Python, Developer, REST, API, Worx
+- **2026-07-02** | [Memory Management in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/operating-systems/memory-management-in-operating-systems/) | kw: Memory, Management, Operating, System, Geeksfor
+
 - **2026-07-02** | [Python in 2026: Free-Threading and UV Change Everything - Medium](https://medium.com/@kenancan.dev/python-in-2026-free-threading-and-uv-change-everything-548c19b170aa) | kw: python-internals
 - **2026-07-02** | [Memory Management — Python 3.14.6 documentation](https://docs.python.org/3/c-api/memory.html) | kw: python-internals
 - **2026-07-02** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python-internals
