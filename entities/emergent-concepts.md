@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 319: DEEP-SUB-CLUSTER — CASE-BASED CALIBRATION / REASONING EFFICIENCY DECOMPOSITION / NEURAL REPRESENTATION GEOMETRY
+
+- [[case-based-calibration-adaptive-reasoning-execution-llm-tool-use-2605.15041]] — [Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use](https://arxiv.org/abs/2605.15041) — Pang, Renning; Lan, Tian; Liu, Leyuan + 3 — CAST framework uses historical tool-use cases as calibration substrate for balancing reasoning depth with structural validity; +5.85pp BFCLv2, -26% reasoning length. **First case-based calibration framework for LLM tool-use reasoning depth in the wiki.**
+
+- [[beyond-accuracy-decomposing-reasoning-efficiency-llms-2602.09805]] — [Beyond Accuracy: Decomposing the Reasoning Efficiency of LLMs](https://arxiv.org/abs/2602.09805) — Kaiser, Daniel; Frigessi, Arnoldo; Ramezani-Kebrya, Ali + 1 — trace-optional framework decomposing reasoning efficiency into logic-limited, context-limited, and verbosity-limited failure modes; stability advantage over accuracy rankings. **First failure-mode decomposition taxonomy for LLM reasoning efficiency in the wiki.**
+
+- [[beyond-activation-alignment-geometry-neural-sensitivity-2605.03222]] — [Beyond Activation Alignment: The Geometry of Neural Sensitivity](https://arxiv.org/abs/2605.03222) — Yavari, Amirhossein; Esfahlani, Farnaz Zamani — theoretical reinterpretation showing RSA/CCA/CKA primarily measure neural sensitivity rather than representational geometry; establishes geometry-sensitivity unification framework. **First geometric-sensitivity unification framework for neural representation analysis in the wiki.**
+
 ### 2026-07-02 — Run 318: DEEP-SUB-CLUSTER — CONFORMAL RISK CERTIFICATION / INFERENCE-TIME REWARD HACKING / TOKENIZATION SCALING LAWS
 
 - [[when-can-conformal-risk-control-certify-llm-outputs-2606.29054]] — [When Can Conformal Risk Control Certify LLM Outputs?](https://arxiv.org/abs/2606.29054) — Kotte, Varun — formal PAC-style coverage guarantees for LLM structured generation; identifies impossibility conditions when LLM calibration is simultaneously overconfident and task loss is non-decomposable; adaptive CRC variants recover coverage under distribution shift. **First conformal-risk-control-formal-guarantee paper in the wiki.**

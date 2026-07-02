@@ -9259,6 +9259,33 @@
       "theme": "tokenization / architecture / scaling-laws",
       "chain": "emergent-concepts",
       "date": "2026-05-02"
+    },
+    {
+      "arxiv_id": "2605.15041",
+      "slug": "case-based-calibration-adaptive-reasoning-execution-llm-tool-use-2605.15041",
+      "title": "Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use",
+      "url": "https://arxiv.org/abs/2605.15041",
+      "vector": "DEEP-SUB-CLUSTER: case-based calibration / reasoning efficiency / neural representation geometry",
+      "discovered": "2026-07-02T14:00:00+00:00",
+      "theme": "DEEP-SUB-CLUSTER: case-based calibration / reasoning efficiency decomposition / neural representation geometry"
+    },
+    {
+      "arxiv_id": "2602.09805",
+      "slug": "beyond-accuracy-decomposing-reasoning-efficiency-llms-2602.09805",
+      "title": "Beyond Accuracy: Decomposing the Reasoning Efficiency of LLMs",
+      "url": "https://arxiv.org/abs/2602.09805",
+      "vector": "DEEP-SUB-CLUSTER: case-based calibration / reasoning efficiency / neural representation geometry",
+      "discovered": "2026-07-02T14:00:00+00:00",
+      "theme": "DEEP-SUB-CLUSTER: case-based calibration / reasoning efficiency decomposition / neural representation geometry"
+    },
+    {
+      "arxiv_id": "2605.03222",
+      "slug": "beyond-activation-alignment-geometry-neural-sensitivity-2605.03222",
+      "title": "Beyond Activation Alignment: The Geometry of Neural Sensitivity",
+      "url": "https://arxiv.org/abs/2605.03222",
+      "vector": "DEEP-SUB-CLUSTER: case-based calibration / reasoning efficiency / neural representation geometry",
+      "discovered": "2026-07-02T14:00:00+00:00",
+      "theme": "DEEP-SUB-CLUSTER: case-based calibration / reasoning efficiency decomposition / neural representation geometry"
     }
   ],
   "emergent_discoveries": [
@@ -16325,6 +16352,30 @@
       "url": "https://arxiv.org/abs/2605.01188",
       "discovered": "2026-07-02T13:30:00.000000+00:00",
       "theme": "tokenization / architecture / scaling-laws"
+    },
+    {
+      "arxiv_id": "2605.15041",
+      "title": "Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use",
+      "slug": "case-based-calibration-adaptive-reasoning-execution-llm-tool-use-2605.15041",
+      "url": "https://arxiv.org/abs/2605.15041",
+      "discovered": "2026-07-02T14:00:00+00:00",
+      "theme": "case-based calibration (tool-use reasoning depth)"
+    },
+    {
+      "arxiv_id": "2602.09805",
+      "title": "Beyond Accuracy: Decomposing the Reasoning Efficiency of LLMs",
+      "slug": "beyond-accuracy-decomposing-reasoning-efficiency-llms-2602.09805",
+      "url": "https://arxiv.org/abs/2602.09805",
+      "discovered": "2026-07-02T14:00:00+00:00",
+      "theme": "reasoning efficiency failure-mode decomposition"
+    },
+    {
+      "arxiv_id": "2605.03222",
+      "title": "Beyond Activation Alignment: The Geometry of Neural Sensitivity",
+      "slug": "beyond-activation-alignment-geometry-neural-sensitivity-2605.03222",
+      "url": "https://arxiv.org/abs/2605.03222",
+      "discovered": "2026-07-02T14:00:00+00:00",
+      "theme": "neural representation geometry vs sensitivity"
     }
   ],
   "emergent_concept_search_log": [
@@ -19320,6 +19371,17 @@
       "date": "2026-07-02",
       "count": 3,
       "theme": "NARRATIVE-SAFETY / UNCERTAINTY-AWARE RANKING / FUTURE-AWARE GUARDRAILS"
+    },
+    {
+      "run": 319,
+      "date": "2026-07-02T14:00:00+00:00",
+      "theme": "DEEP-SUB-CLUSTER: case-based calibration / reasoning efficiency decomposition / neural representation geometry",
+      "picks": [
+        "2605.15041",
+        "2602.09805",
+        "2605.03222"
+      ],
+      "method": "HF daily + web_search 4-query escape hatch"
     }
   ],
   "runs": [
@@ -21380,6 +21442,18 @@
         "2605.01188"
       ],
       "method": "HF daily 3 dates (84 papers, CV/3D-heavy) \u2192 Rule 15d escape hatch \u2192 web_search deep-sub-cluster 3-query \u2192 11 fresh candidates \u2192 3 orthogonal picks",
+      "added": 3
+    },
+    {
+      "run": 319,
+      "date": "2026-07-02T14:00:00+00:00",
+      "theme": "DEEP-SUB-CLUSTER: case-based calibration / reasoning efficiency decomposition / neural representation geometry",
+      "picks": [
+        "2605.15041",
+        "2602.09805",
+        "2605.03222"
+      ],
+      "method": "HF daily 3 dates (113 papers, CV/3D-heavy) \u2192 Rule 15d escape hatch \u2192 web_search 4-query \u2192 4 fresh candidates \u2192 3 structurally orthogonal picks (case-based calibration / reasoning efficiency decomposition / neural representation geometry)",
       "added": 3
     }
   ],

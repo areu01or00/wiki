@@ -1882,7 +1882,10 @@
         "2606.09068",
         "2606.29054",
         "2506.19248",
-        "2605.01188"
+        "2605.01188",
+        "2605.15041",
+        "2602.09805",
+        "2605.03222"
       ],
       "last_results": [
         {
@@ -7455,6 +7458,45 @@
           "online_date": "2026-05-02",
           "run_number": 318,
           "margin": 0.0
+        },
+        {
+          "arxiv_id": "2605.15041",
+          "title": "Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use",
+          "hash": "2605.15041",
+          "vector": "DEEP-SUB-CLUSTER",
+          "chain": "emergent-concepts",
+          "theme": "DEEP-SUB-CLUSTER",
+          "discovered": "2026-07-02T14:00:00+00:00",
+          "slug": "case-based-calibration-adaptive-reasoning-execution-llm-tool-use-2605.15041",
+          "online_date": "2026-05-14",
+          "run_number": 319,
+          "margin": 0
+        },
+        {
+          "arxiv_id": "2602.09805",
+          "title": "Beyond Accuracy: Decomposing the Reasoning Efficiency of LLMs",
+          "hash": "2602.09805",
+          "vector": "DEEP-SUB-CLUSTER",
+          "chain": "emergent-concepts",
+          "theme": "DEEP-SUB-CLUSTER",
+          "discovered": "2026-07-02T14:00:00+00:00",
+          "slug": "beyond-accuracy-decomposing-reasoning-efficiency-llms-2602.09805",
+          "online_date": "2026-02-10",
+          "run_number": 319,
+          "margin": 0
+        },
+        {
+          "arxiv_id": "2605.03222",
+          "title": "Beyond Activation Alignment: The Geometry of Neural Sensitivity",
+          "hash": "2605.03222",
+          "vector": "DEEP-SUB-CLUSTER",
+          "chain": "emergent-concepts",
+          "theme": "DEEP-SUB-CLUSTER",
+          "discovered": "2026-07-02T14:00:00+00:00",
+          "slug": "beyond-activation-alignment-geometry-neural-sensitivity-2605.03222",
+          "online_date": "2026-05-04",
+          "run_number": 319,
+          "margin": 0
         }
       ],
       "last_run": "2026-07-01T21:33:57.787677+00:00",
@@ -8476,7 +8518,10 @@
     "2606.09068",
     "2606.29054",
     "2506.19248",
-    "2605.01188"
+    "2605.01188",
+    "2605.15041",
+    "2602.09805",
+    "2605.03222"
   ],
   "last_discovery": "2026-06-29T13:30:00+00:00",
   "last_updated": "2026-07-01 02:04 UTC",
@@ -9458,7 +9503,10 @@
       "2606.09068",
       "2606.29054",
       "2506.19248",
-      "2605.01188"
+      "2605.01188",
+      "2605.15041",
+      "2602.09805",
+      "2605.03222"
     ],
     "last_discovery": "2026-06-29T10:29:45+00:00",
     "last_run": "2026-07-02 00:00 UTC",
@@ -9712,6 +9760,33 @@
       "discovered": "2026-07-02T13:30:00.000000+00:00",
       "online_date": "2026-06-28",
       "run_number": 317
+    },
+    {
+      "arxiv_id": "2605.15041",
+      "title": "Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use",
+      "hash": "2605.15041",
+      "vector": "DEEP-SUB-CLUSTER",
+      "chain": "emergent-concepts",
+      "theme": "DEEP-SUB-CLUSTER",
+      "discovered": "2026-07-02T14:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2602.09805",
+      "title": "Beyond Accuracy: Decomposing the Reasoning Efficiency of LLMs",
+      "hash": "2602.09805",
+      "vector": "DEEP-SUB-CLUSTER",
+      "chain": "emergent-concepts",
+      "theme": "DEEP-SUB-CLUSTER",
+      "discovered": "2026-07-02T14:00:00+00:00"
+    },
+    {
+      "arxiv_id": "2605.03222",
+      "title": "Beyond Activation Alignment: The Geometry of Neural Sensitivity",
+      "hash": "2605.03222",
+      "vector": "DEEP-SUB-CLUSTER",
+      "chain": "emergent-concepts",
+      "theme": "DEEP-SUB-CLUSTER",
+      "discovered": "2026-07-02T14:00:00+00:00"
     }
   ],
   "last_run_framing": "Run 102 \u2014 INVARIANCE-UNDER-PROMPT-PERTURBATION-PROBE per Rule 69 \u2014 FOL-derived-metamorphic-invariance-for-reasoning-reliability + closed-system-faithfulness-information-theoretic-bound-on-multi-step-reasoning + overlap-bias-LLM-judge-invariance",
