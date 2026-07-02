@@ -18,7 +18,15 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
-### 2026-07-02 — Run 331: SPEEDUP PARADOX / BADGER AGENTIC BENCHMARK / TIMESAGE-MT MULTI-TURN REASONING
+### 2026-07-02 — Run 332: SECURITY-FIDELITY TRADEOFF / FLEXISLM DYNAMIC FRAME RATE / CROSS-LINGUAL RELATION EXTRACTION
+
+1. **[Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense](https://arxiv.org/abs/2606.30783)** — Hermon, Mitchell; Gupta, Rahul; Ruan, Weitong + 2 — identifies a fundamental security-fidelity tradeoff in prompt injection defense: suppressing untrusted text (for security) corrupts tasks that must preserve it (translation, document editing). Across 1,168 examples and 48 configurations, no model or defense achieves both high security and high fidelity. Decision-theoretic analysis shows the correct behavior depends on deployment context, not the defense alone. **First security-fidelity tradeoff benchmark for prompt injection in the wiki.**
+
+2. **[FlexiSLM: A Dynamic and Controllable Frame Rate Spoken Language Model](https://arxiv.org/abs/2606.31247)** — Li, Jiaqi; Wang, Chaoren; Tian, Xiaohai + 9 — first SLM supporting dynamic and controllable frame rates on both speech input and output. FlexiSLM applies dynamic frame rate speech coding to SLMs, enabling inference-time quality/speed tradeoffs. Outperforms Qwen2.5-Omni and Kimi-Audio at high-quality operating points; at 6.25 Hz roughly halves inference time vs 12.5 Hz while retaining quality. **First dynamic-frame-rate SLM with controllable quality/speed tradeoff in the wiki.**
+
+3. **[Cross-lingual Relation Extraction with Large Language Models: Zero-Shot, Few-Shot, and Fine-Tuned Evaluation on Romanian](https://arxiv.org/abs/2606.31718)** — Vasile, Dragos-Mitrut; Apostol, Elena-Simona; Toma, Stefan-Adrian + 2 — comprehensive study of cross-lingual RE for Romanian (low-resource language) using Gemma 4 31B. QLoRA fine-tuning closes the cross-lingual gap from 3.3pp to 1.4pp. A 125M Romanian BERT matches the 31B Gemma on Romanian RE, challenging the case for large models on single-task low-resource RE. **First cross-lingual RE study for Romanian with LLM fine-tuning evaluation in the wiki.**
+
+### 2026-07-02 — Run 331: SPEEDUP PARADOX
 
 1. **[The Speedup Paradox: Rethinking Inference Speed-Quality Trade-off in Embodied Tasks](https://arxiv.org/abs/2606.28529)** — Wang, Yujin; Chen, Junli; Li, Yixuan + 4 — systematic analysis of when lossy efficient-inference techniques (quantization, pruning) help vs. hurt embodied agent tasks where per-step degradation compounds across trajectories. **First speedup-paradox analysis for embodied LLM agents in the wiki.**
 

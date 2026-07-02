@@ -9604,6 +9604,36 @@
       "theme": "inference-efficiency-agent-eval-benchmarking",
       "discovered": "2026-07-02T16:00:00+00:00",
       "run_number": 331
+    },
+    {
+      "arxiv_id": "2606.30783",
+      "slug": "security-fidelity-tradeoffs-hidden-cost-prompt-injection-defense-2606.30783",
+      "title": "Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense",
+      "url": "https://arxiv.org/abs/2606.30783",
+      "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "discovered": "2026-07-02T17:15:00+00:00",
+      "theme": "safety + speech + cross-lingual"
+    },
+    {
+      "arxiv_id": "2606.31247",
+      "slug": "flexislm-dynamic-controllable-frame-rate-spoken-language-model-2606.31247",
+      "title": "FlexiSLM: A Dynamic and Controllable Frame Rate Spoken Language Model",
+      "url": "https://arxiv.org/abs/2606.31247",
+      "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "discovered": "2026-07-02T17:15:00+00:00",
+      "theme": "safety + speech + cross-lingual"
+    },
+    {
+      "arxiv_id": "2606.31718",
+      "slug": "cross-lingual-relation-extraction-llm-zero-shot-few-shot-fine-tuned-romanian-2606.31718",
+      "title": "Cross-lingual Relation Extraction with Large Language Models: Zero-Shot, Few-Shot, and Fine-Tuned Evaluation on Romanian",
+      "url": "https://arxiv.org/abs/2606.31718",
+      "vector": "emergent-concept",
+      "chain": "emergent-concepts",
+      "discovered": "2026-07-02T17:15:00+00:00",
+      "theme": "safety + speech + cross-lingual"
     }
   ],
   "emergent_discoveries": [
@@ -16940,6 +16970,30 @@
       "url": "https://arxiv.org/abs/2606.01498",
       "discovered": "2026-07-02T16:00:00+00:00",
       "theme": "inference-efficiency-agent-eval-benchmarking"
+    },
+    {
+      "arxiv_id": "2606.30783",
+      "title": "Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense",
+      "slug": "security-fidelity-tradeoffs-hidden-cost-prompt-injection-defense-2606.30783",
+      "url": "https://arxiv.org/abs/2606.30783",
+      "discovered": "2026-07-02T17:15:00+00:00",
+      "theme": "safety + speech + cross-lingual"
+    },
+    {
+      "arxiv_id": "2606.31247",
+      "title": "FlexiSLM: A Dynamic and Controllable Frame Rate Spoken Language Model",
+      "slug": "flexislm-dynamic-controllable-frame-rate-spoken-language-model-2606.31247",
+      "url": "https://arxiv.org/abs/2606.31247",
+      "discovered": "2026-07-02T17:15:00+00:00",
+      "theme": "safety + speech + cross-lingual"
+    },
+    {
+      "arxiv_id": "2606.31718",
+      "title": "Cross-lingual Relation Extraction with Large Language Models: Zero-Shot, Few-Shot, and Fine-Tuned Evaluation on Romanian",
+      "slug": "cross-lingual-relation-extraction-llm-zero-shot-few-shot-fine-tuned-romanian-2606.31718",
+      "url": "https://arxiv.org/abs/2606.31718",
+      "discovered": "2026-07-02T17:15:00+00:00",
+      "theme": "safety + speech + cross-lingual"
     }
   ],
   "emergent_concept_search_log": [
@@ -22174,6 +22228,18 @@
         "2606.01498"
       ],
       "method": "HF daily thin \u2192 web_search primary \u2192 3 orthogonal picks",
+      "added": 3
+    },
+    {
+      "run": 332,
+      "date": "2026-07-02T17:15:00+00:00",
+      "theme": "security-fidelity-tradeoff-safety + dynamic-frame-rate-speech-llm + cross-lingual-re",
+      "picks": [
+        "2606.30783",
+        "2606.31247",
+        "2606.31718"
+      ],
+      "method": "HF daily thin (3 dates, CV/3D-heavy) + arxiv HTML 4-query search primary; 3 orthogonal picks",
       "added": 3
     }
   ],
