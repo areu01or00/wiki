@@ -2,14 +2,14 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-02T16:00:00.000000+00:00",
-  "__last_updated": "2026-07-02T16:00:00.000000+00:00",
-  "last_run": 335,
-  "last_explore": "2026-07-02T05:29:26.128866+00:00",
-  "last_global_explore": "2026-07-02T05:29:26.128866+00:00",
-  "last_discovery": "HF daily 3 dates (101 papers) + 7 fresh from web_search",
-  "last_run_framing": "HF thin (10 LLM-keyword candidates) + web_search escape hatch: calibration + agentic memory + red-teaming survey",
-  "last_framing": "DEEP-SUB-CLUSTER: calibration-state confidence + memory-sycophancy benchmark + red-teaming taxonomy survey",
+  "updated": "2026-07-02T06:04:05.000000+00:00",
+  "__last_updated": "2026-07-02T06:04:05.000000+00:00",
+  "last_run": 337,
+  "last_explore": "2026-07-02T06:04:05.%f+00:00",
+  "last_global_explore": "2026-07-02T06:04:05.%f+00:00",
+  "last_discovery": "HF daily 4 dates (130 papers, 42 fresh) + arxiv HTML 4-query (192 IDs, 7 fresh LLM)",
+  "last_run_framing": "HF CV/3D-heavy + arxiv HTML search: vehicle routing + human-in-the-loop agentic + agricultural multi-agent",
+  "last_framing": "VEHICLE ROUTING / HUMAN-IN-THE-LOOP AGENTIC / AGRICULTURAL MULTI-AGENT",
   "last_run_notes": "Run 335: 2606.24281, 2607.01071, 2410.09097",
   "last_pass_type": "emergent-concept",
   "last_run_method": "HF daily 3 dates (98 papers) + 5 fresh LLM from HF + web_search 5-query + 6 fresh web_search candidates",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "reasoning-efficiency / safety-mechanisms / representation-geometry",
   "emergent_theme": "HF-only discovery (no web_search escape hatch needed)",
   "chains_updated": 0,
-  "entities_count": 1018,
+  "entities_count": 1021,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9748,6 +9748,33 @@
       "theme": "red-teaming / safety taxonomy",
       "discovered": "2026-07-02T05:29:26.128866+00:00",
       "date": "2024-10-09"
+    },
+    {
+      "arxiv_id": "2607.00604",
+      "slug": "vehicle-routing-problem-meets-large-language-models-an-overview-and-perspectives-2607.00604",
+      "title": "Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives",
+      "url": "https://arxiv.org/abs/2607.00604",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T06:04:05.%f+00:00",
+      "theme": "llm-applications / optimization / planning / multi-agent"
+    },
+    {
+      "arxiv_id": "2606.26614",
+      "slug": "hilsva-design-and-evaluation-of-a-human-in-the-loop-agentic-system-for-scientific-visualization-2606.26614",
+      "title": "HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization",
+      "url": "https://arxiv.org/abs/2606.26614",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T06:04:05.%f+00:00",
+      "theme": "llm-agents / human-in-the-loop / scientific-visualization / agentic-systems"
+    },
+    {
+      "arxiv_id": "2607.00454",
+      "slug": "agri-sage-simulation-grounded-multi-agent-llm-for-context-aware-agricultural-advisory-generation-2607.00454",
+      "title": "Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation",
+      "url": "https://arxiv.org/abs/2607.00454",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T06:04:05.%f+00:00",
+      "theme": "multi-agent-llm / domain-specific-llm / simulation / agricultural-ai"
     }
   ],
   "emergent_discoveries": [
@@ -17180,6 +17207,30 @@
       "url": "https://arxiv.org/abs/2410.09097",
       "discovered": "2026-07-02T05:29:26.128866+00:00",
       "theme": "red-teaming / safety taxonomy"
+    },
+    {
+      "arxiv_id": "2607.00604",
+      "title": "Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives",
+      "slug": "vehicle-routing-problem-meets-large-language-models-an-overview-and-perspectives-2607.00604",
+      "url": "https://arxiv.org/abs/2607.00604",
+      "discovered": "2026-07-02T06:04:05.%f+00:00",
+      "theme": "llm-applications / optimization / planning / multi-agent"
+    },
+    {
+      "arxiv_id": "2606.26614",
+      "title": "HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization",
+      "slug": "hilsva-design-and-evaluation-of-a-human-in-the-loop-agentic-system-for-scientific-visualization-2606.26614",
+      "url": "https://arxiv.org/abs/2606.26614",
+      "discovered": "2026-07-02T06:04:05.%f+00:00",
+      "theme": "llm-agents / human-in-the-loop / scientific-visualization / agentic-systems"
+    },
+    {
+      "arxiv_id": "2607.00454",
+      "title": "Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation",
+      "slug": "agri-sage-simulation-grounded-multi-agent-llm-for-context-aware-agricultural-advisory-generation-2607.00454",
+      "url": "https://arxiv.org/abs/2607.00454",
+      "discovered": "2026-07-02T06:04:05.%f+00:00",
+      "theme": "multi-agent-llm / domain-specific-llm / simulation / agricultural-ai"
     }
   ],
   "emergent_concept_search_log": [
@@ -22462,6 +22513,18 @@
         "2410.09097"
       ],
       "method": "HF daily 3 dates (101 papers) + web_search 5-query escape hatch",
+      "added": 3
+    },
+    {
+      "run": 337,
+      "date": "2026-07-02T06:04:05.%f+00:00",
+      "theme": "vehicle routing / human-in-the-loop agentic / agricultural multi-agent",
+      "picks": [
+        "2607.00604",
+        "2606.26614",
+        "2607.00454"
+      ],
+      "method": "HF daily 4 dates (130 papers, 42 fresh) + arxiv HTML 4-query (192 IDs, 7 fresh LLM)",
       "added": 3
     }
   ],

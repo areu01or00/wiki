@@ -18,6 +18,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-02 — Run 337: VEHICLE ROUTING / HUMAN-IN-THE-LOOP AGENTIC / AGRICULTURAL MULTI-AGENT
+
+1. **[Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/abs/2607.00604)** — Xiu, Xianchao; Shen, Chong; Zhu, Yanjiao + 1 — Survey of LLM approaches to VRP (NP-hard combinatorial optimization in logistics), covering natural-language constraint specification, dynamic re-routing, and LLM strengths in multi-constraint optimization. **First vehicle-routing combinatorial optimization paper in the wiki.**
+
+2. **[HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization](https://arxiv.org/abs/2606.26614)** — Ai, Kuangshi; Do, Patrick Phuoc; Wang, Chaoli — Human-in-the-loop agentic architecture for SciVis that balances autonomy with human analytical control through structured intervention points. Outperforms fully-autonomous agents on transparency without sacrificing task performance. **First human-in-the-loop agentic scientific visualization system in the wiki.**
+
+3. **[Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation](https://arxiv.org/abs/2607.00454)** — Balasubramaniam, Vedant; Charan, Geetha; Patil, Manojkumar + 4 — Multi-agent LLM combining real-time agronomic data with simulation for dynamic, context-aware agricultural advisory. Bridges static rule-based guidelines with adaptive LLM recommendations. **First simulation-grounded multi-agent agricultural advisory system in the wiki.**
+
 ### 2026-07-02 — Run 336: STATE-PREDICTION DISENTANGLEMENT / PERCEPTION-REASONING DECOUPLING / MOBILE-MANIPULATION WAM
 
 1. **[The State-Prediction Separation Hypothesis](https://arxiv.org/abs/2607.01218)** — Monea, Giovanni; Godey, Nathan; Brantley, Kianté + 1 — Formulates and validates the hypothesis that disentangling a Transformer's dual roles (next-token prediction vs. state storage) into separate computation streams yields better data and compute efficiency. Improves validation loss and downstream task performance by 2-3 percentage points across scales. **First two-stream state-prediction-disentangled Transformer architecture in the wiki.**
