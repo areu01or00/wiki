@@ -4117,6 +4117,16 @@
 
 
 ## Updates
+- **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews - YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
+- **2026-07-02** | [data-structures GitHub Topics](https://github.com/topics/data-structures) | kw: algorithms
+- **2026-07-02** | [LeetCode - The Worlds Leading Online Programming Learning Platform](https://leetcode.com/) | kw: algorithms
+- **2026-07-02** | [Data Structures and Algorithms in Python: DSA Course - Udemy](https://www.udemy.com/course/python-data-structures-algorithms/) | kw: algorithms
+- **2026-07-02** | [datastructures-algorithms GitHub Topics](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms
+- **2026-07-02** | [Alternatives and detailed information of Datastructures Algorithms - GitPlanet](https://gitplanet.com/project/datastructures-algorithms) | kw: algorithms
+- **2026-07-02** | [Struggling with Data Structures and Algorithms? - Yo Motherboard](https://yomotherboard.com/question/struggling-with-data-structures-and-algorithms-heres-how-to-improve/) | kw: algorithms
+- **2026-07-02** | [Do we really need Leetcode (Data Structures & Algorithms)? - Kaggle](https://www.kaggle.com/discussions/questions-and-answers/225859) | kw: algorithms
+- **2026-07-02** | [50Days of DSA JavaScript Data Structures Algorithms LEETCODE - TechCracked](https://www.techcracked.com/2024/07/javascript-data-structures-algorithms.html) | kw: algorithms
+
 - **2026-07-02** | [leetcode · GitHub Topics · GitHub](https://github.com/topics/leetcode) | kw: leetcode GitHub Topics
 - **2026-07-02** | [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) | kw: LeetCode World's Leading
 - **2026-07-02** | [Alternatives and detailed information of Datastructures Algorithms](https://gitplanet.com/project/datastructures-algorithms) | kw: Alternatives detailed information

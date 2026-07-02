@@ -33,6 +33,9 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [2026 EuroLLVM Developers Meeting](https://llvm.org/devmtg/2026-04/) | kw: compilers
+- **2026-07-02** | [The LLVM Compiler Infrastructure Project OpenProjects](https://llvm.org/OpenProjects.html) | kw: compilers
+
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: LLVM Compiler Infrastructure
 - **2026-07-02** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: llvm considered unsuitable
 - **2026-07-02** | [A Minimal LLVM JIT example for LLVM-5 · GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff) | kw: Minimal LLVM example

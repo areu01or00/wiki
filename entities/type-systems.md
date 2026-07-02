@@ -41,6 +41,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type-systems
+- **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
+- **2026-07-02** | [Static vs Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
+- **2026-07-02** | [Static Analysis Mypy: Strict Typing Configurations 2026](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: type-systems
+- **2026-07-02** | [TypeScript: Static or Dynamic? The war is over.](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: type-systems
+- **2026-07-02** | [Duck Typing vs Type System (2026) | Nice Pick](https://nicepick.dev/compare/duck-typing-vs-type-system) | kw: type-systems
+- **2026-07-02** | [gradual-typing GitHub Topics](https://github.com/topics/gradual-typing) | kw: type-systems
+- **2026-07-02** | [TypeScript Gradual Typing | Compile N Run](https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/) | kw: type-systems
+- **2026-07-02** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb) | kw: type-systems
+
 - **2026-07-02** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of ...](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: Navigating Language Labyrinth:
 - **2026-07-02** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon Typing Summit
 - **2026-07-02** | [Efficient Selection of Type Annotations for Performance ... - arXiv](https://arxiv.org/pdf/2603.05649) | kw: Efficient Selection Type

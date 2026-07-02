@@ -31,6 +31,15 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [7 Best Free Haskell Courses for 2026 - Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: functional-programming
+- **2026-07-02** | [Monads and Monad-Like Patterns in Rust: Exploring Functional Patterns](https://softwarepatternslexicon.com/rust/functional-programming-patterns-in-rust/monads-and-monad-like-patterns-in-rust/) | kw: functional-programming
+- **2026-07-02** | [Monads and Effects | Bartosz Milewski Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: functional-programming
+- **2026-07-02** | [What Is a Monad in Functional Programming?](https://builtin.com/software-engineering-perspectives/monads) | kw: functional-programming
+- **2026-07-02** | [Monads: A Powerful Concept in Functional Programming](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: functional-programming
+- **2026-07-02** | [Monad (functional programming) - grokipedia](https://grokipedia.com/page/Monad_(functional_programming)) | kw: functional-programming
+- **2026-07-02** | [Stack Overflow - What is the difference between liftm and mapm in Haskell](https://stackoverflow.com/questions/5856709/what-is-the-difference-between-liftm-and-mapm-in-haskell) | kw: functional-programming
+- **2026-07-02** | [monad GitHub Topics](https://github.com/topics/monad) | kw: functional-programming
+
 - **2026-07-02** | [Functional (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)) | kw: Functional (mathematics) Wikipedia
 - **2026-07-02** | [FUNCTIONAL Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/functional) | kw: FUNCTIONAL Definition Meaning
 - **2026-07-02** | [FUNCTIONAL | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/functional) | kw: FUNCTIONAL English meaning
