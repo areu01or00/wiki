@@ -4117,6 +4117,28 @@
 
 
 ## Updates
+
+- **2026-07-02** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has ...](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: interviews
+
+- **2026-07-02** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: asked
+
+- **2026-07-02** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: prepare
+
+- **2026-07-02** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are ...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: leetcode
+
+- **2026-07-02** | [LeetCode Isn't Dead in 2026 — But It's No Longer Enough - Medium](https://medium.com/@the_atomic_architect/leetcode-isnt-dead-in-2026-but-it-s-no-longer-enough-fed7727d9d04) | kw: leetcode
+
+- **2026-07-02** | [Rethinking DSA for 2026 Interview Success - LinkedIn](https://www.linkedin.com/posts/prince-singh-314a65187_traditional-dsa-is-no-longer-enough-in-2026-activity-7407985653629730816-fZoT) | kw: rethinking
+
+- **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: structure
+
+- **2026-07-02** | [How to Pass Leetcode Interviews: The Ritual That Works](https://proandroiddev.com/how-to-pass-leetcode-interviews-the-ritual-that-works-a788ff2f4f27) | kw: leetcode
+
+- **2026-07-02** | [LeetCode - The World's Leading Online Programming Learning ...](https://leetcode.com/) | kw: leetcode
+
+- **2026-07-02** | [Top 100 DSA Interview Questions - Discuss - LeetCode](https://leetcode.com/discuss/post/4258631/Top-100-DSA-Interview-Questions/) | kw: interview
+
+
 - **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews - YouTube](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
 - **2026-07-02** | [data-structures GitHub Topics](https://github.com/topics/data-structures) | kw: algorithms
 - **2026-07-02** | [LeetCode - The Worlds Leading Online Programming Learning Platform](https://leetcode.com/) | kw: algorithms

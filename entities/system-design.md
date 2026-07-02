@@ -3619,6 +3619,24 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+
+- **2026-07-02** | [System - Wikipedia](https://en.wikipedia.org/wiki/System) | kw: system
+
+- **2026-07-02** | [System Design Interview Prep - Design Scalable Systems](https://www.eduverbose.io/courses/grokking-the-system-design-interview) | kw: system
+
+- **2026-07-02** | [SYSTEM Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/system) | kw: system
+
+- **2026-07-02** | [How to open System Properties in Control Panel in Windows 11](https://www.thewindowsclub.com/how-to-open-system-properties-in-windows-10) | kw: system
+
+- **2026-07-02** | [SYSTEM Synonyms: 90 Similar Words - Merriam-Webster](https://www.merriam-webster.com/thesaurus/system) | kw: system
+
+- **2026-07-02** | [System (2026) - IMDb](https://www.imdb.com/title/tt36201830/) | kw: system
+
+- **2026-07-02** | [Systeme.io - The only tool you need to launch your online...](https://systeme.io/) | kw: systeme.io
+
+- **2026-07-02** | [System - definition of system by The Free Dictionary](https://www.thefreedictionary.com/system) | kw: system
+
+
 - **2026-07-02** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: system-design
 - **2026-07-02** | [Modern Software Architecture Patterns That Scale In 2026 - UpCloud](https://upcloud.com/blog/modern-software-architecture-patterns-2026-scales-production/) | kw: system-design
 - **2026-07-02** | [A Guide to Large-Scale Distributed Systems (2026)](https://www.systemdesignhandbook.com/blog/large-scale-distributed-systems/) | kw: system-design

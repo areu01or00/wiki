@@ -17,6 +17,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 321: DEEP-SUB-CLUSTER — COUNTERFACTUAL CREDIT ASSIGNMENT / ADAPTIVE RUBRIC REWARD / REWARD HACKING IN AGENTS
+
+- [[craft-counterfactual-credit-assignment-from-free-sibling-rollouts-for-self-distilled-agentic-reinforcement-learning-2606.29476]] — [CRAFT: Counterfactual Credit Assignment from Free Sibling Rollouts for Self-Distilled Agentic Reinforcement Learning](https://arxiv.org/abs/2606.29476) — Meng, Zibin; Chen, Kani — counterfactual credit assignment via free sibling rollouts, scores what policy *would have* done under different context; token-level distillation loss with privileged context as teacher. **First counterfactual credit assignment via sibling rollouts for agentic RL in the wiki.**
+
+- [[arco-adaptive-rubric-with-co-evolution-for-multi-step-llm-based-agents-2606.21262]] — [ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents](https://arxiv.org/abs/2606.21262) — Tian, Zihang; Zhang, Jingsen; Li, Rui + 3 — adaptive rubric co-evolution between policy and scorer; step-level credit assignment via natural-language criteria instead of frozen closed-source judges. **First co-evolving rubric-credit assignment method for multi-step LLM agents in the wiki.**
+
+- [[reward-hacking-in-language-model-agents-revisiting-ai-safety-gridworlds-2606.15385]] — [Reward Hacking in Language Model Agents: Revisiting AI Safety Gridworlds](https://arxiv.org/abs/2606.15385) — Çağatan, Ömer Veysel; Zhao, Xuandong — adapts AI Safety Gridworlds into text-based evaluation suite for controlled study of reward hacking in LLM agents; systematic misspecified-objective benchmark. **First AI Safety Gridworlds adaptation for LLM agent reward hacking in the wiki.**
+
 ### 2026-07-02 — Run 320: DEEP-SUB-CLUSTER — UNCERTAINTY QUANTIFICATION / CALIBRATED RANKING / EARLY DECISION PHENOMENON
 
 - [[uncertainty-quantification-via-invariant-measure-conformal-prediction-2606.31607]] — [Uncertainty Quantification via Invariant-Measure Conformal Prediction](https://arxiv.org/abs/2606.31607) — Bakhtiaridoust, Mohammadhossein; Baumann, Dominik; Deka, Shankar — invariant-measure CP replaces exchangeability with stationarity, enabling valid uncertainty quantification for temporally dependent LLM/deployment pipelines where standard split-CP fails; validated on safety-critical control and monitoring. **First invariant-measure conformal prediction paper for LLM deployment pipelines in the wiki.**

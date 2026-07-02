@@ -3943,6 +3943,28 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: internals
+
+- **2026-07-02** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: python
+
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: internals
+
+- **2026-07-02** | [How to fix Stop code Memory management (0x1A) error in... - YouTube](https://www.youtube.com/watch?v=zaKOAbNeWiE) | kw: memory
+
+- **2026-07-02** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: python
+
+- **2026-07-02** | [MEMORY_MANAGEMENT (0x1A) в Windows 10/11: как исправить...](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: memory_management
+
+- **2026-07-02** | [How to pass Python interviews and get a ₹10 LPA job | LinkedIn](https://www.linkedin.com/posts/coderrange_coderrange-pythoninterview-pythonjobs-activity-7342096982506688512-7QsR) | kw: python
+
+- **2026-07-02** | [[PDF] Python Internals For Developers - eBooks Review](https://ardhindie.com/pdf/python-internals-for-developers) | kw: [pdf]
+
+- **2026-07-02** | [Part 4: Coding for Problem Solving | Agent Factory](https://agentfactory.panaversity.org/docs/Coding-for-Problem-Solving) | kw: coding
+
+- **2026-07-02** | [TestMem5 ошибка в тесте 0, 1, 2, 13, 14: расшифровка, желтый...](https://testmem5.su/oshibki/) | kw: testmem5
+
+
 - **2026-07-02** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python-internals
 - **2026-07-02** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: python-internals
 - **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance - Amazon](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: python-internals

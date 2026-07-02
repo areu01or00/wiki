@@ -2,24 +2,24 @@
   "version": 1,
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
-  "updated": "2026-07-02T08:00:00.000000+00:00",
-  "__last_updated": "2026-07-02T00:45:19.553897+00:00",
-  "last_run": 320,
+  "updated": "2026-07-02T01:06:37.289942+00:00",
+  "__last_updated": "2026-07-02T01:06:37.289942+00:00",
+  "last_run": 321,
   "last_explore": "2026-07-02T00:45:19.553920+00:00",
   "last_global_explore": "2026-07-02T00:45:19.553923+00:00",
-  "last_discovery": "DEEP-SUB-CLUSTER: invariant-measure conformal prediction / conformal Elo ranking / early decision phenomenon",
-  "last_run_framing": "DEEP-SUB-CLUSTER: invariant-measure conformal prediction + conformal Elo ranking + early decision phenomenon",
+  "last_discovery": "DEEP-SUB-CLUSTER: counterfactual credit assignment / adaptive rubric reward / reward hacking in agents",
+  "last_run_framing": "DEEP-SUB-CLUSTER: counterfactual credit assignment / adaptive rubric reward / reward hacking in agents",
   "last_framing": "DEEP-SUB-CLUSTER (Rule 36c)",
-  "last_run_notes": "Run 320: 2606.31607, 2606.13221, 2604.22266",
+  "last_run_notes": "Run 321: 2606.29476, 2606.21262, 2606.15385",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 3 dates (84 papers, CV/3D-heavy) \u2192 thin LLM pool \u2192 web_search deep-sub-cluster 3-query \u2192 11 fresh candidates \u2192 3 structurally orthogonal picks",
+  "last_run_method": "HF daily 3 dates (84 papers) \u2192 6 LLM-keyword filtered \u2192 thin pool \u2192 arxiv HTML 1-query \u2192 3 structurally orthogonal picks",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "reasoning-efficiency / safety-mechanisms / representation-geometry",
   "emergent_theme": "DEEP-SUB-CLUSTER: reasoning efficiency + safety mechanisms + representation geometry",
   "chains_updated": 0,
-  "entities_count": 970,
+  "entities_count": 976,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9313,6 +9313,36 @@
       "vector": "emergent_concept",
       "discovered": "2026-07-02T00:45:19.553935+00:00",
       "theme": "reasoning efficiency / early decision / chain-of-thought / inference optimization"
+    },
+    {
+      "arxiv_id": "2606.29476",
+      "slug": "craft-counterfactual-credit-assignment-from-free-sibling-rollouts-for-self-distilled-agentic-reinforcement-learning-2606.29476",
+      "title": "CRAFT: Counterfactual Credit Assignment from Free Sibling Rollouts for Self-Distilled Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.29476",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-02T01:06:37.289942+00:00",
+      "theme": "agentic-RL / counterfactual credit assignment / self-distillation",
+      "date": "2026/06/29"
+    },
+    {
+      "arxiv_id": "2606.21262",
+      "slug": "arco-adaptive-rubric-with-co-evolution-for-multi-step-llm-based-agents-2606.21262",
+      "title": "ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents",
+      "url": "https://arxiv.org/abs/2606.21262",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-02T01:06:37.289942+00:00",
+      "theme": "agentic-RL / rubric reward / credit assignment / multi-step planning",
+      "date": "2026/06/21"
+    },
+    {
+      "arxiv_id": "2606.15385",
+      "slug": "reward-hacking-in-language-model-agents-revisiting-ai-safety-gridworlds-2606.15385",
+      "title": "Reward Hacking in Language Model Agents: Revisiting AI Safety Gridworlds",
+      "url": "https://arxiv.org/abs/2606.15385",
+      "vector": "emergent_concept",
+      "discovered": "2026-07-02T01:06:37.289942+00:00",
+      "theme": "agentic-RL / reward hacking / safety / AI Safety Gridworlds",
+      "date": "2026/06/15"
     }
   ],
   "emergent_discoveries": [
@@ -16403,6 +16433,30 @@
       "url": "https://arxiv.org/abs/2605.03222",
       "discovered": "2026-07-02T14:00:00+00:00",
       "theme": "neural representation geometry vs sensitivity"
+    },
+    {
+      "arxiv_id": "2606.29476",
+      "title": "CRAFT: Counterfactual Credit Assignment from Free Sibling Rollouts for Self-Distilled Agentic Reinforcement Learning",
+      "slug": "craft-counterfactual-credit-assignment-from-free-sibling-rollouts-for-self-distilled-agentic-reinforcement-learning-2606.29476",
+      "url": "https://arxiv.org/abs/2606.29476",
+      "discovered": "2026-07-02T01:06:37.289942+00:00",
+      "theme": "agentic-RL / counterfactual credit assignment / self-distillation"
+    },
+    {
+      "arxiv_id": "2606.21262",
+      "title": "ARCO: Adaptive Rubric with Co-Evolution for Multi-Step LLM-Based Agents",
+      "slug": "arco-adaptive-rubric-with-co-evolution-for-multi-step-llm-based-agents-2606.21262",
+      "url": "https://arxiv.org/abs/2606.21262",
+      "discovered": "2026-07-02T01:06:37.289942+00:00",
+      "theme": "agentic-RL / rubric reward / credit assignment / multi-step planning"
+    },
+    {
+      "arxiv_id": "2606.15385",
+      "title": "Reward Hacking in Language Model Agents: Revisiting AI Safety Gridworlds",
+      "slug": "reward-hacking-in-language-model-agents-revisiting-ai-safety-gridworlds-2606.15385",
+      "url": "https://arxiv.org/abs/2606.15385",
+      "discovered": "2026-07-02T01:06:37.289942+00:00",
+      "theme": "agentic-RL / reward hacking / safety / AI Safety Gridworlds"
     }
   ],
   "emergent_concept_search_log": [
@@ -21494,12 +21548,24 @@
       ],
       "method": "HF daily 5 dates (174 papers) \u2192 CV/3D-heavy pool \u2192 Rule 15d escape hatch \u2192 web_search 3-query \u2192 11 fresh candidates \u2192 3 structurally orthogonal picks",
       "added": 3
+    },
+    {
+      "run": 321,
+      "date": "2026-07-02T01:06:37.289942+00:00",
+      "theme": "DEEP-SUB-CLUSTER: counterfactual credit assignment / adaptive rubric reward / reward hacking in agents",
+      "picks": [
+        "2606.29476",
+        "2606.21262",
+        "2606.15385"
+      ],
+      "method": "HF daily 3 dates (84 papers) \u2192 6 LLM-keyword filtered \u2192 thin pool \u2192 arxiv HTML 1-query (50 IDs, 15 fresh) \u2192 3 structurally orthogonal picks on agentic RL credit-assignment axis",
+      "added": 3
     }
   ],
-  "last_updated": "2026-06-29T22:30:05.048825+00:00",
-  "last_run_iso": "2026-06-29T22:30:05.048825+00:00",
-  "total_entity_count": 399,
-  "entity_files_added": 3,
+  "last_updated": "2026-07-02T01:06:37.289942+00:00",
+  "last_run_iso": "2026-07-02T01:06:37.289942+00:00",
+  "total_entity_count": 976,
+  "entity_files_added": 6,
   "pass_type": "emergent-concept",
   "emergent_discoveries_log": [
     {
@@ -21604,10 +21670,10 @@
   "last_watched": "2026-07-02T13:30:00.000000+00:00",
   "last_run_pitfalls": [],
   "last_run_theme": "INSTRUCTION-TUNING DATA SELECTION / LEGAL BENCHMARK GAP / TASK-SPECIFIC DISTILLATION SCALING",
-  "emergent_concept_papers_count": 770,
-  "emergent_discoveries_count": 792,
+  "emergent_concept_papers_count": 866,
+  "emergent_discoveries_count": 876,
   "last_run_picks_count": 3,
   "emergent_method": "HF daily 3 dates \u2192 thin LLM pool \u2192 arxiv HTML 4-query deep-sub-cluster",
   "last_run_timestamp": "2026-07-02T13:30:00.000000+00:00",
-  "emergent_discovery": "ONLINE-DATA-SELECTION / SCALING-LAWS-DISTILLATION / LEGAL-BENCHMARK-GAP"
+  "emergent_discovery": "DEEP-SUB-CLUSTER: counterfactual credit assignment / adaptive rubric reward / reward hacking in agents"
 }

@@ -41,6 +41,28 @@
 # Type Systems
 
 ## Updates
+
+- **2026-07-02** | [Learn to Type | Type Better | Type Faster - Typing.com](https://www.typing.com/) | kw: learn
+
+- **2026-07-02** | [Learn Touch Typing Free - TypingClub](http://www.typingclub.com/) | kw: learn
+
+- **2026-07-02** | [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/) | kw: monkeytype
+
+- **2026-07-02** | [TypingTest.com - Complete a Typing Test in 60 Seconds!](https://www.typingtest.com/) | kw: typingtest.com
+
+- **2026-07-02** | [TypeRacer - Play Typing Games and Race Friends](https://play.typeracer.com/) | kw: typeracer
+
+- **2026-07-02** | [Typing Lessons - Learn To Type And Improve Typing Speed Free - ...](https://www.typing.com/student/lessons) | kw: typing
+
+- **2026-07-02** | [Free Typing Test - Typing Speed Tests - Learn Your WPM - Typing...](https://www.typing.com/student/tests) | kw: typing
+
+- **2026-07-02** | [Nitro Type | Competitive Typing Game | Race Your Friends](https://www.nitrotype.com/) | kw: nitro
+
+- **2026-07-02** | [Typing Practice - TypingTest.com](https://www.typingtest.com/practice.php) | kw: typing
+
+- **2026-07-02** | [Typing Games - Learn to Type with Free Typing Games - Typing.com](https://www.typing.com/student/games) | kw: typing
+
+
 - **2026-07-02** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: type-systems
 - **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm Matrix](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: type-systems
 - **2026-07-02** | [Static vs Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: type-systems
