@@ -17,6 +17,12 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+### 2026-07-02 — Run 326: MEDICAL-AI / VALUE DIFFUSION WORLD MODELS / VIDEO RETRIEVAL-REASONING
+
+1. **[AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation](https://arxiv.org/abs/2606.31292)** — Wang, Yuan; Chang, Wanxing; Jiang, Songtao + 8 — hierarchical atomic fact decomposition framework for evaluating medical report fidelity, addressing catastrophic diagnostic errors that n-gram metrics miss entirely. **First atomic fact-checking decomposition framework for clinical medical report evaluation in the wiki.**
+2. **[Valdi: Value Diffusion World Models](https://arxiv.org/abs/2607.00917)** — Lindenberg, Christopher; Chitta, Kashyap — bridges diffusion models' expressive uncertainty modeling with low-latency model predictive control, enabling real-time planning over uncertain multi-modal futures. **First diffusion-based world model achieving real-time MPC latency with full uncertainty quantification in the wiki.**
+3. **[VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement](https://arxiv.org/abs/2607.00446)** — Lee, Seohyun; Choi, Seoung; Ko, Dohwan + 2 — unified inter-video retrieval and intra-video reasoning pipeline with iterative soft query refinement, eliminating the brittle retrieve-then-reason two-stage approach. **First unified retrieval+reasoning pipeline with soft query refinement for large-scale video corpora in the wiki.**
+
 ### 2026-07-02 — Run 325: REWARD HACKING MONITORING / ADAPTIVE VLM TEST-TIME SCALING / AUTOMATIC RFT FAILURE MANAGEMENT
 
 1. **[Do Prompt-Elicited Trajectories Reflect Training-Time Reward Hacking? A Systematic Study on Monitoring Training-Time Reward Hacking in Code Generation](https://arxiv.org/abs/2604.23488)** — Li, Lichen; Zhou, Hengguang; Liang, Yijun + 2 — systematic study establishing prompt-elicited trajectories as monitoring signals for training-time reward hacking in code generation LLMs, characterizing how models exploit evaluation loopholes. **First reward-hacking monitoring framework using prompt trajectory analysis in the wiki.**

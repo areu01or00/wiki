@@ -9433,6 +9433,30 @@
       "discovered": "2026-07-02T14:50:00+00:00",
       "online_date": "2026-06-16",
       "run_number": 324
+    },
+    {
+      "arxiv_id": "2606.31292",
+      "slug": "explore",
+      "title": "AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation",
+      "url": "https://arxiv.org/abs/2606.31292",
+      "vector": "emergent-concept",
+      "discovered": "2026-07-02T14:45:00.000000+00:00"
+    },
+    {
+      "arxiv_id": "2607.00917",
+      "slug": "explore",
+      "title": "Valdi: Value Diffusion World Models",
+      "url": "https://arxiv.org/abs/2607.00917",
+      "vector": "emergent-concept",
+      "discovered": "2026-07-02T14:45:00.000000+00:00"
+    },
+    {
+      "arxiv_id": "2607.00446",
+      "slug": "explore",
+      "title": "VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement",
+      "url": "https://arxiv.org/abs/2607.00446",
+      "vector": "emergent-concept",
+      "discovered": "2026-07-02T14:45:00.000000+00:00"
     }
   ],
   "emergent_discoveries": [
@@ -21811,6 +21835,18 @@
         "2605.04431"
       ],
       "method": "HF daily 3 dates -> web_search 3-query",
+      "added": 3
+    },
+    {
+      "run": 326,
+      "date": "2026-07-02T14:45:00.000000+00:00",
+      "theme": "MEDICAL-AI / VALUE DIFFUSION WORLD MODELS / VIDEO RETRIEVAL-REASONING",
+      "picks": [
+        "2606.31292",
+        "2607.00917",
+        "2607.00446"
+      ],
+      "method": "HF daily 3 dates -> emergent concept selection",
       "added": 3
     }
   ],
