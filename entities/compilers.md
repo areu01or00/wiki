@@ -33,6 +33,21 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit) | kw: Why
+
+- **2026-07-02** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120) | kw: Revolutionize
+
+- **2026-07-02** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/) | kw: Adventures
+
+- **2026-07-02** | [LLVM - PPT](https://www.slideshare.net/slideshow/llvm/252092) | kw: LLVM
+
+- **2026-07-02** | [Compiling to Object Code](https://iq.opengenus.org/compiling-to-object-code/) | kw: Compiling
+
+- **2026-07-02** | [A LLVM JIT Prototype for Running an Energy-Saving - Preprints.org](https://www.preprints.org/manuscript/202306.1834) | kw: A
+
+- **2026-07-02** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html) | kw: LLVM
+
+
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: the
 - **2026-07-02** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/) | kw: orcjit
 - **2026-07-02** | [2026 EuroLLVM Developers' Meeting](https://llvm.org/devmtg/2026-04/) | kw: 2026

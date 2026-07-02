@@ -3619,6 +3619,21 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) | kw: List
+
+- **2026-07-02** | [Design Rocket - Learn AI Design system.](https://designrocket.io/) | kw: Design
+
+- **2026-07-02** | [Design Patterns](https://refactoring.guru/design-patterns) | kw: Design
+
+- **2026-07-02** | [Home - Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) | kw: Home
+
+- **2026-07-02** | [Sidecar Pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar) | kw: Sidecar
+
+- **2026-07-02** | [What are microservices?](https://microservices.io/) | kw: What
+
+- **2026-07-02** | [ACL Anthology](https://aclanthology.org/) | kw: ACL
+
+
 - **2026-07-02** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: three
 - **2026-07-02** | [I Designed 25 Distributed Systems in 25 Days. Here is the One Hidden Pattern I Found](https://medium.com/@cachecowboy/i-designed-25-distributed-systems-in-25-days-here-is-the-one-hidden-pattern-i-found-8db2608cd904) | kw: i
 - **2026-07-02** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: the
