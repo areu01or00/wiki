@@ -31,6 +31,24 @@
 - **2026-07-01** | [Demystifying MONADs: What you need to know!](https://www.toolify.ai/gpts/demystifying-monads-what-you-need-to-know-337403) | kw: Demystifying
 
 ## Updates
+- **2026-07-02** | [Monad (functional programming) - Wikipedia](https://en.wikipedia.org/wiki/Monad_(functional_programming)) | kw: python-internals
+
+- **2026-07-02** | [7 Best Free Haskell Courses for 2026 — Class Central](https://www.classcentral.com/report/best-free-haskell-courses/) | kw: python-internals
+
+- **2026-07-02** | [Rust: Functional Programming & Monads](https://readmedium.com/functional-programming-with-monads-90230ccccb48) | kw: python-internals
+
+- **2026-07-02** | [What Is a Monad in Functional Programming? | Built In](https://builtin.com/software-engineering-perspectives/monads) | kw: python-internals
+
+- **2026-07-02** | [Monads and Effects | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2016/11/30/monads-and-effects/) | kw: python-internals
+
+- **2026-07-02** | [Monad (functional programming)](https://grokipedia.com/page/Monad_(functional_programming)) | kw: python-internals
+
+- **2026-07-02** | [Monads: A Powerful Concept in Functional Programming | Algor Cards](https://cards.algoreducation.com/en/content/9SCjzneK/monads-functional-programming) | kw: python-internals
+
+- **2026-07-02** | [functional programming - What is the difference... - Stack Overflow](https://stackoverflow.com/questions/5856709/what-is-the-difference-between-liftm-and-mapm-in-haskell) | kw: python-internals
+
+- **2026-07-02** | [monad · GitHub Topics · GitHub](https://github.com/topics/monad) | kw: python-internals
+
 - **2026-07-02** | [Functional Programmers need to take a look at Zig - Lobsters](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) | kw: functional programming
 - **2026-07-02** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/kabbalah-haskell-st-monad/) | kw: functional programming
 - **2026-07-02** | [Community version of “Learn You a Haskell…” (https ...](https://discourse.haskell.org/t/community-version-of-learn-you-a-haskell-https-learnyouahaskell-github-io-2026-update/13764) | kw: functional programming

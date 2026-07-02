@@ -33,6 +33,8 @@
 # Compilers
 
 ## Updates
+- **2026-07-02** | [2026 EuroLLVM Developers Meeting](https://llvm.org/devmtg/2026-04/) | kw: python-internals
+
 - **2026-07-02** | [The LLVM Compiler Infrastructure Project](https://llvm.org/) | kw: compilers
 - **2026-07-02** | [2026 EuroLLVM Developers' Meeting](https://llvm.org/devmtg/2026-04/) | kw: compilers
 - **2026-07-02** | [Easy::jit: A just-in-time compiler for C++ - GitHub](https://github.com/jmmartinez/easy-just-in-time) | kw: compilers

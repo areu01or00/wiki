@@ -3943,6 +3943,24 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-02** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://pythoncompiler.io/python/python-internals/) | kw: python-internals
+
+- **2026-07-02** | [What Is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/) | kw: python-internals
+
+- **2026-07-02** | [The GIL Explained — What It Is, What It Isn't, and How to Work Around It](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: python-internals
+
+- **2026-07-02** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: python-internals
+
+- **2026-07-02** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: python-internals
+
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and...](https://scanlibs.com/internals-python-3-performance/) | kw: python-internals
+
+- **2026-07-02** | [Python Interview Questions: Key Features, Memory Management...](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: python-internals
+
+- **2026-07-02** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: python-internals
+
+- **2026-07-02** | [Beyond basics: async, type hints, packaging, and production Python](https://jobcannon.io/skills/python-advanced) | kw: python-internals
+
 - **2026-07-02** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: python internals
 - **2026-07-02** | [Memory Management - Python - AlgoMaster.io](https://algomaster.io/learn/python/memory-management) | kw: python internals
 - **2026-07-02** | [Understanding the Python Global Interpreter Lock (GIL)](https://thecodinggopher.substack.com/p/understanding-the-python-global-interpreter) | kw: python internals
