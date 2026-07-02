@@ -3,14 +3,14 @@
   "schema": "explore_context_v1",
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T01:06:37.289942+00:00",
-  "__last_updated": "2026-07-02T01:06:37.289942+00:00",
-  "last_run": 321,
-  "last_explore": "2026-07-02T00:45:19.553920+00:00",
-  "last_global_explore": "2026-07-02T00:45:19.553923+00:00",
-  "last_discovery": "DEEP-SUB-CLUSTER: counterfactual credit assignment / adaptive rubric reward / reward hacking in agents",
-  "last_run_framing": "DEEP-SUB-CLUSTER: counterfactual credit assignment / adaptive rubric reward / reward hacking in agents",
+  "__last_updated": "2026-07-02T02:30:00.000000+00:00",
+  "last_run": 322,
+  "last_explore": "2026-07-02T02:30:00.000000+00:00",
+  "last_global_explore": "2026-07-02T02:30:00.000000+00:00",
+  "last_discovery": "DEEP-SUB-CLUSTER: federated conformal RAG / reward bias substitution / sycophancy disentanglement",
+  "last_run_framing": "DEEP-SUB-CLUSTER: federated conformal RAG / reward bias substitution / sycophancy disentanglement",
   "last_framing": "DEEP-SUB-CLUSTER (Rule 36c)",
-  "last_run_notes": "Run 321: 2606.29476, 2606.21262, 2606.15385",
+  "last_run_notes": "Run 322: 2605.29139, 2605.27996, 2604.05279",
   "last_pass_type": "emergent-concept",
   "last_run_method": "HF daily 3 dates (84 papers) \u2192 6 LLM-keyword filtered \u2192 thin pool \u2192 arxiv HTML 1-query \u2192 3 structurally orthogonal picks",
   "run_method": "emergent-concept-search-via-web-search-discovery",
@@ -19,7 +19,7 @@
   "emergent_concept_theme": "reasoning-efficiency / safety-mechanisms / representation-geometry",
   "emergent_theme": "DEEP-SUB-CLUSTER: reasoning efficiency + safety mechanisms + representation geometry",
   "chains_updated": 0,
-  "entities_count": 976,
+  "entities_count": 979,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9343,6 +9343,33 @@
       "discovered": "2026-07-02T01:06:37.289942+00:00",
       "theme": "agentic-RL / reward hacking / safety / AI Safety Gridworlds",
       "date": "2026/06/15"
+    },
+    {
+      "arxiv_id": "2605.29139",
+      "slug": "anytime-valid-federated-conformal-rag-llm-swarms-2605.29139",
+      "title": "Anytime-Valid Federated Conformal RAG for LLM Swarms",
+      "url": "https://arxiv.org/abs/2605.29139",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T02:30:00.000000+00:00",
+      "theme": "federated conformal RAG / anytime-valid coverage / multi-agent calibration"
+    },
+    {
+      "arxiv_id": "2605.27996",
+      "slug": "reward-bias-substitution-single-axis-bias-mitigations-redirect-optimization-pressure-2605.27996",
+      "title": "Reward Bias Substitution: Single-Axis Bias Mitigations Redirect Optimization Pressure",
+      "url": "https://arxiv.org/abs/2605.27996",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T02:30:00.000000+00:00",
+      "theme": "reward bias substitution / single-axis mitigation failure / multi-policy validation"
+    },
+    {
+      "arxiv_id": "2604.05279",
+      "slug": "pressure-what-pressure-sycophancy-disentanglement-in-language-models-via-reward-decomposition-2604.05279",
+      "title": "Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition",
+      "url": "https://arxiv.org/abs/2604.05279",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T02:30:00.000000+00:00",
+      "theme": "sycophancy disentanglement / reward decomposition / authority-cue suppression"
     }
   ],
   "emergent_discoveries": [
@@ -16457,6 +16484,30 @@
       "url": "https://arxiv.org/abs/2606.15385",
       "discovered": "2026-07-02T01:06:37.289942+00:00",
       "theme": "agentic-RL / reward hacking / safety / AI Safety Gridworlds"
+    },
+    {
+      "arxiv_id": "2605.29139",
+      "title": "Anytime-Valid Federated Conformal RAG for LLM Swarms",
+      "slug": "anytime-valid-federated-conformal-rag-llm-swarms-2605.29139",
+      "url": "https://arxiv.org/abs/2605.29139",
+      "discovered": "2026-07-02T02:30:00.000000+00:00",
+      "theme": "federated conformal RAG / anytime-valid coverage / multi-agent calibration"
+    },
+    {
+      "arxiv_id": "2605.27996",
+      "title": "Reward Bias Substitution: Single-Axis Bias Mitigations Redirect Optimization Pressure",
+      "slug": "reward-bias-substitution-single-axis-bias-mitigations-redirect-optimization-pressure-2605.27996",
+      "url": "https://arxiv.org/abs/2605.27996",
+      "discovered": "2026-07-02T02:30:00.000000+00:00",
+      "theme": "reward bias substitution / single-axis mitigation failure / multi-policy validation"
+    },
+    {
+      "arxiv_id": "2604.05279",
+      "title": "Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition",
+      "slug": "pressure-what-pressure-sycophancy-disentanglement-in-language-models-via-reward-decomposition-2604.05279",
+      "url": "https://arxiv.org/abs/2604.05279",
+      "discovered": "2026-07-02T02:30:00.000000+00:00",
+      "theme": "sycophancy disentanglement / reward decomposition / authority-cue suppression"
     }
   ],
   "emergent_concept_search_log": [
@@ -19463,6 +19514,18 @@
         "2605.03222"
       ],
       "method": "HF daily + web_search 4-query escape hatch"
+    },
+    {
+      "run": 322,
+      "date": "2026-07-02T02:30:00.000000+00:00",
+      "theme": "federated conformal RAG / reward bias substitution / sycophancy disentanglement",
+      "picks": [
+        "2605.29139",
+        "2605.27996",
+        "2604.05279"
+      ],
+      "method": "HF daily 3 dates (86 unique) \u2192 0 LLM-keyword \u2192 web_search 3-query \u2192 5 fresh \u2192 3 orthogonal",
+      "added": 3
     }
   ],
   "runs": [
@@ -21559,6 +21622,18 @@
         "2606.15385"
       ],
       "method": "HF daily 3 dates (84 papers) \u2192 6 LLM-keyword filtered \u2192 thin pool \u2192 arxiv HTML 1-query (50 IDs, 15 fresh) \u2192 3 structurally orthogonal picks on agentic RL credit-assignment axis",
+      "added": 3
+    },
+    {
+      "run": 322,
+      "date": "2026-07-02T02:30:00.000000+00:00",
+      "theme": "DEEP-SUB-CLUSTER: federated conformal RAG / reward bias substitution / sycophancy disentanglement",
+      "picks": [
+        "2605.29139",
+        "2605.27996",
+        "2604.05279"
+      ],
+      "method": "HF daily \u2192 Rule 15d escape hatch \u2192 web_search 3-query",
       "added": 3
     }
   ],

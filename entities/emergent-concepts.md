@@ -17,7 +17,13 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
-### 2026-07-02 — Run 321: DEEP-SUB-CLUSTER — COUNTERFACTUAL CREDIT ASSIGNMENT / ADAPTIVE RUBRIC REWARD / REWARD HACKING IN AGENTS
+### 2026-07-02 — Run 322: DEEP-SUB-CLUSTER: FEDERATED CONFORMAL RAG / REWARD BIAS SUBSTITUTION / SYCOPHANCY DISENTANGLEMENT
+
+- [[anytime-valid-federated-conformal-rag-llm-swarms-2605.29139]] — [Anytime-Valid Federated Conformal RAG for LLM Swarms](https://arxiv.org/abs/2605.29139) — Dubey, Prasanjit; Huo, Xiaoming — anytime-valid extension of conformal prediction for federated LLM RAG, providing distribution-free coverage guarantees at any stopping time. **First anytime-valid conformal RAG for LLM swarms in the wiki.**
+- [[reward-bias-substitution-single-axis-bias-mitigations-redirect-optimization-pressure-2605.27996]] — [Reward Bias Substitution: Single-Axis Bias Mitigations Redirect Optimization Pressure](https://arxiv.org/abs/2605.27996) — Lamparth, Max; Fein, Daniel; Haupt, Andreas + 2 — single-axis bias mitigations rotate optimization pressure onto correlated proxies rather than eliminate bias; proposes multi-policy validation protocol. **First formal characterization of reward bias substitution as a failure mode in the wiki.**
+- [[pressure-what-pressure-sycophancy-disentanglement-in-language-models-via-reward-decomposition-2604.05279]] — [Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition](https://arxiv.org/abs/2604.05279) — Mohsin, Muhammad Ahmed; Bilal, Ahsan; Umer, Muhammad + 1 — decomposes reward signals to isolate and suppress sycophantic behavioral drivers without task-performance degradation. **First reward decomposition approach to sycophancy disentanglement in the wiki.**
+
+### 2026-07-02 — Run 321: DEEP-SUB-CLUSTER: COUNTERFACTUAL CREDIT ASSIGNMENT / ADAPTIVE RUBRIC REWARD / REWARD HACKING IN AGENTS
 
 - [[craft-counterfactual-credit-assignment-from-free-sibling-rollouts-for-self-distilled-agentic-reinforcement-learning-2606.29476]] — [CRAFT: Counterfactual Credit Assignment from Free Sibling Rollouts for Self-Distilled Agentic Reinforcement Learning](https://arxiv.org/abs/2606.29476) — Meng, Zibin; Chen, Kani — counterfactual credit assignment via free sibling rollouts, scores what policy *would have* done under different context; token-level distillation loss with privileged context as teacher. **First counterfactual credit assignment via sibling rollouts for agentic RL in the wiki.**
 
