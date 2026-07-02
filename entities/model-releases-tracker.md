@@ -18,6 +18,14 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 
 ## Updates
 
+
+- **2026-07-02** | [Claude Sonnet 5: Complete Guide to Benchmarks, Pricing, and...](https://www.aima.com/blog/claude-sonnet-5-complete-guide-to-benchmarks-pricing-and-more) | kw: OFFICIAL ANNOUNCEMENT | BENCHMARK/PAPER | score: 9 | source: anthropic-releases
+- **2026-07-02** | [Claude Sonnet 5 Review Benchmarks Pricing Is It Worth It](https://www.buildwithai.com/claude-sonnet-5-review) | kw: OFFICIAL ANNOUNCEMENT | BENCHMARK/PAPER | score: 8 | source: inclusion-ai
+- **2026-07-02** | [Meituan launches LongCat-2.0 1.6T parameter model on APIs](https://venturebeat.com/technology/meituan-open-sources-longcat-2-0) | kw: OFFICIAL ANNOUNCEMENT | API LAUNCH | score: 8 | source: meituan-longcat
+- **2026-07-02** | [Huawei open-sources OpenPangu-2.0-Flash 92B total 6B active](https://www.pandaily.com/huawei-openpangu-2-0-flash-open-source-jun2026) | kw: WEIGHTS DROP | score: 7 | source: huawei
+- **2026-07-02** | [Meituan open sources LongCat-2.0 the 1.6T near-frontier agentic coding model](https://www.facebook.com/Reuters/posts/chinas-meituan-says-new-ai-model-trained-on-domestic-chips) | kw: WEIGHTS DROP | score: 7 | source: meituan-longcat
+- **2026-07-02** | [Claude Sonnet 5 Pricing 2026 The Hidden Costs and Real Savings](https://www.finout.io/blog/claude-sonnet-5-pricing-2026) | kw: OFFICIAL ANNOUNCEMENT | score: 6 | source: anthropic-releases
+- **2026-07-02** | [Computation and Language cenxiv.cn](https://cenxiv.cn/en/list/cs.CL/recent) | kw: OFFICIAL ANNOUNCEMENT | score: 5 | source: arxiv-cs-cl
 - **2026-07-02** | [MiniMaxAI/MiniMax-M3 — Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3) | kw: WEIGHTS DROP | score: 8 | source: MiniMax
 - **2026-07-02** | [Measuring the Gap Between Human and LLM Research Ideas](https://arxiv.org/abs/2607.00001) | kw: BENCHMARK/PAPER | score: 5 | source: arxiv-cs-cl
 - **2026-07-02** | [Is One Layer Enough? Training A Single Transformer Layer](https://arxiv.org/abs/2607.00002) | kw: BENCHMARK/PAPER | score: 5 | source: arxiv-cs-cl
