@@ -18,6 +18,14 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
 
+### 2026-07-02 — Run 330: ADAPTIVE TOKEN BUDGETING / COLLABORATIVE REASONING / UNCERTAINTY-MINIMISATION INFERENCE
+
+1. **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](https://arxiv.org/abs/2505.11274)** — Li, Zheng; Dong, Qingxiu; Ma, Jingyuan + 3 — trains LLMs to self-estimate required reasoning budget based on query difficulty, achieving adaptive token efficiency without sacrificing quality. **First self-budgeting primitive for LLM token allocation in the wiki.**
+
+2. **[When Less is Enough: Efficient Inference via Collaborative Reasoning](https://arxiv.org/abs/2605.01111)** — Chen, Yilei; Gupta, Sharut; Paschalidis, Yannis + 2 — DUET dual-model two-stage inference where a capable model outputs a compact reasoning signal decoded by a lightweight model, eliminating up to 50% of reasoning tokens. **First collaborative dual-model reasoning paper in the wiki.**
+
+3. **[Improving reasoning at inference time via uncertainty minimisation](https://arxiv.org/abs/2603.07159)** — Legrand, Nicolas; Enejoldsen, Kenneth; Kardos, Marton + 1 — replaces extensive sampling with uncertainty minimisation as the guiding signal for inference-time scaling, concentrating computation only where the model is uncertain. **First uncertainty-minimisation primitive for test-time compute scaling in the wiki.**
+
 ### 2026-07-02 — Run 329: CAUSALMIX DATA MIXTURE / AUTOTRAINNESS AUTONOMOUS POST-TRAINING / AUTONOMOUS SCIENTIFIC DISCOVERY VIA META-REFLECTION
 
 1. **[CausalMix: Data Mixture as Causal Inference for Language Model Training](https://arxiv.org/abs/2607.01104)** — Tang, Zinan; Zhang, Yukun; Zheng, Shaomian + 6 — causal framing of data mixture optimization as counterfactual inference over mixture weights, enabling seamless scaling from small to large data pools without full retraining. **First causal-inference-based data mixture framework that generalizes across distribution shifts in the wiki.**

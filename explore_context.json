@@ -4,22 +4,22 @@
   "created": "2026-06-25T16:02:38.140074+00:00",
   "updated": "2026-07-02T14:35:00.000000+00:00",
   "__last_updated": "2026-07-02T03:00:03.805791+00:00",
-  "last_run": 328,
+  "last_run": 330,
   "last_explore": "2026-07-02T03:15:02.941262+00:00",
   "last_global_explore": "2026-07-02T03:15:02.941294+00:00",
   "last_discovery": "HF daily + web_search: Reward Hacking Activation Monitoring / Structured Context Eviction / Anisotropy-Controllable Embedding",
-  "last_run_framing": "REWARD HACKING ACTIVATION MONITORING / STRUCTURED CONTEXT EVICTION / ANISOTROPY-CONTROLLABLE EMBEDDING",
+  "last_run_framing": "DEEP-SUB-CLUSTER: adaptive token budgeting + collaborative reasoning + uncertainty-minimisation (inference-efficiency axis)",
   "last_framing": "Rule 36c DEEP-SUB-CLUSTER: reward-hacking activation monitoring (safety-mechanisms sub-axis) + structured context eviction via typed episodes and dependency graphs (context-management sub-axis) + anisotropy-controllable embedding via dispersion regularization (representation-geometry sub-axis)",
   "last_run_notes": "Run 328: 2606.06223, 2606.11213, 2605.29322",
   "last_pass_type": "emergent-concept",
-  "last_run_method": "HF daily 3 dates (94 papers) -> 10 fresh LLM candidates (all CV/3D-heavy) -> Rule 15d escape hatch -> web_search 6-query deep-sub-cluster -> 7 fresh candidates -> 3 structurally orthogonal picks (reward-hacking activation monitoring + structured context eviction + anisotropy-controllable embedding)",
+  "last_run_method": "HF daily 3 dates (96 papers) \u2192 10 fresh LLM candidates \u2192 Rule 15d escape hatch \u2192 web_search 4-query \u2192 8 fresh \u2192 3 structurally orthogonal picks (adaptive token budgeting + collaborative reasoning + uncertainty-minimisation inference)",
   "run_method": "emergent-concept-search-via-web-search-discovery",
   "last_run_added": 3,
   "exploration_type": "emergent-concept-search",
   "emergent_concept_theme": "reasoning-efficiency / safety-mechanisms / representation-geometry",
   "emergent_theme": "HF-only discovery (no web_search escape hatch needed)",
   "chains_updated": 0,
-  "entities_count": 997,
+  "entities_count": 1000,
   "chains": {
     "attention-is-all-you-need": {
       "slug": "attention-is-all-you-need",
@@ -9541,6 +9541,36 @@
       "discovered": "2026-07-02T03:30:17.141789+00:00",
       "theme": "autonomous-scientific-discovery / llm-agent / meta-reflection / research-automation",
       "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2505.11274",
+      "slug": "selfbudgeter-adaptive-token-allocation-for-efficient-llm-reasoning-2505.11274",
+      "title": "SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning",
+      "url": "https://arxiv.org/abs/2505.11274",
+      "vector": "inference-efficiency",
+      "discovered": "2026-07-02T15:55:00+00:00",
+      "theme": "inference-efficiency",
+      "date": "2026-07-02"
+    },
+    {
+      "arxiv_id": "2605.01111",
+      "slug": "when-less-is-enough-efficient-inference-via-collaborative-reasoning-2605.01111",
+      "title": "When Less is Enough: Efficient Inference via Collaborative Reasoning",
+      "url": "https://arxiv.org/abs/2605.01111",
+      "vector": "inference-efficiency",
+      "discovered": "2026-07-02T15:55:00+00:00",
+      "theme": "inference-efficiency",
+      "date": "2026-05-01"
+    },
+    {
+      "arxiv_id": "2603.07159",
+      "slug": "improving-reasoning-at-inference-time-via-uncertainty-minimisation-2603.07159",
+      "title": "Improving reasoning at inference time via uncertainty minimisation",
+      "url": "https://arxiv.org/abs/2603.07159",
+      "vector": "inference-efficiency",
+      "discovered": "2026-07-02T15:55:00+00:00",
+      "theme": "inference-efficiency",
+      "date": "2026-03-07"
     }
   ],
   "emergent_discoveries": [
@@ -16829,6 +16859,30 @@
       "url": "https://arxiv.org/abs/2607.01131",
       "discovered": "2026-07-02T03:30:17.141789+00:00",
       "theme": "autonomous-scientific-discovery / llm-agent / meta-reflection / research-automation"
+    },
+    {
+      "arxiv_id": "2505.11274",
+      "title": "SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning",
+      "slug": "selfbudgeter-adaptive-token-allocation-for-efficient-llm-reasoning-2505.11274",
+      "url": "https://arxiv.org/abs/2505.11274",
+      "discovered": "2026-07-02T15:55:00+00:00",
+      "theme": "inference-efficiency"
+    },
+    {
+      "arxiv_id": "2605.01111",
+      "title": "When Less is Enough: Efficient Inference via Collaborative Reasoning",
+      "slug": "when-less-is-enough-efficient-inference-via-collaborative-reasoning-2605.01111",
+      "url": "https://arxiv.org/abs/2605.01111",
+      "discovered": "2026-07-02T15:55:00+00:00",
+      "theme": "inference-efficiency"
+    },
+    {
+      "arxiv_id": "2603.07159",
+      "title": "Improving reasoning at inference time via uncertainty minimisation",
+      "slug": "improving-reasoning-at-inference-time-via-uncertainty-minimisation-2603.07159",
+      "url": "https://arxiv.org/abs/2603.07159",
+      "discovered": "2026-07-02T15:55:00+00:00",
+      "theme": "inference-efficiency"
     }
   ],
   "emergent_concept_search_log": [
@@ -22040,11 +22094,23 @@
       ],
       "method": "HF daily 3 dates (96 papers) + 13 fresh LLM candidates + 3 structurally orthogonal picks (causal data mixture + autonomous post-training + meta-reflection scientific discovery)",
       "added": 3
+    },
+    {
+      "run": 330,
+      "date": "2026-07-02T15:55:00.000000+00:00",
+      "theme": "ADAPTIVE TOKEN BUDGETING / COLLABORATIVE REASONING / UNCERTAINTY-MINIMISATION INFERENCE",
+      "picks": [
+        "2505.11274",
+        "2605.01111",
+        "2603.07159"
+      ],
+      "method": "HF daily 3 dates (96 papers) \u2192 10 fresh LLM candidates \u2192 Rule 15d escape hatch \u2192 web_search 4-query \u2192 8 fresh \u2192 3 structurally orthogonal picks (adaptive token budgeting + collaborative reasoning + uncertainty-minimisation inference)",
+      "added": 3
     }
   ],
-  "last_updated": "2026-07-02T01:06:37.289942+00:00",
+  "last_updated": "2026-07-02T15:55:00+00:00",
   "last_run_iso": "2026-07-02T01:06:37.289942+00:00",
-  "total_entity_count": 976,
+  "total_entity_count": 979,
   "entity_files_added": 6,
   "pass_type": "emergent-concept",
   "emergent_discoveries_log": [
