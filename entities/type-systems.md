@@ -42,6 +42,11 @@
 
 ## Updates
 - **2026-07-02** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: wiki-watch
+- **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix)
+- **2026-07-02** | [Static vs Dynamic Typing: The Ultimate Guide to Type Systems in 2026](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/)
+- **2026-07-02** | [Everything you have to Know about Type Hinting In Python](https://python.plainenglish.io/everything-you-have-to-know-about-type-hinting-in-python-4d311622e5bb)
+- **2026-07-02** | [typescript-pro Agent Skill](https://agentskills.codes/skills/typescript-pro)
+
 - **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: wiki-watch
 - **2026-07-02** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: wiki-watch
 - **2026-07-02** | [Pytype Python Analyze: Infer Check Stubgen Protocols 2026](https://johal.in/pytype-python-analyze-infer-check-stubgen-protocols-2026-4/) | kw: wiki-watch

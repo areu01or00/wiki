@@ -4118,6 +4118,16 @@
 
 ## Updates
 - **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: wiki-watch
+- **2026-07-02** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026)
+- **2026-07-02** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829)
+- **2026-07-02** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources)
+- **2026-07-02** | [Namaste DSA Sheet | To Crack FAANG & PBC Interviews](https://namastedev.com/namaste-dsa-sheet)
+- **2026-07-02** | [I Tried 20+ Java DSA Courses with LeetCode Exercises on Udemy](https://medium.com/javarevisited/i-tried-20-java-dsa-courses-with-leetcode-exercises-on-udemy-here-are-my-top-5-recommendations-86085dfbcd84)
+- **2026-07-02** | [LeetCode - The Worlds Leading Programming Learning Platform](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
+- **2026-07-02** | [Data Structures & Algorithms Interview Guide 2026 | TechPrep](https://www.techprep.app/data-structures-and-algorithms/guide)
+- **2026-07-02** | [Data Structure I - LeetCode](https://leetcode.com/problem-list/m1b6ucdi/)
+- **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.youtube.com/watch?v=Z_c4byLrNBU)
+
 - **2026-07-02** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: wiki-watch
 - **2026-07-02** | [Problems - LeetCode](https://leetcode.com/problemset/) | kw: wiki-watch
 - **2026-07-02** | [Leetcode data structures beginner problems - DEV Community](https://dev.to/dfs_with_memo/leetcode-warmup-problems-13o7) | kw: wiki-watch

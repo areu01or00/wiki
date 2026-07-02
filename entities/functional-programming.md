@@ -32,6 +32,16 @@
 
 ## Updates
 - **2026-07-02** | [What is a monad? - Stack Overflow](https://stackoverflow.com/questions/44965/what-is-a-monad) | kw: wiki-watch
+- **2026-07-02** | [Haskell compared to Rust/OCaml - Reddit](https://www.reddit.com/r/rust/comments/1uio8a0/haskell_compared_to_rustocaml/)
+- **2026-07-02** | [Hello, Haskell: Getting Started in 2026 - lukastymo](https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/)
+- **2026-07-02** | [Functional Programmers need to take a look at Zig](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at)
+- **2026-07-02** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing (PLDI 2026)](https://pldi26.sigplan.org/details/pldi-2026-papers/16/Pure-Borrow-Linear-Haskell-Meets-Rust-Style-Borrowing)
+- **2026-07-02** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975)
+- **2026-07-02** | [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing - arXiv](https://arxiv.org/abs/2604.15290)
+- **2026-07-02** | [Haskell Foundation 2026 Update | Hacker News](https://news.ycombinator.com/item?id=48216983)
+- **2026-07-02** | [Kabbalah, Haskell, and the ST Monad](https://www.snoyman.com/blog/2026/06/kabbalah-haskell-st-monad/)
+- **2026-07-02** | [The Brutal Truth About Programming Languages in 2026](https://medium.com/@mohdinsafinzu/the-brutal-truth-about-programming-languages-in-2026-which-ones-will-break-you-and-which-ones-61a1ea1a245d)
+
 - **2026-07-02** | [Rust patterns — list of Rust libraries/crates // Lib.rs](https://lib.rs/rust-patterns)
 - **2026-07-02** | [monad in Functional programming - DEV Community](https://dev.to/anusornc/monad-in-functional-programming-2e5e)
 

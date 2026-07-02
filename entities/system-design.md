@@ -3620,6 +3620,8 @@
 
 ## Updates
 - **2026-07-02** | [Distributed Systems Patterns 2026 | pdpspectra](https://pdpspectra.com/blog/distributed-systems-patterns-2026/) | kw: wiki-watch
+- **2026-07-02** | [Distributed Systems | Architecture Patterns GitScrum Docs](https://docs.gitscrum.com/en/best-practices/distributed-systems-architecture-patterns)
+
 - **2026-07-02** | [System Design Guide 2026 - Scalable Architecture Patterns](https://tktips.org/wp-content/uploads/2026/01/System-Design-Guide-2026.pdf) | kw: wiki-watch
 - **2026-07-02** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: wiki-watch
 - **2026-07-02** | [How I Build a Distributed System in 2026: Principles, Patterns, and ...](https://thelinuxcode.com/how-i-build-a-distributed-system-in-2026-principles-patterns-and-pitfalls/) | kw: wiki-watch

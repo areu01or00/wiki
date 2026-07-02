@@ -34,6 +34,17 @@
 
 ## Updates
 - **2026-07-02** | [Just-in-time compilation - Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+- **2026-07-02** | [3. Building a JIT: Per-function Lazy... LLVM 23.0.0git documentation](https://llvm.org/docs/tutorial/BuildingAJIT3.html)
+- **2026-07-02** | [Why is llvm considered unsuitable for implementing a JIT?](https://stackoverflow.com/questions/6833068/why-is-llvm-considered-unsuitable-for-implementing-a-jit)
+- **2026-07-02** | [A Minimal LLVM JIT example for LLVM-5 GitHub](https://gist.github.com/38/39e7b514d916ed6fa6a2bba629fdf6ff)
+- **2026-07-02** | [Revolutionize JIT Compilation with LLVM Next Generation API](https://www.toolify.ai/gpts/revolutionize-jit-compilation-with-llvms-next-generation-api-360120)
+- **2026-07-02** | [llvm-compile-time-tracker.com](https://llvm-compile-time-tracker.com/)
+- **2026-07-02** | [Adventures in JIT compilation: Part 3 - LLVM - Eli Bendersky website](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/)
+- **2026-07-02** | [LLVM JIT Compilation](https://legacy25.github.io/compilers/2015/10/26/llvm-just-in-time.html)
+- **2026-07-02** | [Search llvm - Bookmarks](https://links.cpollet.io/?searchtags=llvm)
+- **2026-07-02** | [A Deep Dive into LLVM: The Future of Compiler Technology](https://medium.com/@aastha.j901/a-deep-dive-into-llvm-the-future-of-compiler-technology-aa6ceaa4f761)
+- **2026-07-02** | [2017 LLVM Developers Meeting: M. Zolotukhin LLVM Compile-Time](https://www.youtube.com/watch?v=bYHMwyyZ6Mk)
+
 - **2026-07-02** | [OrcJIT at Scale with the llvm-autojit Plugin - FOSDEM 2026](https://fosdem.org/2026/schedule/event/FTCATX-llvm-autojit/)
 - **2026-07-02** | [LLVM Compiler Infrastructure - Google Summer of Code](https://summerofcode.withgoogle.com/programs/2026/organizations/llvm-compiler-infrastructure)
 - **2026-07-02** | [Retrofitting JIT Compilers into C Interpreters - tratt.net](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
