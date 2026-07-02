@@ -3619,6 +3619,10 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [Distributed Database: CAP Theorem and Consistency Patterns 2026](https://johal.in/distributed-database-cap-theorem-and-consistency-patterns-2026/) | kw: Distributed
+- **2026-07-02** | [Design Rocket - Learn AI Design system.](https://designrocket.io/) | kw: Design
+- **2026-07-02** | [2 Patterns for Resilience Beyond Multi-AZ](https://blog.simukappu.com/resilience-beyond-multi-az-bulkheads-and-shock-absorbers-architecture-dojo-2024) | kw: 2
+
 - **2026-07-02** | [If you want to get started with system design (in 2026), learn these 16...](https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-get-started-with-system-design-activity-7405595393402556416-cVo1) | kw: If
 
 - **2026-07-02** | [Background Jobs and Queues: 2026 Engineering Reference](https://www.digitalapplied.com/blog/background-job-queue-patterns-2026-engineering-reference) | kw: Background

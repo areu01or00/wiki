@@ -41,6 +41,16 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Luau (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Luau_(programming_language)) | kw: Luau
+- **2026-07-02** | [Navigating the 2026 Language Landscape: A Typing and Paradigm...](https://pookietech.site/blog/navigating-the-2026-language-landscape-a-typing-and-paradigm-matrix) | kw: Navigating
+- **2026-07-02** | [Static vs. Dynamic Typing: The Ultimate Guide to Type Systems in...](https://toolshelf.tech/blog/static-vs-dynamic-typing-guide-2026/) | kw: Static
+- **2026-07-02** | [Static Analysis Mypy: Strict Typing Configurations 2026 | Johal AI Hub](https://johal.in/static-analysis-mypy-strict-typing-configurations-2026/) | kw: Static
+- **2026-07-02** | [TypeScript: Static or Dynamic? The war is over. | by Vlad Balin | ITNEXT](https://itnext.io/typescript-static-or-dynamic-64bceb50b93e) | kw: TypeScript:
+- **2026-07-02** | [Duck Typing vs Type System (2026) | Nice Pick](https://nicepick.dev/compare/duck-typing-vs-type-system) | kw: Duck
+- **2026-07-02** | [gradual-typing · GitHub Topics · GitHub](https://github.com/topics/gradual-typing) | kw: gradual-typing
+- **2026-07-02** | [TypeScript Gradual Typing | Compile N Run](https://www.compilenrun.com/docs/language/typescript/typescript-with-javascript/typescript-gradual-typing/) | kw: TypeScript
+- **2026-07-02** | [Gradual Typing: A New Perspective](https://www.irif.fr/~gc/papers/popl19.pdf) | kw: Gradual
+
 - **2026-07-02** | [PyCon US 2026 Typing Summit Recap - Bernat Gabor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: PyCon
 
 - **2026-07-02** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: What

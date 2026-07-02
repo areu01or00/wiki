@@ -3943,6 +3943,11 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-02** | [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) | kw: How
+- **2026-07-02** | [Using malloc_trim to help with memory management](https://discuss.python.org/t/using-malloc-trim-to-help-with-memory-management/107682) | kw: Using
+- **2026-07-02** | [5 Python Performance Killers Expert Fixes 2026 Guide - iCert Global](https://www.icertglobal.com/blog/5-python-performance-killers-expert-fixes-2026-guide) | kw: 5
+- **2026-07-02** | [What is the Python Global Interpreter Lock (GIL) - GeeksforGeeks](https://www.geeksforgeeks.org/python/what-is-the-python-global-interpreter-lock-gil/) | kw: What
+
 - **2026-07-02** | [What Is the Python Global Interpreter Lock (GIL)? - Real Python](https://realpython.com/python-gil/) | kw: What
 
 - **2026-07-02** | [Top Python Interview Questions and Answers](https://embeddedprep.com/top-python-interview-questions-and-answers/) | kw: Top
