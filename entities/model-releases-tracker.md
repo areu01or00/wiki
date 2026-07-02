@@ -17,6 +17,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-02** | [China's Zhipu is booming with Anthropic and OpenAI held back](https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html) | kw: BENCHMARK/PAPER | score: 5 | source: glm-releases
+- **2026-07-02** | [China's Zhipu AI sparks new 'DeepSeek moment' with cost-effective coding model](https://www.scmp.com/tech/big-tech/article/3358434/chinas-zhipu-ai-sparks-new-deepseek-moment-cost-effective-coding-model) | kw: BENCHMARK/PAPER | score: 5 | source: glm-releases
+
 - **2026-07-02** | [Claude Sonnet 5 Deep Dive: Release, Benchmarks, Pricing](https://kie.ai/blog/claude-sonnet-5-deep-dive) | kw: BENCHMARK/PAPER | score: 6 | source: anthropic
 
 

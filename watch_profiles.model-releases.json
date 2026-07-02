@@ -129,6 +129,8 @@
       "category": "chinese-open",
       "last_checked": "2026-07-01T20:00:30.196135+00:00",
       "last_result_hashes": [
+        "bd88b676a6f520222a394fefc455d46a",
+        "046b5f14661d9cd58342e80bcd5369ab",
         "da554a4179f555c93f9d4ed25f18231d",
         "d7117e53ec7738be1ed9af4b147a7cb8",
         "e1e25e42b8b850d26feda10a4f184f24",
@@ -146,14 +148,12 @@
         "f5778145b6a6957589be1644ac3e2cb0",
         "de6b5eaa069039941846adf5275c2c5f",
         "4d21e9612da32b5eeafbf58a5d48f992",
-        "bd0fe7158ae634ad47c380bf3191908a",
-        "39fc99235a11d36b1238176fcf0cc1a3",
-        "9100f5bef27c592af404d4673f1e2728"
+        "bd0fe7158ae634ad47c380bf3191908a"
       ],
-      "last_run": "20260701_194318",
+      "last_run": "2026-07-02T01:58:12Z",
       "last_update_hash": null,
       "query": "Zhipu GLM ChatGLM new model release weights API",
-      "run_count": 145,
+      "run_count": 147,
       "wiki_page": "entities/model-releases-tracker.md"
     },
     "google-deepmind-releases": {
