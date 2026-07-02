@@ -17,6 +17,28 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+
+- **2026-07-02** | [GLM-5.2: Z.ai Open-Weights Coder Beats GPT-5.5 at 1/6 the Cost](https://rits.shanghai.nyu.edu/ai/glm-5-2-z-ais-open-weights-coder-beats-gpt-5-5-at-1-6-the-cost/) | kw: WEIGHTS DROP | score: 7 | source: glm-releases
+- **2026-07-02** | [GLM-5.2 Open Weights Live: Top Coding Benchmark](https://www.techtimes.com/articles/318543/20260617/glm-52-open-weights-live-top-coding-benchmark-api-use-carries-china-data-risk.htm) | kw: WEIGHTS DROP | score: 9 | source: glm-releases
+- **2026-07-02** | [Gemma 4 Guide: E2B E4B 26B MoE and 31B Open Weights (2026)](https://codersera.com/blog/gemma-4-complete-guide-2026/) | kw: WEIGHTS DROP | score: 4 | source: google-deepmind-releases
+- **2026-07-02** | [Google DeepMind Releases Gemma 4 12B on Hugging Face](https://aiproductivity.ai/news/google-gemma-4-12b-open-model-release-hugging-face/) | kw: OPEN SOURCE | score: 7 | source: google-deepmind-releases
+- **2026-07-02** | [Moonshot AI Kimi K2.7 Code Released vs K2.6](https://nerova.ai/news/moonshot-kimi-k2-7-code-release-june-2026) | kw: OPEN SOURCE | score: 4 | source: moonshot-ai
+- **2026-07-02** | [Moonshot Ships Kimi K2.7-Code Open-Weight 1T MoE Model](https://webdeveloper.com/news/moonshot-kimi-k2-7-code-open-weight/) | kw: OPEN SOURCE | score: 7 | source: moonshot-ai
+- **2026-07-02** | [Krea 2 - What a 12B Open-Weights Image Model Means](https://braindetox.kr/en/posts/krea2_open_image_model_2026.html) | kw: WEIGHTS DROP | score: 7 | source: krea
+- **2026-07-02** | [Krea AI Open-Sources Krea 2 12B-Parameter Image Model](https://noqta.tn/en/news/krea-ai-krea-2-open-source-image-generation-2026) | kw: WEIGHTS DROP | score: 7 | source: krea
+- **2026-07-02** | [AI Updates Today July 2026 - Latest AI Model Releases](https://llm-stats.com/llm-updates) | kw: API LAUNCH | score: 5 | source: llm-stats-updates
+- **2026-07-02** | [Mistral Small 4 Developer Guide: 119B MoE Reasoning](https://lushbinary.com/blog/mistral-small-4-developer-guide-moe-reasoning-multimodal/) | kw: OPEN SOURCE | score: 4 | source: mistralai
+- **2026-07-02** | [Sakana AI Ships Fugu an Orchestration Model That Claims Frontier](https://pokee.ai/blog/pokee-ai-daily-2026-06-22) | kw: OPEN SOURCE | score: 7 | source: sakana-releases
+- **2026-07-02** | [Sakana AI Launches Fugu-Ultra on OpenRouter with 1 million token](https://digg.com/tech/wm20k3uk) | kw: OFFICIAL ANNOUNCEMENT | score: 7 | source: sakana-releases
+- **2026-07-02** | [NVIDIA Nemotron 3 Ultra released fast intelligent and open](https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-released) | kw: OPEN SOURCE | score: 9 | source: nvidia-research
+- **2026-07-02** | [NVIDIA Nemotron 3 Ultra Review: Benchmarks Architecture](https://www.buildfastwithai.com/blogs/nvidia-nemotron-3-ultra-review-2026) | kw: BENCHMARK/PAPER | score: 6 | source: nvidia-research
+- **2026-07-02** | [Grok 4.20 in 2026: Benchmarks Pricing and API](https://aimlapi.com/blog/grok-4-20-review-2026-everything-you-need-to-know) | kw: API LAUNCH | score: 7 | source: xai-grok
+- **2026-07-02** | [LongCat-2.0 Released: Trillion-Parameter Agentic Coding Model](https://www.longcatai.org/news/longcat-2) | kw: OPEN SOURCE | score: 9 | source: meituan-longcat
+- **2026-07-02** | [Meituan releases LongCat-2.0 a 1.6-trillion-parameter open-weight MoE](https://digg.com/tech/va380veu) | kw: OPEN SOURCE | score: 7 | source: meituan-longcat
+- **2026-07-02** | [Droid Shield 2.0: learned secret detection | Factory.ai](https://factory.ai/news/droid-shield-2-0) | kw: OPEN SOURCE | score: 6 | source: factory-ai
+- **2026-07-02** | [Introducing Droid Shield 2.0: learned secret detection for safer](https://www.linkedin.com/posts/factory-hq_introducing-droid-shield-20-learned-secret-activity-7478110222730067968--uJ2) | kw: OPEN SOURCE | score: 9 | source: factory-ai
+- **2026-07-02** | [Agents-A1 | 35B MoE Agentic Model](https://internscience.github.io/Agents-A1/) | kw: OPEN SOURCE | score: 4 | source: internscience
+- **2026-07-02** | [InternScience/Agents-A1 - Hugging Face](https://huggingface.co/InternScience/Agents-A1) | kw: OPEN SOURCE | score: 7 | source: internscience
 - **2026-07-02** | [China's Zhipu is booming with Anthropic and OpenAI held back](https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html) | kw: BENCHMARK/PAPER | score: 5 | source: glm-releases
 - **2026-07-02** | [China's Zhipu AI sparks new 'DeepSeek moment' with cost-effective coding model](https://www.scmp.com/tech/big-tech/article/3358434/chinas-zhipu-ai-sparks-new-deepseek-moment-cost-effective-coding-model) | kw: BENCHMARK/PAPER | score: 5 | source: glm-releases
 
