@@ -3943,6 +3943,15 @@
 - **2026-06-11** | [How Python Works Under the Hood: Memory, GIL, and Bytecode](https://www.pythoncompiler.io/python/python-internals/) | kw: python, works, under
 
 ## Updates
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance and Iterations](https://www.amazon.com/Internals-Python-3-x-Performance-Iterations/dp/9391030947) | kw: internals
+- **2026-07-02** | [The GIL Explained — What It Is, What It Isn't, and How to Work Around It](https://engineersofai.com/docs/python/python-intermediate/python-internals/gil-explained) | kw: the
+- **2026-07-02** | [Top 50 Python Interview Questions and Answers (2026 Guide)](https://excendra.com/blogs/top-python-interview-questions-and-answers/) | kw: top
+- **2026-07-02** | [Advanced Python Interview Questions & Answers | Medium](https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-713b953c71e5) | kw: advanced
+- **2026-07-02** | [Internals of Python 3.x: Derive Maximum Code Performance](https://scanlibs.com/internals-python-3-performance/) | kw: internals
+- **2026-07-02** | [Python Interview Questions: Key Features, Memory Management](https://www.linkedin.com/posts/abhay-tripathi-311382238_preparing-for-python-interviews-activity-7377348784231530498-JhXT) | kw: python
+- **2026-07-02** | [MEMORY_MANAGEMENT (0x1A) bsod fix Windows](https://compmaster.site/articles/bsod-memory-management-windows-10-11-2026.html) | kw: memory_management
+- **2026-07-02** | [GitHub - skyfirews/prep](https://github.com/skyfirews/prep) | kw: github
+
 - **2026-07-02** | [Welcome to Python.org](https://www.python.org/) | kw: python internals
 - **2026-07-02** | [PY4E - Python for Everybody](https://www.py4e.com/) | kw: python internals
 - **2026-07-02** | [Best Python Courses + Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python) | kw: python internals

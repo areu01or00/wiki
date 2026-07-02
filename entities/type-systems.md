@@ -41,6 +41,13 @@
 # Type Systems
 
 ## Updates
+- **2026-07-02** | [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | kw: elixir
+- **2026-07-02** | [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/) | kw: type
+- **2026-07-02** | [Navigating the Language Labyrinth: A 2026 Matrix Analysis of Typing and Paradigms](https://pookietech.site/blog/navigating-the-language-labyrinth-a-2026-matrix-analysis-of-typing-and-paradigms) | kw: navigating
+- **2026-07-02** | [PyCon US 2026 Typing Summit Recap - Bernát Gábor](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/) | kw: pycon
+- **2026-07-02** | [What type systems do you find interesting / useful / underrated?](https://www.reddit.com/r/ProgrammingLanguages/comments/1oj58xg/what_type_systems_do_you_find_interesting_useful/) | kw: what
+- **2026-07-02** | [Efficient Selection of Type Annotations for Performance - arXiv](https://arxiv.org/pdf/2603.05649) | kw: efficient
+
 - **2026-07-02** | [How TypeScript Infers Types Through Async Generators in 2026](https://medium.com/@jsmanifest/how-typescript-infers-types-through-async-generators-in-2026-df72c2f70980) | kw: type systems
 - **2026-07-02** | [Gradual Typing with Unication-based Inference](https://jsiek.github.io/home/dls08igtlc.pdf) | kw: type systems
 - **2026-07-02** | [Pyre Migrate Django: Gradual Typing Adoption 2025](https://johal.in/pyre-migrate-django-gradual-typing-adoption-2025-2/) | kw: type systems

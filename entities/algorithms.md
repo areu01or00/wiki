@@ -4117,6 +4117,15 @@
 
 
 ## Updates
+- **2026-07-02** | [Coding Interview Prep 2026: LeetCode Strategy That Works](https://precisionaiacademy.com/blog/coding-interview-prep-guide-2026) | kw: coding
+- **2026-07-02** | [ashishps1/awesome-leetcode-resources - GitHub](https://github.com/ashishps1/awesome-leetcode-resources) | kw: ashishps1/awesome-leetcode-resources
+- **2026-07-02** | [Namaste DSA Sheet | To Crack FAANG & PBC's Interviews](https://namastedev.com/namaste-dsa-sheet) | kw: namaste
+- **2026-07-02** | [The Ultimate Leetcode Roadmap: Data Structures & Algorithms Simplified](https://medium.com/@katravallicoding/the-ultimate-leetcode-roadmap-data-structures-algorithms-simplified-7564f84af829) | kw: the
+- **2026-07-02** | [2026 DSA Master Cheat Sheet for Coding Interviews](https://www.linkedin.com/posts/veerendra-manvi_dsa-datastructures-algorithms-activity-7476243600125882368-Kr9Z) | kw: 2026
+- **2026-07-02** | [Are Big Tech interviews still DSA, LeetCode-heavy in 2026, or has it changed?](https://www.reddit.com/r/careeradvice/comments/1tzzhde/are_big_tech_interviews_still_dsa_leetcodeheavy/) | kw: are
+- **2026-07-02** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are Actually Asking Senior Engineers Instead](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: leetcode
+- **2026-07-02** | [Most Asked LeetCode Problems in 2026 (40 Companies, Real Data)](https://www.dsaprep.dev/blog/most-asked-leetcode-problems-2026) | kw: most
+
 - **2026-07-02** | [Data Structure and Algorithm Patterns for LeetCode Interviews...](https://www.youtube.com/watch?v=Z_c4byLrNBU) | kw: algorithms
 - **2026-07-02** | [leetcode · GitHub Topics · GitHub](https://github.com/topics/leetcode) | kw: algorithms
 - **2026-07-02** | [datastructures-algorithms · GitHub Topics · GitHub](https://git.hubp.de/topics/datastructures-algorithms) | kw: algorithms

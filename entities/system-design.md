@@ -3619,6 +3619,12 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [Three Bold Predictions for Distributed Systems in 2026 - Axoniq](https://www.axoniq.io/blog/three-bold-predictions-for-distributed-systems-in-2026) | kw: three
+- **2026-07-02** | [I Designed 25 Distributed Systems in 25 Days. Here is the One Hidden Pattern I Found](https://medium.com/@cachecowboy/i-designed-25-distributed-systems-in-25-days-here-is-the-one-hidden-pattern-i-found-8db2608cd904) | kw: i
+- **2026-07-02** | [The Complete Guide to System Design in 2026 - DEV Community](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7) | kw: the
+- **2026-07-02** | [50 System Design Patterns Every Engineer Should Know in 90 Days](https://designgurus.substack.com/p/50-system-design-patterns-every-engineer) | kw: 50
+- **2026-07-02** | [9 Essential Software Architecture Patterns for Scalable Distributed Systems in 2026](https://www.reddit.com/r/softwarearchitecture/comments/1tl6qsr/9_essential_software_architecture_patterns_for/) | kw: 9
+
 - **2026-07-02** | [System Design Patterns: The Complete Guide 2026](https://www.systemdesignhandbook.com/guides/system-design-patterns/) | kw: system design
 - **2026-07-02** | [I Designed 25 Distributed Systems in 25 Days. Here is the One ...](https://medium.com/@cachecowboy/i-designed-25-distributed-systems-in-25-days-here-is-the-one-hidden-pattern-i-found-8db2608cd904) | kw: system design
 - **2026-07-02** | [12 Essential Distributed System Design Patterns Every Architect ...](https://antondevtips.com/blog/12-essential-distributed-system-design-patterns-every-architect-should-know) | kw: system design
