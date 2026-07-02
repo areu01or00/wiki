@@ -9511,6 +9511,36 @@
       "vector": "emergent_concept_search",
       "discovered": "2026-07-02T03:15:02.942268+00:00",
       "theme": "embedding geometry / anisotropy / representation learning"
+    },
+    {
+      "arxiv_id": "2607.01104",
+      "slug": "causalmix-data-mixture-as-causal-inference-for-language-model-training-2607.01104",
+      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
+      "url": "https://arxiv.org/abs/2607.01104",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T03:30:17.141789+00:00",
+      "theme": "training-data / causal-inference / data-mixture / llm-pretraining",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2606.31551",
+      "slug": "autotrainness-teaching-language-models-to-improve-language-models-autonomously-2606.31551",
+      "title": "AutoTrainess: Teaching Language Models to Improve Language Models Autonomously",
+      "url": "https://arxiv.org/abs/2606.31551",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T03:30:17.141789+00:00",
+      "theme": "autonomous-training / llm-self-improvement / post-training / agentic-pipeline",
+      "chain": "emergent-concepts"
+    },
+    {
+      "arxiv_id": "2607.01131",
+      "slug": "autonomous-scientific-discovery-via-iterative-meta-reflection-2607.01131",
+      "title": "Autonomous Scientific Discovery via Iterative Meta-Reflection",
+      "url": "https://arxiv.org/abs/2607.01131",
+      "vector": "emergent_concept_search",
+      "discovered": "2026-07-02T03:30:17.141789+00:00",
+      "theme": "autonomous-scientific-discovery / llm-agent / meta-reflection / research-automation",
+      "chain": "emergent-concepts"
     }
   ],
   "emergent_discoveries": [
@@ -16775,6 +16805,30 @@
       "url": "https://arxiv.org/abs/2605.29322",
       "discovered": "2026-07-02T03:15:02.942277+00:00",
       "theme": "embedding geometry / anisotropy / representation learning"
+    },
+    {
+      "arxiv_id": "2607.01104",
+      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
+      "slug": "causalmix-data-mixture-as-causal-inference-for-language-model-training-2607.01104",
+      "url": "https://arxiv.org/abs/2607.01104",
+      "discovered": "2026-07-02T03:30:17.141789+00:00",
+      "theme": "training-data / causal-inference / data-mixture / llm-pretraining"
+    },
+    {
+      "arxiv_id": "2606.31551",
+      "title": "AutoTrainess: Teaching Language Models to Improve Language Models Autonomously",
+      "slug": "autotrainness-teaching-language-models-to-improve-language-models-autonomously-2606.31551",
+      "url": "https://arxiv.org/abs/2606.31551",
+      "discovered": "2026-07-02T03:30:17.141789+00:00",
+      "theme": "autonomous-training / llm-self-improvement / post-training / agentic-pipeline"
+    },
+    {
+      "arxiv_id": "2607.01131",
+      "title": "Autonomous Scientific Discovery via Iterative Meta-Reflection",
+      "slug": "autonomous-scientific-discovery-via-iterative-meta-reflection-2607.01131",
+      "url": "https://arxiv.org/abs/2607.01131",
+      "discovered": "2026-07-02T03:30:17.141789+00:00",
+      "theme": "autonomous-scientific-discovery / llm-agent / meta-reflection / research-automation"
     }
   ],
   "emergent_concept_search_log": [
@@ -21973,6 +22027,18 @@
         "2605.29322"
       ],
       "method": "HF daily + web_search deep-sub-cluster",
+      "added": 3
+    },
+    {
+      "run": 329,
+      "date": "2026-07-02T03:30:17.141789+00:00",
+      "theme": "CAUSALMIX DATA MIXTURE / AUTOTRAINNESS AUTONOMOUS POST-TRAINING / AUTONOMOUS SCIENTIFIC DISCOVERY VIA META-REFLECTION",
+      "picks": [
+        "2607.01104",
+        "2606.31551",
+        "2607.01131"
+      ],
+      "method": "HF daily 3 dates (96 papers) + 13 fresh LLM candidates + 3 structurally orthogonal picks (causal data mixture + autonomous post-training + meta-reflection scientific discovery)",
       "added": 3
     }
   ],

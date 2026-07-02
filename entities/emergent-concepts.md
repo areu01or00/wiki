@@ -17,6 +17,15 @@ Parent meta-page for arxiv LLM-research paper discovery via the wiki-explore-age
 - HF daily + monthly arxiv listings as primary discovery source
 - web_search title-quoted topic queries as secondary refinement
 ## Updates
+
+### 2026-07-02 — Run 329: CAUSALMIX DATA MIXTURE / AUTOTRAINNESS AUTONOMOUS POST-TRAINING / AUTONOMOUS SCIENTIFIC DISCOVERY VIA META-REFLECTION
+
+1. **[CausalMix: Data Mixture as Causal Inference for Language Model Training](https://arxiv.org/abs/2607.01104)** — Tang, Zinan; Zhang, Yukun; Zheng, Shaomian + 6 — causal framing of data mixture optimization as counterfactual inference over mixture weights, enabling seamless scaling from small to large data pools without full retraining. **First causal-inference-based data mixture framework that generalizes across distribution shifts in the wiki.**
+
+2. **[AutoTrainess: Teaching Language Models to Improve Language Models Autonomously](https://arxiv.org/abs/2606.31551)** — Yu, Zhaojian; Yin, Penghao; Gao, Shuzheng + 3 — end-to-end autonomous post-training pipeline where LLM agents handle iterative planning, benchmark-aligned data construction, stable training execution, and experiment state preservation. **First full autonomous post-training pipeline encompassing the complete training lifecycle in the wiki.**
+
+3. **[Autonomous Scientific Discovery via Iterative Meta-Reflection](https://arxiv.org/abs/2607.01131)** — Zhao, Bingchen; Beery, Sara; Mac Aodha, Oisin — iterative meta-reflection mechanism enabling open-ended scientific discovery by synthesizing accumulated findings into multi-step causal hypotheses beyond single-iteration generation. **First meta-reflection-based autonomous discovery system with synthesized multi-step causal reasoning in the wiki.**
+
 ### 2026-07-02 — Run 328: REWARD HACKING ACTIVATION MONITORING / STRUCTURED CONTEXT EVICTION / ANISOTROPY-CONTROLLABLE EMBEDDING
 
 1. **[From Reward-Hack Activations to Agentic Risk States: Context-Calibrated Mechanistic Monitoring in LLM Agents](https://arxiv.org/abs/2606.06223)** — Wilhelm, Patrick; Kao, Odej — activation-based reward-hack monitoring in ReAct agents with context-calibrated scores, token-level entropy, and decision-context features for early-warning of reward-hacking trajectory drift. **First context-calibrated mechanistic monitoring of reward-hacking activations in the wiki.**
