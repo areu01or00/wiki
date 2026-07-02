@@ -17,6 +17,9 @@ Comprehensive log of AI/LLM model releases, API launches, weight drops, and majo
 - 🔓 OPEN SOURCE — fully open weights + training code
 
 ## Updates
+- **2026-07-02** | [Claude Sonnet 5 Deep Dive: Release, Benchmarks, Pricing](https://kie.ai/blog/claude-sonnet-5-deep-dive) | kw: BENCHMARK/PAPER | score: 6 | source: anthropic
+
+
 
 - **2026-07-01** | [Claude Sonnet 5 Official Launch — New Default Across All Plans](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) | kw: API LAUNCH | score: 9 | source: anthropic-claude
 - **2026-07-01** | [Claude Fable 5 Redeployment — Global Restore After US Export Controls Lifted](https://www.anthropic.com/news/redeploying-fable-5) | kw: OFFICIAL ANNOUNCEMENT | score: 8 | source: anthropic-claude
