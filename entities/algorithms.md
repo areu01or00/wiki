@@ -4117,6 +4117,13 @@
 
 
 ## Updates
+- **2026-07-02** | [Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Algorithm) | kw: algorithms
+- **2026-07-02** | [What is an Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) | kw: algorithms
+- **2026-07-02** | [Algorithms in Computer Science: A Complete Beginner's Guide with...](https://medium.com/@mjawad17/algorithms-in-computer-science-a-complete-beginners-guide-with-examples-types-and-analysis-7ae156894d2f) | kw: algorithms
+- **2026-07-02** | [Introduction to Algorithms | Electrical Engineering and Computer...](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | kw: algorithms
+- **2026-07-02** | [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) | kw: algorithms
+- **2026-07-02** | [What Is an Algorithm? Understanding the Logic Behind Modern...](https://www.sciencenewstoday.org/what-is-an-algorithm-understanding-the-logic-behind-modern-computing) | kw: algorithms
+
 - **2026-07-02** | [LeetCode Is Dead in 2026. Here Is What Top Companies Are ...](https://blog.stackademic.com/leetcode-is-dead-in-2026-here-is-what-top-companies-are-actually-asking-senior-engineers-instead-5e701897f84c) | kw: python-internals
 
 - **2026-07-02** | [How to prepare for Data Structures & Algorithms interview in 2026](https://www.youtube.com/watch?v=jKGApDjRT6Y) | kw: python-internals

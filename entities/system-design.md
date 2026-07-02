@@ -3619,6 +3619,9 @@
 - **2026-06-23** | [Microservices 101: A Beginner-Friendly Guide to Microservices Architecture - Medium](https://medium.com/@gpslakshan/microservices-101-a-beginner-friendly-guide-to-microservices-architecture-afe8834b5f22) | kw: Microservices 101: A Beginner-Friendly Guide to Microservice
 
 ## Updates
+- **2026-07-02** | [Home - Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) | kw: system-design
+- **2026-07-02** | [ACL Anthology](https://aclanthology.org/) | kw: system-design
+
 - **2026-07-02** | [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) | kw: python-internals
 
 - **2026-07-02** | [Centralized vs. Decentralized vs. Distributed Systems - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/comparison-centralized-decentralized-and-distributed-systems/) | kw: python-internals
